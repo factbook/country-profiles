@@ -141,7 +141,7 @@ _total population_: 0.87 male(s)/female (2023 est.)<br>
 27.3 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-19 deaths/100,000 live births (2017 est.)<br>
+18 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 4.78 deaths/1,000 live births<br>
@@ -469,9 +469,18 @@ _female_: 19.6% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 34.5 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 17.3% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 7.9% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
 _highest 10%_: 26.3% (2015)<br>
+
+**Remittances**<br>
+3.31% of GDP (2021 est.)<br>
+3.15% of GDP (2020 est.)<br>
+3.33% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $11.39 billion (2017 est.)<br>
@@ -610,7 +619,6 @@ _subscriptions per 100 inhabitants_: 115 (2021 est.)<br>
 _general assessment_: the telecom market continues to benefit from investment and from regulatory measures aimed at developing 5G and fiber based infrastructure; there is effective competition in the mobile market, with extensive services based on LTE-A technologies to boost data speeds; a large scale 5G deployment is not expected until 2023; in the fixed-line broadband sector, the country is ranked second highest in Europe (after Iceland) for fiber coverage and take-up, closely followed by Lithuania; with this infrastructure in place, the country has also developed a sophisticated digital economy, with e-commerce and e-government services widely available (2021)<br>
 _domestic_: fixed-line roughly 10 per 100 and mobile-cellular nearly 115 per 100 subscriptions (2021)<br>
 _international_: country code - 371; the Latvian network is now connected via fiber-optic cable to Estonia, Finland, and Sweden<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 several national and regional commercial TV stations are foreign-owned, 2 national TV stations are publicly owned; system supplemented by privately owned regional and local TV stations; cable and satellite multi-channel TV services with domestic and foreign broadcasts available; publicly owned broadcaster operates 4 radio networks with dozens of stations throughout the country; dozens of private broadcasters also operate radio stations<br>
@@ -638,7 +646,7 @@ _annual freight traffic on registered air carriers_: 4.01 million (2018) mt-km<b
 YL<br>
 
 **Airports**<br>
-_total_: 42 (2021)<br>
+42 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 18<br>

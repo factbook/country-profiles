@@ -146,7 +146,7 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-397 deaths/100,000 live births (2017 est.)<br>
+523 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 54.33 deaths/1,000 live births<br>
@@ -201,7 +201,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Benin is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Benin is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 9.6% (2016)<br>
@@ -289,7 +289,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Benin is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Benin is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 685,936 tons (1993 est.)<br>
@@ -490,6 +490,11 @@ _female_: 4.6% (2021 est.)<br>
 _lowest 10%_: 3.1%<br>
 _highest 10%_: 29% (2003)<br>
 
+**Remittances**<br>
+1.31% of GDP (2020 est.)<br>
+1.51% of GDP (2019 est.)<br>
+1.39% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.578 billion (2017 est.)<br>
 _expenditures_: $2.152 billion (2017 est.)<br>
@@ -628,7 +633,6 @@ _subscriptions per 100 inhabitants_: 98 (2021 est.)<br>
 _general assessment_: Benin&rsquo;s telecom market continues to be restricted by the poor condition of the country&rsquo;s fixed-line infrastructure; this has hampered the development of fixed-line voice and internet services, and there is negligible revenue derived from these sectors; mobile networks account for almost all internet connections, and also carry most voice traffic; there is promise for considerable change in the mobile sector; slow progress is being made in developing competition in the mobile sector; in May 2021 the government sought foreign companies to bid for a fourth mobile license; improved international internet connectivity has contributed to a reduction in end-user pricing, and provided the potential to transform many areas of the country&rsquo;s economy, bringing a greater proportion of the population into the orbit of internet commerce and connectivity; a 2,000km fiber project started in 2016 was finally completed in mid-2021, prompting the government to secure a loan to build additional fiber infrastructure connecting four of the country&rsquo;s 12 departments (2022)<br>
 _domestic_: fixed-line teledensity less than 1 per 100 people; mobile cellular subscriptions are 98 per 100 people (2021)<br>
 _international_: country code - 229; landing points for the SAT-3/WASC and ACE fiber-optic submarine cable that provides connectivity to Europe, and&nbsp;most West African countries; satellite earth stations - 7 (Intelsat-Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-run Office de Radiodiffusion et de Television du Benin (ORTB) operates a TV station providing a wide broadcast reach; several privately owned TV stations broadcast from Cotonou; satellite TV subscription service is available; state-owned radio, under ORTB control, includes a national station supplemented by a number of regional stations; substantial number of privately owned radio broadcast stations; transmissions of a few international broadcasters are available on FM in Cotonou (2019)<br>
@@ -656,7 +660,7 @@ _annual freight traffic on registered air carriers_: 805,347 (2015) mt-km<br>
 TY<br>
 
 **Airports**<br>
-_total_: 6 (2021)<br>
+6 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
@@ -707,10 +711,10 @@ Beninese Armed Forces (Forces Armees Beninoises, FAB; aka Benin Defense Forces):
 approximately 7,000 active-duty troops; estimated 5,000 Republican Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAB is equipped with a small mix of mostly older French, Soviet-era, and US equipment (2022)<br>
+the FAB is equipped with a small mix of mostly older or secondhand French, Soviet-era, and US equipment (2023)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age for voluntary and selective compulsory military service; a higher education diploma is required; both sexes are eligible for military service; conscript service is 18 months (2022)<br>
+18-35 years of age for voluntary and selective compulsory military service for men and women; a higher education diploma is required; conscript service is 18 months (2023)<br>
 
 **Military deployments**<br>
 260 (plus about 160 police) Mali (MINUSMA) (May 2022)<br>
@@ -719,7 +723,7 @@ the FAB is equipped with a small mix of mostly older French, Soviet-era, and US 
 a key focus for the security forces of Benin is countering infiltrations into the country by terrorist groups tied to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS) operating just over the border from north Benin in Burkina Faso and Niger; in May 2022, the Benin Government said it was "at war" after suffering a series of attacks from these groups; later that same year, President TALON said his government would spend more than $130 million to recruit up to 4,000 additional military personnel, modernize military equipment, and build and fortify operating bases; in addition, the FAB participates in the Multinational Joint Task Force (MNJTF) along with Cameroon, Chad, Niger, and Nigeria against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border <br><br>the FAB has a close working relationship with the Belgian armed forces; the Belgians offer military advice, training, and second-hand equipment donations, and deploy to Benin for limited military exercises (2023)<br>
 
 **Maritime threats**<br>
-<p>the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"</p><br>
+<p>The International Maritime Bureau reported no incidents in 2022 in the waters off Benin; past incidents have been reported where vessels were attacked and crews kidnapped; these incidents showed that the pirates / robbers in the area are well armed and violent; pirates have robbed vessels and kidnapped crews for ransom; in the past, product tankers were hijacked and cargo stolen; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"</p><br>
 
 ## Terrorism
 

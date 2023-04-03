@@ -155,7 +155,7 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-524 deaths/100,000 live births (2017 est.)<br>
+238 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 30.25 deaths/1,000 live births<br>
@@ -336,10 +336,10 @@ _etymology_: the country's name is a combination of the first letters of Tangany
 presidential republic<br>
 
 **Capital**<br>
-_name_: Dodoma (national capital); note - Dodoma, designated the national capital in 1996, serves as the meeting place for the National Assembly; Dar es Salaam, the original national capital and the country's largest city and commercial center, remains the site of the executive branch offices and diplomatic representation<br>
+_name_: Dodoma; note - Dodoma was designated the national capital in 1996; Dar es Salaam, the original national capital, is the country's largest city and commercial center&nbsp;<br>
 _geographic coordinates_: 6 48 S, 39 17 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: Dar es Salaam was the name given by Majid BIN SAID, the first sultan of Zanzibar, to the new city he founded on the Indian Ocean coast; the Arabic name is commonly translated as "abode/home of peace"; Dodoma, in the native Gogo language, means "it has sunk"; supposedly, one day during the rainy season, an elephant drowned in the area; the villagers in that place were so struck by what had occurred, that ever since the locale has been referred to as the place where "it (the elephant) sunk"<br>
+_etymology_: Dodoma, in the native Gogo language, means "it has sunk"; supposedly, one day during the rainy season, an elephant drowned in the area; the villagers in that place were so struck by what had occurred, that ever since the locale has been referred to as the place where "it (the elephant) sunk"<br>
 
 **Administrative divisions**<br>
 31 regions; Arusha, Dar es Salaam, Dodoma, Geita, Iringa, Kagera, Kaskazini Pemba (Pemba North), Kaskazini Unguja (Zanzibar North), Katavi, Kigoma, Kilimanjaro, Kusini Pemba (Pemba South), Kusini Unguja (Zanzibar Central/South), Lindi, Manyara, Mara, Mbeya, Mjini Magharibi (Zanzibar Urban/West), Morogoro, Mtwara, Mwanza, Njombe, Pwani (Coast), Rukwa, Ruvuma, Shinyanga, Simiyu, Singida, Songwe, Tabora, Tanga<br>
@@ -503,9 +503,18 @@ _female_: 5.5% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 40.5 (2017 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 33.1% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 4.2% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 29.6% (2007)<br>
+
+**Remittances**<br>
+0.52% of GDP (2020 est.)<br>
+0.71% of GDP (2019 est.)<br>
+0.72% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $7.873 billion (2017 est.)<br>
@@ -645,7 +654,6 @@ _subscriptions per 100 inhabitants_: 82.21 (2019)<br>
 _general assessment_: Tanzania&rsquo;s telecom sector enjoys effective competition, particularly in the mobile segment; the government has encouraged foreign participation to promote economic growth and social development, and policy reforms have led to the country having one of the most liberal telecom sectors in Africa; the government has sought to increase broadband penetration by a range of measures, including the reduction in VAT charged on the sale of smartphones and other devices, and reductions in the cost of data; the MNOs became the leading ISPs following the launch of mobile broadband services based on 3G and LTE technologies; operators are hoping for revenue growth in the mobile data services market, given that the voice market is almost entirely prepaid; the MNOs have invested in network upgrades, which in turn has supported m-mobile data use, as well as m-money transfer services and banking services. Together, these have become a fast-developing source of revenue; the landing of the first international submarine cables in the country some years ago revolutionized the telecom market, which up to that point had entirely depended on expensive satellite connections; the government aims to complete a national fiber backbone network, having signed an agreement; in late 2021, the government announced plans to extend the national backbone network from about 8,300km to 15,000km by 2023, and to provide ongoing connectivity to more countries in the region (2022)<br>
 _domestic_: fixed-line telephone network inadequate with less than 1 connection per 100 persons; mobile-cellular service, aided by multiple providers, is increasing rapidly and exceeds 86 telephones per 100 persons; trunk service provided by open-wire, microwave radio relay, tropospheric scatter, and fiber-optic cable; some links being made digital (2020)<br>
 _international_: country code - 255; landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEAS&nbsp;fiber-optic submarine cable system linking East Africa with the Middle East; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 according to statistics from the Tanzania Communications Regulatory Authority (TCRA), Tanzania had 45 television stations as of 2020; 13 of those stations provided national content services (commercially broadcasting free-to-air television); there are 196 radio stations, most operating at the district level, but also including 5 independent nationally broadcasting stations and 1 state-owned national radio station; international broadcasting is available through satellite television which is becoming increasingly widespread; there are 3 major satellite TV providers (2020)<br>
@@ -673,7 +681,7 @@ _annual freight traffic on registered air carriers_: 390,000 (2018) mt-km<br>
 5H<br>
 
 **Airports**<br>
-_total_: 166 (2021)<br>
+166 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 10<br>
@@ -733,13 +741,14 @@ approximately 25,000 active duty personnel (21,000 Land Forces; 1,000 Naval Forc
 the TPDF's inventory includes mostly Soviet-era and Chinese equipment; in recent years, China has been the leading supplier of arms to the TPDF (2022)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2022)<br>
+18-25 years of age for voluntary military service; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2023)<br>
 
 **Military deployments**<br>
-450 Central African Republic (MINUSCA); 850 Democratic Republic of the Congo (MONUSCO); 125 Lebanon (UNIFIL) (May 2022)<br>
+450 Central African Republic (MINUSCA); 850 Democratic Republic of the Congo (MONUSCO); 125 Lebanon (UNIFIL) (2022)<br>
+<strong>note:</strong> in 2021, Tanzania began contributing troops to the Southern African Development Community (SADC) intervention force that was assisting the Mozambique Government's fight against Islamic militants<br>
 
 **Military - note**<br>
-in 2021, Tanzania contributed troops to the Southern African Development Community (SADC) intervention force that was assisting the Mozambique Government's fight against Islamic militants (2023)<br>
+the TDPF&rsquo;s primary concerns are maritime piracy and smuggling, border security, terrorism, animal poaching, and spillover from instability in neighboring countries, particularly Mozambique and the Democratic Republic of the Congo (DRC); it participates in multinational training exercises, regional peacekeeping deployments, and has ties with a variety of foreign militaries, including those of China and the US; it has contributed troops to the UN&rsquo;s Force Intervention Brigade in the DRC and to the Southern African Development Community intervention force in Mozambique; since 2020, the TPDF has deployed additional troops to its border with Mozambique following several cross-border attacks by fighters from the Islamic State of Iraq and ash-Sham operating in Mozambique; the TPDF&rsquo;s principal ground forces are 5 infantry brigades and an armored brigade; the Naval Forces operate patrol and fast attack boats, while the Air Force inventory includes small numbers of combat aircraft and helicopters (2023)<br>
 
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports that shipping in territorial and offshore waters in the Indian Ocean remain at risk for piracy and armed robbery against ships</p><br>
@@ -756,7 +765,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 80,043 (Democratic Republic of the Congo) (2022); 126,608 (Burundi) (2023)<br>
+_refugees (country of origin)_: &nbsp;126,159 (Burundi), 79,823 (Democratic Republic of the Congo) (2023)<br>
 
 **Illicit drugs**<br>
 <p>significant transit country for illicit drugs in East Africa; international drug-trafficking organizations and courier networks transit through Tanzania to smuggle heroin and methamphetamine from Southwest Asia; produces cannabis products and khat for domestic consumption and regional and international distribution; traffickers influence politicians, law enforcement, and others in positions of power with money</p> (2021)<br>

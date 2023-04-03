@@ -142,7 +142,7 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 26.9 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-7 deaths/100,000 live births (2017 est.)<br>
+3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 7.16 deaths/1,000 live births<br>
@@ -465,9 +465,18 @@ _female_: 38.4% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 33 (2018 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 30.8% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 7.3% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
 _highest 10%_: 25% (2015 est.)<br>
+
+**Remittances**<br>
+3.54% of GDP (2021 est.)<br>
+3.34% of GDP (2020 est.)<br>
+2.52% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $3.295 billion (2017 est.)<br>
@@ -606,7 +615,6 @@ _subscriptions per 100 inhabitants_: 89 (2020 est.)<br>
 _general assessment_: as part of the EU pre-accession process, North Macedonia has built closer economic ties with the Union which accounts for 77.5% of Macedonia&rsquo;s exports and just over half of its imports; closer regulatory and administrative ties with European Commission (EC) institutions have done much to develop the telecom sector and prepare the market for the competitive environment encouraged in the EU; as part of EU integration legislation North Macedonia has implemented the principles of the EU&rsquo;s regulatory framework for communications, established an independent regulator and set out several provisions to provide for a competitive telecom market, including wholesale access to the incumbent&rsquo;s fixed-line network; broadband services are widely available, with effective competition between DSL and cable platforms complemented by wireless broadband and a developing fiber sector; the number of DSL subscribers has continued to fall in recent years as customers are migrated to fiber networks; the MNOs are increasingly focused on expanding their 5G networks, seeking stronger coverage across North Macedonia&rsquo;s high value urban areas; mobile data services are also becoming increasingly important following investments in LTE network rollouts and in upgrades to LTE-A technology (2022)<br>
 _domestic_: fixed-line roughly 20 per 100 and mobile-cellular 89 per 100 subscriptions (2020)<br>
 _international_: country code - 389<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 public service TV broadcaster Macedonian Radio and Television operates 3 national terrestrial TV channels and 2 satellite TV channels; additionally, there are 10 regional TV stations that broadcast nationally using terrestrial transmitters, 54 TV channels with concession for cable TV, 9 regional TV stations with concessions for cable TV; 4 satellite TV channels broadcasting on a national level, 21 local commercial TV channels, and a large number of cable operators that offer domestic and international programming; the public radio broadcaster operates over 3 stations; there are 4 privately owned radio stations that broadcast nationally; 17 regional radio stations, and 49 local commercial radio stations (2019)<br>
@@ -628,7 +636,7 @@ _subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
 Z3<br>
 
 **Airports**<br>
-_total_: 10 (2021)<br>
+10 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 8<br>
@@ -658,7 +666,7 @@ Army of the Republic of North Macedonia (ARSM; includes a General Staff and subo
 <strong>note:</strong> the Operations Command includes air, ground, special operations, support, and reserve forces<br>
 
 **Military expenditures**<br>
-1.8% of GDP (2022 est.)<br>
+1.6% of GDP (2022 est.)<br>
 1.5% of GDP (2021)<br>
 1.3% of GDP (2020)<br>
 1.2% of GDP (2019) (approximately $310 million)<br>
@@ -689,7 +697,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,514 (Ukraine) (as of 6 March 2023)<br>
+_refugees (country of origin)_: 6,538 (Ukraine) (as of 19 March 2023)<br>
 _stateless persons_: 521 (2022)<br>
 <strong>note:</strong> 552,030 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 

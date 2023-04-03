@@ -304,7 +304,7 @@ _percent of population_: 36% (2016 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

@@ -464,7 +464,6 @@ _subscriptions per 100 inhabitants_: 76 (2015 est.)<br>
 _general assessment_: adequate (2019)<br>
 _domestic_: fixed-line teledensity 76 per 100 persons (2019)<br>
 _international_: country code - 508; landing point for the St Pierre and Miquelon Cable connecting Saint Pierre&nbsp;&amp; Miquelon and Canada; radiotelephone communication with most countries in the world; satellite earth station - 1 in French domestic satellite system (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 8 TV stations, all part of the French Overseas Network, and local cable provided by SPM Telecom; 3 of 4 radio stations on St. Pierre and on Miquelon are part of the French Overseas Network (2021)<br>
@@ -479,7 +478,7 @@ _percent of population_: 79.5% (2016 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 2 (2021)<br>
+2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>

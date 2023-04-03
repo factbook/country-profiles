@@ -156,7 +156,7 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-401 deaths/100,000 live births (2017 est.)<br>
+267 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 32.44 deaths/1,000 live births<br>
@@ -212,7 +212,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Ethiopia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Ethiopia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 4.5% (2016)<br>
@@ -301,7 +301,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Ethiopia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Ethiopia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to conflict in Tigray Region, drought conditions in southeastern areas, high food prices -</em> The difficult and worsening food security situation is the result of multiple shocks affecting food availability and access including: the conflict in northern Tigray Region and in adjacent areas of Amhara and Afar regions, which began in November 2020; in Tigray region alone, 5.3 million people are estimated to be severely food insecure; the failure of the March‑May 2022 “Gu‑Genna” rains in southern pastoral areas of southern Oromiya Region and southern Somali Region, exacerbated drought conditions prevailing since late 2020, causing severe crop and livestock losses; severe macroeconomic challenges including insufficient foreign currency reserves and the continuous depreciation of the national currency, as a result, inflation is at very high levels, with the year‑on‑year food inflation rate estimated at 35.5 percent in July, one the highest of the last decade; these difficulties are exacerbated by the ripple effects of the Ukraine war, which triggered hikes in international prices of wheat, fuel, and fertilizers (2023)<br>
@@ -519,9 +519,18 @@ _female_: 7.2% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 35 (2015 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 56.6% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.8% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.1%<br>
 _highest 10%_: 25.6% (2005)<br>
+
+**Remittances**<br>
+0.4% of GDP (2021 est.)<br>
+0.38% of GDP (2020 est.)<br>
+0.5% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $11.24 billion (2017 est.)<br>
@@ -651,18 +660,17 @@ _Total energy consumption per capita 2019_: 3.219 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.252 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total subscriptions_: 890,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 44.5 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 39 (2020 est.)<br>
+_total subscriptions_: 65 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 54 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: has been one of the last in Africa to allow its national telco a monopoly on all telecom services including fixed, mobile, internet and data communications; this has stifled innovation, restricted network expansion, and limited the scope of services on offer; the World Bank in early 2021 provided a $200 million loan to help develop the country&rsquo;s digital transformation, while the government has embarked on its 2020-2030 program as well as its Digital Ethiopia 2025 strategy, both aimed at making better use of digital technologies to promote socioeconomic development (2021)<br>
-_domestic_: fixed-line subscriptions at about 1 per 100 while mobile-cellular stands at a little over 39 per 100; the number of mobile telephones is increasing steadily (2020)<br>
+_domestic_: fixed-line subscriptions less than 1 per 100 while mobile-cellular stands at a little over 54 per 100 people (2021)<br>
 _international_: country code - 251; open-wire to Sudan and Djibouti; microwave radio relay to Kenya and Djibouti; 2 domestic satellites provide the national trunk service; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Pacific Ocean) (2016)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 6 public TV stations broadcasting nationally and 10 public radio broadcasters; 7 private radio stations and 19 community radio stations (2017)<br>
@@ -690,7 +698,7 @@ _annual freight traffic on registered air carriers_: 2,089,280,000 (2018) mt-km<
 ET<br>
 
 **Airports**<br>
-_total_: 57 (2021)<br>
+57 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 17<br>
@@ -741,8 +749,8 @@ information varies; prior to the 2020-2022 Tigray conflict, approximately 150,00
 the ENDF's inventory is comprised mostly of Russian and Soviet-era equipment; in recent years, the ENDF has received arms from a variety of countries, including China, Israel, Russia, Turkey, Ukraine, and the United Arab Emirates; Ethiopia has a modest industrial defense base centered on small arms and production of armored vehicles (2023)<br>
 
 **Military service age and obligation**<br>
-18-22 years of age for voluntary military service (although the military may, when necessary, recruit a person more than 22 years old); no compulsory military service, but the military can conduct callups when necessary and compliance is compulsory (2022)<br>
-<strong>note:</strong> in November 2021, the Ethiopian Government issued a nationwide state of emergency that enabled officials to order military-age citizens to undergo training and accept military duty in support of the Tigray conflict; the order also recalled retired military officers to active duty<br>
+18-22 years of age for voluntary military service (although the military may, when necessary, recruit a person more than 22 years old); no compulsory military service, but the military can conduct callups when necessary and compliance is compulsory (2023)<br>
+<strong>note:</strong> during the 2020-2022 Tigray conflict, the Ethiopian Government issued a nationwide state of emergency that enabled officials to order military-age citizens to undergo training and accept military duty; the order also recalled retired military officers to active duty<br>
 
 **Military deployments**<br>
 5-8,000 Somalia (approximately 4,000 for ATMIS; the remainder under a bilateral agreement with Somalia; note - bilateral figures are prior to the 2020-22 conflict with Tigray); 250 Sudan (UNISFA); 1,450 South Sudan (UNMISS) (2022)<br>
@@ -762,8 +770,8 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Ethiopia-Eritrea:</em> Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement <br><br><em>Ethiopia-Somalia:</em> While border clashes continue in the al-Fashqa (Fashaga) area, the US views the 1902 boundary treaty between Ethiopia and Sudan as being in force; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; <br><br><em>Ethiopia-Sudan:</em> Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 410,727 (South Sudan), 252,496 (Somalia), 163,251 (Eritrea), 48,743 (Sudan) (2023)<br>
-_IDPs_: 2.72 million (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2022)<br>
+_refugees (country of origin)_: 412,594 (South Sudan), 253,069 (Somalia), 163,656 (Eritrea), 48,881 (Sudan) (2023)<br>
+_IDPs_: 2.73 million (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2023)<br>
 
 **Illicit drugs**<br>
 transit hub for heroin originating in Southwest and Southeast Asia and destined for Europe, as well as cocaine destined for markets in southern Africa; cultivates qat (khat) for local use and regional export, principally to Djibouti and Somalia (legal in all three countries); the lack of a well-developed financial system limits the country's utility as a money laundering center<br>

@@ -386,6 +386,11 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+0.16% of GDP (2020 est.)<br>
+0.24% of GDP (2019 est.)<br>
+0.26% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $874.5 million (2017 est.)<br>
 _expenditures_: $766.6 million (2017 est.)<br>
@@ -504,18 +509,17 @@ _Total energy consumption per capita 2019_: 175.578 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 36,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 55 (2020 est.)<br>
+_total subscriptions_: 36,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 53 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 100,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 152 (2020 est.)<br>
+_total subscriptions_: 100,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 150 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
-_domestic_: introduction of competition in the mobile-cellular market in 2004 boosted subscriptions; nearly 55 per 100 fixed-line and 152 per 100 mobile-cellular (2020)<br>
+_domestic_: 53 per 100 fixed-line and 150 per 100 mobile-cellular (2021)<br>
 _international_: country code - 1-345; landing points for the Maya-1, Deep Blue Cable, and the Cayman-Jamaica Fiber System submarine cables that provide links to the US and parts of Central and South America; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 4 TV stations; cable and satellite subscription services offer a variety of international programming; government-owned Radio Cayman operates 2 networks broadcasting on 5 stations; 10 privately owned radio stations operate alongside Radio Cayman<br>
@@ -541,7 +545,7 @@ _inventory of registered aircraft operated by air carriers_: 6<br>
 VP-C<br>
 
 **Airports**<br>
-_total_: 3 (2021)<br>
+3 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 3<br>

@@ -151,7 +151,7 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-597 deaths/100,000 live births (2017 est.)<br>
+458 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 36.44 deaths/1,000 live births<br>
@@ -207,7 +207,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; The Gambia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; The Gambia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 10.3% (2016)<br>
@@ -291,7 +291,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; The Gambia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; The Gambia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 193,441 tons (2002 est.)<br>
@@ -488,6 +488,11 @@ _female_: 20.5% (2021 est.)<br>
 _lowest 10%_: 2%<br>
 _highest 10%_: 36.9% (2003)<br>
 
+**Remittances**<br>
+26.84% of GDP (2021 est.)<br>
+22.98% of GDP (2020 est.)<br>
+15.21% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $300.4 million (2017 est.)<br>
 _expenditures_: $339 million (2017 est.)<br>
@@ -615,18 +620,17 @@ _Total energy consumption per capita 2019_: 3.547 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 60,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
+_total subscriptions_: 60,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,677,954 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 111 (2020 est.)<br>
+_total subscriptions_: 27 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Gambia&rsquo;s telecom market has five mobile networks providing effective competition; mobile subscriptions are well above the African average, itself a testament to the poor condition of the fixed-line infrastructure and the lack of availability of fixed services in many rural areas of the country; there are only four licensed ISPs, which are small networks serving local areas, and so competition is minimal; their limited services are complemented by the fixed-wireless offerings of three of the MNOs; the government has embarked on a National Broadband Network program aimed at closing the digital divide affecting many parts of the country; despite efforts to improve internet connectivity, the country ranks among the lowest globally in terms of digital readiness. (2022)<br>
-_domestic_: fixed-line subscriptions nearly 2 per 100 with one dominant company and mobile-cellular teledensity nearly 111 per 100 persons (2020)<br>
+_domestic_: fixed-line subscriptions are 2 per 100 and&nbsp; mobile-cellular teledensity nearly 110 per 100 persons (2021)<br>
 _international_: country code - 220; landing point for the ACE submarine cable to West Africa and Europe; microwave radio relay links to Senegal and Guinea-Bissau;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 <p>1 state-run TV-channel; one privately-owned TV-station; 1 Online TV-station; three state-owned radio station and 31 privately owned radio stations; eight community radio stations; transmissions of multiple international broadcasters are available, some via shortwave radio; cable and satellite TV subscription services are obtainable in some parts of the country </p> (2019)<br>
@@ -653,7 +657,7 @@ _annual passenger traffic on registered air carriers_: 53,735 (2018)<br>
 C5<br>
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
@@ -683,9 +687,9 @@ Gambian Armed Forces (GAF): the Gambian National Army (GNA), Gambia Navy, Gambia
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020 est.)<br>
-0.8% of GDP (2019 est.) (approximately $25 million)<br>
-0.7% of GDP (2018 est.) (approximately $20 million)<br>
-0.7% of GDP (2017 est.) (approximately $20 million)<br>
+0.8% of GDP (2019 est.)<br>
+0.7% of GDP (2018 est.)<br>
+0.7% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 3,000 active troops (2022)<br>

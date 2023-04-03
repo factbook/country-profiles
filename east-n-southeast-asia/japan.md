@@ -145,7 +145,7 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 30.7 years (2018 est.)<br>
 
 **Maternal mortality ratio**<br>
-5 deaths/100,000 live births (2017 est.)<br>
+4 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 1.88 deaths/1,000 live births<br>
@@ -476,9 +476,18 @@ _female_: 4.1% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 32.9 (2013 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 16% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
 _highest 10%_: 24.8% (2008)<br>
+
+**Remittances**<br>
+0.11% of GDP (2021 est.)<br>
+0.1% of GDP (2020 est.)<br>
+0.09% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $1.714 trillion (2017 est.)<br>
@@ -593,6 +602,7 @@ _consumption_: 102,108,738,000 cubic meters (2019 est.)<br>
 _exports_: 28,000 cubic meters (2019 est.)<br>
 _imports_: 105,255,103,000 cubic meters (2019 est.)<br>
 _proven reserves_: 20.898 billion cubic meters (2021 est.)<br>
+<strong>note: </strong>Japan had been the largest global liquefied natural gas (LNG) importer until 2021 when it was exceeded by China; prior to 2021, Japan had been the largest importer of LNG for 51 years; Japan has the largest LNG storage tank capacity in the world, or about 643 million cubic feet (MMcf) as of early 2020; in 2019, Japan sourced 28% of its LNG imports from regional suppliers in Southeast Asia and 39% from Australia<br>
 
 **Carbon dioxide emissions**<br>
 _total emissions_: 1,103,234,000 metric tonnes of CO2 (2019 est.)<br>
@@ -617,7 +627,6 @@ _subscriptions per 100 inhabitants_: 154 (2020 est.)<br>
 _general assessment_: Japan has one of the best developed telecom markets globally, the fixed-line segment remains stagnant and the focus for growth is in the mobile sector; the MNOs have shifted their investment from LTE to 5G, and growth in 5G showed early promise although there have been recent setbacks; these have partly been attributed to the economic difficulties, the impact of restrictions imposed during the pandemic, and unfavourable investment climate (not helped by the delay of the Tokyo Olympics from 2020 to 2021), and to restrictions in the supply of 5G-enabled devices; the fixed broadband market is dominated by fiber, with a strong cable platform also evident; fiber will continue to increase its share of the fixed broadband market, largely at the expense of DSL; the mobile market is dominated by three MNOs, mobile broadband subscriber growth is expected to be relatively low over the next five years, partly due to the high existing subscriptions though growth has been stimulated by measures which have encouraged people to school and work from home; there has also been a boost in accessing entertainment via mobile devices since 2020; plans to provide 55% population coverage with 5G by March 2022 and nationwide 5G coverage by 2023 (2021)<br>
 _domestic_: high level of modern technology and excellent service of every kind; 49 per 100 for fixed-line and 152 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 81; numerous submarine cables with landing points for HSCS, JIH, RJCN, APCN-2, JUS, EAC-C2C, PC-1, Tata TGN-Pacific, FLAG North Asia Loop/REACH North Asia Loop, APCN-2, FASTER, SJC, SJC2, Unity/EAC-Pacific, JGA-N, APG, ASE, AJC, JUPITER, MOC, Okinawa Cellular Cable, KJCN, GOKI, KJCN, and SeaMeWE-3, submarine cables provide links throughout Asia, Australia, the Middle East, Europe, Southeast Asia, Africa&nbsp;and US; satellite earth stations - 7 Intelsat (Pacific and Indian Oceans), 1 Intersputnik (Indian Ocean region), 2 Inmarsat (Pacific and Indian Ocean regions), and 8 SkyPerfect JSAT (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 a mixture of public and commercial broadcast TV and radio stations; 6 national terrestrial TV networks including 1 public broadcaster; the large number of radio and TV stations available provide a wide range of choices; satellite and cable services provide access to international channels (2019)<br>
@@ -645,7 +654,7 @@ _annual freight traffic on registered air carriers_: 9,420,660,000 (2018) mt-km<
 JA<br>
 
 **Airports**<br>
-_total_: 175 (2021)<br>
+175 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 142<br>
@@ -688,7 +697,7 @@ _by type_: bulk carrier 148, container ship 45, general cargo 1,900, oil tanker 
 **Ports and terminals**<br>
 _major seaport(s)_: Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, Tomakomai, Yokohama<br>
 _container port(s) (TEUs)_: Kobe (2,823,774), Nagoya (2,725,597), Osaka (2,425,638), Tokyo (4,325,956), Yokohama (2,861,197) (2021)<br>
-_LNG terminal(s) (import)_: Chita, Fukwoke, Futtsu, Hachinone, Hakodate, Hatsukaichi, Higashi Ohgishima, Higashi Niigata, Himeiji, Joetsu, Kagoshima, Kawagoe, Kita Kyushu, Mizushima, Nagasaki, Naoetsu, Negishi, Ohgishima, Oita, Sakai, Sakaide, Senboku, Shimizu, Shin Minato, Sodegaura, Tobata, Yanai, Yokkaichi<br>
+_LNG terminal(s) (import)_: Chita, Chita Midorihama, Fukuoka, Futtsu, Hachinone, Hakodate, Hatsukaichi, Higashi Ohgishima, Higashi Niigata, Himeiji, Hitachi, Ishikari, Joetsu, Kagoshima, Kawagoe, Hibiki, Mitzushima, Nagasaki, Naoetsu, Negishi, Ohgishima, Oita, Sakai, Sakaide, Senboku, Shin Minato, Shin-Sendai, Sodeshi Shimizu, Sodegaura, Soma, Tobata, Toyama Shinko, Yanai, Yokkaichi, Yoshinoura<br>
 Okinawa - Nakagusuku<br>
 
 **Transportation - note**<br>
@@ -721,7 +730,7 @@ the JSDF is equipped with a mix of imported and domestically produced equipment;
 approximately 180 Djibouti (2022)<br>
 
 **Military - note**<br>
-Japan was disarmed after its defeat in World War II; shortly after the Korean War began in 1950, US occupation forces in Japan created a 75,000-member lightly armed force called the National Police Reserve; the current Self Defense Force was founded in 1954 <br><br>in addition to having one of the region’s largest and best equipped militaries, Japan’s alliance with the US (signed in 1951) is one of the cornerstones of the country’s security, as well as a large part of the US security role in Asia; as of 2023, approximately 55,000 US troops and other military assets, including aircraft and naval ships, were stationed in Japan and had exclusive use of more than 80 bases and facilities; in exchange for their use, the US guarantees Japan’s security; the Japanese Government provides about $2 billion per year to offset the cost of stationing US forces in Japan; in addition, it pays compensation to localities hosting US troops, rent for bases, and costs for new facilities to support the US presence <br><br>Japan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2023)<br>
+Japan was disarmed after its defeat in World War II; shortly after the Korean War began in 1950, US occupation forces in Japan created a 75,000-member lightly armed force called the National Police Reserve; the Japan Self-Defense Force (JSDF) was founded in 1954<br><br>Japan’s alliance with the US (signed in 1951) is one of the cornerstones of the country’s security, as well as a large part of the US security role in Asia; approximately 55,000 US troops and other military assets, including aircraft and naval ships, are stationed in Japan and hav exclusive use of more than 80 bases and facilities; in exchange for their use, the US guarantees Japan’s security; the Japanese Government provides about $2 billion per year to offset the cost of stationing US forces in Japan; in addition, it pays compensation to localities hosting US troops, rent for bases, and costs for new facilities to support the US presence; Japan also has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
 
 ## Terrorism
 

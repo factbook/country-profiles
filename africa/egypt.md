@@ -158,7 +158,7 @@ _total population_: 1.06 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-37 deaths/100,000 live births (2017 est.)<br>
+17 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 17.27 deaths/1,000 live births<br>
@@ -499,9 +499,18 @@ _female_: 59.5% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 31.5 (2017 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 33.3% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 4.7% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4%<br>
 _highest 10%_: 26.6% (2008)<br>
+
+**Remittances**<br>
+7.79% of GDP (2021 est.)<br>
+8.1% of GDP (2020 est.)<br>
+8.84% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $42.32 billion (2017 est.)<br>
@@ -629,18 +638,17 @@ _Total energy consumption per capita 2019_: 40.063 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 9,858,331 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 10 (2020 est.)<br>
+_total subscriptions_: 11,030,900 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 95,357,427 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 93 (2020 est.)<br>
+_total subscriptions_: 103,449,427 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 95 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Egypt&rsquo;s large telecom market is supported by a population of about 108 million and benefits from effective competition in most sectors; a liberal regulatory regime allows for unified licenses which permit operators to offer fixed-line as well as mobile services; in recent years the government has developed a number of digital migration projects aimed at increasing average broadband speeds, delivering fiber broadband to about 60% of the population, developing an in-house satellite program, and creating a knowledge-based economy through the greater adoption of ICTs; the New Administrative Capital being built is only one of more than a dozen smart city projects, which together are stimulating investment in 5G and fiber broadband, as well as the adoption of IoT and AI solutions; the country endeavors to be a significant ICT hub in the North Africa and Middle East regions; Egypt&rsquo;s mature mobile market has one of the highest subscription rates in Africa; progress in the adoption of mobile data services has been hampered by the lack of sufficient spectrum; the regulator in September 2020 made available 60MHz in the 2.6GHz band, though the spectrum was not allocated until late 2021; the additional spectrum will go far to enabling the MNOs to improve the quality of mobile broadband services offered; further 5G trials are to be held later in 2022, focused on the New Administrative Capital; the international cable infrastructure remains an important asset for Egypt, which benefits from its geographical position; Telecom Egypt has become one of the largest concerns in this segment, being a participating member in numerous cable systems; in mid-2021 the telco announced plans to build the Hybrid African Ring Path system, connecting a number of landlocked countries in Africa with Italy, France, and Portugal; the system will partly use the company&rsquo;s existing terrestrial and sub sea cable networks (2022)<br>
-_domestic_: fixed-line roughly 10 per 100, mobile-cellular 93 per 100 (2020)<br>
+_domestic_: fixed-line roughly 10 per 100, mobile-cellular 95 per 100 (2021)<br>
 _international_: country code - 20; landing points for Aletar, Africa-1, FEA, Hawk, IMEWE,&nbsp;and the SEA-ME-WE-3 &amp; 4&nbsp;submarine cable networks linking to Asia, Africa, the Middle East, and Australia&nbsp;; satellite earth stations - 4 (2 Intelsat - Atlantic Ocean and Indian Ocean, 1 Arabsat, and 1 Inmarsat); tropospheric scatter to Sudan; microwave radio relay to Israel; a participant in Medarabtel (2019)<br>
-<!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 mix of state-run and private broadcast media; state-run TV operates 2 national and 6 regional terrestrial networks, as well as a few satellite channels; dozens of private satellite channels and a large number of Arabic satellite channels are available for free; some limited satellite services are also available via subscription; state-run radio operates about 30 stations belonging to 8 networks; privately-owned radio includes 8 major stations, 4 of which belong to 1 network (2019)<br>
@@ -671,7 +679,7 @@ _annual freight traffic on registered air carriers_: 437.63 million (2018) mt-km
 SU<br>
 
 **Airports**<br>
-_total_: 83 (2021)<br>
+83 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 72<br>
@@ -719,15 +727,15 @@ Gulf of Suez - Suez<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Egyptian Armed Forces (EAF): Army (includes Republican Guard), Navy (includes Coast Guard), Air Force, Air Defense Command, Border Guard Forces; Interior Ministry: Public Security Sector Police, the Central Security Force, National Security Sector (2022)<br>
+Egyptian Armed Forces (EAF): Army (includes Republican Guard), Navy (includes Coast Guard), Air Force, Air Defense Forces, Border Guard Forces; Interior Ministry: Public Security Sector Police, the Central Security Force, National Security Sector (2023)<br>
 <strong>note 1:</strong> the Public Security Sector Police are responsible for law enforcement nationwide; the Central Security Force protects infrastructure and is responsible for crowd control; the National Security Sector is responsible for internal security threats and counterterrorism along with other security services<br><br><strong>note 2:</strong> in addition to its external defense duties, the EAF also has a mandate to assist police in protecting vital infrastructure during a state of emergency; military personnel were granted full arrest authority in 2011 but normally only use this authority during states of emergency and “periods of significant turmoil”<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>
 1.3% of GDP (2020)<br>
-1.3% of GDP (2019) (approximately $15.8 billion)<br>
-1.4% of GDP (2018) (approximately $15.9 billion)<br>
-1.6% of GDP (2017) (approximately $16.7 billion)<br>
+1.3% of GDP (2019)<br>
+1.4% of GDP (2018)<br>
+1.6% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 450,000 active duty personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces personnel (2022)<br>
@@ -736,8 +744,8 @@ information varies; approximately 450,000 active duty personnel (325,000 Army; 1
 the EAF's inventory is comprised of a mix of domestically produced, imported Soviet-era, and more modern, particularly Western, weapons systems; in recent years, the EAF has embarked on an extensive equipment modernization program with significant purchases from foreign suppliers; in recent years, major suppliers have included France, Russia, and the US; Egypt has an established defense industry that produces a range of products from small arms to armored vehicles and naval vessels; it also has licensed and co-production agreements with several countries, including the US (2022)<br>
 
 **Military service age and obligation**<br>
-voluntary enlistment possible from age 16 for men and women; 18-30 years of age for conscript service for men; service obligation 14-36 months, followed by a 9-year reserve obligation; active service length depends on education; high school drop-outs serve for the full 36 months, while college graduates serve for lesser periods of time, depending on their education (2022)<br>
-<strong>note:</strong> as of 2020, conscripts were estimated to comprise over half of the military, as well as a considerable portion of the Central Security Force<br>
+voluntary enlistment possible from age 16 for men and women; 18-30 years of age for conscript service for men; service obligation 14-36 months, followed by a 9-year reserve obligation; active service length depends on education; high school drop-outs serve for the full 36 months, while college graduates serve for lesser periods of time, depending on their education (2023)<br>
+<strong>note:</strong> conscripts are estimated to comprise over half of the military, as well as a considerable portion of the Central Security Force<br>
 
 **Military deployments**<br>
 1,000 Central African Republic (MINUSCA); 1,075 Mali (MINUSMA) (May 2022)<br>

@@ -145,7 +145,7 @@ _65 years and over_: 0.73 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-13 deaths/100,000 live births (2017 est.)<br>
+15 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 6.41 deaths/1,000 live births<br>
@@ -471,9 +471,18 @@ _female_: 22.8% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 44.9 (2020 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 16% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 2.9% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
 _highest 10%_: 41.5% (2013 est.)<br>
+
+**Remittances**<br>
+0.03% of GDP (2020 est.)<br>
+0.02% of GDP (2019 est.)<br>
+0.02% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $57.75 billion (2017 est.)<br>
@@ -601,18 +610,17 @@ _Total energy consumption per capita 2019_: 81.953 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,567,938 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
+_total subscriptions_: 2,510,972 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 25,068,249 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 131 (2020 est.)<br>
+_total subscriptions_: 26,571,823 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 136 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the market for fixed and mobile telephony is highly competitive and rapidly evolving; the mobile rate is among the highest in South America; LTE infrastructure is extensive and 5G spectrum auctions which took place in February 2021 are expected to prompt the deployment of 5G networks by the end of the year, following extensive trials held by the MNOs; fixed broadband is relatively high for the region, with services among the fastest and least expensive in Latin America; government initiatives such as the National Fiber Optic project and Fibra &Oacute;ptica Austral are providing high-capacity connectivity across the country and will further increase fixed-line broadband; there is a strong focus on fiber broadband, with the number of fiber subscribers having increased 61.7% in 2020, year-on-year; technological improvements have allowed operators to provide a variety of services via their networks, giving rise to a number of bundled packages at competitive prices, including access to video on demand services which in turn is increasing fixed-line broadband; traditional fixed-line teledensity continues to fall as consumers switch to mobile networks and to fixed broadband for voice and data connectivity; more than 8,300 schools receive free broadband as part of the &lsquo;Connectivity for Education 2030&rsquo; project (2021)<br>
-_domestic_: number of fixed-line connections have dropped to about 13 per 100 in recent years as mobile-cellular usage continues to increase, reaching 131 telephones per 100 persons; domestic satellite system with 3 earth stations (2020)<br>
+_domestic_: number of fixed-line connections 13 per 100, mobile-cellular usage continues to increase, reaching 136 telephones per 100 persons (2021)<br>
 _international_: country code - 56; landing points for the Pan-Am, Prat, SAm-1, American Movil-Telxius West Coast Cable, FOS Quellon-Chacabuco, Fibra Optical Austral, SAC&nbsp;and&nbsp;Curie submarine cables providing links to the US, Caribbean&nbsp;and to Central and South America; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 national and local terrestrial TV channels, coupled with extensive cable TV networks; the state-owned Television Nacional de Chile (TVN) network is self-financed through commercial advertising revenues and is not under direct government control; large number of privately owned TV stations; about 250 radio stations<br>
@@ -640,7 +648,7 @@ _annual freight traffic on registered air carriers_: 1,226,440,000 (2018) mt-km<
 CC<br>
 
 **Airports**<br>
-_total_: 481 (2021)<br>
+481 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 90<br>
@@ -703,7 +711,7 @@ approximately 70,000 active armed forces personnel (40,000 Army; 20,000 Navy; 10
 the Chilean military inventory is comprised of a wide mix of mostly Western equipment and some domestically produced systems; in recent years, it has received military hardware from a variety of countries, with Germany and the US as the leading suppliers; Chile's defense industry has capabilities in military aircraft, ships, and vehicles (2022)<br>
 
 **Military service age and obligation**<br>
-18-45 years of age for voluntary male and female military service; selective compulsory service (there are usually enough volunteers to make compulsory service unnecessary); service obligation is a minimum of 12 months for Army and 22 months for Navy and Air Force (2022)<br>
+18-45 years of age for voluntary male and female military service; selective compulsory service (there are usually enough volunteers to make compulsory service unnecessary); service obligation is a minimum of 12 months for Army and 22 months for Navy and Air Force (2023)<br>
 <strong>note:</strong> as of 2021, women comprised approximately 18% of the armed forces<br>
 
 **Military - note**<br>

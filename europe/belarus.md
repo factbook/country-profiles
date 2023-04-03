@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-After seven decades as a constituent republic of the USSR, Belarus attained its independence in 1991. It has retained closer political and economic ties to Russia than have any of the other former Soviet republics. Belarus and Russia signed a treaty on a two-state union on 8 December 1999 envisioning greater political and economic integration. Although Belarus agreed to a framework to carry out the accord, serious implementation has yet to take place and current negotiations on further integration have been contentious. Since his election in July 1994 as the country's first and only directly elected president, Alyaksandr LUKASHENKA has steadily consolidated his power through authoritarian means and a centralized economic system. Government restrictions on political and civil freedoms, freedom of speech and the press, peaceful assembly, and religion have remained in place. Restrictions on political freedoms have grown increasingly strained following the disputed presidential election in August 2020. The election results sparked largescale protests as members of the opposition and civil society criticized the election’s validity. Alyaksandr LUKASHENKA has remained in power as the disputed winner of the presidential election after quelling protests in late 2020. <p> </p> <p> </p> <p> </p> <p> </p><br>
+After seven decades as a constituent republic of the USSR, Belarus attained its independence in 1991. It has retained closer political and economic ties to Russia than have any of the other former Soviet republics. Belarus and Russia signed a treaty on a two-state union on 8 December 1999 envisioning greater political and economic integration. Although Belarus agreed to a framework to carry out the accord, serious implementation has yet to take place and negotiations on further integration have been contentious. Since his election in July 1994 as the country's first and only directly elected president, Alyaksandr LUKASHENKA has steadily consolidated his power through authoritarian means and a centralized economic system. Government restrictions on political and civil freedoms, freedom of speech and the press, peaceful assembly, and religion have remained in place. Restrictions on political freedoms have grown increasingly strained following the disputed presidential election in August 2020. The election results sparked largescale protests as members of the opposition and civil society criticized the election’s validity. Alyaksandr LUKASHENKA has remained in power as the disputed winner of the presidential election after quelling protests in late 2020. <p> </p> <p> </p> <p> </p> <p> </p><br>
 
 ## Geography
 
@@ -89,7 +89,7 @@ _adjective_: Belarusian<br>
 Belarusian 83.7%, Russian 8.3%, Polish 3.1%, Ukrainian 1.7%, other 2.4%, unspecified 0.9% (2009 est.)<br>
 
 **Languages**<br>
-Russian (official) 70.2%, Belarusian (official) 23.4%, other 3.1% (includes small Polish- and Ukrainian-speaking minorities), unspecified 3.3% (2009 est.)<br>
+Russian (official) 71.4%, Belarusian (official) 26%, other 0.3% (includes small Polish- and Ukrainian-speaking minorities), unspecified 2.3% (2009 est.)<br>
 _major-language sample(s)_: <br>Книга фактов о мире – незаменимый источник базовой информации. (Russian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -144,7 +144,7 @@ _total population_: 0.87 male(s)/female (2023 est.)<br>
 26.8 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
-2 deaths/100,000 live births (2017 est.)<br>
+1 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.23 deaths/1,000 live births<br>
@@ -477,9 +477,18 @@ _female_: 8.4% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 24.4 (2020 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 32.3% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 7.2% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8%<br>
 _highest 10%_: 21.9% (2008)<br>
+
+**Remittances**<br>
+1.67% of GDP (2021 est.)<br>
+1.65% of GDP (2020 est.)<br>
+2.2% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $22.15 billion (2017 est.)<br>
@@ -619,7 +628,6 @@ _subscriptions per 100 inhabitants_: 123 (2021 est.)<br>
 _general assessment_: the Government of Belarus has successfully promoted the migration to an all-IP platform as part of a wider effort towards a digital transformation for the economy; the state-supported infrastructure operator beCloud has built an extensive fiber network, which reaches all but the smallest settlements in the country; Belarus has the second-highest fiber subscription rate in Europe, behind only Iceland; LTE coverage is almost universal, while considerable progress has also been made in developing 5G services (2021)<br>
 _domestic_: fixed-line teledensity is improving although rural areas continue to be underserved, approximately 45 per 100 fixed-line; mobile-cellular teledensity now roughly 123 telephones per 100 persons (2021)<br>
 _international_: country code - 375; Belarus is landlocked and therefore a member of the Trans-European Line (TEL), Trans-Asia-Europe (TAE) fiber-optic line, and has access to the Trans-Siberia Line (TSL); 3 fiber-optic segments provide connectivity to Latvia, Poland, Russia, and Ukraine; worldwide service is available to Belarus through this infrastructure; additional analog lines to Russia; Intelsat, Eutelsat, and Intersputnik earth stations; almost 31,000 base stations in service in 2019 (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 7 state-controlled national TV channels; Polish and Russian TV broadcasts are available in some areas; state-run Belarusian Radio operates 5 national networks and an external service; Russian and Polish radio broadcasts are available (2019)<br>
@@ -647,7 +655,7 @@ _annual freight traffic on registered air carriers_: 1.9 million (2018) mt-km<br
 EW<br>
 
 **Airports**<br>
-_total_: 65 (2021)<br>
+65 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 33<br>
@@ -707,7 +715,7 @@ approximately 45,000 active duty troops; information on the individual services 
 the military's inventory is comprised mostly of Russian/Soviet-origin equipment, and in recent years Russia has continued to be the leading provider of arms; Belarus's defense industry manufactures some equipment (mostly modernized Soviet designs), including vehicles, guided weapons, and electronic warfare systems (2022)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory military or alternative service; conscript service obligation is 12-18 months, depending on academic qualifications, and 24-36 months for alternative service, also depending on academic qualifications; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2022)<br>
+18-27 years of age for compulsory military or alternative service; conscript service obligation is 12-18 months, depending on academic qualifications, and 24-36 months for alternative service, also depending on academic qualifications; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2023)<br>
 <strong>note:</strong> conscripts can be assigned to the military, to the Ministry of Interior as internal or border troops, or to the Ministry of Labor and Social Protection (alternative service); as of 2020, conscripts comprised an estimated 40% of the military<br>
 
 **Military - note**<br>
@@ -719,7 +727,7 @@ Belarus has close security ties with Russia, including an integrated air and mis
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,983 (Ukraine) (as of 28 February 2023)<br>
+_refugees (country of origin)_: 21,547 (Ukraine) (as of 14 March 2023)<br>
 _stateless persons_: 5,626 (2022)<br>
 
 **Trafficking in persons**<br>

@@ -151,7 +151,7 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-289 deaths/100,000 live births (2017 est.)<br>
+127 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 59.77 deaths/1,000 live births<br>
@@ -206,7 +206,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mozambique is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mozambique is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 7.2% (2016)<br>
@@ -289,7 +289,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mozambique is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mozambique is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <p><em>due to shortfall in agricultural production and economic downturn -</em> the number of people in need of food assistance is expected to rise above the 1.86 million estimated in 2021-2022 because of three key factors; firstly, higher year‑on‑year prices of food and fuel are reducing households’ purchasing power, worsening their economic access to food, particularly for low-income households; secondly, the impact of extreme weather events on agricultural production in central and southern provinces in 2022 is likely to mean that farming households in the affected areas have both low food supplies from their own production and curtailed income-earning opportunities from crop sales, impinging on their food availability and economic access to food; thirdly, there has been an increase in attacks by non‑state armed groups in the northern province of Cabo Delgado in 2022</p> (2022)<br>
@@ -503,6 +503,11 @@ _female_: 8.2% (2021 est.)<br>
 _lowest 10%_: 1.9%<br>
 _highest 10%_: 36.7% (2008)<br>
 
+**Remittances**<br>
+2.88% of GDP (2021 est.)<br>
+2.49% of GDP (2020 est.)<br>
+1.95% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $3.356 billion (2017 est.)<br>
 _expenditures_: $4.054 billion (2017 est.)<br>
@@ -641,7 +646,6 @@ _subscriptions per 100 inhabitants_: 49 (2020 est.)<br>
 _general assessment_: one of the first countries in the region to embark upon telecom reform and to open the sector to competition; the mobile segment in particular has shown strong growth; additional competition followed in late 2020; a new licensing regime ensured that by mid-2019 all operators had been provided with universal licenses, enabling them to offer all types of telephony and data services; mobile, fixed-line and broadband penetration rates remain far below the average for the region; in recent years the government has enforced the registration of SIM cards, but with varying success; at the end of 2016 almost five million unregistered SIM cards were deactivated but poor monitoring meant that the process was revisited in mid-2019 and again in late 2020; the high cost of international bandwidth had long hampered internet use, though the landing of two international submarine cables (SEACOM and EASSy) has reduced the cost of bandwidth and so led to drastic reductions in broadband retail prices as well as a significant jump in available bandwidth; there is some cross-platform competition, with DSL, cable, fibre, WiMAX, and mobile broadband options available, though fixed broadband options can be limited to urban areas; improvements can be expected from the ongoing rollout of a national fiber backbone networks and of upgrades to mobile infrastructure (2022)<br>
 _domestic_: extremely low fixed-line teledensity contrasts with rapid growth in the mobile-cellular network; operators provide coverage that includes all the main cities and key roads; fixed-line less than 1 per 100 and nearly 49 per 100 mobile-cellular teledensity (2020)<br>
 _international_: country code - 258; landing points for the EASSy and SEACOM/ Tata TGN-Eurasia fiber-optic submarine cable systems linking numerous&nbsp;east African&nbsp;countries, the Middle East and Asia&nbsp;; satellite earth stations - 5 Intelsat (2 Atlantic Ocean and 3 Indian Ocean); TdM contracts for Itelsat for satellite broadband and bulk haul services (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 state-run TV station supplemented by private TV station; Portuguese state TV's African service, RTP Africa, and Brazilian-owned TV Miramar are available; state-run radio provides nearly 100% territorial coverage and broadcasts in multiple languages; a number of privately owned and community-operated stations; transmissions of multiple international broadcasters are available (2019)<br>
@@ -669,7 +673,7 @@ _annual freight traffic on registered air carriers_: 4.78 million (2018) mt-km<b
 C9<br>
 
 **Airports**<br>
-_total_: 98 (2021)<br>
+98 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 21<br>
@@ -729,7 +733,7 @@ information limited and varied; approximately 12,000 personnel (11,000 Army and 
 the FADM's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of more modern equipment from a variety of countries, mostly as aid/donations (2022)<br>
 
 **Military service age and obligation**<br>
-registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; 2-year service obligation (2021)<br>
+registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; 24-month service obligation (2023)<br>
 
 **Military - note**<br>
 the FADM is responsible for external security, cooperating with police on internal security, and responding to natural disasters and other emergencies; the current primary focus of the FADM is countering an insurgency driven by militants with ties to the Islamic State of Iraq and ash-Sham (ISIS) terrorist group in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and the fighting has left over 4,000 estimated dead and approximately 1 million displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; several countries from the Southern Africa Development Community (SADC) and the EU, as well as Rwanda and the US are providing various forms of military assistance; the SADC countries and Zambia have sent more than 3,000 military and security personnel, while the EU and the US have provided training assistance (2023)<br>
@@ -746,7 +750,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Mozambique-Eswatini</em>: none identified</p> <p><em>Mozambique-Malawi</em>:  the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Mozambique-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>Mozambique-Tanzania</em>: none identified</p> <p><em>Mozambique-Zambia</em>: none identified</p> <p><em>Mozambique-Zimbabwe</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,952 (Democratic Republic of Congo) (refugees and asylum seekers), 8,968 (Burundi) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 8,968 (Burundi) (refugees and asylum seekers) (2022); 11,751 (Democratic Republic of Congo) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 1.03 million (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>

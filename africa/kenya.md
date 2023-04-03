@@ -154,7 +154,7 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-342 deaths/100,000 live births (2017 est.)<br>
+530 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 26.94 deaths/1,000 live births<br>
@@ -494,9 +494,18 @@ _female_: 14.9% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 40.8 (2015 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 52.9% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
 _highest 10%_: 37.8% (2005)<br>
+
+**Remittances**<br>
+3.42% of GDP (2021 est.)<br>
+3.09% of GDP (2020 est.)<br>
+2.83% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $13.95 billion (2017 est.)<br>
@@ -636,7 +645,6 @@ _subscriptions per 100 inhabitants_: 114 (2020 est.)<br>
 _general assessment_: Kenya&rsquo;s telecom market continues to undergo considerable changes in the wake of increased competition, improved international connectivity, and rapid developments in the mobile market; the country is directly connected to a number of submarine cables, and with Mombasa through a terrestrial network, the country serves as a key junction for onward connectivity to the Arabian states and the Far East; numerous competitors are rolling out national and metropolitan backbone networks and wireless access networks to deliver services to population centers across the country; several fiber infrastructure sharing agreements have been forged, and as a result the number of fiber broadband connections has increased sharply in recent years; much of the progress in the broadband segment is due to the government&rsquo;s revised national broadband strategy, which has been updated with goals through to 2030, and which are largely dependent on mobile broadband platforms based on LTE and 5G (2022)<br>
 _domestic_: fixed-line subscriptions stand at less than 1 per 100 persons; multiple providers in the mobile-cellular segment of the market fostering a boom in mobile-cellular telephone usage with teledensity reaching 114 per 100 persons (2020)<br>
 _international_: country code - 254; landing point for the EASSy, TEAMS, LION2, DARE1, PEACE Cable, and SEACOM fiber-optic submarine cable systems covering East, North&nbsp;and South Africa, Europe, the Middle East, and Asia; satellite earth stations - 4 Intelsat; launched first micro satellites in 2018 (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 about a half-dozen large-scale privately owned media companies with TV and radio stations, as well as a state-owned TV broadcaster, provide service nationwide; satellite and cable TV subscription services available; state-owned radio broadcaster operates 2 national radio channels and provides regional and local radio services in multiple languages; many private radio stations broadcast on a national level along with over 100 private and non-profit regional stations broadcasting in local languages; TV transmissions of all major international broadcasters available, mostly via paid subscriptions; direct radio frequency modulation transmissions available for several foreign government-owned broadcasters (2019)<br>
@@ -663,7 +671,7 @@ _annual freight traffic on registered air carriers_: 294.97 million (2018) mt-km
 5Y<br>
 
 **Airports**<br>
-_total_: 197 (2021)<br>
+197 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 16<br>
@@ -727,10 +735,10 @@ no conscription; 18-26 years of age for male and female voluntary service (under
 
 **Military deployments**<br>
 260 Democratic Republic of the Congo (MONUSCO); 3,650 Somalia (ATMIS) (2022)<br>
-<strong>note:</strong> in November 2022, Kenya sent approximately 900 troops to the eastern part of the Democratic Republic of the Congo (DRC) as part of a newly formed East Africa Community Regional Force (EACRF) to assist the DRC military against the rebel group M23; the force is led by Kenya<br>
+<strong>note:</strong> in November 2022, Kenya sent approximately 1,000 troops to the eastern part of the Democratic Republic of the Congo (DRC) as part of a newly formed East Africa Community Regional Force (EACRF) to assist the DRC military against the rebel group M23; the force is led by Kenya<br>
 
 **Military - note**<br>
-the KDF is considered to be an experienced, effective, and professional force; it has conducted operations in neighboring Somalia since 2011 and taken part in numerous regional peacekeeping and security missions; it is a leading member of the Africa Standby Force; the KDF trains regularly, participates in multinational exercises, and has ties to a variety of foreign militaries, including those of France, the UK, and the US; its chief security concerns and missions include protecting the country’s sovereignty and territory, regional disputes, the threat posed by the al-Shabaab terrorist group based in neighboring Somalia, maritime crime and piracy, and assisting civil authorities in responding to emergency, disaster, or political unrest as requested <br><br>the Army has 5 combat brigades, including 3 infantry, an armored, and an artillery brigade; it also has a helicopter-equipped air cavalry battalion and a special operations regiment comprised of airborne, special forces, and ranger battalions; the Navy has several offshore patrol vessels, large coastal patrol boats, and missile-armed craft; the Air Force has a small inventory of older US-origin fighter aircraft and more than 50 combat and transport helicopters<br><br>Kenyan military forces intervened in Somalia in October 2011 to combat the al Qaida-affiliated al-Shabaab terrorist group, which had conducted numerous cross-border attacks into Kenya; in November 2011, the UN and the African Union invited Kenya to incorporate its forces into the African Union Mission in Somalia (AMISOM); Kenyan forces were formally integrated into AMISOM in February 2012; they consist of approximately 3,600 troops and are responsible for AMISOM’s Sector 2 comprising Lower and Middle Jubba (see Appendix T for additional details on al-Shabaab; note - as of May 2022, AMISOM was renamed the AU Transition Mission in Somalia or ATMIS)<br><br>the Kenya Military Forces were created following independence in 1963; the current KDF was established and its composition laid out in the 2010 constitution; it is governed by the Kenya Defense Forces Act of 2012; the Army traces its origins back to the Kings African Rifles (KAR), a British colonial regiment raised from Britain's East Africa possessions from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2023)<br>
+the KDF is considered to be an experienced, effective, and professional force; it has conducted operations in neighboring Somalia since 2011 and taken part in numerous regional peacekeeping and security missions; it is a leading member of the Africa Standby Force; the KDF trains regularly, participates in multinational exercises, and has ties to a variety of foreign militaries, including those of France, the UK, and the US; its chief security concerns and missions include protecting the country’s sovereignty and territory, regional disputes, the threat posed by the al-Shabaab terrorist group based in neighboring Somalia, maritime crime and piracy, and assisting civil authorities in responding to emergency, disaster, or political unrest as requested <br><br>the Army has 5 combat brigades, including 3 infantry, an armored, and an artillery brigade; it also has a helicopter-equipped air cavalry battalion and a special operations regiment comprised of airborne, special forces, and ranger battalions; the Navy has several offshore patrol vessels, large coastal patrol boats, and missile-armed craft; the Air Force has a small inventory of older US-origin fighter aircraft, as well as some transport aircraft and combat helicopters <br><br>Kenyan military forces intervened in Somalia in October 2011 to combat the al Qaida-affiliated al-Shabaab terrorist group, which had conducted numerous cross-border attacks into Kenya; in November 2011, the UN and the African Union invited Kenya to incorporate its forces into the African Union Mission in Somalia (AMISOM); Kenyan forces were formally integrated into AMISOM in February 2012; they consist of approximately 3,600 troops and are responsible for AMISOM’s Sector 2 comprising Lower and Middle Jubba (see Appendix T for additional details on al-Shabaab; note - as of May 2022, AMISOM was renamed the AU Transition Mission in Somalia or ATMIS)<br><br>the Kenya Military Forces were created following independence in 1963; the current KDF was established and its composition laid out in the 2010 constitution; it is governed by the Kenya Defense Forces Act of 2012; the Army traces its origins back to the Kings African Rifles (KAR), a British colonial regiment raised from Britain's East Africa possessions from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports that shipping in territorial and offshore waters in the Indian Ocean remain at risk for piracy and armed robbery against ships<br>
@@ -747,7 +755,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Kenya-Ethiopia</em>: their border was demarcated in the 1950s and approved in 1970; in 2012, Kenya and Ethiopia agreed to redemarcate their boundary following disputes over beacons and cross-border crime</p> <p><em>Kenya-Somalia</em>: Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; in 2021, the International Court of Justice (ICJ) gave Somalia control over a disputed ocean area where the seabeds are believed to hold vasts oil and gas deposits; the ICJ ruling gave Somalia the rights to several offshore oil exploration blocks previously claimed by Kenya; Kenya did not recognize the court’s decision</p> <p><em>Kenya-South Sudan</em>: two thirds of the boundary that separates Kenya and South Sudan's sovereignty known as the Ilemi Triangle has been unclear since British colonial times; Kenya has administered the area since colonial times; officials from Kenya and South Sudan signed a memorandum of understanding on boundary delimitation and demarcation and agreed to set up a joint committee; as of July 2019, the demarcation process was to begin in 90 days, but was delayed due to a lack of funding</p> <p><em>Kenya-Sudan</em>: Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005</p> <p><em>Kenya-Tanzania</em>: Kenya and Tanzania were conducting a joint reaffirmation process in November 2021 to ensure the border was visibly marked with pillars</p> <p><em>Kenya-Uganda:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021 </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 279,925 (Somalia), 153,289 (South Sudan), 53,980 (Democratic Republic of the Congo), 21,620 (Ethiopia), 8,159 (Burundi), 5,540 (Sudan) (2022)<br>
+_refugees (country of origin)_: 279,925 (Somalia), 153,289 (South Sudan), 21,620 (Ethiopia), 8,159 (Burundi), 5,540 (Sudan) (2022); 72,192 (Democratic Republic of the Congo) (2023)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2021)<br>
 _stateless persons_: 16,779 (2022); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

@@ -153,7 +153,7 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-509 deaths/100,000 live births (2017 est.)<br>
+441 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 65.53 deaths/1,000 live births<br>
@@ -209,7 +209,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Niger is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Niger is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 5.5% (2016)<br>
@@ -293,10 +293,10 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Niger is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Niger is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict and shortfall in cereal production -</em> according to the latest analysis, about 4.4 million people are estimated to need humanitarian food assistance between June and August 2022, reflecting worsening conflicts and security conditions, and unfavorable weather that resulted in a sharp fall in cereal production in 2021; additionally, higher year-on-year prices of food continue to constrain access to food, aggravating conditions (2022)<br>
+_widespread lack of access_: <em>due to internal conflict, high food prices, and floods - </em>about 2.87 million people are projected to be acutely food insecure during the June to August 2023 lean season period; this would be an improvement on the situation in 2022, mostly reflecting the sharp upturn in crop yields following the below‑average cereal output in 2021; persistent insecurity continues to disrupt livelihoods and has displaced over 360,000 people as of January 2023, mostly in the Diffa, Tahoua and Tillabery regions; high food prices, as well as the floods in 2022 that affected about 327,000 people, are additional factors that have aggravated food insecurity (2023)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,865,646 tons (1993 est.)<br>
@@ -509,6 +509,11 @@ _female_: 0.7% (2021 est.)<br>
 _lowest 10%_: 3.2%<br>
 _highest 10%_: 26.8% (2014)<br>
 
+**Remittances**<br>
+3.79% of GDP (2020 est.)<br>
+2.39% of GDP (2019 est.)<br>
+2.32% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.757 billion (2017 est.)<br>
 _expenditures_: $2.171 billion (2017 est.)<br>
@@ -645,7 +650,6 @@ _subscriptions per 100 inhabitants_: 59 (2020 est.)<br>
 _general assessment_: Niger is one of the largest countries in West Africa but also one of the poorest in the world; as with many African markets, a lack of fixed telecoms infrastructure has led to growth in mobile services; Niger&rsquo;s mobile penetration is modest compared to other countries in the region, while fixed broadband penetration is negligible; recent international investment to complete the Trans-Saharan Dorsal optical fibre (SDR) network has extended the reach of fiber infrastructure in the country, and also increased international capacity; new cables linking the country with Chad and Burkina Faso have extended Niger&rsquo;s connectivity with international cable infrastructure (2022)<br>
 _domestic_: fixed-line less than 1 per 100 persons and mobile-cellular at nearly 59 per 100 persons (2020)<br>
 _international_: country code - 227; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-run TV station; 3 private TV stations provide a mix of local and foreign programming; state-run radio has only radio station with national coverage; about 30 private radio stations operate locally; as many as 100 community radio stations broadcast; transmissions of multiple international broadcasters are available<br>
@@ -671,7 +675,7 @@ _inventory of registered aircraft operated by air carriers_: 3<br>
 5U<br>
 
 **Airports**<br>
-_total_: 30 (2021)<br>
+30 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 10<br>
@@ -723,7 +727,7 @@ information varies; approximately 12,000 active FAN troops (8,000 Army; 200 Air 
 the FAN's inventory consists of a wide variety of older weapons; in recent years, it has received small amounts of mostly secondhand equipment and donations from several countries, particularly the US&nbsp; (2022)<br>
 
 **Military service age and obligation**<br>
-has conscription, although it is reportedly not always enforced; 18 is the legal minimum age for compulsory or voluntary military service; enlistees must be Nigerien citizens and unmarried; 2-year service term; women may serve in health care (2022)<br>
+18 is the legal minimum age for selective compulsory or voluntary military service for unmarried men and women; 24-month service term (2023)<br>
 
 **Military deployments**<br>
 875 Mali (MINUSMA) (May 2022)<br>

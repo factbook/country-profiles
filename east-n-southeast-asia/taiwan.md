@@ -389,6 +389,10 @@ _services_: 59.2% (2016 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 33.6 (2014)<br>
 
+**Average household expenditures**<br>
+_On food_: 14.7% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 6.4% (2010)<br>
 _highest 10%_: 40.3% (2010)<br>
@@ -525,7 +529,6 @@ _subscriptions per 100 inhabitants_: 123.21 (2019)<br>
 _general assessment_: Taiwan has a highly developed telecoms sector in both the fixed-line and mobile segments; in part this is due to the country&rsquo;s early moves to liberalize the market, allowing vigorous competition to flourish; the government has also made concerted efforts to take advantage of Taiwan&rsquo;s strengths in the development of high-tech, export-oriented industries to encourage and enable the rapid adoption of advanced telecom platforms, while simultaneously leveraging the same telecoms infrastructure to push even further ahead with the country's industrial development plans; Taiwan has one of the highest teledensities in the region; while fixed-line subscriber numbers are trending downwards, the rate of decline has been slowed by the major fixed-line provider investing strongly in building out a widespread fiber network to allow customers to maintain a terrestrial voice connection as part of a fixed broadband package; fiber is the dominant platform in Taiwan&rsquo;s fixed broadband market; cable services have retained an unusually strong following thanks to the success of cable providers in delivering competitive cable TV and telephony services as a way to get around Chunghwa Telecom&rsquo;s control of the last mile for its copper and fiber networks; Taiwan also has high penetration rates in its mobile and mobile broadband segments, growth in both markets is almost at a standstill because the country reached 100% penetration very early on &ndash; way back when GSM was first introduced, in mobile&rsquo;s case; the MNOs moved quickly to roll out 4G and 5G networks and services in rapid succession, but subscriber numbers (and market share) has barely changed; the improved quality and performance available with the new platforms will drive increased usage and ARPU; fierce competition following the launch of 4G saw the opposite happen, with price wars causing telco revenues to fall instead; it is possible that the same problem can be avoided with 5G allowing Taiwan to reach the target of 50% of subscribers on 5G by mid-2023 (2022)<br>
 _domestic_: fixed-line over 53 per 100 and mobile-cellular roughly 123 per 100 (2020)<br>
 _international_: country code - 886; landing points for the EAC-C2C,&nbsp;APCN-2, FASTER, SJC2, TSE-1, TPE, APG, SeaMeWe-3, FLAG&nbsp;North Asia Loop/REACH North Asia Loop, HKA, NCP, and PLCN&nbsp;submarine fiber cables provide links throughout Asia, Australia, the Middle East, Europe, Africa and the US; satellite earth stations - 2 (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 5 nationwide television networks operating roughly&nbsp;22 TV stations; more than 300 satellite TV channels are available; about 60% of households utilize multi-channel cable TV; 99.9% of households subscribe to digital cable TV;&nbsp;national and regional radio networks with about 171 radio stations (2019)<br>
@@ -551,7 +554,7 @@ _inventory of registered aircraft operated by air carriers_: 216<br>
 B<br>
 
 **Airports**<br>
-_total_: 37 (2021)<br>
+37 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 35<br>

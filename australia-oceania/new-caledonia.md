@@ -396,6 +396,11 @@ _female_: 43.2% (2021 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+6.58% of GDP (2020 est.)<br>
+6.58% of GDP (2019 est.)<br>
+6.31% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.995 billion (2015 est.)<br>
 _expenditures_: $1.993 billion (2015 est.)<br>
@@ -523,7 +528,6 @@ _subscriptions per 100 inhabitants_: 91 (2020 est.)<br>
 _general assessment_: New Caledonia&rsquo;s telecom sector provides fixed and mobile voice services, mobile internet, fixed broadband access, and wholesale services for other ISPs; the country is well serviced by extensive 3G and LTE networks, and is considered to have one of the highest smartphone adoption rates in the Pacific region; by 2025, smart phone penetration is expected to reach 71%; while DSL is still the dominant fixed broadband technology, and a nationwide FttP network; the South Pacific region has become a hub for submarine cable system developments in recent years, with further networks scheduled to come online later in 2021 and into 2022; these new cables are expected to increase competition in the region with regards to international capacity; in 2020, the government owned telco commissioned Alcatel Submarine Networks (ASN) to build the Gondwana-2 cable system to provide additional network capacity and complement the Gondwana-1 cable (2022)<br>
 _domestic_: fixed-line nearly 16 per 100 and mobile-cellular telephone subscribership 91 per 100 persons (2020)<br>
 _international_: country code - 687; landing points for the Gondwana-1 and Picot-1 providing connectivity via submarine cables&nbsp;around New&nbsp;Caledonia and&nbsp;to Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the publicly owned French Overseas Network (RFO), which operates in France's overseas departments and territories, broadcasts over the RFO Nouvelle-Cal&eacute;donie TV and radio stations; a small number of privately owned radio stations also broadcast<br>
@@ -546,7 +550,7 @@ _number of registered air carriers_: 3 (2020) (registered in France)<br>
 _inventory of registered aircraft operated by air carriers_: 15 (registered in France)<br>
 
 **Airports**<br>
-_total_: 25 (2021)<br>
+25 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 12<br>

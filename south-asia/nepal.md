@@ -146,7 +146,7 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-186 deaths/100,000 live births (2017 est.)<br>
+174 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 24.55 deaths/1,000 live births<br>
@@ -349,7 +349,7 @@ _residency requirement for naturalization_: 15 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Bidhya Devi BHANDARI (since 29 October 2015); Vice President Nanda Bahadar PUN (since 31 October 2015)<br>
+_chief of state_: President Ram Chandra POUDEL (since 13 March 2023); Vice President Nanda Bahadar PUN (since 31 October 2015)<br>
 _head of government_: Prime Minister Sher Bahadur DEUBA (since 13 July 2021); deputy prime ministers Ishwar POKHREL, Upendra YADAV (since 1 June 2018) (an)<br>
 _cabinet_: Council of Ministers appointed by the prime minister; cabinet dominated by the Nepal Communist Party<br>
 _elections/appointments_: president indirectly elected by an electoral college of the Federal Parliament and of the state assemblies for a 5-year term (eligible for a second term); election last held 13 March 2018 (next to be held in 2023); prime minister indirectly elected by the Federal Parliament<br>
@@ -483,6 +483,11 @@ _female_: 8.6% (2021 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.2%<br>
 _highest 10%_: 29.5% (2011)<br>
+
+**Remittances**<br>
+22.61% of GDP (2021 est.)<br>
+24.25% of GDP (2020 est.)<br>
+24.12% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $5.925 billion (2017 est.)<br>
@@ -622,7 +627,6 @@ _subscriptions per 100 inhabitants_: 131 (2020 est.)<br>
 _general assessment_: in relation to its telecom sector, Nepal has several topographical and economic constraints which have impeded efforts to expand network infrastructure and improve the quality of service for end-users; the fixed line market remains underdeveloped, and as a result most traffic is channeled via mobile networks; fixed broadband penetration remains very low, though to address this the government has initiated several programs as part of the Digital Nepal Framework and the wider Optical Fiber Backbone Network Expansion Project, started in 2012; supported by the Rural Telecommunications Development Fund, the programs include building out fiber backbone infrastructure and using this to provide broadband to schools and community centers nationally; telcos have also invested in fiber networks, and competition in the market is intensifying; cheap fiber-based services launched in mid-2021 prompted responses from other ISPs to provide faster and more competitively priced offers; Nepal&rsquo;s mobile market is relatively developed, with a focus on LTE; in 2021, the regulator considered a range of spectrum bands which could be used for 5G (2021)<br>
 _domestic_: fixed-line less than 2 per 100 persons and mobile-cellular nearly 131 per 100 persons (2020)<br>
 _international_: country code - 977; Nepal, China and Tibet connected across borders with underground and all-dielectric self-supporting (ADSS) fiber-optic cables; radiotelephone communications; microwave and fiber landlines to India; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state operates 3 TV stations, as well as national and regional radio stations; 117 television channels are licensed, among those 71 are cable television channels,&nbsp;three are distributed through&nbsp;Direct-To-Home (DTH) system, and four are digital terrestrial;&nbsp;736 FM radio stations are licensed and at least 314 of those radio stations are community radio stations (2019)<br>
@@ -650,7 +654,7 @@ _annual freight traffic on registered air carriers_: 4.66 million (2018) mt-km<b
 9N<br>
 
 **Airports**<br>
-_total_: 47 (2021)<br>
+47 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 11<br>

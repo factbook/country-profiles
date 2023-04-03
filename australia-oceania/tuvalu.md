@@ -417,6 +417,11 @@ _female_: 45.9% (2016)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+0% of GDP (2020 est.)<br>
+1.66% of GDP (2019 est.)<br>
+2% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $42.68 million (2013 est.)<br>
 _expenditures_: $32.46 million (2012 est.)<br>
@@ -517,7 +522,6 @@ _subscriptions per 100 inhabitants_: 70.36 (2019)<br>
 _general assessment_: internal communications needs met; small global scale of over 11,000 people on 9 inhabited islands; mobile subscriber penetration about 40% and broadband&nbsp;about 10% penetration; govt. owned and sole provider of telecommunications services;&nbsp;2G widespread; the launch in 2019 of the Kacific-1 satellite will improve the telecommunication sector&nbsp;for the Asia Pacific region (2020)<br>
 _domestic_: radiotelephone communications between islands; fixed-line teledensity over 17 per 100 and mobile-cellular over 76 per 100 (2020)<br>
 _international_: country code - 688; international calls can be made by satellite<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 no TV stations; many households use satellite dishes to watch foreign TV stations; 1 government-owned radio station, Radio Tuvalu, includes relays of programming from international broadcasters (2019)<br>
@@ -539,7 +543,7 @@ _subscriptions per 100 inhabitants_: 4 (2017 est.)<br>
 T2<br>
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1<br>

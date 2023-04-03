@@ -152,7 +152,7 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-529 deaths/100,000 live births (2017 est.)<br>
+438 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 47.4 deaths/1,000 live births<br>
@@ -208,7 +208,7 @@ _vectorborne diseases_: malaria and&nbsp;dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Cameroon is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Cameroon is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 11.4% (2016)<br>
@@ -297,10 +297,10 @@ _vectorborne diseases_: malaria and&nbsp;dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Cameroon is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Cameroon is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil insecurity and population displacements - </em>according to a March 2022 analysis, about 2.4 million people are projected to be severely food insecure between June and August 2022; this is mainly the result of conflict, sociopolitical unrest and high food prices (2022)<br>
+_severe localized food insecurity_: <em>due to civil insecurity, high food prices, and floods - </em>according to a November 2022 analysis (the latest available), about 3.6 million people were estimated to be acutely food insecure between October and December 2022, as a result of conflict, sociopolitical unrest and high food prices, as well as floods that caused people displacements, damaged standing crops and prevented access to fields (2023)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3,270,617 tons (2013 est.)<br>
@@ -508,9 +508,18 @@ _female_: 7.3% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 46.6 (2014 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 45.3% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 2.1% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 37.5%<br>
 _highest 10%_: 35.4% (2001)<br>
+
+**Remittances**<br>
+0.82% of GDP (2020 est.)<br>
+0.9% of GDP (2019 est.)<br>
+0.83% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $5.363 billion (2017 est.)<br>
@@ -640,18 +649,17 @@ _Total energy consumption per capita 2019_: 6.187 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 964,378 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
+_total subscriptions_: 739,572 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 22,350,310 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 84 (2020 est.)<br>
+_total subscriptions_: 22,442,414 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 83 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Cameroon was for many years one of the few countries in Africa with only two competing mobile operators; the investment programs among operators over the next few years will considerably boost mobile broadband services in rural areas of the country, many of which are under served by fixed-line infrastructure; the government has also been supportive, having launched its &lsquo;Cameroon Digital 2020&rsquo; program, aimed at improving connectivity nationally; improved submarine and terrestrial cable connectivity has substantially increased international bandwidth, in turn leading to reductions in access prices for consumers; other projects such as Acceleration of the Digital Transformation of Cameroon are aimed at developing the digital economy (2022)<br>
-_domestic_: only a little above 3 per 100 persons for fixed-line subscriptions; mobile-cellular usage has increased sharply, reaching a subscribership base of roughly 95 per 100 persons (2020)<br>
+_domestic_: only a little above 3 per 100 persons for fixed-line subscriptions; mobile-cellular usage has increased sharply, reaching a subscribership base of roughly 83 per 100 persons (2021)<br>
 _international_: country code - 237; landing points for the SAT-3/WASC, SAIL, ACE, NCSCS, Ceiba-2, and WACS&nbsp;fiber-optic submarine cable that provides connectivity to Europe, South America, and West Africa; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 government maintains tight control over broadcast media; state-owned Cameroon Radio Television (CRTV), broadcasting on both a TV and radio network, was the only officially recognized and fully licensed broadcaster until August 2007, when the government finally issued licenses to 2 private TV broadcasters and 1 private radio broadcaster; about 70 privately owned, unlicensed radio stations operate but are subject to closure at any time; foreign news services required to partner with state-owned national station (2019)<br>
@@ -679,7 +687,7 @@ _annual freight traffic on registered air carriers_: 70,000 (2018) mt-km<br>
 TJ<br>
 
 **Airports**<br>
-_total_: 33 (2021)<br>
+33 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 11<br>
@@ -733,21 +741,21 @@ Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre
 1.5% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 40,000 active-duty troops; (25,000 ground forces, including the Rapid Intervention Battalion/BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 12,000 Gendarmerie) (2022)<br>
+information varies; approximately 35-40,000 active-duty troops; (20-25,000 ground forces, including the Rapid Intervention Battalion/BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 12,000 Gendarmerie) (2022)<br>
 <strong>note: </strong>the BIR has approximately 5,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Russian, and Western equipment, with a limited quantity of more modern weapons received in recent years from such countries as China, South Africa, and the US (2022)<br>
+the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Russian, and Western equipment, with a limited quantity of more modern weapons received in recent years from such countries as China, France, and Russia (2022)<br>
 
 **Military service age and obligation**<br>
-18-23 years of age for male and female voluntary military service; no conscription; high school graduation required; service obligation 4 years (2021)<br>
+18-23 years of age for male and female voluntary military service; no conscription; high school graduation required; service obligation 4 years (2023)<br>
 
 **Military deployments**<br>
 750 (plus about 350 police) Central African Republic (MINUSCA) (May 2022)<br>
 <strong>note: </strong>Cameroon has committed approximately 2,000-2,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations occur occasionally<br>
 
 **Military - note**<br>
-the FAC is a professional and politically independent military; the Army and the Rapid Intervention Battalion (RIB) are well-organized and mobile; in addition to the RIB&rsquo;s specialized forces, the Army has 4 motorized infantry brigades spread amongst 5 military regions; the ground forces are largely focused on internal security, particularly the threat from the terrorist group Boko Haram along its frontiers with Nigeria and Chad (Far North region) and an insurgency from armed Anglophone separatist groups in the North-West and South-West regions (as of 2023, this conflict had left more than 3,500 civilians dead and over 500,000 people displaced since fighting started in 2016); in addition, the FAC often deploys ground units to the border region with the Central African Republic to counter intrusions from armed militias and bandits; the Navy&rsquo;s missions include protecting Cameroon&rsquo;s oil installations, combatting crime and piracy in the Gulf of Guinea, and patrolling the country&rsquo;s lakes and rivers; it has an inventory of coastal, inshore, and river patrol craft; the Air Force supports both the ground and naval forces and has a handful of light attack aircraft and combat helicopters (2023)<br>
+the FAC is a professional and politically independent military; the Army and the Rapid Intervention Battalion (BIR) are well-organized and mobile; the Army has 4 motorized infantry brigades spread amongst 5 military regions; the US-trained, 5,000-man BIR has up to 9 battalions, detachments, or groups consisting of airborne, air mobile, amphibious, light, and motorized infantry, armored reconnaissance, counterterrorism, and support units, such as artillery and intelligence; the BIR reportedly receives better training, equipment, and pay than regular Army units<br><br>the ground forces are largely focused on internal security, particularly the threat from the terrorist group Boko Haram along its frontiers with Nigeria and Chad (Far North region) and an insurgency from armed Anglophone separatist groups in the North-West and South-West regions (as of 2023, this conflict had left more than 3,500 civilians dead and over 500,000 people displaced since fighting started in 2016); in addition, the FAC often deploys ground units to the border region with the Central African Republic to counter intrusions from armed militias and bandits; the Navy’s missions include protecting Cameroon’s oil installations, combatting crime and piracy in the Gulf of Guinea, and patrolling the country’s lakes and rivers; the Air Force supports both the ground and naval forces and has small numbers of light ground attack and reconnaissance aircraft, as well as attack, multipurpose, and transport helicopters (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of maritime kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>
@@ -765,7 +773,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 347,593 (Central African Republic), 126,151 (Nigeria) (2023)<br>
-_IDPs_: 983,281 (2022) (includes far north, northwest, and southwest)<br>
+_IDPs_: 1.01 million (2023) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List —<strong> </strong>Cameroon does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; authorities prosecuted and convicted more alleged traffickers; the government extended the 2020-2021 national action plan for an additional two years and conducted trafficking awareness  activities; however, the government did not demonstrate overall increasing efforts to improve anti-trafficking capacity; officials investigated fewer trafficking cases and identified fewer victims, and did not investigate allegations of security forces involvement in sexual exploitation of women; officials prosecuted and convicted fewer traffickers; standard operating procedures for the identification and referral of trafficking victims were not widely disseminated; the government did not pass draft anti-trafficking legislation pending since 2012 to address victim and witness protection in conformity with international law; nonetheless, because the government devoted sufficient efforts to meet the minimum standards, Cameroon was granted a waiver per the TVPA from a downgrade to Tier 3, therefore Cameroon remained on Tier 2 Watch List for a third consecutive year (2022)<br>

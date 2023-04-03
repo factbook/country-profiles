@@ -130,7 +130,7 @@ _etymology_: named after a British whaling captain Richard SPRATLY, who sighted 
 ## Transportation
 
 **Airports**<br>
-_total_: 8 (2021)<br>
+8 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 6<br>

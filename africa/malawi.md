@@ -152,7 +152,7 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-349 deaths/100,000 live births (2017 est.)<br>
+381 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 32.68 deaths/1,000 live births<br>
@@ -207,7 +207,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Malawi is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Malawi is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 5.8% (2016)<br>
@@ -290,7 +290,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Malawi is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Malawi is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em><em>due to </em>localized shortfalls in cereal production and high food prices - </em>an estimated 3.82 million people are expected to experience acute food insecurity between October 2022 and March 2023; this number is more than double the estimate for the January to March 2022 period; high food prices and the effects of weather-induced localized shortfalls in cereal production in 2022, notably in southern districts, are the primary factors underpinning the increase in acute food insecurity (2023)<br>
@@ -496,6 +496,11 @@ _female_: 12.2% (2021 est.)<br>
 _lowest 10%_: 2.2%<br>
 _highest 10%_: 37.5% (2010 est.)<br>
 
+**Remittances**<br>
+2.05% of GDP (2021 est.)<br>
+1.9% of GDP (2020 est.)<br>
+2.55% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.356 billion (2017 est.)<br>
 _expenditures_: $1.567 billion (2017 est.)<br>
@@ -634,7 +639,6 @@ _subscriptions per 100 inhabitants_: 52 (2020 est.)<br>
 _general assessment_: with few resources, Malawi is one of the world&rsquo;s least developed countries; there has been little investment in fixed-line telecom infrastructure, and as a result, the country&rsquo;s two mobile networks Airtel Malawi and TMN provide the vast majority of connections for voice and data services; both operators have invested in LTE technologies to improve the quality of data services; the lack of market competition, together with limited international internet bandwidth, has also resulted in some of the highest prices for telecom services in the region; the government in late 2020 secured an average 80% reduction in the cost of data bundles offered by the MNOs; following continuing customer complaints, the regulator in mid-2021 ensured that costs were again reduced, this time by about a third; mobile penetration remains low in comparison to the regional average and so there are considerable opportunities for further growth, particularly in the mobile broadband sector; low penetration is partly attributed to the lack of competition, though there is the possibility that a new play come launch services by the end of 2022; the internet sector is reasonably competitive, with about 50 licensed ISPs, though the limited availability and high cost of international bandwidth has held back growth and kept broadband access prices among the highest in the region; these limitations are being addressed, with the second phase of the national fiber backbone having started in mid-2021 (2022)<br>
 _domestic_: limited fixed-line subscribership less than 1 per 100 households; mobile-cellular services are expanding but network coverage is limited and is based around the main urban areas; mobile-cellular subscribership roughly 52 per 100 households (2020)<br>
 _international_: country code - 265; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 radio is the main broadcast medium; privately owned Zodiak radio has the widest national broadcasting reach, followed by state-run radio; numerous private and community radio stations broadcast in cities and towns around the country; the largest TV network is government-owned, but at least 4 private TV networks broadcast in urban areas; relays of multiple international broadcasters are available (2019)<br>
@@ -662,7 +666,7 @@ _annual freight traffic on registered air carriers_: 10,000 (2018) mt-km<br>
 7Q<br>
 
 **Airports**<br>
-_total_: 32 (2021)<br>
+32 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 7<br>
@@ -725,7 +729,7 @@ the MDF’s primary responsibility is external security; it is also tasked as ne
 <p><em>Malawi-Mozambique</em>: the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Malawi-Tanzania</em>: dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p> <p><em>Malawi-Zambia</em>: border demarcation was completed in 2011; in 2018, the redemarcation exercise determined that some parts of Malawi actually belonged to Zambia</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,840 (Democratic Republic of the Congo) (refugees and asylum seekers), 13,205 (Burundi) (refugees and asylum seekers), 7,807 (Rwanda) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 13,205 (Burundi) (refugees and asylum seekers), 7,807 (Rwanda) (refugees and asylum seekers) (2022); 35,420 (Democratic Republic of the Congo) (refugees and asylum seekers (2023)<br>
 
 **Illicit drugs**<br>
 NA<br>

@@ -151,7 +151,7 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-248 deaths/100,000 live births (2017 est.)<br>
+259 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 25.64 deaths/1,000 live births<br>
@@ -487,6 +487,11 @@ _female_: 3.6% (2021 est.)<br>
 _lowest 10%_: 2.1%<br>
 _highest 10%_: 43.2% (2011 est.)<br>
 
+**Remittances**<br>
+2.75% of GDP (2020 est.)<br>
+2.52% of GDP (2019 est.)<br>
+2.7% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.943 billion (2017 est.)<br>
 _expenditures_: $2.337 billion (2017 est.)<br>
@@ -624,7 +629,6 @@ _subscriptions per 100 inhabitants_: 82 (2020 est.)<br>
 _general assessment_: Rwanda was slow to liberalize the mobile sector; there was effective competition among three operators; the fixed broadband sector has suffered from limited fixed-line infrastructure and high prices; operators are rolling out national backbone networks which also allow them to connect to the international submarine cables on Africa&rsquo;s east coast; these cables gave the entire region greater internet bandwidth and ended the dependency on satellites; while the country also has a new cable link with Tanzania, and via Tanzania&rsquo;s national broadband backbone it has gained connectivity to the networks of several other countries in the region; the number of subscribers on LTE infrastructure has increased sharply, helped by national LTE coverage achieved in mid-2018; mobile remains the dominant platform for voice and data services; the regulator noted that the number of mobile subscribers increased 2.7% in 2021, year-on-year; there was a slight fall in the beginning of 2022 (2022)<br>
 _domestic_: the capital, Kigali, is connected to provincial centers by microwave radio relay, and recently by cellular telephone service; much of the network depends on wire and HF radiotelephone; fixed-line less than 1 per 100 and mobile-cellular telephone density has increased to nearly 82 telephones per 100 persons (2020)<br>
 _international_: country code - 250; international connections employ microwave radio relay to neighboring countries and satellite communications to more distant countries; satellite earth stations - 1 Intelsat (Indian Ocean) in Kigali (includes telex and telefax service); international submarine fiber-optic cables on the African east coast has brought international bandwidth and lessened the&nbsp;dependency on satellites<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 13 TV stations; 35 radio stations registered, including international broadcasters, government owns most popular TV and radio stations; regional satellite-based TV services available<br>
@@ -651,7 +655,7 @@ _annual passenger traffic on registered air carriers_: 1,073,528 (2018)<br>
 9XR<br>
 
 **Airports**<br>
-_total_: 7 (2021)<br>
+7 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
@@ -708,6 +712,6 @@ the RDF's inventory includes mostly Soviet-era and older Western--largely French
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 72,120 (Democratic Republic of the Congo) (2022); 48,592 (Burundi) (2023)<br>
+_refugees (country of origin)_: 71,559 (Democratic Republic of the Congo) (2022); 48,592 (Burundi) (2023)<br>
 _stateless persons_: 9,500 (2022)<br>
 

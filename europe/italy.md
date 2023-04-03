@@ -143,7 +143,7 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 31.4 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-2 deaths/100,000 live births (2017 est.)<br>
+5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.11 deaths/1,000 live births<br>
@@ -477,9 +477,18 @@ _female_: 33.8% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 35.2 (2018 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 14.2% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
 _highest 10%_: 26.8% (2000)<br>
+
+**Remittances**<br>
+0.49% of GDP (2021 est.)<br>
+0.51% of GDP (2020 est.)<br>
+0.52% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $903.3 billion (2017 est.)<br>
@@ -618,7 +627,6 @@ _subscriptions per 100 inhabitants_: 128 (2020 est.)<br>
 _general assessment_: Italy&rsquo;s large telecom market has one of the most progressive fiber sectors in Europe, with regulatory measures encouraging network sharing; regulatory measures have also been introduced to facilitate access to next generation networks (NGNs), and a number of deals have been brokered which enable the main telcoms to provide bundled services to large numbers of the population; Italy&rsquo;s vibrant mobile market has one of the highest subscription rates in Europe, though the number of subscribers has fallen in recent years as customers respond to attractive off-net pricing which has reduced the financial benefit of having SIM cards from different providers; network companies were among the first in Europe to trial services based on 5G; the high cost also encouraged the regulator in early 2021 to consider extending the licenses by an additional six years (2021)<br>
 _domestic_: high-capacity cable and microwave radio relay trunks; 32 per 100 for fixed-line and nearly 128 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 39; landing points for&nbsp;Italy-Monaco, Italy-Libya, Italy-Malta, Italy-Greece-1, Italy-Croatia, BlueMed, Janna, FEA, SeaMeWe-3 &amp; 4 &amp; 5, Trapani-Kelibia, Columbus-III, Didon, GO-1, HANNIBAL System, MENA, Bridge International, Malta-Italy Interconnector, Melita1, IMEWE, VMSCS, AAE-1, and OTEGLOBE, submarine cables that provide links to Asia, the&nbsp;Middle East, Europe, North Africa, Southeast Asia, Australia and US; satellite earth stations - 3 Intelsat (with a total of 5 antennas - 3 for Atlantic Ocean and 2 for Indian Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 two Italian media giants dominate with 3 national terrestrial stations and privately owned companies with 3 national terrestrial stations; a large number of private stations, a satellite TV network; 3 AM/FM nationwide radio stations; about 1,300 commercial radio stations<br>
@@ -646,7 +654,7 @@ _annual freight traffic on registered air carriers_: 1.418 billion (2018) mt-km<
 I<br>
 
 **Airports**<br>
-_total_: 129 (2021)<br>
+129 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 98<br>
@@ -699,7 +707,7 @@ Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italia
 <strong>note 1:</strong> the Carabinieri is the national gendarmerie; for its civil police functions, the Carabinieri falls under the control of the Ministry of the Interior<br><br><strong>note 2:</strong> the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
 
 **Military expenditures**<br>
-1.55% of GDP (2022)<br>
+1.5% of GDP (2022)<br>
 1.5% of GDP (2021)<br>
 1.6% of GDP (2020)<br>
 1.2% of GDP (2019) (approximately $30.1 billion)<br>
@@ -736,7 +744,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 171,739 (Ukraine) (as of 24 February 2023)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 710,889 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
+<strong>note:</strong> 716,615 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

@@ -138,7 +138,7 @@ _65 years and over_: 0.87 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-67 deaths/100,000 live births (2017 est.)<br>
+27 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 15.44 deaths/1,000 live births<br>
@@ -308,11 +308,11 @@ _residency requirement for naturalization_: 8 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Paula-Mae WEEKES (since 19 March 2018)<br>
+_chief of state_: President Christine KANGALOO (since 20 March 2023)<br>
 _head of government_: Prime Minister Keith ROWLEY (since 9 September 2015)<br>
 _cabinet_: Cabinet appointed from among members of Parliament<br>
 _elections/appointments_: president indirectly elected by an electoral college of selected Senate and House of Representatives members for a 5-year term (eligible for a second term); election last held on 20 January 2023 (next to be held by February 2028); the president usually appoints the leader of the majority party in the House of Representatives as prime minister<br>
-_election results_: Christine KANGALOO (PNM) elected president by the electoral college on 20 January 2023; Christine KANGALOO received 48 votes against 22 votes for opposition candidate Israel KHAN (UNC); the new president takes office on 21 March 2023<br>
+_election results_: Christine KANGALOO (PNM) elected president by the electoral college on 20 January 2023; Christine KANGALOO received 48 votes against 22 votes for opposition candidate Israel KHAN (UNC)<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives (42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)<br>
@@ -439,6 +439,11 @@ _female_: 12.6% (2021 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
+
+**Remittances**<br>
+0.95% of GDP (2021 est.)<br>
+0.92% of GDP (2020 est.)<br>
+0.6% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $5.581 billion (2017 est.)<br>
@@ -573,7 +578,6 @@ _subscriptions per 100 inhabitants_: 155.11 (2019)<br>
 _general assessment_: excellent international service; good local service; broadband access; expanded FttP (Fiber to the Home) markets; LTE launch; regulatory development; major growth in mobile telephony and data segments which attacks operation investment in fiber infrastructure; moves to end roaming charges (2020)<br>
 _domestic_: fixed-line over 23 per 100 persons and mobile-cellular teledensity 142 per 100 persons (2020)<br>
 _international_: country code - 1-868; landing points for the EC Link, ECFS, Southern Caribbean Fiber, SG-SCS and Americas II submarine cable systems provide connectivity to US, parts of the Caribbean and South America; satellite earth station - 1 Intelsat (Atlantic Ocean); tropospheric scatter to Barbados and Guyana (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 6 free-to-air TV networks, 2 of which are state-owned; 24 subscription providers (cable and satellite); over 36 radio frequencies (2019)<br>
@@ -601,7 +605,7 @@ _annual freight traffic on registered air carriers_: 41.14 million (2018) mt-km<
 9Y<br>
 
 **Airports**<br>
-_total_: 4 (2021)<br>
+4 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>

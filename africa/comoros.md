@@ -141,7 +141,7 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-273 deaths/100,000 live births (2017 est.)<br>
+217 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 56.01 deaths/1,000 live births<br>
@@ -446,6 +446,11 @@ _female_: 21.5% (2021 est.)<br>
 _lowest 10%_: 0.9%<br>
 _highest 10%_: 55.2% (2004)<br>
 
+**Remittances**<br>
+18.56% of GDP (2020 est.)<br>
+14.1% of GDP (2019 est.)<br>
+14.52% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $165.2 million (2017 est.)<br>
 _expenditures_: $207.3 million (2017 est.)<br>
@@ -574,18 +579,17 @@ _Total energy consumption per capita 2019_: 5.346 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,573 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total subscriptions_: 7,431 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 781,579 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 90 (2020 est.)<br>
+_total subscriptions_: 853,449 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 104 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Comoros launched a special program for the construction of a wireless network to inter connect the 3 islands of the archipelago; telephone service limited to the islands' few towns (2020)<br>
-_domestic_: fixed-line connections less than 1 per 100 persons; mobile-cellular usage about 90 per 100 persons; 2 companies provide domestic and international mobile service and wireless data (2020)<br>
+_domestic_: fixed-line connections less than 1 per 100 persons; mobile-cellular usage about 104 per 100 persons (2021)<br>
 _international_: country code - 269; landing point for the EASSy, Comoros Domestic Cable System, Avassa, and FLY-LION3&nbsp;fiber-optic submarine cable system connecting East Africa with Europe; HF radiotelephone communications to Madagascar and Reunion (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 national state-owned TV station and a TV station run by Anjouan regional government; national state-owned radio; regional governments on the islands of Grande Comore and Anjouan each operate a radio station; a few independent and small community radio stations operate on the islands of Grande Comore and Moheli, and these two islands have access to Mayotte Radio and French TV<br>
@@ -611,7 +615,7 @@ _inventory of registered aircraft operated by air carriers_: 9<br>
 D6<br>
 
 **Airports**<br>
-_total_: 4 (2021)<br>
+4 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>

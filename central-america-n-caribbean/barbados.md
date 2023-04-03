@@ -133,7 +133,7 @@ _65 years and over_: 0.72 male(s)/female<br>
 _total population_: 0.93 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-27 deaths/100,000 live births (2017 est.)<br>
+39 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 9.79 deaths/1,000 live births<br>
@@ -447,6 +447,11 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+2.32% of GDP (2020 est.)<br>
+2.03% of GDP (2019 est.)<br>
+2.12% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.466 billion (2017 est.) (2013 est.)<br>
 _expenditures_: $1.664 billion (2017 est.)<br>
@@ -602,7 +607,7 @@ _subscriptions per 100 inhabitants_: 45 (2020 est.)<br>
 8P<br>
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

@@ -141,7 +141,7 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 29 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-7 deaths/100,000 live births (2017 est.)<br>
+5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 1.51 deaths/1,000 live births<br>
@@ -464,9 +464,18 @@ _female_: 15.5% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 24.2 (2017 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 14.6% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 5.1% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8%<br>
 _highest 10%_: 20.1% (2016)<br>
+
+**Remittances**<br>
+1.21% of GDP (2021 est.)<br>
+1.22% of GDP (2020 est.)<br>
+1.22% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $21.07 billion (2017 est.)<br>
@@ -605,7 +614,6 @@ _subscriptions per 100 inhabitants_: 120.85 (2019)<br>
 _general assessment_: Slovenia&rsquo;s telecom sector is dominated by four operators; the mobile market has four MNOs and a small number of MVNOs, operating in a country with a potential market of just over two million people; the regulator in recent years has addressed the need for mobile operators to have more spectrum, so enabling them to improve the quality and range of services; a multi-spectrum auction was concluded in mid-2021, aimed at supporting 5G services; the broadband market continues to be dominated by a small number of players; DSL lost its dominance some years ago, being taken over by fiber as subscribers are migrated to new fiber-based networks; fiber accounted for almost half of all fixed broadband connections by March 2022 (2022)<br>
 _domestic_: fixed-line nearly 34 per 100 and mobile-cellular over 122 per 100 teledensity (2020)<br>
 _international_: country code - 386 (2016)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 public TV broadcaster, Radiotelevizija Slovenija (RTV), operates a system of national and regional TV stations; 35 domestic commercial TV stations operating nationally, regionally, and locally; about 60% of households are connected to multi-channel cable TV; public radio broadcaster operates 3 national and 4 regional stations; more than 75 regional and local commercial and non-commercial radio stations<br>
@@ -633,7 +641,7 @@ _annual freight traffic on registered air carriers_: 540,000 (2018) mt-km<br>
 S5<br>
 
 **Airports**<br>
-_total_: 16 (2021)<br>
+16 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 9<br>
@@ -673,7 +681,7 @@ _major seaport(s)_: Koper<br>
 Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force with air, land, maritime, special operations, combat support, and combat service support elements (2022)<br>
 
 **Military expenditures**<br>
-1.2% of GDP (2022 est.)<br>
+1.3% of GDP (2022 est.)<br>
 1.2% of GDP (2021)<br>
 1% of GDP (2020)<br>
 1.1% of GDP (2019) (approximately $800 million)<br>
@@ -702,9 +710,9 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,061 (Ukraine) (as of 7 March 2023)<br>
+_refugees (country of origin)_: 9,119 (Ukraine) (as of 19 March 2023)<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  </strong>569,885 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
+<strong>note:  </strong>572,570 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

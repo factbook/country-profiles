@@ -143,7 +143,7 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-164 deaths/100,000 live births (2017 est.)<br>
+183 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 45.54 deaths/1,000 live births<br>
@@ -471,6 +471,9 @@ _female_: 36.3% (2021 est.)<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 30.3% (2008 est.)<br>
 
+**Remittances**<br>
+12.04% of GDP (2016 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.821 billion (2017 est.)<br>
 _expenditures_: $4.458 billion (2017 est.)<br>
@@ -606,7 +609,6 @@ _subscriptions per 100 inhabitants_: 47 (2020)<br>
 _general assessment_: Yemen continues to provide an exceptionally challenging market for telcos; civil unrest has caused havoc and devastation across most parts of the country, while the threat of sanctions has also made it a challenging environment in which to operate; a large proportion of the population requires humanitarian assistance, and there is little disposable income for services upon which telcos can generate revenue; essential telecom infrastructure, such as mobile towers and fiber cabling, has often been targeted, destroyed, or damaged by the opposing sides in the ongoing conflict; these difficulties have proved to be a disincentive to telcos investing in infrastructure, with the result that the country lacks basic fixed-line infrastructure, and mobile services are based on outdated GSM; this has prevented the development of a mobile broadband sector, or the evolution of mobile data services; the ownership of telecommunication services, and the scrutiny of associated revenues and taxes, have become a political issue in Yemen; until telecom infrastructure can be improved across Yemen, and until civil unrest eases, there will be little progress for the sector (2022)<br>
 _domestic_: the national network consists of microwave radio relay, cable, tropospheric scatter, GSM and CDMA mobile-cellular telephone systems; fixed-line teledensity remains low by regional standards at roughly 4 per 100 but mobile cellular use expanding at over 47 per 100 (2020)<br>
 _international_: country code - 967; landing points for the FALCON, SeaMeWe-5, Aden-Djibouti, and the AAE-1 international submarine cable connecting Europe, Africa, the Middle East, Asia and Southeast Asia; satellite earth stations - 3 Intelsat (2 Indian Ocean and 1 Atlantic Ocean), 1 Intersputnik (Atlantic Ocean region), and 2 Arabsat; microwave radio relay to Saudi Arabia and Djibouti (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-run TV with 2 stations; state-run radio with 2 national radio stations and 5 local stations; stations from Oman and Saudi Arabia can be accessed<br>
@@ -634,7 +636,7 @@ _annual freight traffic on registered air carriers_: 3.27 million (2018) mt-km<b
 7O<br>
 
 **Airports**<br>
-_total_: 57 (2021)<br>
+57 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 17<br>
@@ -702,6 +704,6 @@ Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and a
 <p><em>Yemen-Oman</em>: none identified</p> <p><em>Yemen-Saudia Arabia:</em> in 2004, Saudi Arabia reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities, including militants and arms; in 2013 and 2015, Saudi Arabia again erected fences<br><br><br></p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,306 (Ethiopia) (2022); 63,349 (Somalia) (2023)<br>
+_refugees (country of origin)_: 20,306 (Ethiopia) (2022); 63,649 (Somalia) (2023)<br>
 _IDPs_: 4.52 million (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2022)<br>
 

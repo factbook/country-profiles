@@ -144,7 +144,7 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-661 deaths/100,000 live births (2017 est.)<br>
+652 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 43.2 deaths/1,000 live births<br>
@@ -471,6 +471,11 @@ _female_: 3.2% (2021 est.)<br>
 _lowest 10%_: 2.4%<br>
 _highest 10%_: 30.1% (2007)<br>
 
+**Remittances**<br>
+10.97% of GDP (2020 est.)<br>
+10.43% of GDP (2019 est.)<br>
+13.44% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $553.6 million (2017 est.)<br>
 _expenditures_: $693.8 million (2017 est.)<br>
@@ -609,7 +614,6 @@ _subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
 _general assessment_: Liberia has a telecom market which is mainly based on mobile networks; this is due to the civil war which destroyed much of the fixed-line infrastructure; to facilitate LTC Mobile&rsquo;s market entry, the government in January 2022 set in train amendments to telecom legislation; internet services are available from a number of wireless ISPs as well as the mobile operators; the high cost and limited bandwidth of connections means that internet access is expensive and rates are very low; additional bandwidth is available from an international submarine cable but considerable investment is still needed in domestic fixed-line infrastructure before end-users can make full use of the cable (2022)<br>
 _domestic_: fixed-line less than 1 per 100; mobile-cellular subscription base growing and teledensity approached 33 per 100 persons (2020)<br>
 _international_: country code - 231; landing point for the ACE submarine cable&nbsp;linking 20 West&nbsp;African countries and Europe;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 8 private and 1 government-owned TV station; satellite TV service available; 1 state-owned radio station; approximately&nbsp;20 independent radio stations broadcasting in Monrovia, with approximately&nbsp;80 more local stations operating in other areas; transmissions of 4 international (including the British Broadcasting Corporation and Radio France Internationale) broadcasters are available (2019)<br>
@@ -631,7 +635,7 @@ _subscriptions per 100 inhabitants_: 0.3 (2020 est.)<br>
 A8<br>
 
 **Airports**<br>
-_total_: 29 (2021)<br>
+29 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>

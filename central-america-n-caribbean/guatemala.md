@@ -147,7 +147,7 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-95 deaths/100,000 live births (2017 est.)<br>
+96 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 25.57 deaths/1,000 live births<br>
@@ -479,9 +479,18 @@ _female_: 9.4% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 48.3 (2014 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 41.2% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 1.6% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.6%<br>
 _highest 10%_: 38.4% (2014)<br>
+
+**Remittances**<br>
+17.9% of GDP (2021 est.)<br>
+14.69% of GDP (2020 est.)<br>
+13.81% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $8.164 billion (2017 est.)<br>
@@ -611,18 +620,17 @@ _Total energy consumption per capita 2019_: 19.411 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,272,467 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
+_total subscriptions_: 2,319,643 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 20,390,671 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 114 (2020 est.)<br>
+_total subscriptions_: 22,124,839 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 126 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Guatemala&rsquo;s telecom infrastructure has suffered from years of under investment from state and provincial government; the poor state of fixed-line infrastructure has led to Guatemala having one of the lowest fixed-line teledensities in the region; in many rural regions of the country there is no fixed-line access available, and so mobile services are adopted by necessity; private investment has been supported by government and regulatory efforts, resulting in a steady growth in the number of fixed lines which has supported growth in the fixed broadband segment; delays in launching LTE services left the country lagging behind in the development of mobile broadband and the benefits which it can bring to the country's social and economic growth; two new submarine cables are due for completion by 2022; improved international connectivity should drive further uptake of both fixed and mobile broadband services; intense competition among the networks has helped to improve services and lower prices for end-users; given the commercial impetus of networks, insufficient government financial investment has resulted in many regional areas remaining with poor or non-existent services; the country benefits from one of the most open regulatory frameworks, with all telecom sectors having been open to competition since 1996; mobile subscriptions are on par with the regional average, though the slower growth in the mobile subscriber base suggests a level of market saturation, with the emphasis among networks being on generating revenue via mobile data services (2021)<br>
-_domestic_: fixed-line teledensity roughly 13 per 100 persons; fixed-line investments are concentrating on improving rural connectivity; mobile-cellular teledensity about 114 per 100 persons (2020)<br>
+_domestic_: fixed-line teledensity roughly 13 per 100 persons; fixed-line investments are concentrating on improving rural connectivity; mobile-cellular teledensity about 126 per 100 persons (2021)<br>
 _international_: country code - 502; landing points for&nbsp;the ARCOS, AMX-1, American Movil-Texius&nbsp;West Coast Cable and the SAm-1 fiber-optic submarine cable system that, together, provide connectivity to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 4 privately owned national terrestrial TV channels dominate TV broadcasting; multi-channel satellite and cable services are available; 1 government-owned radio station and hundreds of privately owned radio stations (2019)<br>
@@ -650,7 +658,7 @@ _annual freight traffic on registered air carriers_: 110,000 (2018) mt-km<br>
 TG<br>
 
 **Airports**<br>
-_total_: 291 (2021)<br>
+291 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 16<br>
@@ -701,8 +709,8 @@ Army of Guatemala (Ejercito de Guatemala): Land Forces (Fuerzas de Tierra), Nava
 0.4% of GDP (2022 est.)<br>
 0.4% of GDP (2021)<br>
 0.4% of GDP (2020)<br>
-0.4% of GDP (2019) (approximately $530 million)<br>
-0.4% of GDP (2018) (approximately $470 million)<br>
+0.4% of GDP (2019)<br>
+0.4% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 20,000 active military personnel (18,000 Land Forces; 1,000 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2022)<br>
@@ -711,7 +719,7 @@ information varies; approximately 20,000 active military personnel (18,000 Land 
 the military's inventory is small and mostly comprised of older US equipment; in recent years, Guatemala has received small amounts of equipment from several countries, including the US (2022)<br>
 
 **Military service age and obligation**<br>
-all male citizens between the ages of 18 and 50 are eligible for military service; in practice, most of the force is volunteer, however, a selective draft system is employed, resulting in a small portion of 17-21 year-olds being conscripted; conscript service obligation varies from 1 to 2 years; women may volunteer (2022)<br>
+all male citizens between the ages of 18 and 50 are eligible for military service; in practice, most of the force is volunteer, however, a selective draft system is employed, resulting in a small portion of 17-21 year-olds being conscripted; conscript service obligation varies from 12-24 months; women may volunteer (2023)<br>
 <strong>note:</strong> as of 2017, women comprised up to 10% of the active military<br>
 
 **Military deployments**<br>

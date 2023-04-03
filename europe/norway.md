@@ -144,7 +144,7 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data is calculated based on actual age at first births<br>
 
 **Maternal mortality ratio**<br>
-2 deaths/100,000 live births (2017 est.)<br>
+2 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 2.28 deaths/1,000 live births<br>
@@ -466,9 +466,18 @@ _female_: 12.5% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 27.7 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 11.7% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8%<br>
 _highest 10%_: 21.2% (2014)<br>
+
+**Remittances**<br>
+0.14% of GDP (2021 est.)<br>
+0.16% of GDP (2020 est.)<br>
+0.15% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $217.1 billion (2017 est.)<br>
@@ -608,7 +617,6 @@ _subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
 _general assessment_: Norway has a sophisticated telecom market with high broadband and mobile penetration rates and a highly developed digital media sector; although not a member of the European Union, the country&rsquo;s telecoms sector is synchronized with relevant EC legislation; the mobile broadband sector was bolstered by the auction of spectrum in the 700MHz and 21MHz band in June 2019; additional spectrum in the 700MHz is expected to be auctioned for mobile broadband use (5G) in 2021; the broadband penetration rate is among the highest in Europe, while in recent years subscribers have been migrated to faster broadband solutions over fiber networks, VDSL and upgraded cable infrastructure; in late 2019 the government proposed making broadband of at least 20Mb/s a universal service (2021)<br>
 _domestic_: Norway has a domestic satellite system; the prevalence of rural areas encourages the wide use of mobile-cellular systems; fixed-line over 6 per 100 and mobile-cellular nearly 108 per 100 (2020)<br>
 _international_: country code - 47;&nbsp;landing points for the&nbsp;Svalbard Undersea Cable System, Polar Circle Cable, Bodo-Rost Cable, NOR5KE Viking, Celtic Norse, Tempnet Offshore FOC Network, England Cable, Denmark-Norwary6, Havfrue/AEC-2, Skagerrak 4, and the Skagenfiber West &amp; East&nbsp;submarine cables providing links to other Nordic countries, Europe and the US; satellite earth stations - Eutelsat,&nbsp;Intelsat (Atlantic Ocean), and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Norway shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Sweden) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned public radio-TV broadcaster operates 3 nationwide TV stations, 3 nationwide radio stations, and 16 regional radio stations; roughly a dozen privately owned TV stations broadcast nationally and roughly another 25 local TV stations broadcasting; nearly 75% of households have access to multi-channel cable or satellite TV; 2 privately owned radio stations broadcast nationwide and another 240 stations operate locally; Norway is the first country in the world to phase out FM radio in favor of Digital Audio Broadcasting (DAB), a process scheduled for completion in late 2017 (2019)<br>
@@ -634,7 +642,7 @@ _inventory of registered aircraft operated by air carriers_: 125<br>
 LN<br>
 
 **Airports**<br>
-_total_: 95 (2021)<br>
+95 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 67<br>
@@ -695,7 +703,7 @@ approximately 27,000 active personnel (9,000 Army; 4,300 Navy; 4,700 Air Force; 
 the military's inventory includes a mix of modern, imported European, US, and domestically produced weapons systems and equipment; in recent years, the US has been the leading supplier of weapons systems to Norway (2022)<br>
 
 **Military service age and obligation**<br>
-19-35 years of age for selective compulsory military service for men and women; 17 years of age for male volunteers; 18 years of age for women volunteers; 12-19 month service obligation; conscripts first serve 12 months between the ages of 19 and 28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2022)<br>
+19-35 years of age for selective compulsory military service for men and women; 17 years of age for male volunteers; 18 years of age for women volunteers; 12-19 month service obligation; conscripts first serve 12 months between the ages of 19 and 28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2023)<br>
 <strong>note 1: </strong>Norway conscripts about 8,000 individuals annually; it has had compulsory military service since 1907<br><br><strong>note 2:</strong> Norway was the first NATO country to allow women to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as Jegertroppen (The Hunter Troop), which was established in 2014; as of 2021, women comprised about 20% of the military's full-time personnel<br><br><strong>note 3:</strong> beginning in 1995, the military began offering Icelandic citizens the opportunity to apply for admission to officer schools in Norway with an associated education and service contract under special reasons and based on recommendations from Icelandic authorities; as early as 1996, Norway and Iceland entered into a cooperation agreement on the voluntary participation of Icelandic personnel in Norwegian force contributions in foreign operations<br>
 
 **Military deployments**<br>

@@ -147,7 +147,7 @@ _65 years and over_: 0.88 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-31 deaths/100,000 live births (2017 est.)<br>
+30 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 15.48 deaths/1,000 live births<br>
@@ -592,7 +592,6 @@ _subscriptions per 100 inhabitants_: 113.58 (2019)<br>
 _general assessment_: the years of civil war and destruction to infrastructure continue to have a toll on the telecoms sector in Syria; although over the years the major mobile service providers have endeavored to restore and rebuild damaged networks, the operating environment has been difficult; following disputed demands for back taxes, MTN Group in August 2021 exited the country, after its majority stake had been transferred to judicial guardianship; this effectively meant that the mobile market became a monopoly; in February 2022 the regulator awarded a third mobile license following a process which had been ongoing for many years; telecommunication services in Syria are highly regulated; although urban areas can make use of the network built and maintained by the government-owned incumbent, many under served remote areas in the countryside are obliged to rely on satellite communications; the domestic and international fixed-line markets in Syria remain the monopoly of the STE, despite several initiatives over the years aimed at liberalizing the market; mobile broadband penetration in Syria is still quite low, despite quite a high population coverage of 3G networks and some deployment of LTE infrastructure; this may provide potential opportunities for growth once infrastructure and economic reconstruction efforts make headway, and civil issues subside (2022)<br>
 _domestic_: the number of fixed-line connections increased markedly prior to the civil war in 2011 and now stands at over 16 per 100; mobile-cellular service is just over 95 per 100 persons (2020)<br>
 _international_: country code - 963; landing points for the Aletar, BERYTAR and UGART submarine cable connections to Egypt, Lebanon, and Cyprus; satellite earth stations - 1 Intelsat (Indian Ocean) and 1 Intersputnik (Atlantic Ocean region); coaxial cable and microwave radio relay to Iraq, Jordan, Lebanon, and Turkey; participant in Medarabtel (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-run TV and radio broadcast networks;&nbsp;state operates 2 TV networks and&nbsp;5 satellite channels; roughly two-thirds of Syrian homes have a satellite dish providing access to foreign TV broadcasts; 3 state-run radio channels; first private radio station launched in 2005; private radio broadcasters prohibited from transmitting news or political content (2018)<br>
@@ -620,7 +619,7 @@ _annual freight traffic on registered air carriers_: 30,000 (2018) mt-km<br>
 YK<br>
 
 **Airports**<br>
-_total_: 90 (2021)<br>
+90 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 29<br>
@@ -703,7 +702,7 @@ Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras 
 _refugees (country of origin)_: 568,730 (Palestinian Refugees) (2020); 11,121 (Iraq) (mid-year 2022)<br>
 _IDPs_: 6.75 million (ongoing civil war since 2011) (2022)<br>
 _stateless persons_: 160,000 (2022); note - Syria's stateless population consists of Kurds and Palestinians; stateless persons are prevented from voting, owning land, holding certain jobs, receiving food subsidies or public healthcare, enrolling in public schools, or being legally married to Syrian citizens; in 1962, some 120,000 Syrian Kurds were stripped of their Syrian citizenship, rendering them and their descendants stateless; in 2011, the Syrian Government granted citizenship to thousands of Syrian Kurds as a means of appeasement; however, resolving the question of statelessness is not a priority given Syria's ongoing civil war<br>
-<strong>note:</strong> the ongoing civil war has resulted in more than 5.4 million registered Syrian refugees - dispersed mainly in Egypt, Iraq, Jordan, Lebanon, and Turkey - as of March 2023<br>
+<strong>note:</strong> the ongoing civil war has resulted in almost 5.4 million registered Syrian refugees - dispersed mainly in Egypt, Iraq, Jordan, Lebanon, and Turkey - as of March 2023<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 &mdash; Syria does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore Syria remained on Tier 3; during the reporting period, there was a government policy or pattern of human trafficking and employing or recruiting child soldiers; Syrians were exploited in forced labor under compulsory military service for indefinite periods under threat of torture, familial reprisal, or death; the government did not hold any traffickers criminally accountable nor identify or protect any victims; government and pro-Syrian militias continued to forcibly recruit and use child soldiers; the government did not prevent armed opposition forces and designated terrorist organizations from recruiting children; authorities continued to arrest, detain, and severely abuse trafficking victims, including child soldiers, and punished them for unlawful acts traffickers compelled them to commit (2022)<br>

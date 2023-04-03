@@ -149,7 +149,7 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-638 deaths/100,000 live births (2017 est.)<br>
+620 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 103.06 deaths/1,000 live births<br>
@@ -493,6 +493,11 @@ _female_: 26.4% (2021 est.)<br>
 _lowest 10%_: 3.8%<br>
 _highest 10%_: 24% (2008)<br>
 
+**Remittances**<br>
+3.92% of GDP (2020 est.)<br>
+4.38% of GDP (2019 est.)<br>
+4.36% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.276 billion (2017 est.)<br>
 _expenditures_: $5.328 billion (2017 est.)<br>
@@ -620,18 +625,17 @@ _Total energy consumption per capita 2019_: 3.227 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 145,787 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 150,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 22,678,024 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 58 (2020 est.)<br>
+_total subscriptions_: 23 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 57 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the return of the Taliban to power in August 2021 following the American-led withdrawal of security forces has thrown the telecom sector into disarray; Afghanistan was near the bottom of the world&rsquo;s rankings in terms of its telecom market maturity, but it had been making some positive progress toward establishing widespread coverage over the prior decade under civilian administration; after the first Taliban regime was toppled in 2001, considerable foreign investment along with open competition in the telecom sector resulted in the transformation of the mobile market; the first mobile network was set up in 2002, and by 2020 coverage had reached 90%; mobile penetration rates, too, had climbed from zero to almost 100% by the time a new insurgency kicked off in 2019 that was closely followed by the start of the Covid-19 pandemic; both events caused a drop in subscriber numbers and in revenue for the mobile operators; it was additional costs involved with repairing and replacing network infrastructure destroyed by the Taliban in the build up to their takeover that put a strain on the operators&rsquo; finances; with increased levels of risk and uncertainty now associated with running a telecom company in the embattled state (2021)<br>
-_domestic_: before 15 August 2021, less than 1 per 100 for fixed-line teledensity; 58 per 100 for mobile-cellular; an increasing number of Afghans utilize mobile-cellular phone networks (2021)<br>
+_domestic_: before 15 August 2021, less than 1 per 100 for fixed-line teledensity; 57 per 100 for mobile-cellular subscriptions (2021)<br>
 _international_: country code - 93; multiple VSAT's&nbsp;provide international and domestic voice and data connectivity (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 since 15 August 2021, independent media outlets have decreased in number due to financial hardships, departure of staff from the country, and restrictions placed by the Taliban; media workers report self-censoring criticism of the Taliban; before 15 August 2021, the former Afghan Government-owned broadcaster, Radio Television Afghanistan (RTA), operated a series of radio and television stations in Kabul and the provinces and the country had an estimated 174 private radio stations and 83 TV stations; television and radio are key media platforms; only about a fifth of Afghans in urban areas use the internet, mostly through smartphones, and young adults are significantly more likely to use the internet (2021)<br>
@@ -659,7 +663,7 @@ _annual freight traffic on registered air carriers_: 29.56 million (2018) mt-km<
 YA<br>
 
 **Airports**<br>
-_total_: 46 (2021)<br>
+46 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 29<br>

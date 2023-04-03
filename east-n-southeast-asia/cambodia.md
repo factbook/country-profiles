@@ -154,7 +154,7 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-160 deaths/100,000 live births (2017 est.)<br>
+218 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 28.75 deaths/1,000 live births<br>
@@ -368,7 +368,7 @@ _subordinate courts_: Appellate Court; provincial and municipal courts; Military
 
 **Political parties and leaders**<br>
 Candlelight Party or CP (the latest incarnation of the Sam <u>Rainsy</u> Party or SRP and the former Human Rights Party or HRP, which joined to form the Cambodia National Rescue Party or CNRP in 2012; the CNRP was dissolved in 2017)<br>Cambodian People's Party or CPP [HUN SEN]<br>Khmer Will Party [KONG MONIKA]<br>Khmer National Unity Party or KNUP (an offshoot of FUNCINPEC) [NHEK BUN CHHAY]<br>League for Democracy Party or LDP [KHEM Veasna]<br>National United Front for Independent, Neutral, Peaceful, and Cooperative Cambodia or FUNCINPEC [Prince NORODOM CHAKRAVUTH]<br><br>note - other minor parties that registered for the 2022 commune-level elections included: Cambodia National Love Party, Cambodia Nationality Party, Cambodian Youth Party, Cambodia Reform Party, Kampucheaniyum Party, Grassroots Democratic Party, Khmer United Party, Beehive Social Democratic Party, Cambodia Indigenous People's Democracy Party, Ekpheap Cheat Khmer Party, Reaksmey Khemara Party, Khmer Economic Development Party<br>
-<strong>note:</strong> following the 2017 commune election, the CPP-led government arrested the CNRP president Kem SOKHA for treason, dissolved the party on similar grounds, and forced most of its senior leadership into exile, where the party’s former president, Sam RAINSY, had been living since late 2015; as of 2022, opposition parties, particularly the Candlelight Party, continue to report, intimidation, harassment, and arrests by the Cambodian Government<br>
+<strong>note:</strong> following the 2017 commune election, the CPP-led government arrested the CNRP president Kem SOKHA for treason, dissolved the party on similar grounds, and forced most of its senior leadership into exile, where the party’s former president, Sam RAINSY, had been living since late 2015; as of 2023, opposition parties, particularly the Candlelight Party, continue to report, intimidation, harassment, and arrests by the Cambodian Government<br>
 
 **International organization participation**<br>
 ADB, ARF, ASEAN, CICA, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MINUSMA, MIGA, NAM, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -486,9 +486,18 @@ _female_: 2.1% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 37.9 (2008 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 42.3% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 2.2% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2%<br>
 _highest 10%_: 28% (2013 est.)<br>
+
+**Remittances**<br>
+4.28% of GDP (2021 est.)<br>
+4.92% of GDP (2020 est.)<br>
+5.63% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $3.947 billion (2017 est.)<br>
@@ -618,18 +627,17 @@ _Total energy consumption per capita 2019_: 13.629 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 55,603 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 40,296 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21,086,791 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 126 (2020 est.)<br>
+_total subscriptions_: 19,899,790 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 120 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Cambodia&rsquo;s mobile-dominated telecoms sector spent much of 2020 battling two major challenges: the global pandemic, and the government&rsquo;s retraction of trial licenses for the rollout of 5G; citing concerns about waste and inefficiency occurring if each operator built a separate 5G infrastructure in order to maximize their own network&rsquo;s coverage (and, presumably, to capture greater market share), the regulator withdrew the licenses that the operators had been using for their 5G trials; this was despite all of the operators having already announced a successful completion of their trials; more than a year later, the market is still waiting on the government to release its 5G policy and roadmap, along with the allocation of spectrum and approvals to permit commercial operation; there is little expectation of any further progress happening before the start of 2022; the mobile network operators have maintained their focus and investment strategies on upgrading and expanding their existing LTE networks around the country, and to 5G-enable their base stations; when the 5G market eventually arrives, the underlying infrastructure will at least be ready to support a rapid adoption of the higher-value applications and services; the mobile market fell back slightly during 2020 and 2021 (in terms of total subscriber numbers) as the Covid-19 crisis wore on, but it remains in relatively good health as mobile users increased their data usage over the period; the mobile broadband market experienced a small but very rare contraction in 2020, although rates were already very high in this area; there is likely to be a quick rebound to previous levels once economic conditions stabilize, followed by a modest rates of growth over the next five years; the number of fixed telephony lines in service continues to fall sharply as customers migrate to mobile platforms for both voice and data; the lack of any widespread fixed-line infrastructure has had a flow-on effect in the fixed-line broadband market, a sector that also remains largely under-developed (2021)<br>
-_domestic_: fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage, aided by competition among service providers, is about 130 per 100 persons (2020)<br>
+_domestic_: fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage, aided by competition among service providers, is about 120 per 100 persons (2021)<br>
 _international_: country code - 855; landing points for MCT and AAE-1 via submarine cables&nbsp;providing communication to Asia, the Middle East, Europe and Africa;&nbsp;satellite earth station - 1 Intersputnik (Indian Ocean region) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 mixture of state-owned, joint public-private, and privately owned broadcast media;&nbsp;27 TV broadcast stations with most operating on multiple channels, including 1 state-operated station broadcasting from multiple locations, 11 stations either jointly operated or privately owned with some broadcasting from several locations; multi-channel cable and satellite systems are available (2019);&nbsp;84 radio broadcast stations - 1 state-owned broadcaster with multiple stations and a large mixture of public and private broadcasters;&nbsp;one international broadcaster is&nbsp;available (2019) as well as one Chinese joint venture television station with the Ministry of Interior; several television and radio operators broadcast online only (often via Facebook) (2019)<br>
@@ -657,7 +665,7 @@ _annual freight traffic on registered air carriers_: 680,000 (2018) mt-km<br>
 XU<br>
 
 **Airports**<br>
-_total_: 16 (2021)<br>
+16 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 6<br>
@@ -715,14 +723,14 @@ the RCAF is armed largely with older Chinese and Russian-origin equipment; in re
 <strong>note: </strong>in December 2021, the US Government halted arms-related trade with Cambodia, citing deepening Chinese military influence, corruption, and human rights abuses by the government and armed forces; the policy of denial applied to licenses or other approvals for exports and imports of defense articles and defense services destined for or originating in Cambodia, with exceptions (on a case-by-case basis) related to conventional weapons destruction and humanitarian demining activities<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for compulsory and voluntary military service (conscription only selectively enforced since 1993); women may volunteer (2022)<br>
-<strong>note: </strong>in 2018, women made up an estimated 6% of the active duty military and 88 women held the rank of general<br>
+18 is the legal minimum age for compulsory and voluntary military service (conscription only selectively enforced since 1993; service is for 18 months); women may volunteer (2023)<br>
+<strong>note: </strong>in 2018, women made up an estimated 6% of the active-duty military and 88 women held the rank of general<br>
 
 **Military deployments**<br>
 225 Central African Republic (MINUSCA); 180 Lebanon (UNIFIL); 290 Mali (MINUSMA) (May 2022)<br>
 
 **Military - note**<br>
-the Royal Cambodian Armed Forces (RCAF) was re-established in 1993 under the first coalition government from the merger of the Cambodian Government’s military forces (Cambodian People’s Armed Forces) and the two non-communist resistance forces (Sihanoukist National Army, aka National Army for Khmer Independence, and the Khmer People's National Liberation Armed Forces); thousands of communist Khmer Rouge fighters began surrendering by 1994 under a government amnesty program and the last of the Khmer Rouge forces (National Army of Democratic Kampuchea) were demobilized or absorbed into the RCAF in 1999<br><br>Cambodia was once one of the most land mined countries in the world; by the early 1990s, various aid organizations estimated there were 8 to 10 million landmines scattered throughout the country; the mines were laid during Cambodia’s decades-long war by the Cambodian army, the Vietnamese, the Khmer Rouge, the non-communist fighters, and US forces; part of Cambodia's defense policy is demining the territory with the intent of having the entire country cleared of unexploded ordnances by 2035; over 1 million landmines and over 3 million explosives were discovered and removed from 1992 to 2018 (2022)<br>
+outside of periodic border skirmishes with Thailand, the RCAF’s primary responsibilities are internal, border, and coastal security; since 2016, the RCAF has conducted a small annual training exercise known as “Golden Dragon” with the military of China, except for 2021-2022 when it was canceled because of the COVID-19 pandemic; the Army has a few infantry divisions and an estimated 10-15 brigades, including about 5 rapid reaction “intervention,” a border security, and a prime minister’s bodyguard brigade, as well as an airborne/special operations brigade under a special forces command created in 2020; the Navy maintains a small force of patrol boats and a naval infantry brigade for coastal defense; the Air Force has a small number of combat and transport helicopters; the Royal Gendarmerie is reportedly organized into battalions and several mobile response units<br><br>the RCAF was re-established in 1993 under the first coalition government from the merger of the Cambodian Government’s military forces (Cambodian People’s Armed Forces) and the two non-communist resistance forces (Sihanoukist National Army, aka National Army for Khmer Independence, and the Khmer People's National Liberation Armed Forces); thousands of communist Khmer Rouge fighters began surrendering by 1994 under a government amnesty program and the last of the Khmer Rouge forces (National Army of Democratic Kampuchea) were demobilized or absorbed into the RCAF in 1999<br><br>Cambodia continues to be one of the most densely landmine-contaminated countries in the world; by the early 1990s, various aid organizations estimated there were 8 to 10 million landmines scattered throughout the country, with a particularly heavy concentration along a 1,000-km strip along the northwest Thai-Cambodia border known as the "K5 belt"; the mines were laid during Cambodia’s decades-long war by the Cambodian army, the Vietnamese, the Khmer Rouge, the non-communist fighters, and US forces; part of Cambodia's defense policy is demining the territory with the intent of having the entire country cleared of unexploded ordnances by 2035; over 1 million landmines and over 3 million explosives were discovered and removed from 1992 to 2018 (2022)<br>
 
 ## Transnational Issues
 

@@ -137,7 +137,7 @@ _65 years and over_: 0.97 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-72 deaths/100,000 live births (2017 est.)<br>
+94 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 14 deaths/1,000 live births<br>
@@ -449,6 +449,11 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+10.92% of GDP (2020 est.)<br>
+8.01% of GDP (2019 est.)<br>
+3.85% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $236.7 million (2017 est.)<br>
 _expenditures_: $244.1 million (2017 est.)<br>
@@ -587,7 +592,6 @@ _subscriptions per 100 inhabitants_: 88.44 (2019)<br>
 _general assessment_: for many years, 2G Global System for Mobile Communications was the primary mobile technology for Vanuatu&rsquo;s 300,000 people; recent infrastructure projects have improved access technologies, with a transition to 3G and, to a limited degree, to LTE; Vanuatu has also benefited from the ICN1 submarine cable and the launch of the Kacific-1 satellite, both of which have considerably improved access to telecom services in recent years; Vanuatu&rsquo;s telecom sector is liberalized, with the two prominent mobile operators; while fixed broadband penetration remains low, the incumbent operator is slowly exchanging copper fixed-lines for fiber; a number of ongoing submarine cable developments will also assist in increasing data rates and reduce internet pricing in coming years (2021)<br>
 _domestic_: fixed-line teledensity a bit over 1 per 100 and mobile-cellular just over 80 per 100 (2020)<br>
 _international_: country code - 678; landing points for the ICN1 &amp; ICN2 submarine cables providing connectivity to the Solomon Islands and Fiji; cables helped end-users with Internet bandwidth; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 state-owned TV station; multi-channel pay TV is available; state-owned Radio Vanuatu operates 2 radio stations; 2 privately owned radio broadcasters; programming from multiple international broadcasters is available<br>
@@ -615,7 +619,7 @@ _annual freight traffic on registered air carriers_: 1.66 million (2018) mt-km<b
 YJ<br>
 
 **Airports**<br>
-_total_: 31 (2021)<br>
+31 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 3<br>

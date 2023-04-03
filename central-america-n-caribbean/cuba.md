@@ -140,7 +140,7 @@ _65 years and over_: 0.71 male(s)/female<br>
 _total population_: 0.93 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-36 deaths/100,000 live births (2017 est.)<br>
+39 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 4.07 deaths/1,000 live births<br>
@@ -602,18 +602,17 @@ _Total energy consumption per capita 2019_: 32.785 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,502,230 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
+_total subscriptions_: 1,539,269 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,661,763 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 59 (2020 est.)<br>
+_total subscriptions_: 7,103,296 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 63 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: internet availability has increased substantially over the past few years, but only about 64 percent of Cubans have Internet access, and even fewer Cubans--about 60 percent of the population--have access to cell phone service; in 2021 the Cuban Government passed a decree that strengthened its authority to censor Internet and telephonic communications; state control of the telecom sector hinders development; Cuba has the lowest mobile phone and Internet subscription rates in the region; fixed-line density is also very low; thaw of US-Cuba relations encouraged access to services, such as Wi-Fi hot spots; access to sites is controlled and censored; DSL and Internet are available in Havana, though costs are too high for most Cubans; international investment and agreement to improve Internet access through cost-free and direct connection between networks (2021)<br>
-_domestic_: fixed-line density remains low at a little over 13 per 100 inhabitants; mobile-cellular service has expanded to about 59 per 100 persons (2020)<br>
+_domestic_: fixed-line density remains low at a little over 14 per 100 inhabitants; mobile-cellular service has expanded to about 63 per 100 persons (2021)<br>
 _international_: country code - 53; the ALBA-1, GTMO-1, and GTMO-PR fiber-optic submarine cables link Cuba, Jamaica, and Venezuela; satellite earth station - 1 Intersputnik (Atlantic Ocean region) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 government owns and controls all broadcast media: five national TV channels (Cubavision, Tele Rebelde, Multivision, Educational Channel 1 and 2), two international channels (Cubavision Internacional and Caribe), 16 regional TV stations, 6 national radio networks, and multiple regional stations; the Cuban Government beams over the Radio-TV Marti signal; although private ownership of electronic media is prohibited, several online independent news sites exist; those that are not openly critical of the government are often tolerated; the others are blocked by the government; there are no independent TV channels, but several outlets have created strong audiovisual content (El Toque, for example); a community of young Youtubers is also growing, mostly with channels about sports, technology and fashion; Christian denominations are creating original video content to distribute via social media (2019)<br>
@@ -642,7 +641,7 @@ _annual freight traffic on registered air carriers_: 17.76 million (2018) mt-km<
 CU<br>
 
 **Airports**<br>
-_total_: 133 (2021)<br>
+133 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 64<br>
@@ -700,7 +699,7 @@ limited available information; estimated 50,000 active personnel (approximately 
 the military's inventory is comprised of aging Russian and Soviet-era equipment (2022)<br>
 
 **Military service age and obligation**<br>
-17-28 years of age for compulsory (men) and voluntary (men and women) military service; conscripts serve for two years (2022)<br>
+17-28 years of age for compulsory (men) and voluntary (men and women) military service; conscripts serve for 24 months (2023)<br>
 
 **Military - note**<br>
 the FAR has a large role in the Cuban economy through several military owned and operated conglomerates, including such sectors as banking, hotels, industry, retail, transportation, and tourism (2022)<br>

@@ -51,6 +51,7 @@ _mean elevation_: 367 m<br>
 
 **Natural resources**<br>
 petroleum, tin, natural gas, nickel, timber, bauxite, copper, fertile soils, coal, gold, silver<br>
+<strong>note:</strong> Indonesia is the World's leading producer of nickel with an output of 1.6 million mt in 2022<br>
 
 **Land use**<br>
 _agricultural land_: 31.2% (2018 est.)<br>
@@ -150,7 +151,7 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-177 deaths/100,000 live births (2017 est.)<br>
+173 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 19.31 deaths/1,000 live births<br>
@@ -203,7 +204,7 @@ _unimproved: total_: total: 7.5% of population (2020 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 9 December 2022, Indonesia has reported a total of 6,695,010 cases of COVID-19 or 2,447.69 cumulative cases of COVID-19 per 100,000 population with a total of 160,175 cumulative deaths or a rate 58.56 cumulative deaths per 100,000 population; as of 30 November 2022, 73.94% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note 1:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 9 December 2022, Indonesia has reported a total of 6,695,010 cases of COVID-19 or 2,447.69 cumulative cases of COVID-19 per 100,000 population with a total of 160,175 cumulative deaths or a rate 58.56 cumulative deaths per 100,000 population; as of 30 November 2022, 73.94% of the population has received at least one dose of COVID-19 vaccine<br><br><strong>note 2:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Southeast Asia; Indonesia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.9% (2016)<br>
@@ -291,7 +292,7 @@ _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 9 December 2022, Indonesia has reported a total of 6,695,010 cases of COVID-19 or 2,447.69 cumulative cases of COVID-19 per 100,000 population with a total of 160,175 cumulative deaths or a rate 58.56 cumulative deaths per 100,000 population; as of 30 November 2022, 73.94% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note 1:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 9 December 2022, Indonesia has reported a total of 6,695,010 cases of COVID-19 or 2,447.69 cumulative cases of COVID-19 per 100,000 population with a total of 160,175 cumulative deaths or a rate 58.56 cumulative deaths per 100,000 population; as of 30 November 2022, 73.94% of the population has received at least one dose of COVID-19 vaccine<br><br><strong>note 2:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Southeast Asia; Indonesia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 65.2 million tons (2016 est.)<br>
@@ -500,9 +501,18 @@ _female_: 15.7% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 37.9 (2021 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 31.7% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 7.2% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
 _highest 10%_: 28.2% (2010)<br>
+
+**Remittances**<br>
+0.79% of GDP (2021 est.)<br>
+0.91% of GDP (2020 est.)<br>
+1.04% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $131.7 billion (2017 est.)<br>
@@ -632,18 +642,17 @@ _Total energy consumption per capita 2019_: 29.68 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 9,662,135 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
+_total subscriptions_: 8,998,814 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 355,620,388 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
+_total subscriptions_: 365,872,608 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 134 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Indonesia faces more than the usual number of obstacles in terms of enabling widespread access to quality telecommunications services for its population of more than 270 million; the geographical challenges have been further compounded by a variety of social, political, and economic problems over the years that have kept the country&rsquo;s wealth distributed very thinly; the fixed-line (fiber) and mobile operators have continued to expand and upgrade their networks across the country; Indonesia&rsquo;s 18,000 islands (many of which, however, are sparsely populated) makes the deployment of fixed-line infrastructure on a broad scale difficult; there has been renewed activity in fiber optic cable, but the bundling of fixed-line telephony with TV and internet services will see the country&rsquo;s teledensity stabilize; mobile subscriptions have reached more than 130% and is projected to exceed 150% by 2026; with 4G LTE universally available, the major mobile companies have been busy launching 5G services in selected areas; the rollout of 5G will be hampered by the lack of availability of suitable frequencies; the 4G had to be reallocated from broadcasting services, and indications are that the same process is going to have to be followed in order to allow the expansion of 5G into its core frequency bands (3.3 to 4.2GHz) (2022)<br>
-_domestic_: fixed-line subscribership roughly 4 per 100 and mobile-cellular 130 per 100 persons (2020)<br>
+_domestic_: fixed-line subscribership roughly 3 per 100 and mobile-cellular 134 per 100 persons (2021)<br>
 _international_: country code - 62; landing points for the SEA-ME-WE-3 &amp; 5, DAMAI, JASUKA,&nbsp;BDM,&nbsp;Dumai-Melaka Cable System, IGG, JIBA,&nbsp;Link 1, 3, 4, &nbsp;&amp; 5, PGASCOM, B3J2, Tanjung Pandam-Sungai Kakap Cable System, JAKABARE, JAYABAYA, INDIGO-West, Matrix&nbsp;Cable System, ASC, SJJK, Jaka2LaDeMa, S-U-B Cable System, JBCS, MKCS, BALOK, Palapa Ring East, West&nbsp;and Middle, SMPCS Packet-1 and 2, LTCS, TSCS, SEA-US and Kamal Domestic Submarine Cable System, 35&nbsp;submarine cable networks that provide links throughout Asia, the Middle East,&nbsp;Australia, Southeast Asia, Africa&nbsp;and Europe; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 mixture of about a dozen national TV networks -&nbsp;1 public broadcaster, the remainder private broadcasters - each with multiple transmitters; more than 100 local TV stations; widespread use of satellite and cable TV systems; public radio broadcaster operates 6 national networks, as well as regional and local stations; overall, more than 700 radio stations with more than 650 privately operated (2019)<br>
@@ -671,7 +680,7 @@ _annual freight traffic on registered air carriers_: 1,131,910,000 (2018) mt-km<
 PK<br>
 
 **Airports**<br>
-_total_: 673 (2021)<br>
+673 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 186<br>
@@ -736,13 +745,13 @@ approximately 400,000 active duty troops (300,000 Army; 60,000 Navy, including a
 the military's inventory is a wide mix of Chinese, Russian, and Western (including US) equipment; in recent years, the top suppliers have included China, France, Germany, the Netherlands, Russia, South Korea, the UK, and the US; the TNI has been engaged in a modernization program for more than a decade with uneven success; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government said that growing its domestic defense industry was a national priority over the following 10 years (2022)<br>
 
 **Military service age and obligation**<br>
-18-45 years of age for voluntary military service, with selective conscription authorized (males, age 18), but not utilized; 2-year service obligation, with reserve obligation to age 45 (officers) (2021)<br>
+18-45 years of age for voluntary military service, with selective conscription authorized (males, age 18), but not utilized; 24-month service obligation, with reserve obligation to age 45 (officers) (2023)<br>
 
 **Military deployments**<br>
 225 (plus about 140 police) Central African Republic (MINUSCA); 1,025 Democratic Republic of the Congo (MONUSCO); 1,225 Lebanon (UNIFIL) (May 2022)<br>
 
 **Military - note**<br>
-Indonesian military and other security forces are engaged in counter-insurgency operations in Papua against the West Papua National Liberation Army (TPNPB), the military wing of the Free Papua Organization (OPM), which has been fighting a low-level insurgency since the 1960s when Indonesia annexed the former Dutch colony; Papua was formally incorporated into Indonesia in 1969; in addition, the Indonesian military has been assisting police in Sulawesi in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local militant group affiliated with the Islamic State of Iraq and ash-Sham (ISIS)<br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, held military exercises in surrounding waters, and increased security cooperation (2023)<br>
+the TNI’s primary missions are internal security, responding to natural disasters, and protecting the country’s territorial waters; it has undergone reforms since the 1990s to improve its professionalism and limit involvement in internal politics; the infantry-heavy Army is the largest service and deployed throughout the country in 14 area (KODAM) and 3 joint area (KOGABWILHAN) defense commands, as well as a special forces command (KOPASSUS) and 3 strategic reserve (KOSTRAD) infantry division headquarters; as of 2023, it was conducting counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since Indonesia annexed the former Dutch colony in the 1960s; it has also been assisting police in Sulawesi in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local militant group affiliated with the Islamic State of Iraq and ash-Sham (ISIS); the Navy is organized and equipped for coastal defense and patrolling Indonesia’s territorial waters where it faces such issues as piracy, transnational crime, illegal fishing, and incursions by Chinese vessels; it has more than 30 frigates and corvettes, several attack-type submarines, and a force of coastal patrol vessels and maritime patrol aircraft; it also has an amphibious force with several marine infantry brigades and landing platform dock (LPD) amphibious assault ships; the Air Force has more than 100 combat aircraft <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, and held military exercises in the surrounding waters (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau continues to report the territorial and offshore waters in the Strait of Malacca and South China Sea as high risk for piracy and armed robbery against ships; the number of attacks decreased from 26 incidents in 2020 to nine in 2021 due to aggressive maritime patrolling by regional authorities; vessels continue to be boarded while anchored or berthed at Indonesian ports with seven vessels attacked; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>

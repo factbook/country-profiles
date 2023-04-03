@@ -141,7 +141,7 @@ _65 years and over_: 0.71 male(s)/female<br>
 _total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-667 deaths/100,000 live births (2017 est.)<br>
+725 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 47.69 deaths/1,000 live births<br>
@@ -193,7 +193,6 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Guinea-Bissau is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 9.5% (2016)<br>
@@ -276,7 +275,6 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Guinea-Bissau is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 289,514 tons (2015 est.)<br>
@@ -462,6 +460,11 @@ _female_: 14.2% (2021 est.)<br>
 _lowest 10%_: 2.9%<br>
 _highest 10%_: 28% (2002)<br>
 
+**Remittances**<br>
+12.22% of GDP (2020 est.)<br>
+10.5% of GDP (2019 est.)<br>
+8.51% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $246.2 million (2017 est.)<br>
 _expenditures_: $263.5 million (2017 est.)<br>
@@ -587,15 +590,18 @@ _Total energy consumption per capita 2019_: 2.46 million Btu/person (2019 est.)<
 
 ## Communications
 
+**Telephones - fixed lines**<br>
+_total subscriptions_: 4,800 (2009 est.)<br>
+_subscriptions per 100 inhabitants_: (2009 est.) less than 1<br>
+
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,913,858 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 97 (2020 est.)<br>
+_total subscriptions_: 2,236,511 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 109 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: small system including a combination of microwave radio relay, open-wire lines, radiotelephone, and mobile cellular communications; 2 mobile network operators; one of the poorest countries in the world and this is reflected in the country's telecommunications development; radio is the most important source of information for the public (2020)<br>
-_domestic_: fixed-line teledensity less than 1 per 100 persons; mobile cellular teledensity is just over 97 per 100 persons (2020)<br>
+_domestic_: fixed-line teledensity less than 1 per 100 persons; mobile cellular teledensity is just over 109 per 100 persons (2021)<br>
 _international_: country code - 245; ACE submarine cable connecting Guinea-Bissau with 20 landing points in Western and South Africa and Europe (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 state-owned TV station, Televisao da Guine-Bissau (TGB) and a second station, Radio e Televisao de Portugal (RTP) Africa, is operated by Portuguese public broadcaster (RTP); 1 state-owned radio station, several private radio stations, and some community radio stations; multiple international broadcasters are available (2019)<br>
@@ -617,7 +623,7 @@ _subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
 J5<br>
 
 **Airports**<br>
-_total_: 8 (2021)<br>
+8 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
@@ -654,9 +660,9 @@ People's Revolutionary Armed Force (FARP): Army, Navy, Air Force; Ministry of In
 **Military expenditures**<br>
 1.8% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
-1.9% of GDP (2019 est.) (approximately $50 million)<br>
-1.7% of GDP (2018 est.) (approximately $45 million)<br>
-1.7% of GDP (2017 est.) (approximately $45 million)<br>
+1.9% of GDP (2019 est.)<br>
+1.7% of GDP (2018 est.)<br>
+1.7% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,000 total active troops, including a few hundred air and naval personnel (2022)<br>
@@ -665,7 +671,7 @@ approximately 4,000 total active troops, including a few hundred air and naval p
 the FARP is poorly armed with an inventory consisting of Soviet-era equipment, much of which is reportedly unserviceable; over the past several years, it has received only a small amount of equipment from China and Spain (2022)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for selective compulsory military service (Air Force service is voluntary); 16 years of age or younger, with parental consent, for voluntary service (2022)<br>
+18-25 years of age for selective compulsory military service for men and women (Air Force service is voluntary); 16 years of age or younger, with parental consent, for voluntary service (2023)<br>
 
 **Military - note**<br>
 the FARP is focused on external security, but also has some internal security duties, and it has been influential in the country’s politics since independence was gained in 1974, having staged at least nine coups as well as several mutinies; FARP members were suspected of coup plotting as recently as 2021, and the military has been accused of involvement in narcotics trafficking; since the 2000s, the FARP has undergone various attempts at defense and security sector reforms with limited success under the auspices of the African Union, the EU, the Economic Community of West Africa (ECOWAS), and the UN <br><br>from 2012-2020, ECOWAS deployed a security force to Guinea-Bissau to manage the post-coup transition, including protecting key political figures and public buildings, restoring civil institutions, and re-establishing the rule of law; at the height of the deployment, the force, known as the ECOWAS Mission in Guinea-Bissau (ECOMIB), deployed nearly 700 military and police personnel from Burkina Faso, Nigeria, and Senegal (2023)<br>

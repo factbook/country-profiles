@@ -139,7 +139,7 @@ _total population_: 0.89 male(s)/female (2023 est.)<br>
 28.2 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-9 deaths/100,000 live births (2017 est.)<br>
+5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.38 deaths/1,000 live births<br>
@@ -468,9 +468,18 @@ _female_: 17.8% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 30.8 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 20.3% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 7.8% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
 _highest 10%_: 25.6% (2015)<br>
+
+**Remittances**<br>
+1.56% of GDP (2021 est.)<br>
+1.61% of GDP (2020 est.)<br>
+1.74% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $10.37 billion (2017 est.)<br>
@@ -599,18 +608,17 @@ _Total energy consumption per capita 2019_: 76.329 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 304,728 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
+_total subscriptions_: 296,620 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 22 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,925,789 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 145 (2020 est.)<br>
+_total subscriptions_: 1,980,838 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 149 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the competitive telecom market continues to progress with a range of regulatory measures which have enabled alternative operators to chip away at the fixed-line market share; fixed-line infrastructure upgrades have been focused on fiber, and the legacy DSL network has gradually been replaced; limited commercial 5G deployments have been made though an expansion of service availability awaits the delayed auction of spectrum in the 3.5GHz band, which is expected to be held later in 2021 (2021)<br>
-_domestic_: just under 23 per 100 for fixed-line subscribership and approximately 145 per 100 for mobile-cellular; substantial fiber-optic cable systems carry telephone, TV, and radio traffic in the digital mode; Internet services are widely available; schools and libraries are connected to the Internet, a large percentage of the population files income tax returns online, and online voting - in local and parliamentary elections - has climbed steadily since first being introduced in 2005; a large percent of Estonian households have broadband access (2020)<br>
+_domestic_: 22 per 100 for fixed-line subscribership and approximately 149 per 100 for mobile-cellular (2021)<br>
 _international_: country code - 372; landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC and EESF-2 fiber-optic submarine cables to other Estonia points, Finland, and Sweden; 2 international switches are located in Tallinn (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV channels and 5 radio networks; growing number of private commercial radio stations broadcasting nationally, regionally, and locally; fully transitioned to digital television in 2010; national private TV channels expanding service; a range of channels are aimed at Russian-speaking viewers; in 2016, there were 42 on-demand services available in Estonia, including 19 pay TVOD and SVOD services; roughly 85% of households accessed digital television services<br>
@@ -637,7 +645,7 @@ _annual passenger traffic on registered air carriers_: 31,981 (2018)<br>
 ES<br>
 
 **Airports**<br>
-_total_: 18 (2021)<br>
+18 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 13<br>
@@ -682,24 +690,24 @@ Estonia operates two PC 5 or 6 class icebreakers in the Baltic Sea<br>note - PC 
 ## Military and Security
 
 **Military and security forces**<br>
-Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (Reserves) (2022)<br>
+Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (Reserves) (2023)<br>
 
 **Military expenditures**<br>
-2.35% of GDP (2022 est.)<br>
+2.3% of GDP (2022 est.)<br>
 2.2% of GDP (2021)<br>
 2.4% of GDP (2020)<br>
-2% of GDP (2019) (approximately $850 million)<br>
-2% of GDP (2018) (approximately $800 million)<br>
+2% of GDP (2019)<br>
+2% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,000 active duty personnel; approximately 15,000 Defense League (2022)<br>
+approximately 7,000 active-duty personnel; approximately 15,000 Defense League (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Estonian military has a mix of Soviet-era and more modern equipment, mostly from western European suppliers (2022)<br>
 
 **Military service age and obligation**<br>
-18-27 for compulsory military or governmental service for men; conscript service requirement 8-11 months depending on education; non-commissioned officers, reserve officers, and specialists serve 11 months; women can volunteer, and as of 2018 could serve in any military branch (2022)<br>
-<strong>note 1:</strong> conscripts comprise approximately 3,000-3,300 of the Estonian military's 7,000 active duty personnel and serve in all branches, except for the Air Force, which does not have conscripts; after conscript service, reservists are called up for training every 5 years; Estonia has had conscription since 1991<br><br><strong>note 2:</strong> the Estonian Defense Forces rely largely on reservists who have completed compulsory conscription in the previous 10 years to fill out its active duty and Territorial Defense units during a crisis; a total of approximately 230,000 Estonians are enrolled in the mobilization registry<br><br><strong>note 3:</strong> in 2020, women comprised about 10% of the full-time professional military force<br>
+18-27 for compulsory military or governmental service for men; conscript service requirement 8-11 months depending on education; non-commissioned officers, reserve officers, and specialists serve 11 months; women can volunteer, and as of 2018 could serve in any military branch (2023)<br>
+<strong>note 1:</strong> conscripts comprise approximately 3,000-3,300 of the Estonian military's 7,000 active-duty personnel and serve in all branches, except for the Air Force, which does not have conscripts; after conscript service, reservists are called up for training every 5 years; Estonia has had conscription since 1991<br><br><strong>note 2:</strong> the Estonian Defense Forces rely largely on reservists who have completed compulsory conscription in the previous 10 years to fill out its active duty and Territorial Defense units during a crisis; a total of approximately 230,000 Estonians are enrolled in the mobilization registry<br><br><strong>note 3:</strong> in 2020, women comprised about 10% of the full-time professional military force<br>
 
 **Military - note**<br>
 Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a UK-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; NATO has provided air protection for Estonia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014 (2022)<br>

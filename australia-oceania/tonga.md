@@ -139,7 +139,7 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-52 deaths/100,000 live births (2017 est.)<br>
+126 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 12.1 deaths/1,000 live births<br>
@@ -454,6 +454,11 @@ _female_: 16.3% (2021 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+45.5% of GDP (2021 est.)<br>
+39.3% of GDP (2020 est.)<br>
+37.18% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $181.2 million (2017 est.)<br>
 _expenditures_: $181.2 million (2017 est.)<br>
@@ -592,7 +597,6 @@ _subscriptions per 100 inhabitants_: 59.43 (2019)<br>
 _general assessment_: high speed Internet provided by 3 Mobile Network Operators, has subsequently allowed for better health care services, faster connections for education and growing e-commerce services; in 2018 new 4G LTE network; fixed-line teledensity has dropped given mobile subscriptions; mobile technology dominates given the island's geography; satellite technology is widespread and is important especially in areas away from the city; the launch in 2019 of the Kacific-1 broadband satellite has made broadband more widely available for around 89 remote communities (2020)<br>
 _domestic_: fixed-line 7 per 100 persons and mobile-cellular teledensity 59 telephones per 100; fully automatic switched network (2020)<br>
 _international_: country code - 676; landing point for the Tonga Cable and the TDCE connecting to Fiji and 3 separate Tonga islands; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 state-owned TV station and 3 privately owned TV stations; satellite and cable TV services are available; 1 state-owned and&nbsp;5 privately owned radio stations; Radio Australia broadcasts available via satellite (2019)<br>
@@ -618,7 +622,7 @@ _inventory of registered aircraft operated by air carriers_: 1<br>
 A3<br>
 
 **Airports**<br>
-_total_: 6 (2021)<br>
+6 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

@@ -136,6 +136,9 @@ _15-64 years_: 0.87 male(s)/female<br>
 _65 years and over_: 0.75 male(s)/female<br>
 _total population_: 0.89 male(s)/female (2023 est.)<br>
 
+**Maternal mortality ratio**<br>
+21 deaths/100,000 live births (2020)<br>
+
 **Infant mortality rate**<br>
 _total_: 13.95 deaths/1,000 live births<br>
 _male_: 16.84 deaths/1,000 live births<br>
@@ -417,6 +420,11 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+3.41% of GDP (2021 est.)<br>
+2.65% of GDP (2020 est.)<br>
+2.19% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $298.2 million (2017 est.)<br>
 _expenditures_: $334 million (2017 est.)<br>
@@ -543,16 +551,16 @@ _Total energy consumption per capita 2019_: 107.154 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 27,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 28 (2020 est.)<br>
+_total subscriptions_: 27,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 27 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 184,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 188 (2020 est.)<br>
+_total subscriptions_: 180,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 200 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
-_domestic_: fixed-line teledensity roughly 28 per 100 persons; mobile-cellular teledensity is about 188 per 100 persons (2020)<br>
+_domestic_: fixed-line teledensity roughly 27 per 100 persons; mobile-cellular teledensity is about 200 per 100 persons (2021)<br>
 _international_: country code - 1-268; landing points for the ECFS and&nbsp;Southern Caribbean Fiber&nbsp;submarine cable systems with links to other islands in the eastern Caribbean; satellite earth stations&nbsp;- 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
@@ -581,7 +589,7 @@ _annual freight traffic on registered air carriers_: 290,000 (2018) mt-km<br>
 V2<br>
 
 **Airports**<br>
-_total_: 3 (2021)<br>
+3 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>

@@ -140,7 +140,7 @@ _65 years and over_: 0.94 male(s)/female<br>
 _total population_: 1.05 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-29 deaths/100,000 live births (2017 est.)<br>
+21 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 6.49 deaths/1,000 live births<br>
@@ -475,9 +475,18 @@ _female_: 17.8% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 41.1 (2015 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 21.5% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 1.8% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
 _highest 10%_: 34.7% (2009 est.)<br>
+
+**Remittances**<br>
+0.42% of GDP (2021 est.)<br>
+0.42% of GDP (2020 est.)<br>
+0.44% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $51.25 billion (2017 est.)<br>
@@ -617,7 +626,6 @@ _subscriptions per 100 inhabitants_: 135 (2020 est.)<br>
 _general assessment_: as part of a diverse range of initiatives designed to move the country from developing to developed status by 2025, Malaysia has enabled and encouraged open competition in its telecommunications market; the result is very high penetration levels in both the mobile (147%) and mobile broadband (127%) segments, and near-universal coverage of 4G LTE networks; steady growth is occurring as more fiber optic cable networks are being deployed around the country; consumers are the main beneficiaries of the highly competitive market; they enjoy widespread access to high-speed mobile services as well as attractive offers on bundles to keep data use up but prices low; the downside is that most of Malaysia&rsquo;s MNOs and MVNOs have struggled to increase revenue in line with growth in subscriber numbers as well as demand for broadband data; while the operators have been very successful in moving a significant proportion (now over 30%) of customers from prepaid over to higher-value postpaid accounts, ARPU continues to fall year after year as a result of competitive pricing pressures; the mobile market, in particular, has become overcrowded and the government is keen to see further rationalization and consolidation with the operators; while customers will no doubt continue to enjoy high quality services at competitive rates, the new entity will be hopeful of squeezing better margins through improved economies of scale; the government&rsquo;s next move is to encourage the private mobile operators to sign up to the country&rsquo;s wholesale 5G network; this will develop and deploy the 5G infrastructure across the country; the government&rsquo;s stated intent was to avoid duplication of networks and infrastructure, and thus reduce investment costs for the operators; to date, no MNO has agreed to the deal and are instead demanding the development of a dual wholesale network model (one that no doubt offers more flexible terms, at least in the eyes of the MNOs); Malaysia&rsquo;s 5G rollout has, in effect, come to a standstill while the government tries to find a way to restart negotiations (2022)<br>
 _domestic_: fixed-line roughly 23 per 100 and mobile-cellular teledensity roughly 135 per 100 persons; domestic satellite system with 2 earth stations (2020)<br>
 _international_: country code - 60; landing points for BBG, FEA, SAFE, SeaMeWe-3 &amp; 4 &amp; 5, AAE-1, JASUKA, BDM, Dumai-Melaka Cable System, BRCS, ACE, AAG, East-West Submarine Cable System, SEAX-1, SKR1M, APCN-2, APG, BtoBe,&nbsp; BaSICS, and Labuan-Brunei Submarine and MCT submarine cables providing connectivity to Asia, the Middle East, Southeast Asia, Australia and Europe; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean); launch of Kacific-1 satellite in 2019 (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned TV broadcaster operates 2 TV networks with relays throughout the country, and the leading private commercial media group operates 4 TV stations with numerous relays throughout the country; satellite TV subscription service is available; state-owned radio broadcaster operates multiple national networks, as well as regional and local stations; many private commercial radio broadcasters and some subscription satellite radio services are available; about 55 radio stations overall (2019)<br>
@@ -645,7 +653,7 @@ _annual freight traffic on registered air carriers_: 1,404,410,000 (2018) mt-km<
 9M<br>
 
 **Airports**<br>
-_total_: 114 (2021)<br>
+114 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 39<br>

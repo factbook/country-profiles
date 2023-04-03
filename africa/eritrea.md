@@ -142,7 +142,7 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-480 deaths/100,000 live births (2017 est.)<br>
+322 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 40.63 deaths/1,000 live births<br>
@@ -195,6 +195,7 @@ _unimproved: total_: total: 84.3% of population (2017 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Eritrea is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 5% (2016)<br>
@@ -269,6 +270,7 @@ _rate of urbanization_: 3.67% annual rate of change (2020-25 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Eritrea is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 726,957 tons (2011 est.)<br>
@@ -581,18 +583,17 @@ _Total energy consumption per capita 2019_: 3.217 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 66,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
+_total subscriptions_: 66,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.801 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 51 (2020 est.)<br>
+_total subscriptions_: 1.8 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 50 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Eritrea&rsquo;s telecom sector operates under a state-owned monopoly for fixed and mobile services; as a result of such restrictions on competition, the country has the least developed telecommunications market in Africa; mobile penetration stands at only about 20%, while fixed-line internet use barely registers; this is exacerbated by the very low use of computers, with only about 4% of households having a computer, and most of these being in the capital, Asmara; the 3G network continues to rollout which provides basic internet access to the majority or Eritreans; investment in telecom infrastructure is still required to improve the quality of services; the government has embarked on a work program to do exactly that, specifically aimed at extending services to remote areas, improving the quality of services, and ensuring that more telecoms infrastructure is supported by solar power to compensate for the poor state of the electricity network; additional foreign investment in telecom infrastructure, as well as introduction of more competition, would help transform what remains a virtually untapped market (2022)<br>
-_domestic_: fixed-line subscribership is less than 2 per 100 persons and mobile-cellular is just over 51 per 100 (2020)<br>
+_domestic_: fixed-line subscribership is less than 2 per 100 persons and mobile-cellular is just over 50 per 100 (2021)<br>
 _international_: country code - 291 (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 government controls broadcast media with private ownership prohibited; 1 state-owned TV station; state-owned radio operates 2 networks; purchases of satellite dishes and subscriptions to international broadcast media are permitted (2019)<br>
@@ -619,7 +620,7 @@ _annual passenger traffic on registered air carriers_: 102,729 (2018)<br>
 E3<br>
 
 **Airports**<br>
-_total_: 13 (2021)<br>
+13 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
@@ -658,11 +659,11 @@ _major seaport(s)_: Assab, Massawa<br>
 Eritrean Defense Forces (EDF): Eritrean Ground Forces, Eritrean Navy, Eritrean Air Force (includes Air Defense Force); Hizbawi Serawit (aka People's Army or People's Militia) (2022)<br>
 
 **Military expenditures**<br>
-10% of GDP (2019 est.) (approximately $640 million)<br>
-10.2% of GDP (2018 est.) (approximately $630 million)<br>
-10.3% of GDP (2017 est.) (approximately $630 million)<br>
-10.4% of GDP (2016 est.) (approximately $640 million)<br>
-10.6% of GDP (2015 est.) (approximately $600 million)<br>
+10% of GDP (2019 est.)<br>
+10.2% of GDP (2018 est.)<br>
+10.3% of GDP (2017 est.)<br>
+10.4% of GDP (2016 est.)<br>
+10.6% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 limited available information; estimated 150,000-200,000 personnel, including about 2,000 in the naval and air forces (2022)<br>
@@ -671,7 +672,7 @@ limited available information; estimated 150,000-200,000 personnel, including ab
 the EDF inventory is comprised primarily of older Russian and Soviet-era systems; Eritrea was under a UN arms embargo from 2009 to 2018; from the 1990s to 2008, Russia was the leading supplier of arms to Eritrea, and in recent years, Eritrea has expressed interest in purchasing additional Russian equipment (2022)<br>
 
 **Military service age and obligation**<br>
-Eritrea mandates military service for all citizens between the ages of 18 and 40 (18-27 for women if conscripted); 18-month conscript service obligation, which includes 4-6 months of military training and 12 months of military or other national service (military service is most common); in practice, military service is often extended indefinitely; citizens up to the age of 55 eligible for recall during mobilization (2022)<br>
+Eritrea mandates military service for all citizens between the ages of 18 and 40 (18-27 for women if conscripted); 18-month conscript service obligation, which includes 4-6 months of military training and 12 months of military or other national service (military service is most common); in practice, military service is often extended indefinitely; citizens up to the age of 55 eligible for recall during mobilization (2023)<br>
 <strong>note:</strong> as of 2020, women were estimated to make up as much as 30% of the Eritrean military<br>
 
 **Military - note**<br>

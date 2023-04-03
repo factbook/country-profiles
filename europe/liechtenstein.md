@@ -463,7 +463,7 @@ _subscriptions per 100 inhabitants_: 128 (2020 est.)<br>
 _general assessment_: automatic telephone system; 44 Internet service providers in Liechtenstein and Switzerland combined; FttP (fiber to the home) penetration marketed 3rd highest in EU; fiber network reaches 3/4 of the population (2020)<br>
 _domestic_: fixed-line roughly 33 per 100 and mobile-cellular services 128 per 100 (2020)<br>
 _international_: country code - 423; linked to&nbsp;Swiss networks by cable and microwave radio relay<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
+<strong>n</strong><br>
 
 **Broadcast media**<br>
 relies on foreign terrestrial and satellite broadcasters for most broadcast media services; first Liechtenstein-based TV station established August 2008; Radio Liechtenstein operates multiple radio stations; a Swiss-based broadcaster operates one radio station in Liechtenstein<br>

@@ -145,7 +145,7 @@ _65 years and over_: 1.13 male(s)/female<br>
 _total population_: 1.31 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-17 deaths/100,000 live births (2017 est.)<br>
+16 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 11.97 deaths/1,000 live births<br>
@@ -472,9 +472,18 @@ NA<br>
 **Gini Index coefficient - distribution of family income**<br>
 45.9 (2013 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 20.6% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 0.6% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
+
+**Remittances**<br>
+0.04% of GDP (2021 est.)<br>
+0.04% of GDP (2020 est.)<br>
+0.04% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $181 billion (2017 est.)<br>
@@ -612,7 +621,6 @@ _subscriptions per 100 inhabitants_: 124 (2020 est.)<br>
 _general assessment_: Saudi Arabia&rsquo;s telecom and ICT sectors continue to benefit from the range of programs aimed at diversifying the economy away from a dependence on oil, and establishing a wider digital transformation over the next decade; an essential element of this has been the widening reach of 5G networks, which by mid-2021 reached about half of the population and the majority of cities; the MNOs have focused investment on upgrading LTE infrastructure and further developing 5G; this in part is aimed at generating additional revenue from mobile data services, and also to their contribution to the Vision 2030 program; the ongoing pandemic has resulted in more people working and schooling from home during periods of restricted travel; this has stimulated growth in mobile data traffic, while the government has encouraged non-cash transactions and so helped develop the vast e-commerce market; while Saudi Arabia&rsquo;s fixed broadband penetration remains relatively low, there has been a concentration of fiber infrastructure and the Kingdom has developed one of the fastest services in the region (2022)<br>
 _domestic_: fixed-line over 16 per 100 and mobile-cellular subscribership has been increasing rapidly to roughly 124 per 100 persons (2020)<br>
 _international_: country code - 966; landing points for the SeaMeWe-3, -4, -5, AAE-1, EIG, FALCON, FEA, IMEWE, MENA/Gulf Bridge International, SEACOM, SAS-1, -2, GBICS/MENA, and the Tata TGN-Gulf submarine cables providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; microwave radio relay to Bahrain, Jordan, Kuwait, Qatar, UAE, Yemen, and Sudan; coaxial cable to Kuwait and Jordan; satellite earth stations - 5 Intelsat (3 Atlantic Ocean and 2 Indian Ocean), 1 Arabsat, and 1 Inmarsat (Indian Ocean region) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 broadcast media are state-controlled; state-run TV operates 4 networks; Saudi Arabia is a major market for pan-Arab satellite TV broadcasters; state-run radio operates several networks; multiple international broadcasters are available<br>
@@ -643,7 +651,7 @@ _annual freight traffic on registered air carriers_: 1,085,470,000 (2018) mt-km<
 HZ<br>
 
 **Airports**<br>
-_total_: 214 (2021)<br>
+214 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 82<br>

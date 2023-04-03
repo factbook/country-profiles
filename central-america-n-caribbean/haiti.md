@@ -143,7 +143,7 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-480 deaths/100,000 live births (2017 est.)<br>
+350 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 38.78 deaths/1,000 live births<br>
@@ -477,6 +477,11 @@ _female_: 45.6% (2021 est.)<br>
 _lowest 10%_: 0.7%<br>
 _highest 10%_: 47.7% (2001)<br>
 
+**Remittances**<br>
+20.04% of GDP (2021 est.)<br>
+23.82% of GDP (2020 est.)<br>
+20.47% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.567 billion (2017 est.)<br>
 _expenditures_: $1.65 billion (2017 est.)<br>
@@ -604,17 +609,17 @@ _Total energy consumption per capita 2019_: 3.97 million Btu/person (2019 est.)<
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,000 (2020 est.)<br>
+_total subscriptions_: 6,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 64 (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.319 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 64 (2020 est.)<br>
+_total subscriptions_: 7.3 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 64 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Haiti is in desperate need of maintaining effective communication services to enable it to keep going through the countless natural disasters, the country&rsquo;s telecoms sector is really only surviving on the back of international goodwill to repair and replace the systems destroyed in the latest upheaval; Haiti&rsquo;s fixed-line infrastructure is now practically non-existent, having been torn apart by Hurricane Matthew in 2016; what aid and additional investment has been forthcoming has been directed towards mobile solutions; over half of the country can afford a mobile handset or the cost of a monthly subscription; and mobile broadband subscriptions is half of that again &ndash; an estimated 28% in 2022; international aid continues to flow in to try and help the country&rsquo;s telecoms sector recover &ndash; the World Bank has released a further $120 million to go on top of the $60 million grant provided after the last major 7.2 earthquake in August 2021 (2022)<br>
-_domestic_: fixed-line is less than 1 per 100; mobile-cellular teledensity is nearly 64 per 100 persons (2020)<br>
+_domestic_: fixed-line is less than 1 per 100; mobile-cellular teledensity is nearly 64 per 100 persons (2021)<br>
 _international_: country code - 509; landing points for the BDSNi and Fibralink submarine cables to 14 points in the Bahamas and Dominican Republic; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 <p>per 2019 data released by Haitian telecommunications regulator CONATEL (Conseil National des Télécommunications), there are 398 legal sound broadcasting stations on the territory, including about 60 community radio stations, and 7 radio stations on the AM band; the FM band in Haiti is oversaturated by 158 percent; most radio stations broadcast 17 to 19 hours a day; there are 105 television stations operating in Haiti, including 36 TV stations in Port- au- Prince, 41 others in the provinces, and more than 40 radio-television stations; a large number of broadcasting stations operate irregularly and some stations operate with technical parameters that do not comply with established standards, thus causing harmful interference to existing telecommunications systems; VOA Creole Service broadcasts daily on 30 affiliate stations</p> (2019)<br>
@@ -640,7 +645,7 @@ _inventory of registered aircraft operated by air carriers_: 1<br>
 HH<br>
 
 **Airports**<br>
-_total_: 14 (2021)<br>
+14 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>

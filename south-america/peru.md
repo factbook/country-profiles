@@ -156,7 +156,7 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-88 deaths/100,000 live births (2017 est.)<br>
+69 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 10.8 deaths/1,000 live births<br>
@@ -508,9 +508,18 @@ _female_: 13.2% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 43.8 (2020 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 26.3% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 2.4% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.4%<br>
 _highest 10%_: 36.1% (2010 est.)<br>
+
+**Remittances**<br>
+1.61% of GDP (2021 est.)<br>
+1.46% of GDP (2020 est.)<br>
+1.46% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $58.06 billion (2017 est.)<br>
@@ -652,7 +661,6 @@ _subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 _general assessment_: after suffering a sharp retraction in the number of subscriptions and revenue during 2020 due to the pandemic, Peru&rsquo;s telecom sector managed to stage a small recovery in the first half of 2021; it will likely be two to three years before penetration rates return to the peak levels last seen in 2018; this is especially true given the overwhelming influence of mobile on Peru&rsquo;s telecommunications market, which now commands almost 95% of all connections; Peru&rsquo;s fixed-line teledensity continued its slow dropping below 7% at the end of 2021; investment in network infrastructure is mainly focused on rolling out fiber cable for fixed broadband services in (mainly) urban areas; fixed broadband services inched higher to reach 8.4% at the end of 2020, a positive result that reflected the shift to working from home during enforced lock downs at the start of the year; yet Peru has a relatively low level of computer use, and prices for fixed broadband services are among the highest in Latin America; the overwhelmingly preferred internet access platform will remain the smartphone, with a further 8.6% growth in the number of mobile broadband subscriptions expected in 2021 (2021)<br>
 _domestic_: fixed-line teledensity is nearly 7 per 100 persons; mobile-cellular teledensity, spurred by competition among multiple providers, now nearly 133 telephones per 100 persons; nationwide microwave radio relay system and a domestic satellite system with 12 earth stations (2020)<br>
 _international_: country code - 51; landing points for the SAM-1, IGW, American Movil-Telxius, SAC&nbsp;and PAN-AM submarine cable systems that provide links to parts of Central and South America, the Caribbean, and US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 10 major TV networks of which only one, Television Nacional de Peru, is state owned; multi-channel cable TV services are available; in excess of 5,000 radio stations including a substantial number of indigenous language stations (2021)<br>
@@ -680,7 +688,7 @@ _annual freight traffic on registered air carriers_: 313.26 million (2018) mt-km
 OB<br>
 
 **Airports**<br>
-_total_: 191 (2021)<br>
+191 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 59<br>
@@ -752,7 +760,7 @@ the military's inventory is a mix of mostly older equipment from a wide variety 
 215 Central African Republic (MINUSCA) (May 2022)<br>
 
 **Military - note**<br>
-the Peruvian security forces continue to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T<u>)</u>, particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; as of 2022, the military had approximately 8,000-10,000 troops in the VRAEM under a combined Special Command comprised of air, ground, naval, police, and special forces units (2022)<br>
+the Peruvian security forces continue to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T<u>)</u>, particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; the military has several thousand troops in the VRAEM under a combined Special Command comprised of air, ground, naval, police, and special forces units (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Peru are a risk for armed robbery against ships; in 2021, 18 attacks against commercial vessels were reported, a more than 50% increase over the eight attacks in 2020; all of these occurred in the main port of Callao while ships were berthed or at anchor<br>

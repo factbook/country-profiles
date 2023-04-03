@@ -494,18 +494,17 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,576 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 38 (2018 est.)<br>
+_total subscriptions_: 7,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 41 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14,539 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 83 (2018 est.)<br>
+_total subscriptions_: 17,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: demand for mobile broadband is increasing due to mobile services being the primary and most wide-spread source for Internet access across the region; Telecom Cook Islands offers international direct dialing, Internet, email, and fax; individual islands are connected by a combination of satellite earth stations, microwave systems, and VHF and HF radiotelephone (2020)<br>
-_domestic_: service is provided by small exchanges connected to subscribers by open-wire, cable, and fiber-optic cable; nearly 38 per 100 fixed-line and about 83 per 100 mobile-cellular (2019)<br>
+_domestic_: service is provided by small exchanges connected to subscribers by open-wire, cable, and fiber-optic cable; nearly 41 per 100 fixed-line and about 100 per 100 mobile-cellular (2021)<br>
 _international_: country code - 682; the Manatua submarine cable to surrounding islands of Niue,&nbsp;Samoa,&nbsp;French Polynesia and other Cook Islands, the&nbsp;topography of the South Pacific region has made Internet connectivity a serious&nbsp;issue for many of the remote islands; submarine fiber-optic networks are expensive to build and maintain;&nbsp;satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 privately owned TV station broadcasts from Rarotonga providing a mix of local news and overseas-sourced programs (2019)<br>
@@ -531,7 +530,7 @@ _inventory of registered aircraft operated by air carriers_: 6<br>
 E5<br>
 
 **Airports**<br>
-_total_: 11 (2021)<br>
+11 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

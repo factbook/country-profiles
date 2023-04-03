@@ -147,7 +147,7 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-95 deaths/100,000 live births (2017 est.)<br>
+107 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 20.68 deaths/1,000 live births<br>
@@ -480,9 +480,18 @@ _female_: 27.9% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 39.6 (2020 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 26.8% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.8% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9%<br>
 _highest 10%_: 37.4% (2013 est.)<br>
+
+**Remittances**<br>
+11.4% of GDP (2021 est.)<br>
+10.57% of GDP (2020 est.)<br>
+8.34% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $11.33 billion (2017 est.)<br>
@@ -609,18 +618,17 @@ _Total energy consumption per capita 2019_: 39.016 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,155,493 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
+_total subscriptions_: 1,154,670 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,989,587 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 83 (2020 est.)<br>
+_total subscriptions_: 9,735,351 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 88 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the Dominican Republic&rsquo;s telecom sector continued its solid form throughout 2020 and into 2021, shrugging off the economic turmoil unleashed by the Covid-19 pandemic to maintain a decade-long run of low but positive growth across all areas of the market; the Dominican Republic remains behind most of its counterparts in the Latin American region, especially in terms of fixed-line network coverage; mobile subscriptions are on par with the regional average, but at subscription levels of around 88% there is still ample opportunity for growth; in terms of growth, the standout winner was once again the mobile broadband segment; the market is expected to see close to 8% growth in 2021, building further on the gains it already made in 2020 when lock downs and work-from-home rules encouraged many people to find ways to upgrade their internet access and performance; the limited coverage of fixed-line broadband networks makes mobile the first, if not only, choice for most people in the country (2021)<br>
-_domestic_: fixed-line teledensity is about 11 per 100 persons; multiple providers of mobile-cellular service with a subscribership of nearly 83 per 100 persons (2020)<br>
+_domestic_: fixed-line teledensity is about 10 per 100 persons; mobile cellular subscriptions 88 per 100 persons (2021)<br>
 _international_: country code - 1-809; 1-829; 1-849; landing point for the&nbsp;ARCOS-1, Antillas 1, AMX-1, SAm-1,&nbsp;East-West, Deep Blue Cable and the Fibralink submarine cables that provide links to South and Central America, parts of the Caribbean, and US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 combination of state-owned and privately owned broadcast media; 1 state-owned TV network and a number of private TV networks; networks operate repeaters to extend signals throughout country; combination of state-owned and privately owned radio stations with more than 300 radio stations operating (2019)<br>
@@ -646,7 +654,7 @@ _inventory of registered aircraft operated by air carriers_: 6<br>
 HI<br>
 
 **Airports**<br>
-_total_: 36 (2021)<br>
+36 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 16<br>
@@ -699,8 +707,8 @@ Armed Forces of the Dominican Republic: Army (Ejercito Nacional, EN), Navy (Mari
 0.7% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.8% of GDP (2020 est.)<br>
-0.7% of GDP (2019 est.) (approximately $1.43 billion)<br>
-0.7% of GDP (2018 est.) (approximately $1.33 billion)<br>
+0.7% of GDP (2019 est.)<br>
+0.7% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 60,000 active personnel (30,000 Army; 13,000 Navy; 17,000 Air Force); approximately 30,000 National Police (2022)<br>

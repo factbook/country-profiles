@@ -150,7 +150,7 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-458 deaths/100,000 live births (2017 est.)<br>
+357 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 27.67 deaths/1,000 live births<br>
@@ -294,7 +294,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em><em>due to high food prices and </em></em><em>cereal production downturn </em><em>-</em> based on a government assessment, an estimated 3.8 million people are expected to be in need of humanitarian assistance between January and March 2023, this number is higher than the level estimated in the first quarter of 2022; the downturn in food security conditions is largely on account of poor food access due to prevailing high food prices and reduced incomes owing to the effects of an economic downturn; a decline in cereal production in 2022 has also aggravated conditions (2022)<br>
+_widespread lack of access_: <em><em>due to high food prices</em></em><em> </em><em>-</em> based on a government assessment, an estimated 3.8 million people are expected to be in need of humanitarian assistance between January and March 2023; this number is higher than the level estimated in the first quarter of 2022; the downturn in food security conditions is largely on account of poor food access resulting from prevailing high food prices and reduced incomes owing to the effects of an economic downturn; a decline in cereal production in 2022 has also aggravated conditions (2023)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,449,752 tons (2015 est.)<br>
@@ -497,6 +497,11 @@ _female_: 8.5% (2021 est.)<br>
 _lowest 10%_: 2%<br>
 _highest 10%_: 40.4% (1995)<br>
 
+**Remittances**<br>
+8.52% of GDP (2020 est.)<br>
+6.49% of GDP (2019 est.)<br>
+4.18% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $3.8 billion (2017 est.)<br>
 _expenditures_: $5.5 billion (2017 est.)<br>
@@ -635,7 +640,6 @@ _subscriptions per 100 inhabitants_: 89 (2021)<br>
 _general assessment_: Zimbabwe&rsquo;s telcos continue to be affected by the country&rsquo;s poor economy; this has been exacerbated by the significant economic difficulties related to the pandemic; revenue has also been under pressure from a number of recent regulatory measures and additional taxes imposed by the cash-strapped government; inflation has become so high that year-on-year revenue comparisons since 2019 have been difficult to assess meaningfully; the three MNOs continue to invest in network upgrades, partly supported by government efforts and cash released from the Universal Service Fund; as a result of these investments, LTE networks have expanded steadily, though services remain concentrated in urban areas; international bandwidth has improved since fiber links to several submarine cables were established via neighboring countries; the expansion of 3G and LTE-based mobile broadband services has meant that most of the population has access to the internet; the government has started a national broadband scheme aimed at delivering a 1Mb/s service nationally by 2030; investment in fixed broadband infrastructure has also resulted in a slow but steady growth in the number of DSL connections, and also fiber subscriptions; during 2021, most growth in the fixed broadband segment has been with fiber connections (2022)<br>
 _domestic_: consists of microwave radio relay links, open-wire lines, radiotelephone communication stations, fixed wireless local loop installations, fiber-optic cable, VSAT terminals, and a substantial mobile-cellular network; Internet connection is most readily available in Harare and major towns; two government owned and two private cellular providers; fixed-line teledensity at nearly 2 per 100 and mobile-cellular nearly 89 per 100 (2021)<br>
 _international_: country code - 263; fiber-optic connections to neighboring states provide access to international networks via undersea cable; satellite earth stations - 2 Intelsat; 5 international digital gateway exchanges<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 government owns all local radio and TV stations; foreign shortwave broadcasts and satellite TV are available to those who can afford antennas and receivers; in rural areas, access to TV broadcasts is extremely limited; analog TV only, no digital service (2017)<br>
@@ -663,7 +667,7 @@ _annual freight traffic on registered air carriers_: 670,000 (2018) mt-km<br>
 Z<br>
 
 **Airports**<br>
-_total_: 196 (2021)<br>
+196 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 17<br>
@@ -719,7 +723,7 @@ the ZDF inventory is comprised mostly of Soviet-era and older Chinese equipment;
 18-22 years of age for voluntary military service (18-24 for officer cadets; 18-30 for technical/specialist personnel); no conscription; women are eligible to serve (2022)<br>
 
 **Military - note**<br>
-the ZDF was formed after independence from the former Rhodesian Army and the two guerrilla forces that opposed it during the Rhodesian Civil War (aka "Bush War") of the 1970s, the Zimbabwe African National Liberation Army (ZANLA) and the Zimbabwe People's Revolutionary Army (ZIPRA); internal security is a key current responsibility, and the military continues to play an active role in the country&rsquo;s politics since the coup of 2017 (2022)<br>
+ZDF’s primary responsibilities are protecting the country’s sovereignty and territory and securing its borders; it also has a considerable role in domestic security and has continued to be active in the country’s politics since the 2017 coup; the ZDF is part of the Southern Africa Development Community (SADC) Standby Force and has provided troops to the SADC deployment to Mozambique; Zimbabwe has defense ties with China and Russia; the Army has approximately 5 light infantry brigades, plus brigades of mechanized infantry, presidential guards, special operations, and artillery; the Air Force has a few dozen operational Chinese- and Russian-made combat aircraft and helicopters <br><br>the ZDF was formed after independence from the former Rhodesian Army and the two guerrilla forces that opposed it during the Rhodesian Civil War (aka "Bush War") of the 1970s, the Zimbabwe African National Liberation Army (ZANLA) and the Zimbabwe People's Revolutionary Army (ZIPRA); the ZDF intervened in the Mozambique Civil War (1983-1992), the Democratic Republic of Congo during the Second Congo War (1998-2003), and the Angolan Civil War (1975-2002) during the late 1990s (2023)<br>
 
 ## Transnational Issues
 
@@ -727,11 +731,11 @@ the ZDF was formed after independence from the former Rhodesian Army and the two
 <p><em>Zimbabwe-Mozambique: none identified<br><br>Zimbabwe-South Africa: </em>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration<em><br><br>Zimbabwe-Zambia: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,360 (Democratic Republic of Congo) (refugees and asylum seekers), 9,887 (Mozambique) (2022)<br>
+_refugees (country of origin)_: 11,814 (Democratic Republic of Congo) (refugees and asylum seekers), 9,887 (Mozambique) (2022)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 - Zimbabwe does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government passed an anti-trafficking law in 2014 defining trafficking in persons as a crime of transportation and failing to capture the key element of the international definition of human trafficking – the purpose of exploitation – which prevents the law from being comprehensive or consistent with the 2000 UN TIP Protocol that Zimbabwe acceded to in 2013; the government did not report on anti-trafficking law enforcement efforts during 2014, and corruption in law enforcement and the judiciary remain a concern; authorities made minimal efforts to identify and protect trafficking victims, relying on NGOs to identify and assist victims; Zimbabwe’s 2014 anti-trafficking law required the opening of 10 centers for trafficking victims, but none were established during the year; five existing shelters for vulnerable children and orphans may have accommodated child victims; in January 2015, an inter-ministerial anti-trafficking committee was established, but it is unclear if the committee ever met or initiated any activities (2015)<br>
-_trafficking profile_: Zimbabwe is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; Zimbabwean women and girls from towns bordering South Africa, Mozambique, and Zambia are subjected to forced labor, including domestic servitude, and prostitution catering to long-distance truck drivers; Zimbabwean men, women, and children experience forced labor in agriculture and domestic servitude in rural areas; family members may recruit children and other relatives from rural areas with promises of work or education in cities and towns where they end up in domestic servitude and sex trafficking; Zimbabwean women and men are lured into exploitative labor situations in South Africa and other neighboring countries<br>
+_tier rating_: Tier 2 Watch List - Zimbabwe does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government investigated and prosecuted human trafficking cases and conducted training for law enforcement, immigration, and other key officials; however, Zimbabwe did not demonstrate overall increasing efforts to increase anti-trafficking capacity; officials did not amend laws to criminalize all forms of trafficking, did not identify or provide care for any trafficking victims, nor convict any traffickers; therefore Zimbabwe remained on Tier 2 Watch List for the second consecutive year (2022)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Zimbabwe, as well as Zimbabweans abroad; internal trafficking is prevalent and underreported, with adults and children exploited in sex trafficking and forced labor in cattle herding, domestic service, and the mining sectors; most child labor occurs in the agricultural sector; Zimbabwean women and girls from towns bordering South Africa, Mozambique, and Zambia are subjected to forced labor, including domestic servitude, and sex trafficking catering to long-distance truck drivers; Zimbabwean men and children are exploited in illegal diamond and gold mining, and some children are exploited by sex traffickers in illegal mining areas; Zimbabwean women and men are lured into forced labor in neighboring countries, particularly South Africa and the Middle East; women are sex trafficked in South Africa by international criminal syndicates, while traffickers force others into domestic servitude, forced labor, and sex trafficking in Iraq, Kenya, Kuwait, Saudi Arabia, Oman, China, and Uganda, often under the guise of legitimate employment; Zimbabwe is a transit country for Somalis, Ethiopians, Malawians, and Zambians en route to South Africa, and is also a destination country for forced labor and sex trafficking (2022)<br>
 
 **Illicit drugs**<br>
 <p>transit point for cannabis and South Asian heroin, methaqualone, and methamphetamines en route to South Africa</p><br>

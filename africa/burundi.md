@@ -149,7 +149,7 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-548 deaths/100,000 live births (2017 est.)<br>
+494 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 36.75 deaths/1,000 live births<br>
@@ -204,6 +204,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Burundi is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 5.4% (2016)<br>
@@ -291,6 +292,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Burundi is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to the effects of weather - </em>about 646,000 people are estimated to be severely food insecure between June and September 2022; the main drivers are poor rains in May in some central and southern eastern areas that affected pulses production, the socio-economic impact of the COVID‑19 pandemic, and high food prices due to elevated fuel prices inflating transport costs (2022)<br>
@@ -489,6 +491,11 @@ _female_: 2.5% (2021 est.)<br>
 _lowest 10%_: 4.1%<br>
 _highest 10%_: 28% (2006)<br>
 
+**Remittances**<br>
+1.72% of GDP (2020 est.)<br>
+1.88% of GDP (2019 est.)<br>
+1.82% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $536.7 million (2017 est.)<br>
 _expenditures_: $729.6 million (2017 est.)<br>
@@ -615,18 +622,17 @@ _Total energy consumption per capita 2019_: 1.087 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 18,300 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 15,976 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,631,151 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 56 (2020 est.)<br>
+_total subscriptions_: 7,740,494 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 62 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Burundi provides an attractive telecom market given its high population density and existing low subscription rates for all services; one downside for investors is that the country has a very low economic output, disposable income is also very low, and fixed-line infrastructure is poor outside the main urban areas; this is a greater motivation for investors to focus on improving mobile networks than in expanding fixed-line infrastructure; to overcome difficulties associated with the poor telecom infrastructure, the government has supported a number of prominent telcos building a national fiber backbone network; this network offers onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania; the first sections of this network were switched on in early 2014, and additional provinces have since been connected; in addition, the government in early 2018 kick-started the Burundi Broadband project, which aims to deliver national connectivity by 2025; based on this improved infrastructure the government and ITU have developed an ICT strategy to make use of telecoms to promote the country&rsquo;s socio-economic development through to 2028; progress made by Tanzania with its own national backbone network has benefited Burundi, which has been provided with onward connectivity to most countries in the region; International bandwidth capacity has continued to increase in recent years, including a 38% increase in the nine months to September 2021, resulting in lower retail prices for consumers; two of the mobile operators have launched 3G and LTE services to capitalize on the growing demand for internet access; the number of mobile subscribers increased 7% in the third quarter of 2021, quarter-on-quarter; similar growth is expected for the next two years at least, which will help bring the mobile level closer to the average for the region (2022)<br>
-_domestic_: telephone density one of the lowest in the world; fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage is about 56 per 100 persons (2020)<br>
+_domestic_: fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage is about 62 per 100 persons (2021)<br>
 _international_: country code - 257; satellite earth station - 1 Intelsat (Indian Ocean); the government, supported by the World Bank, has backed a joint venture with a number of prominent telecoms to build a national fiber backbone network, offering onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-controlled Radio Television Nationale de Burundi (RTNB) operates a TV station and a national radio network; 3 private TV stations and about 10 privately owned radio stations; transmissions of several international broadcasters are available in Bujumbura (2019)<br>
@@ -648,7 +654,7 @@ _subscriptions per 100 inhabitants_: 0.04 (2020 est.)<br>
 9U<br>
 
 **Airports**<br>
-_total_: 7 (2021)<br>
+7 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
@@ -676,7 +682,8 @@ _lake port(s)_: Bujumbura (Lake Tanganyika)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Defense Forces (Forces de Defense Nationale, FDN): Army (includes maritime wing, air wing); Ministry of Public Security: National Police (Police Nationale du Burundi) (2022)<br>
+National Defense Force of Burundi (Force de Defense Nationale du Burundi or FDNB): Land Force (Force Terrestre), the Navy Force (Force Marine), the Air Force (Force Aerienne) and Specialized Units (Unites Specialisees); Ministry of Public Security: National Police (Police Nationale du Burundi) (2023)<br>
+<strong>note:</strong> the Specialized Units include a special security brigade for the protection of institutions (aka BSPI) and military police<br>
 
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
@@ -686,19 +693,19 @@ National Defense Forces (Forces de Defense Nationale, FDN): Army (includes marit
 2.1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 30,000 active duty troops, the majority of which are ground forces (2022)<br>
+approximately 25-30,000 active-duty troops, the majority of which are ground forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FDN has a mix of mostly older weapons and equipment typically of French, Russian, and Soviet origin, and a smaller selection of more modern secondhand equipment from such countries as China, South Africa, and the US (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service (2021)<br>
+18 years of age for voluntary military service (2022)<br>
 
 **Military deployments**<br>
 760 Central African Republic (MINUSCA); 5,400 Somalia (ATMIS) (2022)<br>
 
 **Military - note**<br>
-in addition to its foreign deployments the FDN was focused on internal security missions, particularly against rebel groups opposed to the regime such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU); these groups were based in the neighboring Democratic Republic of Congo and have carried out sporadic attacks in Burundi (2022)<br>
+the FDNB is responsible for defending Burundi’s territorial integrity and protecting its sovereignty; it has an internal security role, including maintaining and restoring public order if required; the FDNB also participates in providing humanitarian/disaster assistance, countering terrorism, narcotics trafficking, piracy, and illegal arms trade, and protecting the country’s environment; the FDNB conducts limited training with foreign partners such as Russia and participates in regional peacekeeping missions, most recently in the Central African Republic, the Democratic Republic of the Congo, and Somalia; these missions have provided the force some operational experience and funding; in recent years the FDNB has conducted operations against anti-government rebel groups based in the neighboring Democratic Republic of the Congo (DRC) that have carried out sporadic attacks in Burundi, such as the such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU)<br><br>the Land Force’s primary units are 4 regionally based divisions which are comprised mostly of light infantry complemented by a few battalions of artillery, light armored forces, and commandos; the FDNB also has a separate special security brigade for protecting key facilities; the Air Force is lightly equipped with a handful of combat helicopters, while the Naval Force has a few patrol boats for monitoring Burundi’s 175-km shoreline on Lake Tanganyika<br><br>the Arusha Agreement that ended the 1993-2005 created a unified military by balancing the predominantly Tutsi ex-Burundi Armed Forces (ex-FAB) and the largely Hutu dominated armed movements and requiring the military to have a 50/50 ethnic mix of Tutsis and Hutus (2023)<br>
 
 ## Transnational Issues
 
@@ -706,7 +713,7 @@ in addition to its foreign deployments the FDN was focused on internal security 
 <p>cross-border conflicts persist among Tutsi, Hutu, other ethnic groups, associated political rebels, armed gangs, and various government forces in the Great Lakes region<em><br><br>Burundi-Rwanda: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 87,485 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 86,857 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 84,791 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1993 coup and fighting between government forces and rebel groups; violence since April 2015) (2022)<br>
 _stateless persons_: 767 (mid-year 2021)<br>
 

@@ -148,7 +148,7 @@ _65 years and over_: 0.82 male(s)/female<br>
 _total population_: 1.04 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-72 deaths/100,000 live births (2017 est.)<br>
+72 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 10.95 deaths/1,000 live births<br>
@@ -452,6 +452,11 @@ _female_: 73.8% (2021 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+0% of GDP (2019 est.)<br>
+0% of GDP (2018 est.)<br>
+0% of GDP (2017 est.)<br>
+
 **Budget**<br>
 _revenues_: $15.78 billion (2017 est.)<br>
 _expenditures_: $23.46 billion (2017 est.)<br>
@@ -588,7 +593,6 @@ _subscriptions per 100 inhabitants_: 43 (2020 est.)<br>
 _general assessment_: political and security instability in Libya has disrupted its telecom sector; much of its infrastructure remains superior to that in most other African countries; rival operators fight for control; investment in fiber backbone and upgrades to international cables; limited LTE and 5G service; some satellite broadband; in 2021 Libya signed deals and projects with US firms to upgrade portions of its infrastructure, increasing the diversity of its telecommunications networks (2022)<br>
 _domestic_: nearly 23 per 100 fixed-line and over 43 per 100 mobile-cellular subscriptions; service generally adequate (2020)<br>
 _international_: country code - 218; landing points for LFON, EIG, Italy-Libya, Silphium and Tobrok-Emasaed&nbsp;submarine cable system connecting Europe, Africa, the Middle East and Asia; satellite earth stations - 4 Intelsat, Arabsat, and Intersputnik;&nbsp; microwave radio relay to Tunisia and Egypt; tropospheric scatter to Greece; participant in Medarabtel (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-funded and private TV stations; some provinces operate local TV stations; pan-Arab satellite TV stations are available; state-funded radio (2019)<br>
@@ -615,7 +619,7 @@ _annual passenger traffic on registered air carriers_: 927,153 (2018)<br>
 5A<br>
 
 **Airports**<br>
-_total_: 146 (2021)<br>
+146 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 68<br>
@@ -656,7 +660,7 @@ _LNG terminal(s) (export)_: Marsa el Brega<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Libya lacks a nationwide military and the interim government, the Government of National Unity (GNU), relies on its cooperation with disparate militias that it cannot entirely control for security; the GNU has a ministry of defense and access to various ground, air, and naval/coast guard forces comprised of a mix of semi-regular military units, militias, civilian volunteers, and foreign troops and mercenaries<br><br>the self-styled Libyan National Army (LNA), under de facto LNA commander Khalifa HAFTER, also includes various ground, air, and naval units comprised of semi-regular military personnel, militias, and foreign troops and mercenaries; the LNA operates independently from the GNU and exerts influence throughout eastern, central, and southern Libya (2022)<br>
+the Government of National Unity (GNU) has access to various ground, air, and naval/coast guard forces comprised of a mix of formations and equipment from the QADHAFI regime, semi-regular military units, militias, civilian volunteers, and foreign private military contractors and mercenaries; the GNU has a Ministry of Defense, but has limited control over its security forces<br><br>the self-styled Libyan National Army (LNA), under de facto LNA commander Khalifa HAFTER, also includes various ground, air, and naval forces comprised of semi-regular military personnel, militias, and foreign private military contractors and mercenaries; the LNA operates independently from the GNU and exerts influence throughout eastern, central, and southern Libya (2022)<br>
 <strong>note 1:</strong> the Stabilization Support Authority (SSA) is a state-funded militia established in January 2021 by the GNU; it is tasked with securing government buildings and officials, participating in combat operations, apprehending those suspected of national security crimes, and cooperating with other security bodies<br><br><strong>note 2: </strong>the national police force under the Ministry of Interior oversees internal security (with support from military forces under the Ministry of Defense), but much of Libya's security-related police work generally falls to informal armed groups, which received government salaries but lacked formal training, supervision, or consistent accountability<br>
 
 **Military expenditures**<br>
@@ -686,6 +690,6 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham - Libya (ISIS-L); al-
 <p><em>Libya-Algeria:</em> dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria<br><br><em>Libya-Chad:</em> various Chadian rebels from the Aozou region reside in southern Libya; Libyan forces clashed with Chadian rebels in September 2021</p> <p><em>Libya-Egypt</em>: none identified</p> <p><em>Libya-Niger</em>: the boundary is poorly defined but has never been disputed by either country</p> <p><em>Libya-Sudan</em>: none identified</p> <p><em>Libya-Tunisia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,764 (Sudan) (refugees and asylum seekers), 11,810 (Syria) (refugees and asylum seekers), 6,096 (Eritrea) (2023)<br>
+_refugees (country of origin)_: 20,355 (Sudan) (refugees and asylum seekers), 11,308 (Syria) (refugees and asylum seekers), 6,716 (Eritrea) (2023)<br>
 _IDPs_: 134,787 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2022)<br>
 

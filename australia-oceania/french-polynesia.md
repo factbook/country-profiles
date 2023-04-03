@@ -399,6 +399,11 @@ _female_: 43.9% (2021 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+10.19% of GDP (2020 est.)<br>
+9.69% of GDP (2019 est.)<br>
+9.48% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.891 billion (2012)<br>
 _expenditures_: $1.833 billion (2011)<br>
@@ -511,18 +516,17 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 94,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
+_total subscriptions_: 108,051 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 36 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 335,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 119 (2020 est.)<br>
+_total subscriptions_: 322,918 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 106 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: French Polynesia has one of the most advanced telecoms infrastructures in the Pacific Islands region; the remoteness of the country with its scattering of 130 islands and atolls has made connectivity vital for its inhabitants; the first submarine cable was deployed in 2010 and since then additional cables have been connected to the islands, vastly improving French Polynesia&rsquo;s international connectivity; an additional domestic submarine cable, the Natitua Sud, will connect more remote islands by the end of 2022; French Polynesia is also a hub for satellite communications in the region; a considerable number of consumers access FttP-based services; with the first data center in French Polynesia on the cards, the quality and price of broadband services is expected to improve as content will be able to be cached locally, reducing costs for consumers; for 2022, fixed broadband subscriptions reached an estimated 22%; about 43% of the country&rsquo;s mobile connections are on 3G networks, while LTE accounts for 12%; by 2025, LTE is expected to account for more than half of all connections; it is also estimated that 77% of mobile subscribers will have smart phones by 2025 (2022)<br>
-_domestic_: fixed-line subscriptions nearly 33 per 100 persons and mobile-cellular density is roughly 119 per 100 persons (2020)<br>
+_domestic_: fixed-line subscriptions nearly 36 per 100 persons and mobile-cellular density is roughly 106 per 100 persons (2021)<br>
 _international_: country code - 689; landing points for the NATITUA, Manatua, and Honotua submarine cables to other French Polynesian Islands, Cook Islands, Niue, Samoa and US; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 French public overseas broadcaster Reseau Outre-Mer provides 2 TV channels and 1 radio station; 1 government-owned TV station; a small number of privately owned radio stations (2019)<br>
@@ -548,7 +552,7 @@ _inventory of registered aircraft operated by air carriers_: 19 (registered in F
 F-OH<br>
 
 **Airports**<br>
-_total_: 54 (2021)<br>
+54 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 45<br>

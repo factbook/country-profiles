@@ -146,7 +146,7 @@ _65 years and over_: 0.67 male(s)/female<br>
 _total population_: 0.92 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-144 deaths/100,000 live births (2017 est.)<br>
+186 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 24.41 deaths/1,000 live births<br>
@@ -199,6 +199,7 @@ _unimproved: total_: total: 14.4% of population (2020 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Botswana is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>
@@ -279,6 +280,7 @@ _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Botswana is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 210,854 tons (2010 est.)<br>
@@ -488,6 +490,11 @@ _female_: 43.3% (2021 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+0.33% of GDP (2021 est.)<br>
+0.24% of GDP (2020 est.)<br>
+0.36% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $5.305 billion (2017 est.)<br>
 _expenditures_: $5.478 billion (2017 est.)<br>
@@ -617,18 +624,17 @@ _Total energy consumption per capita 2019_: 34.095 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 140,003 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
+_total subscriptions_: 132,457 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,829,408 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 163 (2020 est.)<br>
+_total subscriptions_: 4,160,553 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 161 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: effective regulatory reform has made Botswana&rsquo;s telecom market one of the most liberalized in the region; there is a service-neutral licensing regime adapted to the convergence of technologies and services, and several operators now compete in all telecom sectors; Botswana has one of the highest mobile penetration rates in Africa; in a bid to generate new revenue streams and secure market share, the three mobile network operators have entered the underdeveloped broadband sector by adopting of 3G, LTE, and WiMAX technologies; in the fixed-line broadband market they compete with a large number of ISPs, some of which have rolled out their own wireless access infrastructure; the landlocked country depends on satellites for international bandwidth, and on other countries for transit capacity to the landing points of international submarine cables; the landing of additional cables in the region in recent years has improved the competitive situation in this sector, while prices for connectivity have fallen dramatically (2022)<br>
-_domestic_: fixed-line teledensity has declined in recent years and now stands at roughly 6 telephones per 100 persons; mobile-cellular teledensity is roughly 163 telephones per 100 persons (2020)<br>
+_domestic_: fixed-line teledensity has declined in recent years and now stands at roughly 5 telephones per 100 persons; mobile-cellular teledensity is roughly 161 telephones per 100 persons (2021)<br>
 _international_: country code - 267; international calls are made via satellite, using international direct dialing; 2 international exchanges; digital microwave radio relay links to Namibia, Zambia, Zimbabwe, and South Africa; satellite earth station - 1 Intelsat (Indian Ocean)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 2 TV stations - 1 state-owned and 1 privately owned; privately owned satellite TV subscription service is available; 2 state-owned national radio stations;&nbsp;4 privately owned radio stations broadcast locally (2019)<br>
@@ -656,7 +662,7 @@ _annual freight traffic on registered air carriers_: 110,000 (2018) mt-km<br>
 A2<br>
 
 **Airports**<br>
-_total_: 74 (2021)<br>
+74 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 10<br>

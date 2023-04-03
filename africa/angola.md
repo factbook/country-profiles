@@ -151,7 +151,7 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-241 deaths/100,000 live births (2017 est.)<br>
+222 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 57.2 deaths/1,000 live births<br>
@@ -485,9 +485,18 @@ _female_: 18.8% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 51.3 (2018 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 48.6% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 1.5% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 0.6%<br>
 _highest 10%_: 44.7% (2000)<br>
+
+**Remittances**<br>
+0.02% of GDP (2021 est.)<br>
+0.02% of GDP (2020 est.)<br>
+0% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $37.02 billion (2017 est.)<br>
@@ -628,7 +637,6 @@ _subscriptions per 100 inhabitants_: 44 (2021 est.)<br>
 _general assessment_: Angola&rsquo;s telecom sector in recent years has benefited from political stability, which has encouraged foreign investment in the sector; the government and regulator have also set in train mechanisms to open up the telecom sector to new competitors, mobile services were launched in April 2022; the MNOs were slow to develop LTE services, instead relying on their GSM and 3G network capabilities; there has been slow progress in LTE network development, with only a small proportion of the country covered by network infrastructure; the Ministry of Telecommunications in early 2021 set up a 5G hub to assess 5G user cases; the regulator in November 2021 granted licenses to various companies offering 5G services, with spectrum in the 3.3-3.7GHz range having been set aside for such services (2022)<br>
 _domestic_: less than one fixed-line per 100 persons; mobile-cellular teledensity about 44 telephones per 100 persons (2021)<br>
 _international_: country code - 244; landing points for the SAT-3/WASC, WACS, ACE and SACS&nbsp;fiber-optic submarine cable that provides connectivity to other countries in west Africa, Brazil, Europe and Asia; satellite earth stations - 29, Angosat-2 satellite expected by 2021 (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state controls all broadcast media with nationwide reach; state-owned Televisao Popular de Angola (TPA) provides terrestrial TV service on 2 channels; a third TPA channel is available via cable and satellite; TV subscription services are available; state-owned Radio Nacional de Angola (RNA) broadcasts on 5 stations; about a half-dozen private radio stations broadcast locally<br>
@@ -656,7 +664,7 @@ _annual freight traffic on registered air carriers_: 78.16 million (2018) mt-km<
 D2<br>
 
 **Airports**<br>
-_total_: 102 (2021)<br>
+102 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 32<br>
@@ -719,7 +727,10 @@ approximately 101,000 active troops (95,000 Army; 1,000 Navy; 5,000 Air Force); 
 most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pact origin; in recent years, Russia has been the principal supplier of military hardware to Angola (2022)<br>
 
 **Military service age and obligation**<br>
-20-45 years of age for compulsory and 18-45 years for voluntary military service for men (registration at age 18 is mandatory); 20-45 years of age for voluntary service for women; 2-year conscript service obligation; Angolan citizenship required; the Navy is entirely staffed with volunteers (2021)<br>
+20-45 years of age for compulsory and 18-45 years for voluntary military service for men (registration at age 18 is mandatory); 20-45 years of age for voluntary service for women; 24-month conscript service obligation; Angolan citizenship required; the Navy is entirely staffed with volunteers (2023)<br>
+
+**Military deployments**<br>
+in 2023, Angola agreed to send 500 troops to the Democratic Republic of the Congo (DRC) for 12 months as part of an African regional force to assist with security in the eastern part of the country where the DRC military is combating a rebel group known as M23<br>
 
 **Military - note**<br>
 the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA); the current force is responsible for country&rsquo;s external defense but also has some domestic security responsibilities, including border protection, expulsion of irregular migrants, and small-scale counterinsurgency operations against groups like the Front for the Liberation of the Enclave of Cabinda separatists in Cabinda; the Army is one of the largest in the region with 6 infantry divisions spread amongst 6 military regions; it is also one of the better equipped, with a significant portion of its units being motorized and supported by approximately 300 Soviet-era tanks, largely acquired in the 1980s and 1990s; the Air Force is also one of the largest and best equipped in the region with a fleet of approximately 100 combat aircraft, plus a substantial inventory of transport aircraft and helicopter gunships; while naval modernization has received more attention in recent years, the Navy remains a small force of fast attack and coastal patrol craft (2023)<br>
@@ -733,7 +744,7 @@ the International Maritime Bureau reports the territorial waters of Angola are a
 <p><em>Angola-Democratic Republic of Congo (DRC): </em>DRC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: </em>none identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,155 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023)<br>
+_refugees (country of origin)_: 23,176 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

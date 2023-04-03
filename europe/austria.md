@@ -149,7 +149,7 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 29.7 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-5 deaths/100,000 live births (2017 est.)<br>
+5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.2 deaths/1,000 live births<br>
@@ -476,9 +476,18 @@ _female_: 11.3% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 30.2 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 9.8% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 23.5% (2012 est.)<br>
+
+**Remittances**<br>
+0.66% of GDP (2021 est.)<br>
+0.69% of GDP (2020 est.)<br>
+0.67% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $201.7 billion (2017 est.)<br>
@@ -619,7 +628,6 @@ _subscriptions per 100 inhabitants_: 122 (2021 est.)<br>
 _general assessment_: mature telecom market; the mobile market benefits from a growing number of Mobile Virtual Network Operators; the telcos as well as the government and regulator have been focused on delivering improved telecom infrastructure; the government has a program to provide a national gigabit service by 2030, delivered by private enterprise though with some state funding; this is based on fiber networks supported by 5G, with the Mobile Network Operators able to expand the reach of their 5G services following auctions held in March 2019 and September 2020; the fixed-line broadband market is still dominated by the DSL sector, while the cable broadband sector has held a steady share of connections in recent years; the fiber sector was slow to develop, and although fiber remains low there are plans to build out the network infrastructure (2021)<br>
 _domestic_: developed and efficient; 43 per 100 fixed telephone subscriptions; 122 per 100 mobile-cellular subscriptions (2021)<br>
 _international_: country code - 43; earth stations available in the Astra, Intelsat, Eutelsat satellite systems (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 worldwide cable and satellite TV are available; the public incumbent ORF competes with three other major, several regional domestic, and up to 400 international TV stations; TV coverage is in principle 100%, but only 90% use broadcast media; Internet streaming not only complements, but increasingly replaces regular TV stations (2019)<br>
@@ -650,7 +658,7 @@ _annual freight traffic on registered air carriers_: 373.51 million (2018) mt-km
 OE<br>
 
 **Airports**<br>
-_total_: 50 (2021)<br>
+50 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 24<br>
@@ -708,7 +716,7 @@ approximately 25,000 active duty personnel (20,000 Army; 5,000 Air Force) (2022)
 the military's inventory includes a mix of domestically produced and imported weapons systems from European countries and the US; the Austrian defense industry produces a range of equipment and partners with other countries (2022)<br>
 
 **Military service age and obligation**<br>
-registration requirement at age 17, the legal minimum age for voluntary military service; men above the age of 18 are subject to compulsory military service; women may volunteer; compulsory service is for 6 months, or optionally, alternative civil/community service (Zivildienst) for 9 months (2022)<br>
+registration requirement at age 17, the legal minimum age for voluntary military service; men above the age of 18 are subject to compulsory military service; women may volunteer; compulsory service is for 6 months, or optionally, alternative civil/community service (Zivildienst) for 9 months (2023)<br>
 <strong>note 1:</strong> as of 2019, women made up about 4% of the military's full-time personnel<br><br><strong>note 2:</strong> in a January 2013 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system; approximately 40% of those liable to compulsory service have opted in favor of  alternative civil/community service<br>
 
 **Military deployments**<br>
@@ -729,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 94,343 (Ukraine) (as of 6 March 2023)<br>
+_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 94,984 (Ukraine) (as of 20 March 2023)<br>
 _stateless persons_: 3,219 (2022)<br>
 
 **Illicit drugs**<br>

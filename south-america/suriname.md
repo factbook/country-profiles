@@ -142,7 +142,7 @@ _65 years and over_: 0.7 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-120 deaths/100,000 live births (2017 est.)<br>
+96 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 29.91 deaths/1,000 live births<br>
@@ -469,6 +469,11 @@ _female_: 46.1% (2021 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+4.95% of GDP (2021 est.)<br>
+4.26% of GDP (2020 est.)<br>
+2.39% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $560.7 million (2017 est.)<br>
 _expenditures_: $827.8 million (2017 est.)<br>
@@ -607,7 +612,6 @@ _subscriptions per 100 inhabitants_: 139.99 (2019)<br>
 _general assessment_:  <p>Suriname is the smallest nation on the South American continent, with about 580,000 inhabitants; the only Dutch-speaking nation in South America, it has close affinities with the Caribbean, and is a member of the Caribbean Community and Common Market (CARICOM); the country’s fixed-line infrastructure is reasonably reliable in the more populated coastal region, though poor in the interior; fixed teledensity and broadband penetration are slightly lower than average for Latin America and the Caribbean, while mobile penetration is significantly above the regional average and much higher than would be expected given the country’s relatively low GDP per capita; many Surinamese have up to three mobile lines with different providers, which has pushed up penetration figures although the number of subscribers has fallen in recent years as consumers have responded to economic pressures</p>  (2021)<br>
 _domestic_: fixed-line nearly 18 per 100 and mobile-cellular teledensity over 153 telephones per 100 persons; microwave radio relay network is in place (2020)<br>
 _international_: country code - 597; landing point for the SG-SCS submarine cable linking South America with the Caribbean; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 2 state-owned TV stations; 1 state-owned radio station; multiple private radio and TV stations (2019)<br>
@@ -635,7 +639,7 @@ _annual freight traffic on registered air carriers_: 33.2 million (2018) mt-km<b
 PZ<br>
 
 **Airports**<br>
-_total_: 55 (2021)<br>
+55 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 6<br>

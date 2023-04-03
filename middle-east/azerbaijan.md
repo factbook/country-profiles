@@ -149,7 +149,7 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 24 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
-26 deaths/100,000 live births (2017 est.)<br>
+41 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 22.93 deaths/1,000 live births<br>
@@ -474,9 +474,18 @@ _female_: 18.9% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 33.7 (2008)<br>
 
+**Average household expenditures**<br>
+_On food_: 38.6% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 1.6% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
 _highest 10%_: 27.4% (2008)<br>
+
+**Remittances**<br>
+2.79% of GDP (2021 est.)<br>
+3.29% of GDP (2020 est.)<br>
+2.65% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $9.556 billion (2017 est.)<br>
@@ -615,7 +624,6 @@ _subscriptions per 100 inhabitants_: 105 (2021 est.)<br>
 _general assessment_: in spite of the telecom sector being one of the major contributors to Azerbaijan&rsquo;s non-oil GDP, overall development, growth, and investment in the sector has been held back by years of political and civil unrest coupled with endemic corruption; mobile penetration rates reached 100% as far back as 2011 but have largely stagnated since then; the Mobile Network Operators (MNOs) are slowly extending the reach of their LTE networks around the country, and this increased coverage (along with access to faster data-based services) is expected to produce a moderate resurgence for both mobile and mobile broadband over the next few years as customers migrate from 3G to 4G. 5G services are still some ways off, as the demand for high-speed data and fast broadband can easily be met by existing capacity on LTE networks; fixed-line teledensity continues to drop down each year as customers consolidate their telecommunications services around the mobile platform; the rate of decline is comparatively slower than other countries, since Azerbaijan has a relatively high proportion of (87%) of fixed-line broadband customers still on DSL; fiber is gradually being rolled out in urban areas, and this makes up the bulk of the growth being seen in the overall fixed broadband market; DSL&rsquo;s predominance, however, will serve to keep Azerbaijan&rsquo;s average access speeds in the sub-10Mbps range for the foreseeable future (2020)<br>
 _domestic_: 16 fixed-lines subsciptions per 100 persons; mobile-cellular subscriptions of 105 telephones per 100 persons (2021)<br>
 _international_: country code - 994; Azerbaijan’s largest mobile network operator (MNO)  launched trial 5G mobile services in Baku on 27 December 2022 (2023)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 3 state-run and 1 public TV channels; 4 domestic commercial TV stations and about 15 regional TV stations; cable TV services are available in Baku; 1 state-run and 1 public radio network operating; a small number of private commercial radio stations broadcasting; local FM relays of Baku commercial stations are available in many localities; note - all broadcast media is pro-government, and most private broadcast media outlets are owned by entities directly linked to the government<br>
@@ -643,7 +651,7 @@ _annual freight traffic on registered air carriers_: 44.09 million (2018) mt-km<
 4K<br>
 
 **Airports**<br>
-_total_: 23 (2021)<br>
+23 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 30<br>
@@ -697,7 +705,7 @@ information varies; approximately 65,000 active armed forces (55,000 Army; 2,000
 the military's inventory is comprised mostly of Russian and Soviet-era weapons systems with a small mix of equipment from other countries, including Israel and Turkey (2022)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age for compulsory military service for men; 17-35 years of age for voluntary service for men and women (2022)<br>
+18-25 years of age for compulsory military service for men; 17-35 years of age for voluntary service for men and women (2023)<br>
 <strong>note:</strong> as of 2018, women made up an estimated 3% of the active duty military<br>
 
 **Military - note**<br>
@@ -715,6 +723,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps (IR
 <p>Local border forces struggle to control the illegal transit of goods and people across the porous, undemarcated Armenian, Azerbaijani, and Georgian borders.<br><br><em>Armenia-Azerbaijan:</em> The dispute over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan remains the primary focus of regional instability. Residents have evacuated the former Soviet-era small ethnic enclaves in Armenia and Azerbaijan.<br><br><em>Azerbaijan-Georgia:</em> A joint boundary commission agrees on most of the alignment, leaving only small areas at certain crossing points in dispute.  Consequently, the two states have yet to agree on a delimitation or demarcation of their common boundary. One area of contention is where the international boundary should run through the 6th-13th Century David-Gareja monastery complex.<br><br><em>Azerbaijan-Iran:</em> none identified<br><br><em>Azerbaijan-Russia: </em>Russia complains of cross-border smuggling.<br><br><em>Azerbaijan-Turkey:</em> none identified<br><br><em>Caspian Sea (Maritime Boundary):</em> Azerbaijan, Kazakhstan, and Russia ratified the Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea. Bilateral talks continue with Turkmenistan on dividing the seabed and contested oilfields in the middle of the Caspian.</p><br>
 
 **Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 5,031 (Ukraine) (as of 13 March 2023)<br>
 _IDPs_: 655,000 (conflict with Armenia over Nagorno-Karabakh; IDPs are mainly ethnic Azerbaijanis but also include ethnic Kurds, Russians, and Turks predominantly from occupied territories around Nagorno-Karabakh; includes IDPs' descendants, returned IDPs, and people living in insecure areas and excludes people displaced by natural disasters; around half the IDPs live in the capital Baku) (2021)<br>
 _stateless persons_: 3,585 (2022)<br>
 

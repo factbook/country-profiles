@@ -149,7 +149,7 @@ _Midway Islands_: (2013) 3 - one operational (2,377 m paved); no fuel for sale e
 _Palmyra Atoll_: (2013) 1 - 1,846 m unpaved runway; privately owned<br>
 
 **Airports - with paved runways**<br>
-_2,438 to 3,047 m_: 1 (2016) - Johnston Atoll;<br>
+_2,438 to 3,047 m_: 1 (2016) - Johnston Atoll<br>
 note - abandoned but usable<br>
 
 **Airports - with unpaved runways**<br>

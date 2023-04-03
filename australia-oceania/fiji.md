@@ -137,7 +137,7 @@ _65 years and over_: 0.86 male(s)/female<br>
 _total population_: 1.03 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-34 deaths/100,000 live births (2017 est.)<br>
+38 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 9.85 deaths/1,000 live births<br>
@@ -462,6 +462,11 @@ _female_: 25.9% (2021 est.)<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 34.9% (2009 est.)<br>
 
+**Remittances**<br>
+11.26% of GDP (2021 est.)<br>
+7.94% of GDP (2020 est.)<br>
+5.39% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.454 billion (2017 est.)<br>
 _expenditures_: $1.648 billion (2017 est.)<br>
@@ -589,18 +594,17 @@ _Total energy consumption per capita 2019_: 32.901 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 48,510 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
+_total subscriptions_: 49,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 991,500 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 111 (2020 est.)<br>
+_total subscriptions_: 990,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Fiji is the leading market to watch in terms of both LTE and 5G development in the region; the market boasts relatively sophisticated, advanced digital infrastructure, with telcos&rsquo; heavy investment resulting in the country having the highest mobile and internet subscriptions in the Pacific Islands region; LTE, LTE-A, and fiber technologies have received the most investment by the Fijian mobile operators, LTE now accounts for the largest share of connections in the mobile segment; concentrating on the more highly populated areas, the operators are preparing for the next growth area of high-speed data; they also have 5G in mind, and are preparing their networks to be 5G-ready, anticipating an easier migration to the technology based on the relatively high LTE subscription rate; Fiji presents a challenging geographic environment for infrastructure development due to its population being spread across more than 100 islands; the majority of Fijians live on the two main islands of Viti Levu and Vanua Levu; in July 2018, the two islands were linked by the Savusavu submarine cable system, which provides a more secure link in times of emergency weather events such as the regular tropical cyclones that often cause massive destruction to the area, including destroying essential infrastructure such as electricity and telecommunications equipment; notably, the December 2021 eruption of the Hunga Tonga&ndash;Hunga Ha'apai submarine volcano in Tonga damaged the Tonga Cable which connects Fiji, and Tonga blocking the latter off from internet services; cable theft and damage of critical communications infrastructure has also become a concern in Fiji, prompting authorities to establish a joint task force to tackle the issue (2022)<br>
-_domestic_: fixed-line nearly 5 per 100 persons and mobile-cellular teledensity roughly 111 per 100 persons (2020)<br>
+_domestic_: fixed-line nearly 5 per 100 persons and mobile-cellular teledensity roughly 110 per 100 persons (2021)<br>
 _international_: country code - 679; landing points for the ICN1, SCCN, Southern Cross NEXT, Tonga Cable and Tui-Samoa&nbsp;submarine cable links&nbsp;to US,&nbsp;NZ, Australia and Pacific islands of Fiji, Vanuatu, Kiribati, Samoa, Tokelau, Tonga, Fallis &amp; Futuna, and American Samoa; satellite earth stations - 2 Inmarsat (Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 Fiji TV, a publicly traded company, operates a free-to-air channel; Digicel Fiji operates the Sky Fiji and Sky Pacific multi-channel pay-TV services; state-owned commercial company, Fiji Broadcasting Corporation, Ltd, operates 6 radio stations - 2 public broadcasters and 4 commercial broadcasters with multiple repeaters; 5 radio stations with repeaters operated by Communications Fiji, Ltd; transmissions of multiple international broadcasters are available<br>
@@ -628,7 +632,7 @@ _annual freight traffic on registered air carriers_: 106.83 million (2018) mt-km
 DQ<br>
 
 **Airports**<br>
-_total_: 28 (2021)<br>
+28 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
@@ -670,9 +674,9 @@ Republic of Fiji Military Force (RFMF): Land Force Command, Maritime Command; Fi
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
-1.6% of GDP (2019 est.) (approximately $160 million)<br>
-1.6% of GDP (2018 est.) (approximately $160 million)<br>
-1.5% of GDP (2017 est.) (approximately $150 million)<br>
+1.6% of GDP (2019 est.)<br>
+1.6% of GDP (2018 est.)<br>
+1.5% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,000 active personnel (2022)<br>
@@ -687,7 +691,7 @@ the RFMF is lightly armed and equipped; Australia has provided patrol boats and 
 170 Egypt (MFO); 165 Iraq (UNAMI); 150 Golan Heights (UNDOF) (2022)<br>
 
 **Military - note**<br>
-the RFMF was established in 1920; it has a history of intervening in the country’s politics since the late 1980s, including coups in 1987 and 2006, and a mutiny in 2000 <br><br>the RFMF also has a long tradition of participating in UN peacekeeping operations; since its first deployment of troops to South Lebanon in 1978 under the United Nations Interim Force in Lebanon (UNIFIL), it has deployed troops on nearly 20 additional UN missions<br><br>Fiji has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Fiji's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
+established in 1920,<strong> </strong>the RFMF is a small and lightly-armed force with a history of intervening in the country’s politics, including coups in 1987 and 2006, and a mutiny in 2000, and it continues to have significant political power; the RFMF is responsible for external security but can be assigned some domestic security responsibilities in specific circumstances; it also has a tradition of participating in UN peacekeeping operations, having sent troops on nearly 20 such missions since first deploying personnel  to South Lebanon in 1978; these deployments have offered experience and a source of financial support; the RFMF has an infantry regiment and a small naval element comprised of patrol boats <br><br>Fiji has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Fiji's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
 
 ## Transnational Issues
 

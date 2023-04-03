@@ -150,7 +150,7 @@ _total population_: 1.1 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-46 deaths/100,000 live births (2017 est.)<br>
+41 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 13.56 deaths/1,000 live births<br>
@@ -490,9 +490,18 @@ _female_: 53.8% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 33.7 (2010 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 29.6% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 4.6% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
 _highest 10%_: 28.7% (2010 est.)<br>
+
+**Remittances**<br>
+11.29% of GDP (2021 est.)<br>
+11.05% of GDP (2020 est.)<br>
+10.34% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $9.462 billion (2017 est.)<br>
@@ -631,7 +640,6 @@ _subscriptions per 100 inhabitants_: 68 (2020 est.)<br>
 _general assessment_: Jordan&rsquo;s government has focused on the use of ICT in a range of sectors, aimed at transforming the relatively small economy through the use of digital services; this policy has helped the country rise in the league tables for digital connectivity and internet readiness, and it has also attracted investment from foreign companies; during the ongoing global pandemic, the start-up sector has been further encouraged to develop solutions to combat the crisis, while other efforts have facilitated e-government services and encouraged businesses to adapt to new methods of working through their own digital transformation; these developments have been supported by the highly developed mobile sector, led by three major regional players which have near-comprehensive LTE network coverage (2022)<br>
 _domestic_: a 1995 telecommunications law opened all non-fixed-line services to private competition; in 2005, the monopoly over fixed-line services terminated and the entire telecommunications sector was opened to competition; currently fixed-line stands at nearly 4 per 100 persons and multiple mobile-cellular providers with subscribership over 68 per 100 persons (2020)<br>
 _international_: country code - 962; landing point for the&nbsp;FEA and&nbsp;Taba-Aqaba submarine cable networks providing connectivity to Europe, the Middle East, Southeast Asia and Asia; satellite earth stations - 33 (3 Intelsat, 1 Arabsat, and 29 land and maritime Inmarsat terminals (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 radio and TV dominated by the government-owned Jordan Radio and Television Corporation (JRTV) that operates a main network, a sports network, a film network, and a satellite channel; first independent TV broadcaster aired in 2007; international satellite TV and Israeli and Syrian TV broadcasts are available; roughly 30 radio stations with JRTV operating the main government-owned station; transmissions of multiple international radio broadcasters are available<br>
@@ -659,7 +667,7 @@ _annual freight traffic on registered air carriers_: 175.84 million (2018) mt-km
 JY<br>
 
 **Airports**<br>
-_total_: 18 (2021)<br>
+18 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 16<br>
@@ -696,7 +704,7 @@ _major seaport(s)_: Al 'Aqabah<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations Forces, Border Guards, Royal Guard), Royal Jordanian Air Force, Royal Jordanian Coast Guard; Ministry of Interior: Public Security Directorate (includes national police, the Gendarmerie, and the Civil Defense Directorate) (2022)<br>
+Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations Forces, Border Guards, Royal Guard), Royal Jordanian Air Force, Royal Jordanian Coast Guard; Ministry of Interior: Public Security Directorate (includes national police, the Gendarmerie, and the Civil Defense Directorate) (2023)<br>
 <strong>note: </strong>the armed forces report administratively to the minister of defense and have a support role for internal security; the prime minister serves as defense minister, but there is no separate ministry of defense<br>
 
 **Military expenditures**<br>
@@ -713,7 +721,7 @@ approximately 94,500 active duty armed forces personnel (80,000 Army; 14,000 Air
 the JAF inventory is comprised of a wide mix of imported equipment from Europe, some Gulf States, Russia, and the US; in recent years, the Netherlands and the US have been the leading suppliers (2022)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary military service for men (women can volunteer to serve in noncombat military positions in the Royal Jordanian Arab Army Women's Corps and RJAF); initial service term 2 years, with option to reenlist for up to 18 years; conscription was abolished in 1991, but in 2020 Jordan announced the reinstatement of compulsory military service for jobless men aged between 25 and 29 with 12 months of service, made up of 3 months of military training and 9 months of professional and technical training; in 2019, Jordan announced a voluntary 4-month National Military Service program for men and women aged between 18-25 years who have been unemployed for at least 6 months; service would include 1 month for military training with the remaining 3 months dedicated to vocational training in the sectors of construction and tourism (2022)<br>
+17 years of age for voluntary military service for men (women can volunteer to serve in noncombat military positions in the Royal Jordanian Arab Army Women's Corps and RJAF); initial service term is 24 months, with option to reenlist for up to 18 years; conscription was abolished in 1991, but in 2020 Jordan announced the reinstatement of compulsory military service for jobless men aged between 25 and 29 with 12 months of service, made up of 3 months of military training and 9 months of professional and technical training; in 2019, Jordan announced a voluntary 4-month National Military Service program for men and women aged between 18-25 years who have been unemployed for at least 6 months; service would include 1 month for military training with the remaining 3 months dedicated to vocational training in the sectors of construction and tourism (2023)<br>
 <strong>note:</strong> most women serve in the medical service; outside the medical service, women comprised about 1.5% of the military as of 2019<br>
 
 **Military deployments**<br>

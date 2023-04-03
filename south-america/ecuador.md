@@ -147,7 +147,7 @@ _65 years and over_: 0.89 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-59 deaths/100,000 live births (2017 est.)<br>
+66 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 17.72 deaths/1,000 live births<br>
@@ -488,10 +488,19 @@ _female_: 18.8% (2021 est.)<br>
 47.3 (2020 est.)<br>
 <strong>note:</strong> data are for urban households only<br>
 
+**Average household expenditures**<br>
+_On food_: 26.2% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 0.8% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.4%<br>
 _highest 10%_: 35.4% (2012 est.)<br>
 <strong>note:</strong> data are for urban households only<br>
+
+**Remittances**<br>
+4.11% of GDP (2021 est.)<br>
+3.37% of GDP (2020 est.)<br>
+3% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $33.43 billion (2017 est.)<br>
@@ -620,18 +629,17 @@ _Total energy consumption per capita 2019_: 42.564 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,063,044 (2020)<br>
-_subscriptions per 100 inhabitants_: 12 (2020 est.)<br>
+_total subscriptions_: 1,846,666 (2021)<br>
+_subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 15,485,366 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 88 (2020 est.)<br>
+_total subscriptions_: 16,789,600 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 94 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Ecuador has a small telecom market dominated by the mobile sector; the evolution of the market has been influenced by the poor fixed-line infrastructure, which has stymied the development of fixed-line broadband services; to some extent poor infrastructure has been the result of topographical challenges which have rendered the cost of deploying networks to remote and mountainous areas prohibitive; although Ecuador has several fixed-line operators and a large number of ISPs, the state-owned incumbent leads the fixed-line market, and thus also the fixed broadband market; thus far the MVNO sector has been slow to develop, partly because the incumbent operators also have their low-cost brands and thus there is little business case for new market entrants; the government is keen to advance and improve teledensity; from 2022, additional revenue will be earmarked for programs aimed at expanding the reach of internet and mobile services in rural areas of the country; Ecuador lacks a national 5G roadmap; the mobile operators have conducted several 5G pilots, but no progress has been made on allocation spectrum for 5G, or on developing strategies to encourage investment in the sector (2022)<br>
-_domestic_: according to 2021 statistics from the Ministry of Telecommunications and Information Society, 50 percent of Ecuadorian homes do not have access to fixed internet; Ecuador&rsquo;s telecoms regulator is currently evaluating and reorganizing the 3.5GHz, 2.5 GHz, 700 MHz and AWS spectrum for future government tenders; 2G/3G technologies have a 91.11 percent of penetration and 4G technologies has 60.74 percent (2021); fixed-line teledensity is about 12 per 100 persons; mobile-cellular service with a subscribership of nearly 88 per 100 persons (2021)<br>
+_domestic_: according to 2021 statistics from the Ministry of Telecommunications and Information Society, 50 percent of Ecuadorian homes do not have access to fixed internet; fixed-line teledensity is about 10 per 100 persons; mobile-cellular service with a subscribership of nearly 94 per 100 persons (2021)<br>
 _international_: country code - 593; landing points for the SPSC (Mistral Submarine Cable), Panamerican Cable System (PAN-AM), Pacific Caribbean Cable System (PCCS), America Movil-Telxius West Coast Cable and SAm-1 submarine (SAm-1) cables that provide links to South and Central America, and extending onward to the Caribbean and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 <p>the Communication Council, an official entity, carried out a media registry in Ecuador in December 2020.  It registered 956 media outlets, 89% are private, 5% are public and 6% belong to small communities. The government controls most of the 44 public media, this includes national media and multiple local radio stations. In addition, of the 956 registered media, 58% are radio and 18% print. Two provinces have the largest number of media outlets: Guayas has 172 media outlets and Pichincha has 130 media outlets. (2020) so also sent to the National Assembly a new regulation proposal that is still under discussion.</p> (2022)<br>
@@ -660,7 +668,7 @@ _annual freight traffic on registered air carriers_: 64.2 million (2018) mt-km<b
 HC<br>
 
 **Airports**<br>
-_total_: 432 (2021)<br>
+432 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 104<br>
@@ -712,9 +720,9 @@ Ecuadorian Armed Forces: the Ecuadorian Army (Ejército Ecuatoriano), Ecuadorian
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
 2.3% of GDP (2020 est.)<br>
-2.2% of GDP (2019) (approximately $2.98 billion)<br>
-2.4% of GDP (2018) (approximately $3.14 billion)<br>
-2.4% of GDP (2017) (approximately $3.1 billion)<br>
+2.2% of GDP (2019)<br>
+2.4% of GDP (2018)<br>
+2.4% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 40,000 active military personnel (25,000 Army; 9,000 Navy; 6,000 Air Force) (2022)<br>

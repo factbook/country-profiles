@@ -188,7 +188,7 @@ Diego Garcia hosts one of four dedicated ground antennas that assist in the oper
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

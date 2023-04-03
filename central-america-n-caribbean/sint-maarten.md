@@ -323,6 +323,11 @@ _services_: 83.7% (2008 est.)<br>
 12% (2012 est.)<br>
 10.6% (2008 est.)<br>
 
+**Remittances**<br>
+4.3% of GDP (2018 est.)<br>
+4.62% of GDP (2017 est.)<br>
+4.82% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 -$294.32 million (2021 est.)<br>
 -$290.458 million (2020 est.)<br>
@@ -373,7 +378,6 @@ _subscriptions per 100 inhabitants_: 195.94 (2019)<br>
 _general assessment_: generally adequate facilities; growth sectors include mobile telephone and data segments; effective competition; LTE expansion; tourism and telecom sector contribute greatly to the GDP (2018)<br>
 _domestic_: extensive interisland microwave radio relay links; 196 per 100 mobile-cellular teledensity (2019)<br>
 _international_: country code - 1-721; landing points for SMPR-1 and the ECFS submarine cables providing connectivity to the Caribbean; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Internet country code**<br>
 <p>.sx; note - IANA has designated .sx for Sint Maarten, but has not yet assigned it to a sponsoring organization</p><br>
@@ -385,7 +389,7 @@ _percent of population_: 89.5% (March 2022)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

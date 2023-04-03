@@ -383,18 +383,17 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 33,940 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 54 (2020 est.)<br>
+_total subscriptions_: 33,930 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 53 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 43,824 (2009 est.)<br>
-_subscriptions per 100 inhabitants_: 79 (2009 est.)<br>
+_total subscriptions_: 71,485 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 112 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: fixed network broadband services are those delivered over physical copper connections, fiber connections and fixed wireless communications links (e.g. WiMax); they do not include services delivered over 2G, 3G and 4G mobile networks (2021)<br>
-_domestic_: fixed-line 47 per 100 and mobile-cellular 112 per 100 persons (2021)<br>
+_domestic_: fixed-line 53 per 100 and mobile-cellular 112 per 100 persons (2021)<br>
 _international_: country code - 44;&nbsp;landing points for Guernsey-Jersey, HUGO, INGRID, Channel Islands -9 Liberty&nbsp;and UK-Channel Islands-7&nbsp;submarine cable to UK and&nbsp;France (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey with relays in Jersey, Guernsey, and Alderney; satellite packages are available; BBC Radio Guernsey and 1 other radio station operating<br>
@@ -420,7 +419,7 @@ _inventory of registered aircraft operated by air carriers_: 9 (registered in UK
 2<br>
 
 **Airports**<br>
-_total_: 2 (2021)<br>
+2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>

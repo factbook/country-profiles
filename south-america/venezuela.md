@@ -150,7 +150,7 @@ _65 years and over_: 0.84 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-125 deaths/100,000 live births (2017 est.)<br>
+259 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 14.1 deaths/1,000 live births<br>
@@ -472,6 +472,10 @@ _female_: 19.3% (2021 est.) NA<br>
 **Gini Index coefficient - distribution of family income**<br>
 39 (2011)<br>
 
+**Average household expenditures**<br>
+_On food_: 19.1% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.8% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
 _highest 10%_: 32.7% (2006)<br>
@@ -610,7 +614,6 @@ _subscriptions per 100 inhabitants_: 47.26 (2019)<br>
 _general assessment_: Venezuela&rsquo;s fixed-line teledensity was relatively high for the region before the steady growth in the number of lines came to an end in 2015; since then, the number of lines has plummeted, and by late 2021 teledensity had fallen to about 17.3%; the cause is largely linked to the country&rsquo;s ongoing economic troubles, which have compelled many people to terminate fixed-line telecom services and others still to flee the country; these pressures have also distorted sector revenue and have placed into disarray operators&rsquo; investment plans aimed at improving networks and expanding the reach and capabilities of new technologies and services; the fixed broadband penetration rate is lower than the regional average, while data speeds are also relatively low; there is no effective competition in the provision of DSL, and as a result the state-owned incumbent CANTV has had little incentive to improve services from its meager revenue streams; mobile penetration in Venezuela is also below the regional average; the number of mobile subscribers fell by an estimated 2.4% in 2020, year-on-year, as subscribers terminated services in a bid to reduce discretionary spending, this decline is expected to continue into 2022, with subscriber growth not returning until 2023 (2021)<br>
 _domestic_: two domestic satellite systems with three earth stations; recent substantial improvement in telephone service in rural areas; 3 major providers operate in the mobile market and compete with state-owned company; fixed-line over 18 per 100 and mobile-cellular telephone subscribership about 63 per 100 persons (2020)<br>
 _international_: country code - 58; landing points for the Venezuela Festoon, ARCOS, PAN-AM, SAC, GlobeNet, ALBA-1 and Americas II submarine cable system providing connectivity to the Caribbean, Central and South America, and US; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 PanAmSat (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 Venezuela has a mixture of state-run and private broadcast media that are subject to high levels of regime control, including the shuttering of opposition-leaning media outlets; 13 public service networks, 61 privately owned TV networks, a privately owned news channel with limited national coverage, and a regime-backed Pan-American channel; 3 regime-run radio networks officially control roughly 65 news stations and another 30 stations targeted at specific audiences; regime-sponsored community broadcasters include 235 radio stations and 44 TV stations; the number of private broadcast radio stations has been declining, but many still remain in operation (2021)<br>
@@ -638,7 +641,7 @@ _annual freight traffic on registered air carriers_: 1.55 million (2018) mt-km<b
 YV<br>
 
 **Airports**<br>
-_total_: 444 (2021)<br>
+444 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 127<br>
@@ -700,7 +703,7 @@ information varies; approximately 125-150,000 active personnel, including about 
 the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of equipment from Western countries, including the US; in recent years, Russia has been the top supplier of military hardware to Venezuela (2022)<br>
 
 **Military service age and obligation**<br>
-18-30 (25 for women) for voluntary service; the minimum service obligation is 24-30 months; all citizens of military service age (18-50) are obligated to register for military service and subject to military training, although “forcible recruitment” is forbidden (2022)<br>
+18-30 (25 for women) for voluntary service; the minimum service obligation is 24-30 months; all citizens of military service age (18-50) are obligated to register for military service and subject to military training, although “forcible recruitment” is forbidden (2023)<br>
 <strong>note:</strong> as of 2017, women made up more than 20% of the active duty military<br>
 
 **Military - note**<br>
@@ -725,8 +728,8 @@ _refugees (country of origin)_: 39,185 (Colombia) (mid-year 2022)<br>
 <strong>note: </strong>As of September 2022, host governments report more than 7.1 million Venezuelan refugees and migrants worldwide<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 &mdash; Venezuela does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government created a specialized prosecutor&rsquo;s office to oversee trafficking investigations and prosecutions; authorities began legal proceedings against three complicit officials in a notable case; however, the government did not assist any victims or investigate, prosecute, or convict any traffickers; little effort was made to curb the forced recruitment of Venezuelan children by Colombian armed groups operating illegally in Venezuela; authorities made little effort to screen Cuban medical professionals for trafficking indicators as the Cuban Government may have forced them to work by withholding their documentation, and coercing them to falsify medical records (2020)<br>
-_trafficking profile_: Venezuela is a source, transit, and destination country for men, women, and children subjected to sex trafficking and forced labor; Venezuelan women and girls are trafficked within the country for sexual exploitation, lured from the nation's interior to urban and tourist areas; women from Colombia, Peru, Haiti, China, and South Africa are also reported to have been sexually exploited in Venezuela; some Venezuelan women are transported to Caribbean islands, particularly Aruba, Curacao, and Trinidad &amp; Tobago, where they are subjected to forced prostitution; some Venezuelan children are forced to beg on the streets or work as domestic servants, while Ecuadorian children, often from indigenous communities, are subjected to forced labor; the government provided support to FARC dissidents and the ELN, which grew through the recruitment of child soldiers and exploitation of children in sex trafficking and forced labor; Illegal armed groups lure children in vulnerable conditions and dire economic circumstances with gifts and promises of basic sustenance to later recruit them into their ranks<br>
+_tier rating_: Tier 3 &mdash; Venezuela does not fully meet the minimum standards for the elimination of trafficking and is not making any efforts to do so, therefore Venezuela remained on Tier 3; the Maduro regime (which is not recognized by the United States) took some steps to address trafficking, arresting some complicit individuals and issuing a decree to develop a national action plan; however, the regime did not report assisting victims or prosecuting or convicting traffickers; the regime continued to provide support and a permissive environment to non-state armed groups that recruited and used child soldiers and engaged in sex trafficking and forced labor with impunity; representatives did not make sufficient efforts to curb forced recruitment of children by non-state armed groups (2022)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Venezuela, as well as Venezuelans abroad; more than six million Venezuelans, facing deteriorating economic conditions at home, have fled to neighboring countries are at risk of human trafficking; traffickers exploit Venezuelans in Aruba, The Bahamas, Bolivia, Brazil, Chile, China, Colombia, Costa Rica, Curacao, Dominican Republic, Ecuador, Egypt, Germany, Guyana, Haiti, Iceland, Macau, Mexico, Panama, Peru, Spain, Suriname, and Trinidad and Tobago; Venezuelan women and girls are at risk of sex trafficking in Colombia, Ecuador, and Trinidad and Tobago; women, including transgender women, have been lured to Spain and Germany with fraudulent employment offers and exploited in commercial sex; men are exploited in forced labor in other countries, including Aruba and Curacao; Venezuelan women and girls are subjected to sex trafficking and child sex tourism; children are exploited in sex trafficking and forced labor, including in farming, domestic service, construction, mining, and criminal groups; non-state armed groups&mdash;including illegal Colombian groups near border regions&mdash;force some Venezuelans into criminal acts, forced labor, sex trafficking, and use as child soldiers, which is reportedly tolerated by the Maduro regime; sex and labor trafficking victims from South America, Caribbean, Asian, and African countries have been reported in Venezuela; the Cuban government may be exploiting Cuban workers in medical missions in Venezuela (2022)<br>
 
 **Illicit drugs**<br>
 <p> a major drug transit country and trafficking route in the Western Hemisphere largely destined for the Caribbean, Central America, the United States, West Africa, and Europe for illegal drugs, predominately cocaine; government officials reportedly complicit with illegal armed narcotrafficking groups; little international drug control cooperation;  significant narcotics-related money-laundering activity, increasing signs of drug-related activities by Colombian insurgents on border</p><br>

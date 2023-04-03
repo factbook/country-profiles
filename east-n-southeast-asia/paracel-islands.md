@@ -141,7 +141,7 @@ _etymology_: Portuguese navigators began to refer to the "Ilhas do Pracel" in th
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

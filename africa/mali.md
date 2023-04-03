@@ -154,7 +154,7 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-562 deaths/100,000 live births (2017 est.)<br>
+440 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 58.99 deaths/1,000 live births<br>
@@ -210,6 +210,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mali is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.6% (2016)<br>
@@ -298,6 +299,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mali is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <p><em>due to civil insecurity and </em><em>high food prices </em><em>- </em>the food security situation deteriorated in 2021, particularly in conflict-affected central and northern areas; according to the latest analysis, about 1.84 million people are estimated to be in “Crisis” and above between June and August 2022, as a result of worsening conflicts, weather shocks, reduced cereal production in 2021 and high food prices</p> (2022)<br>
@@ -509,6 +511,11 @@ _female_: 19.8% (2021 est.)<br>
 _lowest 10%_: 3.5%<br>
 _highest 10%_: 25.8% (2010 est.)<br>
 
+**Remittances**<br>
+5.71% of GDP (2020 est.)<br>
+5.62% of GDP (2019 est.)<br>
+5.99% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $3.075 billion (2017 est.)<br>
 _expenditures_: $3.513 billion (2017 est.)<br>
@@ -646,7 +653,6 @@ _subscriptions per 100 inhabitants_: 125 (2020 est.)<br>
 _general assessment_: Mali&rsquo;s telecom systems are challenged by recent conflict, geography, areas of low population, poverty, security issues, and high illiteracy; telecom infrastructure is barely adequate in urban areas and not available in most of the country with underinvestment in fixed-line networks; high mobile penetration and potential for mobile broadband service; local plans for IXP; dependent on neighboring countries for international bandwidth and access to submarine cables (2022)<br>
 _domestic_: fixed-line subscribership is over 1 per 100 persons; mobile-cellular subscribership has increased sharply to 125 per 100 persons; increasing use of local radio loops to extend network coverage to remote areas (2020)<br>
 _international_: country code - 223; satellite communications center and fiber-optic links to neighboring countries; satellite earth stations - 2 Intelsat (1 Atlantic Ocean, 1 Indian Ocean) (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 national public TV broadcaster; 2 privately owned companies provide subscription services to foreign multi-channel TV packages; national public radio broadcaster supplemented by a large number of privately owned and community broadcast stations; transmissions of multiple international broadcasters are available (2019)<br>
@@ -671,7 +677,7 @@ _number of registered air carriers_: 0 (2020)<br>
 TZ, TT<br>
 
 **Airports**<br>
-_total_: 25 (2021)<br>
+25 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 8<br>
@@ -722,13 +728,13 @@ information varies; approximately 20,000 active FAMA personnel (includes up to 2
 the FAMA's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of mostly secondhand armaments from more than a dozen countries, especially Russia (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for men and women for selective compulsory and voluntary military service; 2-year conscript service obligation (2022)<br>
+18 years of age for men and women for selective compulsory and voluntary military service; 24-month compulsory service obligation (2023)<br>
 
 **Military deployments**<br>
 <strong>note: </strong>until announcing its withdrawal in May of 2022, Mali was part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mauritania, and Niger; Mali had committed 1,100 troops and 200 gendarmes to the force<br>
 
 **Military - note**<br>
-prior to the coup in August 2020 and military takeover in May 2021, the Malian military had intervened in the political arena at least five times since the country gained independence in 1960; two attempts failed (1976 and 1978), while three succeeded in overturning civilian rule (1968, 1991, and 2012)<br><br>the FAMA and the remainder of the security forces collapsed in 2012 during the fighting against Tuareg rebels and Islamic militants and have since been rebuilt with considerable external assistance, including the EU, France, and the UN; for example, the EU Training Mission in Mali (EUTM) from 2013-2022 trained some 14,000 Malian soldiers and 8 combined arms battalions/battlegroups (Groupement Tactique InterArmes, GTIA), each of which was structured to be self-sufficient with its own motorized/mechanized infantry, light armor, commandos, artillery, engineers, and other support forces; EUTM suspended its training program in 2022, citing issues with the ruling military government, including human rights abuses and the presence of Russian private military contractors; over the same period, the French military provided assistance to the Malian security forces and conducted counterterrorism and counterinsurgency operations in Mali; the French suspended operations in 2021 and in August 2022 withdrew the last of its forces while also citing issues with the military government; the UN Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) has operated in the country since 2013 with the mission of providing security, rebuilding Malian security forces, protecting civilians, supporting national political dialogue, and assisting in the reestablishment of Malian government authority; as of late 2022, MINUSMA had around 14,000 personnel deployed <br><br>the military government has increased security ties with Russia; Russia has provided military equipment, and in December 2021, Mali contracted with a Russian private military company to provide training for local armed forces and security to senior Malian officials; they have also participated in security operations and been accused of war crimes; as of 2022, there were an estimated 1,000 Russian military contractors in Mali<br><br>Malian security forces are actively engaged in operations against several insurgent terrorist groups affiliated with al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS), as well as other rebel groups, communal militias, and criminal bands spread across the central, northern, and southern regions of the country; the government was reportedly in control of only an estimated 10-20% of the country's central and northern territories, and terror attacks were increasing in the more heavily populated south, including around the capital Bamako; the Macina Liberation Front (FLM), part of the Jama’at Nusrat al Islam wal Muslimin (JNIM) coalition of al-Qa'ida-linked terror groups, has played a large role in a surge in violence in Mali’s central and southern regions; in the north, the Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS) has been able to reassert itself in 2022 (2022)<br>
+prior to the coup in August 2020 and military takeover in May 2021, the Malian military had intervened in the political arena at least five times since the country gained independence in 1960; two attempts failed (1976 and 1978), while three succeeded in overturning civilian rule (1968, 1991, and 2012)<br><br>the FAMA and the remainder of the security forces collapsed in 2012 during the fighting against Tuareg rebels and Islamic militants and have since been rebuilt with considerable external assistance, including the EU, France, and the UN; for example, the EU Training Mission in Mali (EUTM) from 2013-2022 trained some 14,000 Malian soldiers and 8 combined arms battalions/battlegroups (Groupement Tactique InterArmes, GTIA), each of which was structured to be self-sufficient with its own motorized/mechanized infantry, light armor, commandos, artillery, engineers, and other support forces; EUTM suspended its training program in 2022, citing issues with the ruling military government, including human rights abuses and the presence of Russian private military contractors; over the same period, the French military provided assistance to the Malian security forces and conducted counterterrorism and counterinsurgency operations in Mali; the French suspended operations in 2021 and in August 2022 withdrew the last of its forces while also citing issues with the military government; the UN Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) has operated in the country since 2013 with the mission of providing security, rebuilding Malian security forces, protecting civilians, supporting national political dialogue, and assisting in the reestablishment of Malian government authority; as of late 2022, MINUSMA had around 14,000 personnel deployed <br><br>the military government has increased security ties with Russia; Russia has provided military equipment, and in December 2021, Mali contracted with a Russian private military company to provide training for local armed forces and security to senior Malian officials; they have also participated in security operations and been accused of war crimes; as of 2022, there were an estimated 1,000 Russian military contractors in Mali<br><br>Malian security forces are actively engaged in operations against several insurgent terrorist groups affiliated with al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS), as well as other rebel groups, communal militias, and criminal bands spread across the central, northern, and southern regions of the country; the government was reportedly in control of only an estimated 10-20% of the country's central and northern territories, and terror attacks were increasing in the more heavily populated south, including around the capital Bamako; the Macina Liberation Front (FLM), part of the Jama’at Nusrat al Islam wal Muslimin (JNIM) coalition of al-Qa'ida-linked terror groups, has played a large role in a surge in violence in Mali’s central and southern regions; in the north, ISIS in the Greater Sahara (ISIS-GS) has been able to reassert itself  (2022)<br>
 
 ## Terrorism
 

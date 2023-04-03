@@ -147,7 +147,7 @@ _65 years and over_: 0.77 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-829 deaths/100,000 live births (2017 est.)<br>
+835 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 81.74 deaths/1,000 live births<br>
@@ -203,7 +203,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Central African Republic is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Central African Republic is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 7.5% (2016)<br>
@@ -287,7 +287,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Central African Republic is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Central African Republic is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict and high food prices -</em> according to the latest analysis, issued in November 2022, the number of people in Crisis and above is estimated at 2.7 million between September 2022 and March 2023; this is mainly attributed to the impact of civil insecurity and high food prices; persisting insecurity and population displacements continue to affect agricultural activities and limit farmers’ access to crop growing areas and agricultural inputs; elevated international prices of fuel and fertilizers, largely imported, have reportedly led to a lower use of agricultural inputs in 2022, especially among smallholder farmers, with a negative impact on yields (2023)<br>
@@ -613,18 +613,17 @@ _Total energy consumption per capita 2019_: 1.121 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 2,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.831 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 38 (2020 est.)<br>
+_total subscriptions_: 1.8 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 34 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: given the poor fixed-line infrastructure in most countries across Africa, voice and data services across the region are greatly dependent on mobile networks; in the majority of markets, including those with better developed fixed infrastructure such as South Africa, Nigeria, and Kenya, up to 98% of all voice and data connections are via mobile networks; during the last two to three years, national governments and telecom regulators have striven to improve fixed infrastructure with the wider aim of developing economic growth based on digital services and connectivity; this work is principally focused on delivering fiber-based connectivity; since the amount of copper infrastructure (DSL or HFC) used for broadband is so negligible, governments and private firms, including telcos are investing in fiber rather than in older technologies; while supporting broadband to premises, health centers, and government buildings, the new fiber infrastructure is mainly being deployed to provide mobile platforms and to support the rapid growth in data traffic (2022)<br>
-_domestic_: very limited telephone service with less than 1 fixed-line connection per 100 persons; with the presence of multiple providers mobile-cellular service has reached nearly 38 per 100 mobile-cellular subscribers; cellular usage is increasing from a low base; most fixed-line and mobile-cellular telephone services are concentrated in Bangui (2020)<br>
+_domestic_: very limited telephone service with less than 1 fixed-line connection per 100 persons; 34 per 100 mobile-cellular subscribers (2020)<br>
 _international_: country code - 236; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 government-owned network, Radiodiffusion Television Centrafricaine, provides limited domestic TV broadcasting; state-owned radio network is supplemented by a small number of privately owned broadcast stations as well as a few community radio stations; transmissions of at least 2 international broadcasters are available (2017)<br>
@@ -652,7 +651,7 @@ _annual freight traffic on registered air carriers_: 0 (2015) mt-km<br>
 TL<br>
 
 **Airports**<br>
-_total_: 39 (2021)<br>
+39 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
@@ -701,7 +700,7 @@ the FACA is lightly armed; most of the military's heavy weapons and equipment we
 18 years of age for military service; no conscription (2021)<br>
 
 **Military - note**<br>
-the 2013 coup resulted in the institutional collapse of the FACA; its forces were overwhelmed and forced to flee to neighboring countries; it has been estimated that only 10% of the FACA returned after the coup, and it has struggled to rebuild in the years of instability since, despite considerable foreign assistance; significant portions of the country remain outside state control and are ungoverned, with the presence of multiple armed actors creating insecurity in much of the country <br><br>in 2018, the UN Security Council approved Russian security assistance for the CAR to help train and advise FACA personnel, as well as transport them to operational areas, provide logistical support, and assist with medical evacuation; in addition to teams of military trainers, Russia sent private military contractors, and as of 2022, as many as 2,000 were providing assistance to the FACA, as well as performing other security roles such as guarding mines and government officials; some Russian contractors and the CAR forces they supported have been accused of carrying out indiscriminate killings, using excessive force against civilians, and looting<br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; as of 2022, MINUSCA had approximately 15,000 military and police personnel<br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016, providing advice, training, and educational programs to the country's security forces; since 2016, the EU mission has trained 5 territorial infantry battalions and 1 amphibious infantry battalion; the mission suspended operational training in 2021; France also provided assistance to the FACA before suspending its support, also in 2021 (2022)<br>
+the 2013 coup resulted in the institutional collapse of the FACA; its forces were overwhelmed and forced to flee to neighboring countries; it has been estimated that only 10% of the FACA returned after the coup, and it has struggled to rebuild in the years of instability since, despite considerable foreign assistance; significant portions of the country remain outside state control and are ungoverned, with the presence of multiple armed actors creating insecurity in much of the country <br><br>in late 2020 and early 2021, the Coalition des Patriotes pour le Change (CPC), a loose coalition of armed groups comprised largely of former Seleka and anti-Balaka fighters, attacked the capital Bangui; CAR Government forces, along with Russian private military contractors and Rwandan troops, repelled the attack but have not been able to stabilize the country; the CPC has retreated to its rear bases and into neighboring countries and continued conducting attacks; other armed groups are also active; forces on both sides have been accused of abuses and atrocities in the fighting <br><br>in 2018, the UN Security Council approved Russian security assistance for the CAR to help train and advise FACA personnel, as well as transport them to operational areas, provide logistical support, and assist with medical evacuation; in addition to teams of military trainers, Russia sent private military contractors, and as of 2022, as many as 2,000 were providing assistance to the FACA, as well as performing other security roles such as guarding mines and government officials; some Russian contractors and the CAR forces they supported have been accused of carrying out indiscriminate killings, using excessive force against civilians, and looting<br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; as of 2022, MINUSCA had approximately 15,000 military and police personnel<br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016, providing advice, training, and educational programs to the country's security forces; since 2016, the EU mission has trained 5 territorial infantry battalions and 1 amphibious infantry battalion; the mission suspended operational training in 2021; France also provided assistance to the FACA before suspending its support, also in 2021 (2022)<br>
 
 ## Transnational Issues
 
@@ -709,6 +708,6 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,619 (Democratic Republic of Congo) (2022)<br>
-_IDPs_: 518,116 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2022)<br>
+_refugees (country of origin)_: 6,630 (Democratic Republic of Congo) (2023)<br>
+_IDPs_: 482,816 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2022)<br>
 

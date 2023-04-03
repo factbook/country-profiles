@@ -416,18 +416,17 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 48,310 (2019 est.)<br>
-_subscriptions per 100 inhabitants_: 44 (2019 est.)<br>
+_total subscriptions_: 48,122 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 47 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 83,900 (2009 est.)<br>
-_subscriptions per 100 inhabitants_: 95 (2009 est.)<br>
+_total subscriptions_: 124,083 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 120 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecommunication services comprise of Internet, telephone, broadcasting and postal services, which allow islanders to contact people and receive information; Internet connectivity to the rest of the world is provided by undersea cables linked to Guernsey, the UK and France; (2021)<br>
 _domestic_: fixed-line 47 per 100 and mobile-cellular 120 per 100 subscriptions (2021)<br>
 _international_: country code - 44; landing points for the INGRID, UK-Channel Islands-8, and Guernsey-Jersey-4, submarine cable connectivity to Guernsey, the UK, and France (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey; satellite packages available; BBC Radio Jersey and 1 other radio station operating<br>
@@ -450,7 +449,7 @@ _number of registered air carriers_: 1 (2020) (registered in UK)<br>
 _inventory of registered aircraft operated by air carriers_: 4 (registered in UK)<br>
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

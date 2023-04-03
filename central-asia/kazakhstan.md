@@ -94,7 +94,7 @@ Kazakh (Qazaq) 68%, Russian 19.3%, Uzbek 3.2%, Ukrainian 1.5%, Uighur 1.5%, Tata
 
 **Languages**<br>
 Kazakh (official, Qazaq) 83.1% (understand spoken language) and trilingual (Kazakh, Russian, English) 22.3% (2017 est.); Russian (official, used in everyday business, designated the "language of interethnic communication") 94.4% (understand spoken language) (2009 est.)<br>
-_major-language sample(s)_: <br>Әлемдік деректер кітабы, негізгі ақпараттың таптырмайтын көзі. (Kazakh)<br><br>Книга фактов о мире – незаменимый источник  базовой информации. (Russian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Әлемдік деректер кітабы, негізгі ақпараттың таптырмайтын көзі. (Kazakh)<br><br>Книга фактов о мире – незаменимый источник базовой информации. (Russian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 70.2%, Christian 26.2% (mainly Russian Orthodox), other 0.2%, atheist 2.8%, unspecified 0.5% (2009 est.)<br>
@@ -151,7 +151,7 @@ _total population_: 0.9 male(s)/female (2023 est.)<br>
 28.9 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
-10 deaths/100,000 live births (2017 est.)<br>
+13 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 18.77 deaths/1,000 live births<br>
@@ -486,9 +486,18 @@ _female_: 4.3% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 27.8 (2018 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 44.9% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 1.7% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.2%<br>
 _highest 10%_: 23.3% (2016)<br>
+
+**Remittances**<br>
+0.16% of GDP (2021 est.)<br>
+0.22% of GDP (2020 est.)<br>
+0.28% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $35.48 billion (2017 est.)<br>
@@ -627,7 +636,6 @@ _subscriptions per 100 inhabitants_: 129 (2020 est.)<br>
 _general assessment_: Kazakhstan has one of the most developed telecommunications sectors in the Central Asian region; this is especially true of the mobile segment, where widespread network coverage has enabled very high penetration rates reaching 180% as far back as 2012; the mobile and fixed-line segments have both pared back their subscriber numbers to more modest levels; the telcos have still been successful in terms of improving their margins and revenues by growing value-added services along with exploiting the capabilities of their higher speed networks (4G LTE as well as fiber) to drive significant increases in data usage; Kazakhstan has enjoyed a&nbsp; high fixed-line teledensity thanks to concerted efforts to invest in the fixed-line infrastructure as well as next-generation networks; demand for traditional voice services is on the wane as customers take a preference for the flexibility and ubiquity of the mobile platform for voice as well as data services; mobile clearly dominates the telecom sector in Kazakhstan, yet 2020 saw a sharp drop in subscriber numbers for both mobile voice and mobile broadband services as the Covid-19 crisis took hold; with the exception of fixed-line voice services, Kazakhstan&rsquo;s telecom market is expected to return to moderate growth from 2022 onward; the extensive deployment of LTE networks across the country (along with the prospect of 5G services being added to the mix in 2023) points towards an even greater uptake of lucrative mobile broadband services, in particular (2021)<br>
 _domestic_: intercity by landline and microwave radio relay; number of fixed-line connections is approximately 16 per 100 persons; mobile-cellular subscriber base 129 per 100 persons (2020)<br>
 _international_: country code - 7; international traffic with other former Soviet republics and China carried by landline and microwave radio relay and with other countries by satellite and by the TAE fiber-optic cable; satellite earth stations - 2 Intelsat<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the state owns nearly all radio and TV transmission facilities and operates national TV and radio networks; there are 96 TV channels, many of which are owned by the government, and 4 state-run radio stations; some former state-owned media outlets have been privatized; households with satellite dishes have access to foreign media; a small number of commercial radio stations operate along with state-run radio stations; recent legislation requires all media outlets to register with the government and all TV providers to broadcast in digital format by 2018; broadcasts reach some 99% of the population as well as neighboring countries (2018)<br>
@@ -655,7 +663,7 @@ _annual freight traffic on registered air carriers_: 50.22 million (2018) mt-km<
 UP<br>
 
 **Airports**<br>
-_total_: 96 (2021)<br>
+96 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 63<br>
@@ -719,7 +727,7 @@ information varies; approximately 40,000 active duty personnel (25,000 Land Forc
 the Kazakh military's inventory is comprised of mostly older Russian and Soviet-era equipment; Russia continues to be the leading supplier of arms (2022)<br>
 
 **Military service age and obligation**<br>
-all men 18-27 are required to serve in the military for 12-24 months (2022)<br>
+all men 18-27 are required to serve in the military for 12-24 months (2023)<br>
 
 **Military - note**<br>
 Kazakhstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; it also has a relationship with NATO focused on democratic, institutional, and defense reforms; relations with NATO started in 1992, and Kazakhstan joined NATO's Partnership for Peace program in 1995 (2023)<br>

@@ -144,7 +144,7 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 25.2 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
-19 deaths/100,000 live births (2017 est.)<br>
+12 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 11.38 deaths/1,000 live births<br>
@@ -475,6 +475,11 @@ _female_: 14.7% (2021 est.)<br>
 _lowest 10%_: 4.2%<br>
 _highest 10%_: 22.1% (2014 est.)<br>
 
+**Remittances**<br>
+15.24% of GDP (2021 est.)<br>
+15.82% of GDP (2020 est.)<br>
+15.95% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.886 billion (2017 est.)<br>
 _expenditures_: $2.947 billion (2017 est.)<br>
@@ -613,7 +618,6 @@ _subscriptions per 100 inhabitants_: 85 (2020 est.)<br>
 _general assessment_: the telecom market has been affected by a combination of high unemployment and economic difficulties which have led to constraints on consumer spending; this has resulted in telecom revenue having fallen steadily in recent years; this decline continued into 2020, with a 6.3% in revenue from the important mobile sector alone, year-on-year; Moldova&rsquo;s aspirations to join the EU have encouraged the government and regulator to adopt a range of measures to bring the country&rsquo;s telecoms sector into line with EU principles and standards; in July 2017 the Electronic Communications Act was amended to accommodate the 2009 European regulatory framework, while further amendments were adopted in December 2017 and additional changes were proposed in 2019; Moldova is also part of the Eastern Partnership group of countries, and as such has set in train a glide path to reducing roaming charges, effective between 2022 and 2026; the country&rsquo;s broadband strategy through to 2025 has been supported by the ITU and industry counterparts from South Korea; the internet market is developing rapidly; the market is highly competitive, with 101 active ISPs as of early 2021; the number of cable broadband subscribers is increasing steadily, though fiber is now by far the strongest sector; by the end of 2020 fiber accounted for about 72.3% of all fixed broadband connections; the mobile market has also grown rapidly; the near comprehensive geographical reach of their mobile networks, market brand recognition and existing customer relationships will make for steady subscriber growth in coming years (2022)<br>
 _domestic_: competition among mobile telephone providers has spurred subscriptions; little interest in expanding fixed-line service which is roughly 25 per 100; mobile-cellular teledensity nearly 85 per 100 persons (2020)<br>
 _international_: country code - 373; service through Romania and Russia via landline; satellite earth stations - at least 3 - Intelsat, Eutelsat, and Intersputnik<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned national radio-TV broadcaster operates 1 TV and 1 radio station; a total of nearly 70 terrestrial TV channels and some 50 radio stations are in operation; Russian and Romanian channels also are available (2019)<br>
@@ -641,7 +645,7 @@ _annual freight traffic on registered air carriers_: 640,000 (2018) mt-km<br>
 ER<br>
 
 **Airports**<br>
-_total_: 7 (2021)<br>
+7 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 5<br>
@@ -694,7 +698,7 @@ approximately 6,500 active troops (2022)<br>
 the military's inventory is limited and almost entirely comprised of older Russian and Soviet-era equipment; in recent years, it has received small amounts of donated material from other nations, including the US (2023)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 12-month service obligation (2022)<br>
+18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 12-month service obligation (2023)<br>
 <strong>note:</strong> as of 2019, women made up about 20% of the military's full-time personnel<br>
 
 **Military - note**<br>
@@ -706,7 +710,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 107,728 (Ukraine) (as of 5 March 2023)<br>
+_refugees (country of origin)_: 107,277 (Ukraine) (as of 19 March 2023)<br>
 _stateless persons_: 1,701 (2022)<br>
 
 **Illicit drugs**<br>

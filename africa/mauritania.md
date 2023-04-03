@@ -154,7 +154,7 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-766 deaths/100,000 live births (2017 est.)<br>
+465 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 49.95 deaths/1,000 live births<br>
@@ -292,7 +292,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mauritania is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em><em>due to </em></em><em>shortfall in agricultural production and economic downturn </em><em>-</em> according to the latest analysis, about 878,000 people are assessed to be in need of humanitarian assistance between June and August 2022 as a result of shortfalls in cereal and livestock production in 2021 and reduced incomes owing to the negative effects of the COVID-19 pandemic on the economy (2022)<br>
+_widespread lack of access_: <em>due to high food prices - </em>according to the latest analysis, nearly 695,000 people are projected to be in need of humanitarian assistance during the June to August 2023 lean season; this would be an improvement compared to the previous year, mostly due to the substantial cereal production increase in 2022; high food prices continue to worsen food security, while flooding in 2022, which affected about 54,000 people, has further aggravated the conditions of vulnerable households (2023)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 454,000 tons (2009 est.)<br>
@@ -497,6 +497,11 @@ _female_: 27.9% (2021 est.)<br>
 _lowest 10%_: 2.5%<br>
 _highest 10%_: 29.5% (2000)<br>
 
+**Remittances**<br>
+2.01% of GDP (2020 est.)<br>
+0.8% of GDP (2019 est.)<br>
+0.81% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.354 billion (2017 est.)<br>
 _expenditures_: $1.396 billion (2017 est.)<br>
@@ -635,7 +640,6 @@ _subscriptions per 100 inhabitants_: 106 (2020 est.)<br>
 _general assessment_: Mauritania&rsquo;s small population and low economic output has limited the country&rsquo;s ability to develop sustained growth in the telecom sector; low disposable income has restricted growth in the use of services, and thus of revenue which telcos can hope to gain from subscribers; this has impacted on their ability to invest in network upgrades and improvements to service offerings; this has been reflected in the repeated fines imposed against them by the regulator for failing to ensure a good quality of service; there are also practical challenges relating to transparency and tax burdens which have hindered foreign investment; financial support has been forthcoming from the government as well as the World Bank and European Investment Bank; their efforts have focused on implementing appropriate regulatory measures and promoting the further penetration of fixed-line broadband services by improving the national backbone network, ensuring connectivity to international telecom cables, and facilitating operator access to infrastructure; progress has been made to improve internet bandwidth capacity, including the completion of a cable link at the border with Algeria, and the connection to the EllaLink submarine cable; the final stage of the national backbone network was completed in December 2021, which now runs to some 4,000km; penetration of fixed telephony and broadband service is very low and is expected to remain so in coming years, though growth is anticipated following improvements to backbone infrastructure and the reduction in access pricing; most voice and data services are carried over the mobile networks (2022)<br>
 _domestic_: fixed-line teledensity roughly 1 per 100 persons; mobile-cellular network coverage extends mainly to urban areas with a teledensity of roughly 106 per 100 persons; mostly cable and open-wire lines; a domestic satellite telecommunications system links Nouakchott with regional capitals (2020)<br>
 _international_: country code - 222; landing point for the ACE submarine cable for connectivity&nbsp;to 19 West African countries and 2 European countries; satellite earth stations - 3 (1 Intelsat - Atlantic Ocean, 2 Arabsat) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 12 TV stations: 6 government-owned and 6 private (the 6th was started in early 2022, owed by the President of Mauritanian Businessmen); in October 2017, the government suspended most private TV stations due to non-payment of broadcasting fees, but they later negotiated payment options with the government and are back since 2019. There are 19 radio broadcasters: 15 government-owned, 4 (Radio Nouakchott Libre, Radio Tenwir, Radio Kobeni and Mauritanid) private; all 4 private radio stations broadcast from Nouakchott; of the 15 government stations, 4 broadcast from Nouakchott (Radio Mauritanie, Radio Jeunesse, Radio Koran and Mauritanid) and the other 12 broadcast from each of the 12 regions outside Nouakchott; Radio Jeunesse and Radio Koran are now also being re-broadcast in all the regions. (2022)<br>
@@ -662,7 +666,7 @@ _annual passenger traffic on registered air carriers_: 454,435 (2018)<br>
 5T<br>
 
 **Airports**<br>
-_total_: 30 (2021)<br>
+30 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 9<br>
@@ -698,8 +702,8 @@ _major seaport(s)_: Nouadhibou, Nouakchott<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Mauritanian Armed Forces: National Army, Mauritanian Navy (Marine Mauritanienne), Islamic Republic of Mauritania Air Group (Groupement Aerienne Islamique de Mauritanie, GAIM); Gendarmerie (Ministry of Defense); Ministry of Interior and Decentralization: National Police, National Guard, General Group for Road Safety (2022)<br>
-<strong>note 1:</strong> the National Police is responsible for enforcing the law and maintaining order in urban areas, while the Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas<br><br><strong>note 2:</strong> the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; regional authorities may call upon the National Guard to restore civil order during riots and other large-scale disturbances <br><br><strong>note 3:</strong> the General Group for Road Safety maintains security on roads and operates checkpoints throughout the country<br>
+Mauritanian Armed Forces (aka Armée Nationale Mauritanienne): National Army, National Navy (Marine Nationale), Mauritania Islamic Air Force; Gendarmerie (Ministry of Defense); Ministry of Interior and Decentralization: National Police, National Guard, General Group for Road Safety (2023)<br>
+<strong>note 1:</strong> the National Police is responsible for enforcing the law and maintaining order in urban areas, while the Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas; the Gendarmerie is under the Ministry of Defense, but also supports the ministries of Interior and Justice<br><br><strong>note 2:</strong> the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; regional authorities may call upon the National Guard to restore civil order during riots and other large-scale disturbances <br><br><strong>note 3:</strong> the General Group for Road Safety maintains security on roads and operates checkpoints throughout the country<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2022 est.)<br>

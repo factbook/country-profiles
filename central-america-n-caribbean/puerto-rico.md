@@ -136,7 +136,7 @@ _65 years and over_: 0.75 male(s)/female<br>
 _total population_: 0.89 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-21 deaths/100,000 live births (2017 est.)<br>
+34 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 5.92 deaths/1,000 live births<br>
@@ -536,7 +536,6 @@ _subscriptions per 100 inhabitants_: 122 (2020 est.)<br>
 _general assessment_: Puerto Rico has a small telecom market which in recent years has been deeply affected by a combination of economic mismanagement and natural disasters, including two hurricanes which landed in late 2017 and an earthquake which struck in January 2020; these disasters caused considerable destruction of telecom infrastructure, which in turn led to a marked decline in the number of subscribers for all services; compounding these difficulties have been a long-term economic downturn which encouraged many people not to resume telecom services after these were restored; after some delay, the FCC in late 2019 issued an order relating to the release of funds to help rebuild telecom infrastructure; although Puerto Rico is a US territory it lags well behind the mainland US states in terms of fixed-line and broadband services; this is partly due to high unemployment rates (and consequently low disposable income) and poor telecoms investment in a market; the mobile market has been impacted by several mergers and acquisitions over the last few years; the activities of large multinational telcos continue to impact the Puerto Rican market; operators have secured spectrum in the 600MHz and 3.5GHz bands, thus enabling them to expand the reach of LTE services and launch services based on 5G;&nbsp; the growing number of submarine cables landing in Puerto Rico is helping to drive down the cost of telecom services, creating a demand for streaming content from abroad; the uptake of cloud-based applications for both business and individuals is also creating a heightened demand for affordable services (2021)<br>
 _domestic_: digital telephone system; mobile-cellular services; fixed-line nearly 25 per 100 and mobile-cellular nearly 122 per 100 persons (2020)<br>
 _international_: country code - 1-787, 939; landing points for the GTMO-PR, AMX-1, BRUSA, GCN, PCCS, SAm-1, Southern Caribbean Fiber, Americas-II, Antillas, ARCOS, SMPR-1, and Taino-Carib submarine cables providing connectivity to the mainland US, Caribbean, Central and South America; satellite earth station - 1 Intelsat (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 more than 30 TV stations operating; cable TV subscription services are available; roughly 125 radio stations<br>
@@ -555,7 +554,7 @@ _subscriptions per 100 inhabitants_: 24 (2020 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 29 (2021)<br>
+29 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 17<br>

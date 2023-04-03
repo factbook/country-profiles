@@ -488,7 +488,6 @@ _subscriptions per 100 inhabitants_: 115 (2020 est.)<br>
 _general assessment_: automatic telephone system completely integrated into Italian system (2018)<br>
 _domestic_: fixed-line a little over 47 per 100 and mobile-cellular teledensity roughly 115 telephones per 100 persons (2020)<br>
 _international_: country code - 378; connected to Italian international network<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned public broadcaster operates 1 TV station and 3 radio stations; receives radio and TV broadcasts from Italy (2019)<br>
@@ -520,7 +519,7 @@ Military Corps (National Guard): Guard of the Rock (or Fortress Guard), Uniforme
 <strong>note:</strong> the captains regent oversee the Gendarmerie and National Guard when they are performing duties related to public order and security; the Ministry of Foreign Affairs exercises control over such administrative functions as personnel and equipment, and the courts exercise control over the Gendarmerie when it acts as judicial police<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; no conscription; government has the authority to call up all San Marino citizens from 16-60 years of age to serve in the military (2022)<br>
+18 is the legal minimum age for voluntary military service; no conscription; government has the authority to call up all San Marino citizens from 16-60 years of age to serve in the military (2023)<br>
 
 **Military - note**<br>
 defense is the responsibility of Italy<br>

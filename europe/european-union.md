@@ -346,6 +346,11 @@ _female_: 20.4% (2021 est.)<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 23.8% (2016 est.)<br>
 
+**Remittances**<br>
+0.78% of GDP (2021 est.)<br>
+0.79% of GDP (2020 est.)<br>
+0.81% of GDP (2019 est.)<br>
+
 **Budget surplus (+) or deficit (-)**<br>
 -3% (of GDP) (2014)<br>
 

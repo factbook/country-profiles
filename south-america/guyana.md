@@ -146,7 +146,7 @@ _total population_: 1.04 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-667 deaths/100,000 live births (2017 est.)<br>
+112 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 21.63 deaths/1,000 live births<br>
@@ -471,6 +471,11 @@ _female_: 39.6% (2021 est.)<br>
 _lowest 10%_: 1.3%<br>
 _highest 10%_: 33.8% (1999)<br>
 
+**Remittances**<br>
+8.01% of GDP (2020 est.)<br>
+7.35% of GDP (2019 est.)<br>
+6.97% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.002 billion (2017 est.)<br>
 _expenditures_: $1.164 billion (2017 est.)<br>
@@ -598,18 +603,17 @@ _Total energy consumption per capita 2019_: 48.608 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 125,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
+_total subscriptions_: 130,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 856,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 109 (2020 est.)<br>
+_total subscriptions_: 860,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: after many years of delays and legal challenges, the 2016 Telecommunications Act was brought into force in October 2020 by the newly elected government of the People&rsquo;s Party Progressive (PPP); the Telecommunications Act sets out a framework for enabling competition across all segments of the telecommunications sector in Guyana; the mobile market has been open to competition since 2001; the Telecommunications Act presents the country with the potential to benefit from a more level playing field that may attract new players, but nevertheless Guyana&rsquo;s relatively small size and low GDP may restrict it from reaching its full potential for some more years to come (2021)<br>
-_domestic_: fixed-line teledensity is about 16 per 100 persons; mobile-cellular teledensity about 83 per 109 persons (2020)<br>
+_domestic_: fixed-line teledensity is about 16 per 100 persons; mobile-cellular teledensity about 110 per 100 persons (2021)<br>
 _international_: country code - 592; landing point for the SG-SCS submarine cable to Suriname,&nbsp;and the Caribbean;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 government-dominated broadcast media; the National Communications Network (NCN) TV is state-owned; a few private TV stations relay satellite services; the state owns and operates 2 radio stations broadcasting on multiple frequencies capable of reaching the entire country; government limits on licensing of new private radio stations has constrained competition in broadcast media<br>
@@ -631,7 +635,7 @@ _subscriptions per 100 inhabitants_: 12 (2020 est.)<br>
 8R<br>
 
 **Airports**<br>
-_total_: 117 (2021)<br>
+117 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 11<br>
@@ -668,9 +672,9 @@ the Guyana Defense Force is a unified force with ground, air, and coast guard co
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
-1.3% of GDP (2019 est.) (approximately $95 million)<br>
-1.3% of GDP (2018 est.) (approximately $85 million)<br>
-1.2% of GDP (2017 est.) (approximately $80 million)<br>
+1.3% of GDP (2019 est.)<br>
+1.3% of GDP (2018 est.)<br>
+1.2% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,000 active duty military personnel (2022)<br>

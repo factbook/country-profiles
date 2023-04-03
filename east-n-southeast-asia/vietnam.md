@@ -149,7 +149,7 @@ _65 years and over_: 0.68 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-43 deaths/100,000 live births (2017 est.)<br>
+124 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 14.42 deaths/1,000 live births<br>
@@ -485,9 +485,18 @@ _female_: 7.5% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 35.7 (2018 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 38.8% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
 _highest 10%_: 26.8% (2014)<br>
+
+**Remittances**<br>
+4.96% of GDP (2020 est.)<br>
+5.08% of GDP (2019 est.)<br>
+5.16% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $54.59 billion (2017 est.)<br>
@@ -626,7 +635,6 @@ _subscriptions per 100 inhabitants_: 141.23 (2019)<br>
 _general assessment_: even with Covid-19 pandemic-related mobility restrictions in place, Vietnam&rsquo;s economy has continued to outperform the rest of the region in 2020 and 2021; the telecom sector essentially spent most of this period in a holding pattern, focusing on maintaining service throughout the crisis while preparing for some major changes to come in the mobile market in 2022; both fixed-line telephony and mobile have experienced small drops in subscriber numbers since the start of the pandemic, but the similarities between the two markets end there; fixed-line teledensity continued its downwards trajectory towards virtual oblivion, with just 3% penetration (around 3 million subscribers) at the start of 2021; the mobile market has lost about the same number of subscribers since the end of 2019, but has been sitting on much higher penetration levels around 130% for many years; growth is expected to kick in again in 2022 following the anticipated launch of commercial 5G mobile services along with a range of government-led schemes to move consumers completely off 2G and 3G; one example is the planned redistribution of GSM/3G bandwidth to LTE; in addition to propelling Vietnam into having one of the most advanced mobile markets in the world, this should also spur on the mobile broadband segment; with a penetration level of just over 70%, mobile broadband has considerable room to grow; increasing economic prosperity coupled with the latest smartphone technology and networks should see mobile broadband underwriting the country&rsquo;s telecommunications sector for at least the next few years; this report includes the regulator's market data to July 2021, telcos' financial and operating data updates to June 2021, Telecom Maturity Index charts and analyses, assessment of the global impact of Covid-19 on the telecoms sector, and other recent market developments (2021)<br>
 _domestic_: all provincial exchanges are digitalized and connected to Hanoi, Da Nang, and Ho Chi Minh City by fiber-optic cable or microwave radio relay networks; main lines have been increased, and the use of mobile telephones is growing rapidly; fixed-line under 4 per 100 and mobile-cellular nearly 143 per 100 (2020)<br>
 _international_: country code - 84; landing points for the SeaMeWe-3,&nbsp;APG, SJC2, AAE-1, AAG and the TGN-IA submarine cable system providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, and the US; satellite earth stations - 2 Intersputnik (Indian Ocean region) (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 government controls all broadcast media exercising oversight through the Ministry of Information and Communication (MIC); government-controlled national TV provider, Vietnam Television (VTV), operates a network of several channels with regional broadcasting centers; programming is relayed nationwide via a network of provincial and municipal TV stations; law limits access to satellite TV but many households are able to access foreign programming via home satellite equipment; government-controlled Voice of Vietnam, the national radio broadcaster, broadcasts on several channels and is repeated on AM, FM, and shortwave stations throughout Vietnam (2018)<br>
@@ -654,7 +662,7 @@ _annual freight traffic on registered air carriers_: 481.37 million (2018) mt-km
 VN<br>
 
 **Airports**<br>
-_total_: 45 (2021)<br>
+45 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 38<br>
@@ -717,7 +725,7 @@ information is limited and varied; estimated 450,000 active-duty troops (390,000
 the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; in recent years, Russia has remained the most important supplier of newer PAVN military equipment, but Vietnam has diversified arms purchases to include more than a dozen other countries including Israel, South Korea, Ukraine, and the US; Vietnam has a limited domestic defense industry (2022)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory and voluntary military service for men and women (in practice only men are drafted); service obligation is between 24 (Army, Air Defense) and 36 (Navy and Air Force) months (2022)<br>
+18-27 years of age for compulsory and voluntary military service for men and women (in practice only men are drafted); service obligation is between 24 (Army, Air Defense) and 36 (Navy and Air Force) months (2023)<br>
 
 **Military - note**<br>
 the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary (2023)<br>
@@ -734,8 +742,8 @@ the International Maritime Bureau reports the territorial and offshore waters in
 _stateless persons_: 35,475 (2022); note - Vietnam's stateless ethnic Chinese Cambodian population dates to the 1970s when thousands of Cambodians fled to Vietnam to escape the Khmer Rouge and were no longer recognized as Cambodian citizens; Vietnamese women who gave up their citizenship to marry foreign men have found themselves stateless after divorcing and returning home to Vietnam; the government addressed this problem in 2009, and Vietnamese women are beginning to reclaim their citizenship<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List —<strong> </strong>Vietnam does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts include providing trafficking victims the right to legal representation in judicial proceedings, increasing the amount of shelter time for victims by one month, providing financial support, continuing large-scale awareness campaigns in vulnerable communities and to workers going overseas, and training law enforcement; however, fewer victims were identified or assisted and procedures remained slow and ineffective; provincial officials unfamiliar with anti-trafficking law impede anti-trafficking efforts; labor recruitment firms extorted illegal high fees from workers looking for overseas employment putting them at risk for forced labor; no investigations, prosecutions, or convictions of officials complicit in trafficking offenses were made (2020)<br>
-_trafficking profile_: human traffickers exploit domestic and foreign victims in Vietnam, and traffickers exploit Vietnamese abroad; Vietnamese men and women who migrate abroad for work may be subject to exploitation and illegally high fees from recruiters trapping them in debt bondage; traffickers subject victims to forced labor in construction, fishing, agriculture, mining, maritime industries, logging, and manufacturing, primarily in Taiwan, Malaysia, Republic of Korea, Laos, Japan, and to a lesser extent, some parts of Europe and the UK; traffickers mislead Vietnamese women and children with fraudulent employment opportunities and sex traffick them to brothels on the borders of China, Cambodia, Laos, and elsewhere in Asia; traffickers use the Internet, gaming sites, and particularly social media to lure victims; domestic traffickers are sometimes&nbsp; family members or small-scale networks exploiting Vietnamese men, women, and children - including street children and children with disabilities - in forced labor as street beggars or in brick kilns and mines; child sex tourists from elsewhere in Asia and other countries exploit children; prisoners reportedly are forced to work in agriculture, manufacturing, and hazardous industries, such as cashew processing<br>
+_tier rating_: Tier 3 —<strong> </strong>Vietnam does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore Vietnam was downgraded to Tier 3; the government took some steps to address trafficking, addressing inconsistencies in preexisting laws, increasing international cooperation, achieving the first modest increase in identifying victims in five years, and assisting more victims; however, fewer traffickers were convicted or prosecuted; officials did not hold accountable two Vietnamese diplomats who were allegedly complicit in trafficking abroad nor make sufficient effort to protect the victims; authorities reportedly harassed and pressured survivors and their families to silence allegations of official complicity (2022)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Vietnam, as well as Vietnamese abroad; Vietnamese men and women migrate abroad, using illicit brokerage networks operated by Vietnamese nationals based abroad or state-owned or state-regulated recruitment enterprises, are vulnerable to debt bondage or other forms of exploitation; victims are subjected to forced labor in construction, agriculture, mining, maritime industries, logging, and manufacturing primarily in Malaysia, South Korea, Laos, Japan, and&mdash;to a lesser extent&mdash;in parts of the Middle East, &nbsp;the United Kingdom and other countries in Europe; Vietnamese labor trafficking victims are reportedly in Taiwan, continental Europe, the Middle East, and in Pacific maritime industries; many Vietnamese are subjected to forced labor under the auspices of Japan&rsquo;s Technical Intern Training Program and within agricultural education programs in Israel; other Vietnamese are exploited at Chinese-owned factories in the Balkan region; traffickers lure Vietnamese women and children with fraudulent job opportunities and send them to brothels on the borders of China, Cambodia, and Laos or elsewhere in Asia, West Africa, and Europe; sometimes family members or small-scale networks exploit Vietnamese men, women, and children&mdash;Including street children and children with disabilities&mdash;in forced labor; child sex tourists from Asia, the United Kingdom, other countries in Europe, Australia, Canada, and the United States exploit children in Vietnam (2022)<br>
 
 **Illicit drugs**<br>
 transshipment point for transnational criminal organizations (TCOs) trafficking heroin, crystal methamphetamine, and ketamine throughout East Asia and the Pacific; approximately 90% of the illicit drugs in the country originate in Laos, Burma, and Thailand<br>

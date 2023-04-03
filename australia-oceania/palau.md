@@ -437,6 +437,11 @@ _female_: (2014) NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+0.86% of GDP (2020 est.)<br>
+0.78% of GDP (2019 est.)<br>
+0.76% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $193 million (2012 est.)<br>
 _expenditures_: $167.3 million (2012 est.)<br>
@@ -517,7 +522,6 @@ _subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 _general assessment_: well-developed mobile sector, recently boosted by satellite network capacity upgrades; 3G services available with satellite; lack of telecom regulations; newest and most powerful commercial satellite, Kacific-1 satellite, launched in 2019 to improve telecommunications in the Asia Pacific region (2020)<br>
 _domestic_: fixed-line nearly 44 per 100 and mobile-cellular services roughly 133 per 100 persons (2020)<br>
 _international_: country code - 680; landing point for the SEA-US submarine cable linking Palau, Philippines, Micronesia, Indonesia, Hawaii (US), Guam (US) and&nbsp;California (US); satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 no broadcast TV stations; a cable TV network covers the major islands and provides access to 4 local cable stations, rebroadcasts (on a delayed basis) of a number of US stations, as well as access to a number of real-time satellite TV channels; about a half dozen radio stations (1 government-owned) (2019)<br>
@@ -543,7 +547,7 @@ _inventory of registered aircraft operated by air carriers_: 1<br>
 T8<br>
 
 **Airports**<br>
-_total_: 3 (2021)<br>
+3 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

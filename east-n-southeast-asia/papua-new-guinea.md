@@ -146,7 +146,7 @@ _total population_: 1.03 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age a first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-145 deaths/100,000 live births (2017 est.)<br>
+192 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 32.81 deaths/1,000 live births<br>
@@ -481,6 +481,11 @@ _female_: 4.2% (2021 est.)<br>
 _lowest 10%_: 1.7%<br>
 _highest 10%_: 40.5% (1996)<br>
 
+**Remittances**<br>
+0.01% of GDP (2020 est.)<br>
+0.01% of GDP (2019 est.)<br>
+0.02% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $3.638 billion (2017 est.)<br>
 _expenditures_: $4.591 billion (2017 est.)<br>
@@ -618,7 +623,6 @@ _subscriptions per 100 inhabitants_: 54 (2020 est.)<br>
 _general assessment_: fixed-line teledensity in Papua New Guinea has seen little change over the past two decades; progress in the country&rsquo;s telecom sector has come primarily from mobile networks, where accessibility has expanded considerably in recent years, with population coverage increasing from less than 3% in 2006 to more than 90% by early 2021; the MNOs operate networks offering services based on GSM, 3G, and LTE, depending on location; GSM is prevalent in many rural and remote areas, while 3G and LTE are centered more on urban areas; MNOs&rsquo; investments in 4G are growing, though GSM still represents the bulk of all mobile connections owing to the low penetration of smartphones and the concentration of high-speed data networks predominantly in high value urban areas; a lack of sufficient competition and investment in the wire line segment has driven up prices and hampered network coverage and quality; infrastructure deployment costs are high, partly due to the relatively low subscriber base, the difficult terrain, and the high proportion of the population living in rural areas; fixed telecom infrastructure is almost non-existent outside urban centers, leaving most of the population under served; PNG is the Pacific region&rsquo;s largest poorly developed telecom market, with only around 22% of its people connected to the internet; this falls far behind the recommended targets set in the country&rsquo;s National Broadband Policy drafted in 2013, which aimed to provide broadband access to 90% of the total population by 2018; the existing submarine cable infrastructure is insufficient to serve the country&rsquo;s needs; low international capacity has meant that internet services are expensive and slow; the cable links PNG to the Solomon Islands and Australia (landing at Sydney); despite the improvement in recent years, the country is still impacted by a connectivity infrastructure deficit, making it reliant on more expensive alternatives such as satellites, also weighing on the affordability of services for end-users (2022)<br>
 _domestic_: access to telephone services is not widely available; fixed-line nearly 2 per 100 and mobile-cellular nearly 54 per 100 persons (2020)<br>
 _international_: country code - 675; landing points for the Kumul Domestic Submarine Cable System, PNG-LNG, APNG-2, CSCS and the PPC-1&nbsp;submarine cables to Australia, Guam, PNG and Solomon Islands; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 4 TV stations: 1 commercial station operating since 1987, 1 state-run station launched in 2008, 1 digital free-to-view network launched in 2014, and 1 satellite network Click TV (PNGTV) launched in 2015; the state-run National Broadcasting Corporation operates 3 radio networks with multiple repeaters and about 20 provincial stations; several commercial radio stations with multiple transmission points as well as several community stations; transmissions of several international broadcasters are accessible (2018)<br>
@@ -646,7 +650,7 @@ _annual freight traffic on registered air carriers_: 30.93 million (2018) mt-km<
 P2<br>
 
 **Airports**<br>
-_total_: 561 (2021)<br>
+561 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 21<br>

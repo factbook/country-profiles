@@ -142,7 +142,7 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 32.2 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
-11 deaths/100,000 live births (2017 est.)<br>
+8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 2.83 deaths/1,000 live births<br>
@@ -472,9 +472,18 @@ _female_: 6.9% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 31.4 (2016 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 13.8% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 2.7% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 6.8%<br>
 _highest 10%_: 48.5% (2015 est.)<br>
+
+**Remittances**<br>
+0.43% of GDP (2021 est.)<br>
+0.45% of GDP (2020 est.)<br>
+0.43% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $357.1 billion (2017 est.)<br>
@@ -612,7 +621,6 @@ _subscriptions per 100 inhabitants_: 138 (2020 est.)<br>
 _general assessment_: South Korea is second only to Hong Kong in the world rankings of telecom market maturity; it is also on the leading edge of the latest telecom technology developments, including around 6G; with its highly urbanized, tech-savvy population, South Korea also enjoys very high communication levels across all segments &ndash; fixed-line telephony (44% at the start of 2022), fixed broadband (46%), mobile voice and data (144%), and mobile broadband (120%); the performance of the mobile sector is on a par with other developed markets around the region, but it&rsquo;s the wire line segment that allows South Korea to stand out from the crowd; this is partly a reflection of the large proportion of its population who live in apartment buildings (around 60%), making fiber and apartment LAN connections relatively easy and cost-effective to deploy; the government&rsquo;s Ultra Broadband convergence Network (UBcN) had aimed to reach 50% adoption by the end of 2022, but that target may be a few more years away; fixed-line teledensity is also at a very high level compared to most of the rest of the world, but it has been on a sharp decline from a rate of 60% ten years ago; on the mobile front, users have enthusiastically migrated from one generation of mobile platform to the next as each iteration becomes available; there also doesn&rsquo;t appear to be any great concern about there being a lack of demand for 5G in South Korea (when the country is already well supported by 4G networks), with 30% of all subscribers having already made the switch; part of the reason behind the rapid transition may be the subsidized handsets on offer from each of the MNOs and the MVNOs (2022)<br>
 _domestic_: fixed-line approximately 47 per 100 and mobile-cellular services 134 per 100 persons; rapid assimilation of a full range of telecommunications technologies leading to a boom in e-commerce (2020)<br>
 _international_: country code - 82;&nbsp;landing points for EAC-C2C, FEA, SeaMeWe-3, TPE, APCN-2, APG, FLAG North Asia Loop/REACH North Asia Loop, KJCN, NCP, and&nbsp;SJC2 submarine cables providing links throughout Asia, Australia, the Middle East, Africa, Europe, Southeast Asia and US; satellite earth stations - 66 (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 multiple national TV networks with 2 of the 3 largest networks publicly operated; the largest privately owned network, Seoul Broadcasting Service (SBS), has ties with other commercial TV networks; cable and satellite TV subscription services available; publicly operated radio broadcast networks and many privately owned radio broadcasting networks, each with multiple affiliates, and independent local stations<br>
@@ -640,7 +648,7 @@ _annual freight traffic on registered air carriers_: 11,929,560,000 (2018) mt-km
 HL<br>
 
 **Airports**<br>
-_total_: 111 (2021)<br>
+111 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 71<br>

@@ -144,7 +144,7 @@ _total population_: 0.92 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-46 deaths/100,000 live births (2017 est.)<br>
+43 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 11.9 deaths/1,000 live births<br>
@@ -473,9 +473,18 @@ _female_: 18.3% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 38.8 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 26.5% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 0.5% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
 _highest 10%_: 32.3% (2014 est.)<br>
+
+**Remittances**<br>
+26.06% of GDP (2021 est.)<br>
+24.15% of GDP (2020 est.)<br>
+21.04% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $5.886 billion (2017 est.)<br>
@@ -606,18 +615,17 @@ _Total energy consumption per capita 2019_: 24.124 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 894,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 14 (2020 est.)<br>
+_total subscriptions_: 856,090 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 9.949 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 153 (2020 est.)<br>
+_total subscriptions_: 11,071,073 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 175 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: El Salvador is the smallest country in central America geographically, it has the fourth largest economy in the region; the country&rsquo;s telecom sector has been restricted by poor infrastructure and unequal income distribution; there have been organizational delays which have slowed the development of telecom services; El Salvador&rsquo;s fixed-line teledensity is substantially lower than the Latin American and Caribbean average; there has been a significant drop in the number of fixed lines since 2010, particularly in 2017, largely due to the substitution for mobile-only alternatives; about 94% of all telephony lines in the country are on mobile networks; mobile subscriptions are remarkably high considering El Salvador&rsquo;s economic indicators, being about a third higher than average for Latin America and the Caribbean; the country was one of the last in the region to provide LTE services, mainly due to the inadequate provision of suitable spectrum; the multi-spectrum auction conducted at the end of 2019 has allowed MNOs to improve the reach and quality of their service offerings; El Salvador&rsquo;s telecom legislation is one of the more liberal in Latin America, encouraging competition in most areas and permitting foreign investment; there are no regulations which promote wholesale broadband; the only effective cross-platform competition in the broadband market comes from the few cable operators; there has been some market consolidation in recent years (2021)<br>
-_domestic_: fixed-line services, roughly 14 per 100, has slowed in the face of mobile-cellular competition now at 153 subscribers per 100 inhabitants (2020)<br>
+_domestic_: fixed-line services, roughly 14 per 100, mobile-cellular competition now at 175 subscribers per 100 inhabitants (2021)<br>
 _international_: country code - 503; satellite earth station - 1 Intelsat (Atlantic Ocean); connected to Central American Microwave System (2019)<br>
-<!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 multiple privately owned national terrestrial TV networks, supplemented by cable TV networks that carry international channels; hundreds of commercial radio broadcast stations and two known government-owned radio broadcast station; transition to digital transmission to begin in 2018 along with adaptation of the Japanese-Brazilian Digital Standard (ISDB-T) (2022)<br>
@@ -645,7 +653,7 @@ _annual freight traffic on registered air carriers_: 10.73 million (2018) mt-km<
 YS<br>
 
 **Airports**<br>
-_total_: 68 (2021)<br>
+68 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 5<br>
@@ -692,9 +700,9 @@ the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of 
 **Military expenditures**<br>
 1.2% of GDP (2021 est.)<br>
 1.2% of GDP (2020)<br>
-1.2% of GDP (2019) (approximately $570 million)<br>
-1.1% of GDP (2018) (approximately $540 million)<br>
-1% of GDP (2017) (approximately $500 million)<br>
+1.2% of GDP (2019)<br>
+1.1% of GDP (2018)<br>
+1% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 21,000 active military personnel (17,000 Army; 2,000 Navy; 2,000 Air Force) (2022)<br>
@@ -704,7 +712,7 @@ approximately 21,000 active military personnel (17,000 Army; 2,000 Navy; 2,000 A
 the FAES is dependent on a mix of mostly older imported platforms, largely from the US; in recent years, the FAES has received small amounts of equipment from several countries, including Chile, Israel, Spain, and the US (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and non-commissioned officers (2022)<br>
+18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and non-commissioned officers (2023)<br>
 <strong>note:</strong> as of 2016, women made up about 6% of the active duty military<br>
 
 **Military deployments**<br>

@@ -378,6 +378,11 @@ _total_: 42.2%<br>
 _male_: 38.1%<br>
 _female_: 47.1% (2020 est.)<br>
 
+**Remittances**<br>
+5.24% of GDP (2020 est.)<br>
+5.88% of GDP (2019 est.)<br>
+5.14% of GDP (2018 est.)<br>
+
 **Budget surplus (+) or deficit (-)**<br>
 -0.4% (of GDP) (2012 est.)<br>
 
@@ -444,18 +449,17 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 54,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
+_total subscriptions_: 53,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 28 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 182,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 111 (2020 est.)<br>
+_total subscriptions_: 170,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 88 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: fully automatic modern telecommunications system; telecom sector across the Caribbean region continues to be one of&nbsp;the growth areas; given the lack of economic diversity in the region, with a high dependence on tourism and activities such as fisheries and offshore financial services the telecom sector contributes greatly to the GDP (2020)<br>
-_domestic_: roughly 33 per 100 users for fixed-line and 111 per 100 users for cellular-mobile, majority of the islanders have Internet; market revenue has been affected in recent quarters as a result of competition and regulatory measures on termination rates and roaming tariffs (2020)<br>
+_domestic_: roughly 28 per 100 users for fixed-line and 88 per 100 users for cellular-mobile (2021)<br>
 _international_: country code - +599, PCCS submarine cable system to US, Caribbean and Central and South America (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 government-run TeleCuracao operates a TV station and a radio station;&nbsp;2 other privately owned TV stations and several privately owned radio stations (2019)<br>
@@ -481,7 +485,7 @@ _inventory of registered aircraft operated by air carriers_: 11<br>
 PJ<br>
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

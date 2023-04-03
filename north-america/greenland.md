@@ -508,14 +508,13 @@ _total subscriptions_: 6,352 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 65,958 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 116 (2020 est.)<br>
+_total subscriptions_: 66,605 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 118 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: adequate domestic and international service provided by satellite, cables, and microwave radio relay; the fundamental telecommunications infrastructure consists of a digital radio link from Nanortalik in south Greenland to Uummannaq in north Greenland; satellites cover north and east Greenland for domestic and foreign telecommunications; a marine cable connects south and west Greenland to the rest of the world, extending from Nuuk and Qaqortoq to Canada and Iceland; a contract has been awarded to build a 5G network in Greenland, initially covering three towns, with 10 towns, including Greenland's capital Nuuk to follow (2022)<br>
-_domestic_: nearly 11 per 100 for fixed-line subscriptions and 116 per 100 for mobile-cellular (2020)<br>
+_domestic_: nearly 11 per 100 for fixed-line subscriptions and 118 per 100 for mobile-cellular (2021)<br>
 _international_: country code - 299; landing points for Greenland Connect, Greenland Connect North, Nunavut Undersea Fiber System submarine cables to Greenland, Iceland, and Canada;&nbsp;satellite earth stations - 15 (12 Intelsat, 1 Eutelsat, 2 Americom GE-2 (all Atlantic Ocean)) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the Greenland Broadcasting Company provides public radio and TV services throughout the island with a broadcast station and a series of repeaters; a few private local TV and radio stations; Danish public radio rebroadcasts are available (2019)<br>
@@ -541,7 +540,7 @@ _inventory of registered aircraft operated by air carriers_: 8 (registered in De
 OY-H<br>
 
 **Airports**<br>
-_total_: 15 (2021)<br>
+15 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 10<br>

@@ -135,7 +135,7 @@ _65 years and over_: 0.93 male(s)/female<br>
 _total population_: 1.04 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-98 deaths/100,000 live births (2017 est.)<br>
+62 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 12.59 deaths/1,000 live births<br>
@@ -429,6 +429,11 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+9.5% of GDP (2021 est.)<br>
+6.96% of GDP (2020 est.)<br>
+8.72% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $225.2 million (2017 est.)<br>
 _expenditures_: $230 million (2017 est.)<br>
@@ -565,7 +570,6 @@ _subscriptions per 100 inhabitants_: 87 (2020 est.)<br>
 _general assessment_: adequate island-wide, fully automatic telephone system; broadband access; expanded FttP (Fiber to the Home) markets; LTE launches; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>
 _domestic_: fixed-line teledensity exceeds 11 per 100 persons and mobile-cellular teledensity is about 87 per 100 persons (2020)<br>
 _international_: country code - 1-784;&nbsp;landing points for the ECFS, CARCIP&nbsp;and Southern Caribbean Fiber submarine cables providing connectivity to US and Caribbean Islands; connectivity also provided by VHF/UHF radiotelephone from Saint Vincent to Barbados; SHF radiotelephone to Grenada and Saint Lucia; access to Intelsat earth station in Martinique through Saint Lucia (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 St. Vincent and the Grenadines Broadcasting Corporation operates 1 TV station and 5 repeater stations that provide near total coverage to the multi-island state; multi-channel cable TV service available; a partially government-funded national radio service broadcasts on 1 station and has 2 repeater stations; about a dozen privately owned radio stations and repeater stations<br>
@@ -591,7 +595,7 @@ _inventory of registered aircraft operated by air carriers_: 11<br>
 J8<br>
 
 **Airports**<br>
-_total_: 6 (2021)<br>
+6 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 5<br>

@@ -146,7 +146,7 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 27.8 years<br>
 
 **Maternal mortality ratio**<br>
-9 deaths/100,000 live births (2017 est.)<br>
+7 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.39 deaths/1,000 live births<br>
@@ -470,9 +470,18 @@ NA<br>
 **Gini Index coefficient - distribution of family income**<br>
 36.2 (1997)<br>
 
+**Average household expenditures**<br>
+_On food_: 13.4% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 4.8% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
+
+**Remittances**<br>
+0.01% of GDP (2021 est.)<br>
+0.07% of GDP (2020 est.)<br>
+0.22% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $74.11 billion (2017 est.)<br>
@@ -612,7 +621,6 @@ _subscriptions per 100 inhabitants_: 127 (2020 est.)<br>
 _general assessment_: the principal growth areas in in New Zealand&rsquo;s telecom market have been in mobile broadband and fiber; the UFB1 rollout was completed in November 2019 and the UFB2 rollout is scheduled to be completed by the end of 2022; Chorus noted that as of the beginning of 2022, 1Gb/s plans accounted for about 23% of all fiber connections, while 43% of business customers adopted a gigabit service; New Zealand&rsquo;s mobile market continues to undergo significant developments; there have been considerable gains made in LTE services, with effective competition between Spark, Vodafone NZ, and 2degrees; the widening coverage of LTE networks has been supported by the Rural Broadband Initiative rollout, which added a significant number of mobile sites to new or underserved areas; as the initiative is winding down, this has enabled the participating telcos to invest in NB-IoT and other platforms; Vodafone NZ expects to extend its NB-IoT footprint to cover at least 60% of the country by 2024; the market is undergoing additional consolidation, with approval of the merger between 2degrees and Orcon Group having been granted by regulators in May 2022; this will create the country&rsquo;s third-largest integrated telco, offering fixed and mobile services in competition with Spark and Vodafone NZ. The merger proposal came fast of the heels of Vocus Group and its local subsidiary Orcon having acquired 2degrees from Trilogy International in December 2021; this deal created a new company, Voyage Digital. (2020)<br>
 _domestic_: fixed-line roughly 18 per 100 and mobile-cellular telephone subscribership 127 per 100 persons (2020)<br>
 _international_: country code - 64; landing points for the Southern Cross NEXT, Aqualink, Nelson-Levin, SCCN and Hawaiki submarine cable system providing links to Australia, Fiji, American Samoa, Kiribati, Samo, Tokelau, US and around New Zealand; satellite earth stations - 8 (1 Inmarsat - Pacific Ocean, 7 other) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned Television New Zealand operates multiple TV networks and state-owned Radio New Zealand operates 3 radio networks and an external shortwave radio service to the South Pacific region; a small number of national commercial TV and radio stations and many regional commercial television and radio stations are available; cable and satellite TV systems are available, as are a range of streaming services (2019)<br>
@@ -640,7 +648,7 @@ _annual freight traffic on registered air carriers_: 1,349,300,000 (2018) mt-km<
 ZK<br>
 
 **Airports**<br>
-_total_: 123 (2021)<br>
+123 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 39<br>

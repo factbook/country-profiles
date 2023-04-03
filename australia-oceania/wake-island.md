@@ -190,7 +190,6 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: satellite communications; 2 Defense Switched Network circuits off the Overseas Telephone System (OTS); located in the Hawaii area code - 808 (2018) (2018)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 American Armed Forces Radio and Television Service (AFRTS) provides satellite radio/TV broadcasts (2018)<br>
@@ -198,7 +197,7 @@ American Armed Forces Radio and Television Service (AFRTS) provides satellite ra
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

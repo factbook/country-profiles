@@ -155,7 +155,7 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 21.3 years (2008 est.)<br>
 
 **Maternal mortality ratio**<br>
-33 deaths/100,000 live births (2017 est.)<br>
+59 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 12 deaths/1,000 live births<br>
@@ -514,9 +514,18 @@ _female_: 8.6% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 45.4 (2020 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 23.4% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 2.8% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2%<br>
 _highest 10%_: 40% (2014)<br>
+
+**Remittances**<br>
+4.25% of GDP (2021 est.)<br>
+3.93% of GDP (2020 est.)<br>
+3.07% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $261.4 billion (2017 est.)<br>
@@ -655,7 +664,6 @@ _subscriptions per 100 inhabitants_: 95 (2020 est.)<br>
 _general assessment_: with a large population and relatively low broadband and mobile penetration, (86 lines for mobile broadband for every 100 habitants in June 2021) Mexico&rsquo;s telecom sector has potential for growth; adequate telephone service for business and government; improving quality and increasing mobile cellular availability, with mobile subscribers far outnumbering fixed-line subscribers (24.6 million fixed line subscribers and 125 million mobile line subscribers in June 2021); relatively low broadband and mobile penetration, potential for growth and international investment; extensive microwave radio relay network; considerable use of fiber-optic cable and coaxial cable; 5G development slow in part due to high costs (2021)<br>
 _domestic_: fixed-line teledensity exceeds 65 lines per every 100 households; mobile-cellular teledensity is about 99 per 100 persons; domestic satellite system with 120 earth stations (2021)<br>
 _international_: country code - 52; Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, Canary Islands, Spain, and Italy; the ARCOS-1 and the MAYA-1 submarine cable system together provide access to Central America, parts of South America and the Caribbean, and the U.S.; Pan-American Crossing (PAC) submarine cable system provides access to Panama, California, U.S., and Costa Rica; Lazaro Cardenas-Manzanillo Santiago submarines cable system (LCMSSCS) provides access to Michoacan, Guerrero, and Colima, Mexico; AMX-1 submarine cable system with access to Colombia, Brazil, Puerto Rico, Gulf of California Cable submarine cable systems that connects La Paz, Baja California Sur and Topolobambo, Sinaloa; and Aurora submarine cable system provides access to Guatemala, Panama, Ecuador, Colombia, Mexico, and the U.S. satellite earth stations - 124 (36 Intelsat, 1 Solidaridad (giving Mexico improved access to South America, Central America, and much of the US as well as enhancing domestic communications), 9 Panamsat, numerous Inmarsat mobile earth stations); linked to Central American Microwave System of trunk connections (2022)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 telecom reform in 2013 enabled the creation of new broadcast television channels after decades of a quasi-monopoly; Mexico has 885 TV stations and 1,841 radio stations and most are privately owned; the Televisa group once had a virtual monopoly in TV broadcasting, but new broadcasting groups and foreign satellite and cable operators are now available; in 2016, Mexico became the first country in Latin America to complete the transition from analog to digital transmissions, allowing for better image and audio quality and a wider selection of programming from networks (2022)<br>
@@ -683,7 +691,7 @@ _annual freight traffic on registered air carriers_: 1,090,380,000 (2018) mt-km<
 XA<br>
 
 **Airports**<br>
-_total_: 1,714 (2021)<br>
+1,714 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 243<br>
@@ -750,7 +758,7 @@ information varies; approximately 218,000 armed forces personnel (160,000 Army; 
 the Mexican military inventory includes a mix of domestically produced and imported equipment from a variety of mostly Western suppliers; the US has been the leading supplier of military hardware to Mexico; Mexico's defense industry produces naval vessels and light armored vehicles, as well as small arms and other miscellaneous equipment (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory military service for males (selection for service determined by lottery); conscript service obligation is 12 months; those selected serve on Saturdays in a Batallón del Servicio Militar Nacional (National Military Service Battalion) composed entirely of 1-year Servicio Militar Nacional (SMN) conscripts; conscripts remain in reserve status until the age of 40; 16 years of age with consent for voluntary enlistment; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; women are eligible for voluntary military service (2022)<br>
+18 years of age for compulsory military service for males (selection for service determined by lottery); conscript service obligation is 12 months; those selected serve on Saturdays in a Batallón del Servicio Militar Nacional (National Military Service Battalion) composed entirely of 12-month Servicio Militar Nacional (SMN) conscripts; conscripts remain in reserve status until the age of 40; 16 years of age with consent for voluntary enlistment; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; women are eligible for voluntary military service (2023)<br>
 <strong>note: </strong>as of 2022, women comprised about 15% of the active duty military<br>
 
 **Military - note**<br>

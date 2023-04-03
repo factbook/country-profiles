@@ -138,7 +138,7 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 30.9 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-5 deaths/100,000 live births (2017 est.)<br>
+5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.41 deaths/1,000 live births<br>
@@ -458,9 +458,18 @@ _female_: 18.8% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 30.6 (2018 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 9% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 5.8% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
 _highest 10%_: 27.2% (2000)<br>
+
+**Remittances**<br>
+0.04% of GDP (2021 est.)<br>
+0.06% of GDP (2020 est.)<br>
+0.15% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $86.04 billion (2017 est.)<br>
@@ -600,7 +609,6 @@ _subscriptions per 100 inhabitants_: 106 (2020 est.)<br>
 _general assessment_: Ireland&rsquo;s telecom market has rebounded from a long period in which fiscal constraints inhibited investment in the sector; significant infrastructure projects are underway, including the NBN which aims to deliver a fiber-based service of at least 150Mb/s nationally by the end of 2022; the renewed optimism has been seen in company investment in extending fiber-based networks providing 1Gb/s services; the mobile sector is preparing for a multi-frequency availability later in 2021 which will greatly increase the amount of frequencies available, and provide a boost for 5G services; the MNOs are rapidly expanding the reach of 5G (2021)<br>
 _domestic_: increasing levels of broadband access particularly in urban areas; fixed-line 34 per 100 and mobile-cellular 106 per 100 subscriptions; digital system using cable and microwave radio relay (2020)<br>
 _international_: country code - 353; landing point for the&nbsp;AEConnect&nbsp;-1,&nbsp;Celtic-Norse, Havfrue/AEC-2, GTT Express, Celtic, ESAT-1, IFC-1, Solas, Pan European Crossing, ESAT-2, CeltixConnect -1 &amp; 2, GTT Atlantic, Sirius South, Emerald Bridge Fibres&nbsp;and Geo Eirgrid&nbsp;submarine cable with links to the US, Canada, Norway, Isle of Man and UK; satellite earth stations - 81 (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 publicly owned broadcaster Radio Telefis Eireann (RTE) operates&nbsp;4 TV stations; commercial TV stations are available; about 75% of households utilize multi-channel satellite and TV services that provide access to a wide range of stations; RTE operates 4 national radio stations and has launched digital audio broadcasts on several stations; a number of commercial broadcast stations operate at the national, regional, and local levels (2019)<br>
@@ -628,7 +636,7 @@ _annual freight traffic on registered air carriers_: 168.71 million (2018) mt-km
 EI<br>
 
 **Airports**<br>
-_total_: 40 (2021)<br>
+40 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 16<br>
@@ -707,7 +715,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 75,260 (Ukraine) (as of 13 February 2023)<br>
+_refugees (country of origin)_: 78,121 (Ukraine) (as of 14 March 2023)<br>
 _stateless persons_: 7 (2022)<br>
 
 **Illicit drugs**<br>

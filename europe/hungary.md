@@ -145,7 +145,7 @@ _total population_: 0.91 male(s)/female (2023 est.)<br>
 28.4 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-12 deaths/100,000 live births (2017 est.)<br>
+15 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 4.55 deaths/1,000 live births<br>
@@ -483,9 +483,18 @@ _female_: 16.2% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 30 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 18.2% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 7.3% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.3%<br>
 _highest 10%_: 22.4% (2015)<br>
+
+**Remittances**<br>
+1.92% of GDP (2021 est.)<br>
+2.43% of GDP (2020 est.)<br>
+3.03% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $61.98 billion (2017 est.)<br>
@@ -615,7 +624,7 @@ _Total energy consumption per capita 2019_: 108.212 million Btu/person (2019 est
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 2,955,979 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 27 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 30 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 10,248,653 (2021 est.)<br>
@@ -623,9 +632,8 @@ _subscriptions per 100 inhabitants_: 106 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Hungary benefits from having a developed telecom infrastructure, with a focus among operators to develop the 5G sector and upgrade fixed networks to provide a 1Gb/s service; services based on 5G have been supported by the January 2021 multi-spectrum auction for spectrum in the 900MHz and 1800MHz bands; the number of fixed-lines continues to fall as subscribers migrate to the mobile platform for voice and data services; operators have looked to bundled packages to boost revenue and retain subscribers; the broadband market has effective infrastructure-based competition, with an extensive cable network competing against DSL services and a vibrant and rapidly expanding fiber sector; the regulator has also introduced a number of measures aimed at promoting market competition, which is pushing the drive for higher speed platforms and encouraging operators to invest in technology upgrades; as a result, Hungary now has the highest fixed broadband penetration rate in Eastern Europe; the number of super fast broadband connections (above 30Mb/s) accounted for 78% of all fixed broadband connections (2022)<br>
-_domestic_: competition among mobile-cellular service providers has led to a sharp increase in the use of mobile-cellular phones, and a decrease in the number of fixed-line connections, with just under 31 fixed per 100 persons and 107 mobile-cellular subscriptions per 100 (2020)<br>
+_domestic_: fixed-line connections, with 30 fixed per 100 persons and 106 mobile-cellular subscriptions per 100 (2021)<br>
 _international_: country code - 36; Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 (very small aperture terminal) VSAT system of ground terminals<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 mixed system of state-supported public service broadcast media and private broadcasters; the 5 publicly owned TV channels and the 2 main privately owned TV stations are the major national broadcasters; a large number of special interest channels; highly developed market for satellite and cable TV services with about two-thirds of viewers utilizing their services; 4 state-supported public-service radio networks; a large number of local stations including commercial, public service, nonprofit, and community radio stations; digital transition completed at the end of 2013; government-linked businesses have greatly consolidated ownership in broadcast and print media (2019)<br>
@@ -652,7 +660,7 @@ _annual passenger traffic on registered air carriers_: 31,226,848 (2018)<br>
 HA<br>
 
 **Airports**<br>
-_total_: 41 (2021)<br>
+41 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 20<br>
@@ -698,7 +706,7 @@ _river port(s)_: Baja, Csepel (Budapest), Dunaujvaros, Gyor-Gonyu, Mohacs (Danub
 the Hungarian Defense Forces (HDF) are a unified force (Joint Force Command) with Land Forces, Air Forces, and Logistics components (2022)<br>
 
 **Military expenditures**<br>
-1.7% of GDP (2022 est.)<br>
+1.5% of GDP (2022 est.)<br>
 1.8% of GDP (2021)<br>
 1.8% of GDP (2020)<br>
 1.3% of GDP (2019) (approximately $3.02 billion)<br>
@@ -733,7 +741,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,248 (Ukraine) (as of 7 March 2023)<br>
+_refugees (country of origin)_: 34,248 (Ukraine) (as of 20 March 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

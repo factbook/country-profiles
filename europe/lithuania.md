@@ -141,7 +141,7 @@ _total population_: 0.86 male(s)/female (2023 est.)<br>
 28.2 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-5 deaths/100,000 live births (2017 est.)<br>
+9 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.61 deaths/1,000 live births<br>
@@ -473,9 +473,18 @@ _female_: 19.6% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 35.3 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 21.2% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 5.9% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
 _highest 10%_: 28.8% (2015)<br>
+
+**Remittances**<br>
+1.17% of GDP (2021 est.)<br>
+1.39% of GDP (2020 est.)<br>
+2.38% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $15.92 billion (2017 est.)<br>
@@ -615,7 +624,6 @@ _subscriptions per 100 inhabitants_: 134 (2021 est.)<br>
 _general assessment_: Lithuania&rsquo;s small telecoms market is among the more advanced in Europe, particularly given the universal access to LTE infrastructure and the extensive fiber footprint; investment has been focused on fiber broadband and mobile network upgrades; fiber is now by far the dominant fixed broadband platform, with the number of DSL and cable connections in steady decline; SIM card penetration is relatively high for the region, with a growing proportion of subscribers being on higher-Average Revenue Per User (ARPU) contract plans; while LTE services are available nationally, operators have made steady investments in 5G; the regulator has helped the network operators to develop 5G by allowing them to repurpose spectrum in the 2.1GHz and 2.4GHz bands; the regulator is expected to complete the auction of spectrum in the 700MHz and 3.4GHz bands later in 2022; service obligations on the licenses include the provision of services to the five main cities by the end of 2023 (2021)<br>
 _domestic_: nearly 10 per 100 for fixed-line subscriptions; expansion of mobile-cellular services has resulted in a steady decline in the number of fixed-line connections; mobile-cellular teledensity stands at about 134 per 100 persons (2021)<br>
 _international_: country code - 370; landing points for the BCS East, BCS East-West Interlink and NordBalt connecting Lithuania to Sweden, and Latvia&nbsp;; further transmission by satellite; landline connections to Latvia and Poland (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 public broadcaster operates 3 channels with the third channel - a satellite channel - introduced in 2007; various privately owned commercial TV broadcasters operate national and multiple regional channels; many privately owned local TV stations; multi-channel cable and satellite TV services available; publicly owned broadcaster operates 3 radio networks; many privately owned commercial broadcasters, with repeater stations in various regions throughout the country<br>
@@ -642,7 +650,7 @@ _annual passenger traffic on registered air carriers_: 26,031 (2018)<br>
 LY<br>
 
 **Airports**<br>
-_total_: 61 (2021)<br>
+61 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 22<br>
@@ -701,7 +709,7 @@ approximately 17,000 active duty personnel (13,500 Army, including about 5,000 N
 the military's inventory is a mix of Soviet-era and more modern European and US equipment (2022)<br>
 
 **Military service age and obligation**<br>
-19-26 years of age for conscripted military service for men; 9-month service obligation; in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; 18-38 for voluntary service for men and women (2022)<br>
+19-26 years of age for conscripted military service for men; 9-month service obligation; in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; 18-38 for voluntary service for men and women (2023)<br>
 <strong>note 1:</strong> Lithuania conscripts up to 4,000 males each year; conscripts are selected using an automated lottery system<br><br><strong>note 2:</strong> as of 2019, women comprised about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>

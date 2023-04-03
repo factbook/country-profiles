@@ -144,7 +144,7 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-335 deaths/100,000 live births (2017 est.)<br>
+392 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 38.27 deaths/1,000 live births<br>
@@ -199,7 +199,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid feve
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Madagascar is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Madagascar is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 5.3% (2016)<br>
@@ -287,7 +287,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid feve
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Madagascar is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Madagascar is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to the effects of extreme weather events and slow economic recovery - </em>according to the latest May 2022 analysis, the prevalence of food insecurity in the southern regions is projected to peak at 2.1 million people by December 2022 until at least March 2023; overall, the number of people requiring humanitarian assistance by the end of 2022 is expected to be about 30 percent higher compared to the peak number in 2021; the poor food security situation is mainly the consequence of six consecutive poor agricultural seasons that culminated in very tight food supplies for rural households and curbed incomes from crop sales; high rates of poverty and increased prices of essential food commodities, combined with a high reliance on market supplies due to low harvests for own consumption, are also contributing to the high rates of food insecurity across the southern regions (2022)<br>
@@ -479,6 +479,11 @@ _female_: 4.4% (2021 est.)<br>
 _lowest 10%_: 2.2%<br>
 _highest 10%_: 34.7% (2010 est.)<br>
 
+**Remittances**<br>
+3.8% of GDP (2020 est.)<br>
+2.89% of GDP (2019 est.)<br>
+3.09% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.828 billion (2017 est.)<br>
 _expenditures_: $2.136 billion (2017 est.)<br>
@@ -616,7 +621,6 @@ _subscriptions per 100 inhabitants_: 57 (2020 est.)<br>
 _general assessment_: telecom services in Madagascar have benefited from intensifying competition between the main operators; there have been positive developments with the country&rsquo;s link to international submarine cables, particularly the METISS cable connecting to South Africa and Mauritius; in addition, the country&rsquo;s connection to the Africa-1 cable, expected in late 2023, will provide it with links to Kenya, Djibouti, countries in north and south Africa, as well Pakistan, the UAE, Saudi Arabia, and France; a national fiber backbone has been implemented connecting the major cities; in addition, the government has progressed with its five-year plan to develop a digital platform running to 2024; various schemes within the program have been managed by a unit within the President&rsquo;s office; penetration rates in all market sectors remain below the average for the African region, and so there remains considerable growth potential; much progress was made in 2020, stimulated by the particular conditions related to the pandemic, which encouraged greater use of voice and data services (2022)<br>
 _domestic_: less than 1 per 100 for fixed-line and mobile-cellular teledensity about 57 per 100 persons (2020)<br>
 _international_: country code - 261; landing points for the EASSy, METISS, and LION fiber-optic submarine cable systems connecting to numerous Indian Ocean Islands, South Africa, and Eastern African countries; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Intersputnik - Atlantic Ocean region) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned Radio Nationale Malagasy (RNM) and Television Malagasy (TVM) have an extensive national network reach; privately owned radio and TV broadcasters in cities and major towns; state-run radio dominates in rural areas; relays of 2 international broadcasters are available in Antananarivo (2019)<br>
@@ -644,7 +648,7 @@ _annual freight traffic on registered air carriers_: 16.25 million (2018) mt-km<
 5R<br>
 
 **Airports**<br>
-_total_: 83 (2021)<br>
+83 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 26<br>

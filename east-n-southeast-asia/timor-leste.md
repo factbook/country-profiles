@@ -143,7 +143,7 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-142 deaths/100,000 live births (2017 est.)<br>
+204 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 32.93 deaths/1,000 live births<br>
@@ -467,6 +467,11 @@ _female_: 16.8% (2021 est.)<br>
 _lowest 10%_: 4%<br>
 _highest 10%_: 27% (2007)<br>
 
+**Remittances**<br>
+7.2% of GDP (2020 est.)<br>
+4.95% of GDP (2019 est.)<br>
+6.16% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $300 million (2017 est.)<br>
 _expenditures_: $2.4 billion (2017 est.)<br>
@@ -606,7 +611,6 @@ _subscriptions per 100 inhabitants_: 110.22 (2019)<br>
 _general assessment_: Timor-Leste has been moving forward with the regeneration of its economy and rebuilding key infrastructure, including telecommunications networks, that were destroyed during the years of civil unrest; fixed-line and fixed broadband penetration in Timor-Leste remains extremely low, mainly due to the limited fixed-line infrastructure and the proliferation of mobile connectivity; in an effort to boost e-government services; the number of subscribers through to 2026 is expected to develop steadily, though from a low base; by August 2020, Timor-Leste had three telecom service providers who jointly achieved a 98% network coverage nationally; the mobile broadband market is still at an early stage of development, strong growth is predicted over the next five years; at the end of 2020, the government issued new policy guidelines to maximize the use of spectrum in Timor-Leste; it invited mobile operators to submit applications for the allocation of spectrum in the 1800MHz, 2300MHz and 2600MHz bands; in November 2020, the government approved the deployment of a submarine fiber link connecting the south of the country to Australia via the North Western Cable System (NWCS) (2021)<br>
 _domestic_: system suffered significant damage during the violence associated with independence; limited fixed-line services, less than 1 per 100 and mobile-cellular services are now available in urban and most rural areas with teledensity of over 104 per 100 (2020)<br>
 _international_: country code - 670; &nbsp;international service is available; partnership with Australia telecom companies for potential deployment of a submarine fiber-optic link (NWCS);&nbsp;geostationary earth orbit satellite<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 7 TV stations (3 nationwide satellite coverage;&nbsp;2 terrestrial coverage, mostly in Dili; 2 cable) and 21 radio stations (3 nationwide coverage) (2019)<br>
@@ -632,7 +636,7 @@ _inventory of registered aircraft operated by air carriers_: 2<br>
 4W<br>
 
 **Airports**<br>
-_total_: 6 (2021)<br>
+6 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>

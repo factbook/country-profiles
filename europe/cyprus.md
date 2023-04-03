@@ -144,7 +144,7 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents only government-controlled areas<br>
 
 **Maternal mortality ratio**<br>
-6 deaths/100,000 live births (2017 est.)<br>
+68 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 8.2 deaths/1,000 live births<br>
@@ -477,6 +477,11 @@ _female_: 14.9% (2021 est.)<br>
 _lowest 10%_: 3.3%<br>
 _highest 10%_: 28.8% (2014)<br>
 
+**Remittances**<br>
+2.34% of GDP (2021 est.)<br>
+2.13% of GDP (2020 est.)<br>
+2.06% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $8.663 billion (2017 est.)<br>
 _expenditures_: $8.275 billion (2017 est.)<br>
@@ -607,18 +612,17 @@ _Total energy consumption per capita 2019_: 133.92 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 311,439 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
+_total subscriptions_: 304,581 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 34 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,239,960 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 140 (2020 est.)<br>
+_total subscriptions_: 1,320,794 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 149 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Cyprus suffered from the effects of the pandemic in 2020 and 2021, when the tourism sector was essentially closed; during 2022, there have been adverse effects caused by Russia&rsquo;s invasion of Ukraine, which has resulted in a dramatic drop in the number of Russian tourists entering the country; the mobile market is served by four mobile network operators; the number of mobile subscribers fell in 2020, largely the result of subscribers scaling back on multiple SIM cards as an economic measure; the broadband market continues to develop steadily, providing the country with one of the highest broadband penetration rates in the region; DSL remains the dominant access platform, accounting for about two-thirds of fixed broadband connections; although fiber infrastructure in Cyprus is minimal (supported by the government and regulator) to extend an FttP service to about 200,000 premises; as a result, the number of DSL subscribers is set to fall steadily in coming years as customers are migrated to the fiber platform (2021)<br>
-_domestic_: fixed-line about 35 per 100 and about 140 per 100 for mobile-cellular teledensity; open-wire, fiber-optic cable, and microwave radio relay (2020)<br>
+_domestic_: fixed-line about 34 per 100 and about 149 per 100 for mobile-cellular teledensity (2021)<br>
 _international_: country code - 357 (area administered by Turkish Cypriots uses the country code of Turkey - 90); a number of submarine cables, including the SEA-ME-WE-3, CADMOS, MedNautilus Submarine System, POSEIDON, TE North/TGN-Eurasia/SEACOM/Alexandros/Medes, UGARIT, Aphrodite2, Hawk, Lev Submarine System, and Tamares combine to provide connectivity to&nbsp;Europe, the Middle East, Africa, Asia, Australia, and Southeast Asia; Turcyos-1 and Turcyos-2 submarine cable in Turkish North Cyprus link to Turkey; tropospheric scatter; satellite earth stations - 8 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 2 Eutelsat, 2 Intersputnik, and 1 Arabsat) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 mixture of state and privately run TV and radio services; the public broadcaster operates 2 TV channels and 4 radio stations; 6 private TV broadcasters, satellite and cable TV services including telecasts from Greece and Turkey, and a number of private radio stations are available; in areas administered by Turkish Cypriots, there are 2 public TV stations, 4 public radio stations, and 7 privately owned TV and 21 radio broadcast stations plus 6 radio and 4 TV channels of local universities, plus 1 radio station of military, security forces and 1 radio station of civil defense cooperation, as well as relay stations from Turkey (2019)<br>
@@ -646,7 +650,7 @@ _annual freight traffic on registered air carriers_: 20,000 (2018) mt-km<br>
 5B<br>
 
 **Airports**<br>
-_total_: 15 (2021)<br>
+15 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 13<br>
@@ -696,7 +700,7 @@ approximately 13,000 total active duty personnel (2022)<br>
 the military's inventory is a mix of Soviet-era and some more modern weapons systems from several countries, including France, Israel, Russia, and Serbia&nbsp; (2022)<br>
 
 **Military service age and obligation**<br>
-Cypriot National Guard (CNG): 18-50 years of age for compulsory military service for all Greek Cypriot males; 17 years of age for voluntary service; 14-month service obligation (2022)<br>
+Cypriot National Guard (CNG): 18-50 years of age for compulsory military service for all Greek Cypriot males; 17 years of age for voluntary service; 14-month service obligation (2023)<br>
 <strong>note:</strong> the CNG accepts all foreign nationals of at least partial Cypriot descent under age 32 as volunteers; dual citizenship Cypriot origin citizens, who were born in Cyprus or abroad, have the obligation to serve in the CNG on repatriation, regardless of whether or not they possess a foreign citizenship; a person is considered as having Cypriot origin where a grandparent or parent was/is a Cypriot citizen<br>
 
 **Military - note**<br>
@@ -714,10 +718,10 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 15,992 (Ukraine) (as of 19 February 2023)<br>
+_refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 16,281 (Ukraine) (as of 12 March 2023)<br>
 _IDPs_: 242,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2021)<br>
 _stateless persons_: 74 (2022)<br>
-<strong>note:</strong> 49,113 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
+<strong>note:</strong> 50,136 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
 
 **Illicit drugs**<br>
 <p>vulnerable to money laundering from illegal drugs</p> <p> </p><br>

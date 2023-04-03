@@ -147,7 +147,7 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 26.6 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-15 deaths/100,000 live births (2017 est.)<br>
+8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 10.54 deaths/1,000 live births<br>
@@ -482,6 +482,11 @@ _female_: 27.6% (2021 est.)<br>
 _lowest 10%_: 4.1%<br>
 _highest 10%_: 19.6% (2015 est.)<br>
 
+**Remittances**<br>
+9.41% of GDP (2021 est.)<br>
+9.69% of GDP (2020 est.)<br>
+9.56% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $3.614 billion (2017 est.)<br>
 _expenditures_: $3.874 billion (2017 est.)<br>
@@ -620,7 +625,6 @@ _subscriptions per 100 inhabitants_: 92 (2021 est.)<br>
 _general assessment_: Albania&rsquo;s small telecom market has experienced some significant changes in recent years;&nbsp; upgrades were made to the fixed-line infrastructure to support broadband services; fixed-line telephony use and penetration in Albania is declining steadily as subscribers migrate to mobile solutions; the mobile sector is well provided with LTE networks, while operators have invested in 5G; some of these efforts have been made in conjunction with neighboring Kosovo, with the intention of a seamless 5G corridor along the highway connecting the two countries; the country has long sought accession to the European Union (EU) which has benefited its telecoms sector through closer scrutiny of its regulatory regime and through the injection of funding to help modernize infrastructure (2021)<br>
 _domestic_: fixed-line approximately 7 per 100, teledensity continues to decline due to heavy use of mobile-cellular telephone services; mobile-cellular telephone use is widespread and generally effective, 92 per 100 for mobile-cellular (2021)<br>
 _international_: country code - 355; submarine cables&nbsp;for the Adria 1 and Italy-Albania provide connectivity to Italy, Croatia, and Greece; a combination submarine cable and land fiber-optic system, provides additional connectivity to Bulgaria, Macedonia, and Turkey; international traffic carried by fiber-optic cable and, when necessary, by microwave radio relay from the Tirana exchange to Italy and Greece (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 Albania has more than 65 TV stations, including several that broadcast nationally; Albanian TV broadcasts are also available to Albanian-speaking populations in neighboring countries; many viewers have access to Italian and Greek TV broadcasts via terrestrial reception; Albania's TV stations have begun a government-mandated conversion from analog to digital broadcast; the government has pledged to provide analog-to-digital converters to low-income families affected by this decision; cable TV service is available; 2 public radio networks and roughly 78 private radio stations; several international broadcasters are available (2019)<br>
@@ -647,7 +651,7 @@ _annual passenger traffic on registered air carriers_: 303,137 (2018)<br>
 ZA<br>
 
 **Airports**<br>
-_total_: 3 (2021)<br>
+3 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 3<br>

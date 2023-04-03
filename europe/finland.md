@@ -145,7 +145,7 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 29.5 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-3 deaths/100,000 live births (2017 est.)<br>
+8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 2.11 deaths/1,000 live births<br>
@@ -471,9 +471,18 @@ _female_: 17.1% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 27.7 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 11.5% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 4.3% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 6.7%<br>
 _highest 10%_: 45.2% (2013)<br>
+
+**Remittances**<br>
+0.28% of GDP (2021 est.)<br>
+0.3% of GDP (2020 est.)<br>
+0.3% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $134.2 billion (2017 est.)<br>
@@ -602,18 +611,17 @@ _Total energy consumption per capita 2019_: 216.571 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 225,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
+_total subscriptions_: 207,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.12 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 129 (2020 est.)<br>
+_total subscriptions_: 7.15 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 129 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Finland&rsquo;s telecom market is among the more progressive in Europe, with operators having been at the forefront in deploying technologies and with the regulator being among the first to auction spectrum for 5G use; these efforts have been supported by the government which is working towards its target of providing a broadband service of at least 100Mb/s by 2025; 5G services were available to more than 40% of the population by early 2021, and take-up among subscribers has been strong although most will remain with LTE in the short term; the country enjoys one of the highest broadband and mobile subscription rates in the region, with customers able to make use of the latest iterations of technologies including DOCSIS3.1, LTE-A, 5G, and GPON fiber infrastructure; Finland has emerged as one of the pioneers in 5G; the auction of spectrum in the 700MHz and 3.5GHh bands has enabled network operators to extend the availability of LTE services nationally and to prepare for 5G services; Spectrum in the 2.5GHz band was auctioned in mid-2020 and has since enabled the MNOs to widen their 5G footprint considerably; there is an ongoing shift away from DSL to fiber and mobile networks (2021)<br>
-_domestic_: fixed-line 4 per 100 subscriptions and nearly 129 per 100 mobile-cellular (2020)<br>
+_domestic_: fixed-line 4 per 100 subscriptions and nearly 129 per 100 mobile-cellular (2021)<br>
 _international_: country code - 358; landing points for Botnia, BCS North-1 &amp; 2, SFL, SFS-4, C-Lion1, Eastern Lights, Baltic Sea Submarine Cable, FEC, and EESF-2 &amp; 3 submarine cables that provide links to many&nbsp;Finland points, Estonia, Sweden, Germany, and Russia; satellite earth stations - access to Intelsat transmission service via a Swedish satellite earth station, 1 Inmarsat (Atlantic and Indian Ocean regions); note - Finland shares the Inmarsat earth station with the other Nordic countries (Denmark, Iceland, Norway, and Sweden) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 a mix of 3 publicly operated TV stations and numerous privately owned TV stations; several free and special-interest pay-TV channels; cable and satellite multi-channel subscription services are available; all TV signals are broadcast digitally; Internet television, such as Netflix and others, is available; public broadcasting maintains a network of 13 national and 25 regional radio stations; a large number of private radio broadcasters and access to Internet radio<br>
@@ -642,7 +650,7 @@ _annual freight traffic on registered air carriers_: 957.64 million (2018) mt-km
 OH<br>
 
 **Airports**<br>
-_total_: 148 (2021)<br>
+148 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 74<br>
@@ -703,7 +711,7 @@ approximately 22,000 active duty personnel (15,000 Army; 4,000 Navy; 3,000 Air F
 the military's inventory consists of a wide mix of mostly modern US, European, and domestically-produced weapons systems; since 2010, the US has been the leading supplier; the Finnish defense industry produces a variety of military equipment, including wheeled armored vehicles and naval vessels (2022)<br>
 
 **Military service age and obligation**<br>
-at age 18, all Finnish men are obligated to serve 5.5-12 months of service within a branch of the military or the Border Guard (length of service depends on the type of duty), and women 18-29 may volunteer for service; there is also an option to perform non-military service which lasts for 8.5 or 11.5 months; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 50 for rank-and-file and 60 for non-commissioned and commissioned officers (2022)<br>
+at age 18, all Finnish men are obligated to serve 5.5-12 months of service within a branch of the military or the Border Guard (length of service depends on the type of duty), and women 18-29 may volunteer for service; there is also an option to perform non-military service which lasts for 8.5 or 11.5 months; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 50 for rank-and-file and 60 for non-commissioned and commissioned officers (2023)<br>
 <strong>note 1:</strong> the military trains approximately 21,000 (20,000 Army) conscripts each year; as of 2019, women made up about 4% of the military's full-time personnel<br><br><strong>note 2: </strong>Finland has had conscription since 1951<br>
 
 **Military deployments**<br>

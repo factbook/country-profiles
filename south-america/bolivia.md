@@ -153,7 +153,7 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-155 deaths/100,000 live births (2017 est.)<br>
+161 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 22.28 deaths/1,000 live births<br>
@@ -497,9 +497,18 @@ _female_: 18.4% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 43.6 (2020 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 29.1% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 2.1% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 0.9%<br>
 _highest 10%_: 36.1% (2014 est.)<br>
+
+**Remittances**<br>
+3.51% of GDP (2021 est.)<br>
+3.08% of GDP (2020 est.)<br>
+3.27% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $15.09 billion (2017 est.)<br>
@@ -630,18 +639,17 @@ _Total energy consumption per capita 2019_: 27.094 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 598,082 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
+_total subscriptions_: 539,481 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,804,343 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 101 (2020 est.)<br>
+_total subscriptions_: 12,033,941 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the structure of Bolivia&rsquo;s fixed telecom market is different from most other countries; local services are primarily provided by 15 telecom cooperatives; these are non-profit-making companies privately owned and controlled by their users; since the market was liberalized, the cooperatives have also provided long-distance telephony, while several also offer broadband and pay TV service; they have invested in network upgrades in a bid to improve services for customers, and to expand their footprints; Bolivia has a multi-carrier system wherein consumers can choose a long-distance carrier for each call by dialing the carrier&rsquo;s prefix; several operators have also adopted fixed-wireless technologies, and some rent fiber-optic capacity; the fixed broadband services remain expensive, though the cost of bandwidth is only a fraction of what it was only a few years ago; services are still unavailable in many rural and remote areas, and even in some of the major urban areas; being a landlocked country, Bolivia had no direct access to submarine cable networks, and relies on satellite services or terrestrial links across neighboring countries; in September 2020 a new cable running via Peru, has increased capacity and contributed to a dramatic fall in end-user prices; fixed broadband services are fast migrating from DSL to fiber, while there are also cable broadband services available in some major cities; in 2007 the focus was on providing telecom services in rural areas under a project known as &lsquo;Territory with Total Coverage&rsquo;; this project aims to increase telecom coverage through mobile rather than through fixed networks; Bolivia has almost twenty times as many mobile phone subscribers as fixed line connections, and the trend towards fixed-mobile substitution continues; all the mobile companies offer 3G and LTE services; due to the poor quality, high cost, and poor reach of DSL, mobile networks have become the principal platform for voice services and data access; by early 2021 companies&rsquo; networks reached more than 95% of the population; about 92% of all internet accesses are via smartphones (2021)<br>
-_domestic_: 5 per 100 fixed-line, mobile-cellular telephone use expanding rapidly and teledensity stands at 101 per 100 persons; most telephones are concentrated in La Paz, Santa Cruz, and other capital cities (2020)<br>
+_domestic_: 4 per 100 fixed-line, mobile-cellular telephone use expanding rapidly and teledensity stands at 100 per 100 persons; most telephones are concentrated in La Paz, Santa Cruz, and other capital cities (2021)<br>
 _international_: country code - 591; Bolivia has no direct access to submarine cable networks and must therefore connect to the rest of the world either via satellite or through terrestrial links across neighboring countries; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 large number of radio and TV stations broadcasting with private media outlets dominating; state-owned and private radio and TV stations generally operating freely, although both pro-government and anti-government groups have attacked media outlets in response to their reporting (2019)<br>
@@ -669,7 +677,7 @@ _annual freight traffic on registered air carriers_: 13.73 million (2018) mt-km<
 CP<br>
 
 **Airports**<br>
-_total_: 855 (2021)<br>
+855 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 21<br>
@@ -729,7 +737,7 @@ information varies widely; approximately 40,000 active troops (28,000 Army; 5,00
 the Bolivian Armed Forces are equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment; in recent years, China and France have been the leading suppliers of military hardware to Bolivia (2022)<br>
 
 **Military service age and obligation**<br>
-compulsory for all men between the ages of 18 and 22; men can volunteer from the age of 16, women from 18; service is for 12 months; Search and Rescue service can be substituted for citizens who have reached the age of compulsory military service; duration of this service is 24 months (2022)<br>
+compulsory for all men between the ages of 18 and 22; men can volunteer from the age of 16, women from 18; service is for 12 months; Search and Rescue service can be substituted for citizens who have reached the age of compulsory military service; duration of this service is 24 months (2023)<br>
 <strong>note:</strong> foreign nationals 18-22 residing in Bolivia may join the armed forces; joining speeds the process of acquiring Bolivian citizenship by naturalization<br>
 
 **Military - note**<br>

@@ -274,7 +274,6 @@ _electrification - total population_: 100% (2020)<br>
 _general assessment_: fully integrated access; 4G and LTE services (2019)<br>
 _domestic_: direct dial capability with both fixed and wireless systems, 3 FM channels, no broadcasting (2018)<br>
 _international_: country code - 590; landing points for the SSCS and the Southern Caribbean Fiber submarine&nbsp;cables providing voice and data connectivity to numerous Caribbean Islands (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 2 local TV broadcasters; 5 FM radio channels (2021)<br>
@@ -289,7 +288,7 @@ _percent of population_: 72% (2020 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

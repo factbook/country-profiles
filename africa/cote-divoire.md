@@ -151,7 +151,7 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-617 deaths/100,000 live births (2017 est.)<br>
+480 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 54.04 deaths/1,000 live births<br>
@@ -204,6 +204,7 @@ _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Côte d'Ivoire is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 10.3% (2016)<br>
@@ -292,6 +293,7 @@ _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Côte d'Ivoire is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,440,814 tons (2010 est.)<br>
@@ -494,9 +496,18 @@ _female_: 6.8% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 37.2 (2018 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 39.6% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.1% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
 _highest 10%_: 31.8% (2008)<br>
+
+**Remittances**<br>
+0.54% of GDP (2020 est.)<br>
+0.56% of GDP (2019 est.)<br>
+0.57% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $7.749 billion (2017 est.)<br>
@@ -625,18 +636,17 @@ _Total energy consumption per capita 2019_: 8.225 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 264,073 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total subscriptions_: 265,513 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 40,095,246 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 152 (2020 est.)<br>
+_total subscriptions_: 44,561,505 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 162 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: in recent years the government of Ivory Coast has helped develop a competitive telecom sector focused on the provision of converged services, thus allowing operators to offer fixed-line and mobile services under a universal services license regime; the fixed internet and broadband sectors remain underdeveloped; this is a legacy of poor international connectivity, which resulted in high wholesale prices, limited bandwidth, and a lack of access for alternative operators to international infrastructure; these limitations were addressed following the landing of a second cable in November 2011; Orange Group has also launched its 20,000km Djoliba cable system, reaching across eight countries in the region, while the 2Africa submarine cable is being developed by a consortium of companies; with a landing station providing connectivity to C&ocirc;te d'Ivoire, the system is expected to be completed in late 2023 (2022)<br>
-_domestic_: 1 per 100 fixed-line teledensity; with multiple mobile-cellular service providers competing in the market, mobile subscriptions have increased to 152 per 100 persons (2020)<br>
+_domestic_: 1 per 100 fixed-line teledensity; mobile subscriptions are 162 per 100 persons (2021)<br>
 _international_: country code - 225; landing point for the SAT-3/WASC, ACE, MainOne, and WACS&nbsp;fiber-optic submarine cable that provides connectivity to Europe and South and West Africa; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-controlled Radiodiffusion Television Ivoirieinne (RTI) is made up of 2 radio stations (Radio Cote d'Ivoire and Frequence2) and 2 television stations (RTI1 and RTI2), with nationwide coverage, broadcasts mainly in French; after 2011 post-electoral crisis, President OUATTARA's administration reopened RTI Bouake', the broadcaster's office in Cote d'Ivoire's 2nd largest city, where facilities were destroyed during the 2002 rebellion; Cote d'Ivoire is also home to 178 proximity radio stations, 16 religious radio stations, 5 commercial radio stations, and 5 international radios stations, according to the Haute Autorite' de la Communication Audiovisuelle (HACA); govt now runs radio UNOCIFM, a radio station previously owned by the UN Operation in Cote d'Ivoire; in Dec 2016, the govt announced 4 companies had been granted licenses to operate -Live TV, Optimum Media Cote d'Ivoire, the Audiovisual Company of Cote d'Ivoire (Sedaci), and Sorano-CI, out of the 4 companies only one has started operating (2019)<br>
@@ -664,7 +674,7 @@ _annual freight traffic on registered air carriers_: 5.8 million (2018) mt-km<br
 TU<br>
 
 **Airports**<br>
-_total_: 27 (2021)<br>
+27 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 7<br>
@@ -725,7 +735,7 @@ approximately 25,000 active troops (23,000 Army, including about 2,000 Special F
 the inventory of the FACI consists mostly of older or second-hand equipment, typically of French or Soviet-era origin; Cote d'Ivoire was under a partial UN arms embargo from 2004 to 2016; in recent years it has received limited amounts of mostly second-hand equipment from several countries, including France (2022)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for compulsory and voluntary male and female military service; conscription is not enforced; voluntary recruitment of former rebels into the new national army is restricted to ages 22-29 (2022)<br>
+18-26 years of age for compulsory and voluntary male and female military service; conscription is not enforced (2023)<br>
 
 **Military deployments**<br>
 850 Mali (MINUSMA) (2022)<br>

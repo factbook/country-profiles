@@ -137,6 +137,9 @@ _15-64 years_: 1.14 male(s)/female<br>
 _65 years and over_: 0.75 male(s)/female<br>
 _total population_: 1.08 male(s)/female (2023 est.)<br>
 
+**Maternal mortality ratio**<br>
+3 deaths/100,000 live births (2020)<br>
+
 **Infant mortality rate**<br>
 _total_: 10.38 deaths/1,000 live births<br>
 _male_: 13.07 deaths/1,000 live births<br>
@@ -448,6 +451,11 @@ _female_: 15.6% (2020 est.)<br>
 _lowest 10%_: 4.7%<br>
 _highest 10%_: 15.4% (2007)<br>
 
+**Remittances**<br>
+0.79% of GDP (2020 est.)<br>
+1.4% of GDP (2019 est.)<br>
+1.39% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $593.4 million (2017 est.)<br>
 _expenditures_: $600.7 million (2017 est.)<br>
@@ -584,7 +592,6 @@ _subscriptions per 100 inhabitants_: 187 (2020)<br>
 _general assessment_: effective system; direct international calls to over 100 countries; radiotelephone communications between islands in the archipelago; 3 ISPs; use of Internet cafes' for access to Internet; 4G services and 5G pending (2020)<br>
 _domestic_: fixed-line a little over 19 per 100 and mobile-cellular teledensity is nearly 187 telephones per 100 persons (2020)<br>
 _international_: country code - 248; landing points for the PEACE and the SEAS submarine cables&nbsp;providing connectivity to Europe, the Middle East, Africa and Asia; direct radiotelephone communications with adjacent island countries and African coastal countries; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 <p>the national broadcaster, Seychelles Broadcasting Corporation (SBC), which is funded by taxpayer money, operates the only terrestrial TV station, which provides local programming and airs broadcasts from international services; a privately owned Internet Protocol Television (IPTV) channel also provides local programming multi-channel cable and satellite TV are available through 2 providers; the national broadcaster operates 1 AM and 1 FM radio station; there are 2 privately operated radio stations; transmissions of 2 international broadcasters are accessible in Victoria</p> (2019)<br>
@@ -612,7 +619,7 @@ _annual freight traffic on registered air carriers_: 7.79 million (2018) mt-km<b
 S7<br>
 
 **Airports**<br>
-_total_: 14 (2021)<br>
+14 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 7<br>

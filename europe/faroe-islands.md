@@ -377,6 +377,11 @@ _services_: 70% (December 2016 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+0% of GDP (2019 est.)<br>
+0% of GDP (2018 est.)<br>
+0% of GDP (2017 est.)<br>
+
 **Budget**<br>
 _revenues_: $835.6 million (2014 est.)<br>
 _expenditures_: $883.8 million (2014)<br>
@@ -490,18 +495,17 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 15,341 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
+_total subscriptions_: 15,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 29 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 59,213 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 121 (2020 est.)<br>
+_total subscriptions_: 59,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the Faroe Islands have a highly developed communication network, which covers the whole country; from telecommunication and mobile phones to the internet and media, the Faroe Islands are at the forefront of modern communications technology; working within the special geographic circumstances of the Faroe Islands; companies have become world experts in providing digital communication solutions to remote and sparsely populated areas (2022)<br>
-_domestic_: roughly 31 per 100 teledensity for fixed-line and nearly 121 per 100 for mobile-cellular; both NMT (analog) and GSM (digital) mobile telephone systems are installed (2020)<br>
+_domestic_: 29 per 100 teledensity for fixed-line and nearly 110 per 100 for mobile-cellular (2021)<br>
 _international_: country code - 298; landing points for the SHEFA-2, FARICE-1, and CANTAT-3 fiber-optic submarine cables from the Faroe Islands, to Denmark, Germany, UK and Iceland; satellite earth stations - 1 Orion; (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 publicly owned TV station; the Faroese telecommunications company distributes local and international channels through its digital terrestrial network; publicly owned radio station supplemented by 3 privately owned stations broadcasting over multiple frequencies<br>
@@ -527,7 +531,7 @@ _inventory of registered aircraft operated by air carriers_: 3 (registered in De
 OY-H<br>
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

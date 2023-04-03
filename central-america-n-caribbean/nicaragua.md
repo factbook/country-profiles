@@ -147,7 +147,7 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-198 deaths/100,000 live births (2017 est.)<br>
+78 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 18.63 deaths/1,000 live births<br>
@@ -472,6 +472,11 @@ _female_: 15.5% (2021 est.)<br>
 _lowest 10%_: 1.8%<br>
 _highest 10%_: 47.1% (2014)<br>
 
+**Remittances**<br>
+15.35% of GDP (2021 est.)<br>
+14.74% of GDP (2020 est.)<br>
+13.39% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $3.871 billion (2017 est.)<br>
 _expenditures_: $4.15 billion (2017 est.)<br>
@@ -611,7 +616,6 @@ _subscriptions per 100 inhabitants_: 90 (2020 est.)<br>
 _general assessment_: Nicaragua&rsquo;s telecoms market has mirrored the country&rsquo;s poor economic achievements, with fixed-line teledensity and mobile penetration also being the lowest in Central America; the fixed line broadband market remains nascent, with population penetration below 4%; most internet users are concentrated in the largest cities, given that rural and marginal areas lack access to the most basic telecom infrastructure; internet caf&eacute;s provide public access to internet and email services, but these also tend to be restricted to the larger population centers; to address poor infrastructure, the World Bank has funded a project aimed at improving connectivity via a national fiber broadband network; there are separate schemes to improve broadband in eastern regions and provide links to Caribbean submarine cables; the number of mobile subscribers overtook the number of fixed lines in early 2002, and the mobile sector now accounts for most lines in service (2021)<br>
 _domestic_: since privatization, access to fixed-line and mobile-cellular services has improved; fixed-line teledensity roughly 3 per 100 persons; mobile-cellular telephone subscribership has increased to roughly 90 per 100 persons (2020)<br>
 _international_: country code - 505; landing point for the ARCOS fiber-optic submarine cable which provides connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 multiple terrestrial TV stations, supplemented by cable TV in most urban areas; nearly all are government-owned or affiliated; more than 300 radio stations, both government-affiliated and privately owned (2019)<br>
@@ -637,7 +641,7 @@ _inventory of registered aircraft operated by air carriers_: 7<br>
 YN<br>
 
 **Airports**<br>
-_total_: 147 (2021)<br>
+147 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 12<br>

@@ -147,7 +147,7 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-24<br>
 
 **Maternal mortality ratio**<br>
-45 deaths/100,000 live births (2017 est.)<br>
+39 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 19.77 deaths/1,000 live births<br>
@@ -484,6 +484,11 @@ _female_: 22.4% (2021 est.)<br>
 _lowest 10%_: 13.7%<br>
 _highest 10%_: 5.7% (2017)<br>
 
+**Remittances**<br>
+4.12% of GDP (2020 est.)<br>
+3.95% of GDP (2019 est.)<br>
+3.34% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.967 billion (2017 est.)<br>
 _expenditures_: $3.681 billion (2017 est.)<br>
@@ -622,7 +627,6 @@ _subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 _general assessment_: liberalized and competitive telecoms market comprises of a number of operators; fixed-line penetration increased steadily in the years to 2018 as more people took on fixed-line access for voice calls and to access copper-based broadband services; the number of lines fell in 2019, and again and more sharply in 2020, partly through the economic consequences of the pandemic (GDP fell 5.3% in 2020, year-on-year) and partly due to the migration to the mobile platform and to VoIP; fixed broadband penetration remains low, mainly due to a limited number of fixed lines and the dominance of the mobile platform; the attraction of fixed broadband as a preferred access where it is available is waning as the mobile networks are upgraded with greater capacity and capabilities; the growing popularity of mobile broadband continues to underpin overall broadband and telecom sector growth, with Mongolia&rsquo;s market very much being dominated by mobile services, supported by widely available LTE; this will largely determine and shape the future direction of Mongolia&rsquo;s developing digital economy (2021)<br>
 _domestic_: very low fixed-line teledensity of less than 5 per 100; there are four mobile-cellular providers and subscribership is roughly 133 per 100 persons (2020)<br>
 _international_: country code - 976; satellite earth stations - 7 (2016)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 following a law passed in 2005, Mongolia's state-run radio and TV provider converted to a public service provider; also available are 68 radio and 160 TV stations, including multi-channel satellite and cable TV providers; transmissions of multiple international broadcasters are available (2019)<br>
@@ -650,7 +654,7 @@ _annual freight traffic on registered air carriers_: 7.82 million (2018) mt-km<b
 JU<br>
 
 **Airports**<br>
-_total_: 44 (2021)<br>
+44 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 15<br>
@@ -705,7 +709,7 @@ information varies; approximately 9,000 active duty troops (2022)<br>
 the MAF's inventory is comprised of Soviet-era equipment (2022)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory and voluntary military service (can enter military schools at age 17); 12-month conscript service obligation for men in the army, air forces, or police (can be extended 3 months under special circumstances); conscription service can be exchanged for a 24‐month stint in the civil service or a cash payment determined by the Mongolian Government; after conscription, soldiers can contract into military service for 2 or 4 years; volunteer military service for men and women is 24 months, which can be extended for another two years up to the age of 31 (2022)<br>
+18-27 years of age for compulsory and voluntary military service (can enter military schools at age 17); 12-month conscript service obligation for men in the army, air forces, or police (can be extended 3 months under special circumstances); conscription service can be exchanged for a 24‐month stint in the civil service or a cash payment determined by the Mongolian Government; after conscription, soldiers can contract into military service for 2 or 4 years; volunteer military service for men and women is 24 months, which can be extended for another two years up to the age of 31 (2023)<br>
 
 **Military deployments**<br>
 860 South Sudan (UNMISS) (May 2022)<br>

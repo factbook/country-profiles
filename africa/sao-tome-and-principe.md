@@ -141,7 +141,7 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-130 deaths/100,000 live births (2017 est.)<br>
+146 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 43.48 deaths/1,000 live births<br>
@@ -464,6 +464,11 @@ _female_: 34.3% (2021 est.) NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+2.01% of GDP (2021 est.)<br>
+1.82% of GDP (2020 est.)<br>
+2.6% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $103 million (2017 est.)<br>
 _expenditures_: $112.4 million (2017 est.)<br>
@@ -602,7 +607,6 @@ _subscriptions per 100 inhabitants_: 79 (2020 est.)<br>
 _general assessment_: local telephone network of adequate quality with most lines connected to digital switches; mobile cellular superior choice to landland; dial-up quality low; broadband expensive (2018)<br>
 _domestic_: fixed-line roughly 1 per 100 and mobile-cellular teledensity roughly 79 telephones per 100 persons (2020)<br>
 _international_: country code - 239; landing points for the Ultramar GE and ACE submarine cables&nbsp;from South Africa&nbsp;to over 20&nbsp;West African countries and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 government-owned TV station; 1 government-owned radio station; 3 independent local radio stations authorized in 2005 with 2 operating at the end of 2006; transmissions of multiple international broadcasters are available<br>
@@ -628,7 +632,7 @@ _inventory of registered aircraft operated by air carriers_: 1<br>
 S9<br>
 
 **Airports**<br>
-_total_: 2 (2021)<br>
+2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
@@ -663,7 +667,7 @@ the FASTP has approximately 500 personnel (2022)<br>
 the FASTP has a limited inventory of light weapons (2022)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for compulsory military service; 17 is the legal minimum age for voluntary service (2021)<br>
+18 is the legal minimum age for compulsory military service (reportedly not enforced); 17 is the legal minimum age for voluntary service (2023)<br>
 
 **Military - note**<br>
 the FASTP is one of the smallest militaries in Africa and consists of only a few companies of ground troops and some small patrol boats (2022)<br>

@@ -147,7 +147,7 @@ _65 years and over_: 0.87 male(s)/female<br>
 _total population_: 1.03 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-16 deaths/100,000 live births (2017 est.)<br>
+22 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 14.58 deaths/1,000 live births<br>
@@ -477,9 +477,18 @@ _female_: 41.7% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 40.9 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 27.9% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 0.6% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 29.6% (2005)<br>
+
+**Remittances**<br>
+0.55% of GDP (2020 est.)<br>
+0.47% of GDP (2019 est.)<br>
+0.4% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $74.4 billion (2017 est.)<br>
@@ -614,7 +623,6 @@ _subscriptions per 100 inhabitants_: 152 (2020 est.)<br>
 _general assessment_: Iran&rsquo;s telecom infrastructure has suffered from sanctions in recent years, which prevented the import of equipment and devices and encouraged widespread smuggling, with a consequent loss of tax revenue; to address this, the government introduced a device registration scheme, and bolstered the capacity for domestically manufactured mobile phones; companies have invested in broadening the reach of their LTE networks, which has increased network capacity and improved the quality of mobile broadband services; the country is also looking to 5G; the sector is still limited by low frequency bands; the government is addressing this with plans to reallocate the 3.5GHz band for 5G use; Iran is keen to grow its digital economy; Iran offers significant opportunities for growth in the telecoms sector; the country has one of the largest populations in the Middle East, and there is a high proportion of youthful, tech savvy users having considerable demand for both fixed and mobile telecom services; companies are offering national roaming to improve services in rural areas (2022)<br>
 _domestic_: approximately 35 per 100 for fixed-line and 152 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 98; landing points for Kuwait-Iran, GBICS &amp;&nbsp;MENA, FALCON, OMRAN/3PEG Cable System, POI and UAE-Iran submarine fiber-optic cable to&nbsp;the&nbsp;Middle East, Africa and India;&nbsp;(TAE) fiber-optic line runs from Azerbaijan through the northern portion of Iran to Turkmenistan with expansion to Georgia and Azerbaijan; HF radio and microwave radio relay to Turkey, Azerbaijan, Pakistan, Afghanistan, Turkmenistan, Syria, Kuwait, Tajikistan, and Uzbekistan; satellite earth stations - 13 (9 Intelsat and 4 Inmarsat) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-run broadcast media with no private, independent broadcasters; Islamic Republic of Iran Broadcasting (IRIB), the state-run TV broadcaster, operates 19 nationwide channels including a news channel, about 34 provincial channels, and several international channels; about 20 foreign Persian-language TV stations broadcasting on satellite TV are capable of being seen in Iran; satellite dishes are illegal and, while their use is subjectively tolerated, authorities confiscate satellite dishes from time to time; IRIB operates 16 nationwide radio networks, a number of provincial stations, and an external service; most major international broadcasters transmit to Iran (2019)<br>
@@ -642,7 +650,7 @@ _annual freight traffic on registered air carriers_: 290.74 million (2018) mt-km
 EP<br>
 
 **Airports**<br>
-_total_: 319 (2021)<br>
+319 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 140<br>
@@ -690,8 +698,8 @@ _container port(s) (TEUs)_: Bandar Abbas<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the military forces of Iran are divided between the Islamic Republic of Iran Regular Forces (Artesh) and the Islamic Revolutionary Guard Corps (Sepah)<br><br>Islamic Republic of Iran Regular Forces or Islamic Republic of Iran Army (Artesh): Ground Forces, Navy (includes marines), Air Force, Air Defense Forces; Islamic Revolutionary Guard Corps (IRGC or Sepah): Ground Forces, Navy (includes marines), Aerospace Force (controls strategic missile force), Qods Force (aka Quds Force; special operations), Cyber Electronic Command, Basij Paramilitary Forces; Law Enforcement Forces (2022)<br>
-<strong>note 1:</strong> the Artesh Navy operates Iran’s larger warships and operates in the Gulf of Oman, the Caspian Sea, and deep waters in the region and beyond; the IRGC Navy has responsibility for the closer-in Persian Gulf and Strait of Hormuz<br><br><strong>note 2:</strong> the Basij is a volunteer paramilitary group under the IRGC with local organizations across the country, which sometimes acts as an auxiliary law enforcement unit; it is formally known as the Organization for the Mobilization of the Oppressed; it is also known as the Popular Mobilization Army<br><br><strong>note 3: </strong>Law Enforcement Forces include border and security troops<br>
+the military forces of Iran are divided between the Islamic Republic of Iran Regular Forces (Artesh) and the Islamic Revolutionary Guard Corps (Sepah)<br><br>Islamic Republic of Iran Regular Forces or Islamic Republic of Iran Army (Artesh): Ground Forces, Navy (includes marines), Air Force, Air Defense Forces; Islamic Revolutionary Guard Corps (IRGC or Sepah): Ground Forces, Navy (includes marines), Aerospace Force (controls strategic missile force), Qods Force (aka Quds Force; special operations), Cyber Electronic Command, Basij Paramilitary Forces; Internal security forces (2022)<br>
+<strong>note 1:</strong> the Artesh Navy operates Iran’s larger warships and operates in the Gulf of Oman, the Caspian Sea, and deep waters in the region and beyond; the IRGC Navy has responsibility for the closer-in Persian Gulf and Strait of Hormuz<br><br><strong>note 2:</strong> the Basij is a volunteer paramilitary group under the IRGC with local organizations across the country, which sometimes acts as an auxiliary law enforcement unit for the IRGC; it is formally known as the Organization for the Mobilization of the Oppressed; it is also known as the Popular Mobilization Army<br><br><strong>note 3: </strong>the Ministry of Intelligence and Security and law enforcement forces under the Interior Ministry, which report to the president, and the IRGC, which reports to the supreme leader, share responsibility for law enforcement and maintaining order; law enforcement forces include border and other security troops<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2021 est.)<br>
@@ -707,8 +715,8 @@ information varies; approximately 550-600,000 active armed forces personnel; app
 the Iranian military's inventory includes a mix of domestically produced and mostly older foreign equipment largely of Chinese, Russian, Soviet, and US origin (US equipment acquired prior to the Islamic Revolution in 1979); Iran has also received some military equipment from North Korea, including midget submarines and ballistic missiles; Iran has a defense industry with the capacity to develop, produce, support, and sustain air, land, missile, and naval weapons programs (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for men for compulsory military service; 16 years of age for volunteers; 17 years of age for Law Enforcement Forces; 15 years of age for Basij Forces (Popular Mobilization Army); conscript military service obligation is 18-24 months, depending on the location of service (soldiers serving in places of high security risk and deprived areas serve shorter terms); women exempt from military service (2021)<br>
-<strong>note: </strong>as of 2019, approximately 80% of Artesh ground forces personnel were conscripts, while Navy and Air/Air Defense Force personnel were primarily volunteers; conscripts reportedly comprised more than 50% of the IRGC<br>
+military service is compulsory for all Iranian males 18/19 to approximately age 40; 16 for voluntary military service (may be as low as 15 for the Basij); conscript military service obligation is 18-24 months, depending on the location of service (soldiers serving in places of high security risk and deprived areas serve shorter terms); women exempt from military service (2023)<br>
+<strong>note: </strong>conscripts serve in the Artesh, IRGC, and Law Enforcement; approximately 80% of Artesh ground forces personnel are conscripts, while Navy and Air/Air Defense Force personnel are primarily volunteers; conscripts reportedly comprise more than 50% of the IRGC<br>
 
 **Military deployments**<br>
 estimated to have up to 3,000 military personnel in Syria (2022)<br>

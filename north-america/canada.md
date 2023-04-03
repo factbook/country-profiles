@@ -156,7 +156,7 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 29.4 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
-10 deaths/100,000 live births (2017 est.)<br>
+11 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 4.31 deaths/1,000 live births<br>
@@ -204,6 +204,9 @@ _unimproved: total_: total: 1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
+
+**Major infectious diseases**<br>
+<p><strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in North America; Canada is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 
 **Obesity - adult prevalence rate**<br>
 29.4% (2016)<br>
@@ -278,6 +281,9 @@ _rate of urbanization_: 0.95% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.08% of GDP (2018 est.)<br>
+
+**Major infectious diseases**<br>
+<p><strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in North America; Canada is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 25,103,034 tons (2014 est.)<br>
@@ -492,9 +498,18 @@ _female_: 13.1% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 33.3 (2017 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 9.1% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.3% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 24.8% (2000)<br>
+
+**Remittances**<br>
+0.04% of GDP (2021 est.)<br>
+0.05% of GDP (2020 est.)<br>
+0.08% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $649.6 billion (2017 est.)<br>
@@ -624,18 +639,17 @@ _Total energy consumption per capita 2019_: 403.7 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 13.34 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
+_total subscriptions_: 12.928 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 34 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 32.36 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 86 (2020 est.)<br>
+_total subscriptions_: 32.723 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 86 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the Canadian telecom market continues to show steady development as operators invest in network upgrades; much of the investment among telcos has been channelled into LTE infrastructure to capitalize on consumer demand for mobile data services, while there has also been further investment in 5G; investment programs have also been supported by regulatory efforts to ensure that operators have spectrum available to develop 5G services; an investment in fixed-line infrastructure, focused on FttP and, among cable broadband providers; government policy has encouraged the extension of broadband to rural and regional areas, with the result that services are almost universally available and the emphasis now is on improving service speeds to enable the entire population to benefit from the digital economy and society; cable broadband is the principal access platform, followed by DSL; the mobile rate remains comparatively low by international standards; Canadians have provided for LTE and LTE-A infrastructure; despite topographical challenges and the remoteness of many areas, the major players effectively offer 99% population coverage with LTE; operators now provide up to 70% population coverage with 5G (2022)<br>
-_domestic_: Nearly 37 per 100 fixed-line and 96 per 100 mobile-cellular teledensity; domestic satellite system with about 300 earth stations (2020)<br>
+_domestic_: Nearly 34 per 100 fixed-line and 86 per 100 mobile-cellular teledensity (2021)<br>
 _international_: country code - 1; landing points for the Nunavut Undersea Fiber Optic Network System, Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine cables providing links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 2 public TV broadcasting networks, 1 in English and 1 in French, each with a large number of network affiliates; several private-commercial networks also with multiple network affiliates; overall, about 150 TV stations; multi-channel satellite and cable systems provide access to a wide range of stations including US stations; mix of public and commercial radio broadcasters with the Canadian Broadcasting Corporation (CBC), the public radio broadcaster, operating 4 radio networks, Radio Canada International, and radio services to indigenous populations in the north; roughly 1,119 licensed radio stations (2016)<br>
@@ -663,7 +677,7 @@ _annual freight traffic on registered air carriers_: 3,434,070,000 (2018) mt-km<
 C<br>
 
 **Airports**<br>
-_total_: 1,467 (2021)<br>
+1,467 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 523<br>
@@ -720,7 +734,7 @@ Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force, C
 <strong>note: </strong>the Army reserves include the Canadian Rangers, which provides a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2021 est.)<br>
+1.3% of GDP (2021 est.)<br>
 1.4% of GDP (2020)<br>
 1.3% of GDP (2019)<br>
 1.3% of GDP (2018)<br>

@@ -138,7 +138,7 @@ _65 years and over_: 0.61 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-58 deaths/100,000 live births (2017 est.)<br>
+42 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 22.96 deaths/1,000 live births<br>
@@ -454,6 +454,11 @@ _female_: 40.7% (2021 est.)<br>
 _lowest 10%_: 1.9%<br>
 _highest 10%_: 40.6% (2000)<br>
 
+**Remittances**<br>
+16.12% of GDP (2021 est.)<br>
+14.43% of GDP (2020 est.)<br>
+12.18% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $493.5 million (2017 est.)<br>
 _expenditures_: $546.7 million (2017 est.)<br>
@@ -582,18 +587,17 @@ _Total energy consumption per capita 2019_: 26.539 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 57,668 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 10 (2020 est.)<br>
+_total subscriptions_: 53,586 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 544,729 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 98 (2020 est.)<br>
+_total subscriptions_: 590,171 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: LTE reaches almost 40% of the population; regulator awards commercial 4G licenses and starts 5G pilot; govt. extends USD 25 million for submarine fiber-optic cable project linking Africa to Portugal and Brazil (2020)<br>
-_domestic_: a little over 10 per 100 fixed-line teledensity and nearly 98 per 100 mobile-cellular; fiber-optic ring, completed in 2001, links all islands providing Internet access and ISDN services; cellular service introduced in 1998; broadband services launched early in the decade (2020)<br>
+_domestic_: 9 per 100 fixed-line teledensity and nearly 100 per 100 mobile-cellular (2021)<br>
 _international_: country code - 238; landing points for the Atlantis-2, EllaLink, Cabo&nbsp;Verde Telecom Domestic Submarine Cable Phase 1,&nbsp;2, 3 and WACS fiber-optic transatlantic telephone cable that provides links to South America, Africa, and Europe; HF radiotelephone to Senegal and Guinea-Bissau; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-run TV and radio broadcast network plus a growing number of private broadcasters; Portuguese public TV and radio services for Africa are available; transmissions of a few international broadcasters are available (2019)<br>
@@ -621,7 +625,7 @@ _annual freight traffic on registered air carriers_: 1,728,152 (2015) mt-km<br>
 D4<br>
 
 **Airports**<br>
-_total_: 9 (2021)<br>
+9 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 9<br>
@@ -661,7 +665,7 @@ approximately 1,200 personnel including about 100 in the Coast Guard (2022)<br>
 the FACV has a limited amount of mostly dated and second-hand equipment, largely from China, some European countries, and the former Soviet Union (2022)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age for male and female selective compulsory military service; 2-years conscript service obligation; 17 years of age for voluntary service (with parental consent) (2022)<br>
+18-35 years of age for male and female selective compulsory military service; 24-month conscript service obligation; 17 years of age for voluntary service (with parental consent) (2023)<br>
 
 **Military - note**<br>
 as of 2022, the FACV/National Guard was mostly a ground force with 2 infantry battalions and a small air component with a maritime patrol squadron; the Coast Guard had a few coastal patrol craft and patrol boats<br>

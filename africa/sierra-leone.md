@@ -147,7 +147,7 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-1,120 deaths/100,000 live births (2017 est.)<br>
+443 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 72.3 deaths/1,000 live births<br>
@@ -477,6 +477,11 @@ _female_: 7.6% (2021 est.)<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 33.6% (2003)<br>
 
+**Remittances**<br>
+4.36% of GDP (2020 est.)<br>
+1.67% of GDP (2019 est.)<br>
+1.79% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $562 million (2017 est.)<br>
 _expenditures_: $846.4 million (2017 est.)<br>
@@ -614,7 +619,6 @@ _subscriptions per 100 inhabitants_: 86 (2020 est.)<br>
 _general assessment_: the telecom sector has only gradually recovered from the destruction caused during the war years, and only since 2019 has there been an effective terrestrial fiber backbone infrastructure, while the cable link to neighboring Guinea was not completed until February 2020; there is considerable available capacity from the ACE submarine cable and the national fiber network, but this is used inefficiently and so the price of internet connectivity remains one of the highest in the region; the theft of equipment and cabling, compounded by neglect, mismanagement, and under investment, means that telcos continue to operate in difficult conditions; the telecom regulator has made efforts to improve the market, including the liberalization of the international gateway and regular checks on QoS; the regulator reduced the price floor for mobile voice calls in early 2020, though consumers objected to the MNOs withdrawing a number of cheap packages as a response; the mobile sector has been the main driver of overall telecom revenue (2022)<br>
 _domestic_: fixed-line 0 per 100 and mobile-cellular just over 86 per 100 (2020)<br>
 _international_: country code - 232; landing point for the ACE submarine cable linking to South Africa, over 20 western African countries and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 <p>1 government-owned TV station; 3 private TV stations; a pay-TV service began operations in late 2007; 1 government-owned national radio station; about two-dozen private radio stations primarily clustered in major cities; transmissions of several international broadcasters are available </p> (2019)<br>
@@ -636,7 +640,7 @@ _annual freight traffic on registered air carriers_: 0 (2015) mt-km<br>
 9L<br>
 
 **Airports**<br>
-_total_: 8 (2021)<br>
+8 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

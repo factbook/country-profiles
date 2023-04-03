@@ -150,7 +150,7 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data does not cover Kosovo or Metohija<br>
 
 **Maternal mortality ratio**<br>
-12 deaths/100,000 live births (2017 est.)<br>
+10 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 4.55 deaths/1,000 live births<br>
@@ -494,9 +494,18 @@ _female_: 33.7% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 36.2 (2017 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 25.6% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 7% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
 _highest 10%_: 23.8% (2011)<br>
+
+**Remittances**<br>
+7.29% of GDP (2021 est.)<br>
+7.25% of GDP (2020 est.)<br>
+8.23% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $17.69 billion (2017 est.)<br>
@@ -632,7 +641,6 @@ _subscriptions per 100 inhabitants_: 120 (2020 est.)<br>
 _general assessment_: Serbia&rsquo;s telecom industry has been liberalized in line with the principles of the EU&rsquo;s regulatory framework for communications, focused on encouraging competition in telecom products and services, and ensuring universal access; considerable network investment has been undertaken in Serbia by incumbent and alternative operators in recent years, despite economic difficulties; this has helped to stimulate internet usage, which has also been bolstered by improved affordability as prices are reduced through competition; the pandemic has stimulated consumer take up of services, particularly mobile data; the government&rsquo;s various initiatives to improve rural broadband availability have also been supported by European development loans; Serbia&rsquo;s high mobile services, partly the result of multiple SIM card use, has weighed on revenue growth in recent years, placing further pressure on operators to develop business models which encourage consumer use of mobile data services also in response to the continued substitution of fixed-line for mobile voice calls; the regulator has yet to auction 5G-suitable frequencies, though operators are already investing in their networks in preparation for this next growth frontier; during 2021 the regulator resumed the process towards a 5G spectrum auction, which had been delayed owing to the onset of the covid-19 pandemic (2022)<br>
 _domestic_: fixed-line over 37 per 100 and mobile-cellular over 120 per 100 persons (2020)<br>
 _international_: country code - 381<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Internet country code**<br>
 .rs<br>
@@ -657,7 +665,7 @@ _annual freight traffic on registered air carriers_: 17.71 million (2018) mt-km<
 YU<br>
 
 **Airports**<br>
-_total_: 26 (2021)<br>
+26 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 10<br>
@@ -727,10 +735,10 @@ the Serbian Armed Forces were established in June 2006; the Serbian military tra
 <p><em>Serbia-Bosnia and Herzegovina</em>: Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute</p> <p><em>Serbia-Bulgaria</em>: none identified</p> <p><em>Serbia-Croatia</em>: Serbia and Croatia dispute their border along the Danube; Serbia claims the border is the median between the current Danube shorelines, with the land to the eastern side of the median belonging to Serbia; Croatia contends that the boundary is demarcated according to historic maps, despite the river having meandered since then</p> <p><em>Serbia-Hungary</em>: none identified</p> <p><em>Serbia-Kosovo</em>: Serbia with several other states protested the US and other states' recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; since 1999, NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo (UNMIK) authority have continued to keep the peace within Kosovo between the ethnic Albanian majority and the Serb minority; in October 2021, NATO-led KFOR increased patrols along the border with Serbia to deescalate hostilities caused by a dispute over license plates</p> <p><em>Serbia-Montenegro</em>: the former republic boundary serves as the boundary until a line is formally delimited and demarcated</p> <p><em>Serbia-North Macedonia</em>: none identified</p> <p><em>Serbia-Romania</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,334 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2022); 22,716 (Ukraine) (includes Ukrainian refugees in Kosovo; as of 22 November 2022)<br>
+_refugees (country of origin)_: 17,334 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,594 (includes stateless persons in Kosovo) (2022)<br>
-<strong>note:</strong> 944,634 estimated refugee and migrant arrivals (January 2015-February 2023); Serbia is predominantly a transit country and hosts an estimated 7,271 migrants and asylum seekers as of November 2022<br>
+<strong>note:</strong> 948,336 estimated refugee and migrant arrivals (January 2015-March 2023); Serbia is predominantly a transit country and hosts an estimated 7,271 migrants and asylum seekers as of November 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>

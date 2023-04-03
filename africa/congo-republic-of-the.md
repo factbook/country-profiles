@@ -153,7 +153,7 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-378 deaths/100,000 live births (2017 est.)<br>
+282 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 46.62 deaths/1,000 live births<br>
@@ -205,7 +205,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 9.6% (2016)<br>
@@ -293,10 +293,10 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to refugee influx -</em> as of 30 April 2022, about 29,100 refugees from the Central African Republic and 22,100 from the Democratic Republic of the Congo were residing in the country, mostly in Likouala and Plateaux departments; host communities face food shortages and limited livelihood opportunities, and refugees’ food security is essentially dependent on continued humanitarian assistance (2022)<br>
+_severe localized food insecurity_: <em>due to floods -</em> above average rainfall amounts since November 2022 triggered flooding in December 2022 and January 2023 in central and northern parts of the country, displacing people; according to damage assessment reports, about 165,000 people have been affected in 23 districts in the departments of Cuvette, Likouala, Plateaux and Sangha (2023)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 451,200 tons (1993 est.)<br>
@@ -507,6 +507,11 @@ _female_: 42.5% (2021 est.)<br>
 _lowest 10%_: 2.1%<br>
 _highest 10%_: 37.1% (2005)<br>
 
+**Remittances**<br>
+0.12% of GDP (2020 est.)<br>
+0.21% of GDP (2019 est.)<br>
+0.08% of GDP (2016 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.965 billion (2017 est.)<br>
 _expenditures_: $2.578 billion (2017 est.)<br>
@@ -637,14 +642,13 @@ _total subscriptions_: 17,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.89 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 89 (2020 est.)<br>
+_total subscriptions_: 5,558,658 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 97 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: suffering from economic challenges of stimulating recovery and reducing poverty; primary network consists of microwave radio relay and coaxial cable with services barely adequate for government use; key exchanges are in Brazzaville, Pointe-Noire, and Loubomo; intercity lines frequently out of order; youth are seeking the Internet more than their parents and often gain access through cyber cafes; only the most affluent have Internet access in their homes; operator has plans to upgrade national broadband through fiber link to West Africa Cable System (WACS) landing station at Pointe-Noire with connections to Angola and DRC; fiber network project with aims to connect north and south regions; DRC operator added fiber link between Brazzaville and Kinshasa (2020)<br>
-_domestic_: fixed-line infrastructure inadequate, providing less than 1 fixed-line connection per 100 persons; mobile-cellular 89 per 100 persons (2020)<br>
+_domestic_: fixed-line infrastructure inadequate, providing less than 1 fixed-line connection per 100 persons; mobile-cellular 97 per 100 persons (2021)<br>
 _international_: country code - 242; WACS submarine cables to Europe and Western and South Africa; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 state-owned TV and 3 state-owned radio stations; several privately owned TV and radio stations; satellite TV service is available; rebroadcasts of several international broadcasters are available<br>
@@ -672,7 +676,7 @@ _annual freight traffic on registered air carriers_: 4.6 million (2018) mt-km<br
 TN<br>
 
 **Airports**<br>
-_total_: 27 (2021)<br>
+27 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 8<br>
@@ -742,6 +746,6 @@ the FAC is viewed as having limited capabilities due to obsolescent and poorly m
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 29,639 (Central African Republic), 28,554 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 26,950 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022); 30,031 (Central African Republic) (2023)<br>
 _IDPs_: 159,830 (multiple civil wars since 1992) (2022)<br>
 

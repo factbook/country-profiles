@@ -138,7 +138,7 @@ _65 years and over_: 0.56 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-89 deaths/100,000 live births (2017 est.)<br>
+107 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 22 deaths/1,000 live births<br>
@@ -556,7 +556,6 @@ _subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
 _general assessment_: following years of isolationism and economic under-achievement, North Korea languishes near the bottom of the world&rsquo;s telecom maturity index alongside Afghanistan and Turkmenistan (who also happen to be struggling under repressive political regimes); the obstacles to building a functioning telecom network are so numerous that a fixed-line segment barely exists; mobile communication is estimated to have eased up slightly to reach 19% in 2021, yet the high cost of ownership coupled with strict censorship makes mobile communications the exclusive domain of senior government officials and diplomats; for those citizens living close to China, it has been possible to obtain Chinese handsets and SIM cards, and to connect to towers (illegally) located just across the border; while this offers access to the outside world and at much lower prices than the state-controlled offerings, the risks are high including steep fines and the possibility of jail time; North Korea has been slightly more effective in building an IT sector and a nascent digital economy on the back of a concerted effort to grow a sizeable, well-trained IT workforce; but even here, its capabilities have been directed more towards nefarious activities such as cyber crime and hacking into Western countries&rsquo; computer systems; North Korea&rsquo;s determination to put itself offside with the rest of the world in pursuit of its ideology can only lead to tighter controls on communications inside and outside of the country (2022)<br>
 _domestic_: fixed-lines are approximately 5 per 100 and mobile-cellular 23 per 100 persons (2020)<br>
 _international_: country code - 850; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Russian - Indian Ocean region); other international connections through Moscow and Beijing<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 no independent media; radios and TVs are pre-tuned to government stations; 4 government-owned TV stations; the Korean Workers' Party owns and operates the Korean Central Broadcasting Station, and the state-run Voice of Korea operates an external broadcast service; the government prohibits listening to and jams foreign broadcasts (2019)<br>
@@ -576,7 +575,7 @@ _annual freight traffic on registered air carriers_: 250,000 (2018) mt-km<br>
 P<br>
 
 **Airports**<br>
-_total_: 82 (2021)<br>
+82 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 39<br>
@@ -636,7 +635,7 @@ the KPA is equipped with older weapon systems originally acquired from the forme
 <strong>note:</strong> since 2006, the UN Security Council has passed nearly a dozen resolutions sanctioning North Korea for developing nuclear weapons and related activities, starting with Resolution 1718, which condemned the North's first nuclear test and placed sanctions on the supply of heavy weaponry (including tanks, armored combat vehicles, large calibre artillery, combat aircraft, attack helicopters, warships, and missiles and missile launchers), missile technology and material, and select luxury goods; additional resolutions have expanded to include all arms, including small arms and light weapons; the US and other countries have also imposed unilateral sanctions<br>
 
 **Military service age and obligation**<br>
-17 years of age for compulsory military service for men and women; service obligation up to 10 years for men and up to 8 years for women (2023)<br>
+17 years of age for compulsory military service for men and women; service obligation up to 10 years for men and 5-8 years for women (2023)<br>
 <strong>note:</strong> the bulk of the KPA is made up of conscripts; as many as 20% of North Korean males between the ages of 16 and 54 are in the military at a given time and possibly up to 30 percent of males between the ages of 18 and 27, not counting the reserves or paramilitary units; women comprise about 20% of the military by some estimates<br>
 
 **Military - note**<br>

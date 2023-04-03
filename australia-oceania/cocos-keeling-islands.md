@@ -303,7 +303,7 @@ _international_: international code - 61 8; telephone, telex, and facsimile comm
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

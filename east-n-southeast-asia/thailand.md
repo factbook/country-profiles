@@ -153,7 +153,7 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 23.3 years (2009 est.)<br>
 
 **Maternal mortality ratio**<br>
-37 deaths/100,000 live births (2017 est.)<br>
+29 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 6.36 deaths/1,000 live births<br>
@@ -376,7 +376,7 @@ _judge selection and term of office_: Supreme Court judges selected by the Judic
 _subordinate courts_: courts of first instance and appeals courts within both the judicial and administrative systems; military courts<br>
 
 **Political parties and leaders**<br>
-Action Coalition of Thailand Party or ACT [ANEK Laothamatas]<br>Bhumjaithai Party (aka Phumchai Thai Party or PJT; aka Thai Pride Party) or BJT [ANUTIN Charnvirakul]<br>Chat Phatthana Party (National Development Party) [THEWAN Liptaphanlop]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [VARAWUT Silpa-archa]<br>New Economics Party or NEP [MINGKHWAN Sangsuwan]<br>Move Forward Party or MFP [PHITHA Limcharoenrat] (formed in 2020 from the disbanded Future Forward Party or FPP) <br>Palang Pracharat Party (People's State Power Party) or PPRP [PRAWIT Wongsuwan] (a pro-military party formed in 2018 by members of the military junta’s cabinet) <br>Prachachat Party of PCC [WAN Muhamad NOOR Matha]<br>Prachathipat Party (Democrat Party) or DP [JURIN Laksanawisit] <br>Puea Chat Party (For Nation Party) or PCP [SARUNWUT Sarunket]<br>Puea Thai Party (For Thais Party) or PTP [CHONLANON Sikaew]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party or TLP) [SERIPHISUT Temiyawet]<br>Thai Civilized Party or TCL [MONGKOLKIT Suksintharanon]<br>Thai Local Power Party or TLP [CHATCHAWAI Kong-udom]<br>Thai People Power Party or TLPT [NIKHOM Bunwiset]<br>Thai Raksa Chat Party (Thai National Preservation Party) [PRICHAPHON Phongpanit]<br>
+Action Coalition of Thailand Party or ACT [ANEK Laothamatas]<br>Bhumjaithai Party (aka Phumchai Thai Party or PJT; aka Thai Pride Party) or BJT [ANUTIN Charnvirakul]<br>Chat Phatthana Party (National Development Party) [THEWAN Liptaphanlop]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [VARAWUT Silpa-archa]<br>New Economics Party or NEP [MINGKHWAN Sangsuwan]<br>Move Forward Party or MFP [PHITHA Limcharoenrat] (formed in 2020 from the disbanded Future Forward Party or FPP) <br>Palang Pracharat Party (People's State Power Party) or PPRP [PRAWIT Wongsuwan] (a pro-military party formed in 2018 by members of the military junta’s cabinet) <br>Prachachat Party of PCC [WAN Muhamad NOOR Matha]<br>Prachathipat Party (Democrat Party) or DP [JURIN Laksanawisit] <br>Puea Chat Party (For Nation Party) or PCP [SARUNWUT Sarunket]<br>Puea Thai Party (For Thais Party) or PTP [PAETHONGTARN Shinawatra]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party or TLP) [SERIPHISUT Temiyawet]<br>Thai Civilized Party or TCL [MONGKOLKIT Suksintharanon]<br>Thai Local Power Party or TLP [CHATCHAWAI Kong-udom]<br>Thai People Power Party or TLPT [NIKHOM Bunwiset]<br>Thai Raksa Chat Party (Thai National Preservation Party) [PRICHAPHON Phongpanit]<br>
 
 **International organization participation**<br>
 ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMOGIP, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -496,9 +496,18 @@ _female_: 8.1% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 36.4 (2018 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 24.3% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 31.5% (2009 est.)<br>
+
+**Remittances**<br>
+1.79% of GDP (2021 est.)<br>
+1.65% of GDP (2020 est.)<br>
+1.5% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $69.23 billion (2017 est.)<br>
@@ -638,7 +647,6 @@ _subscriptions per 100 inhabitants_: 186.16 (2019)<br>
 _general assessment_: Thailand&rsquo;s telecom sector is relatively mature and hosts a mix of public and private sector players; the mobile market is highly developed and has experienced strong growth over the last seven years; the market returned to growth in 2021 after it contracted in 2020 driven by the Covid-19 pandemic, and a steep decline in inbound tourism; it remains highly saturated, owing to overall maturity and the popularity of multiple SIM card use, which has resulted in a particularly high penetration rate; in general, the sector retains considerable potential given the impetus of 5G, the recent spectrum auctions, and continued network deployments by the country&rsquo;s network operators; further auctions of spectrum in the 700MHz band (being repurposed from digital TV broadcasting), and in the 3.6GHz range will further improve network capacity; in the wire line segment, the decline in fixed-line penetration is expected to continue as subscribers migrate to mobile networks for voice and data services; the emphasis among operators has been to bolster their fiber footprints in key high-value areas; the transition to fiber from DSL and cable has also been facilitated by changes to the regulatory structure that have removed some barriers to investment; this is supporting the cannibalization of older copper-based DSL lines by fiber; the returns from this investment remain a long-term prospect as consumers still favor entry-level packages; there is also strong interest from the government, as well as private vendors, in establishing Thailand as a data center hub to serve the region; the size, capacity and spread of existing data centers in the Greater Mekong Subregion (GMS) outside of Thailand is small; Thailand retains some advantages to attract investment, including improved fiber connectivity and international bandwidth; increasing submarine capacity, such as the SJC2 cable to come online later in 2022, will considerably improve Thailand&rsquo;s potential as a regional hub (2022)<br>
 _domestic_: fixed-line system provided by both a government-owned and commercial provider; wireless service expanding; fixed-line over 7 per 100 and mobile-cellular nearly 167 per 100 (2020)<br>
 _international_: country code - 66; landing points for the AAE-1, FEA, SeaMeWe-3,-4, APG, SJC2, TIS, MCT and AAG submarine cable systems providing links throughout Asia, Australia, Africa, Middle East, Europe, and US; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 26 digital TV stations in Bangkok broadcast nationally, 6 terrestrial TV stations in Bangkok broadcast nationally via relay stations - 2 of the stations are owned by the military, the other 4 are government-owned or controlled, leased to private enterprise, and all are required to broadcast government-produced news programs twice a day; multi-channel satellite and cable TV subscription services are available; radio frequencies have been allotted for more than 500 government and commercial radio stations; many small community radio stations operate with low-power transmitters (2017)<br>
@@ -666,7 +674,7 @@ _annual freight traffic on registered air carriers_: 2,666,260,000 (2018) mt-km<
 HS<br>
 
 **Airports**<br>
-_total_: 101 (2021)<br>
+101 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 63<br>
@@ -729,7 +737,7 @@ estimated 300,000 active duty personnel (200,000 Army; 70,000 Navy; 30,000 Air F
 the RTARF has a diverse array of foreign-supplied weapons systems, including a large amount of older US equipment; in recent years, Thailand has received arms from nearly 20 countries, including China, South Korea, Sweden, Ukraine, and the US; Thailand has been making efforts to increase its domestic defense production capabilities in such areas as armored vehicles, unmanned aerial systems, and other military technologies (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; 21 years of age for compulsory military service for men; men register at 18 years of age; volunteer service obligation may be as short as 6 or 12 months, depending on educational qualifications; conscript service obligation also varies by educational qualifications, but is typically 24 months (2022)<br>
+18 years of age for voluntary military service for men and women; 21 years of age for compulsory military service for men; men register at 18 years of age; volunteer service obligation may be as short as 6 or 12 months, depending on educational qualifications; conscript service obligation also varies by educational qualifications, but is typically 24 months (2023)<br>
 <strong>note 1:</strong> serving in the armed forces is a national duty of all Thai citizens; conscription was introduced in 1905; it includes women, however, only men over the age of 21 who have not gone through reserve training are conscripted; conscripts are chosen by lottery (on draft day, eligible draftees can request volunteer service, or they may choose to stay for the conscription lottery); approximately 75-100,000 men are drafted for military service each year and conscripts reportedly comprise as much as 50% of the armed forces<br><br><strong>note 2:</strong> as of 2020, women comprised about 8% of active-duty military personnel<br>
 
 **Military deployments**<br>

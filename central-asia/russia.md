@@ -156,7 +156,7 @@ _total population_: 0.86 male(s)/female (2023 est.)<br>
 25.2 years (2013 est.)<br>
 
 **Maternal mortality ratio**<br>
-17 deaths/100,000 live births (2017 est.)<br>
+14 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 6.33 deaths/1,000 live births<br>
@@ -510,9 +510,18 @@ _female_: 18.4% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 36 (2020 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 28% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 7.4% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
 _highest 10%_: 32.2% (2012 est.)<br>
+
+**Remittances**<br>
+0.54% of GDP (2021 est.)<br>
+0.67% of GDP (2020 est.)<br>
+0.62% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $258.6 billion (2017 est.)<br>
@@ -652,7 +661,6 @@ _subscriptions per 100 inhabitants_: 164 (2020 est.)<br>
 _general assessment_: the telecom market is the largest in Europe, supported by a population approaching 147 million; the overall market is dominated by the western regions, particularly Moscow and St Petersburg which are the main cities and economic centers; all sectors of the market have been liberalized, with competition most prevalent in the two largest regional markets; the fiber broadband sector has shown considerable growth, supported by the government&rsquo;s program to extend the reach of broadband to outlying regions; the development of 5G services has been stymied by the lack of spectrum; although MNOs have licenses to use 700MHz spectrum for 5G, this spectrum will not be released until at least August 2023; progress is being made by MNOs to develop a joint strategy to deploy 5G using shared network and spectrum assets; mobile penetration is high, though this is partly due to the popularity of multiple SIM card use; there is pressure on operator revenue from the poor economic climate, lower pricing resulting from intense competition, regulatory measures introduced in 2018 which saw the end of roaming charges, and the effects of the Covid-19 pandemic (2022)<br>
 _domestic_: cross-country digital trunk lines run from Saint Petersburg to Khabarovsk, and from Moscow to Novorossiysk; the telephone systems in 60 regional capitals have modern digital infrastructures; cellular services, both analog and digital, are available in many areas; in rural areas, telephone services are still outdated, inadequate, and low-density; nearly 19 per 100 for fixed-line and mobile-cellular a bit over 164 per 100 persons (2020)<br>
 _international_: country code - 7; landing points for the Far East Submarine Cable System, HSCS, Sakhalin-Kuril Island Cable, RSCN, BCS North-Phase 2, Kerch Strait Cable and the Georgia-Russian submarine cable system connecting Russia, Japan, Finland, Georgia and Ukraine; satellite earth stations provide access to Intelsat, Intersputnik, Eutelsat, Inmarsat, and Orbita systems (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 13 national TV stations with the federal government owning 1 and holding a controlling interest in a second; state-owned Gazprom maintains a controlling interest in 2 of the national channels; government-affiliated Bank Rossiya owns controlling interest in a fourth and fifth, while a sixth national channel is owned by the Moscow city administration; the Russian Orthodox Church and the Russian military, respectively, own 2 additional national channels; roughly 3,300 national, regional, and local TV stations with over two-thirds completely or partially controlled by the federal or local governments; satellite TV services are available; 2 state-run national radio networks with a third majority-owned by Gazprom; roughly 2,400 public and commercial radio stations<br>
@@ -680,7 +688,7 @@ _annual freight traffic on registered air carriers_: 6,810,610,000 (2018) mt-km<
 RA<br>
 
 **Airports**<br>
-_total_: 1,218 (2021)<br>
+1,218 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 594<br>
@@ -745,13 +753,13 @@ Armed Forces of the Russian Federation: Ground Troops (Sukhoputnyye Voyskia, SV)
 
 **Military and security service personnel strengths**<br>
 prior to Russia's invasion of Ukraine in February 2022, approximately 850,000 active-duty troops (300,000 Ground Troops; 40,000 Airborne Troops; 150,000 Navy; 160,000 Aerospace Forces; 70,000 Strategic Rocket Forces; approximately 20,000 special operations forces; approximately 100,000 other uniformed personnel (command and control, cyber, support, logistics, security, etc.); estimated 300,000 Federal National Guard Troops (2023)<br>
-<strong>note 1: </strong>in December 2022, the Russian Government announced a target level of 1.15 million total troops; in early 2023, it announced further plans to expand the size of the armed forces to 1.5 million but did not provide a timeline<br><br><strong>note 2: </strong>Russia was estimated to have as many as 50,000 private military contractors fighting in Ukraine as of early 2023<br>
+<strong>note 1: </strong>in December 2022, the Russian Government announced a target level of 1.15 million total troops and subsequently announced further plans to expand the size of the armed forces to 1.5 million, but did not provide a timeline<br><br><strong>note 2: </strong>Russia was estimated to have as many as 50,000 private military contractors fighting in Ukraine as of early 2023<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Russian Federation's military and paramilitary services are equipped with domestically produced weapons systems, although in recent years Russia has imported limited amounts of military hardware from several countries, including Czechia, France, Iran, Israel, Italy, Turkey, and Ukraine; the Russian defense industry is capable of designing, developing, and producing a full range of advanced air, land, missile, and naval systems; Russia is the world's second largest exporter of military hardware (2022)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory service for men; 18-40 for voluntary/contractual service; women and non-Russian citizens (18-30) may volunteer; men are registered for the draft at 17 years of age; 12-month service obligation (Russia offers the option of serving on a 24-month contract instead of completing a 12-month conscription period); reserve obligation for non-officers to age 50; enrollment in military schools from the age of 16 (2022)<br>
+18-27 years of age for compulsory service for men; 18-40 for voluntary/contractual service; women and non-Russian citizens (18-30) may volunteer; men are registered for the draft at 17 years of age; 12-month service obligation (Russia offers the option of serving on a 24-month contract instead of completing a 12-month conscription period); reserve obligation for non-officers to age 50; enrollment in military schools from the age of 16 (2023)<br>
 <strong>note 1:</strong> in May 2022, Russia's parliament approved a law removing the upper age limit for contractual service in the military; in November 2022, President Vladimir PUTIN signed a decree allowing dual-national Russians and those with permanent residency status in foreign countries to be drafted into the army for military service<br><br><strong>note 2: </strong>the Russian military takes on about 260,000 conscripts each year in two semi-annual drafts (Spring and Fall); as of 2021, conscripts comprised an estimated 30% of the Russian military's active duty personnel and most reserve personnel were former conscripts; in April of 2019, the Russian Government pledged its intent to end conscription as part of a decade-long effort to shift from a large, conscript-based military to a smaller, more professional force; an existing law allows for a 21-month alternative civil service for conscripts in hospitals, nursing homes and other facilities for those who view military duty as incompatible with their beliefs, but military conscription offices reportedly often broadly ignore requests for such service<br><br><strong>note 3:</strong> as of 2020, women made up about 5% of the active-duty military<br><br><strong>note 4:</strong> since 2015, foreigners 18-30 with a good command of Russian have been allowed to join the military on 5-year contracts and become eligible for Russian citizenship after serving 3 years; in October 2022, the Interior Ministry opened up recruitment centers for foreigners to sign a 1-year service contract with the armed forces, other troops, or military formations participating in the invasion of Ukraine with the promise of simplifying the process of obtaining Russian citizenship<br>
 
 **Military deployments**<br>

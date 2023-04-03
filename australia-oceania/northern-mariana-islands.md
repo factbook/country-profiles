@@ -456,7 +456,6 @@ _subscriptions per 100 inhabitants_: 36 (2004)<br>
 _general assessment_: digital fiber-optic cables and satellites connect the islands to worldwide networks; demand for broadband growing given that mobile services are the source for Internet across region; future launch of 5G (2020)<br>
 _domestic_: wide variety of services available including dial-up and broadband Internet, mobile cellular, international private lines, payphones, phone cards, voicemail, and automatic call distribution systems; fixed-line teledensity roughly 35 per 100 persons (2020)<br>
 _international_: country code - 1-670; landing points for the Atisa and Mariana-Guam submarine cables linking Mariana islands to Guam; satellite earth stations - 2 Intelsat (Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 TV broadcast station on Saipan; multi-channel cable TV services are available on Saipan; 9 licensed radio broadcast stations (2009)<br>
@@ -471,7 +470,7 @@ _percent of population_: 31% (2016 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 5 (2021)<br>
+5 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 3<br>

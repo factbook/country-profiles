@@ -128,7 +128,7 @@ _65 years and over_: 1.07 male(s)/female<br>
 _total population_: 1.07 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-183 deaths/100,000 live births (2017 est.)<br>
+60 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 25.61 deaths/1,000 live births<br>
@@ -432,6 +432,11 @@ _female_: 22% (2021 est.)<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 30.6% (2012)<br>
 
+**Remittances**<br>
+3.59% of GDP (2020 est.)<br>
+2.23% of GDP (2019 est.)<br>
+2.38% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $655.3 million (2017 est.)<br>
 _expenditures_: $737.4 million (2017 est.)<br>
@@ -560,18 +565,17 @@ _Total energy consumption per capita 2019_: 100.135 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 22,987 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
+_total subscriptions_: 19,680 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 745,137 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 97 (2020 est.)<br>
+_total subscriptions_: 778,008 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the small land-locked Kingdom of Bhutan has only recently emerged from decades of isolation from the modern world; that, and its mountainous terrain, left the country far back in the field in terms of teledensity as well as access to the Internet; over the last decade, the country has undergone a significant transformation due to the opening of its borders, liberalization of its telecom sector, and the active support from the government towards increased competition in the mobile, broadband, and ISP segments; the relatively widespread availability of the mobile platform has caused an explosion in mobile broadband subscriber numbers, growing from zero to over 100% penetration in just ten years (between 2010 and 2019).; the onset of the Covid-19 crisis in 2020 caused the subscription rates to drop back a little; growth is projected to return in 2022 (along with the broader mobile market) as the overall economy recovers; the government opens up more to foreign investment, trade, and tourism; and network expansion continues &ndash; the recent (December 2021) launch of 5G services by both of the country&rsquo;s mobile operators being particularly noteworthy (2022)<br>
-_domestic_: approximately 3 to 100 fixed-line and 97 to 100 mobile cellular; domestic service inadequate, notably in rural areas (2020)<br>
+_domestic_: approximately 3 to 100 fixed-line and 100 mobile cellular subscriptions per 100 people (2021)<br>
 _international_: country code - 975; international telephone and telegraph service via landline and microwave relay through India; satellite earth station - 1 Intelsat<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned TV station established in 1999; cable TV service offers dozens of Indian and other international channels; first radio station, privately launched in 1973, is now state-owned; 5 private radio stations are currently broadcasting (2012)<br>
@@ -599,7 +603,7 @@ _annual freight traffic on registered air carriers_: 690,000 (2018) mt-km<br>
 A5<br>
 
 **Airports**<br>
-_total_: 3 (2021)<br>
+3 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
@@ -627,7 +631,8 @@ the Royal Bhutan Army has an estimated 8,000 personnel (2022)<br>
 India has provided most of the Royal Bhutan Army's equipment (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; no conscription; militia training is compulsory for males aged 20-25, over a 3-year period; in 2021, the Royal Bhutan Army graduated from a year-long training course the first batch of 150 women to be allowed to serve in combat roles; previously, women were allowed to serve in medical and other non-combat roles (2022)<br>
+18 years of age for voluntary military service for men and women; no conscription; militia training is compulsory for males aged 20-25, over a 3-year period  (2023)<br>
+<strong>note: </strong>in 2021, the Royal Bhutan Army graduated from a year-long training course the first batch of 150 women to be allowed to serve in combat roles; previously, women were allowed to serve in medical and other non-combat roles<br>
 
 **Military - note**<br>
 India is responsible for military training, arms supplies, and the air defense of Bhutan (2022)<br>

@@ -141,7 +141,7 @@ _65 years and over_: 3.15 male(s)/female<br>
 _total population_: 2.16 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-3 deaths/100,000 live births (2017 est.)<br>
+9 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 5.06 deaths/1,000 live births<br>
@@ -465,6 +465,10 @@ _female_: 19.9% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 32.5 (2014 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 13.7% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 0.4% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
@@ -603,7 +607,6 @@ _subscriptions per 100 inhabitants_: 200.63 (2019)<br>
 _general assessment_: the UAE has a strong mobile market; while the 5G penetration rate is the second highest globally after China; this has underpinned growth in the mobile broadband sector, and has enabled the strong development in the take-up of rich content and applications, as well as m-commerce; to help increase the capacity of 5G networks in coming years, and so keep up with data demand, the government has allowed for the GSM networks to be closed down and for spectrum and other assets to be re-purposed for 5G by the end of 2022; the fixed-broadband network in the UAE is dominated by fiber, with DSL having a minor and declining presence; this focus on a fully fiber infrastructure has also facilitated growth in e-commerce, and has supported the government&rsquo;s long-term aim of transitioning the economy from its dependence on oil to being knowledge-based and supported by digital services; the country stands to benefit from having signed the Abraham Accord Declaration with Israel, which aims to normalize relations between the two countries; such benefits can be seen in the agreement to enable local ISPs to access Bezeq International&rsquo;s submarine cable infrastructure, and so improve direct connectivity to Europe, South East Asia, and Africa; the UAE&rsquo;s ISPs can also access Bezeq International&rsquo;s data center in Tel Aviv, improving internet services (2022)<br>
 _domestic_: microwave radio relay, fiber-optic and coaxial cable; fixed-line roughly 24 per 100 and mobile-cellular nearly 186 per 100 (2020)<br>
 _international_: country code - 971;&nbsp;landing points for the&nbsp;FLAG, SEA-ME-WE-3&nbsp;,-4 &amp; -5, Qater UAE&nbsp;Submarine Cable System, FALCON, FOG, Tat TGN-Gulf, OMRAN/EPEG Cable System, AAE-1, BBG, EIG, FEA, GBICS/MENA, IMEWE, Orient Express, TEAMS, TW1 and the UAE-Iran submarine cables, linking to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian) (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 except for the many organizations now operating in media free zones in Abu Dhabi and Dubai, most TV and radio stations remain government-owned; widespread use of satellite dishes provides access to pan-Arab and other international broadcasts; restrictions since June 2017 on some satellite channels and websites originating from or otherwise linked to Qatar (2018)<br>
@@ -631,7 +634,7 @@ _annual freight traffic on registered air carriers_: 15,962,900,000 (2018) mt-km
 A6<br>
 
 **Airports**<br>
-_total_: 43 (2021)<br>
+43 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 25<br>
@@ -689,7 +692,7 @@ the military's inventory is comprised of wide variety of mostly modern imported 
 
 **Military service age and obligation**<br>
 18-30 years of age for compulsory military service for men (compulsory service initiated in 2014); 17 years of age for volunteers with parental approval; men can volunteer up to age 40; 24-month general service obligation, 16 months for secondary school graduates; women can volunteer to serve for 9 months regardless of education (2022)<br>
-<strong>note 1:</strong> compulsory service may be completed in the uniformed military, the Ministry of Interior, the State Security Service, or other institutions designated by the military leadership<br><br><strong>note 2:</strong> the UAE military employs a considerable number—estimates range from a low of about 30% to as much as 70% of the force—of foreign personnel on contract; the UAE has also hired foreign mercenaries for some operations during its intervention in Yemen  <br>
+<strong>note 1:</strong> compulsory service may be completed in the uniformed military, the Ministry of Interior, the State Security Service, or other institutions designated by the military leadership<br><br><strong>note 2:</strong> the UAE military employs a considerable number—estimates range from a low of about 30% to as much as 70% of the force—of foreign personnel on contract; the UAE has also hired foreign mercenaries for some operations during its intervention in Yemen<br>
 
 **Military deployments**<br>
 estimates vary; reportedly a few hundred remain in Yemen; has maintained some troops at military bases in Eritrea and Somalia (Somaliland) (2022)<br>

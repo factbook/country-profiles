@@ -486,7 +486,6 @@ _subscriptions per 100 inhabitants_: 80 (2020 est.)<br>
 _general assessment_: modern system with total digital switching, uses fiber-optic cable and microwave radio relay; good interisland and international connections; broadband access; expansion of&nbsp;FttP (Fiber to the Home) markets; LTE launches; regulatory development and expansion in several markets point to investment and focus on data (2020)<br>
 _domestic_: fixed-line 76 per 100 persons, with mobile-cellular 80 per 100 (2020)<br>
 _international_: country code - 1-340; landing points for the BSCS, St Thomas-ST Croix System, Southern Caribbean Fiber, Americas II, GCN, MAC, PAN-AM and SAC submarine cable connections to US, the Caribbean, Central and South America; satellite earth stations - NA (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 about a dozen TV broadcast stations including 1 public TV station; multi-channel cable and satellite TV services are available; 24 radio stations<br>
@@ -501,7 +500,7 @@ _percent of population_: 64% (2019 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 2 (2021)<br>
+2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>

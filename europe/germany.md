@@ -151,7 +151,7 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 29.9 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-7 deaths/100,000 live births (2017 est.)<br>
+4 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.14 deaths/1,000 live births<br>
@@ -484,9 +484,18 @@ _female_: 6.6% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 31.7 (2018 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 10.7% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>
 _highest 10%_: 24% (2000)<br>
+
+**Remittances**<br>
+0.48% of GDP (2021 est.)<br>
+0.5% of GDP (2020 est.)<br>
+0.48% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $1.665 trillion (2017 est.)<br>
@@ -614,18 +623,17 @@ _Total energy consumption per capita 2019_: 161.174 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 38.3 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 46 (2020 est.)<br>
+_total subscriptions_: 38.6 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 46 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 107.4 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 128 (2020 est.)<br>
+_total subscriptions_: 106.4 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 128 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: with one of Europe&rsquo;s largest telecom markets, Germany hosts a number of significant operators which offer effective competition in the mobile and broadband sectors; the German mobile market is driven by mobile data, with the number of mobile broadband subscribers having increased rapidly in recent years; with LTE now effectively universally available, considerable progress has recently been made in building out 5G networks (2022)<br>
-_domestic_: extensive system of automatic telephone exchanges connected by modern networks of fiber-optic cable, coaxial cable, microwave radio relay, and a domestic satellite system; cellular telephone service is widely available, expanding rapidly, and includes roaming service to many foreign countries; approximately 46 per 100 for fixed-line and 128 per 100 for mobile-cellular (2020)<br>
+_domestic_: 46 per 100 for fixed-line and 128 per 100 for mobile-cellular subscriptions (2021)<br>
 _international_: country code - 49;&nbsp;landing points for SeaMeWe-3, TAT-14, AC-1, CONTACT-3, Fehmarn Balt, C-Lion1,&nbsp;GC1, GlobalConnect-KPN, and Germany-Denmark 2 &amp; 3 -&nbsp;submarine&nbsp;cables to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; as well as earth stations in the Inmarsat, Intelsat, Eutelsat, and Intersputnik satellite systems (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 a mixture of publicly operated and privately owned TV and radio stations; 70 national and regional public broadcasters compete with nearly 400 privately owned national and regional TV stations; more than 90% of households have cable or satellite TV; hundreds of radio stations including multiple national radio networks, regional radio networks, and a large number of local radio stations<br>
@@ -653,7 +661,7 @@ _annual freight traffic on registered air carriers_: 7,969,860,000 (2018) mt-km<
 D<br>
 
 **Airports**<br>
-_total_: 539 (2021)<br>
+539 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 318<br>
@@ -710,8 +718,8 @@ Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes 
 1.5% of GDP (2022 est.)<br>
 1.5% of GDP (2021)<br>
 1.5% of GDP (2020)<br>
-1.4% of GDP (2019) (approximately $60.1 billion)<br>
-1.3% of GDP (2018) (approximately $55.4 billion)<br>
+1.4% of GDP (2019)<br>
+1.3% of GDP (2018)<br>
 <strong>note:</strong> in 2022, the German Government said defense spending would reach 2% of GDP by 2025<br>
 
 **Military and security service personnel strengths**<br>

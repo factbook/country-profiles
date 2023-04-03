@@ -148,7 +148,7 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 31.1 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-5 deaths/100,000 live births (2017 est.)<br>
+7 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.51 deaths/1,000 live births<br>
@@ -480,9 +480,18 @@ _female_: 8.8% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 32.7 (2017 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 9.2% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.6% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 7.5%<br>
 _highest 10%_: 19% (2007)<br>
+
+**Remittances**<br>
+0.38% of GDP (2021 est.)<br>
+0.4% of GDP (2020 est.)<br>
+0.35% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $242.1 billion (2017 est.)<br>
@@ -624,7 +633,6 @@ _subscriptions per 100 inhabitants_: 126.05 (2019)<br>
 _general assessment_: Switzerland has one of the highest broadband penetration rates within Europe, with a focus on services of at least 1Gb/s; this has been supported by sympathetic regulatory measures as well as by cooperative agreements between the main telcos, and with local utilities; fast fiber is complemented by 5G services reaching about 97% of the population by early 2021; together, these networks will soon enable the telcos to provide ultra-fast broadband services nationally, ahead of most other countries in the region; the competitive mobile market is served by three network operators and a small number of MVNOs; 5G services offered by the MNOs offer data rates of up to 2Gb/s, and although various cantons have called a halt to extensions of 5G, citing health concerns, the regulator and environment ministry have put in place measures aimed at ensuring that network roll outs can continue without disruption; with the migration of subscribers to LTE and 5G networks, the MNOs have been able to begin closing down their GSM networks and repurpose physical assets and spectrum; although not a member of the EU, the country&rsquo;s economic integration has meant that its telecom market deregulation has followed the EU&rsquo;s liberalization framework, including the recent regulations on international voice roaming; this report presents an analysis of Switzerland&rsquo;s fixed-line telecom market, including an assessment of network infrastructure (2021)<br>
 _domestic_: fixed-line over 34 per 100 and mobile-cellular subscribership roughly 126 per 100 persons: extensive cable and microwave radio relay networks (2020)<br>
 _international_: country code - 41; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 <p>the publicly owned radio and TV broadcaster, Swiss Broadcasting Corporation (SRG/SSR), operates 8 national TV networks, 3 broadcasting in German, 3 in French, and 2 in Italian; private commercial TV stations broadcast regionally and locally; TV broadcasts from stations in Germany, Italy, and France are widely available via multi-channel cable and satellite TV services; SRG/SSR operates 17 radio stations that, along with private broadcasters, provide national to local coverage )</p> (2019)<br>
@@ -652,7 +660,7 @@ _annual freight traffic on registered air carriers_: 1,841,310,000 (2018) mt-km<
 HB<br>
 
 **Airports**<br>
-_total_: 63 (2021)<br>
+63 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 40<br>
@@ -708,7 +716,7 @@ the Swiss Armed Forces maintain a full-time professional cadre of about 4,000 pe
 the military's inventory includes a mix of domestically produced and imported weapons systems; in recent years, the US has been the leading supplier of military armaments to Switzerland; the Swiss defense industry produces a range of military land vehicles (2022)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for compulsory military service for men; 18 years of age for voluntary military service; women may volunteer; every Swiss male has to serve at least 245 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by six 19-day intermittent recalls for training during the next 10 years (2022)<br>
+18-30 years of age for compulsory military service for men; 18 years of age for voluntary military service; women may volunteer; every Swiss male has to serve at least 245 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by six 19-day intermittent recalls for training during the next 10 years (2023)<br>
 <strong>note: </strong>conscientious objectors can choose 390 days of community service instead of military service<br>
 
 **Military deployments**<br>
@@ -729,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 81,862 (Ukraine) (as of 3 March 2023)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 82,952 (Ukraine) (as of 17 March 2023)<br>
 _stateless persons_: 891 (2022)<br>
 
 **Illicit drugs**<br>

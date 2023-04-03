@@ -153,7 +153,7 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 <strong>note: </strong>data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-195 deaths/100,000 live births (2017 est.)<br>
+215 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 28.49 deaths/1,000 live births<br>
@@ -496,6 +496,11 @@ _female_: 41.7% (2021 est.)<br>
 _lowest 10%_: 2.4%<br>
 _highest 10%_: 42% (2010)<br>
 
+**Remittances**<br>
+0.38% of GDP (2021 est.)<br>
+0.61% of GDP (2020 est.)<br>
+0.52% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $4.268 billion (2017 est.)<br>
 _expenditures_: $5 billion (2017 est.)<br>
@@ -635,7 +640,6 @@ _subscriptions per 100 inhabitants_: 114 (2020 est.)<br>
 _general assessment_: the government&rsquo;s Broadband Policy aims to provide 95% population coverage by 2024; mobile network coverage has increased sharply in recent years; by 2021, 3G infrastructure provided 89% population coverage while LTE infrastructure provided 79% coverage (compared to only 40% a year earlier); despite the relatively advanced nature of the market, progress towards 5G has been slow, partly due to unsubstantiated public concerns over health implications of the technology which caused the government to order an environmental assessment of 5G in mid-2020; the government has requested the regulator to speed up its 5G development strategy; Namibia&rsquo;s internet and broadband sector is reasonably competitive, its development was for many years held back by high prices for international bandwidth caused by the lack of a direct connection to international submarine cables; this market situation improved after operators invested in diversifying terrestrial access routes to adjacent countries; by the end of 2022 Namibia is expected to be connected by a 1,050km branch line of cable running between Portugal and South Africa (2022)<br>
 _domestic_: fixed-line subscribership is less than 6 per 100 and mobile-cellular roughly 102 per 100 persons (2020)<br>
 _international_: country code - 264;&nbsp;landing points for the ACE and WACS&nbsp;fiber-optic submarine cable linking southern and western African countries to Europe; satellite earth stations - 4 Intelsat (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 private and 1 state-run TV station; satellite and cable TV service available; state-run radio service broadcasts in multiple languages; about a dozen private radio stations; transmissions of multiple international broadcasters available<br>
@@ -663,7 +667,7 @@ _annual freight traffic on registered air carriers_: 26.29 million (2018) mt-km<
 V5<br>
 
 **Airports**<br>
-_total_: 112 (2021)<br>
+112 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 19<br>
@@ -725,5 +729,5 @@ the NDF’s primary responsibility is external security; it has participated in 
 <p><em>Namibia-Angola-Botswana</em>: concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border</p> <p><em>Namibia-Botswana-Zambia-Zimbabwe</em>: Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; the Kazungula Bridge opened to traffic in May 2021</p> <p><em>Namibia-South Africa</em>: the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia claims a median line boundary, while South Africa supports the northern bank of the river</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,285 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 6,316 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
 

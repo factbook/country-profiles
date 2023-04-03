@@ -145,7 +145,7 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 27.2 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-5 deaths/100,000 live births (2017 est.)<br>
+5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 4.74 deaths/1,000 live births<br>
@@ -471,9 +471,18 @@ _female_: 24.6% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 25.2 (2016 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 18.4% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 5% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.3%<br>
 _highest 10%_: 19.3% (2015 est.)<br>
+
+**Remittances**<br>
+1.92% of GDP (2021 est.)<br>
+2.31% of GDP (2020 est.)<br>
+2.41% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $37.79 billion (2017 est.)<br>
@@ -613,7 +622,6 @@ _subscriptions per 100 inhabitants_: 135 (2021)<br>
 _general assessment_: the broadband market has shown steady growth in recent years; fiber has become the principal platform for fixed broadband services, followed by DSL; the cable sector is a distant third in terms of subscribers, though cable is particularly strong in urban areas; mobile broadband access and content services are developing rapidly in line with operators having upgraded their networks; the regulator prepared the groundwork for 5G services in line with European Union requirements, with concessions in the 3.5GHz range followed by those in the 700MHz, 900MHz and 1800MHz bands; 5G was launched in late 2021 and is expected to cover about a fifth of the population by the end of 2022 (2021)<br>
 _domestic_: four companies have a license to operate cellular networks and provide nationwide cellular services; a few other companies provide services but do not have their own networks; fixed-line roughly 11 per 100 and mobile-cellular over 135 per 100 teledensity (2021)<br>
 _international_: country code - 421; 3 international exchanges (1 in Bratislava and 2 in Banska Bystrica) are available; Slovakia is participating in several international telecommunications projects that will increase the availability of external services; connects to DREAM cable (2017)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned public broadcaster, Radio and Television of Slovakia (RTVS), operates 2 national TV stations and multiple national and regional radio networks; roughly 50 privately owned TV stations operating nationally, regionally, and locally; about 40% of households are connected to multi-channel cable or satellite TV; 32 privately owned radio stations<br>
@@ -639,7 +647,7 @@ _inventory of registered aircraft operated by air carriers_: 45<br>
 OM<br>
 
 **Airports**<br>
-_total_: 35 (2021)<br>
+35 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 19<br>
@@ -678,7 +686,7 @@ _river port(s)_: Bratislava, Komarno (Danube)<br>
 Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land Forces (Slovenské Pozemné Sily), Air Forces (Slovenské Vzdušné Sily), Special Operations Forces (Sily Pre Speciálne Operácie) (2022)<br>
 
 **Military expenditures**<br>
-2% of GDP (2022 est.)<br>
+1.8% of GDP (2022 est.)<br>
 1.7% of GDP (2021)<br>
 2% of GDP (2020)<br>
 1.7% of GDP (2019) (approximately $2.34 billion)<br>
@@ -691,7 +699,7 @@ approximately 14,000 active-duty personnel (8,000 Land Forces; 4,000 Air Forces;
 the military's inventory consists mostly of Soviet-era platforms; in recent years, it has imported limited quantities of more modern equipment, particularly from Italy and the US (2022)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service for men and women; conscription in peacetime suspended in 2004 (2021)<br>
+18-30 years of age for voluntary military service for men and women; conscription in peacetime suspended in 2004 (2023)<br>
 <strong>note:</strong> as of 2019, women made up around 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
@@ -707,7 +715,7 @@ Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host
 <p><em>Slovakia-Austria</em>: none identified</p> <p><em>Slovakia-Czechia</em>: none identified</p> <p><em>Slovakia-Hungary</em>: initiated by the 1977 Budapest Treaty, Hungary and formerly Czechoslovakia agreed to a hydroelectric dam project on the Danube with dams to be constructed at Gabcikovo (Slovakia) and Nagymaros (Hungary) to prevent floods, improve river navigability, and to generate electricity; when Hungary suspended work on the project until its environmental impact could be assessed, Slovakia continued working on it and adopted a pared down strategy to divert the Danube so that all construction was within Czechoslovakian territory; Hungary terminated the project on environmental and economic grounds in 1989, and in 1992 both countries took the matter to the International Court of Justice (ICJ); the ICJ found largely in favor of then Slovakia, finding Hungary had breached their agreement; however, then Czechoslovakia should not have begun the alternative plan before the ICJ ruled on the case; in 2017, Hungary and Slovakia agreed to discontinue the ICJ proceedings</p> <p><em>Slovakia-Poland</em>: none identified</p> <p><em>Slovakia-Ukraine</em>: tens of thousands of Ukrainian refugees are crossing the border to Slovakia to escape the Russian invasion in their country</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 111,173 (Ukraine) (as of 7 March 2023)<br>
+_refugees (country of origin)_: 112,362 (Ukraine) (as of 19 March 2023)<br>
 _stateless persons_: 2,940 (2022)<br>
 
 **Illicit drugs**<br>

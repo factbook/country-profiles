@@ -415,7 +415,6 @@ _subscriptions per 100 inhabitants_: 0 (2019)<br>
 _general assessment_: 2G widespread; bandwidth is limited; mobile subscriber numbers are higher than fixed-line and better suited for islands; good mobile coverage in the capital cities and also reasonable coverage across more remote atolls; recent international interest in infrastructure development; increase in demand for mobile broadband as mobile services serve as primary source for Internet access; broadband satellite launched in 2019 to improve costs and capability (2020)<br>
 _domestic_: fixed-line teledensity 25 per 100 persons and 0 per 100 mobile subscriptions (2019)<br>
 _international_: country code - 681; landing point for the Tui-Samoa submarine cable network connecting Wallis &amp; Futuna, Samoa and Fiji (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the publicly owned French Overseas Network (RFO), which broadcasts to France's overseas departments, collectivities, and territories, is carried on the RFO Wallis and Fortuna TV and radio stations (2019)<br>
@@ -430,7 +429,7 @@ _percent of population_: 9% (2019 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 2 (2021)<br>
+2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>

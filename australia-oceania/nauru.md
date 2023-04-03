@@ -414,6 +414,11 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+5.27% of GDP (2018 est.)<br>
+9.46% of GDP (2017 est.)<br>
+11.77% of GDP (2016 est.)<br>
+
 **Budget**<br>
 _revenues_: $103 million (2017 est.)<br>
 _expenditures_: $113.4 million (2017 est.)<br>
@@ -544,7 +549,6 @@ _subscriptions per 100 inhabitants_: 92 (2020 est.)<br>
 _general assessment_: relies on satellite as the primary Internet service provider and mobile operator; internet connectivity on the island is very limited and unstable due to the vulnerability of the network infrastructure to bad weather and limited network coverage, with several blind spots (2022)<br>
 _domestic_: fixed-line 0 per 100 and mobile-cellular subscribership approximately 92 per 100 (2020)<br>
 _international_: country code - 674; satellite earth station - 1 Intelsat (Pacific Ocean)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 government-owned TV station broadcasting programs from New Zealand sent via satellite or on videotape; 1 government-owned radio station, broadcasting on AM and FM, utilizes Australian and British programs (2019)<br>
@@ -572,7 +576,7 @@ _annual freight traffic on registered air carriers_: 7.94 million (2018) mt-km<b
 C2<br>
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

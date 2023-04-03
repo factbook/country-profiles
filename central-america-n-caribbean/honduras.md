@@ -148,7 +148,7 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age a first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-65 deaths/100,000 live births (2017 est.)<br>
+72 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 14.77 deaths/1,000 live births<br>
@@ -476,9 +476,18 @@ _female_: 24.6% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 48.2 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 32.8% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 4.7% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2%<br>
 _highest 10%_: 38.4% (2014)<br>
+
+**Remittances**<br>
+25.29% of GDP (2021 est.)<br>
+23.45% of GDP (2020 est.)<br>
+21.53% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $4.658 billion (2017 est.)<br>
@@ -607,18 +616,17 @@ _Total energy consumption per capita 2019_: 19.8 million Btu/person (2019 est.)<
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 531,763 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
+_total subscriptions_: 465,521 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,960,654 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 70 (2020 est.)<br>
+_total subscriptions_: 7,560,710 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 74 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p style="background: white; margin: 0in 0in 6.4pt 0in;">Honduras is among the poorest countries in Central America and has long been plagued by an unstable political framework which has rendered telecom sector reform difficult; this has created real difficulties for telcos as well as consumers; fixed-line teledensity, at only 4.9%, is significantly lower than the Latin American and Caribbean average; poor fixed-line infrastructure has been exacerbated by low investment and topographical difficulties which have made investment in rural areas unattractive or uneconomical; the internet has been slow to develop; DSL and cable modem technologies are available but are relatively expensive, while higher speed services are largely restricted to the major urban centers; the demand for broadband is steadily increasing and there has been some investment in network upgrades to fiber-based infrastructure</p> <p style="background: white; margin: 0in 0in 6.4pt 0in;"> </p> (2022)<br>
-_domestic_: private sub-operators allowed to provide fixed lines in order to expand telephone coverage contributing to a fixed-line teledensity of slightly over 5 per 100; mobile-cellular subscribership is roughly 70 per 100 persons (2020)<br>
+_domestic_: fixed-line teledensity of 5 per 100; mobile-cellular subscribership is roughly 74 per 100 persons (2021)<br>
 _international_: country code - 504; landing points for both the ARCOS and the MAYA-1 fiber-optic submarine cable systems that together provide connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean); connected to Central American Microwave System (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 multiple privately owned terrestrial TV networks, supplemented by multiple cable TV networks; Radio Honduras is the lone government-owned radio network; roughly 300 privately owned radio stations (2019)<br>
@@ -646,7 +654,7 @@ _annual freight traffic on registered air carriers_: 450,000 (2018) mt-km<br>
 HR<br>
 
 **Airports**<br>
-_total_: 103 (2021)<br>
+103 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 13<br>

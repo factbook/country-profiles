@@ -143,7 +143,7 @@ _65 years and over_: 0.73 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-829 deaths/100,000 live births (2017 est.)<br>
+621 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 85.06 deaths/1,000 live births<br>
@@ -198,7 +198,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever, malaria, and Rift Valley fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Somalia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Somalia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.3% (2016)<br>
@@ -269,7 +269,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever, malaria, and Rift Valley fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Somalia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Somalia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions and internal conflict - </em>about 6.5 million people are estimated to face severe acute food insecurity between April and June 2023 as a result of consecutive poor rainy seasons since late 2020 and heightened conflict since early 2021 (2023)<br>
@@ -464,6 +464,11 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+25.21% of GDP (2020 est.)<br>
+24.32% of GDP (2019 est.)<br>
+25.31% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $145.3 million (2014 est.)<br>
 _expenditures_: $151.1 million (2014 est.)<br>
@@ -592,7 +597,6 @@ _subscriptions per 100 inhabitants_: 48.8 (2019)<br>
 _general assessment_: Somalia&rsquo;s economic difficulties in recent years have made it difficult for telcos and the government to sustain investment in infrastructure; the government has also had to contend with militant groups which continue on occasion to force the closure of internet services in many areas of the country; in recent years, though, the government has addressed the lack of guidance which had prevailed since 1991, when a dictatorial regime was overthrown; the National Communications Law was passed in October 2017, aimed at setting a legal and regulatory framework for the telecoms sector, while provision was made in the following year to set up a regulatory authority to oversee the telecom sector; more recently, three types of licenses were mandated to provide clarity to operators, and to bring the market closer into line with international standards; all operators were given until August 2020 to secure one of the three license types; given the poor condition of fixed-line infrastructure, operators have concentrated on mobile connectivity; their investment plans have involved the development of LTE services to provide mobile data and broadband services; the telecom market has flourished; tariffs are among the lowest in Africa, and new cable systems coming on stream in the next few years, as well as planned investments from local operators to bolster the country&rsquo;s national fiber backbone, will lead to downward pressure on retail pricing; on the consumer side, spending on telecoms services and devices are under pressure from the financial effect of large-scale job losses and the consequent restriction on disposable incomes as the remnants of the impact of the Covid-19 pandemic remain and as global events, such as the Russian invasion of Ukraine, continue to play out; the market is continuing a positive growth trajectory, supported by a slow economic rebound in the country (2022)<br>
 _domestic_: seven networks compete for customers in the mobile sector; some of these mobile-service providers offer fixed-lines and Internet services; fixed-line is less than 1 per 100 and mobile-cellular roughly 56 per 100 (2020)<br>
 _international_: country code - 252; landing points for the G2A, DARE1, PEACE, and EASSy fiber-optic submarine cable system linking East Africa, Indian Ocean Islands, the Middle East, North Africa&nbsp;and&nbsp;Europe (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 2 private TV stations rebroadcast Al-Jazeera and CNN; Somaliland has 1 government-operated TV station and Puntland has 1 private TV station; the transitional government operates Radio Mogadishu; 1 SW and roughly 10 private FM radio stations broadcast in Mogadishu; several radio stations operate in central and southern regions; Somaliland has 1 government-operated radio station; Puntland has roughly a half-dozen private radio stations; transmissions of at least 2 international broadcasters are available (2019)<br>
@@ -619,7 +623,7 @@ _annual passenger traffic on registered air carriers_: 4,486 (2018)<br>
 6O<br>
 
 **Airports**<br>
-_total_: 52 (2021)<br>
+52 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 8<br>
@@ -658,7 +662,7 @@ Ministry of Defense: Somali National Army (SNA); Ministry of Internal Security: 
 5.9% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 18-20,000 SNA personnel (2022)<br>
+approximately 18-20,000 SNA personnel (2023)<br>
 <strong>note 1:</strong> in January 2023, the Somali Government said the SNA would have 24,000 trained and equipped troops by 2024<br><br><strong>note 2:</strong> as of 2022, there were estimates of up to 50,000 militia forces operating in the country<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -666,7 +670,7 @@ the SNA is lightly armed with an inventory that includes a variety of older, sec
 <strong>note:</strong> in 2022, the UN voted to maintain an arms embargo on Somali in place since 1992; however, the embargo was modified to reflect the Somali Government’s progress in improving its management of weapons and ammunition; it includes allowing Somalia to import portable surface-to-air missiles, higher-caliber mortars, anti-tank guided weapons, some aircraft and vessels designed or modified for military use, and combat drones for use by its security forces and police — unless the Security Council committee monitoring sanctions objects within five working days of receiving notification from the Somali Government<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for compulsory and voluntary military service; conscription is authorized but not currently utilized; women may volunteer (2021)<br>
+18 is the legal minimum age for voluntary military service for men and women; conscription of men aged 18-40 and women aged 18-30 is authorized, but not currently utilized (2023)<br>
 <strong>note:</strong> in 2019, the Federal Government of Somalia renewed its commitment to end the recruitment and use of child soldiers by signing a roadmap detailing measures and practical actions to prevent violations against children, release children associated with armed forces, and reintegrate them into communities; the signing followed a similar accord committed to ending the use of child soldiers signed by both the Somali Transitional Government and the UN in 2012<br>
 
 **Military - note**<br>

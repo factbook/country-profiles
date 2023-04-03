@@ -149,7 +149,7 @@ a coastal radio station has been remotely operated since 1994<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1<br>

@@ -144,7 +144,7 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 25.2 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
-26 deaths/100,000 live births (2017 est.)<br>
+27 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 11.89 deaths/1,000 live births<br>
@@ -474,6 +474,11 @@ _female_: 38.7% (2021 est.)<br>
 _lowest 10%_: 3.5%<br>
 _highest 10%_: 25.7% (2014)<br>
 
+**Remittances**<br>
+11.62% of GDP (2021 est.)<br>
+10.5% of GDP (2020 est.)<br>
+11.22% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.644 billion (2017 est.)<br>
 _expenditures_: $3.192 billion (2017 est.)<br>
@@ -611,7 +616,6 @@ _subscriptions per 100 inhabitants_: 129 (2021 est.)<br>
 _general assessment_: Armenia&rsquo;s telecom sector was able to post in the mobile and broadband segments; its fixed-line penetration continues to slide downwards, with the rollout of fiber networks which have encouraged the increase in bundled services; the fixed broadband market remains undeveloped due to the lack of underlying infrastructure outside the main cities (2021)<br>
 _domestic_: roughly 15 per 100 fixed-line and 129 per 100 mobile-cellular; reliable fixed-line and mobile-cellular services are available across Yerevan and in major cities and towns; mobile-cellular coverage available in most rural areas (2021)<br>
 _international_: country code - 374; Yerevan is connected to the&nbsp;Caucasus Cable System&nbsp;fiber-optic cable through Georgia and Iran to Europe; additional international service is available by microwave radio relay and landline connections to the other countries of the Commonwealth of Independent States, through the Moscow international switch, and by satellite to the rest of the world; satellite earth stations - 3 (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 <p>Armenia’s government-run Public Television network operates alongside 100 privately owned TV stations that provide local to near nationwide coverage; three Russian TV companies are broadcast in Armenia under interstate agreements; subscription cable TV services are available in most regions; several major international broadcasters are available, including CNN; Armenian TV completed conversion from analog to digital broadcasting in late 2016; Public Radio of Armenia is a national, state-run broadcast network that operates alongside 18 privately owned radio stations</p> (2019)<br>
@@ -637,7 +641,7 @@ _inventory of registered aircraft operated by air carriers_: 5<br>
 EK<br>
 
 **Airports**<br>
-_total_: 7 (2021)<br>
+7 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 10<br>

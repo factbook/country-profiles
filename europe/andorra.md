@@ -474,18 +474,17 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 40,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 52 (2020 est.)<br>
+_total subscriptions_: 50,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 63 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 94,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 122 (2020 est.)<br>
+_total subscriptions_: 89,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Andorra has a modern telecommunications system with microwave radio relay connections between the exchanges and land line circuits to France and Spain (2020)<br>
-_domestic_: about 52 per 100 fixed-line, 122 per 100 mobile-cellular (2020)<br>
+_domestic_: about 63 per 100 fixed-line, 110 per 100 mobile-cellular (2021)<br>
 _international_: country code - 376; landline circuits to France and Spain; modern system with microwave radio relay connections between exchanges (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 public TV station and 2 public radio stations; about 10 commercial radio stations; good reception of radio and TV broadcasts from stations in France and Spain; upgraded to terrestrial digital TV broadcasting in 2007; roughly 25 international TV channels available (2019)<br>

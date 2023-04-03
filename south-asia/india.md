@@ -154,7 +154,7 @@ _total population_: 1.06 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-145 deaths/100,000 live births (2017 est.)<br>
+103 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 30.36 deaths/1,000 live births<br>
@@ -511,9 +511,18 @@ _female_: 26.7% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 35.7 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 29.8% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 2.4% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>
 _highest 10%_: 29.8% (2011)<br>
+
+**Remittances**<br>
+2.81% of GDP (2021 est.)<br>
+3.12% of GDP (2020 est.)<br>
+2.94% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $238.2 billion (2017 est.)<br>
@@ -644,18 +653,17 @@ _Total energy consumption per capita 2019_: 23.231 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 20,052,162 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total subscriptions_: 23,773,751 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.15 billion (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 84 (2020 est.)<br>
+_total subscriptions_: 1.15 billion (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 82 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: India&rsquo;s telecommunications sector has struggled for growth over the last five years; the sector&rsquo;s lackluster performance has been in spite of concerted efforts by the government to bolster the underlying infrastructure in a bid to achieve universal coverage; instead, the country&rsquo;s relatively liberal regulatory environment has encouraged fierce competition and price wars among the operators; State-owned as well as private operators have been forced to seek redress from the government in order to avoid bankruptcy; one particular area of contention has been the billions owed by the operators to the government in the form of Adjusted Gross Revenue (AGR) dues &ndash; usage and licensing fees charged by the Department of Telecommunications (DoT) &ndash; that have been the subject of long-standing court battles over what should be counted as revenue; the government won that battle in the Supreme Court in 2019, but the financial impairment of that decision has pushed a number of telcos to the brink; add the impact of the Covid-19 crisis in 2020 and 2021 to the mix, and the government had to come to the industry&rsquo;s rescue by introducing a major reform package in September 2021; along with changes to the definition of AGR with regard to non-telecom revenue, the package includes a four-year moratorium on AGR dues and spectrum instalments; the government has also deferred the spectrum auctions for 5G until later in 2022; mobile spectrum in India is already in short supply in terms of providing the necessary capacity to reach universal coverage, but the cash-strapped MNOs may not yet be in a sufficiently strong financial position for which to make the 5G spectrum auction viable (2022)<br>
-_domestic_: fixed-line subscriptions stands at roughly 1 per 100 and mobile-cellular at nearly 84 per 100 (2020)<br>
+_domestic_: fixed-line subscriptions 2 per 100 and mobile-cellular at nearly 82 per 100 (2021)<br>
 _international_: country code - 91; a number of major international submarine cable systems, including SEA-ME-WE-3 &amp; 4, AAE-1, BBG, EIG, FALCON, FEA, GBICS, MENA, IMEWE, SEACOM/ Tata TGN-Eurasia, SAFE, WARF, Bharat Lanka Cable System, IOX, Chennai-Andaman &amp; Nicobar Island Cable, SAEx2, Tata TGN-Tata Indicom and i2icn that provide connectivity to Europe, Africa, Asia, the Middle East, South East Asia, numerous Indian Ocean islands including Australia ; satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat; Indian Ocean region (2022)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasting and operates about 20 national, regional, and local services; a large and increasing number of privately owned TV stations are distributed by cable and satellite service providers; in 2020, 130 million households paid for cable and satellite television across India and as of 2018, cable and satellite TV offered over 850 TV channels; government controls AM radio with All India Radio operating domestic and external networks; news broadcasts via radio are limited to the All India Radio Network; since 2000, privately owned FM stations have been permitted and their numbers have increased rapidly (2020)<br>
@@ -683,7 +691,7 @@ _annual freight traffic on registered air carriers_: 2,703,960,000 (2018) mt-km<
 VT<br>
 
 **Airports**<br>
-_total_: 346 (2021)<br>
+346 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 253<br>

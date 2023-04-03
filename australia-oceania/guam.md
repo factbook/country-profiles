@@ -490,8 +490,8 @@ _Total energy consumption per capita 2019_: 152.767 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 70,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 41 (2020 est.)<br>
+_total subscriptions_: 70,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 41 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 98,000 (2009 est.)<br>
@@ -501,7 +501,6 @@ _subscriptions per 100 inhabitants_: 62 (2009 est.)<br>
 _general assessment_: Guam&rsquo;s telecommunications companies provide important services that allow other businesses on island to operate; Guam plays a larger, and growing role, in global telecommunications infrastructure, the submarine fiber optic cables that land on Guam benefit island residents and the local economy; in the Asia-Pacific region the demand for 4G, 5G, and broadband access is rapidly increasing; the 11 submarine cables that currently land on Guam, connecting the U.S. to the Asia-Pacific region, are some of the more than 400 cables that are the backbone of global telecommunications, providing nearly all of the world&rsquo;s internet and phone service (2021)<br>
 _domestic_: fixed-line subscriptions 41 per 100 and 62 per 100 mobile-cellular subscriptions in 2004 (2020)<br>
 _international_: country code - 1-671; major landing points for Atisa, HANTRU1, HK-G, JGA-N, JGA-S, PIPE-1, SEA-US, SxS, Tata TGN-Pacific, AJC, GOKI, AAG, AJC and Mariana-Guam Cable submarine cables between Asia, Australia, and the US (Guam is a transpacific communications hub for major carriers linking the US and Asia); satellite earth stations - 2 Intelsat (Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 about a dozen TV channels, including digital channels; multi-channel cable TV services are available; roughly 20 radio stations<br>
@@ -523,7 +522,7 @@ _subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
 N<br>
 
 **Airports**<br>
-_total_: 5 (2021)<br>
+5 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>

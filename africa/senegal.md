@@ -153,7 +153,7 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-315 deaths/100,000 live births (2017 est.)<br>
+261 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 31.75 deaths/1,000 live births<br>
@@ -206,7 +206,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Senegal is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Senegal is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.8% (2016)<br>
@@ -295,7 +295,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Senegal is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Senegal is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to localized shortfalls in cereal production and reduced incomes - </em>according to the latest analysis, about 881,000 people are estimated to be in need of humanitarian assistance between June and August 2022, mostly on account of localized shortfalls in cereal production in 2021 and reduced incomes owing to the impact of the COVID‑19 pandemic (2022)<br>
@@ -506,6 +506,11 @@ _female_: 7.5% (2021 est.)<br>
 _lowest 10%_: 2.5%<br>
 _highest 10%_: 31.1% (2011)<br>
 
+**Remittances**<br>
+10.46% of GDP (2020 est.)<br>
+10.78% of GDP (2019 est.)<br>
+10.5% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $4.139 billion (2017 est.)<br>
 _expenditures_: $4.9 billion (2017 est.)<br>
@@ -641,7 +646,6 @@ _subscriptions per 100 inhabitants_: 114 (2020 est.)<br>
 _general assessment_: Senegal&rsquo;s telecom market continues to show steady growth in all sectors; this has been supported by the particular demands made on consumers during the pandemic, which resulted in a particularly strong increase in the number of subscribers; the mobile subscriber base increased 6.7% in 2020, year-on-year, and by 4.1% in 2021, while the number of fixed broadband subscribers increased 17.5% year-on-year in 2021; mobile internet platforms account for the vast majority of all internet accesses; quality of service issues continue to plague the market, with the regulator periodically issuing fines to the market players (2022)<br>
 _domestic_: generally reliable urban system with a fiber-optic network; about two-thirds of all fixed-line connections are in Dakar; mobile-cellular service is steadily displacing fixed-line service, even in urban areas; fixed-line roughly 1 per 100 and mobile-cellular 114 per 100 persons (2020)<br>
 _international_: country code - 221; landing points for the ACE, Atlantis-2, MainOne and SAT-3/WASC submarine cables providing connectivity from South Africa, numerous western African countries, Europe and South America;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-run Radiodiffusion Television Senegalaise (RTS) broadcasts TV programs from five cities in Senegal; in most regions of the country, viewers can receive TV programming from at least 7 private broadcasters; a wide range of independent TV programming is available via satellite; RTS operates a national radio network and a number of regional FM stations; at least 7 community radio stations and 18 private-broadcast radio stations are available; transmissions of at least 5 international broadcasters are accessible on FM in Dakar (2019)<br>
@@ -669,7 +673,7 @@ _annual freight traffic on registered air carriers_: 40,000 (2018) mt-km<br>
 6V<br>
 
 **Airports**<br>
-_total_: 20 (2021)<br>
+20 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 9<br>
@@ -725,7 +729,7 @@ approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,00
 the FAS inventory includes mostly older or secondhand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program and has received small amounts of newer equipment from more than 10 countries, with France as the leading supplier (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; 20 years of age for selective conscript service; 2-year service obligation; women have been accepted into military service since 2008 (2022)<br>
+18 years of age for voluntary military service for men and women; 20 years of age for selective compulsory service for men and possibly women; 24-month service obligation (2023)<br>
 
 **Military deployments**<br>
 750 Gambia (ECOMIG); 970 Mali (MINUSMA); note - Senegal also has about 1,100 police deployed on various UN peacekeeping missions (2022)<br>

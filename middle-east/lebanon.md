@@ -137,7 +137,7 @@ _65 years and over_: 0.75 male(s)/female<br>
 _total population_: 1 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-29 deaths/100,000 live births (2017 est.)<br>
+21 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 6.88 deaths/1,000 live births<br>
@@ -473,9 +473,18 @@ _female_: 26.7% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 31.8 (2011 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 20.7% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 1.2% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
+
+**Remittances**<br>
+20.92% of GDP (2020 est.)<br>
+14.26% of GDP (2019 est.)<br>
+12.71% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $11.62 billion (2017 est.)<br>
@@ -614,7 +623,6 @@ _subscriptions per 100 inhabitants_: 63 (2020 est.)<br>
 _general assessment_: Lebanon&rsquo;s economic crisis has had a dire effect on the country&rsquo;s telecom services; although some progress has been made with developing 5G, the poor economic conditions have contributed to an erratic electricity supply and a lack of fuel to maintain generators; this has meant that internet services to areas of the country are not available on a regular basis, frustrating all those who depend on stable connectivity, and stalling business growth; adding to the difficulties are the combined stresses of the pandemic and the political crisis; a caretaker cabinet in September 2021 made way for a new government though there is little confidence on the ground that sectarian-based political horse-trading will give way to responsible governing to improve the lot of the stressed populace (2022)<br>
 _domestic_: fixed-line nearly 13 per 100 and nearly 63 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 961; landing points for the IMEWE, BERYTAR AND CADMOS submarine cable links to Europe, Africa, the Middle East and Asia; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 7 TV stations, 1 of which is state owned; more than 30 radio stations, 1 of which is state owned; satellite and cable TV services available; transmissions of at least 2 international broadcasters are accessible through partner stations (2019)<br>
@@ -642,7 +650,7 @@ _annual freight traffic on registered air carriers_: 56.57 million (2018) mt-km<
 OD<br>
 
 **Airports**<br>
-_total_: 8 (2021)<br>
+8 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 5<br>
@@ -700,10 +708,10 @@ the LAF inventory includes a wide mix of mostly older equipment from a diverse a
 
 **Military service age and obligation**<br>
 17-25 years of age for men and women for voluntary military service; no conscription (2022)<br>
-<strong>note:</strong> as of 2020, women comprised about 5% of the active duty military<br>
+<strong>note:</strong> women were allowed to volunteer for military service in the 1980s; as of 2020, they comprised about 5% of the active duty military<br>
 
 **Military - note**<br>
-as of 2022, the Lebanese military faced multiple challenges, including securing parts of the border with war-torn Syria from infiltrations of militants linked to the Islamic State of Iraq and ash-Sham (ISIS) and al-Qa’ida terrorist groups and maintaining stability along its volatile border with Israel, where the Iranian-backed and Lebanon-based terrorist group Hizballah conducted a war with Israel in 2006 and tensions remained high, including occasional armed skirmishes; the military also faced a financial crisis as government debt and national economic difficulties undercut its ability to fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate <br><br>the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities, support the Lebanese Armed Forces as they deployed throughout the south of Lebanon, and provide assistance for humanitarian access for civilians and the return of displaced persons; UNIFIL had approximately 9,500 military personnel deployed in the country as of 2022 (2022)<br>
+as of 2022, the Lebanese military faced multiple challenges, including securing parts of the border with war-torn Syria from infiltrations of militants linked to the Islamic State of Iraq and ash-Sham (ISIS) and al-Qa’ida terrorist groups and maintaining stability along its volatile border with Israel, where the Iranian-backed and Lebanon-based terrorist group Hizballah conducted a war with Israel in 2006 and tensions remained high, including occasional armed skirmishes; the military also faced a financial crisis as government debt and national economic difficulties undercut its ability to fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate <br><br>the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities, support the Lebanese Armed Forces as they deployed throughout the south of Lebanon, and provide assistance for humanitarian access for civilians and the return of displaced persons; UNIFIL had approximately 9,500 military personnel deployed in the country as of 2022; UNIFIL includes a maritime task force (2022)<br>
 
 ## Terrorism
 

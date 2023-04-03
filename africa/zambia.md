@@ -154,7 +154,7 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-213 deaths/100,000 live births (2017 est.)<br>
+135 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 36.33 deaths/1,000 live births<br>
@@ -209,6 +209,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Zambia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.1% (2016)<br>
@@ -291,6 +292,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Zambia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to reduced incomes and localized shortfalls in cereal production -</em> cereal production declined to a below‑average level in 2022 and along with the impact of rising food prices, the number of food insecure is foreseen to increase at the end of 2022 to levels above the 1.6 million people estimated in the first quarter of 2022 (2022)<br>
@@ -502,6 +504,11 @@ _female_: 25.4% (2021 est.)<br>
 _lowest 10%_: 1.5%<br>
 _highest 10%_: 47.4% (2010)<br>
 
+**Remittances**<br>
+1.09% of GDP (2021 est.)<br>
+0.74% of GDP (2020 est.)<br>
+0.42% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $4.473 billion (2017 est.)<br>
 _expenditures_: $6.357 billion (2017 est.)<br>
@@ -641,7 +648,6 @@ _subscriptions per 100 inhabitants_: 104 (2021)<br>
 _general assessment_: following elections held in August 2021, the new government immediately established a Ministry of Technology and Science to promote the use of ICT in developing economic growth and social inclusion; this focus on ICT, and on telecoms in particular, has been central to government strategies for some years; as part of the Smart Zambia initiative, investment has been made in data centers, a computer assembly plant, ICT training centers, and a Smart Education program; these efforts have been combined with the extension of broadband access and improved connectivity to international submarine cables; in turn, this has resulted in a considerable reduction in fixed-line and mobile access pricing for end-users; mobile network operators continue to invest in 3G and LTE-based services, the government contracted to upgrade the state-owned mobile infrastructure for 5G services; delays in holding spectrum have stymied the development of 5G thus far; in mid-2021 the regulator completed a consultation of auctioning low, medium, and high band spectrum for 5G, aiming to provide sufficient spectrum to meet the anticipated increase in data traffic in coming years; fixed-line broadband services remain underdeveloped (2022)<br>
 _domestic_: fiber optic connections are available between most larger towns and cities with microwave radio relays serving more rural areas; 3G and LTE with FttX in limited urban areas and private Ku or Ka band VSAT terminals in remote locations; fixed-line teledensity less than 1 per 100 and mobile-cellular roughly 104 per 100 (2021)<br>
 _international_: country code - 260; multiple providers operate overland fiber optic routes via Zimbabwe/South Africa, Botswana/Namibia and Tanzania provide access to the major undersea cables<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 <p>according to the Independent Broadcast Authority, there are 137 radio stations and 47 television stations in Zambia; out of the 137 radio stations, 133 are private (categorized as either commercial or community radio stations), while 4 are public-owned; state-owned Zambia National Broadcasting Corporation (ZNBC) operates 2 television channels and 3 radio stations; ZNBC owns 75% shares in GoTV, 40% in MultiChoice, and 40% in TopStar Communications Company, all of which operate in-country</p> (2019)<br>
@@ -669,7 +675,7 @@ _annual freight traffic on registered air carriers_: 75.08 million (2018) mt-km<
 9J<br>
 
 **Airports**<br>
-_total_: 88 (2021)<br>
+88 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 8<br>
@@ -735,7 +741,7 @@ note: Zambia had military conscription from 1975-1980<br>
 930 Central African Republic (MINUSCA) (May 2022)<br>
 
 **Military - note**<br>
-the Zambian Defense Force (ZDF) traces its roots to the Northern Rhodesia Regiment, which was raised by the British colonial government to fight in World War II; the ZDF was established in 1964 from units of the dissolved Federation of Rhodesia and Nyasaland armed forces; it participated in a number of regional conflicts during the 1970s and 1980s; Zambia actively supported independence movements such as the Union for the Total Liberation of Angola (UNITA), the Zimbabwe African People's Union (ZAPU), the African National Congress of South Africa (ANC), and the South-West Africa People's Organization (SWAPO) (2022)<br>
+the ZDF is responsible for preserving the country’s sovereignty and territorial integrity; it also has some domestic security responsibilities in cases of national emergency; border security and support to African and UN peacekeeping operations are priorities; the ZDF is part of the Southern Africa Development Community (SADC) Standby Force and participates in multinational training exercises; it has received training assistance from China and the US<br><br>the Army’s principal combat forces are 3 light infantry brigades, supported by armored and artillery regiments; it also has a maritime patrol unit to provide security for the country’s lakes and rivers; the Air Force has small numbers of mostly Chinese-made combat aircraft and helicopters <br><br>the ZDF traces its roots to the Northern Rhodesia Regiment, which was raised by the British colonial government to fight in World War II; the ZDF was established in 1964 from units of the dissolved Federation of Rhodesia and Nyasaland armed forces; it participated in a number of regional conflicts during the 1970s and 1980s; Zambia actively supported independence movements such as the Union for the Total Liberation of Angola (UNITA), the Zimbabwe African People's Union (ZAPU), the African National Congress of South Africa (ANC), and the South-West Africa People's Organization (SWAPO) (2023)<br>
 
 ## Transnational Issues
 
@@ -743,11 +749,11 @@ the Zambian Defense Force (ZDF) traces its roots to the Northern Rhodesia Regime
 <p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto</p> <p><em>Zambia-Tanzania</em>: some drug smuggling may take place across the Zambia-Tanzania border; there are no known current territorial issues, as both states have continued to recognize the colonial boundaries last modified in 1937; the boundary in Lake Tanganyika remains undefined.<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 46,777 (Democratic Republic of the Congo) (refugees and asylum seekers), 7,230 (Burundi) (2022)<br>
+_refugees (country of origin)_: 7,230 (Burundi) (2022); 52,288 (Democratic Republic of the Congo) (refugees and asylum seekers),&nbsp;<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List —<strong> </strong>Zambia does not fully meet the minimum standards for the elimination of trafficking but is making efforts to do so; efforts included increasing law enforcement training, establishing two fast-track human trafficking courts, conducting awareness campaigns about human trafficking, slightly increasing prosecutions and convictions, and strengthening prison sentences given to traffickers; however; investigations of trafficking crimes and funding to shelters and other victim assistance programs decreased; authorities did not proactively screen for trafficking among vulnerable populations, including foreign nationals and those involved in commercial sex; authorities detained and deported potential trafficking victims involved in smuggling; the national inter-ministerial committee is weak in overseeing national anti-trafficking efforts and trends (2020)<br>
-_trafficking profile_: human traffickers exploit domestic and foreign victims in Zambia and Zambians abroad; most trafficking occurs within Zambia&rsquo;s borders, with traffickers exploiting women and children from rural areas in cities in domestic servitude or forced labor in agriculture, textile production, mining, construction, small businesses, such as bakeries, and forced begging; Jerabo gangs force Zambian children into illegal mining operations, such as loading stolen copper or crushing rocks; truck drivers exploit Zambian boys and girls in sex trafficking in towns along the Zimbabwean and Tanzanian borders, and miners exploit them in Solwezi; Zambian boys are exploited for sex trafficking in Zimbabwe and women and girls in South Africa; traffickers exploit victims from Tanzania and Malawi in the Zambian timber industry<br>
+_tier rating_: Tier 2 Watch List —<strong> </strong>Zambia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts included increasing investigations, prosecutions, and convictions in trafficking crimes, launching a national action plan for trafficking in persons and implementing a national referral mechanism, and increasing screening and identification of victims among migrants; however, the government did not demonstrate overall increasing efforts to expand anti-trafficking capacity; officials did not amend laws to criminalize all forms of child sex trafficking, nor approve guidelines for funding or shelter operations; because the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards, Zambia was granted a waiver per the TVPA from an otherwise required downgrade to Tier 3 and, therefore, remained on Tier 2 Watch List for the third consecutive year (2022)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Zambia as well as Zambians abroad; most trafficking occurs within Zambia&rsquo;s borders, with traffickers exploiting women and children from rural areas in domestic servitude or forced labor in agriculture, textile production, mining, construction, small businesses, and forced begging; Jerabo&mdash;small illegal mining gangs&mdash;may force Zambian children into illegal mining operations, such as loading stolen copper or crushing rocks; orphans and children from rural areas are vulnerable to sex trafficking and forced labor; truck drivers exploit Zambian boys and girls in sex trafficking in towns along the Zimbabwean and Tanzanian borders, and miners exploit them in Solwezi; Zambian boys are exploited for sex trafficking in Zimbabwe, women and girls face sex trafficking in South Africa, and some women are recruited for domestic servitude in Lebanon and Oman; women and children from neighboring counties are exploited in force labor and sex trafficking in Zambia; some Chinese women and girls brought to Zambia by Chinese traffickers are sexually exploited in brothels and massage businesses; traffickers exploit victims from Tanzania and Malawi in the Zambian timber industry (2022)<br>
 
 **Illicit drugs**<br>
 transshipment point for moderate amounts of methaqualone, small amounts of heroin, and cocaine bound for southern Africa and possibly Europe; a poorly developed financial infrastructure coupled with a government commitment to combating money laundering make it an unattractive venue for money launderers; major consumer of cannabis<br>

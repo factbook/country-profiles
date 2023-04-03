@@ -81,7 +81,7 @@ Pacific Islander 88.7% (includes Samoan 83.2%, Tongan 2.2%, other 3.3%), Asian 5
 <strong>note:</strong> data represent population by ethnic origin or race<br>
 
 **Languages**<br>
-Samoan 88.6% (closely related to Hawaiian and other Polynesian languages), English 3.9%, Tongan 2.7%, other Pacific islander 3%, other 1.8% (2010 est.)<br>
+Samoan 87.9% (closely related to Hawaiian and other Polynesian languages), English 3.3%, Tongan 2.1%, other Pacific Islander 4.1%, Asian languages 2.1%, other 0.5% (2010 est.)<br>
 <strong>note:</strong> most people are bilingual<br>
 
 **Religions**<br>
@@ -472,8 +472,8 @@ _Total energy consumption per capita 2019_: 88.796 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 10,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 22 (2020 est.)<br>
+_total subscriptions_: 10,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 22 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 2,250 (2009 est.)<br>
@@ -483,7 +483,6 @@ _subscriptions per 100 inhabitants_: 4 (2009 est.)<br>
 _general assessment_: American Samoa Telecommunications Authority, ASTCA, supplies telecommunication services to the residents of the American Samoan islands, a territory of the United States, which are found in a remote area of the Pacific Ocean; the primary system between the islands consists of fiber-optic cables and satellite connections; over Independence Day weekend 2021, the undersea fiber-optic cable linking the Tutuila and Manu&rsquo;a Islands failed, completely stranding the Manu&rsquo;a Islands from all telecommunication services; telecommunication services were restored to the people of Manu&rsquo;a islands through microwave link between Tutuila to the Manu&rsquo;a Islands; the link is now providing a steady 1Gbps backhaul most of the time of the year with 600Mbps at four 9&rsquo;s availability, over this extremely long distance (2022)<br>
 _domestic_: nearly 22 per 100 fixed-line teledensity (2020)<br>
 _international_: country code - 1-684; landing points for the ASH, Southern Cross NEXT&nbsp;and Hawaiki&nbsp;&nbsp;providing&nbsp;connectivity to New Zealand, Australia, American Samoa, Hawaii, California, and&nbsp;SAS connecting American Samoa with Samoa; satellite earth station - 1 (Intelsat-Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 3 TV stations; multi-channel pay TV services are available; about a dozen radio stations, some of which are repeater stations<br>
@@ -498,7 +497,7 @@ _percent of population_: 31% (2020 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 3 (2021)<br>
+3 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 3<br>

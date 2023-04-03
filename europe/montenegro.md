@@ -145,7 +145,7 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 26.3 years (2010 est.)<br>
 
 **Maternal mortality ratio**<br>
-6 deaths/100,000 live births (2017 est.)<br>
+6 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.2 deaths/1,000 live births<br>
@@ -352,12 +352,12 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Milo DJUKANOVIC (since 20 May 2018)<br>
 _head of government_: Prime Minister Dritan ABAZOVIC (since 28 April 2022)<br>
 _cabinet_: Ministers act as cabinet<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 15 April 2018 (next to be held on 19 March 2023); prime minister nominated by the president, approved by the Assembly<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 19 March 2023 (runoff to be held on 2 April 2023); prime minister nominated by the president, approved by the Assembly<br>
 _election results_: <em>2018:</em> Milo DJUKANOVIC elected president in the first round; percent of vote - Milo DJUKANOVIC (DPS) 53.9%, Mladen BOJANIC (independent) 33.4%, Draginja VUKSANOVIC (SDP) 8.2%, Marko MILACIC (PRAVA) 2.8%, other 1.7%<br><br><em>2013:</em> Filip VUJANOVIC reelected president; percent of vote Filip VUJANOVIC (DPS) 51.2%, Miodrag LEKIC (independent) 48.8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 30 August 2020 (next to be held in 2024)<br>
+_elections_: last held on 30 August 2020 (next to be held on 11 June 2023)<br>
 _election results_: percent of vote by party/coalition - DPS 35.1%, ZBCG 32.6%, MNIM 12.5%, URA 5.5%, SD 4.1%, BS 3.9%, SDP 3.1%, AL 1.6%, Albanian Coalition 1.1%, other 0.4%; seats by party/coalition - DPS 30, ZBCG 27, MNIM 10, URA 4, BS 3, SD 3, SDP 2, AL 1, Albanian Coalition 1.; composition as of July 2022 - men 59, women 22, percent of women 27.2%<br>
 
 **Judicial branch**<br>
@@ -484,9 +484,18 @@ _female_: 36.7% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 36.8 (2018 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 27.5% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 6.8% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.5%<br>
 _highest 10%_: 25.7% (2014 est.)<br>
+
+**Remittances**<br>
+13.54% of GDP (2021 est.)<br>
+12.59% of GDP (2020 est.)<br>
+10.54% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $1.78 billion (2017 est.)<br>
@@ -625,7 +634,6 @@ _subscriptions per 100 inhabitants_: 172 (2020 est.)<br>
 _general assessment_: a small telecom market supported by a population of only 623,000; fixed broadband services are available via a variety of technology platforms, though fiber is the dominant platform, accounting for almost 40% of connections; the growth of fiber has largely been at the expense of DSL as customers are migrated to fiber networks as these are built out progressively; mobile penetration is particularly high, though this is partly due to the significant number of tourists visiting the country seasonally, as also to the popularity of subscribers having multiple prepaid cards; in the wake of the pandemic and associated restrictions on travel, the number of mobile subscribers fell in 2020, as also in the first quarter of 2021, year-on-year; networks support a vibrant mobile broadband services sector, largely based on LTE; two of the MNOs began trialing 5G in May 2021, though commercial services will not gain traction until after the multi-spectrum auction is completed at the end of 2021; spectrum is available in the 694-790MHz and 3400-3800MHz ranges, as well as in the 26.5-27.5GHz range (2021)<br>
 _domestic_: GSM mobile-cellular service, available through multiple providers; fixed-line over 30 per 100 and mobile-cellular 172 per 100 persons (2020)<br>
 _international_: country code - 382; 2 international switches connect the national system<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-funded national radio-TV broadcaster operates 2 terrestrial TV networks, 1 satellite TV channel, and 2 radio networks;&nbsp;4 local public TV stations and 14 private TV stations; 14 local public radio stations, 35 private radio stations, and&nbsp;several on-line media (2019)<br>
@@ -653,7 +661,7 @@ _annual freight traffic on registered air carriers_: 130,000 (2018) mt-km<br>
 4O<br>
 
 **Airports**<br>
-_total_: 5 (2021)<br>
+5 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 5<br>
@@ -687,7 +695,7 @@ _major seaport(s)_: Bar<br>
 the Armed Forces of the Republic of Montenegro is a joint force with land, air, and naval elements (2022)<br>
 
 **Military expenditures**<br>
-1.8% of GDP (2022 est.)<br>
+1.4% of GDP (2022 est.)<br>
 1.6% of GDP (2021)<br>
 1.7% of GDP (2020)<br>
 1.3% of GDP (2019) (approximately $130 million)<br>
@@ -714,9 +722,9 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 <p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,170 (Ukraine) (as of 27 February 2023)<br>
+_refugees (country of origin)_: 34,866 (Ukraine) (as of 20 March 2023)<br>
 _stateless persons_: 468 (2022)<br>
-<strong>note:</strong> 29,642 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
+<strong>note:</strong> 29,776 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

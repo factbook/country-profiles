@@ -150,7 +150,7 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 26.6 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-17 deaths/100,000 live births (2017 est.)<br>
+17 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 18.85 deaths/1,000 live births<br>
@@ -493,9 +493,18 @@ _female_: 29.9% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 41.9 (2018 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 21.8% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1%<br>
 _highest 10%_: 30.3% (2008)<br>
+
+**Remittances**<br>
+0.09% of GDP (2021 est.)<br>
+0.11% of GDP (2020 est.)<br>
+0.11% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $172.8 billion (2017 est.)<br>
@@ -634,7 +643,6 @@ _subscriptions per 100 inhabitants_: 96.84 (2019)<br>
 _general assessment_: Turkey continues to develop its capabilities within its telecom sector, becoming one of the relatively few countries able to build and develop its own communications satellites; with the successful launch of the Turksat 5A and 5B satellites in 2021, the country has vastly increased its bandwidth capacity; these satellites will be joined by the Turksat 6A in early 2023; the country’s telcos have invested in fiber infrastructure;<br>deployment of fiber-based broadband networks are well established, with fiber accounting for 26.7% of all fixed broadband connections as of early 2022; the DSL sector still dominates, accounting for about 63% of connections, but its share is steadily declining, year-on-year, while the number of fiber connections has grown strongly; improved fixed and mobile infrastructure is underpinning the country’s initiatives relating to Smart City concepts, which have become a key area of focus for the emerging digital economy and the transformation to a knowledge-based economy; Turkey’s National Smart Cities Strategy and Action Plan runs through to 2023 (2022)<br>
 _domestic_: additional digital exchanges are permitting a rapid increase in subscribers; the construction of a network of technologically advanced intercity trunk lines, using both fiber-optic cable and digital microwave radio relay, is facilitating communication between urban centers; remote areas are reached by a domestic satellite system; fixed-line nearly 15 per 100 and mobile-cellular teledensity is over 97 telephones per 100 persons (2020)<br>
 _international_: country code - 90; landing points for the SeaMeWe-3 &amp; -5, MedNautilus Submarine System, Turcyos-1 &amp; -2 submarine cables providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia&nbsp;; satellite earth stations - 12 Intelsat; mobile satellite terminals - 328 in the Inmarsat and Eutelsat systems (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 <p>Turkish Radio and Television Corporation (TRT) operates multiple TV and radio networks and stations; multiple privately owned national television stations and 567 private regional and local television stations; multi-channel cable TV subscriptions available; 1,007 private radio broadcast stations</p> (2019)<br>
@@ -662,7 +670,7 @@ _annual freight traffic on registered air carriers_: 5,949,210,000 (2018) mt-km<
 TC<br>
 
 **Airports**<br>
-_total_: 98 (2021)<br>
+98 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 91<br>
@@ -712,7 +720,7 @@ Turkish Armed Forces (TSK): Turkish Land Forces (Turk Kara Kuvvetleri), Turkish 
 <strong>note:</strong> the Gendarmerie (Jandarma) is responsible for the maintenance of the public order in areas that fall outside the jurisdiction of police forces (generally in rural areas); in wartime, the Gendarmerie and Coast Guard would be placed under the operational control of the Land Forces and Naval Forces, respectively<br>
 
 **Military expenditures**<br>
-1.2% of GDP (2022 est.)<br>
+1.4% of GDP (2022 est.)<br>
 1.6% of GDP (2021)<br>
 1.9% of GDP (2020)<br>
 1.9% of GDP (2019) (approximately $36.3 billion)<br>
@@ -725,8 +733,8 @@ approximately 445,000 active duty personnel (350,000 Army; 45,000 Navy; 50,000 A
 the military's inventory is mostly comprised of a mix of domestically produced and Western weapons systems, although in recent years, Turkey has also acquired some Chinese, Russian, and South Korean equipment; over the past decade, the US has been the leading provider of armaments to Turkey; other significant suppliers have included Germany, Italy, South Korea, and Spain; Turkey has a robust defense industry capable of producing a range of weapons systems for both export and internal use, including armored vehicles, naval vessels, and unmanned aerial platforms, although it is heavily dependent on Western technology; Turkey's defense industry also partners with other countries for defense production (2022)<br>
 
 **Military service age and obligation**<br>
-mandatory military service for men, age 20-41; service can be delayed if in university or in certain professions (researchers, professionals, and athletic, or those with artistic talents have the right to postpone military service until the age of 35); 6-12 months service; women may volunteer (2022)<br>
-<strong>note 1:</strong> in 2019, a new law cut the men’s mandatory military service period in half, as well as making paid military service permanent; with the new system, the period of conscription was reduced from 12 months to six months for privates and non-commissioned soldiers (the service term for reserve officers chosen among university or college graduates remained 12 months); after completing six months of service, if a conscripted soldier wants to and is suitable for extending his military service, he may do so for an additional six months in return for a monthly salary; under the new law, all male Turkish citizens over the age of 20 are required to undergo a one month military training period, but they can obtain an exemption from the remaining five months of their mandatory service by paying 31,000 Turkish Liras<br><strong><br>note 2:</strong> as of 2019, women made up about 0.3% of the military's full-time personnel<br>
+mandatory military service for men at age 20; service can be delayed if in university or in certain professions (researchers, professionals, and athletic, or those with artistic talents have the right to postpone military service until the age of 35); 6-12 months service; women may volunteer (2023)<br>
+<strong>note 1:</strong> in 2019, a new law cut the men’s mandatory military service period in half, as well as making paid military service permanent; with the new system, the period of conscription was reduced from 12 months to 6 months for privates and non-commissioned soldiers (the service term for reserve officers chosen among university or college graduates remained 12 months); after completing 6 months of service, if a conscripted soldier wants to and is suitable for extending his military service, he may do so for an additional 6 months in return for a monthly salary; under the new law, all male Turkish citizens over the age of 20 are required to undergo a 1 month military training period, but they can obtain an exemption from the remaining 5 months of their mandatory service by paying a fee<br><strong><br>note 2:</strong> as of 2019, women made up about 0.3% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 approximately 150 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); approximately 30,000 Cyprus; estimated 5,000 Iraq; 300 Kosovo (NATO/KFOR); 110 Lebanon (UNIFIL); estimated 500 Libya; up to 5,000 Qatar; approximately 200 Somalia (training mission); estimated 5,000-10,000 Syria (2022)<br>
@@ -747,7 +755,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 <p><em>Turkey-Armenia</em>: in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered;  in early 2022, the two countries held talks twice aimed at normalizing relations, which could lead to the opening of their land border, shut since 1993; in 2000, Turkish authorities complained to UNESCO that blasting from quarries in Armenia was damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p> <p><em>Turkey-Azerbaijan</em>: none identified</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece; the Aegean Maritime Boundary is complicated by the close proximity of Greek islands to the western shores of the Turkish Anatolian peninsula, representing the primary source of conflict between the two countries</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 3,500,964 (Syria) (2023); 95,874 (Ukraine) (as of 26 January 2023)<br>
+_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 3,443,219 (Syria) (2023); 95,874 (Ukraine) (as of 26 January 2023)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2021)<br>
 _stateless persons_: 117 (2018)<br>
 

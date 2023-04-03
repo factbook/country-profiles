@@ -450,18 +450,17 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 17,041 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 51 (2020 est.)<br>
+_total subscriptions_: 17,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 53 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 35,438 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 105 (2020 est.)<br>
+_total subscriptions_: 34,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Gibraltar&rsquo;s population is urban-based, served by a digital telephone exchange supported by a fiber optic and copper infrastructure; near universal mobile and Internet use (2019)<br>
-_domestic_: automatic exchange facilities; over 51 per 100 fixed-line and 105 per 100 mobile-cellular (2020)<br>
+_domestic_: 53 per 100 fixed-line and 100 per 100 mobile-cellular (2021)<br>
 _international_: country code - 350; landing point for the EIG to Europe, Asia, Africa and the Middle East via submarine cables;&nbsp;radiotelephone; microwave radio relay; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 Gibraltar Broadcasting Corporation (GBC) provides TV and radio broadcasting services via 1 TV station and 4 radio stations; British Forces Broadcasting Service (BFBS) operates 1 radio station; broadcasts from Spanish radio and TV stations are accessible<br>
@@ -483,7 +482,7 @@ _subscriptions per 100 inhabitants_: 62 (2020 est.)<br>
 VP-G<br>
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

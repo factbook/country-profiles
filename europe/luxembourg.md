@@ -141,7 +141,7 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 31 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-5 deaths/100,000 live births (2017 est.)<br>
+6 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.21 deaths/1,000 live births<br>
@@ -467,6 +467,11 @@ _female_: 14.1% (2021 est.)<br>
 _lowest 10%_: 3.5%<br>
 _highest 10%_: 23.8% (2000)<br>
 
+**Remittances**<br>
+2.66% of GDP (2021 est.)<br>
+2.96% of GDP (2020 est.)<br>
+2.92% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $27.75 billion (2017 est.)<br>
 _expenditures_: $26.8 billion (2017 est.)<br>
@@ -604,7 +609,6 @@ _subscriptions per 100 inhabitants_: 142 (2020 est.)<br>
 _general assessment_: Luxembourg has a small telecom sector; there remains some pressure from regulatory measures, though no further reductions to fixed and mobile interconnection tariffs have been imposed through to 2024; high mobile penetration has slowed subscriber growth in the mobile market since 2005, though a recent law requiring SIM card registration has not had an adverse effect on the number of mobile subscribers despite network operators deactivating unregistered cards (2021)<br>
 _domestic_: fixed-line teledensity about 43 per 100 persons; nationwide mobile-cellular telephone system with market for mobile-cellular phones virtually saturated with about 142 per 100 mobile-cellular (2020)<br>
 _international_: country code - 352<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 Luxembourg has a long tradition of operating radio and TV services for pan-European audiences and is home to Europe's largest privately owned broadcast media group, the RTL Group, which operates 46 TV stations and 29 radio stations in Europe; also home to Europe's largest satellite operator, Societe Europeenne des Satellites (SES); domestically, the RTL Group operates TV and radio networks; other domestic private radio and TV operators and French and German stations available; satellite and cable TV services available<br>
@@ -632,7 +636,7 @@ _annual freight traffic on registered air carriers_: 7,323,040,000 (2018) mt-km<
 LX<br>
 
 **Airports**<br>
-_total_: 2 (2021)<br>
+2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

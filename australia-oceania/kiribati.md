@@ -139,7 +139,7 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-92 deaths/100,000 live births (2017 est.)<br>
+76 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 32.2 deaths/1,000 live births<br>
@@ -448,6 +448,11 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+8.24% of GDP (2020 est.)<br>
+11.28% of GDP (2019 est.)<br>
+10.18% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $151.2 million (2017 est.)<br>
 _expenditures_: $277.5 million (2017 est.)<br>
@@ -584,7 +589,6 @@ _subscriptions per 100 inhabitants_: 46 (2020 est.)<br>
 _general assessment_: generally good national and international service; wireline service available on Tarawa and Kiritimati (Christmas Island); connections to outer islands by HF/VHF radiotelephone; recently formed (mobile network operator) MNO is implementing the first phase of improvements with 3G and 4G upgrades on some islands; islands are connected to each other and the rest of the world via satellite; launch of Kacific-1 in December 2019 will improve telecommunication for Kiribati (2020)<br>
 _domestic_: fixed-line less than 1 per 100 and mobile-cellular approximately 46 per 100 subscriptions (2020)<br>
 _international_: country code - 686; landing point for the Southern Cross NEXT submarine cable system from Australia, 7 Pacific Ocean island countries to the US; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 multi-channel TV packages provide access to Australian and US stations; 1 government-operated radio station broadcasts on AM, FM, and shortwave (2017)<br>
@@ -611,7 +615,7 @@ _annual passenger traffic on registered air carriers_: 66,567 (2018)<br>
 T3<br>
 
 **Airports**<br>
-_total_: 19 (2021)<br>
+19 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>

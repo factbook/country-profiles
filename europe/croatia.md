@@ -146,7 +146,7 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 29 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-8 deaths/100,000 live births (2017 est.)<br>
+5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 8.58 deaths/1,000 live births<br>
@@ -484,9 +484,18 @@ _female_: 26.3% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 28.9 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 23% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
 _highest 10%_: 23% (2015 est.)<br>
+
+**Remittances**<br>
+7.32% of GDP (2021 est.)<br>
+7.31% of GDP (2020 est.)<br>
+6.87% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $25.24 billion (2017 est.)<br>
@@ -616,18 +625,17 @@ _Total energy consumption per capita 2019_: 89.733 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,299,329 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 32 (2020 est.)<br>
+_total subscriptions_: 1,268,941 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 31 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,375,699 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
+_total subscriptions_: 4,402,213 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 108 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the mobile market is served by three MNOs, supplemented by a number of MVNOs; the network operators have focused on improving ARPU by encouraging prepaid subscribers to migrate to postpaid plans, and on developing revenue from mobile data services; 5G services are widely available, though the sector will only show its full potential later in 2021 following the award of licenses in several bands; this will contribute towards the government&rsquo;s national broadband plan to 2027, which is tied to the EC&rsquo;s two allied projects aimed at providing gigabit connectivity by the end of 2025; the broadband sector benefits from effective competition between the DSL and cable platforms, while there are also numerous fiber deployments in urban areas; the number of FttP subscribers broached 134,000 in March 2021. (2021)<br>
-_domestic_: fixed-line teledensity has dropped somewhat to about 32 per 100 persons; mobile-cellular telephone subscriptions are about 107 per 100 (2020)<br>
+_domestic_: fixed-line teledensity 31 per 100 persons; mobile-cellular telephone subscriptions are 108 per 100 (2021)<br>
 _international_: country code - 385; &nbsp;the ADRIA-1 submarine cable provides connectivity to Albania and Greece;&nbsp;digital international service is provided through the main switch in Zagreb; Croatia participates in the Trans-Asia-Europe fiber-optic project, which consists of 2 fiber-optic trunk connections with Slovenia and a fiber-optic trunk line from Rijeka to Split and Dubrovnik (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the national state-owned public broadcaster, Croatian Radiotelevision, operates 4 terrestrial TV networks, a satellite channel that rebroadcasts programs for Croatians living abroad, and 6 regional TV centers; 2 private broadcasters operate national terrestrial networks;&nbsp;29 privately owned regional TV stations; multi-channel cable and satellite TV subscription services are available; state-owned public broadcaster operates&nbsp;4 national radio networks and&nbsp;23 regional radio stations; 2 privately owned national radio networks and 117 local&nbsp;radio stations (2019)<br>
@@ -655,7 +663,7 @@ _annual freight traffic on registered air carriers_: 530,000 (2018) mt-km<br>
 9A<br>
 
 **Airports**<br>
-_total_: 69 (2021)<br>
+69 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 24<br>
@@ -702,7 +710,7 @@ _river port(s)_: Vukovar (Danube)<br>
 Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH): Ground Forces (Hrvatska Kopnena Vojska, HKoV), Naval Forces (Hrvatska Ratna Mornarica, HRM; includes Coast Guard), Air Force and Air Defense Forces; Military Police Force (2022)<br>
 
 **Military expenditures**<br>
-2% of GDP (2022 est.)<br>
+1.9% of GDP (2022 est.)<br>
 2.2% of GDP (2021)<br>
 1.7% of GDP (2020)<br>
 1.6% of GDP (2019)<br>
@@ -731,9 +739,9 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Croatia joined the Schengen Zone on 1 January 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,115 (Ukraine) (as of 3 March 2023)<br>
+_refugees (country of origin)_: 21,352 (Ukraine) (as of 20 March 2023)<br>
 _stateless persons_: 2,889 (2022)<br>
-<strong>note: </strong>771,932 estimated refugee and migrant arrivals (January 2015-October 2022)<br>
+<strong>note: </strong>792,380 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p> <p> </p><br>

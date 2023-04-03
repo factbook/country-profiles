@@ -142,7 +142,7 @@ _65 years and over_: 0.78 male(s)/female<br>
 _total population_: 0.83 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-248 deaths/100,000 live births (2017 est.)<br>
+234 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 46.02 deaths/1,000 live births<br>
@@ -195,7 +195,7 @@ _unimproved: total_: total: 26.2% of population (2020 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Djibouti is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Djibouti is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 13.5% (2016)<br>
@@ -270,7 +270,7 @@ _rate of urbanization_: 1.56% annual rate of change (2020-25 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Djibouti is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Djibouti is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to unfavorable weather and high food prices - </em>about 192,000 people were estimated to have experienced acute food insecurity between July and December 2022 mainly due to insufficient rains in 2021 and 2022, which affected rangelands and pastoral livelihoods, as well as high food prices (2023)<br>
@@ -465,6 +465,11 @@ _female_: 82.2% (2021 est.)<br>
 _lowest 10%_: 2.4%<br>
 _highest 10%_: 30.9% (2002)<br>
 
+**Remittances**<br>
+2.01% of GDP (2020 est.)<br>
+2.57% of GDP (2019 est.)<br>
+2.05% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $717 million (2017 est.)<br>
 _expenditures_: $899.2 million (2017 est.)<br>
@@ -592,18 +597,17 @@ _Total energy consumption per capita 2019_: 8.869 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 38,866 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
+_total subscriptions_: 27,326 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 434,035 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 44 (2020 est.)<br>
+_total subscriptions_: 489,339 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 44 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Djibouti remains one of the last bastions where the national telco has a monopoly on all telecom services, including fixed lines, mobile, internet, and broadband; despite the country benefiting from its location as a hub for international submarine cables, prices for telecom services remain relatively high, and out of reach for a number of customers, weighing on market advancement; the Djibouti government is aiming to sell a minority stake in the incumbent telco (retaining some control of decisions) while securing the financial backing and the management acumen of a foreign operator; this is part of a larger plan to modernize the country&rsquo;s economy more generally; the state expects to conduct a sale of up to 40% of the company to an international investor by the end 2022 (2022)<br>
-_domestic_: about 4 per 100 fixed-line teledensity and nearly 44 per 100 mobile-cellular; Djibouti Telecom (DT) is the sole provider of telecommunications services and utilizes mostly a microwave radio relay network; fiber-optic cable is installed in the capital; rural areas connected via wireless local loop radio systems; mobile cellular coverage is primarily limited to the area in and around Djibouti city (2020)<br>
+_domestic_: about 2 per 100 fixed-line teledensity and nearly 44 per 100 mobile-cellular (2021)<br>
 _international_: country code - 253; landing points for the SEA-ME-WE-3 &amp; 5, EASSy, Aden-Djibouti, Africa-1, DARE-1, EIG, MENA, Bridge International, PEACE Cable, and SEACOM&nbsp;fiber-optic submarine cable systems providing links to Asia, the Middle East, Europe,&nbsp;Southeast Asia, Australia&nbsp;and Africa; satellite earth stations - 2 (1 Intelsat - Indian Ocean and 1 Arabsat) (2019)<br>
-<!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned Radiodiffusion-Television de Djibouti operates the sole terrestrial TV station, as well as the only 2 domestic radio networks; no private TV or radio stations; transmissions of several international broadcasters are available (2019)<br>
@@ -629,7 +633,7 @@ _inventory of registered aircraft operated by air carriers_: 4<br>
 J2<br>
 
 **Airports**<br>
-_total_: 13 (2021)<br>
+13 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 3<br>
@@ -660,15 +664,15 @@ _major seaport(s)_: Djibouti<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Djibouti Armed Forces (FAD): Army, Navy, Air Force; Djibouti Coast Guard; Ministry of Interior: National Gendarmerie, National Police (2022)<br>
+Djibouti Armed Forces (Force Armée Djiboutienne or FAD): Army, Navy, Air Force; Djibouti Coast Guard; Ministry of Interior: National Gendarmerie, National Police (2022)<br>
 <strong>note:</strong> the National Police is responsible for security within Djibouti City and has primary control over immigration and customs procedures for all land border-crossing points, while the National Gendarmerie is responsible for all security outside of Djibouti City, as well as for protecting critical infrastructure within the city, such as the international airport<br>
 
 **Military expenditures**<br>
-3.5% of GDP (2019 est.) (approximately $180 million)<br>
-3.5% of GDP (2018 est.) (approximately $160 million)<br>
-3.3% of GDP (2017 est.) (approximately $150 million)<br>
-2.7% of GDP (2016 est.) (approximately $120 million)<br>
-2.5% of GDP (2015 est.) (approximately $110 million)<br>
+3.5% of GDP (2019 est.)<br>
+3.5% of GDP (2018 est.)<br>
+3.3% of GDP (2017 est.)<br>
+2.7% of GDP (2016 est.)<br>
+2.5% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 10,000 active troops (8,000 Army; 250 Naval; 250 Air; 1,500 Gendarmerie) (2022)<br>

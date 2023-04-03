@@ -147,7 +147,7 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-320 deaths/100,000 live births (2017 est.)<br>
+264 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 48.17 deaths/1,000 live births<br>
@@ -203,7 +203,7 @@ _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Burkina Faso is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Burkina Faso is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 5.6% (2016)<br>
@@ -287,10 +287,10 @@ _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Burkina Faso is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Burkina Faso is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil insecurity in the north - </em>according to the latest analysis, 3.45 million people are projected to be food insecure and in need of humanitarian assistance between June and August 2022; in Centre-Nord and Sahel regions, insecurity continues to cause population displacements and, as of March 2022, about 1.85 million people had been displaced and required assistance; domestic cereal production in 2021 was estimated at a below-average level due to effects of adverse weather and civil conflict, further aggravating conditions; abnormally high prices of food are also a contributory factor that have constrained access to food; the coup d’état that occurred in January 2022 is an additional factor that could increase civil insecurity and further stress food insecurity conditions (2022)<br>
+_severe localized food insecurity_: <em>due to civil insecurity in the north and high food prices - </em>according to the latest analysis, about 3.53 million people are projected to face acute food insecurity during the June to August 2023 lean season period; this would be a slight increase compared to the preceding year; food insecurity is primarily underpinned by worsening insecurity in Centre-Nord and Sahel regions, which, as of December 2022 (the latest data available), had displaced about 1.88 million people; high food prices further aggravate conditions of the most vulnerable households (2023)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,575,251 tons (2015 est.)<br>
@@ -496,6 +496,11 @@ _female_: 8% (2021 est.)<br>
 _lowest 10%_: 2.9%<br>
 _highest 10%_: 32.2% (2009 est.)<br>
 
+**Remittances**<br>
+2.93% of GDP (2020 est.)<br>
+2.89% of GDP (2019 est.)<br>
+2.87% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.666 billion (2017 est.)<br>
 _expenditures_: $3.655 billion (2017 est.)<br>
@@ -624,18 +629,17 @@ _Total energy consumption per capita 2019_: 3.23 million Btu/person (2019 est.)<
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 75,039 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 81,374 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 22,117,218 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 106 (2020 est.)<br>
+_total subscriptions_: 24,678,315 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 112 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Burkina Faso&rsquo;s telecom sector in recent years has made some gains in providing the necessary infrastructure and bandwidth to support telecom services; an IXP completed in September 2020 increased international bandwidth capacity by a third, while in mid-2021 the government was able to start the second phase of a national fiber backbone project; this will link the capital city to an addition 145 municipalities, and provide additional connectivity to terrestrial cables in neighboring countries; the activities of the militants in side areas of the country jeopardize overall security, and render it difficult for the telcos to safeguard their networks and equipment; Burkina Faso joins G5 Sahel countries to eliminate roaming fees (2022)<br>
-_domestic_: fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage nearly 106 per 100, with multiple providers there is competition and the hope for growth from a low base; Internet penetration is 16% (2020)<br>
+_domestic_: fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage nearly 112 per 100, with multiple providers there is competition and the hope for growth from a low base; Internet penetration is 16% (2021)<br>
 _international_: country code - 226; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 since the official inauguration of Terrestrial Digital Television (TNT) in December 2017, Burkina Faso now has 14 digital TV channels among which 2 are state-owned; there are more than 140 radio stations (commercial, religious, community) available throughout the country including a national and regional state-owned network; the state-owned Radio Burkina and the private Radio Omega are among the most widespread stations and both include broadcasts in French and local languages (2019)<br>
@@ -663,7 +667,7 @@ _annual freight traffic on registered air carriers_: 100,000 (2018) mt-km<br>
 XT<br>
 
 **Airports**<br>
-_total_: 23 (2021)<br>
+23 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
@@ -728,6 +732,6 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 <p>adding to illicit cross-border activities, Burkina Faso has issues concerning unresolved boundary alignments with its neighbors; demarcation is currently underway with Mali; the dispute with Niger was referred to the ICJ in 2010, and a dispute over several villages with Benin persists; Benin retains a border dispute with Burkina Faso around the town of Koualau/Kourou</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,358 (Mali) (2023)<br>
+_refugees (country of origin)_: 34,989 (Mali) (2023)<br>
 _IDPs_: <p>1,761,915 (2022)</p><br>
 

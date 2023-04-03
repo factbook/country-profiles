@@ -142,7 +142,7 @@ _65 years and over_: 0.88 male(s)/female<br>
 _total population_: 1.16 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-19 deaths/100,000 live births (2017 est.)<br>
+17 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 14.16 deaths/1,000 live births<br>
@@ -458,9 +458,18 @@ _female_: 29.6% (2021 est.)<br>
 **Population below poverty line**<br>
 NA<br>
 
+**Average household expenditures**<br>
+_On food_: 22.7% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 0.1% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
+
+**Remittances**<br>
+0.05% of GDP (2020 est.)<br>
+0.04% of GDP (2019 est.)<br>
+0.04% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $22.14 billion (2017 est.)<br>
@@ -601,7 +610,6 @@ _subscriptions per 100 inhabitants_: 134 (2020 est.)<br>
 _general assessment_: Oman has a modern mobile sector which comprises substantial coverage of both 3G and LTE networks; in February 2021 commercial 5G services were launched; the Covid-19 pandemic has caused a spike in mobile data traffic; while Oman&rsquo;s fixed broadband infrastructure penetration is considered low, it is being improved with the building of fiber-based networks as part of Oman&rsquo;s Vision 2040 program; Oman has also established itself as an important communications hub in the Middle East, with access to numerous submarine cables including the 2Africa submarine cable, which should become available during 2023-2024; the 9,800km Oman Australia Cable running from Muscat to Perth, with the potential for a branch line to Djibouti, is making progress and is expected to be completed in December 2021; this additional infrastructure will provide considerable additional bandwidth (2021)<br>
 _domestic_: fixed-line nearly 13 per 100 and mobile-cellular nearly 134 per 100; fixed-line phone service gradually being introduced to remote villages using wireless local loop systems (2020)<br>
 _international_: country code - 968;&nbsp;landing points for GSA, AAE-1,&nbsp;SeaMeWe-5, Tata TGN-Gulf,&nbsp;FALCON, GBICS/MENA, MENA/Guld Bridge International, TW1, BBG, EIG, OMRAN/EPEG, and POI&nbsp;submarine cables providing connectivity to Asia,&nbsp;Africa, the Middle East, Southeast Asia&nbsp;and Europe; satellite earth stations - 2 Intelsat (Indian Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 state-run TV broadcaster; TV stations transmitting from Saudi Arabia, the UAE, Iran, and Yemen available via satellite TV; state-run radio operates multiple stations; first private radio station began operating in 2007 and several additional stations now operating (2019)<br>
@@ -629,7 +637,7 @@ _annual freight traffic on registered air carriers_: 510.43 million (2018) mt-km
 A4O<br>
 
 **Airports**<br>
-_total_: 132 (2021)<br>
+132 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 13<br>

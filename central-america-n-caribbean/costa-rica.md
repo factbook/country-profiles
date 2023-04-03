@@ -141,7 +141,7 @@ _65 years and over_: 0.85 male(s)/female<br>
 _total population_: 1 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-27 deaths/100,000 live births (2017 est.)<br>
+22 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 8.2 deaths/1,000 live births<br>
@@ -477,9 +477,18 @@ _female_: 56.3% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 49.3 (2020 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 25.7% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 1.2% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.5%<br>
 _highest 10%_: 36.9% (2014 est.)<br>
+
+**Remittances**<br>
+0.92% of GDP (2021 est.)<br>
+0.84% of GDP (2020 est.)<br>
+0.86% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $8.357 billion (2017 est.)<br>
@@ -607,18 +616,17 @@ _Total energy consumption per capita 2019_: 44.899 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 559,882 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
+_total subscriptions_: 553,455 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,512,370 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 147 (2020 est.)<br>
+_total subscriptions_: 7,834,435 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 152 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the fixed broadband market is one of the few parts of Costa Rica&rsquo;s telecom sector to experience solid growth in recent years, both in size and revenue; the country&rsquo;s fiber network expanded by 56% in 2020, reaching about 176,200km; fixed-line broadband traffic volume also increased by more than 30%, year-on-year;&nbsp; other areas of the market have proven relatively lack luster, with slow or even negative growth; some of this can be attributed to the economic and social impacts of the pandemic, but the fixed-line and mobile sectors have both been struggling to produce decent results since well before the start of the crisis; the rollout of 5G network infrastructure in Costa Rica is unlikely to occur to any scale before 2023, but this may be one of the few remaining areas of opportunity open to investors outside of fixed-line internet and pay TV services (2021)<br>
-_domestic_: roughly 11 per 100 fixed-line and 148 per 100 mobile-cellular; point-to-point and point-to-multi-point microwave, fiber-optic, and coaxial cable link rural areas; Internet service is available (2020)<br>
+_domestic_: roughly 11 per 100 fixed-line and 152 per 100 mobile-cellular (2021)<br>
 _international_: country code - 506; landing points for the ARCOS-1, MAYA-1, and the&nbsp;PAC submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 over two dozen privately owned TV stations and 1 publicly owned TV station nationwide; cable network services are widely available; more than 100 privately owned radio stations and a public radio network (2022)<br>
@@ -646,7 +654,7 @@ _annual freight traffic on registered air carriers_: 11.13 million (2018) mt-km<
 TI<br>
 
 **Airports**<br>
-_total_: 161 (2021)<br>
+161 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 47<br>

@@ -154,7 +154,7 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-83 deaths/100,000 live births (2017 est.)<br>
+75 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 11.65 deaths/1,000 live births<br>
@@ -497,9 +497,18 @@ _female_: 32.8% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 54.2 (2020 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 19.2% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2%<br>
 _highest 10%_: 39.6% (2015 est.)<br>
+
+**Remittances**<br>
+2.74% of GDP (2021 est.)<br>
+2.56% of GDP (2020 est.)<br>
+2.2% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $83.35 billion (2017 est.)<br>
@@ -631,18 +640,17 @@ _Total energy consumption per capita 2019_: 34.703 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,248,026 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 14 (2020 est.)<br>
+_total subscriptions_: 7.6 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 67,672,570 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
+_total subscriptions_: 75 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 150 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector had a solid year thanks to positive performances in the fixed-line broadband, mobile broadband, and mobile voice and data markets; the fixed-line penetration remained stable by the end of 2020, though began to increase into 2021 as a result of the particular demands on households resulting from government measures associated with addressing the pandemic; the mobile market reached a penetration rate of 136% (an increase of over three percentage points on 2019) and managed to keep the same upward growth trajectory that it has sustained over the last ten years; the fixed-line broadband market also expanded, with the number of subscribers increasing 11.4%, and with revenue increasing 9.9% thanks to increased data usage as many customers were forced to work or study from home during the year; the mobile broadband market was the standout performer in 2020, with a 13% increase in the number of subscribers year-on-year, the penetration rate is relatively low compared to other Latin American countries; most significant of all was the surge in mobile broadband traffic a 51% increase over the previous year (2022)<br>
-_domestic_: fixed-line connections stand at about 14 per 100 persons; mobile cellular telephone subscribership is 133 per 100 persons; Partners Telecom Colombia's (WOM) market entrance in June 2021 increased competition among cellular service providers and is resulting in falling local and international calling rates and contributing to the steep decline in the market share of fixed-line services; domestic satellite system with 41 earth stations (2021)<br>
+_domestic_: fixed-line connections stand at about 15 per 100 persons; mobile cellular telephone subscribership is 150 per 100 persons (2021)<br>
 _international_: country code - 57; landing points for the SAC, Maya-1, SAIT, ACROS, AMX-1, CFX-1, PCCS, Deep Blue Cable, Globe Net, PAN-AM, SAm-1&nbsp;submarine cable systems providing links to the US, parts of the Caribbean, and Central and South America; satellite earth stations - 10 (6 Intelsat, 1 Inmarsat, 3 fully digitalized international switching centers) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 combination of state-owned and privately owned broadcast media provide service; more than 500 radio stations and many national, regional, and local TV stations (2019)<br>
@@ -670,7 +678,7 @@ _annual freight traffic on registered air carriers_: 1,349,450,000 (2018) mt-km<
 HJ, HK<br>
 
 **Airports**<br>
-_total_: 836 (2021)<br>
+836 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 121<br>
@@ -735,8 +743,8 @@ approximately 260,000 total active troops (200,000 Army; 45,000 Navy, including 
 the military's inventory includes a wide mix of equipment from a variety of suppliers, including Canada, Europe, Israel, South Korea, and the US; Colombia's defense industry is active in producing air, land, and naval platforms (2022)<br>
 
 **Military service age and obligation**<br>
-18-24 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 18 months; conscripted soldiers reportedly include regular soldiers (conscripts without a high school degree), drafted high school graduates (bachilleres), and rural (campesino) soldiers who serve in their home regions (2022)<br>
-<strong>note 1:</strong> in 2020, conscripts reportedly comprised about 50% of the Colombian military's active force with more than 50,000 conscripts brought into the military annually<br><br>note 2: as of 2022, women comprised about 1% of the military<br>
+18-24 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 18 months; conscripted soldiers reportedly include regular soldiers (conscripts without a high school degree), drafted high school graduates (bachilleres), and rural (campesino) soldiers who serve in their home regions (2023)<br>
+<strong>note 1:</strong> conscripts reportedly comprise about 50% of the Colombian military's active force with more than 50,000 conscripts brought into the military annually<br><br><strong>note 2:</strong> as of 2022, women comprised about 1% of the military<br>
 
 **Military deployments**<br>
 275 Egypt (MFO) (2022)<br>

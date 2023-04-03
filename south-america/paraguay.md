@@ -151,7 +151,7 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-84 deaths/100,000 live births (2017 est.)<br>
+71 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 22.6 deaths/1,000 live births<br>
@@ -488,9 +488,18 @@ _female_: 21.9% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 43.5 (2020 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 31.7% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 4.2% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.5%<br>
 _highest 10%_: 37.6% (2013 est.)<br>
+
+**Remittances**<br>
+1.48% of GDP (2021 est.)<br>
+1.65% of GDP (2020 est.)<br>
+1.76% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $5.524 billion (2017 est.)<br>
@@ -628,7 +637,6 @@ _subscriptions per 100 inhabitants_: 110 (2020 est.)<br>
 _general assessment_: limited progress on structural reform and deficient infrastructure of the landlocked country are obstacles to the telecom platform; effective competition in mobile market, serving 96% of population through LTE; deployment of fiber; operator enabled 109 free Internet points across the country and is looking to expand to 430 points in 2022; dependent on neighboring countries for access to submarine cables (2022)<br>
 _domestic_: deficiencies in provision of fixed-line service have resulted in expansion of mobile-cellular services fostered by competition among multiple providers; Internet market also open to competition; fixed-line just over 3 per 100 and mobile-cellular just over 105 per 100 of the population (2020)<br>
 _international_: country code - 595; Paraguay's landlocked position means they must depend on neighbors for interconnection with submarine cable networks, making it cost more for broadband services; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 6 privately owned TV stations; about 75 commercial and community radio stations; 1 state-owned radio network (2019)<br>
@@ -656,7 +664,7 @@ _annual freight traffic on registered air carriers_: 1.97 million (2018) mt-km<b
 ZP<br>
 
 **Airports**<br>
-_total_: 799 (2021)<br>
+799 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 15<br>
@@ -709,7 +717,7 @@ approximately 15,000 active duty personnel (10,000 Army; 3,500 Navy; 1,500 Air F
 the military's inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 12 months for Army, 24 months for Navy; conscripts also serve in the National Police; volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2022)<br>
+18 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 12 months for Army, 24 months for Navy; conscripts also serve in the National Police; volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2023)<br>
 <strong>note:</strong> as of 2021, women made up about 6% of the active military<br>
 
 **Military - note**<br>

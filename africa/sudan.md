@@ -150,7 +150,7 @@ _65 years and over_: 1.08 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-295 deaths/100,000 live births (2017 est.)<br>
+270 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 41.4 deaths/1,000 live births<br>
@@ -206,6 +206,7 @@ _vectorborne diseases_: malaria, dengue fever, and Rift Valley fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Sudan is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.6% (2014)<br>
@@ -284,6 +285,7 @@ _vectorborne diseases_: malaria, dengue fever, and Rift Valley fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Sudan is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to conflict, civil insecurity, and soaring food prices - </em>according to the results of the latest analysis, about 11.7 million people (24% of the analyzed population) are estimated to be severely food insecure during June to September 2022; the main drivers are macroeconomic challenges resulting in rampant food and non‑food inflation, tight supplies due to a poor 2021 harvest and the escalation of intercommunal violence (2022)<br>
@@ -488,6 +490,11 @@ _female_: 45.8% (2021 est.)<br>
 _lowest 10%_: 2.7%<br>
 _highest 10%_: 26.7% (2009 est.)<br>
 
+**Remittances**<br>
+1.83% of GDP (2020 est.)<br>
+1.62% of GDP (2019 est.)<br>
+1.32% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $8.48 billion (2017 est.)<br>
 _expenditures_: $13.36 billion (2017 est.)<br>
@@ -625,7 +632,6 @@ _subscriptions per 100 inhabitants_: 77.11 (2019)<br>
 _general assessment_: Sudan emerged as a poorer country when South Sudan separated from it in 2011; although Sudan has about four times the population of South Sudan, the latter benefits from its control of the majority of known oil reserves; the Sudanese economy has been affected by hyperinflation in recent years, partly the result of the loss of oil revenue but also due to domestic volatility and social unrest; the difficult economic conditions have meant that for several years telcos have reported revenue under hyper inflationary reporting standards; pressure on revenue has made it difficult for operators to invest in infrastructure upgrades, and so provide improved services to customers; despite this, the number of mobile subscribers increased 7.% in 20201, year-on-year; this level of growth is expected to have been maintained in 2022, though could slow from 2023 as the acute influences resulting the pandemic begin to wane; the country&rsquo;s poor fixed-line infrastructure has helped the development of mobile broadband services (2022)<br>
 _domestic_: consists of microwave radio relay, cable, fiber optic, radiotelephone communications, tropospheric scatter, and a domestic satellite system with 14 earth stations; teledensity fixed-line less than 1 per 100 and mobile-cellular over 80 telephones per 100 persons (2020)<br>
 _international_: country code - 249; landing points for the EASSy, FALCON&nbsp;and SAS-1,-2, fiber-optic submarine cable systems linking Africa, the Middle East, Indian Ocean Islands and Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 Following the establishment of Sudan&rsquo;s civilian-led transitional government in August 2019, government-owned broadcasters became increasingly independent from government and military control. Following the October 2021 military takeover, additional restrictions were imposed on these government-owned broadcasters, which now practice a heightened degree of self-censorship but still operate more independently than in the pre-2019 environment. (2022)<br>
@@ -652,7 +658,7 @@ _annual passenger traffic on registered air carriers_: 269,958 (2018)<br>
 ST<br>
 
 **Airports**<br>
-_total_: 67 (2021)<br>
+67 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 17<br>
@@ -716,14 +722,14 @@ information varies widely; estimated 100-125,000 active duty armed forces person
 the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, and domestically produced weapons systems; in recent years, Russia has been the leading arms provider; Sudan has one of the largest defense industries in Africa, which includes state-owned companies with military involvement; it mostly manufactures weapons systems under license from China, Russia, Turkey, and Ukraine (2022)<br>
 
 **Military service age and obligation**<br>
-18-33 years of age for compulsory or voluntary military service for men and women; 1-2 year service obligation (2022)<br>
+18-33 years of age for compulsory or voluntary military service for men and women; 12-24 month service obligation (2023)<br>
 <strong>note:</strong> implementation of conscription is reportedly uneven<br>
 
 **Military deployments**<br>
 approximately 750 Democratic Republic of the Congo (East African Community stabilization force)<br><br>Sudan joined the Saudi-led coalition that intervened in Yemen in 2015, reportedly providing as many as 40,000 troops during the peak of the war in 2016-17, mostly from the Rapid Support Forces; by 2021, Sudan had reduced the size of the force to about a brigade (approximately 2-3,000 troops) (2022)<br>
 
 **Military - note**<br>
-<p>the Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the Sudanese military and security forces have a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; UNISFA had about 2,000 personnel deployed as of mid-2022<br><br>in addition, the UN African Union Hybrid Operation in Darfur (UNAMID) operated in the war-torn Darfur region between 2007 and the end of its mandate in July 2021; UNAMID was a joint African Union-UN peacekeeping force with the mission of bringing stability to Darfur, including protecting civilians, facilitating humanitarian assistance, and promoting mediation efforts, while peace talks on a final settlement continued; UNAMID withdrew the last of its personnel in December 2021; note - the October 2020 peace agreement provided for the establishment of a Joint Security Keeping Forces (JSKF) comprised of 12,000 personnel tasked with securing the Darfur region in the place of UNAMID; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations; in Sep 2022, the first 2,000 members of the JSKF completed training (2022)<br>
+<p>the SAF is large, relatively well-equipped, and supported by militia and paramilitary forces, particularly the RSF; its primary focuses are internal security, border issues, and potential external threats from its neighbors; both the SAF and the RSF have some operational experience from internal security operations and Sudan’s years-long intervention in Yemen with the Saudi-led coalition; information on the organization of the SAF and the RSF varies; the Army is estimated to have more than 10 infantry divisions, as well as divisions of mechanized, armored, and airborne/special forces, and several independent infantry brigades; the RSF is estimated to have as many as 10 paramilitary brigades of varying size and makeup; the Air Force has several squadrons of Chinese- and Russian-origin combat  aircraft, as well as multiple squadrons of combat helicopters, also largely of Russian origin; the Navy has a small force of coastal patrol boats   <br><br>the Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the Sudanese military and security forces have a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; UNISFA had about 2,000 personnel deployed as of mid-2022<br><br>in addition, the UN African Union Hybrid Operation in Darfur (UNAMID) operated in the war-torn Darfur region between 2007 and the end of its mandate in July 2021; UNAMID was a joint African Union-UN peacekeeping force with the mission of bringing stability to Darfur, including protecting civilians, facilitating humanitarian assistance, and promoting mediation efforts, while peace talks on a final settlement continued; UNAMID withdrew the last of its personnel in December 2021; note - the October 2020 peace agreement provided for the establishment of a Joint Security Keeping Forces (JSKF) comprised of 12,000 personnel tasked with securing the Darfur region in the place of UNAMID; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations; in Sep 2022, the first 2,000 members of the JSKF completed training (2022)<br>
 
 ## Terrorism
 

@@ -412,9 +412,18 @@ _female_: 13.6% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 53.9 (2016 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 14.7% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 1.2% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8% NA<br>
 _highest 10%_: 38.1% (2016) NA<br>
+
+**Remittances**<br>
+0.12% of GDP (2021 est.)<br>
+0.12% of GDP (2020 est.)<br>
+0.12% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $79.34 billion (2017 est.)<br>
@@ -541,18 +550,17 @@ _Total energy consumption per capita 2019_: 172.009 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,900,599 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 52 (2020 est.)<br>
+_total subscriptions_: 3,856,180 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 51 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21,865,215 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 292 (2020 est.)<br>
+_total subscriptions_: 23,939,650 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 319 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Hong Kong&rsquo;s telecommunications sector continues to stay near the top of world rankings for the industry; it has kept its #1 spot in the Asian region in terms of the maturity of its telecom market &ndash; a reflection of the high penetration rates across mobile, mobile broadband, and fixed broadband; even fixed-line teledensity in Hong Kong is impressive at over 50%, although it too has started a gradual decline in keeping with most other telecom markets around the world, as consumers slowly transition over to the mobile platform for all of their communication needs (2022)<br>
-_domestic_: microwave radio relay links and extensive fiber-optic network; fixed-line is over 52 per 100 and mobile-cellular is nearly 292 subscriptions per 100 (2020)<br>
+_domestic_: fixed-line is over 51 per 100 and mobile-cellular is 319 subscriptions per 100 (2021)<br>
 _international_: country code - 852; landing points for the AAE-1, AAG, APCN-2, APG, ASE, FEA, FNAL, RNAL, H2HE, SeaMeWe-3, SJC and TGN-IA submarine cables that provide connections to Asia, US, Australia, the Middle East, and Europe; satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean); coaxial cable to Guangzhou, China (2022)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 34 commercial terrestrial TV networks each with multiple stations; multi-channel satellite and cable TV systems available; 3 licensed broadcasters of terrestrial radio, one of which is government funded, operate about 12 radio stations; note - 4 digital radio broadcasters operated in Hong Kong from 2010 to 2017, but all digital radio services were terminated in September 2017 due to weak market demand (2019)<br>
@@ -580,7 +588,7 @@ _annual freight traffic on registered air carriers_: 12,676,720,000 (2018) mt-km
 B-H<br>
 
 **Airports**<br>
-_total_: 2 (2021)<br>
+2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>

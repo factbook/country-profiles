@@ -155,7 +155,7 @@ _65 years and over_: 0.86 male(s)/female<br>
 _total population_: 1.04 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-29 deaths/100,000 live births (2017 est.)<br>
+23 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 6.49 deaths/1,000 live births<br>
@@ -515,10 +515,19 @@ _female_: 10.4% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 38.2 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 21.6% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 2.5% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1%<br>
 _highest 10%_: 31.4% (2012)<br>
 <strong>note:</strong> data are for urban households only<br>
+
+**Remittances**<br>
+0.13% of GDP (2021 est.)<br>
+0.13% of GDP (2020 est.)<br>
+0.13% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $2.553 trillion (2017 est.)<br>
@@ -647,18 +656,17 @@ _Total energy consumption per capita 2019_: 105.687 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 181.908 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
+_total subscriptions_: 180,700,500 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.72 billion (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 119 (2020 est.)<br>
+_total subscriptions_: 1.73 billion (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 122 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: China has the largest Internet market in the world with almost all subscribers accessing Internet through mobile devices; market is driven through government-allied investment; fast-developing data center market; government aims to provide universal and affordable broadband coverage through market competition and private investment in state-controlled enterprises; 3G and LTE subscribers will migrate to 5G aiming for 2 million 5G base stations by the end of 2022; government strengthens IoT policies to boost economic growth; China is pushing development of smart cities beyond Beijing; Beijing residents carry virtual card integrating identity, social security, health, and education documents; government controls gateways to global Internet through censorship, surveillance, and shut-downs; major exporter of broadcasting equipment world-wide (2022)<br>
-_domestic_: nearly 13 per 100 fixed line and 118 per 100 mobile-cellular; a domestic satellite system with several earth stations has been in place since 2018 (2020)<br>
+_domestic_: nearly 13 per 100 fixed line and 122 per 100 mobile-cellular (2021)<br>
 _international_: country code - 86;&nbsp;landing points for the RJCN, EAC-C2C, TPE, APCN-2, APG, NCP, TEA, SeaMeWe-3, SJC2, Taiwan Strait Express-1, AAE-1, APCN-2, AAG, FEA, FLAG and TSE&nbsp;submarine cables providing connectivity to Asia, the Middle East, Europe, and the US; satellite earth stations - 7 (5 Intelsat - 4 Pacific Ocean and 1 Indian Ocean; 1 Intersputnik - Indian Ocean region; and 1 Inmarsat - Pacific and Indian Ocean regions) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 all broadcast media are owned by, or affiliated with, the Chinese Communisty Party (CCP) or a government agency; no privately owned TV or radio stations; state-run Chinese Central TV, provincial, and municipal stations offer more than 2,000 channels; the Central Propaganda Department as well as local (provincial, municipal) sends directives to all domestic media outlets to guide its reporting with the government maintaining authority to approve all programming; foreign-made TV programs must be approved/censored prior to broadcast; increasingly, PRC nationals turn to online platforms (Bilibili, Tencent Video, iQiyi, etc) to access PRC and international films and television shows.&nbsp; Video platforms have to abide by regulations issued by the Cyberspace Administration of China (CAC), which align with censorship policies from CCP propaganda authorities. (2022)<br>
@@ -686,7 +694,7 @@ _annual freight traffic on registered air carriers_: 611,439,830 (2018) mt-km<br
 B<br>
 
 **Airports**<br>
-_total_: 507 (2021)<br>
+507 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 510<br>
@@ -755,14 +763,14 @@ the PLA is outfitted primarily with a wide mix of older and modern domestically 
 <strong>note:</strong> the PLA is in the midst of a decades-long modernization effort; in 2017, President XI set three developmental goals for the force - becoming a mechanized force with increased information and strategic capabilities by 2020, a fully modernized force by 2035, and a world-class military by mid-century<br>
 
 **Military service age and obligation**<br>
-18-22 years of age for men for selective compulsory military service, with a 2-year service obligation; women 18-19 years of age who are high school graduates and meet requirements for specific military jobs are subject to conscription; women may also volunteer; all officers are volunteers (2022)<br>
-<strong>note: </strong>the PLA’s conscription system functions as a levy; the PLA establishes the number of conscripts needed, which produces quotas for the provinces; each province provides a set number of soldiers or sailors; if the number of volunteers fails to meet quotas, the local governments may compel individuals to enter military service <br>
+18-22 years of age for men for selective compulsory military service, with a 2-year service obligation; women 18-19 years of age who are high school graduates and meet requirements for specific military jobs are subject to conscription (2022)<br>
+<strong>note: </strong>the PLA’s conscription system functions as a levy; the PLA establishes the number of enlistees needed, which produces quotas for the provinces; each province provides a set number of soldiers or sailors; if the number of volunteers fails to meet quotas, the local governments may compel individuals to enter military service<br>
 
 **Military deployments**<br>
 425 Mali (MINUSMA); 225 Democratic Republic of the Congo (MONUSCO); 420 Lebanon (UNIFIL); 1,050 South Sudan (UNMISS); up to 2,000 Djibouti (May 2022)<br>
 
 **Military - note**<br>
-established in 1927, the PLA is the military arm of the ruling Chinese Communist Party (CCP), which oversees the PLA through its Central Military Commission; the Central Military Commission is China’s top military decision making body<br><br>the PRC's internal security forces consist primarily of the Ministry of Public Security (MPS), the Ministry of State Security (MSS), the People’s Armed Police (PAP), and the militia; the PLA support the internal security forces as necessary:<br><br>the MPS controls the civilian national police, which serves as the first-line force for public order; its primary mission is domestic law enforcement and maintaining order, including anti-rioting and anti-terrorism<br><br>the MSS is the PRC’s main civilian intelligence and counterintelligence service<br><br>the PAP is a paramilitary component (or adjunct) of the PLA; its primary missions include internal security, maintaining public order, maritime security, and assisting the PLA in times of war; it is under the command of the Central Military Commission (CMC); the China Coast Guard (CCG) administratively falls under the PAP; the CCG has a variety of missions, such as maritime sovereignty enforcement, surveillance, resource protection, anti-smuggling, and general law enforcement; as of 2023, it was the largest maritime law enforcement fleet in the world<br><br>the militia is an armed reserve of civilians which serves as an auxiliary and reserve force for the PLA upon mobilization, although it is distinct from the PLA’s reserve forces; militia units are organized around towns, villages, urban sub-districts, and enterprises, and vary widely in composition and mission; they have dual civilian-military command structures; a key component of the militia are the local maritime forces, commonly referred to as the People’s Armed Forces Maritime Militia (PAFMM); the PAFMM consists of mariners (and their vessels) who receive training, equipment, and other forms of support from the Navy and CCG (although the PAFMM remains separate from both) to perform tasks such as maritime patrolling, surveillance and reconnaissance, emergency/disaster response, transportation, search and rescue, and auxiliary tasks in support of naval operations in wartime; the PAFMM’s tasks are often conducted in conjunction or coordination with the Navy and the CCG; it has been used to assert Beijing's maritime claims in the Sea of Japan and South China Sea (2023)<br>
+established in 1927, the PLA is the military arm of the ruling Chinese Communist Party (CCP), which oversees the PLA through its Central Military Commission; the Central Military Commission is China’s top military decision making body<br><br>the PLA is the World’s largest military; its primary responsibility is external security but it also has some domestic security duties; China’s stated defense policy includes safeguarding sovereignty, security, and development interests while emphasizing a greater global role for the PLA; the PLA conducts air, counterspace, cyber, electronic warfare, joint, land, maritime, missile, nuclear, and space operations; it is a professional force that trains regularly, including multinational and multiservice exercises, deploys overseas, and participates in international peacekeeping missions <br><br>the majority of the Ground Forces are organized into 13 group armies with approximately 80 subordinate combined arms brigades that serve as the primary ground maneuver forces; each group army also controls artillery, air defense, aviation/air assault, special operations, engineer, and logistics brigades; there are also a several independent mechanized and motorized infantry divisions <br><br>the Navy is numerically the largest in the World with an overall battle force of some 340 ships and submarines, including 2 aircraft carriers (with a third in trials), 4 cruisers, more than 80 destroyers and frigates, and approximately 60 submarines; it also has a large naval aviation force, as well as a growing Marine Corps comprised of 6 amphibious brigades supplemented by aviation and special operations forces<br> <br>the combined aviation forces of the Air Force and Navy are the largest in the region and third largest in the World with nearly 3,000 total aircraft, of which more than 2,200 are combat aircraft, including fighter, bomber, ground attack, and multipurpose fighter aircraft; the Air Force also has an airborne/rapid reaction corps with a mix of airborne, air assault, special operations, and aviation brigades; the PLA Rocket Force manages the PRC’s land-based conventional and nuclear missile units<br><br>the PRC's internal security forces consist primarily of the Ministry of Public Security (MPS), the Ministry of State Security (MSS), the People’s Armed Police (PAP), and the militia; the PLA support the internal security forces as necessary:<br><br>--the MPS controls the civilian national police, which serves as the first-line force for public order; its primary mission is domestic law enforcement and maintaining order, including anti-rioting and anti-terrorism<br><br>--the MSS is the PRC’s main civilian intelligence and counterintelligence service<br><br>--the PAP is a paramilitary component (or adjunct) of the PLA; its primary missions include internal security, maintaining public order, maritime security, and assisting the PLA in times of war; it is under the command of the Central Military Commission; the China Coast Guard (CCG) administratively falls under the PAP; the CCG has a variety of missions, such as maritime sovereignty enforcement, surveillance, resource protection, anti-smuggling, and general law enforcement; as of 2023, it was the largest maritime law enforcement fleet in the world with approximately 130 large patrol craft<br><br>--the militia is an armed reserve of civilians which serves as an auxiliary and reserve force for the PLA upon mobilization, although it is distinct from the PLA’s reserve forces; militia units are organized around towns, villages, urban sub-districts, and enterprises, and vary widely in composition and mission; they have dual civilian-military command structures; a key component of the militia are the local maritime forces, commonly referred to as the People’s Armed Forces Maritime Militia (PAFMM); the PAFMM consists of mariners (and their vessels) who receive training, equipment, and other forms of support from the Navy and CCG (although the PAFMM remains separate from both) to perform tasks such as maritime patrolling, surveillance and reconnaissance, emergency/disaster response, transportation, search and rescue, and auxiliary tasks in support of naval operations in wartime; the PAFMM’s tasks are often conducted in conjunction or coordination with the Navy and the CCG; it has been used to assert Beijing's maritime claims in the Sea of Japan and South China Sea (2023)<br>
 
 ## Transnational Issues
 

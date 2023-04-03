@@ -147,7 +147,7 @@ _65 years and over_: 0.91 male(s)/female<br>
 _total population_: 1.03 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-112 deaths/100,000 live births (2017 est.)<br>
+78 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 19.22 deaths/1,000 live births<br>
@@ -195,6 +195,9 @@ _unimproved: total_: total: 3.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 (2021 est.) <0.1%<br>
+
+**Major infectious diseases**<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Algeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 27.4% (2016)<br>
@@ -269,6 +272,9 @@ _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Major infectious diseases**<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Algeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 12,378,740 tons (2016 est.)<br>
@@ -469,9 +475,18 @@ _female_: 54% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 27.6 (2011 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 37.3% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 1% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 26.8% (1995)<br>
+
+**Remittances**<br>
+1.17% of GDP (2020 est.)<br>
+1.04% of GDP (2019 est.)<br>
+1.13% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $54.15 billion (2017 est.)<br>
@@ -613,7 +628,6 @@ _subscriptions per 100 inhabitants_: 106 (2021 est.)<br>
 _general assessment_: Algeria has a steadily developing telecom infrastructure with growth encouraged by supportive regulatory measures and by government policies aimed at delivering serviceable internet connections across the country; mobile broadband is largely based on 3G and LTE, and the data rates are also low in global terms; LTE is available in all provinces, investment is required from the mobile network operators (MNOs) to improve the quality of service; the state has previously been hesitant to commit to 5G, instead encouraging the MNOs to undertake upgrades to LTE infrastructure before investing in commercial 5G services; in March 2022, the state is in the process of freeing up the requisite spectrum to enable the MNOs to launch 5G services sometime this year; fixed internet speeds remain slow (2022)<br>
 _domestic_: a limited network of fixed-lines with a teledensity of slightly less than 12 telephones per 100 persons has been offset by the rapid increase in mobile-cellular subscribership; mobile-cellular teledensity was approximately 106 telephones per 100 persons in 2020 (2021)<br>
 _international_: country code - 213;&nbsp;ALPAL-2 is a submarine telecommunications cable system in the Mediterranean Sea linking Algeria and the Spanish Balearic island of Majorca;&nbsp;ORVAL is a submarine cable to Spain; landing points for the TE North/TGN-Eurasia/SEACOM/SeaMeWe-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; MED cable connecting Algeria with France;&nbsp;microwave radio relay to Italy, France, Spain, Morocco, and Tunisia;&nbsp;Algeria part of the 4,500 Km terrestrial Trans Sahara Backbone network which connects to other fiber networks in the region; Alcomstat-1 satellite offering&nbsp; telemedicine network (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-run Radio-Television Algerienne operates the broadcast media and carries programming in Arabic, Berber dialects, and French; use of satellite dishes is widespread, providing easy access to European and Arab satellite stations; state-run radio operates several national networks and roughly 40 regional radio stations<br>
@@ -641,7 +655,7 @@ _annual freight traffic on registered air carriers_: 28.28 million (2018) mt-km<
 7T<br>
 
 **Airports**<br>
-_total_: 149 (2021)<br>
+149 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 67<br>
@@ -696,10 +710,10 @@ Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast
 approximately 140,000 ANP personnel (120,000 Army; 6,000 Navy; 14,000 Air Force); approximately 130,000 National Gendarmerie; approximately 200,000 General Directorate of National Security (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ANP's inventory includes mostly Russian-sourced equipment; since 2010, Algeria has received arms from a variety of countries, with Russia as the leading supplier (2022)<br>
+the ANP's inventory includes mostly Russian-sourced equipment; since 2010, Algeria has received arms from a variety of countries with Russia as the leading supplier (2022)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service for men and women; 19-30 years of age for compulsory service for men (all Algerian men must register at age 17); conscript service obligation reduced from 18 to 12 months in 2014 (2022)<br>
+18 is the legal minimum age for voluntary military service for men and women; 19-30 years of age for mandatory service for men (all Algerian men must register at age 17); service obligation reduced from 18 to 12 months in 2014 (2023)<br>
 <strong>note: </strong>as of 2020, conscripts comprised an estimated 70% of the military<br>
 
 **Military - note**<br>

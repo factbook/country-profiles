@@ -53,6 +53,7 @@ _mean elevation_: 1,034 m<br>
 
 **Natural resources**<br>
 gold, chromium, antimony, coal, iron ore, manganese, nickel, phosphates, tin, rare earth elements, uranium, gem diamonds, platinum, copper, vanadium, salt, natural gas<br>
+<strong>note: </strong>South Africa was the World's leading chromite ore producer in 2022 with an output of 18,000 mt<br>
 
 **Land use**<br>
 _agricultural land_: 79.4% (2018 est.)<br>
@@ -152,7 +153,7 @@ _65 years and over_: 0.73 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-119 deaths/100,000 live births (2017 est.)<br>
+127 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 24.99 deaths/1,000 live births<br>
@@ -493,9 +494,18 @@ _female_: 69.3% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 63 (2014 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 21.4% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 4.9% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2%<br>
 _highest 10%_: 51.3% (2011 est.)<br>
+
+**Remittances**<br>
+0.22% of GDP (2021 est.)<br>
+0.24% of GDP (2020 est.)<br>
+0.23% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $92.86 billion (2017 est.)<br>
@@ -635,7 +645,6 @@ _subscriptions per 100 inhabitants_: 165.6 (2019)<br>
 _general assessment_: South Africa&rsquo;s telecom sector boasts one of the most advanced infrastructures on the continent; the focus in recent years has been on back haul capacity and on fiber and LTE networks to extend and improve internet service connectivity; with the ongoing migration to fiber, the incumbent telco expects to close down its copper network in 2024; the mobile sector has developed strongly in recent years, partly due to the poor availability and level of service of fixed-line networks, which meant that many people had no alternative to mobile networks for voice and data services; the multi-spectrum auction was delayed several times due to legal wrangling, and was finally held in March 2022; the delay caused difficulties for network operators, which were forced to reform spectrum for 3G and LTE use, and provide 5G services on temporary licenses; six qualified bidders acquired spectrum, netting the regulator ZAR14.4 billion in revenues; the market is shrugging off the impact of the pandemic, which had a significant impact on production and supply chains globally, and saw a slowdown in some network expansions, particularly around 5G; on the consumer side, spending on telecoms services and devices remains slightly under pressure amid ongoing macroeconomic challenges facing the country; the crucial nature of telecom services, both for general communication as well as a tool for home-working, will offset such pressures; in many markets the net effect should be a steady though reduced increase in subscriber growth (2022)<br>
 _domestic_: fixed-line over 3 per 100 persons and mobile-cellular nearly 162 telephones per 100 persons; consists of carrier-equipped open-wire lines, coaxial cables, microwave radio relay links, fiber-optic cable, radiotelephone communication stations, and wireless local loops; key centers are Bloemfontein, Cape Town, Durban, Johannesburg, Port Elizabeth, and Pretoria (2020)<br>
 _international_: country code - 27; landing points for the WACS, ACE, SAFE, SAT-3, Equiano, SABR, SAEx1, SAEx2, IOX Cable System, METISS, EASSy, and SEACOM/ Tata TGN-Eurasia&nbsp;fiber-optic submarine cable systems connecting South Africa, East Africa, West Africa, Europe,&nbsp;Southeast Asia, Asia, South America, Indian Ocean Islands,&nbsp;and the&nbsp;US;&nbsp;satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the South African Broadcasting Corporation (SABC) operates 4 TV stations, 3 are free-to-air and 1 is pay TV; e.tv, a private station, is accessible to more than half the population; multiple subscription TV services provide a mix of local and international channels; well-developed mix of public and private radio stations at the national, regional, and local levels; the SABC radio network, state-owned and controlled but nominally independent, operates 18 stations, one for each of the 11 official languages, 4 community stations, and 3 commercial stations; more than 100 community-based stations extend coverage to rural areas<br>
@@ -663,7 +672,7 @@ _annual freight traffic on registered air carriers_: 716.25 million (2018) mt-km
 ZS<br>
 
 **Airports**<br>
-_total_: 407 (2021)<br>
+407 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 130<br>
@@ -747,7 +756,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>South Africa-Botswana</em>: none identified</p> <p><em>South Africa-Eswatini</em>: Eswatini seeks to reclaim land it says was stolen by South Africa</p> <p><em>South Africa-Lesotho</em>: crossborder livestock thieving, smuggling of drugs and arms, and illegal migration are problematic</p> <p><em>South Africa-Mozambique</em>: animal poachers cross the South Africa-Mozambique border to hunt wildlife in South Africa’s Kruger National Park; border fences were removed in some areas to allow animals to roam between nature reserves in the two countries; improved patrols, technology, and crossborder cooperation are reducing the problem</p> <p><em>South Africa-Namibia</em>: the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; the location of the border could affect diamond mining rights; South Africa has always claimed that the northern bank of the Orange River is the border between the two countries, while Namibia’s constitution states that the border lies in the middle of the Orange River</p> <p><em>South Africa-various</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>South Africa-Zimbabwe</em>: Zimbabweans migrate illegally into South Africa in search of work or smuggle goods to sell at a profit back home</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,388 (Somalia), 15,240 (Ethiopia) (mid-year 2022); 56,080 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 22,388 (Somalia), 15,240 (Ethiopia) (mid-year 2022); 56,080 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 5,000 (2020)<br>
 
 **Illicit drugs**<br>

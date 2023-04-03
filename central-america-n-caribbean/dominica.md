@@ -405,6 +405,11 @@ _services_: 28% (2002 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+10.38% of GDP (2021 est.)<br>
+13.48% of GDP (2020 est.)<br>
+7.77% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $227.8 million (2017 est.)<br>
 _expenditures_: $260.4 million (2017 est.)<br>
@@ -530,18 +535,17 @@ _Total energy consumption per capita 2019_: 37.513 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total subscriptions_: 7,500 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 76,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 106 (2020 est.)<br>
+_total subscriptions_: 62,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 86 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
-_domestic_: fixed-line connections continue to decline slowly with only two active operators providing about 4 fixed-line connections per 100 persons; subscribership among the three mobile-cellular providers is about 106 per 100 persons (2020)<br>
+_domestic_: 10 fixed-line connections per 100 persons; mobile-cellular subscriptions are about 86 per 100 persons (2021)<br>
 _international_: country code - 1-767; landing points for the ECFS and the&nbsp;Southern Caribbean Fiber&nbsp;submarine cables providing connectivity to other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad and to the US; microwave radio relay and SHF radiotelephone links to Martinique and Guadeloupe; VHF and UHF radiotelephone links to Saint Lucia (2019)<br>
-<!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 no terrestrial TV service available; subscription cable TV provider offers some locally produced programming plus channels from the US, Latin America, and the Caribbean; state-operated radio broadcasts on 6 stations; privately owned radio broadcasts on about 15 stations (2019)<br>
@@ -563,7 +567,7 @@ _subscriptions per 100 inhabitants_: 22 (2020 est.)<br>
 J7<br>
 
 **Airports**<br>
-_total_: 2 (2021)<br>
+2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>

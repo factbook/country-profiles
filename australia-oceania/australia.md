@@ -52,7 +52,7 @@ _mean elevation_: 330 m<br>
 
 **Natural resources**<br>
 alumina, coal, iron ore, copper, lithium, tin, gold, silver, uranium, nickel, tungsten, rare earth elements, mineral sands, lead, zinc, diamonds, opals, natural gas, petroleum;<br>
-<strong>note 1:</strong> Australia is the world's largest net exporter of coal accounting for 26.5% of global coal exports in 2021;coal is the country’s most abundant energy resource, and coal ranks as the second-largest export commodity from Australia in terms of revenue; in 2020, Australia held the third-largest recoverable coal reserves in the world behind the United States and Russia<br><br><strong>note 2:</strong> Australia is by far the world's largest supplier of opals<br><br><strong>note 3:</strong> Australia holds the largest uranium reserves in the world, and was the second-largest global uranium producer behind Kazakhstan in 2020.<br><br><strong>note 4: </strong>Australia was the largest exporter of LNG in the world in 2020.<br>
+<strong>note 1:</strong> Australia is the world's largest net exporter of coal accounting for 26.5% of global coal exports in 2021; coal is the country’s most abundant energy resource, and coal ranks as the second-largest export commodity from Australia in terms of revenue; in 2020, Australia held the third-largest recoverable coal reserves in the world behind the United States and Russia<br><br><strong>note 2:</strong> Australia is by far the world's largest supplier of opals<br><br><strong>note 3:</strong> Australia holds the largest uranium reserves in the world, and was the second-largest global uranium producer behind Kazakhstan in 2020.<br><br><strong>note 4: </strong>Australia was the largest exporter of LNG in the world in 2020.<br>
 
 **Land use**<br>
 _agricultural land_: 46.65% (2018 est.)<br>
@@ -157,7 +157,7 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 28.7 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
-6 deaths/100,000 live births (2017 est.)<br>
+3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 2.96 deaths/1,000 live births<br>
@@ -490,9 +490,18 @@ _female_: 8.9% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 34.3 (2018 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 9.3% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.5% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2%<br>
 _highest 10%_: 25.4% (1994)<br>
+
+**Remittances**<br>
+0.06% of GDP (2021 est.)<br>
+0.09% of GDP (2020 est.)<br>
+0.13% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $490 billion (2017 est.)<br>
@@ -633,7 +642,6 @@ _subscriptions per 100 inhabitants_: 105 (2021 est.)<br>
 _general assessment_: the Australian telecom market since 2020 has been impacted by the pandemic, which forced many people to school and work from home and thus adopt fixed-line broadband services; internet traffic, both fixed and mobile, increased substantially as a result; in the fixed sector, there is an ongoing migration from copper-based platforms to fiber; the extension of fixed wireless access will mean that up to 120,000 premises currently dependent on satellite broadband will be able to access 5G-based fixed services; the fixed-line market has been falling steadily over the past five years; in the Australian fixed broadband market, there is a dynamic shift among customers to fiber networks; the DSL sector is steadily shrinking while subscribers on HFC infrastructure will continue to be provided by existing cable, with a steady migration to full fiber connectivity (2022)<br>
 _domestic_: 18 per 100 fixed-line telephone subscriptions and 105 per 100 mobile-cellular; more subscribers to mobile services than there are people; 90% of all mobile device sales are now smartphones, growth in mobile traffic brisk (2021)<br>
 _international_: country code - 61; landing points for&nbsp;more than&nbsp;20 submarine cables including: the SeaMeWe-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the INDIGO-Central, INDIGO West and ASC, North West Cable System, Australia-Papua New Guinea cable, CSCS, PPC-1, Gondwana-1, SCCN, Hawaiki, TGA, Basslink, Bass Strait-1, Bass Strait-2, JGA-S, with links to other Australian cities, New Zealand&nbsp;and many countries in southeast Asia, US and Europe; the H2 Cable, AJC, Telstra Endeavor, Southern Cross NEXT with links to Japan, Hong Kong, and other Pacific Ocean countries as well as the US; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the Australian Broadcasting Corporation (ABC) runs multiple national and local radio networks and TV stations, as well as ABC Australia, a TV service that broadcasts in the Asia-Pacific region and is the main public broadcaster; Special Broadcasting Service (SBS), a second large public broadcaster, operates radio and TV networks broadcasting in multiple languages; several large national commercial TV networks, a large number of local commercial TV stations, and hundreds of commercial radio stations are accessible; cable and satellite systems are available (2022)<br>
@@ -661,7 +669,7 @@ _annual freight traffic on registered air carriers_: 2,027,640,000 (2018) mt-km<
 VH<br>
 
 **Airports**<br>
-_total_: 418 (2021)<br>
+418 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 349<br>
@@ -737,7 +745,7 @@ the military's inventory includes a mix of domestically-produced and imported We
 <strong>note: </strong>since the 1990s, Australia has deployed more than 30,000 personnel on nearly 100 UN peacekeeping and coalition military operations, including in Cambodia, Rwanda, the Solomon Islands, Somalia, and East Timor<br>
 
 **Military - note**<br>
-Australia has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; Australia is also a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>Australia has a long-standing military relationship with the US; Australian and US forces first fought together in France in 1918 at the Battle of Hamel, and have fought together in every major US conflict since; Australia and the US signed an agreement in 2014 that allowed for closer bi-lateral defense and security cooperation, including annual rotations of US Marines and enhanced rotations of US Air Force aircraft to Australia; Australian military forces train often with US forces; Australia has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation <br><br>Australia also has long-standing defense and security ties to the UK, including a Defense and Security Cooperation Treaty signed in 2013; in 2020, Australia and the UK signed a memorandum of understanding to cooperate on the building of a next generation of frigates for their respective navies; the Australia-UK Ministerial Consultations (AUKMIN) is their premier bilateral forum on foreign policy, defense, and security issues <br><br>in 2021, Australia, the UK, and the US announced an enhanced trilateral security partnership called “AUKUS” which would build on existing bilateral ties, including deeper integration of defense and security-related science, technology, industrial bases, and supply chains, as well as deeper cooperation on a range of defense and security capabilities; the first initiative under AUKUS was a commitment to support Australia in acquiring conventionally armed nuclear-powered submarines for the Royal Australian Navy (2023)<br>
+Australia has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; Australia is also a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>Australia has a long-standing military relationship with the US; Australian and US forces first fought together in France in 1918 at the Battle of Hamel, and have fought together in every major US conflict since; Australia and the US signed an agreement in 2014 that allowed for closer bi-lateral defense and security cooperation, including annual rotations of US Marines and enhanced rotations of US Air Force aircraft to Australia; Australian military forces train often with US forces; Australia has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation <br><br>Australia also has long-standing defense and security ties to the UK, including a Defense and Security Cooperation Treaty signed in 2013; in 2020, Australia and the UK signed a memorandum of understanding to cooperate on the building of a next generation of frigates for their respective navies; the Australia-UK Ministerial Consultations (AUKMIN) is their premier bilateral forum on foreign policy, defense, and security issues <br><br>in 2021, Australia, the UK, and the US announced an enhanced trilateral security partnership called “AUKUS” which would build on existing bilateral ties, including deeper integration of defense and security-related science, technology, industrial bases, and supply chains, as well as deeper cooperation on a range of defense and security capabilities; the first initiative under AUKUS was a commitment to support Australia in acquiring conventionally armed nuclear-powered submarines for the Royal Australian Navy<br><br>the ADF is an experienced and professional force equipped with modern weapons; its missions include protecting Australia’s borders and maritime interests, responding to domestic natural disasters, and deploying overseas for humanitarian, peacekeeping, and other security-related missions; it trains regularly and participates in international exercises; the Army’s principal combat forces include a divisional headquarters with 3 mechanized brigades and a special operations command; the Navy operates over 40 surface craft and submarines, including 11 destroyers and frigates, 2 landing helicopter dock (LHD) amphibious assault ships, and 6 attack-type submarines; the RAF has an air combat group with more than 140 modern combat aircraft, as well as transport and surveillance air groups (2023)<br>
 
 ## Terrorism
 

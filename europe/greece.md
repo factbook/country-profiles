@@ -141,7 +141,7 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 30.7 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-3 deaths/100,000 live births (2017 est.)<br>
+8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.49 deaths/1,000 live births<br>
@@ -465,9 +465,18 @@ _female_: 41.5% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 33.1 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 17.1% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 4.9% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
 _highest 10%_: 26.7% (2015 est.)<br>
+
+**Remittances**<br>
+0.32% of GDP (2021 est.)<br>
+0.32% of GDP (2020 est.)<br>
+0.33% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $97.99 billion (2017 est.)<br>
@@ -595,18 +604,17 @@ _Total energy consumption per capita 2019_: 108.022 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,028,332 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 48 (2020 est.)<br>
+_total subscriptions_: 4,913,036 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 47 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,412,995 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 109 (2020 est.)<br>
+_total subscriptions_: 11,494,008 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Greece&rsquo;s telecom market is susceptible to the country&rsquo;s volatile economy, and as a result revenue among the key networks has been variable; broadband subscriptions in Greece are developing steadily despite the difficult economic conditions; the main networks are concentrating investment on fiber-based next generation networks, enabling them to reach the European broadband targets for 2025; their work is also supported by government ultra-fast broadband projects, largely funded by the EC and aimed at delivering a service of at least 100Mb/s to under served areas; Greece&rsquo;s well-developed mobile market is dominated by the three MNOs; Networks continue to invest in LTE infrastructure and technologies to provide networks capable of meeting customer demand for data services; after extensive trials of 5G, the MNOs were able to launch commercial services in early 2021 following the December 2020 allocation of frequencies in a range of bands; the rapid rollout of 5G encouraged the shut down of the 3G network (a process expected to be completed by the end of 2021) and reallocate for LTE and 5G. (2022)<br>
-_domestic_: microwave radio relay trunk system; extensive open-wire connections; submarine cable to offshore islands; nearly 46 per 100 subscribers for fixed-line and 110 per 100 for mobile-cellular (2020)<br>
+_domestic_: 47 per 100 subscribers for fixed-line and 110 per 100 for mobile-cellular (2021)<br>
 _international_: country code - 30; landing points for the SEA-ME-WE-3, Adria-1, Italy-Greece 1, OTEGLOBE, MedNautilus Submarine System, Aphrodite 2, AAE-1&nbsp;and Silphium optical telecommunications submarine cable that provides links to Europe, the Middle East, Africa, Southeast Asia, Asia and Australia;&nbsp; tropospheric scatter; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Eutelsat, and 1 Inmarsat - Indian Ocean region) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 broadcast media dominated by the private sector; roughly 150 private TV channels, about 10 of which broadcast nationwide; 1 government-owned terrestrial TV channel with national coverage; 3 privately owned satellite channels; multi-channel satellite and cable TV services available; upwards of 1,500 radio stations, all of them privately owned; government-owned broadcaster has 2 national radio stations<br>
@@ -634,7 +642,7 @@ _annual freight traffic on registered air carriers_: 21.91 million (2018) mt-km<
 SX<br>
 
 **Airports**<br>
-_total_: 77 (2021)<br>
+77 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 68<br>
@@ -681,11 +689,11 @@ Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National G
 <strong>note:</strong> the police (under the Ministry of Citizen Protection) and the armed forces (Ministry of National Defense) share law enforcement duties in certain border areas; border protection is coordinated by a deputy minister for national defense<br>
 
 **Military expenditures**<br>
-3.8% of GDP (2022 est.)<br>
+3.6% of GDP (2022 est.)<br>
 3.6% of GDP (2021)<br>
 2.9% of GDP (2020)<br>
-2.3% of GDP (2019) (approximately $7.95 billion)<br>
-2.5% of GDP (2018) (approximately $8.31 billion)<br>
+2.3% of GDP (2019)<br>
+2.5% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 125,000 active duty personnel (90,000 Army; 15,000 Navy; 20,000 Air Force); approximately 35,000 National Guard (2022)<br>
@@ -695,7 +703,7 @@ the military's inventory consists of a mix of imported weapons from Europe and t
 <strong>note:</strong> as of 2022, Greece was in the midst of a significant military modernization program which included major acquisitions of fighter aircraft and naval ships from France; it had also boosted purchases of US equipment, including fighter aircraft upgrades, helicopters, and naval patrol craft <br>
 
 **Military service age and obligation**<br>
-19-45 years of age for compulsory military service for men; 12-month obligation for all services (note - as an exception, the duration of the full military service is 9 instead of 12 months if conscripts, after the initial training, serve the entire remaining time in certain areas of the eastern borders, in Cyprus, or in certain military units); 18 years of age for voluntary military service for men and women (2022)<br>
+19-45 years of age for compulsory military service for men; 12-month obligation for all services (note - as an exception, the duration of the full military service is 9 instead of 12 months if conscripts, after the initial training, serve the entire remaining time in certain areas of the eastern borders, in Cyprus, or in certain military units); 18 years of age for voluntary military service for men and women (2023)<br>
 <strong>note 1: </strong>compulsory service applies to any individual whom the Greek authorities consider to be Greek, regardless of whether the individual considers himself Greek, has a foreign citizenship and passport, or was born or lives outside of Greece; Greek citizens living permanently outside of Greece have the right to postpone their conscription; they are permanently exempted from their military obligations when they reach the age of 45 years old<strong><br><br>note 2: </strong>up to 50% of the Greek military is comprised of conscripts<br><br><strong>note 3: </strong>as of 2019, women comprised approximately 19% of the military's full-time personnel<br>
 
 **Military deployments**<br>
@@ -718,7 +726,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 20,955 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,235,454 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
+<strong>note:</strong> 1,236,082 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

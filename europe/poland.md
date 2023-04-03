@@ -149,7 +149,7 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 27.9 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-2 deaths/100,000 live births (2017 est.)<br>
+2 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 4.1 deaths/1,000 live births<br>
@@ -490,9 +490,18 @@ _female_: 15% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 30.2 (2018 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 16.7% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 5.7% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3%<br>
 _highest 10%_: 23.9% (2015 est.)<br>
+
+**Remittances**<br>
+1.05% of GDP (2021 est.)<br>
+1.12% of GDP (2020 est.)<br>
+1.18% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $207.5 billion (2017 est.)<br>
@@ -631,7 +640,6 @@ _subscriptions per 100 inhabitants_: 132 (2021 est.)<br>
 _general assessment_: the liberalized telecom market has seen considerable development in the broadband and mobile sectors; the regulatory environment has encouraged market competition, partly by encouraging operators to secure spectrum and also by ensuring access to cable and fiber infrastructure; the mobile market in recent years has been characterized by the rapid extension of LTE networks and the development of mobile data services based on newly released and re-farmed spectrum; the regulator&rsquo;s attempts to auction spectrum in a range of bands has been delayed, with spectrum in the 5G-suitable 3.4-3.8GHz range having been suspended to later in 2021 as a result of the Covid-19 outbreak and legislative changes (2021)<br>
 _domestic_: several nation-wide networks provide mobile-cellular service; fixed-line roughly 14 per 100 (service lags in rural areas), mobile-cellular over 132 per 100 persons (2021)<br>
 _international_: country code - 48; landing points for the Baltica and the Denmark-Poland2 submarine cables connecting Poland, Denmark and Sweden; international direct dialing with automated exchanges; satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and Intersputnik (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-run public TV operates 2 national channels supplemented by 16 regional channels and several niche channels; privately owned entities operate several national TV networks and a number of special interest channels; many privately owned channels broadcasting locally; roughly half of all households are linked to either satellite or cable TV systems providing access to foreign television networks; state-run public radio operates 5 national networks and 17 regional radio stations; 2 privately owned national radio networks, several commercial stations broadcasting to multiple cities, and many privately owned local radio stations (2019)<br>
@@ -659,7 +667,7 @@ _annual freight traffic on registered air carriers_: 271.49 million (2018) mt-km
 SP<br>
 
 **Airports**<br>
-_total_: 126 (2021)<br>
+126 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 87<br>
@@ -747,7 +755,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,564,711 (Ukraine) (as of 7 February 2023)<br>
+_refugees (country of origin)_: 1,573,267 (Ukraine) (as of 21 March 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

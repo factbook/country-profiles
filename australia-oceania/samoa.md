@@ -135,7 +135,7 @@ _65 years and over_: 0.8 male(s)/female<br>
 _total population_: 1.03 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-43 deaths/100,000 live births (2017 est.)<br>
+59 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 17.76 deaths/1,000 live births<br>
@@ -453,6 +453,11 @@ _female_: 24.5% (2021 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+29.44% of GDP (2021 est.)<br>
+23.5% of GDP (2020 est.)<br>
+17% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $237.3 million (2017 est.)<br>
 _expenditures_: $276.8 million (2017 est.)<br>
@@ -588,7 +593,6 @@ _subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
 _general assessment_: Samoa was one of the first Pacific Island countries to establish a regulatory infrastructure and to liberalize its telecom market; the advent of competition in the mobile market saw prices fall by around 50% and network coverage increase to more than 90% of the population; Samoa also boasts one of the highest rates of mobile phone coverage in the Pacific region; the growth of fixed-line internet has been impeded by factors including the high costs for bandwidth, under investment in fixed-line infrastructure; Samoa&rsquo;s telecoms sector has been inhibited by a lack of international connectivity; Samoa has had access to the Samoa-America-Samoa (SAS) cable laid in 2009, this cable has insufficient capacity to meet the country&rsquo;s future bandwidth needs; this issue was addressed with two new submarine cables that became available in 2018 and 2019; combined with the Samoa National Broadband Highway (SNBH), have improved internet data rates and reliability, and have helped to reduce the high costs previously associated with internet access in Samoa; in April 2022, the Samoan government announced its decision to take over control of the Samoa Submarine Cable Company, looking to the cable to generate additional revenue for the state (2022)<br>
 _domestic_: fixed-line roughly 3 per 100 and mobile-cellular teledensity nearly 35 telephones per 100 persons (2020)<br>
 _international_: country code - 685; landing points for the Tui-Samo, Manatua, SAS, and Southern Cross NEXT submarine cables providing connectivity to Samoa, Fiji,&nbsp;Wallis&nbsp;&amp; Futuna, Cook Islands, Niue, French Polynesia, American Samoa, Australia, New Zealand, Kiribati, Los Angeles (US), and Tokelau;&nbsp;satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned TV station privatized in 2008; 4 privately owned television broadcast stations; about a half-dozen privately owned radio stations and one state-owned radio station; TV and radio broadcasts of several stations from American Samoa are available (2019)<br>
@@ -615,7 +619,7 @@ _annual passenger traffic on registered air carriers_: 137,770 (2018)<br>
 5W<br>
 
 **Airports**<br>
-_total_: 4 (2021)<br>
+4 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

@@ -142,7 +142,7 @@ _total population_: 0.9 male(s)/female (2023 est.)<br>
 29.9 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-8 deaths/100,000 live births (2017 est.)<br>
+12 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 2.47 deaths/1,000 live births<br>
@@ -466,9 +466,18 @@ _female_: 26.2% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 32.8 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 16.6% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 25.9% (2015 est.)<br>
+
+**Remittances**<br>
+0.31% of GDP (2021 est.)<br>
+0.32% of GDP (2020 est.)<br>
+0.26% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $93.55 billion (2017 est.)<br>
@@ -607,7 +616,6 @@ _subscriptions per 100 inhabitants_: 116 (2020 est.)<br>
 _general assessment_: Portugal has a medium-sized telecom market with a strong mobile sector and a growing broadband customer base; before the pandemic, the country had seen improving economic growth, following several years of austerity measures; revenue among some operators remains under pressure, though investments in network upgrades are continuing in an effort to attract customers to high-end services; Portugal&rsquo;s broadband services have grown steadily in recent years, largely the result of joint efforts between the regulator and the key market operators which have invested in significant infrastructure upgrades; these operators are focused on fiber-based services, resulting in a migration of subscribers from digital subscriber line DSL infrastructure; the government has also supported open-access wholesale networks; the mobile virtual network operator (MVNO) market remains largely undeveloped, partly because network operators have their own low-cost brands; collectively, MVNOs have about 2.9% share of the market; population coverage by 3G infrastructure is universal, and most investment in the sector is being directed to LTE and 5G technologies; the MNOs have trialed 5G and are looking to launch commercial services (2021)<br>
 _domestic_: integrated network of coaxial cables, open-wire, microwave radio relay, and domestic satellite earth stations; fixed-line roughly 51 per 100 persons and mobile-cellular 116 per 100 persons (2020)<br>
 _international_: country code - 351;&nbsp;landing points for the Ella Link, BUGIO, EIG, SAT-3/WASC, SeaMeWe-3, Equino, MainOne, Tat TGN-Western Europe, WACS, ACE, Atlantis2 and Columbus-III&nbsp;submarine cables provide connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, South America&nbsp;and the US; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to Azores (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 Radio e Televisao de Portugal, the publicly owned TV broadcaster, operates 4 domestic channels and external service channels to Africa; overall, roughly 40 domestic TV stations; viewers have widespread access to international broadcasters with more than half of all households connected to multi-channel cable or satellite TV systems; publicly owned radio operates 3 national networks and provides regional and external services; several privately owned national radio stations and some 300 regional and local commercial radio stations<br>
@@ -635,7 +643,7 @@ _annual freight traffic on registered air carriers_: 454.21 million (2018) mt-km
 CR, CS<br>
 
 **Airports**<br>
-_total_: 64 (2021)<br>
+64 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 43<br>
@@ -680,7 +688,7 @@ Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy 
 <strong>note:</strong> the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to the Ministry of Internal Administration and to the Ministry of National Defense; in the event of war or crisis, it may be placed under the Chief of the General Staff of the Armed Forces; the GNR has law enforcement jurisdiction in rural areas, while the Public Security Police (also under the Ministry of Internal Administration) has jurisdiction in cities<br>
 
 **Military expenditures**<br>
-1.5% of GDP (2022 est.)<br>
+1.4% of GDP (2022 est.)<br>
 1.6% of GDP (2021)<br>
 1.4% of GDP (2020)<br>
 1.4% of GDP (2019) (approximately $4.31 billion)<br>
@@ -693,7 +701,7 @@ approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, including a
 the military's inventory includes mostly European- and US-origin weapons systems along with a smaller mix of domestically produced equipment; in recent years, leading foreign suppliers have included Germany and the US; Portugal's defense industry is primarily focused on shipbuilding (2022)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004) but conscription possible if insufficient volunteers available; women serve in the armed forces but are prohibited from serving in some combatant specialties; contract service lasts for an initial period from two to six years, and can be extended to a maximum of 20 years of service; initial voluntary military service lasts 12 months; reserve obligation to age 35 (2022)<br>
+18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004) but conscription possible if insufficient volunteers available; women serve in the armed forces but are prohibited from serving in some combatant specialties; contract service lasts for an initial period of 2-6 years, and can be extended to a maximum of 20 years of service; initial voluntary military service lasts 12 months; reserve obligation to age 35 (2022)<br>
 <strong>note: </strong>as of 2019, women made up about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>

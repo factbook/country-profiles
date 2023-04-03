@@ -150,7 +150,7 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 22.6 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
-60 deaths/100,000 live births (2017 est.)<br>
+50 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 25.08 deaths/1,000 live births<br>
@@ -485,6 +485,11 @@ _female_: 27.3% (2021 est.)<br>
 _lowest 10%_: 4.4%<br>
 _highest 10%_: 22.9% (2014 est.)<br>
 
+**Remittances**<br>
+32.69% of GDP (2021 est.)<br>
+31.14% of GDP (2020 est.)<br>
+27.17% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.169 billion (2017 est.)<br>
 _expenditures_: $2.409 billion (2017 est.)<br>
@@ -622,7 +627,6 @@ _subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
 _general assessment_: the country&rsquo;s telecom sector (specifically the mobile segment) has been able to prosper; Kyrgyzstan has opened up its telecom market to competition; the mobile market has achieved high levels of penetration (140% in 2021) along with a fairly competitive operating environment with four major players; mobile broadband has come along strongly, reaching over 125% penetration in 2019 before falling back slightly during the Covid-19 crisis; slow-to-moderate growth is expected for both segments in coming years, supported by the anticipated rollout of 5G services starting from late 2022 (2022)<br>
 _domestic_: fixed-line penetration at nearly 5 per 100 persons remains low and concentrated in urban areas; mobile-cellular subscribership up to over 130 per 100 persons (2020)<br>
 _international_: country code - 996; connections with other CIS (Commonwealth of Independent States, 9 members post-Soviet Republics in EU) countries by landline or microwave radio relay and with other countries by leased connections with Moscow international gateway switch and by satellite; satellite earth stations - 2 (1 Intersputnik, 1 Intelsat) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-funded public TV broadcaster KTRK has nationwide coverage; also operates Ala-Too 24 news channel which broadcasts 24/7 and&nbsp;4 other educational, cultural, and sports channels; ELTR and Channel 5 are&nbsp;state-owned stations with national reach; the switchover to digital TV in 2017 resulted in private TV station growth; approximately 20 stations are struggling to increase their own content up to 50% of airtime, as required by law, instead of rebroadcasting primarily&nbsp;programs from Russian channels&nbsp;or airing unlicensed movies and music; 3 Russian TV stations also broadcast; state-funded radio stations and about 10 significant private radio stations also exist (2019)<br>
@@ -649,7 +653,7 @@ _annual passenger traffic on registered air carriers_: 709,198 (2018)<br>
 EX<br>
 
 **Airports**<br>
-_total_: 28 (2021)<br>
+28 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 18<br>
@@ -699,7 +703,7 @@ approximately 14,000 active-duty troops (8,500 Land Forces; 2,500 Air Force/Air 
 the Kyrgyz military inventory is comprised of mostly older Russian and Soviet-era equipment; Kyrgyzstan relies on donations of military equipment, which come mostly from Russia under a 2013 agreement between Bishkek and Moscow (2022)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory or voluntary male military service in the Armed Forces or Interior Ministry; 12-month service obligation (9 months for university graduates), with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2022)<br>
+18-27 years of age for compulsory or voluntary service for men in the Armed Forces or Interior Ministry; 12-month service obligation (9 months for university graduates), with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2023)<br>
 
 **Military - note**<br>
 Kyrgyzstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; it also started a relationship with NATO in 1992 and joined NATO's Partnership for Peace program in 1994 (2023)<br>

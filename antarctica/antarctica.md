@@ -149,7 +149,7 @@ _percent of population_: 100% (2016 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 17 (2021)<br>
+17 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 17<br>

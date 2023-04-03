@@ -159,7 +159,7 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Maternal mortality ratio**<br>
-70 deaths/100,000 live births (2017 est.)<br>
+72 deaths/100,000 live births (2020 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Infant mortality rate**<br>
@@ -513,9 +513,18 @@ _female_: 28.7% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 39.5 (2013 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 34% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 1.4% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
 _highest 10%_: 33.2% (2007)<br>
+
+**Remittances**<br>
+7.49% of GDP (2021 est.)<br>
+6.11% of GDP (2020 est.)<br>
+5.4% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $22.81 billion (2017 est.)<br>
@@ -653,7 +662,6 @@ _subscriptions per 100 inhabitants_: 134 (2020 est.)<br>
 _general assessment_: despite Morocco's economic progress, the country suffers from high unemployment and illiteracy affecting telecom market, particularly in rural areas; national network nearly 100% digital using fiber-optic links; improved rural service employs microwave radio relay; one of the most state-of-the-art markets in Africa; high mobile penetration rates in the region with low cost for broadband Internet access; improvement in LTE reach and capabilities; service providers have all successfully completed 5G proofs of concept and are currently lining up 5G equipment providers for both radio and core technology; regulatory agency expects to conduct the 5G spectrum auction in 2023; mobile Internet accounts for 93% of all Internet connections; World Bank provided funds for Morocco&rsquo;s digital transformation; government supported digital education during pandemic; submarine cables and satellite provide connectivity to Asia, Africa, the Middle East, Europe, and Australia (2022)<br>
 _domestic_: fixed-line teledensity is just over 6 per 100 persons and mobile-cellular subscribership is nearly 134 per 100 persons; good system composed of open-wire lines, cables, and microwave radio relay links; principal switching centers are Casablanca and Rabat (2020)<br>
 _international_: country code - 212; landing point for the Atlas Offshore, Estepona-Tetouan, Canalink&nbsp;and SEA-ME-WE-3 fiber-optic telecommunications undersea cables that provide connectivity to Asia,&nbsp;Africa,&nbsp;the Middle East, Europe and Australia; satellite earth stations - 2 Intelsat (Atlantic Ocean) and 1 Arabsat; microwave radio relay to Gibraltar, Spain, and Western Sahara (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 2 TV broadcast networks with state-run Radio-Television Marocaine (RTM) operating one network and the state partially owning the other; foreign TV broadcasts are available via satellite dish; 3 radio broadcast networks with RTM operating one; the government-owned network includes 10 regional radio channels in addition to its national service (2019)<br>
@@ -684,7 +692,7 @@ _annual freight traffic on registered air carriers_: 97.71 million (2018) mt-km<
 CN<br>
 
 **Airports**<br>
-_total_: 62 (2021)<br>
+62 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 36<br>
@@ -726,8 +734,8 @@ _LNG terminal(s) (import)_: Jorf Lasfar (planned)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Armed Forces: Royal Moroccan Army (includes the Moroccan Royal Guard), Royal Moroccan Navy (includes Coast Guard, marines), Royal Moroccan Air Force; Ministry of Defense (aka Administration of National Defense): Royal Moroccan Gendarmerie; Ministry of Interior: National Police, Auxiliary Forces (2022)<br>
-<strong>note 1: </strong>the National Police manages internal law enforcement in cities; the Royal Gendarmerie is responsible for law enforcement in rural regions and on national highways<br><br><strong>note 2:</strong> the Auxiliary Forces provide support to the Gendarmerie and National Police; it includes a Mobile Intervention Corps, a motorized paramilitary security force that supplements the military and the police as needed<br><br><strong>note 3: </strong>the Moroccan Royal Guard was established in the 11th century and is considered one of the world's oldest active units still in military service <br><br> <br>
+Royal Armed Forces (FAR): Royal Moroccan Army (includes the Moroccan Royal Guard), Royal Moroccan Navy (includes Coast Guard, marines), Royal Moroccan Air Force; Ministry of Defense (aka Administration of National Defense): Royal Moroccan Gendarmerie; Ministry of Interior: National Police, Auxiliary Forces (2022)<br>
+<strong>note 1:</strong> the Moroccan Royal Guard is officially part of the Royal Moroccan Army, but is under the direct operational control of the Royal Military Household of His Majesty the King; it provides for the security and safety of the King and royal family; it was established in the 11th century and is considered one of the world's oldest active units still in military service<strong><br><br></strong><strong>note 2: </strong>the National Police manages internal law enforcement in cities; the Royal Gendarmerie is responsible for law enforcement in rural regions and on national highways; the Gendarmerie operates mobile and fixed checkpoints along the roads in border areas and at the entrances to major municipalities; it also has a counterterrorism role <br><br><strong>note 3:</strong> the Auxiliary Forces provide support to the Gendarmerie and National Police; it includes a Mobile Intervention Corps, a motorized paramilitary security force that supplements the military and the police as needed<br><br> <br><br> <br>
 
 **Military expenditures**<br>
 4.5% of GDP (2021 est.)<br>
@@ -737,13 +745,13 @@ Royal Armed Forces: Royal Moroccan Army (includes the Moroccan Royal Guard), Roy
 3.4% of GDP (2017 est.) (approximately $7.08 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); estimated 20,000 Gendarmerie; estimated 5,000 Mobile Intervention Corps (2022)<br>
+approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); estimated 20,000 Gendarmerie; estimated 5,000 Mobile Intervention Corps; estimated 25-30,000 Auxiliary Forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Moroccan military's inventory is comprised of mostly older French and US equipment, although in recent years, it has received quantities of more modern equipment from a variety of countries with France and the US continuing to be the leading suppliers (2022)<br>
 
 **Military service age and obligation**<br>
-19-25 years of age for 12-month compulsory and voluntary military service for men and women (conscription abolished 2006 and reintroduced in 2019) (2022)<br>
+19-25 years of age for 12-month compulsory and voluntary military service for men and women (conscription abolished 2006 and reintroduced in 2019) (2023)<br>
 
 **Military deployments**<br>
 775 Central African Republic (MINUSCA); 925 Democratic Republic of the Congo (MONUSCO) (May 2022)<br>

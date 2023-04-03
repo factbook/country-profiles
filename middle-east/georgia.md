@@ -145,7 +145,7 @@ _total population_: 0.92 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data does not cover Abkhazia and South Ossetia<br>
 
 **Maternal mortality ratio**<br>
-25 deaths/100,000 live births (2017 est.)<br>
+28 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 14.45 deaths/1,000 live births<br>
@@ -470,9 +470,18 @@ _female_: 29.9% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 34.5 (2020 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 32.3% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2%<br>
 _highest 10%_: 31.3% (2008)<br>
+
+**Remittances**<br>
+14.19% of GDP (2021 est.)<br>
+13.32% of GDP (2020 est.)<br>
+12.93% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $4.352 billion (2017 est.)<br>
@@ -610,9 +619,8 @@ _subscriptions per 100 inhabitants_: 137 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector has been attempting for many years to overcome the decades of under-investment in its fixed-line infrastructure during the Soviet era; concerted efforts to privatize state-owned enterprises and open up the telecom market have been mostly successful, with a large number of networks now competing in both the fixed-line and the mobile segments; more needs to be done, however, to give investors the confidence to enter a market that has barely moved in terms of revenue growth over the last decade, and where regulatory overreach has sometimes come perilously close to arresting further development; Georgia&rsquo;s government moved fast following the collapse of the Soviet Union to liberalize the country&rsquo;s telecom market; this resulted in a relatively high number of networks competing in the under-developed fixed-line segment as well as in the emerging mobile market; both segments remain dominated by just a few companies (2022)<br>
-_domestic_: fixed-line subscriptions over 9 per 100, cellular telephone networks cover the entire country; mobile-cellular teledensity roughly 128 per 100 persons; intercity facilities include a fiber-optic line between T'bilisi and K'ut'aisi; the mobile and mobile broadband segments have both demonstrated solid growth in 2021, (2020)<br>
+_domestic_: fixed-line subscriptions 9 per 100, mobile-cellular teledensity roughly 137 per 100 persons (2021)<br>
 _international_: country code - 995; landing points for the Georgia-Russia, Diamond Link Global, and Caucasus Cable System fiber-optic submarine cable that provides connectivity to Russia, Romania and Bulgaria; international service is available by microwave, landline, and satellite through the Moscow switch; international electronic mail and telex service are available (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 The Tbilisi-based Georgian Public Broadcaster (GPB) includes Channel 1, Channel 2, and the Batumi-based Adjara TV, and the State Budget funds all three; there are also a number of independent commercial television broadcasters, such as Imedi, Rustavi 2, Pirveli TV, Maestro, Kavkasia, Georgian Dream Studios (GDS), Obiektivi, Mtavari Arkhi, and a small Russian language operator TOK TV; Tabula and Post TV are web-based television outlets; all of these broadcasters and web-based television outlets, except GDS, carry the news; the Georgian Orthodox Church also operates a satellite-based television station called Unanimity; there are 26 regional television broadcasters across Georgia that are members of the Georgian Association of Regional Broadcasters and/or the Alliance of Georgian Broadcasters; the broadcaster organizations seek to strengthen the regional media's capacities and distribution of regional products: a nationwide digital switchover occurred in 2015; there are several dozen private radio stations; GPB operates 2 radio stations (2019)<br>
@@ -640,7 +648,7 @@ _annual freight traffic on registered air carriers_: 750,000 (2018) mt-km<br>
 4L<br>
 
 **Airports**<br>
-_total_: 22 (2021)<br>
+22 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 18<br>
@@ -685,9 +693,9 @@ Georgian Defense Forces: Land Forces (includes Aviation and Air Defense Forces),
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
-1.8% of GDP (2019) (approximately $780 million)<br>
-1.9% of GDP (2018) (approximately $760 million)<br>
-1.9% of GDP (2017) (approximately $750 million)<br>
+1.8% of GDP (2019)<br>
+1.9% of GDP (2018)<br>
+1.9% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 30,000 troops, including active National Guard forces (2022)<br>
@@ -697,7 +705,7 @@ information varies; approximately 30,000 troops, including active National Guard
 the majority of the military's inventory consists of Soviet-era weapons and equipment, although in recent years it has received armaments from a number of European countries, as well as Israel and the US (2022)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for voluntary active duty military service; conscription abolished in 2016, but reinstated in 2017 for men 18 to 27 years of age; conscript service obligation is 12 months (2022)<br>
+18-27 years of age for voluntary military service; conscription was abolished in 2016, but reinstated in 2017 for men 18-27 years of age; conscript service obligation is 12 months (2023)<br>
 <strong>note 1: </strong>approximately 6-7,000 individuals are called up annually for conscription for service; approximately 25% enter the Defense Forces, while the remainder serve in the Ministry of Internal Affairs or as prison guards in the Ministry of Corrections<br><br><strong>note 2:</strong> as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military - note**<br>

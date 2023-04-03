@@ -147,7 +147,7 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-544 deaths/100,000 live births (2017 est.)<br>
+566 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 47.04 deaths/1,000 live births<br>
@@ -485,6 +485,11 @@ _female_: 43.8% (2021 est.) NA<br>
 _lowest 10%_: 1%<br>
 _highest 10%_: 39.4% (2003)<br>
 
+**Remittances**<br>
+20% of GDP (2021 est.)<br>
+20.98% of GDP (2020 est.)<br>
+22.16% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.09 billion (2017 est.)<br>
 _expenditures_: $1.255 billion (2017 est.)<br>
@@ -623,7 +628,6 @@ _subscriptions per 100 inhabitants_: 73 (2020 est.)<br>
 _general assessment_: until late 2020, Lesotho&rsquo;s telecom regulator maintained a market duopoly which is focused on fixed-line services; competition was insufficient to promote effective price reductions for consumers, while the regulator had no mechanisms in place to monitor the telcos to ensure quality of service and fair pricing for consumers; the small size of the country&rsquo;s population provided little incentive for new players to enter the market; a positive outcome for consumers was the deployment in early 2021 of a service to monitor traffic and billing; this ended the practice whereby the regulator was dependent on telcos submitting data about their performance, billing, and other matters; the regulator has also turned its attention to addressing multiple SIM ownership and stem incidences of crimes committed using unregistered SIMs; in May 2022, it instructed the country&rsquo;s MNOs to begin registering SIM cards on their networks from the following month; fixed-wireless 5G trials began in early 2019 (2022)<br>
 _domestic_: fixed-line is less than 1 per 100 subscriptions; mobile-cellular service subscribership nearly 73 per 100 persons; rudimentary system consisting of a modest number of landlines, a small microwave radio relay system, and a small radiotelephone communication system (2020)<br>
 _international_: country code - 266; Internet accessibility has improved with several submarine fiber optic cables that land on African east and west coasts, but the country's land locked position makes access prices expensive; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 state-owned TV station and 2 state-owned radio stations; government controls most private broadcast media; satellite TV subscription service available; transmissions of multiple international broadcasters obtainable (2019)<br>
@@ -645,7 +649,7 @@ _subscriptions per 100 inhabitants_: 0.2 (2020 est.)<br>
 7P<br>
 
 **Airports**<br>
-_total_: 24 (2021)<br>
+24 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 3<br>

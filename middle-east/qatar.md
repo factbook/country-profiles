@@ -140,7 +140,7 @@ _65 years and over_: 1.92 male(s)/female<br>
 _total population_: 3.34 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-9 deaths/100,000 live births (2017 est.)<br>
+8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 6.46 deaths/1,000 live births<br>
@@ -458,9 +458,18 @@ NA<br>
 **Gini Index coefficient - distribution of family income**<br>
 41.1 (2007 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 12.3% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 0.3% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.3%<br>
 _highest 10%_: 35.9% (2007)<br>
+
+**Remittances**<br>
+0.48% of GDP (2021 est.)<br>
+0.45% of GDP (2020 est.)<br>
+0.33% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $44.1 billion (2017 est.)<br>
@@ -598,7 +607,6 @@ _subscriptions per 100 inhabitants_: 132 (2020 est.)<br>
 _general assessment_: Qatar had developed a mature telecom sector which has been able to absorb the additional data demands made on it during the pandemic; mobile services based on LTE are universally available to migrate to 5G; in combination with a strong fiber rollout, the country is aiming to provide gigabit services nationally; 5G services are largely based on 3.5GHz spectrum made available following an auction in early 2019 (2022)<br>
 _domestic_: fixed-line nearly 16 per 100 and mobile-cellular telephone subscribership nearly 132 telephones per 100 persons (2020)<br>
 _international_: country code - 974; landing points for the&nbsp;Qatar-UAE Submarine&nbsp;Cable&nbsp;System, AAE-1, FOG, GBICS/East North Africa MENA and the FALCON submarine cable network that provides links to Asia, Africa, the Middle East, Europe and Southeast Asia; tropospheric scatter to Bahrain; microwave radio relay to Saudi Arabia and the UAE; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) and 1 Arabsat; retains full ownership of two commercial satellites, Es'hailSat 1 and 2 (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 TV and radio broadcast licensing and access to local media markets are state controlled; home of the satellite TV channel Al-Jazeera, which was originally owned and financed by the Qatari government but has evolved to independent corporate status; Al-Jazeera claims editorial independence in broadcasting; local radio transmissions include state, private, and international broadcasters on FM frequencies in Doha; in August 2013, Qatar's satellite company Es'hailSat launched its first communications satellite Es'hail 1 (manufactured in the US), which entered commercial service in December 2013 to provide improved television broadcasting capability and expand availability of voice and Internet; Es'hailSat launched its second commercial satellite in 2018 with aid of SpaceX (2019)<br>
@@ -626,7 +634,7 @@ _annual freight traffic on registered air carriers_: 12,666,710,000 (2018) mt-km
 A7<br>
 
 **Airports**<br>
-_total_: 6 (2021)<br>
+6 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
@@ -668,14 +676,14 @@ Qatar Armed Forces: Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari
 3.4% of GDP (2017 est.) (approximately $8.22 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 15,000 active duty personnel (10,000 Land Force, including Emiri Guard; 3,000 Navy; 2,000 Air Force) (2022)<br>
+information varies; approximately 15,000 active-duty personnel (10,000 Land Force, including Emiri Guard; 3,000 Navy; 2,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Qatari military's inventory includes a broad mix of older and modern weapons systems, mostly from the US and Europe; in the 2010s, Qatar embarked on an extensive military expansion and modernization program with large air, ground, and naval equipment purchases; in recent years, France and the US have been the top suppliers (2023)<br>
 
 **Military service age and obligation**<br>
-conscription for men aged 18-35 introduced in 2013; compulsory service times range from 4-12 months, depending on educational and professional circumstances; since 2018, women have been permitted to serve as volunteers in the armed forces, including as uniformed officers and pilots (2022)<br>
-<strong>note 1:</strong> as of 2020, the military incorporated about 2,000 conscripts annually<br><br><strong>note 2:</strong> Qatar recruits foreign contract soldiers to overcome manpower limitations; as of 2020, it was estimated that as much as 85% of the military was comprised of foreigners<br>
+conscription for men aged 18-35 introduced in 2013; compulsory service times range from 4-12 months, depending on educational and professional circumstances; since 2018, women have been permitted to serve as volunteers in the armed forces, including as uniformed officers and pilots (2023)<br>
+<strong>note 1:</strong> the military incorporates about 2,000 conscripts annually<br><br><strong>note 2:</strong> Qatar recruits foreign contract soldiers to overcome manpower limitations; it is estimated that as much as 85% of the military is comprised of foreigners<br>
 
 **Military - note**<br>
 Qatar hosts the regional headquarters for the US Central Command (CENTCOM; established 1983) and more than 8,000 US military forces at various military facilities, including the large Al Udeid Air Base; Qatar also hosts as many as 5,000 Turkish military forces at two bases established in 2014 and 2019<br><br>Qatar has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2023)<br>

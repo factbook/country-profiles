@@ -140,7 +140,7 @@ _65 years and over_: 0.7 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-61 deaths/100,000 live births (2017 est.)<br>
+84 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 11.84 deaths/1,000 live births<br>
@@ -460,6 +460,11 @@ _female_: 32.9% (2021 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+2.36% of GDP (2021 est.)<br>
+2.5% of GDP (2020 est.)<br>
+2.21% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.994 billion (2017 est.)<br>
 _expenditures_: $3.038 billion (2017 est.)<br>
@@ -597,7 +602,6 @@ _subscriptions per 100 inhabitants_: 150 (2020 est.)<br>
 _general assessment_: the telecom sector in Mauritius has long been supported by the varied needs of tourists; this has stimulated the mobile market, leading to a particularly high penetration rate; the response of the country&rsquo;s telcos to tourist requirements also contributed to the country being among the first in the region to provide services based on 3G and WiMAX technologies; the incumbent telco provides comprehensive LTE and fiber broadband coverage, and in late 2021 it launched a gigabit fiber-based broadband service; the country has seen improved international internet capacity in recent years, with direct cables linking to India, Madagascar, and South Africa, as well as other connections to Rodrigues and Reunion; mobile subscribers in Mauritius secured 5G services in mid-2021;&nbsp; this followed the regulator&rsquo;s award of spectrum in two bands to the MNOs (2022)<br>
 _domestic_: fixed-line teledensity over 37 per 100 persons and mobile-cellular services teledensity roughly 150 per 100 persons (2020)<br>
 _international_: country code - 230; landing points for the SAFE, MARS, IOX Cable System, METISS&nbsp;and LION submarine cable system that provides links to Asia, Africa, Southeast Asia, Indian Ocean Islands of Reunion, Madagascar, and Mauritius; satellite earth station - 1 Intelsat (Indian Ocean); new microwave link to Reunion; HF radiotelephone links to several countries (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the Mauritius Broadcasting Corporation is the national public television and radio broadcaster; it broadcasts programming in French, English, Hindi, Creole and Chinese, it provides 17 television channels in Mauritius; there are nine Mauritian FM radio stations and two operating on the AM band<br> (2022)<br>
@@ -625,7 +629,7 @@ _annual freight traffic on registered air carriers_: 233.72 million (2018) mt-km
 3B<br>
 
 **Airports**<br>
-_total_: 5 (2021)<br>
+5 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>

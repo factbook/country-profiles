@@ -404,6 +404,11 @@ _female_: 57.3% (2020 est.)<br>
 _lowest 10%_: 3.8%<br>
 _highest 10%_: 22% (2015 est.)<br>
 
+**Remittances**<br>
+17.95% of GDP (2021 est.)<br>
+18.61% of GDP (2020 est.)<br>
+15.81% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.054 billion (2017 est.)<br>
 _expenditures_: $2.203 billion (2017 est.)<br>
@@ -536,7 +541,6 @@ _subscriptions per 100 inhabitants_: 32 (2015 est.)<br>
 _general assessment_: Kosovo has benefited from financial and regulatory assistance as part of the EU pre-accession process; the telecom sector has been liberalized, and legislation has aligned the sector with the EU&rsquo;s revised regulatory framework; poor telecom infrastructure has meant that fixed-line communication remains low by European standards; unlike most markets, the fixed-line broadband sector is dominated by new players; there is effective competition between the main cable and DSL operators, though as yet there is little progress with the expansion of fiber networks; the mobile sector accounts for most telecom lines for voice services, as well as the greater part of telecom revenue; two MNOs dominate the sector (2022 )<br>
 _domestic_: fixed-line roughly 6 per 100 and mobile-cellular 32 per 100 persons (2019)<br>
 _international_: country code - 383<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Internet country code**<br>
 .xk; note - assigned as a temporary code under UN Security Council resolution 1244/99<br><br> <br>
@@ -555,7 +559,7 @@ _number of registered air carriers_: 0 (2020)<br>
 Z6<br>
 
 **Airports**<br>
-_total_: 6 (2021)<br>
+6 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 3<br>

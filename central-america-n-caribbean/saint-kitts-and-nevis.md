@@ -415,6 +415,11 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+4.32% of GDP (2021 est.)<br>
+3.57% of GDP (2020 est.)<br>
+3.82% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $307 million (2017 est.)<br>
 _expenditures_: $291.1 million (2017 est.)<br>
@@ -551,7 +556,6 @@ _subscriptions per 100 inhabitants_: 147 (2020 est.)<br>
 _general assessment_: good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>
 _domestic_: interisland links via ECFS; fixed-line teledensity about 28 per 100 persons; mobile-cellular teledensity is roughly 147 per 100 persons (2020)<br>
 _international_: country code - 1-869; landing points for&nbsp;the ECFS, Southern Caribbean Fiber and the SSCS&nbsp;submarine cables providing connectivity for numerous Caribbean Islands (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the government operates a national TV network that broadcasts on 2 channels; cable subscription services provide access to local and international channels; the government operates a national radio network; a mix of government-owned and privately owned broadcasters operate roughly 15 radio stations (2019)<br>
@@ -573,7 +577,7 @@ _subscriptions per 100 inhabitants_: 56 (2020 est.)<br>
 V4<br>
 
 **Airports**<br>
-_total_: 2 (2021)<br>
+2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>

@@ -146,7 +146,7 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 29.7 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-4 deaths/100,000 live births (2017 est.)<br>
+5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 2.28 deaths/1,000 live births<br>
@@ -468,9 +468,18 @@ _female_: 23% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 28.8 (2017 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 12.4% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
 _highest 10%_: 24% (2012)<br>
+
+**Remittances**<br>
+0.52% of GDP (2021 est.)<br>
+0.57% of GDP (2020 est.)<br>
+0.6% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $271.2 billion (2017 est.)<br>
@@ -610,7 +619,6 @@ _subscriptions per 100 inhabitants_: 128.49 (2019)<br>
 _general assessment_: Sweden&rsquo;s telecom market includes mature mobile and broadband sectors which have been stimulated by the progressive investment of the main telcos in developing new technologies; the country retains one of the best developed LTE infrastructures in the region, while its MNOs have benefited from the January 2021 auction of spectrum in the 3.5GHz band which will enable them to expand services nationally; the country also has one of the highest fiber broadband penetration rates in Europe; the focus of FttP is aimed at fulfilling the government&rsquo;s target of providing a 1Gb/s service to 98% of the population by 2025; the methodology to achieve this has rested on regulatory measures supported by public funds, as well as on the auction of spectrum in different bands; in the fixed-line broadband segment, the number of DSL subscribers is falling steadily as customers continue to migrate to fiber networks; there is also competition from HFC infrastructure, offering fiber-based broadband and investing in services based on the DOCSIS3.1 standard; this report assesses key aspects of the Swedish telecom market, providing data on fixed network services and profiling the main players; it also reviews the key regulatory issues, including interconnection, local loop unbundling, number portability, carrier preselection and NGN open access; the report also analyses the mobile market, providing data on network operators and their strategies in a highly competitive environment; in addition, the report considers the fixed and fixed-wireless broadband markets, including analyses of market dynamics and the main operators, as well as providing subscriber forecasts (2021)<br>
 _domestic_: fixed-line just over 16 per 100 and mobile-cellular roughly 128 per 100; coaxial and multiconductor cables carry most of the voice traffic; parallel microwave radio relay systems carry some additional telephone channels (2020)<br>
 _international_: country code - 46; landing points for Botina, SFL, SFS-4, Baltic Sea Submarine Cable, Eastern Light, Sweden-Latvia, BCS North-Phase1, EE-S1, LV-SE1,&nbsp;BCS East-West Interlink, NordBalt, Baltica, Denmark-Sweden-15,-17,-18, Scandinavian Ring -North,-South, IP-Only Denmark-Sweden, Donica North,&nbsp;Kattegate-1,-2, Energinet Laeso-Varberg and GC2 submarine cables providing links to other Nordic countries and Europe; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Eutelsat, and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Sweden shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Norway) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 publicly owned TV broadcaster operates 2 terrestrial networks plus regional stations; multiple privately owned TV broadcasters operating nationally, regionally, and locally; about 50 local TV stations; widespread access to pan-Nordic and international broadcasters through multi-channel cable and satellite TV; publicly owned radio broadcaster operates 3 national stations and a network of 25 regional channels; roughly 100 privately owned local radio stations with some consolidating into near national networks; an estimated 900 community and neighborhood radio stations broadcast intermittently<br>
@@ -636,7 +644,7 @@ _inventory of registered aircraft operated by air carriers_: 316<br>
 SE<br>
 
 **Airports**<br>
-_total_: 231 (2021)<br>
+231 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 149<br>
@@ -701,7 +709,7 @@ the SAF has about 46,000 military personnel: approximately 14,000 continuous ser
 the SAF's inventory is comprised of domestically produced and imported Western weapons systems; in recent years, the US has been the leading supplier of military hardware to Sweden; Sweden's defense industry produces a range of air, land, and naval systems (2022)<br>
 
 **Military service age and obligation**<br>
-18-47 years of age for male and female voluntary military service; service obligation: 7.5 months (Army), 7-15 months (Navy), 8-12 months (Air Force); after completing initial service, soldiers have a reserve commitment until age 47; compulsory military service, abolished in 2010, was reinstated in January 2018; conscription is selective, includes both men and women (age 18), and requires 9-12 months of service (2022)<br>
+18-47 years of age for male and female voluntary military service; service obligation: 7.5 months (Army), 7-15 months (Navy), 8-12 months (Air Force); after completing initial service, soldiers have a reserve commitment until age 47; compulsory military service, abolished in 2010, was reinstated in January 2018; conscription is selective, includes both men and women (age 18), and requires 9-12 months of service (2023)<br>
 <strong>note 1: </strong>Sweden conscripts about 5,500 men and women each year; it plans to increase this number to 8,000 by 2025<br><br><strong>note 2: </strong>as of 2021, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>

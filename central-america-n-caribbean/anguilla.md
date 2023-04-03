@@ -411,18 +411,17 @@ _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,000 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 42 (2018 est.)<br>
+_total subscriptions_: 6,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 38 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 26,000 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 182 (2018 est.)<br>
+_total subscriptions_: 26,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 170 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: in the telecom sector, with declines seen in subscriber numbers (particularly for prepaid mobile services &mdash; the mainstay of short-term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis to a small extent as employees and students have resorted to working from home, but their contribution to the sector has been insufficient to offset steep falls in other areas of the market; one area of the telecom market that does not yet appear poised for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have little appetite for investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage; until the economies and markets stabilize, and overseas visitors return there is unlikely to be much momentum towards implementing 5G capabilities anywhere in the region (2021)<br>
-_domestic_: fixed-line teledensity is about 42 per 100 persons; mobile-cellular teledensity is roughly 182 per 100 persons (2018)<br>
+_domestic_: fixed-line teledensity is about 38 per 100 persons; mobile-cellular teledensity is roughly 170 per 100 persons (2021)<br>
 _international_: country code - 1-264; landing points for the&nbsp;SSCS, ECFS, GCN&nbsp;and Southern Caribbean Fiber with submarine cable&nbsp;links to&nbsp;Caribbean islands&nbsp;and to the US; microwave radio relay to island of Saint Martin/Sint Maarten (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 private TV station; multi-channel cable TV subscription services are available; about 10 radio stations, one of which is government-owned<br>
@@ -448,7 +447,7 @@ _inventory of registered aircraft operated by air carriers_: 4<br>
 VP-A<br>
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

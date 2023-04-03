@@ -147,7 +147,7 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 31.2 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-4 deaths/100,000 live births (2017 est.)<br>
+3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 2.43 deaths/1,000 live births<br>
@@ -485,9 +485,18 @@ _female_: 38.2% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 34.7 (2017 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 12.1% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.5% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.5%<br>
 _highest 10%_: 24% (2011)<br>
+
+**Remittances**<br>
+0.28% of GDP (2021 est.)<br>
+0.23% of GDP (2020 est.)<br>
+0.23% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $498.1 billion (2017 est.)<br>
@@ -626,7 +635,6 @@ _subscriptions per 100 inhabitants_: 118.44 (2019)<br>
 _general assessment_: Spain&rsquo;s telecom sector has tracked the performance of the overall economy, which has been one of the most heavily impacted by the pandemic in all of Europe; GDP dropped by 10.8% in 2020, while telecom revenue reversed the previous five years&rsquo; positive results by falling 5.3%; fixed-line services were the hardest hit, with revenue falling 13.7%; mobile voice services did not fare much better, falling 4.7%; this is despite relatively small shifts in the number of subscribers, though the harsh lockdown conditions resulted in a significant drop in usage; it had appeared that a return to growth might be possible in 2021 following lifting the state of emergency in May, but the most recent surge in cases and the continued restrictions on travel may once again put the brakes on growth until at least 2022; Spain&rsquo;s fixed-line broadband market managed to extend its decade-long pattern of steady growth into 2020, with a slight increase in demand caused by the need for fast internet access to support working and learning from home; while most of Spain&rsquo;s larger telcos delivered negative revenue and profit in 2020 (2021)<br>
 _domestic_: fixed-line nearly 42 per 100 and mobile-cellular 119 telephones per 100 persons (2020)<br>
 _international_: country code - 34; landing points for the MAREA, Tata TGN-Western Europe, Pencan-9, SAT-3/WASC, Canalink, Atlantis-2, Columbus -111, Estepona-Tetouan, FLAG Europe-Asia (FEA), Balalink, ORVAL and PENBAL-5 submarine cables providing connectivity to Europe, the Middle East, Africa, South America, Asia, Southeast Asia and the US; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean), Eutelsat; tropospheric scatter to adjacent countries (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 <p>a mixture of both publicly operated and privately owned TV and radio stations; overall, hundreds of TV channels are available including national, regional, local, public, and international channels; satellite and cable TV systems available; multiple national radio networks, a large number of regional radio networks, and a larger number of local radio stations; overall, hundreds of radio stations </p> (2019)<br>
@@ -654,7 +662,7 @@ _annual freight traffic on registered air carriers_: 1.117 billion (2018) mt-km<
 EC<br>
 
 **Airports**<br>
-_total_: 135 (2021)<br>
+135 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 102<br>
@@ -702,7 +710,7 @@ Spanish Armed Forces: Army (Ejército de Tierra), Spanish Navy (Armada Espanola;
 <strong>note:</strong> the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defense and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance<br>
 
 **Military expenditures**<br>
-1% of GDP (2022 est.)<br>
+1.1% of GDP (2022 est.)<br>
 1% of GDP (2021)<br>
 1% of GDP (2020)<br>
 0.9% of GDP (2019) (approximately $16.8 billion)<br>
@@ -738,9 +746,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 168,654 (Ukraine) (as of 26 February 2023)<br>
+_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 170,973 (Ukraine) (as of 16 March 2023)<br>
 _stateless persons_: 6,489 (2022)<br>
-<strong>note: </strong>282,236 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2023)<br>
+<strong>note: </strong>282,733 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing indoor cannabis production; illegal labs cutting, mixing, and reconstituting cocaine, heroin, and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the US<br>

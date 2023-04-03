@@ -135,7 +135,7 @@ _65 years and over_: 0.95 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-31 deaths/100,000 live births (2017 est.)<br>
+44 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 10.26 deaths/1,000 live births<br>
@@ -442,6 +442,10 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+0.01% of GDP (2021 est.)<br>
+0.01% of GDP (2020 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.245 billion (2017 est.)<br>
 _expenditures_: $4.345 billion (2017 est.)<br>
@@ -569,18 +573,17 @@ _Total energy consumption per capita 2019_: 415.184 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 103,885 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 24 (2020 est.)<br>
+_total subscriptions_: 112,298 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 25 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 526,589 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 123 (2020 est.)<br>
+_total subscriptions_: 603,486 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 136 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Brunei&rsquo;s mobile market experienced drop-off in subscriber numbers in 2020; in 2022 there was a concerted effort to build out the fixed-line infrastructure while progressing towards introducing 5G mobile services; Brunei&rsquo;s fixed-line market is one of the few countries in the world to have displayed significant growth rather than a decline in teledensity in the last few years; this upward trend is set to continue as the new Unified National Network (UNN) works diligently to expand and enhance the fixed-line infrastructure around the country; strong growth was also seen in the fixed broadband space, on the back of those same infrastructure developments that are part of the Brunei Vision 2035 initiative; fixed broadband is starting from a relatively low base by international standards and is still only at 18%, leaving lots of room for growth; mobile and mobile broadband, on the other hand, are still suffering from the market contractions first felt in 2020; Brunei&rsquo;s 2G GSM network is shut down, with the spectrum to be reallocated to 3G, 4G, and potentially 5G use (2021)<br>
-_domestic_: every service available; nearly 24 per 100 fixed-line, 120 per 100 mobile-cellular (2020)<br>
+_domestic_: 25 per 100 fixed-line, 136 per 100 mobile-cellular (2021)<br>
 _international_: country code - 673; landing points for the SEA-ME-WE-3, SJC, AAG, Lubuan-Brunei Submarine Cable via&nbsp;optical telecommunications submarine cables that provides links to Asia, the Middle East, Southeast Asia, Africa, Australia, and the US; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-controlled Radio Television Brunei (RTB) operates 5 channels; 3 Malaysian TV stations are available; foreign TV broadcasts are available via satellite systems; RTB operates 5 radio networks and broadcasts on multiple frequencies; British Forces Broadcast Service (BFBS) provides radio broadcasts on 2 FM stations; some radio broadcast stations from Malaysia are available via repeaters<br>
@@ -608,7 +611,7 @@ _annual freight traffic on registered air carriers_: 129.35 million (2018) mt-km
 V8<br>
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
@@ -661,7 +664,7 @@ the military's s inventory includes equipment and weapons systems from a wide va
 <strong>note:</strong> the Gurkha Reserve Unit (GRU) employs about 500 Gurkhas from Nepal, the majority of whom are veterans of the British Army and the Singapore Police Force who have joined the GRU as a second career<br>
 
 **Military - note**<br>
-the Royal Brunei Armed Forces were formed in 1961 with British support as the Brunei Malay Regiment; "Royal" was added as an honorary title in 1965; the military was given its current title in 1984<br><br>Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2022)<br>
+the Royal Brunei Armed Forces were formed in 1961 with British support as the Brunei Malay Regiment; "Royal" was added as an honorary title in 1965 and its current name was given in 1984; the military is a small and professional force responsible for ensuring the country’s sovereignty and territorial integrity, as well as countering outside aggression, terrorism, and insurgency; the Army is comprised of a few infantry battalions and an armored reconnaissance squadron, while the Navy has several corvettes and patrol vessels for monitoring the country’s territorial waters; the small Air Force does not have any combat aircraft, but operates some maritime patrol aircraft and helicopters <br><br>Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2023)<br>
 
 ## Transnational Issues
 

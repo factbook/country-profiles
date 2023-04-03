@@ -148,7 +148,7 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 27.1 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-19 deaths/100,000 live births (2017 est.)<br>
+10 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 5.65 deaths/1,000 live births<br>
@@ -476,9 +476,18 @@ _female_: 20.1% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 34.8 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 27.3% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 5.7% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 15.3%<br>
 _highest 10%_: 7.6% (2014 est.)<br>
+
+**Remittances**<br>
+3.22% of GDP (2021 est.)<br>
+3.03% of GDP (2020 est.)<br>
+3.24% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $62.14 billion (2017 est.)<br>
@@ -618,7 +627,6 @@ _subscriptions per 100 inhabitants_: 117 (2020 est.)<br>
 _general assessment_: Romania&rsquo;s telecom market has undergone several significant changes in recent years; the mobile market is served by network operators that have extensive LTE networks in place, while services based on 5G have been offered under their existing spectrum concessions since 2019; the delayed multi-spectrum auction, expected to be completed later in 2021, will enable the operators to expand 5G network capacity and enable consumers to make far greater use of the technology&rsquo;s potential; in line with legislation passed in July 2021 the MNOs will have to replace equipment provided by vendors deemed to be a security risk (2021)<br>
 _domestic_: fixed-line teledensity is about 16 telephones per 100 persons; mobile market served by four mobile network operators; mobile-cellular teledensity over 117 telephones per 100 persons (2020)<br>
 _international_: country code - 40; landing point for the Diamond Link Global submarine cable linking Romania with Georgia; satellite earth stations - 10; digital, international, direct-dial exchanges operate in Bucharest (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 a mixture of public and private TV stations; there are 7 public TV stations (2 national, 5 regional) using terrestrial broadcasting and 187 private TV stations (out of which 171 offer local coverage) using terrestrial broadcasting, plus 11 public TV stations using satellite broadcasting and 86 private TV stations using satellite broadcasting; state-owned public radio broadcaster operates 4 national networks and regional and local stations, having in total 20 public radio stations by terrestrial broadcasting plus 4 public radio stations by satellite broadcasting; there are 502 operational private radio stations using terrestrial broadcasting and 26 private radio stations using satellite broadcasting<br>
@@ -646,7 +654,7 @@ _annual freight traffic on registered air carriers_: 2.71 million (2018) mt-km<b
 YR<br>
 
 **Airports**<br>
-_total_: 45 (2021)<br>
+45 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 26<br>
@@ -691,7 +699,7 @@ _river port(s)_: Braila, Galati (Galatz), Mancanului (Giurgiu), Tulcea (Danube R
 Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Internal Affairs: Romanian Gendarmerie, Romanian Police, Romanian Border Police (2022)<br>
 
 **Military expenditures**<br>
-2% of GDP (2022 est.)<br>
+1.8% of GDP (2022 est.)<br>
 2% of GDP (2021)<br>
 2% of GDP (2020)<br>
 1.8% of GDP (2019) (approximately $7.47 billion)<br>
@@ -724,9 +732,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 110,921 (Ukraine) (as of 5 March 2023)<br>
+_refugees (country of origin)_: 110,012 (Ukraine) (as of 19 March 2023)<br>
 _stateless persons_: 297 (2022)<br>
-<strong>note:</strong> 12,367 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
+<strong>note:</strong> 12,730 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis</p><br>

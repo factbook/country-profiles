@@ -139,7 +139,7 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 28.7 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-4 deaths/100,000 live births (2017 est.)<br>
+3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 1.63 deaths/1,000 live births<br>
@@ -461,6 +461,11 @@ _female_: 13.7% (2021 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+0.74% of GDP (2021 est.)<br>
+0.76% of GDP (2020 est.)<br>
+0.74% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $10.39 billion (2017 est.)<br>
 _expenditures_: $10.02 billion (2017 est.)<br>
@@ -584,18 +589,17 @@ _from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 107,032 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
+_total subscriptions_: 100,482 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 27 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 421,384 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 123 (2020 est.)<br>
+_total subscriptions_: 437,270 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 118 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Iceland has one of the smallest yet most progressive telecom markets in Europe; the country in 2020 became the top in Europe for fiber penetration; it aims to provide a fixed broadband service of at least 100Mb/s to 99.9% of the population by the end of 2021, an ambitious target by international standards and one which it is likely to achieve given the progress which operators have made in extending the reach of fiber networks; there is effective competition in the mobile and broadband markets, with a number of players having emerged to challenge the dominance of the two leading operators which have interests across the telecom sectors; the telecom market has shown some resilience in recent years following the significant economic downturn a decade ago, supported by continuing investment in mobile and fixed-line broadband infrastructure by operators and well as by the government&rsquo;s Telecommunications Fund which is supporting Next Generation Access networks, particularly in rural areas (2022)<br>
-_domestic_: 31 per 100 for fixed line and nearing 123 per 100 for mobile-cellular subscriptions (2020)<br>
+_domestic_: 27 per 100 for fixed line and nearing 118 per 100 for mobile-cellular subscriptions (2021)<br>
 _international_: country code - 354; landing points for the CANTAT-3, FARICE-1, Greenland Connect and DANICE&nbsp;submarine cable system that provides connectivity to Canada, the Faroe Islands, Greenland, UK, Denmark, and Germany;&nbsp;satellite earth stations - 2 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic and Indian Ocean regions); note - Iceland shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Norway, and Sweden) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned public TV broadcaster (RUV) operates 21 TV channels nationally (RUV and RUV 2, though RUV 2 is used less frequently);  RUV broadcasts nationally, every household in Iceland is required to have RUV as it doubles as the emergency broadcast network; RUV also operates stringer offices in the north (Akureyri) and the east (Egilsstadir) but operations are all run out of RUV headquarters in Reykjavik;  there are 3 privately owned TV stations;  Stod 2 (Channel 2) is owned by Syn, following 365 Media and Vodafone merger, and is headquartered in Reykjavik;  Syn also operates 4 sports channels under Stod 2;  N4 is the only television station headquartered outside of Reykjavik, in Akureyri, with local programming for the north, south, and east of Iceland;  Hringbraut is the newest station and is headquartered in Reykjavik;  all of these television stations have nationwide penetration as 100% of households have multi-channel services though digital and/or fiber-optic connections <p>RUV operates 3 radio stations (RAS 1, RAS2, and Rondo) as well as 4 regional stations (but they mostly act as range extenders for RUV radio broadcasts nationwide); there is 1 privately owned radio conglomerate, Syn (4 stations), that broadcasts nationwide, and 3 other radio stations that broadcast to the most densely populated regions of the country.  In addition, there are upwards of 20 radio stations that operate regionally</p> (2019)<br>
@@ -623,7 +627,7 @@ _annual freight traffic on registered air carriers_: 163.65 million (2018) mt-km
 TF<br>
 
 **Airports**<br>
-_total_: 96 (2021)<br>
+96 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 7<br>

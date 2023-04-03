@@ -151,7 +151,7 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 24.2 years (2019)<br>
 
 **Maternal mortality ratio**<br>
-7 deaths/100,000 live births (2017 est.)<br>
+5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 36.72 deaths/1,000 live births<br>
@@ -477,9 +477,18 @@ _female_: 7.6% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 40.8 (1998)<br>
 
+**Average household expenditures**<br>
+_On food_: 37.5% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 2.2% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 31.7% (1998)<br>
+
+**Remittances**<br>
+0% of GDP (2019 est.)<br>
+0% of GDP (2018 est.)<br>
+0.01% of GDP (2017 est.)<br>
 
 **Budget**<br>
 _revenues_: $5.657 billion (2017 est.)<br>
@@ -613,7 +622,6 @@ _subscriptions per 100 inhabitants_: 150 (2020)<br>
 _general assessment_: the nation of Turkmenistan, which rivals only North Korea for its isolationism, continues to keep its telecom sector along with the broader populace under tight control; the country inched up just one point off the bottom of the world rankings for press and internet freedom in the most recent report from Reporters Without Borders; most social networks in the country are blocked, although locals do have access to the government-developed platform released in 2019; all internet users, however, need to identify themselves before logging on, and strict censorship over what can be viewed is in force; the end result is that Turkmenistan has one of the lowest penetration rates for internet access in the world (2022)<br>
 _domestic_: fixed-line nearly 12 per 100 and mobile-cellular teledensity is about 155 per 100 persons; first telecommunication satellite was launched in 2015 (2020)<br>
 _international_: country code - 993; linked by fiber-optic cable and microwave radio relay to other CIS republics and to other countries by leased connections to the Moscow international gateway switch; an exchange in Ashgabat switches international traffic through Turkey via Intelsat; satellite earth stations - 1 Orbita and 1 Intelsat (2018)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 broadcast media is government controlled and censored; 7 state-owned TV and 4 state-owned radio networks; satellite dishes and programming provide an alternative to the state-run media; officials sometimes limit access to satellite TV by removing satellite dishes<br>
@@ -641,7 +649,7 @@ _annual freight traffic on registered air carriers_: 16.92 million (2018) mt-km<
 EZ<br>
 
 **Airports**<br>
-_total_: 26 (2021)<br>
+26 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 21<br>
@@ -699,7 +707,7 @@ information varies; estimated 30,000 active duty troops (25,000 National Army; 1
 the inventory for Turkmenistan's military is comprised largely of older Russian and Soviet-era weapons systems; in recent years however, it has attempted to diversify and purchased equipment from more than a dozen countries, with Turkey as the top supplier (2022)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory male military service; 24-month conscript service obligation (30 months for the Navy); 20 years of age for voluntary service (including females); males may enroll in military schools from age 15 (2022)<br>
+18-27 years of age for compulsory military service for men; 24-month conscript service obligation (30 months for the Navy); 20 years of age for voluntary service for men and women; men may enroll in military schools from age 15 (2023)<br>
 
 **Military - note**<br>
 Turkmenistan has a policy of permanent neutrality and has declined to participate in post-Soviet military groupings such as the Collective Security Treaty Organization military alliance (CSTO) and the Shanghai Cooperation Organization (SCO); however, in September 2020, it participated in a Russian-led multinational military exercise held in southern Russia’s Astrakhan region alongside the forces of more than a dozen other countries; Turkmenistan joined NATO's Partnership for Peace program in 1994 and officials from Turkmenistan participate in a range of courses provided by NATO and NATO member states, but it does not offer any armed forces units to NATO-led operations<br><br>in recent years, Turkmenistan has made efforts to improve its naval capabilities on the Caspian Sea, including expanding ship building capabilities and adding larger vessels to the Navy’s inventory; in 2018, it opened its first naval shipyard and in August 2021, the Navy commissioned its largest warship, a corvette that was jointly constructed with Turkey (2023)<br>

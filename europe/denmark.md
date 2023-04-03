@@ -143,7 +143,7 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 29.8 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-4 deaths/100,000 live births (2017 est.)<br>
+5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3 deaths/1,000 live births<br>
@@ -462,9 +462,18 @@ _female_: 10.6% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 27.7 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 11.5% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 9%<br>
 _highest 10%_: 23.4% (2016 est.)<br>
+
+**Remittances**<br>
+0.37% of GDP (2021 est.)<br>
+0.42% of GDP (2020 est.)<br>
+0.42% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $172.5 billion (2017 est.)<br>
@@ -603,7 +612,6 @@ _subscriptions per 100 inhabitants_: 124 (2021 est.)<br>
 _general assessment_: Denmark has one of the highest broadband subscription rates globally, with a near universal availability of super-fast connections; extensive cable and DSL infrastructure has been supported by a progressive regulatory regime which has encouraged operator access to both copper and fiber networks; fiber networks have a fast-growing footprint, while a number of community and metropolitan schemes have supplemented their own commitments to build out fiber nationally; a number of wholesale fiber schemes have also added to the wider availability of fiber broadband; the reach of LTE infrastructure is comprehensive, while the Mobile Network Operators by mid-2021 had also provided about 90% population coverage with 5G; services based on 5G were initially launched using trial 3.5GHz licenses; the multi-spectrum auction held in April 2021 has enabled them to improve the resilience and capacity of 5G; all MNOs are engaged in closing down their 3G networks and repurposing spectrum for LTE and 5G use (2021)<br>
 _domestic_: fixed-line roughly 12 per 100 and about 124 per 100 for mobile-cellular subscriptions (2021)<br>
 _international_: country code - 45; landing points for the NSC, COBRAcable, CANTAT-3, DANICE, Havfrue/AEC-2, TAT-14m Denmark-Norway-5 &amp; 6, Skagenfiber West &amp; East, GC1, GC2, GC3, GC-KPN, Kattegat 1 &amp; 2 &amp; 3, Energinet Lyngsa-Laeso, Energinet Laeso-Varberg, Fehmarn Balt, Baltica, German-Denmark 2 &amp; 3, Ronne-Rodvig, Denmark-Sweden 15 &amp; 16 &amp; 17 &amp; 18, IP-Only Denmark-Sweden, Scandinavian South, Scandinavian Ring North, Danica North, 34 series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, US, and UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 strong public-sector TV presence with state-owned Danmarks Radio (DR) operating 6 channels and publicly owned TV2 operating roughly a half-dozen channels; broadcasts of privately owned stations are available via satellite and cable feed; DR operates 4 nationwide FM radio stations, 10 digital audio broadcasting stations, and 14 web-based radio stations; 140 commercial and 187 community (non-commercial) radio stations (2019)<br>
@@ -631,7 +639,7 @@ _annual freight traffic on registered air carriers_: mt-km<br>
 OY<br>
 
 **Airports**<br>
-_total_: 80 (2021)<br>
+80 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 28<br>
@@ -683,8 +691,8 @@ Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Dan
 1.4% of GDP (2022 est.)<br>
 1.4% of GDP (2021)<br>
 1.4% of GDP (2020)<br>
-1.3% of GDP (2019) (approximately $5.02 billion)<br>
-1.3% of GDP (2018) (approximately $4.8 billion)<br>
+1.3% of GDP (2019)<br>
+1.3% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 17,000 active duty personnel (10,000 Army; 3,500 Navy; 3,500 Air Force) (2022)<br>
@@ -693,7 +701,7 @@ approximately 17,000 active duty personnel (10,000 Army; 3,500 Navy; 3,500 Air F
 the Danish military inventory is comprised of a mix of modern European, US, and domestically-produced equipment; the US has been the largest supplier of military equipment to Denmark in recent years; the Danish defense industry is active in the production of naval vessels, defense electronics, and subcomponents of larger weapons systems, such as the US F-35 fighter aircraft (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish military offers reserve contracts in all three branches (2022)<br>
+18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish military offers reserve contracts in all three branches (2023)<br>
 <strong>note 1:</strong> women have been able serve in all military occupations, including combat arms, since 1988; as of 2019, they made up about 8% of the military's full-time personnel; conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br><br><strong>note 2: </strong>foreigners who have lived in Denmark for at least 1 year or in another EU country for 6 years may apply to join the armed forces, provided they are fluent in Danish <br><br><strong>note 2: </strong>Denmark has had compulsory military service since 1849<br>
 
 **Military deployments**<br>

@@ -386,6 +386,11 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+1.15% of GDP (2021 est.)<br>
+1.34% of GDP (2020 est.)<br>
+1.02% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $681.6 million (2017 est.)<br>
 _expenditures_: $755.5 million (2017 est.)<br>
@@ -512,18 +517,17 @@ _Total energy consumption per capita 2019_: 174.629 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 35,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
+_total subscriptions_: 35,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 33 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 141,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 132 (2020 est.)<br>
+_total subscriptions_: 140,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 130 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
-_domestic_: 33 per 100 fixed-line telephone subscriptions and 132 per 100 mobile-cellular (2020)<br>
+_domestic_: 33 per 100 fixed-line telephone subscriptions and 130 per 100 mobile-cellular (2021)<br>
 _international_: country code - 297; landing&nbsp;points for the PAN-AM, PCCS, Deep Blue Cable, and Alonso de Ojeda&nbsp;submarine telecommunications cable system that extends from Trinidad and Tobago, Florida,&nbsp;Puerto Ricco,&nbsp;Jamaica, Guyana, Sint Eustatius &amp; Saba, Suriname, Dominican Republic, BVI, USVI, Haiti, Cayman Islands, the Netherlands Antilles,&nbsp; through Aruba to Panama, Venezuela, Colombia, Ecuador, Peru and Chile; extensive interisland microwave radio relay links (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 2 commercial TV stations; cable TV subscription service provides access to foreign channels; about 19 commercial radio stations broadcast (2017)<br>
@@ -550,7 +554,7 @@ _annual passenger traffic on registered air carriers_: 274,280 (2018)<br>
 P4<br>
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

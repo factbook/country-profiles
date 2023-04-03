@@ -156,7 +156,7 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-473 deaths/100,000 live births (2017 est.)<br>
+547 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 59.12 deaths/1,000 live births<br>
@@ -208,7 +208,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria, dengue fever, and trypanosomiasis-gambiense (African sleeping sickness)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Democratic Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Democratic Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.7% (2016)<br>
@@ -296,7 +296,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria, dengue fever, and trypanosomiasis-gambiense (African sleeping sickness)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Democratic Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Democratic Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to internal conflict in eastern regions and high food prices - </em>according to an October 2022 analysis, 24.5 million people were projected to experience acute food insecurity between January and June 2023; this is due to persistent conflict in the eastern provinces of North Kivu, South Kivu and Ituri, which continues to cause population displacements, and to high prices of domestic food staples (2023)<br>
@@ -514,6 +514,11 @@ _female_: 8.5% (2021 est.)<br>
 _lowest 10%_: 2.3%<br>
 _highest 10%_: 34.7% (2006)<br>
 
+**Remittances**<br>
+2.28% of GDP (2020 est.)<br>
+4.01% of GDP (2019 est.)<br>
+3.83% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $4.634 billion (2017 est.)<br>
 _expenditures_: $5.009 billion (2017 est.)<br>
@@ -641,15 +646,18 @@ _Total energy consumption per capita 2019_: 1.371 million Btu/person (2019 est.)
 
 ## Communications
 
+**Telephones - fixed lines**<br>
+_total subscriptions_: (2021 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 40,798,396 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 46 (2020 est.)<br>
+_total subscriptions_: 47 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 49 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom system remains one of the least developed in the region; the government can only loosely regulate the sector; the investment made in infrastructure is derived from donor countries or from the efforts of foreign (particularly Chinese) companies and banks; efforts have been made to improve the regulation of the telecom sector; the limited fixed-line infrastructure has become the principal providers of basic telecom services; the development of the DRC&rsquo;s internet and broadband market has been held back by the poorly developed national and international infrastructure; the country was finally connected to international bandwidth through the WACS submarine cable in 2013; breakages in the WACS cable have exposed the vulnerability of international bandwidth, which is still limited; the Equiano submarine cable, and has also completed a 5,000km cable running through the DRC to link to cable systems landing in countries facing the Atlantic and Indian Oceans; the first commercial LTE networks were launched in May 2018 soon after LTE licenses were issued; mobile operators are keen to develop mobile data services, capitalizing on the growth of smartphones usage; there has been some progress with updating technologies, most of the GSM network has been upgraded to 3G by 2021 (2022)<br>
-_domestic_: inadequate fixed-line infrastructure with fixed-line connections less than 1 per 100 persons; mobile-cellular subscriptions over 46 per 100 persons (2020)<br>
+_domestic_: inadequate fixed-line infrastructure with fixed-line connections less than 1 per 100 persons; mobile-cellular subscriptions over 49 per 100 persons (2021)<br>
 _international_: country code - 243; ACE and WACS submarine cables to West and South Africa and&nbsp;Europe;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned TV broadcast station with near national coverage; more than a dozen privately owned TV stations - 2 with near national coverage; 2 state-owned radio stations are supplemented by more than 100 private radio stations; transmissions of at least 2 international broadcasters are available<br>
@@ -677,7 +685,7 @@ _annual freight traffic on registered air carriers_: 890,000 (2018) mt-km<br>
 9Q<br>
 
 **Airports**<br>
-_total_: 198 (2021)<br>
+198 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 26<br>
@@ -742,8 +750,8 @@ limited and widely varied information; approximately 100,000 active troops (most
 the FARDC is equipped mostly with Soviet-era weapons systems and equipment (2022)<br>
 
 **Military service age and obligation**<br>
-18-45 years of age for voluntary military service for men and women; 18-45 years of age for compulsory military service for men; it is unclear how much conscription is used (2021)<br>
-note: in eastern Congo, fighters from armed groups, and in some cases government security forces, have been accused of forced recruitment of child soldiers<br>
+18-45 years of age for voluntary military service for men and women; 18-45 years of age for compulsory military service for men; it is unclear how much conscription is used (2023)<br>
+<strong>note: </strong>in eastern Congo, fighters from armed groups, and in some cases government security forces, have been accused of forced recruitment of child soldiers<br>
 
 **Military - note**<br>
 <p>the FARDC’s primary focus is internal security; while the FARDC is large on paper, with an estimated 18 operational infantry brigades, it struggles to provide security in large portions of the country; the FARDC is widely assessed to suffer from insufficient training, low equipment readiness, poor morale and leadership, ill-discipline, and widespread corruption; it was created out of the armed factions of the Congo wars that ended in 2003, incorporating various militia, paramilitary, and rebel formations; the DRC’s most effective military force, the Republican Guard, is overseen by the office of the presidency rather than the FARDC and focuses largely on protecting the president and government institutions and enforcing internal security</p> <p>the FARDC is actively conducting operations against a variety of illegal armed groups (IOGs) operating in the DRC, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, where more than 15 significant and cohesive IOGs operate; there is also violence in Maniema, Kasai, Kasai Central, and Tanganyika provinces; some estimates place over 100 IOGs operating in the country, including organized militias, such as the Nduma Defense of Congo-Renewal (NDC-R), which controls a large portion of North Kivu; Mai Mai groups (local militias that operate variously as self-defense networks and criminal rackets); and foreign-origin groups seeking safe haven and resources, such as the Ugandan-origin Allied Democratic Forces (ADF; aka Islamic State of Iraq and ash-Sham in the DRC), the Democratic Forces for the Liberation of Rwanda (FDLR), multiple groups originating from Burundi, the Lords Resistance Army (LRA), and the March 23 Movement (aka M23 or Congolese Revolutionary Army), which the DRC has accused Rwanda of backing; the FARDC has been accused of collaborating with some IOGs, such as the NDC-R</p> the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) has operated in the central and eastern parts of the country since 1999; as of 2022, MONUSCO had around 15,000 military and police personnel; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security (2023)<br>
@@ -760,8 +768,8 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo<br><br><em>Democratic Republic of Congo(DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo(DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Democratic Republic of Congo(DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo(DRC)-Angola: </em>DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 208,789 (Rwanda) (2022); 211,245 (Central African Republic), 56,194 (South Sudan) (refugees and asylum seekers), 43,655 (Burundi) (2023)<br>
-_IDPs_: 5.52 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2022)<br>
+_refugees (country of origin)_: 211,312 (Central African Republic), 208,389 (Rwanda), 56,192 (South Sudan) (refugees and asylum seekers), 43,623 (Burundi) (2023)<br>
+_IDPs_: 6.06 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: <p>Tier 2 Watch List — The Democratic Republic of the Congo (DRC) does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government finalized standard operating procedures for victim identification and referral for services and partnered with NGOs to identify more trafficking victims; the DRC investigated, prosecuted, and convicted traffickers, including complicit officials; however, the government did not demonstrate overall increasing efforts compared with the previous year; Congolese National Army officers continued coordinating with an armed group allegedly engaged in forcibly recruiting and using children; authorities penalized victims for committing unlawful acts traffickers compelled them to commit, and official complicity in trafficking crimes remains a significant concern; the government did not adopt comprehensive anti-trafficking legislation for the third consecutive year; because the DRC has devoted sufficient resources to a plan that, if implemented, would constitute significant efforts to meet the minimum standards, it was granted a waiver per the TVPA from an otherwise required downgrade to Tier 3, therefore the DRC remained on Tier 2 Watch List for the third consecutive year (2022)</p><br>

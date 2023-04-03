@@ -150,7 +150,7 @@ _65 years and over_: 0.8 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-79 deaths/100,000 live births (2017 est.)<br>
+76 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 19.17 deaths/1,000 live births<br>
@@ -493,9 +493,18 @@ _female_: 65.2% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 29.5 (2012 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 30.1% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 4.2% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>
 _highest 10%_: 25.7% (2007 est.)<br>
+
+**Remittances**<br>
+0.35% of GDP (2020 est.)<br>
+0.37% of GDP (2019 est.)<br>
+0.33% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $68.71 billion (2017 est.)<br>
@@ -634,7 +643,6 @@ _subscriptions per 100 inhabitants_: 93 (2020 est.)<br>
 _general assessment_: Iraq continues to face a number of political and economic challenges, though increasing civil stability has made it easier for mobile and fixed-line operators to rebuild telecom services and infrastructure damaged during the last few years; the government extended the licenses held by the MNOs for an additional three years to compensate for the chaos and destruction caused between 2014 and 2017 when Islamic State held sway in many areas of the country; the companies have struggled to develop LTE services; most services are still based on GSM and 3G, except in the Kurdish region where LTE is more widely available (2022)<br>
 _domestic_: about 7 per 100 for fixed-line and 93 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 964; landing points for FALCON, and GBICS/MENA submarine cables providing connections to the Middle East, Africa and India; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Intersputnik - Atlantic Ocean region, and 1 Arabsat (inoperative)); local microwave radio relay connects border regions to Jordan, Kuwait, Syria, and Turkey (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the number of private radio and TV stations has increased rapidly since 2003; government-owned TV and radio stations are operated by the publicly funded Iraqi Media Network; private broadcast media are mostly linked to political, ethnic, or religious groups; satellite TV is available to an estimated 70% of viewers and many of the broadcasters are based abroad; transmissions of multiple international radio broadcasters are accessible (2019)<br>
@@ -662,7 +670,7 @@ _annual freight traffic on registered air carriers_: 16.2 million (2018) mt-km<b
 YI<br>
 
 **Airports**<br>
-_total_: 102 (2021)<br>
+102 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 72<br>
@@ -727,7 +735,7 @@ the Iraqi military's inventory includes a mix of equipment from a wide variety o
 <strong>note:</strong> service in the armed forces was mandatory in Iraq from 1935 up until 2003<br>
 
 **Military - note**<br>
-as of 2022, Iraqi security forces (ISF) continued to conduct counterinsurgency and counterterrorism operations against the Islamic State of Iraq and ash-Sham (ISIS) terrorist group, particularly in northern and western Iraq; Kurdish Security Forces (KSF, aka Peshmerga) also conducted operations against ISIS <br><br>the KSF were formally recognized as a legitimate Iraqi military force under the country’s constitution and have operated jointly with the Iraqi military against ISIS militants, but they also operate outside of Iraqi military command structure; since 2021, the ISF and the KSF have conducted joint counter-ISIS operations in an area known as the Kurdish Coordination Line (KCL), a swath of disputed territory in northern Iraq claimed by both the Kurdistan Regional Government and the central Iraqi Government; the KSF/Peshmerga report to the Kurdistan Regional Government or Kurdistan Democratic Party and Patriotic Union of Kurdistan parties instead of the Iraqi Ministry of Defense<br><br>Popular Mobilization Commission and Affiliated Forces (PMF or PMC), also known as Popular Mobilization Units (PMU, or al-Hashd al-Sha’abi in Arabic), tribal militia units have fought alongside the Iraqi military against ISIS since 2014, but the majority of these forces continue to largely ignore the 2016 Law of the Popular Mobilization Authority, which mandated that armed militias must be regulated in a fashion similar to Iraq’s other security forces and act under the Iraqi Government’s direct control; the Iraqi Government funds the PMF, and the prime minister legally commands it, but many of the militia units take orders from associated political parties and/or other government officials, including some with ties to the Iranian Revolutionary Guard Corps (IRGC) and some that have been designated as terrorist organizations by the US; the PMF/PMU is an umbrella organization comprised of many different militias, the majority of which are Shia: <br><br>--Shia militias backed by Iran; they are considered the most active and capable, and include such groups as the Badr Organization (Saraya al-Sala), Asaib Ahl al-Haq, and Kataib Hizballah <br><br>--Shia militias affiliated with Shia political parties, but not aligned with Iran, such as the Peace Brigades (Saray al-Salam) <br><br>--Shia militias not connected with political parties, but affiliated with the Najaf-based Grand Ayatollah Ali al-SISTANI (Iraq’s supreme Shia cleric), such as the Hawza militias<br><br>--other PMF/PMU militias include Sunni Tribal Mobilization militias, or Hashd al-Asha’iri; some of these militias take orders from the ISF and local authorities while others respond to orders from the larger Shia PMU militias; still other militias include Yazidi and Christian militias and the Turkmen brigades; the links of these forces to the PMU is not always clear-cut and may be loosely based on financial, legal, or political incentives<br><br>at the request of the Iraqi government, NATO agreed to establish an advisory, training and capacity-building mission for the Iraqi military in October 2018; as of 2022, the NATO Mission Iraq (NMI) had about 500 troops; in December 2021, the task force that leads the defeat ISIS mission in Iraq, Combined Joint Task Force – Operation Inherent Resolve (CJTF-OIR), transitioned from a combat role to an advise, assist, and enable role (2022)<br>
+Iraqi security forces (ISF), including conventional air and ground forces, are primarily focused on internal security duties; they are actively conducting counterinsurgency and counterterrorism operations against the Islamic State of Iraq and ash-Sham (ISIS) terrorist group, particularly in northern and western Iraq; the Counter Terrorism Service (CTS), a highly regarded force comprised of 3 special forces brigades, is the ISF's principal operational unit against ISIS<br><br>Kurdish Security Forces (KSF, aka Peshmerga) also conducted operations against ISIS; the KSF were formally recognized as a legitimate Iraqi military force under the country’s constitution and have operated jointly with the Iraqi military against ISIS militants, but they also operate outside of Iraqi military command structure; since 2021, the ISF and the KSF have conducted joint counter-ISIS operations in an area known as the Kurdish Coordination Line (KCL), a swath of disputed territory in northern Iraq claimed by both the Kurdistan Regional Government and the central Iraqi Government; the KSF/Peshmerga report to the Kurdistan Regional Government or Kurdistan Democratic Party and Patriotic Union of Kurdistan parties instead of the Iraqi Ministry of Defense<br><br>Popular Mobilization Commission and Affiliated Forces (PMF or PMC), also known as Popular Mobilization Units (PMU, or al-Hashd al-Sha’abi in Arabic), tribal militia units have fought alongside the Iraqi military against ISIS since 2014, but the majority of these forces continue to largely ignore the 2016 Law of the Popular Mobilization Authority, which mandated that armed militias must be regulated in a fashion similar to Iraq’s other security forces and act under the Iraqi Government’s direct control; the Iraqi Government funds the PMF, and the prime minister legally commands it, but many of the militia units take orders from associated political parties and/or other government officials, including some with ties to the Iranian Revolutionary Guard Corps (IRGC) and some that have been designated as terrorist organizations by the US; the PMF/PMU is an umbrella organization comprised of many different militias, the majority of which are Shia: <br><br>--Shia militias backed by Iran; they are considered the most active and capable, and include such groups as the Badr Organization (Saraya al-Sala), Asaib Ahl al-Haq, and Kataib Hizballah <br><br>--Shia militias affiliated with Shia political parties, but not aligned with Iran, such as the Peace Brigades (Saray al-Salam) <br><br>--Shia militias not connected with political parties, but affiliated with the Najaf-based Grand Ayatollah Ali al-SISTANI (Iraq’s supreme Shia cleric), such as the Hawza militias<br><br>--other PMF/PMU militias include Sunni Tribal Mobilization militias, or Hashd al-Asha’iri; some of these militias take orders from the ISF and local authorities while others respond to orders from the larger Shia PMU militias; still other militias include Yazidi and Christian militias and the Turkmen brigades; the links of these forces to the PMU is not always clear-cut and may be loosely based on financial, legal, or political incentives<br><br>at the request of the Iraqi government, NATO agreed to establish an advisory, training and capacity-building mission for the Iraqi military in October 2018; as of 2022, the NATO Mission Iraq (NMI) had about 500 troops; in December 2021, the task force that leads the defeat ISIS mission in Iraq, Combined Joint Task Force – Operation Inherent Resolve (CJTF-OIR), transitioned from a combat role to an advise, assist, and enable role (2023)<br>
 
 ## Terrorism
 
@@ -741,7 +749,7 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods
 <p><em>Iraq-Iran</em>: Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf</p> <p><em>Iraq-Turkey</em>: Turkey has expressed concern over the autonomous status of Kurds in Iraq</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 13,344 (Turkey), 7,864 (West Bank and Gaza Strip) (mid-year 2022); 260,341 (Syria) (2023)<br>
+_refugees (country of origin)_: 7,864 (West Bank and Gaza Strip) (mid-year 2022); 260,341 (Syria), 8,423 (Iran), 8,191 (Turkey) (2023)<br>
 _IDPs_: 1.17 million (displacement in central and northern Iraq since January 2014) (2023)<br>
 _stateless persons_: 47,253 (2022); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 

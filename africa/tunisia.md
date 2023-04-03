@@ -143,7 +143,7 @@ _65 years and over_: 0.9 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-43 deaths/100,000 live births (2017 est.)<br>
+37 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 11.57 deaths/1,000 live births<br>
@@ -466,9 +466,18 @@ _female_: 41.2% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 32.8 (2015 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 21.9% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 27% (2010 est.)<br>
+
+**Remittances**<br>
+5.57% of GDP (2020 est.)<br>
+4.89% of GDP (2019 est.)<br>
+4.46% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $9.876 billion (2017 est.)<br>
@@ -606,7 +615,6 @@ _subscriptions per 100 inhabitants_: 126.31 (2019)<br>
 _general assessment_: Tunisia has one of the most sophisticated telecom infrastructures in North Africa; penetration rates for mobile and Internet services are among the highest in the region; government program of regulation and infrastructure projects aims to improve Internet connectivity to underserved areas; operators built extensive LTE infrastructure in 2019, and continue to discuss plans for future 5G networks and services; one operator has signed an agreement to pursue nano-satellite launches in 2023; internet censorship abolished, though concerns of government surveillance remain; legislation passed in 2017 supporting e-commerce and active e-government; importer of some integrated circuits and broadcasting equipment (including radio, television, and communications transmitters) from the PRC (2022)<br>
 _domestic_: in an effort to jumpstart expansion of the fixed-line network, the government awarded a concession to build and operate a VSAT network with international connectivity; rural areas are served by wireless local loops; competition between several mobile-cellular service providers has resulted in lower activation and usage charges and a surge in subscribership; fixed-line is nearly 14.1 per 100 and mobile-cellular teledensity has reached about 132 telephones per 100 persons (2022)<br>
 _international_: country code - 216; landing points for the SEA-ME-WE-4, Didon, HANNIBAL System and Trapani-Kelibia&nbsp;submarine cable systems that provides links to Europe, Africa, the Middle East, Asia and Southeast Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Arabsat; coaxial cable and microwave radio relay to Algeria and Libya; participant in Medarabtel; 2 international gateway digital switches (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 2 state-owned TV stations; 10 private TV stations broadcast locally; satellite TV service is available; state-owned radio network with 2 stations; several dozen private radio stations and community radio stations; transmissions of multiple international broadcasters available (2019)<br>
@@ -634,7 +642,7 @@ _annual freight traffic on registered air carriers_: 13.23 million (2018) mt-km<
 TS<br>
 
 **Airports**<br>
-_total_: 29 (2021)<br>
+29 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 15<br>
@@ -688,7 +696,7 @@ approximately 35,000 active duty personnel (25,000 Army; 5,000 Navy; 5,000 Air F
 the Tunisian military's inventory includes mostly older or second-hand US and European equipment; in recent years, the Netherlands and US have been the leading suppliers of arms to Tunisia (2022)<br>
 
 **Military service age and obligation**<br>
-20-23 years of age for male compulsory service, 1-year service obligation; individuals engaged in higher education or vocational training programs prior to their military drafting are allowed to delay service until they have completed their programs; 18-23 years of age for voluntary service; women may volunteer (2022)<br>
+20-23 years of age for compulsory service for men with a 12-month service obligation; individuals engaged in higher education or vocational training programs prior to their military drafting are allowed to delay service until they have completed their programs (up to age 35); 18-23 years of age for voluntary service for men and women (2023)<br>
 <strong>note 1: </strong>as of 2021, approximately 20-25,000 active military personnel were conscripts<br><br><strong>note 2:</strong> women have been allowed in the service since 1975 as volunteers only, although as recently as 2018, the Tunisian Government has discussed the possibility of conscripting women; as of 2018, women constituted less than 7% of the military and served in all three services<br>
 
 **Military deployments**<br>

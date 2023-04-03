@@ -141,7 +141,7 @@ _65 years and over_: 1.25 male(s)/female<br>
 _total population_: 1.05 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-1,150 deaths/100,000 live births (2017 est.)<br>
+1,223 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 61.63 deaths/1,000 live births<br>
@@ -191,7 +191,6 @@ _vectorborne diseases_: malaria, dengue fever, Trypanosomiasis-Gambiense (Africa
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; South Sudan is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.6% (2014)<br>
@@ -254,10 +253,9 @@ _vectorborne diseases_: malaria, dengue fever, Trypanosomiasis-Gambiense (Africa
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; South Sudan is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to economic downturn, civil insecurity, lingering impact of floods and prolonged conflict -</em> despite sustained humanitarian assistance, food insecurity still affects large segments of the population, driven by macroeconomic challenges that have resulted in rampant food and non-food inflation, insufficient food supplies due to a stagnant agricultural production, livelihood losses owing to consecutive years with widespread floods and the escalation of organized violence at the sub-national level since 2020; about 7.74 million people, approximately 63% of the total population, were estimated to be severely food insecure during the lean season between April and July 2022 (2022)<br>
+_widespread lack of access_: <em>due to economic downturn, the lingering effects of floods, and prolonged internal conflict -</em> despite sustained humanitarian assistance, food insecurity still affects large segments of the population, owing to rampant inflation and insufficient food supplies due to stagnant agricultural production, the effects of consecutive years with widespread floods, and the escalation of organized violence at the subnational level since 2020; about 7.76 million people, almost two thirds of the total population, are expected to face severe acute food insecurity in the lean season between April and July 2023 (2023)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,680,681 tons (2013 est.)<br>
@@ -548,7 +546,6 @@ _subscriptions per 100 inhabitants_: 20.09 (2019)<br>
 _general assessment_: following a referendum, oil-rich South Sudan seceded from Sudan in 2011 and became an independent nation; having been deprived of investment for decades, it inherited one of the least developed telecom markets in the world; there was once investment activity among mobile network operators who sought to expand their networks in some areas of the country; operators in the telecom sector placed themselves in survival mode and are hoping for a political settlement and a return to some degree of social stability; South Sudan has one of the lowest mobile penetration rates in Africa; growth in the sector in coming years is premised on a resolution to the political crisis and a recovery of the country&rsquo;s economy; the virtually untapped internet and broadband market also depends to a large extent on the country gaining access to international fiber cables and on a national backbone network being in place; sophisticated infrastructure solutions are needed to reach the 80% of the population that live outside of the main urban centers; some improvement has followed from the cable link in February 2020 which connects Juba directly to the company&rsquo;s submarine landing station at Mombasa; the cable was South Sudan&rsquo;s first direct international fiber link, and has helped drive down the price of retail internet services for residential and business customers; a second cable linking to the border with Kenya was completed in December 2021 (2022)<br>
 _domestic_: fixed-line less than 1 per 100 subscriptions, mobile-cellular roughly 12 per 100 persons (2020)<br>
 _international_: country code - 211 (2017)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 <p>a single TV channel and a radio station are controlled by the government; several community and commercial FM stations are operational, mostly sponsored by outside aid donors; some foreign radio broadcasts are available</p> (2019)<br>
@@ -574,7 +571,7 @@ _annual freight traffic on registered air carriers_: 0 mt-km<br>
 Z8<br>
 
 **Airports**<br>
-_total_: 89 (2021)<br>
+89 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
@@ -626,7 +623,7 @@ estimated 150-200,000 active personnel, mostly ground forces with small continge
 the SSPDF inventory is primarily of Soviet origin; South Sudan has been under a UN arms embargo since 2018 (2023)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for compulsory and voluntary military service; conscription only for men; women may volunteer; 12-24 months service (2022)<br>
+18 is the legal minimum age for compulsory (men) and voluntary (men and women) military service; 12-24 months service (2023)<br>
 <strong>note:</strong> in 2019, women made up less than 10% of the active military<br>
 
 **Military - note**<br>
@@ -638,7 +635,7 @@ the SSPDF is largely focused on internal security; the Ground Force has approxim
 <p><em>South Sudan- Central African Republic: </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights<br><br><em>South Sudan-Democratic Republic of the Congo</em>: none identified<br><br><em>South Sudan-Ethiopia</em>: the unresolved demarcation of the boundary and lack of clear limitation create substantial room for territorial conflict both locally among the border populations and between the two capitals; besides a large number of indigenous farmers, the border region supports refugees and various rebel groups opposed to the governments in Khartoum and Addis Ababa</p> <p><br><em>South Sudan-Kenya:</em> the boundary that separates Kenya and South Sudan's sovereignty is unclear in the Ilemi Triangle and has been unclear since British colonial times; Kenya has administered the area since colonial times</p> <p><em>South Sudan-Sudan:</em> present boundary represents 1 January 1956 alignment, which clearly placed the Kafia Kingi area (adjacent to Central African Republic) within South Sudan as shown on US maps although it is mostly occupied by Sudan; final alignment pending negotiations and demarcation; the final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan; clashes continue in the oil-rich Abyei region; the United Nations interim security Force for Abyei (UNISFA) has been deployed since 2011, when South Sudan became independent, Sudan accuses South Sudan of supporting Sudanese rebel groups</p> <p><em>South Sudan-Uganda</em>: Lord’s Resistance Army operations in western Equatorial State displace and drive out local populations and steal grain stores</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 289,840 (Sudan), 10,849 (Democratic Republic of the Congo) (2022)<br>
+_refugees (country of origin)_: 289,840 (Sudan) (2022); 11,162 (Democratic Republic of the Congo) (2023)<br>
 _IDPs_: 2.23 million (alleged coup attempt and ethnic conflict beginning in December 2013; information is lacking on those displaced in earlier years by: fighting in Abyei between the Sudanese Armed Forces and the Sudan People's Liberation Army (SPLA) in May 2011; clashes between the SPLA and dissident militia groups in South Sudan; inter-ethnic conflicts over resources and cattle; attacks from the Lord's Resistance Army; floods and drought) (2023)<br>
 _stateless persons_: 10,000 (2022)<br>
 

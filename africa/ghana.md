@@ -151,7 +151,7 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-308 deaths/100,000 live births (2017 est.)<br>
+263 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 31.87 deaths/1,000 live births<br>
@@ -207,7 +207,7 @@ _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>since October 2021, there has been a yellow fever outbreak in Ghana with numerous cases, including some deaths, in the following regions: Savannah, Upper West, Bono, and Oti; the CDC recommends travelers going to Ghana should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak; there are no medications to treat or cure yellow fever<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Ghana is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 10.9% (2016)<br>
@@ -296,7 +296,7 @@ _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>since October 2021, there has been a yellow fever outbreak in Ghana with numerous cases, including some deaths, in the following regions: Savannah, Upper West, Bono, and Oti; the CDC recommends travelers going to Ghana should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak; there are no medications to treat or cure yellow fever<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Ghana is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3,538,275 tons (2005 est.)<br>
@@ -497,9 +497,18 @@ _female_: 9.4% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 43.5 (2016 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 41.3% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 1% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2%<br>
 _highest 10%_: 32.8% (2006)<br>
+
+**Remittances**<br>
+6.13% of GDP (2020 est.)<br>
+5.93% of GDP (2019 est.)<br>
+5.23% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $9.544 billion (2017 est.)<br>
@@ -628,18 +637,17 @@ _Total energy consumption per capita 2019_: 11.239 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 307,668 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total subscriptions_: 315,271 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 40,461,609 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
+_total subscriptions_: 40,454,073 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 123 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people; launch of LTE has improved mobile data services, including m-commerce and banking; moderately competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity; LTE services are widely available; the relatively high cost of 5G-compatible devices also inhibits most subscribers from migrating from 3G and LTE platforms (2022)<br>
-_domestic_: fixed-line data less than 1 per 100 subscriptions; competition among multiple mobile-cellular providers has spurred growth with a voice subscribership of more than 130 per 100 persons (2020)<br>
+_domestic_: fixed-line data less than 1 per 100 subscriptions; mobile-cellular subscriptions 123 per 100 persons (2021)<br>
 _international_: country code - 233; landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic submarine cables that provide connectivity to South and West Africa, and Europe; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors; GhanaSat-1 nanosatellite launched in 2017 (2017)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned TV station, 2 state-owned radio networks; several privately owned TV stations and a large number of privately owned radio stations; transmissions of multiple international broadcasters are accessible; several cable and satellite TV subscription services are obtainable<br>
@@ -666,7 +674,7 @@ _annual passenger traffic on registered air carriers_: 467,438 (2018)<br>
 9G<br>
 
 **Airports**<br>
-_total_: 10 (2021)<br>
+10 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 7<br>
@@ -710,9 +718,9 @@ Ghana Armed Forces: Army, Navy, Air Force; Ministry of the Interior: Ghana Polic
 **Military expenditures**<br>
 0.5% of GDP (2021 est.)<br>
 0.4% of GDP (2020 est.)<br>
-0.4% of GDP (2019 est.) (approximately $360 million)<br>
-0.3% of GDP (2018 est.) (approximately $330 million)<br>
-0.3% of GDP (2017 est.) (approximately $300 million)<br>
+0.4% of GDP (2019 est.)<br>
+0.3% of GDP (2018 est.)<br>
+0.3% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 14,000 active personnel (10,000 Army; 2,000 Navy; 2,000 Air Force) (2022)<br>

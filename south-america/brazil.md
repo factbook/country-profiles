@@ -155,7 +155,7 @@ _65 years and over_: 0.75 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-60 deaths/100,000 live births (2017 est.)<br>
+72 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 13.11 deaths/1,000 live births<br>
@@ -506,9 +506,18 @@ _female_: 38.2% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 48.9 (2020 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 15.7% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 1.5% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 0.8%<br>
 _highest 10%_: 43.4% (2016 est.)<br>
+
+**Remittances**<br>
+0.25% of GDP (2021 est.)<br>
+0.25% of GDP (2020 est.)<br>
+0.17% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $733.7 billion (2017 est.)<br>
@@ -637,18 +646,17 @@ _Total energy consumption per capita 2019_: 59.444 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 30,653,813 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 14 (2020 est.)<br>
+_total subscriptions_: 28,883,475 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 205,834,781 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 97 (2020 est.)<br>
+_total subscriptions_: 219,660,524 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 102 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Brazil is one of the largest mobile and broadband markets in Latin America with healthy competition and pricing; the development of 5G, was scheduled for March 2020 but was delayed due to interference issues with satellite TV broadcasts and the pandemic; the auction was completed November 2021; the licenses are obliged to provide 5G services to all capital cities by July 2022, as well as about 35,500km of the national highway network; the country also has one of the largest fixed line broadband markets in Latin America, though broadband subscriptions is only slightly above the regional average, trailing behind Chile, Argentina, and Uruguay; amendments to the licensing regime adopted in October 2019 also require that ISPs which have switched to authorizations invest money saved from lighter regulations in the expansion of broadband services; the fixed line broadband market has seen rapid growth for a number of years, with a growing focus on fiber broadband; in 2019 the number of fiber accesses overtook DSL connections; the country is a key landing point for a number of important submarine cables connecting to the US, Central and South America, the Caribbean, Europe, and Africa; several new cable systems are due to come into service through to 2022, which will increase bandwidth and push down broadband prices for end-users; investments have also been made into terrestrial fiber cables between Brazil, Argentina, and Chile (2021)<br>
-_domestic_: fixed-line connections stand at roughly 14 per 100 persons; less-expensive mobile-cellular technology has been a major impetus broadening telephone service to the lower-income segments of the population with mobile-cellular teledensity roughly 97 per 100 persons (2020)<br>
+_domestic_: fixed-line connections stand at roughly 13 per 100 persons;&nbsp; mobile-cellular teledensity roughly 102 per 100 persons (2021)<br>
 _international_: country code - 55; landing points for a number of submarine cables, including Malbec, ARBR, Tamnat, SAC, SAm-1, Atlantis -2, Seabras-1, Monet, EllaLink, BRUSA, GlobeNet, AMX-1, Brazilian Festoon, Bicentenario, Unisur, Junior, Americas -II,&nbsp;SAE x1, SAIL, SACS&nbsp;and&nbsp;SABR that provide direct connectivity to South and Central America, the Caribbean, the US, Africa, and Europe;&nbsp;satellite earth stations - 3 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic Ocean region east), connected by microwave relay system to Mercosur Brazilsat B3 satellite earth station; satellites&nbsp;is a&nbsp;major communication platform, as it is almost impossible to lay fiber optic cable in the thick vegetation (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-run Radiobras operates a radio and a TV network; more than 1,000 radio stations and more than 100 TV channels operating - mostly privately owned; private media ownership highly concentrated (2022)<br>
@@ -676,7 +684,7 @@ _annual freight traffic on registered air carriers_: 1,845,650,000 (2018) mt-km<
 PP<br>
 
 **Airports**<br>
-_total_: 4,093 (2021)<br>
+4,093 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 698<br>
@@ -744,7 +752,7 @@ approximately 360,000 active military personnel (220,000 Army; 70,000 Navy; 70,0
 the Brazilian military's inventory consists of a mix of domestically-produced and imported weapons, largely from Europe and the US; in recent years, the US and several European countries have been the leading suppliers of military equipment to Brazil; Brazil's defense industry is capable of designing and manufacturing equipment for all three military services and for export; it also jointly produces equipment with other countries (2022)<br>
 
 **Military service age and obligation**<br>
-18-45 years of age for compulsory military service for men (women exempted); only 5-10% of those inducted are required to serve; conscript service obligation is 10-12 months; 17-45 years of age for voluntary service (2022)<br>
+18-45 years of age for compulsory military service for men (women exempted); only 5-10% of those inducted are required to serve; conscript service obligation is 10-12 months; 17-45 years of age for voluntary service (2023)<br>
 <strong>note:</strong> in 2020, women comprised approximately 9% of the Brazilian military<br>
 
 **Military - note**<br>

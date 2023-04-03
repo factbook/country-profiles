@@ -139,7 +139,7 @@ _65 years and over_: 0.89 male(s)/female<br>
 _total population_: 1.03 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-27 deaths/100,000 live births (2017 est.)<br>
+20 deaths/100,000 live births (2020 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Infant mortality rate**<br>
@@ -378,6 +378,11 @@ _lowest 10%_: 3.2%<br>
 _highest 10%_: 28.2% (2009 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
+**Remittances**<br>
+18.81% of GDP (2021 est.)<br>
+16.48% of GDP (2020 est.)<br>
+18.4% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.314 billion (2017 est.)<br>
 _expenditures_: $1.278 billion (2017 est.)<br>
@@ -508,7 +513,6 @@ _subscriptions per 100 inhabitants_: 78 (2021 est.)<br>
 _general assessment_: most telecommunications companies in the West Bank and Gaza import directly from international vendors; the major challenge they face are Israeli restrictions on telecommunication imports that are listed as &ldquo;Dual Use&rdquo; products; during a visit to the West Bank in July 2022, U.S. President Joe Biden announced that Israeli and Palestinian teams will work together immediately to roll out an advanced infrastructure for 4G by the end of 2023; currently, only 2G service is available in Gaza (2022)<br>
 _domestic_: Israeli has companies that are responsible for fixed-line services; two Palestinian cellular providers launched 3G mobile networks in the West Bank in January 2018 after Israel lifted its ban; fixed-line 9 per 100 and mobile-cellular subscriptions 78 per 100 (includes Gaza Strip) (2021)<br>
 _international_: country code 970 or 972; 1 international switch in Ramallah<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the Palestinian Authority operates 1 TV and 1 radio station; about 20 private TV and 40 radio stations; both Jordanian TV and satellite TV are accessible<br>
@@ -529,7 +533,7 @@ _subscriptions per 100 inhabitants_: 7 (2020 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 2 (2021)<br>
+2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>

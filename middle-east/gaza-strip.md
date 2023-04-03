@@ -129,7 +129,7 @@ _65 years and over_: 1.15 male(s)/female<br>
 _total population_: 1.02 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-27 deaths/100,000 live births (2017 est.)<br>
+20 deaths/100,000 live births (2020 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Infant mortality rate**<br>
@@ -353,6 +353,11 @@ _female_: 69% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 33.7 (2016 est.)<br>
 
+**Remittances**<br>
+18.81% of GDP (2021 est.)<br>
+16.48% of GDP (2020 est.)<br>
+18.4% of GDP (2019 est.)<br>
+
 **Budget**<br>
 see entry for the West Bank<br>
 
@@ -445,20 +450,19 @@ _Total energy consumption per capita 2019_: 13.604 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 466,283 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (2020 est.)<br>
+_total subscriptions_: 485,829 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2021 est.)<br>
 includes the West Bank<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,274,119 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 84 (2020 est.)<br>
+_total subscriptions_: 4,052,966 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 78 (2021 est.)<br>
 includes the West Bank<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p class="paywall">Israel, which controls Palestinian frequencies and telecom infrastructure, limits mobile internet speeds in the Palestinian territories to levels that are significantly lower than in Israel and Jewish West Bank settlements; the World Bank urged Israel to let Palestinian cellular companies set up more advanced networks, and to ease restrictions on the import of equipment needed to build and operate them; Israel is rolling out fifth generation technology for its citizens, while the West Bank operates on 3G and Gaza, 2G; Israeli mobile operators don’t officially service Palestinian areas, but many Palestinians use the faster Israeli networks with SIM cards; the Times of Israel reported in November that Israel tentatively agreed to let Palestinian operators launch 4G services</p> (2022)<br>
-_domestic_: Israeli company BEZEQ and the Palestinian company PALTEL are responsible for fixed-line services; the Palestinian JAWWAL company provides cellular services; a slow 2G network allows calls and limited data transmission; fixed-line 9 per 100 and mobile-cellular 84 per 100 (includes West Bank) (2020)<br>
+_domestic_: fixed-line 9 per 100 and mobile-cellular 28 per 100 (includes West Bank) (2021)<br>
 _international_: country code 970 or 972 (2018)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 TV station and about 10 radio stations; satellite TV accessible<br>
@@ -479,7 +483,7 @@ _subscriptions per 100 inhabitants_: 7 (2020 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

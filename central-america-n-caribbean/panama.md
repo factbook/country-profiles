@@ -143,7 +143,7 @@ _65 years and over_: 0.87 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-52 deaths/100,000 live births (2017 est.)<br>
+50 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 15.28 deaths/1,000 live births<br>
@@ -474,9 +474,18 @@ _female_: 43.6% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 49.8 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 15.7% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 1.7% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.1%<br>
 _highest 10%_: 38.9% (2014 est.)<br>
+
+**Remittances**<br>
+0.89% of GDP (2021 est.)<br>
+0.84% of GDP (2020 est.)<br>
+0.87% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $12.43 billion (2017 est.)<br>
@@ -618,7 +627,6 @@ _subscriptions per 100 inhabitants_: 135 (2020 est.)<br>
 _general assessment_: Panama has seen a steady increase in revenue from the telecom sector in recent years; mobile services and broadband remain the key growth sectors, with mobile connections accounting for 90% of all connections, and over half of telecom sector revenue; the mobile market has effective competition; internet services have grown in recent years as consumers responded to government fixed-line projects, improved mobile broadband connectivity and mobile applications (2021)<br>
 _domestic_: fixed-line about 14 per 100 and rapid subscribership of mobile-cellular telephone roughly 132 per 100 (2020)<br>
 _international_: country code - 507; landing points for the&nbsp;PAN-AM, ARCOS, SAC, AURORA,&nbsp;PCCS, PAC, and the MAYA-1 submarine cable systems that together provide links to the US and parts of the Caribbean, Central America, and South America; satellite earth stations - 2 Intelsat (Atlantic Ocean); connected to the Central American Microwave System (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 multiple privately owned TV networks and a government-owned educational TV station; multi-channel cable and satellite TV subscription services are available; more than 100 commercial radio stations (2019)<br>
@@ -646,7 +654,7 @@ _annual freight traffic on registered air carriers_: 47.63 million (2018) mt-km<
 HP<br>
 
 **Airports**<br>
-_total_: 117 (2021)<br>
+117 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 57<br>

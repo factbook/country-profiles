@@ -331,7 +331,6 @@ _Currency_: Australian dollars (AUD) per US dollar -<br>
 _general assessment_: the current infrastructure consists of fixed line telephone utilizing copper twisted pair cable and optic fiber, two Satellite Earth Station, GSM Mobile switch with five remote base stations and 2 micro cells, central public exchange which switches international as well as national calls, ADSL Broadband internet connection &nbsp;(Asynchronous Digital Subscriber Line), and an ISP (Internet Service Provider) (2020)<br>
 _domestic_: free local calls<br>
 _international_: country code - 672; submarine cable links with Australia and New Zealand; satellite earth station - 1<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 local radio station; broadcasts of several Australian radio and TV stations available via satellite (2009)<br>
@@ -346,7 +345,7 @@ _percent of population_: 35% (2016 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

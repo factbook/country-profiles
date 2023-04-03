@@ -151,7 +151,7 @@ _65 years and over_: 0.68 male(s)/female<br>
 _total population_: 0.94 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-17 deaths/100,000 live births (2017 est.)<br>
+19 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 8.14 deaths/1,000 live births<br>
@@ -482,9 +482,18 @@ _female_: 38.7% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 39.7 (2018 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 18.6% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 1.3% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9%<br>
 _highest 10%_: 30.8% (2014 est.)<br>
+
+**Remittances**<br>
+0.21% of GDP (2021 est.)<br>
+0.21% of GDP (2020 est.)<br>
+0.18% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $17.66 billion (2017 est.)<br>
@@ -624,7 +633,6 @@ _subscriptions per 100 inhabitants_: 138.08 (2019)<br>
 _general assessment_: Uruguay has an advanced telecom market, with excellent infrastructure and one of the highest broadband penetration rates in Latin America; fixed-line teledensity is also particularly high for the region, while mobile penetration is the second highest after Panama; in terms of computer penetration, Uruguay tops all other countries in the region by a considerable margin, and this has facilitated growth in fixed-line broadband adoption; the government and telecom regulator have introduced a range of measures to help develop the deployment of fiber infrastructure, partly in a bid to encourage economic growth and stimulate e-commerce; fiber accounted for about 77% of all fixed and fixed-wireless broadband connections as of June 2020; with investment projected to reach $800 million, the state-owned incumbent Antel is expected to provide national FttP coverage by early 2022; together with the FttP network, the opening of the submarine cable system in early 2012 and August 2017 have helped boost Uruguay&rsquo;s internet bandwidth, and increase the data rate available to end-users; Uruguay is one of the very few Latin American countries where the local fixed-line market is neither privatized nor liberalized; other segments of the telecom market have been opened to competition, including international long-distance telephony, mobile telephony, and fixed-wireless broadband; Uruguay is also one of the few countries in the world where broadband access via cable modem does not exist; although cable networks are well equipped technologically, and digital cable TV is widely available, telecom legislation prohibits data transmission over pay TV networks; the government announced in December 2020 that it intended to introduce changes to the law to permit pay TV providers to offer internet and telephony packages over their own networks; all three operators offer mobile broadband through 3G and LTE networks; operators have achieved nationwide 3G coverage and the number of mobile broadband subscribers continues to grow; at the end of 2019, spectrum in the 5G-suitable range was auctioned, enabling operators to launch 5G services; the regulator is working on a spectrum and connectivity policy that emphasizes 5G (2021)<br>
 _domestic_: most modern facilities concentrated in Montevideo; nationwide microwave radio relay network; overall fixed-line roughly 35 per 100 and mobile-cellular teledensity 131 per 100 persons (2020)<br>
 _international_: country code - 598; landing points for the Unisor, Tannat, and Bicentenario&nbsp;submarine cable system providing direct connectivity to Brazil and Argentina; Bicentenario 2012 and Tannat&nbsp;2017 cables helped end-users with Internet bandwidth; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 mixture of privately owned and state-run broadcast media; more than 100 commercial radio stations and about 20 TV channels; cable TV is available; many community radio and TV stations; adopted the hybrid Japanese/Brazilian HDTV standard (ISDB-T) in December 2010 (2019)<br>
@@ -650,7 +658,7 @@ _inventory of registered aircraft operated by air carriers_: 5<br>
 CX<br>
 
 **Airports**<br>
-_total_: 133 (2021)<br>
+133 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 11<br>
@@ -707,7 +715,7 @@ approximately 22,000 active duty personnel (14,000 Army; 5,000 Navy; 3,000 Air F
 the military's inventory includes a wide variety of older or second-hand equipment; in recent years, it has imported limited amounts of military hardware from a variety of countries with Spain as the leading supplier (2022)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age (18-22 years of age for Navy) for voluntary military service for men and women; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2022)<br>
+18-30 years of age (18-22 years of age for Navy) for voluntary military service for men and women; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2023)<br>
 <strong>note:</strong> as of 2017, women comprised about 19% of the active military<br>
 
 **Military deployments**<br>

@@ -143,7 +143,7 @@ _65 years and over_: 0.75 male(s)/female<br>
 _total population_: 1.37 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-12 deaths/100,000 live births (2017 est.)<br>
+7 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 7.27 deaths/1,000 live births<br>
@@ -458,9 +458,18 @@ _female_: 46.2% (2021 est.)<br>
 **Population below poverty line**<br>
 NA<br>
 
+**Average household expenditures**<br>
+_On food_: 19.2% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 0.2% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
+
+**Remittances**<br>
+0.02% of GDP (2020 est.)<br>
+0.02% of GDP (2019 est.)<br>
+0.02% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $50.5 billion (2017 est.)<br>
@@ -598,7 +607,6 @@ _subscriptions per 100 inhabitants_: 159 (2020 est.)<br>
 _general assessment_: Kuwait&rsquo;s telecom infrastructure is well developed, with a focus on mobile infrastructure and services; the telecom sector is important to the country&rsquo;s economy, and this will become more pronounced in coming years as the economy is purposefully transitioned away from a dependence on oil and gas to one which is increasingly knowledge-based and focused on ICT and related services; the MNOs have focused investment on 5G networks, which support and promote the growth of data traffic; this in turn has been a catalyst for revenue growth in recent quarters; while Kuwait&rsquo;s mobile sector shows considerable progress; the country&rsquo;s fixed broadband system is the lowest in the region; the government has stepped up efforts to build up fixed broadband networks, and ultimately this sector offers a potential future growth opportunity; improvements to the fixed broadband infrastructure will help develop sectors such as e-commerce, along with smart infrastructure developments, and tech start-ups (2022)<br>
 _domestic_: fixed-line subscriptions are nearly 14 per 100 and mobile-cellular stands at nearly 159 per 100 subscriptions (2020)<br>
 _international_: country code - 965; landing points for the FOG, GBICS, MENA, Kuwait-Iran, and FALCON submarine cables&nbsp;linking Africa, the Middle East, and Asia; microwave radio relay to Saudi Arabia; satellite earth stations - 6 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 1 Inmarsat - Atlantic Ocean, and 2 Arabsat) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned TV broadcaster operates 4 networks and a satellite channel; several private TV broadcasters have emerged; satellite TV available&nbsp;and pan-Arab TV stations are especially popular; state-owned Radio Kuwait broadcasts on a number of channels in Arabic and English; first private radio station emerged in 2005; transmissions of at least 2 international radio broadcasters are available (2019)<br>
@@ -626,7 +634,7 @@ _annual freight traffic on registered air carriers_: 392.36 million (2018) mt-km
 9K<br>
 
 **Airports**<br>
-_total_: 7 (2021)<br>
+7 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
@@ -660,8 +668,8 @@ _major seaport(s)_: Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'A
 ## Military and Security
 
 **Military and security forces**<br>
-Kuwaiti Armed Forces (KAF): Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Brigade; Kuwaiti National Guard (KNG); Coast Guard (Ministry of Interior) (2022)<br>
-<strong>note 1:</strong> the Kuwait Amiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services<br><br><strong>note 2:</strong> the Kuwaiti National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br>
+Kuwaiti Armed Forces (KAF): Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Authority; Kuwaiti National Guard (KNG); Coast Guard (Ministry of Interior) (2022)<br>
+<strong>note 1:</strong> the Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the 25th Commando Brigade is Kuwait's leading special forces unit; the Emiri Guard Authority (aka Emiri Guard Brigade) is responsible for protecting Kuwait's heads of state<br><br><strong>note 2:</strong> the Kuwaiti National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br>
 
 **Military expenditures**<br>
 6.8% of GDP (2021 est.)<br>
@@ -674,14 +682,14 @@ Kuwaiti Armed Forces (KAF): Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air
 approximately 17,000 active duty armed forces personnel (12,500 Army, including the Amiri Guard and 25th Commando Brigade; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of weapons from a wide variety of sources, including Western Europe, Russia, the United Arab Emirates, and the US; the US has been the leading supplier of arms to Kuwait&nbsp; (2022)<br>
+the military's inventory consists of weapons from a wide variety of sources, including Western Europe, Russia, and the US; the US has been the leading supplier of arms to Kuwait (2022)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service; Kuwait reintroduced 12-month mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; mandatory service is divided in two phases – 4 months for training and 8 months for military service; women were allowed to volunteer in 2021 (2022)<br>
+18-26 years of age for voluntary military service; Kuwait reintroduced 12-month mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; mandatory service is divided in two phases – 4 months for training and 8 months for military service; women were allowed to volunteer in 2021 (2023)<br>
 <strong>note:</strong> the National Guard is restricted to citizens, but in 2018, the Army began allowing non-Kuwaitis to join on contract or as non-commissioned officers; that same year, it also began allowing stateless people (Bidoon) to join<br>
 
 **Military - note**<br>
-as of 2022, the US had approximately 13,000 military personnel based in Kuwait as part of a 1991 Defense Cooperation Agreement and a 2013 Acquisition and Cross-Servicing Agreement<br><br>Kuwait has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
+Kuwait's key security partner since the 1991 Gulf War has been the US; the US has approximately 13,500 military personnel as well as logistics and training facilities in Kuwait as part of a 1991 Defense Cooperation Agreement and a 2013 Acquisition and Cross-Servicing Agreement; only Germany, Japan, and South Korea host more US forces than Kuwait does; the KAF conducts bilateral exercises with the US military; Kuwait also has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
 
 ## Transnational Issues
 

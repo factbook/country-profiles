@@ -146,7 +146,7 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
-396 deaths/100,000 live births (2017 est.)<br>
+399 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 39.79 deaths/1,000 live births<br>
@@ -202,6 +202,7 @@ _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Togo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.4% (2016)<br>
@@ -290,6 +291,7 @@ _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Togo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,109,030 tons (2014 est.)<br>
@@ -493,6 +495,11 @@ _female_: 7.7% (2021 est.)<br>
 _lowest 10%_: 3.3%<br>
 _highest 10%_: 27.1% (2006)<br>
 
+**Remittances**<br>
+8.59% of GDP (2020 est.)<br>
+7.04% of GDP (2019 est.)<br>
+6.34% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.023 billion (2017 est.)<br>
 _expenditures_: $1.203 billion (2017 est.)<br>
@@ -630,7 +637,6 @@ _subscriptions per 100 inhabitants_: 77.2 (2019)<br>
 _general assessment_: system based on a network of microwave radio relay routes supplemented by open-wire lines and a mobile-cellular system; telecoms supply 8% of GDP; 3 mobile operators; 12% of residents have access to the Internet; mobile subscribers and mobile broadband both increasing (2020)<br>
 _domestic_: fixed-line less than 1 per 100 and mobile-cellular nearly 79 telephones per 100 persons with mobile-cellular use predominating (2020)<br>
 _international_: country code - 228; landing point for the WACS submarine cable, linking countries along the west coast of Africa with each other and with Portugal; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Symphonie (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1&nbsp;state-owned TV station with multiple transmission sites; five private TV stations broadcast locally; cable TV service is available; state-owned radio network with two stations (in Lome and Kara); several dozen private radio stations and a few community radio stations; transmissions of multiple international broadcasters available (2019)<br>
@@ -658,7 +664,7 @@ _annual freight traffic on registered air carriers_: 10.89 million (2018) mt-km<
 5V<br>
 
 **Airports**<br>
-_total_: 8 (2021)<br>
+8 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
@@ -696,7 +702,7 @@ _container port(s) (TEUs)_: Lome (1,962,304) (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Armee de l’Air), National Gendarmerie (Gendarmerie Nationale Togolaise or GNT) (2022)<br>
+Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Armee de l’Air), National Gendarmerie (Gendarmerie Nationale Togolaise or GNT) (2023)<br>
 <strong>note:</strong> the GNT falls under the Ministry of the Armed Forces but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security<br>
 
 **Military expenditures**<br>
@@ -720,7 +726,7 @@ the FAT has a small, mixed inventory of mostly older equipment from a variety of
 730 (plus about 300 police) Mali (MINUSMA) (May 2022)<br>
 
 **Military - note**<br>
-the first Togolese Army unit was created in 1963, while the Air Force was established in 1964; the Navy was not established until 1976; since its creation, the Togolese military has a history of interfering in the country’s politics with assassinations, coups, influence, and a large military crackdown in 2005 that killed hundreds; over the past decade, it has made some efforts to reform and professionalize, as well as increase its role in UN peacekeeping activities; Togolese police have also been deployed on peacekeeping operations, and Togo maintains a regional peacekeeping training center for military and police in Lome; the Navy and Air Force has increased focus on combating piracy and smuggling in the Gulf of Guinea <br><br>in June 2022, the Togolese Government declared a state of emergency in its northern border region due to the threat from Jama'at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida-affiliated militant groups based in Mali that also operates in neighboring Burkina Faso; the declaration followed an attack on a Togolese military post in May that killed 8 soldiers and a Togolese military operation launched the same month to boost border security and prevent terrorist infiltrations (2022)<br>
+since its creation in 1963, the Togolese military has had a history of interfering in the country’s politics with assassinations, coups, influence, and a large military crackdown in 2005 that killed hundreds; over the past decade, however, it has made some efforts to reform and professionalize, as well as increase its role in UN peacekeeping activities; Togo maintains a regional peacekeeping training center for military and police in Lome; the FAT participates in multinational exercises and has received training from foreign partners, including France and the US<br><br>the FAT’s current focuses are primarily terrorism and maritime security; in recent years, it has increased operations in the northern border region of the country to boost border security and prevent terrorist infiltrations from Jama'at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida-affiliated militant groups based in Mali that also operates in neighboring Burkina Faso; in 2022, the Togolese Government declared a state of emergency in the north due to the threat from JNIM following an attack on a Togolese military post that killed several soldiers; the Navy and Air Force have increased focus on combating piracy and smuggling in the Gulf of Guinea<br><br>the Army has a mixed force of small, lightly-armed combined arms, infantry, and commando regiments, as well as a rapid reaction force; the Gendarmerie includes mobile, regionally-based, and maritime units; the Navy operates a few patrol boats while the Air Force has a small inventory of training, light attack- capable, and transport aircraft, as well as combat helicopters (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>

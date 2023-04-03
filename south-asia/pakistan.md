@@ -152,7 +152,7 @@ _total population_: 1.04 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-140 deaths/100,000 live births (2017 est.)<br>
+154 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 52.73 deaths/1,000 live births<br>
@@ -508,9 +508,18 @@ _female_: 8.2% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 29.6 (2018 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 39.5% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 1.1% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4%<br>
 _highest 10%_: 26.1% (FY2013)<br>
+
+**Remittances**<br>
+8.99% of GDP (2021 est.)<br>
+8.68% of GDP (2020 est.)<br>
+6.93% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $46.81 billion (2017 est.)<br>
@@ -651,7 +660,6 @@ _subscriptions per 100 inhabitants_: 80 (2020 est.)<br>
 _general assessment_: Pakistan&rsquo;s telecom market transitioned from a regulated state-owned monopoly to a deregulated competitive structure in 2003, now aided by foreign investment; moderate growth over the last six years, supported by a young population and a rising use of mobile services; telecom infrastructure is improving, with investments in mobile-cellular networks, fixed-line subscriptions declining; system consists of microwave radio relay, coaxial cable, fiber-optic cable, cellular, and satellite networks; 4G mobile services broadly available; 5G tests ongoing; data centers in major cities; mobile and broadband doing well and dominate over fixed-broadband sector; future growth (in market size as well as revenue) is likely to come from the wider availability of value-added services on top of the expansion of 4G LTE and (from 2023) 5G mobile networks; the Universal Service Fund (USF) continues to direct investment towards the development of mobile broadband (and, to a lesser extent, fiber-based networks) in under-served and even under served areas of the country, with multiple projects being approved to start in 2021 and 2022 (2021)<br>
 _domestic_: mobile-cellular subscribership has increased; more than 90% of Pakistanis live within areas that have cell phone coverage; fiber-optic networks are being constructed throughout the country to increase broadband access and broadband penetration in Pakistan is increasing--by the end of 2021, 50% of the population had access to broadband services; fixed-line teledensity is a little over 1 per 100 and mobile-cellular roughly 84 per 100 persons (2021)<br>
 _international_: country code - 92; landing points for the SEA-ME-WE-3, -4, -5, AAE-1, IMEWE, Orient Express, PEACE Cable,&nbsp;and TW1 submarine cable systems that provide links to Europe, Africa, the Middle East, Asia, Southeast Asia, and Australia; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian Ocean); 3 operational international gateway exchanges (1 at Karachi and 2 at Islamabad); microwave radio relay to neighboring countries (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 television is the most popular and dominant source of news in Pakistan with over 120 satellite tv stations licensed by the country&rsquo;s electronic media regulatory body, PEMRA ,and 40 media companies/channels with landing rights permission; state-run Pakistan Television Corporation (PTV) is the largest television network in the country and serves over 90% of the population with the largest terrestrial infrastructure of the country; PTV consists of nine TV Channels and PTV networks give special coverage to Kashmir; Pakistanis have access to over 100 private cable and satellite channels; 6 channels are considered the leaders for news reporting and current affairs programing in the country; state-owned Pakistan Broadcasting Corporation (PBC or Radio Pakistan) has the largest radio audience in the country, particularly in the rural areas; Radio Pakistan&rsquo;s AM/SW/FM stations cover 98 percent of the population and 80 percent of the total area in the country; all major newspapers have online editions and all major print publications operate websites; freedom of the press and freedom of speech in the country are fragile (2021)<br>
@@ -679,7 +687,7 @@ _annual freight traffic on registered air carriers_: 217.53 million (2018) mt-km
 AP<br>
 
 **Airports**<br>
-_total_: 151 (2021)<br>
+151 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 108<br>

@@ -165,7 +165,7 @@ has one or more meteorological stations on each possession<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 4 (2021)<br>
+4 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 4<br>

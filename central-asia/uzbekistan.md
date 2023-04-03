@@ -147,7 +147,7 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 23.7 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
-29 deaths/100,000 live births (2017 est.)<br>
+30 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 18.55 deaths/1,000 live births<br>
@@ -478,9 +478,18 @@ _female_: 16.2% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 36.8 (2003)<br>
 
+**Average household expenditures**<br>
+_On food_: 30.2% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 2.5% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 29.6% (2003)<br>
+
+**Remittances**<br>
+13.28% of GDP (2021 est.)<br>
+11.65% of GDP (2020 est.)<br>
+14.26% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $15.22 billion (2017 est.)<br>
@@ -618,7 +627,6 @@ _subscriptions per 100 inhabitants_: 103 (2021)<br>
 _general assessment_: Uzbekistan&rsquo;s telecom markets both wireline and wireless have been playing "catch up" in terms of their development following the country's independence from the former Soviet Union; the government has formally adopted the principles of operating as a market economy, many elements of the old centrally planned economic model remain; this has had the effect of reducing the level of interest from foreign companies and investors in building out the necessary underlying infrastructure, which in turn has constrained the rate of growth in the country&rsquo;s telecoms sector; the last five years has seen an upswing in prospects for the sector as fiber network roll outs continue beyond the main urban centers, while the mobile market experiences some consolidation for stronger, more efficient competitors; growth is present in the fixed broadband segment with penetration projected to reach 24% by 2027 (a 5-year CAGR of 6.2%); despite the promising signs in the fixed markets, it is the mobile segment that continues to dominate Uzbekistan&rsquo;s telecoms sector in terms of penetration, revenue, and growth;&nbsp; there are four major operators providing a modicum of competition; three of the four are government owned entities; the mobile market is expected to reach 100% penetration in 2023 a 50% increase in the last five years (2022)<br>
 _domestic_: fixed-line nearly 10 per 100 persons and mobile-cellular teledensity nearly 103 per 100 persons; the state-owned telecommunications company, Uzbek Telecom, owner of the fixed-line telecommunications system, has used loans from the Japanese government and the China Development Bank to upgrade fixed-line services including conversion to digital exchanges; mobile-cellular services are provided by 2 private and 3 state-owned operators with a total subscriber base of 22.8 million as of January 2018 (2021)<br>
 _international_: country code - 998; linked by fiber-optic cable or microwave radio relay with CIS member states and to other countries by leased connection via the Moscow international gateway switch; the country also has a link to the Trans-Asia-Europe (TAE) fiber-optic cable; Uzbekistan has supported the national fiber-optic backbone project of Afghanistan since 2008<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the government controls media; 17 state-owned broadcasters - 13 TV and 4 radio - provide service to virtually the entire country; about 20 privately owned TV stations, overseen by local officials, broadcast to local markets; privately owned TV stations are required to lease transmitters from the government-owned Republic TV and Radio Industry Corporation; in 2019, the Uzbek Agency for Press and Information was reorganized into the Agency of Information and Mass Communications and became part of the Uzbek Presidential Administration with recent appointment of the Uzbek President's&nbsp;elder daughter as it deputy director (2019)<br>
@@ -646,7 +654,7 @@ _annual freight traffic on registered air carriers_: 89.43 million (2018) mt-km<
 UK<br>
 
 **Airports**<br>
-_total_: 53 (2021)<br>
+53 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 33<br>
@@ -699,7 +707,8 @@ information varies; approximately 60,000 active duty troops, including 10-15,000
 the Uzbek Armed Forces use mainly Soviet-era equipment; in recent years, Russia has been the leading supplier of arms, followed by China (2022)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory military service; 12-month conscript service obligation for men (those conscripted have the option of paying for a shorter service of 1 month while remaining in the reserves until the age of 27); Uzbek citizens who have completed their service terms in the armed forces have privileges in employment and admission to higher educational institutions (2022)<br>
+18-27 years of age for compulsory military service; 12-month conscript service obligation for men (those conscripted have the option of paying for a shorter service of 1 month while remaining in the reserves until the age of 27) (2023)<br>
+<strong>note:</strong> Uzbek citizens who have completed their service terms in the armed forces have privileges in employment and admission to higher educational institutions<br>
 
 **Military - note**<br>
 the Uzbek armed forces were established in January 1992, following the dissolution of the Soviet Union, when the newly-established Ministry for Defense Affairs assumed jurisdiction over all former Soviet ground, air, and air defense units, formations, and installations then deployed on its soil; the building hosting the headquarters for the ex-Soviet Turkestan Military District became the headquarters for the Uzbek armed forces; all former Soviet troops departed Uzbekistan by 1995; Uzbekistan continues to maintain bilateral defense ties with Russia based on a 2005 mutual security agreement<br><br>Uzbekistan is not part of the Russian-sponsored Collective Security Treaty Organization (CSTO) that is comprised of former Soviet Republics; Uzbekistan joined in the 1990s but withdrew in 1999; it returned in 2006 but left again in 2012 (2023)<br>

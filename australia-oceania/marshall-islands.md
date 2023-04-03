@@ -445,6 +445,11 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+12.82% of GDP (2020 est.)<br>
+13.55% of GDP (2019 est.)<br>
+14.34% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $116.7 million (2013 est.)<br>
 _expenditures_: $113.9 million (2013 est.)<br>
@@ -530,7 +535,6 @@ _subscriptions per 100 inhabitants_: 27 (2020 est.)<br>
 _general assessment_: the National Telecommunications Act, through Bill No. 66, ushered in a new era in telecommunications in the Marshall Islands; this will enable an open, competitive market for telecommunications that is regulated by a Telecommunications Commissioner; telecom officials announced that they would be able to offer satellite internet services beginning in mid-2023; the World Bank has been promoting telecommunications reform here for a decade and has a multi-million-dollar telecommunications reform grant program in progress (2022)<br>
 _domestic_: Majuro Atoll and Ebeye and Kwajalein islands have regular, seven-digit, direct-dial telephones; other islands interconnected by high frequency radiotelephone (used mostly for government purposes) and mini-satellite telephones; fixed-line roughly 4 per 100 persons and mobile-cellular is nearly 27 per 100 persons (2020)<br>
 _international_: country code - 692; satellite earth stations - 2 Intelsat (Pacific Ocean); US Government satellite communications system on Kwajalein<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 no TV broadcast station; a cable network is available on Majuro with programming via videotape replay and satellite relays; 4 radio broadcast stations; American Armed Forces Radio and Television Service (AFRTS) provides satellite radio and television service to Kwajalein Atoll (2019)<br>
@@ -561,7 +565,7 @@ _annual freight traffic on registered air carriers_: 130,000 (2018) mt-km<br>
 V7<br>
 
 **Airports**<br>
-_total_: 15 (2021)<br>
+15 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>

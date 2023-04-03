@@ -327,7 +327,6 @@ _Currency_: New Zealand dollars (NZD) per US dollar -<br>
 _general assessment_: satellite-based phone services; rural connectivity a challenge; 2G services widespread; demand for mobile broadband due to mobile services providing Internet source; the launch of the Kacific-1 satellite in 2019 will improve telecommunications in the region (2020)<br>
 _domestic_: local phone service with international connections via Internet (2018)<br>
 _international_: country code - 872; satellite earth station - 1 Inmarsat<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 satellite TV from Fiji-based Sky Pacific offering a wide range of international channels<br>

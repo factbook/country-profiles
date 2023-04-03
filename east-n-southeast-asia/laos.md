@@ -145,7 +145,7 @@ _65 years and over_: 0.86 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-185 deaths/100,000 live births (2017 est.)<br>
+126 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 36.56 deaths/1,000 live births<br>
@@ -482,9 +482,18 @@ _female_: 3.2% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 38.8 (2018 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 50% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 10.5% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.3%<br>
 _highest 10%_: 30.3% (2008)<br>
+
+**Remittances**<br>
+1.22% of GDP (2020 est.)<br>
+1.58% of GDP (2019 est.)<br>
+1.32% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $3.099 billion (2017 est.)<br>
@@ -624,7 +633,6 @@ _subscriptions per 100 inhabitants_: 56 (2020 est.)<br>
 _general assessment_: Laos joined the World Trade Organization (WTO) in 2013; one of the conditions of admittance was to establish an independent regulator for its telecom sector within two years; the government had committed to do so by February 2015 as part of the accession agreement; there still has been no sign of any firm plans being made to create an independent regulatory body; the Ministry of Posts and Telecommunications (MPT) retains the primary role in regulating the country&rsquo;s telecom market; with the government also having a financial stake (in part or in whole) in every one of the major fixed-line and mobile operators, the MPT&rsquo;s position and decision-making is far from what could be considered independent; sufficient returns on investment cannot be guaranteed with such strict pricing controls as well as the potential for political interference; fixed-line and mobile penetration levels have, as a result, remained much lower than what&rsquo;s seen in neighboring South East Asian markets; there are signs of growth in the mobile broadband segment as LTE network coverage slowly widens and, more recently, the country&rsquo;s first 5G services start to come on stream; residents in the capital will at least be able to enjoy high-speed services in the near future, while the rest of the country waits patiently to catch up with the rest of the world. (2022)<br>
 _domestic_: fixed-line nearly 20 per 100 and 56 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 856; satellite earth station - 1 Intersputnik (Indian Ocean region) and a second to be developed by China<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 6 TV stations operating out of Vientiane - 3 government-operated and the others commercial; 17 provincial stations operating with nearly all programming relayed via satellite from the government-operated stations in Vientiane; Chinese and Vietnamese programming relayed via satellite from Lao National TV; broadcasts available from stations in Thailand and Vietnam in border areas; multi-channel satellite and cable TV systems provide access to a wide range of foreign stations; state-controlled radio with state-operated Lao National Radio (LNR) broadcasting on 5 frequencies - 1 AM, 1 SW, and 3 FM; LNR's AM and FM programs are relayed via satellite constituting a large part of the programming schedules of the provincial radio stations; Thai radio broadcasts available in border areas and transmissions of multiple international broadcasters are also accessible<br>
@@ -652,7 +660,7 @@ _annual freight traffic on registered air carriers_: 1.53 million (2018) mt-km<b
 RDPL<br>
 
 **Airports**<br>
-_total_: 41 (2021)<br>
+41 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 8<br>
@@ -700,7 +708,7 @@ information is limited and estimates vary; approximately 30,000 active duty troo
 the LPAF is armed largely with Soviet-era weapons; in recent years, China and Russia have been the leading suppliers of military equipment to Laos (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory or voluntary military service; minimum 18-month service obligation (2022)<br>
+18 years of age for compulsory or voluntary military service; minimum 18-month service obligation (2023)<br>
 
 **Military - note**<br>
 the LPAF’s primary missions are border and internal security, including counterinsurgency and counterterrorism<br><br>Vietnam is the Laotian military's primary security partner, although in recent years, Laos has expanded defense ties with China (2022)<br>

@@ -140,7 +140,7 @@ _65 years and over_: 0.9 male(s)/female<br>
 _total population_: 1 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-36 deaths/100,000 live births (2017 est.)<br>
+130 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 10.9 deaths/1,000 live births<br>
@@ -463,6 +463,11 @@ _female_: 31.9% (2021 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+5.43% of GDP (2021 est.)<br>
+5.8% of GDP (2020 est.)<br>
+4.01% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $553.5 million (2017 est.)<br>
 _expenditures_: $572 million (2017 est.)<br>
@@ -591,18 +596,17 @@ _Total energy consumption per capita 2019_: 31.552 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 19,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
+_total subscriptions_: 19,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 264,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 66 (2020 est.)<br>
+_total subscriptions_: 260,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 66 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Belize&rsquo;s fixed-line teledensity and mobile penetration remain lower than average for the region, a legacy of insufficient market competition and under investment in telecoms services; a significant investment in infrastructure, launching an LTE-A service at the end of 2016 and in mid-2017 completing a submarine cable to Ambergris Caye, enabling it to launch an FttP service in San Pedro; the nfrastructure has been updated from the legacy copper to fiber; investments have been made to provide high speed broadband to 80% of residences across Belize. (2021)<br>
-_domestic_: roughly 5 per 100 fixed-line and mobile-cellular teledensity of 66 per 100 persons; mobile sector accounting for over 90% of all phone subscriptions (2020)<br>
+_domestic_: roughly 5 per 100 fixed-line and mobile-cellular teledensity of 66 per 100 persons; mobile sector accounting for over 90% of all phone subscriptions (2021)<br>
 _international_: country code - 501; landing points for the&nbsp;ARCOS and SEUL&nbsp;fiber-optic telecommunications submarine cable that provides links to South and Central America, parts of the Caribbean, and the US; satellite earth station - 8 (Intelsat - 2, unknown - 6) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 8 privately owned TV stations; multi-channel cable TV provides access to foreign stations; about 25 radio stations broadcasting on roughly 50 different frequencies; state-run radio was privatized in 1998 (2019)<br>
@@ -630,7 +634,7 @@ _annual freight traffic on registered air carriers_: 3.78 million (2018) mt-km<b
 V3<br>
 
 **Airports**<br>
-_total_: 47 (2021)<br>
+47 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 6<br>
@@ -679,7 +683,7 @@ approximately 1,300 BDF personnel; approximately 300 Belize Coast Guard (2022)<b
 the BDF's inventory is limited and consists mostly of UK- and US-origin equipment (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient, but conscription has never been implemented; volunteers typically outnumber available positions by 3:1; initial service obligation 12 years (2022)<br>
+18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient, but conscription has never been implemented; initial service obligation is 12 years (2022)<br>
 
 **Military - note**<br>
 <p>the BDF traces its history back to the Prince Regent Royal Honduras Militia, a volunteer force established in 1817; the BDF was established in 1978 from the disbanded Police Special Force and the Belize Volunteer Guard to assist the resident British forces with the defense of Belize against Guatemala</p> <p>the British Army has maintained a presence in Belize since its independence; as of 2022, the presence consisted of a small training support unit that provides jungle training to troops from the UK and international partners</p><br>

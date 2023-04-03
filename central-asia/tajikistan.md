@@ -148,7 +148,7 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 23.2 years (2017 est.)<br>
 
 **Maternal mortality ratio**<br>
-17 deaths/100,000 live births (2017 est.)<br>
+17 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 31.62 deaths/1,000 live births<br>
@@ -487,6 +487,11 @@ _female_: 14.4% (2021 est.)<br>
 _lowest 10%_: (2009 est.) NA<br>
 _highest 10%_: (2009 est.) NA<br>
 
+**Remittances**<br>
+33.41% of GDP (2021 est.)<br>
+26.88% of GDP (2020 est.)<br>
+27.97% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.269 billion (2017 est.)<br>
 _expenditures_: $2.374 billion (2017 est.)<br>
@@ -623,7 +628,6 @@ _subscriptions per 100 inhabitants_: 111.53 (2019)<br>
 _general assessment_: the nation of Tajikistan has had to struggle through a further two years of economic hardship following the onset of the Covid-19 pandemic; the strain on financial resources inevitably means a continuation of the absence of any meaningful investment or development programs for telecommunications infrastructure; the fixed line telephony and fixed broadband markets continue to languish far behind the mobile sector in terms of teledensity and penetration; with only around 6,000 fixed broadband customers (0.07% penetration), there would appear to be massive growth potential, but the limited fixed line infrastructure in the country suggests there&rsquo;s little likelihood of that occurring any time soon; the size of Tajikistan&rsquo;s mobile market dwarfs the fixed line segment, with an estimated penetration rate of nearly 120%; with a number of private sector companies active in the mobile market, there been more commitment to investment in network upgrades and expansion; three MNOs have all launched commercial 5G services, initially in areas of the capital city Dushanbe; the move towards higher speed mobile services should further underpin the growth in the nascent mobile broadband market, which is still estimated to be at a relatively low penetration level of 42% (at least relative to most other Asian nations) but is predicted to be a strong compound annual growth rate of more than 8% for at least the next five years (2021)<br>
 _domestic_: fixed line availability has not changed significantly since 1998, while mobile cellular subscribership, aided by competition among multiple operators, has expanded; coverage now extends to all major cities and towns; fixed-line over 5 per 100 and mobile-cellular over 121 per 100 (2020)<br>
 _international_: country code - 992; linked by cable and microwave radio relay to other CIS republics and by leased connections to the Moscow international gateway switch; Dushanbe linked by Intelsat to international gateway switch in Ankara (Turkey); 3 satellite earth stations - 2 Intelsat and 1 Orbita<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-run TV broadcasters transmit nationally on 9 TV and 10 radio stations, and regionally on 4 stations; 31 independent TV and 20 radio stations broadcast locally and regionally; many households are able to receive Russian and other foreign stations via cable and satellite (2016)<br>
@@ -651,7 +655,7 @@ _annual freight traffic on registered air carriers_: 2.34 million (2018) mt-km<b
 EY<br>
 
 **Airports**<br>
-_total_: 24 (2021)<br>
+24 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 17<br>
@@ -699,7 +703,7 @@ approximately 9,500 active duty troops (8,000 Land and Mobile Forces; 1,500 Air 
 the military's inventory is comprised of older Russian and Soviet-era equipment; it has received limited quantities of weapons systems in recent years, most of which was secondhand material from Russia (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory or voluntary military service for men; women may volunteer; 24-month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay a fee in order to avoid conscription (2022)<br>
+18-27 years of age for compulsory or voluntary military service for men; women may volunteer; 24-month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay a fee in order to avoid conscription (2023)<br>
 
 **Military - note**<br>
 Tajikistan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force (2023)<br>

@@ -134,7 +134,7 @@ _65 years and over_: 0.8 male(s)/female<br>
 _total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-88 deaths/100,000 live births (2017 est.)<br>
+74 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 21.37 deaths/1,000 live births<br>
@@ -434,6 +434,11 @@ _female_: 29.9% (2014)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+5.72% of GDP (2020 est.)<br>
+5.66% of GDP (2019 est.)<br>
+5.81% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $213.8 million (FY12/13 est.)<br>
 _expenditures_: $192.1 million (FY12/13 est.)<br>
@@ -544,7 +549,6 @@ _subscriptions per 100 inhabitants_: 19 (2020 est.)<br>
 _general assessment_: adequate system, the demand for mobile broadband is increasing due to mobile services being the primary and most wide-spread source for Internet access across the region (2020)<br>
 _domestic_: islands interconnected by shortwave radiotelephone, satellite (Intelsat) ground stations, and some coaxial and fiber-optic cable; mobile-cellular service available on the major islands; fixed line teledensity roughly 6 per 100 and mobile-cellular nearly 19 per 100 (2020)<br>
 _international_: country code - 691; landing points for the Chuukk-Pohnpei Cable and HANTRU-1 submarine cable system linking the Federated States of Micronesia and the US;&nbsp;satellite earth stations - 5 Intelsat (Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 no TV broadcast stations; each state has a multi-channel cable service with TV transmissions carrying roughly 95% imported programming and 5% local programming; about a half-dozen radio stations (2009)<br>
@@ -566,7 +570,7 @@ _subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
 V6<br>
 
 **Airports**<br>
-_total_: 6 (2021)<br>
+6 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 6<br>

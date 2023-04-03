@@ -133,7 +133,7 @@ _65 years and over_: 0.9 male(s)/female<br>
 _total population_: 1.03 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-25 deaths/100,000 live births (2017 est.)<br>
+21 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 9.2 deaths/1,000 live births<br>
@@ -419,6 +419,11 @@ _services_: 69% (2008 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+6.59% of GDP (2021 est.)<br>
+6.75% of GDP (2020 est.)<br>
+5.22% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $288.4 million (2017 est.)<br>
 _expenditures_: $252.3 million (2017 est.)<br>
@@ -544,18 +549,17 @@ _Total energy consumption per capita 2019_: 39.799 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 16,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 14 (2020 est.)<br>
+_total subscriptions_: 26,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 21 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 122,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 108 (2020 est.)<br>
+_total subscriptions_: 100,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 81 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage (2021)<br>
-_domestic_: 14 per 100 for fixed-line and 108 per 100 for mobile-cellular (2020)<br>
+_domestic_: 21 per 100 for fixed-line and 81 per 100 for mobile-cellular (2021)<br>
 _international_: country code - 1-473; landing points for the&nbsp;ECFS, Southern Caribbean Fiber and CARCIP&nbsp;submarine cables with links to&nbsp;13 Caribbean islands extending from the British Virgin Islands to Trinidad &amp; Tobago including Puerto Rico and Barbados; SHF radiotelephone links to Trinidad and Tobago and Saint Vincent; VHF and UHF radio links to Trinidad (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 multiple publicly and privately owned television and radio stations; Grenada Information Service (GIS) is government-owned and provides television and radio services; the Grenada Broadcasting Network, jointly owned by the government and the Caribbean Communications Network of Trinidad and Tobago, operates a TV station and 2 radio stations; Meaningful Television (MTV) broadcasts island-wide and is part of a locally-owned media house, Moving Target Company, that also includes an FM radio station and a weekly newspaper; multi-channel cable TV subscription service is provided by Columbus Communications Grenada (FLOW GRENADA) and is available island wide; approximately 25 private radio stations also broadcast throughout the country (2019)<br>
@@ -577,7 +581,7 @@ _subscriptions per 100 inhabitants_: 28 (2020 est.)<br>
 J3<br>
 
 **Airports**<br>
-_total_: 3 (2021)<br>
+3 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 3<br>

@@ -154,7 +154,7 @@ _65 years and over_: 0.74 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
-39 deaths/100,000 live births (2017 est.)<br>
+45 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 9.14 deaths/1,000 live births<br>
@@ -494,9 +494,18 @@ _female_: 37.1% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 42.3 (2020 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 28.3% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 1.9% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
 _highest 10%_: 31% (2017 est.)<br>
+
+**Remittances**<br>
+0.19% of GDP (2021 est.)<br>
+0.17% of GDP (2020 est.)<br>
+0.13% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $120.6 billion (2017 est.)<br>
@@ -637,7 +646,6 @@ _subscriptions per 100 inhabitants_: 130 (2021 est.)<br>
 _general assessment_: Argentina&rsquo;s ongoing problem with hyperinflation continues to distort the telecom market&rsquo;s performance, which shows strong growth in revenue but only modest gains in subscriber numbers each year; the fixed broadband segment has penetration levels only slightly higher than the fixed-line teledensity; nearly a quarter of the country&rsquo;s broadband connections are via DSL, although fiber is starting claim an increasing share of that market as networks expand across most of the main cities; mobile broadband continues to be the preferred platform for internet access, supported by high mobile penetration levels and nationwide LTE coverage; the first 5G service was launched in February 2021 using refarmed LTE frequencies; the anticipated 5G spectrum auctions should drive even stronger uptake in mobile broadband services; while the various fixed, mobile, and cable operators push to expand and enhance their services, the government is also making an active contribution towards boosting broadband connectivity around the country; its national connectivity plan &lsquo;Plan Conectar&rsquo;, launched in September 2020, provides funding for a range of programs to increase coverage; in August 2021, the telecom regulator announced the release funding to help operators accelerate the rollout of their broadband infrastructure and services (2021)<br>
 _domestic_: roughly 15 per 100 fixed-line and 130 per 100 mobile-cellular; microwave radio relay, fiber-optic cable, and a domestic satellite system with 40 earth stations serve the trunk network (2021)<br>
 _international_: country code - 54; landing points for the UNISUR, Bicentenario,&nbsp;Atlantis-2, SAm-1, and&nbsp;SAC, Tannat, Malbec and ARBR&nbsp;submarine cable systems that provide links to Europe, Africa, South and Central America, and US; satellite earth stations - 112 (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 government owns a TV station and radio network; more than two dozen TV stations and hundreds of privately owned radio stations; high rate of cable TV subscription usage (2022)<br>
@@ -665,7 +673,7 @@ _annual freight traffic on registered air carriers_: 311.57 million (2018) mt-km
 LV<br>
 
 **Airports**<br>
-_total_: 916 (2021)<br>
+916 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 161<br>
@@ -732,7 +740,7 @@ approximately 82,000 active duty personnel (50,000 Army; 18,000 Navy, including 
 the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; in recent years, France and the US have been the leading suppliers of equipment; Argentina has an indigenous defense industry that produces air, land, and naval systems (2022)<br>
 
 **Military service age and obligation**<br>
-18-24 years of age for voluntary military service for men and women; conscription suspended in 1995; citizens can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2022)<br>
+18-24 years of age for voluntary military service for men and women; conscription suspended in 1995; citizens can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2023)<br>
 note - as of 2021, women comprised over 21% of the active duty military<br>
 
 **Military deployments**<br>

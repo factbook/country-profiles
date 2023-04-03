@@ -145,7 +145,7 @@ _total population_: 1.05 male(s)/female (2023 est.)<br>
 28.5 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-3 deaths/100,000 live births (2017 est.)<br>
+3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 2.37 deaths/1,000 live births<br>
@@ -472,9 +472,18 @@ _female_: 8.7% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 25.3 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 16.3% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 8% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.1%<br>
 _highest 10%_: 21.7% (2015 est.)<br>
+
+**Remittances**<br>
+1.56% of GDP (2021 est.)<br>
+1.7% of GDP (2020 est.)<br>
+1.53% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $87.37 billion (2017 est.)<br>
@@ -602,18 +611,17 @@ _Total energy consumption per capita 2019_: 161.972 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,335,224 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 12 (2020 est.)<br>
+_total subscriptions_: 1,294,806 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12,999,812 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 121 (2020 est.)<br>
+_total subscriptions_: 13,129,905 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 125 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom market has attracted investment from among the key regional telcos; telcos in the Czech Republic have become multi-service providers, offering a full range of fixed and mobile services; the auction has enabled the licensees to expand the reach of their 5G networks; this process has also been assisted by them closing down 3G networks and reforming spectrum for 5G and LTE use (2021)<br>
-_domestic_: roughly 12 fixed-telephone subscriptions per 100 inhabitants and mobile telephone usage of about 121 per 100 inhabitants (2020)<br>
+_domestic_: roughly 12 fixed-telephone subscriptions per 100 inhabitants and mobile telephone usage of 125 per 100 inhabitants (2021)<br>
 _international_: country code - 420; satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 22 TV stations operate nationally, with 17 of them in private hands; publicly operated Czech Television has 5 national channels; throughout the country, there are some 350 TV channels in operation, many through cable, satellite, and IPTV subscription services; 63 radio broadcasters are registered, operating over 80 radio stations, including 7 multiregional radio stations or networks; publicly operated broadcaster Czech Radio operates 4 national, 14 regional, and 4 Internet stations; both Czech Radio and Czech Television are partially financed through a license fee (2019)<br>
@@ -641,7 +649,7 @@ _annual freight traffic on registered air carriers_: 25.23 million (2018) mt-km<
 OK<br>
 
 **Airports**<br>
-_total_: 128 (2021)<br>
+128 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 41<br>
@@ -683,7 +691,7 @@ Decin, Usti nad Labem (Elbe)<br>
 Czech Armed Forces: Land Forces; Air Forces; Cyber Forces; Special Forces (2022)<br>
 
 **Military expenditures**<br>
-1.5% of GDP (2022 est.)<br>
+1.4% of GDP (2022 est.)<br>
 1.4% of GDP (2021)<br>
 1.3% of GDP (2020)<br>
 1.2% of GDP (2019)<br>
@@ -713,7 +721,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 497,217 (Ukraine) (as of 6 March 2023)<br>
+_refugees (country of origin)_: 501,540 (Ukraine) (as of 19 March 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

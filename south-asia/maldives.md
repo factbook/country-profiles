@@ -140,7 +140,7 @@ _total population_: 1.06 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-53 deaths/100,000 live births (2017 est.)<br>
+57 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 25.02 deaths/1,000 live births<br>
@@ -330,7 +330,7 @@ _residency requirement for naturalization_: unknown<br>
 _chief of state_: President Ibrahim "Ibu" Mohamed SOLIH (since 17 November 2018); Vice President&nbsp;Faisal NASEEM (since 17 November 2018); the president is both chief of state and head of government<br>
 _head of government_: President Ibrahim "Ibu" Mohamed SOLIH (since 17 November 2018); Vice President Faisal NASEEM (since 17 November 2018)<br>
 _cabinet_: Cabinet of Ministers appointed by the president, approved by Parliament<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 September 2018 (next to be held in 2023)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 September 2018 (next to be held on 9 September 2023)<br>
 _election results_: <em>2018:</em> Ibrahim Mohamed SOLIH elected president (in single round); Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%<br>
 
 **Legislative branch**<br>
@@ -454,6 +454,11 @@ _female_: 12.6% (2021 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2%<br>
 _highest 10%_: 33.3% (FY09/10)<br>
+
+**Remittances**<br>
+0.09% of GDP (2021 est.)<br>
+0.12% of GDP (2020 est.)<br>
+0.08% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $1.19 billion (2016 est.)<br>
@@ -591,7 +596,6 @@ _subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 _general assessment_: with its economy so heavily dependent on tourism, the Maldives has suffered heavy economic as well as health casualties during the pandemic; the country had a relatively short period of lock down and was willing to welcome visitors back as early as July 2020; but the effective shutdown of international air travel for most of the year resulted in the bottom falling out of the Maldives&rsquo; tourism industry, taking GDP down 32% in the process; the economy fared better in 2021, with a return to growth, yet it may still be a few years before the country&rsquo;s key industries can return to the same level of prosperity that they previously enjoyed; the country&rsquo;s high number of tourists and expatriate workers has inflated the penetration rate for mobile services, making it one of the highest in the world; that rate crashed in 2020 as demand for SIM cards (primarily prepaid) dried up; however, the number of contract subscribers increased as locals took advantage of competitive pricing offers from operators; everything now rests on a fast return to normality, with tourists helping to boost the nation&rsquo;s coffers as well as buying up those prepaid SIM cards; with commercial 5G services already launched and fiber networks rapidly expanding around the country, the Maldives is primed to deliver world-class telecommunications services to its domestic and international customers (2021)<br>
 _domestic_: fixed-line is at nearly 3 per 100 persons and mobile-cellular subscriptions stands at nearly 133 per 100 persons (2020)<br>
 _international_: country code - 960; landing points for Dhiraagu Cable Network, NaSCOM, Dhiraagu-SLT Submarine Cable Networks and WARF submarine cables providing connections to 8 points in Maldives, India, and Sri Lanka;&nbsp;satellite earth station - 3 Intelsat (Indian Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned radio and TV monopoly until recently;&nbsp;4 state-operated and 7 privately owned TV stations and 4 state-operated and 7 privately owned radio stations (2019)<br>
@@ -619,7 +623,7 @@ _annual freight traffic on registered air carriers_: 7.75 million (2018)<br>
 8Q<br>
 
 **Airports**<br>
-_total_: 9 (2021)<br>
+9 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 7<br>

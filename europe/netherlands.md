@@ -147,7 +147,7 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 30.2 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-5 deaths/100,000 live births (2017 est.)<br>
+4 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.34 deaths/1,000 live births<br>
@@ -476,9 +476,18 @@ _female_: 9.2% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 29.2 (2019 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 11.4% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 3.3% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
 _highest 10%_: 24.9% (2014 est.)<br>
+
+**Remittances**<br>
+0.23% of GDP (2021 est.)<br>
+0.23% of GDP (2020 est.)<br>
+0.25% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $361.4 billion (2017 est.)<br>
@@ -617,7 +626,6 @@ _subscriptions per 100 inhabitants_: 125 (2020 est.)<br>
 _general assessment_: telecom infrastructure in the Netherlands continues to be upgraded as modernization schemes undertaken by telcos make steady progress; other fiber providers have been supported by regulatory measures which have encouraged municipal governments to intervene with telcos&rsquo; fiber builds, facilitating open access networks in a bid to make rollouts cheaper, and completed sooner; while the Mobile Network Operators (MNOs) are also closing down their Global System for Mobile Communication (MSM) and 3G networks and repurposing their spectrum and physical assets for LTE and 5G, the regulator has also encouraged GSM/3G roaming in the interim, thus safeguarding services such as machine to machine and other low data-use applications while individual MNOs disable their own GSM/3G networks; the country has one of the highest fixed broadband penetration rates in the world, with effective cross-platform competition between Digital Subscriber Line (DSL), Hybrid Fiber Coazial (HFC), and fiber networks; in the third quarter of 2020 the number of cable broadband connections fell for the first time, while the DSL segment has long been eclipsed by fiber; by the end of 2021, over a quarter of fixed broadband connections were on fiber infrastructure, while DSL accounted for only about 29%; almost 49% of fixed connections provided data above 100Mb/s, while an additional 43.7% provided data of at least 30Mb/s (2022)<br>
 _domestic_: extensive fixed-line, fiber-optic network; large cellular telephone system with five major operators utilizing the third generation of the Global System for Mobile Communications technology; one in five households now use Voice over the Internet Protocol services; fixed-line nearly 29 per 100 and mobile-cellular at 125 per 100 persons (2020)<br>
 _international_: country code - 31; landing points for Farland North, TAT-14, Circe North, Concerto, Ulysses 2, AC-1, UK-Netherlands 14, and COBRAcable submarine cables which provide links to the US and Europe; satellite earth stations - 5 (3 Intelsat - 1 Indian Ocean and 2 Atlantic Ocean, 1 Eutelsat, and 1 Inmarsat) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 more than 90% of households are connected to cable or satellite TV systems that provide a wide range of domestic and foreign channels; public service broadcast system includes multiple broadcasters, 3 with a national reach and the remainder operating in regional and local markets; 2 major nationwide commercial television companies, each with 3 or more stations, and many commercial TV stations in regional and local markets; nearly 600 radio stations with a mix of public and private stations providing national or regional coverage<br>
@@ -645,7 +653,7 @@ _annual freight traffic on registered air carriers_: 5,886,510,000 (2018) mt-km<
 PH<br>
 
 **Airports**<br>
-_total_: 29 (2021)<br>
+29 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 23<br>

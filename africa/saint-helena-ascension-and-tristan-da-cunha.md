@@ -454,7 +454,6 @@ _subscriptions per 100 inhabitants_: 67 (2019 est.)<br>
 _general assessment_: capability to&nbsp;communicate worldwide; ADSL- broadband service; LTE coverage of 95% of population, includes voice calls, text messages, mobile data as well as inbound and outbound roaming; Wi-Fi hotspots in Jamestown, 1 ISP, many services are not offered locally but made available for visitors; some sun outages due to the reliance of international telephone and Internet communication relying on single satellite link (2020)<br>
 _domestic_: automatic digital network; fixed-line roughly 50 per 100 and mobile-cellular nearly 67 per 100 persons (2019)<br>
 _international_: country code (Saint Helena) - 290, (Ascension Island) - 247; landing point for the SaEx1 submarine cable providing connectivity to South Africa, Brazil, Virginia Beach (US) and islands in Saint Helena, Ascension and Tristan de Cunha; international direct dialing; satellite voice and data communications; satellite earth stations - 5 (Ascension Island - 4, Saint Helena - 1) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 Saint Helena has no local TV station; 2 local radio stations, one of which is relayed to Ascension Island; satellite TV stations rebroadcast terrestrially; Ascension Island has no local TV station but has 1 local radio station and receives relays of broadcasts from 1 radio station on Saint Helena; broadcasts from the British Forces Broadcasting Service (BFBS) are available, as well as TV services for the US military; Tristan da Cunha has 1 local radio station and receives BFBS TV and radio broadcasts<br>
@@ -479,7 +478,7 @@ Ascension Island hosts one of four dedicated ground antennas that assist in the 
 VQ-H<br>
 
 **Airports**<br>
-_total_: 2 (2021)<br>
+2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>

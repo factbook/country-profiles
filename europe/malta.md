@@ -139,7 +139,7 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data refers to the average of the different childbearing ages of first-order births<br>
 
 **Maternal mortality ratio**<br>
-6 deaths/100,000 live births (2017 est.)<br>
+3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 4.45 deaths/1,000 live births<br>
@@ -461,6 +461,11 @@ _female_: 5.8% (2021 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+1.64% of GDP (2021 est.)<br>
+1.88% of GDP (2020 est.)<br>
+1.68% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $5.076 billion (2017 est.)<br>
 _expenditures_: $4.583 billion (2017 est.)<br>
@@ -598,7 +603,6 @@ _subscriptions per 100 inhabitants_: 143 (2020 est.)<br>
 _general assessment_: Malta&rsquo;s small telecom sector is among the most advanced in Europe; this has been helped by the topography, which has made it relatively easy for operators to expand the reach of their fiber infrastructure; with high mobile and broadband penetration rates, the government and regulator have effective strategies in place to capitalize on these infrastructure developments to ensure that the population has among the fastest data rates in Europe, and is well positioned to take advantage of emerging e-commerce opportunities; the sector has also been stimulated by regulatory measures designed to reduce consumer prices; the incumbent telco is investing in a sub sea cable to connect the islands to France and Egypt; expected to be ready for service in 2022, the cable will further enhance Malta&rsquo;s internet bandwidth and lead to reduced prices for end-users; there has also been some encouragement to increase market competition (2021)<br>
 _domestic_: fixed-line approximately 59 per 100&nbsp; persons and mobile-cellular subscribership 143 per 100 persons; automatic system featuring submarine cable and microwave radio relay between islands (2020)<br>
 _international_: country code - 356; landing points for the Malta-Gozo Cable, VMSCS, GO-1 Mediterranean Cable System, Malta Italy Interconnector, Melita-1, and the Italy-Malta submarine cable connections to Italy; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 2 publicly owned TV stations, Television Malta broadcasting nationally plus an educational channel; several privately owned national television stations, 2 of which are owned by political parties; Italian and British broadcast programs are available; multi-channel cable and satellite TV services are available; publicly owned radio broadcaster operates 3 stations; roughly 20 commercial radio stations (2019)<br>
@@ -626,7 +630,7 @@ _annual freight traffic on registered air carriers_: 5.14 million (2018) mt-km<b
 9H<br>
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

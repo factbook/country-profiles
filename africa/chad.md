@@ -151,7 +151,7 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
-1,140 deaths/100,000 live births (2017 est.)<br>
+1,063 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 63.99 deaths/1,000 live births<br>
@@ -204,7 +204,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Chad is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Chad is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.1% (2016)<br>
@@ -293,7 +293,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Chad is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Chad is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to civil insecurity and shortfall in cereal production - </em>according to the latest analysis, about 1.5 million people are projected to experience acute food insecurity during the June to August 2023 lean season period; this would be an improvement compared to the previous year, mostly due to the significantly higher year-on-year cereal output in 2022 after the below-average 2021 production; acute food insecurity is underpinned by persistent insecurity in the Lac and Tibesti regions; elevated food prices, as well as the impact of the severe floods in 2022, which affected approximately 1.5 million people and destroyed about 350,000 hectares of farmland, are compounding food insecurity (2023)<br>
@@ -501,6 +501,11 @@ _female_: 1.4% (2021 est.)<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 30.8% (2003)<br>
 
+**Remittances**<br>
+0% of GDP (2020 est.)<br>
+0% of GDP (2019 est.)<br>
+0% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.337 billion (2017 est.)<br>
 _expenditures_: $1.481 billion (2017 est.)<br>
@@ -626,18 +631,17 @@ _Total energy consumption per capita 2019_: 1.575 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,340 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 5,300 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,687,151 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 53 (2020 est.)<br>
+_total subscriptions_: 10 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 60 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom infrastructure is particularly poor; fixed, mobile and internet is well below African averages; Chad&rsquo;s telecom market offers some potential for investors to develop services given the low starting base; the country&rsquo;s first 3G/LTE mobile license was awarded in April 2014; Chad finally gained access to international fiber bandwidth in 2012 its national backbone infrastructure remains underdeveloped; the World Bank-funded Central African Backbone (CAB) project takes in Chad, while the country is also party to a Trans-Saharan Backbone project which will link a fiber cable to Nigeria and Algeria (2022)<br>
-_domestic_: fixed-line connections less than 1 per 100 persons; mobile-cellular subscribership base of about 53 per 100 persons (2020)<br>
+_domestic_: fixed-line connections less than 1 per 100 persons; mobile-cellular subscribership base of about 60 per 100 persons (2021)<br>
 _international_: country code - 235; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 state-owned TV station; 2 privately-owned TV stations; state-owned radio network, Radiodiffusion Nationale Tchadienne (RNT), operates national and regional stations; over 10 private radio stations; some stations rebroadcast programs from international broadcasters (2017)<br>
@@ -659,7 +663,7 @@ _inventory of registered aircraft operated by air carriers_: 3<br>
 TT<br>
 
 **Airports**<br>
-_total_: 59 (2021)<br>
+59 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 9<br>
@@ -706,14 +710,14 @@ limited and varied information; estimated to have up to 35,000 active ANT person
 the ANT is mostly armed with older or secondhand equipment from Belgium, France, Russia, and the former Soviet Union; in recent years it has received equipment, including donations, from other countries, including China, Italy, Ukraine, and the US &nbsp;&nbsp; (2022)<br>
 
 **Military service age and obligation**<br>
-20 is the legal minimum age for compulsory military service for men with an 18-36 month service obligation (information varies); women are subject to 12 months of compulsory military or civic service at age 21; 18-35 for voluntary service; soldiers released from active duty are in the reserves until the age of 50 (2022)<br>
+20 is the legal minimum age for compulsory military service for men with an 18-36 month service obligation (information varies); women are subject to 12 months of compulsory military or civic service at age 21; 18-35 for voluntary service; soldiers released from active duty are in the reserves until the age of 50 (2023)<br>
 
 **Military deployments**<br>
 1,450 Mali (MINUSMA) (May 2022)<br>
 <strong>note 1:</strong> Chad has committed approximately 1,000-1,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own territories, although cross‐border operations are conducted periodically; in 2019, Chad sent more than 1,000 troops to Nigeria’s Borno State to fight Boko Haram as part of the MNJTF mission<br><br><strong>note 2: </strong>Chad is also part of a four (formerly five)-nation anti-jihadist task force known as the G4 Sahel Group, set up in 2014 with Chad, Mali (withdrew in 2022), Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; as of 2020, defense forces from each of the participating states were allowed to pursue terrorist fighters up to 100 km into neighboring countries; the force is backed by France, the UN, and the US<br>
 
 **Military - note**<br>
-the ANT has considerable combat experience against insurgents and terrorist groups, although it is assessed to be underfunded and its performance to be uneven; it has a tradition of deep involvement in domestic politics; over the past decade, the ANT has received considerable foreign military assistance, particularly from France, which maintains a military base in N’Djamena; the ANT's current operational focus is on counterterrorism and counterinsurgency operations; it is engaged with the Boko Haram and Islamic State of Iraq and ash-Sham in West Africa terrorist groups in the Lake Chad Basin area (primarily the Lac Province) and in the Sahel, particularly the tri-border area with Burkina Faso, Mali, and Niger; in addition, the ANT conducts frequent operations against internal anti-government militias and armed dissident groups <br><br>several rebel groups operate in northern Chad from bases in southern Libya, including the FACT (Front pour le Changement et la Concorde au Tchad), the Military Command Council for the Salvation of the Republic le Conseil de Commandement Militaire pour le salut de la République or CCSMR), the Union of Forces for Democracy and Development (le Union des Forces pour la Démocratie et le Développement or UFDD), and the Union of Resistance Forces (le Union des Forces de la Résistance UFR); former Chadian President Idriss DEBY<strong> </strong>was killed in April 2021 during fighting in the northern part of the country between the FACT and the Chadian Army; some armed groups, including the UFDD and UFR, signed an accord in August 2022 in return for the release of prisoners, amnesty, and an end to hostilities between the Chadian Government and these armed factions; however, other armed groups, including the FACT and CCSMR, refused to join the accord (2023)<br>
+the ANT has considerable combat experience against insurgents and terrorist groups; it also has a tradition of deep involvement in domestic politics; over the past decade, the ANT has received substantial foreign military assistance, particularly from France, which maintains a military base in N’Djamena; the ANT's current operational focus is on counterterrorism and counterinsurgency operations; it is engaged with the Boko Haram and Islamic State of Iraq and ash-Sham in West Africa terrorist groups in the Lake Chad Basin area (primarily the Lac Province) and in the Sahel, particularly the tri-border area with Burkina Faso, Mali, and Niger; in addition, the ANT conducts frequent operations against internal anti-government militias and armed dissident groups <br><br>several rebel groups operate in northern Chad from bases in southern Libya, including the FACT (Front pour le Changement et la Concorde au Tchad), the Military Command Council for the Salvation of the Republic le Conseil de Commandement Militaire pour le salut de la République or CCSMR), the Union of Forces for Democracy and Development (le Union des Forces pour la Démocratie et le Développement or UFDD), and the Union of Resistance Forces (le Union des Forces de la Résistance UFR); former Chadian President Idriss DEBY<strong> </strong>was killed in April 2021 during fighting in the northern part of the country between the FACT and the Chadian Army; some armed groups, including the UFDD and UFR, signed an accord in August 2022 in return for the release of prisoners, amnesty, and an end to hostilities between the Chadian Government and these armed factions; however, other armed groups, including the FACT and CCSMR, refused to join the accord (2023)<br>
 
 ## Terrorism
 
@@ -727,7 +731,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 405,239 (Sudan), 124,601 (Central African Republic), 42,607 (Cameroon), 20,694 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 405,689 (Sudan), 124,601 (Central African Republic), 42,607 (Cameroon), 20,694 (Nigeria) (2023)<br>
 _IDPs_: 381,289 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>

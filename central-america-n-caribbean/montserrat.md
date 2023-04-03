@@ -477,7 +477,6 @@ _subscriptions per 100 inhabitants_: 101 (2019 est.)<br>
 _general assessment_: telecom market one of growth in Caribbean and fully digitalized;&nbsp;high dependency on tourism and offshore financial&nbsp;services; operators expand FttP (Fiber to Home) services; LTE launches and operators invest in mobile networks; effective competition in all sectors (2020)<br>
 _domestic_: fixed-line roughly 60 per 100 and mobile-cellular teledensity nearly 101 per 100 persons (2019)<br>
 _international_: country code - 1-664; landing point for the ECFS optic submarine cable with links to 14 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 Radio Montserrat, a public radio broadcaster, transmits on 1 station and has a repeater transmission to a second station; repeater transmissions from the GEM Radio Network of Trinidad and Tobago provide another 2 radio stations; cable and satellite TV available (2007)<br>
@@ -503,7 +502,7 @@ _inventory of registered aircraft operated by air carriers_: 3<br>
 VP-M<br>
 
 **Airports**<br>
-_total_: 1 (2021)<br>
+1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>

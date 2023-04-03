@@ -154,7 +154,7 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
-250 deaths/100,000 live births (2017 est.)<br>
+179 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 32.2 deaths/1,000 live births<br>
@@ -497,9 +497,18 @@ _female_: 6.3% (2021 est.)<br>
 **Gini Index coefficient - distribution of family income**<br>
 30.7 (2017 est.)<br>
 
+**Average household expenditures**<br>
+_On food_: 56.1% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 0.5% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 32.4% (1998)<br>
+
+**Remittances**<br>
+2.85% of GDP (2020 est.)<br>
+3.72% of GDP (2019 est.)<br>
+3.98% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $9.108 billion (2017 est.)<br>
@@ -630,18 +639,17 @@ _Total energy consumption per capita 2019_: 10.679 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 523,951 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total subscriptions_: 522,141 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 78,548,329 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 144 (2020 est.)<br>
+_total subscriptions_: 67,930,093 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 126 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Burma, one of the least developed telecom markets in Asia, saw growth in mobile and broadband services through foreign competition and roll out of 4G and 5G networks; infrastructure development challenged by flooding, unreliable electricity, inefficient bureaucracy, and corruption; digital divide affects rural areas; fixed broadband remains low due to number of fixed-lines and near saturation of the mobile platform; healthy m-banking platform; tests for NB-IoT; benefit from launch of regional satellite; government utilizes intermittent censorship and shut-down of Internet in political crisis (2020)<br>
-_domestic_: fixed-line is just under 1 per 100, while mobile-cellular is roughly 144 per 100 (2020)<br>
+_domestic_: fixed-line is just under 1 per 100, while mobile-cellular is roughly 126 per 100 (2021)<br>
 _international_: country code - 95; landing points for the SeaMeWe-3, SeaMeWe-5, AAE-1 and Singapore-Myanmar&nbsp;optical telecommunications submarine cable that provides links to Asia, the Middle East, Africa, Southeast Asia, Australia&nbsp;and Europe; satellite earth stations - 2, Intelsat (Indian Ocean) and ShinSat (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 government controls all domestic broadcast media; 2 state-controlled TV stations with 1 of the stations controlled by the armed forces; 2 pay-TV stations are joint state-private ventures; access to satellite TV is limited; 1 state-controlled domestic radio station and 9 FM stations that are joint state-private ventures; transmissions of several international broadcasters are available in parts of Burma; the Voice of America (VOA), Radio Free Asia (RFA), BBC Burmese service, the Democratic Voice of Burma (DVB), and Radio Australia use shortwave to broadcast in Burma; VOA, RFA, and DVB produce daily TV news programs that are transmitted by satellite to audiences in Burma; in March 2017, the government granted licenses to 5 private broadcasters, allowing them digital free-to-air TV channels to be operated in partnership with government-owned Myanmar Radio and Television (MRTV) and will rely upon MRTV&rsquo;s transmission infrastructure; following the February 2021 military coup, the regime revoked the media licenses of most independent outlets, including the free-to-air licenses for DVB and Mizzima (2022)<br>
@@ -669,7 +677,7 @@ _annual freight traffic on registered air carriers_: 4.74 million (2018) mt-km<b
 XY<br>
 
 **Airports**<br>
-_total_: 64 (2021)<br>
+64 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 36<br>
@@ -714,7 +722,7 @@ _river port(s)_: Rangoon (Yangon) (Rangoon River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Burmese Defense Service (Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Air Force (Tatmadaw Lay); People’s Militia; Ministry of Home Affairs: People's Police Force; Border Guard Forces/Police (2022)<br>
+Burmese Defense Service (aka Armed Forces of Burma, Myanmar Army, Royal Armed Forces, or the Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Air Force (Tatmadaw Lay); People’s Militia; Ministry of Home Affairs: People's Police Force; Border Guard Forces/Police (2022)<br>
 <strong>note:</strong> under the 2008 constitution, the Tatmadaw controls appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs; in March 2022, a new law gave the commander-in-chief of the Tatmadaw the authority to appoint or remove the head of the police force<br>
 
 **Military expenditures**<br>
@@ -731,10 +739,10 @@ estimates vary widely, from approximately 300,000 to as many as 400,000 active d
 the Burmese military inventory is comprised mostly of older Chinese and Russian/Soviet-era equipment with a smaller mix of more modern acquisitions; in recent years, China and Russia have been the leading suppliers of military hardware; Burma has a limited defense industry, including a growing shipbuilding capability and some production of ground force equipment that is largely based on Chinese and Russian designs (2022)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age (men) and 18-27 years of age (women) for voluntary military service; no conscription (a 2010 law reintroducing conscription has not yet entered into force); 2-year service obligation; male (ages 18-45) and female (ages 18-35) professionals (including doctors, engineers, mechanics) serve up to 3 years; service terms may be stretched to 5 years in an officially declared emergency (2021)<br>
+18-35 years of age (men) and 18-27 years of age (women) for voluntary military service; no conscription (a 2010 law reintroducing conscription has not yet entered into force); 2-year service obligation; male (ages 18-45) and female (ages 18-35) professionals (including doctors, engineers, mechanics) serve up to 3 years; service terms may be stretched to 5 years in an officially declared emergency (2022)<br>
 
 **Military - note**<br>
-since the country's founding, the armed forces have been heavily involved in domestic politics, running the country for five decades following a military coup in 1962; prior to the 2021 coup, the military already controlled three key security ministries (Defense, Border, and Home Affairs), one of two vice presidential appointments, 25% of the parliamentary seats, and had a proxy political party, the Union Solidarity and Development Party (USDP)<br><br>the military owns and operates two business conglomerates that have over 100 subsidiaries and close ties to other companies; the business activities of these conglomerates include banking and insurance, hotels, tourism, jade and ruby mining, timber, construction, real estate, and the production of palm oil, sugar, soap, cement, beverages, drinking water, coal, and gas; some of the companies supply goods and services to the military, such as food, clothing, insurance, and cellphone service; the military also managed a film industry, publishing houses, and television stations<br><br>the military's primary operational focus is internal security, particularly attempts to quell a growing armed insurgency against the 2021 coup and operations against ethnic-based separatist groups; these operations have resulted in numerous civilian casualties, human rights abuses, and internal displacement--ethnic-based armed groups have been fighting for self-rule against the Burmese Government since the country’s 1948 independence; as of 2022, there were approximately 20 such groups operating in Burma with strengths of a few hundred up to more than 20,000 estimated fighters; some were organized along military lines with "brigades" and "divisions" and armed with heavy weaponry, including artillery; they reportedly controlled an estimated one-third of the country’s territory, primarily in the border regions; key groups included the United Wa State Army, Karen National Union, Kachin Independence Army, Arakan Army, Ta’ang National Liberation Army, and the Myanmar Nationalities Democratic Alliance Army<br><br>Burma also has a large number of other armed militias which take many different forms and varied in allegiances and size; most are pro-military junta and associated with the Burmese military (Tatmadaw); some are integrated within the Tatmadaw’s command structure as Border Guard Forces (BGF); the BGF are organized as 325-man battalions, which include a mix of militia forces, ethnic armed groups, and government soldiers; they are armed, supplied, and paid by the Tatmadaw; other pro-military government militias are not integrated within the Tatmadaw command structure but receive direction from the military and are recognized as government militias; the amount of Tatmadaw support they receive varies depending on local security conditions; the third type of pro-government militias are small community-based units that are armed, coordinated, and trained by local Tatmadaw forces and activated as needed; as of 2022, the military junta government was raising new militia units to help combat the popular uprising<br><br>in mid-2022, the rebel National Unity Government claimed its armed wing, the People's Defense Force (PDF), had more than 60,000 fighters organized into battalions; in addition, several armed ethnic groups have added their support to anti-junta resistance groups or joined forces with local units of the PDF (2022)<br>
+since the country’s founding, the Tatmadaw has been heavily involved in domestic politics and the national economy; it ran the country for five decades following a military coup in 1962; prior to the most recent coup in 2021, the military already controlled three key security ministries (Defense, Border, and Home Affairs), one of two vice presidential appointments, 25% of the parliamentary seats, and had a proxy political party, the Union Solidarity and Development Party (USDP); it owns and operates two business conglomerates that have over 100 subsidiaries; the business activities of these conglomerates include banking and insurance, hotels, tourism, jade and ruby mining, timber, construction, real estate, and the production of palm oil, sugar, soap, cement, beverages, drinking water, coal, and gas; some of the companies supply goods and services to the military, such as food, clothing, insurance, and cellphone service; the military also manages a film industry, publishing houses, and television stations<br><br>the Tatmadaw's primary operational focus is internal security, and it is conducting widespread counterinsurgency operations against anti-regime forces that launched an armed rebellion following the 2021 coup and an array of ethnically-based separatist groups, some of which have considerable military capabilities; it has been accused of  committing atrocities in the conduct of its campaign against the insurgency<br><br>the Army is the dominant service and largely configured for counterinsurgency operations, although it has some conventional warfare capabilities; its principal combat forces are organized into 10 centrally-commanded light infantry/rapid reaction divisions, approximately 20 regionally-based, divisional-sized “military operations commands,” and several brigade-sized “regional operations commands”; the Army’s insurgency operations are supported by the National Police, which has dozens of paramilitary combat police battalions; the Air Force also has a large counterinsurgency role with more than 100 combat-capable aircraft and helicopters, mostly ground attack aircraft and helicopter gunships, complemented by some multipurpose fighters; the Navy has traditionally been a coastal defense force, and the majority of the combat fleet consists of fast attack and patrol vessels; however, in recent years the Navy has expanded its blue water capabilities and has a small force of frigates and corvettes, as well as a landing platform docking (LPD) amphibious assault ship and 2 attack submarines acquired since 2020<br><br>the military is supported by hundreds of pro-government militias; some are integrated within the Tatmadaw’s command structure as Border Guard Forces, which are organized as battalions with a mix of militia forces, ethnic armed groups, and government soldiers that are armed, supplied, and paid by the Tatmadaw; other pro-military government militias are not integrated within the Tatmadaw command structure but receive direction and some support from the military and are recognized as government militias; a third type of pro-government militias are small community-based units that are armed, coordinated, and trained by local Tatmadaw forces and activated as needed; the military junta has raised new militia units to help combat the popular uprising<br><br>ethnic-based armed groups have been fighting for self-rule against the Burmese Government since 1948; there are approximately 20 such groups operating in Burma with strengths of a few hundred up to more than 20,000 estimated fighters; some are organized along military lines with "brigades" and "divisions" and armed with heavy weaponry, including artillery; they control large tracts of the country’s territory, primarily in the border regions; key groups include the United Wa State Army, Karen National Union, Kachin Independence Army, Arakan Army, Ta’ang National Liberation Army, and the Myanmar Nationalities Democratic Alliance Army<br><br>the rebel National Unity Government claims its armed wing, the People's Defense Force (PDF), has more than 60,000 fighters loosely organized into battalions; in addition, several armed ethnic groups have added their support to anti-junta resistance groups or joined forces with local units of the PDF (2023)<br>
 
 ## Transnational Issues
 
@@ -742,7 +750,7 @@ since the country's founding, the armed forces have been heavily involved in dom
 <p>over half of Burma's population consists of diverse ethnic groups who have substantial numbers of kin in neighboring countries; Bangladesh struggles to accommodate 912,000 Rohingya, Burmese Muslim minority from Rakhine State, living as refugees in Cox's Bazar; Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border with Bangladesh in 2010; Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Burmese forces attempting to dig in to the largely autonomous Shan State to rout local militias tied to the drug trade, prompts local residents to periodically flee into neighboring Yunnan Province in China; fencing along the India-Burma international border at Manipur's Moreh town is in progress to check illegal drug trafficking and movement of militants; over 100,000 mostly Karen refugees and asylum seekers fleeing civil strife, political upheaval, and economic stagnation in Burma were living in remote camps in Thailand near the border as of May 2017</p><br>
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 1.7 million (government offensives against armed ethnic minority groups near its borders with China and Thailand, natural disasters, forced land evictions) (2023)<br>
+_IDPs_: 1.72 million (government offensives against armed ethnic minority groups near its borders with China and Thailand, natural disasters, forced land evictions) (2023)<br>
 _stateless persons_: 600,000 (2022); note - Rohingya Muslims, living predominantly in Rakhine State, are Burma's main group of stateless people; the Burmese Government does not recognize the Rohingya as a "national race" and stripped them of their citizenship under the 1982 Citizenship Law, categorizing them as "non-nationals" or "foreign residents;" under the Rakhine State Action Plan drafted in October 2014, the Rohingya must demonstrate their family has lived in Burma for at least 60 years to qualify for a lesser naturalized citizenship and the classification of Bengali or be put in detention camps and face deportation; native-born but non-indigenous people, such as Indians, are also stateless; the Burmese Government does not grant citizenship to children born outside of the country to Burmese parents who left the country illegally or fled persecution, such as those born in Thailand; the number of stateless persons has decreased dramatically because hundreds of thousands of Rohingya have fled to Bangladesh since 25 August 2017 to escape violence<br>
 
 **Trafficking in persons**<br>

@@ -317,11 +317,12 @@ $481.1 million (2015 est.)<br>
 $34,200 (2017 est.)<br>
 
 **GDP (official exchange rate)**<br>
-$1.028 billion (2017 est.)<br>
+$1.38 billion (2018 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-1.1% (2017 est.)<br>
-1.1% (2016 est.)<br>
+4.2% (2022 est.)<br>
+2.8% (2021 est.)<br>
+0.4% (2020 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.2% (2017 est.)<br>
@@ -471,18 +472,17 @@ _Total energy consumption per capita 2019_: 80.136 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
+_total subscriptions_: 7,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 22 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 35,163 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 116 (2020 est.)<br>
+_total subscriptions_: 35,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home; one major casualty may be the region&rsquo;s second largest telco operator, Digicel; the company filed for bankruptcy in the US in April 2020; it continues to operate in all of its Caribbean markets as it seeks to refinance billions of dollars of debt; the other major telco, regional incumbent Cable &amp; Wireless Communications (CWC), is experiencing similar drops in subscriber numbers and revenue; CWC is expanding and enhancing its fixed and mobile networks in many of the countries it serves around the Caribbean, despite many locations being small islands with very small populations; one area of the telecom market that is not prepared for growth is 5G mobile; governments, regulators, and even the mobile network operators have shown that they have not been investing in 5G opportunities at the present time; network expansion and enhancements remain concentrated around improving LTE coverage. (2021)<br>
-_domestic_: fixed-line connections exceed 23 per 100 persons and mobile cellular subscribership is roughly 116 per 100 persons (2020)<br>
+_domestic_: fixed-line connections exceed 22 per 100 persons and mobile cellular subscribership is roughly 110 per 100 persons (2021)<br>
 _international_: country code - 1-284; landing points for PCCS, ECFS, CBUS, Deep Blue Cable, East-West, PAN-AM, Americas-1, Southern Caribbean Fiber, Columbus- IIb, St Thomas - St Croix System, Taino-Carib, and Americas I- North&nbsp;via submarine cable to Caribbean, Central and South America, and US (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 private TV station; multi-channel TV is available from cable and satellite subscription services; about a half-dozen private radio stations<br>
@@ -504,7 +504,7 @@ _subscriptions per 100 inhabitants_: 22 (2020 est.)<br>
 VP-L<br>
 
 **Airports**<br>
-_total_: 4 (2021)<br>
+4 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>

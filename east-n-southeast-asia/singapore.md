@@ -142,7 +142,7 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represents median age<br>
 
 **Maternal mortality ratio**<br>
-8 deaths/100,000 live births (2017 est.)<br>
+7 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 1.54 deaths/1,000 live births<br>
@@ -465,9 +465,18 @@ NA<br>
 **Gini Index coefficient - distribution of family income**<br>
 45.9 (2017)<br>
 
+**Average household expenditures**<br>
+_On food_: 6.9% of household expenditures (2018 est.)<br>
+_On alcohol and tobacco_: 1.9% of household expenditures (2018 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.6%<br>
 _highest 10%_: 27.5% (2017)<br>
+
+**Remittances**<br>
+0% of GDP (2019 est.)<br>
+0% of GDP (2018 est.)<br>
+0% of GDP (2017 est.)<br>
 
 **Budget**<br>
 _revenues_: $50.85 billion (2017 est.)<br>
@@ -608,7 +617,6 @@ _subscriptions per 100 inhabitants_: 156 (2019)<br>
 _general assessment_: a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; the government's telecommunication regulator, Infocomm Media Development Authority (IMDA), issued awards in mid-2020 to telecom operators with the goal of having at least 50% of the city-state covered with a standalone 5G network by the end of 2022; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers and controls Internet content; well served by submarine cable and satellite connections (2021)<br>
 _domestic_: excellent domestic facilities; fixed-line roughly 32 per 100 and mobile-cellular 144 per 100 teledensity; multiple providers of high-speed Internet connectivity (2020)<br>
 _international_: country code - 65; landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, i2icn,&nbsp;PGASCOM, BSCS,&nbsp;IGG,&nbsp;B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, ASE, EAC-C2C, Matrix Cable System and SJC2 submarine cables providing links throughout Asia, Southeast Asia, Africa, Australia, the Middle East, and Europe; satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa; supplemented by VSAT coverage (2019 )<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state controls broadcast media;&nbsp;6 domestic TV stations operated by MediaCorp which is wholly owned by a state investment company; broadcasts from Malaysian and Indonesian stations available; satellite dishes banned; multi-channel cable TV services available; a total of 19 domestic radio stations broadcasting, with MediaCorp operating 11, Singapore Press Holdings, also government-linked, another 5,&nbsp;2 controlled by the Singapore Armed Forces Reservists Association and one owned by BBC Radio; Malaysian and Indonesian radio stations are available as is BBC; a number of Internet service radio stations are also available (2019)<br>
@@ -636,7 +644,7 @@ _annual freight traffic on registered air carriers_: 5,194,900,000 (2018) mt-km<
 9V<br>
 
 **Airports**<br>
-_total_: 9 (2021)<br>
+9 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 9<br>
@@ -682,8 +690,8 @@ information varies; approximately 60,000 active duty troops (45,000 Army; 7,000 
 the SAF has a diverse and largely modern mix of domestically produced and imported weapons; in recent years, the US has been the chief supplier of arms; other significant suppliers include France, Germany, Israel, and Sweden; Singapore has the most developed arms industry in Southeast Asia and is also its largest importer of weapons (2022)<br>
 
 **Military service age and obligation**<br>
-18-21 years of age for compulsory military service for men; 16.5 years of age for voluntary enlistment (with parental consent); 24-month conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers); women are not conscripted, but they are allowed to volunteer for all services and branches, including combat arms (2022)<br>
-<strong>note 1: </strong>under the Enlistment Act, all male Singaporean citizens and permanent residents, unless exempted, are required to enter National Service (NS) upon attaining the age of 18; most NS conscripts serve in the Armed Forces, but some go into the Police Force or Civil Defense Force; as of 2020, conscripts comprised over half of the defense establishment<br><br><strong>note 2:</strong> as of 2019, women made up about 8% of the active force<br><br><strong>note 3:</strong> members of the Gurkha Contingent (GC) of the Singapore Police Force are mostly recruited from a small number of hill tribes in Nepal; the GC was formed in 1949 originally from selected ex-British Army Gurkhas<br>
+18-21 years of age for compulsory military service for men; 16.5 years of age for voluntary enlistment (with parental consent); 24-month conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers); women are not conscripted, but they are allowed to volunteer for all services and branches, including combat arms (2023)<br>
+<strong>note 1: </strong>under the Enlistment Act, all male Singaporean citizens and permanent residents, unless exempted, are required to enter National Service (NS) upon attaining the age of 18; most NS conscripts serve in the Armed Forces, but some go into the Police Force or Civil Defense Force; conscripts comprise over half of the defense establishment<br><br><strong>note 2:</strong> as of 2019, women made up about 8% of the active force<br><br><strong>note 3:</strong> members of the Gurkha Contingent (GC) of the Singapore Police Force are mostly recruited from a small number of hill tribes in Nepal; the GC was formed in 1949 originally from selected ex-British Army Gurkhas<br>
 
 **Military deployments**<br>
 maintains permanent training detachments of military personnel in Australia, France, and the US (2022)<br>
