@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Finland was a province and then a grand duchy under Sweden from the 12th to the 19th centuries, and an autonomous grand duchy of Russia after 1809. It gained complete independence in 1917. During World War II, Finland successfully defended its independence through cooperation with Germany and resisted subsequent invasions by the Soviet Union - albeit with some loss of territory. In the subsequent half century, Finland transformed from a farm/forest economy to a diversified modern industrial economy; per capita income is among the highest in Western Europe. A member of the EU since 1995, Finland was the only Nordic state to join the euro single currency at its initiation in January 1999. In the 21st century, the key features of Finland's modern welfare state are high quality education, promotion of equality, and a national social welfare system - currently challenged by an aging population and the fluctuations of an export-driven economy.<br>
+Finland was a province and then a grand duchy under Sweden from the 12th to the 19th centuries, and an autonomous grand duchy of Russia after 1809. It gained complete independence in 1917. During World War II, Finland successfully defended its independence through cooperation with Germany and resisted subsequent invasions by the Soviet Union - albeit with some loss of territory. In the subsequent half century, Finland transformed from a farm/forest economy to a diversified modern industrial economy; per capita income is among the highest in Western Europe. A member of the EU since 1995, Finland was the only Nordic state to join the euro single currency at its initiation in January 1999. In the 21st century, the key features of Finland's modern welfare state are high quality education, promotion of equality, and a national social welfare system - currently challenged by an aging population and the fluctuations of an export-driven economy. Following Russia's invasion of Ukraine in 2022, Finland opted to join NATO; it became the organization's 31st member in April 2023.<br>
 
 ## Geography
 
@@ -281,9 +281,9 @@ _percent of municipal solid waste recycled_: 28.1% (2015 est.)<br>
 _fresh water lake(s)_: Saimaa - 1,760 sq km; Paijanne - 1,090 sq km; Inarijarvi - 1,000 sq km; Oulujarvi - 900 sq km; Pielinen - 850 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 400 million cubic meters (2017 est.)<br>
-_industrial_: 1.417 billion cubic meters (2017 est.)<br>
-_agricultural_: 50 million cubic meters (2017 est.)<br>
+_municipal_: 500 million cubic meters (2020 est.)<br>
+_industrial_: 2 billion cubic meters (2020 est.)<br>
+_agricultural_: 40 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 110 billion cubic meters (2019 est.)<br>
@@ -337,15 +337,15 @@ _residency requirement for naturalization_: 6 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Sauli NIINISTO (since 1 March 2012)<br>
-_head of government_: Prime Minister Sanna MARIN (since 10 December 2019)<br>
+_head of government_: Prime Minister Petteri ORPO (since 02 April 2023)<br>
 _cabinet_: Council of State or Valtioneuvosto appointed by the president, responsible to Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 28 January 2018 (next to be held in January 2024); prime minister appointed by Parliament<br>
 _election results_: <em>2018:</em> Sauli NIINISTO reelected president; percent of vote - Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%<br><br><em>2012: </em>Sauli NIINISTO elected president; percent of vote - Sauli NIINISTO (National Coalition Party) 62.6%, Pekka HAAVISTO (Vihr) 37.4%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms)<br>
-_elections_: last held on 14 April 2019 (next to be held in April 2023)<br>
-_election results_: percent of vote by party/coalition - SDP 20%, PS 19.5%, Kok 19.0%. Center Party 15.5%, Vihr 10%, Vas 8%, SFP 4.5%, KD 2.5%, Aland 0.5%; other 0.5%; seats by party/coalition - SDP 40, PS 39, Kok 38, Centre Party 31, Vihr 20, Vas 16, SFP 9, KD 5; Aland 1; other 1; composition men 109, women 91, percent of women 45.5%<br>
+_elections_: last held on 02 April 2023 (next to be held in 30 April 2027)<br>
+_election results_: percent of vote by party/coalition - Kok 24%, PS 23%, SDP 21.5%. Center Party 11.5%, Vihr 6.5%, Vas 5.5%, SFP 4.5%, KD 2.5%, Aland 0.5%; Movement Now 0.5%; seats by party/coalition - Kok 48, PS 46, SDP 43, Center Party 23, Vihr 13, Vas 11, SFP 9, KD 5; Aland 1; Movement Now 1; composition men 109, women 91, percent of women 45.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges, including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities<br>
@@ -353,10 +353,10 @@ _judge selection and term of office_: Supreme Court and Supreme Administrative C
 _subordinate courts_: 6 Courts of Appeal; 8 regional administrative courts; 27 district courts; special courts for issues relating to markets, labor, insurance, impeachment, land, tenancy, and water rights<br>
 
 **Political parties and leaders**<br>
-Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk [Annika SAARIKKO]<br>Christian Democrats or KD [Sari ESSAYAH]<br>Finns Party or PS [Riikka PURRA]<br>Green League or Vihr [Maria OHISALO]<br>Left Alliance or Vas [Li ANDERSSON]<br>National Coalition Party or Kok [Petteri ORPO]<br>Social Democratic Party or SDP [Sanna MARIN]<br>Swedish People's Party or RKP or SFP [Anna-Maja HENRIKSSON]<br>
+Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk [Annika SAARIKKO]<br>Christian Democrats or KD [Sari ESSAYAH]<br>Finns Party or PS [Riikka PURRA]<br>Green League or Vihr [Maria OHISALO]<br>Left Alliance or Vas [Li ANDERSSON]<br>Movement Now or Liike Nyt [Harry HARKINO]<br>National Coalition Party or Kok [Petteri ORPO]<br>Social Democratic Party or SDP [Sanna MARIN]<br>Swedish People's Party or RKP or SFP [Anna-Maja HENRIKSSON]<br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNRWA, UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNRWA, UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mikko Tapani HAUTALA (since 17 September 2020)<br>
@@ -472,8 +472,8 @@ _female_: 17.1% (2021 est.)<br>
 27.7 (2019 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 11.5% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 4.3% of household expenditures (2018 est.)<br>
+_on food_: 11.5% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 4.3% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 6.7%<br>
@@ -718,7 +718,7 @@ at age 18, all Finnish men are obligated to serve 5.5-12 months of service withi
 160 Lebanon (UNIFIL) (May 2022)<br>
 
 **Military - note**<br>
-Finland is not a member of NATO, but Finland and NATO have actively cooperated in peace-support operations, exercised together, and exchanged analysis and information; Finland joined NATO’s Partnership for Peace program in 1994; Finnish Armed Forces participated in NATO-led military operations and missions in the Balkans, Afghanistan, and Iraq; Finland applied for NATO membership in May 2022<br><br>Finland is a signatory of the EU’s Common Security and Defense Policy (CSDP) and actively participates in CSDP crisis management missions and operations<br><br>the Finnish Armed Forces closely cooperate with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009 (2022)<br>
+Finland joined NATO in April 2023; Finland had been part of NATO’s Partnership for Peace program since 1994, and Finnish Armed Forces participated in NATO-led military operations and missions in the Balkans, Afghanistan, and Iraq<br><br>Finland is a signatory of the EU’s Common Security and Defense Policy (CSDP) and actively participates in CSDP crisis management missions and operations<br><br>the Finnish Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009 (2023)<br>
 
 ## Transnational Issues
 
@@ -726,6 +726,6 @@ Finland is not a member of NATO, but Finland and NATO have actively cooperated i
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 47,067 (Ukraine) (as of 30 January 2023)<br>
+_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 47,067 (Ukraine) (as of 21 March 2023)<br>
 _stateless persons_: 3,546 (2022)<br>
 

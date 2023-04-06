@@ -693,8 +693,8 @@ _total_: 40,000 km (2018)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de Terre, AdT), Chadian Air Force (l'Armee de l'Air Tchadienne, AAT), General Direction of the Security Services of State Institutions (Direction Generale des Services de Securite des Institutions de l'Etat, GDSSIE); National Gendarmerie; Ministry of Public Security and Immigration: National Nomadic Guard of Chad (GNNT), Chadian National Police (2022)<br>
-<strong>note 1:</strong> the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and is considered to be Chad's elite military unit; it is reportedly a division-size unit with infantry, armor, and special forces/anti-terrorism regiments (known as the Special Anti-Terrorist Group or SATG, aka Division of Special Anti-Terrorist Groups or DGSAT)<br><br><strong>note 2:</strong> Border security duties are shared by the Army, Customs (Ministry of Public Security and Immigration), the Gendarmerie, and the GNNT <br>
+Chadian National Army (Armee Nationale du Tchad, ANT): Land Forces (l'Armee de Terre, AdT), Chadian Air Force (l'Armee de l'Air Tchadienne, AAT), General Direction of the Security Services of State Institutions (Direction Generale des Services de Securite des Institutions de l'Etat, GDSSIE); National Gendarmerie; Ministry of Public Security and Immigration: National Nomadic Guard of Chad (GNNT), Chadian National Police (2023)<br>
+<strong>note 1:</strong> the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and is considered to be Chad's elite military unit; it is reportedly a division-size unit with infantry, armor, and special forces/anti-terrorism regiments (known as the Special Anti-Terrorist Group or SATG, aka Division of Special Anti-Terrorist Groups or DGSAT)<br><br><strong>note 2:</strong> Border security duties are shared by the Army, Customs (Ministry of Public Security and Immigration), the Gendarmerie, and the GNNT<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2021 est.)<br>

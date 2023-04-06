@@ -483,8 +483,8 @@ _female_: 3.2% (2021 est.)<br>
 38.8 (2018 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 50% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 10.5% of household expenditures (2018 est.)<br>
+_on food_: 50% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 10.5% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.3%<br>
@@ -622,16 +622,16 @@ _Total energy consumption per capita 2019_: 73.187 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.491 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 20 (2020 est.)<br>
+_total subscriptions_: 1,300,195 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.1 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 56 (2020 est.)<br>
+_total subscriptions_: 4,822,973 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 65 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Laos joined the World Trade Organization (WTO) in 2013; one of the conditions of admittance was to establish an independent regulator for its telecom sector within two years; the government had committed to do so by February 2015 as part of the accession agreement; there still has been no sign of any firm plans being made to create an independent regulatory body; the Ministry of Posts and Telecommunications (MPT) retains the primary role in regulating the country&rsquo;s telecom market; with the government also having a financial stake (in part or in whole) in every one of the major fixed-line and mobile operators, the MPT&rsquo;s position and decision-making is far from what could be considered independent; sufficient returns on investment cannot be guaranteed with such strict pricing controls as well as the potential for political interference; fixed-line and mobile penetration levels have, as a result, remained much lower than what&rsquo;s seen in neighboring South East Asian markets; there are signs of growth in the mobile broadband segment as LTE network coverage slowly widens and, more recently, the country&rsquo;s first 5G services start to come on stream; residents in the capital will at least be able to enjoy high-speed services in the near future, while the rest of the country waits patiently to catch up with the rest of the world. (2022)<br>
-_domestic_: fixed-line nearly 20 per 100 and 56 per 100 for mobile-cellular subscriptions (2020)<br>
+_domestic_: fixed-line nearly 18 per 100 and 65 per 100 for mobile-cellular subscriptions (2021)<br>
 _international_: country code - 856; satellite earth station - 1 Intersputnik (Indian Ocean region) and a second to be developed by China<br>
 
 **Broadcast media**<br>

@@ -487,8 +487,8 @@ _female_: 4.3% (2021 est.)<br>
 27.8 (2018 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 44.9% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 1.7% of household expenditures (2018 est.)<br>
+_on food_: 44.9% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 1.7% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.2%<br>
@@ -625,16 +625,16 @@ _Total energy consumption per capita 2019_: 180.726 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3.091 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
+_total subscriptions_: 2,997,400 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 24,293,900 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 129 (2020 est.)<br>
+_total subscriptions_: 24.323 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 127 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Kazakhstan has one of the most developed telecommunications sectors in the Central Asian region; this is especially true of the mobile segment, where widespread network coverage has enabled very high penetration rates reaching 180% as far back as 2012; the mobile and fixed-line segments have both pared back their subscriber numbers to more modest levels; the telcos have still been successful in terms of improving their margins and revenues by growing value-added services along with exploiting the capabilities of their higher speed networks (4G LTE as well as fiber) to drive significant increases in data usage; Kazakhstan has enjoyed a&nbsp; high fixed-line teledensity thanks to concerted efforts to invest in the fixed-line infrastructure as well as next-generation networks; demand for traditional voice services is on the wane as customers take a preference for the flexibility and ubiquity of the mobile platform for voice as well as data services; mobile clearly dominates the telecom sector in Kazakhstan, yet 2020 saw a sharp drop in subscriber numbers for both mobile voice and mobile broadband services as the Covid-19 crisis took hold; with the exception of fixed-line voice services, Kazakhstan&rsquo;s telecom market is expected to return to moderate growth from 2022 onward; the extensive deployment of LTE networks across the country (along with the prospect of 5G services being added to the mix in 2023) points towards an even greater uptake of lucrative mobile broadband services, in particular (2021)<br>
-_domestic_: intercity by landline and microwave radio relay; number of fixed-line connections is approximately 16 per 100 persons; mobile-cellular subscriber base 129 per 100 persons (2020)<br>
+_domestic_: fixed telephone subscriptions are 16 per 100 persons; mobile-cellular subscriber base 127 per 100 persons (2021)<br>
 _international_: country code - 7; international traffic with other former Soviet republics and China carried by landline and microwave radio relay and with other countries by satellite and by the TAE fiber-optic cable; satellite earth stations - 2 Intelsat<br>
 
 **Broadcast media**<br>

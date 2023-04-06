@@ -517,16 +517,16 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 46,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
+_total subscriptions_: 46,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 260,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 91 (2020 est.)<br>
+_total subscriptions_: 260,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 90 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: New Caledonia&rsquo;s telecom sector provides fixed and mobile voice services, mobile internet, fixed broadband access, and wholesale services for other ISPs; the country is well serviced by extensive 3G and LTE networks, and is considered to have one of the highest smartphone adoption rates in the Pacific region; by 2025, smart phone penetration is expected to reach 71%; while DSL is still the dominant fixed broadband technology, and a nationwide FttP network; the South Pacific region has become a hub for submarine cable system developments in recent years, with further networks scheduled to come online later in 2021 and into 2022; these new cables are expected to increase competition in the region with regards to international capacity; in 2020, the government owned telco commissioned Alcatel Submarine Networks (ASN) to build the Gondwana-2 cable system to provide additional network capacity and complement the Gondwana-1 cable (2022)<br>
-_domestic_: fixed-line nearly 16 per 100 and mobile-cellular telephone subscribership 91 per 100 persons (2020)<br>
+_domestic_: fixed-line is 16 per 100 and mobile-cellular telephone subscribership 90 per 100 persons (2021)<br>
 _international_: country code - 687; landing points for the Gondwana-1 and Picot-1 providing connectivity via submarine cables&nbsp;around New&nbsp;Caledonia and&nbsp;to Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 
 **Broadcast media**<br>

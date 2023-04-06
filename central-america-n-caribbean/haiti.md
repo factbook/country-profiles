@@ -194,7 +194,7 @@ _unimproved: total_: total: 34.4% of population (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
+_food or waterborne diseases_: cholera, bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -274,7 +274,7 @@ _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
+_food or waterborne diseases_: cholera, bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
 **Food insecurity**<br>
@@ -688,7 +688,7 @@ not available<br>
 according to the Haitian Government, the mission of the reconstituted armed forces will focus on patrolling the border with the Dominican Republic, combating smuggling, and executing recovery efforts after natural disasters<br><br>the UN Stabilization Mission in Haiti (MINUSTAH) operated in Haiti from 2004 until 2017; its mission was to help restore stability after President Bertrand ARISTIDE fled the country, including assisting with the political process, strengthening government institutions, and promoting and protecting human rights; following the completion of MINUSTAH’s mandate in 2017, a smaller peacekeeping mission, the UN Mission for Justice Support in Haiti (MINUJUSTH), operated until 2019; its mission was to assist with the further development and strengthening of the national police, as well as Haiti’s justice and prison systems, and to promote and protect human rights; in 2019, the UN established the UN Integrated Office in Haiti (BINUH) with the political mission of advising the Haiti Government in elections, governance, and security; BINUH's current mandate last until July 2023 (2022)<br>
 
 **Maritime threats**<br>
-the International Maritime Bureau reports the territorial waters of Haiti are a risk for armed robbery against ships; in 2021, four attacks against commercial vessels were reported, a slight decrease from the five attacks reported in 2020; most of these occurred in the main port of Port-au-Prince while ships were berthed or at anchor<br>
+the International Maritime Bureau reported one incident in the territorial waters of Haiti in 2022, a decrease from the four attacks in 2021; ports in Haiti continue to be affected by the crime of armed robbery; most of these occurred in the main port of Port-au-Prince while ships were berthed or at anchor<br>
 
 ## Transnational Issues
 

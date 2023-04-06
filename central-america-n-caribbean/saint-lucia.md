@@ -569,16 +569,16 @@ _Total energy consumption per capita 2019_: 50.872 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 38,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 21 (2020 est.)<br>
+_total subscriptions_: 14,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 8 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 203,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 111 (2020 est.)<br>
+_total subscriptions_: 170,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 96 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: an adequate system that is automatically switched; good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes to the overall GDP; telecom sector is a growth area (2020)<br>
-_domestic_: fixed-line teledensity is 20 per 100 persons and mobile-cellular teledensity is roughly 111 per 100 persons (2020)<br>
+_domestic_: fixed-line teledensity is 8 per 100 persons and mobile-cellular teledensity is roughly 96 per 100 persons (2021)<br>
 _international_: country code - 1-758; landing points for the ECFS&nbsp;and Southern Caribbean Fiber submarine cables providing connectivity to numerous Caribbean islands; direct microwave radio relay link with Martinique and Saint Vincent and the Grenadines; tropospheric scatter to Barbados (2019)<br>
 
 **Broadcast media**<br>

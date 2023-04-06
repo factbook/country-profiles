@@ -332,7 +332,8 @@ _dual citizenship recognized_: no<br>
 _residency requirement for naturalization_: 5 years<br>
 
 **Suffrage**<br>
-18 years of age; restricted to males; universal for municipal elections<br>
+18 years of age; universal for municipal elections<br>
+https://www.wilsoncenter.org/publication/saudi-women-go-to-the-polls-finally<br>
 
 **Executive branch**<br>
 _chief of state_: King SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015); Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985)<br>
@@ -473,8 +474,8 @@ NA<br>
 45.9 (2013 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 20.6% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 0.6% of household expenditures (2018 est.)<br>
+_on food_: 20.6% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 0.6% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
@@ -610,16 +611,16 @@ _Total energy consumption per capita 2019_: 296.949 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,749,058 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 17 (2020 est.)<br>
+_total subscriptions_: 6,594,631 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 43,215,439 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 124 (2020 est.)<br>
+_total subscriptions_: 45,427,321 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 126 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Saudi Arabia&rsquo;s telecom and ICT sectors continue to benefit from the range of programs aimed at diversifying the economy away from a dependence on oil, and establishing a wider digital transformation over the next decade; an essential element of this has been the widening reach of 5G networks, which by mid-2021 reached about half of the population and the majority of cities; the MNOs have focused investment on upgrading LTE infrastructure and further developing 5G; this in part is aimed at generating additional revenue from mobile data services, and also to their contribution to the Vision 2030 program; the ongoing pandemic has resulted in more people working and schooling from home during periods of restricted travel; this has stimulated growth in mobile data traffic, while the government has encouraged non-cash transactions and so helped develop the vast e-commerce market; while Saudi Arabia&rsquo;s fixed broadband penetration remains relatively low, there has been a concentration of fiber infrastructure and the Kingdom has developed one of the fastest services in the region (2022)<br>
-_domestic_: fixed-line over 16 per 100 and mobile-cellular subscribership has been increasing rapidly to roughly 124 per 100 persons (2020)<br>
+_domestic_: fixed-line are 18 per 100 and mobile-cellular subscribership is 126 per 100 persons (2021)<br>
 _international_: country code - 966; landing points for the SeaMeWe-3, -4, -5, AAE-1, EIG, FALCON, FEA, IMEWE, MENA/Gulf Bridge International, SEACOM, SAS-1, -2, GBICS/MENA, and the Tata TGN-Gulf submarine cables providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; microwave radio relay to Bahrain, Jordan, Kuwait, Qatar, UAE, Yemen, and Sudan; coaxial cable to Kuwait and Jordan; satellite earth stations - 5 Intelsat (3 Atlantic Ocean and 2 Indian Ocean), 1 Arabsat, and 1 Inmarsat (Indian Ocean region) (2019)<br>
 
 **Broadcast media**<br>

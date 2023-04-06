@@ -512,8 +512,8 @@ _female_: 26.7% (2021 est.)<br>
 35.7 (2019 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 29.8% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 2.4% of household expenditures (2018 est.)<br>
+_on food_: 29.8% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 2.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>
@@ -764,6 +764,9 @@ ages vary by service, but generally 16.5-27 years of age for voluntary military 
 
 **Military - note**<br>
 the Indian Armed Forces are chiefly focused on China and Pakistan; the short 1962 Sino-India War left in place one of the world&rsquo;s longest disputed international borders, resulting in occasional standoffs between Indian and Chinese security forces, including lethal clashes in 1975 and 2020; meanwhile, India and Pakistan have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (the First Kashmir War of 1947 and the 1999 Kargil Conflict); a fragile cease-fire in Kashmir was reached in 2003, revised in 2018, and reaffirmed in 2021, although the Line of Control remains contested, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir where Indian forces have conducted counterinsurgency operations since the 1980s; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area at least three times between 1985 and 1995; despite a cease-fire, both sides continue to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties are due to extreme weather and the hazards of operating in the high mountain terrain of the world&rsquo;s highest conflict, including avalanches, exposure, and altitude sickness (2023)<br>
+
+**Maritime threats**<br>
+the International Maritime Bureau reports the territorial waters of India are a risk for armed robbery against ships; in 2022, three attacks against commercial vessels were reported, an increase from the two attacks in 2021; all of these occurred in port while ships were berthed or at anchor<br>
 
 ## Terrorism
 

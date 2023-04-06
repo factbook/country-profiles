@@ -459,8 +459,8 @@ _female_: 29.6% (2021 est.)<br>
 NA<br>
 
 **Average household expenditures**<br>
-_On food_: 22.7% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 0.1% of household expenditures (2018 est.)<br>
+_on food_: 22.7% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 0.1% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
@@ -599,16 +599,16 @@ _Total energy consumption per capita 2019_: 292.022 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 594,550 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
+_total subscriptions_: 572,166 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,276,535 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 134 (2020 est.)<br>
+_total subscriptions_: 6,115,537 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 135 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Oman has a modern mobile sector which comprises substantial coverage of both 3G and LTE networks; in February 2021 commercial 5G services were launched; the Covid-19 pandemic has caused a spike in mobile data traffic; while Oman&rsquo;s fixed broadband infrastructure penetration is considered low, it is being improved with the building of fiber-based networks as part of Oman&rsquo;s Vision 2040 program; Oman has also established itself as an important communications hub in the Middle East, with access to numerous submarine cables including the 2Africa submarine cable, which should become available during 2023-2024; the 9,800km Oman Australia Cable running from Muscat to Perth, with the potential for a branch line to Djibouti, is making progress and is expected to be completed in December 2021; this additional infrastructure will provide considerable additional bandwidth (2021)<br>
-_domestic_: fixed-line nearly 13 per 100 and mobile-cellular nearly 134 per 100; fixed-line phone service gradually being introduced to remote villages using wireless local loop systems (2020)<br>
+_domestic_: fixed-line is 13 per 100 and mobile-cellular is 135 per 100 (2021)<br>
 _international_: country code - 968;&nbsp;landing points for GSA, AAE-1,&nbsp;SeaMeWe-5, Tata TGN-Gulf,&nbsp;FALCON, GBICS/MENA, MENA/Guld Bridge International, TW1, BBG, EIG, OMRAN/EPEG, and POI&nbsp;submarine cables providing connectivity to Asia,&nbsp;Africa, the Middle East, Southeast Asia&nbsp;and Europe; satellite earth stations - 2 Intelsat (Indian Ocean) (2019)<br>
 
 **Broadcast media**<br>
@@ -699,7 +699,7 @@ the SAF's inventory includes a mix of older and some more modern weapons systems
 the SAF has a longstanding security relationship with the British military going back to the 18th century; as of 2022, the SAF and the British maintained a joint training base in Oman and exercised together regularly; in 2017, Oman and the British signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port (2022)<br>
 
 **Maritime threats**<br>
-<p>the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-003 Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Red Sea-Threats to US and International Shipping from Iran) effective 28 February 2022, which states in part that "heightened military activities and increased political tensions in this region continue to present risk to commercial shipping...there is a continued possibility that Iran and/or its regional proxies could take actions against US and partner interests in the region"; Coalition Task Force (CTF) Sentinel has been established to provide escorts for commercial shipping transiting the Persian Gulf, Strait of Hormuz, and Gulf of Oman</p><br>
+<p>the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-003 - Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Gulf of Aden, Bab al Mandeb Strait, Red Sea, and Somali Basin-Threats to Commercial Vessels) effective 23 February 2023, which states in part that "Regional conflict, military activity, and political tensions pose threats to commercial vessels operating in the above listed geographic areas"; Coalition Task Force (CTF) Sentinel has been established to provide escorts for commercial shipping transiting the Persian Gulf, Strait of Hormuz, and Gulf of Oman</p><br>
 
 ## Transnational Issues
 

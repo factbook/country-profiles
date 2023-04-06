@@ -605,16 +605,16 @@ _Total energy consumption per capita 2019_: 14.916 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 210,981 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
+_total subscriptions_: 207,577 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,976,479 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 90 (2020 est.)<br>
+_total subscriptions_: 6,233,864 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 91 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Nicaragua&rsquo;s telecoms market has mirrored the country&rsquo;s poor economic achievements, with fixed-line teledensity and mobile penetration also being the lowest in Central America; the fixed line broadband market remains nascent, with population penetration below 4%; most internet users are concentrated in the largest cities, given that rural and marginal areas lack access to the most basic telecom infrastructure; internet caf&eacute;s provide public access to internet and email services, but these also tend to be restricted to the larger population centers; to address poor infrastructure, the World Bank has funded a project aimed at improving connectivity via a national fiber broadband network; there are separate schemes to improve broadband in eastern regions and provide links to Caribbean submarine cables; the number of mobile subscribers overtook the number of fixed lines in early 2002, and the mobile sector now accounts for most lines in service (2021)<br>
-_domestic_: since privatization, access to fixed-line and mobile-cellular services has improved; fixed-line teledensity roughly 3 per 100 persons; mobile-cellular telephone subscribership has increased to roughly 90 per 100 persons (2020)<br>
+_domestic_: fixed-line teledensity is 3 per 100 persons; mobile-cellular telephone subscribership is 91 per 100 persons (2021)<br>
 _international_: country code - 505; landing point for the ARCOS fiber-optic submarine cable which provides connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>

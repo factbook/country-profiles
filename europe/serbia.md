@@ -495,8 +495,8 @@ _female_: 33.7% (2021 est.)<br>
 36.2 (2017 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 25.6% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 7% of household expenditures (2018 est.)<br>
+_on food_: 25.6% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 7% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
@@ -630,16 +630,16 @@ _Total energy consumption per capita 2019_: 98.195 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,572,254 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 37 (2020 est.)<br>
+_total subscriptions_: 2,540,276 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 37 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,260,758 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 120 (2020 est.)<br>
+_total subscriptions_: 8,501,519 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 124 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Serbia&rsquo;s telecom industry has been liberalized in line with the principles of the EU&rsquo;s regulatory framework for communications, focused on encouraging competition in telecom products and services, and ensuring universal access; considerable network investment has been undertaken in Serbia by incumbent and alternative operators in recent years, despite economic difficulties; this has helped to stimulate internet usage, which has also been bolstered by improved affordability as prices are reduced through competition; the pandemic has stimulated consumer take up of services, particularly mobile data; the government&rsquo;s various initiatives to improve rural broadband availability have also been supported by European development loans; Serbia&rsquo;s high mobile services, partly the result of multiple SIM card use, has weighed on revenue growth in recent years, placing further pressure on operators to develop business models which encourage consumer use of mobile data services also in response to the continued substitution of fixed-line for mobile voice calls; the regulator has yet to auction 5G-suitable frequencies, though operators are already investing in their networks in preparation for this next growth frontier; during 2021 the regulator resumed the process towards a 5G spectrum auction, which had been delayed owing to the onset of the covid-19 pandemic (2022)<br>
-_domestic_: fixed-line over 37 per 100 and mobile-cellular over 120 per 100 persons (2020)<br>
+_domestic_: fixed-line over 37 per 100 and mobile-cellular is 124 per 100 persons (2021)<br>
 _international_: country code - 381<br>
 
 **Internet country code**<br>

@@ -282,9 +282,9 @@ _vectorborne diseases_: dengue fever<br>
 _municipal solid waste generated annually_: 1,648,996 tons (2010 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 474 million cubic meters (2017 est.)<br>
-_industrial_: 213 million cubic meters (2017 est.)<br>
-_agricultural_: 1.431 billion cubic meters (2017 est.)<br>
+_municipal_: 470 million cubic meters (2020 est.)<br>
+_industrial_: 210 million cubic meters (2020 est.)<br>
+_agricultural_: 1.43 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 26.3 billion cubic meters (2019 est.)<br>
@@ -474,8 +474,8 @@ _female_: 18.3% (2021 est.)<br>
 38.8 (2019 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 26.5% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 0.5% of household expenditures (2018 est.)<br>
+_on food_: 26.5% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 0.5% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
@@ -728,6 +728,10 @@ the National Civilian Police (Ministry of Justice and Public Security) is respon
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 71,500 (2021)<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List &mdash; El Salvador does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials convicted more traffickers and identified more victims; however, the government did not demonstrate overall increasing efforts compared with the previous year to improve its anti-trafficking capacity; the government significantly reduced the number of specialized prosecutors; less than half of all victims received government services or referrals to care providers; officials did not implement procedures to identify potential victims among children apprehended for gang-related activity or persons forcibly displaced from their homes; the government did not initiate any investigations, prosecutions, or convictions of officials allegedly complicit in trafficking crimes or report progress on investigations from previous years; the anti-trafficking council was inactive and did not draft a new national anti-trafficking action plan, report on the government's 2021 efforts, or compile data across agencies; therefore, El Salvador was downgraded to Tier 2 Watch List (2022)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in El Salvador, and traffickers exploit victims from El Salvador abroad; adults and children are exploited in sex trafficking within the country; children without parents, adolescent girls, and LGBTQI+ persons&mdash;especially transgender persons&mdash;are at particular risk; sex trafficking reportedly occurs in the tourism industry; traffickers exploit victims within their own communities, sometimes their own children or other family members; Salvadoran adults and children are exploited in forced labor in agriculture, domestic service, and begging; adults and children from neighboring countries&mdash;particularly Honduras, Guatemala, and Nicaragua&mdash;are exploited in sex trafficking and forced labor in construction, domestic service, or the informal sector; traffickers recruit victims in regions of El Salvador with high levels of violence; limited government presence in gang-controlled territory exacerbates trafficking risks; gangs use the pretense of domestic employment to lure women into forced labor; transnational criminal organizations and gangs including MS-13 and Barrio 18 recruit, abduct, train, arm, and subject children to forced labor&mdash;including assassinations, extortion, and drug trafficking; these groups subject women and children, including LGBTQI+ children, to sex trafficking and forced labor in domestic service and child care; Salvadoran men, women, and children are exploited in sex trafficking and forced labor in Belize, Guatemala, Mexico, and the United States; traffickers exploit some Central and South American, African, and Asian migrants who transit El Salvador to Guatemala, Mexico, the United States, and Canada in sex and labor trafficking; endemic corruption and complicity, including within law enforcement, the judiciary, the prison system, and local government, hinder anti-trafficking efforts (2022)<br>
 
 **Illicit drugs**<br>
 <p>a transit country for illicit drugs destined for the United States  </p><br>

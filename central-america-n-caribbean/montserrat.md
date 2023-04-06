@@ -466,16 +466,16 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,000 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 60 (2018 est.)<br>
+_total subscriptions_: 3,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 67 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,000 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 101 (2019 est.)<br>
+_total subscriptions_: 5,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 110 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom market one of growth in Caribbean and fully digitalized;&nbsp;high dependency on tourism and offshore financial&nbsp;services; operators expand FttP (Fiber to Home) services; LTE launches and operators invest in mobile networks; effective competition in all sectors (2020)<br>
-_domestic_: fixed-line roughly 60 per 100 and mobile-cellular teledensity nearly 101 per 100 persons (2019)<br>
+_domestic_: fixed-line is 67 per 100 and mobile-cellular teledensity is 110 per 100 persons (2020)<br>
 _international_: country code - 1-664; landing point for the ECFS optic submarine cable with links to 14 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad (2019)<br>
 
 **Broadcast media**<br>

@@ -295,9 +295,9 @@ _percent of municipal solid waste recycled_: 12.9% (2015 est.)<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.293 billion cubic meters (2017 est.)<br>
-_industrial_: 549 million cubic meters (2017 est.)<br>
-_agricultural_: 8.076 billion cubic meters (2017 est.)<br>
+_municipal_: 1.29 billion cubic meters (2020 est.)<br>
+_industrial_: 550 million cubic meters (2020 est.)<br>
+_agricultural_: 8.8 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 442.4 billion cubic meters (2019 est.)<br>
@@ -489,8 +489,8 @@ _female_: 18.8% (2021 est.)<br>
 <strong>note:</strong> data are for urban households only<br>
 
 **Average household expenditures**<br>
-_On food_: 26.2% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 0.8% of household expenditures (2018 est.)<br>
+_on food_: 26.2% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 0.8% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.4%<br>
@@ -738,7 +738,7 @@ the military's equipment inventory is mostly older and derived from a wide varie
 border conflicts with Peru dominated the military’s focus until the late 1990s and border security remains a priority, but in more recent years, security challenges have shifted towards counterinsurgency and counter-narcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, has spilled over the border; troop deployments along the border with Colombia were scaled back following the 2016 signing of a peace agreement between the Colombian Government and the Revolutionary Armed Forces of Colombia (FARC) terrorist group (see Appendix T), but recent violence associated with FARC dissidents to the agreement have led Ecuador and Colombia to reinforce their shared border; since 2012, the Ecuadorian Government has also expanded the military’s role in general public security and counter-narcotics operations, in part due to rising violence, police corruption, and police ineffectiveness<br><br>the military has had a large role in Ecuador’s political history; it ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010 (2023)<br>
 
 **Maritime threats**<br>
-the International Maritime Bureau continues to report the territorial and offshore waters of Ecuador as at risk for piracy and armed robbery against ships; vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen; there has been a slight decrease with four attacks reported in 2021 and five in 2020; one ship was boarded while underway and two ships were fired upon<br>
+the International Maritime Bureau reported no incidents in 2022; the territorial and offshore waters of Ecuador remain at risk for piracy and armed robbery against ships; vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen<br>
 
 ## Transnational Issues
 

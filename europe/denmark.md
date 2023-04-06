@@ -463,8 +463,8 @@ _female_: 10.6% (2021 est.)<br>
 27.7 (2019 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 11.5% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
+_on food_: 11.5% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 9%<br>
@@ -723,6 +723,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 40,613 (Ukraine) (as of 26 February 2023)<br>
+_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 41,297 (Ukraine) (as of 26 March 2023)<br>
 _stateless persons_: 11,644 (2022)<br>
 

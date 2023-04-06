@@ -494,8 +494,8 @@ _female_: 65.2% (2021 est.)<br>
 29.5 (2012 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 30.1% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 4.2% of household expenditures (2018 est.)<br>
+_on food_: 30.1% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 4.2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>
@@ -632,16 +632,16 @@ _Total energy consumption per capita 2019_: 63.174 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,699,758 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 7 (2020 est.)<br>
+_total subscriptions_: 3,048,736 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 37,475,325 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 93 (2020 est.)<br>
+_total subscriptions_: 37,649,112 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 86 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Iraq continues to face a number of political and economic challenges, though increasing civil stability has made it easier for mobile and fixed-line operators to rebuild telecom services and infrastructure damaged during the last few years; the government extended the licenses held by the MNOs for an additional three years to compensate for the chaos and destruction caused between 2014 and 2017 when Islamic State held sway in many areas of the country; the companies have struggled to develop LTE services; most services are still based on GSM and 3G, except in the Kurdish region where LTE is more widely available (2022)<br>
-_domestic_: about 7 per 100 for fixed-line and 93 per 100 for mobile-cellular subscriptions (2020)<br>
+_domestic_: about 7 per 100 for fixed-line and 86 per 100 for mobile-cellular subscriptions (2021)<br>
 _international_: country code - 964; landing points for FALCON, and GBICS/MENA submarine cables providing connections to the Middle East, Africa and India; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Intersputnik - Atlantic Ocean region, and 1 Arabsat (inoperative)); local microwave radio relay connects border regions to Jordan, Kuwait, Syria, and Turkey (2019)<br>
 
 **Broadcast media**<br>

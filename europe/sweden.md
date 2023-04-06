@@ -469,8 +469,8 @@ _female_: 23% (2021 est.)<br>
 28.8 (2017 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 12.4% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
+_on food_: 12.4% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
@@ -695,7 +695,7 @@ Sweden operates four PC 3 or 4 class medium icebreakers in the Baltic Sea<br>not
 Swedish Armed Forces (Forsvarsmakten): Army, Navy, Air Force, Home Guard (2022)<br>
 
 **Military expenditures**<br>
-1.5% of GDP (2022 est.)<br>
+1.4% of GDP (2022 est.)<br>
 1.3% of GDP (2021)<br>
 1.2% of GDP (2020)<br>
 1.1% of GDP (2019)<br>
@@ -730,6 +730,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 52,325 (Ukraine) (as of 23 February 2023)<br>
+_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 53,514 (Ukraine) (as of 24 March 2023)<br>
 _stateless persons_: 46,515 (2022); note - the majority of stateless people are from the Middle East and Somalia<br>
 

@@ -637,8 +637,8 @@ _major seaport(s)_: Moroni, Moutsamoudou<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Army for Development (l'Armee Nationale de Developpement, AND): Comoran Security Force (also called Comoran Defense Force (Force Comorienne de Defense, FCD), includes Gendarmerie); Ministry of Interior: Coast Guard, Federal Police, National Directorate of Territorial Safety (2022)<br>
-<strong>note: </strong>when the Gendarmerie serves as the judicial police, it reports to the Minister of Justice<br>
+National Army for Development (l'Armee Nationale de Developpement, AND): Comoran Defense Force (Force Comorienne de Defense, FCD), includes Gendarmerie); Ministry of Interior: Coast Guard, Federal Police, National Directorate of Territorial Safety (2023)<br>
+<strong>note 1: </strong>when the Gendarmerie serves as the judicial police, it reports to the Minister of Justice; the Gendarmerie also has an intervention platoon that may act under the authority of the interior minister<br><br><strong>note 2:</strong> the National Directorate of Territorial Safety oversees customs and immigration<br><br><strong>note 3:</strong> the FCD is also known as the Comoran Security Force<br>
 
 **Military and security service personnel strengths**<br>
 estimated 600 Defense Force personnel; estimated 500 Federal Police (2022)<br>

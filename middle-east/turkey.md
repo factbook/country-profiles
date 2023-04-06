@@ -494,8 +494,8 @@ _female_: 29.9% (2021 est.)<br>
 41.9 (2018 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 21.8% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
+_on food_: 21.8% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.1%<br>

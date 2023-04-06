@@ -368,7 +368,7 @@ _election results_: Senate - composition men 58, women 7, percent of women 10.8%
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation or Supreme Court (consists of 15 members, including the chief justice); Constitutional Court (consists of&nbsp;9 members)<br>
-_judge selection and term of office_: Supreme Court chief justice appointed by the king; other judges nominated by the Judicial Council, an 11-member judicial policymaking body consisting of high-level judicial officials and judges, and approved by the king; judge tenure generally not limited; Constitutional Court members appointed by the king for 6-year non-renewable terms with one-third of the membership renewed every 2 years<br>
+_judge selection and term of office_: Supreme Court chief justice appointed by the king; other judges nominated by the Judicial Council, an 11-member judicial policymaking body consisting of high-level judicial officials and judges, and approved by the king; judge tenure not limited; Constitutional Court members appointed by the king for 6-year non-renewable terms with one-third of the membership renewed every 2 years<br>
 _subordinate courts_: Courts of Appeal; Great Felonies Court; religious courts; military courts; juvenile courts; Land Settlement Courts; Income Tax Court; Higher Administrative Court; Customs Court; special courts including the State Security Court<br>
 
 **Political parties and leaders**<br>
@@ -491,8 +491,8 @@ _female_: 53.8% (2021 est.)<br>
 33.7 (2010 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 29.6% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 4.6% of household expenditures (2018 est.)<br>
+_on food_: 29.6% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 4.6% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
@@ -629,16 +629,16 @@ _Total energy consumption per capita 2019_: 39.331 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 391,486 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
+_total subscriptions_: 427,517 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,987,891 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 68 (2020 est.)<br>
+_total subscriptions_: 7,275,563 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 65 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Jordan&rsquo;s government has focused on the use of ICT in a range of sectors, aimed at transforming the relatively small economy through the use of digital services; this policy has helped the country rise in the league tables for digital connectivity and internet readiness, and it has also attracted investment from foreign companies; during the ongoing global pandemic, the start-up sector has been further encouraged to develop solutions to combat the crisis, while other efforts have facilitated e-government services and encouraged businesses to adapt to new methods of working through their own digital transformation; these developments have been supported by the highly developed mobile sector, led by three major regional players which have near-comprehensive LTE network coverage (2022)<br>
-_domestic_: a 1995 telecommunications law opened all non-fixed-line services to private competition; in 2005, the monopoly over fixed-line services terminated and the entire telecommunications sector was opened to competition; currently fixed-line stands at nearly 4 per 100 persons and multiple mobile-cellular providers with subscribership over 68 per 100 persons (2020)<br>
+_domestic_: fixed-line stands at nearly 4 per 100 persons and mobile cellular subscriptions at 65 per 100 persons (2021)<br>
 _international_: country code - 962; landing point for the&nbsp;FEA and&nbsp;Taba-Aqaba submarine cable networks providing connectivity to Europe, the Middle East, Southeast Asia and Asia; satellite earth stations - 33 (3 Intelsat, 1 Arabsat, and 29 land and maritime Inmarsat terminals (2019)<br>
 
 **Broadcast media**<br>

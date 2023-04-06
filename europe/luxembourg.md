@@ -598,16 +598,16 @@ _Total energy consumption per capita 2019_: 310.068 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 268,090 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 43 (2020 est.)<br>
+_total subscriptions_: 270,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 42 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 890,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 142 (2020 est.)<br>
+_total subscriptions_: 880,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 140 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Luxembourg has a small telecom sector; there remains some pressure from regulatory measures, though no further reductions to fixed and mobile interconnection tariffs have been imposed through to 2024; high mobile penetration has slowed subscriber growth in the mobile market since 2005, though a recent law requiring SIM card registration has not had an adverse effect on the number of mobile subscribers despite network operators deactivating unregistered cards (2021)<br>
-_domestic_: fixed-line teledensity about 43 per 100 persons; nationwide mobile-cellular telephone system with market for mobile-cellular phones virtually saturated with about 142 per 100 mobile-cellular (2020)<br>
+_domestic_: fixed-line teledensity about 42 per 100 persons; 140 per 100 mobile-cellular subscriptions (2021)<br>
 _international_: country code - 352<br>
 
 **Broadcast media**<br>

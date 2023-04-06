@@ -477,8 +477,8 @@ _female_: 9.2% (2021 est.)<br>
 29.2 (2019 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 11.4% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 3.3% of household expenditures (2018 est.)<br>
+_on food_: 11.4% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 3.3% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
@@ -615,16 +615,16 @@ _Total energy consumption per capita 2019_: 219.606 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4.937 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 29 (2020 est.)<br>
+_total subscriptions_: 5.024 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 29 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21.415 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 125 (2020 est.)<br>
+_total subscriptions_: 21.888 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 125 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom infrastructure in the Netherlands continues to be upgraded as modernization schemes undertaken by telcos make steady progress; other fiber providers have been supported by regulatory measures which have encouraged municipal governments to intervene with telcos&rsquo; fiber builds, facilitating open access networks in a bid to make rollouts cheaper, and completed sooner; while the Mobile Network Operators (MNOs) are also closing down their Global System for Mobile Communication (MSM) and 3G networks and repurposing their spectrum and physical assets for LTE and 5G, the regulator has also encouraged GSM/3G roaming in the interim, thus safeguarding services such as machine to machine and other low data-use applications while individual MNOs disable their own GSM/3G networks; the country has one of the highest fixed broadband penetration rates in the world, with effective cross-platform competition between Digital Subscriber Line (DSL), Hybrid Fiber Coazial (HFC), and fiber networks; in the third quarter of 2020 the number of cable broadband connections fell for the first time, while the DSL segment has long been eclipsed by fiber; by the end of 2021, over a quarter of fixed broadband connections were on fiber infrastructure, while DSL accounted for only about 29%; almost 49% of fixed connections provided data above 100Mb/s, while an additional 43.7% provided data of at least 30Mb/s (2022)<br>
-_domestic_: extensive fixed-line, fiber-optic network; large cellular telephone system with five major operators utilizing the third generation of the Global System for Mobile Communications technology; one in five households now use Voice over the Internet Protocol services; fixed-line nearly 29 per 100 and mobile-cellular at 125 per 100 persons (2020)<br>
+_domestic_: fixed-line is 29 per 100 and mobile-cellular at 125 per 100 persons (2021)<br>
 _international_: country code - 31; landing points for Farland North, TAT-14, Circe North, Concerto, Ulysses 2, AC-1, UK-Netherlands 14, and COBRAcable submarine cables which provide links to the US and Europe; satellite earth stations - 5 (3 Intelsat - 1 Indian Ocean and 2 Atlantic Ocean, 1 Eutelsat, and 1 Inmarsat) (2019)<br>
 
 **Broadcast media**<br>

@@ -489,8 +489,8 @@ _female_: 21.9% (2021 est.)<br>
 43.5 (2020 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 31.7% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 4.2% of household expenditures (2018 est.)<br>
+_on food_: 31.7% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 4.2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.5%<br>
@@ -626,16 +626,16 @@ _Total energy consumption per capita 2019_: 62.775 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 249,231 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
+_total subscriptions_: 203,971 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,865,050 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 110 (2020 est.)<br>
+_total subscriptions_: 7,975,074 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 119 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: limited progress on structural reform and deficient infrastructure of the landlocked country are obstacles to the telecom platform; effective competition in mobile market, serving 96% of population through LTE; deployment of fiber; operator enabled 109 free Internet points across the country and is looking to expand to 430 points in 2022; dependent on neighboring countries for access to submarine cables (2022)<br>
-_domestic_: deficiencies in provision of fixed-line service have resulted in expansion of mobile-cellular services fostered by competition among multiple providers; Internet market also open to competition; fixed-line just over 3 per 100 and mobile-cellular just over 105 per 100 of the population (2020)<br>
+_domestic_: fixed-line just over 3 per 100 and mobile-cellular is 119 per 100 of the population (2021)<br>
 _international_: country code - 595; Paraguay's landlocked position means they must depend on neighbors for interconnection with submarine cable networks, making it cost more for broadband services; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>

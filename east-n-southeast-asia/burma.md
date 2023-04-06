@@ -204,7 +204,7 @@ _unimproved: total_: total: 14.8% of population (2020 est.)<br>
 0.8% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Japanese encephalitis<br>
 _animal contact diseases_: rabies<br>
@@ -290,7 +290,7 @@ _rate of urbanization_: 1.85% annual rate of change (2020-25 est.)<br>
 0.01% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Japanese encephalitis<br>
 _animal contact diseases_: rabies<br>
@@ -384,8 +384,8 @@ _judge selection and term of office_: chief justice and judges nominated by the 
 _subordinate courts_: High Courts of the Region; High Courts of the State; Court of the Self-Administered Division; Court of the Self-Administered Zone; district and township courts; special courts (for juvenile, municipal, and traffic offenses); courts martial<br>
 
 **Political parties and leaders**<br>
-Arakan National Party or ANP [THAR TUN HLA]<br>Democratic Party or DP [U THU WAI]<br>Kayah State Democratic Party or KySDP <br>Kayin People's Party or KPP [TUN AUNG MYINT]<br>Kokang Democracy and Unity Party or KDUP [LUO XINGGUANG]<br>La Hu National Development Party or LHNDP [KYA HAR SHAL]<br>Lisu National Development Party or LNDP [U ARKI DAW]<br>Mon Unity Party (formed in 2019 from the All Mon Region Democracy Party and Mon National Party)<br>National Democratic Force or NDF [KHIN MAUNG SWE]<br>National League for Democracy or NLD [AUNG SAN SUU KYI]<br>National Unity Party or NUP [U HAN SHWE]<br>Pa-O National Organization or PNO [AUNG KHAM HTI]<br>People's Party [KO KO GYI]<br>Shan Nationalities Democratic Party or SNDP [SAI AI PAO]<br>Shan Nationalities League for Democracy or SNLD <br>Ta'ang National Party or TNP [AIK MONE]<br>Tai-Leng Nationalities Development Party or TNDP [ U SAI HTAY AUNG]<br>Union Solidarity and Development Party or USDP [THAN HTAY]<br>Unity and Democracy Party of Kachin State or UDPKS [U KHAT HTEIN NAN]<br>Wa Democratic Party or WDP [KHUN HTUN LU]<br>Wa National Unity Party or WNUP [NYI PALOTE]<br>Zomi Congress for Democracy or ZCD [PU CIN SIAN THANG]<br>numerous smaller parties<br>
-<strong>note: </strong>the military junta in January 2023 announced a new law that restricts the ability of political parties to participate in elections, including: 1) barring parties and candidates deemed to have links to individuals or organizations alleged to have committed terrorism or other unlawful acts; 2) stipulating that political parties that want to contest the national election would also need to secure at least 100,000 members within 90 days of registration and have funds of 100 million Myanmar kyat ($45,500), 100 times more than previously required, which would need to be deposited with a state-owned bank; 3) requiring that any existing party must apply for registration within 60 days of the legislation being announced or be invalidated; parties can also be suspended for 3 years, and ultimately dissolved, for failing to comply with the provisions of the new law; 4) not allowing parties to lodge an appeal against election commission decisions on registration<br>
+Arakan National Party or ANP [THAR TUN HLA]<br>Democratic Party or DP [U THU WAI]<br>Kayah State Democratic Party or KySDP <br>Kayin People's Party or KPP [TUN AUNG MYINT]<br>Kokang Democracy and Unity Party or KDUP [LUO XINGGUANG]<br>La Hu National Development Party or LHNDP [KYA HAR SHAL]<br>Lisu National Development Party or LNDP [U ARKI DAW]<br>Mon Unity Party (formed in 2019 from the All Mon Region Democracy Party and Mon National Party)<br>National Democratic Force or NDF [KHIN MAUNG SWE]<br>National League for Democracy or NLD [AUNG SAN SUU KYI]<br>National Unity Party or NUP [U HAN SHWE]<br>Pa-O National Organization or PNO [AUNG KHAM HTI]<br>People's Party [KO KO GYI]<br>Shan Nationalities Democratic Party or SNDP [SAI AI PAO]<br>Shan Nationalities League for Democracy or SNLD <br>Ta'ang National Party or TNP [AIK MONE]<br>Tai-Leng Nationalities Development Party or TNDP [ U SAI HTAY AUNG]<br>Union Solidarity and Development Party or USDP [THAN HTAY]<br>Unity and Democracy Party of Kachin State or UDPKS [U KHAT HTEIN NAN]<br>Wa Democratic Party or WDP [KHUN HTUN LU]<br>Wa National Unity Party or WNUP [NYI PALOTE]<br>Zomi Congress for Democracy or ZCD [PU CIN SIAN THANG]<br>(numerous smaller parties; approximately 90 parties ran in the 2020 election)<br>
+<strong>note</strong>: in January 2023, the military junta announced a new law restricting political parties and their ability to participate in elections, including: 1) barring parties and candidates deemed by the junta to have links to individuals or organizations alleged to have committed terrorism or other unlawful acts; 2) stipulating that political parties that wanted to contest the national election would also need to secure at least 100,000 members within 90 days of registration and have funds of 100 million Myanmar kyat ($45,500), 100 times more than previously required, which would need to be deposited with a state-owned bank; 3) requiring that any existing party must apply for registration within 60 days of the legislation being announced or be invalidated; allowing for parties to be suspended for 3 years, and ultimately dissolved, for failing to comply with the provisions of the new law; 4) not allowing parties to lodge an appeal against election commission decisions on registration<br><br>in March 2023, the military junta announced that 40 political parties had been dissolved, including the National League for Democracy, because they did not register under the junta's new party establishment rules <strong><br><br></strong><br>
 
 **International organization participation**<br>
 ADB, ARF, ASEAN, BIMSTEC, CP, EAS, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), NAM, OPCW (signatory), SAARC (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -498,8 +498,8 @@ _female_: 6.3% (2021 est.)<br>
 30.7 (2017 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 56.1% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 0.5% of household expenditures (2018 est.)<br>
+_on food_: 56.1% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 0.5% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>

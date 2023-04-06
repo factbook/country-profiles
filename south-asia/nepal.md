@@ -616,16 +616,16 @@ _Total energy consumption per capita 2019_: 5.219 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 726,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
+_total subscriptions_: 730,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 38.213 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 131 (2020 est.)<br>
+_total subscriptions_: 38 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 130 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: in relation to its telecom sector, Nepal has several topographical and economic constraints which have impeded efforts to expand network infrastructure and improve the quality of service for end-users; the fixed line market remains underdeveloped, and as a result most traffic is channeled via mobile networks; fixed broadband penetration remains very low, though to address this the government has initiated several programs as part of the Digital Nepal Framework and the wider Optical Fiber Backbone Network Expansion Project, started in 2012; supported by the Rural Telecommunications Development Fund, the programs include building out fiber backbone infrastructure and using this to provide broadband to schools and community centers nationally; telcos have also invested in fiber networks, and competition in the market is intensifying; cheap fiber-based services launched in mid-2021 prompted responses from other ISPs to provide faster and more competitively priced offers; Nepal&rsquo;s mobile market is relatively developed, with a focus on LTE; in 2021, the regulator considered a range of spectrum bands which could be used for 5G (2021)<br>
-_domestic_: fixed-line less than 2 per 100 persons and mobile-cellular nearly 131 per 100 persons (2020)<br>
+_domestic_: fixed-line is 2 per 100 persons and mobile-cellular nearly 130 per 100 persons (2021)<br>
 _international_: country code - 977; Nepal, China and Tibet connected across borders with underground and all-dielectric self-supporting (ADSS) fiber-optic cables; radiotelephone communications; microwave and fiber landlines to India; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
 
 **Broadcast media**<br>

@@ -205,7 +205,7 @@ _unimproved: total_: total: 9.8% of population (2020 est.)<br>
 0.6% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
@@ -287,7 +287,7 @@ _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 0.01% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
@@ -376,7 +376,7 @@ _election results_: <p><em>2022: </em>Luiz Inácio LULA da Silva elected preside
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congresso Nacional consists of:<br>Federal Senate or Senado Federal (81 seats; 3 members each from 26 states and 3 from the federal district directly elected in multi-seat constituencies by simple majority vote to serve 8-year terms, with one-third and two-thirds of the membership elected alternately every 4 years)<br><br>Chamber of Deputies or Camara dos Deputados (513 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote to serve 4-year terms)<br>
 _elections_: <br>Federal Senate - last held on 2 October 2022 for one-third of the Senate (next to be held on 4 October 2026 for two-thirds of the Senate)<br><br>Chamber of Deputies - last held on 2 October 2022 (next to be held on 4 October 2026)<br>
-_election results_: <br>Federal Senate - percent of vote by party - NA; seats by party - PL 8, Brazil Union 5, PT 4, Progressistas 3, PSD 2, Republican 2, MBD 1, PSB 1, PSC 1; note - complete Federal Senate compostion after 2022 election - PL 13, Brazil Union 12, MBD 10, PSD 10, PT 9, Progressistas 7, Podemos 6, PSDB 4, Republicans 3, PDT 2, Cidadania 1, PSB 1, PSC 1, PROS 1, REDE 1  <br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - PL 99, PT 67, Brazil Union 59, PP 47, MDB 42, PSD 42, Republicans 41, PDT 17, PSB 14, PSDB 13, Podemos 12, PSOL 12, Avante 7, PCdoB 6, PSC 6, PV 6, Cidadania 5, Patriota 4, PROS 4, SD 4, NOVO 3, REDE 2, PTB 1<br>
+_election results_: <br>Federal Senate - percent of vote by party - NA; seats by party - PL 8, Brazil Union 5, PT 4, Progressistas 3, PSD 2, Republican 2, MBD 1, PSB 1, PSC 1; note - complete Federal Senate compostion after 2022 election - PL 13, Brazil Union 12, MBD 10, PSD 10, PT 9, Progressistas 7, Podemos 6, PSDB 4, Republicans 3, PDT 2, Cidadania 1, PSB 1, PSC 1, PROS 1, REDE 1; composition - men 66, women 15, percent of women 18.5%  <br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - PL 99, PT 67, Brazil Union 59, PP 47, MDB 42, PSD 42, Republicans 41, PDT 17, PSB 14, PSDB 13, Podemos 12, PSOL 12, Avante 7, PCdoB 6, PSC 6, PV 6, Cidadania 5, Patriota 4, PROS 4, SD 4, NOVO 3, REDE 2, PTB 1; composition - men 423, women 90, percent of women 17.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Federal Court or Supremo Tribunal Federal (consists of 11 justices)<br>
@@ -507,8 +507,8 @@ _female_: 38.2% (2021 est.)<br>
 48.9 (2020 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 15.7% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 1.5% of household expenditures (2018 est.)<br>
+_on food_: 15.7% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 1.5% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 0.8%<br>
@@ -759,7 +759,7 @@ the Brazilian military's inventory consists of a mix of domestically-produced an
 the origins of Brazil's military stretch back to the 1640s<br><br>the three national police forces – the Federal Police, Federal Highway Police, and Federal Railway Police – have domestic security responsibilities and report to the Ministry of Justice and Public Security (Ministry of Justice); there are two distinct units within the state police forces: the civil police, which performs an investigative role, and the military police, charged with maintaining law and order in the states and the Federal District; despite the name, military police forces report to the Ministry of Justice, not the Ministry of Defense; the National Public Security Force (Forca Nacional de Seguranca Publica or SENASP) is a national police force made up of Military Police from various states; the armed forces also have some domestic security responsibilities and report to the Ministry of Defense<br><br>Brazil has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2023)<br>
 
 **Maritime threats**<br>
-the International Maritime Bureau reports the territorial waters of Brazil are a risk for armed robbery against ships; in 2021, three attacks against commercial vessels were reported, a decrease from the seven attacks in 2020; all of these occurred in the port of Macapa while ships were berthed or at anchor<br>
+the International Maritime Bureau reports the territorial waters of Brazil are a risk for armed robbery against ships; in 2022, five attacks against commercial vessels were reported, an increase from the three attacks in 2021; all of these occurred in the port of Macapa while ships were berthed or at anchor<br>
 
 ## Terrorism
 

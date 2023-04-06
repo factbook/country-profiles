@@ -322,7 +322,7 @@ National Day (commemorates passage of the law on permanent neutrality), 26 Octob
 
 **Constitution**<br>
 _history_: several previous; latest adopted 1 October 1920, revised 1929, replaced May 1934, replaced by German Weimar constitution in 1938 following German annexation, reinstated 1 May 1945<br>
-_amendments_: proposed through laws designated "constitutional laws" or through the constitutional process if the amendment is part of another law; approval required by at least a two-thirds majority vote by the National Assembly and the presence of one half of the members; a referendum is required only if requested by one third of the National Council or Federal Council membership; passage by referendum requires absolute majority vote; amended many times, last in 2020<br>
+_amendments_: proposed through laws designated "constitutional laws" or through the constitutional process if the amendment is part of another law; approval required by at least a two-thirds majority vote by the National Assembly and the presence of one-half of the members; a referendum is required only if requested by one-third of the National Council or Federal Council membership; passage by referendum requires absolute majority vote; amended many times, last in 2020<br>
 
 **Legal system**<br>
 civil law system; judicial review of legislative acts by the Constitutional Court<br>
@@ -477,8 +477,8 @@ _female_: 11.3% (2021 est.)<br>
 30.2 (2019 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 9.8% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
+_on food_: 9.8% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>

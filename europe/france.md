@@ -307,9 +307,9 @@ Atlantic Ocean drainage: Loire (115,282 sq km), Seine (78,919 sq km), Rhine-Maas
 Paris Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 5.175 billion cubic meters (2017 est.)<br>
-_industrial_: 18.15 billion cubic meters (2017 est.)<br>
-_agricultural_: 3.113 billion cubic meters (2017 est.)<br>
+_municipal_: 5 billion cubic meters (2020 est.)<br>
+_industrial_: 18.55 billion cubic meters (2020 est.)<br>
+_agricultural_: 2.99 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 211 billion cubic meters (2019 est.)<br>
@@ -509,8 +509,8 @@ _female_: 20.3% (2021 est.)<br>
 32.4 (2018 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 13.2% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 3.7% of household expenditures (2018 est.)<br>
+_on food_: 13.2% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 3.7% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>

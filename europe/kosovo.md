@@ -530,16 +530,16 @@ _Total energy consumption per capita 2019_: 51.462 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 383,763 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 6 (2019 est.)<br>
+_total subscriptions_: 383,763 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 25 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 562,000 (2015 est.)<br>
-_subscriptions per 100 inhabitants_: 32 (2015 est.)<br>
+_total subscriptions_: 1,777,859 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 98 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Kosovo has benefited from financial and regulatory assistance as part of the EU pre-accession process; the telecom sector has been liberalized, and legislation has aligned the sector with the EU&rsquo;s revised regulatory framework; poor telecom infrastructure has meant that fixed-line communication remains low by European standards; unlike most markets, the fixed-line broadband sector is dominated by new players; there is effective competition between the main cable and DSL operators, though as yet there is little progress with the expansion of fiber networks; the mobile sector accounts for most telecom lines for voice services, as well as the greater part of telecom revenue; two MNOs dominate the sector (2022 )<br>
-_domestic_: fixed-line roughly 6 per 100 and mobile-cellular 32 per 100 persons (2019)<br>
+_general assessment_: Kosovo has benefited from financial and regulatory assistance as part of the EU pre-accession process; the telecom sector has been liberalized, and legislation has aligned the sector with the EU&rsquo;s revised regulatory framework; infrastructure development includes WiMax and other municipal wireless internet services; digitalization of TV broadcasting; network upgrades include a 5G roll-out in the coming years (2022 )<br>
+_domestic_: fixed-line roughly 25 per 100 and mobile-cellular 98 per 100 persons (2022)<br>
 _international_: country code - 383<br>
 
 **Internet country code**<br>
@@ -585,7 +585,7 @@ _unpaved_: 91 km (2015)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Kosovo Security Force (KSF; Forca e Sigurisë së Kosovës or FSK): Land Force Command; Logistics Command; Doctrine and Training Command; National Guard Command (2022)<br>
+Kosovo Security Force (KSF; Forca e Sigurisë së Kosovës or FSK): Land Force Command; Logistics Command; Doctrine and Training Command; National Guard Command (2023)<br>
 <strong>note: </strong>as of 2022, the Kosovo Government continued the process of transitioning the KSF into a multi-ethnic territorial defense force, in accordance with a 10-year plan which began in 2019<br>
 
 **Military expenditures**<br>
@@ -602,7 +602,7 @@ approximately 3,300 KSF personnel, including reserves (2022)<br>
 the KSF is equipped with small arms and light vehicles and has relied on donated equipment from a variety of countries, particularly Turkey and the US (2022)<br>
 
 **Military service age and obligation**<br>
-service is voluntary; must be over the age of 18 and a citizen of Kosovo; upper age for enlisting is 30 for officers, 25 for other ranks, although these may be waived for recruits with key skills considered essential for the KSF<br> (2021)<br>
+service is voluntary; must be over the age of 18 and a citizen of Kosovo; upper age for enlisting is 30 for officers, 25 for other ranks, although these may be waived for recruits with key skills considered essential for the KSF<br> (2023)<br>
 
 **Military - note**<br>
 the NATO-led Kosovo Force (KFOR) has operated in the country as a peace support force since 1999; KFOR is responsible for providing a safe and secure environment and ensuring freedom of movement for all citizens, as well as assisting in developing the Kosovo Security Force; as of 2022, it numbered about 3,700 troops from 28 countries<br>

@@ -511,8 +511,8 @@ _female_: 18.4% (2021 est.)<br>
 36 (2020 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 28% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 7.4% of household expenditures (2018 est.)<br>
+_on food_: 28% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 7.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
@@ -650,16 +650,16 @@ _Total energy consumption per capita 2019_: 227.898 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 25,892,405 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 18 (2020 est.)<br>
+_total subscriptions_: 24 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 238,733,217 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 164 (2020 est.)<br>
+_total subscriptions_: 250 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 170 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom market is the largest in Europe, supported by a population approaching 147 million; the overall market is dominated by the western regions, particularly Moscow and St Petersburg which are the main cities and economic centers; all sectors of the market have been liberalized, with competition most prevalent in the two largest regional markets; the fiber broadband sector has shown considerable growth, supported by the government&rsquo;s program to extend the reach of broadband to outlying regions; the development of 5G services has been stymied by the lack of spectrum; although MNOs have licenses to use 700MHz spectrum for 5G, this spectrum will not be released until at least August 2023; progress is being made by MNOs to develop a joint strategy to deploy 5G using shared network and spectrum assets; mobile penetration is high, though this is partly due to the popularity of multiple SIM card use; there is pressure on operator revenue from the poor economic climate, lower pricing resulting from intense competition, regulatory measures introduced in 2018 which saw the end of roaming charges, and the effects of the Covid-19 pandemic (2022)<br>
-_domestic_: cross-country digital trunk lines run from Saint Petersburg to Khabarovsk, and from Moscow to Novorossiysk; the telephone systems in 60 regional capitals have modern digital infrastructures; cellular services, both analog and digital, are available in many areas; in rural areas, telephone services are still outdated, inadequate, and low-density; nearly 19 per 100 for fixed-line and mobile-cellular a bit over 164 per 100 persons (2020)<br>
+_domestic_: 16 per 100 for fixed-line and mobile-cellular is 170 per 100 persons (2021)<br>
 _international_: country code - 7; landing points for the Far East Submarine Cable System, HSCS, Sakhalin-Kuril Island Cable, RSCN, BCS North-Phase 2, Kerch Strait Cable and the Georgia-Russian submarine cable system connecting Russia, Japan, Finland, Georgia and Ukraine; satellite earth stations provide access to Intelsat, Intersputnik, Eutelsat, Inmarsat, and Orbita systems (2019)<br>
 
 **Broadcast media**<br>

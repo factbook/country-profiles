@@ -459,8 +459,8 @@ _female_: 46.2% (2021 est.)<br>
 NA<br>
 
 **Average household expenditures**<br>
-_On food_: 19.2% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 0.2% of household expenditures (2018 est.)<br>
+_on food_: 19.2% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 0.2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
@@ -596,16 +596,16 @@ _Total energy consumption per capita 2019_: 381.985 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 583,463 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 14 (2020 est.)<br>
+_total subscriptions_: 580,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,770,346 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 159 (2020 est.)<br>
+_total subscriptions_: 6,918,180 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 163 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Kuwait&rsquo;s telecom infrastructure is well developed, with a focus on mobile infrastructure and services; the telecom sector is important to the country&rsquo;s economy, and this will become more pronounced in coming years as the economy is purposefully transitioned away from a dependence on oil and gas to one which is increasingly knowledge-based and focused on ICT and related services; the MNOs have focused investment on 5G networks, which support and promote the growth of data traffic; this in turn has been a catalyst for revenue growth in recent quarters; while Kuwait&rsquo;s mobile sector shows considerable progress; the country&rsquo;s fixed broadband system is the lowest in the region; the government has stepped up efforts to build up fixed broadband networks, and ultimately this sector offers a potential future growth opportunity; improvements to the fixed broadband infrastructure will help develop sectors such as e-commerce, along with smart infrastructure developments, and tech start-ups (2022)<br>
-_domestic_: fixed-line subscriptions are nearly 14 per 100 and mobile-cellular stands at nearly 159 per 100 subscriptions (2020)<br>
+_domestic_: fixed-line subscriptions are nearly 13 per 100 and mobile-cellular stands at nearly 163 per 100 subscriptions (2021)<br>
 _international_: country code - 965; landing points for the FOG, GBICS, MENA, Kuwait-Iran, and FALCON submarine cables&nbsp;linking Africa, the Middle East, and Asia; microwave radio relay to Saudi Arabia; satellite earth stations - 6 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 1 Inmarsat - Atlantic Ocean, and 2 Arabsat) (2019)<br>
 
 **Broadcast media**<br>

@@ -538,16 +538,16 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,900 (2009 est.)<br>
-_subscriptions per 100 inhabitants_: 19 (2009 est.)<br>
+_total subscriptions_: (2018 est.) 0<br>
+_subscriptions per 100 inhabitants_: (2018 est.) 0<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 92 (2020 est.)<br>
+_total subscriptions_: 10,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 80 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: relies on satellite as the primary Internet service provider and mobile operator; internet connectivity on the island is very limited and unstable due to the vulnerability of the network infrastructure to bad weather and limited network coverage, with several blind spots (2022)<br>
-_domestic_: fixed-line 0 per 100 and mobile-cellular subscribership approximately 92 per 100 (2020)<br>
+_domestic_: fixed-line 0 per 100 and mobile-cellular subscribership approximately 80 per 100 (2021)<br>
 _international_: country code - 674; satellite earth station - 1 Intelsat (Pacific Ocean)<br>
 
 **Broadcast media**<br>

@@ -203,7 +203,7 @@ _unimproved: total_: total: 16.9% of population (2020 est.)<br>
 0.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 
@@ -283,7 +283,7 @@ _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 
@@ -498,8 +498,8 @@ _female_: 18.4% (2021 est.)<br>
 43.6 (2020 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 29.1% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 2.1% of household expenditures (2018 est.)<br>
+_on food_: 29.1% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 2.1% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 0.9%<br>

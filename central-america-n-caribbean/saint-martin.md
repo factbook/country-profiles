@@ -304,8 +304,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 68,840 (2017 est.)<br>
-_subscriptions per 100 inhabitants_: 196 (2019 est.)<br>
+_total subscriptions_: 68,840 (2012 est.)<br>
+_subscriptions per 100 inhabitants_: 196 (2012 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: fully integrated access; good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>

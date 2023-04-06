@@ -190,6 +190,7 @@ _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _animal contact diseases_: rabies<br>
+<strong>note: </strong>on 27 March 2023, the Centers for Disease Control and Prevention (CDC) issued a Travel Alert for Equatorial Guinea for an outbreak of Marburg virus disease; Marburg is a viral hemorrhagic fever spread by contact with blood or body fluids of a person infected with or who has died from Marburg; it is also spread by contact with contaminated objects (such as clothing, bedding, needles, and medical equipment) or by contact with animals, such as bats and nonhuman primates, who are infected with Marburg virus; infection with Marburg virus is often fatal and there are no approved vaccines or treatments for Marburg; avoid non-essential travel to the provinces where the outbreak is occurring; watch your health for symptoms of Marburg while in the outbreak area and for 21 days after leaving the outbreak area; consult the Centers for Disease Control and Prevention (CDC) Travel Health Notices for additional guidance<br>
 
 **Obesity - adult prevalence rate**<br>
 8% (2016)<br>
@@ -261,12 +262,13 @@ _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _animal contact diseases_: rabies<br>
+<strong>note: </strong>on 27 March 2023, the Centers for Disease Control and Prevention (CDC) issued a Travel Alert for Equatorial Guinea for an outbreak of Marburg virus disease; Marburg is a viral hemorrhagic fever spread by contact with blood or body fluids of a person infected with or who has died from Marburg; it is also spread by contact with contaminated objects (such as clothing, bedding, needles, and medical equipment) or by contact with animals, such as bats and nonhuman primates, who are infected with Marburg virus; infection with Marburg virus is often fatal and there are no approved vaccines or treatments for Marburg; avoid non-essential travel to the provinces where the outbreak is occurring; watch your health for symptoms of Marburg while in the outbreak area and for 21 days after leaving the outbreak area; consult the Centers for Disease Control and Prevention (CDC) Travel Health Notices for additional guidance<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 198,443 tons (2016 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 15.8 million cubic meters (2017 est.)<br>
+_municipal_: 20 million cubic meters (2020 est.)<br>
 _industrial_: 3 million cubic meters (2017 est.)<br>
 _agricultural_: 1 million cubic meters (2017 est.)<br>
 
@@ -663,7 +665,7 @@ the FAGE is armed with mostly older (typically Soviet-era) and second-hand weapo
 the FAGE&rsquo;s National Guard (Army) has only three small infantry battalions with limited combat capabilities; the country has invested heavily in naval capabilities in recent years to protect its oil installations and combat piracy and crime in the Gulf of Guinea; while the Navy was small, its inventory includes a light frigate and a corvette, as well as several off-shore patrol boats; the Air Force has only a few operational combat aircraft and ground attack-capable helicopters (2023)<br>
 
 **Maritime threats**<br>
-the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>
+the International Maritime Bureau reported two incidents in the offshore waters of Equatorial Guinea in 2022; one incident involved a boarding and kidnapping and the other where a ship was fired upon; the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 3 January 2023, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea&rdquo;<br>
 
 ## Transnational Issues
 

@@ -502,8 +502,8 @@ _female_: 15.7% (2021 est.)<br>
 37.9 (2021 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 31.7% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 7.2% of household expenditures (2018 est.)<br>
+_on food_: 31.7% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 7.2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
@@ -754,7 +754,7 @@ the military's inventory is a wide mix of Chinese, Russian, and Western (includi
 the TNI’s primary missions are internal security, responding to natural disasters, and protecting the country’s territorial waters; it has undergone reforms since the 1990s to improve its professionalism and limit involvement in internal politics; the infantry-heavy Army is the largest service and deployed throughout the country in 14 area (KODAM) and 3 joint area (KOGABWILHAN) defense commands, as well as a special forces command (KOPASSUS) and 3 strategic reserve (KOSTRAD) infantry division headquarters; as of 2023, it was conducting counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since Indonesia annexed the former Dutch colony in the 1960s; it has also been assisting police in Sulawesi in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local militant group affiliated with the Islamic State of Iraq and ash-Sham (ISIS); the Navy is organized and equipped for coastal defense and patrolling Indonesia’s territorial waters where it faces such issues as piracy, transnational crime, illegal fishing, and incursions by Chinese vessels; it has more than 30 frigates and corvettes, several attack-type submarines, and a force of coastal patrol vessels and maritime patrol aircraft; it also has an amphibious force with several marine infantry brigades and landing platform dock (LPD) amphibious assault ships; the Air Force has more than 100 combat aircraft <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, and held military exercises in the surrounding waters (2023)<br>
 
 **Maritime threats**<br>
-the International Maritime Bureau continues to report the territorial and offshore waters in the Strait of Malacca and South China Sea as high risk for piracy and armed robbery against ships; the number of attacks decreased from 26 incidents in 2020 to nine in 2021 due to aggressive maritime patrolling by regional authorities; vessels continue to be boarded while anchored or berthed at Indonesian ports with seven vessels attacked; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>
+the International Maritime Bureau continues to report the territorial and offshore waters in the Strait of Malacca and South China Sea as high risk for piracy and armed robbery against ships; the number of attacks in Indonesia increased to ten incidents in 2022 compared to nine in 2021; aggressive maritime patrolling by regional authorities has reduced the frequency of attacks in recent years; vessels continue to be boarded while anchored or berthed at Indonesian ports; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>
 
 ## Terrorism
 

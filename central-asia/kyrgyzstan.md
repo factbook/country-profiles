@@ -616,16 +616,16 @@ _Total energy consumption per capita 2019_: 35.059 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 299,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
+_total subscriptions_: 300,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8.511 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
+_total subscriptions_: 8.5 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 130 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the country&rsquo;s telecom sector (specifically the mobile segment) has been able to prosper; Kyrgyzstan has opened up its telecom market to competition; the mobile market has achieved high levels of penetration (140% in 2021) along with a fairly competitive operating environment with four major players; mobile broadband has come along strongly, reaching over 125% penetration in 2019 before falling back slightly during the Covid-19 crisis; slow-to-moderate growth is expected for both segments in coming years, supported by the anticipated rollout of 5G services starting from late 2022 (2022)<br>
-_domestic_: fixed-line penetration at nearly 5 per 100 persons remains low and concentrated in urban areas; mobile-cellular subscribership up to over 130 per 100 persons (2020)<br>
+_domestic_: fixed-line subscriptions 5 per 100; mobile-cellular subscribership up to over 130 per 100 persons (2021)<br>
 _international_: country code - 996; connections with other CIS (Commonwealth of Independent States, 9 members post-Soviet Republics in EU) countries by landline or microwave radio relay and with other countries by leased connections with Moscow international gateway switch and by satellite; satellite earth stations - 2 (1 Intersputnik, 1 Intelsat) (2019)<br>
 
 **Broadcast media**<br>

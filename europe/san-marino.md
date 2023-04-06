@@ -477,16 +477,16 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 16,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 47 (2020 est.)<br>
+_total subscriptions_: 16,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 47 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 39,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 115 (2020 est.)<br>
+_total subscriptions_: 40,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 119 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: automatic telephone system completely integrated into Italian system (2018)<br>
-_domestic_: fixed-line a little over 47 per 100 and mobile-cellular teledensity roughly 115 telephones per 100 persons (2020)<br>
+_domestic_: fixed-line is 47 per 100 and mobile-cellular teledensity is 119 telephones per 100 persons (2021)<br>
 _international_: country code - 378; connected to Italian international network<br>
 
 **Broadcast media**<br>

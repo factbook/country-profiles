@@ -509,8 +509,8 @@ _female_: 13.2% (2021 est.)<br>
 43.8 (2020 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 26.3% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 2.4% of household expenditures (2018 est.)<br>
+_on food_: 26.3% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 2.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.4%<br>
@@ -650,16 +650,16 @@ _Total energy consumption per capita 2019_: 36.465 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2.47 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 7 (2020 est.)<br>
+_total subscriptions_: 2,266,025 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 44 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
+_total subscriptions_: 43,129,394 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 128 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: after suffering a sharp retraction in the number of subscriptions and revenue during 2020 due to the pandemic, Peru&rsquo;s telecom sector managed to stage a small recovery in the first half of 2021; it will likely be two to three years before penetration rates return to the peak levels last seen in 2018; this is especially true given the overwhelming influence of mobile on Peru&rsquo;s telecommunications market, which now commands almost 95% of all connections; Peru&rsquo;s fixed-line teledensity continued its slow dropping below 7% at the end of 2021; investment in network infrastructure is mainly focused on rolling out fiber cable for fixed broadband services in (mainly) urban areas; fixed broadband services inched higher to reach 8.4% at the end of 2020, a positive result that reflected the shift to working from home during enforced lock downs at the start of the year; yet Peru has a relatively low level of computer use, and prices for fixed broadband services are among the highest in Latin America; the overwhelmingly preferred internet access platform will remain the smartphone, with a further 8.6% growth in the number of mobile broadband subscriptions expected in 2021 (2021)<br>
-_domestic_: fixed-line teledensity is nearly 7 per 100 persons; mobile-cellular teledensity, spurred by competition among multiple providers, now nearly 133 telephones per 100 persons; nationwide microwave radio relay system and a domestic satellite system with 12 earth stations (2020)<br>
+_domestic_: fixed-line teledensity is 7 per 100 persons; mobile-cellular teledensity is 128 telephones per 100 persons (2021)<br>
 _international_: country code - 51; landing points for the SAM-1, IGW, American Movil-Telxius, SAC&nbsp;and PAN-AM submarine cable systems that provide links to parts of Central and South America, the Caribbean, and US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
@@ -763,7 +763,7 @@ the military's inventory is a mix of mostly older equipment from a wide variety 
 the Peruvian security forces continue to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T<u>)</u>, particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; the military has several thousand troops in the VRAEM under a combined Special Command comprised of air, ground, naval, police, and special forces units (2023)<br>
 
 **Maritime threats**<br>
-the International Maritime Bureau reports the territorial waters of Peru are a risk for armed robbery against ships; in 2021, 18 attacks against commercial vessels were reported, a more than 50% increase over the eight attacks in 2020; all of these occurred in the main port of Callao while ships were berthed or at anchor<br>
+the International Maritime Bureau reports the territorial waters of Peru are a risk for armed robbery against ships; in 2022, 12 attacks against commercial vessels were reported, a slight decrease over the 18 attacks in 2021; all of these occurred in the main port of Callao while ships were berthed or at anchor<br>
 
 ## Terrorism
 

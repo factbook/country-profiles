@@ -443,16 +443,16 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,000 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 50 (2018 est.)<br>
+_total subscriptions_: 4,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 74 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,000 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 67 (2019 est.)<br>
+_total subscriptions_: 4,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 74 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: capability to&nbsp;communicate worldwide; ADSL- broadband service; LTE coverage of 95% of population, includes voice calls, text messages, mobile data as well as inbound and outbound roaming; Wi-Fi hotspots in Jamestown, 1 ISP, many services are not offered locally but made available for visitors; some sun outages due to the reliance of international telephone and Internet communication relying on single satellite link (2020)<br>
-_domestic_: automatic digital network; fixed-line roughly 50 per 100 and mobile-cellular nearly 67 per 100 persons (2019)<br>
+_domestic_: automatic digital network; fixed-line is 74 per 100 and mobile-cellular is 74 per 100 persons (2021)<br>
 _international_: country code (Saint Helena) - 290, (Ascension Island) - 247; landing point for the SaEx1 submarine cable providing connectivity to South Africa, Brazil, Virginia Beach (US) and islands in Saint Helena, Ascension and Tristan de Cunha; international direct dialing; satellite voice and data communications; satellite earth stations - 5 (Ascension Island - 4, Saint Helena - 1) (2019)<br>
 
 **Broadcast media**<br>

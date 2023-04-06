@@ -484,8 +484,8 @@ _female_: 16.2% (2021 est.)<br>
 30 (2019 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 18.2% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 7.3% of household expenditures (2018 est.)<br>
+_on food_: 18.2% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 7.3% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.3%<br>
@@ -741,7 +741,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,248 (Ukraine) (as of 20 March 2023)<br>
+_refugees (country of origin)_: 34,248 (Ukraine) (as of 27 March 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

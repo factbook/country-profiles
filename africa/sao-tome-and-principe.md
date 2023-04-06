@@ -596,16 +596,16 @@ _Total energy consumption per capita 2019_: 11.636 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,790 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total subscriptions_: 2,619 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 174,203 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 79 (2020 est.)<br>
+_total subscriptions_: 189,239 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 85 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: local telephone network of adequate quality with most lines connected to digital switches; mobile cellular superior choice to landland; dial-up quality low; broadband expensive (2018)<br>
-_domestic_: fixed-line roughly 1 per 100 and mobile-cellular teledensity roughly 79 telephones per 100 persons (2020)<br>
+_domestic_: fixed-line is 1 per 100 and mobile-cellular teledensity is 85 telephones per 100 persons (2021)<br>
 _international_: country code - 239; landing points for the Ultramar GE and ACE submarine cables&nbsp;from South Africa&nbsp;to over 20&nbsp;West African countries and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
@@ -673,7 +673,7 @@ the FASTP has a limited inventory of light weapons (2022)<br>
 the FASTP is one of the smallest militaries in Africa and consists of only a few companies of ground troops and some small patrol boats (2022)<br>
 
 **Maritime threats**<br>
-the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>
+the International Maritime Bureau reported no incidents in the territorial and offshore waters of Sao Tome and Principe in 2022; the offshore waters of the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; past incidents have been reported where vessels were attacked and crews kidnapped; these incidents showed that the pirates / robbers in the area are well armed and violent; pirates have robbed vessels and kidnapped crews for ransom; in the past, product tankers were hijacked and cargo stolen; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 3 January 2023, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>
 
 ## Transnational Issues
 

@@ -545,16 +545,16 @@ _Total energy consumption per capita 2019_: 12.61 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.18 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
+_total subscriptions_: 1.2 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
+_total subscriptions_: 6 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: following years of isolationism and economic under-achievement, North Korea languishes near the bottom of the world&rsquo;s telecom maturity index alongside Afghanistan and Turkmenistan (who also happen to be struggling under repressive political regimes); the obstacles to building a functioning telecom network are so numerous that a fixed-line segment barely exists; mobile communication is estimated to have eased up slightly to reach 19% in 2021, yet the high cost of ownership coupled with strict censorship makes mobile communications the exclusive domain of senior government officials and diplomats; for those citizens living close to China, it has been possible to obtain Chinese handsets and SIM cards, and to connect to towers (illegally) located just across the border; while this offers access to the outside world and at much lower prices than the state-controlled offerings, the risks are high including steep fines and the possibility of jail time; North Korea has been slightly more effective in building an IT sector and a nascent digital economy on the back of a concerted effort to grow a sizeable, well-trained IT workforce; but even here, its capabilities have been directed more towards nefarious activities such as cyber crime and hacking into Western countries&rsquo; computer systems; North Korea&rsquo;s determination to put itself offside with the rest of the world in pursuit of its ideology can only lead to tighter controls on communications inside and outside of the country (2022)<br>
-_domestic_: fixed-lines are approximately 5 per 100 and mobile-cellular 23 per 100 persons (2020)<br>
+_domestic_: fixed-lines are approximately 5 per 100 and mobile-cellular 23 per 100 persons (2021)<br>
 _international_: country code - 850; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Russian - Indian Ocean region); other international connections through Moscow and Beijing<br>
 
 **Broadcast media**<br>

@@ -491,8 +491,8 @@ _female_: 15% (2021 est.)<br>
 30.2 (2018 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 16.7% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 5.7% of household expenditures (2018 est.)<br>
+_on food_: 16.7% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 5.7% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3%<br>
@@ -638,7 +638,7 @@ _subscriptions per 100 inhabitants_: 132 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the liberalized telecom market has seen considerable development in the broadband and mobile sectors; the regulatory environment has encouraged market competition, partly by encouraging operators to secure spectrum and also by ensuring access to cable and fiber infrastructure; the mobile market in recent years has been characterized by the rapid extension of LTE networks and the development of mobile data services based on newly released and re-farmed spectrum; the regulator&rsquo;s attempts to auction spectrum in a range of bands has been delayed, with spectrum in the 5G-suitable 3.4-3.8GHz range having been suspended to later in 2021 as a result of the Covid-19 outbreak and legislative changes (2021)<br>
-_domestic_: several nation-wide networks provide mobile-cellular service; fixed-line roughly 14 per 100 (service lags in rural areas), mobile-cellular over 132 per 100 persons (2021)<br>
+_domestic_: fixed-line is 14 per 100 (service lags in rural areas), mobile-cellular is 132 per 100 persons (2021)<br>
 _international_: country code - 48; landing points for the Baltica and the Denmark-Poland2 submarine cables connecting Poland, Denmark and Sweden; international direct dialing with automated exchanges; satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and Intersputnik (2019)<br>
 
 **Broadcast media**<br>
@@ -755,7 +755,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,573,267 (Ukraine) (as of 21 March 2023)<br>
+_refugees (country of origin)_: 1,577,289 (Ukraine) (as of 27 March 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

@@ -307,9 +307,9 @@ Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 Nubian Aquifer System<br>
 
 **Total water withdrawal**<br>
-_municipal_: 10.75 billion cubic meters (2017 est.)<br>
-_industrial_: 5.4 billion cubic meters (2017 est.)<br>
-_agricultural_: 61.35 billion cubic meters (2017 est.)<br>
+_municipal_: 10.75 billion cubic meters (2020 est.)<br>
+_industrial_: 5.4 billion cubic meters (2020 est.)<br>
+_agricultural_: 61.35 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 57.5 billion cubic meters (2019 est.)<br>
@@ -500,8 +500,8 @@ _female_: 59.5% (2021 est.)<br>
 31.5 (2017 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 33.3% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 4.7% of household expenditures (2018 est.)<br>
+_on food_: 33.3% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 4.7% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4%<br>
@@ -752,6 +752,9 @@ voluntary enlistment possible from age 16 for men and women; 18-30 years of age 
 
 **Military - note**<br>
 since 2011, the Egyptian Armed Forces, police, and other security forces have been actively engaged in counterinsurgency and counter-terrorism operations in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham – Sinai Province; as of 2022, Egypt had tens of thousands of military troops, police, and other security personnel deployed in the Sinai for internal security duties; in addition, tribal militias were assisting Egyptian security forces<br><br>the military has a large stake in the civilian economy, including running banks, businesses, gas stations, shipping lines, and utilities, and producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing; the various enterprises are reportedly profitable enough to make the armed forces largely self-funded<br><br>Egypt has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br>the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; as of 2022, it was composed of about 1,150 troops from 13 countries; Colombia, Fiji, and the US were the leading providers of troops to the MFO (2022)<br>
+
+**Maritime threats**<br>
+the International Maritime Bureau reports the territorial waters of Egypt are a risk for armed robbery against ships; in 2022, one attempted attack against a commercial vessel was reported, this was the first incident reported in four years; the reported incident occurred in port while the ship was anchored<br>
 
 ## Terrorism
 

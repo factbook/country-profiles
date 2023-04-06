@@ -538,16 +538,16 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
+_total subscriptions_: 7,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 6 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 22,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 19 (2020 est.)<br>
+_total subscriptions_: 22,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 19 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: adequate system, the demand for mobile broadband is increasing due to mobile services being the primary and most wide-spread source for Internet access across the region (2020)<br>
-_domestic_: islands interconnected by shortwave radiotelephone, satellite (Intelsat) ground stations, and some coaxial and fiber-optic cable; mobile-cellular service available on the major islands; fixed line teledensity roughly 6 per 100 and mobile-cellular nearly 19 per 100 (2020)<br>
+_general assessment_: <p>Australia, Japan, and the United States are committed to working in partnership with the Federated States of Micronesia (FSM), Kiribati, and Nauru to improve internet connectivity to these three Pacific nations by providing funding to build a new undersea cable; the proposed undersea cable will provide faster, higher quality, and more reliable and secure communications to approximately 100,000 people across three countries; this will support increased economic growth, drive development opportunities, and help to improve living standards as the region recovers from the severe impacts of COVID-19; the new cable will connect Kosrae (FSM), Nauru, and Tarawa (Kiribati) with the existing HANTRU-1 cable at Pohnpei (FSM), providing internet connectivity through a submarine cable for the first time</p> (2021)<br>
+_domestic_: fixed line teledensity roughly 6 per 100 and mobile-cellular nearly 19 per 100 (2021)<br>
 _international_: country code - 691; landing points for the Chuukk-Pohnpei Cable and HANTRU-1 submarine cable system linking the Federated States of Micronesia and the US;&nbsp;satellite earth stations - 5 Intelsat (Pacific Ocean) (2019)<br>
 
 **Broadcast media**<br>

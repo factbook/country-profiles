@@ -77,7 +77,7 @@ lies near vital North Atlantic sea lanes; only 35 km from France and linked by t
 
 **Population**<br>
 68,138,484 (2023 est.) United Kingdom<br>
-<strong>constituent countries by percentage of total population: </strong><br>England 84.3%<br>Scotland 8.1%<br>Wales 4.7%<br>Northern Ireland 2.8%<br>
+<strong>constituent countries by percentage of total population: </strong><br>England 84.3%<br>Scotland 8.2%<br>Wales 4.6%<br>Northern Ireland 2.8%<br>
 
 **Nationality**<br>
 _noun_: Briton(s), British (collective plural)<br>
@@ -480,8 +480,8 @@ _female_: 11.8% (2021 est.)<br>
 34.8 (2016 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 8.1% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
+_on food_: 8.1% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>

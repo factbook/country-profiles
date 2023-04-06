@@ -302,12 +302,12 @@ _chief of state_: Co-prince Emmanuel MACRON (since 14 May 2017); represented by 
 _head of government_: Xavier Espot ZAMORA (since 16 May 2019)<br>
 _cabinet_: Executive Council of 12 ministers designated by the head of government<br>
 _elections/appointments_: head of government indirectly elected by the General Council (Andorran parliament), formally appointed by the co-princes for a 4-year term; election last held on 7 April 2019 (next to be held in April 2023); the leader of the majority party in the General Council is usually elected head of government<br>
-_election results_: <em>2019:</em>  Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7%<br><br><em>2015:</em> Antoni MARTI elected head of government; percent of General Council vote - 58.3%<br>
+_election results_: <em>2023: </em>Xaviar Espot ZAMORA (DA) re-elected head of government; percent of General Council vote - 57.1%<em><br>2019:</em>  Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7%<br><em>2015:</em> Antoni MARTI elected head of government; percent of General Council vote - 58.3%<br>
 
 **Legislative branch**<br>
 _description_: unicameral General Council of the Valleys or Consell General de les Valls (a minimum of 28 seats; 14 members directly elected in two-seat constituencies (7 parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - voters cast two separate ballots - one for a national list and one for a parish list<br>
-_elections_: last held on 7 April 2019 (next to be held in April 2023)<br>
-_election results_: percent of vote by party - DA 35.1%, PS 30.6%, L'A 12.5%, Third Way/Lauredian Union 10.4%, other 11.4%; seats by party - DA 11, PS 7, L'A 4, Third Way/Lauredian Union 4, other 2; composition - men 15, women 13, percent of women 46.4%<br>
+_elections_: last held on 2 April 2023 (next to be held in April 2027)<br>
+_election results_: percent of vote by party - DA 57.1%, Concord 17.8%, Forward 10.7%, SDP 10.7%, L'A 3.6%; seats by party - DA 16, Concord 5, Forward 3, SDP 3, L'A 1; composition - men 15, women 13, percent of women 46.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice of Andorra or Tribunal Superior de la Justicia d'Andorra (consists of the court president and 8 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tribunal Constitucional (consists of 4 magistrates)<br>
@@ -315,7 +315,7 @@ _judge selection and term of office_: Supreme Court president and judges appoint
 _subordinate courts_: Tribunal of Judges or Tribunal de Batlles; Tribunal of the Courts or Tribunal de Corts<br>
 
 **Political parties and leaders**<br>
-Democrats for Andorra or DA [Xaviar ESPOT ZAMORA]<br>Liberals of Andorra or L'A [Jordi GALLARDO FERNANDEZ]<br>Social Democracy and Progress or SDP [Victor NAUDI ZAMORA]<br>Social Democratic Party or PS [Susanna VELA]<br>Third Way/Lauredian Union [Josep PINTAT FORNE]<br>United for the Progress of Andorra or UPA [Alfons CLAVERA ARIZTI]<br>
+Concord [Cerni ESCALE]<br>Democrats for Andorra or DA [Xaviar ESPOT ZAMORA]<br>Forward Andorra [Carine MONTANER]<br>Liberals of Andorra or L'A [Jordi GALLARDO FERNANDEZ]<br>Social Democracy and Progress or SDP [Pere Lopez AGRAS]<br>
 <strong>note:</strong> Andorra has several smaller parties at the parish level (one is Lauredian Union)<br>
 
 **International organization participation**<br>

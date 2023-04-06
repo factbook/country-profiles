@@ -578,16 +578,16 @@ _Total energy consumption per capita 2019_: 9.335 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 33 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 10 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 54,661 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 46 (2020 est.)<br>
+_total subscriptions_: 54,527 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 42 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: generally good national and international service; wireline service available on Tarawa and Kiritimati (Christmas Island); connections to outer islands by HF/VHF radiotelephone; recently formed (mobile network operator) MNO is implementing the first phase of improvements with 3G and 4G upgrades on some islands; islands are connected to each other and the rest of the world via satellite; launch of Kacific-1 in December 2019 will improve telecommunication for Kiribati (2020)<br>
-_domestic_: fixed-line less than 1 per 100 and mobile-cellular approximately 46 per 100 subscriptions (2020)<br>
+_domestic_: fixed-line less than 1 per 100 and mobile-cellular approximately 42 per 100 subscriptions (2021)<br>
 _international_: country code - 686; landing point for the Southern Cross NEXT submarine cable system from Australia, 7 Pacific Ocean island countries to the US; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 
 **Broadcast media**<br>

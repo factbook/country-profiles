@@ -465,8 +465,8 @@ _female_: 15.5% (2021 est.)<br>
 24.2 (2017 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 14.6% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 5.1% of household expenditures (2018 est.)<br>
+_on food_: 14.6% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 5.1% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8%<br>
@@ -603,16 +603,16 @@ _Total energy consumption per capita 2019_: 134.836 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 704,909 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 34 (2020 est.)<br>
+_total subscriptions_: 695,444 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 33 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,511,980 (2019)<br>
-_subscriptions per 100 inhabitants_: 120.85 (2019)<br>
+_total subscriptions_: 2,607,268 (2021)<br>
+_subscriptions per 100 inhabitants_: 123 (2021)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Slovenia&rsquo;s telecom sector is dominated by four operators; the mobile market has four MNOs and a small number of MVNOs, operating in a country with a potential market of just over two million people; the regulator in recent years has addressed the need for mobile operators to have more spectrum, so enabling them to improve the quality and range of services; a multi-spectrum auction was concluded in mid-2021, aimed at supporting 5G services; the broadband market continues to be dominated by a small number of players; DSL lost its dominance some years ago, being taken over by fiber as subscribers are migrated to new fiber-based networks; fiber accounted for almost half of all fixed broadband connections by March 2022 (2022)<br>
-_domestic_: fixed-line nearly 34 per 100 and mobile-cellular over 122 per 100 teledensity (2020)<br>
+_domestic_: fixed-line is 33 per 100 and mobile-cellular is 123 per 100 teledensity (2021)<br>
 _international_: country code - 386 (2016)<br>
 
 **Broadcast media**<br>
@@ -678,7 +678,7 @@ _major seaport(s)_: Koper<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force with air, land, maritime, special operations, combat support, and combat service support elements (2022)<br>
+Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force with air, land, maritime, special operations, combat support, and combat service support elements (2023)<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2022 est.)<br>
@@ -694,7 +694,7 @@ approximately 6,000 active-duty troops (2022)<br>
 the military's inventory is a mix of Soviet-era and smaller quantities of more modern Russian and Western equipment (2022)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service for men and women; conscription abolished in 2003 (2021)<br>
+18-25 years of age for voluntary military service for men and women; must be a citizen of the Republic of Slovenia; recruits sign up for 3-, 5-, or 10-year service contracts; conscription abolished in 2003 (2023)<br>
 <strong>note:</strong> as of 2019, women comprised about 15% of the military's full-time personnel<br>
 
 **Military deployments**<br>
@@ -710,9 +710,9 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,119 (Ukraine) (as of 19 March 2023)<br>
+_refugees (country of origin)_: 9,156 (Ukraine) (as of 27 March 2023)<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  </strong>572,570 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
+<strong>note:  </strong>572,520 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

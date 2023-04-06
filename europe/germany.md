@@ -485,8 +485,8 @@ _female_: 6.6% (2021 est.)<br>
 31.7 (2018 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 10.7% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
+_on food_: 10.7% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>
@@ -752,7 +752,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,055,323 (Ukraine) (as of 31 January 2023)<br>
+_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,056,628 (Ukraine) (as of 25 March 2023)<br>
 _stateless persons_: 28,941 (2022)<br>
 
 **Illicit drugs**<br>

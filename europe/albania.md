@@ -324,7 +324,7 @@ Independence Day, 28 November (1912), also known as Flag Day<br>
 
 **Constitution**<br>
 _history_: several previous; latest approved by the Assembly 21 October 1998, adopted by referendum 22 November 1998, promulgated 28 November 1998<br>
-_amendments_: proposed by at least one fifth of the Assembly membership; passage requires at least a two-thirds majority vote by the Assembly; referendum required only if approved by two thirds of the Assembly; amendments approved by referendum effective upon declaration by the president of the republic; amended several times, last in 2020<br>
+_amendments_: proposed by at least one-fifth of the Assembly membership; passage requires at least a two-thirds majority vote by the Assembly; referendum required only if approved by two-thirds of the Assembly; amendments approved by referendum effective upon declaration by the president of the republic; amended several times, last in 2020<br>
 
 **Legal system**<br>
 civil law system except in the northern rural areas where customary law known as the "Code of Leke" is still present<br>

@@ -454,12 +454,12 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,000 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 62 (2018 est.)<br>
+_total subscriptions_: 1,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 52 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: in 2020, the Manatua One Polynesia Fiber Cable provided Niue with high speed Internet access for the first time replacing a 4 megabit satellite link with gigabit fiber connectivity; the government set out a strategy to upgrade to a new infrastructure that would be robust enough to operate reliably in a challenging climate: 40 40&deg;C heat, 40% humidity, salty air, frequent power outages during storms, and no air conditioning (2022)<br>
-_domestic_: single-line (fixed line) telephone system connects all villages on island; fixed teledensity at nearly 62 per 100 (2018)<br>
+_domestic_: single-line (fixed line) telephone system connects all villages on island; fixed teledensity at nearly 52 per 100 (2021)<br>
 _international_: country code - 683; landing point for the Manatua submarine cable linking Niue to several South Pacific Ocean Islands; expansion of satellite services (2019)<br>
 
 **Broadcast media**<br>

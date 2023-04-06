@@ -445,16 +445,16 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 20,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
+_total subscriptions_: 20,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 40 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 20,474 (2004 est.)<br>
-_subscriptions per 100 inhabitants_: 36 (2004)<br>
+_subscriptions per 100 inhabitants_: 28 (2004)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: digital fiber-optic cables and satellites connect the islands to worldwide networks; demand for broadband growing given that mobile services are the source for Internet across region; future launch of 5G (2020)<br>
-_domestic_: wide variety of services available including dial-up and broadband Internet, mobile cellular, international private lines, payphones, phone cards, voicemail, and automatic call distribution systems; fixed-line teledensity roughly 35 per 100 persons (2020)<br>
+_domestic_: fixed-line teledensity is 40 per 100 persons; mobile cellular subscriptions are 28 per 100 (2021)<br>
 _international_: country code - 1-670; landing points for the Atisa and Mariana-Guam submarine cables linking Mariana islands to Guam; satellite earth stations - 2 Intelsat (Pacific Ocean) (2019)<br>
 
 **Broadcast media**<br>

@@ -390,8 +390,8 @@ _services_: 59.2% (2016 est.)<br>
 33.6 (2014)<br>
 
 **Average household expenditures**<br>
-_On food_: 14.7% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
+_on food_: 14.7% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 6.4% (2010)<br>

@@ -349,7 +349,7 @@ _history_: previous 1975, 1990; latest adopted 16 November 2004, effective 21 De
 _amendments_: proposed by the president of the republic or supported by at least one third of the Assembly of the Republic membership; passage of amendments affecting constitutional provisions, including the independence and sovereignty of the state, the republican form of government, basic rights and freedoms, and universal suffrage, requires at least a two-thirds majority vote by the Assembly and approval in a referendum; referenda not required for passage of other amendments; amended 2007, 2018<br>
 
 **Legal system**<br>
-mixed legal system of Portuguese civil law and customary law; note - in rural, apply where applicable predominantly Muslim villages with no formal legal system, Islamic law may be applied<br>
+mixed legal system of Portuguese civil law and customary law<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -371,9 +371,9 @@ _elections/appointments_: president elected directly by absolute majority popula
 _election results_: <em>2019</em>: Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 73.0%, Ossufo MOMADE (RENAMO) 21.9%, Daviz SIMANGO (MDM) 5.1%<br><br><em>2014</em>:  Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 57.0%, Afonso DHLAKAMA (RENAMO) 36.6%, Daviz SIMANGO (MDM) 6.4% <br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly of the Republic or Assembleia da Republica (250 seats; 248 members elected in multi-seat constituencies by party-list proportional representation vote and 2 members representing Mozambicans abroad directly elected by simple majority vote; members serve 5-year terms) (2019)<br>
-_elections_: last held on 15 October 2019 (next to be held on 15 October 2024) (2019)<br>
-_election results_: percent of vote by party - FRELIMO 71%, RENAMO 23%, MDM 4%; seats by party - FRELIMO 184, RENAMO 60, MDM 6; composition as of July 2022 - men 144, women 106, percent of women 42.4% (2019)<br>
+_description_: unicameral Assembly of the Republic or Assembleia da Republica (250 seats; 248 members elected in multi-seat constituencies by party-list proportional representation vote and 2 members representing Mozambicans abroad directly elected by simple majority vote; members serve 5-year terms)<br>
+_elections_: last held on 15 October 2019 (next to be held on 15 October 2024)<br>
+_election results_: percent of vote by party - FRELIMO 71%, RENAMO 23%, MDM 4%; seats by party - FRELIMO 184, RENAMO 60, MDM 6; composition as of July 2022 - men 144, women 106, percent of women 42.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president, vice president, and 5 judges); Constitutional Council (consists of 7 judges); note - the Higher Council of the Judiciary Magistracy is responsible for judiciary management and discipline<br>
@@ -636,15 +636,16 @@ _Total energy consumption per capita 2019_: 8.107 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 89,016 (2020 est.)<br>
+_total subscriptions_: 59,682 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 15,463,226 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 49 (2020 est.)<br>
+_total subscriptions_: 13,686,234 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 43 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the first countries in the region to embark upon telecom reform and to open the sector to competition; the mobile segment in particular has shown strong growth; additional competition followed in late 2020; a new licensing regime ensured that by mid-2019 all operators had been provided with universal licenses, enabling them to offer all types of telephony and data services; mobile, fixed-line and broadband penetration rates remain far below the average for the region; in recent years the government has enforced the registration of SIM cards, but with varying success; at the end of 2016 almost five million unregistered SIM cards were deactivated but poor monitoring meant that the process was revisited in mid-2019 and again in late 2020; the high cost of international bandwidth had long hampered internet use, though the landing of two international submarine cables (SEACOM and EASSy) has reduced the cost of bandwidth and so led to drastic reductions in broadband retail prices as well as a significant jump in available bandwidth; there is some cross-platform competition, with DSL, cable, fibre, WiMAX, and mobile broadband options available, though fixed broadband options can be limited to urban areas; improvements can be expected from the ongoing rollout of a national fiber backbone networks and of upgrades to mobile infrastructure (2022)<br>
-_domestic_: extremely low fixed-line teledensity contrasts with rapid growth in the mobile-cellular network; operators provide coverage that includes all the main cities and key roads; fixed-line less than 1 per 100 and nearly 49 per 100 mobile-cellular teledensity (2020)<br>
+_domestic_: fixed-line less than 1 per 100 and nearly 43 per 100 mobile-cellular teledensity (2021)<br>
 _international_: country code - 258; landing points for the EASSy and SEACOM/ Tata TGN-Eurasia fiber-optic submarine cable systems linking numerous&nbsp;east African&nbsp;countries, the Middle East and Asia&nbsp;; satellite earth stations - 5 Intelsat (2 Atlantic Ocean and 3 Indian Ocean); TdM contracts for Itelsat for satellite broadband and bulk haul services (2020)<br>
 
 **Broadcast media**<br>
@@ -716,7 +717,7 @@ _LNG terminal(s) (export)_: Coral Sul (FLNG)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army, Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: Mozambique National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force; other security forces include the Presidential Guard and the Force for the Protection of High-Level Individuals (2022)<br>
+Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army, Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: Mozambique National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force; other security forces include the Presidential Guard and the Force for the Protection of High-Level Individuals (2023)<br>
 <strong>note 1: </strong>the FADM and other security forces are referred to collectively as the Defense and Security Forces (DFS)<br><strong><br>note 2:</strong> the PRM, SERNIC, and the UIR are responsible for law enforcement and internal security; the Border Security Force is responsible for protecting the country’s international borders and for carrying out police duties within 24 miles of borders<br><strong><br>note 3</strong>: the Presidential Guard provides security for the president, and the Force for the Protection of High-level Individuals provides security for senior-level officials at the national and provincial<br>
 
 **Military expenditures**<br>
@@ -736,7 +737,7 @@ the FADM's inventory consists primarily of Soviet-era equipment, although in rec
 registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; 24-month service obligation (2023)<br>
 
 **Military - note**<br>
-the FADM is responsible for external security, cooperating with police on internal security, and responding to natural disasters and other emergencies; the current primary focus of the FADM is countering an insurgency driven by militants with ties to the Islamic State of Iraq and ash-Sham (ISIS) terrorist group in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and the fighting has left over 4,000 estimated dead and approximately 1 million displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; several countries from the Southern Africa Development Community (SADC) and the EU, as well as Rwanda and the US are providing various forms of military assistance; the SADC countries and Zambia have sent more than 3,000 military and security personnel, while the EU and the US have provided training assistance (2023)<br>
+the FADM is responsible for external security, cooperating with police on internal security, and responding to natural disasters and other emergencies; the current primary focus of the FADM is countering an insurgency driven by militants with ties to the Islamic State of Iraq and ash-Sham (ISIS) terrorist group in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and the fighting has left over 4,000 estimated dead and approximately 1 million displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; several countries from the Southern Africa Development Community (SADC) and the EU, as well as Rwanda and the US are providing various forms of military assistance; the SADC countries and Zambia have sent more than 3,000 military and security personnel, while the EU and the US have provided training assistance<br><br>the Mozambique Government reportedly has created a Local Force comprised of ex-combatants and other civilians who support FADM troops operating in Cabo Delgado; the FADM provides training, uniforms, weapons, and logistical support to the Local Forces (2023)<br>
 
 ## Terrorism
 

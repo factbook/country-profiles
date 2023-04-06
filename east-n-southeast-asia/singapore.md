@@ -466,8 +466,8 @@ NA<br>
 45.9 (2017)<br>
 
 **Average household expenditures**<br>
-_On food_: 6.9% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 1.9% of household expenditures (2018 est.)<br>
+_on food_: 6.9% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 1.9% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.6%<br>
@@ -606,16 +606,16 @@ _Total energy consumption per capita 2019_: 639.951 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.891 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 32 (2020 est.)<br>
+_total subscriptions_: 1,887,500 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 32 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 9,034,300 (2019)<br>
-_subscriptions per 100 inhabitants_: 156 (2019)<br>
+_total subscriptions_: 8,660,700 (2021)<br>
+_subscriptions per 100 inhabitants_: 146 (2021)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; the government's telecommunication regulator, Infocomm Media Development Authority (IMDA), issued awards in mid-2020 to telecom operators with the goal of having at least 50% of the city-state covered with a standalone 5G network by the end of 2022; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers and controls Internet content; well served by submarine cable and satellite connections (2021)<br>
-_domestic_: excellent domestic facilities; fixed-line roughly 32 per 100 and mobile-cellular 144 per 100 teledensity; multiple providers of high-speed Internet connectivity (2020)<br>
+_domestic_: fixed-line is 32 per 100 and mobile-cellular 146 per 100 teledensity (2021)<br>
 _international_: country code - 65; landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, i2icn,&nbsp;PGASCOM, BSCS,&nbsp;IGG,&nbsp;B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, ASE, EAC-C2C, Matrix Cable System and SJC2 submarine cables providing links throughout Asia, Southeast Asia, Africa, Australia, the Middle East, and Europe; satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa; supplemented by VSAT coverage (2019 )<br>
 
 **Broadcast media**<br>
@@ -700,7 +700,7 @@ maintains permanent training detachments of military personnel in Australia, Fra
 Singapore is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965; the SAF is widely viewed as the best equipped military in southeast Asia; the Army is largely based on conscripts and reservists with a small cadre of professional soldiers, while the Air Force and Navy are primarily comprised of well-trained professionals (2022)<br>
 
 **Maritime threats**<br>
-the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift; the Singapore Straits saw 35 attacks against commercial vessels in 2021, a 50% increase over 2020 and the highest number of incidents reported since 1992; vessels were boarded in 33 of the 35 incidents, one crew was injured, another assaulted and two threatened during these incidents<br>
+the International Maritime Bureau reported that incidents in the Singapore Straits continue to increase year on year with 38 in 2022 compared to 35 in 2021; vessels were successfully boarded in all 38 incidents in 2022; while the majority of vessels boarded reported incidents as predominately low-level opportunistic thefts, four crew were taken hostage and a further two threatened during these incidents; the majority of incidents were reported during the hours of darkness and while vessels were underway; the territorial and offshore waters in the South China Sea remain a high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift<br>
 
 ## Terrorism
 

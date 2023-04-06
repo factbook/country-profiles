@@ -466,8 +466,8 @@ _female_: 38.4% (2021 est.)<br>
 33 (2018 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 30.8% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 7.3% of household expenditures (2018 est.)<br>
+_on food_: 30.8% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 7.3% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
@@ -604,16 +604,16 @@ _Total energy consumption per capita 2019_: 53.572 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 415,390 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 20 (2020 est.)<br>
+_total subscriptions_: 425,646 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 20 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,862,138 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 89 (2020 est.)<br>
+_total subscriptions_: 1,941,352 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 92 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: as part of the EU pre-accession process, North Macedonia has built closer economic ties with the Union which accounts for 77.5% of Macedonia&rsquo;s exports and just over half of its imports; closer regulatory and administrative ties with European Commission (EC) institutions have done much to develop the telecom sector and prepare the market for the competitive environment encouraged in the EU; as part of EU integration legislation North Macedonia has implemented the principles of the EU&rsquo;s regulatory framework for communications, established an independent regulator and set out several provisions to provide for a competitive telecom market, including wholesale access to the incumbent&rsquo;s fixed-line network; broadband services are widely available, with effective competition between DSL and cable platforms complemented by wireless broadband and a developing fiber sector; the number of DSL subscribers has continued to fall in recent years as customers are migrated to fiber networks; the MNOs are increasingly focused on expanding their 5G networks, seeking stronger coverage across North Macedonia&rsquo;s high value urban areas; mobile data services are also becoming increasingly important following investments in LTE network rollouts and in upgrades to LTE-A technology (2022)<br>
-_domestic_: fixed-line roughly 20 per 100 and mobile-cellular 89 per 100 subscriptions (2020)<br>
+_domestic_: fixed-line roughly 20 per 100 and mobile-cellular 92 per 100 subscriptions (2021)<br>
 _international_: country code - 389<br>
 
 **Broadcast media**<br>
@@ -662,7 +662,7 @@ _unpaved_: 4,549 km (2017)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Army of the Republic of North Macedonia (ARSM; includes a General Staff and subordinate Operations Command, Logistic Support Command, Training and Doctrine Command, Center for Electronic Reconnaissance, Aviation Brigade, and Honor Guard Battalion) (2022)<br>
+Army of the Republic of North Macedonia (ARSM): includes a General Staff and subordinate Operations Command, Logistic Support Command, Training and Doctrine Command, Center for Electronic Reconnaissance, Aviation Brigade, and Honor Guard Battalion (2023)<br>
 <strong>note:</strong> the Operations Command includes air, ground, special operations, support, and reserve forces<br>
 
 **Military expenditures**<br>
@@ -679,8 +679,8 @@ approximately 6,000 active duty personnel (2022)<br>
 the military's inventory consists mostly of Soviet-era equipment, although in recent years it has received small amounts of more modern equipment from countries such as Turkey and the US (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; conscription abolished in 2007 (2021)<br>
-<strong>note:</strong> as of 2022, women made up about 10% of the military's full-time personnel<br>
+18 years of age for voluntary military service; conscription abolished in 2007 (2023)<br>
+<strong>note:</strong> as of 2023, women made up about 10.6% of the military's full-time personnel<br>
 
 **Military - note**<br>
 North Macedonia became the 30th member of NATO in 2020; as of 2022, Greece provided NATO's air policing mission for North Macedonia<br>
@@ -697,7 +697,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,538 (Ukraine) (as of 19 March 2023)<br>
+_refugees (country of origin)_: 6,571 (Ukraine) (as of 27 March 2023)<br>
 _stateless persons_: 521 (2022)<br>
 <strong>note:</strong> 552,030 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
 

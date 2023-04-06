@@ -509,8 +509,8 @@ _female_: 8.2% (2021 est.)<br>
 29.6 (2018 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 39.5% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 1.1% of household expenditures (2018 est.)<br>
+_on food_: 39.5% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 1.1% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4%<br>
@@ -649,16 +649,16 @@ _Total energy consumption per capita 2019_: 15.859 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,876,794 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total subscriptions_: 2,989,133 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 175,624,364 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 80 (2020 est.)<br>
+_total subscriptions_: 188,711,452 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 82 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Pakistan&rsquo;s telecom market transitioned from a regulated state-owned monopoly to a deregulated competitive structure in 2003, now aided by foreign investment; moderate growth over the last six years, supported by a young population and a rising use of mobile services; telecom infrastructure is improving, with investments in mobile-cellular networks, fixed-line subscriptions declining; system consists of microwave radio relay, coaxial cable, fiber-optic cable, cellular, and satellite networks; 4G mobile services broadly available; 5G tests ongoing; data centers in major cities; mobile and broadband doing well and dominate over fixed-broadband sector; future growth (in market size as well as revenue) is likely to come from the wider availability of value-added services on top of the expansion of 4G LTE and (from 2023) 5G mobile networks; the Universal Service Fund (USF) continues to direct investment towards the development of mobile broadband (and, to a lesser extent, fiber-based networks) in under-served and even under served areas of the country, with multiple projects being approved to start in 2021 and 2022 (2021)<br>
-_domestic_: mobile-cellular subscribership has increased; more than 90% of Pakistanis live within areas that have cell phone coverage; fiber-optic networks are being constructed throughout the country to increase broadband access and broadband penetration in Pakistan is increasing--by the end of 2021, 50% of the population had access to broadband services; fixed-line teledensity is a little over 1 per 100 and mobile-cellular roughly 84 per 100 persons (2021)<br>
+_domestic_: mobile-cellular subscribership has increased; more than 90% of Pakistanis live within areas that have cell phone coverage; fiber-optic networks are being constructed throughout the country to increase broadband access and broadband penetration in Pakistan is increasing--by the end of 2021, 50% of the population had access to broadband services; fixed-line teledensity is a little over 1 per 100 and mobile-cellular roughly 82 per 100 persons (2021)<br>
 _international_: country code - 92; landing points for the SEA-ME-WE-3, -4, -5, AAE-1, IMEWE, Orient Express, PEACE Cable,&nbsp;and TW1 submarine cable systems that provide links to Europe, Africa, the Middle East, Asia, Southeast Asia, and Australia; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian Ocean); 3 operational international gateway exchanges (1 at Karachi and 2 at Islamabad); microwave radio relay to neighboring countries (2019)<br>
 
 **Broadcast media**<br>

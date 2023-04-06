@@ -668,7 +668,7 @@ the FACV has a limited amount of mostly dated and second-hand equipment, largely
 18-35 years of age for male and female selective compulsory military service; 24-month conscript service obligation; 17 years of age for voluntary service (with parental consent) (2023)<br>
 
 **Military - note**<br>
-as of 2022, the FACV/National Guard was mostly a ground force with 2 infantry battalions and a small air component with a maritime patrol squadron; the Coast Guard had a few coastal patrol craft and patrol boats<br>
+the FACV/National Guard is mostly a ground force with 2 infantry battalions and a small air component with a maritime patrol squadron; the Coast Guard had a few coastal patrol craft and patrol boats (2023)<br>
 
 ## Transnational Issues
 

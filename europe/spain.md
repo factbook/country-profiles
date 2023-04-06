@@ -486,8 +486,8 @@ _female_: 38.2% (2021 est.)<br>
 34.7 (2017 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 12.1% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 3.5% of household expenditures (2018 est.)<br>
+_on food_: 12.1% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 3.5% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.5%<br>
@@ -746,9 +746,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 170,973 (Ukraine) (as of 16 March 2023)<br>
+_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 171,865 (Ukraine) (as of 26 March 2023)<br>
 _stateless persons_: 6,489 (2022)<br>
-<strong>note: </strong>282,733 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2023)<br>
+<strong>note: </strong>283,053 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing indoor cannabis production; illegal labs cutting, mixing, and reconstituting cocaine, heroin, and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the US<br>

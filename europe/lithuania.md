@@ -474,8 +474,8 @@ _female_: 19.6% (2021 est.)<br>
 35.3 (2019 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 21.2% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 5.9% of household expenditures (2018 est.)<br>
+_on food_: 21.2% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 5.9% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
@@ -622,7 +622,7 @@ _subscriptions per 100 inhabitants_: 134 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Lithuania&rsquo;s small telecoms market is among the more advanced in Europe, particularly given the universal access to LTE infrastructure and the extensive fiber footprint; investment has been focused on fiber broadband and mobile network upgrades; fiber is now by far the dominant fixed broadband platform, with the number of DSL and cable connections in steady decline; SIM card penetration is relatively high for the region, with a growing proportion of subscribers being on higher-Average Revenue Per User (ARPU) contract plans; while LTE services are available nationally, operators have made steady investments in 5G; the regulator has helped the network operators to develop 5G by allowing them to repurpose spectrum in the 2.1GHz and 2.4GHz bands; the regulator is expected to complete the auction of spectrum in the 700MHz and 3.4GHz bands later in 2022; service obligations on the licenses include the provision of services to the five main cities by the end of 2023 (2021)<br>
-_domestic_: nearly 10 per 100 for fixed-line subscriptions; expansion of mobile-cellular services has resulted in a steady decline in the number of fixed-line connections; mobile-cellular teledensity stands at about 134 per 100 persons (2021)<br>
+_domestic_: nearly 10 per 100 for fixed-line subscriptions; mobile-cellular subscriptions at 134 per 100 persons (2021)<br>
 _international_: country code - 370; landing points for the BCS East, BCS East-West Interlink and NordBalt connecting Lithuania to Sweden, and Latvia&nbsp;; further transmission by satellite; landline connections to Latvia and Poland (2019)<br>
 
 **Broadcast media**<br>
@@ -724,7 +724,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 75,197 (Ukraine) (as of 27 February 2023)<br>
+_refugees (country of origin)_: 76,155 (Ukraine) (as of 27 March 2023)<br>
 _stateless persons_: 2,720 (2022)<br>
 
 **Illicit drugs**<br>

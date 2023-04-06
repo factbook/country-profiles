@@ -197,7 +197,7 @@ _unimproved: total_: total: 46% of population (2020 est.)<br>
 0.6% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 _water contact diseases_: schistosomiasis<br>
@@ -281,7 +281,7 @@ _rate of urbanization_: 4.75% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 _water contact diseases_: schistosomiasis<br>
@@ -693,8 +693,8 @@ _unpaved_: 11,662 km (2014)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Burkina Faso (FABF): Army of Burkina Faso (L’Armee de Terre, LAT), Air Force of Burkina Faso (Force Aerienne de Burkina Faso, FABF), National Gendarmerie; Volunteers for the Defense of the Fatherland (VDP) (2022)<br>
-<strong>note 1:</strong> the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Security and the Ministry of Justice; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations; specialized counterterrorism units include the Army's special forces, the Special Legion of the National Gendarmerie, and the Multipurpose Intervention Unit of National Police<br><br><strong>note 2:</strong> the VDP is a civilian defense force established in 2019 to act as auxiliaries to the Army in the fight against militants; the volunteers receive two weeks of training and typically assist with carrying out surveillance, information-gathering, and escort duties<br><br>
+Armed Forces of Burkina Faso ((FABF; aka National Armed Forces (FAN), aka Defense and Security Forces (Forces de Défense et de Sécurité or FDS)): Army of Burkina Faso (L’Armee de Terre, LAT), Air Force of Burkina Faso (Force Aerienne de Burkina Faso), National Gendarmerie, National Fire Brigade (Brigade Nationale de Sapeurs-Pompiers or BNSP); Homeland Defense Volunteers (Forcés de Volontaires de Défense pour la Patrie or VDP); Ministry of Territorial Administration, Decentralization and Security (Ministère de l'Administration Territoriale, de la Décentralisation et de la Sécurité): National Police (2023)<br>
+<strong>note 1:</strong> the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Territorial Administration, Decentralization, and Security; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations; specialized counterterrorism units include the Army's special forces, the Special Legion of the National Gendarmerie, and the Multipurpose Intervention Unit of National Police<br><br><strong>note 2:</strong> the VDP is a lightly-armed civilian defense force established in 2019 to act as auxiliaries to the Army in the fight against militants; the volunteers receive two weeks of training and typically assist with carrying out surveillance, information-gathering, and escort duties, as well as local defense, and were to be based in each of the country's more than 300 municipalities; in 2022, the military government created a "Patriotic Watch and Defense Brigade" (La Brigade de Veille et de Défense Patriotique or BVDP) under the FABF to coordinate the VDP recruits<br>
 
 **Military expenditures**<br>
 2.4% of GDP (2021 est.)<br>
@@ -704,11 +704,11 @@ Armed Forces of Burkina Faso (FABF): Army of Burkina Faso (L’Armee de Terre, L
 1.4% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 13,000 personnel (8,000 Army; 500 Air Force; 4,500 National Gendarmerie) (2022)<br>
-<strong>note: </strong>in 2022, the Burkina Faso Government announced a special recruitment for 3,000 additional soldiers to assist with its fight against terrorist groups operating in the country; it also put out a recruitment call for up to 50,000 VDF volunteers (the VDF's original recruited strength was 15,000)<br><strong><br><br></strong><br>
+approximately 14,000 personnel (8,500 Army; 500 Air Force; 5,000 National Gendarmerie) (2023)<br>
+<strong>note: </strong>in 2022, the Burkina Faso Government announced a special recruitment for up to 6,000 additional soldiers to assist with its fight against terrorist groups operating in the country; it also put out a recruitment call for up to 50,000 VDF volunteers (the VDF's original recruited strength was 15,000)<br><strong><br><br></strong><br>
 
 **Military equipment inventories and acquisitions**<br>
-the FABF has a mix of mostly older or secondhand equipment from a mix of suppliers, including France, South Africa, the UK, and the US (2022)<br>
+the FABF has a mix of mostly older or secondhand equipment from a mix of suppliers, including France, Russia, South Africa, Turkey, the UK, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service; no conscription; women may serve in supporting roles (2022)<br>
@@ -734,4 +734,8 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 34,989 (Mali) (2023)<br>
 _IDPs_: <p>1,761,915 (2022)</p><br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List &mdash; Burkina Faso does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government has established child protection units throughout the country, identifying potential victims, and continued working with teachers to prevent forced child begging; officials collaborated with international organizations and foreign donors to implement a humanitarian response plan to assist vulnerable people in conflict-affected areas, including potential trafficking victims; however, the government did not demonstrate overall increasing efforts compared to the previous year to improve its anti-trafficking capacity; substantial personnel turnover, related to the January 2022 coup d&rsquo;&eacute;tat and formation of a transition government, hindered Burkina Faso&rsquo;s ability to maintain consistent anti-trafficking efforts; officials did not report any prosecutions or convictions for the third consecutive year nor effectively screen vulnerable populations; the national anti-trafficking committee did not meet or coordinate anti-trafficking activities; the government did not adequately address complicity in trafficking crimes, including allegations of local officials exploiting internally displaced persons (IDPs) in sex trafficking; therefore, Burkina Faso remained on Tier 2 Watch List for the second consecutive year (2022)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Burkina Faso, and traffickers exploit victims from Burkina Faso abroad; traffickers fraudulently recruit Burkinabe children under the pretext of educational opportunities and exploit them as farm hands, laborers in artisanal mines, street vendors, and domestic servants; some parents knowingly allow their children to be exploited in domestic servitude to supplement family income; girls are exploited in sex trafficking in Ouagadougou and mining towns; some Quranic teachers force students to beg, sometimes with their parents&rsquo; knowledge; traffickers transport Burkinabe children&mdash;including homeless children&mdash;to Cote d&rsquo;Ivoire, Mali, Senegal, and Niger for forced labor in artisanal mining, forced begging, cocoa production, and sex trafficking; traffickers recruit women with fraudulent employment offers to work in Lebanon, Qatar, Saudi Arabia, and&mdash;to a lesser extent&mdash;Europe then exploit them in sex trafficking or domestic servitude; more than 1.4 million IDPs are vulnerable to forced labor and sex trafficking; violent extremist groups exploit women and children in forced labor and sex trafficking, recruit and use child soldiers, and reportedly coerce victims to carry out attacks or act as accomplices; traffickers exploit children from neighboring countries, including Cote d&rsquo;Ivoire, Ghana, Guinea, Mali, Niger, and Nigeria, in forced labor and sex trafficking; women from other West African countries are falsely recruited for employment in Burkina Faso and then exploited in forced labor in restaurants or domestic service; Nigerian women and girls are recruited for work in shops and salons and instead exploited in sex trafficking in mining regions; Cubans, including medical professionals, working in Burkina Faso may have been forced to work by the Cuban government; Burkina Faso is a transit country for traffickers moving children from Mali to Cote d&rsquo;Ivoire and women and girls from Cote d&rsquo;Ivoire to Saudi Arabia, as well as Ghanaian migrants traveling to Libya and Italy, some of whom are trafficking victims (2022)<br>
 

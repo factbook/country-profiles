@@ -467,8 +467,8 @@ _female_: 12.5% (2021 est.)<br>
 27.7 (2019 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 11.7% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
+_on food_: 11.7% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.8%<br>
@@ -606,16 +606,16 @@ _Total energy consumption per capita 2019_: 333.833 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 348,808 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
+_total subscriptions_: 350,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,825,584 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
+_total subscriptions_: 5.8 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Norway has a sophisticated telecom market with high broadband and mobile penetration rates and a highly developed digital media sector; although not a member of the European Union, the country&rsquo;s telecoms sector is synchronized with relevant EC legislation; the mobile broadband sector was bolstered by the auction of spectrum in the 700MHz and 21MHz band in June 2019; additional spectrum in the 700MHz is expected to be auctioned for mobile broadband use (5G) in 2021; the broadband penetration rate is among the highest in Europe, while in recent years subscribers have been migrated to faster broadband solutions over fiber networks, VDSL and upgraded cable infrastructure; in late 2019 the government proposed making broadband of at least 20Mb/s a universal service (2021)<br>
-_domestic_: Norway has a domestic satellite system; the prevalence of rural areas encourages the wide use of mobile-cellular systems; fixed-line over 6 per 100 and mobile-cellular nearly 108 per 100 (2020)<br>
+_general assessment_: Norway has a sophisticated telecom market with high broadband and mobile penetration rates and a highly developed digital media sector. Although not a member of the European Union, the country&rsquo;s telecoms sector is synchronized with relevant EC legislation; Norway enjoys near comprehensive LTE coverage with upgrades to 5G technologies in the future (2023)<br>
+_domestic_: fixed-line is 7 per 100 and mobile-cellular nearly 110 per 100 (2021)<br>
 _international_: country code - 47;&nbsp;landing points for the&nbsp;Svalbard Undersea Cable System, Polar Circle Cable, Bodo-Rost Cable, NOR5KE Viking, Celtic Norse, Tempnet Offshore FOC Network, England Cable, Denmark-Norwary6, Havfrue/AEC-2, Skagerrak 4, and the Skagenfiber West &amp; East&nbsp;submarine cables providing links to other Nordic countries, Europe and the US; satellite earth stations - Eutelsat,&nbsp;Intelsat (Atlantic Ocean), and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Norway shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Sweden) (2019)<br>
 
 **Broadcast media**<br>
@@ -719,6 +719,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 41,519 (Ukraine) (as of 27 February 2023)<br>
+_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 44,014 (Ukraine) (as of 27 March 2023)<br>
 _stateless persons_: 3,901 (2022)<br>
 

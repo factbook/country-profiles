@@ -688,6 +688,9 @@ the Guyana Defense Force's limited inventory is mostly comprised of second-hand 
 **Military - note**<br>
 the Guyana Defense Force was established in 1965; its primary missions are defense of the country, assisting civil authorities with law and order as needed, and contributing to the economic development of the country; the GDF&rsquo;s ground force officers are trained at the British Royal Military Academy at Sandhurst, while coast guard officers receive training at the British Royal Naval College (2022)<br>
 
+**Maritime threats**<br>
+the International Maritime Bureau reports the territorial waters of Guyana are a risk for armed robbery against ships; in 2022, two attacks against commercial vessels were reported, these are the first attacks reported in three years; all of these occurred in port while ships were berthed or at anchor<br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>

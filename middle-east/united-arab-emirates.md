@@ -328,8 +328,8 @@ _residency requirement for naturalization_: 30 years<br>
 limited; note - rulers of the seven emirates each select a proportion of voters for the Federal National Council (FNC) that together account for about 12 percent of Emirati citizens<br>
 
 **Executive branch**<br>
-_chief of state_: President MUHAMMAD bin Zayid Al-Nuhayan (since 14 May 2022); Vice President MUHAMMAD bin Rashid Al-Maktoum (since 5 January 2006); note - MUHAMMAD bin Zayid Al-Nuhayan elected president by the Federal Supreme Council following the death of President KHALIFA bin Zayid Al-Nuhayan on 13 May 2022<br>
-_head of government_: Prime Minister and Vice President MUHAMMAD bin Rashid Al-Maktoum (since 5 January 2006); Deputy Prime Ministers SAIF bin Zayid Al-Nuhayan, MANSUR bin Zayid Al-Nuhayan (both since 11 May 2009), and MAKTOUM bin Mohammed Al-Maktoum (since 25 September 2021)<br>
+_chief of state_: President MUHAMMAD bin Zayid Al-Nuhayyan (since 14 May 2022); Vice President MUHAMMAD bin Rashid Al-Maktum (since 5 January 2006); second Vice President MANSOUR bin Zayid Al Nuhayyan (since 29 March 2023); Crown Prince KHALED bin Mohamed bin Zayid Al Nahyan, the eldest son of the monarch, born 14 November 1982; note - MUHAMMAD bin Zayid Al-Nuhayan elected president by the Federal Supreme Council following the death of President KHALIFA bin Zayid Al-Nuhayan on 13 May 2022<br>
+_head of government_: Prime Minister and Vice President MUHAMMAD bin Rashid Al-Maktum (since 5 January 2006); Deputy Prime Ministers SAIF bin Zayid Al-Nuhayyan, MANSUR bin Zayid Al-Nuhayyan (both since 11 May 2009), and MAKTUM bin Mohammed Al-Maktum (since 25 September 2021)<br>
 _cabinet_: Council of Ministers announced by the prime minister and approved by the president<br>
 _elections/appointments_: president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); unscheduled election held on 14 May 2022, following the death of President KHALIFA bin Zayid Al-Nuhayan (next election NA); prime minister and deputy prime minister appointed by the president<br>
 _election results_: MUHAMMAD bin Zayid Al-Nuhayan elected president; Federal Supreme Council vote NA<br>
@@ -466,8 +466,8 @@ _female_: 19.9% (2021 est.)<br>
 32.5 (2014 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 13.7% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 0.4% of household expenditures (2018 est.)<br>
+_on food_: 13.7% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 0.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>

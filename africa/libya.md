@@ -582,16 +582,16 @@ _Total energy consumption per capita 2019_: 107.118 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.576 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
+_total subscriptions_: 1.6 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.922 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 43 (2020 est.)<br>
+_total subscriptions_: 2.9 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 43 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: political and security instability in Libya has disrupted its telecom sector; much of its infrastructure remains superior to that in most other African countries; rival operators fight for control; investment in fiber backbone and upgrades to international cables; limited LTE and 5G service; some satellite broadband; in 2021 Libya signed deals and projects with US firms to upgrade portions of its infrastructure, increasing the diversity of its telecommunications networks (2022)<br>
-_domestic_: nearly 23 per 100 fixed-line and over 43 per 100 mobile-cellular subscriptions; service generally adequate (2020)<br>
+_domestic_: nearly 23 per 100 fixed-line and over 43 per 100 mobile-cellular subscriptions; service generally adequate (2021)<br>
 _international_: country code - 218; landing points for LFON, EIG, Italy-Libya, Silphium and Tobrok-Emasaed&nbsp;submarine cable system connecting Europe, Africa, the Middle East and Asia; satellite earth stations - 4 Intelsat, Arabsat, and Intersputnik;&nbsp; microwave radio relay to Tunisia and Egypt; tropospheric scatter to Greece; participant in Medarabtel (2019)<br>
 
 **Broadcast media**<br>

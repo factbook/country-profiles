@@ -199,7 +199,7 @@ _unimproved: total_: total: 41.6% of population (2020 est.)<br>
 0.9% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -287,7 +287,7 @@ _rate of urbanization_: 5.43% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -682,7 +682,7 @@ _lake port(s)_: Bujumbura (Lake Tanganyika)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Defense Force of Burundi (Force de Defense Nationale du Burundi or FDNB): Land Force (Force Terrestre), the Navy Force (Force Marine), the Air Force (Force Aerienne) and Specialized Units (Unites Specialisees); Ministry of Public Security: National Police (Police Nationale du Burundi) (2023)<br>
+National Defense Force of Burundi (Force de Defense Nationale du Burundi or FDNB): Land Force (Force Terrestre), the Navy Force (Force Marine), the Air Force (Force Aerienne) and Specialized Units (Unites Specialisees); Ministry of Interior, Community Development, and Public Security: National Police (Police Nationale du Burundi) (2023)<br>
 <strong>note:</strong> the Specialized Units include a special security brigade for the protection of institutions (aka BSPI) and military police<br>
 
 **Military expenditures**<br>

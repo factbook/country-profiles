@@ -474,8 +474,8 @@ _female_: 26.7% (2021 est.)<br>
 31.8 (2011 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 20.7% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 1.2% of household expenditures (2018 est.)<br>
+_on food_: 20.7% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 1.2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
@@ -612,16 +612,16 @@ _Total energy consumption per capita 2019_: 53.528 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 875,480 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
+_total subscriptions_: 880,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,288,221 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 63 (2020 est.)<br>
+_total subscriptions_: 4.3 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 77 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Lebanon&rsquo;s economic crisis has had a dire effect on the country&rsquo;s telecom services; although some progress has been made with developing 5G, the poor economic conditions have contributed to an erratic electricity supply and a lack of fuel to maintain generators; this has meant that internet services to areas of the country are not available on a regular basis, frustrating all those who depend on stable connectivity, and stalling business growth; adding to the difficulties are the combined stresses of the pandemic and the political crisis; a caretaker cabinet in September 2021 made way for a new government though there is little confidence on the ground that sectarian-based political horse-trading will give way to responsible governing to improve the lot of the stressed populace (2022)<br>
-_domestic_: fixed-line nearly 13 per 100 and nearly 63 per 100 for mobile-cellular subscriptions (2020)<br>
+_domestic_: fixed-line is 16 per 100 and 77 per 100 for mobile-cellular subscriptions (2021)<br>
 _international_: country code - 961; landing points for the IMEWE, BERYTAR AND CADMOS submarine cable links to Europe, Africa, the Middle East and Asia; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>

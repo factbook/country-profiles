@@ -452,16 +452,16 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 12,607 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
+_total subscriptions_: 11,712 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 30 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 48,887 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 128 (2020 est.)<br>
+_total subscriptions_: 49,264 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 126 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: automatic telephone system; 44 Internet service providers in Liechtenstein and Switzerland combined; FttP (fiber to the home) penetration marketed 3rd highest in EU; fiber network reaches 3/4 of the population (2020)<br>
-_domestic_: fixed-line roughly 33 per 100 and mobile-cellular services 128 per 100 (2020)<br>
+_general assessment_: possesses a number of modern communications systems, some of which are shared with the neighboring country of Switzerland (2022)<br>
+_domestic_: fixed-line roughly 30 per 100 and mobile-cellular services 126 per 100 (2021)<br>
 _international_: country code - 423; linked to&nbsp;Swiss networks by cable and microwave radio relay<br>
 <strong>n</strong><br>
 

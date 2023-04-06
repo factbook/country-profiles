@@ -198,7 +198,7 @@ _unimproved: total_: total: 27.3% of population (2020 est.)<br>
 1.6% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria<br>
 _water contact diseases_: schistosomiasis<br>
@@ -274,7 +274,7 @@ _rate of urbanization_: 4.04% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria<br>
 _water contact diseases_: schistosomiasis<br>
@@ -486,8 +486,8 @@ _female_: 18.8% (2021 est.)<br>
 51.3 (2018 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 48.6% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 1.5% of household expenditures (2018 est.)<br>
+_on food_: 48.6% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 1.5% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 0.6%<br>
@@ -736,7 +736,7 @@ in 2023, Angola agreed to send 500 troops to the Democratic Republic of the Cong
 the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA); the current force is responsible for country&rsquo;s external defense but also has some domestic security responsibilities, including border protection, expulsion of irregular migrants, and small-scale counterinsurgency operations against groups like the Front for the Liberation of the Enclave of Cabinda separatists in Cabinda; the Army is one of the largest in the region with 6 infantry divisions spread amongst 6 military regions; it is also one of the better equipped, with a significant portion of its units being motorized and supported by approximately 300 Soviet-era tanks, largely acquired in the 1980s and 1990s; the Air Force is also one of the largest and best equipped in the region with a fleet of approximately 100 combat aircraft, plus a substantial inventory of transport aircraft and helicopter gunships; while naval modernization has received more attention in recent years, the Navy remains a small force of fast attack and coastal patrol craft (2023)<br>
 
 **Maritime threats**<br>
-the International Maritime Bureau reports the territorial waters of Angola are a risk for armed robbery against ships; in 2021, four attacks against commercial vessels were reported, a decrease from the six attacks in 2020; most of these occurred in the main port of Luanda while ships were berthed or at anchor<br>
+the International Maritime Bureau reports the territorial waters of Angola are a risk for armed robbery against ships; in 2022, five attacks against commercial vessels were reported, an increase from the four attacks in 2021; most of these occurred in the main port of Luanda while ships were berthed or at anchor<br>
 
 ## Transnational Issues
 

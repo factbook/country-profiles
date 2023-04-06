@@ -478,8 +478,8 @@ _female_: 33.8% (2021 est.)<br>
 35.2 (2018 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 14.2% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
+_on food_: 14.2% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
@@ -616,16 +616,16 @@ _Total energy consumption per capita 2019_: 112.606 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 19,607,341 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 32 (2020 est.)<br>
+_total subscriptions_: 19,994,902 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 34 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 77,581,048 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 128 (2020 est.)<br>
+_total subscriptions_: 78,114,933 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 132 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Italy&rsquo;s large telecom market has one of the most progressive fiber sectors in Europe, with regulatory measures encouraging network sharing; regulatory measures have also been introduced to facilitate access to next generation networks (NGNs), and a number of deals have been brokered which enable the main telcoms to provide bundled services to large numbers of the population; Italy&rsquo;s vibrant mobile market has one of the highest subscription rates in Europe, though the number of subscribers has fallen in recent years as customers respond to attractive off-net pricing which has reduced the financial benefit of having SIM cards from different providers; network companies were among the first in Europe to trial services based on 5G; the high cost also encouraged the regulator in early 2021 to consider extending the licenses by an additional six years (2021)<br>
-_domestic_: high-capacity cable and microwave radio relay trunks; 32 per 100 for fixed-line and nearly 128 per 100 for mobile-cellular subscriptions (2020)<br>
+_domestic_: 34 per 100 for fixed-line and nearly 132 per 100 for mobile-cellular subscriptions (2021)<br>
 _international_: country code - 39; landing points for&nbsp;Italy-Monaco, Italy-Libya, Italy-Malta, Italy-Greece-1, Italy-Croatia, BlueMed, Janna, FEA, SeaMeWe-3 &amp; 4 &amp; 5, Trapani-Kelibia, Columbus-III, Didon, GO-1, HANNIBAL System, MENA, Bridge International, Malta-Italy Interconnector, Melita1, IMEWE, VMSCS, AAE-1, and OTEGLOBE, submarine cables that provide links to Asia, the&nbsp;Middle East, Europe, North Africa, Southeast Asia, Australia and US; satellite earth stations - 3 Intelsat (with a total of 5 antennas - 3 for Atlantic Ocean and 2 for Indian Ocean) (2019)<br>
 
 **Broadcast media**<br>
@@ -744,7 +744,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 171,739 (Ukraine) (as of 24 February 2023)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 716,615 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
+<strong>note:</strong> 723,177 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

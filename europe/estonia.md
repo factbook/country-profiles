@@ -277,8 +277,8 @@ _municipal solid waste recycled annually_: 117,020 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 24.7% (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 59.4 million cubic meters (2017 est.)<br>
-_industrial_: 1.721 billion cubic meters (2017 est.)<br>
+_municipal_: 80 million cubic meters (2020 est.)<br>
+_industrial_: 920 million cubic meters (2020 est.)<br>
 _agricultural_: 4.5 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
@@ -469,8 +469,8 @@ _female_: 17.8% (2021 est.)<br>
 30.8 (2019 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 20.3% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 7.8% of household expenditures (2018 est.)<br>
+_on food_: 20.3% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 7.8% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.3%<br>
@@ -718,7 +718,7 @@ Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a 
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 67,601 (Ukraine) (as of 27 February 2023)<br>
+_refugees (country of origin)_: 68,930 (Ukraine) (as of 27 March 2023)<br>
 _stateless persons_: 70,604 (2022); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

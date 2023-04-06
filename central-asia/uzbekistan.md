@@ -340,7 +340,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Shavkat MIRZIYOYEV (interim president from 8 September 2016; formally elected president on 4 December 2016 to succeed longtime President Islom KARIMOV, who died on 2 September 2016<br>
+_chief of state_: President Shavkat MIRZIYOYEV (interim president from 8 September 2016; formally elected president on 4 December 2016 to succeed longtime President Islom KARIMOV, who died on 2 September 2016)<br>
 _head of government_: Prime Minister Abdulla ARIPOV (since 14 December 2016)<br>
 _cabinet_: Cabinet of Ministers appointed by the president with most requiring approval of the Senate chamber of the Supreme Assembly (Oliy Majlis)<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term; previously a 5-year term, extended by a 2002 constitutional amendment to 7 years, and reverted to 5 years in 2011); election last held on 24 October 2021 (next to be held in 2026); prime minister nominated by majority party in legislature since 2011, but appointed along with the ministers and deputy ministers by the president<br>
@@ -479,8 +479,8 @@ _female_: 16.2% (2021 est.)<br>
 36.8 (2003)<br>
 
 **Average household expenditures**<br>
-_On food_: 30.2% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 2.5% of household expenditures (2018 est.)<br>
+_on food_: 30.2% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 2.5% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>

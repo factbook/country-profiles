@@ -90,7 +90,7 @@ Portuguese 95%; citizens from Portugal&rsquo;s former colonies in Africa, Asia (
 Portuguese (official), Mirandese (official, but locally used)<br>
 
 **Religions**<br>
-Roman Catholic 81%, other Christian 3.3%, other (includes Jewish, Muslim) 0.6%, none 6.8%, unspecified 8.3% (2011 est.)<br>
+Roman Catholic 79.7%, Protestant 2.2%, other Christian 2.5%, other non-Christian, 1.1%, none 14.5% (2021 est.)<br>
 <strong>note:</strong> data represent population 15 years of age and older<br>
 
 **Age structure**<br>
@@ -387,7 +387,7 @@ _selected World Heritage Site locales_: Historic Évora (c); Central Zone of the
 ## Economy
 
 **Economic overview**<br>
-high-income European economy; EU and NATO member; recently blocked Chinese utility takeover; major tourism, banking, and telecommunications sectors; very high public debt and bureaucracy; major renewable energy producer<br>
+fast-growing, high-income European economy; EU and NATO member; higher hydrocarbon energy costs due to cessation of Russian gas; major tourism, banking, and telecommunications sectors; high public debt and inflation; major renewable energy producer<br>
 
 **Real GDP (purchasing power parity)**<br>
 $347.694 billion (2021 est.)<br>
@@ -467,8 +467,8 @@ _female_: 26.2% (2021 est.)<br>
 32.8 (2019 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 16.6% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
+_on food_: 16.6% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
@@ -508,10 +508,10 @@ $85.128 billion (2020 est.) note: data are in current year dollars<br>
 $104.846 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-Spain 23%, France 13%, Germany 12%, United Kingdom 6%, United States 5% (2019)<br>
+Spain 26%, France 12%, Germany 12%, United States 6%, United Kingdom 5% (2021)<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, refined petroleum, leather footwear, paper products, tires (2019)<br>
+cars and vehicle parts, refined petroleum, leather footwear, tires, paper (2021)<br>
 
 **Imports**<br>
 $112.413 billion (2021 est.) note: data are in current year dollars<br>
@@ -519,10 +519,10 @@ $89.515 billion (2020 est.) note: data are in current year dollars<br>
 $103.009 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-Spain 29%, Germany 13%, France 9%, Italy 5%, Netherlands 5% (2019)<br>
+Spain 31%, Germany 12%, France 6%, Italy 5%, Netherlands 5% (2021)<br>
 
 **Imports - commodities**<br>
-cars and vehicle parts, crude petroleum, aircraft, packaged medicines, refined petroleum, natural gas (2019)<br>
+crude petroleum, cars and vehicle parts, refined petroleum, packaged medicines, natural gas (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $32.535 billion (31 December 2021 est.)<br>
@@ -605,16 +605,16 @@ _Total energy consumption per capita 2019_: 101.734 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,212,507 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 51 (2020 est.)<br>
+_total subscriptions_: 5,318,750 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 52 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,854,999 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 116 (2020 est.)<br>
+_total subscriptions_: 12,476,165 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 121 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Portugal has a medium-sized telecom market with a strong mobile sector and a growing broadband customer base; before the pandemic, the country had seen improving economic growth, following several years of austerity measures; revenue among some operators remains under pressure, though investments in network upgrades are continuing in an effort to attract customers to high-end services; Portugal&rsquo;s broadband services have grown steadily in recent years, largely the result of joint efforts between the regulator and the key market operators which have invested in significant infrastructure upgrades; these operators are focused on fiber-based services, resulting in a migration of subscribers from digital subscriber line DSL infrastructure; the government has also supported open-access wholesale networks; the mobile virtual network operator (MVNO) market remains largely undeveloped, partly because network operators have their own low-cost brands; collectively, MVNOs have about 2.9% share of the market; population coverage by 3G infrastructure is universal, and most investment in the sector is being directed to LTE and 5G technologies; the MNOs have trialed 5G and are looking to launch commercial services (2021)<br>
-_domestic_: integrated network of coaxial cables, open-wire, microwave radio relay, and domestic satellite earth stations; fixed-line roughly 51 per 100 persons and mobile-cellular 116 per 100 persons (2020)<br>
+_domestic_: fixed-lineis 52 per 100 persons and mobile-cellular is 121 per 100 persons (2021)<br>
 _international_: country code - 351;&nbsp;landing points for the Ella Link, BUGIO, EIG, SAT-3/WASC, SeaMeWe-3, Equino, MainOne, Tat TGN-Western Europe, WACS, ACE, Atlantis2 and Columbus-III&nbsp;submarine cables provide connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, South America&nbsp;and the US; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to Azores (2019)<br>
 
 **Broadcast media**<br>

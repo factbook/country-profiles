@@ -514,8 +514,8 @@ _female_: 28.7% (2021 est.)<br>
 39.5 (2013 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 34% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 1.4% of household expenditures (2018 est.)<br>
+_on food_: 34% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 1.4% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
@@ -651,16 +651,16 @@ _Total energy consumption per capita 2019_: 24.59 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,357,286 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
+_total subscriptions_: 2,460,155 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 49,421,023 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 134 (2020 est.)<br>
+_total subscriptions_: 52.012 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 139 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: despite Morocco's economic progress, the country suffers from high unemployment and illiteracy affecting telecom market, particularly in rural areas; national network nearly 100% digital using fiber-optic links; improved rural service employs microwave radio relay; one of the most state-of-the-art markets in Africa; high mobile penetration rates in the region with low cost for broadband Internet access; improvement in LTE reach and capabilities; service providers have all successfully completed 5G proofs of concept and are currently lining up 5G equipment providers for both radio and core technology; regulatory agency expects to conduct the 5G spectrum auction in 2023; mobile Internet accounts for 93% of all Internet connections; World Bank provided funds for Morocco&rsquo;s digital transformation; government supported digital education during pandemic; submarine cables and satellite provide connectivity to Asia, Africa, the Middle East, Europe, and Australia (2022)<br>
-_domestic_: fixed-line teledensity is just over 6 per 100 persons and mobile-cellular subscribership is nearly 134 per 100 persons; good system composed of open-wire lines, cables, and microwave radio relay links; principal switching centers are Casablanca and Rabat (2020)<br>
+_domestic_: fixed-line teledensity is 7 per 100 persons and mobile-cellular subscribership is 139 per 100 persons (2021)<br>
 _international_: country code - 212; landing point for the Atlas Offshore, Estepona-Tetouan, Canalink&nbsp;and SEA-ME-WE-3 fiber-optic telecommunications undersea cables that provide connectivity to Asia,&nbsp;Africa,&nbsp;the Middle East, Europe and Australia; satellite earth stations - 2 Intelsat (Atlantic Ocean) and 1 Arabsat; microwave radio relay to Gibraltar, Spain, and Western Sahara (2019)<br>
 
 **Broadcast media**<br>

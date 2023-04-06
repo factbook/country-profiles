@@ -327,7 +327,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em>2020</em>: Wavel RAMKALAWAN elected president; Wavel RAMKALAWAN (LDS) 54.9%, Danny FAURE (US) 43.5%, other 1.6%<br><br><em>2015</em>:  President James Alix MICHEL reelected president in second round; percent of vote first round - James Alix MICHEL (PL) 47.8%, Wavel RAMKALAWAN (SNP) 35.3%, other 16.9%; percent of vote second round - James Alix MICHEL (PL) 50.2%, Wavel RAMKALAWAN (SNP) 49.8%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (35 seats in the 2020 -25 term; 26 members directly elected in single-seat constituencies by simple majority vote and up to 9 members elected by proportional representation vote; members serve 5-year terms)<br>
+_description_: unicameral National Assembly or Assemblee Nationale (35 seats in the 2020-25 term; 26 members directly elected in single-seat constituencies by simple majority vote and up to 9 members elected by proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 22-24 Oct 2020 (next to be held&nbsp;October 2025); note - the election was originally scheduled for 2021 but was moved up a year and will be held alongside the presidential election in order to cut election costs<br>
 _election results_: percent of vote by party - LDS 54.8%, US 42.3% , other 2.9%; seats by party - LDS 25, US10; composition - men 27, women 8, percent of women 22.9%<br>
 
@@ -581,16 +581,16 @@ _Total energy consumption per capita 2019_: 163.06 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 18,882 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 19 (2020 est.)<br>
+_total subscriptions_: 18,768 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 183,498 (2020)<br>
-_subscriptions per 100 inhabitants_: 187 (2020)<br>
+_total subscriptions_: 184,161 (2021)<br>
+_subscriptions per 100 inhabitants_: 173 (2021)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: effective system; direct international calls to over 100 countries; radiotelephone communications between islands in the archipelago; 3 ISPs; use of Internet cafes' for access to Internet; 4G services and 5G pending (2020)<br>
-_domestic_: fixed-line a little over 19 per 100 and mobile-cellular teledensity is nearly 187 telephones per 100 persons (2020)<br>
+_domestic_: fixed-line&nbsp; is 18 per 100 and mobile-cellular teledensity is 173 telephones per 100 persons (2021)<br>
 _international_: country code - 248; landing points for the PEACE and the SEAS submarine cables&nbsp;providing connectivity to Europe, the Middle East, Africa and Asia; direct radiotelephone communications with adjacent island countries and African coastal countries; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
 
 **Broadcast media**<br>

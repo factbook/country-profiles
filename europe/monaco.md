@@ -451,16 +451,16 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 43,706 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 111 (2020 est.)<br>
+_total subscriptions_: 42,812 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 117 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 35,485 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 90 (2020 est.)<br>
+_total subscriptions_: 36,255 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 99 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern automatic telephone system: the country's sole fixed-line operator offers a full range of services to residential and business customers; competitive mobile telephony market; 4G LTE widely available (2020)<br>
-_domestic_: fixed-line a little over 111 per 100 and mobile-cellular teledensity exceeds 90 per 100 persons (2020)<br>
+_domestic_: fixed-line a little over 117 per 100 and mobile-cellular teledensity is 99 per 100 persons (2021)<br>
 _international_: country code - 377; landing points for the EIG and Italy-Monaco submarine cables connecting Monaco to Europe, Africa, the Middle East and Asia; no satellite earth stations; connected by cable into the French communications system (2019)<br>
 
 **Broadcast media**<br>

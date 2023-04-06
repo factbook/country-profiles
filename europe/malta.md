@@ -592,16 +592,16 @@ _Total energy consumption per capita 2019_: 267.739 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 259,456 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 59 (2020 est.)<br>
+_total subscriptions_: 259,439 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 49 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 633,123 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 143 (2020 est.)<br>
+_total subscriptions_: 644,955 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 122 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Malta&rsquo;s small telecom sector is among the most advanced in Europe; this has been helped by the topography, which has made it relatively easy for operators to expand the reach of their fiber infrastructure; with high mobile and broadband penetration rates, the government and regulator have effective strategies in place to capitalize on these infrastructure developments to ensure that the population has among the fastest data rates in Europe, and is well positioned to take advantage of emerging e-commerce opportunities; the sector has also been stimulated by regulatory measures designed to reduce consumer prices; the incumbent telco is investing in a sub sea cable to connect the islands to France and Egypt; expected to be ready for service in 2022, the cable will further enhance Malta&rsquo;s internet bandwidth and lead to reduced prices for end-users; there has also been some encouragement to increase market competition (2021)<br>
-_domestic_: fixed-line approximately 59 per 100&nbsp; persons and mobile-cellular subscribership 143 per 100 persons; automatic system featuring submarine cable and microwave radio relay between islands (2020)<br>
+_domestic_: fixed-line approximately 49 per 100&nbsp; persons and mobile-cellular subscribership 122 per 100 persons (2021)<br>
 _international_: country code - 356; landing points for the Malta-Gozo Cable, VMSCS, GO-1 Mediterranean Cable System, Malta Italy Interconnector, Melita-1, and the Italy-Malta submarine cable connections to Italy; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>

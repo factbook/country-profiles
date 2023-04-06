@@ -477,8 +477,8 @@ _female_: 4.1% (2021 est.)<br>
 32.9 (2013 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 16% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
+_on food_: 16% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
@@ -616,16 +616,16 @@ _Total energy consumption per capita 2019_: 147.107 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 61,978,594 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 49 (2020 est.)<br>
+_total subscriptions_: 61,583,600 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 49 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 195,054,893 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 154 (2020 est.)<br>
+_total subscriptions_: 200,478,808 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 161 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Japan has one of the best developed telecom markets globally, the fixed-line segment remains stagnant and the focus for growth is in the mobile sector; the MNOs have shifted their investment from LTE to 5G, and growth in 5G showed early promise although there have been recent setbacks; these have partly been attributed to the economic difficulties, the impact of restrictions imposed during the pandemic, and unfavourable investment climate (not helped by the delay of the Tokyo Olympics from 2020 to 2021), and to restrictions in the supply of 5G-enabled devices; the fixed broadband market is dominated by fiber, with a strong cable platform also evident; fiber will continue to increase its share of the fixed broadband market, largely at the expense of DSL; the mobile market is dominated by three MNOs, mobile broadband subscriber growth is expected to be relatively low over the next five years, partly due to the high existing subscriptions though growth has been stimulated by measures which have encouraged people to school and work from home; there has also been a boost in accessing entertainment via mobile devices since 2020; plans to provide 55% population coverage with 5G by March 2022 and nationwide 5G coverage by 2023 (2021)<br>
-_domestic_: high level of modern technology and excellent service of every kind; 49 per 100 for fixed-line and 152 per 100 for mobile-cellular subscriptions (2020)<br>
+_general assessment_: Japan has one of the best developed telecom markets globally, the fixed-line segment remains stagnant and the focus for growth is in the mobile sector; the MNOs have shifted their investment from LTE to 5G, and growth in 5G showed early promise although there have been recent setbacks; these have partly been attributed to the economic difficulties, the impact of restrictions imposed during the pandemic, and unfavorable investment climate (not helped by the delay of the Tokyo Olympics from 2020 to 2021), and to restrictions in the supply of 5G-enabled devices; the fixed broadband market is dominated by fiber, with a strong cable platform also evident; fiber will continue to increase its share of the fixed broadband market, largely at the expense of DSL; the mobile market is dominated by three MNOs, mobile broadband subscriber growth is expected to be relatively low over the next five years, partly due to the high existing subscriptions though growth has been stimulated by measures which have encouraged people to school and work from home; there has also been a boost in accessing entertainment via mobile devices since 2020 (2021)<br>
+_domestic_: 49 per 100 for fixed-line and 161 per 100 for mobile-cellular subscriptions (2021)<br>
 _international_: country code - 81; numerous submarine cables with landing points for HSCS, JIH, RJCN, APCN-2, JUS, EAC-C2C, PC-1, Tata TGN-Pacific, FLAG North Asia Loop/REACH North Asia Loop, APCN-2, FASTER, SJC, SJC2, Unity/EAC-Pacific, JGA-N, APG, ASE, AJC, JUPITER, MOC, Okinawa Cellular Cable, KJCN, GOKI, KJCN, and SeaMeWE-3, submarine cables provide links throughout Asia, Australia, the Middle East, Europe, Southeast Asia, Africa&nbsp;and US; satellite earth stations - 7 Intelsat (Pacific and Indian Oceans), 1 Intersputnik (Indian Ocean region), 2 Inmarsat (Pacific and Indian Ocean regions), and 8 SkyPerfect JSAT (2019)<br>
 
 **Broadcast media**<br>

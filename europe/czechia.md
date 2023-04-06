@@ -473,8 +473,8 @@ _female_: 8.7% (2021 est.)<br>
 25.3 (2019 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 16.3% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 8% of household expenditures (2018 est.)<br>
+_on food_: 16.3% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 8% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.1%<br>
@@ -721,7 +721,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 501,540 (Ukraine) (as of 19 March 2023)<br>
+_refugees (country of origin)_: 503,698 (Ukraine) (as of 26 March 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

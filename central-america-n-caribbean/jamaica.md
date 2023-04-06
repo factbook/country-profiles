@@ -594,16 +594,16 @@ _Total energy consumption per capita 2019_: 49.7 million Btu/person (2019 est.)<
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 436,249 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 15 (2020 est.)<br>
+_total subscriptions_: 473,617 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 17 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,873,259 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 97 (2020 est.)<br>
+_total subscriptions_: 2,905,408 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 103 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Jamaica&rsquo;s telecom sector has for many years been propped up by the mobile sector, which accounts for the vast majority of internet connections and voice lines; it also accounts for just over half of telecom sector revenue; in December 2020, the government announced the rollout of a national broadband network costing up to $237 million; the funding will be spent on improving connectivity in under served areas, improving access to education, and deploying networks to public locations such as hospitals, municipal institutions, and police stations; to aid in this national broadband effort, the government received a donation of 650km of fiber cabling from local cable TV providers and the two main toll road operators; to encourage the use of digital channels as the country deals with the Covid-19 pandemic (2021)<br>
-_domestic_: fixed-line subscriptions nearly 15 per 100, cellular-mobile roughly 97 per 100 subscriptions (2020)<br>
+_domestic_: fixed-line subscriptions nearly 17 per 100, cellular-mobile roughly 103 per 100 subscriptions (2021)<br>
 _international_: country code - 1-876 and 1-658; landing points for the ALBA-1, CFX-1, Fibralink, East-West, and Cayman-Jamaican Fiber System submarine cables providing connections to South America, parts of the Caribbean, Central America and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>

@@ -495,8 +495,8 @@ _female_: 37.1% (2021 est.)<br>
 42.3 (2020 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 28.3% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 1.9% of household expenditures (2018 est.)<br>
+_on food_: 28.3% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 1.9% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
@@ -744,7 +744,7 @@ the inventory of Argentina's armed forces is a mix of domestically-produced and 
 note - as of 2021, women comprised over 21% of the active duty military<br>
 
 **Military deployments**<br>
-250 Cyprus (UNFICYP) (May 2022)<br>
+225 Cyprus (UNFICYP) (2023)<br>
 
 **Military - note**<br>
 the Army and Navy were both created in 1810 during the Argentine War of Independence, while the Air Force was established in 1945; the military coups d'état in 1930, 1943, 1955, 1962, 1966, and 1976; the 1976 coup, aka the "National Reorganization Process," marked the beginning of the so-called "Dirty War," a period of state-sponsored terrorism that saw the deaths or disappearances of thousands of Argentinians; the defeat in the 1983 Falklands War led to the downfall of the military junta<br><br>Argentina and Chile have a joint peacekeeping force known as the Combined Southern Cross Peacekeeping Force (FPC), designed to be made available to the UN; the FPC is made up of two battalions, one from each country, a command and service company, an air component (a squadron of Argentine and Chilean helicopters), a naval component, and a combined logistics support unit<br><br>Argentina has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>

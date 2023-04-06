@@ -276,9 +276,9 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _municipal solid waste generated annually_: 726,957 tons (2011 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 31 million cubic meters (2017 est.)<br>
+_municipal_: 30 million cubic meters (2020 est.)<br>
 _industrial_: 1 million cubic meters (2017 est.)<br>
-_agricultural_: 550 million cubic meters (2017 est.)<br>
+_agricultural_: 550 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 7.3 billion cubic meters (2019 est.)<br>

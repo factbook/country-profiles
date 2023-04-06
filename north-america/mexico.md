@@ -379,9 +379,9 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: <br><em>2018:</em> Andrés Manuel LÓPEZ OBRADOR elected president; percent of vote - Andrés Manuel LÓPEZ OBRADOR (MORENA) 53.2%, Ricardo ANAYA Cortés (PAN) 22.3%, José Antonio MEADE Kuribreña (PRI) 16.4%, Jaime RODRÍGUEZ Calderón 5.2% (independent), other 2.9%<br><br><em>2012:</em> Enrique PEÑA NIETO elected president; percent of vote - Enrique PEÑA NIETO (PRI) 38.2%, Andrés Manuel LÓPEZ OBRADOR (PRD) 31.6%, Josefina Eugenia VÁZQUEZ Mota (PAN) 25.4%, other 4.8%<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Congress or Congreso de la Unión consists of:<br>Senate or Cámara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms)<br>Chamber of Deputies or Cámara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)<br>
-_elections_: <br>Senate - last held on 1 July 2018 (next to be held in July 2024)<br>Chamber of Deputies - last held on 6 June 2021 (next to be held in July 2024)<br>
-_election results_: <br>Senate - percent of vote by party - percent of vote by party - NA; seats by party - MORENA 58, PAN 22, PRI 14, PRD 9, MC 7, PT 7, PES 5, PVEM 5, PNA/PANAL 1; composition (as of July 2018) - men 65, women 63, percent of women 49.2%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - MORENA 197, PAN 111, PRI 69, PVEM 44, PT 38, MC 25, PRD 16; composition - men 250, women 250, percent of women 50%; note - overall percent of women in National Congress 49.8%<br>
+_description_: <p>bicameral National Congress or Congreso de la Unión consists of:<br>Senate or Cámara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms)<br><br>Chamber of Deputies or Cámara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)</p><br>
+_elections_: <br>Senate - last held on 1 July 2018 (next to be held in July 2024)<br><br>Chamber of Deputies - last held on 6 June 2021 (next to be held in July 2024)<br>
+_election results_: <p><br>Senate - percent of vote by party - percent of vote by party - NA; seats by party - MORENA 58, PAN 22, PRI 14, PRD 9, MC 7, PT 7, PES 5, PVEM 5, PNA/PANAL 1; composition (as of July 2018) - men 65, women 63, percent of women 49.2%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - MORENA 197, PAN 111, PRI 69, PVEM 44, PT 38, MC 25, PRD 16; composition - men 250, women 250, percent of women 50%; note - overall percent of women in National Congress 49.8%</p><br>
 <strong>note: </strong>as of the 2018 election, senators will be eligible for a second term and deputies up to 4 consecutive terms<br>
 
 **Judicial branch**<br>
@@ -515,8 +515,8 @@ _female_: 8.6% (2021 est.)<br>
 45.4 (2020 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 23.4% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 2.8% of household expenditures (2018 est.)<br>
+_on food_: 23.4% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 2.8% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2%<br>
@@ -653,16 +653,16 @@ _Total energy consumption per capita 2019_: 61.597 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 24,500,456 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 19 (2020 est.)<br>
+_total subscriptions_: 24,366,595 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 19 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 122,898,392 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 95 (2020 est.)<br>
+_total subscriptions_: 123,920,752 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 98 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: with a large population and relatively low broadband and mobile penetration, (86 lines for mobile broadband for every 100 habitants in June 2021) Mexico&rsquo;s telecom sector has potential for growth; adequate telephone service for business and government; improving quality and increasing mobile cellular availability, with mobile subscribers far outnumbering fixed-line subscribers (24.6 million fixed line subscribers and 125 million mobile line subscribers in June 2021); relatively low broadband and mobile penetration, potential for growth and international investment; extensive microwave radio relay network; considerable use of fiber-optic cable and coaxial cable; 5G development slow in part due to high costs (2021)<br>
-_domestic_: fixed-line teledensity exceeds 65 lines per every 100 households; mobile-cellular teledensity is about 99 per 100 persons; domestic satellite system with 120 earth stations (2021)<br>
+_domestic_: fixed-line teledensity 19 lines per every 100; mobile-cellular teledensity is 98 per 100 persons (2021)<br>
 _international_: country code - 52; Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, Canary Islands, Spain, and Italy; the ARCOS-1 and the MAYA-1 submarine cable system together provide access to Central America, parts of South America and the Caribbean, and the U.S.; Pan-American Crossing (PAC) submarine cable system provides access to Panama, California, U.S., and Costa Rica; Lazaro Cardenas-Manzanillo Santiago submarines cable system (LCMSSCS) provides access to Michoacan, Guerrero, and Colima, Mexico; AMX-1 submarine cable system with access to Colombia, Brazil, Puerto Rico, Gulf of California Cable submarine cable systems that connects La Paz, Baja California Sur and Topolobambo, Sinaloa; and Aurora submarine cable system provides access to Guatemala, Panama, Ecuador, Colombia, Mexico, and the U.S. satellite earth stations - 124 (36 Intelsat, 1 Solidaridad (giving Mexico improved access to South America, Central America, and much of the US as well as enhancing domestic communications), 9 Panamsat, numerous Inmarsat mobile earth stations); linked to Central American Microwave System of trunk connections (2022)<br>
 
 **Broadcast media**<br>
@@ -763,6 +763,9 @@ the Mexican military inventory includes a mix of domestically produced and impor
 
 **Military - note**<br>
 the constitution was amended in 2019 to grant the president the authority to use the armed forces to protect internal and national security, and courts have upheld the legality of the armed forces&rsquo; role in law enforcement activities in support of civilian authorities through 2028; as of 2022, Mexican military operations were heavily focused on internal security duties, particularly in countering drug cartels and organized crime groups, as well as border control and immigration enforcement; the armed forces also administered most of the country's land and sea ports and customs services, and it built and ran approximately 2,700 branches of a state-owned development bank; in addition, President LOPEZ OBRADOR has placed the military in charge of a growing number of infrastructure projects, such as building a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast (2022)<br>
+
+**Maritime threats**<br>
+the International Maritime Bureau reported one incident in the territorial waters of Mexico in 2022, the same number of attacks as in 2021; ports in Mexico continue to be affected by the crime of armed robbery; this incident occurred in the port of Puerto Dos Bocas while ships were berthed or at anchor; pirates and robbers in this area are armed with guns<br>
 
 ## Transnational Issues
 

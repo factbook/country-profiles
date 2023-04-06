@@ -363,9 +363,9 @@ _elections_: Senate - last held on 11 December 2020 (next to be held in  Decemb
 _election results_: 2020:<br>Senate - percent of vote by party - NA; elected seats by party - Irmar 10, Malagasy Miara Miainga 2; composition - men 16, women 2, percent of women 11%<br>2019:<br>National Assembly - percent of vote by party - TGV 30.9%, TIM 9.7%, MATITA 1.1%, MTS 0.4%, GJMP 0.3%, MDM 0.2%, RPSD Vaovao 0.1%, Independents 50%, Other 7.3%; composition - men 123, women 28, percent of women 18.5%; note - total Parliament percent of women 17.8%<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Cour Supreme (consists of 11 members; addresses judicial administration issues only); High Constitutional Court or Haute Cour Constitutionnelle (consists of 9 members); note - the judiciary includes a High Court of Justice responsible for adjudicating crimes and misdemeanors by government officials, including the president<br>
-_judge selection and term of office_: Supreme Court heads elected by the president and judiciary officials to serve 3-year, single renewable terms; High Constitutional Court members appointed - 3 each by the president, by both legislative bodies, and by the Council of Magistrates; members serve single, 7-year terms<br>
-_subordinate courts_: Courts of Appeal; Courts of First Instance<br>
+_highest court(s)_: Supreme Court or Cour Supreme (consists of 11 members; addresses judicial administration issues only); High Constitutional Court or Haute Cour Constitutionnelle (consists of 9 members); High Court of Justice (consists of 11 members; addresses cases brought against the president of Madagascar and high officials for high treason, grave violations of the Constitution, or breach of&nbsp; duties incompatible with the exercise of the presidential mandate)<br>
+_judge selection and term of office_: Supreme Court heads elected by the president and judiciary officials to serve 3-year, single renewable terms; High Constitutional Court members appointed - 3 each by the president, by both legislative bodies, and by the Council of Magistrates; members serve single, 7-year terms; High Court of Justice members include: first president of the Supreme Court; 2 presidents from the Court of Cassation; 2 presidents from the Court of Appeal; 2 deputies&nbsp; from the National Assembly; 2 senators from the Senate; 2 members from the High Council for the Defense of Democracy and the State of law<br>
+_subordinate courts_: Courts of Appeal; Court of Cassation; Courts of First Instance; military courts; traditional (dina) courts; Trade Court<br>
 
 **Political parties and leaders**<br>
 <p>Group of Young Malagasy Patriots (Groupe des Jeunes Malgaches Patriotes) or GJMP<br>I Love Madagascar (Tiako I Madagasikara) or TIM [Marc RAVALOMANANA]<br>Malagasy Aware (Malagasy Tonga Saina) or MTS [Roland RATSIRAKA]<br>Malagasy Tia Tanindrazana or MATITA or ANGADY [Hyacinthe Befeno TODIMANANA]<br>Movement for Democracy in Madagascar (Mouvement pour la Démocratie à Madagascar) or MDM [Pierrot RAJAONARIVELO]<br>Rally for Democratic Socialism (Rassemblement pour Socialisme Démocratique - Nauveau) or RPSD Vaovao [Evariste MARSON]<br>Young Malagasies Determined (Tanora Malagasy Vonona) or TGV [Andry RAJOELINA]<br><br><strong>Note:</strong> Only parties with seats in the National Assembly included</p><br>
@@ -611,15 +611,16 @@ _Total energy consumption per capita 2019_: 2.307 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 69,000 (2020 est.)<br>
+_total subscriptions_: 26,271 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 15.869 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 57 (2020 est.)<br>
+_total subscriptions_: 16,279,633 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 56 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom services in Madagascar have benefited from intensifying competition between the main operators; there have been positive developments with the country&rsquo;s link to international submarine cables, particularly the METISS cable connecting to South Africa and Mauritius; in addition, the country&rsquo;s connection to the Africa-1 cable, expected in late 2023, will provide it with links to Kenya, Djibouti, countries in north and south Africa, as well Pakistan, the UAE, Saudi Arabia, and France; a national fiber backbone has been implemented connecting the major cities; in addition, the government has progressed with its five-year plan to develop a digital platform running to 2024; various schemes within the program have been managed by a unit within the President&rsquo;s office; penetration rates in all market sectors remain below the average for the African region, and so there remains considerable growth potential; much progress was made in 2020, stimulated by the particular conditions related to the pandemic, which encouraged greater use of voice and data services (2022)<br>
-_domestic_: less than 1 per 100 for fixed-line and mobile-cellular teledensity about 57 per 100 persons (2020)<br>
+_domestic_: less than 1 per 100 for fixed-line and mobile-cellular teledensity about 56 per 100 persons (2021)<br>
 _international_: country code - 261; landing points for the EASSy, METISS, and LION fiber-optic submarine cable systems connecting to numerous Indian Ocean Islands, South Africa, and Eastern African countries; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Intersputnik - Atlantic Ocean region) (2019)<br>
 
 **Broadcast media**<br>

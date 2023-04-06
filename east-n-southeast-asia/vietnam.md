@@ -486,8 +486,8 @@ _female_: 7.5% (2021 est.)<br>
 35.7 (2018 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 38.8% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
+_on food_: 38.8% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
@@ -731,7 +731,7 @@ the PAVN is armed largely with weapons and equipment from Russia and the former 
 the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary (2023)<br>
 
 **Maritime threats**<br>
-the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; the number of reported incidents decreased from four in 2020 to one in 2021<br>
+the International Maritime Bureau reported that incidents in the territorial and offshore waters of Vietnam increased from one in 2021 to two in 2022;&nbsp; the South China Sea remains a high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>
 
 ## Transnational Issues
 

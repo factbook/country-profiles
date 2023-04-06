@@ -591,16 +591,16 @@ _Total energy consumption per capita 2019_: 79.448 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 478,700 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 38 (2020 est.)<br>
+_total subscriptions_: 469,100 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 36 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,912,900 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 150 (2020 est.)<br>
+_total subscriptions_: 1,971,300 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 152 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector in Mauritius has long been supported by the varied needs of tourists; this has stimulated the mobile market, leading to a particularly high penetration rate; the response of the country&rsquo;s telcos to tourist requirements also contributed to the country being among the first in the region to provide services based on 3G and WiMAX technologies; the incumbent telco provides comprehensive LTE and fiber broadband coverage, and in late 2021 it launched a gigabit fiber-based broadband service; the country has seen improved international internet capacity in recent years, with direct cables linking to India, Madagascar, and South Africa, as well as other connections to Rodrigues and Reunion; mobile subscribers in Mauritius secured 5G services in mid-2021;&nbsp; this followed the regulator&rsquo;s award of spectrum in two bands to the MNOs (2022)<br>
-_domestic_: fixed-line teledensity over 37 per 100 persons and mobile-cellular services teledensity roughly 150 per 100 persons (2020)<br>
+_domestic_: fixed-line teledensity over 36 per 100 persons and mobile-cellular services teledensity 152 per 100 persons (2021)<br>
 _international_: country code - 230; landing points for the SAFE, MARS, IOX Cable System, METISS&nbsp;and LION submarine cable system that provides links to Asia, Africa, Southeast Asia, Indian Ocean Islands of Reunion, Madagascar, and Mauritius; satellite earth station - 1 Intelsat (Indian Ocean); new microwave link to Reunion; HF radiotelephone links to several countries (2019)<br>
 
 **Broadcast media**<br>

@@ -200,7 +200,7 @@ _unimproved: total_: total: 38.6% of population (2020 est.)<br>
 (2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: Crimea-Congo hemorrhagic fever, malaria<br>
 <strong>note:</strong> Afghanistan is one of two countries with endemic wild polio virus (the other is Pakistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the US Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
@@ -285,7 +285,7 @@ _rate of urbanization_: 3.34% annual rate of change (2020-25 est.)<br>
 0.45% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: Crimea-Congo hemorrhagic fever, malaria<br>
 <strong>note:</strong> Afghanistan is one of two countries with endemic wild polio virus (the other is Pakistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the US Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
@@ -324,7 +324,7 @@ _former_: Islamic Republic of Afghanistan<br>
 _etymology_: the name "Afghan" originally referred to the Pashtun people (today it is understood to include all the country's ethnic groups), while the suffix "-stan" means "place of" or "country"; so Afghanistan literally means the "Land of the Afghans"<br>
 
 **Government type**<br>
-the United States does not recognize the Taliban government<br>
+theocratic; the United States does not recognize the Taliban Government<br>
 
 **Capital**<br>
 _name_: Kabul<br>
@@ -340,14 +340,14 @@ _etymology_: named for the Kabul River, but the river's name is of unknown origi
 19 August 1919 (from UK control over Afghan foreign affairs)<br>
 
 **National holiday**<br>
-Independence Day, 19 August (1919)<br>
+previous: Independence Day, 19 August (1919); under the Taliban Government, 15 August (2022) is declared a national holiday, marking the anniversary of the victory of the Afghan jihad<br><br><br>
 
 **Constitution**<br>
 _history_: last ratified in 2004<br>
 _amendments_: formerly proposed by a commission formed by presidential decree followed by the convention of a Grand Council (Loya Jirga) decreed by the president; passage requires at least two-thirds majority vote of the Loya Jirga membership and endorsement by the president<br>
 
 **Legal system**<br>
-<p>before the Taliban's takeover of Kabul in August 2021, Afghanistan had a mixed legal system of civil, customary, and Islamic (sharia) law; after August 2021, the Taliban’s so-called “interim government” has claimed to be implementing its own interpretation of Islamic law, partially based on the Hanafi school of Islamic jurisprudence.</p> (2021)<br>
+<p>before the Taliban's takeover of Kabul in August 2021, Afghanistan had a mixed legal system of civil, customary, and Islamic (sharia) law; after August 2021, the Taliban’s so-called “interim government” has claimed to be implementing its own interpretation of Islamic law, partially based on the Hanafi school of Islamic jurisprudence</p> (2021)<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; formerly accepted ICCt jurisdiction<br>
@@ -362,19 +362,19 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: <p>president (vacant); note – before 15 August, 2021, the president was both chief of state and head of government; President Ashraf GHANI departed the country on 15 August 2021; on 7 September 2021, the Taliban announced Mullah Mohammad HASSAN Akhund as the so-called “acting Prime Minister” of a so-called “interim government”; as of November 2021, the group had announced three acting so-called “Deputy Prime Ministers”: Mullah Abdul Ghani BERADER, Mullah Abdul Salam HANAFI, and Maulawi Abdul KABIR</p><br>
+_chief of state_: <p>president (vacant); note – before 15 August, 2021, the president was both chief of state and head of government; President Ashraf GHANI departed the country on 15 August 2021; on 7 September 2021, the Taliban announced Mullah Mohammad HASSAN Akhund as the so-called “acting Prime Minister” of a self-proclaimed “interim government”; as of November 2021, the group had announced three acting self-proclaimed “Deputy Prime Ministers”: Mullah Abdul Ghani BERADER, Mullah Abdul Salam HANAFI, and Maulawi Abdul KABIR</p><br>
 _head of government_: president (vacant); note - President Ashraf GHANI departed the country on 15 August 2021; on 7 September 2021, the Taliban announced Mullah Mohammad HASSAN Akhund as the acting Prime Minister of an interim Taliban government; the US does not recognize the Taliban government; as of November 2021, the group had announced three acting Deputy Prime Ministers: Mullah Abdul Ghani BERADER, Mullah Abdul Salam HANAFI, and Maulawi Abdul KABIR<br>
-_cabinet_: before 15 August 2021, the cabinet formerly consisted of 25 ministers appointed by the president, approved by the National Assembly; the Taliban have announced a so-called &ldquo;cabinet&rdquo; which includes 33 ministries<br>
+_cabinet_: before 15 August 2021, the cabinet formerly consisted of 25 ministers appointed by the president, approved by the National Assembly; the Taliban have announced a self-proclaimed &ldquo;cabinet&rdquo; which includes 33 ministries<br>
 _elections/appointments_: the 2004 Afghan constitution directed that the president should be elected by majority popular vote for a 5-year term (eligible for a second term); election last held on 28 September 2019<br>
 _election results_: no elections have been held since 2019; in that election, Ashraf GHANI was declared winner by the Independent Election Commission on 18 February 2020; the IEC declared Ashraf GHANI the winner with 50.6% of the vote, Abdullah ABDULLAH, Dr. 39.5%, other 0.9%<br>
 
 **Legislative branch**<br>
-_description_: before 15 August, 2021, Afghanistan had a bicameral National Assembly that consisted of a House of Elders and a House of People; since August 15, the Taliban&rsquo;s so-called &ldquo;interim government&rdquo; has not purported to announce the formation of a legislative branch<br>
+_description_: before 15 August, 2021, Afghanistan had a bicameral National Assembly that consisted of a House of Elders and a House of People; since August 15, the Taliban&rsquo;s self-proclaimed &ldquo;interim government&rdquo; has not purported to announce the formation of a legislative branch<br>
 _elections_: before 15 August, 2021:&nbsp; House of Elders - district councils - held within 5 days of installation; provincial councils - within 15 days of installation; and presidential appointees - within 2 weeks after the presidential inauguration; note - in early 2016, former President Ashraf Ghani extended their mandate until parliamentary and district elections could be held; former House of People - last held on 20 October 2018<br>
-_election results_: before 15 August 2021, House of Elders - percent of vote by party - NA; seats by party - NA; composition - men 85, women 17, percent of women 16.7%<br>before 15 August 2021, House of People - percent of vote by party NA; seats by party - NA; composition - men 179, women 69, percent of women 27.7%; note - total National Assembly percent of women 24.4%<br>
+_election results_: before 15 August 2021, House of Elders - percent of vote by party - NA; seats by party - NA; composition - men 85, women 17, percent of women 16.7%<br>before 15 August 2021, House of People - percent of vote by party NA; seats by party - NA; composition - men 181, women 69, percent of women 27.7%; note - total National Assembly percent of women 24.4%<br>
 
 **Judicial branch**<br>
-_highest court(s)_: the Taliban&rsquo;s so-called &ldquo;interim government&rdquo; has a &ldquo;Supreme Court&rdquo; (consisting of a supreme court chief and an unknown number of justices); before 15 August, 2021, Afghanistan had a Supreme Court (consisting of a supreme court chief and 8 justices organized into criminal, public security, civil, and commercial divisions)<br>
+_highest court(s)_: the Taliban&rsquo;s self-proclaimed &ldquo;interim government&rdquo; has a &ldquo;Supreme Court&rdquo; (consisting of a supreme court chief and an unknown number of justices); before 15 August, 2021, Afghanistan had a Supreme Court (consisting of a supreme court chief and 8 justices organized into criminal, public security, civil, and commercial divisions)<br>
 _judge selection and term of office_: the court chief and justices were appointed by the president with the approval of the Wolesi Jirga; court chief and justices served single 10-year terms<br>
 _subordinate courts_: before 15 August 2021, consisted of Appeals Courts; Primary Courts; and Special Courts for issues including narcotics, security, property, family, and juveniles<br>
 
@@ -721,7 +721,7 @@ not available<br>
 <strong>note: </strong>the Taliban dismissed nearly all women from the former Afghan Government security forces, except those serving in detention facilities and assisting with body searches <br>
 
 **Military - note**<br>
-the Taliban&rsquo;s primary security threats include ISIS-Khorasan and anti-Taliban resistance elements known as the National Resistance Front and Afghanistan Freedom Front (2022)<br>
+the Taliban&rsquo;s primary security threats include ISIS-Khorasan and anti-Taliban resistance elements known as the National Resistance Front and Afghanistan Freedom Front (2023)<br>
 
 ## Terrorism
 

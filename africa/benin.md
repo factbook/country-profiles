@@ -196,7 +196,7 @@ _unimproved: total_: total: 63.4% of population (2020 est.)<br>
 0.8% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 _animal contact diseases_: rabies<br>
@@ -284,7 +284,7 @@ _rate of urbanization_: 3.74% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 _animal contact diseases_: rabies<br>
@@ -698,7 +698,8 @@ _LNG terminal(s) (import)_: Cotonou<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Beninese Armed Forces (Forces Armees Beninoises, FAB; aka Benin Defense Forces): Army, Navy, Air Force; Ministry of Interior and Public Security: Republican Police (Police Republicaine, DGPR) (2022)<br>
+Beninese Armed Forces (Forces Armees Beninoises, FAB; aka Benin Defense Forces): Army, Navy, Air Force; Ministry of Interior and Public Security: Republican Police (Police Republicaine, DGPR) (2023)<br>
+<strong>note:</strong> FAB is under the Ministry of Defense and is responsible for external security and supporting the DGPR in maintaining internal security, which has primary responsibility for enforcing law and maintaining order <br>
 
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>
@@ -723,7 +724,7 @@ the FAB is equipped with a small mix of mostly older or secondhand French, Sovie
 a key focus for the security forces of Benin is countering infiltrations into the country by terrorist groups tied to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS) operating just over the border from north Benin in Burkina Faso and Niger; in May 2022, the Benin Government said it was "at war" after suffering a series of attacks from these groups; later that same year, President TALON said his government would spend more than $130 million to recruit up to 4,000 additional military personnel, modernize military equipment, and build and fortify operating bases; in addition, the FAB participates in the Multinational Joint Task Force (MNJTF) along with Cameroon, Chad, Niger, and Nigeria against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border <br><br>the FAB has a close working relationship with the Belgian armed forces; the Belgians offer military advice, training, and second-hand equipment donations, and deploy to Benin for limited military exercises (2023)<br>
 
 **Maritime threats**<br>
-<p>The International Maritime Bureau reported no incidents in 2022 in the waters off Benin; past incidents have been reported where vessels were attacked and crews kidnapped; these incidents showed that the pirates / robbers in the area are well armed and violent; pirates have robbed vessels and kidnapped crews for ransom; in the past, product tankers were hijacked and cargo stolen; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"</p><br>
+<p>the International Maritime Bureau reported no incidents in 2022 in the waters off Benin; past incidents have been reported where vessels were attacked and crews kidnapped; these incidents showed that the pirates / robbers in the area are well armed and violent; pirates have robbed vessels and kidnapped crews for ransom; in the past, product tankers were hijacked and cargo stolen; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 3 January 2023, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"</p><br>
 
 ## Terrorism
 

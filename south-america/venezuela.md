@@ -473,8 +473,8 @@ _female_: 19.3% (2021 est.) NA<br>
 39 (2011)<br>
 
 **Average household expenditures**<br>
-_On food_: 19.1% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 3.8% of household expenditures (2018 est.)<br>
+_on food_: 19.1% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 3.8% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
@@ -710,7 +710,7 @@ the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of
 between 2013 and 2017, Venezuela established at least a dozen military-led firms in a variety of economic sectors, such as agriculture, banking, construction, insurance, the media, mining, oil, and tourism; as of 2020, military officers reportedly led at least 60 state-owned companies; as of 2019, 9 of 32 government ministries were controlled by the military, including the ministries of agriculture and energy<br><br>as of 2023, members of the terrorist organizations National Liberation Army (ELN) and Revolutionary Armed Forces of Colombia dissidents (FARC-People's Army and Segundo Marquetalia - see Appendix T) operated in Venezuela, mostly in the states of Amazonas, Apure, Bolivar, Guarico, Tachira, and Zulia; the ELN was assessed to be present in 12 of Venezuela’s 23 states; the groups were particularly active in Apure state; the Venezuelan military has been deployed to the border region to patrol border crossings and has clashed with both the ELN and the FARC dissident groups (2023)<br>
 
 **Maritime threats**<br>
-The International Maritime Bureau continues to report the territorial and offshore waters in the Caribbean Sea as at risk for piracy and armed robbery against ships; numerous vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen; in 2021, no attacks were reported<br>
+The International Maritime Bureau reported three attacks in 2022 where ships were boarded in the territorial and offshore waters of Venezuela, an increase from no attacks in 2021; ports in Venezuela continue to be affected by the crime of armed robbery; the Caribbean Sea remains at risk for piracy and armed robbery against ships; numerous vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen<br>
 
 ## Terrorism
 

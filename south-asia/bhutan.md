@@ -315,7 +315,7 @@ _elections/appointments_: the monarchy is hereditary but can be removed by a two
 **Legislative branch**<br>
 _description_: bicameral Parliament or Chi Tshog consists of:<br>non-partisan National Council or Gyelyong Tshogde (25 seats; 20 members directly elected in single-seat constituencies by simple majority vote and 5 members appointed by the king; members serve 5-year terms)<br>National Assembly or Tshogdu (47 seats; members directly elected in single-seat constituencies in a two-round majoritarian voting system; members serve 5-year terms)<br>
 _elections_: <br>National Council election last held on 20 April 2018 (next to be held in April 2023)<br>National Assembly - first round held on 15 September 2018 and second round held on 18 October 2018 (next to be held in 2023)<br>
-_election results_: <br>National Council - seats by party - independent 20 (all candidates ran as independents); composition - men 23, women 2, percent of women 8%<br>National Assembly - first round - percent of vote by party - DNT 31.9%, DPT 30.9%, PDP 27.4%, BKP 9.8%; second round - percent of vote by party -  NA; seats by party - DNT 30, DPT 17; composition - men 40, women 7, percent of women 14.9%; note - total Parliament percent of women 12.5%<br>
+_election results_: <br>National Council - seats by party - independent 20 (all candidates ran as independents) and 5 appointed by the king; composition - men 23, women 2, percent of women 8%<br>National Assembly - first round - percent of vote by party - DNT 31.9%, DPT 30.9%, PDP 27.4%, BKP 9.8%; second round - percent of vote by party -  NA; seats by party - DNT 30, DPT 17; composition - men 40, women 7, percent of women 14.9%; note - total Parliament percent of women 12.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 4 associate&nbsp;justices); note - the Supreme Court has sole jurisdiction in constitutional matters<br>
@@ -323,7 +323,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: High Court (first appellate court); District or Dzongkhag Courts; sub-district or Dungkhag Courts<br>
 
 **Political parties and leaders**<br>
-<p>Bhutan Kuen-Nyam Party<br>Bhutan Peace and Prosperity Party (Druk Phuensum Tshogpa) or DPT [Dorji WANGDI] (Druk Chirwang Tshogpa or DCT merged with DPT in March 2018)<br>People's Democratic Party or PDP [Tshering TOBGAY]<br>United Party of Bhutan (Druk Nyamrup Tshogpa) or DNT [Lotay TSHERING]</p><br>
+<p>Bhutan Kuen-Nyam Party  (dissolved in January 2023)<br>Bhutan Peace and Prosperity Party (Druk Phuensum Tshogpa) or DPT [Dorji WANGDI] (Druk Chirwang Tshogpa or DCT merged with DPT in March 2018)<br>People's Democratic Party or PDP [Tshering TOBGAY]<br>United Party of Bhutan (Druk Nyamrup Tshogpa) or DNT [Lotay TSHERING]</p><br>
 
 **International organization participation**<br>
 ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IMF, Interpol, IOC, IOM (observer), IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>

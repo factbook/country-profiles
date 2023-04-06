@@ -352,8 +352,8 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Milo DJUKANOVIC (since 20 May 2018)<br>
 _head of government_: Prime Minister Dritan ABAZOVIC (since 28 April 2022)<br>
 _cabinet_: Ministers act as cabinet<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 19 March 2023 (runoff to be held on 2 April 2023); prime minister nominated by the president, approved by the Assembly<br>
-_election results_: <em>2018:</em> Milo DJUKANOVIC elected president in the first round; percent of vote - Milo DJUKANOVIC (DPS) 53.9%, Mladen BOJANIC (independent) 33.4%, Draginja VUKSANOVIC (SDP) 8.2%, Marko MILACIC (PRAVA) 2.8%, other 1.7%<br><br><em>2013:</em> Filip VUJANOVIC reelected president; percent of vote Filip VUJANOVIC (DPS) 51.2%, Miodrag LEKIC (independent) 48.8%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 19 March 2023 with a runoff on 2 April 2023 (next to be held in 2028); prime minister nominated by the president, approved by the Assembly<br>
+_election results_: <em>2023: </em>Jakov MILATOVIC elected president in the second round; percent of vote in first round - Milo DUKANOVIC (DPS) 35.4%, Jakov MILATOVIC (Europe Now!) 28.9%, Andrija MANDIC (DF) 19.3%, Aleksa BECIC (DCG) 11.1%, other 5.3%; percent of vote in second round - Jakov MILATOVIC 58.9%, Milo DUKANOVIC 41.1%<em>; </em>MILATOVIC takes office on 20 May 2023<em><br><br>2018:</em> Milo DJUKANOVIC elected president in the first round; percent of vote - Milo DJUKANOVIC (DPS) 53.9%, Mladen BOJANIC (independent) 33.4%, Draginja VUKSANOVIC (SDP) 8.2%, Marko MILACIC (PRAVA) 2.8%, other 1.7%<br><br><em>2013:</em> Filip VUJANOVIC reelected president; percent of vote Filip VUJANOVIC (DPS) 51.2%, Miodrag LEKIC (independent) 48.8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
@@ -366,7 +366,7 @@ _judge selection and term of office_: Supreme Court president proposed by genera
 _subordinate courts_: Administrative Courts; Appellate Court; Commercial Courts; High Courts; basic courts<br>
 
 **Political parties and leaders**<br>
-Albanian Alternative or AA [Nik DELJOSAJ]<br>Albanian Coalition (includes DP, DSCG, DUA for 2020 election)<br>Albanian Coalition Perspective or AKP<br>Albanian List or AL [Nik DELJOSAJ and Nazif CUNGU] (coalition includes AA, Forca, AKP, DSA)<br>Bosniak Party or BS [Ervin IBRAHIMOVIC]<br>Croatian Civic Initiative or HGI [Adrian VUKSANOVIC]<br>Croatian Reform Party [Marija VUCINOVIC]<br>Democratic Alliance or DEMOS [Miodrag LEKIC]<br>Democratic Front or DF [collective leadership] (coalition includes NOVA, PZP, DNP, RP)<br>Democratic League in Montenegro or DSCG [Mehmet BARDHI]<br>Democratic League of Albanians or DSA<br>Democratic Montenegro or DCG [Aleksa BECIC]<br>Democratic Party or DP [Fatmir GJEKA]<br>Democratic Party of Socialists or DPS [Milo DJUKANOVIC]<br>Democratic Party of Unity or DSJ [Nebojsa JUSKOVIC]<br>Democratic People's Party or DNP [Milan KNEZEVIC]<br>Democratic Serb Party or DSS [Dragica PEROVIC]<br>Democratic Union of Albanians or DUA [Mehmet ZENKA]<br>For the Future of Montenegro or ZBCG [Zdravko KRIVOKAPIC] (electoral coalition includes SNP and 2 alliances - DF, NP)<br>In Black and White [Dritan ABAZOVIC] (electoral list)<br>Liberal Party or LP [Andrija POPOVIC]<br>Movement for Changes or PZP [Nebojsa MEDOJEVIC]<br>New Democratic Power or FORCA [Nazif CUNGU]<br>New Serb Democracy or NSD or NOVA [Andrija MANDIC]<br>Party of Pensioners, Disabled, and Restitution or PUPI [Momir JOKSIMOVIC]<br>Peace is Our Nation or MNIM [Aleksa BECIC] (coalition includes Democrats, DEMOS, New Left, PUPI)<br>Popular Movement or NP [Miodrag DAVIDOVIC] (coalition includes DEMOS, RP, UCG, and several minor parties)<br>Social Democratic Party or SDP [Rasko KONJEVIC]<br>Social Democrats or SD [Damir SEHOVIC]<br>Socialist People's Party or SNP [Vladimir JOKOVIC]<br>True Montenegro or PRAVA or PCG [Marko MILACIC]<br>United Montenegro or UCG [Goran DANILOVIC] (split from DEMOS)<br>United Reform Action or URA [Dritan ABAZOVIC]<br>Workers' Party or RP [Maksim VUCINIC]<br>
+Albanian Alternative or AA [Nik DELJOSAJ]<br>Albanian Coalition (includes DP, DSCG, DUA for 2020 election)<br>Albanian Coalition Perspective or AKP<br>Albanian List or AL [Nik DELJOSAJ and Nazif CUNGU] (coalition includes AA, Forca, AKP, DSA)<br>Bosniak Party or BS [Ervin IBRAHIMOVIC]<br>Croatian Civic Initiative or HGI [Adrian VUKSANOVIC]<br>Croatian Reform Party [Marija VUCINOVIC]<br>Democratic Alliance or DEMOS [Miodrag LEKIC]<br>Democratic Front or DF [collective leadership] (coalition includes NOVA, PZP, DNP, RP)<br>Democratic League in Montenegro or DSCG [Mehmet BARDHI]<br>Democratic League of Albanians or DSA<br>Democratic Montenegro or DCG [Aleksa BECIC]<br>Democratic Party or DP [Fatmir GJEKA]<br>Democratic Party of Socialists or DPS [Milo DJUKANOVIC]<br>Democratic Party of Unity or DSJ [Nebojsa JUSKOVIC]<br>Democratic People's Party or DNP [Milan KNEZEVIC]<br>Democratic Serb Party or DSS [Dragica PEROVIC]<br>Democratic Union of Albanians or DUA [Mehmet ZENKA]<br>Europe Now! [Milojko SPAJIC]<br>For the Future of Montenegro or ZBCG [Zdravko KRIVOKAPIC] (electoral coalition includes SNP and 2 alliances - DF, NP)<br>In Black and White [Dritan ABAZOVIC] (electoral list)<br>Liberal Party or LP [Andrija POPOVIC]<br>Movement for Changes or PZP [Nebojsa MEDOJEVIC]<br>New Democratic Power or FORCA [Nazif CUNGU]<br>New Serb Democracy or NSD or NOVA [Andrija MANDIC]<br>Party of Pensioners, Disabled, and Restitution or PUPI [Momir JOKSIMOVIC]<br>Peace is Our Nation or MNIM [Aleksa BECIC] (coalition includes Democrats, DEMOS, New Left, PUPI)<br>Popular Movement or NP [Miodrag DAVIDOVIC] (coalition includes DEMOS, RP, UCG, and several minor parties)<br>Social Democratic Party or SDP [Rasko KONJEVIC]<br>Social Democrats or SD [Damir SEHOVIC]<br>Socialist People's Party or SNP [Vladimir JOKOVIC]<br>True Montenegro or PRAVA or PCG [Marko MILACIC]<br>United Montenegro or UCG [Goran DANILOVIC] (split from DEMOS)<br>United Reform Action or URA [Dritan ABAZOVIC]<br>Workers' Party or RP [Maksim VUCINIC]<br>
 
 **International organization participation**<br>
 CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -485,8 +485,8 @@ _female_: 36.7% (2021 est.)<br>
 36.8 (2018 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 27.5% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 6.8% of household expenditures (2018 est.)<br>
+_on food_: 27.5% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 6.8% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.5%<br>
@@ -623,16 +623,16 @@ _Total energy consumption per capita 2019_: 77.286 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 191,768 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
+_total subscriptions_: 189,519 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 30 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,080,089 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 172 (2020 est.)<br>
+_total subscriptions_: 1,120,074 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 178 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a small telecom market supported by a population of only 623,000; fixed broadband services are available via a variety of technology platforms, though fiber is the dominant platform, accounting for almost 40% of connections; the growth of fiber has largely been at the expense of DSL as customers are migrated to fiber networks as these are built out progressively; mobile penetration is particularly high, though this is partly due to the significant number of tourists visiting the country seasonally, as also to the popularity of subscribers having multiple prepaid cards; in the wake of the pandemic and associated restrictions on travel, the number of mobile subscribers fell in 2020, as also in the first quarter of 2021, year-on-year; networks support a vibrant mobile broadband services sector, largely based on LTE; two of the MNOs began trialing 5G in May 2021, though commercial services will not gain traction until after the multi-spectrum auction is completed at the end of 2021; spectrum is available in the 694-790MHz and 3400-3800MHz ranges, as well as in the 26.5-27.5GHz range (2021)<br>
-_domestic_: GSM mobile-cellular service, available through multiple providers; fixed-line over 30 per 100 and mobile-cellular 172 per 100 persons (2020)<br>
+_domestic_: fixed-line over 30 per 100 and mobile-cellular 178 per 100 persons (2021)<br>
 _international_: country code - 382; 2 international switches connect the national system<br>
 
 **Broadcast media**<br>
@@ -692,7 +692,7 @@ _major seaport(s)_: Bar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Armed Forces of the Republic of Montenegro is a joint force with land, air, and naval elements (2022)<br>
+Army of Montenegro (Vojska Crne Gore or VCG): Ground Forces, Air Force, Navy (2023)<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2022 est.)<br>
@@ -708,7 +708,7 @@ approximately 2,000 active duty troops (2022)<br>
 the military's inventory is small and consists mostly of Soviet-era equipment inherited from the former Yugoslavia military, with a limited mix of other imported systems from such countries as Austria, Turkey, and the US&nbsp; (2022)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; conscription abolished in 2006 (2021)<br>
+18 is the legal minimum age for voluntary military service; conscription abolished in 2006 (2023)<br>
 <strong>note:</strong> as of 2021, women made up about 10% of the military's full-time personnel<br>
 
 **Military - note**<br>
@@ -722,7 +722,7 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 <p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,866 (Ukraine) (as of 20 March 2023)<br>
+_refugees (country of origin)_: 35,071 (Ukraine) (as of 27 March 2023)<br>
 _stateless persons_: 468 (2022)<br>
 <strong>note:</strong> 29,776 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 

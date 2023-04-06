@@ -196,7 +196,7 @@ _unimproved: total_: total: 22% of population (2020 est.)<br>
 (2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria are high risks in some locations<br>
 _water contact diseases_: leptospirosis<br>
@@ -283,7 +283,7 @@ _rate of urbanization_: 2.88% annual rate of change (2020-25 est.)<br>
 0.02% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria are high risks in some locations<br>
 _water contact diseases_: leptospirosis<br>
@@ -370,7 +370,7 @@ _election results_: <em>2018:</em> President Abdul HAMID (AL) reelected by the N
 **Legislative branch**<br>
 _description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the elected members by proportional representation vote using single transferable vote; all members serve 5-year terms)<br>
 _elections_: last held on 30 December 2018 (next to be held in December 2023)<br>
-_election results_: percent of vote by party - NA; seats by party as of February 2022 - AL 299, JP 27, BNP 7, other 10, independent 4; composition - men 277, women 73, percent of women 20.9%<br>
+_election results_: percent of vote by party - NA; seats by party as of February 2022 - AL 299, JP 27, BNP 7, other 10, independent 7; composition - men 277, women 73, percent of women 20.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)<br>
@@ -499,8 +499,8 @@ _female_: 19.6% (2021 est.)<br>
 32.4 (2016 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 53.5% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 1.9% of household expenditures (2018 est.)<br>
+_on food_: 53.5% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 1.9% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4%<br>

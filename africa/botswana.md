@@ -196,7 +196,7 @@ _unimproved: total_: total: 14.4% of population (2020 est.)<br>
 18.6% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria<br>
 <strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Botswana is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
@@ -277,7 +277,7 @@ _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 0.45% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria<br>
 <strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Botswana is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
@@ -689,8 +689,8 @@ _unpaved_: 21,937 km (2017)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Logistics Command (2022)<br>
-<strong>note:</strong> both the BDF and the Botswana Police Service report to the Ministry of Defense, Justice, and Security<br>
+Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Logistics Command (2023)<br>
+<strong>note:</strong> both the BDF and the Botswana Police Service report to the Ministry of Defense and Security; the Botswana Police Service has primary responsibility for internal security; the BDF reports to the Office of the President through the minister of defense and security and has some domestic security responsibilities<br>
 
 **Military expenditures**<br>
 3% of GDP (2021 est.)<br>
@@ -712,7 +712,7 @@ the BDF has a mix of foreign-supplied and mostly older weapons and equipment, la
 approximately 300 Mozambique (Southern African Development Community force) (2023)<br>
 
 **Military - note**<br>
-Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces in the 1960s and 1970s demonstrated that the PMU was inadequate for defending the country and led to the establishment of the Botswana Defense Force (BDF) in 1977; as of 2022, the BDF’s primary missions included securing territorial integrity/border security and internal duties such as disaster relief and anti-poaching <br><br>Botswana participates in the Southern African Development Community (SADC) Standby Force, and beginning in 2021 contributed nearly 300 troops to the SADC’s effort to help the Mozambique Government suppress an insurgency (2023)<br>
+Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces in the 1960s and 1970s demonstrated that the PMU was inadequate for defending the country and led to the establishment of the Botswana Defense Force (BDF) in 1977; today, the BDF’s primary missions include securing territorial integrity/border security and internal duties such as disaster relief and anti-poaching <br><br>Botswana participates in the Southern African Development Community (SADC) Standby Force, and beginning in 2021 contributed nearly 300 troops to the SADC’s effort to help the Mozambique Government suppress an insurgency (2023)<br>
 
 ## Transnational Issues
 

@@ -371,12 +371,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 68,840 (2017)<br>
-_subscriptions per 100 inhabitants_: 195.94 (2019)<br>
+_total subscriptions_: 68,840 (2012)<br>
+_subscriptions per 100 inhabitants_: 196 (2012)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: generally adequate facilities; growth sectors include mobile telephone and data segments; effective competition; LTE expansion; tourism and telecom sector contribute greatly to the GDP (2018)<br>
-_domestic_: extensive interisland microwave radio relay links; 196 per 100 mobile-cellular teledensity (2019)<br>
+_domestic_: 196 per 100 mobile-cellular teledensity (2012)<br>
 _international_: country code - 1-721; landing points for SMPR-1 and the ECFS submarine cables providing connectivity to the Caribbean; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Internet country code**<br>
@@ -415,4 +415,8 @@ defense is the responsibility of the Kingdom of the Netherlands<br>
 
 **Disputes - international**<br>
 non identified<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 3 &mdash; Sint Maarten does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore Sint Maarten was downgraded to Tier 3; officials took some steps to address trafficking, including investigating a potential trafficking case; however, the government did not report prosecuting or convicting any traffickers nor identify any victims for the second consecutive year; Sint Maarten was not equipped to provide services to trafficking victims due to its lack of shelters, funding, and formal arrangements with service providers; the government did not update its national action plan, which expired in 2018, and interagency coordination was severely lacking; officials consistently conflated human trafficking with migrant smuggling (2022)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Sint Maarten; some brothel and dance club owners exploit women and girls from Latin America, the Caribbean, Eastern Europe, and Russia in sex trafficking; women from Haiti, Dominican Republic, and Venezuela are especially vulnerable to sex trafficking in Sint Maarten; government officials report a significant number of migrant workers are vulnerable to coercive schemes in domestic service, construction, Chinese national-owned markets, retail shops, food service, landscaping, and housekeeping; criminals, including smugglers, subject migrants&mdash;specifically Cuban and Brazilian nationals&mdash;who transit Sint Maarten en route to the United States and Canada to forced labor or sex trafficking; traffickers may exploit, under false pretenses, Colombian and Venezuelan women traveling to the islands in forced labor or sex trafficking (2022)<br>
 

@@ -607,16 +607,16 @@ _Total energy consumption per capita 2019_: 40.398 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,027,689 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 25 (2020 est.)<br>
+_total subscriptions_: 1,000,228 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 33 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,420,383 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 85 (2020 est.)<br>
+_total subscriptions_: 3,900,179 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 127 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom market has been affected by a combination of high unemployment and economic difficulties which have led to constraints on consumer spending; this has resulted in telecom revenue having fallen steadily in recent years; this decline continued into 2020, with a 6.3% in revenue from the important mobile sector alone, year-on-year; Moldova&rsquo;s aspirations to join the EU have encouraged the government and regulator to adopt a range of measures to bring the country&rsquo;s telecoms sector into line with EU principles and standards; in July 2017 the Electronic Communications Act was amended to accommodate the 2009 European regulatory framework, while further amendments were adopted in December 2017 and additional changes were proposed in 2019; Moldova is also part of the Eastern Partnership group of countries, and as such has set in train a glide path to reducing roaming charges, effective between 2022 and 2026; the country&rsquo;s broadband strategy through to 2025 has been supported by the ITU and industry counterparts from South Korea; the internet market is developing rapidly; the market is highly competitive, with 101 active ISPs as of early 2021; the number of cable broadband subscribers is increasing steadily, though fiber is now by far the strongest sector; by the end of 2020 fiber accounted for about 72.3% of all fixed broadband connections; the mobile market has also grown rapidly; the near comprehensive geographical reach of their mobile networks, market brand recognition and existing customer relationships will make for steady subscriber growth in coming years (2022)<br>
-_domestic_: competition among mobile telephone providers has spurred subscriptions; little interest in expanding fixed-line service which is roughly 25 per 100; mobile-cellular teledensity nearly 85 per 100 persons (2020)<br>
+_domestic_: fixed-line service is 33 per 100; mobile-cellular teledensity is 127 per 100 persons (2021)<br>
 _international_: country code - 373; service through Romania and Russia via landline; satellite earth stations - at least 3 - Intelsat, Eutelsat, and Intersputnik<br>
 
 **Broadcast media**<br>
@@ -710,7 +710,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 107,277 (Ukraine) (as of 19 March 2023)<br>
+_refugees (country of origin)_: 107,010 (Ukraine) (as of 26 March 2023)<br>
 _stateless persons_: 1,701 (2022)<br>
 
 **Illicit drugs**<br>

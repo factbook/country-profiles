@@ -475,8 +475,8 @@ _female_: 43.6% (2021 est.)<br>
 49.8 (2019 est.)<br>
 
 **Average household expenditures**<br>
-_On food_: 15.7% of household expenditures (2018 est.)<br>
-_On alcohol and tobacco_: 1.7% of household expenditures (2018 est.)<br>
+_on food_: 15.7% of household expenditures (2018 est.)<br>
+_on alcohol and tobacco_: 1.7% of household expenditures (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.1%<br>
@@ -616,16 +616,16 @@ _Total energy consumption per capita 2019_: 98.946 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 649,156 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 15 (2020 est.)<br>
+_total subscriptions_: 790,486 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,825,677 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 135 (2020 est.)<br>
+_total subscriptions_: 6,003,255 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 138 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Panama has seen a steady increase in revenue from the telecom sector in recent years; mobile services and broadband remain the key growth sectors, with mobile connections accounting for 90% of all connections, and over half of telecom sector revenue; the mobile market has effective competition; internet services have grown in recent years as consumers responded to government fixed-line projects, improved mobile broadband connectivity and mobile applications (2021)<br>
-_domestic_: fixed-line about 14 per 100 and rapid subscribership of mobile-cellular telephone roughly 132 per 100 (2020)<br>
+_domestic_: fixed-line is 18 per 100 and subscribership of mobile-cellular telephone is 138 per 100 (2021)<br>
 _international_: country code - 507; landing points for the&nbsp;PAN-AM, ARCOS, SAC, AURORA,&nbsp;PCCS, PAC, and the MAYA-1 submarine cable systems that together provide links to the US and parts of the Caribbean, Central America, and South America; satellite earth stations - 2 Intelsat (Atlantic Ocean); connected to the Central American Microwave System (2019)<br>
 
 **Broadcast media**<br>
