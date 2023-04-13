@@ -272,9 +272,9 @@ _rate of urbanization_: 2.3% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 101,379 tons (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 10 million cubic meters (2019 est.)<br>
-_industrial_: 20 million cubic meters (2019 est.)<br>
-_agricultural_: 70 million cubic meters (2019 est.)<br>
+_municipal_: 10 million cubic meters (2020 est.)<br>
+_industrial_: 20 million cubic meters (2020 est.)<br>
+_agricultural_: 70 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 21.7 billion cubic meters (2019 est.)<br>
@@ -500,7 +500,7 @@ $1.102 billion (2019 est.)<br>
 United Kingdom 27%, United States 24%, Spain 6%, Jamaica 5%, Ireland 5% (2019)<br>
 
 **Exports - commodities**<br>
-raw sugar, bananas, fruit juice, fish products, crude petroleum (2019)<br>
+raw sugar, bananas, fishing ships, lobsters and crawfish, beer (2021)<br>
 
 **Imports**<br>
 $1.252 billion (2021 est.) note: data are in current year dollars<br>
@@ -615,8 +615,8 @@ _international_: country code - 501; landing points for the&nbsp;ARCOS and SEUL&
 .bz<br>
 
 **Internet users**<br>
-_total_: 202,787 (2020 est.)<br>
-_percent of population_: 51% (2020 est.)<br>
+_total_: 248,000 (2021 est.)<br>
+_percent of population_: 62% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 36,000 (2020 est.)<br>

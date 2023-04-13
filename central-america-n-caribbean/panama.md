@@ -193,7 +193,7 @@ _unimproved: total_: total: 12.8% of population (2020 est.)<br>
 NA<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever<br>
 
@@ -273,7 +273,7 @@ _rate of urbanization_: 1.92% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever<br>
 
@@ -701,8 +701,8 @@ no regular military forces; Ministry of Public Security: the Panama National Pol
 1.2% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
-1.2% of GDP (2019) (approximately $1.38 billion)<br>
-1.1% of GDP (2018) (approximately $1.33 billion)<br>
+1.2% of GDP (2019)<br>
+1.1% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 20,000 National Police; 4,000 National Border Service; 3,000 National Air-Naval Service (2022)<br>

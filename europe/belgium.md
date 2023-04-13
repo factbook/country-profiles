@@ -276,9 +276,9 @@ _percent of municipal solid waste recycled_: 34.3% (2015 est.)<br>
 Atlantic Ocean drainage: Seine (78,919 sq km), Rhine-Maas (198,735 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 740 million cubic meters (2019 est.)<br>
-_industrial_: 3.47 billion cubic meters (2019 est.)<br>
-_agricultural_: 50 million cubic meters (2019 est.)<br>
+_municipal_: 740 million cubic meters (2020 est.)<br>
+_industrial_: 3.47 billion cubic meters (2020 est.)<br>
+_agricultural_: 50 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 18.3 billion cubic meters (2017 est.)<br>
@@ -514,7 +514,7 @@ $441.566 billion (2019 est.)<br>
 Germany 17%, France 14%, Netherlands 13%, United Kingdom 8%, United States 6%, Italy 5% (2019)<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, refined petroleum, packaged medicines, medical cultures/vaccines, diamonds, natural gas (2019)<br>
+vaccines and cultures, cars, packaged medicines, refined petroleum, diamonds, natural gas (2021)<br>
 
 **Imports**<br>
 $509.018 billion (2021 est.) note: data are in current year dollars<br>
@@ -627,8 +627,8 @@ a segmented market with the three major communities (Flemish, French, and German
 .be<br>
 
 **Internet users**<br>
-_total_: 10,620,701 (2020 est.)<br>
-_percent of population_: 92% (2020 est.)<br>
+_total_: 10.92 million (2021 est.)<br>
+_percent of population_: 91% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,734,210 (2020 est.)<br>
@@ -728,7 +728,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 69,996 (Ukraine) (as of 28 March 2023)<br>
+_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 70,307 (Ukraine) (as of 3 April 2023)<br>
 _stateless persons_: 1,190 (2022)<br>
 
 **Illicit drugs**<br>

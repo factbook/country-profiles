@@ -178,11 +178,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -225,11 +220,6 @@ _other_: 43.7% (2018 est.)<br>
 **Urbanization**<br>
 _urban population_: 72.7% of total population (2023)<br>
 _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
-
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 108,157 tons (2016 est.)<br>

@@ -210,9 +210,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2021 est.)<br>
 
-**Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 9 December 2022, France has reported a total of 37,252,086 cases of COVID-19 or 57276.2 cumulative cases of COVID-19 per 100,000 population with a total of 155,898 cumulative deaths or a rate 239.7 cumulative deaths per 100,000 population; as of 7 December 2022, 80.54% of the population has received at least one dose of COVID-19 vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 21.6% (2016)<br>
 
@@ -286,9 +283,6 @@ _rate of urbanization_: 0.67% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 9 December 2022, France has reported a total of 37,252,086 cases of COVID-19 or 57276.2 cumulative cases of COVID-19 per 100,000 population with a total of 155,898 cumulative deaths or a rate 239.7 cumulative deaths per 100,000 population; as of 7 December 2022, 80.54% of the population has received at least one dose of COVID-19 vaccine<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 33.399 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 7,434,617 tons (2015 est.)<br>
@@ -307,9 +301,9 @@ Atlantic Ocean drainage: Loire (115,282 sq km), Seine (78,919 sq km), Rhine-Maas
 Paris Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 5 billion cubic meters (2020 est.)<br>
-_industrial_: 18.55 billion cubic meters (2020 est.)<br>
-_agricultural_: 2.99 billion cubic meters (2020 est.)<br>
+_municipal_: 5.31 billion cubic meters (2020 est.)<br>
+_industrial_: 17.78 billion cubic meters (2020 est.)<br>
+_agricultural_: 3.18 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 211 billion cubic meters (2019 est.)<br>
@@ -668,8 +662,8 @@ a mix of both publicly operated and privately owned TV stations; state-owned Fra
 metropolitan France - .fr; French Guiana - .gf; Guadeloupe - .gp; Martinique - .mq; Mayotte - .yt; Reunion - .re<br>
 
 **Internet users**<br>
-_total_: 57,272,921 (2020 est.)<br>
-_percent of population_: 85% (2020 est.)<br>
+_total_: 55.9 million (2021 est.)<br>
+_percent of population_: 86% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 30.627 million (2020 est.)<br>

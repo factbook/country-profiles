@@ -478,12 +478,16 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 10 (2020 est.)<br>
+_total subscriptions_: 4,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2021 est.)<br>
+
+**Telephones - mobile cellular**<br>
+_total subscriptions_: 25,085 (2004 est.)<br>
+_subscriptions per 100 inhabitants_: 110 (2004 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: fully digital system with international direct dialing; broadband access; expanded FttP (Fiber to the Home) markets; LTE expansion points to investment and focus on data; regulatory development; telecommunication contributes to greatly to GDP (2020)<br>
-_domestic_: full range of services available; GSM wireless service available; fixed-line teledensity roughly 10 per 100 persons (2020)<br>
+_general assessment_: is connected to the internet via a single submarine fiber-optic cable (Arcos-1), which links the US and several Caribbean countries (2023)<br>
+_domestic_: fixed-line teledensity is 9 per 100 persons (2021)<br>
 _international_: country code - 1-649;&nbsp;landing point for the&nbsp;ARCOS fiber-optic telecommunications submarine cable providing connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2020)<br>
 
 **Broadcast media**<br>

@@ -200,7 +200,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 1% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever, Japanese encephalitis, and malaria<br>
 
@@ -285,7 +285,7 @@ _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 0.03% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever, Japanese encephalitis, and malaria<br>
 
@@ -494,7 +494,7 @@ _female_: 8.1% (2021 est.)<br>
 9.9% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-36.4 (2018 est.)<br>
+35 (2020 est.)<br>
 
 **Average household expenditures**<br>
 _on food_: 24.3% of household expenditures (2018 est.)<br>
@@ -636,16 +636,16 @@ _Total energy consumption per capita 2019_: 76.714 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5.003 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 7 (2020 est.)<br>
+_total subscriptions_: 4.6 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 129.614 million (2019)<br>
-_subscriptions per 100 inhabitants_: 186.16 (2019)<br>
+_total subscriptions_: 120 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 170 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Thailand&rsquo;s telecom sector is relatively mature and hosts a mix of public and private sector players; the mobile market is highly developed and has experienced strong growth over the last seven years; the market returned to growth in 2021 after it contracted in 2020 driven by the Covid-19 pandemic, and a steep decline in inbound tourism; it remains highly saturated, owing to overall maturity and the popularity of multiple SIM card use, which has resulted in a particularly high penetration rate; in general, the sector retains considerable potential given the impetus of 5G, the recent spectrum auctions, and continued network deployments by the country&rsquo;s network operators; further auctions of spectrum in the 700MHz band (being repurposed from digital TV broadcasting), and in the 3.6GHz range will further improve network capacity; in the wire line segment, the decline in fixed-line penetration is expected to continue as subscribers migrate to mobile networks for voice and data services; the emphasis among operators has been to bolster their fiber footprints in key high-value areas; the transition to fiber from DSL and cable has also been facilitated by changes to the regulatory structure that have removed some barriers to investment; this is supporting the cannibalization of older copper-based DSL lines by fiber; the returns from this investment remain a long-term prospect as consumers still favor entry-level packages; there is also strong interest from the government, as well as private vendors, in establishing Thailand as a data center hub to serve the region; the size, capacity and spread of existing data centers in the Greater Mekong Subregion (GMS) outside of Thailand is small; Thailand retains some advantages to attract investment, including improved fiber connectivity and international bandwidth; increasing submarine capacity, such as the SJC2 cable to come online later in 2022, will considerably improve Thailand&rsquo;s potential as a regional hub (2022)<br>
-_domestic_: fixed-line system provided by both a government-owned and commercial provider; wireless service expanding; fixed-line over 7 per 100 and mobile-cellular nearly 167 per 100 (2020)<br>
+_domestic_: fixed-line is 7 per 100 and mobile-cellular is 170 per 100 (2021)<br>
 _international_: country code - 66; landing points for the AAE-1, FEA, SeaMeWe-3,-4, APG, SJC2, TIS, MCT and AAG submarine cable systems providing links throughout Asia, Australia, Africa, Middle East, Europe, and US; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean) (2019)<br>
 
 **Broadcast media**<br>
@@ -720,15 +720,15 @@ _LNG terminal(s) (import)_: Map Ta Phut<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Thai, RTA), Royal Thai Navy (Kongthap Ruea Thai, RTN; includes Royal Thai Marine Corps), Royal Thai Air Force (Kongthap Akaat Thai, RTAF); Office of the Prime Minister: Royal Thai Police; Internal Security Operations Command (ISOC) (2022)<br>
+Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Thai, RTA), Royal Thai Navy (Kongthap Ruea Thai, RTN; includes Royal Thai Marine Corps), Royal Thai Air Force (Kongthap Akaat Thai, RTAF); Office of the Prime Minister: Royal Thai Police; Internal Security Operations Command (ISOC) (2023)<br>
 <strong>note 1:</strong> the ISOC oversees counter-insurgency operations, as well as countering terrorism, narcotics and weapons trafficking, and other internal security duties; it is primarily run by the Army<br><br><strong>note 2:</strong> official paramilitary forces in Thailand include the Thai Rangers (Thahan Phran or "Hunter Soldiers") under the Army; the Paramilitary Marines under the Navy; the Border Patrol Police (BPP) under the Royal Thai Police; the Volunteer Defense Corps (VDC or <em>O So</em>) and National Defense Volunteers (NDV), both under the Ministry of Interior; there are also several government-backed volunteer militias created to provide village security against insurgents in the deep south or to assist the ISOC<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>
 1.4% of GDP (2020)<br>
-1.3% of GDP (2019) (approximately $14.6 billion)<br>
-1.3% of GDP (2018) (approximately $14.2 billion)<br>
-1.4% of GDP (2017) (approximately $13.8 billion)<br>
+1.3% of GDP (2019)<br>
+1.3% of GDP (2018)<br>
+1.4% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 300,000 active duty personnel (200,000 Army; 70,000 Navy; 30,000 Air Force); approximately 230,000 Royal Thai Police (2022)<br>

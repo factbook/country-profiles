@@ -194,8 +194,7 @@ _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 NA<br>
 
 **Major infectious diseases**<br>
-_respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 9 December 2022, the UK reported a total of 24,053,576 cases of COVID-19 or 35,432.3 cumulative cases of COVID-19 per 100,000 population with a total of 197,723 cumulative deaths or a rate of 291.25 cumulative deaths per 100,000 population; as of 10 August 2022, 79.89% of the population received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br><br><strong>note 2: </strong>on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued an updated Travel Alert for polio in Europe; the United Kingdom is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued an updated Travel Alert for polio in Europe; the United Kingdom is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 27.8% (2016)<br>
@@ -275,8 +274,7 @@ _rate of urbanization_: 0.8% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 9 December 2022, the UK reported a total of 24,053,576 cases of COVID-19 or 35,432.3 cumulative cases of COVID-19 per 100,000 population with a total of 197,723 cumulative deaths or a rate of 291.25 cumulative deaths per 100,000 population; as of 10 August 2022, 79.89% of the population received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br><br><strong>note 2: </strong>on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued an updated Travel Alert for polio in Europe; the United Kingdom is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued an updated Travel Alert for polio in Europe; the United Kingdom is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 31.567 million tons (2014 est.)<br>
@@ -400,7 +398,7 @@ _selected World Heritage Site locales_: Giant's Causeway and Causeway Coast (n);
 ## Economy
 
 **Economic overview**<br>
-high-income, diversified non-EU European economy; fifth-largest importer and exporter globally; after 2016 EU Brexit, increased quantitative easing avoided economic decline; 10% GDP contraction from COVID-19; global financial and diplomacy leader<br>
+high-income, diversified non-EU European economy; sixth-largest importer and exporter globally; global financial and diplomatic leader; vulnerable private consumption-led growth; increased regional trade barriers post-Brexit; inflation hurting trade values<br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.028 trillion (2021 est.)<br>
@@ -477,7 +475,7 @@ _female_: 11.8% (2021 est.)<br>
 18.6% (2017 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.8 (2016 est.)<br>
+35.1 (2017 est.)<br>
 
 **Average household expenditures**<br>
 _on food_: 8.1% of household expenditures (2018 est.)<br>
@@ -522,10 +520,10 @@ $791.7 billion (2020 est.) note: data are in current year dollars<br>
 $893.1 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-United States 15%, Germany 10%, China 7%, France 7%, Netherlands 7%, Ireland 6% (2019)<br>
+United States 13%, Germany 9%, Netherlands 8%, Ireland 7%, Switzerland 6% (2021)<br>
 
 **Exports - commodities**<br>
-cars, gas turbines, gold, crude petroleum, packaged medicines (2019)<br>
+cars, gold, gas turbines, crude petroleum, packaged medicines (2021)<br>
 
 **Imports**<br>
 $898.719 billion (2021 est.) note: data are in current year dollars<br>
@@ -533,10 +531,10 @@ $783.438 billion (2020 est.) note: data are in current year dollars<br>
 $939.349 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-Germany 13%, China 10%, United States 8%, Netherlands 7%, France 6%, Belgium 5% (2019)<br>
+China 13%, Germany 11%, United States 8%, Netherlands 6%, Norway 5% (2021)<br>
 
 **Imports - commodities**<br>
-gold, cars, crude petroleum, refined petroleum, broadcasting equipment (2019)<br>
+gold, cars, natural gas, crude petroleum, packaged medicines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $194.181 billion (31 December 2021 est.)<br>
@@ -619,16 +617,16 @@ _Total energy consumption per capita 2019_: 119.894 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 32.037 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 47 (2020 est.)<br>
+_total subscriptions_: 33 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 48 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 80.967 million (2019)<br>
-_subscriptions per 100 inhabitants_: 119.9 (2019)<br>
+_total subscriptions_: 80 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 120 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: UK&rsquo;s telecom market remains one of the largest in Europe, characterized by competition, affordable pricing, and its technologically advanced systems; mobile penetration above the EU average; government to invest in infrastructure and 5G technologies with ambition for a fully-fibered nation by 2033; operators expanded the reach of 5G services in 2020; super-fast broadband available to about 95% of customers; London is developing smart city technology, in collaboration with private, tech, and academic sectors (2021)<br>
-_domestic_: equal mix of buried cables, microwave radio relay, and fiber-optic systems; fixed-line over 47 per 100 and mobile-cellular over 116 per 100 (2020)<br>
+_domestic_: fixed-line is 48 per 100 and mobile-cellular is 120 per 100 (2021)<br>
 _international_: country code - 44;&nbsp;Landing points for the GTT Atlantic, Scotland-Northern Ireland -1, &amp; -2, Lanis 1,-2, &amp;-3, Sirius North, BT-MT-1, SHEFA-2, BT Highlands and Islands Submarine Cable System, Northern Lights, FARICE-1, Celtic Norse, Tampnet Offshore FOC Network, England Cable, CC-2, E-LLan, Sirius South, ESAT -1 &amp; -2, Rockabill, Geo-Eirgrid, UK-Netherlands-14, Circle North &amp; South, Ulysses2, Conceto, Farland North, Pan European Crossing,&nbsp;Solas, Swansea-Bream, GTT Express, Tata TGN-Atlantic &amp; -Western Europe, Apollo, EIG, Glo-1, TAT-14, Yellow, Celtic,&nbsp;FLAG Atlantic-1, FEA, Isle of Scilly Cable, UK-Channel Islands-8 and SeaMeWe-3&nbsp;submarine cables providing links throughout Europe, Asia, Africa, the Middle East, Southeast Asia, Australia,&nbsp;and US; satellite earth stations - 10 Intelsat (7 Atlantic Ocean and 3 Indian Ocean), 1 Inmarsat (Atlantic Ocean region), and 1 Eutelsat; at least 8 large international switching centers (2019)<br>
 
 **Broadcast media**<br>
@@ -715,8 +713,8 @@ United Kingdom Armed Forces (aka British Armed Forces, aka Her Majesty's Armed F
 2.2% of GDP (2022 est.)<br>
 2.5% of GDP (2021)<br>
 2.3% of GDP (2020)<br>
-2.1% of GDP (2019) (approximately $68.4 billion)<br>
-2.1% of GDP (2018) (approximately $67.8 billion)<br>
+2.1% of GDP (2019)<br>
+2.1% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 153,000 regular forces (81,000 Army; 34,000 Navy, including about 7,000 Royal Marines; 38,000 Air Force) (2022)<br>
@@ -748,7 +746,7 @@ Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New
 <p><em>UK-Argentina</em>: UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands</p> <p><em>UK-Argentina-Chile</em>: the UK’s territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim</p> <p><em>UK-Denmark</em>: the UK, Iceland, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p> <p><em>UK (Gibraltar)-Spain</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; London and Madrid reached a temporary agreement at the end of 2020 that allowed Gibraltar to be part of the passport-free Schengen zone; talks are expected to continue in 2022</p> <p><em>UK-Mauritius-Seychelles</em>: Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos Islands prohibiting the extraction of any natural resources therein</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan), 12,155 (Syria), 10,259 (Afghanistan), 8,009 (Pakistan), 7,699 (Iraq) (mid-year 2022); 166,800 (Ukraine) (as of 13 March 2023)<br>
+_refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan), 12,155 (Syria), 10,259 (Afghanistan), 8,009 (Pakistan), 7,699 (Iraq) (mid-year 2022); 198,700 (Ukraine) (as of 28 March 2023)<br>
 _stateless persons_: 5,483 (2022)<br>
 
 **Illicit drugs**<br>

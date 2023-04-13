@@ -196,7 +196,7 @@ _unimproved: total_: total: 12.3% of population (2020 est.)<br>
 0.1% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: Japanese encephalitis, malaria, and dengue fever<br>
 
@@ -281,7 +281,7 @@ _rate of urbanization_: 3.09% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: Japanese encephalitis, malaria, and dengue fever<br>
 
@@ -681,15 +681,15 @@ _unpaved_: 16,100 km (2016)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Nepali Army (includes Air Wing); Ministry of Home Affairs: Nepal Police, Nepal Armed Police Force (2022)<br>
+Ministry of Defense: Nepali Army (includes Air Wing); Ministry of Home Affairs: Nepal Police, Nepal Armed Police Force (2023)<br>
 <strong>note: </strong>the Nepal Police are responsible for enforcing law and order across the country; the Armed Police Force is responsible for combating terrorism, providing security during riots and public disturbances, assisting in natural disasters, and protecting vital infrastructure, public officials, and the borders; it also conducts counterinsurgency and counterterrorism operations and would assist the Army in the event of an external invasion<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>
 1.3% of GDP (2020 est.)<br>
-2.1% of GDP (2019) (approximately $1.1 billion)<br>
-2.3% of GDP (2018) (approximately $1.11 billion)<br>
-2.6% of GDP (2017) (approximately $1.12 billion)<br>
+2.1% of GDP (2019)<br>
+2.3% of GDP (2018)<br>
+2.6% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 95,000 active troops (including a small air wing of about 500 personnel) (2022)<br>
@@ -705,7 +705,7 @@ the Army's inventory includes a mix of mostly older equipment largely of British
 790 Central African Republic (MINUSCA); 1,150 Democratic Republic of the Congo (MONUSCO); 400 Golan Heights (UNDOF); 870 Lebanon (UNIFIL); 235 Liberia (UNSMIL); 175 Mali (MINUSMA); 1,750 (plus about 220 police) South Sudan (UNMISS) (May 2022)<br>
 
 **Military - note**<br>
-Nepal became a member of the UN in 1955 and has been an active participant in UN peacekeeping operations since, sending its first military observers to a UN peacekeeping mission in 1958 and its first peacekeeping military contingent to Egypt in 1974 <br><br>the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816); the Gurkhas subsequently were brought into the British Indian Army and by 1914, there were 10 Gurkha regiments, collectively known as the Gurkha Brigade; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; four regiments were transferred to the British Army, where they have since served continuously as the Brigade of Gurkhas; six Gurkha (aka Gorkha in India) regiments went to the new Indian Army; a seventh regiment was later added; Gurkhas are also recruited into the Singaporean Police and a special guard in the Sultanate of Brunei known as the Gurkha Reserve Unit (2022)<br>
+the Nepali Army is a lightly equipped and professional force responsible for territorial defense, although it has some domestic duties such as disaster relief/humanitarian assistance and nature conservation efforts; during the 10-year civil war that ended in 2006, it conducted extensive counterinsurgency operations against Maoist guerrillas; the Army also has a long and distinguished history of supporting UN missions, having sent its first UN observers to Lebanon in 1958 and its first troop contingent to Egypt in 1974; as of 2023, nearly 150,000 Nepali military personnel had deployed on over 40 UN missions; the Army conducts training with foreign partners, including China, India, and the US; it has 8 geographically-based divisions, each comprised of light infantry brigades and support units; the Army also has independent special forces and security force (palace guard) brigades; the Air Wing has a small number of multi-role and transport helicopters<br><br>the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816); the Gurkhas subsequently were brought into the British Indian Army and by 1914, there were 10 Gurkha regiments, collectively known as the Gurkha Brigade; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; four regiments were transferred to the British Army, where they have since served continuously as the Brigade of Gurkhas; six Gurkha (aka Gorkha in India) regiments went to the new Indian Army; a seventh regiment was later added; Gurkhas are also recruited into the Singaporean Police and a special guard in the Sultanate of Brunei known as the Gurkha Reserve Unit (2023)<br>
 
 ## Terrorism
 

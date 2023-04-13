@@ -200,7 +200,7 @@ _unimproved: total_: total: 54.7% of population (2020 est.)<br>
 0.1% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: malaria, dengue fever, and Rift Valley fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -279,7 +279,7 @@ _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: malaria, dengue fever, and Rift Valley fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -621,16 +621,16 @@ _Total energy consumption per capita 2019_: 8.047 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 129,408 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 129,408 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 33,014,200 (2019)<br>
-_subscriptions per 100 inhabitants_: 77.11 (2019)<br>
+_total subscriptions_: 16,688,773 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 37 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Sudan emerged as a poorer country when South Sudan separated from it in 2011; although Sudan has about four times the population of South Sudan, the latter benefits from its control of the majority of known oil reserves; the Sudanese economy has been affected by hyperinflation in recent years, partly the result of the loss of oil revenue but also due to domestic volatility and social unrest; the difficult economic conditions have meant that for several years telcos have reported revenue under hyper inflationary reporting standards; pressure on revenue has made it difficult for operators to invest in infrastructure upgrades, and so provide improved services to customers; despite this, the number of mobile subscribers increased 7.% in 20201, year-on-year; this level of growth is expected to have been maintained in 2022, though could slow from 2023 as the acute influences resulting the pandemic begin to wane; the country&rsquo;s poor fixed-line infrastructure has helped the development of mobile broadband services (2022)<br>
-_domestic_: consists of microwave radio relay, cable, fiber optic, radiotelephone communications, tropospheric scatter, and a domestic satellite system with 14 earth stations; teledensity fixed-line less than 1 per 100 and mobile-cellular over 80 telephones per 100 persons (2020)<br>
+_domestic_: teledensity fixed-line is 1 per 100 and mobile-cellular is 37 telephones per 100 persons (2021)<br>
 _international_: country code - 249; landing points for the EASSy, FALCON&nbsp;and SAS-1,-2, fiber-optic submarine cable systems linking Africa, the Middle East, Indian Ocean Islands and Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
@@ -704,15 +704,15 @@ _major seaport(s)_: Port Sudan<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Support Forces (RSF), Border Guards <br><br>Ministry of Interior: security police, special forces police, traffic police, Central Reserve Police (2022)<br>
+Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Support Forces (RSF), Border Guards <br><br>Ministry of Interior: security police, special forces police, traffic police, Central Reserve Police (2023)<br>
 <strong>note 1:</strong> the RSF is a semi-autonomous paramilitary force formed in 2013 to fight armed rebel groups in Sudan, with Mohammed Hamdan DAGALO (aka Hemeti) as its commander (he is also a member of the Sovereign Council); it was initially placed under the National Intelligence and Security Service, then came under the direct command of former president Omar al-BASHIR, who boosted the RSF as his own personal security force; as a result, the RSF was better funded and equipped than the regular armed forces; the RSF has since recruited from all parts of Sudan beyond its original Darfuri Arab groups but remains under the personal patronage and control of DAGALO; the RSF has been accused of committing human rights abuses against civilians; it is also reportedly involved in business enterprises, such as gold mining; in late 2019, Sovereign Council Chairman and SAF Commander-in-Chief General Abd-al-Fatah al-BURHAN said the RSF would be fully integrated into the SAF, but did not give a timeline<br><br><strong>note 2:</strong> the Central Reserve Police is a combat-trained paramilitary force that has been used against demonstrators and sanctioned by the US for human rights abuses<br>
 
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
-2.4% of GDP (2019 est.) (approximately $2.08 billion)<br>
-2% of GDP (2018 est.) (approximately $2.08 billion)<br>
-3.6% of GDP (2017 est.) (approximately $2.75 billion)<br>
+2.4% of GDP (2019 est.)<br>
+2% of GDP (2018 est.)<br>
+3.6% of GDP (2017 est.)<br>
 <strong>note:</strong> many defense expenditures are probably off-budget<br>
 
 **Military and security service personnel strengths**<br>
@@ -729,7 +729,7 @@ the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, and domestic
 approximately 750 Democratic Republic of the Congo (East African Community stabilization force)<br><br>Sudan joined the Saudi-led coalition that intervened in Yemen in 2015, reportedly providing as many as 40,000 troops during the peak of the war in 2016-17, mostly from the Rapid Support Forces; by 2021, Sudan had reduced the size of the force to about a brigade (approximately 2-3,000 troops) (2022)<br>
 
 **Military - note**<br>
-<p>the SAF is large, relatively well-equipped, and supported by militia and paramilitary forces, particularly the RSF; its primary focuses are internal security, border issues, and potential external threats from its neighbors; both the SAF and the RSF have some operational experience from internal security operations and Sudan’s years-long intervention in Yemen with the Saudi-led coalition; information on the organization of the SAF and the RSF varies; the Army is estimated to have more than 10 infantry divisions, as well as divisions of mechanized, armored, and airborne/special forces, and several independent infantry brigades; the RSF is estimated to have as many as 10 paramilitary brigades of varying size and makeup; the Air Force has several squadrons of Chinese- and Russian-origin combat  aircraft, as well as multiple squadrons of combat helicopters, also largely of Russian origin; the Navy has a small force of coastal patrol boats   <br><br>the Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the Sudanese military and security forces have a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; UNISFA had about 2,000 personnel deployed as of mid-2022<br><br>in addition, the UN African Union Hybrid Operation in Darfur (UNAMID) operated in the war-torn Darfur region between 2007 and the end of its mandate in July 2021; UNAMID was a joint African Union-UN peacekeeping force with the mission of bringing stability to Darfur, including protecting civilians, facilitating humanitarian assistance, and promoting mediation efforts, while peace talks on a final settlement continued; UNAMID withdrew the last of its personnel in December 2021; note - the October 2020 peace agreement provided for the establishment of a Joint Security Keeping Forces (JSKF) comprised of 12,000 personnel tasked with securing the Darfur region in the place of UNAMID; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations; in Sep 2022, the first 2,000 members of the JSKF completed training (2022)<br>
+<p>the SAF is large, relatively well-equipped, and supported by militia and paramilitary forces, particularly the RSF; its primary focuses are internal security, border issues, and potential external threats from its neighbors; both the SAF and the RSF have some operational experience from internal security operations and Sudan’s years-long intervention in Yemen with the Saudi-led coalition; information on the organization of the SAF and the RSF varies; the Army is estimated to have more than 10 infantry divisions, as well as divisions of mechanized, armored, and airborne/special forces, and several independent infantry brigades; the RSF is estimated to have as many as 10 paramilitary brigades of varying size and makeup; the Air Force has several squadrons of Chinese- and Russian-origin combat  aircraft, as well as multiple squadrons of combat helicopters, also largely of Russian origin; the Navy has a small force of coastal patrol boats   <br><br>the Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the Sudanese military and security forces have a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> the UN Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; UNISFA had about 2,000 personnel deployed as of 2022<br><br>in addition, the UN African Union Hybrid Operation in Darfur (UNAMID) operated in the war-torn Darfur region between 2007 and the end of its mandate in July 2021; UNAMID was a joint African Union-UN peacekeeping force with the mission of bringing stability to Darfur, including protecting civilians, facilitating humanitarian assistance, and promoting mediation efforts, while peace talks on a final settlement continued; UNAMID withdrew the last of its personnel in December 2021; note - the October 2020 peace agreement provided for the establishment of a Joint Security Keeping Forces (JSKF) comprised of 12,000 personnel tasked with securing the Darfur region in the place of UNAMID; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations; in Sep 2022, the first 2,000 members of the JSKF completed training (2022)<br>
 
 ## Terrorism
 

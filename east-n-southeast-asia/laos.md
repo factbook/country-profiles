@@ -195,7 +195,7 @@ _unimproved: total_: total: 17.8% of population (2020 est.)<br>
 0.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
@@ -277,7 +277,7 @@ _rate of urbanization_: 2.99% annual rate of change (2020-25 est.)<br>
 1.48% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
@@ -692,14 +692,15 @@ _by type_: general cargo 1 (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Air Force, Self-Defense Militia Forces (2022)<br>
+Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Air Force, Self-Defense Militia Forces; Ministry of Public Security (2023)<br>
+<strong>note:</strong> the Ministry of Public Security maintains internal security and is responsible for law enforcement; it oversees local, traffic, immigration, and security police, village police auxiliaries, and other armed police units<br>
 
 **Military expenditures**<br>
-0.2% of GDP (2019 est.) (approximately $120 million)<br>
-0.2% of GDP (2018 est.) (approximately $110 million)<br>
-0.2% of GDP (2017 est.) (approximately $100 million)<br>
-0.2% of GDP (2016 est.) (approximately $95 million)<br>
-0.2% of GDP (2015 est.) (approximately $85 million)<br>
+0.2% of GDP (2019 est.)<br>
+0.2% of GDP (2018 est.)<br>
+0.2% of GDP (2017 est.)<br>
+0.2% of GDP (2016 est.)<br>
+0.2% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information is limited and estimates vary; approximately 30,000 active duty troops (26,000 Army; 4,000 Air Force) (2022)<br>

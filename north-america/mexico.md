@@ -205,10 +205,9 @@ _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 0.4% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 9 December 2022, Mexico has reported a total of 7,152,852 cases of COVID-19 or 5,547.74 cumulative cases of COVID-19 per 100,000 population with a total of 330,633 cumulative deaths or a rate of 256.43 cumulative deaths per 100,000 population; as of 2 December 2022, 77.7% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 28.9% (2016)<br>
@@ -291,10 +290,9 @@ _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 0.03% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 9 December 2022, Mexico has reported a total of 7,152,852 cases of COVID-19 or 5,547.74 cumulative cases of COVID-19 per 100,000 population with a total of 330,633 cumulative deaths or a rate of 256.43 cumulative deaths per 100,000 population; as of 2 December 2022, 77.7% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 53.1 million tons (2015 est.)<br>
@@ -748,8 +746,8 @@ the Mexican Armed Forces are divided between the Secretariat of National Defense
 0.8% of GDP (2022 est.)<br>
 0.8% of GDP (2021)<br>
 0.6% of GDP (2020)<br>
-0.5% of GDP (2019) (approximately $13.4 billion)<br>
-0.5% of GDP (2018) (approximately $12.5 billion)<br>
+0.5% of GDP (2019)<br>
+0.5% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 218,000 armed forces personnel (160,000 Army; 8,000 Air Force; 50,000 Navy, including about 20,000 marines); approximately 110,000 National Guard personnel (2022)<br>
@@ -762,7 +760,7 @@ the Mexican military inventory includes a mix of domestically produced and impor
 <strong>note: </strong>as of 2022, women comprised about 15% of the active duty military<br>
 
 **Military - note**<br>
-the constitution was amended in 2019 to grant the president the authority to use the armed forces to protect internal and national security, and courts have upheld the legality of the armed forces&rsquo; role in law enforcement activities in support of civilian authorities through 2028; as of 2022, Mexican military operations were heavily focused on internal security duties, particularly in countering drug cartels and organized crime groups, as well as border control and immigration enforcement; the armed forces also administered most of the country's land and sea ports and customs services, and it built and ran approximately 2,700 branches of a state-owned development bank; in addition, President LOPEZ OBRADOR has placed the military in charge of a growing number of infrastructure projects, such as building a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast (2022)<br>
+the constitution was amended in 2019 to grant the president the authority to use the armed forces to protect internal and national security, and courts have upheld the legality of the armed forces&rsquo; role in law enforcement activities in support of civilian authorities through 2028; Mexican military operations are heavily focused on internal security duties, particularly in countering drug cartels and organized crime groups, as well as border control and immigration enforcement; the armed forces also administer most of the country's land and sea ports and customs services, plus the approximately 2,700 branches of a state-owned development bank; in addition, President LOPEZ OBRADOR has placed the military in charge of a growing number of infrastructure projects, such as building a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast (2022)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reported one incident in the territorial waters of Mexico in 2022, the same number of attacks as in 2021; ports in Mexico continue to be affected by the crime of armed robbery; this incident occurred in the port of Puerto Dos Bocas while ships were berthed or at anchor; pirates and robbers in this area are armed with guns<br>

@@ -194,7 +194,7 @@ _unimproved: total_: total: 67.4% of population (2020 est.)<br>
 0.4% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -282,7 +282,7 @@ _rate of urbanization_: 4.26% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -691,9 +691,9 @@ Madagascar People's Armed Forces (PAF): Army, Navy, Air Force; Ministry of Defen
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>
 0.7% of GDP (2020 est.)<br>
-0.5% of GDP (2019 est.) (approximately $130 million)<br>
-0.5% of GDP (2018 est.) (approximately $130 million)<br>
-0.5% of GDP (2017 est.) (approximately $120 million)<br>
+0.5% of GDP (2019 est.)<br>
+0.5% of GDP (2018 est.)<br>
+0.5% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); estimated 10,000 Gendarmerie (2022)<br>
@@ -711,6 +711,10 @@ the PAF&rsquo;s responsibilities include ensuring sovereignty and territorial in
 
 **Disputes - international**<br>
 <p><em>Madagascar-France</em>: claims Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island (all administered by France); the vegetated drying cays of Banc du Geyser, which were claimed by Madagascar in 1976, also fall within the EEZ claim of France</p> <p><em>Madagascar-Comoros</em>: the vegetated drying cays of Banc du Geyser, which were claimed by Madagascar in 1976, also fall within the EEZ claim of the Comoros</p><br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List &mdash; Madagascar does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials investigated slightly more trafficking crimes, cooperated with foreign governments on a trafficking investigation, and established a new mechanism to promote fair recruitment for potential migrants and raise awareness of trafficking indicators; however, the government did not demonstrate overall increasing efforts compared with the previous year to expand its anti-trafficking capacity; there were no reports of prosecutions or convictions of traffickers; the government did not hold complicit officials accountable nor investigate reports of officials facilitating child sex trafficking; officials identified the fewest number of trafficking victims since 2016 and only provided services to half of the victims; the government lacked standard operating procedures for identifying victims and referring them to care; efforts to address internal crimes, including domestic servitude, forced begging, and child sex trafficking, remained inadequate; the government failed to allocate adequate resources to agencies responsible for anti-trafficking efforts and lacked a national action plan; therefore, Madagascar was downgraded to Tier 2 Watch List (2022)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Madagascar, as well as victims from Madagascar abroad; traffickers exploit Malagasy children in child sex trafficking and forced labor in domestic service in homes and businesses, mining, street vending, agriculture, textile factories, and fishing; most child sex trafficking occurs in tourist destinations, urban cities, vanilla-growing regions, and around mining sites with the involvement and encouragement of family members; tourist operators, hotels, taxi drivers, massage centers, and local adults involved in commercial sex also facilitate this crime; girls as young as 13 are exploited in child sex tourism, often openly in bars, nightclubs, massage parlors, hotels, and private homes; Malagasy men exploit the majority of child sex trafficking victims, while most foreign sex tourists are French or Italian nationals; government officials are reportedly complicit in providing false identification documents to traffickers that facilitate child sex trafficking in Madagascar and forced labor in domestic service by Malagasy women abroad; many Malagasy women are employed as domestic workers in China, Lebanon, Kuwait, and Saudi Arabia, where they are at risk of trafficking; traffickers acting as labor recruiters send Malagasy women to China with false identity cards, where they are exploited in forced labor in agriculture or domestic servitude; Malagasy men may be exploited in forced labor in the services and construction industries in the Middle East and domestic servitude in China; Chinese nationals working at China&rsquo;s Belt and Road Initiative projects in Madagascar were vulnerable to forced labor (2022)<br>
 
 **Illicit drugs**<br>
 illicit producer of cannabis (cultivated and wild varieties) used mostly for domestic consumption; transshipment point for Southwest Asian heroin<br>

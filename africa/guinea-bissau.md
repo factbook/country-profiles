@@ -188,9 +188,9 @@ _unimproved: total_: total: 68.2% of population (2020 est.)<br>
 3.1% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
+_vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
@@ -270,9 +270,9 @@ _rate of urbanization_: 3.22% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
+_vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
@@ -610,8 +610,8 @@ _international_: country code - 245; ACE submarine cable connecting Guinea-Bissa
 .gw<br>
 
 **Internet users**<br>
-_total_: 452,640 (2020 est.)<br>
-_percent of population_: 23% (2020 est.)<br>
+_total_: 735,000 (2021 est.)<br>
+_percent of population_: 35% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,383 (2020 est.)<br>

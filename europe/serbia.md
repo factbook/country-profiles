@@ -200,8 +200,9 @@ _unimproved: total_: total: 2.1% of population (2020 est.)<br>
 (2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
+_vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
 
 **Obesity - adult prevalence rate**<br>
 21.5% (2016)<br>
@@ -284,8 +285,9 @@ _rate of urbanization_: 0.04% annual rate of change (2020-25 est.)<br>
 0.25% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
+_vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.84 million tons (2015 est.)<br>
@@ -492,7 +494,7 @@ _female_: 33.7% (2021 est.)<br>
 23.2% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-36.2 (2017 est.)<br>
+34.5 (2019 est.)<br>
 
 **Average household expenditures**<br>
 _on food_: 25.6% of household expenditures (2018 est.)<br>
@@ -739,6 +741,10 @@ _refugees (country of origin)_: 17,334 (Croatia), 7,997 (Bosnia and Herzegovina)
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,594 (includes stateless persons in Kosovo) (2022)<br>
 <strong>note:</strong> 948,336 estimated refugee and migrant arrivals (January 2015-March 2023); Serbia is predominantly a transit country and hosts an estimated 7,271 migrants and asylum seekers as of November 2022<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List &mdash; Serbia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; Serbia investigated more suspects, revised indicators to identify victims among schoolchildren, and increased resources for the Center for Protection of Trafficking Victims; officials developed a coordination body to support victims during criminal proceedings, formed four Special Working Groups for anti-trafficking issues, and designated an Ombudsman on trafficking; however, the government did not demonstrate overall increasing efforts compared with the previous year to expand its anti-trafficking capacity; there were no proactive efforts to identify victims, and implementation of standard operating procedures remained inadequate; an anti-trafficking council did not meet, and the government did not adopt the 2021-2022 National Action Plan; official complicity in trafficking crimes remained a concern; therefore, Serbia was downgraded to Tier 2 Watch List (2022)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Serbia, as well as Serbians abroad; Serbian women are exploited in sex trafficking in Serbia, neighboring countries, and throughout Europe, particularly in Austria, Germany, Italy, and Turkey; Serbian nationals, primarily men, are exploited in forced labor in labor-intensive sectors in European countries&mdash;including Austria, Belgium, Croatia, France, Germany, Italy, Luxembourg, Montenegro, Russia, and Switzerland&mdash;and the United Arab Emirates; children, particularly Roma, are victims within the country in sex trafficking, forced labor, forced begging, and petty crime; foreign victims in Serbia are from Albania, Cameroon, Croatia, Denmark, Germany, Mali, Nigeria, North Macedonia, and Pakistan; thousands of migrants and refugees from the Middle East, Africa, and Asia transiting through or stranded in Serbia are vulnerable to trafficking; the government has not reported fully investigating credible allegations of Vietnamese victims of forced labor and instead states the workers are not trafficking victims (2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>

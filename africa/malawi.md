@@ -202,7 +202,7 @@ _unimproved: total_: total: 60% of population (2020 est.)<br>
 7.7% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -285,7 +285,7 @@ _rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
 0.03% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -705,9 +705,9 @@ Malawi Defense Force (MDF): Army (includes maritime force), Air Force (establish
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>
 0.9% of GDP (2020 est.)<br>
-1.1% of GDP (2019 est.) (approximately $90 million)<br>
-0.8% of GDP (2018 est.) (approximately $70 million)<br>
-0.7% of GDP (2017 est.) (approximately $60 million)<br>
+1.1% of GDP (2019 est.)<br>
+0.8% of GDP (2018 est.)<br>
+0.7% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 8,000 active duty troops (including about 500 air and marine forces personnel) (2022)<br>

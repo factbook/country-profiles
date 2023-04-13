@@ -300,9 +300,9 @@ _percent of municipal solid waste recycled_: 25% (2005 est.)<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 150 million cubic meters (2019 est.)<br>
-_industrial_: 30 million cubic meters (2019 est.)<br>
-_agricultural_: 60 million cubic meters (2019 est.)<br>
+_municipal_: 150 million cubic meters (2020 est.)<br>
+_industrial_: 30 million cubic meters (2020 est.)<br>
+_agricultural_: 60 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 26.4 billion cubic meters (2019 est.)<br>
@@ -527,7 +527,7 @@ $3.848 billion (2018 est.)<br>
 Nigeria 25%, Bangladesh 14%, United Arab Emirates 14%, India 13%, China 8%, Vietnam 5% (2019)<br>
 
 **Exports - commodities**<br>
-cotton, refined petroleum, gold, cashews, copper (2019)<br>
+gold, cotton, cashews, refined petroleum, soybeans (2021)<br>
 
 **Imports**<br>
 $3.942 billion (2020 est.) note: data are in current year dollars<br>
@@ -641,8 +641,8 @@ state-run Office de Radiodiffusion et de Television du Benin (ORTB) operates a T
 .bj<br>
 
 **Internet users**<br>
-_total_: 3,152,032 (2020 est.)<br>
-_percent of population_: 26% (2020 est.)<br>
+_total_: 4.42 million (2021 est.)<br>
+_percent of population_: 34% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 29,981 (2020 est.)<br>

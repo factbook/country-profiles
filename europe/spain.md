@@ -197,10 +197,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2021 est.)<br>
 
-**Major infectious diseases**<br>
-_respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 9 December 2022, Spain has reported a total of 13,614,807 cases of COVID-19 or 28,764.1 cumulative cases of COVID-19 per 100,000 population with a total of 116,108 cumulative deaths or a rate of 245.3 cumulative deaths per 100,000 population; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
-
 **Obesity - adult prevalence rate**<br>
 23.8% (2016)<br>
 
@@ -276,10 +272,6 @@ _rate of urbanization_: 0.24% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
-
-**Major infectious diseases**<br>
-_respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 9 December 2022, Spain has reported a total of 13,614,807 cases of COVID-19 or 28,764.1 cumulative cases of COVID-19 per 100,000 population with a total of 116,108 cumulative deaths or a rate of 245.3 cumulative deaths per 100,000 population; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 20.151 million tons (2015 est.)<br>
@@ -483,7 +475,7 @@ _female_: 38.2% (2021 est.)<br>
 20.7% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-34.7 (2017 est.)<br>
+34.3 (2019 est.)<br>
 
 **Average household expenditures**<br>
 _on food_: 12.1% of household expenditures (2018 est.)<br>
@@ -624,16 +616,16 @@ _Total energy consumption per capita 2019_: 122.673 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 19,455,658 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 42 (2020 est.)<br>
+_total subscriptions_: 19,075,931 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 40 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 55,354,900 (2019)<br>
-_subscriptions per 100 inhabitants_: 118.44 (2019)<br>
+_total subscriptions_: 56,805,348 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 120 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Spain&rsquo;s telecom sector has tracked the performance of the overall economy, which has been one of the most heavily impacted by the pandemic in all of Europe; GDP dropped by 10.8% in 2020, while telecom revenue reversed the previous five years&rsquo; positive results by falling 5.3%; fixed-line services were the hardest hit, with revenue falling 13.7%; mobile voice services did not fare much better, falling 4.7%; this is despite relatively small shifts in the number of subscribers, though the harsh lockdown conditions resulted in a significant drop in usage; it had appeared that a return to growth might be possible in 2021 following lifting the state of emergency in May, but the most recent surge in cases and the continued restrictions on travel may once again put the brakes on growth until at least 2022; Spain&rsquo;s fixed-line broadband market managed to extend its decade-long pattern of steady growth into 2020, with a slight increase in demand caused by the need for fast internet access to support working and learning from home; while most of Spain&rsquo;s larger telcos delivered negative revenue and profit in 2020 (2021)<br>
-_domestic_: fixed-line nearly 42 per 100 and mobile-cellular 119 telephones per 100 persons (2020)<br>
+_domestic_: fixed-line is 40 per 100 and mobile-cellular 120 telephones per 100 persons (2021)<br>
 _international_: country code - 34; landing points for the MAREA, Tata TGN-Western Europe, Pencan-9, SAT-3/WASC, Canalink, Atlantis-2, Columbus -111, Estepona-Tetouan, FLAG Europe-Asia (FEA), Balalink, ORVAL and PENBAL-5 submarine cables providing connectivity to Europe, the Middle East, Africa, South America, Asia, Southeast Asia and the US; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean), Eutelsat; tropospheric scatter to adjacent countries (2019)<br>
 
 **Broadcast media**<br>
@@ -713,8 +705,8 @@ Spanish Armed Forces: Army (Ejército de Tierra), Spanish Navy (Armada Espanola;
 1.1% of GDP (2022 est.)<br>
 1% of GDP (2021)<br>
 1% of GDP (2020)<br>
-0.9% of GDP (2019) (approximately $16.8 billion)<br>
-0.9% of GDP (2018) (approximately $16.7 billion)<br>
+0.9% of GDP (2019)<br>
+0.9% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 120,000 active-duty troops (72,000 Army; 25,000 Navy, including about 5,000 marines; 23,000 Air and Space Force); 80,000 Guardia Civil (2022)<br>
@@ -746,9 +738,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 171,865 (Ukraine) (as of 26 March 2023)<br>
+_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 172,682 (Ukraine) (as of 3 April 2023)<br>
 _stateless persons_: 6,489 (2022)<br>
-<strong>note: </strong>283,053 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2023)<br>
+<strong>note: </strong>283,183 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing indoor cannabis production; illegal labs cutting, mixing, and reconstituting cocaine, heroin, and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the US<br>

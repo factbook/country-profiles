@@ -206,10 +206,9 @@ _unimproved: total_: total: 12.6% of population (2020 est.)<br>
 0.4% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Bartonellosis (Oroya fever)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 9 December 2022, Peru has reported a total of 4,330,521 cases of COVID-19 or 13,134 cumulative cases of COVID-19 per 100,000 population with a total of 217,566 cumulative deaths or a rate of 659.85 cumulative deaths per 100,000 population; as of 6 December 2022, 88.51% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 19.7% (2016)<br>
@@ -291,10 +290,9 @@ _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Bartonellosis (Oroya fever)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 9 December 2022, Peru has reported a total of 4,330,521 cases of COVID-19 or 13,134 cumulative cases of COVID-19 per 100,000 population with a total of 217,566 cumulative deaths or a rate of 659.85 cumulative deaths per 100,000 population; as of 6 December 2022, 88.51% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 8,356,711 tons (2014 est.)<br>
@@ -742,9 +740,9 @@ Joint Command of the Armed Forces of Peru (CCFFAA): Peruvian Army (Ejercito del 
 **Military expenditures**<br>
 1.1% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
-1.2% of GDP (2019) (approximately $3.87 billion)<br>
-1.2% of GDP (2018) (approximately $3.83 billion)<br>
-1.2% of GDP (2017) (approximately $3.86 billion)<br>
+1.2% of GDP (2019)<br>
+1.2% of GDP (2018)<br>
+1.2% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 95,000 active duty personnel (60,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2022)<br>

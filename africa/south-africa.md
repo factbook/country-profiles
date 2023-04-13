@@ -200,10 +200,9 @@ _unimproved: total_: total: 6.8% of population (2020 est.)<br>
 18.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 9 December 2022, South Africa has reported a total of 4,042,912 cases of COVID-19 or 6816.72 cumulative cases of COVID-19 per 100,000 population with a total of 102,428 cumulative deaths or a rate of 172.7 cumulative deaths per 100,000 population; as of 8 December 2022, 37.54% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 28.3% (2016)<br>
@@ -283,10 +282,9 @@ _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 2.4% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 9 December 2022, South Africa has reported a total of 4,042,912 cases of COVID-19 or 6816.72 cumulative cases of COVID-19 per 100,000 population with a total of 102,428 cumulative deaths or a rate of 172.7 cumulative deaths per 100,000 population; as of 8 December 2022, 37.54% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 18,457,232 tons (2011 est.)<br>
@@ -634,16 +632,16 @@ _Total energy consumption per capita 2019_: 98.474 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,098,802 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
+_total subscriptions_: 1,472,191 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 96,972,500 (2019)<br>
-_subscriptions per 100 inhabitants_: 165.6 (2019)<br>
+_total subscriptions_: 100,328,005 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 169 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: South Africa&rsquo;s telecom sector boasts one of the most advanced infrastructures on the continent; the focus in recent years has been on back haul capacity and on fiber and LTE networks to extend and improve internet service connectivity; with the ongoing migration to fiber, the incumbent telco expects to close down its copper network in 2024; the mobile sector has developed strongly in recent years, partly due to the poor availability and level of service of fixed-line networks, which meant that many people had no alternative to mobile networks for voice and data services; the multi-spectrum auction was delayed several times due to legal wrangling, and was finally held in March 2022; the delay caused difficulties for network operators, which were forced to reform spectrum for 3G and LTE use, and provide 5G services on temporary licenses; six qualified bidders acquired spectrum, netting the regulator ZAR14.4 billion in revenues; the market is shrugging off the impact of the pandemic, which had a significant impact on production and supply chains globally, and saw a slowdown in some network expansions, particularly around 5G; on the consumer side, spending on telecoms services and devices remains slightly under pressure amid ongoing macroeconomic challenges facing the country; the crucial nature of telecom services, both for general communication as well as a tool for home-working, will offset such pressures; in many markets the net effect should be a steady though reduced increase in subscriber growth (2022)<br>
-_domestic_: fixed-line over 3 per 100 persons and mobile-cellular nearly 162 telephones per 100 persons; consists of carrier-equipped open-wire lines, coaxial cables, microwave radio relay links, fiber-optic cable, radiotelephone communication stations, and wireless local loops; key centers are Bloemfontein, Cape Town, Durban, Johannesburg, Port Elizabeth, and Pretoria (2020)<br>
+_domestic_: fixed-line is 2 per 100 persons and mobile-cellular is 169 telephones per 100 persons (2021)<br>
 _international_: country code - 27; landing points for the WACS, ACE, SAFE, SAT-3, Equiano, SABR, SAEx1, SAEx2, IOX Cable System, METISS, EASSy, and SEACOM/ Tata TGN-Eurasia&nbsp;fiber-optic submarine cable systems connecting South Africa, East Africa, West Africa, Europe,&nbsp;Southeast Asia, Asia, South America, Indian Ocean Islands,&nbsp;and the&nbsp;US;&nbsp;satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
@@ -718,7 +716,7 @@ South Africa operates one PC 5 or 6 class light icebreaker<br>note - PC indicate
 ## Military and Security
 
 **Military and security forces**<br>
-South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services; Ministry of Police: South African Police Service (2022)<br>
+South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services; Ministry of Police: South African Police Service (2023)<br>
 <strong>note:</strong> the South African Police Service includes a Special Task Force for counterterrorism, counterinsurgency, and hostage rescue operations<br>
 
 **Military expenditures**<br>
@@ -761,6 +759,10 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 22,388 (Somalia), 15,240 (Ethiopia) (mid-year 2022); 56,080 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 5,000 (2020)<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List &mdash; South Africa does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government convicted and sentenced traffickers to significant prison terms, including government officials complicit in human trafficking; it also increased the number of victims identified and the number of shelters; however, the government did not demonstrate overall increasing efforts compared with the previous year to expand its anti-trafficking capacity; some victims were unable to access emergency services due to a lack of inter-agency coordination in identifying, referring, and certifying victims; for the ninth consecutive year, the government failed to promulgate implementing regulations for the 2013 Prevention and Combating of Trafficking in Person Act&rsquo;s immigration provisions, leaving foreign victims unable to access immigration remedies; therefore, South Africa remained on Tier 2 Watch List for the second consecutive year (2022)<br>
+_trafficking profile_: Human traffickers exploit domestic and foreign victims in South Africa, as well as South Africans abroad; traffickers recruit victims from neighboring countries and rural areas within South Africa and exploit them in sex trafficking locally and in urban centers; both adults and children, particularly those from poor and rural areas and migrants, are forced into labor in domestic service, mining, food services, construction, criminal activities, agriculture, and the fishing sector; high unemployment, low wages, and pandemic-related restrictions increased the vulnerability of exploitation, particularly of youth, Black women, and foreign migrants; traffickers recruit victims who are unemployed and struggle with substance addiction, and commonly use substance abuse to control victims, including children; parents with substance abuse addiction sometimes exploit their children in sex trafficking to pay for drugs; migrants travel from East and Southern Africa to South Africa looking for work or fleeing conflict, particularly from Ethiopia, Eritrea, and Mozambique, and are vulnerable to exploitation; official complicity in trafficking crimes, especially by police, facilitated trafficking; syndicates, often dominated by Nigerians, force women from Nigeria and countries bordering South Africa into commercial sex; South African trafficking rings exploit girls as young as 10 years old in sex trafficking; syndicates also recruit South African women to go to Europe and Asia, where some are forced into commercial sex, domestic service, or drug smuggling; Chinese business owners exploit Chinese, South African, and Malawian adults and children in factories, sweatshops, and other businesses; the Cuban government may have forced Cuban medical workers to work in South Africa (2022)<br>
 
 **Illicit drugs**<br>
 leading regional importer of chemicals used in the production of illicit drugs especially synthetic drugs<br>

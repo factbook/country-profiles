@@ -200,7 +200,7 @@ _unimproved: total_: total: 35.8% of population (2017 est.)<br>
 11.6% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -287,7 +287,7 @@ _rate of urbanization_: 2.41% annual rate of change (2020-25 est.)<br>
 0.4% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -491,7 +491,7 @@ _female_: 8.5% (2021 est.)<br>
 38.3% (2019 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-44.3 (2017 est.)<br>
+50.3 (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2%<br>
@@ -633,12 +633,12 @@ _total subscriptions_: 243,421 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14,257,589 (2021)<br>
-_subscriptions per 100 inhabitants_: 89 (2021)<br>
+_total subscriptions_: 14,257,590 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 89 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Zimbabwe&rsquo;s telcos continue to be affected by the country&rsquo;s poor economy; this has been exacerbated by the significant economic difficulties related to the pandemic; revenue has also been under pressure from a number of recent regulatory measures and additional taxes imposed by the cash-strapped government; inflation has become so high that year-on-year revenue comparisons since 2019 have been difficult to assess meaningfully; the three MNOs continue to invest in network upgrades, partly supported by government efforts and cash released from the Universal Service Fund; as a result of these investments, LTE networks have expanded steadily, though services remain concentrated in urban areas; international bandwidth has improved since fiber links to several submarine cables were established via neighboring countries; the expansion of 3G and LTE-based mobile broadband services has meant that most of the population has access to the internet; the government has started a national broadband scheme aimed at delivering a 1Mb/s service nationally by 2030; investment in fixed broadband infrastructure has also resulted in a slow but steady growth in the number of DSL connections, and also fiber subscriptions; during 2021, most growth in the fixed broadband segment has been with fiber connections (2022)<br>
-_domestic_: consists of microwave radio relay links, open-wire lines, radiotelephone communication stations, fixed wireless local loop installations, fiber-optic cable, VSAT terminals, and a substantial mobile-cellular network; Internet connection is most readily available in Harare and major towns; two government owned and two private cellular providers; fixed-line teledensity at nearly 2 per 100 and mobile-cellular nearly 89 per 100 (2021)<br>
+_domestic_: fixed-line teledensity is 2 per 100 and mobile-cellular is 89 per 100 (2021)<br>
 _international_: country code - 263; fiber-optic connections to neighboring states provide access to international networks via undersea cable; satellite earth stations - 2 Intelsat; 5 international digital gateway exchanges<br>
 
 **Broadcast media**<br>
@@ -703,15 +703,14 @@ _river port(s)_: Binga, Kariba (Zambezi)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ); Ministry of Home Affairs: Zimbabwe Republic Police  (2022)<br>
-<strong>note: </strong>the Office of the President may direct the Zimbabwe Police to respond to civil unrest<br>
+Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ); Ministry of Home Affairs: Zimbabwe Republic Police (2023)<br>
 
 **Military expenditures**<br>
-2.6% of GDP (2019 est.) (approximately $650 million)<br>
-1.7% of GDP (2018 est.) (approximately $510 million)<br>
-1.5% of GDP (2017 est.) (approximately $450 million)<br>
-1.8% of GDP (2016 est.) (approximately $480 million)<br>
-1.9% of GDP (2015 est.) (approximately $490 million)<br>
+2.6% of GDP (2019 est.)<br>
+1.7% of GDP (2018 est.)<br>
+1.5% of GDP (2017 est.)<br>
+1.8% of GDP (2016 est.)<br>
+1.9% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 30,000 active duty troops, including about 4,000 Air Force personnel (2022)<br>

@@ -201,9 +201,9 @@ _unimproved: total_: total: 28.9% of population (2020 est.)<br>
 1.7% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
+_vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
@@ -290,9 +290,9 @@ _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
+_vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
@@ -656,8 +656,8 @@ state-owned TV station, 2 state-owned radio networks; several privately owned TV
 .gh<br>
 
 **Internet users**<br>
-_total_: 18,022,308 (2020 est.)<br>
-_percent of population_: 58% (2020 est.)<br>
+_total_: 22.44 million (2021 est.)<br>
+_percent of population_: 68% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 78,371 (2020 est.)<br>

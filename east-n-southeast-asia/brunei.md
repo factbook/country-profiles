@@ -263,8 +263,8 @@ _rate of urbanization_: 1.44% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 216,253 tons (2016 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 150 million cubic meters (2019 est.)<br>
-_agricultural_: 1 million cubic meters (2019 est.)<br>
+_municipal_: 150 million cubic meters (2020 est.)<br>
+_agricultural_: 10 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 8.5 billion cubic meters (2019 est.)<br>
@@ -478,7 +478,7 @@ $7.828 billion (2019 est.)<br>
 Japan 34%, Australia 12%, Singapore 10%, India 8%, Malaysia 8%, Thailand 7%, China 6%, South Korea 5% (2019)<br>
 
 **Exports - commodities**<br>
-natural gas, crude petroleum, refined petroleum, industrial alcohols, industrial hydrocarbons (2019)<br>
+refined petroleum, natural gas, crude petroleum, industrial hydrocarbons, industrial alcohols&nbsp; (2021)<br>
 
 **Imports**<br>
 $9.219 billion (2021 est.) note: data are in current year dollars<br>
@@ -592,8 +592,8 @@ state-controlled Radio Television Brunei (RTB) operates 5 channels; 3 Malaysian 
 .bn<br>
 
 **Internet users**<br>
-_total_: 415,609 (2020 est.)<br>
-_percent of population_: 95% (2020 est.)<br>
+_total_: 441,000 (2021 est.)<br>
+_percent of population_: 98% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 71,078 (2020 est.)<br>
@@ -643,7 +643,7 @@ _LNG terminal(s) (export)_: Lumut<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Brunei Armed Forces: Land Force, Navy, Air Force, Joint Force (2022)<br>
+Royal Brunei Armed Forces: Land Force, Navy, Air Force, Joint Force; Ministry of Home Affairs: Royal Brunei Police Force  (2023)<br>
 <strong>note: </strong>the Gurkha Reserve Unit (GRU) under the Ministry of Defense is a special guard force for the Sultan, the royal family, and the country’s oil installations<br>
 
 **Military expenditures**<br>

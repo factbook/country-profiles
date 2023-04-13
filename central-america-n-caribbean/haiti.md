@@ -193,8 +193,8 @@ _unimproved: total_: total: 34.4% of population (2020 est.)<br>
 1.8% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
-_food or waterborne diseases_: cholera, bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
+_degree of risk_: very high (2023)<br>
+_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -273,8 +273,8 @@ _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
-_food or waterborne diseases_: cholera, bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
+_degree of risk_: very high (2023)<br>
+_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
 **Food insecurity**<br>
@@ -628,8 +628,8 @@ _international_: country code - 509; landing points for the BDSNi and Fibralink 
 .ht<br>
 
 **Internet users**<br>
-_total_: 3,990,887 (2020 est.)<br>
-_percent of population_: 35% (2020 est.)<br>
+_total_: 4.29 million (2021 est.)<br>
+_percent of population_: 39% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 31,000 (2020 est.)<br>
@@ -698,6 +698,10 @@ the International Maritime Bureau reported one incident in the territorial water
 **Refugees and internally displaced persons**<br>
 _IDPs_: 17,000 (violence among armed gangs in the metropolitan area os Port-au-Prince) (2021)<br>
 _stateless persons_: 2,992 (2018); note - individuals without a nationality who were born in the Dominican Republic prior to January 2010<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List &mdash; Haiti does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; Haiti adopted national standard operating procedures for victim identification and support, improved oversight of vulnerable children in orphanages, completed a new national action plan, conducted extensive anti-trafficking training, and collaborated with NGOs on victim identification; however, the government did not demonstrate overall increasing efforts compared with the previous year to expand its anti-trafficking capacity; traffickers operated with impunity and complicity, particularly in high-profile cases; no anti-trafficking law enforcement or victim protection efforts were reported apart from those involving children; the government did not fund the National Committee for the Fight Against Human Trafficking or adult victim services in fiscal year 2021 and made insufficient efforts to combat child domestic servitude; therefore, Haiti remained on Tier 2 Watch List for the second consecutive year (2022)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Haiti, as well as Haitians abroad; most of Haiti&rsquo;s trafficking cases involve children in forced labor and sex trafficking in domestic service; NGOs estimate between 150,000 and 300,000 children work in domestic servitude, of which about two-thirds are girls and one-third boys--mostly victims of sex trafficking and labor trafficking, respectively; Haitian women and girls seeking jobs are instead exploited in commercial sex in the Dominican Republic or for sex tourism; child sex tourism reportedly takes place in Haiti, with most tourists coming from the United States, Canada, and Europe; traffickers target Haitian children in private or NGO-sponsored residential care centers, children working in Haiti and the Dominican Republic, internally displaced persons&mdash;including those displaced by natural disasters and gang violence&mdash;stateless people, Haitian migrants traveling from or returning to Haiti, and LGBTQI+ youth; female foreign nationals, especially from the Dominican Republic and Venezuela, are particularly at risk for sex and labor trafficking in Haiti; Cuban medical workers in Haiti may have been forced to work by the Cuban government (2022)<br>
 
 **Illicit drugs**<br>
 <p>a transit point for cocaine from South America and marijuana from Jamaica en route to the United States; not a producer or large consumer of illicit drugs; some cultivation of cannabis for local consumption</p><br>

@@ -201,7 +201,7 @@ _unimproved: total_: total: 42.5% of population (2020 est.)<br>
 0.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _animal contact diseases_: rabies<br>
@@ -284,7 +284,7 @@ _rate of urbanization_: 3.84% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _animal contact diseases_: rabies<br>
@@ -703,14 +703,14 @@ _major seaport(s)_: Nouadhibou, Nouakchott<br>
 
 **Military and security forces**<br>
 Mauritanian Armed Forces (aka Armée Nationale Mauritanienne): National Army, National Navy (Marine Nationale), Mauritania Islamic Air Force; Gendarmerie (Ministry of Defense); Ministry of Interior and Decentralization: National Police, National Guard, General Group for Road Safety (2023)<br>
-<strong>note 1:</strong> the National Police is responsible for enforcing the law and maintaining order in urban areas, while the Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas; the Gendarmerie is under the Ministry of Defense, but also supports the ministries of Interior and Justice<br><br><strong>note 2:</strong> the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; regional authorities may call upon the National Guard to restore civil order during riots and other large-scale disturbances <br><br><strong>note 3:</strong> the General Group for Road Safety maintains security on roads and operates checkpoints throughout the country<br>
+<strong>note 1:</strong> the National Police is responsible for enforcing the law and maintaining order in urban areas, while the paramilitary Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas; the Gendarmerie is under the Ministry of Defense, but also supports the ministries of Interior and Justice<br><br><strong>note 2:</strong> the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; regional authorities may call upon the National Guard to restore civil order during riots and other large-scale disturbances <br><br><strong>note 3:</strong> the General Group for Road Safety maintains security on roads and operates checkpoints throughout the country<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2022 est.)<br>
 2.4% of GDP (2021 est.)<br>
 2.5% of GDP (2020 est.)<br>
-2.1% of GDP (2019 est.) (approximately $440 million)<br>
-2.3% of GDP (2018 est.) (approximately $430 million)<br>
+2.1% of GDP (2019 est.)<br>
+2.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 16,000 active armed forces personnel (15,000 Army; 700 Navy; 300 Air Force); estimated 3,000 Gendarmerie; estimated 2,000 National Guard (2022)<br>

@@ -691,8 +691,8 @@ Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy 
 1.4% of GDP (2022 est.)<br>
 1.6% of GDP (2021)<br>
 1.4% of GDP (2020)<br>
-1.4% of GDP (2019) (approximately $4.31 billion)<br>
-1.3% of GDP (2018) (approximately $4.06 billion)<br>
+1.4% of GDP (2019)<br>
+1.3% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2022)<br>

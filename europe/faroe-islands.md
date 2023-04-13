@@ -514,8 +514,8 @@ _international_: country code - 298; landing points for the SHEFA-2, FARICE-1, a
 .fo<br>
 
 **Internet users**<br>
-_total_: 47,703 (2019 est.)<br>
-_percent of population_: 98% (2019 est.)<br>
+_total_: 51,728 (2021 est.)<br>
+_percent of population_: 97.6% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 18,443 (2020 est.)<br>

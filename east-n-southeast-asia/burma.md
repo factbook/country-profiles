@@ -542,7 +542,7 @@ $13.629 billion (2017 est.)<br>
 China 24%, Thailand 24%, Japan 7%, Germany 5% (2019)<br>
 
 **Exports - commodities**<br>
-natural gas, clothing products, rice, copper, dried legumes (2019)<br>
+natural gas, clothing products, dried legumes, precious stones, yttrium, scandium, rice, corn&nbsp; (2021)<br>
 
 **Imports**<br>
 $17.356 billion (2019 est.) note: data are in current year dollars<br>
@@ -658,8 +658,8 @@ government controls all domestic broadcast media; 2 state-controlled TV stations
 .mm<br>
 
 **Internet users**<br>
-_total_: 19,043,428 (2020 est.)<br>
-_percent of population_: 35% (2020 est.)<br>
+_total_: 23.76 million (2021 est.)<br>
+_percent of population_: 44% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 688,185 (2020 est.)<br>
@@ -722,8 +722,8 @@ _river port(s)_: Rangoon (Yangon) (Rangoon River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Burmese Defense Service (aka Armed Forces of Burma, Myanmar Army, Royal Armed Forces, or the Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Air Force (Tatmadaw Lay); People’s Militia; Ministry of Home Affairs: People's Police Force; Border Guard Forces/Police (2022)<br>
-<strong>note:</strong> under the 2008 constitution, the Tatmadaw controls appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs; in March 2022, a new law gave the commander-in-chief of the Tatmadaw the authority to appoint or remove the head of the police force<br>
+Burmese Defense Service (aka Armed Forces of Burma, Myanmar Army, Royal Armed Forces, or the Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Air Force (Tatmadaw Lay); People’s Militia; Ministry of Home Affairs: Burma (People's) Police Force, Border Guard Forces/Police (2023)<br>
+<strong>note 1:</strong> under the 2008 constitution, the Tatmadaw controls appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs; in March 2022, a new law gave the commander-in-chief of the Tatmadaw the authority to appoint or remove the head of the police force<br><br><strong>note 2:</strong> the Burma Police Force is primarily responsible for internal security; the Border Guard Police is administratively part of the Burma Police Force but operationally distinct; both are under the Ministry of Home Affairs, which is led by an active-duty military general and itself subordinate to the military command<br>
 
 **Military expenditures**<br>
 3.4% of GDP (2021 est.)<br>
@@ -750,7 +750,7 @@ since the country’s founding, the Tatmadaw has been heavily involved in domest
 <p>over half of Burma's population consists of diverse ethnic groups who have substantial numbers of kin in neighboring countries; Bangladesh struggles to accommodate 912,000 Rohingya, Burmese Muslim minority from Rakhine State, living as refugees in Cox's Bazar; Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border with Bangladesh in 2010; Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Burmese forces attempting to dig in to the largely autonomous Shan State to rout local militias tied to the drug trade, prompts local residents to periodically flee into neighboring Yunnan Province in China; fencing along the India-Burma international border at Manipur's Moreh town is in progress to check illegal drug trafficking and movement of militants; over 100,000 mostly Karen refugees and asylum seekers fleeing civil strife, political upheaval, and economic stagnation in Burma were living in remote camps in Thailand near the border as of May 2017</p><br>
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 1.72 million (government offensives against armed ethnic minority groups near its borders with China and Thailand, natural disasters, forced land evictions) (2023)<br>
+_IDPs_: 1.8 million (government offensives against armed ethnic minority groups near its borders with China and Thailand, natural disasters, forced land evictions) (2023)<br>
 _stateless persons_: 600,000 (2022); note - Rohingya Muslims, living predominantly in Rakhine State, are Burma's main group of stateless people; the Burmese Government does not recognize the Rohingya as a "national race" and stripped them of their citizenship under the 1982 Citizenship Law, categorizing them as "non-nationals" or "foreign residents;" under the Rakhine State Action Plan drafted in October 2014, the Rohingya must demonstrate their family has lived in Burma for at least 60 years to qualify for a lesser naturalized citizenship and the classification of Bengali or be put in detention camps and face deportation; native-born but non-indigenous people, such as Indians, are also stateless; the Burmese Government does not grant citizenship to children born outside of the country to Burmese parents who left the country illegally or fled persecution, such as those born in Thailand; the number of stateless persons has decreased dramatically because hundreds of thousands of Rohingya have fled to Bangladesh since 25 August 2017 to escape violence<br>
 
 **Trafficking in persons**<br>

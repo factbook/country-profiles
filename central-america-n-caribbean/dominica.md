@@ -234,7 +234,7 @@ _rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 13,176 tons (2013 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 20 million cubic meters (2019 est.)<br>
+_municipal_: 20 million cubic meters (2020 est.)<br>
 _industrial_: 0 cubic meters (2017 est.)<br>
 _agricultural_: 1 million cubic meters (2017 est.)<br>
 
@@ -554,8 +554,8 @@ no terrestrial TV service available; subscription cable TV provider offers some 
 .dm<br>
 
 **Internet users**<br>
-_total_: 50,266 (2019 est.)<br>
-_percent of population_: 70% (2019 est.)<br>
+_total_: 58,320 (2021 est.)<br>
+_percent of population_: 81% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 16,000 (2020 est.)<br>

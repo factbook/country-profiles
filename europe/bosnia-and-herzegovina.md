@@ -275,8 +275,8 @@ _percent of municipal solid waste recycled_: 0% (2015 est.)<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 310 million cubic meters (2019 est.)<br>
-_industrial_: 50 million cubic meters (2019 est.)<br>
+_municipal_: 310 million cubic meters (2020 est.)<br>
+_industrial_: 60 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 37.5 billion cubic meters (2019 est.)<br>
@@ -518,7 +518,7 @@ $8.199 billion (2019 est.)<br>
 Germany 14%, Italy 12%, Croatia 11%, Serbia 11%, Austria 9%, Slovenia 8% (2019)<br>
 
 **Exports - commodities**<br>
-electricity, seating, leather shoes, furniture, insulated wiring (2019)<br>
+electricity, seating, insulated wiring, lumber, furniture (2021)<br>
 
 **Imports**<br>
 $12.726 billion (2021 est.) note: data are in current year dollars<br>
@@ -631,8 +631,8 @@ _international_: country code - 387; no satellite earth stations<br>
 .ba<br>
 
 **Internet users**<br>
-_total_: 2,394,995 (2020 est.)<br>
-_percent of population_: 73% (2020 est.)<br>
+_total_: 2.508 million (2021 est.)<br>
+_percent of population_: 76% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 770,424 (2020 est.)<br>
@@ -724,7 +724,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 **Refugees and internally displaced persons**<br>
 _IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
 _stateless persons_: 48 (2022)<br>
-<strong>note: </strong>117,319 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
+<strong>note: </strong>117,822 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

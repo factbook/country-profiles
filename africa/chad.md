@@ -198,7 +198,7 @@ _unimproved: total_: total: 82.7% of population (2020 est.)<br>
 1.1% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -287,7 +287,7 @@ _rate of urbanization_: 4.1% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -311,9 +311,9 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basi
 Lake Chad Basin, Nubian Aquifer System<br>
 
 **Total water withdrawal**<br>
-_municipal_: 100 million cubic meters (2019 est.)<br>
-_industrial_: 100 million cubic meters (2019 est.)<br>
-_agricultural_: 670 million cubic meters (2019 est.)<br>
+_municipal_: 100 million cubic meters (2020 est.)<br>
+_industrial_: 100 million cubic meters (2020 est.)<br>
+_agricultural_: 670 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 45.7 billion cubic meters (2019 est.)<br>
@@ -536,7 +536,7 @@ $2.187 billion (2016 est.)<br>
 China 32%, United Arab Emirates 21%, India 19%, United States 10%, France 6%, Germany 5% (2019)<br>
 
 **Exports - commodities**<br>
-crude petroleum, gold, livestock, sesame seeds, gum arabic, insect resins (2019)<br>
+crude petroleum, gold, sesame seeds, gum arabic, silver (2021)<br>
 
 **Imports**<br>
 $2.16 billion (2017 est.)<br>
@@ -650,8 +650,8 @@ _international_: country code - 235; satellite earth station - 1 Intelsat (Atlan
 .td<br>
 
 **Internet users**<br>
-_total_: 1,642,586 (2020 est.)<br>
-_percent of population_: 10% (2020 est.)<br>
+_total_: 3.06 million (2021 est.)<br>
+_percent of population_: 18% (2021 est.)<br>
 
 ## Transportation
 
@@ -731,7 +731,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 405,689 (Sudan), 124,601 (Central African Republic), 42,607 (Cameroon), 20,694 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 405,689 (Sudan), 125,433 (Central African Republic), 42,607 (Cameroon), 20,937 (Nigeria) (2023)<br>
 _IDPs_: 381,289 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>

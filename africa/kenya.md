@@ -201,7 +201,7 @@ _unimproved: total_: total: 41.8% of population (2020 est.)<br>
 4% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria, dengue fever, and Rift Valley fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -278,7 +278,7 @@ _rate of urbanization_: 4.09% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria, dengue fever, and Rift Valley fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -653,7 +653,8 @@ about a half-dozen large-scale privately owned media companies with TV and radio
 .ke<br>
 
 **Internet users**<br>
-_total_: 16,131,390 (2020 est.)<br>
+_total_: 15.37 million (2021 est.)<br>
+_percent of population_: 29% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 674,191 (2020 est.)<br>
@@ -714,15 +715,15 @@ _LNG terminal(s) (import)_: Mombasa<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Kenya Defense Forces (KDF): Kenya Army, Kenya Navy, Kenya Air Force (2022)<br>
+Kenya Defense Forces (KDF): Kenya Army, Kenya Navy, Kenya Air Force (2023)<br>
 <strong>note 1:</strong> the National Police Service maintains internal security and reports to the Ministry of Interior and Coordination of National Government; it includes a paramilitary General Service Unit and Rapid Deployment Unit<br><br><strong>note 2:</strong> the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2021 est.)<br>
 1.2% of GDP (2020)<br>
-1.2% of GDP (2019) (approximately $1.21 billion)<br>
-1.3% of GDP (2018) (approximately $1.24 billion)<br>
-1.4% of GDP (2017) (approximately $1.19 billion)<br>
+1.2% of GDP (2019)<br>
+1.3% of GDP (2018)<br>
+1.4% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 24,000 personnel (20,000 Army; 1,500 Navy; 2,500 Air Force) (2022)<br>

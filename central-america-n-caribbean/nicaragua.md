@@ -197,7 +197,7 @@ _unimproved: total_: total: 19.7% of population (2020 est.)<br>
 0.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
@@ -267,7 +267,7 @@ _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
@@ -683,9 +683,9 @@ Army of Nicaragua (Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); N
 **Military expenditures**<br>
 0.6% of GDP (2021 est.)<br>
 0.6% of GDP (2020 est.)<br>
-0.6% of GDP (2019) (approximately $170 million)<br>
-0.6% of GDP (2018) (approximately $180 million)<br>
-0.6% of GDP (2017) (approximately $190 million)<br>
+0.6% of GDP (2019)<br>
+0.6% of GDP (2018)<br>
+0.6% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2022)<br>

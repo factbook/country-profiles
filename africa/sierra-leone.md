@@ -194,7 +194,7 @@ _unimproved: total_: total: 45.6% of population (2020 est.)<br>
 1.4% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and&nbsp;dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -278,7 +278,7 @@ _rate of urbanization_: 3.02% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and&nbsp;dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -679,9 +679,9 @@ Republic of Sierra Leone Armed Forces (RSLAF): operates under a Joint Force Comm
 **Military expenditures**<br>
 0.3% of GDP (2021 est.)<br>
 0.3% of GDP (2020 est.)<br>
-0.3% of GDP (2019 est.) (approximately $35 million)<br>
-0.3% of GDP (2018 est.) (approximately $45 million)<br>
-0.3% of GDP (2017 est.) (approximately $40 million)<br>
+0.3% of GDP (2019 est.)<br>
+0.3% of GDP (2018 est.)<br>
+0.3% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 9,000 personnel, mostly ground forces (2022)<br>

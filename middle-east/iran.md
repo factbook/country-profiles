@@ -197,10 +197,9 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 (2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 9 December 2022, Iran has reported a total of 7,559,999 cases of COVID-19 or 9,000.75 cumulative cases of COVID-19 per 100,000 population with a total of 144,649 cumulative deaths or a rate 172.2 cumulative deaths per 100,000 population; as of 4 December 2022, 73.52% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 25.8% (2016)<br>
@@ -278,10 +277,9 @@ _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 0.01% of GDP (2017 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 9 December 2022, Iran has reported a total of 7,559,999 cases of COVID-19 or 9,000.75 cumulative cases of COVID-19 per 100,000 population with a total of 144,649 cumulative deaths or a rate 172.2 cumulative deaths per 100,000 population; as of 4 December 2022, 73.52% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 17.885 million tons (2017 est.)<br>
@@ -631,8 +629,8 @@ state-run broadcast media with no private, independent broadcasters; Islamic Rep
 .ir<br>
 
 **Internet users**<br>
-_total_: 75,594,081 (2020 est.)<br>
-_percent of population_: 84% (2020 est.)<br>
+_total_: 69.52 million (2021 est.)<br>
+_percent of population_: 79% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 9,564,195 (2020 est.)<br>
@@ -704,9 +702,9 @@ the military forces of Iran are divided between the Islamic Republic of Iran Reg
 **Military expenditures**<br>
 2.3% of GDP (2021 est.)<br>
 2.1% of GDP (2020 est.)<br>
-2.5% of GDP (2019 est.) (approximately $22.8 billion)<br>
-3.4% of GDP (2018 est.) (approximately $29.1 billion)<br>
-3.4% of GDP (2017 est.) (approximately $31.2 billion)<br>
+2.5% of GDP (2019 est.)<br>
+3.4% of GDP (2018 est.)<br>
+3.4% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 550-600,000 active armed forces personnel; approximately 400,000 Islamic Republic of Iran Regular Forces (350,000 Ground Forces; 18,000 Navy; 40,000 Air Force/Air Defense Forces); approximately 150-190,000 Islamic Revolutionary Guard Corps (100-150,000 Ground Forces; 20,000 Navy; 15,000 Aerospace Force; 5-15,000 Qods Force); estimated 90,000 active Basij Paramilitary Forces (2022)<br>

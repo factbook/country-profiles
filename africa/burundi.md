@@ -307,9 +307,9 @@ _fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 40 million cubic meters (2019 est.)<br>
-_industrial_: 20 million cubic meters (2019 est.)<br>
-_agricultural_: 220 million cubic meters (2019 est.)<br>
+_municipal_: 40 million cubic meters (2020 est.)<br>
+_industrial_: 20 million cubic meters (2020 est.)<br>
+_agricultural_: 220 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 12.5 billion cubic meters (2019 est.)<br>
@@ -527,7 +527,8 @@ $270.686 million (2017 est.)<br>
 United Arab Emirates 50%, Democratic Republic of the Congo 7% (2019)<br>
 
 **Exports - commodities**<br>
-gold, coffee, tea, raw earth metal ores, wheat flours (2019)<br>
+gold, coffee, tea, raw earth metal ores, beer (2021)<br>
+<strong>note:</strong> rare earth metal ores include zirconium, vanadium, tantalum, and niobium<br>
 
 **Imports**<br>
 $905.294 million (2018 est.) note: data are in current year dollars<br>
@@ -641,8 +642,8 @@ state-controlled Radio Television Nationale de Burundi (RTNB) operates a TV stat
 .bi<br>
 
 **Internet users**<br>
-_total_: 1,070,170 (2020 est.)<br>
-_percent of population_: 9% (2020 est.)<br>
+_total_: 754,000 (2021 est.)<br>
+_percent of population_: 5.8% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,230 (2020 est.)<br>

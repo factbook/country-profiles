@@ -686,14 +686,15 @@ _major seaport(s)_: Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga
 ## Military and Security
 
 **Military and security forces**<br>
-New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Royal New Zealand Air Force (2022)<br>
+New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Royal New Zealand Air Force (2023)<br>
+note: the New Zealand Police, under the minister of police, are responsible for internal security<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2022 est.)<br>
 1.3% of GDP (2021)<br>
 1.5% of GDP (2020)<br>
-1.4% of GDP (2019) (approximately $3.1 billion)<br>
-1.2% of GDP (2018) (approximately $2.62 billion)<br>
+1.4% of GDP (2019)<br>
+1.2% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 9,500 active-duty troops (4,700 Army; 2,300 Navy; 2,500 Air Force) (2022)<br>

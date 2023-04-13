@@ -483,7 +483,7 @@ $142.21 million (2019 est.)<br>
 France 32%, India 23%, Germany 10%, Turkey 9%, Madagascar 7% (2019)<br>
 
 **Exports - commodities**<br>
-cloves, essential oils, vacuum flask, vanilla, scrap vessels (2019)<br>
+cloves, tug boats, essential oils, scrap vessels, vanilla (2021)<br>
 
 **Imports**<br>
 $407 million (2021 est.) note: data are in current year dollars<br>
@@ -598,8 +598,8 @@ national state-owned TV station and a TV station run by Anjouan regional governm
 .km<br>
 
 **Internet users**<br>
-_total_: 69,568 (2020 est.)<br>
-_percent of population_: 8% (2020 est.)<br>
+_total_: 221,400 (2021 est.)<br>
+_percent of population_: 27% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,066 (2020 est.)<br>

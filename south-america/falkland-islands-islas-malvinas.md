@@ -469,8 +469,8 @@ TV service provided by a multi-channel service provider; radio services provided
 .fk<br>
 
 **Internet users**<br>
-_total_: 3,343 (2019 est.)<br>
-_percent of population_: 99% (2019 est.)<br>
+_total_: 3,762 (2021 est.)<br>
+_percent of population_: 99% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2020 est.)<br>

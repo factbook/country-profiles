@@ -569,8 +569,8 @@ _international_: country code - 852; landing points for the AAE-1, AAG, APCN-2, 
 .hk<br>
 
 **Internet users**<br>
-_total_: 6,883,256 (2020 est.)<br>
-_percent of population_: 92% (2020 est.)<br>
+_total_: 6.975 million (2021 est.)<br>
+_percent of population_: 93% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,885,586 (2020 est.)<br>
@@ -613,7 +613,7 @@ _container port(s) (TEUs)_: Hong Kong (17,798,000) (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular indigenous military forces; Hong Kong Police Force (specialized units include the Police Counterterrorism Response Unit, the Explosive Ordnance Disposal Bureau, the Special Duties Unit, the Airport Security Unit, and the VIP Protection Unit) (2022)<br>
+no regular indigenous military forces; Hong Kong Police Force (specialized units include the Police Counterterrorism Response Unit, the Explosive Ordnance Disposal Bureau, the Special Duties Unit, the Airport Security Unit, and the VIP Protection Unit) (2023)<br>
 <strong>note: </strong>the Hong Kong garrison of China's People's Liberation Army (PLA) includes elements of the PLA Army, PLA Navy, and PLA Air Force; these forces are under the direct leadership of the Central Military Commission in Beijing and under administrative control of the adjacent Southern Theater Command<br>
 
 **Military - note**<br>

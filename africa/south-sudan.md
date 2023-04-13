@@ -185,7 +185,7 @@ _unimproved: total_: total: 75.4% of population (2020 est.)<br>
 2.1% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: malaria, dengue fever, Trypanosomiasis-Gambiense (African sleeping sickness)<br>
 _water contact diseases_: schistosomiasis<br>
@@ -247,7 +247,7 @@ _rate of urbanization_: 4.12% annual rate of change (2020-25 est.)<br>
 2.65% of GDP (2015 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: malaria, dengue fever, Trypanosomiasis-Gambiense (African sleeping sickness)<br>
 _water contact diseases_: schistosomiasis<br>
@@ -418,7 +418,7 @@ _female_: 20.2% (2021 est.)<br>
 76.4% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-46 (2010 est.)<br>
+44.1 (2016 est.)<br>
 
 **Budget**<br>
 _revenues_: $259.6 million (FY2017/18 est.)<br>
@@ -539,12 +539,12 @@ _Total energy consumption per capita 2019_: 2.404 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,221,970 (2019)<br>
-_subscriptions per 100 inhabitants_: 20.09 (2019)<br>
+_total subscriptions_: 3.3 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 30 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: following a referendum, oil-rich South Sudan seceded from Sudan in 2011 and became an independent nation; having been deprived of investment for decades, it inherited one of the least developed telecom markets in the world; there was once investment activity among mobile network operators who sought to expand their networks in some areas of the country; operators in the telecom sector placed themselves in survival mode and are hoping for a political settlement and a return to some degree of social stability; South Sudan has one of the lowest mobile penetration rates in Africa; growth in the sector in coming years is premised on a resolution to the political crisis and a recovery of the country&rsquo;s economy; the virtually untapped internet and broadband market also depends to a large extent on the country gaining access to international fiber cables and on a national backbone network being in place; sophisticated infrastructure solutions are needed to reach the 80% of the population that live outside of the main urban centers; some improvement has followed from the cable link in February 2020 which connects Juba directly to the company&rsquo;s submarine landing station at Mombasa; the cable was South Sudan&rsquo;s first direct international fiber link, and has helped drive down the price of retail internet services for residential and business customers; a second cable linking to the border with Kenya was completed in December 2021 (2022)<br>
-_domestic_: fixed-line less than 1 per 100 subscriptions, mobile-cellular roughly 12 per 100 persons (2020)<br>
+_domestic_: fixed-line less than 1 per 100 subscriptions, mobile-cellular is 30 per 100 persons (2021)<br>
 _international_: country code - 211 (2017)<br>
 
 **Broadcast media**<br>
@@ -605,15 +605,15 @@ see entry for Sudan<br>
 ## Military and Security
 
 **Military and security forces**<br>
-South Sudan People’s Defense Force (SSPDF): Ground Force (includes Presidential Guard), Air Force, Air Defense Forces; National (or Necessary) Unified Forces (NUF) (2022)<br>
+South Sudan People’s Defense Force (SSPDF): Ground Force (includes Presidential Guard), Air Force, Air Defense Forces; National (or Necessary) Unified Forces (NUF); Ministry of Interior: South Sudan National Police Service  (2023)<br>
 <strong>note 1: </strong>the NUF are being formed by retraining rebel and pro-government militia fighters into military, police, and other government security forces; in August 2022, South Sudan held the first graduation ceremony for retrained personnel<strong><br><br>note 2:</strong> numerous irregular forces operate in the country with official knowledge, including militias operated by the National Security Service (an internal security force under the Ministry of National Security) and proxy forces<br>
 
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
-3.1% of GDP (2019 est.) (approximately $1.62 billion)<br>
-3.2% of GDP (2018 est.) (approximately $1.54 billion)<br>
-2.1% of GDP (2017 est.) (approximately $660 million)<br>
+3.1% of GDP (2019 est.)<br>
+3.2% of GDP (2018 est.)<br>
+2.1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 150-200,000 active personnel, mostly ground forces with small contingents of air and riverine forces (2022)<br>

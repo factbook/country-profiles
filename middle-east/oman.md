@@ -676,15 +676,15 @@ _LNG terminal(s) (export)_: Qalhat<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO), Royal Air Force of Oman (RAFO), Royal Guard of Oman (RGO); Royal Oman Police (ROP): Civil Defense, Immigration, Customs, Royal Oman Police Coast Guard (2022)<br>
-<strong>note: </strong>in addition to its policing duties, the Royal Oman Police conducts many administrative functions similar to the responsibilities of a Ministry of Interior in other countries<br>
+Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO), Royal Air Force of Oman (RAFO), Royal Guard of Oman (RGO), Sultan's Special Forces; Royal Oman Police (ROP): Civil Defense, Immigration, Customs, Royal Oman Police Coast Guard (2023)<br>
+<strong>note 1: </strong>the Sultan’s Special Forces and the ROP Special Task Force are Oman’s primary tactical counterterrorism response forces<strong><br><br>note 2:</strong> in addition to its policing duties, the ROP conducts many administrative functions similar to the responsibilities of a Ministry of Interior in other countries<br>
 
 **Military expenditures**<br>
 8% of GDP (2021 est.)<br>
 11% of GDP (2020 est.)<br>
-11.8% of GDP (2019 est.) (approximately $12.1 billion)<br>
-11.2% of GDP (2018 est.) (approximately $11.8 billion)<br>
-12.3% of GDP (2017 est.) (approximately $12.7 billion)<br>
+11.8% of GDP (2019 est.)<br>
+11.2% of GDP (2018 est.)<br>
+12.3% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 40,000 active duty troops (25,000 Army, 5,000 Navy; 5,000 Air Force; 5,000 Royal Guard) (2022)<br>

@@ -190,9 +190,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 9 December 2022, UAE has reported a total of 1,045,040 cases of COVID-19 or 10,566.2 cumulative cases of COVID-19 per 100,000 population with a total of 2,348 cumulative deaths or a rate of 23.74 cumulative deaths per 100,000 population<br>
-
 **Obesity - adult prevalence rate**<br>
 31.7% (2016)<br>
 
@@ -262,9 +259,6 @@ _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
-
-**Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 9 December 2022, UAE has reported a total of 1,045,040 cases of COVID-19 or 10,566.2 cumulative cases of COVID-19 per 100,000 population with a total of 2,348 cumulative deaths or a rate of 23.74 cumulative deaths per 100,000 population<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,413,453 tons (2015 est.)<br>
@@ -463,7 +457,7 @@ _female_: 19.9% (2021 est.)<br>
 19.5% (2003 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-32.5 (2014 est.)<br>
+26 (2018 est.)<br>
 
 **Average household expenditures**<br>
 _on food_: 13.7% of household expenditures (2018 est.)<br>
@@ -596,16 +590,16 @@ _Total energy consumption per capita 2019_: 471.788 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,380,866 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 24 (2020 est.)<br>
+_total subscriptions_: 2.2 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 24 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 19,602,800 (2019)<br>
-_subscriptions per 100 inhabitants_: 200.63 (2019)<br>
+_total subscriptions_: 18 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 190 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the UAE has a strong mobile market; while the 5G penetration rate is the second highest globally after China; this has underpinned growth in the mobile broadband sector, and has enabled the strong development in the take-up of rich content and applications, as well as m-commerce; to help increase the capacity of 5G networks in coming years, and so keep up with data demand, the government has allowed for the GSM networks to be closed down and for spectrum and other assets to be re-purposed for 5G by the end of 2022; the fixed-broadband network in the UAE is dominated by fiber, with DSL having a minor and declining presence; this focus on a fully fiber infrastructure has also facilitated growth in e-commerce, and has supported the government&rsquo;s long-term aim of transitioning the economy from its dependence on oil to being knowledge-based and supported by digital services; the country stands to benefit from having signed the Abraham Accord Declaration with Israel, which aims to normalize relations between the two countries; such benefits can be seen in the agreement to enable local ISPs to access Bezeq International&rsquo;s submarine cable infrastructure, and so improve direct connectivity to Europe, South East Asia, and Africa; the UAE&rsquo;s ISPs can also access Bezeq International&rsquo;s data center in Tel Aviv, improving internet services (2022)<br>
-_domestic_: microwave radio relay, fiber-optic and coaxial cable; fixed-line roughly 24 per 100 and mobile-cellular nearly 186 per 100 (2020)<br>
+_domestic_: fixed-line is 24 per 100 and mobile-cellular is 190 per 100 (2021)<br>
 _international_: country code - 971;&nbsp;landing points for the&nbsp;FLAG, SEA-ME-WE-3&nbsp;,-4 &amp; -5, Qater UAE&nbsp;Submarine Cable System, FALCON, FOG, Tat TGN-Gulf, OMRAN/EPEG Cable System, AAE-1, BBG, EIG, FEA, GBICS/MENA, IMEWE, Orient Express, TEAMS, TW1 and the UAE-Iran submarine cables, linking to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian) (2020)<br>
 
 **Broadcast media**<br>
@@ -679,10 +673,10 @@ United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presiden
 
 **Military expenditures**<br>
 5.6% of GDP (2020 est.)<br>
-5.4% of GDP (2019 est.) (approximately $29 billion)<br>
-5.5% of GDP (2018 est.) (approximately $28.7 billion)<br>
-5.2% of GDP (2017 est.) (approximately $26.9 billion)<br>
-6% of GDP (2016 est.) (approximately $30 billion)<br>
+5.4% of GDP (2019 est.)<br>
+5.5% of GDP (2018 est.)<br>
+5.2% of GDP (2017 est.)<br>
+6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 65,000 active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2022)<br>

@@ -192,9 +192,9 @@ _unimproved: total_: total: 4% of population (2020 est.)<br>
 1.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever and malaria<br>
+_vectorborne diseases_: malaria<br>
 
 **Obesity - adult prevalence rate**<br>
 26.4% (2016)<br>
@@ -267,9 +267,9 @@ _rate of urbanization_: 0.88% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever and malaria<br>
+_vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 78,620 tons (2010 est.)<br>
@@ -601,16 +601,16 @@ _Total energy consumption per capita 2019_: 82.356 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 103,240 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 18 (2020 est.)<br>
+_total subscriptions_: 119,977 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 20 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 813,844 (2019)<br>
-_subscriptions per 100 inhabitants_: 139.99 (2019)<br>
+_total subscriptions_: 906,170 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 148 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_:  <p>Suriname is the smallest nation on the South American continent, with about 580,000 inhabitants; the only Dutch-speaking nation in South America, it has close affinities with the Caribbean, and is a member of the Caribbean Community and Common Market (CARICOM); the country’s fixed-line infrastructure is reasonably reliable in the more populated coastal region, though poor in the interior; fixed teledensity and broadband penetration are slightly lower than average for Latin America and the Caribbean, while mobile penetration is significantly above the regional average and much higher than would be expected given the country’s relatively low GDP per capita; many Surinamese have up to three mobile lines with different providers, which has pushed up penetration figures although the number of subscribers has fallen in recent years as consumers have responded to economic pressures</p>  (2021)<br>
-_domestic_: fixed-line nearly 18 per 100 and mobile-cellular teledensity over 153 telephones per 100 persons; microwave radio relay network is in place (2020)<br>
+_domestic_: fixed-line is 20 per 100 and mobile-cellular teledensity is 148 telephones per 100 persons (2021)<br>
 _international_: country code - 597; landing point for the SG-SCS submarine cable linking South America with the Caribbean; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
@@ -675,11 +675,11 @@ _major seaport(s)_: Paramaribo, Wageningen<br>
 Suriname Army (National Leger, NL): Army, Navy, Air Force, Military Police (2022)<br>
 
 **Military expenditures**<br>
-1.2% of GDP (2019 est.) (approximately $100 million)<br>
-1.1% of GDP (2018 est.) (approximately $95 million)<br>
-1.1% of GDP (2017 est.) (approximately $95 million)<br>
-1.2% of GDP (2016 est.) (approximately $85 million)<br>
-1.4% of GDP (2015 est.) (approximately $110 million)<br>
+1.2% of GDP (2019 est.)<br>
+1.1% of GDP (2018 est.)<br>
+1.1% of GDP (2017 est.)<br>
+1.2% of GDP (2016 est.)<br>
+1.4% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 total personnel (2022)<br>

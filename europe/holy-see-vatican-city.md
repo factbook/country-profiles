@@ -323,6 +323,10 @@ the Vatican Television Center (CTV) transmits live broadcasts of the Pope's Sund
 **Internet country code**<br>
 .va<br>
 
+**Internet users**<br>
+_total_: 383 (2021 est.)<br>
+_percent of population_: 75% (2021 est.)<br>
+
 **Communications - note**<br>
 the Vatican Apostolic Library is one of the world's oldest libraries, formally established in 1475, but actually much older; it holds a significant collection of historic texts including 1.1 million printed books and 75,000 codices (manuscript books with handwritten contents); it serves as a research library for history, law, philosophy, science, and theology; the library's collections have been described as "the world's greatest treasure house of the writings at the core of Western tradition"<br>
 

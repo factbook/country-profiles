@@ -198,7 +198,7 @@ _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 0.4% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
@@ -282,7 +282,7 @@ _rate of urbanization_: 1.62% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
@@ -648,8 +648,8 @@ _international_: country code - 593; landing points for the SPSC (Mistral Submar
 .ec<br>
 
 **Internet users**<br>
-_total_: 11,467,989 (2020 est.)<br>
-_percent of population_: 65% (2020 est.)<br>
+_total_: 13.68 million (2021 est.)<br>
+_percent of population_: 76% (2021 est.)<br>
 according to 2021 statistics from Ecuador's Ministry of Telecommunications and Information Society, 50% of homes do not have access to fixed internet<br>
 
 **Broadband - fixed subscriptions**<br>

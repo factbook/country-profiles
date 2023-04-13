@@ -303,9 +303,9 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km), Paran&aacute; (2,582,704 sq k
 Amazon Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 140 million cubic meters (2019 est.)<br>
-_industrial_: 30 million cubic meters (2019 est.)<br>
-_agricultural_: 1.92 billion cubic meters (2019 est.)<br>
+_municipal_: 140 million cubic meters (2020 est.)<br>
+_industrial_: 30 million cubic meters (2020 est.)<br>
+_agricultural_: 1.92 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 574 billion cubic meters (2019 est.)<br>
@@ -543,7 +543,7 @@ $10.271 billion (2019 est.)<br>
 Argentina 16%, Brazil 15%, United Arab Emirates 12%, India 10%, United States 6%, South Korea 5%, Peru 5%, Colombia 5% (2019)<br>
 
 **Exports - commodities**<br>
-natural gas, gold, zinc, soybean oil and soy products, tin, silver, lead (2019)<br>
+gold, natural gas, zinc, silver, soy products, tin (2021)<br>
 
 **Imports**<br>
 $10.799 billion (2021 est.) note: data are in current year dollars<br>
@@ -658,8 +658,8 @@ large number of radio and TV stations broadcasting with private media outlets do
 .bo<br>
 
 **Internet users**<br>
-_total_: 7,003,817 (2020 est.)<br>
-_percent of population_: 60% (2020 est.)<br>
+_total_: 7.92 million (2021 est.)<br>
+_percent of population_: 66% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 931,918 (2020 est.)<br>

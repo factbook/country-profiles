@@ -199,8 +199,8 @@ _unimproved: total_: total: 62.6% of population (2020 est.)<br>
 5.4% (2020 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
+_degree of risk_: very high (2023)<br>
+_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: malaria, dengue fever, and Trypanosomiasis-Gambiense (African sleeping sickness)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
@@ -282,8 +282,8 @@ _rate of urbanization_: 5.41% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
+_degree of risk_: very high (2023)<br>
+_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: malaria, dengue fever, and Trypanosomiasis-Gambiense (African sleeping sickness)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
@@ -491,7 +491,7 @@ _female_: 5.3% (2021 est.)<br>
 21.4% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-42.8 (2016 est.)<br>
+42.7 (2019 est.)<br>
 
 **Average household expenditures**<br>
 _on food_: 44.2% of household expenditures (2018 est.)<br>
@@ -635,16 +635,16 @@ _Total energy consumption per capita 2019_: 2.943 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 90,774 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 110,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 25,395,500 (2019)<br>
-_subscriptions per 100 inhabitants_: 57.37 (2019)<br>
+_total subscriptions_: 30 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 66 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a series of reforms within Uganda&rsquo;s telecom sector have provided the country with one of the most competitive markets in the region; in line with the regulator&rsquo;s licensing requirements by which Uganda-based companies should be broadly owned by Ugandans by mid-2022; fixed-line infrastructure remains poor, with low penetration, and as a result fixed-line broadband penetration is also particularly low; consumers have largely depended on mobile infrastructure to provide voice and broadband services; there is sufficient capacity with LTE infrastructure to match data demand during the next few years; Uganda has anticipated the migration to 5G, having held trials in early 2020 though the roll out of 5G is not expected until later in 2022 (2022)<br>
-_domestic_: fixed-line less than 1 per 100 and mobile cellular systems teledensity about 61 per 100 persons; intercity traffic by wire, microwave radio relay, and radiotelephone communication stations (2020)<br>
+_domestic_: fixed-line less than 1 per 100 and mobile cellular systems teledensity is 66 per 100 persons (2021)<br>
 _international_: country code - 256; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat; analog and digital links to Kenya and Tanzania<br>
 
 **Broadcast media**<br>
@@ -711,9 +711,9 @@ Uganda People's Defense Force (UPDF): Land Force (includes marines), Air Force, 
 **Military expenditures**<br>
 2.5% of GDP (2021 est.)<br>
 2.5% of GDP (2020 est.)<br>
-1.7% of GDP (2019) (approximately $870 million)<br>
-1.2% of GDP (2018) (approximately $640 million)<br>
-1.2% of GDP (2017) (approximately $610 million)<br>
+1.7% of GDP (2019)<br>
+1.2% of GDP (2018)<br>
+1.2% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 50,000 troops, including about 1,000-1,500 air and marine personnel; approximately 20-30,000 personnel in the Local Defense Units (2022)<br>
@@ -743,6 +743,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 865,363 (South Sudan) (refugees and asylum seekers), 483,718 (Democratic Republic of the Congo), 67,494 (Somalia), 40,852 (Burundi), 27,605 (Eritrea), 23,290 (Rwanda), 5,450 (Ethiopia) (2023)<br>
+_refugees (country of origin)_: 867,391 (South Sudan) (refugees and asylum seekers), 483,718 (Democratic Republic of the Congo), 70,020 (Somalia), 41,235 (Burundi), 27,605 (Eritrea), 23,290 (Rwanda), 5,450 (Ethiopia) (2023)<br>
 _stateless persons_: 67,000 (2022)<br>
 

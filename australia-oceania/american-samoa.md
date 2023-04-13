@@ -393,7 +393,7 @@ $427 million (2015 est.)<br>
 Australia 25%, Ghana 19%, Indonesia 15.6%, Burma 10.4%, Portugal 5.1% (2017)<br>
 
 **Exports - commodities**<br>
-canned tuna<br>
+refined petroleum, animal meal, vaccines and cultures, ethylene polymers, vulcanized rubber (2021)<br>
 
 **Imports**<br>
 $615 million (2016 est.)<br>
@@ -491,8 +491,8 @@ _international_: country code - 1-684; landing points for the ASH, Southern Cros
 .as<br>
 
 **Internet users**<br>
-_total_: 17,147 (2020 est.)<br>
-_percent of population_: 31% (2020 est.)<br>
+_total_: 18,135 (2021 est.)<br>
+_percent of population_: 40.3% (2021 est.)<br>
 
 ## Transportation
 

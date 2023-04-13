@@ -698,9 +698,9 @@ Mongolian Armed Forces (MAF): Mongolian Ground Force (aka General Purpose Troops
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020 est.)<br>
-0.7% of GDP (2019 est.) (approximately $240 million)<br>
-0.7% of GDP (2018 est.) (approximately $240 million)<br>
-0.8% of GDP (2017 est.) (approximately $110 million)<br>
+0.7% of GDP (2019 est.)<br>
+0.7% of GDP (2018 est.)<br>
+0.8% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 9,000 active duty troops (2022)<br>

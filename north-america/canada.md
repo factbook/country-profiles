@@ -303,9 +303,9 @@ Atlantic Ocean drainage: Mississippi* <em>(Gulf of Mexico)</em> (3,202,185 sq km
 Northern Great Plains Aquifer<br>
 
 **Total water withdrawal**<br>
-_municipal_: 4.87 billion cubic meters (2019 est.)<br>
-_industrial_: 27.51 billion cubic meters (2019 est.)<br>
-_agricultural_: 3.8 billion cubic meters (2019 est.)<br>
+_municipal_: 4.87 billion cubic meters (2020 est.)<br>
+_industrial_: 27.51 billion cubic meters (2020 est.)<br>
+_agricultural_: 3.86 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 2.9 trillion cubic meters (2019 est.)<br>
@@ -545,7 +545,7 @@ $561.63 billion (2019 est.)<br>
 US 73% (2019)<br>
 
 **Exports - commodities**<br>
-crude petroleum, cars and vehicle parts, gold, refined petroleum, natural gas (2019)<br>
+crude petroleum, cars and vehicle parts, natural gas, gold, lumber (2021)<br>
 
 **Imports**<br>
 $609.256 billion (2021 est.) note: data are in current year dollars<br>
@@ -658,8 +658,8 @@ _international_: country code - 1; landing points for the Nunavut Undersea Fiber
 .ca<br>
 
 **Internet users**<br>
-_total_: 36,896,088 (2020 est.)<br>
-_percent of population_: 97% (2020 est.)<br>
+_total_: 35.34 million (2021 est.)<br>
+_percent of population_: 93% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 15,825,813 (2020 est.)<br>

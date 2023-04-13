@@ -410,7 +410,7 @@ $5.163 million (2010 est.)<br>
 Japan 37%, Thailand 21%, France 17% (2019)<br>
 
 **Exports - commodities**<br>
-fish products, recreational boats, precious metal scraps, fruit juice, chemical analysis instruments (2019)<br>
+fish products, recreational boats, paintings, lobsters, tuna (2021)<br>
 
 **Imports**<br>
 $109.3 million (2011 est.)<br>
@@ -513,8 +513,8 @@ _international_: country code - 682; the Manatua submarine cable to surrounding 
 .ck<br>
 
 **Internet users**<br>
-_total_: 9,476 (2019 est.)<br>
-_percent of population_: 54% (2019 est.)<br>
+_total_: 11,382 (2021 est.)<br>
+_percent of population_: 64.8% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,700 (2018 est.)<br>

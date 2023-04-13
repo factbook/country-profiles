@@ -204,10 +204,9 @@ _unimproved: total_: total: 3% of population (2020 est.)<br>
 0.5% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: dengue fever, malaria, and yellow fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 9 December 2022, Columbia has reported a total of 6,323,357 cases of COVID-19 or 12,427.27 cumulative cases of COVID-19 per 100,000 population with a total of 141,943 cumulative deaths or a rate 278.96 cumulative deaths per 100,000 population; as of 25 November 2022, 82.68% of the population has received at least one dose of COVID-19 vaccine<br>
+_vectorborne diseases_: dengue fever and malaria<br>
 
 **Obesity - adult prevalence rate**<br>
 22.3% (2016)<br>
@@ -285,10 +284,9 @@ _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 0.75% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: dengue fever, malaria, and yellow fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 9 December 2022, Columbia has reported a total of 6,323,357 cases of COVID-19 or 12,427.27 cumulative cases of COVID-19 per 100,000 population with a total of 141,943 cumulative deaths or a rate 278.96 cumulative deaths per 100,000 population; as of 25 November 2022, 82.68% of the population has received at least one dose of COVID-19 vaccine<br>
+_vectorborne diseases_: dengue fever and malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 12,150,120 tons (2011 est.)<br>
@@ -305,9 +303,9 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 Amazon Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 3.61 billion cubic meters (2019 est.)<br>
-_industrial_: 3.3 billion cubic meters (2019 est.)<br>
-_agricultural_: 21 billion cubic meters (2019 est.)<br>
+_municipal_: 3.72 billion cubic meters (2020 est.)<br>
+_industrial_: 360 million cubic meters (2020 est.)<br>
+_agricultural_: 25.04 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 2.4 trillion cubic meters (2019 est.)<br>
@@ -544,7 +542,7 @@ $51.324 billion (2019 est.)<br>
 United States 31%, China 11%, Panama 6%, Ecuador 5% (2019)<br>
 
 **Exports - commodities**<br>
-crude petroleum, coal, refined petroleum, coffee, gold (2019)<br>
+crude petroleum, coal, coffee, gold, refined petroleum (2021)<br>
 
 **Imports**<br>
 $70.84 billion (2021 est.) note: data are in current year dollars<br>
@@ -659,8 +657,8 @@ combination of state-owned and privately owned broadcast media provide service; 
 .co<br>
 
 **Internet users**<br>
-_total_: 35,618,019 (2020 est.)<br>
-_percent of population_: 70% (2020 est.)<br>
+_total_: 37.96 million (2021 est.)<br>
+_percent of population_: 73% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 7,764,772 (2020 est.)<br>

@@ -408,7 +408,7 @@ $1.775 billion (2019 est.)<br>
 Switzerland 27%, United States 17%, Spain 14%, Ecuador 7%, India 7%, Antigua and Barbuda 5% (2019)<br>
 
 **Exports - commodities**<br>
-gold, precious metal scraps, petroleum coke, frozen fish, coal tar oil (2019)<br>
+refined petroleum, crude petroleum, petroleum coke, frozen fish, fishing ships (2021)<br>
 
 **Imports**<br>
 $1.915 billion (2021 est.) note: data are in current year dollars<br>
@@ -468,8 +468,8 @@ government-run TeleCuracao operates a TV station and a radio station;&nbsp;2 oth
 <p>.cw</p><br>
 
 **Internet users**<br>
-_total_: 107,060 (2019 est.)<br>
-_percent of population_: 68% (2019 est.)<br>
+_total_: 111,956 (2021 est.)<br>
+_percent of population_: 68.1% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 55,000 (2020 est.)<br>

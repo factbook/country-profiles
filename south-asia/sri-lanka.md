@@ -191,7 +191,7 @@ _unimproved: total_: total: 2.4% of population (2020 est.)<br>
 (2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _vectorborne diseases_: dengue fever<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
@@ -276,7 +276,7 @@ _rate of urbanization_: 1.22% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _vectorborne diseases_: dengue fever<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
@@ -479,7 +479,7 @@ _female_: 35.6% (2021 est.)<br>
 4.1% (2016 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-39.8 (2016 est.)<br>
+39.3 (2016 est.)<br>
 
 **Average household expenditures**<br>
 _on food_: 28% of household expenditures (2018 est.)<br>
@@ -620,16 +620,16 @@ _Total energy consumption per capita 2019_: 17.268 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,607,868 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 12 (2020 est.)<br>
+_total subscriptions_: 2,869,186 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 30,778,600 (2019)<br>
-_subscriptions per 100 inhabitants_: 144 (2019)<br>
+_total subscriptions_: 30,764,134 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 141 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Sri Lanka&rsquo;s fixed-line telephony market was one of the very few in the world to experience a significant upsurge in subscriptions in 2020; while the country suffers from a relatively poor fixed-line infrastructure and a correspondingly strong mobile sector, demand for traditional phone services increased 14% in 2020; preliminary results suggest a further jump of up to 13% can also be expected in 2021; this will take Sri Lanka&rsquo;s fixed-line penetration to levels not seen since 2013; the most reason behind the market&rsquo;s reversal of fortunes is the Covid-19 crisis and Sri Lanka&rsquo;s ensuring lock downs; these forced much of the population back inside and reverting to &lsquo;traditional&rsquo; methods of communication for both voice and data services; the fixed broadband market was equally robust, growing 20% in 2020 alone; Sri Lanka possesses a relatively low number of computers per household so the fixed broadband market&rsquo;s success comes off a small base; the one area of the telecommunications market that experienced a fall was the mobile segment; up until the start of the pandemic, Sri Lanka had a very high mobile penetration rate of 155%; this near-saturation level reflected the preponderance for subscribers to carry multiple SIM cards to take advantage of cheaper on-net call rates; the reduction in demand and traffic because of the pandemic led to a sharp drop in the number of active subscriptions, down to just 135% &ndash; a 17% decline in just one year; the market is expected to bounce back quickly, as soon as the country eases back on its lock down measures and reduces travel restrictions; it will also be boosted, come 2022, by the anticipated launch of commercial 5G mobile services (2021)<br>
-_domestic_: fixed-line roughly 11 per 100 and mobile-cellular nearly 139 per 100; national trunk network consists of digital microwave radio relay and fiber-optic links; fixed wireless local loops have been installed; competition is strong in mobile cellular systems and mobile cellular subscribership is increasing (2020)<br>
+_domestic_: fixed-line is 13 per 100 and mobile-cellular is 141 per 100 (2021)<br>
 _international_: country code - 94; landing points for the SeaMeWe -3,-5,&nbsp;&nbsp;Dhiraagu-SLT Submarine Cable Network, WARF Submarine&nbsp;Cable, Bharat Lanka Cable System&nbsp;and the Bay of Bengal Gateway submarine cables providing connectivity to Asia, Africa, Southeast Asia, Australia, the Middle East, and Europe; satellite earth stations - 2 Intelsat (Indian Ocean) (2019)<br>
 
 **Broadcast media**<br>
@@ -701,15 +701,15 @@ _container port(s) (TEUs)_: Colombo (7,250,000) (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Sri Lanka Armed Forces: Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy (includes Marine Corps), Sri Lanka Air Force, Sri Lanka Coast Guard; Civil Security Department (Home Guard); Ministry of Public Security: Sri Lanka National Police (2022)<br>
+Sri Lanka Armed Forces: Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy (includes Marine Corps), Sri Lanka Air Force, Sri Lanka Coast Guard; Civil Security Department (Home Guard); Ministry of Public Security: Sri Lanka National Police (2023)<br>
 <strong>note:</strong> the Sri Lanka Police includes the Special Task Force, a paramilitary unit responsible for counterterrorism and counterinsurgency operations; it coordinates internal security operations with the military<br>
 
 **Military expenditures**<br>
 1.9% of GDP (2022 est.)<br>
 1.9% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
-2% of GDP (2019 est.) (approximately $5.9 billion)<br>
-1.9% of GDP (2018 est.) (approximately $5.6 billion)<br>
+2% of GDP (2019 est.)<br>
+1.9% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 260,000 total personnel (200,000 Army; 30,000 Navy; 30,000 Air Force); approximately 11,000 Special Task Force personnel (2023)<br>
@@ -725,7 +725,7 @@ the military's inventory consists mostly of Chinese and Russian-origin equipment
 110 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA) (May 2022)<br>
 
 **Military - note**<br>
-Sri Lanka traditionally has had close security ties to India; India participated in the counter-insurgency war against the Liberation Tigers of Tamil Eelam (LTTE) from 1987-1991, losing over 1,000 soldiers in the conflict; the Sri Lankan and Indian militaries continue to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; however, since the end of the war with LTTE, Sri Lanka has also increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training<br><br>since the end of the war with LTTE, the Sri Lankan military has increased its role in a range of commercial sectors including agriculture, hotels, leisure, and restaurants; this expansion has been particularly discernible in the majority Tamil-populated northern and eastern provinces where a large portion of the Army reportedly remained deployed as of 2021 (2022)<br>
+the military is responsible for external defense and may be called upon to handle specifically delineated domestic security responsibilities that generally do not include arrest authority; it has sent small numbers of personnel on UN peacekeeping missions; from 1983 to 2009, it fought against the Liberation Tigers of Tamil Eelam (LTTE), a conflict that involved both guerrilla and conventional warfare, as well as acts of terrorism and human rights abuses, and cost the military nearly 30,000 killed; since the end of the war, a large portion of the Army reportedly remains deployed in the majority Tamil-populated northern and eastern provinces; the military over the past decade also has increased its role in a range of commercial sectors including agriculture, hotels, leisure, and restaurants <br><br>the Army did not downsize following the LTTE war and continues to have about 20 infantry divisions, plus several independent brigades and regiments; however, in 2023 the Sri Lankan Government announced that because of the country’s financial crisis, it would slash the size of the Army 40% by 2024 with deeper cuts planned by 2030; the Navy has a frigate transferred from China in 2019 and several offshore patrol ships acquired from India and the US to patrol its territorial waters; it also has a large force of small in-shore patrol and fast attack boats, largely acquired to combat the LTTE; the Air Force is small and much of its inventory is aging; it has a handful of operational fighter aircraft and a few dozen attack and multi-role helicopters<br><br>Sri Lanka traditionally has had close security ties to India; India participated in the LTTE war in 1987-1991 and lost over 1,000 soldiers; the Sri Lankan and Indian militaries continue to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; in recent years, Sri Lanka has increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training (2023)<br>
 
 ## Terrorism
 

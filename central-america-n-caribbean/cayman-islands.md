@@ -419,7 +419,7 @@ $3.959 billion (2018 est.)<br>
 Netherlands 82%, Spain 11% (2019)<br>
 
 **Exports - commodities**<br>
-recreational boats, gold, broadcasting equipment, sulfates, collector's items (2019)<br>
+recreational boats, aircraft, ships, gold, refined petroleum, natural gas (2021)<br>
 
 **Imports**<br>
 $2.507 billion (2020 est.) note: data are in current year dollars<br>
@@ -528,8 +528,8 @@ _international_: country code - 1-345; landing points for the Maya-1, Deep Blue 
 .ky<br>
 
 **Internet users**<br>
-_total_: 53,233 (2020 est.)<br>
-_percent of population_: 81% (2020 est.)<br>
+_total_: 55,148 (2021 est.)<br>
+_percent of population_: 81.1% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,200 (2020 est.)<br>

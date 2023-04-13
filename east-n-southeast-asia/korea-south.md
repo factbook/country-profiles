@@ -192,10 +192,6 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Major infectious diseases**<br>
-_respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 9 December 2022, South Korea has reported a total of 27,611,555 cases of COVID-19 or 53,856 cumulative cases of COVID-19 per 100,000 population with a total of 30,975 cumulative deaths or a rate of 60.4 cumulative deaths per 100,000 population; as of 8 December 2022, 87.1% of the population has received at least one dose of COVID-19 vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 4.7% (2016)<br>
 
@@ -270,10 +266,6 @@ _rate of urbanization_: 0.31% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 9 December 2022, South Korea has reported a total of 27,611,555 cases of COVID-19 or 53,856 cumulative cases of COVID-19 per 100,000 population with a total of 30,975 cumulative deaths or a rate of 60.4 cumulative deaths per 100,000 population; as of 8 December 2022, 87.1% of the population has received at least one dose of COVID-19 vaccine<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 18,218,975 tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 10,567,006 tons (2014 est.)<br>
@@ -335,7 +327,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal; note - the voting age was lowered from 19 to 18 beginning with the 2020 national election<br>
 
 **Executive branch**<br>
-_chief of state_: President YOON Suk Yeol (since 10 May 2022); the president is both chief of state and head of government; Prime Minister HAN Deok-Soo (since 21 May 2022) serves as the principal executive assistant to the president, similar to the role of a vice president<br>
+_chief of state_: President YOON Suk Yeol (since 10 May 2022); the president is both chief of state and head of government; Prime Minister HAN Duck-soo (since 21 May 2022) serves as the principal executive assistant to the president, similar to the role of a vice president<br>
 _head of government_: President YOON Suk Yeol (since 10 May 2022)<br>
 _cabinet_: State Council appointed by the president on the prime minister's recommendation<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 March 2022 (next to be held March 2027); prime minister appointed by president with consent of National Assembly<br>
@@ -359,7 +351,7 @@ Basic Income Party [SHIN Ji-hye] <br>Democratic Party of Korea or DPK [LEE Jae-
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CICA, CP, EAS, EBRD, FAO, FATF, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSTAH, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SAARC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNMOGIP, UNOCI, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador CHO Tae-yong (since 11 June 2022)<br>
+_chief of mission_: vacant (April 2023)<br>
 _chancery_: 2450 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-5600<br>
 _FAX_: [1] (202) 797-0595<br>
@@ -629,8 +621,8 @@ multiple national TV networks with 2 of the 3 largest networks publicly operated
 .kr<br>
 
 **Internet users**<br>
-_total_: 50,281,152 (2020 est.)<br>
-_percent of population_: 97% (2020 est.)<br>
+_total_: 50.96 million (2021 est.)<br>
+_percent of population_: 98% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 22,327,182 (2020 est.)<br>
@@ -696,15 +688,15 @@ South Korea operates one PC 5 or 6 class light icebreaker<br>note - PC indicates
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Navy (ROKN, includes Marine Corps, ROKMC), Air Force (ROKAF); Ministry of Maritime Affairs and Fisheries: Korea Coast Guard (2022)<br>
+Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Navy (ROKN, includes Marine Corps, ROKMC), Air Force (ROKAF); Ministry of Maritime Affairs and Fisheries: Korea Coast Guard; Ministry of Interior and Safety: Korean National Police Agency (2023)<br>
 <strong>note 1: </strong>in January 2022, the South Korean military announced the formation of a space branch under its Joint Chiefs of Staff to coordinate the development of space and space-enabled capabilities across the Army, Navy and Air Force<br><br><strong>note 2:</strong> the military reserves include Mobilization Reserve Forces (First Combat Forces) and Homeland Defense Forces (Regional Combat Forces)<br>
 
 **Military expenditures**<br>
 2.6% of GDP (2022 est.)<br>
 2.6% of GDP (2021)<br>
 2.6% of GDP (2020)<br>
-2.7% of GDP (2019) (approximately $58.1 billion)<br>
-2.5% of GDP (2018) (approximately $55.8 billion)<br>
+2.7% of GDP (2019)<br>
+2.5% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 555,000 active duty personnel (420,000 Army; 70,000 Navy, including about 30,000 Marines; 65,000 Air Force) (2022)<br>
@@ -720,7 +712,7 @@ the South Korean military is equipped with a mix of domestically produced and im
 250 Lebanon (UNIFIL); 280 South Sudan (UNMISS); 170 United Arab Emirates; note - since 2009, South Korea has kept a naval flotilla with approximately 300 personnel in the waters off of the Horn of Africa and the Arabian Peninsula (2022)<br>
 
 **Military - note**<br>
-<p>the 1953 US-South Korea Mutual Defense Treaty is a cornerstone of South Korea’s security; the Treaty committed the US to provide assistance in the event of an attack, particularly from North Korea; in addition, the Treaty gave the US permission to station land, air, and sea forces in and about the territory of South Korea as determined by mutual agreement; as of 2022, the US maintained approximately 28,000 military personnel in the country</p> <p>the South Korean military has assisted the US in conflicts in Afghanistan (5,000 troops; 2001-2014), Iraq (20,000 troops; 2003-2008), and Vietnam (325,000 troops; 1964-1973)<br><br>South Korea has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br>in 2016, South Korea concluded an agreement with the EU for participation in EU Common Security and Defense Policy (CSDP) missions and operations, such as the EU Naval Force Somalia – Operation Atalanta, which protects maritime shipping and conducts counter-piracy operations off the coast of East Africa</p> <p>South Korea has been engaged with NATO through dialogue and security cooperation since 2005 and is considered by NATO to be a global partner; it has participated in NATO-led missions and exercises, including leading an integrated civilian-military reconstruction team in Afghanistan as part of the NATO-led International Security Assistance Force, 2010-2013; it has also cooperated with NATO in countering the threat of piracy in the Gulf of Aden by providing naval vessels as escorts</p> <p>in addition to the invasion of South Korea and the subsequent Korean War (1950-53), North Korea from the 1960s to the 1980s launched a considerable number of limited military and subversive actions against South Korea using special forces and terrorist tactics; including aggressive skirmishes along the DMZ, overt attempts to assassinate South Korean leaders, kidnappings, the bombing of an airliner, and a failed effort in 1968 to foment an insurrection and conduct a guerrilla war in the South with more than 100 seaborne commandos; from the 1990s until 2010, the North lost two submarines and a semi-submersible boat attempting to insert infiltrators into the South (1996, 1998) and provoked several engagements in the Northwest Islands area along the disputed Northern Limit Line (NLL), including naval skirmishes between patrol boats in 1999 and 2002, the torpedoing and sinking of a South Korean corvette, the <em>Cheonan</em>, in 2010, and the bombardment of a South Korean Marine Corps installation on Yeonpyeong Island, also in 2010; since 2010, further minor incidents continue to occur periodically along the DMZ, where both the North and the South Korean militaries maintain large numbers of troops<br><br>in 2018, North Korea and South Korea signed a tension reduction agreement known as the Comprehensive Military Agreement (CMA), which established land, sea, and air buffer zones along the DMZ and the NLL; implementation of the CMA required the removal of some land mines and guard posts; the efforts led to a reduction of tension in the DMZ, but as of 2022 North Korea had failed to uphold much of its side of the agreement</p><br>
+South Korea's primary defense partner is the US, and the 1953 US-South Korea Mutual Defense Treaty is a cornerstone of South Korea’s security; the Treaty committed the US to provide assistance in the event of an attack, particularly from North Korea; in addition, the Treaty gave the US permission to station land, air, and sea forces in and about the territory of South Korea as determined by mutual agreement; the US maintains approximately 28,000 military personnel in the country; South Korea has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the South Korean military has assisted the US in conflicts in Afghanistan (5,000 troops; 2001-2014), Iraq (20,000 troops; 2003-2008), and Vietnam (325,000 troops; 1964-1973)<br><br>in 2016, South Korea concluded an agreement with the EU for participation in EU Common Security and Defense Policy (CSDP) missions and operations, such as the EU Naval Force Somalia – Operation Atalanta, which protects maritime shipping and conducts counter-piracy operations off the coast of East Africa<br><br>South Korea has been engaged with NATO through dialogue and security cooperation since 2005 and is considered by NATO to be a global partner; it has participated in NATO-led missions and exercises, including leading an integrated civilian-military reconstruction team in Afghanistan as part of the NATO-led International Security Assistance Force, 2010-2013; it has also cooperated with NATO in countering the threat of piracy in the Gulf of Aden by providing naval vessels as escorts<br><br>in addition to the invasion of South Korea and the subsequent Korean War (1950-53), North Korea from the 1960s to the 1980s launched a considerable number of limited military and subversive actions against South Korea using special forces and terrorist tactics; including aggressive skirmishes along the DMZ, overt attempts to assassinate South Korean leaders, kidnappings, the bombing of an airliner, and a failed effort in 1968 to foment an insurrection and conduct a guerrilla war in the South with more than 100 seaborne commandos; from the 1990s until 2010, the North lost two submarines and a semi-submersible boat attempting to insert infiltrators into the South (1996, 1998) and provoked several engagements in the Northwest Islands area along the disputed Northern Limit Line (NLL), including naval skirmishes between patrol boats in 1999 and 2002, the torpedoing and sinking of a South Korean corvette, the <em>Cheonan</em>, in 2010, and the bombardment of a South Korean Marine Corps installation on Yeonpyeong Island, also in 2010; since 2010, further minor incidents continue to occur periodically along the DMZ, where both the North and the South Korean militaries maintain large numbers of troops<br><br>in 2018, North Korea and South Korea signed a tension reduction agreement known as the Comprehensive Military Agreement (CMA), which established land, sea, and air buffer zones along the DMZ and the NLL; implementation of the CMA required the removal of some land mines and guard posts; the efforts led to a reduction of tension in the DMZ, but North Korea has failed to uphold much of its side of the agreement (2023)<br>
 
 ## Transnational Issues
 

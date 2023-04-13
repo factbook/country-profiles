@@ -440,7 +440,7 @@ $2.335 billion (2019 est.)<br>
 Spain 40%, France 19%, United States 11%, Mauritania 5% (2019)<br>
 
 **Exports - commodities**<br>
-integrated circuits, medical supplies, essential oils, cars, tanned hides (2019)<br>
+integrated circuits, dental fitting supplies, cars, gold, essential oils (2021)<br>
 
 **Imports**<br>
 $1.727 billion (2020 est.)<br>
@@ -493,8 +493,8 @@ _international_: country code - 376; landline circuits to France and Spain; mode
 .ad<br>
 
 **Internet users**<br>
-_total_: 71,084 (2020 est.)<br>
-_percent of population_: 92% (2020 est.)<br>
+_total_: 74,260 (2021 est.)<br>
+_percent of population_: 94% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 37,000 (2020 est.)<br>

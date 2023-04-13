@@ -518,16 +518,16 @@ _Total energy consumption per capita 2019_: 160.669 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 12,971,900 (2019 est.)<br>
-_subscriptions per 100 inhabitants_: 55 (2019 est.)<br>
+_total subscriptions_: 13 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 53 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 29,291,500 (2019)<br>
-_subscriptions per 100 inhabitants_: 123.21 (2019)<br>
+_total subscriptions_: 30 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 120 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Taiwan has a highly developed telecoms sector in both the fixed-line and mobile segments; in part this is due to the country&rsquo;s early moves to liberalize the market, allowing vigorous competition to flourish; the government has also made concerted efforts to take advantage of Taiwan&rsquo;s strengths in the development of high-tech, export-oriented industries to encourage and enable the rapid adoption of advanced telecom platforms, while simultaneously leveraging the same telecoms infrastructure to push even further ahead with the country's industrial development plans; Taiwan has one of the highest teledensities in the region; while fixed-line subscriber numbers are trending downwards, the rate of decline has been slowed by the major fixed-line provider investing strongly in building out a widespread fiber network to allow customers to maintain a terrestrial voice connection as part of a fixed broadband package; fiber is the dominant platform in Taiwan&rsquo;s fixed broadband market; cable services have retained an unusually strong following thanks to the success of cable providers in delivering competitive cable TV and telephony services as a way to get around Chunghwa Telecom&rsquo;s control of the last mile for its copper and fiber networks; Taiwan also has high penetration rates in its mobile and mobile broadband segments, growth in both markets is almost at a standstill because the country reached 100% penetration very early on &ndash; way back when GSM was first introduced, in mobile&rsquo;s case; the MNOs moved quickly to roll out 4G and 5G networks and services in rapid succession, but subscriber numbers (and market share) has barely changed; the improved quality and performance available with the new platforms will drive increased usage and ARPU; fierce competition following the launch of 4G saw the opposite happen, with price wars causing telco revenues to fall instead; it is possible that the same problem can be avoided with 5G allowing Taiwan to reach the target of 50% of subscribers on 5G by mid-2023 (2022)<br>
-_domestic_: fixed-line over 53 per 100 and mobile-cellular roughly 123 per 100 (2020)<br>
+_domestic_: fixed-line over 53 per 100 and mobile-cellular roughly 120 per 100 (2021)<br>
 _international_: country code - 886; landing points for the EAC-C2C,&nbsp;APCN-2, FASTER, SJC2, TSE-1, TPE, APG, SeaMeWe-3, FLAG&nbsp;North Asia Loop/REACH North Asia Loop, HKA, NCP, and PLCN&nbsp;submarine fiber cables provide links throughout Asia, Australia, the Middle East, Europe, Africa and the US; satellite earth stations - 2 (2019)<br>
 
 **Broadcast media**<br>
@@ -598,14 +598,15 @@ _LNG terminal(s) (import)_: Yung An (Kaohsiung), Taichung<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force; Taiwan Coast Guard Administration (a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime); Ministry of Interior: National Police (2022)<br>
+Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force; Taiwan Coast Guard Administration; Ministry of Interior: National Police (2023)<br>
+<strong>note: </strong>the Coast Guard is a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2022 est.)<br>
 2.1% of GDP (2021)<br>
 2.1% of GDP (2020)<br>
-1.8% of GDP (2019) (approximately $23.6 billion)<br>
-1.7% of GDP (2018) (approximately $21.9 billion)<br>
+1.8% of GDP (2019)<br>
+1.7% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2022)<br>
@@ -619,7 +620,7 @@ starting with those born in 1994, men 18-36 years of age may volunteer or must c
 <strong>note 1: </strong>compulsory service is 5 weeks of basic training followed by 11 weeks of specialized training with field units; in 2022, the Taiwan announced that compulsory service would be extended from 4 to 12 months beginning in January 2024<strong><br><br>note 2:</strong> as of 2021, women made up about 15% of the active-duty military<br>
 
 **Military - note**<br>
-the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2022)<br>
+the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2023)<br>
 
 ## Transnational Issues
 

@@ -191,7 +191,7 @@ _unimproved: total_: total: 5.4% of population (2020 est.)<br>
 0.7% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _vectorborne diseases_: tickborne encephalitis<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -270,7 +270,7 @@ _rate of urbanization_: -0.68% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _vectorborne diseases_: tickborne encephalitis<br>
 
 **Waste and recycling**<br>
@@ -690,14 +690,14 @@ Latvia operates one PC 5 or 6 class icebreaker in the Baltic Sea<br>note - PC in
 ## Military and Security
 
 **Military and security forces**<br>
-National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszemes Speki), Naval Force (Latvijas Juras Speki, includes Coast Guard (Latvijas Kara Flote)), Air Force (Latvijas Gaisa Speki), National Guard (2022)<br>
+National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszemes Speki), Naval Force (Latvijas Juras Speki, includes Coast Guard (Latvijas Kara Flote)), Air Force (Latvijas Gaisa Speki), National Guard (2023)<br>
 
 **Military expenditures**<br>
 2.25% of GDP (2023 est.)<br>
 2.1% of GDP (2022 est.)<br>
 2.2% of GDP (2021)<br>
 2.2% of GDP (2020)<br>
-2% of GDP (2019) (approximately $920 million)<br>
+2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 7,500 active duty troops (6,500 Land Forces; 500 Naval Force/Coast Guard; 500 Air Force; note - some Land Forces are considered joint forces); 8,200 National Guard (2022)<br>
@@ -706,8 +706,8 @@ approximately 7,500 active duty troops (6,500 Land Forces; 500 Naval Force/Coast
 the Latvian military's inventory is limited and consists of a mixture of Soviet-era and more modern--mostly secondhand--European and US equipment (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary male and female military service; no conscription (abolished 2007) (2022)<br>
-<strong>note 1:</strong> in July 2022, the Latvian Government announced that it was reinstating mandatory military service for men aged 18-27 (women voluntarily) beginning in July 2023; service would be for one year in the Land Forces or alternatively in internal affairs, health, or welfare structures<br><br><strong>note 2:</strong> as of 2019, women comprised about 16% of the military's full-time personnel<br>
+18 years of age for voluntary male and female military service; no conscription (abolished 2007) (2023)<br>
+<strong>note 1:</strong> in 2023, the Latvian Parliament approved a plan to reinstate mandatory military service for men aged 18-27 (women voluntarily) beginning in 2024; service would be for 12 months in the Land Forces or alternatively in internal affairs, health, or welfare structures<br><br><strong>note 2:</strong> as of 2019, women comprised about 16% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 130 Kosovo (KFOR/NATO) (2022)<br>
@@ -721,7 +721,7 @@ Latvia became a member of NATO in 2004 <br><br>since 2017, Latvia has hosted a C
 <p><em>Latvia-Belarus</em>: Belarus and Latvia signed joint demarcation map in September 2008</p> <p><em>Latvia-Estonia</em>: demarcation reportedly completed in 1998</p> <p><em>Latvia-Lithuania</em>: boundary demarcation was completed by the end of 1998; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights</p> <p><em>Latvia-Russia</em>: Russia demands better Latvian treatment of ethnic Russians in Latvia; in March 2007, Latvia and Russia signed a border treaty, which includes Latvia withdrawing claims to a district now in Russia that was part of Latvia before WWII; the permanent demarcation of the boundary between Latvia and Russia was completed and came into force in April 2018; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 32,882 (Ukraine) (as of 27 March 2023)<br>
+_refugees (country of origin)_: 32,488 (Ukraine) (as of 3 April 2023)<br>
 _stateless persons_: 195,354 (2022); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
 
 **Illicit drugs**<br>

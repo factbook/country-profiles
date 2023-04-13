@@ -623,8 +623,8 @@ broadcast media dominated by the private sector; roughly 150 private TV channels
 .gr<br>
 
 **Internet users**<br>
-_total_: 8,346,434 (2020 est.)<br>
-_percent of population_: 78% (2020 est.)<br>
+_total_: 7.8 million (2021 est.)<br>
+_percent of population_: 78% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,257,026 (2020 est.)<br>
@@ -726,7 +726,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 20,955 (Ukraine) (as of 6 December 2022)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,236,772 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
+<strong>note:</strong> 1,237,058 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

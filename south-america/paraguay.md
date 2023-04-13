@@ -201,7 +201,7 @@ _unimproved: total_: total: 3.8% of population (2020 est.)<br>
 0.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever<br>
 
@@ -280,7 +280,7 @@ _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever<br>
 
@@ -706,9 +706,9 @@ Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy 
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
-1% of GDP (2019) (approximately $590 million)<br>
-1% of GDP (2018) (approximately $590 million)<br>
-0.9% of GDP (2017) (approximately $550 million)<br>
+1% of GDP (2019)<br>
+1% of GDP (2018)<br>
+0.9% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 15,000 active duty personnel (10,000 Army; 3,500 Navy; 1,500 Air Force) (2022)<br>

@@ -201,7 +201,7 @@ _unimproved: total_: total: 40% of population (2020 est.)<br>
 1.7% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -285,7 +285,7 @@ _rate of urbanization_: 3.75% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -303,9 +303,9 @@ Gambia river mouth (shared with Senegal and Guinea [s]) - 1,094 km<br><strong>no
 Senegalo-Mauritanian Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 41.2 million cubic meters (2017 est.)<br>
-_industrial_: 21.2 million cubic meters (2017 est.)<br>
-_agricultural_: 39.2 million cubic meters (2017 est.)<br>
+_municipal_: 40 million cubic meters (2020 est.)<br>
+_industrial_: 20 million cubic meters (2020 est.)<br>
+_agricultural_: 40 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 8 billion cubic meters (2019 est.)<br>
@@ -639,8 +639,8 @@ _international_: country code - 220; landing point for the ACE submarine cable t
 .gm<br>
 
 **Internet users**<br>
-_total_: 894,166 (2020 est.)<br>
-_percent of population_: 37% (2020 est.)<br>
+_total_: 858,000 (2021 est.)<br>
+_percent of population_: 33% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 5,000 (2020 est.)<br>

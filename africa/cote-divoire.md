@@ -198,9 +198,9 @@ _unimproved: total_: total: 42.9% of population (2020 est.)<br>
 1.9% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
+_vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
@@ -287,9 +287,9 @@ _rate of urbanization_: 3.38% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
+_vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
@@ -307,9 +307,9 @@ _salt water lake(s)_: Lagune Aby - 780 sq km<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 340 million cubic meters (2019 est.)<br>
-_industrial_: 240 million cubic meters (2019 est.)<br>
-_agricultural_: 600 million cubic meters (2019 est.)<br>
+_municipal_: 320 million cubic meters (2020 est.)<br>
+_industrial_: 240 million cubic meters (2020 est.)<br>
+_agricultural_: 600 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 84.1 billion cubic meters (2019 est.)<br>
@@ -541,7 +541,7 @@ $13.084 billion (2018 est.)<br>
 Netherlands 10%, United States 6%, France 6%, Spain 5%, Malaysia 5%, Switzerland 5%, Germany 5%, Vietnam 5% (2019)<br>
 
 **Exports - commodities**<br>
-cocoa beans, gold, rubber, refined petroleum, crude petroleum (2019)<br>
+cocoa products, rubber, gold, cashews, crude petroleum, bananas (2021)<br>
 
 **Imports**<br>
 $12.66 billion (2020 est.) note: data are in current year dollars<br>
@@ -655,8 +655,8 @@ state-controlled Radiodiffusion Television Ivoirieinne (RTI) is made up of 2 rad
 .ci<br>
 
 **Internet users**<br>
-_total_: 9,496,179 (2020 est.)<br>
-_percent of population_: 36% (2020 est.)<br>
+_total_: 12.15 million (2021 est.)<br>
+_percent of population_: 45% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 260,097 (2020 est.)<br>

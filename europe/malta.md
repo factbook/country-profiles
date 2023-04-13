@@ -664,9 +664,9 @@ the Armed Forces of Malta (AFM) is a joint force with land, maritime, and air el
 **Military expenditures**<br>
 0.5% of GDP (2021 est.)<br>
 0.6% of GDP (2020)<br>
-0.5% of GDP (2019) (approximately $110 million)<br>
-0.5% of GDP (2018) (approximately $110 million)<br>
-0.5% of GDP (2017) (approximately $110 million)<br>
+0.5% of GDP (2019)<br>
+0.5% of GDP (2018)<br>
+0.5% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 active duty personnel (2021)<br>

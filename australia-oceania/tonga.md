@@ -185,11 +185,6 @@ _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
-
 **Obesity - adult prevalence rate**<br>
 48.2% (2016)<br>
 
@@ -269,11 +264,6 @@ _rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
-
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 17,238 tons (2012 est.)<br>
@@ -586,16 +576,16 @@ _Total energy consumption per capita 2019_: 22.841 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 7 (2020 est.)<br>
+_total subscriptions_: 11,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 62,104 (2019)<br>
-_subscriptions per 100 inhabitants_: 59.43 (2019)<br>
+_total subscriptions_: 64,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 61 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: high speed Internet provided by 3 Mobile Network Operators, has subsequently allowed for better health care services, faster connections for education and growing e-commerce services; in 2018 new 4G LTE network; fixed-line teledensity has dropped given mobile subscriptions; mobile technology dominates given the island's geography; satellite technology is widespread and is important especially in areas away from the city; the launch in 2019 of the Kacific-1 broadband satellite has made broadband more widely available for around 89 remote communities (2020)<br>
-_domestic_: fixed-line 7 per 100 persons and mobile-cellular teledensity 59 telephones per 100; fully automatic switched network (2020)<br>
+_general assessment_: Tonga was only connected to the global submarine telecommunication network in the last decade;&nbsp; this system is more stable than other technologies such as satellite and fixed infrastructure (2022)<br>
+_domestic_: fixed-line 10 per 100 persons and mobile-cellular teledensity 61 telephones per 100 (2021)<br>
 _international_: country code - 676; landing point for the Tonga Cable and the TDCE connecting to Fiji and 3 separate Tonga islands; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)<br>
 
 **Broadcast media**<br>
@@ -649,14 +639,14 @@ _major seaport(s)_: Nuku'alofa, Neiafu, Pangai<br>
 ## Military and Security
 
 **Military and security forces**<br>
-His Majesty's Armed Forces Tonga (aka Tonga Defense Services): Joint Force headquarters, Tonga Royal Guard, Land Force (Royal Tongan Marines), Tonga Navy, Training Wing, Air Wing, and Support Unit (2022)<br>
+His Majesty's Armed Forces Tonga (aka Tonga Defense Services): Joint Force headquarters, Tonga Royal Guard, Land Force (Royal Tongan Marines), Tonga Navy, Training Wing, Air Wing, and Support Unit; Ministry of Police and Fire Services: Tonga Police Force (2023)<br>
 
 **Military expenditures**<br>
-2.1% of GDP (2020 est.) (approximately $10 million)<br>
-2.4% of GDP (2019 est.) (approximately $12 million)<br>
-1.5% of GDP (2018 est.) (approximately $7.1 million)<br>
-2.1% of GDP (2017 est.) (approximately $10 million)<br>
-1.7% of GDP (2016 est.) (approximately $7.6 million)<br>
+2.1% of GDP (2020 est.)<br>
+2.4% of GDP (2019 est.)<br>
+1.5% of GDP (2018 est.)<br>
+2.1% of GDP (2017 est.)<br>
+1.7% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 650 personnel (2022)<br>
@@ -668,10 +658,14 @@ the Tonga military's inventory includes mostly light weapons and equipment from 
 voluntary military service for men and women 18-25 (16 with parental approval for non-combat positions); no conscription (2022)<br>
 
 **Military - note**<br>
-Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty’s Armed Forces of Tonga (HMAF); Tongan troops deployed to Iraq from 2004-2008 and Afghanistan to support UK forces from 2010-2014<br><br>Tonga has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tonga's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2022)<br>
+Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty’s Armed Forces of Tonga (HMAF); Tongan troops deployed to Iraq from 2004-2008 and Afghanistan to support UK forces from 2010-2014<br><br>Tonga has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tonga's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
 
 ## Transnational Issues
 
 **Disputes - international**<br>
 <p><em>Tonga-Fiji</em>: Fiji does not recognize Tonga’s 1972 claim to the Minerva Reefs and their surrounding waters; the Minerva Reefs’ 200-mile exclusive economic zone includes valuable fishing grounds</p> <p> </p><br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List &mdash; Tonga does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; these efforts included providing funding to an NGO to assist trafficking victims; however, the government did not demonstrate overall increasing efforts compared to the previous year to expand its anti-trafficking capacity; officials did not identify any victims, develop procedures to do so, or investigate any cases of trafficking; therefore, Tonga remained on Tier 2 Watch List for the second consecutive year (2022)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Tonga, as well as Tongans abroad; East Asian women, especially from China, are recruited for legitimate work but charged excessive recruitment fees and are vulnerable to sex trafficking; some Tongan women and children are vulnerable to forced labor in domestic work, and children are vulnerable to sex trafficking; Fijians working in Tonga&rsquo;s domestic service industry may experience mistreatment indicative of trafficking; Chinese nationals working in construction on government infrastructure projects in Tonga are vulnerable to trafficking; Tongan adults working overseas, including in Australia and New Zealand, are vulnerable to labor trafficking (2022)<br>
 

@@ -390,7 +390,7 @@ $23 million (2015 est.)<br>
 Malta 30%, Seychelles 29%, Switzerland 14% (2019)<br>
 
 **Exports - commodities**<br>
-recreational boats, aircraft, diamonds, paintings, precious stones (2019)<br>
+aircraft, recreational boats, ships, hydrogen, halogens (2021)<br>
 
 **Imports**<br>
 $300 million (2017 est.) NA<br>
@@ -491,8 +491,8 @@ _international_: country code - 1-284; landing points for PCCS, ECFS, CBUS, Deep
 .vg<br>
 
 **Internet users**<br>
-_total_: 23,585 (2020 est.)<br>
-_percent of population_: 78% (2020 est.)<br>
+_total_: 24,087 (2021 est.)<br>
+_percent of population_: 77.7% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 6,738 (2020 est.)<br>

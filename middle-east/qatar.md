@@ -666,14 +666,14 @@ _LNG terminal(s) (export)_: Ras Laffan<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Qatar Armed Forces: Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, includes Coast Guard), Qatari Amiri Air Force (QAAF); Internal Security Forces: Mobile Gendarmerie (2022)<br>
+Qatar Armed Forces (QAF): Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, includes Coast Guard), Qatari Amiri Air Force (QAAF); Ministry of Interior: General Directorate of Public Security, General Directorate of Coasts and Border Security, Internal Security Forces (includes Mobile Gendarmerie) (2023)<br>
 
 **Military expenditures**<br>
 4% of GDP (2021 est.)<br>
 4% of GDP (2020 est.)<br>
-3.4% of GDP (2019 est.) (approximately $8.44 billion)<br>
-3.3% of GDP (2018 est.) (approximately $8.23 billion)<br>
-3.4% of GDP (2017 est.) (approximately $8.22 billion)<br>
+3.4% of GDP (2019 est.)<br>
+3.3% of GDP (2018 est.)<br>
+3.4% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 15,000 active-duty personnel (10,000 Land Force, including Emiri Guard; 3,000 Navy; 2,000 Air Force) (2022)<br>

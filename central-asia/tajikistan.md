@@ -198,9 +198,8 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 0.2% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria<br>
 
 **Obesity - adult prevalence rate**<br>
 14.2% (2016)<br>
@@ -277,9 +276,8 @@ _rate of urbanization_: 2.73% annual rate of change (2020-25 est.)<br>
 0.54% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,787,400 tons (2013 est.)<br>
@@ -615,16 +613,16 @@ _Total energy consumption per capita 2019_: 27.651 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 502,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
+_total subscriptions_: 500,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 9.904 million (2019)<br>
-_subscriptions per 100 inhabitants_: 111.53 (2019)<br>
+_total subscriptions_: 12 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 120 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the nation of Tajikistan has had to struggle through a further two years of economic hardship following the onset of the Covid-19 pandemic; the strain on financial resources inevitably means a continuation of the absence of any meaningful investment or development programs for telecommunications infrastructure; the fixed line telephony and fixed broadband markets continue to languish far behind the mobile sector in terms of teledensity and penetration; with only around 6,000 fixed broadband customers (0.07% penetration), there would appear to be massive growth potential, but the limited fixed line infrastructure in the country suggests there&rsquo;s little likelihood of that occurring any time soon; the size of Tajikistan&rsquo;s mobile market dwarfs the fixed line segment, with an estimated penetration rate of nearly 120%; with a number of private sector companies active in the mobile market, there been more commitment to investment in network upgrades and expansion; three MNOs have all launched commercial 5G services, initially in areas of the capital city Dushanbe; the move towards higher speed mobile services should further underpin the growth in the nascent mobile broadband market, which is still estimated to be at a relatively low penetration level of 42% (at least relative to most other Asian nations) but is predicted to be a strong compound annual growth rate of more than 8% for at least the next five years (2021)<br>
-_domestic_: fixed line availability has not changed significantly since 1998, while mobile cellular subscribership, aided by competition among multiple operators, has expanded; coverage now extends to all major cities and towns; fixed-line over 5 per 100 and mobile-cellular over 121 per 100 (2020)<br>
+_domestic_: fixed-line over 5 per 100 and mobile-cellular over 120 per 100 (2021)<br>
 _international_: country code - 992; linked by cable and microwave radio relay to other CIS republics and by leased connections to the Moscow international gateway switch; Dushanbe linked by Intelsat to international gateway switch in Ankara (Turkey); 3 satellite earth stations - 2 Intelsat and 1 Orbita<br>
 
 **Broadcast media**<br>
@@ -685,14 +683,14 @@ _total_: 30,000 km (2018)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and Air Defense Forces; National Guard; Ministry of Internal Affairs: Internal Troops (reserves for Armed Forces in wartime); State Committee on National Security: Border Guard Forces (2022)<br>
+Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and Air Defense Forces; National Guard; Ministry of Internal Affairs: Internal Troops (reserves for Armed Forces in wartime), police; State Committee on National Security: Border Guard Forces (2023)<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
-2.1% of GDP (2019 est.) (approximately $360 million)<br>
-2.1% of GDP (2018 est.) (approximately $350 million)<br>
-2.2% of GDP (2017 est.) (approximately $330 million)<br>
+2.1% of GDP (2019 est.)<br>
+2.1% of GDP (2018 est.)<br>
+2.2% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 9,500 active duty troops (8,000 Land and Mobile Forces; 1,500 Air and Air Defense Forces) (2022)<br>
@@ -704,7 +702,7 @@ the military's inventory is comprised of older Russian and Soviet-era equipment;
 18-27 years of age for compulsory or voluntary military service for men; women may volunteer; 24-month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay a fee in order to avoid conscription (2023)<br>
 
 **Military - note**<br>
-Tajikistan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force (2023)<br>
+Tajikistan is the only former Soviet republic that did not form its armed forces from old Soviet Army units following the collapse of the USSR in 1991; rather, Russia retained command of the Soviet units there while the Tajik government raised a military from scratch; the first ground forces were officially created in 1993 from groups that fought for the government during the Tajik Civil War<br><br>the military is a small and limited force equipped largely with Soviet-era weapons; its primary concerns are terrorism, border security, territorial defense, and instability in neighboring countries; following the 2021 Taliban takeover in Afghanistan, Tajikistan deployed thousands of troops to the Afghan border and conducted exercises focused on border-related scenarios; since 2012, Tajikistan has had more than 100 border-related clashes with Kyrgyzstan, triggered mostly by disputes over water, roads, or land along a poorly-defined frontier; the most recent in September 2022 saw the use of armored vehicles and artillery and resulted in about 100 killed; the Tajik Land and Mobile Forces have together an estimated 5 combat brigades of mechanized infantry, light/mountain infantry, air assault and special forces, and artillery; the Air and Air Defense force has a small number attack and multipurpose helicopters<br><br>Russia is Tajikistan’s primary security partner; approximately 5-7,000 Russian soldiers are stationed in the country, primarily at the 201st military base, which is leased until at least 2042; the Russian forces include combat troops and combat aircraft; Russia and Tajikistan have a joint air defense system and they conduct periodic joint exercises; Tajikistan has been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force (2023)<br>
 
 ## Terrorism
 

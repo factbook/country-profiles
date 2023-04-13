@@ -199,7 +199,7 @@ _unimproved: total_: total: 21.3% of population (2020 est.)<br>
 3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -271,7 +271,7 @@ _rate of urbanization_: 2.27% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -287,9 +287,9 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
 Congo Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 84.7 million cubic meters (2017 est.)<br>
-_industrial_: 14.1 million cubic meters (2017 est.)<br>
-_agricultural_: 40.3 million cubic meters (2017 est.)<br>
+_municipal_: 80 million cubic meters (2020 est.)<br>
+_industrial_: 10 million cubic meters (2020 est.)<br>
+_agricultural_: 40 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 166 billion cubic meters (2019 est.)<br>
@@ -630,8 +630,8 @@ state owns and operates 2 TV stations and 2 radio broadcast stations; a few priv
 .ga<br>
 
 **Internet users**<br>
-_total_: 1,379,951 (2020 est.)<br>
-_percent of population_: 62% (2020 est.)<br>
+_total_: 1.656 million (2021 est.)<br>
+_percent of population_: 72% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 44,607 (2020 est.)<br>

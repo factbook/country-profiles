@@ -191,7 +191,7 @@ _unimproved: total_: total: 46.6% of population (2020 est.)<br>
 0.5% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -277,7 +277,7 @@ _rate of urbanization_: 2.96% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -654,7 +654,7 @@ _major seaport(s)_: Sao Tome<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Sao Tome and Principe (Forcas Armadas de Sao Tome e Principe, FASTP): Army, Coast Guard of Sao Tome e Principe (Guarda Costeira de Sao Tome e Principe, GCSTP), Presidential Guard, National Guard (2022)<br>
+Armed Forces of Sao Tome and Principe (Forcas Armadas de Sao Tome e Principe, FASTP): Army, Coast Guard of Sao Tome e Principe (Guarda Costeira de Sao Tome e Principe, GCSTP), Presidential Guard, National Guard (2023)<br>
 <strong>note:</strong> the Army and Coast Guard are responsible for external security while the public security police and judicial police maintain internal security; both the public security police and the military report to the Ministry of Defense and Internal Affairs; the judicial police report to the Ministry of Justice, Public Administration, and Human Rights<br>
 
 **Military expenditures**<br>

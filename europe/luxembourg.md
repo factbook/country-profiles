@@ -677,8 +677,8 @@ Luxembourg Army (l'Arm&eacute;e Luxembourgeoise) (2022)<br>
 0.6% of GDP (2022 est.)<br>
 0.5% of GDP (2021)<br>
 0.6% of GDP (2020)<br>
-0.5% of GDP (2019) (approximately $420 million)<br>
-0.5% of GDP (2018) (approximately $380 million)<br>
+0.5% of GDP (2019)<br>
+0.5% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 900 active personnel (2022)<br>

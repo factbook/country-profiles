@@ -193,7 +193,7 @@ _unimproved: total_: total: 76.5% of population (2020 est.)<br>
 0.9% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
@@ -276,7 +276,7 @@ _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
@@ -691,7 +691,7 @@ _LNG terminal(s) (export)_: Port Moresby<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Papua New Guinea Defense Force (PNGDF; includes land, maritime, and air elements); Ministry of Police: Royal Papua New Guinea Constabulary (2022)<br>
+Papua New Guinea Defense Force (PNGDF; includes land, maritime, and air elements); Ministry of Police: Royal Papua New Guinea Constabulary and Correctional Services (2022)<br>
 
 **Military expenditures**<br>
 0.4% of GDP (2021 est.)<br>
@@ -710,7 +710,7 @@ the PNGDF is lightly armed; most of its military assistance has come from Austra
 18-27 for a general enlistee or 18-30 for an officer cadet; no conscription (2022)<br>
 
 **Military - note**<br>
-as of 2022, Australia and the US were assisting Papua New Guinea with expanding and improving the Defense Force naval base at Lombrum on Manus Island; the US first established a Lombrum base in 1944 during World War II<br><br>the PNGDF was established in 1973; its infantry regiment and primary unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until Papua New Guinea gained its independence in 1975, when it became part of the PNGDF (2022)<br>
+as of 2022, Australia and the US were assisting Papua New Guinea with expanding and improving the Defense Force naval base at Lombrum on Manus Island; the US first established a Lombrum base in 1944 during World War II<br><br>the PNGDF was established in 1973; its infantry regiment and primary unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until Papua New Guinea gained its independence in 1975, when it became part of the PNGDF (2023)<br>
 
 ## Transnational Issues
 

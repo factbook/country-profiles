@@ -205,7 +205,7 @@ _unimproved: total_: total: 49.6% of population (2020 est.)<br>
 4.5% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria, dengue fever, and Rift Valley fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -292,7 +292,7 @@ _rate of urbanization_: 4.89% annual rate of change (2020-25 est.)<br>
 0.02% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria, dengue fever, and Rift Valley fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -644,15 +644,16 @@ _Total energy consumption per capita 2019_: 3.334 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 72,469 (2020 est.)<br>
+_total subscriptions_: 72,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 47,685,200 (2019)<br>
-_subscriptions per 100 inhabitants_: 82.21 (2019)<br>
+_total subscriptions_: 54 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 85 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Tanzania&rsquo;s telecom sector enjoys effective competition, particularly in the mobile segment; the government has encouraged foreign participation to promote economic growth and social development, and policy reforms have led to the country having one of the most liberal telecom sectors in Africa; the government has sought to increase broadband penetration by a range of measures, including the reduction in VAT charged on the sale of smartphones and other devices, and reductions in the cost of data; the MNOs became the leading ISPs following the launch of mobile broadband services based on 3G and LTE technologies; operators are hoping for revenue growth in the mobile data services market, given that the voice market is almost entirely prepaid; the MNOs have invested in network upgrades, which in turn has supported m-mobile data use, as well as m-money transfer services and banking services. Together, these have become a fast-developing source of revenue; the landing of the first international submarine cables in the country some years ago revolutionized the telecom market, which up to that point had entirely depended on expensive satellite connections; the government aims to complete a national fiber backbone network, having signed an agreement; in late 2021, the government announced plans to extend the national backbone network from about 8,300km to 15,000km by 2023, and to provide ongoing connectivity to more countries in the region (2022)<br>
-_domestic_: fixed-line telephone network inadequate with less than 1 connection per 100 persons; mobile-cellular service, aided by multiple providers, is increasing rapidly and exceeds 86 telephones per 100 persons; trunk service provided by open-wire, microwave radio relay, tropospheric scatter, and fiber-optic cable; some links being made digital (2020)<br>
+_domestic_: fixed-line telephone network less than 1 connection per 100 persons; mobile-cellular service is 85 telephones per 100 persons (2021)<br>
 _international_: country code - 255; landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEAS&nbsp;fiber-optic submarine cable system linking East Africa with the Middle East; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
@@ -724,15 +725,15 @@ _major seaport(s)_: Dar es Salaam, Zanzibar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): Land Forces, Naval Forces, Air Force, National Building Army (Jeshi la Kujenga Taifa, JKT), People's Militia (Reserves); Ministry of Home Affairs: Tanzania Police Force (2022)<br>
-<strong>note 1:</strong> the National Building Army is a paramilitary organization under the Defense Forces that provides 6 months of military and vocational training to individuals as part of their 2 years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br><br><strong>note 2:</strong> the Tanzania Police Force includes the Police Field Force (aka Field Force Unit), a special police division with the responsibility for controlling unlawful demonstrations and riots<br>
+Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): Land Forces, Naval Forces, Air Force, National Building Army (Jeshi la Kujenga Taifa, JKT), People's Militia (Reserves); Ministry of Home Affairs: Tanzania Police Force (2023)<br>
+<strong>note 1:</strong> the National Building Army (aka National Services) is a paramilitary organization under the Defense Forces that provides 6 months of military and vocational training to individuals as part of their 2 years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br><br><strong>note 2:</strong> the Tanzania Police Force includes the Police Field Force (aka Field Force Unit), a special police division with the responsibility for controlling unlawful demonstrations and riots<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
-1.1% of GDP (2019 est.) (approximately $810 million)<br>
-1.2% of GDP (2018 est.) (approximately $800 million)<br>
-1% of GDP (2017 est.) (approximately $690 million)<br>
+1.1% of GDP (2019 est.)<br>
+1.2% of GDP (2018 est.)<br>
+1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active duty personnel (21,000 Land Forces; 1,000 Naval Forces; 3,000 Air Force) (2022)<br>

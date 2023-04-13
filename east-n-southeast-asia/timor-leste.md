@@ -190,7 +190,7 @@ _unimproved: total_: total: 33.7% of population (2020 est.)<br>
 0.2% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
@@ -273,7 +273,7 @@ _rate of urbanization_: 3.31% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
@@ -600,16 +600,16 @@ _Total energy consumption per capita 2019_: 5.74 million Btu/person (2019 est.)<
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,012 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 1,900 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,425,260 (2019)<br>
-_subscriptions per 100 inhabitants_: 110.22 (2019)<br>
+_total subscriptions_: 1.4 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Timor-Leste has been moving forward with the regeneration of its economy and rebuilding key infrastructure, including telecommunications networks, that were destroyed during the years of civil unrest; fixed-line and fixed broadband penetration in Timor-Leste remains extremely low, mainly due to the limited fixed-line infrastructure and the proliferation of mobile connectivity; in an effort to boost e-government services; the number of subscribers through to 2026 is expected to develop steadily, though from a low base; by August 2020, Timor-Leste had three telecom service providers who jointly achieved a 98% network coverage nationally; the mobile broadband market is still at an early stage of development, strong growth is predicted over the next five years; at the end of 2020, the government issued new policy guidelines to maximize the use of spectrum in Timor-Leste; it invited mobile operators to submit applications for the allocation of spectrum in the 1800MHz, 2300MHz and 2600MHz bands; in November 2020, the government approved the deployment of a submarine fiber link connecting the south of the country to Australia via the North Western Cable System (NWCS) (2021)<br>
-_domestic_: system suffered significant damage during the violence associated with independence; limited fixed-line services, less than 1 per 100 and mobile-cellular services are now available in urban and most rural areas with teledensity of over 104 per 100 (2020)<br>
+_domestic_: fixed-line services less than 1 per 100 and mobile-cellular services is 100 per 100 (2021)<br>
 _international_: country code - 670; &nbsp;international service is available; partnership with Australia telecom companies for potential deployment of a submarine fiber-optic link (NWCS);&nbsp;geostationary earth orbit satellite<br>
 
 **Broadcast media**<br>
@@ -666,14 +666,14 @@ _major seaport(s)_: Dili<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Joint Headquarters with Land, Air, Naval, Service Support, and Education/Training components; Ministry of Interior: National Police (Pol&iacute;cia Nacional de Timor-Leste, PNTL) (2022)<br>
+Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Joint Headquarters with Land, Air, Naval, Service Support, and Education/Training components; Ministry of Interior: National Police (Pol&iacute;cia Nacional de Timor-Leste, PNTL) (2023)<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
-1.7% of GDP (2019 est.) (approximately $45 million)<br>
-1.3% of GDP (2018 est.) (approximately $30 million)<br>
-1.6% of GDP (2017 est.) (approximately $35 million)<br>
+1.7% of GDP (2019 est.)<br>
+1.3% of GDP (2018 est.)<br>
+1.6% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 personnel (2022)<br>

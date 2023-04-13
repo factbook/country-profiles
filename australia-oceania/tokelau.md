@@ -159,11 +159,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -197,11 +192,6 @@ _other_: 40% (2018 est.)<br>
 **Urbanization**<br>
 _urban population_: 0% of total population (2023)<br>
 _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
-
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
 
 **Total renewable water resources**<br>
 0 cubic meters (2017 est.)<br>
@@ -369,9 +359,13 @@ _Currency_: New Zealand dollars (NZD) per US dollar -<br>
 
 ## Communications
 
+**Telephones - fixed lines**<br>
+_total subscriptions_: 300 (2010 est.)<br>
+_subscriptions per 100 inhabitants_: 22 (2010 est.)<br>
+
 **Telecommunication systems**<br>
-_general assessment_: modern satellite-based communications system; demand for mobile broadband increasing due to mobile services being the method of access for Internet across the region; 2G widespread with some 4G LTE service; satellite services has improved with the launch of the Kacific-1 satellite launched in 2019 (2020)<br>
-_domestic_: radiotelephone service between islands; fixed-line teledensity is 0 per 100 persons (2019)<br>
+_general assessment_: a new submarine cable between New Zealand and Tokelau will provide high speed, reliable internet to Tokelau for the first time; due for completion in 2022, this will provide Tokelau with affordable, high quality internet and telecommunications, and better, more effective access to digital services and platforms (2021)<br>
+_domestic_: fixed-line teledensity is 0 per 100 persons (2019)<br>
 _international_: country code - 690; landing point for the Southern Cross NEXT submarine cable linking Australia, Tokelau, Samoa, Kiribati, Fiji, New Zealand and Los Angeles, CA (USA); radiotelephone service to Samoa; government-regulated telephone service (TeleTok); satellite earth stations - 3 (2020)<br>
 
 **Broadcast media**<br>

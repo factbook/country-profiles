@@ -186,7 +186,7 @@ _unimproved: total_: total: 23.8% of population (2020 est.)<br>
 6.9% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _animal contact diseases_: rabies<br>
@@ -258,7 +258,7 @@ _rate of urbanization_: 3.62% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _animal contact diseases_: rabies<br>
@@ -593,8 +593,8 @@ the state maintains control of broadcast media with domestic broadcast media lim
 .gq<br>
 
 **Internet users**<br>
-_total_: 352,555 (2019 est.)<br>
-_percent of population_: 26% (2019 est.)<br>
+_total_: 864,000 (2021 est.)<br>
+_percent of population_: 54% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2020 est.)<br>

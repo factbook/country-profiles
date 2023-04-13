@@ -478,7 +478,7 @@ _female_: 8.8% (2021 est.)<br>
 16% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-32.7 (2017 est.)<br>
+33.1 (2018 est.)<br>
 
 **Average household expenditures**<br>
 _on food_: 9.2% of household expenditures (2018 est.)<br>
@@ -622,16 +622,16 @@ _Total energy consumption per capita 2019_: 137.918 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,071,296 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
+_total subscriptions_: 2,956,500 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 34 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10.829 million (2019)<br>
-_subscriptions per 100 inhabitants_: 126.05 (2019)<br>
+_total subscriptions_: 11,060,700 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 127 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Switzerland has one of the highest broadband penetration rates within Europe, with a focus on services of at least 1Gb/s; this has been supported by sympathetic regulatory measures as well as by cooperative agreements between the main telcos, and with local utilities; fast fiber is complemented by 5G services reaching about 97% of the population by early 2021; together, these networks will soon enable the telcos to provide ultra-fast broadband services nationally, ahead of most other countries in the region; the competitive mobile market is served by three network operators and a small number of MVNOs; 5G services offered by the MNOs offer data rates of up to 2Gb/s, and although various cantons have called a halt to extensions of 5G, citing health concerns, the regulator and environment ministry have put in place measures aimed at ensuring that network roll outs can continue without disruption; with the migration of subscribers to LTE and 5G networks, the MNOs have been able to begin closing down their GSM networks and repurpose physical assets and spectrum; although not a member of the EU, the country&rsquo;s economic integration has meant that its telecom market deregulation has followed the EU&rsquo;s liberalization framework, including the recent regulations on international voice roaming; this report presents an analysis of Switzerland&rsquo;s fixed-line telecom market, including an assessment of network infrastructure (2021)<br>
-_domestic_: fixed-line over 34 per 100 and mobile-cellular subscribership roughly 126 per 100 persons: extensive cable and microwave radio relay networks (2020)<br>
+_domestic_: fixed-line is 34 per 100 and mobile-cellular subscribership is 127 per 100 persons (2021)<br>
 _international_: country code - 41; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean)<br>
 
 **Broadcast media**<br>
@@ -705,9 +705,9 @@ Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2022)<br
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>
 0.8% of GDP (2020)<br>
-0.7% of GDP (2019) (approximately $5.26 billion)<br>
-0.7% of GDP (2018) (approximately $4.72 billion)<br>
-0.7% of GDP (2017) (approximately $4.67 billion)<br>
+0.7% of GDP (2019)<br>
+0.7% of GDP (2018)<br>
+0.7% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Swiss Armed Forces maintain a full-time professional cadre of about 4,000 personnel along with approximately 18-20,000 conscripts brought in annually for 18-23 weeks of training; approximately 120,000 reserve forces (2022)<br>
@@ -737,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 83,428 (Ukraine) (as of 24 March 2023)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,818 (Ukraine) (as of 31 March 2023)<br>
 _stateless persons_: 891 (2022)<br>
 
 **Illicit drugs**<br>

@@ -190,7 +190,7 @@ _unimproved: total_: total: (2020 est.) NA<br>
 0.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever<br>
 _water contact diseases_: leptospirosis<br>
@@ -271,7 +271,7 @@ _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 0.02% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever<br>
 _water contact diseases_: leptospirosis<br>
@@ -707,8 +707,8 @@ Malaysian Armed Forces (Angkatan Tentera Malaysia, ATM): Malaysian Army (Tentera
 1% of GDP (2022 est.)<br>
 1% of GDP (2021)<br>
 1.1% of GDP (2020)<br>
-1% of GDP (2019) (approximately $7.84 billion)<br>
-1% of GDP (2018) (approximately $7.63 billion)<br>
+1% of GDP (2019)<br>
+1% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 115,000 active duty troops (80,000 Army; 18,000 Navy; 17,000 Air Force) (2022)<br>

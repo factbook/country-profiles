@@ -567,16 +567,16 @@ _from consumed natural gas_: 35.011 million metric tonnes of CO2 (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 323,905 (2020)<br>
-_subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
+_total subscriptions_: 340,000 (2021)<br>
+_subscriptions per 100 inhabitants_: 22 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,163,730 (2019)<br>
-_subscriptions per 100 inhabitants_: 155.11 (2019)<br>
+_total subscriptions_: 2 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 130 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: excellent international service; good local service; broadband access; expanded FttP (Fiber to the Home) markets; LTE launch; regulatory development; major growth in mobile telephony and data segments which attacks operation investment in fiber infrastructure; moves to end roaming charges (2020)<br>
-_domestic_: fixed-line over 23 per 100 persons and mobile-cellular teledensity 142 per 100 persons (2020)<br>
+_domestic_: fixed-line is 22 per 100 persons and mobile-cellular teledensity 130 per 100 persons (2021)<br>
 _international_: country code - 1-868; landing points for the EC Link, ECFS, Southern Caribbean Fiber, SG-SCS and Americas II submarine cable systems provide connectivity to US, parts of the Caribbean and South America; satellite earth station - 1 Intelsat (Atlantic Ocean); tropospheric scatter to Barbados and Guyana (2020)<br>
 
 **Broadcast media**<br>
@@ -637,10 +637,10 @@ Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago 
 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>
-1% of GDP (2019 est.) (approximately $350 million)<br>
-1% of GDP (2018 est.) (approximately $340 million)<br>
-1.3% of GDP (2017 est.) (approximately $420 million)<br>
-1.4% of GDP (2016 est.) (approximately $460 million)<br>
+1% of GDP (2019 est.)<br>
+1% of GDP (2018 est.)<br>
+1.3% of GDP (2017 est.)<br>
+1.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,500 TTDF personnel (2022)<br>
@@ -662,6 +662,10 @@ the TTDF's primary responsibilities are conducting border and maritime security,
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 28,500 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List &mdash; Trinidad and Tobago does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials increased investigations and prosecutions, identified more victims, and expanded training; however, the government did not demonstrate overall increasing efforts compared to the previous year to expand its anti-trafficking capacity; the government has never convicted a trafficker under its 2011 anti-trafficking law; corruption and official complicity in trafficking remained significant concerns, inhibiting law enforcement, and the government did not take action against senior officials alleged in 2020 to be involved in trafficking; victim identification and services remained weak, and the government did not formally adopt the National Action Plan for 2021-2023; therefore, Trinidad and Tobago remained on Tier 2 Watch List for the second consecutive year (2022)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Trinidad and Tobago, and also exploit victims from Trinidad and Tobago abroad; the country serves as a transit point for Venezuelan refugees and migrants en route to Europe, North Africa, and elsewhere in the Caribbean, and large numbers of Venezuelans in particular continued to arrive in large numbers on a daily basis; unaccompanied or separated Venezuelan children are at increased risk for sex trafficking; migrants from the Caribbean region and from Asia are at risk for forced labor in domestic service and the retail sector; women and girls primarily from Venezuela, Colombia, the Dominican Republic, and Guyana are at risk of sex trafficking; traffickers also exploit victims from Puerto Rico, the Philippines, China, India, Nepal, and St. Vincent and the Grenadines, and they increasingly target vulnerable foreign women and girls; LGBTQI+ persons are at risk for sex trafficking; Cuban medical professionals may have been forced to work in Trinidad and Tobago by the Cuban government; Corruption by police, immigration and customs, and coast guard officials has been associated with facilitating labor and sex trafficking; transnational organized crime may increasingly be involved in trafficking; Trinidad and Tobago is likely a sex tourism destination (2022)<br>
 
 **Illicit drugs**<br>
 <p>a transit point for illegal drugs destined for Europe, North America, and the rest of the Caribbean; drug trafficking organizations use proximity to Venezuela, porous borders, vulnerabilities at ports of entry, limited law enforcement capacity and resources, and law enforcement corruption to traffic illicit drugs;  marijuana the only locally-produced illicit drug</p> <p> </p><br>

@@ -440,8 +440,8 @@ note - see individual country entries of member states<br>
 .eu; note - see country entries of member states for individual country codes<br>
 
 **Internet users**<br>
-_total_: 380,357,569 (2020 est.)<br>
-_percent of population_: 85% (2020 est.)<br>
+_total_: 389,063,826 (2021 est.)<br>
+_percent of population_: 87% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 163,772,540 (2020 est.)<br>

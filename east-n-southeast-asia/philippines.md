@@ -196,7 +196,7 @@ _unimproved: total_: total: 6.6% of population (2020 est.)<br>
 0.2% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: leptospirosis<br>
@@ -284,7 +284,7 @@ _rate of urbanization_: 2.04% annual rate of change (2020-25 est.)<br>
 0.07% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: leptospirosis<br>
@@ -712,15 +712,15 @@ _container port(s) (TEUs)_: Manila (4,976,014) (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air Force (2021)<br>
+Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air Force (2023)<br>
 <strong>note 1:</strong> the Philippine Coast Guard is an armed and uniformed service under the Department of Transportation; it would be attached to the AFP in wartime; the Philippine National Police Force (PNP) falls under the Department of the Interior<br><br><strong>note 2: </strong>the Philippine Government also arms and supports civilian militias; the AFP controls Civilian Armed Force Geographical Units, while the Civilian Volunteer Organizations fall under PNP command<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2021 est.)<br>
 1.1% of GDP (2020)<br>
-1.1% of GDP (2019) (approximately $6.19 billion)<br>
-1% of GDP (2018) (approximately $5.31 billion)<br>
-1.3% of GDP (2017) (approximately $6.21 billion)<br>
+1.1% of GDP (2019)<br>
+1% of GDP (2018)<br>
+1.3% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 130,000 active duty personnel (90,000 Army; 25,000 Navy, including about 8,000 Marine Corps; 15,000 Air Force) (2022)<br>

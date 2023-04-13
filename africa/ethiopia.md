@@ -206,7 +206,7 @@ _unimproved: total_: total: 82.3% of population (2020 est.)<br>
 0.8% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -295,7 +295,7 @@ _rate of urbanization_: 4.4% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -679,8 +679,8 @@ _international_: country code - 251; open-wire to Sudan and Djibouti; microwave 
 .et<br>
 
 **Internet users**<br>
-_total_: 27,591,260 (2020 est.)<br>
-_percent of population_: 24% (2020 est.)<br>
+_total_: 20.4 million (2021 est.)<br>
+_percent of population_: 17% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 212,000 (2020 est.)<br>
@@ -733,7 +733,7 @@ Ethiopia is landlocked and uses the ports of Djibouti in Djibouti and Berbera in
 
 **Military and security forces**<br>
 Ethiopian National Defense Force (ENDF): Ground Forces, Ethiopian Air Force (Ye Ityopya Ayer Hayl, ETAF); Ministry of Peace: Ethiopian Federal Police (EFP) (2023)<br>
-<strong>note 1:</strong> in 2020 the Ethiopian Government announced it had re-established a navy, which had been disbanded in 1996; in March 2019, Ethiopia signed a defense cooperation agreement with France which stipulated that France would support the establishment of an Ethiopian navy, which would reportedly be based out of Djibouti<br><br><strong>note 2: </strong>in 2018, Ethiopia established a Republican Guard military unit responsible to the Prime Minister for protecting senior officials<br><br><strong>note 3: </strong>the regional governments control regional security forces, including "special" paramilitary forces, which generally operate independently from the federal government and in some cases operate as regional defense forces maintaining national borders; local militias also operate across the country in loose and varying coordination with these regional security and police forces, the ENDF, and the EFP<br><br>
+<strong>note 1:</strong> in 2020 the Ethiopian Government announced it had re-established a navy, which had been disbanded in 1996; in March 2019, Ethiopia signed a defense cooperation agreement with France which stipulated that France would support the establishment of an Ethiopian navy, which would reportedly be based out of Djibouti<br><br><strong>note 2: </strong>in 2018, Ethiopia established a Republican Guard military unit responsible to the Prime Minister for protecting senior officials<br><br><strong>note 3: </strong>the regional governments control regional security forces, including "special" paramilitary forces, which generally operate independently from the federal government and in some cases operate as regional defense forces maintaining national borders; local militias also operate across the country in loose and varying coordination with these regional security and police forces, the ENDF, and the EFP; in April 2023, the federal government ordered the integration of these regional special forces into the EFP or ENDF<br><br>
 
 **Military expenditures**<br>
 0.5% of GDP (2021 est.)<br>
@@ -770,7 +770,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Ethiopia-Eritrea:</em> Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement <br><br><em>Ethiopia-Somalia:</em> While border clashes continue in the al-Fashqa (Fashaga) area, the US views the 1902 boundary treaty between Ethiopia and Sudan as being in force; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; <br><br><em>Ethiopia-Sudan:</em> Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 412,594 (South Sudan), 253,069 (Somalia), 163,656 (Eritrea), 48,881 (Sudan) (2023)<br>
+_refugees (country of origin)_: 414,511 (South Sudan), 253,488 (Somalia), 163,656 (Eritrea), 48,881 (Sudan) (2023)<br>
 _IDPs_: 2.73 million (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2023)<br>
 
 **Trafficking in persons**<br>

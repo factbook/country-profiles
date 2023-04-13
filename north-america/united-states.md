@@ -492,7 +492,7 @@ _female_: 8.6% (2021 est.)<br>
 15.1% (2010 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-41.1 (2016 est.)<br>
+41.5 (2019 est.)<br>
 
 **Average household expenditures**<br>
 _on food_: 6.4% of household expenditures (2018 est.)<br>
@@ -637,16 +637,16 @@ _Total energy consumption per capita 2019_: 304.414 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 101.526 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
+_total subscriptions_: 98 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 29 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 442.457 million (2019)<br>
-_subscriptions per 100 inhabitants_: 134.46 (2019)<br>
+_total subscriptions_: 360 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the US telecom sector adapted well to the particular demands of the pandemic, which has led to strong growth in the number of mobile, mobile broadband, and fixed broadband subscribers since 2020; the level of growth is expected to taper off from late 2022 as the demand for working and schooling from home subsides; the pandemic also encouraged the Federal government to increase its investment in broadband infrastructure; of particular note was the Infrastructure Investment and Jobs Act of November 2021, which provided $65 billion to a range of programs aimed at delivering broadband to unserved areas, providing fiber-based broadband to upgrade existing service areas, and subsidizing the cost of services to low income households; alongside these fiscal efforts have been the several spectrum auctions undertaken during the last two years, which have greatly assisted the main licensees to improve the reach and quality of their offers based on LTE and 5G; some of this spectrum, auctioned during 2021, was only made available to licensees from February 2022; the widening availability of 5G from the main providers has resulted in a dramatic increase in mobile data traffic; in tandem with the focus on 5G, operators have closed down their GSM and CDMA networks, and have either closed down 3G networks (as AT&amp;T did in January 2022), or plan to in coming months; given the size of the US broadband market, and the growing demand for data on both fixed and mobile networks, there is continuous pressure for operators to invest in fiber networks, and to push connectivity closer to consumers; in recent years the US has seen increased activity from regional players as well as the major telcos and cablecos; although there has been considerable investment in DOCSIS4.0, some of the cablecos are looking to ditch HFC in preference for fiber broadband; the process of migrating from copper (HFC and DSL) to fiber is ongoing, but given the scale of the work involved it will take some years; some operators have investment strategies in place through to 2025, which will see the vast majority of their fixed networks being entirely on fiber; service offerings of up to 2Gb/s are becoming more widely available as the process continues (2022)<br>
-_domestic_: a large system of fiber-optic cable, microwave radio relay, coaxial cable, and domestic satellites carries every form of telephone traffic; a rapidly growing cellular system carries mobile telephone traffic throughout the country; fixed-line just over 31 per 100 and mobile-cellular over 134 per 100 (2020)<br>
+_domestic_: fixed-line just over 29 per 100 and mobile-cellular is 110 per 100 (2021)<br>
 _international_: country code - 1; landing points for the Quintillion Subsea Cable Network, TERRA SW, AU-Aleutian, KKFL, AKORN, Alaska United -West, &amp; -East &amp; -Southeast, North Star, Lynn Canal Fiber, KetchCar 1, PC-1, SCCN, Tat TGN-Pacific &amp; -Atlantic, Jupiter, Hawaiki, NCP, FASTER, HKA, JUS, AAG, BtoBE, Currie, Southern Cross NEXT, SxS, PLCN, Utility EAC-Pacific, SEA-US, Paniolo Cable Network, HICS, HIFN, ASH, Telstra Endeavor, Honotua, AURORA, ARCOS, AMX-1, Americas -I &amp;&nbsp;-II, Columbus IIb &amp; -III, Maya-1, MAC, GTMO-1, BICS, CFX-1, GlobeNet, Monet, SAm-1, Bahamas 2, PCCS, BRUSA, Dunant, MAREA, SAE x1,&nbsp;TAT 14,&nbsp;Apollo, Gemini Bermuda, Havfrue/AEC-2, Seabras-1,&nbsp;WALL-LI, NYNJ-1, FLAG Atalantic-1, Yellow, Atlantic Crossing-1,&nbsp;AE Connect -1, sea2shore, Challenger Bermuda-1, and&nbsp;GTT Atlantic&nbsp;submarine cable systems providing international connectivity to Europe, Africa,&nbsp;the Middle East, Asia, Southeast Asia, Australia,&nbsp;New Zealand, Pacific, &amp;&nbsp;Atlantic, and Indian Ocean&nbsp;Islands, Central and South America, Caribbean, Canada&nbsp;and US; satellite earth stations - 61 Intelsat (45 Atlantic Ocean and 16 Pacific Ocean), 5 Intersputnik (Atlantic Ocean region), and 4 Inmarsat (Pacific and Atlantic Ocean regions) (2020)<br>
 
 **Broadcast media**<br>
@@ -743,8 +743,8 @@ United States Armed Forces (aka US Military): US Army (USA), US Navy (USN; inclu
 3.5% of GDP (2022 est.)<br>
 3.6% of GDP (2021)<br>
 3.7% of GDP (2020)<br>
-3.4% of GDP (2019) (approximately $730 billion)<br>
-3.3% of GDP (2018) (approximately $685 billion)<br>
+3.4% of GDP (2019)<br>
+3.3% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1.39 million active duty personnel (475,000 Army; 345,000 Navy; 335,000 Air Force (includes about 8,000 Space Force); 180,000 Marine Corps; 40,000 Coast Guard); 335,000 Army National Guard; 105,000 Air National Guard (2022)<br>

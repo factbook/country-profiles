@@ -281,9 +281,9 @@ _percent of municipal solid waste recycled_: 28.1% (2015 est.)<br>
 _fresh water lake(s)_: Saimaa - 1,760 sq km; Paijanne - 1,090 sq km; Inarijarvi - 1,000 sq km; Oulujarvi - 900 sq km; Pielinen - 850 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 500 million cubic meters (2020 est.)<br>
+_municipal_: 1 billion cubic meters (2020 est.)<br>
 _industrial_: 2 billion cubic meters (2020 est.)<br>
-_agricultural_: 40 million cubic meters (2020 est.)<br>
+_agricultural_: 500 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 110 billion cubic meters (2019 est.)<br>
@@ -345,7 +345,7 @@ _election results_: <em>2018:</em> Sauli NIINISTO reelected president; percent o
 **Legislative branch**<br>
 _description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms)<br>
 _elections_: last held on 02 April 2023 (next to be held in 30 April 2027)<br>
-_election results_: percent of vote by party/coalition - Kok 24%, PS 23%, SDP 21.5%. Center Party 11.5%, Vihr 6.5%, Vas 5.5%, SFP 4.5%, KD 2.5%, Aland 0.5%; Movement Now 0.5%; seats by party/coalition - Kok 48, PS 46, SDP 43, Center Party 23, Vihr 13, Vas 11, SFP 9, KD 5; Aland 1; Movement Now 1; composition men 109, women 91, percent of women 45.5%<br>
+_election results_: percent of vote by party/coalition - Kok 24%, PS 23%, SDP 21.5%. Center Party 11.5%, Vihr 6.5%, Vas 5.5%, SFP 4.5%, KD 2.5%, Aland 0.5%; Movement Now 0.5%; seats by party/coalition - Kok 48, PS 46, SDP 43, Center Party 23, Vihr 13, Vas 11, SFP 9, KD 5; Aland 1; Movement Now 1; composition men 108, women 92, percent of women 46%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges, including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities<br>
@@ -631,8 +631,8 @@ a mix of 3 publicly operated TV stations and numerous privately owned TV station
 note - Aland Islands assigned .ax<br>
 
 **Internet users**<br>
-_total_: 5,087,180 (2020 est.)<br>
-_percent of population_: 92% (2020 est.)<br>
+_total_: 5.115 million (2021 est.)<br>
+_percent of population_: 93% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1.846 million (2020 est.)<br>
@@ -694,7 +694,7 @@ Finland operates icebreakers in the Baltic Sea including seven PC 3 or 4 class m
 ## Military and Security
 
 **Military and security forces**<br>
-Finnish Defense Forces (FDF): Army (Maavoimat), Navy (Merivoimat), Air Force (Ilmavoimat); Ministry of the Interior: Border Guard (Rajavartiolaitos) (2022)<br>
+Finnish Defense Forces (FDF): Army (Maavoimat), Navy (Merivoimat), Air Force (Ilmavoimat); Ministry of the Interior: Border Guard (Rajavartiolaitos) (2023)<br>
 <strong>note:</strong> the Border Guard becomes part of the FDF in wartime<br>
 
 **Military expenditures**<br>
@@ -705,10 +705,10 @@ Finnish Defense Forces (FDF): Army (Maavoimat), Navy (Merivoimat), Air Force (Il
 1.4% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 22,000 active duty personnel (15,000 Army; 4,000 Navy; 3,000 Air Force) (2022)<br>
+approximately 22,000 active duty personnel (15,000 Army; 4,000 Navy; 3,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a wide mix of mostly modern US, European, and domestically-produced weapons systems; since 2010, the US has been the leading supplier; the Finnish defense industry produces a variety of military equipment, including wheeled armored vehicles and naval vessels (2022)<br>
+the military's inventory consists of a wide mix of mostly modern US, European, and domestically produced weapons systems; in recent years, the US has been the leading supplier; the Finnish defense industry produces a variety of military equipment, including wheeled armored vehicles and naval vessels (2023)<br>
 
 **Military service age and obligation**<br>
 at age 18, all Finnish men are obligated to serve 5.5-12 months of service within a branch of the military or the Border Guard (length of service depends on the type of duty), and women 18-29 may volunteer for service; there is also an option to perform non-military service which lasts for 8.5 or 11.5 months; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 50 for rank-and-file and 60 for non-commissioned and commissioned officers (2023)<br>
@@ -726,6 +726,6 @@ Finland joined NATO in April 2023; Finland had been part of NATO’s Partnership
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 47,067 (Ukraine) (as of 21 March 2023)<br>
+_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 47,067 (Ukraine) (as of 27 March 2023)<br>
 _stateless persons_: 3,546 (2022)<br>
 

@@ -268,7 +268,7 @@ _municipal solid waste generated annually_: 132,555 tons (2012 est.)<br>
 **Total water withdrawal**<br>
 _municipal_: 1.6 million cubic meters (2017 est.)<br>
 _industrial_: 400,000 cubic meters (2017 est.)<br>
-_agricultural_: 30 million cubic meters (2019 est.)<br>
+_agricultural_: 30 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 300 million cubic meters (2019 est.)<br>
@@ -491,7 +491,7 @@ $1.006 billion (2019 est.)<br>
 Spain 65%, Portugal 14%, Italy 8% (2019)<br>
 
 **Exports - commodities**<br>
-processed and frozen fish, mollusks, clothing, scrap iron (2019)<br>
+tuna, mackerel, aircraft, other processed and frozen fish, postage stamps and title bond paper documents, mollusks (2021)<br>
 
 **Imports**<br>
 $1.117 billion (2021 est.) note: data are in current year dollars<br>
@@ -606,8 +606,8 @@ state-run TV and radio broadcast network plus a growing number of private broadc
 .cv<br>
 
 **Internet users**<br>
-_total_: 361,392 (2020 est.)<br>
-_percent of population_: 65% (2020 est.)<br>
+_total_: 413,000 (2021 est.)<br>
+_percent of population_: 70% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 24,839 (2020 est.)<br>

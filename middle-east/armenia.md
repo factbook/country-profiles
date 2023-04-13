@@ -280,9 +280,9 @@ _municipal solid waste generated annually_: 492,800 tons (2014 est.)<br>
 _fresh water lake(s)_: Lake Sevan - 1,360 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 620 million cubic meters (2019 est.)<br>
-_industrial_: 120 million cubic meters (2019 est.)<br>
-_agricultural_: 2.13 billion cubic meters (2019 est.)<br>
+_municipal_: 650 million cubic meters (2020 est.)<br>
+_industrial_: 190 million cubic meters (2020 est.)<br>
+_agricultural_: 1.99 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 7.77 billion cubic meters (2019 est.)<br>
@@ -511,7 +511,7 @@ $5.794 billion (2019 est.)<br>
 Russia 22%, Switzerland 20%, China 7%, Bulgaria 6%, Iraq 5%, Serbia 5%, Netherlands 5%, Germany 5% (2019)<br>
 
 **Exports - commodities**<br>
-copper ore, gold, tobacco, liquors, iron alloys (2019)<br>
+copper ore, gold, liquors, iron alloys, tobacco (2021)<br>
 
 **Imports**<br>
 $6.12 billion (2021 est.) note: data are in current year dollars<br>
@@ -624,8 +624,8 @@ _international_: country code - 374; Yerevan is connected to the&nbsp;Caucasus C
 .am<br>
 
 **Internet users**<br>
-_total_: 2,288,566 (July 2022 est.)<br>
-_percent of population_: 77% (July 2022 est.)<br>
+_total_: 2.212 million (2021 est.)<br>
+_percent of population_: 79% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 430,407 (2020 est.)<br>

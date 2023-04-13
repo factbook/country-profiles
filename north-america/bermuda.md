@@ -443,7 +443,7 @@ $1.605 billion (2019 est.)<br>
 Jamaica 49.1%, Luxembourg 36.1%, US 4.9% (2017)<br>
 
 **Exports - commodities**<br>
-re-exports of pharmaceuticals<br>
+recreational boats, ships, trailers, aircraft, fertilizers (2021)<br>
 
 **Imports**<br>
 $1.925 billion (2021 est.) note: data are in current year dollars<br>
@@ -551,8 +551,8 @@ _international_: country code - 1-441; landing points for the GlobeNet, Gemini B
 .bm<br>
 
 **Internet users**<br>
-_total_: 62,625 (2020 est.)<br>
-_percent of population_: 98% (2020 est.)<br>
+_total_: 64,000 (2021 est.)<br>
+_percent of population_: 100% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 23,000 (2020 est.)<br>

@@ -281,9 +281,9 @@ _municipal solid waste generated annually_: 2,930,349 tons (2015 est.)<br>
 _salt water lake(s)_: Caspian Sea (shared with Iran, Russia, Turkmenistan, and Kazakhstan) - 374,000 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 400 million cubic meters (2019 est.)<br>
-_industrial_: 570 million cubic meters (2019 est.)<br>
-_agricultural_: 11.6 billion cubic meters (2019 est.)<br>
+_municipal_: 400 million cubic meters (2020 est.)<br>
+_industrial_: 570 million cubic meters (2020 est.)<br>
+_agricultural_: 11.6 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 34.68 billion cubic meters (2019 est.)<br>
@@ -519,7 +519,7 @@ $23.63 billion (2019 est.)<br>
 Italy 28%, Turkey 15%, Israel 7%, Germany 5%, India 5% (2017)<br>
 
 **Exports - commodities**<br>
-crude petroleum, natural gas, refined petroleum, tomatoes, gold (2019)<br>
+crude petroleum, natural gas, refined petroleum, cotton, gold (2021)<br>
 
 **Imports**<br>
 $16.337 billion (2021 est.) note: data are in current year dollars<br>
@@ -632,8 +632,8 @@ _international_: country code - 994; Azerbaijan’s largest mobile network opera
 .az<br>
 
 **Internet users**<br>
-_total_: 8,745,304 (2022 est.)<br>
-_percent of population_: 85% (2022 est.)<br>
+_total_: 8.6 million (2021 est.)<br>
+_percent of population_: 86% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,995,474 (2020 est.)<br>

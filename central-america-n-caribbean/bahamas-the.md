@@ -245,7 +245,7 @@ _rate of urbanization_: 1.02% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 264,000 tons (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 30 million cubic meters (2019 est.)<br>
+_municipal_: 30 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 700 million cubic meters (2019 est.)<br>
@@ -462,7 +462,7 @@ $5.164 billion (2019 est.)<br>
 Singapore 16%, US 16%, Poland 13%, Germany 12%, Ecuador 10% (2020)<br>
 
 **Exports - commodities**<br>
-refined petroleum, ships, raw aluminum, nitrogen compounds, styrene polymers (2020)<br>
+refined petroleum, ships, aluminum, lobsters and crawfish, styrene polymers (2021)<br>
 
 **Imports**<br>
 $4.924 billion (2021 est.) note: data are in current year dollars<br>
@@ -575,8 +575,8 @@ The Bahamas has 4 major TV providers that provide service to all major islands i
 .bs<br>
 
 **Internet users**<br>
-_total_: 342,126 (2020 est.)<br>
-_percent of population_: 87% (2020 est.)<br>
+_total_: 385,400 (2021 est.)<br>
+_percent of population_: 94% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 83,000 (2020 est.)<br>

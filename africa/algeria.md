@@ -288,9 +288,9 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basi
 Lullemeden-Irhazer Aquifer System, Murzuk-Djado Basin, North Western Sahara Aquifer, Taoudeni-Tanezrouft Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 3.6 billion cubic meters (2019 est.)<br>
-_industrial_: 190 million cubic meters (2019 est.)<br>
-_agricultural_: 6.67 billion cubic meters (2019 est.)<br>
+_municipal_: 3.6 billion cubic meters (2020 est.)<br>
+_industrial_: 190 million cubic meters (2020 est.)<br>
+_agricultural_: 6.67 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 11.67 billion cubic meters (2019 est.)<br>
@@ -521,7 +521,7 @@ $38.551 billion (2019 est.)<br>
 Italy 13%, France 13%, Spain 12%, United States 7%, United Kingdom 7%, India 5%, South Korea 5% (2019)<br>
 
 **Exports - commodities**<br>
-crude petroleum, natural gas, refined petroleum, fertilizers, ammonia (2019)<br>
+natural gas, crude petroleum, refined petroleum, fertilizers, ammonia (2021)<br>
 
 **Imports**<br>
 $44.322 billion (2021 est.) note: data are in current year dollars<br>
@@ -636,8 +636,8 @@ state-run Radio-Television Algerienne operates the broadcast media and carries p
 .dz<br>
 
 **Internet users**<br>
-_total_: 27,626,157 (2020 est.)<br>
-_percent of population_: 63% (2020 est.)<br>
+_total_: 31.24 million (2021 est.)<br>
+_percent of population_: 71% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,790,459 (2020 est.)<br>

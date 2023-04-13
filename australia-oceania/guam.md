@@ -509,8 +509,8 @@ about a dozen TV channels, including digital channels; multi-channel cable TV se
 .gu<br>
 
 **Internet users**<br>
-_total_: 135,509 (2019 est.)<br>
-_percent of population_: 81% (2019 est.)<br>
+_total_: 136,850 (2021 est.)<br>
+_percent of population_: 80.5% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,000 (2020 est.)<br>

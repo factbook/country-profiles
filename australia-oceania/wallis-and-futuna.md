@@ -172,11 +172,6 @@ _unimproved: total_: total: 7.1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -210,11 +205,6 @@ _other_: 15.3% (2018 est.)<br>
 **Urbanization**<br>
 _urban population_: 0% of total population (2023)<br>
 _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
-
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
 
 ## Government
 
@@ -404,8 +394,8 @@ _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,132 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 25 (2018 est.)<br>
+_total subscriptions_: 3,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 26 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 0 (2018)<br>
@@ -413,7 +403,7 @@ _subscriptions per 100 inhabitants_: 0 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: 2G widespread; bandwidth is limited; mobile subscriber numbers are higher than fixed-line and better suited for islands; good mobile coverage in the capital cities and also reasonable coverage across more remote atolls; recent international interest in infrastructure development; increase in demand for mobile broadband as mobile services serve as primary source for Internet access; broadband satellite launched in 2019 to improve costs and capability (2020)<br>
-_domestic_: fixed-line teledensity 25 per 100 persons and 0 per 100 mobile subscriptions (2019)<br>
+_domestic_: fixed-line teledensity 26 per 100 persons (2021)<br>
 _international_: country code - 681; landing point for the Tui-Samoa submarine cable network connecting Wallis &amp; Futuna, Samoa and Fiji (2020)<br>
 
 **Broadcast media**<br>

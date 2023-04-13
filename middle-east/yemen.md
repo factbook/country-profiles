@@ -193,7 +193,7 @@ _unimproved: total_: total: 40.9% of population (2020 est.)<br>
 (2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
@@ -270,7 +270,7 @@ _rate of urbanization_: 3.71% annual rate of change (2015-20 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
@@ -598,16 +598,16 @@ _Total energy consumption per capita 2019_: 5.453 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.24 million (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
+_total subscriptions_: 1.2 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 15.178 million (2020)<br>
-_subscriptions per 100 inhabitants_: 47 (2020)<br>
+_total subscriptions_: 15 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 46 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Yemen continues to provide an exceptionally challenging market for telcos; civil unrest has caused havoc and devastation across most parts of the country, while the threat of sanctions has also made it a challenging environment in which to operate; a large proportion of the population requires humanitarian assistance, and there is little disposable income for services upon which telcos can generate revenue; essential telecom infrastructure, such as mobile towers and fiber cabling, has often been targeted, destroyed, or damaged by the opposing sides in the ongoing conflict; these difficulties have proved to be a disincentive to telcos investing in infrastructure, with the result that the country lacks basic fixed-line infrastructure, and mobile services are based on outdated GSM; this has prevented the development of a mobile broadband sector, or the evolution of mobile data services; the ownership of telecommunication services, and the scrutiny of associated revenues and taxes, have become a political issue in Yemen; until telecom infrastructure can be improved across Yemen, and until civil unrest eases, there will be little progress for the sector (2022)<br>
-_domestic_: the national network consists of microwave radio relay, cable, tropospheric scatter, GSM and CDMA mobile-cellular telephone systems; fixed-line teledensity remains low by regional standards at roughly 4 per 100 but mobile cellular use expanding at over 47 per 100 (2020)<br>
+_domestic_: fixed-line teledensity is 4 per 100 but mobile cellular is 46 per 100 (2021)<br>
 _international_: country code - 967; landing points for the FALCON, SeaMeWe-5, Aden-Djibouti, and the AAE-1 international submarine cable connecting Europe, Africa, the Middle East, Asia and Southeast Asia; satellite earth stations - 3 Intelsat (2 Indian Ocean and 1 Atlantic Ocean), 1 Intersputnik (Atlantic Ocean region), and 2 Arabsat; microwave radio relay to Saudi Arabia and Djibouti (2020)<br>
 
 **Broadcast media**<br>

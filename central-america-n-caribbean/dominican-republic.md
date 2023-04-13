@@ -197,7 +197,7 @@ _unimproved: total_: total: 3.7% of population (2020 est.)<br>
 0.9% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever<br>
 
@@ -277,7 +277,7 @@ _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever<br>
 
@@ -290,9 +290,9 @@ _percent of municipal solid waste recycled_: 8.2% (2015 est.)<br>
 _salt water lake(s)_: Lago de Enriquillo - 500 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 860 million cubic meters (2019 est.)<br>
-_industrial_: 660 million cubic meters (2019 est.)<br>
-_agricultural_: 7.56 billion cubic meters (2019 est.)<br>
+_municipal_: 860 million cubic meters (2020 est.)<br>
+_industrial_: 660 million cubic meters (2020 est.)<br>
+_agricultural_: 7.56 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 23.5 billion cubic meters (2019 est.)<br>
@@ -637,8 +637,8 @@ combination of state-owned and privately owned broadcast media; 1 state-owned TV
 .do<br>
 
 **Internet users**<br>
-_total_: 8,352,886 (2020 est.)<br>
-_percent of population_: 77% (2020 est.)<br>
+_total_: 9.35 million (2021 est.)<br>
+_percent of population_: 85% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,031,858 (2020 est.)<br>

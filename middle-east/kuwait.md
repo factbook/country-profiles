@@ -615,8 +615,8 @@ state-owned TV broadcaster operates 4 networks and a satellite channel; several 
 .kw<br>
 
 **Internet users**<br>
-_total_: 4,227,857 (2020 est.)<br>
-_percent of population_: 99% (2020 est.)<br>
+_total_: 4.3 million (2021 est.)<br>
+_percent of population_: 100% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 73,948 (2020 est.)<br>
@@ -668,15 +668,15 @@ _major seaport(s)_: Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'A
 ## Military and Security
 
 **Military and security forces**<br>
-Kuwaiti Armed Forces (KAF): Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Authority; Kuwaiti National Guard (KNG); Coast Guard (Ministry of Interior) (2022)<br>
+Kuwaiti Armed Forces (KAF): Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Authority; Kuwaiti National Guard (KNG); Ministry of Interior: police, Kuwait State Security, Coast Guard (2023)<br>
 <strong>note 1:</strong> the Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the 25th Commando Brigade is Kuwait's leading special forces unit; the Emiri Guard Authority (aka Emiri Guard Brigade) is responsible for protecting Kuwait's heads of state<br><br><strong>note 2:</strong> the Kuwaiti National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br>
 
 **Military expenditures**<br>
 6.8% of GDP (2021 est.)<br>
 6.3% of GDP (2020 est.)<br>
-5.6% of GDP (2019) (approximately $10.2 billion)<br>
-5.1% of GDP (2018) (approximately $9.25 billion)<br>
-5.6% of GDP (2017) (approximately $10 billion)<br>
+5.6% of GDP (2019)<br>
+5.1% of GDP (2018)<br>
+5.6% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 17,000 active duty armed forces personnel (12,500 Army, including the Amiri Guard and 25th Commando Brigade; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard (2022)<br>
@@ -698,4 +698,8 @@ Kuwait's key security partner since the 1991 Gulf War has been the US; the US ha
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 92,000 (2022); note - Kuwait's 1959 Nationality Law defined citizens as persons who settled in the country before 1920 and who had maintained normal residence since then; one-third of the population, descendants of Bedouin tribes, missed the window of opportunity to register for nationality rights after Kuwait became independent in 1961 and were classified as bidun (meaning "without"); since the 1980s Kuwait's bidun have progressively lost their rights, including opportunities for employment and education, amid official claims that they are nationals of other countries who have destroyed their identification documents in hopes of gaining Kuwaiti citizenship; Kuwaiti authorities have delayed processing citizenship applications and labeled biduns as "illegal residents," denying them access to civil documentation, such as birth and marriage certificates<br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List &mdash; Kuwait does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials reported disaggregated data for the first time, including data on a forced labor conviction and identification of male victims; Kuwait also implemented a program to increase oversight of foreign worker recruitment and provide greater protections to vulnerable migrants; however, the government did not demonstrate overall increasing efforts compared to the previous year to expand its anti-trafficking capacity; there were fewer investigations of alleged trafficking crimes and significantly fewer convictions and prosecutions of traffickers; the government decreased funding for victims and domestic worker protection programs for the second consecutive year; no steps were taken to reform the visa sponsorship program that continued to leave migrant workers highly vulnerable to exploitation; some officials routinely used arbitration and administrative penalties rather than investigate cases as human trafficking crimes; the government did not regularly use standard procedures to proactively identify victims and refer them to protection services, and it continued to detain, prosecute, and deport potential trafficking victims; therefore, Kuwait was downgraded to Tier 2 Watch List (2022)<br>
+_trafficking profile_: human traffickers exploit foreign victims in Kuwait; men and women migrate primarily from Bangladesh, Egypt, India, Pakistan, the Philippines, Sri Lanka, and other countries in South and Southeast Asia and the Middle East to work predominantly in the service, sanitation, construction, transportation, hospitality, and domestic service sectors; unskilled laborers and female domestic workers are especially vulnerable to forced labor and physical and sexual abuse; many labor-source countries, including Bhutan, Burundi, Burkina Faso, Cameroon, Chad, Cote d&rsquo;Ivoire, Democratic Republic of the Congo, Djibouti, Ethiopia, Ghana, Guinea, Guinea-Bissau, Indonesia, Kenya, Madagascar, Malawi, Niger, Nigeria, Senegal, Sierra Leone, Tanzania, Togo, Uganda, and Zimbabwe continue to restrict female nationals from domestic employment in Kuwait due to the high risk they face; some visa sponsors subject migrants to forced labor and, to a much lesser extent, sex trafficking; Cuban nationals working in Kuwait may have been forced to work by the Cuban government; Kuwait&rsquo;s sponsorship law restricts workers&rsquo; movements and penalizes them for leaving abusive workplaces; reports indicate some workers fleeing abusive employers are exploited in sex trafficking by recruiters or criminals (2022)<br>
 

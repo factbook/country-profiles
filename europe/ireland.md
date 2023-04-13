@@ -617,8 +617,8 @@ publicly owned broadcaster Radio Telefis Eireann (RTE) operates&nbsp;4 TV statio
 .ie<br>
 
 **Internet users**<br>
-_total_: 4,586,820 (2020 est.)<br>
-_percent of population_: 92% (2020 est.)<br>
+_total_: 4.75 million (2021 est.)<br>
+_percent of population_: 95% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,516,473 (2020 est.)<br>
@@ -683,9 +683,9 @@ Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Re
 **Military expenditures**<br>
 0.3% of GDP (2021)<br>
 0.3% of GDP (2020)<br>
-0.3% of GDP (2019) (approximately $1.27 billion)<br>
-0.3% of GDP (2018) (approximately $1.25 billion<br>
-0.3% of GDP (2017) (approximately $1.21 billion)<br>
+0.3% of GDP (2019)<br>
+0.3% of GDP (2018)<br>
+0.3% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 8,500 active duty personnel (6,800 Army; 900 Naval Service; 800 Air Corps) (2022)<br>

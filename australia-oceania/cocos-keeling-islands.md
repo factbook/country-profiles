@@ -268,7 +268,7 @@ _expenditures_: NA<br>
 United States 57%, Ireland 15% (2019)<br>
 
 **Exports - commodities**<br>
-computers, packaged medicines, precious metal watches, office machinery/parts, chemical analysis instruments (2019)<br>
+integrated circuits, vaccines and cultures, furniture, carbon batteries, rubber gloves (2021)<br>
 
 **Imports**<br>
 <p>NA</p><br>
@@ -299,6 +299,10 @@ _international_: international code - 61 8; telephone, telex, and facsimile comm
 
 **Internet country code**<br>
 .cc<br>
+
+**Internet users**<br>
+_total_: 80 (2021 est.)<br>
+_percent of population_: 13.4% (2021 est.)<br>
 
 ## Transportation
 

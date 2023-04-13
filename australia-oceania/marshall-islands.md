@@ -184,11 +184,6 @@ _unimproved: total_: total: 10.3% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
-
 **Obesity - adult prevalence rate**<br>
 52.9% (2016)<br>
 
@@ -253,11 +248,6 @@ _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
 0% of GDP (2018 est.)<br>
-
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 8,614 tons (2013 est.)<br>
@@ -592,7 +582,7 @@ _major seaport(s)_: Enitwetak Island, Kwajalein, Majuro<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the national police (Marshall Islands Police Department, MIPD), local police forces, and the Sea Patrol (maritime police) maintain internal security; the MIPD and Sea Patrol report to the Ministry of Justice; local police report to their respective local government councils<br>
+no regular military forces; the national police (Marshall Islands Police Department, MIPD), local police forces, and the Sea Patrol (maritime police) maintain internal security; the MIPD and Sea Patrol report to the Ministry of Justice; local police report to their respective local government councils (2023)<br>
 
 **Military - note**<br>
 defense is the responsibility of the US<br><br>the Marshall Islands have a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within its designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2022)<br>

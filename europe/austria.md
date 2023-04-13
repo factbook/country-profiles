@@ -285,9 +285,9 @@ Danube (shared with Germany [s], Slovakia, Czechia, Hungary, Croatia, Serbia, Bu
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 720 million cubic meters (2019 est.)<br>
-_industrial_: 2.7 billion cubic meters (2019 est.)<br>
-_agricultural_: 720 million cubic meters (2019 est.)<br>
+_municipal_: 720 million cubic meters (2020 est.)<br>
+_industrial_: 2.7 billion cubic meters (2020 est.)<br>
+_agricultural_: 720 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 77.7 billion cubic meters (2019 est.)<br>
@@ -523,7 +523,7 @@ $247.738 billion (2019 est.)<br>
 Germany 28%, United States 7%, Italy 6%, Switzerland 5% (2019)<br>
 
 **Exports - commodities**<br>
-cars, packaged medical supplies, vehicle parts, medical vaccines/cultures, flavored water (2019)<br>
+vaccines and cultures, cars, packaged medicines, vehicle parts, broadcasting equipment (2021)<br>
 
 **Imports**<br>
 $265.769 billion (2021 est.) note: data are in current year dollars<br>
@@ -636,8 +636,8 @@ worldwide cable and satellite TV are available; the public incumbent ORF compete
 .at<br>
 
 **Internet users**<br>
-_total_: 7,846,840 (2020 est.)<br>
-_percent of population_: 88% (2020 est.)<br>
+_total_: 8.277 million (2021 est.)<br>
+_percent of population_: 93% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2.606 million (2020 est.)<br>

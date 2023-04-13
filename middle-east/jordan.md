@@ -199,9 +199,6 @@ _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 9 December 2022, Jordan has reported a total of 1,746,997 cases of COVID-19 or 17,122.16 cumulative cases of COVID-19 per 100,000 population with a total of 14,122 cumulative deaths or a rate of 138.4 cumulative deaths per 100,000 population<br>
-
 **Obesity - adult prevalence rate**<br>
 35.5% (2016)<br>
 
@@ -281,9 +278,6 @@ _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
-
-**Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 9 December 2022, Jordan has reported a total of 1,746,997 cases of COVID-19 or 17,122.16 cumulative cases of COVID-19 per 100,000 population with a total of 14,122 cumulative deaths or a rate of 138.4 cumulative deaths per 100,000 population<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,529,997 tons (2013 est.)<br>
@@ -648,8 +642,8 @@ radio and TV dominated by the government-owned Jordan Radio and Television Corpo
 .jo<br>
 
 **Internet users**<br>
-_total_: 6,768,137 (2019 est.)<br>
-_percent of population_: 67% (2019 est.)<br>
+_total_: 9.13 million (2021 est.)<br>
+_percent of population_: 83% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 630,545 (2020 est.)<br>
@@ -710,9 +704,9 @@ Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations 
 **Military expenditures**<br>
 5% of GDP (2021 est.)<br>
 5% of GDP (2020 est.)<br>
-5.6% of GDP (2019 est.) (approximately $5.18 billion)<br>
-5.6% of GDP (2018 est.) (approximately $5.14 billion)<br>
-5.7% of GDP (2017 est.) (approximately $5.18 billion)<br>
+5.6% of GDP (2019 est.)<br>
+5.6% of GDP (2018 est.)<br>
+5.7% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 94,500 active duty armed forces personnel (80,000 Army; 14,000 Air Force; 500 Coast Guard); approximately 15,000 Gendarmerie Forces (2022)<br>
@@ -742,7 +736,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Jordan-Iraq</em>: the two countries signed a border agreement in 1984; Jordan has ratified the treaty, but it has not been confirmed that Iraq has ratified it; as of 2010, the agreement had not been registered with the UN</p> <p><em>Jordan-Israel</em>: none identified</p> <p><em>Jordan-Saudi Arabia</em>: Jordan and Saudi Arabia signed an agreement to demarcate their maritime borders in 2007</p> <p><em>Jordan-Syria</em>: the two countries signed an agreement in 2005 to settle the border dispute based on a 1931 demarcation accord; the two countries began demarcation in 2006</p> <p><em>Jordan-West Bank</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 12,866 (Yemen), 6,013 Sudan (2021); 33,951 (Iraq) (mid-year 2022); 661,854 (Syria) (2023)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 12,866 (Yemen), 6,013 Sudan (2021); 33,951 (Iraq) (mid-year 2022); 660,646 (Syria) (2023)<br>
 _stateless persons_: 64 (2022)<br>
 
 **Illicit drugs**<br>

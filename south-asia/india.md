@@ -204,12 +204,11 @@ _unimproved: total_: total: 16.6% of population (2020 est.)<br>
 0.2% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, Crimean-Congo hemorrhagic fever, Japanese encephalitis, and malaria<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 9 December 2022, India has reported a total of 44,674,439 cases of COVID-19 or 3,237.27 cumulative cases of COVID-19 per 100,000 population with a total of 530,653 cumulative deaths or a rate 38.45 cumulative deaths per 100,000 population; as of 8 December 2022, 72.48% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 3.9% (2016)<br>
@@ -292,12 +291,11 @@ _rate of urbanization_: 2.33% annual rate of change (2020-25 est.)<br>
 1.15% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, Crimean-Congo hemorrhagic fever, Japanese encephalitis, and malaria<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 9 December 2022, India has reported a total of 44,674,439 cases of COVID-19 or 3,237.27 cumulative cases of COVID-19 per 100,000 population with a total of 530,653 cumulative deaths or a rate 38.45 cumulative deaths per 100,000 population; as of 8 December 2022, 72.48% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 168,403,240 tons (2001 est.)<br>
@@ -317,9 +315,9 @@ Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), In
 Indus-Ganges-Brahmaputra Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 56 billion cubic meters (2017 est.)<br>
-_industrial_: 17 billion cubic meters (2017 est.)<br>
-_agricultural_: 688 billion cubic meters (2017 est.)<br>
+_municipal_: 56 billion cubic meters (2020 est.)<br>
+_industrial_: 17 billion cubic meters (2020 est.)<br>
+_agricultural_: 688 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 1.9 trillion cubic meters (2019 est.)<br>
@@ -672,8 +670,8 @@ Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasti
 .in<br>
 
 **Internet users**<br>
-_total_: 593.4 million (2020 est.)<br>
-_percent of population_: 43% (2020 est.)<br>
+_total_: 644 million (2021 est.)<br>
+_percent of population_: 46% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 22.95 million (2020 est.)<br>
@@ -739,7 +737,7 @@ _LNG terminal(s) (import)_: Dabhol, Dahej, Hazira, Kochi<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Frontier Corps; Defense Security Corps; Ministry of Home Affairs: Central Armed Police Forces (includes Assam Rifles, Border Security Force, Central Industrial Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, National Security Guards, Sashastra Seema Bal) (2022)<br>
+Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Frontier Corps; Defense Security Corps; Ministry of Home Affairs: Central Armed Police Forces (includes Assam Rifles, Border Security Force, Central Industrial Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, National Security Guards, Sashastra Seema Bal) (2023)<br>
 <strong>note 1:</strong> the Defense Security Corps provides security for Ministry of Defense sites<br><br><strong>note 2: </strong>the Border Security Force (BSF) is responsible for the Indo-Pakistan and Indo-Bangladesh borders; the Sashastra Seema Bal (SSB or Armed Border Force) guards the Indo-Nepal and Indo-Bhutan borders<br><br><strong>note 3:</strong> the Central Reserve Police Force (CRPF) includes a Rapid Reaction Force (RAF) for riot control and the Commando Battalion for Resolute Action (COBRA) for counter-insurgency operations <br><br><strong>note 4:</strong> the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (specifically the Indian Army)<br>
 
 **Military expenditures**<br>
@@ -763,7 +761,7 @@ ages vary by service, but generally 16.5-27 years of age for voluntary military 
 1,900 Democratic Republic of the Congo (MONUSCO); 110 Golan Heights (UNDOF); 900 Lebanon (UNIFIL); 2,350 South Sudan (UNMISS); 310 Sudan (UNISFA) (May 2022)<br>
 
 **Military - note**<br>
-the Indian Armed Forces are chiefly focused on China and Pakistan; the short 1962 Sino-India War left in place one of the world&rsquo;s longest disputed international borders, resulting in occasional standoffs between Indian and Chinese security forces, including lethal clashes in 1975 and 2020; meanwhile, India and Pakistan have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (the First Kashmir War of 1947 and the 1999 Kargil Conflict); a fragile cease-fire in Kashmir was reached in 2003, revised in 2018, and reaffirmed in 2021, although the Line of Control remains contested, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir where Indian forces have conducted counterinsurgency operations since the 1980s; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area at least three times between 1985 and 1995; despite a cease-fire, both sides continue to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties are due to extreme weather and the hazards of operating in the high mountain terrain of the world&rsquo;s highest conflict, including avalanches, exposure, and altitude sickness (2023)<br>
+the Indian military is a large, experienced, professional, and well-equipped military that performs a variety of missions; it is primarily focused on China and Pakistan and territorial defense, while secondary missions include regional power projection, UN peacekeeping deployments, humanitarian operations, and support to internal security forces; it has fought in several significant conflicts and counterinsurgency operations since 1947 and regularly conducts large-scale exercises<br><br>the Army is organized into 14 operational corps; the basic field formations under the corps are approximately 40 armored, artillery, infantry, mechanized, or mountain infantry divisions; there are also a number of independent airborne, armored, and artillery brigades, as well as special operations forces; in 2023, the Army announced that it was reorganizing its operational corps and divisions into division-sized “integrated battle groups,” which the Army assessed would be more agile and flexible<br><br>the Navy is a blue water force that operates in seas stretching from the western Mediterranean to the Strait of Malacca and the western Pacific; it routinely conducts months-long deployments, exercises with other navies, and conducts a variety of missions such as counter-piracy, humanitarian, and naval diplomacy; its principal ships include 2 aircraft carriers, more than 50 destroyers, frigates, corvettes, and large patrol vessels, 16 attack submarines, and 2 nuclear-powered ballistic missile capable submarines; the Navy also has several combat aircraft and anti-submarine warfare helicopter squadrons, as well as a marine amphibious brigade and a marine commando force<br><br>the Air Force is one of the World’s largest with more than 600 British-, French-, Russian/Soviet-, and domestically produced combat aircraft, plus nearly 500 combat helicopters; the tri-service Strategic Forces Command manages all of India’s strategic missile forces <br><br>the short 1962 Sino-India War left in place one of the world’s longest disputed international borders, resulting in occasional standoffs between Indian and Chinese security forces, including lethal clashes in 1975 and 2020; meanwhile, India and Pakistan have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (the First Kashmir War of 1947 and the 1999 Kargil Conflict); a fragile cease-fire in Kashmir was reached in 2003, revised in 2018, and reaffirmed in 2021, although the Line of Control remains contested, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir where Indian forces have conducted counterinsurgency operations since the 1980s; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area at least three times between 1985 and 1995; despite a cease-fire, both sides continue to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties are due to extreme weather and the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of India are a risk for armed robbery against ships; in 2022, three attacks against commercial vessels were reported, an increase from the two attacks in 2021; all of these occurred in port while ships were berthed or at anchor<br>

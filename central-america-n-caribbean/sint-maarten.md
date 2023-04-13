@@ -371,8 +371,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 68,840 (2012)<br>
-_subscriptions per 100 inhabitants_: 196 (2012)<br>
+_total subscriptions_: 68,840 (2012 est.)<br>
+_subscriptions per 100 inhabitants_: 196 (2012 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: generally adequate facilities; growth sectors include mobile telephone and data segments; effective competition; LTE expansion; tourism and telecom sector contribute greatly to the GDP (2018)<br>

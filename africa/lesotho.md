@@ -194,7 +194,7 @@ _unimproved: total_: total: 28.6% of population (2020 est.)<br>
 20.9% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -278,7 +278,7 @@ _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 
 **Food insecurity**<br>
@@ -670,14 +670,14 @@ _unpaved_: 4,871 km (2011)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lesotho Defense Force (LDF): Army (includes Air Wing) (2022)<br>
+Lesotho Defense Force (LDF): Army (includes Air Wing) (2023)<br>
 <strong>note:</strong> the Lesotho Mounted Police Service is responsible for internal security and reports to the Minister of Police and Public Safety<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
 1.6% of GDP (2020 est.)<br>
-1.8% of GDP (2019 est.) (approximately $60 million)<br>
-2.1% of GDP (2018 est.) (approximately $65 million)<br>
+1.8% of GDP (2019 est.)<br>
+2.1% of GDP (2018 est.)<br>
 2.2% of GDP (2017 est.) (approximately $70 million)<br>
 
 **Military and security service personnel strengths**<br>

@@ -166,6 +166,18 @@ white with six blue wavy horizontal stripes; the flag of the UK is in the upper 
 **Economic overview**<br>
 small island territory economy; economic activity mainly on Diego Garcia with national military installations; recently settled disputes with Mauritius have increased oil exports; established marine reserve has limited commercial fishing<br>
 
+**Exports - partners**<br>
+Singapore 69%, United States 10%, Canada 5%, Ireland 4%, Saudi Arabia 2% (2021)<br>
+
+**Exports - commodities**<br>
+tuna and other fish, computers, integrated circuits, diamonds, jewelry (2021)<br>
+
+**Imports - partners**<br>
+Singapore 64%, United States 22%, Panama 4%, Ireland 3%, Bulgaria 1% (2021)<br>
+
+**Imports - commodities**<br>
+inedible fish and animal products, aluminum structures, cement, boat propellers, packaged medicines (2021)<br>
+
 **Exchange rates**<br>
 <p>the US dollar is used</p><br>
 

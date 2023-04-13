@@ -65,7 +65,7 @@ _other_: 37.5% (2018 est.)<br>
 43,000 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Baikal - 31,500 sq km; Lake Ladoga - 18,130 sq km; Lake Onega - 9,720 sq km; Lake Khanka (shared with China) - 5,010 sq km; Lake Peipus - 4,300 sq km; Ozero Vygozero - 1,250 sq km; Ozero Beloye - 1,120 sq km<br>
+_fresh water lake(s)_: Lake Baikal - 31,500 sq km; Lake Ladoga - 18,130 sq km; Lake Onega - 9,720 sq km; Lake Khanka (shared with China) - 5,010 sq km; Lake Peipus - 4,300 sq km (shared with Estonia); Ozero Vygozero - 1,250 sq km; Ozero Beloye - 1,120 sq km<br>
 _salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Ozero Malyye Chany - 2,500 sq km; Curonian Lagoon (shared with Lithuania) - 1,620 sq km<br>note - the Caspian Sea is the World's largest lake<br>
 
 **Major rivers (by length in km)**<br>
@@ -207,10 +207,9 @@ _unimproved: total_: total: 10.6% of population (2020 est.)<br>
 NA<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever, tickborne encephalitis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the Russia; as of 9 December 2022, Russia has reported a total of 21,650,659 cases of COVID-19 or 14835.87 cumulative cases of COVID-19 per 100,000 population with a total of 392,506 cumulative deaths or a rate of 268.96 cumulative deaths per 100,000 population; as of 4 December 2022, 60.32% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
@@ -288,10 +287,9 @@ _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 0.53% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever, tickborne encephalitis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the Russia; as of 9 December 2022, Russia has reported a total of 21,650,659 cases of COVID-19 or 14835.87 cumulative cases of COVID-19 per 100,000 population with a total of 392,506 cumulative deaths or a rate of 268.96 cumulative deaths per 100,000 population; as of 4 December 2022, 60.32% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 60 million tons (2012 est.)<br>
@@ -299,7 +297,7 @@ _municipal solid waste recycled annually_: 2.7 million tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 4.5% (2012 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_fresh water lake(s)_: Lake Baikal - 31,500 sq km; Lake Ladoga - 18,130 sq km; Lake Onega - 9,720 sq km; Lake Khanka (shared with China) - 5,010 sq km; Lake Peipus - 4,300 sq km; Ozero Vygozero - 1,250 sq km; Ozero Beloye - 1,120 sq km<br>
+_fresh water lake(s)_: Lake Baikal - 31,500 sq km; Lake Ladoga - 18,130 sq km; Lake Onega - 9,720 sq km; Lake Khanka (shared with China) - 5,010 sq km; Lake Peipus - 4,300 sq km (shared with Estonia); Ozero Vygozero - 1,250 sq km; Ozero Beloye - 1,120 sq km<br>
 _salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Ozero Malyye Chany - 2,500 sq km; Curonian Lagoon (shared with Lithuania) - 1,620 sq km<br>note - the Caspian Sea is the World's largest lake<br>
 
 **Major rivers (by length in km)**<br>
@@ -747,9 +745,9 @@ Armed Forces of the Russian Federation: Ground Troops (Sukhoputnyye Voyskia, SV)
 **Military expenditures**<br>
 4% of GDP (2021 est.)<br>
 4% of GDP (2020 est.)<br>
-3.8% of GDP (2019 est.) (approximately $104 billion)<br>
-3.7% of GDP (2018 est.) (approximately $100 billion)<br>
-4.2% of GDP (2017 est.) (approximately $104 billion)<br>
+3.8% of GDP (2019 est.)<br>
+3.7% of GDP (2018 est.)<br>
+4.2% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 prior to Russia's invasion of Ukraine in February 2022, approximately 850,000 active-duty troops (300,000 Ground Troops; 40,000 Airborne Troops; 150,000 Navy; 160,000 Aerospace Forces; 70,000 Strategic Rocket Forces; approximately 20,000 special operations forces; approximately 100,000 other uniformed personnel (command and control, cyber, support, logistics, security, etc.); estimated 300,000 Federal National Guard Troops (2023)<br>

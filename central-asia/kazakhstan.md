@@ -644,8 +644,8 @@ the state owns nearly all radio and TV transmission facilities and operates nati
 .kz<br>
 
 **Internet users**<br>
-_total_: 16,465,777 (July 2022 est.)<br>
-_percent of population_: 86% (July 2022 est.)<br>
+_total_: 17.29 million (2021 est.)<br>
+_percent of population_: 91% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,620,400 (2020 est.)<br>
@@ -716,9 +716,9 @@ Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and A
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
-1.1% of GDP (2019 est.) (approximately $3.6 billion)<br>
-0.9% of GDP (2018 est.) (approximately $3.06 billion)<br>
-0.8% of GDP (2017 est.) (approximately $2.85 billion)<br>
+1.1% of GDP (2019 est.)<br>
+0.9% of GDP (2018 est.)<br>
+0.8% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 40,000 active duty personnel (25,000 Land Forces; 3,000 Naval Forces; 12,000 Air and Air Defense Forces) (2022)<br>
@@ -730,7 +730,7 @@ the Kazakh military's inventory is comprised of mostly older Russian and Soviet-
 all men 18-27 are required to serve in the military for 12-24 months (2023)<br>
 
 **Military - note**<br>
-Kazakhstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; it also has a relationship with NATO focused on democratic, institutional, and defense reforms; relations with NATO started in 1992, and Kazakhstan joined NATO's Partnership for Peace program in 1995 (2023)<br>
+Kazakhstan’s armed forces were formed in 1992 following the breakup of the Soviet Union and the disbandment of the Soviet Turkestan Military District whose forces formed the core of the new Kazakh military; the military’s principal responsibilities are territorial defense while the National Police, National Guard, Committee for National Security, and Border Service have primary responsibility for internal security, although the military may provide assistance as required; the military also participates in humanitarian and peacekeeping operations; in 2008, Kazakhstan opened up Central Asia’s first peacekeeper training center for military personnel of Kazakhstan, NATO, and other partners <br><br>in 2022, Kazakhstan initiated a wide-ranging effort to enhance the country’s security sector, including organizational changes such as establishing new National Guard units, enhancing existing ones, and forming a special operations force, spending increases for equipment acquisitions, a new doctrine with renewed emphasis on defense of the border, and reforms to improve professionalism in the military<br><br>information on the military’s structure varies with the Land Forces reportedly having about 15 combat brigades, which include a mix of air assault and mechanized infantry, tank, artillery, and surface-to-surface missile forces; the Naval Forces include a naval infantry brigade and patrol craft for operating on the Caspian Sea; the Air Defense Forces have over 100 combat aircraft, largely of Soviet-origin, but also some more modern Russian-made fighter aircraft <br><br>Kazakhstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; it also has a relationship with NATO focused on democratic, institutional, and defense reforms; relations with NATO started in 1992, and Kazakhstan joined NATO's Partnership for Peace program in 1995 (2023)<br>
 
 ## Transnational Issues
 

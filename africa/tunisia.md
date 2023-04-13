@@ -604,16 +604,16 @@ _Total energy consumption per capita 2019_: 35.62 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,533,273 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
+_total subscriptions_: 1.7 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14.771 million (2019)<br>
-_subscriptions per 100 inhabitants_: 126.31 (2019)<br>
+_total subscriptions_: 16 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 130 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Tunisia has one of the most sophisticated telecom infrastructures in North Africa; penetration rates for mobile and Internet services are among the highest in the region; government program of regulation and infrastructure projects aims to improve Internet connectivity to underserved areas; operators built extensive LTE infrastructure in 2019, and continue to discuss plans for future 5G networks and services; one operator has signed an agreement to pursue nano-satellite launches in 2023; internet censorship abolished, though concerns of government surveillance remain; legislation passed in 2017 supporting e-commerce and active e-government; importer of some integrated circuits and broadcasting equipment (including radio, television, and communications transmitters) from the PRC (2022)<br>
-_domestic_: in an effort to jumpstart expansion of the fixed-line network, the government awarded a concession to build and operate a VSAT network with international connectivity; rural areas are served by wireless local loops; competition between several mobile-cellular service providers has resulted in lower activation and usage charges and a surge in subscribership; fixed-line is nearly 14.1 per 100 and mobile-cellular teledensity has reached about 132 telephones per 100 persons (2022)<br>
+_domestic_: fixed-line is nearly 14 per 100 and mobile-cellular teledensity is 130 telephones per 100 persons (2021)<br>
 _international_: country code - 216; landing points for the SEA-ME-WE-4, Didon, HANNIBAL System and Trapani-Kelibia&nbsp;submarine cable systems that provides links to Europe, Africa, the Middle East, Asia and Southeast Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Arabsat; coaxial cable and microwave radio relay to Algeria and Libya; participant in Medarabtel; 2 international gateway digital switches (2020)<br>
 
 **Broadcast media**<br>
@@ -685,9 +685,9 @@ Tunisian Armed Forces (Forces Armées Tunisiennes, FAT): Tunisian Army (includes
 **Military expenditures**<br>
 3% of GDP (2021 est.)<br>
 3% of GDP (2020 est.)<br>
-3.8% of GDP (2019 est.) (approximately $2.81 billion)<br>
-3.9% of GDP (2018 est.) (approximately $2.84 billion)<br>
-4% of GDP (2017 est.) (approximately $2.81 billion)<br>
+3.8% of GDP (2019 est.)<br>
+3.9% of GDP (2018 est.)<br>
+4% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 35,000 active duty personnel (25,000 Army; 5,000 Navy; 5,000 Air Force); estimated 10,000 National Guard (2022)<br>

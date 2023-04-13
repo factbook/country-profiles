@@ -203,7 +203,7 @@ _unimproved: total_: total: 51.9% of population (2020 est.)<br>
 11.8% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria<br>
 _water contact diseases_: schistosomiasis<br>
@@ -279,7 +279,7 @@ _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria<br>
 _water contact diseases_: schistosomiasis<br>
@@ -701,14 +701,14 @@ _major seaport(s)_: Luderitz, Walvis Bay<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Namibian Defense Force (NDF): Army, Navy, Air Force; Ministry of Home Affairs, Immigration, Safety, and Security: Namibian Police Force (includes a paramilitary Special Field Force responsible for protecting borders and government installations) (2022)<br>
+Namibian Defense Force (NDF): Army, Navy, Air Force; Ministry of Home Affairs, Immigration, Safety, and Security: Namibian Police Force (includes a paramilitary Special Field Force responsible for protecting borders and government installations) (2023)<br>
 
 **Military expenditures**<br>
 3% of GDP (2021 est.)<br>
 3.4% of GDP (2020 est.)<br>
-3.3% of GDP (2019) (approximately $620 million)<br>
-3.4% of GDP (2018) (approximately $640 million)<br>
-3.6% of GDP (2017) (approximately $670 million)<br>
+3.3% of GDP (2019)<br>
+3.4% of GDP (2018)<br>
+3.6% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500 Air Force) (2022)<br>

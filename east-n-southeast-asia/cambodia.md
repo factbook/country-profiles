@@ -204,7 +204,7 @@ _unimproved: total_: total: 23.2% of population (2020 est.)<br>
 0.6% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, Japanese encephalitis, and malaria<br>
 
@@ -279,7 +279,7 @@ _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, Japanese encephalitis, and malaria<br>
 
@@ -296,9 +296,9 @@ Mekong (shared with China [s], Burma, Thailand, Laos, and Vietnam [m]) - 4,350 k
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 100 million cubic meters (2019 est.)<br>
-_industrial_: 30 million cubic meters (2019 est.)<br>
-_agricultural_: 2.05 billion cubic meters (2019 est.)<br>
+_municipal_: 100 million cubic meters (2020 est.)<br>
+_industrial_: 30 million cubic meters (2020 est.)<br>
+_agricultural_: 2.05 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 476.1 billion cubic meters (2019 est.)<br>
@@ -531,7 +531,7 @@ $21.072 billion (2019 est.)<br>
 United States 21%, Singapore 8%, Thailand 8%, Germany 7%, Japan 6%, China 5%, Canada 5%, United Kingdom 5% (2019)<br>
 
 **Exports - commodities**<br>
-clothing, precious metal scraps, trunks/cases, gold, leather footwear (2019)<br>
+clothing and footwear, trunks and cases, rice, rubber, light fixtures (2021)<br>
 
 **Imports**<br>
 $32.83 billion (2021 est.) note: data are in current year dollars<br>
@@ -646,8 +646,8 @@ mixture of state-owned, joint public-private, and privately owned broadcast medi
 .kh<br>
 
 **Internet users**<br>
-_total_: 5,440,559 (2019 est.)<br>
-_percent of population_: 33% (2019 est.)<br>
+_total_: 10.2 million (2021 est.)<br>
+_percent of population_: 60% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 233,732 (2020 est.) Slowly increase as focus is on mobile internet<br>
@@ -730,7 +730,7 @@ the RCAF is armed largely with older Chinese and Russian-origin equipment; in re
 225 Central African Republic (MINUSCA); 180 Lebanon (UNIFIL); 290 Mali (MINUSMA) (May 2022)<br>
 
 **Military - note**<br>
-outside of periodic border skirmishes with Thailand, the RCAF’s primary responsibilities are internal, border, and coastal security; since 2016, the RCAF has conducted a small annual training exercise known as “Golden Dragon” with the military of China, except for 2021-2022 when it was canceled because of the COVID-19 pandemic; the Army has a few infantry divisions and an estimated 10-15 brigades, including about 5 rapid reaction “intervention,” a border security, and a prime minister’s bodyguard brigade, as well as an airborne/special operations brigade under a special forces command created in 2020; the Navy maintains a small force of patrol boats and a naval infantry brigade for coastal defense; the Air Force has a small number of combat and transport helicopters; the Royal Gendarmerie is reportedly organized into battalions and several mobile response units<br><br>the RCAF was re-established in 1993 under the first coalition government from the merger of the Cambodian Government’s military forces (Cambodian People’s Armed Forces) and the two non-communist resistance forces (Sihanoukist National Army, aka National Army for Khmer Independence, and the Khmer People's National Liberation Armed Forces); thousands of communist Khmer Rouge fighters began surrendering by 1994 under a government amnesty program and the last of the Khmer Rouge forces (National Army of Democratic Kampuchea) were demobilized or absorbed into the RCAF in 1999<br><br>Cambodia continues to be one of the most densely landmine-contaminated countries in the world; by the early 1990s, various aid organizations estimated there were 8 to 10 million landmines scattered throughout the country, with a particularly heavy concentration along a 1,000-km strip along the northwest Thai-Cambodia border known as the "K5 belt"; the mines were laid during Cambodia’s decades-long war by the Cambodian army, the Vietnamese, the Khmer Rouge, the non-communist fighters, and US forces; part of Cambodia's defense policy is demining the territory with the intent of having the entire country cleared of unexploded ordnances by 2035; over 1 million landmines and over 3 million explosives were discovered and removed from 1992 to 2018 (2022)<br>
+outside of periodic border skirmishes with Thailand, the RCAF’s primary responsibilities are border, coastal, and internal security; since 2016, the RCAF has conducted a small annual training exercise known as “Golden Dragon” with the military of China, except for 2021-2022 when it was canceled because of the COVID-19 pandemic; the Army has a few infantry divisions and an estimated 10-15 brigades, including about 5 rapid reaction “intervention,” a border security, and a prime minister’s bodyguard brigade, as well as an airborne/special operations brigade under a special forces command created in 2020; the Navy maintains a small force of patrol boats and a naval infantry brigade for coastal defense; the Air Force has a small number of combat and transport helicopters; the Royal Gendarmerie is reportedly organized into battalions and several mobile response units<br><br>the RCAF was re-established in 1993 under the first coalition government from the merger of the Cambodian Government’s military forces (Cambodian People’s Armed Forces) and the two non-communist resistance forces (Sihanoukist National Army, aka National Army for Khmer Independence, and the Khmer People's National Liberation Armed Forces); thousands of communist Khmer Rouge fighters began surrendering by 1994 under a government amnesty program and the last of the Khmer Rouge forces (National Army of Democratic Kampuchea) were demobilized or absorbed into the RCAF in 1999<br><br>Cambodia continues to be one of the most densely landmine-contaminated countries in the world; by the early 1990s, various aid organizations estimated there were 8 to 10 million landmines scattered throughout the country, with a particularly heavy concentration on a 1,000-km strip along the northwest Thai-Cambodia border known as the "K5 belt"; the mines were laid during Cambodia’s decades-long war by the Cambodian army, the Vietnamese, the Khmer Rouge, the non-communist fighters, and US forces; part of Cambodia's defense policy is demining the territory with the intent of having the entire country cleared of unexploded ordnances by 2035; over 1 million landmines and over 3 million explosives were discovered and removed from 1992 to 2018; in 2018, the Cambodian government and Cambodian Mine Action and Victim Assistance Authority (CMAA), a government agency, launched the National Mine Action Strategy for 2018-2025 (2023)<br>
 
 ## Transnational Issues
 

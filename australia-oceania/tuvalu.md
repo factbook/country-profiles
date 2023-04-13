@@ -511,16 +511,16 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 17 (2020 est.)<br>
+_total subscriptions_: 2,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 70.36 (2019)<br>
+_total subscriptions_: 9,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 80 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: internal communications needs met; small global scale of over 11,000 people on 9 inhabited islands; mobile subscriber penetration about 40% and broadband&nbsp;about 10% penetration; govt. owned and sole provider of telecommunications services;&nbsp;2G widespread; the launch in 2019 of the Kacific-1 satellite will improve the telecommunication sector&nbsp;for the Asia Pacific region (2020)<br>
-_domestic_: radiotelephone communications between islands; fixed-line teledensity over 17 per 100 and mobile-cellular over 76 per 100 (2020)<br>
+_general assessment_: provides fixed-line telephone communications to subscribers on each of the islands of Tuvalu; each island relies on the use of a satellite dish for inter-island telephone communication, internet access, and mobile phone services (2023)<br>
+_domestic_: fixed-line teledensity is 18 per 100 and mobile-cellular is 80 per 100 (2021)<br>
 _international_: country code - 688; international calls can be made by satellite<br>
 
 **Broadcast media**<br>
@@ -563,10 +563,10 @@ _major seaport(s)_: Funafuti<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Tuvalu Police Force (Ministry of Justice, Communications, and Foreign Affairs) (2022)<br>
+no regular military forces; Tuvalu Police Force (Ministry of Justice, Communications, and Foreign Affairs) (2023)<br>
 
 **Military - note**<br>
-Australia provides support to the Tuvalu Police Force, including donations of patrol boats<br><br>Tuvalu has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tuvalu's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2022)<br>
+Australia provides support to the Tuvalu Police Force, including donations of patrol boats<br><br>Tuvalu has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tuvalu's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
 
 ## Transnational Issues
 

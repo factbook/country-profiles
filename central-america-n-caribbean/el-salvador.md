@@ -194,7 +194,7 @@ _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 0.5% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea<br>
 _vectorborne diseases_: dengue fever<br>
 
@@ -274,7 +274,7 @@ _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea<br>
 _vectorborne diseases_: dengue fever<br>
 
@@ -634,8 +634,8 @@ multiple privately owned national terrestrial TV networks, supplemented by cable
 .sv<br>
 
 **Internet users**<br>
-_total_: 3,567,410 (2020 est.)<br>
-_percent of population_: 55% (2020 est.)<br>
+_total_: 3.969 million (2021 est.)<br>
+_percent of population_: 63% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 586,000 (2020 est.)<br>

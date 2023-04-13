@@ -297,9 +297,9 @@ Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambez
 Lower Kalahari-Stampriet Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 100 million cubic meters (2019 est.)<br>
-_industrial_: 30 million cubic meters (2019 est.)<br>
-_agricultural_: 70 million cubic meters (2019 est.)<br>
+_municipal_: 110 million cubic meters (2020 est.)<br>
+_industrial_: 30 million cubic meters (2020 est.)<br>
+_agricultural_: 80 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 12.2 billion cubic meters (2019 est.)<br>
@@ -528,7 +528,7 @@ $6.229 billion (2019 est.)<br>
 India 21%, Belgium 19%, United Arab Emirates 19%, South Africa 9%, Israel 7%, Hong Kong 6%, Singapore 5% (2019)<br>
 
 **Exports - commodities**<br>
-diamonds, insulated wiring, gold, beef, carbonates (2019)<br>
+diamonds, insulated wiring, copper, beef, gold (2021)<br>
 
 **Imports**<br>
 $9.277 billion (2021 est.) note: data are in current year dollars<br>
@@ -643,8 +643,8 @@ _international_: country code - 267; international calls are made via satellite,
 .bw<br>
 
 **Internet users**<br>
-_total_: 1,505,040 (2020 est.)<br>
-_percent of population_: 64% (2020 est.)<br>
+_total_: 1.924 million (2021 est.)<br>
+_percent of population_: 74% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 259,525 (2020 est.)<br>

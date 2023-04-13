@@ -193,7 +193,7 @@ _unimproved: total_: total: 43.8% of population (2020 est.)<br>
 (2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Rift Valley fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -264,7 +264,7 @@ _urban population_: 47.9% of total population (2023)<br>
 _rate of urbanization_: 4.2% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Rift Valley fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -460,6 +460,9 @@ _female_: 38.5% (2021 est.)<br>
 **Population below poverty line**<br>
 NA<br>
 
+**Gini Index coefficient - distribution of family income**<br>
+36.8 (2017 est.)<br>
+
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
@@ -586,16 +589,16 @@ _Total energy consumption per capita 2019_: 802,000 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 91,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total subscriptions_: 91,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.119 million (2018)<br>
-_subscriptions per 100 inhabitants_: 48.8 (2019)<br>
+_total subscriptions_: 8.844 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 52 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Somalia&rsquo;s economic difficulties in recent years have made it difficult for telcos and the government to sustain investment in infrastructure; the government has also had to contend with militant groups which continue on occasion to force the closure of internet services in many areas of the country; in recent years, though, the government has addressed the lack of guidance which had prevailed since 1991, when a dictatorial regime was overthrown; the National Communications Law was passed in October 2017, aimed at setting a legal and regulatory framework for the telecoms sector, while provision was made in the following year to set up a regulatory authority to oversee the telecom sector; more recently, three types of licenses were mandated to provide clarity to operators, and to bring the market closer into line with international standards; all operators were given until August 2020 to secure one of the three license types; given the poor condition of fixed-line infrastructure, operators have concentrated on mobile connectivity; their investment plans have involved the development of LTE services to provide mobile data and broadband services; the telecom market has flourished; tariffs are among the lowest in Africa, and new cable systems coming on stream in the next few years, as well as planned investments from local operators to bolster the country&rsquo;s national fiber backbone, will lead to downward pressure on retail pricing; on the consumer side, spending on telecoms services and devices are under pressure from the financial effect of large-scale job losses and the consequent restriction on disposable incomes as the remnants of the impact of the Covid-19 pandemic remain and as global events, such as the Russian invasion of Ukraine, continue to play out; the market is continuing a positive growth trajectory, supported by a slow economic rebound in the country (2022)<br>
-_domestic_: seven networks compete for customers in the mobile sector; some of these mobile-service providers offer fixed-lines and Internet services; fixed-line is less than 1 per 100 and mobile-cellular roughly 56 per 100 (2020)<br>
+_domestic_: fixed-line is 1 per 100 and mobile-cellular is 52 per 100 (2021)<br>
 _international_: country code - 252; landing points for the G2A, DARE1, PEACE, and EASSy fiber-optic submarine cable system linking East Africa, Indian Ocean Islands, the Middle East, North Africa&nbsp;and&nbsp;Europe (2019)<br>
 
 **Broadcast media**<br>
@@ -651,7 +654,7 @@ _major seaport(s)_: Berbera, Kismaayo<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Somali National Army (SNA); Ministry of Internal Security: Somali National Police (SNP, includes a maritime unit and a Turkish-trained commando unit known as Harmacad, or Cheetah); National Security and Intelligence Agency (includes a commando/counterterrorism unit) (2022)<br>
+Ministry of Defense: Somali National Army (SNA); Ministry of Internal Security: Somali National Police (SNP, includes a maritime unit and a Turkish-trained commando unit known as Harmacad, or Cheetah); National Security and Intelligence Agency (includes a commando/counterterrorism unit) (2023)<br>
 <strong>note 1:</strong> Somalia has numerous militia and regional forces operating throughout the country; these forces include ones that are clan- and warlord-based, semi-official paramilitary and special police forces (aka darwish), and externally-sponsored militias; the SNA is attempting to incorporate some of these militia units<br><br><strong>note 2: </strong>Somaliland has army and naval forces under the Somaliland Ministry of Defense and Armed Forces<br>
 
 **Military expenditures**<br>

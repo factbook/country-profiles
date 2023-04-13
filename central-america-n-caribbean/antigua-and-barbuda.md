@@ -251,7 +251,7 @@ _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 30,585 tons (2012 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 10 million cubic meters (2019 est.)<br>
+_municipal_: 10 million cubic meters (2020 est.)<br>
 _industrial_: 2.5 million cubic meters (2017 est.)<br>
 _agricultural_: 1.8 million cubic meters (2017 est.)<br>
 
@@ -457,7 +457,7 @@ $1.196 billion (2019 est.)<br>
 Poland 37%, Suriname 33%, United Arab Emirates 8% (2019)<br>
 
 **Exports - commodities**<br>
-ships, refined petroleum, precious/semi-precious metal scraps, rice, corn (2019)<br>
+refined petroleum, ships, gas turbines, aircraft parts, lobster, durum wheat (2021)<br>
 
 **Imports**<br>
 $868.797 million (2021 est.) note: data are in current year dollars<br>
@@ -570,8 +570,8 @@ state-controlled Antigua and Barbuda Broadcasting Service (ABS) operates 1 TV st
 .ag<br>
 
 **Internet users**<br>
-_total_: 73,807 (2019 est.)<br>
-_percent of population_: 76% (2019 est.)<br>
+_total_: 89,280 (2021 est.)<br>
+_percent of population_: 96% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 8,000 (2020 est.)<br>

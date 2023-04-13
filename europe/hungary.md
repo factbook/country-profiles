@@ -642,8 +642,8 @@ mixed system of state-supported public service broadcast media and private broad
 .hu<br>
 
 **Internet users**<br>
-_total_: 8,588,776 (July 2022 est.)<br>
-_percent of population_: 89.3% (July 2022 est.)<br>
+_total_: 8.633 million (2021 est.)<br>
+_percent of population_: 89% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,382,136 (2021 est.)<br>
@@ -709,8 +709,8 @@ the Hungarian Defense Forces (HDF) are a unified force (Joint Force Command) wit
 1.5% of GDP (2022 est.)<br>
 1.8% of GDP (2021)<br>
 1.8% of GDP (2020)<br>
-1.3% of GDP (2019) (approximately $3.02 billion)<br>
-1% of GDP (2018) (approximately $2.4 billion)<br>
+1.3% of GDP (2019)<br>
+1% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 21,000 active-duty troops (16,000 Army; 5,000 Air Force) (2022)<br>
@@ -741,7 +741,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,248 (Ukraine) (as of 27 March 2023)<br>
+_refugees (country of origin)_: 34,248 (Ukraine) (as of 3 April 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

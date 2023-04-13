@@ -193,9 +193,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2021 est.)<br>
 
-**Major infectious diseases**<br>
-<strong>note:</strong> a new coronavirus is causing respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 9 December 2022, Italy has reported a total of 24,488,080 cases of COVID-19 or 41,058.8 cumulative cases of COVID-19 per 100,000 population with a total of 181,733 cumulative deaths or a rate of 304.7 cumulative deaths per 100,000 population; as of 8 December 2022, 86.15% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
-
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>
 
@@ -269,9 +266,6 @@ _rate of urbanization_: 0.27% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
-
-**Major infectious diseases**<br>
-<strong>note:</strong> a new coronavirus is causing respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 9 December 2022, Italy has reported a total of 24,488,080 cases of COVID-19 or 41,058.8 cumulative cases of COVID-19 per 100,000 population with a total of 181,733 cumulative deaths or a rate of 304.7 cumulative deaths per 100,000 population; as of 8 December 2022, 86.15% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 29.524 million tons (2015 est.)<br>
@@ -635,8 +629,8 @@ two Italian media giants dominate with 3 national terrestrial stations and priva
 .it<br>
 
 **Internet users**<br>
-_total_: 41,614,669 (2020 est.)<br>
-_percent of population_: 70% (2020 est.)<br>
+_total_: 44.25 million (2021 est.)<br>
+_percent of population_: 75% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 18,128,787 (2020 est.)<br>
@@ -710,8 +704,8 @@ Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italia
 1.5% of GDP (2022)<br>
 1.5% of GDP (2021)<br>
 1.6% of GDP (2020)<br>
-1.2% of GDP (2019) (approximately $30.1 billion)<br>
-1.2% of GDP (2018) (approximately $31 billion)<br>
+1.2% of GDP (2019)<br>
+1.2% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 108,000 Carabinieri (2022)<br>
@@ -744,7 +738,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 171,739 (Ukraine) (as of 24 February 2023)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 723,177 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
+<strong>note:</strong> 724,284 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

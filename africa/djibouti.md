@@ -192,7 +192,7 @@ _unimproved: total_: total: 26.2% of population (2020 est.)<br>
 0.7% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever<br>
 <strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Djibouti is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
@@ -267,7 +267,7 @@ _rate of urbanization_: 1.56% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever<br>
 <strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Djibouti is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
@@ -282,7 +282,7 @@ _municipal solid waste generated annually_: 114,997 tons (2002 est.)<br>
 _salt water lake(s)_: Abhe Bad/Abhe Bid Hayk (shared with Ethiopia) - 780 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 20 million cubic meters (2019 est.)<br>
+_municipal_: 20 million cubic meters (2020 est.)<br>
 _industrial_: 0 cubic meters (2017 est.)<br>
 _agricultural_: 3 million cubic meters (2017 est.)<br>
 
@@ -501,7 +501,7 @@ $5.15 billion (2019 est.)<br>
 Saudi Arabia 42%, India 15%, China 14%, Egypt 5%, South Korea 5% (2019)<br>
 
 **Exports - commodities**<br>
-various animals, chlorides, dried legumes, industrial fatty acids/oils, coffee, chickpeas (2019)<br>
+palm oil, chlorides, sheep and goats, kidney beans, industrial fatty acids/oils, coffee (2021)<br>
 
 **Imports**<br>
 $5.483 billion (2021 est.) note: data are in current year dollars<br>
@@ -616,8 +616,8 @@ state-owned Radiodiffusion-Television de Djibouti operates the sole terrestrial 
 .dj<br>
 
 **Internet users**<br>
-_total_: 582,921 (2020 est.)<br>
-_percent of population_: 59% (2020 est.)<br>
+_total_: 759,000 (2021 est.)<br>
+_percent of population_: 69% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 25,053 (2020 est.)<br>

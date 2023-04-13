@@ -272,9 +272,9 @@ _percent of municipal solid waste recycled_: 8% (2012 est.)<br>
 Arabian Aquifer System<br>
 
 **Total water withdrawal**<br>
-_municipal_: 280 million cubic meters (2019 est.)<br>
-_industrial_: 10 million cubic meters (2019 est.)<br>
-_agricultural_: 140 million cubic meters (2019 est.)<br>
+_municipal_: 280 million cubic meters (2020 est.)<br>
+_industrial_: 10 million cubic meters (2020 est.)<br>
+_agricultural_: 140 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 120 million cubic meters (2019 est.)<br>
@@ -502,7 +502,7 @@ $26.732 billion (2017 est.)<br>
 United Arab Emirates 31%, Saudi Arabia 12%, Japan 8%, United States 8% (2019)<br>
 
 **Exports - commodities**<br>
-refined petroleum, aluminum and plating, crude petroleum, iron ore, gold (2019)<br>
+refined petroleum, aluminum, iron ore and reductions, aluminum wiring, crude petroleum (2021)<br>
 
 **Imports**<br>
 $27.187 billion (2018 est.) note: data are in current year dollars<br>
@@ -614,8 +614,8 @@ state-run Bahrain Radio and Television Corporation (BRTC) operates 5 terrestrial
 .bh<br>
 
 **Internet users**<br>
-_total_: 170,158 (2020 est.)<br>
-_percent of population_: 100% (2020 est.)<br>
+_total_: 1.5 million (2021 est.)<br>
+_percent of population_: 100% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 148,928 (2020 est.)<br>

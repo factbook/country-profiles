@@ -190,7 +190,7 @@ _unimproved: total_: total: 7% of population (2017 est.)<br>
 0.5% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever<br>
 
@@ -278,7 +278,7 @@ _rate of urbanization_: 0.19% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever<br>
 
@@ -288,9 +288,9 @@ _municipal solid waste recycled annually_: 255,536 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 9.5% (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.7 billion cubic meters (2019 est.)<br>
-_industrial_: 740 million cubic meters (2019 est.)<br>
-_agricultural_: 4.52 billion cubic meters (2019 est.)<br>
+_municipal_: 1.7 billion cubic meters (2020 est.)<br>
+_industrial_: 740 million cubic meters (2020 est.)<br>
+_agricultural_: 4.52 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 38.1 billion cubic meters (2019 est.)<br>
@@ -510,7 +510,7 @@ $2.546 billion (2016 est.)<br>
 China 38%, Spain 11%, Netherlands 5%, Germany 5% (2019)<br>
 
 **Exports - commodities**<br>
-cigars, raw sugar, nickel products, rum, zinc (2019)<br>
+cigars, nickel, sugar, rum, zinc (2021)<br>
 
 **Imports**<br>
 $11.06 billion (2017 est.)<br>
@@ -621,8 +621,8 @@ government owns and controls all broadcast media: five national TV channels (Cub
 .cu<br>
 
 **Internet users**<br>
-_total_: 8,381,696 (2020 est.)<br>
-_percent of population_: 74% (2020 est.)<br>
+_total_: 7.81 million (2021 est.)<br>
+_percent of population_: 71% (2021 est.)<br>
 <strong>note:</strong> private citizens are prohibited from buying computers or accessing the Internet without special authorization; foreigners may access the Internet in large hotels but are subject to firewalls; some Cubans buy illegal passwords on the black market or take advantage of public outlets to access limited email and the government-controlled "intranet"; issues relating to COVID-19 impact research into internet adoption, so actual internet user figures may be different than published numbers suggest<br>
 
 **Broadband - fixed subscriptions**<br>

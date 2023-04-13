@@ -163,11 +163,6 @@ _unimproved: total_: total: 4.5% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
-
 **Obesity - adult prevalence rate**<br>
 50% (2016)<br>
 
@@ -215,11 +210,6 @@ _other_: 9.7% (2018 est.)<br>
 **Urbanization**<br>
 _urban population_: 48.2% of total population (2023)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
-
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
 
 **Total renewable water resources**<br>
 0 cubic meters (2017 est.)<br>

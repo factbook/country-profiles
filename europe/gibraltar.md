@@ -469,8 +469,8 @@ Gibraltar Broadcasting Corporation (GBC) provides TV and radio broadcasting serv
 .gi<br>
 
 **Internet users**<br>
-_total_: 31,684 (2019 est.)<br>
-_percent of population_: 94% (2019 est.)<br>
+_total_: 31,152 (2021 est.)<br>
+_percent of population_: 94.4% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 21,009 (2020 est.)<br>

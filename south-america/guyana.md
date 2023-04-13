@@ -196,7 +196,7 @@ _unimproved: total_: total: 4% of population (2020 est.)<br>
 1.4% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
@@ -276,7 +276,7 @@ _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
@@ -622,8 +622,8 @@ government-dominated broadcast media; the National Communications Network (NCN) 
 .gy<br>
 
 **Internet users**<br>
-_total_: 289,627 (2019 est.)<br>
-_percent of population_: 37% (2019 est.)<br>
+_total_: 680,000 (2021 est.)<br>
+_percent of population_: 85% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 95,000 (2020 est.)<br>

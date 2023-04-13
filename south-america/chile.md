@@ -278,9 +278,9 @@ _percent of municipal solid waste recycled_: 0.4% (2009 est.)<br>
 _fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq km; Lago O'Higgins (shared with Argentina) - 1,010 sq km; Lago Llanquihue - 800 sq km; Lago Fagnano (shared with Argentina) - 590 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.29 billion cubic meters (2019 est.)<br>
-_industrial_: 1.6 billion cubic meters (2019 est.)<br>
-_agricultural_: 29.42 billion cubic meters (2019 est.)<br>
+_municipal_: 1.29 billion cubic meters (2020 est.)<br>
+_industrial_: 1.66 billion cubic meters (2020 est.)<br>
+_agricultural_: 29.42 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 923 billion cubic meters (2019 est.)<br>
@@ -516,7 +516,7 @@ $77.255 billion (2019 est.)<br>
 China 32%, United States 14%, Japan 9%, South Korea 7% (2019)<br>
 
 **Exports - commodities**<br>
-copper, wood pulp, fish fillets, pitted fruits, wine (2019)<br>
+copper, fish fillets, wood pulp, pitted fruits, wine (2021)<br>
 
 **Imports**<br>
 $102.086 billion (2021 est.) note: data are in current year dollars<br>
@@ -629,8 +629,8 @@ national and local terrestrial TV channels, coupled with extensive cable TV netw
 .cl<br>
 
 **Internet users**<br>
-_total_: 16,822,264 (2020 est.)<br>
-_percent of population_: 88% (2020 est.)<br>
+_total_: 17.1 million (2021 est.)<br>
+_percent of population_: 90% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,763,826 (2020 est.)<br>

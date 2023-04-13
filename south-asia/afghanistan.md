@@ -306,9 +306,9 @@ Amu Darya (shared with Tajikistan [s], Turkmenistan, and Uzbekistan [m]) - 2,620
 Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Amu Darya (534,739 sq km); Tarim Basin (1,152,448 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 200 million cubic meters (2019 est.)<br>
-_industrial_: 170 million cubic meters (2019 est.)<br>
-_agricultural_: 20 billion cubic meters (2019 est.)<br>
+_municipal_: 200 million cubic meters (2020 est.)<br>
+_industrial_: 170 million cubic meters (2020 est.)<br>
+_agricultural_: 20 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 65.33 billion cubic meters (2019 est.)<br>
@@ -530,7 +530,8 @@ $1.609 billion (2018 est.)<br>
 United Arab Emirates 45%, Pakistan 24%, India 22%, China 1% (2019)<br>
 
 **Exports - commodities**<br>
-gold, grapes, opium, fruits and nuts, insect resins, cotton, handwoven carpets, soapstone, scrap metal (2019)<br>
+gold, figs, grapes, cotton, fruits and nuts, coal (2021)<br>
+<strong>note:</strong> despite a de facto ban on cultivation, production, usage, transportation, and trade, Afghan opium production continues to be a large-scale illicit trade commodity<br>
 
 **Imports**<br>
 $6.983 billion (2020 est.) note: data are in current year dollars<br>
@@ -644,7 +645,7 @@ since 15 August 2021, independent media outlets have decreased in number due to 
 .af<br>
 
 **Internet users**<br>
-_total_: 7,007,101 (2020 est.)<br>
+_total_: 7.02 million (2020 est.)<br>
 _percent of population_: 18% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
@@ -700,7 +701,7 @@ _river port(s)_: Hairatan, Qizil Qal`ah (Amu Darya)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Taliban has established a de facto ministry of defense and a national army (aka Army of the Islamic Emirate of Afghanistan, Islamic Emirate Army, or Afghan Army); it has also formed a ministry of interior with a subordinate police force (2022)<br>
+the Taliban has established a de facto ministry of defense and a national army (aka Army of the Islamic Emirate of Afghanistan, Islamic Emirate Army, or Afghan Army); it has also formed a ministry of interior with a subordinate police force (2023)<br>
 
 **Military expenditures**<br>
 3.3% of GDP (2019)<br>

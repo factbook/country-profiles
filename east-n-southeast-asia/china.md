@@ -205,11 +205,10 @@ _unimproved: total_: total: 5.1% of population (2020 est.)<br>
 NA<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: Crimean-Congo hemorrhagic fever, Japanese encephalitis<br>
+_vectorborne diseases_: Crimean-Congo hemorrhagic fever, dengue fever, Japanese encephalitis, severe fever thrombocytopenia syndrome (SFTS)<br>
 _soil contact diseases_: hantaviral hemorrhagic fever with renal syndrome (HFRS)<br>
-<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 9 December 2022, China has reported a total of 9,862,129 cases of COVID-19 or 670.3 cumulative cases of COVID-19 per 100,000 population with a total of 30,717 cumulative deaths or a rate 2.1 cumulative deaths per 100,000 population; as of 28 November 2022, 91.5% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.2% (2016)<br>
@@ -291,11 +290,10 @@ _rate of urbanization_: 1.78% annual rate of change (2020-25 est.)<br>
 0.57% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: Crimean-Congo hemorrhagic fever, Japanese encephalitis<br>
+_vectorborne diseases_: Crimean-Congo hemorrhagic fever, dengue fever, Japanese encephalitis, severe fever thrombocytopenia syndrome (SFTS)<br>
 _soil contact diseases_: hantaviral hemorrhagic fever with renal syndrome (HFRS)<br>
-<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 9 December 2022, China has reported a total of 9,862,129 cases of COVID-19 or 670.3 cumulative cases of COVID-19 per 100,000 population with a total of 30,717 cumulative deaths or a rate 2.1 cumulative deaths per 100,000 population; as of 28 November 2022, 91.5% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 210 million tons (2015 est.)<br>
@@ -314,9 +312,9 @@ Pacific Ocean drainage: Amur (1,929,955 sq km), Huang He (944,970 sq km), Mekong
 North China Aquifer System (Huang Huai Hai Plain), Song-Liao Plain, Tarim Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 79.4 billion cubic meters (2019 est.)<br>
-_industrial_: 133.5 billion cubic meters (2019 est.)<br>
-_agricultural_: 385.2 billion cubic meters (2019 est.)<br>
+_municipal_: 117.01 billion cubic meters (2020 est.)<br>
+_industrial_: 103.04 billion cubic meters (2020 est.)<br>
+_agricultural_: 361.24 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 2.8 trillion cubic meters (2019 est.)<br>
@@ -562,7 +560,7 @@ $2.631 trillion (2019 est.)<br>
 United States 17%, Hong Kong 10%, Japan 6% (2019)<br>
 
 **Exports - commodities**<br>
-broadcasting equipment, computers, integrated circuits, office machinery and parts, telephones (2019)<br>
+broadcasting equipment, computers, integrated circuits, office machinery and parts, telephones (2021)<br>
 
 **Imports**<br>
 $3.091 trillion (2021 est.) note: data are in current year dollars<br>
@@ -675,8 +673,8 @@ all broadcast media are owned by, or affiliated with, the Chinese Communisty Par
 .cn<br>
 
 **Internet users**<br>
-_total_: 987 million (2020 est.)<br>
-_percent of population_: 70% (2020 est.)<br>
+_total_: 1.022 billion (2021 est.)<br>
+_percent of population_: 73% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 483,549,500 (2020 est.)<br>
@@ -745,7 +743,7 @@ _river port(s)_: Guangzhou (Pearl)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-People's Liberation Army (PLA): Ground Forces, Navy (PLAN, includes marines and naval aviation), Air Force (PLAAF, includes airborne forces), Rocket Force (strategic missile force), and Strategic Support Force (information, electronic, and cyber warfare, as well as space forces); People's Armed Police (PAP, includes Coast Guard, Border Defense Force, Internal Security Forces); PLA Reserve Force (2022)<br>
+People's Liberation Army (PLA): Ground Forces, Navy (PLAN, includes naval aviation), Navy Marine Corps (PLANMC), Air Force (PLAAF, includes airborne forces), Rocket Force (strategic missile force), and Strategic Support Force (information, electronic, and cyber warfare, as well as space forces); People's Armed Police (PAP, includes Coast Guard, Border Defense Force, Internal Security Forces); PLA Reserve Force (2023)<br>
 <strong>note 1:</strong> the Strategic Support Force includes the Space Systems Department, which is responsible for nearly all PLA space operations, including space launch and support, space surveillance, space information support, space telemetry, tracking, and control, and space warfare<br><br><strong>note 2: </strong>the PAP is a paramilitary police component of China’s armed forces that is under the dual authority of the Central Committee of the Communist Party and the Central Military Commission and charged with internal security, law enforcement, counterterrorism, and maritime rights protection<br><br><strong>note 3: </strong>in 2018, the Coast Guard was moved from the State Oceanic Administration to the PAP; in 2013, China merged four of its five major maritime law enforcement agencies – the China Marine Surveillance (CMS), Maritime Police, Fishery Law Enforcement (FLE), and Anti-Smuggling Police – into a unified coast guard<br>
 
 **Military expenditures**<br>

@@ -201,7 +201,6 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever and malaria are high risks in some locations<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 9 December 2022, Bangladesh has reported a total of 2,036,760 cases of COVID-19 or 1,236.7 cumulative cases of COVID-19 per 100,000 population with a total of 29,436 cumulative deaths or a rate of 17.8 cumulative deaths per 100,000 population; as of 6 December 2022, 87.12% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 3.6% (2016)<br>
@@ -288,7 +287,6 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever and malaria are high risks in some locations<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 9 December 2022, Bangladesh has reported a total of 2,036,760 cases of COVID-19 or 1,236.7 cumulative cases of COVID-19 per 100,000 population with a total of 29,436 cumulative deaths or a rate of 17.8 cumulative deaths per 100,000 population; as of 6 December 2022, 87.12% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to economic constraints and high prices of important food items -</em>  food insecurity is expected to remain fragile, given persisting economic constraints; domestic prices of wheat flour and palm oil, important food items, were at high levels in January 2023; the result of elevated international prices of energy, fuel and food, having been transmitted to the domestic markets (2023)<br>
@@ -306,9 +304,9 @@ Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km)<br>
 Indus-Ganges-Brahmaputra Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 3.6 billion cubic meters (2019 est.)<br>
-_industrial_: 770 million cubic meters (2019 est.)<br>
-_agricultural_: 31.5 billion cubic meters (2019 est.)<br>
+_municipal_: 3.6 billion cubic meters (2020 est.)<br>
+_industrial_: 770 million cubic meters (2020 est.)<br>
+_agricultural_: 31.5 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 1.227 trillion cubic meters (2019 est.)<br>
@@ -543,7 +541,7 @@ $44.961 billion (2019 est.)<br>
 United States 15%, Germany 14%, United Kingdom 8%, Spain 7%, France 7% (2019)<br>
 
 **Exports - commodities**<br>
-clothing, knitwear, leather footwear (2019)<br>
+clothing, knitwear, leather footwear (2021)<br>
 
 **Imports**<br>
 $85.303 billion (2021 est.) note: data are in current year dollars<br>
@@ -658,8 +656,8 @@ state-owned Bangladesh Television (BTV) broadcasts throughout the country. Some 
 .bd<br>
 
 **Internet users**<br>
-_total_: 41,172,346 (2020 est.)<br>
-_percent of population_: 25% (2020 est.)<br>
+_total_: 66.3 million (2021 est.)<br>
+_percent of population_: 39% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 10,052,819 (2020 est.)<br>
@@ -723,7 +721,7 @@ _river port(s)_: Mongla Port (Sela River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bangladesh Navy, Bangladesh Air Force; Ministry of Home Affairs: Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion (RAB), Ansars, Village Defense Party (VDP) (2022)<br>
+Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bangladesh Navy, Bangladesh Air Force; Ministry of Home Affairs: Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion (RAB), Ansars, Village Defense Party (VDP) (2023)<br>
 <strong>note 1: </strong>the Armed Forces of Bangladesh are jointly administered by the Ministry of Defense (MOD) and the Armed Forces Division (AFD), both under the Prime Minister's Office; the AFD has ministerial status and parallel functions with MOD; the AFD is a joint coordinating headquarters for the three services and also functions as a joint command center during wartime; to coordinate policy, the prime minister and the president are advised by a six-member board, which includes the three service chiefs of staff, the principal staff officer of the AFD, and the military secretaries to the prime minister and president<br><br><strong>note 2: </strong>the RAB, Ansars, and VDP are paramilitary organizations for internal security; the RAB is a joint task force founded in 2004 and composed of members of the police, Army, Navy, Air Force, and Border Guards seconded to the RAB from their respective units; its mandate includes internal security, intelligence gathering related to criminal activities, and government-directed investigations<br>
 
 **Military expenditures**<br>
@@ -746,7 +744,7 @@ much of the military's inventory is comprised of Chinese- and Russian-origin equ
 1,375 Central African Republic (MINUSCA); 1,625 Democratic Republic of the Congo (MONUSCO; plus about 190 police); 120 Lebanon (UNIFIL); 1,100 Mali (MINUSMA; plus about 280 police); 1,600 South Sudan (UNMISS); 180 Sudan (UNISFA) (2022)<br>
 
 **Military - note**<br>
-the military&rsquo;s chief areas of focus are border, economic exclusion zone, and domestic security; the Army maintains a large domestic security presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; since 2009, the military has been in a force-wide expansion and modernization program known as Forces Goal 2030 (2022)<br>
+the military’s primary responsibility is external defense but it also has a domestic security role and has traditionally been a significant player in the country’s politics, as well as its economy; the military has a long history of participating in UN peacekeeping missions, which has provided operational experience and a source of funding; it runs an international institute for the training of peacekeepers; the military also conducts multinational and bilateral exercises with foreign partners, particularly India; it has commercial business interests in such areas as banking, food, hotels, manufacturing, real estate, and shipbuilding, and manages government infrastructure and construction projects<br><br>the Army is the dominant service and its primary combat forces are approximately 10 infantry divisions, complemented by several independent brigades and regiments of armor, artillery, and commandos; it maintains a large presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; the Navy conducts both coastal and blue water operations and participates in UN and humanitarian missions and multinational exercises; its principal combat ships are a mix of approximately 15 frigates, corvettes, and large patrol ships, as well as a few attack submarines; the Air Force has about 50 mostly Chinese- and Russian-made combat aircraft organized into several squadrons (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Bangladesh remain a risk for armed robbery against ships; there were seven attacks reported in 2022 as opposed to none in 2021<br>

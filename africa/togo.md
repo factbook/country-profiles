@@ -196,9 +196,9 @@ _unimproved: total_: total: 54.5% of population (2020 est.)<br>
 1.9% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
+_vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
@@ -285,9 +285,9 @@ _rate of urbanization_: 3.6% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
+_vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
@@ -489,7 +489,7 @@ _female_: 7.7% (2021 est.)<br>
 55.1% (2015 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-43.1 (2015 est.)<br>
+42.4 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.3%<br>
@@ -626,16 +626,16 @@ _Total energy consumption per capita 2019_: 4.113 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 46,499 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total subscriptions_: 54,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,239,180 (2019)<br>
-_subscriptions per 100 inhabitants_: 77.2 (2019)<br>
+_total subscriptions_: 6.3 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 72 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: system based on a network of microwave radio relay routes supplemented by open-wire lines and a mobile-cellular system; telecoms supply 8% of GDP; 3 mobile operators; 12% of residents have access to the Internet; mobile subscribers and mobile broadband both increasing (2020)<br>
-_domestic_: fixed-line less than 1 per 100 and mobile-cellular nearly 79 telephones per 100 persons with mobile-cellular use predominating (2020)<br>
+_general assessment_: &nbsp;include radio, television, fixed and mobile telephones, and the Internet (2022)<br>
+_domestic_: fixed-line less than 1 per 100 and mobile-cellular is 72 telephones per 100 persons (2021)<br>
 _international_: country code - 228; landing point for the WACS submarine cable, linking countries along the west coast of Africa with each other and with Portugal; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Symphonie (2020)<br>
 
 **Broadcast media**<br>
@@ -702,8 +702,8 @@ _container port(s) (TEUs)_: Lome (1,962,304) (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Armee de l’Air), National Gendarmerie (Gendarmerie Nationale Togolaise or GNT) (2023)<br>
-<strong>note:</strong> the GNT falls under the Ministry of the Armed Forces but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security<br>
+Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Armee de l’Air), National Gendarmerie (Gendarmerie Nationale Togolaise or GNT); Ministry of Security and Civil Protection: National Police Directorate (Direction de la Police Nationale) (2023)<br>
+<strong>note:</strong> the Police Directorate and GNT are responsible for law enforcement and maintenance of order within the country; the GNT is also responsible for migration and border enforcement; the GNT falls under the Ministry of the Armed Forces but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security <br>
 
 **Military expenditures**<br>
 2.1% of GDP (2022 est.)<br>

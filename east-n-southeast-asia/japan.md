@@ -195,10 +195,6 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Major infectious diseases**<br>
-_respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 9 December 2022, Japan has reported a total of 25,687,798 cases of COVID-19 or 20,310.33 cumulative cases of COVID-19 per 100,000 population with a total of 51,062 cumulative deaths or a rate of 40.37 cumulative deaths per 100,000 population; as of 8 December 2022, 84.27% of the population has received at least one dose of COVID-19 vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 4.3% (2016)<br>
 
@@ -272,10 +268,6 @@ _rate of urbanization_: -0.25% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
-
-**Major infectious diseases**<br>
-_respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 9 December 2022, Japan has reported a total of 25,687,798 cases of COVID-19 or 20,310.33 cumulative cases of COVID-19 per 100,000 population with a total of 51,062 cumulative deaths or a rate of 40.37 cumulative deaths per 100,000 population; as of 8 December 2022, 84.27% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 43.981 million tons (2015 est.)<br>
@@ -635,8 +627,8 @@ a mixture of public and commercial broadcast TV and radio stations; 6 national t
 .jp<br>
 
 **Internet users**<br>
-_total_: 113,252,419 (2020 est.)<br>
-_percent of population_: 90% (2020 est.)<br>
+_total_: 99.6 million (2021 est.)<br>
+_percent of population_: 83% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 44,000,791 (2020 est.)<br>

@@ -200,7 +200,7 @@ _unimproved: total_: total: 4.2% of population (2020 est.)<br>
 0.5% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 <strong>note:</strong> as of 30 September 2021, the Centers for Disease Control and Prevention recommends that travelers avoid all nonessential travel to Venezuela; the country is experiencing outbreaks of infectious diseases, and adequate health care is currently not available in most of the country<br>
@@ -265,7 +265,7 @@ _urban population_: 88.4% of total population (2023)<br>
 _rate of urbanization_: 1.16% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 <strong>note:</strong> as of 30 September 2021, the Centers for Disease Control and Prevention recommends that travelers avoid all nonessential travel to Venezuela; the country is experiencing outbreaks of infectious diseases, and adequate health care is currently not available in most of the country<br>
@@ -470,7 +470,7 @@ _female_: 19.3% (2021 est.) NA<br>
 33.1% (2015 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-39 (2011)<br>
+39 (2011 est.)<br>
 
 **Average household expenditures**<br>
 _on food_: 19.1% of household expenditures (2018 est.)<br>
@@ -603,16 +603,16 @@ _Total energy consumption per capita 2019_: 85.829 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,251,182 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 18 (2020 est.)<br>
+_total subscriptions_: 3.2 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13,476,300 (2019)<br>
-_subscriptions per 100 inhabitants_: 47.26 (2019)<br>
+_total subscriptions_: 17 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 60 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Venezuela&rsquo;s fixed-line teledensity was relatively high for the region before the steady growth in the number of lines came to an end in 2015; since then, the number of lines has plummeted, and by late 2021 teledensity had fallen to about 17.3%; the cause is largely linked to the country&rsquo;s ongoing economic troubles, which have compelled many people to terminate fixed-line telecom services and others still to flee the country; these pressures have also distorted sector revenue and have placed into disarray operators&rsquo; investment plans aimed at improving networks and expanding the reach and capabilities of new technologies and services; the fixed broadband penetration rate is lower than the regional average, while data speeds are also relatively low; there is no effective competition in the provision of DSL, and as a result the state-owned incumbent CANTV has had little incentive to improve services from its meager revenue streams; mobile penetration in Venezuela is also below the regional average; the number of mobile subscribers fell by an estimated 2.4% in 2020, year-on-year, as subscribers terminated services in a bid to reduce discretionary spending, this decline is expected to continue into 2022, with subscriber growth not returning until 2023 (2021)<br>
-_domestic_: two domestic satellite systems with three earth stations; recent substantial improvement in telephone service in rural areas; 3 major providers operate in the mobile market and compete with state-owned company; fixed-line over 18 per 100 and mobile-cellular telephone subscribership about 63 per 100 persons (2020)<br>
+_domestic_: fixed-line is 11 per 100 and mobile-cellular telephone subscribership is 60 per 100 persons (2021)<br>
 _international_: country code - 58; landing points for the Venezuela Festoon, ARCOS, PAN-AM, SAC, GlobeNet, ALBA-1 and Americas II submarine cable system providing connectivity to the Caribbean, Central and South America, and US; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 PanAmSat (2020)<br>
 
 **Broadcast media**<br>
@@ -689,11 +689,11 @@ Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bol
 <strong>note 1: </strong>the Bolivarian Militia was added as a "special component" to the FANB in 2020; it is comprised of armed civilians who receive periodic training in exchange for a small stipend<br><br><strong>note 2: </strong>the National Guard is responsible for maintaining public order, guarding the exterior of key government installations and prisons, conducting counter-narcotics operations, monitoring borders, and providing law enforcement in remote areas; it reports to both the Ministry of Defense and the Ministry of Interior, Justice, and Peace<br><br><strong>note 3: </strong>the PNB's FAES paramilitary unit was created by President MADURO after the 2017 anti-government protests to bolster internal security; it has been accused of multiple human rights abuses <br>
 
 **Military expenditures**<br>
-5.2% of GDP (2019 est.) (approximately $7.5 billion)<br>
-4.4% of GDP (2018 est.) (approximately $9.9 billion)<br>
-2.9% of GDP (2017 est.) (approximately $8.5 billion)<br>
-2.2% of GDP (2016 est.) (approximately $7.7 billion)<br>
-1.8% of GDP (2015 est.) (approximately $9.3 billion)<br>
+5.2% of GDP (2019 est.)<br>
+4.4% of GDP (2018 est.)<br>
+2.9% of GDP (2017 est.)<br>
+2.2% of GDP (2016 est.)<br>
+1.8% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 125-150,000 active personnel, including about 25-30,000 National Guard; approximately 200-225,000 Bolivarian Militia; approximately 45,000 National Police (2022)<br>

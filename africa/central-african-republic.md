@@ -197,12 +197,11 @@ _unimproved: total_: total: 70.1% of population (2020 est.)<br>
 2.7% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
 <strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Central African Republic is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -281,12 +280,11 @@ _rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
 <strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Central African Republic is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
@@ -305,8 +303,8 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> N
 Congo Basin, Lake Chad Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 60 million cubic meters (2019 est.)<br>
-_industrial_: 10 million cubic meters (2019 est.)<br>
+_municipal_: 60 million cubic meters (2020 est.)<br>
+_industrial_: 10 million cubic meters (2020 est.)<br>
 _agricultural_: 400,000 cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
@@ -518,7 +516,7 @@ $101.5 million (2016 est.)<br>
 China 41%, United Arab Emirates 19%, France 7% (2019)<br>
 
 **Exports - commodities**<br>
-lumber, gold, diamonds, sea vessels, cocoa paste (2019)<br>
+gold, lumber, diamonds, large construction vehicles, rum (2021)<br>
 
 **Imports**<br>
 $393.1 million (2017 est.)<br>
@@ -632,8 +630,8 @@ government-owned network, Radiodiffusion Television Centrafricaine, provides lim
 .cf<br>
 
 **Internet users**<br>
-_total_: 482,976 (2020 est.)<br>
-_percent of population_: 10% (2020 est.)<br>
+_total_: 605,000 (2021 est.)<br>
+_percent of population_: 11% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 499 (2019 est.) Data available for 2019 only.<br>

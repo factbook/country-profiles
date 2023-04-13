@@ -253,9 +253,9 @@ _municipal solid waste recycled annually_: 957 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 0.9% (2016 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 20 million cubic meters (2019 est.)<br>
+_municipal_: 20 million cubic meters (2020 est.)<br>
 _industrial_: 3 million cubic meters (2019 est.)<br>
-_agricultural_: 320 million cubic meters (2019 est.)<br>
+_agricultural_: 320 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 78 billion cubic meters (2019 est.)<br>
@@ -471,7 +471,7 @@ $777.529 million (2019 est.)<br>
 India 94% (2019)<br>
 
 **Exports - commodities**<br>
-iron alloys, dolomite, refined iron, cement, silicon carbides (2019)<br>
+iron alloys, dolomite, aircraft, cement, gypsum (2021)<br>
 
 **Imports**<br>
 $1.027 billion (2021 est.) note: data are in current year dollars<br>
@@ -584,8 +584,8 @@ state-owned TV station established in 1999; cable TV service offers dozens of In
 .bt<br>
 
 **Internet users**<br>
-_total_: 416,671 (2020 est.)<br>
-_percent of population_: 54% (2020 est.)<br>
+_total_: 670,800 (2021 est.)<br>
+_percent of population_: 86% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,189 (2020 est.)<br>
@@ -621,8 +621,7 @@ _urban_: 437 km (2017)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Bhutan Army (includes Royal Bodyguard and an air wing); National Militia; Ministry of Home and Cultural Affairs: Royal Bhutan Police (2022)<br>
-<strong>note: </strong>the Royal Bhutan Police (RBP) agency is responsible for internal security; the Army is responsible for external threats but also has responsibility for some internal security functions, including conducting counterinsurgency operations, guarding forests, and providing security for prominent persons<br>
+Royal Bhutan Army (includes Royal Bodyguard and an air wing); National Militia; Ministry of Home and Cultural Affairs: Royal Bhutan Police (2023)<br>
 
 **Military and security service personnel strengths**<br>
 the Royal Bhutan Army has an estimated 8,000 personnel (2022)<br>
@@ -635,7 +634,7 @@ India has provided most of the Royal Bhutan Army's equipment (2022)<br>
 <strong>note: </strong>in 2021, the Royal Bhutan Army graduated from a year-long training course the first batch of 150 women to be allowed to serve in combat roles; previously, women were allowed to serve in medical and other non-combat roles<br>
 
 **Military - note**<br>
-India is responsible for military training, arms supplies, and the air defense of Bhutan (2022)<br>
+the Army is responsible for external threats but also has some internal security functions such as conducting counterinsurgency operations, guarding forests, and providing security for prominent persons; the force is deployed throughout the country in more than a dozen &ldquo;wings,&rdquo; each comprised of a few infantry companies; the Army also has units of royal bodyguards and special forces; Bhutan relies on India for military training, arms supplies, and the country&rsquo;s air defense (2023)<br>
 
 ## Transnational Issues
 

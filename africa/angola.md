@@ -293,9 +293,9 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambe
 Congo Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 320 million cubic meters (2019 est.)<br>
-_industrial_: 240 million cubic meters (2019 est.)<br>
-_agricultural_: 150 million cubic meters (2019 est.)<br>
+_municipal_: 320 million cubic meters (2020 est.)<br>
+_industrial_: 240 million cubic meters (2020 est.)<br>
+_agricultural_: 150 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 148.4 billion cubic meters (2019 est.)<br>
@@ -530,7 +530,7 @@ $35.18 billion (2019 est.)<br>
 China 62%, India 10%, United Arab Emirates 4%, Portugal 3%, Spain 3% (2019)<br>
 
 **Exports - commodities**<br>
-crude petroleum, diamonds, natural gas, refined petroleum, ships (2019)<br>
+crude petroleum, natural gas, diamonds, refined petroleum, asphalt mixtures (2021)<br>
 
 **Imports**<br>
 $18.845 billion (2021 est.) note: data are in current year dollars<br>
@@ -645,8 +645,8 @@ state controls all broadcast media with nationwide reach; state-owned Televisao 
 .ao<br>
 
 **Internet users**<br>
-_total_: 11,831,857 (2020 est.)<br>
-_percent of population_: 36% (2020 est.)<br>
+_total_: 11.55 million (2021 est.)<br>
+_percent of population_: 33% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 230,610 (2020 est.)<br>

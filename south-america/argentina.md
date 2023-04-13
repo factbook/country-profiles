@@ -202,9 +202,6 @@ _unimproved: total_: total: (2020 est.) NA<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.4% (2021 est.)<br>
 
-**Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 9 December 2022, Argentina has reported a total of 9,739,856 cases of COVID-19 or 21,550.36 cumulative cases of COVID-19 per 100,000 population with a total of 130,034 cumulative deaths or 287.7 cumulative deaths per 100,000 population; as of 8 December 2022, 91% of the population has received at least one dose of COVID-19 vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 28.3% (2016)<br>
 
@@ -280,9 +277,6 @@ _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 9 December 2022, Argentina has reported a total of 9,739,856 cases of COVID-19 or 21,550.36 cumulative cases of COVID-19 per 100,000 population with a total of 130,034 cumulative deaths or 287.7 cumulative deaths per 100,000 population; as of 8 December 2022, 91% of the population has received at least one dose of COVID-19 vaccine<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 17,910,550 tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 1,074,633 tons (2010 est.)<br>
@@ -302,9 +296,9 @@ Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
 Guaran&iacute; Aquifer System<br>
 
 **Total water withdrawal**<br>
-_municipal_: 5.85 billion cubic meters (2019 est.)<br>
-_industrial_: 4 billion cubic meters (2019 est.)<br>
-_agricultural_: 27.93 billion cubic meters (2019 est.)<br>
+_municipal_: 5.85 billion cubic meters (2020 est.)<br>
+_industrial_: 4 billion cubic meters (2020 est.)<br>
+_agricultural_: 27.93 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 876.2 billion cubic meters (2019 est.)<br>
@@ -539,7 +533,7 @@ $79.964 billion (2019 est.)<br>
 Brazil 16%, China 11%, United States 7%, Chile 5% (2019)<br>
 
 **Exports - commodities**<br>
-soybean products, corn, delivery trucks, wheat, frozen meat, gold (2019)<br>
+corn, soybean products, delivery trucks, wheat, beef, gold (2021)<br>
 
 **Imports**<br>
 $72.362 billion (2021 est.) note: data are in current year dollars<br>
@@ -654,7 +648,7 @@ government owns a TV station and radio network; more than two dozen TV stations 
 .ar<br>
 
 **Internet users**<br>
-_total_: 39,853,610 (2021 est.)<br>
+_total_: 39.15 million (2021 est.)<br>
 _percent of population_: 87% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

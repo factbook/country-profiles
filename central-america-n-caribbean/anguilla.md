@@ -383,7 +383,7 @@ $3.9 million (2016 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - commodities**<br>
-lobster, fish, livestock, salt, concrete blocks, rum<br>
+packaged medicines, vaccines and cultures, used clothing, orthopedic appliances, blank audio media (2021)<br>
 
 **Imports**<br>
 $186.2 million (2017 est.)<br>
@@ -430,8 +430,8 @@ _international_: country code - 1-264; landing points for the&nbsp;SSCS, ECFS, G
 .ai<br>
 
 **Internet users**<br>
-_total_: 12,489 (2019 est.)<br>
-_percent of population_: 82% (2019 est.)<br>
+_total_: 13,056 (2021 est.)<br>
+_percent of population_: 81.6% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 5,000 (2018 est.)<br>

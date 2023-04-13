@@ -701,9 +701,9 @@ Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes
 **Military expenditures**<br>
 6% of GDP (2021 est.)<br>
 7.8% of GDP (2020 est.)<br>
-8.8% of GDP (2019 est.) (approximately $92.2 billion)<br>
-10% of GDP (2018 est.) (approximately $103 billion)<br>
-11.1% of GDP (2017 est.) (approximately $111 billion)<br>
+8.8% of GDP (2019 est.)<br>
+10% of GDP (2018 est.)<br>
+11.1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Saudi military forces have about 225,000 total active troops; approximately 125,000 under the Ministry of Defense (75,000 Land Forces; 15,000 Naval Forces, including about 3,000 marines; 35,000 Air Force/Air Defense/Strategic Missile Forces) and approximately 100,000 in the Saudi Arabia National Guard (SANG) (2022)<br>

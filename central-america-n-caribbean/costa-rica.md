@@ -191,7 +191,7 @@ _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 0.5% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever<br>
 
@@ -275,7 +275,7 @@ _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever<br>
 
@@ -285,9 +285,9 @@ _municipal solid waste recycled annually_: 18,396 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 1.3% (2014 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 240 million cubic meters (2019 est.)<br>
-_industrial_: 220 million cubic meters (2019 est.)<br>
-_agricultural_: 1.96 billion cubic meters (2019 est.)<br>
+_municipal_: 830 million cubic meters (2020 est.)<br>
+_industrial_: 230 million cubic meters (2020 est.)<br>
+_agricultural_: 2.08 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 113 billion cubic meters (2019 est.)<br>
@@ -522,7 +522,7 @@ $22.738 billion (2019 est.)<br>
 United States 38%, Netherlands 6%, Belgium 5%, Guatemala 5%, Panama 5% (2019)<br>
 
 **Exports - commodities**<br>
-medical instruments, bananas, tropical fruits, orthopedic appliances, food preparations (2019)<br>
+medical instruments, bananas, pineapples, orthopedic appliances, food preparations (2021)<br>
 
 **Imports**<br>
 $22.298 billion (2021 est.) note: data are in current year dollars<br>
@@ -635,8 +635,8 @@ over two dozen privately owned TV stations and 1 publicly owned TV station natio
 .cr<br>
 
 **Internet users**<br>
-_total_: 4,126,232 (2020 est.)<br>
-_percent of population_: 81% (2020 est.)<br>
+_total_: 4.316 million (2021 est.)<br>
+_percent of population_: 83% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 992,725 (2020 est.)<br>

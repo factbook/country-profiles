@@ -703,8 +703,8 @@ Netherlands (Dutch) Armed Forces (Nederlandse Krijgsmacht): Royal Netherlands A
 1.7% of GDP (2022 est.)<br>
 1.5% of GDP (2021)<br>
 1.4% of GDP (2020)<br>
-1.3% of GDP (2019) (approximately $13.6 billion)<br>
-1.2% of GDP (2018) (approximately $12.3 billion)<br>
+1.3% of GDP (2019)<br>
+1.2% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 40,000 active duty personnel (20,000 Army; 7,500 Navy; 6,500 Air Force; 6,000 Constabulary) (2022)<br>

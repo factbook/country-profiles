@@ -581,16 +581,16 @@ _Total energy consumption per capita 2019_: 24.567 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,857,193 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
+_total subscriptions_: 2,821,171 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 19,387,600 (2019)<br>
-_subscriptions per 100 inhabitants_: 113.58 (2019)<br>
+_total subscriptions_: 16,990,714 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 80 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the years of civil war and destruction to infrastructure continue to have a toll on the telecoms sector in Syria; although over the years the major mobile service providers have endeavored to restore and rebuild damaged networks, the operating environment has been difficult; following disputed demands for back taxes, MTN Group in August 2021 exited the country, after its majority stake had been transferred to judicial guardianship; this effectively meant that the mobile market became a monopoly; in February 2022 the regulator awarded a third mobile license following a process which had been ongoing for many years; telecommunication services in Syria are highly regulated; although urban areas can make use of the network built and maintained by the government-owned incumbent, many under served remote areas in the countryside are obliged to rely on satellite communications; the domestic and international fixed-line markets in Syria remain the monopoly of the STE, despite several initiatives over the years aimed at liberalizing the market; mobile broadband penetration in Syria is still quite low, despite quite a high population coverage of 3G networks and some deployment of LTE infrastructure; this may provide potential opportunities for growth once infrastructure and economic reconstruction efforts make headway, and civil issues subside (2022)<br>
-_domestic_: the number of fixed-line connections increased markedly prior to the civil war in 2011 and now stands at over 16 per 100; mobile-cellular service is just over 95 per 100 persons (2020)<br>
+_domestic_: the number of fixed-line connections is 13 per 100; mobile-cellular service is 80 per 100 persons (2021)<br>
 _international_: country code - 963; landing points for the Aletar, BERYTAR and UGART submarine cable connections to Egypt, Lebanon, and Cyprus; satellite earth stations - 1 Intelsat (Indian Ocean) and 1 Intersputnik (Atlantic Ocean region); coaxial cable and microwave radio relay to Iraq, Jordan, Lebanon, and Turkey; participant in Medarabtel (2019)<br>
 
 **Broadcast media**<br>
@@ -667,11 +667,11 @@ Syrian Armed Forces: Syrian Arab Army (includes Republican Guard), Syrian Naval 
 <strong>note:</strong> as of 2022, the Syrian military was supported by numerous pro-regime and pro-Iranian irregular/militia forces, the Russian armed forces, the Iran-affiliated Hizballah terrorist group, and Iran’s Islamic Revolutionary Guard Corps<br>
 
 **Military expenditures**<br>
-6.5% of GDP (2019 est.) (approximately $2.9 billion)<br>
-6.7% of GDP (2018 est.) (approximately $2.8 billion)<br>
-6.8% of GDP (2017 est.) (approximately $2.7 billion)<br>
-6.9% of GDP (2016 est.) (approximately $2.85 billion)<br>
-7.2% of GDP (2015 est.) (approximately $3.3 billion)<br>
+6.5% of GDP (2019 est.)<br>
+6.7% of GDP (2018 est.)<br>
+6.8% of GDP (2017 est.)<br>
+6.9% of GDP (2016 est.)<br>
+7.2% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 current estimates not available; since the start of the civil war in 2011, the Syrian Armed Forces (SAF) have taken significant losses in personnel due to casualties and desertions; prior to the civil war, the SAF had approximately 300,000 active duty troops, including 200-225,000 Army, plus about 300,000 reserve forces (2022)<br>

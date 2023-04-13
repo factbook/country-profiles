@@ -197,7 +197,7 @@ _unimproved: total_: total: 21.2% of population (2020 est.)<br>
 0.2% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
@@ -277,7 +277,7 @@ _rate of urbanization_: 2.59% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 
@@ -639,8 +639,8 @@ _international_: country code - 502; landing points for&nbsp;the ARCOS, AMX-1, A
 .gt<br>
 
 **Internet users**<br>
-_total_: 8,429,167 (2020 est.)<br>
-_percent of population_: 50% (2020 est.)<br>
+_total_: 9.18 million (2021 est.)<br>
+_percent of population_: 51% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 612,000 (2020 est.)<br>

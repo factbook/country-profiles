@@ -265,7 +265,7 @@ _expenditures_: NA<br>
 Malaysia 36%, New Zealand 21%, Indonesia 20%, Australia 10% (2019)<br>
 
 **Exports - commodities**<br>
-calcium phosphates, fertilizers, valves, air pumps, industrial printers (2019)<br>
+calcium phosphates, fertilizers, barometers, electrical transformers, sulfates (2021)<br>
 
 **Imports**<br>
 <p>NA</p><br>
@@ -298,8 +298,8 @@ _international_: international code - 61 8; ASC submarine cable to Singapore and
 .cx<br>
 
 **Internet users**<br>
-_total_: 790 (2016 est.)<br>
-_percent of population_: 36% (2016 est.)<br>
+_total_: 1,139 (2021 est.)<br>
+_percent of population_: 78.6% (2021 est.)<br>
 
 ## Transportation
 

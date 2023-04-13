@@ -201,7 +201,7 @@ _unimproved: total_: total: 57.8% of population (2020 est.)<br>
 (2021 est.) NA<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -284,7 +284,7 @@ _rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
 4.17% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -717,15 +717,15 @@ _LNG terminal(s) (export)_: Coral Sul (FLNG)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army, Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: Mozambique National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force; other security forces include the Presidential Guard and the Force for the Protection of High-Level Individuals (2023)<br>
+Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army (Ramo do Exercito), Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: Mozambique National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force; other security forces include the Presidential Guard and the Force for the Protection of High-Level Individuals (2023)<br>
 <strong>note 1: </strong>the FADM and other security forces are referred to collectively as the Defense and Security Forces (DFS)<br><strong><br>note 2:</strong> the PRM, SERNIC, and the UIR are responsible for law enforcement and internal security; the Border Security Force is responsible for protecting the country’s international borders and for carrying out police duties within 24 miles of borders<br><strong><br>note 3</strong>: the Presidential Guard provides security for the president, and the Force for the Protection of High-level Individuals provides security for senior-level officials at the national and provincial<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
-1.2% of GDP (2019 est.) (approximately $220 million)<br>
-1.1% of GDP (2018 est.) (approximately $210 million)<br>
-0.9% of GDP (2017 est.) (approximately $170 million)<br>
+1.2% of GDP (2019 est.)<br>
+1.1% of GDP (2018 est.)<br>
+0.9% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information limited and varied; approximately 12,000 personnel (11,000 Army and about 1,000 Air Force and Navy) (2022)<br>
@@ -737,7 +737,7 @@ the FADM's inventory consists primarily of Soviet-era equipment, although in rec
 registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; 24-month service obligation (2023)<br>
 
 **Military - note**<br>
-the FADM is responsible for external security, cooperating with police on internal security, and responding to natural disasters and other emergencies; the current primary focus of the FADM is countering an insurgency driven by militants with ties to the Islamic State of Iraq and ash-Sham (ISIS) terrorist group in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and the fighting has left over 4,000 estimated dead and approximately 1 million displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; several countries from the Southern Africa Development Community (SADC) and the EU, as well as Rwanda and the US are providing various forms of military assistance; the SADC countries and Zambia have sent more than 3,000 military and security personnel, while the EU and the US have provided training assistance<br><br>the Mozambique Government reportedly has created a Local Force comprised of ex-combatants and other civilians who support FADM troops operating in Cabo Delgado; the FADM provides training, uniforms, weapons, and logistical support to the Local Forces (2023)<br>
+the FADM is responsible for external security, cooperating with police on internal security, and responding to natural disasters and other emergencies; the current primary focus of the FADM is countering an insurgency driven by militants with ties to the Islamic State of Iraq and ash-Sham (ISIS) terrorist group in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and the fighting has left over 4,000 estimated dead and approximately 1 million displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; several countries from the Southern Africa Development Community (SADC) and the EU, as well as Rwanda and the US are providing various forms of military assistance; the SADC countries and Zambia have sent more than 3,000 military and security personnel, while the EU and the US have provided training assistance<br><br>the FADM’s Army is comprised largely of light infantry supplemented by several battalions of artillery and special forces; the Air Force has small numbers of Soviet-era combat aircraft and helicopters<br><br>in 2023, the Mozambique Government legalized local militias that have been assisting security forces operating in Cabo Delgado against Islamic militants since 2020; this Local Force is comprised of ex-combatants and other civilians and is to receive training, uniforms, weapons, and logistical support from the FADM (2023)<br>
 
 ## Terrorism
 

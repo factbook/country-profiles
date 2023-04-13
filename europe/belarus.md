@@ -285,9 +285,9 @@ Dnieper (shared with Russia [s] and Ukraine [m]) - 2,287 km<br><strong>note</str
 Atlantic Ocean drainage: <em>(Black Sea) </em>Dnieper (533,966 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 550 million cubic meters (2019 est.)<br>
-_industrial_: 440 million cubic meters (2019 est.)<br>
-_agricultural_: 370 million cubic meters (2019 est.)<br>
+_municipal_: 550 million cubic meters (2020 est.)<br>
+_industrial_: 410 million cubic meters (2020 est.)<br>
+_agricultural_: 370 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 57.9 billion cubic meters (2019 est.)<br>
@@ -523,7 +523,7 @@ $41.975 billion (2019 est.)<br>
 Russia 42%, Ukraine 13%, United Kingdom 7% (2019)<br>
 
 **Exports - commodities**<br>
-refined petroleum, fertilizers, cheese, delivery trucks, crude petroleum (2019)<br>
+fertilizers, refined petroleum, cheese, delivery trucks, lumber (2021)<br>
 
 **Imports**<br>
 $45.459 billion (2021 est.) note: data are in current year dollars<br>
@@ -636,8 +636,8 @@ _international_: country code - 375; Belarus is landlocked and therefore a membe
 .by<br>
 
 **Internet users**<br>
-_total_: 8,027,601 (July 2022 est.)<br>
-_percent of population_: 85% (July 2022 est.)<br>
+_total_: 8.352 million (2021 est.)<br>
+_percent of population_: 87% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,255,552 (2020 est.)<br>
@@ -727,7 +727,7 @@ Belarus has close security ties with Russia, including an integrated air and mis
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,547 (Ukraine) (as of 14 March 2023)<br>
+_refugees (country of origin)_: 22,168 (Ukraine) (as of 28 March 2023)<br>
 _stateless persons_: 5,626 (2022)<br>
 
 **Trafficking in persons**<br>

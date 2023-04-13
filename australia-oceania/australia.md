@@ -301,9 +301,9 @@ Indian Ocean drainage: <em>(Great Australian Bight)</em> Murray-Darling (1,050,1
 Great Artesian Basin, Canning Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 3.51 billion cubic meters (2019 est.)<br>
-_industrial_: 2.73 billion cubic meters (2019 est.)<br>
-_agricultural_: 8.74 billion cubic meters (2019 est.)<br>
+_municipal_: 2.29 billion cubic meters (2020 est.)<br>
+_industrial_: 2.89 billion cubic meters (2020 est.)<br>
+_agricultural_: 8.57 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 492 billion cubic meters (2019 est.)<br>
@@ -536,7 +536,7 @@ $342.485 billion (2019 est.)<br>
 China 39%, Japan 15%, South Korea 7%, India 5% (2019)<br>
 
 **Exports - commodities**<br>
-iron ore, coal, natural gas, gold, aluminum oxide (2019)<br>
+iron ore, coal, natural gas, gold, wheat (2021)<br>
 
 **Imports**<br>
 $298.712 billion (2021 est.) note: data are in current year dollars<br>
@@ -650,8 +650,8 @@ the Australian Broadcasting Corporation (ABC) runs multiple national and local r
 .au<br>
 
 **Internet users**<br>
-_total_: 23,123,940 (2020 est.)<br>
-_percent of population_: 90% (2020 est.)<br>
+_total_: 24.96 million (2021 est.)<br>
+_percent of population_: 96% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 9,099,619 (2020 est.)<br>
@@ -721,8 +721,8 @@ Australia operates one PC 3 or 4 class medium icebreaker based in Tasmania in su
 ## Military and Security
 
 **Military and security forces**<br>
-Australian Defense Force (ADF): Australian Army, Royal Australian Navy, Royal Australian Air Force (2022)<br>
-<strong>note: </strong>the Army includes a Special Operations Command, while the Navy includes a Naval Aviation Force<br>
+Australian Defense Force (ADF): Australian Army, Royal Australian Navy, Royal Australian Air Force (2023)<br>
+<strong>note 1: </strong>the Army includes a Special Operations Command, while the Navy includes a Naval Aviation Force<br><br><strong>note 2:</strong> the Australian Federal Police is an independent agency of the Attorney-General’s Department; it, along with state and territorial police forces are responsible for internal security; the Australian Border Force is under the Department of Home Affairs <br>
 
 **Military expenditures**<br>
 2% of GDP (2022 est.)<br>

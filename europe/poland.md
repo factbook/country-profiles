@@ -199,8 +199,8 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 NA<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2016)<br>
-_vectorborne diseases_: tickborne encephalitis (2016)<br>
+_degree of risk_: intermediate (2023)<br>
+_vectorborne diseases_: tickborne encephalitis<br>
 
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
@@ -278,8 +278,8 @@ _rate of urbanization_: -0.16% annual rate of change (2020-25 est.)<br>
 0.27% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2016)<br>
-_vectorborne diseases_: tickborne encephalitis (2016)<br>
+_degree of risk_: intermediate (2023)<br>
+_vectorborne diseases_: tickborne encephalitis<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 10.863 million tons (2015 est.)<br>
@@ -720,8 +720,8 @@ Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air 
 2.4% of GDP (2022)<br>
 2.3% of GDP (2021)<br>
 2.2% of GDP (2020)<br>
-2% of GDP (2019) (approximately $17.5 billion)<br>
-2% of GDP (2018) (approximately $16.8 billion)<br>
+2% of GDP (2019)<br>
+2% of GDP (2018)<br>
 <strong>note: </strong>in 2022, the Polish Government announced plans to increase defense spending to 3% of GDP for 2023<br>
 
 **Military and security service personnel strengths**<br>
@@ -755,7 +755,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,577,289 (Ukraine) (as of 27 March 2023)<br>
+_refugees (country of origin)_: 1,581,148 (Ukraine) (as of 3 April 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

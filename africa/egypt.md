@@ -208,9 +208,8 @@ _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 (2021 est.) <0.1%<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_water contact diseases_: schistosomiasis<br>
 
 **Obesity - adult prevalence rate**<br>
 32% (2016)<br>
@@ -285,9 +284,8 @@ _rate of urbanization_: 1.9% annual rate of change (2020-25 est.)<br>
 0.15% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_water contact diseases_: schistosomiasis<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 21 million tons (2012 est.)<br>
@@ -657,8 +655,8 @@ mix of state-run and private broadcast media; state-run TV operates 2 national a
 .eg<br>
 
 **Internet users**<br>
-_total_: 73,680,770 (2020 est.)<br>
-_percent of population_: 72% (2020 est.)<br>
+_total_: 79.2 million (2021 est.)<br>
+_percent of population_: 72% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 9,349,469 (2020 est.)<br>

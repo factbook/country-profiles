@@ -177,11 +177,6 @@ _unimproved: total_: total: 3% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -223,11 +218,6 @@ _other_: 43.8% (2018 est.)<br>
 **Urbanization**<br>
 _urban population_: 62.3% of total population (2023)<br>
 _rate of urbanization_: 0.65% annual rate of change (2020-25 est.)<br>
-
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 147,000 tons (2013 est.)<br>
@@ -535,8 +525,8 @@ French public overseas broadcaster Reseau Outre-Mer provides 2 TV channels and 1
 .pf<br>
 
 **Internet users**<br>
-_total_: 203,878 (2019 est.)<br>
-_percent of population_: 73% (2019 est.)<br>
+_total_: 218,100 (2021 est.)<br>
+_percent of population_: 72.7% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 64,000 (2020 est.)<br>

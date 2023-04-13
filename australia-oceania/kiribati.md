@@ -188,11 +188,6 @@ _unimproved: total_: total: 37.9% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
-
 **Obesity - adult prevalence rate**<br>
 46% (2016)<br>
 
@@ -266,11 +261,6 @@ _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
-
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 35,724 tons (2016 est.)<br>
@@ -597,8 +587,8 @@ multi-channel TV packages provide access to Australian and US stations; 1 govern
 .ki<br>
 
 **Internet users**<br>
-_total_: 45,390 (2020 est.)<br>
-_percent of population_: 38% (2020 est.)<br>
+_total_: 70,200 (2021 est.)<br>
+_percent of population_: 54% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 185 (2020 est.)<br>
@@ -642,7 +632,7 @@ _major seaport(s)_: Betio (Tarawa Atoll), Canton Island, English Harbor<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Kiribati Police and Prison Service (Ministry of Justice)<br>
+no regular military forces; Kiribati Police and Prison Service (Ministry of Justice) (2023)<br>
 
 **Military - note**<br>
 defense assistance is provided by Australia and NZ<br><br>Kiribati has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Kiribati's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2022)<br>

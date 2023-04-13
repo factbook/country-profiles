@@ -198,9 +198,9 @@ _unimproved: total_: total: 7% of population (2020 est.)<br>
 0.2% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever and malaria<br>
+_vectorborne diseases_: dengue fever<br>
 
 **Obesity - adult prevalence rate**<br>
 21.4% (2016)<br>
@@ -273,9 +273,9 @@ _rate of urbanization_: 2.48% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
+_degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever and malaria<br>
+_vectorborne diseases_: dengue fever<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,162,028 tons (2016 est.)<br>
@@ -635,8 +635,8 @@ multiple privately owned terrestrial TV networks, supplemented by multiple cable
 .hn<br>
 
 **Internet users**<br>
-_total_: 4,159,935 (2020 est.)<br>
-_percent of population_: 42% (2020 est.)<br>
+_total_: 4.8 million (2021 est.)<br>
+_percent of population_: 48% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 396,916 (2020)<br>
@@ -699,9 +699,9 @@ Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Hond
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
 1.6% of GDP (2020 est.)<br>
-1.6% of GDP (2019 est.) (approximately $510 million)<br>
-1.6% of GDP (2018 est.) (approximately $500 million)<br>
-1.7% of GDP (2017 est.) (approximately $510 million)<br>
+1.6% of GDP (2019 est.)<br>
+1.6% of GDP (2018 est.)<br>
+1.7% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Military Police of Public Order); approximately 18,000 National Police (2022)<br>

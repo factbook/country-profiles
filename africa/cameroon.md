@@ -202,7 +202,7 @@ _unimproved: total_: total: 40.3% of population (2020 est.)<br>
 2.9% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and&nbsp;dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -291,7 +291,7 @@ _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and&nbsp;dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -317,9 +317,9 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km), Niger (2,261,741 sq km)<br>Int
 Lake Chad Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 250 million cubic meters (2019 est.)<br>
-_industrial_: 100 million cubic meters (2019 est.)<br>
-_agricultural_: 740 million cubic meters (2019 est.)<br>
+_municipal_: 250 million cubic meters (2020 est.)<br>
+_industrial_: 100 million cubic meters (2020 est.)<br>
+_agricultural_: 740 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 283.2 billion cubic meters (2019 est.)<br>
@@ -553,7 +553,7 @@ $7.731 billion (2019 est.)<br>
 China 17%, Netherlands 14%, Italy 9%, United Arab Emirates 8%, India 7%, United States 6%, Belgium 6%, Spain 5%, France 5% (2019)<br>
 
 **Exports - commodities**<br>
-crude petroleum, cocoa beans, lumber, gold, natural gas, bananas (2019)<br>
+crude petroleum, natural gas, cocoa beans, lumber, gold, bananas (2021)<br>
 
 **Imports**<br>
 $9.027 billion (2021 est.) note: data are in current year dollars<br>
@@ -668,8 +668,8 @@ government maintains tight control over broadcast media; state-owned Cameroon Ra
 .cm<br>
 
 **Internet users**<br>
-_total_: 10,087,428 (2020 est.)<br>
-_percent of population_: 38% (2020 est.)<br>
+_total_: 12.42 million (2021 est.)<br>
+_percent of population_: 46% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 722,579 (2020 est.)<br>
@@ -772,7 +772,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 347,593 (Central African Republic), 126,151 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 349,290 (Central African Republic), 127,919 (Nigeria) (2023)<br>
 _IDPs_: 1.01 million (2023) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>

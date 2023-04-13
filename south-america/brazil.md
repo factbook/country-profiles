@@ -209,7 +209,6 @@ _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 9 December 2022, Brazil has reported a total of 35,497,781 cases of COVID-19 or 16,700.2 cumulative cases of COVID-19 per 100,000 population with a total of 690,577 cumulative deaths or a rate 324.9 cumulative deaths per 100,000 population; as of 7 December 2022, 87.36% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 22.1% (2016)<br>
@@ -291,7 +290,6 @@ _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 9 December 2022, Brazil has reported a total of 35,497,781 cases of COVID-19 or 16,700.2 cumulative cases of COVID-19 per 100,000 population with a total of 690,577 cumulative deaths or a rate 324.9 cumulative deaths per 100,000 population; as of 7 December 2022, 87.36% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 79,889,010 tons (2015 est.)<br>
@@ -312,9 +310,9 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Para
 Amazon Basin, Guarani Aquifer System, Maranhao Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 16.96 billion cubic meters (2019 est.)<br>
-_industrial_: 10.44 billion cubic meters (2019 est.)<br>
-_agricultural_: 43.03 billion cubic meters (2019 est.)<br>
+_municipal_: 16.13 billion cubic meters (2020 est.)<br>
+_industrial_: 9.51 billion cubic meters (2020 est.)<br>
+_agricultural_: 41.42 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 8.6 trillion cubic meters (2019 est.)<br>
@@ -552,7 +550,7 @@ $260.075 billion (2019 est.)<br>
 China 28%, United States 13% (2019)<br>
 
 **Exports - commodities**<br>
-soybeans, crude petroleum, iron, corn, wood pulp products (2019)<br>
+iron, soybeans, crude petroleum, sugar, poultry meats (2021)<br>
 
 **Imports**<br>
 $297.924 billion (2021 est.) note: data are in current year dollars<br>
@@ -665,8 +663,8 @@ state-run Radiobras operates a radio and a TV network; more than 1,000 radio sta
 .br<br>
 
 **Internet users**<br>
-_total_: 172,173,121 (2020 est.)<br>
-_percent of population_: 81% (2020 est.)<br>
+_total_: 170.1 million (2021 est.)<br>
+_percent of population_: 81% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 36,344,670 (2020 est.)<br>

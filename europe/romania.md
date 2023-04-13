@@ -702,8 +702,8 @@ Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Interna
 1.8% of GDP (2022 est.)<br>
 2% of GDP (2021)<br>
 2% of GDP (2020)<br>
-1.8% of GDP (2019) (approximately $7.47 billion)<br>
-1.8% of GDP (2018) (approximately $6.9 billion)<br>
+1.8% of GDP (2019)<br>
+1.8% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 75,000 active duty personnel (58,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2022)<br>
@@ -732,9 +732,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 109,559 (Ukraine) (as of 26 March 2023)<br>
+_refugees (country of origin)_: 107,706 (Ukraine) (as of 2 April 2023)<br>
 _stateless persons_: 297 (2022)<br>
-<strong>note:</strong> 12,730 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
+<strong>note:</strong> 12,969 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis</p><br>

@@ -199,9 +199,9 @@ _unimproved: total_: total: 42% of population (2020 est.)<br>
 1.5% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
+_vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever (2016)<br>
@@ -282,9 +282,9 @@ _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
+_vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever (2016)<br>
@@ -645,8 +645,8 @@ _international_: country code - 224; ACE submarine cable connecting Guinea with 
 .gn<br>
 
 **Internet users**<br>
-_total_: 3,414,526 (2020 est.)<br>
-_percent of population_: 26% (2020 est.)<br>
+_total_: 4.9 million (2021 est.)<br>
+_percent of population_: 35% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2020 est.)<br>

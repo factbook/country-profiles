@@ -203,7 +203,7 @@ _unimproved: total_: total: 64.5% of population (2020 est.)<br>
 0.7% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria, dengue fever, and trypanosomiasis-gambiense (African sleeping sickness)<br>
 _water contact diseases_: schistosomiasis<br>
@@ -291,7 +291,7 @@ _rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria, dengue fever, and trypanosomiasis-gambiense (African sleeping sickness)<br>
 _water contact diseases_: schistosomiasis<br>
@@ -319,9 +319,9 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> N
 Congo Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 460 million cubic meters (2019 est.)<br>
-_industrial_: 150 million cubic meters (2019 est.)<br>
-_agricultural_: 70 million cubic meters (2019 est.)<br>
+_municipal_: 460 million cubic meters (2020 est.)<br>
+_industrial_: 150 million cubic meters (2020 est.)<br>
+_agricultural_: 70 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 1.3 trillion cubic meters (2019 est.)<br>
@@ -551,7 +551,7 @@ $15.173 billion (2019 est.)<br>
 China 53%, United Arab Emirates 11%, Saudi Arabia 6%, South Korea 5% (2019)<br>
 
 **Exports - commodities**<br>
-copper, cobalt, crude petroleum, diamonds (2019)<br>
+copper, cobalt, crude petroleum, tin, diamonds (2021)<br>
 
 **Imports**<br>
 $22.193 billion (2021 est.) note: data are in current year dollars<br>
@@ -666,8 +666,8 @@ state-owned TV broadcast station with near national coverage; more than a dozen 
 .cd<br>
 
 **Internet users**<br>
-_total_: 12,538,597 (2020 est.)<br>
-_percent of population_: 14% (2020 est.)<br>
+_total_: 21,102,720 (2021 est.)<br>
+_percent of population_: 23.2% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 31,000 (2020 est.)<br>

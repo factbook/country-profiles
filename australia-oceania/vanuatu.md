@@ -183,11 +183,6 @@ _unimproved: total_: total: 31.8% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
-
 **Obesity - adult prevalence rate**<br>
 25.2% (2016)<br>
 
@@ -257,11 +252,6 @@ _rate of urbanization_: 2.55% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
-
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 70,225 tons (2012 est.)<br>
@@ -443,7 +433,7 @@ _female_: 5.6% (2021 est.)<br>
 NA<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-37.6 (2010 est.)<br>
+32.3 (2019 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
@@ -581,16 +571,16 @@ _Total energy consumption per capita 2019_: 10.878 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,472 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
+_total subscriptions_: 3,600 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 265,219 (2019)<br>
-_subscriptions per 100 inhabitants_: 88.44 (2019)<br>
+_total subscriptions_: 250,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 78 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: for many years, 2G Global System for Mobile Communications was the primary mobile technology for Vanuatu&rsquo;s 300,000 people; recent infrastructure projects have improved access technologies, with a transition to 3G and, to a limited degree, to LTE; Vanuatu has also benefited from the ICN1 submarine cable and the launch of the Kacific-1 satellite, both of which have considerably improved access to telecom services in recent years; Vanuatu&rsquo;s telecom sector is liberalized, with the two prominent mobile operators; while fixed broadband penetration remains low, the incumbent operator is slowly exchanging copper fixed-lines for fiber; a number of ongoing submarine cable developments will also assist in increasing data rates and reduce internet pricing in coming years (2021)<br>
-_domestic_: fixed-line teledensity a bit over 1 per 100 and mobile-cellular just over 80 per 100 (2020)<br>
+_domestic_: fixed-line teledensity is 1 per 100 and mobile-cellular 78 per 100 (2021)<br>
 _international_: country code - 678; landing points for the ICN1 &amp; ICN2 submarine cables providing connectivity to the Solomon Islands and Fiji; cables helped end-users with Internet bandwidth; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)<br>
 
 **Broadcast media**<br>
@@ -647,11 +637,11 @@ _major seaport(s)_: Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila<br
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Internal Affairs: Vanuatu Police Force (VPF; includes Vanuatu Mobile Force (VMF) and Police Maritime Wing (VPMW)) (2022)<br>
-<strong>note:</strong> the paramilitary Vanuatu Mobile Force also has external security responsibilities<br>
+no regular military forces; Ministry of Internal Affairs: Vanuatu Police Force (VPF) (2023)<br>
+<strong>note:</strong> the VPF includes the Vanuatu Mobile Force (VMF) and Police Maritime Wing (VPMW); the paramilitary VMF also has external security responsibilities<br>
 
 **Military - note**<br>
-the separate British and French police forces were unified in 1980 under Ni-Vanuatu officers as the New Hebrides Constabulary; the force retained some British and French officers as advisors; the Constabulary was subsequently renamed the Vanuatu Police Force later in 1980<br><br>the Vanuatu Mobile Force has received training and other support from Australia, China, France, New Zealand, and the US<br><br>Vanuatu has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Vanuatu's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2022)<br>
+the separate British and French police forces were unified in 1980 under Ni-Vanuatu officers as the New Hebrides Constabulary; the force retained some British and French officers as advisors; the Constabulary was subsequently renamed the Vanuatu Police Force later in 1980<br><br>the Vanuatu Mobile Force has received training and other support from Australia, China, France, New Zealand, and the US<br><br>Vanuatu has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Vanuatu's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
 
 ## Transnational Issues
 

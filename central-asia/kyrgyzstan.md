@@ -635,8 +635,8 @@ state-funded public TV broadcaster KTRK has nationwide coverage; also operates A
 .kg<br>
 
 **Internet users**<br>
-_total_: 3,683,700 (July 2022 est.)<br>
-_percent of population_: 55% (July 2022 est.)<br>
+_total_: 5.07 million (2021 est.)<br>
+_percent of population_: 78% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 289,000 (2020 est.)<br>
@@ -687,14 +687,14 @@ _lake port(s)_: Balykchy (Ysyk-Kol or Rybach'ye)(Lake Ysyk-Kol)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Kyrgyz Republic: Land Forces, Air Defense Forces, National Guard; Internal Troops; State Committee for National Security (GKNB): State Border Service (2022)<br>
+Armed Forces of the Kyrgyz Republic: Land Forces, Air Defense Forces, National Guard; Internal Troops; State Committee for National Security (GKNB): State Border Service (2023)<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
-2.3% of GDP (2019 est.) (approximately $410 million)<br>
-2.3% of GDP (2018 est.) (approximately $400 million)<br>
-2.3% of GDP (2017 est.) (approximately $390 million)<br>
+2.3% of GDP (2019 est.)<br>
+2.3% of GDP (2018 est.)<br>
+2.3% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 14,000 active-duty troops (8,500 Land Forces; 2,500 Air Force/Air Defense; 3,000 National Guard) (2022)<br>
@@ -706,7 +706,7 @@ the Kyrgyz military inventory is comprised of mostly older Russian and Soviet-er
 18-27 years of age for compulsory or voluntary service for men in the Armed Forces or Interior Ministry; 12-month service obligation (9 months for university graduates), with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2023)<br>
 
 **Military - note**<br>
-Kyrgyzstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; it also started a relationship with NATO in 1992 and joined NATO's Partnership for Peace program in 1994 (2023)<br>
+Kyrgyzstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; it also started a relationship with NATO in 1992 and joined NATO's Partnership for Peace program in 1994<br><br>the Kyrgyz military’s primary responsibility is defense of the country’s sovereignty and territory, although it also has some internal security duties; elements of the military were called out in 2020 to respond to post-election demonstrations for example, and the National Guard’s missions include counterterrorism, responding to emergencies, and the protection of government facilities; the military also participates in UN and CSTO peacekeeping missions; border disputes with Tajikistan and Uzbekistan, as well as the threat posed by militant Islamic groups, have been particular areas of concern for both the military and internal security forces; the military’s closest security partner is Russia, which provides training and material assistance, and maintains a presence in the country, including an airbase; the military also conducts training with other regional countries such as India, traditionally with a focus on counterterrorism<br><br>the Kyrgyz military was formed in 1992 from Soviet Army units then based in Kyrgyzstan following the dissolution of the USSR; while the current organization continues to be based on those former Soviet formations, specific information is limited and varied; the Army’s principal combat units are reportedly a few small Soviet-style “motor rifle” (mechanized) infantry brigades, plus brigades of mountain infantry, special forces, and artillery; the National Guard has some rapid reaction and special forces units; the Air Defense Forces reportedly have only a few operational combat helicopters (2023)<br>
 
 ## Terrorism
 

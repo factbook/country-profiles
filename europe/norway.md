@@ -692,8 +692,8 @@ Norwegian Armed Forces: Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige
 1.6% of GDP (2022 est.)<br>
 1.7% of GDP (2021)<br>
 2% of GDP (2020)<br>
-1.9% of GDP (2019) (approximately $8.66 billion)<br>
-1.7% of GDP (2018) (approximately $8.02 billion)<br>
+1.9% of GDP (2019)<br>
+1.7% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 27,000 active personnel (9,000 Army; 4,300 Navy; 4,700 Air Force; 9,000 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); approximately 40,000 Home Guard (2022)<br>
@@ -719,6 +719,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 44,014 (Ukraine) (as of 27 March 2023)<br>
+_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 44,798 (Ukraine) (as of 3 April 2023)<br>
 _stateless persons_: 3,901 (2022)<br>
 

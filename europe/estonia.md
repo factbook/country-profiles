@@ -63,6 +63,9 @@ _other_: 25.7% (2018 est.)<br>
 **Irrigated land**<br>
 20 sq km (2016)<br>
 
+**Major lakes (area sq km)**<br>
+_fresh water lake(s)_: Lake Peipus - 4,300 sq km (shared with Russia); Lake V&otilde;rtsj&auml;rv - 270 sq km<br>
+
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
@@ -276,9 +279,12 @@ _municipal solid waste generated annually_: 473,000 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 117,020 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 24.7% (2015 est.)<br>
 
+**Major lakes (area sq km)**<br>
+_fresh water lake(s)_: Lake Peipus - 4,300 sq km (shared with Russia); Lake V&otilde;rtsj&auml;rv - 270 sq km<br>
+
 **Total water withdrawal**<br>
-_municipal_: 80 million cubic meters (2020 est.)<br>
-_industrial_: 920 million cubic meters (2020 est.)<br>
+_municipal_: 60 million cubic meters (2020 est.)<br>
+_industrial_: 790 million cubic meters (2020 est.)<br>
 _agricultural_: 4.5 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
@@ -627,8 +633,8 @@ the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV cha
 .ee<br>
 
 **Internet users**<br>
-_total_: 1,276,521 (July 2022 est.)<br>
-_percent of population_: 96.1% (July 2022 est.)<br>
+_total_: 1.183 million (2021 est.)<br>
+_percent of population_: 91% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 415,610 (2020 est.)<br>
@@ -718,7 +724,7 @@ Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a 
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 68,930 (Ukraine) (as of 27 March 2023)<br>
+_refugees (country of origin)_: 68,930 (Ukraine) (as of 3 April 2023)<br>
 _stateless persons_: 70,604 (2022); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

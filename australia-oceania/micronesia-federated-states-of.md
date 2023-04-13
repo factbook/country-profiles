@@ -176,11 +176,6 @@ _unimproved: total_: total: 11.7% of population (2017 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
-
 **Obesity - adult prevalence rate**<br>
 45.8% (2016)<br>
 
@@ -241,11 +236,6 @@ _rate of urbanization_: 1.52% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
 0.02% of GDP (2018 est.)<br>
-
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 26,040 tons (2016 est.)<br>
@@ -590,7 +580,7 @@ _major seaport(s)_: Colonia (Tamil Harbor), Molsron Lele Harbor, Pohnepi Harbor<
 ## Military and Security
 
 **Military and security forces**<br>
-no military forces; Federated States of Micronesia National Police (includes a maritime wing)<br>
+no military forces; Federated States of Micronesia National Police (includes a maritime wing); the Department of Justice oversees the National Police; State police forces are responsible for law enforcement in their respective states and are under the jurisdiction of each state&rsquo;s director of public safety (2023)<br>
 
 **Military - note**<br>
 defense is the responsibility of the US<br><br>Micronesia has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Micronesia's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2022)<br>

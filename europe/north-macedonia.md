@@ -669,8 +669,8 @@ Army of the Republic of North Macedonia (ARSM): includes a General Staff and sub
 1.6% of GDP (2022 est.)<br>
 1.5% of GDP (2021)<br>
 1.3% of GDP (2020)<br>
-1.2% of GDP (2019) (approximately $310 million)<br>
-0.9% of GDP (2018) (approximately $280 million)<br>
+1.2% of GDP (2019)<br>
+0.9% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 6,000 active duty personnel (2022)<br>
@@ -697,9 +697,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,571 (Ukraine) (as of 27 March 2023)<br>
+_refugees (country of origin)_: 6,562 (Ukraine) (as of 3 April 2023)<br>
 _stateless persons_: 521 (2022)<br>
-<strong>note:</strong> 552,030 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
+<strong>note:</strong> 553,109 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

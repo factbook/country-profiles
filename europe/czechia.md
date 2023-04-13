@@ -281,9 +281,9 @@ Danube (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bu
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 650 million cubic meters (2019 est.)<br>
-_industrial_: 820 million cubic meters (2019 est.)<br>
-_agricultural_: 40 million cubic meters (2019 est.)<br>
+_municipal_: 630 million cubic meters (2020 est.)<br>
+_industrial_: 700 million cubic meters (2020 est.)<br>
+_agricultural_: 40 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 13.2 billion cubic meters (2019 est.)<br>
@@ -517,7 +517,7 @@ $186.545 billion (2019 est.)<br>
 Germany 31%, Slovakia 7%, Poland 6%, France 5% (2019)<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, computers, broadcasting equipment, office machinery/parts, seating (2019)<br>
+cars and vehicle parts, computers, broadcasting equipment, office machinery and parts, insulated wiring (2021)<br>
 
 **Imports**<br>
 $196.243 billion (2021 est.) note: data are in current year dollars<br>
@@ -630,8 +630,8 @@ _international_: country code - 420; satellite earth stations - 6 (2 Intersputni
 .cz<br>
 
 **Internet users**<br>
-_total_: 9,323,428 (July 2022 est.)<br>
-_percent of population_: 86.8% (July 2022 est.)<br>
+_total_: 9.13 million (2021 est.)<br>
+_percent of population_: 83% (20201 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,845,426 (2020 est.)<br>
@@ -721,7 +721,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 503,698 (Ukraine) (as of 26 March 2023)<br>
+_refugees (country of origin)_: 504,352 (Ukraine) (as of 2 April 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

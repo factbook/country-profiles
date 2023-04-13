@@ -469,7 +469,7 @@ _female_: 24.6% (2021 est.)<br>
 11.9% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-25.2 (2016 est.)<br>
+23.2 (2019 est.)<br>
 
 **Average household expenditures**<br>
 _on food_: 18.4% of household expenditures (2018 est.)<br>
@@ -615,8 +615,8 @@ _total subscriptions_: 577,390 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 11 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,362,325 (2021)<br>
-_subscriptions per 100 inhabitants_: 135 (2021)<br>
+_total subscriptions_: 7,362,325 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 135 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the broadband market has shown steady growth in recent years; fiber has become the principal platform for fixed broadband services, followed by DSL; the cable sector is a distant third in terms of subscribers, though cable is particularly strong in urban areas; mobile broadband access and content services are developing rapidly in line with operators having upgraded their networks; the regulator prepared the groundwork for 5G services in line with European Union requirements, with concessions in the 3.5GHz range followed by those in the 700MHz, 900MHz and 1800MHz bands; 5G was launched in late 2021 and is expected to cover about a fifth of the population by the end of 2022 (2021)<br>
@@ -689,8 +689,8 @@ Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land 
 1.8% of GDP (2022 est.)<br>
 1.7% of GDP (2021)<br>
 2% of GDP (2020)<br>
-1.7% of GDP (2019) (approximately $2.34 billion)<br>
-1.2% of GDP (2018) (approximately $1.72 billion)<br>
+1.7% of GDP (2019)<br>
+1.2% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 14,000 active-duty personnel (8,000 Land Forces; 4,000 Air Forces; 2,000 other, including staff, special operations, and support forces) (2022)<br>
@@ -715,7 +715,7 @@ Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host
 <p><em>Slovakia-Austria</em>: none identified</p> <p><em>Slovakia-Czechia</em>: none identified</p> <p><em>Slovakia-Hungary</em>: initiated by the 1977 Budapest Treaty, Hungary and formerly Czechoslovakia agreed to a hydroelectric dam project on the Danube with dams to be constructed at Gabcikovo (Slovakia) and Nagymaros (Hungary) to prevent floods, improve river navigability, and to generate electricity; when Hungary suspended work on the project until its environmental impact could be assessed, Slovakia continued working on it and adopted a pared down strategy to divert the Danube so that all construction was within Czechoslovakian territory; Hungary terminated the project on environmental and economic grounds in 1989, and in 1992 both countries took the matter to the International Court of Justice (ICJ); the ICJ found largely in favor of then Slovakia, finding Hungary had breached their agreement; however, then Czechoslovakia should not have begun the alternative plan before the ICJ ruled on the case; in 2017, Hungary and Slovakia agreed to discontinue the ICJ proceedings</p> <p><em>Slovakia-Poland</em>: none identified</p> <p><em>Slovakia-Ukraine</em>: tens of thousands of Ukrainian refugees are crossing the border to Slovakia to escape the Russian invasion in their country</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 112,715 (Ukraine) (as of 26 March 2023)<br>
+_refugees (country of origin)_: 113,253 (Ukraine) (as of 2 April 2023)<br>
 _stateless persons_: 2,940 (2022)<br>
 
 **Illicit drugs**<br>

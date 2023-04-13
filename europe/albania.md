@@ -286,9 +286,9 @@ _fresh water lake(s)_: Lake Scutari (shared with Montenegro) - 400 sq km<br>note
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 240 million cubic meters (2019 est.)<br>
-_industrial_: 200 million cubic meters (2019 est.)<br>
-_agricultural_: 700 million cubic meters (2019 est.)<br>
+_municipal_: 230 million cubic meters (2020 est.)<br>
+_industrial_: 20 million cubic meters (2020 est.)<br>
+_agricultural_: 550 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 30.2 billion cubic meters (2019 est.)<br>
@@ -520,7 +520,7 @@ $4.822 billion (2019 est.)<br>
 Italy 45%, Spain 8%, Germany 6%, Greece 5%, France 4%, China 4% (2019)<br>
 
 **Exports - commodities**<br>
-leather footwear and parts, crude petroleum, iron alloys, clothing, electricity, perfumes (2019)<br>
+leather footwear and parts, electricity, crude petroleum, iron alloys, clothing, insulated wiring (2021)<br>
 
 **Imports**<br>
 $8.004 billion (2021 est.) note: data are in current year dollars<br>
@@ -633,8 +633,8 @@ Albania has more than 65 TV stations, including several that broadcast nationall
 .al<br>
 
 **Internet users**<br>
-_total_: 2,043,251 (2020 est.)<br>
-_percent of population_: 72% (2020 est.)<br>
+_total_: 2.291 million (2021 est.)<br>
+_percent of population_: 79% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 508,937 (2020 est.)<br>
@@ -717,7 +717,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 1,948 (2022)<br>
-<strong>note:</strong> 42,822 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
+<strong>note:</strong> 43,310 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 <p>active transshipment point for Albanian narco-trafficking organizations moving illicit drugs such as cocaine and heroin from Turkey and countries in South America and Asia throughout Europe; significant source country for cannabis production</p><br>

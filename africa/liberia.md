@@ -191,9 +191,9 @@ _unimproved: total_: total: 52.5% of population (2020 est.)<br>
 1.1% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
+_vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
@@ -275,9 +275,9 @@ _rate of urbanization_: 3.41% annual rate of change (2015-20 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
+_vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
@@ -672,7 +672,7 @@ _major seaport(s)_: Buchanan, Monrovia<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Liberia (AFL): Army, Liberian Coast Guard, Air Wing (2023)<br>
+Armed Forces of Liberia (AFL): Army, Liberian Coast Guard, Air Wing; Ministry of Justice: Liberia National Police, Liberia Drug Enforcement Agency (2023)<br>
 <strong>note:</strong> the AFL Air Wing was previously disbanded in 2005 and has been under redevelopment since 2019; the Liberian National Police and the Liberian Drug Enforcement Agency are under the Ministry of Justice<br>
 
 **Military expenditures**<br>

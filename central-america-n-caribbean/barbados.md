@@ -258,9 +258,9 @@ _municipal solid waste recycled annually_: 15,733 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 9% (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 20 million cubic meters (2019 est.)<br>
-_industrial_: 1 million cubic meters (2019 est.)<br>
-_agricultural_: 5 million cubic meters (2019 est.)<br>
+_municipal_: 20 million cubic meters (2020 est.)<br>
+_industrial_: 10 million cubic meters (2020 est.)<br>
+_agricultural_: 5 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 80 million cubic meters (2019 est.)<br>
@@ -481,7 +481,7 @@ $516.9 million (2016 est.)<br>
 US 21%, Poland 14%, Jamaica 8%, Guyana 6%,Trinidad and Tobago 6% (2019)<br>
 
 **Exports - commodities**<br>
-rums and other hard liquor, ships, orthopedic appliances, cement, packaged medicines (2019)<br>
+rums and liquors, ships, packaged medicines, cement, paper labels (2021)<br>
 
 **Imports**<br>
 $2.213 billion (2017 est.)<br>
@@ -594,8 +594,8 @@ government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terr
 .bb<br>
 
 **Internet users**<br>
-_total_: 235,357 (2019 est.)<br>
-_percent of population_: 82% (2019 est.)<br>
+_total_: 240,800 (2021 est.)<br>
+_percent of population_: 86% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 128,000 (2020 est.)<br>

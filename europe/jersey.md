@@ -435,8 +435,8 @@ multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey; 
 .je<br>
 
 **Internet users**<br>
-_total_: 44,198 (2019 est.)<br>
-_percent of population_: 41% (2019 est.)<br>
+_total_: 96,038 (2021 est.)<br>
+_percent of population_: 93% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 39,699 (2020 est.)<br>

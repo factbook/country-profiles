@@ -186,9 +186,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 (2021 est.) <0.1%<br>
 
-**Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 9 December 2022, Lebanon has reported a total of 1,220,831 cases of COVID-19 or 17,886.46 cumulative cases of COVID-19 per 100,000 population with a total of 10,740 cumulative deaths or a rate of 157.35 cumulative deaths per 100,000 population; as of 1 December 2022, 49.9% of the population has received at least one dose of COVID-19 vaccine<br>
-
 **Obesity - adult prevalence rate**<br>
 32% (2016)<br>
 
@@ -267,9 +264,6 @@ _rate of urbanization_: -1.23% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
-
-**Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 9 December 2022, Lebanon has reported a total of 1,220,831 cases of COVID-19 or 17,886.46 cumulative cases of COVID-19 per 100,000 population with a total of 10,740 cumulative deaths or a rate of 157.35 cumulative deaths per 100,000 population; as of 1 December 2022, 49.9% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to the ongoing financial and economic crisis -</em> in September 2021, the United Nations estimated that, taking into account multiple factors other than income, such as access to health, education and public utilities, 82% of the population lives in multidimensional poverty in 2021, up from 42% in 2019 (2022)<br>
@@ -690,15 +684,15 @@ _container port(s) (TEUs)_: Beirut (1,229,100) (2019)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, Land Border Regiments), Naval Forces, Air Forces; Ministry of Interior: Internal Security Forces Directorate (law enforcement; includes Mobile Gendarmerie), Directorate for General Security (DGS; border control, some domestic security duties) (2022)<br>
-<strong>note:</strong> the commander of the LAF is also the commander of the Army; the LAF patrols external borders, while official border checkpoints are under the authority of Directorate for General Security<br>
+Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, Land Border Regiments), Naval Forces, Air Forces; Ministry of Interior: Internal Security Forces Directorate (law enforcement; includes Mobile Gendarmerie), Directorate for General Security (DGS; border control, some domestic security duties); Parliamentary Police Force (2023)<br>
+<strong>note 1:</strong> the commander of the LAF is also the commander of the Army; the LAF patrols external borders, while official border checkpoints are under the authority of Directorate for General Security<br><br><strong>note 2:</strong> the Parliamentary Police Force reports to the speaker of parliament and has responsibility for protecting parliament premises and the speaker’s residence; both the Internal Security Forces and the Lebanese Armed Forces provide units to the Parliamentary Police Force<br>
 
 **Military expenditures**<br>
 3.2% of GDP (2021 est.)<br>
 3% of GDP (2020 est.)<br>
-4.7% of GDP (2019 est.) (approximately $3.6 billion)<br>
-5.1% of GDP (2018 est.) (approximately $4.1 billion)<br>
-4.6% of GDP (2017 est.) (approximately $3.95 billion)<br>
+4.7% of GDP (2019 est.)<br>
+5.1% of GDP (2018 est.)<br>
+4.6% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 80,000 active troops (77,000 Army; 1,500 Navy; 1,500 Air Force) (2022)<br>

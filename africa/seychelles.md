@@ -445,7 +445,7 @@ _female_: 15.6% (2020 est.)<br>
 25.3% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-46.8 (2013 est.)<br>
+32.1 (2018 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 4.7%<br>
@@ -585,8 +585,8 @@ _total subscriptions_: 18,768 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 18 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 184,161 (2021)<br>
-_subscriptions per 100 inhabitants_: 173 (2021)<br>
+_total subscriptions_: 184,161 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 173 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: effective system; direct international calls to over 100 countries; radiotelephone communications between islands in the archipelago; 3 ISPs; use of Internet cafes' for access to Internet; 4G services and 5G pending (2020)<br>
@@ -650,7 +650,7 @@ _major seaport(s)_: Victoria<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Seychelles Defense Forces (SDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force; Ministry of Internal Affairs: Seychelles Police Force (includes unarmed police and an armed paramilitary Police Special Support Wing, the Anti-Narcotics Bureau, and the Marine Police Unit) (2022)<br>
+Seychelles Defense Forces (SDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force; Ministry of Internal Affairs: Seychelles Police Force (includes unarmed police and an armed paramilitary Police Special Support Wing, and the Marine Police Unit) (2023)<br>
 <strong>note:</strong> the military reports to the president, who acts as minister of defense  <br>
 
 **Military expenditures**<br>
@@ -670,7 +670,7 @@ the SDF's inventory primarily consists of Soviet-era equipment delivered in the 
 18-28 (18-25 for officers) years of age for voluntary military service for men and women; 6-year initial commitment; no conscription (2022)<br>
 
 **Military - note**<br>
-formed in 1977, the SDF is one of the world's smallest militaries; its primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling; the Seychelles have strong security ties with India (2022)<br>
+formed in 1977, the SDF is one of the world's smallest militaries; its primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling; it was given police powers in 2022; the Seychelles have strong security ties with India (2023)<br>
 
 ## Transnational Issues
 

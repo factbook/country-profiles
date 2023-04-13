@@ -186,11 +186,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2021 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
-
 **Obesity - adult prevalence rate**<br>
 30.2% (2016)<br>
 
@@ -260,11 +255,6 @@ _rate of urbanization_: 1.37% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 189,390 tons (2011 est.)<br>
 _municipal solid waste recycled annually_: 10,322 tons (2013 est.)<br>
@@ -272,7 +262,7 @@ _percent of municipal solid waste recycled_: 5.5% (2013 est.)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 30 million cubic meters (2020 est.)<br>
-_industrial_: 9.6 million cubic meters (2020 est.)<br>
+_industrial_: 10 million cubic meters (2020 est.)<br>
 _agricultural_: 50 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
@@ -613,8 +603,8 @@ Fiji TV, a publicly traded company, operates a free-to-air channel; Digicel Fiji
 .fj<br>
 
 **Internet users**<br>
-_total_: 444,978 (2019 est.)<br>
-_percent of population_: 50% (2019 est.)<br>
+_total_: 809,600 (2021 est.)<br>
+_percent of population_: 88% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 23,062 (2020 est.)<br>
@@ -668,7 +658,7 @@ _major seaport(s)_: Lautoka, Levuka, Suva<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Fiji Military Force (RFMF): Land Force Command, Maritime Command; Fiji Police Force (2022)<br>
+Republic of Fiji Military Force (RFMF): Land Force Command, Maritime Command; Fiji Police Force (2023)<br>
 <strong>note: </strong>the RFMF is subordinate to the president as the commander-in-chief, while the Fiji Police Force reports to the the Ministry of Defense, National Security, and Policing<br>
 
 **Military expenditures**<br>

@@ -175,11 +175,6 @@ _unimproved: total_: total: 3.7% of population (2017 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
-
 **Obesity - adult prevalence rate**<br>
 61% (2016)<br>
 
@@ -245,11 +240,6 @@ _rate of urbanization_: 0.18% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
 0% of GDP (2018 est.)<br>
-
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 6,192 tons (2016 est.)<br>
@@ -597,10 +587,10 @@ _major seaport(s)_: Nauru<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the police force, under the Minister for Police and Emergency Services, maintains internal security and, as necessary, external security<br>
+no regular military forces; the police force, under the Minister for Police and Emergency Services, maintains internal security and, as necessary, external security (2023)<br>
 
 **Military - note**<br>
-Nauru maintains no defense forces; under an informal agreement, defense is the responsibility of Australia<br><br>Nauru has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Nauru's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2022)<br>
+Nauru maintains no defense forces; under an informal agreement, defense is the responsibility of Australia<br><br>Nauru has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Nauru's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
 
 ## Transnational Issues
 

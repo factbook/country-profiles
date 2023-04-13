@@ -304,9 +304,9 @@ Volta river source (shared with Ghana [m]) - 1,600 km<br><strong>note</strong> â
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 380 million cubic meters (2019 est.)<br>
-_industrial_: 20 million cubic meters (2019 est.)<br>
-_agricultural_: 420 million cubic meters (2019 est.)<br>
+_municipal_: 380 million cubic meters (2020 est.)<br>
+_industrial_: 20 million cubic meters (2020 est.)<br>
+_agricultural_: 420 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 13.5 billion cubic meters (2019 est.)<br>
@@ -534,7 +534,7 @@ $4.511 billion (2018 est.)<br>
 Switzerland 59%, India 21% (2019)<br>
 
 **Exports - commodities**<br>
-gold, cotton, zinc, cashews, sesame seeds (2019)<br>
+gold, cotton, zinc, cashews, sesame seeds (2021)<br>
 
 **Imports**<br>
 $4.779 billion (2020 est.) note: data are in current year dollars<br>
@@ -648,8 +648,8 @@ since the official inauguration of Terrestrial Digital Television (TNT) in Decem
 .bf<br>
 
 **Internet users**<br>
-_total_: 4,598,721 (2020 est.)<br>
-_percent of population_: 22% (2020 est.)<br>
+_total_: 4.84 million (2021 est.)<br>
+_percent of population_: 22% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 13,979 (2020 est.)<br>

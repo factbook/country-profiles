@@ -198,7 +198,7 @@ _unimproved: total_: total: 15.8% of population (2020 est.)<br>
 2.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _animal contact diseases_: rabies<br>
@@ -279,7 +279,7 @@ _rate of urbanization_: 3.07% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _animal contact diseases_: rabies<br>
@@ -683,14 +683,14 @@ _lake port(s)_: Cyangugu, Gisenyi, Kibuye (Lake Kivu)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Rwanda Defense Force (RDF; Ingabo z&rsquo;u Rwanda): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR), Rwanda Reserve Force, Special Units (2023)<br>
+Rwanda Defense Force (RDF; Ingabo z&rsquo;u Rwanda): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR), Rwanda Reserve Force, Special Units; Ministry of Internal Security: Rwanda National Police (2023)<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
 1.3% of GDP (2020 est.)<br>
-1.2% of GDP (2019 est.) (approximately $220 million)<br>
-1.2% of GDP (2018 est.) (approximately $200 million)<br>
-1.2% of GDP (2017 est.) (approximately $190 million)<br>
+1.2% of GDP (2019 est.)<br>
+1.2% of GDP (2018 est.)<br>
+1.2% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 33,000 active RDF personnel (32,000 Army; 1,000 Air Force) (2022)<br>

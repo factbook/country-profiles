@@ -423,7 +423,7 @@ $2.562 billion (2019 est.)<br>
 Malaysia 57%, United States 11%, Netherlands 6%, Jordan 6%, Venezuela 5% (2019)<br>
 
 **Exports - commodities**<br>
-refined petroleum, liquors, scrap iron, soap, tobacco (2019)<br>
+crude petroleum, cigarettes, whiskies, refined petroleum, scrap iron (2021)<br>
 
 **Imports**<br>
 $1.947 billion (2021 est.) note: data are in current year dollars<br>
@@ -536,8 +536,8 @@ _international_: country code - 297; landing&nbsp;points for the PAN-AM, PCCS, D
 .aw<br>
 
 **Internet users**<br>
-_total_: 103,121 (2019 est.)<br>
-_percent of population_: 97% (2019 est.)<br>
+_total_: 106,800 (2021 est.)<br>
+_percent of population_: 97% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 19,000 (2020 est.)<br>

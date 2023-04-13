@@ -642,8 +642,8 @@ a mixture of publicly operated and privately owned TV and radio stations; 70 nat
 .de<br>
 
 **Internet users**<br>
-_total_: 74,844,784 (2020 est.)<br>
-_percent of population_: 90% (2020 est.)<br>
+_total_: 75.53 million (2021 est.)<br>
+_percent of population_: 91% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 36,215,303 (2020 est.)<br>
@@ -734,7 +734,7 @@ the German Federal Armed Forces inventory is comprised of weapons systems produc
 <strong>note:</strong> in 2021, women accounted for about 12% of the German military<br>
 
 **Military deployments**<br>
-up to 500 Iraq (NATO); 1,030 Lithuania (NATO); up to 1,400 Mali (MINUSMA/EUTM); 280 Slovakia (NATO) (2022)<br>
+up to 500 Iraq (NATO); 1,000 Lithuania (NATO); approximately 1,100 Mali (MINUSMA/EUTM); 280 Slovakia (NATO) (2022)<br>
 <strong>note 1: </strong>in November 2022, Germany pledged to withdraw its troops from Mali by Spring 2024<br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>

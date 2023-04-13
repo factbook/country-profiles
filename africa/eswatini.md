@@ -187,7 +187,7 @@ _unimproved: total_: total: 14.1% of population (2020 est.)<br>
 27.9% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria<br>
 _water contact diseases_: schistosomiasis<br>
@@ -268,7 +268,7 @@ _rate of urbanization_: 2.42% annual rate of change (2020-25 est.)<br>
 0.1% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria<br>
 _water contact diseases_: schistosomiasis<br>
@@ -618,8 +618,8 @@ _international_: country code - 268; satellite earth station - 1 Intelsat (Atlan
 .sz<br>
 
 **Internet users**<br>
-_total_: 539,623 (2019 est.)<br>
-_percent of population_: 47% (2019 est.)<br>
+_total_: 708,000 (2021 est.)<br>
+_percent of population_: 59% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 12,000 (2020 est.)<br>

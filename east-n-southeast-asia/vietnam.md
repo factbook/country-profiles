@@ -199,7 +199,7 @@ _unimproved: total_: total: 6.7% of population (2020 est.)<br>
 0.3% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Japanese encephalitis<br>
 
@@ -274,7 +274,7 @@ _rate of urbanization_: 2.7% annual rate of change (2020-25 est.)<br>
 0.35% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Japanese encephalitis<br>
 
@@ -624,16 +624,16 @@ _Total energy consumption per capita 2019_: 36.392 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,205,775 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
+_total subscriptions_: 3.1 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 136.23 million (2019)<br>
-_subscriptions per 100 inhabitants_: 141.23 (2019)<br>
+_total subscriptions_: 140 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 140 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: even with Covid-19 pandemic-related mobility restrictions in place, Vietnam&rsquo;s economy has continued to outperform the rest of the region in 2020 and 2021; the telecom sector essentially spent most of this period in a holding pattern, focusing on maintaining service throughout the crisis while preparing for some major changes to come in the mobile market in 2022; both fixed-line telephony and mobile have experienced small drops in subscriber numbers since the start of the pandemic, but the similarities between the two markets end there; fixed-line teledensity continued its downwards trajectory towards virtual oblivion, with just 3% penetration (around 3 million subscribers) at the start of 2021; the mobile market has lost about the same number of subscribers since the end of 2019, but has been sitting on much higher penetration levels around 130% for many years; growth is expected to kick in again in 2022 following the anticipated launch of commercial 5G mobile services along with a range of government-led schemes to move consumers completely off 2G and 3G; one example is the planned redistribution of GSM/3G bandwidth to LTE; in addition to propelling Vietnam into having one of the most advanced mobile markets in the world, this should also spur on the mobile broadband segment; with a penetration level of just over 70%, mobile broadband has considerable room to grow; increasing economic prosperity coupled with the latest smartphone technology and networks should see mobile broadband underwriting the country&rsquo;s telecommunications sector for at least the next few years; this report includes the regulator's market data to July 2021, telcos' financial and operating data updates to June 2021, Telecom Maturity Index charts and analyses, assessment of the global impact of Covid-19 on the telecoms sector, and other recent market developments (2021)<br>
-_domestic_: all provincial exchanges are digitalized and connected to Hanoi, Da Nang, and Ho Chi Minh City by fiber-optic cable or microwave radio relay networks; main lines have been increased, and the use of mobile telephones is growing rapidly; fixed-line under 4 per 100 and mobile-cellular nearly 143 per 100 (2020)<br>
+_domestic_: fixed-line is 3 per 100 and mobile-cellular is 140 per 100 (2021)<br>
 _international_: country code - 84; landing points for the SeaMeWe-3,&nbsp;APG, SJC2, AAE-1, AAG and the TGN-IA submarine cable system providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, and the US; satellite earth stations - 2 Intersputnik (Indian Ocean region) (2020)<br>
 
 **Broadcast media**<br>
@@ -708,15 +708,15 @@ _river port(s)_: Ho Chi Minh (Mekong)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, Navy (includes naval infantry), Air Force and Air Defense, Border Defense Force, and Vietnam Coast Guard; Vietnam People's Public Security Ministry; Vietnam Civil Defense Force (2022)<br>
+People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, Navy (includes naval infantry), Air Force and Air Defense, Border Defense Force, and Vietnam Coast Guard; Vietnam People's Public Security Ministry; Vietnam Civil Defense Force (2023)<br>
 <strong>note 1:</strong> the Public Security Ministry is responsible for internal security and controls the national police, a special national security investigative agency, and other internal security units, including specialized riot police regiments<br><br><strong>note 2:</strong> the Vietnam Coast Guard was established in 1998 as the Vietnam Marine Police and renamed in 2013; Vietnam officially established a maritime self-defense force (civilian militia) in 2010 after the National Assembly passed the Law on Militia and Self-Defense Forces in 2009; the Vietnam Fisheries Resources Surveillance (VFRS), established in 2013, is responsible for patrolling, monitoring for fishing violations, and carrying out fishery inspections; it is armed, allowed to use force if necessary, and works in tandem with the Vietnam Coast Guard<br>
 
 **Military expenditures**<br>
 2.4% of GDP (2021 est.)<br>
 2.4% of GDP (2020 est.)<br>
-2.3% of GDP (2019 est.) (approximately $11.2 billion)<br>
-2.3% of GDP (2018 est.) (approximately $10.5 billion)<br>
-2.3% of GDP (2017 est.) (approximately $9.85 billion)<br>
+2.3% of GDP (2019 est.)<br>
+2.3% of GDP (2018 est.)<br>
+2.3% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information is limited and varied; estimated 450,000 active-duty troops (390,000 ground; 30,000 naval; 30,000 air); estimated 40,000 Border Defense Force and Coast Guard (2022)<br>

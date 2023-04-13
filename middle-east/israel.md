@@ -634,8 +634,8 @@ the Israel Broadcasting Corporation (est 2015) broadcasts on&nbsp;3 channels,&nb
 .il<br>
 
 **Internet users**<br>
-_total_: 8,293,590 (2020 est.)<br>
-_percent of population_: 90% (2020 est.)<br>
+_total_: 8.01 million (2021 est.)<br>
+_percent of population_: 90% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,602,079 (2020 est.)<br>
@@ -694,15 +694,15 @@ _LNG terminal(s) (import)_: Hadera<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes commandos), Israel Air Force (IAF, includes air defense); Ministry of Public Security: Border Police (2022)<br>
-<strong>note:</strong> the Border Police is a unit within the Israel Police with its own organizational and command structure; it works both independently as well as in cooperation with or in support of the Israel Police and the IDF<br>
+Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes commandos), Israel Air Force (IAF, includes air defense); Ministry of Public Security: Border Police, Immigration Police; Israeli Security Agency (2023)<br>
+<strong>note 1:</strong> the Border Police is a unit within the Israel Police with its own organizational and command structure; it works both independently as well as in cooperation with or in support of the Israel Police and the IDF<br><br>note 2: the Israeli Security Agency (ISA) is charged with combating terrorism and espionage in Israel and the West Bank and Gaza Strip; it is under the authority of the Prime Minister; ISA forces operating in the West Bank fall under the IDF for operations and operational debriefing<br>
 
 **Military expenditures**<br>
 5% of GDP (2021 est.)<br>
 5% of GDP (2020 est.)<br>
-5.2% of GDP (2019 est.) (approximately $20 billion)<br>
-5.3% of GDP (2018 est.) (approximately $19.9 billion)<br>
-5.5% of GDP (2017 est.) (approximately $19.7 billion)<br>
+5.2% of GDP (2019 est.)<br>
+5.3% of GDP (2018 est.)<br>
+5.5% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 173,000 active duty personnel (130,000 Ground Forces; 9,000 Naval; 34,000 Air Force) (2022)<br>
@@ -715,7 +715,7 @@ the majority of the IDF's inventory is comprised of weapons that are domesticall
 <strong>note 1:</strong> women have served in the Israeli military since its establishment in 1948; as of 2021, women made up about 35% of IDF personnel; more than 90% of military specialties, including combat specialties, were open to women and more than 3,000 women were serving in combat units; the IDF's first mixed-gender infantry unit, the Caracal Battalion, was established in 2004<br><br><strong>note 2:</strong> conscripts comprise about 70% of the IDF active-duty ground forces<br><br><strong>note 3:</strong> the IDF recruits non-Israeli Jews and non-Jews with a minimum of one Jewish grandparent, as well as converts to Judaism; each year the IDF brings in about 800-1,000 foreign recruits from around the world<br>
 
 **Military - note**<br>
-the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of 2022, UNDOF consisted of about 1,000 military personnel<br><br>since the outbreak of the Syrian civil war in 2011, Israel has routinely carried out air strikes in Syria targeting Iranian, Iranian-backed militia and Hizballah forces, and some Syrian Government military positions; over the same period, the IDF has carried out numerous strikes against Hizballah in Lebanon in response to attacks on Israeli territory; Israel fought a month-long war in Lebanon with Hizballah in 2006 (see Appendix T for details on Hizballah)<br><br>the IDF also conducts frequent operations against the HAMAS and Palestine Islamic Jihad (PIJ) terrorist groups operating out of the Gaza Strip; since seizing control of the Gaza Strip in 2007, HAMAS has claimed responsibility for numerous rocket attacks into Israel and organized protests at the border between Gaza and Israel, resulting in violent clashes, casualties, and reprisal military actions by the IDF; HAMAS and Israel fought an 11-day conflict in May of 2021, which ended in an informal truce; sporadic clashes continued into 2022, including incendiary balloon attacks from Palestinian territory and retaliatory IDF strikes; PIJ has conducted numerous attacks on Israel since the 1980s, including a barrage of mortar and rocket strikes in February 2020 (see Appendix-T for more details on HAMAS and Palestine Islamic Jihad)<br><br>Israel has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
+the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; UNDOF consists of about 1,000 military personnel<br><br>since the outbreak of the Syrian civil war in 2011, Israel has routinely carried out air strikes in Syria targeting Iranian, Iranian-backed militia and Hizballah forces, and some Syrian Government military positions; over the same period, the IDF has carried out numerous strikes against Hizballah in Lebanon in response to attacks on Israeli territory; Israel fought a month-long war in Lebanon with Hizballah in 2006 (see Appendix T for details on Hizballah)<br><br>the IDF also conducts frequent operations against the HAMAS and Palestine Islamic Jihad (PIJ) terrorist groups operating out of the Gaza Strip; since seizing control of the Gaza Strip in 2007, HAMAS has claimed responsibility for numerous rocket attacks into Israel and organized protests at the border between Gaza and Israel, resulting in violent clashes, casualties, and reprisal military actions by the IDF; HAMAS and Israel fought an 11-day conflict in May of 2021, which ended in an informal truce; sporadic clashes continued into 2022, including incendiary balloon attacks from Palestinian territory and retaliatory IDF strikes; PIJ has conducted numerous attacks on Israel since the 1980s, including a barrage of mortar and rocket strikes in February 2020 (see Appendix-T for more details on HAMAS and Palestine Islamic Jihad)<br><br>Israel has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
 
 ## Terrorism
 

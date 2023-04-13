@@ -740,9 +740,9 @@ Royal Armed Forces (FAR): Royal Moroccan Army (includes the Moroccan Royal Guard
 **Military expenditures**<br>
 4.5% of GDP (2021 est.)<br>
 4.5% of GDP (2020 est.)<br>
-3.4% of GDP (2019 est.) (approximately $7.46 billion)<br>
-3.3% of GDP (2018 est.) (approximately $7.12 billion)<br>
-3.4% of GDP (2017 est.) (approximately $7.08 billion)<br>
+3.4% of GDP (2019 est.)<br>
+3.3% of GDP (2018 est.)<br>
+3.4% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); estimated 20,000 Gendarmerie; estimated 5,000 Mobile Intervention Corps; estimated 25-30,000 Auxiliary Forces (2022)<br>

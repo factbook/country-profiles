@@ -272,9 +272,9 @@ _municipal solid waste recycled annually_: 1,223,060 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 27.3% (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 380 million cubic meters (2017 est.)<br>
-_industrial_: 50 million cubic meters (2017 est.)<br>
-_agricultural_: 490 million cubic meters (2017 est.)<br>
+_municipal_: 400 million cubic meters (2020 est.)<br>
+_industrial_: 50 million cubic meters (2020 est.)<br>
+_agricultural_: 530 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 6 billion cubic meters (2019 est.)<br>
@@ -507,7 +507,7 @@ $205.019 billion (2019 est.) note: data are in current year dollars<br>
 Germany 14%, United States 11%, Sweden 10%, United Kingdom 7%, Norway 6%, Netherlands 5%, China 5% (2019)<br>
 
 **Exports - commodities**<br>
-packaged medicines, electric generators, pork, refined petroleum, medical cultures/vaccines (2019)<br>
+packaged medicines, pork, refined petroleum, electric generators, cheese (2021)<br>
 
 **Imports**<br>
 $208.121 billion (2021 est.) note: data are in current year dollars<br>
@@ -620,8 +620,8 @@ strong public-sector TV presence with state-owned Danmarks Radio (DR) operating 
 .dk<br>
 
 **Internet users**<br>
-_total_: 5,656,462 (2020 est.)<br>
-_percent of population_: 97% (2020 est.)<br>
+_total_: 5.841 million (2021 est.)<br>
+_percent of population_: 99% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,590,282 (2020 est.)<br>
@@ -723,6 +723,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 41,297 (Ukraine) (as of 26 March 2023)<br>
+_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 41,419 (Ukraine) (as of 2 April 2023)<br>
 _stateless persons_: 11,644 (2022)<br>
 

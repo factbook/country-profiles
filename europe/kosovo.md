@@ -547,8 +547,8 @@ _international_: country code - 383<br>
 &nbsp;<br>
 
 **Internet users**<br>
-_total_: 1,502,658 (2019 est.)<br>
-_percent of population_: 84% (2019 est.)<br>
+_total_: 1,756,300 (2021 est.)<br>
+_percent of population_: 91% (2021 est.)<br>
 
 ## Transportation
 

@@ -613,8 +613,8 @@ _international_: country code - 1-876 and 1-658; landing points for the ALBA-1, 
 .jm<br>
 
 **Internet users**<br>
-_total_: 1,621,552 (2019 est.)<br>
-_percent of population_: 55% (2019 est.)<br>
+_total_: 2.296 million (2021 est.)<br>
+_percent of population_: 82% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 385,603 (2020 est.)<br>
@@ -665,9 +665,9 @@ Jamaica Defense Force (JDF): Jamaica Regiment (Ground Forces), Maritime-Air-Cybe
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
-1.6% of GDP (2019 est.) (approximately $300 million)<br>
-1.4% of GDP (2018 est.) (approximately $260 million)<br>
-1% of GDP (2017 est.) (approximately $190 million)<br>
+1.6% of GDP (2019 est.)<br>
+1.4% of GDP (2018 est.)<br>
+1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,000 active duty personnel (2022)<br>

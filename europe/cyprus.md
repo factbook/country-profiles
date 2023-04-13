@@ -277,9 +277,9 @@ _municipal solid waste recycled annually_: 72,007 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 13.3% (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 110 million cubic meters (2019 est.)<br>
-_industrial_: 20 million cubic meters (2019 est.)<br>
-_agricultural_: 170 million cubic meters (2019 est.)<br>
+_municipal_: 100 million cubic meters (2020 est.)<br>
+_industrial_: 20 million cubic meters (2020 est.)<br>
+_agricultural_: 170 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 780 million cubic meters (2019 est.)<br>
@@ -515,7 +515,7 @@ $19.835 billion (2019 est.)<br>
 India 9%, Greece 9%, Libya 8%, United Kingdom 7% (2019)<br>
 
 **Exports - commodities**<br>
-ships, refined petroleum, packaged medicines, cheese, crude petroleum (2019)<br>
+ships, refined petroleum, packaged medicines, cheese, recreational boats (2021)<br>
 
 **Imports**<br>
 $23.748 billion (2021 est.) note: data are in current year dollars<br>
@@ -631,8 +631,8 @@ mixture of state and privately run TV and radio services; the public broadcaster
 .cy<br>
 
 **Internet users**<br>
-_total_: 1,098,699 (2020 est.)<br>
-_percent of population_: 91% (2020 est.)<br>
+_total_: 809,900 (2021 est.)<br>
+_percent of population_: 91% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 332,080 (2020 est.)<br>

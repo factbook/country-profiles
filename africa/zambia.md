@@ -204,7 +204,7 @@ _unimproved: total_: total: 48.3% of population (2020 est.)<br>
 10.8% (2021 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -287,7 +287,7 @@ _rate of urbanization_: 4.15% annual rate of change (2020-25 est.)<br>
 0.04% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: very high (2020)<br>
+_degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
@@ -637,16 +637,16 @@ _Total energy consumption per capita 2019_: 11.595 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 65,913 (2021 est.)<br>
+_total subscriptions_: 66,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 20,247,111 (2021)<br>
-_subscriptions per 100 inhabitants_: 104 (2021)<br>
+_total subscriptions_: 20 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: following elections held in August 2021, the new government immediately established a Ministry of Technology and Science to promote the use of ICT in developing economic growth and social inclusion; this focus on ICT, and on telecoms in particular, has been central to government strategies for some years; as part of the Smart Zambia initiative, investment has been made in data centers, a computer assembly plant, ICT training centers, and a Smart Education program; these efforts have been combined with the extension of broadband access and improved connectivity to international submarine cables; in turn, this has resulted in a considerable reduction in fixed-line and mobile access pricing for end-users; mobile network operators continue to invest in 3G and LTE-based services, the government contracted to upgrade the state-owned mobile infrastructure for 5G services; delays in holding spectrum have stymied the development of 5G thus far; in mid-2021 the regulator completed a consultation of auctioning low, medium, and high band spectrum for 5G, aiming to provide sufficient spectrum to meet the anticipated increase in data traffic in coming years; fixed-line broadband services remain underdeveloped (2022)<br>
-_domestic_: fiber optic connections are available between most larger towns and cities with microwave radio relays serving more rural areas; 3G and LTE with FttX in limited urban areas and private Ku or Ka band VSAT terminals in remote locations; fixed-line teledensity less than 1 per 100 and mobile-cellular roughly 104 per 100 (2021)<br>
+_domestic_: fixed-line teledensity less than 1 per 100 and mobile-cellular is 100 per 100 (2021)<br>
 _international_: country code - 260; multiple providers operate overland fiber optic routes via Zimbabwe/South Africa, Botswana/Namibia and Tanzania provide access to the major undersea cables<br>
 
 **Broadcast media**<br>
@@ -717,15 +717,15 @@ _river port(s)_: Mpulungu (Zambezi)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Service; Defense Force Medical Service; Ministry of Home Affairs and Internal Security: Zambia Police (includes a paramilitary battalion) (2022)<br>
+Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Service; Defense Force Medical Service; Ministry of Home Affairs and Internal Security: Zambia Police (includes a paramilitary battalion) (2023)<br>
 <strong>note:</strong> the Zambia National Service is a support organization that also does public work projects<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>
 1.3% of GDP (2020 est.)<br>
-1.3% of GDP (2019 est.) (approximately $450 million)<br>
-1.4% of GDP (2018 est.) (approximately $470 million)<br>
-1.3% of GDP (2017 est.) (approximately $420 million)<br>
+1.3% of GDP (2019 est.)<br>
+1.4% of GDP (2018 est.)<br>
+1.3% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 17,000 active troops (15,000 Army; 2,000 Air) (2022)<br>

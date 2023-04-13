@@ -466,7 +466,7 @@ _female_: 23% (2021 est.)<br>
 17.1% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-28.8 (2017 est.)<br>
+29.3 (2019 est.)<br>
 
 **Average household expenditures**<br>
 _on food_: 12.4% of household expenditures (2018 est.)<br>
@@ -608,16 +608,16 @@ _Total energy consumption per capita 2019_: 210.882 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,478,610 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 15 (2020 est.)<br>
+_total subscriptions_: 1,382,146 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12,895,900 (2019)<br>
-_subscriptions per 100 inhabitants_: 128.49 (2019)<br>
+_total subscriptions_: 12,843,683 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 123 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Sweden&rsquo;s telecom market includes mature mobile and broadband sectors which have been stimulated by the progressive investment of the main telcos in developing new technologies; the country retains one of the best developed LTE infrastructures in the region, while its MNOs have benefited from the January 2021 auction of spectrum in the 3.5GHz band which will enable them to expand services nationally; the country also has one of the highest fiber broadband penetration rates in Europe; the focus of FttP is aimed at fulfilling the government&rsquo;s target of providing a 1Gb/s service to 98% of the population by 2025; the methodology to achieve this has rested on regulatory measures supported by public funds, as well as on the auction of spectrum in different bands; in the fixed-line broadband segment, the number of DSL subscribers is falling steadily as customers continue to migrate to fiber networks; there is also competition from HFC infrastructure, offering fiber-based broadband and investing in services based on the DOCSIS3.1 standard; this report assesses key aspects of the Swedish telecom market, providing data on fixed network services and profiling the main players; it also reviews the key regulatory issues, including interconnection, local loop unbundling, number portability, carrier preselection and NGN open access; the report also analyses the mobile market, providing data on network operators and their strategies in a highly competitive environment; in addition, the report considers the fixed and fixed-wireless broadband markets, including analyses of market dynamics and the main operators, as well as providing subscriber forecasts (2021)<br>
-_domestic_: fixed-line just over 16 per 100 and mobile-cellular roughly 128 per 100; coaxial and multiconductor cables carry most of the voice traffic; parallel microwave radio relay systems carry some additional telephone channels (2020)<br>
+_domestic_: fixed-line is 13 per 100 and mobile-cellular is 123 per 100 (2021)<br>
 _international_: country code - 46; landing points for Botina, SFL, SFS-4, Baltic Sea Submarine Cable, Eastern Light, Sweden-Latvia, BCS North-Phase1, EE-S1, LV-SE1,&nbsp;BCS East-West Interlink, NordBalt, Baltica, Denmark-Sweden-15,-17,-18, Scandinavian Ring -North,-South, IP-Only Denmark-Sweden, Donica North,&nbsp;Kattegate-1,-2, Energinet Laeso-Varberg and GC2 submarine cables providing links to other Nordic countries and Europe; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Eutelsat, and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Sweden shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Norway) (2019)<br>
 
 **Broadcast media**<br>
@@ -730,6 +730,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 53,514 (Ukraine) (as of 24 March 2023)<br>
+_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 53,755 (Ukraine) (as of 30 March 2023)<br>
 _stateless persons_: 46,515 (2022); note - the majority of stateless people are from the Middle East and Somalia<br>
 

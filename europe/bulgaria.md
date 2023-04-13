@@ -283,9 +283,9 @@ Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, S
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 870 million cubic meters (2019 est.)<br>
-_industrial_: 3.76 billion cubic meters (2019 est.)<br>
-_agricultural_: 800 million cubic meters (2019 est.)<br>
+_municipal_: 840 million cubic meters (2020 est.)<br>
+_industrial_: 3.48 billion cubic meters (2020 est.)<br>
+_agricultural_: 760 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 21.3 billion cubic meters (2019 est.)<br>
@@ -523,7 +523,7 @@ $44.041 billion (2019 est.)<br>
 Germany 16%, Romania 8%, Italy 7%, Turkey 7%, Greece 6% (2019)<br>
 
 **Exports - commodities**<br>
-refined petroleum, packaged medicines, copper, wheat, electricity (2019)<br>
+copper, wheat, electricity, refined petroleum, packaged medicines (2021)<br>
 
 **Imports**<br>
 $50.059 billion (2021 est.) note: data are in current year dollars<br>
@@ -636,8 +636,8 @@ _international_: country code - 359; Caucasus Cable System via submarine cable p
 .bg<br>
 
 **Internet users**<br>
-_total_: 4,853,811 (2020 est.)<br>
-_percent of population_: 70% (2020 est.)<br>
+_total_: 5.175 million (2021 est.)<br>
+_percent of population_: 75% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,115,053 (2020 est.)<br>
@@ -731,7 +731,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 49,400 (Ukraine) (as of 27 March 2023)<br>
+_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 48,974 (Ukraine) (as of 4 April 2023)<br>
 _stateless persons_: 1,129 (2022)<br>
 <strong>note:</strong> 87,908 estimated refugee and migrant arrivals (January 2015-January 2023); Bulgaria is predominantly a transit country<br>
 

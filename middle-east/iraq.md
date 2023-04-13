@@ -200,9 +200,8 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 NA<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Iraq; as of 9 December 2022, Iraq has reported a total of 2,463,296 cases of COVID-19 or 6,124.18 cumulative cases of COVID-19 per 100,000 population with a total of 25,363 cumulative deaths or a rate of 63.06 cumulative deaths per 100,000 population; as of 29 November 2022, 25.41% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 30.4% (2016)<br>
@@ -279,9 +278,8 @@ _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: intermediate (2020)<br>
+_degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Iraq; as of 9 December 2022, Iraq has reported a total of 2,463,296 cases of COVID-19 or 6,124.18 cumulative cases of COVID-19 per 100,000 population with a total of 25,363 cumulative deaths or a rate of 63.06 cumulative deaths per 100,000 population; as of 29 November 2022, 25.41% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to civil conflict and economic slowdown -</em> the 2022 Humanitarian Needs Overview identified 2.5 million people in need of humanitarian assistance, of which 960,000 have acute humanitarian needs; while the number of people in need remained similar to the previous year, the severity of those needs increased, largely due to the impact of the COVID‑19 pandemic on top of an existing humanitarian crisis, leading to a 35% increase in the number of people in acute need; more than half of these are concentrated in the governorates of Nineveh and Anbar; the number of severely food insecure people is estimated at about 435,000, while 731,000 are vulnerable to food insecurity (2022)<br>
@@ -651,8 +649,8 @@ the number of private radio and TV stations has increased rapidly since 2003; go
 .iq<br>
 
 **Internet users**<br>
-_total_: 24,133,502 (2020 est.)<br>
-_percent of population_: 60% (2020 est.)<br>
+_total_: 21.56 million (2021 est.)<br>
+_percent of population_: 49% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 6,254,099 (2020 est.)<br>
@@ -720,9 +718,9 @@ Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Fo
 **Military expenditures**<br>
 3.7% of GDP (2021 est.)<br>
 4.1% of GDP (2020 est.)<br>
-3.8% of GDP (2019 est.) (approximately $14.6 billion)<br>
-4.5% of GDP (2018 est.) (approximately $16 billion)<br>
-6% of GDP (2017 est.) (approximately $20.4 billion)<br>
+3.8% of GDP (2019 est.)<br>
+4.5% of GDP (2018 est.)<br>
+6% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 200,000 personnel under the Ministry of Defense (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 25,000 National-Level Security Forces; Ministry of Peshmerga: approximately 150,000-plus (45-50,000 Regional Guard Brigades; 40-45,000 Unit 70 Forces; 65-70,000 Unit 80 Forces); estimated 100-160,000 Popular Mobilization Forces (2022)<br>
