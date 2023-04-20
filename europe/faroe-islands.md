@@ -407,7 +407,7 @@ $1.019 billion (2015 est.)<br>
 Russia 26.4%, UK 14.1%, Germany 8.4%, China 7.9%, Spain 6.8%, Denmark 6.2%, US 4.7%, Poland 4.4%, Norway 4.1% (2017)<br>
 
 **Exports - commodities**<br>
-fish and fish products (97%) (2017 est.)<br>
+fish and fish products (2021)<br>
 
 **Imports**<br>
 $978.4 million (2016 est.)<br>
@@ -544,8 +544,8 @@ _unpaved_: 460 km (2017)<br>
 <strong>note:</strong> those islands not connected by roads (bridges or tunnels) are connected by seven different ferry links operated by the nationally owned company SSL; 28 km of tunnels<br>
 
 **Merchant marine**<br>
-_total_: 101<br>
-_by type_: container ships 6, general cargo 48, oil tanker 1, other 46 (2021)<br>
+_total_: 91<br>
+_by type_: container ships 6, general cargo 43, other 42 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Fuglafjordur, Torshavn, Vagur<br>

@@ -292,9 +292,9 @@ Danube (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulgaria, U
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 640 million cubic meters (2019 est.)<br>
-_industrial_: 3.22 billion cubic meters (2019 est.)<br>
-_agricultural_: 490 million cubic meters (2019 est.)<br>
+_municipal_: 660 million cubic meters (2020 est.)<br>
+_industrial_: 3.45 billion cubic meters (2020 est.)<br>
+_agricultural_: 550 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 104 billion cubic meters (2019 est.)<br>
@@ -695,7 +695,7 @@ _unpaved_: 126,514 km (2014)<br>
 
 **Merchant marine**<br>
 _total_: 1<br>
-_by type_: other 1 (2021)<br>
+_by type_: other 1 (2022)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Baja, Csepel (Budapest), Dunaujvaros, Gyor-Gonyu, Mohacs (Danube)<br>

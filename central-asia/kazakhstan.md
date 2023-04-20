@@ -292,9 +292,9 @@ Syr Darya river mouth (shared with Kyrgyzstan [s], Uzbekistan, and Tajikistan) -
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 2.347 billion cubic meters (2017 est.)<br>
-_industrial_: 6.984 billion cubic meters (2017 est.)<br>
-_agricultural_: 15.12 billion cubic meters (2017 est.)<br>
+_municipal_: 4.62 billion cubic meters (2020 est.)<br>
+_industrial_: 4.54 billion cubic meters (2020 est.)<br>
+_agricultural_: 15.4 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 108.4 billion cubic meters (2019 est.)<br>
@@ -700,8 +700,8 @@ _unpaved_: 12,354 km (2021)<br>
 43,983 km (2020) (on the Ertis (Irtysh) River (80%) and Syr Darya (Syrdariya) River)<br>
 
 **Merchant marine**<br>
-_total_: 119<br>
-_by type_: general cargo 3, oil tanker 7, other 109 (2021)<br>
+_total_: 120<br>
+_by type_: general cargo 3, oil tanker 7, other 110 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Caspian Sea - Aqtau (Shevchenko), Atyrau (Gur'yev)<br>

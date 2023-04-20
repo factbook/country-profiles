@@ -622,8 +622,8 @@ public TV broadcaster, Radiotelevizija Slovenija (RTV), operates a system of nat
 .si<br>
 
 **Internet users**<br>
-_total_: 1,829,105 (2020 est.)<br>
-_percent of population_: 87% (2020 est.)<br>
+_total_: 1.869 million (2021 est.)<br>
+_percent of population_: 89% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 651,604 (2020 est.)<br>
@@ -670,7 +670,7 @@ _paved_: 38,985 km (2012) (includes 769 km of expressways)<br>
 
 **Merchant marine**<br>
 _total_: 9<br>
-_by type_: other 9 (2021)<br>
+_by type_: general cargo 1, other 8 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Koper<br>
@@ -712,7 +712,7 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 9,222 (Ukraine) (as of 2 April 2023)<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  </strong>572,520 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
+<strong>note:  </strong>575,533 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

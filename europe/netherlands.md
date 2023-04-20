@@ -283,9 +283,9 @@ Rhine river mouth (shared with Switzerland [s], Germany, and France) - 1,233 km<
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.26 billion cubic meters (2017 est.)<br>
-_industrial_: 14.74 billion cubic meters (2017 est.)<br>
-_agricultural_: 76.5 million cubic meters (2017 est.)<br>
+_municipal_: 2.05 billion cubic meters (2020 est.)<br>
+_industrial_: 5.94 billion cubic meters (2020 est.)<br>
+_agricultural_: 31 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 91 billion cubic meters (2019 est.)<br>
@@ -634,8 +634,8 @@ more than 90% of households are connected to cable or satellite TV systems that 
 .nl<br>
 
 **Internet users**<br>
-_total_: 15,871,765 (2020 est.)<br>
-_percent of population_: 91% (2020 est.)<br>
+_total_: 16.56 million (2021 est.)<br>
+_percent of population_: 92% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 7,525,016 (2020 est.)<br>
@@ -684,8 +684,8 @@ _total_: 139,124 km (2016) (includes 3,654 km of expressways)<br>
 6,237 km (2012) (navigable by ships up to 50 tons)<br>
 
 **Merchant marine**<br>
-_total_: 1,199<br>
-_by type_: bulk carrier 10, container ship 40, general cargo 559, oil tanker 26, other 564 (2021)<br>
+_total_: 1,175<br>
+_by type_: bulk carrier 11, container ship 37, general cargo 543, oil tanker 26, other 558 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: IJmuiden, Vlissingen<br>

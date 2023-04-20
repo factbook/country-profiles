@@ -296,8 +296,8 @@ _fresh water lake(s)_: Lake Scutari (shared with Albania) - 400 sq km<br>note - 
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 96.4 million cubic meters (2017 est.)<br>
-_industrial_: 62.8 million cubic meters (2017 est.)<br>
+_municipal_: 100 million cubic meters (2020 est.)<br>
+_industrial_: 60 million cubic meters (2020 est.)<br>
 _agricultural_: 1.7 million cubic meters (2017 est.)<br>
 
 ## Government
@@ -642,8 +642,8 @@ state-funded national radio-TV broadcaster operates 2 terrestrial TV networks, 1
 .me<br>
 
 **Internet users**<br>
-_total_: 484,619 (2020 est.)<br>
-_percent of population_: 78% (2020 est.)<br>
+_total_: 516,600 (2021 est.)<br>
+_percent of population_: 82% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 184,176 (2020 est.)<br>
@@ -683,8 +683,8 @@ _paved_: 7,141 km (2010)<br>
 _unpaved_: 621 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 17<br>
-_by type_: bulk carrier 4, other 13 (2021)<br>
+_total_: 18<br>
+_by type_: bulk carrier 4, other 14 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bar<br>
@@ -724,7 +724,7 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 31,770 (Ukraine) (as of 3 April 2023)<br>
 _stateless persons_: 468 (2022)<br>
-<strong>note:</strong> 29,905 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
+<strong>note:</strong> 29,948 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

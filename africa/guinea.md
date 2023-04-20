@@ -304,9 +304,9 @@ Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambia river 
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 230 million cubic meters (2019 est.)<br>
-_industrial_: 60 million cubic meters (2019 est.)<br>
-_agricultural_: 600 million cubic meters (2019 est.)<br>
+_municipal_: 230 million cubic meters (2020 est.)<br>
+_industrial_: 60 million cubic meters (2020 est.)<br>
+_agricultural_: 600 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 226 billion cubic meters (2019 est.)<br>
@@ -685,8 +685,8 @@ _unpaved_: 40,955 km (2018)<br>
 1,300 km (2011) (navigable by shallow-draft native craft in the northern part of the Niger River system)<br>
 
 **Merchant marine**<br>
-_total_: 2<br>
-_by type_: other 2 (2021)<br>
+_total_: 3<br>
+_by type_: general cargo 1, other 2 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Conakry, Kamsar<br>

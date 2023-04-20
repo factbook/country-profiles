@@ -710,7 +710,7 @@ _unpaved_: 75,494 km (2007)<br>
 
 **Merchant marine**<br>
 _total_: 25<br>
-_by type_: oil tanker 2, other 23 (2021)<br>
+_by type_: oil tanker 2, other 23 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Abidjan, San-Pedro<br>

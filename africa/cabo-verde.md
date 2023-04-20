@@ -640,8 +640,8 @@ _paved_: 932 km (2013)<br>
 _unpaved_: 418 km (2013)<br>
 
 **Merchant marine**<br>
-_total_: 46<br>
-_by type_: general cargo 16, oil tanker 3, other 27 (2021)<br>
+_total_: 47<br>
+_by type_: general cargo 16, oil tanker 3, other 28 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Porto Grande<br>

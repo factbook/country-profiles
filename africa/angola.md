@@ -701,8 +701,8 @@ _unpaved_: 12,400 km (2018)<br>
 1,300 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 54<br>
-_by type_: general cargo 13, oil tanker 8, other 33 (2021)<br>
+_total_: 58<br>
+_by type_: general cargo 13, oil tanker 8, other 37 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cabinda, Lobito, Luanda, Namibe<br>

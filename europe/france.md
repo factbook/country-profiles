@@ -548,7 +548,7 @@ $892.016 billion (2019 est.) note: data are in current year dollars<br>
 Germany 14%, United States 8%, Italy 7%, Spain 7%, Belgium 7%, United Kingdom 7% (2019)<br>
 
 **Exports - commodities**<br>
-aircraft, packaged medicines, cars and vehicle parts, gas turbines, wine (2019)<br>
+aircraft, packaged medicines, cars and vehicle parts, wine, beauty products, gas turbines (2021)<br>
 
 **Imports**<br>
 $957.717 billion (2021 est.) note: data are in current year dollars<br>
@@ -716,8 +716,8 @@ _non-urban_: 399,014 km (2011)<br>
 <strong>metropolitan France:</strong> 8,501 km (1,621 km navigable by craft up to 3,000 metric tons) (2010)<br>
 
 **Merchant marine**<br>
-_total_: 548<br>
-_by type_: container ship 29, general cargo 50, oil tanker 28, other 441 (2021)<br>
+_total_: 549<br>
+_by type_: container ship 32, general cargo 49, oil tanker 26, other 442 (2022)<br>
 <strong>note:</strong> includes Monaco<br>
 
 **Ports and terminals**<br>

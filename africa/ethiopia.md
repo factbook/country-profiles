@@ -564,7 +564,7 @@ $7.588 billion (2019 est.)<br>
 China 17%, United States 16%, United Arab Emirates 8%, Saudi Arabia 6%, South Korea 5%, Germany 5% (2019)<br>
 
 **Exports - commodities**<br>
-coffee, sesame seeds, gold, cut flowers, zinc (2019)<br>
+coffee, gold, sesame seeds, vegetables, cut flowers, aircraft parts (2021)<br>
 
 **Imports**<br>
 $20.859 billion (2021 est.) note: data are in current year dollars<br>
@@ -723,8 +723,8 @@ _standard gauge_: 659 km (2017) 1.435-m gauge<br>
 _total_: 120,171 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 11<br>
-_by type_: general cargo 9, oil tanker 2 (2020)<br>
+_total_: 12<br>
+_by type_: general cargo 10, oil tanker 2 (2022)<br>
 
 **Ports and terminals**<br>
 Ethiopia is landlocked and uses the ports of Djibouti in Djibouti and Berbera in Somalia<br>

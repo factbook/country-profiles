@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Indus Valley civilization, one of the oldest in the world and dating back at least 5,000 years, spread over much of what is presently Pakistan. During the second millennium B.C., remnants of this culture fused with the migrating Indo-Aryan peoples. The area underwent successive invasions in subsequent centuries from the Persians, Greeks, Scythians, Arabs (who brought Islam), Afghans, and Turks. The Mughal Empire flourished in the 16th and 17th centuries; the British came to dominate the region in the 18th century. The separation in 1947 of British India into the Muslim state of Pakistan (with West and East sections) and largely Hindu India was never satisfactorily resolved, and India and Pakistan fought two wars and a limited conflict - in 1947-48, 1965, and 1999 respectively - over the disputed Kashmir territory. A third war between these countries in 1971 - in which India assisted an indigenous movement reacting to the marginalization of Bengalis in Pakistani politics - resulted in East Pakistan becoming the separate nation of Bangladesh.</p> <p>In response to Indian nuclear weapons testing, Pakistan conducted its own tests in mid-1998. India-Pakistan relations improved in the mid-2000s but have been rocky since the November 2008 Mumbai attacks and have been further strained by Indian reports of cross-border militancy. Imran KHAN took office as prime minister in 2018 after the Pakistan Tehreek-e-Insaaf (PTI) party won a plurality of seats in the July 2018 general elections. Pakistan has been engaged in a decades-long armed conflict with militant groups that target government institutions and civilians, including the Tehreek-e-Taliban Pakistan (TTP) and other militant networks.</p><br>
+<p>The Indus Valley civilization, one of the oldest in the world and dating back at least 5,000 years, spread over much of what is presently Pakistan. During the second millennium B.C., remnants of this culture fused with the migrating Indo-Aryan peoples. The area underwent successive invasions in subsequent centuries from the Persians, Greeks, Scythians, Arabs (who brought Islam), Afghans, and Turks. The Mughal Empire flourished in the 16th and 17th centuries; the British came to dominate the region in the 18th century. The separation in 1947 of British India into the Muslim state of Pakistan (with West and East sections) and largely Hindu India created lasting tension between the two countries, and India and Pakistan fought two wars and a limited conflict - in 1947-48, 1965, and 1999 respectively - over the disputed Kashmir territory. A third war between these countries in 1971 - in which India assisted an indigenous movement reacting to the marginalization of Bengalis in Pakistani politics - resulted in East Pakistan becoming the separate nation of Bangladesh.</p> <p>In response to Indian nuclear weapons testing, Pakistan conducted its own tests in mid-1998. Major bilateral disputes, including the status of Kashmir, remain unresolved, but in early 2021 the two countries reaffirmed their commitment to maintain the cease-fire along the Line of Control in Kashmir that began in 2003. Pakistan has been engaged in a decades-long armed conflict with militant groups, including the Tehreek-e-Taliban Pakistan (TTP) and other militant networks, that target government institutions and civilians.</p><br>
 
 ## Geography
 
@@ -313,9 +313,9 @@ Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin)
 Indus Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 9.65 billion cubic meters (2017 est.)<br>
-_industrial_: 1.4 billion cubic meters (2017 est.)<br>
-_agricultural_: 172.4 billion cubic meters (2017 est.)<br>
+_municipal_: 9.65 billion cubic meters (2020 est.)<br>
+_industrial_: 1.4 billion cubic meters (2020 est.)<br>
+_agricultural_: 172.4 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 246.8 billion cubic meters (2019 est.)<br>
@@ -668,8 +668,8 @@ television is the most popular and dominant source of news in Pakistan with over
 .pk<br>
 
 **Internet users**<br>
-_total_: 55,223,083 (2020 est.)<br>
-_percent of population_: 25% (2020 est.)<br>
+_total_: 48.3 million (2021 est.)<br>
+_percent of population_: 21% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,523,027 (2020 est.)<br>
@@ -721,8 +721,8 @@ _paved_: 185,463 km (2021) (includes 708 km of expressways)<br>
 _unpaved_: 78,712 km (2021)<br>
 
 **Merchant marine**<br>
-_total_: 57<br>
-_by type_: bulk carrier 5, oil tanker 7, other 45 (2021)<br>
+_total_: 58<br>
+_by type_: bulk carrier 5, oil tanker 7, other 46 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Karachi, Port Muhammad Bin Qasim<br>

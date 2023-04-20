@@ -322,9 +322,9 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta
 Lullemeden-Irhazer Basin, Taodeni-Tanezrouft Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 107 million cubic meters (2017 est.)<br>
-_industrial_: 4 million cubic meters (2017 est.)<br>
-_agricultural_: 5.075 billion cubic meters (2017 est.)<br>
+_municipal_: 110 million cubic meters (2020 est.)<br>
+_industrial_: 4 million cubic meters (2020 est.)<br>
+_agricultural_: 5.08 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 120 billion cubic meters (2019 est.)<br>
@@ -663,8 +663,8 @@ national public TV broadcaster; 2 privately owned companies provide subscription
 .ml<br>
 
 **Internet users**<br>
-_total_: 5,467,725 (2020 est.)<br>
-_percent of population_: 27% (2020 est.)<br>
+_total_: 7.48 million (2021 est.)<br>
+_percent of population_: 34% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 243,806 (2020 est.)<br>

@@ -630,8 +630,8 @@ state-owned public broadcaster, Radio and Television of Slovakia (RTVS), operate
 .sk<br>
 
 **Internet users**<br>
-_total_: 4,917,528 (July 2022 est.)<br>
-_percent of population_: 90% (July 2022 est.)<br>
+_total_: 4.806 million (2021 est.)<br>
+_percent of population_: 89% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,701,561 (2020 est.)<br>

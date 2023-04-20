@@ -269,9 +269,9 @@ _municipal solid waste recycled annually_: 17,996 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 6.7% (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 37.4 million cubic meters (2017 est.)<br>
-_industrial_: 1 million cubic meters (2017 est.)<br>
-_agricultural_: 25.4 million cubic meters (2017 est.)<br>
+_municipal_: 40 million cubic meters (2020 est.)<br>
+_industrial_: 1 million cubic meters (2020 est.)<br>
+_agricultural_: 20 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 50 million cubic meters (2019 est.)<br>
@@ -611,8 +611,8 @@ _international_: country code - 356; landing points for the Malta-Gozo Cable, VM
 .mt<br>
 
 **Internet users**<br>
-_total_: 448,339 (2020 est.)<br>
-_percent of population_: 87% (2020 est.)<br>
+_total_: 461,100 (2021 est.)<br>
+_percent of population_: 87% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 213,419 (2020 est.)<br>
@@ -647,8 +647,8 @@ _urban_: 1,422 km (2001)<br>
 _non-urban_: 832 km (2001)<br>
 
 **Merchant marine**<br>
-_total_: 2,137<br>
-_by type_: bulk carrier 601, container ship 310, general cargo 218, oil tanker 412, other 596 (2021)<br>
+_total_: 2,047<br>
+_by type_: bulk carrier 545, container ship 312, general cargo 182, oil tanker 395, other 613 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Marsaxlokk (Malta Freeport), Valletta<br>

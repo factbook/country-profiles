@@ -544,6 +544,7 @@ Argentina 16%, Brazil 15%, United Arab Emirates 12%, India 10%, United States 6%
 
 **Exports - commodities**<br>
 gold, natural gas, zinc, silver, soy products, tin (2021)<br>
+<strong>note:</strong> Bolivian cocaine production remains a significant illicit trade commodity<br>
 
 **Imports**<br>
 $10.799 billion (2021 est.) note: data are in current year dollars<br>
@@ -710,8 +711,8 @@ _unpaved_: 80,776 km (2017)<br>
 10,000 km (2012) (commercially navigable almost exclusively in the northern and eastern parts of the country)<br>
 
 **Merchant marine**<br>
-_total_: 45<br>
-_by type_: general cargo 29, oil tanker 2, other 14 (2021)<br>
+_total_: 46<br>
+_by type_: general cargo 29, oil tanker 3, other 14 (2022)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Puerto Aguirre (Paraguay/Parana)<br>

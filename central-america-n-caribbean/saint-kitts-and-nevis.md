@@ -564,8 +564,8 @@ the government operates a national TV network that broadcasts on 2 channels; cab
 .kn<br>
 
 **Internet users**<br>
-_total_: 42,796 (2019 est.)<br>
-_percent of population_: 81% (2019 est.)<br>
+_total_: 37,920 (2021 est.)<br>
+_percent of population_: 79% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 30,000 (2020 est.)<br>
@@ -594,8 +594,8 @@ _paved_: 163 km (2002)<br>
 _unpaved_: 220 km (2002)<br>
 
 **Merchant marine**<br>
-_total_: 244<br>
-_by type_: bulk carrier 6, container ship 7, general cargo 45, oil tanker 53, other 133 (2021)<br>
+_total_: 282<br>
+_by type_: bulk carrier 9, container ship 11, general cargo 64, oil tanker 46, other 152 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Basseterre, Charlestown<br>

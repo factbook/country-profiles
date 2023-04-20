@@ -720,8 +720,8 @@ _unpaved_: 1.754 million km (2018)<br>
 50,000 km (2012) (most in areas remote from industry and population)<br>
 
 **Merchant marine**<br>
-_total_: 864<br>
-_by type_: bulk carrier 11, container ship 19, general cargo 42, oil tanker 31, other 761 (2021)<br>
+_total_: 877<br>
+_by type_: bulk carrier 11, container ship 20, general cargo 40, oil tanker 27, other 779 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Belem, Itajai, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao Sebastiao, Tubarao<br>

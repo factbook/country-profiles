@@ -308,9 +308,9 @@ Volta river mouth (shared with Burkina Faso [s]) - 1,600 km<br><strong>note</str
 Atlantic Ocean drainage: Volta (410,991 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 300 million cubic meters (2019 est.)<br>
-_industrial_: 100 million cubic meters (2019 est.)<br>
-_agricultural_: 1.07 billion cubic meters (2019 est.)<br>
+_municipal_: 300 million cubic meters (2020 est.)<br>
+_industrial_: 100 million cubic meters (2020 est.)<br>
+_agricultural_: 1.07 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 56.2 billion cubic meters (2019 est.)<br>
@@ -541,7 +541,7 @@ $25.592 billion (2019 est.)<br>
 Switzerland 23%, United Arab Emirates 12%, China 12%, India 9%, Netherlands 5% (2020)<br>
 
 **Exports - commodities**<br>
-gold, crude petroleum, cocoa products, manganese, cashews (2019)<br>
+gold, crude petroleum, cocoa products, cashews, manganese&nbsp; (2021)<br>
 
 **Imports**<br>
 $25.967 billion (2021 est.) note: data are in current year dollars<br>
@@ -704,8 +704,8 @@ _urban_: 28,480 km 27% total paved 73% total unpaved<br>
 1,293 km (2011) (168 km for launches and lighters on Volta, Ankobra, and Tano Rivers; 1,125 km of arterial and feeder waterways on Lake Volta)<br>
 
 **Merchant marine**<br>
-_total_: 51<br>
-_by type_: general cargo 7, oil tanker 3, other 41 (2021)<br>
+_total_: 52<br>
+_by type_: general cargo 7, oil tanker 3, other 42 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Takoradi, Tema<br>

@@ -695,8 +695,8 @@ _total_: 26,958 km (2015) (includes 1,416 km of expressways)<br>
 4,714 km (2022) Danube 2,859 km, Sava 562 km, Drava 505 km, Neretva 20 km, Bosut 151 km, Kupa 296 km, Mura 53 km, Korana 134 km, Lonja 134 km<br>
 
 **Merchant marine**<br>
-_total_: 354<br>
-_by type_: bulk carrier 14, general cargo 32, oil tanker 16, other 292 (2021)<br>
+_total_: 376<br>
+_by type_: bulk carrier 12, general cargo 33, oil tanker 14, other 317 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ploce, Rijeka, Sibenik, Split<br>

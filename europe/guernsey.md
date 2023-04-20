@@ -303,7 +303,9 @@ $52,500 (2014 est.)<br>
 $2.742 billion (2005 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
+6.8% (2022 est.)<br>
 3.4% (June 2006 est.)<br>
+<strong>note:</strong> data represent Retail Price Index inflation rates<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3% (2000)<br>

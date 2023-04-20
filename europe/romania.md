@@ -635,8 +635,8 @@ a mixture of public and private TV stations; there are 7 public TV stations (2 n
 .ro<br>
 
 **Internet users**<br>
-_total_: 15,020,866 (2020 est.)<br>
-_percent of population_: 78% (2020 est.)<br>
+_total_: 15.96 million (2021 est.)<br>
+_percent of population_: 84% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 5,684,782 (2020 est.)<br>
@@ -686,8 +686,8 @@ _unpaved_: 34,312 km (2012)<br>
 1,731 km (2010) (includes 1,075 km on the Danube River, 524 km on secondary branches, and 132 km on canals)<br>
 
 **Merchant marine**<br>
-_total_: 121<br>
-_by type_: general cargo 11, oil tanker 6, other 104 (2021)<br>
+_total_: 125<br>
+_by type_: general cargo 11, oil tanker 6, other 108 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Constanta, Midia<br>
@@ -734,7 +734,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 107,706 (Ukraine) (as of 2 April 2023)<br>
 _stateless persons_: 297 (2022)<br>
-<strong>note:</strong> 12,969 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
+<strong>note:</strong> 13,070 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis</p><br>

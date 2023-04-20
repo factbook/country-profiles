@@ -674,8 +674,8 @@ _unpaved_: 4,270 km (2016)<br>
 _Turkish Cypriot control_: 7,000 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 1,051<br>
-_by type_: bulk carrier 269, container ship 182, general cargo 197, oil tanker 59, other 344 (2021)<br>
+_total_: 1,030<br>
+_by type_: bulk carrier 255, container ship 169, general cargo 200, oil tanker 61, other 345 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: area under government control: Larnaca, Limassol, Vasilikos<br>

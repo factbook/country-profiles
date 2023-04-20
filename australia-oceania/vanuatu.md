@@ -590,8 +590,8 @@ _international_: country code - 678; landing points for the ICN1 &amp; ICN2 subm
 .vu<br>
 
 **Internet users**<br>
-_total_: 77,969 (2019 est.)<br>
-_percent of population_: 26% (2019 est.)<br>
+_total_: 211,200 (2021 est.)<br>
+_percent of population_: 66% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,785 (2020 est.)<br>
@@ -628,8 +628,8 @@ _paved_: 256 km (2000)<br>
 _unpaved_: 814 km (2000)<br>
 
 **Merchant marine**<br>
-_total_: 306<br>
-_by type_: bulk carrier 18, container ship 2, general cargo 55, oil tanker 2, other 229 (2021)<br>
+_total_: 331<br>
+_by type_: bulk carrier 16, container ship 4, general cargo 87, oil tanker 2, other 222 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila<br>

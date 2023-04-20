@@ -95,9 +95,9 @@ six of the world's seven continents are widely and permanently inhabited; Asia i
 Christian 31.1%, Muslim 24.9%, Hindu 15.2%, Buddhist 6.6%, folk religions 5.6%, Jewish &lt;1%, other &lt;1%, unaffiliated 15.6% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 25.18% (male 1,010,373,278/female 946,624,579)<br>
-_15-64 years_: 15.29% (male 614,046,344/female 574,513,854)<br>
-_65 years and over_: 9.69% (male 337,244,947/female 415,884,753) (2021 est.)<br>
+_0-14 years_: 24.7% (male 1,013,862,872/female 954,310,632)<br>
+_15-64 years_: 65.2% (male 2,632,261,828/female 2,569,677,967)<br>
+_65 years and over_: 10.1% (male 359,529,609/female 448,106,332) (2023 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.1<br>
@@ -437,16 +437,16 @@ _general assessment_: Information, Communications, and Technology (ICT) is tied 
 _international_: <em>economic impact</em> - telecommunications has been and continues to be one of the world’s fastest growing markets; countries and firms are transitioning from analog to digital broadcasting, increasing automation capabilities and applications, adopting more high-definition technologies, and converting to digital channels<br><br>broadcasting typically refers to transmission of information to all devices in a network without any acknowledgment by the receivers; data processing parts and accessories includes many supporting elements to broadcasting equipment, such as monitors, keyboards, printers, etc.<br><br>in terms of market size, broadcasting equipment constituted $413 billion in global trade, making it the fifth most traded commodity in 2019; similarly, data processing equipment equaled $230 billion, the eighth most traded commodity globally; the chief exporters and importers of telecommunications commodities remain largely the same: 1) China leads in both broadcasting and data processing equipment exports, $208 billion and $81.5 billion respectively and 2) the United States, conversely, receives the most of both commodities, importing $81.1 billion in broadcasting equipment and $38.3 billion in data processing equipment in 2019<br><br><em>infrastructure</em> - as of 2021, 428 submarine cables have been laid worldwide with a further 36 planned; the undersea cables connect to 1,245 landing stations<br>
 
 **Internet users**<br>
-_total_: 4.9 billion (2021 est.)<br>
-_percent of population_: 63% (2021 est.)<br>
-<strong>top ten countries by Internet usage (in millions):</strong> 730.7 China; 374.3 India; 246.8 United States; 122.8 Brazil; 116.6 Japan; 108.8 Russia; 73.3 Mexico; 72.3 Germany; 65.5 Indonesia; 61 United Kingdom (2017)<br>
+_total_: 5.3 billion (2022 est.)<br>
+_percent of population_: 66% (2022 est.)<br>
+<strong>top ten countries by Internet usage (in millions):</strong> 854 China; 560 India; 293 United States; 171 Indonesia; 149 Brazil; 123 Nigeria; 119 Japan; 116 Russia; 96 Bangladesh; 88 Mexico (2023)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1.23 billion (2020 est.) ;the number of fixed broadband subscriptions has been higher than that of fixed telephony since 2017<br>
 _subscriptions per 100 inhabitants_: 17 (2021 est.)<br>
 
 **Communications - note**<br>
-data centers consist of a dedicated space within a building or a group of buildings used to house computing resources and other components, such as telecommunications and storage systems; the ongoing worldwide boom in data generation is responsible for the mushrooming of data centers; the three largest data center facilities by area as of the first half of 2022 are:<br> <br>no. 1. - the China Telecom data center located in the Inner Mongolia Information Park, Hohhot, China, reportedly covers 1 million sq m (10.7 million sq ft); the largest Internet data center in the world, it has over 50% market share in the Chinese data center market, with an extensive network of over 400 data centers located in prime regions in mainland China and overseas markets <br><br>no. 2. - the China Mobile data center located in the Inner Mongolia Information Park, Hohhot, China, covers 720,000 sq m (7.7 million sq ft); it is one of the world's biggest cloud computing data centers<br><br>no. 3. - The Citadel data center owned by US-based Switch, in Tahoe Reno, Nevada, covers 670,000 sq m (7.2 million sq ft); called the world’s largest technology ecosystem, the facility runs on 100% renewable (solar and wind) energy<br>
+a data center is a centralized facility that uses networked computers and storage systems in its infrastructure; they exist to provide shared access to applications and data and high-level computing; the worlds ten largest data center facilities are:<br> <br>1. China Unicom<br><br>2. Amazon Web Services<br><br>3. China Telecom<br><br>4. NTT Communications<br><br>5. Equinix<br><br>6. Digital Reality<br><br>7. Cyxtera Technologies<br><br>8. Coresite<br><br>9. Switch (The Citadel Campus)<br><br>10. 365 Data Centers (2023)<br>
 
 ## Transportation
 
@@ -465,8 +465,8 @@ _total_: 1,148,186 km (2013)<br>
 <strong>top ten longest rivers:</strong> Nile (Africa) 6,693 km; Amazon (South America) 6,436 km; Mississippi-Missouri (North America) 6,238 km; Yenisey-Angara (Asia) 5,981 km; Ob-Irtysh (Asia) 5,569 km; Yangtze (Asia) 5,525 km; Yellow (Asia) 4,671 km; Amur (Asia) 4,352 km; Lena (Asia) 4,345 km; Congo (Africa) 4,344 km<br><br><strong>note 1:</strong> rivers are not necessarily navigable along the entire length; if measured by volume, the Amazon is the largest river in the world, responsible for about 20% of the Earth's freshwater entering the ocean<br><br><strong>note 2:</strong> there are 20 countries without rivers: 3 in Africa (Comoros, Djibouti, Libya); 1 in the Americas (Bahamas); 8 in Asia (Bahrain, Kuwait, Maldives, Oman, Qatar, Saudi Arabia, United Arab Emirates, Yemen); 3 in Europe (Malta, Monaco, Holy See), 5 in Oceania (Kiribati, Marshall Islands, Nauru, Tonga, Tuvalu); these countries also do not have natural lakes<br><br><strong>top ten largest natural lakes (by surface area): </strong>Caspian Sea (Azerbaijan, Iran, Kazakhstan, Russia, Turkmenistan) 372,960 sq km; Lake Superior (Canada, United States) 82,414 sq km; Lake Victoria (Kenya, Tanzania, Uganda) 69,490 sq km; Lake Huron (Canada, United States) 59,596 sq km; Lake Michigan (United States) 57,441 sq km; Lake Tanganyika (Burundi, Democratic Republic of the Congo, Tanzania, Zambia) 32,890 sq km; Great Bear Lake (Canada) 31,800 sq km; Lake Baikal (Russia) 31,494 sq km; Lake Nyasa (Malawi, Mozambique, Tanzania) 30,044 sq km; Great Slave Lake (Canada) 28,400 sq km<br><br><strong>note 1:</strong> the areas of the lakes are subject to seasonal variation; only the Caspian Sea is saline, the rest are fresh water<br><br><strong>note 2:</strong> Lakes Huron and Michigan are technically a single lake because the flow of water between the Straits of Mackinac that connects the two lakes keeps their water levels at near-equilibrium; combined, Lake Huron-Michigan is the largest freshwater lake by surface area in the world<br><br><strong>note 3: </strong>the deepest lake in the world (1,620 m), and also the largest freshwater lake by volume (23,600 cu km), is Lake Baikal in Russia<br>
 
 **Merchant marine**<br>
-_total_: 98,202<br>
-_by type_: bulk carrier 12,319, container ship 5,428, general cargo 18,993, oil tanker 11,243, other 50,219 (2021)<br>
+_total_: 101,158<br>
+_by type_: bulk carrier 12,707, container ship 5,583, general cargo 19,647, oil tanker 11,396, other 51,825 (2022)<br>
 
 **Ports and terminals**<br>
 <strong>top twenty container ports as measured by Twenty-Foot Equivalent Units (TEUs) throughput:</strong> Shanghai (China) - 47,030,300; Singapore (Singapore) - 37,470,000; Ningbo (China) - 31,070,000; Shenzhen (China) - 28,767,600; Guangzhou (China) - 24,180,000; Qingdao (China) - 23,710,000; Busan (South Korea) - 22,706,130; Tianjin (China) - 20,269,400; Hong Kong (China) - 17,798,000; Rotterdam (Netherlands) - 15,300,000; Dubai (UAE) - 13,742,000; Port Kelang (Malaysia) - 13,724,460; Xiamen (China) - 12,045,700; Antwerp (Belgium) - 12,020,000; Tanjung Pelepas (Malaysia) - 11,200,000; Los Angeles (US) - 10,677,610; Kaohsiung (Taiwan) - 9,864,448; Long Beach (US) - 9,384,368; New York/New Jersey (US) - 8,985,929; Hamburg (Germany) - 8,715,000 (2021)<br>

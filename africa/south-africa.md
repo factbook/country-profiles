@@ -651,8 +651,8 @@ the South African Broadcasting Corporation (SABC) operates 4 TV stations, 3 are 
 .za<br>
 
 **Internet users**<br>
-_total_: 41,516,083 (2020 est.)<br>
-_percent of population_: 70% (2020 est.)<br>
+_total_: 42.48 million (2021 est.)<br>
+_percent of population_: 72% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,303,057 (2020 est.)<br>
@@ -702,8 +702,8 @@ _paved_: 158,124 km (2016)<br>
 _unpaved_: 591,876 km (2016)<br>
 
 **Merchant marine**<br>
-_total_: 105<br>
-_by type_: bulk carrier 2, general cargo 1, oil tanker 7, other 95 (2021)<br>
+_total_: 107<br>
+_by type_: bulk carrier 3, general cargo 1, oil tanker 7, other 96 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay<br>

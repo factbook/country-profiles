@@ -628,8 +628,8 @@ _international_: country code - 232; landing point for the ACE submarine cable l
 .sl<br>
 
 **Internet users**<br>
-_total_: 1,435,857 (2020 est.)<br>
-_percent of population_: 18% (2020 est.)<br>
+_total_: 1,047,499 (2022 est.)<br>
+_percent of population_: 12.7% (2022 est.)<br>
 
 ## Transportation
 
@@ -665,8 +665,8 @@ _non-urban_: 8,700 km (2015)<br>
 800 km (2011) (600 km navigable year-round)<br>
 
 **Merchant marine**<br>
-_total_: 591<br>
-_by type_: bulk carrier 30, container ship 9, general cargo 319, oil tanker 108, other 125 (2021)<br>
+_total_: 605<br>
+_by type_: bulk carrier 36, container ship 6, general cargo 325, oil tanker 104, other 134 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Freetown, Pepel, Sherbro Islands<br>

@@ -615,8 +615,8 @@ _international_: country code - 239; landing points for the Ultramar GE and ACE 
 .st<br>
 
 **Internet users**<br>
-_total_: 72,323 (2020 est.)<br>
-_percent of population_: 33% (2020 est.)<br>
+_total_: 112,200 (2021 est.)<br>
+_percent of population_: 51% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,512 (2020 est.)<br>
@@ -645,8 +645,8 @@ _paved_: 230 km (2018)<br>
 _unpaved_: 1,070 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 22<br>
-_by type_: general cargo 13, oil tanker 2, other 7 (2021)<br>
+_total_: 25<br>
+_by type_: general cargo 15, oil tanker 2, other 8 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Sao Tome<br>

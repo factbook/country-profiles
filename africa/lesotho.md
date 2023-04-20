@@ -294,8 +294,8 @@ Orange river source (shared with South Africa and Namibia [m]) - 2,092 km<br><st
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 20 million cubic meters (2017 est.)<br>
-_industrial_: 20 million cubic meters (2017 est.)<br>
+_municipal_: 20 million cubic meters (2020 est.)<br>
+_industrial_: 20 million cubic meters (2020 est.)<br>
 _agricultural_: 3.8 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
@@ -636,8 +636,8 @@ _international_: country code - 266; Internet accessibility has improved with se
 .ls<br>
 
 **Internet users**<br>
-_total_: 921,168 (2020 est.)<br>
-_percent of population_: 43% (2020 est.)<br>
+_total_: 1.104 million (2021 est.)<br>
+_percent of population_: 48% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 5,060 (2020 est.)<br>

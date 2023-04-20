@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Kuwait has been ruled by the AL-SABAH dynasty since the 18th century. The threat of Ottoman invasion in 1899 prompted Amir Mubarak AL-SABAH to seek protection from Britain, ceding foreign and defense responsibility to Britain until 1961, when the country attained its independence. Kuwait was attacked and overrun by Iraq in August 1990. Following several weeks of aerial bombardment, a US-led UN coalition began a ground assault in February 1991 that liberated Kuwait in four days. In 1992, the Amir reconstituted the parliament that he had dissolved in 1986. Amid the 2010-11 uprisings and protests across the Arab world, stateless Arabs, known as Bidoon, staged small protests in early 2011 demanding citizenship, jobs, and other benefits available to Kuwaiti nationals. Other demographic groups, notably Islamists and Kuwaitis from tribal backgrounds, soon joined the growing protest movements, which culminated in late 2011 with the resignation of the prime minister amidst allegations of corruption. Demonstrations renewed in late 2012 in response to an amiri decree amending the electoral law that lessened the voting power of the tribal blocs. <br><br>An opposition coalition of Sunni Islamists, tribal populists, and some liberals, largely boycotted legislative elections in 2012 and 2013, which ushered in a legislature more amenable to the government's agenda. Faced with the prospect of painful subsidy cuts, oppositionists and independents actively participated in the November 2016 election, winning nearly half of the seats, but a cohesive opposition alliance largely ceased to exist with the 2016 election and the opposition became increasingly factionalized. Since coming to power in 2006, the Amir has dissolved the National Assembly on seven occasions (the Constitutional Court annulled the Assembly elections in June 2012 and again in June 2013) and shuffled the cabinet over a dozen times, usually citing political stagnation and gridlock between the legislature and the government.<br><br>The current Amir, who assumed his role in 2020, launched a "National Dialogue" in September 2021 meant to resolve political gridlock. As part of the "National Dialogue," the Amir pardoned several opposition figures who had been living in exile, and they returned to Kuwait. Legislative challenges remain, and the cabinet was reshuffled in March 2022.</p><br>
+<p>Kuwait has been ruled by the AL-SABAH dynasty since the 18th century. The threat of Ottoman invasion in 1899 prompted Amir Mubarak AL-SABAH to seek protection from Britain, ceding foreign and defense responsibility to Britain until 1961, when the country attained its independence. Kuwait was attacked and overrun by Iraq in August 1990. Following several weeks of aerial bombardment, a US-led UN coalition began a ground assault in February 1991 that liberated Kuwait in four days. In 1992, the Amir reconstituted the parliament that he had dissolved in 1986. Amid the 2010-11 uprisings and protests across the Arab world, stateless Arabs, known as Bidoon, staged small protests in early 2011 demanding citizenship, jobs, and other benefits available to Kuwaiti nationals. Other demographic groups, notably Islamists and Kuwaitis from tribal backgrounds, soon joined the growing protest movements, which culminated in late 2011 with the resignation of the prime minister amidst allegations of corruption. Demonstrations renewed in late 2012 in response to an amiri decree amending the electoral law that lessened the voting power of the tribal blocs. <br><br>An opposition coalition of Sunni Islamists, tribal populists, and some liberals, largely boycotted legislative elections in 2012 and 2013, which ushered in a legislature more amenable to the government's agenda. Faced with the prospect of painful subsidy cuts, oppositionists and independents actively participated in the November 2016 election, winning nearly half of the seats, but a cohesive opposition alliance largely ceased to exist with the 2016 election and the opposition became increasingly factionalized. Between 2006 and his death in 2020, the previous Kuwaiti Amir dissolved the National Assembly on seven occasions (the Constitutional Court annulled the Assembly elections in June 2012 and again in June 2013) and shuffled the cabinet over a dozen times, usually citing political stagnation and gridlock between the legislature and the government.<br><br>The current Amir, who assumed his role in 2020, launched a "National Dialogue" in September 2021 meant to resolve political gridlock. As part of the "National Dialogue," the Amir pardoned several opposition figures who had been living in exile, and they returned to Kuwait. Legislative challenges remain, and the cabinet has been reshuffled six times since late 2020. </p><br>
 
 ## Geography
 
@@ -277,9 +277,9 @@ Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq 
 Arabian Aquifer System<br>
 
 **Total water withdrawal**<br>
-_municipal_: 448.3 million cubic meters (2017 est.)<br>
-_industrial_: 23.3 million cubic meters (2017 est.)<br>
-_agricultural_: 778.4 million cubic meters (2017 est.)<br>
+_municipal_: 450 million cubic meters (2020 est.)<br>
+_industrial_: 20 million cubic meters (2020 est.)<br>
+_agricultural_: 780 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 20 million cubic meters (2019 est.)<br>
@@ -340,6 +340,7 @@ _elections/appointments_: amir chosen from within the ruling family, confirmed b
 _description_: unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&nbsp;appointed by the amir; members serve 4-year terms)<br>
 _elections_: last held on 29 September 2022 (next to be held in 2026)<br>
 _election results_: 50 nonpartisans elected, of which 28 were opposition candidates; composition - men 48, women 2, percent of women 4%<br>
+<strong>Note</strong>: the Kuwait Constitutional Court, on 19 March 2023, annulled the 29 September 2022 National Assembly election and ordered reinstatement of the previous Assembly<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Constitutional Court (consists of 5 judges); Supreme Court or Court of Cassation (organized into several circuits, each with 5 judges)<br>
@@ -659,8 +660,8 @@ _paved_: 4,887 km (2018)<br>
 _unpaved_: 862 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 165<br>
-_by type_: general cargo 15, oil tanker 28, other 122 (2021)<br>
+_total_: 166<br>
+_by type_: general cargo 15, oil tanker 29, other 122 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'Abd Allah, Mina' al Ahmadi<br>

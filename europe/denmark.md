@@ -668,8 +668,8 @@ _paved_: 74,558 km (2017) (includes 1,205 km of expressways)<br>
 400 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 717<br>
-_by type_: bulk carrier 8, container ship 148, general cargo 68, oil tanker 105, other 388 (2021)<br>
+_total_: 731<br>
+_by type_: bulk carrier 13, container ship 137, general cargo 70, oil tanker 118, other 393 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Baltic Sea - Aarhus, Copenhagen, Fredericia, Kalundborg<br>

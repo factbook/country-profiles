@@ -244,7 +244,7 @@ _rate of urbanization_: 0.86% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 29,536 tons (2012 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 10 million cubic meters (2019 est.)<br>
+_municipal_: 10 million cubic meters (2020 est.)<br>
 _industrial_: 0 cubic meters (2017 est.)<br>
 _agricultural_: 2.1 million cubic meters (2017 est.)<br>
 
@@ -455,7 +455,7 @@ $661.723 million (2019 est.)<br>
 United States 40%, Saint Vincent and the Grenadines 7%, Saint Lucia 7%, France 6%, Netherlands 5%, Germany 5%, Ireland 5%, Antigua and Barbuda 5% (2019)<br>
 
 **Exports - commodities**<br>
-fish, nutmeg, cocoa beans, fruits, wheat, toilet paper (2019)<br>
+nutmeg, tuna, cocoa beans, fruits, nuts, toilet paper, acrylic paints, beer (2021)<br>
 
 **Imports**<br>
 $650 million (2021 est.) note: data are in current year dollars<br>
@@ -596,7 +596,7 @@ _unpaved_: 225 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 6<br>
-_by type_: general cargo 3, other 3 (2021)<br>
+_by type_: general cargo 3, other 3 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Saint George's<br>

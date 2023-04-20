@@ -316,9 +316,9 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basi
 Lake Chad Basin, Lullemeden-Irhazer Aquifer System<br>
 
 **Total water withdrawal**<br>
-_municipal_: 5 billion cubic meters (2017 est.)<br>
-_industrial_: 1.965 billion cubic meters (2017 est.)<br>
-_agricultural_: 5.51 billion cubic meters (2017 est.)<br>
+_municipal_: 5 billion cubic meters (2020 est.)<br>
+_industrial_: 1.97 billion cubic meters (2020 est.)<br>
+_agricultural_: 5.51 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 286.2 billion cubic meters (2019 est.)<br>
@@ -663,8 +663,8 @@ nearly 70 federal government-controlled national and regional TV stations; all 3
 .ng<br>
 
 **Internet users**<br>
-_total_: 74,210,251 (2020 est.)<br>
-_percent of population_: 36% (2020 est.)<br>
+_total_: 115.5 million (2021 est.)<br>
+_percent of population_: 55% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 65,313 (2020 est.)<br>
@@ -719,8 +719,8 @@ _unpaved_: 135,000 km (2017)<br>
 8,600 km (2011) (Niger and Benue Rivers and smaller rivers and creeks)<br>
 
 **Merchant marine**<br>
-_total_: 791<br>
-_by type_: general cargo 14, oil tanker 110, other 667 (2021)<br>
+_total_: 832<br>
+_by type_: general cargo 16, oil tanker 111, other 705 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bonny Inshore Terminal, Calabar, Lagos<br>
@@ -772,7 +772,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa; Jama’atu Ansar
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 87,220 (Cameroon) (2023)<br>
-_IDPs_: 3.17 million (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2023)<br>
+_IDPs_: 3.3 million (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2023)<br>
 
 **Illicit drugs**<br>
 a significant source for cannabis cultivation and methamphetamine production; a major place for transnational drug trafficking networks that supply cocaine to Asia and Europe, heroin to Europe and North America, and methamphetamine to South Africa, Southeast Asia, Australia, and New Zealand; traffickers also involved in the transportation, facilitation, and distribution of illicitly diverted tramadol<br>

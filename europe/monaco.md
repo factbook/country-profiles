@@ -236,7 +236,7 @@ _municipal solid waste recycled annually_: 2,484 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 5.4% (2012 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 5 million cubic meters (2017 est.)<br>
+_municipal_: 10 million cubic meters (2020 est.)<br>
 _industrial_: 0 cubic meters (2017 est.)<br>
 _agricultural_: 0 cubic meters (2017 est.)<br>
 
@@ -470,8 +470,8 @@ TV Monte-Carlo operates a TV network; cable TV available; Radio Monte-Carlo has 
 .mc<br>
 
 **Internet users**<br>
-_total_: 37,798 (2019 est.)<br>
-_percent of population_: 97% (2019 est.)<br>
+_total_: 31,820 (2021 est.)<br>
+_percent of population_: 86% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 20,877 (2020 est.)<br>

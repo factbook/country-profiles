@@ -667,8 +667,8 @@ _international_: country code - 7; landing points for the Far East Submarine Cab
 .ru; note - Russia also has responsibility for a legacy domain ".su" that was allocated to the Soviet Union and is being phased out<br>
 
 **Internet users**<br>
-_total_: 122,488,468 (2020 est.)<br>
-_percent of population_: 85% (2020 est.)<br>
+_total_: 132 million (2021 est.)<br>
+_percent of population_: 88% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 33,893,305 (2020 est.)<br>
@@ -723,8 +723,8 @@ _unpaved_: 355,666 km (2012)<br>
 102,000 km (2009) (including 48,000 km with guaranteed depth; the 72,000-km system in European Russia links Baltic Sea, White Sea, Caspian Sea, Sea of Azov, and Black Sea)<br>
 
 **Merchant marine**<br>
-_total_: 2,873<br>
-_by type_: bulk carrier 13, container ship 17, general cargo 946, oil tanker 406, other 1,491 (2021)<br>
+_total_: 2,917<br>
+_by type_: bulk carrier 12, container ship 18, general cargo 987, oil tanker 392, other 1,508 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: <em><br>Arctic Ocean: </em>Arkhangelsk, Murmansk<em><br>Baltic Sea:</em> Kaliningrad, Primorsk, Saint Petersburg<br><em>Black Sea:</em> Novorossiysk<br><em>Pacific Ocean:</em> Nakhodka, Vladivostok, Vostochnyy<br>

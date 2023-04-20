@@ -309,9 +309,9 @@ Zambezi river mouth (shared with Zambia [s]), Angola, Namibia, Botswana, and Zim
 Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 372 million cubic meters (2017 est.)<br>
-_industrial_: 25 million cubic meters (2017 est.)<br>
-_agricultural_: 1.076 billion cubic meters (2017 est.)<br>
+_municipal_: 370 million cubic meters (2020 est.)<br>
+_industrial_: 30 million cubic meters (2020 est.)<br>
+_agricultural_: 1.08 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 217.1 billion cubic meters (2019 est.)<br>
@@ -655,8 +655,8 @@ _international_: country code - 258; landing points for the EASSy and SEACOM/ Ta
 .mz<br>
 
 **Internet users**<br>
-_total_: 5,313,424 (2020 est.)<br>
-_percent of population_: 17% (2020 est.)<br>
+_total_: 5.44 million (2021 est.)<br>
+_percent of population_: 17% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 70,000 (2020 est.)<br>
@@ -708,7 +708,7 @@ _unpaved_: 23,718 km (2015)<br>
 
 **Merchant marine**<br>
 _total_: 30<br>
-_by type_: general cargo 9, other 21 (2021)<br>
+_by type_: general cargo 9, other 21 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Beira, Maputo, Nacala<br>

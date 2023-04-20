@@ -515,6 +515,7 @@ Germany 17%, France 14%, Netherlands 13%, United Kingdom 8%, United States 6%, I
 
 **Exports - commodities**<br>
 vaccines and cultures, cars, packaged medicines, refined petroleum, diamonds, natural gas (2021)<br>
+<strong>note:</strong> Belgian amphetamine production and MDMA (ecstasy) production remain significant illicit trade commodities<br>
 
 **Imports**<br>
 $509.018 billion (2021 est.) note: data are in current year dollars<br>
@@ -677,8 +678,8 @@ _paved_: 118,414 km (2015) (includes 1,747 km of expressways)<br>
 2,043 km (2012) (1,528 km in regular commercial use)<br>
 
 **Merchant marine**<br>
-_total_: 201<br>
-_by type_: bulk carrier 19, container ship 7, general cargo 16, oil tanker 21, other 138 (2021)<br>
+_total_: 199<br>
+_by type_: bulk carrier 18, container ship 3, general cargo 15, oil tanker 23, other 140 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Oostende, Zeebrugge<br>

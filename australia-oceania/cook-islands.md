@@ -548,8 +548,8 @@ _paved_: 207 km (2018)<br>
 _unpaved_: 88 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 194<br>
-_by type_: bulk carrier 19, container ship 1, general cargo 57, oil tanker 54, other 63 (2021)<br>
+_total_: 189<br>
+_by type_: bulk carrier 20, general cargo 53, oil tanker 51, other 65 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Avatiu<br>

@@ -302,9 +302,9 @@ Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambez
 Lower Kalahari-Stampriet Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 73 million cubic meters (2017 est.)<br>
-_industrial_: 14 million cubic meters (2017 est.)<br>
-_agricultural_: 201 million cubic meters (2017 est.)<br>
+_municipal_: 70 million cubic meters (2020 est.)<br>
+_industrial_: 10 million cubic meters (2020 est.)<br>
+_agricultural_: 201 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 39.9 billion cubic meters (2019 est.)<br>
@@ -648,8 +648,8 @@ _international_: country code - 264;&nbsp;landing points for the ACE and WACS&nb
 .na<br>
 
 **Internet users**<br>
-_total_: 1,041,776 (2020 est.)<br>
-_percent of population_: 41% (2020 est.)<br>
+_total_: 1.325 million (2021 est.)<br>
+_percent of population_: 53% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 71,063 (2020 est.)<br>
@@ -692,8 +692,8 @@ _paved_: 7,893 km (2018)<br>
 _unpaved_: 40,982 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 14<br>
-_by type_: general cargo 1, other 13 (2021)<br>
+_total_: 15<br>
+_by type_: general cargo 1, other 14 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Luderitz, Walvis Bay<br>

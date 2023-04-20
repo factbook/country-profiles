@@ -274,9 +274,9 @@ _percent of municipal solid waste recycled_: 0.2% (2013 est.)<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 277.5 million cubic meters (2017 est.)<br>
-_industrial_: 225,809,581.6 cubic meters (2017 est.)<br>
-_agricultural_: 329,217,707.7 cubic meters (2017 est.)<br>
+_municipal_: 310 million cubic meters (2020 est.)<br>
+_industrial_: 20 million cubic meters (2020 est.)<br>
+_agricultural_: 140 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 6.4 billion cubic meters (2019 est.)<br>
@@ -623,8 +623,8 @@ public service TV broadcaster Macedonian Radio and Television operates 3 nationa
 .mk<br>
 
 **Internet users**<br>
-_total_: 1,678,750 (2020 est.)<br>
-_percent of population_: 81% (2020 est.)<br>
+_total_: 1.743 million (2021 est.)<br>
+_percent of population_: 83% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 475,569 (2020 est.)<br>

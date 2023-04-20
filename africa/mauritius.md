@@ -268,9 +268,9 @@ _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 438,000 tons (2016 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 260 million cubic meters (2017 est.)<br>
-_industrial_: 12 million cubic meters (2017 est.)<br>
-_agricultural_: 344 million cubic meters (2017 est.)<br>
+_municipal_: 290 million cubic meters (2020 est.)<br>
+_industrial_: 10 million cubic meters (2020 est.)<br>
+_agricultural_: 310 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 2.8 billion cubic meters (2019 est.)<br>
@@ -610,8 +610,8 @@ the Mauritius Broadcasting Corporation is the national public television and rad
 .mu<br>
 
 **Internet users**<br>
-_total_: 822,731 (2020 est.)<br>
-_percent of population_: 65% (2020 est.)<br>
+_total_: 884,000 (2021 est.)<br>
+_percent of population_: 68% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 323,200 (2020 est.)<br>
@@ -647,8 +647,8 @@ _paved_: 2,379 km (2015) (includes 99 km of expressways)<br>
 _unpaved_: 49 km (2015)<br>
 
 **Merchant marine**<br>
-_total_: 29<br>
-_by type_: general cargo 1, oil tanker 4, other 24 (2021)<br>
+_total_: 31<br>
+_by type_: general cargo 1, oil tanker 5, other 25 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Port Louis<br>

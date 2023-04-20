@@ -293,9 +293,9 @@ Mekong (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,3
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 130 million cubic meters (2017 est.)<br>
-_industrial_: 170 million cubic meters (2017 est.)<br>
-_agricultural_: 7.02 billion cubic meters (2017 est.)<br>
+_municipal_: 130 million cubic meters (2020 est.)<br>
+_industrial_: 170 million cubic meters (2020 est.)<br>
+_agricultural_: 7.05 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 333.5 billion cubic meters (2019 est.)<br>
@@ -304,7 +304,7 @@ _agricultural_: 7.02 billion cubic meters (2017 est.)<br>
 
 **Country name**<br>
 _conventional long form_: Lao People's Democratic Republic<br>
-_conventional short form_: Laos<br>
+_conventional short form_: Laos or Lao PDR<br>
 _local long form_: Sathalanalat Paxathipatai Paxaxon Lao<br>
 _local short form_: Mueang Lao (unofficial)<br>
 _etymology_: name means "Land of the Lao [people]"<br>
@@ -371,7 +371,7 @@ Lao People's Revolutionary Party or LPRP [THONGLOUN Sisoulit]<br>
 ADB, ARF, ASEAN, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IPU, ISO (subscriber), ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Sisavath&nbsp;INPHACHANH (since 7 June 2022)<br>
+_chief of mission_: Ambassador SISAVATH Inphachanh (since 7 June 2022)<br>
 _chancery_: 2222 S Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 328-9148; [1] (202) 332-6416<br>
 _FAX_: [1] (202) 332-4923<br>
@@ -630,7 +630,7 @@ _total subscriptions_: 4,822,973 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 65 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Laos joined the World Trade Organization (WTO) in 2013; one of the conditions of admittance was to establish an independent regulator for its telecom sector within two years; the government had committed to do so by February 2015 as part of the accession agreement; there still has been no sign of any firm plans being made to create an independent regulatory body; the Ministry of Posts and Telecommunications (MPT) retains the primary role in regulating the country&rsquo;s telecom market; with the government also having a financial stake (in part or in whole) in every one of the major fixed-line and mobile operators, the MPT&rsquo;s position and decision-making is far from what could be considered independent; sufficient returns on investment cannot be guaranteed with such strict pricing controls as well as the potential for political interference; fixed-line and mobile penetration levels have, as a result, remained much lower than what&rsquo;s seen in neighboring South East Asian markets; there are signs of growth in the mobile broadband segment as LTE network coverage slowly widens and, more recently, the country&rsquo;s first 5G services start to come on stream; residents in the capital will at least be able to enjoy high-speed services in the near future, while the rest of the country waits patiently to catch up with the rest of the world. (2022)<br>
+_general assessment_: Laos joined the World Trade Organization (WTO) in 2013; one of the conditions of admittance was to establish an independent regulator for its telecom sector within two years; the government had committed to do so by February 2015 as part of the accession agreement; there still has been no sign of any firm plans being made to create an independent regulatory body; the Ministry of Technology and Communications retains the primary role in regulating the country&rsquo;s telecom market; with the government also having a financial stake (in part or in whole) in every one of the major fixed-line and mobile operators, the MPT&rsquo;s position and decision-making is far from what could be considered independent; sufficient returns on investment cannot be guaranteed with such strict pricing controls as well as the potential for political interference; fixed-line and mobile penetration levels have, as a result, remained much lower than what&rsquo;s seen in neighboring South East Asian markets; there are signs of growth in the mobile broadband segment as LTE network coverage slowly widens and, more recently, the country&rsquo;s first 5G services start to come on stream; residents in the capital will at least be able to enjoy high-speed services in the near future, while the rest of the country waits patiently to catch up with the rest of the world. (2022)<br>
 _domestic_: fixed-line nearly 18 per 100 and 65 per 100 for mobile-cellular subscriptions (2021)<br>
 _international_: country code - 856; satellite earth station - 1 Intersputnik (Indian Ocean region) and a second to be developed by China<br>
 
@@ -641,8 +641,8 @@ _international_: country code - 856; satellite earth station - 1 Intersputnik (I
 .la<br>
 
 **Internet users**<br>
-_total_: 2,473,689 (2020 est.)<br>
-_percent of population_: 34% (2020 est.)<br>
+_total_: 4.588 million (2021 est.)<br>
+_percent of population_: 62% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 128,000 (2020 est.)<br>
@@ -677,6 +677,10 @@ _under 914 m_: 22 (2021)<br>
 **Pipelines**<br>
 540 km refined products (2013)<br>
 
+**Railways**<br>
+_total_: 422 km (2023)<br>
+_standard gauge_: 422 km (2023)<br>
+
 **Roadways**<br>
 _total_: 39,586 km (2009)<br>
 _paved_: 5,415 km (2009)<br>
@@ -687,7 +691,7 @@ _unpaved_: 34,171 km (2009)<br>
 
 **Merchant marine**<br>
 _total_: 1<br>
-_by type_: general cargo 1 (2021)<br>
+_by type_: general cargo 1 (2022)<br>
 
 ## Military and Security
 
@@ -712,7 +716,7 @@ the LPAF is armed largely with Soviet-era weapons; in recent years, China and Ru
 18 years of age for compulsory or voluntary military service; minimum 18-month service obligation (2023)<br>
 
 **Military - note**<br>
-the LPAF’s primary missions are border and internal security, including counterinsurgency and counterterrorism<br><br>Vietnam is the Laotian military's primary security partner, although in recent years, Laos has expanded defense ties with China (2022)<br>
+the LPAF’s primary missions are border and internal security, including counterinsurgency and counterterrorism<br><br>Vietnam is the military's primary security partner, although in recent years, Laos has expanded defense ties with China and Russia (2023)<br>
 
 ## Transnational Issues
 

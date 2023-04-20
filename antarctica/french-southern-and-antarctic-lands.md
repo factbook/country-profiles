@@ -178,7 +178,7 @@ _914 to 1,523 m_: 4 (2022)<br>
 
 **Merchant marine**<br>
 _total_: 2<br>
-_by type_: other 2 (2021)<br>
+_by type_: other 2 (2022)<br>
 
 **Ports and terminals**<br>
 none; offshore anchorage only<br>

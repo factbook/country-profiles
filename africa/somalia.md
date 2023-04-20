@@ -608,8 +608,8 @@ _international_: country code - 252; landing points for the G2A, DARE1, PEACE, a
 .so<br>
 
 **Internet users**<br>
-_total_: 308,858 (2019 est.)<br>
-_percent of population_: 2% (2019 est.)<br>
+_total_: 2.465 million (2021 est.)<br>
+_percent of population_: 14.5% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 119,000 (2020 est.)<br>
@@ -646,7 +646,7 @@ _total_: 15,000 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 4<br>
-_by type_: general cargo 1, other 3 (2021)<br>
+_by type_: general cargo 1, other 3 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Berbera, Kismaayo<br>

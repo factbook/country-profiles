@@ -708,7 +708,7 @@ _unpaved_: 20,213 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 11<br>
-_by type_: general cargo 1, oil tanker 1, other 9 (2021)<br>
+_by type_: general cargo 1, oil tanker 1, other 9 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Pointe-Noire<br>

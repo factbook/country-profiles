@@ -595,8 +595,8 @@ _international_: country code - 676; landing point for the Tonga Cable and the T
 .to<br>
 
 **Internet users**<br>
-_total_: 42,844 (2019 est.)<br>
-_percent of population_: 41% (2019 est.)<br>
+_total_: 73,700 (2021 est.)<br>
+_percent of population_: 67% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 5,000 (2020 est.)<br>
@@ -631,7 +631,7 @@ _unpaved_: 496 km (2011)<br>
 
 **Merchant marine**<br>
 _total_: 32<br>
-_by type_: container ship 4, general cargo 13, oil tanker 1, other 14 (2021)<br>
+_by type_: container ship 4, general cargo 13, oil tanker 1, other 14 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Nuku'alofa, Neiafu, Pangai<br>

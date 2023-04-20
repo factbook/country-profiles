@@ -389,7 +389,7 @@ _FAX_: [1] (202) 667-2406<br>
 _email address and website_: <br>consular@sudanembassy.org<br><br>https://www.sudanembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Lucy TAMLYN &nbsp;(since 3 February &nbsp;2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Lucy TAMLYN &nbsp;(since 3 February 2022)<br>
 _embassy_: P.O. Box 699, Kilo 10, Soba, Khartoum<br>
 _mailing address_: 2200 Khartoum Place, Washington DC&nbsp; 20521-2200<br>
 _telephone_: [249] 187-0-22000<br>
@@ -640,8 +640,8 @@ Following the establishment of Sudan&rsquo;s civilian-led transitional governmen
 .sd<br>
 
 **Internet users**<br>
-_total_: 12,277,795 (2020 est.)<br>
-_percent of population_: 28% (2020 est.)<br>
+_total_: 13.248 million (2021 est.)<br>
+_percent of population_: 28.8% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 28,782 (2020 est.)<br>
@@ -696,7 +696,7 @@ _urban_: 1,000 km (2019)<br>
 
 **Merchant marine**<br>
 _total_: 15<br>
-_by type_: other 15 (2021)<br>
+_by type_: other 15 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Port Sudan<br>
@@ -716,7 +716,7 @@ Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Suppo
 <strong>note:</strong> many defense expenditures are probably off-budget<br>
 
 **Military and security service personnel strengths**<br>
-information varies widely; estimated 100-125,000 active duty armed forces personnel; approximately 30-40,000 Rapid Support Forces (2022)<br>
+information varies widely; estimated 100-125,000 active duty armed forces personnel; estimated up to 50,000 Rapid Support Forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, and domestically produced weapons systems; in recent years, Russia has been the leading arms provider; Sudan has one of the largest defense industries in Africa, which includes state-owned companies with military involvement; it mostly manufactures weapons systems under license from China, Russia, Turkey, and Ukraine (2022)<br>

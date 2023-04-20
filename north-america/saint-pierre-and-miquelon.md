@@ -472,8 +472,8 @@ _international_: country code - 508; landing point for the St Pierre and Miquelo
 .pm<br>
 
 **Internet users**<br>
-_total_: 4,500 (2016 est.)<br>
-_percent of population_: 79.5% (2016 est.)<br>
+_total_: 5,099 (2022 est.)<br>
+_percent of population_: 88.7% (2022 est.)<br>
 
 ## Transportation
 

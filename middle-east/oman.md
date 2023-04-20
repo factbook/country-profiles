@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The inhabitants of the area of Oman have long prospered from Indian Ocean trade. In the late 18th century, the nascent sultanate in Muscat signed the first in a series of friendship treaties with Britain. Over time, Oman's dependence on British political and military advisors increased, although the sultanate never became a British colony. In 1970, QABOOS bin Said Al-Said overthrew his father, and ruled as sultan for the next five decades. His extensive modernization program opened the country to the outside world. He prioritized strategic ties with the UK and US, and his moderate, independent foreign policy allowed Oman to maintain good relations with its neighbors and to avoid external entanglements.<br><br>Inspired by the popular uprisings that swept the Middle East and North Africa beginning in January 2011, some Omanis staged demonstrations, calling for more jobs and economic benefits and an end to corruption. In response to those protester demands, QABOOS in 2011 pledged to implement economic and political reforms, such as granting Oman’s bicameral legislative body more power and authorizing direct elections for its lower house, which took place in November 2011. Additionally, the sultan increased unemployment benefits, and, in August 2012, issued a royal directive mandating the speedy implementation of a national job creation plan for thousands of public and private sector Omani jobs. As part of the government's efforts to decentralize authority and allow greater citizen participation in local governance, Oman successfully conducted its first municipal council elections in December 2012. Announced by the sultan in 2011, the municipal councils have the power to advise the Royal Court on the needs of local districts across Oman's 11 governorates. Sultan QABOOS, Oman's longest reigning monarch, died on 11 January 2020. His cousin, HAYTHAM bin Tariq bin Taimur Al-Said, former Minister of Heritage and Culture, was sworn in as Oman's new sultan the same day.</p><br>
+<p>The inhabitants of the area of Oman have long prospered from Indian Ocean trade. In the late 18th century, the nascent sultanate in Muscat signed the first in a series of friendship treaties with Britain. Over time, Oman's dependence on British political and military advisors increased, although the sultanate never became a British colony. In 1970, QABOOS bin Said Al Said overthrew his father, and ruled as sultan for the next five decades. His extensive modernization program opened the country to the outside world. He prioritized strategic ties with the UK and US, and his moderate, independent foreign policy allowed Oman to maintain good relations with its neighbors and to avoid external entanglements.<br><br>Inspired by the popular uprisings that swept the Middle East and North Africa beginning in January 2011, some Omanis staged demonstrations, calling for more jobs and economic benefits and an end to corruption. In response to those protester demands, QABOOS in 2011 pledged to implement economic and political reforms, such as granting Oman’s bicameral legislative body more power and authorizing direct elections for its lower house, which took place in November 2011. Additionally, the sultan increased unemployment benefits, and, in August 2012, issued a royal directive mandating the speedy implementation of a national job creation plan for thousands of public and private sector Omani jobs. As part of the government's efforts to decentralize authority and allow greater citizen participation in local governance, Oman successfully conducted its first municipal council elections in December 2012. Announced by the sultan in 2011, the municipal councils have the power to advise the Royal Court on the needs of local districts across Oman's 11 governorates. Sultan QABOOS, Oman's longest reigning monarch, died on 11 January 2020. His cousin, HAYTHAM bin Tariq Al Said, former Minister of Heritage and Culture, was sworn in as Oman's new sultan the same day.</p><br>
 
 ## Geography
 
@@ -273,9 +273,9 @@ _municipal solid waste generated annually_: 1,734,885 tons (2014 est.)<br>
 Arabian Aquifer System<br>
 
 **Total water withdrawal**<br>
-_municipal_: 130 million cubic meters (2017 est.)<br>
-_industrial_: 135 million cubic meters (2017 est.)<br>
-_agricultural_: 1.607 billion cubic meters (2017 est.)<br>
+_municipal_: 130 million cubic meters (2020 est.)<br>
+_industrial_: 240 million cubic meters (2020 est.)<br>
+_agricultural_: 1.55 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 1.4 billion cubic meters (2019 est.)<br>
@@ -328,8 +328,8 @@ _residency requirement for naturalization_: unknown<br>
 21 years of age; universal; note - members of the military and security forces by law cannot vote<br>
 
 **Executive branch**<br>
-_chief of state_: Sultan and Prime Minister HAYTHAM bin Tariq bin Taimur Al-Said (since 11 January 2020); note - the monarch is both chief of state and head of government<br>
-_head of government_: Sultan and Prime Minister HAYTHAM bin Tariq bin Taimur Al-Said (since 11 January 2020)<br>
+_chief of state_: Sultan and Prime Minister HAYTHAM bin Tariq Al Said (since 11 January 2020); note - the monarch is both chief of state and head of government<br>
+_head of government_: Sultan and Prime Minister HAYTHAM bin Tariq Al Said (since 11 January 2020)<br>
 _cabinet_: Cabinet appointed by the monarch<br>
 
 **Legislative branch**<br>
@@ -618,8 +618,8 @@ _international_: country code - 968;&nbsp;landing points for GSA, AAE-1,&nbsp;Se
 .om<br>
 
 **Internet users**<br>
-_total_: 4,851,291 (2020 est.)<br>
-_percent of population_: 95% (2020 est.)<br>
+_total_: 4.32 million (2021 est.)<br>
+_percent of population_: 96% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 508,949 (2020 est.)<br>
@@ -666,7 +666,7 @@ _unpaved_: 30,545 km (2012)<br>
 
 **Merchant marine**<br>
 _total_: 57<br>
-_by type_: general cargo 10, other 47 (2021)<br>
+_by type_: general cargo 11, other 46 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Mina' Qabus, Salalah, Suhar<br>

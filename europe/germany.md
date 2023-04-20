@@ -291,9 +291,9 @@ Danube river source (shared with Austria, Slovakia, Czechia, Hungary, Croatia, S
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 10.4 billion cubic meters (2019 est.)<br>
-_industrial_: 17.68 billion cubic meters (2019 est.)<br>
-_agricultural_: 400 million cubic meters (2019 est.)<br>
+_municipal_: 10.4 billion cubic meters (2020 est.)<br>
+_industrial_: 17.68 billion cubic meters (2020 est.)<br>
+_agricultural_: 400 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 154 billion cubic meters (2019 est.)<br>
@@ -529,7 +529,7 @@ $1.816 trillion (2019 est.) note: data are in current year dollars<br>
 United States 9%, China 8%, France 8%, Netherlands 6%, United Kingdom 6%&nbsp; (2020)<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, packaged medicines, medical cultures/vaccines, aircraft, industrial machinery (2020)<br>
+cars and vehicle parts, packaged medicines, medical cultures/vaccines, aircraft, industrial machinery, medical instruments (2021)<br>
 
 **Imports**<br>
 $1.775 trillion (2021 est.) note: data are in current year dollars<br>
@@ -580,6 +580,7 @@ _hydroelectricity_: 4.5% of total installed capacity (2020 est.)<br>
 _tide and wave_: 0.2% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 10.4% of total installed capacity (2020 est.)<br>
+<strong>note:</strong> as of April 2023, Germany has closed its three remaining nuclear power plants<br>
 
 **Coal**<br>
 _production_: 114.86 million metric tons (2020 est.)<br>
@@ -696,8 +697,8 @@ _paved_: 625,000 km (2017) (includes 12,996 km of expressways)<br>
 7,467 km (2012) (Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea)<br>
 
 **Merchant marine**<br>
-_total_: 599<br>
-_by type_: container ship 77, general cargo 85, oil tanker 36, other 401 (2021)<br>
+_total_: 592<br>
+_by type_: bulk carrier 1, container ship 72, general cargo 79, oil tanker 34, other 406 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: <br><em>Baltic Sea:</em> Kiel, Rostock<br><em>North Sea:</em> Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven<br>

@@ -591,8 +591,8 @@ state-owned TV station privatized in 2008; 4 privately owned television broadcas
 .ws<br>
 
 **Internet users**<br>
-_total_: 67,012 (2019 est.)<br>
-_percent of population_: 34% (2019 est.)<br>
+_total_: 171,600 (2021 est.)<br>
+_percent of population_: 78% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,692 (2020 est.)<br>
@@ -623,8 +623,8 @@ _under 914 m_: 3 (2021)<br>
 _total_: 1,150 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 12<br>
-_by type_: general cargo 3, oil tanker 3, other 6 (2021)<br>
+_total_: 15<br>
+_by type_: general cargo 3, oil tanker 5, other 7 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Apia<br>

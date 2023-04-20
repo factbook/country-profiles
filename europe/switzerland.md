@@ -641,8 +641,8 @@ _international_: country code - 41; satellite earth stations - 2 Intelsat (Atlan
 .ch<br>
 
 **Internet users**<br>
-_total_: 8,118,367 (2020 est.)<br>
-_percent of population_: 94% (2020 est.)<br>
+_total_: 8.352 million (2021 est.)<br>
+_percent of population_: 96% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,028,238 (2020 est.)<br>
@@ -692,7 +692,7 @@ _paved_: 71,557 km (2017) (includes 1,458 of expressways)<br>
 
 **Merchant marine**<br>
 _total_: 20<br>
-_by type_: bulk carrier 16, general cargo 1, other 3 (includes Liechtenstein) (2021)<br>
+_by type_: bulk carrier 16, general cargo 1, other 3 (includes Liechtenstein) (2022)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Basel (Rhine)<br>

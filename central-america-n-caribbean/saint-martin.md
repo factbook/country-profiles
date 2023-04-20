@@ -319,8 +319,8 @@ _international_: country code - 590; landing points for the SMPR-1, Southern Car
 .mf; note - .gp, the Internet country code for Guadeloupe, and .fr, the Internet country code for France, might also be encountered<br>
 
 **Internet users**<br>
-_total_: 19,300 (March 2022 est.)<br>
-_percent of population_: 48.5% (March 2022 est.)<br>
+_total_: 19,284 (2022 est.)<br>
+_percent of population_: 48.5% (2022 est.)<br>
 
 ## Transportation
 

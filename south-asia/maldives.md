@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>A sultanate since the 12th century, the Maldives became a British protectorate in 1887. The islands became a republic in 1968, three years after independence. President Maumoon Abdul GAYOOM dominated Maldives' political scene for 30 years, elected to six successive terms by single-party referendums. Following political demonstrations in the capital Male in August 2003, GAYOOM and his government pledged to embark upon a process of liberalization and democratic reforms, including a more representative political system and expanded political freedoms. Political parties were legalized in 2005.</p> <p>In June 2008, a constituent assembly - termed the "Special Majlis" - finalized a new constitution ratified by GAYOOM in August 2008. The first-ever presidential elections under a multi-candidate, multi-party system were held in October 2008. GAYOOM was defeated in a runoff poll by Mohamed NASHEED, a political activist who had been jailed several years earlier by the GAYOOM regime. In early February 2012, after several weeks of street protests in response to his ordering the arrest of a top judge, NASHEED purportedly resigned the presidency and handed over power to Vice President Mohammed WAHEED Hassan Maniku. A government-appointed Commission of National Inquiry concluded there was no evidence of a coup, but NASHEED contends that police and military personnel forced him to resign. NASHEED, WAHEED, and Abdulla YAMEEN Abdul Gayoom ran in the 2013 elections with YAMEEN ultimately winning the presidency after three rounds of voting. As president, YAMEEN weakened democratic institutions, curtailed civil liberties, jailed his political opponents, restricted the press, and exerted control over the judiciary to strengthen his hold on power and limit dissent. In September 2018, YAMEEN lost his reelection bid to Ibrahim Mohamed SOLIH, a parliamentarian of the Maldivian Democratic Party (MDP), who had the support of a coalition of four parties that came together to defeat YAMEEN and restore democratic norms to Maldives. In April 2019, SOLIH's MDP won 65 of 87 seats in parliament.</p><br>
+<p>A sultanate since the 12th century, the Maldives became a British protectorate in 1887. The islands became a republic in 1968, three years after independence. President Maumoon Abdul GAYOOM dominated Maldives' political scene for 30 years, elected to six successive terms by single-party referendums. Following political demonstrations in the capital Male in August 2003, GAYOOM and his government pledged to embark upon a process of liberalization and democratic reforms, including a more representative political system and expanded political freedoms. Political parties were legalized in 2005.</p> <p>In June 2008, a constituent assembly - termed the "Special Majlis" - finalized a new constitution ratified by GAYOOM in August 2008. The first-ever presidential elections under a multi-candidate, multi-party system were held in October 2008. GAYOOM was defeated in a runoff poll by Mohamed NASHEED, a political activist who had been jailed several years earlier by the GAYOOM regime. In early February 2012, after several weeks of street protests in response to his ordering the arrest of a top judge, NASHEED purportedly resigned the presidency and handed over power to Vice President Mohammed WAHEED Hassan Maniku. A government-appointed Commission of National Inquiry concluded there was no evidence of a coup, but NASHEED contends that police and military personnel forced him to resign. NASHEED, WAHEED, and Abdulla YAMEEN Abdul Gayoom ran in the 2013 elections with YAMEEN ultimately winning the presidency after three rounds of voting. As president, YAMEEN weakened democratic institutions, curtailed civil liberties, jailed his political opponents, restricted the press, and exerted control over the judiciary to strengthen his hold on power and limit dissent. In September 2018, YAMEEN lost his reelection bid to Ibrahim Mohamed SOLIH, a parliamentarian of the Maldivian Democratic Party (MDP), who had the support of a coalition of four parties that came together to defeat YAMEEN and restore democratic norms to Maldives. In April 2019, SOLIH's MDP won 65 of 87 seats in parliament. YAMEEN was arrested and jailed in December 2022 on corruption charges; however, he remains his party's candidate to challenge SOLIH in the presidential election, scheduled for 9 September 2023. </p><br>
 
 ## Geography
 
@@ -273,7 +273,7 @@ _rate of urbanization_: 2.34% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 211,506 tons (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 5.6 million cubic meters (2017 est.)<br>
+_municipal_: 10 million cubic meters (2020 est.)<br>
 _industrial_: 300,000 cubic meters (2017 est.)<br>
 _agricultural_: 0 cubic meters (2017 est.)<br>
 
@@ -604,8 +604,8 @@ state-owned radio and TV monopoly until recently;&nbsp;4 state-operated and 7 pr
 .mv<br>
 
 **Internet users**<br>
-_total_: 340,542 (2020 est.)<br>
-_percent of population_: 63% (2020 est.)<br>
+_total_: 447,200 (2021 est.)<br>
+_percent of population_: 86% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 63,685 (2020 est.)<br>
@@ -642,8 +642,8 @@ _paved_: 93 km (2018) - 60 km in Malée; 16 km on Addu Atolis; 17 km on Laamu<br
 <strong>note:</strong> island roads are mainly compacted coral<br>
 
 **Merchant marine**<br>
-_total_: 68<br>
-_by type_: general cargo 21, oil tanker 19, other 28 (2021)<br>
+_total_: 80<br>
+_by type_: general cargo 30, oil tanker 20, other 30 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Male<br>

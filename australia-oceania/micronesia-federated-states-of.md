@@ -547,8 +547,8 @@ no TV broadcast stations; each state has a multi-channel cable service with TV t
 .fm<br>
 
 **Internet users**<br>
-_total_: 39,834 (2019 est.)<br>
-_percent of population_: 35% (2019 est.)<br>
+_total_: 44,000 (2021 est.)<br>
+_percent of population_: 40% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 6,000 (2020 est.)<br>
@@ -571,8 +571,8 @@ _914 to 1,523 m_: 2 (2021)<br>
 note - paved and unpaved circumferential roads, most interior roads are unpaved<br>
 
 **Merchant marine**<br>
-_total_: 38<br>
-_by type_: general cargo 19, oil tanker 4, other 15 (2021)<br>
+_total_: 37<br>
+_by type_: general cargo 19, oil tanker 4, other 14 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Colonia (Tamil Harbor), Molsron Lele Harbor, Pohnepi Harbor<br>

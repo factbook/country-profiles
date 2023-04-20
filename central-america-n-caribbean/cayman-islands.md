@@ -561,8 +561,8 @@ _total_: 785 km (2007)<br>
 _paved_: 785 km (2007)<br>
 
 **Merchant marine**<br>
-_total_: 160<br>
-_by type_: bulk carrier 32, container ship 1, general cargo 1, oil tanker 23, other 103 (2021)<br>
+_total_: 139<br>
+_by type_: bulk carrier 29, container ship 3, general cargo 1, oil tanker 20, other 86 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cayman Brac, George Town<br>

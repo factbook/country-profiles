@@ -565,7 +565,7 @@ _total_: 1,000 km (2010)<br>
 
 **Merchant marine**<br>
 _total_: 1<br>
-_by type_: other 1 (2021)<br>
+_by type_: other 1 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Barcadera, Oranjestad<br>

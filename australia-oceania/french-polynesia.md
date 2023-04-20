@@ -419,7 +419,7 @@ $1.168 billion (2013 est.)<br>
 Japan 23.1%, Hong Kong 21.5%, Kyrgyzstan 15.9%, US 15.9%, France 12.4% (2017)<br>
 
 **Exports - commodities**<br>
-cultured pearls, coconut products, mother-of-pearl, vanilla, shark meat<br>
+paintings, pearls, tuna, aircraft parts, coconut oil, vanilla, electrical panels (2021)<br>
 
 **Imports**<br>
 $2.235 billion (2014 est.)<br>
@@ -565,8 +565,8 @@ _paved_: 1,735 km (1999)<br>
 _unpaved_: 855 km (1999)<br>
 
 **Merchant marine**<br>
-_total_: 24<br>
-_by type_: general cargo 14, other 10 (2021)<br>
+_total_: 25<br>
+_by type_: general cargo 14, other 11 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Papeete<br>

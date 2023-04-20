@@ -408,7 +408,7 @@ $1.046 billion (2015 est.)<br>
 South Korea 31%, Hong Kong 27%, Taiwan 18%, Philippines 7% (2019)<br>
 
 **Exports - commodities**<br>
-scrap iron, electric batteries, gas turbines, scrap copper, beauty products (2019)<br>
+scrap iron, scrap copper, boring/sinking machinery, leather handbags, rubber, scrap aluminum (2021)<br>
 
 **Imports**<br>
 $2.964 billion (2016 est.)<br>
@@ -539,7 +539,7 @@ _total_: 1,045 km (2008)<br>
 
 **Merchant marine**<br>
 _total_: 3<br>
-_by type_: other 3 (2021)<br>
+_by type_: other 3 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Apra Harbor<br>

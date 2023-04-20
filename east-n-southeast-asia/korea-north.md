@@ -257,9 +257,9 @@ _rate of urbanization_: 0.85% annual rate of change (2020-25 est.)<br>
 _widespread lack of access_: <em>due to low food consumption levels, poor dietary diversity, and economic downturn -</em> a large portion of the population suffers from low levels of food consumption and very poor dietary diversity; the economic constraints, particularly resulting from the global impact of the COVID‑19 pandemic, have increased the population’s vulnerability to food insecurity; the food gap is estimated at about 860,000 mt, equivalent to approximately 2-3 months of food use, if this gap is not adequately covered through commercial imports and/or food aid, households could experience a harsh lean period (2022)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 902.8 million cubic meters (2017 est.)<br>
-_industrial_: 1.145 billion cubic meters (2017 est.)<br>
-_agricultural_: 6.61 billion cubic meters (2017 est.)<br>
+_municipal_: 900 million cubic meters (2020 est.)<br>
+_industrial_: 1.15 billion cubic meters (2020 est.)<br>
+_agricultural_: 6.61 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 77.2 billion cubic meters (2019 est.)<br>
@@ -612,8 +612,8 @@ _unpaved_: 24,830 km (2006)<br>
 2,250 km (2011) (most navigable only by small craft)<br>
 
 **Merchant marine**<br>
-_total_: 264<br>
-_by type_: bulk carrier 8, container ship 5, general cargo 189, oil tanker 33, other 29 (2021)<br>
+_total_: 270<br>
+_by type_: bulk carrier 9, container ship 5, general cargo 193, oil tanker 33, other 30 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong (formerly Unggi), Wonsan<br>

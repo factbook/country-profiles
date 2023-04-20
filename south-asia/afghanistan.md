@@ -531,7 +531,7 @@ United Arab Emirates 45%, Pakistan 24%, India 22%, China 1% (2019)<br>
 
 **Exports - commodities**<br>
 gold, figs, grapes, cotton, fruits and nuts, coal (2021)<br>
-<strong>note:</strong> despite a de facto ban on cultivation, production, usage, transportation, and trade, Afghan opium production continues to be a large-scale illicit trade commodity<br>
+<strong>note:</strong> Afghan opium production remains a significant illicit trade export<br>
 
 **Imports**<br>
 $6.983 billion (2020 est.) note: data are in current year dollars<br>

@@ -269,9 +269,9 @@ _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 1,051,695 tons (2016 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 140 million cubic meters (2017 est.)<br>
-_industrial_: 1.1 billion cubic meters (2017 est.)<br>
-_agricultural_: 114 million cubic meters (2017 est.)<br>
+_municipal_: 140 million cubic meters (2020 est.)<br>
+_industrial_: 1.1 billion cubic meters (2020 est.)<br>
+_agricultural_: 110 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 10.8 billion cubic meters (2019 est.)<br>
@@ -648,8 +648,8 @@ _paved_: 16,148 km (2011)<br>
 _unpaved_: 5,973 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 43<br>
-_by type_: bulk carrier 1, container ship 5, general cargo 9, oil tanker 1, other 27 (2021)<br>
+_total_: 36<br>
+_by type_: bulk carrier 1, general cargo 9, oil tanker 1, other 25 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port Antonio, Port Esquivel, Port Kaiser, Rocky Point<br>

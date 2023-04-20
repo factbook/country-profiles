@@ -375,8 +375,8 @@ Sky TV access for around 30% of the population; each atoll operates a radio serv
 .tk<br>
 
 **Internet users**<br>
-_total_: 805 (2019 est.)<br>
-_percent of population_: 58% (2019 est.)<br>
+_total_: 800 (2021 est.)<br>
+_percent of population_: 58.3% (2021 est.)<br>
 
 ## Transportation
 

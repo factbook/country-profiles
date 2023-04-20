@@ -353,7 +353,7 @@ _judge selection and term of office_: Supreme Court and Supreme Administrative C
 _subordinate courts_: 6 Courts of Appeal; 8 regional administrative courts; 27 district courts; special courts for issues relating to markets, labor, insurance, impeachment, land, tenancy, and water rights<br>
 
 **Political parties and leaders**<br>
-Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk [Annika SAARIKKO]<br>Christian Democrats or KD [Sari ESSAYAH]<br>Finns Party or PS [Riikka PURRA]<br>Green League or Vihr [Maria OHISALO]<br>Left Alliance or Vas [Li ANDERSSON]<br>Movement Now or Liike Nyt [Harry HARKINO]<br>National Coalition Party or Kok [Petteri ORPO]<br>Social Democratic Party or SDP [Sanna MARIN]<br>Swedish People's Party or RKP or SFP [Anna-Maja HENRIKSSON]<br>
+Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk [Annika SAARIKKO]<br>Christian Democrats or KD [Sari ESSAYAH]<br>Finns Party or PS [Riikka PURRA]<br>Green League or Vihr <br>Left Alliance or Vas [Li ANDERSSON]<br>Movement Now or Liike Nyt [Harry HARKINO]<br>National Coalition Party or Kok [Petteri ORPO]<br>Social Democratic Party or SDP [Sanna MARIN]<br>Swedish People's Party or RKP or SFP [Anna-Maja HENRIKSSON]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNRWA, UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -517,7 +517,7 @@ $107.084 billion (2019 est.)<br>
 Germany 14%, Sweden 10%, United States 8%, Netherlands 6%, China 6%, Russia 5% (2019)<br>
 
 **Exports - commodities**<br>
-refined petroleum, paper and wood pulp products, cars, stainless steel, lumber (2019)<br>
+refined petroleum, kaolin coated paper, cars, lumber, stainless steel, wood pulp (2021)<br>
 
 **Imports**<br>
 $116.277 billion (2021 est.) note: data are in current year dollars<br>
@@ -681,8 +681,8 @@ _urban_: 26,000 km (2012)<br>
 8,000 km (2013) (includes Saimaa Canal system of 3,577 km; southern part leased from Russia; water transport used frequently in the summer and widely replaced with sledges on the ice in winter; there are 187,888 lakes in Finland that cover 31,500 km); Finland also maintains 8,200 km of coastal fairways<br>
 
 **Merchant marine**<br>
-_total_: 272<br>
-_by type_: bulk carrier 9, container ship 1, general cargo 74, oil tanker 4, other 184 (2021)<br>
+_total_: 278<br>
+_by type_: bulk carrier 9, container ship 1, general cargo 74, oil tanker 5, other 189 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma<br>

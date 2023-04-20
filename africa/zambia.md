@@ -656,8 +656,8 @@ _international_: country code - 260; multiple providers operate overland fiber o
 .zm<br>
 
 **Internet users**<br>
-_total_: 3,676,791 (2020 est.)<br>
-_percent of population_: 20% (2020 est.)<br>
+_total_: 3.99 million (2021 est.)<br>
+_percent of population_: 21% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 82,317 (2020 est.)<br>
@@ -709,7 +709,7 @@ _unpaved_: 52,783 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 2<br>
-_by type_: general cargo 1, oil tanker 1 (2021)<br>
+_by type_: general cargo 1, oil tanker 1 (2022)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Mpulungu (Zambezi)<br>

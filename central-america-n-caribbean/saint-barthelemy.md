@@ -282,8 +282,8 @@ _international_: country code - 590; landing points for the SSCS and the Souther
 .bl; note - .gp, the Internet country code for Guadeloupe, and .fr, the Internet country code for France, might also be encountered<br>
 
 **Internet users**<br>
-_total_: 7,128 (2020 est.)<br>
-_percent of population_: 72% (2020 est.)<br>
+_total_: 7,077 (2022 est.)<br>
+_percent of population_: 71.3% (2022 est.)<br>
 
 ## Transportation
 

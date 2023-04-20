@@ -530,8 +530,8 @@ no TV stations; many households use satellite dishes to watch foreign TV station
 .tv<br>
 
 **Internet users**<br>
-_total_: 5,711 (2019 est.)<br>
-_percent of population_: 49% (2019 est.)<br>
+_total_: 7,920 (2021 est.)<br>
+_percent of population_: 49% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 450 (2017 est.)<br>
@@ -554,8 +554,8 @@ _total_: 8 km (2011)<br>
 _paved_: 8 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 245<br>
-_by type_: bulk carrier 22, container ship 3, general cargo 32, oil tanker 21, other 167 (2021)<br>
+_total_: 260<br>
+_by type_: bulk carrier 23, container ship 3, general cargo 39, oil tanker 24, other 171 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Funafuti<br>

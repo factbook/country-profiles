@@ -279,9 +279,9 @@ _municipal solid waste recycled annually_: 181,941 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 21.2% (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 94.4 million cubic meters (2017 est.)<br>
-_industrial_: 25.2 million cubic meters (2017 est.)<br>
-_agricultural_: 61.5 million cubic meters (2017 est.)<br>
+_municipal_: 90 million cubic meters (2020 est.)<br>
+_industrial_: 40 million cubic meters (2020 est.)<br>
+_agricultural_: 60 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 34.9 billion cubic meters (2019 est.)<br>
@@ -627,8 +627,8 @@ several national and regional commercial TV stations are foreign-owned, 2 nation
 .lv<br>
 
 **Internet users**<br>
-_total_: 1,663,739 (July 2022 est.)<br>
-_percent of population_: 89.8% (July 2022 est.)<br>
+_total_: 1.729 million (2021 est.)<br>
+_percent of population_: 91% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 490,569 (2020 est.)<br>
@@ -678,8 +678,8 @@ _unpaved_: 55,086 km (2018)<br>
 300 km (2010) (navigable year-round)<br>
 
 **Merchant marine**<br>
-_total_: 70<br>
-_by type_: general cargo 22, oil tanker 9, other 39 (2021)<br>
+_total_: 80<br>
+_by type_: container ship 2, general cargo 30, oil tanker 9, other 39 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Riga, Ventspils<br>

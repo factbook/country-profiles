@@ -533,7 +533,7 @@ $342.485 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
-China 39%, Japan 15%, South Korea 7%, India 5% (2019)<br>
+China 40%, Japan 14%, South Korea 9%, India 6%, Taiwan 4% (2021)<br>
 
 **Exports - commodities**<br>
 iron ore, coal, natural gas, gold, wheat (2021)<br>
@@ -544,10 +544,10 @@ $250.178 billion (2020 est.) note: data are in current year dollars<br>
 $295.504 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 25%, United States 12%, Japan 7%, Germany 5%, Thailand 5% (2019)<br>
+China 28%, United States 10%, Japan 6%, Germany 5%, Thailand 5% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, crude petroleum, broadcasting equipment, delivery trucks (2019)<br>
+refined petroleum, cars, delivery trucks, broadcasting equipment, computers and gold (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $57.878 billion (31 December 2021 est.)<br>
@@ -706,8 +706,8 @@ _non-urban_: 727,645 km (2015)<br>
 2,000 km (2011) (mainly used for recreation on Murray and Murray-Darling River systems)<br>
 
 **Merchant marine**<br>
-_total_: 581<br>
-_by type_: bulk carrier 2, general cargo 76, oil tanker 7, other 496 (2021)<br>
+_total_: 587<br>
+_by type_: bulk carrier 2, general cargo 77, oil tanker 6, other 502 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: <em><br>Indian Ocean:</em> Adelaide, Darwin, Fremantle, Geelong, Melbourne<br><em>Pacific Ocean:</em> Brisbane, Cairns, Gladstone, Hobart, Newcastle, Port Port Kembla, Sydney<br>

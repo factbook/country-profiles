@@ -680,8 +680,8 @@ _broad gauge_: 3,428 km (2014) 1.676-m gauge (1,691 km electrified)<br>
 _total_: 77,801 km (2016)<br>
 
 **Merchant marine**<br>
-_total_: 231<br>
-_by type_: bulk carrier 6, container ship 5, general cargo 58, oil tanker 14, other 148 (2021)<br>
+_total_: 239<br>
+_by type_: bulk carrier 4, container ship 5, general cargo 64, oil tanker 14, other 152 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, Valparaiso<br>

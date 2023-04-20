@@ -515,7 +515,7 @@ $9.145 billion (2017 est.)<br>
 China 63%, Singapore 5% (2019)<br>
 
 **Exports - commodities**<br>
-crude petroleum, manganese, lumber, veneer sheeting, refined petroleum (2019)<br>
+crude petroleum, manganese, lumber, veneer sheeting, refined petroleum (2021)<br>
 
 **Imports**<br>
 $5.02 billion (2019 est.)<br>
@@ -679,8 +679,8 @@ _unpaved_: 13,400 km (2001)<br>
 1,600 km (2010) (310 km on Ogooue River)<br>
 
 **Merchant marine**<br>
-_total_: 62<br>
-_by type_: bulk carrier 1, general cargo 17, oil tanker 17, other 27 (2021)<br>
+_total_: 71<br>
+_by type_: bulk carrier 2, general cargo 19, oil tanker 20, other 30 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Libreville, Owendo, Port-Gentil<br>

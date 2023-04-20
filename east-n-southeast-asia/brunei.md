@@ -632,8 +632,8 @@ _unpaved_: 417 km (2014)<br>
 209 km (2012) (navigable by craft drawing less than 1.2 m; the Belait, Brunei, and Tutong Rivers are major transport links)<br>
 
 **Merchant marine**<br>
-_total_: 96<br>
-_by type_: general cargo 18, oil tanker 3, other 75 (2021)<br>
+_total_: 98<br>
+_by type_: general cargo 18, oil tanker 3, other 77 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Muara<br>

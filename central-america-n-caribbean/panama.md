@@ -284,9 +284,9 @@ _municipal solid waste generated annually_: 1,472,262 tons (2015 est.)<br>
 _salt water lake(s)_: Laguna de Chiriqui - 900 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 759.1 million cubic meters (2017 est.)<br>
-_industrial_: 6.2 million cubic meters (2017 est.)<br>
-_agricultural_: 446.1 million cubic meters (2017 est.)<br>
+_municipal_: 760 million cubic meters (2020 est.)<br>
+_industrial_: 10 million cubic meters (2020 est.)<br>
+_agricultural_: 450 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 139.3 billion cubic meters (2019 est.)<br>
@@ -635,8 +635,8 @@ multiple privately owned TV networks and a government-owned educational TV stati
 .pa<br>
 
 **Internet users**<br>
-_total_: 2,761,452 (2020 est.)<br>
-_percent of population_: 64% (2020 est.)<br>
+_total_: 2.992 million (2021 est.)<br>
+_percent of population_: 68% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 562,413 (2020 est.)<br>
@@ -684,8 +684,8 @@ _standard gauge_: 77 km (2014) 1.435-m gauge<br>
 800 km (2011) (includes the 82-km Panama Canal that is being widened)<br>
 
 **Merchant marine**<br>
-_total_: 7,980<br>
-_by type_: bulk carrier 2,697, container ship 643, general cargo 1,381, oil tanker 771, other 2,488 (2021)<br>
+_total_: 8,025<br>
+_by type_: bulk carrier 2,690, container ship 662, general cargo 1,418, oil tanker 785, other 2,470 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Balboa, Colon, Cristobal<br>

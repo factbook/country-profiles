@@ -609,8 +609,8 @@ except for the many organizations now operating in media free zones in Abu Dhabi
 .ae<br>
 
 **Internet users**<br>
-_total_: 9,890,400 (2020 est.)<br>
-_percent of population_: 100% (2020 est.)<br>
+_total_: 9.4 million (2021 est.)<br>
+_percent of population_: 100% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,245,123 (2020 est.)<br>
@@ -657,8 +657,8 @@ _total_: 4,080 km (2008)<br>
 _paved_: 4,080 km (2008) (includes 253 km of expressways)<br>
 
 **Merchant marine**<br>
-_total_: 623<br>
-_by type_: bulk carrier 1, container ship 3, general cargo 117, oil tanker 19, other 483 (2021)<br>
+_total_: 636<br>
+_by type_: bulk carrier 2, container ship 3, general cargo 121, oil tanker 16, other 494 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor Fakkan (Khawr Fakkan) (Sharjah), Mubarraz Island (Abu Dhabi), Mina' Rashid (Dubai), Mina' Saqr (Ra's al Khaymah)<br>
@@ -668,8 +668,8 @@ _LNG terminal(s) (export)_: Das Island<br>
 ## Military and Security
 
 **Military and security forces**<br>
-United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presidential Guard (includes special operations forces); Ministry of Interior: Critical Infrastructure and Coastal Patrol Agency (CICPA) (2022)<br>
-<strong>note:</strong> each emirate maintains a local police force called a general directorate, which is officially a branch of the federal Ministry of Interior; all emirate-level general directorates of police enforce their respective emirate’s laws autonomously; they also enforce federal laws within their emirate in coordination with one another under the federal ministry<br>
+United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presidential Guard (includes special operations forces); Ministry of Interior: Coast Guard Forces, Critical Infrastructure and Coastal Patrol Agency (CICPA) (2023)<br>
+<strong>note:</strong> each emirate maintains a local police force called a general directorate, which is officially a branch of the federal Ministry of Interior; all emirate-level general directorates of police enforce their respective emirate’s laws autonomously; they also enforce federal laws within their emirate in coordination with one another under the federal ministry; the State Security Directorate (SSD) in Abu Dhabi and Dubai State Security (DSS) have primary responsible for counterterrorism law enforcement efforts; local, emirate-level police forces, especially Abu Dhabi Police and Dubai Police, are the first responders in such cases and provide technical assistance to SSD and DSS <br>
 
 **Military expenditures**<br>
 5.6% of GDP (2020 est.)<br>
@@ -682,17 +682,18 @@ United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presiden
 approximately 65,000 active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised of wide variety of mostly modern imported equipment; over the past decade, the UAE has acquired military equipment from more than 20 countries with France, Russia, and the US as the leading suppliers; in recent years, the UAE has tried to boost its domestic defense industry (2022)<br>
+the military's inventory is comprised of a wide variety of mostly modern imported equipment; over the past decade, the UAE has acquired military equipment from more than 20 countries with France, Russia, and the US as the leading suppliers; in recent years, the UAE has tried to boost its domestic defense industry (2023)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for compulsory military service for men (compulsory service initiated in 2014); 17 years of age for volunteers with parental approval; men can volunteer up to age 40; 24-month general service obligation, 16 months for secondary school graduates; women can volunteer to serve for 9 months regardless of education (2022)<br>
-<strong>note 1:</strong> compulsory service may be completed in the uniformed military, the Ministry of Interior, the State Security Service, or other institutions designated by the military leadership<br><br><strong>note 2:</strong> the UAE military employs a considerable number—estimates range from a low of about 30% to as much as 70% of the force—of foreign personnel on contract; the UAE has also hired foreign mercenaries for some operations during its intervention in Yemen<br>
+<strong>note 1:</strong> compulsory service may be completed in the uniformed military, the Ministry of Interior, or other security institutions designated by the military leadership<br><br><strong>note 2:</strong> the UAE military employs a considerable number—estimates range from a low of about 30% to as much as 70% of the force—of foreign personnel on contract; the UAE has also hired foreign mercenaries for some operations during its intervention in Yemen<br>
 
 **Military deployments**<br>
 estimates vary; reportedly a few hundred remain in Yemen; has maintained some troops at military bases in Eritrea and Somalia (Somaliland) (2022)<br>
+<strong>note:</strong> in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with an estimated 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC)<br>
 
 **Military - note**<br>
-the UAE hosts a multi-service French military base, which includes the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and hosts about 3,500 US troops, mostly air and naval personnel<br><br>in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with an estimated 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC)<br><br>the UAE's military traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern Emirati armed forces were formed in 1976 (2022)<br>
+the UAE hosts a multi-service French military base, which includes the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and hosts about 3,500 US troops, mostly air and naval personnel<br><br>the UAE's military traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern Emirati armed forces were formed in 1976 (2022)<br>
 
 ## Transnational Issues
 

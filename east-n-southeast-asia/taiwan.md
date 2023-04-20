@@ -537,8 +537,8 @@ _international_: country code - 886; landing points for the EAC-C2C,&nbsp;APCN-2
 .tw<br>
 
 **Internet users**<br>
-_total_: 21,158,750 (2019 est.)<br>
-_percent of population_: 89% (2019 est.)<br>
+_total_: 21.6 million (2021 est.)<br>
+_percent of population_: 90% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 5,831,470 (2019 est.)<br>
@@ -587,8 +587,8 @@ _paved_: 42,793 km (2017) (includes 1,348 km of highways and 737 km of expresswa
 _unpaved_: 413 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 429<br>
-_by type_: bulk carrier 37, container ship 49, general cargo 57, oil tanker 33, other 253 (2021)<br>
+_total_: 450<br>
+_by type_: bulk carrier 34, container ship 53, general cargo 58, oil tanker 34, other 271 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Keelung (Chi-lung), Kaohsiung, Hualian, Taichung<br>

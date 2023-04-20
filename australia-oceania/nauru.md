@@ -547,8 +547,8 @@ _international_: country code - 674; satellite earth station - 1 Intelsat (Pacif
 .nr<br>
 
 **Internet users**<br>
-_total_: 6,136 (2019 est.)<br>
-_percent of population_: 57% (2019 est.)<br>
+_total_: 10,920 (2021 est.)<br>
+_percent of population_: 84% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 950 (2010 est.)<br>
@@ -579,7 +579,7 @@ _unpaved_: 6 km (2002)<br>
 
 **Merchant marine**<br>
 _total_: 3<br>
-_by type_: oil tanker 1, other 2 (2021)<br>
+_by type_: other 3 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Nauru<br>

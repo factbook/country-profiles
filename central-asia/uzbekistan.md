@@ -635,8 +635,8 @@ the government controls media; 17 state-owned broadcasters - 13 TV and 4 radio -
 .uz<br>
 
 **Internet users**<br>
-_total_: 17,161,534 (July 2022 est.)<br>
-_percent of population_: 50.1% (July 2022 est.)<br>
+_total_: 26.18 million (2021 est.)<br>
+_percent of population_: 77% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,820,009 (2020 est.)<br>

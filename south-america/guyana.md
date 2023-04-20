@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-Originally a Dutch colony in the 17th century, by 1815 Guyana had become a British possession. The abolition of slavery led to settlement of urban areas by former slaves and the importation of indentured servants from India to work the sugar plantations. The resulting ethnocultural divide has persisted and has led to turbulent politics. Guyana achieved independence from the UK in 1966, and since then it has been ruled mostly by socialist-oriented governments. In 1992, Cheddi JAGAN was elected president in what is considered the country's first free and fair election since independence. After his death five years later, his wife, Janet JAGAN, became president but resigned in 1999 due to poor health. Her successor, Bharrat JAGDEO, was elected in 2001 and again in 2006. Early elections held in May 2015 resulted in the first change in governing party and the replacement of President Donald RAMOTAR by current President David GRANGER. After a December 2018 no-confidence vote against the GRANGER government, national elections were constitutionally required to take place within three months. After over a year of extra-constitutional rule by the GRANGER administration, elections were held, though voting irregularities led to a nationwide recount. The current Irfaan ALI administration was sworn in to office in August 2020. The discovery of oil in 2015 has been the primary economic and political focus, with many hoping the significant reserves will transform one of the poorest countries in the region.<br>
+Originally a Dutch colony in the 17th century, by 1815 Guyana had become a British possession. The abolition of slavery led to settlement of urban areas by former slaves and the importation of indentured servants from India to work the sugar plantations. The resulting ethnocultural divide has persisted and has led to turbulent politics. Guyana achieved independence from the UK in 1966, and since then it has been ruled mostly by socialist-oriented governments. In 1992, Cheddi JAGAN was elected president in what is considered the country's first free and fair election since independence. After his death five years later, his wife, Janet JAGAN, became president but resigned in 1999 due to poor health. Her successor, Bharrat JAGDEO, was elected in 2001 and again in 2006. Early elections held in May 2015 resulted in the first change in governing party and the replacement of President Donald RAMOTAR by current President David GRANGER. After a December 2018 no-confidence vote against the GRANGER government, national elections were constitutionally required to take place within three months. After over a year of extra-constitutional rule by the GRANGER administration, elections were held, though voting irregularities led to a nationwide recount. The current Irfaan ALI administration was sworn in to office in August 2020. The discovery of oil in 2015 has been the primary economic and political focus, with many hoping the significant reserves will transform one of the poorest countries in the region. Guyana is the only English-speaking country in South America and shares cultural and historical bonds with the Anglophone Caribbean.<br>
 
 ## Geography
 
@@ -289,9 +289,9 @@ _percent of municipal solid waste recycled_: 0.5% (2010 est.)<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 60 million cubic meters (2019 est.)<br>
-_industrial_: 20 million cubic meters (2019 est.)<br>
-_agricultural_: 1.36 billion cubic meters (2019 est.)<br>
+_municipal_: 60 million cubic meters (2020 est.)<br>
+_industrial_: 20 million cubic meters (2020 est.)<br>
+_agricultural_: 1.36 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 271 billion cubic meters (2019 est.)<br>
@@ -658,8 +658,8 @@ _unpaved_: 3,196 km (2019)<br>
 330 km (2012) (the Berbice, Demerara, and Essequibo Rivers are navigable by oceangoing vessels for 150 km, 100 km, and 80 km respectively)<br>
 
 **Merchant marine**<br>
-_total_: 56<br>
-_by type_: general cargo 26, oil tanker 7, other 23 (2021)<br>
+_total_: 89<br>
+_by type_: bulk carrier 1, general cargo 45, oil tanker 12, other 31 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Georgetown<br>

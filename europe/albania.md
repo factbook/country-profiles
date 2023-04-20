@@ -521,6 +521,7 @@ Italy 45%, Spain 8%, Germany 6%, Greece 5%, France 4%, China 4% (2019)<br>
 
 **Exports - commodities**<br>
 leather footwear and parts, electricity, crude petroleum, iron alloys, clothing, insulated wiring (2021)<br>
+<strong>note:</strong> Albanian cannabis production remains a significant illicit trade export<br>
 
 **Imports**<br>
 $8.004 billion (2021 est.) note: data are in current year dollars<br>
@@ -672,8 +673,8 @@ _total_: 3,945 km (2018)<br>
 41 km (2011) (on the Bojana River)<br>
 
 **Merchant marine**<br>
-_total_: 70<br>
-_by type_: general cargo 47, oil tanker 1, other 22 (2021)<br>
+_total_: 69<br>
+_by type_: general cargo 47, oil tanker 1, other 21 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Durres, Sarande, Shengjin, Vlore<br>

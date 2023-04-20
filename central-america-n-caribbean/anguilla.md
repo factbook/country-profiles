@@ -460,7 +460,7 @@ _unpaved_: 93 km (2004)<br>
 
 **Merchant marine**<br>
 _total_: 2<br>
-_by type_: other 2 (2021)<br>
+_by type_: other 2 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Blowing Point, Road Bay<br>

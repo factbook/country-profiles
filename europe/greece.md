@@ -271,9 +271,9 @@ _municipal solid waste recycled annually_: 1,040,711 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 19% (2014 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.69 billion cubic meters (2019 est.)<br>
-_industrial_: 320 million cubic meters (2019 est.)<br>
-_agricultural_: 8.11 billion cubic meters (2019 est.)<br>
+_municipal_: 1.69 billion cubic meters (2020 est.)<br>
+_industrial_: 330 million cubic meters (2020 est.)<br>
+_agricultural_: 8.11 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 68.4 billion cubic meters (2019 est.)<br>
@@ -510,7 +510,7 @@ $81.184 billion (2019 est.) note: data are in current year dollars<br>
 Italy 10%, Germany 7%, Turkey 5%, Cyprus 5%, Bulgaria 5% (2019)<br>
 
 **Exports - commodities**<br>
-refined petroleum, packaged medicines, aluminum plating, computers, cotton (2019)<br>
+refined petroleum, packaged medicines, aluminum plating, cotton, cheese, copper piping (2021)<br>
 
 **Imports**<br>
 $103.532 billion (2021 est.) note: data are in current year dollars<br>
@@ -673,8 +673,8 @@ _total_: 117,000 km (2018)<br>
 6 km (2012) (the 6-km-long Corinth Canal crosses the Isthmus of Corinth; it shortens a sea voyage by 325 km)<br>
 
 **Merchant marine**<br>
-_total_: 1,236<br>
-_by type_: bulk carrier 158, container ship 5, general cargo 89, oil tanker 337, other 647 (2021)<br>
+_total_: 1,234<br>
+_by type_: bulk carrier 146, container ship 5, general cargo 83, oil tanker 311, other 689 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Aspropyrgos, Pachi, Piraeus, Thessaloniki<br>

@@ -464,8 +464,8 @@ _international_: country code - 1-670; landing points for the Atisa and Mariana-
 .mp<br>
 
 **Internet users**<br>
-_total_: 17,418 (2016 est.)<br>
-_percent of population_: 31% (2016 est.)<br>
+_total_: 12,299 (2021 est.)<br>
+_percent of population_: 25.1% (2021 est.)<br>
 
 ## Transportation
 
@@ -487,10 +487,6 @@ _under 914 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 536 km (2008)<br>
-
-**Merchant marine**<br>
-_total_: 1<br>
-_by type_: other 1 (2019)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Saipan, Tinian, Rota<br>

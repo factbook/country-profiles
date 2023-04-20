@@ -630,8 +630,8 @@ broadcast media is government controlled and censored; 7 state-owned TV and 4 st
 .tm<br>
 
 **Internet users**<br>
-_total_: 1,247,940 (July 2022 est.)<br>
-_percent of population_: 25.3% (July 2022 est.)<br>
+_total_: 1,563,023 (2022 est.)<br>
+_percent of population_: 25.3% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 10,000 (2020 est.)<br>
@@ -682,8 +682,8 @@ _unpaved_: 11,015 km (2002)<br>
 1,300 km (2011) (Amu Darya River and Kara Kum Canal are important inland waterways)<br>
 
 **Merchant marine**<br>
-_total_: 73<br>
-_by type_: general cargo 6, oil tanker 8, other 59 (2021)<br>
+_total_: 72<br>
+_by type_: general cargo 6, oil tanker 8, other 58 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Caspian Sea - Turkmenbasy<br>

@@ -488,7 +488,7 @@ $2.636 billion (2019 est.) note: data are in current year dollars<br>
 United States 29%, Australia 14%, New Zealand 7%, Japan 6%, Tonga 6% (2019)<br>
 
 **Exports - commodities**<br>
-water, refined petroleum, fish, raw sugar, gold (2019)<br>
+water, fuel wood, gold, sugar, refined petroleum, fish (2021)<br>
 
 **Imports**<br>
 $2.344 billion (2021 est.) note: data are in current year dollars<br>
@@ -649,8 +649,8 @@ _unpaved_: 1,754 km (2011)<br>
 203 km (2012) (122 km are navigable by motorized craft and 200-metric-ton barges)<br>
 
 **Merchant marine**<br>
-_total_: 73<br>
-_by type_: general cargo 20, oil tanker 4, other 49 (2021)<br>
+_total_: 75<br>
+_by type_: general cargo 21, oil tanker 4, other 50 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Lautoka, Levuka, Suva<br>

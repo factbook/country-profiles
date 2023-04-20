@@ -366,7 +366,7 @@ $125 million (2004 est.)<br>
 Spain 78%, United States 6% (2019)<br>
 
 **Exports - commodities**<br>
-mollusks, fish, wool, sheep/goat meats, engine parts (2019)<br>
+mollusks, fish, wool, sheep and goat meats, aircraft parts (2021)<br>
 
 **Imports**<br>
 $90 million (2004 est.)<br>
@@ -504,7 +504,7 @@ _unpaved_: 390 km (2008)<br>
 
 **Merchant marine**<br>
 _total_: 2<br>
-_by type_: general cargo 1, other 1 (2021)<br>
+_by type_: general cargo 1, other 1 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Stanley<br>

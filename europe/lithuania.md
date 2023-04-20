@@ -282,9 +282,9 @@ _percent of municipal solid waste recycled_: 22.9% (2015 est.)<br>
 _salt water lake(s)_: Curonian Lagoon (shared with Russia) - 1,620 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 130.4 million cubic meters (2017 est.)<br>
-_industrial_: 69.7 million cubic meters (2017 est.)<br>
-_agricultural_: 58.9 million cubic meters (2017 est.)<br>
+_municipal_: 140 million cubic meters (2020 est.)<br>
+_industrial_: 60 million cubic meters (2020 est.)<br>
+_agricultural_: 60 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 24.5 billion cubic meters (2019 est.)<br>
@@ -632,8 +632,8 @@ public broadcaster operates 3 channels with the third channel - a satellite chan
 .lt<br>
 
 **Internet users**<br>
-_total_: 2,603,900 (July 2022 est.)<br>
-_percent of population_: 97.8% (July 2022 est.)<br>
+_total_: 2.436 million (2021 est.)<br>
+_percent of population_: 87% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 796,814 (2020 est.)<br>
@@ -681,8 +681,8 @@ _unpaved_: 11,869 km (2012)<br>
 441 km (2007) (navigable year-round)<br>
 
 **Merchant marine**<br>
-_total_: 64<br>
-_by type_: container ship 4, general cargo 24, oil tanker 2, other 34 (2021)<br>
+_total_: 62<br>
+_by type_: container ship 4, general cargo 22, oil tanker 2, other 34 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Klaipeda<br>

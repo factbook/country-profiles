@@ -291,9 +291,9 @@ Syr Darya river source (shared with Tajikistan, Uzbekistan, and Kazakhstan [m] )
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 224 million cubic meters (2017 est.)<br>
-_industrial_: 336 million cubic meters (2017 est.)<br>
-_agricultural_: 7.1 billion cubic meters (2017 est.)<br>
+_municipal_: 220 million cubic meters (2020 est.)<br>
+_industrial_: 340 million cubic meters (2020 est.)<br>
+_agricultural_: 7.1 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 23.7 billion cubic meters (2019 est.)<br>

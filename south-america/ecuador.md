@@ -533,7 +533,7 @@ $26.12 billion (2019 est.) note: data are in current year dollars<br>
 United States 30%, China 13%, Panama 8%, Chile 7% (2019)<br>
 
 **Exports - commodities**<br>
-crude petroleum, crustaceans, bananas, fish, refined petroleum (2019)<br>
+crude petroleum, shrimp, bananas, refined petroleum, tuna (2021)<br>
 
 **Imports**<br>
 $28.567 billion (2021 est.) note: data are in current year dollars<br>
@@ -703,8 +703,8 @@ _unpaved_: 35,055 km (2022)<br>
 1,500 km (2012) (most inaccessible)<br>
 
 **Merchant marine**<br>
-_total_: 145<br>
-_by type_: container ship 1, general cargo 7, oil tanker 27, other 110 (2021)<br>
+_total_: 147<br>
+_by type_: container ship 1, general cargo 8, oil tanker 28, other 110 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Esmeraldas, Manta, Puerto Bolivar<br>

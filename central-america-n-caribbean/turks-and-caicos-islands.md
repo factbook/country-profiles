@@ -496,6 +496,10 @@ no local terrestrial TV stations, broadcasts from the Bahamas can be received an
 **Internet country code**<br>
 .tc<br>
 
+**Internet users**<br>
+_total_: 37,008 (2022)<br>
+_percent of population_: 93.5% (2022)<br>
+
 ## Transportation
 
 **National air transport system**<br>
@@ -526,7 +530,7 @@ _unpaved_: 97 km (2003)<br>
 
 **Merchant marine**<br>
 _total_: 3<br>
-_by type_: general cargo 1, other 2 (2021)<br>
+_by type_: general cargo 1, other 2 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cockburn Harbour, Grand Turk, Providenciales<br>

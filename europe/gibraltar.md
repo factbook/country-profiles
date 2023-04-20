@@ -364,7 +364,7 @@ $271 million (2004 est.)<br>
 Poland 31%, Netherlands 27%, France 11%, Germany 8%, United States 6% (2019)<br>
 
 **Exports - commodities**<br>
-cars, ships, refined petroleum, fish, recreational boats (2019)<br>
+cars and vehicle parts, ships, refined petroleum, recreational boats, designer watches (2021)<br>
 
 **Imports**<br>
 $2.967 billion (2004 est.)<br>
@@ -493,8 +493,8 @@ _total_: 29 km (2007)<br>
 _paved_: 29 km (2007)<br>
 
 **Merchant marine**<br>
-_total_: 202<br>
-_by type_: bulk carrier 8, container ship 19, general cargo 55, oil tanker 20, other 100 (2021)<br>
+_total_: 155<br>
+_by type_: bulk carrier 8, container ship 12, general cargo 36, oil tanker 16, other 83 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Gibraltar<br>

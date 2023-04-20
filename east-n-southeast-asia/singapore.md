@@ -343,7 +343,7 @@ _judge selection and term of office_: judges appointed by the president from can
 _subordinate courts_: district, magistrates', juvenile, family, community, and coroners' courts; small claims tribunals; employment claims tribunals<br>
 
 **Political parties and leaders**<br>
-Democratic Progressive Party or DPP [Mohamad Hamim BIN ALIYA]<br>National Solidarity Party or NSP [Spencer NG]<br>People's Action Party or PAP [LEE Hsien Loong]<br>People's Power Party or PPP [Goh Meng SENG]<br>People's Voice or PV [Lim TEAN]<br>Progress Singapore Party or PSP [Francis YUEN]<br>Red Dot United or RDU [Ravi PHILEMON]<br>Reform Party or RP [Kenneth JEYARETNAM]<br>Singapore Democratic Alliance or SDA [Desmond LIM]<br>Singapore Democratic Party or SDP [Dr. CHEE Soon Juan]<br>Singapore Malay National Organisation or PKMS [Muhammad Hairullah AHMAD]<br>Singapore People's Party or SPP [Steve CHIA]<br>Singapore United Party or SUP [Andy ZHU]<br>Workers' Party or WP [Pritam SINGH]<br>
+Democratic Progressive Party or DPP [Mohamad Hamim BIN ALIYA]<br>National Solidarity Party or NSP [Spencer NG]<br>People's Action Party or PAP [LEE Hsien Loong]<br>People's Power Party or PPP [Goh Meng SENG]<br>People's Voice or PV [Lim TEAN]<br>Progress Singapore Party or PSP [Francis YUEN]<br>Red Dot United or RDU [Ravi PHILEMON]<br>Reform Party or RP [Kenneth JEYARETNAM]<br>Singapore Democratic Alliance or SDA [Desmond LIM]<br>Singapore Democratic Party or SDP [Dr. CHEE Soon Juan]<br>Singapore People's Party or SPP [Steve CHIA]<br>Singapore United Party or SUP [Andy ZHU]<br>Workers' Party or WP [Pritam SINGH]<br>
 <strong>note: </strong>the PAP has won every general election since the end of the British colonial era in 1959<br>
 
 **International organization participation**<br>
@@ -625,8 +625,8 @@ state controls broadcast media;&nbsp;6 domestic TV stations operated by MediaCor
 .sg<br>
 
 **Internet users**<br>
-_total_: 5,230,942 (2020 est.)<br>
-_percent of population_: 92% (2020 est.)<br>
+_total_: 5.369 million (2021 est.)<br>
+_percent of population_: 91% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,509,700 (2020 est.)<br>
@@ -662,8 +662,8 @@ _total_: 3,500 km (2017)<br>
 _paved_: 3,500 km (2017) (includes 164 km of expressways)<br>
 
 **Merchant marine**<br>
-_total_: 3,321<br>
-_by type_: bulk carrier 576, container ship 514, general cargo 113, oil tanker 699, other 1,419 (2021)<br>
+_total_: 3,227<br>
+_by type_: bulk carrier 574, container ship 542, general cargo 99, oil tanker 633, other 1,379 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Singapore<br>
@@ -697,7 +697,7 @@ the SAF has a diverse and largely modern mix of domestically produced and import
 maintains permanent training detachments of military personnel in Australia, France, and the US (2022)<br>
 
 **Military - note**<br>
-Singapore is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965; the SAF is widely viewed as the best equipped military in southeast Asia; the Army is largely based on conscripts and reservists with a small cadre of professional soldiers, while the Air Force and Navy are primarily comprised of well-trained professionals (2022)<br>
+Singapore is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965; the SAF is widely viewed as the best equipped military in southeast Asia; it is largely based on conscripts and reservists with a small cadre of well-trained professional soldiers (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reported that incidents in the Singapore Straits continue to increase year on year with 38 in 2022 compared to 35 in 2021; vessels were successfully boarded in all 38 incidents in 2022; while the majority of vessels boarded reported incidents as predominately low-level opportunistic thefts, four crew were taken hostage and a further two threatened during these incidents; the majority of incidents were reported during the hours of darkness and while vessels were underway; the territorial and offshore waters in the South China Sea remain a high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift<br>

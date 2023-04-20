@@ -600,8 +600,8 @@ _international_: country code - 248; landing points for the PEACE and the SEAS s
 .sc<br>
 
 **Internet users**<br>
-_total_: 77,785 (2020 est.)<br>
-_percent of population_: 79% (2020 est.)<br>
+_total_: 90,200 (2021 est.)<br>
+_percent of population_: 82% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 34,966 (2020 est.)<br>
@@ -641,8 +641,8 @@ _paved_: 514 km (2015)<br>
 _unpaved_: 12 km (2015)<br>
 
 **Merchant marine**<br>
-_total_: 27<br>
-_by type_: general cargo 5, oil tanker 6, other 16 (2021)<br>
+_total_: 31<br>
+_by type_: general cargo 6, oil tanker 7, other 18 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Victoria<br>

@@ -554,8 +554,8 @@ _international_: country code - 211 (2017)<br>
 .ss<br>
 
 **Internet users**<br>
-_total_: 783,561 (2020 est.)<br>
-_percent of population_: 7% (2020 est.)<br>
+_total_: 869,000 (2021 est.)<br>
+_percent of population_: 7.9% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 200 (2019 est.)<br>

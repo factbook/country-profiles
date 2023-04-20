@@ -290,9 +290,9 @@ _severe localized food insecurity_: <em><em>due to </em></em><em>high food price
 _municipal solid waste generated annually_: 564,467 tons (2007 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 80.2 million cubic meters (2017 est.)<br>
-_industrial_: 53.4 million cubic meters (2017 est.)<br>
-_agricultural_: 12.3 million cubic meters (2017 est.)<br>
+_municipal_: 80 million cubic meters (2020 est.)<br>
+_industrial_: 50 million cubic meters (2020 est.)<br>
+_agricultural_: 10 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 232 billion cubic meters (2019 est.)<br>
@@ -622,8 +622,8 @@ _international_: country code - 231; landing point for the ACE submarine cable&n
 .lr<br>
 
 **Internet users**<br>
-_total_: 1,314,996 (2020 est.)<br>
-_percent of population_: 26% (2020 est.)<br>
+_total_: 1.768 million (2021 est.)<br>
+_percent of population_: 34% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 13,000 (2020 est.)<br>
@@ -663,8 +663,8 @@ _paved_: 657 km (2018)<br>
 _unpaved_: 9,943 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 3,942<br>
-_by type_: bulk carrier 1,487, container ship 878, general cargo 131, oil tanker 851, other 595 (2021)<br>
+_total_: 4,311<br>
+_by type_: bulk carrier 1,673, container ship 962, general cargo 141, oil tanker 907, other 628 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Buchanan, Monrovia<br>

@@ -278,9 +278,9 @@ _percent of municipal solid waste recycled_: 4.9% (2015 est.)<br>
 _fresh water lake(s)_: Biwa-ko 688 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 15.41 billion cubic meters (2017 est.)<br>
-_industrial_: 11.61 billion cubic meters (2017 est.)<br>
-_agricultural_: 54.43 billion cubic meters (2017 est.)<br>
+_municipal_: 14.8 billion cubic meters (2020 est.)<br>
+_industrial_: 10.3 billion cubic meters (2020 est.)<br>
+_agricultural_: 53.3 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 430 billion cubic meters (2019 est.)<br>
@@ -391,7 +391,7 @@ _selected World Heritage Site locales_: Buddhist Monuments in the Horyu-ji Area 
 ## Economy
 
 **Economic overview**<br>
-third-largest, trade-oriented, and diversified economy; highly indebted country; slow wage growth and declining labor force; still heavily hydrocarbon-reliant; central bank keeping low interest rates amid modest inflation; increased military spending; stagnant tourism sector<br>
+fourth-largest, trade-oriented, and diversified economy; highly indebted country; slow wage growth and declining labor force; still heavily hydrocarbon-reliant; central bank keeping negative interest rates amid modest inflation; increased military spending; stagnant tourism sector<br>
 
 **Real GDP (purchasing power parity)**<br>
 $5.126 trillion (2021 est.) note: data are in 2017 dollars<br>
@@ -510,10 +510,10 @@ $794.291 billion (2020 est.) note: data are in current year dollars<br>
 $904.632 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-China 21%, United States 18%, South Korea 7%, Taiwan 7%, Hong Kong 4% (2020)<br>
+China 21%, United States 18%, South Korea 7%, Taiwan 7%, Thailand 4% (2021)<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, integrated circuits, personal appliances, photo equipment, ships (2020)<br>
+cars and vehicle parts, integrated circuits, general machinery, photo lab equipment, construction vehicles, semiconductors&nbsp; (2021)<br>
 
 **Imports**<br>
 $941.671 billion (2021 est.) note: data are in current year dollars<br>
@@ -521,10 +521,10 @@ $801.889 billion (2020 est.) note: data are in current year dollars<br>
 $913.248 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 26%, United States 11%, Australia 5%, South Korea 4%, Taiwan 4% (2020)<br>
+China 24%, United States 10%, Australia 7%, South Korea 4%, Taiwan 4% (2021)<br>
 
 **Imports - commodities**<br>
-crude oil, natural gas, integrated circuits, broadcasting equipment, computers (2020)<br>
+crude petroleum, natural gas, integrated circuits, coal, refined petroleum, iron (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.406 trillion (31 December 2021 est.)<br>
@@ -683,8 +683,8 @@ _unpaved_: 225,937 km (2015)<br>
 1,770 km (2010) (seagoing vessels use inland seas)<br>
 
 **Merchant marine**<br>
-_total_: 5,201<br>
-_by type_: bulk carrier 148, container ship 45, general cargo 1,900, oil tanker 666, other 2,442 (2021)<br>
+_total_: 5,590<br>
+_by type_: bulk carrier 149, container ship 47, general cargo 2,071, oil tanker 690, other 2,633 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, Tomakomai, Yokohama<br>
@@ -722,7 +722,7 @@ the JSDF is equipped with a mix of imported and domestically produced equipment;
 approximately 180 Djibouti (2022)<br>
 
 **Military - note**<br>
-Japan was disarmed after its defeat in World War II; shortly after the Korean War began in 1950, US occupation forces in Japan created a 75,000-member lightly armed force called the National Police Reserve; the Japan Self-Defense Force (JSDF) was founded in 1954<br><br>Japan’s alliance with the US (signed in 1951) is one of the cornerstones of the country’s security, as well as a large part of the US security role in Asia; approximately 55,000 US troops and other military assets, including aircraft and naval ships, are stationed in Japan and hav exclusive use of more than 80 bases and facilities; in exchange for their use, the US guarantees Japan’s security; the Japanese Government provides about $2 billion per year to offset the cost of stationing US forces in Japan; in addition, it pays compensation to localities hosting US troops, rent for bases, and costs for new facilities to support the US presence; Japan also has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
+Japan was disarmed after its defeat in World War II; shortly after the Korean War began in 1950, US occupation forces in Japan created a 75,000-member lightly armed force called the National Police Reserve; the Japan Self-Defense Force (JSDF) was founded in 1954<br><br>Japan’s alliance with the US (signed in 1951) is one of the cornerstones of the country’s security, as well as a large part of the US security role in Asia; approximately 55,000 US troops and other military assets, including aircraft and naval ships, are stationed in Japan and have exclusive use of more than 80 bases and facilities; in exchange for their use, the US guarantees Japan’s security; the Japanese Government provides about $2 billion per year to offset the cost of stationing US forces in Japan; in addition, it pays compensation to localities hosting US troops, rent for bases, and costs for new facilities to support the US presence; Japan also has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
 
 ## Terrorism
 

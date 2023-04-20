@@ -306,9 +306,9 @@ _fresh water lake(s)_: Danau Toba - 1,150 sq km<br>note - located in the caldera
 Sepik (shared with Papua New Guinea [s]) - 1,126 km; Fly (shared with Papua New Guinea [s]) - 1,050 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Total water withdrawal**<br>
-_municipal_: 23.8 billion cubic meters (2017 est.)<br>
-_industrial_: 9.135 billion cubic meters (2017 est.)<br>
-_agricultural_: 189.7 billion cubic meters (2017 est.)<br>
+_municipal_: 23.8 billion cubic meters (2020 est.)<br>
+_industrial_: 9.14 billion cubic meters (2020 est.)<br>
+_agricultural_: 189.7 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 2 trillion cubic meters (2019 est.)<br>
@@ -327,7 +327,7 @@ _etymology_: the name is an 18th-century construct of two Greek words, "Indos" (
 presidential republic<br>
 
 **Capital**<br>
-_name_: Jakarta; note - Indonesian lawmakers on 18 January 2022 approved the relocation of the country&rsquo;s capital from Jakarta to a site in East Kalimantan, a jungle area of Borneo; the move to Nusantara, the name of the new capital, will take several years<br>
+_name_: Jakarta; note - Indonesian lawmakers on 18 January 2022 approved the relocation of the country&rsquo;s capital from Jakarta to a site on the island of Borneo between Samarinda City and the port city of Balikpapan; Nusantara ("archipelago"), the name of the new capital, is expected to be established in August 2024<br>
 _geographic coordinates_: 6 10 S, 106 49 E<br>
 _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)<br>
 _time zone note_: Indonesia has three time zones<br>
@@ -380,7 +380,7 @@ _judge selection and term of office_: Supreme Court judges nominated by Judicial
 _subordinate courts_: High Courts of Appeal, district courts, religious courts<br>
 
 **Political parties and leaders**<br>
-Berkarya Party [Muchdi PURWOPRANJONO]<br>Crescent Star Party or PBB [Yusril Ihza MAHENDRA]<br>Democrat Party or PD [Agus Harimurti YUDHOYONO]<br>Functional Groups Party or GOLKAR [Airlangga HARTARTO]<br>Great Indonesia Movement Party or GERINDRA [PRABOWO Subianto Djojohadikusumo]<br>Garuda Party or Change Indonesia Movement Party [Ahmad Ridha SABANA]<br>Indonesia Democratic Party-Struggle or PDI-P [MEGAWATI Sukarnoputri]<br>Indonesian Justice and Unity Party or PKPI [Yussuf SOLICHIEN]<br>Indonesian Solidarity Party or PSI [GIRING GANESHA]<br>National Awakening Party or PKB [Muhaiman ISKANDAR]<br>National Democratic Party or NasDem [Surya PALOH]<br>National Mandate Party or PAN [Zulkifli HASAN]<br>People's Conscience Party or Hanura [Oesman Sapta ODANG]<br>Perindo Party [Hary TANOESOEDIBJO]<br>Prosperous Justice Party or PKS [Ahmad SYAIKHU]<br>United Development Party or PPP [Muhamad MARDIONO]<br>
+Democrat Party or PD [Agus Harimurti YUDHOYONO]<br>Functional Groups Party or GOLKAR [Airlangga HARTARTO]<br>Great Indonesia Movement Party or GERINDRA [PRABOWO Subianto Djojohadikusumo]<br>Indonesia Democratic Party-Struggle or PDI-P [MEGAWATI Sukarnoputri]<br>National Awakening Party or PKB [Muhaiman ISKANDAR]<br>National Democratic Party or NasDem [Surya PALOH]<br>National Mandate Party or PAN [Zulkifli HASAN]<br>Prosperous Justice Party or PKS [Ahmad SYAIKHU]<br>United Development Party or PPP [Muhamad MARDIONO]<br>
 
 **International organization participation**<br>
 ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant country), FAO, G-11, G-15, G-20, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IORA, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, MSG (associate member), NAM, OECD (enhanced engagement), OIC, OPCW, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -716,8 +716,8 @@ _unpaved_: 213,505 km (2011)<br>
 21,579 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 10,427<br>
-_by type_: bulk carrier 148, container ship 226, general cargo 2,238, oil tanker 676, other 7,139 (2021)<br>
+_total_: 11,015<br>
+_by type_: bulk carrier 154, container ship 218, general cargo 2,310, oil tanker 700, other 7,633 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok<br>

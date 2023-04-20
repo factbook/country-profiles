@@ -268,8 +268,8 @@ _municipal solid waste recycled annually_: 293,003 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 55.8% (2013 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 80 million cubic meters (2019 est.)<br>
-_industrial_: 200 million cubic meters (2019 est.)<br>
+_municipal_: 80 million cubic meters (2020 est.)<br>
+_industrial_: 200 million cubic meters (2020 est.)<br>
 _agricultural_: 300,000 cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
@@ -647,8 +647,8 @@ _paved/oiled gravel_: 5,647 km (2012) (excludes urban roads)<br>
 _unpaved_: 7,251 km (2012)<br>
 
 **Merchant marine**<br>
-_total_: 41<br>
-_by type_: general cargo 5, oil tanker 2, other 34 (2021)<br>
+_total_: 40<br>
+_by type_: general cargo 5, oil tanker 2, other 33 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Grundartangi, Hafnarfjordur, Reykjavik<br>

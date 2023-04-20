@@ -538,8 +538,8 @@ local government dominates broadcast media; 2 television stations operated by th
 .mo<br>
 
 **Internet users**<br>
-_total_: 571,421 (2020 est.)<br>
-_percent of population_: 88% (2020 est.)<br>
+_total_: 607,200 (2021 est.)<br>
+_percent of population_: 88% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 208,000 (2020 est.)<br>
@@ -572,7 +572,7 @@ _paved_: 428 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 1<br>
-_by type_: other 1 (2021)<br>
+_by type_: other 1 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Macau<br>

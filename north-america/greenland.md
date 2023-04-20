@@ -419,7 +419,7 @@ $599.7 million (2014 est.)<br>
 Denmark 55%, China 22%, Japan 6% (2019)<br>
 
 **Exports - commodities**<br>
-fish, crustaceans, fishing ships (2019)<br>
+shrimp, halibut, fish fillets, crabs, cod, mackerel (2021)<br>
 
 **Imports**<br>
 $783.5 million (2015 est.)<br>
@@ -559,8 +559,8 @@ _under 914 m_: 2 (2021)<br>
 <p><strong>note:</strong> although there are short roads in towns, there are no roads between towns; inter-urban transport is either by sea or by air</p><br>
 
 **Merchant marine**<br>
-_total_: 8<br>
-_by type_: other 8 (2021)<br>
+_total_: 6<br>
+_by type_: other 6 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Sisimiut<br>

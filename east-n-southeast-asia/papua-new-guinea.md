@@ -289,9 +289,9 @@ _percent of municipal solid waste recycled_: 2% (2016 est.)<br>
 Sepik river source and mouth (shared with Indonesia) - 1,126 km; Fly river source and mouth (shared with Indonesia) - 1,050 km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 223.5 million cubic meters (2017 est.)<br>
-_industrial_: 167.6 million cubic meters (2017 est.)<br>
-_agricultural_: 1 million cubic meters (2017 est.)<br>
+_municipal_: 220 million cubic meters (2020 est.)<br>
+_industrial_: 170 million cubic meters (2020 est.)<br>
+_agricultural_: 1 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 801 billion cubic meters (2019 est.)<br>
@@ -631,8 +631,8 @@ _international_: country code - 675; landing points for the Kumul Domestic Subma
 .pg<br>
 
 **Internet users**<br>
-_total_: 965,373 (2019 est.)<br>
-_percent of population_: 11% (2019 est.)<br>
+_total_: 3.168 million (2021 est.)<br>
+_percent of population_: 32% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 21,000 (2020 est.)<br>
@@ -681,8 +681,8 @@ _unpaved_: 6,349 km (2011)<br>
 11,000 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 177<br>
-_by type_: container ship 6, general cargo 81, oil tanker 3, other 87 (2021)<br>
+_total_: 199<br>
+_by type_: container ship 6, general cargo 87, oil tanker 3, other 103 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kimbe, Lae, Madang, Rabaul, Wewak<br>

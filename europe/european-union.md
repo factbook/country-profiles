@@ -375,10 +375,10 @@ $7.765 trillion (2019 est.)<br>
 <strong>note:</strong> external exports, excluding intra-EU trade<br>
 
 **Exports - partners**<br>
-U.S. 20.7%, China 9.6%, Switzerland 8.1%, Turkey 4.4%, Russia 4.1% (2016 est.)<br>
+United States 18%, United Kingdom 13%, China 10%, Switzerland 7%, Russia 4% (2021)<br>
 
 **Exports - commodities**<br>
-machinery, motor vehicles, pharmaceuticals and other chemicals, fuels, aircraft, plastics, iron and steel, wood pulp and paper products, alcoholic beverages, furniture<br>
+cars and vehicle parts, packaged medicines, vaccines and cultures, refined petroleum, aircraft, integrated circuits, medical instruments, gas turbines (2021)<br>
 
 **Imports**<br>
 $8.037 trillion (2021 est.)<br>
@@ -387,10 +387,10 @@ $7.18 trillion (2019 est.)<br>
 <strong>note:</strong> external imports, excluding intra-EU trade<br>
 
 **Imports - partners**<br>
-China 20.1%, United States 14.5%, Switzerland 7.1%, Russia 6.3% (2016 est.)<br>
+China 22%, United States 11%, United Kingdom 8%, Russia 7%, Switzerland 6% (2021)<br>
 
 **Imports - commodities**<br>
-fuels and crude oil, machinery, vehicles, pharmaceuticals and other chemicals, precious gemstones, textiles, aircraft, plastics, metals, ships<br>
+crude petroleum, natural gas, refined petroleum, cars, broadcasting equipment, vaccines and cultures, computers (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $740.9 billion (31 December 2014 est.)<br>

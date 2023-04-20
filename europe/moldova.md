@@ -89,7 +89,7 @@ _adjective_: Moldovan<br>
 Moldovan 75.1%, Romanian 7%, Ukrainian 6.6%, Gagauz 4.6%, Russian 4.1%, Bulgarian 1.9%, other 0.8% (2014 est.)<br>
 
 **Languages**<br>
-Moldovan/Romanian 80.2% (official) (56.7% identify their mother tongue as Moldovan, which is virtually the same as Romanian; 23.5% identify Romanian as their mother tongue), Russian 9.7%, Gagauz 4.2% (a Turkish language), Ukrainian 3.9%, Bulgarian 1.5%, Romani 0.3%, other 0.2% (2014 est.); note - data represent mother tongue<br>
+Moldovan/Romanian 80.2% (official) (56.7% identify their mother tongue as Moldovan, which is virtually the same as Romanian; 23.5% identify Romanian as their mother tongue), Russian 9.7%, Gagauz 4.2% (a Turkish language), Ukrainian 3.9%, Bulgarian 1.5%, Romani 0.3%, other 0.2% (2014 est.); note - data represent mother tongue; as of March 2023, Romanian replaced Moldovan as the name of Moldova's official language<br>
 _major-language sample(s)_: <br>Cartea informativa a lumii, sursa indispensabila pentru informatii de baza. (Moldovan/Romanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -280,9 +280,9 @@ Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, S
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 148 million cubic meters (2017 est.)<br>
-_industrial_: 650 million cubic meters (2017 est.)<br>
-_agricultural_: 42 million cubic meters (2017 est.)<br>
+_municipal_: 160 million cubic meters (2020 est.)<br>
+_industrial_: 580 million cubic meters (2020 est.)<br>
+_agricultural_: 60 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 12.3 billion cubic meters (2017 est.)<br>
@@ -626,8 +626,8 @@ state-owned national radio-TV broadcaster operates 1 TV and 1 radio station; a t
 .md<br>
 
 **Internet users**<br>
-_total_: 3,067,466 (July 2022 est.)<br>
-_percent of population_: 76.3% (July 2022 est.)<br>
+_total_: 1.891 million (2021 est.)<br>
+_percent of population_: 61% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 719,001 (2020 est.)<br>
@@ -675,8 +675,8 @@ _unpaved_: 517 km (2012)<br>
 558 km (2011) (in public use on Danube, Dniester and Prut Rivers)<br>
 
 **Merchant marine**<br>
-_total_: 147<br>
-_by type_: bulk carrier 5, container ship 5, general cargo 97, oil tanker 7, other 33 (2021)<br>
+_total_: 126<br>
+_by type_: bulk carrier 5, container ship 2, general cargo 79, oil tanker 7, other 33 (2022)<br>
 
 ## Military and Security
 

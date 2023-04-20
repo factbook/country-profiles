@@ -710,8 +710,8 @@ _unpaved_: 258,794 km (2018)<br>
 8,370 km (2011) (includes up to 3,060 km of main cargo routes; network reduced to 5,200 km in the dry season)<br>
 
 **Merchant marine**<br>
-_total_: 468<br>
-_by type_: bulk carrier 48, container ship 6, general cargo 140, oil tanker 144, other 130 (2021)<br>
+_total_: 511<br>
+_by type_: bulk carrier 56, container ship 10, general cargo 150, oil tanker 152, other 143 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Chattogram (Chittagong)<br>

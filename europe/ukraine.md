@@ -646,8 +646,8 @@ Ukraine’s media landscape is dominated by oligarch-owned news outlets, which a
 .ua<br>
 
 **Internet users**<br>
-_total_: 40,912,381 (July 2022 est.)<br>
-_percent of population_: 94.5% (July 2022 est.)<br>
+_total_: 3.239 million (2021 est.)<br>
+_percent of population_: 79% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 7,769,401 (2020 est.)<br>
@@ -704,8 +704,8 @@ _unpaved_: 3,599 km (2012)<br>
 1,672 km (2012) (most on Dnieper River)<br>
 
 **Merchant marine**<br>
-_total_: 409<br>
-_by type_: bulk carrier 1, container ship 1, general cargo 84, oil tanker 15, other 308 (2021)<br>
+_total_: 410<br>
+_by type_: bulk carrier 1, container ship 1, general cargo 84, oil tanker 15, other 309 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Feodosiia, Chornomorsk, Mariupol, Mykolaiv, Odesa, Yuzhne<br>

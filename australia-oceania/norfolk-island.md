@@ -339,8 +339,8 @@ _international_: country code - 672; submarine cable links with Australia and Ne
 .nf<br>
 
 **Internet users**<br>
-_total_: 612 (2016 est.)<br>
-_percent of population_: 35% (2016 est.)<br>
+_total_: 806 (2021 est.)<br>
+_percent of population_: 46.1% (2021 est.)<br>
 
 ## Transportation
 

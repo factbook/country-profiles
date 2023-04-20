@@ -478,7 +478,7 @@ $9.94 billion (2017 est.)<br>
 China 34%, India 19%, Spain 11%, United States 7% (2019)<br>
 
 **Exports - commodities**<br>
-crude petroleum, natural gas, industrial alcohols, lumber, veneer sheeting (2019)<br>
+crude petroleum, natural gas, industrial alcohols, lumber, veneer sheeting (2021)<br>
 
 **Imports**<br>
 $6.245 billion (2019 est.)<br>
@@ -632,8 +632,8 @@ _2,438 to 3,047 m_: 1 (2021)<br>
 _total_: 2,880 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 42<br>
-_by type_: bulk carrier 1, general cargo 8, oil tanker 6, other 27 (2021)<br>
+_total_: 46<br>
+_by type_: bulk carrier 1, general cargo 12, oil tanker 7, other 26 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bata, Luba, Malabo<br>

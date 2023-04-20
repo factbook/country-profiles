@@ -297,9 +297,9 @@ Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
 Guarani Aquifer System<br>
 
 **Total water withdrawal**<br>
-_municipal_: 362 million cubic meters (2017 est.)<br>
-_industrial_: 154 million cubic meters (2017 est.)<br>
-_agricultural_: 1.897 billion cubic meters (2017 est.)<br>
+_municipal_: 360 million cubic meters (2020 est.)<br>
+_industrial_: 150 million cubic meters (2020 est.)<br>
+_agricultural_: 1.9 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 387.8 billion cubic meters (2019 est.)<br>
@@ -645,8 +645,8 @@ _international_: country code - 595; Paraguay's landlocked position means they m
 .py<br>
 
 **Internet users**<br>
-_total_: 4.92 million (2021 est.)<br>
-_percent of population_: 64% (2021 est.)<br>
+_total_: 5.159 million (2021 est.)<br>
+_percent of population_: 77% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 562,369 (2020 est.)<br>
@@ -691,8 +691,8 @@ _unpaved_: 70,238 km (2020)<br>
 3,100 km (2012) (primarily on the Paraguay and Paraná River systems)<br>
 
 **Merchant marine**<br>
-_total_: 110<br>
-_by type_: container ship 3, general cargo 25, oil tanker 5, other 77 (2021)<br>
+_total_: 105<br>
+_by type_: container ship 2, general cargo 24, oil tanker 5, other 74 (2022)<br>
 <strong>note:</strong> as of 2017, Paraguay registered 2,012 fluvial vessels of which 1,741 were commercial barges<br>
 
 **Ports and terminals**<br>

@@ -274,9 +274,9 @@ _municipal solid waste recycled annually_: 572,119 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 26.2% (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 775.3 million cubic meters (2017 est.)<br>
-_industrial_: 1.071 billion cubic meters (2017 est.)<br>
-_agricultural_: 844.9 million cubic meters (2017 est.)<br>
+_municipal_: 780 million cubic meters (2020 est.)<br>
+_industrial_: 1.07 billion cubic meters (2020 est.)<br>
+_agricultural_: 840 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 393 billion cubic meters (2019 est.)<br>
@@ -625,8 +625,8 @@ state-owned public radio-TV broadcaster operates 3 nationwide TV stations, 3 nat
 .no<br>
 
 **Internet users**<br>
-_total_: 5,218,091 (2020 est.)<br>
-_percent of population_: 97% (2020 est.)<br>
+_total_: 5.346 million (2021 est.)<br>
+_percent of population_: 99% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,387,661 (2020 est.)<br>
@@ -672,8 +672,8 @@ _total_: 94,902 km (2018) (includes 455 km of expressways)<br>
 1,577 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 1,644<br>
-_by type_: bulk carrier 109, container ship 1, general cargo 242, oil tanker 96, other 1,196 (2021)<br>
+_total_: 1,710<br>
+_by type_: bulk carrier 105, container ship 1, general cargo 273, oil tanker 95, other 1,236 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture<br>

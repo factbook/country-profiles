@@ -520,8 +520,8 @@ no broadcast TV stations; a cable TV network covers the major islands and provid
 .pw<br>
 
 **Internet users**<br>
-_total_: 7,650 (2016 est.)<br>
-_percent of population_: 36% (2016 est.)<br>
+_total_: 6,696 (2021 est.)<br>
+_percent of population_: 37.2% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,224 (2015 est.)<br>
@@ -553,8 +553,8 @@ _paved_: 89 km (2018)<br>
 _unpaved_: 36 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 264<br>
-_by type_: bulk carrier 16, container ship 7, general cargo 107, oil tanker 40, other 94 (2021)<br>
+_total_: 304<br>
+_by type_: bulk carrier 29, container ship 6, general cargo 137, oil tanker 43, other 89 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Koror<br>

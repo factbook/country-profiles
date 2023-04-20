@@ -441,7 +441,7 @@ $211.175 million (2019 est.)<br>
 Saudi Arabia 47%, Qatar 5% (2019)<br>
 
 **Exports - commodities**<br>
-medical instruments, pharmaceuticals, low-voltage protection equipment, tropical fruits, bandages (2019)<br>
+medical instruments, low-voltage protection equipment, sutures, soap, bandages (2021)<br>
 
 **Imports**<br>
 $302 million (2021 est.) note: data are in current year dollars<br>
@@ -580,8 +580,8 @@ _paved_: 762 km (2018)<br>
 _unpaved_: 750 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 93<br>
-_by type_: general cargo 30, oil tanker 19, other 44 (2021)<br>
+_total_: 84<br>
+_by type_: general cargo 31, oil tanker 13, other 40 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Portsmouth, Roseau<br>

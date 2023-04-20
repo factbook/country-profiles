@@ -346,9 +346,9 @@ _elections/appointments_: president and vice president elected on the same ballo
 _election results_: <em>2021</em>: Rumen RADEV reelected president in second round; percent of vote in the first round - Rumen RADEV (independent) 49.4%, Anastas GERDZHIKOV (independent) 22.8%, Mustafa KARADAYI (DPS) 11.6%, Kostadin KOSTADINOV (Revival) 3.9%, Lozan PANOV (independent) 3.7%, other 8.6%; percent of vote in the second round - Rumen RADEV 66.7%, Anastas GERDZHIKOV 31.8%, neither 1.5%<br><br><em>2016: </em>Rumen RADEV elected president in second round; percent of vote in the second round - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br><br><em>2011:</em> Rosen PLEVNELIEV elected president in the second round; percent of vote in the second round - Rosen PLEVNELIEV (independent) 52.6%, Ivailo KALFIN (BSP) 47.4%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
+_description_: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by open list, proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 2 April 2023 (next election to be held in 2027)<br>
-_election results_: percent of vote by party/coalition - GERB-SDS 25.4%, PP-DB 23.5%, Revival 13.6%, DPS 13.2%, BSP for Bulgaria 8.6%, ITN 3.9%, other 11.8%; seats by party/coalition GERB-SDS 69, PP-DB 64, Revival 37, DPS 36, BSP for Bulgaria 23, ITN 11; composition - men NA, women NA, percent of women NA%<br>
+_election results_: percent of vote by party/coalition - GERB-SDS 25.4%, PP-DB 23.5%, Revival 13.6%, DPS 13.2%, BSP for Bulgaria 8.6%, ITN 3.9%, other 11.8%; seats by party/coalition GERB-SDS 69, PP-DB 64, Revival 37, DPS 36, BSP for Bulgaria 23, ITN 11; composition - men 182, women 58, percent of women 24.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cassation (consists of a chairman and approximately 72 judges organized into penal, civil, and commercial colleges); Supreme Administrative Court (organized into 2 colleges with various panels of 5 judges each); Constitutional Court (consists of 12 justices); note - Constitutional Court resides outside the judiciary<br>
@@ -524,6 +524,7 @@ Germany 16%, Romania 8%, Italy 7%, Turkey 7%, Greece 6% (2019)<br>
 
 **Exports - commodities**<br>
 copper, wheat, electricity, refined petroleum, packaged medicines (2021)<br>
+<strong>note:</strong> Bulgarian amphetamine production remains a significant illicit trade export<br>
 
 **Imports**<br>
 $50.059 billion (2021 est.) note: data are in current year dollars<br>
@@ -688,8 +689,8 @@ _unpaved_: 277 km (2011)<br>
 470 km (2009)<br>
 
 **Merchant marine**<br>
-_total_: 79<br>
-_by type_: bulk carrier 4, general cargo 14, oil tanker 8, other 53 (2021)<br>
+_total_: 80<br>
+_by type_: bulk carrier 3, general cargo 14, oil tanker 8, other 55 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Burgas, Varna (Black Sea)<br>

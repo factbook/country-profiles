@@ -296,9 +296,9 @@ _severe localized food insecurity_: <em>due to the effects of extreme weather ev
 _municipal solid waste generated annually_: 3,768,759 tons (2016 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 395 million cubic meters (2017 est.)<br>
-_industrial_: 161.9 million cubic meters (2017 est.)<br>
-_agricultural_: 13 billion cubic meters (2017 est.)<br>
+_municipal_: 400 million cubic meters (2020 est.)<br>
+_industrial_: 160 million cubic meters (2020 est.)<br>
+_agricultural_: 13 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 337 billion cubic meters (2019 est.)<br>
@@ -630,8 +630,8 @@ state-owned Radio Nationale Malagasy (RNM) and Television Malagasy (TVM) have an
 .mg<br>
 
 **Internet users**<br>
-_total_: 2,696,931 (2019 est.)<br>
-_percent of population_: 10% (2019 est.)<br>
+_total_: 5.8 million (2021 est.)<br>
+_percent of population_: 20% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 32,000 (2020 est.)<br>
@@ -676,8 +676,8 @@ _total_: 31,640 km (2018)<br>
 600 km (2011) (432 km navigable)<br>
 
 **Merchant marine**<br>
-_total_: 27<br>
-_by type_: general cargo 14, oil tanker 2, other 11 (2021)<br>
+_total_: 28<br>
+_by type_: general cargo 15, oil tanker 2, other 11 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (Tulear)<br>

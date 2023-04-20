@@ -645,8 +645,8 @@ _international_: country code - 228; landing point for the WACS submarine cable,
 .tg<br>
 
 **Internet users**<br>
-_total_: 1,986,897 (2020 est.)<br>
-_percent of population_: 24% (2020 est.)<br>
+_total_: 3.01 million (2021 est.)<br>
+_percent of population_: 35% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 52,706 (2020 est.)<br>
@@ -692,8 +692,8 @@ _urban_: 1,783 km (2018)<br>
 50 km (2011) (seasonally navigable by small craft on the Mono River depending on rainfall)<br>
 
 **Merchant marine**<br>
-_total_: 411<br>
-_by type_: bulk carrier 1, container ship 9, general cargo 265, oil tanker 56, other 80 (2021)<br>
+_total_: 403<br>
+_by type_: bulk carrier 1, container ship 10, general cargo 254, oil tanker 57, other 81 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kpeme, Lome<br>

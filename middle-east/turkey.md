@@ -645,8 +645,8 @@ _international_: country code - 90; landing points for the SeaMeWe-3 &amp; -5, M
 .tr<br>
 
 **Internet users**<br>
-_total_: 65,784,472 (2020 est.)<br>
-_percent of population_: 78% (2020 est.)<br>
+_total_: 68.85 million (2021 est.)<br>
+_percent of population_: 81% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 16,734,853 (2020 est.)<br>
@@ -699,8 +699,8 @@ _unpaved_: 43,251 km (2018)<br>
 1,200 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 1,217<br>
-_by type_: bulk carrier 39, container ship 41, general cargo 317, oil tanker 126, other 694 (2021)<br>
+_total_: 1,237<br>
+_by type_: bulk carrier 37, container ship 41, general cargo 288, oil tanker 130, other 741 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin (Icel), Limani, Yarimca<br>

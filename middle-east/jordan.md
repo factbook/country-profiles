@@ -294,9 +294,9 @@ Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq 
 Arabian Aquifer System<br>
 
 **Total water withdrawal**<br>
-_municipal_: 456.9 million cubic meters (2017 est.)<br>
-_industrial_: 32.5 million cubic meters (2017 est.)<br>
-_agricultural_: 554.7 million cubic meters (2017 est.)<br>
+_municipal_: 500 million cubic meters (2020 est.)<br>
+_industrial_: 40 million cubic meters (2020 est.)<br>
+_agricultural_: 570 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 937 million cubic meters (2019 est.)<br>
@@ -690,7 +690,7 @@ _paved_: 7,203 km (2011)<br>
 
 **Merchant marine**<br>
 _total_: 35<br>
-_by type_: general cargo 6, oil tanker 1, other 28 (2021)<br>
+_by type_: general cargo 6, other 29 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Al 'Aqabah<br>

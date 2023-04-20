@@ -647,8 +647,8 @@ multiple national private TV and radio networks; multi-channel satellite and cab
 .ph<br>
 
 **Internet users**<br>
-_total_: 54,790,543 (2020 est.)<br>
-_percent of population_: 50% (2020 est.)<br>
+_total_: 58.3 million (2021 est.)<br>
+_percent of population_: 53% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 7,936,574 (2020 est.)<br>
@@ -702,8 +702,8 @@ _unpaved_: 155,294 km (2014)<br>
 3,219 km (2011) (limited to vessels with draft less than 1.5 m)<br>
 
 **Merchant marine**<br>
-_total_: 1,805<br>
-_by type_: bulk carrier 62, container ship 44, general cargo 716, oil tanker 205, other 778 (2021)<br>
+_total_: 1,853<br>
+_by type_: bulk carrier 59, container ship 43, general cargo 749, oil tanker 210, other 792 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila<br>

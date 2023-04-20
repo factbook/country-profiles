@@ -586,8 +586,8 @@ _international_: country code - 1-868; landing points for the EC Link, ECFS, Sou
 .tt<br>
 
 **Internet users**<br>
-_total_: 1,074,126 (2019 est.)<br>
-_percent of population_: 77% (2019 est.)<br>
+_total_: 1.185 million (2021 est.)<br>
+_percent of population_: 79% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 376,771 (2020 est.)<br>
@@ -621,8 +621,8 @@ _under 914 m_: 1 (2021)<br>
 257 km condensate, 11 km condensate/gas, 1,567 km gas, 587 km oil (2013)<br>
 
 **Merchant marine**<br>
-_total_: 105<br>
-_by type_: general cargo 1, other 104 (2021)<br>
+_total_: 102<br>
+_by type_: general cargo 1, other 101 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Point Fortin, Point Lisas, Port of Spain, Scarborough<br>

@@ -692,7 +692,7 @@ _paved_: 137,039 km (2018) (includes 2,232 km of expressways)<br>
 
 **Merchant marine**<br>
 _total_: 1<br>
-_by type_: other 1 (2021)<br>
+_by type_: other 1 (2022)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Enns, Krems, Linz, Vienna (Danube)<br>

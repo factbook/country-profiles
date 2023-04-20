@@ -524,7 +524,7 @@ $20.509 billion (2019 est.) note: data are in current year dollars<br>
 United States 54%, Switzerland 8%, Canada 5%, India 5%, China 5% (2019)<br>
 
 **Exports - commodities**<br>
-gold, medical instruments, cigars, low-voltage protection equipment, bananas (2019)<br>
+gold, medical instruments, cigars, low-voltage protection equipment, iron alloys, clothing (2021)<br>
 
 **Imports**<br>
 $28.541 billion (2021 est.) note: data are in current year dollars<br>
@@ -688,7 +688,7 @@ _unpaved_: 9,833 km (2002)<br>
 
 **Merchant marine**<br>
 _total_: 38<br>
-_by type_: container ship 1, general cargo 2, oil tanker 1, other 34 (2021)<br>
+_by type_: container ship 1, general cargo 2, oil tanker 1, other 34 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Puerto Haina, Puerto Plata, Santo Domingo<br>

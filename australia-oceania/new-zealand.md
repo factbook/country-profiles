@@ -277,9 +277,9 @@ _municipal solid waste generated annually_: 3.405 million tons (2016 est.)<br>
 _fresh water lake(s)_: Lake Taupo - 610 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 810 million cubic meters (2017 est.)<br>
-_industrial_: 1.184 billion cubic meters (2017 est.)<br>
-_agricultural_: 3.207 billion cubic meters (2017 est.)<br>
+_municipal_: 500 million cubic meters (2020 est.)<br>
+_industrial_: 1.18 billion cubic meters (2020 est.)<br>
+_agricultural_: 3.2 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 327 billion cubic meters (2019 est.)<br>
@@ -629,8 +629,8 @@ state-owned Television New Zealand operates multiple TV networks and state-owned
 .nz<br>
 
 **Internet users**<br>
-_total_: 4,677,556 (2020 est.)<br>
-_percent of population_: 92% (2020 est.)<br>
+_total_: 4.896 million (2021 est.)<br>
+_percent of population_: 96% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,764,984 (2020 est.)<br>
@@ -677,8 +677,8 @@ _paved_: 61,600 km (2017) (includes 199 km of expressways)<br>
 _unpaved_: 32,400 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 115<br>
-_by type_: container ship 1, general cargo 12, oil tanker 4, other 98 (2021)<br>
+_total_: 116<br>
+_by type_: container ship 1, general cargo 12, oil tanker 5, other 98 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga, Wellington<br>

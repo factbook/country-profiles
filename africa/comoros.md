@@ -628,8 +628,8 @@ _paved_: 673 km (2002)<br>
 _unpaved_: 207 km (2002)<br>
 
 **Merchant marine**<br>
-_total_: 236<br>
-_by type_: bulk carrier 8, container ship 7, general cargo 112, oil tanker 31, other 78 (2021)<br>
+_total_: 248<br>
+_by type_: bulk carrier 10, container ship 6, general cargo 108, oil tanker 38, other 86 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Moroni, Moutsamoudou<br>

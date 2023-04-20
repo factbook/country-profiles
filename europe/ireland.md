@@ -267,9 +267,9 @@ _municipal solid waste recycled annually_: 888,537 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 33% (2012 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 631 million cubic meters (2017 est.)<br>
-_industrial_: 51 million cubic meters (2017 est.)<br>
-_agricultural_: 179 million cubic meters (2017 est.)<br>
+_municipal_: 990 million cubic meters (2020 est.)<br>
+_industrial_: 520 million cubic meters (2020 est.)<br>
+_agricultural_: 40 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 52 billion cubic meters (2019 est.)<br>
@@ -667,7 +667,7 @@ _paved_: 99,830 km (2018) (includes 2,717 km of expressways)<br>
 
 **Merchant marine**<br>
 _total_: 96<br>
-_by type_: bulk carrier 12, general cargo 36, oil tanker 1, other 47 (2021)<br>
+_by type_: bulk carrier 12, general cargo 34, oil tanker 1, other 49 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dublin, Shannon Foynes<br>

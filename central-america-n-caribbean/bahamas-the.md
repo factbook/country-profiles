@@ -463,6 +463,7 @@ Singapore 16%, US 16%, Poland 13%, Germany 12%, Ecuador 10% (2020)<br>
 
 **Exports - commodities**<br>
 refined petroleum, ships, aluminum, lobsters and crawfish, styrene polymers (2021)<br>
+<strong>note:</strong> Bahamian cannabis production remains a significant illicit trade export<br>
 
 **Imports**<br>
 $4.924 billion (2021 est.) note: data are in current year dollars<br>
@@ -618,8 +619,8 @@ _paved_: 1,620 km (2011)<br>
 _unpaved_: 1,080 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 1,323<br>
-_by type_: bulk carrier 333, container ship 45, general cargo 64, oil tanker 224, other 657 (2021)<br>
+_total_: 1,307<br>
+_by type_: bulk carrier 337, container ship 40, general cargo 63, oil tanker 213, other 654 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Freeport, Nassau, South Riding Point<br>

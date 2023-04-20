@@ -648,8 +648,8 @@ state-run public TV operates 2 national channels supplemented by 16 regional cha
 .pl<br>
 
 **Internet users**<br>
-_total_: 31,456,228 (2020 est.)<br>
-_percent of population_: 83% (2020 est.)<br>
+_total_: 32.3 million (2021 est.)<br>
+_percent of population_: 85% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 8,369,218 (2020 est.)<br>
@@ -701,8 +701,8 @@ _unpaved_: 129,000 km (2016)<br>
 3,997 km (2009) (navigable rivers and canals)<br>
 
 **Merchant marine**<br>
-_total_: 143<br>
-_by type_: general cargo 7, oil tanker 6, other 130 (2021)<br>
+_total_: 149<br>
+_by type_: general cargo 7, oil tanker 6, other 136 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Gdansk, Gdynia, Swinoujscie<br>

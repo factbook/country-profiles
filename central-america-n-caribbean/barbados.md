@@ -621,8 +621,8 @@ _total_: 1,700 km (2015)<br>
 _paved_: 1,700 km (2015)<br>
 
 **Merchant marine**<br>
-_total_: 165<br>
-_by type_: bulk carrier 46, general cargo 103, other 16 (2021)<br>
+_total_: 195<br>
+_by type_: bulk carrier 61, general cargo 114, other 20 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bridgetown<br>

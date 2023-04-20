@@ -383,8 +383,8 @@ _international_: country code - 1-721; landing points for SMPR-1 and the ECFS su
 <p>.sx; note - IANA has designated .sx for Sint Maarten, but has not yet assigned it to a sponsoring organization</p><br>
 
 **Internet users**<br>
-_total_: 39,100 (March 2022)<br>
-_percent of population_: 89.5% (March 2022)<br>
+_total_: 39,089 (2022)<br>
+_percent of population_: 89.5% (2022)<br>
 
 ## Transportation
 

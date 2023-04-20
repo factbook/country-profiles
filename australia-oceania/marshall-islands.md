@@ -533,8 +533,8 @@ no TV broadcast station; a cable network is available on Majuro with programming
 .mh<br>
 
 **Internet users**<br>
-_total_: 22,929 (2019 est.)<br>
-_percent of population_: 39% (2019 est.)<br>
+_total_: 16,254 (2021 est.)<br>
+_percent of population_: 38.7% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2020 est.)<br>
@@ -573,8 +573,8 @@ _paved_: 75 km (2007)<br>
 _unpaved_: 1,953 km<br>
 
 **Merchant marine**<br>
-_total_: 3,817<br>
-_by type_: bulk carrier 1,733, container ship 248, general cargo 66, oil tanker 970, other 800 (2021)<br>
+_total_: 4,042<br>
+_by type_: bulk carrier 1,879 container ship 276, general cargo 62, oil tanker 1023, other 802 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Enitwetak Island, Kwajalein, Majuro<br>

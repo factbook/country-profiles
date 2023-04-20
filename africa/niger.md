@@ -316,9 +316,9 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basi
 Lake Chad Basin, Lullemeden-Irhazer Basin, Murzuk-Djado Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 178.9 million cubic meters (2017 est.)<br>
-_industrial_: 36 million cubic meters (2017 est.)<br>
-_agricultural_: 1.536 billion cubic meters (2017 est.)<br>
+_municipal_: 190 million cubic meters (2020 est.)<br>
+_industrial_: 40 million cubic meters (2020 est.)<br>
+_agricultural_: 2.35 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 34.1 billion cubic meters (2019 est.)<br>
@@ -659,8 +659,8 @@ state-run TV station; 3 private TV stations provide a mix of local and foreign p
 .ne<br>
 
 **Internet users**<br>
-_total_: 2,331,072 (2019 est.)<br>
-_percent of population_: 10% (2019 est.)<br>
+_total_: 5.5 million (2021 est.)<br>
+_percent of population_: 22% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 12,000 (2020 est.)<br>
@@ -705,8 +705,8 @@ _unpaved_: 15,037 km (2010)<br>
 300 km (2012) (the Niger, the only major river, is navigable to Gaya between September and March)<br>
 
 **Merchant marine**<br>
-_total_: 1<br>
-_by type_: general cargo 1 (2021)<br>
+_total_: 2<br>
+_by type_: general cargo 1, other 1 (2022)<br>
 
 ## Military and Security
 
@@ -749,7 +749,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); 
 <p><em>Niger-Benin-Nigeria</em>: location of Niger-Benin-Nigeria tripoint is unresolved</p> <p><em>Niger-Burkina Faso</em>: the dispute with Burkina Faso was referred to the International Court of Justice (ICJ) in 2010; the ICJ ruled in 2013 that 786 sq km should go to Burkina Faso and 277 sq km to Niger; the ruling was implemented in 2015 and 2016, with Burkina Faso gaining 14 towns and Niger 4</p> <p><em>Niger-Cameroon-Nigeria</em>: only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Niger-Libya</em>: Libya claims about 25,000 sq km in a currently dormant dispute in the Tummo region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 188,015 (Nigeria), 65,847 (Mali) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 188,006 (Nigeria), 65,847 (Mali) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 376,809 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>

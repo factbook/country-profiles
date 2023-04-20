@@ -342,14 +342,14 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Alyaksandr LUKASHENKA (since 20 July 1994)<br>
-_head of government_: Prime Minister Raman HALOWCHENKA (since 4 June 2020); First Deputy Prime Minister Mikalay SNAPKOW (since 4 June 2020); Deputy Prime Ministers Uladzimir KUKHARAW, Ihar PETRYSHENKA (since 18 August 2018), Yuryy NAZARAW (since 3 March 2020), Alyaksandr SUBOTSIN (since 4 June 2020)<br>
+_head of government_: Prime Minister Roman GOLOVCHENKO (since 4 June 2020); First Deputy Prime Minister Mikalay SNAPKOW (since 4 June 2020); Deputy Prime Ministers Ihar PETRYSHENKA (since 18 August 2018), Anatol SIVAK (since 1 September 2020), Leanid ZAYATS (since 21 March 2022), Petr PARKHOMCHYK (since 16 August 2022)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); first election took place on 23 June and 10 July 1994; according to the 1994 constitution, the next election should have been held in 1999; however, Alyaksandr LUKASHENKA extended his term to 2001 via a November 1996 referendum; subsequent election held on 9 September 2001; an October 2004 referendum ended presidential term limits and allowed the President LUKASHENKA to run and win in a third (19 March 2006), fourth (19 December 2010), fifth (11 October 2015), and sixth (9 August 2020); next election to be held in (2025); prime minister and deputy prime ministers appointed by the president and approved by the National Assembly<br>
 _election results_: Alyaksandr LUKASHENKA reelected president (9 August 2022); percent of vote - Alyaksandr LUKASHENKA (independent) 80.1%, Svyatlana TSIKHANOWSKAYA (independent) 10.1%, other 9.8%; note - widespread street protests erupted following announcement of the election results amid allegations of voter fraud<br><br>Alyaksandr LUKASHENKA president (11 October 2015); percent of vote - Alyaksandr LUKASHENKA (independent) 84.1%, Tatsyana KARATKEVICH 4.4%, Sergey GAYDUKEVICH 3.3%, other 8.2%.<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Natsyyalny Skhod consists of:<br>Council of the Republic or Savet Respubliki (64 seats; 56 members indirectly elected by regional and Minsk city councils and 8 members appointed by the president; members serve 4-year terms)<br>House of Representatives or Palata Pradstawnikow (110 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms)<br>
-_elections_: <br>Council of the Republic - indirect election last held on 7 November 2019<br>House of Representatives - last held on 17 November 2019 (next to be held in 2023); OSCE observers determined that the election was neither free nor impartial and that vote counting was problematic in a number of polling stations; pro-LUKASHENKA candidates won every seat; international observers determined that the previous elections, on 28 September 2008, 23 September 2012, and 11 September 2016 also fell short of democratic standards, with pro-LUKASHENKA candidates winning every, or virtually every, seat<br>
+_elections_: <br>Council of the Republic - indirect election last held on 7 November 2019<br>House of Representatives - last held on 17 November 2019 (next to be held in 2024); OSCE observers determined that the election was neither free nor impartial and that vote counting was problematic in a number of polling stations; pro-LUKASHENKA candidates won every seat; international observers determined that the previous elections, on 28 September 2008, 23 September 2012, and 11 September 2016 also fell short of democratic standards, with pro-LUKASHENKA candidates winning every, or virtually every, seat<br>
 _election results_: <br>Council of the Republic - percent of vote by party - NA; seats by party - NA; composition - NA<br>House of Representatives - percent of vote by party - NA; seats by party - KPB 11, Republican Party of Labor and Justice 6, BPP 2, LDP 1, BAP 1, independent 89; composition - men 66, women 44, percent of women 40%<br>
 <strong>note:</strong> the US does not recognize the legitimacy of the National Assembly<br>
 
@@ -359,20 +359,20 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: oblast courts; Minsk City Court; town courts; Minsk city and oblast economic courts<br>
 
 **Political parties and leaders**<br>
-<strong>pro-government parties:</strong> <br>Belarusian Agrarian Party or BAP [Mikhail RUSY]<br>Belarusian Patriotic Party or BPP [Mikalay ULAKHOVICH]<br>Belarusian Social Sport Party or BSSP [Uladzimir ALEKSANDROVICH]<br>Communist Party of Belarus or KPB [Alyaksey SOKOL]<br>Liberal Democratic Party or LDP [Aleh GAYDUKEVICH]<br>Republican Party [Uladzimir BELAZOR]<br>Republican Party of Labor and Justice [Alyaksandr STSYAPANAW]<br>Social Democratic Party of Popular Accord [Syarhey YERMAK]<br><strong>opposition parties:</strong> <br>Belarusian Christian Democracy Party [Paval SEVYARYNETS, Volha KAVALKOVA, Vital RYMASHEWSKI] (unregistered)<br>Belarusian Party of the Green [Dzimtry KUCHUK]<br>Belarusian Party of the Left "Just World" [Syarhey KALYAKIN]<br>Belarusian Social-Democratic Assembly of BSDH [Syarhey CHERACHEN]<br>Belarusian Social Democratic Party ("Assembly") or BSDPH [Ihar BARYSAW]<br>Belarusian Social Democratic Party (People's Assembly) or BSDP [Mikalay STATKEVICH] (unregistered)<br>BPF Party [Ryhor KASTUSYOW]<br>Christian Conservative Party or BPF [Zyanon PAZNYAK]<br>United Civic Party or UCP [Mikalay KAZLOW]<br>
+<strong>pro-government parties:</strong><br>Belarusian Agrarian Party or BAP [Mikhail RUSY]<br>Belarusian Patriotic Party or BPP [Mikalay ULAKHOVICH]<br>Belarusian Social Sport Party or BSSP [Uladzimir ALEKSANDROVICH]<br>Belaya Rus [Henadz DAVYDKA]<br>Communist Party of Belarus or KPB [Alyaksey SOKOL]<br>Liberal Democratic Party or LDP [Aleh GAYDUKEVICH]<br>Republican Party [Uladzimir BELAZOR]<br>Republican Party of Labor and Justice [Alyaksandr STSYAPANAW]<br>Social Democratic Party of Popular Accord [Syarhey YERMAK]<br><strong>opposition parties:</strong> <br>Belarusian Christian Democracy Party [Paval SEVYARYNETS, Volha KAVALKOVA, Vital RYMASHEWSKI] (unregistered)<br>Belarusian Party of the Green [Dzimtry KUCHUK]<br>Belarusian Party of the Left "Just World" [Syarhey KALYAKIN]<br>Belarusian Social-Democratic Assembly of BSDH [Syarhey CHERACHEN]<br>Belarusian Social Democratic Party ("Assembly") or BSDPH [Ihar BARYSAW]<br>Belarusian Social Democratic Party (People's Assembly) or BSDP [Mikalay STATKEVICH] (unregistered)<br>BPF Party [Ryhor KASTUSYOW]<br>Christian Conservative Party - BPF [Zyanon PAZNYAK]<br>United Civic Party or UCP [Mikalay KAZLOW]<br>
 
 **International organization participation**<br>
 BSEC (observer), CBSS (observer), CEI, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFC, IFRCS, ILO, IMF, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OPCW, OSCE, PCA, PFP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer), ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant; recalled by Belarus in 2008); Charg&eacute; d'Affaires Pavel SHIDLOVSKY (since 9 August 2022)<br>
+_chief of mission_: Ambassador (vacant; recalled by Belarus in 2008); Charg&eacute; d'Affaires Pavel SHYDLOWSKI (since 9 August 2022)<br>
 _chancery_: 1619 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 986-1606<br>
 _FAX_: [1] (202) 986-1805<br>
 _email address and website_: <br>usa@mfa.gov.by<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Julie FISHER (since 23 December 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;affaires ad interim, Deputy Chief of Mission &ndash; Ruben HARUTUNIAN (since 9 June 2022)<br>
 _embassy_: 46 Starovilenskaya Street, Minsk 220002<br>
 _mailing address_: 7010 Minsk Place, Washington DC&nbsp; 20521-7010<br>
 _telephone_: [375] (17) 210-12-83/217-73-47/217-73-48<br>
@@ -691,7 +691,7 @@ _total_: 86,600 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 4<br>
-_by type_: other 4 (2021)<br>
+_by type_: other 4 (2022)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Mazyr (Prypyats')<br>

@@ -726,8 +726,8 @@ _total_: 6,371,847 km (2021) note: includes 140,995 km of national highways and 
 14,500 km (2012) (5,200 km on major rivers and 485 km on canals suitable for mechanized vessels)<br>
 
 **Merchant marine**<br>
-_total_: 1,801<br>
-_by type_: bulk carrier 63, container ship 22, general cargo 587, oil tanker 136, other 993 (2021)<br>
+_total_: 1,810<br>
+_by type_: bulk carrier 65, container ship 23, general cargo 594, oil tanker 134, other 994 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam<br>

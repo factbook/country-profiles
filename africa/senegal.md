@@ -654,8 +654,8 @@ state-run Radiodiffusion Television Senegalaise (RTS) broadcasts TV programs fro
 .sn<br>
 
 **Internet users**<br>
-_total_: 7,199,890 (2020 est.)<br>
-_percent of population_: 43% (2020 est.)<br>
+_total_: 9.86 million (2021 est.)<br>
+_percent of population_: 58% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 153,813 (2020 est.)<br>
@@ -704,7 +704,7 @@ _unpaved_: 10,539 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 35<br>
-_by type_: general cargo 5, oil tanker 1, other 29 (2021)<br>
+_by type_: general cargo 5, oil tanker 1, other 29 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dakar<br>

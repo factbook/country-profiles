@@ -283,9 +283,9 @@ _municipal solid waste generated annually_: 289,514 tons (2015 est.)<br>
 Senegalo-Mauritanian Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 30 million cubic meters (2019 est.)<br>
-_industrial_: 10 million cubic meters (2019 est.)<br>
-_agricultural_: 140 million cubic meters (2019 est.)<br>
+_municipal_: 30 million cubic meters (2020 est.)<br>
+_industrial_: 10 million cubic meters (2020 est.)<br>
+_agricultural_: 140 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 31.4 billion cubic meters (2019 est.)<br>
@@ -646,7 +646,7 @@ _unpaved_: 3,947 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 8<br>
-_by type_: general cargo 5, other 3 (2021)<br>
+_by type_: general cargo 5, other 3 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bissau, Buba, Cacheu, Farim<br>

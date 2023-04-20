@@ -272,9 +272,9 @@ _municipal solid waste recycled annually_: 10,567,006 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 58% (2014 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 6.672 billion cubic meters (2017 est.)<br>
-_industrial_: 4.45 billion cubic meters (2017 est.)<br>
-_agricultural_: 15.96 billion cubic meters (2017 est.)<br>
+_municipal_: 6.672 billion cubic meters (2020 est.)<br>
+_industrial_: 4.45 billion cubic meters (2020 est.)<br>
+_agricultural_: 15.96 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 69.7 billion cubic meters (2019 est.)<br>
@@ -506,10 +506,10 @@ $607.505 billion (2020 est.) note: data are in current year dollars<br>
 $660.507 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-China 25%, United States 14%, Vietnam 9%, Hong Kong 6%, Japan 5% (2020)<br>
+China 24%, United States 15%, Vietnam 9%, Hong Kong 6%, Japan 5% (2021)<br>
 
 **Exports - commodities**<br>
-integrated circuits, cars and vehicle parts, refined petroleum, ships, office machinery (2020)<br>
+integrated circuits, cars and vehicle parts, refined petroleum, ships, office machinery, telephones (2021)<br>
 
 **Imports**<br>
 $698.103 billion (2021 est.) note: data are in current year dollars<br>
@@ -517,10 +517,10 @@ $541.57 billion (2020 est.) note: data are in current year dollars<br>
 $607.54 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 25%, United States 12%, Japan 10%, Germany 4%, Vietnam 4% (2020)<br>
+China 24%, United States 12%, Japan 9%, Vietnam 4%, Taiwan 4% (2021)<br>
 
 **Imports - commodities**<br>
-crude oil, integrated circuits, natural gas, refined petroleum, cars (2020)<br>
+crude oil, integrated circuits, natural gas, refined petroleum, photo lab equipment, cars, iron (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $463.281 billion (31 December 2021 est.)<br>
@@ -674,8 +674,8 @@ _unpaved_: 7,633 km (2016)<br>
 1,600 km (2011) (most navigable only by small craft)<br>
 
 **Merchant marine**<br>
-_total_: 1,904<br>
-_by type_: bulk carrier 78, container ship 91, general cargo 360, oil tanker 184, other 1,191 (2021)<br>
+_total_: 2,063<br>
+_by type_: bulk carrier 84, container ship 99, general cargo 358, oil tanker 200, other 1,322 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu<br>

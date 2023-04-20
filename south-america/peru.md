@@ -312,9 +312,9 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
 Amazon Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 2.797 billion cubic meters (2017 est.)<br>
-_industrial_: 206.6 million cubic meters (2017 est.)<br>
-_agricultural_: 13.1 billion cubic meters (2017 est.)<br>
+_municipal_: 2.24 billion cubic meters (2020 est.)<br>
+_industrial_: 3.51 billion cubic meters (2020 est.)<br>
+_agricultural_: 32.8 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 1.9 trillion cubic meters (2019 est.)<br>
@@ -667,8 +667,8 @@ _international_: country code - 51; landing points for the SAM-1, IGW, American 
 .pe<br>
 
 **Internet users**<br>
-_total_: 21,431,700 (2020 est.)<br>
-_percent of population_: 65% (2020 est.)<br>
+_total_: 24.14 million (2021 est.)<br>
+_percent of population_: 71% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3.044 million (2020 est.)<br>
@@ -723,8 +723,8 @@ _paved_: 18,699 km<br>
 8,808 km (2011) (8,600 km of navigable tributaries on the Amazon River system and 208 km on Lago Titicaca)<br>
 
 **Merchant marine**<br>
-_total_: 98<br>
-_by type_: general cargo 1, oil tanker 8, other 89 (2021)<br>
+_total_: 101<br>
+_by type_: general cargo 1, oil tanker 8, other 92 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Callao, Matarani, Paita<br>

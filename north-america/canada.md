@@ -374,7 +374,7 @@ _judge selection and term of office_: chief justice and judges appointed by the 
 _subordinate courts_: federal level: Federal Court of Appeal; Federal Court; Tax Court; federal administrative tribunals; Courts Martial; provincial/territorial level: provincial superior, appeals, first instance, and specialized courts; note -&nbsp; in 1999, the Nunavut Court - a circuit court with the power of a provincial superior court, as well as a territorial court - was established to serve isolated settlements<br>
 
 **Political parties and leaders**<br>
-Bloc Quebecois [Yves-Francois BLANCHET]<br>Conservative Party of Canada or CPC [Candice BERGEN (interim)]<br>Green Party [Amita KUTTNER (interim)]<br>Liberal Party [Justin TRUDEAU]<br>New Democratic Party or NDP [Jagmeet SINGH]<br>People's Party of Canada [Maxime BERNIER]<br>
+Bloc Quebecois [Yves-Francois BLANCHET]<br>Conservative Party of Canada or CPC [Pierre POILIEVRE]<br>Green Party [Elizabeth MAY]<br>Liberal Party [Justin TRUDEAU]<br>New Democratic Party or NDP [Jagmeet SINGH]<br>People's Party of Canada [Maxime BERNIER]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNRWA, UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -647,7 +647,7 @@ _total subscriptions_: 32.723 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 86 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the Canadian telecom market continues to show steady development as operators invest in network upgrades; much of the investment among telcos has been channelled into LTE infrastructure to capitalize on consumer demand for mobile data services, while there has also been further investment in 5G; investment programs have also been supported by regulatory efforts to ensure that operators have spectrum available to develop 5G services; an investment in fixed-line infrastructure, focused on FttP and, among cable broadband providers; government policy has encouraged the extension of broadband to rural and regional areas, with the result that services are almost universally available and the emphasis now is on improving service speeds to enable the entire population to benefit from the digital economy and society; cable broadband is the principal access platform, followed by DSL; the mobile rate remains comparatively low by international standards; Canadians have provided for LTE and LTE-A infrastructure; despite topographical challenges and the remoteness of many areas, the major players effectively offer 99% population coverage with LTE; operators now provide up to 70% population coverage with 5G (2022)<br>
+_general assessment_: the Canadian telecom market continues to show steady development as operators invest in network upgrades; much of the investment among telcos has been channeled into LTE infrastructure to capitalize on consumer demand for mobile data services, while there has also been further investment in 5G; investment programs have also been supported by regulatory efforts to ensure that operators have spectrum available to develop 5G services; an investment in fixed-line infrastructure, focused on FttP and, among cable broadband providers; government policy has encouraged the extension of broadband to rural and regional areas, with the result that services are almost universally available and the emphasis now is on improving service speeds to enable the entire population to benefit from the digital economy and society; cable broadband is the principal access platform, followed by DSL; the mobile rate remains comparatively low by international standards; Canadians have provided for LTE and LTE-A infrastructure; despite topographical challenges and the remoteness of many areas, the major players effectively offer 99% population coverage with LTE; operators now provide up to 70% population coverage with 5G (2022)<br>
 _domestic_: Nearly 34 per 100 fixed-line and 86 per 100 mobile-cellular teledensity (2021)<br>
 _international_: country code - 1; landing points for the Nunavut Undersea Fiber Optic Network System, Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine cables providing links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2019)<br>
 
@@ -712,8 +712,8 @@ _unpaved_: 626,700 km (2011)<br>
 636 km (2011) (Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, shared with United States)<br>
 
 **Merchant marine**<br>
-_total_: 679<br>
-_by type_: bulk carrier 22, container ship 1, general cargo 66, oil tanker 15, other 575 (2021)<br>
+_total_: 689<br>
+_by type_: bulk carrier 21, container ship 1, general cargo 65, oil tanker 15, other 587 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Halifax, Saint John (New Brunswick), Vancouver<br>

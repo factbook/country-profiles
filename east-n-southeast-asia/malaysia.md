@@ -282,9 +282,9 @@ _municipal solid waste recycled annually_: 2,271,970 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 17.5% (2016 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.342 billion cubic meters (2017 est.)<br>
-_industrial_: 1.641 billion cubic meters (2017 est.)<br>
-_agricultural_: 2.505 billion cubic meters (2017 est.)<br>
+_municipal_: 1.34 billion cubic meters (2020 est.)<br>
+_industrial_: 1.64 billion cubic meters (2020 est.)<br>
+_agricultural_: 2.51 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 580 billion cubic meters (2019 est.)<br>
@@ -634,8 +634,8 @@ state-owned TV broadcaster operates 2 TV networks with relays throughout the cou
 .my<br>
 
 **Internet users**<br>
-_total_: 29,129,398 (2020 est.)<br>
-_percent of population_: 90% (2020 est.)<br>
+_total_: 32.98 million (2021 est.)<br>
+_percent of population_: 97% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,358,800 (2020 est.)<br>
@@ -688,8 +688,8 @@ _unpaved_: 28,234 km (2010)<br>
 7,200 km (2011) (Peninsular Malaysia 3,200 km; Sabah 1,500 km; Sarawak 2,500 km)<br>
 
 **Merchant marine**<br>
-_total_: 1,769<br>
-_by type_: bulk carrier 16, container ship 28, general cargo 174, oil tanker 153, other 1,398 (2021)<br>
+_total_: 1,790<br>
+_by type_: bulk carrier 14, container ship 33, general cargo 181, oil tanker 156, other 1,406 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bintulu, Johor Bahru, George Town (Penang), Pelabuhan Klang (Port Klang), Tanjung Pelepas<br>

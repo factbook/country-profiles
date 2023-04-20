@@ -526,8 +526,8 @@ the publicly owned French Overseas Network (RFO), which operates in France's ove
 .nc<br>
 
 **Internet users**<br>
-_total_: 222,466 (2019 est.)<br>
-_percent of population_: 82% (2019 est.)<br>
+_total_: 237,800 (2021 est.)<br>
+_percent of population_: 82% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 55,000 (2020 est.)<br>
@@ -560,8 +560,8 @@ _under 914 m_: 8 (2021)<br>
 _total_: 5,622 km (2006)<br>
 
 **Merchant marine**<br>
-_total_: 24<br>
-_by type_: general cargo 5, oil tanker 1, other 18 (2021)<br>
+_total_: 23<br>
+_by type_: general cargo 5, oil tanker 1, other 17 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Noumea<br>

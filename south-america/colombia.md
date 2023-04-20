@@ -711,8 +711,8 @@ _total_: 205,379 km (2019)<br>
 24,725 km (2019) (18,225 km navigable; the most important waterway, the River Magdalena, of which 1,092 km is navigable, is dredged regularly to ensure safe passage of cargo vessels and container barges)<br>
 
 **Merchant marine**<br>
-_total_: 122<br>
-_by type_: general cargo 23, oil tanker 7, other 92 (2021)<br>
+_total_: 148<br>
+_by type_: general cargo 28, oil tanker 12, other 108 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo<br>Pacific Ocean - Buenaventura<br>

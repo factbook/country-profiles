@@ -413,7 +413,8 @@ $2.659 billion (2019 est.)<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **Exports - commodities**<br>
-stone, olives, fruit, vegetables, limestone<br>
+building stone, scrap iron, plastic lids, furniture, seating, dates, olive oil (2021)<br>
+<strong>note:</strong> data includes both Gaza Strip and West Bank export commodities<br>
 
 **Imports**<br>
 $10.245 billion (2021 est.) note: data are in current year dollars and includes Gaza Strip<br>
@@ -521,8 +522,8 @@ the Palestinian Authority operates 1 TV and 1 radio station; about 20 private TV
 .ps; note - IANA has designated .ps for the West Bank, same as Gaza Strip<br>
 
 **Internet users**<br>
-_total_: 3,602,452 (2020 est.)<br>
-_percent of population_: 75% (2020 est.)<br>
+_total_: 3,938,199 (2021 est.)<br>
+_percent of population_: 80% (2021 est.)<br>
 <strong>note:</strong> includes the Gaza Strip<br>
 
 **Broadband - fixed subscriptions**<br>

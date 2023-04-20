@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Montevideo, founded by the Spanish in 1726 as a military stronghold, soon became an important commercial center due to its natural harbor. Claimed by Argentina but annexed by Brazil in 1821, Uruguay declared its independence in 1825 and secured its freedom in 1828 after a three-year struggle. The administrations of President Jose BATLLE in the early 20th century launched widespread political, social, and economic reforms that established a statist tradition. A violent Marxist urban guerrilla movement named the Tupamaros (or Movimiento de Liberación Nacional-Tupamaros (MLN-T)), launched in the late 1960s, led Uruguay's president to cede control of the government to the military in 1973. By yearend, the rebels had been crushed, but the military continued to expand its hold over the government. Civilian rule was restored in 1985. In 2004, the left-of-center Frente Amplio Coalition won national elections that effectively ended 170 years of political control previously held by the Colorado and National (Blanco) parties. The left-of-center retained the presidency and control of both chambers of congress until 2019. Uruguay's political and labor conditions are among the freest on the continent.</p><br>
+<p>Montevideo, founded by the Spanish in 1726 as a military stronghold, soon became an important commercial center due to its natural harbor. Claimed by Argentina but annexed by Brazil in 1821, Uruguay declared its independence in 1825 and secured its freedom in 1828 after a three-year struggle. The administrations of President Jose BATLLE in the early 20th century launched widespread political, social, and economic reforms that established a statist tradition. A violent Marxist urban guerrilla movement named the Tupamaros (or Movimiento de Liberación Nacional-Tupamaros (MLN-T)), launched in the late 1960s, led Uruguay's president to cede control of the government to the military in 1973. By yearend, the rebels had been crushed, but the military continued to expand its hold over the government. Civilian rule was restored in 1985. In 2004, the left-of-center Frente Amplio (FA) Coalition won national elections that effectively ended 170 years of political control previously held by the Colorado and National (Blanco) parties. The left-of-center retained the presidency and control of both chambers of congress until 2019. Uruguay's political and labor conditions are among the freest on the continent.</p><br>
 
 ## Geography
 
@@ -641,8 +641,8 @@ mixture of privately owned and state-run broadcast media; more than 100 commerci
 .uy<br>
 
 **Internet users**<br>
-_total_: 2,987,405 (2020 est.)<br>
-_percent of population_: 86% (2020 est.)<br>
+_total_: 3.06 million (2021 est.)<br>
+_percent of population_: 90% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,063,701 (2020 est.)<br>
@@ -689,8 +689,8 @@ _unpaved_: 69,989 km (2010)<br>
 1,600 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 61<br>
-_by type_: container ship 1, general cargo 4, oil tanker 4, other 52 (2021)<br>
+_total_: 60<br>
+_by type_: container ship 1, general cargo 4, oil tanker 4, other 51 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Montevideo<br>

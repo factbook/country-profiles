@@ -488,7 +488,7 @@ $485.4 million (2016 est.)<br>
 China 62%, South Korea 28.3% (2017)<br>
 
 **Exports - commodities**<br>
-gold and other minerals, livestock, sorghum, textiles, food, small industry manufactures<br>
+zinc, copper, gold, clothing, stone grinders (2021)<br>
 
 **Imports**<br>
 $1.127 billion (2017 est.)<br>
@@ -648,7 +648,7 @@ _unpaved_: 14,400 km (2000)<br>
 
 **Merchant marine**<br>
 _total_: 9<br>
-_by type_: general cargo 4, oil tanker 1, other 4 (2021)<br>
+_by type_: general cargo 4, oil tanker 1, other 4 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Assab, Massawa<br>

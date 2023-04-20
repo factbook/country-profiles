@@ -524,7 +524,7 @@ $360.208 million (2019 est.)<br>
 China 38%, India 22%, Mali 7%, Chile 5% (2017)<br>
 
 **Exports - commodities**<br>
-lumber, cashews, refined petroleum, fish oil, ground nut oil (2019)<br>
+cashews, lumber, refined petroleum, shellfish, scrap iron, fish, sesame seeds (2021)<br>
 
 **Imports**<br>
 $726 million (2021 est.) note: data are in current year dollars<br>
@@ -672,8 +672,8 @@ _unpaved_: 2,459 km (2011)<br>
 390 km (2010) (on River Gambia; small oceangoing vessels can reach 190 km)<br>
 
 **Merchant marine**<br>
-_total_: 8<br>
-_by type_: other 8 (2021)<br>
+_total_: 9<br>
+_by type_: general cargo 1, other 8 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Banjul<br>

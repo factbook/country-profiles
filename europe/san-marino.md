@@ -496,8 +496,8 @@ state-owned public broadcaster operates 1 TV station and 3 radio stations; recei
 .sm<br>
 
 **Internet users**<br>
-_total_: 20,318 (2019 est.)<br>
-_percent of population_: 60% (2019 est.)<br>
+_total_: 25,500 (2021 est.)<br>
+_percent of population_: 75% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 11,000 (2020 est.)<br>

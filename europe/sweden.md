@@ -627,8 +627,8 @@ publicly owned TV broadcaster operates 2 terrestrial networks plus regional stat
 .se<br>
 
 **Internet users**<br>
-_total_: 9,835,769 (2020 est.)<br>
-_percent of population_: 95% (2020 est.)<br>
+_total_: 8.8 million (2021 est.)<br>
+_percent of population_: 88% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,179,574 (2020 est.)<br>
@@ -679,8 +679,8 @@ _unpaved_: 433,034 km (2016)<br>
 2,052 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 370<br>
-_by type_: general cargo 49, oil tanker 22, other 299 (2021)<br>
+_total_: 368<br>
+_by type_: general cargo 46, oil tanker 21, other 301 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, Stockholm, Trelleborg, Visby<br>

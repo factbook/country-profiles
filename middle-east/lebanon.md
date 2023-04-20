@@ -274,9 +274,9 @@ _municipal solid waste recycled annually_: 163,200 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2014 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 240 million cubic meters (2017 est.)<br>
-_industrial_: 900 million cubic meters (2017 est.)<br>
-_agricultural_: 700 million cubic meters (2017 est.)<br>
+_municipal_: 240 million cubic meters (2020 est.)<br>
+_industrial_: 900 million cubic meters (2020 est.)<br>
+_agricultural_: 700 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 4.5 billion cubic meters (2019 est.)<br>
@@ -625,8 +625,8 @@ _international_: country code - 961; landing points for the IMEWE, BERYTAR AND C
 .lb<br>
 
 **Internet users**<br>
-_total_: 6,825,442 (2020 est.)<br>
-_percent of population_: 84% (2020 est.)<br>
+_total_: 4.872 million (2021 est.)<br>
+_percent of population_: 87% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 432,070 (2020 est.)<br>
@@ -674,8 +674,8 @@ _narrow gauge_: 82 km (2017) 1.050-m gauge<br>
 _total_: 21,705 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 48<br>
-_by type_: bulk carrier 2, general cargo 31, oil tanker 1, other 14 (2021)<br>
+_total_: 49<br>
+_by type_: bulk carrier 2, general cargo 32, oil tanker 1, other 14 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Beirut, Tripoli<br>
@@ -719,7 +719,7 @@ Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; HAMAS; Hizball
 <p><em>Lebanon-Syria</em>: lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; in March 2021, Syria signed a contract with a Russian company for oil and gas exploration in a maritime area Lebanon claims as its own based on a 2011 map sent to the UN</p> <p><em>Lebanon-Israel</em>: Lebanon has claimed Shab'a Farms area in the Israeli-controlled Golan Heights; Lebanon and Israel resumed negotiations over their maritime border in 2020, but their efforts were derailed when Lebanon argued that the map the UN was using needed modifications</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 479,537 (Palestinian refugees) (2020); 814,715 (Syria) (2022)<br>
+_refugees (country of origin)_: 479,537 (Palestinian refugees) (2020); 805,326 (Syria) (2023)<br>
 _IDPs_: 7,000 (2020)<br>
 _stateless persons_: undetermined (2016); note - tens of thousands of persons are stateless in Lebanon, including many Palestinian refugees and their descendants, Syrian Kurds denaturalized in Syria in 1962, children born to Lebanese women married to foreign or stateless men; most babies born to Syrian refugees, and Lebanese children whose births are unregistered<br>
 

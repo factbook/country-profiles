@@ -503,7 +503,7 @@ $2.048 billion (2019 est.) note: data are in current year dollars<br>
 South Africa 94% (2017)<br>
 
 **Exports - commodities**<br>
-soft drink concentrates, sugar, timber, cotton yarn, refrigerators, citrus, and canned fruit<br>
+carbonated drink mixtures, sugar, gold, industrial additives, clothing, lumber (2021)<br>
 
 **Imports**<br>
 $2.173 billion (2021 est.) note: data are in current year dollars<br>

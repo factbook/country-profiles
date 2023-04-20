@@ -287,9 +287,9 @@ _salt water lake(s)_: Uvs Nuur - 3,350 sq km; Hyargas Nuur - 1,360 sq km<br>
 Amur (shared with China [s] and Russia [m]) - 4,444 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Total water withdrawal**<br>
-_municipal_: 45.3 million cubic meters (2017 est.)<br>
-_industrial_: 166.2 million cubic meters (2017 est.)<br>
-_agricultural_: 250.9 million cubic meters (2017 est.)<br>
+_municipal_: 50 million cubic meters (2020 est.)<br>
+_industrial_: 170 million cubic meters (2020 est.)<br>
+_agricultural_: 250 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 34.8 billion cubic meters (2019 est.)<br>
@@ -635,8 +635,8 @@ following a law passed in 2005, Mongolia's state-run radio and TV provider conve
 .mn<br>
 
 **Internet users**<br>
-_total_: 2,065,324 (2020 est.)<br>
-_percent of population_: 63% (2020 est.)<br>
+_total_: 2.772 million (2021 est.)<br>
+_percent of population_: 84% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 307,166 (2020 est.)<br>
@@ -686,8 +686,8 @@ _unpaved_: 102,600 km (2017)<br>
 580 km (2010) (the only waterway in operation is Lake Hovsgol) (135 km); Selenge River (270 km) and Orhon River (175 km) are navigable but carry little traffic; lakes and rivers ice-free from May to September)<br>
 
 **Merchant marine**<br>
-_total_: 302<br>
-_by type_: bulk carrier 4, container ship 7, general cargo 131, oil tanker 64, other 96 (2021)<br>
+_total_: 314<br>
+_by type_: bulk carrier 3, container ship 6, general cargo 151, oil tanker 57, other 97 (2022)<br>
 
 ## Military and Security
 

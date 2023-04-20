@@ -520,7 +520,7 @@ $22.962 billion (2019 est.) note: data are in current year dollars<br>
 Finland 13%, Sweden 9%, Latvia 8%, Russia 8%, United States 7%, Lithuania 6%, Germany 6% (2019)<br>
 
 **Exports - commodities**<br>
-broadcasting equipment, refined petroleum, coal tar oil, cars, prefabricated buildings (2019)<br>
+broadcasting equipment, coal tar oil, refined petroleum, cars, prefabricated buildings, lumber (2021)<br>
 
 **Imports**<br>
 $29.234 billion (2021 est.) note: data are in current year dollars<br>
@@ -684,8 +684,8 @@ _unpaved_: 47,985 km (2011)<br>
 335 km (2011) (320 km are navigable year-round)<br>
 
 **Merchant marine**<br>
-_total_: 68<br>
-_by type_: general cargo 2, oil tanker 4, other 62 (2021)<br>
+_total_: 70<br>
+_by type_: general cargo 2, oil tanker 3, other 65 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn<br>

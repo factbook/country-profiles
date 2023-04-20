@@ -684,7 +684,7 @@ _total_: 5,035 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 11<br>
-_by type_: other 11 (2021)<br>
+_by type_: other 11 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Atlantic Ocean (Caribbean) - Puerto Limon<br>

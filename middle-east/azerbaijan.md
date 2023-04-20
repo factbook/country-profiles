@@ -339,9 +339,9 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Ilham ALIYEV (since 31 October 2003); First Vice President Mehriban ALIYEVA (since 21 February 2017)<br>
-_head of government_: Prime Minister Ali ASADOV (since 8 October 2019); First Deputy Prime Minister Yaqub EYYUBOV (since June 2006)<br>
+_head of government_: Prime Minister Ali ASADOV (since 8 October 2019); First Deputy Prime Minister Yaqub EYYUBOV (since 13 February 2003)<br>
 _cabinet_: Council of Ministers appointed by the president and confirmed by the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds (if needed) for a 7-year term; a single individual is eligible for unlimited terms; election last held on 11 April 2018 (next to be held in 2025); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly; note - a constitutional amendment approved in a September 2016 referendum expanded the presidential term from 5 to 7 years; a separate constitutional amendment approved in the same referendum also introduced the post of first vice-president and additional vice-presidents, who are directly appointed by the president<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds (if needed) for a 7-year term; a single individual is eligible for unlimited terms; election last held on 11 April 2018 (next to be held in 2025); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly; note - a constitutional amendment approved in a September 2016 referendum extended the presidential term from 5 to 7 years; a separate constitutional amendment approved in the same referendum also introduced the post of first vice-president and additional vice-presidents, who are directly appointed by the president; however, no additional vice-presidents have been appointed since the constitutional amendment was passed<br>
 _election results_: Ilham ALIYEV reelected president (11 April 2018) in first round; percent of vote - Ilham ALIYEV (YAP) 86%, Zahid ORUJ (independent) 3.1%, other 10.9%<br>
 <strong>note:</strong> OSCE observers noted shortcomings in the election, including a restrictive political environment, limits on fundamental freedoms, a lack of genuine competition, and ballot box stuffing<br>
 
@@ -356,7 +356,7 @@ _judge selection and term of office_: Supreme Court judges nominated by the pres
 _subordinate courts_: Courts of Appeal (replaced the Economic Court in 2002); district and municipal courts<br>
 
 **Political parties and leaders**<br>
-Azerbaijan Democratic Enlightenment Party or ADMP [Elshan MASAYEV]<br>Civic Solidarity Party or VHP [Sabir RUSTAMKHANLI]<br>Civic Unity Party or CUP [Sabir HAJIYEV]<br>Great Order Party [Fazil MUSTAFA]<br>Islamic Party of Azerbaijan or AiP [Mavsum SAMADOV]<br>Musavat [Arif HAJILI]<br>Popular Front Party [Ali KARIMLI]<br>Motherland Party or AVP [Fazail AGAMALI]<br>National Front Party [Razi NURULLAYEV]<br>National Revival Movement Party [Faraj GULIYEV]<br>Party for Democratic Reforms or PDR [Asim MOLLAZADE]<br>Republican Alternative Party or REAL [Ilgar MAMMADOV]<br>Social Democratic Party [Ayaz MUTALIBOV]<br>Social Prosperity Party [Asli KAZIMOVA]<br>Unity Party or VP [Tahir KARIMLI]<br>Whole Azerbaijan Popular Front Party [Gudrat HASANGULIYEV]<br>New Azerbaijan Party (Yeni Azərbaycan Partiyasi) or YAP [Ilham ALIYEV]<br>
+Azerbaijan Democratic Enlightenment Party or ADMP [Elshan MASAYEV]<br>Civic Solidarity Party or VHP [Sabir RUSTAMKHANLI]<br>Civic Unity Party or VBP [Sabir HAJIYEV]<br>Great Order Party [Fazil MUSTAFA]<br>Islamic Party of Azerbaijan or AiP [Mavsum SAMADOV]<br>Musavat (Equity) Party [Arif HAJILI]<br>Popular Front Party [Ali KARIMLI]<br>Motherland Party or AVP [Fazail AGAMALI]<br>National Front Party [Razi NURULLAYEV]<br>National Revival Movement Party [Faraj GULIYEV]<br>Party for Democratic Reforms or DIP [Asim MOLLAZADE]<br>Republican Alternative Party or REAL [Ilgar MAMMADOV]<br>Social Democratic Party [Ayaz MUTALIBOV]<br>Social Prosperity Party [Asli KAZIMOVA]<br>Unity Party or VP [Tahir KARIMLI]<br>Whole Azerbaijan Popular Front Party [Gudrat HASANGULIYEV]<br>New Azerbaijan Party (Yeni Azərbaycan Partiyasi) or YAP [Ilham ALIYEV]<br>
 
 **International organization participation**<br>
 ADB, BSEC, CD, CE, CICA, CIS, EAPC, EBRD, ECO, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
@@ -370,7 +370,7 @@ _email address and website_: <br>azerbaijan@azembassy.us; consul@azembassy.us<br
 _consulate(s) general_: Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Lee LITZENBERGER (since 12 March 2019)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires ad interium (since 29 June 2022)<br>
 _embassy_: 111 Azadlig Avenue, AZ1007 Baku<br>
 _mailing address_: 7050 Baku Place, Washington, DC 20521-7050<br>
 _telephone_: [994] (12) 488-3300<br>
@@ -622,7 +622,7 @@ _subscriptions per 100 inhabitants_: 105 (2021 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: in spite of the telecom sector being one of the major contributors to Azerbaijan&rsquo;s non-oil GDP, overall development, growth, and investment in the sector has been held back by years of political and civil unrest coupled with endemic corruption; mobile penetration rates reached 100% as far back as 2011 but have largely stagnated since then; the Mobile Network Operators (MNOs) are slowly extending the reach of their LTE networks around the country, and this increased coverage (along with access to faster data-based services) is expected to produce a moderate resurgence for both mobile and mobile broadband over the next few years as customers migrate from 3G to 4G. 5G services are still some ways off, as the demand for high-speed data and fast broadband can easily be met by existing capacity on LTE networks; fixed-line teledensity continues to drop down each year as customers consolidate their telecommunications services around the mobile platform; the rate of decline is comparatively slower than other countries, since Azerbaijan has a relatively high proportion of (87%) of fixed-line broadband customers still on DSL; fiber is gradually being rolled out in urban areas, and this makes up the bulk of the growth being seen in the overall fixed broadband market; DSL&rsquo;s predominance, however, will serve to keep Azerbaijan&rsquo;s average access speeds in the sub-10Mbps range for the foreseeable future (2020)<br>
-_domestic_: 16 fixed-lines subsciptions per 100 persons; mobile-cellular subscriptions of 105 telephones per 100 persons (2021)<br>
+_domestic_: 16 fixed-lines subscriptions per 100 persons; mobile-cellular subscriptions of 105 telephones per 100 persons (2021)<br>
 _international_: country code - 994; Azerbaijan’s largest mobile network operator (MNO)  launched trial 5G mobile services in Baku on 27 December 2022 (2023)<br>
 
 **Broadcast media**<br>
@@ -680,8 +680,8 @@ _total_: 24,981 km (2013)<br>
 <strong>note:</strong> total roadway length has increased significantly and continues to grow due to the recovery of Armenian-held territories and related reconstruction efforts. No updated figure is currently available.<br>
 
 **Merchant marine**<br>
-_total_: 305<br>
-_by type_: general cargo 38, oil tanker 43, other 224 (2021)<br>
+_total_: 309<br>
+_by type_: general cargo 38, oil tanker 44, other 227 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Baku (Baki) located on the Caspian Sea<br>

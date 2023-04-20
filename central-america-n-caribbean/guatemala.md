@@ -288,9 +288,9 @@ _municipal solid waste generated annually_: 2,756,741 tons (2015 est.)<br>
 _fresh water lake(s)_: Lago de Izabal - 590 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 840 million cubic meters (2019 est.)<br>
-_industrial_: 600 million cubic meters (2019 est.)<br>
-_agricultural_: 1.89 billion cubic meters (2019 est.)<br>
+_municipal_: 840 million cubic meters (2020 est.)<br>
+_industrial_: 600 million cubic meters (2020 est.)<br>
+_agricultural_: 1.89 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 127.9 billion cubic meters (2019 est.)<br>
@@ -524,7 +524,7 @@ $13.598 billion (2019 est.) note: data are in current year dollars<br>
 United States 33%, El Salvador 12%, Honduras 8%, Mexico 5%, Nicaragua 5% (2019)<br>
 
 **Exports - commodities**<br>
-bananas, raw sugar, coffee, cardamom, palm oil (2019)<br>
+clothing, bananas, coffee, palm oil, cardamoms, raw sugar, iron alloys (2021)<br>
 
 **Imports**<br>
 $27.388 billion (2021 est.) note: data are in current year dollars<br>
@@ -695,7 +695,7 @@ _unpaved_: 9,982 km (2020) (includes 4,548 km of rural roads)<br>
 
 **Merchant marine**<br>
 _total_: 9<br>
-_by type_: oil tanker 1, other 8 (2021)<br>
+_by type_: oil tanker 1, other 8 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Puerto Quetzal, Santo Tomas de Castilla<br>

@@ -521,7 +521,7 @@ _paved_: 200 km (2007)<br>
 
 **Merchant marine**<br>
 _total_: 30<br>
-_by type_: general cargo 3, other 27 (2021)<br>
+_by type_: general cargo 3, other 27 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Road Harbor<br>

@@ -300,9 +300,9 @@ Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq 
 Arabian Aquifer System<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.23 billion cubic meters (2017 est.)<br>
-_industrial_: 2.05 billion cubic meters (2017 est.)<br>
-_agricultural_: 35.27 billion cubic meters (2017 est.)<br>
+_municipal_: 6.9 billion cubic meters (2020 est.)<br>
+_industrial_: 5.49 billion cubic meters (2020 est.)<br>
+_agricultural_: 44.23 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 89.9 billion cubic meters (2019 est.)<br>
@@ -704,8 +704,8 @@ _paved_: 59,623 km (2012) (includes Kurdistan region)<br>
 5,279 km (2012) (the Euphrates River (2,815 km), Tigris River (1,899 km), and Third River (565 km) are the principal waterways)<br>
 
 **Merchant marine**<br>
-_total_: 68<br>
-_by type_: general cargo 1, oil tanker 6, other 61 (2021)<br>
+_total_: 75<br>
+_by type_: general cargo 1, oil tanker 7, other 67 (2022)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Al Basrah (Shatt al Arab); Khawr az Zubayr, Umm Qasr (Khawr az Zubayr waterway)<br>
@@ -713,7 +713,7 @@ _river port(s)_: Al Basrah (Shatt al Arab); Khawr az Zubayr, Umm Qasr (Khawr az 
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command, Special Security Division (Green Zone protection)<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS; reports to the Prime Minister), Prime Minister's Special Forces Division, Presidential Brigades<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Provincial Police<br><br>Ministry of Oil: Energy Police Directorate<br><br>Kurdistan Regional Government Ministry of Peshmerga: Regional Guard Brigades, Unit (or Division) 70 Forces, Unit (or Division) 80 Forces, special operations/counter-terrorism forces (Counter Terrorism Group, CTG and Counter Terrorism Directorate, CTD); note - Unit 70 and the CTG are associated with the Patriotic Union of Kurdistan (PUK) political party, while Unit 80 and the CTD are associated with the Kurdistan Democratic Party (KDP); Kurdistan Regional Government Ministry of Interior: Zeravani and Emergency Response Forces (paramilitary internal security forces)<br><br>Popular Mobilization Committee (PMC): Popular Mobilization Forces (PMF), Tribal Mobilization Forces (TMF); the PMF and TMF are a collection of approximately 60 militias of widely varied sizes and political interests (2022)<br>
+Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command, Special Security Division (Green Zone protection)<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS; reports to the Prime Minister), Prime Minister's Special Forces Division, Presidential Brigades--Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Provincial Police;<br>Ministry of Oil: Energy Police Directorate<br><br>Popular Mobilization Committee (PMC): Popular Mobilization Forces (PMF), Tribal Mobilization Forces (TMF); the PMF and TMF are a collection of approximately 60 militias of widely varied sizes and political interests<br><br>the two main Kurdish political parties, the Kurdistan Democratic Party (KDP) and the Patriotic Union of Kurdistan (PUK), each maintain an independent security apparatus; the federal constitution provides the Kurdistan Regional Government the right to maintain internal security forces, but the KDP and the PUK separately controlled additional Peshmerga military units, as well as separate police forces under nominal Kurdistan Regional Government Ministry of Interior control; the constitution also allows for a centralized, separate internal security/intelligence (Asayish) service; however, the KDP and PUK also each maintain Asayish forces<br><br>Kurdistan Regional Government Ministry of Peshmerga: Regional Guard Brigades; Unit (or Division) 70 Forces and Counter Terrorism Group (CTG) of the PUK; Unit (or Division) 80 Forces and Counterterrorism Directorate (CTD) of the KDP; Kurdistan Regional Government Ministry of Interior: internal security forces include the Zeravani (KDP) and Emergency Response Forces (PUK) (2022)<br>
 
 **Military expenditures**<br>
 3.7% of GDP (2021 est.)<br>

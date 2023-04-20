@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In 788, about a century after the Arab conquest of North Africa, a series of Moroccan Muslim dynasties began to rule in Morocco. In the 16th century, the Sa'adi monarchy, particularly under Ahmad al-MANSUR (1578-1603), repelled foreign invaders and inaugurated a golden age. The Alaouite Dynasty, to which the current Moroccan royal family belongs, dates from the 17th century. In 1860, Spain occupied northern Morocco and ushered in a half-century of trade rivalry among European powers that saw Morocco's sovereignty steadily erode; in 1912, the French imposed a protectorate over the country. A protracted independence struggle with France ended successfully in 1956. The internationalized city of Tangier and most Spanish possessions were turned over to the new country that same year. Sultan MOHAMMED V, the current monarch's grandfather, organized the new state as a constitutional monarchy and in 1957 assumed the title of king. Since Spain's 1976 withdrawal from Western Sahara, Morocco has extended its de facto administrative control to roughly 75% of this territory; however, the UN does not recognize Morocco as the administering power for Western Sahara. The UN since 1991 has monitored a cease-fire between Morocco and the Polisario Front - an organization advocating the territory’s independence - and restarted negotiations over the status of the territory in December 2018. On 10 December 2020, the US recognized Morocco's sovereignty over all of Western Sahara.</p> <p>King MOHAMMED VI in early 2011 responded to the spread of pro-democracy protests in the North Africa region by implementing a reform program that included a new constitution, passed by popular referendum in July 2011, under which some new powers were extended to parliament and the prime minister, but ultimate authority remains in the hands of the monarch. In November 2011, the Justice and Development Party (PJD) - a moderate Islamist party - won the largest number of seats in parliamentary elections, becoming the first Islamist party to lead the Moroccan Government. In September 2015, Morocco held its first direct elections for regional councils, one of the reforms included in the 2011 constitution. The PJD again won the largest number of seats in nationwide parliamentary elections in October 2016, but it lost its plurality to the probusiness National Rally of Independents (RNI) in September 2021. In December 2020, Morocco signed a normalization agreement with Israel, similar to those that Bahrain, the United Arab Emirates, and Sudan had concluded with Israel earlier in 2020.</p><br>
+<p>In 788, about a century after the Arab conquest of North Africa, a series of Moroccan Muslim dynasties began to rule in Morocco. In the 16th century, the Sa'adi monarchy, particularly under Ahmad al-MANSUR (1578-1603), repelled foreign invaders and inaugurated a golden age. The Alaouite Dynasty, to which the current Moroccan royal family belongs, dates from the 17th century. In 1860, Spain occupied northern Morocco and ushered in a half-century of trade rivalry among European powers that saw Morocco's sovereignty steadily erode; in 1912, the French imposed a protectorate over the country. A protracted independence struggle with France ended successfully in 1956. The internationalized city of Tangier and most Spanish possessions were turned over to the new country that same year. Sultan MOHAMMED V, the current monarch's grandfather, organized the new state as a constitutional monarchy and in 1957 assumed the title of king. Since Spain's 1976 withdrawal from Western Sahara, Morocco has extended its de facto administrative control to roughly 75% of this territory; however, the UN does not recognize Morocco as the administering power for Western Sahara. The UN since 1991 has monitored a cease-fire, which broke down in late 2020, between Morocco and the Polisario Front - an organization advocating the territory’s independence - and restarted negotiations over the status of the territory in December 2018. On 10 December 2020, the US recognized Morocco's sovereignty over all of Western Sahara.</p> <p>King MOHAMMED VI in early 2011 responded to the spread of pro-democracy protests in the North Africa region by implementing a reform program that included a new constitution, passed by popular referendum in July 2011, under which some new powers were extended to parliament and the prime minister, but ultimate authority remains in the hands of the monarch. In November 2011, the Justice and Development Party (PJD) - a moderate Islamist party - won the largest number of seats in parliamentary elections, becoming the first Islamist party to lead the Moroccan Government. In September 2015, Morocco held its first direct elections for regional councils, one of the reforms included in the 2011 constitution. The PJD again won the largest number of seats in nationwide parliamentary elections in October 2016, but it lost its plurality to the probusiness National Rally of Independents (RNI) in September 2021. In December 2020, Morocco signed a normalization agreement with Israel, similar to those that Bahrain, the United Arab Emirates, and Sudan had concluded with Israel earlier in 2020.</p><br>
 
 ## Geography
 
@@ -319,9 +319,9 @@ _percent of municipal solid waste recycled_: 8% (2014 est.)<br>
 Draa - 1,100 km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.063 billion cubic meters (2017 est.)<br>
-_industrial_: 212 million cubic meters (2017 est.)<br>
-_agricultural_: 9.156 billion cubic meters (2017 est.)<br>
+_municipal_: 1.06 billion cubic meters (2020 est.)<br>
+_industrial_: 210 million cubic meters (2020 est.)<br>
+_agricultural_: 9.16 billion cubic meters (2020 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Total renewable water resources**<br>
@@ -670,8 +670,8 @@ _international_: country code - 212; landing point for the Atlas Offshore, Estep
 .ma<br>
 
 **Internet users**<br>
-_total_: 31,004,869 (2020 est.)<br>
-_percent of population_: 84% (2020 est.)<br>
+_total_: 32.56 million (2021 est.)<br>
+_percent of population_: 88% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,102,434 (2020 est.)<br>
@@ -724,7 +724,7 @@ _total_: 57,300 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 93<br>
-_by type_: container ship 6, general cargo 5, oil tanker 2, other 80 (2021)<br>
+_by type_: container ship 6, general cargo 5, oil tanker 2, other 80 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ad Dakhla, Agadir, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), Mohammedia, Safi, Tangier<br>

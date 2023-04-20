@@ -284,9 +284,9 @@ _municipal solid waste generated annually_: 2,162,028 tons (2016 est.)<br>
 _salt water lake(s)_: Laguna de Caratasca - 1,110 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 320 million cubic meters (2019 est.)<br>
-_industrial_: 111 million cubic meters (2019 est.)<br>
-_agricultural_: 1.1 billion cubic meters (2019 est.)<br>
+_municipal_: 320 million cubic meters (2020 est.)<br>
+_industrial_: 111 million cubic meters (2020 est.)<br>
+_agricultural_: 1.18 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 92.2 billion cubic meters (2019 est.)<br>
@@ -685,7 +685,7 @@ _unpaved_: 11,375 km (2012) (1,543 km summer only)<br>
 
 **Merchant marine**<br>
 _total_: 505<br>
-_by type_: bulk carrier 1, general cargo 244, oil tanker 82, other 178 (2021)<br>
+_by type_: general cargo 246, oil tanker 82, other 177 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: La Ceiba, Puerto Cortes, San Lorenzo, Tela<br>

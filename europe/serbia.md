@@ -648,8 +648,8 @@ _international_: country code - 381<br>
 .rs<br>
 
 **Internet users**<br>
-_total_: 5,381,318 (2020 est.)<br>
-_percent of population_: 78% (2020 est.)<br>
+_total_: 5.589 million (2021 est.)<br>
+_percent of population_: 81% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,730,496 (2020 est.)<br>
@@ -740,7 +740,7 @@ the Serbian Armed Forces were established in June 2006; the Serbian military tra
 _refugees (country of origin)_: 17,334 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,594 (includes stateless persons in Kosovo) (2022)<br>
-<strong>note:</strong> 948,336 estimated refugee and migrant arrivals (January 2015-March 2023); Serbia is predominantly a transit country and hosts an estimated 7,271 migrants and asylum seekers as of November 2022<br>
+<strong>note:</strong> 951,905 estimated refugee and migrant arrivals (January 2015-March 2023); Serbia is predominantly a transit country and hosts an estimated 7,271 migrants and asylum seekers as of November 2022<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Serbia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; Serbia investigated more suspects, revised indicators to identify victims among schoolchildren, and increased resources for the Center for Protection of Trafficking Victims; officials developed a coordination body to support victims during criminal proceedings, formed four Special Working Groups for anti-trafficking issues, and designated an Ombudsman on trafficking; however, the government did not demonstrate overall increasing efforts compared with the previous year to expand its anti-trafficking capacity; there were no proactive efforts to identify victims, and implementation of standard operating procedures remained inadequate; an anti-trafficking council did not meet, and the government did not adopt the 2021-2022 National Action Plan; official complicity in trafficking crimes remained a concern; therefore, Serbia was downgraded to Tier 2 Watch List (2022)<br>

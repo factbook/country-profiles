@@ -654,8 +654,8 @@ public broadcaster, Uganda Broadcasting Corporation (UBC), operates radio and TV
 .ug<br>
 
 **Internet users**<br>
-_total_: 9,148,200 (2020 est.)<br>
-_percent of population_: 20% (2020 est.)<br>
+_total_: 4.6 million (2021 est.)<br>
+_percent of population_: 10% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 58,594 (2020 est.)<br>

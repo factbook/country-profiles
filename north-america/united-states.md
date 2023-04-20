@@ -115,7 +115,7 @@ Protestant 46.5%, Roman Catholic 20.8%, Jewish 1.9%, Church of Jesus Christ 1.6%
 **Age structure**<br>
 _0-14 years_: 18.15% (male 31,509,186/female 30,154,408)<br>
 _15-64 years_: 63.72% (male 108,346,275/female 108,100,830)<br>
-_65 years and over_: 18.12% (2023 est.) (male 27,589,149/female 3,3965,270)<br>
+_65 years and over_: 18.12% (2023 est.) (male 27,589,149/female 33,965,270)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.7<br>
@@ -656,8 +656,8 @@ _international_: country code - 1; landing points for the Quintillion Subsea Cab
 .us<br>
 
 **Internet users**<br>
-_total_: 301,665,983 (2020 est.)<br>
-_percent of population_: 91% (2020 est.)<br>
+_total_: 312.8 million (2021 est.)<br>
+_percent of population_: 92% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 121.176 million (2020 est.)<br>
@@ -717,7 +717,7 @@ _unpaved_: 2,281,895 km (2012)<br>
 
 **Merchant marine**<br>
 _total_: 178 (2022)<br>
-_by type_: bulk carrier 4, container ship 61, general cargo 19, oil tanker 65, Roll on/Roll off 29 (2022)<br>
+_by type_: bulk carrier 4, container ship 61, general cargo 19, oil tanker 65, other (roll on/roll off 29) (2022)<br>
 note - oceangoing self-propelled, cargo-carrying vessels of 1,000 gross tons and above<br>
 
 **Ports and terminals**<br>

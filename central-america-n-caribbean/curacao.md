@@ -495,8 +495,8 @@ _over 3,047 m_: 1 (2021)<br>
 _total_: 550 km<br>
 
 **Merchant marine**<br>
-_total_: 63<br>
-_by type_: general cargo 6, oil tanker 1, other 56 (2021)<br>
+_total_: 59<br>
+_by type_: general cargo 5, oil tanker 1, other 53 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Willemstad<br>

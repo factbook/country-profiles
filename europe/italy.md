@@ -276,9 +276,9 @@ _percent of municipal solid waste recycled_: 25.9% (2015 est.)<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 9.488 billion cubic meters (2017 est.)<br>
-_industrial_: 7.7 billion cubic meters (2017 est.)<br>
-_agricultural_: 17 billion cubic meters (2017 est.)<br>
+_municipal_: 9.19 billion cubic meters (2020 est.)<br>
+_industrial_: 7.7 billion cubic meters (2020 est.)<br>
+_agricultural_: 17 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 191.3 billion cubic meters (2019 est.)<br>
@@ -682,8 +682,8 @@ _paved_: 487,700 km (2007) (includes 6,700 km of expressways)<br>
 2,400 km (2012) (used for commercial traffic; of limited overall value compared to road and rail)<br>
 
 **Merchant marine**<br>
-_total_: 1,296<br>
-_by type_: bulk carrier 36, container ship 7, general cargo 111, oil tanker 103, other 1,039 (2021)<br>
+_total_: 1,266<br>
+_by type_: bulk carrier 20, container ship 6, general cargo 107, oil tanker 102, other 1,031 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice<br>
@@ -738,7 +738,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 171,739 (Ukraine) (as of 24 February 2023)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 724,284 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
+<strong>note:</strong> 727,542 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

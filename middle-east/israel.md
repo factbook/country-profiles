@@ -279,9 +279,9 @@ _percent of municipal solid waste recycled_: 25% (2017 est.)<br>
 _salt water lake(s)_: Dead Sea (shared with Jordan and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
 
 **Total water withdrawal**<br>
-_municipal_: 983 million cubic meters (2017 est.)<br>
-_industrial_: 72 million cubic meters (2017 est.)<br>
-_agricultural_: 1.249 billion cubic meters (2017 est.)<br>
+_municipal_: 1 billion cubic meters (2020 est.)<br>
+_industrial_: 100 million cubic meters (2020 est.)<br>
+_agricultural_: 1.2 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 1.8 billion cubic meters (2019 est.)<br>
@@ -683,8 +683,8 @@ _total_: 19,555 km (2017)<br>
 _paved_: 19,555 km (2017) (includes 449 km of expressways)<br>
 
 **Merchant marine**<br>
-_total_: 41<br>
-_by type_: container ship 6, general cargo 2, oil tanker 4, other 29 (2021)<br>
+_total_: 45<br>
+_by type_: container ship 6, general cargo 2, oil tanker 4, other 33 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ashdod, Elat (Eilat), Hadera, Haifa<br>

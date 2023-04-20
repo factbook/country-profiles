@@ -459,8 +459,8 @@ _international_: country code - 683; landing point for the Manatua submarine cab
 .nu<br>
 
 **Internet users**<br>
-_total_: 1,292 (2019 est.)<br>
-_percent of population_: 80% (2019 est.)<br>
+_total_: 1,512 (2021 est.)<br>
+_percent of population_: 79.6% (2021 est.)<br>
 
 ## Transportation
 
@@ -477,8 +477,8 @@ _paved_: 210 km (2017)<br>
 _unpaved_: 24 km<br>
 
 **Merchant marine**<br>
-_total_: 69<br>
-_by type_: bulk carrier 3, container ship 2, general cargo 25, oil tanker 7, other 32 (2021)<br>
+_total_: 71<br>
+_by type_: bulk carrier 4, container ship 2, general cargo 29, oil tanker 4, other 32 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Alofi<br>

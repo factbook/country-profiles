@@ -635,8 +635,8 @@ _international_: country code - 34; landing points for the MAREA, Tata TGN-Weste
 .es<br>
 
 **Internet users**<br>
-_total_: 44,047,980 (2020 est.)<br>
-_percent of population_: 93% (2020 est.)<br>
+_total_: 44.18 million (2021 est.)<br>
+_percent of population_: 94% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 16,188,502 (2020 est.)<br>
@@ -686,8 +686,8 @@ _paved_: 683,175 km (2011) (includes 16,205 km of expressways)<br>
 1,000 km (2012)<br>
 
 **Merchant marine**<br>
-_total_: 478<br>
-_by type_: bulk carrier 1, general cargo 36, oil tanker 24, other 417 (2021)<br>
+_total_: 494<br>
+_by type_: bulk carrier 1, general cargo 35, oil tanker 23, other 435 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: <br><em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa Cruz de Tenerife (in the Canary Islands)<br><em>Mediterranean Sea:</em> Algeciras, Barcelona, Cartagena, Tarragona, Valencia<br>
@@ -740,7 +740,7 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 172,682 (Ukraine) (as of 3 April 2023)<br>
 _stateless persons_: 6,489 (2022)<br>
-<strong>note: </strong>283,183 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2023)<br>
+<strong>note: </strong>283,666 estimated refugee and migrant arrivals, including Canary Islands (January 2015-April 2023)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing indoor cannabis production; illegal labs cutting, mixing, and reconstituting cocaine, heroin, and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the US<br>

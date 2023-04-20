@@ -273,7 +273,7 @@ _percent of municipal solid waste recycled_: 28.4% (2015 est.)<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 43.6 million cubic meters (2017 est.)<br>
+_municipal_: 50 million cubic meters (2020 est.)<br>
 _industrial_: 1.6 million cubic meters (2017 est.)<br>
 _agricultural_: 400,000 cubic meters (2017 est.)<br>
 
@@ -617,8 +617,8 @@ Luxembourg has a long tradition of operating radio and TV services for pan-Europ
 .lu<br>
 
 **Internet users**<br>
-_total_: 624,115 (2020 est.)<br>
-_percent of population_: 99% (2020 est.)<br>
+_total_: 633,600 (2021 est.)<br>
+_percent of population_: 99% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 235,155 (2020 est.)<br>
@@ -662,8 +662,8 @@ _total_: 2,875 km (2019)<br>
 37 km (2010) (on Moselle River)<br>
 
 **Merchant marine**<br>
-_total_: 153<br>
-_by type_: bulk carrier 4, container ship 1, general cargo 23, oil tanker 3, other 122 (2021)<br>
+_total_: 149<br>
+_by type_: bulk carrier 4, container ship 1, general cargo 27, oil tanker 3, other 114 (2022)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Mertert (Moselle)<br>

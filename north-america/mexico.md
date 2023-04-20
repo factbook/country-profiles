@@ -5,7 +5,7 @@ _North America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The site of several advanced Amerindian civilizations - including the Olmec, Toltec, Teotihuacan, Zapotec, Maya, and Aztec - Mexico was conquered and colonized by Spain in the early 16th century. Administered as the Viceroyalty of New Spain for three centuries, it achieved independence early in the 19th century. Elections held in 2000 marked the first time since the 1910 Mexican Revolution that an opposition candidate - Vicente FOX of the National Action Party (PAN) - defeated the party in government, the Institutional Revolutionary Party (PRI). He was succeeded in 2006 by another PAN candidate Felipe CALDERON, but Enrique PEÑA NIETO regained the presidency for the PRI in 2012. Left-leaning anti-establishment politician and former mayor of Mexico City (2000-05) Andrés Manuel LÓPEZ OBRADOR, from the National Regeneration Movement (MORENA), became president in December 2018.<br><br>The global financial crisis in late 2008 caused a massive economic downturn in Mexico the following year. Growth rebounded to about 5% in 2010, but then averaged roughly half that for the rest of the decade. Notwithstanding this challenge, Mexico is currently the largest goods trading partner of the US – with $614.5 billion in two-way goods trade during 2019. US exports of goods and services to Mexico supported 1.2 million jobs in the US in 2015 (the latest data available) according to estimates from the Department of Commerce. Mexico's GDP contracted by 8.2% in 2020 due to pandemic-induced closures, its lowest level since the Great Depression, but Mexico’s economy rebounded in 2021 when it grew by 4.8%, driven largely by increased remittances, despite supply chain and pandemic-related challenges.</p> <p>The US-Mexico-Canada Agreement (USMCA, or T-MEC by its Spanish acronym) entered into force on 1 July 2020 and replaced its predecessor, the North American Free Trade Agreement (NAFTA). Mexico amended its constitution on 1 May 2019 to facilitate the implementation of the labor components of USMCA.</p> <p>Ongoing economic and social concerns include low real wages, high underemployment, inequitable income distribution, and few advancement opportunities for the largely indigenous population in the impoverished southern states. Since 2007, Mexico's powerful transnational criminal organizations have engaged in a struggle to control criminal markets, resulting in tens of thousands of drug-related homicides and forced disappearances.</p><br>
+<p>The site of several advanced Amerindian civilizations - including the Olmec, Toltec, Teotihuacan, Zapotec, Maya, and Aztec - Mexico was conquered and colonized by Spain in the early 16th century. Administered as the Viceroyalty of New Spain for three centuries, it achieved independence early in the 19th century. Elections held in 2000 marked the first time since the 1910 Mexican Revolution that an opposition candidate - Vicente FOX of the National Action Party (PAN) - defeated the party in government, the Institutional Revolutionary Party (PRI). He was succeeded in 2006 by another PAN candidate Felipe CALDERON, but Enrique PEÑA NIETO regained the presidency for the PRI in 2012. Left-leaning anti-establishment politician and former mayor of Mexico City (2000-05) Andrés Manuel LÓPEZ OBRADOR, from the National Regeneration Movement (MORENA), became president in December 2018.<br><br>Mexico is currently the second-largest (after Canada) goods trading partner of the US with nearly $780 billion in two-way goods trade in 2022. Mexico's GDP contracted by 8.2% in 2020 due to pandemic-induced closures, its lowest level since the Great Depression. Mexico’s economy is rebounding; it grew by 4.8% in 2021, driven largely by increased remittances, despite supply chain and pandemic-related challenges, and grew by 3% in 2022.</p> <p>The US-Mexico-Canada Agreement (USMCA, or T-MEC by its Spanish acronym) entered into force on 1 July 2020 and replaced its predecessor, the North American Free Trade Agreement (NAFTA). Mexico amended its constitution on 1 May 2019 to facilitate the implementation of the labor components of USMCA.</p> <p>Ongoing economic and social concerns include low real wages, high underemployment, inequitable income distribution, and few advancement opportunities, particularly for the largely indigenous population in the impoverished southern states. Since 2007, Mexico's powerful transnational criminal organizations have engaged in a struggle to control criminal markets, resulting in tens of thousands of drug-related homicides and forced disappearances.</p><br>
 
 ## Geography
 
@@ -313,9 +313,9 @@ Atlantic Ocean drainage: <em>(Gulf of Mexico)</em> Rio Grande/Bravo (607,965 sq 
 Atlantic and Gulf Coastal Plains Aquifer<br>
 
 **Total water withdrawal**<br>
-_municipal_: 14.23 billion cubic meters (2017 est.)<br>
-_industrial_: 6.814 billion cubic meters (2017 est.)<br>
-_agricultural_: 66.8 billion cubic meters (2017 est.)<br>
+_municipal_: 13.17 billion cubic meters (2020 est.)<br>
+_industrial_: 8.56 billion cubic meters (2020 est.)<br>
+_agricultural_: 67.83 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 461.9 billion cubic meters (2019 est.)<br>
@@ -670,8 +670,8 @@ telecom reform in 2013 enabled the creation of new broadcast television channels
 .mx<br>
 
 **Internet users**<br>
-_total_: 92,831,582 (2020 est.)<br>
-_percent of population_: 72% (2020 est.)<br>
+_total_: 98.8 million (2021 est.)<br>
+_percent of population_: 76% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 21,936,131 (2020 est.)<br>
@@ -726,8 +726,8 @@ _unpaved_: 529,358 km (2017)<br>
 2,900 km (2012) (navigable rivers and coastal canals mostly connected with ports on the country's east coast)<br>
 
 **Merchant marine**<br>
-_total_: 671<br>
-_by type_: container ship 1, bulk carrier 4, general cargo 11, oil tanker 31, other 624 (2021)<br>
+_total_: 669<br>
+_by type_: container ship 1, bulk carrier 5, general cargo 10, oil tanker 32, other 621 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz<br>

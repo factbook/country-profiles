@@ -309,9 +309,9 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
 Senegalo-Mauritanian Basin, Taodeni-Tanzerouft Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 95.4 million cubic meters (2017 est.)<br>
-_industrial_: 31.8 million cubic meters (2017 est.)<br>
-_agricultural_: 1.223 billion cubic meters (2017 est.)<br>
+_municipal_: 100 million cubic meters (2020 est.)<br>
+_industrial_: 30 million cubic meters (2020 est.)<br>
+_agricultural_: 1.2 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 11.4 billion cubic meters (2019 est.)<br>
@@ -648,8 +648,8 @@ _international_: country code - 222; landing point for the ACE submarine cable f
 .mr<br>
 
 **Internet users**<br>
-_total_: 1,906,360 (2020 est.)<br>
-_percent of population_: 41% (2020 est.)<br>
+_total_: 2.714 million (2021 est.)<br>
+_percent of population_: 59% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 18,457 (2020 est.)<br>
@@ -693,8 +693,8 @@ _unpaved_: 8,265 km (2018)<br>
 1,086 km (2022) (some navigation possible on the Senegal River)<br>
 
 **Merchant marine**<br>
-_total_: 5<br>
-_by type_: general cargo 2, other 3 (2021)<br>
+_total_: 11<br>
+_by type_: general cargo 2, other 9 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Nouadhibou, Nouakchott<br>

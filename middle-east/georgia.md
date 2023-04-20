@@ -89,7 +89,7 @@ Georgian (official) 87.6%, Azeri 6.2%, Armenian 3.9%, Russian 1.2%, other 1%; no
 _major-language sample(s)_: <br>მსოფლიო ფაქტების წიგნი, ძირითადი ინფორმაციის აუცილებელი წყარო. (Georgian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Orthodox (official) 83.4%, Muslim 10.7%, Armenian Apostolic 2.9%, other 1.2% (includes Catholic, Jehovah's Witness, Yazidi, Protestant, Jewish), none 0.5%, unspecified/no answer 1.2% (2014 est.)<br>
+Eastern Orthodox Christian (official) 83.4%, Muslim 10.7%, Armenian Apostolic 2.9%, other 1.2% (includes Roman Catholic Christian, Jehovah's Witness, Yazidi, Protestant Christian, Jewish), none 0.5%, unspecified/no answer 1.2% (2014 est.)<br>
 
 **Demographic profile**<br>
 <p>Analyzing population trends in Georgia since independence in 1991 has proven difficult due to a lack of reliable demographic statistics.  Censuses were fairly accurately and regularly updated through a vital statistics system during Georgia’s period of Soviet rule, but from independence until about 2010, the system broke down as a result of institutional and economic change, social unrest, and large-scale outmigration.  The 2002 census is believed to have significantly overestimated the size of Georgia’s population, in part because respondents continued to include relatives living abroad as part of their household count.  The 2014 census indicates that Georgia’s population is decreasing and aging.  Census data shows that the median age increased from 34.5 years in 2002 to 37.7 years in 2014.  The working-age population (ages 15-65 years) was fairly high in 2002 and rose between 2005 and 2011. Nonetheless, Georgia did not reap economic benefits from this age structure, since the working-age population increase seems to have stimulated labor outmigration to Russia, Ukraine, and other neighboring countries.</p> <p>Since the Russian invasion of Ukraine in 2022, Georgia has seen its economy grow to its highest level in years due to the influx of Russian businesses, information and communications technology specialists, and money transfers.  This growth may only be temporary and conditions could still easily change depending on future events.  Meanwhile, the Russian inflow is also a source of concern, as some Georgians fear it could prompt Putin to target their country next.  In addition, Ukrainian refugees use Georgia not just as a transit country but also as a destination.  Some 25,000 Ukrainians remain in the country as of November 2022; they pose an additional strain on resources in Georgia, which has a significant population of its own displaced citizens – from the 2008 Russian occupation of Abkhazia and South Ossetia – who continue to need government support.</p><br>
@@ -279,9 +279,9 @@ _rate of urbanization_: 0.35% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 800,000 tons (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 660 million cubic meters (2019 est.)<br>
-_industrial_: 330 million cubic meters (2019 est.)<br>
-_agricultural_: 590 million cubic meters (2019 est.)<br>
+_municipal_: 610 million cubic meters (2020 est.)<br>
+_industrial_: 340 million cubic meters (2020 est.)<br>
+_agricultural_: 710 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 63.3 billion cubic meters (2019 est.)<br>
@@ -516,7 +516,7 @@ $9.546 billion (2019 est.) note: data are in current year dollars<br>
 Russia 12%, Azerbaijan 12%, Armenia 9%, Bulgaria 8%, China 6%, Turkey 6%, Ukraine 6% (2019)<br>
 
 **Exports - commodities**<br>
-copper, cars, iron alloys, wine, packaged medicines (2019)<br>
+copper, iron alloys, cars, wine, refined petroleum, nitrogen fertilizers, liquors (2021)<br>
 
 **Imports**<br>
 $11.151 billion (2021 est.) note: data are in current year dollars<br>
@@ -679,8 +679,8 @@ _broad gauge_: 1,326 km (2014) 1.520-m gauge (1,251 km electrified)<br>
 _total_: 20,295 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 25<br>
-_by type_: bulk carrier 2, general cargo 3, other 20 (2021)<br>
+_total_: 24<br>
+_by type_: general cargo 3, other 21 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Black Sea - Batumi, Poti<br>

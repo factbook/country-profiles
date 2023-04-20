@@ -624,8 +624,8 @@ Radio e Televisao de Portugal, the publicly owned TV broadcaster, operates 4 dom
 .pt<br>
 
 **Internet users**<br>
-_total_: 8,031,723 (2020 est.)<br>
-_percent of population_: 78% (2020 est.)<br>
+_total_: 8.2 million (2021 est.)<br>
+_percent of population_: 82% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,160,795 (2020 est.)<br>
@@ -673,8 +673,8 @@ _unpaved_: 11,606 km (2008)<br>
 210 km (2011) (on Douro River from Porto)<br>
 
 **Merchant marine**<br>
-_total_: 726<br>
-_by type_: bulk carrier 86, container ship 267, general cargo 137, oil tanker 27, other 209 (2021)<br>
+_total_: 820<br>
+_by type_: bulk carrier 103, container ship 290, general cargo 175, oil tanker 28, other 224 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Leixoes, Lisbon, Setubal, Sines<br>

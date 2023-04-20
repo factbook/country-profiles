@@ -278,9 +278,9 @@ _municipal solid waste generated annually_: 1,528,816 tons (2010 est.)<br>
 _fresh water lake(s)_: Lago de Nicaragua - 8,150 sq km; Lago de Managua - 1,040 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 286 million cubic meters (2017 est.)<br>
-_industrial_: 73.6 million cubic meters (2017 est.)<br>
-_agricultural_: 1.185 billion cubic meters (2017 est.)<br>
+_municipal_: 286 million cubic meters (2020 est.)<br>
+_industrial_: 50 million cubic meters (2020 est.)<br>
+_agricultural_: 1.08 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 164.5 billion cubic meters (2019 est.)<br>
@@ -624,8 +624,8 @@ multiple terrestrial TV stations, supplemented by cable TV in most urban areas; 
 .ni<br>
 
 **Internet users**<br>
-_total_: 2,981,049 (2020 est.)<br>
-_percent of population_: 45% (2020 est.)<br>
+_total_: 3.933 million (2021 est.)<br>
+_percent of population_: 57% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 290,351 (2020 est.)<br>
@@ -669,7 +669,7 @@ _unpaved_: 20,551 km (2014)<br>
 
 **Merchant marine**<br>
 _total_: 5<br>
-_by type_: general cargo 1, oil tanker 1, other 3 (2021)<br>
+_by type_: general cargo 1, oil tanker 1, other 3 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bluefields, Corinto<br>

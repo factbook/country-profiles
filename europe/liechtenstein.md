@@ -244,7 +244,7 @@ _percent of municipal solid waste recycled_: 64.6% (2015 est.)<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 7.9 million cubic meters (2017 est.)<br>
+_municipal_: 10 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 0 cubic meters (2017 est.)<br>
@@ -472,8 +472,8 @@ relies on foreign terrestrial and satellite broadcasters for most broadcast medi
 .li<br>
 
 **Internet users**<br>
-_total_: 37,260 (2019 est.)<br>
-_percent of population_: 98% (2019 est.)<br>
+_total_: 37,440 (2021 est.)<br>
+_percent of population_: 96% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 18,050 (2020 est.)<br>
@@ -500,7 +500,7 @@ _total_: 630 km (2019)<br>
 
 **Merchant marine**<br>
 _total_: 20<br>
-_by type_: bulk carrier 16, general cargo 1, other 3 (includes Switzerland) (2021)<br>
+_by type_: bulk carrier 16, general cargo 1, other 3 (includes Switzerland) (2022)<br>
 
 ## Military and Security
 

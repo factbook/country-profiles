@@ -519,7 +519,7 @@ $8.057 billion (2019 est.) note: data are in current year dollars<br>
 United States 40%, Guatemala 15%, Honduras 15%, Nicaragua 6% (2019)<br>
 
 **Exports - commodities**<br>
-textiles and apparel, electrical capacitors, plastic lids, raw sugar, toilet paper (2019)<br>
+clothing, electrical capacitors, plastic lids, sugar, packaged medicines, toilet paper (2021)<br>
 
 **Imports**<br>
 $15.754 billion (2021 est.) note: data are in current year dollars<br>
@@ -684,8 +684,8 @@ _unpaved_: 3,671 km (2017)<br>
 422 km (2022) (Rio Lempa River is partially navigable by small craft)<br>
 
 **Merchant marine**<br>
-_total_: 2<br>
-_by type_: other 2 (2021)<br>
+_total_: 4<br>
+_by type_: other 4 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Puerto Cutuco<br>

@@ -639,8 +639,8 @@ government operates 5 TV channels and 19 radio channels; multi-channel satellite
 .lk<br>
 
 **Internet users**<br>
-_total_: 7,671,650 (2020 est.)<br>
-_percent of population_: 35% (2020 est.)<br>
+_total_: 14.74 million (2021 est.)<br>
+_percent of population_: 67% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,781,530 (2020 est.)<br>
@@ -691,8 +691,8 @@ _unpaved_: 97,116 km (2010)<br>
 160 km (2012) (primarily on rivers in southwest)<br>
 
 **Merchant marine**<br>
-_total_: 90<br>
-_by type_: bulk carrier 6, general cargo 13, oil tanker 11, other 60 (2021)<br>
+_total_: 92<br>
+_by type_: bulk carrier 5, general cargo 13, oil tanker 11, other 63 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Colombo<br>

@@ -596,8 +596,8 @@ Solomon Islands Broadcasting Corporation (SIBC) does not broadcast television; m
 .sb<br>
 
 **Internet users**<br>
-_total_: 80,379 (2019 est.)<br>
-_percent of population_: 12% (2019 est.)<br>
+_total_: 255,600 (2021 est.)<br>
+_percent of population_: 36% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2020 est.)<br>
@@ -637,8 +637,8 @@ _unpaved_: 1,356 km (2011)<br>
 <strong>note:</strong> includes 920 km of private plantation roads<br>
 
 **Merchant marine**<br>
-_total_: 24<br>
-_by type_: general cargo 8, oil tanker 1, other 15 (2021)<br>
+_total_: 27<br>
+_by type_: general cargo 9, oil tanker 1, other 17 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Honiara, Malloco Bay, Viru Harbor, Tulagi<br>

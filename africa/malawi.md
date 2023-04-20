@@ -309,9 +309,9 @@ Zambezi (shared with Zambia [s], Angola, Zimbabwe, Namibia, Tanzania, and Mozamb
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 143.1 million cubic meters (2017 est.)<br>
-_industrial_: 47.7 million cubic meters (2017 est.)<br>
-_agricultural_: 1.166 billion cubic meters (2017 est.)<br>
+_municipal_: 140 million cubic meters (2020 est.)<br>
+_industrial_: 50 million cubic meters (2020 est.)<br>
+_agricultural_: 1.17 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 17.3 billion cubic meters (2019 est.)<br>
@@ -648,8 +648,8 @@ radio is the main broadcast medium; privately owned Zodiak radio has the widest 
 .mw<br>
 
 **Internet users**<br>
-_total_: 2,608,025 (2019 est.)<br>
-_percent of population_: 14% (2019 est.)<br>
+_total_: 4.8 million (2021 est.)<br>
+_percent of population_: 24% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 12,255 (2020 est.)<br>

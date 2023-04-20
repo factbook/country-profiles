@@ -636,8 +636,8 @@ public service broadcaster, British Broadcasting Corporation (BBC), is the large
 .uk<br>
 
 **Internet users**<br>
-_total_: 63,854,528 (2020 est.)<br>
-_percent of population_: 95% (2020 est.)<br>
+_total_: 64.99 million (2021 est.)<br>
+_percent of population_: 97% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 27,330,297 (2020 est.)<br>
@@ -691,8 +691,8 @@ _paved_: 394,428 km (2009) (includes 3,519 km of expressways)<br>
 3,200 km (2009) (620 km used for commerce)<br>
 
 **Merchant marine**<br>
-_total_: 1,249<br>
-_by type_: bulk carrier 140, container ship 59, general cargo 109, oil tanker 84, other 857 (2021)<br>
+_total_: 1,174<br>
+_by type_: bulk carrier 133, container ship 58, general cargo 97, oil tanker 73, other 813 (2022)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dover, Felixstowe, Immingham, Liverpool, London, Southampton, Teesport (England); Forth Ports (Scotland); Milford Haven (Wales)<br>
