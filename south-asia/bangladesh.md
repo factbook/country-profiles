@@ -359,7 +359,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President-Elect Mohammad Shahabuddin CHUPPI (since 13 April 2023); CHUPPI ran unopposed; he will be inaugurated on 24 April 2023<br>
+_chief of state_: President Mohammad Shahabuddin CHUPPI (since 24 April 2023); CHUPPI ran unopposed<br>
 _head of government_: Prime Minister Sheikh HASINA Wazed (since 6 January 2009)<br>
 _cabinet_: Cabinet selected by the prime minister, appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); election last held on 7 February 2018 (next to be held by 2023); the president appoints as prime minister the majority party leader in the National Parliament<br>
@@ -510,8 +510,8 @@ _highest 10%_: 27% (2010 est.)<br>
 5.23% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $25.1 billion (2017 est.)<br>
-_expenditures_: $33.5 billion (2017 est.)<br>
+_revenues_: $30.023 billion (2019 est.)<br>
+_expenditures_: $46.379 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.2% (of GDP) (2017 est.)<br>

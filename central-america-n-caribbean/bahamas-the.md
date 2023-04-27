@@ -430,8 +430,8 @@ _lowest 10%_: 1%<br>
 _highest 10%_: 22% (2007 est.)<br>
 
 **Budget**<br>
-_revenues_: $2.139 billion (2017 est.)<br>
-_expenditures_: $2.46 billion (2017 est.)<br>
+_revenues_: $2.087 billion (2020 est.)<br>
+_expenditures_: $2.899 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.6% (of GDP) (2017 est.)<br>
@@ -630,8 +630,8 @@ _container port(s) (TEUs)_: Freeport (1,642,780) (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements (2022)<br>
-<strong>note:</strong> the RBDF is primarily responsible for external security but also provides security at a detention center for migrants and performs some domestic security functions, such as guarding embassies; the Royal Bahamas Police Force (RBPF) maintains internal security; both the RBDF and the RBPF report to the minister of national security<br>
+Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements; Royal Bahamas Police Force (RBPF) (2023)<br>
+<strong>note:</strong> the RBPF maintains internal security; both the RBDF and the RBPF report to the minister of national security<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2022 est.)<br>
@@ -650,7 +650,7 @@ most of the RBDF's major equipment inventory is supplied by the Netherlands (202
 18 years of age for voluntary male and female service; no conscription (2022)<br>
 
 **Military - note**<br>
-the RBDF was established in 1980; its primary responsibilities are disaster relief, maritime security, and counter-narcotics operations; it is a naval force, but includes a lightly-armed marine infantry/commando squadron for base and internal security, as well as a few light non-combat aircraft; the maritime element has coastal patrol craft and patrol boats; the RBDF maintains training relationships with the UK and the US (2022)<br>
+established in 1980; the RBDF's primary responsibilities are disaster relief, maritime security, and counter-narcotics operations; it also provides security at a detention center for migrants and performs some domestic security functions, such as guarding embassies; the RBDF is a naval force, but includes a lightly-armed marine infantry/commando squadron for base and internal security, as well as a few light non-combat aircraft; the maritime element has coastal patrol craft and patrol boats; the RBDF maintains training relationships with the UK and the US (2023)<br>
 
 ## Transnational Issues
 

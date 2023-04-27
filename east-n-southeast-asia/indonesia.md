@@ -515,8 +515,8 @@ _highest 10%_: 28.2% (2010)<br>
 1.04% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $131.7 billion (2017 est.)<br>
-_expenditures_: $159.6 billion (2017 est.)<br>
+_revenues_: $130.872 billion (2020 est.)<br>
+_expenditures_: $192.97 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.7% (of GDP) (2017 est.)<br>
@@ -546,7 +546,7 @@ $200.097 billion (2019 est.) note: data are in current year dollars<br>
 China 15%, United States 10%, Japan 9%, Singapore 8%, India 7%, Malaysia 5% (2019)<br>
 
 **Exports - commodities**<br>
-coal, palm oil, natural gas, cars, gold (2019)<br>
+coal, palm oil, natural gas, iron alloys, stainless steel (2021)<br>
 
 **Imports**<br>
 $217.715 billion (2021 est.) note: data are in current year dollars<br>
@@ -732,11 +732,11 @@ Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-An
 <strong>note 1:</strong> in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coordinate the actions of all maritime security agencies, including the Navy, the Indonesian Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai, KPLP), the Water Police (Polair), Customs (Bea Cukai), and Ministry of Marine Affairs and Fisheries<br><br><strong>note 2: </strong>the Indonesian National Police includes a paramilitary Mobile Brigade Corps (BRIMOB); following the Bali terror bombing in 2002, the National Police formed a special counterterrorism force called Detachment 88 (Densus or Detasemen Khusus 88 Antiteror); Detachment 88 often works with the TNI's Joint Special Operations Command, which has counterterrorism and counterinsurgency units<br>
 
 **Military expenditures**<br>
-0.8% of GDP (2021 est.)<br>
+0.7% of GDP (2022 est.)<br>
+0.8% of GDP (2021)<br>
 0.8% of GDP (2020)<br>
 0.8% of GDP (2019)<br>
 0.7% of GDP (2018)<br>
-0.9% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 400,000 active duty troops (300,000 Army; 60,000 Navy, including about 20,000 marines; 30,000 Air Force) (2022)<br>

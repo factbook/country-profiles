@@ -500,8 +500,8 @@ _highest 10%_: 30.3% (2007)<br>
 1.18% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $1.7 billion (2017 est.)<br>
-_expenditures_: $1.748 billion (2017 est.)<br>
+_revenues_: $1.949 billion (2019 est.)<br>
+_expenditures_: $2.014 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.5% (of GDP) (2017 est.)<br>
@@ -530,7 +530,7 @@ $4.041 billion (2019 est.)<br>
 United Arab Emirates 39%, China 36%, India 6% (2019)<br>
 
 **Exports - commodities**<br>
-aluminum, gold, bauxite, diamonds, fish, cashews (2019)<br>
+gold, aluminum ores and oxide, iron ores, cocoa beans, cashews, frozen fish (2021)<br>
 
 **Imports**<br>
 $5.353 billion (2021 est.) note: data are in current year dollars<br>

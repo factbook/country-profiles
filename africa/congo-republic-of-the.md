@@ -513,8 +513,8 @@ _highest 10%_: 37.1% (2005)<br>
 0.08% of GDP (2016 est.)<br>
 
 **Budget**<br>
-_revenues_: $1.965 billion (2017 est.)<br>
-_expenditures_: $2.578 billion (2017 est.)<br>
+_revenues_: $3.399 billion (2018 est.)<br>
+_expenditures_: $2.628 billion (2018 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -7% (of GDP) (2017 est.)<br>
@@ -747,6 +747,6 @@ the FAC is viewed as having limited capabilities due to obsolescent and poorly m
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,950 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022); 30,031 (Central African Republic) (2023)<br>
+_refugees (country of origin)_: 27,420 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022); 30,204 (Central African Republic) (2023)<br>
 _IDPs_: 159,830 (multiple civil wars since 1992) (2022)<br>
 

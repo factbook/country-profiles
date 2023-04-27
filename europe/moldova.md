@@ -301,7 +301,7 @@ _etymology_: named for the Moldova River in neighboring eastern Romania<br>
 parliamentary republic<br>
 
 **Capital**<br>
-_name_: Chisinau in Moldovan (Kishinev in Russian)<br>
+_name_: Chisinau in Romanian (Kishinev in Russian)<br>
 _geographic coordinates_: 47 00 N, 28 51 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
@@ -338,7 +338,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Maia SANDU (since 24 December 2020)<br>
-_head of government_: Prime Minister Natalia GAVRILITA (since 6 August 2021)<br>
+_head of government_: Prime Minister Dorin RECEAN (since 16 February 2023)<br>
 _cabinet_: Cabinet proposed by the prime minister-designate, nominated by the president, approved through a vote of confidence in Parliament<br>
 _elections/appointments_: president directly elected for a 4-year term (eligible for a second term); election last held on 15 November 2020 (next to be held in fall 2024); prime minister designated by the president upon consultation with Parliament; within 15 days from designation, the prime minister-designate must request a vote of confidence for his/her proposed work program from the Parliament<br>
 _election results_: 2020: Maia SANDU elected president; percent of vote (second round results) - Maia SANDU (PAS) 57.7%, Igor DODON (PSRM) 42.3%<br><br>2016: Igor DODON elected president; percent of vote 52.1%, and Maia SANDU 47.9%<br>
@@ -354,14 +354,14 @@ _judge selection and term of office_: Supreme Court of Justice judges appointed 
 _subordinate courts_: Courts of Appeal; Court of Business Audit; municipal courts<br>
 
 **Political parties and leaders**<br>
-<p>Party of Action and Solidarity or PAS [Igor GROSU]<br>Bloc of Communists and Socialists or BECS [Vladimir VORONIN and Igor DODON]<br>SOR Party [llan SHOR]</p><br>
+<p>Party of Action and Solidarity or PAS [Igor GROSU]<br>Communist Party or PCRM [Vladimir VORONIN]<br>Socialist Party or PSRM [Igor DODON]<br>SOR Party [llan SHOR]</p><br>
 
 **International organization participation**<br>
 BSEC, CD, CE, CEI, CIS, EAEU (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, OIF, OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 <strong>note</strong>: Moldova is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Carolina PEREBINOS (since 27 July 2022)<br>
+_chief of mission_: Ambassador Viorel URSU (since 12 December 2022)<br>
 _chancery_: 2101 S Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 667-1130<br>
 _FAX_: [1] (202) 667-2624<br>
@@ -481,8 +481,8 @@ _highest 10%_: 22.1% (2014 est.)<br>
 15.95% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $2.886 billion (2017 est.)<br>
-_expenditures_: $2.947 billion (2017 est.)<br>
+_revenues_: $3.582 billion (2019 est.)<br>
+_expenditures_: $3.754 billion (2019 est.)<br>
 <strong>note:</strong> National Public Budget<br>
 
 **Budget surplus (+) or deficit (-)**<br>
@@ -702,7 +702,7 @@ the military's inventory is limited and almost entirely comprised of older Russi
 <strong>note:</strong> as of 2019, women made up about 20% of the military's full-time personnel<br>
 
 **Military - note**<br>
-Moldova is constitutionally neutral, but has maintained a relationship with NATO since 1992; bilateral cooperation started when Moldova joined NATO’s Partnership for Peace program in 1994; Moldova has contributed small numbers of troops to NATO’s Kosovo Force (KFOR) since 2014, and a civilian NATO liaison office was established in Moldova in 2017 at the request of the Moldovan Government to promote practical cooperation and facilitate support<br><br>the 1992 war between Moldovan forces and Transnistrian separatists backed by Russian troops ended with a cease-fire; as of 2022, Russia maintained approximately 1,500 troops in Transnistria, some of which served under the authority of a peacekeeping force known as a Joint Control Commission that also included Moldovan and separatist personnel; the remainder of the Russian contingent (the Operative Group of the Russian Troops or OGRT) guarded a depot of Soviet-era ammunition and trained Transnistrian separatist paramilitary troops (2022)<br>
+Moldova is constitutionally neutral, but has maintained a relationship with NATO since 1992; bilateral cooperation started when Moldova joined NATO’s Partnership for Peace program in 1994; Moldova has contributed small numbers of troops to NATO’s Kosovo Force (KFOR) since 2014, and a civilian NATO liaison office was established in Moldova in 2017 at the request of the Moldovan Government to promote practical cooperation and facilitate support<br><br>the 1992 war between Moldovan forces and Transnistrian separatists backed by Russian troops ended with a cease-fire; as of 2022, Russia maintained approximately 1,500 troops in Transnistria, some of which served under the authority of a peacekeeping force known as a Joint Control Commission that also included Moldovan and separatist personnel; the remainder of the Russian contingent (Operational Group of Russian Forces - Transnistria or OGF-T) guarded a depot of Soviet-era ammunition and trained Transnistrian separatist paramilitary troops (2023)<br>
 
 ## Transnational Issues
 
@@ -710,7 +710,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 106,634 (Ukraine) (as of 3 April 2023)<br>
+_refugees (country of origin)_: 107,480 (Ukraine) (as of 16 April 2023)<br>
 _stateless persons_: 1,701 (2022)<br>
 
 **Illicit drugs**<br>

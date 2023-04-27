@@ -273,9 +273,9 @@ _percent of municipal solid waste recycled_: 3% (2014 est.)<br>
 Arabian Aquifer System<br>
 
 **Total water withdrawal**<br>
-_municipal_: 477.2 million cubic meters (2017 est.)<br>
-_industrial_: 143.7 million cubic meters (2017 est.)<br>
-_agricultural_: 291.7 million cubic meters (2017 est.)<br>
+_municipal_: 530 million cubic meters (2020 est.)<br>
+_industrial_: 400 million cubic meters (2020 est.)<br>
+_agricultural_: 320 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 60 million cubic meters (2019 est.)<br>
@@ -472,8 +472,8 @@ _highest 10%_: 35.9% (2007)<br>
 0.33% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $44.1 billion (2017 est.)<br>
-_expenditures_: $53.82 billion (2017 est.)<br>
+_revenues_: $65.922 billion (2019 est.)<br>
+_expenditures_: $57.258 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -5.8% (of GDP) (2017 est.)<br>
@@ -686,7 +686,7 @@ conscription for men aged 18-35 introduced in 2013; compulsory service times ran
 <strong>note 1:</strong> the military incorporates about 2,000 conscripts annually<br><br><strong>note 2:</strong> Qatar recruits foreign contract soldiers to overcome manpower limitations; it is estimated that as much as 85% of the military is comprised of foreigners<br>
 
 **Military - note**<br>
-Qatar hosts the regional headquarters for the US Central Command (CENTCOM; established 1983) and more than 8,000 US military forces at various military facilities, including the large Al Udeid Air Base; Qatar also hosts as many as 5,000 Turkish military forces at two bases established in 2014 and 2019<br><br>Qatar has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2023)<br>
+Qatar hosts the regional headquarters for the US Central Command (CENTCOM; established 1983) and more than 8,000 US military forces at various military facilities, including the large Al Udeid Air Base; Qatar also hosts as many as 5,000 Turkish military forces at two bases established in 2014 and 2019<br><br>Qatar has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
 
 ## Terrorism
 

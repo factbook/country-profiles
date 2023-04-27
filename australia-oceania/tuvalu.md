@@ -423,8 +423,8 @@ _highest 10%_: NA<br>
 2% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $42.68 million (2013 est.)<br>
-_expenditures_: $32.46 million (2012 est.)<br>
+_revenues_: $87 million (2019 est.)<br>
+_expenditures_: $88 million (2019 est.)<br>
 <strong>note:</strong> revenue data include Official Development Assistance from Australia<br>
 
 **Budget surplus (+) or deficit (-)**<br>

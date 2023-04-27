@@ -481,8 +481,8 @@ _highest 10%_: 28.4% (2006)<br>
 2.27% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $253.5 billion (2017 est.)<br>
-_expenditures_: $258.6 billion (2017 est.)<br>
+_revenues_: $267.105 billion (2019 est.)<br>
+_expenditures_: $277.492 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1% (of GDP) (2017 est.)<br>
@@ -691,7 +691,7 @@ Brussels (Senne River) Liege (Meuse River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, Medical Service (2022)<br>
+Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, Medical Service (2023)<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2022 est.)<br>
@@ -704,7 +704,7 @@ Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, M
 approximately 25,000 active duty personnel (10,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Service; 7,000 other, including joint staff, support, and training schools) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the armed forces have a mix of weapons systems from European countries, Israel, and the US; Belgium has an export-focused defense industry that focuses on components and subcontracting (2022)<br>
+the armed forces have a mix of weapons systems from European countries, Israel, and the US; Belgium has an export-focused defense industry that focuses on components and subcontracting (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; conscription abolished in 1995 (2022)<br>
@@ -715,7 +715,7 @@ the armed forces have a mix of weapons systems from European countries, Israel, 
 <strong>note:</strong> in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Belgium, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Belgium hosts the NATO headquarters in Brussels<br><br>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries<br> <p>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020</p><br>
+Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Belgium hosts the NATO headquarters in Brussels<br><br>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries<br> <p>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020</p> (2023)<br>
 
 ## Terrorism
 
@@ -729,7 +729,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 70,307 (Ukraine) (as of 3 April 2023)<br>
+_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 70,917 (Ukraine) (as of 11 April 2023)<br>
 _stateless persons_: 1,190 (2022)<br>
 
 **Illicit drugs**<br>

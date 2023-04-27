@@ -485,8 +485,8 @@ _highest 10%_: 41.5% (2013 est.)<br>
 0.02% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $57.75 billion (2017 est.)<br>
-_expenditures_: $65.38 billion (2017 est.)<br>
+_revenues_: $55.16 billion (2020 est.)<br>
+_expenditures_: $73.176 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.8% (of GDP) (2017 est.)<br>
@@ -715,7 +715,7 @@ the Chilean military inventory is comprised of a wide mix of mostly Western equi
 <strong>note:</strong> as of 2021, women comprised approximately 18% of the armed forces<br>
 
 **Military - note**<br>
-the Chilean Army was founded in 1810, but traces its origins back to the Army of the Kingdom of Chile, which was established by the Spanish Crown in the early 1600s; the Navy traces its origins to 1817; it was first led by a British officer and its first ships were largely crewed by American, British, and Irish sailors; by the 1880s, the Chilean Navy was one of the most powerful in the Americas, and included the world’s first protected cruiser (a ship with an armored deck to protect vital machine spaces); Chile's military aviation was inaugurated in 1913 with the creation of a military aviation school<br><br>Chile and Argentina have a joint peacekeeping force known as the Combined Southern Cross Peacekeeping Force (FPC), designed to be made available to the UN; the FPC is made up of two battalions, one from each country, a command and service company, an air component (a squadron of Argentine and Chilean helicopters), a naval component, and a combined logistics support unit (2022)<br>
+the Chilean Army was founded in 1810, but traces its origins back to the Army of the Kingdom of Chile, which was established by the Spanish Crown in the early 1600s; the Navy traces its origins to 1817; it was first led by a British officer and its first ships were largely crewed by American, British, and Irish sailors; by the 1880s, the Chilean Navy was one of the most powerful in the Americas, and included the world’s first protected cruiser (a ship with an armored deck to protect vital machine spaces); Chile's military aviation was inaugurated in 1913 with the creation of a military aviation school<br><br>Chile and Argentina have a joint peacekeeping force known as the Combined Southern Cross Peacekeeping Force (FPC), designed to be made available to the UN; the FPC is made up of two battalions, one from each country, a command and service company, an air component (a squadron of Argentine and Chilean helicopters), a naval component, and a combined logistics support unit (2023)<br>
 
 ## Transnational Issues
 

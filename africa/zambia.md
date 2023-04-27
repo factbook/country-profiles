@@ -510,8 +510,8 @@ _highest 10%_: 47.4% (2010)<br>
 0.42% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $4.473 billion (2017 est.)<br>
-_expenditures_: $6.357 billion (2017 est.)<br>
+_revenues_: $4.758 billion (2019 est.)<br>
+_expenditures_: $7.044 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -7.3% (of GDP) (2017 est.)<br>
@@ -749,7 +749,7 @@ the ZDF is responsible for preserving the country’s sovereignty and territoria
 <p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto</p> <p><em>Zambia-Tanzania</em>: some drug smuggling may take place across the Zambia-Tanzania border; there are no known current territorial issues, as both states have continued to recognize the colonial boundaries last modified in 1937; the boundary in Lake Tanganyika remains undefined.<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,230 (Burundi) (2022); 52,288 (Democratic Republic of the Congo) (refugees and asylum seekers),&nbsp;<br>
+_refugees (country of origin)_: 7,230 (Burundi) (2022); 54,047 (Democratic Republic of the Congo) (refugees and asylum seekers),<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List —<strong> </strong>Zambia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts included increasing investigations, prosecutions, and convictions in trafficking crimes, launching a national action plan for trafficking in persons and implementing a national referral mechanism, and increasing screening and identification of victims among migrants; however, the government did not demonstrate overall increasing efforts to expand anti-trafficking capacity; officials did not amend laws to criminalize all forms of child sex trafficking, nor approve guidelines for funding or shelter operations; because the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards, Zambia was granted a waiver per the TVPA from an otherwise required downgrade to Tier 3 and, therefore, remained on Tier 2 Watch List for the third consecutive year (2022)<br>

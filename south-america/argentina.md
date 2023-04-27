@@ -502,8 +502,8 @@ _highest 10%_: 31% (2017 est.)<br>
 0.13% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $120.6 billion (2017 est.)<br>
-_expenditures_: $158.6 billion (2017 est.)<br>
+_revenues_: $150.823 billion (2019 est.)<br>
+_expenditures_: $170.725 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -6% (of GDP) (2017 est.)<br>
@@ -676,6 +676,7 @@ _2,438 to 3,047 m_: 29<br>
 _1,524 to 2,437 m_: 65<br>
 _914 to 1,523 m_: 53<br>
 _under 914 m_: 10 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 977<br>
@@ -718,7 +719,8 @@ Argentina operates one PC 5 or 6 class light icebreaker<br>note - PC indicates a
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Argentine Republic (Fuerzas Armadas de la Rep&uacute;blica Argentina): Argentine Army (Ejercito Argentino, EA), Navy of the Argentine Republic (Armada Republica, ARA; includes naval aviation and naval infantry), Argentine Air Force (Fuerza Aerea Argentina, FAA); Ministry of Security: Gendarmer&iacute;a Nacional Argentina (National Gendarmerie), Coast Guard (Prefectura Naval)&nbsp; (2022)<br>
+Armed Forces of the Argentine Republic (Fuerzas Armadas de la República Argentina): Argentine Army (Ejercito Argentino, EA), Navy of the Argentine Republic (Armada Republica, ARA; includes naval aviation and naval infantry), Argentine Air Force (Fuerza Aerea Argentina, FAA); Ministry of Security: Gendarmería Nacional Argentina (National Gendarmerie), Coast Guard (Prefectura Naval) (2023)<br>
+<strong>note: </strong>all federal police forces are under the Ministry of Security<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
@@ -741,7 +743,7 @@ note - as of 2021, women comprised over 21% of the active duty military<br>
 225 Cyprus (UNFICYP) (2023)<br>
 
 **Military - note**<br>
-the Army and Navy were both created in 1810 during the Argentine War of Independence, while the Air Force was established in 1945; the military coups d'état in 1930, 1943, 1955, 1962, 1966, and 1976; the 1976 coup, aka the "National Reorganization Process," marked the beginning of the so-called "Dirty War," a period of state-sponsored terrorism that saw the deaths or disappearances of thousands of Argentinians; the defeat in the 1983 Falklands War led to the downfall of the military junta<br><br>Argentina and Chile have a joint peacekeeping force known as the Combined Southern Cross Peacekeeping Force (FPC), designed to be made available to the UN; the FPC is made up of two battalions, one from each country, a command and service company, an air component (a squadron of Argentine and Chilean helicopters), a naval component, and a combined logistics support unit<br><br>Argentina has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
+the Army and Navy were both created in 1810 during the Argentine War of Independence, while the Air Force was established in 1945; the military conducted coups d'état in 1930, 1943, 1955, 1962, 1966, and 1976; the 1976 coup, aka the "National Reorganization Process," marked the beginning of the so-called "Dirty War," a period of state-sponsored terrorism that saw the deaths or disappearances of thousands of Argentinians; the defeat in the 1983 Falklands War led to the downfall of the military junta<br><br>Argentina and Chile have a joint peacekeeping force known as the Combined Southern Cross Peacekeeping Force (FPC), designed to be made available to the UN; the FPC is made up of two battalions, one from each country, a command and service company, an air component (a squadron of Argentine and Chilean helicopters), a naval component, and a combined logistics support unit<br><br>Argentina has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
 
 ## Terrorism
 

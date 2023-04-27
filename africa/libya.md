@@ -458,8 +458,8 @@ _highest 10%_: NA<br>
 0% of GDP (2017 est.)<br>
 
 **Budget**<br>
-_revenues_: $15.78 billion (2017 est.)<br>
-_expenditures_: $23.46 billion (2017 est.)<br>
+_revenues_: $28.005 billion (2019 est.)<br>
+_expenditures_: $37.475 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -25.1% (of GDP) (2017 est.)<br>
@@ -676,7 +676,7 @@ both the forces aligned with the GNU and the LNA are largely equipped with weapo
 not available<br>
 
 **Military - note**<br>
-Turkey has been the primary backer of the GNU/GNA; Turkish military advisers have trained and assisted western/GNU Libyan forces in accordance with a 2019 Turkey-GNA security agreement; Turkey has also provided thousands of Syrian mercenaries to Libya, as well as ammunition, weapons and aerial drones; Russia, the United Arab Emirates, and Egypt have been the main supporters of the LNA; Russia has provided as many as 2,000 private military contractors; the LNA has also used fighters from other countries, including Chad, Sudan, and Syria <br><br>ISIS continues to maintain a relatively weak presence in Libya with small bands of fighters operating out of ungoverned spaces and conducting small-scale attacks throughout the country (2023)<br>
+Turkey has provided military advisers to trained and assist western/GNU Libyan forces and thousands of Syrian mercenaries to Libya, as well as ammunition, weapons and aerial drones; Russia, the United Arab Emirates, and Egypt have been the main supporters of the LNA; Russia has provided as many as 2,000 private military contractors; the LNA has also used fighters from other countries, including Chad, Sudan, and Syria <br><br>ISIS continues to maintain a relatively weak presence in Libya with small bands of fighters operating out of ungoverned spaces and conducting small-scale attacks throughout the country (2023)<br>
 
 ## Terrorism
 

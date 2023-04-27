@@ -489,8 +489,8 @@ _highest 10%_: 31.3% (2010)<br>
 0.24% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $93.11 billion (2017 est.)<br>
-_expenditures_: $100.2 billion (2017 est.)<br>
+_revenues_: $139.374 billion (2019 est.)<br>
+_expenditures_: $154.927 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2% (of GDP) (2017 est.)<br>
@@ -520,7 +520,7 @@ $117.779 billion (2019 est.) note: data are in current year dollars<br>
 United States 26%, China 9%, United Kingdom 7% (2020)<br>
 
 **Exports - commodities**<br>
-diamonds, packaged medicines, medical instruments, integrated circuits, refined petroleum (2019)<br>
+diamonds, integrated circuits, refined petroleum, medical instruments, packaged medicines, measuring instruments (2021)<br>
 
 **Imports**<br>
 $124.578 billion (2021 est.) note: data are in current year dollars<br>

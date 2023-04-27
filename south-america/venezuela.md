@@ -203,7 +203,7 @@ _unimproved: total_: total: 4.2% of population (2020 est.)<br>
 _degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
-<strong>note:</strong> as of 30 September 2021, the Centers for Disease Control and Prevention recommends that travelers avoid all nonessential travel to Venezuela; the country is experiencing outbreaks of infectious diseases, and adequate health care is currently not available in most of the country<br>
+<strong>note:</strong> as of 30 September 2021, the Centers for Disease Control and Prevention recommends that travelers avoid all nonessential travel to Venezuela; the country is experiencing outbreaks of infectious diseases, and adequate health care is currently not available in most of the country; there are shortages of food, water, electricity, medicine, and medical supplies that have contributed to an increasing humanitarian crisis affecting much of the country<br>
 
 **Obesity - adult prevalence rate**<br>
 25.6% (2016)<br>
@@ -268,7 +268,7 @@ _rate of urbanization_: 1.16% annual rate of change (2020-25 est.)<br>
 _degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
-<strong>note:</strong> as of 30 September 2021, the Centers for Disease Control and Prevention recommends that travelers avoid all nonessential travel to Venezuela; the country is experiencing outbreaks of infectious diseases, and adequate health care is currently not available in most of the country<br>
+<strong>note:</strong> as of 30 September 2021, the Centers for Disease Control and Prevention recommends that travelers avoid all nonessential travel to Venezuela; the country is experiencing outbreaks of infectious diseases, and adequate health care is currently not available in most of the country; there are shortages of food, water, electricity, medicine, and medical supplies that have contributed to an increasing humanitarian crisis affecting much of the country<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to severe economic crisis -</em> the national economy, highly dependent on oil production and exports, was forecast to contract in 2021 for the eighth consecutive year; with the persistent negative effects of the COVID‑19 pandemic that have compounded the already severe macro‑economic crisis, the access to food of the most vulnerable households is expected to deteriorate throughout 2021 and into 2022 due to widespread losses of income‑generating activities and soaring food prices (2022)<br>
@@ -481,8 +481,8 @@ _lowest 10%_: 1.7%<br>
 _highest 10%_: 32.7% (2006)<br>
 
 **Budget**<br>
-_revenues_: $92.8 billion (2017 est.)<br>
-_expenditures_: $189.7 billion (2017 est.)<br>
+_revenues_: $30 million (2017 est.)<br>
+_expenditures_: $76 million (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -46.1% (of GDP) (2017 est.)<br>
@@ -707,7 +707,7 @@ the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of
 <strong>note:</strong> as of 2017, women made up more than 20% of the active duty military<br>
 
 **Military - note**<br>
-between 2013 and 2017, Venezuela established at least a dozen military-led firms in a variety of economic sectors, such as agriculture, banking, construction, insurance, the media, mining, oil, and tourism; as of 2020, military officers reportedly led at least 60 state-owned companies; as of 2019, 9 of 32 government ministries were controlled by the military, including the ministries of agriculture and energy<br><br>as of 2023, members of the terrorist organizations National Liberation Army (ELN) and Revolutionary Armed Forces of Colombia dissidents (FARC-People's Army and Segundo Marquetalia - see Appendix T) operated in Venezuela, mostly in the states of Amazonas, Apure, Bolivar, Guarico, Tachira, and Zulia; the ELN was assessed to be present in 12 of Venezuela’s 23 states; the groups were particularly active in Apure state; the Venezuelan military has been deployed to the border region to patrol border crossings and has clashed with both the ELN and the FARC dissident groups (2023)<br>
+between 2013 and 2017, Venezuela established at least a dozen military-led firms in a variety of economic sectors, such as agriculture, banking, construction, insurance, the media, mining, oil, and tourism; as of 2020, military officers reportedly led at least 60 state-owned companies; as of 2023, 14 of 32 government ministries were controlled by the military, including the ministries of agriculture, food, petroleum, and water<br><br>members of the terrorist organizations National Liberation Army (ELN) and Revolutionary Armed Forces of Colombia dissidents (FARC-People's Army and Segundo Marquetalia - see Appendix T) operate in Venezuela, mostly in the states of Amazonas, Apure, Bolivar, Guarico, Tachira, and Zulia; the ELN is assessed to be present in 12 of Venezuela’s 23 states; the groups are particularly active in Apure state; the Venezuelan military has been deployed to the border region to patrol border crossings and has clashed with both the ELN and the FARC dissident groups (2023)<br>
 
 **Maritime threats**<br>
 The International Maritime Bureau reported three attacks in 2022 where ships were boarded in the territorial and offshore waters of Venezuela, an increase from no attacks in 2021; ports in Venezuela continue to be affected by the crime of armed robbery; the Caribbean Sea remains at risk for piracy and armed robbery against ships; numerous vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen<br>

@@ -297,9 +297,9 @@ Nile river source (shared with Tanzania, Uganda, South Sudan, Sudan, and Egypt [
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 61.4 million cubic meters (2017 est.)<br>
-_industrial_: 20.5 million cubic meters (2017 est.)<br>
-_agricultural_: 102 million cubic meters (2017 est.)<br>
+_municipal_: 230 million cubic meters (2020 est.)<br>
+_industrial_: 10 million cubic meters (2020 est.)<br>
+_agricultural_: 360 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 13.3 billion cubic meters (2019 est.)<br>
@@ -493,8 +493,8 @@ _highest 10%_: 43.2% (2011 est.)<br>
 2.7% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $1.943 billion (2017 est.)<br>
-_expenditures_: $2.337 billion (2017 est.)<br>
+_revenues_: $2.393 billion (2019 est.)<br>
+_expenditures_: $2.919 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -4.3% (of GDP) (2017 est.)<br>
@@ -713,6 +713,6 @@ the RDF's inventory includes mostly Soviet-era and older Western--largely French
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 71,559 (Democratic Republic of the Congo) (2022); 48,592 (Burundi) (2023)<br>
+_refugees (country of origin)_: 212,985 (Democratic Republic of the Congo), 48,627 (Burundi) (2023)<br>
 _stateless persons_: 9,500 (2022)<br>
 

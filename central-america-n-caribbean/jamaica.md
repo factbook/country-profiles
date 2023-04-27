@@ -467,8 +467,8 @@ _highest 10%_: 29.3% (2015)<br>
 16.19% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $4.382 billion (2017 est.)<br>
-_expenditures_: $4.314 billion (2017 est.)<br>
+_revenues_: $4.029 billion (2020 est.)<br>
+_expenditures_: $4.564 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 0.5% (of GDP) (2017 est.)<br>
@@ -498,7 +498,7 @@ $5.991 billion (2019 est.)<br>
 United States 32%, Netherlands 11%, Germany 9%, Canada 7%, Iceland 7% (2019)<br>
 
 **Exports - commodities**<br>
-bauxite, refined petroleum, aluminum, rum, fruits, nuts (2019)<br>
+aluminum oxide, refined petroleum, aluminum, rums, fruits, nuts, natural gas, sauces and seasonings (2021)<br>
 
 **Imports**<br>
 $7.414 billion (2021 est.) note: data are in current year dollars<br>

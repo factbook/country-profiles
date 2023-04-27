@@ -469,8 +469,8 @@ _highest 10%_: NA<br>
 4.01% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $553.5 million (2017 est.)<br>
-_expenditures_: $572 million (2017 est.)<br>
+_revenues_: $583 million (2019 est.)<br>
+_expenditures_: $656 million (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1% (of GDP) (2017 est.)<br>
@@ -666,8 +666,8 @@ _major seaport(s)_: Belize City, Big Creek<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard (2022)<br>
-<strong>note:</strong> the Ministry of National Defense and Border Security is responsible for oversight of the BDF and the Coast Guard, while the Ministry of Home Affairs and New Growth Industries has responsibility for police and prisons<br>
+Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard; Belize Police Department (2023)<br>
+<strong>note:</strong> the Ministry of National Defense and Border Security is responsible for oversight of the BDF and the Coast Guard, while the Ministry of Home Affairs and New Growth Industries has responsibility for the Belize Police Department and prisons; the Police Department is primarily responsible for internal security <br>
 
 **Military expenditures**<br>
 1.2% of GDP (2022 est.)<br>
@@ -686,7 +686,7 @@ the BDF's inventory is limited and consists mostly of UK- and US-origin equipmen
 18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient, but conscription has never been implemented; initial service obligation is 12 years (2022)<br>
 
 **Military - note**<br>
-<p>the BDF traces its history back to the Prince Regent Royal Honduras Militia, a volunteer force established in 1817; the BDF was established in 1978 from the disbanded Police Special Force and the Belize Volunteer Guard to assist the resident British forces with the defense of Belize against Guatemala</p> <p>the British Army has maintained a presence in Belize since its independence; as of 2022, the presence consisted of a small training support unit that provides jungle training to troops from the UK and international partners</p><br>
+<p>the BDF traces its history back to the Prince Regent Royal Honduras Militia, a volunteer force established in 1817; the BDF was established in 1978 from the disbanded Police Special Force and the Belize Volunteer Guard to assist the resident British forces with the defense of Belize against Guatemala</p> <p>the British Army has maintained a presence in Belize since its independence; the presence consists of a small training support unit that provides jungle training to troops from the UK and international partners</p> (2023)<br>
 
 ## Transnational Issues
 

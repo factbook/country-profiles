@@ -480,8 +480,8 @@ _highest 10%_: 25.7% (2014)<br>
 11.22% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $2.644 billion (2017 est.)<br>
-_expenditures_: $3.192 billion (2017 est.)<br>
+_revenues_: $3.258 billion (2019 est.)<br>
+_expenditures_: $3.392 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -4.8% (of GDP) (2017 est.)<br>
@@ -649,6 +649,7 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 2 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1<br>

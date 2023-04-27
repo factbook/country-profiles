@@ -385,14 +385,20 @@ _expenditures_: $851 million (2005)<br>
 **Exports**<br>
 <p>NA</p><br>
 
+**Exports - partners**<br>
+almost entirely United Kingdom (2022)<br>
+
 **Exports - commodities**<br>
-light industrial and electrical goods, dairy cattle, foodstuffs, textiles, flowers<br>
+refined petroleum, beverages, ships, jewelry, artwork (2022)<br>
 
 **Imports**<br>
 <p>NA</p><br>
 
+**Imports - partners**<br>
+almost entirely United Kingdom (2022)<br>
+
 **Imports - commodities**<br>
-machinery and transport equipment, manufactured goods, foodstuffs, mineral fuels, chemicals<br>
+artwork, ships, vegetables, fruits, jewelry (2022)<br>
 
 **Debt - external**<br>
 <p>NA</p><br>

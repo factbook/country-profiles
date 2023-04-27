@@ -511,8 +511,8 @@ _highest 10%_: 32.4% (1998)<br>
 3.98% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $9.108 billion (2017 est.)<br>
-_expenditures_: $11.23 billion (2017 est.)<br>
+_revenues_: $13.361 billion (2020 est.)<br>
+_expenditures_: $18.035 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.2% (of GDP) (2017 est.)<br>
@@ -727,11 +727,11 @@ Burmese Defense Service (aka Armed Forces of Burma, Myanmar Army, Royal Armed Fo
 <strong>note 1:</strong> under the 2008 constitution, the Tatmadaw controls appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs; in March 2022, a new law gave the commander-in-chief of the Tatmadaw the authority to appoint or remove the head of the police force<br><br><strong>note 2:</strong> the Burma Police Force is primarily responsible for internal security; the Border Guard Police is administratively part of the Burma Police Force but operationally distinct; both are under the Ministry of Home Affairs, which is led by an active-duty military general and itself subordinate to the military command<br>
 
 **Military expenditures**<br>
-3.4% of GDP (2021 est.)<br>
+3.1% of GDP (2022 est.)<br>
+3.3% of GDP (2021 est.)<br>
 3% of GDP (2020 est.)<br>
 4.1% of GDP (2019 est.)<br>
 4.4% of GDP (2018 est.)<br>
-4.7% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimates vary widely, from approximately 300,000 to as many as 400,000 active duty personnel (2022)<br>

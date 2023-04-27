@@ -281,9 +281,9 @@ Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq 
 Arabian Aquifer System<br>
 
 **Total water withdrawal**<br>
-_municipal_: 3.15 billion cubic meters (2017 est.)<br>
-_industrial_: 1 billion cubic meters (2017 est.)<br>
-_agricultural_: 19.2 billion cubic meters (2017 est.)<br>
+_municipal_: 3.39 billion cubic meters (2020 est.)<br>
+_industrial_: 1.4 billion cubic meters (2020 est.)<br>
+_agricultural_: 21.2 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 2.4 billion cubic meters (2019 est.)<br>
@@ -487,8 +487,8 @@ _highest 10%_: NA<br>
 0.04% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $181 billion (2017 est.)<br>
-_expenditures_: $241.8 billion (2017 est.)<br>
+_revenues_: $247.093 billion (2019 est.)<br>
+_expenditures_: $282.4 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -8.9% (of GDP) (2017 est.)<br>
@@ -721,7 +721,7 @@ men (17-40) and women (21-40) may volunteer for military service; no conscriptio
 estimated 2,500-5,000 Yemen (varies depending on operations) (2022)<br>
 
 **Military - note**<br>
-in 2015, a Saudi-led coalition of Arab states intervened militarily in Yemen in support of the Republic of Yemen Government against the separatist Houthis; Saudi Arabia also has raised and equipped paramilitary/militia security forces in Yemen--based largely on tribal or regional affiliation--to deploy along the Saudi-Yemen border, especially the areas bordering the governorates of Saada and Al-Jawf (2022)<br>
+in 2015, a Saudi-led coalition of Arab states intervened militarily in Yemen in support of the Republic of Yemen Government against the separatist Houthis; Saudi Arabia also has raised and equipped paramilitary/militia security forces in Yemen--based largely on tribal or regional affiliation--to deploy along the Saudi-Yemen border (2023)<br>
 
 ## Terrorism
 

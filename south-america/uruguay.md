@@ -496,8 +496,8 @@ _highest 10%_: 30.8% (2014 est.)<br>
 0.18% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $17.66 billion (2017 est.)<br>
-_expenditures_: $19.72 billion (2017 est.)<br>
+_revenues_: $14.991 billion (2020 est.)<br>
+_expenditures_: $17.571 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.5% (of GDP) (2017 est.)<br>
@@ -722,7 +722,7 @@ the military's inventory includes a wide variety of older or second-hand equipme
 830 Democratic Republic of the Congo (MONUSCO); 210 Golan Heights (UNDOF) (May 2022)<br>
 
 **Military - note**<br>
-the military has some domestic responsibilities, including perimeter security for a number of prisons and border security; in 2020, the military deployed more than 1,000 troops to assist the National Police in securing the land border with Brazil and the riverine border with Argentina as part of a border control law passed in 2018 (2022)<br>
+the military has some domestic responsibilities, including perimeter security for a number of prisons and border security; in 2020, the military deployed more than 1,000 troops to assist the National Police in securing the land border with Brazil and the riverine border with Argentina as part of a border control law passed in 2018 (2023)<br>
 
 ## Transnational Issues
 

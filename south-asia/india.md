@@ -523,8 +523,8 @@ _highest 10%_: 29.8% (2011)<br>
 2.94% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $238.2 billion (2017 est.)<br>
-_expenditures_: $329 billion (2017 est.)<br>
+_revenues_: $495.007 billion (2020 est.)<br>
+_expenditures_: $818.94 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.5% (of GDP) (2017 est.)<br>
@@ -555,7 +555,7 @@ $546.033 billion (2019 est.) note: data are in current year dollars<br>
 United States 17%, United Arab Emirates 9%, China 5% (2019)<br>
 
 **Exports - commodities**<br>
-refined petroleum, diamonds, packaged medicines, jewelry, cars (2019)<br>
+refined petroleum, diamonds, packaged medicines, jewelry, rice (2021)<br>
 
 **Imports**<br>
 $717.119 billion (2021 est.) note: data are in current year dollars<br>
@@ -743,7 +743,7 @@ Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Frontier Corps; Defense
 **Military expenditures**<br>
 2.1% of GDP (2022 est.)<br>
 2.2% of GDP (2021 est.)<br>
-2.6% of GDP (2020 est.)<br>
+2.5% of GDP (2020 est.)<br>
 2.4% of GDP (2019 est.)<br>
 2.4% of GDP (2018 est.)<br>
 

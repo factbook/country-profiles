@@ -571,7 +571,7 @@ _major seaport(s)_: Sisimiut<br>
 no regular military forces or conscription<br>
 
 **Military - note**<br>
-the Danish military&rsquo;s Joint Arctic Command in Nuuk is responsible for the defense of Greenland<br>
+the Danish military&rsquo;s Joint Arctic Command in Nuuk is responsible for coordinating Denmark's defense of Greenland<br>
 
 ## Transnational Issues
 

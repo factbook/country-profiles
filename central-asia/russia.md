@@ -310,9 +310,9 @@ Arctic Ocean drainage: Kolyma (679,934 sq km), Lena (2,306,743 sq km), Ob (2,972
 Angara-Lena Basin, Pechora Basin, North Caucasus Basin, East European Aquifer System, West Siberian Basin, Tunguss Basin, Yakut Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 17.71 billion cubic meters (2017 est.)<br>
-_industrial_: 28.04 billion cubic meters (2017 est.)<br>
-_agricultural_: 18.66 billion cubic meters (2017 est.)<br>
+_municipal_: 17.15 billion cubic meters (2020 est.)<br>
+_industrial_: 29.03 billion cubic meters (2020 est.)<br>
+_agricultural_: 18.64 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 4.5 trillion cubic meters (2019 est.)<br>
@@ -340,7 +340,7 @@ _etymology_: named after the Moskva River; the origin of the river's name is obs
 
 **Administrative divisions**<br>
 <p>46 provinces (oblasti, singular - oblast), 21 republics (respubliki, singular - respublika), 4 autonomous okrugs (avtonomnyye okrugi, singular - avtonomnyy okrug), 9 krays (kraya, singular - kray), 2 federal cities (goroda, singular - gorod), and 1 autonomous oblast (avtonomnaya oblast')</p> <p><strong>oblasts:</strong> Amur (Blagoveshchensk), Arkhangelsk, Astrakhan, Belgorod, Bryansk, Chelyabinsk, Irkutsk, Ivanovo, Kaliningrad, Kaluga, Kemerovo, Kirov, Kostroma, Kurgan, Kursk, Leningrad (Gatchina), Lipetsk, Magadan, Moscow, Murmansk, Nizhniy Novgorod, Novgorod, Novosibirsk, Omsk, Orenburg, Orel, Penza, Pskov, Rostov, Ryazan, Sakhalin (Yuzhno-Sakhalinsk), Samara, Saratov, Smolensk, Sverdlovsk (Yekaterinburg), Tambov, Tomsk, Tula, Tver, Tyumen, Ulyanovsk, Vladimir, Volgograd, Vologda, Voronezh, Yaroslavl</p> <p><strong>republics:</strong> Adygeya (Maykop), Altay (Gorno-Altaysk), Bashkortostan (Ufa), Buryatiya (Ulan-Ude), Chechnya (Groznyy), Chuvashiya (Cheboksary), Dagestan (Makhachkala), Ingushetiya (Magas), Kabardino-Balkariya (Nal'chik), Kalmykiya (Elista), Karachayevo-Cherkesiya (Cherkessk), Kareliya (Petrozavodsk), Khakasiya (Abakan), Komi (Syktyvkar), Mariy-El (Yoshkar-Ola), Mordoviya (Saransk), North Ossetia (Vladikavkaz), Sakha [Yakutiya] (Yakutsk), Tatarstan (Kazan), Tyva (Kyzyl), Udmurtiya (Izhevsk)</p> <p><strong>autonomous okrugs:</strong> Chukotka (Anadyr'), Khanty-Mansi-Yugra (Khanty-Mansiysk), Nenets (Nar'yan-Mar), Yamalo-Nenets (Salekhard)</p> <p><strong>krays:</strong> Altay (Barnaul), Kamchatka (Petropavlovsk-Kamchatskiy), Khabarovsk, Krasnodar, Krasnoyarsk, Perm, Primorskiy [Maritime] (Vladivostok), Stavropol, Zabaykalsk [Transbaikal] (Chita)</p> <p><strong>federal cities:</strong> Moscow [Moskva], Saint Petersburg [Sankt-Peterburg]</p> <strong>autonomous oblast:</strong> Yevreyskaya [Jewish] (Birobidzhan)<br>
-<strong>note 1:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses) <br><br><strong>note 2:</strong> the United States does not recognize Russia's annexation of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol, nor their redesignation as the "Republic of Crimea" and the "Federal City of Sevastopol"<br>
+<strong>note 1:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses) <br><br><strong>note 2:</strong> the United States does not recognize Russia's annexation of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol, nor their redesignation as the "Republic of Crimea" and the "Federal City of Sevastopol"; it similarly does not recognize the annexation of the Ukrainian oblasts Dontetsk, Luhansk, Zaporizhzhiya, and Kherson<br>
 
 **Independence**<br>
 25 December 1991 (from the Soviet Union; Russian SFSR renamed Russian Federation); notable earlier dates: 1157 (Principality of Vladimir-Suzdal created); 16 January 1547 (Tsardom of Muscovy established); 22 October 1721 (Russian Empire proclaimed); 30 December 1922 (Soviet Union established)<br>
@@ -349,7 +349,7 @@ _etymology_: named after the Moskva River; the origin of the river's name is obs
 Russia Day, 12 June (1990); note - commemorates the adoption of the Declaration of State Sovereignty of the Russian Soviet Federative Socialist Republic (RSFSR)<br>
 
 **Constitution**<br>
-_history_: several previous (during Russian Empire and Soviet era); latest drafted 12 July 1993, adopted by referendum 12 December 1993, effective 25 December 1993<br>
+_history_: several previous (during Russian Empire and Soviet era); latest drafted 12 July 1993, adopted by referendum 12 December 1993, effective 25 December 1993, underwent major revisions June 2020<br>
 _amendments_: proposed by the president of the Russian Federation, by either house of the Federal Assembly, by the government of the Russian Federation, or by legislative (representative) bodies of the Federation's constituent entities; proposals to amend the government&rsquo;s constitutional system, human and civil rights and freedoms, and procedures for amending or drafting a new constitution require formation of a Constitutional Assembly; passage of such amendments requires two-thirds majority vote of its total membership; passage in a referendum requires participation of an absolute majority of eligible voters and an absolute majority of valid votes; approval of proposed amendments to the government structure, authorities, and procedures requires approval by the legislative bodies of at least two thirds of the Russian Federation's constituent entities; amended several times, last in 2020<br>
 
 **Legal system**<br>
@@ -369,7 +369,7 @@ _residency requirement for naturalization_: 3-5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Vladimir Vladimirovich PUTIN (since 7 May 2012)<br>
-_head of government_: Premier Mikhail MISHUSTIN (since 16 January 2020); First Deputy Premier Andrey Removich BELOUSOV (since 21 January 2020); Deputy Premiers Yuriy TRUTNEV (since 31 August 2013), Yuriy Ivanovich BORISOV, Tatiana Alekseyevna GOLIKOVA (since 18 May 2018), Dmitriy Yuriyevich GRIGORENKO, Viktoriya Valeriyevna ABRAMCHENKO, Aleksey Logvinovich OVERCHUK, Marat Shakirzyanovich KHUSNULLIN, Dmitriy Nikolayevich CHERNYSHENKO (since 21 January 2020), Aleksandr NOVAK (since 10 November 2020)<br>
+_head of government_: Premier Mikhail MISHUSTIN (since 16 January 2020); First Deputy Premier Andrey Removich BELOUSOV (since 21 January 2020); Deputy Premiers Yuriy TRUTNEV (since 31 August 2013), Tatiana Alekseyevna GOLIKOVA (since 18 May 2018), Dmitriy Yuriyevich GRIGORENKO, Viktoriya Valeriyevna ABRAMCHENKO, Aleksey Logvinovich OVERCHUK, Marat Shakirzyanovich KHUSNULLIN, Dmitriy Nikolayevich CHERNYSHENKO (since 21 January 2020), Aleksandr NOVAK (since 10 November 2020), Denis Valentinovich MANTUROV (since 15 July 2022)<br>
 _cabinet_: the "Government" is composed of the premier, his deputies, and ministers, all appointed by the president; the premier is also confirmed by the Duma<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (2020 constitutional amendments allow a second consecutive term); election last held on 18 March 2018 (next to be held in March 2024); note - for the 2024 presidential election, previous presidential terms are discounted; there is no vice president<br>
 _election results_: <em><br>2018:</em> Vladimir PUTIN reelected president; percent of vote - Vladimir PUTIN (independent) 77.5%, Pavel GRUDININ (CPRF) 11.9%, Vladimir ZHIRINOVSKIY (LDPR) 5.7%, other 4.9%; Mikhail MISHUSTIN (independent) approved as premier by Duma; vote - 383 to 0<br><br><em>2012:</em> Vladimir PUTIN elected president; percent of vote - Vladimir PUTIN (United Russia) 63.6%, Gennadiy ZYUGANOV (CPRF) 17.2%, Mikhail PROKHOROV (CP) 8%, Vladimir ZHIRINOVSKIY (LDPR) 6.2%, Sergey MIRONOV (A Just Russia) 3.9%, other 1.1%; Dmitriy MEDVEDEV (United Russia) approved as premier by Duma; vote - 299 to 144<br>
@@ -522,8 +522,8 @@ _highest 10%_: 32.2% (2012 est.)<br>
 0.62% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $258.6 billion (2017 est.)<br>
-_expenditures_: $281.4 billion (2017 est.)<br>
+_revenues_: $604.135 billion (2019 est.)<br>
+_expenditures_: $571.465 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.4% (of GDP) (2017 est.)<br>

@@ -97,15 +97,15 @@ _noun_: Canadian(s)<br>
 _adjective_: Canadian<br>
 
 **Ethnic groups**<br>
-Canadian 32.3%, English 18.3%, Scottish 13.9%, French 13.6%, Irish 13.4%, German 9.6%, Chinese 5.1%, Italian 4.6%, North American Indian 4.4%, East Indian 4%, Ukrainian 3.9%, other 47.7% (2016 est.)<br>
+Canadian 15.6%, English 14.7%, Scottish 12.1%, French 11%, Irish 12.1%, German 8.1%, Chinese 4.7%, Italian 4.3%, First Nations 1.7%, Indian 3.7%, Ukrainian 3.5%, Metis 1.5% (2021 est.)<br>
 <strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic origin<br>
 
 **Languages**<br>
-English (official) 58.7%, French (official) 22%, Punjabi 1.4%, Italian 1.3%, Spanish 1.3%, German 1.3%, Cantonese 1.2%, Tagalog 1.2%, Arabic 1.1%, other 10.5% (2011 est.)<br>
+English (official) 87.1%, French (official) 29.1%, Chinese languages 4.2%, Spanish 3.2%, Punjabi 2.6%, Arabic 2.4%, Tagalog 2.3%, Italian 1.5% (2022 est.)<br>
 _major-language sample(s)_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br>
 
 **Religions**<br>
-Catholic 39% (includes Roman Catholic 38.8%, other Catholic .2%), Protestant 20.3% (includes United Church 6.1%, Anglican 5%, Baptist 1.9%, Lutheran 1.5%, Pentecostal 1.5%, Presbyterian 1.4%, other Protestant 2.9%), Orthodox 1.6%, other Christian 6.3%, Muslim 3.2%, Hindu 1.5%, Sikh 1.4%, Buddhist 1.1%, Jewish 1%, other 0.6%, none 23.9% (2011 est.)<br>
+Christian 53.3%, Muslim 4.9%, Hindu 2.3%, Sikh 2.1%, Buddhist 1%, Jewish 0.9%, Traditional (North American Indigenous) 0.2%, other religions and traditional spirituality 0.6%, none 34.6% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 15.65% (male 3,097,585/female 2,930,056)<br>
@@ -512,8 +512,8 @@ _highest 10%_: 24.8% (2000)<br>
 0.08% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $649.6 billion (2017 est.)<br>
-_expenditures_: $665.7 billion (2017 est.)<br>
+_revenues_: $686.718 billion (2020 est.)<br>
+_expenditures_: $861.955 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1% (of GDP) (2017 est.)<br>
@@ -734,11 +734,11 @@ Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force, C
 <strong>note: </strong>the Army reserves include the Canadian Rangers, which provides a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2021 est.)<br>
+1.3% of GDP (2022 est.)<br>
+1.3% of GDP (2021)<br>
 1.4% of GDP (2020)<br>
 1.3% of GDP (2019)<br>
 1.3% of GDP (2018)<br>
-1.4% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 70,000 active armed forces personnel (23,000 Army; 12,000 Navy; 12,000 Air Force; 23,000 other) (2022)<br>
@@ -756,7 +756,7 @@ the CAF has nearly 1,400 military personnel forward deployed for NATO air, land,
 <strong>note:</strong> in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Canada, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe <br>
 
 **Military - note**<br>
-<p>Canada is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949</p> <p>Canada is part of the North American Aerospace Defense Command (NORAD; established 1958); NORAD is a Canada-US bi-national military command responsible for monitoring and defending North American airspace; traditionally, a Canadian Armed Forces officer has served as the deputy commander of NORAD</p> <p>Canada’s defense relationship with the US extends back to the Ogdensburg Declaration of 1940, when the two countries formally agreed on military cooperation, including the establishment of the Permanent Joint Board on Defense (PJBD), which continued to be the highest-level bilateral defense forum between Canada and the US as of 2022</p> <p>British troops withdrew from Canada in 1871 as part of the UK-US Treaty of Washington; following the withdrawal, the first Canadian militia, known as the Royal Canadian Regiment, was organized in 1883 to protect Canadian territory and defend British interests abroad, which it did in the South African War (1899-1902), Canada’s first overseas conflict; militia units formed the backbone of the more than 425,000 Canadian soldiers that went to Europe during World War I in what was called the Canadian Expeditionary Force; the Royal Canadian Navy was created in 1910, while the Canadian Air Force was established in 1920 and became the Royal Canadian Air Force in 1924; the Canadian Army was officially founded in 1942; a unified Canadian Armed Forces was created in 1968</p><br>
+<p>Canada is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949</p> <p>Canada is part of the North American Aerospace Defense Command (NORAD; established 1958); NORAD is a Canada-US bi-national military command responsible for monitoring and defending North American airspace; traditionally, a Canadian Armed Forces officer has served as the deputy commander of NORAD</p> <p>Canada’s defense relationship with the US extends back to the Ogdensburg Declaration of 1940, when the two countries formally agreed on military cooperation, including the establishment of the Permanent Joint Board on Defense (PJBD), which continues to be the highest-level bilateral defense forum between Canada and the US </p> <p>British troops withdrew from Canada in 1871 as part of the UK-US Treaty of Washington; following the withdrawal, the first Canadian militia, known as the Royal Canadian Regiment, was organized in 1883 to protect Canadian territory and defend British interests abroad, which it did in the South African War (1899-1902), Canada’s first overseas conflict; militia units formed the backbone of the more than 425,000 Canadian soldiers that went to Europe during World War I in what was called the Canadian Expeditionary Force; the Royal Canadian Navy was created in 1910, while the Canadian Air Force was established in 1920 and became the Royal Canadian Air Force in 1924; the Canadian Army was officially founded in 1942; a unified Canadian Armed Forces was created in 1968</p> (2023)<br>
 
 ## Terrorism
 

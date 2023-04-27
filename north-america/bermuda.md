@@ -585,20 +585,20 @@ _major seaport(s)_: Hamilton, Ireland Island, Saint George<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Bermuda Regiment; Bermuda Police Service (2022)<br>
-<strong>note:</strong> the Royal Bermuda Regiment is a reserve multi-role battalion that carries out two primary functions – providing military aid to civil authorities and humanitarian and disaster relief<br>
+Royal Bermuda Regiment; Bermuda Police Service (2023)<br>
+<strong>note:</strong> the Royal Bermuda Regiment (aka "The Regiment") includes the Royal Bermuda Regiment Coast Guard<br>
 
 **Military and security service personnel strengths**<br>
-the Royal Bermuda Regiment has about 350 troops (2022)<br>
+the Royal Bermuda Regiment has about 350 troops (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Regiment is equipped with small arms (2023)<br>
 
 **Military service age and obligation**<br>
-men and women who are Commonwealth citizens and 18-45 years of age can volunteer for the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; service can be extended only by volunteering or an executive order from the Governor; annual training commitment is about 30 days a year, which includes a two-week camp, weekends, and drill nights (2022)<br>
+men and women who are Commonwealth citizens and 18-45 years of age can volunteer for the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; service can be extended only by volunteering or an executive order from the Governor; annual training commitment is about 30 days a year, which includes a two-week camp, weekends, and drill nights (2023)<br>
 
 **Military - note**<br>
-defense is the responsibility of the UK<br>
+defense is the responsibility of the UK; the Royal Bermuda Regiment is a reserve multi-role battalion that has two primary functions &ndash; providing military aid to civil authorities and humanitarian and disaster relief (2023)<br>
 
 ## Transnational Issues
 

@@ -298,9 +298,9 @@ _percent of municipal solid waste recycled_: 28% (2014 est.)<br>
 _salt water lake(s)_: Laguna de Bay - 890 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 8.929 billion cubic meters (2017 est.)<br>
-_industrial_: 15.85 billion cubic meters (2017 est.)<br>
-_agricultural_: 67.97 billion cubic meters (2017 est.)<br>
+_municipal_: 8.16 billion cubic meters (2020 est.)<br>
+_industrial_: 9.88 billion cubic meters (2020 est.)<br>
+_agricultural_: 67.83 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 479 billion cubic meters (2019 est.)<br>
@@ -502,8 +502,8 @@ _highest 10%_: 29.5% (2015 est.)<br>
 9.33% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $49.07 billion (2017 est.)<br>
-_expenditures_: $56.02 billion (2017 est.)<br>
+_revenues_: $71.173 billion (2020 est.)<br>
+_expenditures_: $90.953 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.2% (of GDP) (2017 est.)<br>
@@ -716,11 +716,11 @@ Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air F
 <strong>note 1:</strong> the Philippine Coast Guard is an armed and uniformed service under the Department of Transportation; it would be attached to the AFP in wartime; the Philippine National Police Force (PNP) falls under the Department of the Interior<br><br><strong>note 2: </strong>the Philippine Government also arms and supports civilian militias; the AFP controls Civilian Armed Force Geographical Units, while the Civilian Volunteer Organizations fall under PNP command<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2022 est.)<br>
 1.1% of GDP (2021 est.)<br>
 1.1% of GDP (2020)<br>
 1.1% of GDP (2019)<br>
 1% of GDP (2018)<br>
-1.3% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 130,000 active duty personnel (90,000 Army; 25,000 Navy, including about 8,000 Marine Corps; 15,000 Air Force) (2022)<br>

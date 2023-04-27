@@ -490,8 +490,8 @@ _highest 10%_: 5.7% (2017)<br>
 3.34% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $2.967 billion (2017 est.)<br>
-_expenditures_: $3.681 billion (2017 est.)<br>
+_revenues_: $3.699 billion (2020 est.)<br>
+_expenditures_: $4.979 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -6.4% (of GDP) (2017 est.)<br>
@@ -696,11 +696,11 @@ Mongolian Armed Forces (MAF): Mongolian Ground Force (aka General Purpose Troops
 <strong>note: </strong>the National Police Agency and the General Authority for Border Protection, which operate under the Ministry of Justice and Home Affairs, are primarily responsible for internal security; they are assisted by the General Intelligence Agency under the prime minister; the MAF assists the internal security forces in providing domestic emergency assistance and disaster relief<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2022 est.)<br>
 0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020 est.)<br>
 0.7% of GDP (2019 est.)<br>
 0.7% of GDP (2018 est.)<br>
-0.8% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 9,000 active duty troops (2022)<br>

@@ -88,7 +88,7 @@ Bosniak 50.1%, Serb 30.8%, Croat 15.4%, other 2.7%, not declared/no answer 1% (2
 
 **Languages**<br>
 Bosnian (official) 52.9%, Serbian (official) 30.8%, Croatian (official) 14.6%, other 1.6%, no answer 0.2% (2013 est.)<br>
-_major-language sample(s)_: <br>Knjiga svjetskih činjenica, neophodan izvor osnovnih informacija. (Bosnian/Montenegrin)<br><br>Knjiga svetskih činjenica, neophodan izvor osnovnih informacija. (Serbian)<br><br>Knjiga svjetskih činjenica, nužan izvor osnovnih informacija. (Croatian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Knjiga svjetskih činjenica, neophodan izvor osnovnih informacija. (Bosnian)<br><br>Knjiga svetskih činjenica, neophodan izvor osnovnih informacija. (Serbian)<br><br>Knjiga svjetskih činjenica, nužan izvor osnovnih informacija. (Croatian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 50.7%, Orthodox 30.7%, Roman Catholic 15.2%, atheist 0.8%, agnostic 0.3%, other 1.2%, undeclared/no answer 1.1% (2013 est.)<br>
@@ -337,7 +337,7 @@ _head of government_: Chairman of the Council of Ministers Borjana KRISTO&nbsp; 
 _cabinet_: Council of Ministers nominated by the council chairman, approved by the state-level House of Representatives<br>
 _elections/appointments_: 3-member presidency (1 Bosniak and 1 Croat elected from the Federation of Bosnia and Herzegovina and 1 Serb elected from the Republika Srpska) directly elected by simple majority popular vote for a 4-year term (eligible for a second term, but then ineligible for 4 years); the presidency chairpersonship rotates every 8 months with the new member of the presidency elected with the highest number of votes starting the new mandate as chair; election last held on 2 October 2022 (next to be held in October 2026); the chairman of the Council of Ministers appointed by the presidency and confirmed by the state-level House of Representatives<br>
 _election results_: <em>2022: </em>percent of vote<em> -</em> Denis BECIROVIC - (SDP BiH) 57.4% - Bosniak seat; Zeljko KOMSIC (DF) 55.8% - Croat seat; Zeljka CVIJANOVIC (SNSD) 51.7% - Serb seat<em><br><br>2018: </em>percent of vote - Milorad DODIK (SNSD) 53.9% - Serb seat; Zeljko KOMSIC (DF) 52.6% - Croat seat; Sefik DZAFEROVIC (SDA) 36.6% - Bosniak seat<br><br><em>2014:</em> percent of vote - Mladen IVANIC (PDP) 48.7% - Serb seat; Dragan COVIC (HDZ-BiH) 52.2% - Croat seat; Bakir IZETBEGOVIC (SDA) 32.9% - Bosniak seat<br>
-<strong>note:</strong> President of the Federation of Bosnia and Herzegovina Marinko CAVARA (since 9 February 2015); Vice Presidents Melika MAHMUTBEGOVIC (since 9 February 2015), Milan DUNOVIC (since 9 February 2015); President of the Republika Srpska Zeljka CVIJANOVIC (since 18 November 2018); Vice Presidents Ramiz SALKIC (since 24 November 2014), Josip JERKOVIC (since 24 November 2014)<br>
+<strong>note:</strong> President of the Federation of Bosnia and Herzegovina Lidiia BRADARA (since 28 February 2023); Vice Presidents Refik LENDO (since 28 February 2023) and Igor STOJANOVIC (since 28 February 2023); President of the Republika Srpska Milorad DODIK (since 15 November 2022); Vice Presidents Camil DURAKOVIC (since 15 November 2022) and Davor PRANJIC (since 15 November 2022)<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliamentary Assembly or Skupstina consists of:<br>House of Peoples or Dom Naroda (15 seats - 5 Bosniak, 5 Croat, 5 Serb; members designated by the Federation of Bosnia and Herzegovina's House of Peoples and the Republika Srpska's National Assembly to serve 4-year terms)<br>House of Representatives or Predstavnicki Dom (42 seats to include 28 seats allocated to the Federation of Bosnia and Herzegovina and 14 to the Republika Srpska; members directly elected by proportional representation vote to serve 4-year terms); note - the Federation of Bosnia and Herzegovina has a bicameral legislature that consists of the House of Peoples (58 seats - 17 Bosniak, 17 Croat, 17 Serb, 7 other) and the House of Representatives (98 seats; members directly elected by proportional representation vote to serve 4-year terms); Republika Srpska's unicameral legislature is the National Assembly (83 directly elected delegates serve 4-year terms)<br>
@@ -350,7 +350,7 @@ _judge selection and term of office_: BiH Constitutional Court judges - 4 select
 _subordinate courts_: the Federation has 10 cantonal courts plus a number of municipal courts; the Republika Srpska has a supreme court, 5 district courts, and a number of municipal courts<br>
 
 **Political parties and leaders**<br>
-Alliance for a Better Future of BiH or SBB BiH [Fahrudin RADONCIC]<br>Alliance of Independent Social Democrats or SNSD [Milorad DODIK]<br>Alternative Party for Democratic Activity or A-SDA [Nermin OGRESEVIC] (merged with Independent Bosnian Herzegovinian List to form NES)<br>Bosnian-Herzegovinian Initiative or BHI KF [Fuad KASUMOVIC]<br>Civic Alliance or GS [Reuf BAJROVIC]<br>Croat Peasants' Party or HSS [Mario KARAMATIC]<br>Croatian Christian Democratic Union of Bosnia and Herzegovina or HKDU [Ivanka BARIC]<br>Croatian Democratic Union or HDU [Miro GRABOVAC-TITAN]<br>Croatian Democratic Union of Bosnia and Herzegovina or HDZ-BiH [Dragan COVIC]<br>Croatian Democratic Union 1990 or HDZ-1990 [Ilija CVITANOVIC]<br>Croatian Party of Rights dr. Ante Starcevic or HSP-AS Bih [Stanko PRIMORAC]<br>Democratic Alliance or DEMOS [Nedeljko CUBRILOVIC]<br>Democratic Front of DF [Zeljko KOMSIC]<br>Democratic Peoples' Alliance or DNS [Nenad NESIC]<br>For Justice and Order [Nebojsa VUKANOVIC]<br>Independent Bloc or NB [Senad SEPIC]<br>Movement for Democratic Action or PDA [Elzina PIRIC]<br>National Democratic Movement or NDP [Dragan CAVIC]<br>Our Party or NS/HC [Edin FORTO]<br>Party for Democratic Action or SDA [Bakir IZETBEGOVIC]<br>Party of Democratic Progress or PDP [Branislav BORENOVIC]<br>People and Justice Party or NiP [Elmedin KONAKOVIC]<br>People's European Union of Bosnia and Herzegovina or NES [Nermin OGRESEVIC]<br>Progressive Srpska or NS [Goran DORDIC]<br>Serb Democratic Party or SDS [Mirko SAROVIC]<br>Serb Radical Party-Dr. Vojislav Seselj or SRS-VS [Vojislav SESELJ] (merged with PDP)<br>Social Democratic Party or SDP [Nermin NIKSIC]<br>Socialist Party or SP [Petar DOKIC]<br>United Srpska or US [Nenad STEVANDIC]<br>
+Alliance of Independent Social Democrats or SNSD [Milorad DODIK]<br>Bosnian-Herzegovinian Initiative or BHI KF [Fuad KASUMOVIC]<br>Civic Alliance or GS [Reuf BAJROVIC]<br>Croatian Democratic Union of Bosnia and Herzegovina or HDZ-BiH [Dragan COVIC]<br>Democratic Front or DF [Zeljko KOMSIC]<br>Democratic Union or DEMOS [Nedeljko CUBRILOVIC]<br>For Justice and Order [Nebojsa VUKANOVIC]<br>Our Party or NS/HC [Edin FORTO]<br>Party for Democratic Action or SDA [Bakir IZETBEGOVIC]<br>Party of Democratic Progress or PDP [Branislav BORENOVIC]<br>People and Justice Party or NiP [Elmedin KONAKOVIC]<br>People's European Union of Bosnia and Herzegovina or NES [Nermin OGRESEVIC]<br>Progressive Srpska or NS [Goran DORDIC]<br>Serb Democratic Party or SDS [Milan MILICEVIC]<br>Social Democratic Party or SDP [Nermin NIKSIC]<br>United Srpska or US [Nenad STEVANDIC]<br>
 
 **International organization participation**<br>
 BIS, CD, CE, CEI, EAPC, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM (observer), OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
@@ -485,8 +485,8 @@ _highest 10%_: 25.8% (2011 est.)<br>
 11.55% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $7.993 billion (2017 est.)<br>
-_expenditures_: $7.607 billion (2017 est.)<br>
+_revenues_: $8.434 billion (2019 est.)<br>
+_expenditures_: $8.154 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 2.1% (of GDP) (2017 est.)<br>
@@ -691,11 +691,11 @@ _river port(s)_: Bosanska Gradiska, Bosanski Brod, Bosanski Samac, Brcko, Orasje
 Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegovine, OSBiH): Operations Command (includes Army, Air, and Air Defense units), Support Command (2022)<br>
 
 **Military expenditures**<br>
-0.9% of GDP (2021 est.)<br>
+0.8% of GDP (2022 est.)<br>
+0.9% of GDP (2021)<br>
 0.9% of GDP (2020)<br>
 0.8% of GDP (2019)<br>
 0.9% of GDP (2018)<br>
-0.9% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 9,000 active duty personnel (2022)<br>
@@ -708,7 +708,7 @@ the military's inventory is a wide mix of secondhand equipment mostly of French,
 <strong>note:</strong> as of 2021, women made up about 7% of the military's full-time personnel<br>
 
 **Military - note**<br>
-<p>the Armed Forces of Bosnia and Herzegovina (AFBiH) are comprised of the former Bosnian-Croat Army of the Federation of Bosnia and Herzegovina (Vojska Federacije Bosne i Hercegovin, VF) and the Bosnian-Serb Republic of Serbia Army (Vojska Republike Srpske, VRS); the two forces were unified under the 2003 Law on Defense, which also established the country’s Ministry of Defense<br><br>the European Union Force Bosnia and Herzegovina (EUFOR) has operated in the country to oversee implementation of the Dayton/Paris Agreement since taking over from NATO's Stabilization Force (SFOR) in 2004; in addition to its security mission, EUFOR supports the overall EU comprehensive strategy for Bosnia and Herzegovina and the efforts of the AFBiH to attain NATO standards; as of 2022, it had about 600 troops from 19 countries</p> <p>Bosnia and Herzegovina joined NATO’s Partnership for Peace (PfP) program in 2007 and was invited to join NATO’s Membership Action Plan in 2010; as of 2022, NATO maintained a military headquarters in Sarajevo with the mission of assisting Bosnia and Herzegovina with the PfP program and promoting closer integration with NATO, as well as providing logistics and other support to EUFOR</p> <p> </p><br>
+<p>the Armed Forces of Bosnia and Herzegovina (AFBiH) are comprised of the former Bosnian-Croat Army of the Federation of Bosnia and Herzegovina (Vojska Federacije Bosne i Hercegovin, VF) and the Bosnian-Serb Republic of Serbia Army (Vojska Republike Srpske, VRS); the two forces were unified under the 2006 Law on Defense, which also established the country’s Ministry of Defense<br><br>the European Union Force Bosnia and Herzegovina (EUFOR) has operated in the country to oversee implementation of the Dayton/Paris Agreement since taking over from NATO's Stabilization Force (SFOR) in 2004; it has about about 1,100 troops from 22 countries</p> <p>Bosnia and Herzegovina joined NATO’s Partnership for Peace (PfP) program in 2007 and was invited to join NATO’s Membership Action Plan in 2010; NATO maintains a military headquarters in Sarajevo with the mission of assisting Bosnia and Herzegovina with the PfP program and promoting closer integration with NATO, as well as providing logistics and other support to EUFOR</p> <p> </p> (2023)<br>
 
 ## Terrorism
 

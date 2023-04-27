@@ -194,6 +194,7 @@ _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 _degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever<br>
+<strong>note: </strong>on 17 April 2023, the Centers for Disease Control and Prevention (CDC) issued a Travel Alert for an outbreak of <em>Plasmodium falciparum</em> malaria in the province of Limón, Costa Rica; there is also malaria transmission in Alajuela Province; public health authorities in Costa Rica are responding to this outbreak by enhancing malaria surveillance; CDC now recommends malaria chemoprohylaxis for travelers visiting Limón and Alajuela Provinces in Costa Rica prior to travel; the parasite <em>P. falciparum</em>, which is found worldwide in tropical and subtropical areas is spread through the bite of female mosquitoes of the genus <em>Anopheles</em>; <em>P. falciparum</em> can cause severe malaria because it multiples rapidly in the blood, and can thus cause severe blood loss (anemia); in addition, the infected parasites can clog small blood vessels; when this occurs in the brain, cerebral malaria results, a complication that can be fatal; seek medical care if you develop fever, chills, sweats, headache, vomiting, or body aches; malaria is a medical emergency, and appropriate treatment should not be delayed (see attached map)<br>
 
 **Obesity - adult prevalence rate**<br>
 25.7% (2016)<br>
@@ -278,6 +279,7 @@ _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 _degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever<br>
+<strong>note: </strong>on 17 April 2023, the Centers for Disease Control and Prevention (CDC) issued a Travel Alert for an outbreak of <em>Plasmodium falciparum</em> malaria in the province of Limón, Costa Rica; there is also malaria transmission in Alajuela Province; public health authorities in Costa Rica are responding to this outbreak by enhancing malaria surveillance; CDC now recommends malaria chemoprohylaxis for travelers visiting Limón and Alajuela Provinces in Costa Rica prior to travel; the parasite <em>P. falciparum</em>, which is found worldwide in tropical and subtropical areas is spread through the bite of female mosquitoes of the genus <em>Anopheles</em>; <em>P. falciparum</em> can cause severe malaria because it multiples rapidly in the blood, and can thus cause severe blood loss (anemia); in addition, the infected parasites can clog small blood vessels; when this occurs in the brain, cerebral malaria results, a complication that can be fatal; seek medical care if you develop fever, chills, sweats, headache, vomiting, or body aches; malaria is a medical emergency, and appropriate treatment should not be delayed (see attached map)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.46 million tons (2014 est.)<br>
@@ -491,8 +493,8 @@ _highest 10%_: 36.9% (2014 est.)<br>
 0.86% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $8.357 billion (2017 est.)<br>
-_expenditures_: $11.92 billion (2017 est.)<br>
+_revenues_: $9.664 billion (2019 est.)<br>
+_expenditures_: $14.001 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -6.1% (of GDP) (2017 est.)<br>

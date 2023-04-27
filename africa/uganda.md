@@ -507,8 +507,8 @@ _highest 10%_: 36.1% (2009 est.)<br>
 4.06% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $3.848 billion (2017 est.)<br>
-_expenditures_: $4.928 billion (2017 est.)<br>
+_revenues_: $5.088 billion (2019 est.)<br>
+_expenditures_: $6.896 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -4.1% (of GDP) (2017 est.)<br>
@@ -743,6 +743,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 867,391 (South Sudan) (refugees and asylum seekers), 483,718 (Democratic Republic of the Congo), 70,020 (Somalia), 41,235 (Burundi), 27,605 (Eritrea), 23,290 (Rwanda), 5,450 (Ethiopia) (2023)<br>
+_refugees (country of origin)_: 867,391 (South Sudan) (refugees and asylum seekers), 487,044 (Democratic Republic of the Congo), 70,020 (Somalia), 41,235 (Burundi), 27,605 (Eritrea), 23,290 (Rwanda), 5,450 (Ethiopia) (2023)<br>
 _stateless persons_: 67,000 (2022)<br>
 

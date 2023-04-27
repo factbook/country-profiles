@@ -510,8 +510,8 @@ _highest 10%_: 31.5% (2009 est.)<br>
 1.5% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $69.23 billion (2017 est.)<br>
-_expenditures_: $85.12 billion (2017 est.)<br>
+_revenues_: $104.689 billion (2020 est.)<br>
+_expenditures_: $128.581 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.5% (of GDP) (2017 est.)<br>
@@ -724,11 +724,11 @@ Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Th
 <strong>note 1:</strong> the ISOC oversees counter-insurgency operations, as well as countering terrorism, narcotics and weapons trafficking, and other internal security duties; it is primarily run by the Army<br><br><strong>note 2:</strong> official paramilitary forces in Thailand include the Thai Rangers (Thahan Phran or "Hunter Soldiers") under the Army; the Paramilitary Marines under the Navy; the Border Patrol Police (BPP) under the Royal Thai Police; the Volunteer Defense Corps (VDC or <em>O So</em>) and National Defense Volunteers (NDV), both under the Ministry of Interior; there are also several government-backed volunteer militias created to provide village security against insurgents in the deep south or to assist the ISOC<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2021 est.)<br>
+1.2% of GDP (2022 est.)<br>
+1.3% of GDP (2021)<br>
 1.4% of GDP (2020)<br>
 1.3% of GDP (2019)<br>
 1.3% of GDP (2018)<br>
-1.4% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 300,000 active duty personnel (200,000 Army; 70,000 Navy; 30,000 Air Force); approximately 230,000 Royal Thai Police (2022)<br>

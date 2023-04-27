@@ -314,7 +314,7 @@ _elections/appointments_: the monarchy is hereditary but can be removed by a two
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Chi Tshog consists of:<br>non-partisan National Council or Gyelyong Tshogde (25 seats; 20 members directly elected in single-seat constituencies by simple majority vote and 5 members appointed by the king; members serve 5-year terms)<br>National Assembly or Tshogdu (47 seats; members directly elected in single-seat constituencies in a two-round majoritarian voting system; members serve 5-year terms)<br>
-_elections_: <br>National Council election last held on 20 April 2018 (next to be held in April 2023)<br>National Assembly - first round held on 15 September 2018 and second round held on 18 October 2018 (next to be held in 2023)<br>
+_elections_: <br>National Council election last held on 20 April 2018 (next to be held on 30 April 2023)<br>National Assembly - first round held on 15 September 2018 and second round held on 18 October 2018 (next to be held in October 2023)<br>
 _election results_: <br>National Council - seats by party - independent 20 (all candidates ran as independents) and 5 appointed by the king; composition - men 23, women 2, percent of women 8%<br>National Assembly - first round - percent of vote by party - DNT 31.9%, DPT 30.9%, PDP 27.4%, BKP 9.8%; second round - percent of vote by party -  NA; seats by party - DNT 30, DPT 17; composition - men 40, women 7, percent of women 14.9%; note - total Parliament percent of women 12.5%<br>
 
 **Judicial branch**<br>
@@ -438,8 +438,8 @@ _highest 10%_: 30.6% (2012)<br>
 2.38% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $655.3 million (2017 est.)<br>
-_expenditures_: $737.4 million (2017 est.)<br>
+_revenues_: $710 million (2020 est.)<br>
+_expenditures_: $777 million (2020 est.)<br>
 <strong>note:</strong> the Government of India finances nearly one-quarter of Bhutan's budget expenditures<br>
 
 **Budget surplus (+) or deficit (-)**<br>

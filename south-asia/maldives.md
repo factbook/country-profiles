@@ -335,7 +335,7 @@ _election results_: <em>2018:</em> Ibrahim Mohamed SOLIH elected president (in s
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or People's Majlis (87 seats - includes 2 seats added by the Elections Commission in late 2018; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: last held on&nbsp;6 April 2019&nbsp;(next to be held in 2023)<br>
+_elections_: last held on 6 April 2019 (next to be held in April 2024)<br>
 _election results_: percent of vote - MDP 44.7%, JP 10.8%, PPM 8.7%, PNC 6.4%, MDA 2.8%, other 5.6%, independent 21%; seats by party - MDP 65, JP 5, PPM 5, PNC 3, MDA 2, independent 7; composition - men 83, women 4, percent of women 4.6%<br>
 
 **Judicial branch**<br>
@@ -461,8 +461,8 @@ _highest 10%_: 33.3% (FY09/10)<br>
 0.08% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $1.19 billion (2016 est.)<br>
-_expenditures_: $1.643 billion (2016 est.)<br>
+_revenues_: $993 million (2020 est.)<br>
+_expenditures_: $1.797 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -10.1% (of GDP) (2016 est.)<br>

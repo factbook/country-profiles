@@ -384,8 +384,8 @@ _highest 10%_: 28.2% (2009 est.)<br>
 18.4% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $1.314 billion (2017 est.)<br>
-_expenditures_: $1.278 billion (2017 est.)<br>
+_revenues_: $3.803 billion (2020 est.)<br>
+_expenditures_: $5.002 billion (2020 est.)<br>
 <strong>note:</strong> includes Palestinian Authority expenditures in the Gaza Strip<br>
 
 **Budget surplus (+) or deficit (-)**<br>
@@ -568,7 +568,7 @@ the security services are armed mostly with small arms and light weapons, althou
 not available<br>
 
 **Military - note**<br>
-the Israel Defense Forces (IDF) are responsible for the West Bank, but PA security forces were granted security control of 17.5% (called Area A) under the 1993 Oslo Accords; the PA has administrative control over Area B (about 22% of the West Bank), but security control is shared with Israeli authorities; Israel maintains all administrative and security control of Area C, which comprises about 61% of the West Bank (2022)<br>
+the Israel Defense Forces (IDF) are responsible for the West Bank, but PA security forces were granted security control of 17.5% (called Area A) under the 1993 Oslo accords; the PA has administrative control over Area B (about 22% of the West Bank), but security control is shared with Israeli authorities; Israel maintains all administrative and security control of Area C, which comprises about 61% of the West Bank (2023)<br>
 
 ## Terrorism
 

@@ -365,7 +365,7 @@ _FAX_: [1] (202) 328-2860<br>
 _email address and website_: <br>embassy.usa@mfa.gov.lv<br><br>https://www2.mfa.gov.lv/en/usa<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Designate Christopher ROBINSON<br>
+_chief of mission_: Ambassador Christopher ROBINSON (since 21 Feburary 2023)<br>
 _embassy_: 1 Samnera Velsa Street (former Remtes), Riga LV-1510<br>
 _mailing address_: 4520 Riga Place, Washington DC&nbsp; 20521-4520<br>
 _telephone_: [371] 6710-7000<br>
@@ -483,8 +483,8 @@ _highest 10%_: 26.3% (2015)<br>
 3.33% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $11.39 billion (2017 est.)<br>
-_expenditures_: $11.53 billion (2017 est.)<br>
+_revenues_: $12.931 billion (2020 est.)<br>
+_expenditures_: $14.242 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.5% (of GDP) (2017 est.)<br>
@@ -721,7 +721,7 @@ Latvia became a member of NATO in 2004 <br><br>since 2017, Latvia has hosted a C
 <p><em>Latvia-Belarus</em>: Belarus and Latvia signed joint demarcation map in September 2008</p> <p><em>Latvia-Estonia</em>: demarcation reportedly completed in 1998</p> <p><em>Latvia-Lithuania</em>: boundary demarcation was completed by the end of 1998; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights</p> <p><em>Latvia-Russia</em>: Russia demands better Latvian treatment of ethnic Russians in Latvia; in March 2007, Latvia and Russia signed a border treaty, which includes Latvia withdrawing claims to a district now in Russia that was part of Latvia before WWII; the permanent demarcation of the boundary between Latvia and Russia was completed and came into force in April 2018; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 32,488 (Ukraine) (as of 3 April 2023)<br>
+_refugees (country of origin)_: 32,380 (Ukraine) (as of 11 April 2023)<br>
 _stateless persons_: 195,354 (2022); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
 
 **Illicit drugs**<br>

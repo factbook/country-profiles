@@ -490,8 +490,8 @@ _highest 10%_: 38.4% (2014)<br>
 21.53% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $4.658 billion (2017 est.)<br>
-_expenditures_: $5.283 billion (2017 est.)<br>
+_revenues_: $6.476 billion (2019 est.)<br>
+_expenditures_: $6.454 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.7% (of GDP) (2017 est.)<br>
@@ -520,7 +520,7 @@ $7.243 billion (2019 est.)<br>
 United States 53%, El Salvador 8%, Guatemala 5%, Nicaragua 5% (2019)<br>
 
 **Exports - commodities**<br>
-clothing and apparel, coffee, insulated wiring, bananas, palm oil (2019)<br>
+clothing and apparel, coffee, insulated wiring, palm oil, shrimp, gold, bananas (2021)<br>
 
 **Imports**<br>
 $14.495 billion (2021 est.) note: data are in current year dollars<br>
@@ -714,7 +714,7 @@ the FFAA's inventory is comprised of mostly older imported equipment from Israel
 <strong>note: </strong>as of 2017, women made up over 4% of the active duty military<br>
 
 **Military - note**<br>
-the armed forces, including the PMOP, are subordinate to the Secretariat of Defense, while the HNP reports to the Secretariat of Security; the National Interinstitutional Security Force is an interagency command that coordinates the overlapping responsibilities of the HNP, PMOP, National Intelligence Directorate, and Public Ministry (public prosecutor) but exercises coordination, command, and control responsibilities only during interagency operations involving those forces (2022)<br>
+the armed forces, including the PMOP, are subordinate to the Secretariat of Defense, while the HNP reports to the Secretariat of Security; the National Interinstitutional Security Force is an interagency command that coordinates the overlapping responsibilities of the HNP, PMOP, National Intelligence Directorate, and Public Ministry (public prosecutor) but exercises coordination, command, and control responsibilities only during interagency operations involving those forces (2023)<br>
 
 ## Transnational Issues
 

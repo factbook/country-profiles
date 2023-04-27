@@ -398,7 +398,7 @@ _FAX_: [1] (202) 265-1937<br>
 _email address and website_: <br>info@chadembassy.us<br><br>https://chadembassy.us/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Chargé d'Affaires Ellen THORBURN (since 8 November 2021)<br>
+_chief of mission_: Ambassador Alexander LASKARIS (since 18 August 2022)<br>
 _embassy_: Rond-Point Chagoua, B.P. 413, N&rsquo;Djamena<br>
 _mailing address_: 2410 N'Djamena Place, Washington DC&nbsp; 20521-2410<br>
 _telephone_: [235] 2251-5017<br>
@@ -507,8 +507,8 @@ _highest 10%_: 30.8% (2003)<br>
 0% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $1.337 billion (2017 est.)<br>
-_expenditures_: $1.481 billion (2017 est.)<br>
+_revenues_: $2.29 billion (2020 est.)<br>
+_expenditures_: $2.12 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.5% (of GDP) (2017 est.)<br>

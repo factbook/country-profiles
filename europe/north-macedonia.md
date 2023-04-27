@@ -347,7 +347,7 @@ _judge selection and term of office_: Supreme Court judges nominated by the Judi
 _subordinate courts_: Courts of Appeal; Basic Courts<br>
 
 **Political parties and leaders**<br>
-Alliance for Albanians or AfA [Ziadin SELA]<br>Alternative (Alternativa) [Afrim GASHI]<br>Besa Movement [Bilal KASAMI]<br>Democratic Party of Albanians or PDSh [Menduh THACI]<br>Democratic Union for Integration or BDI [Ali AHMETI]<br>Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity or VMRO-DPMNE [Hristijan MICKOSKI]<br>Internal Macedonian Revolutionary Organization - People's Party or VMRO-NP [Ljubco GEORGIEVSKI]<br>Liberal Democratic Party or LDP [Goran MILEVSKI]<br>Renewal (VMRO-DPMNE coalition) [Maja MORACHANIN]<br>Social Democratic Union of Macedonia or SDSM [Dimitar KOVACHEVSKI]<br>The Left (Levica) [Dimitar APASIEV]<br>Turkish Democratic Party of DPT [Beycan ILYAS]<br>We Can (coalition includes SDSM/Besa/VMRO-NP, DPT, LDP)<br>
+Alliance for Albanians or AfA [Ziadin SELA]<br>Alternative (Alternativa) [Afrim GASHI]<br>Besa Movement [Bilal KASAMI]<br>Democratic Party of Albanians or PDSh [Menduh THACI]<br>Democratic Union for Integration or BDI [Ali AHMETI]<br>Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity or VMRO-DPMNE [Hristijan MICKOSKI]<br>Internal Macedonian Revolutionary Organization - People's Party or VMRO-NP [Ljubco GEORGIEVSKI]<br>Liberal Democratic Party or LDP [Goran MILEVSKI]<br>Renewal [Maja MORACHANIN]<br>Social Democratic Union of Macedonia or SDSM [Dimitar KOVACHEVSKI]<br>The Left (Levica) [Dimitar APASIEV]<br>Turkish Democratic Party of DPT [Beycan ILYAS]<br>We Can (coalition includes SDSM/Besa/VMRO-NP, DPT, LDP)<br>
 
 **International organization participation**<br>
 BIS, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIF, OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -362,7 +362,7 @@ _email address and website_: <br>washington@mfa.gov.mk<br>
 _consulate(s) general_: Chicago, Detroit, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Kate Marie BYRNES (since 12 July 2019)<br>
+_chief of mission_: Ambassador Angela AGGELER (since 8 November 2022)<br>
 _embassy_: Str. Samoilova, Nr. 21, 1000 Skopje<br>
 _mailing address_: 7120 Skopje Place, Washington, DC 20521-7120<br>
 _telephone_: [389] (2) 310-2000<br>
@@ -479,8 +479,8 @@ _highest 10%_: 25% (2015 est.)<br>
 2.52% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $3.295 billion (2017 est.)<br>
-_expenditures_: $3.605 billion (2017 est.)<br>
+_revenues_: $3.505 billion (2020 est.)<br>
+_expenditures_: $4.5 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.7% (of GDP) (2017 est.)<br>
@@ -683,7 +683,7 @@ the military's inventory consists mostly of Soviet-era equipment, although in re
 <strong>note:</strong> as of 2023, women made up about 10.6% of the military's full-time personnel<br>
 
 **Military - note**<br>
-North Macedonia became the 30th member of NATO in 2020; as of 2022, Greece provided NATO's air policing mission for North Macedonia<br>
+North Macedonia became the 30th member of NATO in 2020<br>
 
 ## Terrorism
 
@@ -697,7 +697,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,562 (Ukraine) (as of 3 April 2023)<br>
+_refugees (country of origin)_: 6,615 (Ukraine) (as of 9 April 2023)<br>
 _stateless persons_: 521 (2022)<br>
 <strong>note:</strong> 553,109 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 

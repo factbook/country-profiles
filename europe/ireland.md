@@ -472,8 +472,8 @@ _highest 10%_: 27.2% (2000)<br>
 0.15% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $86.04 billion (2017 est.)<br>
-_expenditures_: $87.19 billion (2017 est.)<br>
+_revenues_: $99.784 billion (2019 est.)<br>
+_expenditures_: $97.713 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.3% (of GDP) (2017 est.)<br>
@@ -504,7 +504,7 @@ $502.313 billion (2019 est.)<br>
 United States 28%, Belgium 10%, Germany 10%, UK 9%, China 5%, Netherlands 5% (2019)<br>
 
 **Exports - commodities**<br>
-medical cultures/vaccines, nitrogen compounds, packaged medicines, integrated circuits, scented mixtures (2019)<br>
+vaccines and cultures, packaged medicines, nitrogen compounds, integrated circuits, scented mixtures, medical instruments (2021)<br>
 
 **Imports**<br>
 $477.544 billion (2021 est.) note: data are in current year dollars<br>
@@ -681,11 +681,11 @@ _river port(s)_: Cork (Lee), Waterford (Suir)<br>
 Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Reserve Defense Forces (2022)<br>
 
 **Military expenditures**<br>
+0.3% of GDP (2022)<br>
 0.3% of GDP (2021)<br>
 0.3% of GDP (2020)<br>
 0.3% of GDP (2019)<br>
 0.3% of GDP (2018)<br>
-0.3% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 8,500 active duty personnel (6,800 Army; 900 Naval Service; 800 Air Corps) (2022)<br>
@@ -715,7 +715,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 78,121 (Ukraine) (as of 14 March 2023)<br>
+_refugees (country of origin)_: 80,540 (Ukraine) (as of 9 April 2023)<br>
 _stateless persons_: 7 (2022)<br>
 
 **Illicit drugs**<br>

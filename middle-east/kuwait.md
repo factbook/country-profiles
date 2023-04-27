@@ -340,7 +340,7 @@ _elections/appointments_: amir chosen from within the ruling family, confirmed b
 _description_: unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&nbsp;appointed by the amir; members serve 4-year terms)<br>
 _elections_: last held on 29 September 2022 (next to be held in 2026)<br>
 _election results_: 50 nonpartisans elected, of which 28 were opposition candidates; composition - men 48, women 2, percent of women 4%<br>
-<strong>Note</strong>: the Kuwait Constitutional Court, on 19 March 2023, annulled the 29 September 2022 National Assembly election and ordered reinstatement of the previous Assembly<br>
+<strong>Note</strong>: on 17 April 2023, Crown Prince Mishal al-AHMAD al-Sabah dissolved the National Assembly, which had been reinstated in March at the direction of the Constitutional Court, following its annulment of the September 2022 election<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Constitutional Court (consists of 5 judges); Supreme Court or Court of Cassation (organized into several circuits, each with 5 judges)<br>
@@ -473,8 +473,8 @@ _highest 10%_: NA<br>
 0.02% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $50.5 billion (2017 est.)<br>
-_expenditures_: $62.6 billion (2017 est.)<br>
+_revenues_: $77.988 billion (2019 est.)<br>
+_expenditures_: $72.03 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -10% (of GDP) (2017 est.)<br>

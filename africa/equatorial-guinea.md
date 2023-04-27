@@ -190,7 +190,7 @@ _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 27 March 2023, the Centers for Disease Control and Prevention (CDC) issued a Travel Alert for Equatorial Guinea for an outbreak of Marburg virus disease; Marburg is a viral hemorrhagic fever spread by contact with blood or body fluids of a person infected with or who has died from Marburg; it is also spread by contact with contaminated objects (such as clothing, bedding, needles, and medical equipment) or by contact with animals, such as bats and nonhuman primates, who are infected with Marburg virus; infection with Marburg virus is often fatal and there are no approved vaccines or treatments for Marburg; avoid non-essential travel to the provinces where the outbreak is occurring; watch your health for symptoms of Marburg while in the outbreak area and for 21 days after leaving the outbreak area; consult the Centers for Disease Control and Prevention (CDC) Travel Health Notices for additional guidance<br>
+<strong>note: </strong>on 27 March 2023, the Centers for Disease Control and Prevention (CDC) issued a Travel Alert for Equatorial Guinea for an outbreak of Marburg virus disease; Marburg is a viral hemorrhagic fever spread by contact with blood or body fluids of a person infected with or who has died from Marburg; it is also spread by contact with contaminated objects (such as clothing, bedding, needles, and medical equipment) or by contact with animals, such as bats and nonhuman primates, who are infected with Marburg virus; infection with Marburg virus is often fatal and there are no approved vaccines or treatments for Marburg; avoid non-essential travel to the provinces where the outbreak is occurring; watch your health for symptoms of Marburg while in the outbreak area and for 21 days after leaving the outbreak area; consult the Centers for Disease Control and Prevention (CDC) Travel Health Notices for additional guidance (see attached map)<br>
 
 **Obesity - adult prevalence rate**<br>
 8% (2016)<br>
@@ -262,7 +262,7 @@ _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 27 March 2023, the Centers for Disease Control and Prevention (CDC) issued a Travel Alert for Equatorial Guinea for an outbreak of Marburg virus disease; Marburg is a viral hemorrhagic fever spread by contact with blood or body fluids of a person infected with or who has died from Marburg; it is also spread by contact with contaminated objects (such as clothing, bedding, needles, and medical equipment) or by contact with animals, such as bats and nonhuman primates, who are infected with Marburg virus; infection with Marburg virus is often fatal and there are no approved vaccines or treatments for Marburg; avoid non-essential travel to the provinces where the outbreak is occurring; watch your health for symptoms of Marburg while in the outbreak area and for 21 days after leaving the outbreak area; consult the Centers for Disease Control and Prevention (CDC) Travel Health Notices for additional guidance<br>
+<strong>note: </strong>on 27 March 2023, the Centers for Disease Control and Prevention (CDC) issued a Travel Alert for Equatorial Guinea for an outbreak of Marburg virus disease; Marburg is a viral hemorrhagic fever spread by contact with blood or body fluids of a person infected with or who has died from Marburg; it is also spread by contact with contaminated objects (such as clothing, bedding, needles, and medical equipment) or by contact with animals, such as bats and nonhuman primates, who are infected with Marburg virus; infection with Marburg virus is often fatal and there are no approved vaccines or treatments for Marburg; avoid non-essential travel to the provinces where the outbreak is occurring; watch your health for symptoms of Marburg while in the outbreak area and for 21 days after leaving the outbreak area; consult the Centers for Disease Control and Prevention (CDC) Travel Health Notices for additional guidance (see attached map)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 198,443 tons (2016 est.)<br>
@@ -449,8 +449,8 @@ _highest 10%_: NA<br>
 0% of GDP (2017 est.)<br>
 
 **Budget**<br>
-_revenues_: $2.114 billion (2017 est.)<br>
-_expenditures_: $2.523 billion (2017 est.)<br>
+_revenues_: $2.604 billion (2018 est.)<br>
+_expenditures_: $2.535 billion (2018 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.3% (of GDP) (2017 est.)<br>

@@ -491,8 +491,8 @@ _highest 10%_: 21.9% (2008)<br>
 2.2% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $22.15 billion (2017 est.)<br>
-_expenditures_: $20.57 billion (2017 est.)<br>
+_revenues_: $24.743 billion (2019 est.)<br>
+_expenditures_: $24.239 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 2.9% (of GDP) (2017 est.)<br>
@@ -702,11 +702,11 @@ _river port(s)_: Mazyr (Prypyats')<br>
 Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force, Special Troops (electronic warfare, signals, engineers, biological/chemical/nuclear protection troops, etc); Ministry of Interior: State Border Troops, Militia, Internal Troops (2022)<br>
 
 **Military expenditures**<br>
+1.1% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
 1.5% of GDP (2020 est.)<br>
 1.5% of GDP (2019 est.) (approximately $2.11 billion)<br>
 1.5% of GDP (2018 est.) (approximately $2.05 billion)<br>
-1.5% of GDP (2017 est.) (approximately $1.98 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 45,000 active duty troops; information on the individual services varies, but reportedly includes about 25,000 Army, 15,000 Air/Air Defense, and 5,000 Special Operations forces (2022)<br>
@@ -719,7 +719,7 @@ the military's inventory is comprised mostly of Russian/Soviet-origin equipment,
 <strong>note:</strong> conscripts can be assigned to the military, to the Ministry of Interior as internal or border troops, or to the Ministry of Labor and Social Protection (alternative service); as of 2020, conscripts comprised an estimated 40% of the military<br>
 
 **Military - note**<br>
-Belarus has close security ties with Russia, including an integrated air and missile defense system, joint training exercises, and the establishment of three joint training centers since 2020 (1 in Belarus, 2 in Russia); Russia has been the principal supplier of arms to Belarus, and Belarusian troops reportedly train on Russian equipment; Russia leases from Belarus a strategic ballistic missile defense site operated by Russian Aerospace Forces and a global communications facility for the Russian Navy; in 2020, the countries signed an agreement allowing for close security cooperation between the Belarusian Ministry of Interior and the Russian National Guard, including protecting public order and key government facilities, and combating extremism and terrorism; in 2022, Belarus allowed Russian military forces to stage on its territory for its invasion of Ukraine<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes an airborne brigade to CSTO's rapid reaction force (KSOR) (2022)<br>
+Belarus has close security ties with Russia, including an integrated air and missile defense system, joint training exercises, and the establishment of three joint training centers since 2020 (1 in Belarus, 2 in Russia); Russia has been the principal supplier of arms to Belarus, and Belarusian troops reportedly train on Russian equipment; Russia leases from Belarus a strategic ballistic missile defense site operated by Russian Aerospace Forces and a global communications facility for the Russian Navy; in 2020, the countries signed an agreement allowing for close security cooperation between the Belarusian Ministry of Interior and the Russian National Guard, including protecting public order and key government facilities, and combating extremism and terrorism; in 2022, Belarus allowed Russian military forces to stage on its territory for its invasion of Ukraine and continues to supply arms and other aid to the Russian military<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes an airborne brigade to CSTO's rapid reaction force (KSOR) (2023)<br>
 
 ## Transnational Issues
 

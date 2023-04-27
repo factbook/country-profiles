@@ -342,7 +342,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em>2018:</em> Salome ZOURABICHVILI elected president in runoff; percent of vote - Salome ZOURABICHVILI (independent, backed by Georgian Dream) 59.5%, Grigol VASHADZE (UNM) 40.5%; Irakli GARIBASHVILI approved as prime minister by Parliamentary vote 89-2<br><br><em>2013:</em> Giorgi MARGVELASHVILI elected president (Georgian Dream) 62.1%, David BAKRADZE (ENM) 21.7%, Nino BURJANADZE (DM-UG) 10.2%, other 6%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Sakartvelos Parlamenti (150 seats statutory, 144 current; 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)<br>
+_description_: unicameral Parliament or Sakartvelos Parlamenti (150 seats statutory, 139 current; 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)<br>
 _elections_: last held on 31 October and 21 November 2020 (next to be held in October 2024)<br>
 _election results_: percent of vote by party - Georgian Dream 48.2%, UNM 27.2%, European Georgia 3.8%, Lelo 3.2%, Strategy 3.2%, Alliance of Patriots 3.1%, Girchi 2.9%, Citizens 1.3%, Labor 1%; seats by party - Georgian Dream 90, UNM 36, European Georgia 5, Lelo 4, Strategy 4, Alliance of Patriots 4, Girchi 4, Citizens 2, Labor 1; composition (as of October 2021) - men 117, women 27, percent of women 18.8%<br>
 
@@ -352,7 +352,7 @@ _judge selection and term of office_: Supreme Court judges nominated by the High
 _subordinate courts_: Courts of Appeal; regional (town) and district courts<br>
 
 **Political parties and leaders**<br>
-Alliance of Patriots [Irma INASHVILI]<br>Citizens Party [Aleko ELISASHVILI]<br>Democratic Movement-United Georgia or DM-UC [Nino BURJANADZE] <br>European Georgia-Movement for Liberty [Giga BOKERIA]<br>European Socialists [Fridon INJIA]<br>For Georgia [Giorgi GAKHARIA]<br>Georgian Dream-Democratic Georgia [Irakli KOBAKHIDZE]<br>Girchi-More Freedom [Zurab JAPARIDZE]<br>Labor Party [Shalva NATELASHVILI]<br>Lelo for Georgia [Mamuka KHAZARADZE]<br>New Political Centre-Girchi [Iago KHVICHIA]<br>Republican Party [Khatuna SAMNIDZE]<br>Strategy Aghmashenebeli [Giorgi VASHADZE]<br>United National Movement or UNM [Nikanor "Nika" MELIA]<br>
+Alliance of Patriots [Davit TARKHAN-MOURAVI]<br>Citizens Party [Aleko ELISASHVILI]<br>Democratic Movement-United Georgia or DM-UC [Nino BURJANADZE] <br>European Georgia-Movement for Liberty [Giga BOKERIA]<br>European Socialists [Fridon INJIA]<br>For Georgia [Giorgi GAKHARIA]<br>Georgian Dream-Democratic Georgia [Irakli KOBAKHIDZE]<br>Girchi-More Freedom [Zurab JAPARIDZE]<br>Labor Party [Shalva NATELASHVILI]<br>Lelo for Georgia [Mamuka KHAZARADZE]<br>New Political Centre-Girchi [Iago KHVICHIA]<br>Republican Party [Khatuna SAMNIDZE]<br>Strategy Aghmashenebeli [Giorgi VASHADZE]<br>United National Movement or UNM [Levan KHABEISHVILI]<br>
 
 **International organization participation**<br>
 ADB, BSEC, CD, CE, CPLP (associate), EAPC, EBRD, FAO, G-11, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OIF (observer), OPCW, OSCE, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -367,7 +367,7 @@ _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Kelly C. DEGNAN (since 31 January 2020)<br>
-_embassy_: 11 Georgian-American Friendship Avenue, Didi Dighomi, Tbilisi, 0131<br>
+_embassy_: 29 Georgian-American Friendship Avenue, Didi Dighomi, Tbilisi, 0131<br>
 _mailing address_: 7060 Tbilisi Place, Washington, DC&nbsp; 20521-7060<br>
 _telephone_: [995] (32) 227-70-00<br>
 _FAX_: [995] (32) 253-23-10<br>
@@ -484,8 +484,8 @@ _highest 10%_: 31.3% (2008)<br>
 12.93% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $4.352 billion (2017 est.)<br>
-_expenditures_: $4.925 billion (2017 est.)<br>
+_revenues_: $4.737 billion (2019 est.)<br>
+_expenditures_: $5.059 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.8% (of GDP) (2017 est.)<br>
@@ -691,11 +691,11 @@ _major seaport(s)_: Black Sea - Batumi, Poti<br>
 Georgian Defense Forces: Land Forces (includes Aviation and Air Defense Forces), Special Operations Forces, National Guard; Ministry of Internal Affairs: Border Police, Coast Guard (includes Georgian naval forces, which were merged with the Coast Guard in 2009) (2022)<br>
 
 **Military expenditures**<br>
+1.4% of GDP (2022 est.)<br>
 1.7% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
 1.8% of GDP (2019)<br>
 1.9% of GDP (2018)<br>
-1.9% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 30,000 troops, including active National Guard forces (2022)<br>
@@ -717,7 +717,7 @@ as of 2022, up to 10,000 Russian troops continued to occupy the breakaway region
 <p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 25,101 (Ukraine) (as of 24 January 2023)<br>
+_refugees (country of origin)_: 24,182 (Ukraine) (as of 6 April 2023)<br>
 _IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2021)<br>
 _stateless persons_: 530 (2022)<br>
 

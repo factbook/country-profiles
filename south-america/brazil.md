@@ -518,8 +518,8 @@ _highest 10%_: 43.4% (2016 est.)<br>
 0.17% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $733.7 billion (2017 est.)<br>
-_expenditures_: $756.3 billion (2017 est.)<br>
+_revenues_: $424.196 billion (2020 est.)<br>
+_expenditures_: $617.332 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.1% (of GDP) (2017 est.)<br>
@@ -754,7 +754,7 @@ the Brazilian military's inventory consists of a mix of domestically-produced an
 <strong>note:</strong> in 2020, women comprised approximately 9% of the Brazilian military<br>
 
 **Military - note**<br>
-the origins of Brazil's military stretch back to the 1640s<br><br>the three national police forces – the Federal Police, Federal Highway Police, and Federal Railway Police – have domestic security responsibilities and report to the Ministry of Justice and Public Security (Ministry of Justice); there are two distinct units within the state police forces: the civil police, which performs an investigative role, and the military police, charged with maintaining law and order in the states and the Federal District; despite the name, military police forces report to the Ministry of Justice, not the Ministry of Defense; the National Public Security Force (Forca Nacional de Seguranca Publica or SENASP) is a national police force made up of Military Police from various states; the armed forces also have some domestic security responsibilities and report to the Ministry of Defense<br><br>Brazil has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2023)<br>
+the origins of Brazil's military stretch back to the 1640s<br><br>the three national police forces – the Federal Police, Federal Highway Police, and Federal Railway Police – have domestic security responsibilities and report to the Ministry of Justice and Public Security (Ministry of Justice); there are two distinct units within the state police forces: the civil police, which performs an investigative role, and the military police, charged with maintaining law and order in the states and the Federal District; despite the name, military police forces report to the Ministry of Justice, not the Ministry of Defense; the National Public Security Force (Forca Nacional de Seguranca Publica or SENASP) is a national police force made up of Military Police from various states; the armed forces also have some domestic security responsibilities and report to the Ministry of Defense<br><br>Brazil has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Brazil are a risk for armed robbery against ships; in 2022, five attacks against commercial vessels were reported, an increase from the three attacks in 2021; all of these occurred in the port of Macapa while ships were berthed or at anchor<br>

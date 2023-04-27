@@ -353,7 +353,7 @@ _FAX_: [1] (202) 966-0983<br>
 _email address and website_: <br>mauritius.embassy@verizon.net; washingtonemb@govmu.org<br><br>https://mauritius-washington.govmu.org/Pages/index.aspx<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Judes E. DEBAERE (since June 2019); note - also accredited to Seychelles<br>
+_chief of mission_: Ambassador Henry V. JARDINE (since 22 February 2023); note - also accredited to Seychelles<br>
 _embassy_: 4th Floor, Rogers House, John Kennedy Avenue, Port Louis<br>
 _mailing address_: 2450 Port Louis Place, Washington, DC 20521-2450<br>
 _telephone_: [230] 202-4400<br>
@@ -466,8 +466,8 @@ _highest 10%_: NA<br>
 2.21% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $2.994 billion (2017 est.)<br>
-_expenditures_: $3.038 billion (2017 est.)<br>
+_revenues_: $2.461 billion (2020 est.)<br>
+_expenditures_: $3.675 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.3% (of GDP) (2017 est.)<br>

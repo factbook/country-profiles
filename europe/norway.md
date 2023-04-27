@@ -480,8 +480,8 @@ _highest 10%_: 21.2% (2014)<br>
 0.15% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $217.1 billion (2017 est.)<br>
-_expenditures_: $199.5 billion (2017 est.)<br>
+_revenues_: $185.338 billion (2020 est.)<br>
+_expenditures_: $210.522 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 4.4% (of GDP) (2017 est.)<br>
@@ -686,7 +686,7 @@ Norway operates one PC 3 or 4 class icebreaker and one PC 5 or 6 class icebreake
 ## Military and Security
 
 **Military and security forces**<br>
-Norwegian Armed Forces: Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige Norske Sjoeforsvaret; includes Coastal Rangers and Coast Guard (Kystvakt)), Royal Norwegian Air Force (Kongelige Norske Luftforsvaret), Norwegian Special Forces, Norwegian Cyber Defense Force, Home Guard (Heimevernet, HV) (2022)<br>
+Norwegian Armed Forces: Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige Norske Sjoeforsvaret; includes Coastal Rangers and Coast Guard (Kystvakt)), Royal Norwegian Air Force (Kongelige Norske Luftforsvaret), Norwegian Special Forces, Norwegian Cyber Defense Force, Home Guard (Heimevernet, HV) (2023)<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2022 est.)<br>
@@ -696,22 +696,22 @@ Norwegian Armed Forces: Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige
 1.7% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 27,000 active personnel (9,000 Army; 4,300 Navy; 4,700 Air Force; 9,000 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); approximately 40,000 Home Guard (2022)<br>
+approximately 27,000 active personnel (9,000 Army; 4,300 Navy; 4,700 Air Force; 9,000 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); approximately 40,000 Home Guard (2023)<br>
 <strong>note:</strong>  active personnel includes about 10,000 conscripts<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of modern, imported European, US, and domestically produced weapons systems and equipment; in recent years, the US has been the leading supplier of weapons systems to Norway (2022)<br>
+the military's inventory includes a mix of modern, imported European, US, and domestically produced weapons systems and equipment; in recent years, the US has been the leading supplier of weapons systems to Norway (2023)<br>
 
 **Military service age and obligation**<br>
 19-35 years of age for selective compulsory military service for men and women; 17 years of age for male volunteers; 18 years of age for women volunteers; 12-19 month service obligation; conscripts first serve 12 months between the ages of 19 and 28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2023)<br>
 <strong>note 1: </strong>Norway conscripts about 8,000 individuals annually; it has had compulsory military service since 1907<br><br><strong>note 2:</strong> Norway was the first NATO country to allow women to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as Jegertroppen (The Hunter Troop), which was established in 2014; as of 2021, women comprised about 20% of the military's full-time personnel<br><br><strong>note 3:</strong> beginning in 1995, the military began offering Icelandic citizens the opportunity to apply for admission to officer schools in Norway with an associated education and service contract under special reasons and based on recommendations from Icelandic authorities; as early as 1996, Norway and Iceland entered into a cooperation agreement on the voluntary participation of Icelandic personnel in Norwegian force contributions in foreign operations<br>
 
 **Military deployments**<br>
-up to 190 Lithuania (NATO) (2022)<br>
+up to 190 Lithuania (NATO) (2023)<br>
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Norway, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br>the first Norwegian defense organization, the leidangen, was established along the coastline in the 10th century to protect the Norwegian coast (2022)<br>
+Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br>the origins of the Norwegian military go back to the leidangen, defense forces which were established along the coastline in the 10th century to protect the Norwegian coast (2023)<br>
 
 ## Transnational Issues
 
@@ -719,6 +719,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 44,798 (Ukraine) (as of 3 April 2023)<br>
+_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 45,238 (Ukraine) (as of 11 April 2023)<br>
 _stateless persons_: 3,901 (2022)<br>
 

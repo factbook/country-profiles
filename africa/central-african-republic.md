@@ -487,8 +487,8 @@ _lowest 10%_: 2.1%<br>
 _highest 10%_: 33% (2003)<br>
 
 **Budget**<br>
-_revenues_: $282.9 million (2017 est.)<br>
-_expenditures_: $300.1 million (2017 est.)<br>
+_revenues_: $418 million (2019 est.)<br>
+_expenditures_: $385 million (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.9% (of GDP) (2017 est.)<br>
@@ -706,6 +706,6 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,630 (Democratic Republic of Congo) (2023)<br>
+_refugees (country of origin)_: 6,381 (Democratic Republic of Congo) (2023)<br>
 _IDPs_: 482,816 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2022)<br>
 

@@ -92,7 +92,7 @@ Albanian 82.6%, Greek 0.9%, other 1% (including Vlach, Romani, Macedonian, Monte
 
 **Languages**<br>
 Albanian 98.8% (official - derived from Tosk dialect), Greek 0.5%, other 0.6% (including Macedonian, Romani, Vlach, Turkish, Italian, and Serbo-Croatian), unspecified 0.1% (2011 est.)<br>
-_major-language sample(s)_: <br>Libri i fakteve boterore, burim i pa zevendesueshem  per informacione elementare. (Albanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Libri i fakteve boterore, burimi i domosdoshem per informacionin themelore (Albanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 56.7%, Roman Catholic 10%, Orthodox 6.8%, atheist 2.5%, Bektashi (a Sufi order) 2.1%, other 5.7%, unspecified 16.2% (2011 est.)<br>
@@ -488,8 +488,8 @@ _highest 10%_: 19.6% (2015 est.)<br>
 9.56% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $3.614 billion (2017 est.)<br>
-_expenditures_: $3.874 billion (2017 est.)<br>
+_revenues_: $4.19 billion (2019 est.)<br>
+_expenditures_: $4.489 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2% (of GDP) (2017 est.)<br>
@@ -658,6 +658,7 @@ ZA<br>
 _total_: 3<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Pipelines**<br>
 498 km gas (a majority of the network is in disrepair and parts of it are missing), 249 km oil (2015)<br>

@@ -278,9 +278,9 @@ _municipal solid waste generated annually_: 78,620 tons (2010 est.)<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 49.3 million cubic meters (2017 est.)<br>
-_industrial_: 135.5 million cubic meters (2017 est.)<br>
-_agricultural_: 431.1 million cubic meters (2017 est.)<br>
+_municipal_: 50 million cubic meters (2020 est.)<br>
+_industrial_: 140 million cubic meters (2020 est.)<br>
+_agricultural_: 430 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 99 billion cubic meters (2019 est.)<br>
@@ -475,8 +475,8 @@ _highest 10%_: NA<br>
 2.39% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $560.7 million (2017 est.)<br>
-_expenditures_: $827.8 million (2017 est.)<br>
+_revenues_: $863 million (2019 est.)<br>
+_expenditures_: $1.648 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -7.8% (of GDP) (2017 est.)<br>

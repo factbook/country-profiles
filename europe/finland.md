@@ -337,7 +337,7 @@ _residency requirement for naturalization_: 6 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Sauli NIINISTO (since 1 March 2012)<br>
-_head of government_: Prime Minister Petteri ORPO (since 02 April 2023)<br>
+_head of government_: Prime Minister Sanna MARIN (since 10 December 2019)<br>
 _cabinet_: Council of State or Valtioneuvosto appointed by the president, responsible to Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 28 January 2018 (next to be held in January 2024); prime minister appointed by Parliament<br>
 _election results_: <em>2018:</em> Sauli NIINISTO reelected president; percent of vote - Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%<br><br><em>2012: </em>Sauli NIINISTO elected president; percent of vote - Sauli NIINISTO (National Coalition Party) 62.6%, Pekka HAAVISTO (Vihr) 37.4%<br>
@@ -485,8 +485,8 @@ _highest 10%_: 45.2% (2013)<br>
 0.3% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $134.2 billion (2017 est.)<br>
-_expenditures_: $135.6 billion (2017 est.)<br>
+_revenues_: $140.643 billion (2020 est.)<br>
+_expenditures_: $153.635 billion (2020 est.)<br>
 <strong>note:</strong> Central Government Budget data; these numbers represent a significant reduction from previous official reporting<br>
 
 **Budget surplus (+) or deficit (-)**<br>
@@ -726,6 +726,6 @@ Finland joined NATO in April 2023; Finland had been part of NATO’s Partnership
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 47,067 (Ukraine) (as of 27 March 2023)<br>
+_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 47,067 (Ukraine) (as of 10 April 2023)<br>
 _stateless persons_: 3,546 (2022)<br>
 

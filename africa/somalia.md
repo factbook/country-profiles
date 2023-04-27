@@ -281,9 +281,9 @@ _municipal solid waste generated annually_: 2,326,099 tons (2016 est.)<br>
 Ogaden-Juba Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 15 million cubic meters (2017 est.)<br>
+_municipal_: 20 million cubic meters (2020 est.)<br>
 _industrial_: 2 million cubic meters (2017 est.)<br>
-_agricultural_: 3.281 billion cubic meters (2017 est.)<br>
+_agricultural_: 3.28 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 14.7 billion cubic meters (2019 est.)<br>
@@ -665,7 +665,7 @@ Ministry of Defense: Somali National Army (SNA); Ministry of Internal Security: 
 5.9% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 18-20,000 SNA personnel (2023)<br>
+estimates vary; up to 20,000 SNA personnel (2023)<br>
 <strong>note 1:</strong> in January 2023, the Somali Government said the SNA would have 24,000 trained and equipped troops by 2024<br><br><strong>note 2:</strong> as of 2022, there were estimates of up to 50,000 militia forces operating in the country<br>
 
 **Military equipment inventories and acquisitions**<br>

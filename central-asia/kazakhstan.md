@@ -500,8 +500,8 @@ _highest 10%_: 23.3% (2016)<br>
 0.28% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $35.48 billion (2017 est.)<br>
-_expenditures_: $38.3 billion (2017 est.)<br>
+_revenues_: $29.955 billion (2020 est.)<br>
+_expenditures_: $41.994 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.8% (of GDP) (2017 est.)<br>
@@ -714,11 +714,11 @@ Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and A
 <strong>note:</strong> the National Guard is a gendarmerie type force administered by the Ministry of Internal Affairs, but also serves the Ministry of Defense; it is responsible for fighting crime, maintaining public order, and ensuring public safety; other duties include anti-terrorism operations, guarding prisons, riot control, and territorial defense in time of war<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2022 est.)<br>
 1% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
 1.1% of GDP (2019 est.)<br>
 0.9% of GDP (2018 est.)<br>
-0.8% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 40,000 active duty personnel (25,000 Land Forces; 3,000 Naval Forces; 12,000 Air and Air Defense Forces) (2022)<br>

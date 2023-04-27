@@ -361,7 +361,7 @@ _FAX_: [1] (202) 319-1304<br>
 _email address and website_: <br>embassyeritrea@embassyeritrea.org<br><br>https://us.embassyeritrea.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Steven C. WALKER (since December 2019)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Leslie FRERIKSEN (since 18 July 2022)<br>
 _embassy_: 179 Alaa Street, Asmara<br>
 _mailing address_: 7170 Asmara Place, Washington DC&nbsp; 20521-7170<br>
 _telephone_: [291] (1) 12-00-04<br>
@@ -460,8 +460,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: $2.029 billion (2017 est.)<br>
-_expenditures_: $2.601 billion (2017 est.)<br>
+_revenues_: $633 million (2018 est.)<br>
+_expenditures_: $549 million (2018 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -9.8% (of GDP) (2017 est.)<br>

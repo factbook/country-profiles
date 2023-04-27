@@ -504,8 +504,8 @@ _highest 10%_: 25.4% (1994)<br>
 0.13% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $490 billion (2017 est.)<br>
-_expenditures_: $496.9 billion (2017 est.)<br>
+_revenues_: $479.33 billion (2019 est.)<br>
+_expenditures_: $532.579 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.5% (of GDP) (2017 est.)<br>
@@ -735,7 +735,7 @@ Australian Defense Force (ADF): Australian Army, Royal Australian Navy, Royal Au
 approximately 60,000 active troops (30,000 Army; 15,000 Navy; 15,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of domestically-produced and imported Western weapons systems; in recent years, the US has been the largest supplier of arms; the Australian defense industry produces a variety of land and sea weapons platforms; the defense industry also participates in joint development and production ventures with other Western countries, including the US and Canada (2022)<br>
+the military's inventory includes a mix of domestically produced and imported Western weapons systems; in recent years, the US has been the largest supplier of arms; the Australian defense industry produces a variety of land and sea weapons platforms; the defense industry also participates in joint development and production ventures with other Western countries, including the US and Canada (2023)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service (with parental consent); no conscription (abolished 1973); women allowed to serve in all roles, including combat arms, since 2013 (2022)<br>

@@ -494,11 +494,11 @@ _major seaport(s)_: Hercules Port<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Interior: Compagnie des Carabiniers du Prince (Prince’s Company of Carabiniers), Corps des Sapeurs-pompiers de Monaco (Fire and Emergency), Police Department (2022)<br>
+no regular military forces; Ministry of Interior: Compagnie des Carabiniers du Prince (Prince’s Company of Carabiniers), Corps des Sapeurs-pompiers de Monaco (Fire and Emergency), Police Department (2023)<br>
 <strong>note:</strong> the primary responsibility for the Compagnie des Carabiniers du Prince is guarding the palace<br>
 
 **Military service age and obligation**<br>
-the Compagnie des Carabiniers du Prince is staffed by French nationals (2022)<br>
+the Compagnie des Carabiniers du Prince is staffed by French nationals (2023)<br>
 
 **Military - note**<br>
 defense is the responsibility of France<br>

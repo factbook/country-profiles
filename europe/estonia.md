@@ -342,13 +342,13 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Alar KARIS (since 11 October 2021)<br>
 _head of government_: Prime Minister Kaja KALLAS (since 26 January 2021)<br>
 _cabinet_: Cabinet appointed by the prime minister, approved by Parliament<br>
-_elections/appointments_: <p>president indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two thirds of the votes after 3 rounds of balloting, then an electoral college consisting of Parliament members and local council members elects the president, choosing between the 2 candidates with the highest number of votes; election last held on 30-31 August 2021 (next to be held in 2026); in a first round of voting on 30 August, parliament failed to elect a president; in a second round on 31 August, the sole candidate, Alar KARIS, received 72 votes of 101 votes (there were 8 blank votes and 21 electors not present); prime minister nominated by the president and approved by Parliament</p><br>
-_election results_: <p><em>2021</em>: Alar KARIS elected president; parliamentary vote Alar KARIS (independent) 72 of 101 votes;  KALLAS is Estonia's first female prime minister<br><br><em>2016</em>: Kersti KALJULAID is indirectly elected president with 81 of 98 votes in parliament (17 ballots blank). She is sworn in on October 10 as the first female head of state of Estonia.</p><br>
+_elections/appointments_: <p>president indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two thirds of the votes after 3 rounds of balloting, then an electoral college consisting of Parliament members and local council members elects the president, choosing between the 2 candidates with the highest number of votes; if a president is still not elected, the process begins again; election last held on 30-31 August 2021 (next to be held in 2026); prime minister nominated by the president and approved by Parliament</p><br>
+_election results_: <p><em>2021</em>: Alar KARIS (independent) elected president; second round of voting in parliament with 72 of 101 votes<br><br><em>2016</em>: Kersti KALJULAID is elected president with 81 of 98 votes in parliament (17 ballots blank) in the sixth round of voiting. She is sworn in on October 10 as the first female head of state of Estonia.</p><br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Riigikogu (101 seats; members directly elected in multi-seat constituencies by open- list proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 5 March 2023<br>
-_election results_: percent of vote by party - Reform 31.2%, EKRE 16.1%, Center 15.3%, E200 13.3%, SDE 9.3%, Pro Patria 8.2%, Left 2.4%, Right 2.3%, Greens 1.0%; seats by party - Reform 37, EKRE 17, Center 16, E200 14, SDE 9, Pro Patria 8<br>
+_election results_: <em>2023:</em> percent of vote by party - Reform 31.2%, EKRE 16.1%, Center 15.3%, E200 13.3%, SDE 9.3%, Pro Patria 8.2%, Left 2.4%, Right 2.3%, Greens 1.0%; seats by party - Reform 37, EKRE 17, Center 16, E200 14, SDE 9, Pro Patria 8; composition - men 71, women 30, percent of women 29.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 19 justices, including the chief justice, and organized into civil, criminal, administrative, and constitutional review chambers)<br>
@@ -370,7 +370,7 @@ _email address and website_: <br>Embassy.Washington@mfa.ee<br><br>https://washin
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Designate George P. KENT<br>
+_chief of mission_: Ambassador George P. KENT (since 21 February 2023)<br>
 _embassy_: Kentmanni 20, 15099 Tallinn<br>
 _mailing address_: 4530 Tallinn Place, Washington DC&nbsp; 20521-4530<br>
 _telephone_: [372] 668-8100<br>
@@ -488,8 +488,8 @@ _highest 10%_: 25.6% (2015)<br>
 1.74% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $10.37 billion (2017 est.)<br>
-_expenditures_: $10.44 billion (2017 est.)<br>
+_revenues_: $12.282 billion (2019 est.)<br>
+_expenditures_: $12.269 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.3% (of GDP) (2017 est.)<br>
@@ -716,7 +716,7 @@ the Estonian military has a mix of Soviet-era and more modern equipment, mostly 
 <strong>note 1:</strong> conscripts comprise approximately 3,000-3,300 of the Estonian military's 7,000 active-duty personnel and serve in all branches, except for the Air Force, which does not have conscripts; after conscript service, reservists are called up for training every 5 years; Estonia has had conscription since 1991<br><br><strong>note 2:</strong> the Estonian Defense Forces rely largely on reservists who have completed compulsory conscription in the previous 10 years to fill out its active duty and Territorial Defense units during a crisis; a total of approximately 230,000 Estonians are enrolled in the mobilization registry<br><br><strong>note 3:</strong> in 2020, women comprised about 10% of the full-time professional military force<br>
 
 **Military - note**<br>
-Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a UK-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; NATO has provided air protection for Estonia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014 (2022)<br>
+Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a UK-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; NATO has provided air protection for Estonia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014 (2023)<br>
 
 ## Transnational Issues
 
@@ -724,7 +724,7 @@ Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a 
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 68,930 (Ukraine) (as of 3 April 2023)<br>
+_refugees (country of origin)_: 69,616 (Ukraine) (as of 10 April 2023)<br>
 _stateless persons_: 70,604 (2022); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

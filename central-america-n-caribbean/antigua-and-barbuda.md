@@ -426,8 +426,8 @@ _highest 10%_: NA<br>
 2.19% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $298.2 million (2017 est.)<br>
-_expenditures_: $334 million (2017 est.)<br>
+_revenues_: $278 million (2020 est.)<br>
+_expenditures_: $357 million (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.4% (of GDP) (2017 est.)<br>
@@ -595,6 +595,7 @@ V2<br>
 _total_: 2<br>
 _2,438 to 3,047 m_: 1<br>
 _under 914 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1<br>
@@ -616,7 +617,7 @@ _cruise port(s)_: St. John's<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Antigua and Barbuda Defense Force (ABDF): Coast Guard and the Antigua and Barbuda Regiment (2022)<br>
+Antigua and Barbuda Defense Force (ABDF): Coast Guard and the Antigua and Barbuda Regiment; Royal Police Force of Antigua and Barbuda (2023)<br>
 
 **Military expenditures**<br>
 not available<br>

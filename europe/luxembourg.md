@@ -473,8 +473,8 @@ _highest 10%_: 23.8% (2000)<br>
 2.92% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $27.75 billion (2017 est.)<br>
-_expenditures_: $26.8 billion (2017 est.)<br>
+_revenues_: $31.74 billion (2019 est.)<br>
+_expenditures_: $30.014 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.5% (of GDP) (2017 est.)<br>
@@ -671,7 +671,7 @@ _river port(s)_: Mertert (Moselle)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Luxembourg Army (l'Arm&eacute;e Luxembourgeoise) (2022)<br>
+Luxembourg Army (l'Arm&eacute;e Luxembourgeoise) (2023)<br>
 
 **Military expenditures**<br>
 0.6% of GDP (2022 est.)<br>
@@ -681,17 +681,17 @@ Luxembourg Army (l'Arm&eacute;e Luxembourgeoise) (2022)<br>
 0.5% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 900 active personnel (2022)<br>
+approximately 900 active personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of Luxembourg's Army is a small mix of Western origin equipment (2022)<br>
+the inventory of Luxembourg's Army is a small mix of Western origin equipment (2023)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service for men and women; no conscription (abolished 1969) (2022)<br>
+18-26 years of age for voluntary military service for men and women; no conscription (abolished 1969) (2023)<br>
 <strong>note 1: </strong>since 2003, the Army has allowed EU citizens 18-24 years of age who have been a resident in the country for at least 36 months to volunteer<strong><br><br>note 2:</strong> as of 2019, women made up about 8% of the military's full-time personnel<br>
 
 **Military - note**<br>
-Luxembourg is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries (2022)<br>
+Luxembourg is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries (2023)<br>
 
 ## Transnational Issues
 

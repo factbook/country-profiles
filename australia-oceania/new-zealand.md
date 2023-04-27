@@ -484,8 +484,8 @@ _highest 10%_: NA<br>
 0.22% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $74.11 billion (2017 est.)<br>
-_expenditures_: $70.97 billion (2017 est.)<br>
+_revenues_: $76.694 billion (2020 est.)<br>
+_expenditures_: $88.593 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.6% (of GDP) (2017 est.)<br>
@@ -690,7 +690,7 @@ New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Roya
 note: the New Zealand Police, under the minister of police, are responsible for internal security<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2022 est.)<br>
+1.3% of GDP (2022 est.)<br>
 1.3% of GDP (2021)<br>
 1.5% of GDP (2020)<br>
 1.4% of GDP (2019)<br>

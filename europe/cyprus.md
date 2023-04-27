@@ -90,7 +90,7 @@ Greek (official) 80.9%, Turkish (official) 0.2%, English 4.1%, Romanian 2.9%, Ru
 _major-language sample(s)_: <br>Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών πληροφοριών. (Greek)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Orthodox Christian 89.1%, Roman Catholic 2.9%, Protestant/Anglican 2%, Muslim 1.8%, Buddhist 1%, other (includes Maronite, Armenian Church, Hindu) 1.4%, unknown 1.1%, none/atheist 0.6% (2011 est.)<br>
+Eastern Orthodox Christian 89.1%, Roman Catholic 2.9%, Protestant/Anglican 2%, Muslim 1.8%, Buddhist 1%, other (includes Maronite Catholic, Armenian Apostolic, Hindu) 1.4%, unknown 1.1%, none/atheist 0.6% (2011 est.)<br>
 <strong>note:</strong> data represent only the government-controlled area of Cyprus<br>
 
 **Age structure**<br>
@@ -334,17 +334,17 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Nikos CHRISTODOULIDES (since 28 February 2023); the president is both chief of state and head of government; note - vice presidency reserved for a Turkish Cypriot, but vacant since 1974 because Turkish Cypriots do not participate in the Republic of Cyprus Government<br>
-_head of government_: President Nikos CHRISTODOULIDES (since 28 February 2023)<br>
+_chief of state_: President Nikos CHRISTODOULIDIS (since 28 February 2023); the president is both chief of state and head of government; note - vice presidency reserved for a Turkish Cypriot, but vacant since 1974 because Turkish Cypriots do not participate in the Republic of Cyprus Government<br>
+_head of government_: President Nikos CHRISTODOULIDIS (since 28 February 2023)<br>
 _cabinet_: Council of Ministers appointed by the president; note - under the 1960 constitution, 3 of the ministerial posts reserved for Turkish Cypriots, appointed by the vice president; positions currently filled by Greek Cypriots<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on held 5 February 2023 with a runoff on 12 February 2023 (next to be held in 2028)<br>
-_election results_: <em>2023: </em>Nikos CHRISTODOULIDES elected president in second round; percent of vote in first round - Nikos CHRISTODOULIDES (independent) 32%, Andreas MAVROYIANNIS (independent) 29.6%, Averof NEOFYTOU (DISY) 26.1%, Christos CHRISTOU (ELAM) 6%, other 6.3%; percent of vote in second round - Nikos CHRISTODOULIDES 52%, Andreas MAVROYIANNIS 48%<em><br><br>2018: </em>Nikos ANASTASIADIS reelected president in second round; percent of vote in first round - Nikos ANASTASIADIS (DISY) 35.5%, Stavros MALAS (AKEL) 30.2%, Nicolas PAPADOPOULOS (DIKO) 25.7%, other 8.6%; percent of vote in second round - Nikos ANASTASIADIS 56%, Stavros MALAS 44%<br><br><em>2013:</em> Nikos ANASTASIADIS elected president in second round; percent of vote in first round - Nikos ANASTASIADIS 45.5% (DISY), Stavros  MALAS 26.9% (AKEL), Georgos LILLIKAS 24.9% (SP), other 2.7%; percent of vote in second round - Nikos ANASTASIADIS 57.5%, Savros MALAS 42.5%<br>
+_election results_: <em>2023: </em>Nikos CHRISTODOULIDIS elected president in second round; percent of vote in first round - Nikos CHRISTODOULIDIS (independent) 32%, Andreas MAVROGIIANNIS (independent) 29.6%, Averof NEOFYTOU (DISY) 26.1%, Christos CHRISTOU (ELAM) 6%, other 6.3%; percent of vote in second round - Nikos CHRISTODOULIDS 52%, Andreas MAVROGIANNIS 48%<em><br><br>2018: </em>Nikos ANASTASIADIS reelected president in second round; percent of vote in first round - Nikos ANASTASIADIS (DISY) 35.5%, Stavros MALAS (AKEL) 30.2%, Nicolas PAPADOPOULOS (DIKO) 25.7%, other 8.6%; percent of vote in second round - Nikos ANASTASIADIS 56%, Stavros MALAS 44%<br><br><em>2013:</em> Nikos ANASTASIADIS elected president in second round; percent of vote in first round - Nikos ANASTASIADIS 45.5% (DISY), Stavros  MALAS 26.9% (AKEL), Georgos LILLIKAS 24.9% (SP), other 2.7%; percent of vote in second round - Nikos ANASTASIADIS 57.5%, Savros MALAS 42.5%<br>
 <strong>note:</strong> the first round of the TRNC presidential election, originally scheduled for 26 April 2020, was postponed to 11 October 2020 due to the COVID-19 pandemic; the second round was held on 18 October 2020; percent of vote in the first round - Ersin TATAR (UBP) 32.4%, Mustafa AKINCI (independent) 29.8%, Tufan ERHURMAN (RTP) 21.7%, Kudret OZERSAY (independent) 5.7%, Erhan ARIKLI (YDP) 5.4%, Serdar DENKTAS (independent) 4.2%, other 0.8%; percent of vote in the second round - Ersin TATAR 51.7%, Mustafa AKINCI 48.3%<br>
 
 **Legislative branch**<br>
 _description_: area under government control: unicameral House of Representatives or Vouli Antiprosopon (80 seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but only those assigned to Greek Cypriots are filled; members directly elected by both proportional representation and preferential vote; members serve 5-year terms); area administered by Turkish Cypriots: unicameral "Assembly of the Republic" or Cumhuriyet Meclisi (50 seats; members directly elected to 5-year terms by proportional representation system using a&nbsp;hybrid d'Hondt method&nbsp;with voter preferences for individual candidates<br>
 _elections_: area under government control: last held on 30 May 2021 (next to be held in 2026); area administered by Turkish Cypriots: last held on 23 January 2022 (next to be held in 2027)<br>
-_election results_: area under government control: House of Representatives - percent of vote by party/coalition - DISY 27.8%, AKEL 22.3%, DIKO 11.3%, ELAM 6.8%, EDEK-SP 6.7%, DiPa 6.1%, Movement of Ecologists - Citizens' Cooperation 4.4%, other 14.6%; seats by party/coalition - DISY 17, AKEL 15, DIKO 9, ELAM 4, EDEK-SP 4, DiPa 4, Movement of Ecologists - Citizens' Cooperation 3; area administered by Turkish Cypriots - "Assembly of the Republic" - percent of vote by party - UBP 39.5%, CTP 32%, DP 7.4%, HP 6.7%, YDP 6.4%, other 8%; seats by party - UBP 24, CTP 18, DP 3, HP 3, YDP 2<br>
+_election results_: area under government control: House of Representatives - percent of vote by party/coalition - DISY 27.8%, AKEL 22.3%, DIKO 11.3%, ELAM 6.8%, EDEK-SP 6.7%, DIPA 6.1%, Movement of Ecologists - Citizens' Cooperation 4.4%, other 14.6%; seats by party/coalition - DISY 17, AKEL 15, DIKO 9, ELAM 4, EDEK-SP 4, DIPA 4, Movement of Ecologists - Citizens' Cooperation 3; area administered by Turkish Cypriots - "Assembly of the Republic" - percent of vote by party - UBP 39.5%, CTP 32%, DP 7.4%, HP 6.7%, YDP 6.4%, other 8%; seats by party - UBP 24, CTP 18, DP 3, HP 3, YDP 2<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cyprus (consists of 13 judges, including the court president); note - the highest court in the "TRNC" is the "Supreme Court" (consists of 8 "judges," including the "court president")<br>
@@ -352,7 +352,7 @@ _judge selection and term of office_: Republic of Cyprus Supreme Court judges ap
 _subordinate courts_: Republic of Cyprus district courts; Assize Courts; Administrative Court; specialized courts for issues relating to family, industrial disputes, the military, and rent control; "TRNC Assize Courts"; "district and family courts"<br>
 
 **Political parties and leaders**<br>
-<strong>area under government control:</strong> <br>Citizens' Alliance or SP [Giorgos LILLIKAS] (dissolved 2 December 2021)<br>Democratic Front or DiPa [Marios GAROYIAN]<br>Democratic Party or DIKO [Nikolas PAPADOPOULOS]<br>Democratic Rally or DISY [Averof NEOPHYTOU]<br>Movement of Ecologists - Citizens' Alliance [Charalambos THEOPEMPTOU]<br>Movement of Social Democrats EDEK [Marinos SIZOPOULOS]<br>National Popular Front or ELAM [Christos CHRISTOU]<br>Progressive Party of the Working People or AKEL (Communist Party) [Stefanos STEFANOU]<br>Solidarity Movement [Eleni THEOCHAROUS]<br><br><strong>area administered by Turkish Cypriots:</strong> <br>Communal Democracy Party or TDP [Mine ATLI]<br>Communal Liberation Party - New Forces or TKP-YG [Mehmet CAKICI]<br>Cyprus Socialist Party or KSP [Mehmet BIRINCI]<br>Democratic Party or DP [Fikri ATAOGLU]<br>National Democratic Party or NDP [Buray BUSKUVUTCU]<br>National Unity Party or UBP [Faiz SUCUOGLU]<br>New Cyprus Party or YKP [Murat KANATLI]<br>People's Party or HP [Kudret OZERSAY]<br>Rebirth Party or YDP [Erhan ARIKLI]<br>Republican Turkish Party or CTP [Tufan ERHURMAN]<br>United Cyprus Party or BKP [Izzet IZCAN]<br>
+<strong>area under government control:</strong> <br>Citizens' Alliance or SP [Giorgos LILLIKAS] (dissolved 2 December 2021)<br>Democratic Front or DIPA [Marios GAROYIAN]<br>Democratic Party or DIKO [Nikolas PAPADOPOULOS]<br>Democratic Rally or DISY [Annita DIMITRIOU]<br>Movement of Ecologists - Citizens' Alliance [Charalambos THEOPEMPTOU]<br>Movement of Social Democrats EDEK [Marinos SIZOPOULOS]<br>National Popular Front or ELAM [Christos CHRISTOU]<br>Progressive Party of the Working People or AKEL (Communist Party) [Stefanos STEFANOU]<br>Solidarity Movement [Eleni THEOCHAROUS]<br><br><strong>area administered by Turkish Cypriots:</strong> <br>Communal Democracy Party or TDP [Mine ATLI]<br>Communal Liberation Party - New Forces or TKP-YG [Mehmet CAKICI]<br>Cyprus Socialist Party or KSP [Mehmet BIRINCI]<br>Democratic Party or DP [Fikri ATAOGLU]<br>National Democratic Party or NDP [Buray BUSKUVUTCU]<br>National Unity Party or UBP [Faiz SUCUOGLU]<br>New Cyprus Party or YKP [Murat KANATLI]<br>People's Party or HP [Kudret OZERSAY]<br>Rebirth Party or YDP [Erhan ARIKLI]<br>Republican Turkish Party or CTP [Tufan ERHURMAN]<br>United Cyprus Party or BKP [Izzet IZCAN]<br>
 
 **International organization participation**<br>
 Australia Group, C, CD, CE, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -368,7 +368,7 @@ _honorary consulate(s)_: Atlanta, Chicago, Houston, Kirkland (WA), Los Angeles, 
 <strong>note:</strong> representative of the Turkish Cypriot community in the US is Mustafa LAKADAMYALI; office at 1667 K Street NW, Washington, DC; telephone [1] (202) 887-6198<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Judith Gail GARBER (since 18 March 2019)<br>
+_chief of mission_: Ambassador Julie D. FISHER (since 21 February 2023)<br>
 _embassy_: Metochiou and Ploutarchou Street, 2407, Engomi, Nicosia<br>
 _mailing address_: 5450 Nicosia Place, Washington DC&nbsp; 20521-5450<br>
 _telephone_: [357] (22) 393939<br>
@@ -483,8 +483,8 @@ _highest 10%_: 28.8% (2014)<br>
 2.06% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $8.663 billion (2017 est.)<br>
-_expenditures_: $8.275 billion (2017 est.)<br>
+_revenues_: $10.362 billion (2019 est.)<br>
+_expenditures_: $9.996 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.8% (of GDP) (2017 est.)<br>
@@ -704,7 +704,7 @@ Cypriot National Guard (CNG): 18-50 years of age for compulsory military service
 <strong>note:</strong> the CNG accepts all foreign nationals of at least partial Cypriot descent under age 32 as volunteers; dual citizenship Cypriot origin citizens, who were born in Cyprus or abroad, have the obligation to serve in the CNG on repatriation, regardless of whether or not they possess a foreign citizenship; a person is considered as having Cypriot origin where a grandparent or parent was/is a Cypriot citizen<br>
 
 **Military - note**<br>
-the United Nations Peacekeeping Force in Cyprus (UNFICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; the UN force patrols a buffer zone, also called the &ldquo;Green Line,&rdquo; that separates the two sides; the UNFICYP mission has about 800-1,000 personnel&nbsp; (2022)<br>
+the United Nations Peacekeeping Force in Cyprus (UNFICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; the UN force patrols a buffer zone, also called the &ldquo;Green Line,&rdquo; that separates the two sides; the UNFICYP mission has about 800-1,000 personnel (2023)<br>
 
 ## Terrorism
 

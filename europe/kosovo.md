@@ -85,11 +85,12 @@ Albanians 92.9%, Bosniaks 1.6%, Serbs 1.5%, Turk 1.1%, Ashkali 0.9%, Egyptian 0.
 <strong>note:</strong> these estimates may under-represent Serb, Romani, and some other ethnic minorities because they are based on the 2011 Kosovo national census, which excluded northern Kosovo (a largely Serb-inhabited region) and was partially boycotted by Serb and Romani communities in southern Kosovo<br>
 
 **Languages**<br>
-Albanian (official) 94.5%, Bosnian 1.7%, Serbian (official) 1.6%, Turkish 1.1%, other 0.9% (includes Romani), unspecified 0.1%; note - in municipalities where a community's mother tongue is not one of Kosovo's official languages, the language of that community may be given official status according to the 2006 Law on the Use of Languages (2011 est.)<br>
-_major-language sample(s)_: <br>Libri i Fakteve Boterore, burimi vital per informacione elementare. (Albanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+Albanian (official) 94.5%, Bosnian 1.7%, Serbian (official) 1.6%, Turkish 1.1%, other 0.9% (includes Romani), unspecified 0.1%; note - in municipalities where a community's mother tongue is not one of Kosovo's official languages, the language of that community may be given official status according to the 2006 Law on the Use of Languages<br><br><strong>note:</strong> these estimates may under-represent Serb, Romani, and some other ethnic minority languages because they are based on the 2011 Kosovo national census, which excluded northern Kosovo (a largely Serb-inhabited region) and was partially boycotted by Serb and Romani communities in southern Kosovo (2011 est.)<br>
+_major-language sample(s)_: Libri i fakteve boterore, burimi i domosdoshem per informacionin themelore (Albanian)<br><br>Knjiga svetskih činjenica, neophodan izvor osnovnih informacija. (Serbian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 95.6%, Roman Catholic 2.2%, Orthodox 1.5%, other 0.1%, none 0.1%, unspecified 0.6% (2011 est.)<br>
+<strong>note:</strong> these estimates may under-represent Serb, Romani, and some other ethnic minorities because they are based on the 2011 Kosovo national census, which excluded northern Kosovo (a largely Serb-inhabited region) and was partially boycotted by Serb and Romani communities in southern Kosovo<br>
 
 **Age structure**<br>
 _0-14 years_: 23.1% (male 235,379/female 218,359)<br>
@@ -282,10 +283,10 @@ _election results_: percent of vote by party - LVV 50%, PDK 16.9%, LDK 12.7%, AA
 _highest court(s)_: Supreme Court (consists of the court president and 18 judges and organized into Appeals Panel of the Kosovo Property Agency and Special Chamber); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
 _judge selection and term of office_: Supreme Court judges nominated by the Kosovo Judicial Council, a 13-member independent body staffed by judges and lay members, and also responsible for overall administration of Kosovo's judicial system; judges appointed by the president of the Republic of Kosovo; judges appointed until mandatory retirement age; Constitutional Court judges nominated by the Kosovo Assembly and appointed by the president of the republic to serve single, 9-year terms<br>
 _subordinate courts_: Court of Appeals (organized into 4 departments: General, Serious Crime, Commercial Matters, and Administrative Matters); Basic Court (located in 7 municipalities, each with several branches)<br>
-<strong>note:</strong> in August 2015, the Kosovo Assembly approved a constitutional amendment that establishes the Kosovo Relocated Specialist Judicial Institution, also referred to as the Kosovo Specialist Chambers or "Special Court"; the court, located at the Hague in the Netherlands, began operating in late 2016 and has jurisdiction to try crimes against humanity, war crimes, and other crimes under Kosovo law that occurred in the 1998-2000 period<br>
+<strong>note:</strong> in August 2015, the Kosovo Assembly approved a constitutional amendment that established the Kosovo Relocated Specialist Judicial Institution, also referred to as the Kosovo Specialist Chambers or "Special Court"; the court, located at the Hague in the Netherlands, began operating in late 2016 and has jurisdiction to try crimes against humanity, war crimes, and other crimes under Kosovo law that occurred in the 1998-2000 period<br>
 
 **Political parties and leaders**<br>
-Alliance for the Future of Kosovo or AAK [Ramush HARADINAJ]<br>Alternativa [Mimoza KUSARI-LILA]<br>Ashkali Party for Integration or PAI [Bekim ARIFI]<br>Democratic League of Kosovo or LDK [Lumir ABDIXHIKU]<br>Democratic Party of Kosovo or PDK [Memli KRASNIQI]<br>Guxo! [Donika GERVALLA-SCHWARZ]<br>Independent Liberal Party or SLS [Slobodan PETROVIC]<br>New Democratic Initiative of Kosovo or IRDK [Elbert KRASNIQI]<br>New Democratic Party or NDS [Emilja REDXEPI]<br>New Kosovo Alliance or AKR [Behgjet PACOLLI]<br>Progressive Movement of Kosovar Roma or LPRK [Erxhan GALUSHI]<br>Romani Initiative [Gazmend SALIJEVCI]<br>Self-Determination Movement (Lëvizja Vetevendosje) or LVV [Albin KURTI]<br>Serb List or SL [Goran RAKIC]<br>Social Democratic Initiative or NISMA [Fatmir LIMAJ] (formerly Initiative for Kosovo)<br>Social Democratic Party of Kosovo or PSD [Dardan MOLLIQAJ]<br>Social Democratic Union or SDU [Duda BALJE]<br>Turkish Democratic Party of Kosovo or KDTP [Fikrim DAMKA]<br>Unique Gorani Party JGP [Adem HODZA]<br>Vakat Coalition or VAKAT [Rasim DEMIRI]<br>
+Alliance for the Future of Kosovo or AAK [Ramush HARADINAJ]<br>Ashkali Party for Integration or PAI [Bekim ARIFI]<br>Democratic League of Kosovo or LDK [Lumir ABDIXHIKU]<br>Democratic Party of Kosovo or PDK [Memli KRASNIQI]<br>New Democratic Initiative of Kosovo or IRDK [Elbert KRASNIQI]<br>New Democratic Party or NDS [Emilja REDZEPI]<br>Progressive Movement of Kosovar Roma or LPRK [Erxhan GALJUSI]<br>Romani Initiative [Gazmend SALIJEVCI]<br>Self-Determination Movement (Lëvizja Vetevendosje or Vetevendosie) or LVV or VV [Albin KURTI]<br>Serb List or SL [Goran RAKIC]<br>Social Democratic Union or SDU [Duda BALJE]<br>Turkish Democratic Party of Kosovo or KDTP [Fikrim DAMKA]<br>Unique Gorani Party or JGP [Adem HODZA]<br>Vakat Coalition or VAKAT [Bahrim SABANI]<br>
 
 **International organization participation**<br>
 IBRD, IDA, IFC, IMF, ITUC (NGOs), MIGA, OIF (observer)<br>
@@ -410,8 +411,8 @@ _highest 10%_: 22% (2015 est.)<br>
 15.81% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $2.054 billion (2017 est.)<br>
-_expenditures_: $2.203 billion (2017 est.)<br>
+_revenues_: $1.951 billion (2020 est.)<br>
+_expenditures_: $2.547 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.1% (of GDP) (2017 est.)<br>
@@ -605,7 +606,7 @@ the KSF is equipped with small arms and light vehicles and has relied on donated
 service is voluntary; must be over the age of 18 and a citizen of Kosovo; upper age for enlisting is 30 for officers, 25 for other ranks, although these may be waived for recruits with key skills considered essential for the KSF<br> (2023)<br>
 
 **Military - note**<br>
-the NATO-led Kosovo Force (KFOR) has operated in the country as a peace support force since 1999; KFOR is responsible for providing a safe and secure environment and ensuring freedom of movement for all citizens, as well as assisting in developing the Kosovo Security Force; as of 2022, it numbered about 3,700 troops from 28 countries<br>
+the NATO-led Kosovo Force (KFOR) has operated in the country as a peace support force since 1999; KFOR is responsible for providing a safe and secure environment and ensuring freedom of movement for all citizens, as well as assisting in developing the Kosovo Security Force; it numbers about 3,700 troops from 27 countries (2023)<br>
 
 ## Terrorism
 

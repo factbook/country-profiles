@@ -468,8 +468,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: $110.2 billion (2017 est.)<br>
-_expenditures_: $111.1 billion (2017 est.)<br>
+_revenues_: $129.741 billion (2019 est.)<br>
+_expenditures_: $127.262 billion (2019 est.)<br>
 <strong>note:</strong> the UAE federal budget does not account for emirate-level spending in Abu Dhabi and Dubai<br>
 
 **Budget surplus (+) or deficit (-)**<br>
@@ -693,7 +693,7 @@ estimates vary; reportedly a few hundred remain in Yemen; has maintained some tr
 <strong>note:</strong> in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with an estimated 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC)<br>
 
 **Military - note**<br>
-the UAE hosts a multi-service French military base, which includes the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and hosts about 3,500 US troops, mostly air and naval personnel<br><br>the UAE's military traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern Emirati armed forces were formed in 1976 (2022)<br>
+the UAE hosts a multi-service French military base, which includes the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and hosts about 3,500 US troops, mostly air and naval personnel<br><br>the UAE's military traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern Emirati armed forces were formed in 1976 (2023)<br>
 
 ## Transnational Issues
 

@@ -90,7 +90,7 @@ _noun_: Jordanian(s)<br>
 _adjective_: Jordanian<br>
 
 **Ethnic groups**<br>
-Jordanian 69.3%, Syrian 13.3%, Palestinian 6.7%, Egyptian 6.7%, Iraqi 1.4%, other 2.6% (includes Armenian, Circassian) (2015 est.)<br>
+Jordanian 69.3%, Syrian 13.3%, Palestinian 6.7%, Egyptian 6.7%, Iraqi 1.4%, other 2.6% (2015 est.)<br>
 <strong>note:</strong> data represent population by self-identified nationality<br>
 
 **Languages**<br>
@@ -498,8 +498,8 @@ _highest 10%_: 28.7% (2010 est.)<br>
 10.34% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $9.462 billion (2017 est.)<br>
-_expenditures_: $11.51 billion (2017 est.)<br>
+_revenues_: $10.813 billion (2019 est.)<br>
+_expenditures_: $13.489 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -5.1% (of GDP) (2017 est.)<br>
@@ -530,7 +530,7 @@ $16.17 billion (2019 est.)<br>
 United States 21%, Saudi Arabia 13%, India 8%, Iraq 7%, United Arab Emirates 5%, China 5% (2019)<br>
 
 **Exports - commodities**<br>
-fertilizers, calcium phosphates, packaged medicines, clothing and apparel, phosphoric acid (2019)<br>
+fertilizers, clothing and apparel, calcium phosphates, phosphoric acid, packaged medicines (2021)<br>
 
 **Imports**<br>
 $23.392 billion (2021 est.) note: data are in current year dollars<br>

@@ -498,8 +498,8 @@ _highest 10%_: 24% (2000)<br>
 0.48% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $1.665 trillion (2017 est.)<br>
-_expenditures_: $1.619 trillion (2017 est.)<br>
+_revenues_: $1.785 trillion (2020 est.)<br>
+_expenditures_: $1.945 trillion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.3% (of GDP) (2017 est.)<br>
@@ -713,7 +713,7 @@ Germany operates one PC 5 or 6 class icebreaker based in the North Atlantic<br>n
 ## Military and Security
 
 **Military and security forces**<br>
-Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes naval air arm), Air Force (Luftwaffe, includes air defense), Joint Support Service (Streitkraeftebasis, SKB), Central Medical Service (Zentraler Sanitaetsdienst, ZSanDstBw), Cyber and Information Space Command (Kommando Cyber und Informationsraum, Kdo CIR) (2022)<br>
+Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes naval air arm), Air Force (Luftwaffe, includes air defense), Joint Support Service (Streitkraeftebasis, SKB), Central Medical Service (Zentraler Sanitaetsdienst, ZSanDstBw), Cyber and Information Space Command (Kommando Cyber und Informationsraum, Kdo CIR) (2023)<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2022 est.)<br>

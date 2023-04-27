@@ -279,9 +279,9 @@ _percent of municipal solid waste recycled_: 32.4% (2015 est.)<br>
 _fresh water lake(s)_: Vanern - 5,580 sq km; Vattern - 1,910 sq km; Malaren - 1,140 sq km<br>
 
 **Total water withdrawal**<br>
-_municipal_: 955 million cubic meters (2017 est.)<br>
-_industrial_: 1.345 billion cubic meters (2017 est.)<br>
-_agricultural_: 75 million cubic meters (2017 est.)<br>
+_municipal_: 700 million cubic meters (2020 est.)<br>
+_industrial_: 1.27 billion cubic meters (2020 est.)<br>
+_agricultural_: 100 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 174 billion cubic meters (2019 est.)<br>
@@ -482,8 +482,8 @@ _highest 10%_: 24% (2012)<br>
 0.6% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $271.2 billion (2017 est.)<br>
-_expenditures_: $264.4 billion (2017 est.)<br>
+_revenues_: $259.17 billion (2019 est.)<br>
+_expenditures_: $256.454 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.3% (of GDP) (2017 est.)<br>
@@ -692,21 +692,21 @@ Sweden operates four PC 3 or 4 class medium icebreakers in the Baltic Sea<br>not
 ## Military and Security
 
 **Military and security forces**<br>
-Swedish Armed Forces (Forsvarsmakten): Army, Navy, Air Force, Home Guard (2022)<br>
+Swedish Armed Forces (Forsvarsmakten): Army, Navy, Air Force, Home Guard (2023)<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2022 est.)<br>
+1.3% of GDP (2022 est.)<br>
 1.3% of GDP (2021)<br>
 1.2% of GDP (2020)<br>
 1.1% of GDP (2019)<br>
 1% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-the SAF has about 46,000 military personnel: approximately 14,000 continuous service/full-time; approximately 11,000 temporary service; approximately 21,000 Home Guard (some on active duty) (2022)<br>
+the SAF has about 46,000 military personnel: approximately 14,000 continuous service/full-time; approximately 11,000 temporary service; approximately 21,000 Home Guard (some on active duty) (2023)<br>
 <strong>note 1: </strong>SAF personnel are divided into continuously serving (full-time) and temporary service troops (part-timers who serve periodically and have another main employer or attend school); additional personnel have signed service agreements with the SAF and mostly serve in the Home Guard; the SAF also has about 9,000 civilian employees<br><br><strong>note 2:</strong> in 2021, Sweden announced plans that increase the total size of the armed forces to about 100,000 personnel by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SAF's inventory is comprised of domestically produced and imported Western weapons systems; in recent years, the US has been the leading supplier of military hardware to Sweden; Sweden's defense industry produces a range of air, land, and naval systems (2022)<br>
+the SAF's inventory is comprised of domestically produced and imported Western weapons systems; in recent years, the US has been the leading supplier of military hardware to Sweden; Sweden's defense industry produces a range of air, land, and naval systems (2023)<br>
 
 **Military service age and obligation**<br>
 18-47 years of age for male and female voluntary military service; service obligation: 7.5 months (Army), 7-15 months (Navy), 8-12 months (Air Force); after completing initial service, soldiers have a reserve commitment until age 47; compulsory military service, abolished in 2010, was reinstated in January 2018; conscription is selective, includes both men and women (age 18), and requires 9-12 months of service (2023)<br>
@@ -716,7 +716,7 @@ the SAF's inventory is comprised of domestically produced and imported Western w
 approximately 200 Mali (MINUSMA) (2022)<br>
 
 **Military - note**<br>
-Sweden maintains a policy of military non-alignment, but cooperates with NATO and regional countries; it joined NATO’s Partnership for Peace program in 1994 and has contributed to NATO-led missions, including those in Afghanistan, Iraq, and Kosovo; Sweden applied for NATO membership in May 2022<br><br>the Swedish military cooperates closely with the military forces of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br>Sweden is a signatory of the EU’s Common Security and Defense Policy and contributes to CSDP missions and operations (2022)<br>
+Sweden maintained a policy of military non-alignment for over 200 years before applying for NATO membership in May 2022; before then, Stockholm joined NATO’s Partnership for Peace program in 1994 and contributed to NATO-led missions, including those in Afghanistan, Iraq, and Kosovo<br><br>the Swedish military cooperates closely with the military forces of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br>Sweden is a signatory of the EU’s Common Security and Defense Policy and contributes to CSDP missions and operations (2023)<br>
 
 ## Terrorism
 
@@ -730,6 +730,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 53,755 (Ukraine) (as of 30 March 2023)<br>
+_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 53,957 (Ukraine) (as of 5 April 2023)<br>
 _stateless persons_: 46,515 (2022); note - the majority of stateless people are from the Middle East and Somalia<br>
 

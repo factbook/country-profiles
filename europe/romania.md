@@ -89,15 +89,16 @@ _noun_: Romanian(s)<br>
 _adjective_: Romanian<br>
 
 **Ethnic groups**<br>
-Romanian 83.4%, Hungarian 6.1%, Romani 3.1%, Ukrainian 0.3%, German 0.2%, other 0.7%, unspecified 6.1% (2011 est.)<br>
-<strong>note:</strong> Romani populations are usually underestimated in official statistics and may represent 5–11% of Romania's population<br>
+Romanian 89.3%, Hungarian 6%, Romani 3.4%, Ukrainian 0.3%, German 0.1%, other 0.9% (2021 est.)<br>
+<strong>note:</strong> data represent individuals who declared an ethnic group in the 2021 national census; 13% did not respond; Romani populations are usually underestimated in official statistics and may represent 5–11% of Romania's population<br>
 
 **Languages**<br>
-Romanian (official) 85.4%, Hungarian 6.3%, Romani 1.2%, other 1%, unspecified 6.1% (2011 est.)<br>
+Romanian (official) 91.6%, Hungarian 6.3%, Romani 1.2%, other 0.7% (2021 est.)<br><br><strong>note:</strong> data represent individuals who declared a maternal language in the 2021 national census; 13.1% did not respond<br>
 _major-language sample(s)_: <br>Cartea informativa a lumii, sursa indispensabila pentru informatii de baza. (Romanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Eastern Orthodox (including all sub-denominations) 81.9%, Protestant (various denominations including Reformed and Pentecostal) 6.4%, Roman Catholic 4.3%, other (includes Muslim) 0.9%, none or atheist 0.2%, unspecified 6.3% (2011 est.)<br>
+Romanian Orthodox 85.3%, Roman Catholic 4.5%, Reformed 3%, Pentecostal 2.5, other 4.7% (2021 est.)<br>
+<strong>note:</strong> data represent individuals who declared a religion in the 2021 national census; 13.9% did not respond<br>
 
 **Age structure**<br>
 _0-14 years_: 15.63% (male 1,472,449/female 1,391,671)<br>
@@ -284,9 +285,9 @@ Danube river mouth (shared with Germany [s], Austria, Slovakia, Czechia, Hungary
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.048 billion cubic meters (2017 est.)<br>
-_industrial_: 4.234 billion cubic meters (2017 est.)<br>
-_agricultural_: 1.491 billion cubic meters (2017 est.)<br>
+_municipal_: 1.09 billion cubic meters (2020 est.)<br>
+_industrial_: 3.9 billion cubic meters (2020 est.)<br>
+_agricultural_: 1.43 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 212 billion cubic meters (2019 est.)<br>
@@ -357,7 +358,7 @@ _judge selection and term of office_: High Court of Cassation and Justice judges
 _subordinate courts_: Courts of Appeal; regional tribunals; first instance courts; military and arbitration courts<br>
 
 **Political parties and leaders**<br>
-2020 USR-PLUS Alliance [Dan BARNA and Dacian CIOLOS] (dissolved 16 April 2021)<br>Alliance for the Fatherland or APP [Codrin STEFANESCU]<br>Alliance for the Unity of Romanians or AUR [George SIMION]<br>Christian-Democratic National Peasants' Party or PNT-CD [Aurelian PAVELESCU]<br>Civic Hungarian Party [Zsolt BIRO]<br>Democratic Union of Hungarians in Romania or UDMR [Hunor KELEMEN]<br>Ecologist Party of Romania or PER [Danut POP]<br>Force of the Right or FD [Ludovic ORBAN]<br>Greater Romania Party or PRM [Victor IOVICI]<br>Green Party [Marius LAZAR and Lavinia COSMA]<br>National Liberal Party or PNL [Nicolae CIUCA]<br>Party of Liberty, Unity, and Solidarity or PLUS [Dacian CIOLOS] (dissolved 16 April 2021)<br>Popular Movement Party or PMP [Eugen TOMAC]<br>PRO Romania or PRO [Victor PONTA]<br>Romanian Nationhood Party or PNR [Ninel PEIA]<br>Save Romania Union Party or USR [Catalin DRULA]<br>Social Democratic Party or PSD [Marcel CIOLACU]<br>Social Liberal Humanist Party or PUSL [Daniel IONASCU] (formerly Humanist Power Party (Social-Liberal) or PPU-SL)<br>United Romania Party or PRU [Robert BUGA]<br>
+2020 USR-PLUS Alliance [Dan BARNA and Dacian CIOLOS] (dissolved 16 April 2021)<br>Alliance for the Fatherland or APP [Codrin STEFANESCU]<br>Alliance for the Unity of Romanians or AUR [George SIMION]<br>Christian-Democratic National Peasants' Party or PNT-CD [Aurelian PAVELESCU]<br>Civic Hungarian Party [Zsolt BIRO]<br>Democratic Union of Hungarians in Romania or UDMR [Hunor KELEMEN]<br>Ecologist Party of Romania or PER [Danut POP]<br>Force of the Right or FD [Ludovic ORBAN]<br>Greater Romania Party or PRM [Victor IOVICI]<br>Green Party [Marius LAZAR and Lavinia COSMA]<br>National Liberal Party or PNL [Nicolae CIUCA]<br>Party of Liberty, Unity, and Solidarity or PLUS [Dacian CIOLOS] (dissolved 16 April 2021)<br>Popular Movement Party or PMP [Eugen TOMAC]<br>PRO Romania or PRO [Victor PONTA]<br>Romanian Nationhood Party or PNR [Ninel PEIA]<br>Save Romania Union Party or USR [Catalin DRULA]<br>Social Democratic Party or PSD [Marcel CIOLACU]<br>Social Liberal Humanist Party or PUSL [Daniel IONASCU] (formerly Humanist Power Party (Social-Liberal) or PPU-SL)<br>S.O.S. Romania [Diana IOVANOVICI-SOSOACA]<br>The Right Alternative or AD [Adela MIRZA]<br>United Romania Party or PRU [Robert BUGA]<br>We are Renewing the European Project in Romania or REPER [Dacian CIOLOS; Ramona STRUGARIU; Dragos PISLARU]<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CEI, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -371,7 +372,7 @@ _email address and website_: <br>washington@mae.ro (chancery)<br>contact@informa
 _consulate(s) general_: Chicago, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires David MUNIZ (since 20 January 2021)<br>
+_chief of mission_: Ambassador Kathleen KAVALEC (since 14 February 2023)<br>
 _embassy_: 4-6, Dr. Liviu Librescu Blvd., District 1, Bucharest, 015118<br>
 _mailing address_: 5260 Bucharest Place, Washington, DC&nbsp; 20521-5260<br>
 _telephone_: [40] (21) 200-3300<br>
@@ -490,8 +491,8 @@ _highest 10%_: 7.6% (2014 est.)<br>
 3.24% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $62.14 billion (2017 est.)<br>
-_expenditures_: $68.13 billion (2017 est.)<br>
+_revenues_: $72.193 billion (2019 est.)<br>
+_expenditures_: $83.59 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.8% (of GDP) (2017 est.)<br>
@@ -718,7 +719,7 @@ the military's inventory is comprised mostly of Soviet-era and older domesticall
 up to 120 Poland (NATO) (2022)<br>
 
 **Military - note**<br>
-Romania became a member of NATO in 2004<br><br>Romania hosts a NATO multinational divisional headquarters (Multinational Division Southeast; became operational in 2017) and a French-led ground force battlegroup as part of NATO's tailored forward presence in the southeastern part of the Alliance; NATO reinforced the battlegroup with additional troops in response to Russia’s 2022 invasion of Ukraine; Romania conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Romanian Air Force since 2014 (2022)<br>
+Romania became a member of NATO in 2004<br><br>Romania hosts a NATO multinational divisional headquarters (Multinational Division Southeast; became operational in 2017) and a French-led ground force battlegroup as part of NATO's tailored forward presence in the southeastern part of the Alliance in response to Russia’s 2022 invasion of Ukraine; Romania conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Romanian Air Force since 2014 (2023)<br>
 
 ## Terrorism
 
@@ -732,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 107,706 (Ukraine) (as of 2 April 2023)<br>
+_refugees (country of origin)_: 104,823 (Ukraine) (as of 16 April 2023)<br>
 _stateless persons_: 297 (2022)<br>
 <strong>note:</strong> 13,070 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
 

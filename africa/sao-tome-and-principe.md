@@ -286,9 +286,9 @@ _water contact diseases_: schistosomiasis<br>
 _municipal solid waste generated annually_: 25,587 tons (2014 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 14.7 million cubic meters (2017 est.)<br>
+_municipal_: 10 million cubic meters (2020 est.)<br>
 _industrial_: 600,000 cubic meters (2017 est.)<br>
-_agricultural_: 25.6 million cubic meters (2017 est.)<br>
+_agricultural_: 30 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 2.2 billion cubic meters (2019 est.)<br>
@@ -470,8 +470,8 @@ _highest 10%_: NA<br>
 2.6% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $103 million (2017 est.)<br>
-_expenditures_: $112.4 million (2017 est.)<br>
+_revenues_: $95 million (2019 est.)<br>
+_expenditures_: $102 million (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.4% (of GDP) (2017 est.)<br>

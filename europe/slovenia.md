@@ -273,8 +273,8 @@ _percent of municipal solid waste recycled_: 46.4% (2015 est.)<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 169.5 million cubic meters (2017 est.)<br>
-_industrial_: 758 million cubic meters (2017 est.)<br>
+_municipal_: 170 million cubic meters (2020 est.)<br>
+_industrial_: 830 million cubic meters (2020 est.)<br>
 _agricultural_: 3.9 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
@@ -478,8 +478,8 @@ _highest 10%_: 20.1% (2016)<br>
 1.22% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $21.07 billion (2017 est.)<br>
-_expenditures_: $21.06 billion (2017 est.)<br>
+_revenues_: $23.735 billion (2019 est.)<br>
+_expenditures_: $23.456 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 0% (of GDP) (2017 est.)<br>
@@ -702,7 +702,7 @@ the military's inventory is a mix of Soviet-era and smaller quantities of more m
 <strong>note:</strong> in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Slovenia, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air policing mission for Slovenia&rsquo;s airspace (2022)<br>
+Slovenia became a member of NATO in 2004 (2023)<br>
 
 ## Transnational Issues
 
@@ -710,7 +710,7 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,222 (Ukraine) (as of 2 April 2023)<br>
+_refugees (country of origin)_: 9,461 (Ukraine) (as of 11 April 2023)<br>
 _stateless persons_: 10 (2020)<br>
 <strong>note:  </strong>575,533 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 

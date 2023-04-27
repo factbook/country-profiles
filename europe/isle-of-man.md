@@ -401,14 +401,20 @@ _expenditures_: $943 million (FY05/06 est.)<br>
 **Exports**<br>
 <p>NA</p><br>
 
+**Exports - partners**<br>
+almost entirely United Kingdom (2022)<br>
+
 **Exports - commodities**<br>
-tweeds, herring, processed shellfish, beef, lamb<br>
+crude petroleum, artwork, vegetables, fruits, whiskies (2022)<br>
 
 **Imports**<br>
 <p>NA</p><br>
 
+**Imports - partners**<br>
+almost entirely United Kingdom (2022)<br>
+
 **Imports - commodities**<br>
-timber, fertilizers, fish<br>
+ships, delivery trucks (2022)<br>
 
 **Debt - external**<br>
 <p>NA</p><br>

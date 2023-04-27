@@ -239,9 +239,9 @@ _municipal solid waste recycled annually_: 583,933 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 14% (2013 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 796 million cubic meters (2017 est.)<br>
-_industrial_: 2.365 billion cubic meters (2017 est.)<br>
-_agricultural_: 113.5 million cubic meters (2017 est.)<br>
+_municipal_: 800 million cubic meters (2020 est.)<br>
+_industrial_: 2.37 billion cubic meters (2020 est.)<br>
+_agricultural_: 110 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 7.1 billion cubic meters (2019 est.)<br>

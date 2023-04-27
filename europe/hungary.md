@@ -497,8 +497,8 @@ _highest 10%_: 22.4% (2015)<br>
 3.03% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $61.98 billion (2017 est.)<br>
-_expenditures_: $64.7 billion (2017 est.)<br>
+_revenues_: $70.83 billion (2019 est.)<br>
+_expenditures_: $74.127 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2% (of GDP) (2017 est.)<br>
@@ -529,7 +529,7 @@ $133.736 billion (2019 est.) note: data are in current year dollars<br>
 Germany 27%, Romania 5%, Italy 5%, Slovakia 5% (2019)<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, packaged medicines, spark-ignition engines, video displays, broadcasting equipment (2019)<br>
+cars and vehicle parts, electric batteries, video displays, packaged medicines, spark-ignition engines, broadcasting equipment (2021)<br>
 
 **Imports**<br>
 $147.577 billion (2021 est.) note: data are in current year dollars<br>
@@ -727,7 +727,7 @@ the military's inventory consists largely of Soviet-era weapons, with a smaller 
 160 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (NATO); 470 Kosovo (NATO/KFOR) (2022)<br>
 
 **Military - note**<br>
-Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997 and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance (2022)<br>
+Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997 and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance (2023)<br>
 
 ## Terrorism
 
@@ -741,7 +741,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,248 (Ukraine) (as of 3 April 2023)<br>
+_refugees (country of origin)_: 35,030 (Ukraine) (as of 18 April 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

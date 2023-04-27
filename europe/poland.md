@@ -296,9 +296,9 @@ Vistula river source and mouth (shared with Belarus and Ukraine) - 1,213 km<br><
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 2.028 billion cubic meters (2017 est.)<br>
-_industrial_: 7.035 billion cubic meters (2017 est.)<br>
-_agricultural_: 1.018 billion cubic meters (2017 est.)<br>
+_municipal_: 1.96 billion cubic meters (2020 est.)<br>
+_industrial_: 5.87 billion cubic meters (2020 est.)<br>
+_agricultural_: 1.39 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 60.5 billion cubic meters (2019 est.)<br>
@@ -370,7 +370,7 @@ _judge selection and term of office_: president of the Supreme Court nominated b
 _subordinate courts_: administrative courts; military courts; local, regional and appellate courts subdivided into military, civil, criminal, labor, and family courts<br>
 
 **Political parties and leaders**<br>
-Agreement [Jaroslaw GOWIN]<br>Civic Coalition or KO [collective leadership]<br>Civic Platform or PO [Donald Tusk]<br>Confederation Liberty and Independence or KORWiN [Janusz KORWIN-MIKKE, Robert WINNICKI, Grzegorz BRAUN]<br>Confederation of the Polish Crown or KKP [Grzegorz BRAUN]<br>Kukiz 15 [Pawel KUKIZ]<br>Law and Justice or PiS [Jaroslaw KACZYNSKI]<br>Left Together or LR [Adrian ZANBERG and Magdalena BIEJAT]<br>Modern or .N [Adam SZLAPKA]<br>National Movement or RN [Robert WINNICKI]<br>New Hope or NN [Slawomir MENTZEN]<br>New Left or NL [Wlodzimierz CZARZASTY and Robert Biedron]<br>Poland 2050 [Szymon HOLOWNIA]<br>Polish People's Party or PSL [Wladyslaw KOSINIAK-KAMYSZ]<br>Polish Initiative or iPL [Barbara NOWACKA]<br>Polish Socialist Party or PPS [Wojciech KONIECZNY]<br>Regional. Minority with Majority or MN [Ryszard GALLA]<br>Republican Party or R [Adam BIELAN]<br>The Greens or PZ [Wojciech KUBALEWSKI and Malgorzata TRACZ]<br>Union of European Democrats or UED [Elzbieta BINCZYCKA]<br>United Poland or SP [Zbigniew ZIOBRO]<br>Wolnosciowcy [Arthur DZIAMBOR]<br>
+Agreement [Jaroslaw GOWIN]<br>Civic Platform or PO [Donald Tusk]<br>Konfederajca [Krzysztof BOSAK]<br>New Left or NL [Wlodzimierz CZARZASTY and Robert Biedron]<br>Poland 2050 [Szymon HOLOWNIA]<br>Polish People's Party or PSL [Wladyslaw KOSINIAK-KAMYSZ]<br>Republican Party or R [Adam BIELAN]<br>United Poland or SP [Zbigniew ZIOBRO]<br>
 
 **International organization participation**<br>
 Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNMISS, UNOCI, UN Security Council (temporary), UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -504,8 +504,8 @@ _highest 10%_: 23.9% (2015 est.)<br>
 1.18% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $207.5 billion (2017 est.)<br>
-_expenditures_: $216.2 billion (2017 est.)<br>
+_revenues_: $244.485 billion (2019 est.)<br>
+_expenditures_: $248.868 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.7% (of GDP) (2017 est.)<br>
@@ -741,7 +741,7 @@ the military's inventory consists of a mix of Soviet-era and more modern, mostly
 <strong>note 1: </strong>Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Poland, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br> <p>since 2017, Poland has hosted a US-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; since 2014, Poland has also hosted NATO fighter detachments at Malbork Air Base under NATO's enhanced air policing arrangements<br><br>Poland hosts a NATO-led divisional headquarters (Multinational Division Northeast; operational in 2018), which coordinates training and preparation activities of its respective subordinate battlegroups in Poland and Lithuania; Poland also hosts a corps-level headquarters (Multinational Corps Northeast) (2022)</p><br>
+Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br> <p>since 2017, Poland has hosted a US-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; since 2014, Poland has also hosted NATO fighter detachments at Malbork Air Base under NATO's enhanced air policing arrangements<br><br>Poland hosts a NATO-led divisional headquarters (Multinational Division Northeast; operational in 2018), which coordinates training and preparation activities of its respective subordinate battlegroups in Poland and Lithuania; Poland also hosts a corps-level headquarters (Multinational Corps Northeast) (2022)</p> (2023)<br>
 
 ## Terrorism
 
@@ -755,7 +755,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,581,148 (Ukraine) (as of 3 April 2023)<br>
+_refugees (country of origin)_: 1,583,563 (Ukraine) (as of 16 April 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

@@ -407,7 +407,7 @@ _FAX_: [1] (202) 332-6603<br>
 _email address and website_: <br>infos@mali.embassy.us<br><br>https://www.maliembassy.us/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Dennis B. HANKINS (since 15 March 2019)<br>
+_chief of mission_: Ambassador Rachna KORHONEN (since 22 December 2022)<br>
 _embassy_: ACI 2000, Rue 243, (located off the Roi Bin Fahad Aziz Bridge west of the Bamako central district), Porte 297, Bamako<br>
 _mailing address_: 2050 Bamako Place, Washington DC&nbsp; 20521-2050<br>
 _telephone_: [223] 20-70-23-00<br>
@@ -519,8 +519,8 @@ _highest 10%_: 25.8% (2010 est.)<br>
 5.99% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $3.075 billion (2017 est.)<br>
-_expenditures_: $3.513 billion (2017 est.)<br>
+_revenues_: $2.657 billion (2018 est.)<br>
+_expenditures_: $3.467 billion (2018 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.9% (of GDP) (2017 est.)<br>

@@ -490,8 +490,8 @@ _highest 10%_: 24.9% (2014 est.)<br>
 0.25% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $361.4 billion (2017 est.)<br>
-_expenditures_: $352.4 billion (2017 est.)<br>
+_revenues_: $396.687 billion (2019 est.)<br>
+_expenditures_: $374.166 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.1% (of GDP) (2017 est.)<br>
@@ -696,7 +696,7 @@ _river port(s)_: Amsterdam (Nordsee Kanaal); Moerdijk (Hollands Diep River); Rot
 ## Military and Security
 
 **Military and security forces**<br>
-Netherlands (Dutch) Armed Forces (Nederlandse Krijgsmacht): Royal Netherlands Army, Royal Netherlands Navy (includes Naval Air Service and Marine Corps), Royal Netherlands Air Force, Royal Netherlands Marechaussee (Military Constabulary) (2022)<br>
+Netherlands (Dutch) Armed Forces (Nederlandse Krijgsmacht): Royal Netherlands Army, Royal Netherlands Navy (includes Naval Air Service and Marine Corps), Royal Netherlands Air Force, Royal Netherlands Marechaussee (Military Constabulary) (2023)<br>
 <strong>note:</strong> the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature but managed by the Royal Netherlands Navy<br>
 
 **Military expenditures**<br>
@@ -707,14 +707,14 @@ Netherlands (Dutch) Armed Forces (Nederlandse Krijgsmacht): Royal Netherlands A
 1.2% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 40,000 active duty personnel (20,000 Army; 7,500 Navy; 6,500 Air Force; 6,000 Constabulary) (2022)<br>
+approximately 40,000 active duty personnel (20,000 Army; 7,500 Navy; 6,500 Air Force; 6,000 Constabulary) (2023)<br>
 <strong>note:</strong> the Navy includes about 2,300 marines<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a mix of domestically produced and modern European- and US-sourced equipment; in recent years, the US has been the leading supplier of weapons systems; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2022)<br>
+the military's inventory consists of a mix of domestically produced and modern European- and US-sourced equipment; in recent years, the US has been the leading supplier of weapons systems; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2023)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary service for men and women; the military is an all-volunteer force; conscription remains in place, but the requirement to show up for compulsory military service was suspended in 1997; must be a citizen of the Netherlands (2022)<br>
+17 years of age for voluntary service for men and women; the military is an all-volunteer force; conscription remains in place, but the requirement to show up for compulsory military service was suspended in 1997; must be a citizen of the Netherlands (2023)<br>
 <strong>note: </strong>in 2019, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>
@@ -722,7 +722,7 @@ the military's inventory consists of a mix of domestically produced and modern E
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including the Netherlands, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-the Netherlands is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force; a Dutch Army airmobile infantry brigade and a mechanized infantry brigade have been integrated into the German Army since 2014 and 2016 respectively<br><br>in 2020, Belgium, Denmark, and the Netherlands formed a joint Composite Special Operations Component Command (C-SOCC); in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries (2022)<br>
+the Netherlands is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force; all three Dutch Army combat brigades have been integrated into the German Army <br><br>in 2020, Belgium, Denmark, and the Netherlands formed a joint Composite Special Operations Component Command (C-SOCC); in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries (2023)<br>
 
 ## Terrorism
 

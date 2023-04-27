@@ -502,7 +502,10 @@ _major seaport(s)_: Gibraltar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Gibraltar Regiment (2022)<br>
+Royal Gibraltar Regiment (2023)<br>
+
+**Military and security service personnel strengths**<br>
+the Royal Gibraltar Regiment has more than 400 personnel (2023)<br>
 
 **Military - note**<br>
 defense is the responsibility of the UK<br>

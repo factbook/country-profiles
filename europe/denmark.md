@@ -335,7 +335,7 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 **Legislative branch**<br>
 _description_: unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)<br>
 _elections_: last held on 1 November 2022 (next to be held on 31 October 2026)<br>
-_election results_: percent of vote by party - SDP 27.5%, V 13.3%, M 9.3%, E 8.1%, DF 2.6%, SLP 3.8%, SF 8.3%, EL 5.1%, C 5.5%, AP 3.3%, NB 3.3%, LA 8.1%; seats by party - SDP 50, V 23, M 16, E 14, DF 5, SLP 7, SF 15, EL 9, C 10, AP 6, NB 6, LA 14; composition<br><br>5 June 2019:  percent of vote by party - SDP 27.4%, V 24.6%, DF 9.1%, SLP 9.1%, SF 8%, EL 7.4%, C 6.9%, AP 2.9%, NB 2.3%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, AP 5, NB 4, LA 4; composition (as of September 2021) - men 108, women 71 (includes 2 from Greenland), percent of women 39.7%<br>
+_election results_: <em><br>1 November 2022:</em> percent of vote by party - SDP 27.5%, V 13.3%, M 9.3%, E 8.1%, DF 2.6%, SLP 3.8%, SF 8.3%, EL 5.1%, C 5.5%, AP 3.3%, NB 3.3%, LA 8.1%; seats by party - SDP 50, V 23, M 16, E 14, DF 5, SLP 7, SF 15, EL 9, C 10, AP 6, NB 6, LA 14; composition - men 101, women 78, percent of women 43.6%<br><br><em>5 June 2019: </em>percent of vote by party - SDP 27.4%, V 24.6%, DF 9.1%, SLP 9.1%, SF 8%, EL 7.4%, C 6.9%, AP 2.9%, NB 2.3%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, AP 5, NB 4, LA 4; composition (as of September 2021) - men 108, women 71 (includes 2 from Greenland), percent of women 39.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president and 18 judges)<br>
@@ -476,8 +476,8 @@ _highest 10%_: 23.4% (2016 est.)<br>
 0.42% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $172.5 billion (2017 est.)<br>
-_expenditures_: $168.9 billion (2017 est.)<br>
+_revenues_: $185.645 billion (2019 est.)<br>
+_expenditures_: $172.408 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.1% (of GDP) (2017 est.)<br>
@@ -684,7 +684,7 @@ Denmark operates icebreakers in the Baltic Sea and Danish Straits; currently ope
 ## Military and Security
 
 **Military and security forces**<br>
-Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Danish Air Force, Danish Home Guard (Reserves) (2022)<br>
+Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Danish Air Force, Danish Home Guard (Reserves) (2023)<br>
 <strong>note:</strong> the Danish military maintains a Joint Arctic Command with the mission of protecting the sovereignty of the Kingdom of Denmark in the Arctic Region, including the Faroe Islands and Greenland; the command also conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, hydrographical surveys, and provides support to governmental science missions<br>
 
 **Military expenditures**<br>
@@ -698,7 +698,7 @@ Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Dan
 approximately 17,000 active duty personnel (10,000 Army; 3,500 Navy; 3,500 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Danish military inventory is comprised of a mix of modern European, US, and domestically-produced equipment; the US has been the largest supplier of military equipment to Denmark in recent years; the Danish defense industry is active in the production of naval vessels, defense electronics, and subcomponents of larger weapons systems, such as the US F-35 fighter aircraft (2022)<br>
+the Danish military inventory is comprised of a mix of modern European, US, and domestically produced equipment; the US has been the largest supplier of military equipment to Denmark in recent years; the Danish defense industry is active in the production of naval vessels, defense electronics, and subcomponents of larger weapons systems, such as the US F-35 fighter aircraft (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish military offers reserve contracts in all three branches (2023)<br>
@@ -709,7 +709,7 @@ approximately 220 Estonia (NATO); approximately 750 Latvia (NATO); approximately
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Denmark, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-Denmark is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>Denmark is a member of the EU and voted to join the EU’s Common Defense and Security Policy in a June 2022 referendum<br><br>the Danish Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020 (2022)<br>
+Denmark is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>Denmark is a member of the EU and voted to join the EU’s Common Defense and Security Policy in a June 2022 referendum<br><br>the Danish Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020 (2023)<br>
 
 ## Terrorism
 
@@ -723,6 +723,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 41,419 (Ukraine) (as of 2 April 2023)<br>
+_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 41,560 (Ukraine) (as of 10 April 2023)<br>
 _stateless persons_: 11,644 (2022)<br>
 

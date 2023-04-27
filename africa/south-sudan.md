@@ -267,9 +267,9 @@ Nile (shared with Rwanda [s], Tanzania, Uganda, Sudan, and Egypt [m]) - 6,650 km
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 193 million cubic meters (2017 est.)<br>
-_industrial_: 225 million cubic meters (2017 est.)<br>
-_agricultural_: 240 million cubic meters (2017 est.)<br>
+_municipal_: 190 million cubic meters (2020 est.)<br>
+_industrial_: 230 million cubic meters (2020 est.)<br>
+_agricultural_: 240 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 49.5 billion cubic meters (2019 est.)<br>
@@ -343,7 +343,7 @@ _FAX_: [1] (202) 644-9910<br>
 _email address and website_: <br>info.ssdembassy@gmail.com<br><br>https://www.southsudanembassyusa.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Chargé d'Affaires William FLENS (since 4 June 2022)<br><br>
+_chief of mission_: Ambassador Michael J. ADLER (since 24 August 2022)<br><br>
 _embassy_: Kololo Road adjacent to the EU's compound, Juba<br>
 _mailing address_: 4420 Juba Place, Washington DC&nbsp; 20521-4420<br>
 _telephone_: [211] 912-105-188<br>
@@ -421,8 +421,8 @@ _female_: 20.2% (2021 est.)<br>
 44.1 (2016 est.)<br>
 
 **Budget**<br>
-_revenues_: $259.6 million (FY2017/18 est.)<br>
-_expenditures_: $298.6 million (FY2017/18 est.)<br>
+_revenues_: $1.94 billion (2019 est.)<br>
+_expenditures_: $1.938 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.3% (of GDP) (FY2017/18 est.)<br>
@@ -638,7 +638,7 @@ the SSPDF is largely focused on internal security; the Ground Force has approxim
 <p><em>South Sudan- Central African Republic: </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights<br><br><em>South Sudan-Democratic Republic of the Congo</em>: none identified<br><br><em>South Sudan-Ethiopia</em>: the unresolved demarcation of the boundary and lack of clear limitation create substantial room for territorial conflict both locally among the border populations and between the two capitals; besides a large number of indigenous farmers, the border region supports refugees and various rebel groups opposed to the governments in Khartoum and Addis Ababa</p> <p><br><em>South Sudan-Kenya:</em> the boundary that separates Kenya and South Sudan's sovereignty is unclear in the Ilemi Triangle and has been unclear since British colonial times; Kenya has administered the area since colonial times</p> <p><em>South Sudan-Sudan:</em> present boundary represents 1 January 1956 alignment, which clearly placed the Kafia Kingi area (adjacent to Central African Republic) within South Sudan as shown on US maps although it is mostly occupied by Sudan; final alignment pending negotiations and demarcation; the final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan; clashes continue in the oil-rich Abyei region; the United Nations interim security Force for Abyei (UNISFA) has been deployed since 2011, when South Sudan became independent, Sudan accuses South Sudan of supporting Sudanese rebel groups</p> <p><em>South Sudan-Uganda</em>: Lord’s Resistance Army operations in western Equatorial State displace and drive out local populations and steal grain stores</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 289,840 (Sudan) (2022); 11,162 (Democratic Republic of the Congo) (2023)<br>
+_refugees (country of origin)_: 289,840 (Sudan) (2022); 11,446 (Democratic Republic of the Congo) (2023)<br>
 _IDPs_: 2.23 million (alleged coup attempt and ethnic conflict beginning in December 2013; information is lacking on those displaced in earlier years by: fighting in Abyei between the Sudanese Armed Forces and the Sudan People's Liberation Army (SPLA) in May 2011; clashes between the SPLA and dissident militia groups in South Sudan; inter-ethnic conflicts over resources and cattle; attacks from the Lord's Resistance Army; floods and drought) (2023)<br>
 _stateless persons_: 10,000 (2022)<br>
 

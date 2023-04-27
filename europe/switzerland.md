@@ -494,8 +494,8 @@ _highest 10%_: 19% (2007)<br>
 0.35% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $242.1 billion (2017 est.)<br>
-_expenditures_: $234.4 billion (2017 est.)<br>
+_revenues_: $239.767 billion (2018 est.)<br>
+_expenditures_: $230.383 billion (2018 est.)<br>
 <strong>note:</strong> includes federal, cantonal, and municipal budgets<br>
 
 **Budget surplus (+) or deficit (-)**<br>
@@ -700,7 +700,7 @@ _river port(s)_: Basel (Rhine)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2022)<br>
+Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2023)<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>
@@ -713,7 +713,7 @@ Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2022)<br
 the Swiss Armed Forces maintain a full-time professional cadre of about 4,000 personnel along with approximately 18-20,000 conscripts brought in annually for 18-23 weeks of training; approximately 120,000 reserve forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of domestically produced and imported weapons systems; in recent years, the US has been the leading supplier of military armaments to Switzerland; the Swiss defense industry produces a range of military land vehicles (2022)<br>
+the military's inventory includes a mix of domestically produced and imported weapons systems; in recent years, the US has been the leading supplier of military armaments to Switzerland; the Swiss defense industry produces a range of military land vehicles (2023)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for compulsory military service for men; 18 years of age for voluntary military service; women may volunteer; every Swiss male has to serve at least 245 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by six 19-day intermittent recalls for training during the next 10 years (2023)<br>
@@ -723,7 +723,7 @@ the military's inventory includes a mix of domestically produced and imported we
 up to 165 Kosovo (NATO/KFOR) (2022)<br>
 
 **Military - note**<br>
-<p>Switzerland has long maintained a policy of military neutrality but does periodically participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military operations; Swiss law excludes participation in combat operations for peace enforcement, and Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it contributed to the NATO-led Kosovo peace-support force (KFOR) in 1999 and as of 2022, continued doing so with up to 165 personnel; Switzerland also provided a small number of staff officers to the NATO mission in Afghanistan from 2004-2007</p><br>
+<p>Switzerland has long maintained a policy of military neutrality but does periodically participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military and peacekeeping operations; however, Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it contributed to the NATO-led Kosovo force (KFOR) in 1999 and as of 2023, continued doing so with up to 165 personnel; Switzerland also provided a small number of staff officers to the NATO mission in Afghanistan from 2004-2007</p> (2023)<br>
 
 ## Terrorism
 
@@ -737,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,818 (Ukraine) (as of 31 March 2023)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,763 (Ukraine) (as of 14 April 2023)<br>
 _stateless persons_: 891 (2022)<br>
 
 **Illicit drugs**<br>

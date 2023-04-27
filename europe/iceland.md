@@ -467,8 +467,8 @@ _highest 10%_: NA<br>
 0.74% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $10.39 billion (2017 est.)<br>
-_expenditures_: $10.02 billion (2017 est.)<br>
+_revenues_: $11.776 billion (2018 est.)<br>
+_expenditures_: $11.536 billion (2018 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.5% (of GDP) (2017 est.)<br>
@@ -498,7 +498,7 @@ $11.005 billion (2019 est.) note: data are in current year dollars<br>
 Netherlands 23%, United Kingdom 9%, Germany 9%, Spain 8%, United States 7%, France 7%, Canada 5% (2019)<br>
 
 **Exports - commodities**<br>
-aluminum and aluminum products, fish products, aircraft, iron alloys, animal meal (2019)<br>
+aluminum and aluminum products, fish fillets, salmon, iron alloys, animal meal (2021)<br>
 
 **Imports**<br>
 $10.234 billion (2021 est.) note: data are in current year dollars<br>
@@ -656,16 +656,16 @@ _major seaport(s)_: Grundartangi, Hafnarfjordur, Reykjavik<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Interior: Icelandic Coast Guard (includes both air and maritime elements); Icelandic National Police (2022)<br>
+no regular military forces; Ministry of Interior: Icelandic Coast Guard (includes both air and maritime elements); Icelandic National Police (2023)<br>
 
 **Military and security service personnel strengths**<br>
 the Icelandic Coast Guard has approximately 250 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Icelandic Coast Guard's inventory consists of equipment from mostly European suppliers (2022)<br>
+the Icelandic Coast Guard's inventory consists of equipment from mostly European suppliers (2023)<br>
 
 **Military - note**<br>
-Iceland was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Iceland is the only NATO member that has no standing military force; defense of Iceland remains a NATO commitment and NATO maintains an air policing presence in Icelandic airspace; Iceland participates in international peacekeeping missions with the civilian-manned Icelandic Crisis Response Unit (ICRU)<br><br>Iceland cooperates with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br>in 1951, Iceland and the US concluded an agreement to make arrangements regarding the defense of Iceland and for the use of facilities in Iceland to that end; the agreement, along with NATO membership, is one of the two pillars of Iceland‘s security policy; since 2007 Iceland has concluded cooperation agreements with Canada, Denmark, Norway, and the UK; it also has regular consultations with Germany and France on security and defense (2022)<br>
+Iceland was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Iceland is the only NATO member that has no standing military force; defense of Iceland remains a NATO commitment and NATO maintains an air policing presence in Icelandic airspace; Iceland participates in international peacekeeping missions with the civilian-manned Icelandic Crisis Response Unit (ICRU)<br><br>Iceland cooperates with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br>in 1951, Iceland and the US concluded an agreement to make arrangements regarding the defense of Iceland and for the use of facilities in Iceland to that end; the agreement, along with NATO membership, is one of the two pillars of Iceland‘s security policy; since 2007 Iceland has concluded cooperation agreements with Canada, Denmark, Norway, and the UK; it also has regular consultations with Germany and France on security and defense (2023)<br>
 
 ## Transnational Issues
 

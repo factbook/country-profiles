@@ -280,9 +280,9 @@ Danube (shared with Germany [s], Austria, Hungary, Croatia, Serbia, Bulgaria, Uk
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 293.5 million cubic meters (2017 est.)<br>
-_industrial_: 231.2 million cubic meters (2017 est.)<br>
-_agricultural_: 31.6 million cubic meters (2017 est.)<br>
+_municipal_: 290 million cubic meters (2020 est.)<br>
+_industrial_: 230 million cubic meters (2020 est.)<br>
+_agricultural_: 30 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 50.1 billion cubic meters (2019 est.)<br>
@@ -343,7 +343,7 @@ _election results_: <em><br>2019:</em> Zuzana CAPUTOVA reelected president in se
 
 **Legislative branch**<br>
 _description_: unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 29 February 2020 (next to be held in February 2024)<br>
+_elections_: last held on 29 February 2020 (next to be held in September 2023)<br>
 _election results_: percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina or SR 8.2%, LSNS 8%, SaS 6.2%, Za Ludi or ZL 5.8%, other 28.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12; composition (as of mid-2022) - men 118, women 77, percent of women 21.3%<br>
 
 **Judicial branch**<br>
@@ -352,7 +352,7 @@ _judge selection and term of office_: Supreme Court judge candidates nominated b
 _subordinate courts_: regional and district civil courts; Special Criminal Court; Higher Military Court; military district courts; Court of Audit;<br>
 
 **Political parties and leaders**<br>
-Alliance-Szovetseg or A-S [Krisztian FORRO]<br>Direction-Social Democracy or Smer-SD [Robert FICO]<br>For the People or Za Ludi [Veronika REMISOVA]<br>Freedom and Solidarity or SaS [Richard SULIK]<br>Kotleba-People's Party Our Slovakia or LSNS [Marian KOTLEBA]<br>Ordinary People and Independent Personalities - New Majority or OLaNO-NOVA [Igor MATOVIC]<br>Slovak National Party or SNS [Andrej DANKO]<br>Voice - Social Democracy or Hlas-SD [Petr PELLIGRINI]<br>We Are Family or Sme-Rodina [Boris KOLLAR] (formerly Party of Citizens of Slovakia)<br>
+Alliance-Szovetseg or A-S [Krisztian FORRO]<br>Democrats [Eduard HEGER]<br>Direction-Social Democracy or Smer-SD [Robert FICO]<br>For the People or Za Ludi [Veronika REMISOVA]<br>Freedom and Solidarity or SaS [Richard SULIK]<br>Kotleba-People's Party Our Slovakia or LSNS [Marian KOTLEBA]<br>Ordinary People and Independent Personalities - New Majority or OLaNO-NOVA [Igor MATOVIC]<br>Slovak National Party or SNS [Andrej DANKO]<br>Voice - Social Democracy or Hlas-SD [Petr PELLIGRINI]<br>We Are Family or Sme-Rodina [Boris KOLLAR] (formerly Party of Citizens of Slovakia)<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -485,8 +485,8 @@ _highest 10%_: 19.3% (2015 est.)<br>
 2.41% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $37.79 billion (2017 est.)<br>
-_expenditures_: $38.79 billion (2017 est.)<br>
+_revenues_: $43.495 billion (2019 est.)<br>
+_expenditures_: $44.914 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1% (of GDP) (2017 est.)<br>
@@ -707,7 +707,7 @@ the military's inventory consists mostly of Soviet-era platforms; in recent year
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Slovakia, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host a NATO ground force battlegroup comprised of troops from Czechia, Germany, the Netherlands, Poland, Slovakia, Slovenia, and the US; Czechia and Poland also provide the NATO air policing mission for Slovakia<br>
+Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host a NATO ground force battlegroup comprised of troops from Czechia, Germany, the Netherlands, Poland, Slovakia, Slovenia, and the US; Czechia and Poland also provide fighter aircraft for the NATO air policing mission over Slovakia (2023)<br>
 
 ## Transnational Issues
 
@@ -715,7 +715,7 @@ Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host
 <p><em>Slovakia-Austria</em>: none identified</p> <p><em>Slovakia-Czechia</em>: none identified</p> <p><em>Slovakia-Hungary</em>: initiated by the 1977 Budapest Treaty, Hungary and formerly Czechoslovakia agreed to a hydroelectric dam project on the Danube with dams to be constructed at Gabcikovo (Slovakia) and Nagymaros (Hungary) to prevent floods, improve river navigability, and to generate electricity; when Hungary suspended work on the project until its environmental impact could be assessed, Slovakia continued working on it and adopted a pared down strategy to divert the Danube so that all construction was within Czechoslovakian territory; Hungary terminated the project on environmental and economic grounds in 1989, and in 1992 both countries took the matter to the International Court of Justice (ICJ); the ICJ found largely in favor of then Slovakia, finding Hungary had breached their agreement; however, then Czechoslovakia should not have begun the alternative plan before the ICJ ruled on the case; in 2017, Hungary and Slovakia agreed to discontinue the ICJ proceedings</p> <p><em>Slovakia-Poland</em>: none identified</p> <p><em>Slovakia-Ukraine</em>: tens of thousands of Ukrainian refugees are crossing the border to Slovakia to escape the Russian invasion in their country</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,253 (Ukraine) (as of 2 April 2023)<br>
+_refugees (country of origin)_: 113,509 (Ukraine) (as of 16 April 2023)<br>
 _stateless persons_: 2,940 (2022)<br>
 
 **Illicit drugs**<br>

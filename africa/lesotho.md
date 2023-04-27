@@ -491,8 +491,8 @@ _highest 10%_: 39.4% (2003)<br>
 22.16% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $1.09 billion (2017 est.)<br>
-_expenditures_: $1.255 billion (2017 est.)<br>
+_revenues_: $1.054 billion (2020 est.)<br>
+_expenditures_: $1.21 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -6% (of GDP) (2017 est.)<br>

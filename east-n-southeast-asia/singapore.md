@@ -272,9 +272,9 @@ _municipal solid waste recycled annually_: 4,699,623 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 61% (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 296.73 million cubic meters (2017 est.)<br>
-_industrial_: 336.294 million cubic meters (2017 est.)<br>
-_agricultural_: 26.376 million cubic meters (2017 est.)<br>
+_municipal_: 300 million cubic meters (2020 est.)<br>
+_industrial_: 340 million cubic meters (2020 est.)<br>
+_agricultural_: 30 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 600 million cubic meters (2019 est.)<br>
@@ -479,8 +479,8 @@ _highest 10%_: 27.5% (2017)<br>
 0% of GDP (2017 est.)<br>
 
 **Budget**<br>
-_revenues_: $50.85 billion (2017 est.)<br>
-_expenditures_: $51.87 billion (2017 est.)<br>
+_revenues_: $59.974 billion (2020 est.)<br>
+_expenditures_: $90.264 billion (2020 est.)<br>
 <strong>note:</strong> expenditures include both operational and development expenditures<br>
 
 **Budget surplus (+) or deficit (-)**<br>
@@ -677,11 +677,11 @@ Singapore Armed Forces (SAF; aka Singapore Defense Force): Singapore Army, Repub
 <strong>note 1: </strong>the Digital and Intelligence Service (DIS) was stood up as the fourth SAF service in October of 2022<strong><br><br>note 2:</strong> the Gurkha Contingent of the Singapore Police Force (GCSPF) is a paramilitary unit for riot control and acts as a rapid reaction force <strong><br></strong><br><strong>note 3:</strong> in 2009, Singapore established a multi-agency national Maritime Security Task Force (MSTF) to work with law enforcement and maritime agencies to guard Singapore’s waters, including conducting daily patrols, as well as boarding and escort operations in the Singapore Strait; the MSTF is subordinate to the Singapore Navy<br>
 
 **Military expenditures**<br>
-3.2% of GDP (2021 est.)<br>
+2.9% of GDP (2022 est.)<br>
+3% of GDP (2021 est.)<br>
 3% of GDP (2020)<br>
 2.9% of GDP (2019)<br>
 2.9% of GDP (2018)<br>
-3% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 60,000 active duty troops (45,000 Army; 7,000 Navy; 8,000 Air Force) (2022)<br>

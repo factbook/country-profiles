@@ -97,12 +97,12 @@ Arab 75-80%, Kurdish 15-20%, other 5% (includes Turkmen, Yezidi, Shabak, Kaka'i,
 <strong>note:</strong> data is a 1987 government estimate; no more recent reliable numbers are available<br>
 
 **Languages**<br>
-Arabic (official), Kurdish (official), Turkmen (a Turkish dialect), Syriac (Neo-Aramaic), and Armenian are official in areas where native speakers of these languages constitute a majority of the population<br>
+Arabic (official), Kurdish (official); Turkmen (a Turkish dialect) and Syriac (Neo-Aramaic) are recognized as official languages where native speakers of these languages are present; Iraqis have the right to be educated in their native language<br>
 _major-language sample(s)_: <br>كتاب حقائق العالم، أحسن مصدر للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim (official) 95-98% (Shia 61-64%, Sunni 29-34%), Christian 1% (includes Catholic, Orthodox, Protestant, Assyrian Church of the East), other 1-4% (2015 est.)<br>
-<strong>note:</strong> the last census in Iraq was in 1997; while there has been voluntary relocation of many Christian families to northern Iraq, the overall Christian population has decreased at least 50% and perhaps as high as 90% since the fall of the SADDAM Husayn regime in 2003, according to US Embassy estimates, with many fleeing to Syria, Jordan, and Lebanon<br>
+<strong>note:</strong> the last census in Iraq was in 1997; while there has been voluntary relocation of many Christian families to northern Iraq, the overall Christian population has decreased at least 50% and perhaps as much as 90% since 2003, according to US Embassy estimates, with many fleeing to Syria, Jordan, and Lebanon<br>
 
 **Age structure**<br>
 _0-14 years_: 35.24% (male 7,428,445/female 7,113,723)<br>
@@ -505,8 +505,8 @@ _highest 10%_: 25.7% (2007 est.)<br>
 0.33% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $68.71 billion (2017 est.)<br>
-_expenditures_: $76.82 billion (2017 est.)<br>
+_revenues_: $51.534 billion (2020 est.)<br>
+_expenditures_: $85.546 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -4.2% (of GDP) (2017 est.)<br>
@@ -536,7 +536,7 @@ $88.903 billion (2019 est.) note: data are in current year dollars<br>
 China 26%, India 24%, South Korea 9%, United States 8%, Italy 6%, Greece 6% (2019)<br>
 
 **Exports - commodities**<br>
-crude petroleum, refined petroleum, gold, dates, petroleum coke (2019)<br>
+crude petroleum, refined petroleum, gold, petroleum coke, natural gas (2021)<br>
 
 **Imports**<br>
 $50.707 billion (2021 est.) note: data are in current year dollars<br>
@@ -747,7 +747,7 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods
 <p><em>Iraq-Iran</em>: Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf</p> <p><em>Iraq-Turkey</em>: Turkey has expressed concern over the autonomous status of Kurds in Iraq</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,864 (West Bank and Gaza Strip) (mid-year 2022); 260,341 (Syria), 8,423 (Iran), 8,191 (Turkey) (2023)<br>
+_refugees (country of origin)_: 7,864 (West Bank and Gaza Strip) (mid-year 2022); 261,929 (Syria), 8,423 (Iran), 8,191 (Turkey) (2023)<br>
 _IDPs_: 1.17 million (displacement in central and northern Iraq since January 2014) (2023)<br>
 _stateless persons_: 47,253 (2022); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 

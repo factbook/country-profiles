@@ -502,8 +502,8 @@ _highest 10%_: 37.6% (2013 est.)<br>
 1.76% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $5.524 billion (2017 est.)<br>
-_expenditures_: $5.968 billion (2017 est.)<br>
+_revenues_: $7.272 billion (2019 est.)<br>
+_expenditures_: $8.714 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.1% (of GDP) (2017 est.)<br>
@@ -721,7 +721,7 @@ the military's inventory is comprised of mostly older equipment from a variety o
 <strong>note:</strong> as of 2021, women made up about 6% of the active military<br>
 
 **Military - note**<br>
-the armed forces conduct operations against the Paraguayan People's Army (Ej&eacute;rcito del Pueblo Paraguayo, EPP), a domestic criminal group initially dedicated to a socialist revolution in Paraguay that operates in the rural northern part of the country along the border with Brazil; they also assist internal security forces in countering narco-trafficking networks (2023)<br>
+the armed forces conduct operations against the Paraguayan People's Army (Ej&eacute;rcito del Pueblo Paraguayo, EPP), a domestic criminal group initially dedicated to a Marxist-Leninist revolution in Paraguay that operates in the rural northern part of the country along the border with Brazil; they also assist internal security forces in countering narco-trafficking networks (2023)<br>
 
 ## Terrorism
 

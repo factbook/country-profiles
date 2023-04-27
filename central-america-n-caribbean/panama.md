@@ -488,8 +488,8 @@ _highest 10%_: 38.9% (2014 est.)<br>
 0.87% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $12.43 billion (2017 est.)<br>
-_expenditures_: $13.44 billion (2017 est.)<br>
+_revenues_: $9.743 billion (2020 est.)<br>
+_expenditures_: $15.145 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.6% (of GDP) (2017 est.)<br>
@@ -711,7 +711,7 @@ approximately 20,000 National Police; 4,000 National Border Service; 3,000 Natio
 Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces in recent years (2022)<br>
 
 **Military - note**<br>
-<p>the MPS's chief focuses are countering narcotics trafficking and border security; Panama's security forces have long been criticized for being ineffective and corrupt</p> Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2022)<br>
+<p>the MPS's chief focuses are countering narcotics trafficking and border security</p> Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2023)<br>
 
 ## Transnational Issues
 

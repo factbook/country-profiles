@@ -467,8 +467,8 @@ _highest 10%_: NA<br>
 1.68% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $5.076 billion (2017 est.)<br>
-_expenditures_: $4.583 billion (2017 est.)<br>
+_revenues_: $5.661 billion (2019 est.)<br>
+_expenditures_: $5.586 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 3.9% (of GDP) (2017 est.)<br>
@@ -662,11 +662,11 @@ the Armed Forces of Malta (AFM) is a joint force with land, maritime, and air el
 <strong>note:</strong> the AFM and the Malta Police Force are both under the Ministry of Home Affairs, National Security, and Law Enforcement<br>
 
 **Military expenditures**<br>
-0.5% of GDP (2021 est.)<br>
+0.6% of GDP (2022 est.)<br>
+0.5% of GDP (2021)<br>
 0.6% of GDP (2020)<br>
 0.5% of GDP (2019)<br>
 0.5% of GDP (2018)<br>
-0.5% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 active duty personnel (2021)<br>

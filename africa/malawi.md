@@ -502,8 +502,8 @@ _highest 10%_: 37.5% (2010 est.)<br>
 2.55% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $1.356 billion (2017 est.)<br>
-_expenditures_: $1.567 billion (2017 est.)<br>
+_revenues_: $1.628 billion (2019 est.)<br>
+_expenditures_: $2.129 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.4% (of GDP) (2017 est.)<br>
@@ -730,7 +730,7 @@ the MDF’s primary responsibility is external security; it is also tasked as ne
 <p><em>Malawi-Mozambique</em>: the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Malawi-Tanzania</em>: dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p> <p><em>Malawi-Zambia</em>: border demarcation was completed in 2011; in 2018, the redemarcation exercise determined that some parts of Malawi actually belonged to Zambia</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 13,205 (Burundi) (refugees and asylum seekers), 7,807 (Rwanda) (refugees and asylum seekers) (2022); 35,420 (Democratic Republic of the Congo) (refugees and asylum seekers (2023)<br>
+_refugees (country of origin)_: 13,205 (Burundi) (refugees and asylum seekers), 7,807 (Rwanda) (refugees and asylum seekers) (2022); 32,715 (Democratic Republic of the Congo) (refugees and asylum seekers (2023)<br>
 
 **Illicit drugs**<br>
 NA<br>

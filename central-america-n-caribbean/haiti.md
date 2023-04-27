@@ -483,8 +483,8 @@ _highest 10%_: 47.7% (2001)<br>
 20.47% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $1.567 billion (2017 est.)<br>
-_expenditures_: $1.65 billion (2017 est.)<br>
+_revenues_: $1.179 billion (2020 est.)<br>
+_expenditures_: $1.527 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1% (of GDP) (2017 est.)<br>
@@ -513,7 +513,7 @@ $1.733 billion (2019 est.)<br>
 United States 81%, Canada 7% (2019)<br>
 
 **Exports - commodities**<br>
-clothing and apparel, eels, essential oils, perfumes, mangoes, cocoa beans (2019)<br>
+clothing and apparel, essential oils, eels, mangoes, scrap iron (2021)<br>
 
 **Imports**<br>
 $5.222 billion (2021 est.) note: data are in current year dollars<br>

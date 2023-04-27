@@ -313,9 +313,9 @@ Atlantic Ocean drainage: Senegal (456,397 sq km)<br>
 Senegalo-Mauritanian Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 98 million cubic meters (2017 est.)<br>
+_municipal_: 260 million cubic meters (2020 est.)<br>
 _industrial_: 58 million cubic meters (2017 est.)<br>
-_agricultural_: 2.065 billion cubic meters (2017 est.)<br>
+_agricultural_: 2.76 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 39 billion cubic meters (2019 est.)<br>
@@ -512,8 +512,8 @@ _highest 10%_: 31.1% (2011)<br>
 10.5% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $4.139 billion (2017 est.)<br>
-_expenditures_: $4.9 billion (2017 est.)<br>
+_revenues_: $4.76 billion (2019 est.)<br>
+_expenditures_: $5.662 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.6% (of GDP) (2017 est.)<br>

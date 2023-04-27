@@ -290,9 +290,9 @@ _municipal solid waste recycled annually_: 336,588 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 12.8% (2016 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 805 million cubic meters (2017 est.)<br>
-_industrial_: 831 million cubic meters (2017 est.)<br>
-_agricultural_: 11.31 billion cubic meters (2017 est.)<br>
+_municipal_: 810 million cubic meters (2020 est.)<br>
+_industrial_: 830 million cubic meters (2020 est.)<br>
+_agricultural_: 11.31 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 52.8 billion cubic meters (2019 est.)<br>
@@ -495,8 +495,8 @@ _highest 10%_: 32.2% (2012 est.)<br>
 7.45% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $12.07 billion (2017 est.)<br>
-_expenditures_: $16.88 billion (2017 est.)<br>
+_revenues_: $10.623 billion (2019 est.)<br>
+_expenditures_: $17.496 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -5.5% (of GDP) (2017 est.)<br>
@@ -705,7 +705,7 @@ Sri Lanka Armed Forces: Sri Lanka Army (includes National Guard and the Voluntee
 <strong>note:</strong> the Sri Lanka Police includes the Special Task Force, a paramilitary unit responsible for counterterrorism and counterinsurgency operations; it coordinates internal security operations with the military<br>
 
 **Military expenditures**<br>
-1.9% of GDP (2022 est.)<br>
+1.7% of GDP (2022 est.)<br>
 1.9% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
 2% of GDP (2019 est.)<br>

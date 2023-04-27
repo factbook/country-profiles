@@ -347,15 +347,15 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Recep Tayyip ERDOGAN (chief of state since 28 August 2014; head of government since 9 July 2019); Vice President Fuat OKTAY (since 9 July 2018); note - the president is both chief of state and head of government<br>
-_head of government_: President Recep Tayyip ERDOGAN (head of government since 9 July 2019; chief of state since 28 August 2014); note - a 2017 constitutional referendum eliminated the post of prime minister after the 2018 general election<br>
+_chief of state_: President Recep Tayyip ERDOGAN (chief of state since 28 August 2014; head of government since 9 July 2018); Vice President Fuat OKTAY (since 9 July 2018); note - the president is both chief of state and head of government<br>
+_head of government_: President Recep Tayyip ERDOGAN (head of government since 9 July 2018; chief of state since 28 August 2014); note - a 2017 constitutional referendum eliminated the post of prime minister after the 2018 general election<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 June 2018 (next scheduled for June 2023)<br>
 _election results_: <em>2018:</em> Recep Tayyip ERDOGAN reelected president in the first round; Recep Tayyip ERDOGAN (AKP) 52.6%, Muharrem INCE (CHP) 30.6%, Selahattin DEMIRTAS (HDP) 8.4%, Meral AKSENER (IYI) 7.3%, other 1.1%<br><br><em>2013:</em> Recep Tayyip ERDOGAN elected president in the first round; Recep Tayyip ERDOGAN (AKP) 51.8%, Ekmeleddin IHSANOGLU (independent) 38.4%, Selahattin DEMIRTAS (HDP) 9.8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Grand National Assembly of Turkey or Turkey Buyuk Millet Meclisi (600 seats - increased from 550 seats beginning with June 2018 election; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 5-year terms - increased from 4 to 5 years beginning with June 2018 election)<br>
-_elections_: last held on 24 June 2018 (next to be held in June 2023)<br>
+_elections_: last held on 24 June 2018 (next to be held on 14 May 2023)<br>
 _election results_: percent of vote by party - People's Alliance 53.7% (AKP 42.6%, MHP 11.1%), Nation Alliance 33.9% (CHP 22.6%, IYI 10%, SP 1.3%), HDP 11.7%, other 0.7%; seats by party - People's Alliance 344 (AKP 295, MHP 49), National Alliance 189 (CHP 146, IYI 43), HDP 67; note - only parties surpassing a 10% threshold can win parliamentary seats; composition as of mid-2022 (582 members) - men 481, women 101, percent of women 17.4%<br>
 
 **Judicial branch**<br>
@@ -364,7 +364,7 @@ _judge selection and term of office_: Constitutional Court members - 3 appointed
 _subordinate courts_: regional appeals courts; basic (first instance) courts; peace courts; aggravated crime courts; specialized courts, including administrative and audit; note - a constitutional amendment in 2017 abolished military courts unless established to investigate military personnel actions during war conditions<br>
 
 **Political parties and leaders**<br>
-Democracy and Progress Party or DEVA [Ali BABACAN]<br>Democrat Party or DP [Gultekin UYSAL]<br>Democratic Regions Party or DBP [Saliha AYDENIZ, Keskin BAYINDIR]<br>Felicity Party (Saadet Party) or SP [Temel KARAMOLLAOGLU]<br>Free Cause Party or HUDA PAR [Zekeriya YAPICIOGLU]<br>Future Party (Gelecek Partisi) or GP [Ahmet DAVUTOGLU]<br>Good Party (IYI Party) [Meral AKSENER]<br>Grand Unity Party or BBP [Mustafa DESTICI]<br>Justice and Development Party or AKP [Recep Tayyip ERDOGAN]<br>Nation Alliance (electoral alliance includes CHP, IYI, SP, DP)<br>Nationalist Movement Party or MHP [Devlet BAHCELI]<br>Patriotic Party (Vatan Partisi) or VP [Dogu PERINCEK]<br>People's Alliance (electoral alliance AKP, MHP, BBP)<br>Peoples' Democratic Party or HDP [Pervin BULDAN, Mithat SANCAR]<br>Republican People's Party or CHP [Kemal KILICDAROGLU]<br>
+Democracy and Progress Party or DEVA [Ali BABACAN]<br>Democrat Party or DP [Gultekin UYSAL]<br>Democratic Regions Party or DBP [Saliha AYDENIZ, Keskin BAYINDIR]<br>Felicity Party (Saadet Party) or SP [Temel KARAMOLLAOGLU]<br>Free Cause Party or HUDA PAR [Zekeriya YAPICIOGLU]<br>Future Party (Gelecek Partisi) or GP [Ahmet DAVUTOGLU]<br>Good Party (IYI Party) [Meral AKSENER]<br>Grand Unity Party or BBP [Mustafa DESTICI]<br>Justice and Development Party or AKP [Recep Tayyip ERDOGAN]<br>Nation Alliance (electoral alliance includes CHP, DEVA, DP, GP, IYI, SP)<br>Nationalist Movement Party or MHP [Devlet BAHCELI]<br>New Welfare Party or YRP [Fatih ERBAKAN]<br>Patriotic Party (Vatan Partisi) or VP [Dogu PERINCEK]<br>People's Alliance (electoral alliance includes AKP, BBP, MHP, YRP)<br>Peoples' Democratic Party or HDP [Pervin BULDAN, Mithat SANCAR]<br>Republican People's Party or CHP [Kemal KILICDAROGLU]<br>
 <strong>note: </strong> as of September 2021, 116 political parties were legally registered<br>
 
 **International organization participation**<br>
@@ -381,9 +381,9 @@ _consulate(s) general_: Boston, Chicago, Houston, Los Angeles, Miami, New York<b
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Jeffrey Lane FLAKE (since 26 January 2022)<br>
-_embassy_: 110 Ataturk Boulevard, Kavaklidere, 06100 Ankara<br>
+_embassy_: 1480 Sokak No. 1, Cukurambar Mahallesi, 06530 Cankaya, Ankara<br>
 _mailing address_: 7000 Ankara Place, Washington&nbsp; DC 20512-7000<br>
-_telephone_: [90] (312) 455-5555<br>
+_telephone_: [90] (312) 294-0000<br>
 _FAX_: [90] (312) 467-0019<br>
 _email address and website_: <br>Ankara-ACS@state.gov<br><br>https://tr.usembassy.gov/<br>
 _consulate(s) general_: Istanbul<br>
@@ -501,8 +501,8 @@ _highest 10%_: 30.3% (2008)<br>
 0.11% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $172.8 billion (2017 est.)<br>
-_expenditures_: $185.8 billion (2017 est.)<br>
+_revenues_: $210.536 billion (2020 est.)<br>
+_expenditures_: $249.268 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.5% (of GDP) (2017 est.)<br>
@@ -714,7 +714,7 @@ Turkish Armed Forces (TSK): Turkish Land Forces (Turk Kara Kuvvetleri), Turkish 
 <strong>note:</strong> the Gendarmerie (Jandarma) is responsible for the maintenance of the public order in areas that fall outside the jurisdiction of police forces (generally in rural areas); in wartime, the Gendarmerie and Coast Guard would be placed under the operational control of the Land Forces and Naval Forces, respectively<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2022 est.)<br>
+1.2% of GDP (2022 est.)<br>
 1.6% of GDP (2021)<br>
 1.9% of GDP (2020)<br>
 1.9% of GDP (2019)<br>
@@ -724,7 +724,7 @@ Turkish Armed Forces (TSK): Turkish Land Forces (Turk Kara Kuvvetleri), Turkish 
 approximately 445,000 active duty personnel (350,000 Army; 45,000 Navy; 50,000 Air Force); approximately 150,000 Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is mostly comprised of a mix of domestically produced and Western weapons systems, although in recent years, Turkey has also acquired some Chinese, Russian, and South Korean equipment; over the past decade, the US has been the leading provider of armaments to Turkey; other significant suppliers have included Germany, Italy, South Korea, and Spain; Turkey has a robust defense industry capable of producing a range of weapons systems for both export and internal use, including armored vehicles, naval vessels, and unmanned aerial platforms, although it is heavily dependent on Western technology; Turkey's defense industry also partners with other countries for defense production (2022)<br>
+the military's inventory is mostly comprised of a mix of domestically produced and Western weapons systems, although in recent years, Turkey has also acquired some Chinese, Russian, and South Korean equipment; over the past decade, the US has been the leading provider of armaments to Turkey; other significant suppliers have included Germany, Italy, South Korea, and Spain; Turkey has a robust defense industry capable of producing a range of weapons systems for both export and internal use, including armored vehicles, naval vessels, and unmanned aerial vehicles (UAVs), although it is heavily dependent on Western technology; Turkey's defense industry also partners with other countries for defense production (2023)<br>
 
 **Military service age and obligation**<br>
 mandatory military service for men at age 20; service can be delayed if in university or in certain professions (researchers, professionals, and athletic, or those with artistic talents have the right to postpone military service until the age of 35); 6-12 months service; women may volunteer (2023)<br>
@@ -735,7 +735,7 @@ approximately 150 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosni
 <strong>note 1:</strong> between 2016 and 2020, Turkey conducted four significant military ground campaigns in northern Syria; Turkey also has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018, and smaller-scale operations in 2021 and 2022; Turkey has also conducted numerous air strikes in both Iraq and Syria; in October of 2021, Turkey’s parliament extended the military’s mandate to launch cross-border operations in Iraq and Syria by two more years<br><br><strong>note 2:</strong> in 2020, Turkey deployed hundreds of Turkish troops and as many as 5,000 Syrian fighters to Libya to support the Libyan Government of National Accord<br>
 
 **Military - note**<br>
-Turkey has been a member of NATO since 1952 and hosts NATO's Land Forces Command in Izmir, as well as a NATO/US airbase at Incirlik and a NATO missile defense radar system in eastern Turkey<br><br>under a long-range (2033) strategic plan, the Turkish Armed Forces continued efforts to modernize its equipment and force structure; Land Forces sought to produce a 20-30% smaller, more highly trained force characterized by greater mobility and firepower and capable of joint and combined operations<br><br>the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey's coastal waters; it is planning to launch new frigates, submarines, and a light aircraft carrier/amphibious assault ship in the next few years, adding to its current force of about 16 frigates and 12 submarines; the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications <br><br>the Turkish Air Force adopted an "Aerospace and Missile Defense Concept" in 2002 and is developing an integrated missile defense system; in a controversial move that complicated its relationship with NATO and the US, it purchased the Russian S-400 air defense system for an estimated $2.5 billion in 2019; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system <br><br>in recent years, Turkey has taken on a greater level of international peacekeeping responsibilities, including keeping a substantial force under NATO in Afghanistan until withdrawing in 2021; Turkey also has built expeditionary military bases in Qatar, Somalia, northern Cyprus, and Sudan<br><br>the military has a substantial stake in Turkey's economy through a holding company that is involved in the automotive, energy, finance, and logistics sectors, as well as iron and steel production (2022)<br>
+Turkey has been a member of NATO since 1952 and hosts NATO's Land Forces Command in Izmir, as well as a NATO/US airbase at Incirlik and a NATO missile defense radar system in eastern Turkey<br><br>under a long-range (2033) strategic plan, the Turkish Armed Forces continues efforts to modernize its equipment and force structure; Turkish Land Forces are seeking to produce a 20-30% smaller, more highly trained force characterized by greater mobility and firepower and capable of joint and combined operations<br><br>the Turkish Navy is a regional naval power that seeks to develop the capability to project power beyond Turkey's coastal waters; it is planning to launch new frigates, submarines, and a light aircraft carrier/amphibious assault ship in the next few years, adding to its current force of about 16 frigates and 12 submarines; the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications <br><br>the Turkish Air Force adopted an "Aerospace and Missile Defense Concept" in 2002 and is developing an integrated missile defense system; in a controversial move that complicated its relationship with NATO and the US, it purchased the Russian S-400 air defense system for an estimated $2.5 billion in 2019; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system <br><br>in recent years, Turkey has taken on a greater level of international peacekeeping responsibilities, including keeping a substantial force under NATO in Afghanistan until withdrawing in 2021; Turkey also has built expeditionary military bases in Qatar, Somalia, northern Cyprus, and Sudan<br><br>the military has a substantial stake in Turkey's economy through a holding company that is involved in the automotive, energy, finance, and logistics sectors, as well as iron and steel production (2023)<br>
 
 ## Terrorism
 
@@ -749,7 +749,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 <p><em>Turkey-Armenia</em>: in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered;  in early 2022, the two countries held talks twice aimed at normalizing relations, which could lead to the opening of their land border, shut since 1993; in 2000, Turkish authorities complained to UNESCO that blasting from quarries in Armenia was damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p> <p><em>Turkey-Azerbaijan</em>: none identified</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece; the Aegean Maritime Boundary is complicated by the close proximity of Greek islands to the western shores of the Turkish Anatolian peninsula, representing the primary source of conflict between the two countries</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 3,426,719 (Syria) (2023); 95,874 (Ukraine) (as of 26 January 2023)<br>
+_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 3,419,328 (Syria) (2023); 95,874 (Ukraine) (as of 26 January 2023)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2021)<br>
 _stateless persons_: 117 (2018)<br>
 

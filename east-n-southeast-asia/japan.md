@@ -482,8 +482,8 @@ _highest 10%_: 24.8% (2008)<br>
 0.09% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $1.714 trillion (2017 est.)<br>
-_expenditures_: $1.885 trillion (2017 est.)<br>
+_revenues_: $1.756 trillion (2019 est.)<br>
+_expenditures_: $1.916 trillion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.5% (of GDP) (2017 est.)<br>
@@ -701,7 +701,7 @@ Japan operates one PC 3 or 4 class medium icebreaker<br>note - PC indicates a Po
 Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSDF; includes aviation), Maritime Self-Defense Force (Kaijou Jieitai, MSDF; includes naval aviation), Air Self-Defense Force (Koukuu Jieitai, ASDF); Japan Coast Guard (Ministry of Land, Transport, Infrastructure and Tourism) (2022)<br>
 
 **Military expenditures**<br>
-1% of GDP (2022)<br>
+1.1% of GDP (2022 est.)<br>
 1% of GDP (2021)<br>
 1% of GDP (2020)<br>
 0.9% of GDP (2019)<br>

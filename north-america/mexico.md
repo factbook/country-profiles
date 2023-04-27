@@ -526,8 +526,8 @@ _highest 10%_: 40% (2014)<br>
 3.07% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $261.4 billion (2017 est.)<br>
-_expenditures_: $273.8 billion (2017 est.)<br>
+_revenues_: $264.261 billion (2020 est.)<br>
+_expenditures_: $313.358 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.1% (of GDP) (2017 est.)<br>
@@ -760,7 +760,7 @@ the Mexican military inventory includes a mix of domestically produced and impor
 <strong>note: </strong>as of 2022, women comprised about 15% of the active duty military<br>
 
 **Military - note**<br>
-the constitution was amended in 2019 to grant the president the authority to use the armed forces to protect internal and national security, and courts have upheld the legality of the armed forces&rsquo; role in law enforcement activities in support of civilian authorities through 2028; Mexican military operations are heavily focused on internal security duties, particularly in countering drug cartels and organized crime groups, as well as border control and immigration enforcement; the armed forces also administer most of the country's land and sea ports and customs services, plus the approximately 2,700 branches of a state-owned development bank; in addition, President LOPEZ OBRADOR has placed the military in charge of a growing number of infrastructure projects, such as building a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast (2022)<br>
+the constitution was amended in 2019 to grant the president the authority to use the armed forces to protect internal and national security, and courts have upheld the legality of the armed forces&rsquo; role in law enforcement activities in support of civilian authorities through 2028; Mexican military operations are heavily focused on internal security duties, particularly in countering drug cartels and organized crime groups, as well as border control and immigration enforcement; the armed forces also administer most of the country's land and sea ports and customs services, plus the approximately 2,700 branches of a state-owned development bank; in addition, President LOPEZ OBRADOR has placed the military in charge of a growing number of infrastructure projects, such as building and operating a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reported one incident in the territorial waters of Mexico in 2022, the same number of attacks as in 2021; ports in Mexico continue to be affected by the crime of armed robbery; this incident occurred in the port of Puerto Dos Bocas while ships were berthed or at anchor; pirates and robbers in this area are armed with guns<br>

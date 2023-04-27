@@ -556,7 +556,7 @@ _major seaport(s)_: Fuglafjordur, Torshavn, Vagur<br>
 no regular military forces or conscription<br>
 
 **Military - note**<br>
-the Government of Denmark has responsibility for defense; as such, the Danish military&rsquo;s Joint Arctic Command in Nuuk, Greenland is responsible for territorial defense of the Faroe Islands; the Joint Arctic Command has a contact element in the capital of Torshavn<br>
+the Government of Denmark has responsibility for defense; as such, the Danish military&rsquo;s Joint Arctic Command in Nuuk, Greenland is responsible for coordinating the defense of the Faroe Islands; the Joint Arctic Command has a contact element in the capital of Torshavn<br>
 
 ## Transnational Issues
 

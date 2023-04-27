@@ -441,8 +441,8 @@ _highest 10%_: NA<br>
 14.34% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $116.7 million (2013 est.)<br>
-_expenditures_: $113.9 million (2013 est.)<br>
+_revenues_: $148 million (2019 est.)<br>
+_expenditures_: $153 million (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.3% (of GDP) (2013 est.)<br>

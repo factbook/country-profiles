@@ -516,8 +516,8 @@ _highest 10%_: 25.4% (2013)<br>
 1.1% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $1.392 trillion (2017 est.)<br>
-_expenditures_: $1.459 trillion (2017 est.)<br>
+_revenues_: $1.427 trillion (2019 est.)<br>
+_expenditures_: $1.509 trillion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -2.6% (of GDP) (2017 est.)<br>
@@ -747,8 +747,8 @@ French Armed Forces (Forces Armées Françaises): Army (l'Armee de Terre; includ
 approximately 205,000 active-duty troops (115,000 Army; 35,000 Navy; 40,000 Air Force; 15,000 other, such as joint staffs, administration, logistics, procurement, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the French military's inventory consists mostly of domestically produced weapons systems, including some jointly produced with other European countries; there is a limited mix of armaments from other Western countries, particularly the US; France has a defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2022)<br>
-<strong>note:</strong> as of 2022, two major future acquisition programs for the French military included the Franco-German-Spanish Future Combat Air System, or FCAS (known in France as the système combat aérien du futur, or SCAF) and a next-generation tank development project with Germany known as the Main Ground Combat System, or MGCS <br>
+the French military's inventory consists mostly of domestically produced weapons systems, including some jointly produced with other European countries; there is a limited mix of armaments from other Western countries, particularly the US; France has a defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2023)<br>
+<strong>note:</strong> two major future acquisition programs for the French military included the Franco-German-Spanish Future Combat Air System, or FCAS (known in France as the système combat aérien du futur, or SCAF) and a next-generation tank development project with Germany known as the Main Ground Combat System, or MGCS<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service for men and women; no conscription (abolished 2001); 12-month service obligation; women serve in noncombat posts (2022)<br>

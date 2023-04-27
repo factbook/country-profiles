@@ -282,9 +282,9 @@ _percent of municipal solid waste recycled_: 16.8% (2015 est.)<br>
 Tagus river source (shared with Portugal [m]) - 1,006<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Total water withdrawal**<br>
-_municipal_: 4.89 billion cubic meters (2017 est.)<br>
-_industrial_: 5.966 billion cubic meters (2017 est.)<br>
-_agricultural_: 20.36 billion cubic meters (2017 est.)<br>
+_municipal_: 4.56 billion cubic meters (2020 est.)<br>
+_industrial_: 5.5 billion cubic meters (2020 est.)<br>
+_agricultural_: 18.96 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 111.5 billion cubic meters (2019 est.)<br>
@@ -491,8 +491,8 @@ _highest 10%_: 24% (2011)<br>
 0.23% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $498.1 billion (2017 est.)<br>
-_expenditures_: $539 billion (2017 est.)<br>
+_revenues_: $546.084 billion (2019 est.)<br>
+_expenditures_: $585.979 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.1% (of GDP) (2017 est.)<br>
@@ -698,7 +698,7 @@ _river port(s)_: Seville (Guadalquivir River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Spanish Armed Forces: Army (Ejército de Tierra), Spanish Navy (Armada Espanola; includes Marine Corps), Air and Space Force (Ejército del Aire y del Espacio); Civil Guard (Guardia Civil) (2022)<br>
+Spanish Armed Forces: Army (Ejército de Tierra), Spanish Navy (Armada Espanola; includes Marine Corps), Air and Space Force (Ejército del Aire y del Espacio); Civil Guard (Guardia Civil) (2023)<br>
 <strong>note:</strong> the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defense and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance<br>
 
 **Military expenditures**<br>
@@ -709,11 +709,11 @@ Spanish Armed Forces: Army (Ejército de Tierra), Spanish Navy (Armada Espanola;
 0.9% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 120,000 active-duty troops (72,000 Army; 25,000 Navy, including about 5,000 marines; 23,000 Air and Space Force); 80,000 Guardia Civil (2022)<br>
-<strong>note: </strong> a 2007 law established a maximum strength of 130,000 military personnel<br>
+approximately 120,000 active-duty troops (72,000 Army; 25,000 Navy, including about 5,000 marines; 23,000 Air and Space Force); 80,000 Guardia Civil (2023)<br>
+<strong>note: </strong>a 2007 law established a maximum strength of 130,000 military personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised of domestically produced and imported Western weapons systems; in recent years, leading suppliers have included France, Germany, and the US; Spain's defense industry manufactures land, air, and sea weapons systems and is integrated within the European defense-industrial sector (2022)<br>
+the military's inventory is comprised of domestically produced and imported Western weapons systems; in recent years, leading suppliers have included France, Germany, and the US; Spain's defense industry manufactures land, air, and sea weapons systems and is integrated within the European defense-industrial sector (2023)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service for men and women; 24-36 month initial obligation; women allowed to serve in all branches, including combat units; no conscription (abolished 2001), but the Spanish Government retains the right to mobilize citizens 19-25 years of age in a national emergency; 18-58 for the voluntary reserves (2022)<br>
@@ -724,7 +724,7 @@ approximately 200 Iraq (NATO/EU training assistance); up to 600 Latvia (NATO); 6
 <strong>note: </strong>in response to Russia’s invasion of Ukraine, some NATO countries, including Spain, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-Spain joined NATO in 1982 but refrained from participating in the integrated military structure until 1996; the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world; the Spanish Army has an infantry regiment, formed in the 13th century, that is considered the oldest still active military unit in the western world<br><br>Spain created a Spanish Legion for foreigners in 1920, but early on the Legion was primarily filled by native Spaniards due to difficulties in recruiting foreigners and most of its foreign members were from the Republic of Cuba; it was modeled after the French Foreign Legion and its purpose was to provide a corps of professional troops to fight in Spain's colonial campaigns in North Africa; in more recent years, it has been used in NATO peacekeeping deployments; today’s Legion includes a mix of native Spaniards and foreigners with Spanish residency (2022)<br>
+Spain joined NATO in 1982 but refrained from participating in the integrated military structure until 1996; the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world; the Spanish Army has an infantry regiment, formed in the 13th century, that is considered the oldest still active military unit in the western world<br><br>Spain created a Spanish Legion for foreigners in 1920, but early on the Legion was primarily filled by native Spaniards due to difficulties in recruiting foreigners and most of its foreign members were from the Republic of Cuba; it was modeled after the French Foreign Legion and its purpose was to provide a corps of professional troops to fight in Spain's colonial campaigns in North Africa; in more recent years, it has been used in NATO peacekeeping deployments; today’s Legion includes a mix of native Spaniards and foreigners with Spanish residency (2023)<br>
 
 ## Terrorism
 
@@ -738,9 +738,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 172,682 (Ukraine) (as of 3 April 2023)<br>
+_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 173,829 (Ukraine) (as of 3 April 2023)<br>
 _stateless persons_: 6,489 (2022)<br>
-<strong>note: </strong>283,666 estimated refugee and migrant arrivals, including Canary Islands (January 2015-April 2023)<br>
+<strong>note: </strong>284,024 estimated refugee and migrant arrivals, including Canary Islands (January 2015-April 2023)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing indoor cannabis production; illegal labs cutting, mixing, and reconstituting cocaine, heroin, and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the US<br>

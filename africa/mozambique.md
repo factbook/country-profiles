@@ -509,8 +509,8 @@ _highest 10%_: 36.7% (2008)<br>
 1.95% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $3.356 billion (2017 est.)<br>
-_expenditures_: $4.054 billion (2017 est.)<br>
+_revenues_: $4.569 billion (2019 est.)<br>
+_expenditures_: $4.591 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -5.6% (of GDP) (2017 est.)<br>
@@ -751,7 +751,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Mozambique-Eswatini</em>: none identified</p> <p><em>Mozambique-Malawi</em>:  the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Mozambique-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>Mozambique-Tanzania</em>: none identified</p> <p><em>Mozambique-Zambia</em>: none identified</p> <p><em>Mozambique-Zimbabwe</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,968 (Burundi) (refugees and asylum seekers) (2022); 11,751 (Democratic Republic of Congo) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 8,968 (Burundi) (refugees and asylum seekers) (2022); 12,043 (Democratic Republic of Congo) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 1.03 million (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>

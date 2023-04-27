@@ -472,8 +472,8 @@ _highest 10%_: NA<br>
 0.04% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $22.14 billion (2017 est.)<br>
-_expenditures_: $31.92 billion (2017 est.)<br>
+_revenues_: $29.334 billion (2018 est.)<br>
+_expenditures_: $35.984 billion (2018 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -13.8% (of GDP) (2017 est.)<br>
@@ -696,7 +696,7 @@ the SAF's inventory includes a mix of older and some more modern weapons systems
 18-30 years of age for voluntary military service (women have been allowed to serve since 2011); no conscription (2022)<br>
 
 **Military - note**<br>
-the SAF has a longstanding security relationship with the British military going back to the 18th century; as of 2022, the SAF and the British maintained a joint training base in Oman and exercised together regularly; in 2017, Oman and the British signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port (2022)<br>
+the SAF has a longstanding security relationship with the British military going back to the 18th century; as of 2022, the SAF and the British maintained a joint training base in Oman and exercised together regularly; in 2017, Oman and the British signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port (2023)<br>
 
 **Maritime threats**<br>
 <p>the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-003 - Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Gulf of Aden, Bab al Mandeb Strait, Red Sea, and Somali Basin-Threats to Commercial Vessels) effective 23 February 2023, which states in part that "Regional conflict, military activity, and political tensions pose threats to commercial vessels operating in the above listed geographic areas"; Coalition Task Force (CTF) Sentinel has been established to provide escorts for commercial shipping transiting the Persian Gulf, Strait of Hormuz, and Gulf of Oman</p><br>

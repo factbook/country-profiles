@@ -472,8 +472,8 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: $5.854 billion (2017 est.)<br>
-_expenditures_: $9.407 billion (2017 est.)<br>
+_revenues_: $9.168 billion (2019 est.)<br>
+_expenditures_: $12.63 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -10.1% (of GDP) (2017 est.)<br>
@@ -682,7 +682,7 @@ the inventory of the Bahrain Defense force consists of a mix of equipment acquir
 <strong>note:</strong> the BDF hires foreign nationals, Sunni Muslims primarily from Arabic countries and Pakistan, to serve under contract; as of 2020, foreigners were estimated to comprise as much as 80% of the military; the policy has become a controversial issue with the primarily Shia population; during the 2011, the BDF reportedly deployed mostly foreign personnel against protesters<br>
 
 **Military - note**<br>
-Bahrain hosts the US Naval Forces Central Command (USNAVCENT; established 1983), which includes the US 5th Fleet, several subordinate naval task forces, and the Combined Maritime Forces (established 2002), a coalition of more than 30 nations providing maritime security for regional shipping lanes; in 2018, the UK opened a naval support base in Bahrain<br><br>in addition to the US and UK, Bahrain maintains close security ties to Saudi Arabia and the United Arab Emirates (UAE); both Saudi Arabia and the UAE sent forces to Bahrain to assist with internal security following the 2011 uprising; in 2015, Bahrain joined the Saudi Arabia-led military action to try to restore the Government of Yemen that was ousted by Iranian-backed Houthi rebels, supplying a few hundred troops and combat aircraft<br><br>Bahrain has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2023)<br>
+Bahrain hosts the US Naval Forces Central Command (USNAVCENT; established 1983), which includes the US 5th Fleet, several subordinate naval task forces, and the Combined Maritime Forces (established 2002), a coalition of more than 30 nations providing maritime security for regional shipping lanes; in 2018, the UK opened a naval support base in Bahrain<br><br>in addition to the US and UK, Bahrain maintains close security ties to Saudi Arabia and the United Arab Emirates (UAE); both Saudi Arabia and the UAE sent forces to Bahrain to assist with internal security following the 2011 uprising; in 2015, Bahrain joined the Saudi Arabia-led military action to try to restore the Government of Yemen that was ousted by Iranian-backed Houthi rebels, supplying a few hundred troops and combat aircraft<br><br>Bahrain has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
 
 ## Terrorism
 

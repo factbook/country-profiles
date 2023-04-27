@@ -411,8 +411,8 @@ _highest 10%_: NA<br>
 7.77% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $227.8 million (2017 est.)<br>
-_expenditures_: $260.4 million (2017 est.)<br>
+_revenues_: $180 million (2021 est.)<br>
+_expenditures_: $184 million (2021 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -5.9% (of GDP) (2017 est.)<br>

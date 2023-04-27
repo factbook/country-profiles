@@ -490,8 +490,8 @@ _highest 10%_: 23.5% (2012 est.)<br>
 0.67% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $201.7 billion (2017 est.)<br>
-_expenditures_: $204.6 billion (2017 est.)<br>
+_revenues_: $218.48 billion (2019 est.)<br>
+_expenditures_: $215.485 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.7% (of GDP) (2017 est.)<br>
@@ -700,7 +700,7 @@ _river port(s)_: Enns, Krems, Linz, Vienna (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Austrian Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2022)<br>
+Austrian Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2023)<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2022 est.)<br>
@@ -723,7 +723,7 @@ registration requirement at age 17, the legal minimum age for voluntary military
 170 Bosnia-Herzegovina (EUFOR stabilization force); 300 Kosovo (NATO/KFOR); 200 Lebanon (UNIFIL) (Aug 2022)<br>
 
 **Military - note**<br>
-Austria is constitutionally non-aligned but is an EU member and actively participates in EU peacekeeping and crisis management operations under the Common Security and Defense Policy; Austria is not a member of NATO but joined NATO&rsquo;s Partnership for Peace framework in 1995 and participates in NATO-led crisis management and peacekeeping operations; as of 2022, more than 100,000 Austrian military and civilian personnel had taken part in more than 50 international peace support and humanitarian missions since 1960 (2022)<br>
+Austria is constitutionally militarily non-aligned but is an EU member and actively participates in EU peacekeeping and crisis management operations under the Common Security and Defense Policy; Austria is not a member of NATO but joined NATO&rsquo;s Partnership for Peace framework in 1995 and participates in NATO-led crisis management and peacekeeping operations; as of 2023, more than 100,000 Austrian military and civilian personnel had taken part in more than 50 international peace support and humanitarian missions since 1960 (2023)<br>
 
 ## Terrorism
 
@@ -737,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 94,984 (Ukraine) (as of 20 March 2023)<br>
+_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 95,993 (Ukraine) (as of 17 April 2023)<br>
 _stateless persons_: 3,219 (2022)<br>
 
 **Illicit drugs**<br>

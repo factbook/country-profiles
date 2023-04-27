@@ -458,8 +458,8 @@ _highest 10%_: 34.9% (2009 est.)<br>
 5.39% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $1.454 billion (2017 est.)<br>
-_expenditures_: $1.648 billion (2017 est.)<br>
+_revenues_: $885 million (2020 est.)<br>
+_expenditures_: $1.515 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -4% (of GDP) (2017 est.)<br>
@@ -662,11 +662,11 @@ Republic of Fiji Military Force (RFMF): Land Force Command, Maritime Command; Fi
 <strong>note: </strong>the RFMF is subordinate to the president as the commander-in-chief, while the Fiji Police Force reports to the the Ministry of Defense, National Security, and Policing<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2022 est.)<br>
 1.5% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
 1.6% of GDP (2019 est.)<br>
 1.6% of GDP (2018 est.)<br>
-1.5% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,000 active personnel (2022)<br>

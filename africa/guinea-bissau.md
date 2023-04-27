@@ -466,8 +466,8 @@ _highest 10%_: 28% (2002)<br>
 8.51% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $246.2 million (2017 est.)<br>
-_expenditures_: $263.5 million (2017 est.)<br>
+_revenues_: $222 million (2019 est.)<br>
+_expenditures_: $278 million (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.3% (of GDP) (2017 est.)<br>
@@ -496,7 +496,7 @@ $380.428 million (2018 est.)<br>
 India 50%, Belgium 28%, Cote d'Ivoire 8% (2019)<br>
 
 **Exports - commodities**<br>
-cashews, gold, fish, lumber, aluminum ores (2019)<br>
+cashews, natural gas, mackerel, fish, scrap vessels (2021)<br>
 
 **Imports**<br>
 $439 million (2020 est.) note: data are in current year dollars<br>

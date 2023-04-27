@@ -272,9 +272,9 @@ _municipal solid waste recycled annually_: 764,433 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 16.2% (2014 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 914.1 million cubic meters (2017 est.)<br>
-_industrial_: 1.497 billion cubic meters (2017 est.)<br>
-_agricultural_: 8.767 billion cubic meters (2017 est.)<br>
+_municipal_: 880 million cubic meters (2020 est.)<br>
+_industrial_: 1.83 billion cubic meters (2020 est.)<br>
+_agricultural_: 3.42 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 77.4 billion cubic meters (2019 est.)<br>
@@ -480,8 +480,8 @@ _highest 10%_: 25.9% (2015 est.)<br>
 0.26% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $93.55 billion (2017 est.)<br>
-_expenditures_: $100 billion (2017 est.)<br>
+_revenues_: $102.052 billion (2019 est.)<br>
+_expenditures_: $101.854 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3% (of GDP) (2017 est.)<br>
@@ -684,7 +684,7 @@ _LNG terminal(s) (import)_: Sines<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps), Portuguese Air Force (Forca Aerea Portuguesa, FAP); National Republican Guard (Guarda Nacional Republicana, GNR) (2022)<br>
+Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps), Portuguese Air Force (Forca Aerea Portuguesa, FAP); National Republican Guard (Guarda Nacional Republicana, GNR) (2023)<br>
 <strong>note:</strong> the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to the Ministry of Internal Administration and to the Ministry of National Defense; in the event of war or crisis, it may be placed under the Chief of the General Staff of the Armed Forces; the GNR has law enforcement jurisdiction in rural areas, while the Public Security Police (also under the Ministry of Internal Administration) has jurisdiction in cities<br>
 
 **Military expenditures**<br>
@@ -695,13 +695,13 @@ Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy 
 1.3% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2022)<br>
+approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes mostly European- and US-origin weapons systems along with a smaller mix of domestically produced equipment; in recent years, leading foreign suppliers have included Germany and the US; Portugal's defense industry is primarily focused on shipbuilding (2022)<br>
+the military's inventory includes mostly European- and US-origin weapons systems along with a smaller mix of domestically produced equipment; in recent years, leading foreign suppliers have included Germany and the US; Portugal's defense industry is primarily focused on shipbuilding (2023)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004) but conscription possible if insufficient volunteers available; women serve in the armed forces but are prohibited from serving in some combatant specialties; contract service lasts for an initial period of 2-6 years, and can be extended to a maximum of 20 years of service; initial voluntary military service lasts 12 months; reserve obligation to age 35 (2022)<br>
+18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004) but conscription possible if insufficient volunteers available; women serve in the armed forces but are prohibited from serving in some combatant specialties; contract service lasts for an initial period of 2-6 years, and can be extended to a maximum of 20 years of service; initial voluntary military service lasts 12 months; reserve obligation to age 35 (2023)<br>
 <strong>note: </strong>as of 2019, women made up about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
@@ -709,7 +709,7 @@ the military's inventory includes mostly European- and US-origin weapons systems
 <strong>note 1: </strong>in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission<br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Portugal, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br><strong>note 3: </strong>Portugal also participates in several NATO maritime and air policing operations, as well as some EU international missions<br>
 
 **Military - note**<br>
-Portugal is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
+Portugal is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949 (2023)<br>
 
 ## Terrorism
 

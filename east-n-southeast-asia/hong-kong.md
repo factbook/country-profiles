@@ -426,8 +426,8 @@ _highest 10%_: 38.1% (2016) NA<br>
 0.12% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $79.34 billion (2017 est.)<br>
-_expenditures_: $61.64 billion (2017 est.)<br>
+_revenues_: $70.124 billion (2020 est.)<br>
+_expenditures_: $105.849 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 5.2% (of GDP) (2017 est.)<br>
@@ -456,7 +456,7 @@ $645.007 billion (2019 est.) note: data are in current year dollars<br>
 China 23%, India 14%, Netherlands 6%, United Kingdom 5% (2019)<br>
 
 **Exports - commodities**<br>
-gold, broadcasting equipment, integrated circuits, diamonds, telephones (2019)<br>
+gold, integrated circuits, gas turbines, broadcasting equipment, silver, diamonds, telephones (2021)<br>
 
 **Imports**<br>
 $733.459 billion (2021 est.) note: data are in current year dollars<br>

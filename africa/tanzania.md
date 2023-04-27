@@ -401,7 +401,7 @@ _FAX_: [1] (202) 797-7408<br>
 _email address and website_: <br>ubalozi@tanzaniaembassy-us.org<br><br>https://tanzaniaembassy-us.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Deputy Chief of Mission Robert Adrian RAINES (since March 2023)<br>
+_chief of mission_: Ambassador Michael A. BATTLE Sr. (since 27 February 2023)<br>
 _embassy_: 686 Old Bagamoyo Road, Msasani, P.O. Box 9123, Dar es Salaam<br>
 _mailing address_: 2140 Dar es Salaam Place, Washington, DC&nbsp; 20521-2140<br>
 _telephone_: [255] (22) 229-4000<br>
@@ -517,8 +517,8 @@ _highest 10%_: 29.6% (2007)<br>
 0.72% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $7.873 billion (2017 est.)<br>
-_expenditures_: $8.818 billion (2017 est.)<br>
+_revenues_: $8.968 billion (2019 est.)<br>
+_expenditures_: $10.017 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -1.8% (of GDP) (2017 est.)<br>
@@ -766,7 +766,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 126,238 (Burundi), 79,823 (Democratic Republic of the Congo) (2023)<br>
+_refugees (country of origin)_: 126,238 (Burundi), 82,220 (Democratic Republic of the Congo) (2023)<br>
 
 **Illicit drugs**<br>
 <p>significant transit country for illicit drugs in East Africa; international drug-trafficking organizations and courier networks transit through Tanzania to smuggle heroin and methamphetamine from Southwest Asia; produces cannabis products and khat for domestic consumption and regional and international distribution; traffickers influence politicians, law enforcement, and others in positions of power with money</p> (2021)<br>

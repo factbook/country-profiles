@@ -335,7 +335,7 @@ _election results_: <em>2020:</em> Katerina SAKELLAROPOULOU (independent) elect
 
 **Legislative branch**<br>
 _description_: unicameral Hellenic Parliament or Vouli ton Ellinon (300 seats; 280 members in multi-seat constituencies and 12 members in a single nationwide constituency directly elected by open party-list proportional representation vote; 8 members in single-seat constituencies elected by simple majority vote; members serve up to 4 years); &nbsp;note - only parties surpassing a 3% threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold<br>
-_elections_: last held on 7 July 2019 (next to be held&nbsp;by July 2023)<br>
+_elections_: last held on 7 July 2019 (next to be held on 21 May 2023)<br>
 _election results_: percent of vote by party - ND 39.9%, SYRIZA 31.5%, KINAL 8.1%, KKE 5.3%, Greek Solution 3.7%, MeRA25 3.4%, other 8.1%; seats by party - ND 158, SYRIZA 86, KINAL 22, KKE 15, Greek Solution 10, MeRA25 9; composition - men 244, women 56, percent of women 18.7%<br>
 
 **Judicial branch**<br>
@@ -344,7 +344,7 @@ _judge selection and term of office_: Supreme Court judges appointed by presiden
 _subordinate courts_: Courts of Appeal and Courts of First Instance (district courts)<br>
 
 **Political parties and leaders**<br>
-Anticapitalist Left Cooperation for the Overthrow or ANTARSYA [collective leadership]<br>Coalition of the Radical Left or SYRIZA [Alexios (Alexis) TSIPRAS]<br>Communist Party of Greece or KKE [Dimitrios KOUTSOUMBAS]<br>Democratic Left or DIMAR [Athanasios (Thanasis) THEOCHAROPOULOS]<br>European Realistic Disobedience Front or MeRA25 [Ioannis (Yanis) VAROUFAKIS]<br>Greek Solution [Kyriakos VELOPOULOS]<br>Independent Greeks or ANEL [Panagiotis (Panos) KAMMENOS]<br>New Democracy or ND [Kyriakos MITSOTAKIS]<br>PASOK - Movement for Change or PASOK-KINAL [Nikos ANDROULAKIS]<br>Popular Unity or LAE [Nikolaos CHOUNTIS]<br>Union of Centrists or EK [Vasileios (Vasilis) LEVENTIS]<br>
+Anticapitalist Left Cooperation for the Overthrow or ANTARSYA [collective leadership]<br>Coalition of the Radical Left-Progressive Alliance or SYRIZA-PS [Alexios (Alexis) TSIPRAS]<br>Communist Party of Greece or KKE [Dimitrios KOUTSOUMBAS]<br>Democratic Left or DIMAR [Athanasios (Thanasis) THEOCHAROPOULOS]<br>European Realistic Disobedience Front or MeRA25 [Ioannis (Yanis) VAROUFAKIS]<br>Greek Solution [Kyriakos VELOPOULOS]<br>Independent Greeks or ANEL [Panagiotis (Panos) KAMMENOS]<br>National Party-Greeks [Anastasios (Tasos) KANELLOPOULOS]<br>New Democracy or ND [Kyriakos MITSOTAKIS]<br>PASOK - Movement for Change or PASOK-KINAL [Nikolaos (Nikos) ANDROULAKIS]<br>Popular Unity or LAE [Nikolaos CHOUNTIS]<br>Union of Centrists or EK [Vasileios (Vasilis) LEVENTIS]<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -479,8 +479,8 @@ _highest 10%_: 26.7% (2015 est.)<br>
 0.33% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $97.99 billion (2017 est.)<br>
-_expenditures_: $96.35 billion (2017 est.)<br>
+_revenues_: $98.523 billion (2019 est.)<br>
+_expenditures_: $97.277 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 0.8% (of GDP) (2017 est.)<br>
@@ -724,9 +724,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 <p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 20,955 (Ukraine) (as of 6 December 2022)<br>
+_refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 22,704 (Ukraine) (as of 31 March 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,237,058 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
+<strong>note:</strong> 1,237,392 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

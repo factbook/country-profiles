@@ -301,9 +301,9 @@ Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, B
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 659.5 million cubic meters (2017 est.)<br>
-_industrial_: 4.057 billion cubic meters (2017 est.)<br>
-_agricultural_: 660.8 million cubic meters (2017 est.)<br>
+_municipal_: 680 million cubic meters (2020 est.)<br>
+_industrial_: 3.99 billion cubic meters (2020 est.)<br>
+_agricultural_: 660 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 162.2 billion cubic meters (2019 est.) (note - includes Kosovo)<br>
@@ -362,7 +362,7 @@ _chief of state_: President Aleksandar VUCIC (since 31 May 2017)<br>
 _head of government_: Prime Minister Ana BRNABIC (since 29 June 2017)<br>
 _cabinet_: Cabinet elected by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 3 April 2022 (next to be held in April 2027); prime minister elected by the National Assembly; note - in October 2020 President VUCIC called for early elections<br>
-_election results_: <em>2022:</em> Aleksandar VUCIC reelected in the first round; percent of vote - Aleksandar VUSIC (SNS) 60%, Zdravko PONOS (US) 18.9%, Milos JOVANOVIC (NADA) 6.1%, Bosko OBRADOVIC (Dveri-POKS) 4.5%, Milica DURDEVIC STAMENDOVSKI (SSZ) 4.3%, other 6.2%<br><br><em>2017:</em> Aleksandar VUCIC elected president in the first round; percent of vote - Aleksandar VUCIC (SNS) 55.1%, Sasa JANKOVIC (independent) 16.4%, Luka MAKSIMOVIC (independent) 9.4%, Vuk JEREMIC (independent) 5.7%, Vojislav SESELJ (SRS) 4.5%, Bosko OBRADOVIC (Dveri) 2.3%, other 5.0%, invalid/blank 1.6%; Prime Minister Ana BRNABIC reelected by the National Assembly on 5 October 2020<br>
+_election results_: <em>2022:</em> Aleksandar VUCIC reelected in the first round; percent of vote - Aleksandar VUCIC (SNS) 60%, Zdravko PONOS (US) 18.9%, Milos JOVANOVIC (NADA) 6.1%, Bosko OBRADOVIC (Dveri-POKS) 4.5%, Milica DJURDJEVIC STAMENKOVSKI (SSZ) 4.3%, other 6.2%<br><br><em>2017:</em> Aleksandar VUCIC elected president in the first round; percent of vote - Aleksandar VUCIC (SNS) 55.1%, Sasa JANKOVIC (independent) 16.4%, Luka MAKSIMOVIC (independent) 9.4%, Vuk JEREMIC (independent) 5.7%, Vojislav SESELJ (SRS) 4.5%, Bosko OBRADOVIC (Dveri) 2.3%, other 5.0%, invalid/blank 1.6%; Prime Minister Ana BRNABIC reelected by the National Assembly on 5 October 2020<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Narodna Skupstina (250 seats; members directly elected by party list proportional representation vote in a single nationwide constituency to serve 4-year terms)<br>
@@ -375,7 +375,7 @@ _judge selection and term of office_: Supreme Court justices proposed by the Hig
 _subordinate courts_: basic courts, higher courts, appellate courts; courts of special jurisdiction include the Administrative Court, commercial courts, and misdemeanor courts<br>
 
 **Political parties and leaders**<br>
-Albanian Democratic Alternative (coalition of ethnic Albanian parties) [Shaip KAMBERI]<br>Alliance of Vojvodina Hungarians or SVM or VMSZ [Istvan PASZTOR]<br>Better Serbia or BS [Dragan JOVANOVIC]<br>Democratic Party or DS [Zoran LUTOVAC]<br>Dveri [Bosko OBRADOVIC]<br>Greens of Serbia or ZS [Ivan KARIC]<br>Ivica Dacic - Prime Minister of Serbia [Ivica DACIC] (coalition includes SPS, JS, ZS)<br>Justice and Reconciliation Party or SPP [Usame ZUKORLIC] (formerly Bosniak Democratic Union of Sandzak or BDZS)<br>Movement for the Restoration of the Kingdom of Serbia or POKS [Vojislav MIHAILOVIC]<br>Movement of Free Citizens or PSG [Pavle GRBOVIC]<br>Movement of Socialists or PS [Aleksandar VULIN]<br>National Democratic Alternative or NADA [Milos JOVANOVIC and Vojislav MIHAILOVIC] (coalition includes DSS and POKS)<br>New Democratic Party of Serbia or NDSS or New DSS [Milos JOVANOVIC] (formerly Democratic Party of Serbia or DSS)<br>Party of Democratic Action of the Sandzak or SDA [Sulejman UGLJANIN]<br>Party of Freedom and Justice or SSP [Dragan DILAS]<br>Party of United Pensioners, Farmers, and Proletarians of Serbia – Solidarity and Justice or PUPS - Solidarity and Justice [Milan KRKOBABIC] (formerly Party of United Pensioners of Serbia or PUPS)<br>People's Party or NS or Narodna [Vuk JEREMIC]<br>People's Peasant Party or NSS [Marijan RISTICEVIC]<br>Serbian Party Oathkeepers or SSZ [Stefan STAMENKOVSKI]<br>Serbian People's Party or SNP [Nenad POPOVIC]<br>Serbian Progressive Party or SNS [Aleksandar VUCIC]<br>Serbian Renewal Movement or SPO [Vuk DRASKOVIC]<br>Social Democratic Party of Serbia or SDPS [Rasim LJAJIC]<br>Socialist Party of Serbia or SPS [Ivica DACIC]<br>Strength of Serbia or PSS [Bogoljub KARIC]<br>Together for Serbia or ZZS [Nebojsa ZELENOVIC]<br>Together We Can Do Everything [Milenko JOVANOV] (includes SNS, SDPS, PUPS, PSS, SNP, SPO, PS, NSS, USS, BS)<br>United for the Victory of Serbia or UZPS (includes NS, SSP, DS, PSG) (dissolved April 2022)<br>United Peasant Party or USS [Milija MILETIC]<br>United Serbia or JS [Dragan MARKOVIC]<br>We Must or Moramo [Nebojsa ZELENOVIC, Dobrica VESELINOVIC, Aleksandar JOVANOVIC CUTA, Biljana STOJKOVIC, Radomir LAZOVIC, Biljana DORDEVIC]<br>
+Albanian Democratic Alternative (coalition of ethnic Albanian parties) [Shaip KAMBERI]<br>Alliance of Vojvodina Hungarians or SVM or VMSZ [Istvan PASZTOR]<br>Better Serbia or BS [Dragan JOVANOVIC]<br>Democratic Party or DS [Zoran LUTOVAC]<br>Dveri [Bosko OBRADOVIC]<br>Greens of Serbia or ZS [Ivan KARIC]<br>Ivica Dacic - Prime Minister of Serbia [Ivica DACIC] (electoral coalition includes SPS, JS, ZS)<br>Justice and Reconciliation Party or SPP [Usame ZUKORLIC] (formerly Bosniak Democratic Union of Sandzak or BDZS)<br>Movement for the Restoration of the Kingdom of Serbia or POKS [Vojislav MIHAILOVIC]<br>Movement of Free Citizens or PSG [Pavle GRBOVIC]<br>Movement of Socialists or PS [Aleksandar VULIN]<br>National Democratic Alternative or NADA [Milos JOVANOVIC and Vojislav MIHAILOVIC] (coalition includes DSS and POKS)<br>New Democratic Party of Serbia or NDSS or New DSS [Milos JOVANOVIC] (formerly Democratic Party of Serbia or DSS)<br>Party of Democratic Action of the Sandzak or SDA [Sulejman UGLJANIN]<br>Party of Freedom and Justice or SSP [Dragan DJILAS]<br>Party of United Pensioners, Farmers, and Proletarians of Serbia – Solidarity and Justice or PUPS - Solidarity and Justice [Milan KRKOBABIC] (formerly Party of United Pensioners of Serbia or PUPS)<br>People's Party or NS or Narodna [Vuk JEREMIC]<br>People's Peasant Party or NSS [Marijan RISTICEVIC]<br>Serbian Party Oathkeepers or SSZ [Milica DJURDJEVIC STAMENKOVSKI]<br>Serbian People's Party or SNP [Nenad POPOVIC]<br>Serbian Progressive Party or SNS [Aleksandar VUCIC]<br>Serbian Renewal Movement or SPO [Vuk DRASKOVIC]<br>Social Democratic Party of Serbia or SDPS [Rasim LJAJIC]<br>Socialist Party of Serbia or SPS [Ivica DACIC]<br>Strength of Serbia or PSS [Bogoljub KARIC]<br>Together for Serbia or ZZS [Nebojsa ZELENOVIC]<br>Together We Can Do Everything [Milenko JOVANOV] (electoral coalition includes SNS, SDPS, PUPS, PSS, SNP, SPO, PS, NSS, USS, BS)<br>United for the Victory of Serbia or UZPS (includes NS, SSP, DS, PSG) (dissolved April 2022)<br>United Peasant Party or USS [Milija MILETIC]<br>United Serbia or JS [Dragan MARKOVIC]<br>We Must or Moramo [Nebojsa ZELENOVIC, Dobrica VESELINOVIC, Aleksandar JOVANOVIC CUTA, Biljana STOJKOVIC, Radomir LAZOVIC, Biljana DORDEVIC]<br>
 <strong>note:</strong> Serbia has more than 110 registered political parties and citizens' associations<br>
 
 **International organization participation**<br>
@@ -510,8 +510,8 @@ _highest 10%_: 23.8% (2011)<br>
 8.23% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $17.69 billion (2017 est.)<br>
-_expenditures_: $17.59 billion (2017 est.)<br>
+_revenues_: $21.858 billion (2020 est.)<br>
+_expenditures_: $25.72 billion (2020 est.)<br>
 <strong>note:</strong> data include both central government and local goverment budgets<br>
 
 **Budget surplus (+) or deficit (-)**<br>
@@ -709,11 +709,11 @@ Serbian Armed Forces (Vojska Srbije, VS): Land Forces (includes Riverine Compone
 <strong>note:</strong> the Serbian Guard is a brigade-sized unit that is directly subordinate to the Serbian Armed Forces Chief of General Staff; its duties include safeguarding key defense facilities and rendering military honors to top foreign, state, and military officials <br><br>
 
 **Military expenditures**<br>
-2.4% of GDP (2021 est.)<br>
+2.2% of GDP (2022 est.)<br>
+2.2% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
 2.2% of GDP (2019 est.)<br>
 1.6% of GDP (2018 est.)<br>
-1.8% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active duty troops (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other); approximately 3,000 Gendarmerie (2022)<br>
@@ -729,7 +729,7 @@ the military's inventory consists of Russian and Soviet-era weapons systems; in 
 175 Lebanon (UNIFIL) (May 2022)<br>
 
 **Military - note**<br>
-the Serbian Armed Forces were established in June 2006; the Serbian military traces its origins to the First (1804-1813) and Second (1815-1817) Uprisings against the Ottoman Empire<br><br>Serbia does not aspire to join NATO, but has cooperated with the Alliance since 2006 when it joined the Partnership for Peace program; Serbia maintains security ties with Russia (2022)<br>
+the Serbian Armed Forces were established in June 2006; the Serbian military traces its origins to the First (1804-1813) and Second (1815-1817) Uprisings against the Ottoman Empire<br><br>Serbia does not aspire to join NATO, but has cooperated with the Alliance since 2006 when it joined the Partnership for Peace program; Serbia also maintains security ties with Russia and China (2023)<br>
 
 ## Transnational Issues
 
@@ -740,7 +740,7 @@ the Serbian Armed Forces were established in June 2006; the Serbian military tra
 _refugees (country of origin)_: 17,334 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,594 (includes stateless persons in Kosovo) (2022)<br>
-<strong>note:</strong> 951,905 estimated refugee and migrant arrivals (January 2015-March 2023); Serbia is predominantly a transit country and hosts an estimated 7,271 migrants and asylum seekers as of November 2022<br>
+<strong>note:</strong> 953,390 estimated refugee and migrant arrivals (January 2015-April 2023); Serbia is predominantly a transit country and hosts an estimated 7,271 migrants and asylum seekers as of November 2022<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Serbia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; Serbia investigated more suspects, revised indicators to identify victims among schoolchildren, and increased resources for the Center for Protection of Trafficking Victims; officials developed a coordination body to support victims during criminal proceedings, formed four Special Working Groups for anti-trafficking issues, and designated an Ombudsman on trafficking; however, the government did not demonstrate overall increasing efforts compared with the previous year to expand its anti-trafficking capacity; there were no proactive efforts to identify victims, and implementation of standard operating procedures remained inadequate; an anti-trafficking council did not meet, and the government did not adopt the 2021-2022 National Action Plan; official complicity in trafficking crimes remained a concern; therefore, Serbia was downgraded to Tier 2 Watch List (2022)<br>

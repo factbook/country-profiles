@@ -301,9 +301,9 @@ Atlantic Ocean drainage: Orange (941,351 sq km)<br>
 Karoo Basin, Lower Kalahari-Stampriet Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 3.89 billion cubic meters (2017 est.)<br>
-_industrial_: 4.1 billion cubic meters (2017 est.)<br>
-_agricultural_: 11.39 billion cubic meters (2017 est.)<br>
+_municipal_: 3.11 billion cubic meters (2020 est.)<br>
+_industrial_: 4.09 billion cubic meters (2020 est.)<br>
+_agricultural_: 11.99 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 51.4 billion cubic meters (2019 est.)<br>
@@ -506,8 +506,8 @@ _highest 10%_: 51.3% (2011 est.)<br>
 0.23% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $92.86 billion (2017 est.)<br>
-_expenditures_: $108.3 billion (2017 est.)<br>
+_revenues_: $84.19 billion (2020 est.)<br>
+_expenditures_: $121.204 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -4.4% (of GDP) (2017 est.)<br>

@@ -320,9 +320,9 @@ _lyrics/music_: HU Han-min, TAI Chi-t'ao, and LIAO Chung-k'ai/CHENG Mao-yun<br>
 high-income East Asian economy; most technologically advanced computer microchip manufacturing; increasing Chinese interference threatens market capabilities; minimum wages rising; longstanding regional socioeconomic inequality<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,143,277,000,000 (2019 est.)<br>
-$1,113,126,000,000 (2018 est.)<br>
-$1,083,384,000,000 (2017 est.)<br>
+$1.143 trillion (2019 est.)<br>
+$1.113 trillion (2018 est.)<br>
+$1.083 trillion (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -331,8 +331,9 @@ $1,083,384,000,000 (2017 est.)<br>
 3.31% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$24,502 (2018 est.)<br>
-$23,865 (2017 est.)<br>
+$47,800 (2019 est.)<br>
+$46,600 (2018 est.)<br>
+$45,400 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -398,8 +399,8 @@ _lowest 10%_: 6.4% (2010)<br>
 _highest 10%_: 40.3% (2010)<br>
 
 **Budget**<br>
-_revenues_: $91.62 billion (2017 est.)<br>
-_expenditures_: $92.03 billion (2017 est.)<br>
+_revenues_: $94.943 billion (2019 est.)<br>
+_expenditures_: $105.833 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.1% (of GDP) (2017 est.)<br>
@@ -602,7 +603,7 @@ Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force; Taiwan Coast
 <strong>note: </strong>the Coast Guard is a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime<br>
 
 **Military expenditures**<br>
-2.2% of GDP (2022 est.)<br>
+2% of GDP (2022 est.)<br>
 2.1% of GDP (2021)<br>
 2.1% of GDP (2020)<br>
 1.8% of GDP (2019)<br>

@@ -347,7 +347,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Zoran MILANOVIC (since 18 February 2020)<br>
-_head of government_: Prime Minister Andrej PLENKOVIC (since 19 October 2016); Deputy Prime Ministers Damir KRSTICEVIC (since 19 October 2016), Predrag STROMAR (since 9 June 2017), Marija Pejcinovic BURIC (since 19 June 2017), and Tomislav TOLUSIC (since 25 May 2018)<br>
+_head of government_: Prime Minister Andrej PLENKOVIC (since 19 October 2016); Deputy Prime Ministers Tomo MEDVED (since 23 July 2020), Davor BOZINOVIC (since 12 July 2019), Oleg BUTKOVIC (since 15 July 2022), Branko BACIC (since 17 January 2023), Anja SIMPRAG (since 29 April 2022)<br>
 _cabinet_: Council of Ministers named by the prime minister and approved by the Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 22 December 2019 with a runoff on 5 January 2020 (next to be held in 2024); the leader of the majority party or majority coalition usually appointed prime minister by the president and approved by the Assembly<br>
 _election results_: <br><em>2019: </em>Zoran MILANOVIC elected president in second round; percent of vote in second round - Zoran MILANOVIC (SDP) 52.7%, Kolinda GRABAR-KITAROVIC (HDZ) 47.3%<br><br><em>2015:</em> Kolinda GRABAR-KITAROVIC elected president in second round; percent of vote in second round - Kolinda GRABAR-KITAROVIC (HDZ) 50.7%, Ivo JOSIPOVIC (Forward Croatia Progressive Alliance) 49.3%<br>
@@ -364,7 +364,7 @@ _judge selection and term of office_: president of Supreme Court nominated by th
 _subordinate courts_: Administrative Court; county, municipal, and specialized courts; note - there is an 11-member Constitutional Court with jurisdiction limited to constitutional issues but is outside of the judicial system<br>
 
 **Political parties and leaders**<br>
-Bloc for Croatia or BLOK or BZH [Zlatko HASANBEGOVIC]<br>The Bridge or Most [Bozo PETROV] (formerly the Bridge of Independent Lists)<br>Center or Centar [Ivica PULJAK] (formerly Pametno and Party with a First and Last Name or SSIP) <br>Civic Liberal Alliance or GLAS [Ankar Mrak TARITAS]<br>Croatian Demochristian Party or HDS [Goran DODIG]<br>Croatian Democratic Alliance of Slavonia and Baranja or HDSSB [Branimir GLAVAS]<br>Croatian Democratic Union or HDZ [Andrej PLENKOVIC]<br>Croatian Democratic Union-led coalition (includes HSLS, HDS, HDSSB)<br>Croatian Party of Pensioners or HSU [Veselko GABRICEVIC]<br>Croatian Peasant Party or HSS [Kreso BELJAK]<br>Croatian People's Party - Liberal Democrats or HNS-LD [Stjepan CURAJ]<br>Croatian Social Liberal Party or HSLS [Dario HREBAK]<br>Croatian Sovereignists or HS [Marijan PAVLICEK]<br>Focus on the Important or Focus [Davor NADI]<br>Green-Left coalition [collective leadership] (includes MOZEMO!, NL)<br>Homeland Movement or DP [Ivan PENAVA] (also known as Miroslav Škoro Homeland Movement or DPMS)<br>Independent Democratic Serb Party or SDSS [Milorad PUPOVAC]<br>Istrian Democratic Assembly or IDS [Dalibor PAUS]<br>New Left or NL [Ivana KEKIN]<br>People's Party - Reformists or NS-R [Radimir CACIC]<br>Restart Coalition (includes SDP, HSS, HSU, GLAS, IDS, NS-R)<br>Social Democratic Party of Croatia or SDP [Peda GRBIN]<br>We Can! or Mozemo! [collective leadership]<br>Workers' Front or RF [collective leadership]<strong><br></strong><br>
+Bloc for Croatia or BLOK or BZH [Zlatko HASANBEGOVIC]<br>The Bridge or Most [Bozo PETROV] (formerly the Bridge of Independent Lists)<br>Center or Centar [Ivica PULJAK] (formerly Pametno and Party with a First and Last Name or SSIP) <br>Civic Liberal Alliance or GLAS [Ankar Mrak TARITAS]<br>Croatian Demochristian Party or HDS [Goran DODIG]<br>Croatian Democratic Alliance of Slavonia and Baranja or HDSSB [Branimir GLAVAS]<br>Croatian Democratic Union or HDZ [Andrej PLENKOVIC]<br>Croatian Democratic Union-led coalition (includes HSLS, HDS, HDSSB)<br>Croatian Party of Pensioners or HSU [Veselko GABRICEVIC]<br>Croatian Peasant Party or HSS [Kreso BELJAK]<br>Croatian People's Party - Liberal Democrats or HNS-LD [Mirko KOROTAJ, acting]<br>Croatian Social Liberal Party or HSLS [Dario HREBAK]<br>Croatian Sovereignists or HS [Marijan PAVLICEK]<br>Focus on the Important or Focus [Davor NADI]<br>Green-Left coalition [collective leadership] (includes MOZEMO!, NL)<br>Homeland Movement or DP [Ivan PENAVA] (also known as Miroslav Škoro Homeland Movement or DPMS)<br>Independent Democratic Serb Party or SDSS [Milorad PUPOVAC]<br>Istrian Democratic Assembly or IDS [Dalibor PAUS]<br>New Left or NL [Ivana KEKIN]<br>People's Party - Reformists or NS-R [Radimir CACIC]<br>Restart Coalition (includes SDP, HSS, HSU, GLAS, IDS, NS-R)<br>Social Democratic Party of Croatia or SDP [Peda GRBIN]<br>We Can! or Mozemo! [collective leadership]<br>Workers' Front or RF [collective leadership]<strong><br></strong><br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -498,8 +498,8 @@ _highest 10%_: 23% (2015 est.)<br>
 6.87% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $25.24 billion (2017 est.)<br>
-_expenditures_: $24.83 billion (2017 est.)<br>
+_revenues_: $212.81 billion (2019 est.)<br>
+_expenditures_: $211.069 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 0.8% (of GDP) (2017 est.)<br>
@@ -739,7 +739,7 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Croatia joined the Schengen Zone on 1 January 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,352 (Ukraine) (as of 20 March 2023)<br>
+_refugees (country of origin)_: 21,640 (Ukraine) (as of 7 April 2023)<br>
 _stateless persons_: 2,889 (2022)<br>
 <strong>note: </strong>792,380 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
 

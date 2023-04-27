@@ -453,8 +453,8 @@ _highest 10%_: NA<br>
 2.12% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $1.466 billion (2017 est.) (2013 est.)<br>
-_expenditures_: $1.664 billion (2017 est.)<br>
+_revenues_: $1.271 billion (2020 est.)<br>
+_expenditures_: $1.483 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -4% (of GDP) (2017 est.)<br>
@@ -630,7 +630,8 @@ _major seaport(s)_: Bridgetown<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Barbados Defense Force: The Barbados Regiment, The Barbados Coast Guard (2022)<br>
+Barbados Defense Force: The Barbados Regiment, The Barbados Coast Guard (2023)<br>
+<strong>note:</strong> authority over the BDF is shared between the president and prime minister, with the president overseeing strategic direction and the prime minister responsible for operational leadership<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2022 est.)<br>
@@ -649,7 +650,7 @@ the Netherlands provide the BDF's major equipment inventory (maritime patrol boa
 voluntary service only (men and women); 17 years, 9 months to 17 years, 11 months with letter of consent from a parent or guardian, or be in the age range of 18-25 years at the start of recruit training; citizens of Barbados by descent or naturalization (2022)<br>
 
 **Military - note**<br>
-Barbados has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados (2022)<br>
+Barbados has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados (2023)<br>
 
 ## Transnational Issues
 

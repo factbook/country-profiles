@@ -511,8 +511,8 @@ _highest 10%_: 36.1% (2014 est.)<br>
 3.27% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $15.09 billion (2017 est.)<br>
-_expenditures_: $18.02 billion (2017 est.)<br>
+_revenues_: $11.796 billion (2019 est.)<br>
+_expenditures_: $14.75 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -7.8% (of GDP) (2017 est.)<br>
@@ -721,7 +721,7 @@ _river port(s)_: Puerto Aguirre (Paraguay/Parana)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bolivian Armed Forces: Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval Force (Fuerza Naval Boliviana, FNB), Bolivian Air Force (Fuerza Aerea Boliviana, FAB); Ministry of Government: National Police (Policía Nacional de Bolivia, PNB) (2022)<br>
+Bolivian Armed Forces (Fuerzas Armadas de Bolivia or FAB): Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval Force (Fuerza Naval Boliviana, FNB), Bolivian Air Force (Fuerza Aerea Boliviana, FAB); Ministry of Government: National Police (Policía Nacional de Bolivia, PNB) (2022)<br>
 <strong>note:</strong> the PNB includes two paramilitary forces, the Anti-Narcotics Special Forces (Fuerza Especial de Lucha Contra el Narcotráfico, FELCN) and the Anti-Terrorist Group (GAT); the PNB is part of the reserves for the Armed Forces; the police and military share responsibility for border enforcement<br>
 
 **Military expenditures**<br>
@@ -732,17 +732,17 @@ Bolivian Armed Forces: Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval
 1.5% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies widely; approximately 40,000 active troops (28,000 Army; 5,000 Navy; 7,000 Air Force); note - a considerable portion of the Navy personnel are marines and naval police; approximately 40,000 National Police (2022)<br>
+information varies widely; approximately 40,000 active troops (28,000 Army; 5,000 Navy; 7,000 Air Force; note - a considerable portion of the Navy personnel are marines and naval police); approximately 40,000 National Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Bolivian Armed Forces are equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment; in recent years, China and France have been the leading suppliers of military hardware to Bolivia (2022)<br>
+the military is equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment (2023)<br>
 
 **Military service age and obligation**<br>
 compulsory for all men between the ages of 18 and 22; men can volunteer from the age of 16, women from 18; service is for 12 months; Search and Rescue service can be substituted for citizens who have reached the age of compulsory military service; duration of this service is 24 months (2023)<br>
 <strong>note:</strong> foreign nationals 18-22 residing in Bolivia may join the armed forces; joining speeds the process of acquiring Bolivian citizenship by naturalization<br>
 
 **Military - note**<br>
-Bolivia has a small naval force for patrolling some 5,000 miles of navigable rivers to combat narcotics trafficking and smuggling, provide disaster relief, and deliver supplies to remote rural areas, as well as for maintaining a presence on Lake Titicaca; the Navy also exists in part to cultivate a maritime tradition and as a reminder of Bolivia&rsquo;s desire to regain the access to the Pacific Ocean that the country lost to Chile in the War of the Pacific (1879-1884); every year on 23 March, the Navy participates in parades and government ceremonies commemorating the D&iacute;a Del Mar (Day of the Sea) holiday that remembers the loss (2022)<br>
+Bolivia has a small naval force for patrolling some 5,000 miles of navigable rivers to combat narcotics trafficking and smuggling, provide disaster relief, and deliver supplies to remote rural areas, as well as for maintaining a presence on Lake Titicaca; the Navy also exists in part to cultivate a maritime tradition and as a reminder of Bolivia&rsquo;s desire to regain the access to the Pacific Ocean that the country lost to Chile in the War of the Pacific (1879-1884); every year on 23 March, the Navy participates in parades and government ceremonies commemorating the D&iacute;a Del Mar (Day of the Sea) holiday that remembers the loss (2023)<br>
 
 ## Transnational Issues
 

@@ -508,9 +508,8 @@ _highest 10%_: 30% (2007 est.)<br>
 0.03% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $3.315 trillion (2017 est.)<br>
-_expenditures_: $3.981 trillion (2017 est.)<br>
-<strong>note:</strong> revenues exclude social contributions of approximately $1.0 trillion; expenditures exclude social benefits of approximately $2.3 trillion<br>
+_revenues_: $6.429 trillion (2019 est.)<br>
+_expenditures_: $7.647 trillion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3.4% (of GDP) (2017 est.)<br>

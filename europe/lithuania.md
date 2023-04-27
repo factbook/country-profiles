@@ -342,7 +342,7 @@ _chief of state_: President Gitanas NAUSEDA (since 12 July 2019)<br>
 _head of government_: Prime Minister Ingrida SIMONYTE (since 24 November 2020)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the president, and approved by Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 12 and 26 May 2019 (next to be held in May 2024); prime minister appointed by the president, approved by Parliament<br>
-_election results_: <em>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%<br><br><br><br> <table style="background: transparent none repeat scroll 0% 0%; width: 31px; height: 39px;"> <tbody> <tr> <td style="width: 75px; text-align: center;"> </td> <td style="width: 75px; text-align: center;"> </td> </tr> </tbody> </table><br>
+_election results_: <em>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%<br><br><em>2014: </em>elected president; percent by vote Dalia GRYBAUSKAITE (independent) 59.1%, Zigmantas BALCYTIS (Social Democratic Party) 40.9%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
@@ -355,7 +355,7 @@ _judge selection and term of office_: Supreme Court judges nominated by the pres
 _subordinate courts_: Court of Appeals; district and local courts<br>
 
 **Political parties and leaders**<br>
-Electoral Action of Lithuanian Poles or LLRA [Valdemar TOMASEVSKI]<br>Freedom and Justice Party or LT [Remigijus ZEMAITAITIS] (formerly Lithuanian Freedom Union (Liberals))<br>Freedom Party or LP [Ausrine ARMONAITE]<br>Homeland Union-Lithuanian Christian Democrats or TS-LKD [Gabrielius LANDSBERGIS]<br>Labor Party or DP [Andrius MAZURONIS]<br>Lithuanian Center Party or LCP [Naglis PUTEIKIS]<br>Lithuanian Farmers and Greens Union or LVZS [Ramunas KARBAUSKIS]<br>Lithuanian Green Party or LZP [Remigijus LAPINSKAS]<br>Lithuanian Liberal Movement or LS or LRLS [Viktorija CMILYTE-NIELSEN]<br>Lithuanian List or LL [Darius KUOLYS]<br>Lithuanian Regions Party or LRP [Jonas PINSKUS] (formerly Lithuanian Social Democratic Labor Party or LSDDP)<br>Lithuanian Social Democratic Party or LSDP [Vilija BLINKEVICIUTE]<br>
+Democrats for Lithuania [Saulius SKVERNELIS]<br>Electoral Action of Lithuanian Poles or LLRA [Valdemar TOMASEVSKI]<br>Freedom and Justice Party or LT [Remigijus ZEMAITAITIS] (formerly Lithuanian Freedom Union (Liberals))<br>Freedom Party or LP [Ausrine ARMONAITE]<br>Homeland Union-Lithuanian Christian Democrats or TS-LKD [Gabrielius LANDSBERGIS]<br>Labor Party or DP [Andrius MAZURONIS]<br>Lithuanian Center Party or LCP [Naglis PUTEIKIS]<br>Lithuanian Farmers and Greens Union or LVZS [Ramunas KARBAUSKIS]<br>Lithuanian Green Party or LZP [Remigijus LAPINSKAS]<br>Lithuanian Liberal Movement or LS or LRLS [Viktorija CMILYTE-NIELSEN]<br>Lithuanian List or LL [Darius KUOLYS]<br>Lithuanian Regions Party or LRP [Jonas PINSKUS] (formerly Lithuanian Social Democratic Labor Party or LSDDP)<br>Lithuanian Social Democratic Party or LSDP [Vilija BLINKEVICIUTE]<br>
 
 **International organization participation**<br>
 Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
@@ -487,8 +487,8 @@ _highest 10%_: 28.8% (2015)<br>
 2.38% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $15.92 billion (2017 est.)<br>
-_expenditures_: $15.7 billion (2017 est.)<br>
+_revenues_: $18.636 billion (2019 est.)<br>
+_expenditures_: $18.491 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 0.5% (of GDP) (2017 est.)<br>
@@ -724,7 +724,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 76,309 (Ukraine) (as of 31 March 2023)<br>
+_refugees (country of origin)_: 76,540 (Ukraine) (as of 11 April 2023)<br>
 _stateless persons_: 2,720 (2022)<br>
 
 **Illicit drugs**<br>

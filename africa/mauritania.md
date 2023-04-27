@@ -394,7 +394,7 @@ _FAX_: [1] (202) 319-2623<br>
 _email address and website_: <br>office@mauritaniaembassyus.com<br><br>http://mauritaniaembassyus.com/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Cynthia KIERSCHT (since 29 March 2021)<br>
+_chief of mission_: Ambassador Cynthia KIERSCHT (since 27 January 2021)<br>
 _embassy_: Nouadhibou Road, Avenue Al Quds, NOT PRTZ, Nouakchott<br>
 _mailing address_: 2430 Nouakchott Place, Washington DC&nbsp; 20521-2430<br>
 _telephone_: [222] 4525-2660<br>
@@ -503,8 +503,8 @@ _highest 10%_: 29.5% (2000)<br>
 0.81% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $1.354 billion (2017 est.)<br>
-_expenditures_: $1.396 billion (2017 est.)<br>
+_revenues_: $1.617 billion (2019 est.)<br>
+_expenditures_: $1.407 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.8% (of GDP) (2017 est.)<br>

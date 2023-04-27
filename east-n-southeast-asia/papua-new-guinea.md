@@ -487,8 +487,8 @@ _highest 10%_: 40.5% (1996)<br>
 0.02% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $3.638 billion (2017 est.)<br>
-_expenditures_: $4.591 billion (2017 est.)<br>
+_revenues_: $4.039 billion (2019 est.)<br>
+_expenditures_: $5.135 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -4.8% (of GDP) (2017 est.)<br>
@@ -694,11 +694,11 @@ _LNG terminal(s) (export)_: Port Moresby<br>
 Papua New Guinea Defense Force (PNGDF; includes land, maritime, and air elements); Ministry of Police: Royal Papua New Guinea Constabulary and Correctional Services (2022)<br>
 
 **Military expenditures**<br>
+0.3% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
 0.4% of GDP (2020 est.)<br>
 0.3% of GDP (2019) (approximately $100 million)<br>
 0.3% of GDP (2018) (approximately $100 million)<br>
-0.3% of GDP (2017) (approximately $110 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 3,000 active duty troops (2022)<br>

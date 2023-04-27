@@ -370,7 +370,7 @@ _email address and website_: <br>office@bulgaria-embassy.org; Embassy.Washington
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Herro MUSTAFA (since&nbsp;18&nbsp;October 2019)<br>
+_chief of mission_: Ambassador Kenneth MERTEN (since 7 April 2023)<br>
 _embassy_: 16, Kozyak Street, Sofia 1408<br>
 _mailing address_: 5740 Sofia Place, Washington, DC&nbsp; 20521-5740<br>
 _telephone_: [359] (2) 937-5100<br>
@@ -490,8 +490,8 @@ _highest 10%_: 31.2% (2017)<br>
 3.4% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $20.35 billion (2017 est.)<br>
-_expenditures_: $19.35 billion (2017 est.)<br>
+_revenues_: $24.487 billion (2020 est.)<br>
+_expenditures_: $26.544 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.8% (of GDP) (2017 est.)<br>
@@ -718,7 +718,7 @@ the military's inventory consists primarily of Soviet-era equipment, although in
 <strong>note 1:</strong> in 2021, women comprised about 17% of the Bulgarian military's full-time personnel<br><br><strong>note 2:</strong> in 2020, Bulgaria announced a program to allow every citizen up to the age of 40 to join the armed forces for 6 months of military service in the voluntary reserve<br>
 
 **Military - note**<br>
-Bulgaria became a member of NATO in 2004; Bulgaria conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Bulgarian Air Force since 2014 (2022)<br>
+Bulgaria became a member of NATO in 2004; Bulgaria conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Bulgarian Air Force since 2014 (2023)<br>
 
 ## Terrorism
 
@@ -732,7 +732,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 48,974 (Ukraine) (as of 4 April 2023)<br>
+_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 47,131 (Ukraine) (as of 18 April 2023)<br>
 _stateless persons_: 1,129 (2022)<br>
 <strong>note:</strong> 87,908 estimated refugee and migrant arrivals (January 2015-January 2023); Bulgaria is predominantly a transit country<br>
 

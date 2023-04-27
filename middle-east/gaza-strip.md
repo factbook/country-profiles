@@ -359,6 +359,8 @@ _female_: 69% (2021 est.)<br>
 18.4% of GDP (2019 est.)<br>
 
 **Budget**<br>
+_revenues_: $3.803 billion (2020 est.)<br>
+_expenditures_: $5.002 billion (2020 est.)<br>
 see entry for the West Bank<br>
 
 **Taxes and other revenues**<br>
@@ -515,7 +517,7 @@ the military wing of HAMAS has an estimated 20-25,000 fighters (2022)<br>
 the military wing of HAMAS is armed with light weapons, including an inventory of improvised rocket, anti-tank missile, and mortar capabilities; HAMAS acquires its weapons through smuggling or local construction and receives some military support from Iran (2023)<br>
 
 **Military - note**<br>
-since seizing control of the Gaza Strip in 2007, HAMAS has claimed responsibility for numerous rocket attacks into Israel and organized protests at the border between Gaza and Israel, resulting in violent clashes, casualties, and reprisal military actions by the Israel Defense Forces (IDF); HAMAS and Israel fought an 11-day conflict in May of 2021, which ended in an informal truce; sporadic clashes continued into 2022, including incendiary balloon attacks from Gaza and retaliatory IDF strikes; Palestine Islamic Jihad (PIJ) has conducted numerous attacks on Israel since the 1980s, including a barrage of mortar and rocket strikes in 2020, also prompting IDF counter-strikes; see Appendix T for more details on HAMAS and PIJ<br><br>in 2017, HAMAS and PIJ announced the formation of a "joint operations room" to coordinate the activities of their armed wings; by late 2020, the formation consisted of 12 militant groups operating in Gaza and had conducted its first joint training exercise (2022)<br>
+since seizing control of the Gaza Strip in 2007, HAMAS has claimed responsibility for numerous rocket attacks into Israel and organized protests at the border between Gaza and Israel, resulting in violent clashes, casualties, and reprisal military actions by the Israel Defense Forces (IDF); HAMAS and Israel fought an 11-day conflict in May of 2021, which ended in an informal truce; sporadic clashes continued into 2023, including rocket attacks from Gaza and retaliatory IDF strikes; Palestine Islamic Jihad (PIJ) has conducted numerous attacks on Israel since the 1980s, including a barrage of mortar and rocket strikes in 2020, also prompting IDF counter-strikes; see Appendix T for more details on HAMAS and PIJ<br><br>in 2017, HAMAS and PIJ announced the formation of a "joint operations room" to coordinate the activities of their armed wings; by late 2020, the formation consisted of 12 militant groups operating in Gaza and had conducted its first joint training exercise (2023)<br>
 
 ## Terrorism
 

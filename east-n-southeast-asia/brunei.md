@@ -447,8 +447,8 @@ _highest 10%_: NA<br>
 0.01% of GDP (2020 est.)<br>
 
 **Budget**<br>
-_revenues_: $2.245 billion (2017 est.)<br>
-_expenditures_: $4.345 billion (2017 est.)<br>
+_revenues_: $1.058 billion (2020 est.)<br>
+_expenditures_: $3.189 billion (2020 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -17.3% (of GDP) (2017 est.)<br>

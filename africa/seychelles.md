@@ -266,7 +266,7 @@ _rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 48,000 tons (2012 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 9 million cubic meters (2017 est.)<br>
+_municipal_: 10 million cubic meters (2020 est.)<br>
 _industrial_: 3.8 million cubic meters (2017 est.)<br>
 _agricultural_: 900,000 cubic meters (2017 est.)<br>
 
@@ -457,8 +457,8 @@ _highest 10%_: 15.4% (2007)<br>
 1.39% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $593.4 million (2017 est.)<br>
-_expenditures_: $600.7 million (2017 est.)<br>
+_revenues_: $601 million (2019 est.)<br>
+_expenditures_: $586 million (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.5% (of GDP) (2017 est.)<br>

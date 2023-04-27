@@ -296,9 +296,9 @@ _municipal solid waste generated annually_: 610,222 tons (2004 est.)<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 111 million cubic meters (2017 est.)<br>
-_industrial_: 55.5 million cubic meters (2017 est.)<br>
-_agricultural_: 45.7 million cubic meters (2017 est.)<br>
+_municipal_: 110 million cubic meters (2020 est.)<br>
+_industrial_: 60 million cubic meters (2020 est.)<br>
+_agricultural_: 50 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 160 billion cubic meters (2019 est.)<br>
@@ -483,8 +483,8 @@ _highest 10%_: 33.6% (2003)<br>
 1.79% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $562 million (2017 est.)<br>
-_expenditures_: $846.4 million (2017 est.)<br>
+_revenues_: $740 million (2019 est.)<br>
+_expenditures_: $867 million (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -7.9% (of GDP) (2017 est.)<br>

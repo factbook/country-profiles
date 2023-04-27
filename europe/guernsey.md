@@ -357,14 +357,20 @@ calendar year<br>
 **Exports**<br>
 <p>NA</p><br>
 
+**Exports - partners**<br>
+almost entirely United Kingdom (2022)<br>
+
 **Exports - commodities**<br>
-tomatoes, flowers and ferns, sweet peppers, eggplant, other vegetables<br>
+aircraft, photo lab equipment, clocks, ships, paintings, scientific instruments (2022)<br>
 
 **Imports**<br>
 <p>NA</p><br>
 
+**Imports - partners**<br>
+almost entirely United Kingdom (2022)<br>
+
 **Imports - commodities**<br>
-coal, gasoline, oil, machinery, and equipment<br>
+ships, aircraft, refined petroleum, mineral manufactures, beverages (2022)<br>
 
 **Debt - external**<br>
 <p>NA</p><br>

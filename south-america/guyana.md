@@ -477,8 +477,8 @@ _highest 10%_: 33.8% (1999)<br>
 6.97% of GDP (2018 est.)<br>
 
 **Budget**<br>
-_revenues_: $1.002 billion (2017 est.)<br>
-_expenditures_: $1.164 billion (2017 est.)<br>
+_revenues_: $1.333 billion (2019 est.)<br>
+_expenditures_: $1.467 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -4.5% (of GDP) (2017 est.)<br>
@@ -507,7 +507,7 @@ $1.805 billion (2019 est.)<br>
 Trinidad and Tobago 31%, Canada 11%, Portugal 11%, Ghana 8%, Norway 6%, United Arab Emirates 5% (2019)<br>
 
 **Exports - commodities**<br>
-ships, gold, shipping containers, excavation machinery, aluminum ores, rice (2019)<br>
+crude petroleum, gold, rice, aluminum ores, railway shipping containers, rums&nbsp;&nbsp; (2021)<br>
 
 **Imports**<br>
 $6.611 billion (2021 est.) note: data are in current year dollars<br>

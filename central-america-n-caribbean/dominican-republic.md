@@ -494,8 +494,8 @@ _highest 10%_: 37.4% (2013 est.)<br>
 8.34% of GDP (2019 est.)<br>
 
 **Budget**<br>
-_revenues_: $11.33 billion (2017 est.)<br>
-_expenditures_: $13.62 billion (2017 est.)<br>
+_revenues_: $12.804 billion (2019 est.)<br>
+_expenditures_: $14.511 billion (2019 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -3% (of GDP) (2017 est.)<br>
