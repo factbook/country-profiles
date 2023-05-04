@@ -211,9 +211,9 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 97.6%<br>
-_male_: 98%<br>
-_female_: 96.9% (2019)<br>
+_total population_: 98.1%<br>
+_male_: 98.8%<br>
+_female_: 97.2% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -266,9 +266,9 @@ _municipal solid waste recycled annually_: 1,082,691 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 20% (2015 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 617 million cubic meters (2017 est.)<br>
-_industrial_: 69 million cubic meters (2017 est.)<br>
-_agricultural_: 3.312 billion cubic meters (2017 est.)<br>
+_municipal_: 2.63 billion cubic meters (2020 est.)<br>
+_industrial_: 69 million cubic meters (2020 est.)<br>
+_agricultural_: 2.32 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 150 million cubic meters (2019 est.)<br>
@@ -504,7 +504,7 @@ $229.2 billion (2017 est.)<br>
 $226.5 billion (2016 est.)<br>
 
 **Imports - partners**<br>
-China 15%, India 12%, Untied States 7% (2019)<br>
+China 15%, India 12%, United States 7% (2019)<br>
 
 **Imports - commodities**<br>
 gold, broadcasting equipment, jewelry, refined petroleum, diamonds (2019)<br>
@@ -637,6 +637,7 @@ _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 5<br>
 _914 to 1,523 m_: 3<br>
 _under 914 m_: 2 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 18<br>

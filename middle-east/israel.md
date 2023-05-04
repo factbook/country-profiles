@@ -337,15 +337,15 @@ _residency requirement for naturalization_: 3 out of the 5 years preceding the a
 
 **Executive branch**<br>
 _chief of state_: President Isaac HERZOG (since 7 July 2021)<br>
-_head of government_: Prime Minister Benjamin NETANYAHU (since 29 December 2022)<br>
+_head of government_: Prime Minister Benyamin NETANYAHU (since 29 December 2022)<br>
 _cabinet_: Cabinet selected by prime minister and approved by the Knesset<br>
 _elections/appointments_: president indirectly elected by the Knesset for a single 7-year term; election last held on 2 June 2021 (next to be held in June 2028); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a new government<br>
-_election results_: <em>2021:</em> Issac HERZOG elected president; Knesset vote - Issac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7<br>
+_election results_: <em>2021:</em> Isaac HERZOG elected president; Knesset vote - Isaac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7<br>
 
 **Legislative branch**<br>
 _description_: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a 3.25% vote threshold to gain representation; members serve 4-year terms)<br>
 _elections_: last held on 1 November 2022 (next scheduled for November 2026)<br>
-_election results_: percent by party - Likud 23.4%, Yesh Atid 17.8%, Religious Zionist Party 10.8%, National Unity 9.1%, Shas 8.2%, UTJ 5.9%, Yisrael Beiteinu 4.5%, United Arab List 4.1%, Hadash-Ta'al 3.8%, Labor 3.7%, Meretz 3.2%, other 1.6%; seats by party - Likud 32, Yesh Atid 24, Religious Zionist Party 14, National Unity 12, Shas 11, UTJ 7, Yisrael Beiteinu 6, Hadash-Ta'al 5, United Arab List 5, Labor 4; composition - men 91, women 29, percentage of women 24.2%<br>
+_election results_: percent by party - Likud 23.4%, Yesh Atid 17.8%, Religious Zionism (electoral alliance of Religious Zionist Party, Jewish Strength, and Noam) 10.8%, National Unity 9.1%, Shas 8.2%, UTJ 5.9%, Yisrael Beiteinu 4.5%, United Arab List 4.1%, Hadash-Ta'al 3.8%, Labor 3.7%, Meretz 3.2%, other 1.6%; seats by party - Likud 32, Yesh Atid 24, Religious Zionism 14, National Unity 12, Shas 11, UTJ 7, Yisrael Beiteinu 6, Hadash-Ta'al 5, United Arab List 5, Labor 4; composition - men 91, women 29, percentage of women 24.2%; note - following the 1 November 2022 election, the Religious Zionism Alliance split into three parties in the Knesset:&nbsp; Religious Zionism 7 seats, Jewish Power (Otzma Yehudit) 6, and Noam 1&nbsp;<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the president, deputy president, 13 justices, and 2 registrars) and normally sits in panels of 3 justices; in special cases, the panel is expanded with an uneven number of justices<br>
@@ -353,7 +353,7 @@ _judge selection and term of office_: judges selected by the 9-member Judicial S
 _subordinate courts_: district and magistrate courts; national and regional labor courts; family and juvenile courts; special and Rabbinical courts<br>
 
 **Political parties and leaders**<br>
-Blue and White [Benny GANTZ]<br>Joint Arab List [Ayman ODEH] (alliance includes Hadash, Ta’al, Balad)<br>Labor Party or HaAvoda [Merav MICHAELI]<br>Likud [Binyamin NETANYAHU]<br>Meretz [Zehava GAL-ON]<br>National Unity [alliance includes Blue and White and New Hope]<br>New Hope [Gideon SA'AR]<br>Religious Zionist Party [Bezalel SMOTRICH, chairperson] <br>SHAS [Aryeh DERI]<br>United Arab List [Mansour ABBAS]<br>United Torah Judaism or UTJ [Moshe GAFNI] (alliance includes Agudat Israel and Degel HaTorah)<br>Yamina [Ayelet SHAKED]<br>Yesh Atid [Yair LAPID]<br>Yisrael Beiteinu [Avigdor LIEBERMAN]<br>
+Balad [Sami Abu SHEHADEH]<br>Blue and White [Benny GANTZ]<br>Hadash [Ayman ODEH]<br>Jewish Power (Otzma Yehudit) [Ben GVIR]<br>Joint Arab List [Ayman ODEH] (alliance includes Hadash, Ta’al, Balad)<br>Labor Party or HaAvoda [Merav MICHAELI]<br>Likud [Binyamin NETANYAHU]<br>Meretz [Zehava GAL-ON]<br>National Unity [alliance includes Blue and White and New Hope]<br>New Hope [Gideon SA'AR]<br>Noam [Rabbi Dror ARYEH]<br>Religious Zionism [Bezalel SMOTRICH] (election alliance of Religious Zionist Party, Jewish Power (Otzma Yehudit), and Noam)<br>Religious Zionist Party [Bezalel SMOTRICH]<br>SHAS [Aryeh DERI]<br>Ta'al [Ahmad TIBI]<br>United Arab List [Mansour ABBAS]<br>United Torah Judaism or UTJ [Moshe GAFNI] (alliance includes Agudat Israel and Degel HaTorah)<br>Yamina [Ayelet SHAKED]<br>Yesh Atid [Yair LAPID]<br>Yisrael Beiteinu [Avigdor LIEBERMAN]<br>
 
 **International organization participation**<br>
 BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -662,6 +662,7 @@ _2,438 to 3,047 m_: 5<br>
 _1,524 to 2,437 m_: 5<br>
 _914 to 1,523 m_: 12<br>
 _under 914 m_: 8 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 9<br>
@@ -698,11 +699,11 @@ Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes com
 <strong>note 1:</strong> the Border Police is a unit within the Israel Police with its own organizational and command structure; it works both independently as well as in cooperation with or in support of the Israel Police and the IDF<br><br>note 2: the Israeli Security Agency (ISA) is charged with combating terrorism and espionage in Israel and the West Bank and Gaza Strip; it is under the authority of the Prime Minister; ISA forces operating in the West Bank fall under the IDF for operations and operational debriefing<br>
 
 **Military expenditures**<br>
+4.5% of GDP (2022 est.)<br>
 5% of GDP (2021 est.)<br>
 5% of GDP (2020 est.)<br>
 5.2% of GDP (2019 est.)<br>
 5.3% of GDP (2018 est.)<br>
-5.5% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 173,000 active duty personnel (130,000 Ground Forces; 9,000 Naval; 34,000 Air Force) (2022)<br>

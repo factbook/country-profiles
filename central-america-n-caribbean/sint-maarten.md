@@ -323,11 +323,6 @@ _services_: 83.7% (2008 est.)<br>
 12% (2012 est.)<br>
 10.6% (2008 est.)<br>
 
-**Remittances**<br>
-4.3% of GDP (2018 est.)<br>
-4.62% of GDP (2017 est.)<br>
-4.82% of GDP (2016 est.)<br>
-
 **Current account balance**<br>
 -$294.32 million (2021 est.)<br>
 -$290.458 million (2020 est.)<br>
@@ -394,7 +389,7 @@ _percent of population_: 89.5% (2022)<br>
 **Airports - with paved runways**<br>
 _total_: 1<br>
 _1,524 to 2,437 m_: 1 (2021)<br>
-<strong>note:</strong> Princess Juliana International Airport (SXM) was severely damaged on 6 September 2017 by hurricane Irma, but resumed commercial operations on 10 October 2017<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Roadways**<br>
 _total_: 53 km<br>

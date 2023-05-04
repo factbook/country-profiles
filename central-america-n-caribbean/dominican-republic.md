@@ -227,9 +227,9 @@ _female_: 6.5% (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 93.8%<br>
-_male_: 93.8%<br>
-_female_: 93.8% (2016)<br>
+_total population_: 95.2%<br>
+_male_: 95.1%<br>
+_female_: 95.3% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -663,6 +663,7 @@ _2,438 to 3,047 m_: 4<br>
 _1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 4<br>
 _under 914 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 20<br>
@@ -700,8 +701,8 @@ _LNG terminal(s) (import)_: Andres LNG terminal (Boca Chica)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Dominican Republic: Army (Ejercito Nacional, EN), Navy (Marina de Guerra, MdG; includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD) (2022)<br>
-<strong>note:</strong> in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation, Port Security Authority, the Tourist Security Corps, and Border Security Corps; the National Police (Policia Nacional) are under the Ministry of Interior<br>
+Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito de la Republica Dominicana, ERD), Navy (Armada de República Dominicana or ARD; includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD) (2023)<br>
+<strong>note:</strong> in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation (CESAC), Port Security Authority (CESEP), the Tourist Security Corps (CESTUR), and Border Security Corps (CESFRONT); the National Police (Policia Nacional) are under the Ministry of Interior<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2022 est.)<br>
@@ -717,11 +718,11 @@ information varies; approximately 60,000 active personnel (30,000 Army; 13,000 N
 the military is lightly armed with an inventory consisting mostly of older US equipment with limited quantities of material from other countries (2022)<br>
 
 **Military service age and obligation**<br>
-17-21 years of age for voluntary military service (men and women); recruits must have completed primary school and be Dominican Republic citizens (2022)<br>
+16-23 years of age for voluntary military service for men and women (ages vary slightly according to military service; under 18 admitted with permission of parents); recruits must have completed primary school and be Dominican Republic citizens (2023)<br>
 <strong>note:</strong> as of 2021, women made up approximately 20% of the active duty military<br>
 
 **Military - note**<br>
-the military is primarily focused on countering illegal immigration and refugees along its 350-kilometer-long border with Haiti and interdicting air and maritime narcotics trafficking, as well as disaster relief (2022)<br>
+the military is primarily focused on countering illegal immigration and refugees along its 350-kilometer-long border with Haiti and interdicting air and maritime narcotics trafficking, as well as disaster relief (2023)<br>
 
 ## Transnational Issues
 

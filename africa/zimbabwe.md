@@ -237,9 +237,9 @@ _men married by age 18_: 1.9% (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write English<br>
-_total population_: 86.5%<br>
-_male_: 88.5%<br>
-_female_: 84.6% (2015)<br>
+_total population_: 89.7%<br>
+_male_: 88.3%<br>
+_female_: 89.7% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -311,9 +311,9 @@ Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basi
 Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 487.7 million cubic meters (2017 est.)<br>
-_industrial_: 81.4 million cubic meters (2017 est.)<br>
-_agricultural_: 2.77 billion cubic meters (2017 est.)<br>
+_municipal_: 650 million cubic meters (2020 est.)<br>
+_industrial_: 80 million cubic meters (2020 est.)<br>
+_agricultural_: 3.04 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 20 billion cubic meters (2019 est.)<br>
@@ -497,11 +497,6 @@ _female_: 8.5% (2021 est.)<br>
 _lowest 10%_: 2%<br>
 _highest 10%_: 40.4% (1995)<br>
 
-**Remittances**<br>
-8.52% of GDP (2020 est.)<br>
-6.49% of GDP (2019 est.)<br>
-4.18% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $17 million (2018 est.)<br>
 _expenditures_: $23 million (2018 est.)<br>
@@ -675,6 +670,7 @@ _over 3,047 m_: 3<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 5<br>
 _914 to 1,523 m_: 7 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 179<br>
@@ -730,7 +726,7 @@ ZDF’s primary responsibilities are protecting the country’s sovereignty and 
 <p><em>Zimbabwe-Mozambique: none identified<br><br>Zimbabwe-South Africa: </em>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration<em><br><br>Zimbabwe-Zambia: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,761 (Democratic Republic of Congo) (refugees and asylum seekers), 9,887 (Mozambique) (2022)<br>
+_refugees (country of origin)_: 11,761 (Democratic Republic of Congo) (refugees and asylum seekers), 9,907 (Mozambique) (2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List - Zimbabwe does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government investigated and prosecuted human trafficking cases and conducted training for law enforcement, immigration, and other key officials; however, Zimbabwe did not demonstrate overall increasing efforts to increase anti-trafficking capacity; officials did not amend laws to criminalize all forms of trafficking, did not identify or provide care for any trafficking victims, nor convict any traffickers; therefore Zimbabwe remained on Tier 2 Watch List for the second consecutive year (2022)<br>

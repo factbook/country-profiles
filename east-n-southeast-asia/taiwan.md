@@ -268,12 +268,12 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President TSAI Ing-wen (since 20 May 2016); Vice President LAI Ching-te (since 20 May 2020)<br>
 _head of government_: Premier CHEN Chien-jen (President of the Executive Yuan) (since 25 January 2023); Vice Premier CHENG Wen-tsan (Vice President of the Executive Yuan) (since 25 January 2023)<br>
 _cabinet_: Executive Yuan - ministers appointed by president on recommendation of premier<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11 January 2020 (next to be held on 11 January 2024); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11 January 2020 (next to be held on 13 January 2024); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier<br>
 _election results_: <em>2020</em>: TSAI Ing-wen elected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%, James SOONG (PFP) 4.2%; note - TSAI is the first woman elected president of Taiwan<br><br><em>2016</em>: TSAI Ing-wen elected president; percent of vote - TSAI Ing-wen (DPP) 56.1%, Eric CHU (KMT) 31%, James SOONG (PFP) 12.8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Yuan (113 seats; 73 members directly elected in single-seat constituencies by simple majority vote, 34 directly elected in a single island-wide constituency by proportional representation vote, and 6 directly elected in multi-seat aboriginal constituencies by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 11 January 2020 (next to be held on 11 January 2024)<br>
+_elections_: last held on 11 January 2020 (next to be held on 13 January 2024)<br>
 _election results_: percent of vote by party - Democratic Progressive Party (DPP) 34.0%, Kuomintang (KMT) 33.4%, Taiwan People's Party (TPP) 11.2%, New Power Party (NPP) 7.5%; seats by party - DPP 61, KMT 38, TPP 5, NPP 3; composition as of early 2020 - men 64, women 48, percent of women 42.5%<br>
 
 **Judicial branch**<br>
@@ -282,7 +282,7 @@ _judge selection and term of office_: Supreme Court justices appointed by the pr
 _subordinate courts_: high courts; district courts; hierarchy of administrative courts<br>
 
 **Political parties and leaders**<br>
-Democratic Progressive Party or DPP [CHEN Chi-mai (acting)]<br>Kuomintang or KMT (Nationalist Party) [Eric CHU Chi-luan]<br>New Power Party or NPP [CHEN Jiau-hua]<br>People First Party or PFP [James SOONG]<br>Taiwan People's Party or TPP [KO Wen-je]<br>Taiwan Statebuilding Party or TSP [CHEN Yi-chi]<br>
+Democratic Progressive Party or DPP [LAI Ching-te]<br>Kuomintang or KMT (Nationalist Party) [Eric CHU Chi-luan]<br>New Power Party or NPP [CHEN Jiau-hua]<br>People First Party or PFP [James SOONG]<br>Taiwan People's Party or TPP [KO Wen-je]<br>Taiwan Statebuilding Party or TSP [CHEN Yi-chi]<br>
 <strong>note:</strong> the DPP and the KMT are the two major political parties; there are hundreds of registered minor parties<br>
 
 **International organization participation**<br>
@@ -564,6 +564,7 @@ _2,438 to 3,047 m_: 7<br>
 _1,524 to 2,437 m_: 10<br>
 _914 to 1,523 m_: 8<br>
 _under 914 m_: 2 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>

@@ -291,7 +291,7 @@ _time difference_: UTC+2 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name derives from Djouba, another name for the Bari people of South Sudan<br>
 
 **Administrative divisions**<br>
-10 states; Central Equatoria, Eastern Equatoria, Jonglei, Lakes, Northern Bahr el Ghazal, Unity, Upper Nile, Warrap, Western Bahr el Ghazal, Western Equatoria; note - in 2015, the creation of 28 new states was announced and in 2017 four additional states; following the February 2020 peace agreement, the country was reportedly again reorganized into the 10 original states, plus 2 administrative areas, Pibor and Ruweng, and 1 special administrative status area, Abyei (which is disputed between South Sudan and Sudan); this latest administrative revision has not yet been vetted by the US Board on Geographic Names<br>
+10 states; Central Equatoria, Eastern Equatoria, Jonglei, Lakes, Northern Bahr el Ghazal, Unity, Upper Nile, Warrap, Western Bahr el Ghazal, Western Equatoria; note - in 2015, the creation of 28 new states was announced and in 2017 four additional states; following the February 2020 peace agreement, the country was again reorganized into the 10 original states, plus 2 administrative areas, Pibor and Ruweng, and 1 special administrative status area, Abyei (which is disputed between South Sudan and Sudan); this latest administrative revision has not yet been vetted by the US Board on Geographic Names<br>
 
 **Independence**<br>
 9 July 2011 (from Sudan)<br>
@@ -578,6 +578,7 @@ _total_: 4<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 84<br>
@@ -609,11 +610,11 @@ South Sudan People’s Defense Force (SSPDF): Ground Force (includes Presidentia
 <strong>note 1: </strong>the NUF are being formed by retraining rebel and pro-government militia fighters into military, police, and other government security forces; in August 2022, South Sudan held the first graduation ceremony for retrained personnel<strong><br><br>note 2:</strong> numerous irregular forces operate in the country with official knowledge, including militias operated by the National Security Service (an internal security force under the Ministry of National Security) and proxy forces<br>
 
 **Military expenditures**<br>
+2.5% of GDP (2022 est.)<br>
 2% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
 3.1% of GDP (2019 est.)<br>
 3.2% of GDP (2018 est.)<br>
-2.1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 150-200,000 active personnel, mostly ground forces with small contingents of air and riverine forces (2022)<br>
@@ -630,7 +631,7 @@ the SSPDF inventory is primarily of Soviet origin; South Sudan has been under a 
 in 2023, South Sudan sent approximately 750 troops to the Democratic Republic of the Congo as part of an East Africa Community military peacekeeping force<br>
 
 **Military - note**<br>
-the SSPDF is largely focused on internal security; the Ground Force has approximately 8 light infantry divisions plus a mechanized presidential guard division (aka the Tiger Division); the Air Force has small numbers of transport aircraft and combat helicopters <br><br>the SSPDF, formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>the United Nations Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS had about 15,000 personnel deployed in the country as of 2022<br><br>United Nations Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of 2022, UNISFA had approximately 2,500 military and police personnel (2023)<br>
+the SSPDF is largely focused on internal security; the Ground Force has approximately 8 light infantry divisions plus a mechanized presidential guard division (aka the Tiger Division); the Air Force has small numbers of transport aircraft and combat helicopters <br><br>the SSPDF, formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>the United Nations Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS had about 15,000 personnel deployed in the country as of early 2023<br><br>United Nations Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of 2022, UNISFA had approximately 2,500 military and police personnel (2023)<br>
 
 ## Transnational Issues
 

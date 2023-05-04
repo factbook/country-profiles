@@ -290,9 +290,9 @@ Mekong river mouth (shared with China [s], Burma, Laos, Thailand, Cambodia) - 4,
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 1.206 billion cubic meters (2017 est.)<br>
-_industrial_: 3.074 billion cubic meters (2017 est.)<br>
-_agricultural_: 77.75 billion cubic meters (2017 est.)<br>
+_municipal_: 1.21 billion cubic meters (2020 est.)<br>
+_industrial_: 3.07 billion cubic meters (2020 est.)<br>
+_agricultural_: 77.75 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 884.1 billion cubic meters (2019 est.)<br>
@@ -493,11 +493,6 @@ _on alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.7%<br>
 _highest 10%_: 26.8% (2014)<br>
 
-**Remittances**<br>
-4.96% of GDP (2020 est.)<br>
-5.08% of GDP (2019 est.)<br>
-5.16% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $64.895 billion (2019 est.)<br>
 _expenditures_: $75.834 billion (2019 est.)<br>
@@ -670,6 +665,7 @@ _over 3,047 m_: 10<br>
 _2,438 to 3,047 m_: 6<br>
 _1,524 to 2,437 m_: 13<br>
 _914 to 1,523 m_: 9 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 7<br>

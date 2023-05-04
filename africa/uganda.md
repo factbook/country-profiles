@@ -237,9 +237,9 @@ _men married by age 18_: 5.5% (2016 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 76.5%<br>
-_male_: 82.7%<br>
-_female_: 70.8% (2018)<br>
+_total population_: 79%<br>
+_male_: 84%<br>
+_female_: 74.3% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 4.3%<br>
@@ -307,9 +307,9 @@ _fresh water lake(s)_: Lake Victoria (shared with Tanzania and Kenya) - 62,940 s
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 328 million cubic meters (2017 est.)<br>
-_industrial_: 50 million cubic meters (2017 est.)<br>
-_agricultural_: 259 million cubic meters (2017 est.)<br>
+_municipal_: 330 million cubic meters (2020 est.)<br>
+_industrial_: 50 million cubic meters (2020 est.)<br>
+_agricultural_: 260 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 60.1 billion cubic meters (2019 est.)<br>
@@ -382,7 +382,7 @@ Democratic Party or DP [Norbert MAO]<br>Forum for Democratic Change or FDC [Patr
 ACP, AfDB, ATMIS, AU, C, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Santa Mary Laker KINYERA (since 20 May 2022)<br>
+_chief of mission_: Ambassador Robinah <strong>KAKONGE</strong> (since 12 December 2022)<br>
 _chancery_: 5911 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 726-7100<br>
 _FAX_: [1] (202) 726-1727<br>
@@ -500,11 +500,6 @@ _on alcohol and tobacco_: 1% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.4%<br>
 _highest 10%_: 36.1% (2009 est.)<br>
-
-**Remittances**<br>
-2.82% of GDP (2020 est.)<br>
-4.03% of GDP (2019 est.)<br>
-4.06% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $5.088 billion (2019 est.)<br>
@@ -679,6 +674,7 @@ _total_: 5<br>
 _over 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 42<br>
@@ -709,17 +705,17 @@ Uganda People's Defense Force (UPDF): Land Force (includes marines), Air Force, 
 <strong>note 1:</strong> the Special Forces Command is a separate branch within the UPDF; it evolved from the former Presidential Guard Brigade and has continued to retain presidential protection duties in addition to its conventional missions, such as counterinsurgency<br><br><strong>note 2:</strong> the Uganda Police Force includes air, field, territorial, and marine units, as well as a presidential guard force<br><br><strong>note 3:</strong> in 2018, President MUSEVENI created a volunteer force of Local Defense Units under the military to beef up local security in designated parts of the country<br>
 
 **Military expenditures**<br>
+2.2% of GDP (2022 est.)<br>
 2.5% of GDP (2021 est.)<br>
 2.5% of GDP (2020 est.)<br>
-1.7% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
-1.2% of GDP (2017)<br>
+1.7% of GDP (2019 est.)<br>
+1.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 50,000 troops, including about 1,000-1,500 air and marine personnel; approximately 20-30,000 personnel in the Local Defense Units (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited mix of more modern Russian- and Western-origin arms; in recent years, Russia has been the leading supplier of arms to the UPDF (2023)<br>
+the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited mix of more modern Russian- and Western-origin arms; in recent years, Russia has been the leading supplier of arms to the UPDF; Uganda has a small but growing defense industry that can manufacture light armored vehicles and perform maintenance on some military equipment, including its Russian-made helicopters&nbsp; (2023)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military duty for men and women; 18-30 for those with degrees/diplomas in specialized fields such as medicine, engineering, chemistry, and education, or possess qualifications in some vocational skills; 9-year service obligation (2022)<br>
@@ -743,6 +739,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 867,391 (South Sudan) (refugees and asylum seekers), 487,044 (Democratic Republic of the Congo), 70,020 (Somalia), 41,235 (Burundi), 27,605 (Eritrea), 23,290 (Rwanda), 5,450 (Ethiopia) (2023)<br>
+_refugees (country of origin)_: 867,391 (South Sudan) (refugees and asylum seekers), 487,044 (Democratic Republic of the Congo), 70,020 (Somalia), 41,235 (Burundi), 31,424 (Eritrea), 23,299 (Rwanda), 6,689 (Ethiopia) (2023)<br>
 _stateless persons_: 67,000 (2022)<br>
 

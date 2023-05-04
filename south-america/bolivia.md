@@ -686,6 +686,7 @@ _over 3,047 m_: 5<br>
 _2,438 to 3,047 m_: 4<br>
 _1,524 to 2,437 m_: 6<br>
 _914 to 1,523 m_: 6 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 834<br>
@@ -725,11 +726,11 @@ Bolivian Armed Forces (Fuerzas Armadas de Bolivia or FAB): Bolivian Army (Ejerci
 <strong>note:</strong> the PNB includes two paramilitary forces, the Anti-Narcotics Special Forces (Fuerza Especial de Lucha Contra el Narcotráfico, FELCN) and the Anti-Terrorist Group (GAT); the PNB is part of the reserves for the Armed Forces; the police and military share responsibility for border enforcement<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2022 est.)<br>
 1.4% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
 1.4% of GDP (2019 est.)<br>
 1.5% of GDP (2018 est.)<br>
-1.5% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies widely; approximately 40,000 active troops (28,000 Army; 5,000 Navy; 7,000 Air Force; note - a considerable portion of the Navy personnel are marines and naval police); approximately 40,000 National Police (2022)<br>

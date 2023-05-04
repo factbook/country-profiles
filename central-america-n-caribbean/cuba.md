@@ -225,9 +225,9 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 99.8%<br>
-_male_: 99.9%<br>
-_female_: 99.8% (2015)<br>
+_total population_: 99.7%<br>
+_male_: 99.6%<br>
+_female_: 99.7% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -650,6 +650,7 @@ _2,438 to 3,047 m_: 10<br>
 _1,524 to 2,437 m_: 16<br>
 _914 to 1,523 m_: 4<br>
 _under 914 m_: 27 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 69<br>
@@ -702,7 +703,7 @@ the military's inventory is comprised of aging Russian and Soviet-era equipment 
 17-28 years of age for compulsory (men) and voluntary (men and women) military service; conscripts serve for 24 months (2023)<br>
 
 **Military - note**<br>
-the FAR has a large role in the Cuban economy through several military owned and operated conglomerates, including such sectors as banking, hotels, industry, retail, transportation, and tourism (2022)<br>
+the FAR has a large role in the Cuban economy through several military owned and operated conglomerates, including such sectors as banking, hotels, industry, retail, transportation, and tourism (2023)<br>
 
 ## Transnational Issues
 

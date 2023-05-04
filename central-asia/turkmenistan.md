@@ -292,9 +292,9 @@ Amu Darya (shared with Tajikistan [s], Afghanistan, and Uzbekistan [m]) - 2,620 
 Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 755 million cubic meters (2017 est.)<br>
-_industrial_: 839 million cubic meters (2017 est.)<br>
-_agricultural_: 26.36 billion cubic meters (2017 est.)<br>
+_municipal_: 450 million cubic meters (2020 est.)<br>
+_industrial_: 810 million cubic meters (2020 est.)<br>
+_agricultural_: 16.12 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 24.8 billion cubic meters (2019 est.)<br>
@@ -485,11 +485,6 @@ _on alcohol and tobacco_: 2.2% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 31.7% (1998)<br>
 
-**Remittances**<br>
-0% of GDP (2019 est.)<br>
-0% of GDP (2018 est.)<br>
-0.01% of GDP (2017 est.)<br>
-
 **Budget**<br>
 _revenues_: $5.954 billion (2019 est.)<br>
 _expenditures_: $6.134 billion (2019 est.)<br>
@@ -657,6 +652,7 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 9<br>
 _1,524 to 2,437 m_: 9<br>
 _914 to 1,523 m_: 2 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 5<br>

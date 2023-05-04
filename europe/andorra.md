@@ -301,7 +301,7 @@ _residency requirement for naturalization_: 25 years<br>
 _chief of state_: Co-prince Emmanuel MACRON (since 14 May 2017); represented by Patrick STROZDA (since 14 May 2017); and Co-prince Archbishop Joan-Enric VIVES i Sicilia (since 12 May 2003); represented by Josep Maria MAURI (since 20 July 2012)<br>
 _head of government_: Xavier Espot ZAMORA (since 16 May 2019)<br>
 _cabinet_: Executive Council of 12 ministers designated by the head of government<br>
-_elections/appointments_: head of government indirectly elected by the General Council (Andorran parliament), formally appointed by the co-princes for a 4-year term; election last held on 7 April 2019 (next to be held in April 2023); the leader of the majority party in the General Council is usually elected head of government<br>
+_elections/appointments_: head of government indirectly elected by the General Council (Andorran parliament), formally appointed by the co-princes for a 4-year term; election last held on 2 April 2023 (next to be held in April 2027); the leader of the majority party in the General Council is usually elected head of government<br>
 _election results_: <em>2023: </em>Xaviar Espot ZAMORA (DA) re-elected head of government; percent of General Council vote - 57.1%<em><br>2019:</em>  Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7%<br><em>2015:</em> Antoni MARTI elected head of government; percent of General Council vote - 58.3%<br>
 
 **Legislative branch**<br>
@@ -315,7 +315,7 @@ _judge selection and term of office_: Supreme Court president and judges appoint
 _subordinate courts_: Tribunal of Judges or Tribunal de Batlles; Tribunal of the Courts or Tribunal de Corts<br>
 
 **Political parties and leaders**<br>
-Concord [Cerni ESCALE]<br>Democrats for Andorra or DA [Xaviar ESPOT ZAMORA]<br>Forward Andorra [Carine MONTANER]<br>Liberals of Andorra or L'A [Jordi GALLARDO FERNANDEZ]<br>Social Democracy and Progress or SDP [Pere Lopez AGRAS]<br>
+Concord [Cerni ESCALE Cabre]<br>Democrats for Andorra or DA [Xaviar ESPOT ZAMORA]<br>Forward Andorra [Carine Montaner RAYNAUD]<br>Liberals of Andorra or L'A [Joseph Maria CABANES]<br>Social Democracy and Progress or SDP [Pere Lopez AGRAS]<br>
 <strong>note:</strong> Andorra has several smaller parties at the parish level (one is Lauredian Union)<br>
 
 **International organization participation**<br>

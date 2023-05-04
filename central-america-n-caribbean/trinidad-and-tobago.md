@@ -256,9 +256,9 @@ _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 727,874 tons (2010 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 237.6 million cubic meters (2017 est.)<br>
-_industrial_: 128.9 million cubic meters (2017 est.)<br>
-_agricultural_: 16.7 million cubic meters (2017 est.)<br>
+_municipal_: 240 million cubic meters (2020 est.)<br>
+_industrial_: 130 million cubic meters (202 est.)<br>
+_agricultural_: 20 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 3.8 billion cubic meters (2019 est.)<br>
@@ -440,11 +440,6 @@ _female_: 12.6% (2021 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
-**Remittances**<br>
-0.95% of GDP (2021 est.)<br>
-0.92% of GDP (2020 est.)<br>
-0.6% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $4.939 billion (2020 est.)<br>
 _expenditures_: $7.528 billion (2020 est.)<br>
@@ -611,6 +606,7 @@ _annual freight traffic on registered air carriers_: 41.14 million (2018) mt-km<
 _total_: 2<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
@@ -636,11 +632,11 @@ Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago 
 <strong>note:</strong> the Ministry of National Security oversees defense, immigration, and the police<br>
 
 **Military expenditures**<br>
+1% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
 1% of GDP (2019 est.)<br>
 1% of GDP (2018 est.)<br>
 1.3% of GDP (2017 est.)<br>
-1.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,500 TTDF personnel (2022)<br>

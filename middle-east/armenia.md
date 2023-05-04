@@ -672,11 +672,11 @@ _non-urban_: 3,920 km<br>
 Armenian Armed Forces: Armenian Army (includes land, air, air defense forces) (2022)<br>
 
 **Military expenditures**<br>
+4.3% of GDP (2022 est.)<br>
 4.4% of GDP (2021 est.)<br>
 5% of GDP (2020 est.)<br>
 5.3% of GDP (2019 est.)<br>
 4.6% of GDP (2018 est.)<br>
-4.4% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 45,000 active troops (42,000 ground; 3,000 air/defense) (2022)<br>

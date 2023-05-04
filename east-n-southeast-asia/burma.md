@@ -90,7 +90,7 @@ _adjective_: Burmese<br>
 
 **Ethnic groups**<br>
 Burman (Bamar) 68%, Shan 9%, Karen 7%, Rakhine 4%, Chinese 3%, Indian 2%, Mon 2%, other 5%<br>
-<strong>note:</strong> government recognizes 135 indigenous ethnic groups<br>
+<strong>note: </strong>the largest ethnic group — the Burman (or Bamar) — dominate politics, although they have never managed to bring the entire national territory under their control; the military ranks are largely drawn from this ethnic group; the Burman mainly populate the central parts of the country, while various ethnic minorities have traditionally lived in the peripheral regions that surround the plains in a horseshoe shape; government recognizes 135 indigenous ethnic groups<br>
 
 **Languages**<br>
 Burmese (official)<br>
@@ -686,6 +686,7 @@ _over 3,047 m_: 12<br>
 _2,438 to 3,047 m_: 11<br>
 _1,524 to 2,437 m_: 12<br>
 _under 914 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 28<br>
@@ -727,7 +728,7 @@ Burmese Defense Service (aka Armed Forces of Burma, Myanmar Army, Royal Armed Fo
 <strong>note 1:</strong> under the 2008 constitution, the Tatmadaw controls appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs; in March 2022, a new law gave the commander-in-chief of the Tatmadaw the authority to appoint or remove the head of the police force<br><br><strong>note 2:</strong> the Burma Police Force is primarily responsible for internal security; the Border Guard Police is administratively part of the Burma Police Force but operationally distinct; both are under the Ministry of Home Affairs, which is led by an active-duty military general and itself subordinate to the military command<br>
 
 **Military expenditures**<br>
-3.1% of GDP (2022 est.)<br>
+3% of GDP (2022 est.)<br>
 3.3% of GDP (2021 est.)<br>
 3% of GDP (2020 est.)<br>
 4.1% of GDP (2019 est.)<br>

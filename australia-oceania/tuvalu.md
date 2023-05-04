@@ -417,11 +417,6 @@ _female_: 45.9% (2016)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
-**Remittances**<br>
-0% of GDP (2020 est.)<br>
-1.66% of GDP (2019 est.)<br>
-2% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $87 million (2019 est.)<br>
 _expenditures_: $88 million (2019 est.)<br>

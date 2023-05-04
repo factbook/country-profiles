@@ -227,9 +227,9 @@ _men married by age 18_: 1.2% (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 98.1%<br>
-_male_: 98.5%<br>
-_female_: 97.8% (2018)<br>
+_total population_: 98.4%<br>
+_male_: 98.7%<br>
+_female_: 98.2% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -722,5 +722,5 @@ _stateless persons_: 1,948 (2022)<br>
 <strong>note:</strong> 43,310 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
-<p>active transshipment point for Albanian narco-trafficking organizations moving illicit drugs such as cocaine and heroin from Turkey and countries in South America and Asia throughout Europe; significant source country for cannabis production</p><br>
+<p>active transshipment point for violent Albanian narco-trafficking organizations moving illicit drugs such as cocaine from South America and heroin exiting Turkey and Asia throughout Europe; significant source country for cannabis production</p><br>
 

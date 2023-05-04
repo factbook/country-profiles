@@ -273,9 +273,9 @@ _percent of municipal solid waste recycled_: 0.5% (2013 est.)<br>
 _salt water lake(s)_: Dead Sea (shared with Jordan and Israel) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
 
 **Total water withdrawal**<br>
-_municipal_: 181.2 million cubic meters (2017 est.)<br>
-_industrial_: 32 million cubic meters (2017 est.)<br>
-_agricultural_: 162 million cubic meters (2017 est.)<br>
+_municipal_: 200 million cubic meters (2020 est.)<br>
+_industrial_: 30 million cubic meters (2020 est.)<br>
+_agricultural_: 220 million cubic meters (2020 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
 **Total renewable water resources**<br>
@@ -377,11 +377,6 @@ _female_: 69% (2021 est.)<br>
 _lowest 10%_: 3.2%<br>
 _highest 10%_: 28.2% (2009 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
-
-**Remittances**<br>
-18.81% of GDP (2021 est.)<br>
-16.48% of GDP (2020 est.)<br>
-18.4% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $3.803 billion (2020 est.)<br>
@@ -540,6 +535,7 @@ _subscriptions per 100 inhabitants_: 7 (2020 est.)<br>
 _total_: 2<br>
 _1,524 to 2,437 m_: 1<br>
 _under 914 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Heliports**<br>
 1 (2021)<br>

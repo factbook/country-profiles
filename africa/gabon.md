@@ -226,9 +226,9 @@ _other alcohols_: 0.04 liters of pure alcohol (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 84.7%<br>
-_male_: 85.9%<br>
-_female_: 83.4% (2018)<br>
+_total population_: 85.5%<br>
+_male_: 86.2%<br>
+_female_: 84.7% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 38.4%<br>
@@ -656,6 +656,7 @@ _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 9<br>
 _914 to 1,523 m_: 1<br>
 _under 914 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 30<br>
@@ -693,11 +694,11 @@ Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka Gabonese Defense and 
 <strong>note: </strong>the National Police Forces, under the Ministry of Interior, and the National Gendarmerie, under the Ministry of Defense, are responsible for law enforcement and public security; elements of the armed forces and the Republican Guard, an elite unit that protects the president under his direct authority, sometimes perform internal security functions<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2022 est.)<br>
 1.7% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
 1.6% of GDP (2019 est.)<br>
 1.6% of GDP (2018 est.)<br>
-1.8% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 6,500 active duty troops including the Republican Guard and Gendarmerie (2022)<br>

@@ -225,9 +225,9 @@ _men married by age 18_: 2.2% (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 59.9%<br>
-_male_: 71.8%<br>
-_female_: 48.3% (2015)<br>
+_total population_: 52.9%<br>
+_male_: 67%<br>
+_female_: 39.9% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 12.8%<br>
@@ -460,11 +460,6 @@ _female_: 14.2% (2021 est.)<br>
 _lowest 10%_: 2.9%<br>
 _highest 10%_: 28% (2002)<br>
 
-**Remittances**<br>
-12.22% of GDP (2020 est.)<br>
-10.5% of GDP (2019 est.)<br>
-8.51% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $222 million (2019 est.)<br>
 _expenditures_: $278 million (2019 est.)<br>
@@ -629,6 +624,7 @@ J5<br>
 _total_: 2<br>
 _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 6<br>
@@ -658,11 +654,11 @@ People's Revolutionary Armed Force (FARP): Army, Navy, Air Force; Ministry of In
 <strong>note: </strong>the Public Order Police is responsible for maintaining law and order, while the Judicial Police, under the Ministry of Justice, has primary responsibility for investigating drug trafficking, terrorism, and other transnational crimes<br>
 
 **Military expenditures**<br>
+1.6% of GDP (2022 est.)<br>
 1.8% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
 1.9% of GDP (2019 est.)<br>
 1.7% of GDP (2018 est.)<br>
-1.7% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,000 total active troops, including a few hundred air and naval personnel (2022)<br>

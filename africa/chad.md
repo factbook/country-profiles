@@ -237,9 +237,9 @@ _men married by age 18_: 8.1% (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write French or Arabic<br>
-_total population_: 22.3%<br>
-_male_: 31.3%<br>
-_female_: 14% (2016)<br>
+_total population_: 26.8%<br>
+_male_: 35.4%<br>
+_female_: 18.2% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 7 years<br>
@@ -391,7 +391,7 @@ Chadian Convention for Peace and Development or CTPD [Laoukein Kourayo MEDARD]<b
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSMA, MNJTF, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Koutou NGOTE GALI (since 22 June 2018)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Oumar Noury ABDELKERIM (since 20 March 2023)<br>
 _chancery_: 2401 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 652-1312<br>
 _FAX_: [1] (202) 265-1937<br>
@@ -671,6 +671,7 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 4<br>
 _1,524 to 2,437 m_: 2<br>
 _under 914 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 50<br>
@@ -697,11 +698,11 @@ Chadian National Army (Armee Nationale du Tchad, ANT): Land Forces (l'Armee de T
 <strong>note 1:</strong> the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and is considered to be Chad's elite military unit; it is reportedly a division-size unit with infantry, armor, and special forces/anti-terrorism regiments (known as the Special Anti-Terrorist Group or SATG, aka Division of Special Anti-Terrorist Groups or DGSAT)<br><br><strong>note 2:</strong> Border security duties are shared by the Army, Customs (Ministry of Public Security and Immigration), the Gendarmerie, and the GNNT<br>
 
 **Military expenditures**<br>
+2.5% of GDP (2022 est.)<br>
 2.5% of GDP (2021 est.)<br>
 2.9% of GDP (2020 est.)<br>
 2% of GDP (2019 est.)<br>
 2% of GDP (2018 est.)<br>
-2% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 limited and varied information; estimated to have up to 35,000 active ANT personnel (25-30,000 Ground Forces; 300 Air Force; approximately 5,000 GDSSIE); approximately 5,000 National Gendarmerie; approximately 3,000 Nomadic Guard (2022)<br>
@@ -731,7 +732,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 405,689 (Sudan), 125,433 (Central African Republic), 42,607 (Cameroon), 20,937 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 407,378 (Sudan), 125,433 (Central African Republic), 28,256 (Cameroon), 20,937 (Nigeria) (2023)<br>
 _IDPs_: 381,289 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>

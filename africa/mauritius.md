@@ -215,9 +215,9 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 91.3%<br>
-_male_: 93.4%<br>
-_female_: 89.4% (2018)<br>
+_total population_: 92.2%<br>
+_male_: 93.5%<br>
+_female_: 90.5% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -635,6 +635,7 @@ _annual freight traffic on registered air carriers_: 233.72 million (2018) mt-km
 _total_: 2<br>
 _over 3,047 m_: 1<br>
 _914 to 1,523 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 3<br>
@@ -660,11 +661,11 @@ no regular military forces; the Mauritius Police Force (MPF) under the Ministry 
 <strong>note: </strong>the MPF is responsible for law enforcement and maintenance of order within the country; a police commissioner heads the force and has authority over all police and other security forces, including the Coast Guard and Special Mobile Forces; the Special Mobile Forces share responsibility with police for internal security<br>
 
 **Military expenditures**<br>
-0.2% of GDP (2021 est.)<br>
-0.2% of GDP (2020 est.)<br>
-0.3% of GDP (2019 est.) (approximately $80 million)<br>
-0.3% of GDP (2018 est.) (approximately $80 million)<br>
-0.3% of GDP (2017 est.) (approximately $80 million)<br>
+0.3% of GDP (2022 est.)<br>
+0.3% of GDP (2021 est.)<br>
+0.3% of GDP (2020 est.)<br>
+0.3% of GDP (2019 est.)<br>
+0.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,700 Special Mobile Force; approximately 800 National Coast Guard (2022)<br>

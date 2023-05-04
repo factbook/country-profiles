@@ -474,7 +474,7 @@ $32.516 million (2019 est.)<br>
 Thailand 53%, Philippines 17%, South Korea 10%, Japan 9% (2019)<br>
 
 **Exports - commodities**<br>
-fish and fish produces, ships, coconut oil, copra (2019)<br>
+skipjacks, tuna, fish fillets, ships, coconut oil, copra (2021)<br>
 
 **Imports**<br>
 $201.984 million (2021 est.) note: data are in current year dollars<br>
@@ -610,6 +610,7 @@ T3<br>
 **Airports - with paved runways**<br>
 _total_: 4<br>
 _1,524 to 2,437 m_: 4 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 15<br>
@@ -635,7 +636,7 @@ _major seaport(s)_: Betio (Tarawa Atoll), Canton Island, English Harbor<br>
 no regular military forces; Kiribati Police and Prison Service (Ministry of Justice) (2023)<br>
 
 **Military - note**<br>
-defense assistance is provided by Australia and NZ<br><br>Kiribati has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Kiribati's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2022)<br>
+defense assistance is provided by Australia and NZ<br><br>Kiribati has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Kiribati's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
 
 ## Transnational Issues
 

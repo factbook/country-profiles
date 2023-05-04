@@ -289,9 +289,9 @@ Syr Darya (shared with Kyrgyzstan [s], Uzbekistan, and Kazakhstan [m]) - 3,078 k
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea Basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 647 million cubic meters (2017 est.)<br>
-_industrial_: 407.8 million cubic meters (2017 est.)<br>
-_agricultural_: 10.44 billion cubic meters (2017 est.)<br>
+_municipal_: 910 million cubic meters (2020 est.)<br>
+_industrial_: 1.61 billion cubic meters (2020 est.)<br>
+_agricultural_: 7.38 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 21.9 billion cubic meters (2019 est.)<br>
@@ -483,11 +483,6 @@ _female_: 14.4% (2021 est.)<br>
 _lowest 10%_: (2009 est.) NA<br>
 _highest 10%_: (2009 est.) NA<br>
 
-**Remittances**<br>
-33.41% of GDP (2021 est.)<br>
-26.88% of GDP (2020 est.)<br>
-27.97% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $2.222 billion (2019 est.)<br>
 _expenditures_: $2.393 billion (2019 est.)<br>
@@ -660,6 +655,7 @@ _2,438 to 3,047 m_: 4<br>
 _1,524 to 2,437 m_: 5<br>
 _914 to 1,523 m_: 3<br>
 _under 914 m_: 3 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 7<br>
@@ -686,11 +682,11 @@ _total_: 30,000 km (2018)<br>
 Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and Air Defense Forces; National Guard; Ministry of Internal Affairs: Internal Troops (reserves for Armed Forces in wartime), police; State Committee on National Security: Border Guard Forces (2023)<br>
 
 **Military expenditures**<br>
+1.1% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
 2.1% of GDP (2019 est.)<br>
 2.1% of GDP (2018 est.)<br>
-2.2% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 9,500 active duty troops (8,000 Land and Mobile Forces; 1,500 Air and Air Defense Forces) (2022)<br>

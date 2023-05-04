@@ -451,11 +451,6 @@ _female_: 15.6% (2020 est.)<br>
 _lowest 10%_: 4.7%<br>
 _highest 10%_: 15.4% (2007)<br>
 
-**Remittances**<br>
-0.79% of GDP (2020 est.)<br>
-1.4% of GDP (2019 est.)<br>
-1.39% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $601 million (2019 est.)<br>
 _expenditures_: $586 million (2019 est.)<br>
@@ -626,6 +621,7 @@ _total_: 7<br>
 _2,438 to 3,047 m_: 1<br>
 _914 to 1,523 m_: 5<br>
 _under 914 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 7<br>
@@ -654,11 +650,11 @@ Seychelles Defense Forces (SDF): Army (includes infantry, special forces, and a 
 <strong>note:</strong> the military reports to the president, who acts as minister of defense  <br>
 
 **Military expenditures**<br>
+1.4% of GDP (2022 est.)<br>
 1.5% of GDP (2021 est.)<br>
 1.6% of GDP (2020 est.)<br>
 1.3% of GDP (2019 est.)<br>
 1.4% of GDP (2018 est.)<br>
-1.5% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 500 personnel (2022)<br>

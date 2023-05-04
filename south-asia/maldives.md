@@ -220,9 +220,9 @@ _men married by age 18_: 2.2% (2017 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 97.7%<br>
-_male_: 97.3%<br>
-_female_: 98.1% (2016)<br>
+_total population_: 97.9%<br>
+_male_: 97.6%<br>
+_female_: 98.4% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -344,7 +344,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Courts; Magistrate Courts (on each of the inhabited islands)<br>
 
 **Political parties and leaders**<br>
-<p>Adhaalath (Justice) Party or AP [Sheikh Imran ABDULLA]<br>Dhivehi Rayyithunge Party or DRP [Abdulla JABIR]<br>Maldives Development Alliance or MDA [Ahmed Shiyam MOHAMED]<br>Maldivian Democratic Party or MDP [Mohamed NASHEED]<br>Maldives Labor and Social Democratic Party or MLSDP [Ahmed SHIHAM]<br>Maldives Third Way Democrats or MTD [Ahmed ADEEB]<br>Maumoon/Maldives Reform Movement or MRM [Ahmed Faris MAUMOON]<br>National Democratic Congress [Yousuf Maaniu]<br>People's National Congress or PNC [Abdul Raheem ABDULLA]<br>Progressive Party of Maldives or PPM [Abdulla YAMEEN]<br>Republican (Jumhooree) Party or JP [Qasim IBRAHIM]</p> (2020)<br>
+<p>Adhaalath (Justice) Party or AP [Sheikh Imran ABDULLA]<br>Dhivehi Rayyithunge Party or DRP [Abdulla JABIR]<br>Maldives Development Alliance or MDA [Ahmed Shiyam MOHAMED]<br>Maldivian Democratic Party or MDP [Mohamed NASHEED]<br>Maldives Labor and Social Democratic Party or MLSDP [Ahmed SHIHAM]<br>Maldives Third Way Democrats or MTD [Ahmed ADEEB]<br>Maumoon/Maldives Reform Movement or MRM [Ahmed Faris MAUMOON]<br>National Democratic Congress [Yousuf Maaniu]<br>People's National Congress or PNC [Abdul Raheem ABDULLA]<br>Progressive Party of Maldives or PPM [Abdul GAYOOM]<br>Republican (Jumhooree) Party or JP [Qasim IBRAHIM]</p> (2020)<br>
 
 **International organization participation**<br>
 ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -454,11 +454,6 @@ _female_: 12.6% (2021 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2%<br>
 _highest 10%_: 33.3% (FY09/10)<br>
-
-**Remittances**<br>
-0.09% of GDP (2021 est.)<br>
-0.12% of GDP (2020 est.)<br>
-0.08% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $993 million (2020 est.)<br>
@@ -631,6 +626,7 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 4 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>

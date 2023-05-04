@@ -235,9 +235,9 @@ _men married by age 18_: 9.8% (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 93.8%<br>
-_male_: 95.2%<br>
-_female_: 92.4% (2018)<br>
+_total population_: 94.1%<br>
+_male_: 95.5%<br>
+_female_: 92.8% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -304,9 +304,9 @@ Mekong (shared with China [s], Burma, Laos, Cambodia, and Vietnam [m]) - 4,350 k
 Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 2.739 billion cubic meters (2017 est.)<br>
-_industrial_: 2.777 billion cubic meters (2017 est.)<br>
-_agricultural_: 51.79 billion cubic meters (2017 est.)<br>
+_municipal_: 2.74 billion cubic meters (2020 est.)<br>
+_industrial_: 2.78 billion cubic meters (2020 est.)<br>
+_agricultural_: 51.79 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 438.6 billion cubic meters (2019 est.)<br>
@@ -382,7 +382,7 @@ Action Coalition Party or ACP [ANEK Laothammathast]<br>Bhumjaithai Party (aka Ph
 ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMOGIP, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador MANATSAWI Sisodaphon (since 17 February 2021)<br>
+_chief of mission_: Ambassador Tanee SANGRAT (since 12 December 2022)<br>
 _chancery_: 1024 Wisconsin Avenue NW, Suite 401, Washington, DC 20007<br>
 _telephone_: [1] (202) 944-3600<br>
 _FAX_: [1] (202) 944-3611<br>
@@ -503,11 +503,6 @@ _on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 31.5% (2009 est.)<br>
-
-**Remittances**<br>
-1.79% of GDP (2021 est.)<br>
-1.65% of GDP (2020 est.)<br>
-1.5% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $104.689 billion (2020 est.)<br>
@@ -683,6 +678,7 @@ _2,438 to 3,047 m_: 12<br>
 _1,524 to 2,437 m_: 23<br>
 _914 to 1,523 m_: 14<br>
 _under 914 m_: 6 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 38<br>
@@ -744,7 +740,7 @@ the RTARF has a diverse array of foreign-supplied weapons systems, including a l
 280 South Sudan (UNMISS) (May 2022)<br>
 
 **Military - note**<br>
-including the most recent in 2014, the military has attempted more than 20 coups since the fall of absolute monarchy in 1932<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, Thai officials have been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, violence associated with the insurgency has claimed more than 7,300 lives (as of 2023); the Thai Government has had as many as 100,000 military and paramilitary forces deployed in the south to combat the insurgency<br><br>Thailand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments; the Thai and US militaries host the annual "Cobra Gold" multinational military exercises in Thailand; the exercise is one of the largest multinational exercises in the Pacific region (2023)<br>
+including the most recent in 2014, the military has attempted more than 20 coups since the fall of absolute monarchy in 1932<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, Thai officials have been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, violence associated with the insurgency has claimed more than 7,300 lives (as of 2023); the Thai Government has had as many as 100,000 military and paramilitary forces deployed in the south to combat the insurgency<br><br>Thailand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; the Thai and US militaries host the annual "Cobra Gold" multinational military exercises in Thailand; the exercise is one of the largest multinational exercises in the Pacific region (2023)<br>
 
 ## Transnational Issues
 

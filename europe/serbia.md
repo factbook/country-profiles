@@ -504,11 +504,6 @@ _on alcohol and tobacco_: 7% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.2%<br>
 _highest 10%_: 23.8% (2011)<br>
 
-**Remittances**<br>
-7.29% of GDP (2021 est.)<br>
-7.25% of GDP (2020 est.)<br>
-8.23% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $21.858 billion (2020 est.)<br>
 _expenditures_: $25.72 billion (2020 est.)<br>
@@ -675,6 +670,7 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 2 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 16<br>
@@ -740,7 +736,7 @@ the Serbian Armed Forces were established in June 2006; the Serbian military tra
 _refugees (country of origin)_: 17,334 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,594 (includes stateless persons in Kosovo) (2022)<br>
-<strong>note:</strong> 953,390 estimated refugee and migrant arrivals (January 2015-April 2023); Serbia is predominantly a transit country and hosts an estimated 7,271 migrants and asylum seekers as of November 2022<br>
+<strong>note:</strong> 954,733 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Serbia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; Serbia investigated more suspects, revised indicators to identify victims among schoolchildren, and increased resources for the Center for Protection of Trafficking Victims; officials developed a coordination body to support victims during criminal proceedings, formed four Special Working Groups for anti-trafficking issues, and designated an Ombudsman on trafficking; however, the government did not demonstrate overall increasing efforts compared with the previous year to expand its anti-trafficking capacity; there were no proactive efforts to identify victims, and implementation of standard operating procedures remained inadequate; an anti-trafficking council did not meet, and the government did not adopt the 2021-2022 National Action Plan; official complicity in trafficking crimes remained a concern; therefore, Serbia was downgraded to Tier 2 Watch List (2022)<br>

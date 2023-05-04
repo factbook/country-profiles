@@ -230,9 +230,9 @@ _men married by age 18_: 0.1% (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 98.2%<br>
-_male_: 98.6%<br>
-_female_: 97.8% (2018)<br>
+_total population_: 98.4%<br>
+_male_: 98.7%<br>
+_female_: 98.4% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -332,7 +332,7 @@ Independence Day, 25 May (1946)<br>
 
 **Constitution**<br>
 _history_: previous 1928 (preindependence); latest initially adopted 28 November 1947, revised and ratified 1 January 1952<br>
-_amendments_: constitutional amendments require at least a two-thirds majority vote of both the Senate and the House and ratification by the king; no amendment of the constitution affecting the rights of the king and the succession to the throne is permitted during the king's reign; amended several times, last in 2016<br>
+_amendments_: constitutional amendments require at least a two-thirds majority vote of both the Senate and the House and ratification by the king; amended several times, last in 2022<br>
 
 **Legal system**<br>
 mixed system developed from codes instituted by the Ottoman Empire (based on French law), British common law, and Islamic law<br>
@@ -350,15 +350,16 @@ _residency requirement for naturalization_: 15 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King ABDALLAH II (since 7 February 1999); Heir Apparent Crown Prince HUSSEIN (eldest son of the monarch, born on 28 June 1994)<br>
+_chief of state_: King ABDALLAH II (since 7 February 1999); Heir Apparent Crown Prince HUSSEIN (eldest son of the monarch, born 28 June 1994); the monarchy is hereditary<br>
 _head of government_: Prime Minister Bisher AL-KHASAWNEH (since 7 October 2020)<br>
 _cabinet_: Cabinet appointed by the monarch in consultation with the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch<br>
+_elections/appointments_: prime minister appointed by the monarch<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Majlis al-'Umma consists of:<br>Senate or the House of Notables or Majlis al-Ayan (65 seats; members appointed by the monarch to serve 4-year terms)<br>Chamber of Deputies or House of Representatives or Majlis al-Nuwaab (130 seats; 115 members directly elected in 23 multi-seat constituencies by open-list proportional representation vote and 15 seats for women; 12 of the 115 seats reserved for Christian, Chechen, and Circassian candidates; members serve 4-year terms)<br>
-_elections_: Senate - last appointments on 27 Sep 2020 (next appointments in 2024)<br>Chamber of Deputies - last held on 10 November 2020 (next to be held in November 2024)<br>
-_election results_: Senate - composition men 58, women 7, percent of women 10.8%<br>Chamber of Deputies; note - tribal, centrist, and pro-government candidates dominated in the 130-seat election; the Islamic Action Front, the political wing of the Muslim Brotherhood, garnered only 10 seats, down from 15 in the previous election; women, who are guaranteed 15 seats by Jordan’s legislative quota system, won 16 seats, down from 20 seats won in the previous election; composition - men 114, women 16, percent of women 12.3%; note - total National Assembly percent of women 11.8%<br> <p> </p><br>
+_elections_: Senate - last appointments on 27 Sep 2020 (next in 2024)<br>Chamber of Deputies - last held on 10 November 2020 (next anticipated in November 2024)<br>
+_election results_: <em><br>2020:</em><br>Senate - composition men 58, women 7, percent of women 10.8%<br><em>2020:<br></em>Chamber of Deputies; note - tribal, centrist, and pro-government candidates dominated the  election; the Islamic Action Front, the political wing of the Muslim Brotherhood, garnered only 10 seats, down from 15 in the previous election; women, who are guaranteed 15 seats by Jordan’s legislative quota system, won 16 seats, down from 20 seats won in the previous election; composition - men 114, women 16, percent of women 12.3%; note - total National Assembly percent of women 11.8%<br> <p> </p><br>
+note: in 2022, a new electoral law - effective for the anticipated 2024 election - will increase the total number of Chamber of Deputies' seats to 138 from 130; 97 members to be directly elected from multi-seat geographic districts by open list proportional representation vote, with over 7 percent of total votes needed to gain a seat, and 41 members to be directly elected from a single national district by closed party-list proportional representation vote, with over a 2.5 percent of total votes needed to gain a seat<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation or Supreme Court (consists of 15 members, including the chief justice); Constitutional Court (consists of&nbsp;9 members)<br>
@@ -366,7 +367,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: Courts of Appeal; Great Felonies Court; religious courts; military courts; juvenile courts; Land Settlement Courts; Income Tax Court; Higher Administrative Court; Customs Court; special courts including the State Security Court<br>
 
 **Political parties and leaders**<br>
-Jordan has 54 registered political parties, four of which currently have seats in the elected Chamber of Deputies - the Islamic Action Front, the Islamic Centrist Party, the United Jordanian Front Party, and the National Loyalty Party<br>
+political reforms enacted in 2020 require all existing parties to re-register by May 2023, which will result in changes to the number of registered parties and the number of seats held by those parties for the anticipated 2024 election<br>
 
 **International organization participation**<br>
 ABEDA, AFESD, AMF, CAEU, CD, CICA, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINUSTAH, MINUSMA, MONUSCO, NAM, NATO (partner), OIC, OPCW, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -669,6 +670,7 @@ _over 3,047 m_: 8<br>
 _2,438 to 3,047 m_: 5<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
@@ -702,11 +704,11 @@ Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations 
 <strong>note: </strong>the armed forces report administratively to the minister of defense and have a support role for internal security; the prime minister serves as defense minister, but there is no separate ministry of defense<br>
 
 **Military expenditures**<br>
+4.5% of GDP (2022 est.)<br>
 5% of GDP (2021 est.)<br>
 5% of GDP (2020 est.)<br>
 5.6% of GDP (2019 est.)<br>
 5.6% of GDP (2018 est.)<br>
-5.7% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 94,500 active duty armed forces personnel (80,000 Army; 14,000 Air Force; 500 Coast Guard); approximately 15,000 Gendarmerie Forces (2022)<br>
@@ -722,7 +724,7 @@ the JAF inventory is comprised of a wide mix of imported equipment from Europe, 
 330 Mali (MINUSMA) (May 2022)<br>
 
 **Military - note**<br>
-the Jordanian military traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s<br><br>due largely to its proximity to regional conflicts in Iraq and Syria, the presence of major terrorist organizations in both of those countries, and the Israeli-Palestinian conflict, the highest priorities of Jordan’s military and security services in 2022 included securing its borders and the potential for domestic terrorist attacks; the terrorist group Hizballah and Iranian-backed militia forces were operating in southwestern Syria near Jordan’s border while fighters from the Islamic State of Iraq and ash-Sham (ISIS) terrorist group continued operating in both Iraq and Syria; ISIS fighters included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan<br><br>Jordan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br>Jordan signed a peace treaty with Israel in 1994 (2022)<br>
+the Jordanian military traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s<br><br>due largely to its proximity to regional conflicts in Iraq and Syria, the presence of major terrorist organizations in both of those countries, and the Israeli-Palestinian conflict, the highest priorities of Jordan’s military and security services in 2022 included securing its borders and the potential for domestic terrorist attacks; the terrorist group Hizballah and Iranian-backed militia forces were operating in southwestern Syria near Jordan’s border while fighters from the Islamic State of Iraq and ash-Sham (ISIS) terrorist group continued operating in both Iraq and Syria; ISIS fighters included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan<br><br>Jordan has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>Jordan signed a peace treaty with Israel in 1994 (2022)<br>
 
 ## Terrorism
 

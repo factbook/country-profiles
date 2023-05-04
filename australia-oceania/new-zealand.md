@@ -478,11 +478,6 @@ _on alcohol and tobacco_: 4.8% of household expenditures (2018 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
-**Remittances**<br>
-0.01% of GDP (2021 est.)<br>
-0.07% of GDP (2020 est.)<br>
-0.22% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $76.694 billion (2020 est.)<br>
 _expenditures_: $88.593 billion (2020 est.)<br>
@@ -657,6 +652,7 @@ _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 12<br>
 _914 to 1,523 m_: 23<br>
 _under 914 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 84<br>
@@ -687,30 +683,31 @@ _major seaport(s)_: Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga
 
 **Military and security forces**<br>
 New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Royal New Zealand Air Force (2023)<br>
-note: the New Zealand Police, under the minister of police, are responsible for internal security<br>
+<strong>note: </strong>the New Zealand Police, under the minister of police, are responsible for internal security<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2022 est.)<br>
+1.4% of GDP (2022 est.)<br>
 1.3% of GDP (2021)<br>
 1.5% of GDP (2020)<br>
 1.4% of GDP (2019)<br>
 1.2% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 9,500 active-duty troops (4,700 Army; 2,300 Navy; 2,500 Air Force) (2022)<br>
+approximately 12,200 active-duty troops including active reservists (6,600 Army; 2,800 Navy; 2,800 Air Force) (2023)<br><br> <br>
+&nbsp;<br>
 
 **Military equipment inventories and acquisitions**<br>
-the NZDF is equipped mostly with Western-supplied weapons and equipment with the US as the leading provider (2022)<br>
+the NZDF is equipped mostly with Western-supplied weapons and equipment with the US as the leading provider (2023)<br>
 
 **Military service age and obligation**<br>
-17 years of age for men and women for voluntary military service; soldiers cannot be deployed until the age of 18; no conscription (2022)<br>
-<strong>note 1: </strong>New Zealand opened up all military occupations to women in 2000; in 2019, women accounted for about 18% of the uniformed full-time personnel<br><br><strong>note 2:</strong> as of 2022, the NZDF’s program for recruiting foreign volunteers had been suspended<br>
+17 years of age for men and women for voluntary military service; soldiers cannot be deployed until the age of 18; no conscription (2023)<br>
+<strong>note 1: </strong>New Zealand opened up all military occupations to women in 2000; women currently account for about 15% of regular armed forces personnel<br><br><strong>note 2:</strong> as of 2022, the NZDF’s program for recruiting foreign volunteers had been suspended<br>
 
 **Military deployments**<br>
 up to 220 Antarctica (summer season only) (2022)<br>
 
 **Military - note**<br>
-New Zealand is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>New Zealand has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; however, the US suspended its ANZUS security obligations to New Zealand in 1986 after New Zealand implemented a policy barring nuclear-armed and nuclear-powered warships from its ports; the US and New Zealand signed the Wellington Declaration in 2010, which reaffirmed close ties between the two countries, and in 2012 signed the Washington Declaration, which provided a framework for future security cooperation and defense dialogues; in 2016, a US naval ship conducted the first bilateral warship visit to New Zealand since the 1980s <br><br>New Zealand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
+New Zealand is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>New Zealand has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; however, the US suspended its ANZUS security obligations to New Zealand in 1986 after New Zealand implemented a policy barring nuclear-armed and nuclear-powered warships from its ports; the US and New Zealand signed the Wellington Declaration in 2010, which reaffirmed close ties between the two countries, and in 2012 signed the Washington Declaration, which provided a framework for future security cooperation and defense dialogues; in 2016, a US naval ship conducted the first bilateral warship visit to New Zealand since the 1980s <br><br>New Zealand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2023)<br>
 
 ## Terrorism
 

@@ -639,6 +639,7 @@ A9C<br>
 _total_: 4<br>
 _over 3,047 m_: 3<br>
 _914 to 1,523 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Heliports**<br>
 1 (2021)<br>
@@ -665,11 +666,11 @@ Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Roy
 <strong>note:</strong> the Royal Guard is officially under the command of the Army, but exercises considerable autonomy; the National Guard's primary mission is to guard critical infrastructure such as the airport and oil fields; while the Guard is under the Ministry of Interior, it reports directly to the king<br>
 
 **Military expenditures**<br>
+3.2% of GDP (2022 est.)<br>
 3.6% of GDP (2021 est.)<br>
 4.2% of GDP (2020 est.)<br>
 4% of GDP (2019 est.)<br>
 4% of GDP (2018 est.)<br>
-4.2% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); approximately 3,000 National Guard (2022)<br>

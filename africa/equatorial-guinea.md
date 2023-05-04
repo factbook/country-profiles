@@ -326,13 +326,13 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Brig. Gen. (Ret.) Teodoro OBIANG Nguema Mbasogo (since 3 August 1979 when he seized power in a military coup); Vice President Teodoro Nguema OBIANG Mangue (since 2012)<br>
 _head of government_: Prime Minister Manuela ROKA Botey (since 1 February 2023); First Deputy Prime Minister Clemente Engonga NGUEMA Onguene (since 23 June 2016); Second Deputy Prime Minister Angel MESIE Mibuy (since 5 February 2018); Third Deputy Prime Minister Alfonso Nsue MOKUY (since 23 June 2016)<br>
 _cabinet_: Council of Ministers appointed by the president and overseen by the prime minister<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 24 April 2016 (next to be held in 2023); prime minister and deputy prime ministers appointed by the president<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 20 November 2022 (next to be held in 2029); prime minister and deputy prime ministers appointed by the president<br>
 _election results_: Teodoro OBIANG Nguema Mbasogo reelected president; percent of vote - Teodoro OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5% (2016)<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Asemblea Nacional consists of:<br>Senate or Senado (70 seats statutory, 72 seats for current term; 55 members directly elected in multi-seat constituencies by closed party-list proportional representation vote, 15 appointed by the president, and 2 ex-officio)<br>Chamber of Deputies or Camara de los Diputados (100 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 5-year terms)<br>
-_elections_: Senate - last held on 12 November 2017 (next to be held in 2022/2023)<br>Chamber of Deputies - last held on 12 November 2017 (next to be held in 2022/2023)<br>
-_election results_: Senate - percent of vote by party - NA; elected seats by party - PDGE and aligned coalition 70; composition (including 2 ex-officio) - men 60, women 12, percent of women 16.7%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - PDGE 99, CI 1; composition - men 78, women 22, percent of women 22%; note - total National Assembly percent of women 18.8%<br>
+_elections_: Senate - last held on 19 January 2023 (next to be held in 2028)<br>Chamber of Deputies - last held on 19 January 2023 (next to be held in 2028)<br>
+_election results_: Senate - percent of vote by party - NA; elected seats by party - PDGE 55; composition (including 2 ex-officio and 15 appointed) - men 58, women 16, percent of women 21.6%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - PDGE 100; composition - men 69, women 31, percent of women 31%; note - total National Assembly percent of women 22%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the chief justice - who is also chief of state - and 9 judges&nbsp; organized into civil, criminal, commercial, labor, administrative, and customary sections); Constitutional Court (consists of the court president and 4 members)<br>
@@ -620,6 +620,7 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 1<br>
 _under 914 m_: 2 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1<br>

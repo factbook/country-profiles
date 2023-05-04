@@ -234,9 +234,9 @@ _female_: 5.6% (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 60.7%<br>
-_male_: 72.6%<br>
-_female_: 50.3% (2017)<br>
+_total population_: 63.4%<br>
+_male_: 74.1%<br>
+_female_: 53.8% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 10 years<br>
@@ -387,7 +387,7 @@ Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM [
 ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF (observer), OPCW, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Carlos DOS SANTOS (since 28 January 2016)<br>
+_chief of mission_: Ambassador Alfredo Fabaio NUVUNGA (since 19 April 2023)<br>
 _chancery_: 1525 New Hampshire Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 293-7147<br>
 _FAX_: [1] (202) 835-0245<br>
@@ -502,11 +502,6 @@ _female_: 8.2% (2021 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.9%<br>
 _highest 10%_: 36.7% (2008)<br>
-
-**Remittances**<br>
-2.88% of GDP (2021 est.)<br>
-2.49% of GDP (2020 est.)<br>
-1.95% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $4.569 billion (2019 est.)<br>
@@ -683,6 +678,7 @@ _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 9<br>
 _914 to 1,523 m_: 5<br>
 _under 914 m_: 4 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 77<br>
@@ -721,11 +717,11 @@ Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM
 <strong>note 1: </strong>the FADM and other security forces are referred to collectively as the Defense and Security Forces (DFS)<br><strong><br>note 2:</strong> the PRM, SERNIC, and the UIR are responsible for law enforcement and internal security; the Border Security Force is responsible for protecting the country’s international borders and for carrying out police duties within 24 miles of borders<br><strong><br>note 3</strong>: the Presidential Guard provides security for the president, and the Force for the Protection of High-level Individuals provides security for senior-level officials at the national and provincial<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
 1.2% of GDP (2019 est.)<br>
 1.1% of GDP (2018 est.)<br>
-0.9% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information limited and varied; approximately 12,000 personnel (11,000 Army and about 1,000 Air Force and Navy) (2022)<br>
@@ -751,7 +747,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Mozambique-Eswatini</em>: none identified</p> <p><em>Mozambique-Malawi</em>:  the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Mozambique-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>Mozambique-Tanzania</em>: none identified</p> <p><em>Mozambique-Zambia</em>: none identified</p> <p><em>Mozambique-Zimbabwe</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,968 (Burundi) (refugees and asylum seekers) (2022); 12,043 (Democratic Republic of Congo) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 12,043 (Democratic Republic of Congo) (refugees and asylum seekers), 9,250 (Burundi) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 1.03 million (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>

@@ -220,9 +220,9 @@ _female_: 26.8% (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 96.4%<br>
-_male_: 96.3%<br>
-_female_: 96.3% (2017)<br>
+_total population_: 97%<br>
+_male_: 97.1%<br>
+_female_: 97% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
@@ -657,6 +657,7 @@ _2,438 to 3,047 m_: 7<br>
 _1,524 to 2,437 m_: 23<br>
 _914 to 1,523 m_: 31<br>
 _under 914 m_: 24 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 391<br>
@@ -698,11 +699,11 @@ Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chi
 <strong>note:</strong> the Carabineros de Chile are responsible to both the Ministry of Defense and the Ministry of the Interior<br>
 
 **Military expenditures**<br>
+1.6% of GDP (2022 est.)<br>
 2% of GDP (2021 est.)<br>
-2% of GDP (2020)<br>
-1.9% of GDP (2019)<br>
-1.9% of GDP (2018)<br>
-2% of GDP (2017)<br>
+2% of GDP (2020 est.)<br>
+1.9% of GDP (2019 est.)<br>
+1.9% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 70,000 active armed forces personnel (40,000 Army; 20,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2022)<br>

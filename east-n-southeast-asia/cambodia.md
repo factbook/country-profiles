@@ -234,9 +234,9 @@ _female_: 6% (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 80.5%<br>
-_male_: 86.5%<br>
-_female_: 75% (2015)<br>
+_total population_: 83.9%<br>
+_male_: 88.4%<br>
+_female_: 79.8% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 1.8%<br>
@@ -673,6 +673,7 @@ _total_: 6<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 10<br>

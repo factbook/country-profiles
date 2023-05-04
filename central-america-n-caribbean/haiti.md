@@ -87,7 +87,7 @@ Black 95%, mixed and White 5%<br>
 
 **Languages**<br>
 French (official), Creole (official)<br>
-_major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, sous endispansab pou enfomasyon debaz. (Haitian Creole)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Catholic 55%, Protestant 29%, Vodou 2.1%, other 4.6%, none 10% (2018 est.)<br>
@@ -651,6 +651,7 @@ HH<br>
 _total_: 4<br>
 _2,438 to 3,047 m_: 2<br>
 _914 to 1,523 m_: 2 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 10<br>
@@ -685,7 +686,7 @@ approximately 1,200 active military troops (the force is planned to eventually h
 not available<br>
 
 **Military - note**<br>
-according to the Haitian Government, the mission of the reconstituted armed forces will focus on patrolling the border with the Dominican Republic, combating smuggling, and executing recovery efforts after natural disasters<br><br>the UN Stabilization Mission in Haiti (MINUSTAH) operated in Haiti from 2004 until 2017; its mission was to help restore stability after President Bertrand ARISTIDE fled the country, including assisting with the political process, strengthening government institutions, and promoting and protecting human rights; following the completion of MINUSTAH’s mandate in 2017, a smaller peacekeeping mission, the UN Mission for Justice Support in Haiti (MINUJUSTH), operated until 2019; its mission was to assist with the further development and strengthening of the national police, as well as Haiti’s justice and prison systems, and to promote and protect human rights; in 2019, the UN established the UN Integrated Office in Haiti (BINUH) with the political mission of advising the Haiti Government in elections, governance, and security; BINUH's current mandate last until July 2023 (2022)<br>
+according to the Haitian Government, the mission of the reconstituted armed forces will focus on patrolling the border with the Dominican Republic, combating smuggling, and executing recovery efforts after natural disasters<br><br>the UN Stabilization Mission in Haiti (MINUSTAH) operated in Haiti from 2004 until 2017; its mission was to help restore stability after President Bertrand ARISTIDE fled the country, including assisting with the political process, strengthening government institutions, and promoting and protecting human rights; following the completion of MINUSTAH’s mandate in 2017, a smaller peacekeeping mission, the UN Mission for Justice Support in Haiti (MINUJUSTH), operated until 2019; its mission was to assist with the further development and strengthening of the national police, as well as Haiti’s justice and prison systems, and to promote and protect human rights; in 2019, the UN established the UN Integrated Office in Haiti (BINUH) with the political mission of advising the Haiti Government in elections, governance, and security; BINUH's current mandate last until July 2023 (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reported one incident in the territorial waters of Haiti in 2022, a decrease from the four attacks in 2021; ports in Haiti continue to be affected by the crime of armed robbery; most of these occurred in the main port of Port-au-Prince while ships were berthed or at anchor<br>

@@ -232,9 +232,9 @@ _women married by age 18_: 22.2% (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 93.6%<br>
-_male_: 94.8%<br>
-_female_: 92.5% (2020)<br>
+_total population_: 94.5%<br>
+_male_: 94.9%<br>
+_female_: 94% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -367,7 +367,7 @@ _judge selection and term of office_: candidates for the National Court of Justi
 _subordinate courts_: provincial courts (one for each province except Galapagos); fiscal, criminal, and administrative tribunals; Election Dispute Settlement Courts; cantonal courts<br>
 
 **Political parties and leaders**<br>
-Avanza Party or AVANZA [Javier ORTI Torres]<br>Central Democratic Movement or CD [Jimmy JAIRALA]<br>Citizen Revolution Movement or MRC or RC5 [Rafael CORREA]<br>Creating Opportunities Movement or CREO [Guillermo LASSO]<br>Democratic Left or ID [Rodrigo BORJA Cevallos]<br>Forward Ecuador Movement [Alvaro NOBOA]<br>Pachakutik Plurinational Unity Movement or MUPP [Marlon Rene SANTI Gualinga]<br>Patriotic Society Party or PSP [Lucio Edwin GUTIERREZ Borbua]<br>Popular Democracy Movement or MPD [Luis VILLACIS]<br>Social Christian Party or PSC [Jaime NEBOT Saadi]<br>Socialist Party [Gustavo VALLEJO] <br>Society United for More Action or SUMA [Guillermo CELI]<br>
+Avanza Party or AVANZA [Javier ORTI Torres]<br>Central Democratic Movement or CD [Jimmy JAIRALA]<br>Citizen Revolution Movement or MRC or RC5 [Rafael CORREA]<br>Creating Opportunities Movement or CREO [Guillermo LASSO]<br>Democratic Left or ID [Rodrigo BORJA Cevallos]<br>Forward Ecuador Movement [Alvaro NOBOA]<br>Pachakutik Plurinational Unity Movement or MUPP [Guillermo CHURUCHUMBI]<br>Patriotic Society Party or PSP [Lucio Edwin GUTIERREZ Borbua]<br>Popular Democracy Movement or MPD [Luis VILLACIS]<br>Social Christian Party or PSC [Jaime NEBOT Saadi]<br>Socialist Party [Gustavo VALLEJO] <br>Society United for More Action or SUMA [Guillermo CELI]<br>
 
 **International organization participation**<br>
 CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, Pacific Alliance (observer), PCA, PROSUR, SICA (observer), UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -677,6 +677,7 @@ _2,438 to 3,047 m_: 5<br>
 _1,524 to 2,437 m_: 18<br>
 _914 to 1,523 m_: 26<br>
 _under 914 m_: 51 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 328<br>
@@ -718,11 +719,11 @@ Ecuadorian Armed Forces: the Ecuadorian Army (Ejército Ecuatoriano), Ecuadorian
 <strong>note:</strong> the National Police of Ecuador (Policía Nacional del Ecuador) is under the Ministry of Government<br>
 
 **Military expenditures**<br>
+2% of GDP (2022 est.)<br>
 2% of GDP (2021 est.)<br>
 2.3% of GDP (2020 est.)<br>
 2.2% of GDP (2019)<br>
 2.4% of GDP (2018)<br>
-2.4% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 40,000 active military personnel (25,000 Army; 9,000 Navy; 6,000 Air Force) (2022)<br>

@@ -723,11 +723,11 @@ Armed Forces of the Argentine Republic (Fuerzas Armadas de la República Argenti
 <strong>note: </strong>all federal police forces are under the Ministry of Security<br>
 
 **Military expenditures**<br>
-0.8% of GDP (2021 est.)<br>
+0.6% of GDP (2022 est.)<br>
+0.8% of GDP (2021)<br>
 0.8% of GDP (2020)<br>
 0.7% of GDP (2019)<br>
 0.8% of GDP (2018)<br>
-0.9% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 82,000 active duty personnel (50,000 Army; 18,000 Navy, including about 3,500 marines); 14,000 Air Force); estimated 20,000 Gendarmerie (2022)<br>

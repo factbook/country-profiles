@@ -331,8 +331,8 @@ _residency requirement for naturalization_: not specified<br>
 21 years of age and at least 20-year citizenship<br>
 
 **Executive branch**<br>
-_chief of state_: Amir NAWAF al-Ahmad al-Jabir al-Sabah (since 24 July 2022); Crown Prince Mishal al-AHMAD al-Sabah, born in 1940, is the brother of Amir NAWAF al-Ahmad al-Jabir al-Sabah<br>
-_head of government_: Prime Minister Sheikh Ahmad NAWAF Al-Ahmad al-Sabah (reappointed 5 March 2023); First&nbsp;Deputy Prime Minister and Minister of Interior Sheikh Talal Khalid Al-Ahmad Al-Sabah (since 16 October 2022); Deputy Prime Minister and Minister of State for Cabinet Affairs Barak Ali Barak Al-Sheton (since 16 October 2022); Deputy Prime Minister and Minister of Oil Bader Hamed Yusef Al-Mula (since 16 October 2022)<br>
+_chief of state_: Amir NAWAF al-Ahmad al-Jabir al-Sabah (since 29 September 2020); Crown Prince MISHAL al-Ahmad al-Sabah, born in 1940, is the brother of Amir NAWAF al-Ahmad al-Jabir al-Sabah<br>
+_head of government_: Prime Minister Sheikh AHMAD AL-NAWAF Al-Ahmad al-Sabah (reappointed 5 March 2023); First Deputy Prime Minister and Minister of Interior Sheikh TALAL al-Khalid Al-Ahmad Al-Sabah (since 16 October 2022); Deputy Prime Minister and Minister of State for Cabinet Affairs Khalid al-FADIL (since 9 April 2022); Deputy Prime Minister and Minister of Oil Bader Hamed Yusef Al-Mula (since 16 October 2022)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, approved by the amir<br>
 _elections/appointments_: amir chosen from within the ruling family, confirmed by the National Assembly; prime minister and deputy prime ministers appointed by the amir; crown prince appointed by the amir and approved by the National Assembly<br>
 
@@ -354,8 +354,8 @@ none; the government does not recognize any political parties or allow their for
 ABEDA, AfDB (nonregional member), AFESD, AMF, BDEAC, CAEU, CD, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, Paris Club (associate), PCA, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Jasem Mohamed ALBUDAIWI (since 16 September 2022)<br>
-_chancery_: 2940 Tilden Street NW, Washington, DC 20008<br>
+_chief of mission_: Ambassador AZZAIN al-Sabah (since 30 April 2023)<br>
+_chancery_: 2940 Tilden Street NW, Washington, DC 20008 (po)<br>
 _telephone_: [1] (202) 966-0702<br>
 _FAX_: [1] (202) 966-8468<br>
 _email address and website_: <br>https://www.kuwaitembassy.us/<br>
@@ -642,6 +642,7 @@ _total_: 4<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
 _914 to 1,523 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 3<br>

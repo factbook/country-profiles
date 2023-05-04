@@ -351,7 +351,7 @@ Basic Income Party [SHIN Ji-hye] <br>Democratic Party of Korea or DPK [LEE Jae-
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CICA, CP, EAS, EBRD, FAO, FATF, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSTAH, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SAARC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNMOGIP, UNOCI, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: vacant (April 2023)<br>
+_chief of mission_: CHO Hyundong (since 19 April 2023)<br>
 _chancery_: 2450 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-5600<br>
 _FAX_: [1] (202) 797-0595<br>
@@ -509,7 +509,7 @@ $660.507 billion (2019 est.) note: data are in current year dollars<br>
 China 24%, United States 15%, Vietnam 9%, Hong Kong 6%, Japan 5% (2021)<br>
 
 **Exports - commodities**<br>
-integrated circuits, cars and vehicle parts, refined petroleum, ships, office machinery, telephones (2021)<br>
+integrated circuits, cars and vehicle parts, refined petroleum, office machinery, ships, telephones (2021)<br>
 
 **Imports**<br>
 $698.103 billion (2021 est.) note: data are in current year dollars<br>
@@ -649,6 +649,7 @@ _2,438 to 3,047 m_: 19<br>
 _1,524 to 2,437 m_: 12<br>
 _914 to 1,523 m_: 13<br>
 _under 914 m_: 23 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 40<br>

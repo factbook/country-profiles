@@ -512,11 +512,6 @@ _on alcohol and tobacco_: 1% of household expenditures (2018 est.)<br>
 _lowest 10%_: 1.8%<br>
 _highest 10%_: 38.2% (2010 est.)<br>
 
-**Remittances**<br>
-4.42% of GDP (2021 est.)<br>
-3.98% of GDP (2020 est.)<br>
-5.31% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $37.298 billion (2019 est.)<br>
 _expenditures_: $59.868 billion (2019 est.)<br>
@@ -691,6 +686,7 @@ _2,438 to 3,047 m_: 12<br>
 _1,524 to 2,437 m_: 9<br>
 _914 to 1,523 m_: 6<br>
 _under 914 m_: 3 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 14<br>
@@ -734,11 +730,11 @@ Nigerian Armed Forces: Army, Navy (includes Coast Guard), Air Force; Ministry of
 <strong>note 1: </strong>the NSCDC a paramilitary agency commissioned to assist the military in the management of threats to internal security, including attacks and natural disasters<br><br><strong>note 2:</strong> the Office of the National Security Advisor is responsible for coordinating all security and enforcement agencies, including the Department of State Security (DSS), the NSCDC, the Ministry of Justice, and the Nigeria Police Force (NPF); border security responsibilities are shared among the NPF, the DSS, the NSCDC, Customs, Immigration, and the Nigerian military<br><br><strong>note 3: </strong>some states have created local security forces in response to increased violence, insecurity, and criminality that have exceeded the response capacity of government security forces<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.6% of GDP (2020 est.)<br>
-0.5% of GDP (2019)<br>
-0.5% of GDP (2018)<br>
-0.5% of GDP (2017)<br>
+0.5% of GDP (2019 est.)<br>
+0.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 135,000 active duty armed forces personnel (100,000 Army; 20,000 Navy/Coast Guard; 15,000 Air Force); approximately 80,000 Security and Civil Defense Corps (2022)<br>
@@ -771,7 +767,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa; Jama’atu Ansar
 <p><em>Nigeria-Benin</em>: none identified</p> <p><em>Nigeria-Cameroon</em>: Joint Border Commission with Cameroon reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a phaseout of Nigerian control within two years while resolving patriation issues; demarcation of the Bakassi Peninsula and adjoining border areas should be finalized in 2022; as Lake Chad’s evaporation exposed dry land, only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty which also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Nigeria-Cameroon-Equatorial Guinea</em>: the ICJ ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but imprecisely defined coordinates in the ICJ decision and a sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River all contribute to the delay in implementation</p> <p><em>Nigeria-Niger</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 87,220 (Cameroon) (2023)<br>
+_refugees (country of origin)_: 86,982 (Cameroon) (2023)<br>
 _IDPs_: 3.3 million (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2023)<br>
 
 **Illicit drugs**<br>

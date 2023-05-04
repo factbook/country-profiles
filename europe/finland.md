@@ -659,6 +659,7 @@ _2,438 to 3,047 m_: 26<br>
 _1,524 to 2,437 m_: 10<br>
 _914 to 1,523 m_: 21<br>
 _under 914 m_: 14 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 74<br>
@@ -705,14 +706,15 @@ Finnish Defense Forces (FDF): Army (Maavoimat), Navy (Merivoimat), Air Force (Il
 1.4% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 22,000 active duty personnel (15,000 Army; 4,000 Navy; 3,000 Air Force) (2023)<br>
+approximately 30,000 active-duty personnel (22,000 Army; 5,000 Navy; 3,000 Air Force) (2023)<br>
+<strong>note:</strong> active-duty figures include conscripts carrying out their obligated military service (approximately 17,000 Army; 3,500 Navy; 1,000 Air Force)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of a wide mix of mostly modern US, European, and domestically produced weapons systems; in recent years, the US has been the leading supplier; the Finnish defense industry produces a variety of military equipment, including wheeled armored vehicles and naval vessels (2023)<br>
 
 **Military service age and obligation**<br>
 at age 18, all Finnish men are obligated to serve 5.5-12 months of service within a branch of the military or the Border Guard (length of service depends on the type of duty), and women 18-29 may volunteer for service; there is also an option to perform non-military service which lasts for 8.5 or 11.5 months; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 50 for rank-and-file and 60 for non-commissioned and commissioned officers (2023)<br>
-<strong>note 1:</strong> the military trains approximately 21,000 (20,000 Army) conscripts each year; as of 2019, women made up about 4% of the military's full-time personnel<br><br><strong>note 2: </strong>Finland has had conscription since 1951<br>
+<strong>note 1:</strong> the military trains approximately 21,000 conscripts each year; women have served on a voluntary basis since 1995, and as of 2022 made up about 19% of the military's full-time personnel<br><br><strong>note 2: </strong>Finland has had conscription since 1951<br>
 
 **Military deployments**<br>
 160 Lebanon (UNIFIL) (May 2022)<br>

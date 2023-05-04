@@ -239,9 +239,9 @@ _men married by age 18_: 0.7% (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 51.9%<br>
-_male_: 64.8%<br>
-_female_: 39.8% (2017)<br>
+_total population_: 56.3%<br>
+_male_: 68.4%<br>
+_female_: 45.4% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
@@ -506,11 +506,6 @@ _female_: 7.5% (2021 est.)<br>
 _lowest 10%_: 2.5%<br>
 _highest 10%_: 31.1% (2011)<br>
 
-**Remittances**<br>
-10.46% of GDP (2020 est.)<br>
-10.78% of GDP (2019 est.)<br>
-10.5% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $4.76 billion (2019 est.)<br>
 _expenditures_: $5.662 billion (2019 est.)<br>
@@ -680,6 +675,7 @@ _total_: 9<br>
 _over 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 6<br>
 _914 to 1,523 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 11<br>
@@ -716,11 +712,11 @@ Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army, Senegale
 <strong>note:</strong> the National Police operates in major cities, while the Gendarmerie primarily operates outside urban areas; both services have specialized anti-terrorism units<br>
 
 **Military expenditures**<br>
+1.6% of GDP (2022 est.)<br>
 1.7% of GDP (2021 est.)<br>
-1.5% of GDP (2020)<br>
+1.5% of GDP (2020 est.)<br>
 1.5% of GDP (2019 est.)<br>
-1.6% of GDP (2018)<br>
-1.5% of GDP (2017)<br>
+1.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 5,000 National Gendarmerie) (2022)<br>
@@ -748,7 +744,7 @@ Jama&rsquo;at Nusrat al-Islam wal-Muslimin (JNIM)<br>
 <p><em>Senegal-Guinea-Bissau</em>: rebels from the Movement of Democratic Forces in the Casamance find refuge in Guinea-Bissau</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,494 (Mauritania) (2023)<br>
+_refugees (country of origin)_: 11,501 (Mauritania) (2023)<br>
 _IDPs_: 8,400 (2021)<br>
 
 **Trafficking in persons**<br>

@@ -252,9 +252,9 @@ _women married by age 18_: 13.7% (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 73.8%<br>
-_male_: 83.3%<br>
-_female_: 64.6% (2018)<br>
+_total population_: 75.9%<br>
+_male_: 84.8%<br>
+_female_: 67.4% (2021)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **School life expectancy (primary to tertiary education)**<br>
@@ -393,7 +393,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the Supe
 _subordinate courts_: courts of appeal; High Court of Justice; administrative and commercial courts; regional and Sadad courts (for religious, civil and administrative, and penal adjudication); first instance courts<br>
 
 **Political parties and leaders**<br>
-Action Party or PA [Mohammed EL IDRISSI]<br>Amal (hope) Party [Mohamed BANI]<br>An-Nahj Ad-Dimocrati or An-Nahj or Democratic Way [Mustapha BRAHMA]<br>Authenticity and Modernity Party or PAM [Abdellatif OUAHBI]<br>Constitutional Union Party or UC [Mohamed SAJID]<br>Democratic and Social Movement or MDS [Mahmoud ARCHANE]<br>Democratic Forces Front or FFD [Mustapha BENALI]<br>Democratic Society Party or PSD [Zhour CHAKKAFI]<br>Green Left Party or PGV [Mohamed FARES]<br>Istiqlal (Independence) Party or PI [Nizar BARAKA]<br>Moroccan Liberal Party or PML [Isaac CHARIA]<br>Moroccan Union for Democracy or UMD [Jamal MANDRI]<br>National Democratic Party [Abdellah KADIRI]<br>National Ittihadi Congress or CNI [Abdesalam EL AZIZ]<br>National Rally of Independents or RNI [Aziz AKHANNOUCH]<br>Neo-Democrats Party [Mohamed DARIF]<br>Party of Development Reform or PRD [Abderrahmane EL KOHEN]<br>Party of Justice and Development or PJD [Abdelilah BENKIRANE]<br>Party of Liberty and Social Justice [Miloud MOUSSAOUI]<br>Party of Progress and Socialism or PPS [Nabil BENABDELLAH]<br>Popular Movement or MP [Mohand LAENSER]<br>Renaissance and Virtue Party [Mohamed KHALIDI]<br>Renaissance Party [Said EL GHENNIOUI]<br>Renewal and Equity Party or PRE [Chakir ACHEHABAR]<br>Shoura (consultation) and Istiqlal Party [Ahmed BELGHAZI]<br>Socialist Union of Popular Forces or USFP [Driss LACHGAR]<br>Unified Socialist Party or GSU [Nabila MOUNIB]<br>Unity and Democracy Party [Ahmed FITRI]<br>
+Action Party or PA [Mohammed EL IDRISSI]<br>Amal (hope) Party [Mohamed BANI]<br>An-Nahj Ad-Dimocrati or An-Nahj or Democratic Way [Mustapha BRAHMA]<br>Authenticity and Modernity Party or PAM [Abdellatif OUAHBI]<br>Constitutional Union Party or UC [Mohamed JOUDAR]<br>Democratic and Social Movement or MDS [Abdessamad ARCHANE]<br>Democratic Forces Front or FFD [Mustapha BENALI]<br>Democratic Society Party or PSD [Zhour CHAKKAFI]<br>Environment and Sustainable Development Party or PEDD [Karim HRITANE]<br>Federation of the Democratic Left or FGD [Abdesalam EL AZIZ]<br>Green Left Party or PGV [Mohamed FARES]<br>Istiqlal (Independence) Party or PI [Nizar BARAKA]<br>Moroccan Liberal Party or PML [Isaac CHARIA]<br>Moroccan Union for Democracy or UMD [Jamal MANDRI]<br>National Democratic Party [Moussa SAADI]<br>National Rally of Independents or RNI [Aziz AKHANNOUCH]<br>Neo-Democrats Party [Mohamed DARIF]<br>Party of Development Reform or PRD [Abderrahmane EL KOHEN]<br>Party of Justice and Development or PJD [Abdelilah BENKIRANE]<br>Party of Liberty and Social Justice or PLJS [Miloud MOUSSAOUI]<br>Party of Progress and Socialism or PPS [Nabil BENABDELLAH]<br>Popular Movement or MP [Mohammed OUZZINE]<br>Renaissance and Virtue Party or PRV [Mohamed KHALIDI]<br>Renaissance Party [Said EL GHENNIOUI]<br>Renewal and Equity Party or PRE [Chakir ACHEHABAR]<br>Shoura (consultation) and Istiqlal Party [Ahmed BELGHAZI]<br>Socialist Union of Popular Forces or USFP [Driss LACHGAR]<br>Unified Socialist Party or GSU [Nabila MOUNIB]<br>Unity and Democracy Party [Ahmed FITRI]<br>
 
 **International organization participation**<br>
 ABEDA, AfDB, AFESD, AMF, AMU, AU, CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNSC (temporary), UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -407,7 +407,7 @@ _email address and website_: <br>Washingtonembbmorocco@maec.gov.ma<br><br>https:
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Lawrence M. RANDOLPH (since 4 January 2021)<br>
+_chief of mission_: Ambassador Puneet TALWAR (since 4 November 2022)<br>
 _embassy_: Km 5.7 Avenue Mohammed VI, Souissi, Rabat 10170<br>
 _mailing address_: 9400 Rabat Place, Washington DC&nbsp; 20521-9400<br>
 _telephone_: [212] 0537-637-200<br>
@@ -701,6 +701,7 @@ _2,438 to 3,047 m_: 12<br>
 _1,524 to 2,437 m_: 6<br>
 _914 to 1,523 m_: 4<br>
 _under 914 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 26<br>
@@ -738,11 +739,11 @@ Royal Armed Forces (FAR): Royal Moroccan Army (includes the Moroccan Royal Guard
 <strong>note 1:</strong> the Moroccan Royal Guard is officially part of the Royal Moroccan Army, but is under the direct operational control of the Royal Military Household of His Majesty the King; it provides for the security and safety of the King and royal family; it was established in the 11th century and is considered one of the world's oldest active units still in military service<strong><br><br></strong><strong>note 2: </strong>the National Police manages internal law enforcement in cities; the Royal Gendarmerie is responsible for law enforcement in rural regions and on national highways; the Gendarmerie operates mobile and fixed checkpoints along the roads in border areas and at the entrances to major municipalities; it also has a counterterrorism role <br><br><strong>note 3:</strong> the Auxiliary Forces provide support to the Gendarmerie and National Police; it includes a Mobile Intervention Corps, a motorized paramilitary security force that supplements the military and the police as needed<br><br> <br><br> <br>
 
 **Military expenditures**<br>
+4.5% of GDP (2022 est.)<br>
 4.5% of GDP (2021 est.)<br>
 4.5% of GDP (2020 est.)<br>
 3.4% of GDP (2019 est.)<br>
 3.3% of GDP (2018 est.)<br>
-3.4% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); estimated 20,000 Gendarmerie; estimated 5,000 Mobile Intervention Corps; estimated 25-30,000 Auxiliary Forces (2022)<br>

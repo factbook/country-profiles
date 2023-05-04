@@ -302,9 +302,9 @@ _percent of municipal solid waste recycled_: 2% (2012 est.)<br>
 Atlantic Ocean drainage: Volta (410,991 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 140.7 million cubic meters (2017 est.)<br>
-_industrial_: 6.3 million cubic meters (2017 est.)<br>
-_agricultural_: 76 million cubic meters (2017 est.)<br>
+_municipal_: 140 million cubic meters (2020 est.)<br>
+_industrial_: 10 million cubic meters (2020 est.)<br>
+_agricultural_: 80 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 14.7 billion cubic meters (2019 est.)<br>
@@ -495,11 +495,6 @@ _female_: 7.7% (2021 est.)<br>
 _lowest 10%_: 3.3%<br>
 _highest 10%_: 27.1% (2006)<br>
 
-**Remittances**<br>
-8.59% of GDP (2020 est.)<br>
-7.04% of GDP (2019 est.)<br>
-6.34% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $1.275 billion (2019 est.)<br>
 _expenditures_: $1.158 billion (2019 est.)<br>
@@ -669,6 +664,7 @@ _annual freight traffic on registered air carriers_: 10.89 million (2018) mt-km<
 **Airports - with paved runways**<br>
 _total_: 2<br>
 _2,438 to 3,047 m_: 2 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 6<br>
@@ -743,7 +739,7 @@ Jama’at Nusrat al Islam wal Muslimeen (JNIM)<br>
 <p><em>Togo-Benin</em>: in 2001, Benin claimed Togo moved boundary monuments - joint commission continues to resurvey the boundary; Benin’s and Togo’s Adjrala hydroelectric dam project on the Mona River, proposed in the 1990s, commenced in 2017 with funding from a Chinese bank</p> <p><em>Togo-Burkina Faso</em>: none identified</p> <p><em>Togo-Ghana</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,395 (Ghana) (2023)<br>
+_refugees (country of origin)_: 8,450 (Ghana) (2023)<br>
 
 **Illicit drugs**<br>
 transit hub for Nigerian heroin and cocaine traffickers; money laundering not a significant problem<br>

@@ -229,9 +229,9 @@ _female_: 7.2% (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 73.2%<br>
-_male_: 77.6%<br>
-_female_: 69.4% (2018)<br>
+_total population_: 75.9%<br>
+_male_: 78.7%<br>
+_female_: 73.3% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -487,11 +487,6 @@ _female_: 3.6% (2021 est.)<br>
 _lowest 10%_: 2.1%<br>
 _highest 10%_: 43.2% (2011 est.)<br>
 
-**Remittances**<br>
-2.75% of GDP (2020 est.)<br>
-2.52% of GDP (2019 est.)<br>
-2.7% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $2.393 billion (2019 est.)<br>
 _expenditures_: $2.919 billion (2019 est.)<br>
@@ -663,6 +658,7 @@ _total_: 4<br>
 _over 3,047 m_: 1<br>
 _914 to 1,523 m_: 2<br>
 _under 914 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 3<br>
@@ -686,11 +682,11 @@ _lake port(s)_: Cyangugu, Gisenyi, Kibuye (Lake Kivu)<br>
 Rwanda Defense Force (RDF; Ingabo z&rsquo;u Rwanda): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR), Rwanda Reserve Force, Special Units; Ministry of Internal Security: Rwanda National Police (2023)<br>
 
 **Military expenditures**<br>
+1.4% of GDP (2022 est.)<br>
 1.4% of GDP (2021 est.)<br>
 1.3% of GDP (2020 est.)<br>
 1.2% of GDP (2019 est.)<br>
 1.2% of GDP (2018 est.)<br>
-1.2% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 33,000 active RDF personnel (32,000 Army; 1,000 Air Force) (2022)<br>

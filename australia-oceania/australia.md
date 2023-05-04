@@ -380,8 +380,8 @@ Australian Greens Party or The Greens [Adam BANDT]<br>Australian Labor Party or 
 ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, EITI (implementing country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NEA, NSG, OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF, SAARC (observer), Quad, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNMISS, UNMIT, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Arthur SINODINOS (since 6 February 2020)<br>
-_chancery_: 1601 Massachusetts Avenue NW, Washington, DC 20036<br>
+_chief of mission_: Ambassador Kevin Michael RUDD (since 23 April 2023)<br>
+_chancery_: 1601 Massachusetts Avenue NW, Washington, DC 20036 (new chancery building under construction; formal opening scheduled for late 2023)<br>temporary location: 1145 17th St NW, Washington DC, 20036-4707<br>
 _telephone_: [1] (202) 797-3000<br>
 _FAX_: [1] (202) 797-3168<br>
 _email address and website_: <br>https://usa.embassy.gov.au/<br>
@@ -678,6 +678,7 @@ _2,438 to 3,047 m_: 14<br>
 _1,524 to 2,437 m_: 155<br>
 _914 to 1,523 m_: 155<br>
 _under 914 m_: 14 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 131<br>
@@ -736,6 +737,7 @@ approximately 60,000 active troops (30,000 Army; 15,000 Navy; 15,000 Air Force) 
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a mix of domestically produced and imported Western weapons systems; in recent years, the US has been the largest supplier of arms; the Australian defense industry produces a variety of land and sea weapons platforms; the defense industry also participates in joint development and production ventures with other Western countries, including the US and Canada (2023)<br>
+<strong>note:</strong> in 2023, the Australian defense ministry announced a new strategic review that called for the acquisition of more long-range deterrence capabilities, including missiles, submarines, and cyber tools <br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service (with parental consent); no conscription (abolished 1973); women allowed to serve in all roles, including combat arms, since 2013 (2022)<br>

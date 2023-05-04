@@ -228,9 +228,9 @@ _men married by age 18_: 1.9% (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 79.4%<br>
-_male_: 70.1%<br>
-_female_: 88.3% (2015)<br>
+_total population_: 81%<br>
+_male_: 72.9%<br>
+_female_: 88.8% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
@@ -656,6 +656,7 @@ _total_: 3<br>
 _over 3,047 m_: 1<br>
 _914 to 1,523 m_: 1<br>
 _under 914 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 21<br>
@@ -674,11 +675,11 @@ Lesotho Defense Force (LDF): Army (includes Air Wing) (2023)<br>
 <strong>note:</strong> the Lesotho Mounted Police Service is responsible for internal security and reports to the Minister of Police and Public Safety<br>
 
 **Military expenditures**<br>
+1.6% of GDP (2022 est.)<br>
 1.5% of GDP (2021 est.)<br>
 1.6% of GDP (2020 est.)<br>
 1.8% of GDP (2019 est.)<br>
 2.1% of GDP (2018 est.)<br>
-2.2% of GDP (2017 est.) (approximately $70 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 personnel (2022)<br>

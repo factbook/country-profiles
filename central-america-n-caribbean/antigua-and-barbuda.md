@@ -619,9 +619,6 @@ _cruise port(s)_: St. John's<br>
 **Military and security forces**<br>
 Antigua and Barbuda Defense Force (ABDF): Coast Guard and the Antigua and Barbuda Regiment; Royal Police Force of Antigua and Barbuda (2023)<br>
 
-**Military expenditures**<br>
-not available<br>
-
 **Military and security service personnel strengths**<br>
 approximately 200 active military personnel (2022)<br>
 

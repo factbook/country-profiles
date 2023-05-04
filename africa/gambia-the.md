@@ -240,9 +240,9 @@ _men married by age 18_: 0.2% (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 50.8%<br>
-_male_: 61.8%<br>
-_female_: 41.6% (2015)<br>
+_total population_: 58.1%<br>
+_male_: 65.2%<br>
+_female_: 51.2% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 15.5%<br>
@@ -378,7 +378,7 @@ Alliance for Patriotic Reorientation and Construction or APRC [Fabakary JATTA]<b
 ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Momodou Lamin BAH (12 December 2022)<br><br><br><br><br><br>
+_chief of mission_: Ambassador Momodou Lamin BAH (12 December 2022)<br><br><br><br>
 _chancery_: 5630 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 785-1399; [1] (202) 785-1428<br>
 _FAX_: [1] (202) 785-1430<br>
@@ -662,6 +662,7 @@ C5<br>
 **Airports - with paved runways**<br>
 _total_: 1<br>
 _over 3,047 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Roadways**<br>
 _total_: 2,977 km (2011)<br>
@@ -685,11 +686,11 @@ Gambian Armed Forces (GAF): the Gambian National Army (GNA), Gambia Navy, Gambia
 <strong>note: </strong>the National Guard is responsible for VIP protection, riot control, and presidential security; the Gambia Police Force maintains internal security<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2022 est.)<br>
 0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020 est.)<br>
 0.8% of GDP (2019 est.)<br>
 0.7% of GDP (2018 est.)<br>
-0.7% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 3,000 active troops (2022)<br>

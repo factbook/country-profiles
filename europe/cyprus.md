@@ -219,9 +219,9 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 99.1%<br>
-_male_: 99.5%<br>
-_female_: 98.7% (2015)<br>
+_total population_: 99.4%<br>
+_male_: 99.6%<br>
+_female_: 99.2% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -658,6 +658,7 @@ _2,438 to 3,047 m_: 7<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 3<br>
 _under 914 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
@@ -704,7 +705,7 @@ Cypriot National Guard (CNG): 18-50 years of age for compulsory military service
 <strong>note:</strong> the CNG accepts all foreign nationals of at least partial Cypriot descent under age 32 as volunteers; dual citizenship Cypriot origin citizens, who were born in Cyprus or abroad, have the obligation to serve in the CNG on repatriation, regardless of whether or not they possess a foreign citizenship; a person is considered as having Cypriot origin where a grandparent or parent was/is a Cypriot citizen<br>
 
 **Military - note**<br>
-the United Nations Peacekeeping Force in Cyprus (UNFICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; the UN force patrols a buffer zone, also called the &ldquo;Green Line,&rdquo; that separates the two sides; the UNFICYP mission has about 800-1,000 personnel (2023)<br>
+the United Nations Peacekeeping Force in Cyprus (UNFICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; the UN force patrols a buffer zone, also called the &ldquo;Green Line,&rdquo; that separates the two sides; the UNFICYP mission has about 800 personnel assigned (2023)<br>
 
 ## Terrorism
 
@@ -721,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 _refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 16,281 (Ukraine) (as of 12 March 2023)<br>
 _IDPs_: 242,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2021)<br>
 _stateless persons_: 74 (2022)<br>
-<strong>note:</strong> 50,136 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
+<strong>note:</strong> 51,202 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 <p>vulnerable to money laundering from illegal drugs</p> <p> </p><br>

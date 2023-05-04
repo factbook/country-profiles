@@ -516,11 +516,6 @@ _on alcohol and tobacco_: 1.1% of household expenditures (2018 est.)<br>
 _lowest 10%_: 4%<br>
 _highest 10%_: 26.1% (FY2013)<br>
 
-**Remittances**<br>
-8.99% of GDP (2021 est.)<br>
-8.68% of GDP (2020 est.)<br>
-6.93% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $38.966 billion (2020 est.)<br>
 _expenditures_: $59.621 billion (2020 est.)<br>
@@ -696,6 +691,7 @@ _2,438 to 3,047 m_: 20<br>
 _1,524 to 2,437 m_: 43<br>
 _914 to 1,523 m_: 20<br>
 _under 914 m_: 10 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 43<br>
@@ -739,8 +735,8 @@ Pakistan Army (includes National Guard), Pakistan Navy (includes marines, Mariti
 4% of GDP (2022 est.)<br>
 4% of GDP (2021 est.)<br>
 4% of GDP (2020 est.)<br>
-4.1% of GDP (2019)<br>
-4.1% of GDP (2018)<br>
+4.1% of GDP (2019 est.)<br>
+4.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 630,000 active duty personnel (550,000 Army; 30,000 Navy; 50,000 Air Force); approximately 150,000 Frontier Corps and Pakistan Rangers (2022)<br>

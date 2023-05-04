@@ -231,9 +231,9 @@ _female_: 6.4% (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 39.3%<br>
-_male_: 49.2%<br>
-_female_: 31% (2018)<br>
+_total population_: 46%<br>
+_male_: 54.5%<br>
+_female_: 37.8% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
@@ -496,11 +496,6 @@ _female_: 8% (2021 est.)<br>
 _lowest 10%_: 2.9%<br>
 _highest 10%_: 32.2% (2009 est.)<br>
 
-**Remittances**<br>
-2.93% of GDP (2020 est.)<br>
-2.89% of GDP (2019 est.)<br>
-2.87% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $3.212 billion (2019 est.)<br>
 _expenditures_: $3.757 billion (2019 est.)<br>
@@ -673,6 +668,7 @@ XT<br>
 _total_: 2<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 21<br>
@@ -697,11 +693,11 @@ Armed Forces of Burkina Faso ((FABF; aka National Armed Forces (FAN), aka Defens
 <strong>note 1:</strong> the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Territorial Administration, Decentralization, and Security; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations; specialized counterterrorism units include the Army's special forces, the Special Legion of the National Gendarmerie, and the Multipurpose Intervention Unit of National Police<br><br><strong>note 2:</strong> the VDP is a lightly-armed civilian defense force established in 2019 to act as auxiliaries to the Army in the fight against militants; the volunteers receive two weeks of training and typically assist with carrying out surveillance, information-gathering, and escort duties, as well as local defense, and were to be based in each of the country's more than 300 municipalities; in 2022, the military government created a "Patriotic Watch and Defense Brigade" (La Brigade de Veille et de Défense Patriotique or BVDP) under the FABF to coordinate the VDP recruits<br>
 
 **Military expenditures**<br>
+2.9% of GDP (2022 est.)<br>
 2.4% of GDP (2021 est.)<br>
 2.4% of GDP (2020 est.)<br>
 2.2% of GDP (2019 est.)<br>
 1.9% of GDP (2018 est.)<br>
-1.4% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 14,000 personnel (8,500 Army; 500 Air Force; 5,000 National Gendarmerie) (2023)<br>
@@ -718,7 +714,7 @@ the FABF has a mix of mostly older or secondhand equipment from a mix of supplie
 <strong>note:</strong> Burkina Faso is part of a four (formerly five)-nation anti-jihadist task force known as the G4 Sahel Group, set up in 2014 with Chad, Mali (withdrew in 2022), Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; as of 2020, defense forces from each of the participating states were allowed to pursue terrorist fighters up to 100 km into neighboring countries; the force is backed by France, the UN, and the US<br>
 
 **Military - note**<br>
-the FABF has a history of interference in the country’s politics, having conducted eight coups since 1960, including the most recent in September of 2022; its primary operational focus is internal security, and it is actively engaged in combat operations with terrorist groups linked to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS), particularly in the northern and eastern regions; the FABF is struggling to contain the groups, however, and a large portion of the country—40% by some estimates—is not under government control<br><br>in the north, Jama'at Nusrat al-Islam wal-Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups, has exploited ethnic tensions and perceptions of state neglect, as well as grievances over corruption, patronage politics, social stratification, and land disputes; in 2022, JNIM was assessed to be the primary jihadi threat to the country while conducting attacks in 10 of Burkina Faso's 13 provinces; most of the attacks were assessed to be by the Macina Liberation Front (FLM) of the JNIM coalition; the ISIS-Greater Sahara (ISIS-GS) terrorist group operated in the eastern part of the country (2023)<br>
+the FABF has a history of interference in the country’s politics, having conducted eight coups since its formation in 1960-61, including the most recent in September of 2022; several combat units were disbanded in 2011 following mutinies; while the FABF is responsible for external defense, it has an internal security role and can be called out to assist internal security forces in restoring public order, combating crime, securing the border, and counterterrorism; indeed, for more than a decade, its focus has largely been combatting terrorism, and it is actively engaged in combat operations with terrorist groups linked to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS), particularly in the northern and eastern regions; the FABF is struggling to contain the groups, however, and a large portion of the country—40% by some estimates—is not under government control<br><br>in the north, Jama'at Nusrat al-Islam wal-Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups, has exploited ethnic tensions and perceptions of state neglect, as well as grievances over corruption, patronage politics, social stratification, and land disputes; in 2022, JNIM conducted attacks in 10 of the country's 13 provinces; most of the attacks were assessed to be by the Macina Liberation Front (FLM) of the JNIM coalition; the ISIS-Greater Sahara (ISIS-GS) terrorist group operates in the eastern part of the country<br><br>the Army’s combat forces include a mix of about 8 small (battalion-sized) infantry and combined arms regiments, plus battalions of artillery and special forces historically deployed in 3 military regions; in November 2022, the military government announced it was creating 6 rapid reaction battalions (bataillon de réaction rapide or BIR), expanding the number of military regions to 6, and establishing 6 Gendarmerie “legions”; currently, the Gendarmerie has approximately 8 mobile squadrons stationed across 3 regions; in addition to its counterterrorism missions, the Gendarmerie’s Special Legion fights organized crime and provides security for high-level officials and government institutions; the Air Force’s primary mission is providing support to the Army; it has small numbers of combat aircraft, combat helicopters, and armed UAVs acquired from Turkey (2023)<br>
 
 ## Terrorism
 
@@ -732,7 +728,7 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 <p>adding to illicit cross-border activities, Burkina Faso has issues concerning unresolved boundary alignments with its neighbors; demarcation is currently underway with Mali; the dispute with Niger was referred to the ICJ in 2010, and a dispute over several villages with Benin persists; Benin retains a border dispute with Burkina Faso around the town of Koualau/Kourou</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,989 (Mali) (2023)<br>
+_refugees (country of origin)_: 35,860 (Mali) (2023)<br>
 _IDPs_: <p>1,761,915 (2022)</p><br>
 
 **Trafficking in persons**<br>

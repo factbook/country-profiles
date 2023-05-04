@@ -236,9 +236,9 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 93.2%<br>
-_male_: 93%<br>
-_female_: 93.4% (2018)<br>
+_total population_: 94.3%<br>
+_male_: 94.1%<br>
+_female_: 94.5% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -388,7 +388,7 @@ _subordinate courts_: Tribunal of the Union, Federal Appeals Court, Superior Cou
 AfDB (nonregional member), BIS, BRICS, CAN (associate), CD, CELAC, CPLP, FAO, FATF, G-15, G-20, G-24, G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, LAS (observer), Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), NSG, OAS, OECD (enhanced engagement), OPANAL, OPCW, Paris Club (associate), PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNISFA, UNIFIL, Union Latina, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Nestor Jos&eacute; FORSTER, Jr. (since 23 December 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Bernardo PARANHOS VELLOSO (since 29 March 2023)<br>
 _chancery_: 3006 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 238-2700<br>
 _FAX_: [1] (202) 238-2827<br>
@@ -691,6 +691,7 @@ _2,438 to 3,047 m_: 27<br>
 _1,524 to 2,437 m_: 179<br>
 _914 to 1,523 m_: 436 (2017)<br>
 _under 914 m_: 49 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 3,395<br>
@@ -734,27 +735,27 @@ _dry bulk cargo port(s)_: Sepetiba ore terminal, Tubarao<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Brazilian Armed Forces (For&ccedil;as Armadas Brasileiras): Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy (Marinha do Brasil, MB, includes Naval Aviation (Aviacao Naval Brasileira) and Marine Corps (Corpo de Fuzileiros Navais)), Brazilian Air Force (Forca Aerea Brasileira, FAB) (2022)<br>
+Brazilian Armed Forces (For&ccedil;as Armadas Brasileiras): Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy (Marinha do Brasil, MB, includes Naval Aviation (Aviacao Naval Brasileira) and Marine Corps (Corpo de Fuzileiros Navais)), Brazilian Air Force (Forca Aerea Brasileira, FAB) (2023)<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
-1.4% of GDP (2020)<br>
-1.4% of GDP (2019)<br>
-1.5% of GDP (2018)<br>
-1.4% of GDP (2017)<br>
+1.4% of GDP (2020 est.)<br>
+1.4% of GDP (2019 est.)<br>
+1.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 360,000 active military personnel (220,000 Army; 70,000 Navy; 70,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Brazilian military's inventory consists of a mix of domestically-produced and imported weapons, largely from Europe and the US; in recent years, the US and several European countries have been the leading suppliers of military equipment to Brazil; Brazil's defense industry is capable of designing and manufacturing equipment for all three military services and for export; it also jointly produces equipment with other countries (2022)<br>
+the Brazilian military's inventory consists of a mix of domestically-produced and imported weapons, largely from Europe and the US; in recent years, the US and several European countries have been the leading suppliers of military equipment to Brazil; Brazil's defense industry is capable of designing and manufacturing equipment for all three military services and for export; it also jointly produces equipment with other countries (2023)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for compulsory military service for men (women exempted); only 5-10% of those inducted are required to serve; conscript service obligation is 10-12 months; 17-45 years of age for voluntary service (2023)<br>
 <strong>note:</strong> in 2020, women comprised approximately 9% of the Brazilian military<br>
 
 **Military - note**<br>
-the origins of Brazil's military stretch back to the 1640s<br><br>the three national police forces – the Federal Police, Federal Highway Police, and Federal Railway Police – have domestic security responsibilities and report to the Ministry of Justice and Public Security (Ministry of Justice); there are two distinct units within the state police forces: the civil police, which performs an investigative role, and the military police, charged with maintaining law and order in the states and the Federal District; despite the name, military police forces report to the Ministry of Justice, not the Ministry of Defense; the National Public Security Force (Forca Nacional de Seguranca Publica or SENASP) is a national police force made up of Military Police from various states; the armed forces also have some domestic security responsibilities and report to the Ministry of Defense<br><br>Brazil has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
+the three national police forces – the Federal Police, Federal Highway Police, and Federal Railway Police – have domestic security responsibilities and report to the Ministry of Justice and Public Security (Ministry of Justice); there are two distinct units within the state police forces: the civil police, which performs an investigative role, and the military police, charged with maintaining law and order in the states and the Federal District; despite the name, military police forces report to the Ministry of Justice, not the Ministry of Defense; the National Public Security Force (Forca Nacional de Seguranca Publica or SENASP) is a national police force made up of Military Police from various states; the armed forces also have some domestic security responsibilities and report to the Ministry of Defense<br><br>Brazil has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the origins of Brazil's military stretch back to the 1640s; Brazil provided a 25,000-man expeditionary force with air and ground units to fight with the Allies in the Mediterranean Theater during World War II; the Navy participated in the Battle of the Atlantic (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Brazil are a risk for armed robbery against ships; in 2022, five attacks against commercial vessels were reported, an increase from the three attacks in 2021; all of these occurred in the port of Macapa while ships were berthed or at anchor<br>

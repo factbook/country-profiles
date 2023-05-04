@@ -83,7 +83,7 @@ _noun_: Liechtensteiner(s)<br>
 _adjective_: Liechtenstein<br>
 
 **Ethnic groups**<br>
-Liechtensteiner 65.5%, Swiss 9.6%, Austrian 6%, German 4.5%, Italian 3.1%, other 11.4% (2020 est.)<br>
+Liechtensteiner 65.6%, Swiss 9.6%, Austrian 5.8%, German 4.5%, Italian 3.1%, other 11.4% (2021 est.)<br>
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>

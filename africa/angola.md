@@ -231,8 +231,8 @@ _men married by age 18_: 6% (2016 est.)<br>
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
 _total population_: 71.1%<br>
-_male_: 82%<br>
-_female_: 60.7% (2015)<br>
+_male_: 82.6%<br>
+_female_: 62.4% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 18.5%<br>
@@ -715,11 +715,11 @@ _LNG terminal(s) (export)_: Angola Soyo<br>
 Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Guerra Angola, MGA), Angolan National Air Force (Forca Aerea Nacional Angolana, FANA; under operational control of the Army); Rapid Reaction Police (paramilitary) (2022)<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2022 est.)<br>
 1.4% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
 1.8% of GDP (2019 est.)<br>
 2.1% of GDP (2018 est.)<br>
-2.6% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 101,000 active troops (95,000 Army; 1,000 Navy; 5,000 Air Force); estimated 10,000 Rapid Reaction Police (2022)<br>

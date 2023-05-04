@@ -539,7 +539,7 @@ $7.371 billion (2019 est.) note: data are in current year dollars<br>
 $7.988 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-United Arab Emirates 23%, Pakistan 17%, India 13%, China 9%, United States 9%, Uzbekistan 7%, Kazakhstan 6% (2019)<br>
+United Arab Emirates 23%, Pakistan 17%, India 13%, Uzbekistan 7%, China 9% (2021)<br>
 
 **Imports - commodities**<br>
 wheat flours, broadcasting equipment, refined petroleum, rolled tobacco, aircraft parts, synthetic fabrics (2019)<br>

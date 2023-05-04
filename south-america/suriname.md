@@ -222,9 +222,9 @@ _men married by age 18_: 19.6% (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 94.4%<br>
-_male_: 96.1%<br>
-_female_: 92.7% (2018)<br>
+_total population_: 95%<br>
+_male_: 96.5%<br>
+_female_: 93.4% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 30.5%<br>
@@ -469,11 +469,6 @@ _female_: 46.1% (2021 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
-**Remittances**<br>
-4.95% of GDP (2021 est.)<br>
-4.26% of GDP (2020 est.)<br>
-2.39% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $863 million (2019 est.)<br>
 _expenditures_: $1.648 billion (2019 est.)<br>
@@ -645,6 +640,7 @@ PZ<br>
 _total_: 6<br>
 _over 3,047 m_: 1<br>
 _under 914 m_: 5 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 49<br>
@@ -691,7 +687,7 @@ the Suriname Army has a limited inventory comprised of a mix of older, foreign-s
 18 is the legal minimum age for voluntary military service; no conscription (2022)<br>
 
 **Military - note**<br>
-key missions for the National Leger include border control and supporting domestic security; the military police has direct responsibility for immigration control at the country&rsquo;s ports of entry; in addition, the military assists the police in combating crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams (2022)<br>
+key missions for the National Leger include border control and supporting domestic security; the military police has direct responsibility for immigration control at the country&rsquo;s ports of entry; in addition, the military assists the police in combating crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams (2023)<br>
 
 ## Transnational Issues
 

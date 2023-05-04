@@ -460,6 +460,7 @@ _2,438 to 3,047 m_: 341<br>
 _1,524 to 2,437 m_: 507<br>
 _914 to 1,523 m_: 425<br>
 _under 914 m_: 489 (2017)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1,244<br>
@@ -473,13 +474,13 @@ _under 914 m_: 982 (2013)<br>
 (2021) 90<br>
 
 **Railways**<br>
-_total_: (2013) 230,548 km<br>
+_total_: 200,251 km (2020)<br>
 
 **Roadways**<br>
-_total_: (2013) 10,582,653 km<br>
+_total_: 4,894,173 km (2019) 4,894,173<br>
 
 **Waterways**<br>
-(2013) 53,384 km<br>
+42,000 km (2017) 42,000 km<br>
 
 **Ports and terminals**<br>
 _major port(s)_: Antwerp (Belgium), Barcelona (Spain), Braila (Romania), Bremen (Germany), Burgas (Bulgaria), Constanta (Romania), Copenhagen (Denmark), Galati (Romania), Gdansk (Poland), Hamburg (Germany), Helsinki (Finland), Las Palmas (Canary Islands, Spain), Le Havre (France), Lisbon (Portugal), Marseille (France), Naples (Italy), Peiraiefs or Piraeus (Greece), Riga (Latvia), Rotterdam (Netherlands), Split (Croatia), Stockholm (Sweden), Talinn (Estonia), Tulcea (Romania), Varna (Bulgaria)<br>

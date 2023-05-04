@@ -233,9 +233,9 @@ _men married by age 18_: 4.1% (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write English, Mende, Temne, or Arabic<br>
-_total population_: 43.2%<br>
-_male_: 51.6%<br>
-_female_: 39.8% (2018)<br>
+_total population_: 47.7%<br>
+_male_: 55.3%<br>
+_female_: 39.8% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 10.8%<br>
@@ -477,11 +477,6 @@ _female_: 7.6% (2021 est.)<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 33.6% (2003)<br>
 
-**Remittances**<br>
-4.36% of GDP (2020 est.)<br>
-1.67% of GDP (2019 est.)<br>
-1.79% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $740 million (2019 est.)<br>
 _expenditures_: $867 million (2019 est.)<br>
@@ -646,6 +641,7 @@ _annual freight traffic on registered air carriers_: 0 (2015) mt-km<br>
 **Airports - with paved runways**<br>
 _total_: 1<br>
 _over 3,047 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 7<br>
@@ -677,11 +673,11 @@ _major seaport(s)_: Freetown, Pepel, Sherbro Islands<br>
 Republic of Sierra Leone Armed Forces (RSLAF): operates under a Joint Force Command with Land Forces, Maritime Forces, and an Air Wing; Ministry of Internal Affairs: Sierre Leone Police (2022)<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2022 est.)<br>
 0.3% of GDP (2021 est.)<br>
 0.3% of GDP (2020 est.)<br>
 0.3% of GDP (2019 est.)<br>
 0.3% of GDP (2018 est.)<br>
-0.3% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 9,000 personnel, mostly ground forces (2022)<br>

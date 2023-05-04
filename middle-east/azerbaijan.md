@@ -660,6 +660,7 @@ _2,438 to 3,047 m_: 5<br>
 _1,524 to 2,437 m_: 13<br>
 _914 to 1,523 m_: 4<br>
 _under 914 m_: 3 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 7<br>
@@ -692,11 +693,11 @@ _major seaport(s)_: Baku (Baki) located on the Caspian Sea<br>
 Azerbaijan Armed Forces: Land Forces (Combined Arms Army), Air Forces, Navy Forces; Ministry of Internal Affairs: State Border Service (includes Coast Guard), Internal Security Troops (2022)<br>
 
 **Military expenditures**<br>
-5.2% of GDP (2021 est.)<br>
-5.4% of GDP (2020 est.)<br>
+4.5% of GDP (2022 est.)<br>
+5% of GDP (2021 est.)<br>
+5% of GDP (2020 est.)<br>
 3.8% of GDP (2019 est.)<br>
 3.6% of GDP (2018 est.)<br>
-3.8% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 65,000 active armed forces (55,000 Army; 2,000 Navy; 8,000 Air Force); approximately 15,000 Ministry of Internal Affairs troops (2022)<br>

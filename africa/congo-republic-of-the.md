@@ -238,9 +238,9 @@ _men married by age 18_: 5.6% (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 80.3%<br>
-_male_: 86.1%<br>
-_female_: 74.6% (2018)<br>
+_total population_: 80.6%<br>
+_male_: 85.9%<br>
+_female_: 75.4% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -683,6 +683,7 @@ _total_: 8<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 5 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 19<br>
@@ -723,11 +724,11 @@ Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese A
 <strong>note:</strong> the Gendarmerie is a paramilitary force with domestic law enforcement and security responsibilities; it is under the Ministry of Defense, but also reports to the Ministry of Interior<br>
 
 **Military expenditures**<br>
+1.8% of GDP (2022 est.)<br>
 2.5% of GDP (2021 est.)<br>
 3.2% of GDP (2020 est.)<br>
 2.3% of GDP (2019 est.)<br>
 2.1% of GDP (2018 est.)<br>
-3.6% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 active duty troops (8,000 Army; 800 Navy; 1,000 Air Force; 2,000 Gendarmerie) (2022)<br>

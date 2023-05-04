@@ -304,9 +304,9 @@ Atlantic Ocean drainage: <em>(Gulf of Mexico) </em>Mississippi* (3,202,185 sq km
 Northern Great Plains Aquifer, Cambrian-Ordovician Aquifer System, Californian Central Valley Aquifer System, Ogallala Aquifer (High Plains), Atlantic and Gulf Coastal Plains Aquifer<br>
 
 **Total water withdrawal**<br>
-_municipal_: 58.39 billion cubic meters (2017 est.)<br>
-_industrial_: 209.7 billion cubic meters (2017 est.)<br>
-_agricultural_: 176.2 billion cubic meters (2017 est.)<br>
+_municipal_: 58.39 billion cubic meters (2020 est.)<br>
+_industrial_: 209.7 billion cubic meters (2020 est.)<br>
+_agricultural_: 176.2 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 3.1 trillion cubic meters (2019 est.)<br>
@@ -502,11 +502,6 @@ _on alcohol and tobacco_: 1.7% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2%<br>
 _highest 10%_: 30% (2007 est.)<br>
 
-**Remittances**<br>
-0.03% of GDP (2021 est.)<br>
-0.03% of GDP (2020 est.)<br>
-0.03% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $6.429 trillion (2019 est.)<br>
 _expenditures_: $7.647 trillion (2019 est.)<br>
@@ -687,6 +682,7 @@ _2,438 to 3,047 m_: 235<br>
 _1,524 to 2,437 m_: 1,478<br>
 _914 to 1,523 m_: 2,249<br>
 _under 914 m_: 903 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 8,459<br>

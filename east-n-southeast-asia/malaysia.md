@@ -361,7 +361,7 @@ _subordinate courts_: Court of Appeal; High Court; Sessions Court; Magistrates' 
 ADB, APEC, ARF, ASEAN, BIS, C, CICA (observer), CP, D-8, EAS, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OIC, OPCW, PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Mohamed NAZRI Abudul Aziz (since 9 February 2023)<br>
+_chief of mission_: Ambassador Mohamed NAZRI Bin Abdul Aziz (since 19 April 2023)<br>
 _chancery_: 3516 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 572-9700<br>
 _FAX_: [1] (202) 572-9882<br>
@@ -482,11 +482,6 @@ _on alcohol and tobacco_: 1.8% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
 _highest 10%_: 34.7% (2009 est.)<br>
-
-**Remittances**<br>
-0.42% of GDP (2021 est.)<br>
-0.42% of GDP (2020 est.)<br>
-0.44% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $77.736 billion (2019 est.)<br>
@@ -662,6 +657,7 @@ _2,438 to 3,047 m_: 8<br>
 _1,524 to 2,437 m_: 7<br>
 _914 to 1,523 m_: 8<br>
 _under 914 m_: 8 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 75<br>

@@ -241,9 +241,9 @@ _men married by age 18_: 0% (2017 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write French, Lingala, Kingwana, or Tshiluba<br>
-_total population_: 77%<br>
-_male_: 88.5%<br>
-_female_: 66.5% (2016)<br>
+_total population_: 80%<br>
+_male_: 89.5%<br>
+_female_: 70.8% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -694,6 +694,7 @@ _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 17<br>
 _914 to 1,523 m_: 2<br>
 _under 914 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 172<br>
@@ -737,11 +738,11 @@ Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Repu
 <strong>note:</strong> the Republican Guard is a division-size element consisting of approximately 5 regiments; it is regarded as the country’s best equipped and trained military unit and is under the direct control of the president<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.7% of GDP (2020 est.)<br>
 0.9% of GDP (2019 est.)<br>
 0.8% of GDP (2018 est.)<br>
-0.9% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 limited and widely varied information; approximately 100,000 active troops (mostly Army, but includes several thousand Navy and Air Force personnel, as well as about 10,000 Republican Guard; note -&nbsp; Navy personnel includes naval infantry) (2022)<br>
@@ -754,7 +755,7 @@ the FARDC is equipped mostly with Soviet-era weapons systems and equipment (2022
 <strong>note: </strong>in eastern Congo, fighters from armed groups, and in some cases government security forces, have been accused of forced recruitment of child soldiers<br>
 
 **Military - note**<br>
-<p>the FARDC’s primary focus is internal security; while the FARDC is large on paper, with an estimated 18 operational infantry brigades, it struggles to provide security in large portions of the country; the FARDC is widely assessed to suffer from insufficient training, low equipment readiness, poor morale and leadership, ill-discipline, and widespread corruption; it was created out of the armed factions of the Congo wars that ended in 2003, incorporating various militia, paramilitary, and rebel formations; the DRC’s most effective military force, the Republican Guard, is overseen by the office of the presidency rather than the FARDC and focuses largely on protecting the president and government institutions and enforcing internal security</p> <p>the FARDC is actively conducting operations against a variety of illegal armed groups (IOGs) operating in the DRC, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, where more than 15 significant and cohesive IOGs operate; there is also violence in Maniema, Kasai, Kasai Central, and Tanganyika provinces; some estimates place over 100 IOGs operating in the country, including organized militias, such as the Nduma Defense of Congo-Renewal (NDC-R), which controls a large portion of North Kivu; Mai Mai groups (local militias that operate variously as self-defense networks and criminal rackets); and foreign-origin groups seeking safe haven and resources, such as the Ugandan-origin Allied Democratic Forces (ADF; aka Islamic State of Iraq and ash-Sham in the DRC), the Democratic Forces for the Liberation of Rwanda (FDLR), multiple groups originating from Burundi, the Lords Resistance Army (LRA), and the March 23 Movement (aka M23 or Congolese Revolutionary Army), which the DRC has accused Rwanda of backing; the FARDC has been accused of collaborating with some IOGs, such as the NDC-R</p> the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) has operated in the central and eastern parts of the country since 1999; as of 2022, MONUSCO had around 15,000 military and police personnel; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security (2023)<br>
+<p>the FARDC’s primary focus is internal security; while the FARDC is large on paper, with an estimated 18 operational infantry brigades, it struggles to provide security in large portions of the country; the FARDC is widely assessed to suffer from insufficient training, low equipment readiness, poor morale and leadership, ill-discipline, and widespread corruption; it was created out of the armed factions of the Congo wars that ended in 2003, incorporating various militia, paramilitary, and rebel formations; the DRC’s most effective military force, the Republican Guard, is overseen by the office of the presidency rather than the FARDC and focuses largely on protecting the president and government institutions and enforcing internal security</p> <p>the FARDC is actively conducting operations against a variety of illegal armed groups (IOGs) operating in the DRC, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, where more than 15 significant and cohesive IOGs operate; there is also violence in Maniema, Kasai, Kasai Central, and Tanganyika provinces; some estimates place over 100 IOGs operating in the country, including organized militias, such as the Nduma Defense of Congo-Renewal (NDC-R), which controls a large portion of North Kivu; Mai Mai groups (local militias that operate variously as self-defense networks and criminal rackets); and foreign-origin groups seeking safe haven and resources, such as the Ugandan-origin Allied Democratic Forces (ADF; aka Islamic State of Iraq and ash-Sham in the DRC), the Democratic Forces for the Liberation of Rwanda (FDLR), multiple groups originating from Burundi, the Lords Resistance Army (LRA), and the March 23 Movement (aka M23 or Congolese Revolutionary Army), which the DRC has accused Rwanda of backing; the FARDC has been accused of collaborating with some IOGs, such as the NDC-R</p> the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) has operated in the central and eastern parts of the country since 1999; as of early 2023, MONUSCO had over 14,000 personnel assigned; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reported one incident in the territorial waters of the Democratic Republic of the Congo in 2022, the same number of attacks as in 2021; the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; past incidents have been reported where vessels were attacked and crews kidnapped; these incidents showed that the pirates / robbers in the area are well armed and violent; pirates have robbed vessels and kidnapped crews for ransom; in the past, product tankers were hijacked and cargo stolen; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 3 January 2023, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>
@@ -772,7 +773,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 211,409 (Central African Republic), 208,389 (Rwanda), 56,423 (South Sudan) (refugees and asylum seekers), 43,635 (Burundi) (2023)<br>
-_IDPs_: 6.06 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2023)<br>
+_IDPs_: 6.17 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: <p>Tier 2 Watch List — The Democratic Republic of the Congo (DRC) does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government finalized standard operating procedures for victim identification and referral for services and partnered with NGOs to identify more trafficking victims; the DRC investigated, prosecuted, and convicted traffickers, including complicit officials; however, the government did not demonstrate overall increasing efforts compared with the previous year; Congolese National Army officers continued coordinating with an armed group allegedly engaged in forcibly recruiting and using children; authorities penalized victims for committing unlawful acts traffickers compelled them to commit, and official complicity in trafficking crimes remains a significant concern; the government did not adopt comprehensive anti-trafficking legislation for the third consecutive year; because the DRC has devoted sufficient resources to a plan that, if implemented, would constitute significant efforts to meet the minimum standards, it was granted a waiver per the TVPA from an otherwise required downgrade to Tier 3, therefore the DRC remained on Tier 2 Watch List for the third consecutive year (2022)</p><br>

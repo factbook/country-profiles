@@ -233,9 +233,9 @@ _female_: 2.7% (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 81.5%<br>
-_male_: 85%<br>
-_female_: 78.2% (2018)<br>
+_total population_: 82.6%<br>
+_male_: 85.5%<br>
+_female_: 79.8% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 13.8%<br>
@@ -538,7 +538,7 @@ $11.471 billion (2019 est.)<br>
 Uganda 14%, Pakistan 8%, Netherlands 8%, United States 8%, United Kingdom 7% (2020)<br>
 
 **Exports - commodities**<br>
-tea, cut flowers, refined petroleum, gold, coffee (2020)<br>
+tea, cut flowers, coffee, refined petroleum, titanium (2021)<br>
 
 **Imports**<br>
 $21.853 billion (2021 est.) note: data are in current year dollars<br>
@@ -681,6 +681,7 @@ _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 6<br>
 _under 914 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 181<br>
@@ -719,11 +720,11 @@ Kenya Defense Forces (KDF): Kenya Army, Kenya Navy, Kenya Air Force (2023)<br>
 <strong>note 1:</strong> the National Police Service maintains internal security and reports to the Ministry of Interior and Coordination of National Government; it includes a paramilitary General Service Unit and Rapid Deployment Unit<br><br><strong>note 2:</strong> the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies<br>
 
 **Military expenditures**<br>
+1.1% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
-1.2% of GDP (2020)<br>
-1.2% of GDP (2019)<br>
-1.3% of GDP (2018)<br>
-1.4% of GDP (2017)<br>
+1.2% of GDP (2020 est.)<br>
+1.2% of GDP (2019 est.)<br>
+1.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 24,000 personnel (20,000 Army; 1,500 Navy; 2,500 Air Force) (2022)<br>
@@ -756,7 +757,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Kenya-Ethiopia</em>: their border was demarcated in the 1950s and approved in 1970; in 2012, Kenya and Ethiopia agreed to redemarcate their boundary following disputes over beacons and cross-border crime</p> <p><em>Kenya-Somalia</em>: Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; in 2021, the International Court of Justice (ICJ) gave Somalia control over a disputed ocean area where the seabeds are believed to hold vasts oil and gas deposits; the ICJ ruling gave Somalia the rights to several offshore oil exploration blocks previously claimed by Kenya; Kenya did not recognize the court’s decision</p> <p><em>Kenya-South Sudan</em>: two thirds of the boundary that separates Kenya and South Sudan's sovereignty known as the Ilemi Triangle has been unclear since British colonial times; Kenya has administered the area since colonial times; officials from Kenya and South Sudan signed a memorandum of understanding on boundary delimitation and demarcation and agreed to set up a joint committee; as of July 2019, the demarcation process was to begin in 90 days, but was delayed due to a lack of funding</p> <p><em>Kenya-Sudan</em>: Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005</p> <p><em>Kenya-Tanzania</em>: Kenya and Tanzania were conducting a joint reaffirmation process in November 2021 to ensure the border was visibly marked with pillars</p> <p><em>Kenya-Uganda:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021 </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,620 (Ethiopia), 8,159 (Burundi), 5,540 (Sudan) (2022); 281,319 (Somalia), 157,402 (South Sudan), 72,192 (Democratic Republic of the Congo) (2023)<br>
+_refugees (country of origin)_: 281,319 (Somalia), 157,402 (South Sudan), 72,192 (Democratic Republic of the Congo), 21,847 (Ethiopia), 8,392 (Burundi), 5,756 (Sudan) (2023)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2021)<br>
 _stateless persons_: 16,779 (2022); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

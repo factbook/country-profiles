@@ -685,6 +685,7 @@ _2,438 to 3,047 m_: 9<br>
 _1,524 to 2,437 m_: 39<br>
 _914 to 1,523 m_: 53<br>
 _under 914 m_: 18 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 715<br>
@@ -725,17 +726,17 @@ Pacific Ocean - Buenaventura<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: National Army (Ejercito Nacional), Republic of Colombia Navy (Armada Republica de Colombia, ARC; includes Coast Guard), Colombian Air Force (Fuerza Aerea de Colombia, FAC); Colombian National Police (PNC; civilian force that is under the jurisdiction of the Ministry of Defense) (2022)<br>
+Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: National Army (Ejercito Nacional), Republic of Colombia Navy (Armada Republica de Colombia, ARC; includes Coast Guard), Colombian Air Force (Fuerza Aerea de Colombia, FAC); Colombian National Police (PNC; civilian force that is under the jurisdiction of the Ministry of Defense) (2023)<br>
 
 **Military expenditures**<br>
+3% of GDP (2022 est.)<br>
 3% of GDP (2021 est.)<br>
 3% of GDP (2020 est.)<br>
-3.1% of GDP (2019)<br>
-3.1% of GDP (2018)<br>
-3.2% of GDP (2017)<br>
+3.1% of GDP (2019 est.)<br>
+3.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 260,000 total active troops (200,000 Army; 45,000 Navy, including about 20,000 marines; 14,000 Air Force); approximately 170,000 National Police (2022)<br>
+approximately 260,000 total active troops (200,000 Army; 45,000 Navy, including about 20,000 marines; 14,000 Air Force); approximately 180,000 National Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a wide mix of equipment from a variety of suppliers, including Canada, Europe, Israel, South Korea, and the US; Colombia's defense industry is active in producing air, land, and naval platforms (2022)<br>
@@ -745,10 +746,10 @@ the military's inventory includes a wide mix of equipment from a variety of supp
 <strong>note 1:</strong> conscripts reportedly comprise about 50% of the Colombian military's active force with more than 50,000 conscripts brought into the military annually<br><br><strong>note 2:</strong> as of 2022, women comprised about 1% of the military<br>
 
 **Military deployments**<br>
-275 Egypt (MFO) (2022)<br>
+275 Egypt (MFO) (2023)<br>
 
 **Military - note**<br>
-as of 2022, the Colombian Armed Forces were primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from several factions of the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting (note - these dissident groups include the designated terrorist groups Revolutionary Armed Forces of Colombia - People's Army or FARC-EP and Segunda Marquetalia; see Appendix T); the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government suspended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogot&aacute; and resumed counter-terrorism/counterinsurgency operations against the group; operations against the FARC dissident groups and the ELN continued into 2022, although the Colombian Government resumed talks with ELN in November 2022; the military was also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers and both the ELN and FARC dissidents, including FARC-EP and Segunda Marquetalia, operate openly<br>
+the Colombian Armed Forces are primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from several factions of the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting (note - these dissident groups include the designated terrorist groups Revolutionary Armed Forces of Colombia - People's Army or FARC-EP and Segunda Marquetalia; see Appendix T); the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government suspended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogotá and resumed counter-terrorism/counterinsurgency operations against the group; operations against the FARC dissident groups and the ELN continued into 2023, although the Colombian Government resumed talks with ELN in November 2022; the military is also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers and both the ELN and FARC dissidents, including FARC-EP and Segunda Marquetalia, operate openly<br><br>Colombia has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reported no incidents in 2022 in the territorial waters of Colombia; there remains a risk for armed robbery against ships particularly in the main port of Cartagena while ships are berthed or at anchor<br>
@@ -766,7 +767,7 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia - People'
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 1,842,390 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2022)<br>
-_IDPs_: 8,258,460 (conflict between government and illegal armed groups and drug traffickers since 1985) (2022)<br>
+_IDPs_: 6,834,492 (conflict between government and illegal armed groups and drug traffickers since 1985) (2022)<br>
 _stateless persons_: 11 (2022)<br>
 
 **Illicit drugs**<br>

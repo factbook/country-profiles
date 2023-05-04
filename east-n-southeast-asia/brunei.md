@@ -210,9 +210,9 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 97.2%<br>
-_male_: 98.1%<br>
-_female_: 93.4% (2018)<br>
+_total population_: 97.6%<br>
+_male_: 98.3%<br>
+_female_: 96.9% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -616,6 +616,7 @@ V8<br>
 **Airports - with paved runways**<br>
 _total_: 1<br>
 _over 3,047 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Heliports**<br>
 3 (2021)<br>
@@ -649,9 +650,9 @@ Royal Brunei Armed Forces: Land Force, Navy, Air Force, Joint Force; Ministry of
 **Military expenditures**<br>
 3.1% of GDP (2021 est.)<br>
 3.7% of GDP (2020 est.)<br>
-3.1% of GDP (2019)<br>
-2.7% of GDP (2018)<br>
-2.8% of GDP (2017)<br>
+3.1% of GDP (2019 est.)<br>
+2.7% of GDP (2018 est.)<br>
+2.8% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 6,000 total active troops (4,000 Army; 1,000 Navy; 1,000 Air Force) (2022)<br>

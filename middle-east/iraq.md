@@ -356,24 +356,24 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Abdul Latif RASHID (since 13 October 2022; vice presidents (vacant)<br>
-_head of government_: Prime Minister-Designate Mohammed Shia al-SUDANI (since 13 October 2022)<br>
-_cabinet_: Council of Ministers proposed by the prime minister, approved by Council of Representatives<br>
-_elections/appointments_: president indirectly elected by Council of Representatives (COR) to serve a 4-year term (eligible for a second term); COR parliamentary election for president last held on 13 October 2022 (next to be held in 2026)<br>
-_election results_: <em>2022: </em>COR vote in first round - Abdul Latif RASHID (PUK) 157, Barham SALIH (PUK) 99; Abdul Latif RASHID elected president in second round - Abdul latif RASHID 167, Barham SALIH 99<em><br><br>2018:</em> COR vote in first round - Barham SALIH (PUK) 165, Fuad HUSAYN (KDP) 90; Barham SALIH elected president in second round - Barham SALIH 219, Fuad HUSAYN 22; note - the COR vote on 1 October 2018 failed due to a lack of quorum, and a new session was held on 2 October 2018<br><em><br>2014:  </em>Fuad MASUM elected president in first round; COR vote - Fuad MASUM (PUK) 211, Barham SALIH (PUK) 17; Haydar al-ABADI (Da'wa Party) approved as prime minister<br>
+_chief of state_: President Latif RASHID (since 13 October 2022; vice presidents (vacant)<br>
+_head of government_: Prime Minister Mohammed Shia al-SUDANI (since 27 October 2022)<br>
+_cabinet_: Council of Ministers proposed by the prime minister, approved by Council of Representatives (COR)<br>
+_elections/appointments_: president indirectly elected by COR to serve a 4-year term (eligible for a second term); COR parliamentary election for president last held on 13 October 2022 (next to be held NA)<br>
+_election results_: <em><br>2022: </em>COR vote in first round - Latif RASHID (PUK) 157, Barham SALIH (PUK) 99; Latif RASHID elected president in second round - Latif RASHID 167, Barham SALIH 99; Mohammed Shia' Al-Sudani approved as prime minister<em><br><br>2018:</em> COR vote in first round - Barham SALIH (PUK) 165, Fuad HUSAYN (KDP) 90; Barham SALIH elected president in second round - Barham SALIH 219, Fuad HUSAYN 22; Adil ABD AL-MAHDI approved as prime minister<br><em><br>2014:  </em>Fuad MASUM elected president in first round; COR vote - Fuad MASUM (PUK) 211, Barham SALIH (PUK) 17; Haydar al-ABADI (Da'wa Party) approved as prime minister<br>
 
 **Legislative branch**<br>
-_description_: unicameral Council of Representatives of Iraq (COR) or Majlis an-Nuwwab al-Iraqiyy (329 seats; 320 members directly elected in 83 multi-seat constituencies by single nontransferable vote, 9 seats reserved for minorities - 5 for Christians, 1 each for Sabaean-Mandaeans, Yazidis, Shabaks, Fayli Kurds, and 25% of seats allocated to women; members serve 4-year terms); note - in late 2020, the COR approved an electoral law, replacing the proportional representation voting system with the single non-transferable system<br>
-_elections_: last held on 10 October 2021 (next to be held in October 2025)<br>
-_election results_: percent of vote by party/coalition - NA; seats by party/coalition - Sadrist Bloc 73, National Progress Alliance 37, State of Law Coalition 33, Kurdish Democratic Party 31, Al Fatah Alliance 17, Kurdistan Alliance 17, Al Iraq Alliance 14, New Generation Movement 14, Ishraqet Konoon 6, Tasmin Alliance 5, Babylon Movement 4, National Contract Alliance 4, National State Forces Alliance 4, other 22, independent 43; composition - men 234, women 95, percent of women 28.9%<br>
+_description_: unicameral Council of Representatives of Iraq (COR) or Majlis an-Nuwwab al-Iraqiyy (329 seats; 320 members directly elected in 83 multi-seat constituencies by single nontransferable vote, 9 seats elected by religious minorities - 5 by Christians, 1 each by Sabaean-Mandaeans, Yazidis, Shabaks andFayli Kurds, and 25% of seats allocated to women; members serve 4-year terms)<br>
+_elections_: last held on 10 October 2021 (next to be held in 2025)<br>
+_election results_: percent of vote by party/coalition - NA; seats by party -Taqadum 47, State of Law Coalition 43, Kurdistan Democratic Party 31, Al Fatah Alliance 37, Kurdistan Coalition 18, Imtidad 16, State Forces Alliance 11, Ishraqat Kanun 10, New Generation Movement 9, National Contract Party 8, Tasmim Alliance 7, Babiliyun Movement 4, other 73; composition - men 234, women 95, percent of women 28.9%<br>note - seat counts reflect updated numbers after the Sadrist Trend withdrew from government formation and its 73 seats were reallocated to other parties<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court or FSC (consists of 9 judges); note - court jurisdiction limited to constitutional issues, application of federal laws, ratification of election results for the COR, judicial competency disputes, and disputes between regions or governorates and the central government; Court of Cassation (consists of a court president, 5 vice presidents, and at least 24 judges)<br>
-_judge selection and term of office_: Federal Supreme Court judges nominated by the HJC President, the FSC Chief Justice, the Public Prosecutor's Office chief, and the head of the Judicial Oversight Commission; FSC members required to retire at age 72; Court of Cassation judges appointed by the HJC and confirmed by the Council of Representatives to serve until retirement nominally at age 63, but can be extended to age 66 by the HJC<br>
+_judge selection and term of office_: Federal Supreme Court (FSC) judges nominated by the High Judicial Council (HJC) president, the FSC chief justice, the public prosecutor's office chief, and the head of the Judicial Oversight Commission; FSC members required to retire at age 72; Court of Cassation judges appointed by the HJC and confirmed by the Council of Representatives to serve until retirement, nominally at age 63, but can be extended to age 66 by the HJC<br>
 _subordinate courts_: Courts of Appeal (governorate level); civil courts, including first instance, personal status, labor, and customs; criminal courts including felony, misdemeanor, investigative, major crimes, juvenile, and traffic courts<br>
 
 **Political parties and leaders**<br>
-Al Fatah Alliance [Hadi al-AMIRI]<br>Azm Alliance [Khamis al-KHANJAR]<br>Babylon Movement [Rayan al-KILDANI]<br>Imtidad<br>Ishraqet Konoon [Jaafar AZIZ]<br>Kurdistan Democratic Party or KDP [Masoud BARZANI]<br>National Contract Alliance [Falih al-FAYYADH]<br>National State Forces Alliance [Ammar al-HAKIM]<br>National Wisdom Trend [Ammar al-HAKIM]<br>New Generation Movement or Naway Nwe [SHASWAR Abd al-Wahid Qadir]<br>Patriotic Union of Kurdistan or PUK [Bafel TALABANI]<br>Sadrist Movement [Muqtada al-SADR]<br>State of Law Coalition [Nuri al-MALIKI]<br>Taqadum or Progress Party [Muhammad al-HALBUSI]<br>Tasmin Alliance [Sarah al-SALIHI]<br><br>numerous smaller independent, religious, local, tribal, and minority parties<br>
+Al Fatah Alliance [Hadi al-AMIRI]<br>Azm Alliance [Khamis al-KHANJAR]<br>Babiliyun Movement [Rayan al-KILDANI]<br>Imtidad [Ala al-RIKABI]<br>Ishraqat Konun [Jaafar AZIZ]<br>Kurdistan Democratic Party F [Masud BARZANI]<br>National Contract Party [Falih al-FAYYAD]<br>New Generation Movement [SHASWAR Abd al-Wahid Qadir]<br>Patriotic Union of Kurdistan [Bafel TALABANI]<br>Sadrist Bloc [Muqtada al-SADR]<br>State Forces Alliance [Haydar al-ABADI]<br>State of Law Coalition [Nuri al-MALIKI]<br>Taqadum [Muhammad al-HALBUSI]<br>Tasmim Alliance [Asad al-IDANI]<br><br>numerous smaller independent, religious, local, tribal, and minority parties<br>
 
 **International organization participation**<br>
 ABEDA, AFESD, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
@@ -677,6 +677,7 @@ _2,438 to 3,047 m_: 34<br>
 _1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 7<br>
 _under 914 m_: 7 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 30<br>
@@ -747,7 +748,7 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods
 <p><em>Iraq-Iran</em>: Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf</p> <p><em>Iraq-Turkey</em>: Turkey has expressed concern over the autonomous status of Kurds in Iraq</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,864 (West Bank and Gaza Strip) (mid-year 2022); 261,929 (Syria), 8,423 (Iran), 8,191 (Turkey) (2023)<br>
+_refugees (country of origin)_: 7,864 (West Bank and Gaza Strip) (mid-year 2022); 261,929 (Syria), 8,479 (Iran), 8,221 (Turkey) (2023)<br>
 _IDPs_: 1.17 million (displacement in central and northern Iraq since January 2014) (2023)<br>
 _stateless persons_: 47,253 (2022); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 

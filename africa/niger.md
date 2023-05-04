@@ -237,9 +237,9 @@ _female_: 1.1% (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 35.1%<br>
-_male_: 43.6%<br>
-_female_: 26.7% (2018)<br>
+_total population_: 37.3%<br>
+_male_: 45.8%<br>
+_female_: 29% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 6 years<br>
@@ -509,11 +509,6 @@ _female_: 0.7% (2021 est.)<br>
 _lowest 10%_: 3.2%<br>
 _highest 10%_: 26.8% (2014)<br>
 
-**Remittances**<br>
-3.79% of GDP (2020 est.)<br>
-2.39% of GDP (2019 est.)<br>
-2.32% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $2.325 billion (2019 est.)<br>
 _expenditures_: $2.785 billion (2019 est.)<br>
@@ -683,6 +678,7 @@ _total_: 10<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 6<br>
 _914 to 1,523 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 20<br>
@@ -715,11 +711,11 @@ Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force
 <strong>note 1:</strong> the Gendarmerie (GN) and the National Guard (GNN) are paramilitary forces; the GN has primary responsibility for rural security while the GNN is responsible for domestic security and the protection of high-level officials and government buildings; the GNN was formerly known as the National Forces of Intervention and Security<br><br><strong>note 2: </strong>the National Police includes the Directorate of Territorial Surveillance, which is charged with border management<br>
 
 **Military expenditures**<br>
+1.7% of GDP (2022 est.)<br>
 1.8% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
 1.7% of GDP (2019 est.)<br>
 1.9% of GDP (2018 est.)<br>
-2% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 12,000 active FAN troops (8,000 Army; 200 Air Force; 4,000 Gendarmerie); approximately 3,000 National Guard (2022)<br>
@@ -749,7 +745,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); 
 <p><em>Niger-Benin-Nigeria</em>: location of Niger-Benin-Nigeria tripoint is unresolved</p> <p><em>Niger-Burkina Faso</em>: the dispute with Burkina Faso was referred to the International Court of Justice (ICJ) in 2010; the ICJ ruled in 2013 that 786 sq km should go to Burkina Faso and 277 sq km to Niger; the ruling was implemented in 2015 and 2016, with Burkina Faso gaining 14 towns and Niger 4</p> <p><em>Niger-Cameroon-Nigeria</em>: only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Niger-Libya</em>: Libya claims about 25,000 sq km in a currently dormant dispute in the Tummo region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 188,006 (Nigeria), 65,847 (Mali) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 188,006 (Nigeria), 66,084 (Mali) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 376,809 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>

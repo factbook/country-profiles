@@ -234,9 +234,9 @@ _men married by age 18_: 4.8% (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 42.4%<br>
-_male_: 54%<br>
-_female_: 31.1% (2018)<br>
+_total population_: 45.8%<br>
+_male_: 56.9%<br>
+_female_: 35% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -665,6 +665,7 @@ TY<br>
 **Airports - with paved runways**<br>
 _total_: 1<br>
 _1,524 to 2,437 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 5<br>
@@ -702,11 +703,11 @@ Beninese Armed Forces (Forces Armees Beninoises, FAB; aka Benin Defense Forces):
 <strong>note:</strong> FAB is under the Ministry of Defense and is responsible for external security and supporting the DGPR in maintaining internal security, which has primary responsibility for enforcing law and maintaining order <br>
 
 **Military expenditures**<br>
+0.7% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.5% of GDP (2020 est.)<br>
-0.5% of GDP (2019 est.) (approximately $130 million)<br>
-0.7% of GDP (2018 est.) (approximately $140 million)<br>
-0.9% of GDP (2017 est.) (approximately $160 million)<br>
+0.5% of GDP (2019 est.)<br>
+0.7% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 7,000 active-duty troops; estimated 5,000 Republican Police (2022)<br>

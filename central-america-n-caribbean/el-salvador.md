@@ -661,6 +661,7 @@ _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 2<br>
 _under 914 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 63<br>
@@ -698,15 +699,14 @@ the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of 
 <strong>note:</strong> in 2016, El Salvador created a combined Army commando and National Civil Police unit to combat criminal gang violence<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2022 est.)<br>
 1.2% of GDP (2021 est.)<br>
-1.2% of GDP (2020)<br>
-1.2% of GDP (2019)<br>
-1.1% of GDP (2018)<br>
-1% of GDP (2017)<br>
+1.2% of GDP (2020 est.)<br>
+1.2% of GDP (2019 est.)<br>
+1.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 21,000 active military personnel (17,000 Army; 2,000 Navy; 2,000 Air Force) (2022)<br>
-<strong>note:</strong> in 2021, El Salvador announced intentions to double the size of the military, although no time frame was given<br>
+approximately 24,000 active military personnel (20,000 Army; 2,000 Navy; 2,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAES is dependent on a mix of mostly older imported platforms, largely from the US; in recent years, the FAES has received small amounts of equipment from several countries, including Chile, Israel, Spain, and the US (2022)<br>

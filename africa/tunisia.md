@@ -218,9 +218,9 @@ _female_: 2% (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 81.8%<br>
-_male_: 89.6%<br>
-_female_: 74.2% (2015)<br>
+_total population_: 82.7%<br>
+_male_: 89.1%<br>
+_female_: 82.7% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -276,9 +276,9 @@ _percent of municipal solid waste recycled_: 4% (2014 est.)<br>
 North Western Sahara Aquifer System<br>
 
 **Total water withdrawal**<br>
-_municipal_: 137 million cubic meters (2017 est.)<br>
-_industrial_: 965 million cubic meters (2017 est.)<br>
-_agricultural_: 3.773 billion cubic meters (2017 est.)<br>
+_municipal_: 820 million cubic meters (2020 est.)<br>
+_industrial_: 60 million cubic meters (2020 est.)<br>
+_agricultural_: 2.71 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 4.6 billion cubic meters (2019 est.)<br>
@@ -474,11 +474,6 @@ _on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 27% (2010 est.)<br>
 
-**Remittances**<br>
-5.57% of GDP (2020 est.)<br>
-4.89% of GDP (2019 est.)<br>
-4.46% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $10.866 billion (2019 est.)<br>
 _expenditures_: $12.375 billion (2019 est.)<br>
@@ -650,6 +645,7 @@ _over 3,047 m_: 4<br>
 _2,438 to 3,047 m_: 6<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 3 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 14<br>
@@ -683,11 +679,11 @@ Tunisian Armed Forces (Forces Armées Tunisiennes, FAT): Tunisian Army (includes
 <strong>note:</strong> the National Police has primary responsibility for law enforcement in the major cities, while the National Guard (gendarmerie) oversees border security and patrols smaller towns and rural areas<br>
 
 **Military expenditures**<br>
+2.7% of GDP (2022 est.)<br>
 3% of GDP (2021 est.)<br>
 3% of GDP (2020 est.)<br>
 3.8% of GDP (2019 est.)<br>
 3.9% of GDP (2018 est.)<br>
-4% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 35,000 active duty personnel (25,000 Army; 5,000 Navy; 5,000 Air Force); estimated 10,000 National Guard (2022)<br>

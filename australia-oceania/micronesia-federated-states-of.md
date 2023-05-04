@@ -316,7 +316,7 @@ no formal parties<br>
 ACP, ADB, AOSIS, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, IMF, IOC, IOM, IPU, ITSO, ITU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, WHO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Akillino Harris SUSAIA (since 24 April 2017)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Jackson SORAM (since 31 March 2023)<br>
 _chancery_: 1725 N Street NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 223-4383<br>
 _FAX_: [1] (202) 223-4391<br>
@@ -566,6 +566,7 @@ V6<br>
 _total_: 6<br>
 _1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 2 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Roadways**<br>
 note - paved and unpaved circumferential roads, most interior roads are unpaved<br>

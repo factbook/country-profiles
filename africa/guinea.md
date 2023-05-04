@@ -232,9 +232,9 @@ _men married by age 18_: 1.9% (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 39.6%<br>
-_male_: 54.4%<br>
-_female_: 27.7% (2018)<br>
+_total population_: 45.3%<br>
+_male_: 61.2%<br>
+_female_: 31.3% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
@@ -664,6 +664,7 @@ _subscriptions per 100 inhabitants_: 0.01 (2020 est.)<br>
 _total_: 4<br>
 _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 3 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 12<br>
@@ -698,11 +699,11 @@ National Armed Forces: Army, Guinean Navy (Armee de Mer or Marine Guineenne), Gu
 <strong>note:</strong> the National Gendarmerie is overseen by the Ministry of Defense, while the National Police is under the Ministry of Security; the Gendarmerie and National Police share responsibility for internal security, but only the Gendarmerie can arrest police or military officials<br>
 
 **Military expenditures**<br>
+1.8% of GDP (2022 est.)<br>
 1.5% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
 1.6% of GDP (2019 est.)<br>
 1.8% of GDP (2018 est.)<br>
-1.8% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 active personnel (9,000 Army; 400 Navy; 800 Air Force; 300 BASP; 1,500 Gendarmerie) (2022)<br>

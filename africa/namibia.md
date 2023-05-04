@@ -234,9 +234,9 @@ _female_: 6% (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 91.5%<br>
-_male_: 91.6%<br>
-_female_: 91.4% (2018)<br>
+_total population_: 92.3%<br>
+_male_: 90.6%<br>
+_female_: 92.3% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 40.4%<br>
@@ -496,11 +496,6 @@ _female_: 41.7% (2021 est.)<br>
 _lowest 10%_: 2.4%<br>
 _highest 10%_: 42% (2010)<br>
 
-**Remittances**<br>
-0.38% of GDP (2021 est.)<br>
-0.61% of GDP (2020 est.)<br>
-0.52% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $4.004 billion (2019 est.)<br>
 _expenditures_: $4.693 billion (2019 est.)<br>
@@ -675,6 +670,7 @@ _over 3,047 m_: 4<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 12<br>
 _914 to 1,523 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 93<br>
@@ -704,11 +700,11 @@ _major seaport(s)_: Luderitz, Walvis Bay<br>
 Namibian Defense Force (NDF): Army, Navy, Air Force; Ministry of Home Affairs, Immigration, Safety, and Security: Namibian Police Force (includes a paramilitary Special Field Force responsible for protecting borders and government installations) (2023)<br>
 
 **Military expenditures**<br>
+3% of GDP (2022 est.)<br>
 3% of GDP (2021 est.)<br>
 3.4% of GDP (2020 est.)<br>
-3.3% of GDP (2019)<br>
-3.4% of GDP (2018)<br>
-3.6% of GDP (2017)<br>
+3.3% of GDP (2019 est.)<br>
+3.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500 Air Force) (2022)<br>

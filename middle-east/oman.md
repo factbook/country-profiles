@@ -466,11 +466,6 @@ _on alcohol and tobacco_: 0.1% of household expenditures (2018 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
-**Remittances**<br>
-0.05% of GDP (2020 est.)<br>
-0.04% of GDP (2019 est.)<br>
-0.04% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $29.334 billion (2018 est.)<br>
 _expenditures_: $35.984 billion (2018 est.)<br>
@@ -644,6 +639,7 @@ _total_: 13<br>
 _over 3,047 m_: 7<br>
 _2,438 to 3,047 m_: 5<br>
 _914 to 1,523 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 119<br>
@@ -680,11 +676,11 @@ Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO),
 <strong>note 1: </strong>the Sultan’s Special Forces and the ROP Special Task Force are Oman’s primary tactical counterterrorism response forces<strong><br><br>note 2:</strong> in addition to its policing duties, the ROP conducts many administrative functions similar to the responsibilities of a Ministry of Interior in other countries<br>
 
 **Military expenditures**<br>
+5.5% of GDP (2022 est.)<br>
 8% of GDP (2021 est.)<br>
 11% of GDP (2020 est.)<br>
 11.8% of GDP (2019 est.)<br>
 11.2% of GDP (2018 est.)<br>
-12.3% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 40,000 active duty troops (25,000 Army, 5,000 Navy; 5,000 Air Force; 5,000 Royal Guard) (2022)<br>

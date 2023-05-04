@@ -242,9 +242,9 @@ _men married by age 18_: 3.9% (2016 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write Kiswahili (Swahili), English, or Arabic<br>
-_total population_: 77.9%<br>
-_male_: 83.2%<br>
-_female_: 73.1% (2015)<br>
+_total population_: 81.8%<br>
+_male_: 85.5%<br>
+_female_: 78.2% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
@@ -315,9 +315,9 @@ Nile (shared with Rwanda [s], Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 527 million cubic meters (2017 est.)<br>
-_industrial_: 25 million cubic meters (2017 est.)<br>
-_agricultural_: 4.632 billion cubic meters (2017 est.)<br>
+_municipal_: 530 million cubic meters (2020 est.)<br>
+_industrial_: 30 million cubic meters (2020 est.)<br>
+_agricultural_: 4.63 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 96.3 billion cubic meters (2019 est.)<br>
@@ -394,7 +394,7 @@ Alliance for Change and Transparency (Wazalendo) or ACT-Wazalendo [Zitto KABWE]<
 ACP, AfDB, AU, C, CD, EAC, EADB, EITI, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Elsie Sia KANZA (since August 2021)<br>
+_chief of mission_: Ambassador Elsie Sia KANZA (since 1 December 2021)<br>
 _chancery_: 1232 22nd Street NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 884-1080, [1] (202) 939-6125, [1] (202) 939-6127<br>
 _FAX_: [1] (202) 797-7408<br>
@@ -510,11 +510,6 @@ _on alcohol and tobacco_: 4.2% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 29.6% (2007)<br>
-
-**Remittances**<br>
-0.52% of GDP (2020 est.)<br>
-0.71% of GDP (2019 est.)<br>
-0.72% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $8.968 billion (2019 est.)<br>
@@ -690,6 +685,7 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 2 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 156<br>
@@ -729,11 +725,11 @@ Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): 
 <strong>note 1:</strong> the National Building Army (aka National Services) is a paramilitary organization under the Defense Forces that provides 6 months of military and vocational training to individuals as part of their 2 years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br><br><strong>note 2:</strong> the Tanzania Police Force includes the Police Field Force (aka Field Force Unit), a special police division with the responsibility for controlling unlawful demonstrations and riots<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2022 est.)<br>
 1.1% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
 1.1% of GDP (2019 est.)<br>
 1.2% of GDP (2018 est.)<br>
-1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active duty personnel (21,000 Land Forces; 1,000 Naval Forces; 3,000 Air Force) (2022)<br>

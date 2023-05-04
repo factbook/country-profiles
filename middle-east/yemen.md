@@ -285,9 +285,9 @@ _municipal solid waste recycled annually_: 386,946 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2016 est.)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 265 million cubic meters (2017 est.)<br>
-_industrial_: 65 million cubic meters (2017 est.)<br>
-_agricultural_: 3.235 billion cubic meters (2017 est.)<br>
+_municipal_: 270 million cubic meters (2020 est.)<br>
+_industrial_: 70 million cubic meters (2020 est.)<br>
+_agricultural_: 3.24 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 2.1 billion cubic meters (2019 est.)<br>
@@ -471,9 +471,6 @@ _female_: 36.3% (2021 est.)<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 30.3% (2008 est.)<br>
 
-**Remittances**<br>
-12.04% of GDP (2016 est.)<br>
-
 **Budget**<br>
 _revenues_: $2.207 billion (2019 est.)<br>
 _expenditures_: $3.585 billion (2019 est.)<br>
@@ -644,6 +641,7 @@ _over 3,047 m_: 4<br>
 _2,438 to 3,047 m_: 9<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 40<br>
@@ -704,6 +702,6 @@ Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and a
 <p><em>Yemen-Oman</em>: none identified</p> <p><em>Yemen-Saudia Arabia:</em> in 2004, Saudi Arabia reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities, including militants and arms; in 2013 and 2015, Saudi Arabia again erected fences<br><br><br></p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,306 (Ethiopia) (2022); 63,649 (Somalia) (2023)<br>
+_refugees (country of origin)_: 63,649 (Somalia), 18,460 (Ethiopia) (2023)<br>
 _IDPs_: 4.52 million (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2022)<br>
 

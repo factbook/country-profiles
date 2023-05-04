@@ -319,7 +319,7 @@ _conventional long form_: Arab Republic of Egypt<br>
 _conventional short form_: Egypt<br>
 _local long form_: Jumhuriyat Misr al-Arabiyah<br>
 _local short form_: Misr<br>
-_former_: United Arab Republic (with Syria)<br>
+_former_: United Arab Republic (short-lived unification with Syria)<br>
 _etymology_: the English name "Egypt" derives from the ancient Greek name for the country "Aigyptos"; the Arabic name "Misr" can be traced to the ancient Akkadian "misru" meaning border or frontier<br>
 
 **Government type**<br>
@@ -363,7 +363,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Abdelfattah ELSISI (since 8 June 2014)<br>
 _head of government_: Prime Minister Mostafa MADBOULY (since 7 June 2018)<br>
 _cabinet_: Cabinet ministers nominated by the executive branch and approved by the House of Representatives<br>
-_elections/appointments_: president elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for 3 consecutive terms); election last held on 26-28 March 2018 (next to be held in 2024); prime minister appointed by the president, approved by the House of Representatives; note - following&nbsp; a constitutional amendment approved by referendum in April 2019, the presidential term was extended from 4 to 6 years and eligibility extended to 3 consecutive terms<br>
+_elections/appointments_: president elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for 3 consecutive terms); election last held on 26-28 March 2018 (next to be held in 2024); prime minister appointed by the president, approved by the House of Representatives; note - following a constitutional amendment approved by referendum in April 2019, the presidential term was extended from 4 to 6 years and eligibility extended to 3 consecutive terms<br>
 _election results_: <em>2018:</em> Abdelfattah ELSISI reelected president in first round; percent of valid votes cast - Abdelfattah ELSISI (independent) 97.1%, Moussa Mostafa MOUSSA (El Ghad Party) 2.9%; note - more than 7% of ballots cast were deemed invalid<br>
 
 **Legislative branch**<br>
@@ -685,6 +685,7 @@ _over 3,047 m_: 15<br>
 _2,438 to 3,047 m_: 36<br>
 _1,524 to 2,437 m_: 15<br>
 _under 914 m_: 6 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 11<br>
@@ -729,11 +730,11 @@ Egyptian Armed Forces (EAF): Army (includes Republican Guard), Navy (includes Co
 <strong>note 1:</strong> the Public Security Sector Police are responsible for law enforcement nationwide; the Central Security Force protects infrastructure and is responsible for crowd control; the National Security Agency is responsible for internal security threats and counterterrorism along with other security services<br><br><strong>note 2:</strong> in addition to its external defense duties, the EAF also has a mandate to assist police in protecting vital infrastructure during a state of emergency; military personnel were granted full arrest authority in 2011 but normally only use this authority during states of emergency and “periods of significant turmoil”<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
-1.3% of GDP (2020)<br>
-1.3% of GDP (2019)<br>
-1.4% of GDP (2018)<br>
-1.6% of GDP (2017)<br>
+1.3% of GDP (2020 est.)<br>
+1.3% of GDP (2019 est.)<br>
+1.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 450,000 active duty personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces personnel (2022)<br>

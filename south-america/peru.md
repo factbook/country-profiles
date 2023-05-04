@@ -391,7 +391,7 @@ _subordinate courts_: Court of Constitutional Guarantees; Superior Courts or Cor
 APEC, BIS, CAN, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, SICA (observer), UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMISS, UNOCI, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Oswaldo DE RIVERO Barreto (since 17 November 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Irving Israel JAIME LIZARRAGA (since 11 February 2023)<br>
 _chancery_: 1700 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 833-9860 through 9869<br>
 _FAX_: [1] (202) 659-8124<br>
@@ -513,11 +513,6 @@ _on alcohol and tobacco_: 2.4% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.4%<br>
 _highest 10%_: 36.1% (2010 est.)<br>
-
-**Remittances**<br>
-1.61% of GDP (2021 est.)<br>
-1.46% of GDP (2020 est.)<br>
-1.46% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $45.983 billion (2019 est.)<br>
@@ -695,6 +690,7 @@ _2,438 to 3,047 m_: 21<br>
 _1,524 to 2,437 m_: 16<br>
 _914 to 1,523 m_: 12<br>
 _under 914 m_: 5 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 132<br>

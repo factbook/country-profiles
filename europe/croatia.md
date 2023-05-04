@@ -225,9 +225,9 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 99.3%<br>
+_total population_: 99.4%<br>
 _male_: 99.7%<br>
-_female_: 98.9% (2015)<br>
+_female_: 99.2% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -672,6 +672,7 @@ _2,438 to 3,047 m_: 6<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 3<br>
 _under 914 m_: 10 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 45<br>
@@ -741,7 +742,7 @@ Croatia joined NATO in 2009<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 21,640 (Ukraine) (as of 7 April 2023)<br>
 _stateless persons_: 2,889 (2022)<br>
-<strong>note: </strong>792,380 estimated refugee and migrant arrivals (January 2015-February 2023)<br>
+<strong>note: </strong>796,769 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p> <p> </p><br>

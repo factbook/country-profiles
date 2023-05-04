@@ -218,7 +218,7 @@ _men married by age 18_: 2.8% (2019 est.)<br>
 _definition_: can read and write Tongan and/or English<br>
 _total population_: 99.4%<br>
 _male_: 99.4%<br>
-_female_: 99.5% (2018)<br>
+_female_: 99.5% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -444,11 +444,6 @@ _female_: 16.3% (2021 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
-**Remittances**<br>
-45.5% of GDP (2021 est.)<br>
-39.3% of GDP (2020 est.)<br>
-37.18% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $212 million (2019 est.)<br>
 _expenditures_: $196 million (2019 est.)<br>
@@ -617,6 +612,7 @@ A3<br>
 **Airports - with paved runways**<br>
 _total_: 1<br>
 _2,438 to 3,047 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 5<br>

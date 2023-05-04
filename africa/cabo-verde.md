@@ -213,9 +213,9 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 86.8%<br>
-_male_: 91.7%<br>
-_female_: 82% (2015)<br>
+_total population_: 90.8%<br>
+_male_: 94.2%<br>
+_female_: 87.4% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -633,6 +633,7 @@ _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 3<br>
 _under 914 m_: 2 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Roadways**<br>
 _total_: 1,350 km (2013)<br>
@@ -652,11 +653,11 @@ _major seaport(s)_: Porto Grande<br>
 Cabo Verdean Armed Forces (FACV): Army (also called the National Guard, GN; includes a small air component), Cabo Verde Coast Guard (Guardia Costeira de Cabo Verde, GCCV); Ministry of Internal Affairs: National Police (2022)<br>
 
 **Military expenditures**<br>
+0.5% of GDP (2022 est.)<br>
 0.5% of GDP (2021 est.)<br>
 0.5% of GDP (2020 est.)<br>
 0.5% of GDP (2019 est.)<br>
 0.5% of GDP (2018 est.)<br>
-0.5% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,200 personnel including about 100 in the Coast Guard (2022)<br>

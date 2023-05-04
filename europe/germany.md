@@ -100,7 +100,7 @@ German (official); note - Danish, Frisian, Sorbian, and Romani are official mino
 _major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 26.7%, Protestant 24.3%, Muslim 3.5%, other 4.8%, none 40.7% (2020 est.)<br>
+Roman Catholic 26%, Protestant 23.7%, Muslim 3.6%, other 4.8%, none 41.9% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 13.75% (male 5,905,124/female 5,673,727)<br>
@@ -671,6 +671,7 @@ _2,438 to 3,047 m_: 49<br>
 _1,524 to 2,437 m_: 60<br>
 _914 to 1,523 m_: 70<br>
 _under 914 m_: 125 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 221<br>
@@ -689,8 +690,8 @@ _total_: 39,379 km (2020) 20,942 km electrified<br>
 15 km 0.900-mm gauge, 24 km 0.750-mm gauge (2015)<br>
 
 **Roadways**<br>
-_total_: 625,000 km (2017)<br>
-_paved_: 625,000 km (2017) (includes 12,996 km of expressways)<br>
+_total_: 830,000 km (2022) 830,000 km<br>
+_paved_: 625,000 km (2022) (includes 13,155 km of expressways)<br>
 <strong>note:</strong> includes local roads<br>
 
 **Waterways**<br>
@@ -704,7 +705,7 @@ _by type_: bulk carrier 1, container ship 72, general cargo 79, oil tanker 34, o
 _major seaport(s)_: <br><em>Baltic Sea:</em> Kiel, Rostock<br><em>North Sea:</em> Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven<br>
 _oil terminal(s)_: Brunsbuttel Canal terminals<br>
 _container port(s) (TEUs)_: Bremen/Bremerhaven (5,018,900), Hamburg (8,715,000) (2021)<br>
-_LNG terminal(s) (import)_: Hamburg; Lubmin (FSRU); Wilhelmshaven (FSRU)<br>
+_LNG terminal(s) (import)_: Hamburg; Brunsbuettel (FSRU); Lubmin (FSRU); Wilhelmshaven (FSRU)<br>
 _river port(s)_: Bremen (Weser); Bremerhaven (Geeste); Duisburg, Karlsruhe, Neuss-Dusseldorf (Rhine); Lubeck (Wakenitz); Brunsbuttel, Hamburg (Elbe)<br>
 
 **Transportation - note**<br>

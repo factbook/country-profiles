@@ -226,9 +226,9 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 97.1%<br>
-_male_: 97%<br>
-_female_: 97.2% (2016)<br>
+_total population_: 97.5%<br>
+_male_: 97.4%<br>
+_female_: 97.7% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 14.9%<br>
@@ -286,9 +286,9 @@ Rio Negro (shared with Colombia [s] and Brazil [m]) - 2,250 km; Orinoco river so
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 
 **Total water withdrawal**<br>
-_municipal_: 5.123 billion cubic meters (2017 est.)<br>
-_industrial_: 793.3 million cubic meters (2017 est.)<br>
-_agricultural_: 16.71 billion cubic meters (2017 est.)<br>
+_municipal_: 5.12 billion cubic meters (2020 est.)<br>
+_industrial_: 790 million cubic meters (2020 est.)<br>
+_agricultural_: 16.71 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 1.3 trillion cubic meters (2019 est.)<br>
@@ -650,6 +650,7 @@ _2,438 to 3,047 m_: 9<br>
 _1,524 to 2,437 m_: 33<br>
 _914 to 1,523 m_: 62<br>
 _under 914 m_: 17 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 317<br>

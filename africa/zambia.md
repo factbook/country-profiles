@@ -313,9 +313,9 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambe
 Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 **Total water withdrawal**<br>
-_municipal_: 290 million cubic meters (2017 est.)<br>
-_industrial_: 130 million cubic meters (2017 est.)<br>
-_agricultural_: 1.152 billion cubic meters (2017 est.)<br>
+_municipal_: 290 million cubic meters (2020 est.)<br>
+_industrial_: 130 million cubic meters (2020 est.)<br>
+_agricultural_: 1.15 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 104.8 billion cubic meters (2019 est.)<br>
@@ -389,7 +389,7 @@ Alliance for Democracy and Development or ADD [Charles MILUPI]<br>Forum for Demo
 ACP, AfDB, AU, C, COMESA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Lazarous KAPAMBWE (since 8 April 2020)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Margaret KAPIHYA&nbsp;(since 13 January 2023)<br>
 _chancery_: 2200 R Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 234-4009<br>
 _FAX_: [1] (202) 332-0826<br>
@@ -503,11 +503,6 @@ _female_: 25.4% (2021 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.5%<br>
 _highest 10%_: 47.4% (2010)<br>
-
-**Remittances**<br>
-1.09% of GDP (2021 est.)<br>
-0.74% of GDP (2020 est.)<br>
-0.42% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $4.758 billion (2019 est.)<br>
@@ -683,6 +678,7 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 1 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 80<br>
@@ -721,11 +717,11 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 <strong>note:</strong> the Zambia National Service is a support organization that also does public work projects<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.3% of GDP (2020 est.)<br>
 1.3% of GDP (2019 est.)<br>
 1.4% of GDP (2018 est.)<br>
-1.3% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 17,000 active troops (15,000 Army; 2,000 Air) (2022)<br>
@@ -749,7 +745,7 @@ the ZDF is responsible for preserving the country’s sovereignty and territoria
 <p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto</p> <p><em>Zambia-Tanzania</em>: some drug smuggling may take place across the Zambia-Tanzania border; there are no known current territorial issues, as both states have continued to recognize the colonial boundaries last modified in 1937; the boundary in Lake Tanganyika remains undefined.<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,230 (Burundi) (2022); 54,047 (Democratic Republic of the Congo) (refugees and asylum seekers),<br>
+_refugees (country of origin)_: 54,047 (Democratic Republic of the Congo) (refugees and asylum seekers), 7,703 (Burundi) (2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List —<strong> </strong>Zambia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts included increasing investigations, prosecutions, and convictions in trafficking crimes, launching a national action plan for trafficking in persons and implementing a national referral mechanism, and increasing screening and identification of victims among migrants; however, the government did not demonstrate overall increasing efforts to expand anti-trafficking capacity; officials did not amend laws to criminalize all forms of child sex trafficking, nor approve guidelines for funding or shelter operations; because the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards, Zambia was granted a waiver per the TVPA from an otherwise required downgrade to Tier 3 and, therefore, remained on Tier 2 Watch List for the third consecutive year (2022)<br>

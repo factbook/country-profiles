@@ -235,9 +235,9 @@ _female_: 4.1% (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 62.1%<br>
-_male_: 69.8%<br>
-_female_: 55.2% (2015)<br>
+_total population_: 67.3%<br>
+_male_: 71.2%<br>
+_female_: 63.7% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -674,6 +674,7 @@ _total_: 7<br>
 _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 4 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 25 (2013)<br>
@@ -703,11 +704,11 @@ Malawi Defense Force (MDF): Army (includes maritime force), Air Force (establish
 <strong>note:</strong> the MDF reports directly to the president as commander in chief; the Malawi Ministry of Defense was abolished in 2011<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2022 est.)<br>
 0.9% of GDP (2021 est.)<br>
 0.9% of GDP (2020 est.)<br>
 1.1% of GDP (2019 est.)<br>
 0.8% of GDP (2018 est.)<br>
-0.7% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 8,000 active duty troops (including about 500 air and marine forces personnel) (2022)<br>
@@ -730,7 +731,7 @@ the MDF’s primary responsibility is external security; it is also tasked as ne
 <p><em>Malawi-Mozambique</em>: the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Malawi-Tanzania</em>: dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p> <p><em>Malawi-Zambia</em>: border demarcation was completed in 2011; in 2018, the redemarcation exercise determined that some parts of Malawi actually belonged to Zambia</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 13,205 (Burundi) (refugees and asylum seekers), 7,807 (Rwanda) (refugees and asylum seekers) (2022); 32,715 (Democratic Republic of the Congo) (refugees and asylum seekers (2023)<br>
+_refugees (country of origin)_: 32,715 (Democratic Republic of the Congo) (refugees and asylum seekers) 10,895 (Burundi) (refugees and asylum seekers), 6,466 (Rwanda) (refugees and asylum seekers) (2023)<br>
 
 **Illicit drugs**<br>
 NA<br>

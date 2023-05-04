@@ -481,11 +481,6 @@ _on alcohol and tobacco_: 0.6% of household expenditures (2018 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
-**Remittances**<br>
-0.04% of GDP (2021 est.)<br>
-0.04% of GDP (2020 est.)<br>
-0.04% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $247.093 billion (2019 est.)<br>
 _expenditures_: $282.4 billion (2019 est.)<br>
@@ -661,6 +656,7 @@ _2,438 to 3,047 m_: 16<br>
 _1,524 to 2,437 m_: 27<br>
 _914 to 1,523 m_: 2<br>
 _under 914 m_: 4 (2021)<br>
+<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 132<br>
@@ -699,11 +695,11 @@ Saudi Arabian Armed Forces (SAAF): Ministry of Defense: Royal Saudi Land Forces,
 <strong>note:</strong> SANG (also known as the White Army) is a land force separate from the Ministry of Defense that is responsible for internal security, protecting the royal family, and external defense<br>
 
 **Military expenditures**<br>
+6% of GDP (2022 est.)<br>
 6% of GDP (2021 est.)<br>
-7.8% of GDP (2020 est.)<br>
+8% of GDP (2020 est.)<br>
 8.8% of GDP (2019 est.)<br>
 10% of GDP (2018 est.)<br>
-11.1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Saudi Armed Forces have about 250,000 total active troops; approximately 125,000 under the Ministry of Defense (75,000 Land Forces; 15,000 Naval Forces, including about 3,000 marines; 35,000 Air Force/Air Defense/Strategic Missile Forces) and up to 130,000 in the Saudi Arabia National Guard (SANG) (2022)<br>
