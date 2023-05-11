@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-The Genoese built a fortress on the site of present day Monaco in 1215. The current ruling GRIMALDI family first seized control in 1297 but was not able to permanently secure its holding until 1419. Economic development was spurred in the late 19th century with a railroad linkup to France and the opening of a casino. Since then, the principality's mild climate, splendid scenery, and gambling facilities have made Monaco world famous as a tourist and recreation center.<br>
+The Genoese built a fortress on the site of present-day Monaco in 1215. The current ruling GRIMALDI family first seized control in 1297 but was not able to permanently secure its holding until 1419. Economic development was spurred in the late 19th century with a railroad linkup to France and the opening of a casino. Since then, the principality's mild climate, coastal Mediterranean scenery, and gambling facilities have made Monaco world famous as a tourist and recreation center.<br>
 
 ## Geography
 
@@ -179,9 +179,6 @@ _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
-
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -416,10 +413,10 @@ $1.115 billion (2011)<br>
 <strong>note:</strong> full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France<br>
 
 **Exports - partners**<br>
-<p>Italy 19%, Germany 14%, United Kingdom 9%, Switzerland 9%, Spain 8%, United States 6%, Belgium 5%</p> (2019)<br>
+<p>Italy, Switzerland, Germany, Belgium, Spain</p> (2021)<br>
 
 **Exports - commodities**<br>
-jewelry, perfumes, watches, packaged medicines, plastic products (2019)<br>
+jewelry, perfumes, watches, packaged medicines, cars (2021)<br>
 
 **Imports**<br>
 $1.371 billion (2017 est.)<br>
@@ -427,10 +424,10 @@ $1.162 billion (2011 est.)<br>
 <strong>note:</strong> full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France<br>
 
 **Imports - partners**<br>
-Italy 34%, Switzerland 16%, Germany 9%, United Kingdom 7% (2019)<br>
+Italy, Switzerland, United Kingdom, Germany, China&nbsp; (2021)<br>
 
 **Imports - commodities**<br>
-jewelry, recreational boats, cars and vehicle parts, watches, general wares (2019)<br>
+jewelry, cars and vehicle parts, recreational boats, plastic products, artwork (2021)<br>
 
 **Debt - external**<br>
 <p> NA</p><br>

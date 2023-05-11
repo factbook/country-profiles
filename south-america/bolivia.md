@@ -199,9 +199,6 @@ _unimproved: urban_: urban: 2.2% of population<br>
 _unimproved: rural_: rural: 51.6% of population<br>
 _unimproved: total_: total: 16.9% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.3% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
@@ -362,7 +359,7 @@ _chief of state_: President Luis Alberto ARCE Catacora (since 8 November 2020); 
 _head of government_: President Luis Alberto ARCE Catacora (since 8 November 2020); Vice President David CHOQUEHUANCA Cespedes (since 8 November 2020)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot one of 3 ways: candidate wins at least 50% of the vote, or at least 40% of the vote and 10% more than the next highest candidate; otherwise a second round is held and the winner determined by simple majority vote; president and vice president are elected by majority vote to serve a 5-year term; no term limits (changed from two consecutive term limit by Constitutional Court in late 2017); election last held on 18 October 2020 (next to be held in October 2025)<br>
-_election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected president; percent of vote - Luis Alberto ARCE Catacora (MAS) 55.1%; Carlos Diego MESA Gisbert (CC) 28.8%; Luis Fernando CAMACHO Vaca (Creemos) 14%; other 2.1%<br><br><em>2018:</em> Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4%; note - MORALES resigned from office on 10 November 2019 over alleged election rigging; resignations of all his constitutionally designated successors followed, including the Vice President, President of the Senate, President of the Chamber of Deputies, and First Vice President of the Senate, leaving the Second Vice President of the Senate, Jeanine ANEZ Chavez, the highest-ranking official still in office; her appointment to the presidency was endorsed by Bolivia's Constitutional Court, and she served as interim president until the 8 November 2020 inauguration of Luis Alberto ARCE Catacora, who was winner of the 18 October 2020 presidential election<br>
+_election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected president; percent of vote - Luis Alberto ARCE Catacora (MAS) 55.1%; Carlos Diego MESA Gisbert (CC) 28.8%; Luis Fernando CAMACHO Vaca (Creemos) 14%; other 2.1%<br><br><em>2019:</em> Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4%; note - MORALES resigned from office on 10 November 2019 over alleged election rigging; resignations of all his constitutionally designated successors followed, including the Vice President, President of the Senate, President of the Chamber of Deputies, and First Vice President of the Senate, leaving the Second Vice President of the Senate, Jeanine ANEZ Chavez, the highest-ranking official still in office; her appointment to the presidency was endorsed by Bolivia's Constitutional Court, and she served as interim president until the 8 November 2020 inauguration of Luis Alberto ARCE Catacora, who was winner of the 18 October 2020 presidential election<br>
 
 **Legislative branch**<br>
 _description_: bicameral Plurinational Legislative Assembly or Asamblea Legislativa Plurinacional consists of:<br>Chamber of Senators or Camara de Senadores (36 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (130 seats; 70 members directly elected in single-seat constituencies by simple majority vote, 53 directly elected in single-seat constituencies by closed party-list proportional representation vote, and 7 (apportioned to non-contiguous, rural areas in 7 of the 9 states) directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
@@ -504,11 +501,6 @@ _on alcohol and tobacco_: 2.1% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 0.9%<br>
 _highest 10%_: 36.1% (2014 est.)<br>
-
-**Remittances**<br>
-3.51% of GDP (2021 est.)<br>
-3.08% of GDP (2020 est.)<br>
-3.27% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $11.796 billion (2019 est.)<br>
@@ -682,19 +674,11 @@ CP<br>
 
 **Airports - with paved runways**<br>
 _total_: 21<br>
-_over 3,047 m_: 5<br>
-_2,438 to 3,047 m_: 4<br>
-_1,524 to 2,437 m_: 6<br>
-_914 to 1,523 m_: 6 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 834<br>
-_over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 4<br>
-_1,524 to 2,437 m_: 47<br>
-_914 to 1,523 m_: 151<br>
-_under 914 m_: 631 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
 5,457 km gas, 51 km liquid petroleum gas, 2,511 km oil, 1,627 km refined products (2013)<br>

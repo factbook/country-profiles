@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>A large portion of present day Moldovan territory became a province of the Russian Empire in 1812 and then unified with Romania in 1918 in the aftermath of World War I. This territory was then incorporated into the Soviet Union at the close of World War II. Although Moldova has been independent from the Soviet Union since 1991, Russian forces have remained on Moldovan territory east of the Nistru River in the breakaway region of Transnistria.</p> <p>Years of Communist Party rule in Moldova from 2001-09 ultimately ended with election-related violent protests and a rerun of parliamentary elections in 2009. A series of pro-Europe ruling coalitions governed Moldova from 2010-19, but pro-Russia Igor DODON won the presidency in 2016 and his Socialist Party of the Republic of Moldova won a plurality in the legislative election in 2019. Pro-EU reformist candidate Maia SANDU defeated DODON in his reelection bid in November 2020 and the Party of Action and Solidarity, which SANDU founded in 2015, won a parliamentary majority in an early legislative election in July 2021. Prime Minister Natalia GAVRILITA and her cabinet took office in August 2021.</p> <p> </p><br>
+<p>A large portion of present day Moldovan territory became a province of the Russian Empire in 1812 and then unified with Romania in 1918 in the aftermath of World War I. This territory was then incorporated into the Soviet Union at the close of World War II. Although Moldova has been independent from the Soviet Union since 1991, Russian forces have remained on Moldovan territory east of the Nistru River in the breakaway region of Transnistria.</p> <p>Years of Communist Party rule in Moldova from 2001-09 ultimately ended with election-related violent protests and a rerun of parliamentary elections in 2009. A series of pro-Europe ruling coalitions governed Moldova from 2010-19, but pro-Russia Igor DODON won the presidency in 2016 and his Socialist Party of the Republic of Moldova won a plurality in the legislative election in 2019. Pro-EU reformist candidate Maia SANDU defeated DODON in his reelection bid in November 2020 and the Party of Action and Solidarity, which SANDU founded in 2015, won a parliamentary majority in an early legislative election in July 2021. Prime Minister Natalia GAVRILITA and her cabinet took office in August 2021. In February 2023, Moldova's parliament confirmed a new cabinet led by Prime Minister Dorin RECEAN, which retained the majority of the former ministers.</p> <p> </p><br>
 
 ## Geography
 
@@ -189,9 +189,6 @@ _improved: total_: total: 89.9% of population<br>
 _unimproved: urban_: urban: 1% of population<br>
 _unimproved: rural_: rural: 16.9% of population<br>
 _unimproved: total_: total: 10.1% of population (2020 est.)<br>
-
-**HIV/AIDS - adult prevalence rate**<br>
-0.8% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>
@@ -475,11 +472,6 @@ _female_: 14.7% (2021 est.)<br>
 _lowest 10%_: 4.2%<br>
 _highest 10%_: 22.1% (2014 est.)<br>
 
-**Remittances**<br>
-15.24% of GDP (2021 est.)<br>
-15.82% of GDP (2020 est.)<br>
-15.95% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $3.582 billion (2019 est.)<br>
 _expenditures_: $3.754 billion (2019 est.)<br>
@@ -513,7 +505,7 @@ $3.662 billion (2019 est.) note: data are in current year dollars<br>
 Romania 27%, Russia 9%, Italy 9%, Germany 9%, Turkey 6%, Poland 5% (2019)<br>
 
 **Exports - commodities**<br>
-insulated wiring, sunflower seeds, wine, corn, seats (2019)<br>
+insulated wiring, wheat, sunflower seeds, rolled iron, wine, corn, seats (2021)<br>
 
 **Imports**<br>
 $7.915 billion (2021 est.) note: data are in current year dollars<br>
@@ -649,15 +641,11 @@ ER<br>
 
 **Airports - with paved runways**<br>
 _total_: 5<br>
-_over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 2 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
-_1,524 to 2,437 m_: 1<br>
-_under 914 m_: 1 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
 2,026 km gas (2021) (2021)<br>
@@ -711,7 +699,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 107,480 (Ukraine) (as of 16 April 2023)<br>
+_refugees (country of origin)_: 107,645 (Ukraine) (as of 30 April 2023)<br>
 _stateless persons_: 1,701 (2022)<br>
 
 **Illicit drugs**<br>

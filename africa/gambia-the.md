@@ -197,9 +197,6 @@ _unimproved: urban_: urban: 24.2% of population<br>
 _unimproved: rural_: rural: 66.4% of population<br>
 _unimproved: total_: total: 40% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-1.7% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
@@ -488,11 +485,6 @@ _female_: 20.5% (2021 est.)<br>
 _lowest 10%_: 2%<br>
 _highest 10%_: 36.9% (2003)<br>
 
-**Remittances**<br>
-26.84% of GDP (2021 est.)<br>
-22.98% of GDP (2020 est.)<br>
-15.21% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $252 million (2018 est.)<br>
 _expenditures_: $353 million (2018 est.)<br>
@@ -661,7 +653,6 @@ C5<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_over 3,047 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Roadways**<br>

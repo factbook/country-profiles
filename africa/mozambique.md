@@ -197,9 +197,6 @@ _unimproved: urban_: urban: 28.1% of population<br>
 _unimproved: rural_: rural: 75.3% of population<br>
 _unimproved: total_: total: 57.8% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-(2021 est.) NA<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
@@ -535,7 +532,7 @@ $5.6 billion (2019 est.) note: data are in current year dollars<br>
 South Africa 16%, India 13%, China 12%, Italy 7%, United Arab Emirates 5%, Germany 5% (2019)<br>
 
 **Exports - commodities**<br>
-coal, aluminum, natural gas, tobacco, electricity, gold, lumber (2019)<br>
+coal, aluminum, gold, natural gas, electricity, titanium, coke (2021)<br>
 
 **Imports**<br>
 $10.392 billion (2021 est.) note: data are in current year dollars<br>
@@ -673,19 +670,11 @@ C9<br>
 
 **Airports - with paved runways**<br>
 _total_: 21<br>
-_over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 9<br>
-_914 to 1,523 m_: 5<br>
-_under 914 m_: 4 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 77<br>
-_2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 9<br>
-_914 to 1,523 m_: 29<br>
-_under 914 m_: 38 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
 972 km gas, 278 km refined products (2013)<br>
@@ -733,7 +722,7 @@ the FADM's inventory consists primarily of Soviet-era equipment, although in rec
 registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; 24-month service obligation (2023)<br>
 
 **Military - note**<br>
-the FADM is responsible for external security, cooperating with police on internal security, and responding to natural disasters and other emergencies; the current primary focus of the FADM is countering an insurgency driven by militants with ties to the Islamic State of Iraq and ash-Sham (ISIS) terrorist group in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and the fighting has left over 4,000 estimated dead and approximately 1 million displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; several countries from the Southern Africa Development Community (SADC) and the EU, as well as Rwanda and the US are providing various forms of military assistance; the SADC countries and Zambia have sent more than 3,000 military and security personnel, while the EU and the US have provided training assistance<br><br>the FADM’s Army is comprised largely of light infantry supplemented by several battalions of artillery and special forces; the Air Force has small numbers of Soviet-era combat aircraft and helicopters<br><br>in 2023, the Mozambique Government legalized local militias that have been assisting security forces operating in Cabo Delgado against Islamic militants since 2020; this Local Force is comprised of ex-combatants and other civilians and is to receive training, uniforms, weapons, and logistical support from the FADM (2023)<br>
+the FADM is responsible for external security, cooperating with police on internal security, and responding to natural disasters and other emergencies; the current primary focus of the FADM is countering an insurgency driven by militants with ties to the Islamic State of Iraq and ash-Sham (ISIS) terrorist group in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and the fighting has left over 4,000 estimated dead and nearly 1 million displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; several countries from the Southern Africa Development Community (SADC) and the EU, as well as Rwanda and the US are providing various forms of military assistance; the SADC countries and Zambia have sent more than 3,000 military and security personnel, while the EU and the US have provided training assistance<br><br>the FADM’s Army is comprised largely of light infantry supplemented by several battalions of artillery and special forces; the Air Force has small numbers of Soviet-era combat aircraft and helicopters<br><br>in 2023, the Mozambique Government legalized local militias that have been assisting security forces operating in Cabo Delgado against Islamic militants since 2020; this Local Force is comprised of ex-combatants and other civilians and is to receive training, uniforms, weapons, and logistical support from the FADM (2023)<br>
 
 ## Terrorism
 

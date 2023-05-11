@@ -181,9 +181,6 @@ _unimproved: urban_: urban: 2.4% of population<br>
 _unimproved: rural_: rural: 7.1% of population<br>
 _unimproved: total_: total: 6.2% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Obesity - adult prevalence rate**<br>
 19.7% (2016)<br>
 
@@ -360,7 +357,7 @@ _selected World Heritage Site locales_: Pitons Management Area<br>
 ## Economy
 
 **Economic overview**<br>
-upper middle-income, tourism-based Caribbean island economy; environmentally fragile; energy import-dependent; OECS host; major banana producer; well-educated labor force; key infrastructure improvements; investing in communications and IT<br>
+upper middle-income, tourism-based Caribbean island economy; environmentally fragile; energy import-dependent; major banana producer; well-educated labor force; key infrastructure, IT, and communications investments<br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.344 billion (2021 est.)<br>
@@ -465,10 +462,10 @@ $445.965 million (2020 est.)<br>
 $1.209 billion (2019 est.)<br>
 
 **Exports - partners**<br>
-United States 29%, Uruguay 16%, Barbados 8%, Trinidad and Tobago 5.5%, United Kingdom 6%, Dominica 6%, Guyana 5%, France 5% (2019)<br>
+Brazil 98% (2021)<br>
 
 **Exports - commodities**<br>
-crude petroleum, beer, jewelry, bananas, refined petroleum, rum (2019)<br>
+crude petroleum, fertilizers, refined petroleum, polymers, aluminum (2021)<br>
 
 **Imports**<br>
 $846.484 million (2021 est.) note: data are in current year dollars<br>
@@ -476,10 +473,10 @@ $672.769 million (2020 est.)<br>
 $968.174 million (2019 est.)<br>
 
 **Imports - partners**<br>
-Colombia 46%, United States 30%, Trinidad and Tobago 5% (2019)<br>
+Brazil 64%, United States 14%, Russia 8%, Colombia 7%, Trinidad and Tobago 2% (2021)<br>
 
 **Imports - commodities**<br>
-crude petroleum, refined petroleum, cars, poultry meats, natural gas (2019)<br>
+crude petroleum, poultry, sugar, refined petroleum, soybeans, beef, corn, wheat (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $433.117 million (31 December 2021 est.)<br>
@@ -600,8 +597,6 @@ J6<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
-_2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Roadways**<br>

@@ -175,9 +175,6 @@ _unimproved: urban_: urban: 9.2% of population<br>
 _unimproved: rural_: rural: 9% of population<br>
 _unimproved: total_: total: 8.5% of population (2017 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-5.2% (2021)<br>
-
 **Obesity - adult prevalence rate**<br>
 51.6% (2016)<br>
 
@@ -542,7 +539,7 @@ T2<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1<br>
-_1,524 to 2,437 m_: 1 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>
 _total_: 8 km (2011)<br>

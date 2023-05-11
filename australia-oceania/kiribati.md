@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-Kiribati is made up of three distinct island groups - the Gilbert Islands, the Line Islands, and the Phoenix Islands. The first Austronesian voyagers arrived in the Gilbert Islands as early as 3000 B.C., but these islands were not widely settled until about A.D. 200 by Micronesians. Around 1300, Samoans and Tongans invaded the southern Gilbert Islands, bringing Polynesian cultural elements with them. Later arrivals by Fijians brought Melanesian elements to the Gilbert Islands, and extensive intermarriage between the Micronesian, Polynesian, and Melanesian people led to the creation of what would become Gilbertese cultural traditions by the time Europeans spotted the islands in the 1600s. The Phoenix Islands and Line Islands were both visited by various Melanesian and Polynesian peoples, but their isolation and lack of natural resources meant that long-term settlements were not possible and both island groups were uninhabited by the time of European contact.<br> <br>Kiribati experienced sustained European contact by the 1760s; all three island groups were named and charted by 1826. American whaling ships frequently passed through the islands, and the UK declared a protectorate over the Gilbert and nearby Ellice Islands in 1892 to block growing US influence. Phosphate-rich Banaba Island was annexed to the protectorate in 1900. In 1916, the protectorate became a colony, and some Line Islands were added in 1916 and 1919, with the final ones added in 1972. The Phoenix Islands were added to the colony in 1937, and the UK agreed to share jurisdiction of some of them with the US because of their strategic location for aviation. Japan occupied the northern Gilbert Islands in 1941; the islands of Makin and Tarawa were the sites of major US amphibious victories over entrenched Japanese garrisons in 1943. The UK continued to rule the colony after World War II. The Ellice Islands became its own colony in 1974. The Gilbert Islands became fully self-governing in 1977 and independent in 1979 as Kiribati, the Gilbertese spelling of Gilberts. The US relinquished all claims to the sparsely inhabited Phoenix and Line Islands in a 1979 treaty of friendship.<br><br>In 1994, Kiribati adjusted the international date line to the east of the Line Islands, bringing all islands in the country to the same day and giving Kiribati the earliest time zone in the world. Kiribati is a leading climate change and marine protection advocate. The Phoenix Islands Protected Area was established in 2008; in 2010, it became the world's largest (and deepest) UNESCO World Heritage site. In 2012, Kiribati purchased a 22 sq km (8.5 sq mi) plot of land in Fiji for potential eventual resettlement of its population because of climate change.<br>
+Kiribati is made up of three distinct island groups - the Gilbert Islands, the Line Islands, and the Phoenix Islands. The first Austronesian voyagers arrived in the Gilbert Islands as early as 3000 B.C., but these islands were not widely settled until about A.D. 200 by Micronesians. Around 1300, Samoans and Tongans invaded the southern Gilbert Islands, bringing Polynesian cultural elements with them. Later arrivals by Fijians brought Melanesian elements to the Gilbert Islands, and extensive intermarriage between the Micronesian, Polynesian, and Melanesian people led to the creation of what would become Gilbertese cultural traditions by the time Europeans spotted the islands in the 1600s. The Phoenix Islands and Line Islands were both visited by various Melanesian and Polynesian peoples, but their isolation and lack of natural resources meant that long-term settlements were not possible and both island groups were uninhabited by the time of European contact.<br> <br>Kiribati experienced sustained European contact by the 1760s; all three island groups were named and charted by 1826. American whaling ships frequently passed through the islands, and the UK declared a protectorate over the Gilbert and nearby Ellice Islands in 1892 to block growing US influence. Phosphate-rich Banaba Island was annexed to the protectorate in 1900. In 1916, the protectorate became a colony, and some Line Islands were added in 1916 and 1919, with the final ones added in 1972. The Phoenix Islands were added to the colony in 1937, and the UK agreed to share jurisdiction of some of them with the US because of their strategic location for aviation. Japan occupied the northern Gilbert Islands in 1941; the islands of Makin and Tarawa were the sites of major US amphibious victories over entrenched Japanese garrisons in 1943. The UK continued to rule the colony after World War II. The Ellice Islands became its own colony in 1974. The Gilbert Islands became fully self-governing in 1977 and independent in 1979 as Kiribati, the Gilbertese spelling of Gilberts. The US relinquished all claims to the sparsely inhabited Phoenix and Line Islands in a 1979 treaty of friendship.<br><br>In 1994, Kiribati adjusted the international date line to the east of the Line Islands, bringing all islands in the country to the same day and giving Kiribati the earliest time zone in the world. Kiribati is a leading climate change advocate. In 2012, Kiribati purchased a 22 sq km (8.5 sq mi) plot of land in Fiji for potential eventual resettlement of its population because of climate change.<br>
 
 ## Geography
 
@@ -184,9 +184,6 @@ _improved: total_: total: 62.1% of population<br>
 _unimproved: urban_: urban: 24.6% of population<br>
 _unimproved: rural_: rural: 54.6% of population<br>
 _unimproved: total_: total: 37.9% of population (2020 est.)<br>
-
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
 
 **Obesity - adult prevalence rate**<br>
 46% (2016)<br>
@@ -438,11 +435,6 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
-**Remittances**<br>
-8.24% of GDP (2020 est.)<br>
-11.28% of GDP (2019 est.)<br>
-10.18% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $281 million (2017 est.)<br>
 _expenditures_: $205 million (2017 est.)<br>
@@ -609,13 +601,11 @@ T3<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
-_1,524 to 2,437 m_: 4 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 15<br>
-_914 to 1,523 m_: 10<br>
-_under 914 m_: 5 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>
 _total_: 670 km (2017)<br>

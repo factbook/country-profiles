@@ -201,9 +201,6 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 3.6% of population<br>
 _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.4% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
@@ -551,7 +548,7 @@ $492.657 billion (2019 est.) note: data are in current year dollars<br>
 United States 75% (2019)<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, computers, delivery trucks, crude petroleum, insulated wiring (2019)<br>
+cars and vehicle parts, computers, delivery trucks, crude petroleum, video displays, insulated wiring (2021)<br>
 
 **Imports**<br>
 $544.752 billion (2021 est.) note: data are in current year dollars<br>
@@ -688,20 +685,11 @@ XA<br>
 
 **Airports - with paved runways**<br>
 _total_: 243<br>
-_over 3,047 m_: 12<br>
-_2,438 to 3,047 m_: 32<br>
-_1,524 to 2,437 m_: 80<br>
-_914 to 1,523 m_: 86<br>
-_under 914 m_: 33 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1,471<br>
-_over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 42<br>
-_914 to 1,523 m_: 281<br>
-_under 914 m_: 1,146 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 1 (2021)<br>
@@ -735,7 +723,7 @@ _LNG terminal(s) (import)_: Altamira, Ensenada<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Mexican Armed Forces are divided between the Secretariat of National Defense and the Secretariat of the Navy:<br><br>Secretariat of National Defense (Secretaria de Defensa Nacional, SEDENA): Army (Ejercito), Mexican Air Force (Fuerza Aerea Mexicana, FAM), National Guard; Secretariat of the Navy (Secretaria de Marina, SEMAR): Mexican Navy (Armada de Mexico (ARM), includes Naval Air Force (FAN), Mexican Naval Infantry Corps (Cuerpo de Infanteria de Marina, Mexmar or CIM)); Secretariat of Public Security and Civilian Protection (Secretaria de Seguridad y Proteccion Ciudadana) (2022)<br>
+the Mexican Armed Forces (Fuerzas Armadas de México) are divided between the Secretariat of National Defense and the Secretariat of the Navy:<br><br>Secretariat of National Defense (Secretaria de Defensa Nacional, SEDENA): Army (Ejercito), Mexican Air Force (Fuerza Aerea Mexicana, FAM), National Guard; Secretariat of the Navy (Secretaria de Marina, SEMAR): Mexican Navy (Armada de Mexico (ARM), includes Naval Air Force (FAN), Mexican Naval Infantry Corps (Cuerpo de Infanteria de Marina, Mexmar or CIM)); Secretariat of Public Security and Civilian Protection (Secretaria de Seguridad y Proteccion Ciudadana) (2023)<br>
 <strong>note:</strong> the National Guard was formed in 2019 of personnel from the former Federal Police (disbanded in December 2019) and military police units of the Army and Navy; up until September 2022, the Guard was under the civilian-led Secretariat of Security and Civilian Protection, while the SEDENA had day-to-day operational control and provided the commanders and the training; in September 2022, complete control of the Guard was handed over to the SEDENA/Mexican Army; the Guard, along with state and municipal police, is responsible for enforcing the law and maintaining order; the regular military also actively supports police operations<br>
 
 **Military expenditures**<br>
@@ -749,10 +737,10 @@ the Mexican Armed Forces are divided between the Secretariat of National Defense
 information varies; approximately 218,000 armed forces personnel (160,000 Army; 8,000 Air Force; 50,000 Navy, including about 20,000 marines); approximately 110,000 National Guard personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Mexican military inventory includes a mix of domestically produced and imported equipment from a variety of mostly Western suppliers; the US has been the leading supplier of military hardware to Mexico; Mexico's defense industry produces naval vessels and light armored vehicles, as well as small arms and other miscellaneous equipment (2022)<br>
+the Mexican military inventory includes a mix of domestically produced and imported equipment from a variety of mostly Western suppliers; the US has been the leading supplier of military hardware to Mexico in recent years; Mexico's defense industry produces naval vessels and light armored vehicles, as well as small arms and other miscellaneous equipment (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory military service for males (selection for service determined by lottery); conscript service obligation is 12 months; those selected serve on Saturdays in a Batallón del Servicio Militar Nacional (National Military Service Battalion) composed entirely of 12-month Servicio Militar Nacional (SMN) conscripts; conscripts remain in reserve status until the age of 40; 16 years of age with consent for voluntary enlistment; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; women are eligible for voluntary military service (2023)<br>
+18 years of age (16 with parental consent) for voluntary enlistment for men and women; 18 years of age for compulsory military service for men (selection for service determined by lottery); conscript service obligation is 12 months; those selected serve on Saturdays in a Batallón del Servicio Militar Nacional (National Military Service Battalion) composed entirely of 12-month Servicio Militar Nacional (SMN) conscripts; conscripts remain in reserve status until the age of 40; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; National Guard: single men and women 18-30 years of age may volunteer (2023)<br>
 <strong>note: </strong>as of 2022, women comprised about 15% of the active duty military<br>
 
 **Military - note**<br>

@@ -177,9 +177,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 9.8% of population (2017 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Obesity - adult prevalence rate**<br>
 23.7% (2016)<br>
 
@@ -351,7 +348,7 @@ _lyrics/music_: Phyllis Joyce MCCLEAN PUNNETT/Joel Bertram MIGUEL<br>
 ## Economy
 
 **Economic overview**<br>
-upper middle-income Caribbean island economy; key agriculture and tourism sectors; environmentally fragile; major banana and arrowroot exporter; CARICOM member and US Caribbean Basin Initiative beneficiary<br>
+upper middle-income Caribbean island economy; key agriculture and tourism sectors; environmentally fragile; diversifying economy across services, science and knowledge, and creative industries; CARICOM member and US Caribbean Basin Initiative beneficiary<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.429 billion (2021 est.)<br>
@@ -457,10 +454,10 @@ $188.834 million (2020 est.)<br>
 $327.51 million (2019 est.)<br>
 
 **Exports - partners**<br>
-Jordan 39%, Singapore 14% (2019)<br>
+Netherlands 45%, India 9%, United States 6%, Barbados 5%, Greece 5% (2021)<br>
 
 **Exports - commodities**<br>
-natural gas, drilling platforms and ships, recreational boats, collector's items, eddoes and dasheen (taro), arrowroot starch (2019)<br>
+recreational boats, drilling platforms, cargo ships, wheat flours, animal food, collector's items (2021)<br>
 
 **Imports**<br>
 $415.725 million (2021 est.) note: data are in current year dollars<br>
@@ -468,10 +465,10 @@ $373.621 million (2020 est.)<br>
 $425.28 million (2019 est.)<br>
 
 **Imports - partners**<br>
-United States 30%, Trinidad and Tobago 12%, China 8%, United Kingdom 6% (2019)<br>
+United States 29%, Netherlands 15%, Trinidad and Tobago 10%, China 8%, France 5% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, ships, poultry meats, tug boats, recreational boats (2019)<br>
+dredger ships, refined petroleum, floating docks, aircraft, poultry, packaged medicines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $311.903 million (31 December 2021 est.)<br>
@@ -594,14 +591,11 @@ J8<br>
 
 **Airports - with paved runways**<br>
 _total_: 5<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 3<br>
-_under 914 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1<br>
-_under 914 m_: 1 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Merchant marine**<br>
 _total_: 832<br>

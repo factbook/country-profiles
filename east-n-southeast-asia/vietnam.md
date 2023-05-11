@@ -195,9 +195,6 @@ _unimproved: urban_: urban: 1.3% of population<br>
 _unimproved: rural_: rural: 10% of population<br>
 _unimproved: total_: total: 6.7% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.3% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
@@ -661,17 +658,11 @@ VN<br>
 
 **Airports - with paved runways**<br>
 _total_: 38<br>
-_over 3,047 m_: 10<br>
-_2,438 to 3,047 m_: 6<br>
-_1,524 to 2,437 m_: 13<br>
-_914 to 1,523 m_: 9 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 7<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 3<br>
-_under 914 m_: 3 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 1 (2021)<br>
@@ -724,7 +715,7 @@ the PAVN is armed largely with weapons and equipment from Russia and the former 
 18-27 years of age for compulsory and voluntary military service for men and women (in practice only men are drafted); service obligation is between 24 (Army, Air Defense) and 36 (Navy and Air Force) months (2023)<br>
 
 **Military - note**<br>
-the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary (2023)<br>
+the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary<br><br>the PAVN is one of the region’s largest and has participated in numerous conflicts since its founding in the mid-1940s, including the First (1946-54) and Second (1950s-1975) Indochina Wars, the Cambodian-Vietnamese War (1978-1989), and the Sino-Vietnamese War (1979); the PAVN’s current missions include protecting the country's independence, sovereignty, territorial integrity, and national interests; in recent years, it has increased focus on protecting the country’s maritime economy and sovereignty; it also assists with natural disasters and is heavily involved in economic projects, including electrical infrastructure, oil and gas services, hydroelectric projects, aviation and seaport services, telecommunications, and the shipbuilding industry, while military-owned factories and enterprises produce weapons and equipment; the Ground Forces are spread throughout the country in approximately 8 regional commands, 4 operational corps, and dozens of divisions and brigades, including some that are maintained at cadre strength and filled in wartime by an estimated 5 million reserves; the Navy in recent years has received increased government focus for procurement efforts because of the rise in territorial disputes in the South China Sea and has a growing combat force of about 20 frigates, corvettes, and fast-attack surface vessels, plus 8 attack submarines; the Air Force has a mix of approximately 75 Soviet-era and Russian-made combat aircraft (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reported that incidents in the territorial and offshore waters of Vietnam increased from one in 2021 to two in 2022;&nbsp; the South China Sea remains a high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>

@@ -193,9 +193,6 @@ _unimproved: urban_: urban: 0% of population (2015 est.)<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-(2021 est.) <0.1%<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
@@ -482,11 +479,6 @@ _on alcohol and tobacco_: 0.6% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 29.6% (2005)<br>
 
-**Remittances**<br>
-0.55% of GDP (2020 est.)<br>
-0.47% of GDP (2019 est.)<br>
-0.4% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $60.714 billion (2019 est.)<br>
 _expenditures_: $90.238 billion (2019 est.)<br>
@@ -651,20 +643,11 @@ EP<br>
 
 **Airports - with paved runways**<br>
 _total_: 140<br>
-_over 3,047 m_: 42<br>
-_2,438 to 3,047 m_: 29<br>
-_1,524 to 2,437 m_: 26<br>
-_914 to 1,523 m_: 36<br>
-_under 914 m_: 7 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 179<br>
-_over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 9<br>
-_914 to 1,523 m_: 135<br>
-_under 914 m_: 32 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 26 (2021)<br>

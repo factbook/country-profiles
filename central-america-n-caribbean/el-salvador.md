@@ -190,9 +190,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 2.9% of population<br>
 _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.5% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea<br>
@@ -481,11 +478,6 @@ _on alcohol and tobacco_: 0.5% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.2%<br>
 _highest 10%_: 32.3% (2014 est.)<br>
 
-**Remittances**<br>
-26.06% of GDP (2021 est.)<br>
-24.15% of GDP (2020 est.)<br>
-21.04% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $6.448 billion (2019 est.)<br>
 _expenditures_: $7.273 billion (2019 est.)<br>
@@ -657,17 +649,11 @@ YS<br>
 
 **Airports - with paved runways**<br>
 _total_: 5<br>
-_over 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 2<br>
-_under 914 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 63<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 11<br>
-_under 914 m_: 51 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 2 (2021)<br>
@@ -695,7 +681,7 @@ _oil terminal(s)_: Acajutla offshore terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of El Salvador (Ejercito de El Salvador, ES), Navy of El Salvador (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aerea Salvadorena, FAS); Ministry of Justice and Public Security: National Civil Police (Policia Nacional Civil, PNC) (2022)<br>
+the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of El Salvador (Ejercito de El Salvador, ES), Navy of El Salvador (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aerea Salvadorena, FAS); Ministry of Justice and Public Security: National Civil Police (Policia Nacional Civil, PNC) (2023)<br>
 <strong>note:</strong> in 2016, El Salvador created a combined Army commando and National Civil Police unit to combat criminal gang violence<br>
 
 **Military expenditures**<br>
@@ -712,7 +698,7 @@ approximately 24,000 active military personnel (20,000 Army; 2,000 Navy; 2,000 A
 the FAES is dependent on a mix of mostly older imported platforms, largely from the US; in recent years, the FAES has received small amounts of equipment from several countries, including Chile, Israel, Spain, and the US (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and non-commissioned officers (2023)<br>
+18-30 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and non-commissioned officers (2023)<br>
 <strong>note:</strong> as of 2016, women made up about 6% of the active duty military<br>
 
 **Military deployments**<br>

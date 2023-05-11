@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>A military power during the 17th century, Sweden has not participated in any war for two centuries. An armed neutrality was preserved in both World Wars. Since then, Sweden has pursued a successful economic formula consisting of a capitalist system intermixed with substantial welfare elements. Sweden joined the EU in 1995, but the public rejected the introduction of the euro in a 2003 referendum. The share of Sweden’s population born abroad increased from 11.3% in 2000 to 20% in 2021.</p> <p> </p><br>
+<p>A military power during the 17th century, Sweden maintained a policy of military non-alignment until it applied to join NATO in May 2022. Stockholm preserved and armed neutrality in both World Wars. Since then, Sweden has pursued a successful economic formula consisting of a capitalist system intermixed with substantial welfare elements. Sweden joined the EU in 1995, but the public rejected the introduction of the euro in a 2003 referendum. The share of Sweden’s population born abroad increased from 11.3% in 2000 to 20% in 2021.</p> <p> </p><br>
 
 ## Geography
 
@@ -192,9 +192,6 @@ _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
-
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
 
 **Obesity - adult prevalence rate**<br>
 20.6% (2016)<br>
@@ -643,17 +640,11 @@ SE<br>
 
 **Airports - with paved runways**<br>
 _total_: 149<br>
-_over 3,047 m_: 3<br>
-_2,438 to 3,047 m_: 12<br>
-_1,524 to 2,437 m_: 75<br>
-_914 to 1,523 m_: 22<br>
-_under 914 m_: 37 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 82<br>
-_914 to 1,523 m_: 5<br>
-_under 914 m_: 77 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 2 (2021)<br>

@@ -299,7 +299,7 @@ _conventional long form_: Republic of Austria<br>
 _conventional short form_: Austria<br>
 _local long form_: Republik Oesterreich<br>
 _local short form_: Oesterreich<br>
-_etymology_: the name Oesterreich means "eastern realm" or "eastern march" and dates to the 10th century; the designation refers to the fact that Austria was the easternmost extension of Bavaria, and, in fact, of all the Germans; the word Austria is a Latinization of the German name<br>
+_etymology_: the name Oesterreich means "eastern realm" and dates to the 10th century; the designation refers to the fact that Austria was the easternmost extension of Bavaria, and, in fact, of all the Germans; the word Austria is a Latinization of the German name<br>
 
 **Government type**<br>
 federal parliamentary republic<br>
@@ -309,7 +309,7 @@ _name_: Vienna<br>
 _geographic coordinates_: 48 12 N, 16 22 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the origin of the name is disputed but may derive from early Celtic settlements of the area; a possible reconstructed Celtic name from several centuries B.C. is Vedunia (meaning "forest stream"); under Roman settlement, beginning around 15 B.C., the name became Vindobona (likely from the Celtic <em>windo</em>, meaning "white, fair, or bright" and <em>bona</em> meaning "base, fortification, or settlement" to give a connotation of "white settlement" or "white fort"); archeological remains of the latter survive at many sites in the center of Vienna<br>
+_etymology_: the origin of the name is disputed but may derive from early Celtic settlements of the area; a plausible reconstructed Celtic name from several centuries B.C. is Vedunia (meaning "forest stream"), which in Old High German became <em>uuenia</em> (<em>wenia</em>), and later w<em>ien </em>(its current German form) in New High German; another possibility is that the name stems from the Roman settlement Vindobona, established around 15 B.C., and its Celtic-derived name (likely from the Celtic <em>windo</em>, meaning "white, fair, or bright" and <em>bona</em> meaning "base, fortification, or settlement" to give a connotation of "white settlement" or "white fort"); archeological remains of the latter survive at many sites in the center of Vienna<br>
 
 **Administrative divisions**<br>
 9 states (Bundeslaender, singular - Bundesland); Burgenland, Kaernten (Carinthia), Niederoesterreich (Lower Austria), Oberoesterreich (Upper Austria), Salzburg, Steiermark (Styria), Tirol (Tyrol), Vorarlberg, Wien (Vienna)<br>
@@ -344,12 +344,12 @@ _chief of state_: President Alexander VAN DER BELLEN (since 26 January 2017); no
 _head of government_: Chancellor Karl NEHAMMER (since 6 December 2021); note - Chancellor Alexander SCHALLENBERG resigned on 2 December 2021<br>
 _cabinet_: Council of Ministers chosen by the president on the advice of the chancellor<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); elections last held on 9 October 2022 (first round), (second round, which was annulled), (next election to be held in 2028); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor<br>
-_election results_: Alexander VAN DER BELLEN elected in first round; percent of vote - Alexander VAN DER BELLEN (the Greens) 56.7%, Walter ROSENKRANZ (FPO) 17.7%, Dominik WLAZNY (Bier) 8.3%, Tassilo WALLENTIN (independent) 8.1%, Gerald GROSZ (independent) 5.6%<em><br><br>2016:</em> Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round re-vote - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br><br><em>2010: </em> Heinz FISCHER re-elected; percent of vote - Heinz FISCHER 79.3%, Barbara ROSENKRANZ 15.2%, Rudolf GEHRING 5.4%<br>
+_election results_: 2022: Alexander VAN DER BELLEN elected in first round; percent of vote - Alexander VAN DER BELLEN (the Greens) 56.7%, Walter ROSENKRANZ (FPO) 17.7%, Dominik WLAZNY (Beer) 8.3%, Tassilo WALLENTIN (independent) 8.1%, Gerald GROSZ (independent) 5.6%<em><br><br>2016:</em> Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round re-vote - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
 _elections_: <br>Federal Council - last appointed in 2021<br>National Council - last held on 29 September 2019 (next to be held in 2024); note - election was originally scheduled for 2022, but President VAN DER BELLEN called for an early election<br>
-_election results_: <br>Federal Council - percent of vote by party - OeVP 42.6%, SPOe 31.2%. FPOe 16.4%, The Greens 8.2%, NEOS 1.6%; seats by party - OeVP 26, SPOe 19, FPOe 10, The Greens 5, NEOS 1; composition (as of March 2022) - men 36, women 25, percent of women 41% <br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26,  NEOS 15; composition (as of March 2022) - men 107, women 76, percent of women 41.5%<br>
+_election results_: <br>Federal Council - percent of vote by party - OeVP 42.6%, SPOe 31.2%. FPOe 16.4%, The Greens 8.2%, NEOS 1.6%; seats by party - OeVP 26, SPOe 19, FPOe 10, The Greens 5, NEOS 1; composition (as of March 2022) - men 36, women 25, percent of women 41% <br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26, NEOS 15; composition (as of March 2022) - men 107, women 76, percent of women 41.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Oberster Gerichtshof (consists of 85 judges organized into 17 senates or panels of 5 judges each); Constitutional Court or Verfassungsgerichtshof (consists of 20 judges including 6 substitutes; Administrative Court or Verwaltungsgerichtshof - 2 judges plus other members depending on the importance of the case)<br>
@@ -357,7 +357,7 @@ _judge selection and term of office_: Supreme Court judges nominated by executiv
 _subordinate courts_: Courts of Appeal (4); Regional Courts (20); district courts (120); county courts<br>
 
 **Political parties and leaders**<br>
-Austrian People's Party or OeVP [Karl NEHAMMER]<br>Communist Party of Austria or KPOe [Mirko MESSNER]<br>Freedom Party of Austria or FPOe [Herbert KICKI]<br>The Greens - The Green Alternative [Werner KOGLER]<br>NEOS - The New Austria and Liberal Forum [Beate MEINL-REISINGER]<br>Social Democratic Party of Austria or SPOe [Pamela RENDI-WAGNER]<br>
+Austrian People's Party or OeVP [Karl NEHAMMER]<br>Freedom Party of Austria or FPOe [Herbert KICKI]<br>The Greens - The Green Alternative [Werner KOGLER]<br>NEOS - The New Austria and Liberal Forum [Beate MEINL-REISINGER]<br>Social Democratic Party of Austria or SPOe [Pamela RENDI-WAGNER]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -483,11 +483,6 @@ _on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 23.5% (2012 est.)<br>
-
-**Remittances**<br>
-0.66% of GDP (2021 est.)<br>
-0.69% of GDP (2020 est.)<br>
-0.67% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $218.48 billion (2019 est.)<br>
@@ -662,18 +657,11 @@ OE<br>
 
 **Airports - with paved runways**<br>
 _total_: 24<br>
-_over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 5<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 4<br>
-_under 914 m_: 13 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 28<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 3<br>
-_under 914 m_: 24 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 1 (2021)<br>

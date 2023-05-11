@@ -195,9 +195,6 @@ _unimproved: urban_: urban: 32.7% of population<br>
 _unimproved: rural_: rural: 72.5% of population<br>
 _unimproved: total_: total: 62.6% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-5.4% (2020 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
@@ -671,17 +668,11 @@ _annual passenger traffic on registered air carriers_: 21,537 (2018)<br>
 
 **Airports - with paved runways**<br>
 _total_: 5<br>
-_over 3,047 m_: 3<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 42<br>
-_over 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 8<br>
-_914 to 1,523 m_: 26<br>
-_under 914 m_: 7 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Railways**<br>
 _total_: 1,244 km (2014)<br>
@@ -739,6 +730,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 867,391 (South Sudan) (refugees and asylum seekers), 487,044 (Democratic Republic of the Congo), 70,020 (Somalia), 41,235 (Burundi), 31,424 (Eritrea), 23,299 (Rwanda), 6,689 (Ethiopia) (2023)<br>
+_refugees (country of origin)_: 868,930 (South Sudan) (refugees and asylum seekers), 487,044 (Democratic Republic of the Congo), 69,992 (Somalia), 41,252 (Burundi), 31,424 (Eritrea), 23,299 (Rwanda), 6,689 (Ethiopia) (2023)<br>
 _stateless persons_: 67,000 (2022)<br>
 

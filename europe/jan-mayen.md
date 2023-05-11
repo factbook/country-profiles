@@ -102,9 +102,6 @@ _unimproved: total_: total: NA<br>
 **Current health expenditure**<br>
 NA<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -153,7 +150,7 @@ a coastal radio station has been remotely operated since 1994<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1<br>
-_1,524 to 2,437 m_: 1 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Ports and terminals**<br>
 none; offshore anchorage only<br>

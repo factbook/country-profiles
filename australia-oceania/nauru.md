@@ -172,9 +172,6 @@ _unimproved: urban_: urban: 3.7% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 3.7% of population (2017 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Obesity - adult prevalence rate**<br>
 61% (2016)<br>
 
@@ -304,7 +301,7 @@ _judge selection and term of office_: judges appointed by the president to serve
 _subordinate courts_: District Court, Family Court<br>
 
 **Political parties and leaders**<br>
-Nauru First (Naoero Amo) Party [David ADEANG]<br>
+Nauru does not have formal political parties; alliances within the government are often formed based on extended family ties<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, FAO, G-77, ICAO, ICCt, IFAD, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WHO<br>
@@ -434,7 +431,7 @@ $39.883 million (2017 est.)<br>
 Thailand 34%, Australia 16%, United States 13%, South Korea 10%, Philippines 9%, Japan 7%, France 5% (2019)<br>
 
 **Exports - commodities**<br>
-fish, calcium phosphates, low-voltage protection equipment, air conditioners, leather apparel (2019)<br>
+skipjack, calcium phosphates, tuna, cars, delivery trucks, low-voltage protection equipment (2021)<br>
 
 **Imports**<br>
 $94.796 million (2018 est.) note: data are in current year dollars<br>
@@ -565,7 +562,6 @@ C2<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_1,524 to 2,437 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Roadways**<br>

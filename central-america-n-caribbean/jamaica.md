@@ -187,9 +187,6 @@ _unimproved: urban_: urban: 1.4% of population<br>
 _unimproved: rural_: rural: 0.6% of population<br>
 _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-1.3% (2021 est.)<br>
-
 **Obesity - adult prevalence rate**<br>
 24.7% (2016)<br>
 
@@ -378,7 +375,7 @@ _selected World Heritage Site locales_: Blue and John Crow Mountains<br>
 ## Economy
 
 **Economic overview**<br>
-upper middle-income Caribbean island economy; prior to COVID-19 disruption, declining public debt and unemployment; environmentally fragile economy due to hurricanes and rising sea levels; persistently high crime, youth unemployment, and poverty<br>
+upper middle-income Caribbean island economy; ongoing debt restructuring; hurricane-vulnerable economy; high crime, youth unemployment, and poverty; susceptible to commodity shocks from ongoing Russia invasion of Ukraine<br>
 
 **Real GDP (purchasing power parity)**<br>
 $27.136 billion (2021 est.)<br>
@@ -461,11 +458,6 @@ _female_: 31.4% (2021 est.)<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 29.3% (2015)<br>
 
-**Remittances**<br>
-25.29% of GDP (2021 est.)<br>
-22.2% of GDP (2020 est.)<br>
-16.19% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $4.029 billion (2020 est.)<br>
 _expenditures_: $4.564 billion (2020 est.)<br>
@@ -495,7 +487,7 @@ $3.343 billion (2020 est.) note: data are in current year dollars<br>
 $5.991 billion (2019 est.)<br>
 
 **Exports - partners**<br>
-United States 32%, Netherlands 11%, Germany 9%, Canada 7%, Iceland 7% (2019)<br>
+United States 46%, Netherlands 9%, Canada 6%, United Kingdom 4&amp;, Russia 3% (2021)<br>
 
 **Exports - commodities**<br>
 aluminum oxide, refined petroleum, aluminum, rums, fruits, nuts, natural gas, sauces and seasonings (2021)<br>
@@ -506,10 +498,10 @@ $5.911 billion (2020 est.) note: data are in current year dollars<br>
 $8.317 billion (2019 est.)<br>
 
 **Imports - partners**<br>
-United States 43%, China 11% (2019)<br>
+United States 35%, China 13%, Turkey 5%, Trinidad and Tobago 3%, Japan 3% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, crude petroleum, natural gas, packaged medicines (2019)<br>
+refined petroleum, natural gas, cars, crude petroleum, iron bars, steel bars (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $4.838 billion (31 December 2021 est.)<br>
@@ -633,15 +625,11 @@ _number of registered air carriers_: 0 (2020)<br>
 
 **Airports - with paved runways**<br>
 _total_: 11<br>
-_2,438 to 3,047 m_: 2<br>
-_914 to 1,523 m_: 4<br>
-_under 914 m_: 5 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 17<br>
-_914 to 1,523 m_: 1<br>
-_under 914 m_: 16 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>
 _total_: 22,121 km (2011) (includes 44 km of expressways)<br>
@@ -661,17 +649,17 @@ _container port(s) (TEUs)_: Kingston (2,004,302) (2021)<br>
 
 **Military and security forces**<br>
 Jamaica Defense Force (JDF): Jamaica Regiment (Ground Forces), Maritime-Air-Cyber Command (includes Coast Guard, Air Wing, Military Intelligence Unit, Special Activities Regiment, and Military Cyber Corps), Support Brigade (logistics, engineers, health service, and military police); Jamaica National Service Corps (JNSC); Jamaica Constabulary Force (JCF) (2023)<br>
-<strong>note: </strong>the JNSC is a third category of service that military recruits can join as a preparatory phase for future careers; JNSC soldiers receive basic military, vocational, and life skills training; upon completion of 12 months of service, soldiers can continue on with the JDF or the JDF reserves or seek  opportunities in other public sector entities such as the JCF, the Department of Correctional Services, the Jamaica Fire Brigade, the Jamaica Customs Agency, or the Passport Immigration and Citizenship Agency<br>
+<strong>note 1:</strong> the JCF is the country’s police force; it has primary responsibility for internal security and has units for community policing, special response, intelligence gathering, and internal affairs; both it and the JDF are under the Ministry of National Security <br><strong><br>note 2: </strong>the JNSC is a third category of service that military recruits can join as a preparatory phase for future careers; JNSC soldiers receive basic military, vocational, and life skills training; upon completion of 12 months of service, soldiers can continue on with the JDF or the JDF reserves or seek  opportunities in other public sector entities such as the JCF, the Department of Correctional Services, the Jamaica Fire Brigade, the Jamaica Customs Agency, or the Passport Immigration and Citizenship Agency<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2022 est.)<br>
 1.4% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
 1.6% of GDP (2019 est.)<br>
 1.4% of GDP (2018 est.)<br>
-1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 4,000 active duty personnel (2022)<br>
+approximately 4,000 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the JDF is lightly armed with a limited inventory featuring equipment mostly from Europe and the US (2022)<br>
@@ -680,7 +668,7 @@ the JDF is lightly armed with a limited inventory featuring equipment mostly fro
 no conscription; 18-23 for voluntary military service (17 with parental consent); 18-28 for the reserves; since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC); in the JNSC, soldiers receive basic military, vocational, and life skills training; upon completion of 12 months of service, soldiers can continue on with the JDF or seek other opportunities with other government agencies (2022)<br>
 
 **Military - note**<br>
-the JDF&rsquo;s primary missions are maritime/border and internal security, including support to police operations in combating crime and violence (2023)<br>
+the JDF&rsquo;s primary missions are border, internal, and maritime security, including support to police operations in combating crime and violence (2023)<br>
 
 ## Transnational Issues
 

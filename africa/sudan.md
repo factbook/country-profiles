@@ -196,9 +196,6 @@ _unimproved: urban_: urban: 27.9% of population<br>
 _unimproved: rural_: rural: 69.4% of population<br>
 _unimproved: total_: total: 54.7% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.1% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
@@ -658,18 +655,11 @@ ST<br>
 
 **Airports - with paved runways**<br>
 _total_: 17<br>
-_over 3,047 m_: 2<br>
-_2,438 to 3,047 m_: 11<br>
-_1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 1<br>
-_under 914 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 50<br>
-_1,524 to 2,437 m_: 17<br>
-_914 to 1,523 m_: 24<br>
-_under 914 m_: 9 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 7 (2021)<br>
@@ -702,7 +692,7 @@ _major seaport(s)_: Port Sudan<br>
 
 **Military and security forces**<br>
 Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Support Forces (RSF), Border Guards <br><br>Ministry of Interior: security police, special forces police, traffic police, Central Reserve Police (2023)<br>
-<strong>note 1:</strong> the RSF is a semi-autonomous paramilitary force formed in 2013 to fight armed rebel groups in Sudan, with Mohammed Hamdan DAGALO (aka Hemeti) as its commander (he is also a member of the Sovereign Council); it was initially placed under the National Intelligence and Security Service, then came under the direct command of former president Omar al-BASHIR, who boosted the RSF as his own personal security force; as a result, the RSF was better funded and equipped than the regular armed forces; the RSF has since recruited from all parts of Sudan beyond its original Darfuri Arab groups but remains under the personal patronage and control of DAGALO; the RSF has been accused of committing human rights abuses against civilians; it is also reportedly involved in business enterprises, such as gold mining; in late 2019, Sovereign Council Chairman and SAF Commander-in-Chief General Abd-al-Fatah al-BURHAN said the RSF would be fully integrated into the SAF, but did not give a timeline<br><br><strong>note 2:</strong> the Central Reserve Police is a combat-trained paramilitary force that has been used against demonstrators and sanctioned by the US for human rights abuses<br>
+<strong>note 1:</strong> the RSF is a semi-autonomous paramilitary force formed in 2013 to fight armed rebel groups in Sudan, with Mohammed Hamdan DAGALO (aka Hemeti) as its commander (he is also a member of the Sovereign Council); it was initially placed under the National Intelligence and Security Service, then came under the direct command of former president Omar al-BASHIR, who boosted the RSF as his own personal security force; as a result, the RSF was better funded and equipped than the regular armed forces; the RSF has since recruited from all parts of Sudan beyond its original Darfuri Arab groups but remains under the personal patronage and control of DAGALO; the RSF has participated in combat operations in Yemen and in counterinsurgency operations in Darfur, South Kordofan, and the Blue Nile State; it has also been active along the borders with Libya and the Central African Republic and has been used to respond to anti-regime demonstrations; the RSF has been accused of committing human rights abuses against civilians and is reportedly involved in business enterprises, such as gold mining<br><br><strong>note 2:</strong> the Central Reserve Police is a combat-trained paramilitary force that has been used against demonstrators and sanctioned by the US for human rights abuses<br>
 
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
@@ -713,7 +703,7 @@ Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Suppo
 <strong>note:</strong> many defense expenditures are probably off-budget<br>
 
 **Military and security service personnel strengths**<br>
-estimates vary widely; up to 200,000 SAF personnel; up to 100,000 Rapid Support Forces (2023)<br>
+estimates vary widely; up to 200,000 SAF personnel; the strength of the RSF ranges from a low of about 30,000 members to as many as 100,000&nbsp; (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, and domestically produced weapons systems; in recent years, Russia has been the leading arms provider; Sudan has one of the largest defense industries in Africa, which includes state-owned companies with military involvement; it mostly manufactures weapons systems under license from China, Russia, Turkey, and Ukraine (2022)<br>
@@ -740,6 +730,6 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; Harakat Sawa’d Misr<br
 <p><em>Sudan-Central African Republic</em>: periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights; Sudan closed its border with the Central African Republic in January 2022 due to security concerns</p> <p><em>Sudan-Chad</em>: Chad wants to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; however, since the August 2020 Juba Peace Agreement between the Sudanese Government and the Sudanese Revolutionary Front and the termination of the UN’s peacekeeping mission, UNAMID, at the end of 2020, violence continues to break out over land and water access</p> <p><em>Sudan-Egypt</em>: Sudan claims, but Egypt de facto administers, security and economic development of the Halaib region north of the 22nd parallel boundary</p> <p><em>Sudan-Eritrea</em>: none identified</p> <p><em>Sudan-Ethiopia</em>: civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; clashes continue between Sudan and Ethiopia over al-Fashaga, a fertile piece of land inhabited by Ethiopian farmers for years until the Sudanese army expelled them in December 2020, claiming the land belonged to Sudan based on colonial-era maps from over 100 years ago; in February, 2022, the two countries were discussing resuming talks over the border conflict</p> <p><em>Sudan-Libya</em>: none identified</p> <p><em>Sudan-South Sudan</em>: the South Sudan-Sudan boundary represents 1 January 1956 alignment, final alignment pending negotiations and demarcation; final sovereignty status of Abyei area pending negotiations between South Sudan and Sudan; clashes continue in the oil-rich Abyei region; the United Nations Interim Security Force for Abyei (UNISFA) has been deployed since 2011, when South Sudan became independent; the United Nations Interim Security Force for Abyei (UNISFA) has condemned renewed clashes on 23 September 2022 between the Twik and Ngok Dinka communities taking place in Agok, 28 kilometres from Abyei town</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 802,748 (South Sudan) (refugees and asylum seekers), 136,466 (Eritrea) (refugees and asylum seekers), 93,477 (Syria) (refugees and asylum seekers), 71,658 (Ethiopia) (refugees and asylum seekers), 24,369 (Central African Republic) (2023)<br>
+_refugees (country of origin)_: 808,336 (South Sudan) (refugees and asylum seekers), 136,466 (Eritrea) (refugees and asylum seekers), 93,477 (Syria) (refugees and asylum seekers), 71,658 (Ethiopia) (refugees and asylum seekers), 24,369 (Central African Republic) (2023)<br>
 _IDPs_: 3.71 million (civil war 1983-2005; ongoing conflict in Darfur region; government and rebel fighting along South Sudan border; inter-tribal clashes) (2022)<br>
 

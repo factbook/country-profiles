@@ -179,9 +179,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.9% (2021 est.)<br>
-
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
 
@@ -368,7 +365,7 @@ _selected World Heritage Site locales_: Historic Bridgetown and its Garrison<br>
 ## Economy
 
 **Economic overview**<br>
-import-driven economy; dependent on US trade; maintains a pegged exchange rate to the US dollar; high Human Development Index; heavy tourism; reducing government debt to improve fiscal health; launched major agricultural subsidy program to improve food security<br>
+largest Eastern Caribbean economy; dependent on US imports and currency strength; high Human Development Index; key tourism and financial sectors; declining but still very high public debt; cost-of-living and cost competitiveness vulnerabilities<br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.868 billion (2021 est.)<br>
@@ -447,11 +444,6 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
-**Remittances**<br>
-2.32% of GDP (2020 est.)<br>
-2.03% of GDP (2019 est.)<br>
-2.12% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $1.271 billion (2020 est.)<br>
 _expenditures_: $1.483 billion (2020 est.)<br>
@@ -473,25 +465,27 @@ _expenditures_: $1.483 billion (2020 est.)<br>
 -$452.39 million (2016 est.)<br>
 
 **Exports**<br>
-$2.228 billion (2017 est.)<br>
+$357 million (2021 est.)<br>
+$550 million (2017 est.)<br>
 $516.9 million (2016 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
-US 21%, Poland 14%, Jamaica 8%, Guyana 6%,Trinidad and Tobago 6% (2019)<br>
+United States 20%, Jamaica 12%, Guyana 8%, Trinidad and Tobago 7%, Italy 6% (2021)<br>
 
 **Exports - commodities**<br>
 rums and liquors, ships, packaged medicines, cement, paper labels (2021)<br>
 
 **Imports**<br>
+$2.12 billion (2021 est.)<br>
 $2.213 billion (2017 est.)<br>
 $1.541 billion (2016 est.)<br>
 
 **Imports - partners**<br>
-United States 35%, Trinidad and Tobago 14%, China 9%, Netherlands 5% (2019)<br>
+United States 33%, Guyana 13%, China 11%, Trinidad and Tobago 6%, United Kingdom 4% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, ships, cars, shipping containers, packaged medicines (2019)<br>
+refined petroleum, crude petroleum, shipping containers, cars, ships, packaged medicines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.673 billion (31 December 2021 est.)<br>
@@ -611,7 +605,6 @@ _subscriptions per 100 inhabitants_: 45 (2020 est.)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_over 3,047 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Pipelines**<br>

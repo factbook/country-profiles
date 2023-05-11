@@ -193,9 +193,6 @@ _unimproved: urban_: urban: 10.1% of population<br>
 _unimproved: rural_: rural: 33.5% of population<br>
 _unimproved: total_: total: 19.7% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.3% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
@@ -504,7 +501,7 @@ $5.714 billion (2019 est.) note: data are in current year dollars<br>
 United States 60%, El Salvador 5%, Mexico 5% (2019)<br>
 
 **Exports - commodities**<br>
-clothing and apparel, gold, insulated wiring, coffee, beef (2019)<br>
+clothing and apparel, gold, insulated wiring, coffee, beef, cigars (2021)<br>
 
 **Imports**<br>
 $8.306 billion (2021 est.) note: data are in current year dollars<br>
@@ -640,17 +637,11 @@ YN<br>
 
 **Airports - with paved runways**<br>
 _total_: 12<br>
-_2,438 to 3,047 m_: 3<br>
-_1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 3<br>
-_under 914 m_: 4 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 135<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 15<br>
-_under 914 m_: 119 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
 54 km oil (2013)<br>
@@ -677,11 +668,11 @@ Army of Nicaragua (Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); N
 <strong>note:</strong> both the military and the police report directly to the president<br>
 
 **Military expenditures**<br>
+0.5% of GDP (2022 est.)<br>
 0.6% of GDP (2021 est.)<br>
 0.6% of GDP (2020 est.)<br>
-0.6% of GDP (2019)<br>
-0.6% of GDP (2018)<br>
-0.6% of GDP (2017)<br>
+0.6% of GDP (2019 est.)<br>
+0.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2022)<br>

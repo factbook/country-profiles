@@ -192,9 +192,6 @@ _unimproved: urban_: urban: 4.9% of population<br>
 _unimproved: rural_: rural: 14.3% of population<br>
 _unimproved: total_: total: 12.3% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.1% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
@@ -349,16 +346,16 @@ _residency requirement for naturalization_: 15 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Ram Chandra POUDEL (since 13 March 2023); Vice President Nanda Bahadar PUN (since 31 October 2015)<br>
-_head of government_: Prime Minister Sher Bahadur DEUBA (since 13 July 2021); deputy prime ministers Ishwar POKHREL, Upendra YADAV (since 1 June 2018) (an)<br>
-_cabinet_: Council of Ministers appointed by the prime minister; cabinet dominated by the Nepal Communist Party<br>
-_elections/appointments_: president indirectly elected by an electoral college of the Federal Parliament and of the state assemblies for a 5-year term (eligible for a second term); election last held 13 March 2018 (next to be held in 2023); prime minister indirectly elected by the Federal Parliament<br>
-_election results_: Bidhya Devi BHANDARI reelected president; electoral vote - Bidhya Devi BHANDARI (CPN-UML) 39,275, Kumari Laxmi RAI (NC) 11,730<br>
+_chief of state_: President Ram Chandra POUDEL (since 13 March 2023); Vice President Ram Sahaya Prasad YADAV (since 31 March 2023)<br>
+_head of government_: Prime Minister Pushpa Kamal DAHAL (since 26 December 2022); deputy prime ministers Narayan Kaji SHRESTHA (since 26 December 2022), Purna Bahadur KHADKA (since 31 March 2023) (an)<br>
+_cabinet_: Council of Ministers appointed by the prime minister; cabinet split between Nepali Congress, Communist Party of Nepal-Maoist Centre, and various coalition partners<br>
+_elections/appointments_: president indirectly elected by an electoral college of the Federal Parliament and of the state assemblies for a 5-year term (eligible for a second term); election last held on 9 March 2023 (next to be held in 2028); prime minister indirectly elected by the Federal Parliament<br>
+_election results_: Ram Chandra POUDEL elected president; electoral vote - Ram Chandra POUDEL (NC) 33,802, Subash Chandra NEMBANG (CPN-UML) 15,518<br>
 
 **Legislative branch**<br>
 _description_: bicameral Federal Parliament consists of:<br>National Assembly (59 seats; 56 members, including at least 3 women, 1 Dalit, 1 member with disabilities, or 1 minority indirectly elected by an electoral college of state and municipal government leaders, and 3 members, including 1 woman, nominated by the president of Nepal on the recommendation of the government; members serve 6-year terms with renewal of one-third of the membership every 2 years)<br>House of Representatives (275 seats; 165 members directly elected in single-seat constituencies by simple majority vote and 110 members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a threshold of 3% overall valid vote to be allocated a seat; members serve 5-year terms); note - the House of Representatives was dissolved on 22 May 2021, but on 13 July, the Supreme Court directed its reinstatement<br>
 _elections_: <br>2022: National Assembly - last held on 26 January 2022 (next to be held in 2024)<br><br>2022: House of Representatives - last held on 20 November 2022 (next to be held in November 2027)<br>2017: House of Representatives held on 26 November and 7 December 2017<br>
-_election results_: <br>2022: National Assembly - percent of vote by party - NA; seats by party - NCP 42, NC 13, FSFN 2, RJPN 2; composition - men 37, women 22, percent of women 37.3%<br>2022: House of Representatives - percent of vote by party - NA; seats by party - NC 89, NCP 78, CPN-MC 32, RSP 20, RPP 14, PSP-N 12, CPN (Unified Socialist) 10, Janamat Party 6, Loktantrik Samajwadi Party 4,<br>other 10; composition - NA<br>2017: House of Representatives - percent of vote by party - NA; seats by party - NCP 174, NC 63, RJPN 17, FSFN 16, vacant 4, independent 1; composition - men 180, women 91, percent of women 33.6%; note - total Federal Parliament percent of women 33.8%<br>
+_election results_: <br>2022: National Assembly - percent of vote by party - NA; seats by party - CPN-UML 42, NC 13, FSFN 2, RJPN 2; composition - men 37, women 22, percent of women 37.3%<br>2022: House of Representatives - percent of vote by party - NA; seats by party - NC 89, CPN-UML 78, CPN-MC 32, RSP 20, RPP 14, PSP-N 12, CPN (Unified Socialist) 10, Janamat Party 6, Loktantrik Samajwadi Party 4,<br>other 10; composition - men 184, women 91, percent of women 33.1%<br>2017: House of Representatives - percent of vote by party - NA; seats by party - NCP 174, NC 63, RJPN 17, FSFN 16, vacant 4, independent 1; composition - men 180, women 91, percent of women 33.6%; note - total Federal Parliament percent of women 33.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and up to 20 judges)<br>
@@ -366,7 +363,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: High Court; district courts<br>
 
 **Political parties and leaders**<br>
-<p><br>Federal Socialist Forum, Nepal or FSFN [Upendra YADAV]<br>Communist Party of Nepal (Maoist Centre) or CPN-UMC [Pushpa Kamal DAHAL]<br>Communist Party of Nepal (Unified Socialist) [Madhav Kumar NEPAL]<br>Janamat Party [Chandra Kant RAUT]<br>Loktantrik Samajwadi Party [Mahantha THAKUR]<br>Naya Shakti Party, Nepal [Baburam BHATTARAI]<br>Nepal Communist Party or CPN-UML [Khadga Prasad OLI]<br>Nepali Congress or NC [Sher Bahadur DEUBA]<br>Nepal Mazdoor Kisan Party (Nepal Workers' and Peasants' Party) or NWPP [Narayan Man BIJUKCHHE]<br>People's Socialist Party [Upendra YAKAV]<br>Rastriya Janamorcha (National People's Front) [Chitra Bahadur K.C.]<br>Rastriya Janata Party (National People's Party, Nepal) or RJPN [Mahanta THAKUR]<br>Rastriya Prajatantra Party (National Democratic Party) or RPP [Rajendra Prasad LINGDEN]<br>Rastriya Swatantra Party or RSP [Rabi LAMICHHANE]</p><br>
+<p><br>Federal Socialist Forum, Nepal or FSFN [Upendra YADAV]<br>Communist Party of Nepal (Maoist Centre) or CPN-MC [Pushpa Kamal DAHAL]<br>Communist Party of Nepal (Unified Marxist-Leninist) or CPN-UML [Khadga Prasad OLI]<br>Communist Party of Nepal (Unified Socialist) or CPN-US [Madhav Kumar NEPAL]<br>Janamat Party [Chandra Kant RAUT]<br>Loktantrik Samajwadi Party [Mahantha THAKUR]<br>Naya Shakti Party, Nepal [Baburam BHATTARAI]<br>Nepali Congress or NC [Sher Bahadur DEUBA]<br>Nepal Mazdoor Kisan Party (Nepal Workers' and Peasants' Party) or NWPP [Narayan Man BIJUKCHHE]<br>People's Socialist Party [Upendra YAKAV]<br>Rastriya Janamorcha (National People's Front) [Chitra Bahadur K.C.]<br>Rastriya Janata Party (National People's Party, Nepal) or RJPN [Mahanta THAKUR]<br>Rastriya Prajatantra Party (National Democratic Party) or RPP [Rajendra Prasad LINGDEN]<br>Rastriya Swatantra Party or RSP [Rabi LAMICHHANE]</p><br>
 
 **International organization participation**<br>
 ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -515,7 +512,7 @@ $2.726 billion (2019 est.) note: data are in current year dollars<br>
 India 68%, United States 10% (2019)<br>
 
 **Exports - commodities**<br>
-palm oil, clothing and apparel, carpets, soybean oil, flavored water (2019)<br>
+soybean oil, palm oil, clothing and apparel, carpets, nutmeg (2021)<br>
 
 **Imports**<br>
 $16.993 billion (2021 est.) note: data are in current year dollars<br>
@@ -653,17 +650,11 @@ _annual freight traffic on registered air carriers_: 4.66 million (2018) mt-km<b
 
 **Airports - with paved runways**<br>
 _total_: 11<br>
-_over 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 3<br>
-_914 to 1,523 m_: 6<br>
-_under 914 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 36<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 6<br>
-_under 914 m_: 29 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Railways**<br>
 _total_: 59 km (2018)<br>

@@ -156,9 +156,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 

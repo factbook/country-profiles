@@ -176,9 +176,6 @@ _unimproved: urban_: urban: 0.2% of population<br>
 _unimproved: rural_: rural: 1% of population<br>
 _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Obesity - adult prevalence rate**<br>
 55.3% (2016)<br>
 
@@ -330,7 +327,7 @@ _email address and website_: <br>info@palauembassy.org<br><br>https://www.palaue
 _consulate(s)_: Tamuning (Guam)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador John HENNESSEY-NILAND (since 6 March 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires James BOUGHNER (since September 2022)<br>
 _embassy_: Omsangel/Beklelachieb, Airai 96940<br>
 _mailing address_: 4260 Koror Place, Washington, DC&nbsp; 20521-4260<br>
 _telephone_: [680] 587-2920<br>
@@ -536,12 +533,11 @@ T8<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_1,524 to 2,437 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
-_1,524 to 2,437 m_: 2 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>
 _total_: 125 km (2018)<br>

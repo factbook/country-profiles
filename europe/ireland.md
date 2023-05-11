@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Celtic tribes arrived on the island between 600 and 150 B.C. Invasions by Norsemen that began in the late 8th century were finally ended when King Brian BORU defeated the Danes in 1014. Norman invasions began in the 12th century and set off more than seven centuries of Anglo-Irish struggle marked by fierce rebellions and harsh repressions. The Irish famine of the mid-19th century was responsible for a drop in the island's population by more than one quarter through starvation, disease, and emigration. For more than a century afterward, the population of the island continued to fall only to begin growing again in the 1960s. Over the last 50 years, Ireland's high birthrate has made it demographically one of the youngest populations in the EU.</p> <p>The modern Irish state traces its origins to the failed 1916 Easter Monday Uprising that galvanized nationalist sentiment and fostered a guerrilla war resulting in independence from the UK in 1921 with the signing of the Anglo-Irish Treaty and the creation of the Irish Free State. The treaty was deeply controversial in Ireland in part because it helped solidify the partition of Ireland, with six of the island's 32 counties remaining in the UK as Northern Ireland. The split between pro-Treaty and anti-Treaty partisans led to the Irish Civil War (1922-23). The traditionally dominant political parties in Ireland, Fine Gael and Fianna Fail, are de facto descendants of the opposing sides of the treaty debate. Ireland formally left the British Dominion in 1949 when Ireland declared itself a republic.<br><br>Deep sectarian divides between the Catholic and Protestant populations and systemic discrimination in Northern Ireland erupted into years of violence known as the "Troubles" that began in the 1960s. In 1998, the governments of Ireland and the UK, along with most political parties in Northern Ireland, reached the Belfast/Good Friday Agreement with the support of the US. This agreement helped end the Troubles and initiated a new phase of cooperation between the Irish and British Governments. <br><br>Ireland was neutral in World War II and continues its policy of military neutrality. Ireland joined the European Community in 1973 and the euro-zone currency union in 1999. The economic boom years of the Celtic Tiger (1995-2007) saw rapid economic growth, which came to an abrupt end in 2008 with the meltdown of the Irish banking system. As a small, open economy, Ireland has excelled at courting foreign direct investment, especially from US multi-nationals, which helped the economy recover from the financial crisis and insolated it from the economic shocks of the COVID-19 pandemic.</p><br>
+<p>Celtic tribes arrived on the island between 600 and 150 B.C. Invasions by Norsemen that began in the late 8th century were finally ended when King Brian BORU defeated the Danes in 1014. Norman invasions began in the 12th century and set off more than seven centuries of Anglo-Irish struggle marked by fierce rebellions and harsh repressions. The Irish famine of the mid-19th century was responsible for a drop in the island's population by more than one quarter through starvation, disease, and emigration. For more than a century afterward, the population of the island continued to fall, only to begin growing again in the 1960s. Over the last 50 years, Ireland's high birthrate has made it demographically one of the youngest populations in the EU.</p> <p>The modern Irish state traces its origins to the failed 1916 Easter Monday Uprising that galvanized nationalist sentiment and fostered a guerrilla war resulting in independence from the UK in 1921 with the signing of the Anglo-Irish Treaty and the creation of the Irish Free State. The treaty was deeply controversial in Ireland, in part because it helped solidify the partition of Ireland, with six of the island's 32 counties remaining in the UK as Northern Ireland. The split between pro-Treaty and anti-Treaty partisans led to the Irish Civil War (1922-23). The traditionally dominant political parties in Ireland, Fine Gael and Fianna Fail, are de facto descendants of the opposing sides of the treaty debate. Ireland formally left the British Dominion in 1949 when Ireland declared itself a republic.<br><br>Deep sectarian divides between the Catholic and Protestant populations and systemic discrimination in Northern Ireland erupted into years of violence known as the "Troubles" that began in the 1960s. In 1998, the governments of Ireland and the UK, along with most political parties in Northern Ireland, reached the Belfast/Good Friday Agreement with the support of the US. This agreement helped end the Troubles and initiated a new phase of cooperation between the Irish and British Governments. <br><br>Ireland was neutral in World War II and continues its policy of military neutrality. Ireland joined the European Community in 1973 and the euro-zone currency union in 1999. The economic boom years of the Celtic Tiger (1995-2007) saw rapid economic growth, which came to an abrupt end in 2008 with the meltdown of the Irish banking system. As a small, open economy, Ireland has excelled at courting foreign direct investment, especially from US multi-nationals, which helped the economy recover from the financial crisis and insulated it somewhat from the economic shocks of the COVID-19 pandemic.</p><br>
 
 ## Geography
 
@@ -184,9 +184,6 @@ _unimproved: urban_: urban: 2.2% of population<br>
 _unimproved: rural_: rural: 0.9% of population<br>
 _unimproved: total_: total: 1.7% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.3% (2021 est.)<br>
-
 **Obesity - adult prevalence rate**<br>
 25.3% (2016)<br>
 
@@ -330,8 +327,8 @@ _election results_: <em>2018:</em> Michael D. HIGGINS reelected president; perce
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Oireachtas consists of:<br>Senate or Seanad Eireann (60 seats; 49 members indirectly elected from 5 vocational panels of nominees by an electoral college, 11 appointed by the prime minister<br>House of Representatives or Dail Eireann (160 seats; members directly elected in multi-seat constituencies by proportional representation vote; all Parliament members serve 5-year terms)<br>
-_elections_: <br>Senate - last held early on 21-30 May 2020 (next to be held in March 2025)<br>House of Representatives - last held on 8 February 2020 (next to be held no later than 2025)<br>
-_election results_: <strong> </strong><br>Senate - percent of vote by party - Fianna Fail 35%, Fine Gael 26.7%, Labor Party 6.7%, Sinn Fein 6.7%, Green Party 6.7%<strong>,</strong> Human Dignity Alliance 1.6%, independent 16.7%; seats by party - Fianna Fail 21, Fine Gael 16, Labor Party 4, Sinn Fein 4, Green Party 4<strong>,</strong> Human Dignity Alliance 1, independent 10; composition - men 36, women 24, percent of women 40%  <br>House of Representatives - percent of vote by party - Sinn Fein 22.6%, Fianna Fail 22.6%, Fine Gael 20.7%, Green Party 6.3%, Labor Party 4.5%, Social Democrats 3.8%, PBPS 3.2%, Aontu 0.6%, Right to Change 0.6%, independent 15%; seats by party - Sinn Fein 36, Fianna Fail 36, Fine Gael 33, Green Party 10, Labor Party 7, Social Democrats 6, PBPS 5, Aontu l, Right to Change 1, Independents 24; composition as of March 2022 - men 123, women 37, percent of women 23.1%; note - total Parliament percent of women 27.7%<br>
+_elections_: <br>Senate - last held early on 21-30 May 2020 (next to be held in March 2025)<br>House of Representatives - last held on 8 February 2020 (next to be held no later than March 2025)<br>
+_election results_: <strong> </strong><br>Senate - percent of vote by party - Fianna Fail 35%, Fine Gael 26.7%, Labor Party 6.7%, Sinn Fein 6.7%, Green Party 6.7%<strong>,</strong> Human Dignity Alliance 1.6%, independent 16.7%; seats by party - Fianna Fail 21, Fine Gael 16, Labor Party 4, Sinn Fein 4, Green Party 4<strong>,</strong> Human Dignity Alliance 1, independent 10; composition - men 36, women 24, percent of women 40%  <br>House of Representatives - percent of vote by party - Fianna Fail 23.8%, Sinn Fein 23.1%, Fine Gael 21.9%, Green Party 7.5%, Labor Party 3.8%, Social Democrats 3.8%, PBPS 3.2%, Aontu 0.6%, Right to Change 0.6%, independent 11.9%; seats by party - Fianna Fail 38, Sinn Fein 37, Fine Gael 35, Green Party 12, Labor Party 6, Social Democrats 6, PBPS 5, Aontu l, Right to Change 1, Independents 24; composition as of March 2022 - men 123, women 37, percent of women 23.1%; note - total Parliament percent of women 27.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members - the presidents of the High Court and Court of Appeal - and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law)<br>
@@ -339,7 +336,7 @@ _judge selection and term of office_: judges nominated by the prime minister and
 _subordinate courts_: High Court, Court of Appeal; circuit and district courts; criminal courts<br>
 
 **Political parties and leaders**<br>
-Aontu [Peadar TOIBIN]<br>Solidarity-People Before Profit or PBPS [collective leadership]<br>Fianna Fail [Micheal MARTIN]<br>Fine Gael [Leo VARADKAR]<br>Green Party [Eamon RYAN]<br>Human Dignity Alliance [Ronan MULLEN]<br>Labor (Labour) Party Ivana BACIK]<br>Renua Ireland (vacant)<br>Right to Change or RTC [Joan COLLINS]<br>Sinn Fein [Mary Lou McDONALD]<br>Social Democrats [Catherine MURPHY, Roisin SHORTALL]<br>Socialist Party [collective leadership]<br>The Workers' Party [collective leadership]<br>
+Aontu [Peadar TOIBIN]<br>Solidarity-People Before Profit or PBPS [collective leadership]<br>Fianna Fail [Micheal MARTIN]<br>Fine Gael [Leo VARADKAR]<br>Green Party [Eamon RYAN]<br>Human Dignity Alliance [Ronan MULLEN]<br>Labor (Labour) Party Ivana BACIK]<br>Renua Ireland (vacant)<br>Right to Change or RTC [Joan COLLINS]<br>Sinn Fein [Mary Lou McDONALD]<br>Social Democrats [Holly CAIRNS]<br>Socialist Party [collective leadership]<br>The Workers' Party [collective leadership]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNOCI, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -465,11 +462,6 @@ _on alcohol and tobacco_: 5.8% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.9%<br>
 _highest 10%_: 27.2% (2000)<br>
-
-**Remittances**<br>
-0.04% of GDP (2021 est.)<br>
-0.06% of GDP (2020 est.)<br>
-0.15% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $99.784 billion (2019 est.)<br>
@@ -640,18 +632,11 @@ EI<br>
 
 **Airports - with paved runways**<br>
 _total_: 16<br>
-_over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 4<br>
-_914 to 1,523 m_: 5<br>
-_under 914 m_: 5 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 24<br>
-_2,438 to 3,047 m_: 1<br>
-_914 to 1,523 m_: 2<br>
-_under 914 m_: 21 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
 2,427 km gas (2017)<br>
@@ -702,7 +687,7 @@ the Irish Defense Forces have a small inventory of imported weapons systems from
 130 Golan Heights (UNDOF); 320 Lebanon (UNIFIL) (May 2022)<br>
 
 **Military - note**<br>
-<p>the Irish Defense Forces trace their origins back to the Irish Volunteers, a unit established in 1913; the Irish Volunteers took part in the 1916 Easter Rising and the Irish War of Independence, 1919-1921</p> <p>Ireland has a long-standing policy of military neutrality; however, it participates in international peacekeeping and humanitarian operations, as well as crisis management; Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO but has a relationship going back to 1997 when it deployed personnel in support of the NATO-led peacekeeping operations in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; Ireland has been an active participatant in UN peacekeeping operations since the 1950s</p><br>
+<p>the Irish Defense Forces trace their origins back to the Irish Volunteers, a unit established in 1913; the Irish Volunteers took part in the 1916 Easter Rising and the Irish War of Independence, 1919-1921</p> <p>Ireland has a long-standing policy of military neutrality; however, it participates in international peacekeeping and humanitarian operations, as well as crisis management; Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO but has a relationship going back to 1997 when it deployed personnel in support of the NATO-led peacekeeping operations in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; Ireland has been an active participatant in UN peacekeeping operations since the 1950s</p> (2023)<br>
 
 ## Terrorism
 
@@ -716,7 +701,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 80,540 (Ukraine) (as of 9 April 2023)<br>
+_refugees (country of origin)_: 81,769 (Ukraine) (as of 21 April 2023)<br>
 _stateless persons_: 7 (2022)<br>
 
 **Illicit drugs**<br>

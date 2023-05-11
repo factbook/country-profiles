@@ -190,9 +190,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.2% (2021 est.)<br>
-
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>
 
@@ -479,11 +476,6 @@ _on alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.3%<br>
 _highest 10%_: 26.8% (2000)<br>
 
-**Remittances**<br>
-0.49% of GDP (2021 est.)<br>
-0.51% of GDP (2020 est.)<br>
-0.52% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $901.494 billion (2020 est.)<br>
 _expenditures_: $1.08 trillion (2020 est.)<br>
@@ -652,18 +644,11 @@ I<br>
 
 **Airports - with paved runways**<br>
 _total_: 98<br>
-_over 3,047 m_: 9<br>
-_2,438 to 3,047 m_: 31<br>
-_1,524 to 2,437 m_: 18<br>
-_914 to 1,523 m_: 29<br>
-_under 914 m_: 11 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 31<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 10<br>
-_under 914 m_: 20 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 5 (2021)<br>
@@ -737,9 +722,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 173,213 (Ukraine) (as of 17 March 2023)<br>
+_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 175,107 (Ukraine) (as of 21 April 2023)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 732,860 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
+<strong>note:</strong> 738,456 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

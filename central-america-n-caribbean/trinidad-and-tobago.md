@@ -184,9 +184,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-1% (2021 est.)<br>
-
 **Obesity - adult prevalence rate**<br>
 18.6% (2016)<br>
 
@@ -361,7 +358,7 @@ _lyrics/music_: Patrick Stanislaus CASTAGNE<br>
 ## Economy
 
 **Economic overview**<br>
-high-income Caribbean island economy; predominantly driven by oil and gas (80% of exports); growing Venezuelan relations threaten US support; growing tourism; key regional finance hub; rising drug-related crime; high public debt; systemic corruption<br>
+high-income Caribbean economy; major hydrocarbon exporter; key tourism and finance sectors; high inflation and growing public debt; long foreign currency access delays; large foreign reserves and sovereign wealth fund<br>
 
 **Real GDP (purchasing power parity)**<br>
 $35.147 billion (2021 est.)<br>
@@ -468,10 +465,10 @@ $6.44 billion (2020 est.) note: data are in current year dollars<br>
 $9.566 billion (2019 est.)<br>
 
 **Exports - partners**<br>
-United States 33%, Guyana 9%, Spain 6%, China 6% (2019)<br>
+United States 37%, Guyana 6%, China 5%, Mexico 4%, Belgium 4% (2021)<br>
 
 **Exports - commodities**<br>
-natural gas, industrial alcohols, crude petroleum, ammonia, iron products, refined petroleum (2019)<br>
+ammonia, industrial alcohols, natural gas, crude petroleum, iron products, fertilizers, refined petroleum (2021)<br>
 
 **Imports**<br>
 $8.592 billion (2021 est.) note: data are in current year dollars<br>
@@ -479,10 +476,10 @@ $6.785 billion (2020 est.) note: data are in current year dollars<br>
 $7.96 billion (2019 est.)<br>
 
 **Imports - partners**<br>
-United States 40%, Guyana 19%, China 6% (2019)<br>
+United States 37%, China 9%, Mexico 6%, Brazil 5%, Canada 4% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, excavation machinery, shipping containers, iron, cars (2019)<br>
+refined petroleum, iron, excavation machinery, ships, cars (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $6.88 billion (31 December 2021 est.)<br>
@@ -604,14 +601,11 @@ _annual freight traffic on registered air carriers_: 41.14 million (2018) mt-km<
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
-_over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
-_914 to 1,523 m_: 1<br>
-_under 914 m_: 1 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
 257 km condensate, 11 km condensate/gas, 1,567 km gas, 587 km oil (2013)<br>
@@ -632,11 +626,11 @@ Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago 
 <strong>note:</strong> the Ministry of National Security oversees defense, immigration, and the police<br>
 
 **Military expenditures**<br>
+1.1% of GDP (2022 est.)<br>
 1% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
 1% of GDP (2019 est.)<br>
 1% of GDP (2018 est.)<br>
-1.3% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,500 TTDF personnel (2022)<br>

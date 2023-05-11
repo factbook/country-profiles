@@ -179,9 +179,6 @@ _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 _improved: total_: total: 91.7% of population<br>
 _unimproved: total_: total: 8.1% of population (2017 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>
 
@@ -309,9 +306,9 @@ _cabinet_: Council of Ministers appointed by the governor general on the advice 
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (17 seats; members appointed by the governor general)<br>House of Representatives (17 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br>Senate - last appointed on 26 March 2018 (next NA)<br>House of Representatives - last held on 18 January 2023 (next to be held in March 2028)<br>
-_election results_: <br>Senate -  composition - men 8, women 9, percent of women 52.9%<br>House of Representatives - percent of vote by party - ABLP 47.1%, UPP 45.2%, BPM 1.5%, independents 5.2% ; seats by party - ABLP 9, UPP 6, BPM 1, independents 1; composition - men 16, women 2, percent of women 11.1%; note - total Parliament percent of women 31.4%<br>
+_description_: bicameral Parliament consists of:<br>Senate (17 seats; members appointed by the governor general)<br>House of Representatives (17 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms; in addition, 1 ex-officio seat is allocated for the attorney general and 1 seat for the speaker of the House - elected by the House membership following its first post-election session)<br>
+_elections_: <br>Senate - last appointed on 17 February 2023 (next appointments in 2028)<br>House of Representatives - last held on 18 January 2023 (next to be held in March 2028)<br>
+_election results_: <br>Senate - composition - men 10, women 7, percent of women 41.1%<br>House of Representatives - percent of vote by party - ABLP 47.1%, UPP 45.2%, BPM 1.5%, independent 5.2%; seats by party - ABLP 9, UPP 6, BPM 1, independent 1; composition - men 16, women 1, percent of women 5.9%; note - total Parliament percent of women 23.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Antigua and Barbuda<br>
@@ -333,7 +330,7 @@ _email address and website_: <br>embantbar@aol.com<br>
 _consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: the US does not have an embassy in Antigua and Barbuda; the US Ambassador to Barbados is accredited to Antigua and Barbuda; [1] (246) 227-4000<br>
+_embassy_: the US does not have an embassy in Dominica; the US Ambassador to Barbados Linda S. TAGLIALATELA is accredited to Dominica<br>
 
 **Flag description**<br>
 red, with an inverted isosceles triangle based on the top edge of the flag; the triangle contains three horizontal bands of black (top), light blue, and white, with a yellow rising sun in the black band; the sun symbolizes the dawn of a new era, black represents the African heritage of most of the population, blue is for hope, and red is for the dynamism of the people; the "V" stands for victory; the successive yellow, blue, and white coloring is also meant to evoke the country's tourist attractions of sun, sea, and sand<br>
@@ -420,11 +417,6 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
-**Remittances**<br>
-3.41% of GDP (2021 est.)<br>
-2.65% of GDP (2020 est.)<br>
-2.19% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $278 million (2020 est.)<br>
 _expenditures_: $357 million (2020 est.)<br>
@@ -454,7 +446,7 @@ $1.196 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
-Poland 37%, Suriname 33%, United Arab Emirates 8% (2019)<br>
+Suriname 20%, Barbados 17%, Poland 12%, United Kingdom 10%, France 7% (2021)<br>
 
 **Exports - commodities**<br>
 refined petroleum, ships, gas turbines, aircraft parts, lobster, durum wheat (2021)<br>
@@ -465,10 +457,10 @@ $737.693 million (2020 est.)<br>
 $1.18 billion (2019 est.)<br>
 
 **Imports - partners**<br>
-United States 39%, Poland 16%, China 7% (2019)<br>
+United States 42%, Poland 25%, China 10%, Brazil 3%, Trinidad and Tobago 2% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, ships, cars, precious/semi-precious metals, recreational boats (2019)<br>
+refined petroleum, ships, recreational boats, cars, poultry&nbsp; (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $367.512 million (31 December 2021 est.)<br>
@@ -593,13 +585,11 @@ V2<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
-_2,438 to 3,047 m_: 1<br>
-_under 914 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1<br>
-_under 914 m_: 1 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>
 _total_: 1,170 km (2011)<br>

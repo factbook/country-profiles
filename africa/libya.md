@@ -194,9 +194,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.7% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.2% (2021 est.)<br>
-
 **Obesity - adult prevalence rate**<br>
 32.5% (2016)<br>
 
@@ -354,7 +351,7 @@ _FAX_: [1] (202) 944-9606<br>
 _email address and website_: <br>info@embassyoflibyadc.com<br><br>https://www.embassyoflibyadc.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Richard B. NORLAND (since 22 August 2019)<br>
+_chief of mission_: Ambassador (vacant); Charge d'affaires Leslie T. ORDEMAN (since 7 September 2022)<br>
 _embassy_: operations suspended<br>
 _mailing address_: 8850 Tripoli Place, Washington, DC&nbsp; 20521-8850<br>
 _telephone_: [216] 71-107-000<br>
@@ -452,11 +449,6 @@ _female_: 73.8% (2021 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
-**Remittances**<br>
-0% of GDP (2019 est.)<br>
-0% of GDP (2018 est.)<br>
-0% of GDP (2017 est.)<br>
-
 **Budget**<br>
 _revenues_: $28.005 billion (2019 est.)<br>
 _expenditures_: $37.475 billion (2019 est.)<br>
@@ -488,7 +480,7 @@ $29.964 billion (2018 est.)<br>
 Italy 18%, China 16%, Germany 15%, Spain 15%, United Arab Emirates 6%, France 6%, United States 5% (2019)<br>
 
 **Exports - commodities**<br>
-crude petroleum, natural gas, gold, refined petroleum, scrap iron (2019)<br>
+crude petroleum, natural gas, refined petroleum, scrap iron, gold (2021)<br>
 
 **Imports**<br>
 $14.334 billion (2020 est.) note: data are in current year dollars<br>
@@ -623,20 +615,11 @@ _annual passenger traffic on registered air carriers_: 927,153 (2018)<br>
 
 **Airports - with paved runways**<br>
 _total_: 68<br>
-_over 3,047 m_: 23<br>
-_2,438 to 3,047 m_: 7<br>
-_1,524 to 2,437 m_: 30<br>
-_914 to 1,523 m_: 7<br>
-_under 914 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 78<br>
-_over 3,047 m_: 2<br>
-_2,438 to 3,047 m_: 5<br>
-_1,524 to 2,437 m_: 14<br>
-_914 to 1,523 m_: 37<br>
-_under 914 m_: 20 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 2 (2021)<br>

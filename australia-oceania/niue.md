@@ -160,9 +160,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 4.5% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Obesity - adult prevalence rate**<br>
 50% (2016)<br>
 
@@ -262,7 +259,7 @@ _election results_: Dalton TAGELAGI elected premier; Legislative Assembly vote -
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Fono Ekepule (20 seats; 14 members directly elected in single-seat constituencies by simple majority vote and 6 directly elected from the National Register or "common roll" by majority vote; members serve 3-year terms)<br>
-_elections_: last held on 30 May 2020 (next to be held on 2023)<br>
+_elections_: last held on 29 April 2023 (next to be held on 2026)<br>
 _election results_: percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percent of women 15%<br>
 
 **Judicial branch**<br>
@@ -361,7 +358,7 @@ $201,400 (2004 est.)<br>
 Indonesia 92%, South Korea 5% (2019)<br>
 
 **Exports - commodities**<br>
-tanker ships, fruit juice, thermostats, textiles, measurement devices/appliances (2019)<br>
+tanker ships, collector's items, commemorative coins, fruits, nuts, juice, electrical resistors (2021)<br>
 
 **Imports**<br>
 $9.038 million (2004 est.)<br>
@@ -469,7 +466,6 @@ _percent of population_: 79.6% (2021 est.)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_1,524 to 2,437 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Roadways**<br>

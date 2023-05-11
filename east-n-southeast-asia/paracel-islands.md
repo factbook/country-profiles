@@ -109,9 +109,6 @@ _unimproved: total_: total: NA<br>
 **Current health expenditure**<br>
 NA<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -145,8 +142,7 @@ _etymology_: Portuguese navigators began to refer to the "Ilhas do Pracel" in th
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_1,524 to 2,437 m_: 1 (2021)<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+<strong>note 1:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br><strong>note 2:</strong> controlled by China<br>
 
 **Ports and terminals**<br>
 small Chinese port facilities on Woody Island and Duncan Island<br>
@@ -154,7 +150,7 @@ small Chinese port facilities on Woody Island and Duncan Island<br>
 ## Military and Security
 
 **Military - note**<br>
-occupied by China, which is assessed to maintain 20 outposts in the Paracels (Antelope, Bombay, and North reefs; Drummond, Duncan, Lincoln, Middle, Money, North, Pattle, Quanfu, Robert, South, Tree, Triton, Woody, and Yagong islands; South Sand and West Sand; Observation Bank); the outposts range in size from one or two buildings to bases with significant military infrastructure; Woody Island is the main base in the Paracels and includes an airstrip with fighter aircraft hangers, naval facilities, surveillance radars, and defenses such as surface-to-air missiles and anti-ship cruise missiles; fighter aircraft have deployed to the island (2022)<br>
+occupied by China, which is assessed to maintain 20 outposts in the Paracels (Antelope, Bombay, and North reefs; Drummond, Duncan, Lincoln, Middle, Money, North, Pattle, Quanfu, Robert, South, Tree, Triton, Woody, and Yagong islands; South Sand and West Sand; Observation Bank); the outposts range in size from one or two buildings to bases with significant military infrastructure; Woody Island is the main base in the Paracels and includes an airstrip with fighter aircraft hangers, naval facilities, surveillance radars, and defenses such as surface-to-air missiles and anti-ship cruise missiles; fighter aircraft have deployed to the island (2023)<br>
 
 ## Transnational Issues
 

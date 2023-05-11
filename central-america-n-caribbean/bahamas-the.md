@@ -169,9 +169,6 @@ _unimproved: total_: total: 1.1% of population (2017 est.)<br>
 _improved: total_: total: 98.2% of population<br>
 _unimproved: total_: total: 1.8% of population (2017 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-1.3% (2021 est.)<br>
-
 **Obesity - adult prevalence rate**<br>
 31.6% (2016)<br>
 
@@ -349,7 +346,7 @@ _lyrics/music_: Timothy GIBSON<br>
 ## Economy
 
 **Economic overview**<br>
-high-income tourism and financial services economy; strong US bilateral relations; US supplies the vast majority of imports; struggling to recover from Hurricane Dorian and COVID-19 disruptions; recently introduced special economic recovery zones<br>
+high-income tourism and financial services economy; major income inequality; strong US bilateral relations; several tax relief programs; targeted investment in agriculture, energy, light manufacturing, and technology industries<br>
 
 **Real GDP (purchasing power parity)**<br>
 $12.323 billion (2021 est.)<br>
@@ -459,7 +456,7 @@ $5.164 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
-Singapore 16%, US 16%, Poland 13%, Germany 12%, Ecuador 10% (2020)<br>
+United States 26%, Germany 16%, Singapore 13%, Poland 13%, Thailand 9% (2021)<br>
 
 **Exports - commodities**<br>
 refined petroleum, ships, aluminum, lobsters and crawfish, styrene polymers (2021)<br>
@@ -471,10 +468,10 @@ $3.411 billion (2020 est.) note: data are in current year dollars<br>
 $4.84 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-US 47%, Germany 11%, South Korea 8%, China 5%, Poland 4% (2020)<br>
+United States 37%, South Korea 12%, Germany 9%, China 7%, Russia 6% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, ships, crude petroleum, cars, aircraft (2020)<br>
+refined petroleum, ships, aircraft, crude petroleum, floating docks (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $2.433 billion (31 December 2021 est.)<br>
@@ -599,17 +596,11 @@ C6<br>
 
 **Airports - with paved runways**<br>
 _total_: 24<br>
-_over 3,047 m_: 2<br>
-_2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 13<br>
-_914 to 1,523 m_: 7 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 37<br>
-_1,524 to 2,437 m_: 4<br>
-_914 to 1,523 m_: 16<br>
-_under 914 m_: 17 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 1 (2021)<br>

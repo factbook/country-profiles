@@ -197,9 +197,6 @@ _unimproved: urban_: urban: 0.4% of population<br>
 _unimproved: rural_: rural: 9.4% of population<br>
 _unimproved: total_: total: 3.8% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.3% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
@@ -352,16 +349,16 @@ _residency requirement for naturalization_: 3 years<br>
 18 years of age; universal and compulsory until the age of 75<br>
 
 **Executive branch**<br>
-_chief of state_: President Mario ABDO BENITEZ (since 15 August 2018); Vice President Hugo Adalberto VELAZQUEZ Moreno (since 15 August 2018); note - the president is both chief of state and head of government<br>
-_head of government_: President Mario ABDO BENITEZ (since 15 August 2018); Vice President Hugo Adalberto VELAZQUEZ Moreno (since 15 August 2018)<br>
+_chief of state_: President Mario ABDO BEN&Iacute;TEZ (since 15 August 2018); Vice President Hugo Adalberto VEL&Aacute;ZQUEZ Moreno (since 15 August 2018); note - the president is both chief of state and head of government<br>
+_head of government_: President Mario ABDO BEN&Iacute;TEZ (since 15 August 2018); Vice President Hugo Adalberto VEL&Aacute;ZQUEZ Moreno (since 15 August 2018)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a single 5-year term; election last held on 22 April 2018 (next to be held in April 2023)<br>
-_election results_: <br><em>2018:</em> Mario ABDO BENITEZ elected president; percent of vote - Mario ABDO BENITEZ (ANR) 49%, Efrain ALEGRE (PLRA) 45.1%, Juan Bautista YBANEZ 3.4%, other 2.5%<br><br><em>2013:</em> Horacio CARTES elected president; percent of vote - Horacio CARTES (ANR) 48.5%, Efrain ALEGRE (PLRA) 39%, Mario FERREIRO (AP) 6.2%, Anibal CARRILLO (FG) 3.5%, other 2.8%<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a single 5-year term; election last held on 30 April 2023 (next to be held in April 2028)<br>
+_election results_: <br><em>2023: </em>Santiago PEÑA Palacios elected president; percent of vote - Santiago PEÑA Palacios (ANR) 43.9%, Efraín ALEGRE (PLRA) 28.3%, Paraguayo CUBAS Colomes 23.6%, other 4.2%; note - PEÑA will take office 15 August 2023<em><br><br>2018:</em> Mario ABDO BENÍTEZ elected president; percent of vote - Mario ABDO BENÍTEZ (ANR) 49%, Efraín ALEGRE (PLRA) 45.1%, Juan Bautista YBÁÑEZ 3.4%, other 2.5%<br><br><em>2013:</em> Horacio Manuel CARTES Jara elected president; percent of vote - Horacio Manuel CARTES Jara (ANR) 48.5%, Efraín ALEGRE (PLRA) 39%, Mario FERREIRO (AP) 6.2%, Aníbal CARRILLO (FG) 3.5%, other 2.8%<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Chamber of Senators or Camara de Senadores (45 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote to serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (80 seats; members directly elected in 18 multi-seat constituencies - corresponding to the country's 17 departments and capital city - by closed-list proportional representation vote to serve 5-year terms)<br>
-_elections_: <br>Chamber of Senators - last held on 22 April 2018 (next to be held in April 2023)<br>Chamber of Deputies - last held on 22 April 2018 (next to be held in April 2023)<br>
-_election results_: <br>Chamber of Senators - percent of vote by party/coalition - ANR 32.52%, PLRA 24.18%, FG 11.83%, PPQ 6.77%, MH 4.47%, PDP 3.66%, MCN 2.48%, UNACE 2.12%, other 11.97%; seats by party/coalition - ANR 17, PLRA 13, FG 6, PPQ 3, MH 2, PDP 2, MCN 1, UNACE 1; composition - men 38, women 7, percent of women 15.6%<br>Chamber of Deputies - percent of vote by party/coalition - ANR 39.1%, PLRA 17.74%, Ganar Alliance 12.08%, PPQ 4.46%, MH 3.19%; other 23.43%; seats by party/coalition - ANR 42, PLRA 17, Ganar Alliance 13, PPQ 3, MH 2, other 3; composition - men 66, women 14, percent of women 17.5%; note - total National Congress percent of women 16.8%<br>
+_elections_: <br>Chamber of Senators - last held on 30 April 2023 (next to be held in April 2028)<br>Chamber of Deputies - last held on 30 April 2023 (next to be held in April 2028)<br>
+_election results_: <br>Chamber of Senators - percent of vote by party/coalition - ANR 32.52%, PLRA 24.18%, FG 11.83%, PPQ 6.77%, MH 4.47%, PDP 3.66%, MCN 2.48%, UNACE 2.12%, other 11.97%; seats by party/coalition - ANR 17, PLRA 13, FG 6, PPQ 3, MH 2, PDP 2, MCN 1, UNACE 1; composition - men 38, women 7, percent of women 15.6%<br><br>Chamber of Deputies - percent of vote by party/coalition - ANR 39.1%, PLRA 17.74%, Ganar Alliance 12.08%, PPQ 4.46%, MH 3.19%; other 23.43%; seats by party/coalition - ANR 42, PLRA 17, Ganar Alliance 13, PPQ 3, MH 2, other 3; composition - men 66, women 14, percent of women 17.5%; note - total National Congress percent of women 16.8%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 justices divided 3 each into the Constitutional Court, Civil and Commercial Chamber, and Criminal Division)<br>
@@ -369,7 +366,7 @@ _judge selection and term of office_: justices proposed by the Council of Magist
 _subordinate courts_: appellate courts; first instance courts; minor courts, including justices of the peace<br>
 
 **Political parties and leaders**<br>
-Asociacion Nacional Republicana - Colorado Party or ANR [Mario ABDO BENITEZ]<br>Avanza Pais coalition or AP [Adolfo FERREIRO]<br>Broad Front coalition (Frente Guasu) or FG [Fernando Armindo LUGO Mendez]<br>GANAR Alliance (Great Renewed National Alliance) (alliance between PLRA and Guasu Front)<br>Movimiento Cruzada Nacional or MCN<br>Movimiento Hagamos or MH [Antonio "Tony" APURIL]<br>Movimiento Union Nacional de Ciudadanos Eticos or UNACE [Jorge OVIEDO MATTO]<br>Partido del Movimiento al Socialismo or P-MAS [Camilo Ernesto SOARES Machado]<br>Partido Democratica Progresista or PDP [Rafael FILIZZOLA]<br>Partido Encuentro Nacional or PEN [Fernando CAMACHO]<br>Partido Liberal Radical Autentico or PLRA [Efrain ALEGRE]<br>Partido Pais Solidario or PPS [Carlos Alberto FILIZZOLA Pallares]<br>Partido Popular Tekojoja or PPT [Sixto PEREIRA Galeano]<br>Patria Querida (Beloved Fatherland Party) or PPQ [Miguel CARRIZOSA]<br>
+Asociacion Nacional Republicana - Colorado Party or ANR [Mario ABDO BENITEZ]<br>Authentic Radical Liberal Party (Partido Liberal Radical Autentico) or PLRA [Efrain ALEGRE]<br>Avanza Pais coalition or AP [Adolfo FERREIRO]<br>Broad Front coalition (Frente Guasu) or FG [Fernando Armindo LUGO Mendez]<br>GANAR Alliance (Great Renewed National Alliance) (alliance between PLRA and Guasú Front)<br>Movimiento Cruzada Nacional or MCN<br>Movimiento Hagamos or MH [Antonio "Tony" APURIL]<br>Movimiento Union Nacional de Ciudadanos Eticos or UNACE [Jorge OVIEDO MATTO]<br>Partido del Movimiento al Socialismo or P-MAS [Camilo Ernesto SOARES Machado]<br>Partido Democratica Progresista or PDP [Rafael FILIZZOLA]<br>Partido Encuentro Nacional or PEN [Fernando CAMACHO]<br>Partido Pais Solidario or PPS [Carlos Alberto FILIZZOLA Pallares]<br>Partido Popular Tekojoja or PPT [Sixto PEREIRA Galeano]<br>Patria Querida (Beloved Fatherland Party) or PPQ [Miguel CARRIZOSA]<br>
 
 **International organization participation**<br>
 CAN (associate), CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHRC, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -663,16 +660,11 @@ ZP<br>
 
 **Airports - with paved runways**<br>
 _total_: 15<br>
-_over 3,047 m_: 3<br>
-_1,524 to 2,437 m_: 7<br>
-_914 to 1,523 m_: 5 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 784<br>
-_1,524 to 2,437 m_: 23<br>
-_914 to 1,523 m_: 290<br>
-_under 914 m_: 471 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Railways**<br>
 _total_: 30 km (2014)<br>
@@ -700,11 +692,11 @@ _river port(s)_: Asuncion, Villeta, San Antonio, Encarnacion (Parana)<br>
 Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy (Armada, includes marines), Air Force (Fuerza Aerea)<br><br>Ministry of Internal Affairs: the National Police of Paraguay includes the Special Police Operations Force (Fuerza de Operaciones Policiales Especiales<em>)</em> (2022)<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2022 est.)<br>
 1% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
-1% of GDP (2019)<br>
-1% of GDP (2018)<br>
-0.9% of GDP (2017)<br>
+1% of GDP (2019 est.)<br>
+1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 15,000 active duty personnel (10,000 Army; 3,500 Navy; 1,500 Air Force) (2022)<br>

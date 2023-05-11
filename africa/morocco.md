@@ -215,10 +215,6 @@ _unimproved: rural_: rural: 27.6% of population<br>
 _unimproved: total_: total: 11.2% of population (2020 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-(2021 est.) &lt;0.1%<br>
-<strong>note:</strong> does not include data from the former Western Sahara<br>
-
 **Obesity - adult prevalence rate**<br>
 26.1% (2016)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
@@ -521,11 +517,6 @@ _on alcohol and tobacco_: 1.4% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.7%<br>
 _highest 10%_: 33.2% (2007)<br>
 
-**Remittances**<br>
-7.49% of GDP (2021 est.)<br>
-6.11% of GDP (2020 est.)<br>
-5.4% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $30.697 billion (2019 est.)<br>
 _expenditures_: $35.591 billion (2019 est.)<br>
@@ -557,7 +548,7 @@ $44.048 billion (2019 est.) note: data are in current year dollars<br>
 Spain 23%, France 19% (2019)<br>
 
 **Exports - commodities**<br>
-cars, insulated wiring, fertilizers, phosphoric acid, clothing and apparel (2019)<br>
+cars, fertilizers, insulated wiring, phosphoric acid, clothing and apparel (2021)<br>
 
 **Imports**<br>
 $60.047 billion (2021 est.) note: data are in current year dollars<br>
@@ -696,19 +687,11 @@ CN<br>
 
 **Airports - with paved runways**<br>
 _total_: 36<br>
-_over 3,047 m_: 13<br>
-_2,438 to 3,047 m_: 12<br>
-_1,524 to 2,437 m_: 6<br>
-_914 to 1,523 m_: 4<br>
-_under 914 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 26<br>
-_2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 6<br>
-_914 to 1,523 m_: 12<br>
-_under 914 m_: 6 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 1 (2021)<br>

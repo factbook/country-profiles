@@ -202,9 +202,6 @@ _unimproved: urban_: urban: 6.4% of population<br>
 _unimproved: rural_: rural: 34.7% of population<br>
 _unimproved: total_: total: 12.6% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.4% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
@@ -685,19 +682,11 @@ OB<br>
 
 **Airports - with paved runways**<br>
 _total_: 59<br>
-_over 3,047 m_: 5<br>
-_2,438 to 3,047 m_: 21<br>
-_1,524 to 2,437 m_: 16<br>
-_914 to 1,523 m_: 12<br>
-_under 914 m_: 5 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 132<br>
-_2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 19<br>
-_914 to 1,523 m_: 30<br>
-_under 914 m_: 82 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 5 (2021)<br>
@@ -734,11 +723,11 @@ _river port(s)_: Iquitos, Pucallpa, Yurimaguas (Amazon)<br>
 Joint Command of the Armed Forces of Peru (CCFFAA): Peruvian Army (Ejercito del Peru), Peruvian Navy (Marina de Guerra del Peru, MGP, includes naval infantry and Coast Guard), Air Force of Peru (Fuerza Aerea del Peru, FAP); Ministry of the Interior (Ministerio del Interior): Peruvian National Police (Polic&iacute;a Nacional del Per&uacute;, PNP) (2022)<br>
 
 **Military expenditures**<br>
+1.1% of GDP (2022 est.)<br>
 1.1% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
-1.2% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
-1.2% of GDP (2017)<br>
+1.2% of GDP (2019 est.)<br>
+1.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 95,000 active duty personnel (60,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2022)<br>

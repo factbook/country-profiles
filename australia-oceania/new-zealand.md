@@ -193,9 +193,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-(2021 est.) <0.1%<br>
-
 **Obesity - adult prevalence rate**<br>
 30.8% (2016)<br>
 
@@ -351,7 +348,7 @@ _judge selection and term of office_: justices appointed by the governor-general
 _subordinate courts_: Court of Appeal; High Court; tribunals and authorities; district courts; specialized courts for issues related to employment, environment, family, Maori lands, youth, military; tribunals<br>
 
 **Political parties and leaders**<br>
-ACT New Zealand [David SEYMOUR]<br>Green Party [Marama DAVIDSON]<br>Mana Movement [Hone HARAWIRA] (formerly Mana Party)<br>Maori Party [Debbie NGAREWA-PACKER and Rawiri WAITITI]<br>New Zealand First Party or NZ First [Winston PETERS]<br>New Zealand Labor Party [Jacinda ARDERN]<br>New Zealand National Party [Christopher LUXON]<br>
+ACT New Zealand [David SEYMOUR]<br>Green Party [Marama DAVIDSON and James SHAW]<br>Mana Movement [Hone HARAWIRA] (formerly Mana Party)<br>Maori Party [Debbie NGAREWA-PACKER and Rawiri WAITITI]<br>New Zealand First Party or NZ First [Winston PETERS]<br>New Zealand Labor Party [Chris HIPKINS]<br>New Zealand National Party [Christopher LUXON]<br>
 
 **International organization participation**<br>
 ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OECD, OPCW, Pacific Alliance (observer), Paris Club (associate), PCA, PIF, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -511,7 +508,7 @@ $57.875 billion (2019 est.) note: data are in current year dollars<br>
 China 28%, Australia 14%, United States 9%, Japan 6% (2019)<br>
 
 **Exports - commodities**<br>
-dairy products, sheep/goat meats, lumber, beef products, fresh fruits (2019)<br>
+milk cream powders, lumber, beef, butter, mutton (2021)<br>
 
 **Imports**<br>
 $62.862 billion (2021 est.) note: data are in current year dollars<br>
@@ -647,18 +644,11 @@ ZK<br>
 
 **Airports - with paved runways**<br>
 _total_: 39<br>
-_over 3,047 m_: 2<br>
-_2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 12<br>
-_914 to 1,523 m_: 23<br>
-_under 914 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 84<br>
-_1,524 to 2,437 m_: 3<br>
-_914 to 1,523 m_: 33<br>
-_under 914 m_: 48 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
 331 km condensate, 2,500 km gas, 172 km liquid petroleum gas, 288 km oil, 198 km refined products (2018)<br>
@@ -707,7 +697,7 @@ the NZDF is equipped mostly with Western-supplied weapons and equipment with the
 up to 220 Antarctica (summer season only) (2022)<br>
 
 **Military - note**<br>
-New Zealand is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>New Zealand has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; however, the US suspended its ANZUS security obligations to New Zealand in 1986 after New Zealand implemented a policy barring nuclear-armed and nuclear-powered warships from its ports; the US and New Zealand signed the Wellington Declaration in 2010, which reaffirmed close ties between the two countries, and in 2012 signed the Washington Declaration, which provided a framework for future security cooperation and defense dialogues; in 2016, a US naval ship conducted the first bilateral warship visit to New Zealand since the 1980s <br><br>New Zealand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2023)<br>
+the NZDF is a small and professional military with considerable overseas experience; it supports the country’s national security objectives by protecting New Zealand’s sovereignty, promoting its interests, safeguarding peace and security, and conducting peacekeeping, humanitarian, and other international missions; the Army’s primary combat units are an infantry brigade and a special forces regiment; the Navy has a small force of frigates and patrol vessels, while the Air Force has squadrons of maritime patrol, anti-submarine, and anti-surface warfare aircraft <br><br>New Zealand is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>New Zealand has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; however, the US suspended its ANZUS security obligations to New Zealand in 1986 after New Zealand implemented a policy barring nuclear-armed and nuclear-powered warships from its ports; the US and New Zealand signed the Wellington Declaration in 2010, which reaffirmed close ties between the two countries, and in 2012 signed the Washington Declaration, which provided a framework for future security cooperation and defense dialogues; in 2016, a US naval ship conducted the first bilateral warship visit to New Zealand since the 1980s; New Zealand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
 
 ## Terrorism
 

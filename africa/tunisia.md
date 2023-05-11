@@ -189,9 +189,6 @@ _unimproved: urban_: urban: 1.2% of population<br>
 _unimproved: rural_: rural: 0.6% of population<br>
 _unimproved: total_: total: 1% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-(2021 est.) <0.1%<br>
-
 **Obesity - adult prevalence rate**<br>
 26.9% (2016)<br>
 
@@ -311,7 +308,7 @@ _etymology_: three possibilities exist for the derivation of the name; originall
 Independence Day, 20 March (1956); Revolution and Youth Day, 14 January (2011)<br>
 
 **Constitution**<br>
-_history_: <p>history: several previous; latest approved by Constituent Assembly 26 January 2014, signed by the president, prime minister, and Constituent Assembly speaker on 27 January 2014; note - in September 2021, President Kais SAIED issued a decree granting him certain executive, legislative, and judiciary powers, and the authority to rule by decree, but allowed continued implementation of the preamble and chapters one and two of the Constitution, which guarantee rights and freedoms; note - in a 25 July 2022 referendum, voters supported a new constitution proposed by the president</p><br>
+_history_: <p>history: several previous; latest draft submitted by government 1 July 2022, approved by referendum 25 July and adopted 27 July</p><br>
 _amendments_: proposed by the president of the republic or by one third of the Assembly of the Representatives of the People membership; following review by the Constitutional Court, approval to proceed requires an absolute majority vote by the Assembly and final passage requires a two-thirds majority vote by the Assembly; the president can opt to submit an amendment to a referendum, which requires an absolute majority of votes cast for passage<br>
 
 **Legal system**<br>
@@ -332,23 +329,24 @@ _residency requirement for naturalization_: 5 years<br>
 **Executive branch**<br>
 _chief of state_: President Kais SAIED (elected 13 October, sworn in 23 October 2019)<br>
 _head of government_: Prime Minister Najla BOUDEN Romdhane (since 11 October 2021)<br>
-_cabinet_: selected by the prime minister and approved by the Assembly of the Representatives of the People; note - on 11 October 2021, SAIED and BOUDEN appointed a new cabinet without approval by the suspended parliament<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 15 September 2019 with a runoff on 13 October 2019 (next to be held in 2024); following legislative elections, the prime minister is selected by the majority party or majority coalition and appointed by the president<br>
-_election results_: <p><em>2019:</em> percent vote in first round - Kais SAIED (independent) 18.4%, Nabil KAROUI (Heart of Tunisia) 15.6%, Abdelfattah MOUROU (Nahda Movement) 12.9%, Abdelkrim ZBIDI(independent) 10.7%,Youssef CHAHED (Long Live Tunisia) 7.4%, Safi SAID (independent) 7.1%, Lotfi MRAIHI (Republican People's Union) 6.6%, other 21.3%; percent of vote in second round - Kais SAIED elected president; Kais SAIED 72.7%, Nabil KAROUI 27.3%</p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p><br>
+_cabinet_: prime minister appointed by the president; other cabinet members appointed by the president in consultation with the prime minister<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 15 September 2019 with a runoff on 13 October 2019 (next to be held in 2024)<br>
+_election results_: <p><em>2019: </em>percent vote in first round - Kais SAIED (independent) 18.4%, Nabil KAROUI (Heart of Tunisia) 15.6%, Abdelfattah MOUROU (Nahda Movement) 12.9%, Abdelkrim ZBIDI (independent) 10.7%, Youssef CHAHED (Long Live Tunisia) 7.4%, Safi SAID (independent) 7.1%, Lotfi MRAIHI (Republican People's Union) 6.6%, other 21.3%; percent of vote in second round - Kais SAIED elected president; Kais SAIED 72.7%, Nabil KAROUI 27.3%</p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p><br>
+<strong>note: </strong>the president can dismiss any member of government on his own initiative or in consultation with the prime minister<br>
 
 **Legislative branch**<br>
-_description_: <strong>note</strong>: on 25 July 2021, President SAIED suspended indefinitely the Assembly, and on 30 March 2022 he dissolved the Assembly<br>unicameral Assembly of the Representatives of the People or Majlis Nuwwab ash-Sha'b (Assemblee des representants du peuple) (217 seats; 199 members directly elected in Tunisian multi-seat constituencies and 18 members in multi-seat constituencies living abroad by party-list proportional representation vote; members serve 5-year terms)<br>
-_elections_: initial election held on 6 October 2019 (next to be held on 17 December 2022)<br>
-_election results_: percent of vote by party - Ennahda 19.6%, Heart of Tunisia 14.6%, Free Destourian Party 6.6%, Democratic Current 6.4%, Dignity Coalition 5.9%, People's Movement 4.5%, TahyaTounes 4.1%, other 35.4%, independent 2.9%; seats by party -&nbsp; Ennahda 52, Heart of Tunisia 38, Free Destourian Party 17, Democratic Current 22, Dignity Coalition 21, People's Movement 16, Long Live Tunisia 14, other 25, independent 12; composition (as of October 2021) - men 160, women 57, percent of women 26.3%<br>
+_description_: bicameral legislature (enacted by the 2022 constitution) consists of:<br>National Council of Regions and Districts (Le Conseil National des regions et des districts) -newly added; (NA seats; members appointed by municipal-level councils; members of each Regional Council elect 3 members among themselves to the National Council; each District Council elects 1 member among themselves to the National Council; members serve 5-year term)<br>Assembly of Representatives of the People (161 seats; 151 members in single seat constituencies and 10 members living abroad directly elected by majoritarian two-round voting system; all members serve 5-year terms)<br>
+_elections_: National Council of Regions and Districts - dates of first appointments and indirect elections NA<br>Assembly of Representatives of the People - last held on 17 December 2022 with a runoff on 29 January 2023 (next scheduled for late 2027)<br>
+_election results_: note: in 2022 President SAIED issued a new electoral law which required all legislative candidates run as independents<br>results NA; composition for 154 seats) - men 129, women 25, percent of women 15.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (consists of the first president, chamber presidents, and magistrates and organized into 27 civil and 11 criminal chambers)<br>
-_judge selection and term of office_: Supreme Court judges nominated by the Supreme Judicial Council, an independent 4-part body consisting mainly of elected judges and the remainder legal specialists; judge tenure based on terms of appointment; Constitutional Court (established in the constitution but inception has been delayed; note - in mid-February 2022, President SAIED dissolved the Supreme Judicial Council and replaced it with an interim council in early March<br>
+_judge selection and term of office_: Supreme Court judges nominated by the Supreme Judicial Council, an independent 4-part body consisting mainly of elected judges and the remainder legal specialists; judge tenure based on terms of appointment; Constitutional Court (established in the 2014 and2022 constitutions, but inception has been delayed; note - in mid-February 2022, President SAIED dissolved the Supreme Judicial Council and replaced it with an interim council in early March<br>
 _subordinate courts_: Courts of Appeal; administrative courts; Court of Audit; Housing Court; courts of first instance; lower district courts; military courts<br>
-<strong>note:</strong> the new Tunisian constitution of January 2014 called for the creation of a constitutional court by the end of 2015, but as November 2021, the court had not been appointed; the court to consist of 12 members - 4 each to be appointed by the president, the Supreme Judicial Council (an independent 4-part body consisting mainly of elected judges and the remainder are legal specialists), and the Chamber of the People's Deputies (parliament); members are to serve 9-year terms with one-third of the membership renewed every 3 years<br>
+<strong>note:</strong> the Tunisian constitution of January 2014 called for the establishment of a constitutional court by the end of 2015, but the court was never formed; the new constitution of July 2022 calls for the establishment of a constitutional court consisting of 9 members appointed by presidential decree; members to include former senior judges of other courts<br>
 
 **Political parties and leaders**<br>
-Afek Tounes [Fadhel ABDELKEFI]<br>Al Badil Al-Tounisi (The Tunisian Alternative) [Mehdi JOMAA]<br>Amal Party [Ridha BELHAJ]<br>Call for Tunisia Party (Nidaa Tounes) [Ali HAFSI]<br>Current of Love [Hachemi HAMDI] (formerly the Popular Petition party)<br>Democratic Current [Ghazi CHAOUACHI]<br>Democratic Patriots' Unified Party [Zied LAKHDHAR]<br>Dignity Coalition or Al Karama Coalition [Seifeddine MAKHLOUF]<br>Ennahda Movement (The Renaissance) [Rached GHANNOUCHI]<br>Free Destourian Party or PDL [Abir MOUSSI]<br>Green Tunisia Party [Abdelkader ZITOUNI]<br>Heart of Tunisia (Qalb Tounes) [Nabil KAROUI]<br>Long Live Tunisia (Tahya Tounes) [Youssef CHAHED]<br>Machrou Tounes (Project Tunisia) [Mohsen MARZOUK]<br>Movement of Socialist Democrats or MDS [Ahmed KHASKHOUSSI]<br>Party of the Democratic Arab Vanguard [Kheireddine SOUABNI]<br>People's Movement [Zouheir MAGHZAOUI]<br>Republican Party (Al Joumhouri) [Issam CHEBBI] <br>The Movement Party (Hizb Harak) [Moncef MARZOUKI]<br>Third Republic Party [Olfa HAMDI]<br>Tunisian Ba'ath Movement [Othmen Bel Haj AMOR]<br>Workers' Party [Hamma HAMMAMI]<br>
+note - President SAIED in 2022 issued a decree that forbids political parties' participation in legislative elections; although parties remain a facet of Tunisian political life, they have lost significant influence<br>Afek Tounes [Fadhel ABDELKEFI]<br>Al Badil Al-Tounisi (The Tunisian Alternative) [Mehdi JOMAA]<br>Al-Amal Party [Ridha BELHAJ]<br>Call for Tunisia Party (Nidaa Tounes) [Ali HAFSI]<br>Current of Love [Hachemi HAMDI] (formerly the Popular Petition party)<br>Democratic Current [Ghazi CHAOUACHI]<br>Democratic Patriots' Unified Party [Zied LAKHDHAR]<br>Dignity Coalition or Al Karama Coalition [Seifeddine MAKHLOUF]<br>Ennahda Movement (The Renaissance) [Rached GHANNOUCHI]<br>Free Destourian Party or PDL [Abir MOUSSI]<br>Green Tunisia Party [Abdelkader ZITOUNI]<br>Heart of Tunisia (Qalb Tounes) [Nabil KAROUI]<br>Long Live Tunisia (Tahya Tounes) [Youssef CHAHED]<br>Machrou Tounes (Project Tunisia) [Mohsen MARZOUK]<br>Movement of Socialist Democrats or MDS [Ahmed KHASKHOUSSI]<br>Party of the Democratic Arab Vanguard [Kheireddine SOUABNI]<br>People's Movement [Zouheir MAGHZAOUI]<br>Republican Party (Al Joumhouri) [Issam CHEBBI] <br>The Movement Party (Hizb Harak) [Moncef MARZOUKI]<br>Third Republic Party [Olfa HAMDI]<br>Tunisian Ba'ath Movement [Othmen Bel Haj AMOR]<br>Voice of the Republic [Ali HAFSI]<br>Workers' Party [Hamma HAMMAMI]<br>
 
 **International organization participation**<br>
 ABEDA, AfDB, AFESD, AMF, AMU, AU, BSEC (observer), CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -361,7 +359,7 @@ _FAX_: [1] (202) 862-1858<br>
 _email address and website_: <br>AT.Washington@Tunisiaembassy.org<br><br>https://www.tunisianembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Natasha FRANCESCHI (since April 2022)<br>
+_chief of mission_: Ambassador Joey HOOD (since 3 February 2023)<br>
 _embassy_: Les Berges du Lac, 1053 Tunis<br>
 _mailing address_: 6360 Tunis Place, Washington DC&nbsp; 20521-6360<br>
 _telephone_: [216] 71-107-000<br>
@@ -641,17 +639,11 @@ TS<br>
 
 **Airports - with paved runways**<br>
 _total_: 15<br>
-_over 3,047 m_: 4<br>
-_2,438 to 3,047 m_: 6<br>
-_1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 3 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 14<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 5<br>
-_under 914 m_: 8 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
 68 km condensate, 3,111 km gas, 1,381 km oil, 453 km refined products (2013)<br>

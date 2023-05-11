@@ -188,9 +188,6 @@ _unimproved: urban_: urban: 1.5% of population<br>
 _unimproved: rural_: rural: 8.8% of population<br>
 _unimproved: total_: total: 4% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-1.3% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
@@ -364,7 +361,7 @@ _email address and website_: <br>amb.vs@gov.sr<br><br>https://www.surinameembass
 _consulate(s) general_: Miami<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Karen Lynn WILLIAMS (since 20 November 2018)<br>
+_chief of mission_: Ambassador Robert J. FAUCHER (since 20 November 2018)<br>
 _embassy_: 165 Kristalstraat, Paramaribo<br>
 _mailing address_: 3390 Paramaribo Place, Washington DC&nbsp; 20521-3390<br>
 _telephone_: [597] 556-700<br>
@@ -389,7 +386,7 @@ _selected World Heritage Site locales_: Central Suriname Nature Reserve (n); His
 ## Economy
 
 **Economic overview**<br>
-upper middle-income South American economy; natural resource rich; foreign investments in oil field development; key aluminum goods exporter; central bank sets currency value and is experiencing devaluation; controversial hardwood industry<br>
+upper middle-income South American economy; new floating currency regime; key aluminum goods, gold, and hydrocarbon exporter; new IMF plan for economic recovery and fiscal sustainability; controversial hardwood industry<br>
 
 **Real GDP (purchasing power parity)**<br>
 $9.052 billion (2021 est.)<br>
@@ -497,10 +494,10 @@ $2.446 billion (2020 est.) note: data are in current year dollars<br>
 $2.287 billion (2019 est.)<br>
 
 **Exports - partners**<br>
-Switzerland 39%, United Arab Emirates 31%, Belgium 10% (2019)<br>
+Switzerland 51%, United Arab Emirates 22%, Belgium 6%, Trinidad and Tobago 2%, Guyana 2% (2021)<br>
 
 **Exports - commodities**<br>
-gold, lumber, refined petroleum, fish, cigarettes (2019)<br>
+gold, lumber, refined petroleum, excavation machinery, rice (2021)<br>
 
 **Imports**<br>
 $1.876 billion (2021 est.) note: data are in current year dollars<br>
@@ -508,10 +505,10 @@ $1.845 billion (2020 est.) note: data are in current year dollars<br>
 $2.413 billion (2019 est.)<br>
 
 **Imports - partners**<br>
-United States 22%, Netherlands 14%, China 13%, Trinidad and Tobago 7%, Antigua and Barbuda 5% (2019)<br>
+United States 19%, China 16%, Netherlands 15%, Trinidad and Tobago 8%, Japan 3% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, delivery trucks, excavation machinery, cars, construction vehicles (2019)<br>
+refined petroleum, excavation machinery, delivery trucks, cars, cigarettes (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $992.257 million (31 December 2021 est.)<br>
@@ -638,14 +635,11 @@ PZ<br>
 
 **Airports - with paved runways**<br>
 _total_: 6<br>
-_over 3,047 m_: 1<br>
-_under 914 m_: 5 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 49<br>
-_914 to 1,523 m_: 4<br>
-_under 914 m_: 45 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
 50 km oil (2013)<br>

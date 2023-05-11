@@ -186,9 +186,6 @@ _unimproved: urban_: urban: 0.9% of population<br>
 _unimproved: rural_: rural: 4.3% of population<br>
 _unimproved: total_: total: 2.7% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-1.1% (2021 est.)<br>
-
 **Obesity - adult prevalence rate**<br>
 24.1% (2016)<br>
 
@@ -357,7 +354,7 @@ _consulate(s) general_: Los Angeles, New York (consular services temporarily sus
 _consulate(s)_: Miami<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Chargé d’Affaires Leyla MOSES-ONES (since August 2021)<br>
+_chief of mission_: Ambassador Michelle KWAN (since 5 December 2022)<br>
 _embassy_: Floral Park Road, Belmopan, Cayo<br>
 _mailing address_: 3050 Belmopan Place, Washington DC&nbsp; 20521-3050<br>
 _telephone_: (501) 822-4011<br>
@@ -383,7 +380,7 @@ _selected World Heritage Site locales_: Belize Barrier Reef Reserve System<br>
 ## Economy
 
 **Economic overview**<br>
-tourism- and agriculture-driven economy initially hard hit by COVID-19; ongoing export recovery, especially fruits and sugar demand surges; investing towards a &ldquo;blue economy&rdquo;; central bank offering USD-denominated treasury notes; high mobility across borders<br>
+tourism- and agriculture-driven economy; strong post-pandemic rebound; innovative and ecological bond restructuring that significantly lowered public debt and expanded marine protections; central bank offering USD-denominated treasury notes; high mobility across borders<br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.505 billion (2021 est.)<br>
@@ -463,11 +460,6 @@ _female_: 31.9% (2021 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
-**Remittances**<br>
-5.43% of GDP (2021 est.)<br>
-5.8% of GDP (2020 est.)<br>
-4.01% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $583 million (2019 est.)<br>
 _expenditures_: $656 million (2019 est.)<br>
@@ -497,7 +489,7 @@ $1.102 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
-United Kingdom 27%, United States 24%, Spain 6%, Jamaica 5%, Ireland 5% (2019)<br>
+United States 16%, United Kingdom 16%, Guatemala 7%, Italy 6%, Spain 6% (2021)<br>
 
 **Exports - commodities**<br>
 raw sugar, bananas, fishing ships, lobsters and crawfish, beer (2021)<br>
@@ -508,10 +500,10 @@ $901.819 million (2020 est.) note: data are in current year dollars<br>
 $1.203 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-United States 36%, China 13%, Mexico 12%, Guatemala 10% (2019)<br>
+United States 29%, China 14%, Seychelles 13%, Guatemala 10%, Mexico 9% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, cigarettes, recreational boats, natural gas, cars (2019)<br>
+recreational boats, refined petroleum, cigarettes, ships, natural gas (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $420,102,800 (31 December 2021 est.)<br>
@@ -638,16 +630,11 @@ V3<br>
 
 **Airports - with paved runways**<br>
 _total_: 6<br>
-_2,438 to 3,047 m_: 1<br>
-_914 to 1,523 m_: 2<br>
-_under 914 m_: 3 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 41<br>
-_2,438 to 3,047 m_: 1<br>
-_914 to 1,523 m_: 11<br>
-_under 914 m_: 29 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>
 _total_: 3,281 km (2017)<br>

@@ -187,9 +187,6 @@ _unimproved: urban_: urban: 32% of population<br>
 _unimproved: rural_: rural: 74.8% of population<br>
 _unimproved: total_: total: 52.5% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-1.1% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
@@ -471,11 +468,6 @@ _female_: 3.2% (2021 est.)<br>
 _lowest 10%_: 2.4%<br>
 _highest 10%_: 30.1% (2007)<br>
 
-**Remittances**<br>
-10.97% of GDP (2020 est.)<br>
-10.43% of GDP (2019 est.)<br>
-13.44% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $5 million (2019 est.)<br>
 _expenditures_: $6 million (2019 est.)<br>
@@ -507,7 +499,7 @@ $429.592 million (2017 est.)<br>
 Guyana 32%, Poland 10%, Switzerland 8%, Japan 7%, China 5% (2019)<br>
 
 **Exports - commodities**<br>
-ships, iron, gold, rubber, crude petroleum (2019)<br>
+gold, ships, iron, rubber, cocoa beans, palm oil (2021)<br>
 
 **Imports**<br>
 $1.244 billion (2019 est.) note: data are in current year dollars<br>
@@ -639,15 +631,11 @@ A8<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
-_over 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 27<br>
-_1,524 to 2,437 m_: 5<br>
-_914 to 1,523 m_: 8<br>
-_under 914 m_: 14 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
 4 km oil (2013)<br>

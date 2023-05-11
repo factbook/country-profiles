@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>North Macedonia gained its independence peacefully from Yugoslavia in 1991 under the name of "Macedonia." Greek objection to the new country’s name, insisting it implied territorial pretensions to the northern Greek province of Macedonia, and democratic backsliding for several years stalled the country’s movement toward Euro-Atlantic integration. Immediately after Macedonia declared independence, Greece sought to block Macedonian efforts to gain UN membership if the name "Macedonia" was used. The country was eventually admitted to the UN in 1993 as "The former Yugoslav Republic of Macedonia," and at the same time it agreed to UN-sponsored negotiations on the name dispute. In 1995, Greece lifted a 20-month trade embargo and the two countries agreed to normalize relations, but the issue of the name remained unresolved and negotiations for a solution continued. Over time, the US and over 130 other nations recognized Macedonia by its constitutional name, Republic of Macedonia. Ethnic Albanian grievances over perceived political and economic inequities escalated into a conflict in 2001 that eventually led to the internationally brokered Ohrid Framework Agreement, which ended the fighting and established guidelines for constitutional amendments and the creation of new laws that enhanced the rights of minorities. In January 2018, the government adopted a new law on languages, which elevated the Albanian language to an official language at the national level, with the Macedonian language remaining the sole official language in international relations. Relations between ethnic Macedonians and ethnic Albanians remain complicated, however.</p> <p>North Macedonia's pro-Western government has used its time in office since 2017 to sign a historic deal with Greece in June 2018 to end the name dispute and revive Skopje's NATO and EU membership prospects. This followed a nearly three-year political crisis that engulfed the country but ended in June 2017 following a six-month-long government formation period after a closely contested election in December 2016. The crisis began after the 2014 legislative and presidential election, and escalated in 2015 when the opposition party began releasing wiretapped material that revealed alleged widespread government corruption and abuse. Although an EU candidate since 2005, North Macedonia has yet to open EU accession negotiations. The country still faces challenges, including fully implementing reforms to overcome years of democratic backsliding and stimulating economic growth and development. In June 2018, Macedonia and Greece signed the Prespa Accord whereby the Republic of Macedonia agreed to change its name to the Republic of North Macedonia. Following ratification by both countries, the agreement went in to force on 12 February 2019. North Macedonia signed an accession protocol to become a NATO member state in February 2019.</p><br>
+<p>North Macedonia gained its independence peacefully from Yugoslavia in 1991 under the name of "Macedonia." Greek objection to the new country’s name, insisting it implied territorial pretensions to the northern Greek province of Macedonia, and democratic backsliding for several years stalled the country’s movement toward Euro-Atlantic integration. Immediately after Macedonia declared independence, Greece sought to block Macedonian efforts to gain UN membership if the name "Macedonia" was used. The country was eventually admitted to the UN in 1993 as "The former Yugoslav Republic of Macedonia," and at the same time it agreed to UN-sponsored negotiations on the name dispute. In 1995, Greece lifted a 20-month trade embargo and the two countries agreed to normalize relations, but the issue of the name remained unresolved and negotiations for a solution continued. Over time, the US and over 130 other nations recognized Macedonia by its constitutional name, Republic of Macedonia. Ethnic Albanian grievances over perceived political and economic inequities escalated into a conflict in 2001 that eventually led to the internationally brokered Ohrid Framework Agreement, which ended the fighting and established guidelines for constitutional amendments and the creation of new laws that enhanced the rights of minorities. In January 2018, the government adopted a new law on languages, which elevated the Albanian language to an official language at the national level, with the Macedonian language remaining the sole official language in international relations. Relations between ethnic Macedonians and ethnic Albanians remain complicated, however.</p> <p>In June 2018, Macedonia and Greece signed the Prespa Agreement whereby Macedonia agreed to change its name to North Macedonia. Following ratification by both countries, the agreement went in to force on 12 February 2019. North Macedonia then joined NATO in 2020 after amending its constitution per the deal and opened EU accession talks in 2022 after a two-year veto by Bulgaria over identity, language, and historical disputes. North Macedonia has been an EU candidate since 2005. A nearly three-year political crisis from 2014 to 2017 began after the 2014 legislative and presidential election, and escalated in 2015 when the opposition party began releasing wiretapped material that revealed alleged widespread government corruption and abuse. The country still faces challenges, including fully implementing reforms to overcome years of democratic backsliding, stimulating economic growth and development, and fighting organized crime and corruption. </p><br>
 
 ## Geography
 
@@ -187,9 +187,6 @@ _improved: total_: total: 99.2% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 2% of population<br>
 _unimproved: total_: total: 0.8% of population (2020 est.)<br>
-
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
 
 **Obesity - adult prevalence rate**<br>
 22.4% (2016)<br>
@@ -473,11 +470,6 @@ _on alcohol and tobacco_: 7.3% of household expenditures (2018 est.)<br>
 _lowest 10%_: 1.7%<br>
 _highest 10%_: 25% (2015 est.)<br>
 
-**Remittances**<br>
-3.54% of GDP (2021 est.)<br>
-3.34% of GDP (2020 est.)<br>
-2.52% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $3.505 billion (2020 est.)<br>
 _expenditures_: $4.5 billion (2020 est.)<br>
@@ -510,7 +502,7 @@ $7.8 billion (2019 est.) note: data are in current year dollars<br>
 Germany 45%, Serbia 8%, Bulgaria 5% (2019)<br>
 
 **Exports - commodities**<br>
-support catalysts, centrifuges, insulated wiring, vehicle parts, buses, seats (2019)<br>
+support catalysts, centrifuges, insulated wiring, iron alloys, seats (2021)<br>
 
 **Imports**<br>
 $11.354 billion (2021 est.) note: data are in current year dollars<br>
@@ -640,14 +632,11 @@ Z3<br>
 
 **Airports - with paved runways**<br>
 _total_: 8<br>
-_2,438 to 3,047 m_: 2<br>
-_under 914 m_: 6 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
-_914 to 1,523 m_: 1<br>
-_under 914 m_: 1 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
 262 km gas, 120 km oil (2017)<br>
@@ -698,7 +687,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,615 (Ukraine) (as of 9 April 2023)<br>
+_refugees (country of origin)_: 6,733 (Ukraine) (as of 30 April 2023)<br>
 _stateless persons_: 521 (2022)<br>
 <strong>note:</strong> 553,109 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 

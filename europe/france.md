@@ -207,9 +207,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.3% (2021 est.)<br>
-
 **Obesity - adult prevalence rate**<br>
 21.6% (2016)<br>
 
@@ -371,7 +368,7 @@ _election results_: <em>2022: </em>Emmanuel MACRON reelected in second round; pe
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (348 seats - 328 for metropolitan France and overseas departments and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte, 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad; members indirectly elected by departmental electoral colleges using absolute majority vote in 2 rounds if needed for departments with 1-3 members, and proportional representation vote in departments with 4 or more members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly or Assemblee Nationale (577 seats - 556 for metropolitan France, 10 for overseas departments, and 11 for citizens abroad; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br>
 _elections_: <br>Senate - last held on 24 and 27 September 2020 (next to be held in September 2023)<br>National Assembly - last held on 12 and 19 June 2022 (next to be held in June 2027)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by political caucus (party or group of parties)  - NA ; composition - men 226, women 122, percent of women 35.1%<br>National Assembly - percent of vote by party/coalition in the first round - ENS 25.8%, NUPES 25.7%, RN 18.7%, UDC 11.3%, other 18.5%; seats by party/coalition in the first round - NUPES 4, ENS 1; percent of vote in the second round - ENS 38.6%, NUPES 31.6%, RN 17.3%, UDC 7.3%, other 5.2%, seats by party/coalition in the second round - ENS 244, NUPES 127, RN 89, UDC 64, other 48<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by political caucus (party or group of parties) - NA; composition - men 226, women 122, percent of women 35.1%<br>National Assembly - percent of vote by party/coalition in the first round - ENS 25.8%, NUPES 25.7%, RN 18.7%, UDC 11.3%, other 18.5%; seats by party/coalition in the first round - NUPES 4, ENS 1; percent of vote in the second round - ENS 38.6%, NUPES 31.6%, RN 17.3%, UDC 7.3%, other 5.2%, seats by party/coalition in the second round - ENS 244, NUPES 127, RN 89, UDC 64, other 48<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation or Cour de Cassation (consists of the court president, 6 divisional presiding judges, 120 trial judges, and 70 deputy judges organized into 6 divisions - 3 civil, 1 commercial, 1 labor, and 1 criminal); Constitutional Council (consists of 9 members)<br>
@@ -380,7 +377,7 @@ _subordinate courts_: appellate courts or Cour d'Appel; regional courts or Tribu
 <strong>note:</strong> in April 2021, the French Government submitted a bill on judicial reform to Parliament<br>
 
 **Political parties and leaders**<br>
-Citizen and Republican Movement or MRC [Jean-Luc LAURENT]<br>Debout la France or DLF [Nicolas DUPONT-AIGNAN]<br>Democratic Movement or MoDem [Francois BAYROU]<br>Ecologist Pole or PE<br>Europe Ecology - the Greens or EELV [vacant]<br>French Communist Party or PCF [Fabien ROUSSEL]<br>Horizons [Hubert VALADE]<br>La France Insoumise or FI [Jean-Luc MELENCHON]<br>La Republique en Marche! or LREM [Stanislas GUERINI]<br>Movement of Progressives or MDP  [Robert HUE]<br>National Rally or RN [Jordan BARDELLA, acting president] (formerly National Front or FN)<br>New Democrats or LND [Aurelien TACHE, Emilie CARIOU] (formerly Ecology Democracy Solidarity or EDS)<br>New Ecological and Social People's Union or NUPES [collective leadership] (electoral coalition including FI, PE, PS, PCF)<br>Radical Party of the Left or PRV [Laurent HENART]<br>Reconquete [Eric ZEMMOUR]<br>Resistons! [Jean LASSALLE]<br>Socialist Party or PS [Olivier FAURE]<br>The Patriots or LP [Florian PHILIPPOT]<br>The Republicans or LR [Christian JACOB]<br>Together or ENS [Richard Ferrand] (electoral coalition including LREM, MoDem, Horizons, PRV)<br>Union of Democrats and Independents or UDI [Jean-Christophe LAGARDE]<br>Union of Right and Center or UDC [Christian JACOB] (electoral coalition including LR, UDI)<br>
+Citizen and Republican Movement or MRC [Jean-Luc LAURENT]<br>Debout la France or DLF [Nicolas DUPONT-AIGNAN]<br>Democratic Movement or MoDem [Francois BAYROU]<br>Ecologist Pole or PE<br>Europe Ecology - the Greens or EELV [Marine TONDELIER]<br>French Communist Party or PCF [Fabien ROUSSEL]<br>Horizons [Hubert VALADE]<br>La France Insoumise or FI [Jean-Luc MELENCHON]<br>La Republique en Marche! or LREM [Stanislas GUERINI]<br>Movement of Progressives or MDP  [Robert HUE]<br>National Rally or RN [Jordan BARDELLA, acting president] (formerly National Front or FN)<br>New Democrats or LND [Aurelien TACHE, Emilie CARIOU] (formerly Ecology Democracy Solidarity or EDS)<br>New Ecological and Social People's Union or NUPES [collective leadership] (electoral coalition including FI, PE, PS, PCF)<br>Radical Party of the Left or PRV [Laurent HENART]<br>Reconquete [Eric ZEMMOUR]<br>Resistons! [Jean LASSALLE]<br>Socialist Party or PS [Olivier FAURE]<br>The Patriots or LP [Florian PHILIPPOT]<br>The Republicans or LR [Eric CIOTTI]<br>Together or ENS [Richard Ferrand] (electoral coalition including LREM, MoDem, Horizons, PRV)<br>Union of Democrats and Independents or UDI [Jean-Christophe LAGARDE]<br>Union of Right and Center or UDC [Christian JACOB] (electoral coalition including LR, UDI)<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BDEAC, BIS, BSEC (observer), CBSS (observer), CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, FZ, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MINUSTAH, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SPC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, Union Latina, UNMIL, UNOCI, UNRWA, UN Security Council (permanent), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -509,11 +506,6 @@ _on alcohol and tobacco_: 3.7% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.6%<br>
 _highest 10%_: 25.4% (2013)<br>
-
-**Remittances**<br>
-1.08% of GDP (2021 est.)<br>
-1.09% of GDP (2020 est.)<br>
-1.1% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $1.427 trillion (2019 est.)<br>
@@ -685,18 +677,11 @@ F<br>
 
 **Airports - with paved runways**<br>
 _total_: 294<br>
-_over 3,047 m_: 14<br>
-_2,438 to 3,047 m_: 25<br>
-_1,524 to 2,437 m_: 97<br>
-_914 to 1,523 m_: 83<br>
-_under 914 m_: 75 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 170<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 64<br>
-_under 914 m_: 105 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 1 (2021)<br>

@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-Modern-day Laos has its roots in the ancient Lao kingdom of Lan Xang, established in the 14th century under King FA NGUM. For 300 years Lan Xang had influence reaching into present-day Cambodia and Thailand, as well as over all of what is now Laos. After centuries of gradual decline, Laos came under the domination of Siam (Thailand) from the late 18th century until the late 19th century, when it became part of French Indochina. The Franco-Siamese Treaty of 1907 defined the current Lao border with Thailand. In 1975, the communist Pathet Lao took control of the government, ending a six-century-old monarchy and instituting a strict socialist regime closely aligned to Vietnam. A gradual, limited return to private enterprise and the liberalization of foreign investment laws began in 1988. Laos became a member of ASEAN in 1997 and the WTO in 2013.<br><br>In the 2010s, the country benefited from direct foreign investment, particularly in the natural resource and industry sectors. Construction of a number of large hydropower dams and expanding mining activities have also boosted the economy. Laos has retained its official commitment to communism and maintains close ties with its two communist neighbors, Vietnam and China, both of which continue to exert substantial political and economic influence on the country. China, for example, provided 70% of the funding for a $5.9 billion, 400-km railway line between the Chinese border and the capital Vientiane, which opened for operations in December 2021. Laos financed the remaining 30% with loans from China. At the same time, Laos has expanded its economic reliance on the West and other Asian countries, such as Japan, Malaysia, Singapore, Taiwan, and Thailand.<br>
+Modern-day Laos has its roots in the ancient Lao kingdom of Lan Xang, established in the 14th century under King FA NGUM. For 300 years Lan Xang had influence reaching into present-day Cambodia and Thailand, as well as over all of what is now Laos. After centuries of gradual decline, Laos came under the domination of Siam (Thailand) from the late 18th century until the late 19th century, when it became part of French Indochina. The Franco-Siamese Treaty of 1907 defined the current Lao border with Thailand. In 1975, the communist Pathet Lao took control of the government, ending a six-century-old monarchy and instituting a strict socialist regime closely aligned to Vietnam. A gradual, limited return to private enterprise and the liberalization of foreign investment laws began in 1988. Laos became a member of ASEAN in 1997 and the WTO in 2013.<br><br>In the 2010s, the country benefited from direct foreign investment, particularly in the natural resource and industry sectors. Construction of a number of large hydropower dams and expanding mining activities have also boosted the economy. Laos has retained its official commitment to communism and maintains close ties with its two communist neighbors, Vietnam and China, both of which continue to exert substantial political and economic influence on the country. China, for example, provided 70% of the funding for a $5.9 billion, 400-km railway line between the Chinese border and the capital Vientiane, which opened for operations in December 2021. Laos financed the remaining 30% with loans from China. At the same time, Laos has expanded its economic reliance on the West and other Asian countries, such as Japan, Malaysia, Singapore, Taiwan, and Thailand. In 2023, Lao households faced the highest inflation in almost a quarter century, with year-on-year inflation reaching 40% early in the year.<br>
 
 ## Geography
 
@@ -191,9 +191,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 28% of population<br>
 _unimproved: total_: total: 17.8% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.3% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
@@ -304,9 +301,10 @@ _agricultural_: 7.05 billion cubic meters (2020 est.)<br>
 
 **Country name**<br>
 _conventional long form_: Lao People's Democratic Republic<br>
-_conventional short form_: Laos or Lao PDR<br>
+_conventional short form_: Laos&nbsp;<br>
 _local long form_: Sathalanalat Paxathipatai Paxaxon Lao<br>
 _local short form_: Mueang Lao (unofficial)<br>
+_abbreviation_: Lao PDR<br>
 _etymology_: name means "Land of the Lao [people]"<br>
 
 **Government type**<br>
@@ -490,11 +488,6 @@ _on alcohol and tobacco_: 10.5% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3.3%<br>
 _highest 10%_: 30.3% (2008)<br>
 
-**Remittances**<br>
-1.22% of GDP (2020 est.)<br>
-1.58% of GDP (2019 est.)<br>
-1.32% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $2.896 billion (2019 est.)<br>
 _expenditures_: $3.839 billion (2019 est.)<br>
@@ -526,7 +519,7 @@ $6.985 billion (2019 est.)<br>
 Thailand 36%, China 28%, Vietnam 16% (2019)<br>
 
 **Exports - commodities**<br>
-electricity, copper, rubber, gold, flavored water (2019)<br>
+electricity, gold, paper, copper, rubber, flavored water (2021)<br>
 
 **Imports**<br>
 $6.527 billion (2021 est.) note: data are in current year dollars<br>
@@ -664,16 +657,11 @@ RDPL<br>
 
 **Airports - with paved runways**<br>
 _total_: 8<br>
-_2,438 to 3,047 m_: 3<br>
-_1,524 to 2,437 m_: 4<br>
-_914 to 1,523 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 33<br>
-_1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 9<br>
-_under 914 m_: 22 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
 540 km refined products (2013)<br>

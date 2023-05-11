@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Papua New Guinea (PNG) was first settled between 50,000 and 60,000 years ago. PNG’s harsh geography consisting of mountains, jungles, and numerous river valleys, kept many of the arriving groups isolated, giving rise to PNG’s incredible ethnic and linguistic diversity. Agriculture was independently developed by some of these groups. Around 500 B.C., Austronesian voyagers settled along the coast. Spanish and Portuguese explorers periodically visited the island starting in the 1500s, but none made it into the country’s interior. American and British whaling ships frequented the islands off the coast of New Guinea in the mid-1800s. In 1884, Germany declared a protectorate - and eventually a colony - over the northern part of what would become PNG and named it German New Guinea; days later the UK followed suit on the southern part and nearby islands and called it Papua. Most of their focus was on the coastal regions, leaving the highlands largely unexplored.<br><br>The UK put its colony under Australian administration in 1902 and formalized the act in 1906. At the outbreak of World War I, Australia occupied German New Guinea and continued to rule it after the war as a League of Nations Mandate. The discovery of gold along the Bulolo River in the 1920s, led prospectors to venture into the highlands, where they found about 1 million people living in isolated communities. Japan invaded New Guinea in 1941 and reached Papua the following year. Allied victories during the New Guinea campaign pushed out the Japanese, and after the end of the war, Australia combined the two territories into one administration. Sir Michael SOMARE won elections in 1972 on the promise of achieving independence, which was realized in 1975. <br><br>A secessionist movement in Bougainville, an island well endowed in copper and gold resources, reignited in 1988 with debates about land use, profits, and an influx of outsiders at the Panguna Copper Mine. Following elections in 1992, the PNG Government took a hardline stance against Bougainville rebels and the resulting civil war led to about 20,000 deaths. In 1997, the PNG Government hired mercenaries to support its troops in Bougainville, sparking an army mutiny and forcing the prime minister to resign. PNG and Bougainville signed a truce in 1997 and a peace agreement in 2001, which granted Bougainville autonomy. An internationally-monitored nonbinding referendum asking Bougainvilleans to chose independence or greater self-rule occurred in November 2019, with 98% of voters opting for independence.</p><br>
+<p>Papua New Guinea (PNG) was first settled between 50,000 and 60,000 years ago. PNG’s harsh geography consisting of mountains, jungles, and numerous river valleys, kept many of the arriving groups isolated, giving rise to PNG’s incredible ethnic and linguistic diversity. Agriculture was independently developed by some of these groups. Around 500 B.C., Austronesian voyagers settled along the coast. Spanish and Portuguese explorers periodically visited the island starting in the 1500s, but none made it into the country’s interior. American and British whaling ships frequented the islands off the coast of New Guinea in the mid-1800s. In 1884, Germany declared a protectorate - and eventually a colony - over the northern part of what would become PNG and named it German New Guinea; days later the UK followed suit on the southern part and nearby islands and called it Papua. Most of their focus was on the coastal regions, leaving the highlands largely unexplored.<br><br>The UK put its colony under Australian administration in 1902 and formalized the act in 1906. At the outbreak of World War I, Australia occupied German New Guinea and continued to rule it after the war as a League of Nations Mandate. The discovery of gold along the Bulolo River in the 1920s led prospectors to venture into the highlands, where they found about 1 million people living in isolated communities. Japan invaded New Guinea in 1941 and reached Papua the following year. Allied victories during the New Guinea campaign pushed out the Japanese, and after the end of the war, Australia combined the two territories into one administration. Sir Michael SOMARE won elections in 1972 on the promise of achieving independence, which was realized in 1975. <br><br>A secessionist movement in Bougainville, an island well endowed in copper and gold resources, reignited in 1988 with debates about land use, profits, and an influx of outsiders at the Panguna Copper Mine. Following elections in 1992, the PNG Government took a hardline stance against Bougainville rebels and the resulting civil war led to about 20,000 deaths. In 1997, the PNG Government hired mercenaries to support its troops in Bougainville, sparking an army mutiny and forcing the prime minister to resign. PNG and Bougainville signed a truce in 1997 and a peace agreement in 2001, which granted Bougainville autonomy. An internationally-monitored nonbinding referendum asking Bougainvilleans to chose independence or greater self-rule occurred in November 2019, with 98% of voters opting for independence. However, the PNG Government and Bougainville officials remain in negotiations about the status of the island.</p><br>
 
 ## Geography
 
@@ -189,9 +189,6 @@ _unimproved: urban_: urban: 42.2% of population<br>
 _unimproved: rural_: rural: 81.8% of population<br>
 _unimproved: total_: total: 76.5% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.9% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
@@ -346,10 +343,10 @@ _residency requirement for naturalization_: 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Grand Chief Sir Bob DADAE (since 28 February 2017)<br>
-_head of government_: Prime Minister James MARAPE (since 30 May 2019); Deputy Prime Minister Sam BASIL (since 20 December 2020)<br>
+_head of government_: Prime Minister James MARAPE (since 30 May 2019); Deputy Prime Minister John ROSSO (since 25 May 2022)<br>
 _cabinet_: National Executive Council appointed by the governor general on the recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general nominated by the National Parliament and appointed by the chief of state; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general pending the outcome of a National Parliament vote<br>
-_election results_: James MARAPE elected prime minister; National Parliament vote - 101 to 8<br>
+_election results_: James MARAPE re-elected prime minister; National Parliament vote - 105 out of 118<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (111 seats; members directly elected in single-seat constituencies - 89 local, 20 provinicial, the autonomous province of Bouganville, and the National Capital District - by majority preferential vote; members serve 5-year terms); note - the constitution allows up to 126 seats<br>
@@ -362,7 +359,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: district, village, and juvenile courts, military courts, taxation courts, coronial courts, mining warden courts, land courts, traffic courts, committal courts, grade five courts<br>
 
 **Political parties and leaders**<br>
-Advance PNG [Muglua DILU]<br>Allegiance Party or AP [Bryan KRAMER]<br>Destiny Party [Marsh NARAWEC]<br>Liberal Party [John PUNDARI]<br>Melanesian Alliance Party or MAP [Joseph YOPYYOPY]<br>National Alliance Party or NAP [Allan BIRD]<br>New Generation Party or NGP [Keith IDUHU]<br>Our Development Party or ODP [Puka TEMU]<br>Papua and Niugini Union Party or PANGU PATI [vacant]<br>Papua New Guinea Greens Party [Richard MASERE]<br>Papua New Guinea National Party [Kerenga KUA]<br>Papua New Guinea Party or PNGP [Belden NAMAH]<br>People's First Party or PFP [Richard MARU]<br>People's Labor Party or PLP [Luther WENGE]<br>People's Movement for Change or PMC [Gary JAFFA]<br>People's National Congress Party or PNC [Peter Paire O'NEILL]<br>People's Party or PP [Peter IPATAS]<br>People's Progress Party or PPP [Sir Julius CHAN]<br>People's Reform Party or PRP [James DONALD]<br>Social Democratic Party or SDP [Powes PARKOP]<br>Triumph Heritage Empowerment Party or THE [Don POLYE]<br>United Labor Party or PLP [vacant]<br>United Resources Party or URP [William DUMA]<br>
+Advance PNG [Muglua DILU]<br>Allegiance Party or AP [Bryan KRAMER]<br>Destiny Party [Marsh NARAWEC]<br>Liberal Party [John PUNDARI]<br>Melanesian Alliance Party or MAP [Joseph YOPYYOPY]<br>National Alliance Party or NAP [Patrick PRUAITCH]<br>New Generation Party or NGP [Keith IDUHU]<br>Our Development Party or ODP [Charles ABEL]<br>Papua and Niugini Union Party or PANGU PATI [James MARAPE]<br>Papua New Guinea Country Party or PNGCP [Chris HAIVETA]<br>Papua New Guinea Greens Party [Richard MASERE]<br>Papua New Guinea National Party [Kerenga KUA]<br>Papua New Guinea Party or PNGP [Belden NAMAH]<br>People's First Party or PFP [Richard MARU]<br>People's Labor Party or PLP [Peter YAMA]<br>People's Movement for Change or PMC [Gary JAFFA]<br>People's National Congress Party or PNC [Peter Paire O'NEILL]<br>People's Party or PP [Peter IPATAS]<br>People's Progress Party or PPP [Sir Julius CHAN]<br>People's Reform Party or PRP [James DONALD]<br>Social Democratic Party or SDP [Powes PARKOP]<br>Triumph Heritage Empowerment Party or THE [Don POLYE]<br>United Labor Party or PLP [vacant]<br>United Resources Party or URP [William DUMA]<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, APEC, ARF, ASEAN (observer), C, CD, CP, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -649,18 +646,11 @@ P2<br>
 
 **Airports - with paved runways**<br>
 _total_: 21<br>
-_over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 12<br>
-_914 to 1,523 m_: 5<br>
-_under 914 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 540<br>
-_1,524 to 2,437 m_: 11<br>
-_914 to 1,523 m_: 53<br>
-_under 914 m_: 476 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 2 (2021)<br>
@@ -706,7 +696,7 @@ the PNGDF is lightly armed; most of its military assistance has come from Austra
 18-27 for a general enlistee or 18-30 for an officer cadet; no conscription (2022)<br>
 
 **Military - note**<br>
-Australia and the US are assisting Papua New Guinea with expanding and improving the Defense Force naval base at Lombrum on Manus Island; the US first established a Lombrum base in 1944 during World War II<br><br>the PNGDF was established in 1973; its infantry regiment and primary unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until Papua New Guinea gained its independence in 1975, when it became part of the PNGDF (2023)<br>
+the PNGDF is a small, lightly armed, and underfunded force that is assessed to have limited combat capabilities; it is tasked with defense of the country and its territories against external attack, as well as internal security duties; the PNGDF was established in 1973, and its primary combat unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until Papua New Guinea gained its independence in 1975, when it became part of the PNGDF<br><br>Papua New Guinea's traditional security partners are Australia, Indonesia, New Zealand, and the US; Australia and the US are assisting the country with expanding and improving the Defense Force naval base at Lombrum on Manus Island; the US first established a Lombrum base in 1944 during World War II; in recent years, Papua New Guinea has established security ties with France and the UK (2023)<br>
 
 ## Transnational Issues
 

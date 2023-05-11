@@ -171,9 +171,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -255,7 +252,7 @@ see United Kingdom<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Andrew PEARCE (since 1 February 2018)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Sarah TUCKER (since 6 April 2023)<br>
 _head of government_: Premier Easton TAYLOR-FARRELL (since 19 November 2019); note - effective with the Constitution Order 2010, October 2010, the office of premier replaced the office of chief minister<br>
 _cabinet_: Executive Council consists of the governor, the premier, 3 other ministers, the attorney general, and the finance secretary<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually becomes premier<br>
@@ -371,24 +368,26 @@ _expenditures_: $47.04 million (2017 est.)<br>
 -$12.2 million (2016 est.)<br>
 
 **Exports**<br>
+$11.9 million (2021 est.)<br>
 $4.4 million (2017 est.)<br>
 $5.2 million (2016 est.)<br>
 
 **Exports - partners**<br>
-Antigua and Barbuda 19%, United States 18%, France 17%, Singapore 14%, Belgium 9%, Netherlands 5% (2019)<br>
+Canada 48%, United States 14%, Belgium 14%, France 11%, Cost Rica 3% (2021)<br>
 
 **Exports - commodities**<br>
-sand, iron products, seats, medical instruments, fish (2019)<br>
+iron products, needles and catheters, sand, dental filling pharmaceuticals, gravel (2021)<br>
 
 **Imports**<br>
+$15.3 million (2021 est.)<br>
 $39.44 million (2017 est.)<br>
 $36.1 million (2016 est.)<br>
 
 **Imports - partners**<br>
-United States 70%, United Kingdom 6% (2019)<br>
+United States 47%, Trinidad and Tobago 19%, United Kingdom 9%, Barbados 3%, Japan 2% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, oranges, electric motors, broadcasting equipment (2019)<br>
+refined petroleum, food preparations, cars, broadcasting equipment, poultry (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $47.58 million (31 December 2017 est.)<br>
@@ -506,7 +505,6 @@ VP-M<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_under 914 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Roadways**<br>

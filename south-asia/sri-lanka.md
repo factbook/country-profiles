@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The first Sinhalese arrived in Sri Lanka late in the 6th century B.C., probably from northern India. Buddhism was introduced circa 250 B.C., and the first kingdoms developed at the cities of Anuradhapura (from circa 200 B.C. to circa A.D. 1000) and Polonnaruwa (from about 1070 to 1200). In the 14th century, a south Indian dynasty established a Tamil kingdom in northern Sri Lanka. The Portuguese controlled the coastal areas of the island in the 16th century followed by the Dutch in the 17th century. The island was ceded to the British in 1796, became a crown colony in 1802, and was formally united under British rule by 1815. As Ceylon, it became independent in 1948; its name was changed to Sri Lanka in 1972. Prevailing tensions between the Sinhalese majority and Tamil separatists erupted into war in July 1983. Fighting between the government and Liberation Tigers of Tamil Eelam (LTTE) continued for over a quarter century. Although Norway brokered peace negotiations that led to a cease-fire in 2002, the fighting slowly resumed and was again in full force by 2006. The government defeated the LTTE in May 2009.</p> <p>During the post-conflict years under President Mahinda RAJAPAKSA, the government initiated infrastructure development projects, many of which were financed by loans from China. His regime faced significant allegations of human rights violations and a shrinking democratic space for civil society.  In 2015, a new coalition government headed by President Maithripala SIRISENA of the Sri Lanka Freedom Party and Prime Minister Ranil WICKREMESINGHE of the United National Party came to power with pledges to advance economic, governance, anti-corruption, reconciliation, justice, and accountability reforms. However, implementation of these reforms has been uneven. In October 2018, President SIRISENA attempted to oust Prime Minister WICKREMESINGHE, swearing in former President RAJAPAKSA as the new prime minister and issuing an order to dissolve the Parliament and hold elections. This sparked a seven-week constitutional crisis that ended when the Supreme Court ruled SIRISENA’s actions unconstitutional, RAJAPAKSA resigned, and WICKREMESINGHE was reinstated. In November 2019, Gotabaya RAJAPAKSA won the presidential election and appointed his brother, Mahinda, prime minister. Since Gotabaya RAJAPAKSA’s election, there have been concerns about his administration’s commitment to pursuing justice, human rights, and accountability reforms, as well as the risks to foreign creditors that Sri Lanka faces given its ongoing economic crisis. A combination of factors including the impact of the worldwide COVID pandemic; severe shortages of food, medicine, and fuel; and power outages have triggered increasingly violent protests in Columbo. Longtime parliamentarian and former five-time prime minister, Ranil WICKREMESINGHE replaced Mahinda RAJAPASKA as prime-minister in mid-May 2022, with a mandate to resolve the country's economic problems.</p><br>
+<p>The first Sinhalese arrived in Sri Lanka late in the 6th century B.C., probably from northern India. Buddhism was introduced circa 250 B.C., and the first kingdoms developed at the cities of Anuradhapura (from circa 200 B.C. to circa A.D. 1000) and Polonnaruwa (from about 1070 to 1200). In the 14th century, a south Indian dynasty established a Tamil kingdom in northern Sri Lanka. The Portuguese controlled the coastal areas of the island in the 16th century followed by the Dutch in the 17th century. The island was ceded to the British in 1796, became a crown colony in 1802, and was formally united under British rule by 1815. As Ceylon, it became independent in 1948; its name was changed to Sri Lanka in 1972. Prevailing tensions between the Sinhalese majority and Tamil separatists erupted into war in July 1983. Fighting between the government and Liberation Tigers of Tamil Eelam (LTTE) continued for over a quarter century. Although Norway brokered peace negotiations that led to a cease-fire in 2002, the fighting slowly resumed and was again in full force by 2006. The government defeated the LTTE in May 2009.</p> <p>During the post-conflict years under then-President Mahinda RAJAPAKSA, the government initiated infrastructure development projects, many of which were financed by loans from China. His regime faced significant allegations of human rights violations and a shrinking democratic space for civil society.  In 2015, a new coalition government headed by then-President Maithripala SIRISENA of the Sri Lanka Freedom Party and then-Prime Minister Ranil WICKREMESINGHE of the United National Party came to power with pledges to advance economic, governance, anti-corruption, reconciliation, justice, and accountability reforms. However, implementation of these reforms was uneven. In November 2019, Gotabaya RAJAPAKSA won the presidential election and appointed his brother, Mahinda, prime minister. Following Gotabaya RAJAPAKSA’s election, civil society raised concerns about his administration’s commitment to pursuing justice, human rights, and accountability reforms, as well as the risks to foreign creditors that Sri Lanka faces given its ongoing economic crisis. A combination of factors including the impact of the worldwide COVID pandemic; severe shortages of food, medicine, and fuel; and power outages triggered increasingly violent protests in Columbo beginning in March 2022. In May 2022, longtime parliamentarian and former five-time prime minister, Ranil WICKREMESINGHE replaced Mahinda RAJAPASKA as prime-minister and then in July 2022, Gotabaya RAJAPAKSA fled from office in response to protests, and parliament subsequently elected WICKREMESINGHE president. Later that month, WICKREMESINGHE appointed Dinesh GUNAWARDENA to replace him as prime minister.</p><br>
 
 ## Geography
 
@@ -187,9 +187,6 @@ _unimproved: urban_: urban: 3.4% of population<br>
 _unimproved: rural_: rural: 2.1% of population<br>
 _unimproved: total_: total: 2.4% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-(2021 est.) <0.1%<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2023)<br>
 _vectorborne diseases_: dengue fever<br>
@@ -345,12 +342,12 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Ranil WICKREMESINGHE (since 20 July 2022); the president is both chief of state and head of government; prime minister (vacant)<br>
+_chief of state_: President Ranil WICKREMESINGHE (since 20 July 2022); the president is both chief of state and head of government; Prime Minister Dinesh GUNAWARDENA (since 22 July 2022)<br>
 _head of government_: President Ranil WICKREMESINGHE (since 20 July 2022)<br>
 _cabinet_: Cabinet appointed by the president in consultation with the prime minister<br>
 _elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 16 November 2019 (next to be held in 2024); prime minister appointed by the president from among members of Parliament for a 5-year term)<br>
-_election results_: Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; WICKREMESINGH 134 votes, Dullas ALAHAPPERUNA 82 votes<br>
-<strong>Note</strong>: amid public protests which began in March 2022, President Gotabaya RAJAPAKSE fled the country on 13 July and Ranil WICKREMESINGHE became acting president; RAJAPAKSE announced his resignation on the 14th, which was accepted by the speaker of Parliament the following day; Parliament on 20 July elected WICKREMESINGHE as president; vote - Ranil WICKREMESINGHE - 134,  Dullas ALAHAPPERUMA - 82<br>
+_election results_: Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; WICKREMESINGHE 134 votes, Dullas ALAHAPPERUNA 82 votes<br>
+<strong>Note</strong>: amid public protests which began in March 2022, President Gotabaya RAJAPAKSE fled the country on 13 July and Ranil WICKREMESINGHE became acting president; RAJAPAKSE announced his resignation on the 14th, which was accepted by the speaker of Parliament the following day<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (225 seats; 196 members directly elected in multi-seat district constituencies by proportional representation vote using a preferential method in which voters select 3 candidates in order of preference; remaining 29 seats, referred to as the "national list" are allocated by each party secretary according to the island wide proportional vote the party obtains; members serve 5-year terms)<br>
@@ -363,7 +360,7 @@ _judge selection and term of office_: chief justice nominated by the Constitutio
 _subordinate courts_: Court of Appeals; High Courts; Magistrates' Courts; municipal and primary courts<br>
 
 **Political parties and leaders**<br>
-Crusaders for Democracy or CFD [Ganeshalingam CHANDRALINGAM]<br>Eelam People's Democratic Party or EPDP [Douglas DEVANANDA]<br>Eelam People's Revolutionary Liberation Front or EPRLF [Suresh PREMACHANDRAN]<br>Illankai Tamil Arasu Kachchi or ITAK [Mavai SENATHIRAJAH]<br>Janatha Vimukthi Peramuna or JVP [Anura Kumara DISSANAYAKE]<br>Jathika Hela Urumaya or JHU [Karunarathna PARANAWITHANA, Ven. Hadigalle Wimalasara THERO]<br>National Peoples Power or JVP [Anura Kumara DISSANAYAKE]<br>People's Liberation Organisation of Tamil Eelam or PLOTE [D. SIDDARTHAN]<br>Samagi Jana Balawegaya or SJB [Sajith PREMADASA]<br>Sri Lanka Freedom Party or SLFP [Maithripala SIRISENA]<br>Sri Lanka Muslim Congress or SLMC [Rauff HAKEEM]<br>Sri Lanka People's Freedom Alliance or SLPFA [Mahinda RAJAPAKSA] (includes SLPFP, SLPP, and several smaller parties)<br>Sri Lanka Podujana Peramuna (Sri Lanka's People's Front) or SLPP [G. L. PEIRIS]<br>Tamil Eelam Liberation Organization or TELO [Selvam ADAIKALANATHAN]<br>Tamil National Alliance or TNA [Rajavarothiam SAMPANTHAN] (includes ITAK, PLOTE, TELO)<br>Tamil National People's Front or TNPF [Gajendrakumar PONNAMBALAM]<br>United National Front for Good Governance or UNFGG [Ranil WICKREMESINGHE] (coalition includes JHU, UNP)<br>United National Party or UNP [Ranil WICKREMESINGHE]<br>
+Crusaders for Democracy or CFD [Ganeshalingam CHANDRALINGAM]<br>Eelam People's Democratic Party or EPDP [Douglas DEVANANDA]<br>Eelam People's Revolutionary Liberation Front or EPRLF [Suresh PREMACHANDRAN]<br>Illankai Tamil Arasu Kachchi or ITAK [Mavai SENATHIRAJAH]<br>Janatha Vimukthi Peramuna or JVP [Anura Kumara DISSANAYAKE]<br>Jathika Hela Urumaya or JHU [Udaya GAMMANPILA]<br>National People's Power or NPP (also known as Jathika Jana Balawegaya or JJB) [Anura Kumara DISSANAYAKE]<br>People's Liberation Organisation of Tamil Eelam or PLOTE [Dharmalingam SIDDARTHAN]<br>Samagi Jana Balawegaya or SJB [Sajith PREMADASA]<br>Sri Lanka Freedom Party or SLFP [Maithripala SIRISENA]<br>Sri Lanka Muslim Congress or SLMC [Rauff HAKEEM]<br>Sri Lanka People's Freedom Alliance or SLPFA [Mahinda RAJAPAKSA] (includes SLPFP, SLPP, and several smaller parties)<br>Sri Lanka Podujana Peramuna (Sri Lanka's People's Front) or SLPP [Gamini Lakshman PEIRIS]<br>Tamil Eelam Liberation Organization or TELO [Selvam ADAIKALANATHAN]<br>Tamil National Alliance or TNA [Rajavarothiam SAMPANTHAN] (includes ITAK, PLOTE, TELO)<br>Tamil National People's Front or TNPF [Gajendrakumar PONNAMBALAM]<br>Tamil People's National Alliance or TPNA [Canagasabapathy Visuvalingam VIGNESWARAN]<br>United National Front for Good Governance or UNFGG [Ranil WICKREMESINGHE] (coalition includes JHU, UNP)<br>United National Party or UNP [Ranil WICKREMESINGHE]<br>
 
 **International organization participation**<br>
 ABEDA, ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, FAO, G-11, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OAS (observer), OPCW, PCA, SAARC, SACEP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -488,11 +485,6 @@ _on alcohol and tobacco_: 2% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3%<br>
 _highest 10%_: 32.2% (2012 est.)<br>
-
-**Remittances**<br>
-8.37% of GDP (2020 est.)<br>
-7.58% of GDP (2019 est.)<br>
-7.45% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $10.623 billion (2019 est.)<br>
@@ -662,16 +654,11 @@ _annual freight traffic on registered air carriers_: 436.2 million (2018) mt-km<
 
 **Airports - with paved runways**<br>
 _total_: 11<br>
-_over 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 5<br>
-_914 to 1,523 m_: 4 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 7<br>
-_1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 3<br>
-_under 914 m_: 2 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 1 (2021)<br>

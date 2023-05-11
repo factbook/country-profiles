@@ -193,9 +193,6 @@ _unimproved: urban_: urban: 0.5% of population<br>
 _unimproved: rural_: rural: 0.5% of population<br>
 _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-(2021 est.) <0.1%<br>
-
 **Obesity - adult prevalence rate**<br>
 27.8% (2016)<br>
 
@@ -348,7 +345,7 @@ _judge selection and term of office_: Court of Cassation judges appointed by the
 _subordinate courts_: courts of first instance; magistrates' courts; religious and military courts; Economic Security Court; Counterterrorism Court (established June 2012)<br>
 
 **Political parties and leaders**<br>
-<strong>legal parties/alliances:<br></strong> Arab Socialist Ba'ath Party [Bashar al-ASAD, regional secretary] <br>Arab Socialist Renaissance (Ba'th) Party [President Bashar al-ASAD] <br>Arab Socialist Union of Syria or ASU [Safwan al-QUDSI]<br>Democratic Arab Socialist Union [Hassan Abdul AZIM, general secretary] <br>National Progressive Front or NPF [Bashar al-ASAD, Suleiman QADDAH] (alliance includes Arab Socialist Renaissance (Ba'th) Party, Socialist Unionist Democratic Party)<br>Socialist Unionist Party [Fayiz ISMAIL]<br>Socialist Unionist Democratic Party [Fadlallah Nasr al-DIN]<br>Syrian Communist Party (two branches) [Wissal Farha BAKDASH, Yusuf Rashid FAYSAL] <br>Syrian Social Nationalist Party or SSNP [Ali HAIDAR]<br>Unionist Socialist Party [Fayez ISMAIL]<br><strong><br>Major Kurdish parties</strong> <br>Kurdish Democratic Union Party or PYD [Shahoz HASAN and Aysha HISSO]<br>Kurdish National Council [Sa'ud MALA]<br>  <br><strong>other:</strong> Syrian Democratic Party [Mustafa QALAAJI]<br>
+<strong>legal parties/alliances:<br></strong> Arab Socialist Ba'ath Party [Bashar al-ASAD, regional secretary] <br>Arab Socialist Renaissance (Ba'th) Party [President Bashar al-ASAD] <br>Arab Socialist Union of Syria or ASU [Safwan al-QUDSI]<br>Democratic Arab Socialist Union [Hassan Abdul AZIM, general secretary] <br>National Progressive Front or NPF [Bashar al-ASAD, Suleiman QADDAH] (alliance includes Arab Socialist Renaissance (Ba'th) Party, Socialist Unionist Democratic Party)<br>Socialist Unionist Party [Fayiz ISMAIL]<br>Socialist Unionist Democratic Party [Fadlallah Nasr al-DIN]<br>Syrian Communist Party (two branches) [Wissal Farha BAKDASH, Yusuf Rashid FAYSAL] <br>Syrian Social Nationalist Party or SSNP [Ali HAIDAR]<br>Unionist Socialist Party [Fayez ISMAIL]<br><strong><br>major Kurdish political organizations:<br></strong>Kurdish Democratic Union Party or PYD [Saleh MUSLIM, Asia ABDULLAH]<br>Kurdish National Council or KNC [Sa'ud MALA]<br>Self-Administration of Northeast Syria or SANES [Abd Hamid al-MAHBASH] <br>Syrian Democratic Council or SDC [Ilham AHMAD]<br><br><strong>other:<br></strong>Syrian Democratic Party [Mustafa QALAAJI]<br>
 
 **International organization participation**<br>
 ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, ICSID, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UNWTO, UPU, WBG, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
@@ -623,17 +620,11 @@ YK<br>
 
 **Airports - with paved runways**<br>
 _total_: 29<br>
-_over 3,047 m_: 5<br>
-_2,438 to 3,047 m_: 16<br>
-_914 to 1,523 m_: 3<br>
-_under 914 m_: 5 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 61<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 12<br>
-_under 914 m_: 48 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 6 (2021)<br>

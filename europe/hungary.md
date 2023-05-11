@@ -191,9 +191,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2016)<br>
 _vectorborne diseases_: tickborne encephalitis (2016)<br>
@@ -491,11 +488,6 @@ _on alcohol and tobacco_: 7.3% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3.3%<br>
 _highest 10%_: 22.4% (2015)<br>
 
-**Remittances**<br>
-1.92% of GDP (2021 est.)<br>
-2.43% of GDP (2020 est.)<br>
-3.03% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $70.83 billion (2019 est.)<br>
 _expenditures_: $74.127 billion (2019 est.)<br>
@@ -664,18 +656,11 @@ HA<br>
 
 **Airports - with paved runways**<br>
 _total_: 20<br>
-_over 3,047 m_: 2<br>
-_2,438 to 3,047 m_: 6<br>
-_1,524 to 2,437 m_: 6<br>
-_914 to 1,523 m_: 5<br>
-_under 914 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 21<br>
-_1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 8<br>
-_under 914 m_: 11 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 3 (2021)<br>
@@ -742,7 +727,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 35,030 (Ukraine) (as of 18 April 2023)<br>
+_refugees (country of origin)_: 35,030 (Ukraine) (as of 2 May 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

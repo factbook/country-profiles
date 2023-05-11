@@ -93,7 +93,7 @@ Uzbek 83.8%, Tajik 4.8%, Kazakh 2.5%, Russian 2.3%, Karakalpak 2.2%, Tatar 1.5%,
 **Languages**<br>
 Uzbek (official) 74.3%, Russian 14.2%, Tajik 4.4%, other 7.1%<br>
 _major-language sample(s)_: <br>Jahon faktlari kitobi, asosiy ma'lumotlar uchun zaruriy manba. (Uzbek)<br><br>The World Factbook, the indispensable source for basic information.<br>
-<strong>note:</strong> in the autonomous Karakalpakstan Republic, both the Karakalpak language and Uzbek have official status<br>
+<strong>note:</strong> in the semi-autonomous Republic of Karakalpakstan, both the Karakalpak language and Uzbek have official status<br>
 
 **Religions**<br>
 Muslim 88% (mostly Sunni), Eastern Orthodox 9%, other 3%<br>
@@ -192,9 +192,6 @@ _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
-
-**HIV/AIDS - adult prevalence rate**<br>
-0.2% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 16.6% (2016)<br>
@@ -653,17 +650,11 @@ UK<br>
 
 **Airports - with paved runways**<br>
 _total_: 33<br>
-_over 3,047 m_: 6<br>
-_2,438 to 3,047 m_: 13<br>
-_1,524 to 2,437 m_: 6<br>
-_914 to 1,523 m_: 4<br>
-_under 914 m_: 4 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 20<br>
-_2,438 to 3,047 m_: 2<br>
-_under 914 m_: 18 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
 13,700 km gas, 944 km oil (2016)<br>

@@ -96,9 +96,6 @@ _unimproved: total_: total: NA<br>
 **Current health expenditure**<br>
 NA<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 

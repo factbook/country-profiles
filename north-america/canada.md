@@ -202,9 +202,6 @@ _unimproved: urban_: urban: 0.9% of population<br>
 _unimproved: rural_: rural: 1.1% of population<br>
 _unimproved: total_: total: 1% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Major infectious diseases**<br>
 <p><strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in North America; Canada is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 
@@ -371,7 +368,7 @@ _election results_: <br>Senate - composition as of May 2022 - men 47, women 45, 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)<br>
 _judge selection and term of office_: chief justice and judges appointed by the prime minister in council; all judges appointed for life with mandatory retirement at age 75<br>
-_subordinate courts_: federal level: Federal Court of Appeal; Federal Court; Tax Court; federal administrative tribunals; Courts Martial; provincial/territorial level: provincial superior, appeals, first instance, and specialized courts; note -&nbsp; in 1999, the Nunavut Court - a circuit court with the power of a provincial superior court, as well as a territorial court - was established to serve isolated settlements<br>
+_subordinate courts_: federal level: Federal Court of Appeal; Federal Court; Tax Court; federal administrative tribunals; Courts Martial; provincial/territorial level: provincial superior, appeals, first instance, and specialized courts; note - in 1999, the Nunavut Court - a circuit court with the power of a provincial superior court, as well as a territorial court - was established to serve isolated settlements<br>
 
 **Political parties and leaders**<br>
 Bloc Quebecois [Yves-Francois BLANCHET]<br>Conservative Party of Canada or CPC [Pierre POILIEVRE]<br>Green Party [Elizabeth MAY]<br>Liberal Party [Justin TRUDEAU]<br>New Democratic Party or NDP [Jagmeet SINGH]<br>People's Party of Canada [Maxime BERNIER]<br>
@@ -505,11 +502,6 @@ _on alcohol and tobacco_: 3.3% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 24.8% (2000)<br>
-
-**Remittances**<br>
-0.04% of GDP (2021 est.)<br>
-0.05% of GDP (2020 est.)<br>
-0.08% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $686.718 billion (2020 est.)<br>
@@ -681,18 +673,11 @@ C<br>
 
 **Airports - with paved runways**<br>
 _total_: 523<br>
-_over 3,047 m_: 21<br>
-_2,438 to 3,047 m_: 19<br>
-_1,524 to 2,437 m_: 147<br>
-_914 to 1,523 m_: 257<br>
-_under 914 m_: 79 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 944<br>
-_1,524 to 2,437 m_: 75<br>
-_914 to 1,523 m_: 385<br>
-_under 914 m_: 484 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 26 (2021)<br>

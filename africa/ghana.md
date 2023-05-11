@@ -197,9 +197,6 @@ _unimproved: urban_: urban: 15.2% of population<br>
 _unimproved: rural_: rural: 47.2% of population<br>
 _unimproved: total_: total: 28.9% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-1.7% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
@@ -505,11 +502,6 @@ _on alcohol and tobacco_: 1% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2%<br>
 _highest 10%_: 32.8% (2006)<br>
 
-**Remittances**<br>
-6.13% of GDP (2020 est.)<br>
-5.93% of GDP (2019 est.)<br>
-5.23% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $9.492 billion (2018 est.)<br>
 _expenditures_: $14.062 billion (2018 est.)<br>
@@ -678,15 +670,11 @@ _annual passenger traffic on registered air carriers_: 467,438 (2018)<br>
 
 **Airports - with paved runways**<br>
 _total_: 7<br>
-_over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 3<br>
-_914 to 1,523 m_: 2 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 3<br>
-_914 to 1,523 m_: 3 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
 681.3 km gas, 11.4 km oil, 435 km refined products (2022)<br>

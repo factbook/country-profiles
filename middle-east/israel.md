@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-Israel has emerged as a regional economic and military powerhouse, leveraging its booming high-tech sector, large defense industry, and concerns about Iran to foster partnerships around the world. The State of Israel was established in 1948. The UN General Assembly had proposed to partition the British Mandate for Palestine into an Arab and Jewish state. Arab states rejected the UN plan and were subsequently defeated militarily in the 1948 war that followed the withdrawal of the British on 14 May 1948. Israel was admitted as a member of the UN in 1949 and saw rapid population growth, primarily due to migration from Europe and the Middle East, over the following years. Israel and its Arab neighbors fought wars in 1967 and 1973 and Israel signed peace treaties with Egypt in 1979 and Jordan in 1994. Israel took control of the West Bank and Gaza Strip in the course of the 1967 war, and subsequently administered those territories through military authorities. Israel and Palestinian officials signed interim agreements in the 1990s that created an interim period of Palestinian self-rule in parts of the West Bank and Gaza. Israel withdrew from Gaza in 2005. While the most recent formal efforts between Israel and the Palestinian Authority to negotiate final status issues occurred in 2013-2014, the US continues its efforts to advance peace. Immigration to Israel continues, with more than 20,000 new immigrants, mostly Jewish, in 2020.<br><br>The Israeli economy has undergone a dramatic transformation in the last 25 years, led by cutting-edge, high-tech sectors. Offshore gas discoveries in the Mediterranean, most notably in the Tamar and Leviathan gasfields, place Israel at the center of a potential regional natural gas market. However, longer-term structural issues such as low labor force participation among minority populations, low workforce productivity, high costs for housing and consumer staples, and a lack of competition, remain a concern for many Israelis and an important consideration for Israeli politicians. Former Prime Minister Benjamin NETANYAHU dominated Israel's political landscape from 2009 to June 2021, becoming Israel's longest serving prime minister before he was unseated by Naftali BENNETT, after Israel's fourth election in two years. BENNETT formed the most ideologically diverse coalition in Israel's history, including the participation of an Arab-Israeli party. He served as prime minister for a year before stepping down on 1 July 2022 in favor of Yair LAPID, who was in office for only six months before himself being succeeded by Benjamin NETANYAHU in late 2022. Israel signed normalization agreements – brokered by the US – with Bahrain, the United Arab Emirates, and Morocco in late 2020 and reached an agreement with Sudan in early 2021.<br>
+Israel has become a regional economic and military powerhouse, leveraging its prosperous high-tech sector, large defense industry, and concerns about Iran to foster partnerships around the world. The State of Israel was established in 1948. The UN General Assembly had proposed to partition the British Mandate for Palestine into an Arab and Jewish state. Arab states rejected the UN plan and were subsequently defeated militarily in the 1948 war that followed the withdrawal of the British on 14 May 1948. Israel was admitted as a member of the UN in 1949 and saw rapid population growth, primarily due to migration from Europe and the Middle East, over the following years. Israel and its Arab neighbors fought wars in 1967 and 1973 and Israel signed peace treaties with Egypt in 1979 and Jordan in 1994. Israel took control of the West Bank and Gaza Strip in the course of the 1967 war, and subsequently administered those territories through military authorities. Israel and Palestinian officials signed interim agreements in the 1990s that created an interim period of Palestinian self-rule in parts of the West Bank and Gaza. Israel withdrew from Gaza in 2005. While the most recent formal efforts between Israel and the Palestinian Authority to negotiate final status issues occurred in 2013-2014, the US continues its efforts to advance peace. Israel signed the US-brokered normalization agreements (the Abraham Accords) with Bahrain, the UAE, and Morocco in 2020 and reached an agreement with Sudan in 2021. Immigration to Israel continues, with more than 73,000 estimated new immigrants, mostly Jewish, in 2022.<br><br>The Israeli economy has undergone a dramatic transformation in the last 30 years, led by cutting-edge, high-tech sectors. Offshore gas discoveries in the Mediterranean, most notably in the Tamar and Leviathan gasfields, place Israel at the center of a potential regional natural gas market. In late 2022, a US-brokered agreement between Israel and Lebanon established their maritime boundary, allowing Israel to begin production on additional gasfields in the Mediterranean. However, Israel's economic prosperity is not consistently mirrored in the Israeli public's financial stability. Structural issues such as low labor force participation among religious and minority populations, low workforce productivity, high costs for housing and consumer staples, and high-income inequality, remain a concern for many Israelis and an important consideration for Israeli politicians. Former Prime Minister Benjamin NETANYAHU returned to office in late 2022 continuing his dominance of Israel's political landscape at the head of Israel's most rightwing and religious government. NETANYAHU previously served as premier from 2009 to June 2021, becoming Israel's longest serving prime minister. <br>
 
 ## Geography
 
@@ -483,11 +483,6 @@ _on alcohol and tobacco_: 2.9% of household expenditures (2018 est.)<br>
 _lowest 10%_: 1.7%<br>
 _highest 10%_: 31.3% (2010)<br>
 
-**Remittances**<br>
-0.25% of GDP (2021 est.)<br>
-0.28% of GDP (2020 est.)<br>
-0.24% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $139.374 billion (2019 est.)<br>
 _expenditures_: $154.927 billion (2019 est.)<br>
@@ -657,17 +652,11 @@ _annual freight traffic on registered air carriers_: 994.54 million (2018) mt-km
 
 **Airports - with paved runways**<br>
 _total_: 33<br>
-_over 3,047 m_: 3<br>
-_2,438 to 3,047 m_: 5<br>
-_1,524 to 2,437 m_: 5<br>
-_914 to 1,523 m_: 12<br>
-_under 914 m_: 8 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 9<br>
-_914 to 1,523 m_: 3<br>
-_under 914 m_: 6 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 3 (2021)<br>

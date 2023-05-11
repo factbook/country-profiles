@@ -194,9 +194,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.2% (2021 est.)<br>
-
 **Obesity - adult prevalence rate**<br>
 19.5% (2016)<br>
 
@@ -301,7 +298,7 @@ _conventional short form_: Switzerland<br>
 _local long form_: Schweizerische Eidgenossenschaft (German)/ Confederation Suisse (French)/ Confederazione Svizzera (Italian)/ Confederaziun Svizra (Romansh)<br>
 _local short form_: Schweiz (German)/ Suisse (French)/ Svizzera (Italian)/ Svizra (Romansh)<br>
 _abbreviation_: CH<br>
-_etymology_: name derives from the canton of Schwyz, one of the founding cantons of the Swiss Confederacy that formed in the 14th century<br>
+_etymology_: name derives from the canton of Schwyz, one of the founding cantons of the Swiss Confederacy that formed in the late 13th century<br>
 
 **Government type**<br>
 federal republic (formally a confederation)<br>
@@ -659,16 +656,11 @@ HB<br>
 
 **Airports - with paved runways**<br>
 _total_: 40<br>
-_over 3,047 m_: 3<br>
-_2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 12<br>
-_914 to 1,523 m_: 6<br>
-_under 914 m_: 17 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 23<br>
-_under 914 m_: 23 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 2 (2021)<br>
@@ -733,7 +725,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,763 (Ukraine) (as of 14 April 2023)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,655 (Ukraine) (as of 28 April 2023)<br>
 _stateless persons_: 891 (2022)<br>
 
 **Illicit drugs**<br>

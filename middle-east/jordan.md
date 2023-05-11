@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Following World War I and the dissolution of the Ottoman Empire, the League of Nations awarded Britain the mandate to govern much of the Middle East. Britain demarcated a semi-autonomous region of Transjordan from Palestine in 1921 and recognized ABDALLAH I from the Hashemite family as the country's first leader. The Hashemites also controlled Hijaz, or the western coastal area of modern day Saudi Arabia until 1925, when they were pushed out by Ibn SAUD and Wahhabi tribes. The country gained its independence in 1946 and thereafter became The Hashemite Kingdom of Jordan.</p> The country has had four kings. Jordan's long-time ruler, King HUSSEIN (1953-99), successfully navigated competing pressures from the major powers (US, USSR, and UK), various Arab states, Israel, and Palestinian militants, which led to a brief civil war in 1970 referred to as "Black September" and ended in King HUSSEIN's ouster of the militants from Jordan. Jordan's borders also have changed. In 1948, Jordan took control of the West Bank and East Jerusalem, eventually annexing those territories in 1950 and granting its new Palestinian residents Jordanian citizenship. In 1967, Jordan lost the West Bank and East Jerusalem to Israel in the Six-Day War but retained administrative claims until 1988 when King HUSSEIN permanently relinquished Jordanian claims to the West Bank in favor of the Palestinian Liberation Organization (PLO). King HUSSEIN signed a peace treaty with Israel in 1994, after Israel and the PLO signed the Oslo Accords in 1993.<br><br>Jordanian kings continue to claim custodianship of the holy sites in Jerusalem by virtue of their Hashemite heritage as descendants of the Prophet Mohammad and agreements with Israel and Jerusalem-based religious and Palestinian leaders. After Israel captured East Jerusalem in the 1967 War, it authorized the Jordanian-controlled Islamic Trust, or Waqf, to continue administering affairs in the Al Haram ash Sharif/Temple Mount holy compound, and the Jordan-Israel peace treaty reaffirmed Jordan's "special role" in administering the Muslim holy shrines in Jerusalem.<br><br>King HUSSEIN died in 1999 and was succeeded by his eldest son, ABDALLAH II, who remains the current king. In 2009, King ABDALLAH II designated his son HUSSEIN as the Crown Prince. During his reign, ABDALLAH II has contended with a series of challenges, including the Arab Spring influx of refugees from neighboring states and a perennially weak economy. <p> </p><br>
+<p>Following World War I and the dissolution of the Ottoman Empire, the League of Nations awarded Britain the mandate to govern much of the Middle East. Britain demarcated a semi-autonomous region of Transjordan from Palestine in 1921 and recognized ABDALLAH I from the Hashemite family as the country's first leader. The Hashemites also controlled the Hijaz, or the western coastal area of modern-day Saudi Arabia until 1925, when they were pushed out by IBN SAUD and Wahhabi tribes. The country gained its independence in 1946 and thereafter became The Hashemite Kingdom of Jordan.</p> The country has had four kings. Jordan's long-time ruler, King HUSSEIN (r. 1953-99), successfully navigated competing pressures from the major powers (US, USSR, and UK), various Arab states, Israel, and Palestinian militants, the latter of which led to a brief civil war in 1970 referred to as "Black September" and ended in King HUSSEIN's ouster of the militants from Jordan. <br><br>Jordan's borders also have changed since it gained independence. In 1948, Jordan took control of the West Bank and East Jerusalem in the first Arab-Israeli War, eventually annexing those territories in 1950 and granting its new Palestinian residents Jordanian citizenship. In 1967, Jordan lost the West Bank and East Jerusalem to Israel in the Six-Day War but retained administrative claims to the West Bank until 1988 when King HUSSEIN permanently relinquished Jordanian claims to the West Bank in favor of the Palestine Liberation Organization (PLO). King HUSSEIN signed a peace treaty with Israel in 1994, after Israel and the PLO signed the Oslo Accords in 1993.<br><br>Jordanian kings continue to claim custodianship of the Muslim holy sites in Jerusalem by virtue of their Hashemite heritage as descendants of the Prophet Mohammad and agreements with Israel and Jerusalem-based religious and Palestinian leaders. After Israel captured East Jerusalem in the 1967 War, it authorized the Jordanian-controlled Islamic Trust, or Waqf, to continue administering affairs at the Al Haram ash Sharif/Temple Mount holy compound, and the Jordan-Israel peace treaty reaffirmed Jordan's "special role" in administering the Muslim holy shrines in Jerusalem. Jordanian kings claim custodianship of the Christian sites in Jerusalem on the basis of the 7th-century Pact of Omar, when the Muslim leader, after conquering Jerusalem, agreed to permit Christian worship.<br><br>King HUSSEIN died in 1999 and was succeeded by his eldest son, ABDALLAH II, who remains the current king. In 2009, King ABDALLAH II designated his son HUSSEIN as the Crown Prince. During his reign, ABDALLAH II has contended with a series of challenges, including the Arab Spring influx of refugees from neighboring states, the COVID-19 pandemic, the effects of the war in Ukraine, and a perennially weak economy. <p> </p><br>
 
 ## Geography
 
@@ -195,9 +195,6 @@ _improved: total_: total: 98.7% of population<br>
 _unimproved: urban_: urban: 1.2% of population<br>
 _unimproved: rural_: rural: 2.2% of population<br>
 _unimproved: total_: total: 1.3% of population (2020 est.)<br>
-
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
 
 **Obesity - adult prevalence rate**<br>
 35.5% (2016)<br>
@@ -493,11 +490,6 @@ _on alcohol and tobacco_: 4.6% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3.4%<br>
 _highest 10%_: 28.7% (2010 est.)<br>
 
-**Remittances**<br>
-11.29% of GDP (2021 est.)<br>
-11.05% of GDP (2020 est.)<br>
-10.34% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $10.813 billion (2019 est.)<br>
 _expenditures_: $13.489 billion (2019 est.)<br>
@@ -666,15 +658,11 @@ JY<br>
 
 **Airports - with paved runways**<br>
 _total_: 16<br>
-_over 3,047 m_: 8<br>
-_2,438 to 3,047 m_: 5<br>
-_1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
-_under 914 m_: 2 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 1 (2021)<br>

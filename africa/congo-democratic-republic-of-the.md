@@ -199,9 +199,6 @@ _unimproved: urban_: urban: 46.6% of population<br>
 _unimproved: rural_: rural: 79.5% of population<br>
 _unimproved: total_: total: 64.5% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.7% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
@@ -514,11 +511,6 @@ _female_: 8.5% (2021 est.)<br>
 _lowest 10%_: 2.3%<br>
 _highest 10%_: 34.7% (2006)<br>
 
-**Remittances**<br>
-2.28% of GDP (2020 est.)<br>
-4.01% of GDP (2019 est.)<br>
-3.83% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $5.419 billion (2019 est.)<br>
 _expenditures_: $6.382 billion (2019 est.)<br>
@@ -689,18 +681,11 @@ _annual freight traffic on registered air carriers_: 890,000 (2018) mt-km<br>
 
 **Airports - with paved runways**<br>
 _total_: 26<br>
-_over 3,047 m_: 3<br>
-_2,438 to 3,047 m_: 3<br>
-_1,524 to 2,437 m_: 17<br>
-_914 to 1,523 m_: 2<br>
-_under 914 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 172<br>
-_1,524 to 2,437 m_: 20<br>
-_914 to 1,523 m_: 87<br>
-_under 914 m_: 65 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 1 (2021)<br>
@@ -755,7 +740,7 @@ the FARDC is equipped mostly with Soviet-era weapons systems and equipment (2022
 <strong>note: </strong>in eastern Congo, fighters from armed groups, and in some cases government security forces, have been accused of forced recruitment of child soldiers<br>
 
 **Military - note**<br>
-<p>the FARDC’s primary focus is internal security; while the FARDC is large on paper, with an estimated 18 operational infantry brigades, it struggles to provide security in large portions of the country; the FARDC is widely assessed to suffer from insufficient training, low equipment readiness, poor morale and leadership, ill-discipline, and widespread corruption; it was created out of the armed factions of the Congo wars that ended in 2003, incorporating various militia, paramilitary, and rebel formations; the DRC’s most effective military force, the Republican Guard, is overseen by the office of the presidency rather than the FARDC and focuses largely on protecting the president and government institutions and enforcing internal security</p> <p>the FARDC is actively conducting operations against a variety of illegal armed groups (IOGs) operating in the DRC, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, where more than 15 significant and cohesive IOGs operate; there is also violence in Maniema, Kasai, Kasai Central, and Tanganyika provinces; some estimates place over 100 IOGs operating in the country, including organized militias, such as the Nduma Defense of Congo-Renewal (NDC-R), which controls a large portion of North Kivu; Mai Mai groups (local militias that operate variously as self-defense networks and criminal rackets); and foreign-origin groups seeking safe haven and resources, such as the Ugandan-origin Allied Democratic Forces (ADF; aka Islamic State of Iraq and ash-Sham in the DRC), the Democratic Forces for the Liberation of Rwanda (FDLR), multiple groups originating from Burundi, the Lords Resistance Army (LRA), and the March 23 Movement (aka M23 or Congolese Revolutionary Army), which the DRC has accused Rwanda of backing; the FARDC has been accused of collaborating with some IOGs, such as the NDC-R</p> the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) has operated in the central and eastern parts of the country since 1999; as of early 2023, MONUSCO had over 14,000 personnel assigned; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security (2023)<br>
+<p>the FARDC’s primary focus is internal security; while the FARDC is large on paper, with an estimated 18 operational infantry brigades, it struggles to provide security in large portions of the country; the FARDC is widely assessed to suffer from insufficient training, low equipment readiness, poor morale and leadership, ill-discipline, and widespread corruption; it was created out of the armed factions of the Congo wars that ended in 2003, incorporating various militia, paramilitary, and rebel formations; the DRC’s most effective military force, the Republican Guard, is overseen by the office of the presidency rather than the FARDC and focuses largely on protecting the president and government institutions and enforcing internal security</p> <p>the FARDC is actively conducting operations against a variety of illegal armed groups (IOGs) operating in the DRC, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, where more than 15 significant and cohesive IOGs operate; there is also violence in Maniema, Kasai, Kasai Central, and Tanganyika provinces; some estimates place over 100 IOGs operating in the country, including organized militias, such as the Nduma Defense of Congo-Renewal (NDC-R), which controls a large portion of North Kivu; Mai Mai groups (local militias that operate variously as self-defense networks and criminal rackets); and foreign-origin groups seeking safe haven and resources, such as the Ugandan-origin Allied Democratic Forces (ADF; aka Islamic State of Iraq and ash-Sham in the DRC), the Democratic Forces for the Liberation of Rwanda (FDLR), multiple groups originating from Burundi, the Lords Resistance Army (LRA), and the March 23 Movement (aka M23 or Congolese Revolutionary Army), which the DRC has accused Rwanda of backing; the FARDC has been accused of collaborating with some IOGs, such as the NDC-R; in 2023, the East Africa Community deployed a regional force to oversee the withdrawal of the M23 rebel group from the country; countries sending troops include Burundi, Kenya, Uganda, and South Sudan</p> the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) has operated in the central and eastern parts of the country since 1999; as of early 2023, MONUSCO had over 14,000 personnel assigned; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reported one incident in the territorial waters of the Democratic Republic of the Congo in 2022, the same number of attacks as in 2021; the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; past incidents have been reported where vessels were attacked and crews kidnapped; these incidents showed that the pirates / robbers in the area are well armed and violent; pirates have robbed vessels and kidnapped crews for ransom; in the past, product tankers were hijacked and cargo stolen; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 3 January 2023, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>

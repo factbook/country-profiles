@@ -189,9 +189,6 @@ _unimproved: urban_: urban: 17.1% of population<br>
 _unimproved: rural_: rural: 57.4% of population<br>
 _unimproved: total_: total: 34.4% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-1.8% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
@@ -372,7 +369,7 @@ _email address and website_: <br>amb.washington@diplomatie.ht<br><br>https://www
 _consulate(s) general_: Atlanta, Boston, Chicago, Miami, Orlando (FL), New York, San Juan (Puerto Rico)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Nicole D. THERIOT<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Eric William STROMAYER (since 3 July 2022)<br><br>
 _embassy_: Tabarre 41, Route de Tabarre, Port-au-Prince<br>
 _mailing address_: 3400 Port-au-Prince Place, Washington, DC 20521-3400<br>
 _telephone_: [011] (509) 2229-8000<br>
@@ -397,7 +394,7 @@ _selected World Heritage Site locales_: National History Park &ndash; Citadel, S
 ## Economy
 
 **Economic overview**<br>
-small Caribbean island economy and OECS-member state; extreme poverty; enormous income inequalities; destabilization due to recent presidential assassination; US preferential market access; deteriorating human capital and infrastructure investments<br>
+small Caribbean island economy and OECS-member state; extreme poverty and inflation; enormous income inequality; ongoing civil unrest due to recent presidential assassination; US preferential market access; very open to foreign direct investment<br>
 
 **Real GDP (purchasing power parity)**<br>
 $32.856 billion (2021 est.)<br>
@@ -477,11 +474,6 @@ _female_: 45.6% (2021 est.)<br>
 _lowest 10%_: 0.7%<br>
 _highest 10%_: 47.7% (2001)<br>
 
-**Remittances**<br>
-20.04% of GDP (2021 est.)<br>
-23.82% of GDP (2020 est.)<br>
-20.47% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $1.179 billion (2020 est.)<br>
 _expenditures_: $1.527 billion (2020 est.)<br>
@@ -510,7 +502,7 @@ $1.014 billion (2020 est.) note: data are in current year dollars<br>
 $1.733 billion (2019 est.)<br>
 
 **Exports - partners**<br>
-United States 81%, Canada 7% (2019)<br>
+United States 83%, Canada 4%, Mexico 3%, India 1%, Hong Kong 1% (2021)<br>
 
 **Exports - commodities**<br>
 clothing and apparel, essential oils, eels, mangoes, scrap iron (2021)<br>
@@ -521,10 +513,10 @@ $4.206 billion (2020 est.) note: data are in current year dollars<br>
 $5.161 billion (2019 est.)<br>
 
 **Imports - partners**<br>
-United States 39%, China 22%, Turkey 5% (2019)<br>
+United States 26%, Dominican Republic 23%, China 19%, Turkey 3%, Indonesia 3% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, rice, clothing and apparel, palm oil, poultry meats (2019)<br>
+refined petroleum, rice, clothing and apparel, poultry, palm oil (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $2.759 billion (31 December 2021 est.)<br>
@@ -649,14 +641,11 @@ HH<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
-_2,438 to 3,047 m_: 2<br>
-_914 to 1,523 m_: 2 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 10<br>
-_914 to 1,523 m_: 2<br>
-_under 914 m_: 8 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>
 _total_: 4,102 km (2011)<br>
@@ -673,14 +662,11 @@ _major seaport(s)_: Cap-Haitien, Gonaives, Jacmel, Port-au-Prince<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in 2017 to assist with natural disaster relief, border security, and combating transnational crime; it established an Army command in 2018 (2022)<br>
-<strong>note: </strong>the Haitian National Police (under the Ministry of Justice and Public Security) has a number of specialized units, including a coast guard, a presidential guard, and a paramilitary rapid-response Motorized Intervention Unit or BIM <p class="gmail-css-axufdj"> </p><br>
-
-**Military expenditures**<br>
-not available<br>
+the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in 2017; it established an Army command in 2018; Ministry of Justice and Public Security: Haitian National Police (Police Nationale d'Haïti or PNH) (2023)<br>
+<strong>note:</strong> the PNH is responsible for maintaining public security; it includes police, corrections, fire, emergency response, airport security, port security, and coast guard functions; its units include a presidential guard and a paramilitary rapid-response Motorized Intervention Unit or BIM  <p class="gmail-css-axufdj"> </p><br>
 
 **Military and security service personnel strengths**<br>
-approximately 1,200 active military troops (the force is planned to eventually have around 5,000 personnel); approximately 16,000 National Police (2022)<br>
+up to 2,000 military troops (the force is planned to eventually have around 5,000 personnel); estimates for the National Police range from a low of 9,000 to a high of about 13,000 (2023)<br>
 
 **Military service age and obligation**<br>
 not available<br>

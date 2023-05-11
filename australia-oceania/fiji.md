@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Austronesians settled Fiji around 1000 B.C., followed by successive waves of Melanesians starting around the first century A.D. Fijians traded with Polynesian groups in Samoa and Tonga, and by about 900, much of Fiji was in the Tu’i Tongan Empire’s sphere of influence. The Tongan influence declined significantly by 1200, while Melanesian seafarers continued to periodically arrive in Fiji, further mixing Melanesian and Polynesian cultural traditions. Dutch explorer Abel TASMAN was the first European to spot Fiji in 1643, followed by British explorer James COOK in 1774. Captain William BLIGH plotted the islands in 1789. In the 1800s, merchants, traders, and whalers frequented the islands and the first missionaries arrived in 1835. Rival kings and chiefs competed for power, at times aided by Europeans and their weapons, and in 1865, Seru Epenisa CAKOBAU united many groups into the Confederacy of Independent Kingdoms of Viti. The arrangement proved weak and in 1871 CAKOBAU formed the Kingdom of Fiji in an attempt to centralize power. Fearing a hostile takeover by a foreign power as the kingdom’s economy began to falter, CAKOBAU ceded Fiji to the UK in 1874.<br><br>The first British governor set up a plantation-style economy and brought in more than 60,000 Indians as indentured laborers, most of whom chose to stay in Fiji rather than return to India when their contracts expired. In the early 1900s, society was divided along ethnic lines, with iTaukei (indigenous Fijians), Europeans, and Indo-Fijians living in separate areas and maintaining their own languages and traditions. ITaukei fears of an Indo-Fijian takeover of government delayed independence through the 1960s; Fiji achieved independence in 1970 with agreements in place to allocate parliamentary seats by ethnic groups. Long-serving Prime Minister Kamisese MARA largely balanced these ethnic divisions, but concerns about growing Indo-Fijian political influence led to two coups in 1987. A new constitution in 1990 cemented iTaukei control of politics, leading thousands of Indo-Fijians to leave. A reformed constitution in 1997 was more equitable and led to the election of an Indo-Fijian prime minister in 1999, who was ousted in a coup the following year. In 2005, the new prime minister put forward a bill that would grant pardons to the coup perpetrators, leading Commodore Josaia BAINIMARAMA to launch a coup in 2006. BAINIMARAMA  appointed himself prime minister in 2007 and continues to hold the position after elections in 2014 and 2018 that international observers deemed credible.<br><br>With well-developed infrastructure, Fiji has become a hub for the Pacific, hosting the secretariat for the Pacific Islands Forum and the main campus of the University of the South Pacific. In addition, Fiji is a center for Pacific tourism, and Nadi International Airport is by far the busiest airport in a Pacific island country.</p><br>
+<p>Austronesians settled Fiji around 1000 B.C., followed by successive waves of Melanesians starting around the first century A.D. Fijians traded with Polynesian groups in Samoa and Tonga, and by about 900, much of Fiji was in the Tu’i Tongan Empire’s sphere of influence. The Tongan influence declined significantly by 1200, while Melanesian seafarers continued to periodically arrive in Fiji, further mixing Melanesian and Polynesian cultural traditions. Dutch explorer Abel TASMAN was the first European to spot Fiji in 1643, followed by British explorer James COOK in 1774. Captain William BLIGH plotted the islands in 1789. In the 1800s, merchants, traders, and whalers frequented the islands and the first missionaries arrived in 1835. Rival kings and chiefs competed for power, at times aided by Europeans and their weapons, and in 1865, Seru Epenisa CAKOBAU united many groups into the Confederacy of Independent Kingdoms of Viti. The arrangement proved weak and in 1871 CAKOBAU formed the Kingdom of Fiji in an attempt to centralize power. Fearing a hostile takeover by a foreign power as the kingdom’s economy began to falter, CAKOBAU ceded Fiji to the UK in 1874.<br><br>The first British governor set up a plantation-style economy and brought in more than 60,000 Indians as indentured laborers, most of whom chose to stay in Fiji rather than return to India when their contracts expired. In the early 1900s, society was divided along ethnic lines, with iTaukei (indigenous Fijians), Europeans, and Indo-Fijians living in separate areas and maintaining their own languages and traditions. ITaukei fears of an Indo-Fijian takeover of government delayed independence through the 1960s; Fiji achieved independence in 1970 with agreements in place to allocate parliamentary seats by ethnic groups. Long-serving Prime Minister Kamisese MARA largely balanced these ethnic divisions, but concerns about growing Indo-Fijian political influence led to two coups in 1987. A new constitution in 1990 cemented iTaukei control of politics, leading thousands of Indo-Fijians to leave. A reformed constitution in 1997 was more equitable and led to the election of an Indo-Fijian prime minister in 1999, who was ousted in a coup the following year. In 2005, the new prime minister put forward a bill that would grant pardons to the coup perpetrators, leading Commodore Josaia BAINIMARAMA to launch a coup in 2006. BAINIMARAMA appointed himself prime minister in 2007 and retained the position after elections in 2014 and 2018 that international observers deemed credible. BAINIMARAMA's party lost control of the prime minister position following elections in December 2022 and former opposition leader Sitiveni Ligamamada RABUKA assumed the office with a slim, one-seat parliamentary margin.<br><br>With well-developed infrastructure, Fiji has become a hub for the Pacific, hosting the secretariat for the Pacific Islands Forum and the main campus of the University of the South Pacific. In addition, Fiji is a center for Pacific tourism, and Nadi International Airport is by far the busiest airport in a Pacific island country.</p><br>
 
 ## Geography
 
@@ -182,9 +182,6 @@ _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
-
-**HIV/AIDS - adult prevalence rate**<br>
-0.2% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 30.2% (2016)<br>
@@ -452,11 +449,6 @@ _female_: 25.9% (2021 est.)<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 34.9% (2009 est.)<br>
 
-**Remittances**<br>
-11.26% of GDP (2021 est.)<br>
-7.94% of GDP (2020 est.)<br>
-5.39% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $885 million (2020 est.)<br>
 _expenditures_: $1.515 billion (2020 est.)<br>
@@ -626,15 +618,11 @@ DQ<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
-_over 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 2 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 24<br>
-_914 to 1,523 m_: 5<br>
-_under 914 m_: 19 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Railways**<br>
 _total_: 597 km (2008)<br>

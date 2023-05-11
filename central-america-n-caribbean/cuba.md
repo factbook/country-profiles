@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The native Amerindian population of Cuba began to decline after the arrival of Christopher COLUMBUS in 1492 and following its development as a Spanish colony during the next several centuries. Large numbers of African slaves were imported to work the coffee and sugar plantations, and Havana became the launching point for the annual treasure fleets bound for Spain from Mexico and Peru. Spanish rule eventually provoked an independence movement and occasional rebellions were harshly suppressed. US intervention during the Spanish-American War in 1898 assisted the Cubans in overthrowing Spanish rule. The Treaty of Paris established Cuban independence from Spain in 1898 and, following three-and-a-half years of subsequent US military rule, Cuba became an independent republic in 1902 after which the island experienced a string of governments mostly dominated by the military and corrupt politicians. Fidel CASTRO led a rebel army to victory in 1959; his authoritarian rule held the subsequent regime together for nearly five decades. He handed off the presidency in February 2008 to his younger brother Raul CASTRO. Cuba's communist revolution, with Soviet support, was exported throughout Latin America and Africa during the 1960s, 1970s, and 1980s. Miguel DIAZ-CANEL Bermudez, hand-picked by Raul CASTRO to succeed him, was approved as president by the National Assembly and took office on 19 April 2018. DIAZ-CANEL was appointed First Secretary of the Communist Party on 19 April 2021 following the retirement of Raul CASTRO, and continues to serve as both president and first secretary.</p> <p>Cuba traditionally and consistently portrays the US embargo, in place since 1961, as the source of its difficulties. As a result of efforts begun in December 2014 to reestablish diplomatic relations with the Cuban Government, which were severed in January 1961, the US and Cuba reopened embassies in their respective countries in July 2015. The embargo remains in place, and the relationship between the US and Cuba remains tense. </p> <p>Illicit migration of Cuban nationals to the US via maritime and overland routes has been a longstanding challenge. On 12 January 2017, the US and Cuba signed a Joint Statement ending the so-called "wet-foot, dry-foot" policy – by which Cuban nationals who reached US soil were permitted to stay. Irregular Cuban maritime migration has dropped significantly since FY 2016, when migrant interdictions at sea topped 5,000, but land border crossings continue. In FY 2021, the US Coast Guard interdicted 838 Cuban nationals at sea. Also in FY 2021, 39,303 Cuban nationals presented themselves at various land border ports of entry throughout the US.</p><br>
+<p>The native Amerindian population of Cuba began to decline after the arrival of Christopher COLUMBUS in 1492 and following its development as a Spanish colony during the next several centuries. Large numbers of African slaves were imported to work the coffee and sugar plantations, and Havana became the launching point for the annual treasure fleets bound for Spain from Mexico and Peru. Spanish rule eventually provoked an independence movement and occasional rebellions were harshly suppressed. US intervention during the Spanish-American War in 1898 assisted the Cubans in overthrowing Spanish rule. The Treaty of Paris established Cuban independence from Spain in 1898 and, following three-and-a-half years of subsequent US military rule, Cuba became an independent republic in 1902 after which the island experienced a string of governments mostly dominated by the military and corrupt politicians. Fidel CASTRO led a rebel army to victory in 1959; his authoritarian rule held the subsequent regime together for nearly five decades. He handed off the presidency in February 2008 to his younger brother Raul CASTRO. Cuba's communist revolution, with Soviet support, was exported throughout Latin America and Africa during the 1960s, 1970s, and 1980s. Miguel DIAZ-CANEL Bermudez, hand-picked by Raul CASTRO to succeed him, was approved as president by the National Assembly and took office on 19 April 2018. DIAZ-CANEL was appointed First Secretary of the Communist Party on 19 April 2021 following the retirement of Raul CASTRO, and continues to serve as both president and first secretary.</p> <p>Cuba traditionally and consistently portrays the US embargo, in place since 1961, as the source of its difficulties. As a result of efforts begun in December 2014 to reestablish diplomatic relations with the Cuban Government, which were severed in January 1961, the US and Cuba reopened embassies in their respective countries in July 2015. The embargo remains in place, and the relationship between the US and Cuba remains tense. </p> <p>Illicit migration of Cuban nationals to the US via maritime and overland routes has been a longstanding challenge. On 12 January 2017, the US and Cuba signed a Joint Statement ending the so-called "wet-foot, dry-foot" policy – by which Cuban nationals who reached US soil were permitted to stay. Irregular Cuban maritime migration has dropped significantly since FY 2016, when migrant interdictions at sea topped 5,000, but land border crossings continue. In FY 2022, the US Coast Guard interdicted almost 10,000 Cuban nationals at sea. Also in FY 2022, 230,000 Cuban nationals presented themselves at various land border ports of entry throughout the US.</p><br>
 
 ## Geography
 
@@ -185,9 +185,6 @@ _improved: total_: total: 93% of population<br>
 _unimproved: urban_: urban: 5.2% of population<br>
 _unimproved: rural_: rural: 13% of population<br>
 _unimproved: total_: total: 7% of population (2017 est.)<br>
-
-**HIV/AIDS - adult prevalence rate**<br>
-0.5% (2021 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2023)<br>
@@ -645,17 +642,11 @@ CU<br>
 
 **Airports - with paved runways**<br>
 _total_: 64<br>
-_over 3,047 m_: 7<br>
-_2,438 to 3,047 m_: 10<br>
-_1,524 to 2,437 m_: 16<br>
-_914 to 1,523 m_: 4<br>
-_under 914 m_: 27 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 69<br>
-_914 to 1,523 m_: 11<br>
-_under 914 m_: 58 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
 41 km gas, 230 km oil (2013)<br>

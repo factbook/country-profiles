@@ -297,14 +297,14 @@ _residency requirement for naturalization_: 7 years for persons from a non-Carib
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Cecile LA GRENADE (since 7 May 2013)<br>
-_head of government_: Prime Minister Keith MITCHELL (since 20 February 2013)<br>
+_head of government_: Prime Minister Dickon MITCHELL (since 24 June 2022)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (13 seats; members appointed by the governor general - 10 on the advice of the prime minister and 3 on the advice of the leader of the opposition party; members serve 5-year terms)<br>House of Representatives (15 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last appointments on 27 April 2018 (next no later than 2023)<br>House of Representatives - last held on 13 March 2018 (next no later than 2023)<br>
-_election results_: Senate - percent by party - NA; seats by party - NA; composition - men 11, women 2 percent of women 15.4%<br>House of Representatives - percent of vote by party - NNP 58.9%, NDC 40.5%; other 0.6% seats by party - NNP 15; composition - men 8, women 7, percent of women 46.7%; note - total Parliament percent of women 32.1%<br>
+_elections_: Senate - last appointments on 3 August 2022 (next no later than 2027)<br>House of Representatives - last held on 23 June 2022 (next no later than 2027)<br>
+_election results_: Senate - percent by party - NA; seats by party - NDC 7, NNP 3, independents 3<br>House of Representatives - percent of vote by party - NDC 51.8%; NNP 47.8%; other 0.4%; seats by party - NDC 9; NNP 6<br>
 
 **Judicial branch**<br>
 _highest court(s)_: regionally, the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Grenada; appeals beyond the ECSC in civil and criminal matters are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -347,7 +347,7 @@ _lyrics/music_: Irva Merle BAPTISTE/Louis Arnold MASANTO<br>
 ## Economy
 
 **Economic overview**<br>
-small OECS service-based economy; large tourism, construction, transportation, and education sectors; major spice exporter; shrinking but still high public debt; vulnerable to hurricanes; declining remittances<br>
+small OECS service-based economy; large tourism, construction, transportation, and education sectors; major spice exporter; shrinking but still high public debt; vulnerable to hurricanes; emerging blue economy incentives<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.706 billion (2021 est.)<br>
@@ -419,11 +419,6 @@ _services_: 69% (2008 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
-**Remittances**<br>
-6.59% of GDP (2021 est.)<br>
-6.75% of GDP (2020 est.)<br>
-5.22% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $323 million (2019 est.)<br>
 _expenditures_: $263 million (2019 est.)<br>
@@ -452,7 +447,7 @@ $421.843 million (2020 est.)<br>
 $661.723 million (2019 est.)<br>
 
 **Exports - partners**<br>
-United States 40%, Saint Vincent and the Grenadines 7%, Saint Lucia 7%, France 6%, Netherlands 5%, Germany 5%, Ireland 5%, Antigua and Barbuda 5% (2019)<br>
+United States 30%, Saint Vincent and the Grenadines 12%, France 7%, Germany 5%, Trinidad and Tobago 5% (2021)<br>
 
 **Exports - commodities**<br>
 nutmeg, tuna, cocoa beans, fruits, nuts, toilet paper, acrylic paints, beer (2021)<br>
@@ -463,10 +458,10 @@ $587 million (2020 est.)<br>
 $727 million (2019 est.)<br>
 
 **Imports - partners**<br>
-United States 35%, Canada 24%, China 5% (2019)<br>
+United States 35%, Trinidad and Tobago 17%, Cayman Islands 8%, China 5%, United Kingdom 4% (2021)<br>
 
 **Imports - commodities**<br>
-aircraft, poultry meat, cars, refined petroleum, food preparation materials (2019)<br>
+refined petroleum, poultry, cars, food preparation materials, delivery trucks (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $348.259 million (31 December 2021 est.)<br>
@@ -585,9 +580,6 @@ J3<br>
 
 **Airports - with paved runways**<br>
 _total_: 3<br>
-_2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 1<br>
-_under 914 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Roadways**<br>
@@ -605,10 +597,10 @@ _major seaport(s)_: Saint George's<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the Royal Grenada Police Force (under the Ministry of National Security) includes a Coast Guard and a paramilitary Special Services Unit (2022)<br>
+no regular military forces; the Royal Grenada Police Force (under the Ministry of National Security) includes a Coast Guard and a paramilitary Special Services Unit (2023)<br>
 
 **Military - note**<br>
-Grenada joined the Caribbean Regional Security System (RSS) in 1985; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2022)<br>
+Grenada joined the Caribbean Regional Security System (RSS) in 1985; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2023)<br>
 
 ## Transnational Issues
 

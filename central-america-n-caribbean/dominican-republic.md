@@ -193,9 +193,6 @@ _unimproved: urban_: urban: 2.6% of population<br>
 _unimproved: rural_: rural: 8.7% of population<br>
 _unimproved: total_: total: 3.7% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.9% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
@@ -368,7 +365,7 @@ Alliance for Democracy or APD<br>Broad Front (Frente Amplio) [Fidel SANTANA]<br>
 ACP, AOSIS, BCIE, Caricom (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, MINUSMA, NAM, OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA (associated member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Sonia GUZMAN (since 18 January 2021)<br>
+_chief of mission_: Ambassador Sonia GUZM&Aacute;N DE HERN&Aacute;NDEZ (since 18 January 2021)<br>
 _chancery_: 1715 22nd Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-6280<br>
 _FAX_: [1] (202) 265-8057<br>
@@ -377,7 +374,7 @@ _consulate(s) general_: Boston, Chicago, Glendale (CA), Mayaguez (Puerto Rico), 
 _consulate(s)_: San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Robert W. THOMAS (since 20 January 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Alexander TITOLO<br>
 _embassy_: Av. Republica de Colombia #57, Santo Domingo<br>
 _mailing address_: 3470 Santo Domingo Place, Washington DC&nbsp; 20521-3470<br>
 _telephone_: (809) 567-7775<br>
@@ -401,7 +398,7 @@ _selected World Heritage Site locales_: Colonial City of Santo Domingo<br>
 ## Economy
 
 **Economic overview**<br>
-tourism, construction, mining, and telecommunications OECS economy; COVID-19 disrupted economic growth; major foreign direct investment and free-trade zones; developing local financial markets; improving debt management; declining poverty<br>
+surging middle-income tourism, construction, mining, and telecommunications OECS economy; major foreign US direct investment and free-trade zones; developing local financial markets; improving debt management; declining poverty<br>
 
 **Real GDP (purchasing power parity)**<br>
 $207.082 billion (2021 est.)<br>
@@ -488,11 +485,6 @@ _on alcohol and tobacco_: 3.8% of household expenditures (2018 est.)<br>
 _lowest 10%_: 1.9%<br>
 _highest 10%_: 37.4% (2013 est.)<br>
 
-**Remittances**<br>
-11.4% of GDP (2021 est.)<br>
-10.57% of GDP (2020 est.)<br>
-8.34% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $12.804 billion (2019 est.)<br>
 _expenditures_: $14.511 billion (2019 est.)<br>
@@ -521,7 +513,7 @@ $14.889 billion (2020 est.) note: data are in current year dollars<br>
 $20.509 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-United States 54%, Switzerland 8%, Canada 5%, India 5%, China 5% (2019)<br>
+United States 51%, Haiti 7%, Switzerland 7%, India 5%, Netherlands 3% (2021)<br>
 
 **Exports - commodities**<br>
 gold, medical instruments, cigars, low-voltage protection equipment, iron alloys, clothing (2021)<br>
@@ -532,10 +524,10 @@ $20.302 billion (2020 est.) note: data are in current year dollars<br>
 $24.526 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-United States 50%, China 13% (2019)<br>
+United States 42%, China 19%, Spain 3%, Brazil 3%, Mexico 3% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, jewelry, natural gas, broadcasting equipment (2019)<br>
+refined petroleum, cars, natural gas, jewelry, vaccines and cultures (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $13.125 billion (31 December 2021 est.)<br>
@@ -658,18 +650,11 @@ HI<br>
 
 **Airports - with paved runways**<br>
 _total_: 16<br>
-_over 3,047 m_: 3<br>
-_2,438 to 3,047 m_: 4<br>
-_1,524 to 2,437 m_: 4<br>
-_914 to 1,523 m_: 4<br>
-_under 914 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 20<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1<br>
-_under 914 m_: 18 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 1 (2021)<br>
@@ -701,8 +686,8 @@ _LNG terminal(s) (import)_: Andres LNG terminal (Boca Chica)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito de la Republica Dominicana, ERD), Navy (Armada de República Dominicana or ARD; includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD) (2023)<br>
-<strong>note:</strong> in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation (CESAC), Port Security Authority (CESEP), the Tourist Security Corps (CESTUR), and Border Security Corps (CESFRONT); the National Police (Policia Nacional) are under the Ministry of Interior<br>
+Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito de la Republica Dominicana, ERD), Navy (Armada de República Dominicana or ARD; includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD); Ministry of Interior: National Police (Policia Nacional) (2023)<br>
+<strong>note:</strong> in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation (CESAC), Port Security Authority (CESEP), the Tourist Security Corps (CESTUR), and Border Security Corps (CESFRONT); these specialized corps are made up of military and civilian personnel and assist the National Police <br>
 
 **Military expenditures**<br>
 0.7% of GDP (2022 est.)<br>

@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Colombia was one of the three countries that emerged after the dissolution of Gran Colombia in 1830 (the others are Ecuador and Venezuela). A decades-long conflict between government forces, paramilitaries, and antigovernment insurgent groups heavily funded by the drug trade, principally the Revolutionary Armed Forces of Colombia (FARC), escalated during the 1990s. More than 31,000 former United Self Defense Forces of Colombia (AUC) paramilitaries demobilized by the end of 2006, and the AUC as a formal organization ceased to operate. In the wake of the paramilitary demobilization, illegal armed groups arose, whose members include some former paramilitaries. After four years of formal peace negotiations, the Colombian Government signed a final peace accord with the FARC in November 2016, which was subsequently ratified by the Colombian Congress. The accord calls for members of the FARC to demobilize, disarm, and reincorporate into society and politics. The accord also committed the Colombian Government to create three new institutions to form a 'comprehensive system for truth, justice, reparation, and non-repetition,' to include a truth commission, a special unit to coordinate the search for those who disappeared during the conflict, and a 'Special Jurisdiction for Peace' to administer justice for conflict-related crimes. Despite decades of internal conflict and drug-related security challenges, Colombia maintains relatively strong and independent democratic institutions characterized by peaceful, transparent elections and the protection of civil liberties.</p><br>
+<p>Colombia was one of the three countries that emerged after the dissolution of Gran Colombia in 1830 (the others are Ecuador and Venezuela). A decades-long conflict between government forces, paramilitaries, and antigovernment insurgent groups heavily funded by the drug trade, principally the Revolutionary Armed Forces of Colombia (FARC), escalated during the 1990s. More than 31,000 former United Self Defense Forces of Colombia (AUC) paramilitaries demobilized by the end of 2006, and the AUC as a formal organization ceased to operate. In the wake of the paramilitary demobilization, new criminal groups arose, whose members include some former paramilitaries. After four years of formal peace negotiations, the Colombian Government signed a final peace accord with the FARC in November 2016, which was subsequently ratified by the Colombian Congress. The accord calls for members of the FARC to demobilize, disarm, and reincorporate into society and politics. The accord also committed the Colombian Government to create three new institutions to form a 'comprehensive system for truth, justice, reparation, and non-repetition,' to include a truth commission, a special unit to coordinate the search for those who disappeared during the conflict, and a 'Special Jurisdiction for Peace' to administer justice for conflict-related crimes. Despite decades of internal conflict and drug-related security challenges, Colombia maintains relatively strong and independent democratic institutions characterized by peaceful, transparent elections and the protection of civil liberties.</p><br>
 
 ## Geography
 
@@ -200,9 +200,6 @@ _unimproved: urban_: urban: 0.9% of population<br>
 _unimproved: rural_: rural: 12.3% of population<br>
 _unimproved: total_: total: 3% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.5% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
@@ -357,11 +354,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Gustavo Francisco PETRO Urrego (since 7 August 2022); Vice President Francia Elena MARQUEZ Mina (since 7 August 2022); the president is both chief of state and head of government<br>
-_head of government_: President Gustavo Francisco PETRO Urrego (since 7 August 2022); Vice President Francia Elena MARQUEZ Mina (since 7 August 2022)<br>
+_chief of state_: President Gustavo Francisco PETRO Urrego (since 7 August 2022); Vice President Francia Elena M&Aacute;RQUEZ Mina (since 7 August 2022); the president is both chief of state and head of government<br>
+_head of government_: President Gustavo Francisco PETRO Urrego (since 7 August 2022); Vice President Francia Elena M&Aacute;RQUEZ Mina (since 7 August 2022)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority vote in 2 rounds if needed for a single 4-year term; election last held on 29 May 2022 with a runoff held on 19 June 2022 (next to be held on 31 May 2026); note - political reform in 2015 eliminated presidential reelection<br>
-_election results_: <em><br>2022:</em> Gustavo Francisco PETRO Urrego elected president in second round; percent of vote in first round - Gustavo Francisco PETRO Urrego (PHxC) 40.3%, Rodolfo HERNANDEZ Suarez (LIGA) 28.2%, Federico GUTIERREZ (Team for Colombia / CREEMOS) 23.9%, other 7.6%; percent of vote in second round - Gustavo Francisco PETRO Urrego (PHxC) 50.4%, Rodolfo HERNANDEZ Suarez (LIGA) 47.3%<br><em><br>2018:</em> Ivan DUQUE Marquez elected president in second round; percent of vote - Ivan DUQUE Marquez (CD) 54%, Gustavo PETRO (Humane Colombia) 41.8%, other/blank/invalid 4.2%<br>
+_election results_: <em><br>2022:</em> Gustavo Francisco PETRO Urrego elected president in second round; percent of vote in first round - Gustavo Francisco PETRO Urrego (PHxC) 40.3%, Rodolfo HERNÁNDEZ Suárez (LIGA) 28.2%, Federico GUTIÉRREZ Zuluaga (Team for Colombia / CREEMOS) 23.9%, other 7.6%; percent of vote in second round - Gustavo Francisco PETRO Urrego (PHxC) 50.4%, Rodolfo HERNÁNDEZ Suarez (LIGA) 47.3%<br><em><br>2018:</em> Iván DUQUE Márquez elected president in second round; percent of vote - Iván DUQUE Márquez (CD) 54%, Gustavo Francisco PETRO Urrego (Humane Colombia) 41.8%, other/blank/invalid 4.2%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Congress or Congreso consists of:<br>Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the Commons political party, formerly the People's Alternative Revolutionary Force (FARC), for 2 legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms)<br> <p>Chamber of Representatives or Camara de Representantes (188 seats; 162 members elected in multi-seat constituencies by party-list proportional representation vote, 2 members elected in a special nationwide constituency for Afro-Colombians, 1 member elected by Colombians residing abroad, 1 member elected in a special nationwide constituency for the indigenous communities, 5 members of the Commons political party for two legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, 16 seats for rural conflict victims for two legislative terms only: 2022-2026 and 2026-2030, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve 4-year terms)</p><br>
@@ -502,11 +499,6 @@ _on alcohol and tobacco_: 3% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.2%<br>
 _highest 10%_: 39.6% (2015 est.)<br>
-
-**Remittances**<br>
-2.74% of GDP (2021 est.)<br>
-2.56% of GDP (2020 est.)<br>
-2.2% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $94.985 billion (2019 est.)<br>
@@ -680,19 +672,11 @@ HJ, HK<br>
 
 **Airports - with paved runways**<br>
 _total_: 121<br>
-_over 3,047 m_: 2<br>
-_2,438 to 3,047 m_: 9<br>
-_1,524 to 2,437 m_: 39<br>
-_914 to 1,523 m_: 53<br>
-_under 914 m_: 18 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 715<br>
-_over 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 25<br>
-_914 to 1,523 m_: 201<br>
-_under 914 m_: 488 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 3 (2021)<br>
@@ -743,13 +727,13 @@ the military's inventory includes a wide mix of equipment from a variety of supp
 
 **Military service age and obligation**<br>
 18-24 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 18 months; conscripted soldiers reportedly include regular soldiers (conscripts without a high school degree), drafted high school graduates (bachilleres), and rural (campesino) soldiers who serve in their home regions (2023)<br>
-<strong>note 1:</strong> conscripts reportedly comprise about 50% of the Colombian military's active force with more than 50,000 conscripts brought into the military annually<br><br><strong>note 2:</strong> as of 2022, women comprised about 1% of the military<br>
+<strong>note 1:</strong> conscripts reportedly comprise about 50% of the Colombian military's active force with more than 50,000 conscripts brought into the military annually<br><br><strong>note 2:</strong> the Colombian military first incorporated women in 1976 in administrative positions; women were incorporated as non-commissioned officers in 1983 and officers in 2009; women comprise about 1% of the military<br>
 
 **Military deployments**<br>
 275 Egypt (MFO) (2023)<br>
 
 **Military - note**<br>
-the Colombian Armed Forces are primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from several factions of the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting (note - these dissident groups include the designated terrorist groups Revolutionary Armed Forces of Colombia - People's Army or FARC-EP and Segunda Marquetalia; see Appendix T); the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government suspended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogotá and resumed counter-terrorism/counterinsurgency operations against the group; operations against the FARC dissident groups and the ELN continued into 2023, although the Colombian Government resumed talks with ELN in November 2022; the military is also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers and both the ELN and FARC dissidents, including FARC-EP and Segunda Marquetalia, operate openly<br><br>Colombia has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
+the Colombian Armed Forces are primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, several factions of the Revolutionary Armed Forces of Colombia (FARC), and the terrorist/insurgent group National Liberation Army (ELN); the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting (note - these dissident groups include the designated terrorist groups Revolutionary Armed Forces of Colombia - People's Army or FARC-EP and Segunda Marquetalia; see Appendix T); in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, it officially ended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogotá; operations against the FARC dissident groups and the ELN continued into 2023, although the Colombian Government resumed talks with ELN in November 2022 and began exploratory talks with the FARC-EP and Segunda Marquetalia; the military is also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers and both the ELN and FARC dissidents, including FARC-EP and Segunda Marquetalia, operate openly<br><br>Colombia has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reported no incidents in 2022 in the territorial waters of Colombia; there remains a risk for armed robbery against ships particularly in the main port of Cartagena while ships are berthed or at anchor<br>

@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Albania declared its independence from the Ottoman Empire in 1912, but was conquered by Italy in 1939 and occupied by Germany in 1943. Communist partisans took over the country in 1944. Albania allied itself first with the USSR (until 1960), and then with China (to 1978). In the early 1990s, Albania ended 46 years of isolated communist rule and established a multiparty democracy. The transition has proven challenging as successive governments have tried to deal with high unemployment, widespread corruption, dilapidated infrastructure, powerful organized crime networks, and combative political opponents.</p> <p>Albania has made progress in its democratic development since it first held multiparty elections in 1991, but deficiencies remain. Most of Albania's post-communist elections were marred by claims of electoral fraud; however, international observers judged elections to be largely free and fair since the restoration of political stability following the collapse of pyramid schemes in 1997. Albania joined NATO in April 2009 and in June 2014 became an EU candidate. Albania in April 2017 received a European Commission recommendation to open EU accession negotiations following the passage of historic EU-mandated justice reforms in 2016. Although Albania's economy continues to grow, it has slowed, and the country is still one of the poorest in Europe. A large informal economy and a weak energy and transportation infrastructure remain obstacles.</p><br>
+<p>Albania declared its independence from the Ottoman Empire in 1912, but was conquered by Italy in 1939 and occupied by Germany in 1943. Communist partisans took over the country in 1944. Albania allied itself first with the USSR (until 1960), and then with China (to 1978). In the early 1990s, Albania ended 46 years of isolated communist rule and established a multiparty democracy. The transition has proven challenging as successive governments have tried to deal with high unemployment, widespread corruption, dilapidated infrastructure, powerful organized crime networks, and combative political opponents.</p> <p>Albania has made progress in its democratic development since it first held multiparty elections in 1991, but deficiencies remain. Most of Albania's post-communist elections were marred by claims of electoral fraud; however, international observers judged elections to be largely free and fair since the restoration of political stability following the collapse of pyramid schemes in 1997. Albania joined NATO in April 2009 and in June 2014 became an EU candidate. In April 2017, Albania received a European Commission recommendation to open EU accession negotiations following the passage of historic EU-mandated justice reforms in 2016. Albania - along with North Macedonia - opened EU accession talks in 2022. Although Albania's economy continues to grow, it has slowed, and the country is still one of the poorest in Europe. A large informal economy and a weak energy and transportation infrastructure remain obstacles.</p><br>
 
 ## Geography
 
@@ -92,7 +92,7 @@ Albanian 82.6%, Greek 0.9%, other 1% (including Vlach, Romani, Macedonian, Monte
 
 **Languages**<br>
 Albanian 98.8% (official - derived from Tosk dialect), Greek 0.5%, other 0.6% (including Macedonian, Romani, Vlach, Turkish, Italian, and Serbo-Croatian), unspecified 0.1% (2011 est.)<br>
-_major-language sample(s)_: <br>Libri i fakteve boterore, burimi i domosdoshem per informacionin themelore (Albanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Libri i fakteve boterore, burimi i pazevendesueshem per informacione elementare (Albanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 56.7%, Roman Catholic 10%, Orthodox 6.8%, atheist 2.5%, Bektashi (a Sufi order) 2.1%, other 5.7%, unspecified 16.2% (2011 est.)<br>
@@ -192,9 +192,6 @@ _improved: total_: total: 99.9% of population<br>
 _unimproved: urban_: urban: 0.2% of population<br>
 _unimproved: rural_: rural: 0.5% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
-
-**HIV/AIDS - adult prevalence rate**<br>
-(2021 est.) <0.1<br>
 
 **Obesity - adult prevalence rate**<br>
 21.7% (2016)<br>
@@ -482,11 +479,6 @@ _female_: 27.6% (2021 est.)<br>
 _lowest 10%_: 4.1%<br>
 _highest 10%_: 19.6% (2015 est.)<br>
 
-**Remittances**<br>
-9.41% of GDP (2021 est.)<br>
-9.69% of GDP (2020 est.)<br>
-9.56% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $4.19 billion (2019 est.)<br>
 _expenditures_: $4.489 billion (2019 est.)<br>
@@ -656,8 +648,6 @@ ZA<br>
 
 **Airports - with paved runways**<br>
 _total_: 3<br>
-_2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Pipelines**<br>

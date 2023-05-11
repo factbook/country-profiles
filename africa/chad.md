@@ -194,9 +194,6 @@ _unimproved: urban_: urban: 42.5% of population<br>
 _unimproved: rural_: rural: 95.1% of population<br>
 _unimproved: total_: total: 82.7% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-1.1% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
@@ -501,11 +498,6 @@ _female_: 1.4% (2021 est.)<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 30.8% (2003)<br>
 
-**Remittances**<br>
-0% of GDP (2020 est.)<br>
-0% of GDP (2019 est.)<br>
-0% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $2.29 billion (2020 est.)<br>
 _expenditures_: $2.12 billion (2020 est.)<br>
@@ -667,19 +659,11 @@ TT<br>
 
 **Airports - with paved runways**<br>
 _total_: 9<br>
-_over 3,047 m_: 2<br>
-_2,438 to 3,047 m_: 4<br>
-_1,524 to 2,437 m_: 2<br>
-_under 914 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 50<br>
-_over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 14<br>
-_914 to 1,523 m_: 22<br>
-_under 914 m_: 11 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
 582 km oil (2013)<br>
@@ -732,7 +716,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 407,378 (Sudan), 125,433 (Central African Republic), 28,256 (Cameroon), 20,937 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 433,372 (Sudan) (includes refugees since 15 April 2023), 125,433 (Central African Republic), 28,256 (Cameroon), 20,937 (Nigeria) (2023)<br>
 _IDPs_: 381,289 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>

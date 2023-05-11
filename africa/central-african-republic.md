@@ -193,9 +193,6 @@ _unimproved: urban_: urban: 46.2% of population<br>
 _unimproved: rural_: rural: 87.6% of population<br>
 _unimproved: total_: total: 70.1% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-2.7% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
@@ -653,15 +650,11 @@ TL<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_2,438 to 3,047 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 37<br>
-_2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 11<br>
-_914 to 1,523 m_: 19<br>
-_under 914 m_: 6 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>
 _total_: 24,000 km (2018)<br>
@@ -707,6 +700,6 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,381 (Democratic Republic of Congo) (2023)<br>
+_refugees (country of origin)_: 6,381 (Democratic Republic of Congo), 6,328 (refugees since 15 April 2023) (2023)<br>
 _IDPs_: 483,074 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2023)<br>
 

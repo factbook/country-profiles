@@ -178,9 +178,6 @@ _unimproved: urban_: urban: 12.7% of population<br>
 _unimproved: rural_: rural: 12.7% of population<br>
 _unimproved: total_: total: 12.7% of population (2017 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Obesity - adult prevalence rate**<br>
 22.9% (2016)<br>
 
@@ -303,7 +300,7 @@ _residency requirement for naturalization_: 14 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Marcella LIBURD (since 4 February 2023)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Marcella LIBURD (since 1 February 2023)<br>
 _head of government_: Prime Minister Dr. Terrance DREW (since 6 August 2022); Deputy Prime Minister Dr. Geoffrey HANLEY (since 13 August 2022)<br>
 _cabinet_: Cabinet appointed by governor general in consultation with prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general<br>
@@ -353,7 +350,7 @@ _selected World Heritage Site locales_: Brimstone Hill Fortress National Park<br
 ## Economy
 
 **Economic overview**<br>
-high-income, tourism-based Caribbean island economy; better debt balancing; CARICOM member; growing offshore financial hub; environmentally fragile; unique citizenship-driven growth model; increased telecommunications focus<br>
+high-income, tourism-based Caribbean OECS economy; better debt balancing; CARICOM and ECCU member; growing offshore financial and telecommunications hub; environmentally fragile; unique citizenship-driven growth model<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.261 billion (2021 est.)<br>
@@ -443,10 +440,10 @@ $383.152 million (2020 est.)<br>
 $598.343 million (2019 est.)<br>
 
 **Exports - partners**<br>
-United States 69%, Germany 8%, Italy 5% (2019)<br>
+United States 56%, Italy 19%, Canada 4%, Germany 3%, Saint Vincent and the Grenadines 3% (2021)<br>
 
 **Exports - commodities**<br>
-low-voltage protection equipment, broadcasting equipment, measuring instruments, electric motor parts, electrical transformers (2019)<br>
+broadcasting equipment, recreational boats, electrical plugs and sockets, measuring instruments, electrical transformers (2021)<br>
 
 **Imports**<br>
 $441.192 million (2021 est.) note: data are in current year dollars<br>
@@ -454,10 +451,10 @@ $432.584 million (2020 est.)<br>
 $602.385 million (2019 est.)<br>
 
 **Imports - partners**<br>
-United States 59%, Peru 6%, Germany 5% (2019)<br>
+United States 50%, Trinidad and Tobago 10%, China 5%, Jamaica 4%, Germany 4% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, jewelry, ships, cars, poultry meats, cement (2019)<br>
+refined petroleum, ships, cars, poultry, valves, jewelry (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $337.533 million (31 December 2021 est.)<br>
@@ -576,8 +573,6 @@ V4<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Railways**<br>

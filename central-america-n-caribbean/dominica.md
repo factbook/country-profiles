@@ -165,9 +165,6 @@ _unimproved: urban_: urban: 4.3% of population<br>
 **Hospital bed density**<br>
 3.8 beds/1,000 population<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.6% (2018 est.)<br>
-
 **Obesity - adult prevalence rate**<br>
 27.9% (2016)<br>
 
@@ -317,7 +314,7 @@ _email address and website_: mail.embdomdc@gmail.com<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: the US does not have an embassy in Dominica; the US Ambassador to Barbados is accredited to Dominica<br>
+_embassy_: the US does not have an embassy in Dominica; the US Ambassador to Barbados is accredited to<br>
 
 **Flag description**<br>
 green with a centered cross of three equal bands - the vertical part is yellow (hoist side), black, and white and the horizontal part is yellow (top), black, and white; superimposed in the center of the cross is a red disk bearing a Sisserou parrot, unique to Dominica, encircled by 10 green, five-pointed stars edged in yellow; the 10 stars represent the 10 administrative divisions (parishes); green symbolizes the island's lush vegetation; the triple-colored cross represents the Christian Trinity; the yellow color denotes sunshine, the main agricultural products (citrus and bananas), and the native Carib Indians; black is for the rich soil and the African heritage of most citizens; white signifies rivers, waterfalls, and the purity of aspirations; the red disc stands for social justice<br>
@@ -337,7 +334,7 @@ _selected World Heritage Site locales_: Pitons Management Area<br>
 ## Economy
 
 **Economic overview**<br>
-highly agrarian OECS island economy; ECCU-member state; large banana exporter; COVID-19- and Hurricane Maria-related public debt increases; improving government oversight of its very cheap citizenship-by-investment program<br>
+highly agrarian OECS island economy; ECCU-member state; large banana exporter; improved oversight of its citizenship-by-investment program; emerging ecotourism, information and communications, and education industries<br>
 
 **Real GDP (purchasing power parity)**<br>
 $787.7 million (2021 est.)<br>
@@ -405,11 +402,6 @@ _services_: 28% (2002 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
-**Remittances**<br>
-10.38% of GDP (2021 est.)<br>
-13.48% of GDP (2020 est.)<br>
-7.77% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $180 million (2021 est.)<br>
 _expenditures_: $184 million (2021 est.)<br>
@@ -438,7 +430,7 @@ $94.823 million (2020 est.)<br>
 $211.175 million (2019 est.)<br>
 
 **Exports - partners**<br>
-Saudi Arabia 47%, Qatar 5% (2019)<br>
+Saudi Arabia 28%, France 6%, United States 5%, Grenada 5%, China 4% (2021)<br>
 
 **Exports - commodities**<br>
 medical instruments, low-voltage protection equipment, sutures, soap, bandages (2021)<br>
@@ -449,10 +441,10 @@ $279 million (2020 est.)<br>
 $415 million (2019 est.)<br>
 
 **Imports - partners**<br>
-United States 57%, Nigeria 11%, China 6%, Italy 5% (2019)<br>
+United States 75%, China 5%, Trinidad and Tobago 4%, United Kingdom 2%, Italy 2% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, natural gas, crude petroleum, recreational boats, cars (2019)<br>
+refined petroleum, natural gas, crude petroleum, recreational boats, cars (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $190.843 million (31 December 2021 est.)<br>
@@ -571,8 +563,6 @@ J7<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Roadways**<br>

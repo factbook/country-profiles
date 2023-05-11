@@ -191,9 +191,6 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-(2021 est.) <0.1%<br>
-
 **Obesity - adult prevalence rate**<br>
 20.5% (2016)<br>
 
@@ -479,11 +476,6 @@ _on alcohol and tobacco_: 5% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3.3%<br>
 _highest 10%_: 19.3% (2015 est.)<br>
 
-**Remittances**<br>
-1.92% of GDP (2021 est.)<br>
-2.31% of GDP (2020 est.)<br>
-2.41% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $43.495 billion (2019 est.)<br>
 _expenditures_: $44.914 billion (2019 est.)<br>
@@ -651,17 +643,11 @@ OM<br>
 
 **Airports - with paved runways**<br>
 _total_: 19<br>
-_over 3,047 m_: 2<br>
-_2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 3<br>
-_914 to 1,523 m_: 3<br>
-_under 914 m_: 9 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 15<br>
-_914 to 1,523 m_: 10<br>
-_under 914 m_: 5 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 1 (2021)<br>
@@ -716,7 +702,7 @@ Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host
 <p><em>Slovakia-Austria</em>: none identified</p> <p><em>Slovakia-Czechia</em>: none identified</p> <p><em>Slovakia-Hungary</em>: initiated by the 1977 Budapest Treaty, Hungary and formerly Czechoslovakia agreed to a hydroelectric dam project on the Danube with dams to be constructed at Gabcikovo (Slovakia) and Nagymaros (Hungary) to prevent floods, improve river navigability, and to generate electricity; when Hungary suspended work on the project until its environmental impact could be assessed, Slovakia continued working on it and adopted a pared down strategy to divert the Danube so that all construction was within Czechoslovakian territory; Hungary terminated the project on environmental and economic grounds in 1989, and in 1992 both countries took the matter to the International Court of Justice (ICJ); the ICJ found largely in favor of then Slovakia, finding Hungary had breached their agreement; however, then Czechoslovakia should not have begun the alternative plan before the ICJ ruled on the case; in 2017, Hungary and Slovakia agreed to discontinue the ICJ proceedings</p> <p><em>Slovakia-Poland</em>: none identified</p> <p><em>Slovakia-Ukraine</em>: tens of thousands of Ukrainian refugees are crossing the border to Slovakia to escape the Russian invasion in their country</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,509 (Ukraine) (as of 16 April 2023)<br>
+_refugees (country of origin)_: 114,628 (Ukraine) (as of 30 April 2023)<br>
 _stateless persons_: 2,940 (2022)<br>
 
 **Illicit drugs**<br>

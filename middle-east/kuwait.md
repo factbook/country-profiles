@@ -189,9 +189,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Obesity - adult prevalence rate**<br>
 37.9% (2016)<br>
 
@@ -338,9 +335,9 @@ _elections/appointments_: amir chosen from within the ruling family, confirmed b
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&nbsp;appointed by the amir; members serve 4-year terms)<br>
-_elections_: last held on 29 September 2022 (next to be held in 2026)<br>
-_election results_: 50 nonpartisans elected, of which 28 were opposition candidates; composition - men 48, women 2, percent of women 4%<br>
-<strong>Note</strong>: on 17 April 2023, Crown Prince Mishal al-AHMAD al-Sabah dissolved the National Assembly, which had been reinstated in March at the direction of the Constitutional Court, following its annulment of the September 2022 election<br>
+_elections_: last held on 29 September 2022 (next to be held on 6 June 2023, due to dissolution by royal decree on 1 May)<br>
+_election results_: 50 nonpartisans elected, of which 28 were opposition candidates: composition - men 48, women 2, percent of women 4%<br>
+<strong>Note</strong>: on 17 April 2023, Crown Prince Mishal al-AHMAD al-Sabah dissolved the National Assembly, which had been reinstated in March at the direction of the Constitutional Court, following its annulment of the September 2022 election; the Assembly was formally dissolved by royal decree on 1 May 2023, and a new election scheduled for 6 June<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Constitutional Court (consists of 5 judges); Supreme Court or Court of Cassation (organized into several circuits, each with 5 judges)<br>
@@ -467,11 +464,6 @@ _on alcohol and tobacco_: 0.2% of household expenditures (2018 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
-**Remittances**<br>
-0.02% of GDP (2020 est.)<br>
-0.02% of GDP (2019 est.)<br>
-0.02% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $77.988 billion (2019 est.)<br>
 _expenditures_: $72.03 billion (2019 est.)<br>
@@ -503,7 +495,7 @@ $72.833 billion (2019 est.)<br>
 China 20%, South Korea 16%, India 15%, Japan 10%, Taiwan 6%, Vietnam 5% (2019)<br>
 
 **Exports - commodities**<br>
-crude petroleum, refined petroleum, aircraft, natural gas, industrial hydrocarbon products (2019)<br>
+crude petroleum, refined petroleum, natural gas, industrial hydrocarbon products, industrial alcohols (2021)<br>
 
 **Imports**<br>
 $48.954 billion (2021 est.) note: data are in current year dollars<br>
@@ -639,15 +631,11 @@ _annual freight traffic on registered air carriers_: 392.36 million (2018) mt-km
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
-_over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 2<br>
-_914 to 1,523 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 3<br>
-_1,524 to 2,437 m_: 1<br>
-_under 914 m_: 2 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 4 (2021)<br>

@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In 1603, after decades of civil warfare, the Tokugawa shogunate (a military-led, dynastic government) ushered in a long period of relative political stability and isolation from foreign influence. For more than two centuries this policy enabled Japan to enjoy a flowering of its indigenous culture. Japan opened its ports after signing the Treaty of Kanagawa with the US in 1854 and began to intensively modernize and industrialize. During the late 19th and early 20th centuries, Japan became a regional power that was able to defeat the forces of both China and Russia. It occupied Korea, Formosa (Taiwan), and southern Sakhalin Island. In 1931-32 Japan occupied Manchuria, and in 1937 it launched a full-scale invasion of China. Japan attacked US forces in 1941 - triggering America's entry into World War II - and soon occupied much of East and Southeast Asia. After its defeat in World War II, Japan recovered to become an economic power and an ally of the US. While the emperor retains his throne as a symbol of national unity, elected politicians hold actual decision-making power. Following three decades of unprecedented growth, Japan's economy experienced a major slowdown starting in the 1990s, but the country remains an economic power. In March 2011, Japan's strongest-ever earthquake, and an accompanying tsunami, devastated the northeast part of Honshu island, killed thousands, and damaged several nuclear power plants. Prime Minister Shinzo ABE was reelected to office in December 2012, and embarked on ambitious economic and security reforms to improve Japan's economy and bolster the country's international standing. In November 2019, ABE became Japan's longest-serving post-war prime minister; he resigned in September 2020 and was succeeded by Yoshihide SUGA. Fumio KISHIDA became prime minister in October 2021.</p><br>
+<p>In 1603, after decades of civil warfare, the Tokugawa shogunate (a military-led, dynastic government) ushered in a long period of relative political stability and isolation from foreign influence. For more than two centuries this policy enabled Japan to enjoy a flowering of its indigenous culture. Japan opened its ports after signing the Treaty of Kanagawa with the US in 1854 and began to intensively modernize and industrialize. During the late 19th and early 20th centuries, Japan became a regional power that was able to defeat the forces of both China and Russia. It occupied Korea, Formosa (Taiwan), and southern Sakhalin Island. In 1931-32 Japan occupied Manchuria, and in 1937 it launched a full-scale invasion of China. Japan attacked US forces in 1941 - triggering America's entry into World War II - and soon occupied much of East and Southeast Asia. After its defeat in World War II, Japan recovered to become an economic power and an ally of the US. While the emperor retains his throne as a symbol of national unity, elected politicians hold actual decision-making power. Following three decades of unprecedented growth, Japan's economy experienced a major slowdown starting in the 1990s, but the country remains an economic power. In March 2011, Japan's strongest-ever earthquake, and an accompanying tsunami, devastated the northeast part of Honshu island, killed thousands, and damaged several nuclear power plants. Prime Minister ABE Shinzo was reelected to office in December 2012, and embarked on ambitious economic and security reforms to improve Japan's economy and bolster the country's international standing. In November 2019, ABE became Japan's longest-serving post-war prime minister; he resigned in September 2020 and was succeeded by SUGA Yoshihide. KISHIDA Fumio became prime minister in October 2021.</p><br>
 
 ## Geography
 
@@ -191,9 +191,6 @@ _improved: total_: total: 99.9% of population<br>
 _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
-
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
 
 **Obesity - adult prevalence rate**<br>
 4.3% (2016)<br>
@@ -476,11 +473,6 @@ _on alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.7%<br>
 _highest 10%_: 24.8% (2008)<br>
 
-**Remittances**<br>
-0.11% of GDP (2021 est.)<br>
-0.1% of GDP (2020 est.)<br>
-0.09% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $1.756 trillion (2019 est.)<br>
 _expenditures_: $1.916 trillion (2019 est.)<br>
@@ -650,17 +642,11 @@ JA<br>
 
 **Airports - with paved runways**<br>
 _total_: 142<br>
-_over 3,047 m_: 6<br>
-_2,438 to 3,047 m_: 45<br>
-_1,524 to 2,437 m_: 38<br>
-_914 to 1,523 m_: 28<br>
-_under 914 m_: 25 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 33<br>
-_914 to 1,523 m_: 5<br>
-_under 914 m_: 28 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 16 (2021)<br>

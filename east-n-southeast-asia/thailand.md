@@ -196,9 +196,6 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-1% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
@@ -673,19 +670,11 @@ HS<br>
 
 **Airports - with paved runways**<br>
 _total_: 63<br>
-_over 3,047 m_: 8<br>
-_2,438 to 3,047 m_: 12<br>
-_1,524 to 2,437 m_: 23<br>
-_914 to 1,523 m_: 14<br>
-_under 914 m_: 6 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 38<br>
-_2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 10<br>
-_under 914 m_: 26 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 7 (2021)<br>
@@ -740,7 +729,7 @@ the RTARF has a diverse array of foreign-supplied weapons systems, including a l
 280 South Sudan (UNMISS) (May 2022)<br>
 
 **Military - note**<br>
-including the most recent in 2014, the military has attempted more than 20 coups since the fall of absolute monarchy in 1932<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, Thai officials have been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, violence associated with the insurgency has claimed more than 7,300 lives (as of 2023); the Thai Government has had as many as 100,000 military and paramilitary forces deployed in the south to combat the insurgency<br><br>Thailand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; the Thai and US militaries host the annual "Cobra Gold" multinational military exercises in Thailand; the exercise is one of the largest multinational exercises in the Pacific region (2023)<br>
+the RTARF’s missions include defending the country’s territory and sovereignty, protecting the monarchy, ensuring internal security, and responding to natural disasters; it also plays a large role in domestic politics and has attempted more than 20 coups since the fall of absolute monarchy in 1932, the most recent being in 2014; the Army, formed in 1874, is the dominant service and has 15 combat divisions spread across 4 military regions; ten of the divisions are infantry, while the others are armored/mechanized cavalry, special forces, and artillery; established in 1906, the Navy’s principal warships include a light aircraft/helicopter carrier, a landing platform dock (LPD) amphibious assault ship, and nearly 20 frigates, corvettes, and offshore patrol vessels; it also has a marine infantry division; the Air Force, established in 1913, is one of the oldest in Southeast Asia and has around 100 combat aircraft<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, Thai officials have been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, violence associated with the insurgency has claimed more than 7,300 lives (as of 2023); the Thai Government has had as many as 100,000 military and paramilitary forces deployed in the south to combat the insurgency<br><br>Thailand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; the Thai and US militaries host the annual "Cobra Gold" multinational military exercises in Thailand; the exercise is one of the largest multinational exercises in the Pacific region (2023)<br>
 
 ## Transnational Issues
 

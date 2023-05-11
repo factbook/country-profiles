@@ -197,9 +197,6 @@ _unimproved: urban_: urban: 16% of population<br>
 _unimproved: rural_: rural: 51.9% of population<br>
 _unimproved: total_: total: 41.8% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-4% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
@@ -502,11 +499,6 @@ _on alcohol and tobacco_: 4.1% of household expenditures (2018 est.)<br>
 _lowest 10%_: 1.8%<br>
 _highest 10%_: 37.8% (2005)<br>
 
-**Remittances**<br>
-3.42% of GDP (2021 est.)<br>
-3.09% of GDP (2020 est.)<br>
-2.83% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $16.885 billion (2019 est.)<br>
 _expenditures_: $24.271 billion (2019 est.)<br>
@@ -676,18 +668,11 @@ _annual freight traffic on registered air carriers_: 294.97 million (2018) mt-km
 
 **Airports - with paved runways**<br>
 _total_: 16<br>
-_over 3,047 m_: 5<br>
-_2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 6<br>
-_under 914 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 181<br>
-_1,524 to 2,437 m_: 14<br>
-_914 to 1,523 m_: 107<br>
-_under 914 m_: 60 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
 4 km oil, 1,432 km refined products (2018)<br>

@@ -192,9 +192,6 @@ _unimproved: urban_: urban: 2.2% of population<br>
 _unimproved: rural_: rural: 4.6% of population<br>
 _unimproved: total_: total: 4% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-1.4% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
@@ -394,7 +391,7 @@ _lyrics/music_: Archibald Leonard LUKERL/Robert Cyril Gladstone POTTER<br>
 ## Economy
 
 **Economic overview**<br>
-small South American export economy; COVID-19 disruptions and commodity price drops; high emigration and remittances; widespread poverty; recently discovered oil and gas reserves; formalizing financial sector; large bauxite and gold resources<br>
+small, hydrocarbon-driven South American export economy; major forest coverage being leveraged in carbon credit offsets to encourage preservation; strengthening financial sector; large bauxite and gold resources<br>
 
 **Real GDP (purchasing power parity)**<br>
 $17.64 billion (2021 est.)<br>
@@ -471,11 +468,6 @@ _female_: 39.6% (2021 est.)<br>
 _lowest 10%_: 1.3%<br>
 _highest 10%_: 33.8% (1999)<br>
 
-**Remittances**<br>
-8.01% of GDP (2020 est.)<br>
-7.35% of GDP (2019 est.)<br>
-6.97% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $1.333 billion (2019 est.)<br>
 _expenditures_: $1.467 billion (2019 est.)<br>
@@ -504,7 +496,7 @@ $2.799 billion (2020 est.) note: data are in current year dollars<br>
 $1.805 billion (2019 est.)<br>
 
 **Exports - partners**<br>
-Trinidad and Tobago 31%, Canada 11%, Portugal 11%, Ghana 8%, Norway 6%, United Arab Emirates 5% (2019)<br>
+United States 40%, Singapore 14%, United Arab Emirates 6%, United Kingdom 6%, Barbados 6% (2021)<br>
 
 **Exports - commodities**<br>
 crude petroleum, gold, rice, aluminum ores, railway shipping containers, rums&nbsp;&nbsp; (2021)<br>
@@ -515,10 +507,10 @@ $3.756 billion (2020 est.) note: data are in current year dollars<br>
 $5.025 billion (2019 est.)<br>
 
 **Imports - partners**<br>
-United States 26%, Singapore 18%, Trinidad and Tobago 16%, Liberia 11%, China 5%, Norway 5% (2019)<br>
+Singapore 33%, United States 19%, Trinidad and Tobago 12%, China 8%, Brazil 2% (2021)<br>
 
 **Imports - commodities**<br>
-ships, refined petroleum, excavation machinery, shipping containers, aircraft (2019)<br>
+floating drilling platforms, refined petroleum, valves, construction vehicles, cars (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $790.785 million (31 December 2021 est.)<br>
@@ -639,16 +631,11 @@ _subscriptions per 100 inhabitants_: 12 (2020 est.)<br>
 
 **Airports - with paved runways**<br>
 _total_: 11<br>
-_1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 1<br>
-_under 914 m_: 8 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 106<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 16<br>
-_under 914 m_: 89 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>
 _total_: 3,995 km (2019)<br>
@@ -668,20 +655,20 @@ _major seaport(s)_: Georgetown<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Guyana Defense Force is a unified force with ground, air, and coast guard components, as well as a militia (Guyana People's Militia) (2022)<br>
+the Guyana Defense Force is a unified force with ground, air, and coast guard components, as well as the Guyana National Reserve (2023)<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2022 est.)<br>
 1% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
 1.3% of GDP (2019 est.)<br>
 1.3% of GDP (2018 est.)<br>
-1.2% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,000 active duty military personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Guyana Defense Force's limited inventory is mostly comprised of second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US (2022)<br>
+the military has a limited inventory comprised mostly of second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age or older for voluntary military service; no conscription (2022)<br>

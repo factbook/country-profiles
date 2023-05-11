@@ -5,7 +5,7 @@ _Europe / Dependencies (United Kingdom)_
 ## Introduction
 
 **Background**<br>
-Part of the Norwegian Kingdom of the Hebrides until the 13th century when it was ceded to Scotland, the isle came under the British crown in 1765. Current concerns include reviving the almost extinct Manx Gaelic language. The Isle of Man is a British Crown dependency, which makes it a self-governing possession of the British Crown that is not part of the UK. The UK Government, however, remains constitutionally responsible for its defense and international representation.<br>
+Part of the Norwegian Kingdom of the Hebrides until the 13th century when it was ceded to Scotland, the isle came under English lordship in the 14th century before being purchased by the British Government in 1765. Current concerns include reviving the almost extinct Manx Gaelic language. The Isle of Man is a British Crown dependency, which makes it a self-governing possession of the British Crown that is not part of the UK. The UK Government, however, remains constitutionally responsible for its defense and international representation.<br>
 
 ## Geography
 
@@ -173,9 +173,6 @@ _improved: total_: total: NA<br>
 _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
-
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
@@ -455,7 +452,6 @@ M<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_1,524 to 2,437 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Railways**<br>

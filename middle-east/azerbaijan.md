@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Azerbaijan - a secular nation with a majority-Turkic and majority-Shia Muslim population - was briefly independent (from 1918 to 1920) following the collapse of the Russian Empire; it was subsequently incorporated into the Soviet Union for seven decades. Azerbaijan remains involved in the protracted Nagorno-Karabakh conflict with Armenia. Nagorno-Karabakh was a primarily ethnic Armenian region that Moscow recognized in 1923 as an autonomous oblast within Soviet Azerbaijan. In the late Soviet period, a separatist movement developed which sought to end Azerbaijani control over the region. Fighting over Nagorno-Karabakh began in 1988 and escalated after Armenia and Azerbaijan attained independence from the Soviet Union in 1991. By the time a ceasefire took effect in May 1994, separatists, with Armenian support, controlled Nagorno‑Karabakh and seven surrounding Azerbaijani territories.</p> <p>Under the terms of a cease-fire agreement following Azerbaijan’s victory in the Second Nagorno-Karabakh War that took place from September-November 2020, Armenia returned to Azerbaijan the remaining territories it had occupied and also the southern part of Nagorno-Karabakh, including the culturally and historically important city that Azerbaijanis call Shusha and Armenians call Shushi. Despite Azerbaijan’s territorial gains, peace in the region remains elusive because of unsettled issues concerning the delimitation of borders, the opening of regional transportation and communication links, the status of ethnic enclaves near border regions, and the final status of the Nagorno-Karabakh region. Russian peacekeepers deployed to Nagorno-Karabakh to supervise the cease-fire for a minimum five-year term did not prevent the outbreak of sporadic, low-level military clashes along the Azerbaijan-Armenia border in 2021.<br><br>In the three decades following its independence in 1991, Azerbaijan has succeeded in significantly reducing the poverty rate and has directed revenues from its oil and gas production to develop the country’s infrastructure. However, corruption remains a burden on the economy, and Western observers and members of the country’s political opposition have accused the government of authoritarianism, pointing to elections that are neither free nor fair, state control of the media, and the systematic abuse of human rights targeting individuals and groups who are perceived as threats to the administration. The country’s leadership has remained in the ALIYEV family since Heydar ALIYEV, formerly the most highly ranked Azerbaijani member of the Communist Party during the Soviet period, became president in the midst of the first Nagorno-Karabakh War in 1993. Heydar ALIYEV groomed his son to succeed him, and Ilham ALIYEV subsequently became president in 2003. As a result of two national referendums that eliminated presidential term limits and extended the presidential term from 5 to 7 years, President ALIYEV secured a fourth term in April 2018 in an election that international observers noted had serious shortcomings. Reforms are underway to diversify the country’s economy away from its dependence on oil and gas; additional reforms are needed to address weaknesses in government institutions, particularly in the education and health sectors, and the court system.</p><br>
+<p>Azerbaijan - a secular nation with a majority-Turkic and majority-Shia Muslim population - was briefly independent (from 1918 to 1920) following the collapse of the Russian Empire; it was subsequently incorporated into the Soviet Union for seven decades. Since 1991, Azerbaijan has had a protracted conflict with Armenia over the Nagorno-Karabakh region, populated largely by ethnic Armenians but incorporated into Soviet Azerbaijan as an autonomous oblast in the early 1920s. In the late Soviet period, an ethnic-Armenian separatist movement developed that sought to end Azerbaijani control over the region. Fighting over Nagorno-Karabakh began in 1988 and escalated after Armenia and Azerbaijan attained independence from the Soviet Union in 1991. By the time a ceasefire took effect in May 1994, separatists, with Armenian support, controlled Nagorno‑Karabakh and seven surrounding Azerbaijani territories.</p> <p>Efforts to negotiate a peace agreement between Azerbaijan and Armenia began in the mid-1990s under the aegis of the Organization for Security and Cooperation in Europe’s Minsk Group, which was co-chaired by France, Russia, and the United States. At the same time, cease-fire violations and sporadic flare-ups continued. In September 2020, a second sustained conflict began when Azerbaijan took action to try to regain the territories it had lost in the 1990s. After six weeks of fighting that saw significant Azerbaijani gains, Russia brokered a cease-fire.  Armenia returned to Azerbaijan the seven territories surrounding Nagorno-Karabakh that it had previously occupied and also the southern part of Nagorno-Karabakh. Despite Azerbaijan’s territorial gains, peace in the region remains elusive because of unsettled issues concerning the delimitation of borders, the opening of regional transportation and communication links, the status of ethnic enclaves near border regions, and the final status of the Nagorno-Karabakh region. Russian peacekeepers deployed to Nagorno-Karabakh to supervise the cease-fire for a minimum five-year term have not prevented the outbreak of sporadic, low-level military clashes along the Azerbaijan-Armenia border and in Nagorno-Karabakh.<br><br>In the three decades since its independence in 1991, Azerbaijan has significantly reduced the poverty rate and has directed some revenue from its oil and gas production to develop the country’s infrastructure. However, corruption remains a burden on the economy, and Western observers and members of the country’s political opposition have accused the government of authoritarianism, pointing to elections that are neither free nor fair, state control of the media, and the systematic abuse of human rights targeting individuals and groups who are perceived as threats to the administration. The country’s leadership has remained in the ALIYEV family since Heydar ALIYEV, formerly the most highly ranked Azerbaijani member of the Communist Party during the Soviet period, became president in the midst of the first Nagorno-Karabakh War in 1993. Heydar ALIYEV groomed his son to succeed him, and Ilham ALIYEV subsequently became president in 2003. As a result of two national referendums that eliminated presidential term limits and extended the presidential term from 5 to 7 years, President ALIYEV secured a fourth term in April 2018 in an election that international observers noted had serious shortcomings. Reforms are underway to diversify the country’s economy away from its dependence on oil and gas; additional reforms are needed to address weaknesses in government institutions, particularly in the education and health sectors, and the court system.</p><br>
 
 ## Geography
 
@@ -194,9 +194,6 @@ _improved: total_: total: NA<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: (2020 est.) NA<br>
-
-**HIV/AIDS - adult prevalence rate**<br>
-0.1% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>
@@ -482,11 +479,6 @@ _on alcohol and tobacco_: 1.6% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3.4%<br>
 _highest 10%_: 27.4% (2008)<br>
 
-**Remittances**<br>
-2.79% of GDP (2021 est.)<br>
-3.29% of GDP (2020 est.)<br>
-2.65% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $19.95 billion (2019 est.)<br>
 _expenditures_: $16.001 billion (2019 est.)<br>
@@ -655,16 +647,11 @@ _annual freight traffic on registered air carriers_: 44.09 million (2018) mt-km<
 
 **Airports - with paved runways**<br>
 _total_: 30<br>
-_over 3,047 m_: 5<br>
-_2,438 to 3,047 m_: 5<br>
-_1,524 to 2,437 m_: 13<br>
-_914 to 1,523 m_: 4<br>
-_under 914 m_: 3 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 7<br>
-_under 914 m_: 7 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 1 (2021)<br>
@@ -724,7 +711,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps (IR
 <p>Local border forces struggle to control the illegal transit of goods and people across the porous, undemarcated Armenian, Azerbaijani, and Georgian borders.<br><br><em>Armenia-Azerbaijan:</em> The dispute over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan remains the primary focus of regional instability. Residents have evacuated the former Soviet-era small ethnic enclaves in Armenia and Azerbaijan.<br><br><em>Azerbaijan-Georgia:</em> A joint boundary commission agrees on most of the alignment, leaving only small areas at certain crossing points in dispute.  Consequently, the two states have yet to agree on a delimitation or demarcation of their common boundary. One area of contention is where the international boundary should run through the 6th-13th Century David-Gareja monastery complex.<br><br><em>Azerbaijan-Iran:</em> none identified<br><br><em>Azerbaijan-Russia: </em>Russia complains of cross-border smuggling.<br><br><em>Azerbaijan-Turkey:</em> none identified<br><br><em>Caspian Sea (Maritime Boundary):</em> Azerbaijan, Kazakhstan, and Russia ratified the Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea. Bilateral talks continue with Turkmenistan on dividing the seabed and contested oilfields in the middle of the Caspian.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,031 (Ukraine) (as of 13 March 2023)<br>
 _IDPs_: 655,000 (conflict with Armenia over Nagorno-Karabakh; IDPs are mainly ethnic Azerbaijanis but also include ethnic Kurds, Russians, and Turks predominantly from occupied territories around Nagorno-Karabakh; includes IDPs' descendants, returned IDPs, and people living in insecure areas and excludes people displaced by natural disasters; around half the IDPs live in the capital Baku) (2021)<br>
 _stateless persons_: 3,585 (2022)<br>
 

@@ -176,9 +176,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -288,7 +285,7 @@ _highest court(s)_: Faroese Court or Raett (Rett - Danish) decides both civil an
 _subordinate courts_: Court of the First Instance or Tribunal de Premiere Instance; Court of Administrative Law or Tribunal Administratif; Mixed Commercial Court; Land Court<br>
 
 **Political parties and leaders**<br>
-Center Party or H (Midflokkurin) [Jenis av RANA]<br>People's Party or A (Folkaflokkurin) [Benir JOHANNESEN]<br>Progress Party or F (Framsokn) [Ruth VANG]<br>Republic or E (Tjodveldi) [Hogni HOYDAL] (formerly the Republican Party)<br>Self-Government Party or D (Sjalvstyri or Sjalvstyrisflokkurin) [Jogvan SKORHEIM]<br>Social Democratic Party or JF (Javnadarflokkurin) or JF [Aksel V. JOHANNESEN]<br>Union Party or B (Sambandsflokkurin) [Bardur A STEIG NIELSEN]<br>
+Center Party or H (Midflokkurin) [Jenis av RANA]<br>People's Party or A (Folkaflokkurin) [Benir JOHANNESEN]<br>Progress Party or F (Framsokn) [Ruth VANG]<br>Republic or E (Tjodveldi) [Hogni HOYDAL] (formerly the Republican Party)<br>Self-Government Party or D (Sjalvstyri or Sjalvstyrisflokkurin) [Samal Peter I GRUND]<br>Social Democratic Party or JF (Javnadarflokkurin) or JF [Aksel V. JOHANNESEN]<br>Union Party or B (Sambandsflokkurin) [Bardur A STEIG NIELSEN]<br>
 
 **International organization participation**<br>
 Arctic Council, IMO (associate), NC, NIB, UNESCO (associate), UPU<br>
@@ -376,11 +373,6 @@ _services_: 70% (December 2016 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
-
-**Remittances**<br>
-0% of GDP (2019 est.)<br>
-0% of GDP (2018 est.)<br>
-0% of GDP (2017 est.)<br>
 
 **Budget**<br>
 _revenues_: $835.6 million (2014 est.)<br>
@@ -535,7 +527,6 @@ OY-H<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_1,524 to 2,437 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Roadways**<br>

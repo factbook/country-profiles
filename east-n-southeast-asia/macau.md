@@ -5,7 +5,7 @@ _East & Southeast Asia / Dependencies (China)_
 ## Introduction
 
 **Background**<br>
-Colonized by the Portuguese in the 16th century, Macau was the first European settlement in the Far East. Pursuant to an agreement signed by China and Portugal on 13 April 1987, Macau became the Macau Special Administrative Region of the People's Republic of China on 20 December 1999. In this agreement, China promised that, under its "one country, two systems" formula, China's political and economic system would not be imposed on Macau, and that Macau would enjoy a "high degree of autonomy" in all matters except foreign affairs and defense for the subsequent 50 years.<br>
+Colonized by the Portuguese in the 16th century, Macau was the first European settlement in the Far East. Pursuant to an agreement signed by China and Portugal on 13 April 1987, Macau became the Macau Special Administrative Region of the People's Republic of China on 20 December 1999. In this agreement, China promised that, under its "one country, two systems" formula, China's political and economic system would not be imposed on Macau, and that Macau would enjoy a "high degree of autonomy" in all matters except foreign affairs and defense for the subsequent 50 years. However, following a multi-year crackdown by China against a pro-democracy movement in nearby Hong Kong, the governments of China and the Macao Special Administrative Region similarly worked to limit Macao's political autonomy by suppressing opposition activity in the 2021 legislative elections.<br>
 
 ## Geography
 
@@ -160,9 +160,6 @@ _unimproved: total_: total: 0% of population (2020)<br>
 NA<br>
 
 **Physicians density**<br>
-NA<br>
-
-**HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
 **Children under the age of 5 years underweight**<br>
@@ -387,11 +384,6 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
-**Remittances**<br>
-0.08% of GDP (2020 est.)<br>
-0.04% of GDP (2019 est.)<br>
-0.04% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $18.119 billion (2019 est.)<br>
 _expenditures_: $10.165 billion (2019 est.)<br>
@@ -424,7 +416,7 @@ $45.557 billion (2019 est.)<br>
 Hong Kong 66%, China 9% (2019)<br>
 
 **Exports - commodities**<br>
-broadcasting equipment, jewelry, watches, trunks/cases, telephones (2019)<br>
+jewelry, broadcasting equipment, watches, telephones, clothing and apparel (2021)<br>
 
 **Imports**<br>
 $22.788 billion (2021 est.) note: data are in current year dollars<br>
@@ -561,7 +553,6 @@ B-M<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_over 3,047 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Heliports**<br>

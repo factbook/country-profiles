@@ -199,9 +199,6 @@ _improved: total_: total: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: (2020 est.) NA<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.4% (2021 est.)<br>
-
 **Obesity - adult prevalence rate**<br>
 28.3% (2016)<br>
 
@@ -359,7 +356,7 @@ _election results_: <br><em>2019:</em> Alberto Ángel FERNÁNDEZ elected preside
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (72 seats; members directly elected on a provincial basis with 2 seats awarded to the party with the most votes and 1 seat to the party with the second highest number of votes; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Cámara de Diputados (257 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 4-year terms with one-half of the membership renewed every 2 years)<br>
-_elections_: <br>Senate - last held on 14 November 2021 (next to be held 29 October 2023)<br>Chamber of Deputies - last held on 14 November 2021 (next to be held 29 October 2023)<br>
+_elections_: <br>Senate - last held on 14 November 2021 (next to be held 22 October 2023)<br>Chamber of Deputies - last held on 14 November 2021 (next to be held 22 October 2023)<br>
 _election results_: <p><br>Senate - percent of vote by bloc or party - NA; seats by bloc or party - FdT 35, JxC 33, other 4; composition (as of February 2022) men 41, women 31, percent of women 43.1%</p> <p>Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - FdT 118, JxC 116, FIT-U 4, other: 19; composition (as of February 2022) - men 142, women 115, percent of women 44.7%; note - total National Congress percent of women 44.4%</p><br>
 
 **Judicial branch**<br>
@@ -368,7 +365,7 @@ _judge selection and term of office_: judges nominated by the president and appr
 _subordinate courts_: federal level appellate, district, and territorial courts; provincial level supreme, appellate, and first instance courts<br>
 
 **Political parties and leaders**<br>
-<p>Avanza Libertad or AL [José Luis ESPERT]<br>Civic Coalition ARI or CC-ARI [Elisa CARRIÓ, Maximiliano FERRARO]<br>Consenso Federal (Federal Consensus) or CF [Roberto LAVAGNA, Juan Manuel URTUBEY]<br>Frente Cívico por Santiago (Civic Front for Santiago) [Gerardo ZAMORA]<br>Frente de Izquierda y de los Trabajadores – Unidad (Workers' Left Front) or FIT-U [Nicolás DEL CAÑO, Miriam BREGMAN] (coalition of leftist parties in lower house; includes PTS, PO, and MST) <br>Frente de la Concordia Misionero (Front for the Renewal of Social Concord) or FRCS [Carlos Eduardo ROVIRA]<br>Frente de Todos (Everyone's Front) or FdT [Alberto FERNÁNDEZ] (includes FR, La Campora, and PJ); note - ruling coalition since 2019; includes several national and provincial Peronist political parties<br>Frente Renovador (Renewal Front) or FR [Sergio MASSA, Pablo MIROLO]<br>Generación por un Encuentro Nacional (Generation for a National Encounter) or GEN [Margarita STOLBIZER]<br>Hacemos por Córdoba (We do for Cordoba) or HC [Juan SCHIARETTI]<br>Juntos por el Cambio (Together for Change) or JxC [Horacio Rodríguez LARRETA] (includes CC-ARI, PRO, and UCR); note - primary opposition coalition since 2019<br>Juntos Somos Río Negro (Together We Are Rio Negro) or JSRN [Alberto WERETILNECK]    <br>Justicialist Party or PJ [Alberto Angel FERNÁNDEZ]<br>La Cámpora [Maximo KIRCHNER]<br>La Libertad Avanza (The Liberty Advances) or LLA [Javier MILEI]<br>Movimiento Popular Neuquino (Neuquén People's Movement) or MPN [Omar GUTIÉRREZ]<br>Movimiento Socialista de los Trabajadores (Workers' Socialist Movement) or MST [Vilma RIPOLL, Alejandro BODART]<br>Partido de los Trabajadores Socialistas (Socialist Workers' Party) or PTS [Nicolás DEL CAÑO]<br>Partido Obrero (Workers' Party) or PO [Gabriel SOLANO]<br>Partido Socialista or PS [Mónica Haydée FEIN]<br>Propuesta Republicana (Republican Proposal) or PRO [Mauricio MACRI]<br>Unidad Federal (coalition of provencial parties in the lower house; includes FRCS and JSRN)<br>Unión Cívica Radical (Radical Civic Union) or UCR [Gerardo Rubén MORALES]<br>Vamos con Vos (Let's Go with You) or VcV [Florencio RANDAZZO]</p><br>
+<p>Avanza Libertad or AL [José Luis ESPERT]<br>Civic Coalition ARI or CC-ARI [Elisa CARRIÓ, Maximiliano FERRARO]<br>Consenso Federal (Federal Consensus) or CF [Roberto LAVAGNA, Juan Manuel URTUBEY]<br>Frente Cívico por Santiago (Civic Front for Santiago) [Gerardo ZAMORA]<br>Frente de Izquierda y de los Trabajadores – Unidad (Workers' Left Front) or FIT-U [Nicolás DEL CAÑO, Miriam BREGMAN] (coalition of leftist parties in lower house; includes PTS, PO, and MST) <br>Frente de la Concordia Misionero (Front for the Renewal of Social Concord) or FRCS [Carlos Eduardo ROVIRA]<br>Frente de Todos (Everyone's Front) or FdT [Alberto FERNÁNDEZ] (includes FR, La Campora, and PJ); note - ruling coalition since 2019; includes several national and provincial Peronist political parties<br>Frente Renovador (Renewal Front) or FR [Sergio MASSA, Pablo MIROLO]<br>Generación por un Encuentro Nacional (Generation for a National Encounter) or GEN [Margarita STOLBIZER]<br>Hacemos por Córdoba (We do for Cordoba) or HC [Juan SCHIARETTI]<br>Juntos por el Cambio (Together for Change) or JxC [Patricia BULLRICH, Horacio Rodríguez LARRETA, Mauricio MACRI] (includes CC-ARI, PRO, and UCR); note - primary opposition coalition since 2019<br>Juntos Somos Río Negro (Together We Are Rio Negro) or JSRN [Alberto WERETILNECK]    <br>Justicialist Party or PJ [Alberto Angel FERNÁNDEZ]<br>La Cámpora [Maximo KIRCHNER]<br>La Libertad Avanza (The Liberty Advances) or LLA [Javier MILEI]<br>Movimiento Popular Neuquino (Neuquén People's Movement) or MPN [Omar GUTIÉRREZ]<br>Movimiento Socialista de los Trabajadores (Workers' Socialist Movement) or MST [Vilma RIPOLL, Alejandro BODART]<br>Partido de los Trabajadores Socialistas (Socialist Workers' Party) or PTS [Nicolás DEL CAÑO]<br>Partido Obrero (Workers' Party) or PO [Gabriel SOLANO]<br>Partido Socialista or PS [Mónica Haydée FEIN]<br>Propuesta Republicana (Republican Proposal) or PRO [Mauricio MACRI]<br>Unidad Federal (coalition of provencial parties in the lower house; includes FRCS and JSRN)<br>Unión Cívica Radical (Radical Civic Union) or UCR [Gerardo Rubén MORALES]<br>Vamos con Vos (Let's Go with You) or VcV [Florencio RANDAZZO]</p><br>
 
 **International organization participation**<br>
 AfDB (nonregional member), Australia Group, BCIE, BIS, CAN (associate), CD, CELAC, FAO, FATF, G-15, G-20, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NAM (observer), NSG, OAS, OPANAL, OPCW, Paris Club (associate), PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, Union Latina (observer), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -495,11 +492,6 @@ _on alcohol and tobacco_: 1.9% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
 _highest 10%_: 31% (2017 est.)<br>
-
-**Remittances**<br>
-0.19% of GDP (2021 est.)<br>
-0.17% of GDP (2020 est.)<br>
-0.13% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $150.823 billion (2019 est.)<br>
@@ -671,20 +663,11 @@ LV<br>
 
 **Airports - with paved runways**<br>
 _total_: 161<br>
-_over 3,047 m_: 4<br>
-_2,438 to 3,047 m_: 29<br>
-_1,524 to 2,437 m_: 65<br>
-_914 to 1,523 m_: 53<br>
-_under 914 m_: 10 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 977<br>
-_over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 43<br>
-_914 to 1,523 m_: 484<br>
-_under 914 m_: 448 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 2 (2021)<br>

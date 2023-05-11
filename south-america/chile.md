@@ -191,9 +191,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.6% (2021 est.)<br>
-
 **Obesity - adult prevalence rate**<br>
 28% (2016)<br>
 
@@ -479,11 +476,6 @@ _on alcohol and tobacco_: 2.9% of household expenditures (2018 est.)<br>
 _lowest 10%_: 1.7%<br>
 _highest 10%_: 41.5% (2013 est.)<br>
 
-**Remittances**<br>
-0.03% of GDP (2020 est.)<br>
-0.02% of GDP (2019 est.)<br>
-0.02% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $55.16 billion (2020 est.)<br>
 _expenditures_: $73.176 billion (2020 est.)<br>
@@ -652,19 +644,11 @@ CC<br>
 
 **Airports - with paved runways**<br>
 _total_: 90<br>
-_over 3,047 m_: 5<br>
-_2,438 to 3,047 m_: 7<br>
-_1,524 to 2,437 m_: 23<br>
-_914 to 1,523 m_: 31<br>
-_under 914 m_: 24 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 391<br>
-_2,438 to 3,047 m_: 5<br>
-_1,524 to 2,437 m_: 11<br>
-_914 to 1,523 m_: 56<br>
-_under 914 m_: 319 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 1 (2021)<br>

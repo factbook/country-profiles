@@ -194,9 +194,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 3.1% of population<br>
 _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.4% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
@@ -497,11 +494,6 @@ _lowest 10%_: 1.4%<br>
 _highest 10%_: 35.4% (2012 est.)<br>
 <strong>note:</strong> data are for urban households only<br>
 
-**Remittances**<br>
-4.11% of GDP (2021 est.)<br>
-3.37% of GDP (2020 est.)<br>
-3% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $35.914 billion (2019 est.)<br>
 _expenditures_: $39.319 billion (2019 est.)<br>
@@ -672,17 +664,11 @@ HC<br>
 
 **Airports - with paved runways**<br>
 _total_: 104<br>
-_over 3,047 m_: 4<br>
-_2,438 to 3,047 m_: 5<br>
-_1,524 to 2,437 m_: 18<br>
-_914 to 1,523 m_: 26<br>
-_under 914 m_: 51 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 328<br>
-_914 to 1,523 m_: 37<br>
-_under 914 m_: 291 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 2 (2021)<br>
@@ -715,8 +701,8 @@ _river port(s)_: Guayaquil (Guayas)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ecuadorian Armed Forces: the Ecuadorian Army (Ejército Ecuatoriano), Ecuadorian Navy (Armada del Ecuador, Fuerza Naval del Ecuador, FNE; includes naval infantry, naval aviation, coast guard), Ecuadorian Air Force (Fuerza Aerea Ecuatoriana, FAE) (2022)<br>
-<strong>note:</strong> the National Police of Ecuador (Policía Nacional del Ecuador) is under the Ministry of Government<br>
+Ecuadorian Armed Forces: the Ecuadorian Army (Ejército Ecuatoriano), Ecuadorian Navy (Armada del Ecuador, Fuerza Naval del Ecuador, FNE; includes naval infantry, naval aviation, coast guard), Ecuadorian Air Force (Fuerza Aerea Ecuatoriana, FAE) (2023)<br>
+<strong>note:</strong> the National Police of Ecuador (Policía Nacional del Ecuador) is under the Ministry of Government/Interior<br>
 
 **Military expenditures**<br>
 2% of GDP (2022 est.)<br>
@@ -729,7 +715,7 @@ Ecuadorian Armed Forces: the Ecuadorian Army (Ejército Ecuatoriano), Ecuadorian
 approximately 40,000 active military personnel (25,000 Army; 9,000 Navy; 6,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's equipment inventory is mostly older and derived from a wide variety of sources; in recent years, Ecuador has received limited amounts of military equipment from more than 15 countries, including Brazil, China, Russia, and the US (2022)<br>
+the military's equipment inventory is mostly older and derived from a wide variety of sources; in recent years, Ecuador has received limited amounts of military equipment from more than 15 countries, including Brazil, China, Russia, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for selective conscript military service, although conscription was suspended in 2008; 18 years of age for voluntary military service; Ecuadorian birth requirement; 1-year service obligation; females have been allowed to serve in all branches since 2012 (2022)<br>

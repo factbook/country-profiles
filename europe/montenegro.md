@@ -191,9 +191,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 6.1% of population<br>
 _unimproved: total_: total: 2% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-(2021 est.) <0.1%<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
@@ -492,11 +489,6 @@ _on alcohol and tobacco_: 6.8% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3.5%<br>
 _highest 10%_: 25.7% (2014 est.)<br>
 
-**Remittances**<br>
-13.54% of GDP (2021 est.)<br>
-12.59% of GDP (2020 est.)<br>
-10.54% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $2.051 billion (2020 est.)<br>
 _expenditures_: $2.568 billion (2020 est.)<br>
@@ -529,7 +521,7 @@ $2.424 billion (2019 est.) note: data are in current year dollars<br>
 Serbia 17%, Hungary 15%, China 11%, Russia 7%, Bosnia and Herzegovina 6%, Germany 6%, Italy 5%, Poland 5% (2019)<br>
 
 **Exports - commodities**<br>
-aluminum, packaged medicines, cars, zinc, wine (2019)<br>
+copper ore, aluminum, electricity, dried legumes, packaged medicines, lead, scrap iron, lumber (2021)<br>
 
 **Imports**<br>
 $3.637 billion (2021 est.) note: data are in current year dollars<br>
@@ -665,10 +657,6 @@ _annual freight traffic on registered air carriers_: 130,000 (2018) mt-km<br>
 
 **Airports - with paved runways**<br>
 _total_: 5<br>
-_2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1<br>
-_under 914 m_: 1 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Heliports**<br>
@@ -723,9 +711,9 @@ Montenegro became a member of NATO in 2017<br>
 <p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 32,383 (Ukraine) (as of 17 April 2023)<br>
+_refugees (country of origin)_: 32,558 (Ukraine) (as of 24 April 2023)<br>
 _stateless persons_: 468 (2022)<br>
-<strong>note:</strong> 30,164 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
+<strong>note:</strong> 30,237 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

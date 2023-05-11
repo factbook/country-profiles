@@ -177,9 +177,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -559,17 +556,11 @@ B<br>
 
 **Airports - with paved runways**<br>
 _total_: 35<br>
-_over 3,047 m_: 8<br>
-_2,438 to 3,047 m_: 7<br>
-_1,524 to 2,437 m_: 10<br>
-_914 to 1,523 m_: 8<br>
-_under 914 m_: 2 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
-_1,524 to 2,437 m_: 1<br>
-_under 914 m_: 1 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 31 (2021)<br>
@@ -618,11 +609,11 @@ approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including ap
 the Taiwan military is armed mostly with secondhand weapons and equipment provided by the US, and the US has continued to be the largest provider of arms in recent years; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface ships and submarines (2023)<br>
 
 **Military service age and obligation**<br>
-starting with those born in 1994, men 18-36 years of age may volunteer or must complete 4 months of compulsory military service; civil service can be substituted for military service in some cases; men born before December 1993 are required to complete compulsory service for 12 months (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military, the last cohort of 12-month military conscripts completed their service obligations in December 2018 (2022)<br>
-<strong>note 1: </strong>compulsory service is 5 weeks of basic training followed by 11 weeks of specialized training with field units; in 2022, the Taiwan announced that compulsory service would be extended from 4 to 12 months beginning in January 2024<strong><br><br>note 2:</strong> as of 2021, women made up about 15% of the active-duty military<br>
+starting with those born in 1994, men 18-36 years of age may volunteer or must complete 4 months of compulsory military service; civil service can be substituted for military service in some cases; men born before December 1993 are required to complete compulsory service for 12 months (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military, the last cohort of 12-month military conscripts completed their service obligations in December 2018 (2023)<br>
+<strong>note 1: </strong>compulsory service is 5 weeks of basic training followed by 11 weeks of specialized training with field units; in 2022, the Taiwan announced that compulsory service would be extended from 4 to 12 months beginning in January 2024<strong><br><br>note 2:</strong> as of 2023, women made up about 15% of the active-duty military<br>
 
 **Military - note**<br>
-the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2023)<br>
+the military’s primary responsibility is external security, including the defense of the country’s sovereignty and territory, and the protection of Taiwan’s air space, maritime claims, and sea lanes of communication; its main focus is the challenge posed by the People’s Republic of China; the military trains regularly and conducts multiservice exercises; the Army’s primary combat forces include 9 mechanized or motorized infantry brigades, 4 armored brigades, and 3 artillery brigades; it also has an aviation and special forces command that includes several squadrons of attack helicopters; the Air Force has nearly 300 fighter and multipurpose fighter aircraft organized, plus squadrons for anti-submarine and electronic warfare, early warning, and surveillance; the Navy’s warship inventory includes 4 destroyers, 22 frigates, more than 40 corvettes, patrol vessels, and missile-armed attack craft, and 2 combat-capable attack submarines; it also has 3 marine infantry brigades <br><br>the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2023)<br>
 
 ## Transnational Issues
 

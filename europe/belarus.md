@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-After seven decades as a constituent republic of the USSR, Belarus attained its independence in 1991. It has retained closer political and economic ties to Russia than have any of the other former Soviet republics. Belarus and Russia signed a treaty on a two-state union on 8 December 1999 envisioning greater political and economic integration. Although Belarus agreed to a framework to carry out the accord, serious implementation has yet to take place and negotiations on further integration have been contentious. Since his election in July 1994 as the country's first and only directly elected president, Alyaksandr LUKASHENKA has steadily consolidated his power through authoritarian means and a centralized economic system. Government restrictions on political and civil freedoms, freedom of speech and the press, peaceful assembly, and religion have remained in place. Restrictions on political freedoms have grown increasingly strained following the disputed presidential election in August 2020. The election results sparked largescale protests as members of the opposition and civil society criticized the election’s validity. Alyaksandr LUKASHENKA has remained in power as the disputed winner of the presidential election after quelling protests in late 2020. <p> </p> <p> </p> <p> </p> <p> </p><br>
+After seven decades as a constituent republic of the USSR, Belarus attained its independence in 1991. It has retained closer political and economic ties to Russia than have any of the other former Soviet republics, and since 2022 Belarus has facilitated Russia's war in Ukraine, which was launched in part from Belarusian territory. Belarus and Russia signed a treaty on a two-state union on 8 December 1999 envisioning greater political and economic integration. Although Belarus agreed to a framework to carry out the accord, serious implementation has yet to take place and negotiations on further integration have been contentious. Since his election in July 1994 as the country's first and only directly elected president, Alyaksandr LUKASHENKA has steadily consolidated his power through authoritarian means and a centralized economic system. Government restrictions on political and civil freedoms, freedom of speech and the press, peaceful assembly, and religion have remained in place. Restrictions on political freedoms have grown increasingly strained following the disputed presidential election in August 2020. The election results sparked largescale protests as members of the opposition and civil society criticized the election’s validity. Alyaksandr LUKASHENKA has remained in power as the disputed winner of the presidential election after quelling protests in late 2020. <p> </p> <p> </p> <p> </p> <p> </p><br>
 
 ## Geography
 
@@ -189,9 +189,6 @@ _improved: total_: total: 99.5% of population<br>
 _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 1.7% of population<br>
 _unimproved: total_: total: 0.5% of population (2020 est.)<br>
-
-**HIV/AIDS - adult prevalence rate**<br>
-0.5% (2021 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 24.5% (2016)<br>
@@ -485,11 +482,6 @@ _on alcohol and tobacco_: 7.2% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3.8%<br>
 _highest 10%_: 21.9% (2008)<br>
 
-**Remittances**<br>
-1.67% of GDP (2021 est.)<br>
-1.65% of GDP (2020 est.)<br>
-2.2% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $24.743 billion (2019 est.)<br>
 _expenditures_: $24.239 billion (2019 est.)<br>
@@ -659,19 +651,11 @@ EW<br>
 
 **Airports - with paved runways**<br>
 _total_: 33<br>
-_over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 20<br>
-_1,524 to 2,437 m_: 4<br>
-_914 to 1,523 m_: 1<br>
-_under 914 m_: 7 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 32<br>
-_over 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 2<br>
-_under 914 m_: 28 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 1 (2021)<br>
@@ -728,7 +712,7 @@ Belarus has close security ties with Russia, including an integrated air and mis
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,168 (Ukraine) (as of 28 March 2023)<br>
+_refugees (country of origin)_: 22,820 (Ukraine) (as of 26 April 2023)<br>
 _stateless persons_: 5,626 (2022)<br>
 
 **Trafficking in persons**<br>

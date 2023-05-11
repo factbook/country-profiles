@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Formerly part of the Ottoman Empire, Iraq was occupied by the United Kingdom during World War I and was declared a League of Nations mandate under UK administration in 1920. Iraq attained its independence as a kingdom in 1932. It was proclaimed a "republic" in 1958 after a coup overthrew the monarchy, but in actuality, a series of strongmen ruled the country until 2003. The last was SADDAM Husayn from 1979 to 2003. Territorial disputes with Iran led to an inconclusive and costly eight-year war (1980-88). In August 1990, Iraq seized Kuwait but was expelled by US-led UN coalition forces during the Gulf War of January-February 1991. After Iraq's expulsion, the UN Security Council (UNSC) required Iraq to scrap all weapons of mass destruction and long-range missiles and to allow UN verification inspections. Continued Iraqi noncompliance with UNSC resolutions led to the Second Gulf War in March 2003 and the ouster of the SADDAM Husayn regime by US-led forces.</p> <p>In October 2005, Iraqis approved a constitution in a national referendum and, pursuant to this document, elected a 275-member Council of Representatives (COR) in December 2005. The COR approved most cabinet ministers in May 2006, marking the transition to Iraq's first constitutional government in nearly a half century. Iraq held elections for provincial councils in all governorates - except for Iraq's Kurdistan Region and Kirkuk - in January 2009 and in April and June 2013, and has repeatedly postponed the next provincial elections, originally planned for April 2017. Iraq has held four national legislative elections since 2006, most recently in October 2021 when 329 legislators were elected to the COR. The acting Iraqi National Intelligence Service Director General Mustafa al-KADHIMI became prime minister in May 2020 after the previous prime minister resigned in late 2019 because of widespread protests demanding more employment opportunities and an end to corruption. His mandate as prime minister was to guide Iraq toward an early national legislative election, which was held in October 2021.</p> <p>Between 2014 and 2017, Iraq was engaged in a military campaign against the Islamic State of Iraq and ash-Sham (ISIS) to recapture territory lost in the western and northern portion of the country. Iraqi and allied forces recaptured Mosul, the country's second-largest city, in 2017 and drove ISIS out of its other urban strongholds. In December 2017, then-Prime Minister Haydar al-ABADI publicly declared victory against ISIS while continuing operations against the group's residual presence in rural areas. Also in late 2017, ABADI responded to an independence referendum held by the Kurdistan Regional Government by ordering Iraqi forces to take control of disputed territories across central and northern Iraq that were previously occupied and governed by Kurdish forces.</p><br>
+<p>Formerly part of the Ottoman Empire, Iraq was occupied by the United Kingdom during World War I and was declared a League of Nations mandate under UK administration in 1920. Iraq attained its independence as a kingdom in 1932. It was proclaimed a "republic" in 1958 after a coup overthrew the monarchy, but in actuality, a series of strongmen ruled the country until 2003. The last was SADDAM Husayn from 1979 to 2003. Territorial disputes with Iran led to an inconclusive and costly eight-year war (1980-88). In August 1990, Iraq seized Kuwait but was expelled by US-led UN coalition forces during the Gulf War of January-February 1991. After Iraq's expulsion, the UN Security Council (UNSC) required Iraq to scrap all weapons of mass destruction and long-range missiles and to allow UN verification inspections. Continued Iraqi noncompliance with UNSC resolutions led to the Second Gulf War in March 2003 and the ouster of the SADDAM Husayn regime by US-led forces.</p> <p>In October 2005, Iraqis approved a constitution in a national referendum and, pursuant to this document, elected a 275-member Council of Representatives (COR) in December 2005. The COR approved most cabinet ministers in May 2006, marking the transition to Iraq's first constitutional government in nearly a half century. Iraq's constitution also established the Kurdistan Regional Government (KRG), a semi-autonomous region that administers the governorates of Erbil, Dahuk, and As Sulaymaniyah. Iraq has held four national legislative elections since 2006, most recently in October 2021 when 329 legislators were elected to the COR. Following these elections and Iraq's longest government formation process in the post-SADDAM era, the COR approved Muhammad Shia' al-SUDANI as prime minister in October 2022. Iraq has repeatedly postponed separate elections for provincial councils - last held in 2013 - and since 2019 the prime minister has had the authority to appoint governors rather than provincial councils. In early 2023, the COR voted to hold provincial elections by the end of the year.</p> <p>Between 2014 and 2017, Iraq fought a military campaign against the Islamic State of Iraq and ash-Sham (ISIS) to recapture territory the group seized in 2014. In December 2017, then-Prime Minister Haydar al-ABADI publicly declared victory against ISIS, although military operations against the group continue in rural areas. Also in late 2017, Baghdad forcefully seized disputed territories across central and northern Iraq from the KRG, following a non-binding Kurdish independence referendum.</p><br>
 
 ## Geography
 
@@ -98,7 +98,7 @@ Arab 75-80%, Kurdish 15-20%, other 5% (includes Turkmen, Yezidi, Shabak, Kaka'i,
 
 **Languages**<br>
 Arabic (official), Kurdish (official); Turkmen (a Turkish dialect) and Syriac (Neo-Aramaic) are recognized as official languages where native speakers of these languages are present; Iraqis have the right to be educated in their native language<br>
-_major-language sample(s)_: <br>كتاب حقائق العالم، أحسن مصدر للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، أحسن مصدر للمعلومات الأساسية (Arabic)<br> <p>کتێبی فاکتی ژیهانی، باشترین سەرچاوەێک بۆ زانیاری بنەرەتی (Kurdish)</p> The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim (official) 95-98% (Shia 61-64%, Sunni 29-34%), Christian 1% (includes Catholic, Orthodox, Protestant, Assyrian Church of the East), other 1-4% (2015 est.)<br>
@@ -195,9 +195,6 @@ _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
-
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2023)<br>
@@ -499,11 +496,6 @@ _on alcohol and tobacco_: 4.2% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3.6%<br>
 _highest 10%_: 25.7% (2007 est.)<br>
 
-**Remittances**<br>
-0.35% of GDP (2020 est.)<br>
-0.37% of GDP (2019 est.)<br>
-0.33% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $51.534 billion (2020 est.)<br>
 _expenditures_: $85.546 billion (2020 est.)<br>
@@ -672,20 +664,11 @@ YI<br>
 
 **Airports - with paved runways**<br>
 _total_: 72<br>
-_over 3,047 m_: 20<br>
-_2,438 to 3,047 m_: 34<br>
-_1,524 to 2,437 m_: 4<br>
-_914 to 1,523 m_: 7<br>
-_under 914 m_: 7 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 30<br>
-_over 3,047 m_: 3<br>
-_2,438 to 3,047 m_: 5<br>
-_1,524 to 2,437 m_: 3<br>
-_914 to 1,523 m_: 13<br>
-_under 914 m_: 6 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 16 (2021)<br>

@@ -195,9 +195,6 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-NA<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2023)<br>
 _vectorborne diseases_: tickborne encephalitis<br>
@@ -666,18 +663,11 @@ SP<br>
 
 **Airports - with paved runways**<br>
 _total_: 87<br>
-_over 3,047 m_: 5<br>
-_2,438 to 3,047 m_: 30<br>
-_1,524 to 2,437 m_: 36<br>
-_914 to 1,523 m_: 10<br>
-_under 914 m_: 6 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 39<br>
-_1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 17<br>
-_under 914 m_: 21 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 6 (2021)<br>
@@ -709,7 +699,7 @@ _river port(s)_: Szczecin (River Oder)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Force (Wojska Obrony Terytorialnej); Ministry of Interior and Administration: Border Guard (includes coast guard duties) (2022)<br>
+Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Force (Wojska Obrony Terytorialnej); Ministry of Interior and Administration: Border Guard (includes coast guard duties) (2023)<br>
 <strong>note:</strong> the Polish Armed Forces are organized into a General Staff, an Armed Forces General Command, an Armed Forces Operational Command, Territorial Defense Forces (established 2017), Military Police, and the Warsaw Garrison Command<br>
 
 **Military expenditures**<br>
@@ -721,7 +711,7 @@ Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air 
 <strong>note: </strong>in 2022, the Polish Government announced plans to increase defense spending to 3% of GDP for 2023<br>
 
 **Military and security service personnel strengths**<br>
-approximately 120,000 active duty personnel (65,000 Army; 7,000 Navy; 15,000 Air Force; 3,000 Special Forces; 25,000 joint service/other; 5,000 active Territorial Defense Forces); approximately 25,000 other Territorial Defense Forces (reserves) (2022)<br>
+approximately 120,000 active-duty personnel (65,000 Army; 7,000 Navy; 15,000 Air Force; 3,000 Special Forces; 25,000 joint service/other; 5,000 active Territorial Defense Forces); approximately 25,000 other Territorial Defense Forces (reserves) (2022)<br>
 <strong>note: </strong>in June 2019, the Polish Government approved a plan to increase the size of the military over a period of 10 years to over 200,000 troops, including doubling the size of the Territorial Defense Forces; in 2021, it announced additional plans to increase the size of the military to over 300,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -751,7 +741,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,583,563 (Ukraine) (as of 16 April 2023)<br>
+_refugees (country of origin)_: 1,583,563 (Ukraine) (as of 27 April 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

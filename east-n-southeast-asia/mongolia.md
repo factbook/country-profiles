@@ -193,9 +193,6 @@ _unimproved: urban_: urban: 2.6% of population<br>
 _unimproved: rural_: rural: 30.1% of population<br>
 _unimproved: total_: total: 11.2% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-(2021 est.) <0.1%<br>
-
 **Obesity - adult prevalence rate**<br>
 20.6% (2016)<br>
 
@@ -484,11 +481,6 @@ _female_: 22.4% (2021 est.)<br>
 _lowest 10%_: 13.7%<br>
 _highest 10%_: 5.7% (2017)<br>
 
-**Remittances**<br>
-4.12% of GDP (2020 est.)<br>
-3.95% of GDP (2019 est.)<br>
-3.34% of GDP (2018 est.)<br>
-
 **Budget**<br>
 _revenues_: $3.699 billion (2020 est.)<br>
 _expenditures_: $4.979 billion (2020 est.)<br>
@@ -521,7 +513,7 @@ $8.416 billion (2019 est.) note: data are in current year dollars<br>
 China 81%, Switzerland 9% (2019)<br>
 
 **Exports - commodities**<br>
-coal, copper, gold, iron, crude petroleum (2019)<br>
+copper, coal, gold, iron, animal hair, crude petroleum, zinc (2021)<br>
 
 **Imports**<br>
 $9.256 billion (2021 est.) note: data are in current year dollars<br>
@@ -658,17 +650,11 @@ JU<br>
 
 **Airports - with paved runways**<br>
 _total_: 15<br>
-_over 3,047 m_: 2<br>
-_2,438 to 3,047 m_: 10<br>
-_1,524 to 2,437 m_: 3 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 29<br>
-_over 3,047 m_: 2<br>
-_2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 24<br>
-_under 914 m_: 1 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 1 (2021)<br>
@@ -717,7 +703,7 @@ the MAF's inventory is comprised of Soviet-era equipment (2022)<br>
 <strong>note:</strong> from 2003 to July 2021, some 3,300 Mongolian troops served in Afghanistan, including about 1,300 under the NATO-led Resolute Support Mission (2015 to 2021); since 2002, Mongolia has deployed more than 19,000 peacekeepers and observers to UN operations in more than a dozen countries<br>
 
 **Military - note**<br>
-Mongolia has been engaged in dialogue and cooperation with NATO since 2005 and is considered by NATO to be a global partner; Mongolia supported the NATO-led Kosovo Force from 2005-2007 and contributed troops to the NATO-led International Security Assistance Force in Afghanistan from 2009-2014, as well as to the follow-on Resolute Support Mission that provided training, advice, and other assistance to the Afghan security forces (2015-2021) (2022)<br>
+the MAF does not face any significant external military threats and focuses instead on counterterrorism, disaster response, and international peacekeeping; the Ground Force is the military’s primary service and is centered on a motorized infantry brigade equipped largely with Soviet-era equipment; it also has a battalion devoted to peacekeeping duties and hosts an annual international peacekeeping exercise known as “Khaan Quest”; Mongolia’s primary military partner is Russia, and in addition to receiving Russian military equipment, the MAF participates in Russia’s large “Vostok” exercise, which is conducted every four years <br><br>Mongolia has been engaged in dialogue and cooperation with NATO since 2005 and is considered by NATO to be a global partner; Mongolia supported the NATO-led Kosovo Force from 2005-2007 and contributed troops to the NATO-led International Security Assistance Force in Afghanistan from 2009-2014, as well as to the follow-on Resolute Support Mission that provided training, advice, and other assistance to the Afghan security forces (2015-2021) (2023)<br>
 
 ## Transnational Issues
 

@@ -198,9 +198,6 @@ _unimproved: urban_: urban: 11.4% of population<br>
 _unimproved: rural_: rural: 26.8% of population<br>
 _unimproved: total_: total: 21.1% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-0.2% (2021 est.)<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
@@ -371,13 +368,13 @@ _residency requirement for naturalization_: 4 out of the previous 7 years and in
 _chief of state_: President Arif ALVI (since 9 September 2018)<br>
 _head of government_: Prime Minister Shehbaz SHARIF (since 11 April 2022); former Prime Minister Imran KHAN on 10 April 2022 lost a no-confidence vote in the National Assembly<br>
 _cabinet_: Cabinet appointed by the president upon the advice of the prime minister<br>
-_elections/appointments_: president indirectly elected by the Electoral College consisting of members of the Senate, National Assembly, and provincial assemblies for a 5-year term (limited to 2 consecutive terms); election last held on 4 September 2018 (next to be held in 2023); prime minister elected by the National Assembly on 17 August 2018<br>
+_elections/appointments_: president indirectly elected by the Electoral College consisting of members of the Senate, National Assembly, and provincial assemblies for a 5-year term (limited to 2 consecutive terms); election last held on 4 September 2018 (next to be held in 2023); prime minister elected by the National Assembly on 11 April 2022<br>
 _election results_: <em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (100 seats; members indirectly elected by the 4 provincial assemblies and the territories' representatives by proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 3 March 2021 (next to be held in March 2024)<br>National Assembly - last held on 25 July 2018 (next to be held in July 2023)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PTI 25, PPP 21, PML-N 18, BAP 13, JU-F 5, other 13, independent 5; composition - men 81, women 19, percent of women 19%<br><br>National Assembly - percent of votes by party - NA; seats by party - PTI 156, PML-N 83, PPP 55, MMA 16, MQM-P 7, BAP 5, PML-Q 5, BNP 4, GDA 3, AML 1, ANP 1, JWP 1, independent 4; composition - men 272, women 70, percent of women 20.2%; note - total Parliament percent of women 20.1%<br>
+_description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (100 seats; members indirectly elected by the 4 provincial assemblies and the federal capital territory indirectly elected by the National Assembly using proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>
+_elections_: <br>Senate - last held on 3 March 2021 (next to be held in March 2024)<br>National Assembly - last held on 25 July 2018 (next to be held in October 2023)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PTI 25, PPP 21, PML-N 18, BAP 13, JUI-F 5, other 13, independent 5; composition - men 81, women 19, percent of women 19%<br><br>National Assembly - percent of votes by party - NA; seats by party - PTI 156, PML-N 83, PPP 55, MMA 16, MQM-P 7, BAP 5, PML-Q 5, BNP-M 4, GDA 3, AML 1, ANP 1, JWP 1, independent 4; composition - men 272, women 70, percent of women 20.2%; note - total Parliament percent of women 20.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Pakistan (consists of the chief justice and 16 judges)<br>
@@ -385,8 +382,8 @@ _judge selection and term of office_: justices nominated by an 8-member parliame
 _subordinate courts_: High Courts; Federal Shariat Court; provincial and district civil and criminal courts; specialized courts for issues, such as taxation, banking, and customs<br>
 
 **Political parties and leaders**<br>
-Awami National Party or ANP [Asfandyar Wali KHAN]<br>Awami Muslim League or AML [Sheikh Rashid AHMED]<br>Balochistan Awami Party or BAP [Jam Kamal KHAN] <br>Balochistan National Party-Awami or BNP-A [Mir Israr Ullah ZEHRI]<br>Balochistan National Party-Mengal or BNP-M [Sardar Akhtar Jan MENGAL]<br>Grand Democratic Alliance or GDA  [Pir PAGARO] (includes F, NPP, PML-Q, PTI, QAT)<br>Jamaat-i Islami or JI [Sirajul HAQ]<br>Jamhoori Wattan Party or JWP [Shahzain BUGTI]<br>Jamiat Ulema-e-Islam or JUI-F [Maulana Fazal-ur-REHMAN]<br>Muttahida Majlis-e-Amal or MMA [Maulana Fazal-ur-REHMAN] (alliance of several parties)<br>Muttahida Qaumi Movement-London or MQM-L [Altaf HUSSAIN] (MQM split into two factions in 2016)<br>Muttahida Qaumi Movement-Pakistan or MQM-P [Dr. Khalid Maqbool SIDDIQUI] (MQM split into two factions in 2016)<br>National Party or NP [Abdul Malik BALOCH]<br>Pak Sarzameen Party or PSP [Mustafa KAMAL]<br>Pakhtunkhwa Milli Awami Party or PMAP or PkMAP [Mahmood Khan ACHAKZAI]<br>Pakhtunkhwa Milli Awami Party or PML-F [Pir PAGARO or Syed Shah Mardan SHAH-II]<br>Pakistan Muslim League-Nawaz or PML-N [Shehbaz SHARIF]<br>Pakistan Muslim League – Quaid-e-Azam Group or PML-Q [Chaudhry Shujaat HUSSAIN]<br>Pakistan Muslim League or PML-F [Pir PAGARO]<br>Pakistan Peoples Party or PPP [Bilawal BHUTTO ZARDARI, Asif Ali ZARDARI]<br>Pakistan Tehrik-e Insaaf or PTI (Pakistan Movement for Justice) [Imran KHAN]<br>Qaumi Awami Tehreek or AT [Sajjad Ahmed CHANDIO]<br>Qaumi Awami Tehreek or QAT [Ayaz Latif PALIJO]<br>Qaumi Watan Party or QWP [Aftab Ahmed Khan SHERPAO]<br>
-<strong>note:</strong> political alliances in Pakistan shift frequently<br>
+Awami National Party or ANP [Asfandyar Wali KHAN]<br>Awami Muslim League or AML [Sheikh Rashid AHMED]<br>Balochistan Awami Party or BAP [Abdul Quddus BIZENJO]<br>Balochistan National Party-Awami or BNP-A [Mir Israrullah ZEHRI]<br>Balochistan National Party-Mengal or BNP-M [Sardar Akhtar Jan MENGAL]<br>Grand Democratic Alliance or GDA [Pir PAGARO] (alliance of several parties)<br>Hazara Democratic Party or HDP [Abdul Khaliq HAZARA]<br>Jamaat-e-Islami or JI [Siraj-ul-HAQ]<br>Jamhoori Wattan Party or JWP [Nawabzada Shahzain BUGTI]<br>Jamiat Ulema-e-Islam-Fazl or JUI-F [Maulana Fazal-ur-REHMAN]<br>Muttahida Majlis-e-Amal or MMA [Maulana Fazal-ur-REHMAN] (alliance of several parties)<br>Muttahida Qaumi Movement-Pakistan or MQM-P [Khalid Maqbool SIDDIQUI]<br>National Party or NP [Abdul Malik BALOCH]<br>Pashtoonkhwa Milli Awami Party or PMAP or PKMAP [Mahmood Khan ACHAKZAI]<br>Pakistan Muslim League-Nawaz or PML-N [Shehbaz SHARIF]<br>Pakistan Muslim League-Quaid-e-Azam or PML-Q [Chaudhry Shujaat HUSSAIN]<br>Pakistan Muslim League-Functional or PML-F [Pir PAGARO]<br>Pakistan Peoples Party or PPP [Bilawal BHUTTO ZARDARI, Asif Ali ZARDARI]<br>Pakistan Rah-e-Haq Party or PRHP [Muhammad Ibrahim QASMI]<br>Pakistan Tehrik-e Insaaf or PTI (Pakistan Movement for Justice) [Imran KHAN]<br>Tehreek-e-Labbaik Pakistan or TLP [Hafiz Muhammad Saad Hussain Rizvi MARKAZI]<br>
+<strong>note:</strong> Pakistan has several hundred officially registered political parties; this list includes those that won seats in the most recent elections at the national and provincial levels<br>
 
 **International organization participation**<br>
 ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNISFA, UNISFA, UNMISS, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -400,7 +397,7 @@ _email address and website_: <br>consularsection@embassyofpakistanusa.org<br><br
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Angela AGGELER<br>
+_chief of mission_: Ambassador Donald BLOME (since 2 July 2022)<br>
 _embassy_: Diplomatic Enclave, Ramna 5, Islamabad<br>
 _mailing address_: 8100 Islamabad Place, Washington, DC 20521-8100<br>
 _telephone_: [92] 051-201-4000<br>
@@ -686,19 +683,11 @@ AP<br>
 
 **Airports - with paved runways**<br>
 _total_: 108<br>
-_over 3,047 m_: 15<br>
-_2,438 to 3,047 m_: 20<br>
-_1,524 to 2,437 m_: 43<br>
-_914 to 1,523 m_: 20<br>
-_under 914 m_: 10 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 43<br>
-_2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 9<br>
-_914 to 1,523 m_: 9<br>
-_under 914 m_: 24 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 23 (2021)<br>

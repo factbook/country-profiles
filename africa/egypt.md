@@ -204,9 +204,6 @@ _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 1.8% of population<br>
 _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 
-**HIV/AIDS - adult prevalence rate**<br>
-(2021 est.) <0.1%<br>
-
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
@@ -505,11 +502,6 @@ _on alcohol and tobacco_: 4.7% of household expenditures (2018 est.)<br>
 _lowest 10%_: 4%<br>
 _highest 10%_: 26.6% (2008)<br>
 
-**Remittances**<br>
-7.79% of GDP (2021 est.)<br>
-8.1% of GDP (2020 est.)<br>
-8.84% of GDP (2019 est.)<br>
-
 **Budget**<br>
 _revenues_: $71.16 billion (2020 est.)<br>
 _expenditures_: $100.318 billion (2020 est.)<br>
@@ -681,18 +673,11 @@ SU<br>
 
 **Airports - with paved runways**<br>
 _total_: 72<br>
-_over 3,047 m_: 15<br>
-_2,438 to 3,047 m_: 36<br>
-_1,524 to 2,437 m_: 15<br>
-_under 914 m_: 6 (2021)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 11<br>
-_2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 3<br>
-_914 to 1,523 m_: 4<br>
-_under 914 m_: 3 (2021)<br>
+<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
 7 (2021)<br>
@@ -767,7 +752,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); 
 <p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 145,157 (Syria), 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 145,157 (Syria), 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 47,000 (Sudan) (refugees since 15 April 2023) (2023)<br>
 _stateless persons_: 10 (2022)<br>
 
 **Illicit drugs**<br>
