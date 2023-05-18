@@ -283,15 +283,6 @@ _rate of urbanization_: 4.1% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: malaria and dengue fever<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Chad is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to civil insecurity and shortfall in cereal production - </em>according to the latest analysis, about 1.5 million people are projected to experience acute food insecurity during the June to August 2023 lean season period; this would be an improvement compared to the previous year, mostly due to the significantly higher year-on-year cereal output in 2022 after the below-average 2021 production; acute food insecurity is underpinned by persistent insecurity in the Lac and Tibesti regions; elevated food prices, as well as the impact of the severe floods in 2022, which affected approximately 1.5 million people and destroyed about 350,000 hectares of farmland, are compounding food insecurity (2023)<br>
 
@@ -313,7 +304,7 @@ _industrial_: 100 million cubic meters (2020 est.)<br>
 _agricultural_: 670 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-45.7 billion cubic meters (2019 est.)<br>
+45.7 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -716,7 +707,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 433,372 (Sudan) (includes refugees since 15 April 2023), 125,433 (Central African Republic), 28,256 (Cameroon), 20,937 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 433,372 (Sudan) (includes refugees since 15 April 2023), 125,423 (Central African Republic), 28,256 (Cameroon), 20,951 (Nigeria) (2023)<br>
 _IDPs_: 381,289 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>

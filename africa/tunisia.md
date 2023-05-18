@@ -278,7 +278,7 @@ _industrial_: 60 million cubic meters (2020 est.)<br>
 _agricultural_: 2.71 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-4.6 billion cubic meters (2019 est.)<br>
+4.62 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -308,7 +308,7 @@ _etymology_: three possibilities exist for the derivation of the name; originall
 Independence Day, 20 March (1956); Revolution and Youth Day, 14 January (2011)<br>
 
 **Constitution**<br>
-_history_: <p>history: several previous; latest draft submitted by government 1 July 2022, approved by referendum 25 July and adopted 27 July</p><br>
+_history_: <p>history: several previous; latest - draft published by the president 30 June 2022, approved by referendum 25 July, and adopted 27 July</p><br>
 _amendments_: proposed by the president of the republic or by one third of the Assembly of the Representatives of the People membership; following review by the Constitutional Court, approval to proceed requires an absolute majority vote by the Assembly and final passage requires a two-thirds majority vote by the Assembly; the president can opt to submit an amendment to a referendum, which requires an absolute majority of votes cast for passage<br>
 
 **Legal system**<br>
@@ -335,13 +335,13 @@ _election results_: <p><em>2019: </em>percent vote in first round - Kais SAIED (
 <strong>note: </strong>the president can dismiss any member of government on his own initiative or in consultation with the prime minister<br>
 
 **Legislative branch**<br>
-_description_: bicameral legislature (enacted by the 2022 constitution) consists of:<br>National Council of Regions and Districts (Le Conseil National des regions et des districts) -newly added; (NA seats; members appointed by municipal-level councils; members of each Regional Council elect 3 members among themselves to the National Council; each District Council elects 1 member among themselves to the National Council; members serve 5-year term)<br>Assembly of Representatives of the People (161 seats; 151 members in single seat constituencies and 10 members living abroad directly elected by majoritarian two-round voting system; all members serve 5-year terms)<br>
+_description_: bicameral legislature (enacted by the 2022 constitution) consists of:<br>newly added National Council of Regions and Districts (Le Conseil National des regions et des districts); (NA seats; members appointed by municipal-level councils; members of each Regional Council elect 3 members among themselves to the National Council; each District Council elects 1 member among themselves to the National Council; members serve 5-year term)<br>Assembly of Representatives of the People (161 seats; 151 members in single seat constituencies and 10 members from Tunisian diaspora directly elected by majoritarian two-round voting system; all members serve 5-year terms)<br>
 _elections_: National Council of Regions and Districts - dates of first appointments and indirect elections NA<br>Assembly of Representatives of the People - last held on 17 December 2022 with a runoff on 29 January 2023 (next scheduled for late 2027)<br>
 _election results_: note: in 2022 President SAIED issued a new electoral law which required all legislative candidates run as independents<br>results NA; composition for 154 seats) - men 129, women 25, percent of women 15.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation (consists of the first president, chamber presidents, and magistrates and organized into 27 civil and 11 criminal chambers)<br>
-_judge selection and term of office_: Supreme Court judges nominated by the Supreme Judicial Council, an independent 4-part body consisting mainly of elected judges and the remainder legal specialists; judge tenure based on terms of appointment; Constitutional Court (established in the 2014 and2022 constitutions, but inception has been delayed; note - in mid-February 2022, President SAIED dissolved the Supreme Judicial Council and replaced it with an interim council in early March<br>
+_judge selection and term of office_: Supreme Court judges nominated by the Supreme Judicial Council, an independent 4-part body consisting mainly of elected judges and the remainder legal specialists; judge tenure based on terms of appointment; Constitutional Court (established in the 2014 and 2022 constitutions, but inception has been delayed; note - in mid-February 2022, President SAIED dissolved the Supreme Judicial Council and replaced it with an interim council in early March<br>
 _subordinate courts_: Courts of Appeal; administrative courts; Court of Audit; Housing Court; courts of first instance; lower district courts; military courts<br>
 <strong>note:</strong> the Tunisian constitution of January 2014 called for the establishment of a constitutional court by the end of 2015, but the court was never formed; the new constitution of July 2022 calls for the establishment of a constitutional court consisting of 9 members appointed by presidential decree; members to include former senior judges of other courts<br>
 

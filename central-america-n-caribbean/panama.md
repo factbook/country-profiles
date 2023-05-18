@@ -269,11 +269,6 @@ _rate of urbanization_: 1.92% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: dengue fever<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,472,262 tons (2015 est.)<br>
 
@@ -286,7 +281,7 @@ _industrial_: 10 million cubic meters (2020 est.)<br>
 _agricultural_: 450 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-139.3 billion cubic meters (2019 est.)<br>
+139.3 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -680,8 +675,8 @@ _container port(s) (TEUs)_: Balboa (3,561,432), Colon (4,915,975) (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Public Security: the Panama National Police (La Policía Nacional de Panamá, PNP), National Air-Naval Service (Servicio Nacional Aeronaval, SENAN), National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2022)<br>
-<strong>note:</strong> the PNP includes paramilitary special forces units for counterterrorism and counternarcotics missions; in addition to its 3 regionally-based border security brigades, SENAFRONT includes a special forces brigade, which is comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
+no regular military forces; Ministry of Public Security: the Panama National Police (La Policía Nacional de Panamá, PNP), National Aeronaval Service (Servicio Nacional Aeronaval, SENAN), National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2023)<br>
+<strong>note:</strong> the PNP includes a special forces directorate with counterterrorism and counternarcotics units; SENAFRONT has 3 regionally-based border security brigades, plus a specialized brigade comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2022 est.)<br>
@@ -697,7 +692,7 @@ approximately 20,000 National Police; 4,000 National Border Service; 3,000 Natio
 Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces in recent years (2022)<br>
 
 **Military - note**<br>
-<p>the MPS's chief focuses are countering narcotics trafficking and border security</p> Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2023)<br>
+the Panama National Police is principally responsible for internal law enforcement and public order, while the National Border Service handles border security; the Aeronaval Service is responsible for carrying out naval and air operations that include some internal security responsibilities; key areas of focus are countering narcotics trafficking and securing the border, particularly along the southern border with Colombia where most of the public security forces are deployed<br><br>Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2023)<br>
 
 ## Transnational Issues
 

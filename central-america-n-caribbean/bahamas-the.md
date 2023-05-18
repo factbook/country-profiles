@@ -245,7 +245,7 @@ _municipal solid waste generated annually_: 264,000 tons (2015 est.)<br>
 _municipal_: 30 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-700 million cubic meters (2019 est.)<br>
+700 million cubic meters (2020 est.)<br>
 
 ## Government
 

@@ -287,15 +287,6 @@ _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and&nbsp;dengue fever<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Cameroon is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to civil insecurity, high food prices, and floods - </em>according to a November 2022 analysis (the latest available), about 3.6 million people were estimated to be acutely food insecure between October and December 2022, as a result of conflict, sociopolitical unrest and high food prices, as well as floods that caused people displacements, damaged standing crops and prevented access to fields (2023)<br>
 
@@ -319,7 +310,7 @@ _industrial_: 100 million cubic meters (2020 est.)<br>
 _agricultural_: 740 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-283.2 billion cubic meters (2019 est.)<br>
+283.15 billion cubic meters (2020 est.)<br>
 
 ## Government
 

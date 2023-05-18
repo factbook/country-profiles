@@ -282,12 +282,6 @@ _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0.01% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
-_vectorborne diseases_: dengue fever and malaria<br>
-_water contact diseases_: schistosomiasis<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 79,889,010 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 1,118,446 tons (2014 est.)<br>
@@ -312,7 +306,7 @@ _industrial_: 9.51 billion cubic meters (2020 est.)<br>
 _agricultural_: 41.42 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-8.6 trillion cubic meters (2019 est.)<br>
+8.65 trillion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -344,7 +338,7 @@ Independence Day, 7 September (1822)<br>
 
 **Constitution**<br>
 _history_: several previous; latest ratified 5 October 1988<br>
-_amendments_: proposed by at least one third of either house of the National Congress, by the president of the republic, or by simple majority vote by more than half of the state legislative assemblies; passage requires at least three-fifths majority vote by both houses in each of two readings; constitutional provisions affecting the federal form of government, separation of powers, suffrage, or individual rights and guarantees cannot be amended; amended many times, last in 2021<br>
+_amendments_: proposed by at least one third of either house of the National Congress, by the president of the republic, or by simple majority vote by more than half of the state legislative assemblies; passage requires at least three-fifths majority vote by both houses in each of two readings; constitutional provisions affecting the federal form of government, separation of powers, suffrage, or individual rights and guarantees cannot be amended; amended many times, last in 2022<br>
 
 **Legal system**<br>
 civil law; note - a new civil law code was enacted in 2002 replacing the 1916 code<br>
@@ -369,9 +363,9 @@ _elections/appointments_: president and vice president directly elected on the s
 _election results_: <p><em>2022: </em>Luiz Inácio LULA da Silva elected president in second round; percent of vote in first round - Luiz Inácio LULA da Silva (PT) 48.4%, Jair BOLSONARO (PSL) 43.2%, Simone Nassar TEBET (MDB) 4.2%, Ciro GOMES (PDT) 3%, other 1.2%; percent of vote in second round - Luiz Inácio LULA da Silva (PT) 50.9%, Jair BOLSONARO (PSL) 49.1%<em><br><br>2018: </em>Jair BOLSONARO elected president in second round; percent of vote in first round - Jair BOLSONARO (PSL) 46%, Fernando HADDAD (PT) 29.3%, Ciro GOMEZ (PDT) 12.5%, Geraldo ALCKMIN (PSDB) 4.8%, other 7.4%; percent of vote in second round - Jair BOLSONARO (PSL) 55.1%, Fernando HADDAD (PT) 44.9%</p><br>
 
 **Legislative branch**<br>
-_description_: bicameral National Congress or Congresso Nacional consists of:<br>Federal Senate or Senado Federal (81 seats; 3 members each from 26 states and 3 from the federal district directly elected in multi-seat constituencies by simple majority vote to serve 8-year terms, with one-third and two-thirds of the membership elected alternately every 4 years)<br><br>Chamber of Deputies or Camara dos Deputados (513 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote to serve 4-year terms)<br>
+_description_: bicameral National Congress or Congresso Nacional consists of:<br>Federal Senate or Senado Federal (81 seats; 3 members each from 26 states and 3 from the federal district directly elected in multi-seat constituencies by simple majority vote to serve 8-year terms, with one-third and two-thirds of the membership elected alternately every 4 years)<br><br>Chamber of Deputies or Camara dos Deputados (513 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)<br>
 _elections_: <br>Federal Senate - last held on 2 October 2022 for one-third of the Senate (next to be held on 4 October 2026 for two-thirds of the Senate)<br><br>Chamber of Deputies - last held on 2 October 2022 (next to be held on 4 October 2026)<br>
-_election results_: <br>Federal Senate - percent of vote by party - NA; seats by party - PL 8, Brazil Union 5, PT 4, Progressistas 3, PSD 2, Republican 2, MBD 1, PSB 1, PSC 1; note - complete Federal Senate compostion after 2022 election - PL 13, Brazil Union 12, MBD 10, PSD 10, PT 9, Progressistas 7, Podemos 6, PSDB 4, Republicans 3, PDT 2, Cidadania 1, PSB 1, PSC 1, PROS 1, REDE 1; composition - men 66, women 15, percent of women 18.5%  <br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - PL 99, PT 67, Brazil Union 59, PP 47, MDB 42, PSD 42, Republicans 41, PDT 17, PSB 14, PSDB 13, Podemos 12, PSOL 12, Avante 7, PCdoB 6, PSC 6, PV 6, Cidadania 5, Patriota 4, PROS 4, SD 4, NOVO 3, REDE 2, PTB 1; composition - men 423, women 90, percent of women 17.5%<br>
+_election results_: <br>Federal Senate - percent of vote by party - NA; seats by party - PL 13, Brazil Union 12, MBD 10, PSD 10, PT 9, Progressistas 7, Podemos 6, PSDB 4, Republicans 3, PDT 2, Cidadania 1, PSB 1, PSC 1, PROS 1, REDE 1; composition - men 66, women 15, percent of women 18.5%  <br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - PL 99, PT 67, Brazil Union 59, PP 47, MDB 42, PSD 42, Republicans 41, PDT 17, PSB 14, PSDB 13, Podemos 12, PSOL 12, Avante 7, PCdoB 6, PSC 6, PV 6, Cidadania 5, Patriota 4, PROS 4, SD 4, NOVO 3, REDE 2, PTB 1; composition - men 423, women 90, percent of women 17.5%; note - total National Congress percent of women 17.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Federal Court or Supremo Tribunal Federal (consists of 11 justices)<br>
@@ -733,7 +727,7 @@ Brazilian Armed Forces (For&ccedil;as Armadas Brasileiras): Brazilian Army (Exer
 approximately 360,000 active military personnel (220,000 Army; 70,000 Navy; 70,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Brazilian military's inventory consists of a mix of domestically-produced and imported weapons, largely from Europe and the US; in recent years, the US and several European countries have been the leading suppliers of military equipment to Brazil; Brazil's defense industry is capable of designing and manufacturing equipment for all three military services and for export; it also jointly produces equipment with other countries (2023)<br>
+the Brazilian military's inventory consists of a mix of domestically produced and imported weapons, largely from Europe and the US; in recent years, the US and several European countries have been the leading suppliers of military equipment to Brazil; Brazil's defense industry designs and manufactures equipment for all three military services and for export; it also jointly produces equipment with other countries (2023)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for compulsory military service for men (women exempted); only 5-10% of those inducted are required to serve; conscript service obligation is 10-12 months; 17-45 years of age for voluntary service (2023)<br>

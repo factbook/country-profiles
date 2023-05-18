@@ -264,12 +264,6 @@ _rate of urbanization_: 2.42% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0.1% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria<br>
-_water contact diseases_: schistosomiasis<br>
-
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to higher staple food prices - </em>the price of maize meal, the key food staple, increased in the first five months of 2022 and, as of May 2022, were 3 percent higher on a yearly basis; wheat flour prices were also at record highs in May 2022; this mainly reflects the elevated global prices and the country’s high dependence on imported wheat to satisfy national consumption needs (2022)<br>
 
@@ -282,7 +276,7 @@ _industrial_: 20 million cubic meters (2020 est.)<br>
 _agricultural_: 1.01 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-4.51 billion cubic meters (2019 est.)<br>
+4.51 billion cubic meters (2020 est.)<br>
 
 ## Government
 

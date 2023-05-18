@@ -274,13 +274,6 @@ _rate of urbanization_: 4.09% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and Rift Valley fever<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-
 **Food insecurity**<br>
 _exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions - </em>about 4.4 million people were projected to be severely acutely food insecure between October and December 2022 reflecting consecutive poor rainy seasons since late 2020 that affected crop and livestock production; prices of maize are at high levels across the country due to reduced availabilities and high fuel prices inflating production and transportation costs (2023)<br>
 
@@ -305,7 +298,7 @@ _industrial_: 300 million cubic meters (2020 est.)<br>
 _agricultural_: 3.23 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-30.7 billion cubic meters (2019 est.)<br>
+30.7 billion cubic meters (2020 est.)<br>
 
 ## Government
 

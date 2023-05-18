@@ -321,7 +321,7 @@ _agricultural_: 9.16 billion cubic meters (2020 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Total renewable water resources**<br>
-29 billion cubic meters (2019 est.)<br>
+29 billion cubic meters (2020 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 ## Government
@@ -389,13 +389,13 @@ _judge selection and term of office_: Supreme Court judges appointed by the Supe
 _subordinate courts_: courts of appeal; High Court of Justice; administrative and commercial courts; regional and Sadad courts (for religious, civil and administrative, and penal adjudication); first instance courts<br>
 
 **Political parties and leaders**<br>
-Action Party or PA [Mohammed EL IDRISSI]<br>Amal (hope) Party [Mohamed BANI]<br>An-Nahj Ad-Dimocrati or An-Nahj or Democratic Way [Mustapha BRAHMA]<br>Authenticity and Modernity Party or PAM [Abdellatif OUAHBI]<br>Constitutional Union Party or UC [Mohamed JOUDAR]<br>Democratic and Social Movement or MDS [Abdessamad ARCHANE]<br>Democratic Forces Front or FFD [Mustapha BENALI]<br>Democratic Society Party or PSD [Zhour CHAKKAFI]<br>Environment and Sustainable Development Party or PEDD [Karim HRITANE]<br>Federation of the Democratic Left or FGD [Abdesalam EL AZIZ]<br>Green Left Party or PGV [Mohamed FARES]<br>Istiqlal (Independence) Party or PI [Nizar BARAKA]<br>Moroccan Liberal Party or PML [Isaac CHARIA]<br>Moroccan Union for Democracy or UMD [Jamal MANDRI]<br>National Democratic Party [Moussa SAADI]<br>National Rally of Independents or RNI [Aziz AKHANNOUCH]<br>Neo-Democrats Party [Mohamed DARIF]<br>Party of Development Reform or PRD [Abderrahmane EL KOHEN]<br>Party of Justice and Development or PJD [Abdelilah BENKIRANE]<br>Party of Liberty and Social Justice or PLJS [Miloud MOUSSAOUI]<br>Party of Progress and Socialism or PPS [Nabil BENABDELLAH]<br>Popular Movement or MP [Mohammed OUZZINE]<br>Renaissance and Virtue Party or PRV [Mohamed KHALIDI]<br>Renaissance Party [Said EL GHENNIOUI]<br>Renewal and Equity Party or PRE [Chakir ACHEHABAR]<br>Shoura (consultation) and Istiqlal Party [Ahmed BELGHAZI]<br>Socialist Union of Popular Forces or USFP [Driss LACHGAR]<br>Unified Socialist Party or GSU [Nabila MOUNIB]<br>Unity and Democracy Party [Ahmed FITRI]<br>
+Action Party or PA [Mohammed EL IDRISSI]<br>Amal (hope) Party [Mohamed BANI]<br>An-Nahj Ad-Dimocrati or An-Nahj or Democratic Way [Mustapha BRAHMA]<br>Authenticity and Modernity Party or PAM [Abdellatif OUAHBI]<br>Constitutional Union Party or UC [Mohamed JOUDAR]<br>Democratic and Social Movement or MDS [Abdessamad ARCHANE]<br>Democratic Forces Front or FFD [Mustapha BENALI]<br>Environment and Sustainable Development Party or PEDD [Karim HRITANE]<br>Federation of the Democratic Left or FGD [Abdesalam EL AZIZ]<br>Green Left Party or PGV [Mohamed FARES]<br>Istiqlal (Independence) Party or PI [Nizar BARAKA]<br>Moroccan Liberal Party or PML [Isaac CHARIA]<br>Moroccan Union for Democracy or UMD [Jamal MANDRI]<br>National Democratic Party [Moussa SAADI]<br>National Rally of Independents or RNI [Aziz AKHANNOUCH]<br>Neo-Democrats Party [Mohamed DARIF]<br>Party of Development Reform or PRD [Abderrahmane EL KOHEN]<br>Party of Justice and Development or PJD [Abdelilah BENKIRANE]<br>Party of Liberty and Social Justice or PLJS [Miloud MOUSSAOUI]<br>Party of Progress and Socialism or PPS [Nabil BENABDELLAH]<br>Popular Movement or MP [Mohammed OUZZINE]<br>Renaissance and Virtue Party or PRV [Mohamed KHALIDI]<br>Renaissance Party [Said EL GHENNIOUI]<br>Renewal and Equity Party or PRE [Chakir ACHEHABAR]<br>Shoura (consultation) and Istiqlal Party [Ahmed BELGHAZI]<br>Socialist Union of Popular Forces or USFP [Driss LACHGAR]<br>Unified Socialist Party or GSU [Nabila MOUNIB]<br>Unity and Democracy Party [Ahmed FITRI]<br>
 
 **International organization participation**<br>
 ABEDA, AfDB, AFESD, AMF, AMU, AU, CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNSC (temporary), UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Lalla Joumala ALAOUI (since 24 April 2017)<br>
+_chief of mission_: Ambassador Lalla JOUMALA Alaoui (since 24 April 2017)<br>
 _chancery_: 3508 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 462-7979<br>
 _FAX_: [1] (202) 462-7643<br>
@@ -429,7 +429,7 @@ _selected World Heritage Site locales_: Medina of Fez; Medina of Marrakesh; Ksar
 ## Economy
 
 **Economic overview**<br>
-lower middle-income North African economy; COVID-19 brought first recession since 1995; reforming state-owned enterprises and expanding welfare system; large tourism, manufacturing, and aeronautics industries; managed debt<br>
+lower middle-income North African economy; ongoing recovery from recent drought; rebounding via tourism, manufacturing, and aeronautics industries; major US free trade agreement; developing energy exporter&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
 $303.336 billion (2021 est.)<br>
@@ -545,7 +545,7 @@ $37.545 billion (2020 est.) note: data are in current year dollars<br>
 $44.048 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-Spain 23%, France 19% (2019)<br>
+Spain 20%, France 19%, India 5%, Brazil 5%, Italy 5% (2021)<br>
 
 **Exports - commodities**<br>
 cars, fertilizers, insulated wiring, phosphoric acid, clothing and apparel (2021)<br>
@@ -559,7 +559,7 @@ $54.097 billion (2019 est.) note: data are in current year dollars<br>
 Spain 19%, France 11%, China 9%, United States 7%, Germany 5%, Turkey 5%, Italy 5% (2019)<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars and vehicle parts, natural gas, coal, low-voltage protection equipment (2019)<br>
+refined petroleum, cars and vehicle parts, natural gas, wheat, coal (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $35.648 billion (31 December 2021 est.)<br>

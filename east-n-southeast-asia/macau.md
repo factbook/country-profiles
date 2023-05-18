@@ -258,7 +258,7 @@ see China<br>
 _chief of state_: President of China XI Jinping (since 14 March 2013)<br>
 _head of government_: Chief Executive HO lat Seng (since 20 December 2019)<br>
 _cabinet_: Executive Council appointed by the chief executive<br>
-_elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 17 March 2018 (next to be held in March 2023); chief executive chosen by a 400-member Election Committee for a 5-year term (eligible for a second term); election last held on 24 August 2019 (next to be held in 2024)<br>
+_elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 10 March 2023 (next to be held in March 2028); chief executive chosen by a 400-member Election Committee for a 5-year term (eligible for a second term); election last held on 24 August 2019 (next to be held in 2024)<br>
 _election results_: <em>2019</em>: HO Iat Seng (unopposed; received 392 out of 400 votes) <br><br><em>2014</em>: Fernando CHUI Sai (unopposed; received 380 of 396 votes)<br>
 
 **Legislative branch**<br>

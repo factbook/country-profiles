@@ -255,7 +255,7 @@ _industrial_: 2,000 cubic meters (2017 est.)<br>
 _agricultural_: 0 cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-100 million cubic meters (2019 est.)<br>
+100 million cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -607,11 +607,11 @@ _major seaport(s)_: Kingstown<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Royal Saint Vincent and the Grenadines Police Force (RSVPF; includes the Coast Guard, Special Services Unit, Rapid Response Unit, Drug Squad, and Anti-Trafficking Unit) (2022)<br>
-<strong>note: </strong>the RSVPF reports to the minister of national security, a portfolio held by the prime minister<br>
+no regular military forces; Royal Saint Vincent and the Grenadines Police Force (RSVPF; includes the Coast Guard, Special Services Unit, Rapid Response Unit, Drug Squad, and Anti-Trafficking Unit) (2023)<br>
+<strong>note: </strong>the RSVPF is the only security force in the country and is responsible for maintaining internal security; it reports to the minister of national security, a portfolio held by the prime minister<br>
 
 **Military - note**<br>
-the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts, and Saint Lucia) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2022)<br>
+the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts, and Saint Lucia) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2023)<br>
 
 ## Transnational Issues
 

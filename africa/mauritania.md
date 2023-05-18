@@ -280,14 +280,6 @@ _rate of urbanization_: 3.84% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and dengue fever<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mauritania is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to high food prices - </em>according to the latest analysis, nearly 695,000 people are projected to be in need of humanitarian assistance during the June to August 2023 lean season; this would be an improvement compared to the previous year, mostly due to the substantial cereal production increase in 2022; high food prices continue to worsen food security, while flooding in 2022, which affected about 54,000 people, has further aggravated the conditions of vulnerable households (2023)<br>
 
@@ -311,7 +303,7 @@ _industrial_: 30 million cubic meters (2020 est.)<br>
 _agricultural_: 1.2 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-11.4 billion cubic meters (2019 est.)<br>
+11.4 billion cubic meters (2020 est.)<br>
 
 ## Government
 

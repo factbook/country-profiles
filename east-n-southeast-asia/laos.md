@@ -273,11 +273,6 @@ _rate of urbanization_: 2.99% annual rate of change (2020-25 est.)<br>
 **Revenue from forest resources**<br>
 1.48% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever and malaria<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 351,900 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 35,190 tons (2015 est.)<br>
@@ -295,7 +290,7 @@ _industrial_: 170 million cubic meters (2020 est.)<br>
 _agricultural_: 7.05 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-333.5 billion cubic meters (2019 est.)<br>
+333.5 billion cubic meters (2020 est.)<br>
 
 ## Government
 

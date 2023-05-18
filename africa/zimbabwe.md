@@ -283,13 +283,6 @@ _rate of urbanization_: 2.41% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0.4% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and dengue fever<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-
 **Food insecurity**<br>
 _widespread lack of access_: <em><em>due to high food prices</em></em><em> </em><em>-</em> based on a government assessment, an estimated 3.8 million people are expected to be in need of humanitarian assistance between January and March 2023; this number is higher than the level estimated in the first quarter of 2022; the downturn in food security conditions is largely on account of poor food access resulting from prevailing high food prices and reduced incomes owing to the effects of an economic downturn; a decline in cereal production in 2022 has also aggravated conditions (2023)<br>
 
@@ -313,7 +306,7 @@ _industrial_: 80 million cubic meters (2020 est.)<br>
 _agricultural_: 3.04 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-20 billion cubic meters (2019 est.)<br>
+20 billion cubic meters (2020 est.)<br>
 
 ## Government
 

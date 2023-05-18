@@ -274,15 +274,6 @@ _rate of urbanization_: 3.02% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and&nbsp;dengue fever<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_aerosolized dust or soil contact diseases_: Lassa fever<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Sierra Leone is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to high food prices and reduced incomes - </em>about 1.6 million people are estimated to be severely food insecure between June and August 2022 on account of high food prices and low purchasing power, resulting in acute constraints on households’ economic access to food (2022)<br>
 
@@ -298,7 +289,7 @@ _industrial_: 60 million cubic meters (2020 est.)<br>
 _agricultural_: 50 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-160 billion cubic meters (2019 est.)<br>
+160 billion cubic meters (2020 est.)<br>
 
 ## Government
 

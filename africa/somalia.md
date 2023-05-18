@@ -260,14 +260,6 @@ _other_: 19.1% (2018 est.)<br>
 _urban population_: 47.9% of total population (2023)<br>
 _rate of urbanization_: 4.2% annual rate of change (2020-25 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: dengue fever, malaria, and Rift Valley fever<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Somalia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Food insecurity**<br>
 _exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions and internal conflict - </em>about 6.5 million people are estimated to face severe acute food insecurity between April and June 2023 as a result of consecutive poor rainy seasons since late 2020 and heightened conflict since early 2021 (2023)<br>
 
@@ -283,7 +275,7 @@ _industrial_: 2 million cubic meters (2017 est.)<br>
 _agricultural_: 3.28 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-14.7 billion cubic meters (2019 est.)<br>
+14.7 billion cubic meters (2020 est.)<br>
 
 ## Government
 

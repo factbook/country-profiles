@@ -254,13 +254,6 @@ _rate of urbanization_: 3.62% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and dengue fever<br>
-_animal contact diseases_: rabies<br>
-<strong>note: </strong>on 27 March 2023, the Centers for Disease Control and Prevention (CDC) issued a Travel Alert for Equatorial Guinea for an outbreak of Marburg virus disease; Marburg is a viral hemorrhagic fever spread by contact with blood or body fluids of a person infected with or who has died from Marburg; it is also spread by contact with contaminated objects (such as clothing, bedding, needles, and medical equipment) or by contact with animals, such as bats and nonhuman primates, who are infected with Marburg virus; infection with Marburg virus is often fatal and there are no approved vaccines or treatments for Marburg; avoid non-essential travel to the provinces where the outbreak is occurring; watch your health for symptoms of Marburg while in the outbreak area and for 21 days after leaving the outbreak area; consult the Centers for Disease Control and Prevention (CDC) Travel Health Notices for additional guidance (see attached map)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 198,443 tons (2016 est.)<br>
 
@@ -270,7 +263,7 @@ _industrial_: 3 million cubic meters (2017 est.)<br>
 _agricultural_: 1 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-26 billion cubic meters (2019 est.)<br>
+26 billion cubic meters (2020 est.)<br>
 
 ## Government
 

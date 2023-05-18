@@ -290,16 +290,6 @@ _rate of urbanization_: 4.57% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and dengue fever<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-_aerosolized dust or soil contact diseases_: Lassa fever<br>
-<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mali is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Food insecurity**<br>
 _severe localized food insecurity_: <p><em>due to civil insecurity and </em><em>high food prices </em><em>- </em>the food security situation deteriorated in 2021, particularly in conflict-affected central and northern areas; according to the latest analysis, about 1.84 million people are estimated to be in “Crisis” and above between June and August 2022, as a result of worsening conflicts, weather shocks, reduced cereal production in 2021 and high food prices</p> (2022)<br>
 
@@ -324,7 +314,7 @@ _industrial_: 4 million cubic meters (2020 est.)<br>
 _agricultural_: 5.08 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-120 billion cubic meters (2019 est.)<br>
+120 billion cubic meters (2020 est.)<br>
 
 ## Government
 

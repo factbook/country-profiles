@@ -240,6 +240,7 @@ _definition_: age 15 and over can read and write<br>
 _total population_: 89.1%<br>
 _male_: 92.4%<br>
 _female_: 86.3% (2019)<br>
+<strong>note: </strong>most public schools were closed immediately after the coup in 2021, and attendance remained low since schools reopened; literacy is expected to decline from 2019 to 2023<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -286,12 +287,6 @@ _rate of urbanization_: 1.85% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0.01% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever, malaria, and Japanese encephalitis<br>
-_animal contact diseases_: rabies<br>
-
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to conflict, political instability, and economic constraints -</em> the political crisis, following the military takeover on 1 February 2021, resulted in increased tensions and unrest throughout the country; the current uncertain political situation may further compromise the fragile situation of vulnerable households and the Rohingya IDPs residing in the country; armed conflict between the military and non‑state armed groups led to population displacements, disrupted agricultural activities and limited access for humanitarian support especially in Rakhine, Chin, Kachin, Kayin, Kayah and Shan states; income losses and a decline in remittances, due to the impact of the COVID‑19 pandemic, have affected the food security situation of vulnerable households; domestic prices of Emata rice, the most consumed variety in the country, were at high levels in May 2022, constraining access to a key staple food (2022)<br>
 
@@ -310,7 +305,7 @@ _industrial_: 500 million cubic meters (2019 est.)<br>
 _agricultural_: 29.57 billion cubic meters (2019 est.)<br>
 
 **Total renewable water resources**<br>
-1 trillion cubic meters (2019 est.)<br>
+1.2 trillion cubic meters (2020 est.)<br>
 
 ## Government
 

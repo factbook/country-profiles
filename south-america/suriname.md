@@ -263,11 +263,6 @@ _rate of urbanization_: 0.88% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 78,620 tons (2010 est.)<br>
 
@@ -280,7 +275,7 @@ _industrial_: 140 million cubic meters (2020 est.)<br>
 _agricultural_: 430 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-99 billion cubic meters (2019 est.)<br>
+99 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -662,7 +657,7 @@ _major seaport(s)_: Paramaribo, Wageningen<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Suriname Army (National Leger, NL): Army, Navy, Air Force, Military Police (2022)<br>
+Suriname Army (National Leger, NL): Army, Navy, Air Force, Military Police; Ministry of Justice and Police: Suriname Police Force (Korps Politie Suriname or KPS) (2023)<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2019 est.)<br>

@@ -280,14 +280,6 @@ _rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 4.17% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and dengue fever<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mozambique is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Food insecurity**<br>
 _severe localized food insecurity_: <p><em>due to shortfall in agricultural production and economic downturn -</em> the number of people in need of food assistance is expected to rise above the 1.86 million estimated in 2021-2022 because of three key factors; firstly, higher year‑on‑year prices of food and fuel are reducing households’ purchasing power, worsening their economic access to food, particularly for low-income households; secondly, the impact of extreme weather events on agricultural production in central and southern provinces in 2022 is likely to mean that farming households in the affected areas have both low food supplies from their own production and curtailed income-earning opportunities from crop sales, impinging on their food availability and economic access to food; thirdly, there has been an increase in attacks by non‑state armed groups in the northern province of Cabo Delgado in 2022</p> (2022)<br>
 
@@ -311,7 +303,7 @@ _industrial_: 30 million cubic meters (2020 est.)<br>
 _agricultural_: 1.08 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-217.1 billion cubic meters (2019 est.)<br>
+217.1 billion cubic meters (2020 est.)<br>
 
 ## Government
 

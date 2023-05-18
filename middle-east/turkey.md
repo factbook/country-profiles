@@ -96,7 +96,7 @@ Turkish 70-75%, Kurdish 19%, other minorities 6-11% (2016 est.)<br>
 
 **Languages**<br>
 Turkish (official), Kurdish, other minority languages<br>
-_major-language sample(s)_: <br>The World Factbook, temel bilgi edinmek için vazgeçilmez bir kaynak. (Turkish)<br> <p>کتێبی فاکتی ژیهانی، باشترین سەرچاوەێک بۆ زانیاری بنەرەتی (Kurdish)</p> The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>The World Factbook, temel bilgi edinmek için vazgeçilmez bir kaynak. (Turkish)<br> <p>ڕاستییەکانی جیهان، باشترین سەرچاوەیە بۆ زانیارییە بنەڕەتییەکان (Kurdish)</p> <p>The World Factbook, the indispensable source for basic information.</p><br>
 
 **Religions**<br>
 Muslim 99.8% (mostly Sunni), other 0.2% (mostly Christians and Jews)<br>
@@ -294,7 +294,7 @@ _industrial_: 1.03 billion cubic meters (2020 est.)<br>
 _agricultural_: 54.27 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-211.6 billion cubic meters (2019 est.)<br>
+211.6 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -347,7 +347,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Recep Tayyip ERDOGAN (chief of state since 28 August 2014; head of government since 9 July 2018); Vice President Fuat OKTAY (since 9 July 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Recep Tayyip ERDOGAN (head of government since 9 July 2018; chief of state since 28 August 2014); note - a 2017 constitutional referendum eliminated the post of prime minister after the 2018 general election<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 June 2018 (next to be held on 14 May 2023)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 May 2023 (runoff to be held on 28 May 2023)<br>
 _election results_: <em>2018:</em> Recep Tayyip ERDOGAN reelected president in the first round; Recep Tayyip ERDOGAN (AKP) 52.6%, Muharrem INCE (CHP) 30.6%, Selahattin DEMIRTAS (HDP) 8.4%, Meral AKSENER (IYI) 7.3%, other 1.1%<br><br><em>2013:</em> Recep Tayyip ERDOGAN elected president in the first round; Recep Tayyip ERDOGAN (AKP) 51.8%, Ekmeleddin IHSANOGLU (independent) 38.4%, Selahattin DEMIRTAS (HDP) 9.8%<br>
 
 **Legislative branch**<br>

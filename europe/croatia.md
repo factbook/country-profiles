@@ -271,10 +271,6 @@ _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_vectorborne diseases_: tickborne encephalitis<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.654 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 269,933 tons (2015 est.)<br>
@@ -292,7 +288,7 @@ _industrial_: 700 million cubic meters (2020 est.)<br>
 _agricultural_: 80 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-105.5 billion cubic meters (2019 est.)<br>
+105.5 billion cubic meters (2020 est.)<br>
 
 ## Government
 

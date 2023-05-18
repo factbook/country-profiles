@@ -243,14 +243,6 @@ _rate of urbanization_: 4.12% annual rate of change (2020-25 est.)<br>
 **Revenue from forest resources**<br>
 2.65% of GDP (2015 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, Trypanosomiasis-Gambiense (African sleeping sickness)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to economic downturn, the lingering effects of floods, and prolonged internal conflict -</em> despite sustained humanitarian assistance, food insecurity still affects large segments of the population, owing to rampant inflation and insufficient food supplies due to stagnant agricultural production, the effects of consecutive years with widespread floods, and the escalation of organized violence at the subnational level since 2020; about 7.76 million people, almost two thirds of the total population, are expected to face severe acute food insecurity in the lean season between April and July 2023 (2023)<br>
 
@@ -269,7 +261,7 @@ _industrial_: 230 million cubic meters (2020 est.)<br>
 _agricultural_: 240 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-49.5 billion cubic meters (2019 est.)<br>
+49.5 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -325,6 +317,7 @@ _election results_: Council of States - percent of vote by party - NA; seats by 
 _highest court(s)_: Supreme Court of South Sudan - pending formation (will likely consist of a chief and deputy chief justices as well as 9 other justices)<br>
 _judge selection and term of office_: justices will be appointed by the president upon proposal of the pending Judicial Service Council, likely consisting of a 9-member judicial and administrative body; justice tenure to be set by the National Legislature<br>
 _subordinate courts_: national level - Courts of Appeal; High Courts; County Courts; state level - High Courts; County Courts; customary courts; other specialized courts and tribunals<br>
+Note: in mid-2022, the Government of South Sudan inaugurated an Ad-hoc Judiciary Committee, a 12-member body led by two eminent jurists, which is charged with reviewing relevant laws, advising on judicial reform and restructuring of the judiciary<br>
 
 **Political parties and leaders**<br>
 <p>Democratic Change or DC<br>Democratic Forum or DF<br>Labour Party or LPSS [Federico Awi VUNI]<br>South Sudan Opposition Alliance or SSOA [Hussein ABDELBAGI Ayii]<br>Sudan African National Union or SANU [Toby MADOUT]<br>Sudan People's Liberation Movement or SPLM [Salva KIIR Mayardit]<br>Sudan People’s Liberation Movement-In Opposition or SPLM-IO [Riek MACHAR Teny Dhurgon]<br>United Democratic Salvation Front or UDSF    <br>United South Sudan African Party or USSAP [Louis Pasquale ALEU, Secretary]<br>United South Sudan Party or USSP [Paulino LUKUDU Obede]     </p> <strong>note:</strong> only parties with seats in the Transitional National Legislative Assembly included<br>
@@ -627,7 +620,7 @@ the SSPDF is largely focused on internal security; the Ground Force has approxim
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>South Sudan- Central African Republic: </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights<br><br><em>South Sudan-Democratic Republic of the Congo</em>: none identified<br><br><em>South Sudan-Ethiopia</em>: the unresolved demarcation of the boundary and lack of clear limitation create substantial room for territorial conflict both locally among the border populations and between the two capitals; besides a large number of indigenous farmers, the border region supports refugees and various rebel groups opposed to the governments in Khartoum and Addis Ababa</p> <p><br><em>South Sudan-Kenya:</em> the boundary that separates Kenya and South Sudan's sovereignty is unclear in the Ilemi Triangle and has been unclear since British colonial times; Kenya has administered the area since colonial times</p> <p><em>South Sudan-Sudan:</em> present boundary represents 1 January 1956 alignment, which clearly placed the Kafia Kingi area (adjacent to Central African Republic) within South Sudan as shown on US maps although it is mostly occupied by Sudan; final alignment pending negotiations and demarcation; the final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan; clashes continue in the oil-rich Abyei region; the United Nations interim security Force for Abyei (UNISFA) has been deployed since 2011, when South Sudan became independent, Sudan accuses South Sudan of supporting Sudanese rebel groups</p> <p><em>South Sudan-Uganda</em>: Lord’s Resistance Army operations in western Equatorial State displace and drive out local populations and steal grain stores</p><br>
+<p><em>South Sudan- Central African Republic: </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights<br><br><em>South Sudan-Democratic Republic of the Congo</em>: none identified<br><br><em>South Sudan-Ethiopia</em>: the unresolved demarcation of the boundary and lack of clear limitation create substantial room for territorial conflict both locally among the border populations and between the two capitals; besides a large number of indigenous farmers, the border region supports refugees and various rebel groups opposed to the governments in Khartoum and Addis Ababa</p> <p><br><em>South Sudan-Kenya:</em> two thirds of the boundary that separates Kenya and South Sudan's sovereignty known as the Ilemi Triangle has been unclear since British colonial times; Kenya has administered the area since colonial times; officials from Kenya and South Sudan signed a memorandum of understanding on boundary delimitation and demarcation and agreed to set up a joint committee; as of July 2019, the demarcation process was to begin in 90 days, but was delayed due to a lack of funding</p> <p><em>South Sudan-Sudan:</em> present boundary represents 1 January 1956 alignment, which clearly placed the Kafia Kingi area (adjacent to Central African Republic) within South Sudan as shown on US maps although it is mostly occupied by Sudan; final alignment pending negotiations and demarcation; the final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan; clashes continue in the oil-rich Abyei region; the United Nations interim security Force for Abyei (UNISFA) has been deployed since 2011, when South Sudan became independent, Sudan accuses South Sudan of supporting Sudanese rebel groups</p> <p><em>South Sudan-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 289,840 (Sudan) (2022); 11,446 (Democratic Republic of the Congo) (2023)<br>

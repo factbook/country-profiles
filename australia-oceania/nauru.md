@@ -242,7 +242,7 @@ _rate of urbanization_: 0.18% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 6,192 tons (2016 est.)<br>
 
 **Total renewable water resources**<br>
-10 million cubic meters (2019 est.)<br>
+10 million cubic meters (2020 est.)<br>
 
 ## Government
 

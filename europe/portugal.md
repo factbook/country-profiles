@@ -274,7 +274,7 @@ _industrial_: 1.83 billion cubic meters (2020 est.)<br>
 _agricultural_: 3.42 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-77.4 billion cubic meters (2019 est.)<br>
+77.4 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -384,7 +384,7 @@ _selected World Heritage Site locales_: Historic Évora (c); Central Zone of the
 ## Economy
 
 **Economic overview**<br>
-fast-growing, high-income European economy; EU and NATO member; higher hydrocarbon energy costs due to cessation of Russian gas; major tourism, banking, and telecommunications sectors; high public debt and inflation; major renewable energy producer<br>
+fast-growing, high-income European economy; EU and NATO member; heavy Chinese infrastructure ownership; key tourism, banking, and telecommunications sectors; declining populations; major energy exporter<br>
 
 **Real GDP (purchasing power parity)**<br>
 $347.694 billion (2021 est.)<br>

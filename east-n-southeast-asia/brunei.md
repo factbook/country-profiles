@@ -62,6 +62,9 @@ _other_: 25.7% (2018 est.)<br>
 **Irrigated land**<br>
 10 sq km (2012)<br>
 
+**Population distribution**<br>
+the vast majority of the population is found along the coast in the western part of Brunei, which is separated from the eastern portion by Malaysia; the largest population concentration is in the far north on the western side of the Brunei Bay, in and around the capital of Bandar Seri Begawan<br>
+
 **Natural hazards**<br>
 typhoons, earthquakes, and severe flooding are rare<br>
 
@@ -118,6 +121,9 @@ _female_: 31.8 years (2020 est.)<br>
 
 **Net migration rate**<br>
 2.15 migrant(s)/1,000 population (2023 est.)<br>
+
+**Population distribution**<br>
+the vast majority of the population is found along the coast in the western part of Brunei, which is separated from the eastern portion by Malaysia; the largest population concentration is in the far north on the western side of the Brunei Bay, in and around the capital of Bandar Seri Begawan<br>
 
 **Urbanization**<br>
 _urban population_: 79.1% of total population (2023)<br>
@@ -264,7 +270,7 @@ _municipal_: 150 million cubic meters (2020 est.)<br>
 _agricultural_: 10 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-8.5 billion cubic meters (2019 est.)<br>
+8.5 billion cubic meters (2020 est.)<br>
 
 ## Government
 

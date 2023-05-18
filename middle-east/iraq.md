@@ -98,7 +98,7 @@ Arab 75-80%, Kurdish 15-20%, other 5% (includes Turkmen, Yezidi, Shabak, Kaka'i,
 
 **Languages**<br>
 Arabic (official), Kurdish (official); Turkmen (a Turkish dialect) and Syriac (Neo-Aramaic) are recognized as official languages where native speakers of these languages are present; Iraqis have the right to be educated in their native language<br>
-_major-language sample(s)_: <br>كتاب حقائق العالم، أحسن مصدر للمعلومات الأساسية (Arabic)<br> <p>کتێبی فاکتی ژیهانی، باشترین سەرچاوەێک بۆ زانیاری بنەرەتی (Kurdish)</p> The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، أحسن مصدر للمعلومات الأساسية (Arabic)<br><br>ڕاستییەکانی جیهان، باشترین سەرچاوەیە بۆ زانیارییە بنەڕەتییەکان (Kurdish)<br> <p>The World Factbook, the indispensable source for basic information.</p><br>
 
 **Religions**<br>
 Muslim (official) 95-98% (Shia 61-64%, Sunni 29-34%), Christian 1% (includes Catholic, Orthodox, Protestant, Assyrian Church of the East), other 1-4% (2015 est.)<br>
@@ -274,10 +274,6 @@ _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to civil conflict and economic slowdown -</em> the 2022 Humanitarian Needs Overview identified 2.5 million people in need of humanitarian assistance, of which 960,000 have acute humanitarian needs; while the number of people in need remained similar to the previous year, the severity of those needs increased, largely due to the impact of the COVID‑19 pandemic on top of an existing humanitarian crisis, leading to a 35% increase in the number of people in acute need; more than half of these are concentrated in the governorates of Nineveh and Anbar; the number of severely food insecure people is estimated at about 435,000, while 731,000 are vulnerable to food insecurity (2022)<br>
 
@@ -302,7 +298,7 @@ _industrial_: 5.49 billion cubic meters (2020 est.)<br>
 _agricultural_: 44.23 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-89.9 billion cubic meters (2019 est.)<br>
+89.86 billion cubic meters (2020 est.)<br>
 
 ## Government
 

@@ -284,16 +284,6 @@ _rate of urbanization_: 3.92% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-_aerosolized dust or soil contact diseases_: Lassa fever<br>
-<strong>note 1:</strong> on 4 May 2022, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak (see attached map)<br><strong><br>note 2:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Nigeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br> <strong>note 3:</strong> on 24 February 2023, the Centers for Disease Control and Prevention issued a Travel Health Alert for a diphtheria outbreak in several states in Nigeria; vaccination against diphtheria is essential to protect against disease; if you are traveling to an affected area, you should be up to date with your diphtheria vaccines; before travel, discuss the need for a booster dose with your healthcare professional; diphtheria is a serious infection caused by strains of Corynebacterium diphtheriae bacteria that make a toxin from which people get very sick; diphtheria bacteria spread from person to person through respiratory droplets like from coughing or sneezing; people can also get sick from touching open sores or ulcers of people sick with diphtheria (see attached map)<br>
-
 **Food insecurity**<br>
 _widespread lack of access_: <em><em>due to persistent civil conflict in the northern areas, </em></em><em>floods, high food prices, and an economic slowdown </em><em>-</em> about 25.3 million people are projected to face acute food insecurity during the June to August 2023 lean season; this would be a significant deterioration compared to last year, when 19.45 million people were estimated to be acutely food insecure; acute food insecurity is mostly driven by the deterioration of security conditions and conflicts in northern states, which have led to the displacement of about 3.17 million people as of March 2022 (the latest data available) and are constraining farmers’ access to their lands; widespread flooding in 2022, affecting about 4.5 million people across the country, has further compounded conditions, particularly in areas already facing high levels of insecurity; high food prices and the expected slowdown in economic growth in 2023 are additional drivers of acute food insecurity (2023)<br>
 
@@ -318,7 +308,7 @@ _industrial_: 1.97 billion cubic meters (2020 est.)<br>
 _agricultural_: 5.51 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-286.2 billion cubic meters (2019 est.)<br>
+286.2 billion cubic meters (2020 est.)<br>
 
 ## Government
 

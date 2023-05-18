@@ -285,7 +285,7 @@ _industrial_: 3.48 billion cubic meters (2020 est.)<br>
 _agricultural_: 760 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-21.3 billion cubic meters (2019 est.)<br>
+21.3 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -720,9 +720,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 49,185 (Ukraine) (as of 2 May 2023)<br>
+_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 49,826 (Ukraine) (as of 9 May 2023)<br>
 _stateless persons_: 1,129 (2022)<br>
-<strong>note:</strong> 87,908 estimated refugee and migrant arrivals (January 2015-January 2023); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 89,608 estimated refugee and migrant arrivals (January 2015-March 2023); Bulgaria is predominantly a transit country<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Bulgaria does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials prosecuted significantly more suspected traffickers, ordered restitution, and drafted an annual national program with increased funding for combating trafficking and protecting victims; however, the government did not demonstrate overall increasing efforts to improve its anti-trafficking capacity; authorities investigated and convicted significantly fewer traffickers, the fewest since the government began reporting trafficking data; courts continued to issue suspended sentences for most convicted traffickers; victim identification and assistance data remained unreliable, making it difficult to accurately assess trafficking; authorities penalized victims for crimes traffickers compelled them to commit; lack of resources, legal authority, and training impeded law enforcement; corruption in law enforcement and the judiciary hindered progress, and alleged complicity in trafficking crimes persisted; therefore, Bulgaria was downgraded to Tier 2 Watch List (2022)<br>

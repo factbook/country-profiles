@@ -258,7 +258,7 @@ _industrial_: 130 million cubic meters (202 est.)<br>
 _agricultural_: 20 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-3.8 billion cubic meters (2019 est.)<br>
+3.84 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -622,7 +622,7 @@ _LNG terminal(s) (export)_: Port Fortin<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago Regiment), Coast Guard, Air Guard, Defense Force Reserves; Trinidad and Tobago Police Service (TTPS) (2022)<br>
+Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago Regiment), Coast Guard, Air Guard, Defense Force Reserves; Trinidad and Tobago Police Service (TTPS) (2023)<br>
 <strong>note:</strong> the Ministry of National Security oversees defense, immigration, and the police<br>
 
 **Military expenditures**<br>
@@ -643,7 +643,7 @@ the TTDF's ground force inventory includes only light weapons, while the Coast G
 <strong>note:</strong> as of 2017, women comprised about 14% of the active duty military<br>
 
 **Military - note**<br>
-the TTDF's primary responsibilities are conducting border and maritime security, providing disaster relief, and countering narcotics trafficking in support of law enforcement (2022)<br>
+the Police Service maintains internal security; the TTDF's primary responsibilities are conducting border and maritime security, assisting civil authorities in times of crisis or disaster, providing search and rescue services, and supporting law enforcement, particularly in countering gang-related crime and trafficking of narcotics and other illicit goods; the Coast Guard is responsible for maritime border security in places with no official ports of entry (2023)<br>
 
 ## Transnational Issues
 

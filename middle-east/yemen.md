@@ -266,13 +266,6 @@ _rate of urbanization_: 3.71% annual rate of change (2015-20 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever and malaria<br>
-_water contact diseases_: schistosomiasis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Yemen is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to conflict, poverty, floods, high food and fuel prices -</em> the number of food insecure people was projected to increase by over 1 million to 17.4 million between January and May 2022, increasing to 19 million starting from June until the end of the year; economic conditions in the country remain dire; the conflict is further hampering the already constrained livelihood activities and humanitarian access; income earning opportunities have declined due to COVID‑19‑related business disruptions (2022)<br>
 
@@ -287,7 +280,7 @@ _industrial_: 70 million cubic meters (2020 est.)<br>
 _agricultural_: 3.24 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-2.1 billion cubic meters (2019 est.)<br>
+2.1 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -339,7 +332,7 @@ _residency requirement for naturalization_: 10 years<br>
 **Executive branch**<br>
 _chief of state_: Chairperson, Presidential Council Rashad Muhammad al-ALIMI, Dr. (since 19 April 2022); Vice Chairperson, Presidential Council Sultan al-ARADA (since 19 April 2022); Vice Chairperson, Presidential Council Faraj Salmin al- BAHSANI, Brig. Gen. (since 19 April 2022); Vice Chairperson, Presidential Council Abdullah Al-Alimi BA WAZIR (since 19 April 2022); Vice Chairperson, Presidential Council Uthman Hussain Faid al-MUJALI (since 19 April 2022); Vice Chairperson, Presidential Council TARIQ Muhammad Abdallah Salih, Brig. Gen. (since 19 April 2022); Vice Chairperson, Presidential Council 'Abd-al-Rahman ABU ZARA'A al-Muharrami al-Yafai, Brig. Gen. (since 19 April 2022); Vice Chairperson, Presidential Council Aydarus Qasim al-ZUBAYDI, Maj. Gen. (since 19 April 2022)<br>
 _head of government_: Chairperson, Presidential Council Rashad Muhammad al-ALIMI, Dr. (since 19 April 2022); Vice Chairperson, Presidential Council Sultan al-ARADA (since 19 April 2022); Vice Chairperson, Presidential Council Faraj Salmin al- BAHSANI, Brig. Gen. (since 19 April 2022); Vice Chairperson, Presidential Council Abdullah Al-Alimi BA WAZIR (since 19 April 2022); Vice Chairperson, Presidential Council Uthman Hussain Faid al-MUJALI (since 19 April 2022); Vice Chairperson, Presidential Council TARIQ Muhammad Abdallah Salih, Brig. Gen. (since 19 April 2022); Vice Chairperson, Presidential Council 'Abd-al-Rahman ABU ZARA'A al-Muharrami al-Yafai, Brig. Gen. (since 19 April 2022); Vice Chairperson, Presidential Council Aydarus Qasim al-ZUBAYDI, Maj. Gen. (since 19 April 2022)<br>
-_cabinet_: NA<br>
+_cabinet_: 25 members from northern and southern Yemen, representing all of Yemen's major political parties<br>
 _elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 21 February 2012 (next election NA); note - a special election was held on 21 February 2012 to remove Ali Abdallah SALIH under the terms of a Gulf Cooperation Council-mediated deal during the political crisis of 2011; vice president appointed by the president; prime minister appointed by the president<br>
 _election results_: <em>2012:</em> in a special election held on 21 February 2012, Abd Rabuh Mansur HADI (GPC) was elected as a consensus president<br>
 <strong>note:</strong> on 7 April 2022, President Abd Rabuh Mansur HADI announced the dismissal of Vice President ALI MUHSIN al-Ahmar and the formation of a Presidential Council, an eight-member body chaired by former minister Rashad AL-ALIMI; on 19 April 2022, the Council was sworn in before Parliament and began assuming the responsibilities of the president and vice president and carrying out the political, security, and military duties of the government<br>

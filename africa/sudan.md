@@ -275,15 +275,6 @@ _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and Rift Valley fever<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Sudan is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to conflict, civil insecurity, and soaring food prices - </em>according to the results of the latest analysis, about 11.7 million people (24% of the analyzed population) are estimated to be severely food insecure during June to September 2022; the main drivers are macroeconomic challenges resulting in rampant food and non‑food inflation, tight supplies due to a poor 2021 harvest and the escalation of intercommunal violence (2022)<br>
 
@@ -305,7 +296,7 @@ _industrial_: 80 million cubic meters (2020 est.)<br>
 _agricultural_: 25.91 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-37.8 billion cubic meters (2019 est.)<br>
+37.8 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -391,7 +382,7 @@ _embassy_: P.O. Box 699, Kilo 10, Soba, Khartoum<br>
 _mailing address_: 2200 Khartoum Place, Washington DC&nbsp; 20521-2200<br>
 _telephone_: [249] 187-0-22000<br>
 _email address and website_: <br>ACSKhartoum@state.gov<br><br>https://sd.usembassy.gov/<br>
-NOTE:  the U.S. Embassy in Khartoum suspended operations on 22 April 2023, and the Department of State ordered the departure of U.S. employees due to the continued threat from armed conflict in Sudan <br>
+<strong>note:</strong>  the U.S. Embassy in Khartoum suspended operations on 22 April 2023, and the Department of State ordered the departure of U.S. employees due to the continued threat from armed conflict in Sudan <br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and black with a green isosceles triangle based on the hoist side; colors and design based on the Arab Revolt flag of World War I, but the meanings of the colors are expressed as follows: red signifies the struggle for freedom, white is the color of peace, light, and love, black represents the people of Sudan (in Arabic 'Sudan' means black), green is the color of Islam, agriculture, and prosperity<br>
@@ -730,6 +721,6 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; Harakat Sawa’d Misr<br
 <p><em>Sudan-Central African Republic</em>: periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights; Sudan closed its border with the Central African Republic in January 2022 due to security concerns</p> <p><em>Sudan-Chad</em>: Chad wants to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; however, since the August 2020 Juba Peace Agreement between the Sudanese Government and the Sudanese Revolutionary Front and the termination of the UN’s peacekeeping mission, UNAMID, at the end of 2020, violence continues to break out over land and water access</p> <p><em>Sudan-Egypt</em>: Sudan claims, but Egypt de facto administers, security and economic development of the Halaib region north of the 22nd parallel boundary</p> <p><em>Sudan-Eritrea</em>: none identified</p> <p><em>Sudan-Ethiopia</em>: civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; clashes continue between Sudan and Ethiopia over al-Fashaga, a fertile piece of land inhabited by Ethiopian farmers for years until the Sudanese army expelled them in December 2020, claiming the land belonged to Sudan based on colonial-era maps from over 100 years ago; in February, 2022, the two countries were discussing resuming talks over the border conflict</p> <p><em>Sudan-Libya</em>: none identified</p> <p><em>Sudan-South Sudan</em>: the South Sudan-Sudan boundary represents 1 January 1956 alignment, final alignment pending negotiations and demarcation; final sovereignty status of Abyei area pending negotiations between South Sudan and Sudan; clashes continue in the oil-rich Abyei region; the United Nations Interim Security Force for Abyei (UNISFA) has been deployed since 2011, when South Sudan became independent; the United Nations Interim Security Force for Abyei (UNISFA) has condemned renewed clashes on 23 September 2022 between the Twik and Ngok Dinka communities taking place in Agok, 28 kilometres from Abyei town</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 808,336 (South Sudan) (refugees and asylum seekers), 136,466 (Eritrea) (refugees and asylum seekers), 93,477 (Syria) (refugees and asylum seekers), 71,658 (Ethiopia) (refugees and asylum seekers), 24,369 (Central African Republic) (2023)<br>
+_refugees (country of origin)_: 808,336 (South Sudan) (refugees and asylum seekers), 137,402 (Eritrea) (refugees and asylum seekers), 93,477 (Syria) (refugees and asylum seekers), 72,334 (Ethiopia) (refugees and asylum seekers), 24,370 (Central African Republic) (2023)<br>
 _IDPs_: 3.71 million (civil war 1983-2005; ongoing conflict in Darfur region; government and rebel fighting along South Sudan border; inter-tribal clashes) (2022)<br>
 

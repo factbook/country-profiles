@@ -288,7 +288,7 @@ _industrial_: 640 million cubic meters (2020 est.)<br>
 _agricultural_: 160 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-53.5 billion cubic meters (2019 est.)<br>
+53.5 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -725,7 +725,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,655 (Ukraine) (as of 28 April 2023)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,601 (Ukraine) (as of 5 May 2023)<br>
 _stateless persons_: 891 (2022)<br>
 
 **Illicit drugs**<br>

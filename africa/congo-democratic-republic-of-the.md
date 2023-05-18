@@ -287,14 +287,6 @@ _rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and trypanosomiasis-gambiense (African sleeping sickness)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Democratic Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to internal conflict in eastern regions and high food prices - </em>according to an October 2022 analysis, 24.5 million people were projected to experience acute food insecurity between January and June 2023; this is due to persistent conflict in the eastern provinces of North Kivu, South Kivu and Ituri, which continues to cause population displacements, and to high prices of domestic food staples (2023)<br>
 
@@ -321,7 +313,7 @@ _industrial_: 150 million cubic meters (2020 est.)<br>
 _agricultural_: 70 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-1.3 trillion cubic meters (2019 est.)<br>
+1.29 trillion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -757,7 +749,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo<br><br><em>Democratic Republic of Congo(DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo(DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Democratic Republic of Congo(DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo(DRC)-Angola: </em>DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 211,409 (Central African Republic), 208,389 (Rwanda), 56,423 (South Sudan) (refugees and asylum seekers), 43,635 (Burundi) (2023)<br>
+_refugees (country of origin)_: 210,864 (Central African Republic), 208,389 (Rwanda), 56,423 (South Sudan) (refugees and asylum seekers), 43,342 (Burundi) (2023)<br>
 _IDPs_: 6.17 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2023)<br>
 
 **Trafficking in persons**<br>

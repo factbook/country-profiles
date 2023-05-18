@@ -283,7 +283,7 @@ _industrial_: 700 million cubic meters (2020 est.)<br>
 _agricultural_: 40 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-13.2 billion cubic meters (2019 est.)<br>
+13.5 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -707,7 +707,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 504,352 (Ukraine) (as of 2 April 2023)<br>
+_refugees (country of origin)_: 515,836 (Ukraine) (as of 30 April 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

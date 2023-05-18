@@ -276,7 +276,7 @@ _industrial_: 900 million cubic meters (2020 est.)<br>
 _agricultural_: 700 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-4.5 billion cubic meters (2019 est.)<br>
+4.5 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -327,16 +327,16 @@ _residency requirement for naturalization_: unknown<br>
 21 years of age; authorized for all men and women regardless of religion; excludes persons convicted of felonies and other crimes or those imprisoned; excludes all military and security service personnel regardless of rank<br>
 
 **Executive branch**<br>
-_chief of state_: President Michel AWN (since 31 October 2016)<br>
-_head of government_: Prime Minister Najib MIQATI (since 20 September 2021)<br>
+_chief of state_: vacant<br>
+_head of government_: Caretaker Prime Minister Najib MIQATI (since 20 September 2021)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president and Parliament<br>
-_elections/appointments_: president indirectly elected by Parliament with two-thirds majority vote in the first round and if needed absolute majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016 (next to be held in 2022); prime minister appointed by the president in consultation with Parliament; deputy prime minister determined during cabinet formation<br>
-_election results_: <br>2023: on 19 January 2023, Parliament in its eleventh session failed to elect a president<br><em><br>2016:</em> Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because Parliament lacked the necessary quorum of 86 members to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
+_elections/appointments_: president indirectly elected by Parliament with two-thirds majority vote in the first round and if needed absolute majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016 (presidential election ongoing as of mid-May 2023); prime minister appointed by the president in consultation with Parliament; deputy prime minister determined during cabinet formation<br>
+_election results_: <br><em>2023:</em> on 19 January 2023, Parliament failed in its eleventh session attempt to elect a president<br><em><br>2016:</em> Michel AWN elected president in second round; Parliament vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because Parliament lacked the necessary quorum of 86 members to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
 
 **Legislative branch**<br>
 _description_: unicameral Lebanese Parliament or Majlis al-Nuwab in Arabic, Chambre des d&eacute;put&eacute;s in French (128 seats; members directly elected in multi-member constituencies by open list proportional representation vote, apportioned evenly between Christian and Muslims; members serve 4-year terms)<br>
 _elections_: last held on 15 May 2022 (next to be held in May 2026)<br>
-_election results_: percent of vote by coalition/party &ndash; NA; seats by party/coalition &ndash; FPM 16, LF 14, Amal Movement 13, Hezbollah 13, PSP 9, FM (candidates did not run in 2022; members ran as independents) 8, Kata&rsquo;ib Party 4, other 30, independent 21; composition - men 120, women 8, percent of women 6.3%<br>
+_election results_: percent of vote by coalition/party &ndash; NA; seats by party/coalition &ndash; FPM 16, LF 14, Amal Movement 13, Hezbollah 13, PSP 9, FM (candidates did not run in 2022; members ran as independents) 8, Kata&rsquo;ib Party 4, other 30, independent 21; composition - men 120, women 8, percent of women 6.3%; note -a dozen of the elected deputies are from groups pushing for reform with origins in the recent protest movements against the established elite and have formed a group called the "Forces of Change"<br>
 <strong>note:</strong> Lebanon’s constitution states the Lebanese Parliament cannot conduct regular business until it elects a president when the position is vacant<br>
 
 **Judicial branch**<br>
@@ -345,7 +345,7 @@ _judge selection and term of office_: Court of Cassation judges appointed by Sup
 _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized tribunals, religious courts; military courts<br>
 
 **Political parties and leaders**<br>
-<p>Al-Ahbash or Association of Islamic Charitable Projects or AICP [Shaykh Hussam QARAQIRA]<br>Amal Movement ("Hope Movement") [Nabih BERRI]<br>Azm Movement [Najib MIQATI]<br>Ba’th Arab Socialist Party of Lebanon [leader disputed]<br>Free Patriotic Movement or FPM [Gibran BASSIL]<br>Future Movement Bloc or FM [Sa'ad al-HARIRI]<br>Hizballah [Hassan NASRALLAH]<br>Islamic Action Front or IAF [Sheikh Zuhayr al-JU’AYD]<br>Kata'ib Party [Sami GEMAYEL]<br>Lebanese Democratic Party [Talal ARSLAN]<br>Lebanese Forces or LF [Samir JA'JA]<br>Marada Movement [Sulayman FRANJIEH]<br>Progressive Socialist Party or PSP [Walid JUNBLATT]<br>Social Democrat Hunshaqian Party [Sabuh KALPAKIAN]<br>Syrian Social Nationalist Party or SSNP [Rabi BANAT]<br>Tashnaq or Armenian Revolutionary Federation [Hagop PAKRADOUNIAN]</p><br>
+<p>Al-Ahbash or Association of Islamic Charitable Projects or AICP [Shaykh Hussam QARAQIRA]<br>Amal Movement ("Hope Movement") [Nabih BERRI]<br>Azm Movement [Najib MIQATI]<br>Ba’th Arab Socialist Party of Lebanon [leader disputed]<br>Free Patriotic Movement or FPM [Gibran BASSIL]<br>Future Movement Bloc or FM [Sa'ad al-HARIRI] (resigned from politics in January 2022)<br>Hizballah [Hassan NASRALLAH]<br>Islamic Action Front or IAF [Sheikh Zuhayr al-JU’AYD]<br>Kata'ib Party [Sami GEMAYEL]<br>Lebanese Democratic Party [Talal ARSLAN]<br>Lebanese Forces or LF [Samir JA'JA]<br>Marada Movement [Sulayman FRANJIEH]<br>Progressive Socialist Party or PSP [Walid JUNBLATT]<br>Social Democrat Hunshaqian Party [Sabuh KALPAKIAN]<br>Syrian Social Nationalist Party or SSNP [Rabi BANAT]<br>Tashnaq or Armenian Revolutionary Federation [Hagop PAKRADOUNIAN]</p><br>
 
 **International organization participation**<br>
 ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>

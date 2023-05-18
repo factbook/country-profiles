@@ -275,7 +275,7 @@ _industrial_: 300,000 cubic meters (2017 est.)<br>
 _agricultural_: 0 cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-30 million cubic meters (2019 est.)<br>
+30 million cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -341,7 +341,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Courts; Magistrate Courts (on each of the inhabited islands)<br>
 
 **Political parties and leaders**<br>
-<p>Adhaalath (Justice) Party or AP [Sheikh Imran ABDULLA]<br>Dhivehi Rayyithunge Party or DRP [Abdulla JABIR]<br>Maldives Development Alliance or MDA [Ahmed Shiyam MOHAMED]<br>Maldivian Democratic Party or MDP [Mohamed NASHEED]<br>Maldives Labor and Social Democratic Party or MLSDP [Ahmed SHIHAM]<br>Maldives Third Way Democrats or MTD [Ahmed ADEEB]<br>Maumoon/Maldives Reform Movement or MRM [Ahmed Faris MAUMOON]<br>National Democratic Congress [Yousuf Maaniu]<br>People's National Congress or PNC [Abdul Raheem ABDULLA]<br>Progressive Party of Maldives or PPM [Abdul GAYOOM]<br>Republican (Jumhooree) Party or JP [Qasim IBRAHIM]</p> (2020)<br>
+<p>Adhaalath (Justice) Party or AP [Sheikh Imran ABDULLA]<br>Dhivehi Rayyithunge Party or DRP [Abdulla JABIR]<br>Maldives Development Alliance or MDA [Ahmed Shiyam MOHAMED]<br>Maldivian Democratic Party or MDP [Mohamed NASHEED]<br>Maldives Labor and Social Democratic Party or MLSDP [Ahmed SHIHAM]<br>Maldives Third Way Democrats or MTD [Ahmed ADEEB]<br>Maumoon/Maldives Reform Movement or MRM [Ahmed Faris MAUMOON]<br>National Democratic Congress [Yousuf Maaniu]<br>People's National Congress or PNC [Abdul Raheem ABDULLA]<br>Progressive Party of Maldives or PPM [Abdullah YAMEEN, Abdul GAYOOM, founder]<br>Republican (Jumhooree) Party or JP [Qasim IBRAHIM]</p> (2020)<br>
 
 **International organization participation**<br>
 ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

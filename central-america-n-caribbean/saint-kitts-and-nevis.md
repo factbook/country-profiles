@@ -251,7 +251,7 @@ _industrial_: 0 cubic meters (2017 est.)<br>
 _agricultural_: 200,000 cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-20 million cubic meters (2019 est.)<br>
+20 million cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -594,7 +594,7 @@ _major seaport(s)_: Basseterre, Charlestown<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of National Security: St. Kitts and Nevis Defense Force (SKNDF), St. Kitts and Nevis Coast Guard, the Royal St. Christopher and Nevis Police Force (includes a paramilitary Special Services Unit) (2022)<br>
+Ministry of National Security: St. Kitts and Nevis Defense Force (SKNDF), St. Kitts and Nevis Coast Guard, the Royal St. Christopher and Nevis Police Force (includes a paramilitary Special Services Unit) (2023)<br>
 
 **Military and security service personnel strengths**<br>
 the SKNDF has approximately 400 personnel (2022)<br>
@@ -606,7 +606,7 @@ the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2022
 18 years of age for voluntary military service (under 18 with written parental permission); no conscription (2022)<br>
 
 **Military - note**<br>
-St. Kitts joined the Caribbean Regional Security System (RSS) in 1984; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security<br><br>SKNDF's missions included defense of the country's territorial integrity and sovereignty, protecting natural resources, interdicting narcotics trafficking, and providing humanitarian relief as needed (2022)<br>
+St. Kitts joined the Caribbean Regional Security System (RSS) in 1984; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security<br><br>SKNDF's missions included defense of the country's territorial integrity and sovereignty, protecting natural resources, interdicting narcotics trafficking, and providing humanitarian relief as needed (2023)<br>
 
 ## Transnational Issues
 

@@ -263,11 +263,6 @@ _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever and malaria<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,528,816 tons (2010 est.)<br>
 
@@ -280,7 +275,7 @@ _industrial_: 50 million cubic meters (2020 est.)<br>
 _agricultural_: 1.08 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-164.5 billion cubic meters (2019 est.)<br>
+164.52 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -664,8 +659,8 @@ _major seaport(s)_: Bluefields, Corinto<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Army of Nicaragua (Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); Naval Forces (Fuerza Naval); Air Forces (Fuerza Aérea); Special Operations Command (Comando de Operaciones Especiales); Nicaraguan National Police (2022)<br>
-<strong>note:</strong> both the military and the police report directly to the president<br>
+Army of Nicaragua (Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); Naval Forces (Fuerza Naval); Air Forces (Fuerza Aérea); Nicaraguan National Police (Policía Nacional de Nicaragua  or PNN)  (2023)<br>
+<strong>note:</strong> both the military and the police report directly to the president; Parapolice, which are nonuniformed, armed, and masked units with marginal tactical training and loose hierarchical organization, act in coordination with government security forces and report directly to the National Police; they have been used to suppress anti-government protesters <br>
 
 **Military expenditures**<br>
 0.5% of GDP (2022 est.)<br>
@@ -678,13 +673,13 @@ Army of Nicaragua (Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); N
 approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Nicaraguan military's inventory includes mostly secondhand Russian/Soviet-era equipment; in recent years, Russia has been the leading arms supplier to Nicaragua (2022)<br>
+the military's inventory includes mostly secondhand Russian/Soviet-era equipment; in recent years, Russia has been the leading arms supplier to Nicaragua (2023)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months; requires Nicaraguan nationality and 6th-grade education (2022)<br>
 
 **Military - note**<br>
-the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA GARCIA, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas (2022)<br>
+the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA GARCIA, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas (2023)<br>
 
 ## Transnational Issues
 

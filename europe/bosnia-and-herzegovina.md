@@ -276,7 +276,7 @@ _municipal_: 310 million cubic meters (2020 est.)<br>
 _industrial_: 60 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-37.5 billion cubic meters (2019 est.)<br>
+37.5 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -337,7 +337,7 @@ _election results_: <em>2022: </em>percent of vote<em> -</em> Denis BECIROVIC - 
 <strong>note:</strong> President of the Federation of Bosnia and Herzegovina Lidiia BRADARA (since 28 February 2023); Vice Presidents Refik LENDO (since 28 February 2023) and Igor STOJANOVIC (since 28 February 2023); President of the Republika Srpska Milorad DODIK (since 15 November 2022); Vice Presidents Camil DURAKOVIC (since 15 November 2022) and Davor PRANJIC (since 15 November 2022)<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliamentary Assembly or Skupstina consists of:<br>House of Peoples or Dom Naroda (15 seats - 5 Bosniak, 5 Croat, 5 Serb; members designated by the Federation of Bosnia and Herzegovina's House of Peoples and the Republika Srpska's National Assembly to serve 4-year terms)<br>House of Representatives or Predstavnicki Dom (42 seats to include 28 seats allocated to the Federation of Bosnia and Herzegovina and 14 to the Republika Srpska; members directly elected by proportional representation vote to serve 4-year terms); note - the Federation of Bosnia and Herzegovina has a bicameral legislature that consists of the House of Peoples (58 seats - 17 Bosniak, 17 Croat, 17 Serb, 7 other) and the House of Representatives (98 seats; members directly elected by proportional representation vote to serve 4-year terms); Republika Srpska's unicameral legislature is the National Assembly (83 directly elected delegates serve 4-year terms)<br>
+_description_: bicameral Parliamentary Assembly or Skupstina consists of:<br>House of Peoples or Dom Naroda (15 seats - 5 Bosniak, 5 Croat, 5 Serb; members designated by the Federation of Bosnia and Herzegovina's House of Peoples and the Republika Srpska's National Assembly to serve 4-year terms)<br>House of Representatives or Predstavnicki Dom (42 seats to include 28 seats allocated to the Federation of Bosnia and Herzegovina and 14 to the Republika Srpska; members directly elected by proportional representation vote to serve 4-year terms); note - the Federation of Bosnia and Herzegovina has a bicameral legislature that consists of the House of Peoples (80 seats - 23 Bosniak, 23 Croat, 23 Serb, 11 other) and the House of Representatives (98 seats; members directly elected by proportional representation vote to serve 4-year terms); Republika Srpska's unicameral legislature is the National Assembly (83 directly elected delegates serve 4-year terms)<br>
 _elections_: House of Peoples - last held on 2 October 2022 (next to be held in 2026)<br>House of Representatives - last held on 2 October 2022 (next to be held in 2026)<br>
 _election results_: House of Peoples - percent of vote by coalition/party - NA; seats by coalition/party - NA; composition - men 12, women 3, percent of women 20%<br>House of Representatives - percent of vote by party/coalition - SDA 17.2%, SNSD 16.3%, HDZ BiH 8.8%, SDP 8.2%, SDS 7.1%, DF-GS 6.4%, NiP 5%, PDP 4.6%, NS/HC 3.1%, NES 3%, For Justice and Order 2.1%, DEMOS 1.9%, US 1.6%, BHI KF 1.3%, other 13.4%; seats by party/coalition - SDA 9, SNSD 6, SDP 5, HDZ BiH 4, DF-GS 3, NiP 3, SDS 2, PDP 2, NS/HC 2, NES 2, For Justice and Order 1, DEMOS 1, US 1, BHI KF 1; composition - men 31, women 11, percent of women 26.2%; note - total Parliamentary Assembly percent of women 24.6%<br>
 
@@ -712,7 +712,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 **Refugees and internally displaced persons**<br>
 _IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
 _stateless persons_: 48 (2022)<br>
-<strong>note: </strong>119,521 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
+<strong>note: </strong>120,181 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

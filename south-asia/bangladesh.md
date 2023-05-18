@@ -278,13 +278,6 @@ _rate of urbanization_: 2.88% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0.02% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: dengue fever and malaria are high risks in some locations<br>
-_water contact diseases_: leptospirosis<br>
-_animal contact diseases_: rabies<br>
-
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to economic constraints and high prices of important food items -</em>  food insecurity is expected to remain fragile, given persisting economic constraints; domestic prices of wheat flour and palm oil, important food items, were at high levels in January 2023; the result of elevated international prices of energy, fuel and food, having been transmitted to the domestic markets (2023)<br>
 
@@ -306,7 +299,7 @@ _industrial_: 770 million cubic meters (2020 est.)<br>
 _agricultural_: 31.5 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-1.227 trillion cubic meters (2019 est.)<br>
+1.23 trillion cubic meters (2020 est.)<br>
 
 ## Government
 

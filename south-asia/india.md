@@ -99,7 +99,7 @@ Indo-Aryan 72%, Dravidian 25%, and other 3% (2000)<br>
 
 **Languages**<br>
 Hindi 43.6%, Bengali 8%, Marathi 6.9%, Telugu 6.7%, Tamil 5.7%, Gujarati 4.6%, Urdu 4.2%, Kannada 3.6%, Odia 3.1%, Malayalam 2.9%, Punjabi 2.7%, Assamese 1.3%, Maithili 1.1%, other 5.6%; note - English enjoys the status of subsidiary official language but is the most important language for national, political, and commercial communication; there are 22 other officially recognized languages: Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Marathi, Nepali, Odia, Punjabi, Sanskrit, Santali, Sindhi, Tamil, Telugu, Urdu; Hindustani is a popular variant of Hindi/Urdu spoken widely throughout northern India but is not an official language (2011 est.)<br>
-_major-language sample(s)_: <br>विश्व फ़ैक्टबुक, आधारभूत जानकारी का एक अपरिहार्य स्त्रोत  (Hindi)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <p>विश्व फ़ैक्टबुक, आधारभूत जानकारी का एक अनिवार्य स्रोत (Hindi)</p> The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Hindu 79.8%, Muslim 14.2%, Christian 2.3%, Sikh 1.7%, other and unspecified 2% (2011 est.)<br>
@@ -287,13 +287,6 @@ _rate of urbanization_: 2.33% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 1.15% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: dengue fever, Crimean-Congo hemorrhagic fever, Japanese encephalitis, and malaria<br>
-_water contact diseases_: leptospirosis<br>
-_animal contact diseases_: rabies<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 168,403,240 tons (2001 est.)<br>
 _municipal solid waste recycled annually_: 8,420,162 tons (2013 est.)<br>
@@ -317,7 +310,7 @@ _industrial_: 17 billion cubic meters (2020 est.)<br>
 _agricultural_: 688 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-1.9 trillion cubic meters (2019 est.)<br>
+1.91 trillion cubic meters (2019 est.)<br>
 
 ## Government
 
@@ -371,7 +364,7 @@ _chief of state_: President Droupadi MURMU (since 25 July 2022); Vice President 
 _head of government_: Prime Minister Narendra MODI (since 26 May 2014)<br>
 _cabinet_: Union Council of Ministers recommended by the prime minister, appointed by the president<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 18 July 2022 (next to be held in July 2027); vice president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 5 August 2022 (next to be held in August 2027); following legislative elections, the prime minister is elected by Lok Sabha members of the majority party<br>
-_election results_: <br>2022: Droupadi MURMU elected president; percent of electoral college vote - Droupadi MURMU (BJP) 64%, Yashwant SINHA (AITC) 35.9%; Jagdeep DHANKHAR elected vice president; percent of electoral college vote - Jagdeep DHANKHAR (BJP) 74.4%, Margaret ALVA (INC) 25.6%<br>2017: Ram Nath KOVIND elected president; percent of electoral college vote - Ram Nath KOVIND (BJP) 65.6%, Meira KUMAR (INC) 34.4%; Venkaiah NAIDU elected vice president; percent of electoral college vote - Venkaiah NAIDU (BJP) 67.9%, Gopal kuishna GANDI 32.1%<br>
+_election results_: <br>2022: Droupadi MURMU elected president; percent of electoral college vote - Droupadi MURMU (BJP) 64%, Yashwant SINHA (AITC) 35.9%; Jagdeep DHANKHAR elected vice president; percent of electoral college vote - Jagdeep DHANKHAR (BJP) 74.4%, Margaret ALVA (INC) 25.6%<br>2017: Ram Nath KOVIND elected president; percent of electoral college vote - Ram Nath KOVIND (BJP) 65.6%, Meira KUMAR (INC) 34.4%; Venkaiah NAIDU elected vice president; percent of electoral college vote - Venkaiah NAIDU (BJP) 67.9%, Gopal-krishna GANDHI 32.1%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Sansad consists of:<br>Council of States or Rajya Sabha (245 seats; 233 members indirectly elected by state and territorial assemblies by proportional representation vote and 12 members appointed by the president; members serve 6-year terms with one-third of the membership renewed every 2 years at various dates)<br>House of the People or Lok Sabha (545 seats; 543 members directly elected in single-seat constituencies by simple majority vote and 2 appointed by the president; members serve 5-year terms)<br>
@@ -400,7 +393,7 @@ _email address and website_: <br>minca.washington@mea.gov.in (community affairs)
 _consulate(s) general_: Atlanta, Chicago, Houston, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Patricia A. LACINA (since 9 September 2021)<br>
+_chief of mission_: Ambassador Eric M. GARCETTI (since 11 May 2023)<br>
 _embassy_: Shantipath, Chanakyapuri, New Delhi - 110021<br>
 _mailing address_: 9000 New Delhi Place, Washington DC&nbsp; 20521-9000<br>
 _telephone_: [91] (11) 2419-8000<br>

@@ -268,7 +268,7 @@ _industrial_: 69 million cubic meters (2020 est.)<br>
 _agricultural_: 2.32 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-150 million cubic meters (2019 est.)<br>
+150 million cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -319,12 +319,12 @@ _residency requirement for naturalization_: 30 years<br>
 limited; note - rulers of the seven emirates each select a proportion of voters for the Federal National Council (FNC) that together account for about 12 percent of Emirati citizens<br>
 
 **Executive branch**<br>
-_chief of state_: President MUHAMMAD bin Zayid Al-Nuhayyan (since 14 May 2022); Vice President MUHAMMAD bin Rashid Al-Maktum (since 5 January 2006); second Vice President MANSOUR bin Zayid Al Nuhayyan (since 29 March 2023); Crown Prince KHALED bin Mohamed bin Zayid Al Nahyan, the eldest son of the monarch, born 14 November 1982; note - MUHAMMAD bin Zayid Al-Nuhayan elected president by the Federal Supreme Council following the death of President KHALIFA bin Zayid Al-Nuhayan on 13 May 2022<br>
-_head of government_: Prime Minister and Vice President MUHAMMAD bin Rashid Al-Maktum (since 5 January 2006); Deputy Prime Ministers SAIF bin Zayid Al-Nuhayyan, MANSUR bin Zayid Al-Nuhayyan (both since 11 May 2009), and MAKTUM bin Mohammed Al-Maktum (since 25 September 2021)<br>
+_chief of state_: President MUHAMMAD BIN ZAYID Al-Nuhayyan (since 14 May 2022); Co-Vice President MUHAMMAD BIN RASHID Al-Maktum (since 5 January 2006); Co-Vice President MANSUR bin Zayid Al-Nuhayyan (since 29 March 2023); Crown Prince KHALID bin Muhammad Al-Nuhayyan, the eldest son of the monarch, born 14 November 1982; note - MUHAMMAD BIN ZAYID Al-Nuhayyan elected president by the Federal Supreme Council following the death of President KHALIFA bin Zayid Al-Nuhayyan on 13 May 2022<br>
+_head of government_: Prime Minister and Co-Vice President MUHAMMAD BIN RASHID Al-Maktum (since 5 January 2006); Deputy Prime Ministers SAIF bin Zayid Al-Nuhayyan, MANSUR bin Zayid Al-Nuhayyan (both since 11 May 2009), and MAKTUM bin Muhammad bin Rashid Al-Maktum (since 25 September 2021)<br>
 _cabinet_: Council of Ministers announced by the prime minister and approved by the president<br>
-_elections/appointments_: president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); unscheduled election held on 14 May 2022, following the death of President KHALIFA bin Zayid Al-Nuhayan (next election NA); prime minister and deputy prime minister appointed by the president<br>
-_election results_: MUHAMMAD bin Zayid Al-Nuhayan elected president; Federal Supreme Council vote NA<br>
-<strong>note:</strong> there is also a Federal Supreme Council (FSC) composed of the 7 emirate rulers; the FSC is the highest constitutional authority in the UAE; establishes general policies and sanctions federal legislation; meets 4 times a year; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) rulers have effective veto power<br>
+_elections/appointments_: president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); unscheduled election held on 14 May 2022, following the death of President KHALIFA bin Zayid Al-Nuhayyan (next election NA); prime minister and deputy prime minister appointed by the president<br>
+_election results_: MUHAMMAD BIN ZAYID Al-Nuhayyan elected president; Federal Supreme Council vote NA<br>
+<strong>note:</strong> the Federal Supreme Council (FSC) is composed of the 7 emirate rulers and is the highest constitutional authority in the UAE; the FSC establishes general policies and sanctions federal legislation; meets 4 times a year; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) rulers have effective veto power<br>
 
 **Legislative branch**<br>
 _description_: unicameral Federal National Council (FNC) or Majlis al-Ittihad al-Watani (40 seats; 20 members indirectly elected using single non-transferable vote by an electoral college whose members are selected by each emirate ruler proportional to its FNC membership, and 20 members appointed by the rulers of the 7 constituent states; members serve 4-year terms)<br>
@@ -343,7 +343,7 @@ none; political parties are banned<br>
 ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OIF (observer), OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Yousif Mana Saeed Ahmed ALOTAIBA (since 28 July 2008)<br>
+_chief of mission_: Ambassador Yusif bin Mani Said Ahmed al UTAYBA (since 28 July 2008)<br>
 _chancery_: 3522 International Court NW, Suite 400, Washington, DC 20008<br>
 _telephone_: [1] (202) 243-2400<br>
 _FAX_: [1] (202) 243-2432<br>

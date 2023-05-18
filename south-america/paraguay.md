@@ -276,11 +276,6 @@ _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,818,501 tons (2015 est.)<br>
 
@@ -299,7 +294,7 @@ _industrial_: 150 million cubic meters (2020 est.)<br>
 _agricultural_: 1.9 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-387.8 billion cubic meters (2019 est.)<br>
+387.77 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -358,7 +353,7 @@ _election results_: <br><em>2023: </em>Santiago PEÑA Palacios elected presiden
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Chamber of Senators or Camara de Senadores (45 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote to serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (80 seats; members directly elected in 18 multi-seat constituencies - corresponding to the country's 17 departments and capital city - by closed-list proportional representation vote to serve 5-year terms)<br>
 _elections_: <br>Chamber of Senators - last held on 30 April 2023 (next to be held in April 2028)<br>Chamber of Deputies - last held on 30 April 2023 (next to be held in April 2028)<br>
-_election results_: <br>Chamber of Senators - percent of vote by party/coalition - ANR 32.52%, PLRA 24.18%, FG 11.83%, PPQ 6.77%, MH 4.47%, PDP 3.66%, MCN 2.48%, UNACE 2.12%, other 11.97%; seats by party/coalition - ANR 17, PLRA 13, FG 6, PPQ 3, MH 2, PDP 2, MCN 1, UNACE 1; composition - men 38, women 7, percent of women 15.6%<br><br>Chamber of Deputies - percent of vote by party/coalition - ANR 39.1%, PLRA 17.74%, Ganar Alliance 12.08%, PPQ 4.46%, MH 3.19%; other 23.43%; seats by party/coalition - ANR 42, PLRA 17, Ganar Alliance 13, PPQ 3, MH 2, other 3; composition - men 66, women 14, percent of women 17.5%; note - total National Congress percent of women 16.8%<br>
+_election results_: <br>Chamber of Senators - percent of vote by party/coalition - ANR 45.7%, PLRA 24.4%, PCN 11.5%, PEN 5.2%, PPQ 2.5%, other 10.7%; seats by party/coalition - ANR 23, PLRA 12, PCN 5, PEN 2, PPQ 1, other 2; composition - men 38, women 7, percent of women 18.4%<br><br>Chamber of Deputies - percent of vote by party/coalition - ANR 44%, PLRA 30.9%, PCN 8.3%, PPQ 3.6%, PEN 2.9%; other 10.3%; seats by party/coalition - ANR 49, PLRA 21, PCN 4, PEN 2, PPQ 1, other 3; composition - men 68, women 12, percent of women 17.6%; note - total National Congress percent of women NA%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 justices divided 3 each into the Constitutional Court, Civil and Commercial Chamber, and Criminal Division)<br>
@@ -366,7 +361,7 @@ _judge selection and term of office_: justices proposed by the Council of Magist
 _subordinate courts_: appellate courts; first instance courts; minor courts, including justices of the peace<br>
 
 **Political parties and leaders**<br>
-Asociacion Nacional Republicana - Colorado Party or ANR [Mario ABDO BENITEZ]<br>Authentic Radical Liberal Party (Partido Liberal Radical Autentico) or PLRA [Efrain ALEGRE]<br>Avanza Pais coalition or AP [Adolfo FERREIRO]<br>Broad Front coalition (Frente Guasu) or FG [Fernando Armindo LUGO Mendez]<br>GANAR Alliance (Great Renewed National Alliance) (alliance between PLRA and Guasú Front)<br>Movimiento Cruzada Nacional or MCN<br>Movimiento Hagamos or MH [Antonio "Tony" APURIL]<br>Movimiento Union Nacional de Ciudadanos Eticos or UNACE [Jorge OVIEDO MATTO]<br>Partido del Movimiento al Socialismo or P-MAS [Camilo Ernesto SOARES Machado]<br>Partido Democratica Progresista or PDP [Rafael FILIZZOLA]<br>Partido Encuentro Nacional or PEN [Fernando CAMACHO]<br>Partido Pais Solidario or PPS [Carlos Alberto FILIZZOLA Pallares]<br>Partido Popular Tekojoja or PPT [Sixto PEREIRA Galeano]<br>Patria Querida (Beloved Fatherland Party) or PPQ [Miguel CARRIZOSA]<br>
+Asociacion Nacional Republicana (National Republican Association) - Colorado Party or ANR [Mario ABDO BENITEZ]<br>Avanza Pais coalition or AP [Adolfo FERREIRO]<br>Frente Guasu (Broad Front coalition) or FG [Fernando Armindo LUGO Mendez]<br>GANAR Alliance (Great Renewed National Alliance) (alliance between PLRA and Guasú Front)<br>Movimiento Hagamos or MH [Antonio "Tony" APURIL]<br>Movimiento Union Nacional de Ciudadanos Eticos (National Union of Ethical Citizens) or UNACE [Jorge OVIEDO MATTO]<br>Partido Cruzada Nacional (National Crusade Party) or PCN [Payo CUBAS]; note - formerly Movimiento Cruzada Nacional<br>Partido del Movimiento al Socialismo or P-MAS [Camilo Ernesto SOARES Machado]<br>Partido Democratica Progresista (Progressive Democratic Party) or PDP [Rafael FILIZZOLA]<br>Partido Encuentro Nacional or PEN [Fernando CAMACHO]<br>Partido Liberal Radical Autentico (Authentic Radical Liberal Party) or PLRA [Efrain ALEGRE]<br>Partido Pais Solidario or PPS [Carlos Alberto FILIZZOLA Pallares]<br>Partido Popular Tekojoja or PPT [Sixto PEREIRA Galeano]<br>Patria Querida (Beloved Fatherland Party) or PPQ [Miguel CARRIZOSA]<br>
 
 **International organization participation**<br>
 CAN (associate), CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHRC, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -689,7 +684,8 @@ _river port(s)_: Asuncion, Villeta, San Antonio, Encarnacion (Parana)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy (Armada, includes marines), Air Force (Fuerza Aerea)<br><br>Ministry of Internal Affairs: the National Police of Paraguay includes the Special Police Operations Force (Fuerza de Operaciones Policiales Especiales<em>)</em> (2022)<br>
+Armed Forces of Paraguay (Fuerzas Armadas de Paraguay; aka Armed Forces of the Nation or Fuerzas Armadas de la Nación): Paraguayan Army (Ejército Paraguayo), Paraguayan Navy (Armada Paraguaya; includes marines), Paraguayan Air Force (Fuerza Aérea Paraguaya); Ministry of Internal Affairs: National Police of Paraguay (Policía Nacional del Paraguay, PNP) (2023)<br>
+<strong>note: </strong>Paraguay also has a National Counterdrug Bureau (Secretaria Nacional Antidrogas or SENAD) that operates under the presidency <br>
 
 **Military expenditures**<br>
 0.8% of GDP (2022 est.)<br>

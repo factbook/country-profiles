@@ -272,11 +272,6 @@ _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever and malaria<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1 million tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 20,000 tons (2016 est.)<br>
@@ -291,7 +286,7 @@ _industrial_: 170 million cubic meters (2020 est.)<br>
 _agricultural_: 1 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-801 billion cubic meters (2019 est.)<br>
+801 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -396,7 +391,7 @@ _selected World Heritage Site locales_: Kuk Early Agricultural Site<br>
 ## Economy
 
 **Economic overview**<br>
-lower middle-income Pacific island economy; very diverse, primarily informal agricultural labor force; natural resource rich extraction account for export volume; growing youth population faces lack of formal employment; hit by COVID-19<br>
+lower middle-income Pacific island economy; primarily informal agrarian sector; natural resource-rich; key liquified natural gas exporter; growing young workforce; slow post-pandemic recovery; increasingly impoverished citizenry; sustainable inflation<br>
 
 **Real GDP (purchasing power parity)**<br>
 $36.589 billion (2021 est.)<br>
@@ -445,7 +440,7 @@ _imports of goods and services_: -22.3% (2017 est.)<br>
 oil palm fruit, bananas, coconuts, fruit, sweet potatoes, game meat, yams, roots/tubers nes, vegetables, taro<br>
 
 **Industries**<br>
-copra crushing, palm oil processing, plywood production, wood chip production; mining (gold, silver, copper); crude oil and petroleum products; construction, tourism, livestock (pork, poultry, cattle), dairy products, spice products (turmeric, vanilla, ginger, cardamom, chili, pepper, citronella, and nutmeg), fisheries products<br>
+oil and gas; mining (gold, copper, and nickel); palm oil processing; plywood and wood chip production;&nbsp;copra crushing; construction; tourism; fishing; livestock (pork, poultry, cattle) and dairy farming; spice products (turmeric, vanilla, ginger, cardamom, chili, pepper, citronella, and nutmeg)<br>
 
 **Industrial production growth rate**<br>
 -7.5% (2020 est.)<br>
@@ -506,20 +501,20 @@ $10.597 billion (2018 est.) note: data are in current year dollars<br>
 $10.254 billion (2017 est.)<br>
 
 **Exports - partners**<br>
-Australia 26%, China 26%, Japan 22%, Taiwan 7% (2019)<br>
+Japan 25%, China 25%, Australia 16%, Taiwan 6%, South Korea 6% (2021)<br>
 
 **Exports - commodities**<br>
-natural gas, gold, copper, lumber, crude petroleum, nickel, palm oil, fish, coffee (2019)<br>
+natural gas, gold, copper, palm oil, nickel, crude petroleum, lumber, refined petroleum, tuna, coffee (2021)<br>
 
 **Imports**<br>
 $4.844 billion (2018 est.) note: data are in current year dollars<br>
 $4.662 billion (2017 est.)<br>
 
 **Imports - partners**<br>
-Australia 33%, China 19%, Singapore 14%, Malaysia 9% (2019)<br>
+Australia 27%, China 25%, Singapore 13%, Malaysia 8%, Indonesia 5% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, excavation machinery, crude petroleum, foodstuffs, delivery trucks (2019)<br>
+refined petroleum, rice, delivery trucks, excavation machinery, motor vehicle parts (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $2.339 billion (31 December 2019 est.)<br>

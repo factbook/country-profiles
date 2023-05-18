@@ -296,7 +296,7 @@ _industrial_: 40 million cubic meters (2020 est.)<br>
 _agricultural_: 570 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-937 million cubic meters (2019 est.)<br>
+940 million cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -402,7 +402,7 @@ _selected World Heritage Site locales_: Petra (c); Quseir Amra (c); Um er-Rasas 
 ## Economy
 
 **Economic overview**<br>
-low growth; high unemployment, especially for youth and women; growing debt; severe COVID-19 disruptions to service and tourism; high current account balances and Five-Year Reform Matrix progress; new business programs; declining remittances<br>
+low growth, upper middle-income Middle Eastern economy; high debt and unemployment, especially for youth and women; key US foreign assistance recipient; natural resource-poor and import-reliant<br>
 
 **Real GDP (purchasing power parity)**<br>
 $102.822 billion (2021 est.)<br>
@@ -520,7 +520,7 @@ $10.444 billion (2020 est.) note: data are in current year dollars<br>
 $16.17 billion (2019 est.)<br>
 
 **Exports - partners**<br>
-United States 21%, Saudi Arabia 13%, India 8%, Iraq 7%, United Arab Emirates 5%, China 5% (2019)<br>
+United States 26%, India 13%, Saudi Arabia 11%, Iraq 5%, China 4% (2021)<br>
 
 **Exports - commodities**<br>
 fertilizers, clothing and apparel, calcium phosphates, phosphoric acid, packaged medicines (2021)<br>
@@ -531,10 +531,10 @@ $18.424 billion (2020 est.) note: data are in current year dollars<br>
 $21.964 billion (2019 est.)<br>
 
 **Imports - partners**<br>
-China 17%, Saudi Arabia 15%, United States 6%, United Arab Emirates 6%, Egypt 5%, India 5% (2019)<br>
+China 17%, Saudi Arabia 14%, United Arab Emirates 11%, United States 5%, Turkey 3% (2021)<br>
 
 **Imports - commodities**<br>
-cars, refined petroleum, natural gas, crude petroleum, clothing and apparel (2019)<br>
+cars, refined petroleum, gold, crude petroleum, clothing and apparel, broadcasting equipment, packaged medicines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $15.56 billion (31 December 2017 est.)<br>
@@ -726,7 +726,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Jordan-Iraq</em>: the two countries signed a border agreement in 1984; Jordan has ratified the treaty, but it has not been confirmed that Iraq has ratified it; as of 2010, the agreement had not been registered with the UN</p> <p><em>Jordan-Israel</em>: none identified</p> <p><em>Jordan-Saudi Arabia</em>: Jordan and Saudi Arabia signed an agreement to demarcate their maritime borders in 2007</p> <p><em>Jordan-Syria</em>: the two countries signed an agreement in 2005 to settle the border dispute based on a 1931 demarcation accord; the two countries began demarcation in 2006</p> <p><em>Jordan-West Bank</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 12,866 (Yemen), 6,013 Sudan (2021); 33,951 (Iraq) (mid-year 2022); 660,646 (Syria) (2023)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 12,866 (Yemen), 6,013 Sudan (2021); 33,951 (Iraq) (mid-year 2022); 660,605 (Syria) (2023)<br>
 _stateless persons_: 64 (2022)<br>
 
 **Illicit drugs**<br>

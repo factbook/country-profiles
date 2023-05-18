@@ -275,11 +275,6 @@ _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever, Japanese encephalitis, and malaria<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.089 million tons (2014 est.)<br>
 
@@ -298,7 +293,7 @@ _industrial_: 30 million cubic meters (2020 est.)<br>
 _agricultural_: 2.05 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-476.1 billion cubic meters (2019 est.)<br>
+476.1 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -330,7 +325,7 @@ Independence Day, 9 November (1953)<br>
 
 **Constitution**<br>
 _history_: previous 1947; latest promulgated 21 September 1993<br>
-_amendments_: proposed by the monarch, by the prime minister, or by the president of the National Assembly if supported by one fourth of the Assembly membership; passage requires two-thirds majority of the Assembly membership; constitutional articles on the multiparty democratic form of government and the monarchy cannot be amended; amended 1999, 2008, 2014, 2018, and 2022<br>
+_amendments_: proposed by the monarch, by the prime minister, or by the president of the National Assembly if supported by one fourth of the Assembly membership; passage requires two-thirds majority of the Assembly membership; constitutional articles on the multiparty democratic form of government and the monarchy cannot be amended; amended several times, latest 2022<br>
 
 **Legal system**<br>
 civil law system (influenced by the UN Transitional Authority in Cambodia) customary law, Communist legal theory, and common law<br>
@@ -356,7 +351,7 @@ _elections/appointments_: monarch chosen by the 9-member Royal Council of the Th
 **Legislative branch**<br>
 _description_: bicameral Parliament of Cambodia consists of:<br>Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)<br>National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
 _elections_: <br>Senate - last held on 25 February 2018 (next to be held in 2024); National Assembly - last held on 29 July 2018 (next to be held in July 2023)<br>
-_election results_: <strong> </strong><br>Senate - percent of vote by party - CPP 96%, FUNCINPEC 2.4%, KNUP 1.6%; seats by party - CPP 58; FUNCINPEC 4; composition - percent of women 14.5%<br>National Assembly - percent of vote by party - CPP 76.9%, FUNCINPEC 5.9%, LDP 4.9%, Khmer Will Party 3.4%, other 8.9%; seats by party - CPP 125; composition - men 100, women 25, percent of women 20%; note - total Parliament of Cambodia percent of women 18.2%<br>
+_election results_: <strong> </strong><br>Senate - percent of vote by party - CPP 96%, FUNCINPEC 2.4%, KNUP 1.6%; seats by party - CPP 58; FUNCINPEC 4; composition (as of April 2023) - men 52, women 10, percent of women 16.1%<br>National Assembly - percent of vote by party - CPP 76.9%, FUNCINPEC 5.9%, LDP 4.9%, Khmer Will Party 3.4%, other 8.9%; seats by party - CPP 125; composition (as of April 2023) - men 99, women 26, percent of women 20.8%; note - total Parliament of Cambodia percent of women 19.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Council (organized into 5- and 9-judge panels and includes a court chief and deputy chief); Constitutional Court (consists of 9 members); note - in 1997, the Cambodian Government requested UN assistance in establishing trials to prosecute former Khmer Rouge senior leaders for crimes against humanity committed during the 1975-1979 Khmer Rouge regime; the Extraordinary Chambers of the Courts of Cambodia (also called the Khmer Rouge Tribunal) was established in 2006 and began hearings for the first case in 2009; court proceedings remain ongoing in 2021<br>

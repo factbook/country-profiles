@@ -239,11 +239,6 @@ _other_: 27% (2018 est.)<br>
 _urban population_: 76.2% of total population (2023)<br>
 _rate of urbanization_: 0.52% annual rate of change (2020-25 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
-
 **Total renewable water resources**<br>
 0 cubic meters (2017 est.)<br>
 

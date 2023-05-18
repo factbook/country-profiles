@@ -261,12 +261,6 @@ _other_: 23.4% (2018 est.)<br>
 _urban population_: 88.4% of total population (2023)<br>
 _rate of urbanization_: 1.16% annual rate of change (2020-25 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
-_vectorborne diseases_: dengue fever and malaria<br>
-<strong>note:</strong> as of 30 September 2021, the Centers for Disease Control and Prevention recommends that travelers avoid all nonessential travel to Venezuela; the country is experiencing outbreaks of infectious diseases, and adequate health care is currently not available in most of the country; there are shortages of food, water, electricity, medicine, and medical supplies that have contributed to an increasing humanitarian crisis affecting much of the country<br>
-
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to severe economic crisis -</em> the national economy, highly dependent on oil production and exports, was forecast to contract in 2021 for the eighth consecutive year; with the persistent negative effects of the COVID‑19 pandemic that have compounded the already severe macro‑economic crisis, the access to food of the most vulnerable households is expected to deteriorate throughout 2021 and into 2022 due to widespread losses of income‑generating activities and soaring food prices (2022)<br>
 
@@ -288,7 +282,7 @@ _industrial_: 790 million cubic meters (2020 est.)<br>
 _agricultural_: 16.71 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-1.3 trillion cubic meters (2019 est.)<br>
+1.33 trillion cubic meters (2020 est.)<br>
 
 ## Government
 

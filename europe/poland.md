@@ -274,10 +274,6 @@ _rate of urbanization_: -0.16% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0.27% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_vectorborne diseases_: tickborne encephalitis<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 10.863 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 2,866,746 tons (2015 est.)<br>
@@ -298,7 +294,7 @@ _industrial_: 5.87 billion cubic meters (2020 est.)<br>
 _agricultural_: 1.39 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-60.5 billion cubic meters (2019 est.)<br>
+60.5 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -367,7 +363,7 @@ _judge selection and term of office_: president of the Supreme Court nominated b
 _subordinate courts_: administrative courts; military courts; local, regional and appellate courts subdivided into military, civil, criminal, labor, and family courts<br>
 
 **Political parties and leaders**<br>
-Agreement [Jaroslaw GOWIN]<br>Civic Platform or PO [Donald Tusk]<br>Konfederajca [Krzysztof BOSAK]<br>New Left or NL [Wlodzimierz CZARZASTY and Robert Biedron]<br>Poland 2050 [Szymon HOLOWNIA]<br>Polish People's Party or PSL [Wladyslaw KOSINIAK-KAMYSZ]<br>Republican Party or R [Adam BIELAN]<br>United Poland or SP [Zbigniew ZIOBRO]<br>
+Agreement [Jaroslaw GOWIN]<br>Civic Platform or PO [Donald Tusk]<br>Konfederajca [Krzysztof BOSAK]<br>Law and Justice or PiS [Jaroslaw KACZYNSKI]<br>New Left or NL [Wlodzimierz CZARZASTY and Robert Biedron]<br>Poland 2050 [Szymon HOLOWNIA]<br>Polish People's Party or PSL [Wladyslaw KOSINIAK-KAMYSZ]<br>Republican Party or R [Adam BIELAN]<br>United Poland or SP [Zbigniew ZIOBRO]<br>
 
 **International organization participation**<br>
 Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNMISS, UNOCI, UN Security Council (temporary), UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -741,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,583,563 (Ukraine) (as of 27 April 2023)<br>
+_refugees (country of origin)_: 1,593,860 (Ukraine) (as of 9 May 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

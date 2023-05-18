@@ -183,11 +183,6 @@ _other_: 25.5% (2018 est.)<br>
 **Urbanization**<br>
 _rate of urbanization_: NA<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
-
 ## Government
 
 **Country name**<br>

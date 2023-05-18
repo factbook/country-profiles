@@ -93,7 +93,7 @@ Uzbek 83.8%, Tajik 4.8%, Kazakh 2.5%, Russian 2.3%, Karakalpak 2.2%, Tatar 1.5%,
 **Languages**<br>
 Uzbek (official) 74.3%, Russian 14.2%, Tajik 4.4%, other 7.1%<br>
 _major-language sample(s)_: <br>Jahon faktlari kitobi, asosiy ma'lumotlar uchun zaruriy manba. (Uzbek)<br><br>The World Factbook, the indispensable source for basic information.<br>
-<strong>note:</strong> in the semi-autonomous Republic of Karakalpakstan, both the Karakalpak language and Uzbek have official status<br>
+<strong>note:</strong> in the autonomous Republic of Karakalpakstan, both the Karakalpak language and Uzbek have official status<br>
 
 **Religions**<br>
 Muslim 88% (mostly Sunni), Eastern Orthodox 9%, other 3%<br>
@@ -286,7 +286,7 @@ _industrial_: 2.13 billion cubic meters (2020 est.)<br>
 _agricultural_: 54.36 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-48.9 billion cubic meters (2019 est.)<br>
+48.87 billion cubic meters (2020 est.)<br>
 
 ## Government
 

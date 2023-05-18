@@ -291,15 +291,6 @@ _rate of urbanization_: 4.4% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and dengue fever<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Ethiopia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to conflict in Tigray Region, drought conditions in southeastern areas, high food prices -</em> The difficult and worsening food security situation is the result of multiple shocks affecting food availability and access including: the conflict in northern Tigray Region and in adjacent areas of Amhara and Afar regions, which began in November 2020; in Tigray region alone, 5.3 million people are estimated to be severely food insecure; the failure of the March‑May 2022 “Gu‑Genna” rains in southern pastoral areas of southern Oromiya Region and southern Somali Region, exacerbated drought conditions prevailing since late 2020, causing severe crop and livestock losses; severe macroeconomic challenges including insufficient foreign currency reserves and the continuous depreciation of the national currency, as a result, inflation is at very high levels, with the year‑on‑year food inflation rate estimated at 35.5 percent in July, one the highest of the last decade; these difficulties are exacerbated by the ripple effects of the Ukraine war, which triggered hikes in international prices of wheat, fuel, and fertilizers (2023)<br>
 
@@ -325,7 +316,7 @@ _industrial_: 50 million cubic meters (2020 est.)<br>
 _agricultural_: 9.69 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-122 billion cubic meters (2019 est.)<br>
+122 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -395,7 +386,7 @@ _judge selection and term of office_: president and vice president of Federal Su
 _subordinate courts_: federal high courts and federal courts of first instance; state court systems (mirror structure of federal system); sharia courts and customary and traditional courts<br>
 
 **Political parties and leaders**<br>
-House of People's Representatives:<br>Ethiopian Citizens for Social Justice and Democracy or EZEMA [BERHANU Nega]   <br>Gedeo People's Democratic Party<br>Independent <br>Kucha People Democratic Party <br>National Movement of Amhara or NAMA<br>Prosperity Party or PP<br>
+House of People's Representatives:<br>Ethiopian Citizens for Social Justice and Democracy or EZEMA [BERHANU Nega]   <br>Gedeo People's Democratic Party<br>Independent [n/a]<br>Kucha People Democratic Party <br>National Movement of Amhara or NAMA [BELETE Molla]<br>Prosperity Party or PP [ABIY Ahmed Ali]<br>
 <strong>note:</strong> Ethiopia has over fifty national-level and regional-level political parties. The ruling party, the Prosperity Party, was created by Prime Minister ABIY in November 2019 from member parties of the former Ethiopian People’s Revolutionary Democratic Front (EPRDF), which included the Amhara Democratic Party (ADP), Oromo Democratic Party (ODP), Southern Ethiopian People's Democratic Movement (SEPDM), plus other EPRDF-allied parties such as the Afar National Democratic Party (ANDP), Benishangul Gumuz People’s Democratic Party (BGPDP), Gambella People’s Democratic Movement (GPDM), Somali People’s Democratic Party (SPDP), and the Harari National League (HNL). Once the Prosperity Party was created, the various ethnically-based parties that comprised or were affiliated with the EPRDF were subsequently disbanded; in January 2021, the Ethiopian electoral board de-registered the Tigray People’s Liberation Front or TPLF; national level parties are qualified to register candidates in multiple regions across Ethiopia; regional parties can register candidates for both national and regional parliaments, but only in one region of Ethiopia<br>
 
 **International organization participation**<br>
@@ -756,7 +747,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Ethiopia-Eritrea:</em> Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement <br><br><em>Ethiopia-Somalia:</em> While border clashes continue in the al-Fashqa (Fashaga) area, the US views the 1902 boundary treaty between Ethiopia and Sudan as being in force; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; <br><br><em>Ethiopia-Sudan:</em> Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 414,511 (South Sudan), 253,488 (Somalia), 164,271 (Eritrea), 48,964 (Sudan) (2023)<br>
+_refugees (country of origin)_: 414,905 (South Sudan), 253,616 (Somalia), 164,271 (Eritrea), 48,964 (Sudan) (2023)<br>
 _IDPs_: 2.73 million (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2023)<br>
 
 **Trafficking in persons**<br>

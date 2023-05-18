@@ -288,7 +288,7 @@ _industrial_: 20 million cubic meters (2020 est.)<br>
 _agricultural_: 550 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-30.2 billion cubic meters (2019 est.)<br>
+30.2 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -709,7 +709,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 1,948 (2022)<br>
-<strong>note:</strong> 43,310 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
+<strong>note:</strong> 43,767 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
 
 **Illicit drugs**<br>
 <p>active transshipment point for violent Albanian narco-trafficking organizations moving illicit drugs such as cocaine from South America and heroin exiting Turkey and Asia throughout Europe; significant source country for cannabis production</p><br>

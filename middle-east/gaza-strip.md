@@ -238,9 +238,6 @@ _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 **Revenue from forest resources**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-<p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; the Gaza Strip is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.387 million tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 6,935 tons (2013 est.)<br>
@@ -254,7 +251,7 @@ _agricultural_: 162 million cubic meters (2017 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
 **Total renewable water resources**<br>
-837 million cubic meters (2017 est.)<br>
+840 million cubic meters (2020 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
 ## Government

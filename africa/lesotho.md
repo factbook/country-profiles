@@ -274,10 +274,6 @@ _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to poor harvests and increased food prices -</em> according to the latest national food security assessment, 22% of the rural population are expected to face acute food insecurity between October 2022 and March 2023, compared to 15% between July and September 2022; the forecasted proportion translates into 320,000 people in rural areas, while an additional 201,000 people in urban areas are foreseen to also need assistance; the foreseen increase of acute food insecurity levels is primarily due to the reduced harvest, high food prices in basic food and non‑food commodities and a slow recovery of households’ income reflecting a downturn in economic growth; harvesting of the 2022 main-season summer cereal crops, mostly maize and sorghum, is complete; production of maize, the main cereal staple, is about one‑third of the average, while the sorghum output is almost negligible; the poor harvest was primarily due to torrential rainfalls during January and February 2022, which caused localized flooding and resulted in crop losses (2022)<br>
 
@@ -296,7 +292,7 @@ _industrial_: 20 million cubic meters (2020 est.)<br>
 _agricultural_: 3.8 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-3 billion cubic meters (2019 est.)<br>
+3.02 billion cubic meters (2020 est.)<br>
 
 ## Government
 

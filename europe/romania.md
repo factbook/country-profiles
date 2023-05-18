@@ -287,7 +287,7 @@ _industrial_: 3.9 billion cubic meters (2020 est.)<br>
 _agricultural_: 1.43 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-212 billion cubic meters (2019 est.)<br>
+212 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -721,9 +721,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 99,027 (Ukraine) (as of 30 April 2023)<br>
+_refugees (country of origin)_: 97,085 (Ukraine) (as of 7 May 2023)<br>
 _stateless persons_: 297 (2022)<br>
-<strong>note:</strong> 13,517 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
+<strong>note:</strong> 13,622 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis</p><br>

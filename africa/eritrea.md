@@ -263,12 +263,6 @@ _other_: 9.8% (2018 est.)<br>
 _urban population_: 43.3% of total population (2023)<br>
 _rate of urbanization_: 3.67% annual rate of change (2020-25 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and dengue fever<br>
-<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Eritrea is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 726,957 tons (2011 est.)<br>
 
@@ -278,7 +272,7 @@ _industrial_: 1 million cubic meters (2017 est.)<br>
 _agricultural_: 550 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-7.3 billion cubic meters (2019 est.)<br>
+7.32 billion cubic meters (2020 est.)<br>
 
 ## Government
 

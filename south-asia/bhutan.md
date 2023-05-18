@@ -255,7 +255,7 @@ _industrial_: 3 million cubic meters (2019 est.)<br>
 _agricultural_: 320 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-78 billion cubic meters (2019 est.)<br>
+78 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -311,8 +311,8 @@ _elections/appointments_: the monarchy is hereditary but can be removed by a two
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Chi Tshog consists of:<br>non-partisan National Council or Gyelyong Tshogde (25 seats; 20 members directly elected in single-seat constituencies by simple majority vote and 5 members appointed by the king; members serve 5-year terms)<br>National Assembly or Tshogdu (47 seats; members directly elected in single-seat constituencies in a two-round majoritarian voting system; members serve 5-year terms)<br>
-_elections_: <br>National Council election last held on 20 April 2018 (next to be held on 30 April 2023)<br>National Assembly - first round held on 15 September 2018 and second round held on 18 October 2018 (next to be held in October 2023)<br>
-_election results_: <br>National Council - seats by party - independent 20 (all candidates ran as independents) and 5 appointed by the king; composition - men 23, women 2, percent of women 8%<br>National Assembly - first round - percent of vote by party - DNT 31.9%, DPT 30.9%, PDP 27.4%, BKP 9.8%; second round - percent of vote by party -  NA; seats by party - DNT 30, DPT 17; composition - men 40, women 7, percent of women 14.9%; note - total Parliament percent of women 12.5%<br>
+_elections_: <br>National Council - last held on 20 April 2023 (next to be held in 2028)<br>National Assembly - first round held on 15 September 2018 and second round held on 18 October 2018 (next to be held in October 2023)<br>
+_election results_: <br>National Council - seats by party - independent 20 (all candidates ran as independents) and 5 appointed by the king; composition (elected only) - men 19, women 1, percent of women 5%; note - composition of 5 appointments by the king unavailable as of mid-May 2023<br>National Assembly - first round - percent of vote by party - DNT 31.9%, DPT 30.9%, PDP 27.4%, BKP 9.8%; second round - percent of vote by party - NA; seats by party - DNT 30, DPT 17; composition - men 40, women 7, percent of women 14.9%; note - total Parliament NA<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 4 associate&nbsp;justices); note - the Supreme Court has sole jurisdiction in constitutional matters<br>

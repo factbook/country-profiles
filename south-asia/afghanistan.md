@@ -281,12 +281,6 @@ _rate of urbanization_: 3.34% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0.45% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: Crimea-Congo hemorrhagic fever, malaria<br>
-<strong>note:</strong> Afghanistan is one of two countries with endemic wild polio virus (the other is Pakistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the US Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to civil conflict, population displacement, and economic slowdown -</em> between November 2021 and March 2022, during the winter lean season, the food insecurity situation was expected to deteriorate and the number of people in "Crisis" or above was likely to increase to 22.8 million, about 35% more than during the same season in 2020/21; following the developments of August 2021 in the country, the international aid flows, an important element of public spending, were halted; the food security situation and agricultural livelihoods in the country is likely to significantly deteriorate in the coming months due to cumulative and cascading impact of multiple shocks, including weather, conflict, economic crisis and the lingering effects of the COVID‑19 pandemic (2022)<br>
 
@@ -308,7 +302,7 @@ _industrial_: 170 million cubic meters (2020 est.)<br>
 _agricultural_: 20 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-65.33 billion cubic meters (2019 est.)<br>
+65.33 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -340,11 +334,10 @@ _etymology_: named for the Kabul River, but the river's name is of unknown origi
 previous: Independence Day, 19 August (1919); under the Taliban Government, 15 August (2022) is declared a national holiday, marking the anniversary of the victory of the Afghan jihad<br><br><br>
 
 **Constitution**<br>
-_history_: last ratified in 2004<br>
-_amendments_: formerly proposed by a commission formed by presidential decree followed by the convention of a Grand Council (Loya Jirga) decreed by the president; passage requires at least two-thirds majority vote of the Loya Jirga membership and endorsement by the president<br>
+_history_: several previous; latest ratified in 2004, suspended by the Taliban after taking over the country in 2021<br>
 
 **Legal system**<br>
-<p>before the Taliban's takeover of Kabul in August 2021, Afghanistan had a mixed legal system of civil, customary, and Islamic (sharia) law; after August 2021, the Taliban’s so-called “interim government” has claimed to be implementing its own interpretation of Islamic law, partially based on the Hanafi school of Islamic jurisprudence</p> (2021)<br>
+<p>the Taliban is implementing its own interpretation of Islamic law, which partially based on the Hanifi school of Islamic jurisprudence; before the Taliban takeover, Afghanistan had a mixed legal system of civil, customary, and Islamic law</p> (2021)<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; formerly accepted ICCt jurisdiction<br>
@@ -359,37 +352,30 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: <p>president (vacant); note – before 15 August, 2021, the president was both chief of state and head of government; President Ashraf GHANI departed the country on 15 August 2021; on 7 September 2021, the Taliban announced Mullah Mohammad HASSAN Akhund as the so-called “acting Prime Minister” of a self-proclaimed “interim government”; as of November 2021, the group had announced three acting self-proclaimed “Deputy Prime Ministers”: Mullah Abdul Ghani BERADER, Mullah Abdul Salam HANAFI, and Maulawi Abdul KABIR</p><br>
-_head of government_: president (vacant); note - President Ashraf GHANI departed the country on 15 August 2021; on 7 September 2021, the Taliban announced Mullah Mohammad HASSAN Akhund as the acting Prime Minister of an interim Taliban government; the US does not recognize the Taliban government; as of November 2021, the group had announced three acting Deputy Prime Ministers: Mullah Abdul Ghani BERADER, Mullah Abdul Salam HANAFI, and Maulawi Abdul KABIR<br>
-_cabinet_: before 15 August 2021, the cabinet formerly consisted of 25 ministers appointed by the president, approved by the National Assembly; the Taliban have announced a self-proclaimed &ldquo;cabinet&rdquo; which includes 33 ministries<br>
+_chief of state_: Overall Taliban Leader HAYBATULLAH Akhundzada serves as the head of the Taliban government as Amir-ul Momineen<br>note - on 7 September 2021, the Taliban announced Mohammad HASSAN Akhund as the “acting prime minister” of the "caretaker government”; as of November 2021, the group had announced three acting “deputy prime ministers” - Abdul Ghani BERADER, Abdul Salam HANAFI, and Abdul KABIR<br>
+_head of government_: Overall Taliban Leader HAYBATULLAH Akhundzada serves as the head of the Taliban government as Amir-ul Momineen<br>
+_cabinet_: includes the acting prime minister, acting deputy prime ministers, and 26 ministries<br>
 _elections/appointments_: the 2004 Afghan constitution directed that the president should be elected by majority popular vote for a 5-year term (eligible for a second term); election last held on 28 September 2019<br>
-_election results_: no elections have been held since 2019; in that election, Ashraf GHANI was declared winner by the Independent Election Commission on 18 February 2020; the IEC declared Ashraf GHANI the winner with 50.6% of the vote, Abdullah ABDULLAH, Dr. 39.5%, other 0.9%<br>
 
 **Legislative branch**<br>
-_description_: before 15 August, 2021, Afghanistan had a bicameral National Assembly that consisted of a House of Elders and a House of People; since August 15, the Taliban&rsquo;s self-proclaimed &ldquo;interim government&rdquo; has not purported to announce the formation of a legislative branch<br>
-_elections_: before 15 August, 2021:&nbsp; House of Elders - district councils - held within 5 days of installation; provincial councils - within 15 days of installation; and presidential appointees - within 2 weeks after the presidential inauguration; note - in early 2016, former President Ashraf Ghani extended their mandate until parliamentary and district elections could be held; former House of People - last held on 20 October 2018<br>
-_election results_: before 15 August 2021, House of Elders - percent of vote by party - NA; seats by party - NA; composition - men 85, women 17, percent of women 16.7%<br>before 15 August 2021, House of People - percent of vote by party NA; seats by party - NA; composition - men 181, women 69, percent of women 27.7%; note - total National Assembly percent of women 24.4%<br>
+_description_: the Taliban Government has not announced the formation of a legislative branch; before the 2021 Taliban takeover, Afghanistan had a bicameral National Assembly that consisted of the House of Elders and House of the People<br>
 
 **Judicial branch**<br>
-_highest court(s)_: the Taliban&rsquo;s self-proclaimed &ldquo;interim government&rdquo; has a &ldquo;Supreme Court&rdquo; (consisting of a supreme court chief and an unknown number of justices); before 15 August, 2021, Afghanistan had a Supreme Court (consisting of a supreme court chief and 8 justices organized into criminal, public security, civil, and commercial divisions)<br>
-_judge selection and term of office_: the court chief and justices were appointed by the president with the approval of the Wolesi Jirga; court chief and justices served single 10-year terms<br>
-_subordinate courts_: before 15 August 2021, consisted of Appeals Courts; Primary Courts; and Special Courts for issues including narcotics, security, property, family, and juveniles<br>
+_highest court(s)_: the Taliban Government has a Supreme Court: number of judges and organizational structure NA; note - before 15 August 2021, Afghanistan had a Supreme Court (consisting of a supreme court chief and 8 justices organized into criminal, public security, civil, and commercial divisions)<br>
+_judge selection and term of office_: the Taliban Supreme Court judge selection and term of office NA; note - before 15 August 2021, the Supreme Court chief and justices were appointed by the president with the approval of the Wolesi Jirga; court chief and justices served single 10-year terms<br>
+_subordinate courts_: the Taliban Government has many provincial-level courts, religious courts, and specialty courts<br>note - before 15 August 2021, consisted of Appeals Courts; Primary Courts; and Special Courts for issues including narcotics, security, property, family, and juveniles<br>
 
 **Political parties and leaders**<br>
-the Taliban&rsquo;s so-called &ldquo;interim government&rdquo; includes mostly Taliban members and not other political parties; before 15 August, 2021, the Ministry of Justice had licensed 72 political parties as of April 2019<br>
+the Taliban Government enforces an authoritarian state and has banned other political parties; note - before 15 August 2021, the Ministry of Justice had licensed 72 political parties as of April 2019<br>
 
 **International organization participation**<br>
-before 15 August, 2021, Afghanistan was a member or participant in the following organizations: ADB, CICA, CP, ECO, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (dialogue member), UN, UNAMA, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+member of the following organizations but cannot participate because the international community does not recognize the Taliban Government:&nbsp; ADB, CICA, CP, ECO, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (dialogue member), UN, UNAMA, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: the Afghan Embassy closed in March 2022<br>
-_chancery_: 2341 Wyoming Avenue NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 483-6410<br>
-_FAX_: [1] (202) 483-6488<br>
-_email address and website_: <br>info@afghanembassy.us<br><br>https://www.afghanembassy.us/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Chargé d’Affaires: Ian McCARY (since August 2021); note – since 15 August 2021, the United States has not yet made a decision whether to recognize the Taliban or any other entity as the Government of Afghanistan<br>
+_chief of mission_: the United States does not maintain a presence in Afghanistan and bases the Department of State's Afghanistan Affairs Unit in Doha, Qatar; note - the US Embassy in Kabul closed in August 2021<br>
 _embassy_: Embassy Kabul, operations have been suspended; Department of State’s Afghanistan Affairs Unit operates from Doha, Qatar. <p> </p> <p> </p> <p> </p> <p> </p><br>
 
 **Flag description**<br>

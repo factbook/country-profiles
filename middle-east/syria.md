@@ -94,7 +94,7 @@ Arab ~50%, Alawite ~15%, Kurd ~10%, Levantine ~10%, other ~15% (includes Druze, 
 
 **Languages**<br>
 Arabic (official), Kurdish, Armenian, Aramaic, Circassian, French, English<br>
-_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>ڕاستییەکانی جیهان، باشترین سەرچاوەیە بۆ زانیارییە بنەڕەتییەکان (Kurdish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 87% (official; includes Sunni 74% and Alawi, Ismaili, and Shia 13%), Christian 10% (includes Orthodox, Uniate, and Nestorian), Druze 3%<br>
@@ -277,7 +277,7 @@ _industrial_: 620 million cubic meters (2020 est.)<br>
 _agricultural_: 14.67 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-16.8 billion cubic meters (2019 est.)<br>
+16.8 billion cubic meters (2020 est.)<br>
 
 ## Government
 

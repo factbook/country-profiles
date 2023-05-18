@@ -288,13 +288,6 @@ _rate of urbanization_: 4.89% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0.02% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and Rift Valley fever<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to localized shortfalls in staple food production -</em> about 592,000 people are estimated to be in need of humanitarian assistance between May and September 2022, mainly located in northeastern regions, reflecting crop losses during the October–December “Vuli” 2021 and March–May “Masika” 2022 seasons due to poor rains; high food prices are also constraining households’ economic access to food (2022)<br>
 
@@ -385,7 +378,7 @@ _judge selection and term of office_: Court of Appeal and High Court justices ap
 _subordinate courts_: Resident Magistrates Courts; Kadhi courts (for Islamic family matters); district and primary courts<br>
 
 **Political parties and leaders**<br>
-Alliance for Change and Transparency (Wazalendo) or ACT-Wazalendo [Zitto KABWE]<br>Civic United Front (Chama Cha Wananchi) or CUF [Ibrahim Haruna LIPUMBA]<br>Party of Democracy and Development (Chama Cha Demokrasia na Maendeleo) or Chadema [Freeman MBOWE, Chairman]<br>Revolutionary Party of Tanzania (Chama Cha Mapinduzi) or CCM [Samia Suluhu HASSAN, Chairman]<br><br><strong>note: </strong>only parties with seats in the National Assembly listed<br>
+Alliance for Change and Transparency (Wazalendo) or ACT-Wazalendo [Zitto Zuberi KABWE]<br>Civic United Front (Chama Cha Wananchi) or CUF [Ibrahim Haruna LIPUMBA]<br>Party of Democracy and Development (Chama Cha Demokrasia na Maendeleo) or CHADEMA [Freeman Aikael MBOWE]<br>Revolutionary Party of Tanzania (Chama Cha Mapinduzi) or CCM [Samia Suluhu HASSAN<br><br><strong>note: </strong>only parties with seats in the National Assembly listed<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, EAC, EADB, EITI, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -752,7 +745,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 126,238 (Burundi), 82,220 (Democratic Republic of the Congo) (2023)<br>
+_refugees (country of origin)_: 126,493 (Burundi), 82,220 (Democratic Republic of the Congo) (2023)<br>
 
 **Illicit drugs**<br>
 <p>significant transit country for illicit drugs in East Africa; international drug-trafficking organizations and courier networks transit through Tanzania to smuggle heroin and methamphetamine from Southwest Asia; produces cannabis products and khat for domestic consumption and regional and international distribution; traffickers influence politicians, law enforcement, and others in positions of power with money</p> (2021)<br>

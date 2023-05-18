@@ -278,14 +278,6 @@ _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and dengue fever<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_aerosolized dust or soil contact diseases_: Lassa fever (2016)<br>
-
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to reduced incomes - </em>about 1.22 million people are projected to be in need of food assistance between June and August 2022, primarily due to food access constraints on account of the economic effects of the COVID-19 pandemic (2022)<br>
 
@@ -306,7 +298,7 @@ _industrial_: 60 million cubic meters (2020 est.)<br>
 _agricultural_: 600 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-226 billion cubic meters (2019 est.)<br>
+226 billion cubic meters (2020 est.)<br>
 
 ## Government
 

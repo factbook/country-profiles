@@ -280,10 +280,6 @@ _rate of urbanization_: 1.9% annual rate of change (2020-25 est.)<br>
 **Revenue from forest resources**<br>
 0.15% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 21 million tons (2012 est.)<br>
 _municipal solid waste recycled annually_: 2.625 million tons (2013 est.)<br>
@@ -307,7 +303,7 @@ _industrial_: 5.4 billion cubic meters (2020 est.)<br>
 _agricultural_: 61.35 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-57.5 billion cubic meters (2019 est.)<br>
+57.5 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -388,7 +384,7 @@ _email address and website_: <br>consulate@egyptembassy.net<br><br>https://www.e
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Daniel RUBINSTEIN (since 23 August 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires John P. DESROCHER (since 26 April 2023)<br>
 _embassy_: 5 Tawfik Diab St., Garden City, Cairo<br>
 _mailing address_: 7700 Cairo Place, Washington DC 20512-7700<br>
 _telephone_: [20-2] 2797-3300<br>
@@ -415,7 +411,7 @@ _selected World Heritage Site locales_: Memphis and its Necropolis (c); Ancient 
 ## Economy
 
 **Economic overview**<br>
-Africa&rsquo;s second largest economy; 2030 Vision to diversify markets; improving fiscal, external, and current accounts; resilient to COVID-19 disruptions; underperforming private sector; poor labor force participation; stimulus expanded credit access<br>
+Africa&rsquo;s second largest economy; 2030 Vision to diversify markets and energy infrastructure; improving fiscal, external, and current accounts; underperforming private sector; poor labor force participation; expanded credit access<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.264 trillion (2021 est.)<br>
@@ -531,7 +527,7 @@ $40.102 billion (2020 est.) note: data are in current year dollars<br>
 $53.523 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-United States 9%, United Arab Emirates 6%, Italy 6%, Turkey 6%, Saudi Arabia 6%, India 5% (2019)<br>
+United States 8%, Turkey 7%, Greece 7%, Italy 6%, India 5% (2021)<br>
 
 **Exports - commodities**<br>
 refined petroleum, crude petroleum, natural gas, nitrogen fertilizers, gold (2021)<br>
@@ -542,10 +538,10 @@ $72.482 billion (2020 est.) note: data are in current year dollars<br>
 $78.951 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 15%, Russia 7%, United States 6%, Saudi Arabia 6%, Germany 5%, Turkey 5% (2019)<br>
+China 18%, Saudi Arabia 9%, United States 6%, Russia 5%, Turkey 5% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, wheat, crude petroleum, cars, packaged medicines (2019)<br>
+refined petroleum, wheat, cars, crude petroleum, corn, packaged medicines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $39.824 billion (31 December 2021 est.)<br>

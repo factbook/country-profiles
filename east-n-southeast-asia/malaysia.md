@@ -267,12 +267,6 @@ _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0.02% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: dengue fever<br>
-_water contact diseases_: leptospirosis<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 12,982,685 tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 2,271,970 tons (2016 est.)<br>
@@ -284,7 +278,7 @@ _industrial_: 1.64 billion cubic meters (2020 est.)<br>
 _agricultural_: 2.51 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-580 billion cubic meters (2019 est.)<br>
+580 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -320,7 +314,7 @@ _history_: previous 1948; latest drafted 21 February 1957, effective 27 August 1
 _amendments_: proposed as a bill by Parliament; passage requires at least two-thirds majority vote by the Parliament membership in the bill&rsquo;s second and third readings; a number of constitutional sections are excluded from amendment or repeal; amended many times, last in 2019<br>
 
 **Legal system**<br>
-mixed legal system of English common law, Islamic (sharia) law, and customary law; judicial review of legislative acts in the Federal Court at request of supreme head of the federation<br>
+mixed legal system of English common law, Islamic law (sharia), and customary law; judicial review of legislative acts in the Federal Court at request of supreme head of the federation<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -341,7 +335,7 @@ _cabinet_: Cabinet appointed by the prime minister from among members of Parliam
 _elections/appointments_: king elected by and from the hereditary rulers of 9 states for a 5-year term; election is on a rotational basis among rulers of the 9 states; election last held on 24 January 2019 (next to be held in 2024); prime minister designated from among members of the House of Representatives; following legislative elections, the leader who commands support of the majority of members in the House becomes prime minister<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament of Malaysia or Parlimen Malaysia consists of:<br>Senate or Dewan Negara (70 seats; 44 members appointed by the king and 26 indirectly elected by 13 state legislatures; members serve 3-year terms)<br>House of Representatives or Dewan Rakyat (222 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms) (2019)<br>
+_description_: bicameral Parliament of Malaysia or Parlimen Malaysia consists of:<br>Senate or Dewan Negara (70 seats; 44 members appointed by the king and 26 indirectly elected by 13 state legislatures; members serve 3-year terms)<br>House of Representatives or Dewan Rakyat (222 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms) (2016)<br>
 _elections_: Senate - appointed<br>House of Representatives - last held on 19 Nov 2022 (next national elections scheduled for 2027)<br>
 _election results_: <br>Senate - appointed; composition - men 54, women 14, percent of women 20.6%<br><br>2022: House of Representatives - percent of vote by party/coalition - PH 37.5%, PN 30.4%, BN 22.4%, GPS 4%, WARISAN 1.8%, GRS 1.3%, other 2.6%; seats by party/coalition - PH 81, PN 73, BN 30, GPS 23, GRS 6, WARISAN 3, PBM 1, KDM 1, MUDA 1, independents/unaffiliated 3<br><br>2018: House of Representatives - percent of vote by party/coalition - PH 45.6%, BN 33.8%, PAS 16.9%, WARISAN 2.3%, other 1.4%; seats by party/coalition - PH 113, BN 79, PAS 18, WARISAN 8, USA 1, independent 3; composition - men 199, women 23, percent of women 10.4%; note - total Parliament percent of women 12.8%<br>
 <strong>note:</strong> as of May 2022, seats by party/coalition - PH 90, PN 50, BN 42, GPS 18, WARISAN 7, PEJUANG 4, PBM 3, PSB 1, MUDA 1, independent 4, vacant 2<br>

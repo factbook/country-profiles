@@ -283,15 +283,6 @@ _rate of urbanization_: 4.72% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0.03% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and dengue fever<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-_respiratory diseases_: meningococcal meningitis<br>
-<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Niger is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
-
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to internal conflict, high food prices, and floods - </em>about 2.87 million people are projected to be acutely food insecure during the June to August 2023 lean season period; this would be an improvement on the situation in 2022, mostly reflecting the sharp upturn in crop yields following the below‑average cereal output in 2021; persistent insecurity continues to disrupt livelihoods and has displaced over 360,000 people as of January 2023, mostly in the Diffa, Tahoua and Tillabery regions; high food prices, as well as the floods in 2022 that affected about 327,000 people, are additional factors that have aggravated food insecurity (2023)<br>
 
@@ -318,7 +309,7 @@ _industrial_: 40 million cubic meters (2020 est.)<br>
 _agricultural_: 2.35 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-34.1 billion cubic meters (2019 est.)<br>
+34.05 billion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -737,7 +728,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); 
 <p><em>Niger-Benin-Nigeria</em>: location of Niger-Benin-Nigeria tripoint is unresolved</p> <p><em>Niger-Burkina Faso</em>: the dispute with Burkina Faso was referred to the International Court of Justice (ICJ) in 2010; the ICJ ruled in 2013 that 786 sq km should go to Burkina Faso and 277 sq km to Niger; the ruling was implemented in 2015 and 2016, with Burkina Faso gaining 14 towns and Niger 4</p> <p><em>Niger-Cameroon-Nigeria</em>: only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Niger-Libya</em>: Libya claims about 25,000 sq km in a currently dormant dispute in the Tummo region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 188,006 (Nigeria), 66,084 (Mali) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 187,927 (Nigeria), 66,084 (Mali) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 376,809 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>

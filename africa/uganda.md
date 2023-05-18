@@ -278,14 +278,6 @@ _rate of urbanization_: 5.41% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and Trypanosomiasis-Gambiense (African sleeping sickness)<br>
-_water contact diseases_: schistosomiasis<br>
-_animal contact diseases_: rabies<br>
-<strong>note:</strong> on 15 November 2022, the US Centers for Disease Control and Prevention (CDC) issued an updated Level Two Travel Alert (Practice Enhanced Precautions) for Ebola virus in Uganda, currently present in the following districts: Mubende, Kyegegwa, Kassanda, Kagadi, Bunyangabu, Kampala, Wakiso, Masaka City, and Jinja, and recommended that people avoid non-essential travel to these regions; this outbreak has been linked to the <em>Sudan ebolavirus </em>for which there are no vaccines or therapeutics approved for prevention or treatment of the <em>Sudan ebolavirus</em>; in addition, on 6 October 2022, the State Department issued a Level Three Travel Advisory to reconsider travel to Uganda and also announced the following "The Department of Homeland Security (DHS) and the CDC announced entrance screening for travelers who have been in Uganda in the last 21 days.  All U.S.-bound passengers who have been in Uganda at any point in the 21 days prior to their arrival will be routed to one of the following designated airports: New York (JFK), Newark (EWR), Atlanta (ATL), Chicago (ORD), or Washington (IAD), where they will undergo enhanced screening, including a health questionnaire and temperature checks. This applies to all passengers, including U.S. citizens, lawful permanent residents, and foreign nationals (to include Diplomatic and Official visas)."<br>
-
 **Food insecurity**<br>
 _severe localized food insecurity_: <em><em>due to weather extremes, </em></em><em>civil insecurity, and high food prices</em><em>-</em> in Karamoja Region, about 518,000 people, 41% of the population, are estimated to be severely food insecure between March and July 2022, as a result of consecutive poor rainy seasons that adversely affected crop and livestock production, frequent episodes of cattle rustling leading to the loss of productive assets, and high food prices (2022)<br>
 
@@ -309,7 +301,7 @@ _industrial_: 50 million cubic meters (2020 est.)<br>
 _agricultural_: 260 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-60.1 billion cubic meters (2019 est.)<br>
+60.1 billion cubic meters (2020 est.)<br>
 
 ## Government
 

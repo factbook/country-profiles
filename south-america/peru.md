@@ -286,11 +286,6 @@ _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: very high (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever, malaria, and Bartonellosis (Oroya fever)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 8,356,711 tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 334,268 tons (2012 est.)<br>
@@ -314,7 +309,7 @@ _industrial_: 3.51 billion cubic meters (2020 est.)<br>
 _agricultural_: 32.8 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-1.9 trillion cubic meters (2019 est.)<br>
+1.88 trillion cubic meters (2020 est.)<br>
 
 ## Government
 
@@ -720,7 +715,7 @@ _river port(s)_: Iquitos, Pucallpa, Yurimaguas (Amazon)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Joint Command of the Armed Forces of Peru (CCFFAA): Peruvian Army (Ejercito del Peru), Peruvian Navy (Marina de Guerra del Peru, MGP, includes naval infantry and Coast Guard), Air Force of Peru (Fuerza Aerea del Peru, FAP); Ministry of the Interior (Ministerio del Interior): Peruvian National Police (Polic&iacute;a Nacional del Per&uacute;, PNP) (2022)<br>
+Armed Forces of Peru (Fuerzas Armadas del Per&uacute; or FAP): Peruvian Army (Ejercito del Peru), Peruvian Navy (Marina de Guerra del Peru, MGP, includes naval infantry and Coast Guard), Air Force of Peru (Fuerza Aerea del Peru, FAP); Ministry of the Interior (Ministerio del Interior): Peruvian National Police (Polic&iacute;a Nacional del Per&uacute;, PNP) (2023)<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2022 est.)<br>

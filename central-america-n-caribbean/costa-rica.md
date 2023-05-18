@@ -272,12 +272,6 @@ _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: intermediate (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: dengue fever<br>
-<strong>note: </strong>on 17 April 2023, the Centers for Disease Control and Prevention (CDC) issued a Travel Alert for an outbreak of <em>Plasmodium falciparum</em> malaria in the province of Limón, Costa Rica; there is also malaria transmission in Alajuela Province; public health authorities in Costa Rica are responding to this outbreak by enhancing malaria surveillance; CDC now recommends malaria chemoprohylaxis for travelers visiting Limón and Alajuela Provinces in Costa Rica prior to travel; the parasite <em>P. falciparum</em>, which is found worldwide in tropical and subtropical areas is spread through the bite of female mosquitoes of the genus <em>Anopheles</em>; <em>P. falciparum</em> can cause severe malaria because it multiples rapidly in the blood, and can thus cause severe blood loss (anemia); in addition, the infected parasites can clog small blood vessels; when this occurs in the brain, cerebral malaria results, a complication that can be fatal; seek medical care if you develop fever, chills, sweats, headache, vomiting, or body aches; malaria is a medical emergency, and appropriate treatment should not be delayed (see attached map)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.46 million tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 18,396 tons (2014 est.)<br>
@@ -289,7 +283,7 @@ _industrial_: 230 million cubic meters (2020 est.)<br>
 _agricultural_: 2.08 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
-113 billion cubic meters (2019 est.)<br>
+113 billion cubic meters (2020 est.)<br>
 
 ## Government
 
