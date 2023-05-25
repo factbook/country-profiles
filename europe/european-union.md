@@ -236,7 +236,7 @@ European United Left-Nordic Green Left or GUE/NGL [Manon AUBRY and Martin SCHIRD
 ARF, ASEAN (dialogue member), Australian Group, BIS, BSEC (observer), CBSS, CERN, EBRD, FAO, FATF, G-8, G-10, G-20, IDA, IEA, IGAD (partners), LAIA (observer), NSG (observer), OAS (observer), OECD, PIF (partner), SAARC (observer), SICA (observer), UN (observer), UNRWA (observer), WCO, WTO, ZC (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Stavros LAMBRINIDIS (since 1 March 2019)<br>
+_chief of mission_: Ambassador Stavros LAMBRINIDIS (since 8 March 2019)<br>
 _chancery_: 2175 K Street NW, Suite 800, Washington, DC 20037<br>
 _telephone_: [1] (202) 862-9500<br>
 _FAX_: [1] (202) 429-1766<br>
@@ -446,11 +446,11 @@ _annual passenger traffic on registered air carriers_: 636,860,155 (2018)<br>
 _annual freight traffic on registered air carriers_: 31,730,660,000 (2018)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1,882<br>
+1,882<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 1,244<br>
+1,244<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>

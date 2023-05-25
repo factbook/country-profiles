@@ -149,7 +149,7 @@ a coastal radio station has been remotely operated since 1994<br>
 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 1<br>
+1<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Ports and terminals**<br>

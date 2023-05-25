@@ -344,7 +344,7 @@ _election results_: <br>Senate - percent of vote by party - NA; seats by party -
 <em>note:</em> the Chamber of Deputies is currently defunct, and the Senate is only one-third filled (not enough seats for a quorum)<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Cour de cassation (consists of a chief judge and other judges); note 1 - the Cour de cassation currently has no chief judge and only 3 sitting members and is not functional; note 2 - Haiti is a member of the Caribbean Court of Justice; &nbsp;Constitutional Court, called for in the 1987 constitution but not yet established; High Court of Justice, for trying high government officials - currently not functional<br>
+_highest court(s)_: Supreme Court or Cour de cassation (currently 11 of 12 judges as prescribed by the constitution, 8 of whom were appointed in March 2023); note - Haiti is a member of the Caribbean Court of Justice; Constitutional Court, called for in the 1987 constitution but not yet established; High Court of Justice, for trying high government officials - currently not functional<br>
 _judge selection and term of office_: judges appointed by the president from candidate lists submitted by the Senate of the National Assembly; note - Article 174 of Haiti's constitution states that judges of the Supreme Court are appointed for 10 years, whereas Article 177 states that judges of the Supreme Court are appointed for life<br>
 _subordinate courts_: Courts of Appeal; Courts of First Instance; magistrate's courts; land, labor, and children's courts<br>
 <strong>note</strong>: the Superior Council of the Judiciary or Conseil Superieur du Pouvoir Judiciaire is a 9-member body charged with the administration and oversight of the judicial branch of government<br>
@@ -635,11 +635,11 @@ HH<br>
 14 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 4<br>
+4<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 10<br>
+10<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>

@@ -246,7 +246,7 @@ _etymology_: the name may derive from a Proto-Slavic word reconstructed as "prys
 Independence Day, 17 February (2008)<br>
 
 **Constitution**<br>
-_history_: previous 1974, 1990; latest (postindependence) draft finalized 2 April 2008, signed 7 April 2008, ratified 9 April 2008, entered into force 15 June 2008; note - amendment 24, passed by the Assembly in August 2015, established the Kosovo Relocated Specialist Institution, referred to as the Kosovo Specialist Chamber or "Specialist Court," to try war crimes allegedly committed by members of&nbsp;the Kosovo Liberation Army in the late 1990s<br>
+_history_: previous 1974, 1990; latest (postindependence) draft finalized 2 April 2008, signed 7 April 2008, ratified 9 April 2008, entered into force 15 June 2008; note - amendment 24, passed by the Assembly in August 2015, established the Kosovo Relocated Specialist Institution, referred to as the Kosovo Specialist Chamber or "Specialist Court," to try war crimes, crimes against humanity, and other crimes under Kosovo law committed during and immediately after the Kosovo War (1998-2000)<br>
 _amendments_: proposed by the government, by the president of the republic, or by one fourth of Assembly deputies; passage requires two-thirds majority vote of the Assembly, including two-thirds majority vote of deputies representing non-majority communities, followed by a favorable Constitutional Court assessment; amended several times, last in 2020<br>
 
 **Legal system**<br>
@@ -555,11 +555,11 @@ Z6<br>
 6 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 3<br>
+3<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 3<br>
+3<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>

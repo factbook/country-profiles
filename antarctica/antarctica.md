@@ -152,7 +152,7 @@ _percent of population_: 100% (2021 est.)<br>
 17 (2021)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 17<br>
+17<br>
 <strong>note:</strong> unpaved runways have a surface composition such as snow, grass, and packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>

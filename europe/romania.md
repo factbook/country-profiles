@@ -650,11 +650,11 @@ YR<br>
 45 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 26<br>
+26<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 19<br>
+19<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
@@ -698,7 +698,7 @@ Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Interna
 approximately 75,000 active duty personnel (58,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised mostly of Soviet-era and older domestically produced weapons systems, although in recent years it has acquired a smaller mix of Western-origin equipment from European countries and the US (2022)<br>
+the military's inventory is comprised mostly of Soviet-era and older domestically produced weapons systems, although in recent years it has launched an effort to acquire more Western-origin equipment from European countries and the US, including aircraft and armored vehicles (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary service for men and women; all military inductees contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36; conscription ended in 2006 (2022)<br>
@@ -721,9 +721,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 97,085 (Ukraine) (as of 7 May 2023)<br>
+_refugees (country of origin)_: 94,952 (Ukraine) (as of 14 May 2023)<br>
 _stateless persons_: 297 (2022)<br>
-<strong>note:</strong> 13,622 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
+<strong>note:</strong> 13,699 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis</p><br>

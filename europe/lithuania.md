@@ -335,12 +335,12 @@ _chief of state_: President Gitanas NAUSEDA (since 12 July 2019)<br>
 _head of government_: Prime Minister Ingrida SIMONYTE (since 24 November 2020)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the president, and approved by Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 12 and 26 May 2019 (next to be held in May 2024); prime minister appointed by the president, approved by Parliament<br>
-_election results_: <em>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%<br><br><em>2014: </em>elected president; percent by vote Dalia GRYBAUSKAITE (independent) 59.1%, Zigmantas BALCYTIS (Social Democratic Party) 40.9%<br>
+_election results_: <em><br>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%<br><br><em>2014: </em>elected president; percent by vote Dalia GRYBAUSKAITE (independent) 59.1%, Zigmantas BALCYTIS (Social Democratic Party) 40.9%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 11 and 25 October 2020 (next to be held in October 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, LP 11, DP 10, LLRA-KSS 3, LSDDP 3, LT 1, LZP 1, independent 4; composition as of July 2022 - men 101, women 40, women 28 percent<br>
+_election results_: percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, LP 11, DP 10, LLRA-KSS 3, LSDDP 3, LT 1, LZP 1, independent 4; composition as of April 2023 - men 101, women 40, women 28 percent<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges)<br>
@@ -641,11 +641,11 @@ LY<br>
 61 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 22<br>
+22<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 39<br>
+39<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
@@ -706,7 +706,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 76,540 (Ukraine) (as of 11 April 2023)<br>
+_refugees (country of origin)_: 77,444 (Ukraine) (as of 12 May 2023)<br>
 _stateless persons_: 2,720 (2022)<br>
 
 **Illicit drugs**<br>

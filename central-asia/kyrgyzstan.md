@@ -362,10 +362,10 @@ _judge selection and term of office_: Supreme Court and Constitutional Court jud
 _subordinate courts_: Higher Court of Arbitration; oblast (provincial) and city courts<br>
 
 **Political parties and leaders**<br>
-Alyans (Alliance) [Mirlan JEENCHOROEV]<br>Ata-Jurt Kyrgyzstan (Homeland) or AJK [Aybek MATKERIMOV]<br>Butun Kyrgyzstan (United) [Adakhan MADUMAROV]<br>Ishenim (Trust) [Rysbat AMATOV]<br>Social Democrats or SDK [Temirlan SULTANBEKOV]<br>Yntymak (Unity) [Marlen MAMATALIEV]<br>Yiman Nuru (Light of Faith) [Nurjigit KADYRBEKOV]<br>
+Alyans (Alliance) [Mirlan JEENCHOROEV]<br>Ata-Jurt Kyrgyzstan (Homeland) or AJK [Aybek MATKERIMOV]<br>Butun Kyrgyzstan (United) [Adakhan MADUMAROV]<br>Ishenim (Trust) [Rysbat AMATOV and Azamat DOROYEV]<br>Social Democrats or SDK [Temirlan SULTANBEKOV]<br>Yntymak (Unity) [Marlen MAMATALIEV]<br>Yiman Nuru (Light of Faith) [Nurjigit KADYRBEKOV]<br>
 
 **International organization participation**<br>
-ADB, CICA, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PCA, PFP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PCA, PFP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Baktybek AMANBAYEV (since 7 July 2021)<br>
@@ -616,7 +616,7 @@ _total subscriptions_: 8.5 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 130 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the country&rsquo;s telecom sector (specifically the mobile segment) has been able to prosper; Kyrgyzstan has opened up its telecom market to competition; the mobile market has achieved high levels of penetration (140% in 2021) along with a fairly competitive operating environment with four major players; mobile broadband has come along strongly, reaching over 125% penetration in 2019 before falling back slightly during the Covid-19 crisis; slow-to-moderate growth is expected for both segments in coming years, supported by the anticipated rollout of 5G services starting from late 2022 (2022)<br>
+_general assessment_: the country&rsquo;s telecom sector (specifically the mobile segment) has been able to prosper; Kyrgyzstan has opened up its telecom market to competition; the mobile market has achieved high levels of penetration (140% in 2021) along with a fairly competitive operating environment with four major players; mobile broadband has come along strongly, reaching over 125% penetration in 2019 before falling back slightly during the Covid-19 crisis; slow-to-moderate growth is expected for both segments in coming years, supported by the anticipated rollout of 5G services which began testing in 2022 with a pilot service to follow some time in 2023 (2022)<br>
 _domestic_: fixed-line subscriptions 5 per 100; mobile-cellular subscribership up to over 130 per 100 persons (2021)<br>
 _international_: country code - 996; connections with other CIS (Commonwealth of Independent States, 9 members post-Soviet Republics in EU) countries by landline or microwave radio relay and with other countries by leased connections with Moscow international gateway switch and by satellite; satellite earth stations - 2 (1 Intersputnik, 1 Intelsat) (2019)<br>
 
@@ -648,11 +648,11 @@ EX<br>
 28 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 18<br>
+18<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 10<br>
+10<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>

@@ -363,7 +363,7 @@ _judge selection and term of office_: president of the Supreme Court nominated b
 _subordinate courts_: administrative courts; military courts; local, regional and appellate courts subdivided into military, civil, criminal, labor, and family courts<br>
 
 **Political parties and leaders**<br>
-Agreement [Jaroslaw GOWIN]<br>Civic Platform or PO [Donald Tusk]<br>Konfederajca [Krzysztof BOSAK]<br>Law and Justice or PiS [Jaroslaw KACZYNSKI]<br>New Left or NL [Wlodzimierz CZARZASTY and Robert Biedron]<br>Poland 2050 [Szymon HOLOWNIA]<br>Polish People's Party or PSL [Wladyslaw KOSINIAK-KAMYSZ]<br>Republican Party or R [Adam BIELAN]<br>United Poland or SP [Zbigniew ZIOBRO]<br>
+Agreement [Jaroslaw GOWIN]<br>Civic Platform or PO [Donald TUSK]<br>Konfederajca [Krzysztof BOSAK]<br>Law and Justice or PiS [Jaroslaw KACZYNSKI]<br>New Left or NL [Wlodzimierz CZARZASTY and Robert BIEDRON]<br>Poland 2050 [Szymon HOLOWNIA]<br>Polish People's Party or PSL [Wladyslaw KOSINIAK-KAMYSZ]<br>Republican Party or R [Adam BIELAN]<br>United Poland or SP [Zbigniew ZIOBRO]<br>
 
 **International organization participation**<br>
 Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNMISS, UNOCI, UN Security Council (temporary), UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -658,11 +658,11 @@ SP<br>
 126 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 87<br>
+87<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 39<br>
+39<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
@@ -737,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,593,860 (Ukraine) (as of 9 May 2023)<br>
+_refugees (country of origin)_: 1,602,062 (Ukraine) (as of 15 May 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

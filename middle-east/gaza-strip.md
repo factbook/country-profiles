@@ -478,7 +478,7 @@ _subscriptions per 100 inhabitants_: 7 (2020 est.)<br>
 1 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1<br>
+1<br>
 <strong>note:</strong> non-operational<br>
 
 **Heliports**<br>

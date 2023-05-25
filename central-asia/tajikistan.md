@@ -368,7 +368,7 @@ _FAX_: [1] (202) 223-6091<br>
 _email address and website_: <br>tajemus@mfa.tj; tajikistan@verizon.net<br><br>https://mfa.tj/en/washington<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador John Mark POMMERSHEIM (since 15 March 2019)<br>
+_chief of mission_: Ambassador Manuel P. MICALLER JR (since 9 March 2023)<br>
 _embassy_: 109-A Ismoili Somoni Avenue (Zarafshon district), Dushanbe 734019<br>
 _mailing address_: 7090 Dushanbe Place, Washington DC&nbsp; 20521-7090<br>
 _telephone_: [992] (37) 229-20-00<br>
@@ -609,7 +609,7 @@ _total subscriptions_: 12 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 120 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the nation of Tajikistan has had to struggle through a further two years of economic hardship following the onset of the Covid-19 pandemic; the strain on financial resources inevitably means a continuation of the absence of any meaningful investment or development programs for telecommunications infrastructure; the fixed line telephony and fixed broadband markets continue to languish far behind the mobile sector in terms of teledensity and penetration; with only around 6,000 fixed broadband customers (0.07% penetration), there would appear to be massive growth potential, but the limited fixed line infrastructure in the country suggests there&rsquo;s little likelihood of that occurring any time soon; the size of Tajikistan&rsquo;s mobile market dwarfs the fixed line segment, with an estimated penetration rate of nearly 120%; with a number of private sector companies active in the mobile market, there been more commitment to investment in network upgrades and expansion; three MNOs have all launched commercial 5G services, initially in areas of the capital city Dushanbe; the move towards higher speed mobile services should further underpin the growth in the nascent mobile broadband market, which is still estimated to be at a relatively low penetration level of 42% (at least relative to most other Asian nations) but is predicted to be a strong compound annual growth rate of more than 8% for at least the next five years (2021)<br>
+_general assessment_: the nation of Tajikistan has had to struggle through economic hardship following the onset of the Covid-19 pandemic; the strain on financial resources inevitably means a continuation of the absence of any meaningful investment or development programs for telecommunications infrastructure; the fixed line telephony and fixed broadband markets continue to languish far behind the mobile sector in terms of teledensity and penetration; with only around 6,000 fixed broadband customers (0.07% penetration), there would appear to be growth potential, but the limited fixed line infrastructure in the country suggests there&rsquo;s little likelihood of that occurring any time soon; the size of Tajikistan&rsquo;s mobile market dwarfs the fixed line segment, with an estimated penetration rate of nearly 120%; with a number of private sector companies active in the mobile market, there been more commitment to investment in network upgrades and expansion; three MNOs have all launched commercial 5G services, initially in areas of the capital city Dushanbe; the move towards higher speed mobile services should further underpin the growth in the nascent mobile broadband market, which is still estimated to be at a relatively low penetration level of 42% (at least relative to most other Asian nations) but is predicted to be a strong compound annual growth rate of more than 8% for at least the next five years (2021)<br>
 _domestic_: fixed-line over 5 per 100 and mobile-cellular over 120 per 100 (2021)<br>
 _international_: country code - 992; linked by cable and microwave radio relay to other CIS republics and by leased connections to the Moscow international gateway switch; Dushanbe linked by Intelsat to international gateway switch in Ankara (Turkey); 3 satellite earth stations - 2 Intelsat and 1 Orbita<br>
 
@@ -642,11 +642,11 @@ EY<br>
 24 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 17<br>
+17<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 7<br>
+7<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>

@@ -331,7 +331,7 @@ _elections/appointments_: president elected by Hellenic Parliament for a 5-year 
 _election results_: <em>2020:</em> Katerina SAKELLAROPOULOU (independent) elected president by Parliament - 261 of 300 votes; note - SAKELLAROPOULOU is Greece's first woman president<br><br><em>2015:</em> Prokopis PAVLOPOULOS (ND) elected president by Parliament - 233 of 300 votes<br>
 
 **Legislative branch**<br>
-_description_: unicameral Hellenic Parliament or Vouli ton Ellinon (300 seats; 280 members in multi-seat constituencies and 12 members in a single nationwide constituency directly elected by open party-list proportional representation vote; 8 members in single-seat constituencies elected by simple majority vote; members serve up to 4 years); &nbsp;note - only parties surpassing a 3% threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold<br>
+_description_: unicameral Hellenic Parliament or Vouli ton Ellinon (300 seats; 280 members in multi-seat and single-seat constituencies and 15 members - including 3 seats for Greek diaspora - in a single nationwide constituency directly elected by open party-list proportional representation vote; members serve up to 4 years); &nbsp;note - only parties surpassing a 3% threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold<br>
 _elections_: last held on 7 July 2019 (next to be held on 21 May 2023)<br>
 _election results_: percent of vote by party - ND 39.9%, SYRIZA 31.5%, KINAL 8.1%, KKE 5.3%, Greek Solution 3.7%, MeRA25 3.4%, other 8.1%; seats by party - ND 158, SYRIZA 86, KINAL 22, KKE 15, Greek Solution 10, MeRA25 9; composition - men 244, women 56, percent of women 18.7%<br>
 
@@ -347,7 +347,7 @@ Anticapitalist Left Cooperation for the Overthrow or ANTARSYA [collective leader
 Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Alexandra PAPADOPOULOU (since 6 February 2021)<br>
+_chief of mission_: Ambassador Alexandra PAPADOPOULOU (since 6 February 2020)<br>
 _chancery_: 2217 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-1300<br>
 _FAX_: [1] (202) 939-1324<br>
@@ -637,11 +637,11 @@ SX<br>
 77 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 68<br>
+68<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 9<br>
+9<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
@@ -713,7 +713,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 22,704 (Ukraine) (as of 31 March 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,238,209 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
+<strong>note:</strong> 1,238,391 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

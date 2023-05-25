@@ -360,7 +360,7 @@ _subordinate courts_: Appellate Court; provincial and municipal courts; Military
 
 **Political parties and leaders**<br>
 Candlelight Party or CP (the latest incarnation of the Sam <u>Rainsy</u> Party or SRP, which joined with the Human Rights Party or HRP to form the Cambodia National Rescue Party or CNRP in 2012; the CNRP was dissolved in 2017)<br>Cambodian People's Party or CPP [HUN SEN]<br>Cambodian Youth Party [PICH Sros]<br>Grassroots Democratic Party [YENG Virak]<br>Khmer National Unity Party or KNUP (an offshoot of FUNCINPEC) [NHEK BUN CHHAY]<br>League for Democracy Party or LDP [KHEM Veasna]<br>National United Front for Independent, Neutral, Peaceful, and Cooperative Cambodia or FUNCINPEC [Prince NORODOM CHAKRAVUTH]<br>
-<strong>note 1: </strong>42 parties had registered with the Cambodian Government at the beginning of 2023 <br><br><strong>note 2:</strong> following the 2017 commune election, the CPP-led government arrested the CNRP president Kem SOKHA for treason, dissolved the party on similar grounds, and forced most of its senior leadership into exile, where the party’s former president, Sam RAINSY, had been living since late 2015; as of 2023, opposition parties, particularly the Candlelight Party, continue to report, intimidation, harassment, and arrests by the Cambodian Government<br>
+<strong>note 1: </strong>42 parties had registered with the Cambodian Government at the beginning of 2023 <br><br><strong>note 2:</strong> following the 2017 commune election, the CPP-led government arrested the CNRP president Kem SOKHA for treason, dissolved the party on similar grounds, and forced most of its senior leadership into exile, where the party’s former president, Sam RAINSY, had been living since late 2015; opposition parties, particularly the Candlelight Party, continue to report, intimidation, harassment, and arrests by the Cambodian Government; in May 2023, the Cambodian Government disqualified the Candlelight Party, which is the main opposition party, from the July 2023 election<br>
 
 **International organization participation**<br>
 ADB, ARF, ASEAN, CICA, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MINUSMA, MIGA, NAM, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -656,11 +656,11 @@ XU<br>
 16 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 6<br>
+6<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 10<br>
+10<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>

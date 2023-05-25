@@ -314,8 +314,8 @@ _elections_: Council of States - pending establishment as stipulated by the 2018
 _election results_: Council of States - percent of vote by party - NA; seats by party - SPLM 20, unknown 30; composition - men 44, women 6, percent of women 12%<br>National Legislative Assembly - percent of vote by party - NA; seats by party - SPLM 251, DCP 10, independent 6, unknown 133; composition - men 291, women 109, percent of women 27.3%; note - total National Legislature percent of women 25.6%<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of South Sudan - pending formation (will likely consist of a chief and deputy chief justices as well as 9 other justices)<br>
-_judge selection and term of office_: justices will be appointed by the president upon proposal of the pending Judicial Service Council, likely consisting of a 9-member judicial and administrative body; justice tenure to be set by the National Legislature<br>
+_highest court(s)_: Supreme Court of South Sudan (consists of a chief justice, deputy chief justice, and 5 additional justices); note - consistent with the 2008 Judiciary Act, the Transitional Constitution of South Sudan calls for 9, rather than 5 additional justices<br>
+_judge selection and term of office_: justices appointed by the president (the 2011 Transitional Constitution of South Sudan calls for the establishment of a Judicial Service Council to recommend prospective justices to the president, and for the justices' tenures to be set by the National Legislature; neither of these steps have been effectively implemented as of mid-2023)<br>
 _subordinate courts_: national level - Courts of Appeal; High Courts; County Courts; state level - High Courts; County Courts; customary courts; other specialized courts and tribunals<br>
 Note: in mid-2022, the Government of South Sudan inaugurated an Ad-hoc Judiciary Committee, a 12-member body led by two eminent jurists, which is charged with reviewing relevant laws, advising on judicial reform and restructuring of the judiciary<br>
 
@@ -564,11 +564,11 @@ Z8<br>
 89 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 4<br>
+4<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 84<br>
+84<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>

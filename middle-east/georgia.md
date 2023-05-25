@@ -89,7 +89,7 @@ Georgian (official) 87.6%, Azeri 6.2%, Armenian 3.9%, Russian 1.2%, other 1%; no
 _major-language sample(s)_: <br>მსოფლიო ფაქტების წიგნი, ძირითადი ინფორმაციის აუცილებელი წყარო. (Georgian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Eastern Orthodox Christian (official) 83.4%, Muslim 10.7%, Armenian Apostolic 2.9%, other 1.2% (includes Roman Catholic Christian, Jehovah's Witness, Yazidi, Protestant Christian, Jewish), none 0.5%, unspecified/no answer 1.2% (2014 est.)<br>
+Eastern Orthodox Christian (official) 83.4%, Muslim 10.7%, Armenian Apostolic&nbsp; Christian 2.9%, other 1.2% (includes Roman Catholic Christian, Jehovah's Witness, Yazidi, Protestant Christian, Jewish), none 0.5%, unspecified/no answer 1.2% (2014 est.)<br>
 
 **Demographic profile**<br>
 <p>Analyzing population trends in Georgia since independence in 1991 has proven difficult due to a lack of reliable demographic statistics.  Censuses were fairly accurately and regularly updated through a vital statistics system during Georgia’s period of Soviet rule, but from independence until about 2010, the system broke down as a result of institutional and economic change, social unrest, and large-scale outmigration.  The 2002 census is believed to have significantly overestimated the size of Georgia’s population, in part because respondents continued to include relatives living abroad as part of their household count.  The 2014 census indicates that Georgia’s population is decreasing and aging.  Census data shows that the median age increased from 34.5 years in 2002 to 37.7 years in 2014.  The working-age population (ages 15-65 years) was fairly high in 2002 and rose between 2005 and 2011. Nonetheless, Georgia did not reap economic benefits from this age structure, since the working-age population increase seems to have stimulated labor outmigration to Russia, Ukraine, and other neighboring countries.</p> <p>Since the Russian invasion of Ukraine in 2022, Georgia has seen its economy grow to its highest level in years due to the influx of Russian businesses, information and communications technology specialists, and money transfers.  This growth may only be temporary and conditions could still easily change depending on future events.  Meanwhile, the Russian inflow is also a source of concern, as some Georgians fear it could prompt Putin to target their country next.  In addition, Ukrainian refugees use Georgia not just as a transit country but also as a destination.  Some 25,000 Ukrainians remain in the country as of November 2022; they pose an additional strain on resources in Georgia, which has a significant population of its own displaced citizens – from the 2008 Russian occupation of Abkhazia and South Ossetia – who continue to need government support.</p><br>
@@ -339,9 +339,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em>2018:</em> Salome ZOURABICHVILI elected president in runoff; percent of vote - Salome ZOURABICHVILI (independent, backed by Georgian Dream) 59.5%, Grigol VASHADZE (UNM) 40.5%; Irakli GARIBASHVILI approved as prime minister by Parliamentary vote 89-2<br><br><em>2013:</em> Giorgi MARGVELASHVILI elected president (Georgian Dream) 62.1%, David BAKRADZE (ENM) 21.7%, Nino BURJANADZE (DM-UG) 10.2%, other 6%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Sakartvelos Parlamenti (150 seats statutory, 139 current; 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)<br>
+_description_: unicameral Parliament or Sakartvelos Parlamenti (150 seats statutory, 140 (as of May 2023); 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)<br>
 _elections_: last held on 31 October and 21 November 2020 (next to be held in October 2024)<br>
-_election results_: percent of vote by party - Georgian Dream 48.2%, UNM 27.2%, European Georgia 3.8%, Lelo 3.2%, Strategy 3.2%, Alliance of Patriots 3.1%, Girchi 2.9%, Citizens 1.3%, Labor 1%; seats by party - Georgian Dream 90, UNM 36, European Georgia 5, Lelo 4, Strategy 4, Alliance of Patriots 4, Girchi 4, Citizens 2, Labor 1; composition (as of October 2021) - men 117, women 27, percent of women 18.8%<br>
+_election results_: percent of vote by party - Georgian Dream 48.2%, UNM 27.2%, European Georgia 3.8%, Lelo 3.2%, Strategy 3.2%, Alliance of Patriots 3.1%, Girchi 2.9%, Citizens 1.3%, Labor 1%; seats by party - Georgian Dream 90, UNM 36, European Georgia 5, Lelo 4, Strategy 4, Alliance of Patriots 4, Girchi 4, Citizens 2, Labor 1; composition (as of October 2021) - men 117, women 27, percent of women 19.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 28 judges organized into several specialized judicial chambers; number of judges determined by the president of Georgia); Constitutional Court (consists of 9 judges); note - the Abkhazian and Ajarian Autonomous republics each have a supreme court and a hierarchy of lower courts<br>
@@ -643,11 +643,11 @@ _annual freight traffic on registered air carriers_: 750,000 (2018) mt-km<br>
 22 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 18<br>
+18<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 4<br>
+4<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>

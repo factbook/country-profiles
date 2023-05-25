@@ -642,11 +642,11 @@ _annual freight traffic on registered air carriers_: 1,404,410,000 (2018) mt-km<
 114 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 39<br>
+39<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 75<br>
+75<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
@@ -722,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Jemaah Islamiyah (JI); Abu Sayyaf Gro
 <p>piracy remains a problem in the Malacca Strait</p> <p><em>Malaysia-Brunei</em>: per Letters of Exchange signed in 2009, Malaysia in 2010 ceded two hydrocarbon concession blocks to Brunei; in 2009, the media reported that Brunei had dropped its claims to the Limbang corridor, but Brunei responded that the subject had never been discussed during recent talks between the two countries</p> <p><em>Malaysia-China-Philippines-Vietnam</em><strong>: </strong>while the 2002 "Declaration on the Conduct of Parties in the South China Sea" has eased tensions over the Spratly Islands, it is not the legally binding "code of conduct" sought by some parties, which is currently being negotiated between China and ASEAN; Malaysia was not party to the March 2005 joint accord among the national oil companies of China, the Philippines, and Vietnam on conducting marine seismic activities in the Spratly Islands</p> <p><em>Malaysia-Indonesia</em>: land and maritime negotiations with Indonesia are ongoing, and disputed areas include the controversial Tanjung Datu and Camar Wulan border area in Borneo and the maritime boundary in the Ambalat oil block in the Celebes Sea</p> <p><em>Malaysia-Philippines</em>: Philippines retains a dormant claim to the eastern part of Malaysia's Sabah State in northern Borneo</p> <p><em>Malaysia-Singapore</em>: disputes continue over deliveries of fresh water to Singapore, Singapore's land reclamation, bridge construction, and maritime boundaries in the Johor and Singapore Straits; in 2008, the International Court of Justice awarded sovereignty of Pedra Branca (Pulau Batu Puteh/Horsburgh Island) to Singapore, and Middle Rocks to Malaysia but did not rule on maritime regimes, boundaries, or disposition of South Ledge</p> <p><em>Malaysia-Thailand</em>: in 2008, separatist violence in Thailand's predominantly Muslim southern provinces prompts Malaysia to take measures to close and to monitor the border with Thailand to stem terrorist activities</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 157,866 (Burma) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 158,165 (Burma) (refugees and asylum seekers) (2022)<br>
 _stateless persons_: 113,930 (2022); note - Malaysia's stateless population consists of Rohingya refugees from Burma, ethnic Indians, and the children of Filipino and Indonesian illegal migrants; Burma stripped the Rohingya of their nationality in 1982; Filipino and Indonesian children who have not been registered for birth certificates by their parents or who received birth certificates stamped "foreigner" are not eligible to attend government schools; these children are vulnerable to statelessness should they not be able to apply to their parents' country of origin for passports<br>
 
 **Trafficking in persons**<br>

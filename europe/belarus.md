@@ -346,7 +346,7 @@ _election results_: Alyaksandr LUKASHENKA reelected president (9 August 2022); p
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Natsyyalny Skhod consists of:<br>Council of the Republic or Savet Respubliki (64 seats; 56 members indirectly elected by regional and Minsk city councils and 8 members appointed by the president; members serve 4-year terms)<br>House of Representatives or Palata Pradstawnikow (110 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms)<br>
-_elections_: <br>Council of the Republic - indirect election last held on 7 November 2019<br>House of Representatives - last held on 17 November 2019 (next to be held in 2024); OSCE observers determined that the election was neither free nor impartial and that vote counting was problematic in a number of polling stations; pro-LUKASHENKA candidates won every seat; international observers determined that the previous elections, on 28 September 2008, 23 September 2012, and 11 September 2016 also fell short of democratic standards, with pro-LUKASHENKA candidates winning every, or virtually every, seat<br>
+_elections_: <br>Council of the Republic - indirect election last held on 7 November 2019<br>House of Representatives - last held on 17 November 2019 (next to be held on 25 February 2024); OSCE observers determined that the election was neither free nor impartial and that vote counting was problematic in a number of polling stations; pro-LUKASHENKA candidates won every seat; international observers determined that the previous elections, on 28 September 2008, 23 September 2012, and 11 September 2016 also fell short of democratic standards, with pro-LUKASHENKA candidates winning every, or virtually every, seat<br>
 _election results_: <br>Council of the Republic - percent of vote by party - NA; seats by party - NA; composition - NA<br>House of Representatives - percent of vote by party - NA; seats by party - KPB 11, Republican Party of Labor and Justice 6, BPP 2, LDP 1, BAP 1, independent 89; composition - men 66, women 44, percent of women 40%<br>
 <strong>note:</strong> the US does not recognize the legitimacy of the National Assembly<br>
 
@@ -356,7 +356,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: oblast courts; Minsk City Court; town courts; Minsk city and oblast economic courts<br>
 
 **Political parties and leaders**<br>
-<strong>pro-government parties:</strong><br>Belarusian Agrarian Party or BAP [Mikhail RUSY]<br>Belarusian Patriotic Party or BPP [Mikalay ULAKHOVICH]<br>Belarusian Social Sport Party or BSSP [Uladzimir ALEKSANDROVICH]<br>Belaya Rus [Henadz DAVYDKA]<br>Communist Party of Belarus or KPB [Alyaksey SOKOL]<br>Liberal Democratic Party or LDP [Aleh GAYDUKEVICH]<br>Republican Party [Uladzimir BELAZOR]<br>Republican Party of Labor and Justice [Alyaksandr STSYAPANAW]<br>Social Democratic Party of Popular Accord [Syarhey YERMAK]<br><strong>opposition parties:</strong> <br>Belarusian Christian Democracy Party [Paval SEVYARYNETS, Volha KAVALKOVA, Vital RYMASHEWSKI] (unregistered)<br>Belarusian Party of the Green [Dzimtry KUCHUK]<br>Belarusian Party of the Left "Just World" [Syarhey KALYAKIN]<br>Belarusian Social-Democratic Assembly of BSDH [Syarhey CHERACHEN]<br>Belarusian Social Democratic Party ("Assembly") or BSDPH [Ihar BARYSAW]<br>Belarusian Social Democratic Party (People's Assembly) or BSDP [Mikalay STATKEVICH] (unregistered)<br>BPF Party [Ryhor KASTUSYOW]<br>Christian Conservative Party - BPF [Zyanon PAZNYAK]<br>United Civic Party or UCP [Mikalay KAZLOW]<br>
+<strong>pro-government parties:</strong><br>Belarusian Agrarian Party or BAP [Mikhail RUSY]<br>Belarusian Patriotic Party or BPP [Mikalay ULAKHOVICH]<br>Belarusian Social Sport Party or BSSP [Uladzimir ALEKSANDROVICH]<br>Belaya Rus [Henadz DAVYDKA]<br>Communist Party of Belarus or KPB [Alyaksey SOKOL]<br>Liberal Democratic Party or LDP [Aleh GAYDUKEVICH]<br>Republican Party [Uladzimir BELAZOR]<br>Republican Party of Labor and Justice [Alyaksandr STSYAPANAW]<br>Social Democratic Party of Popular Accord [Syarhey YERMAK]<br><strong>opposition parties:</strong> <br>Belarusian Christian Democracy Party [Paval SEVYARYNETS, Volha KAVALKOVA, Vital RYMASHEWSKI] (unregistered)<br>Belarusian Party of the Green [Dzimtry KUCHUK]<br>Belarusian Party of the Left "Just World" [Syarhey KALYAKIN]<br>Belarusian Social-Democratic Assembly of BSDH [Syarhey CHERACHEN]<br>Belarusian Social Democratic Party ("Assembly") or BSDPH [Ihar BARYSAW]<br>Belarusian Social Democratic Party (People's Assembly) or BSDP [Mikalay STATKEVICH] (unregistered)<br>BPF Party [Ryhor KASTUSYOW]<br>Christian Conservative Party-BPF [Zyanon PAZNYAK]<br>United Civic Party or UCP [Mikalay KAZLOW]<br>
 
 **International organization participation**<br>
 BSEC (observer), CBSS (observer), CEI, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFC, IFRCS, ILO, IMF, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OPCW, OSCE, PCA, PFP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer), ZC<br>
@@ -369,7 +369,7 @@ _FAX_: [1] (202) 986-1805<br>
 _email address and website_: <br>usa@mfa.gov.by<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;affaires ad interim, Deputy Chief of Mission &ndash; Ruben HARUTUNIAN (since 9 June 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires ad interim, Deputy Chief of Mission &ndash; Ruben HARUTUNIAN (since 9 June 2022)<br>
 _embassy_: 46 Starovilenskaya Street, Minsk 220002<br>
 _mailing address_: 7010 Minsk Place, Washington DC&nbsp; 20521-7010<br>
 _telephone_: [375] (17) 210-12-83/217-73-47/217-73-48<br>
@@ -650,11 +650,11 @@ EW<br>
 65 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 33<br>
+33<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 32<br>
+32<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>

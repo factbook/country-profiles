@@ -332,7 +332,7 @@ _elections/appointments_: <p>Libya’s first direct presidential election, sched
 **Legislative branch**<br>
 _description_: unicameral House of Representatives (Majlis Al Nuwab) or HoR (200 seats including 32 reserved for women; members directly elected by majority vote; member term NA); note - the High State Council serves as an advisory group for the HoR<br>
 _elections_: last held on 25 June 2014<br>
-_election results_: 25 June 2014 - percent of vote by party - NA; seats by party - NA; composition; note - only 188 of the 200 seats were filled in the June 2014 election because of boycotts and lack of security at some polling stations; some elected members of the HoR also boycotted the election<br>
+_election results_: percent of vote by party - NA; seats by party - NA; composition; note - only 188 of the 200 seats were filled in the June 2014 election because of boycotts and lack of security at some polling stations; some elected members of the HoR also boycotted the election<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Libya's judicial system consists of a supreme court, central high courts (in Tripoli, Benghazi, and Sabha), and a series of lower courts; the judicial system is factious given the ongoing tension between Libya's eastern and western regions; since 2011, Libyan political factions and armed groups have targeted judges and courthouses<br>
@@ -614,11 +614,11 @@ _annual passenger traffic on registered air carriers_: 927,153 (2018)<br>
 146 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 68<br>
+68<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 78<br>
+78<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>

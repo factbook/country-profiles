@@ -333,7 +333,7 @@ _residency requirement for naturalization_: 10 years; reduced to five years in t
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Notification Statement: the United States recognizes Juan GUAIDO as the Interim President of Venezuela<br><br>President Nicolas MADURO Moros (since 19 April 2013); Executive Vice President Delcy RODRIGUEZ Gomez (since 14 June 2018); note - the president is both chief of state and head of government<br>
+_chief of state_: Notification Statement: the United States does not recognize Nicolas MADURO Moros as president of Venezuela<br><br>President Nicolas MADURO Moros (since 19 April 2013); Executive Vice President Delcy RODRIGUEZ Gomez (since 14 June 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Nicolas MADURO Moros (since 19 April 2013); Executive Vice President Delcy RODRIGUEZ Gomez (since 14 June 2018)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 20 May 2018 (next election in 2024)<br>
@@ -356,14 +356,14 @@ _subordinate courts_: Superior or Appeals Courts (Tribunales Superiores); Distri
 Caricom (observer), CD, CDB, CELAC, FAO, G-15, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LAES, LAIA, LAS (observer), MIGA, NAM, OAS, OPANAL, OPCW, OPEC, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Carlos Alfredo VECCHIO (since 8 April 2019)<br>
+_chief of mission_: Ambassador (vacant); note - the embassy, which had been run by the Venezuelan political opposition, announced on 5 January 2023, that it had ended all embassy functions<br>
 _chancery_: 1099 30th Street NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 342-2214<br>
 _FAX_: [1] (202) 342-6820<br>
 _email address and website_: <br>despacho.embveus@mppre.gob.ve<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: James &ldquo;Jimmy&rdquo; STORY, Ambassador for the Venezuela Affairs Unit (since November 2020); note - on 11 March 2019, the Department of State announced the temporary suspension of operations of the US Embassy in Caracas and the withdrawal of diplomatic personnel; the Venezuela Affairs Unit is located at the United States Embassy in Bogota, Colombia<br>
+_chief of mission_: Ambassador (vacant); as of 19 May 2023, Francisco L. PALMIERI serves as the chief of mission of the Venezuelan Affairs Unit, located at the United States Embassy, Bogota, Colombia<br>
 _embassy_: Venezuela Affairs Unit, Carrera 45 N. 24B-27, Bogota<br><br>previously - F St. and Suapure St.; Urb. Colinas de Valle Arriba; Caracas 1080<br>
 _mailing address_: 3140 Caracas Place, Washington DC&nbsp; 20521-3140<br>
 _telephone_: 1-888-407-4747<br>  <br>
@@ -635,11 +635,11 @@ YV<br>
 444 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 127<br>
+127<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 317<br>
+317<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
@@ -669,8 +669,8 @@ _oil terminal(s)_: Jose terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bolivarian Army (Ejercito Bolivariano, EB), Bolivarian Navy (Armada Bolivariana, AB; includes marines, Coast Guard), Bolivarian Military Aviation (Aviacion Militar Bolivariana, AMB; includes a joint-service Aerospace Defense Command (Comando de Defensa Aeroespacial Integral, CODAI), Bolivarian Militia (Milicia Bolivariana), Bolivarian National Guard (Guardia Nacional Bolivaria, GNB) <br><br>Bolivarian National Police (Policía Nacional Bolivariana, PNB) includes the Special Action Forces (Fuerzas de Acciones Especiales, FAES) (2022)<br>
-<strong>note 1: </strong>the Bolivarian Militia was added as a "special component" to the FANB in 2020; it is comprised of armed civilians who receive periodic training in exchange for a small stipend<br><br><strong>note 2: </strong>the National Guard is responsible for maintaining public order, guarding the exterior of key government installations and prisons, conducting counter-narcotics operations, monitoring borders, and providing law enforcement in remote areas; it reports to both the Ministry of Defense and the Ministry of Interior, Justice, and Peace<br><br><strong>note 3: </strong>the PNB's FAES paramilitary unit was created by President MADURO after the 2017 anti-government protests to bolster internal security; it has been accused of multiple human rights abuses <br>
+Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bolivarian Army (Ejercito Bolivariano, EB), Bolivarian Navy (Armada Bolivariana, AB; includes marines, Coast Guard), Bolivarian Military Aviation (Aviacion Militar Bolivariana, AMB; includes a joint-service Aerospace Defense Command (Comando de Defensa Aeroespacial Integral, CODAI), Bolivarian Militia (Milicia Bolivariana), Bolivarian National Guard (Guardia Nacional Bolivaria, GNB); Ministry of Interior, Justice, and Peace: Bolivarian National Police (Policía Nacional Bolivariana, PNB) (2023)<br>
+<strong>note 1: </strong>the Bolivarian Militia was added as a "special component" to the FANB in 2020; it is comprised of armed civilians who receive periodic training in exchange for a small stipend<br><br><strong>note 2: </strong>the National Guard, established in 1937 and made a component of the FANB in 2007, is responsible for maintaining public order, guarding the exterior of key government installations and prisons, conducting counter-narcotics operations, monitoring borders, and providing law enforcement in remote areas; it reports to both the Ministry of Defense and the Ministry of Interior, Justice, and Peace<br><br><strong>note 3: </strong>the PNB is a federal force created by Hugo CHAVEZ in 2008 as a “preventative police force,” separate from state and local ones; the PNB largely focuses on policing Caracas’ Libertador municipality; patrolling Caracas-area highways, railways, and metro system, and protecting diplomatic missions; the PNB includes the Special Action Forces (Fuerzas de Acciones Especiales, FAES), a paramilitary unit created by President MADURO to bolster internal security after the 2017 anti-government protests; it has been accused of multiple human rights abuses    <br>
 
 **Military expenditures**<br>
 5.2% of GDP (2019 est.)<br>
@@ -684,7 +684,8 @@ information varies; approximately 125-150,000 active personnel, including about 
 <strong>note: </strong>in December 2022, President Nicolas MADURO announced that the National Police would be increased to 100,000 in 2024 <br>
 
 **Military equipment inventories and acquisitions**<br>
-the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of equipment from Western countries, including the US; in recent years, Russia has been the top supplier of military hardware to Venezuela (2022)<br>
+the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of mostly older equipment from Western countries, including the US; in recent years, Russia has been the top supplier of military hardware to Venezuela (2023)<br>
+<strong>note:</strong> the US prohibited the sale or transfer of military arms or technology to Venezuela in 2006<br>
 
 **Military service age and obligation**<br>
 18-30 (25 for women) for voluntary service; the minimum service obligation is 24-30 months; all citizens of military service age (18-50) are obligated to register for military service and subject to military training, although “forcible recruitment” is forbidden (2023)<br>

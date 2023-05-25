@@ -341,7 +341,7 @@ _election results_: <em><br>2019:</em> Zuzana CAPUTOVA reelected president in se
 **Legislative branch**<br>
 _description_: unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 29 February 2020 (next to be held in September 2023)<br>
-_election results_: percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina or SR 8.2%, LSNS 8%, SaS 6.2%, Za Ludi or ZL 5.8%, other 28.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12; composition (as of mid-2022) - men 118, women 77, percent of women 21.3%<br>
+_election results_: percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina or SR 8.2%, LSNS 8%, SaS 6.2%, Za Ludi or ZL 5.8%, other 28.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12; composition (as of April 2023) - men 117, women 33, percent of women 22%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Slovak Republic (consists of the court president, vice president, and approximately 80 judges organized into criminal, civil, commercial, and administrative divisions with 3- and 5-judge panels); Constitutional Court of the Slovak Republic (consists of 13 judges organized into 3-judge panels)<br>
@@ -642,11 +642,11 @@ OM<br>
 35 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 19<br>
+19<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 15<br>
+15<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
@@ -702,7 +702,7 @@ Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host
 <p><em>Slovakia-Austria</em>: none identified</p> <p><em>Slovakia-Czechia</em>: none identified</p> <p><em>Slovakia-Hungary</em>: initiated by the 1977 Budapest Treaty, Hungary and formerly Czechoslovakia agreed to a hydroelectric dam project on the Danube with dams to be constructed at Gabcikovo (Slovakia) and Nagymaros (Hungary) to prevent floods, improve river navigability, and to generate electricity; when Hungary suspended work on the project until its environmental impact could be assessed, Slovakia continued working on it and adopted a pared down strategy to divert the Danube so that all construction was within Czechoslovakian territory; Hungary terminated the project on environmental and economic grounds in 1989, and in 1992 both countries took the matter to the International Court of Justice (ICJ); the ICJ found largely in favor of then Slovakia, finding Hungary had breached their agreement; however, then Czechoslovakia should not have begun the alternative plan before the ICJ ruled on the case; in 2017, Hungary and Slovakia agreed to discontinue the ICJ proceedings</p> <p><em>Slovakia-Poland</em>: none identified</p> <p><em>Slovakia-Ukraine</em>: tens of thousands of Ukrainian refugees are crossing the border to Slovakia to escape the Russian invasion in their country</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 114,628 (Ukraine) (as of 7 May 2023)<br>
+_refugees (country of origin)_: 116,202 (Ukraine) (as of 14 May 2023)<br>
 _stateless persons_: 2,940 (2022)<br>
 
 **Illicit drugs**<br>

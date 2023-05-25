@@ -314,7 +314,7 @@ Independence Day, 21 September (1991)<br>
 
 **Constitution**<br>
 _history_: previous 1915, 1978; latest adopted 5 July 1995<br>
-_amendments_: proposed by the president of the republic or by the National Assembly; passage requires approval by the president, by the National Assembly, and by a referendum with at least 25% registered voter participation and more than 50% of votes; constitutional articles on the form of government and democratic procedures are not amendable; amended 2005, 2015, last in 2020<br>
+_amendments_: <p>proposed by the president of the republic or by the National Assembly; passage requires approval by the president, by the National Assembly, and by a referendum with at least 25% registered voter participation and more than 50% of votes; constitutional articles on the form of government and democratic procedures are not amendable; amended 2005, 2015, last in 2020; the Constitutional Reform Council formed in 2019 was dissolved in December 2021, and replaced by a new Constitutional Reform Council, whose members were officially appointed in late January 2022; the new council is expected to address the form of government, i.e. presidential or semi-presidential or parliamentary,  and whether to merge the Court of Cassation with the Constitutional Court</p><br>
 
 **Legal system**<br>
 civil law system<br>
@@ -345,7 +345,7 @@ _elections_: last held early on 20 June 2021 (next to be held in June 2026)<br>
 _election results_: percent of vote by party - Civil Contract 53.9%, Armenia Alliance 21.0%, I Have Honour Alliance 5.2%; seats by party - Civil Contract 71 of 107 seats, Armenia Alliance 29, I Have Honour Alliance 7; composition (as of April 2023) - men 69, women 38, percent of women 35.5%<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Court of Cassation (consists of the Criminal Chamber with a chairman and 5 judges and the Civil and Administrative Chamber with a chairman and 10 judges – with both civil and administrative specializations); Constitutional Court (consists of 9 judges)<br>
+_highest court(s)_: Court of Cassation or Appeals Court (consists of the Criminal Chamber with a chairman and 5 judges and the Civil and Administrative Chamber with a chairman and 10 judges &ndash; with both civil and administrative specializations); Constitutional Court (consists of 9 judges)<br>
 _judge selection and term of office_: Court of Cassation judges nominated by the Supreme Judicial Council, a 10-member body of selected judges and legal scholars; judges appointed by the president; judges can serve until age 65; Constitutional Court judges - 4 appointed by the president, and 5 elected by the National Assembly; judges can serve until age 70<br>
 _subordinate courts_: criminal and civil appellate courts; administrative appellate court; first instance courts; specialized administrative and bankruptcy courts<br>
 
@@ -636,11 +636,11 @@ EK<br>
 7 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 10<br>
+10<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 1<br>
+1<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>

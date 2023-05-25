@@ -165,7 +165,7 @@ has one or more meteorological stations on each possession<br>
 4 (2021)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 4<br>
+4<br>
 <strong>note 1: </strong>1 - Europa Island, 1 - Glorioso Islands, 1 - Juan de Nova Island, 1 - Tromelin Island<strong><br>note 2:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<strong><br></strong><br>
 
 **Heliports**<br>

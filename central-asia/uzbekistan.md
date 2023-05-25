@@ -93,7 +93,7 @@ Uzbek 83.8%, Tajik 4.8%, Kazakh 2.5%, Russian 2.3%, Karakalpak 2.2%, Tatar 1.5%,
 **Languages**<br>
 Uzbek (official) 74.3%, Russian 14.2%, Tajik 4.4%, other 7.1%<br>
 _major-language sample(s)_: <br>Jahon faktlari kitobi, asosiy ma'lumotlar uchun zaruriy manba. (Uzbek)<br><br>The World Factbook, the indispensable source for basic information.<br>
-<strong>note:</strong> in the autonomous Republic of Karakalpakstan, both the Karakalpak language and Uzbek have official status<br>
+<strong>note:</strong> in the semi-autonomous Republic of Karakalpakstan, both the Karakalpak language and Uzbek have official status<br>
 
 **Religions**<br>
 Muslim 88% (mostly Sunni), Eastern Orthodox 9%, other 3%<br>
@@ -361,7 +361,7 @@ Ecological Party of Uzbekistan (O'zbekiston Ekologik Partivasi) [Narzullo OBLOMU
 ADB, CICA, CIS, EAEU (observer), EAPC, EBRD, ECO, EEU (observer), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Javlon VAHOBOV (since 29 November 2017)<br>
+_chief of mission_: Ambassador Furqat SIDDIQOV (since 4 April 2023)<br>
 _chancery_: 1746 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 887-5300<br>
 _FAX_: [1] (202) 293-6804<br>
@@ -369,7 +369,7 @@ _email address and website_: <br>info.washington@mfa.uz<br><br>https://www.uzbek
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Daniel ROSENBLUM (since 24 May 2019)<br>
+_chief of mission_: Ambassador Jonathan HENICK (since 14 October 2022)<br>
 _embassy_: 3 Moyqorghon, 5th Block, Yunusobod District, 100093 Tashkent<br>
 _mailing address_: 7110 Tashkent Place, Washington DC&nbsp; 20521-7110<br>
 _telephone_: [998] 78-120-5450<br>
@@ -621,7 +621,7 @@ _domestic_: fixed-line nearly 17 per 100 persons and mobile-cellular teledensity
 _international_: country code - 998; linked by fiber-optic cable or microwave radio relay with CIS member states and to other countries by leased connection via the Moscow international gateway switch; the country also has a link to the Trans-Asia-Europe (TAE) fiber-optic cable; Uzbekistan has supported the national fiber-optic backbone project of Afghanistan since 2008<br>
 
 **Broadcast media**<br>
-the government controls media; 17 state-owned broadcasters - 13 TV and 4 radio - provide service to virtually the entire country; about 20 privately owned TV stations, overseen by local officials, broadcast to local markets; privately owned TV stations are required to lease transmitters from the government-owned Republic TV and Radio Industry Corporation; in 2019, the Uzbek Agency for Press and Information was reorganized into the Agency of Information and Mass Communications and became part of the Uzbek Presidential Administration with recent appointment of the Uzbek President's&nbsp;elder daughter as it deputy director (2019)<br>
+the government controls media; 17 state-owned broadcasters - 13 TV and 4 radio - provide service to virtually the entire country; about 20 privately owned TV stations, overseen by local officials, broadcast to local markets; privately owned TV stations are required to lease transmitters from the government-owned Republic TV and Radio Industry Corporation; in 2019, the Uzbek Agency for Press and Information was reorganized into the Agency of Information and Mass Communications and became part of the Uzbek Presidential Administration (2019)<br>
 
 **Internet country code**<br>
 .uz<br>
@@ -649,11 +649,11 @@ UK<br>
 53 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 33<br>
+33<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 20<br>
+20<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>

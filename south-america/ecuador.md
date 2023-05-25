@@ -362,7 +362,7 @@ _subordinate courts_: provincial courts (one for each province except Galapagos)
 Avanza Party or AVANZA [Javier ORTI Torres]<br>Central Democratic Movement or CD [Jimmy JAIRALA]<br>Citizen Revolution Movement or MRC or RC5 [Rafael CORREA]<br>Creating Opportunities Movement or CREO [Guillermo LASSO]<br>Democratic Left or ID [Rodrigo BORJA Cevallos]<br>Forward Ecuador Movement [Alvaro NOBOA]<br>Pachakutik Plurinational Unity Movement or MUPP [Guillermo CHURUCHUMBI]<br>Patriotic Society Party or PSP [Lucio Edwin GUTIERREZ Borbua]<br>Popular Democracy Movement or MPD [Luis VILLACIS]<br>Social Christian Party or PSC [Jaime NEBOT Saadi]<br>Socialist Party [Gustavo VALLEJO] <br>Society United for More Action or SUMA [Guillermo CELI]<br>
 
 **International organization participation**<br>
-CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, Pacific Alliance (observer), PCA, PROSUR, SICA (observer), UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, Pacific Alliance (observer), PCA, PROSUR, SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Ivonne Leila Juez De A-BAKI (since 6 February 2020)<br>
@@ -658,11 +658,11 @@ HC<br>
 432 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 104<br>
+104<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 328<br>
+328<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>

@@ -343,7 +343,7 @@ _election results_: percent of vote by party - LIBRE 39.8%, PNH 31.3%, PL 16.4%,
 <br><strong><em>note:</em></strong> seats by bloc or party as of 1 May 2022 - LIBRE 50, PNH 44, PL 22, PSH 10, DC 1, PAC 1<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges, including the court president, and 7 alternates; court organized into civil, criminal, constitutional, and labor chambers); note - the court has both judicial and constitutional jurisdiction<br>
+_highest court(s)_: Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges, including the court president, and 6 alternates; court organized into civil, criminal, constitutional, and labor chambers); note - the court has both judicial and constitutional jurisdiction<br>
 _judge selection and term of office_: court president elected by his peers; judges elected by the National Congress from candidates proposed by the Nominating Board, a diverse 7-member group of judicial officials and other government and non-government officials nominated by each of their organizations; judges elected by Congress for renewable, 7-year terms<br>
 _subordinate courts_: courts of appeal; courts of first instance; justices of the peace<br>
 
@@ -644,11 +644,11 @@ HR<br>
 103 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 13<br>
+13<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 90<br>
+90<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Railways**<br>

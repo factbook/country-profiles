@@ -659,11 +659,11 @@ _annual passenger traffic on registered air carriers_: 21,537 (2018)<br>
 47 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 5<br>
+5<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 42<br>
+42<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Railways**<br>
@@ -704,7 +704,7 @@ the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited
 18-25 years of age for voluntary military duty for men and women; 18-30 for those with degrees/diplomas in specialized fields such as medicine, engineering, chemistry, and education, or possess qualifications in some vocational skills; 9-year service obligation (2022)<br>
 
 **Military deployments**<br>
-6,800 Somalia (6,200 ATMIS; 625 UNSOM); 250 Equatorial Guinea (training mission) (2022)<br>
+6,500 Somalia (ATMIS; UNSOM); 250 Equatorial Guinea (training mission) (2023)<br>
 <strong>note:</strong> in December 2022, Uganda sent approximately 1,000 troops to the eastern part of the Democratic Republic of the Congo (DRC) as part of a newly formed East Africa Community Regional Force (EACRF) to assist the DRC military against the rebel group M23<br>
 
 **Military - note**<br>

@@ -309,7 +309,7 @@ Independence Day, 8 September (1991), also known as National Day<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 17 November 1991, effective 20 November 1991<br>
-_amendments_: proposed by the president of the republic, by the government, by at least 30 members of the Assembly, or by petition of at least 150,000 citizens; final approval requires a two-thirds majority vote by the Assembly; amended several times, last in 2019<br>
+_amendments_: proposed by the president of the republic, by the government, by at least 30 members of the Assembly, or by petition of at least 150,000 citizens; final approval requires a two-thirds majority vote by the Assembly; amended several times, last in 2019; this amendment was the result of the 2018 Prespa Agreement with Greece, in which the constitutional name of the country would be changed to the Republic of North Macedonia - previously the Republic of Macedonia -&nbsp; in exchange for assurances that Greece would no longer object to North Macedonia's integration in international organizations<br>
 
 **Legal system**<br>
 civil law system; judicial review of legislative acts<br>
@@ -631,11 +631,11 @@ Z3<br>
 10 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 8<br>
+8<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 2<br>
+2<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>

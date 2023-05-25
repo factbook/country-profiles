@@ -90,7 +90,7 @@ _noun_: Kazakhstani(s)<br>
 _adjective_: Kazakhstani<br>
 
 **Ethnic groups**<br>
-Kazakh (Qazaq) 68%, Russian 19.3%, Uzbek 3.2%, Ukrainian 1.5%, Uighur 1.5%, Tatar 1.1%, German 1%, other 4.4% (2019 est.)<br>
+Kazakh (Qazaq) 69.6%, Russian 17.9%, Uzbek 3.3%, Uyghur 1.5%, Ukrainian 1.3%,&nbsp; Tatar 1%, other 5.3% (2022 est.)<br>
 
 **Languages**<br>
 Kazakh (official, Qazaq) 83.1% (understand spoken language) and trilingual (Kazakh, Russian, English) 22.3% (2017 est.); Russian (official, used in everyday business, designated the "language of interethnic communication") 94.4% (understand spoken language) (2009 est.)<br>
@@ -349,14 +349,14 @@ _residency requirement for naturalization_: 5 years<br>
 **Executive branch**<br>
 _chief of state_: President Kasym-Zhomart TOKAYEV (since 20 March 2019)<br>
 _head of government_: Prime Minister Alikhan SMAILOV (since 11 January 2022); note - Prime Minister Askar MAMIN resigned on 5 January 2022 in the wake of massive protests of his government that began 2 January 2022 following a sudden, steep rise in gasoline prices<br>
-_cabinet_: the president appoints ministers based on the Prime Minister's recommendations; the president has veto power over all appointments and independently appoints the ministers of defense, internal affairs, and foreign affairs<br>
+_cabinet_: the president appoints ministers based on the prime minister's recommendations; the president has veto power over all appointments and independently appoints the ministers of defense, internal affairs, and foreign affairs<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (prior to September 2022, the president of Kazakhstan could serve up to two terms of five years each; the legislation was changed in September 2022, reducing the maximum number of terms to one term of seven years); election last held on 20 November 2022 (next to be held in 2029); prime minister and deputy prime ministers appointed by the president, approved by the Mazhilis<br>
-_election results_: <em>election results: 2022</em>: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV 81.3%, Zhiguli DAYRABAEV 3.4%, Karakat ABDEN 2.6%, Meyram KAZHYKEN 2.5%, Nurlan AUYESBAYEV 2.2%, Saltanat TURSYNBEKOVA 2.1%, other 5.8%<br><br><em>election results: 2019</em>: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV (Nur Otan currently Amanat) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br>
+_election results_: <em><br>2022</em>: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV 81.3%, Zhiguli DAYRABAEV 3.4%, Karakat ABDEN 2.6%, Meyram KAZHYKEN 2.5%, Nurlan AUYESBAYEV 2.2%, Saltanat TURSYNBEKOVA 2.1%, other 5.8%<br><br><em>election results: 2019</em>: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV (Nur Otan currently Amanat) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br>
 
 **Legislative branch**<br>
-_description_: bicameral legislature consists of:<br>Senate (49 seats statutory, 48 as of October 2021); 34 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (98 seats; 69 members elected from party lists in a single national constituency by proportional representation vote (5% minimum threshold to gain seats) and 29 are directly elected in single-mandate districts to serve 5-year terms<br>
+_description_: bicameral legislature consists of:<br>Senate (49 seats statutory, 48 as of October 2021); 34 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (98 seats; 69 members directly elected in a single national constituency by party list proportional representation vote (5% minimum threshold to gain seats) and 29 are directly elected in single-mandate districts to serve 5-year terms<br>
 _elections_: Senate - last held on 14 January 2023 (next to be held in August 2023)<br>Mazhilis - last held on 19 March 2023 (next to be held in 2026)<br>
-_election results_: <strong> </strong>Senate - percent of vote by party - NA; seats by party - NA; composition (as of October 2023) - men 17, women 3, percent of women 17.6%<br>Mazhilis - percent of vote by party - Amanat (formerly Nur Otan) 53.9%, Auvl 10.9%, Respublica 8.6%, Ak Zhol 8.4%, QHP 6.8%, NSDP 5.2%, Baytak 2.3%, Against all 3.9%; percent of vote by party (single-mandate districts) Amanat (formerly Nur Otan) 75.9%, Independent 24%; seats by party Amanat (formerly Nur Qtan) 62, Auvl 8, Respublica 6, Ak Zhol 6, QHP 5, NSDP 4, Independents 7; composition (as of March 2023) - men 80, women 18, percent of women 18.4%<br>
+_election results_: <strong><br></strong>Senate - percent of vote by party - NA; seats by party - NA; composition (as of April 2023) - men 39, women 11, percent of women 22%<br>Mazhilis - percent of vote by party - Amanat (formerly Nur Otan) 53.9%, Auvl 10.9%, Respublica 8.6%, Ak Zhol 8.4%, QHP 6.8%, NSDP 5.2%, Baytak 2.3%, Against all 3.9%; percent of vote by party (single-mandate districts) Amanat (formerly Nur Otan) 75.9%, Independent 24%; seats by party Amanat (formerly Nur Qtan) 62, Auvl 8, Respublica 6, Ak Zhol 6, QHP 5, NSDP 4, Independents 7; composition (as of March 2023) - men 80, women 18, percent of women 18.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Republic (consists of 44 members); Constitutional Council (consists of the chairperson and 6 members)<br>
@@ -658,11 +658,11 @@ UP<br>
 96 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 63<br>
+63<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 33<br>
+33<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>

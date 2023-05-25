@@ -645,11 +645,11 @@ ST<br>
 67 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 17<br>
+17<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 50<br>
+50<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
@@ -694,7 +694,7 @@ Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Suppo
 <strong>note:</strong> many defense expenditures are probably off-budget<br>
 
 **Military and security service personnel strengths**<br>
-estimates vary widely; up to 200,000 SAF personnel; the strength of the RSF ranges from a low of about 30,000 members to as many as 100,000&nbsp; (2023)<br>
+estimates vary widely; up to 200,000 SAF personnel; the strength of the RSF ranges from a low of about 30,000 members to as many as 100,000 (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, and domestically produced weapons systems; in recent years, Russia has been the leading arms provider; Sudan has one of the largest defense industries in Africa, which includes state-owned companies with military involvement; it mostly manufactures weapons systems under license from China, Russia, Turkey, and Ukraine (2022)<br>

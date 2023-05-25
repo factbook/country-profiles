@@ -388,7 +388,7 @@ Christian Democrat Party or PDC [Jose ENDUNDO]<br>Congolese Rally for Democracy 
 ACP, AfDB, AU, CEMAC, CEPGL, COMESA, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Marie-H&eacute;l&egrave;ne MATHEY-BOO (since 6 June 2022)<br>
+_chief of mission_: Ambassador Marie-H&eacute;l&egrave;ne MATHEY-BOO (since 7 June 2022)<br>
 _chancery_: 1100 Connecticut Avenue NW, Suite 725, Washington DC 20036<br>
 _telephone_: [1] (202) 234-7690; [1] (202) 234-7691<br>
 _FAX_: [1] (202) 234-2609<br>
@@ -672,11 +672,11 @@ _annual freight traffic on registered air carriers_: 890,000 (2018) mt-km<br>
 198 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 26<br>
+26<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 172<br>
+172<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>

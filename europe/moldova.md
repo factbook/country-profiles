@@ -342,8 +342,8 @@ _election results_: 2020: Maia SANDU elected president; percent of vote (second 
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (101 seats; 51 members directly elected in single-seat constituencies by simple majority vote and 50 members directly elected in a single, nationwide constituency by closed party-list proportional representation vote; all members serve 4-year terms<br>
-_elections_: <p>last held on 11 July 2021 (next scheduled in July 2025)</p><br>
-_election results_: <p>percent of vote by party - PAS 52.8%, BECS (PSRM+PCRM) 27.1%, SOR 5.7%; seats by party - PAS 63, BECS 32, SOR 6; composition as of July 2022 - men 60 percent, women 40 percent</p><br>
+_elections_: last held on 11 July 2021 (next scheduled in July 2025)<br>
+_election results_: <em><br></em>2021<em>: </em>percent of vote by party - PAS 52.8%, BECS (PSRM+PCRM) 27.1%, SOR 5.7%; seats by party - PAS 63, BECS 32, SOR 6; composition as of April 2023 - men 62, women 39, percent of women 38.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the chief judge, 3 deputy-chief judges, 45 judges, and 7 assistant judges); Constitutional Court (consists of the court president and 6 judges); note - the Constitutional Court is autonomous to the other branches of government; the Court interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government<br>
@@ -640,11 +640,11 @@ ER<br>
 7 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 5<br>
+5<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 2<br>
+2<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
@@ -699,7 +699,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 107,645 (Ukraine) (as of 30 April 2023)<br>
+_refugees (country of origin)_: 108,620 (Ukraine) (as of 14 May 2023)<br>
 _stateless persons_: 1,701 (2022)<br>
 
 **Illicit drugs**<br>

@@ -342,7 +342,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Ukhnaagiin KHURELSUKH (since 25 June 2021)<br>
-_head of government_: Prime Minister Luvsannamsrai OYUN-ERDENE (since 27 January 2021); Deputy Prime Minister Ulziisaikhan ENKHTUVSHIN (since 18 October 2017)<br>
+_head of government_: Prime Minister Luvsannamsrai OYUN-ERDENE (since 27 January 2021); Deputy Prime Minister Sainbuyen AMARSAIKHAN (since 8 September 2022)<br>
 _cabinet_: directly appointed by the prime minister following a constitutional amendment ratified in November 2019; prior to the amendment, the cabinet was nominated by the prime minister in consultation with the president and confirmed by the State Great Hural (parliament)<br>
 _elections/appointments_: presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple majority popular vote for one 6-year term; election last held on 9 June 2021; following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the State Great Hural<br>
 _election results_: Ukhnaagiin KHURELSUKH elected president in first round; percent of vote - Ukhnaa KHURELSUKH (Mongolian People's Party) 67.7%, Dangaasuren ENKHBAT (Right Person Coalition) 20.31%, Sodnomzundui ERDENE (Democratic Party) 5.99%<br>
@@ -358,8 +358,7 @@ _judge selection and term of office_: Supreme Court chief justice and judges app
 _subordinate courts_: aimag (provincial) and capital city appellate courts; soum, inter-soum, and district courts; Administrative Cases Courts<br>
 
 **Political parties and leaders**<br>
-Civil Will-Green Party or CWGP [Tserendorj GANKHUYAG] <br>Democratic Party or DP [Tsogtgerel ODON]<br>Justice Party [Batbayar NASANBILEG]<br>Mongolian National Democratic Party or MNDP [Bayanjargal TSOGTGEREL]<br>Mongolian People's Party or MPP [Luvsannamsrai OYUN-ERDENE]<br>Mongolian People's Revolutionary Party [Nambaryn ENKHBAYAR]<br>Mongolian Social Democratic Party or MSDP [Adiya GANBAATAR]<br>Mongolian Traditionally United Party or MTUP [Batdelgeriin BATBOLD]<br>National Labor Party or HUN [Togmid Dorhkhand]<br><br>Coalitions:<br>Our Coalition (MPRP, Civil Will-Green Party, and Mongolian Traditionally United Party)<br>Right Person Electorate Coalition or ZKEE (National Labor Party, Mongolian Social Democratic Party, Justice Party) <br>
-<strong>note:</strong> there were 36 registered parties for the 2020 legislative elections<br>
+36 parties registered for the 2020 legislative elections to the State Great Hural; among them, the following parties won seats:<br>Democratic Party or DP [Sodnomzunduin ERDENE]<br>Mongolian People's Party or MPP [Ukhnaagiin KHURELSUKH]<br><br>Others include:<br>Civil Will-Green Party or CWGP [Tserendorj GANKHUYAG] <br>Justice Party [Batbayar NASANBILEG]<br>Mongolian National Democratic Party or MNDP [Bayanjargal TSOGTGEREL]<br>Mongolian People's Revolutionary Party [Nambaryn ENKHBAYAR]<br>Mongolian Social Democratic Party or MSDP [Adiya GANBAATAR]<br>Mongolian Traditionally United Party or MTUP [Batdelgeriin BATBOLD]<br>National Labor Party or HUN [Togmidyn DORJKHAND]<br><br>Coalitions:<br>Our Coalition (MPRP, Civil Will-Green Party, and Mongolian Traditionally United Party)<br>Right Person Electorate Coalition or ZKEE (National Labor Party, Mongolian Social Democratic Party, Justice Party) [Togmidyn DORJKHAND]<br>
 
 **International organization participation**<br>
 ADB, ARF, CD, CICA, CP, EBRD, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, MONUSCO, NAM, OPCW, OSCE, SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -649,11 +648,11 @@ JU<br>
 44 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 15<br>
+15<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 29<br>
+29<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>

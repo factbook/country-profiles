@@ -382,7 +382,7 @@ Awami National Party or ANP [Asfandyar Wali KHAN]<br>Awami Muslim League or AML 
 ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNISFA, UNISFA, UNMISS, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Sardar Masood KHAN (since 14 April 2022)<br>
+_chief of mission_: Ambassador Sardar Masood KHAN (since 19 April 2022)<br>
 _chancery_: 3517 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 243-6500<br>
 _FAX_: [1] (202) 686-1534<br>
@@ -675,11 +675,11 @@ AP<br>
 151 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 108<br>
+108<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 43<br>
+43<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
@@ -724,7 +724,7 @@ Pakistan Army (includes National Guard), Pakistan Navy (includes marines, Mariti
 information varies; approximately 630,000 active duty personnel (550,000 Army; 30,000 Navy; 50,000 Air Force); approximately 150,000 Frontier Corps and Pakistan Rangers (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a broad mix of equipment, primarily from China, but also from such suppliers as France, Russia, Turkey, Ukraine, the UK, and the US; China has been the leading supplier of arms to Pakistan; Pakistan also has a large domestic defense industry&nbsp; (2023)<br>
+the military's inventory includes a broad mix of equipment, primarily from China, but also from such suppliers as France, Russia, Turkey, Ukraine, the UK, and the US; China has been the leading supplier of arms to Pakistan; Pakistan also has a large domestic defense industry (2023)<br>
 
 **Military service age and obligation**<br>
 16 (or 17 depending on service) to 23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; women serve in all three armed forces; reserve obligation to age 45 for enlisted men, age 50 for officers (2022)<br>

@@ -358,7 +358,7 @@ _election results_: <em><br>2022: </em>COR vote in first round - Latif RASHID (P
 **Legislative branch**<br>
 _description_: unicameral Council of Representatives of Iraq (COR) or Majlis an-Nuwwab al-Iraqiyy (329 seats; 320 members directly elected in 83 multi-seat constituencies by single nontransferable vote, 9 seats elected by religious minorities - 5 by Christians, 1 each by Sabaean-Mandaeans, Yazidis, Shabaks andFayli Kurds, and 25% of seats allocated to women; members serve 4-year terms)<br>
 _elections_: last held on 10 October 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party/coalition - NA; seats by party -Taqadum 47, State of Law Coalition 43, Kurdistan Democratic Party 31, Al Fatah Alliance 37, Kurdistan Coalition 18, Imtidad 16, State Forces Alliance 11, Ishraqat Kanun 10, New Generation Movement 9, National Contract Party 8, Tasmim Alliance 7, Babiliyun Movement 4, other 73; composition - men 234, women 95, percent of women 28.9%<br>note - seat counts reflect updated numbers after the Sadrist Trend withdrew from government formation and its 73 seats were reallocated to other parties<br>
+_election results_: percent of vote by party/coalition - NA; seats by party -Taqadum 47, State of Law Coalition 43, Al Fatah Alliance 37, Kurdistan Democratic Party 31, Kurdistan Coalition 18, Azm Alliance 16, Imtidad 16, State Forces Alliance 11, Ishraqat Kanun 10, New Generation Movement 9, National Contract Party 8, Tasmim Alliance 7, Babiliyun Movement 3, other 73; composition - men 234, women 95, percent of women 28.9%<br>note - seat counts reflect updated numbers after the Sadrist Trend withdrew from government formation and its 73 seats were reallocated to other parties<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court or FSC (consists of 9 judges); note - court jurisdiction limited to constitutional issues, application of federal laws, ratification of election results for the COR, judicial competency disputes, and disputes between regions or governorates and the central government; Court of Cassation (consists of a court president, 5 vice presidents, and at least 24 judges)<br>
@@ -372,7 +372,7 @@ Al Fatah Alliance [Hadi al-AMIRI]<br>Azm Alliance [Khamis al-KHANJAR]<br>Babiliy
 ABEDA, AFESD, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Mohammed Husham Malik AL FITYAN (since 22 March 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Salwin SINJAREE (since 25 July 2022)<br>
 _chancery_: 3421 Massachusetts Avenue NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 742-1600<br>
 _FAX_: [1] (202) 333-1129<br>
@@ -659,11 +659,11 @@ YI<br>
 102 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 72<br>
+72<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 30<br>
+30<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>
@@ -693,7 +693,7 @@ _river port(s)_: Al Basrah (Shatt al Arab); Khawr az Zubayr, Umm Qasr (Khawr az 
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command, Special Security Division (Green Zone protection)<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS; reports to the Prime Minister), Prime Minister's Special Forces Division, Presidential Brigades--Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Provincial Police;<br>Ministry of Oil: Energy Police Directorate<br><br>Popular Mobilization Committee (PMC): Popular Mobilization Forces (PMF), Tribal Mobilization Forces (TMF); the PMF and TMF are a collection of approximately 60 militias of widely varied sizes and political interests<br><br>the two main Kurdish political parties, the Kurdistan Democratic Party (KDP) and the Patriotic Union of Kurdistan (PUK), each maintain an independent security apparatus; the federal constitution provides the Kurdistan Regional Government the right to maintain internal security forces, but the KDP and the PUK separately controlled additional Peshmerga military units, as well as separate police forces under nominal Kurdistan Regional Government Ministry of Interior control; the constitution also allows for a centralized, separate internal security/intelligence (Asayish) service; however, the KDP and PUK also each maintain Asayish forces<br><br>Kurdistan Regional Government Ministry of Peshmerga: Regional Guard Brigades; Unit (or Division) 70 Forces and Counter Terrorism Group (CTG) of the PUK; Unit (or Division) 80 Forces and Counterterrorism Directorate (CTD) of the KDP; Kurdistan Regional Government Ministry of Interior: internal security forces include the Zeravani (KDP) and Emergency Response Forces (PUK) (2022)<br>
+Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command, Special Security Division (Green Zone protection)<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS; reports to the Prime Minister), Prime Minister's Special Forces Division, Presidential Brigades--Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Provincial Police;<br>Ministry of Oil: Energy Police Directorate<br><br>Popular Mobilization Committee (PMC): Popular Mobilization Forces (PMF), Tribal Mobilization Forces (TMF); the PMF and TMF are a collection of approximately 60 militias of widely varied sizes and political interests<br><br>the two main Kurdish political parties, the Kurdistan Democratic Party (KDP) and the Patriotic Union of Kurdistan (PUK), each maintain an independent security apparatus; the federal constitution provides the Kurdistan Regional Government the right to maintain internal security forces, but the KDP and the PUK separately controlled additional Peshmerga military units, as well as separate police forces under nominal Kurdistan Regional Government Ministry of Interior control; the constitution also allows for a centralized, separate internal security/intelligence (Asayish) service; however, the KDP and PUK also each maintain Asayish forces<br><br>Kurdistan Regional Government Ministry of Peshmerga: Regional Guard Brigades; Unit (or Division) 70 Forces and Counter Terrorism Group (CTG) of the PUK; Unit (or Division) 80 Forces and Counterterrorism Directorate (CTD) of the KDP; Kurdistan Regional Government Ministry of Interior: internal security forces include the Zeravani (KDP) and Emergency Response Forces (PUK) (2023)<br>
 
 **Military expenditures**<br>
 3.7% of GDP (2021 est.)<br>

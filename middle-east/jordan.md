@@ -91,7 +91,7 @@ _adjective_: Jordanian<br>
 
 **Ethnic groups**<br>
 Jordanian 69.3%, Syrian 13.3%, Palestinian 6.7%, Egyptian 6.7%, Iraqi 1.4%, other 2.6% (2015 est.)<br>
-<strong>note:</strong> data represent population by self-identified nationality<br>
+<strong>note:</strong> data represent population by self-identified nationality in national census<br>
 
 **Languages**<br>
 Arabic (official), English (widely understood among upper and middle classes)<br>
@@ -657,11 +657,11 @@ JY<br>
 18 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 16<br>
+16<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 2<br>
+2<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Heliports**<br>

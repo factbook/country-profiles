@@ -364,7 +364,7 @@ All Basotho Convention or ABC [Nkaku KABI]<br>Alliance of Democrats or AD [Monya
 ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Tumisang MOSOTHO (16 September 2022)<br><br>
+_chief of mission_: Ambassador Tumisang MOSOTHO (since 16 September 2022)<br>
 _chancery_: 2511 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 797-5533<br>
 _FAX_: [1] (202) 234-6815<br>
@@ -640,11 +640,11 @@ _subscriptions per 100 inhabitants_: 0.2 (2020 est.)<br>
 24 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 3<br>
+3<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 21<br>
+21<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>

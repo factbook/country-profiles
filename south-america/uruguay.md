@@ -653,11 +653,11 @@ CX<br>
 133 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 11<br>
+11<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 122<br>
+122<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Pipelines**<br>
@@ -685,8 +685,8 @@ _major seaport(s)_: Montevideo<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Coast Guard (Prefectura Nacional Naval)), Uruguayan Air Force (Fuerza Aerea); Ministry of Interior: National Police (2022)<br>
-<strong>note: </strong>the National Police includes the paramilitary National Republican Guard or Guardia Nacional Republicana <br>
+Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Coast Guard (Prefectura Nacional Naval or PRENA)), Uruguayan Air Force (Fuerza Aerea); Ministry of Interior: National Police (2023)<br>
+<strong>note: </strong>the National Police includes the paramilitary National Republican Guard or Guardia Nacional Republicana; the National Police maintains internal security, while the National Directorate for Migration is responsible for migration and border enforcement<br>
 
 **Military expenditures**<br>
 1% of GDP (2022 est.)<br>
@@ -703,7 +703,7 @@ the military's inventory includes a wide variety of older or second-hand equipme
 
 **Military service age and obligation**<br>
 18-30 years of age (18-22 years of age for Navy) for voluntary military service for men and women; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2023)<br>
-<strong>note:</strong> as of 2017, women comprised about 19% of the active military<br>
+<strong>note:</strong> as of 2023, women comprised nearly 20% of the active military<br>
 
 **Military deployments**<br>
 830 Democratic Republic of the Congo (MONUSCO); 210 Golan Heights (UNDOF) (May 2022)<br>

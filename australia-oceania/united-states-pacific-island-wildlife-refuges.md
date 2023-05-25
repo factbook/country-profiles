@@ -138,19 +138,10 @@ the flag of the US is used<br>
 ## Transportation
 
 **Airports**<br>
-_Baker Island_: (2013) one abandoned World War II runway of 1,665 m covered with vegetation and unusable<br>
-_Howland Island_: (2013) airstrip constructed in 1937 for scheduled refueling stop on the round-the-world flight of Amelia EARHART and Fred NOONAN; the aviators left Lae, New Guinea, for Howland Island but were never seen again; the airstrip is no longer serviceable<br>
-_Johnston Atoll_: (2013) one closed and not maintained<br>
-_Kingman Reef_: (2013) lagoon was used as a halfway station between Hawaii and American Samoa by Pan American Airways for flying boats in 1937 and 1938<br>
 _Midway Islands_: (2013) 3 - one operational (2,377 m paved); no fuel for sale except emergencies<br>
-_Palmyra Atoll_: (2013) 1 - 1,846 m unpaved runway; privately owned<br>
 
 **Airports - with paved runways**<br>
-_2,438 to 3,047 m_: 1 (2016) - Johnston Atoll<br>
 note - abandoned but usable<br>
-
-**Airports - with unpaved runways**<br>
-_1,524 to 2,437 m_: 1 (2016) - Palmyra Atoll<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Baker, Howland, and Jarvis Islands, and Kingman Reef<br>
