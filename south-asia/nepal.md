@@ -251,11 +251,6 @@ deforestation (overuse of wood for fuel and lack of alternatives); forest degrad
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban, Marine Life Conservation<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 94.33 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 9.11 megatons (2016 est.)<br>
-_methane emissions_: 41.15 megatons (2020 est.)<br>
-
 **Climate**<br>
 varies from cool summers and severe winters in north to subtropical summers and mild winters in south<br>
 
@@ -276,6 +271,11 @@ _rate of urbanization_: 3.09% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 94.33 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 9.11 megatons (2016 est.)<br>
+_methane emissions_: 41.15 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,768,977 tons (2016 est.)<br>

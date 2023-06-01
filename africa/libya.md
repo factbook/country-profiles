@@ -233,11 +233,6 @@ desertification; limited natural freshwater resources; the Great Manmade River P
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Climate Change-Paris Agreement, Law of the Sea<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 44.17 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 50.56 megatons (2016 est.)<br>
-_methane emissions_: 45.76 megatons (2020 est.)<br>
-
 **Climate**<br>
 Mediterranean along coast; dry, extreme desert interior<br>
 
@@ -253,14 +248,19 @@ _other_: 91.1% (2018 est.)<br>
 _urban population_: 81.6% of total population (2023)<br>
 _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to civil insecurity, economic and political instability, and high food prices -</em> an estimated 800,000 people, 10% of the population, need humanitarian assistance, of which 500,000 require food assistance; the country relies heavily on imports (up to 90%) to cover its cereal consumption requirements (mostly wheat for human consumption and barley for feed); between 2016 and 2020, the country sourced over 30% of its wheat imports from Ukraine, and 20% from the Russian Federation; almost 65% of total maize imports of 650,000 mt, and 50% of total barley imports of 1 million mt originated from Ukraine, making the Libya vulnerable to disruptions in shipments from the Black Sea region (2022)<br>
+
 **Revenue from forest resources**<br>
 0.06% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil insecurity, economic and political instability, and high food prices -</em> an estimated 800,000 people, 10% of the population, need humanitarian assistance, of which 500,000 require food assistance; the country relies heavily on imports (up to 90%) to cover its cereal consumption requirements (mostly wheat for human consumption and barley for feed); between 2016 and 2020, the country sourced over 30% of its wheat imports from Ukraine, and 20% from the Russian Federation; almost 65% of total maize imports of 650,000 mt, and 50% of total barley imports of 1 million mt originated from Ukraine, making the Libya vulnerable to disruptions in shipments from the Black Sea region (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 44.17 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 50.56 megatons (2016 est.)<br>
+_methane emissions_: 45.76 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,147,596 tons (2011 est.)<br>
@@ -660,13 +660,13 @@ both the forces aligned with the GNU and the LNA are largely equipped with weapo
 not available<br>
 
 **Military - note**<br>
-Turkey has provided military advisers to trained and assist western/GNU Libyan forces and thousands of Syrian mercenaries to Libya, as well as ammunition, weapons and aerial drones; Russia, the United Arab Emirates, and Egypt have been the main supporters of the LNA; Russia has provided as many as 2,000 private military contractors; the LNA has also used fighters from other countries, including Chad, Sudan, and Syria <br><br>ISIS continues to maintain a relatively weak presence in Libya with small bands of fighters operating out of ungoverned spaces and conducting small-scale attacks throughout the country (2023)<br>
+Turkey has provided military advisers to trained and assist western/GNU Libyan forces and thousands of Syrian mercenaries to Libya, as well as ammunition, weapons, and aerial drones; Russia, the United Arab Emirates, and Egypt have been the main supporters of the LNA; Russia has provided as many as 2,000 private military contractors; the LNA has also used fighters from other countries, including Chad, Sudan, and Syria; GNU and LNA forces are separated by a fortified line of control running roughly from the coastal city of Sirte south to the vicinity of Al Jufra and Brak (2023)<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
 Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham - Libya (ISIS-L); al-Mulathamun Battalion (al-Mourabitoun); al-Qa'ida in the Islamic Maghreb (AQIM)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note: </strong>details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
 

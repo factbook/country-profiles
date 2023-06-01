@@ -243,11 +243,6 @@ limited air pollution in urban centers; some water pollution from industrial was
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 5.88 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 45.87 megatons (2016 est.)<br>
-_methane emissions_: 4.46 megatons (2020 est.)<br>
-
 **Climate**<br>
 cold temperate; potentially subarctic but comparatively mild because of moderating influence of the North Atlantic Current, Baltic Sea, and more than 60,000 lakes<br>
 
@@ -268,6 +263,11 @@ _rate of urbanization_: 0.42% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 5.88 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 45.87 megatons (2016 est.)<br>
+_methane emissions_: 4.46 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2.738 million tons (2015 est.)<br>
@@ -341,7 +341,7 @@ _election results_: <em>2018:</em> Sauli NIINISTO reelected president; percent o
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms)<br>
-_elections_: last held on 02 April 2023 (next to be held on 30 April 2027)<br>
+_elections_: last held on 2 April 2023 (next to be held on 30 April 2027)<br>
 _election results_: percent of vote by party/coalition - Kok 24%, PS 23%, SDP 21.5%. Center Party 11.5%, Vihr 6.5%, Vas 5.5%, SFP 4.5%, KD 2.5%, Aland 0.5%; Movement Now 0.5%; seats by party/coalition - Kok 48, PS 46, SDP 43, Center Party 23, Vihr 13, Vas 11, SFP 9, KD 5; Aland 1; Movement Now 1; composition men 108, women 92, percent of women 46%<br>
 
 **Judicial branch**<br>
@@ -506,7 +506,7 @@ $97.789 billion (2020 est.) note: data are in current year dollars<br>
 $107.084 billion (2019 est.)<br>
 
 **Exports - partners**<br>
-Germany 14%, Sweden 10%, United States 8%, Netherlands 6%, China 6%, Russia 5% (2019)<br>
+Germany 13%, Sweden 9%, United States 8%, Netherlands 6%, China 6% (2021)<br>
 
 **Exports - commodities**<br>
 refined petroleum, kaolin coated paper, cars, lumber, stainless steel, wood pulp (2021)<br>
@@ -517,10 +517,10 @@ $97.037 billion (2020 est.) note: data are in current year dollars<br>
 $106.664 billion (2019 est.)<br>
 
 **Imports - partners**<br>
-Germany 16%, Sweden 14%, Russia 13%, China 6%, Netherlands 6% (2019)<br>
+Germany 16%, Sweden 15%, Russia 11%, China 7%, Netherlands 7% (2021)<br>
 
 **Imports - commodities**<br>
-crude petroleum, cars and vehicle parts, refined petroleum, broadcasting equipment, packaged medicines (2019)<br>
+cars and vehicle parts, crude petroleum, refined petroleum, broadcasting equipment, packaged medicines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $16.744 billion (31 December 2021 est.)<br>
@@ -714,6 +714,6 @@ Finland joined NATO in April 2023; Finland had been part of NATO’s Partnership
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 47,067 (Ukraine) (as of 16 May 2023)<br>
+_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 47,067 (Ukraine) (as of 23 May 2023)<br>
 _stateless persons_: 3,546 (2022)<br>
 

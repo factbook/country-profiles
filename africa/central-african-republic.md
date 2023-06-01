@@ -250,11 +250,6 @@ water pollution; tap water is not potable; poaching and mismanagement have dimin
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: Law of the Sea<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 49.5 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.3 megatons (2016 est.)<br>
-_methane emissions_: 22.44 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; hot, dry winters; mild to hot, wet summers<br>
 
@@ -270,14 +265,19 @@ _other_: 55.7% (2018 est.)<br>
 _urban population_: 43.6% of total population (2023)<br>
 _rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict and high food prices -</em> according to the latest analysis, issued in November 2022, the number of people in Crisis and above is estimated at 2.7 million between September 2022 and March 2023; this is mainly attributed to the impact of civil insecurity and high food prices; persisting insecurity and population displacements continue to affect agricultural activities and limit farmers’ access to crop growing areas and agricultural inputs; elevated international prices of fuel and fertilizers, largely imported, have reportedly led to a lower use of agricultural inputs in 2022, especially among smallholder farmers, with a negative impact on yields (2023)<br>
+
 **Revenue from forest resources**<br>
 8.99% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict and high food prices -</em> according to the latest analysis, issued in November 2022, the number of people in Crisis and above is estimated at 2.7 million between September 2022 and March 2023; this is mainly attributed to the impact of civil insecurity and high food prices; persisting insecurity and population displacements continue to affect agricultural activities and limit farmers’ access to crop growing areas and agricultural inputs; elevated international prices of fuel and fertilizers, largely imported, have reportedly led to a lower use of agricultural inputs in 2022, especially among smallholder farmers, with a negative impact on yields (2023)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 49.5 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.3 megatons (2016 est.)<br>
+_methane emissions_: 22.44 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,105,983 tons (2014 est.)<br>
@@ -692,6 +692,6 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,381 (Democratic Republic of Congo), 6,328 (refugees since 15 April 2023) (2023)<br>
+_refugees (country of origin)_: 6,381 (Democratic Republic of Congo), 10,368 (refugees since 15 April 2023) (2023)<br>
 _IDPs_: 483,074 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2023)<br>
 

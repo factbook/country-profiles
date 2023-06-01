@@ -223,11 +223,6 @@ inadequate supplies of potable water; pollution of Majuro lagoon from household 
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 9.43 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.14 megatons (2016 est.)<br>
-_methane emissions_: 0.03 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; hot and humid; wet season May to November; islands border typhoon belt<br>
 
@@ -245,6 +240,11 @@ _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 9.43 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.14 megatons (2016 est.)<br>
+_methane emissions_: 0.03 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 8,614 tons (2013 est.)<br>

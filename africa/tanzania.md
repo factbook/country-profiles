@@ -262,11 +262,6 @@ water pollution; improper management of liquid waste; indoor air pollution cause
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 25.59 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 11.97 megatons (2016 est.)<br>
-_methane emissions_: 59.08 megatons (2020 est.)<br>
-
 **Climate**<br>
 varies from tropical along coast to temperate in highlands<br>
 
@@ -282,14 +277,19 @@ _other_: 19% (2018 est.)<br>
 _urban population_: 37.4% of total population (2023)<br>
 _rate of urbanization_: 4.89% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to localized shortfalls in staple food production -</em> about 592,000 people are estimated to be in need of humanitarian assistance between May and September 2022, mainly located in northeastern regions, reflecting crop losses during the October–December “Vuli” 2021 and March–May “Masika” 2022 seasons due to poor rains; high food prices are also constraining households’ economic access to food (2022)<br>
+
 **Revenue from forest resources**<br>
 2.19% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0.02% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to localized shortfalls in staple food production -</em> about 592,000 people are estimated to be in need of humanitarian assistance between May and September 2022, mainly located in northeastern regions, reflecting crop losses during the October–December “Vuli” 2021 and March–May “Masika” 2022 seasons due to poor rains; high food prices are also constraining households’ economic access to food (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 25.59 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 11.97 megatons (2016 est.)<br>
+_methane emissions_: 59.08 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 9,276,995 tons (2012 est.)<br>

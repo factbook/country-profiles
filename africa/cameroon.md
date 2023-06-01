@@ -261,11 +261,6 @@ waterborne diseases are prevalent; deforestation and overgrazing result in erosi
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Nuclear Test Ban<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 65.26 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 8.29 megatons (2016 est.)<br>
-_methane emissions_: 30.71 megatons (2020 est.)<br>
-
 **Climate**<br>
 varies with terrain, from tropical along coast to semiarid and hot in north<br>
 
@@ -281,14 +276,19 @@ _other_: 37.7% (2018 est.)<br>
 _urban population_: 59.3% of total population (2023)<br>
 _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to civil insecurity, high food prices, and floods - </em>according to a November 2022 analysis (the latest available), about 3.6 million people were estimated to be acutely food insecure between October and December 2022, as a result of conflict, sociopolitical unrest and high food prices, as well as floods that caused people displacements, damaged standing crops and prevented access to fields (2023)<br>
+
 **Revenue from forest resources**<br>
 2.5% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil insecurity, high food prices, and floods - </em>according to a November 2022 analysis (the latest available), about 3.6 million people were estimated to be acutely food insecure between October and December 2022, as a result of conflict, sociopolitical unrest and high food prices, as well as floods that caused people displacements, damaged standing crops and prevented access to fields (2023)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 65.26 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 8.29 megatons (2016 est.)<br>
+_methane emissions_: 30.71 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3,270,617 tons (2013 est.)<br>

@@ -255,11 +255,6 @@ limited natural freshwater resources; inadequate supplies of potable water; soil
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection<br>
 _signed, but not ratified_: Law of the Sea, Marine Life Conservation<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 53.17 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 8.67 megatons (2016 est.)<br>
-_methane emissions_: 90.98 megatons (2020 est.)<br>
-
 **Climate**<br>
 arid to semiarid; cold winters and hot summers<br>
 
@@ -275,14 +270,19 @@ _other_: 40.1% (2018)<br>
 _urban population_: 26.9% of total population (2023)<br>
 _rate of urbanization_: 3.34% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to civil conflict, population displacement, and economic slowdown -</em> between November 2021 and March 2022, during the winter lean season, the food insecurity situation was expected to deteriorate and the number of people in "Crisis" or above was likely to increase to 22.8 million, about 35% more than during the same season in 2020/21; following the developments of August 2021 in the country, the international aid flows, an important element of public spending, were halted; the food security situation and agricultural livelihoods in the country is likely to significantly deteriorate in the coming months due to cumulative and cascading impact of multiple shocks, including weather, conflict, economic crisis and the lingering effects of the COVID‑19 pandemic (2022)<br>
+
 **Revenue from forest resources**<br>
 0.2% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0.45% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil conflict, population displacement, and economic slowdown -</em> between November 2021 and March 2022, during the winter lean season, the food insecurity situation was expected to deteriorate and the number of people in "Crisis" or above was likely to increase to 22.8 million, about 35% more than during the same season in 2020/21; following the developments of August 2021 in the country, the international aid flows, an important element of public spending, were halted; the food security situation and agricultural livelihoods in the country is likely to significantly deteriorate in the coming months due to cumulative and cascading impact of multiple shocks, including weather, conflict, economic crisis and the lingering effects of the COVID‑19 pandemic (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 53.17 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 8.67 megatons (2016 est.)<br>
+_methane emissions_: 90.98 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,628,525 tons (2016 est.)<br>
@@ -376,11 +376,11 @@ _chief of mission_: the Afghan Embassy closed in March 2022<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: the United States does not maintain a presence in Afghanistan and bases the Department of State's Afghanistan Affairs Unit in Doha, Qatar; note - the US Embassy in Kabul closed in August 2021<br>
-_embassy_: Embassy Kabul, operations have been suspended; Department of State’s Afghanistan Affairs Unit operates from Doha, Qatar. <p> </p> <p> </p> <p> </p> <p> </p><br>
+_embassy_: Embassy Kabul, operations have been suspended; Department of State&rsquo;s Afghanistan Affairs Unit operates from Doha, Qatar.<br>
 
 **Flag description**<br>
 three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other 2 bands; the center of the emblem features a mosque with pulpit and flags on either side, below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam<br>
-<strong>note 1: </strong>the United States has not recognized the Taliban or any other entity as the government of Afghanistan and, accordingly, continues to display the flag of Afghanistan as set forth in the country's constitution of 2004<strong><br><br>note 2:</strong> Afghanistan had more changes to its national flag in the 20th century - 19 by one count - than any other country; the colors black, red, and green appeared on most of them<br><br><br><br><br><br>
+<strong>note 1: </strong>the United States has not recognized the Taliban or any other entity as the government of Afghanistan and, accordingly, continues to display the flag of Afghanistan as set forth in the country's constitution of 2004<strong><br><br>note 2:</strong> Afghanistan had more changes to its national flag in the 20th century - 19 by one count - than any other country; the colors black, red, and green appeared on most of them&lt;<br>
 
 **National symbol(s)**<br>
 lion; national colors: red, green, black<br>
@@ -711,7 +711,7 @@ _refugees (country of origin)_: 59,486 (Pakistan) (mid-year 2022)<br>
 _IDPs_: 4.314 million (mostly Pashtuns and Kuchis displaced in the south and west due to natural disasters and political instability) (2021)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: <p>Tier 3 — Afghanistan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Afghanistan remains on Tier 3; substantial personnel turnover and closing of some ministries after the August 15, 2021 Taliban takeover hindered Afghanistan’s ability to maintain consistent anti-trafficking efforts; although the pre-August 15 government took some training and awareness steps to address trafficking, it employed or recruited child soldiers and sexual slaves in government compounds; after August 15, the Taliban continued recruiting or employing child soldiers and did not investigate, prosecute, or convict any traffickers; the Taliban shut down shelters for victims, did not identify or protect victims, and did not make any efforts to prevent trafficking; Taliban undermining the rights of women, minorities, and other vulnerable populations, further exacerbated vulnerabilities to trafficking (2022)</p><br>
+_tier rating_: Tier 3 &mdash; Afghanistan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Afghanistan remains on Tier 3; substantial personnel turnover and closing of some ministries after the August 15, 2021 Taliban takeover hindered Afghanistan&rsquo;s ability to maintain consistent anti-trafficking efforts; although the pre-August 15 government took some training and awareness steps to address trafficking, it employed or recruited child soldiers and sexual slaves in government compounds; after August 15, the Taliban continued recruiting or employing child soldiers and did not investigate, prosecute, or convict any traffickers; the Taliban shut down shelters for victims, did not identify or protect victims, and did not make any efforts to prevent trafficking; Taliban undermining the rights of women, minorities, and other vulnerable populations, further exacerbated vulnerabilities to trafficking (2022)<br>
 _trafficking profile_: human traffickers exploit domestic and foreign victims in Afghanistan and exploit Afghan victims abroad; internal trafficking is more prevalent than transnational trafficking; since the Taliban takeover, vulnerabilities to exploitation have intensified; traffickers exploit men, women, and a large number of children domestically; victims are subjected to forced labor in agriculture, brick kilns, carpet weaving, domestic servitude, commercial sex, begging, poppy cultivation and harvesting, salt mining, transnational drug smuggling, and truck driving; the Taliban and non-state armed groups, such as the Islamic State in Khorasan Province (ISIS-K), continue to unlawfully recruit and use child soldiers; sexual exploitation of boys remains pervasive nationwide, and traffickers subject some boys to sexual exploitation abroad; after the Taliban takeover, restrictions on the movement of women and girls, and severely diminished access to employment and education, increased their vulnerability to trafficking; LGBTQI+ individuals are among the most vulnerable groups in Afghanistan under the Taliban (2022)<br>
 <strong>note: </strong>The United States has not recognized the Taliban or another entity as the government of Afghanistan. On August 15, 2021, the Taliban culminated its takeover of Kabul, and on September 7, 2021, the Taliban announced a so-called interim government. As of December 2021, the Taliban had not outlined steps or a timeline to establish a new permanent government. All references to “the pre-August 15 government” refer to the Islamic Republic of Afghanistan. References to the Taliban reflect events both prior to and after August 15.<br>
 

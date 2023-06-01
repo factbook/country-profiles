@@ -239,11 +239,6 @@ deforestation; water pollution, including pollution of Belize's Barrier Reef Sys
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 21.23 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.57 megatons (2016 est.)<br>
-_methane emissions_: 0.55 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; very hot and humid; rainy season (May to November); dry season (February to May)<br>
 
@@ -264,6 +259,11 @@ _rate of urbanization_: 2.3% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 21.23 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.57 megatons (2016 est.)<br>
+_methane emissions_: 0.55 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 101,379 tons (2015 est.)<br>
@@ -668,7 +668,7 @@ Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard; Belize Police De
 approximately 1,300 BDF personnel; approximately 300 Belize Coast Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the BDF's inventory is limited and consists mostly of UK- and US-origin equipment (2022)<br>
+the military has a small inventory consisting mostly of UK- and US-origin equipment (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient, but conscription has never been implemented; initial service obligation is 12 years (2022)<br>

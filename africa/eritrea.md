@@ -243,11 +243,6 @@ deforestation; desertification; soil erosion; overgrazing<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Whaling<br>
 _signed, but not ratified_: Climate Change-Paris Agreement<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 42.4 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.71 megatons (2016 est.)<br>
-_methane emissions_: 4.48 megatons (2020 est.)<br>
-
 **Climate**<br>
 hot, dry desert strip along Red Sea coast; cooler and wetter in the central highlands (up to 61 cm of rainfall annually, heaviest June to September); semiarid in western hills and lowlands<br>
 
@@ -262,6 +257,11 @@ _other_: 9.8% (2018 est.)<br>
 **Urbanization**<br>
 _urban population_: 43.3% of total population (2023)<br>
 _rate of urbanization_: 3.67% annual rate of change (2020-25 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 42.4 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.71 megatons (2016 est.)<br>
+_methane emissions_: 4.48 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 726,957 tons (2011 est.)<br>
@@ -663,7 +663,7 @@ Eritrea mandates military service for all citizens between the ages of 18 and 40
 <strong>note:</strong> as of 2020, women were estimated to make up as much as 30% of the Eritrean military<br>
 
 **Military - note**<br>
-the EDF’s primary responsibilities are external defense, border security, and providing the regime a vehicle for national cohesion; the Army is by far the dominant service; it is a large, conscript-based force with an estimated 20 infantry divisions, as well as a division of commandos/special forces; the Air Force has a small number of Soviet-era combat aircraft and helicopters, while the Navy maintains a limited number of coastal patrol vessels <br><br>since the country's independence in 1991, the Eritrean military has participated in numerous conflicts, including the Hanish Island Crisis with Yemen (1995), the First Congo War (1996-1997), the Second Sudanese Civil War (1996-1998), the Eritrea-Ethiopia War (1998-2000), the Djiboutian-Eritrean border conflict (2008), and the Tigray War (2020-2022) (2023)<br>
+the EDF’s primary responsibilities are external defense, border security, and providing the regime a vehicle for national cohesion; the Army is by far the dominant service; it is a large, conscript-based force with an estimated 20 infantry divisions, as well as a division of commandos/special forces; the Air Force has a small number of Soviet-era combat aircraft and helicopters, while the Navy maintains a limited number of coastal patrol vessels <br><br>since the country's independence in 1991, the Eritrean military has participated in numerous conflicts, including the Hanish Island Crisis with Yemen (1995), the First Congo War (1996-1997), the Second Sudanese Civil War (1996-1998), the Eritrea-Ethiopia War (1998-2000), the Djiboutian-Eritrean border conflict (2008), and the Tigray War in Ethiopia (2020-2022) (2023)<br>
 
 ## Transnational Issues
 

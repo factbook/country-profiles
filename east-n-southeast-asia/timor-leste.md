@@ -243,11 +243,6 @@ air pollution and deterioration of air quality; greenhouse gas emissions; water 
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Law of the Sea, Ozone Layer Protection<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 17.88 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.5 megatons (2016 est.)<br>
-_methane emissions_: 4.74 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid; distinct rainy and dry seasons<br>
 
@@ -268,6 +263,11 @@ _rate of urbanization_: 3.31% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 17.88 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.5 megatons (2016 est.)<br>
+_methane emissions_: 4.74 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 63,875 tons (2016 est.)<br>
@@ -338,7 +338,7 @@ _election results_: <em>2022</em>: José RAMOS-HORTA elected president in a run-
 **Legislative branch**<br>
 _description_: unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by closed, party-list proportional representation vote using the D'Hondt method to serve 5-year terms)<br>
 _elections_: last held on 12 May 2018 (next to be held in May 2023)<br>
-_election results_: percent of vote by party - AMP - 49.6%, FRETILIN 34.2%, PD 8.1%, DDF 5.5%, other 2.6%; seats by party - AMP 34, FRETILIN 23, PD 5, DDF 3; composition - men 39, women 26, percent of women 40%<br>
+_election results_: percent of vote by party in 2023 elections - CNRT 41.5%, FRETILIN 25.8%, PD 9.3%, KHUNTO 7.5%, PLP 6%, other 9.9%; seats by party - CNRT 31, FRETILIN 19, PD 6, KHUNTO 5, PLP 4; note - 12 other parties received votes, but won no seats<br><br>percent of vote by party in 2018 elections - AMP 49.6%, FRETILIN 34.2%, PD 8.1%, DDF 5.5%, other 2.6%; seats by party - AMP 34, FRETILIN 23, PD 5, DDF 3; composition - men 39, women 26, percent of women 40%; note - AMP (Alliance for Change and Progress) was a coalition of CNRT, PLP, and KHUNTO which dissolved in May of 2020<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeals (consists of the court president and NA judges)<br>
@@ -347,13 +347,14 @@ _subordinate courts_: Court of Appeal; High Administrative, Tax, and Audit Court
 <strong>note:</strong> the UN Justice System Programme, launched in 2003 and being rolled out in 4 phases through 2018, is helping strengthen the country's justice system; the Programme is aligned with the country's long-range Justice Sector Strategic Plan, which includes legal reforms<br>
 
 **Political parties and leaders**<br>
-Democratic Party or PD [Mariano Assanami SABINO Lopes]<br>Frenti-Mudanca (Front for National Reconstruction of Timor-Leste - Change) or FM [Jose Luis GUTERRES]<br>Kmanek Haburas Unidade Nasional Timor Oan or KHUNTO [Armanda BERTA DOS SANTOS]<br>National Congress for Timorese Reconstruction or CNRT [Kay Rala Xanana GUSMAO]<br>People's Liberation Party or PLP [Taur Matan RUAK]<br>Revolutionary Front of Independent Timor-Leste or FRETILIN [Franciso GUTERRES]<br>Timorese Democratic Union or UDT [Gilman SANTOS]<br>United Party for Development and Democracy or PUDD [António de Sá BENEVIDES] <br><br>Coalitions:<br>Alliance for Change and Progress (AMP) is a coalition of CRNT, PLP, and KHUNTO<br>Democratic Development Front (FDD) is a coalition of UDT, PUDD, FM<br>
+Democratic Party or PD [Mariano Assanami SABINO Lopes]<br>Frenti-Mudanca (Front for National Reconstruction of Timor-Leste - Change) or FM [Jose Luis GUTERRES]<br>Green Party of Timor (Os Verdes or the Greens) [António Lela Hunu CRUZ]<br>National Congress for Timorese Reconstruction or CNRT [Kay Rala Xanana GUSMAO]<br>National Unity of the Sons of Timor (Haburas Unidade Nasional Timor Oan or KHUNTO) [Armanda BERTA DOS SANTOS]<br>People's Liberation Party or PLP [Taur Matan RUAK]<br>Revolutionary Front of Independent Timor-Leste or FRETILIN [Franciso GUTERRES]<br>Timorese Democratic Union or UDT [Gilman SANTOS]<br>United Party for Development and Democracy or PUDD [António de Sá BENEVIDES]<br>
+<strong>note:</strong> 17 parties ran in the May 2023 parliamentary election<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, ARF, ASEAN (observer), CPLP, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OPCW, PIF (observer), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Isilio Antonio De Fatima COELHO DA SILVA (since 6 January 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Antonito DE ARAUJO (since 24 February 2023)<br>
 _chancery_: 4201 Connecticut Avenue NW, Suite 504, Washington, DC 20008<br>
 _telephone_: [1] (202) 966-3202<br>
 _FAX_: [1] (202) 966-3205<br>

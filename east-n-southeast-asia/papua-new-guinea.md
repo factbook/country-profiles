@@ -246,11 +246,6 @@ rain forest loss as a result of growing commercial demand for tropical timber; u
 _party to_: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.91 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 7.54 megatons (2016 est.)<br>
-_methane emissions_: 11.05 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; northwest monsoon (December to March), southeast monsoon (May to October); slight seasonal temperature variation<br>
 
@@ -271,6 +266,11 @@ _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 10.91 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 7.54 megatons (2016 est.)<br>
+_methane emissions_: 11.05 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1 million tons (2014 est.)<br>
@@ -344,7 +344,7 @@ _elections/appointments_: the monarchy is hereditary; governor general nominated
 _election results_: James MARAPE re-elected prime minister; National Parliament vote - 105 out of 118<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Parliament (111 seats; members directly elected in single-seat constituencies - 89 local, 20 provinicial, the autonomous province of Bouganville, and the National Capital District - by majority preferential vote; members serve 5-year terms); note - the constitution allows up to 126 seats<br>
+_description_: unicameral National Parliament (118 seats; members directly elected in single-seat constituencies - 89 local, 20 provincial, the autonomous province of Bouganville, and the National Capital District - by majority preferential vote; members serve 5-year terms); note - the constitution allows up to 126 seats<br>
 _elections_: last held from 4-22 July 2022 (next to be held in June 2027)<br>
 _election results_: percent of vote by party - NA; seats by party - PANGU PATI - 38, PNC - 17, URP - 11, NAP - 5, PNC - 4, SDP - 4, PFP - 3, ULP - 3, Advance PNG - 2, National Party - 2, AP - 1, Destiny Party - 1, Greens - 1, Liberal Party - 1, MAP - 1, NGP - 1, ODP - 1, PLP - 1, PMC - 1, PPP - 1, PRP - 1, THE - 1, independents - 9; composition - NA<br>
 

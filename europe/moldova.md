@@ -239,11 +239,6 @@ heavy use of agricultural chemicals has contaminated soil and groundwater; exten
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Air Pollution-Multi-effect Protocol<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 15.97 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 5.12 megatons (2016 est.)<br>
-_methane emissions_: 3.29 megatons (2020 est.)<br>
-
 **Climate**<br>
 moderate winters, warm summers<br>
 
@@ -264,6 +259,11 @@ _rate of urbanization_: 0.09% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 15.97 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 5.12 megatons (2016 est.)<br>
+_methane emissions_: 3.29 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3,981,200 tons (2015 est.)<br>
@@ -699,7 +699,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 108,620 (Ukraine) (as of 14 May 2023)<br>
+_refugees (country of origin)_: 108,889 (Ukraine) (as of 21 May 2023)<br>
 _stateless persons_: 1,701 (2022)<br>
 
 **Illicit drugs**<br>

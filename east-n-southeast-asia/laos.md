@@ -250,11 +250,6 @@ unexploded ordnance; deforestation; soil erosion; loss of biodiversity; water po
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 24.49 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 17.76 megatons (2016 est.)<br>
-_methane emissions_: 9 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical monsoon; rainy season (May to November); dry season (December to April)<br>
 
@@ -272,6 +267,11 @@ _rate of urbanization_: 2.99% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
 1.48% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 24.49 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 17.76 megatons (2016 est.)<br>
+_methane emissions_: 9 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 351,900 tons (2015 est.)<br>

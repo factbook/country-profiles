@@ -248,11 +248,6 @@ environmental problems (urban and rural) typical of an industrializing economy s
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: Marine Dumping-London Protocol, Marine Life Conservation<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 11.83 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 201.35 megatons (2016 est.)<br>
-_methane emissions_: 120.66 megatons (2020 est.)<br>
-
 **Climate**<br>
 mostly temperate; arid in southeast; subantarctic in southwest<br>
 
@@ -273,6 +268,11 @@ _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 11.83 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 201.35 megatons (2016 est.)<br>
+_methane emissions_: 120.66 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 17,910,550 tons (2014 est.)<br>
@@ -716,7 +716,7 @@ Armed Forces of the Argentine Republic (Fuerzas Armadas de la República Argenti
 approximately 82,000 active duty personnel (50,000 Army; 18,000 Navy, including about 3,500 marines); 14,000 Air Force); estimated 20,000 Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; in recent years, France and the US have been the leading suppliers of equipment; Argentina has an indigenous defense industry that produces air, land, and naval systems (2022)<br>
+the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; in recent years, France and the US have been the leading suppliers of equipment; Argentina has an indigenous defense industry that produces air, land, and naval systems (2023)<br>
 
 **Military service age and obligation**<br>
 18-24 years of age for voluntary military service for men and women; conscription suspended in 1995; citizens can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2023)<br>

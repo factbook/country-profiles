@@ -203,9 +203,6 @@ _female_: 29% (2014 est.)<br>
 **Environment - current issues**<br>
 dense population and heavy vehicle traffic create serious congestion and air pollution problems; water resources scarce (most obtained as rainwater or from wells); solid waste disposal; hazardous waste disposal; sewage disposal; overfishing; oil spills<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.61 megatons (2016 est.)<br>
-
 **Climate**<br>
 subtropical; mild, humid; gales, strong winds common in winter<br>
 
@@ -220,6 +217,9 @@ _other_: 65.2% (2018 est.)<br>
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: -0.2% annual rate of change (2020-25 est.)<br>
+
+**Air pollutants**<br>
+_carbon dioxide emissions_: 0.61 megatons (2016 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 82,000 tons (2012 est.)<br>

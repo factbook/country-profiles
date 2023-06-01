@@ -200,9 +200,6 @@ _female_: 43.2% (2021 est.)<br>
 **Environment - current issues**<br>
 preservation of coral reefs; prevention of invasive species; limiting erosion caused by nickel mining and forest fires<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 5.33 megatons (2016 est.)<br>
-
 **Climate**<br>
 tropical; modified by southeast trade winds; hot, humid<br>
 
@@ -217,6 +214,9 @@ _other_: 43.7% (2018 est.)<br>
 **Urbanization**<br>
 _urban population_: 72.7% of total population (2023)<br>
 _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
+
+**Air pollutants**<br>
+_carbon dioxide emissions_: 5.33 megatons (2016 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 108,157 tons (2016 est.)<br>
@@ -269,12 +269,12 @@ _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by 
 _head of government_: President of the Government Louis MAPOU (since 22 July 2021); Vice President Isabelle CHAMPMOREAU (since 22 July 2021)<br>
 _cabinet_: Cabinet elected from and by the Territorial Congress<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; president of New Caledonia elected by Territorial Congress for a 5-year term (no term limits); election last held on 8 July 2021 (next to be held in 2026)<br>
-_election results_: <em>2021:</em> Louis MAPOU elected president by Territorial Congress with 6 votes out of 11<br><br><em>2019:</em> Thieryy SANTA elected president by Territorial Congress<br>
+_election results_: <em><br>2021:</em> Louis MAPOU elected president by Territorial Congress with 6 votes out of 11<br><em>2019:</em> Thieryy SANTA elected president by Territorial Congress; vote NA<br>
 
 **Legislative branch**<br>
 _description_: unicameral Territorial Congress or Congrès du Territoire (54 seats; members indirectly selected proportionally by the partisan makeup of the 3 Provincial Assemblies or Assemblés Provinciales; members of the 3 Provincial Assemblies directly elected by party-list proportional representation vote; members serve 5-year terms); note - the Customary Senate is the assembly of the various traditional councils of the Kanaks, the indigenous population, which rules on laws affecting the indigenous population<br>New Caledonia indirectly elects 2 members to the French Senate by an electoral colleges for a 6-year term with one seat renewed every 3 years and directly elects 2 members to the French National Assembly by absolute majority vote in 2 rounds if needed for a 5-year term<br>
 _elections_: <br>Territorial Congress - last held on 12 May 2019 (next to be held in May 2024)<br>French Senate - election last held in September 2019 (next to be held not later than 2021)<br>French National Assembly - election last held on 11 and 18 June 2017 (next to be held by June 2022)<br>
-_election results_: <p>Territorial Congress - percent of vote by party - N/A; seats by party - Future With Confidence 18, UNI 9, UC 9, CE 7, FLNKS 6, Oceanic Awakening 3, PT 1, LKS 1 (Anti-Independence 28, Pro-Independence 26);<br>French Senate - percent of vote by party - NA; seats by party - UMP 2<br>French National Assembly - percent of vote by party - NA; seats by party - CE 2</p><br>
+_election results_: <br>Territorial Congress - percent of vote by party - N/A; seats by party - Future With Confidence 18, UNI 9, UC 9, CE 7, FLNKS 6, Oceanic Awakening 3, PT 1, LKS 1 (Anti-Independence 28, Pro-Independence 26);<br>French Senate - percent of vote by party - NA; seats by party - UMP 2<br>French National Assembly - percent of vote by party - NA; seats by party - CE 2<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal in Noumea or Cour d'Appel; organized into civil, commercial, social, and pre-trial investigation chambers; court bench normally includes the court president and 2 counselors); Administrative Court (number of judges NA); note - final appeals beyond the Court of Appeal are referred to the Court of Cassation or Cour de Cassation (in Paris); final appeals beyond the Administrative Court are referred to the Administrative Court of Appeal (in Paris)<br>

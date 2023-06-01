@@ -230,11 +230,6 @@ water pollution; inadequate supplies of potable water; waterborne disease; defor
 _party to_: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Antarctic-Environmental Protection, Law of the Sea<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 30.4 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 28.28 megatons (2016 est.)<br>
-_methane emissions_: 18.68 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate, with rainfall concentrated in summer; long, bitter winters<br>
 
@@ -252,6 +247,11 @@ _rate of urbanization_: 0.85% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to low food consumption levels, poor dietary diversity, and economic downturn -</em> a large portion of the population suffers from low levels of food consumption and very poor dietary diversity; the economic constraints, particularly resulting from the global impact of the COVID‑19 pandemic, have increased the population’s vulnerability to food insecurity; the food gap is estimated at about 860,000 mt, equivalent to approximately 2-3 months of food use, if this gap is not adequately covered through commercial imports and/or food aid, households could experience a harsh lean period (2022)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 30.4 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 28.28 megatons (2016 est.)<br>
+_methane emissions_: 18.68 megatons (2020 est.)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 900 million cubic meters (2020 est.)<br>

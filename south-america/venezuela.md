@@ -241,11 +241,6 @@ sewage pollution of Lago de Valencia; oil and urban pollution of Lago de Maracai
 _party to_: Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 15.82 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 164.18 megatons (2016 est.)<br>
-_methane emissions_: 68.66 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid; more moderate in highlands<br>
 
@@ -263,6 +258,11 @@ _rate of urbanization_: 1.16% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to severe economic crisis -</em> the national economy, highly dependent on oil production and exports, was forecast to contract in 2021 for the eighth consecutive year; with the persistent negative effects of the COVID‑19 pandemic that have compounded the already severe macro‑economic crisis, the access to food of the most vulnerable households is expected to deteriorate throughout 2021 and into 2022 due to widespread losses of income‑generating activities and soaring food prices (2022)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 15.82 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 164.18 megatons (2016 est.)<br>
+_methane emissions_: 68.66 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 9,779,093 tons (2010 est.)<br>

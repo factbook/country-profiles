@@ -235,11 +235,6 @@ air pollution from road traffic, domestic heating (wood buring), power generatio
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 15.81 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 12.63 megatons (2016 est.)<br>
-_methane emissions_: 2.1 megatons (2020 est.)<br>
-
 **Climate**<br>
 Mediterranean climate on the coast, continental climate with mild to hot summers and cold winters in the plateaus and valleys to the east<br>
 
@@ -260,6 +255,11 @@ _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.03% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 15.81 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 12.63 megatons (2016 est.)<br>
+_methane emissions_: 2.1 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 926,000 tons (2015 est.)<br>
@@ -698,7 +698,7 @@ Slovenia became a member of NATO in 2004 (2023)<br>
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,312 (Ukraine) (as of 15 May 2023)<br>
+_refugees (country of origin)_: 9,477 (Ukraine) (as of 22 May 2023)<br>
 _stateless persons_: 10 (2020)<br>
 <strong>note:  </strong>579,024 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
 

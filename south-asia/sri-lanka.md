@@ -246,11 +246,6 @@ deforestation; soil erosion; wildlife populations threatened by poaching and urb
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban, Marine Life Conservation<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 15.25 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 23.36 megatons (2016 est.)<br>
-_methane emissions_: 10.95 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical monsoon; northeast monsoon (December to March); southwest monsoon (June to October)<br>
 
@@ -266,14 +261,19 @@ _other_: 27.1% (2018 est.)<br>
 _urban population_: 19.2% of total population (2023)<br>
 _rate of urbanization_: 1.22% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_widespread lack of access_: <em>due to serious macroeconomic challenges, significant reduction in 2022 cereal output, and high food prices</em> - severe macroeconomic challenges, mostly reflecting dwindling foreign currency reserves after revenues from merchandise exports, remittances, and from the tourist sector declined dramatically over the last year, have had a negative impact on the country’s capacity to import cereals; the 2022 cereal production sharply declined due to a government ordered reduction in the application of chemical fertilizers; unprecedentedly high food prices are constraining economic access to food for a majority of households<br>
+
 **Revenue from forest resources**<br>
 0.06% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to serious macroeconomic challenges, significant reduction in 2022 cereal output, and high food prices</em> - severe macroeconomic challenges, mostly reflecting dwindling foreign currency reserves after revenues from merchandise exports, remittances, and from the tourist sector declined dramatically over the last year, have had a negative impact on the country’s capacity to import cereals; the 2022 cereal production sharply declined due to a government ordered reduction in the application of chemical fertilizers; unprecedentedly high food prices are constraining economic access to food for a majority of households<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 15.25 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 23.36 megatons (2016 est.)<br>
+_methane emissions_: 10.95 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,631,650 tons (2016 est.)<br>

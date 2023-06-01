@@ -254,11 +254,6 @@ increased migration of the population to urban and coastal areas with adverse en
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 19.44 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 7.94 megatons (2016 est.)<br>
-_methane emissions_: 16.26 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical to subtropical<br>
 
@@ -274,14 +269,19 @@ _other_: 0% (2018 est.)<br>
 _urban population_: 38.8% of total population (2023)<br>
 _rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <p><em>due to shortfall in agricultural production and economic downturn -</em> the number of people in need of food assistance is expected to rise above the 1.86 million estimated in 2021-2022 because of three key factors; firstly, higher year‑on‑year prices of food and fuel are reducing households’ purchasing power, worsening their economic access to food, particularly for low-income households; secondly, the impact of extreme weather events on agricultural production in central and southern provinces in 2022 is likely to mean that farming households in the affected areas have both low food supplies from their own production and curtailed income-earning opportunities from crop sales, impinging on their food availability and economic access to food; thirdly, there has been an increase in attacks by non‑state armed groups in the northern province of Cabo Delgado in 2022</p> (2022)<br>
+
 **Revenue from forest resources**<br>
 6.46% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 4.17% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <p><em>due to shortfall in agricultural production and economic downturn -</em> the number of people in need of food assistance is expected to rise above the 1.86 million estimated in 2021-2022 because of three key factors; firstly, higher year‑on‑year prices of food and fuel are reducing households’ purchasing power, worsening their economic access to food, particularly for low-income households; secondly, the impact of extreme weather events on agricultural production in central and southern provinces in 2022 is likely to mean that farming households in the affected areas have both low food supplies from their own production and curtailed income-earning opportunities from crop sales, impinging on their food availability and economic access to food; thirdly, there has been an increase in attacks by non‑state armed groups in the northern province of Cabo Delgado in 2022</p> (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 19.44 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 7.94 megatons (2016 est.)<br>
+_methane emissions_: 16.26 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2.5 million tons (2014 est.)<br>
@@ -728,7 +728,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Mozambique-Eswatini</em>: none identified</p> <p><em>Mozambique-Malawi</em>:  the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Mozambique-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>Mozambique-Tanzania</em>: none identified</p> <p><em>Mozambique-Zambia</em>: none identified</p> <p><em>Mozambique-Zimbabwe</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,043 (Democratic Republic of Congo) (refugees and asylum seekers), 9,250 (Burundi) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 12,107 (Democratic Republic of Congo) (refugees and asylum seekers), 9,250 (Burundi) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 1.03 million (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>

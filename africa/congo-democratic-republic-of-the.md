@@ -261,11 +261,6 @@ poaching threatens wildlife populations; water pollution; deforestation (forests
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: Environmental Modification<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 37.62 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 2.02 megatons (2016 est.)<br>
-_methane emissions_: 61.24 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; hot and humid in equatorial river basin; cooler and drier in southern highlands; cooler and wetter in eastern highlands; north of Equator - wet season (April to October), dry season (December to February); south of Equator - wet season (November to March), dry season (April to October)<br>
 
@@ -281,14 +276,19 @@ _other_: 20.7% (2018 est.)<br>
 _urban population_: 47.4% of total population (2023)<br>
 _rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_widespread lack of access_: <em>due to internal conflict in eastern regions and high food prices - </em>according to an October 2022 analysis, 24.5 million people were projected to experience acute food insecurity between January and June 2023; this is due to persistent conflict in the eastern provinces of North Kivu, South Kivu and Ituri, which continues to cause population displacements, and to high prices of domestic food staples (2023)<br>
+
 **Revenue from forest resources**<br>
 8.72% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to internal conflict in eastern regions and high food prices - </em>according to an October 2022 analysis, 24.5 million people were projected to experience acute food insecurity between January and June 2023; this is due to persistent conflict in the eastern provinces of North Kivu, South Kivu and Ituri, which continues to cause population displacements, and to high prices of domestic food staples (2023)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 37.62 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 2.02 megatons (2016 est.)<br>
+_methane emissions_: 61.24 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 14,385,226 tons (2016 est.)<br>

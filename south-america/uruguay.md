@@ -247,11 +247,6 @@ water pollution from meat packing, tannery industries; heavy metal pollution; in
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: Marine Dumping-London Convention, Marine Life Conservation<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 8.63 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 6.77 megatons (2016 est.)<br>
-_methane emissions_: 25.59 megatons (2020 est.)<br>
-
 **Climate**<br>
 warm temperate; freezing temperatures almost unknown<br>
 
@@ -272,6 +267,11 @@ _rate of urbanization_: 0.4% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 8.63 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 6.77 megatons (2016 est.)<br>
+_methane emissions_: 25.59 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,260,140 tons (2012 est.)<br>

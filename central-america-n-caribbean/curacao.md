@@ -187,9 +187,6 @@ _female_: 47.1% (2020 est.)<br>
 **Environment - current issues**<br>
 <p>problems in waste management that threaten environmental sustainability on the island include pollution of marine areas from domestic sewage, inadequate sewage treatment facilities, industrial effluents and agricultural runoff, the mismanagement of toxic substances, and ineffective regulations; the refinery in Sint Anna Bay, at the eastern edge of Willemstad’s large natural harbor, processes heavy crude oil from Venezuela; it has caused significant environmental damage to the surrounding area because of neglect and a lack of strict environmental controls; the release of noxious fumes and potentially hazardous particles causes schools downwind to regularly close</p><br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 5.39 megatons (2016 est.)<br>
-
 **Climate**<br>
 <p>tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year</p><br>
 
@@ -207,6 +204,9 @@ _rate of urbanization_: 0.57% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_carbon dioxide emissions_: 5.39 megatons (2016 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 24,704 tons (2013 est.)<br>

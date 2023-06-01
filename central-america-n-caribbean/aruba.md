@@ -199,9 +199,6 @@ _female_: 14 years (2012)<br>
 **Environment - current issues**<br>
 difficulty in properly disposing of waste produced by large numbers of tourists; waste burning that occurs in the landfill causes air pollution and poses an environmental and health risk; ocean environmental damage due to plastic pollution<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.88 megatons (2016 est.)<br>
-
 **Climate**<br>
 tropical marine; little seasonal temperature variation<br>
 
@@ -219,6 +216,9 @@ _rate of urbanization_: 0.77% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
 0% of GDP (2017 est.)<br>
+
+**Air pollutants**<br>
+_carbon dioxide emissions_: 0.88 megatons (2016 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 88,132 tons (2013 est.)<br>

@@ -248,11 +248,6 @@ rapid population growth pressuring the environment; overharvesting of timber, ex
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Environmental Modification<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 20.63 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 1.09 megatons (2016 est.)<br>
-_methane emissions_: 3.16 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid; summer rainy season (May to December); winter dry season (December to April)<br>
 
@@ -268,14 +263,19 @@ _other_: 6.3% (2018 est.)<br>
 _urban population_: 44.3% of total population (2023)<br>
 _rate of urbanization_: 3.02% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to high food prices and reduced incomes - </em>about 1.6 million people are estimated to be severely food insecure between June and August 2022 on account of high food prices and low purchasing power, resulting in acute constraints on households’ economic access to food (2022)<br>
+
 **Revenue from forest resources**<br>
 6.92% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to high food prices and reduced incomes - </em>about 1.6 million people are estimated to be severely food insecure between June and August 2022 on account of high food prices and low purchasing power, resulting in acute constraints on households’ economic access to food (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 20.63 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 1.09 megatons (2016 est.)<br>
+_methane emissions_: 3.16 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 610,222 tons (2004 est.)<br>

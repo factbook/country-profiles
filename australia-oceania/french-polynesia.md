@@ -198,9 +198,6 @@ _female_: 43.9% (2021 est.)<br>
 **Environment - current issues**<br>
 sea level rise; extreme weather events (cyclones, storms, and tsunamis producing floods, landslides, erosion, and reef damage); droughts; fresh water scarcity<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.77 megatons (2016 est.)<br>
-
 **Climate**<br>
 tropical, but moderate<br>
 
@@ -215,6 +212,9 @@ _other_: 43.8% (2018 est.)<br>
 **Urbanization**<br>
 _urban population_: 62.3% of total population (2023)<br>
 _rate of urbanization_: 0.65% annual rate of change (2020-25 est.)<br>
+
+**Air pollutants**<br>
+_carbon dioxide emissions_: 0.77 megatons (2016 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 147,000 tons (2013 est.)<br>

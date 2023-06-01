@@ -264,11 +264,6 @@ deforestation; soil erosion; desertification; loss of pasture land; inadequate s
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Nuclear Test Ban<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 31.17 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 3.18 megatons (2016 est.)<br>
-_methane emissions_: 19.16 megatons (2020 est.)<br>
-
 **Climate**<br>
 subtropical to arid; hot and dry (February to June); rainy, humid, and mild (June to November); cool and dry (November to February)<br>
 
@@ -284,14 +279,19 @@ _other_: 55.7% (2018 est.)<br>
 _urban population_: 46.2% of total population (2023)<br>
 _rate of urbanization_: 4.57% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <p><em>due to civil insecurity and </em><em>high food prices </em><em>- </em>the food security situation deteriorated in 2021, particularly in conflict-affected central and northern areas; according to the latest analysis, about 1.84 million people are estimated to be in “Crisis” and above between June and August 2022, as a result of worsening conflicts, weather shocks, reduced cereal production in 2021 and high food prices</p> (2022)<br>
+
 **Revenue from forest resources**<br>
 2.02% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <p><em>due to civil insecurity and </em><em>high food prices </em><em>- </em>the food security situation deteriorated in 2021, particularly in conflict-affected central and northern areas; according to the latest analysis, about 1.84 million people are estimated to be in “Crisis” and above between June and August 2022, as a result of worsening conflicts, weather shocks, reduced cereal production in 2021 and high food prices</p> (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 31.17 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 3.18 megatons (2016 est.)<br>
+_methane emissions_: 19.16 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,937,354 tons (2012 est.)<br>

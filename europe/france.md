@@ -255,10 +255,6 @@ some forest damage from acid rain; air pollution from industrial and vehicle emi
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 11.64 micrograms per cubic meter (2016 est.)<br>
-_methane emissions_: 55.99 megatons (2020 est.)<br>
-
 **Climate**<br>
 <p><strong>metropolitan France:</strong> generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral;</p> <p><strong>French Guiana:</strong> tropical; hot, humid; little seasonal temperature variation;</p> <p><strong>Guadeloupe and Martinique:</strong> subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average;</p> <p><strong>Mayotte:</strong> tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November);</p> <p><strong>Reunion:</strong> tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)</p><br>
 
@@ -279,6 +275,10 @@ _rate of urbanization_: 0.67% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 11.64 micrograms per cubic meter (2016 est.)<br>
+_methane emissions_: 55.99 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 33.399 million tons (2015 est.)<br>

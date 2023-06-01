@@ -143,9 +143,6 @@ some air pollution from the surrounding city of Rome<br>
 _party to_: Comprehensive Nuclear Test Ban, Ozone Layer Protection<br>
 _signed, but not ratified_: Air Pollution, Environmental Modification<br>
 
-**Air pollutants**<br>
-_methane emissions_: 0 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate; mild, rainy winters (September to May) with hot, dry summers (May to September)<br>
 
@@ -156,6 +153,9 @@ _other_: 100% (2018 est.)<br>
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
+
+**Air pollutants**<br>
+_methane emissions_: 0 megatons (2020 est.)<br>
 
 **Total renewable water resources**<br>
 0 cubic meters (2017 est.)<br>
@@ -189,7 +189,7 @@ none<br>
 Election Day of Pope FRANCIS, 13 March (2013)<br>
 
 **Constitution**<br>
-_history_: previous 1929, 1963; latest promulgated November 2000, effective 22 February 2001 (Fundamental Law of Vatican City State, the main governing document of the Vatican's civil entities); the Roman Curia is the administrative apparatus – the departments and ministries – used by the pontiff in governing the church; note - Pope Francis in October 2013, instituted a 9-member Council of Cardinal Advisers to reform the Roman Curia to include writing a new constitution; in June 2018, Pope Francis approved the Council of Cardinals' first draft of the new constitution, <em>Predicatae Evangelium</em> (Preach the Gospel); it became effective 5 June 2022, replacing <em>Pastor Bonus</em>, the previous governing document of the Roman Curia<br>
+_history_: previous 1929, 1963; latest promulgated November 2000, effective 22 February 2001 (Fundamental Law of Vatican City State, the main governing document of the Vatican's civil entities); the Roman Curia is the administrative apparatus – the departments and ministries – used by the pontiff in governing the church; note - Pope Francis in October 2013, instituted a 9-member Council of Cardinal Advisers to reform the Roman Curia to include writing a new constitution; in June 2018, Pope Francis approved the Council of Cardinals' first draft of the new apostolic constitution, <em>Predicate Evangelium</em> (Preach the Gospel); it became effective 5 June 2022, replacing <em>Pastor Bonus</em>, the previous governing document of the Roman Curia<br>
 _amendments_: note - although the Fundamental Law of Vatican City State makes no mention of amendments, Article Four (drafting laws), states that this legislative responsibility resides with the Pontifical Commission for Vatican City State; draft legislation is submitted through the Secretariat of State and considered by the pope<br>
 
 **Legal system**<br>

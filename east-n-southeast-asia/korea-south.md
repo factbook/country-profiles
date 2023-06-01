@@ -156,6 +156,7 @@ _female_: 86.42 years (2023 est.)<br>
 
 **Total fertility rate**<br>
 1.11 children born/woman (2023 est.)<br>
+<strong>note:</strong> some sources estimate the TFR to be as low as 0.78<br>
 
 **Gross reproduction rate**<br>
 0.54 (2023 est.)<br>
@@ -237,11 +238,6 @@ air pollution in large cities; acid rain; water pollution from the discharge of 
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 24.57 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 620.3 megatons (2016 est.)<br>
-_methane emissions_: 30.28 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate, with rainfall heavier in summer than winter; cold winters<br>
 
@@ -262,6 +258,11 @@ _rate of urbanization_: 0.31% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 24.57 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 620.3 megatons (2016 est.)<br>
+_methane emissions_: 30.28 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 18,218,975 tons (2014 est.)<br>
@@ -348,7 +349,7 @@ Basic Income Party [SHIN Ji-hye] <br>Democratic Party of Korea or DPK [LEE Jae-
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CICA, CP, EAS, EBRD, FAO, FATF, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSTAH, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SAARC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNMOGIP, UNOCI, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: CHO Hyundong (since 19 April 2023)<br>
+_chief of mission_: Ambassador CHO Hyundong (since 19 April 2023)<br>
 _chancery_: 2450 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-5600<br>
 _FAX_: [1] (202) 797-0595<br>
@@ -689,7 +690,7 @@ Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Navy (ROKN
 approximately 555,000 active duty personnel (420,000 Army; 70,000 Navy, including about 30,000 Marines; 65,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the South Korean military is equipped with a mix of domestically produced and imported weapons systems; South Korea has a robust defense industry and production includes armored fighting vehicles, artillery, aircraft, and naval ships; in recent years the top foreign weapons supplier has been the US, and some domestically produced systems are built under US license (2022)<br>
+the South Korean military is equipped with a mix of domestically produced and imported weapons systems; South Korea has a robust defense industry and production includes armored fighting vehicles, artillery, aircraft, and naval ships; its weapons are designed to be compatible with US and NATO systems; in recent years the top foreign weapons supplier has been the US, and some domestically produced systems are built under US license (2023)<br>
 
 **Military service age and obligation**<br>
 18-35 years of age for compulsory military service for all men; minimum conscript service obligation varies by service - 18 months (Army, Marines), 20 months (Navy), 21 months (Air Force); 18-26 years of age for voluntary military service for men and women (2022)<br>

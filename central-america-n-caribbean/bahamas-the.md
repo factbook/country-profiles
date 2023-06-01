@@ -212,11 +212,6 @@ coral reef decay; solid waste disposal<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 17.56 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 1.79 megatons (2016 est.)<br>
-_methane emissions_: 0.23 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical marine; moderated by warm waters of Gulf Stream<br>
 
@@ -237,6 +232,11 @@ _rate of urbanization_: 1.02% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 17.56 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 1.79 megatons (2016 est.)<br>
+_methane emissions_: 0.23 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 264,000 tons (2015 est.)<br>
@@ -636,7 +636,7 @@ Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements; Royal
 approximately 1,500 active RBDF personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-most of the RBDF's major equipment inventory is supplied by the Netherlands (2022)<br>
+most of the RBDF's major equipment inventory is supplied by the Netherlands (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary male and female service; no conscription (2022)<br>

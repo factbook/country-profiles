@@ -240,11 +240,6 @@ limited natural freshwater resources; inadequate supplies of potable water; over
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 44.96 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 10.61 megatons (2016 est.)<br>
-_methane emissions_: 8.03 megatons (2020 est.)<br>
-
 **Climate**<br>
 mostly desert; hot and humid along west coast; temperate in western mountains affected by seasonal monsoon; extraordinarily hot, dry, harsh desert in east<br>
 
@@ -260,14 +255,19 @@ _other_: 54.5% (2018 est.)<br>
 _urban population_: 39.8% of total population (2023)<br>
 _rate of urbanization_: 3.71% annual rate of change (2015-20 est.)<br>
 
+**Food insecurity**<br>
+_widespread lack of access_: <em>due to conflict, poverty, floods, high food and fuel prices -</em> the number of food insecure people was projected to increase by over 1 million to 17.4 million between January and May 2022, increasing to 19 million starting from June until the end of the year; economic conditions in the country remain dire; the conflict is further hampering the already constrained livelihood activities and humanitarian access; income earning opportunities have declined due to COVID‑19‑related business disruptions (2022)<br>
+
 **Revenue from forest resources**<br>
 0.04% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to conflict, poverty, floods, high food and fuel prices -</em> the number of food insecure people was projected to increase by over 1 million to 17.4 million between January and May 2022, increasing to 19 million starting from June until the end of the year; economic conditions in the country remain dire; the conflict is further hampering the already constrained livelihood activities and humanitarian access; income earning opportunities have declined due to COVID‑19‑related business disruptions (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 44.96 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 10.61 megatons (2016 est.)<br>
+_methane emissions_: 8.03 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,836,820 tons (2011 est.)<br>
@@ -667,7 +667,7 @@ the inventory of the Yemeni Government forces consists primarily of Russian and 
 18 is the legal minimum age for voluntary military service; conscription abolished in 2001; 2-year service obligation (note - limited information since the start of the civil war in 2014) (2021)<br>
 
 **Military - note**<br>
-in 2015, a Saudi-led coalition of Arab states (UAE, Qatar, Bahrain, Morocco, Sudan, Kuwait, Jordan and Egypt) intervened militarily in Yemen in support of the Republic of Yemen Government against the separatist Houthis; Saudi military forces conducted operations in Yemen and raised and equipped paramilitary/militia security forces in Yemen based largely on tribal or regional affiliation to deploy along the Saudi-Yemen border<br><br>UAE's 2015 intervention in Yemen included several thousand ground troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a smaller military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); UAE has recruited, trained, and equipped tens of thousands of Yemeni fighters and formed them into dozens of militia and paramilitary units <br><br>Iran has provided military and political support to the Houthis (2023)<br>
+government forces under the Yemeni Ministry of Defense are responsible for territorial defense, but also have internal security functions; their main focus is on the Houthi rebels and protecting Yemen’s maritime borders, which are susceptible to smuggling of fighters, arms, and other material support for the Houthis and terrorist groups operating in Yemen, al-Qa’ida in the Arabian Peninsula and the Islamic State of Iraq and ash-Sham in Yemen; they are organized into brigades of armored, border guard, infantry, mechanized, presidential protection, and special forces; the brigades vary significantly in size, structure, and capabilities; the Air Force has small numbers of mostly Soviet-era aircraft while the Navy and Coast Guard have a few patrol boats<br><br>in 2015, a Saudi-led coalition of Arab states (UAE, Qatar, Bahrain, Morocco, Sudan, Kuwait, Jordan and Egypt) intervened militarily in Yemen in support of the Republic of Yemen Government against the separatist Houthis; Saudi military forces conducted operations in Yemen and raised and equipped paramilitary/militia security forces in Yemen based largely on tribal or regional affiliation to deploy along the Saudi-Yemen border; UAE's participation in 2015 included several thousand ground troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a smaller military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); UAE has recruited, trained, and equipped tens of thousands of Yemeni fighters and formed them into dozens of militia and paramilitary units <br><br>Houthi forces are organized into combat, presidential protection, special forces, and tribal/militia/paramilitary brigades and independent battalions; the Houthis also have UAV and missile units, as well as naval forces (mines, missiles, and some boats); Iran has provided military and political support to the Houthis (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports a significant security risk to vessels transiting off Yemen and the Gulf of Aden due to the civil war in Yemen; vessels have been fired upon and approached, not piracy related; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-003 - Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Gulf of Aden, Bab al Mandeb Strait, Red Sea, and Somali Basin-Threats to Commercial Vessels) effective 23 February 2023, which states in part that "Regional conflict, military activity, and political tensions pose threats to commercial vessels operating in the above listed geographic areas"<br>

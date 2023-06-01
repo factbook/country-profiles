@@ -249,11 +249,6 @@ deforestation results from uncontrolled cutting of trees for fuel; overgrazing; 
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: Law of the Sea<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 40.75 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 1.11 megatons (2016 est.)<br>
-_methane emissions_: 2.92 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate; two rainy seasons (February to April, November to January); mild in mountains with frost and snow possible<br>
 
@@ -274,6 +269,11 @@ _rate of urbanization_: 3.07% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 40.75 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 1.11 megatons (2016 est.)<br>
+_methane emissions_: 2.92 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,384,969 tons (2016 est.)<br>

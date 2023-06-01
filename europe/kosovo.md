@@ -190,10 +190,6 @@ _female_: 57.3% (2020 est.)<br>
 **Environment - current issues**<br>
 air pollution (pollution from power plants and nearby lignite mines take a toll on people's health); water scarcity and pollution; land degradation<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 8.94 megatons (2016 est.)<br>
-_methane emissions_: 0.54 megatons (2020 est.)<br>
-
 **Climate**<br>
 influenced by continental air masses resulting in relatively cold winters with heavy snowfall and hot, dry summers and autumns; Mediterranean and alpine influences create regional variation; maximum rainfall between October and December<br>
 
@@ -210,6 +206,10 @@ _other_: 5.5% (2018 est.)<br>
 
 **Revenue from coal**<br>
 0.31% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_carbon dioxide emissions_: 8.94 megatons (2016 est.)<br>
+_methane emissions_: 0.54 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 319,000 tons (2015 est.)<br>

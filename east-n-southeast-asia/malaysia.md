@@ -241,11 +241,6 @@ air pollution from industrial and vehicular emissions; water pollution from raw 
 _party to_: Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 16.04 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 248.29 megatons (2016 est.)<br>
-_methane emissions_: 51.51 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; annual southwest (April to October) and northeast (October to February) monsoons<br>
 
@@ -266,6 +261,11 @@ _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.02% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 16.04 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 248.29 megatons (2016 est.)<br>
+_methane emissions_: 51.51 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 12,982,685 tons (2014 est.)<br>

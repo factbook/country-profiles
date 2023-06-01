@@ -259,11 +259,6 @@ deforestation; overgrazing; soil erosion; desertification; periodic droughts; se
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 37.52 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 10.9 megatons (2016 est.)<br>
-_methane emissions_: 11.74 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid; rainy season (May to November) has strong southeast winds; dry season (December to April) dominated by hot, dry, harmattan wind<br>
 
@@ -279,14 +274,19 @@ _other_: 9.4% (2018 est.)<br>
 _urban population_: 49.6% of total population (2023)<br>
 _rate of urbanization_: 3.59% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to localized shortfalls in cereal production and reduced incomes - </em>according to the latest analysis, about 881,000 people are estimated to be in need of humanitarian assistance between June and August 2022, mostly on account of localized shortfalls in cereal production in 2021 and reduced incomes owing to the impact of the COVID‑19 pandemic (2022)<br>
+
 **Revenue from forest resources**<br>
 1.46% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to localized shortfalls in cereal production and reduced incomes - </em>according to the latest analysis, about 881,000 people are estimated to be in need of humanitarian assistance between June and August 2022, mostly on account of localized shortfalls in cereal production in 2021 and reduced incomes owing to the impact of the COVID‑19 pandemic (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 37.52 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 10.9 megatons (2016 est.)<br>
+_methane emissions_: 11.74 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,454,059 tons (2016 est.)<br>

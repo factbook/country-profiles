@@ -249,11 +249,6 @@ water pollution; many people get their water directly from contaminated streams 
 _party to_: Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 18.12 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 9.79 megatons (2016 est.)<br>
-_methane emissions_: 4.47 megatons (2020 est.)<br>
-
 **Climate**<br>
 dry continental to polar in high Tien Shan Mountains; subtropical in southwest (Fergana Valley); temperate in northern foothill zone<br>
 
@@ -274,6 +269,11 @@ _rate of urbanization_: 2.05% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.21% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 18.12 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 9.79 megatons (2016 est.)<br>
+_methane emissions_: 4.47 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,113,300 tons (2015 est.)<br>
@@ -325,7 +325,7 @@ _etymology_: founded in 1868 as a Russian settlement on the site of a previously
 Independence Day, 31 August (1991)<br>
 
 **Constitution**<br>
-_history_: previous 1993, 2007, 2010; latest approved by referendum in April 2021 that transitioned Kyrgyzstan from a parliamentary to a presidential system, and implemented changes that allow the president to serve for two 5-year terms rather that one 6-year term, reduced the number of seats in Kyrgyzstan's legislature from 120 to 90, and established a Kurultay - a public advisory council<br>
+_history_: previous 1993, 2007, 2010; latest approved by referendum in April 2021 that transitioned Kyrgyzstan from a parliamentary to a presidential system, and implemented changes that allow the president to serve for two 5-year terms rather than one 6-year term, reduced the number of seats in Kyrgyzstan's legislature from 120 to 90, and established a Kurultay - a public advisory council<br>
 _amendments_: proposed as a draft law by the majority of the Supreme Council membership or by petition of 300,000 voters; passage requires at least two-thirds majority vote of the Council membership in each of at least three readings of the draft two months apart; the draft may be submitted to a referendum if approved by two thirds of the Council membership; adoption requires the signature of the president<br>
 
 **Legal system**<br>

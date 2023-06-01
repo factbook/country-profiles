@@ -249,11 +249,6 @@ _female_: 45.8% (2021 est.)<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 47.92 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 20 megatons (2016 est.)<br>
-_methane emissions_: 75.1 megatons (2020 est.)<br>
-
 **Climate**<br>
 hot and dry; arid desert; rainy season varies by region (April to November)<br>
 
@@ -269,14 +264,19 @@ _other_: 0% (2018 est.)<br>
 _urban population_: 36.3% of total population (2023)<br>
 _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to conflict, civil insecurity, and soaring food prices - </em>according to the results of the latest analysis, about 11.7 million people (24% of the analyzed population) are estimated to be severely food insecure during June to September 2022; the main drivers are macroeconomic challenges resulting in rampant food and non‑food inflation, tight supplies due to a poor 2021 harvest and the escalation of intercommunal violence (2022)<br>
+
 **Revenue from forest resources**<br>
 3.01% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to conflict, civil insecurity, and soaring food prices - </em>according to the results of the latest analysis, about 11.7 million people (24% of the analyzed population) are estimated to be severely food insecure during June to September 2022; the main drivers are macroeconomic challenges resulting in rampant food and non‑food inflation, tight supplies due to a poor 2021 harvest and the escalation of intercommunal violence (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 47.92 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 20 megatons (2016 est.)<br>
+_methane emissions_: 75.1 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,831,291 tons (2015 est.)<br>

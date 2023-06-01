@@ -259,11 +259,6 @@ water pollution from raw sewage, industrial wastes, and agricultural runoff; lim
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Marine Life Conservation<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 55.21 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 201.15 megatons (2016 est.)<br>
-_methane emissions_: 142.12 megatons (2020 est.)<br>
-
 **Climate**<br>
 mostly hot, dry desert; temperate in northwest; arctic in north<br>
 
@@ -279,14 +274,19 @@ _other_: 62.7% (2018 est.)<br>
 _urban population_: 38% of total population (2023)<br>
 _rate of urbanization_: 2.1% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to population displacements, economic constraints, and high prices of the main food staple -</em> according to the latest analysis, about 4.7 million people, 25% of the population, are estimated to be facing high levels of acute food insecurity, between April and June 2022 in 25 districts analyzed in Balochistan, Sindh and Khyber Pakhtunkhwa provinces; prices of wheat flour, the country’s main staple, were at high levels in most markets in May 2022, constraining access to the staple food (2022)<br>
+
 **Revenue from forest resources**<br>
 0.1% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0.06% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to population displacements, economic constraints, and high prices of the main food staple -</em> according to the latest analysis, about 4.7 million people, 25% of the population, are estimated to be facing high levels of acute food insecurity, between April and June 2022 in 25 districts analyzed in Balochistan, Sindh and Khyber Pakhtunkhwa provinces; prices of wheat flour, the country’s main staple, were at high levels in most markets in May 2022, constraining access to the staple food (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 55.21 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 201.15 megatons (2016 est.)<br>
+_methane emissions_: 142.12 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 30.76 million tons (2017 est.)<br>

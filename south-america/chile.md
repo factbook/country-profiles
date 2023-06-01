@@ -240,11 +240,6 @@ air pollution from industrial and vehicle emissions; water pollution from raw se
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 21.03 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 85.82 megatons (2016 est.)<br>
-_methane emissions_: 15.97 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate; desert in north; Mediterranean in central region; cool and damp in south<br>
 
@@ -265,6 +260,11 @@ _rate of urbanization_: 0.78% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.01% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 21.03 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 85.82 megatons (2016 est.)<br>
+_methane emissions_: 15.97 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 6.517 million tons (2009 est.)<br>

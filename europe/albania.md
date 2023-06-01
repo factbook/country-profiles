@@ -247,11 +247,6 @@ deforestation; soil erosion; water pollution from industrial and domestic efflue
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 17.87 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 4.54 megatons (2016 est.)<br>
-_methane emissions_: 2.55 megatons (2020 est.)<br>
-
 **Climate**<br>
 mild temperate; cool, cloudy, wet winters; hot, clear, dry summers; interior is cooler and wetter<br>
 
@@ -272,6 +267,11 @@ _rate of urbanization_: 1.29% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.03% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 17.87 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 4.54 megatons (2016 est.)<br>
+_methane emissions_: 2.55 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,142,964 tons (2015 est.)<br>
@@ -673,7 +673,7 @@ _major seaport(s)_: Durres, Sarande, Shengjin, Vlore<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqipërisë (FARSH)): Land Forces, Navy Forces (includes Coast Guard), Air Forces<br><br>Ministry of Interior: Guard of the Republic, State Police (includes the Border and Migration Police) (2022)<br>
+Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqipërisë (FARSH); aka Albanian Armed Forces): Land Forces, Naval Force (includes Coast Guard), Air Forces; Ministry of Interior: Guard of the Republic, State Police (includes the Border and Migration Police) (2023)<br>
 <strong>note:</strong> the State Police are primarily responsible for internal security, including counterterrorism, while the Guard of the Republic protects senior state officials, foreign dignitaries, and certain state properties<br>
 
 **Military expenditures**<br>
@@ -687,14 +687,14 @@ Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqip�
 approximately 7,000 total active duty personnel (5,000 Army; 1,500 Navy; 500 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Albanian military was previously equipped with mostly Soviet-era weapons that were sold or destroyed; its inventory now includes a mix of mostly donated and second-hand European and US equipment (2022)<br>
+since joining NATO, the military has been in the process of modernizing by retiring its inventory of Soviet-era weapons and replacing them with Western equipment, including donated and secondhand purchases&nbsp; (2023)<br>
 
 **Military service age and obligation**<br>
-19 is the legal minimum age for voluntary military service; 18 is the legal minimum age in case of general/partial compulsory mobilization; conscription abolished 2010 (2021)<br>
+18-27 (up to 32 in some cases) for voluntary military service for men and women; conscription abolished 2010 (2023)<br>
 <strong>note: </strong>as of 2021, women comprised about 15% of the military's full-time personnel, including 20% of the officers<br>
 
 **Military - note**<br>
-Albania became a member of NATO in 2009; as of 2022, Greece and Italy were providing NATO's air policing mission for Albania<br>
+Albania became a member of NATO in 2009<br>
 
 ## Terrorism
 

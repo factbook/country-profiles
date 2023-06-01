@@ -238,11 +238,6 @@ intense pressures from human activities: urbanization, dense transportation netw
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 12.88 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 96.89 megatons (2016 est.)<br>
-_methane emissions_: 7.78 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate; mild winters, cool summers; rainy, humid, cloudy<br>
 
@@ -263,6 +258,11 @@ _rate of urbanization_: 0.38% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 12.88 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 96.89 megatons (2016 est.)<br>
+_methane emissions_: 7.78 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.708 million tons (2015 est.)<br>
@@ -717,7 +717,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 72,168 (Ukraine) (as of 9 May 2023)<br>
+_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 72,397 (Ukraine) (as of 23 May 2023)<br>
 _stateless persons_: 1,190 (2022)<br>
 
 **Illicit drugs**<br>

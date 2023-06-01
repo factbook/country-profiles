@@ -246,11 +246,6 @@ areas of high air pollution from motor vehicles and industry; water pollution fr
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 40.05 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 5.31 megatons (2016 est.)<br>
-_methane emissions_: 4.87 megatons (2020 est.)<br>
-
 **Climate**<br>
 mid-latitude continental, hot summers, mild winters; semiarid to polar in Pamir Mountains<br>
 
@@ -271,6 +266,11 @@ _rate of urbanization_: 2.73% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.54% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 40.05 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 5.31 megatons (2016 est.)<br>
+_methane emissions_: 4.87 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,787,400 tons (2013 est.)<br>

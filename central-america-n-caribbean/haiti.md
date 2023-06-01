@@ -243,11 +243,6 @@ extensive deforestation (much of the remaining forested land is being cleared fo
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Ozone Layer Protection<br>
 _signed, but not ratified_: Nuclear Test Ban<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 14.63 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 2.98 megatons (2016 est.)<br>
-_methane emissions_: 6.12 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; semiarid where mountains in east cut off trade winds<br>
 
@@ -263,14 +258,19 @@ _other_: 30% (2018 est.)<br>
 _urban population_: 59.7% of total population (2023)<br>
 _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_widespread lack of access_: <em>due to high food prices, natural disasters, sociopolitical turmoil, and worsening insecurity -</em> about 4.7 million people are projected to be facing severe acute food insecurity and are in need of urgent food assistance between March and June 2023; the high levels of food insecurity are the result of elevated food prices, an economic downturn, frequent natural disasters, exacerbated by sociopolitical turmoil and worsening insecurity; the population experiencing the highest levels of acute food insecurity is located in the Cité Soleil commune of the capital city, Port-au-Prince, where inter-gang violence severely affects households’ access to markets and essential services<br> (2023)<br>
+
 **Revenue from forest resources**<br>
 0.68% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to high food prices, natural disasters, sociopolitical turmoil, and worsening insecurity -</em> about 4.7 million people are projected to be facing severe acute food insecurity and are in need of urgent food assistance between March and June 2023; the high levels of food insecurity are the result of elevated food prices, an economic downturn, frequent natural disasters, exacerbated by sociopolitical turmoil and worsening insecurity; the population experiencing the highest levels of acute food insecurity is located in the Cité Soleil commune of the capital city, Port-au-Prince, where inter-gang violence severely affects households’ access to markets and essential services<br> (2023)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 14.63 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 2.98 megatons (2016 est.)<br>
+_methane emissions_: 6.12 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,309,852 tons (2015 est.)<br>

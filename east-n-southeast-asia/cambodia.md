@@ -249,11 +249,6 @@ illegal logging activities throughout the country and strip mining for gems in t
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Law of the Sea<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 23.98 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 9.92 megatons (2016 est.)<br>
-_methane emissions_: 14.88 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; rainy, monsoon season (May to November); dry season (December to April); little seasonal temperature variation<br>
 
@@ -274,6 +269,11 @@ _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 23.98 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 9.92 megatons (2016 est.)<br>
+_methane emissions_: 14.88 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.089 million tons (2014 est.)<br>

@@ -251,11 +251,6 @@ recent droughts and desertification severely affecting agricultural activities, 
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: Nuclear Test Ban<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 36.78 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 3.42 megatons (2016 est.)<br>
-_methane emissions_: 12.85 megatons (2020 est.)<br>
-
 **Climate**<br>
 <p>three climate zones including a hot tropical savanna with a short rainy season in the southern half, a tropical hot semi-arid steppe climate typical of the Sahel region in the northern half, and small area of hot desert in the very north of the country bordering the Sahara Desert</p><br>
 
@@ -271,14 +266,19 @@ _other_: 36.5% (2018 est.)<br>
 _urban population_: 32.5% of total population (2023)<br>
 _rate of urbanization_: 4.75% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to civil insecurity in the north and high food prices - </em>according to the latest analysis, about 3.53 million people are projected to face acute food insecurity during the June to August 2023 lean season period; this would be a slight increase compared to the preceding year; food insecurity is primarily underpinned by worsening insecurity in Centre-Nord and Sahel regions, which, as of December 2022 (the latest data available), had displaced about 1.88 million people; high food prices further aggravate conditions of the most vulnerable households (2023)<br>
+
 **Revenue from forest resources**<br>
 4.54% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil insecurity in the north and high food prices - </em>according to the latest analysis, about 3.53 million people are projected to face acute food insecurity during the June to August 2023 lean season period; this would be a slight increase compared to the preceding year; food insecurity is primarily underpinned by worsening insecurity in Centre-Nord and Sahel regions, which, as of December 2022 (the latest data available), had displaced about 1.88 million people; high food prices further aggravate conditions of the most vulnerable households (2023)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 36.78 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 3.42 megatons (2016 est.)<br>
+_methane emissions_: 12.85 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,575,251 tons (2015 est.)<br>

@@ -244,11 +244,6 @@ air pollution improved but remains a concern, particularly in the London region;
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.53 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 379.02 megatons (2016 est.)<br>
-_methane emissions_: 49.16 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate; moderated by prevailing southwest winds over the North Atlantic Current; more than one-half of the days are overcast<br>
 
@@ -269,6 +264,11 @@ _rate of urbanization_: 0.8% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 10.53 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 379.02 megatons (2016 est.)<br>
+_methane emissions_: 49.16 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 31.567 million tons (2014 est.)<br>
@@ -315,7 +315,7 @@ no official date of independence: 927 (minor English kingdoms unite); 3 March 12
 the UK does not celebrate one particular national holiday<br>
 
 **Constitution**<br>
-_history_: unwritten; partly statutes, partly common law and practice<br>
+_history_: uncoded; partly statutes, partly common law and practice<br>
 _amendments_: proposed as a bill for an Act of Parliament by the government, by the House of Commons, or by the House of Lords; passage requires agreement by both houses and by the monarch (Royal Assent); many previous, last in 2020 -&nbsp; The European Union (Withdrawal Agreement) Act 2020, European Union (Future Relationship) Act 2020<br>
 
 **Legal system**<br>
@@ -700,7 +700,7 @@ United Kingdom Armed Forces (aka British Armed Forces, aka Her Majesty's Armed F
 2.1% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 153,000 regular forces (81,000 Army; 34,000 Navy, including about 7,000 Royal Marines; 38,000 Air Force) (2023)<br>
+approximately 148,000 regular forces (82,000 Army including the Gurkhas; 33,000 Navy including the Royal Marines; 33,000 Air Force) (2023)<br>
 <strong>note: </strong>the military also has approximately 40-45,000 reserves and other personnel on active duty<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -729,7 +729,7 @@ Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New
 <p><em>UK-Argentina</em>: UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands</p> <p><em>UK-Argentina-Chile</em>: the UK’s territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim</p> <p><em>UK-Denmark</em>: the UK, Iceland, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p> <p><em>UK (Gibraltar)-Spain</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; London and Madrid reached a temporary agreement at the end of 2020 that allowed Gibraltar to be part of the passport-free Schengen zone; talks are expected to continue in 2022</p> <p><em>UK-Mauritius-Seychelles</em>: Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos Islands prohibiting the extraction of any natural resources therein</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan), 12,155 (Syria), 10,259 (Afghanistan), 8,009 (Pakistan), 7,699 (Iraq) (mid-year 2022); 204,700 (Ukraine) (as of 9 May 2023)<br>
+_refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan), 12,155 (Syria), 10,259 (Afghanistan), 8,009 (Pakistan), 7,699 (Iraq) (mid-year 2022); 205,800 (Ukraine) (as of 16 May 2023)<br>
 _stateless persons_: 5,483 (2022)<br>
 
 **Illicit drugs**<br>

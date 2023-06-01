@@ -257,11 +257,6 @@ air pollution and resulting acid rain in the mineral extraction and refining reg
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 24.7 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 5.14 megatons (2016 est.)<br>
-_methane emissions_: 14.1 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; modified by altitude; rainy season (October to April)<br>
 
@@ -277,14 +272,19 @@ _other_: 2% (2018 est.)<br>
 _urban population_: 46.3% of total population (2023)<br>
 _rate of urbanization_: 4.15% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to reduced incomes and localized shortfalls in cereal production -</em> cereal production declined to a below‑average level in 2022 and along with the impact of rising food prices, the number of food insecure is foreseen to increase at the end of 2022 to levels above the 1.6 million people estimated in the first quarter of 2022 (2022)<br>
+
 **Revenue from forest resources**<br>
 4.45% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0.04% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to reduced incomes and localized shortfalls in cereal production -</em> cereal production declined to a below‑average level in 2022 and along with the impact of rising food prices, the number of food insecure is foreseen to increase at the end of 2022 to levels above the 1.6 million people estimated in the first quarter of 2022 (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 24.7 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 5.14 megatons (2016 est.)<br>
+_methane emissions_: 14.1 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,608,268 tons (2002 est.)<br>
@@ -727,7 +727,7 @@ the ZDF is responsible for preserving the country’s sovereignty and territoria
 <p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto</p> <p><em>Zambia-Tanzania</em>: some drug smuggling may take place across the Zambia-Tanzania border; there are no known current territorial issues, as both states have continued to recognize the colonial boundaries last modified in 1937; the boundary in Lake Tanganyika remains undefined.<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 54,047 (Democratic Republic of the Congo) (refugees and asylum seekers), 7,703 (Burundi) (2023)<br>
+_refugees (country of origin)_: 54,288 (Democratic Republic of the Congo) (refugees and asylum seekers), 7,703 (Burundi) (2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List —<strong> </strong>Zambia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts included increasing investigations, prosecutions, and convictions in trafficking crimes, launching a national action plan for trafficking in persons and implementing a national referral mechanism, and increasing screening and identification of victims among migrants; however, the government did not demonstrate overall increasing efforts to expand anti-trafficking capacity; officials did not amend laws to criminalize all forms of child sex trafficking, nor approve guidelines for funding or shelter operations; because the government has devoted sufficient resources to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards, Zambia was granted a waiver per the TVPA from an otherwise required downgrade to Tier 3 and, therefore, remained on Tier 2 Watch List for the third consecutive year (2022)<br>

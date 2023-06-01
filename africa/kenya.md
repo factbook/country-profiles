@@ -248,11 +248,6 @@ water pollution from urban and industrial wastes; water shortage and degraded wa
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 25.85 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 17.91 megatons (2016 est.)<br>
-_methane emissions_: 37.65 megatons (2020 est.)<br>
-
 **Climate**<br>
 varies from tropical along coast to arid in interior<br>
 
@@ -268,14 +263,19 @@ _other_: 45.8% (2018 est.)<br>
 _urban population_: 29.5% of total population (2023)<br>
 _rate of urbanization_: 4.09% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions - </em>about 4.4 million people were projected to be severely acutely food insecure between October and December 2022 reflecting consecutive poor rainy seasons since late 2020 that affected crop and livestock production; prices of maize are at high levels across the country due to reduced availabilities and high fuel prices inflating production and transportation costs (2023)<br>
+
 **Revenue from forest resources**<br>
 1.3% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions - </em>about 4.4 million people were projected to be severely acutely food insecure between October and December 2022 reflecting consecutive poor rainy seasons since late 2020 that affected crop and livestock production; prices of maize are at high levels across the country due to reduced availabilities and high fuel prices inflating production and transportation costs (2023)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 25.85 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 17.91 megatons (2016 est.)<br>
+_methane emissions_: 37.65 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,595,099 tons (2010 est.)<br>

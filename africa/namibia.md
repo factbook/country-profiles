@@ -249,11 +249,6 @@ depletion and degradation of water and aquatic resources; desertification; land 
 _party to_: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 22.59 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 4.23 megatons (2016 est.)<br>
-_methane emissions_: 10.4 megatons (2020 est.)<br>
-
 **Climate**<br>
 desert; hot, dry; rainfall sparse and erratic<br>
 
@@ -269,14 +264,19 @@ _other_: 44% (2018 est.)<br>
 _urban population_: 54.9% of total population (2023)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em><em>due to localized shortfalls in cereal production and </em></em><em>rising food prices </em><em>-</em> cereal production increased in 2022 and this is expected to have a positive impact on food security, however, rising prices of basic foods is likely to limit a more substantial improvement (2022)<br>
+
 **Revenue from forest resources**<br>
 0.47% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em><em>due to localized shortfalls in cereal production and </em></em><em>rising food prices </em><em>-</em> cereal production increased in 2022 and this is expected to have a positive impact on food security, however, rising prices of basic foods is likely to limit a more substantial improvement (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 22.59 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 4.23 megatons (2016 est.)<br>
+_methane emissions_: 10.4 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 256,729 tons (1993 est.)<br>
@@ -710,5 +710,5 @@ the NDF’s primary responsibility is external security; it has participated in 
 <p><em>Namibia-Angola-Botswana</em>: concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border</p> <p><em>Namibia-Botswana-Zambia-Zimbabwe</em>: Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; the Kazungula Bridge opened to traffic in May 2021</p> <p><em>Namibia-South Africa</em>: the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia claims a median line boundary, while South Africa supports the northern bank of the river</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,357 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 6,269 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
 

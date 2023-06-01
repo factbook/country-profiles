@@ -244,11 +244,6 @@ air pollution in major cities; soil erosion from overgrazing and other poor farm
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Nuclear Test Ban<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 35.17 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 150.01 megatons (2016 est.)<br>
-_methane emissions_: 49.94 megatons (2020 est.)<br>
-
 **Climate**<br>
 arid to semiarid; mild, wet winters with hot, dry summers along coast; drier with cold winters and hot summers on high plateau; sirocco is a hot, dust/sand-laden wind especially common in summer<br>
 
@@ -269,6 +264,11 @@ _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 35.17 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 150.01 megatons (2016 est.)<br>
+_methane emissions_: 49.94 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 12,378,740 tons (2016 est.)<br>
@@ -337,7 +337,7 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Abdelmadjid TEBBOUNE (since 12 December 2019)<br>
-_head of government_: Prime Minister Ayman BENABDERRAHMANE (since 7 July 2021) <h1> </h1><br>
+_head of government_: Prime Minister Ayman BENABDERRAHMANE (since 7 July 2021)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second term); election last held on 12 December 2019 (next to be held in 2024); prime minister nominated by the president after consultation with the majority party in Parliament<br>
 _election results_: <em>2019:</em> Abdelmadjid TEBBOUNE (FLN) 58.1%, Abdelkader BENGRINA (El-Bina) 17.4%, Ali BENFLIS (Talaie El Hurriyet) 10.6%, Azzedine MIHOUBI (National Democratic Rally, RND) 7.3%, Abdelaziz BELAID (Front El Mustakbal, FM) 6.7%<br><br><em>2014:</em> Abdelaziz BOUTEFLIKA reelected president for a fourth term; percent of vote - Abdelaziz BOUTEFLIKA (FLN) 81.5%, Ali BENFLIS (FLN) 12.2%, Abdelaziz BELAID (Future Front) 3.4%, other 2.9%<br>
@@ -692,7 +692,7 @@ Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast
 approximately 140,000 ANP personnel (120,000 Army; 6,000 Navy; 14,000 Air Force); approximately 130,000 National Gendarmerie; approximately 200,000 General Directorate of National Security (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ANP's inventory includes mostly Russian-sourced equipment; since 2010, Algeria has received arms from a variety of countries with Russia as the leading supplier (2022)<br>
+the ANP's inventory includes mostly Russian-sourced equipment; in recent years, Algeria has received arms from a variety of countries with Russia as the leading supplier (2023)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service for men and women; 19-30 years of age for mandatory service for men (all Algerian men must register at age 17); service obligation reduced from 18 to 12 months in 2014 (2023)<br>

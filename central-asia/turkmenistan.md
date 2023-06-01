@@ -250,11 +250,6 @@ contamination of soil and groundwater with agricultural chemicals, pesticides; s
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 19.02 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 70.63 megatons (2016 est.)<br>
-_methane emissions_: 52.09 megatons (2020 est.)<br>
-
 **Climate**<br>
 subtropical desert<br>
 
@@ -275,6 +270,11 @@ _rate of urbanization_: 2.23% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 19.02 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 70.63 megatons (2016 est.)<br>
+_methane emissions_: 52.09 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 500,000 tons (2013 est.)<br>
@@ -327,7 +327,7 @@ Independence Day, 27 October (1991)<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 14 September 2016<br>
-_amendments_: proposed by the Mejlisi; passage requires two-thirds majority vote or absolute majority approval in a referendum; amended several times, last in 2020 (changed legislature to bicameral)<br>
+_amendments_: proposed by the Assembly or Mejlis; passage requires two-thirds majority vote or absolute majority approval in a referendum; amended several times, last in 2023 (changed legislature from bicameral to unicameral Assembly or Mejlis; reestablished People's Council or Halk Maslahaty and named former president Gurbanguly BERDIMUHAMEDOW as National Leader of the Turkmen people<br>
 
 **Legal system**<br>
 civil law system with Islamic (sharia) law influences<br>
@@ -352,10 +352,10 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em>2022:</em> Serdar BERDIMUHAMEDOW elected president; percent of vote - Serdar BERDIMUHAMEDOW 73.0%,  Khydyr NUNNAYEV 11.1%, Agadzhan BEKMYRADOV 7.2%, other 8.7%; note - Serdar BERDIMUHAMEDOW is the son of previous president Gurbanguly BERDIMUHAMEDOW<br><br><em>2017:</em> Gurbanguly BERDIMUHAMEDOW reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Mejlis (Assembly) (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms); formerly the Mejlis (Assembly) was the lower house of the bicameral Milli Genes (National Council), which consisted of an upper house, the Halk Maslahaty (People's Council), and the Mejlis (Assembly)<br>
+_description_: unicameral Assembly or Mejlis (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms); formerly the Assembly was the lower house of the bicameral National Council or Milli Genes, which consisted of an upper house, the People's Council or Halk Maslahaty, and the Assembly or Mejlis<br>
 _elections_: Mejlis (Assembly) - last held on 26 March 2023 for the Mejlis and local councils<br>
-_election results_: <em>26 March 2023;</em> percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition as of early 2023 (125 members) - total percent of women: 26%, total percent of deputies under the age of 40: 41%<br>People's Council - percent of vote by party - NA; seats by party - DPT 3, independent 45; composition as of mid-2022 (55 members) - men 41, women 14, percent of women 25.5%<br>Assembly - percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition as of mid-2022 (116 members) - men 86, women 30, percent of women 25.9%; note - total percent of National Council percent of women 25.7%<br>
-<strong>note:</strong> on 22 January 2023, a joint session of the then Milli Genes (National Council) voted unanimously to abolish itself, re-establishing a unicameral legislature and a separate Halk Maslahaty (People's Council)<br>
+_election results_: percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition as of early as of April 2023 men 93, women 32, percent of women 25.6%&nbsp;<br>
+<strong>note:</strong> on 22 January 2023, a joint session of the then bicameral National Council or Milli Genes voted unanimously to abolish itself, re-establishing a unicameral legislature and a separate People's Council or Halk Maslahaty<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Turkmenistan (consists of the court president and 21 associate judges and organized into civil, criminal, and military chambers)<br>

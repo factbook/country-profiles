@@ -216,11 +216,6 @@ deforestation; soil erosion and silting affects marine life on coral reefs; wate
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 12.31 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.24 megatons (2016 est.)<br>
-_methane emissions_: 0.1 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical, tempered by constant sea breezes; little seasonal temperature variation; rainy season (May to November)<br>
 
@@ -241,6 +236,11 @@ _rate of urbanization_: 1.06% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 12.31 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.24 megatons (2016 est.)<br>
+_methane emissions_: 0.1 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 32,892 tons (2015 est.)<br>

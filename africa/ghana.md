@@ -260,11 +260,6 @@ recurrent drought in north severely affects agricultural activities; deforestati
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Marine Life Conservation<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 31.95 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 16.67 megatons (2016 est.)<br>
-_methane emissions_: 22.75 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; warm and comparatively dry along southeast coast; hot and humid in southwest; hot and dry in north<br>
 
@@ -285,6 +280,11 @@ _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 31.95 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 16.67 megatons (2016 est.)<br>
+_methane emissions_: 22.75 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3,538,275 tons (2005 est.)<br>

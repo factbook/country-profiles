@@ -224,11 +224,6 @@ population growth; water pollution, most of the population does not have access 
 _party to_: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.31 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.15 megatons (2016 est.)<br>
-_methane emissions_: 0.5 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; moderated by southeast trade winds from May to October; moderate rainfall from November to April; may be affected by cyclones from December to April<br>
 
@@ -249,6 +244,11 @@ _rate of urbanization_: 2.55% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 10.31 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.15 megatons (2016 est.)<br>
+_methane emissions_: 0.5 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 70,225 tons (2012 est.)<br>
@@ -330,7 +330,7 @@ Green Confederation or GC [Moana CARCASSES Kalosil]<br>Iauko Group or IG [Tony N
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IOM, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIF, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Odo TEVI (since 8 September 2014)<br>note - also Permanent Representative to the UN<br>
+_chief of mission_: Ambassador Odo TEVI (since 8 September 2017)<br>note - also Permanent Representative to the UN<br>
 _telephone_: [1] (212) 661-4303<br>
 _FAX_: [1] (212) 422-3427<br>
 _email address and website_: email - vanunmis@aol.com<br>web address - https://www.un.int/vanuatu/<br>

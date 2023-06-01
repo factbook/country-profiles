@@ -196,9 +196,6 @@ destination and transit point for illegal Haitian immigrants bound for the Baham
 **Environment - current issues**<br>
 limited natural freshwater resources, private cisterns collect rainwater<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.22 megatons (2016 est.)<br>
-
 **Climate**<br>
 tropical; marine; moderated by trade winds; sunny and relatively dry<br>
 
@@ -219,6 +216,9 @@ _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_carbon dioxide emissions_: 0.22 megatons (2016 est.)<br>
 
 ## Government
 

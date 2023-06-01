@@ -236,11 +236,6 @@ air pollution; air emissions from transport and electricity power stations; wate
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 94, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Persistent Organic Pollutants, Air Pollution-Volatile Organic Compounds<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 15.69 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 62.43 megatons (2016 est.)<br>
-_methane emissions_: 9.8 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate; mild, wet winters; hot, dry summers<br>
 
@@ -261,6 +256,11 @@ _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.04% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 15.69 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 62.43 megatons (2016 est.)<br>
+_methane emissions_: 9.8 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,477,424 tons (2014 est.)<br>
@@ -325,14 +325,14 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Ekaterini SAKELLAROPOULOU (since 13 March 2020)<br>
-_head of government_: Prime Minister Kyriakos MITSOTAKIS (since 8 July 2019)<br>
+_head of government_: Caretaker Prime Minister Ioannis SARMAS (since 25 May 2023)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president elected by Hellenic Parliament for a 5-year term (eligible for a second term); election last held on&nbsp;22 January 2020&nbsp;(next to be held by February 2025); president appoints as prime minister the leader of the majority party or coalition in the Hellenic Parliament<br>
 _election results_: <em>2020:</em> Katerina SAKELLAROPOULOU (independent) elected president by Parliament - 261 of 300 votes; note - SAKELLAROPOULOU is Greece's first woman president<br><br><em>2015:</em> Prokopis PAVLOPOULOS (ND) elected president by Parliament - 233 of 300 votes<br>
 
 **Legislative branch**<br>
 _description_: unicameral Hellenic Parliament or Vouli ton Ellinon (300 seats; 280 members in multi-seat and single-seat constituencies and 15 members - including 3 seats for Greek diaspora - in a single nationwide constituency directly elected by open party-list proportional representation vote; members serve up to 4 years); &nbsp;note - only parties surpassing a 3% threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold<br>
-_elections_: last held on 7 July 2019 (next to be held on 21 May 2023)<br>
+_elections_: last held on 21 May 2023 (next to be held on 25 June 2023 because a government could not be formed)<br>
 _election results_: percent of vote by party - ND 39.9%, SYRIZA 31.5%, KINAL 8.1%, KKE 5.3%, Greek Solution 3.7%, MeRA25 3.4%, other 8.1%; seats by party - ND 158, SYRIZA 86, KINAL 22, KKE 15, Greek Solution 10, MeRA25 9; composition - men 244, women 56, percent of women 18.7%<br>
 
 **Judicial branch**<br>
@@ -713,7 +713,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 22,704 (Ukraine) (as of 31 March 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,238,391 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
+<strong>note:</strong> 1,238,493 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

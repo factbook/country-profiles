@@ -258,11 +258,6 @@ serious overpopulation and rapid urbanization have led to numerous environmental
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Tropical Timber 2006<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 48.73 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 120.37 megatons (2016 est.)<br>
-_methane emissions_: 143.99 megatons (2020 est.)<br>
-
 **Climate**<br>
 varies; equatorial in south, tropical in center, arid in north<br>
 
@@ -278,14 +273,19 @@ _other_: 12.5% (2018 est.)<br>
 _urban population_: 54.3% of total population (2023)<br>
 _rate of urbanization_: 3.92% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_widespread lack of access_: <em><em>due to persistent civil conflict in the northern areas, </em></em><em>floods, high food prices, and an economic slowdown </em><em>-</em> about 25.3 million people are projected to face acute food insecurity during the June to August 2023 lean season; this would be a significant deterioration compared to last year, when 19.45 million people were estimated to be acutely food insecure; acute food insecurity is mostly driven by the deterioration of security conditions and conflicts in northern states, which have led to the displacement of about 3.17 million people as of March 2022 (the latest data available) and are constraining farmers’ access to their lands; widespread flooding in 2022, affecting about 4.5 million people across the country, has further compounded conditions, particularly in areas already facing high levels of insecurity; high food prices and the expected slowdown in economic growth in 2023 are additional drivers of acute food insecurity (2023)<br>
+
 **Revenue from forest resources**<br>
 1.02% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_widespread lack of access_: <em><em>due to persistent civil conflict in the northern areas, </em></em><em>floods, high food prices, and an economic slowdown </em><em>-</em> about 25.3 million people are projected to face acute food insecurity during the June to August 2023 lean season; this would be a significant deterioration compared to last year, when 19.45 million people were estimated to be acutely food insecure; acute food insecurity is mostly driven by the deterioration of security conditions and conflicts in northern states, which have led to the displacement of about 3.17 million people as of March 2022 (the latest data available) and are constraining farmers’ access to their lands; widespread flooding in 2022, affecting about 4.5 million people across the country, has further compounded conditions, particularly in areas already facing high levels of insecurity; high food prices and the expected slowdown in economic growth in 2023 are additional drivers of acute food insecurity (2023)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 48.73 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 120.37 megatons (2016 est.)<br>
+_methane emissions_: 143.99 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 27,614,830 tons (2009 est.)<br>

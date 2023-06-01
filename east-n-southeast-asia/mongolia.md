@@ -247,11 +247,6 @@ limited natural freshwater resources in some areas; the burning of soft coal in 
 _party to_: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 40.42 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 25.37 megatons (2016 est.)<br>
-_methane emissions_: 13.72 megatons (2020 est.)<br>
-
 **Climate**<br>
 desert; continental (large daily and seasonal temperature ranges)<br>
 
@@ -272,6 +267,11 @@ _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 8.62% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 40.42 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 25.37 megatons (2016 est.)<br>
+_methane emissions_: 13.72 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2.9 million tons (2016 est.)<br>

@@ -240,11 +240,6 @@ deforestation (rampant felling of trees for timber and agricultural purposes); s
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 27.12 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.29 megatons (2016 est.)<br>
-_methane emissions_: 1.46 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds<br>
 
@@ -265,6 +260,11 @@ _rate of urbanization_: 3.22% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 27.12 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.29 megatons (2016 est.)<br>
+_methane emissions_: 1.46 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 289,514 tons (2015 est.)<br>

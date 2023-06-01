@@ -250,11 +250,6 @@ limited natural freshwater resources; declining water table; salinity; deforesta
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 32.09 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 25.11 megatons (2016 est.)<br>
-_methane emissions_: 6.04 megatons (2020 est.)<br>
-
 **Climate**<br>
 mostly arid desert; rainy season in west (November to April)<br>
 
@@ -275,6 +270,11 @@ _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 32.09 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 25.11 megatons (2016 est.)<br>
+_methane emissions_: 6.04 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,529,997 tons (2013 est.)<br>
@@ -712,7 +712,7 @@ the JAF inventory is comprised of a wide mix of imported equipment from Europe, 
 330 Mali (MINUSMA) (May 2022)<br>
 
 **Military - note**<br>
-the Jordanian military traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s<br><br>due largely to its proximity to regional conflicts in Iraq and Syria, the presence of major terrorist organizations in both of those countries, and the Israeli-Palestinian conflict, the highest priorities of Jordan’s military and security services in 2022 included securing its borders and the potential for domestic terrorist attacks; the terrorist group Hizballah and Iranian-backed militia forces were operating in southwestern Syria near Jordan’s border while fighters from the Islamic State of Iraq and ash-Sham (ISIS) terrorist group continued operating in both Iraq and Syria; ISIS fighters included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan<br><br>Jordan has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>Jordan signed a peace treaty with Israel in 1994 (2022)<br>
+the JAF traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s; it is responsible for territorial defense and border security, but also has a supporting role for internal security; the JAF’s primary concerns are terrorist and criminal threats emanating from its 230-mile border with Syria and 112-mile border with Iraq, as well as the potential impact of Israeli-Palestinian tensions; the terrorist group Hizballah and Iranian-backed militia forces operate in southwestern Syria near Jordan’s border while fighters from the Islamic State of Iraq and ash-Sham (ISIS) terrorist group continue to operate in both Iraq and Syria; ISIS fighters have included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan<br><br>the JAF is a professional military that trains regularly and participates in both bilateral and multinational exercises; in recent years, it has taken part in regional military operations alongside allied forces in Afghanistan, Syria, and Yemen; it also participates in UN peacekeeping missions; the Army is organized and equipped for a mobile territorial defense against conventional threats and rapid responses to unconventional threats such as terrorism; border security forces are backed up by approximately 10 mechanized or armored brigades, plus a rapid reaction/high readiness airborne/ranger brigade; the Army also has a well-regarded special operations/counterterrorism group, and Jordan hosts an international special operations training center; the Air Force maintains about 50 US-made multirole fighter aircraft and approximately 50 attack helicopters; the Coast Guard has a small force of fast, gun- or missile-armed patrol craft for monitoring Jordan’s coastline on the Gulf of Aqaba<br><br>the US is a key security partner, and Jordan is one of the largest recipients of US military aid in the region; it cooperates with the US on a number of issues, including border and maritime security, arms transfers, cybersecurity, and counterterrorism; Jordan has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
 
 ## Terrorism
 

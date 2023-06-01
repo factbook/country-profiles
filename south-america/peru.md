@@ -260,11 +260,6 @@ deforestation (some the result of illegal logging); overgrazing leading to soil 
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 24.27 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 57.41 megatons (2016 est.)<br>
-_methane emissions_: 30.17 megatons (2020 est.)<br>
-
 **Climate**<br>
 varies from tropical in east to dry desert in west; temperate to frigid in Andes<br>
 
@@ -285,6 +280,11 @@ _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 24.27 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 57.41 megatons (2016 est.)<br>
+_methane emissions_: 30.17 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 8,356,711 tons (2014 est.)<br>

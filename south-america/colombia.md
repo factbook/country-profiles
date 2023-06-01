@@ -254,11 +254,6 @@ deforestation resulting from timber exploitation in the jungles of the Amazon an
 _party to_: Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Law of the Sea<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 15.24 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 97.81 megatons (2016 est.)<br>
-_methane emissions_: 81.52 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical along coast and eastern plains; cooler in highlands<br>
 
@@ -279,6 +274,11 @@ _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.75% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 15.24 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 97.81 megatons (2016 est.)<br>
+_methane emissions_: 81.52 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 12,150,120 tons (2011 est.)<br>

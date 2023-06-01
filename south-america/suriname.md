@@ -237,11 +237,6 @@ deforestation as timber is cut for export; pollution of inland waterways by smal
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 23.6 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 1.74 megatons (2016 est.)<br>
-_methane emissions_: 2.28 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; moderated by trade winds<br>
 
@@ -262,6 +257,11 @@ _rate of urbanization_: 0.88% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 23.6 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 1.74 megatons (2016 est.)<br>
+_methane emissions_: 2.28 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 78,620 tons (2010 est.)<br>

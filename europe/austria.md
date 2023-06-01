@@ -244,11 +244,6 @@ some forest degradation caused by air and soil pollution; soil pollution results
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Air Pollution-Multi-effect Protocol, Antarctic-Environmental Protection<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 12.43 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 61.45 megatons (2016 est.)<br>
-_methane emissions_: 6.34 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate; continental, cloudy; cold winters with frequent rain and some snow in lowlands and snow in mountains; moderate summers with occasional showers<br>
 
@@ -269,6 +264,11 @@ _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 12.43 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 61.45 megatons (2016 est.)<br>
+_methane emissions_: 6.34 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.836 million tons (2015 est.)<br>
@@ -342,7 +342,7 @@ _residency requirement for naturalization_: 10 years<br>
 **Executive branch**<br>
 _chief of state_: President Alexander VAN DER BELLEN (since 26 January 2017); note - President Alexander VAN DER BELLEN was re-elected to a second six-year term on 9 October 2022<br>
 _head of government_: Chancellor Karl NEHAMMER (since 6 December 2021); note - Chancellor Alexander SCHALLENBERG resigned on 2 December 2021<br>
-_cabinet_: Council of Ministers chosen by the president on the advice of the chancellor<br>
+_cabinet_: Council of Ministers proposed by the chancellor and appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); elections last held on 9 October 2022 (first round), (second round, which was annulled), (next election to be held in 2028); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor<br>
 _election results_: 2022: Alexander VAN DER BELLEN elected in first round; percent of vote - Alexander VAN DER BELLEN (the Greens) 56.7%, Walter ROSENKRANZ (FPO) 17.7%, Dominik WLAZNY (Beer) 8.3%, Tassilo WALLENTIN (independent) 8.1%, Gerald GROSZ (independent) 5.6%<em><br><br>2016:</em> Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round re-vote - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br>
 
@@ -689,7 +689,8 @@ _river port(s)_: Enns, Krems, Linz, Vienna (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Austrian Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2023)<br>
+Austrian Armed Forces (Bundesheer): Land Forces, Air Forces, Cyber Forces, Special Forces, Militia (reserves) (2023)<br>
+<strong>note:</strong> the federal police maintain internal security and report to the Ministry of the Interior <br>
 
 **Military expenditures**<br>
 0.7% of GDP (2022 est.)<br>
@@ -699,10 +700,10 @@ Austrian Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (20
 0.7% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active duty personnel (20,000 Army; 5,000 Air Force) (2022)<br>
+approximately 20-25,000 active duty personnel (includes active militia) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of domestically produced and imported weapons systems from European countries and the US; the Austrian defense industry produces a range of equipment and partners with other countries (2022)<br>
+the military's inventory includes a mix of domestically produced and imported weapons systems from European countries and the US; the Austrian defense industry produces a range of equipment and partners with other countries (2023)<br>
 
 **Military service age and obligation**<br>
 registration requirement at age 17, the legal minimum age for voluntary military service; men above the age of 18 are subject to compulsory military service; women may volunteer; compulsory service is for 6 months, or optionally, alternative civil/community service (Zivildienst) for 9 months (2023)<br>

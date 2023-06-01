@@ -257,11 +257,6 @@ soil erosion as a result of overgrazing and the expansion of agriculture into ma
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: Law of the Sea, Nuclear Test Ban<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 35.61 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.5 megatons (2016 est.)<br>
-_methane emissions_: 1.42 megatons (2020 est.)<br>
-
 **Climate**<br>
 equatorial; high plateau with considerable altitude variation (772 m to 2,670 m above sea level); average annual temperature varies with altitude from 23 to 17 degrees Celsius but is generally moderate as the average altitude is about 1,700 m; average annual rainfall is about 150 cm; two wet seasons (February to May and September to November), and two dry seasons (June to August and December to January)<br>
 
@@ -277,14 +272,19 @@ _other_: 20.1% (2018 est.)<br>
 _urban population_: 14.8% of total population (2023)<br>
 _rate of urbanization_: 5.43% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_widespread lack of access_: <em>due to the effects of weather - </em>about 646,000 people are estimated to be severely food insecure between June and September 2022; the main drivers are poor rains in May in some central and southern eastern areas that affected pulses production, the socio-economic impact of the COVID‑19 pandemic, and high food prices due to elevated fuel prices inflating transport costs (2022)<br>
+
 **Revenue from forest resources**<br>
 10.31% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to the effects of weather - </em>about 646,000 people are estimated to be severely food insecure between June and September 2022; the main drivers are poor rains in May in some central and southern eastern areas that affected pulses production, the socio-economic impact of the COVID‑19 pandemic, and high food prices due to elevated fuel prices inflating transport costs (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 35.61 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.5 megatons (2016 est.)<br>
+_methane emissions_: 1.42 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,872,016 tons (2002 est.)<br>
@@ -374,7 +374,7 @@ Front for Democracy in Burundi-Nyakuri or FRODEBU-Nyakuri [Keffa NIBIZI]<br>Fron
 ACP, AfDB, ATMIS, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Jean de Dieu NDIKUMANA (since 7 July 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Pr&eacute;f&eacute;r&eacute; NDAYISHIMIYE (since 18 March 2023)<br>
 _chancery_: 2233 Wisconsin Avenue NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 342-2574<br>
 _FAX_: [1] (202) 342-2578<br>

@@ -218,11 +218,6 @@ deforestation; overgrazing of mountain meadows contributes to soil erosion; air 
 _party to_: Biodiversity, Climate Change, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 9.95 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.47 megatons (2016 est.)<br>
-_methane emissions_: 0.05 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate; snowy, cold winters and warm, dry summers<br>
 
@@ -240,6 +235,11 @@ _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 9.95 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.47 megatons (2016 est.)<br>
+_methane emissions_: 0.05 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 43,000 tons (2012 est.)<br>
@@ -508,7 +508,7 @@ _total_: 320 km (2019)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Police Corps of Andorra<br>
+no regular military forces; Police Corps of Andorra (under the Ministry of Justice and Interior)<br>
 
 **Military - note**<br>
 defense is the responsibility of France and Spain<br>

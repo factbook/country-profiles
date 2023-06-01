@@ -237,11 +237,6 @@ deforestation; overgrazing; soil erosion; desertification; depletion of water re
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Environmental Modification<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 39.43 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 28.83 megatons (2016 est.)<br>
-_methane emissions_: 12.93 megatons (2020 est.)<br>
-
 **Climate**<br>
 mostly desert; hot, dry, sunny summers (June to August) and mild, rainy winters (December to February) along coast; cold weather with snow or sleet periodically in Damascus<br>
 
@@ -259,6 +254,11 @@ _rate of urbanization_: 5.38% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _exceptional shortfall in aggregate food production/supplies_: <em>due to civil conflict and economic crisis - </em>the latest available nationwide food security assessment estimated that about 12 million people, 60% of the overall population, were food insecure in 2021, a slight decline from 12.4 million in 2020, but 5 million more than at the end of 2019, mostly due to constrained livelihood opportunities and a rapidly worsening economy (2022)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 39.43 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 28.83 megatons (2016 est.)<br>
+_methane emissions_: 12.93 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.5 million tons (2009 est.)<br>

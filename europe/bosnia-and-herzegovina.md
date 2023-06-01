@@ -237,11 +237,6 @@ air pollution; deforestation and illegal logging; inadequate wastewater treatmen
 _party to_: Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 27.25 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 21.85 megatons (2016 est.)<br>
-_methane emissions_: 2.92 megatons (2020 est.)<br>
-
 **Climate**<br>
 hot summers and cold winters; areas of high elevation have short, cool summers and long, severe winters; mild, rainy winters along coast<br>
 
@@ -262,6 +257,11 @@ _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.34% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 27.25 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 21.85 megatons (2016 est.)<br>
+_methane emissions_: 2.92 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,248,718 tons (2015 est.)<br>
@@ -689,7 +689,7 @@ Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegov
 approximately 9,000 active duty personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a wide mix of secondhand equipment mostly of French, Soviet, or US origin (2022)<br>
+the military's inventory is a wide mix of secondhand equipment mostly of French, Soviet, or US origin (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; mandatory retirement at age 35 or after 15 years of service for junior enlisted personnel, mandatory retirement at age 50 and 30 years of service for non-commissioned officers, mandatory retirement at age 55 and 30 years of service for all commissioned officers; conscription abolished in 2005 (2021)<br>
@@ -712,7 +712,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 **Refugees and internally displaced persons**<br>
 _IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
 _stateless persons_: 48 (2022)<br>
-<strong>note: </strong>120,960 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
+<strong>note: </strong>121,540 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

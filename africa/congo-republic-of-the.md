@@ -258,11 +258,6 @@ air pollution from vehicle emissions; water pollution from raw sewage; tap water
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 38.67 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 3.28 megatons (2016 est.)<br>
-_methane emissions_: 2.24 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; rainy season (March to June); dry season (June to October); persistent high temperatures and humidity; particularly enervating climate astride the Equator<br>
 
@@ -278,14 +273,19 @@ _other_: 3.3% (2018 est.)<br>
 _urban population_: 69.2% of total population (2023)<br>
 _rate of urbanization_: 3.19% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to floods -</em> above average rainfall amounts since November 2022 triggered flooding in December 2022 and January 2023 in central and northern parts of the country, displacing people; according to damage assessment reports, about 165,000 people have been affected in 23 districts in the departments of Cuvette, Likouala, Plateaux and Sangha (2023)<br>
+
 **Revenue from forest resources**<br>
 3.17% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to floods -</em> above average rainfall amounts since November 2022 triggered flooding in December 2022 and January 2023 in central and northern parts of the country, displacing people; according to damage assessment reports, about 165,000 people have been affected in 23 districts in the departments of Cuvette, Likouala, Plateaux and Sangha (2023)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 38.67 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 3.28 megatons (2016 est.)<br>
+_methane emissions_: 2.24 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 451,200 tons (1993 est.)<br>
@@ -727,6 +727,6 @@ the FAC is viewed as having limited capabilities due to obsolescent and poorly m
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 27,420 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022); 30,204 (Central African Republic) (2023)<br>
+_refugees (country of origin)_: 27,445 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022); 30,204 (Central African Republic) (2023)<br>
 _IDPs_: 159,830 (multiple civil wars since 1992) (2022)<br>
 

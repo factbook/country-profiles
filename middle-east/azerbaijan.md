@@ -244,11 +244,6 @@ local scientists consider the Abseron Yasaqligi (Apsheron Peninsula) (including 
 _party to_: Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 18.2 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 37.62 megatons (2016 est.)<br>
-_methane emissions_: 44.87 megatons (2020 est.)<br>
-
 **Climate**<br>
 dry, semiarid steppe<br>
 
@@ -270,6 +265,11 @@ _rate of urbanization_: 1.38% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 18.2 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 37.62 megatons (2016 est.)<br>
+_methane emissions_: 44.87 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,930,349 tons (2015 est.)<br>
@@ -677,7 +677,8 @@ _major seaport(s)_: Baku (Baki) located on the Caspian Sea<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Azerbaijan Armed Forces: Land Forces (Combined Arms Army), Air Forces, Navy Forces; Ministry of Internal Affairs: State Border Service (includes Coast Guard), Internal Security Troops (2022)<br>
+Azerbaijan Armed Forces: Land Forces (Combined Arms Army), Air Forces, Navy Forces; Ministry of Internal Affairs: Internal Troops, local police forces; State Border Service; Special State Protection Service (SSPS): National Guard (2023)<br>
+<strong>note:</strong> the Ministry of Internal Affairs and the State Security Service (intelligence, counterterrorism) are responsible for internal security; the SSPS is under the president and provides protective services to senior officials, foreign missions, significant state assets, government buildings, etc; the National Guard also serves as a reserve for the Army<br>
 
 **Military expenditures**<br>
 4.5% of GDP (2022 est.)<br>
@@ -690,7 +691,7 @@ Azerbaijan Armed Forces: Land Forces (Combined Arms Army), Air Forces, Navy Forc
 information varies; approximately 65,000 active armed forces (55,000 Army; 2,000 Navy; 8,000 Air Force); approximately 15,000 Ministry of Internal Affairs troops (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised mostly of Russian and Soviet-era weapons systems with a small mix of equipment from other countries, including Israel and Turkey (2022)<br>
+the military's inventory is comprised mostly of Russian and Soviet-era weapons systems with a small mix of equipment from other countries, including Israel and Turkey (2023)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for compulsory military service for men; 17-35 years of age for voluntary service for men and women (2023)<br>

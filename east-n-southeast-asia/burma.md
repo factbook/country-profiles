@@ -261,11 +261,6 @@ deforestation; industrial pollution of air, soil, and water; inadequate sanitati
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 34.69 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 25.28 megatons (2016 est.)<br>
-_methane emissions_: 42.2 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical monsoon; cloudy, rainy, hot, humid summers (southwest monsoon, June to September); less cloudy, scant rainfall, mild temperatures, lower humidity during winter (northeast monsoon, December to April)<br>
 
@@ -281,14 +276,19 @@ _other_: 32.6% (2018 est.)<br>
 _urban population_: 32.1% of total population (2023)<br>
 _rate of urbanization_: 1.85% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to conflict, political instability, and economic constraints -</em> the political crisis, following the military takeover on 1 February 2021, resulted in increased tensions and unrest throughout the country; the current uncertain political situation may further compromise the fragile situation of vulnerable households and the Rohingya IDPs residing in the country; armed conflict between the military and non‑state armed groups led to population displacements, disrupted agricultural activities and limited access for humanitarian support especially in Rakhine, Chin, Kachin, Kayin, Kayah and Shan states; income losses and a decline in remittances, due to the impact of the COVID‑19 pandemic, have affected the food security situation of vulnerable households; domestic prices of Emata rice, the most consumed variety in the country, were at high levels in May 2022, constraining access to a key staple food (2022)<br>
+
 **Revenue from forest resources**<br>
 1.69% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0.01% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to conflict, political instability, and economic constraints -</em> the political crisis, following the military takeover on 1 February 2021, resulted in increased tensions and unrest throughout the country; the current uncertain political situation may further compromise the fragile situation of vulnerable households and the Rohingya IDPs residing in the country; armed conflict between the military and non‑state armed groups led to population displacements, disrupted agricultural activities and limited access for humanitarian support especially in Rakhine, Chin, Kachin, Kayin, Kayah and Shan states; income losses and a decline in remittances, due to the impact of the COVID‑19 pandemic, have affected the food security situation of vulnerable households; domestic prices of Emata rice, the most consumed variety in the country, were at high levels in May 2022, constraining access to a key staple food (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 34.69 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 25.28 megatons (2016 est.)<br>
+_methane emissions_: 42.2 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,677,307 tons (2000 est.)<br>

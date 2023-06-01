@@ -238,11 +238,6 @@ limited supplies of potable water; wildlife populations being depleted because o
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 16.26 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 1.16 megatons (2016 est.)<br>
-_methane emissions_: 1.9 megatons (2020 est.)<br>
-
 **Climate**<br>
 varies from tropical to near temperate<br>
 
@@ -258,14 +253,19 @@ _other_: 0% (2018 est.)<br>
 _urban population_: 24.8% of total population (2023)<br>
 _rate of urbanization_: 2.42% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to higher staple food prices - </em>the price of maize meal, the key food staple, increased in the first five months of 2022 and, as of May 2022, were 3 percent higher on a yearly basis; wheat flour prices were also at record highs in May 2022; this mainly reflects the elevated global prices and the country’s high dependence on imported wheat to satisfy national consumption needs (2022)<br>
+
 **Revenue from forest resources**<br>
 2.25% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0.1% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to higher staple food prices - </em>the price of maize meal, the key food staple, increased in the first five months of 2022 and, as of May 2022, were 3 percent higher on a yearly basis; wheat flour prices were also at record highs in May 2022; this mainly reflects the elevated global prices and the country’s high dependence on imported wheat to satisfy national consumption needs (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 16.26 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 1.16 megatons (2016 est.)<br>
+_methane emissions_: 1.9 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 218,199 tons (2016 est.)<br>

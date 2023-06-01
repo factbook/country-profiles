@@ -231,11 +231,6 @@ air pollution; rapid population growth and high energy demand contribute to wate
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Law of the Sea<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 39.44 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 206.32 megatons (2016 est.)<br>
-_methane emissions_: 56.55 megatons (2020 est.)<br>
-
 **Climate**<br>
 desert; cooler in eastern mountains<br>
 
@@ -256,6 +251,11 @@ _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 39.44 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 206.32 megatons (2016 est.)<br>
+_methane emissions_: 56.55 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,413,453 tons (2015 est.)<br>
@@ -678,11 +678,11 @@ the military's inventory is comprised of a wide variety of mostly modern importe
 <strong>note 1:</strong> compulsory service may be completed in the uniformed military, the Ministry of Interior, or other security institutions designated by the military leadership<br><br><strong>note 2:</strong> the UAE military employs a considerable number—estimates range from a low of about 30% to as much as 70% of the force—of foreign personnel on contract; the UAE has also hired foreign mercenaries for some operations during its intervention in Yemen<br>
 
 **Military deployments**<br>
-estimates vary; reportedly a few hundred remain in Yemen; has maintained some troops at military bases in Eritrea and Somalia (Somaliland) (2022)<br>
+continues to maintain a small force in Yemen; also maintains some troops at military bases in Eritrea and Somalia (Somaliland) (2023)<br>
 <strong>note:</strong> in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with an estimated 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC)<br>
 
 **Military - note**<br>
-the UAE hosts a multi-service French military base, which includes the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and hosts about 3,500 US troops, mostly air and naval personnel<br><br>the UAE's military traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern Emirati armed forces were formed in 1976 (2023)<br>
+the UAE Armed Forces (UAEAF) are responsible for external defense and supporting the UAE’s foreign policy objectives; the military’s primary concerns include terrorism, regional instability, particularly in neighboring Yemen, and Iran, including a territorial dispute over 3 islands in the Strait of Hormuz and Iranian support to proxy forces in the region; in recent years, the UAE has undertaken a large military modernization program to go along with an assertive security policy which has included military interventions in Libya, Syria, and Yemen, as well as peacekeeping missions in Afghanistan and Somalia; the UAEAF has organized, trained, and equipped tens of thousands of militia forces in Yemen and offered training and equipment to several countries in Africa; the UAE also hosts the region’s first military school for women, which has trained female peacekeepers for deployment in Africa and Asia<br><br>the UAE has strong security ties to France and the US; it hosts a multi-service French military base, which includes the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and hosts about 3,500 US troops, mostly air and naval personnel; it also has defense ties with a variety of other countries, including Australia, China, Egypt, Israel, Jordan, Malaysia, South Korea, and the UK, as well as fellow members of the Gulf Cooperation Council, particularly Saudi Arabia, and NATO<br><br>the UAEAF traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern UAEAF were formed in 1976; today, the UAE’s military is considered to be one of the best-trained and most capable forces in the Persian Gulf region; the Land Forces have approximately 5 brigades of armored, light infantry, and mechanized forces, plus supporting artillery units; the Presidential Guard, considered the elite of the Land Forces, has a mechanized brigade and a special operations command; the Air Forces and the Joint Aviation Command together have nearly 150 French- and US-made combat aircraft with more advanced US multipurpose fighters on order; the Navy’s principal warships include nearly 15 corvettes and offshore patrol vessels, also with more on order (2023)<br>
 
 ## Transnational Issues
 

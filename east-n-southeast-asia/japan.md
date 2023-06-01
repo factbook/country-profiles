@@ -73,7 +73,7 @@ all primary and secondary regions of high population density lie on the coast; o
 <p>many dormant and some active volcanoes; about 1,500 seismic occurrences (mostly tremors but occasional severe earthquakes) every year; tsunamis; typhoons</p><p><strong>volcanism:</strong> both Unzen (1,500 m) and Sakura-jima (1,117 m), which lies near the densely populated city of Kagoshima, have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; other notable historically active volcanoes include Asama, Honshu Island's most active volcano, Aso, Bandai, Fuji, Iwo-Jima, Kikai, Kirishima, Komaga-take, Oshima, Suwanosejima, Tokachi, Yake-dake, and Usu; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> strategic location in northeast Asia; composed of four main islands - from north: Hokkaido, Honshu (the largest and most populous), Shikoku, and Kyushu (the "Home Islands") - and 6,848 smaller islands and islets</p> <p><strong>note 2:</strong> Japan annually records the most earthquakes in the world; it is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
+<p><strong>note 1:</strong> strategic location in northeast Asia; composed of four main islands - from north: Hokkaido, Honshu (the largest, most populous, and site of Tokyo, the capital), Shikoku, and Kyushu (the "Home Islands") - and 14,121 smaller islands and islets; only a few hundred of the islands are inhabited<br><br><strong>note 2:</strong> a 2023 Geospatial Authority of Japan survey technically detected 100,000 islands, but only the 14,125 islands with a circumference of at least 100 m (330 ft) were officially counted</p> <p><strong>note 3:</strong> Japan annually records the most earthquakes in the world; it is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
 
 ## People and Society
 
@@ -240,11 +240,6 @@ air pollution from power plant emissions results in acid rain; acidification of 
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 11.45 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 1,135.89 megatons (2016 est.)<br>
-_methane emissions_: 29.99 megatons (2020 est.)<br>
-
 **Climate**<br>
 varies from tropical in south to cool temperate in north<br>
 
@@ -265,6 +260,11 @@ _rate of urbanization_: -0.25% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 11.45 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 1,135.89 megatons (2016 est.)<br>
+_methane emissions_: 29.99 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 43.981 million tons (2015 est.)<br>

@@ -247,11 +247,6 @@ deforestation and illegal logging; soil erosion and exhaustion; inadequate sewag
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 25.66 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.12 megatons (2016 est.)<br>
-_methane emissions_: 0.04 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid; one rainy season (October to May)<br>
 
@@ -272,6 +267,11 @@ _rate of urbanization_: 2.96% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 25.66 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.12 megatons (2016 est.)<br>
+_methane emissions_: 0.04 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 25,587 tons (2014 est.)<br>

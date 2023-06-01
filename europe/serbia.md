@@ -254,11 +254,6 @@ air pollution around Belgrade and other industrial cities; water pollution from 
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 24.27 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 45.22 megatons (2016 est.)<br>
-_methane emissions_: 11.96 megatons (2020 est.)<br>
-
 **Climate**<br>
 in the north, continental climate (cold winters and hot, humid summers with well-distributed rainfall); in other parts, continental and Mediterranean climate (relatively cold winters with heavy snowfall and hot, dry summers and autumns)<br>
 
@@ -280,6 +275,11 @@ _rate of urbanization_: 0.04% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.25% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 24.27 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 45.22 megatons (2016 est.)<br>
+_methane emissions_: 11.96 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.84 million tons (2015 est.)<br>
@@ -722,7 +722,7 @@ the Serbian Armed Forces were established in June 2006; the Serbian military tra
 _refugees (country of origin)_: 17,334 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,594 (includes stateless persons in Kosovo) (2022)<br>
-<strong>note:</strong> 955,783 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
+<strong>note:</strong> 960,017 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Serbia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; Serbia investigated more suspects, revised indicators to identify victims among schoolchildren, and increased resources for the Center for Protection of Trafficking Victims; officials developed a coordination body to support victims during criminal proceedings, formed four Special Working Groups for anti-trafficking issues, and designated an Ombudsman on trafficking; however, the government did not demonstrate overall increasing efforts compared with the previous year to expand its anti-trafficking capacity; there were no proactive efforts to identify victims, and implementation of standard operating procedures remained inadequate; an anti-trafficking council did not meet, and the government did not adopt the 2021-2022 National Action Plan; official complicity in trafficking crimes remained a concern; therefore, Serbia was downgraded to Tier 2 Watch List (2022)<br>

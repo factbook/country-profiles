@@ -248,11 +248,6 @@ decreased emphasis on heavy industry and increased environmental concern by post
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 94, Antarctic-Environmental Protection, Antarctic- Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Persistent Organic Pollutants<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 20.54 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 299.04 megatons (2016 est.)<br>
-_methane emissions_: 46.62 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate with cold, cloudy, moderately severe winters with frequent precipitation; mild summers with frequent showers and thundershowers<br>
 
@@ -273,6 +268,11 @@ _rate of urbanization_: -0.16% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.27% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 20.54 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 299.04 megatons (2016 est.)<br>
+_methane emissions_: 46.62 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 10.863 million tons (2015 est.)<br>
@@ -737,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,602,062 (Ukraine) (as of 15 May 2023)<br>
+_refugees (country of origin)_: 1,605,738 (Ukraine) (as of 22 May 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

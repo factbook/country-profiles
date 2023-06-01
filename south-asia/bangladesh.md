@@ -252,11 +252,6 @@ many people are landless and forced to live on and cultivate flood-prone land; w
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 58.33 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 84.25 megatons (2016 est.)<br>
-_methane emissions_: 59.3 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; mild winter (October to March); hot, humid summer (March to June); humid, warm rainy monsoon (June to October)<br>
 
@@ -272,14 +267,19 @@ _other_: 18.8% (2018 est.)<br>
 _urban population_: 40.5% of total population (2023)<br>
 _rate of urbanization_: 2.88% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to economic constraints and high prices of important food items -</em>  food insecurity is expected to remain fragile, given persisting economic constraints; domestic prices of wheat flour and palm oil, important food items, were at high levels in January 2023; the result of elevated international prices of energy, fuel and food, having been transmitted to the domestic markets (2023)<br>
+
 **Revenue from forest resources**<br>
 0.08% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0.02% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to economic constraints and high prices of important food items -</em>  food insecurity is expected to remain fragile, given persisting economic constraints; domestic prices of wheat flour and palm oil, important food items, were at high levels in January 2023; the result of elevated international prices of energy, fuel and food, having been transmitted to the domestic markets (2023)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 58.33 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 84.25 megatons (2016 est.)<br>
+_methane emissions_: 59.3 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 14,778,497 tons (2012 est.)<br>
@@ -715,7 +715,7 @@ Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bang
 information varies; approximately 165,000 total active personnel (135,000 Army; 15,000 Navy; 15,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-much of the military's inventory is comprised of Chinese- and Russian-origin equipment, with a smaller mix from a variety of other suppliers; in recent years, China has been the leading provider of arms to Bangladesh; as of 2022, Bangladesh was undertaking a large defense modernization program&nbsp; (2022)<br>
+much of the military's inventory is comprised of Chinese- and Russian-origin equipment; in recent years, China has been the leading provider of arms to Bangladesh (2023)<br>
 
 **Military service age and obligation**<br>
 16-21 years of age for voluntary military service; Bangladeshi nationality and 10th grade education required; officers: 17-21 years of age, Bangladeshi nationality, and 12th grade education required (2022)<br>

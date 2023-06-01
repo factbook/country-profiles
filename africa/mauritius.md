@@ -235,11 +235,6 @@ water pollution, degradation of coral reefs; soil erosion; wildlife preservation
 _party to_: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 13.54 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 4.35 megatons (2016 est.)<br>
-_methane emissions_: 2.06 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical, modified by southeast trade winds; warm, dry winter (May to November); hot, wet, humid summer (November to May)<br>
 
@@ -260,6 +255,11 @@ _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 13.54 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 4.35 megatons (2016 est.)<br>
+_methane emissions_: 2.06 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 438,000 tons (2016 est.)<br>

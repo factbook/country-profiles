@@ -245,11 +245,6 @@ overuse of pastures and subsequent soil erosion attributable to population press
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 27.95 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 34.69 megatons (2016 est.)<br>
-_methane emissions_: 23.28 megatons (2020 est.)<br>
-
 **Climate**<br>
 semiarid in south and along coast to Luanda; north has cool, dry season (May to October) and hot, rainy season (November to April)<br>
 
@@ -269,6 +264,11 @@ _rate of urbanization_: 4.04% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 27.95 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 34.69 megatons (2016 est.)<br>
+_methane emissions_: 23.28 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,213,644 tons (2012 est.)<br>
@@ -702,7 +702,7 @@ Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Gue
 approximately 101,000 active troops (95,000 Army; 1,000 Navy; 5,000 Air Force); estimated 10,000 Rapid Reaction Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pact origin; in recent years, Russia has been the principal supplier of military hardware to Angola (2022)<br>
+most Angolan military weapons and equipment are of Russian or of Soviet-era origin; in recent years, Russia has been the principal supplier of military hardware to Angola (2023)<br>
 
 **Military service age and obligation**<br>
 20-45 years of age for compulsory and 18-45 years for voluntary military service for men (registration at age 18 is mandatory); 20-45 years of age for voluntary service for women; 24-month conscript service obligation; Angolan citizenship required; the Navy is entirely staffed with volunteers (2023)<br>
@@ -722,7 +722,7 @@ the International Maritime Bureau reports the territorial waters of Angola are a
 <p><em>Angola-Democratic Republic of Congo (DRC): </em>DRC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: </em>none identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,199 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023)<br>
+_refugees (country of origin)_: 23,214 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

@@ -244,11 +244,6 @@ soil pollution from pesticide use; southern part of the country contaminated wit
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 18.06 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 58.28 megatons (2016 est.)<br>
-_methane emissions_: 17.19 megatons (2020 est.)<br>
-
 **Climate**<br>
 cold winters, cool and moist summers; transitional between continental and maritime<br>
 
@@ -269,6 +264,11 @@ _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 18.06 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 58.28 megatons (2016 est.)<br>
+_methane emissions_: 17.19 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.28 million tons (2015 est.)<br>
@@ -697,14 +697,14 @@ Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force,
 approximately 45,000 active duty troops; information on the individual services varies, but reportedly includes about 25,000 Army, 15,000 Air/Air Defense, and 5,000 Special Operations forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised mostly of Russian/Soviet-origin equipment, and in recent years Russia has continued to be the leading provider of arms; Belarus's defense industry manufactures some equipment (mostly modernized Soviet designs), including vehicles, guided weapons, and electronic warfare systems (2022)<br>
+the military's inventory is comprised mostly of Russian/Soviet-origin equipment, and in recent years Russia has continued to be the leading provider of arms; Belarus's defense industry manufactures some equipment (mostly modernized Soviet designs), including vehicles, guided weapons, and electronic warfare systems (2023)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory military or alternative service; conscript service obligation is 12-18 months, depending on academic qualifications, and 24-36 months for alternative service, also depending on academic qualifications; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2023)<br>
 <strong>note:</strong> conscripts can be assigned to the military, to the Ministry of Interior as internal or border troops, or to the Ministry of Labor and Social Protection (alternative service); as of 2020, conscripts comprised an estimated 40% of the military<br>
 
 **Military - note**<br>
-Belarus has close security ties with Russia, including an integrated air and missile defense system, joint training exercises, and the establishment of three joint training centers since 2020 (1 in Belarus, 2 in Russia); Russia has been the principal supplier of arms to Belarus, and Belarusian troops reportedly train on Russian equipment; Russia leases from Belarus a strategic ballistic missile defense site operated by Russian Aerospace Forces and a global communications facility for the Russian Navy; in 2020, the countries signed an agreement allowing for close security cooperation between the Belarusian Ministry of Interior and the Russian National Guard, including protecting public order and key government facilities, and combating extremism and terrorism; in 2022, Belarus allowed Russian military forces to stage on its territory for its invasion of Ukraine and continues to supply arms and other aid to the Russian military<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes an airborne brigade to CSTO's rapid reaction force (KSOR) (2023)<br>
+Belarus has close security ties with Russia, including an integrated air and missile defense system, joint training exercises, and the establishment of three joint training centers since 2020 (1 in Belarus, 2 in Russia); Russia has been the principal supplier of arms to Belarus, and Belarusian troops reportedly train on Russian equipment; Russia leases from Belarus a strategic ballistic missile defense site operated by Russian Aerospace Forces and a global communications facility for the Russian Navy; in 2020, the countries signed an agreement allowing for close security cooperation between the Belarusian Ministry of Interior and the Russian National Guard, including protecting public order and key government facilities, and combating extremism and terrorism; in 2022, Belarus allowed Russian military forces to stage on its territory for its invasion of Ukraine and continues to supply arms and other aid to the Russian military; in 2023, Belarus allowed Russia to deploy nuclear munitions inside the country<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes an airborne brigade to CSTO's rapid reaction force (KSOR) (2023)<br>
 
 ## Transnational Issues
 

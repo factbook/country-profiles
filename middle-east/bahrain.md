@@ -234,11 +234,6 @@ desertification resulting from the degradation of limited arable land, periods o
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 69.04 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 31.69 megatons (2016 est.)<br>
-_methane emissions_: 15.47 megatons (2020 est.)<br>
-
 **Climate**<br>
 arid; mild, pleasant winters; very hot, humid summers<br>
 
@@ -259,6 +254,11 @@ _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 69.04 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 31.69 megatons (2016 est.)<br>
+_methane emissions_: 15.47 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 951,943 tons (2016 est.)<br>
@@ -671,7 +671,7 @@ Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Roy
 information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); approximately 3,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Bahrain Defense force consists of a mix of equipment acquired from a wide variety of suppliers; in recent years, the US has been the leading supplier of arms to Bahrain (2022)<br>
+the military's inventory consists of a mix of equipment acquired from a wide variety of suppliers; in recent years, the US has been the leading supplier of arms to Bahrain (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; 15 years of age for non-commissioned officers, technicians, and cadets; no conscription (2022)<br>

@@ -253,11 +253,6 @@ the clearing of land for agricultural purposes and the international demand for 
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands,<br>
 _signed, but not ratified_: Environmental Modification, Marine Life Conservation<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 20.24 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 21.61 megatons (2016 est.)<br>
-_methane emissions_: 21.01 megatons (2020 est.)<br>
-
 **Climate**<br>
 varies with altitude; humid and tropical to cold and semiarid<br>
 
@@ -278,6 +273,11 @@ _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 20.24 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 21.61 megatons (2016 est.)<br>
+_methane emissions_: 21.01 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,219,052 tons (2015 est.)<br>
@@ -715,7 +715,7 @@ Bolivian Armed Forces (Fuerzas Armadas de Bolivia or FAB): Bolivian Army (Ejerci
 information varies widely; approximately 40,000 active troops (28,000 Army; 5,000 Navy; 7,000 Air Force; note - a considerable portion of the Navy personnel are marines and naval police); approximately 40,000 National Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military is equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment (2023)<br>
+the military is equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment; in recent years, France has been the leading supplier (2023)<br>
 
 **Military service age and obligation**<br>
 compulsory for all men between the ages of 18 and 22; men can volunteer from the age of 16, women from 18; service is for 12 months; Search and Rescue service can be substituted for citizens who have reached the age of compulsory military service; duration of this service is 24 months (2023)<br>

@@ -248,11 +248,6 @@ soil degradation and desertification (brought on by poor farming techniques and 
 _party to_: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Marine Life Conservation<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 18.37 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 28.28 megatons (2016 est.)<br>
-_methane emissions_: 9.3 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; moderated by trade winds; dry season (November to April); rainy season (May to October)<br>
 
@@ -273,6 +268,11 @@ _rate of urbanization_: 0.19% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 18.37 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 28.28 megatons (2016 est.)<br>
+_methane emissions_: 9.3 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,692,692 tons (2007 est.)<br>

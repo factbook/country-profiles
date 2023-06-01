@@ -233,11 +233,6 @@ heavy pollution in lagoon of south Tarawa atoll due to overcrowding mixed with t
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.45 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.07 megatons (2016 est.)<br>
-_methane emissions_: 0.02 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; marine, hot and humid, moderated by trade winds<br>
 
@@ -258,6 +253,11 @@ _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 10.45 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.07 megatons (2016 est.)<br>
+_methane emissions_: 0.02 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 35,724 tons (2016 est.)<br>

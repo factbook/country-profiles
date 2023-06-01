@@ -198,9 +198,6 @@ _female_: 100% (2015)<br>
 **Environment - current issues**<br>
 especially vulnerable to climate change and disruption of the Arctic environment; preservation of the Inuit traditional way of life, including whaling and seal hunting<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.51 megatons (2016 est.)<br>
-
 **Climate**<br>
 arctic to subarctic; cool summers, cold winters<br>
 
@@ -221,6 +218,9 @@ _rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_carbon dioxide emissions_: 0.51 megatons (2016 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 50,000 tons (2010 est.)<br>

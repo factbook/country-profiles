@@ -183,9 +183,6 @@ _female_: NA<br>
 **Environment - current issues**<br>
 limited natural freshwater resources: more than 90% of drinking water supplied by desalination, the remainder from stored rainwater; a separate supply of saltwater used for sanitary services<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.63 megatons (2016 est.)<br>
-
 **Climate**<br>
 Mediterranean with mild winters and warm summers<br>
 
@@ -196,6 +193,9 @@ _other_: 100% (2018 est.)<br>
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
 _rate of urbanization_: 0.45% annual rate of change (2015-20 est.)<br>
+
+**Air pollutants**<br>
+_carbon dioxide emissions_: 0.63 megatons (2016 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 16,954 tons (2012 est.)<br>

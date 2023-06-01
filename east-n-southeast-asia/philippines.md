@@ -254,11 +254,6 @@ uncontrolled deforestation especially in watershed areas; illegal mining and log
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 18.38 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 122.29 megatons (2016 est.)<br>
-_methane emissions_: 51.32 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical marine; northeast monsoon (November to April); southwest monsoon (May to October)<br>
 
@@ -279,6 +274,11 @@ _rate of urbanization_: 2.04% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.07% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 18.38 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 122.29 megatons (2016 est.)<br>
+_methane emissions_: 51.32 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 14,631,923 tons (2016 est.)<br>

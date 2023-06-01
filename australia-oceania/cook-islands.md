@@ -221,9 +221,6 @@ limited land presents solid and liquid waste disposal problems; soil destruction
 _party to_: Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 12.03 micrograms per cubic meter (2016 est.)<br>
-
 **Climate**<br>
 tropical oceanic; moderated by trade winds; a dry season from April to November and a more humid season from December to March<br>
 
@@ -238,6 +235,9 @@ _other_: 27% (2018 est.)<br>
 **Urbanization**<br>
 _urban population_: 76.2% of total population (2023)<br>
 _rate of urbanization_: 0.52% annual rate of change (2020-25 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 12.03 micrograms per cubic meter (2016 est.)<br>
 
 **Total renewable water resources**<br>
 0 cubic meters (2017 est.)<br>

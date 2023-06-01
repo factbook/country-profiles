@@ -257,11 +257,6 @@ deforestation; soil erosion; land degradation; air and water pollution; the blac
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 19.35 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 10.98 megatons (2016 est.)<br>
-_methane emissions_: 12.1 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; moderated by altitude; rainy season (November to March)<br>
 
@@ -277,14 +272,19 @@ _other_: 18% (2018 est.)<br>
 _urban population_: 32.5% of total population (2023)<br>
 _rate of urbanization_: 2.41% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_widespread lack of access_: <em><em>due to high food prices</em></em><em> </em><em>-</em> based on a government assessment, an estimated 3.8 million people are expected to be in need of humanitarian assistance between January and March 2023; this number is higher than the level estimated in the first quarter of 2022; the downturn in food security conditions is largely on account of poor food access resulting from prevailing high food prices and reduced incomes owing to the effects of an economic downturn; a decline in cereal production in 2022 has also aggravated conditions (2023)<br>
+
 **Revenue from forest resources**<br>
 1.61% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0.4% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_widespread lack of access_: <em><em>due to high food prices</em></em><em> </em><em>-</em> based on a government assessment, an estimated 3.8 million people are expected to be in need of humanitarian assistance between January and March 2023; this number is higher than the level estimated in the first quarter of 2022; the downturn in food security conditions is largely on account of poor food access resulting from prevailing high food prices and reduced incomes owing to the effects of an economic downturn; a decline in cereal production in 2022 has also aggravated conditions (2023)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 19.35 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 10.98 megatons (2016 est.)<br>
+_methane emissions_: 12.1 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,449,752 tons (2015 est.)<br>
@@ -710,7 +710,7 @@ ZDF’s primary responsibilities are protecting the country’s sovereignty and 
 <p><em>Zimbabwe-Mozambique: none identified<br><br>Zimbabwe-South Africa: </em>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration<em><br><br>Zimbabwe-Zambia: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,761 (Democratic Republic of Congo) (refugees and asylum seekers), 9,907 (Mozambique) (2023)<br>
+_refugees (country of origin)_: 11,756 (Democratic Republic of Congo) (refugees and asylum seekers), 9,907 (Mozambique) (2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List - Zimbabwe does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government investigated and prosecuted human trafficking cases and conducted training for law enforcement, immigration, and other key officials; however, Zimbabwe did not demonstrate overall increasing efforts to increase anti-trafficking capacity; officials did not amend laws to criminalize all forms of trafficking, did not identify or provide care for any trafficking victims, nor convict any traffickers; therefore Zimbabwe remained on Tier 2 Watch List for the second consecutive year (2022)<br>

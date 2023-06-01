@@ -238,11 +238,6 @@ water pollution; acid rain damaging forests and adversely affecting lakes, threa
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 7.02 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 41.02 megatons (2016 est.)<br>
-_methane emissions_: 4.81 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate along coast, modified by North Atlantic Current; colder interior with increased precipitation and colder summers; rainy year-round on west coast<br>
 
@@ -264,6 +259,11 @@ _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 7.02 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 41.02 megatons (2016 est.)<br>
+_methane emissions_: 4.81 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2.187 million tons (2015 est.)<br>
@@ -500,7 +500,7 @@ $116.718 billion (2020 est.) note: data are in current year dollars<br>
 $146.28 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-United Kingdom 18%, Germany 14%, Netherlands 10%, Sweden 9%, France 6%, United States 5% (2019)<br>
+United Kingdom 21%, Germany 19%, Sweden 8%, Netherlands 7%, China 6% (2021)<br>
 
 **Exports - commodities**<br>
 natural gas, crude petroleum, salmon, refined petroleum, aluminum (2021)<br>
@@ -511,10 +511,10 @@ $119.632 billion (2020 est.) note: data are in current year dollars<br>
 $140.211 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-Sweden 17%, Germany 12%, China 8%, Denmark 7%, United States 6%, United Kingdom 5%, Netherlands 5% (2019)<br>
+Sweden 18%, Germany 12%, China 10%, Denmark 6%, United States 5% (2021)<br>
 
 **Imports - commodities**<br>
-cars, refined petroleum, broadcasting equipment, natural gas, crude petroleum (2019)<br>
+cars, refined petroleum, broadcasting equipment, computers, ships, nickel (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $84.271 billion (31 December 2021 est.)<br>
@@ -707,6 +707,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 46,985 (Ukraine) (as of 12 May 2023)<br>
+_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 47,850 (Ukraine) (as of 23 May 2023)<br>
 _stateless persons_: 3,901 (2022)<br>
 

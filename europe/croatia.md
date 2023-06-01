@@ -245,11 +245,6 @@ air pollution improving but still a concern in urban settings and in emissions a
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 17.03 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 17.49 megatons (2016 est.)<br>
-_methane emissions_: 3.98 megatons (2020 est.)<br>
-
 **Climate**<br>
 Mediterranean and continental; continental climate predominant with hot summers and cold winters; mild winters, dry summers along coast<br>
 
@@ -270,6 +265,11 @@ _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 17.03 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 17.49 megatons (2016 est.)<br>
+_methane emissions_: 3.98 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.654 million tons (2015 est.)<br>
@@ -721,7 +721,7 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Croatia joined the Schengen Zone on 1 January 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,382 (Ukraine) (as of 12 May 2023)<br>
+_refugees (country of origin)_: 22,538 (Ukraine) (as of 19 May 2023)<br>
 _stateless persons_: 2,889 (2022)<br>
 <strong>note: </strong>796,769 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
 

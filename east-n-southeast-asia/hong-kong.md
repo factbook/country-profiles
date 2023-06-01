@@ -210,9 +210,6 @@ _female_: 13.6% (2021 est.)<br>
 **Environment - current issues**<br>
 air and water pollution from rapid urbanization; urban waste pollution; industrial pollution<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 43.64 megatons (2016 est.)<br>
-
 **Climate**<br>
 subtropical monsoon; cool and humid in winter, hot and rainy from spring through summer, warm and sunny in fall<br>
 
@@ -233,6 +230,9 @@ _rate of urbanization_: 0.58% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_carbon dioxide emissions_: 43.64 megatons (2016 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,679,816 tons (2015 est.)<br>

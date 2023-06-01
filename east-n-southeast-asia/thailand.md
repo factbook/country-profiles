@@ -255,11 +255,6 @@ air pollution from vehicle emissions; water pollution from organic and factory w
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 26.23 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 283.76 megatons (2016 est.)<br>
-_methane emissions_: 86.98 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; rainy, warm, cloudy southwest monsoon (mid-May to September); dry, cool northeast monsoon (November to mid-March); southern isthmus always hot and humid<br>
 
@@ -280,6 +275,11 @@ _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.03% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 26.23 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 283.76 megatons (2016 est.)<br>
+_methane emissions_: 86.98 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 26,853,366 tons (2015 est.)<br>

@@ -233,11 +233,6 @@ deforestation due to demand for firewood; water shortages; prolonged droughts an
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 31.99 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.54 megatons (2016 est.)<br>
-_methane emissions_: 0.13 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate; warm, dry summer; precipitation meager and erratic<br>
 
@@ -258,6 +253,11 @@ _rate of urbanization_: 1.83% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 31.99 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.54 megatons (2016 est.)<br>
+_methane emissions_: 0.13 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 132,555 tons (2012 est.)<br>

@@ -221,11 +221,6 @@ water pollution; inadequate supplies of potable water; wildlife conservation and
 _party to_: Biodiversity, Climate Change, Climate Change-Paris Agreement, Desertification, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 41.12 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 1.73 megatons (2016 est.)<br>
-_methane emissions_: 7.61 megatons (2020 est.)<br>
-
 **Climate**<br>
 hot with seasonal rainfall influenced by the annual shift of the Inter-Tropical Convergence Zone; rainfall heaviest in upland areas of the south and diminishes to the north<br>
 
@@ -240,11 +235,16 @@ _other_: 43.5% (2018)<br>
 _urban population_: 21.2% of total population (2023)<br>
 _rate of urbanization_: 4.12% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_widespread lack of access_: <em>due to economic downturn, the lingering effects of floods, and prolonged internal conflict -</em> despite sustained humanitarian assistance, food insecurity still affects large segments of the population, owing to rampant inflation and insufficient food supplies due to stagnant agricultural production, the effects of consecutive years with widespread floods, and the escalation of organized violence at the subnational level since 2020; about 7.76 million people, almost two thirds of the total population, are expected to face severe acute food insecurity in the lean season between April and July 2023 (2023)<br>
+
 **Revenue from forest resources**<br>
 2.65% of GDP (2015 est.)<br>
 
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to economic downturn, the lingering effects of floods, and prolonged internal conflict -</em> despite sustained humanitarian assistance, food insecurity still affects large segments of the population, owing to rampant inflation and insufficient food supplies due to stagnant agricultural production, the effects of consecutive years with widespread floods, and the escalation of organized violence at the subnational level since 2020; about 7.76 million people, almost two thirds of the total population, are expected to face severe acute food insecurity in the lean season between April and July 2023 (2023)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 41.12 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 1.73 megatons (2016 est.)<br>
+_methane emissions_: 7.61 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,680,681 tons (2013 est.)<br>

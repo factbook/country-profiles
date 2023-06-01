@@ -257,11 +257,6 @@ deforestation (most of the country's forests - once the largest in West Africa -
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 23.72 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 9.67 megatons (2016 est.)<br>
-_methane emissions_: 10.3 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical along coast, semiarid in far north; three seasons - warm and dry (November to March), hot and dry (March to May), hot and wet (June to October)<br>
 
@@ -282,6 +277,11 @@ _rate of urbanization_: 3.38% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 23.72 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 9.67 megatons (2016 est.)<br>
+_methane emissions_: 10.3 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,440,814 tons (2010 est.)<br>

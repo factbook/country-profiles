@@ -235,11 +235,6 @@ air, land, and water pollution are significant environmental issues; limited nat
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 90.35 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 103.26 megatons (2016 est.)<br>
-_methane emissions_: 8.34 megatons (2020 est.)<br>
-
 **Climate**<br>
 arid; mild, pleasant winters; very hot, humid summers<br>
 
@@ -260,6 +255,11 @@ _rate of urbanization_: 1.66% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 90.35 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 103.26 megatons (2016 est.)<br>
+_methane emissions_: 8.34 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,000,990 tons (2012 est.)<br>
@@ -676,7 +676,7 @@ conscription for men aged 18-35 introduced in 2013; compulsory service times ran
 <strong>note 1:</strong> the military incorporates about 2,000 conscripts annually<br><br><strong>note 2:</strong> Qatar recruits foreign contract soldiers to overcome manpower limitations; it is estimated that as much as 85% of the military is comprised of foreigners<br>
 
 **Military - note**<br>
-Qatar hosts the regional headquarters for the US Central Command (CENTCOM; established 1983) and more than 8,000 US military forces at various military facilities, including the large Al Udeid Air Base; Qatar also hosts as many as 5,000 Turkish military forces at two bases established in 2014 and 2019<br><br>Qatar has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
+the QAF is a small, but professional and trained force that is responsible for defense against external threats; following the downturn in ties with Bahrain, Egypt, Saudi Arabia, and the UAE in the mid-2010s, the Qatari Government embarked on a major arms acquisition and modernization program to increase the QAF’s capabilities and regional standing; the Air Force has benefited the most, growing from an inventory of 12 older combat aircraft and a few fighter trainers in 2017 to a current inventory of about 60 modern multirole fighter aircraft from France, the UK, and the US; it is slated to grow to about 100 such aircraft by the mid-2020s; other aircraft acquisitions have included US attack helicopters; the Land Force has re-equipped its armored brigade and separate mechanized and artillery battalions with modern tanks, armored vehicles, and self-propelled artillery, mostly with purchases from Germany and Turkey; meanwhile, the Navy over the same period has received 4 corvettes and 4 offshore patrol vessels from Italy and Turkey<br><br>Qatar hosts the regional headquarters for the US Central Command (CENTCOM; established 1983) and more than 8,000 US military forces at various military facilities, including the large Al Udeid Air Base; it has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Qatar also hosts thousands of Turkish military forces at two bases established in 2014 and 2019 (2023)<br>
 
 ## Terrorism
 

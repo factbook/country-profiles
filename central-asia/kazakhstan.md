@@ -247,11 +247,6 @@ radioactive or toxic chemical sites associated with former defense industries an
 _party to_: Air Pollution, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 11.32 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 247.21 megatons (2016 est.)<br>
-_methane emissions_: 45.03 megatons (2020 est.)<br>
-
 **Climate**<br>
 continental, cold winters and hot summers, arid and semiarid<br>
 
@@ -272,6 +267,11 @@ _rate of urbanization_: 1.19% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.99% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 11.32 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 247.21 megatons (2016 est.)<br>
+_methane emissions_: 45.03 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,659,740 tons (2012 est.)<br>
@@ -329,7 +329,7 @@ Independence Day, 16 December (1991)<br>
 
 **Constitution**<br>
 _history_: previous 1937, 1978 (preindependence), 1993; latest approved by referendum 30 August 1995, effective 5 September 1995<br>
-_amendments_: introduced&nbsp;by a referendum initiated by the president of the republic, on the recommendation of Parliament, or by the government; the president has the option of submitting draft amendments to Parliament or directly to a referendum; passage of amendments by Parliament requires four-fifths majority vote of both houses and the signature of the president; passage by referendum requires absolute majority vote by more than one half of the voters in at least two thirds of the oblasts, major cities, and the capital, followed by the signature of the president; amended several times, last in 2019<br>
+_amendments_: introduced by a referendum initiated by the president of the republic, on the recommendation of Parliament, or by the government; the president has the option of submitting draft amendments to Parliament or directly to a referendum; passage of amendments by Parliament requires four-fifths majority vote of both houses and the signature of the president; passage by referendum requires absolute majority vote by more than one half of the voters in at least two thirds of the oblasts, major cities, and the capital, followed by the signature of the president; amended several times, last in 2022<br>
 
 **Legal system**<br>
 civil law system influenced by Roman-Germanic law and by the theory and practice of the Russian Federation<br>
@@ -354,7 +354,7 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: <em><br>2022</em>: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV 81.3%, Zhiguli DAYRABAEV 3.4%, Karakat ABDEN 2.6%, Meyram KAZHYKEN 2.5%, Nurlan AUYESBAYEV 2.2%, Saltanat TURSYNBEKOVA 2.1%, other 5.8%<br><br><em>election results: 2019</em>: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV (Nur Otan currently Amanat) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br>
 
 **Legislative branch**<br>
-_description_: bicameral legislature consists of:<br>Senate (49 seats statutory, 48 as of October 2021); 34 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (98 seats; 69 members directly elected in a single national constituency by party list proportional representation vote (5% minimum threshold to gain seats) and 29 are directly elected in single-mandate districts to serve 5-year terms<br>
+_description_: bicameral Parliament of the Republic of Kazakhstan consists of:<br>Senate (49 seats statutory, 48 as of October 2021); 34 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (98 seats; 69 members directly elected in a single national constituency by party list proportional representation vote (5% minimum threshold to gain seats) and 29 directly elected in single-seat constituencies to serve 5-year terms<br>
 _elections_: Senate - last held on 14 January 2023 (next to be held in August 2023)<br>Mazhilis - last held on 19 March 2023 (next to be held in 2026)<br>
 _election results_: <strong><br></strong>Senate - percent of vote by party - NA; seats by party - NA; composition (as of April 2023) - men 39, women 11, percent of women 22%<br>Mazhilis - percent of vote by party - Amanat (formerly Nur Otan) 53.9%, Auvl 10.9%, Respublica 8.6%, Ak Zhol 8.4%, QHP 6.8%, NSDP 5.2%, Baytak 2.3%, Against all 3.9%; percent of vote by party (single-mandate districts) Amanat (formerly Nur Otan) 75.9%, Independent 24%; seats by party Amanat (formerly Nur Qtan) 62, Auvl 8, Respublica 6, Ak Zhol 6, QHP 5, NSDP 4, Independents 7; composition (as of March 2023) - men 80, women 18, percent of women 18.4%<br>
 

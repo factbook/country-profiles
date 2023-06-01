@@ -210,10 +210,6 @@ some air pollution generated locally, some carried over from surrounding countri
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: Air Pollution-Multi-effect Protocol, Law of the Sea<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.05 megatons (2016 est.)<br>
-_methane emissions_: 0.02 megatons (2020 est.)<br>
-
 **Climate**<br>
 continental; cold, cloudy winters with frequent snow or rain; cool to moderately warm, cloudy, humid summers<br>
 
@@ -231,6 +227,10 @@ _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
 0% of GDP (2017 est.)<br>
+
+**Air pollutants**<br>
+_carbon dioxide emissions_: 0.05 megatons (2016 est.)<br>
+_methane emissions_: 0.02 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 32,382 tons (2015 est.)<br>

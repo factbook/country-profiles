@@ -255,11 +255,6 @@ deforestation; land degradation; water pollution from agricultural runoff, sewag
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 22.14 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 1.3 megatons (2016 est.)<br>
-_methane emissions_: 11.12 megatons (2020 est.)<br>
-
 **Climate**<br>
 sub-tropical; rainy season (November to May); dry season (May to November)<br>
 
@@ -275,14 +270,19 @@ _other_: 6.8% (2018 est.)<br>
 _urban population_: 18.3% of total population (2023)<br>
 _rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_widespread lack of access_: <em><em>due to </em>localized shortfalls in cereal production and high food prices - </em>an estimated 3.82 million people are expected to experience acute food insecurity between October 2022 and March 2023; this number is more than double the estimate for the January to March 2022 period; high food prices and the effects of weather-induced localized shortfalls in cereal production in 2022, notably in southern districts, are the primary factors underpinning the increase in acute food insecurity (2023)<br>
+
 **Revenue from forest resources**<br>
 6.19% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0.03% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_widespread lack of access_: <em><em>due to </em>localized shortfalls in cereal production and high food prices - </em>an estimated 3.82 million people are expected to experience acute food insecurity between October 2022 and March 2023; this number is more than double the estimate for the January to March 2022 period; high food prices and the effects of weather-induced localized shortfalls in cereal production in 2022, notably in southern districts, are the primary factors underpinning the increase in acute food insecurity (2023)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 22.14 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 1.3 megatons (2016 est.)<br>
+_methane emissions_: 11.12 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,297,844 tons (2013 est.)<br>
@@ -710,7 +710,7 @@ the MDF’s primary responsibility is external security; it is also tasked as ne
 <p><em>Malawi-Mozambique</em>: the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Malawi-Tanzania</em>: dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p> <p><em>Malawi-Zambia</em>: border demarcation was completed in 2011; in 2018, the redemarcation exercise determined that some parts of Malawi actually belonged to Zambia</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 32,715 (Democratic Republic of the Congo) (refugees and asylum seekers) 10,895 (Burundi) (refugees and asylum seekers), 6,466 (Rwanda) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 32,891 (Democratic Republic of the Congo) (refugees and asylum seekers) 10,895 (Burundi) (refugees and asylum seekers), 6,466 (Rwanda) (refugees and asylum seekers) (2023)<br>
 
 **Illicit drugs**<br>
 NA<br>

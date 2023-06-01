@@ -237,11 +237,6 @@ inadequate supplies of potable water; water pollution; limited arable land; defo
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 40.38 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.62 megatons (2016 est.)<br>
-_methane emissions_: 0.52 megatons (2020 est.)<br>
-
 **Climate**<br>
 desert; torrid, dry<br>
 
@@ -257,14 +252,19 @@ _other_: 26.4% (2018 est.)<br>
 _urban population_: 78.6% of total population (2023)<br>
 _rate of urbanization_: 1.56% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_widespread lack of access_: <em>due to unfavorable weather and high food prices - </em>about 192,000 people were estimated to have experienced acute food insecurity between July and December 2022 mainly due to insufficient rains in 2021 and 2022, which affected rangelands and pastoral livelihoods, as well as high food prices (2023)<br>
+
 **Revenue from forest resources**<br>
 0.26% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to unfavorable weather and high food prices - </em>about 192,000 people were estimated to have experienced acute food insecurity between July and December 2022 mainly due to insufficient rains in 2021 and 2022, which affected rangelands and pastoral livelihoods, as well as high food prices (2023)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 40.38 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.62 megatons (2016 est.)<br>
+_methane emissions_: 0.52 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 114,997 tons (2002 est.)<br>

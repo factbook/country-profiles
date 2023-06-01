@@ -201,11 +201,6 @@ water shortages a continuing concern; pollution from agrochemicals and from untr
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 18.17 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.18 megatons (2016 est.)<br>
-_methane emissions_: 0.04 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; moderated by northeast trade winds; heavy rainfall<br>
 
@@ -226,6 +221,11 @@ _rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 18.17 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.18 megatons (2016 est.)<br>
+_methane emissions_: 0.04 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 13,176 tons (2013 est.)<br>

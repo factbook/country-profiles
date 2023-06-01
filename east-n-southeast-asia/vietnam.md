@@ -244,11 +244,6 @@ logging and slash-and-burn agricultural practices contribute to deforestation an
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 29.66 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 192.67 megatons (2016 est.)<br>
-_methane emissions_: 110.4 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical in south; monsoonal in north with hot, rainy season (May to September) and warm, dry season (October to March)<br>
 
@@ -269,6 +264,11 @@ _rate of urbanization_: 2.7% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.35% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 29.66 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 192.67 megatons (2016 est.)<br>
+_methane emissions_: 110.4 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 9,570,300 tons (2011 est.)<br>

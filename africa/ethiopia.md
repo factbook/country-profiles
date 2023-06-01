@@ -265,11 +265,6 @@ deforestation; overgrazing; soil erosion; desertification; loss of biodiversity;
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection<br>
 _signed, but not ratified_: Environmental Modification, Law of the Sea, Nuclear Test Ban<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 34.36 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 14.87 megatons (2016 est.)<br>
-_methane emissions_: 114.21 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical monsoon with wide topographic-induced variation<br>
 
@@ -285,14 +280,19 @@ _other_: 51.5% (2018 est.)<br>
 _urban population_: 23.2% of total population (2023)<br>
 _rate of urbanization_: 4.4% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_widespread lack of access_: <em>due to conflict in Tigray Region, drought conditions in southeastern areas, high food prices -</em> The difficult and worsening food security situation is the result of multiple shocks affecting food availability and access including: the conflict in northern Tigray Region and in adjacent areas of Amhara and Afar regions, which began in November 2020; in Tigray region alone, 5.3 million people are estimated to be severely food insecure; the failure of the March‑May 2022 “Gu‑Genna” rains in southern pastoral areas of southern Oromiya Region and southern Somali Region, exacerbated drought conditions prevailing since late 2020, causing severe crop and livestock losses; severe macroeconomic challenges including insufficient foreign currency reserves and the continuous depreciation of the national currency, as a result, inflation is at very high levels, with the year‑on‑year food inflation rate estimated at 35.5 percent in July, one the highest of the last decade; these difficulties are exacerbated by the ripple effects of the Ukraine war, which triggered hikes in international prices of wheat, fuel, and fertilizers (2023)<br>
+
 **Revenue from forest resources**<br>
 5.81% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to conflict in Tigray Region, drought conditions in southeastern areas, high food prices -</em> The difficult and worsening food security situation is the result of multiple shocks affecting food availability and access including: the conflict in northern Tigray Region and in adjacent areas of Amhara and Afar regions, which began in November 2020; in Tigray region alone, 5.3 million people are estimated to be severely food insecure; the failure of the March‑May 2022 “Gu‑Genna” rains in southern pastoral areas of southern Oromiya Region and southern Somali Region, exacerbated drought conditions prevailing since late 2020, causing severe crop and livestock losses; severe macroeconomic challenges including insufficient foreign currency reserves and the continuous depreciation of the national currency, as a result, inflation is at very high levels, with the year‑on‑year food inflation rate estimated at 35.5 percent in July, one the highest of the last decade; these difficulties are exacerbated by the ripple effects of the Ukraine war, which triggered hikes in international prices of wheat, fuel, and fertilizers (2023)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 34.36 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 14.87 megatons (2016 est.)<br>
+_methane emissions_: 114.21 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 6,532,787 tons (2015 est.)<br>

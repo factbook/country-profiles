@@ -239,10 +239,6 @@ air pollution from industrial emissions such as sulfur dioxide; coastal and inla
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 15.28 micrograms per cubic meter (2016 est.)<br>
-_methane emissions_: 41.3 megatons (2020 est.)<br>
-
 **Climate**<br>
 predominantly Mediterranean; alpine in far north; hot, dry in south<br>
 
@@ -263,6 +259,10 @@ _rate of urbanization_: 0.27% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 15.28 micrograms per cubic meter (2016 est.)<br>
+_methane emissions_: 41.3 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 29.524 million tons (2015 est.)<br>
@@ -336,7 +336,7 @@ _elections/appointments_: president indirectly elected by an electoral college c
 _election results_: <em>2022:</em> Sergio MATTARELLA (independent) reelected president; electoral college vote count in eighth round - 759 out of 1,009 (505 vote threshold)<br><br><em>2015: </em>Sergio MATTARELLA (independent) elected president; electoral college vote count in fourth round - 665 out of 995 (505 vote threshold)<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlamento consists of:<br>Senate or Senato della Repubblica (320 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 193 members in multi-seat constituencies and 6 members in multi-seat constituencies abroad directly elected by party-list proportional representation vote to serve 5-year terms and 5 ex-officio members appointed by the president of the Republic to serve for life)<br>Chamber of Deputies or Camera dei Deputati (630 seats; 629 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member from Valle d'Aosta elected by simple majority vote; members serve 5-year terms)<br>
+_description_: bicameral Parliament or Parlamento consists of:<br>Senate or Senato della Repubblica (200 elected seats; 122 members in multi-seat constituencies directly elected by proportional representation vote, 74 members in single-seat constituencies directly elected by plurality vote, and 4 members in multi-seat constituencies abroad directly elected by proportional representation vote; all members serve 5-year terms)<br>Chamber of Deputies or Camera dei Deputati (400 seats; 245 members directly elected in multi-seat constituencies by proportional representation vote; 147 members directly elected in single-seat constituencies by plurality vote and 8 members in multi-seat constituencies abroad by proportional representation vote; members serve 5-year terms)<br>
 _elections_: <br>Senate - last held on 25 September 2022<br>Chamber of Deputies - last held on 25 September 2022; note - snap elections were called when Prime Minister DRAGHI resigned, and the parliament was dissolved on 21 July 2022 (next to be held 30 September 2027)<br>
 _election results_: <br>Senate - percent of vote by party - NA; seats by party - center-right coalition (FdI 65, Lega 30, FI 18), center-left coalition (PD 40, AVS 3), M5S 28, Action-Italia Viva 9, SVP 2, MAIE 1, ScN 1; composition (as of September 2022) - men 131, women 69, percent of women 34.5%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - center-right coalition (FdI 119, Lega 66, FI 45), center-left coalition (PD 69, AVS 12), M5S 52, Action-Italia Viva 21, SVP 3, MAIE 1, ScN 1; composition (as of September 2022) - men 271, women 129, percent of women 32.3%; note - total Parliament percent of women 33%<br>
 <strong>note</strong>: in October 2019, Italy's Parliament voted to reduce the number of Senate seats from 315 to 200 and the number of Chamber of Deputies seats from 630 to 400; a referendum to reduce the membership of Parliament held on 20-21 September 2020 was approved, effective for the September 2022 snap election<br>
@@ -722,9 +722,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 175,107 (Ukraine) (as of 21 April 2023)<br>
+_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 175,107 (Ukraine) (as of 19 May 2023)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 741,760 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
+<strong>note:</strong> 742,864 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

@@ -245,11 +245,6 @@ tropical rain forest deforestation; soil erosion; loss of biodiversity; hunting 
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Environmental Modification, Marine Life Conservation<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 17.19 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 1.39 megatons (2016 est.)<br>
-_methane emissions_: 6.56 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid; dry winters with hot days and cool to cold nights; wet, cloudy summers with frequent heavy showers<br>
 
@@ -265,14 +260,19 @@ _other_: 27.3% (2018 est.)<br>
 _urban population_: 53.6% of total population (2023)<br>
 _rate of urbanization_: 3.41% annual rate of change (2015-20 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em><em>due to </em></em><em>high food prices and economic downturn </em><em>- </em>according to the latest analysis, about 940,000 people were estimated to be in “Crisis” and above between June and August 2021 due to high food inflation rates and the negative effects of the COVID‑19 pandemic on the economy; production of rice, a main food staple, was estimated at a below-average level in 2021, a factor that is expected to further aggravate food insecurity in 2022; prices of staple food have been on the rise in most domestic markets since early 2021; the main drivers of the food insecurity are the effects on crop production of floods and high infestations of pests, including Fall Armyworm in some localized areas (2022)<br>
+
 **Revenue from forest resources**<br>
 13.27% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em><em>due to </em></em><em>high food prices and economic downturn </em><em>- </em>according to the latest analysis, about 940,000 people were estimated to be in “Crisis” and above between June and August 2021 due to high food inflation rates and the negative effects of the COVID‑19 pandemic on the economy; production of rice, a main food staple, was estimated at a below-average level in 2021, a factor that is expected to further aggravate food insecurity in 2022; prices of staple food have been on the rise in most domestic markets since early 2021; the main drivers of the food insecurity are the effects on crop production of floods and high infestations of pests, including Fall Armyworm in some localized areas (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 17.19 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 1.39 megatons (2016 est.)<br>
+_methane emissions_: 6.56 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 564,467 tons (2007 est.)<br>

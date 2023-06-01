@@ -252,11 +252,6 @@ deforestation; inadequate potable water; desertification; soil contamination and
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 22.43 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 3 megatons (2016 est.)<br>
-_methane emissions_: 11.13 megatons (2020 est.)<br>
-
 **Climate**<br>
 generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds<br>
 
@@ -272,14 +267,19 @@ _other_: 15.4% (2018 est.)<br>
 _urban population_: 38.1% of total population (2023)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to reduced incomes - </em>about 1.22 million people are projected to be in need of food assistance between June and August 2022, primarily due to food access constraints on account of the economic effects of the COVID-19 pandemic (2022)<br>
+
 **Revenue from forest resources**<br>
 4.81% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to reduced incomes - </em>about 1.22 million people are projected to be in need of food assistance between June and August 2022, primarily due to food access constraints on account of the economic effects of the COVID-19 pandemic (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 22.43 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 3 megatons (2016 est.)<br>
+_methane emissions_: 11.13 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 596,911 tons (1996 est.)<br>
@@ -374,7 +374,7 @@ African Congress for Democracy and Renewal or CADRE [Daniel KOLIE]<br>Alliance f
 ACP, AfDB, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Chargé d’Affaires Oumou Thiam HANN, Minister Counselor (since 23 February 2022) <p> </p><br>
+_chief of mission_: Ambassador Fatoumata KABA (since 19 April 2023)  <p> </p><br>
 _chancery_: 2112 Leroy Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 986-4300<br>
 _FAX_: [1] (202) 986-3800<br>

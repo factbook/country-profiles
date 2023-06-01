@@ -253,11 +253,6 @@ metal smelting, coal-burning utilities, and vehicle emissions impacting agricult
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Air Pollution-Volatile Organic Compounds, Marine Life Conservation<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 6.48 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 544.89 megatons (2016 est.)<br>
-_methane emissions_: 101.82 megatons (2020 est.)<br>
-
 **Climate**<br>
 varies from temperate in south to subarctic and arctic in north<br>
 
@@ -278,6 +273,11 @@ _rate of urbanization_: 0.95% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.08% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 6.48 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 544.89 megatons (2016 est.)<br>
+_methane emissions_: 101.82 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 25,103,034 tons (2014 est.)<br>

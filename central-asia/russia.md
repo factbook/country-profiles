@@ -257,11 +257,6 @@ air pollution from heavy industry, emissions of coal-fired electric plants, and 
 _party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: Air Pollution-Sulfur 94<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 13.75 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 1,732.03 megatons (2016 est.)<br>
-_methane emissions_: 851.52 megatons (2020 est.)<br>
-
 **Climate**<br>
 ranges from steppes in the south through humid continental in much of European Russia; subarctic in Siberia to tundra climate in the polar north; winters vary from cool along Black Sea coast to frigid in Siberia; summers vary from warm in the steppes to cool along Arctic coast<br>
 
@@ -282,6 +277,11 @@ _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.53% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 13.75 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 1,732.03 megatons (2016 est.)<br>
+_methane emissions_: 851.52 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 60 million tons (2012 est.)<br>

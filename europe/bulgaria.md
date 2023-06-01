@@ -242,11 +242,6 @@ air pollution from industrial emissions; rivers polluted from raw sewage, heavy 
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 18.82 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 41.71 megatons (2016 est.)<br>
-_methane emissions_: 6.77 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate; cold, damp winters; hot, dry summers<br>
 
@@ -267,6 +262,11 @@ _rate of urbanization_: -0.28% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.14% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 18.82 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 41.71 megatons (2016 est.)<br>
+_methane emissions_: 6.77 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3.011 million tons (2015 est.)<br>
@@ -720,7 +720,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 50,576 (Ukraine) (as of 16 May 2023)<br>
+_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 51,365 (Ukraine) (as of 23 May 2023)<br>
 _stateless persons_: 1,129 (2022)<br>
 <strong>note:</strong> 89,608 estimated refugee and migrant arrivals (January 2015-March 2023); Bulgaria is predominantly a transit country<br>
 

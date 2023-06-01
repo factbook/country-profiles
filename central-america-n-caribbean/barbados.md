@@ -223,11 +223,6 @@ pollution of coastal waters from waste disposal by ships; soil erosion; illegal 
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 22.24 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 1.28 megatons (2016 est.)<br>
-_methane emissions_: 2.35 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; rainy season (June to October)<br>
 
@@ -248,6 +243,11 @@ _rate of urbanization_: 0.46% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 22.24 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 1.28 megatons (2016 est.)<br>
+_methane emissions_: 2.35 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 174,815 tons (2011 est.)<br>
@@ -638,7 +638,7 @@ Barbados Defense Force: The Barbados Regiment, The Barbados Coast Guard (2023)<b
 approximately 600 active personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Netherlands provide the BDF's major equipment inventory (maritime patrol boats) (2022)<br>
+the Netherlands provide the BDF's major equipment inventory (maritime patrol boats) (2023)<br>
 
 **Military service age and obligation**<br>
 voluntary service only (men and women); 17 years, 9 months to 17 years, 11 months with letter of consent from a parent or guardian, or be in the age range of 18-25 years at the start of recruit training; citizens of Barbados by descent or naturalization (2022)<br>

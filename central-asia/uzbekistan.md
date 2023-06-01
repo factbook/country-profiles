@@ -242,11 +242,6 @@ shrinkage of the Aral Sea has resulted in growing concentrations of chemical pes
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 25.29 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 91.81 megatons (2016 est.)<br>
-_methane emissions_: 96.16 megatons (2020 est.)<br>
-
 **Climate**<br>
 mostly mid-latitude desert, long, hot summers, mild winters; semiarid grassland in east<br>
 
@@ -267,6 +262,11 @@ _rate of urbanization_: 1.25% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.06% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 25.29 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 91.81 megatons (2016 est.)<br>
+_methane emissions_: 96.16 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4 million tons (2016 est.)<br>
@@ -319,10 +319,11 @@ Independence Day, 1 September (1991)<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 8 December 1992<br>
-_amendments_: proposed by the Supreme Assembly or by referendum; passage requires two-thirds majority vote of both houses of the Assembly or passage in a referendum; amended several times, last in 2017<br>
+_amendments_: proposed by the Supreme Assembly or by referendum; passage requires two-thirds majority vote of both houses of the Assembly or passage in a referendum; amended several times, last in 2023<br>
+<strong>note: </strong>in a public referendum passed in April 2023, among the changes were the extension of the presidential term to 7 years from 5 years, and modifications to the structure and powers of the Supreme Assembly and to the criminal code<br>
 
 **Legal system**<br>
-civil law system; note - in early 2020, the president signed an amendment to the criminal code, criminal procedure code, and code of administrative responsibility<br>
+civil law system; note - in early 2020, the president signed an amendment to the criminal code, criminal procedure code, and code of administrative responsibility; a constitutional referendum passed in April 2023 included criminal code reforms<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -344,14 +345,14 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em>2021</em>: Shavkat MIRZIYOYEV reelected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 80.3%, Maqsuda VORISOVA (PDP) 6.7%, Alisher QODIROV (National Revival Democratic Party) 5.5%, Narzullo OBLOMURODOV (Ecological Party) 4.1%, Bahrom ABDUHALIMOV (Adolat) 3.4%<br><br><em>2016:</em> Shavkat MIRZIYOYEV elected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 88.6%, Hotamjon KETMONOV (PDP) 3.7%, Narimon UMAROV (Adolat) 3.5%, Sarvar OTAMURODOV (National Revival Democratic Party) 2.4%, other 1.8%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate or Senat (100 seats; 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms)<br>Legislative Chamber or Qonunchilik Palatasi (150 seats statutory, 144 seats current; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
+_description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate or Senat (100 seats statutory, 90 current as of 2023; 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms)<br>Legislative Chamber or Qonunchilik Palatasi (150 seats statutory, 144 seats current; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
 _elections_: Senate - last held 16-17 January 2020 (next to be held in 2025)<br>Legislative Chamber - last held on 22 December 2019 and 5 January 2020 (next to be held in December 2024)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition as of late 2022 - men 75, women 25, percent of women 25%<br>Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 53, National Revival Democratic Party 36, Adolat 24, PDP 22, Ecological Movement 15; composition - men 96, women, 48, percent of women 33.3%; note - total Supreme Assembly percent of women 29.1%<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition as of April 2023 (90 members) - men 68, women 22, percent of women 24.4%<br>Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 53, National Revival Democratic Party 36, Adolat 24, PDP 22, Ecological Movement 15; composition - men 96, women, 48, percent of women 33.3%; note - total Supreme Assembly percent of women 29.1%<br>
 <strong>note:</strong> all parties in the Supreme Assembly support President Shavkat MIRZIYOYEV<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 67 judges organized into administrative, civil, criminal, and economic sections); Constitutional Court (consists of 7 judges)<br>
-_judge selection and term of office_: judges of the highest courts nominated by the president and confirmed by the Senate of the Oliy Majlis; judges appointed for initial 5-year term and can be reappointed for subsequent 10-year and lifetime terms<br>
+_judge selection and term of office_: judges of the highest courts nominated by the president and confirmed by the Senate of the Oliy Majlis; judges appointed for a single 10-year term; the court chairman and deputies appointed for 10-year terms without the right to re-election. (Article 132 of the constitution)<br>
 _subordinate courts_: regional, district, city, and town courts<br>
 
 **Political parties and leaders**<br>
@@ -361,7 +362,7 @@ Ecological Party of Uzbekistan (O'zbekiston Ekologik Partivasi) [Narzullo OBLOMU
 ADB, CICA, CIS, EAEU (observer), EAPC, EBRD, ECO, EEU (observer), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Furqat SIDDIQOV (since 4 April 2023)<br>
+_chief of mission_: Ambassador Furqat SIDDIQOV (since 19 April 2023)<br>
 _chancery_: 1746 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 887-5300<br>
 _FAX_: [1] (202) 293-6804<br>

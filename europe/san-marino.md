@@ -207,10 +207,6 @@ air pollution; urbanization decreasing rural farmlands; water shortage<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Nuclear Test Ban, Ozone Layer Protection, Whaling<br>
 _signed, but not ratified_: Air Pollution<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 13.45 micrograms per cubic meter (2016 est.)<br>
-_methane emissions_: 0.02 megatons (2020 est.)<br>
-
 **Climate**<br>
 Mediterranean; mild to cool winters; warm, sunny summers<br>
 
@@ -228,6 +224,10 @@ _rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 13.45 micrograms per cubic meter (2016 est.)<br>
+_methane emissions_: 0.02 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 17,175 tons (2016 est.)<br>

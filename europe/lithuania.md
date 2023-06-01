@@ -240,11 +240,6 @@ water pollution; air pollution; deforestation; threatened animal and plant speci
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 11.49 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 12.96 megatons (2016 est.)<br>
-_methane emissions_: 3.15 megatons (2020 est.)<br>
-
 **Climate**<br>
 transitional, between maritime and continental; wet, moderate winters and summers<br>
 
@@ -265,6 +260,11 @@ _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 11.49 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 12.96 megatons (2016 est.)<br>
+_methane emissions_: 3.15 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.3 million tons (2015 est.)<br>
@@ -504,7 +504,7 @@ $41.721 billion (2020 est.) note: data are in current year dollars<br>
 $42.323 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-Russia 13%, Latvia 9%, Poland 8%, Germany 7%, Estonia 5% (2019)<br>
+Russia 10%, Latvia 9%, Germany 8%, Poland 7%, United States 6% (2021)<br>
 
 **Exports - commodities**<br>
 refined petroleum, wooden furniture, wheat, laboratory reagents, cigarettes (2021)<br>
@@ -515,10 +515,10 @@ $36.414 billion (2020 est.) note: data are in current year dollars<br>
 $39.419 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-Poland 12%, Russia 12%, Germany 12%, Latvia 7%, Netherlands 5% (2019)<br>
+Poland 12%, Germany 12%, Russia 11%, Latvia 8%, Netherlands 5% (2021)<br>
 
 **Imports - commodities**<br>
-crude petroleum, cars, packaged medicines, refined petroleum, electricity (2019)<br>
+crude petroleum, cars, electricity, packaged medicines, broadcasting equipment, natural gas (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $5.58 billion (31 December 2021 est.)<br>
@@ -706,7 +706,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 77,444 (Ukraine) (as of 12 May 2023)<br>
+_refugees (country of origin)_: 77,610 (Ukraine) (as of 19 May 2023)<br>
 _stateless persons_: 2,720 (2022)<br>
 
 **Illicit drugs**<br>

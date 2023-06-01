@@ -226,11 +226,6 @@ the widespread practice of waste incineration is a major contributor to air poll
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Law of the Sea, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.19 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 2.05 megatons (2016 est.)<br>
-_methane emissions_: 0.95 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical marine; only slight seasonal temperature variation<br>
 
@@ -251,6 +246,11 @@ _rate of urbanization_: 1.37% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 10.19 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 2.05 megatons (2016 est.)<br>
+_methane emissions_: 0.95 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 189,390 tons (2011 est.)<br>
@@ -319,7 +319,7 @@ _elections/appointments_: president elected by Parliament for a 3-year term (eli
 _election results_: Ratu Wiliame KATONIVERE elected president with 28 votes against 23 votes for Teimumu KEPA<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (51 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote to serve 4-year terms)<br>
+_description_: unicameral Parliament (55 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 14 November 2018 (next to be held in 2022)<br>
 _election results_: percent of vote by party - FijiFirst 50%, SODELPA 39.6%, NFP 7.4%; seats by party - FijiFirst 27, SODELPA 21, NFP 3; composition - men 41, women 10, percent of women 19.6%<br>
 

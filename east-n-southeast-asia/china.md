@@ -259,11 +259,6 @@ air pollution (greenhouse gases, sulfur dioxide particulates) from reliance on c
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 49.16 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 9,893.04 megatons (2016 est.)<br>
-_methane emissions_: 1,490.24 megatons (2020 est.)<br>
-
 **Climate**<br>
 extremely diverse; tropical in south to subarctic in north<br>
 
@@ -285,6 +280,11 @@ _rate of urbanization_: 1.78% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.57% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 49.16 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 9,893.04 megatons (2016 est.)<br>
+_methane emissions_: 1,490.24 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 210 million tons (2015 est.)<br>
@@ -385,7 +385,7 @@ Chinese Communist Party or CCP [XI Jinping]<br>
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), BIS, BRICS, CDB, CICA, EAS, FAO, FATF, G-20, G-24 (observer), G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAIA (observer), MIGA, MINURSO, MINUSMA, MONUSCO, NAM (observer), NSG, OAS (observer), OPCW, Pacific Alliance (observer), PCA, PIF (partner), SAARC (observer), SCO, SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UN Security Council (permanent), UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: vacant (Charg&eacute; d'Affaires XU Xueyuan since December 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires XU Xueyuan (since 2 January 2023)&nbsp;<br>
 _chancery_: 3505 International Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 495-2266<br>
 _FAX_: [1] (202) 495-2138<br>

@@ -248,11 +248,6 @@ population pressure forcing settlement in marginal areas results in overgrazing,
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 27.78 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 2.51 megatons (2016 est.)<br>
-_methane emissions_: 2.56 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate; cool to cold, dry winters; hot, wet summers<br>
 
@@ -268,14 +263,19 @@ _other_: 22.4% (2018 est.)<br>
 _urban population_: 30.4% of total population (2023)<br>
 _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to poor harvests and increased food prices -</em> according to the latest national food security assessment, 22% of the rural population are expected to face acute food insecurity between October 2022 and March 2023, compared to 15% between July and September 2022; the forecasted proportion translates into 320,000 people in rural areas, while an additional 201,000 people in urban areas are foreseen to also need assistance; the foreseen increase of acute food insecurity levels is primarily due to the reduced harvest, high food prices in basic food and non‑food commodities and a slow recovery of households’ income reflecting a downturn in economic growth; harvesting of the 2022 main-season summer cereal crops, mostly maize and sorghum, is complete; production of maize, the main cereal staple, is about one‑third of the average, while the sorghum output is almost negligible; the poor harvest was primarily due to torrential rainfalls during January and February 2022, which caused localized flooding and resulted in crop losses (2022)<br>
+
 **Revenue from forest resources**<br>
 3.34% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to poor harvests and increased food prices -</em> according to the latest national food security assessment, 22% of the rural population are expected to face acute food insecurity between October 2022 and March 2023, compared to 15% between July and September 2022; the forecasted proportion translates into 320,000 people in rural areas, while an additional 201,000 people in urban areas are foreseen to also need assistance; the foreseen increase of acute food insecurity levels is primarily due to the reduced harvest, high food prices in basic food and non‑food commodities and a slow recovery of households’ income reflecting a downturn in economic growth; harvesting of the 2022 main-season summer cereal crops, mostly maize and sorghum, is complete; production of maize, the main cereal staple, is about one‑third of the average, while the sorghum output is almost negligible; the poor harvest was primarily due to torrential rainfalls during January and February 2022, which caused localized flooding and resulted in crop losses (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 27.78 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 2.51 megatons (2016 est.)<br>
+_methane emissions_: 2.56 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 73,457 tons (2006 est.)<br>

@@ -195,9 +195,6 @@ _female_: NA<br>
 **Environment - current issues**<br>
 coastal erosion, landslides and rockfalls, flash flooding, wind storms; oil spills<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.63 megatons (2016 est.)<br>
-
 **Climate**<br>
 mild winters, cool summers; usually overcast; foggy, windy<br>
 
@@ -215,6 +212,9 @@ _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
 0% of GDP (2017 est.)<br>
+
+**Air pollutants**<br>
+_carbon dioxide emissions_: 0.63 megatons (2016 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 61,000 tons (2014 est.)<br>

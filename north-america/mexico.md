@@ -260,11 +260,6 @@ scarcity of hazardous waste disposal facilities; rural to urban migration; natur
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 20.08 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 486.41 megatons (2016 est.)<br>
-_methane emissions_: 135.77 megatons (2020 est.)<br>
-
 **Climate**<br>
 varies from tropical to desert<br>
 
@@ -285,6 +280,11 @@ _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.03% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 20.08 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 486.41 megatons (2016 est.)<br>
+_methane emissions_: 135.77 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 53.1 million tons (2015 est.)<br>

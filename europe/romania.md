@@ -244,11 +244,6 @@ soil erosion, degradation, and desertification; water pollution; air pollution i
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Persistent Organic Pollutants, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 14.29 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 69.26 megatons (2016 est.)<br>
-_methane emissions_: 27.62 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate; cold, cloudy winters with frequent snow and fog; sunny summers with frequent showers and thunderstorms<br>
 
@@ -269,6 +264,11 @@ _rate of urbanization_: -0.15% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.03% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 14.29 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 69.26 megatons (2016 est.)<br>
+_methane emissions_: 27.62 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.895 million tons (2015 est.)<br>
@@ -721,9 +721,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 94,952 (Ukraine) (as of 14 May 2023)<br>
+_refugees (country of origin)_: 94,179 (Ukraine) (as of 20 May 2023)<br>
 _stateless persons_: 297 (2022)<br>
-<strong>note:</strong> 13,699 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
+<strong>note:</strong> 13,748 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis</p><br>

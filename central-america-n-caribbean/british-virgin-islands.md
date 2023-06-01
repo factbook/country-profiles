@@ -194,9 +194,6 @@ _female_: 12 years (2018)<br>
 **Environment - current issues**<br>
 limited natural freshwater resources except for a few seasonal streams and springs on Tortola; most of the islands' water supply comes from desalination plants; sewage and mining/industry waste contribute to water pollution, threatening coral reefs<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.21 megatons (2016 est.)<br>
-
 **Climate**<br>
 subtropical; humid; temperatures moderated by trade winds<br>
 
@@ -211,6 +208,9 @@ _other_: 29% (2018 est.)<br>
 **Urbanization**<br>
 _urban population_: 49.7% of total population (2023)<br>
 _rate of urbanization_: 1.73% annual rate of change (2020-25 est.)<br>
+
+**Air pollutants**<br>
+_carbon dioxide emissions_: 0.21 megatons (2016 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 21,099 tons (2000 est.)<br>

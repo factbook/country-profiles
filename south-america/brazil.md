@@ -256,11 +256,6 @@ deforestation in Amazon Basin destroys the habitat and endangers a multitude of 
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Marine Dumping-London Protocol<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 11.49 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 462.3 megatons (2016 est.)<br>
-_methane emissions_: 401.83 megatons (2020 est.)<br>
-
 **Climate**<br>
 mostly tropical, but temperate in south<br>
 
@@ -281,6 +276,11 @@ _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.01% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 11.49 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 462.3 megatons (2016 est.)<br>
+_methane emissions_: 401.83 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 79,889,010 tons (2015 est.)<br>

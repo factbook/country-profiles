@@ -196,9 +196,6 @@ _female_: 11.4% (2015 est.)<br>
 **Environment - current issues**<br>
 no natural freshwater resources; drinking water supplies are met by reverse osmosis desalination plants and rainwater catchment; trash washing up on the beaches or being deposited there by residents; no recycling or waste treatment facilities; deforestation (trees being cut down to create space for commercial use)<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 0.55 megatons (2016 est.)<br>
-
 **Climate**<br>
 tropical marine; warm, rainy summers (May to October) and cool, relatively dry winters (November to April)<br>
 
@@ -219,6 +216,9 @@ _rate of urbanization_: 1.13% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_carbon dioxide emissions_: 0.55 megatons (2016 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 60,000 tons (2014 est.)<br>

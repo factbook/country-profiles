@@ -85,7 +85,7 @@ Arab 95%, Armenian 4%, other 1%<br>
 
 **Languages**<br>
 Arabic (official), French, English, Armenian<br>
-_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 67.8% (31.9% Sunni, 31.2% Shia, smaller percentages of Alawites and Ismailis), Christian 32.4% (Maronite Catholics are the largest Christian group), Druze 4.5%, very small numbers of Jews, Baha'is, Buddhists, and Hindus (2020 est.)<br>
@@ -236,11 +236,6 @@ deforestation; soil deterioration, erosion; desertification; species loss; air p
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Environmental Modification, Marine Life Conservation<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 30.67 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 24.8 megatons (2016 est.)<br>
-_methane emissions_: 3.37 megatons (2020 est.)<br>
-
 **Climate**<br>
 Mediterranean; mild to cool, wet winters with hot, dry summers; the Lebanon Mountains experience heavy winter snows<br>
 
@@ -256,14 +251,19 @@ _other_: 23.3% (2018 est.)<br>
 _urban population_: 89.4% of total population (2023)<br>
 _rate of urbanization_: -1.23% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_widespread lack of access_: <em>due to the ongoing financial and economic crisis -</em> in September 2021, the United Nations estimated that, taking into account multiple factors other than income, such as access to health, education and public utilities, 82% of the population lives in multidimensional poverty in 2021, up from 42% in 2019 (2022)<br>
+
 **Revenue from forest resources**<br>
 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_widespread lack of access_: <em>due to the ongoing financial and economic crisis -</em> in September 2021, the United Nations estimated that, taking into account multiple factors other than income, such as access to health, education and public utilities, 82% of the population lives in multidimensional poverty in 2021, up from 42% in 2019 (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 30.67 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 24.8 megatons (2016 est.)<br>
+_methane emissions_: 3.37 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2.04 million tons (2014 est.)<br>
@@ -693,7 +693,7 @@ the LAF inventory includes a wide mix of mostly older equipment from a diverse a
 <strong>note:</strong> women were allowed to volunteer for military service in the 1980s; as of 2020, they comprised about 5% of the active duty military<br>
 
 **Military - note**<br>
-the Lebanese military faces a financial crisis as government debt and national economic difficulties undercut its ability to fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate; the military also faces other challenges, including infiltrations of militants linked to the Islamic State of Iraq and ash-Sham (ISIS) and maintaining stability along its volatile border with Israel, where the Iranian-backed and Lebanon-based terrorist group Hizballah conducted a war with Israel in 2006 and tensions remain high, including occasional armed skirmishes<br><br>the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities, support the Lebanese Armed Forces as they deployed throughout the south of Lebanon, and provide assistance for humanitarian access for civilians and the return of displaced persons; UNIFIL had approximately 9,500 military personnel deployed in the country as of early 2023; UNIFIL includes a maritime task force; in 2022, Israel and Lebanese officials agreed on a common demarcation of their maritime border after US mediation (2023)<br>
+the LAF’s primary responsibilities are defense against external attack, border security, protecting the country’s territorial waters, and assisting with internal security and development projects; on Lebanon’s eastern and northern borders with Syria, the LAF has conducted operations to prevent or eliminate infiltrations of militants linked to the Islamic State of Iraq and ash-Sham (ISIS) and al-Qa’ida terrorist groups since the start of the Syrian civil war in 2011; in the south, its focus is on maintaining stability along its volatile border with Israel where the LAF and the Israel Defense Forces (IDF) are separated by the Blue Line, a demarcation line established by the UN in 2000 following the withdrawal of the IDF, which had occupied southern Lebanon since invading in 1982; since the line’s establishment, the LAF and IDF have had periodic clashes, and IDF aircraft have routinely entered Lebanese air space; the Iranian-backed terrorist group Hizballah is based in south Lebanon and acts as a militia alongside the LAF; it has launched periodic cross-border attacks on Israel and threatened additional attacks, while the IDF has conducted air strikes on Hizballah positions and in 2006 launched a ground invasion into southern Lebanon to suppress the group; in 2022, Israeli and Lebanese officials agreed on a common demarcation of their maritime border after US mediation<br><br>the LAF’s domestic security responsibilities include countering narcotics trafficking and smuggling, managing protests, conducting search and rescue, and intervening to prevent violence between rival political factions; in recent years, the military has faced a financial crisis as government debt and national economic difficulties have undercut its ability to train and fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate; the UN, as well as countries such as France and the US have provided financial assistance <br><br>the Army has about 12 infantry brigades (including a presidential guard brigade) that are supplemented by independent armored, artillery, border security, and “intervention” infantry regiments, as well as a special operations force comprised of airborne, marine commando, and ranger regiments that are regarded as the LAF’s elite units; the Air Force has a small inventory of aging combat aircraft and helicopters, while the Navy operates a mix of patrol craft and patrol boats<br><br>the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities, support the Lebanese Armed Forces as they deployed throughout the south of Lebanon, and provide assistance for humanitarian access for civilians and the return of displaced persons; UNIFIL had approximately 9,500 military personnel deployed in the country as of early 2023; UNIFIL includes a maritime task force (2023)<br>
 
 ## Terrorism
 

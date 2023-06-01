@@ -240,11 +240,6 @@ rising sea levels threaten land; depletion of freshwater aquifers threatens wate
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 7.63 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 1.44 megatons (2016 est.)<br>
-_methane emissions_: 0.14 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid; dry, northeast monsoon (November to March); rainy, southwest monsoon (June to August)<br>
 
@@ -265,6 +260,11 @@ _rate of urbanization_: 2.34% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 7.63 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 1.44 megatons (2016 est.)<br>
+_methane emissions_: 0.14 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 211,506 tons (2015 est.)<br>

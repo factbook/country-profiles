@@ -246,11 +246,6 @@ deforestation and land use change, largely a result of the clearing of land for 
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Marine Life Conservation<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 15.85 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 8.02 megatons (2016 est.)<br>
-_methane emissions_: 5.61 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical and subtropical; dry season (December to April); rainy season (May to November); cooler in highlands<br>
 
@@ -271,6 +266,11 @@ _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 15.85 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 8.02 megatons (2016 est.)<br>
+_methane emissions_: 5.61 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.46 million tons (2014 est.)<br>

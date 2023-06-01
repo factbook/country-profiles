@@ -241,11 +241,6 @@ water quality and availability; rapid urbanization; deforestation; soil erosion 
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Antarctic Seals, Marine Life Conservation<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 5.73 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 34.38 megatons (2016 est.)<br>
-_methane emissions_: 34.3 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate with sharp regional contrasts<br>
 
@@ -266,6 +261,11 @@ _rate of urbanization_: 0.92% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.03% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 5.73 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 34.38 megatons (2016 est.)<br>
+_methane emissions_: 34.3 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3.405 million tons (2016 est.)<br>

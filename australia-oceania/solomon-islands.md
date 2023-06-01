@@ -228,11 +228,6 @@ deforestation; soil erosion; many of the surrounding coral reefs are dead or dyi
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Whaling<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.67 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.17 megatons (2016 est.)<br>
-_methane emissions_: 0.43 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical monsoon; few temperature and weather extremes<br>
 
@@ -253,6 +248,11 @@ _rate of urbanization_: 3.57% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 10.67 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.17 megatons (2016 est.)<br>
+_methane emissions_: 0.43 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 179,972 tons (2013 est.)<br>

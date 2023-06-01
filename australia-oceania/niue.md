@@ -190,9 +190,6 @@ increasing attention to conservationist practices to counter loss of soil fertil
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Law of the Sea, Ozone Layer Protection, Ship Pollution<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 11.47 micrograms per cubic meter (2016 est.)<br>
-
 **Climate**<br>
 tropical; modified by southeast trade winds<br>
 
@@ -207,6 +204,9 @@ _other_: 9.7% (2018 est.)<br>
 **Urbanization**<br>
 _urban population_: 48.2% of total population (2023)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 11.47 micrograms per cubic meter (2016 est.)<br>
 
 **Total renewable water resources**<br>
 0 cubic meters (2017 est.)<br>

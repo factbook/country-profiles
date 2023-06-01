@@ -244,11 +244,6 @@ deforestation; soil erosion; water pollution; contamination of soils from dispos
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Law of the Sea<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 23.42 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 7.17 megatons (2016 est.)<br>
-_methane emissions_: 4.71 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; rainy season (May to October); dry season (November to April); tropical on coast; temperate in uplands<br>
 
@@ -269,6 +264,11 @@ _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 23.42 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 7.17 megatons (2016 est.)<br>
+_methane emissions_: 4.71 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,648,996 tons (2010 est.)<br>
@@ -687,7 +687,7 @@ the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of 
 1.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 24,000 active military personnel (20,000 Army; 2,000 Navy; 2,000 Air Force) (2023)<br>
+approximately 25,000 active military personnel (21,000 Army; 2,000 Navy; 2,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAES is dependent on a mix of mostly older imported platforms, largely from the US; in recent years, the FAES has received small amounts of equipment from several countries, including Chile, Israel, Spain, and the US (2022)<br>

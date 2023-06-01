@@ -250,11 +250,6 @@ pollution of coastal waters from sewage outlets, especially in tourist-related a
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 20.17 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 2.02 megatons (2016 est.)<br>
-_methane emissions_: 0.75 megatons (2020 est.)<br>
-
 **Climate**<br>
 Mediterranean climate, hot dry summers and autumns and relatively cold winters with heavy snowfalls inland<br>
 
@@ -275,6 +270,11 @@ _rate of urbanization_: 0.45% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.12% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 20.17 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 2.02 megatons (2016 est.)<br>
+_methane emissions_: 0.75 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 332,000 tons (2015 est.)<br>
@@ -345,7 +345,7 @@ _chief of state_: President Jakov MILATOVIC (since 20 May 2023)<br>
 _head of government_: Prime Minister Dritan ABAZOVIC (since 28 April 2022)<br>
 _cabinet_: Ministers act as cabinet<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 19 March 2023 with a runoff on 2 April 2023 (next to be held in 2028); prime minister nominated by the president, approved by the Assembly<br>
-_election results_: <em><br>2023: </em>Jakov MILATOVIC elected president in the second round; percent of vote in first round - Milo DUKANOVIC (DPS) 35.4%, Jakov MILATOVIC (Europe Now!) 28.9%, Andrija MANDIC (DF) 19.3%, Aleksa BECIC (DCG) 11.1%, other 5.3%; percent of vote in second round - Jakov MILATOVIC 58.9%, Milo DUKANOVIC 41.1%<em><br><br>2018:</em> Milo DJUKANOVIC elected president in the first round; percent of vote - Milo DJUKANOVIC (DPS) 53.9%, Mladen BOJANIC (independent) 33.4%, Draginja VUKSANOVIC (SDP) 8.2%, Marko MILACIC (PRAVA) 2.8%, other 1.7%<br><br><em>2013:</em> Filip VUJANOVIC reelected president; percent of vote Filip VUJANOVIC (DPS) 51.2%, Miodrag LEKIC (independent) 48.8%<br>
+_election results_: <em><br>2023: </em>Jakov MILATOVIC elected president in the second round; percent of vote in first round - Milo DUKANOVIC (DPS) 35.4%, Jakov MILATOVIC (Europe Now!) 28.9%, Andrija MANDIC (DF) 19.3%, Aleksa BECIC (DCG) 11.1%, other 5.3%; percent of vote in second round - Jakov MILATOVIC 58.9%, Milo DUKANOVIC 41.1%<em><br><br>2018:</em> Milo DJUKANOVIC elected president in the first round; percent of vote - Milo DJUKANOVIC (DPS) 53.9%, Mladen BOJANIC (independent) 33.4%, Draginja VUKSANOVIC (SDP) 8.2%, Marko MILACIC (PRAVA) 2.8%, other 1.7%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
@@ -706,9 +706,9 @@ Montenegro became a member of NATO in 2017<br>
 <p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,428 (Ukraine) (as of 15 May 2023)<br>
+_refugees (country of origin)_: 33,541 (Ukraine) (as of 19 May 2023)<br>
 _stateless persons_: 468 (2022)<br>
-<strong>note:</strong> 30,344 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
+<strong>note:</strong> 30,433 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

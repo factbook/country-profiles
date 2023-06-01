@@ -255,11 +255,6 @@ lack of important arterial rivers or lakes requires extensive water conservation
 _party to_: Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 23.58 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 476.64 megatons (2016 est.)<br>
-_methane emissions_: 55.89 megatons (2020 est.)<br>
-
 **Climate**<br>
 mostly semiarid; subtropical along east coast; sunny days, cool nights<br>
 
@@ -277,6 +272,11 @@ _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 2.4% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 23.58 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 476.64 megatons (2016 est.)<br>
+_methane emissions_: 55.89 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 18,457,232 tons (2011 est.)<br>
@@ -737,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>South Africa-Botswana</em>: none identified</p> <p><em>South Africa-Eswatini</em>: Eswatini seeks to reclaim land it says was stolen by South Africa</p> <p><em>South Africa-Lesotho</em>: crossborder livestock thieving, smuggling of drugs and arms, and illegal migration are problematic</p> <p><em>South Africa-Mozambique</em>: animal poachers cross the South Africa-Mozambique border to hunt wildlife in South Africa’s Kruger National Park; border fences were removed in some areas to allow animals to roam between nature reserves in the two countries; improved patrols, technology, and crossborder cooperation are reducing the problem</p> <p><em>South Africa-Namibia</em>: the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; the location of the border could affect diamond mining rights; South Africa has always claimed that the northern bank of the Orange River is the border between the two countries, while Namibia’s constitution states that the border lies in the middle of the Orange River</p> <p><em>South Africa-various</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>South Africa-Zimbabwe</em>: Zimbabweans migrate illegally into South Africa in search of work or smuggle goods to sell at a profit back home</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,388 (Somalia), 15,240 (Ethiopia) (mid-year 2022); 56,080 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 22,388 (Somalia), 15,240 (Ethiopia) (mid-year 2022); 42,167 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 5,000 (2020)<br>
 
 **Trafficking in persons**<br>

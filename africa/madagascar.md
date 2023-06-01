@@ -252,11 +252,6 @@ erosion and soil degredation results from deforestation and overgrazing; deserti
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 21.44 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 3.91 megatons (2016 est.)<br>
-_methane emissions_: 10.14 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical along coast, temperate inland, arid in south<br>
 
@@ -272,14 +267,19 @@ _other_: 7.4% (2018 est.)<br>
 _urban population_: 40.6% of total population (2023)<br>
 _rate of urbanization_: 4.26% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to the effects of extreme weather events and slow economic recovery - </em>according to the latest May 2022 analysis, the prevalence of food insecurity in the southern regions is projected to peak at 2.1 million people by December 2022 until at least March 2023; overall, the number of people requiring humanitarian assistance by the end of 2022 is expected to be about 30 percent higher compared to the peak number in 2021; the poor food security situation is mainly the consequence of six consecutive poor agricultural seasons that culminated in very tight food supplies for rural households and curbed incomes from crop sales; high rates of poverty and increased prices of essential food commodities, combined with a high reliance on market supplies due to low harvests for own consumption, are also contributing to the high rates of food insecurity across the southern regions (2022)<br>
+
 **Revenue from forest resources**<br>
 4.34% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to the effects of extreme weather events and slow economic recovery - </em>according to the latest May 2022 analysis, the prevalence of food insecurity in the southern regions is projected to peak at 2.1 million people by December 2022 until at least March 2023; overall, the number of people requiring humanitarian assistance by the end of 2022 is expected to be about 30 percent higher compared to the peak number in 2021; the poor food security situation is mainly the consequence of six consecutive poor agricultural seasons that culminated in very tight food supplies for rural households and curbed incomes from crop sales; high rates of poverty and increased prices of essential food commodities, combined with a high reliance on market supplies due to low harvests for own consumption, are also contributing to the high rates of food insecurity across the southern regions (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 21.44 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 3.91 megatons (2016 est.)<br>
+_methane emissions_: 10.14 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3,768,759 tons (2016 est.)<br>

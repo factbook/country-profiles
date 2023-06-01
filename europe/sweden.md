@@ -241,11 +241,6 @@ _female_: 23% (2021 est.)<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 5.89 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 43.25 megatons (2016 est.)<br>
-_methane emissions_: 4.42 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate in south with cold, cloudy winters and cool, partly cloudy summers; subarctic in north<br>
 
@@ -266,6 +261,11 @@ _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 5.89 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 43.25 megatons (2016 est.)<br>
+_methane emissions_: 4.42 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.377 million tons (2015 est.)<br>
@@ -503,10 +503,10 @@ $241.94 billion (2020 est.) note: data are in current year dollars<br>
 $257.293 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-Germany 10%, Norway 9%, United States 8%, Denmark 7%, Finland 6%, United Kingdom 5%, Netherlands 5%, China 5% (2019)<br>
+Germany 10%, Norway 9%, United States 8%, Denmark 8%, Finland 6% (2021)<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, packaged medicines, refined petroleum, broadcasting equipment, lumber (2019)<br>
+cars and vehicle parts, refined petroleum, packaged medicines, lumber, iron, broadcasting equipment (2021)<br>
 
 **Imports**<br>
 $263.269 billion (2021 est.) note: data are in current year dollars<br>
@@ -514,10 +514,10 @@ $217.165 billion (2020 est.) note: data are in current year dollars<br>
 $233.648 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-Germany 18%, Netherlands 9%, Denmark 7%, Norway 7%, China 6%, Finland 5%, Belgium 5%, Poland 5% (2019)<br>
+Germany 18%, Netherlands 9%, Norway 8%, China 7%, Denmark 7% (2021)<br>
 
 **Imports - commodities**<br>
-cars and vehicle parts, crude petroleum, refined petroleum, broadcasting equipment, computers (2019)<br>
+cars and vehicle parts, crude petroleum, refined petroleum, broadcasting equipment, computers (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $62.053 billion (31 December 2021 est.)<br>
@@ -717,6 +717,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 55,020 (Ukraine) (as of 11 May 2023)<br>
+_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 55,288 (Ukraine) (as of 18 May 2023)<br>
 _stateless persons_: 46,515 (2022); note - the majority of stateless people are from the Middle East and Somalia<br>
 

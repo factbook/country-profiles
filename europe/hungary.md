@@ -244,11 +244,6 @@ air and water pollution are some of Hungary's most serious environmental problem
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Antarctic-Environmental Protection<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 15.62 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 45.54 megatons (2016 est.)<br>
-_methane emissions_: 7.25 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate; cold, cloudy, humid winters; warm summers<br>
 
@@ -269,6 +264,11 @@ _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.01% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 15.62 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 45.54 megatons (2016 est.)<br>
+_methane emissions_: 7.25 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3.712 million tons (2015 est.)<br>
@@ -699,7 +699,7 @@ approximately 21,000 active-duty troops (16,000 Army; 5,000 Air Force) (2022)<br
 <strong>note:</strong> in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000 but did not give a timeline<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment (2022)<br>
+the military's inventory consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment (2023)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2022)<br>
@@ -723,7 +723,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 35,030 (Ukraine) (as of 16 May 2023)<br>
+_refugees (country of origin)_: 36,313 (Ukraine) (as of 23 May 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

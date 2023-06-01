@@ -223,10 +223,6 @@ _female_: 69% (2021 est.)<br>
 **Environment - current issues**<br>
 soil degradation; desertification; water pollution from chemicals and pesticides; salination of fresh water; improper sewage treatment; water-borne disease; depletion and contamination of underground water resources<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 3.23 megatons (2016 est.)<br>
-<strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
-
 **Climate**<br>
 temperate, mild winters, dry and warm to hot summers<br>
 
@@ -237,6 +233,10 @@ _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_carbon dioxide emissions_: 3.23 megatons (2016 est.)<br>
+<strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.387 million tons (2016 est.)<br>

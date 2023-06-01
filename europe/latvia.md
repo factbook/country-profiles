@@ -240,11 +240,6 @@ while land, water, and air pollution are evident, Latvia's environment has benef
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 12.72 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 7 megatons (2016 est.)<br>
-_methane emissions_: 1.85 megatons (2020 est.)<br>
-
 **Climate**<br>
 maritime; wet, moderate winters<br>
 
@@ -265,6 +260,11 @@ _rate of urbanization_: -0.68% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 12.72 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 7 megatons (2016 est.)<br>
+_methane emissions_: 1.85 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 857,000 tons (2015 est.)<br>
@@ -383,7 +383,7 @@ _selected World Heritage Site locales_: Historic Center of Riga; Struve Geodetic
 ## Economy
 
 **Economic overview**<br>
-high-income, EU-member Baltic economy; export-driven; major bribery and money-laundering scandals suggest widespread financial corruption; strong but gradual post COVID-19 recovery; regional tension with Belarus; highly developed transit services<br>
+high-income, EU-member Baltic economy; export-driven; Russian invasion of Ukraine has caused a temporary labor force surge and impacted growth due to Russian trade reliance; highly developed transit services<br>
 
 **Real GDP (purchasing power parity)**<br>
 $60.457 billion (2021 est.)<br>
@@ -499,7 +499,7 @@ $20.768 billion (2020 est.) note: data are in current year dollars<br>
 $20.539 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-Lithuania 16%, Estonia 10%, Russia 9%, Germany 7%, Sweden 6%, United Kingdom 6% (2019)<br>
+Lithuania 17%, Estonia 9%, United Kingdom 8%, Germany 7%, Russia 7% (2021)<br>
 
 **Exports - commodities**<br>
 lumber, wheat, broadcasting equipment, packaged medicines, fuel woods, hard liquors (2021)<br>
@@ -510,10 +510,10 @@ $20.427 billion (2020 est.) note: data are in current year dollars<br>
 $20.765 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-Russia 21%, Lithuania 14%, Germany 9%, Poland 7%, Estonia 7% (2019)<br>
+Lithuania 15%, Russia 14%, Germany 9%, Poland 8%, Estonia 8% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, broadcasting equipment, cars, packaged medicines, aircraft (2019)<br>
+refined petroleum, packaged medicines, broadcasting equipment, electricity, cars, natural gas (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $5.491 billion (31 December 2021 est.)<br>
@@ -705,7 +705,7 @@ Latvia became a member of NATO in 2004 <br><br>since 2017, Latvia has hosted a C
 <p><em>Latvia-Belarus</em>: Belarus and Latvia signed joint demarcation map in September 2008</p> <p><em>Latvia-Estonia</em>: demarcation reportedly completed in 1998</p> <p><em>Latvia-Lithuania</em>: boundary demarcation was completed by the end of 1998; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights</p> <p><em>Latvia-Russia</em>: Russia demands better Latvian treatment of ethnic Russians in Latvia; in March 2007, Latvia and Russia signed a border treaty, which includes Latvia withdrawing claims to a district now in Russia that was part of Latvia before WWII; the permanent demarcation of the boundary between Latvia and Russia was completed and came into force in April 2018; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 31,769 (Ukraine) (as of 12 May 2023)<br>
+_refugees (country of origin)_: 31,527 (Ukraine) (as of 19 May 2023)<br>
 _stateless persons_: 195,354 (2022); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
 
 **Illicit drugs**<br>

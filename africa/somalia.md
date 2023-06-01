@@ -240,11 +240,6 @@ water scarcity; contaminated water contributes to human health problems; imprope
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection<br>
 _signed, but not ratified_: Nuclear Test Ban<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 29.51 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.65 megatons (2016 est.)<br>
-_methane emissions_: 20.13 megatons (2020 est.)<br>
-
 **Climate**<br>
 principally desert; northeast monsoon (December to February), moderate temperatures in north and hot in south; southwest monsoon (May to October), torrid in the north and hot in the south, irregular rainfall, hot and humid periods (tangambili) between monsoons<br>
 
@@ -262,6 +257,11 @@ _rate of urbanization_: 4.2% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions and internal conflict - </em>about 6.5 million people are estimated to face severe acute food insecurity between April and June 2023 as a result of consecutive poor rainy seasons since late 2020 and heightened conflict since early 2021 (2023)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 29.51 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.65 megatons (2016 est.)<br>
+_methane emissions_: 20.13 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,326,099 tons (2016 est.)<br>

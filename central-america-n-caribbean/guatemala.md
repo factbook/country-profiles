@@ -247,11 +247,6 @@ deforestation in the Peten rainforest; soil erosion; water pollution<br>
 _party to_: Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 23.59 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 16.78 megatons (2016 est.)<br>
-_methane emissions_: 10.7 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid in lowlands; cooler in highlands<br>
 
@@ -272,6 +267,11 @@ _rate of urbanization_: 2.59% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 23.59 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 16.78 megatons (2016 est.)<br>
+_methane emissions_: 10.7 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,756,741 tons (2015 est.)<br>
@@ -707,7 +707,7 @@ all male citizens between the ages of 18 and 50 are eligible for military servic
 155 Democratic Republic of the Congo (MONUSCO) (May 2022)<br>
 
 **Military - note**<br>
-since the 2000s, the Guatemalan Government has used the Army to support the National Civil Police in internal security operations (as permitted by the constitution) to combat organized crime, gang violence, and narco-trafficking <br><br>the military held power during most of Guatemala’s 36-year civil war (1960-1996) and conducted a campaign of widespread violence and repression, particularly against the country’s majority indigenous population; more than 200,000 people were estimated to have been killed or disappeared during the conflict (2022)<br>
+since the 2000s, the Guatemalan Government has used the Army to support the National Civil Police in internal security operations (as permitted by the constitution) to combat organized crime, gang violence, and narco-trafficking <br><br>the military held power during most of Guatemala’s 36-year civil war (1960-1996) and conducted a campaign of widespread violence and repression, particularly against the country’s majority indigenous population; more than 200,000 people were estimated to have been killed or disappeared during the conflict (2023)<br>
 
 ## Transnational Issues
 

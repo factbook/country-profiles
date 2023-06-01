@@ -237,11 +237,6 @@ air pollution, principally from vehicle and power plant emissions; nitrogen and 
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Antarctic-Environmental Protection<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.12 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 31.79 megatons (2016 est.)<br>
-_methane emissions_: 6.54 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate; humid and overcast; mild, windy winters and cool summers<br>
 
@@ -262,6 +257,11 @@ _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 10.12 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 31.79 megatons (2016 est.)<br>
+_methane emissions_: 6.54 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.485 million tons (2015 est.)<br>
@@ -380,7 +380,7 @@ _selected World Heritage Site locales_: Denmark: Mounds, Runic Stones, and Churc
 ## Economy
 
 **Economic overview**<br>
-longstanding EU leader; global environmental regulatory innovator; diversified trade-based economy, dominated by its services sector; increased government spending but retaining budget surpluses; increasing taxes and innovating emissions tax incentives<br>
+diversified EU trade-based economy; environmental regulatory innovator; dominant services sector; increased government spending but retaining budget surpluses; currently high inflation; unique "flexicurity" labor market<br>
 
 **Real GDP (purchasing power parity)**<br>
 $339.472 billion (2021 est.)<br>
@@ -496,7 +496,7 @@ $195.729 billion (2020 est.) note: data are in current year dollars<br>
 $205.019 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-Germany 14%, United States 11%, Sweden 10%, United Kingdom 7%, Norway 6%, Netherlands 5%, China 5% (2019)<br>
+Germany 14%, United States 10%, Sweden 10%, China 6%, Norway 5% (2021)<br>
 
 **Exports - commodities**<br>
 packaged medicines, pork, refined petroleum, electric generators, cheese (2021)<br>
@@ -507,10 +507,10 @@ $172.868 billion (2020 est.) note: data are in current year dollars<br>
 $179.356 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-Germany 21%, Sweden 11%, Netherlands 8%, China 7% (2019)<br>
+Germany 21%, Sweden 12%, China 9%, Netherlands 8%, Poland 4% (2021)<br>
 
 **Imports - commodities**<br>
-cars, refined petroleum, packaged medicines, crude petroleum, broadcasting equipment (2019)<br>
+cars, packaged medicines, refined petroleum, crude petroleum, broadcasting equipment, computers (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $82.236 billion (31 December 2021 est.)<br>
@@ -710,6 +710,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 42,226 (Ukraine) (as of 14 May 2023)<br>
+_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 42,361 (Ukraine) (as of 21 May 2023)<br>
 _stateless persons_: 11,644 (2022)<br>
 

@@ -240,11 +240,6 @@ air and water pollution in areas of northwest Bohemia and in northern Moravia ar
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 15.15 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 102.22 megatons (2016 est.)<br>
-_methane emissions_: 13.11 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate; cool summers; cold, cloudy, humid winters<br>
 
@@ -265,6 +260,11 @@ _rate of urbanization_: 0.2% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.14% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 15.15 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 102.22 megatons (2016 est.)<br>
+_methane emissions_: 13.11 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3.337 million tons (2015 est.)<br>

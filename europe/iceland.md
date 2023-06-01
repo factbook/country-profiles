@@ -233,11 +233,6 @@ water pollution from fertilizer runoff<br>
 _party to_: Air Pollution, Air Pollution-Persistent Organic Pollutants, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Marine Dumping-London Protocol, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: Air Pollution-Heavy Metals, Environmental Modification, Marine Life Conservation<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 5.94 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 2.06 megatons (2016 est.)<br>
-_methane emissions_: 0.59 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate; moderated by North Atlantic Current; mild, windy winters; damp, cool summers<br>
 
@@ -258,6 +253,11 @@ _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 5.94 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 2.06 megatons (2016 est.)<br>
+_methane emissions_: 0.59 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 525,000 tons (2015 est.)<br>
@@ -375,7 +375,7 @@ _selected World Heritage Site locales_: Thingvellir National Park (c); Surtsey (
 ## Economy
 
 **Economic overview**<br>
-high-income European economy; frozen EU accession application but Schengen Area member; tourism industry, which helped rebound the economy after 2008 collapse, hit hard by COVID-19; major fishing industry; complex regulatory environment<br>
+high-income European economy; frozen EU accession application but Schengen Area member; major tourism, fishing, and aluminum industries; complex regulatory environment; large FDI recipient; highly educated workforce<br>
 
 **Real GDP (purchasing power parity)**<br>
 $19.962 billion (2021 est.)<br>
@@ -487,7 +487,7 @@ $7.501 billion (2020 est.) note: data are in current year dollars<br>
 $11.005 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-Netherlands 23%, United Kingdom 9%, Germany 9%, Spain 8%, United States 7%, France 7%, Canada 5% (2019)<br>
+Netherlands 24%, Spain 10%, Germany 10%, United Kingdom 9%, United States 7% (2021)<br>
 
 **Exports - commodities**<br>
 aluminum and aluminum products, fish fillets, salmon, iron alloys, animal meal (2021)<br>
@@ -498,7 +498,7 @@ $7.616 billion (2020 est.) note: data are in current year dollars<br>
 $9.891 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-Norway 11%, Netherlands 10%, Germany 8%, Denmark 8%, United States 7%, United Kingdom 6%, China 6%, Sweden 5% (2019)<br>
+Norway 11%, Denmark 10%, Netherlands 9%, Germany 9%, China 7% (2021)<br>
 
 **Imports - commodities**<br>
 refined petroleum, aluminum oxide, carbon/graphite electronics, cars, packaged medicines (2019)<br>

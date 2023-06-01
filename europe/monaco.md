@@ -205,10 +205,6 @@ no serious issues; actively monitors pollution levels in air and water<br>
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 12.2 micrograms per cubic meter (2016 est.)<br>
-_methane emissions_: 0.05 megatons (2020 est.)<br>
-
 **Climate**<br>
 Mediterranean with mild, wet winters and hot, dry summers<br>
 
@@ -226,6 +222,10 @@ _rate of urbanization_: 0.5% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 12.2 micrograms per cubic meter (2016 est.)<br>
+_methane emissions_: 0.05 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 46,000 tons (2012 est.)<br>

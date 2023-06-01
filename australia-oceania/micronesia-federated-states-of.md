@@ -211,11 +211,6 @@ overfishing; sea level rise due to climate change threatens land; water pollutio
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 10.23 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.14 megatons (2016 est.)<br>
-_methane emissions_: 0.02 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; heavy year-round rainfall, especially in the eastern islands; located on southern edge of the typhoon belt with occasionally severe damage<br>
 
@@ -233,6 +228,11 @@ _rate of urbanization_: 1.52% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
 0.02% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 10.23 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.14 megatons (2016 est.)<br>
+_methane emissions_: 0.02 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 26,040 tons (2016 est.)<br>

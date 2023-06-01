@@ -248,11 +248,6 @@ government water control projects drained most of the inhabited marsh areas east
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Climate Change-Paris Agreement, Environmental Modification<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 57.73 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 190.06 megatons (2016 est.)<br>
-_methane emissions_: 17.44 megatons (2020 est.)<br>
-
 **Climate**<br>
 mostly desert; mild to cool winters with dry, hot, cloudless summers; northern mountainous regions along Iranian and Turkish borders experience cold winters with occasionally heavy snows that melt in early spring, sometimes causing extensive flooding in central and southern Iraq<br>
 
@@ -268,14 +263,19 @@ _other_: 80% (2018 est.)<br>
 _urban population_: 71.6% of total population (2023)<br>
 _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: <em>due to civil conflict and economic slowdown -</em> the 2022 Humanitarian Needs Overview identified 2.5 million people in need of humanitarian assistance, of which 960,000 have acute humanitarian needs; while the number of people in need remained similar to the previous year, the severity of those needs increased, largely due to the impact of the COVID‑19 pandemic on top of an existing humanitarian crisis, leading to a 35% increase in the number of people in acute need; more than half of these are concentrated in the governorates of Nineveh and Anbar; the number of severely food insecure people is estimated at about 435,000, while 731,000 are vulnerable to food insecurity (2022)<br>
+
 **Revenue from forest resources**<br>
 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
 
-**Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil conflict and economic slowdown -</em> the 2022 Humanitarian Needs Overview identified 2.5 million people in need of humanitarian assistance, of which 960,000 have acute humanitarian needs; while the number of people in need remained similar to the previous year, the severity of those needs increased, largely due to the impact of the COVID‑19 pandemic on top of an existing humanitarian crisis, leading to a 35% increase in the number of people in acute need; more than half of these are concentrated in the governorates of Nineveh and Anbar; the number of severely food insecure people is estimated at about 435,000, while 731,000 are vulnerable to food insecurity (2022)<br>
+**Air pollutants**<br>
+_particulate matter emissions_: 57.73 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 190.06 megatons (2016 est.)<br>
+_methane emissions_: 17.44 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 13.14 million tons (2015 est.)<br>
@@ -372,7 +372,7 @@ Al Fatah Alliance [Hadi al-AMIRI]<br>Azm Alliance [Khamis al-KHANJAR]<br>Babiliy
 ABEDA, AFESD, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Salwin SINJAREE (since 25 July 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Salwan Rasheed Anjo ANJO (since 27 June 2022)<br>
 _chancery_: 3421 Massachusetts Avenue NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 742-1600<br>
 _FAX_: [1] (202) 333-1129<br>

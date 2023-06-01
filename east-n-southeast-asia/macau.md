@@ -192,9 +192,6 @@ _female_: 6.6% (2021 est.)<br>
 **Environment - current issues**<br>
 air pollution; coastal waters pollution; insufficient policies in reducing and recycling solid wastes; increasing population density worsening noise pollution<br>
 
-**Air pollutants**<br>
-_carbon dioxide emissions_: 2.07 megatons (2016 est.)<br>
-
 **Climate**<br>
 subtropical; marine with cool winters, warm summers<br>
 
@@ -211,6 +208,9 @@ _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_carbon dioxide emissions_: 2.07 megatons (2016 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 377,942 tons (2016 est.)<br>

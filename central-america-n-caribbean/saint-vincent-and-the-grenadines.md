@@ -220,11 +220,6 @@ pollution of coastal waters and shorelines from discharges by pleasure yachts an
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 21.2 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.22 megatons (2016 est.)<br>
-_methane emissions_: 0.09 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; little seasonal temperature variation; rainy season (May to November)<br>
 
@@ -245,6 +240,11 @@ _rate of urbanization_: 0.94% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 21.2 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.22 megatons (2016 est.)<br>
+_methane emissions_: 0.09 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 31,561 tons (2015 est.)<br>

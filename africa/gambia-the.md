@@ -255,11 +255,6 @@ deforestation due to slash-and-burn agriculture; desertification; water pollutio
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: Comprehensive Nuclear Test Ban<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 32.2 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.53 megatons (2016 est.)<br>
-_methane emissions_: 1.96 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; hot, rainy season (June to November); cooler, dry season (November to May)<br>
 
@@ -280,6 +275,11 @@ _rate of urbanization_: 3.75% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 32.2 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.53 megatons (2016 est.)<br>
+_methane emissions_: 1.96 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 193,441 tons (2002 est.)<br>

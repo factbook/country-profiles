@@ -224,11 +224,6 @@ deforestation; soil erosion, particularly in the northern region<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 21.22 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 0.41 megatons (2016 est.)<br>
-_methane emissions_: 0.27 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical, moderated by northeast trade winds; dry season January to April, rainy season May to August<br>
 
@@ -249,6 +244,11 @@ _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 21.22 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 0.41 megatons (2016 est.)<br>
+_methane emissions_: 0.27 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 77,616 tons (2015 est.)<br>

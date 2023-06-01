@@ -236,11 +236,6 @@ air pollution from metallurgical plants; Skopje has severe air pollution problem
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 28.34 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 7.05 megatons (2016 est.)<br>
-_methane emissions_: 2.28 megatons (2020 est.)<br>
-
 **Climate**<br>
 warm, dry summers and autumns; relatively cold winters with heavy snowfall<br>
 
@@ -261,6 +256,11 @@ _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 28.34 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 7.05 megatons (2016 est.)<br>
+_methane emissions_: 2.28 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 796,585 tons (2016 est.)<br>

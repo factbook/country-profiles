@@ -247,11 +247,6 @@ overgrazing; desertification; limited freshwater resources; air pollution<br>
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Wetlands<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 21.24 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 6.34 megatons (2016 est.)<br>
-_methane emissions_: 5.73 megatons (2020 est.)<br>
-
 **Climate**<br>
 semiarid; warm winters and hot summers<br>
 
@@ -272,6 +267,11 @@ _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.45% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 21.24 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 6.34 megatons (2016 est.)<br>
+_methane emissions_: 5.73 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 210,854 tons (2010 est.)<br>
@@ -684,7 +684,7 @@ Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Lo
 approximately 9,000 active BDF personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the BDF has a mix of foreign-supplied and mostly older weapons and equipment, largely of Western/European-origin (2022)<br>
+the BDF has a mix of mostly older weapons and equipment, largely of Western/European-origin; in recent years, it has received limited amounts of material from several European countries and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service for men and women; no conscription (2022)<br>

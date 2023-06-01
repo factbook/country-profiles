@@ -255,11 +255,6 @@ air pollution; large emitter of carbon dioxide from the burning of fossil fuels;
 _party to_: Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Multi-effect Protocol, Air Pollution-Nitrogen Oxides, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Climate Change, Climate Change-Paris Agreement, Desertification, Endangered Species, Environmental Modification, Marine Dumping-London Convention, Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling<br>
 _signed, but not ratified_: Air Pollution-Persistent Organic Pollutants, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Hazardous Wastes, Marine Dumping-London Protocol<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 7.4 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 5,006.3 megatons (2016 est.)<br>
-_methane emissions_: 685.74 megatons (2020 est.)<br>
-
 **Climate**<br>
 mostly temperate, but tropical in Hawaii and Florida, arctic in Alaska, semiarid in the great plains west of the Mississippi River, and arid in the Great Basin of the southwest; low winter temperatures in the northwest are ameliorated occasionally in January and February by warm chinook winds from the eastern slopes of the Rocky Mountains<br>
 <strong>note:</strong> many consider Denali, the highest peak in the US, to be the world’s coldest mountain because of its combination of high elevation and its subarctic location at 63 degrees north latitude; permanent snow and ice cover over 75 percent of the mountain, and enormous glaciers, up to 45 miles long and 3,700 feet thick, spider out from its base in every direction; it is home to some of the world’s coldest and most violent weather, where winds of over 150 miles per hour and temperatures of -93˚F have been recorded.  <br>
@@ -281,6 +276,11 @@ _rate of urbanization_: 0.96% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.2% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 7.4 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 5,006.3 megatons (2016 est.)<br>
+_methane emissions_: 685.74 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 258 million tons (2015 est.)<br>

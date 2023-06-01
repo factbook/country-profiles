@@ -246,11 +246,6 @@ water pollution from sewage and agricultural and industrial chemicals; deforesta
 _party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006<br>
 _signed, but not ratified_: none of the selected agreements<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 20.46 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 2.38 megatons (2016 est.)<br>
-_methane emissions_: 1.81 megatons (2020 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid, moderated by northeast trade winds; two rainy seasons (May to August, November to January)<br>
 
@@ -271,6 +266,11 @@ _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 20.46 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 2.38 megatons (2016 est.)<br>
+_methane emissions_: 1.81 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 179,252 tons (2010 est.)<br>

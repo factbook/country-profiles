@@ -249,11 +249,6 @@ water pollution from dumping of chemicals and detergents; air pollution, particu
 _party to_: Air Pollution, Antarctic-Environmental Protection, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Climate Change-Paris Agreement, Environmental Modification<br>
 
-**Air pollutants**<br>
-_particulate matter emissions_: 41.97 micrograms per cubic meter (2016 est.)<br>
-_carbon dioxide emissions_: 372.72 megatons (2016 est.)<br>
-_methane emissions_: 57.53 megatons (2020 est.)<br>
-
 **Climate**<br>
 temperate; hot, dry summers with mild, wet winters; harsher in interior<br>
 
@@ -274,6 +269,11 @@ _rate of urbanization_: 1.11% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
 0.05% of GDP (2018 est.)<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 41.97 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 372.72 megatons (2016 est.)<br>
+_methane emissions_: 57.53 megatons (2020 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 31.283 million tons (2015 est.)<br>
