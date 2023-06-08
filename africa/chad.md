@@ -683,7 +683,7 @@ Chadian National Army (Armee Nationale du Tchad, ANT): Land Forces (l'Armee de T
 limited and varied information; estimated to have up to 35,000 active ANT personnel (25-30,000 Ground Forces; 300 Air Force; approximately 5,000 GDSSIE); approximately 5,000 National Gendarmerie; approximately 3,000 Nomadic Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ANT is mostly armed with older or secondhand equipment from Belgium, France, Russia, and the former Soviet Union; in recent years it has received equipment, including donations, from other countries, including China, Italy, Ukraine, and the US &nbsp;&nbsp; (2022)<br>
+the ANT is mostly armed with older or secondhand equipment from Belgium, France, Russia, and the former Soviet Union; in recent years it has received equipment, including donations, from other countries, including China, Turkey, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 20 is the legal minimum age for compulsory military service for men with an 18-36 month service obligation (information varies); women are subject to 12 months of compulsory military or civic service at age 21; 18-35 for voluntary service; soldiers released from active duty are in the reserves until the age of 50 (2023)<br>
@@ -707,7 +707,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 490,986 (Sudan) (includes refugees since 15 April 2023), 125,423 (Central African Republic), 28,256 (Cameroon), 20,951 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 490,986 (Sudan) (includes refugees since 15 April 2023), 126,252 (Central African Republic), 28,256 (Cameroon), 20,951 (Nigeria) (2023)<br>
 _IDPs_: 381,289 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>

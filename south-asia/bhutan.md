@@ -326,7 +326,7 @@ _subordinate courts_: High Court (first appellate court); District or Dzongkhag 
 ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IMF, Interpol, IOC, IOM (observer), IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Doma TSHERING (since 13 September 2017)<br>note - also the Permanent Representative to the UN<br>
+_chief of mission_: Ambassador (vacant); Chargé d'Affaires Phuntsho NORBU (since October 2022) <br>note - also the Deputy Permanent Representative to the UN<br>
 _telephone_: [1] (212) 682-2268<br>
 _FAX_: [1] (212) 661-0551<br>
 _email address and website_: email - consulate.pmbny@mfa.gov.bt<br>web address - https://www.mfa.gov.bt/pmbny/<br>

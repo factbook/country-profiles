@@ -340,7 +340,7 @@ Seychelles Party for Social Justice and Democracy or SPSJD [Vesna RAKIC]<br>Seyc
 ACP, AfDB, AOSIS, AU, C, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Ian MADELEINE (since 1 December 2021)<br>
+_chief of mission_: Ambassador Ian Dereck Joseph MADELEINE (since 1 December 2021)<br>note - also Permanent Representative to the UN<br>
 _chancery_: 685 Third Avenue, Suite 1107, 11th Floor, New York, NY 10017<br>
 _telephone_: [1] (212) 972-1785<br>
 _FAX_: [1] (212) 972-1786<br>

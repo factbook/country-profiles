@@ -718,7 +718,7 @@ Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: 
 approximately 260,000 total active troops (200,000 Army; 45,000 Navy, including about 20,000 marines; 14,000 Air Force); approximately 180,000 National Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a wide mix of equipment from a variety of suppliers, including Canada, Europe, Israel, South Korea, and the US; Colombia's defense industry is active in producing air, land, and naval platforms (2022)<br>
+the military's inventory includes a wide mix of equipment from a variety of suppliers, including Canada, Europe, Israel, South Korea, and the US; the US has been the top provider in recent years; Colombia's defense industry is active in producing air, land, and naval platforms (2023)<br>
 
 **Military service age and obligation**<br>
 18-24 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 18 months; conscripted soldiers reportedly include regular soldiers (conscripts without a high school degree), drafted high school graduates (bachilleres), and rural (campesino) soldiers who serve in their home regions (2023)<br>

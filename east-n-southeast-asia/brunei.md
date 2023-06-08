@@ -656,7 +656,7 @@ Royal Brunei Armed Forces: Land Force, Navy, Air Force, Joint Force; Ministry of
 approximately 6,000 total active troops (4,000 Army; 1,000 Navy; 1,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's s inventory includes equipment and weapons systems from a wide variety of suppliers from Asia, Europe, and the US (2022)<br>
+the military's s inventory includes equipment and weapons systems from a wide variety of suppliers from Asia, Europe, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service; non-Malays are ineligible to serve (2022)<br>

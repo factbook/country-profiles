@@ -304,7 +304,7 @@ _etymology_: the medieval name was spelt "Aslo"; the <em>as</em> component refer
 Bouvet Island, Jan Mayen, Svalbard<br>
 
 **Independence**<br>
-7 June 1905 (declared the union with Sweden dissolved); 26 October 1905 (Sweden agreed to the repeal of the union); notable earlier dates: ca. 872 (traditional unification of petty Norwegian kingdoms by HARALD Fairhair); 1397 (Kalmar Union of Denmark, Norway, and Sweden); 1524 (Denmark-Norway); 17 May 1814 (Norwegian constitution adopted); 4 November 1814 (Sweden-Norway union confirmed)<br>
+7 June 1905 (union with Sweden declared dissolved); 26 October 1905 (Sweden agreed to the repeal of the union); notable earlier dates: ca. 872 (traditional unification of petty Norwegian kingdoms by HARALD Fairhair); 1397 (Kalmar Union of Denmark, Norway, and Sweden); 1524 (Denmark-Norway); 17 May 1814 (Norwegian constitution adopted); 4 November 1814 (Sweden-Norway union confirmed)<br>
 
 **National holiday**<br>
 Constitution Day, 17 May (1814)<br>

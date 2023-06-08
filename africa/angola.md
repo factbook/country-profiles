@@ -363,7 +363,7 @@ Broad Convergence for the Salvation of Angola Electoral Coalition or CASA-CE [Ma
 ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OPEC, SADC, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Joaquim do Espirito SANTO (since 16 September 2019)<br>
+_chief of mission_: Appointed Ambassador Agostinho de Carvalho dos Santos VAN-D&Uacute;NEM (since 2 June 2023)<br>
 _chancery_: 2100-2108 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 785-1156<br>
 _FAX_: [1] (202) 822-9049<br>

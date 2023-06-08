@@ -335,7 +335,7 @@ FijiFirst [Veroqe "Frank" BAINIMARAMA]<br>Fiji Labor Party or FLP [Mahendra CHAU
 ACP, ADB, AOSIS, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OPCW, PCA, PIF, Sparteca (suspended), SPC, UN, UNCTAD, UNDOF, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Akuila VUIRA<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Aporosa BABAKOBUA<br>
 _chancery_: 1707 L Street NW, Suite 200, Washington, DC 20036<br>
 _telephone_: [1] (202) 466-8320<br>
 _FAX_: [1] (202) 466-8325<br>

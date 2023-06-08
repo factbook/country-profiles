@@ -693,7 +693,7 @@ Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chi
 approximately 70,000 active armed forces personnel (40,000 Army; 20,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Chilean military inventory is comprised of a wide mix of mostly Western equipment and some domestically produced systems; in recent years, it has received military hardware from a variety of countries, with Germany and the US as the leading suppliers; Chile's defense industry has capabilities in military aircraft, ships, and vehicles (2022)<br>
+the Chilean military inventory is comprised of a wide mix of mostly Western equipment and some domestically produced systems; in recent years, it has received military hardware from a variety of countries, including Australia, the UK, and the US; Chile's defense industry has capabilities in military aircraft, ships, and vehicles (2023)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for voluntary male and female military service; selective compulsory service (there are usually enough volunteers to make compulsory service unnecessary); service obligation is a minimum of 12 months for Army and 22 months for Navy and Air Force (2023)<br>

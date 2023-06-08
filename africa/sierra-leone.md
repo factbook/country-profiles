@@ -341,8 +341,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Julius Maada BIO (since 4 April 2018); Vice President Mohamed Juldeh JALLOH (since 4 April 2018) ; note - the president is both chief of state, head of government, and minister of defense<br>
 _head of government_: President Julius Maada BIO (since 4 April 2018); Vice President Mohamed Juldeh JALLOH (since 4 April 2018)<br>
 _cabinet_: Ministers of State appointed by the president, approved by Parliament; the cabinet is responsible to the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 4 April 2018&nbsp;(next to be in 2023) (2018)<br>
-_election results_: Julius Maada BIO elected president in second round; percent of vote - Julius Maada BIO (SLPP) 51.8%, Samura KAMARA (APC) 48.2%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 4 April 2018&nbsp;(next to be in 2023)<br>
+_election results_: <p><em>2018: </em>Julius Maada BIO elected president in second round; percent of vote - Julius Maada BIO (SLPP) 51.8%, Samura KAMARA (APC) 48.2%<br><br><em>2012: </em>Ernest Bai KOROMA reelected president; percent of vote - Ernest Bai KOROMA (APC) 58.7%, Julius Maada BIO (SLPP) 37.4%, other 3.9%</p> <p> </p><br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (146 seats; 132 members directly elected in single-seat constituencies by simple majority vote and 14 seats filled in separate elections by non-partisan members of Parliament called "paramount chiefs;" members serve 5-year terms)<br>

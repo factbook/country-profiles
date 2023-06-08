@@ -357,7 +357,7 @@ _chief of state_: President Lazarus CHAKWERA (since 28 June 2020); Vice Presiden
 _head of government_: President Lazarus CHAKWERA (since 28 June 2020); Vice President Saulos CHILIMA (since 3 February 2020)<br>
 _cabinet_: Cabinet named by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 23 June 2020 (next to be held in 2025)<br>
-_election results_: Lazarus CHAKWERA elected president; Lazarus CHAKWERA (MCP) 59.3%, Peter Mutharika (DPP) 39.9%, other 0.8% (2020)<br>
+_election results_: <p><em>2020: </em>Lazarus CHAKWERA elected president; Lazarus CHAKWERA (MCP) 59.3%, Peter Mutharika (DPP) 39.9%, other 0.8%</p> <p><em>2014:</em> Peter MUTHARIKA elected president; percent of vote - Peter MUTHARIKA (DPP) 36.4%, Lazarus CHAKWERA (MCP) 27.8%, Joyce BANDA (PP) 20.2%, Atupele MULUZI (UDF) 13.7%, other 1.9% </p><br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (193 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>

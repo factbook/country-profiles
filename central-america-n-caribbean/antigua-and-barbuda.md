@@ -613,7 +613,7 @@ Antigua and Barbuda Defense Force (ABDF): Coast Guard and the Antigua and Barbud
 approximately 200 active military personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ABDF's equipment inventory is limited to small arms, light weapons, and soft-skin vehicles; the Coast Guard maintains ex-US patrol vessels and some smaller boats (2022)<br>
+the ABDF's equipment inventory is limited to small arms, light weapons, and soft-skin vehicles; the Coast Guard maintains ex-US patrol vessels and some smaller boats (2023)<br>
 
 **Military service age and obligation**<br>
 18-23 years of age for voluntary military service for both men and women; no conscription (2022)<br>

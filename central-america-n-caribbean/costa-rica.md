@@ -692,7 +692,7 @@ no regular military forces; Ministry of Public Security: the Public Force (Fuerz
 12,500 Public Force personnel; approximately 500-600 Air, 500-600 Coast Guard, and 300-400 Border Police personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Public Force is lightly armed with an inventory that includes mostly secondhand US equipment (2023)<br>
+the Public Force is lightly armed with an inventory that includes mostly older, secondhand US equipment (2023)<br>
 
 **Military - note**<br>
 Costa Rica relies on specialized paramilitary units within the Ministry of Public Security (MPS) for internal security missions and countering transnational threats such as narcotics smuggling and organized crime, as well as for participating in regional security operations and exercises; MPS forces have received advisory and training support from both Colombia and the US; since 2012, the US has also provided some military equipment, including aircraft and patrol boats (2022)<br>

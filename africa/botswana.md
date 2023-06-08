@@ -344,10 +344,10 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Mokgweetse Eric MASISI (since 1 April 2018); Vice President Slumber TSOGWANE (since 4 April 2018); note - the president is both chief of state and head of government<br>
-_head of government_: President Mokgweetse Eric MASISI (since 1 April 2018); Vice President Slumber TSOGWANE (since 4 April 2018);&nbsp;<br>
+_head of government_: President Mokgweetse Eric MASISI (since 1 April 2018); Vice President Slumber TSOGWANE (since 4 April 2018);<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 23 October 2019 (next to be held in 2024 October); vice president appointed by the president<br>
-_election results_: President Seretse Khama Ian KHAMA (since 1 April 2008) stepped down on 1 April 2018 having completed the constitutionally mandated 10-year term limit; upon his retirement, then Vice President MASISI became president; national elections held on 23 October 2019 gave MASISI'S BPD 38 seats in the National Assembly which then selected MASISI as President (2019)<br>
+_election results_: <br><em>2019:</em> President Seretse Khama Ian KHAMA, who had served as president since 1 April 2008, stepped down on 1 April 2018 having completed the constitutionally mandated 10-year term limit; upon his retirement, then Vice President MASISI became president; national elections held on 23 October 2019 gave MASISI'S BPD 38 seats in the National Assembly which then selected MASISI as President<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament consists of the National Assembly (63 seats; 57 members directly elected in single-seat constituencies by simple majority vote,&nbsp;4 nominated by the president and indirectly elected by simple majority vote by the rest of the National Assembly, and 2 ex-officio members - the president and attorney general; elected members serve 5-year terms); note - the House of Chiefs (Ntlo ya Dikgosi), an advisory body to the National Assembly, consists of 35 members - 8 hereditary chiefs from Botswana's principal tribes, 22 indirectly elected by the chiefs, and 5 appointed by the president; the House of Chiefs consults on issues including powers of chiefs, customary courts, customary law, tribal property, and constitutional amendments<br>

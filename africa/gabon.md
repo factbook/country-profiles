@@ -331,16 +331,16 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Ali BONGO Ondimba (since 16 October 2009)<br><br>Vice President Rose Christiane Ossouka RAPONDA (since 9 January 2023)<br>
+_chief of state_: President Ali BONGO Ondimba (since 16 October 2009); Vice President Rose Christiane Ossouka RAPONDA (since 9 January 2023)<br>
 _head of government_: Prime Minister Alain Claude BILIE-BY-NZE (since 9 January 2023)<br>
 _cabinet_: Council of Ministers appointed by the prime minister in consultation with the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (no term limits); election last held on 27 August 2016 (next to be held in August 2023); prime minister appointed by the president<br>
-_election results_: Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0% (2016)<br>
+_election results_: <p><em>2016: </em>Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br><br><em>2009: </em>Ali BONGO Ondimba elected president; percent of vote - Ali BONGO Ondimba (PDG) 41.7%, Andre MBA OBAME (independent) 25.9%, Pierre MAMBOUNDOU (UPG) 25.2%, Zacharie MYBOTO (UGDD) 3.9%, other 3.3%</p> <p> </p><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (102 seats; members indirectly elected by municipal councils and departmental assemblies by absolute majority vote in 2 rounds if needed; members serve 6-year terms)<br>National Assembly or Assemblee Nationale (143 seats; members elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 30 January and 6 February 2021 (next to be held in December 2026)<br>National Assembly - held in 2 rounds on 6 and 27 October 2018 (next to be held in 2023)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PDG 81, CLR 7, PSD 2, ADERE-UPG 1, UPG 1, PGCI 1, independent 7; composition - NA<br>National Assembly - percent of vote by party - NA; seats by party - PDG 98, The Democrats or LD 11, RV 8, Social Democrats of Gabon 5, RH&amp;M 4, other 9, independent 8; composition - men 121, women 22, percent of women 15.4%; note - total Parliament percent of women NA<br>
+_elections_: <p>Senate - last held on 30 January and 6 February 2021 (next to be held in December 2026)<br>National Assembly - held in 2 rounds on 6 and 27 October 2018 (next to be held in 2023)</p> <p> </p><br>
+_election results_: <p>Senate - percent of vote by party - NA; seats by party - PDG 81, CLR 7, PSD 2, ADERE-UPG 1, UPG 1, PGCI 1, independent 7; composition - NA<br><br>National Assembly - percent of vote by party - NA; seats by party - PDG 98, The Democrats or LD 11, RV 8, Social Democrats of Gabon 5, RH&amp;M 4, other 9, independent 8; composition - men 121, women 22, percent of women 15.4%; note - total Parliament percent of women NA</p> <p> </p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 4 permanent specialized supreme courts - Supreme Court or Cour de Cassation, Administrative Supreme Court or Conseil d'Etat, Accounting Supreme Court or Cour des Comptes, Constitutional Court or Cour Constitutionnelle, and the non-permanent Court of State Security, initiated only for cases of high treason by the president and criminal activity by executive branch officials)<br>

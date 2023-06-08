@@ -677,7 +677,7 @@ Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includ
 information varies; approximately 8,000 FACA troops; up to 2,000 Gendarmerie; approximately 2,000 Mixed Special Security Units (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FACA is lightly armed; most of the military's heavy weapons and equipment were destroyed or captured during the 2012–2014 civil war; prior to the war, most of its equipment was of French, Russian, or Soviet origin; in recent years, it has received small amounts of secondhand equipment from China, Russia, and Ukraine (2022)<br>
+the FACA is lightly armed; most of the military's heavy weapons and equipment were destroyed or captured during the 2012–2014 civil war; prior to the war, most of its equipment was of French, Russian, or Soviet origin; in recent years, it has received small amounts of secondhand equipment from China and Russia (2023)<br>
 <strong>note:</strong> since 2013, CAR has been under a UNSC arms embargo; the embargo bans all supplies of arms and related materiel to the country except to the CAR security forces if approved in advance by the relevant UN Sanctions Committee<br>
 
 **Military service age and obligation**<br>

@@ -703,7 +703,7 @@ Royal Cambodian Armed Forces (RCAF): Royal Cambodian Army, Royal Khmer Navy, Roy
 information varies; approximately 100,000 total active troops including less than 5,000 Navy and Air Force personnel; approximately 10,000 Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RCAF is armed largely with older Chinese and Russian-origin equipment; in recent years it has received limited amounts of more modern equipment from a variety of suppliers, particularly China (2022)<br>
+the RCAF is armed largely with older Chinese and Russian-origin equipment; in recent years it has received limited amounts of more modern equipment from a variety of suppliers, particularly China (2023)<br>
 <strong>note: </strong>in December 2021, the US Government halted arms-related trade with Cambodia, citing deepening Chinese military influence, corruption, and human rights abuses by the government and armed forces; the policy of denial applied to licenses or other approvals for exports and imports of defense articles and defense services destined for or originating in Cambodia, with exceptions (on a case-by-case basis) related to conventional weapons destruction and humanitarian demining activities<br>
 
 **Military service age and obligation**<br>

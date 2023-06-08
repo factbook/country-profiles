@@ -676,7 +676,7 @@ _river port(s)_: Bosanska Gradiska, Bosanski Brod, Bosanski Samac, Brcko, Orasje
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegovine, OSBiH): Operations Command (includes Army, Air, and Air Defense units), Support Command (2022)<br>
+Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegovine, OSBiH): Army, Air, Air Defense forces organized into an Operations Command and a Support Command (2023)<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2022 est.)<br>
@@ -686,17 +686,17 @@ Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegov
 0.9% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 9,000 active duty personnel (2022)<br>
+approximately 10,000 active-duty personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a wide mix of secondhand equipment mostly of French, Soviet, or US origin (2023)<br>
+the military's inventory is largely Soviet-era material with a smaller mix of mostly secondhand from other countries, particularly the US (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; mandatory retirement at age 35 or after 15 years of service for junior enlisted personnel, mandatory retirement at age 50 and 30 years of service for non-commissioned officers, mandatory retirement at age 55 and 30 years of service for all commissioned officers; conscription abolished in 2005 (2021)<br>
 <strong>note:</strong> as of 2021, women made up about 7% of the military's full-time personnel<br>
 
 **Military - note**<br>
-<p>the Armed Forces of Bosnia and Herzegovina (AFBiH) are comprised of the former Bosnian-Croat Army of the Federation of Bosnia and Herzegovina (Vojska Federacije Bosne i Hercegovin, VF) and the Bosnian-Serb Republic of Serbia Army (Vojska Republike Srpske, VRS); the two forces were unified under the 2006 Law on Defense, which also established the country’s Ministry of Defense<br><br>the European Union Force Bosnia and Herzegovina (EUFOR) has operated in the country to oversee implementation of the Dayton/Paris Agreement since taking over from NATO's Stabilization Force (SFOR) in 2004; it has about about 1,100 troops from 22 countries</p> <p>Bosnia and Herzegovina joined NATO’s Partnership for Peace (PfP) program in 2007 and was invited to join NATO’s Membership Action Plan in 2010; NATO maintains a military headquarters in Sarajevo with the mission of assisting Bosnia and Herzegovina with the PfP program and promoting closer integration with NATO, as well as providing logistics and other support to EUFOR</p> <p> </p> (2023)<br>
+the Armed Forces of Bosnia and Herzegovina (AFBiH) are comprised of the former Bosnian-Croat Army of the Federation of Bosnia and Herzegovina (Vojska Federacije Bosne i Hercegovin, VF) and the Bosnian-Serb Republic of Serbia Army (Vojska Republike Srpske, VRS); the two forces were unified under the 2006 Law on Defense, which also established the country’s Ministry of Defense<br><br>the European Union Force Bosnia and Herzegovina (EUFOR) has operated in the country to oversee implementation of the Dayton/Paris Agreement since taking over from NATO's Stabilization Force (SFOR) in 2004; it has about about 1,100 troops from 22 countries<br><br>Bosnia and Herzegovina joined NATO’s Partnership for Peace (PfP) program in 2007 and was invited to join NATO’s Membership Action Plan in 2010; NATO maintains a military headquarters in Sarajevo with the mission of assisting Bosnia and Herzegovina with the PfP program and promoting closer integration with NATO, as well as providing logistics and other support to EUFOR (2023)<br>
 
 ## Terrorism
 

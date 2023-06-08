@@ -348,7 +348,7 @@ _chief of state_: President Patrice TALON (since 6 April 2016); note - the presi
 _head of government_: President Patrice TALON (since 6 April 2016); prime minister position abolished<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 11 April 2021 (next to be held in April 2026)<br>
-_election results_: Patrice TALON elected to a second term; percent of vote - Patrice TALON (independent) 86.4%, Alassane SOUMANOU (FCBE) 11.3%, other 2.3% (2021)<br>
+_election results_: <p><em>2021:</em> Patrice TALON elected to a second term; percent of vote - Patrice TALON (independent) 86.4%, Alassane SOUMANOU (FCBE) 11.3%, other 2.3%</p> <p><em>2016:</em> Patrice TALON elected president in second round; percent of vote in first round - Lionel ZINSOU (FCBE) 28.4%, Patrice TALON (independent) 24.8%, Sebastien AJAVON (independent) 23.%, Abdoulaye Bio TCHANE (ABT) 8.8%, Pascal KOUPAKI (NC) 5.9%, other 9.1%; percent of vote in second round - Patrice TALON 65.4%, Lionel ZINSOU 34.6% </p> (2021)<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (109 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)<br>
@@ -368,7 +368,7 @@ African Movement for Development and Progress or MADEP [Sefou FAGBOHOUN]<br>Beni
 ACP, AfDB, AU, CD, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Jean Claude Felix DO REGO (since 17 July 2020)<br>
+_chief of mission_: Ambassador Jean-Claude Felix DO REGO (since 17 July 2020)<br>
 _chancery_: 2124 Kalorama Road NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 232-6656; [1] (202) 232-2611<br>
 _FAX_: [1] (202) 265-1996<br>

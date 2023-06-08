@@ -357,15 +357,15 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Macky SALL (since 2 April 2012)<br>
-_head of government_: Prime Minister Amadou BA (since 17 September 2022)<br><br>
+_head of government_: Prime Minister Amadou BA (since 17 September 2022)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term; election last held on 24 February 2019 (next to be held in February 2024)<br>
-_election results_: Macky SALL elected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5% (2019)<br>
+_election results_: <p><em>2019:</em> Macky SALL elected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5%</p> <p><em>2012:</em> Macky SALL elected president in second round; percent of vote - Macky SALL (APR) 65.8%, Abdoulaye WADE (PDS) 34.2% </p><br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or <em>Assemblée</em> Nationale (165 seats; 112 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 53 members directly elected by proportional representation vote in a single nationwide constituency; member term is 5-years)<br>
-_elections_: National Assembly - last held on 31 July 2022 (next to be held in July 2027) (2022)<br>
-_election results_: National Assembly results - percent of vote by party/coalition - BBY 46.6%, YAW 32.9%, WS 14.5%, other 6%;&nbsp; seats by party/coalition - BBY 82, YAW 56, WS 24, other 3; composition - men 95, women 70, percent of women 42.4% (2022)<br>
+_elections_: National Assembly - last held on 31 July 2022 (next to be held in July 2027)<br>
+_election results_: National Assembly results - percent of vote by party/coalition - BBY 46.6%, YAW 32.9%, WS 14.5%, other 6%;&nbsp; seats by party/coalition - BBY 82, YAW 56, WS 24, other 3; composition - men 95, women 70, percent of women 42.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of the court president and 12 judges and organized into civil and commercial, criminal, administrative, and social chambers); Constitutional Council or Conseil Constitutionel (consists of 7 members, including the court president, vice president, and 5 judges)<br>

@@ -686,7 +686,7 @@ Republic of Cyprus: Cypriot National Guard (Ethniki Froura, EF; includes Army La
 approximately 13,000 total active duty personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of Soviet-era and some more modern weapons systems from several countries, including France, Israel, Russia, and Serbia&nbsp; (2022)<br>
+the military's inventory is a mix of Soviet-era and some more modern weapons systems from several countries, including France, Israel, Russia, and Serbia (2023)<br>
 
 **Military service age and obligation**<br>
 Cypriot National Guard (CNG): 18-50 years of age for compulsory military service for all Greek Cypriot males; 17 years of age for voluntary service; 14-month service obligation (2023)<br>
@@ -710,7 +710,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 _refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 18,281 (Ukraine) (as of 14 May 2023)<br>
 _IDPs_: 242,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2021)<br>
 _stateless persons_: 74 (2022)<br>
-<strong>note:</strong> 51,202 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
+<strong>note:</strong> 51,987 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
 
 **Illicit drugs**<br>
 <p>vulnerable to money laundering from illegal drugs</p> <p> </p><br>

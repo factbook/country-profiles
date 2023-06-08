@@ -336,8 +336,8 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Rumen RADEV (since 22 January 2017); Vice President Iliana IOTOVA (since 22 January 2017)<br>
-_head of government_: Interim Prime Minister Galab DONEV (since 2 August 2022)<br>
+_chief of state_: President President Rumen RADEV (since 22 January 2017); Vice President Iliana IOTOVA (since 22 January 2017)<br>
+_head of government_: Prime Minister Nikolay DENKOV (since 6 June 2023)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
 _elections/appointments_: president and vice president elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 and 21 November 2021 (next to be held in fall 2026); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly<br>
 _election results_: <em>2021</em>: Rumen RADEV reelected president in second round; percent of vote in the first round - Rumen RADEV (independent) 49.4%, Anastas GERDZHIKOV (independent) 22.8%, Mustafa KARADAYI (DPS) 11.6%, Kostadin KOSTADINOV (Revival) 3.9%, Lozan PANOV (independent) 3.7%, other 8.6%; percent of vote in the second round - Rumen RADEV 66.7%, Anastas GERDZHIKOV 31.8%, neither 1.5%<br><br><em>2016: </em>Rumen RADEV elected president in second round; percent of vote in the second round - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br><br><em>2011:</em> Rosen PLEVNELIEV elected president in the second round; percent of vote in the second round - Rosen PLEVNELIEV (independent) 52.6%, Ivailo KALFIN (BSP) 47.4%<br>
@@ -686,7 +686,8 @@ _major seaport(s)_: Burgas, Varna (Black Sea)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bulgarian Armed Forces: Land Forces (Army), Naval Forces, Bulgarian Air Forces (Voennovazdushni Sili, VVS), Joint Special Forces; Ministry of Interior: Border Guards (2022)<br>
+Bulgarian Armed Forces (aka Bulgarian Army): Land Forces, Air Force, Navy; Ministry of Interior: General Directorate National Police (GDNP), General Directorate Border Police (GDBP), General Directorate for Combating Organized Crime (GDCOC), Fire Safety and Civil Protection General Directorate, Special Unit for Combating Terrorism (SOBT) (2023)<br>
+<strong>note:</strong> the GDMP includes the Gendarmerie, a special police force with military status deployed to secure important facilities, buildings and infrastructure, to respond to riots, and to counter militant threats<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2022 est.)<br>
@@ -696,10 +697,11 @@ Bulgarian Armed Forces: Land Forces (Army), Naval Forces, Bulgarian Air Forces (
 1.5% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 28,000 active duty personnel (17,000 Army; 4,000 Navy; 7,000 Air Force) (2022)<br>
+approximately 28,000 active-duty personnel (17,000 Army; 4,000 Navy; 7,000 Air Force) (2022)<br>
+<strong>note:</strong> in 2021, Bulgaria released a 10-year defense plan which called for an active military strength of 43,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists primarily of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern weapons systems from some Western countries (2022)<br>
+the military's inventory consists primarily of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern weapons systems from some Western countries (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2022)<br>

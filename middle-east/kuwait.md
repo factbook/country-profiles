@@ -335,8 +335,8 @@ _elections/appointments_: amir chosen from within the ruling family, confirmed b
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&nbsp;appointed by the amir; members serve 4-year terms)<br>
-_elections_: last held on 29 September 2022 (next to be held on 6 June 2023, due to dissolution by royal decree on 1 May)<br>
-_election results_: 50 nonpartisans elected, of which 28 were opposition candidates: composition - men 48, women 2, percent of women 4%<br>
+_elections_: snap election held on 6 June 2023 (next to be held in 2027)<br>
+_election results_: NA<br>
 <strong>Note</strong>: on 17 April 2023, Crown Prince Mishal al-AHMAD al-Sabah dissolved the National Assembly, which had been reinstated in March at the direction of the Constitutional Court, following its annulment of the September 2022 election; the Assembly was formally dissolved by royal decree on 1 May 2023, and a new election scheduled for 6 June<br>
 
 **Judicial branch**<br>
@@ -351,7 +351,7 @@ none; the government does not recognize any political parties or allow their for
 ABEDA, AfDB (nonregional member), AFESD, AMF, BDEAC, CAEU, CD, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, Paris Club (associate), PCA, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador AZZAIN al-Sabah (since 30 April 2023)<br>
+_chief of mission_: Ambassador AL-ZAIN Al-Sabah (since 19 April 2023)<br>
 _chancery_: 2940 Tilden Street NW, Washington, DC 20008 (po)<br>
 _telephone_: [1] (202) 966-0702<br>
 _FAX_: [1] (202) 966-8468<br>

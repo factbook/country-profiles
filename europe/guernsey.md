@@ -238,7 +238,7 @@ see United Kingdom<br>
 16 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Lieutenant-Governor Vice Admiral Ian CORDER (since 14 March 2016)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Lieutenant-Governor Richard CRIPWELL (since 15 February 2022)<br>
 _head of government_: Chief Minister Peter FERBRACHE (since 16 October 2020); Bailiff Richard McMAHON (since 11 May 2020); note - the chief minister is the president of the Policy and Resources Committee and is the de facto head of government; the Policy and Resources Committee, elected by the States of Deliberation, functions as the executive; the 5 members all have equal voting rights<br>
 _cabinet_: none<br>
 _elections/appointments_: the monarchy is hereditary; lieutenant governor and bailiff appointed by the monarch; chief minister, who is the president of the Policy and Resources Committee indirectly elected by the States of Deliberation for a 4-year term; last held on 7 October 2020 (next to be held in 2024)<br>

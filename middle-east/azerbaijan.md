@@ -677,7 +677,7 @@ _major seaport(s)_: Baku (Baki) located on the Caspian Sea<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Azerbaijan Armed Forces: Land Forces (Combined Arms Army), Air Forces, Navy Forces; Ministry of Internal Affairs: Internal Troops, local police forces; State Border Service; Special State Protection Service (SSPS): National Guard (2023)<br>
+Azerbaijan Armed Forces: Land Forces, Air Forces, Navy Forces, State Border Service, Coast Guard; Ministry of Internal Affairs: Internal Troops, local police forces; Special State Protection Service (SSPS): National Guard (2023)<br>
 <strong>note:</strong> the Ministry of Internal Affairs and the State Security Service (intelligence, counterterrorism) are responsible for internal security; the SSPS is under the president and provides protective services to senior officials, foreign missions, significant state assets, government buildings, etc; the National Guard also serves as a reserve for the Army<br>
 
 **Military expenditures**<br>
@@ -688,14 +688,14 @@ Azerbaijan Armed Forces: Land Forces (Combined Arms Army), Air Forces, Navy Forc
 3.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 65,000 active armed forces (55,000 Army; 2,000 Navy; 8,000 Air Force); approximately 15,000 Ministry of Internal Affairs troops (2022)<br>
+estimates vary; up to 95,000 active armed forces (85,000 Army; 2,000 Navy; 8,000 Air Force); approximately 15,000 Ministry of Internal Affairs troops (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised mostly of Russian and Soviet-era weapons systems with a small mix of equipment from other countries, including Israel and Turkey (2023)<br>
+Baku has been actively upgrading its equipment for over a decade with purchases from Belarus, Israel, Russia, and Turkey; while most of the military's equipment was once Soviet-era material, it now fields quantities of advanced equipment, including armored vehicles, artillery systems, air defense systems, tanks, and UAVs (2023)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for compulsory military service for men; 17-35 years of age for voluntary service for men and women (2023)<br>
-<strong>note:</strong> as of 2018, women made up an estimated 3% of the active duty military<br>
+18-25 years of age for compulsory military service for men; 17-35 years of age for voluntary service for men and women; 18 months service for conscripts (2023)<br>
+<strong>note:</strong> most of the military is made up of professional contract soldiers; as of 2018, women made up an estimated 3% of the active duty military<br>
 
 **Military - note**<br>
 since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,500 deaths and ended after Armenia ceded swaths of Nagorno-Karabakh territory; tensions remained high in 2022, and both sides have accused the other of provocations since the fighting ended; Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory (2023)<br>

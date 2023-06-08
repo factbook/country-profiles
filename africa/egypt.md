@@ -721,7 +721,7 @@ Egyptian Armed Forces (EAF): Army (includes Republican Guard), Navy (includes Co
 information varies; approximately 450,000 active duty personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the EAF's inventory is comprised of a mix of domestically produced, imported Soviet-era, and more modern, particularly Western, weapons systems; in recent years, the EAF has embarked on an extensive equipment modernization program with significant purchases from foreign suppliers; in recent years, major suppliers have included France, Russia, and the US; Egypt has an established defense industry that produces a range of products from small arms to armored vehicles and naval vessels; it also has licensed and co-production agreements with several countries, including the US (2022)<br>
+the EAF's inventory is comprised of a mix of domestically produced, Soviet-era, and more modern, particularly Western, weapons systems; in recent years, the EAF has embarked on an extensive equipment modernization program with significant purchases from foreign suppliers; major suppliers have included France, Germany, Italy, Russia, and the US; Egypt has an established defense industry that produces a range of products from small arms to armored vehicles and naval vessels; it also has licensed and co-production agreements with several countries, including the US (2023)<br>
 
 **Military service age and obligation**<br>
 voluntary enlistment possible from age 16 for men and women; 18-30 years of age for conscript service for men; service obligation 14-36 months, followed by a 9-year reserve obligation; active service length depends on education; high school drop-outs serve for the full 36 months, while college graduates serve for lesser periods of time, depending on their education (2023)<br>
@@ -748,7 +748,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); 
 <p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 145,157 (Syria), 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 164,000 (Sudan) (refugees since 15 April 2023) (2023)<br>
+_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 164,000 (Sudan) (refugees since 15 April 2023), 147,401 (Syria), (2023)<br>
 _stateless persons_: 10 (2022)<br>
 
 **Illicit drugs**<br>

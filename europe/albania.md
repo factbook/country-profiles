@@ -363,7 +363,7 @@ BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, 
 <strong>note</strong>: Albania is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Floreta LULI-FABER (since 18 May 2015)<br>
+_chief of mission_: Ambassador Floreta FABER (since 18 May 2015)<br>
 _chancery_: 2100 S Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 223-4942<br>
 _FAX_: [1] (202) 628-7342<br>

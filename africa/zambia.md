@@ -359,7 +359,7 @@ _chief of state_: President Hakainde HICHILEMA (since 24 August 2021); Vice Pres
 _head of government_: President Hakainde HICHILEMA (since 24 August 2021); Vice President Mutale NALUMANGO (since 24 August 2021)<br>
 _cabinet_: Cabinet appointed by president from among members of the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 12 August 2021 (next to be held in 2026)<br>
-_election results_: <em><br>2021</em>: Hakainde HICHILEMA elected president; percent of the vote -   Hakainde HICHILEMA (UPND) 57.9%, Edgar LUNGU (PF) 37.3%, other 4.8%<br><br><em>2016</em>: Edgar LUNGU re-elected president; percent of vote - Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2%<br>
+_election results_: <p><em>2021</em>: Hakainde HICHILEMA elected president; percent of the vote -   Hakainde HICHILEMA (UPND) 57.9%, Edgar LUNGU (PF) 37.3%, other 4.8%<br><br><em>2016</em>: Edgar LUNGU re-elected president; percent of vote - Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2%</p> <p> </p><br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (167 seats statutory, 166 seats current; 156 members directly elected in single-seat constituencies by simple majority vote in 2 rounds if needed, and up to 8 appointed by the president; members serve 5-year terms); 3 ex-officio members elected by National Assembly membership<br>

@@ -660,7 +660,7 @@ Djibouti Armed Forces (Force Armée Djiboutienne or FAD): Army, Navy, Air Force;
 approximately 10,000 active troops (8,000 Army; 250 Naval; 250 Air; 1,500 Gendarmerie) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAD's inventory includes mostly older French and Soviet-era weapons systems, although in recent years it has received limited amounts of mostly secondhand equipment from a variety of other countries, including China and the US&nbsp; (2022)<br>
+the FAD's inventory includes mostly older French and Soviet-era weapons systems, although in recent years it has received limited amounts of more modern, but largely secondhand equipment from a variety of other countries, including China, the Netherlands, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; 16-25 years of age for voluntary military training; no conscription (2021)<br>

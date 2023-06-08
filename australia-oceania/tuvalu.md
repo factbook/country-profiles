@@ -320,7 +320,7 @@ there are no political parties, but members of parliament usually align themselv
 ACP, ADB, AOSIS, C, FAO, IBRD, IDA, IFAD, IFRCS (observer), ILO, IMF, IMO, IOC, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Samuelu LALONIU (since 21 July 2017)<br>note - also Permanent Representative to UN<br>
+_chief of mission_: Ambassador (vacant)<br>note - also Permanent Representative to UN; Tapugao FALEFOU presented his credentials to the Secretary General of the UN on 30 December 2022, but has not presented his credentials for Ambassador to the US as of 1 June 2023<br>
 _telephone_: [1] (212) 490-0534<br>
 _FAX_: [1] (212) 808-4975<br>
 _email address and website_: email - tuvalumission.un@gmail.com<br>web address - https://www.un.int/tuvalu/about<br>

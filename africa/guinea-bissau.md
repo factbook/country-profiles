@@ -335,9 +335,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Umaro Sissoco EMBALO elected president in second round; percent of vote in first round - Domingos Simoes PEREIRA (PAIGC) 40.1%, Umaro Sissoco EMBALO (Madem G15) 27.7%, Nuno Gomez NABIAM (APU-PDGB) 13.2%, Jose Mario VAZ (independent) 12.4%, other 6.6%; percent of vote in second round - Umaro Sissoco EMBALO 53.6%, Domingos Simoes PEREIRA 46.5% (2019)<br>
 
 **Legislative branch**<br>
-_description_: unicameral National People's Assembly or Assembleia Nacional Popular (102 seats; 100 members directly elected in 27 multi-seat constituencies by closed party-list proportional representation vote and 2 elected in single-seat constituencies for citizens living abroad (Africa 1, Europe 1 ); all members serve 4-year terms)<br>
-_elections_: note: President dissolved parliament on 16 May 2022 and decreed new elections for 18 December 2022<br>  <br>last held on 10 March 2019 (next to be held in March 2023)<br>
-_election results_: percent of vote by party - PAIGC 35.2%, Madem G-15 21.1%, PRS 21.1%, other 22.6%; seats by party - PAIGC 47, Madem G-15 27, PRS 21, other 7; composition - men 88, women 14, percent of women 13.7%<br>
+_description_: unicameral National People's Assembly or Assembleia Nacional Popular (102 seats; 100 members directly elected in 27 multi-seat constituencies by closed party-list proportional representation vote and 2 elected in single-seat constituencies for citizens living abroad (Africa 1, Europe 1); all members serve 4-year terms)<br>
+_elections_: note: president dissolved the parliament on 16 May 2022; election held 4 June 2023<br>
+_election results_: percent of vote by party - PAIGC 35.2%, Madem G-15 21.1%, PRS 21.1%, other 22.6%; seats by party - PAIGC 47, Madem G-15 27, PRS- 21, other 7; composition - men 88, women 14, percent of women 13.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Supremo Tribunal de Justica (consists of 9 judges and organized into Civil, Criminal, and Social and Administrative Disputes Chambers); note - the Supreme Court has both appellate and constitutional jurisdiction<br>

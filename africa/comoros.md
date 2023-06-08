@@ -635,7 +635,7 @@ National Army for Development (l'Armee Nationale de Developpement, AND): Comoran
 estimated 600 Defense Force personnel; estimated 500 Federal Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the defense forces are lightly armed with a mix of mostly older equipment from a variety of countries, including France, Italy, Russia, and the US (2022)<br>
+the defense forces are lightly armed with a mix of mostly older equipment originating from several countries, including France, Italy, Russia, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for 2-year voluntary military service for men and women; no conscription (2021)<br>

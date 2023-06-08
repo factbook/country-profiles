@@ -683,7 +683,7 @@ Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary
 limited available information; estimated 50,000 active personnel (approximately 40,000 Army; 3,000 Navy; 8,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised of aging Russian and Soviet-era equipment (2022)<br>
+the military's inventory is comprised of aging Russian and Soviet-era equipment (2023)<br>
 
 **Military service age and obligation**<br>
 17-28 years of age for compulsory (men) and voluntary (men and women) military service; conscripts serve for 24 months (2023)<br>

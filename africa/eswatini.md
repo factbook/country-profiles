@@ -334,8 +334,8 @@ _elections/appointments_: the monarchy is hereditary; prime minister appointed b
 
 **Legislative branch**<br>
 _description_: bicameral Parliament (Libandla) consists of:<br> Senate (30 seats; 20 members appointed by the monarch and 10 indirectly elected by simple majority vote by the House of Assembly; members serve 5-year terms)<br>House of Assembly (70 seats statutory, current 74; 59 members directly elected in single-seat constituencies or tinkhundla by absolute majority vote in 2 rounds if needed, 10 members appointed by the monarch, 4 women elected by the members if representation of elected women is less than 30%, and 1 ex-officio member - the attorney general; members serve 5-year terms)<br>
-_elections_: Senate - last held on 23 October 2018 (next to be held - 31 October 2023)<br>House of Assembly - last held on 21 September 2018 (next to be held in 2023)<br>
-_election results_: Senate - percent of seats by party - NA; seats by party - NA; composition - men 18, women 12, percent of women 40% <br>House of Assembly - percent of vote by party - NA; seats by party - independent 59; composition - men 65, women 9, percent of women 12.2%; note - total Parliament percent of women 20.2%<br>
+_elections_: <p>Senate - last held on 23 October 2018 (next to be held - 31 October 2023)<br>House of Assembly - last held on 21 September 2018 (next to be held in 2023)</p> <p> </p><br>
+_election results_: <p>Senate - percent of seats by party - NA; seats by party - NA; composition - men 18, women 12, percent of women 40% <br><br>House of Assembly - percent of vote by party - NA; seats by party - independent 59; composition - men 65, women 9, percent of women 12.2%; note - total Parliament percent of women 20.2%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and at least 4 justices) and the High Court (consists of the chief justice - ex officio - and 4 justices); note - the Supreme Court has jurisdiction in all constitutional matters<br>

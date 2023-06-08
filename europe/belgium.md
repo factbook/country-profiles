@@ -679,7 +679,8 @@ Brussels (Senne River) Liege (Meuse River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, Medical Service (2023)<br>
+Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, Medical Component (2023)<br>
+<strong>note: </strong>the Belgian Federal Police is the national police force and responsible for internal security and nationwide law and order, including migration and border enforcement; the force reports to the ministers of interior and justice <br>
 
 **Military expenditures**<br>
 1.2% of GDP (2022 est.)<br>
@@ -689,7 +690,7 @@ Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, M
 0.9% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active duty personnel (10,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Service; 7,000 other, including joint staff, support, and training schools) (2022)<br>
+approximately 25,000 active-duty personnel (10,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Component; 7,000 other, including joint staff, support, and training schools) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the armed forces have a mix of weapons systems from European countries, Israel, and the US; Belgium has an export-focused defense industry that focuses on components and subcontracting (2023)<br>
@@ -699,11 +700,11 @@ the armed forces have a mix of weapons systems from European countries, Israel, 
 <strong>note 1:</strong> in 2020, women comprised about 9% of the military's full-time personnel<br><br><strong>note 2:</strong> foreign nationals 18-34 years of age who speak Dutch or French and are citizens of EU countries, Iceland, Lichtenstein, Norway, and Switzerland may apply to join the military<br>
 
 **Military deployments**<br>
-125 France (contributing member of EuroCorps); 250 Romania (NATO) (2022)<br>
+125 France (EuroCorps); 325 Eastern Europe (NATO); 100 Middle East; 325 Niger  (2023)<br>
 <strong>note:</strong> in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Belgium, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Belgium hosts the NATO headquarters in Brussels<br><br>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries<br> <p>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020</p> (2023)<br>
+Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Belgium hosts the NATO headquarters in Brussels<br><br>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries; in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020 (2023)<br>
 
 ## Terrorism
 

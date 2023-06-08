@@ -634,7 +634,7 @@ _major seaport(s)_: Berbera, Kismaayo<br>
 
 **Military and security forces**<br>
 Ministry of Defense: Somali National Army (SNA); Ministry of Internal Security: Somali National Police (SNP, includes a maritime unit and a Turkish-trained commando unit known as Harmacad, or Cheetah); National Security and Intelligence Agency (includes a commando/counterterrorism unit) (2023)<br>
-<strong>note 1:</strong> Somalia has numerous militia and regional forces operating throughout the country; these forces include ones that are clan- and warlord-based, semi-official paramilitary and special police forces (aka darwish), and externally-sponsored militias; the SNA is attempting to incorporate some of these militia units<br><br><strong>note 2: </strong>Somaliland has army and naval forces under the Somaliland Ministry of Defense and Armed Forces<br>
+<strong>note 1:</strong> Somalia has numerous militia (aka "macawisley") and regional forces operating throughout the country; these forces include ones that are clan- and warlord-based, semi-official paramilitary and special police forces (aka "darwish"), and externally-sponsored militias; the SNA is attempting to incorporate some of these militia units<br><br><strong>note 2: </strong>Somaliland has army and naval forces under the Somaliland Ministry of Defense and Armed Forces<br>
 
 **Military expenditures**<br>
 6% of GDP (2021 est.)<br>

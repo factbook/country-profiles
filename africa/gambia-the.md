@@ -347,7 +347,7 @@ _chief of state_: President Adama BARROW (since 19 January 2022); Vice President
 _head of government_: President Adama BARROW (since 19 January 2022); Vice President Isatou TOURAY (since 15 March 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 4 December 2021 (next to be held in 2026); vice president appointed by the president<br>
-_election results_: Adama BARROW reelected president; percent of vote - Adama BARROW (National People's Party) 53.2%, Ousainou DARBOE (United Democratic Party) 27.7%, Mamma KANDEH (GDC)12.3%, Halifa SALLAH (PDOIS) 3.8%, Essa M. FAAL (Independent) 2%, Abdoulie Ebrima JAMMEH (NUP) 1% (2021)<br>
+_election results_: <p><em>2021: </em>Adama BARROW reelected president; percent of vote - Adama BARROW (National People's Party) 53.2%, Ousainou DARBOE (United Democratic Party) 27.7%, Mamma KANDEH (GDC)12.3%, Halifa SALLAH (PDOIS) 3.8%, Essa M. FAAL (Independent) 2%, Abdoulie Ebrima JAMMEH (NUP) 1%<br><br><em>2016: </em>Adama BARROW elected president; percent of vote - Adama BARROW (Coalition 2016) 43.3%, Yahya JAMMEH (APRC) 39.6%, Mamma KANDEH (GDC) 17.1% </p><br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (58 seats; 53 members directly elected in single-seat constituencies by simple majority vote and 5 appointed by the president; members serve 5-year terms)<br>

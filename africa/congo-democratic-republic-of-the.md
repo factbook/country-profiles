@@ -369,12 +369,12 @@ _chief of state_: President Felix TSHISEKEDI (since 24 January 2019)<br>
 _head of government_: Prime Minister Anatole Collinet MAKOSSO (since 12 May 2021); Deputy Prime Ministers Jose MAKILA, Leonard She OKITUNDU, Henri MOVA Sankanyi (since February 2018)<br>
 _cabinet_: Ministers of State appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority vote for a 5-year term (eligible for a second term); election last held on 30 December 2018 (next to be held in December 2023); prime minister appointed by the president<br>
-_election results_: <em>2018:</em> Felix TSHISEKEDI elected president; percent of vote - Felix TSHISEKEDI (UDPS) 38.6%, Martin FAYULU (Lamuka coalition) 34.8%, Emmanuel Ramazani SHADARY (PPRD) 23.9%, other 2.7%; note - election marred by serious voting irregularities (2018)<br>
+_election results_: <p><em>2018:</em> Felix TSHISEKEDI elected president; percent of vote - Felix TSHISEKEDI (UDPS) 38.6%, Martin FAYULU (Lamuka coalition) 34.8%, Emmanuel Ramazani SHADARY (PPRD) 23.9%, other 2.7%; note - election marred by serious voting irregularities<br><br><em>2011:</em> Joseph KABILA reelected president; percent of vote - Joseph KABILA (PPRD) 49%, Etienne TSHISEKEDI (UDPS) 32.3%, other 18.7%; note - election marred by serious voting irregularities </p><br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate (109 seats; 109 members to include 108 indirectly elected by provincial assemblies by proportional representation vote to serve 5-year terms and a former president, appointed for life)<br><br>National Assembly (500 seats; 439 members directly elected in multi-seat constituencies by proportional representation vote and 61 directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
-_elections_: Senate - last held on 14 March 2019<br>National Assembly - last held on 30 December 2018 (first round), with a second round on 31 March 2019<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PPRD 22, MLC 14, FR 7, RCD 7, PDC 6, CDC 3, MSR 3, PALU 2, other 18, independent 26; composition as of 2022 - men 83, women 26, percent of women 23.9%<br>National Assembly - percent of vote by party - NA; seats by party - PPRD 62, UDPS 41, PPPD 29, MSR 27, MLC 22, PALU 19, UNC 17, ARC 16, AFDC 15, ECT 11, RRC 11, other 214 (includes numerous political parties that won 10 or fewer seats and 2 constituencies where voting was halted), independent 16; composition as of 2022 - men 436, women 64, percent of women 12.8%; total Parliament percent of women 14.8%<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate (109 seats; 109 members to include 108 indirectly elected by provincial assemblies by proportional representation vote to serve 5-year terms and a former president, appointed for life)<br><br>National Assembly (500 seats; 439 members directly elected in multi-seat constituencies by proportional representation vote and 61 directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms) <p> </p><br>
+_elections_: <p>Senate - last held on 14 March 2019<br>National Assembly - last held on 30 December 2018 (first round), with a second round on 31 March 2019</p> <p> </p><br>
+_election results_: <p>Senate - percent of vote by party - NA; seats by party - PPRD 22, MLC 14, FR 7, RCD 7, PDC 6, CDC 3, MSR 3, PALU 2, other 18, independent 26; composition as of 2022 - men 83, women 26, percent of women 23.9%<br><br>National Assembly - percent of vote by party - NA; seats by party - PPRD 62, UDPS 41, PPPD 29, MSR 27, MLC 22, PALU 19, UNC 17, ARC 16, AFDC 15, ECT 11, RRC 11, other 214 (includes numerous political parties that won 10 or fewer seats and 2 constituencies where voting was halted), independent 16; composition as of 2022 - men 436, women 64, percent of women 12.8%; total Parliament percent of women 14.8%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation or Cour de Cassation (consists of 26 justices and organized into legislative and judiciary sections); Constitutional Court (consists of 9 judges)<br>
@@ -725,7 +725,7 @@ Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Repu
 limited and widely varied information; approximately 100,000 active troops (mostly Army, but includes several thousand Navy and Air Force personnel, as well as about 10,000 Republican Guard; note -&nbsp; Navy personnel includes naval infantry) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FARDC is equipped mostly with Soviet-era weapons systems and equipment (2022)<br>
+the FARDC is equipped mostly with Soviet-era weapons systems and equipment (2023)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for voluntary military service for men and women; 18-45 years of age for compulsory military service for men; it is unclear how much conscription is used (2023)<br>

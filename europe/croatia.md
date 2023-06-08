@@ -689,7 +689,8 @@ _river port(s)_: Vukovar (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH): Ground Forces (Hrvatska Kopnena Vojska, HKoV), Naval Forces (Hrvatska Ratna Mornarica, HRM; includes Coast Guard), Air Force and Air Defense Forces; Military Police Force (2022)<br>
+Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH): Ground Forces (Hrvatska Kopnena Vojska, HKoV), Naval Forces (Hrvatska Ratna Mornarica, HRM; includes Coast Guard), Air Force and Air Defense Forces; Military Police Force (2023)<br>
+<strong>note:</strong> the Ministry of the Interior is responsible for internal security, including law enforcement (Croatia Police) and border security<br>
 
 **Military expenditures**<br>
 1.9% of GDP (2022 est.)<br>
@@ -699,10 +700,10 @@ Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH)
 1.6% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 15,000 active duty personnel (10,000 Army; 1,500 Navy; 1,500 Air force; 2,000 joint/other) (2022)<br>
+approximately 15,000 active-duty personnel (10,000 Army; 1,500 Navy; 1,500 Air force; 2,000 joint/other) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the majority of the military's inventory consists of Soviet-era equipment, although in recent years Croatia has acquired some limited numbers of more modern weapon systems from Western suppliers, including Finland, Germany, and the US&nbsp; (2022)<br>
+the majority of the military's inventory consists of Soviet-era equipment, although in recent years Croatia has acquired some limited numbers of more modern weapon systems from Western suppliers, including France, Germany, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for voluntary military service; conscription abolished in 2008 (2022)<br>

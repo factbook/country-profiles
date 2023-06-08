@@ -368,7 +368,7 @@ Alyans (Alliance) [Mirlan JEENCHOROEV]<br>Ata-Jurt Kyrgyzstan (Homeland) or AJK 
 ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PCA, PFP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Baktybek AMANBAYEV (since 7 July 2021)<br>
+_chief of mission_: Ambassador Baktybek AMANBAEV (since 7 July 2021)<br>
 _chancery_: 2360 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 449-9822<br>
 _FAX_: [1] (202) 449-8275<br>

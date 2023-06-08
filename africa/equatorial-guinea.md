@@ -187,7 +187,7 @@ _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 27 March 2023, the Centers for Disease Control and Prevention (CDC) issued a Travel Alert for Equatorial Guinea for an outbreak of Marburg virus disease; Marburg is a viral hemorrhagic fever spread by contact with blood or body fluids of a person infected with or who has died from Marburg; it is also spread by contact with contaminated objects (such as clothing, bedding, needles, and medical equipment) or by contact with animals, such as bats and nonhuman primates, who are infected with Marburg virus; infection with Marburg virus is often fatal and there are no approved vaccines or treatments for Marburg; avoid non-essential travel to the provinces where the outbreak is occurring; watch your health for symptoms of Marburg while in the outbreak area and for 21 days after leaving the outbreak area; consult the Centers for Disease Control and Prevention (CDC) Travel Health Notices for additional guidance (see attached map)<br>
+<strong>note: </strong>on 27 March 2023, the Centers for Disease Control and Prevention (CDC) issued a Travel Alert for Equatorial Guinea for an outbreak of Marburg virus disease; Marburg is a viral hemorrhagic fever spread by contact with blood or body fluids of a person infected with or who has died from Marburg; it is also spread by contact with contaminated objects (such as clothing, bedding, needles, and medical equipment) or by contact with animals, such as bats and nonhuman primates, who are infected with Marburg virus; infection with Marburg virus is often fatal and there are no approved vaccines or treatments for Marburg; avoid non-essential travel to mainland Equatorial Guinea; watch your health for symptoms of Marburg while in the outbreak area and for 21 days after leaving the outbreak area; consult the Centers for Disease Control and Prevention (CDC) Travel Health Notices for additional guidance (see attached map)<br>
 
 **Obesity - adult prevalence rate**<br>
 8% (2016)<br>
@@ -313,14 +313,14 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Brig. Gen. (Ret.) Teodoro OBIANG Nguema Mbasogo (since 3 August 1979 when he seized power in a military coup); Vice President Teodoro Nguema OBIANG Mangue (since 2012)<br>
+_chief of state_: President Brig. Gen. (Ret.) Teodoro OBIANG Nguema Mbasogo (since 3 August 1979 when he seized power in a military coup); First Vice President Teodoro Nguema OBIANG Mangue (since 20 November 2022)<br>
 _head of government_: Prime Minister Manuela ROKA Botey (since 1 February 2023); First Deputy Prime Minister Clemente Engonga NGUEMA Onguene (since 23 June 2016); Second Deputy Prime Minister Angel MESIE Mibuy (since 5 February 2018); Third Deputy Prime Minister Alfonso Nsue MOKUY (since 23 June 2016)<br>
 _cabinet_: Council of Ministers appointed by the president and overseen by the prime minister<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 20 November 2022 (next to be held in 2029); prime minister and deputy prime ministers appointed by the president<br>
-_election results_: Teodoro OBIANG Nguema Mbasogo reelected president; percent of vote - Teodoro OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5% (2016)<br>
+_election results_: Teodoro OBIANG Nguema Mbasogo reelected president; percent of vote - Teodoro OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5%<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly or Asemblea Nacional consists of:<br>Senate or Senado (70 seats statutory, 72 seats for current term; 55 members directly elected in multi-seat constituencies by closed party-list proportional representation vote, 15 appointed by the president, and 2 ex-officio)<br>Chamber of Deputies or Camara de los Diputados (100 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 5-year terms)<br>
+_description_: bicameral National Assembly or Asemblea Nacional consists of:<br>Senate or Senado (70 seats statutory, 72 seats for current term; 55 members directly elected in multi-seat constituencies by closed party-list proportional representation vote, 15 appointed by the president, and 2 ex-officio)<br><br>Chamber of Deputies or Camara de los Diputados (100 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 5-year terms)<br>
 _elections_: Senate - last held on 19 January 2023 (next to be held in 2028)<br>Chamber of Deputies - last held on 19 January 2023 (next to be held in 2028)<br>
 _election results_: Senate - percent of vote by party - NA; elected seats by party - PDGE 55; composition (including 2 ex-officio and 15 appointed) - men 58, women 16, percent of women 21.6%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - PDGE 100; composition - men 69, women 31, percent of women 31%; note - total National Assembly percent of women 22%<br>
 
@@ -638,7 +638,7 @@ Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equ
 approximately 1,500 active duty troops; approximately 500 Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAGE is armed with mostly older (typically Soviet-era) and second-hand weapons systems; in recent years, it has sought to modernize its naval inventory with purchases of vessels from several countries, including Bulgaria and Israel (2022)<br>
+the FAGE is armed with mostly older (typically Soviet-era) and second-hand weapons systems; in recent years, it has sought to modernize its naval inventory with purchases of vessels from several countries, including Bulgaria and Israel; China and Russia have also supplied small amounts of equipment to the FAGE (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for selective compulsory military service, although conscription is rare in practice; 24-month service obligation (2023)<br>

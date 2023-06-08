@@ -685,6 +685,7 @@ _river port(s)_: Mazyr (Prypyats')<br>
 
 **Military and security forces**<br>
 Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force, Special Troops (electronic warfare, signals, engineers, biological/chemical/nuclear protection troops, etc); Ministry of Interior: State Border Troops, Militia, Internal Troops (2023)<br>
+<strong>note:</strong> in early 2023, President LUKASHENKO ordered the formation of a new volunteer paramilitary territorial defense force to supplement the Army<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2022 est.)<br>

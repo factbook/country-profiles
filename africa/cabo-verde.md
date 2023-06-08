@@ -320,14 +320,13 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Jose Maria NEVES (since 9 November 2021)<br>
 _head of government_: Prime Minister Ulisses CORREIA E. SILVA (since 22 April 2016)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 17 October 2021 (next to be held in October 2026); prime minister nominated by the National Assembly and appointed by the president (2021)<br>
-_election results_: <em>election results: 2020: </em>Jose Maria NEVES elected president; percent of vote - Jose Maria NEVES (PAICV) 51.7%, Carlos VEIGA (MPD) 42.4%, Casimiro DE PINA (Independent) 1.8%, Fernando Rocha DELGADO (Independent) 1.4%, Helio SANCHES (independent) 1.14%, Gilson ALVES (independent) 0.8%, Joaquim MONTEIRO (independent) 3.4%<br><br><em>election results: 2015: </em>Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74.1%, Albertino GRACA (independent) 22.5%, other 3% (2021)<br>
-African Party for the Independence of Cape Verde (APICV)<br>Movement for Democracy (MFD)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 17 October 2021 (next to be held in October 2026); prime minister nominated by the National Assembly and appointed by the president<br>
+_election results_: <p><em>2020: </em>Jose Maria NEVES elected president; percent of vote - Jose Maria NEVES (PAICV) 51.7%, Carlos VEIGA (MPD) 42.4%, Casimiro DE PINA (Independent) 1.8%, Fernando Rocha DELGADO (Independent) 1.4%, Helio SANCHES (independent) 1.14%, Gilson ALVES (independent) 0.8%, Joaquim MONTEIRO (independent) 3.4%<br><br><em>2015: </em>Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74.1%, Albertino GRACA (independent) 22.5%, other 3%</p><br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (72 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 18 April 2021 (next to be held in April 2026) (2021)<br>
-_election results_: percent of vote by party MPD 50.2%, PAICV 39.6%, UCID 9.0%; seats by party - MPD 38, PAICV 30, UCID 4; composition - men 44, women 28, percent of women 37.5% (2021)<br>
+_elections_: last held on 18 April 2021 (next to be held in April 2026)<br>
+_election results_: percent of vote by party MPD 50.2%, PAICV 39.6%, UCID 9.0%; seats by party - MPD 38, PAICV 30, UCID 4; composition - men 44, women 28, percent of women 37.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the chief justice and at least 7 judges and organized into civil, criminal, and administrative sections)<br>
@@ -651,7 +650,7 @@ Cabo Verdean Armed Forces (FACV): Army (also called the National Guard, GN; incl
 approximately 1,200 personnel including about 100 in the Coast Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FACV has a limited amount of mostly dated and second-hand equipment, largely from China, some European countries, and the former Soviet Union (2022)<br>
+the FACV has a limited amount of mostly dated and second-hand equipment, largely from China, some European countries, and the former Soviet Union (2023)<br>
 
 **Military service age and obligation**<br>
 18-35 years of age for male and female selective compulsory military service; 24-month conscript service obligation; 17 years of age for voluntary service (with parental consent) (2023)<br>

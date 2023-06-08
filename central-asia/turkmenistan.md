@@ -354,7 +354,7 @@ _election results_: <em>2022:</em> Serdar BERDIMUHAMEDOW elected president; perc
 **Legislative branch**<br>
 _description_: unicameral Assembly or Mejlis (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms); formerly the Assembly was the lower house of the bicameral National Council or Milli Genes, which consisted of an upper house, the People's Council or Halk Maslahaty, and the Assembly or Mejlis<br>
 _elections_: Mejlis (Assembly) - last held on 26 March 2023 for the Mejlis and local councils<br>
-_election results_: percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition as of early as of April 2023 men 93, women 32, percent of women 25.6%&nbsp;<br>
+_election results_: percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition as of early as of April 2023 men 93, women 32, percent of women 25.6%<br>
 <strong>note:</strong> on 22 January 2023, a joint session of the then bicameral National Council or Milli Genes voted unanimously to abolish itself, re-establishing a unicameral legislature and a separate People's Council or Halk Maslahaty<br>
 
 **Judicial branch**<br>

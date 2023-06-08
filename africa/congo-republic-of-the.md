@@ -358,15 +358,15 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Denis SASSOU-Nguesso (since 25 October 1997)<br>
-_head of government_: Prime Minister Clement MOUAMBA (since 24 April 2016); note - a constitutional referendum held in 2015 approved the change of the head of government from the president to the prime minister (2019)<br>
+_head of government_: Prime Minister Clement MOUAMBA (since 24 April 2016); note - a constitutional referendum held in 2015 approved the change of the head of government from the president to the prime minister<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 additional terms); election last held on 21 March 2021 (next to be held on 21 March 2026)<br>
-_election results_: Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 88.4%, Guy Price Parfait KOLELAS (MCDDI) 8.0%, other 3.6%&nbsp; (2021)<br>
+_election results_: <p><em>2021: </em>Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 88.4%, Guy Price Parfait KOLELAS (MCDDI) 8.0%, other 3.6%</p> <p><em>2016: </em>Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 60.4%, Guy Price Parfait KOLELAS (MCDDI) 15.1%, Jean-Marie MOKOKO (independent) 13.9%, Pascal Tsaty MABIALA (UPADS) 4.4%, other 6.2% </p><br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parliament consists of:<br>Senate (72 seats; members indirectly elected by local, district, and regional councils by simple majority vote to serve 6-year terms) note- the Senate is renewed in its entirety following a constitutional reform implemented in 2015 ending the renewal by half<br>National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms) (2022)<br>
-_elections_: <strong> </strong><br>Senate - last held on 31 August 2017 (next to be held in 2023)<br>National Assembly - last held on 10 and 31 July 2022 (next to be held in July 2027) (2022)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PCT 46, independent 12, MAR 2, RDPS 2, UPADS 2, DRD 1, FP 1, MCDDI 1, PRL 1, Pulp 1, PUR 1, RC 1; composition - men 58, women 14, percent of women 19.4%<br><br>National Assembly - percent of vote by party - NA; seats by party - PCT 112, UPADS 7, UDH-YUKI 7, MAR 4, RLP 2, CLUB 2002 2, DRR 2, RDPS 2, PAC 1, MSD 1, MDP 1, CPR 1, PPRD 1, CR 1, MCDDI 1, independent 6; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9%<br><br>National Assembly - percent of vote by party - NA; seats by party - PCT 96, UPADS 8, MCDDI 4, other 23 (less than 4 seats) independent 20; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9% (2022)<br>
+_description_: bicameral Parliament or Parliament consists of:<br>Senate (72 seats; members indirectly elected by local, district, and regional councils by simple majority vote to serve 6-year terms) note- the Senate is renewed in its entirety following a constitutional reform implemented in 2015 ending the renewal by half<br>National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms)<br>
+_elections_: <strong> </strong><br>Senate - last held on 31 August 2017 (next to be held in 2023)<br>National Assembly - last held on 10 and 31 July 2022 (next to be held in July 2027)<br>
+_election results_: <p>Senate - percent of vote by party - NA; seats by party - PCT 46, independent 12, MAR 2, RDPS 2, UPADS 2, DRD 1, FP 1, MCDDI 1, PRL 1, Pulp 1, PUR 1, RC 1; composition - men 58, women 14, percent of women 19.4%<br><br>National Assembly - percent of vote by party - NA; seats by party - PCT 112, UPADS 7, UDH-YUKI 7, MAR 4, RLP 2, CLUB 2002 2, DRR 2, RDPS 2, PAC 1, MSD 1, MDP 1, CPR 1, PPRD 1, CR 1, MCDDI 1, independent 6; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9%<br><br><br></p> <p> </p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 members); note - a High Court of Justice, outside the judicial authority, tries cases involving treason by the president of the republic<br>
@@ -713,7 +713,7 @@ Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese A
 approximately 12,000 active duty troops (8,000 Army; 800 Navy; 1,000 Air Force; 2,000 Gendarmerie) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAC has mostly Soviet-era armaments, with a smaller mix of French and South African equipment&nbsp; (2022)<br>
+the FAC has mostly Soviet-era armaments, with a small mix of French and South African equipment (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; conscription ended in 1969 (2021)<br>

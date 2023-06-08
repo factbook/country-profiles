@@ -386,7 +386,7 @@ A Just Russia or SRZP [Sergey MIRONOV]<br>Civic Platform or CP [Rifat SHAYKHUTDI
 APEC, Arctic Council, ARF, ASEAN (dialogue partner), BIS, BRICS, BSEC, CBSS, CD, CE, CERN (observer), CICA, CIS, CSTO, EAEC, EAEU, EAPC, EAS, EBRD, FAO, FATF, G-20, GCTU, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OIC (observer), OPCW, OSCE, Paris Club, PCA, PFP, SCO, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UN Security Council (permanent), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Anatoliy Ivanovich ANTONOV (since 8 September 2017)<br>
+_chief of mission_: Ambassador Anatoly Ivanovich ANTONOV (since 8 September 2017)<br>
 _chancery_: 2650 Wisconsin Avenue NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 298-5700<br>
 _FAX_: [1] (202) 298-5735<br>
