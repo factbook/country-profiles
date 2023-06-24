@@ -357,7 +357,7 @@ BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committe
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Catalina CRESPO SANCHO (since 19 April 2023)<br>
 _chancery_: 2114 S Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 499-2984<br>
+_telephone_: [1] (202) 499-2980<br>
 _FAX_: [1] (202) 265-4795<br>
 _email address and website_: <br>embcr-us@rree.go.cr<br><br>http://www.costarica-embassy.org/index.php?q=node/21<br>
 _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New York, Washington DC<br>
@@ -707,5 +707,5 @@ _refugees (country of origin)_: 29,906 (Venezuela) (economic and political crisi
 _stateless persons_: 192 (2022)<br>
 
 **Illicit drugs**<br>
-<p>significant transit country for drugs entering the United States; a growing drug consumption problem; drugs warehoused in Costa Rica end up in the local market where criminal organizations use cocaine as payment for services. </p> <p> </p><br>
+<br><br> <p>Costa Rica remains a significant transshipment point for cocaine enroute to the United States from South America; a key transit point in international narcotics trafficking; transit and warehousing hub for illicit drug trafficking; growing domestic drug consumption problem; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
 

@@ -337,12 +337,12 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: King CHARLES III (since 8 September 2022); Heir Apparent Prince WILLIAM (son of the king, born 21 June 1982); note - CHARLES succeeded his mother, Queen ELIZABETH II, after serving as Prince of Wales (heir apparent) for over 64 years - the longest such tenure in British history<br>
 _head of government_: Prime Minister Rishi SUNAK (Conservative) (since 25 October 2022)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister; election last held on 12 December 2019 (next to be held by 2 May 2024)<br>
+_elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister; election last held on 12 December 2019 (next to be held no later than 28 January 2025)<br>
 <strong>note:</strong> in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 14 additional Commonwealth countries (these 15 states are each referred to as a Commonwealth realm)<br><br><br><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>House of Lords (membership not fixed; as of October 2021, 787 lords were eligible to participate in the work of the House of Lords - 673 life peers, 88 hereditary peers, and 26 clergy; members are appointed by the monarch on the advice of the prime minister and non-party political members recommended by the House of Lords Appointments Commission); note - House of Lords total does not include ineligible members or members on leave of absence<br>House of Commons (650 seats; members directly elected in single-seat constituencies by simple majority popular vote to serve 5-year terms unless the House is dissolved earlier)<br>
-_elections_: <br>House of Lords - no elections; note - in 1999, as provided by the House of Lords Act, elections were held in the House of Lords to determine the 92 hereditary peers who would remain; elections held only as vacancies in the hereditary peerage arise)<br>House of Commons - last held on 12 December 2019 (next to be held by 2 May 2024)<br>
+_elections_: <br>House of Lords - no elections; note - in 1999, as provided by the House of Lords Act, elections were held in the House of Lords to determine the 92 hereditary peers who would remain; elections held only as vacancies in the hereditary peerage arise)<br>House of Commons - last held on 12 December 2019 (next to be held no later than 28 January 2025)<br>
 _election results_: <br>House of Lords - composition - men 554, women 222, percent of women 28.6%<br>House of Commons - percent of vote by party - Conservative 54.9%, Labor 30.8%, SNP 6.8%, Lib Dems 2.2%, DUP 1.2%, Sinn Fein 1.1%, Plaid Cymru .6%, other 2.5%; seats by party - Conservative 365, Labor 202, SNP 48, Lib Dems 11, DUP 8, Sinn Fein 7, Plaid Cymru 4, other 5; composition - men 425, women 225, percent of women 34.6%; total Parliament percent of women 31.3%<br>
 
 **Judicial branch**<br>
@@ -351,7 +351,7 @@ _judge selection and term of office_: judge candidates selected by an independen
 _subordinate courts_: England and Wales: Court of Appeal (civil and criminal divisions); High Court; Crown Court; County Courts; Magistrates' Courts; Scotland: Court of Sessions; Sheriff Courts; High Court of Justiciary; tribunals; Northern Ireland: Court of Appeal in Northern Ireland; High Court; county courts; magistrates' courts; specialized tribunals<br>
 
 **Political parties and leaders**<br>
-Alliance Party (Northern Ireland) [Naomi LONG] <br>Conservative and Unionist Party [Rishi SUNAK]<br>Democratic Unionist Party or DUP (Northern Ireland) [Jeffrey DONALDSON]<br>Green Party of England and Wales or Greens [Carla DENYER and Adrian RAMSAY]<br>Labor (Labour) Party [Sir Keir STARMER]<br>Liberal Democrats (Lib Dems) [Sir Ed DAVEY]<br>Party of Wales (Plaid Cymru)<br>Scottish National Party or SNP [Humza YUSAF]<br>Sinn Fein (Northern Ireland) [Mary Lou MCDONALD]<br>Social Democratic and Labor Party or SDLP (Northern Ireland) [Colum EASTWOOD]<br>UK Independence Party or UKIP [Neil HAMILTON]<br>Ulster Unionist Party or UUP (Northern Ireland) [Doug BEATTIE]<br>
+Alliance Party (Northern Ireland) [Naomi LONG] <br>Conservative and Unionist Party [Rishi SUNAK]<br>Democratic Unionist Party or DUP (Northern Ireland) [Sir Jeffrey DONALDSON]<br>Green Party of England and Wales or Greens [Carla DENYER and Adrian RAMSAY]<br>Labor (Labour) Party [Sir Keir STARMER]<br>Liberal Democrats (Lib Dems) [Sir Ed DAVEY]<br>Party of Wales (Plaid Cymru) [Llyr GRUFFYDD]<br>Scottish National Party or SNP [Humza YOUSAF]<br>Sinn Fein (Northern Ireland) [Mary Lou MCDONALD]<br>Social Democratic and Labor Party or SDLP (Northern Ireland) [Colum EASTWOOD]<br>UK Independence Party or UKIP [Neil HAMILTON]<br>Ulster Unionist Party or UUP (Northern Ireland) [Doug BEATTIE]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, C, CBSS (observer), CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNMISS, UNRWA, UN Security Council (permanent), UNSOM, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -361,7 +361,7 @@ _chief of mission_: Ambassador Karen Elizabeth PIERCE (since 8 April 2020)<br>
 _chancery_: 3100 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 588-6500<br>
 _FAX_: [1] (202) 588-7870<br>
-_email address and website_: britishembassyenquiries@gmail.com<br>https://www.gov.uk/world/organisations/british-embassy-washington<br>
+_email address and website_: <br>britishembassyenquiries@gmail.com<br><br>https://www.gov.uk/world/organisations/british-embassy-washington<br>
 _consulate(s) general_: Atlanta, Boston, Chicago, Denver, Houston, Los Angeles, Miami, New York, San Francisco<br>
 _consulate(s)_: Orlando (FL), San Juan (Puerto Rico)<br>
 
@@ -564,6 +564,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 15% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 9 (2023)<br>
+_Number of nuclear reactors under construction_: 2<br>
+_Net capacity of operational nuclear reactors_: 5.88GW (2023)<br>
+_Percent of total electricity production_: 14.8% (2021)<br>
+_Percent of total energy produced_: 8% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 8<br>
+
 **Coal**<br>
 _production_: 2.892 million metric tons (2020 est.)<br>
 _consumption_: 9.401 million metric tons (2020 est.)<br>
@@ -733,5 +741,5 @@ _refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan),
 _stateless persons_: 5,483 (2022)<br>
 
 **Illicit drugs**<br>
-<p>consumer and transit country for illicit drugs; cocaine and heroin consumption rates among Europe’s highest; criminal organizations engage in domestic drug trafficking and financial crimes; drug use remains linked to serious violence; major source of precursor chemicals used in the production of illicit narcotics</p><br>
+<p>a major consumer and transshipment point, though not a source, for illicit drugs; among the highest consumer of heroin and cocaine in Europe; one of the largest markets for cannabis; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
 

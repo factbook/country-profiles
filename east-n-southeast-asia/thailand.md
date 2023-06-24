@@ -378,7 +378,7 @@ _chief of mission_: Ambassador Tanee SANGRAT (since 12 December 2022)<br>
 _chancery_: 1024 Wisconsin Avenue NW, Suite 401, Washington, DC 20007<br>
 _telephone_: [1] (202) 944-3600<br>
 _FAX_: [1] (202) 944-3611<br>
-_email address and website_: <br>https://thaiembdc.org<br>
+_email address and website_: <br>thai.wsn@thaiembdc.org<br><br>https://thaiembdc.org<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -738,5 +738,5 @@ _stateless persons_: 566,900 (2022) (estimate represents stateless persons regis
 <strong>note:</strong> Thai nationality was granted to more than 23,000 stateless persons between 2012 and 2016 and more than 18,000 between 2018 and 2021; in 2016, the Government of Thailand approved changes to its citizenship laws that could make 80,000 stateless persons eligible for citizenship, as part of its effort to achieve zero statelessness by 2024 (2021)<br>
 
 **Illicit drugs**<br>
-a minor producer of opium, heroin, and cannabis products; major part of the illegal drug market for the Southeast Asia region and the interconnected markets in East Asia and Oceania; transit point for illicit heroin en route to the international drug market from Burma and Laos; &ldquo;Yaba,&rdquo; a tablet containing methamphetamine, caffeine, and other stimulants, is the most widely abused drug in Thailand<br>
+<p>not a cultivator or producer of significant quantities of opiates, methamphetamine, or other illicit drugs; not a significant source or transit country for drugs entering the United States; drugs smuggled through Thailand heading for Indo-Pacific region markets; large influx of methamphetamine and heroin from neighboring Burma to other markets, but also consumed domestically, most of which transits through Thailand to other markets, but is also consumed domestically; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
 

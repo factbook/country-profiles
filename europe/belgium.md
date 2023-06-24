@@ -559,6 +559,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 7.7% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 5 (2023)<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 3.93GW (2023)<br>
+_Percent of total electricity production_: 50.8% (2021)<br>
+_Percent of total energy produced_: 71% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 2<br>
+
 **Coal**<br>
 _production_: 1.105 million metric tons (2020 est.)<br>
 _consumption_: 4.167 million metric tons (2020 est.)<br>
@@ -718,9 +726,9 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 72,397 (Ukraine) (as of 23 May 2023)<br>
+_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 72,395 (Ukraine) (as of 6 June 2023)<br>
 _stateless persons_: 1,190 (2022)<br>
 
 **Illicit drugs**<br>
-<p>a primary entry point for cocaine smuggled into Europe; also a transit point for precursor chemicals from China for amphetamine and MDMA (ecstasy) production labs in Belgium; a transit country for new psychoactive substances (NPS); increasing number of amphetamine and ecstasy production labs in Belgium; heroin also transits through Belgium.</p><br>
+<p>a transit point for precursor chemicals from China and India destined for clandestine synthetic drug laboratories in the Netherlands and to some labs in Belgium; a primary entry point for cocaine into Europe; one of the top methamphetamine producers in Europe;  a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
 

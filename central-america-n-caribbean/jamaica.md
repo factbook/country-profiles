@@ -345,7 +345,7 @@ _chief of mission_: Ambassador Audrey Patrice MARKS (since 18 January 2017)<br>
 _chancery_: 1520 New Hampshire Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 452-0660<br>
 _FAX_: [1] (202) 452-0036<br>
-_email address and website_: <br>firstsec@jamaicaembassy.org<br><br>http://www.embassyofjamaica.org/<br>
+_email address and website_: <br>contactus@jamaicaembassy.org<br><br>https://www.embassyofjamaica.org/<br>
 _consulate(s) general_: Miami, New York<br>
 _consulate(s)_: Atlanta, Boston, Chicago, Concord (MA), Houston, Los Angeles, Philadelphia, Richmond (VA), San Francisco, Seattle<br>
 
@@ -662,13 +662,13 @@ Jamaica Defense Force (JDF): Jamaica Regiment (Ground Forces), Maritime-Air-Cybe
 approximately 4,000 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the JDF is lightly armed with a limited inventory featuring equipment mostly from Europe and the US (2022)<br>
+the JDF is lightly armed with a limited inventory featuring equipment mostly from Europe and the US (2023)<br>
 
 **Military service age and obligation**<br>
 no conscription; 18-23 for voluntary military service (17 with parental consent); 18-28 for the reserves; since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC); in the JNSC, soldiers receive basic military, vocational, and life skills training; upon completion of 12 months of service, soldiers can continue on with the JDF or seek other opportunities with other government agencies (2022)<br>
 
 **Military - note**<br>
-the JDF&rsquo;s primary missions are border, internal, and maritime security, including support to police operations in combating crime and violence (2023)<br>
+in addition to its responsibility of defending against external aggression, the JDF's primary missions are border, internal, and maritime security, including support to police operations in combating crime and violence; other missions include search and rescue, disaster response, humanitarian assistance, and peacekeeping; it has arrest authority and partners with the Jamaica Constabulary Force (JCF); both the JDF and JCF are under the Ministry of National Security, which directs policy for the security forces; the JDF participates in bilateral and multinational training exercises, including with the militaries of Canada, the UK, the US, and other Caribbean nations <br><br>while Jamaica had a militia force as early as the 1660s, the JDF was constituted in 1962 from the West India Regiment (WIR), a British colonial regiment which dates back to 1795; troops for the WIR were recruited from freed slaves from North America, slaves purchased in the West Indies, and slaves from Africa bought off slave ships (2023)<br>
 
 ## Transnational Issues
 
@@ -676,5 +676,5 @@ the JDF&rsquo;s primary missions are border, internal, and maritime security, in
 <p>none identified</p><br>
 
 **Illicit drugs**<br>
-the largest Caribbean source of marijuana which is trafficked to other Caribbean countries for illegal weapons and other contraband; transit point for cocaine trafficked from South America to North America and other international markets<br>
+<p>Jamaica is the largest Caribbean source of marijuana and a transit point for cocaine trafficked from South America to North America and other international markets; criminal gangs in Jamaica, Haiti, and Central America use marijuana for currency to obtain guns or other contraband from criminal entities in Haiti and Central America</p><br>
 

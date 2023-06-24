@@ -330,7 +330,7 @@ Independence Day, 9 October (1962)<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 27 September 1995, promulgated 8 October 1995<br>
-_amendments_: proposed by the National Assembly; passage requires at least two-thirds majority vote of the Assembly membership in the second and third readings; proposals affecting "entrenched clauses," including the sovereignty of the people, supremacy of the constitution, human rights and freedoms, the democratic and multiparty form of government, presidential term of office, independence of the judiciary, and the institutions of traditional or cultural leaders, also requires passage by referendum, ratification by at least two-thirds majority vote of district council members in at least two thirds of Uganda's districts, and assent of the president of the republic; amended several times, last in 2017<br>
+_amendments_: proposed by the National Assembly; passage requires at least two-thirds majority vote of the Assembly membership in the second and third readings; proposals affecting "entrenched clauses," including the sovereignty of the people, supremacy of the constitution, human rights and freedoms, the democratic and multiparty form of government, presidential term of office, independence of the judiciary, and the institutions of traditional or cultural leaders, also requires passage by referendum, ratification by at least two-thirds majority vote of district council members in at least two thirds of Uganda's districts, and assent of the president of the republic; amended several times, last in 2018<br>
 
 **Legal system**<br>
 mixed legal system of English common law and customary law<br>
@@ -368,14 +368,14 @@ _subordinate courts_: Court of Appeal (also acts as the Constitutional Court); H
 Democratic Party or DP [Norbert MAO]<br>Forum for Democratic Change or FDC [Patrick Oboi AMURIAT]<br>Justice Forum or JEEMA [Asuman BASALIRWA]<br>National Resistance Movement or NRM [Yoweri MUSEVENI]<br>National Unity Platform [Robert Kyagulanyi SSENTAMU, known as Bobi WINE]<br>People's Progressive Party or PPP [Jaberi Bidandi SSALI]<br>Uganda People's Congress or UPC [James AKENA]<br><br><strong>note: </strong>only parties with seats in Parliament listed<br>
 
 **International organization participation**<br>
-ACP, AfDB, ATMIS, AU, C, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, ATMIS, AU, C, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITC, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OHCHR, OIC, OPCW, PCA, UN, UNAIDS, UNCDF, UNCTAD, UNDESA, UNDP, UNDSS, UNFCCC, UNFPA, UNDRR, UNECA, UNESCO, UNHCR, UNICEF, UNIDO, UNISFA, UNOCI, UNODC, UNOPS, UNSOM, UNV,&nbsp; UNWTO, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Robinah <strong>KAKONGE</strong> (since 12 December 2022)<br>
 _chancery_: 5911 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 726-7100<br>
 _FAX_: [1] (202) 726-1727<br>
-_email address and website_: <br>washington@mofa.go.ug; info@ugandaembassysus.org; ambauganda@aol.com<br><br>https://washington.mofa.go.ug/<br>
+_email address and website_: <br>washington@mofa.go.ug; info@ugandaembassyus.org<br><br>https://washington.mofa.go.ug/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Natalie E. BROWN (since 17 November 2020)<br>
@@ -722,6 +722,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 868,930 (South Sudan) (refugees and asylum seekers), 487,044 (Democratic Republic of the Congo), 69,992 (Somalia), 41,252 (Burundi), 31,424 (Eritrea), 23,299 (Rwanda), 6,689 (Ethiopia) (2023)<br>
+_refugees (country of origin)_: 875,848 (South Sudan) (refugees and asylum seekers), 487,201 (Democratic Republic of the Congo), 69,533 (Somalia), 41,382 (Burundi), 31,424 (Eritrea), 23,299 (Rwanda), 6,689 (Ethiopia) (2023)<br>
 _stateless persons_: 67,000 (2022)<br>
 

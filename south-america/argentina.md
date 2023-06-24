@@ -579,6 +579,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 1.5% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 3 (2023)<br>
+_Number of nuclear reactors under construction_: 1<br>
+_Net capacity of operational nuclear reactors_: 1.64GW (2023)<br>
+_Percent of total electricity production_: 7.2% (2021)<br>
+_Percent of total energy produced_: 3.6% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 0<br>
+
 **Coal**<br>
 _production_: 829,000 metric tons (2020 est.)<br>
 _consumption_: 1.55 million metric tons (2020 est.)<br>
@@ -726,7 +734,7 @@ note - as of 2021, women comprised over 21% of the active duty military<br>
 225 Cyprus (UNFICYP) (2023)<br>
 
 **Military - note**<br>
-the Army and Navy were both created in 1810 during the Argentine War of Independence, while the Air Force was established in 1945; the military conducted coups d'état in 1930, 1943, 1955, 1962, 1966, and 1976; the 1976 coup, aka the "National Reorganization Process," marked the beginning of the so-called "Dirty War," a period of state-sponsored terrorism that saw the deaths or disappearances of thousands of Argentinians; the defeat in the 1983 Falklands War led to the downfall of the military junta<br><br>Argentina and Chile have a joint peacekeeping force known as the Combined Southern Cross Peacekeeping Force (FPC), designed to be made available to the UN; the FPC is made up of two battalions, one from each country, a command and service company, an air component (a squadron of Argentine and Chilean helicopters), a naval component, and a combined logistics support unit<br><br>Argentina has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
+the Argentine military’s primary responsibilities are territorial defense and protecting the country’s sovereignty, but its duties also include border security, countering narcotics trafficking, and other internal missions, such as disaster response and infrastructure development; it also conducts support operations in Antarctica to promote an active presence in areas of national territory that are sparsely populated; the military participates in both bilateral and multinational training exercises and supports UN peacekeeping operations; the Army’s primary combat units include a rapid deployment division with airborne, mechanized infantry, and special forces brigades, a combined armored and jungle warfare division, a mountain infantry division, and a mechanized division; the Navy’s principal warships are approximately 15 frigates, corvettes, and ocean-going patrol ships, as well as 2 attack submarines, although they are not operational; both the Army and Navy have helicopter aviation components; the Air Force has a few dozen combat aircraft, as well as multipurpose helicopters and support aircraft, such as tankers and transports<br><br>Argentina participates in the Tripartite Command, an interagency security mechanism created by Argentina, Brazil, and Paraguay to exchange information and combat transnational threats, including terrorism, in the Tri-Border Area; in addition, Argentina and Chile have a joint peacekeeping force known as the Combined Southern Cross Peacekeeping Force (FPC), designed to be made available to the UN; the FPC is made up of two battalions, one from each country, a command and service company, an air component (a squadron of Argentine and Chilean helicopters), a naval component, and a combined logistics support unit; Argentina has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the Army and Navy were both created in 1810 during the Argentine War of Independence, while the Air Force was established in 1945; the military conducted coups d'état in 1930, 1943, 1955, 1962, 1966, and 1976; the 1976 coup, aka the "National Reorganization Process," marked the beginning of the so-called "Dirty War," a period of state-sponsored terrorism that saw the deaths or disappearances of thousands of Argentinians; the defeat in the 1983 Falklands War led to the downfall of the military junta (2023)<br>
 
 ## Terrorism
 
@@ -743,5 +751,5 @@ Hizballah<br>
 _refugees (country of origin)_: 170,517 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 
 **Illicit drugs**<br>
-<p>counterfeiting, drug trafficking, and other smuggling offenses along the northern border; some money laundering organizations in the Tri-Border Area may have links to the terrorist organization Hizballah; a large producer of chemical precursors</p><br>
+<p>counterfeiting, drug trafficking, and other smuggling offenses in the Tri-Border area; some money laundering organizations in the TBA have may have links to the terrorist organization Hizballah; a large producer of chemical precursors</p><br>
 

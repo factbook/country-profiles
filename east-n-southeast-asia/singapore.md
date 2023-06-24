@@ -350,7 +350,7 @@ ADB, AOSIS, APEC, Arctic Council (observer), ARF, ASEAN, BIS, C, CP, EAS, FAO, F
 _chief of mission_: Ambassador Ashok KUMAR Mirpuri (since 30 July 2012)<br>
 _chancery_: 3501 International Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 537-3100<br>
-_FAX_: [1] (202) 537-0876<br>
+_FAX_: [1] (202) 537-7086<br>
 _email address and website_: <br>singemb_was@mfa.sg<br><br>https://www.mfa.gov.sg/washington/<br>
 _consulate(s) general_: San Francisco<br>
 _consulate(s)_: New York<br>

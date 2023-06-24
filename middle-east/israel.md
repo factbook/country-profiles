@@ -337,7 +337,7 @@ _chief of state_: President Isaac HERZOG (since 7 July 2021)<br>
 _head of government_: Prime Minister Benyamin NETANYAHU (since 29 December 2022)<br>
 _cabinet_: Cabinet selected by prime minister and approved by the Knesset<br>
 _elections/appointments_: president indirectly elected by the Knesset for a single 7-year term; election last held on 2 June 2021 (next to be held in June 2028); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a new government<br>
-_election results_: <em>2021:</em> Isaac HERZOG elected president; Knesset vote - Isaac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7<br>
+_election results_: <p><em>2021:</em> Isaac HERZOG elected president; Knesset vote - Isaac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7<br><br><em>2014:</em> Reuven RIVLIN elected president in second round; Knesset vote - Reuven RIVLIN (Likud) 63, Meir SHEETRIT (The Movement) 53, other/invalid 4</p> <p> </p><br>
 
 **Legislative branch**<br>
 _description_: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a 3.25% vote threshold to gain representation; members serve 4-year terms)<br>
@@ -662,12 +662,12 @@ _annual freight traffic on registered air carriers_: 994.54 million (2018) mt-km
 763 km gas, 442 km oil, 261 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 1,384 km (2019) (2019)<br>
-_standard gauge_: 1,384 km (2014) 1.435-m gauge<br>
+_total_: 1,497 km (2021) (2019)<br>
+_standard gauge_: 1,497 km (2021) 1.435-m gauge<br>
 
 **Roadways**<br>
-_total_: 19,555 km (2017)<br>
-_paved_: 19,555 km (2017) (includes 449 km of expressways)<br>
+_total_: 20,391 km (2021)<br>
+_paved_: 20,391 km (2021) (includes 449 km of expressways)<br>
 
 **Merchant marine**<br>
 _total_: 45<br>
@@ -695,7 +695,7 @@ Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes com
 approximately 173,000 active duty personnel (130,000 Ground Forces; 9,000 Naval; 34,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the majority of the IDF's inventory is comprised of weapons that are domestically produced or imported from Europe and the US; the US has been the leading supplier of arms; Israel has a broad defense industrial base that can develop, produce, support, and sustain a wide variety of weapons systems for both domestic use and export, particularly armored vehicles, unmanned aerial systems, air defense, and guided missiles (2022)<br>
+the majority of the IDF's inventory is comprised of weapons that are domestically produced or imported from Europe and the US; the US has been the leading supplier of arms in recent years; Israel has a broad defense industrial base that can develop, produce, support, and sustain a wide variety of weapons systems for both domestic use and export, particularly armored vehicles, unmanned aerial systems, air defense, and guided missiles (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for compulsory military service; 17 years of age for voluntary military service; Jews and Druze can be conscripted; Christians, Circassians, and Muslims may volunteer; both sexes are obligated to military service; conscript service obligation is 32 months for enlisted men and about 24 months for enlisted women (varies based on military occupation); officers serve 48 months; Air Force pilots commit to 9 years of service; reserve obligation to age 41-51 (men), age 24 (women) (2023)<br>

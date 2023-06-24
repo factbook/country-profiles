@@ -340,12 +340,12 @@ _subordinate courts_: lower regional courts known as District Courts, Court of C
 Alliance Morisien (Mauritian Alliance 2019; coalition includes PM, MSM, ML, and MAG) [Pravind JUGNAUTH] <br>Jean-Claude Barbier Movement (Mouvement Jean-Claude Barbier) or MJCB [Jean-Claude Barbier]<br>Mauritian Militant Movement (Mouvement Militant Mauricien) or MMM [Paul BERENGER]<br>Mauritian Social Democratic Party (Parti Mauricien Social Democrate) or PMSD [Xavier Luc DUVAL]<br>Mauritius Labor Party (Parti Travailliste) or PTR or MLP [Navinchandra RAMGOOLAM]<br>Militant Platform or PM (Plateforme Militante) [Steven OBEEGADOO]<br>Militant Socialist Movement (Mouvement Socialist Mauricien) or MSM [Pravind JUGNAUTH]<br>Muvman Liberater or ML [Ivan COLLENDAVELLOO]<br>National Alliance (coalition includes PTR, PMSD, and MJCB) [Navinchandra RAMGOOLAM]<br>Patriotic Movement (Mouvement Patriotique) or MAG [Alan GANOO]<br>Rodrigues Peoples Organization (Organisation du Peuple Rodriguais) or OPR [Serge CLAIR]<br> <p><strong>note</strong>: only parties with seats in the National Assembly listed</p><br>
 
 **International organization participation**<br>
-ACP, AfDB, AOSIS, AU, C, CD, COMESA, CPLP (associate), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SAARC (observer), SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AOSIS, AU, CD, COMESA, CPLP (associate), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SAARC (observer), SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Purmanund JHUGROO (since 7 July 2021)<br>
-_chancery_: 1709 N Street NW, Washington, DC 20036; administrative offices at 3201 Connecticut Avenue NW, Suite 441, Washington, DC 20036<br>
-_telephone_: [1] (202) 244-1491; [1] (202) 244-1492<br>
+_chancery_: 1709 N Street NW, Washington, DC 20036<br>
+_telephone_: [1] (202) 244-1491<br>
 _FAX_: [1] (202) 966-0983<br>
 _email address and website_: <br>mauritius.embassy@verizon.net; washingtonemb@govmu.org<br><br>https://mauritius-washington.govmu.org/Pages/index.aspx<br>
 

@@ -372,7 +372,7 @@ ACP, AfDB, ATMIS, AU, C, CD, COMESA, EAC, EADB, FAO, G-15, G-77, IAEA, IBRD, ICA
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lazarus Ombai AMAYO (since 17 July 2020)<br>
-_chancery_: 1616 P Street NW, Suite 340, Washington, DC 20036<br>
+_chancery_: 2249 R St NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 387-6101<br>
 _FAX_: [1] (202) 462-3829<br>
 _email address and website_: <br>information@kenyaembassydc.org<br><br>https://kenyaembassydc.org/#<br>
@@ -735,10 +735,10 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Kenya-Ethiopia</em>: their border was demarcated in the 1950s and approved in 1970; in 2012, Kenya and Ethiopia agreed to redemarcate their boundary following disputes over beacons and cross-border crime</p> <p><em>Kenya-Somalia</em>: Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; in 2021, the International Court of Justice (ICJ) gave Somalia control over a disputed ocean area where the seabeds are believed to hold vasts oil and gas deposits; the ICJ ruling gave Somalia the rights to several offshore oil exploration blocks previously claimed by Kenya; Kenya did not recognize the court’s decision</p> <p><em>Kenya-South Sudan</em>: two thirds of the boundary that separates Kenya and South Sudan's sovereignty known as the Ilemi Triangle has been unclear since British colonial times; Kenya has administered the area since colonial times; officials from Kenya and South Sudan signed a memorandum of understanding on boundary delimitation and demarcation and agreed to set up a joint committee; as of July 2019, the demarcation process was to begin in 90 days, but was delayed due to a lack of funding</p> <p><em>Kenya-Sudan</em>: Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005</p> <p><em>Kenya-Tanzania</em>: Kenya and Tanzania were conducting a joint reaffirmation process in November 2021 to ensure the border was visibly marked with pillars</p> <p><em>Kenya-Uganda:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021 </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 281,319 (Somalia), 157,402 (South Sudan), 72,192 (Democratic Republic of the Congo), 21,847 (Ethiopia), 8,392 (Burundi), 5,756 (Sudan) (2023)<br>
+_refugees (country of origin)_: 281,319 (Somalia), 157,402 (South Sudan), 55,805 (Democratic Republic of the Congo), 21,847 (Ethiopia), 8,392 (Burundi), 5,756 (Sudan) (2023)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2021)<br>
 _stateless persons_: 16,779 (2022); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 
 **Illicit drugs**<br>
-<p>a transit country for a variety of illicit drugs, including heroin and cocaine; transit location for precursor chemicals used to produce methamphetamine and other drugs; transshipment country for heroin from Southwest Asia destined for international markets, mainly Europe, and cocaine transits shipped through Ethiopia from South America; cultivates cannabis and miraa (khat) for both local use and export</p><br>
+<p>a transit country for illicit drugs and precursor chemicals; domestic drug consumption of cannabis and miraa (khat) is growing; heroin enters Kenya via Tanzania and in shipments across the Indian Ocean from Southwest Asia mostly destined for international markets, principally Europe; cocaine enters Kenya primarily via transshipment through Ethiopia</p><br>
 

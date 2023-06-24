@@ -619,7 +619,7 @@ the ABDF's equipment inventory is limited to small arms, light weapons, and soft
 18-23 years of age for voluntary military service for both men and women; no conscription (2022)<br>
 
 **Military - note**<br>
-has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2022)<br>
+the ABDF’s responsibilities include providing for internal security and support to the police in maintaining law and order, interdicting narcotics smuggling, responding to natural disasters, and monitoring the country’s territorial waters and maritime resources; established in 1981 from colonial forces originally created in 1897, it is one of the world’s smallest militaries<br><br>the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2023)<br>
 
 ## Transnational Issues
 
@@ -631,5 +631,5 @@ _tier rating_: Tier 2 Watch list &ndash; Antigua and Barbuda does not fully meet
 _trafficking profile_: traffickers exploit domestic and foreign victims in Antigua and Barbuda, and exploit victims from Antigua and Barbuda abroad; individuals from minority communities are at higher risk; documented and undocumented migrants from the Caribbean, notably Jamaica, Guyana, and the Dominican Republic, were victims of sex trafficking and forced labor; traffickers exploited victims in multiple-destination trafficking, arriving in Antigua and Barbuda for a few months before being exploited in other Caribbean countries such as St. Kitts and Nevis and Barbados; sex trafficking, including girls, occurs in bars, taverns, and brothels; forced labor, including children, occurs in domestic service and retail stores, particularly family-owned businesses; Cuban and PRC nationals working in Antigua and Barbuda may have been forced to work there by their own governments (2022)<br>
 
 **Illicit drugs**<br>
-<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean</p><br>
+<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>
 

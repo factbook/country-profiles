@@ -348,7 +348,7 @@ _chief of state_: Supreme Leader Ali Hoseini-KHAMENEI (since 4 June 1989)<br>
 _head of government_: President Ebrahim RAISI (since 18 June 2021); First Vice President Mohammad MOKHBER (since 8 August 2021)<br>
 _cabinet_: Council of Ministers selected by the president with legislative approval; the supreme leader has some control over appointments to several ministries<br>
 _elections/appointments_: supreme leader appointed for life by Assembly of Experts; president directly elected by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term and an additional nonconsecutive term); election last held on 18 June 2021 (next to be held in June 2025)<br>
-_election results_: <em>2021:</em> Ebrahim RAISI elected president; percent of vote - Ebrahim RAISI (independent) 72.4%, Mohsen REZAI (RFII) 13.8%, Abbdolnaser HEMATI (ECP) 9.8%, Amir-Hosein Qazizadeh-HASHEMI (Islamic Law Party) 4%<br><br><em>2017:</em> Hasan Fereidun RUHANI reelected president; percent of vote - Hasan Fereidun RUHANI (Moderation and Development Party) 58.8%, Ebrahim RAISI (Combat Clergy Association) 39.4% , Mostafa Mir-SALIM Islamic Coalition Party) 1.2%, Mostafa HASHEMI-TABA (Executives of Construction Party) 0.5%<br>
+_election results_: <p><em>2021:</em> Ebrahim RAISI elected president; percent of vote - Ebrahim RAISI (independent) 72.4%, Mohsen REZAI (RFII) 13.8%, Abbdolnaser HEMATI (ECP) 9.8%, Amir-Hosein Qazizadeh-HASHEMI (Islamic Law Party) 4%<br><br><em>2017:</em> Hasan Fereidun RUHANI reelected president; percent of vote - Hasan Fereidun RUHANI (Moderation and Development Party) 58.8%, Ebrahim RAISI (Combat Clergy Association) 39.4% , Mostafa Mir-SALIM Islamic Coalition Party) 1.2%, Mostafa HASHEMI-TABA (Executives of Construction Party) 0.5%</p><br>
 
 **Legislative branch**<br>
 _description_: unicameral Islamic Consultative Assembly or Majles-e Shura-ye Eslami or Majles (290 seats; 285 members directly elected in single- and multi-seat constituencies by 2-round vote, and 1 seat each for Zoroastrians, Jews, Assyrian and Chaldean Christians, Armenians in the north of the country and Armenians in the south; members serve 4-year terms); note - all candidates to the Majles must be approved by the Council of Guardians, a 12-member group of which 6 are appointed by the supreme leader and 6 are jurists nominated by the judiciary and elected by the Majles<br>
@@ -367,7 +367,7 @@ Combatant Clergy Association [Mostafa PURMOHAMMADI] (an active political group)<
 CICA, CP, D-8, ECO, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OPEC, PCA, SAARC (observer), SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none; Iran has an Interests Section in the Pakistani Embassy; address: Iranian Interests Section, Embassy of Pakistan, 1250 23rd Street NW, Washington, DC 20037; telephone: [1] (202) 965-4990; FAX [1] (202) 965-1073; info@daftar.org<br>
+_chief of mission_: none; Iran has an Interests Section in the Pakistani Embassy; address: Iranian Interests Section, Embassy of Pakistan, 1250 23rd Street NW, Washington, DC 20037; telephone: [1] (202) 965-4990; FAX [1] (202) 965-1073; email:&nbsp; requests@daftar.org; info@daftarwashington.com; website:&nbsp; https://daftar.org/<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none; the US Interests Section is located in the Embassy of Switzerland; US Foreign Interests Section, Embassy of Switzerland, Pasdaran, Shahid Mousavi Street (Golestan 5th), Corner of Paydarfard Street, No. 55, Tehran<br>
@@ -554,6 +554,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 1 (2023)<br>
+_Number of nuclear reactors under construction_: 1<br>
+_Net capacity of operational nuclear reactors_: 0.92GW (2023)<br>
+_Percent of total electricity production_: 0.1% (2021)<br>
+_Percent of total energy produced_: 0.19% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 0<br>
+
 **Coal**<br>
 _production_: 2.783 million metric tons (2020 est.)<br>
 _consumption_: 2.794 million metric tons (2020 est.)<br>
@@ -688,7 +696,7 @@ the military forces of Iran are divided between the Islamic Republic of Iran Reg
 information varies; approximately 550-600,000 active armed forces personnel; approximately 400,000 Islamic Republic of Iran Regular Forces (350,000 Ground Forces; 18,000 Navy; 40,000 Air Force/Air Defense Forces); approximately 150-190,000 Islamic Revolutionary Guard Corps (100-150,000 Ground Forces; 20,000 Navy; 15,000 Aerospace Force; 5-15,000 Qods Force); estimated 90,000 active Basij Paramilitary Forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Iranian military's inventory includes a mix of domestically produced and mostly older foreign equipment largely of Chinese, Russian, Soviet, and US origin (US equipment acquired prior to the Islamic Revolution in 1979); Iran has also received some military equipment from North Korea, including midget submarines and ballistic missiles; Iran has a defense industry with the capacity to develop, produce, support, and sustain air, land, missile, and naval weapons programs (2022)<br>
+the Iranian military's inventory includes a mix of domestically produced and mostly older foreign equipment largely of Chinese, Russian, Soviet, and US origin (US equipment acquired prior to the Islamic Revolution in 1979); it also has some military equipment from North Korea, including midget submarines and ballistic missiles; in recent years, Iran has received some newer equipment from Russia; Iran has a defense industry with the capacity to develop, produce, support, and sustain air, land, missile, and naval weapons programs (2023)<br>
 
 **Military service age and obligation**<br>
 military service is compulsory for all Iranian males 18/19 to approximately age 40; 16 for voluntary military service (may be as low as 15 for the Basij); conscript military service obligation is 18-24 months, depending on the location of service (soldiers serving in places of high security risk and deprived areas serve shorter terms); women exempt from military service (2023)<br>
@@ -724,5 +732,5 @@ _tier rating_: Tier 3 &mdash; Iran does not fully meet the minimum standards for
 _trafficking profile_: human traffickers exploit domestic and foreign victims in Iran, and Iranians are exploited abroad; the continuing decline of the Iranian economy has significantly exacerbated human trafficking, particularly for vulnerable and marginalized groups such as ethnic minorities, refugee and migrants, women, and children; women and girls, as well as some men, are highly vulnerable to sex trafficking in Iran; Iranian and Afghan boys and girls are forced into prostitution domestically; Iranian women, boys, and girls are vulnerable to sex trafficking in Afghanistan, Armenia, Georgia, Iraq, Pakistan, Turkey, and the United Arab Emirates; Iranian and Afghan refugee and migrant children, orphans, and homeless children increasingly are vulnerable to forced labor in Iran; criminal groups reportedly play a significant role in human trafficking in Iran, including kidnaping or purchasing Iranian and migrant children for forced labor and sexual exploitation; Afghan refugees and migrants, as well as Pakistani migrants, are vulnerable to abuse and labor exploitation (2022)<br>
 
 **Illicit drugs**<br>
-<p>significant transit and destination country for opiates and cannabis products mainly from Afghanistan; produces and consumes methamphetamine and traffics it to  international markets; one of the primary transshipment routes for Southwest Asian heroin to Europe</p><br>
+significant transit and destination country for opiates and cannabis products mainly from Afghanistan and Pakistan; produces and consumes methamphetamine and traffics it to &nbsp;international markets; one of the primary transshipment routes for Southwest Asian heroin to Europe; opium and cannabis most widely used drugs domestically along with increase in crystal methamphetamine<br>
 

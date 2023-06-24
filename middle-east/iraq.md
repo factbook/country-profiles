@@ -373,10 +373,10 @@ ABEDA, AFESD, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, 
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Salwan Rasheed Anjo ANJO (since 27 June 2022)<br>
-_chancery_: 3421 Massachusetts Avenue NW, Washington, DC 20007<br>
-_telephone_: [1] (202) 742-1600<br>
-_FAX_: [1] (202) 333-1129<br>
-_email address and website_: <br>http://www.iraqiembassy.us/<br>
+_chancery_: 1801 P Street NW, Washington, DC 20036<br>
+_telephone_: [1] (202) 483-7500<br>
+_FAX_: [1] (202) 462-8815<br>
+_email address and website_: <br>washington@scrdiraq.gov.iq<br><br>https://www.iraqiembassy.us/<br>
 _consulate(s) general_: Detroit, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
@@ -706,7 +706,7 @@ Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Fo
 information varies; approximately 200,000 personnel under the Ministry of Defense (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 25,000 National-Level Security Forces; Ministry of Peshmerga: approximately 150,000-plus (45-50,000 Regional Guard Brigades; 40-45,000 Unit 70 Forces; 65-70,000 Unit 80 Forces); estimated 100-160,000 Popular Mobilization Forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Iraqi military's inventory includes a mix of equipment from a wide variety of sources, including Europe, South Africa, South Korea, Russia, and the US; in recent years, Russia and the US have been the leading suppliers of military hardware to Iraq (2022)<br>
+the Iraqi military's inventory includes a mix of equipment from a wide variety of sources, including Europe, South Africa, South Korea, Russia, and the US; in recent years, Russia and the US have been the leading suppliers of military hardware to Iraq (2023)<br>
 
 **Military service age and obligation**<br>
 18-40 years of age for voluntary military service; no conscription (2022)<br>
@@ -727,7 +727,7 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods
 <p><em>Iraq-Iran</em>: Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf</p> <p><em>Iraq-Turkey</em>: Turkey has expressed concern over the autonomous status of Kurds in Iraq</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,864 (West Bank and Gaza Strip) (mid-year 2022); 261,929 (Syria), 8,479 (Iran), 8,221 (Turkey) (2023)<br>
+_refugees (country of origin)_: 7,864 (West Bank and Gaza Strip) (mid-year 2022); 274,724 (Syria), 8,479 (Iran), 8,221 (Turkey) (2023)<br>
 _IDPs_: 1.17 million (displacement in central and northern Iraq since January 2014) (2023)<br>
 _stateless persons_: 47,253 (2022); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 

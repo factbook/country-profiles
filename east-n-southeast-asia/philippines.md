@@ -347,7 +347,7 @@ _chief of state_: President Ferdinand "BongBong" MARCOS, Jr. (since 30 June 2022
 _head of government_: President Ferdinand "BongBong" MARCOS, Jr. (since 30 June 2022); Vice President Sara DUTERTE-Carpio (since 30 June 2022)<br>
 _cabinet_: Cabinet appointed by the president with the consent of the Commission of Appointments, an independent body of 25 Congressional members including the Senate president (ex officio chairman), appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on separate ballots by simple majority popular vote for a single 6-year term; election last held on 9 May 2022 (next to be held on 9 May 2028)<br>
-_election results_: Ferdinand MARCOS, Jr. elected president; percent of vote - Ferdinand MARCOS, Jr. (PFP) 58.7%, Leni ROBREDO (independent) 27.9%, Manny PACQUIAO (PROMDI) 6.8%; Sara DUTERTE-Carpio elected vice president; percent of vote Sara DUTERTE-Carpio (Lakas-CMD) 61.5%, Francis PANGILINAN (LP) 17.8%, Tito SOTTO 15.8%<br>
+_election results_: <p><em>2022: </em>Ferdinand MARCOS, Jr. elected president; percent of vote - Ferdinand MARCOS, Jr. (PFP) 58.7%, Leni ROBREDO (independent) 27.9%, Manny PACQUIAO (PROMDI) 6.8%; Sara DUTERTE-Carpio elected vice president; percent of vote Sara DUTERTE-Carpio (Lakas-CMD) 61.5%, Francis PANGILINAN (LP) 17.8%, Tito SOTTO 15.8%<br><br><em>2016: </em>Rodrigo DUTERTE elected president; percent of vote - Rodrigo DUTERTE (PDP-Laban) 39%, Manuel "Mar" ROXAS (LP) 23.5%, Grace POE (independent) 21.4%, Jejomar BINAY (UNA) 12.7%, Miriam Defensor SANTIAGO (PRP) 3.4%; Leni ROBREDO elected vice president; percent of vote Leni ROBREDO (LP) 35.1%, Bongbong MARCOS (independent) 34.5%, Alan CAYETANO 14.4%, Francis ESCUDERO (independent) 12%, Antonio TRILLANES (independent) 2.1%, Gregorio HONASAN (UNA) 1.9%</p><br>
 
 **Legislative branch**<br>
 _description_: bicameral Congress or Kongreso consists of:<br>Senate or Senado (24 seats; members directly elected in multi-seat constituencies by majority vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>House of Representatives or Kapulungan Ng Mga Kinatawan (316 seats; 253 members directly elected in single-seat constituencies by simple majority vote and 63 representing minorities directly elected by party-list proportional representation vote; members serve 3-year terms)<br>
@@ -370,7 +370,7 @@ _chief of mission_: Ambassador Jose Manuel del Gallego ROMUALDEZ (since 29 Novem
 _chancery_: 1600 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 467-9300<br>
 _FAX_: [1] (202) 328-7614<br>
-_email address and website_: <br>washington.pe@dfa.gov.ph; consular@phembassy-us.org<br>
+_email address and website_: <br>info@phembassy-us.org; consular@phembassy-us.org<br><br>The Embassy of the Republic of the Philippines in Washington D.C. (philippineembassy-dc.org)<br>
 _consulate(s) general_: Chicago, Honolulu, Los Angeles, New York, Saipan (Northern Mariana Islands), San Francisco, Tamuning (Guam)<br>
 
 **Diplomatic representation from the US**<br>
@@ -734,5 +734,5 @@ _IDPs_: 108,000 (government troops fighting the Moro Islamic Liberation Front, t
 _stateless persons_: 261 (2022); note - stateless persons are descendants of Indonesian migrants<br>
 
 **Illicit drugs**<br>
-cannabis products, methamphetamine hydrochloride (locally known as "shabu"), and MDMA (ecstasy) are locally used; Chinese Transnational Criminal Organizations (TCOs) are the main source of methamphetamine; precursor chemicals in transit from China to Burma<br>
+<p>Illegal drugs, including methamphetamine hydrochloride, cannabis, and methylenedioxymethamphetamine (MMDA, or "ecstasy") enter the Philippines from the Golden Triangle (Thailand, Laos, and Burma); drugs entering the Philippines are used locally and transported to other countries in Southeast Asia and Oceania; Chinese transnational organizations are the principal supplier of methamphetamine;  not a significant source or transit country for drugs entering the United States</p><br>
 

@@ -168,7 +168,7 @@ _etymology_: named by English Captain William MYNORS for the day of its rediscov
 non-self-governing overseas territory of Australia<br>
 
 **Dependency status**<br>
-non-self governing territory of Australia; administered from Canberra by the Department of Infrastructure, Transport, Cities &amp; Regional Development<br>
+non-self-governing territory of Australia; administered from Canberra by the Department of Infrastructure, Transport, Cities &amp; Regional Development<br>
 
 **Capital**<br>
 _name_: The Settlement (Flying Fish Cove)<br>

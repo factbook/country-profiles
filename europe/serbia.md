@@ -376,8 +376,8 @@ BIS, BSEC, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, G-9, IAEA, IBRD
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Marko DJURIC (since 18 January 2021)<br>
-_chancery_: 2233 Wisconsin Ave NW, Suite 410, Washington, DC 20007<br>
-_telephone_: [1] (202) 332-0333<br>
+_chancery_: 1333 16th Street, NW Washington, D.C. 20036<br>
+_telephone_: [1] (202) 507-8654; [1] (202) 332-0333<br>
 _FAX_: [1] (202) 332-3933<br>
 _email address and website_: <br>info@serbiaembusa.org<br><br>http://www.washington.mfa.gov.rs/<br>
 _consulate(s) general_: Chicago, New York<br>
@@ -722,12 +722,12 @@ the Serbian Armed Forces were established in June 2006; the Serbian military tra
 _refugees (country of origin)_: 17,334 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,594 (includes stateless persons in Kosovo) (2022)<br>
-<strong>note:</strong> 961,647 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
+<strong>note:</strong> 965,337 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Serbia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; Serbia investigated more suspects, revised indicators to identify victims among schoolchildren, and increased resources for the Center for Protection of Trafficking Victims; officials developed a coordination body to support victims during criminal proceedings, formed four Special Working Groups for anti-trafficking issues, and designated an Ombudsman on trafficking; however, the government did not demonstrate overall increasing efforts compared with the previous year to expand its anti-trafficking capacity; there were no proactive efforts to identify victims, and implementation of standard operating procedures remained inadequate; an anti-trafficking council did not meet, and the government did not adopt the 2021-2022 National Action Plan; official complicity in trafficking crimes remained a concern; therefore, Serbia was downgraded to Tier 2 Watch List (2022)<br>
 _trafficking profile_: human traffickers exploit domestic and foreign victims in Serbia, as well as Serbians abroad; Serbian women are exploited in sex trafficking in Serbia, neighboring countries, and throughout Europe, particularly in Austria, Germany, Italy, and Turkey; Serbian nationals, primarily men, are exploited in forced labor in labor-intensive sectors in European countries&mdash;including Austria, Belgium, Croatia, France, Germany, Italy, Luxembourg, Montenegro, Russia, and Switzerland&mdash;and the United Arab Emirates; children, particularly Roma, are victims within the country in sex trafficking, forced labor, forced begging, and petty crime; foreign victims in Serbia are from Albania, Cameroon, Croatia, Denmark, Germany, Mali, Nigeria, North Macedonia, and Pakistan; thousands of migrants and refugees from the Middle East, Africa, and Asia transiting through or stranded in Serbia are vulnerable to trafficking; the government has not reported fully investigating credible allegations of Vietnamese victims of forced labor and instead states the workers are not trafficking victims (2022)<br>
 
 **Illicit drugs**<br>
-<p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>
+<p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine destined for European markets</p><br>
 

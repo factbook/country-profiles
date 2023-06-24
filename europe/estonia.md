@@ -356,7 +356,7 @@ Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperat
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Kristjan PRIKK (since 7 July 2021)<br>
-_chancery_: 1990 K Street NW, Washington, DC 20006<br>
+_chancery_: 2131 Massachusetts Ave, NW<br>Washington, DC, 20008<br>
 _telephone_: [1] (202) 588-0101<br>
 _FAX_: [1] (202) 588-0108<br>
 _email address and website_: <br>Embassy.Washington@mfa.ee<br><br>https://washington.mfa.ee/<br>
@@ -679,7 +679,7 @@ Estonia operates two PC 5 or 6 class icebreakers in the Baltic Sea<br>note - PC 
 ## Military and Security
 
 **Military and security forces**<br>
-Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (Reserves) (2023)<br>
+Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (Reserves); Ministry of Interior: Police, Border Guard Board, Internal Security Service (2023)<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2022 est.)<br>
@@ -689,14 +689,15 @@ Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (
 2% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,000 active-duty personnel; approximately 15,000 Defense League (2022)<br>
+approximately 7,000 active-duty personnel; approximately 15,000 Defense League (2023)<br>
+<strong>note: </strong>the Estonian Defense Forces rely largely on reservists who have completed compulsory conscription in the previous 10 years to fill out its active duty and Territorial Defense units during a crisis; there are more than 40,000 trained reservists and approximately 230,000 Estonians are enrolled in the mobilization registry <br>
 
 **Military equipment inventories and acquisitions**<br>
-the Estonian military has a mix of Soviet-era and more modern equipment, mostly from western European suppliers (2022)<br>
+the Estonian military has a mix of Soviet-era and some more modern equipment, mostly from western European suppliers, as well as Israel, South Korea, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18-27 for compulsory military or governmental service for men; conscript service requirement 8-11 months depending on education; non-commissioned officers, reserve officers, and specialists serve 11 months; women can volunteer, and as of 2018 could serve in any military branch (2023)<br>
-<strong>note 1:</strong> conscripts comprise approximately 3,000-3,300 of the Estonian military's 7,000 active-duty personnel and serve in all branches, except for the Air Force, which does not have conscripts; after conscript service, reservists are called up for training every 5 years; Estonia has had conscription since 1991<br><br><strong>note 2:</strong> the Estonian Defense Forces rely largely on reservists who have completed compulsory conscription in the previous 10 years to fill out its active duty and Territorial Defense units during a crisis; a total of approximately 230,000 Estonians are enrolled in the mobilization registry<br><br><strong>note 3:</strong> in 2020, women comprised about 10% of the full-time professional military force<br>
+<strong>note 1:</strong> conscripts comprise approximately 3,000-3,300 of the Estonian military's 7,000 active-duty personnel and serve in all branches, except for the Air Force; after conscript service, reservists are called up for training every 5 years; Estonia has had conscription since 1991<br><br><strong>note 2:</strong> in 2020, women comprised about 10% of the full-time professional military force<br>
 
 **Military - note**<br>
 Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a UK-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; NATO has provided air protection for Estonia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014 (2023)<br>
@@ -707,7 +708,7 @@ Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a 
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 71,215 (Ukraine) (as of 21 May 2023)<br>
+_refugees (country of origin)_: 50,625 (Ukraine) (as of 5 June 2023)<br>
 _stateless persons_: 70,604 (2022); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

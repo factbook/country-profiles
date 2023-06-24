@@ -358,7 +358,7 @@ _chief of mission_: Ambassador Reema Bint Bandar Bin Sultan&nbsp;AL SAUD (since 
 _chancery_: 601 New Hampshire Avenue NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 342-3800<br>
 _FAX_: [1] (202) 295-3625<br>
-_email address and website_: <br>info@saudiembassy.net<br><br>https://www.saudiembassy.net/<br>
+_email address and website_: <br>info@saudiembassy.net; Saudisusemb@mofa.gov.sa<br><br>https://www.saudiembassy.net/<br>
 _consulate(s) general_: Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>

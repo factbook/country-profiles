@@ -357,7 +357,7 @@ _chief of mission_: Ambassador Jeff Gongoer DOWANA (since 12 December 2022)<br>
 _chancery_: 5201 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 723-0437<br>
 _FAX_: [1] (202) 723-0436<br>
-_email address and website_: <br>info@liberiaemb.org<br><br>http://www.liberianembassyus.org/<br>
+_email address and website_: <br>info@liberiaembus.org<br><br>http://www.liberianembassyus.org/<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -687,5 +687,5 @@ the International Maritime Bureau reported one incident in the territorial and o
 <p><em>Liberia-Guinea</em>: none identified</p> <p><em>Liberia-Sierra Leone</em>: none identified</p><br>
 
 **Illicit drugs**<br>
-<p>not a significant transit country for illicit narcotics but proximity to major drug routes contribute to trafficking; not a significant producer of illicit narcotics; local drug use involves marijuana, heroin, cocaine, the synthetic opioid tramadol, and amphetamine-type stimulants</p><br>
+<p>not a significant transit country for illicit narcotics bound for the United States or Europe; not a key producer of illicit drugs; proximity to major drug transit routes contribute to trafficking cocaine and heroin, to and through Liberia and other West African countries; local drug use involves locally grown cannabis, heroin (mostly smoked), cocaine (snorted), and more recently kush (Cannabis Indic’s type flower), mixed with different substances including heroin or synthetic DMT</p><br>
 

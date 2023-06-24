@@ -593,6 +593,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 0.3% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 37 (2023)<br>
+_Number of nuclear reactors under construction_: 3<br>
+_Net capacity of operational nuclear reactors_: 27.73GW (2021)<br>
+_Percent of total electricity production_: 20.7% (2021)<br>
+_Percent of total energy produced_: 3.6% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 4<br>
+
 **Coal**<br>
 _production_: 447.332 million metric tons (2020 est.)<br>
 _consumption_: 266.038 million metric tons (2020 est.)<br>
@@ -733,7 +741,7 @@ prior to Russia's invasion of Ukraine in February 2022, approximately 850,000 ac
 <strong>note 1: </strong>in December 2022, the Russian Government announced a target level of 1.15 million total troops and subsequently announced further plans to expand the size of the armed forces to 1.5 million, but did not provide a timeline<br><br><strong>note 2: </strong>Russia was estimated to have as many as 50,000 private military contractors fighting in Ukraine as of early 2023<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Russian Federation's military and paramilitary services are equipped with domestically produced weapons systems, although in recent years Russia has imported limited amounts of military hardware from several countries, including Czechia, France, Iran, Israel, Italy, Turkey, and Ukraine; the Russian defense industry is capable of designing, developing, and producing a full range of advanced air, land, missile, and naval systems; Russia is the world's second largest exporter of military hardware (2022)<br>
+the Russian Federation's military and paramilitary services are equipped with domestically produced weapons systems, although in recent years Russia has imported limited amounts of military hardware from external suppliers; the Russian defense industry is capable of designing, developing, and producing a full range of advanced air, land, missile, and naval systems; Russia is the world's second largest exporter of military hardware (2023)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory service for men; 18-40 for voluntary/contractual service; women and non-Russian citizens (18-30) may volunteer; men are registered for the draft at 17 years of age; 12-month service obligation (Russia offers the option of serving on a 24-month contract instead of completing a 12-month conscription period); reserve obligation for non-officers to age 50; enrollment in military schools from the age of 16 (2023)<br>
@@ -766,5 +774,5 @@ _tier rating_: Tier 3 &mdash; Russia does not fully meet the minimum standards f
 _trafficking profile_: human traffickers exploit domestic and foreign victims in Russia, and Russians abroad; although labor trafficking is the predominant problem, sex trafficking also occurs; victims from Russia and other countries in Europe, Central Asia, Southeast Asia, China, and North Korea are subjected to forced labor in Russia&rsquo;s construction, manufacturing, agriculture, maritime, grocery and retail store, restaurant, and domestic services industries, as well as forced begging and drug manufacturing and trafficking; the government increased the use of convict labor to offset a shortage of labor migrants; Russian women and children were reported to be victims of sex trafficking in Russia, Northeast Asia, Europe, Central Asia, Africa, the United States, and the Middle East; Russian-led forces in Syria reportedly recruit Syrian children to fight in Libya, and Russian-led forces in Ukraine reportedly forcibly conscript adults to fight against their country and recruit children for fighting or support roles in eastern Ukraine; Ukrainians forcibly displaced to Russia following the invasion of Ukraine, and Ukrainians in Russian-controlled eastern Ukraine, are highly vulnerable to trafficking (2022)<br>
 
 **Illicit drugs**<br>
-<p>a destination country for Afghan opium and heroin; a transit country for cocaine from South America, especially Ecuador to Europe, Belgium and Netherlands; synthetic drugs are produced in clandestine drug laboratories throughout the country; cannabis cultivated in Russian Far East and the North Caucasus; the majority of hashish is smuggled in from Northern Africa</p><br>
+<p>a destination country for heroin and other Afghan opiates; a transit country for cocaine from South America, especially Ecuador to Europe, Belgium and Netherlands; synthetic drugs are produced in clandestine drug laboratories throughout the country; marijuana cultivated in Russian Far East and the North Caucasus; the majority of hashish is smuggled in from Northern Africa</p> <p> </p><br>
 

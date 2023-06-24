@@ -362,7 +362,7 @@ _chief of state_: President Arif ALVI (since 9 September 2018)<br>
 _head of government_: Prime Minister Shehbaz SHARIF (since 11 April 2022); former Prime Minister Imran KHAN on 10 April 2022 lost a no-confidence vote in the National Assembly<br>
 _cabinet_: Cabinet appointed by the president upon the advice of the prime minister<br>
 _elections/appointments_: president indirectly elected by the Electoral College consisting of members of the Senate, National Assembly, and provincial assemblies for a 5-year term (limited to 2 consecutive terms); election last held on 4 September 2018 (next to be held in 2023); prime minister elected by the National Assembly on 11 April 2022<br>
-_election results_: <em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br>
+_election results_: <p><em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br><br><em>2013:</em> Mamnoon HUSSAIN elected president; Mamnoon HUSSAIN (PML-N) 432 votes, Wajihuddin AHMED (PTI) 77 votes</p><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (100 seats; members indirectly elected by the 4 provincial assemblies and the federal capital territory indirectly elected by the National Assembly using proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>
@@ -592,6 +592,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 0.8% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 6 (2023)<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 3.26GW (2023)<br>
+_Percent of total electricity production_: 10.6% (2021)<br>
+_Percent of total energy produced_: 8.7% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 0<br>
+
 **Coal**<br>
 _production_: 4.855 million metric tons (2020 est.)<br>
 _consumption_: 21.012 million metric tons (2020 est.)<br>
@@ -752,5 +760,5 @@ _IDPs_: 104,000 (primarily those who remain displaced by counter-terrorism and c
 _stateless persons_: 48 (2022)<br>
 
 **Illicit drugs**<br>
-<p>minor cultivator of opium poppy and cannabis with 1,400 hectares of poppy cultivated 2016; one of the world’s top transit corridors for opiates and cannabis products along with Afghanistan and Iran; precursor chemicals also pass through Pakistan as a major transit point for global distribution</p> <p> </p><br>
+<p>one of the world’s top transit corridors for opiates and cannabis products trafficked with Afghanistan and Iran; increased synthetic drug smuggling primarily methamphetamine; a major source of precursor or essential chemicals used in the production of heroin and amphetamine-type stimulants</p><br>
 

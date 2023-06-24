@@ -343,10 +343,10 @@ none; political parties are banned<br>
 ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OIF (observer), OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Yusif bin Mani Said Ahmed al UTAYBA (since 28 July 2008)<br>
+_chief of mission_: Ambassador Yousef Al Otaiba (since 28 July 2008)<br>
 _chancery_: 3522 International Court NW, Suite 400, Washington, DC 20008<br>
 _telephone_: [1] (202) 243-2400<br>
-_FAX_: [1] (202) 243-2432<br>
+_FAX_: [1] (202) 243-2408<br>
 _email address and website_: <br>info@uaeembassy-usa.org<br><br>https://www.uae-embassy.org/<br>
 _consulate(s) general_: Boston, Los Angeles, New York<br>
 
@@ -545,6 +545,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 3 (2023)<br>
+_Number of nuclear reactors under construction_: 1<br>
+_Net capacity of operational nuclear reactors_: 4.01GW (2023)<br>
+_Percent of total electricity production_: 1.3% (2021)<br>
+_Percent of total energy produced_: 0.17% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 0<br>
+
 **Coal**<br>
 _production_: 0 metric tons (2020 est.)<br>
 _consumption_: 2.563 million metric tons (2020 est.)<br>
@@ -693,5 +701,5 @@ the UAE Armed Forces (UAEAF) are responsible for external defense and supporting
 _stateless persons_: 5 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
-a transshipment point for illegal narcotics and a pass-through for drug proceeds; numerous exchange houses and general trading companies increase potential for money laundering; major source of precursor chemicals used in the production of illicit narcotics<br>
+major source of precursor chemicals used in the production of illicit narcotics<br>
 

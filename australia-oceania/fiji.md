@@ -337,7 +337,7 @@ ACP, ADB, AOSIS, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC,
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Aporosa BABAKOBUA<br>
 _chancery_: 1707 L Street NW, Suite 200, Washington, DC 20036<br>
-_telephone_: [1] (202) 466-8320<br>
+_telephone_: [1] (917) 208-4560<br>
 _FAX_: [1] (202) 466-8325<br>
 _email address and website_: <br>info@FijiEmbassyDC.com<br><br>https://www.fijiembassydc.com/<br>
 
@@ -661,7 +661,7 @@ Republic of Fiji Military Force (RFMF): Land Force Command, Maritime Command; Fi
 approximately 4,000 active personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RFMF is lightly armed and equipped; Australia has provided patrol boats and a few armored personnel carriers; it also provides logistical support for RFMF regional or UN operations; in recent years, China has provided construction equipment and military vehicles (2022)<br>
+the RFMF is lightly armed and equipped; Australia has provided patrol boats and a few armored personnel carriers; it also provides logistical support for RFMF regional or UN operations; in recent years, China has provided construction equipment and military vehicles (2023)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; mandatory retirement at age 55 (2022)<br>

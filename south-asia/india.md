@@ -364,7 +364,7 @@ _chief of state_: President Droupadi MURMU (since 25 July 2022); Vice President 
 _head of government_: Prime Minister Narendra MODI (since 26 May 2014)<br>
 _cabinet_: Union Council of Ministers recommended by the prime minister, appointed by the president<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 18 July 2022 (next to be held in July 2027); vice president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 5 August 2022 (next to be held in August 2027); following legislative elections, the prime minister is elected by Lok Sabha members of the majority party<br>
-_election results_: <br>2022: Droupadi MURMU elected president; percent of electoral college vote - Droupadi MURMU (BJP) 64%, Yashwant SINHA (AITC) 35.9%; Jagdeep DHANKHAR elected vice president; percent of electoral college vote - Jagdeep DHANKHAR (BJP) 74.4%, Margaret ALVA (INC) 25.6%<br>2017: Ram Nath KOVIND elected president; percent of electoral college vote - Ram Nath KOVIND (BJP) 65.6%, Meira KUMAR (INC) 34.4%; Venkaiah NAIDU elected vice president; percent of electoral college vote - Venkaiah NAIDU (BJP) 67.9%, Gopal-krishna GANDHI 32.1%<br>
+_election results_: <br><em>2022:</em> Droupadi MURMU elected president; percent of electoral college vote - Droupadi MURMU (BJP) 64%, Yashwant SINHA (AITC) 35.9%; Jagdeep DHANKHAR elected vice president; percent of electoral college vote - Jagdeep DHANKHAR (BJP) 74.4%, Margaret ALVA (INC) 25.6%<br><br><em>2017:</em> Ram Nath KOVIND elected president; percent of electoral college vote - Ram Nath KOVIND (BJP) 65.6%, Meira KUMAR (INC) 34.4%; Venkaiah NAIDU elected vice president; percent of electoral college vote - Venkaiah NAIDU (BJP) 67.9%, Gopal-krishna GANDHI 32.1%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Sansad consists of:<br>Council of States or Rajya Sabha (245 seats; 233 members indirectly elected by state and territorial assemblies by proportional representation vote and 12 members appointed by the president; members serve 6-year terms with one-third of the membership renewed every 2 years at various dates)<br>House of the People or Lok Sabha (545 seats; 543 members directly elected in single-seat constituencies by simple majority vote and 2 appointed by the president; members serve 5-year terms)<br>
@@ -467,7 +467,7 @@ _exports of goods and services_: 19.1% (2017 est.)<br>
 _imports of goods and services_: -22% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, rice, wheat, buffalo milk, milk, potatoes, vegetables, bananas, maize, mangoes/guavas<br>
+sugarcane, rice, wheat, buffalo milk, milk, potatoes, vegetables, bananas, maize, mangoes/guavas<br>
 
 **Industries**<br>
 textiles, chemicals, food processing, steel, transportation equipment, cement, mining, petroleum, machinery, software, pharmaceuticals<br>
@@ -593,6 +593,14 @@ _hydroelectricity_: 10.7% of total installed capacity (2020 est.)<br>
 _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 2.3% of total installed capacity (2020 est.)<br>
+
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 19 (2023)<br>
+_Number of nuclear reactors under construction_: 8<br>
+_Net capacity of operational nuclear reactors_: 6.29GW (2023)<br>
+_Percent of total electricity production_: 3% (2021)<br>
+_Percent of total energy produced_: 2.7% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 0<br>
 
 **Coal**<br>
 _production_: 743.214 million metric tons (2020 est.)<br>
@@ -760,5 +768,5 @@ _IDPs_: 506,000 (armed conflict and intercommunal violence) (2021)<br>
 _stateless persons_: 20,330 (2022)<br>
 
 **Illicit drugs**<br>
-<p>source and transit point for illicit narcotics and precursor chemicals bound for Europe, Africa, Southeast Asia, and North America; in 2020 India exported over $19 billion of illegal pharmaceutical drugs; illegal opium poppy growing in the Northeast; traffickers retool commercial chemical factories to produce large volumes of ephedrine, methamphetamine, and other drugs illicitly</p> <p> </p><br>
+<p>India is a source, transit, and destination for illicit narcotics and precursor chemicals; drug abuse in India growing, facilitated by illicit narcotics and the availability of over-the-counter medicines; commonly abused substances in India include heroin, cannabis, and cocaine, with growing use of pharmaceutical drugs in recent years including tramadol, opioids, and MDMA (ecstasy) analogues; largest producer of generic drugs in the world which is also used to produce illicit synthetic drugs such as pharmaceutical opioids, methamphetamine, heroin, MDMA, and ketamine</p><br>
 

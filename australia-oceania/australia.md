@@ -378,7 +378,7 @@ ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Kevin Michael RUDD (since 19 April 2023)<br>
-_chancery_: 1601 Massachusetts Avenue NW, Washington, DC 20036 (new chancery building under construction; formal opening scheduled for late 2023)<br>temporary location: 1145 17th St NW, Washington DC, 20036-4707<br>
+_chancery_: temporary location: 1145 17th St NW, Washington DC, 20036-4707<br><br>note - new chancery building under construction at 1601 Massachusetts Avenue NW, Washington, DC 20036; formal opening scheduled for late 2023<br>
 _telephone_: [1] (202) 797-3000<br>
 _FAX_: [1] (202) 797-3168<br>
 _email address and website_: <br>https://usa.embassy.gov.au/<br>
@@ -750,5 +750,5 @@ _refugees (country of origin)_: 12,180 (Iran), 8,741 (Afghanistan), 5,042 (Pakis
 _stateless persons_: 7,649 (2022)<br>
 
 **Illicit drugs**<br>
-Tasmania is one of the world's major suppliers of licit opiate products; government maintains strict controls over areas of opium poppy cultivation and output of poppy straw concentrate; major consumer of cocaine and amphetamines<br>
+<p> amphetamine-type stimulants (ATS) and cannabis dominate the domestic illicit drug market and shown potential for expansion, with ATS accounting for the preponderance of detected imports; domestic heroin market is small, but also shown some growth; as of 2020, Malaysia was the primary embarkation point for heroin and ATS imports other than MDMA (ecstasy) for which South Korea was the primary embarkation point although MDMA is increasingly being produced domestically with number of detected labs nearly doubled.  The US is the principal embarkation point for imported cannabis; Tasmania is one of the world's major suppliers of licit opiate products; government maintains strict controls over areas of opium poppy cultivation and output of poppy straw concentrate; major consumer of cocaine and amphetamines</p><br>
 

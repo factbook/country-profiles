@@ -367,7 +367,7 @@ _chief of mission_: Ambassador Pjer SIMUNOVIC (since 8 September 2017)<br>
 _chancery_: 2343 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 588-5899<br>
 _FAX_: [1] (202) 588-8936; [1] (202) 588-8937<br>
-_email address and website_: <br>washington@mvep.hr<br><br>http://us.mvep.hr/en/<br>
+_email address and website_: <br>washington@mvep.hr<br><br>https://mvep.gov.hr/us/en<br>
 _consulate(s) general_: Chicago, Los Angeles, New York, Seattle (WA), Washington, DC<br>
 _consulate(s)_: Anchorage (AL), Houston, Kansas City (MO), New Orleans, Pittsburgh (PA)<br>
 
@@ -722,10 +722,10 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Croatia joined the Schengen Zone on 1 January 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,538 (Ukraine) (as of 19 May 2023)<br>
+_refugees (country of origin)_: 22,820 (Ukraine) (as of 2 June 2023)<br>
 _stateless persons_: 2,889 (2022)<br>
-<strong>note: </strong>796,769 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
+<strong>note: </strong>807,324 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 
 **Illicit drugs**<br>
-<p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p> <p> </p><br>
+<p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine destined for European markets</p> <p> </p><br>
 

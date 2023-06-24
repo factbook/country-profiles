@@ -587,5 +587,5 @@ _tier rating_: Tier 3 &mdash; Macau does not fully meet the minimum standards fo
 _trafficking profile_: human traffickers exploit foreign victims in Macau; traffickers recruit most victims from mainland China, Russia, and Southeast Asia using false job offers; adult and child victims are forced into commercial sex in casinos, hotels, and private homes, and sometimes have their documents confiscated; Casinos and other establishments reportedly allow staff to partner with criminal networks to facilitate sex trafficking; migrant construction and domestic workers, primarily from mainland China, Indonesia, and the Philippines may be vulnerable to forced labor in Macau (2022)<br>
 
 **Illicit drugs**<br>
-<p>asian organized crime groups involved in drug trafficking and money laundering</p><br>
+<p>Asian organized crime groups involved in drug trafficking and money laundering</p> <p> </p><br>
 

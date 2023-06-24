@@ -598,6 +598,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 1.6% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 55 (2023)<br>
+_Number of nuclear reactors under construction_: 21<br>
+_Net capacity of operational nuclear reactors_: 53.18GW (2021)<br>
+_Percent of total electricity production_: 5.02% (2021)<br>
+_Percent of total energy produced_: 3% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 0<br>
+
 **Coal**<br>
 _production_: 4,314,681,000 metric tons (2020 est.)<br>
 _consumption_: 4,506,387,000 metric tons (2020 est.)<br>
@@ -762,5 +770,5 @@ _tier rating_: Tier 3 &mdash; China does not fully meet the minimum standards fo
 _trafficking profile_: human traffickers exploit domestic and foreign victims in China, as well as Chinese people abroad; Chinese men, women, and children are victims of forced labor and sex trafficking in more than 80 countries; traffickers also use China as a transit point to subject foreign individuals to trafficking in other countries throughout Asia and in international maritime industries; state-sponsored forced labor persists under the government&rsquo;s mass detention and political indoctrination campaign against Muslim and Turkic minorities in the Xinjiang Uyghur Autonomous Region; authorities in some localities subject families of men arbitrarily detained in Xinjiang to forced labor; highly organized criminal syndicates and local gangs subject Chinese women and girls to sex trafficking within China; women and girls from South Asia, Southeast Asia, and several countries in Africa experience forced labor in domestic service, forced concubinism leading to forced childbearing, and sex trafficking via forced and fraudulent marriage to Chinese men; African and Asian men reportedly experience conditions indicative of forced labor aboard Chinese-flagged fishing vessels; many North Korean refugees and asylum-seekers living in China illegally are particularly vulnerable to trafficking, while some of the women are forced into commercial sex, forced marriage, or forced labor; North Korea exploits some of its citizens in forced labor in China as part of its proliferation finance system (2022)<br>
 
 **Illicit drugs**<br>
-<p>a major source of precursor chemicals, new psychoactive substances (NPS), and synthetic drugs, including fentanyl precursors and methamphetamine;  PRC criminal organizations, transnational crime, and organizations from Mexico and Southeast Asia traffic licit precursor chemical components and illicit finished drugs within the PRC as well as to international markets; significant illicit drug consumption of methamphetamine and ketamine; a major destination and transit country for heroin produced in neighboring countries; the PRC remains a major source of NPS sold in North America and Europe  </p> <p> </p> (2021)<br>
+<p>a major source of precursor chemicals for narcotics such as fentanyl and methamphetamine, new psychoactive substances (NPS), and synthetic drugs; is a destination and transit country for methamphetamine and heroin produced in South east and Southwest Asia;  China remains a major source of precursor chemicals sold in North America via the internet and shipped to overseas customers; domestic use of synthetic drugs is prevalent; chemical alterations of drugs circumvent laws and hamper efforts to stem the flow of these</p> (2021)<br>
 

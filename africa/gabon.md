@@ -313,7 +313,7 @@ Independence Day, 17 August (1960)<br>
 
 **Constitution**<br>
 _history_: previous 1961; latest drafted May 1990, adopted 15 March 1991, promulgated 26 March 1991<br>
-_amendments_: proposed by the president of the republic, by the Council of Ministers, or by one third of either house of Parliament; passage requires Constitutional Court evaluation, at least two-thirds majority vote of two thirds of the Parliament membership convened in joint session, and approval in a referendum; constitutional articles on Gabon&rsquo;s democratic form of government cannot be amended; amended several times, last in 2020<br>
+_amendments_: proposed by the president of the republic, by the Council of Ministers, or by one third of either house of Parliament; passage requires Constitutional Court evaluation, at least two-thirds majority vote of two thirds of the Parliament membership convened in joint session, and approval in a referendum; constitutional articles on Gabon&rsquo;s democratic form of government cannot be amended; amended several times, last in 2023 (presidential term reduced to 5 years and election reduced to a single vote)<br>
 
 **Legal system**<br>
 mixed legal system of French civil law and customary law<br>
@@ -334,13 +334,13 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Ali BONGO Ondimba (since 16 October 2009); Vice President Rose Christiane Ossouka RAPONDA (since 9 January 2023)<br>
 _head of government_: Prime Minister Alain Claude BILIE-BY-NZE (since 9 January 2023)<br>
 _cabinet_: Council of Ministers appointed by the prime minister in consultation with the president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (no term limits); election last held on 27 August 2016 (next to be held in August 2023); prime minister appointed by the president<br>
+_elections/appointments_: president directly elected by plurality vote for a 5-year term (no term limits); election last held on 27 August 2016 (next to be held on 2 September 2023); prime minister appointed by the president<br>
 _election results_: <p><em>2016: </em>Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br><br><em>2009: </em>Ali BONGO Ondimba elected president; percent of vote - Ali BONGO Ondimba (PDG) 41.7%, Andre MBA OBAME (independent) 25.9%, Pierre MAMBOUNDOU (UPG) 25.2%, Zacharie MYBOTO (UGDD) 3.9%, other 3.3%</p> <p> </p><br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (102 seats; members indirectly elected by municipal councils and departmental assemblies by absolute majority vote in 2 rounds if needed; members serve 6-year terms)<br>National Assembly or Assemblee Nationale (143 seats; members elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 5-year terms)<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (67 seats; 52 members indirectly elected in single and multi-seat constituencies by municipal councils and departmental assemblies by absolute majority vote in 2 rounds if needed, and 15 members appointed by the president; all members serve 6-year terms)<br>National Assembly or Assemblee Nationale (143 seats; members directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
 _elections_: <p>Senate - last held on 30 January and 6 February 2021 (next to be held in December 2026)<br>National Assembly - held in 2 rounds on 6 and 27 October 2018 (next to be held in 2023)</p> <p> </p><br>
-_election results_: <p>Senate - percent of vote by party - NA; seats by party - PDG 81, CLR 7, PSD 2, ADERE-UPG 1, UPG 1, PGCI 1, independent 7; composition - NA<br><br>National Assembly - percent of vote by party - NA; seats by party - PDG 98, The Democrats or LD 11, RV 8, Social Democrats of Gabon 5, RH&amp;M 4, other 9, independent 8; composition - men 121, women 22, percent of women 15.4%; note - total Parliament percent of women NA</p> <p> </p><br>
+_election results_: <p>Senate - percent of vote by party - NA; seats by party - PDG 81, CLR 7, PSD 2, ADERE-UPG 1, UPG 1, PGCI 1, independent 7; composition - men 51, women 16, percent of women 23.9%<br><br>National Assembly - percent of vote by party - NA; seats by party - PDG 98, The Democrats or LD 11, RV 8, Social Democrats of Gabon 5, RH&amp;M 4, other 9, independent 8; composition - men 122, women 21, percent of women 14.7%; note - total Parliament percent of women 17.6%</p> <p> </p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 4 permanent specialized supreme courts - Supreme Court or Cour de Cassation, Administrative Supreme Court or Conseil d'Etat, Accounting Supreme Court or Cour des Comptes, Constitutional Court or Cour Constitutionnelle, and the non-permanent Court of State Security, initiated only for cases of high treason by the president and criminal activity by executive branch officials)<br>
@@ -348,7 +348,7 @@ _judge selection and term of office_: appointment and tenure of Supreme, Adminis
 _subordinate courts_: Courts of Appeal; county courts; military courts<br>
 
 **Political parties and leaders**<br>
-Circle of Liberal Reformers or CLR [Gen. Jean-Boniface ASSELE]<br>Democratic and Republican Alliance or ADERE [DIDJOB Divungui di Ndinge]<br>Gabonese Democratic Party or PDG [Ali BONGO Ondimba]<br>Independent Center Party of Gabon or PGCI [Luccheri GAHILA]<br>Legacy and Modernity Party or RH&amp;M<br>National Woodcutters' Rally - Rally for Gabon or RNB-RPG [Paul Mba ABESSOLE]<br>Restoration of Republican Values or RV<br>Social Democratic Party or PSD [Pierre Claver MAGANGA-MOUSSAVOU]<br>Social Democrats of Gabon <br>The Democrats or LD [Guy NZOUBA-NDAMA]<br>Union for the New Republic or UPRN [Louis Gaston MAYILA]<br>Union of Forces for Change or UFC [Jean PING]<br>Union of Gabonese People or UPG [Richard MOULOMBA]<br>
+Gabonese Democratic Party or PDG [Ali BONGO Ondimba]<br>Restoration of Republican Values or RV<br>The Democrats or LD [Guy NZOUBA-NDAMA]<br>
 Paul Mba Abessole<br>
 
 **International organization participation**<br>
@@ -682,13 +682,13 @@ Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka Gabonese Defense and 
 approximately 6,500 active duty troops including the Republican Guard and Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Gabonese military is lightly armed with a mix of equipment from a variety of suppliers including Brazil, China, France, Germany, and South Africa (2022)<br>
+the Gabonese military is lightly armed with a mix of equipment from a variety of suppliers including Brazil, China, France, Germany, and South Africa (2023)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service; no conscription (2023)<br>
 
 **Military - note**<br>
-the Gabonese military is a small and lightly-armed force that is responsible for both external and internal security; members of the military attempted a failed coup in 2019; the Gabonese military has benefited from cooperation with international partners, particularly the French military, which has maintained a long-term presence in Gabon; the Army&rsquo;s core forces are the Republican Guard and an airborne infantry battalion, which are supported by several small regionally-based infantry units; the Gendarmerie has regionally-based &ldquo;legions,&rdquo; as well as mobile forces, a national parks security unit, and a special intervention group; the Air Force has a small number of older French-made fighter aircraft and some combat helicopters, also mostly of French origin; the Navy has a small force of patrol boats (2023)<br>
+the Gabonese military is a small and lightly-armed force that is responsible for both external and internal security; some members of the military attempted a failed coup in 2019; the French military has maintained a long-term presence in Gabon; the Army&rsquo;s core forces are the Republican Guard and an airborne infantry battalion, which are supported by several small regionally-based infantry units; the Gendarmerie has regionally-based &ldquo;legions,&rdquo; as well as mobile forces, a national parks security unit, and a special intervention group; the Air Force has a small number of older French-made fighter aircraft and some combat helicopters, also mostly of French origin; the Navy has a small force of patrol boats (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reported no incidents in 2022 in the waters off Gabon; the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; past incidents have been reported where vessels were attacked and crews kidnapped; these incidents showed that the pirates / robbers in the area are well armed and violent; pirates have robbed vessels and kidnapped crews for ransom; in the past, product tankers were hijacked and cargo stolen; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 3 January 2023, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>

@@ -555,6 +555,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 1 (2023)<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 0.42GW (2023)<br>
+_Percent of total electricity production_: 25.3% (2021)<br>
+_Percent of total energy produced_: 52.3% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 0<br>
+
 **Coal**<br>
 _production_: 0 metric tons (2020 est.)<br>
 _consumption_: 12,000 metric tons (2020 est.)<br>
@@ -690,5 +698,5 @@ _refugees (country of origin)_: 27,929 (Azerbaijan) (mid-year 2022)<br>
 _stateless persons_: 816 (2022)<br>
 
 **Illicit drugs**<br>
-<p>a transit country for illicit drugs with its location between source countries Afghanistan and Iran and the markets of Europe and Russia</p><br>
+<p>a transit country for illicit drugs with its location between source countries Afghanistan and Iran and the markets of Europe and Russia.</p> <p> </p><br>
 

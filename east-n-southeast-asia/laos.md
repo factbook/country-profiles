@@ -366,9 +366,9 @@ ADB, ARF, ASEAN, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFR
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sisavath&nbsp;INPHACHANH (since 7 June 2022)<br>
 _chancery_: 2222 S Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 328-9148; [1] (202) 332-6416<br>
+_telephone_: [1] (202) 332-6416<br>
 _FAX_: [1] (202) 332-4923<br>
-_email address and website_: <br>embasslao@gmail.com; laoemb@verizon.net<br><br>https://laoembassy.com/<br>
+_email address and website_: <br>embasslao@gmail.com<br><br>https://laoembassy.com/<br>
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -663,7 +663,7 @@ RDPL<br>
 
 **Railways**<br>
 _total_: 422 km (2023)<br>
-_standard gauge_: 422 km (2023)<br>
+_standard gauge_: 422 km (2023) 1.435-m gauge (422 km overhead electrification)<br>
 
 **Roadways**<br>
 _total_: 39,586 km (2009)<br>
@@ -708,5 +708,5 @@ the LPAF’s primary missions are border and internal security, including counte
 <p><em>Laos-Burma</em>: none identified</p> <p><em>Laos-Cambodia</em>: in 2021, the two countries agreed to increase efforts to combat drug trafficking and other transnational crimes and to complete the last 14% of their border demarcation</p> <p><em>Laos-Cambodia-Vietnam</em>: Cambodia and Vietnam are concerned about Laos' extensive plans for upstream dam construction and the potential harm it poses to fisheries and farming downstream</p> <p><em>Laos-China</em>: concern among Mekong River Commission members that China's construction of eight dams on the Upper Mekong River and construction of more dams on its tributaries will affect water levels, sediment flows, and fisheries</p> <p><em>Laos-Thailand</em>: talks continue as of 2018 on completion of demarcation with Thailand but disputes remain over islands in the Mekong River</p> <p>Laos-Vietnam: Laos and Vietnam completed border demarcation in 2016</p> <p> </p> <p> </p><br>
 
 **Illicit drugs**<br>
-<p>Bokeo Province part of the “Golden Triangle,” a notorious drug production and transit area; remains a poppy cultivator and source of illicit opium and a transit hub for other illicit drugs such as amphetamine-type stimulants (ATS) and chemical precursors; estimate of 4,925 ha of opium poppy cultivated in Laos in 2018</p><br>
+<p>Laos remains a key transit route for drug trafficking and the movement of precursor chemicals; opium produced is typically smuggled out of the country and refined elsewhere and not trafficked in significant quantities to the United States</p><br>
 

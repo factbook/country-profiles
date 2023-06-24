@@ -331,7 +331,7 @@ _chief of state_: vacant<br>
 _head of government_: Caretaker Prime Minister Najib MIQATI (since 20 September 2021)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president and Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament with two-thirds majority vote in the first round and if needed absolute majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016 (presidential election ongoing as of mid-May 2023); prime minister appointed by the president in consultation with Parliament; deputy prime minister determined during cabinet formation<br>
-_election results_: <br><em>2023:</em> on 19 January 2023, Parliament failed in its eleventh session attempt to elect a president<br><em><br>2016:</em> Michel AWN elected president in second round; Parliament vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because Parliament lacked the necessary quorum of 86 members to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
+_election results_: <br><em>2023:</em> on 14 June 2023, Parliament failed in its twelfth session attempt to elect a president<br><em><br>2016:</em> Michel AWN elected president in second round; Parliament vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because Parliament lacked the necessary quorum of 86 members to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
 
 **Legislative branch**<br>
 _description_: unicameral Lebanese Parliament or Majlis al-Nuwab in Arabic, Chambre des d&eacute;put&eacute;s in French (128 seats; members directly elected in multi-member constituencies by open list proportional representation vote, apportioned evenly between Christian and Muslims; members serve 4-year terms)<br>
@@ -712,5 +712,5 @@ _IDPs_: 7,000 (2020)<br>
 _stateless persons_: undetermined (2016); note - tens of thousands of persons are stateless in Lebanon, including many Palestinian refugees and their descendants, Syrian Kurds denaturalized in Syria in 1962, children born to Lebanese women married to foreign or stateless men; most babies born to Syrian refugees, and Lebanese children whose births are unregistered<br>
 
 **Illicit drugs**<br>
-source country for amphetamine tablets destined for Saudi Arabia, Qatar, United Arab Emirates, Libya and Sudan; in 2021 authorities in various Near Eastern countries seized millions of captagon tablets that originated in or transited to Lebanon, prompting Lebanese authorities to conduct raids on captagon production facilities and trafficking rings within the country<br>
+<p>source country for amphetamine tablets destined for Saudi Arabia, Qatar, United Arab Emirates, Libya and Sudan; source for captagon    </p><br>
 

@@ -89,7 +89,7 @@ _noun_: Central African(s)<br>
 _adjective_: Central African<br>
 
 **Ethnic groups**<br>
-Baya 28.8%, Banda 22.9%, Mandjia 9.9%, Sara 7.9%, M'Baka-Bantu 7.9%, Arab-Fulani (Peul) 6%, Mbum 6%, Ngbanki 5.5%, Zande-Nzakara 3%, other Central African Republic ethnic groups 2%, non-Central African Republic ethnic groups .1% (2003 est.)<br>
+Baya 28.8%, Banda 22.9%, Mandjia 9.9%, Sara 7.9%, M'Baka-Bantu 7.9%, Arab-Fulani (Peuhl) 6%, Mbum 6%, Ngbanki 5.5%, Zande-Nzakara 3%, other Central African Republic ethnic groups 2%, non-Central African Republic ethnic groups .1% (2003 est.)<br>
 
 **Languages**<br>
 French (official), Sangho (lingua franca and national language), tribal languages<br>
@@ -330,7 +330,7 @@ Republic Day, 1 December (1958)<br>
 
 **Constitution**<br>
 _history_: several previous; latest (interim constitution) approved by the Transitional Council 30 August 2015, adopted by referendum 13-14 December 2015, ratified 27 March 2016<br>
-_amendments_: proposals require support of the government, two thirds of the National Council of Transition, and assent by the "Mediator of the Central African" crisis; passage requires at least three-fourths majority vote by the National Council membership; non-amendable constitutional provisions include those on the secular and republican form of government, fundamental rights and freedoms, amendment procedures, or changes to the authorities of various high-level executive, parliamentary, and judicial officials<br>
+_amendments_: proposals require support of the government, two thirds of the National Council of Transition, and assent by the "Mediator of the Central African" crisis; passage requires at least three-fourths majority vote by the National Council membership; non-amendable constitutional provisions include those on the secular and republican form of government, fundamental rights and freedoms, amendment procedures, or changes to the authorities of various high-level executive, parliamentary, and judicial officials; note - constitutional referendum on abolishing presidential term limits scheduled for 30 July 2023<br>
 
 **Legal system**<br>
 civil law system based on the French model<br>
@@ -356,7 +356,7 @@ _election results_: <em>2020/2021</em>: Faustin-Archange TOUADERA reelected pres
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (140 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
-_elections_: first round last held on 27 December 2020; note - on election day, voting in many electoral areas was disrupted by armed groups; on 13 February 2021, President TOUADERA announced that a new first round of elections will be held on 27 February for those areas controlled by armed groups and and second round on 14 March<br>
+_elections_: first round last held on 27 December 2020; note - on election day, voting in many electoral areas was disrupted by armed groups; on 13 February 2021, President TOUADERA announced that a new first round of elections will be held on 27 February for those areas controlled by armed groups and second round on 14 March<br>
 _election results_: December 2015 election: percent of vote by party - NA; seats by party - UNDP 16, URCA 11, RDC 8, MLPC 10, KNK 7, other 28, independent 60; composition as of March 2022 - men 122, women 18, percent of women 12.9%<br>
 
 **Judicial branch**<br>
@@ -375,7 +375,7 @@ _chief of mission_: Ambassador Martial NDOUBOU (since 17 September 2018)<br>
 _chancery_: 2704 Ontario Road NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 483-7800<br>
 _FAX_: [1] (202) 332-9893<br>
-_email address and website_: <br>pc@usrcaembassy.org<br><br>https://www.usrcaembassy.org/<br>
+_email address and website_: <br>pc@usrcaembassy.org; centrafricwashington@yahoo.com<br><br>https://www.usrcaembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Patricia A. MAHONEY (since 8 April 2022)<br>
@@ -663,8 +663,8 @@ Nola (Sangha)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includes an air squadron, Escadrille Centrafricaine); Ministry of Interior: National Gendarmerie (Gendarmerie Nationale), National Police (2022)<br>
-<strong>note:</strong> in 2019-2021, the CAR created three Mixed Special Security units (Unités Spéciales Mixtes de Sécurité or USMS), regionally based battalion-sized units comprised of about 40% government and 60% rebel soldiers created to provide security along transportation corridors and at mining sites; the units are intended to be transitional in nature with a scheduled deployment time of two years<br>
+Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includes an air squadron, Escadrille Centrafricaine); Ministry of Interior: National Gendarmerie (Gendarmerie Nationale), National Police (2023)<br>
+<strong>note 1: </strong>the Special Republican Protection Group (Groupement Spécial Chargé de la Protection Républicaine or GSPR) is part of the Army per a March 2022 decree, but reports to the president; the GSPR provides protection to the head of state<br><strong><br>note 2:</strong> in 2019-2021, the CAR created three Mixed Special Security units (Unités Spéciales Mixtes de Sécurité or USMS), regionally based battalion-sized units comprised of about 40% government and 60% rebel soldiers created to provide security along transportation corridors and at mining sites; the units are intended to be transitional in nature with a scheduled deployment time of two years; in addition, since mid-2021 the FACA have frequently recruited local militias, mostly former anti-balaka fighters, whom they pay to help track and attack rebels hiding in the bush<br><br>
 
 **Military expenditures**<br>
 1.7% of GDP (2022 est.)<br>
@@ -674,7 +674,7 @@ Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includ
 1.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 8,000 FACA troops; up to 2,000 Gendarmerie; approximately 2,000 Mixed Special Security Units (2022)<br>
+information varies; up to 15,000 FACA troops (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FACA is lightly armed; most of the military's heavy weapons and equipment were destroyed or captured during the 2012–2014 civil war; prior to the war, most of its equipment was of French, Russian, or Soviet origin; in recent years, it has received small amounts of secondhand equipment from China and Russia (2023)<br>
@@ -684,7 +684,7 @@ the FACA is lightly armed; most of the military's heavy weapons and equipment we
 18 years of age for military service; no conscription (2021)<br>
 
 **Military - note**<br>
-the 2013 coup resulted in the institutional collapse of the FACA; its forces were overwhelmed and forced to flee to neighboring countries; it has been estimated that only 10% of the FACA returned after the coup, and it has struggled to rebuild in the years of instability since, despite considerable foreign assistance; significant portions of the country remain outside state control and are ungoverned, with the presence of multiple armed actors creating insecurity in much of the country <br><br>in late 2020 and early 2021, the Coalition des Patriotes pour le Change (CPC), a loose coalition of armed groups comprised largely of former Seleka and anti-Balaka fighters, attacked the capital Bangui; CAR Government forces, along with Russian private military contractors and Rwandan troops, repelled the attack but have not been able to stabilize the country; the CPC has retreated to its rear bases and into neighboring countries and continued conducting attacks; other armed groups are also active; forces on both sides have been accused of abuses and atrocities in the fighting <br><br>in 2018, the UN Security Council approved Russian security assistance for the CAR to help train and advise FACA personnel, as well as transport them to operational areas, provide logistical support, and assist with medical evacuation; in addition to teams of military trainers, Russia sent private military contractors, and as of 2022, as many as 2,000 were providing assistance to the FACA, as well as performing other security roles such as guarding mines and government officials; some Russian contractors and the CAR forces they supported have been accused of carrying out indiscriminate killings, using excessive force against civilians, and looting<br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; as of early 2023, MINUSCA had almost 17,000 personnel <br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016, providing advice, training, and educational programs to the country's security forces; since 2016, the EU mission has trained 5 territorial infantry battalions and 1 amphibious infantry battalion; the mission suspended operational training in 2021; France also provided assistance to the FACA before suspending its support, also in 2021 (2023)<br>
+the 2013 coup resulted in the institutional collapse of the Central African Armed Forces (FACA); its forces were overwhelmed and forced to flee to neighboring countries; it has been estimated that only 10% of the FACA returned after the coup, and it has struggled to rebuild in the years of instability since, despite considerable foreign assistance; significant portions of the country remain outside state control and are ungoverned, with the presence of multiple armed actors creating insecurity in much of the country <br><br>in late 2020 and early 2021, the Coalition des Patriotes pour le Change (CPC), a loose coalition of armed groups comprised largely of former Seleka and anti-Balaka fighters, attacked the capital Bangui; CAR Government forces, along with Russian private military contractors and Rwandan troops, repelled the attack but have not been able to stabilize the country; the CPC has retreated to its rear bases and into neighboring countries and continued conducting attacks; other armed groups are also active; forces on both sides have been accused of abuses and atrocities in the fighting <br><br>in 2018, the UN Security Council approved Russian security assistance for the CAR to help train and advise FACA personnel, as well as transport them to operational areas, provide logistical support, and assist with medical evacuation; in addition to teams of military trainers, Russia sent private military contractors, and as of 2022, as many as 2,000 were providing assistance to the FACA, as well as performing other security roles such as guarding mines and government officials; some Russian contractors and the CAR forces they supported have been accused of carrying out indiscriminate killings, using excessive force against civilians, and looting<br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; as of early 2023, MINUSCA had almost 17,000 personnel <br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016, providing advice, training, and educational programs to the country's security forces; since 2016, the EU mission has trained 5 territorial infantry battalions and 1 amphibious infantry battalion; the mission suspended operational training in 2021; France also provided assistance to the FACA before suspending its support, also in 2021 (2023)<br>
 
 ## Transnational Issues
 
@@ -692,6 +692,6 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,381 (Democratic Republic of Congo), 10,368 (refugees since 15 April 2023) (2023)<br>
+_refugees (country of origin)_: 6,632 (Democratic Republic of Congo), 10,368 (refugees since 15 April 2023) (2023)<br>
 _IDPs_: 483,074 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2023)<br>
 

@@ -357,7 +357,7 @@ _residency requirement for naturalization_: none<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Prime Minister, State Administration Council (SAC) Chair, Sr. Gen. MIN AUNG HLAING (since 1 August 2021);note - the military took over the government on 1 February 2021 and declared a state of emergency<br>
+_chief of state_: Prime Minister, State Administration Council (SAC) Chair, Sr. Gen. MIN AUNG HLAING (since 1 August 2021); note - the military took over the government on 1 February 2021 and declared a state of emergency<br>
 _head of government_: Prime Minister, State Administration Council (SAC) Chair, Sr. Gen. MIN AUNG HLAING (since 1 August 2021)<br>
 _cabinet_: Cabinet appointments shared by the president and the commander-in-chief; note - after 1 February, the military junta replaced the cabinet<br>
 _elections/appointments_: prior to the military takeover, president was indirectly elected by simple majority vote by the full Assembly of the Union from among 3 vice-presidential candidates nominated by the Presidential Electoral College (consists of members of the lower and upper houses and military members); the other 2 candidates become vice presidents (president elected for a 5-year term); election last held on 28 March 2018; the military junta pledged to hold new elections in 2023<br>
@@ -385,9 +385,9 @@ ADB, ARF, ASEAN, BIMSTEC, CP, EAS, EITI (candidate country), FAO, G-77, IAEA, IB
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires WIN Thet (since 22 June 2022)<br>
 _chancery_: 2300 S Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 332-3344; [1] (202) 332-4250<br>
+_telephone_: [1] (202) 332-3344; [1] (202) 332-4350<br>
 _FAX_: [1] (202) 332-4351<br>
-_email address and website_: <br>pyi.thayar@verizon.net; washington-embassy@mofa.gov.mm<br><br>http://www.mewashingtondc.com/wordpress/<br>
+_email address and website_: <br>pyi.thayar@verizon.net; washington-embassy@mofa.gov.mm<br><br>http://www.mewashingtondc.org<br>
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -740,5 +740,5 @@ _tier rating_: Tier 3 &mdash; Burma does not fully meet the minimum standards fo
 _trafficking profile_: human traffickers exploit men, women, and children through forced labor, and women and children in sex trafficking in Burma and abroad; Burmese men are forced to work domestically and abroad in fishing, manufacturing, forestry, agriculture, and construction; fishermen are lured into forced labor in remote waters and offshore by recruitment agencies in Burma and Southeast Asia; Burmese women increasingly are lured to China for marriage under false pretenses and are subjected to sex trafficking, forced concubinism and childbearing, and forced domestic labor; men, women, and children in ethnic minority areas are at increased risk of sex trafficking and forced labor in farming, manufacturing, and construction; men and boys are recruited locally by traffickers for forced labor in oil palm and rubber plantations, in mining, fishing, and bamboo, teak, and rice harvesting; some military personnel, civilian brokers, border guard officials, and ethnic armed groups continue to recruit child soldiers, particularly in conflict areas; discriminatory laws and hiring practices put LGBTQI+ individuals at higher risk for trafficking (2022)<br>
 
 **Illicit drugs**<br>
-<p>a major source of illicit methamphetamine and opiates; illicit import of precursor chemicals from China increased production and trafficking of synthetic drugs; second-largest opium poppy cultivator in Asia, with an estimated 20,200 hectares grown in 2019; “Yaba,” a tablet containing methamphetamine, caffeine, and other stimulants, is produced in Burma and trafficked regionally; ethnic armed organizations, military-affiliated militias, and transnational criminal organizations oversee billion dollar drug production and trafficking industry; drugs produced in Burma are trafficked beyond Southeast Asia to Australia, New Zealand, and Japan; not a major source or transit country for drugs entering the United States</p> <p> </p> (2021)<br>
+<p>source of precursor or essential chemicals used in the production of illicit narcotics; narcotics produced in Burma trafficked throughout the region, with routes extending beyond Southeast Asia to Australia, New Zealand, and Japan; second-largest opium poppy cultivator in Asia with an estimated 40,100 hectares grown in 2022; not a major source or transit country for drugs entering the United States; domestic consumption of synthetic drug cocktails such as “Happy Water” and “Wei Tiong” (mixtures of drugs including caffeine, methamphetamine, tramadol, and MDMA) popular among the younger population and domestic drug consumption  substantial and widespread.</p> <p> </p> <p> </p> (2021)<br>
 

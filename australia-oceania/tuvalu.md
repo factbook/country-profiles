@@ -321,10 +321,10 @@ ACP, ADB, AOSIS, C, FAO, IBRD, IDA, IFAD, IFRCS (observer), ILO, IMF, IMO, IOC, 
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant)<br>note - also Permanent Representative to UN; Tapugao FALEFOU presented his credentials to the Secretary General of the UN on 30 December 2022, but has not presented his credentials for Ambassador to the US as of 1 June 2023<br>
+_chancery_: 685 Third Avenue, Suite 1104, New York, NY 10017<br>
 _telephone_: [1] (212) 490-0534<br>
 _FAX_: [1] (212) 808-4975<br>
-_email address and website_: email - tuvalumission.un@gmail.com<br>web address - https://www.un.int/tuvalu/about<br>
-_embassy_: 685 Third Avenue, Suite 1104, New York, NY 10017<br>
+_email address and website_: <br>tuvalumission.un@gmail.com<br><br>https://www.un.int/tuvalu/about<br>
 note - the Tuvalu Permanent Mission to the UN serves as the Embassy<br>
 
 **Diplomatic representation from the US**<br>

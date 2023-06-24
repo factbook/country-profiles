@@ -313,7 +313,7 @@ _time difference_: UTC+5.75 (10.75 hours ahead of Washington, DC, during Standar
 _etymology_: name derives from the Kasthamandap temple that stood in Durbar Square; in Sanskrit, <em>kastha</em> means "wood" and <em>mandapa</em> means "pavilion"; the three-story structure was made entirely of wood, without iron nails or supports, and dated to the late 16th century; it collapsed during a 2015 earthquake<br>
 
 **Administrative divisions**<br>
-7 provinces (pradesh, singular - pradesh); Bagmati, Gandaki, Karnali, Lumbini, Madhesh, Province No. One, Sudurpashchim<br>
+7 provinces (pradesh, singular - pradesh); Bagmati, Gandaki, Karnali, Koshi, Lumbini, Madhesh, Sudurpashchim<br>
 
 **Independence**<br>
 1768 (unified by Prithvi Narayan SHAH)<br>
@@ -705,5 +705,5 @@ _refugees (country of origin)_: 12,540 (Tibet/China), 6,365 (Bhutan) (mid-year 2
 _stateless persons_: undetermined (mid-year 2021)<br>
 
 **Illicit drugs**<br>
-<p>illicit producer of cannabis and hashish for the domestic and international drug markets; transit point for opiates from Southeast Asia to the West</p><br>
+<p>illicit producer of cannabis and hashish for the domestic and international drug markets; transit point for opiates from Southeast Asia to the West; destination country for Indian-produced heroin smuggled in for domestic consumption</p><br>
 

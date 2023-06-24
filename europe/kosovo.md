@@ -290,10 +290,10 @@ IBRD, IDA, IFC, IMF, ITUC (NGOs), MIGA, OIF (observer)<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Ilir DUGOLLI (since 13 January 2022)<br>
-_chancery_: 2175 K Street NW, Suite 300, Washington, DC 20037<br>
+_chancery_: 3612 Massachusetts Ave NW, Washington, D.C. 20007<br>
 _telephone_: [1] (202) 450-2130<br>
 _FAX_: [1] (202) 735-0609<br>
-_email address and website_: <br>https://www.ambasada-ks.net/us/?page=2,1<br>
+_email address and website_: <br>embassy.usa@rks-gov.net<br><br>U.S. Embassies of the Republic of Kosovo (ambasadat.net)<br>
 _consulate(s) general_: New York<br>
 _consulate(s)_: Des Moines (IA)<br>
 

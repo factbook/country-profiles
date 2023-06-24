@@ -354,7 +354,7 @@ BCIE, CAN (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (nationa
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Ram&oacute;n Eduardo MART&Iacute;NEZ DE LA GUARDIA (since 16 September 2022)<br>
-_chancery_: 2862 McGill Terrace NW, Washington, DC 20007<br>
+_chancery_: 2862 McGill Terrace NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-1407<br>
 _FAX_: [1] (202) 483-8413<br>
 _email address and website_: <br>info@embassyofpanama.org<br><br>https://www.embassyofpanama.org/<br>
@@ -703,5 +703,5 @@ the Panama National Police is principally responsible for internal law enforceme
 _refugees (country of origin)_: 80,021 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>
 
 **Illicit drugs**<br>
-<p>a prime sea and land passage for drugs, primarily cocaine from Colombia, from South America to North America and Europe; traffickers ship drugs in containers passing through the Panama Canal to  North America and Europe</p> <p> </p><br>
+<p>not a major consumer or producer of illicit drugs; a prime sea and land passage for drugs, primarily cocaine, from South America to North America and Europe;   drug traffickers also use millions of shipping containers to smuggle drugs to North America and Europe through the Panama</p><br>
 

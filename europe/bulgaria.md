@@ -361,9 +361,9 @@ Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Georgi Velikov PANAYOTOV (since 7 June 2022)<br>
 _chancery_: 1621 22nd Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 387-0174; [1] (202) 299-0273, [1] (202) 483-1386<br>
+_telephone_: [1] (202) 387 5770; [1] (202) 387-0174; [1] (202) 299-0273, [1] (202) 483-1386<br>
 _FAX_: [1] (202) 234-7973<br>
-_email address and website_: <br>office@bulgaria-embassy.org; Embassy.Washington@mfa.bg<br><br>https://www.bulgaria-embassy.org/en/homepage/<br>
+_email address and website_: <br>office@bulgaria-embassy.org; <br>Embassy.Washington@mfa.bg<br><br>https://www.bulgaria-embassy.org/en/homepage/<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -568,6 +568,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 1.9% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 2 (2023)<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 2.01GW (2023)<br>
+_Percent of total electricity production_: 34.6% (2021)<br>
+_Percent of total energy produced_: 40% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 2<br>
+
 **Coal**<br>
 _production_: 22.298 million metric tons (2020 est.)<br>
 _consumption_: 23.213 million metric tons (2020 est.)<br>
@@ -722,9 +730,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 51,365 (Ukraine) (as of 23 May 2023)<br>
+_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 161,370 (Ukraine) (as of 6 June 2023)<br>
 _stateless persons_: 1,129 (2022)<br>
-<strong>note:</strong> 89,608 estimated refugee and migrant arrivals (January 2015-March 2023); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 90,264 estimated refugee and migrant arrivals (January 2015-April 2023); Bulgaria is predominantly a transit country<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Bulgaria does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials prosecuted significantly more suspected traffickers, ordered restitution, and drafted an annual national program with increased funding for combating trafficking and protecting victims; however, the government did not demonstrate overall increasing efforts to improve its anti-trafficking capacity; authorities investigated and convicted significantly fewer traffickers, the fewest since the government began reporting trafficking data; courts continued to issue suspended sentences for most convicted traffickers; victim identification and assistance data remained unreliable, making it difficult to accurately assess trafficking; authorities penalized victims for crimes traffickers compelled them to commit; lack of resources, legal authority, and training impeded law enforcement; corruption in law enforcement and the judiciary hindered progress, and alleged complicity in trafficking crimes persisted; therefore, Bulgaria was downgraded to Tier 2 Watch List (2022)<br>

@@ -580,6 +580,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 0<br>
+_Number of nuclear reactors under construction_: 2 (2023)<br>
+_Net capacity of operational nuclear reactors_: 0GW<br>
+_Percent of total electricity production_: 0%<br>
+_Percent of total energy produced_: 0%<br>
+_Number of nuclear reactors permanently shut down_: 0<br>
+
 **Coal**<br>
 _production_: 1.016 million metric tons (2020 est.)<br>
 _consumption_: 9.345 million metric tons (2020 est.)<br>
@@ -741,7 +749,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 <p><em>Bangladesh-Burma:</em> Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border.<br><br><em>Bangladesh-India:</em> Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 960,539 (Burma) (2023)<br>
+_refugees (country of origin)_: 960,128 (Burma) (2023)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2021)<br>
 _stateless persons_: 929,606 (2022)<br>
 

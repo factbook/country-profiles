@@ -325,9 +325,9 @@ ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lou-Anne Gaylene GILCHRIST (since 18 January 2017)<br>
-_chancery_: 1627 K Street, NW, Suite 1202, Washington, DC 20006<br>
+_chancery_: 1627 K Street, NW, Suite 704, Washington, DC 20006<br>
 _telephone_: [1] (202) 364-6730<br>
-_FAX_: [1] (202) 364-6730<br>
+_FAX_: [1] (202) 364-6736<br>
 _email address and website_: <br>mail@embsvg.com<br><br>http://wa.embassy.gov.vc/washington/<br>
 _consulate(s) general_: New York<br>
 
@@ -619,5 +619,5 @@ the country has been a member of the Caribbean Regional Security System (RSS) si
 <p><em>Saint Vincent and the Grenadines-Venezuela</em>: joins other Caribbean states to counter Venezuela's claim that Aves Island sustains human habitation, a criterion under UN Convention on the Law of the Sea, which permits Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea</p><br>
 
 **Illicit drugs**<br>
-<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean</p><br>
+<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>
 

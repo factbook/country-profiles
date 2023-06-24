@@ -380,7 +380,7 @@ _chief of mission_: Ambassador Esme Jynet CHOMBO (since 19 April 2022)<br>
 _chancery_: 2408 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 721-0270<br>
 _FAX_: [1] (202) 721-0288<br>
-_email address and website_: <br>malawiembassy-dc.org<br><br>http://www.malawiembassy-dc.org/<br>
+_email address and website_: <br>info@malawiembassy-dc.org<br><br>http://www.malawiembassy-dc.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador David YOUNG (since 5 May 2022)<br>

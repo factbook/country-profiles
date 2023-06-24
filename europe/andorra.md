@@ -169,7 +169,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 9.1% of GDP (2020)<br>
 
 **Physicians density**<br>
-3.33 physicians/1,000 population (2015)<br>
+3.63 physicians/1,000 population (2015)<br>
 
 **Hospital bed density**<br>
 2.5 beds/1,000 population<br>
@@ -321,7 +321,7 @@ CE, FAO, ICAO, ICC (NGOs), ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITU, OIF, OPCW
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Elisenda VIVES BALMANA (since 2 March 2016)<br>
 _chancery_: 2 United Nations Plaza, 27th Floor, New York, NY 10017<br>
-_telephone_: [1] (212) 750-8064; [1] (212) 750-8065<br>
+_telephone_: [1] (212) 750-8064<br>
 _FAX_: [1] (212) 750-6630<br>
 _email address and website_: <br>contact@andorraun.org<br>
 

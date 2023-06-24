@@ -97,6 +97,9 @@ _major-language sample(s)_: <br>The World Factbook, den obestridliga källan fö
 Church of Sweden (Lutheran) 57.6%, other (includes Roman Catholic, Orthodox, Baptist, Muslim, Jewish, and Buddhist) 8.9%, none or unspecified 33.5% (2019 est.)<br>
 <strong>note:</strong> estimates reflect registered members of faith communities eligible for state funding (not all religions are state-funded and not all people who identify with a particular religion are registered members) and the Church of Sweden<br>
 
+**Demographic profile**<br>
+<p>Sweden, the largest Nordic country in terms of size and population, is also Europe’s most sparsely populated.  Most Swedish men and women agree that both partners should contribute to household income. Swedish society is very gender equal, which is reflected in the country’s public policies.  A generous leave policy and high-quality subsidized childcare allows mothers and fathers to balance work and family life. Sweden’s income-replacement-based parental leave policy encourages women to establish themselves in the workforce before having children.  In fact, Swedish women have one of the highest labor participation rates in Europe and one of its highest total fertility rates (TFR), the number of children women have in their lifetime.  Postponement of parenthood has increased steadily.  Since the late 1960s, marriage and divorce rates have declined, while non-marital cohabitation and births out of wedlock have increased rapidly. Sweden’s TFR has hovered for decades around 2, which is close to replacement level and among Europe’s highest.</p> <p>Sweden experienced “the great emigration” between 1850 and the 1930s when, faced with famines, approximately 1.5 million Swedes sought a better life in the Americas and Australia.  However, since World War II, Sweden has been a country of immigration. During World War II, thousands of refugees from neighboring countries worked in Swedish factories, agriculture, and forestry, replacing Swedish men who were called up for military service.  During the 1950s and 1960s, Sweden joined the Geneva Convention and granted permanent residence to refugees from the USSR and the Warsaw Pact countries. During this period, Sweden also welcomed labor migrants, mainly from Finland and other Nordic countries, who bolstered the tax base needed to fund the country’s welfare programs.</p> <p>Until 1971, labor migrants, particularly from Finland, southern Europe (including then Yugoslavia, Italy, and Greece) the Baltics, and Turkey, came to Sweden as its industries flourished.  Companies recruited many of the workers, but others came on their own. Sweden’s labor demand eventually decreased, and the job market became saturated. The government restricted the flow of labor migrants, putting an end to labor migration from non-Nordic countries in 1972. From then until the 1990s, inflows consisted largely of asylum seekers from the Middle East, the Balkans, and South America, as well as persons looking to reunite with family members already in Sweden.  The country began a new era of labor immigration in 2008, as companies were encouraged to hire non-EU workers.  Among the largest source countries have been India, Thailand, and China. As of 2020, over a quarter of Sweden’s population had a migrant background.</p><br>
+
 **Age structure**<br>
 _0-14 years_: 17.26% (male 936,274/female 882,347)<br>
 _15-64 years_: 62.05% (male 3,346,891/female 3,190,608)<br>
@@ -347,7 +350,7 @@ _judge selection and term of office_: Supreme Court and Supreme Administrative C
 _subordinate courts_: first instance, appellate, general, and administrative courts; specialized courts that handle cases such as land and environment, immigration, labor, markets, and patents<br>
 
 **Political parties and leaders**<br>
-Center Party (Centerpartiet) or C [Annie LOOF resigned on 15 September 2022]<br>Christian Democrats (Kristdemokraterna) or KD [Ebba BUSCH]<br>Green Party (Miljopartiet de Grona) or MP [Marta STEVENI and Per BOLUND]<br>Left Party (Vansterpartiet) or V [Nooshi DADGOSTAR]<br>Moderate Party (Moderaterna) or M [Ulf KRISTERSSON]<br>Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]<br>Swedish Social Democratic Party (Socialdemokraterna) or S/SAP [Magdalena ANDERSSON]<br>The Liberals (Liberalerna) or L [Johan PEHRSON]<br>
+Center Party (Centerpartiet) or C [Muharrem DEMIROK]<br>Christian Democrats (Kristdemokraterna) or KD [Ebba BUSCH]<br>Green Party (Miljopartiet de Grona) or MP [Marta STEVENI and Per BOLUND]<br>Left Party (Vansterpartiet) or V [Nooshi DADGOSTAR]<br>Moderate Party (Moderaterna) or M [Ulf KRISTERSSON]<br>Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]<br>Swedish Social Democratic Party (Socialdemokraterna) or S/SAP [Magdalena ANDERSSON]<br>The Liberals (Liberalerna) or L [Johan PEHRSON]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNMOGIP, UNRWA, UN Security Council (temporary), UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -557,6 +560,14 @@ _hydroelectricity_: 44.7% of total installed capacity (2020 est.)<br>
 _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 6.9% of total installed capacity (2020 est.)<br>
+
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 6 (2023)<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 6.94GW (2023)<br>
+_Percent of total electricity production_: 30.8% (2021)<br>
+_Percent of total energy produced_: 34% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 4<br>
 
 **Coal**<br>
 _production_: 1.07 million metric tons (2020 est.)<br>

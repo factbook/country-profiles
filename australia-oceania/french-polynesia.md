@@ -267,7 +267,7 @@ see France<br>
 
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by High Commissioner of the Republic Dominique SORAIN (since 10 July 2019)<br>
-_head of government_: President of French Polynesia Edouard FRITCH (since 12 September 2014)<br>
+_head of government_: President of French Polynesia Moetai BROTHERSON Edouard FRITCH (since 12 May 2023)<br>
 _cabinet_: Council of Ministers approved by the Assembly from a list of its members submitted by the president<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; French Polynesia president indirectly elected by Assembly of French Polynesia for a 5-year term (no term limits)<br>
 

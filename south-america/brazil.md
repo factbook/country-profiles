@@ -383,7 +383,7 @@ _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Bernardo PARAN
 _chancery_: 3006 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 238-2700<br>
 _FAX_: [1] (202) 238-2827<br>
-_email address and website_: <br>http://washington.itamaraty.gov.br/en-us/Main.xml<br>
+_email address and website_: https://www.gov.br/mre/pt-br/embaixada-washington&nbsp;&nbsp;<br>
 _consulate(s) general_: Atlanta, Boston, Chicago, Hartford (CT), Houston, Los Angeles, Miami, New York, San Francisco, Washington, DC<br>
 
 **Diplomatic representation from the US**<br>
@@ -588,6 +588,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 9.2% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 2 (2023)<br>
+_Number of nuclear reactors under construction_: 1<br>
+_Net capacity of operational nuclear reactors_: 1.88GW (2023)<br>
+_Percent of total electricity production_: 2.5% (2021)<br>
+_Percent of total energy produced_: 1% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 0<br>
+
 **Coal**<br>
 _production_: 13.993 million metric tons (2020 est.)<br>
 _consumption_: 31.841 million metric tons (2020 est.)<br>
@@ -734,7 +742,7 @@ the Brazilian military's inventory consists of a mix of domestically produced an
 <strong>note:</strong> in 2020, women comprised approximately 9% of the Brazilian military<br>
 
 **Military - note**<br>
-the three national police forces – the Federal Police, Federal Highway Police, and Federal Railway Police – have domestic security responsibilities and report to the Ministry of Justice and Public Security (Ministry of Justice); there are two distinct units within the state police forces: the civil police, which performs an investigative role, and the military police, charged with maintaining law and order in the states and the Federal District; despite the name, military police forces report to the Ministry of Justice, not the Ministry of Defense; the National Public Security Force (Forca Nacional de Seguranca Publica or SENASP) is a national police force made up of Military Police from various states; the armed forces also have some domestic security responsibilities and report to the Ministry of Defense<br><br>Brazil has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the origins of Brazil's military stretch back to the 1640s; Brazil provided a 25,000-man expeditionary force with air and ground units to fight with the Allies in the Mediterranean Theater during World War II; the Navy participated in the Battle of the Atlantic (2023)<br>
+the Brazilian Armed Forces (BAF) are the second largest military in the Western Hemisphere behind the US; while they are responsible for external security and protecting the country’s sovereignty, Brazil does not have any territorial disputes with its neighbors or regional rivalries; the BAF’s missions include patrolling and protecting the country’s long borders and coastline and extensive territorial waters and river network, assisting with internal security, providing domestic disaster response and humanitarian assistance, and participating in multinational peacekeeping missions<br><br>the Army has a considerable internal security role; in the past decade, it has mobilized thousands of troops to conduct counternarcotics operations, support the police in combating crime, assist with disease outbreaks and humanitarian missions, and provide security for major events such as the 2014 World Cup and the 2016 Summer Olympics; it has also cooperated with neighboring countries such as Argentina and Paraguay on border security to combat smuggling and trafficking; the Army is organized into regional commands, military regions, and geographically based divisions covering the entirety of the country; it has approximately 30 combat brigades which include light, mechanized, or motorized infantry, light armored/cavalry, special operations, artillery, and helicopter forces; many of the light infantry brigades are specialized for air mobile, airborne, jungle, mountain, or urban warfare operations; the Army has established a battalion-sized (1,000 troops) expeditionary force for foreign international missions that it plans to increase to a 3,000-strong brigade by 2030<br><br>the Navy conducts coastal, regional, and riverine operations and has a wide variety of missions ranging from sea patrolling and power projection to countering piracy, illegal fishing, narcotics trafficking, and organized crime; it is organized into 9 districts covering the entirety of the country; the Navy’s principal warships include approximately 14 frigates, corvettes, and offshore patrol ships, 7 attack submarines, and a multi-purpose helicopter landing platform (LPH) amphibious assault ship that serves as the fleet’s flagship; it also has a considerable coastal and riverine patrol vessel fleet, an aviation wing with about 50 combat aircraft and helicopters, and a marine amphibious force<br><br>the Air Force has over 100 fighter and ground attack aircraft, as well as dozens of support aircraft and helicopters for missions such as patrolling, reconnaissance, transport, logistics, special missions, and training<br><br>the three national police forces – the Federal Police, Federal Highway Police, and Federal Railway Police – have domestic security responsibilities and report to the Ministry of Justice and Public Security (Ministry of Justice); there are two distinct units within the state police forces: the civil police, which performs an investigative role, and the military police, charged with maintaining law and order in the states and the Federal District; despite the name, military police forces report to the Ministry of Justice, not the Ministry of Defense; the National Public Security Force (Forca Nacional de Seguranca Publica or SENASP) is a national police force made up of Military Police from various states; the armed forces also have some domestic security responsibilities and report to the Ministry of Defense<br><br>Brazil has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the origins of Brazil's military stretch back to the 1640s; Brazil provided a 25,000-man expeditionary force with air and ground units to fight with the Allies in the Mediterranean Theater during World War II; the Navy participated in the Battle of the Atlantic (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Brazil are a risk for armed robbery against ships; in 2022, five attacks against commercial vessels were reported, an increase from the three attacks in 2021; all of these occurred in the port of Macapa while ships were berthed or at anchor<br>
@@ -756,5 +764,5 @@ _IDPs_: 21,000<br>
 _stateless persons_: 12 (2022)<br>
 
 **Illicit drugs**<br>
-<p>a significant transit and destination country for cocaine; most of the cocaine enters Brazil from neighboring producing countries Bolivia, Colombia, and Peru then goes to West Africa and Europe, but an increasing percentage feeds substantial domestic drug consumption; second-largest consumer of cocaine hydrochloride and cocaine-derivative products in the world</p><br>
+<p>a significant drug transit and destination country for cocaine bound for Europe and other destinations including the United States; domestic drug use and addiction is a significant problem and it is second only to the United States in cocaine consumption; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
 

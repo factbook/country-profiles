@@ -308,7 +308,7 @@ _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
 _etymology_: name derives from the Arabic "al-Jazair" meaning "the islands" and refers to the four islands formerly off the coast of the capital but joined to the mainland since 1525<br>
 
 **Administrative divisions**<br>
-58 provinces (wilayas, singular - wilaya); Adrar, Ain Defla, Ain Temouchent, Alger, Annaba, Batna, Bechar, Bejaia, Beni Abbes, Biskra, Blida, Bordj Badji Mokhtar, Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djanet, Djelfa, El Bayadh, El Meghaier, El Meniaa, El Oued, El Tarf, Ghardaia, Guelma, Illizi, In Guezzam, In Salah, Jijel, Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila, Naama, Oran, Ouargla, Ouled Djellal, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanrasset, Tebessa, Tiaret, Timimoun, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen, Touggourt<br>
+58 provinces (wilayas, singular - wilaya); Adrar, Ain Defla, Ain Temouchent, Alger (Algiers), Annaba, Batna, Bechar, Bejaia, Beni Abbes, Biskra, Blida, Bordj Badji Mokhtar, Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djanet, Djelfa, El Bayadh, El Meghaier, El Meniaa, El Oued, El Tarf, Ghardaia, Guelma, Illizi, In Guezzam, In Salah, Jijel, Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila, Naama, Oran, Ouargla, Ouled Djellal, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanrasset, Tebessa, Tiaret, Timimoun, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen, Touggourt<br>
 
 **Independence**<br>
 5 July 1962 (from France)<br>
@@ -647,7 +647,11 @@ _annual freight traffic on registered air carriers_: 28.28 million (2018) mt-km<
 149 (2021)<br>
 
 **Airports - with paved runways**<br>
-67<br>
+_total_: 67 (2023)<br>
+_civil airports_: 19<br>
+_military airports_: 11<br>
+_joint use (civil-military) airports_: 14<br>
+_other airports_: 32<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>

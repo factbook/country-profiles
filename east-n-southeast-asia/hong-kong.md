@@ -303,7 +303,7 @@ _subordinate courts_: High Court (consists of the Court of Appeal and Court of F
 ADB, APEC, BIS, FATF, ICC (national committees), IHO, IMF, IMO (associate), Interpol (subbureau), IOC, ISO (correspondent), ITUC (NGOs), UNWTO (associate), UPU, WCO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none (Special Administrative Region of China); Hong Kong Economic and Trade Office (HKETO) carries out normal liaison activities and communication with the US Government and other US entities; Eddie MAK Tak-wai (since 3 July 2018) is the Hong Kong Commissioner to the US Government of the Hong Kong Special Administrative Region; address: 1520 18th Street NW, Washington, DC 20036; telephone: [1] (202) 331-8947; FAX: [1] (202) 331-8958; hketo@hketowashington.gov.hk<br>
+_chief of mission_: none (Special Administrative Region of China); Hong Kong Economic and Trade Office (HKETO) carries out normal liaison activities and communication with the US Government and other US entities; Eddie MAK Tak-wai (since 3 July 2018) is the Hong Kong Commissioner to the US Government of the Hong Kong Special Administrative Region; address: 1520 18th Street NW, Washington, DC 20036; telephone: [1] (202) 331-8947; FAX: [1] (202) 331-8958; email:&nbsp; hketo@hketowashington.gov.hk; website: https://www.hketowashington.gov.hk/<br>
 _HKETO offices_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>

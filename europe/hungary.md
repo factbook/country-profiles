@@ -365,10 +365,10 @@ Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating 
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Szabolcs Ferenc TAKACS (since 23 December 2020)<br>
-_chancery_: 3910 Shoemaker Street NW, Washington, DC 20008<br>
+_chancery_: 1500 Rhode Island Avenue, N.W.<br>Washington, D.C. 20005<br>
 _telephone_: [1] (202) 362-6730<br>
 _FAX_: [1] (202) 966-8135<br>
-_email address and website_: <br>info@mfa.gov.hu<br><br>https://washington.mfa.gov.hu/eng<br>
+_email address and website_: <br>info.was@mfa.gov.hu<br><br>https://washington.mfa.gov.hu/eng<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -569,6 +569,14 @@ _tide and wave_: 0.5% of total installed capacity (2020 est.)<br>
 _geothermal_: 0.1% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 7.3% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 4 (2023)<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 1.92GW (2023)<br>
+_Percent of total electricity production_: 46.8% (2021)<br>
+_Percent of total energy produced_: 44% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 0<br>
+
 **Coal**<br>
 _production_: 6.956 million metric tons (2020 est.)<br>
 _consumption_: 8.079 million metric tons (2020 est.)<br>
@@ -685,7 +693,8 @@ _river port(s)_: Baja, Csepel (Budapest), Dunaujvaros, Gyor-Gonyu, Mohacs (Danub
 ## Military and Security
 
 **Military and security forces**<br>
-the Hungarian Defense Forces (HDF) are a unified force (Joint Force Command) with Land Forces, Air Forces, and Logistics components (2022)<br>
+Hungarian Defense Forces (HDF or Magyar Honvédség): the HDF is organized as a joint force under a general staff with commands for land, air, cyber, special operations, territorial defense, and support forces; Ministry of Interior: National Police, Counterterrorism Center (2023)<br>
+<strong>note:</strong> the National Police is responsible for maintaining order nationwide; the Counterterrorism Center is a special police force responsible for protecting the president and the prime minister and for preventing, uncovering, and detecting terrorist acts; it is directly subordinate to the Minister of Interior<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2022 est.)<br>
@@ -699,7 +708,7 @@ approximately 21,000 active-duty troops (16,000 Army; 5,000 Air Force) (2022)<br
 <strong>note:</strong> in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000 but did not give a timeline<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment (2023)<br>
+the military's inventory consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment; in recent years, Germany has been the top supplier of military hardware to Hungary (2023)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2022)<br>
@@ -723,7 +732,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 36,313 (Ukraine) (as of 23 May 2023)<br>
+_refugees (country of origin)_: 36,315 (Ukraine) (as of 5 June 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

@@ -585,5 +585,5 @@ _tier rating_: Tier 2 Watch List &mdash; Aruba does not fully meet the minimum s
 _trafficking profile_: <p>human traffickers exploit domestic and foreign victims; traffickers exploit Venezuelan women in sex trafficking, and foreign men and women are subject to forced labor in Aruba’s services and construction sectors; Venezuelans overstaying visas are at risk of forced labor in domestic service, construction, and commercial sex; Chinese men and women and Indian men are subject to forced labor in retail businesses and domestic service; Arubans force Caribbean and South American women into domestic servitude; officials reported increases in forced criminality, where traffickers compel victims to commit unlawful acts, such as robberies and drug-related offenses (2022)</p><br>
 
 **Illicit drugs**<br>
-<p>northbound transshipment point for cocaine from Colombia and Venezuela; Cocaine shipped to the United States, other Caribbean islands, Africa, and Europe</p><br>
+<p>northbound transshipment point for cocaine from Colombia and Venezuela; cocaine shipped to the United States, other Caribbean islands, Africa, and Europe</p> <p> </p><br>
 

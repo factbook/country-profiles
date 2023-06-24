@@ -326,7 +326,7 @@ _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Shanelle
 _chancery_: 1203 19th St. NW, 5th Floor, Washington, DC 20036<br>
 _telephone_: [1] (202) 686-2636<br>
 _FAX_: [1] (202) 686-5740<br>
-_email address and website_: info@embskn.com<br>
+_email address and website_: <br>stkittsnevis@embskn.com<br><br>Embassy of St.Kitts and Nevis to the USA – and Permanent Mission to the OAS (embassydc.gov.kn)<br>
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -614,5 +614,5 @@ St. Kitts joined the Caribbean Regional Security System (RSS) in 1984; RSS signa
 <p><em>Saint Kitts and Nevis-Venezuela</em>: joins other Caribbean states to counter Venezuela's claim that Aves Island sustains human habitation, a criterion under UN Convention on the Law of the Sea, which permits Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea</p><br>
 
 **Illicit drugs**<br>
-<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean</p><br>
+<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>
 

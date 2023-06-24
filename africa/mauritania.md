@@ -380,7 +380,7 @@ _chief of mission_: Ambassador BOIDE Cisse (since 15 September 2021)<br>
 _chancery_: 2129 Leroy Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 232-5700<br>
 _FAX_: [1] (202) 319-2623<br>
-_email address and website_: <br>office@mauritaniaembassyus.com<br><br>http://mauritaniaembassyus.com/<br>
+_email address and website_: <br>ambarimwashington@diplomatie.gov.mr; ambarimwash@gmail.com<br><br>mauritaniaembassyus.org – Mauritania Embassy washington<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Cynthia KIERSCHT (since 27 January 2021)<br>

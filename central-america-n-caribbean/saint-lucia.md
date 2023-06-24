@@ -626,5 +626,5 @@ _tier rating_: Tier 2 Watch List &mdash; Saint Lucia does not fully meet the min
 _trafficking profile_: human traffickers exploit domestic and foreign victims in Saint Lucia, as well as victims from Saint Lucia abroad; children from economically disadvantaged families are at risk of sex trafficking, often forced by parents or caretakers in exchange for goods or services; disadvantaged young women from rural areas are vulnerable to sex trafficking, and children from poor communities are vulnerable to sexual exploitation; documented and undocumented migrants from the Caribbean and South Asia, including domestic workers, are vulnerable to trafficking; foreign women working in strip clubs and in commercial sex are at risk of sex trafficking; the government reports business owners from Saint Lucia, India, China, Cuba, and Russia are the most likely traffickers in the country; Cuban medical professionals working in Saint Lucia may have been forced to work by the Cuban Government (2022)<br>
 
 **Illicit drugs**<br>
-<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean</p><br>
+<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>
 

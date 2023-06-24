@@ -586,6 +586,15 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0.4% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 1.7% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 93 (2023)<br>
+_Number of nuclear reactors under construction_: 1<br>
+_Net capacity of operational nuclear reactors_: 95.83GW (2021)<br>
+_Percent of total electricity production_: 20% (2021)<br>
+_Percent of total energy produced_: 8.2% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 20<br>
+<strong>note:</strong> The US has the World's largest nuclear energy program with 26% of the World's net capacity of nuclear reactors<br>
+
 **Coal**<br>
 _production_: 495.13 million metric tons (2020 est.)<br>
 _consumption_: 441.968 million metric tons (2020 est.)<br>
@@ -762,5 +771,5 @@ _refugees (country of origin)_: the US admitted 25,465 refugees during FY2022, i
 _stateless persons_: 47 (2022)<br>
 
 **Illicit drugs**<br>
-<p>world's largest consumer of cocaine (mostly from Colombia through Mexico and the Caribbean), Mexican heroin and marijuana; major consumer of MDMA (ecstasy) and Mexican methamphetamine; major consumer of fentanyl and other synthetic opioids sourced from Mexico and China, often mixed with other drugs; illicit producer of cannabis, marijuana, depressants, stimulants, hallucinogens, and methamphetamine; money-laundering center</p><br>
+<p>world's largest consumer of cocaine (shipped from Colombia through Mexico and the Caribbean), Colombian heroin, and Mexican heroin and marijuana; major consumer of ecstasy and Mexican methamphetamine; minor consumer of high-quality Southeast Asian heroin; illicit producer of cannabis, marijuana, depressants, stimulants, hallucinogens, and methamphetamine; money-laundering center</p><br>
 

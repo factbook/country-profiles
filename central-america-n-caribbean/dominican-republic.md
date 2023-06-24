@@ -702,7 +702,7 @@ the military is lightly armed with an inventory consisting mostly of older US eq
 <strong>note:</strong> as of 2021, women made up approximately 20% of the active duty military<br>
 
 **Military - note**<br>
-the military is primarily focused on countering illegal immigration and refugees along its 350-kilometer-long border with Haiti and interdicting air and maritime narcotics trafficking, as well as disaster relief (2023)<br>
+the military is responsible for defending the independence, integrity, and sovereignty of the Dominican Republic; it also has an internal security role, which includes assisting with airport, border, port, tourism, and urban security, supporting the police in maintaining or restoring public order, countering transnational crime, and providing disaster or emergency relief/management; a key area of focus is securing the country&rsquo;s 217-mile (350-kilometer) long border with Haiti; the Army in recent years, for example, has assigned 3 of its 6 infantry brigades and some 10-12,000 troops to assist with security along the Haitian border; these forces complement the approximately 700 troops of the Border Security Corps permanently deployed along the border; the Air Force and Navy also provide support to the Haitian border mission; the Army has a brigade dedicated to managing and providing relief during natural disasters; the military also contributes personnel to the National Drug Control Directorate, and both the Air Force and Navy devote assets to detecting and interdicting narcotics trafficking; the Navy conducts regular bilateral maritime interdiction exercises with the US Navy (2023)<br>
 
 ## Transnational Issues
 
@@ -714,5 +714,5 @@ _refugees (country of origin)_: 115,283 (Venezuela) (economic and political cris
 _stateless persons_: 133,770 (2016); note - a September 2013 Constitutional Court ruling revoked the citizenship of those born after 1929 to immigrants without proper documentation, even though the constitution at the time automatically granted citizenship to children born in the Dominican Republic and the 2010 constitution provides that constitutional provisions cannot be applied retroactively; the decision overwhelmingly affected people of Haitian descent whose relatives had come to the Dominican Republic since the 1890s as a cheap source of labor for sugar plantations; a May 2014 law passed by the Dominican Congress regularizes the status of those with birth certificates but will require those without them to prove they were born in the Dominican Republic and to apply for naturalization; the government has issued documents to thousands of individuals who may claim citizenship under this law, but no official estimate has been released<br>
 
 **Illicit drugs**<br>
-a major transshipment point for cocaine transiting through the Caribbean<br>
+<p>major transshipment point for cocaine shipments to the United States and Europe in the Caribbean; some drugs are consumed locally.</p> <p> </p> <p> </p><br>
 

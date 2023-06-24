@@ -96,6 +96,9 @@ _major-language sample(s)_: <br>World Factbook, korvaamaton perustietolähde. (F
 **Religions**<br>
 Lutheran 66.6%, Greek Orthodox 1.1%, other 1.7%, none 30.6% (2021 est.)<br>
 
+**Demographic profile**<br>
+<p>Finland has a relatively high fertility rate for Europe at about 1.75 children per woman in 2023.  Finnish women have high labor force participation rates, and their educational attainment is higher than that of Finnish men. Finland’s family policy, like other Nordic countries, puts an emphasis on reconciling work and family life.  Both parents can stay at home with an earnings-based allowance until the baby is about 11 months old.  Finland also has a publicly subsidized childcare system.  Alternatively, parents can choose to take care of a small child through home care leave with a flat allowance rate.  These benefits have encouraged fathers to do a greater share of housework and childcare, although women still perform the lion’s share of domestic work.  In other instances, women have reduced the burden of household work by outsourcing domestic chores, rather than men taking on more of the responsibilities.  Finland has high family size ideals compared to other European countries, and childlessness and one-child families are not favored.  The proportion of couples having at least three children has been growing since the 1970s.</p> <p>Finland has historically been a country of emigration.  In the 20th century, Finns emigrated largely in two waves.  Before World War II, the majority of Finns went to North America, and after World War II most went to Sweden, where industrialization was generating much-needed jobs that offered higher salaries and a better standard of living.  In the 1980s and early 1990s, Finnish returnees (mainly from Sweden) began to outnumber Finnish emigrants.  Also arriving in Finland between April 1990 and 2010, were Ingrian Finns – descendants of ethnic Finns who settled near St. Petersburg, Russia, in the 17th century – who immigrated to Finland under the Right of Return Law.  In addition, the country has absorbed immigrants from Russia, Estonia, the former Yugoslavia, and Sweden for a variety of reasons, most commonly for marriage and family reunification.  Finland has also accepted refugees and asylum seekers from Somalia, Iraq, China, and Thailand.</p><br>
+
 **Age structure**<br>
 _0-14 years_: 16.25% (male 466,311/female 446,015)<br>
 _15-64 years_: 60.5% (male 1,726,110/female 1,670,981)<br>
@@ -334,7 +337,7 @@ _residency requirement for naturalization_: 6 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Sauli NIINISTO (since 1 March 2012)<br>
-_head of government_: Prime Minister Sanna MARIN (since 10 December 2019)<br>
+_head of government_: Prime Minister Petteri ORPO (since 20 June 2023)<br>
 _cabinet_: Council of State or Valtioneuvosto appointed by the president, responsible to Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 28 January 2018 (next to be held in January 2024); prime minister appointed by Parliament<br>
 _election results_: <em>2018:</em> Sauli NIINISTO reelected president; percent of vote - Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%<br><br><em>2012: </em>Sauli NIINISTO elected president; percent of vote - Sauli NIINISTO (National Coalition Party) 62.6%, Pekka HAAVISTO (Vihr) 37.4%<br>
@@ -350,7 +353,7 @@ _judge selection and term of office_: Supreme Court and Supreme Administrative C
 _subordinate courts_: 6 Courts of Appeal; 8 regional administrative courts; 27 district courts; special courts for issues relating to markets, labor, insurance, impeachment, land, tenancy, and water rights<br>
 
 **Political parties and leaders**<br>
-Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk [Annika SAARIKKO]<br>Christian Democrats or KD [Sari ESSAYAH]<br>Finns Party or PS [Riikka PURRA]<br>Green League or Vihr <br>Left Alliance or Vas [Li ANDERSSON]<br>Movement Now or Liike Nyt [Harry HARKINO]<br>National Coalition Party or Kok [Petteri ORPO]<br>Social Democratic Party or SDP [Sanna MARIN]<br>Swedish People's Party or RKP or SFP [Anna-Maja HENRIKSSON]<br>
+Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk [Annika SAARIKKO]<br>Christian Democrats or KD [Sari ESSAYAH]<br>Finns Party or PS [Riikka PURRA]<br>Green League or Vihr [Sofia VIRTA]<br>Left Alliance or Vas [Li ANDERSSON]<br>Movement Now or Liike Nyt [Harry HARKINO]<br>National Coalition Party or Kok [Petteri ORPO]<br>Social Democratic Party or SDP [Sanna MARIN]<br>Swedish People's Party or RKP or SFP [Anna-Maja HENRIKSSON]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNRWA, UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -360,7 +363,7 @@ _chief of mission_: Ambassador Mikko Tapani HAUTALA (since 17 September 2020)<br
 _chancery_: 3301 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 298-5800<br>
 _FAX_: [1] (202) 298-6030<br>
-_email address and website_: <br>sanomat.was@formin.fi<br><br>https://finlandabroad.fi/web/usa/mission<br>
+_email address and website_: <br>sanomat.WAS@gov.fi<br><br>https://finlandabroad.fi/web/usa/mission<br>
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -561,6 +564,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 17.8% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 5 (2023)<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 4.39GW (2023)<br>
+_Percent of total electricity production_: 32.8% (2021)<br>
+_Percent of total energy produced_: 41.3% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 0<br>
+
 **Coal**<br>
 _production_: 762,000 metric tons (2020 est.)<br>
 _consumption_: 3.552 million metric tons (2020 est.)<br>
@@ -681,7 +692,7 @@ Finland operates icebreakers in the Baltic Sea including seven PC 3 or 4 class m
 ## Military and Security
 
 **Military and security forces**<br>
-Finnish Defense Forces (FDF): Army (Maavoimat), Navy (Merivoimat), Air Force (Ilmavoimat); Ministry of the Interior: Border Guard (Rajavartiolaitos) (2023)<br>
+Finnish Defense Forces (FDF; Puolustusvoimat): Army (Maavoimat), Navy (Merivoimat), Air Force (Ilmavoimat); Ministry of the Interior: Border Guard (Rajavartiolaitos), National Police  (2023)<br>
 <strong>note:</strong> the Border Guard becomes part of the FDF in wartime<br>
 
 **Military expenditures**<br>
@@ -693,13 +704,13 @@ Finnish Defense Forces (FDF): Army (Maavoimat), Navy (Merivoimat), Air Force (Il
 
 **Military and security service personnel strengths**<br>
 approximately 30,000 active-duty personnel (22,000 Army; 5,000 Navy; 3,000 Air Force) (2023)<br>
-<strong>note:</strong> active-duty figures include conscripts carrying out their obligated military service (approximately 17,000 Army; 3,500 Navy; 1,000 Air Force)<br>
+<strong>note:</strong> active-duty figures include about 21,000 conscripts carrying out their obligated military service (approximately 17,000 Army; 3,500 Navy; 1,000 Air Force)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a wide mix of mostly modern US, European, and domestically produced weapons systems; in recent years, the US has been the leading supplier; the Finnish defense industry produces a variety of military equipment, including wheeled armored vehicles and naval vessels (2023)<br>
+the military's inventory consists of a wide mix of mostly modern US, European, Israeli, South Korean, and domestically produced weapons systems; in recent years, the Netherlands and the US have been the leading suppliers; the Finnish defense industry produces a variety of military equipment, including wheeled armored vehicles and naval vessels (2023)<br>
 
 **Military service age and obligation**<br>
-at age 18, all Finnish men are obligated to serve 5.5-12 months of service within a branch of the military or the Border Guard (length of service depends on the type of duty), and women 18-29 may volunteer for service; there is also an option to perform non-military service which lasts for 8.5 or 11.5 months; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 50 for rank-and-file and 60 for non-commissioned and commissioned officers (2023)<br>
+at age 18, all Finnish men are obligated to serve 5.5-12 months of service within a branch of the military or the Border Guard (length of service depends on the type of duty); women 18-29 may volunteer for service; there is also an option to perform non-military service which lasts for 8.5 or 11.5 months; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 50 for rank-and-file and 60 for non-commissioned and commissioned officers (2023)<br>
 <strong>note 1:</strong> the military trains approximately 21,000 conscripts each year; women have served on a voluntary basis since 1995, and as of 2022 made up about 19% of the military's full-time personnel<br><br><strong>note 2: </strong>Finland has had conscription since 1951<br>
 
 **Military deployments**<br>
@@ -714,6 +725,6 @@ Finland joined NATO in April 2023; Finland had been part of NATO’s Partnership
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 47,067 (Ukraine) (as of 23 May 2023)<br>
+_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 56,750 (Ukraine) (as of 23 May 2023)<br>
 _stateless persons_: 3,546 (2022)<br>
 

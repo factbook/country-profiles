@@ -353,7 +353,7 @@ _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Andrej MEDICA 
 _chancery_: 2410 California Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 386-6601<br>
 _FAX_: [1] (202) 386-6633<br>
-_email address and website_: <br>vwa@gov.si<br><br>http://www.washington.embassy.si/index.php?id=51&amp;L=1<br>
+_email address and website_: <br>sloembassy.washington@gov.si<br><br>http://www.washington.embassy.si/<br>
 _consulate(s) general_: Cleveland (OH)<br>
 
 **Diplomatic representation from the US**<br>
@@ -553,6 +553,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 1.7% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 1 (2023)<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 0.69GW (2023)<br>
+_Percent of total electricity production_: 36.9% (2021)<br>
+_Percent of total energy produced_: 40.6% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 0<br>
+
 **Coal**<br>
 _production_: 3.175 million metric tons (2020 est.)<br>
 _consumption_: 3.502 million metric tons (2020 est.)<br>
@@ -698,7 +706,7 @@ Slovenia became a member of NATO in 2004 (2023)<br>
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,477 (Ukraine) (as of 22 May 2023)<br>
+_refugees (country of origin)_: 9,370 (Ukraine) (as of 5 June 2023)<br>
 _stateless persons_: 10 (2020)<br>
 <strong>note:  </strong>579,024 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
 

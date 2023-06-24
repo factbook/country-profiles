@@ -398,8 +398,8 @@ ABEDA, AfDB, AFESD, AMF, AMU, AU, CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, I
 _chief of mission_: Ambassador Lalla JOUMALA Alaoui (since 24 April 2017)<br>
 _chancery_: 3508 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 462-7979<br>
-_FAX_: [1] (202) 462-7643<br>
-_email address and website_: <br>Washingtonembbmorocco@maec.gov.ma<br><br>https://www.embassyofmorocco.us/<br>
+_FAX_: [1] (202) 265-0161<br>
+_email address and website_: <br>washingtonembmorocco@maec.gov.ma<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -758,5 +758,5 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 _refugees (country of origin)_: 5,250 (Syria) (mid-year 2022)<br>
 
 **Illicit drugs**<br>
-<p>one of the world’s largest cannabis-producing countries with Europe as the main  market; hashish is also smuggled to South America and the Caribbean where it is exchanged for cocaine which is distributed in Europe; MDMA (ecstasy), originating in Belgium and the Netherlands is smuggled into northern Morocco for sale on the domestic market</p><br>
+<p>one of the world’s largest cannabis-producing country with Europe as the main  market; hashish is smuggled to South America and the Caribbean where it is exchanged for cocaine which is distributed in Europe; MDMA (ecstasy), originating in Belgium and the Netherlands is smuggled into northern Morocco for sale on the domestic market</p><br>
 

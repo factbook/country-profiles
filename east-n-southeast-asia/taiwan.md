@@ -287,7 +287,7 @@ ADB (Taipei, China), APEC (Chinese Taipei), BCIE, IOC, ITUC (NGOs), SICA (observ
 note - separate customs territory of Taiwan, Penghu, Kinmen, and Matsu<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none; commercial and cultural relations with its citizens in the US are maintained through an unofficial instrumentality, the Taipei Economic and Cultural Representative Office in the United States (TECRO), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts, represented by HSIAO Bi-khim (since 20 July 2020); office: 4201 Wisconsin Avenue NW, Washington, DC 20016; telephone: [1] (202) 895-1800<br>
+_chief of mission_: none; commercial and cultural relations with its citizens in the US are maintained through an unofficial instrumentality, the Taipei Economic and Cultural Representative Office in the United States (TECRO), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts, represented by HSIAO Bi-khim (since 20 July 2020); office: 4201 Wisconsin Avenue NW, Washington, DC 20016; telephone: [1] (202) 895-1800; fax: [1] (202) 363-0999<br>
 _Taipei Economic and Cultural Offices (branch offices)_: Atlanta, Boston, Chicago, Denver (CO), Houston, Honolulu, Los Angeles, Miami, New York, San Francisco, Seattle<br>
 
 **Diplomatic representation from the US**<br>
@@ -473,6 +473,14 @@ _hydroelectricity_: 2.2% of total installed capacity (2020 est.)<br>
 _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 1.3% of total installed capacity (2020 est.)<br>
+
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 2 (2023)<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 1.87GW (2023)<br>
+_Percent of total electricity production_: 11% (2021)<br>
+_Percent of total energy produced_: 63.9% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 2<br>
 
 **Coal**<br>
 _production_: 5.955 million metric tons (2020 est.)<br>

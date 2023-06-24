@@ -345,8 +345,8 @@ _elections/appointments_: the monarchy is hereditary; following Second Chamber e
 
 **Legislative branch**<br>
 _description_: bicameral States General or Staten Generaal consists of:<br>Senate or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial council members by proportional representation vote; members serve 4-year terms)<br>House of Representatives or Tweede Kamer (150 seats; members directly elected in multi-seat constituencies by open-list proportional representation vote to serve up to 4-year terms)<br>
-_elections_: Senate - last held on 27 May 2019 (next to be held in May 2023)<br>House of Representatives - last held on 15-17 March 2021 (next to be held on 31 March 2025)<br>
-_election results_: <br>Senate - percent of vote by party - VVD 16%, CDA 12%, GL 10.7%, D66 9.3%, PvdA 8%, PVV 6.7%, SP 5.3%, CU 5.3%, PvdD 4%, SGP 2.7%, 50Plus 2.7%, FvD 1.3%, other 16%; seats by party - VVD 12, CDA 9, GL 8, D66 7, PvdA 6, PVV 5, SP 4, CU 4, PvdD 3, SGP 2, 50Plus 2, FvD 1, other 12; composition (as of September 2021) - men 52, women 23, percent of women 30.7%<br>House of Representatives - percent of vote by party - VVD 21.9%, D66 15%, PVV 10.8%, CDA 9.5%, SP 9.1%, PvdA 5.7%, GL 5.2%, FvD 5%, PvdD 3.8%, CU 3.4%, other 13.7%; seats by party - VVD 34, D66 24, PVV 17, CDA 15, GL 8, FvD 8, PvdD 6, PvdA 9, SP 9, CU 5, Denk 3, SGP 3, 50 Plus 1, other 6; composition (as of September 2021) - men 89, women 61, percent of women 40.7%; note - total States General percent of women 37.3%<br>
+_elections_: Senate - last held on 30 May 2023 (next to be held in May 2027)<br>House of Representatives - last held on 15-17 March 2021 (next to be held on 31 March 2025)<br>
+_election results_: <br>Senate - percent of vote by party - BBB 21.3%, VVD 13.3%, GL 9.3%, PvdA 9.3%, CDA 8.0%, D66 6.7%, PVV 5.3%, SP 4.0%, CU 4.0%, PvdD 4.0%, JA21 4.0%, Volt 2.7%, SGP 2.7%,  FvD 2.7%, other 2.6%; seats by party - BBB 16, VVD 10, GL 7, PvdA 7, CDA 6, D66 5, PVV 4, SP 3, CU 3, PvdD 3, JA21 3, Volt 2, SGP 2, FvD 2 other 2; composition (as of May 2023) - men 45, women 30, percent of women 40%<br>House of Representatives - percent of vote by party - VVD 21.9%, D66 15%, PVV 10.8%, CDA 9.5%, SP 9.1%, PvdA 5.7%, GL 5.2%, FvD 5%, PvdD 3.8%, CU 3.4%, other 13.7%; seats by party - VVD 34, D66 24, PVV 17, CDA 15, GL 8, FvD 8, PvdD 6, PvdA 9, SP 9, CU 5, Denk 3, SGP 3, 50 Plus 1, other 6; composition (as of September 2021) - men 89, women 61, percent of women 40.7%; note - total States General percent of women 37.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Hoge Raad (consists of 41 judges: the president, 6 vice presidents, 31 justices or raadsheren, and 3 justices in exceptional service, referred to as buitengewone dienst); the court is divided into criminal, civil, tax, and ombuds chambers<br>
@@ -354,7 +354,7 @@ _judge selection and term of office_: justices appointed by the monarch from a l
 _subordinate courts_: courts of appeal; district courts, each with up to 5 subdistrict courts; Netherlands Commercial Court<br>
 
 **Political parties and leaders**<br>
-Christian Democratic Appeal or CDA [Wopke HOEKSTRA]<br>Christian Union or CU [Gert-Jan SEGERS]<br>Democrats 66 or D66 [Sigrid KAAG]<br>Denk [Farid AZARKAN]<br>50Plus [Martin van ROOIJEN]<br>Forum for Democracy or FvD [Thierry BAUDET]<br>Green Left (GroenLinks) or GL [Jesse KLAVER]<br>Labor Party or PvdA (Attje KUIKEN)<br>Party for Freedom or PVV [Geert WILDERS]<br>Party for the Animals or PvdD [Esther OUWENHAND]<br>People's Party for Freedom and Democracy or VVD [Mark RUTTE]<br>Reformed Political Party or SGP [Kees VAN DER STAAIJ]<br>Socialist Party or SP [Lilian MARIJNISSEN]<br>
+Christian Democratic Appeal or CDA [Wopke HOEKSTRA]<br>Christian Union or CU [Mirjam BIKKER]<br>Correct Answer 2021 or JA21 [Joost EDERMANS]<br>Democrats 66 or D66 [Sigrid KAAG]<br>Denk [Farid AZARKAN]<br>Farmer-Citizen Movement or BBB [Caroline van der PLAS]<br>50Plus [Martin van ROOIJEN]<br>Forum for Democracy or FvD [Thierry BAUDET]<br>Green Left (GroenLinks) or GL [Jesse KLAVER]<br>Labor Party or PvdA (Attje KUIKEN)<br>Party for Freedom or PVV [Geert WILDERS]<br>Party for the Animals or PvdD [Esther OUWENHAND]<br>People's Party for Freedom and Democracy or VVD [Mark RUTTE]<br>Reformed Political Party or SGP [Kees VAN DER STAAIJ]<br>Socialist Party or SP [Lilian MARIJNISSEN]<br>Volt Netherlands or Volt [Laurens DASSEN]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, Benelux, BIS, CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, UNRWA, UN Security Council (temporary), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -364,7 +364,7 @@ _chief of mission_: Ambassador&nbsp;Andre HASPELS&nbsp;(since 16 September 2019)
 _chancery_: 4200 Linnean Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 244-5300<br>
 _FAX_: [1] (202) 362-3430<br>
-_email address and website_: <br>https://www.netherlandsworldwide.nl/countries/united-states/about-us/embassy-in-washington-dc<br>
+_email address and website_: <br>was@minbuza.nl<br><br>https://www.netherlandsworldwide.nl/countries/united-states/about-us/embassy-in-washington-dc<br>
 _consulate(s) general_: Atlanta, Chicago, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
@@ -565,6 +565,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 8.5% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 1 (2023)<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 0.48GW (2023)<br>
+_Percent of total electricity production_: 3.1% (2021)<br>
+_Percent of total energy produced_: 3% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 0<br>
+
 **Coal**<br>
 _production_: 1.879 million metric tons (2020 est.)<br>
 _consumption_: 8.241 million metric tons (2020 est.)<br>
@@ -723,9 +731,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 53,496 (Syria), 19,204 (Eritrea), 7,106 (Turkey), 5,593 (Iran), 5,152 (Iraq) (mid-year 2022); 79,250 (Ukraine) (as of 30 September 2022)<br>
+_refugees (country of origin)_: 53,496 (Syria), 19,204 (Eritrea), 7,106 (Turkey), 5,593 (Iran), 5,152 (Iraq) (mid-year 2022); 94,380 (Ukraine) (as of 26 May 2023)<br>
 _stateless persons_: 4,570 (2022)<br>
 
 **Illicit drugs**<br>
-<p>a significant transit country for illicit drugs, especially cocaine from South America destined for Europe; one of the largest sources of synthetic drugs for international markets; numerous methamphetamine laboratories; traffickers use postage companies to send cocaine, ecstasy or methamphetamines to global customers</p><br>
+<p>a major transit hub for illicit substances, especially cocaine from South and Central America and methamphetamine from Mexico; homegrown synthetic drug makers and illegal chemical precursor manufacturers selling dangerous drugs, including synthetic opioids, via the internet to customers in the United States and worldwide</p> <p> </p><br>
 

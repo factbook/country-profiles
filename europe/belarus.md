@@ -366,7 +366,7 @@ _chief of mission_: Ambassador (vacant; recalled by Belarus in 2008); Charg&eacu
 _chancery_: 1619 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 986-1606<br>
 _FAX_: [1] (202) 986-1805<br>
-_email address and website_: <br>usa@mfa.gov.by<br>
+_email address and website_: <br>usa@mfa.gov.by<br><br>https://usa.mfa.gov.by/en/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires ad interim, Deputy Chief of Mission &ndash; Ruben HARUTUNIAN (since 9 June 2022)<br>
@@ -567,6 +567,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 1.2% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 2 (2023)<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 2.22GW (2023)<br>
+_Percent of total electricity production_: 14.1% (2021)<br>
+_Percent of total energy produced_: 40.8% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 0<br>
+
 **Coal**<br>
 _production_: 0 metric tons (2020 est.)<br>
 _consumption_: 621,000 metric tons (2020 est.)<br>
@@ -705,7 +713,7 @@ the military's inventory is comprised mostly of Russian/Soviet-origin equipment,
 <strong>note:</strong> conscripts can be assigned to the military, to the Ministry of Interior as internal or border troops, or to the Ministry of Labor and Social Protection (alternative service); as of 2020, conscripts comprised an estimated 40% of the military<br>
 
 **Military - note**<br>
-Belarus has close security ties with Russia, including an integrated air and missile defense system, joint training exercises, and the establishment of three joint training centers since 2020 (1 in Belarus, 2 in Russia); Russia has been the principal supplier of arms to Belarus, and Belarusian troops reportedly train on Russian equipment; Russia leases from Belarus a strategic ballistic missile defense site operated by Russian Aerospace Forces and a global communications facility for the Russian Navy; in 2020, the countries signed an agreement allowing for close security cooperation between the Belarusian Ministry of Interior and the Russian National Guard, including protecting public order and key government facilities, and combating extremism and terrorism; in 2022, Belarus allowed Russian military forces to stage on its territory for its invasion of Ukraine and continues to supply arms and other aid to the Russian military; in 2023, Belarus allowed Russia to deploy nuclear munitions inside the country<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes an airborne brigade to CSTO's rapid reaction force (KSOR) (2023)<br>
+Belarus has close security ties with Russia, including an integrated air and missile defense system, joint training exercises, and the establishment of three joint training centers since 2020 (1 in Belarus, 2 in Russia); Russia has been the principal supplier of arms to Belarus, and Belarusian troops reportedly train on Russian equipment; Russia leases from Belarus a strategic ballistic missile defense site operated by Russian Aerospace Forces and a global communications facility for the Russian Navy; in 2020, the countries signed an agreement allowing for close security cooperation between the Belarusian Ministry of Interior and the Russian National Guard, including protecting public order and key government facilities, and combating extremism and terrorism; in 2022, Belarus allowed Russian military forces to stage on its territory for its invasion of Ukraine and continues to supply arms and other aid to the Russian military; in 2023, Belarus agreed to allow Russia to deploy nuclear munitions inside the country<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes an airborne brigade to CSTO's rapid reaction force (KSOR) (2023)<br>
 
 ## Transnational Issues
 

@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Seeking to stop the incorporation of their land into Rhodesia (Zimbabwe) or the Union of South Africa, in 1885, three tribal chiefs traveled to Great Britain and successfully lobbied the British Government to put "Bechuanaland" under UK protection. Upon independence in 1966, the British protectorate of Bechuanaland adopted the new name of Botswana. More than five decades of uninterrupted civilian leadership, progressive social policies, and significant capital investment have created one of the most stable economies in Africa. The ruling Botswana Democratic Party has won every national election since independence; President Mokgweetsi Eric MASISI assumed the presidency in April 2018 following the retirement of former President Ian KHAMA due to constitutional term limits. MASISI won his first election as president in October 2019, and he is Botswana&rsquo;s fifth president since independence. Mineral extraction, principally diamond mining, dominates economic activity, though tourism is a growing sector due to the country's conservation practices and extensive nature preserves. Botswana has one of the world's highest rates of HIV/AIDS infection but also one of Africa's most progressive and comprehensive programs for dealing with the disease.<br>
+In the early 1800s, multiple political entities in what is now Botswana were destabilized or destroyed by a series of conflicts and population movements in southern Africa. By the end of this period, the Tswana ethnic group, who also live across the border in South Africa, had become the most prominent group in the area. In 1852, Tswana forces halted the expansion of white Afrikaner settlers who were seeking to expand their territory northwards into what is now Botswana. In 1885, Great Britain claimed territory that roughly corresponds with modern day Botswana as a protectorate called Bechuanaland. Upon independence in 1966, the British protectorate of Bechuanaland adopted the new name of Botswana, which means land of the Tswana. More than five decades of uninterrupted civilian leadership, progressive social policies, and significant capital investment have created an enduring democracy and upper-middle-income economy. The ruling Botswana Democratic Party has won every national election since independence; President Mokgweetsi Eric MASISI assumed the presidency in 2018 following the retirement of former President Ian KHAMA due to constitutional term limits. MASISI won his first election as president in 2019, and he is Botswana’s fifth president since independence. Mineral extraction, principally diamond mining, dominates economic activity, though tourism is a growing sector due to the country's conservation practices and extensive nature preserves. Botswana has one of the world's highest rates of HIV/AIDS infection but also one of Africa's most progressive and comprehensive programs for dealing with the disease. <p> </p> <p> </p><br>
 
 ## Geography
 
@@ -77,7 +77,7 @@ the population is primarily concentrated in the east with a focus in and around 
 periodic droughts; seasonal August winds blow from the west, carrying sand and dust across the country, which can obscure visibility<br>
 
 **Geography - note**<br>
-landlocked; population concentrated in the southern and eastern parts of the country<br>
+landlocked; sparsely populated with most settlement concentrated in the southern and eastern parts of the country; geography dominated by the Kalahari Desert, which covers about 70% of the country, although the Okavango Delta brings considerable biodiversity as one of the largest inland deltas in the World&nbsp;<br>
 
 ## People and Society
 
@@ -303,7 +303,7 @@ _conventional short form_: Botswana<br>
 _local long form_: Republic of Botswana<br>
 _local short form_: Botswana<br>
 _former_: Bechuanaland<br>
-_etymology_: the name Botswana means "Land of the Tswana" - referring to the country's major ethnic group<br>
+_etymology_: the name Botswana means "Land of the Tswana" - referring to the country's largest ethnic group<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -325,7 +325,7 @@ Independence Day (Botswana Day), 30 September (1966)<br>
 
 **Constitution**<br>
 _history_: previous 1960 (preindependence); latest adopted March 1965, effective 30 September 1966<br>
-_amendments_: proposed by the National Assembly; passage requires approval in two successive Assembly votes with at least two-thirds majority in the final vote; proposals to amend constitutional provisions on fundamental rights and freedoms, the structure and branches of government, and public services also requires approval by majority vote in a referendum and assent by the president of the republic; amended several times, last in 2016<br>
+_amendments_: proposed by the National Assembly; passage requires approval in two successive Assembly votes with at least two-thirds majority in the final vote; proposals to amend constitutional provisions on fundamental rights and freedoms, the structure and branches of government, and public services also requires approval by majority vote in a referendum and assent by the president of the republic; amended several times, last in 2021<br>
 
 **Legal system**<br>
 mixed legal system of civil law influenced by the Roman-Dutch model and also customary and common law<br>
@@ -347,7 +347,7 @@ _chief of state_: President Mokgweetse Eric MASISI (since 1 April 2018); Vice Pr
 _head of government_: President Mokgweetse Eric MASISI (since 1 April 2018); Vice President Slumber TSOGWANE (since 4 April 2018);<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 23 October 2019 (next to be held in 2024 October); vice president appointed by the president<br>
-_election results_: <br><em>2019:</em> President Seretse Khama Ian KHAMA, who had served as president since 1 April 2008, stepped down on 1 April 2018 having completed the constitutionally mandated 10-year term limit; upon his retirement, then Vice President MASISI became president; national elections held on 23 October 2019 gave MASISI'S BPD 38 seats in the National Assembly which then selected MASISI as President<br>
+_election results_: <br><em>2019:</em> President Seretse Khama Ian KHAMA, who had served as president since 1 April 2008, stepped down on 1 April 2018 having completed the constitutionally mandated 10-year term limit; upon his retirement, then Vice President MASISI became president; national elections held in 2019 gave MASISI'S BPD 38 seats in the National Assembly which then selected MASISI as President<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament consists of the National Assembly (63 seats; 57 members directly elected in single-seat constituencies by simple majority vote,&nbsp;4 nominated by the president and indirectly elected by simple majority vote by the rest of the National Assembly, and 2 ex-officio members - the president and attorney general; elected members serve 5-year terms); note - the House of Chiefs (Ntlo ya Dikgosi), an advisory body to the National Assembly, consists of 35 members - 8 hereditary chiefs from Botswana's principal tribes, 22 indirectly elected by the chiefs, and 5 appointed by the president; the House of Chiefs consults on issues including powers of chiefs, customary courts, customary law, tribal property, and constitutional amendments<br>
@@ -360,7 +360,7 @@ _judge selection and term of office_: Court of Appeal and High Court chief justi
 _subordinate courts_: Industrial Court (with circuits scheduled monthly in the capital city and in 3 districts); Magistrates Courts (1 in each district); Customary Court of Appeal; Paramount Chief's Court/Urban Customary Court; Senior Chief's Representative Court; Chief's Representative’s Court; Headman's Court<br>
 
 **Political parties and leaders**<br>
-Alliance of Progressives or AP [Ndaba GAOLATHE]<br>Botswana Congress Party or BCP [Dumelang SALESHANDO]<br>Botswana Democratic Party or BDP [Mokgweetsi MASISI]<br>Botswana Movement for Democracy or BMD [Sidney PILANE]<br>Botswana National Front or BNF [Duma BOKO]<br>Botswana Patriotic Front or BPF [Biggie BUTALE]<br>Botswana Peoples Party or BPP [Motlatsi MOLAPISI]<br>Real Alternative Party or RAP [Gaontebale MOKGOSI]<br>Umbrella for Democratic Change or UDC [Duma BOKO] (various times the coalition has included the BMD, BPP, BCP and BNF) (2019)<br>
+Alliance of Progressives or AP [Ndaba GAOLATHE]<br>Botswana Congress Party or BCP [Dumelang SALESHANDO]<br>Botswana Democratic Party or BDP [Mokgweetsi MASISI]<br>Botswana National Front or BNF [Duma BOKO]<br>Botswana Patriotic Front or BPF [Biggie BUTALE]<br>Botswana Peoples Party or BPP [Motlatsi MOLAPISI]<br>Umbrella for Democratic Change or UDC [Duma BOKO] (various times the coalition has included the BPP, BCP, BNF and other parties)<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

@@ -370,7 +370,7 @@ _chief of mission_: Ambassador KEO Chhea (since 19 April 2022)<br>
 _chancery_: 4530 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 726-7742<br>
 _FAX_: [1] (202) 726-8381<br>
-_email address and website_: <br>camemb.usa@mfaic.gov<br><br>https://www.embassyofcambodiadc.org/<br>
+_email address and website_: <br>camemb.usa@mfaic.gov.kh<br><br>https://www.embassyofcambodiadc.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador W. Patrick MURPHY (since 23 October 2019)<br>
@@ -729,5 +729,5 @@ _tier rating_: Tier 3 &mdash; Cambodia does not fully meet the minimum standards
 _trafficking profile_: human traffickers exploit Cambodian men, women, and children in forced labor and sex trafficking in Cambodia and abroad, and foreign nationals are trafficked in Cambodia; Cambodian adults and children migrate to other countries in the region or increasingly to the Middle East where traffickers force them to work in agriculture, fishing, construction, manufacturing, and domestic servitude; significant numbers of Cambodian men and boys are subject to forced labor on Thai ships in international waters and may experience physical abuse, nonpayment or underpayment of wages, and confinement at sea; brick kiln owners exploit thousands of Cambodians, including children, through debt-based coercion; children from poor families are vulnerable to forced labor, often with the complicity of their parents, in domestic servitude, forced begging, or street vending in Thailand and Vietnam; traffickers recruit Cambodian women and girls from rural areas under false pretenses, or sometimes through complicit parents, to travel to the PRC to marry PRC-national men where they are subject to sex trafficking or forced labor; Cambodian and ethnic Vietnamese women and girls from rural areas move to cities and tourist areas where they are sex trafficked (2022)<br>
 
 **Illicit drugs**<br>
-<p>manufacture of methamphetamine expanding due to  transnational crime syndicates moving from China to evade the law; drugs destined for Australia, Japan, New Zealand and the Republic of Korea and the rest of East and South-East Asia</p> (2021)<br>
+<p>a significant transshipment country for Burma-sourced methamphetamine and heroin and a location for large-scale ketamine production; transnational criminal organizations (TCO’s) use Cambodia as both a transit and destination for illicit drugs; precursor chemicals from mainly China used at domestic clandestine laboratories operated by TCOs for the manufacturing of methamphetamine, ketamine, and other synthetic drugs</p> (2021)<br>
 

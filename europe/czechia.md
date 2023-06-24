@@ -357,7 +357,7 @@ Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, 
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Miloslav STASEK (since 16 September 2022)<br>
-_chancery_: 3900 Spring of Freedom Lane NW, Washington, DC 20008-3803<br>
+_chancery_: 3900 Spring of Freedom Street NW, Washington, DC 20008-3803<br>
 _telephone_: [1] (202) 274-9100<br>
 _FAX_: [1] (202) 966-8540<br>
 _email address and website_: <br>washington@embassy.mzv.cz<br><br>https://www.mzv.cz/washington/<br>
@@ -561,6 +561,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 7% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 6 (2023)<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 3.93GW (2023)<br>
+_Percent of total electricity production_: 36.7% (2021)<br>
+_Percent of total energy produced_: 38.3% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 0<br>
+
 **Coal**<br>
 _production_: 33.806 million metric tons (2020 est.)<br>
 _consumption_: 37.212 million metric tons (2020 est.)<br>
@@ -611,7 +619,7 @@ _total subscriptions_: 13,129,905 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 125 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom market has attracted investment from among the key regional telcos; telcos in the Czech Republic have become multi-service providers, offering a full range of fixed and mobile services; the auction has enabled the licensees to expand the reach of their 5G networks; this process has also been assisted by them closing down 3G networks and reforming spectrum for 5G and LTE use (2021)<br>
+_general assessment_: the telecom market has attracted investment from among the key regional telcos; telcos in the Czech Republic have become multi-service providers, offering a full range of fixed and mobile services; this has enabled the reach of their 5G networks; this process has also been assisted by them closing down 3G networks and reforming spectrum for 5G and LTE use (2023)<br>
 _domestic_: roughly 12 fixed-telephone subscriptions per 100 inhabitants and mobile telephone usage of 125 per 100 inhabitants (2021)<br>
 _international_: country code - 420; satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar) (2019)<br>
 
@@ -707,9 +715,9 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 520,234 (Ukraine) (as of 14 May 2023)<br>
+_refugees (country of origin)_: 520,695 (Ukraine) (as of 4 June 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>
-<p>manufacture of methamphetamine continues to be mostly based on pseudoephedrine from  Poland or Turkey.</p> <p> </p><br>
+<p>main country of origin of methamphetamine in European markets; manufacture of methamphetamine continues to be mostly based on pseudoephedrine from Poland or Turkey</p> <p> </p><br>
 

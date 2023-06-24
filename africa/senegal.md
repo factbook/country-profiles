@@ -380,9 +380,9 @@ ACP, AfDB, AU, CD, CPLP (associate), ECOWAS, EITI (candidate country), FAO, FZ, 
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mansour Elimane KANE (since 6 January 2020)<br>
-_chancery_: 2215 M Street NW, Washington, DC 20007<br>
+_chancery_: 2215 M ST NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 234-0540<br>
-_FAX_: [1] (202) 629-2961<br>
+_FAX_: [1] (202) 332-6315; [1] (202) 629-2961<br>
 _email address and website_: <br>contact@ambasenegal-us.org<br><br>http://www.ambasenegal-us.org/index.php<br>
 _consulate(s) general_: Houston, New York<br>
 
@@ -735,5 +735,5 @@ _tier rating_: Tier 2 Watch List &mdash; Senegal does not fully meet the minimum
 _trafficking profile_: human traffickers exploit domestic and foreign victims in Senegal, and Senegalese abroad; forced begging is the most prevalent form of trafficking in Senegal; corrupt Quranic teachers, or men claiming to be Quranic teachers, force children to beg in the major cities; children and women are exploited in sex trafficking and forced labor in domestic servitude and gold mining; although internal trafficking is most prevalent, boys from Burkina Faso, The Gambia, Guinea, Guinea-Bissau, and Mali are exploited in forced begging as well as forced labor in artisanal gold mines; Nigerian women are exploited in sex trafficking in southeastern Senegal&rsquo;s gold mining region, where women from Senegal, Ghana, Mali, Guinea, and Sierra Leone are also exploited; West African women and girls are forced into domestic servitude and sex trafficking in Senegal, including sex tourism for tourists from Belgium, France, Germany, and other countries; Senegalese women and girls are exploited as domestic servants in neighboring countries, Europe, and the Middle East (2022)<br>
 
 **Illicit drugs**<br>
-<p>major transit point on the cocaine route from South America to Europe; the third-largest cannabis-producing country in West Africa</p><br>
+<p>a transit point on the cocaine route from South America to Europe; large production of cannabis in southern Casamance region; the high domestic use of cannabis, crack cocaine and to a lesser extent heroin</p><br>
 

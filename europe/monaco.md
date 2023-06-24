@@ -301,7 +301,7 @@ _judge selection and term of office_: Supreme Court members appointed by the mon
 _subordinate courts_: Court of Appeal; Civil Court of First Instance<br>
 
 **Political parties and leaders**<br>
-Monegasque National Union [Brigitte BOCCONE-PAGES] (includes Horizon Monaco, Primo!, Union Monegasque)<br>Horizon Monaco[Laurent NOUVION]<br>Priorite Monaco or Primo! [Stephane VALERI]<br>Union Monegasque [Jean-Francois ROBILLON]<br>
+Monegasque National Union [Brigitte BOCCONE-PAGES] (includes Horizon Monaco, Primo!, Union Monegasque)<br>Horizon Monaco [Laurent NOUVION]<br>Priorite Monaco or Primo! [Stephane VALERI]<br>Union Monegasque [Jean-Francois ROBILLON]<br>
 
 **International organization participation**<br>
 CD, CE, FAO, IAEA, ICAO, ICC (national committees), ICRM, IFRCS, IHO, IMO, IMSO, Interpol, IOC, IPU, ITSO, ITU, OAS (observer), OIF, OPCW, OSCE, Schengen Convention (de facto member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WHO, WIPO, WMO<br>
@@ -311,7 +311,7 @@ _chief of mission_: Ambassador Maguy MACCARIO-DOYLE (since 3 December 2013)<br>
 _chancery_: 888 17th Street NW, Washington, DC 20006<br>
 _telephone_: [1] (202) 234-1530<br>
 _FAX_: [1] (202) 244-7656<br>
-_email address and website_: info@monacodc.org<br>https://monacodc.org/index.html<br>
+_email address and website_: <br>info@monacodc.org<br><br>https://monacodc.org/index.html<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>

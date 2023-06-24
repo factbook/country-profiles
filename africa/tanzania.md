@@ -386,9 +386,9 @@ ACP, AfDB, AU, C, CD, EAC, EADB, EITI, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Elsie Sia KANZA (since 1 December 2021)<br>
 _chancery_: 1232 22nd Street NW, Washington, DC 20037<br>
-_telephone_: [1] (202) 884-1080, [1] (202) 939-6125, [1] (202) 939-6127<br>
+_telephone_: [1] (202) 884-1080<br>
 _FAX_: [1] (202) 797-7408<br>
-_email address and website_: <br>ubalozi@tanzaniaembassy-us.org<br><br>https://tanzaniaembassy-us.org/<br>
+_email address and website_: <br>ubalozi@tanzaniaembassy-us.org<br><br>https://us.tzembassy.go.tz/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Michael A. BATTLE Sr. (since 27 February 2023)<br>
@@ -745,8 +745,8 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 126,493 (Burundi), 82,220 (Democratic Republic of the Congo) (2023)<br>
+_refugees (country of origin)_: 126,614 (Burundi), 82,612 (Democratic Republic of the Congo) (2023)<br>
 
 **Illicit drugs**<br>
-<p>significant transit country for illicit drugs in East Africa; international drug-trafficking organizations and courier networks transit through Tanzania to smuggle heroin and methamphetamine from Southwest Asia; produces cannabis products and khat for domestic consumption and regional and international distribution; traffickers influence politicians, law enforcement, and others in positions of power with money</p> (2021)<br>
+<p>significant transit country for illicit drugs in East Africa; international drug trafficking organizations and courier networks transit illicit drugs through mainland Tanzania to markets in Europe and North America; cultivates cannabis and khat for domestic consumption and regional and international distribution; domestic drug use continues increasing including methamphetamine use</p> (2021)<br>
 

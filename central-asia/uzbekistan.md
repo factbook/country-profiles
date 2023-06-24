@@ -362,7 +362,7 @@ Ecological Party of Uzbekistan (O'zbekiston Ekologik Partivasi) [Narzullo OBLOMU
 ADB, CICA, CIS, EAEU (observer), EAPC, EBRD, ECO, EEU (observer), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Furqat SIDDIQOV (since 19 April 2023)<br>
+_chief of mission_: Ambassador Furqat SIDIKOV (since 19 April 2023)<br>
 _chancery_: 1746 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 887-5300<br>
 _FAX_: [1] (202) 293-6804<br>
@@ -717,5 +717,5 @@ _refugees (country of origin)_: 13,031 (Afghanistan) (mid-year 2022)<br>
 _stateless persons_: 31,829 (2022)<br>
 
 **Illicit drugs**<br>
-<p>transit country for Afghan opium and heroin destined for Russia and the European Union; also transit country for hashish, cannabis products, New Psychoactive Substances (NPS), and synthetic drugs; cannabis and poppy are cultivated in small amounts for personal use and local sale</p><br>
+<p>a transit country for Afghan heroin, opium, and hashish destined to Kazakhstan, Russia, and Europe;  cannabis and opium poppy are grown domestically for personal use and sale</p><br>
 

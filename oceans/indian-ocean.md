@@ -5,7 +5,7 @@ _Oceans / Oceans_
 ## Introduction
 
 **Background**<br>
-The Indian Ocean is the third largest of the world's five oceans (after the Pacific Ocean and Atlantic Ocean, but larger than the Southern Ocean and Arctic Ocean). Four critically important access waterways are the Suez Canal (Egypt), Bab el Mandeb (Djibouti-Yemen), Strait of Hormuz (Iran-Oman), and Strait of Malacca (Indonesia-Malaysia).The decision by the International Hydrographic Organization in the spring of 2000 to delimit a fifth ocean, the Southern Ocean, removed the portion of the Indian Ocean south of 60 degrees south latitude.<br>
+The Indian Ocean is the third largest of the world's five oceans (after the Pacific Ocean and Atlantic Ocean, but larger than the Southern Ocean and Arctic Ocean). Four critically important access waterways are the Suez Canal (Egypt), Bab el Mandeb (Djibouti-Yemen), Strait of Hormuz (Iran-Oman), and Strait of Malacca (Indonesia-Malaysia). The decision by the International Hydrographic Organization in the spring of 2000 to delimit a fifth ocean, the Southern Ocean, removed the portion of the Indian Ocean south of 60 degrees south latitude.<br>
 
 ## Geography
 

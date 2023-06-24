@@ -362,7 +362,7 @@ ABEDA, ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, FAO, G-11, G-15, G-24, G-7
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mahinda SAMARASINGHE (since 13 January 2022)<br>
 _chancery_: 3025 Whitehaven Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 483-4025 through 4028<br>
+_telephone_: [1] (202) 483-4025<br>
 _FAX_: [1] (202) 232-7181<br>
 _email address and website_: <br>slembassy@slembassyusa.org<br><br>https://slembassyusa.org/new/<br>
 _consulate(s) general_: Los Angeles, New York<br>

@@ -672,8 +672,8 @@ _LNG terminal(s) (import)_: Revithoussa<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National Guard reserves), Hellenic Navy (Elliniko Polemiko Navtiko, EPN), Hellenic Air Force (Elliniki Polemiki Aeroporia, EPA; includes air defense); Ministry of Shipping Affairs and Island Policy: Coast Guard (2022)<br>
-<strong>note:</strong> the police (under the Ministry of Citizen Protection) and the armed forces (Ministry of National Defense) share law enforcement duties in certain border areas; border protection is coordinated by a deputy minister for national defense<br>
+Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National Guard), Hellenic Navy (Elliniko Polemiko Navtiko, EPN), Hellenic Air Force (Elliniki Polemiki Aeroporia, EPA; includes air defense); Ministry of Shipping Affairs and Island Policy: Coast Guard (2023)<br>
+<strong>note 1:</strong> the police (under the Ministry of Citizen Protection) and the armed forces (Ministry of National Defense) share law enforcement duties in certain border areas; border protection is coordinated by a deputy minister for national defense<br><br>note 2: the National Guard was established in 1982 as an official part of the Army to help protect Greece and provide reinforcements and support to the Army in peacetime and in times of mobilization and war; members undergo weekly training run by the Army, which also provides weapons and ammunition<br>
 
 **Military expenditures**<br>
 3.6% of GDP (2022 est.)<br>
@@ -686,8 +686,8 @@ Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National G
 approximately 125,000 active duty personnel (90,000 Army; 15,000 Navy; 20,000 Air Force); approximately 35,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a mix of imported weapons from Europe and the US, as well as a limited number of domestically produced systems; Greece's defense industry is capable of producing a range of military hardware, including naval vessels and associated subsystems (2022)<br>
-<strong>note:</strong> as of 2022, Greece was in the midst of a significant military modernization program which included major acquisitions of fighter aircraft and naval ships from France; it had also boosted purchases of US equipment, including fighter aircraft upgrades, helicopters, and naval patrol craft <br>
+the military's inventory consists of a mix of imported weapons from Europe and the US, as well as a limited number of domestically produced systems; in recent years, France, Germany, and the US have been the top suppliers; Greece's defense industry is capable of producing a range of military hardware, including naval vessels and associated subsystems (2023)<br>
+<strong>note:</strong> Greece is in the midst of a significant military modernization program which includes acquisitions of fighter aircraft and naval ships from France and armored vehicles and tanks from Germany; it has also boosted purchases of US equipment, including fighter aircraft upgrades, helicopters, and naval patrol craft<br>
 
 **Military service age and obligation**<br>
 19-45 years of age for compulsory military service for men; 12-month obligation for all services (note - as an exception, the duration of the full military service is 9 instead of 12 months if conscripts, after the initial training, serve the entire remaining time in certain areas of the eastern borders, in Cyprus, or in certain military units); 18 years of age for voluntary military service for men and women (2023)<br>
@@ -711,9 +711,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 <p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 22,704 (Ukraine) (as of 31 March 2023)<br>
+_refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 24,985 (Ukraine) (as of 30 April 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,238,740 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
+<strong>note:</strong> 1,239,492 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

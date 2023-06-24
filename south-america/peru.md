@@ -385,9 +385,9 @@ APEC, BIS, CAN, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Irving Israel JAIME LIZARRAGA (since 11 February 2023)<br>
 _chancery_: 1700 Massachusetts Avenue NW, Washington, DC 20036<br>
-_telephone_: [1] (202) 833-9860 through 9869<br>
+_telephone_: [1] (202) 833-9860<br>
 _FAX_: [1] (202) 659-8124<br>
-_email address and website_: <br>Webadmin@embassyofperu.us<br>
+_email address and website_: <br>Webadmin@embassyofperu.us<br><br>Embassy of Peru in the United States - E-United States - Platform of the Peruvian State (www.gob.pe)<br>
 _consulate(s) general_: Atlanta, Boston, Chicago, Dallas, Denver, Hartford (CT), Houston, Los Angeles, Miami, New York, Paterson (NJ), San Francisco, Washington DC<br>
 
 **Diplomatic representation from the US**<br>
@@ -738,7 +738,7 @@ the military's inventory is a mix of mostly older equipment from a wide variety 
 215 Central African Republic (MINUSCA) (May 2022)<br>
 
 **Military - note**<br>
-the Peruvian security forces continue to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T<u>)</u>, particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; the military has several thousand troops in the VRAEM under a combined Special Command comprised of air, ground, naval, police, and special forces units (2023)<br>
+the Peruvian Armed Forces (FAP) are responsible for external security in addition to some domestic security responsibilities in designated emergency areas and in exceptional circumstances; key areas of focus include counterinsurgency, counternarcotics, disaster relief, and maritime security operations; the FAP trains regularly and participates in both bilateral and multinational exercises; it has contributed to UN missions since 1958 and has ties to regional militaries, particularly Colombia, as well as those of numerous other countries such as China, Russia, Spain, and the US; the FAP’s last external conflict was a brief border war with Ecuador in 1995; the FAP supported the police during anti-government protests in early 2023 and was accused of human rights violations <br><br>the Joint Command of the Armed Forces of Peru (Comando Conjunto de las Fuerzas Armadas del Perú or CCFFAA) has responsibility for the planning, preparation, coordination, and direction of the military’s operations; the CCFFAA has oversight over commands for air, air defense, cyber, maritime, and special operations, as well as 5 regional commands (Amazonas, central, north, south, and Ucayali) and a Special Command of the Valley of the Apurimac, Ene, and Mantaro rivers (CE-VRAEM); CE-VRAEM is responsible for combating the remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T) and includes several thousand air, ground, naval, police, and special forces personnel; the FAP also provides aircraft, vehicles, and logistical support to the command  <br><br>the Army was officially established in 1821 with the formation of the Peruvian Guard Legion; it currently has 5 regionally based divisions comprised of about 20 combat brigades, which include a mix of armored, artillery, jungle infantry, light infantry, mechanized cavalry, and special forces; the Army also has an aviation brigade and a multi-purpose support brigade designed in large part to provide assistance during natural disasters; the Navy, also established in 1821, includes the Coast Guard; it has undertaken efforts to modernize since the 2000s; the Navy’s warships include 7 frigates, 15 corvettes and patrol ships, and 6 attack submarines; it also has a flotilla of river gunboats, plus naval aviation and a marine force comprised of amphibious infantry, light infantry, jungle infantry, and commandos; the Air Force, established in the 1920s, has several squadrons of French-, Russian-, and US-made fighters, multirole fighters, and fixed-wing ground attack aircraft, as well as attack helicopters (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Peru are a risk for armed robbery against ships; in 2022, 12 attacks against commercial vessels were reported, a slight decrease over the 18 attacks in 2021; all of these occurred in the main port of Callao while ships were berthed or at anchor<br>
@@ -759,5 +759,5 @@ _refugees (country of origin)_: 1,286,434 (Venezuela) (economic and political cr
 _IDPs_: 60,000 (civil war from 1980-2000; most IDPs are indigenous peasants in Andean and Amazonian regions; as of 2011, no new information on the situation of these IDPs) (2021)<br>
 
 **Illicit drugs**<br>
-world&rsquo;s second-largest producer of cocaine, with an estimated 88,200 hectares under coca cultivation in 2020; cocaine is trafficked throughout South America for shipment to Europe, East Asia, Mexico, and the United States; major importer of precursor chemicals for cocaine production<br>
+<p>world’s second-largest producer of cocaine and coca (after Colombia), with approximately 84,400 hectares (ha) under cultivation in 2021;  Peruvian cocaine is trafficked throughout South America for shipment to Europe, East Asia, Mexico, and the United States;  major importer of precursor chemicals for cocaine production; growing domestic drug consumption problem; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
 

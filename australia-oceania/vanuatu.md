@@ -331,10 +331,10 @@ ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO,
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Odo TEVI (since 8 September 2017)<br>note - also Permanent Representative to the UN<br>
-_telephone_: [1] (212) 661-4303<br>
+_chancery_: 800 Second Avenue, Suite 400B, New York, NY 10017<br>
+_telephone_: [1] (212) 661-4323<br>
 _FAX_: [1] (212) 422-3427<br>
-_email address and website_: email - vanunmis@aol.com<br>web address - https://www.un.int/vanuatu/<br>
-_embassy_: 800 Second Avenue, Suite 400B, New York, NY 10017<br>
+_email address and website_: <br>vanunmis@aol.com<br><br>https://www.un.int/vanuatu/<br>
 note - the Vanuatu Permanent Mission to the UN serves as the embassy<br>
 
 **Diplomatic representation from the US**<br>

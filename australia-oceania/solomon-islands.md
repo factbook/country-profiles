@@ -334,7 +334,7 @@ ACP, ADB, AOSIS, C, EITI (candidate country), ESCAP, FAO, G-77, IBRD, ICAO, ICRM
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jane Mugafalu Kabui WAETARA (since 16 September 2022)<br>
 _chancery_: 685 Third Avenue, 11th Floor, Suite 1102, New York, NY 10017<br>
-_telephone_: [1] (212) 599-6192; [1] (212) 599-6193<br>
+_telephone_: [1] (212) 599-6192<br>
 _FAX_: [1] (212) 661-8925<br>
 _email address and website_: <br>simun@solomons.com<br>
 

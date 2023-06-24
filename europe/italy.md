@@ -331,9 +331,9 @@ _residency requirement for naturalization_: 4 years for EU nationals, 5 years fo
 **Executive branch**<br>
 _chief of state_: President Sergio MATTARELLA (since 3 February 2015)<br>
 _head of government_: Prime Minister Giorgia MELONI (since 22 October 2022); the prime minister's official title is President of the Council of Ministers<br>
-_cabinet_: Council of Ministers proposed by the prime minister, known officially as the President of the Council of Ministers and locally as the Premier; nominated by the president; the current deputy prime ministers, known officially as vice presidents of the Council of Ministers, are Matteo SALVINI (L) and Luigi Di MAIO (M5S) (since 1 June 2018)<br>
+_cabinet_: Council of Ministers proposed by the prime minister, known officially as the President of the Council of Ministers and locally as the Premier; nominated by the president; the current deputy prime ministers, known officially as vice presidents of the Council of Ministers, are Matteo SALVINI (L) and Antonio TAIANI (FI) (since 22 October 2022)<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of both houses of Parliament and 58 regional representatives for a 7-year term (no term limits); election last held on 24-29 January 2022 (eight rounds) (next to be held in 2029); prime minister appointed by the president, confirmed by parliament<br>
-_election results_: <em>2022:</em> Sergio MATTARELLA (independent) reelected president; electoral college vote count in eighth round - 759 out of 1,009 (505 vote threshold)<br><br><em>2015: </em>Sergio MATTARELLA (independent) elected president; electoral college vote count in fourth round - 665 out of 995 (505 vote threshold)<br>
+_election results_: <p><em>2022:</em> Sergio MATTARELLA (independent) reelected president; electoral college vote count in eighth round - 759 out of 1,009 (505 vote threshold)<br><br><em>2015: </em>Sergio MATTARELLA (independent) elected president; electoral college vote count in fourth round - 665 out of 995 (505 vote threshold)</p> <p> </p><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlamento consists of:<br>Senate or Senato della Repubblica (200 elected seats; 122 members in multi-seat constituencies directly elected by proportional representation vote, 74 members in single-seat constituencies directly elected by plurality vote, and 4 members in multi-seat constituencies abroad directly elected by proportional representation vote; all members serve 5-year terms)<br>Chamber of Deputies or Camera dei Deputati (400 seats; 245 members directly elected in multi-seat constituencies by proportional representation vote; 147 members directly elected in single-seat constituencies by plurality vote and 8 members in multi-seat constituencies abroad by proportional representation vote; members serve 5-year terms)<br>
@@ -347,7 +347,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the High
 _subordinate courts_: various lower civil and criminal courts (primary and secondary tribunals and courts of appeal)<br>
 
 **Political parties and leaders**<br>
-<p>Action-Italia Viva [Carlo CALENDA and Matteo RENZI]<br>Associative Movement of Italians Abroad or MAIE [Ricardo Antonio MERIO]<br>Brothers of Italy or FdI [Giorgia MELONI]<br>Democratic Party or PD [Enrico LETTA]<br>Five Star Movement or M5S [Giuseppe CONTE]<br>Forza Italia or FI [Silvio BERLUSCONI]<br>Free and Equal (Liberi e Uguali) or LeU [Pietro GRASSO]<br>Greens and Left Alliance or AVS [Angelo BONELLI]<br>Italexit [Gianluigi PARAGONE]]<br>League or Lega [Matteo SALVINI]<br>More Europe or +EU [Emma BONINO]<br>Popular Union or PU [Luigi DE MAGISTRIS]<br>South calls North or ScN [Cateno DE LUCA] <br>South Tyrolean Peoples Party or SVP [Philipp ACHAMMER]<br>other minor parties</p><br>
+<p>Action-Italia Viva [Carlo CALENDA and Matteo RENZI]<br>Associative Movement of Italians Abroad or MAIE [Ricardo Antonio MERIO]<br>Brothers of Italy or FdI [Giorgia MELONI]<br>Democratic Party or PD [Elly SCHLEIN]<br>Five Star Movement or M5S [Giuseppe CONTE]<br>Forza Italia or FI <br>Free and Equal (Liberi e Uguali) or LeU [Pietro GRASSO]<br>Greens and Left Alliance or AVS [Angelo BONELLI]<br>Italexit [Gianluigi PARAGONE]]<br>League or Lega [Matteo SALVINI]<br>More Europe or +EU [Emma BONINO]<br>Popular Union or PU [Luigi DE MAGISTRIS]<br>South calls North or ScN [Cateno DE LUCA] <br>South Tyrolean Peoples Party or SVP [Philipp ACHAMMER]<br>other minor parties</p><br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CDB, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMOGIP, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -357,7 +357,7 @@ _chief of mission_: Ambassador Maria Angela ZAPPIA (since 15 September 2021)<br>
 _chancery_: 3000 Whitehaven Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 612-4400<br>
 _FAX_: [1] (202) 518-2154<br>
-_email address and website_: <br>amb.washington@cert.esteri.it<br><br>https://ambwashingtondc.esteri.it/ambasciata_washington/en/<br>
+_email address and website_: <br>washington.ambasciata@esteri.it<br><br>https://ambwashingtondc.esteri.it/ambasciata_washington/en/<br>
 _consulate(s) general_: Boston, Chicago, Detroit, Houston, Miami, New York, Los Angeles, Philadelphia, San Francisco<br>
 _consulate(s)_: Charlotte (NC), Cleveland (OH), Detroit (MI), Hattiesburg (MS), Honolulu (HI), New Orleans, Newark (NJ), Norfolk (VA), Pittsburgh (PA), Portland (OR), Seattle<br>
 
@@ -560,6 +560,14 @@ _tide and wave_: 0.2% of total installed capacity (2020 est.)<br>
 _geothermal_: 2.2% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 8.1% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 0<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 0GW<br>
+_Percent of total electricity production_: 0%<br>
+_Percent of total energy produced_: 0%<br>
+_Number of nuclear reactors permanently shut down_: 4<br>
+
 **Coal**<br>
 _production_: 1.456 million metric tons (2020 est.)<br>
 _consumption_: 9.335 million metric tons (2020 est.)<br>
@@ -684,7 +692,7 @@ Italy operates one PC 5 or 6 class light icebreaker, it is based in the Mediterr
 
 **Military and security forces**<br>
 Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italiana, MMI; includes aviation, marines), Italian Air Force (Aeronautica Militare Italiana, AMI); Carabinieri Corps (Arma dei Carabinieri, CC) (2023)<br>
-<strong>note 1:</strong> the Carabinieri is the national gendarmerie; for its civil police functions, the Carabinieri falls under the control of the Ministry of the Interior<br><br><strong>note 2:</strong> the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
+<strong>note 1:</strong> the National Police and Carabinieri (gendarmerie or military police) maintain internal security; the National Police reports to the Ministry of Interior while the Carabinieri reports to the Ministry of Defense but is also under the coordination of the Ministry of Interior; the Carabinieri is primarily a domestic police force organized along military lines, with some overseas responsibilities<br><br><strong>note 2:</strong> the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2022)<br>
@@ -697,14 +705,14 @@ Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italia
 approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 108,000 Carabinieri (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of domestically manufactured, imported, and jointly produced weapons systems, mostly from Europe and the US; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in naval vessels and aircraft; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2023)<br>
+the military's inventory includes a mix of domestically manufactured, imported, and jointly produced weapons systems, mostly from Europe and the US; in recent years, the US has been the lead supplier of military hardware to Italy; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in aircraft, armored vehicles, and naval vessels; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2023)<br>
 
 **Military service age and obligation**<br>
 17-25 years of age for voluntary military service for men and women (some variations on age depending on the military branch); voluntary service is a minimum of 12 months with the option to extend in the Armed Forces or compete for positions in the Military Corps of the Italian Red Cross, the State Police, the Carabinieri, the Guardia di Finanza, the Penitentiary Police, or the National Fire Brigade; recruits can also volunteer for 4 years military service; conscription abolished 2004 (2022)<br>
 <strong>note:</strong> women may serve in any military branch; as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-120 Djibouti; approximately 700 Bulgaria (NATO); 900 Middle East/Iraq/Kuwait (NATO, European Assistance Mission Iraq); 640 Kosovo (NATO/KFOR); 250 Latvia (NATO); 875 Lebanon (UNIFIL); 400 Libya; 290 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2022)<br>
+120 Djibouti; approximately 750 Bulgaria (NATO); approximately 1,000 Middle East/Iraq/Kuwait (NATO, European Assistance Mission Iraq); 850 Kosovo (NATO/KFOR); 250 Latvia (NATO); 1,300 Lebanon (UNIFIL); 400 Libya; 350 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2023)<br>
 <strong>note:</strong> in response to Russia’s invasion of Ukraine, some NATO countries, including Italy, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
@@ -724,8 +732,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 175,107 (Ukraine) (as of 19 May 2023)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 731,709 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
+<strong>note:</strong> 751,054 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
 
 **Illicit drugs**<br>
-important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>
+<p>important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe</p><br>
 

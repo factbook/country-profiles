@@ -345,9 +345,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <p><em>2018: </em>Julius Maada BIO elected president in second round; percent of vote - Julius Maada BIO (SLPP) 51.8%, Samura KAMARA (APC) 48.2%<br><br><em>2012: </em>Ernest Bai KOROMA reelected president; percent of vote - Ernest Bai KOROMA (APC) 58.7%, Julius Maada BIO (SLPP) 37.4%, other 3.9%</p> <p> </p><br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (146 seats; 132 members directly elected in single-seat constituencies by simple majority vote and 14 seats filled in separate elections by non-partisan members of Parliament called "paramount chiefs;" members serve 5-year terms)<br>
-_elections_: last held on 7 March 2018 (next to be held in March 2023)<br>
-_election results_: percent of vote by party - n/a; seats by party - APC 68, SLPP 49, C4C 8, other 7; composition - men 128, women 18, percent of women 12.3%<br>
+_description_: unicameral Parliament (146 seats; 132 members directly elected in single-seat constituencies by a district block proportional representation vote and 14 seats filled in separate elections by non-partisan members of Parliament called "paramount chiefs;" members serve 5-year terms)<br>
+_elections_: last held on 7 March 2018 (next to be held on 24 June 2023)<br>
+_election results_: percent of vote by party - n/a; seats by party - APC 68, SLPP 49, C4C 8, other 7; composition as of May 2023 - men 127, women 19, percent of women 13%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Superior Court of Judicature (consists of the Supreme Court - at the apex - with the chief justice and 4 other judges, the Court of Appeal with the chief justice and 7 other judges, and the High Court of Justice with the chief justice and 9 other judges); note &ndash; the Judicature has jurisdiction in all civil, criminal, and constitutional matters<br>

@@ -320,12 +320,12 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Wavel RAMKALAWAN (since 26 October 2020); Vice President Ahmed AFIF (since 27 October 2020); the president is both chief of state and head of government<br>
 _head of government_: President Wavel RAMKALAWAN (since 26 October 2020); Vice President Ahmed AFIF (since 27 October 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 1 additional term); election last held on 22-24 October 2020 (originally scheduled for December 2020 but moved up to coincide with the 22-24 October National Assembly election in order to cut election costs)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 1 additional term); election last held on 22-24 October 2020 (originally scheduled for December 2020 but moved up to coincide with the 22-24 October 2025 National Assembly election in order to cut election costs)<br>
 _election results_: <em>2020</em>: Wavel RAMKALAWAN elected president; Wavel RAMKALAWAN (LDS) 54.9%, Danny FAURE (US) 43.5%, other 1.6%<br><br><em>2015</em>:  President James Alix MICHEL reelected president in second round; percent of vote first round - James Alix MICHEL (PL) 47.8%, Wavel RAMKALAWAN (SNP) 35.3%, other 16.9%; percent of vote second round - James Alix MICHEL (PL) 50.2%, Wavel RAMKALAWAN (SNP) 49.8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (35 seats in the 2020-25 term; 26 members directly elected in single-seat constituencies by simple majority vote and up to 9 members elected by proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 22-24 Oct 2020 (next to be held&nbsp;October 2025); note - the election was originally scheduled for 2021 but was moved up a year and will be held alongside the presidential election in order to cut election costs<br>
+_elections_: last held on 22-24 October 2020 (next to be held in October 2025); note - the election was originally scheduled for 2021 but was moved up a year and held alongside the presidential election in order to cut election costs<br>
 _election results_: percent of vote by party - LDS 54.8%, US 42.3% , other 2.9%; seats by party - LDS 25, US10; composition - men 27, women 8, percent of women 22.9%<br>
 
 **Judicial branch**<br>
@@ -344,7 +344,7 @@ _chief of mission_: Ambassador Ian Dereck Joseph MADELEINE (since 1 December 202
 _chancery_: 685 Third Avenue, Suite 1107, 11th Floor, New York, NY 10017<br>
 _telephone_: [1] (212) 972-1785<br>
 _FAX_: [1] (212) 972-1786<br>
-_email address and website_: <br>seychelles@un.int<br>
+_email address and website_: <br>seychelles@un.int; seychellesmission@sycun.org<br><br>Foreign Affairs Department Republic of Seychelles » United States of America (mfa.gov.sc)<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -659,7 +659,7 @@ the SDF's inventory primarily consists of Soviet-era equipment delivered in the 
 18-28 (18-25 for officers) years of age for voluntary military service for men and women; 6-year initial commitment; no conscription (2022)<br>
 
 **Military - note**<br>
-formed in 1977, the SDF is one of the world's smallest militaries; its primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling; it was given police powers in 2022; the Seychelles have strong security ties with India (2023)<br>
+formed in 1977, the SDF is one of the world's smallest militaries; its primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling; it was given police powers in 2022; the Seychelles has strong security ties with India (2023)<br>
 
 ## Transnational Issues
 

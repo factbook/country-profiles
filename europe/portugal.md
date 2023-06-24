@@ -329,7 +329,7 @@ _chief of state_: President Marcelo REBELO DE SOUSA (since 9 March 2016)<br>
 _head of government_: Prime Minister Antonio Luis Santos da COSTA (since 24 November 2015)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2021 (next to be held in January 2026); following legislative elections the leader of the majority party or majority coalition is usually appointed prime minister by the president<br>
-_election results_: <em>2021:</em> Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (ran as an independent but is a member of PS) 13%, Andre VENTURA (CH) 11.9%, João FERREIRA (PCP-PEV) 4.3%, Marisa MATIAS (BE) 3.9%, other 6.2%<br><br><em>2016:</em> Marcelo REBELO DE SOUSA elected president; percent of vote - Marcelo REBELO DE SOUSA (PSD) 52%, António SAMPAIO DA NOVOA (independent) 22.9%, Marisa MATIAS (BE) 10.1%, Maria DE BELEM ROSEIRA (PS) 4.2%, other 10.8%<br>
+_election results_: <p><em>2021:</em> Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (ran as an independent but is a member of PS) 13%, Andre VENTURA (CH) 11.9%, João FERREIRA (PCP-PEV) 4.3%, Marisa MATIAS (BE) 3.9%, other 6.2%<br><br><em>2016:</em> Marcelo REBELO DE SOUSA elected president; percent of vote - Marcelo REBELO DE SOUSA (PSD) 52%, António SAMPAIO DA NOVOA (independent) 22.9%, Marisa MATIAS (BE) 10.1%, Maria DE BELEM ROSEIRA (PS) 4.2%, other 10.8%</p> <p> </p><br>
 <strong>note:</strong> there is also a Council of State that acts as a consultative body to the president<br>
 
 **Legislative branch**<br>
@@ -343,7 +343,7 @@ _judge selection and term of office_: Supreme Court justices nominated by the pr
 _subordinate courts_: Supreme Administrative Court (Supremo Tribunal Administrativo); Audit Court (Tribunal de Contas); appellate, district, and municipal courts<br>
 
 **Political parties and leaders**<br>
-Democratic Alliance (2022 electoral alliance in the Azores, includes PSD, CDS-PP, PPM)<br>Democratic and Social Center/People's Party (Partido do Centro Democratico Social-Partido Popular) or CDS-PP [Nuno MELO]<br>Ecologist Party "The Greens" or "Os Verdes" (Partido Ecologista-Os Verdes) or PEV [Heloisa APOLONIA]<br>Enough (Chega) [Andre VENTURA]<br>Liberal Initiative (Iniciativa Liberal) or IL [Joao COTRIM DE FIGUEIREDO]<br>Madeira First (2022 electoral alliance in Madeira, includes PSD, CDS-PP)<br>People-Animals-Nature Party (Pessoas-Animais-Natureza) or PAN [Ines SOUSA REAL]<br>People's Monarchist Party or PPM [Gonçalo DA CAMARA PEREIRA]<br>Portuguese Communist Party (Partido Comunista Portugues) or PCP [Jeronimo DE SOUSA]<br>Social Democratic Party (Partido Social Democrata) or PSD [Luis MONTENEGRO] (formerly the Partido Popular Democratico or PPD)<br>Socialist Party (Partido Socialista) or PS [Antonio COSTA]<br>The Left Bloc (Bloco de Esquerda) or BE or O Bloco [Catarina MARTINS]<br>Unitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU [Jeronimo DE SOUSA] (includes PCP and PEV)<br>
+Democratic Alliance (2022 electoral alliance in the Azores, includes PSD, CDS-PP, PPM)<br>Democratic and Social Center/People's Party (Partido do Centro Democratico Social-Partido Popular) or CDS-PP [Nuno MELO]<br>Ecologist Party "The Greens" or "Os Verdes" (Partido Ecologista-Os Verdes) or PEV [Heloisa APOLONIA]<br>Enough (Chega) [Andre VENTURA]<br>Liberal Initiative (Iniciativa Liberal) or IL [Joao COTRIM DE FIGUEIREDO]<br>Madeira First (2022 electoral alliance in Madeira, includes PSD, CDS-PP)<br>People-Animals-Nature Party (Pessoas-Animais-Natureza) or PAN [Ines SOUSA REAL]<br>People's Monarchist Party or PPM [Gonçalo DA CAMARA PEREIRA]<br>Portuguese Communist Party (Partido Comunista Portugues) or PCP [Jeronimo DE SOUSA]<br>Social Democratic Party (Partido Social Democrata) or PSD [Luis MONTENEGRO] (formerly the Partido Popular Democratico or PPD)<br>Socialist Party (Partido Socialista) or PS [Paulo RAIMUNDO]<br>The Left Bloc (Bloco de Esquerda) or BE or O Bloco [Catarina MARTINS]<br>Unitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU [Jeronimo DE SOUSA] (includes PCP and PEV)<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -351,9 +351,9 @@ ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, C
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Francisco Antonio DUARTE LOPES (since 7 June 2022)<br>
 _chancery_: 2012 Massachusetts Avenue NW, Washington, DC 20036<br>
-_telephone_: [1] (202) 350-5400; [1] (202) 332-3007<br>
-_FAX_: [1] (202) 462-3726; [1] (202) 387-2768<br>
-_email address and website_: <br>info.washington@mne.pt; sconsular.washington@mne.pt<br>https://washingtondc.embaixadaportugal.mne.gov.pt/en/<br>
+_telephone_: [1] (202) 350-5400<br>
+_FAX_: [1] (202) 462-3726<br>
+_email address and website_: <br>info.washington@mne.pt<br><br>https://washingtondc.embaixadaportugal.mne.gov.pt/en/<br>
 _consulate(s) general_: Boston, Newark (NJ), New York, San Francisco<br>
 _consulate(s)_: New Bedford (MA), Providence (RI)<br>
 
@@ -710,7 +710,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Portugal-Spain</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 58,242 (Ukraine) (as of 26 February 2023)<br>
+_refugees (country of origin)_: 58,275 (Ukraine) (as of 4 June 2023)<br>
 _stateless persons_: 55 (2022)<br>
 
 **Illicit drugs**<br>

@@ -674,7 +674,8 @@ _major seaport(s)_: Black Sea - Batumi, Poti<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Georgian Defense Forces: Land Forces (includes Aviation and Air Defense Forces), Special Operations Forces, National Guard; Ministry of Internal Affairs: Border Police, Coast Guard (includes Georgian naval forces, which were merged with the Coast Guard in 2009) (2022)<br>
+Defense Forces of Georgia (DFG; aka Georgian Defense Forces or GDF): Ground Forces, Air Force, National Guard, Special Operations Forces, National Guard; Ministry of Internal Affairs: Border Police, Coast Guard (includes Georgian naval forces, which were merged with the Coast Guard in 2009) (2023)<br>
+<strong>note:</strong> the Ministry of Internal Affairs also has forces for protecting strategic infrastructure and conducting special operations<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2022 est.)<br>
@@ -688,14 +689,14 @@ information varies; approximately 30,000 troops, including active National Guard
 <strong>note: </strong>in December 2020, the Parliament of Georgia adopted a resolution determining that the Georgian Defense Forces would have maximum peacetime strength of 37,000 troops<br>
 
 **Military equipment inventories and acquisitions**<br>
-the majority of the military's inventory consists of Soviet-era weapons and equipment, although in recent years it has received armaments from a number of European countries, as well as Israel and the US (2022)<br>
+the majority of the military's inventory consists of Soviet-era weapons and equipment, although in recent years it has received armaments from a number of European countries, as well as the US (2023)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for voluntary military service; conscription was abolished in 2016, but reinstated in 2017 for men 18-27 years of age; conscript service obligation is 12 months (2023)<br>
 <strong>note 1: </strong>approximately 6-7,000 individuals are called up annually for conscription for service; approximately 25% enter the Defense Forces, while the remainder serve in the Ministry of Internal Affairs or as prison guards in the Ministry of Corrections<br><br><strong>note 2:</strong> as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military - note**<br>
-as of 2022, up to 10,000 Russian troops continued to occupy the breakaway regions of Abkhazia and South Ossetia<br>
+Russian troops continue to occupy the breakaway regions of Abkhazia and South Ossetia (2023)<br>
 
 ## Transnational Issues
 
@@ -708,5 +709,5 @@ _IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the bre
 _stateless persons_: 530 (2022)<br>
 
 **Illicit drugs**<br>
-<p>located on a major drug trafficking route where Southwest Asian opium, heroin and precursor chemicals are transported; marijuana trafficking increased</p><br>
+<p>a transit country for opiates produced in Asia trafficked into Ukraine or Moldova via the Black Sea for other European destinations; not a major corridor for synthetic drug smuggling operations; domestic synthetic market for ecstasy/MDMA, amphetamines, and cannabis with ecstasy laced with fentanyl the drug of choice</p><br>
 

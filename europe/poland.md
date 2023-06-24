@@ -349,7 +349,7 @@ _chief of state_: President Andrzej DUDA (since 6 August 2015)<br>
 _head of government_: Prime Minister Mateusz MORAWIECKI (since 11 December 2017); Deputy Prime Ministers Piotr GLINSKI (since 16 November 2015), Jacek SASIN (since 15 November 2019), Henryk KOWALCZYK (26 October 2021), and Mariusz BLASZCZAK (since 22 June 2022)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president, and approved by the Sejm<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 June 2020 with a second round on 12 July 2020 (next to be held in 2025); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm; all presidential candidates resign their party affiliation<br>
-_election results_: <em>2020:</em> Andrzej DUDA reelected president in second round; percent of vote - Andrzej DUDA 51%, Rafal TRZASKOWSKI (KO) 49%<br><br><em>2015:</em> Andrzej DUDA elected president in second round; percent of vote - Andrzej DUDA 51.5%, Bronislaw KOMOROWSKI (independent) 48.5%<br>
+_election results_: <p><em>2020:</em> Andrzej DUDA reelected president in second round; percent of vote - Andrzej DUDA 51%, Rafal TRZASKOWSKI (KO) 49%<br><br><em>2015:</em> Andrzej DUDA elected president in second round; percent of vote - Andrzej DUDA 51.5%, Bronislaw KOMOROWSKI (independent) 48.5%</p> <p> </p><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minority parties exempt from threshold; members serve 4-year terms)<br>
@@ -372,7 +372,7 @@ Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, 
 _chief of mission_: Ambassador Marek Grzegorz  MAGIEROWSKI (since 13 January 2022)<br>
 _chancery_: 2640 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 499-1700<br>
-_FAX_: [1] (202) 328-2152<br>
+_FAX_: [1] (202) 328-2152; [1] (202) 328-6271<br>
 _email address and website_: <br>washington.amb.sekretariat@msz.gov.pl<br><br>https://www.gov.pl/web/usa-en/embassy-washington<br>
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
@@ -737,9 +737,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,605,738 (Ukraine) (as of 22 May 2023)<br>
+_refugees (country of origin)_: 1,615,825 (Ukraine) (as of 5 June 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>
-<p>source country for amphetamines</p><br>
+<p>a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
 

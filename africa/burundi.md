@@ -86,10 +86,10 @@ _noun_: Burundian(s)<br>
 _adjective_: Burundian<br>
 
 **Ethnic groups**<br>
-Hutu, Tutsi, Twa (Pygmy)<br>
+Hutu, Tutsi, Twa, Phuthi, South Asian<br>
 
 **Languages**<br>
-Kirundi only 29.7% (official); French only 0.3% (official); Swahili only 0.2%; English only 0.1% (official); Kirundi and French 8.4%; Kirundi, French, and English 2.4%, other language combinations 2%, unspecified 56.9% (2008 est.)<br>
+Kirundi (official), French (official), English (official, least spoken), Swahili (2008 est.)<br>
 _major-language sample(s)_: <br>Igitabo Mpuzamakungu c'ibimenyetso bifatika, isoko ntabanduka ku nkuru z'urufatiro. (Kirundi)<br><br>The World Factbook, the indispensable source for basic information.<br>
 <strong>note:</strong> data represent languages read and written by people 10 years of age or older; spoken Kirundi is nearly universal<br>
 
@@ -354,7 +354,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); Prime Minister Gervais NDIRAKOBUCA (since 7 September 2022)<br>
 _cabinet_: Council of Ministers appointed by president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 20 May 2020 (next to be held in 2027); vice presidents nominated by the president, endorsed by Parliament; note - a 2018 constitutional referendum effective for the 2020 election, increased the presidential term from 5 to 7 years with a 2-consecutive-term limit, reinstated the position of the prime minister position, and reduced the number of vice presidents from 2 to 1<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 20 May 2020 (next to be held in May 2027); vice presidents nominated by the president, endorsed by Parliament; note - a 2018 constitutional referendum effective for the 2020 election, increased the presidential term from 5 to 7 years with a 2-consecutive-term limit, reinstated the position of the prime minister position, and reduced the number of vice presidents from 2 to 1<br>
 _election results_: <p><em>2020: </em>Evariste NDAYISHIMIYE elected president; percent of vote - Evariste NDAYISHIMIYE (CNDD-FDD) 71.5%, Agathon RWASA (CNL) 25.2%, Gaston SINDIMWO (UPRONA) 1.7%, other 1.6%<br><br><em>2015:</em> Pierre NKURUNZIZA reelected president; percent of vote - Pierre NKURUNZIZA (CNDD-FDD) 69.4%, Agathon RWASA (Hope of Burundians - Amizerio y'ABARUNDI) 19%, other 11.6%</p> <p> </p><br>
 
 **Legislative branch**<br>
@@ -371,7 +371,7 @@ _subordinate courts_: Courts of Appeal; County Courts; Courts of Residence; Mart
 Front for Democracy in Burundi-Nyakuri or FRODEBU-Nyakuri [Keffa NIBIZI]<br>Front for Democracy in Burundi-Sahwanya or FRODEBU-Sahwanya [Pierre Claver NAHIMANA]<br>National Congress for Liberty or CNL [Agathon RWASA]<br>National Council for the Defense of Democracy - Front for the Defense of Democracy or CNDD-FDD [Evariste NDAYISHIMIYE]<br>National Liberation Forces or FNL [Jacques BIGITIMANA]<br>Union for National Progress (Union pour le Progress Nationale) or UPRONA [Abel GASHATSI]<br>
 
 **International organization participation**<br>
-ACP, AfDB, ATMIS, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, ATMIS, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Pr&eacute;f&eacute;r&eacute; NDAYISHIMIYE (since 18 March 2023)<br>
@@ -697,7 +697,7 @@ the FDNB is responsible for defending Burundi’s territorial integrity and prot
 <p>cross-border conflicts persist among Tutsi, Hutu, other ethnic groups, associated political rebels, armed gangs, and various government forces in the Great Lakes region<em><br><br>Burundi-Rwanda: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 86,790 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 86,047 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 84,791 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1993 coup and fighting between government forces and rebel groups; violence since April 2015) (2022)<br>
 _stateless persons_: 767 (mid-year 2021)<br>
 

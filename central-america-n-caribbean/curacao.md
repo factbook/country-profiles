@@ -514,5 +514,5 @@ _tier rating_: Tier 3 &mdash; Curacao does not fully meet the minimum standards 
 _trafficking profile_: human traffickers exploit domestic and foreign victims in Curacao; undocumented migrants, especially the substantial population of Venezuelans, are vulnerable to sex and labor trafficking; traffickers exploit women and girls, particularly from Curacao, Dominican Republic, and Venezuela, in sex trafficking; migrants from other Caribbean countries, South America, China, and India are subject to forced labor in construction, domestic servitude, landscaping, minimarkets, retail, and restaurants (2022)<br>
 
 **Illicit drugs**<br>
-<p>northbound transshipment points for cocaine from Colombia and Venezuela; cocaine is transported to the United States, other Caribbean islands, Africa, and Europe</p> <p> </p><br>
+<p>northbound transshipment points for cocaine from Colombia and Venezuela; cocaine is transported to the United States, other Caribbean islands, Africa, and Europe</p><br>
 

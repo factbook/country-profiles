@@ -90,6 +90,9 @@ Icelandic, English, Nordic languages, German<br>
 **Religions**<br>
 Evangelical Lutheran Church of Iceland (official) 62.3%, Roman Catholic 4%, Independent Congregation of Reykjavik 2.7%, Independent Congregation of Hafnarfjordur 2%, pagan worship 1.4%, Icelandic Ethical Humanist Association 1.1%, other (includes Zuist and Pentecostal) or unspecified 19%, none 7.6% (2021 est.)<br>
 
+**Demographic profile**<br>
+<p>Iceland is one of the most gender-equal countries in the world.  Its welfare policies enable both men and women to balance work and family life.  Iceland lagged its Nordic neighbors in introducing new childcare policies, and even when they did in the 1990s, parents still faced a childcare gap between the paid parental leave period and the start of pre-school. The female labor participation rate continued to grow from the 1960s to the 2000s, as women’s educational attainment increased.  Icelanders are marrying later, if they marry at all, and people are having children later.  The interval between births has decreased. Non-marital cohabitation and childbearing outside of marriage are common. Approximately 2 out of 3 children are born out of wedlock, which is among the highest in Europe.  Iceland’s total fertility rate (TFR) has been fairly stable, hovering around replacement level (2.1 children per woman), for decades – a rate higher even than its Nordic neighbors. </p> <p>Iceland has fluctuated over time between being a country of net emigration and one of net immigration.  Most Icelandic emigrants return to their native country after a few years.  From 1960 to 1996, Iceland registered a net outflow, followed by a net inflow until the 2008 banking crisis. During and after the crisis, more Icelanders left the country than immigrated to it.  Following the crisis, Iceland returned to being a country of net immigration.  In 2017, the country’s foreign-born population accounted for 11% of the population and 17% had an immigrant background.  The countries of origin have become more diverse over time, with Polish immigrants composing the largest share in 2017. Foreigners acquiring Icelandic citizenship must have a basic comprehension of the Icelandic language.  The requirement that new citizens modify or change their names to be more Icelandic was dropped in 1996.  The most popular emigration destination was Sweden, followed by Denmark and Norway in 2021.</p><br>
+
 **Age structure**<br>
 _0-14 years_: 19.98% (male 36,771/female 35,314)<br>
 _15-64 years_: 63.39% (male 115,547/female 113,212)<br>
@@ -336,7 +339,7 @@ _judge selection and term of office_: judges proposed by Ministry of Interior se
 _subordinate courts_: Appellate Court or Landsrettur; 8 district courts; Labor Court<br>
 
 **Political parties and leaders**<br>
-<p>Centrist Party (Midflokkurinn) or CP [Sigmundur David GUNNLAUGSSON] <br>Independence Party (Sjalfstaedisflokkurinn) or IP [Bjarni BENEDIKTSSON]  <br>Left-Green Movement (Vinstrihreyfingin-graent frambod) or LGM [Katrin JAKOBSDOTTIR] <br>People's Party (Flokkur Folksins) [Inga SAELAND] <br>Pirate Party (Piratar) [Halldora MOGENSEN] <br>Progressive Party (Framsoknarflokkurinn) or PP [Sigurdur Ingi JOHANNSSON]<br>Reform Party (Vidreisn) [Thorgerdur Katrin GUNNARSDOTTIR] <br>Social Democratic Alliance (Samfylkingin) or SDA [Logi Mar EINARSSON]</p><br>
+<p>Centrist Party (Midflokkurinn) or CP [Sigmundur David GUNNLAUGSSON] <br>Independence Party (Sjalfstaedisflokkurinn) or IP [Bjarni BENEDIKTSSON]  <br>Left-Green Movement (Vinstrihreyfingin-graent frambod) or LGM [Katrin JAKOBSDOTTIR] <br>People's Party (Flokkur Folksins) [Inga SAELAND] <br>Pirate Party (Piratar) [Thorhildur Sunna AEVARSDOTTIR] <br>Progressive Party (Framsoknarflokkurinn) or PP [Sigurdur Ingi JOHANNSSON]<br>Reform Party (Vidreisn) [Thorgerdur Katrin GUNNARSDOTTIR] <br>Social Democratic Alliance (Samfylkingin) or SDA [Kristrun FROSTADOTTIR]</p><br>
 
 **International organization participation**<br>
 Arctic Council, Australia Group, BIS, CBSS, CD, CE, EAPC, EBRD, EFTA, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -645,9 +648,6 @@ _major seaport(s)_: Grundartangi, Hafnarfjordur, Reykjavik<br>
 
 **Military and security forces**<br>
 no regular military forces; Ministry of Interior: Icelandic Coast Guard (includes both air and maritime elements); Icelandic National Police (2023)<br>
-
-**Military and security service personnel strengths**<br>
-the Icelandic Coast Guard has approximately 250 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Icelandic Coast Guard's inventory consists of equipment from mostly European suppliers (2023)<br>

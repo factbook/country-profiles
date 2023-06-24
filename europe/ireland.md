@@ -328,7 +328,7 @@ _election results_: <em>2018:</em> Michael D. HIGGINS reelected president; perce
 **Legislative branch**<br>
 _description_: bicameral Parliament or Oireachtas consists of:<br>Senate or Seanad Eireann (60 seats; 49 members indirectly elected from 5 vocational panels of nominees by an electoral college, 11 appointed by the prime minister<br>House of Representatives or Dail Eireann (160 seats; members directly elected in multi-seat constituencies by proportional representation vote; all Parliament members serve 5-year terms)<br>
 _elections_: <br>Senate - last held early on 21-30 May 2020 (next to be held in March 2025)<br>House of Representatives - last held on 8 February 2020 (next to be held no later than March 2025)<br>
-_election results_: <strong> </strong><br>Senate - percent of vote by party - Fianna Fail 35%, Fine Gael 26.7%, Labor Party 6.7%, Sinn Fein 6.7%, Green Party 6.7%<strong>,</strong> Human Dignity Alliance 1.6%, independent 16.7%; seats by party - Fianna Fail 21, Fine Gael 16, Labor Party 4, Sinn Fein 4, Green Party 4<strong>,</strong> Human Dignity Alliance 1, independent 10; composition - men 36, women 24, percent of women 40%  <br>House of Representatives - percent of vote by party - Fianna Fail 23.8%, Sinn Fein 23.1%, Fine Gael 21.9%, Green Party 7.5%, Labor Party 3.8%, Social Democrats 3.8%, PBPS 3.2%, Aontu 0.6%, Right to Change 0.6%, independent 11.9%; seats by party - Fianna Fail 38, Sinn Fein 37, Fine Gael 35, Green Party 12, Labor Party 6, Social Democrats 6, PBPS 5, Aontu l, Right to Change 1, Independents 24; composition as of March 2022 - men 123, women 37, percent of women 23.1%; note - total Parliament percent of women 27.7%<br>
+_election results_: <strong> </strong><br>Senate - percent of vote by party - Fianna Fail 35%, Fine Gael 26.7%, Labor Party 6.7%, Sinn Fein 6.7%, Green Party 6.7%<strong>,</strong> Human Dignity Alliance 1.6%, independent 16.7%; seats by party - Fianna Fail 21, Fine Gael 16, Labor Party 4, Sinn Fein 4, Green Party 4<strong>,</strong> Human Dignity Alliance 1, independent 10; composition - men 36, women 24, percent of women 40%  <br>House of Representatives - percent of vote by party - Fianna Fail 23.8%, Sinn Fein 23.1%, Fine Gael 21.9%, Green Party 7.5%, Labor Party 3.8%, Social Democrats 3.8%, PBPS 3.2%, Aontu 0.6%, Right to Change 0.6%, independent 11.9%; seats by party - Fianna Fail 38, Sinn Fein 37, Fine Gael 35, Green Party 12, Labor Party 6, Social Democrats 6, PBPS 5, Aontu l, Right to Change 1, Independents 19; composition as of March 2022 - men 123, women 37, percent of women 23.1%; note - total Parliament percent of women 27.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members - the presidents of the High Court and Court of Appeal - and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law)<br>
@@ -664,7 +664,8 @@ _river port(s)_: Cork (Lee), Waterford (Suir)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Reserve Defense Forces (2022)<br>
+Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Reserve Defense Forces (2023)<br>
+<strong>note:</strong> An Garda Siochana (or Garda) is the national police force and maintains internal security under the auspices of the Department of Justice <br>
 
 **Military expenditures**<br>
 0.3% of GDP (2022)<br>
@@ -674,20 +675,20 @@ Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Re
 0.3% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 8,500 active duty personnel (6,800 Army; 900 Naval Service; 800 Air Corps) (2022)<br>
+approximately 8,000 active-duty personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Irish Defense Forces have a small inventory of imported weapons systems from a variety of mostly European countries (2022)<br>
+the Irish Defense Forces have a small inventory of imported weapons systems from a variety of mostly European countries, particularly the UK (2023)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for male and female voluntary military service recruits to the Defence Forces (18-27 years of age for the Naval Service); 18-26 for cadetship (officer) applicants; 12-year service (5 active, 7 reserves) (2022)<br>
+18-25 years of age for male and female voluntary military service recruits to the Defence Forces (18-27 years of age for the Naval Service); 18-26 for cadetship (officer) applicants; 12-year service (5 active, 7 reserves) (2023)<br>
 <strong>note:</strong> as of 2021, women made up about 7% of the military's full-time personnel<br><br><strong>note 2:</strong> the Defense Forces are open to refugees under the Refugee Act of 1996 and nationals of the European Economic Area, which include EU member states, Iceland, Liechtenstein, and Norway<br>
 
 **Military deployments**<br>
-130 Golan Heights (UNDOF); 320 Lebanon (UNIFIL) (May 2022)<br>
+130 Golan Heights (UNDOF); 340 Lebanon (UNIFIL) (2023)<br>
 
 **Military - note**<br>
-<p>the Irish Defense Forces trace their origins back to the Irish Volunteers, a unit established in 1913; the Irish Volunteers took part in the 1916 Easter Rising and the Irish War of Independence, 1919-1921</p> <p>Ireland has a long-standing policy of military neutrality; however, it participates in international peacekeeping and humanitarian operations, as well as crisis management; Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO but has a relationship going back to 1997 when it deployed personnel in support of the NATO-led peacekeeping operations in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; Ireland has been an active participatant in UN peacekeeping operations since the 1950s</p> (2023)<br>
+<p>the Irish Defense Forces trace their origins back to the Irish Volunteers, a unit established in 1913; the Irish Volunteers took part in the 1916 Easter Rising and the Irish War of Independence, 1919-1921</p> <p>Ireland has a long-standing policy of military neutrality; however, it participates in international peacekeeping and humanitarian operations, as well as crisis management; Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO but has a relationship going back to 1997 when it deployed personnel in support of the NATO-led peacekeeping operations in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; Ireland has been an active participant in UN peacekeeping operations since the 1950s</p> (2023)<br>
 
 ## Terrorism
 
@@ -701,7 +702,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 84,392 (Ukraine) (as of 21 May 2023)<br>
+_refugees (country of origin)_: 84,625 (Ukraine) (as of 4 June 2023)<br>
 _stateless persons_: 7 (2022)<br>
 
 **Illicit drugs**<br>

@@ -307,10 +307,10 @@ CE, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFRCS, ILO, IMF, IMO, In
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Damiano BELEFFI (since 21 July 2017)<br>
-_chancery_: 327 E 50th Street, New York, NY 10022; Embassy address: 1711 North Street NW (2nd Floor), Washington, DC 22036<br>
-_telephone_: [1] (212) 751-1234<br>[1] (202) 223-24l8<br>[1] (202) 751-1436<br>
+_chancery_: 327 E 50th Street, New York, NY 10022<br>
+_telephone_: [1] (212) 751-1234<br>
 _FAX_: [1] (212) 751-1436<br>
-_email address and website_: <br>sanmarinoun@gmail.com<br>
+_email address and website_: <br>smrassistant@gmail.com<br><br>Republic of San Marino Permanent Mission to the United Nations<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the United States does not have an Embassy in San Marino; the US Ambassador to Italy is accredited to San Marino, and the US Consulate General in Florence maintains day-to-day ties<br>

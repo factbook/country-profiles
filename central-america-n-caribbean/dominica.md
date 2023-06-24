@@ -307,10 +307,10 @@ ACP, AOSIS, C, Caricom, CD, CDB, CELAC, Commonwealth of Nations, ECCU, FAO, G-77
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Judith-Anne ROLLE (since 16 December 2021)<br>
-_chancery_: 3216 New Mexico Avenue NW, Washington, DC 20016<br>
+_chancery_: 1701 Pennsylvania Avenue NW, Suite 200<br>Washington, DC 20006<br>
 _telephone_: [1] (202) 364-6781<br>
 _FAX_: [1] (202) 364-6791<br>
-_email address and website_: mail.embdomdc@gmail.com<br>
+_email address and website_: mail.embdomdc@gmail.com; <br><br>embdomdc@gmail.com<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -591,5 +591,5 @@ Dominica has been a member of the Caribbean Regional Security System (RSS) since
 <p>Dominica is the only Caribbean state to challenge Venezuela's sovereignty claim over Aves Island and joins the other island nations in challenging whether the feature sustains human habitation, a criterion under the UN Convention on the Law of the Sea, which permits Venezuela to extend its EEZ and continental shelf claims over a large portion of the eastern Caribbean Sea</p><br>
 
 **Illicit drugs**<br>
-<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean</p><br>
+<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>
 

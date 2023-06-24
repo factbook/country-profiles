@@ -554,6 +554,14 @@ _tide and wave_: 0.7% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 1.7% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 25 (2023)<br>
+_Number of nuclear reactors under construction_: 3<br>
+_Net capacity of operational nuclear reactors_: 24.49GW (2021)<br>
+_Percent of total electricity production_: 27.4% (2021)<br>
+_Percent of total energy produced_: 76.5% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 2<br>
+
 **Coal**<br>
 _production_: 16.364 million metric tons (2020 est.)<br>
 _consumption_: 140.579 million metric tons (2020 est.)<br>

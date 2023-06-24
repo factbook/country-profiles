@@ -361,7 +361,7 @@ _chief of mission_: Ambassador Samuel Archibald HINDS (since 7 July 2021)<br>
 _chancery_: 2490 Tracy Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 265-6900<br>
 _FAX_: [1] (202) 232-1297<br>
-_email address and website_: <br>guyanaembassydc@verizon.net<br><br>http://www.guyanaembassyusa.org/<br>
+_email address and website_: <br>guyanaembassydc@verizon.net<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -663,13 +663,13 @@ the Guyana Defense Force is a unified force with ground, air, and coast guard co
 approximately 4,000 active duty military personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military has a limited inventory comprised mostly of second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US (2022)<br>
+the military has a limited inventory comprised mostly of second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age or older for voluntary military service; no conscription (2022)<br>
 
 **Military - note**<br>
-the Guyana Defense Force was established in 1965; its primary missions are defense of the country, assisting civil authorities with law and order as needed, and contributing to the economic development of the country; the GDF&rsquo;s ground force officers are trained at the British Royal Military Academy at Sandhurst, while coast guard officers receive training at the British Royal Naval College (2023)<br>
+the Guyana Defense Force (GDF) was established in 1965; its primary missions are defense of the country, including border security, assisting civil authorities with law and order as needed, and contributing to the Guyana’s economic development; key areas of concern include disaster response, illegal fishing, narcotics trafficking, piracy, and porous borders; the GDF trains regularly and participates in both bilateral and multinational exercises; it has relationships with Brazil, China, France, the UK, and the US; the GDF’s ground force officers are trained at the British Royal Military Academy at Sandhurst, while coast guard officers receive training at the British Royal Naval College<br><br>the GDF’s ground combat forces include 3 infantry battalions (1 reserve), a special forces squadron, and an artillery company; the coast guard has an offshore patrol craft and a few patrol boats, as well as a small amphibious “raider” force; the air corps does not have any combat aircraft but instead provides tactical observation, transport, casualty evacuation, and other forms of support to the ground forces (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Guyana are a risk for armed robbery against ships; in 2022, two attacks against commercial vessels were reported, these are the first attacks reported in three years; all of these occurred in port while ships were berthed or at anchor<br>
@@ -683,5 +683,5 @@ the International Maritime Bureau reports the territorial waters of Guyana are a
 _refugees (country of origin)_: 24,500 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2021)<br>
 
 **Illicit drugs**<br>
-<p>transshipment point for cocaine destined for the United States, Canada, the Caribbean, Europe, and West Africa; growing domestic drug consumption problem</p><br>
+<p>a transit country for cocaine destined for the United States, Canada, the Caribbean, Europe, and West Africa; growing domestic marijuana cultivation and consumption</p><br>
 

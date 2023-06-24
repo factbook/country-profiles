@@ -355,10 +355,10 @@ ACP, AfDB, AOSIS, AU, CD, CEMAC, CPLP, EITI (candidate country), FAO, G-77, IBRD
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant)<br>
-_chancery_: 675 Third Avenue, Suite 1807, New York, NY 10017<br>
-_telephone_: [1] (212) 651-8116<br>
-_FAX_: [1] (212) 651-8117<br>
-_email address and website_: <br>rdstppmun@gmail.com<br>
+_chancery_: 122 East 42nd Street, Suite 1604<br>New York, NY 101168<br>
+_telephone_: [1] (212) 317-0533<br>
+_FAX_: [1] (212) 317-0580<br>
+_email address and website_: <br>stp1@attglobal.net<br><br>Sao Tome and Principe Permanent Mission to the United Nations<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Sao Tome and Principe; the US Ambassador to Gabon is accredited to Sao Tome and Principe<br>
@@ -655,7 +655,7 @@ the FASTP has a limited inventory of light weapons (2022)<br>
 18 is the legal minimum age for compulsory military service (reportedly not enforced); 17 is the legal minimum age for voluntary service (2023)<br>
 
 **Military - note**<br>
-the FASTP is one of the smallest militaries in Africa and consists of only a few companies of ground troops and some small patrol boats (2022)<br>
+the FASTP is one of the smallest militaries in Africa and consists of only a few companies of ground troops and some small patrol boats (2023)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reported no incidents in the territorial and offshore waters of Sao Tome and Principe in 2022; the offshore waters of the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; past incidents have been reported where vessels were attacked and crews kidnapped; these incidents showed that the pirates / robbers in the area are well armed and violent; pirates have robbed vessels and kidnapped crews for ransom; in the past, product tankers were hijacked and cargo stolen; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 3 January 2023, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>

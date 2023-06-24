@@ -557,6 +557,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0.3% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 1.6% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 10 (2023)<br>
+_Number of nuclear reactors under construction_: 2<br>
+_Net capacity of operational nuclear reactors_: 9.49GW (2023)<br>
+_Percent of total electricity production_: 7% (2018)<br>
+_Percent of total energy produced_: 24% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 17<br>
+
 **Coal**<br>
 _production_: 29.84 million metric tons (2020 est.)<br>
 _consumption_: 210.882 million metric tons (2020 est.)<br>
@@ -685,7 +693,8 @@ Japan operates one PC 3 or 4 class medium icebreaker<br>note - PC indicates a Po
 ## Military and Security
 
 **Military and security forces**<br>
-Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSDF; includes aviation), Maritime Self-Defense Force (Kaijou Jieitai, MSDF; includes naval aviation), Air Self-Defense Force (Koukuu Jieitai, ASDF); Japan Coast Guard (Ministry of Land, Transport, Infrastructure and Tourism) (2022)<br>
+Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSDF; includes aviation), Maritime Self-Defense Force (Kaijou Jieitai, MSDF; includes naval aviation), Air Self-Defense Force (Koukuu Jieitai, ASDF) (2023)<br>
+<strong>note:</strong> the Coast Guard is under the Ministry of Land, Infrastructure, Transport and Tourism; it is barred by law from operating as a military force, but in times of conflict Article 80 of the 1954 Self-Defense Forces Act permits the transfer of control of the coast guard to the Ministry of Defense with Cabinet approval <br>
 
 **Military expenditures**<br>
 1.1% of GDP (2022 est.)<br>
@@ -699,7 +708,7 @@ Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSD
 approximately 240,000 active personnel (150,000 Ground; 45,000 Maritime; 45,000 Air); 14,000 Coast Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the JSDF is equipped with a mix of imported and domestically produced equipment; Japan has a robust defense industry and is capable of producing a wide range of air, ground, and naval weapons systems; the majority of its weapons imports are from the US and some domestically produced weapons are US-origin and manufactured under license (2022)<br>
+the JSDF is equipped with a mix of imported and domestically produced equipment; Japan has a robust defense industry and is capable of producing a wide range of air, ground, and naval weapons systems; the majority of its weapons imports are from the US and some domestically produced weapons are US-origin and manufactured under license (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women (maximum enlistment age 32); no conscription (2022)<br>

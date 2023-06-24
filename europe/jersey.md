@@ -260,15 +260,15 @@ see United Kingdom<br>
 16 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Lieutenant Governor Sir Stephen DALTON (since 13 March 2017)<br>
-_head of government_: Chief Minister John LE FONDRE (since 8 June 2018); Bailiff Timothy Le COCQ (since 17 October 2019)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Lieutenant Governor Jerry KYD (since 8 October 2022)<br>
+_head of government_: Chief Minister Kristina MOORE (since 12 July 2022); Bailiff Timothy Le COCQ (since 17 October 2019)<br>
 _cabinet_: Council of Ministers appointed individually by the states<br>
 _elections/appointments_: the monarchy is hereditary; Council of Ministers, including the chief minister, indirectly elected by the Assembly of States; lieutenant governor and bailiff appointed by the monarch<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of the States of Jersey (49 elected members; 8 senators to serve 4-year terms, and 29 deputies and 12 connetables, or heads of parishes, to serve 4-year terms; 5 non-voting members appointed by the monarch include the bailiff, lieutenant governor, dean of Jersey, attorney general, and the solicitor general)<br>
 _elections_: last held on 22 June 2022 (next to be held in 2026)<br>
-_election results_: percent of vote by party - BW 71.4%, RJ 20.4%, JA 2%, PP 2%, JLC 4.1%; seats by party - BW 35, RJ 10, JA 1, PP 1, JLC 2; composition - men NA, women NA, percent of women NA<br>
+_election results_: percent of vote by party - BW 66.8%, RJ 12.3%, JA 2.0%, PP 2.0%, JLC 4.1%; seats by party - BW 35, RJ 10, JA 1, PP 1, JLC 2; composition - men NA, women NA, percent of women NA<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Jersey Court of Appeal (consists of the bailiff, deputy bailiff, and 12 judges); Royal Court (consists of the bailiff, deputy bailiff, 6 commissioners and lay people referred to as jurats, and is organized into Heritage, Family, Probate, and Samedi Divisions); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>

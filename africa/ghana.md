@@ -366,7 +366,7 @@ _judge selection and term of office_: chief justice appointed by the president i
 _subordinate courts_: Court of Appeal; High Court; Circuit Court; District Court; regional tribunals<br>
 
 **Political parties and leaders**<br>
-All Peoples Congress or APC [Hassan AYARIGA]<br>Convention People's Party or CPP [Onsy Kwame NKRUMAH, acting]<br>Ghana Freedom Party or GFP [Akua DONKOR]<br>Ghana Union Movement or GUM [Christian Kwabena ANDREWS]<br>Great Consolidated Popular Party or GCPP [Henry Herbert LARTEY]<br>Liberal Party of Ghana or LPG [Kofi AKPALOO]<br>National Democratic Congress or NDC [John Dramani MAHAMA]<br>National Democratic Party or NDP [Nana Konadu Agyeman RAWLINGS]<br>New Patriotic Party or NPP [Nana Addo Dankwa AKUFO-ADDO]<br>People's National Convention or PNC [David APASERA]<br>Progressive People's Party or PPP [Paa Kwesi NDUOM]<br>United Front Party or UFP [Dr. Nana A. BOATENG]<br>United Progressive Party or UPP [Akwasi Addai ODIKE]<br>
+All Peoples Congress or APC [Hassan AYARIGA]<br>Convention People's Party or CPP [Onsy Kwame NKRUMAH, acting]<br>Ghana Freedom Party or GFP [Akua DONKOR]<br>Ghana Union Movement or GUM [Christian Kwabena ANDREWS]<br>Great Consolidated Popular Party or GCPP [Henry Herbert LARTEY]<br>Liberal Party of Ghana or LPG [Kofi AKPALOO]<br>National Democratic Congress or NDC [John Dramani MAHAMA]<br>National Democratic Party or NDP [Nana Konadu Agyeman RAWLINGS]<br>New Patriotic Party or NPP [Nana Addo Dankwa AKUFO-ADDO]<br>People's National Convention or PNC [Janet NABIA]<br>Progressive People's Party or PPP [Paa Kwesi NDUOM]<br>United Front Party or UFP [Dr. Nana A. BOATENG]<br>United Progressive Party or UPP [Akwasi Addai ODIKE]<br>
 <strong>note:</strong> Ghana has more than 20 registered parties; included are those which participated in the 2020 general election<br>
 
 **International organization participation**<br>
@@ -706,7 +706,7 @@ Ghana Armed Forces: Army, Navy, Air Force; Ministry of the Interior: Ghana Polic
 approximately 14,000 active personnel (10,000 Army; 2,000 Navy; 2,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of Russian, Chinese, and Western equipment; in recent years, China and Czechia have been among the leading arms suppliers (2023)<br>
+the military's inventory is a mix older and some newer Russian, Chinese, and Western equipment (2023)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service, with basic education certificate; no conscription (2022)<br>
@@ -727,5 +727,5 @@ the military’s primary missions are border defense, assisting with internal se
 <p>disputed maritime border between Ghana and Cote d'Ivoire</p><br>
 
 **Illicit drugs**<br>
-a transit and destination point for illicit drugs trafficked from Asia and South America to other African nations and Europe, and to a lesser extent the United States; cultivation of cannabis for domestic use and is trafficked to regional markets or to Europe<br>
+<p>Ghana is a transit and destination point for illicit drugs trafficked from Asia and South America to other African countries, Europe, and to a lesser extent North America;  not a significant source for drugs entering the United States;  limited local consumption of controlled pharmaceuticals, cocaine, and heroin from Asia and South America; cannabis cultivated and produced in large quantities in most rural areas of Ghana  </p> <p> </p><br>
 

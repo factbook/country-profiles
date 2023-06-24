@@ -367,7 +367,7 @@ _chief of mission_: Ambassador Petra SCHNEEBAUER (since 19 APRIL 2023)<br>
 _chancery_: 3524 International Court NW, Washington, DC 20008-3035<br>
 _telephone_: [1] (202) 895-6700<br>
 _FAX_: [1] (202) 895-6750<br>
-_email address and website_: <br>washington-ka@bmeia.gv.at<br><br>https://www.austria.org/<br>
+_email address and website_: <br>washington-ob@bmeia.gv.at<br><br>https://www.austria.org/<br>
 _consulate(s) general_: Los Angeles, New York, Washington<br>
 _consulate(s)_: Chicago<br>
 
@@ -727,7 +727,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 97,047 (Ukraine) (as of 15 May 2023)<br>
+_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 98,830 (Ukraine) (as of 5 June 2023)<br>
 _stateless persons_: 3,219 (2022)<br>
 
 **Illicit drugs**<br>

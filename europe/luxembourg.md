@@ -341,7 +341,7 @@ _judge selection and term of office_: judges of both courts appointed by the mon
 _subordinate courts_: Court of Accounts; district and local tribunals and courts<br>
 
 **Political parties and leaders**<br>
-Alternative Democratic Reform Party or ADR [Fred KEUP]<br>Christian Social People's Party or CSV [Claude WISELER]<br>Democratic Party or DP [Corinne CAHEN]<br>Green Party [Djuna BERNARD, Meris SEHOVIC]<br>Luxembourg Socialist Workers' Party or LSAP [Yves CRUCHTEN]<br>Pirate Party [Sven CLEMENT, Marc GOERGEN]<br>The Left (dei Lenk/la Gauche) [collective leadership, Central Committee]<br>
+Alternative Democratic Reform Party or ADR [Fred KEUP]<br>Christian Social People's Party or CSV [Claude WISELER]<br>Democratic Party or DP [Lex DELLES]<br>Green Party [Djuna BERNARD, Meris SEHOVIC]<br>Luxembourg Socialist Workers' Party or LSAP [Dan BIANCALANA, Francine CLOSENER]<br>Pirate Party [Starsky FLOR, Rebecca LAU]<br>The Left (dei Lenk/la Gauche) [collective leadership, Central Committee]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNRWA, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -351,7 +351,7 @@ _chief of mission_: Ambassador Nicole BINTNER-BAKSHIAN (since 15 August 2021)<br
 _chancery_: 2200 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 265-4171<br>
 _FAX_: [1] (202) 328-8270<br>
-_email address and website_: washington.amb@mae.etat.lu<br>https://washington.mae.lu/en.html<br>
+_email address and website_: <br>washington.amb@mae.etat.lu<br><br>https://washington.mae.lu/en.html<br>
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
@@ -691,6 +691,6 @@ Luxembourg is a member of NATO and was one of the original 12 countries to sign 
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,756 (Ukraine) (as of 25 October 2022)<br>
+_refugees (country of origin)_: 5,805 (Ukraine) (as of 1 June 2023)<br>
 _stateless persons_: 174 (2022)<br>
 

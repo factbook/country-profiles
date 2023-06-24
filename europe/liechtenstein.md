@@ -305,12 +305,12 @@ _elections_: last held on 7 February 2021 (next to be held on 7 February 2025)<b
 _election results_: percent of vote by party - FBP 40%, VU 40%, FL 12%, DpL 8%; seats by party - FBP 10, VU 10, FL 3, DpL 2; composition - men 18, women 7, percent of women 28%<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Oberster Gerichtshof (consists of 5 judges); Constitutional Court or Verfassungsgericht (consists of 5 judges and 5 alternates)<br>
+_highest court(s)_: Supreme Court or Supreme Court or F&uuml;rstlicher Oberster Gerichtshof (consists of 5 judges and 5 substitutes); Constitutional Court or Staatsgerichtshof (consists of 5 judges, and 5 alternates)<br>
 _judge selection and term of office_: judges of both courts elected by the Landtag and appointed by the monarch; Supreme Court judges serve 4-year renewable terms; Constitutional Court judges appointed for renewable 5-year terms<br>
-_subordinate courts_: Court of Appeal or Obergericht (second instance), Court of Justice (first instance), Administrative Court, county courts<br>
+_subordinate courts_: Court of Appeal (second instance), Regional Court (first instance), Administrative Court, Tribunal Court, district courts<br>
 
 **Political parties and leaders**<br>
-Democrats for Liechtenstein (Demokraten pro Liechtenstein) or DpL [Thomas REHAK]<br>Fatherland Union (Vaterlaendische Union) or VU [Guenther FRITZ]<br>Progressive Citizens' Party (Fortschrittliche Buergerpartei) or FBP [Thomas BANZER]<br>The Free List (Die Freie Liste) or FL [Pepo FRICK and Conny BUECHEL BRUEHWILER]<br>The Independents (Die Unabhaengigen) or DU [Harald "Harry" QUADERER]<br>
+Democrats for Liechtenstein (Demokraten pro Liechtenstein) or DpL [Thomas REHAK]<br>Fatherland Union (Vaterlaendische Union) or VU [Thomas ZWIEFELHOFER]<br>Progressive Citizens' Party (Fortschrittliche Buergerpartei) or FBP [Rainer GOPP]<br>The Free List (Die Freie Liste) or FL [Daniel WALSER, Joy WALSER, Mauela HALDNER-SCHIERSCHER, Sebastian MEIER, Stefan BECKER]<br>The Independents (Die Unabhaengigen) or DU [Harald "Harry" QUADERER]<br>
 
 **International organization participation**<br>
 CD, CE, EBRD, EFTA, IAEA, ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITSO, ITU, ITUC (NGOs), OAS (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UPU, WIPO, WTO<br>
@@ -320,7 +320,7 @@ _chief of mission_: Ambassador Georg SPARBER (since 1 December 2021)<br>
 _chancery_: 2900 K Street NW, Suite 602B, Washington, DC 20007<br>
 _telephone_: [1] (202) 331-0590<br>
 _FAX_: [1] (202) 331-3221<br>
-_email address and website_: <br>info@embassyli.org<br><br>https://www.liechtensteinusa.org/<br>
+_email address and website_: <br>washington@llv.li<br><br>https://www.liechtensteinusa.org/<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Liechtenstein; the US Ambassador to Switzerland is accredited to Liechtenstein<br>

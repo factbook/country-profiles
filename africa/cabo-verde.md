@@ -84,7 +84,7 @@ _adjective_: Cabo Verdean<br>
 Creole (Mulatto) 71%, African 28%, European 1%<br>
 
 **Languages**<br>
-Portuguese (official), Krioulo (a Portuguese-based Creole language with two main dialects spoken in Cabo Verde and in the Cabo Verdean diaspora worldwide)<br>
+Portuguese (official), Crioulo (a Portuguese-based Creole language with two main dialects spoken in Cabo Verde and in the Cabo Verdean diaspora worldwide)<br>
 
 **Religions**<br>
 Roman Catholic 77.3%, Protestant 4.6% (includes Church of the Nazarene 1.7%, Adventist 1.5%, Assembly of God 0.9%, Universal Kingdom of God 0.4%, and God and Love 0.1%), other Christian 3.4% (includes Christian Rationalism 1.9%, Jehovah's Witness 1%, and New Apostolic 0.5%), Muslim 1.8%, other 1.3%, none 10.8%, unspecified 0.7% (2010 est.)<br>
@@ -317,11 +317,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Jose Maria NEVES (since 9 November 2021)<br>
-_head of government_: Prime Minister Ulisses CORREIA E. SILVA (since 22 April 2016)<br>
+_chief of state_: President Jose Maria Pereira NEVES (since 9 November 2021)<br>
+_head of government_: Prime Minister Jose Ulisses CORREIA E. SILVA (since 22 April 2016)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 17 October 2021 (next to be held in October 2026); prime minister nominated by the National Assembly and appointed by the president<br>
-_election results_: <p><em>2020: </em>Jose Maria NEVES elected president; percent of vote - Jose Maria NEVES (PAICV) 51.7%, Carlos VEIGA (MPD) 42.4%, Casimiro DE PINA (Independent) 1.8%, Fernando Rocha DELGADO (Independent) 1.4%, Helio SANCHES (independent) 1.14%, Gilson ALVES (independent) 0.8%, Joaquim MONTEIRO (independent) 3.4%<br><br><em>2015: </em>Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74.1%, Albertino GRACA (independent) 22.5%, other 3%</p><br>
+_election results_: <p><em>2020: </em>Jose Maria Pereira NEVES elected president; percent of vote - Jose Maria Pereira NEVES (PAICV) 51.7%, Carlos VEIGA (MPD) 42.4%, Casimiro DE PINA (Independent) 1.8%, Fernando Rocha DELGADO (Independent) 1.4%, Helio SANCHES (independent) 1.14%, Gilson ALVES (independent) 0.8%, Joaquim MONTEIRO (independent) 3.4%<br><br><em>2015: </em>Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74.1%, Albertino GRACA (independent) 22.5%, other 3%</p><br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (72 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
@@ -334,7 +334,7 @@ _judge selection and term of office_: judge appointments - 1 by the president of
 _subordinate courts_: appeals courts, first instance (municipal) courts; audit, military, and fiscal and customs courts<br>
 
 **Political parties and leaders**<br>
-African Party for Independence of Cabo Verde or PAICV [Jose Maria NEVES]<br>Democratic and Independent Cabo Verdean Union or UCID [João DOS SANTOS LUIS]<br>Democratic Christian Party or PDC [Manuel RODRIGUES]<br>Democratic Renewal Party or PRD [Victor FIDALGO]<br>Movement for Democracy or MPD [Ulisses CORREIA E SILVA]<br>Party for Democratic Convergence or PCD [Dr. Eurico MONTEIRO]<br>Party of Work and Solidarity or PTS [Anibal MEDINA]<br>Social Democratic Party or PSD [Joao ALEM]<br>
+African Party for Independence of Cabo Verde or PAICV [Jose Maria Pereira NEVES]<br>Democratic and Independent Cabo Verdean Union or UCID [João DOS SANTOS LUIS]<br>Democratic Christian Party or PDC [Manuel RODRIGUES]<br>Democratic Renewal Party or PRD [Victor FIDALGO]<br>Movement for Democracy or MPD [Ulisses CORREIA E SILVA]<br>Party for Democratic Convergence or PCD [Dr. Eurico MONTEIRO]<br>Party of Work and Solidarity or PTS [Anibal MEDINA]<br>Social Democratic Party or PSD [Joao ALEM]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AOSIS, AU, CD, CPLP, ECOWAS, FAO, G-77, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -344,7 +344,7 @@ _chief of mission_: Ambassador Jose Luis do Livramento MONTEIRO ALVES DE BRITO (
 _chancery_: 3415 Massachusetts Avenue NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 965-6820<br>
 _FAX_: [1] (202) 965-1207<br>
-_email address and website_: <br>embassy@caboverdeus.net<br><br>https://www.embcv-usa.gov.cv/<br>
+_email address and website_: <br>embassy.wdc@mnec.gov.cv<br><br>https://www.embcv-usa.gov.cv/<br>
 _consulate(s) general_: Boston<br>
 
 **Diplomatic representation from the US**<br>
@@ -667,5 +667,5 @@ the FACV/National Guard is mostly a ground force with 2 infantry battalions and 
 _stateless persons_: 115 (2022)<br>
 
 **Illicit drugs**<br>
-Cabo Verde is a transit hub for cocaine, marijuana, and other drugs trafficked from Latin America to Europe; marijuana, cocaine, hashish, heroin, and methamphetamine are the most frequently consumed drugs in Cabo Verde<br>
+<p>narcotraffickers transit cocaine, cannabis, and other drugs to Africa and Europe; domestic trafficking contributes to increased consumption of illicit substances;</p><br>
 

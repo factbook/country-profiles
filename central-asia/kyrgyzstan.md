@@ -372,7 +372,7 @@ _chief of mission_: Ambassador Baktybek AMANBAEV (since 7 July 2021)<br>
 _chancery_: 2360 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 449-9822<br>
 _FAX_: [1] (202) 449-8275<br>
-_email address and website_: <br>kgembassy.usa@mfa.gov.kg; kgconsulate.washington@mfa.gov.kg<br>
+_email address and website_: <br>kgembassy.usa@mfa.gov.kg<br><br>Embassy of the Kyrgyz Republic in the USA and Canada (mfa.gov.kg)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Lesslie VIGUERIE (since 29 December 2022)<br>
@@ -709,5 +709,5 @@ US-designated foreign terrorist groups such as the Islamic Jihad Union, the Isla
 _stateless persons_: 482 (2022)<br>
 
 **Illicit drugs**<br>
-<p>a prime transshipment location; illegal drugs move from Afghanistan to Russia, and sometimes into Europe</p> <p> </p><br>
+<p>a prime transit route and transshipment route for illegal drugs transiting north from Afghanistan to Russia and Europe; illicit drugs are primarily smuggled into the country from Tajikistan</p> <p> </p><br>
 

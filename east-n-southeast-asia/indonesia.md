@@ -380,8 +380,8 @@ ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant c
 _chief of mission_: Ambassador Rosan Perkasa ROESLANI (since 13 January 2022)<br>
 _chancery_: 2020 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 775-5200<br>
-_FAX_: [1] (202) 775-5365<br>
-_email address and website_: <br>http://www.embassyofindonesia.org/<br>
+_FAX_: [1] (202) 775-5236<br>
+_email address and website_: <br>washington.kbri@kemlu.go.id<br><br>https://www.kemlu.go.id/washington/en#!<br>
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
@@ -722,7 +722,7 @@ Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-An
 approximately 400,000 active duty troops (300,000 Army; 60,000 Navy, including about 20,000 marines; 30,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a wide mix of Chinese, Russian, and Western (including US) equipment; in recent years, the top suppliers have included China, France, Germany, the Netherlands, Russia, South Korea, the UK, and the US; the TNI has been engaged in a modernization program for more than a decade with uneven success; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government said that growing its domestic defense industry was a national priority over the following 10 years (2022)<br>
+the military's inventory is a wide mix of Chinese, Russian, and Western (including US) equipment; in recent years, the top suppliers have included China, France, Germany, the Netherlands, South Korea, and the US; the TNI has been engaged in a modernization program for more than a decade with uneven success; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government said that growing its domestic defense industry was a national priority over the following 10 years (2023)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for voluntary military service, with selective conscription authorized (males, age 18), but not utilized; 24-month service obligation, with reserve obligation to age 45 (officers) (2023)<br>
@@ -757,5 +757,5 @@ _tier rating_: Tier 2 Watch List &mdash; Indonesia does not fully meet the minim
 _trafficking profile_: human traffickers exploit domestic and foreign victims in Indonesia, as well as Indonesians abroad; officials estimate that more than two million Indonesians working abroad&mdash;many of whom are women working in the domestic sector&mdash;are undocumented or overstayed their visas, increasing their risk to trafficking; traffickers exploit many Indonesians through force and debt-based coercion in Asia (particularly in China, South Korea, and Singapore) and the Middle East (particularly in Saudi Arabia), primarily in domestic work, factories, construction, and manufacturing, as well as on Malaysian oil palm plantations and fishing vessels throughout the Indian and Pacific Oceans; Indonesian labor traffickers exploit adults and children in fishing, fish processing, construction, on oil palm or other plantations, and in mining and manufacturing; women and girls are exploited in forced labor in domestic service, and children may be subject to forced criminality in the illicit drug industry; sex traffickers use spas, hotels, bars, and other businesses to facilitate sex trafficking, and up to 30 percent of individuals in commercial sex in Indonesia are female child sex victims; women and girls are also exploited in sex trafficking near mining operations, and Bali is a destination for Indonesians and foreigners engaged in child sex tourism; sex traffickers exploit Indonesian women and girls abroad primarily in Malaysia, Taiwan, and the Middle East (2022)<br>
 
 **Illicit drugs**<br>
-<p>a transit and destination point for illicit narcotics; consumer of crystal methamphetamine trafficked in Burma and Pakistan and also transit to Australia and New Zealand; significant consumer of ecstasy from China and the Netherlands and domestically grown cannabis</p> <p> </p><br>
+<p>major transit point and destination for illicit narcotics; a destination for methamphetamine, ecstasy, and other illicit drugs; methamphetamine production facilities within Indonesia </p> <p> </p> <p> </p><br>
 

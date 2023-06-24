@@ -330,8 +330,8 @@ _residency requirement for naturalization_: 1 to 3 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022); Vice Presidents Salvador NASRALLA, Doris GUTIERREZ, and Renato FLORENTINO (since 27 January 2022); note - the president is both chief of state and head of government; CASTRO is Honduras' first female president<br>
-_head of government_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022); Vice Presidents Salvador NASRALLA, Doris GUTIERREZ, and Renato FLORENTINO (since 27 January 2022)<br>
+_chief of state_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022); Vice Presidents Salvador NASRALLA, Doris GUTI&Eacute;RREZ, and Renato FLORENTINO (since 27 January 2022); note - the president is both chief of state and head of government; CASTRO is Honduras' first female president<br>
+_head of government_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022); Vice Presidents Salvador NASRALLA, Doris GUTI&Eacute;RREZ, and Renato FLORENTINO (since 27 January 2022)<br>
 _cabinet_: Cabinet appointed by president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term; election last held on 28 November 2021 (next to be held in 30 November 2025); note - in 2015, the Constitutional Chamber of the Honduran Supreme Court struck down the constitutional provisions on presidential term limits<br>
 _election results_: <br><em>2021: </em>Iris Xiomara CASTRO de Zelaya elected president; percent of vote - Iris Xiomara CASTRO de Zelaya (LIBRE) 51.1%, Nasry Juan ASFURA Zablah (PNH) 36.9%, Yani Benjamin ROSENTHAL Hidalgo (PL) 10%, other 2%<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br>
@@ -689,11 +689,14 @@ Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Hond
 approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Military Police of Public Order); approximately 18,000 National Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FFAA's inventory is comprised of mostly older imported equipment from Israel, the UK, and the US; in recent years, it has received limited amounts of military equipment from several countries, including Colombia, Israel, and the Netherlands (2022)<br>
+the FFAA's inventory is comprised of mostly older imported equipment from Israel, the UK, and the US; in recent years, it has received limited amounts of military equipment from several countries, including Colombia and Israel (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary 2- to 3-year military service (men and women); no conscription (2022)<br>
 <strong>note: </strong>as of 2017, women made up over 4% of the active duty military<br>
+
+**Military - note**<br>
+the Honduran Armed Forces (FFAA) are responsible for maintaining the country’s territory, defending its sovereignty, providing emergency/humanitarian assistance, and supporting the National Police (HNP); the FFAA’s primary focus is internal and border security, and since 2011 a considerable portion of it has been deployed to support the HNP in combating narcotics trafficking and organized crime; military support to domestic security included the creation of the Military Police of Public Order (PMOP) in 2013 to provide security in areas controlled by street gangs to combat crime and make arrests; the PMOP also has sent personnel to reinforce security operations along the country’s border as part of a tri-national security task force with El Salvador and Guatemala; the FFAA has received military equipment, training, humanitarian, and technical assistance from the US military; the US military maintains a joint service task force co-located with the FFAA at Soto Cano Air Base<br><br>the Army’s combat forces include 5 infantry brigades, a special operations group, and approximately 8 military police battalions; the Navy is a small force focused on coastal and riverine security that operates an ocean-going patrol vessel acquired in 2019 and supported by flotillas of small coastal and riverine patrol boats, as well as a small naval infantry force; the Air Force has a handful of older US-made jet fighters and light ground attack aircraft  (2023)<br>
 
 ## Transnational Issues
 
@@ -704,5 +707,5 @@ the FFAA's inventory is comprised of mostly older imported equipment from Israel
 _IDPs_: 247,000 (violence, extortion, threats, forced recruitment by urban gangs between 2004 and 2018) (2023)<br>
 
 **Illicit drugs**<br>
-<p>transshipment point for cocaine destined for the United States and precursor chemicals used to produce illicit drugs; some experimental coca cultivation</p><br>
+<br><br> <p>transshipment point for cocaine destined for the United States and precursor chemicals used to produce illicit drugs; some small-scale coca cultivation</p> <p> </p><br>
 

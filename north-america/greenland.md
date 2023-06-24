@@ -296,8 +296,9 @@ Arctic Council, ICC, NC, NIB, UPU<br>
 **Diplomatic representation in the US**<br>
 _chief of mission_: Kenneth HOEGH, Head of Representation; note - Greenland also has offices in the Danish consulates in Chicago and New York<br>
 _chancery_: Greenland Representation<br>3200 Whitehaven Street, NW<br>Washington, DC  20008<br>
-_telephone_: 202-797-5392<br>
-_email address and website_: <br>washington@nanoq.gl<br><br>https://naalakkersuisut.gl/en/Naalakkersuisut/Groenlands-repraesentation-Washington<br>
+_telephone_: [1] (202) 234-4300<br>
+_FAX_: +1 (202) 328-1470<br>
+_email address and website_: <br>washington@nanoq.gl<br><br>All Greenlandic Representations | GrÃ¸nlands ReprÃ¦sentation (grl-rep.dk); <br>https://naalakkersuisut.gl/en/Naalakkersuisut/Groenlands-repraesentation-Washington<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Consul Joanie SIMON (since June 2021)<br>

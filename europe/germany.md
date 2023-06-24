@@ -354,7 +354,7 @@ _election results_: <em>2017:</em> Frank-Walter STEINMEIER reelected president; 
 _description_: bicameral Parliament or Parlament consists of:<br>Federal Council or Bundesrat (69 seats statutory, 71 current; members appointed by each of the 16 state governments)<br>Federal Diet or Bundestag (736 seats statutory, 736 for the 2021-25 term - total seats can vary each electoral term; currently includes 4 seats for independent members; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members' terms depend upon the states they represent)<br>
 _elections_: <br>Bundesrat - none; determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election<br>Bundestag - last held on 26 September 2021 (next to be held in September 2025 at the latest); almost all postwar German governments have been coalitions<br>
 _election results_: <br>Bundesrat - composition - men 46, women 23, percent of women 33.3%<br>Bundestag - percent of vote by party - SPD 28%, CDU/CSU 26.8%, Alliance '90/Greens 16%, FDP 12.5%, AfD 11%, The Left 5.3%, other .04%; seats by party - SPD 206, CDU/CSU 197, Alliance '90/Greens 118, FDP 92, AfD 81, The Left 39, other 3; composition - men 479, women 257, percent of women 34.9%; note - total Parliament percent of women 34.8%<br>
-note - due to Germany's recognition of the concepts of "overhang" (when a party's share of the nationwide votes would entitle it to fewer seats than the number of individual constituency seats won in an election under Germany's mixed member proportional system) and "leveling" (whereby additional seats are elected to supplement the members directly elected by each constituency in order to ensure that each party's share of the total seats is roughly proportional to the party's overall shares of votes at the national level), the 20th Bundestag is the largest to date<br>
+<strong>note:</strong> due to Germany's recognition of the concepts of "overhang" (when a party's share of the nationwide votes would entitle it to fewer seats than the number of individual constituency seats won in an election under Germany's mixed member proportional system) and "leveling" (whereby additional seats are elected to supplement the members directly elected by each constituency in order to ensure that each party's share of the total seats is roughly proportional to the party's overall shares of votes at the national level), the 20th Bundestag is the largest to date<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Court of Justice (court consists of 127 judges, including the court president, vice presidents, presiding judges, other judges and organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels); Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members)<br>
@@ -574,6 +574,14 @@ _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 10.4% of total installed capacity (2020 est.)<br>
 <strong>note:</strong> as of April 2023, Germany has closed its three remaining nuclear power plants<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 0<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 0GW<br>
+_Percent of total electricity production_: 0%<br>
+_Percent of total energy produced_: 0%<br>
+_Number of nuclear reactors permanently shut down_: 33<br>
+
 **Coal**<br>
 _production_: 114.86 million metric tons (2020 est.)<br>
 _consumption_: 145.379 million metric tons (2020 est.)<br>
@@ -676,11 +684,11 @@ _total_: 39,379 km (2020) 20,942 km electrified<br>
 
 **Roadways**<br>
 _total_: 830,000 km (2022) 830,000 km<br>
-_paved_: 625,000 km (2022) (includes 13,155 km of expressways)<br>
+_paved_: 830,000 km (2022) (includes 13,155 km of expressways)<br>
 <strong>note:</strong> includes local roads<br>
 
 **Waterways**<br>
-7,467 km (2012) (Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea)<br>
+7,300 km (2022) (Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea)<br>
 
 **Merchant marine**<br>
 _total_: 592<br>
@@ -699,7 +707,8 @@ Germany operates one PC 5 or 6 class icebreaker based in the North Atlantic<br>n
 ## Military and Security
 
 **Military and security forces**<br>
-Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes naval air arm), Air Force (Luftwaffe, includes air defense), Joint Support Service (Streitkraeftebasis, SKB), Central Medical Service (Zentraler Sanitaetsdienst, ZSanDstBw), Cyber and Information Space Command (Kommando Cyber und Informationsraum, Kdo CIR) (2023)<br>
+Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes naval air arm), Air Force (Luftwaffe, includes air defense), Joint Support and Enabling Service (Streitkraeftebasis, SKB), Central Medical Service (Zentraler Sanitaetsdienst, ZSanDstBw), Cyber and Information Space Command (Kommando Cyber und Informationsraum, Kdo CIR) (2023)<br>
+<strong>note:</strong> responsibility for internal and border security is shared by the police forces of the 16 states, the Federal Criminal Police Office, and the Federal Police; the states’ police forces report to their respective interior ministries while the Federal Police forces report to the Federal Ministry of the Interior<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2022 est.)<br>
@@ -710,15 +719,15 @@ Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes 
 <strong>note:</strong> in 2022, the German Government said defense spending would reach 2% of GDP by 2025<br>
 
 **Military and security service personnel strengths**<br>
-approximately 184,000 active duty personnel (63,000 Army; 16,000 Navy; 27,000 Air Force; 27,000 Joint Support Service; 20,000 Medical Service, 16,000 Cyber and Information Space Command; 15,000 other, including central staff, support, etc.) (2022)<br>
+approximately 183,000 active-duty uniformed personnel (62,000 Army; 16,000 Navy; 27,000 Air Force; 20,000 Medical Service, 14,000 Cyber and Information Space Command; 43,000 other, including central staff, support, logistics, etc.) (2023)<br>
 <strong>note:</strong> Germany in 2020 announced it planned to increase the size of the military to about 200,000 troops by 2025<br>
 
 **Military equipment inventories and acquisitions**<br>
-the German Federal Armed Forces inventory is comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; in recent years, the US has been the leading foreign supplier; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and is one of the world's leading arms exporters (2022)<br>
+the German Federal Armed Forces inventory is comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; in recent years, the US has been the leading foreign supplier; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and is one of the world's leading arms exporters (2023)<br>
 
 **Military service age and obligation**<br>
-17-23 years of age for male and female voluntary military service (must have completed compulsory full-time education and have German citizenship); conscription ended July 2011; service obligation 7-23 months or 12 years; women have been eligible for voluntary service in all military branches and positions since 2001 (2022)<br>
-<strong>note:</strong> in 2021, women accounted for about 12% of the German military<br>
+17-23 years of age for voluntary military service for men and women (must have completed compulsory full-time education and have German citizenship); conscription ended July 2011; service obligation 7-23 months or 12 years; in July 2020, the government launched a new voluntary conscript initiative focused on homeland security tasks; volunteers serve for 7 months plus 5 months as reservists over a 6 year period (2023)<br>
+<strong>note:</strong> women have been eligible for voluntary service in all military branches and positions since 2001 and account for about 12% of the German military<br>
 
 **Military deployments**<br>
 up to 500 Iraq (NATO); 1,000 Lithuania (NATO); approximately 1,100 Mali (MINUSMA/EUTM); 280 Slovakia (NATO) (2022)<br>
@@ -739,9 +748,9 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,067,856 (Ukraine) (as of 21 May 2023)<br>
+_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 948,440 (Ukraine) (as of 4 June 2023)<br>
 _stateless persons_: 28,941 (2022)<br>
 
 **Illicit drugs**<br>
-<p>maritime transshipment point for cocaine heading to Europe</p><br>
+<p>maritime transshipment point for cocaine heading for European drug; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>
 

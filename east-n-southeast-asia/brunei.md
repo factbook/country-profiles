@@ -346,7 +346,7 @@ _chief of mission_: Ambassador Dato Paduka Haji Serbini bin Haji ALI (since 28 J
 _chancery_: 3520 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 237-1838<br>
 _FAX_: [1] (202) 885-0560<br>
-_email address and website_: <br>info@bruneiembassy.org<br><br>http://www.bruneiembassy.org/index.html<br>
+_email address and website_: <br>info@bruneiembassy.org<br><br>http://www.bruneiembassy.org/index.html<br><br>
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>

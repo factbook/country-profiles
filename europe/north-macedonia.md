@@ -689,7 +689,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 6,768 (Ukraine) (as of 8 May 2023)<br>
 _stateless persons_: 521 (2022)<br>
-<strong>note:</strong> 553,855 estimated refugee and migrant arrivals (January 2015-March 2023)<br>
+<strong>note:</strong> 554,747 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

@@ -336,7 +336,7 @@ _chief of mission_: Ambassador Pa’olelei LUTERU (since 7 July 2021)<br>
 _chancery_: 685 Third Avenue, 44th Street, 11th Floor, Suite 1102, New York, NY 10017<br>
 _telephone_: [1] (212) 599-6196<br>
 _FAX_: [1] (212) 599-0797<br>
-_email address and website_: <br>samoanymission@outlook.com<br><br>https://www.un.int/samoa/samoa/embassy-independent-state-samoa-united-states-america<br>
+_email address and website_: <br>samoa@samoanymission.ws<br><br>https://www.un.int/samoa/samoa/embassy-independent-state-samoa-united-states-america<br>
 _consulate(s) general_: Pago Pago (American Samoa)<br>
 
 **Diplomatic representation from the US**<br>

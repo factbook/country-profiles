@@ -94,6 +94,9 @@ _major-language sample(s)_: <br>Verdens Faktabog, den uundværlig kilde til grun
 **Religions**<br>
 Evangelical Lutheran (official) 74.7%, Muslim 5.5%, other/none/unspecified (denominations of less than 1% each in descending order of size include Roman Catholic, Jehovah's Witness, Serbian Orthodox Christian, Jewish, Baptist, Buddhist, Church of Jesus Christ, Pentecostal, and nondenominational Christian) 19.8% (2019 est.)<br>
 
+**Demographic profile**<br>
+<p>Modern immigration to Denmark began in the 1960s and 1970s, although immigration, primarily from the Nordic countries and Western Europe, has earlier roots.  Dutch migrants came in the 16th century and Germans in the 18th, in both cases to work in agriculture.  Between the late 19th century and World War I, Denmark absorbed unskilled Polish, German, and Swedish labor migrants in significant numbers, sometimes at the request of the Danish Government.  Between the two World Wars, Denmark received many Eastern European, Jewish, and German migrants. It wasn’t until after World War II, that refugees began seeking sanctuary in Demark, including a large number of German refugees and later Hungarians, Czechs, and Polish Jews.  Denmark also imported foreign labor during the 1960s, mainly from Turkey, the former Yugoslavia, and Pakistan.  Although the “guest worker” program was halted in 1973, immigrants continued to arrive to be reunited with family members who were already in Denmark as refugees or as guest workers. Non-European refugees came from Chile, Uganda, and Vietnam.  In the 1990s, Denmark began receiving migrants and refugees from new places, including Russia, Hungary, Bosnia, Iran, Iraq, and Lebanon.  Despite raising more restrictions on immigration, in the 2000s, Denmark continued to receive asylum seekers, particularly from Afghanistan, Iraq, Somalia, and the former Yugoslavia, as well as labor migrants from new EU member states. </p> <p>In more recent years, Denmark has severely limited its refugee intake, aiming to accept as few refugees outside of the UN resettlement program as possible.  In the mid-2010s, Denmark passed legislation enabling it to withdraw temporary protective status as soon as conditions in the home country, as determined by Denmark, have improved.  This policy has lead Denmark, to deem Damascus and other areas in Syria safe for return, making it the only country in Europe to do so.  Consequently, some Syrian refugees have had their residency status revoked, and they are detained in deportation centers because Denmark does not have diplomatic relations with Syria and, therefore, cannot send them back.  Copenhagen hopes its stricter policies will discourage asylum seekers, particularly those from non-Western countries.</p><br>
+
 **Age structure**<br>
 _0-14 years_: 16.24% (male 495,887/female 469,976)<br>
 _15-64 years_: 63.13% (male 1,900,182/female 1,854,222)<br>
@@ -672,7 +675,7 @@ Denmark operates icebreakers in the Baltic Sea and Danish Straits; currently ope
 
 **Military and security forces**<br>
 Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Danish Air Force, Danish Home Guard (Reserves) (2023)<br>
-<strong>note:</strong> the Danish military maintains a Joint Arctic Command with the mission of protecting the sovereignty of the Kingdom of Denmark in the Arctic Region, including the Faroe Islands and Greenland; the command also conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, hydrographical surveys, and provides support to governmental science missions<br>
+<strong>note:</strong> the Danish military maintains a joint service Arctic Command with the mission of protecting the sovereignty of the Kingdom of Denmark in the Arctic Region, including the Faroe Islands and Greenland; the command also conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, hydrographical surveys, and provides support to governmental science missions<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2022 est.)<br>
@@ -682,14 +685,14 @@ Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Dan
 1.3% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 17,000 active duty personnel (10,000 Army; 3,500 Navy; 3,500 Air Force) (2022)<br>
+approximately 17,000 active-duty personnel (10,000 Army; 3,500 Navy; 3,500 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Danish military inventory is comprised of a mix of modern European, US, and domestically produced equipment; the US has been the largest supplier of military equipment to Denmark in recent years; the Danish defense industry is active in the production of naval vessels, defense electronics, and subcomponents of larger weapons systems, such as the US F-35 fighter aircraft (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish military offers reserve contracts in all three branches (2023)<br>
-<strong>note 1:</strong> women have been able serve in all military occupations, including combat arms, since 1988; as of 2019, they made up about 8% of the military's full-time personnel; conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br><br><strong>note 2: </strong>foreigners who have lived in Denmark for at least 1 year or in another EU country for 6 years may apply to join the armed forces, provided they are fluent in Danish <br><br><strong>note 2: </strong>Denmark has had compulsory military service since 1849<br>
+<strong>note 1:</strong> women have been able serve in all military occupations, including combat arms, since 1988; as of 2022, they made up about 9% of the military's full-time personnel; conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br><br><strong>note 2: </strong>foreigners who have lived in Denmark for at least 1 year or in another EU country for 6 years may apply to join the armed forces, provided they are fluent in Danish <br><br><strong>note 2: </strong>Denmark has had compulsory military service since 1849<br>
 
 **Military deployments**<br>
 approximately 225 Estonia (NATO); approximately 800 Latvia (NATO) (2023)<br>
@@ -710,6 +713,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 42,361 (Ukraine) (as of 21 May 2023)<br>
+_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 42,325 (Ukraine) (as of 21 May 2023)<br>
 _stateless persons_: 11,644 (2022)<br>
 

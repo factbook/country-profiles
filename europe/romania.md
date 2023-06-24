@@ -339,7 +339,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Klaus Werner IOHANNIS (since 21 December 2014)<br>
-_head of government_: Prime Minister Nicolae CIUCA (since 25 November 2021); Deputy Prime Ministers Sorin GRINDEANU (since 25 November 2021) and Hunor KELEMEN (since 23 December 2020)<br>
+_head of government_: Interim Prime Minister Catalin PREDOIU (since 12 June 2023); Deputy Prime Ministers Sorin GRINDEANU (since 25 November 2021) and Hunor KELEMEN (since 23 December 2020)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on&nbsp;10 November 2019 with a runoff on&nbsp;24 November 2019 (next to be held&nbsp;in November 2024); prime minister appointed by the president with consent of Parliament<br>
 _election results_: <em>2021:</em> Nicolae CIUCA approved as prime minister with 318 votes<em><br><br>2019: </em>Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%, Viorica DANCILA (PSD) 33.9%<br><br><em>2014:</em> Klaus IOHANNIS elected president in the second round; percent of vote - Klaus IOHANNIS (PNL) 54.4%, Victor PONTA (PSD) 45.6%<br>
@@ -365,7 +365,7 @@ _chief of mission_: Ambassador Dan Andrei MURARU (since 15 September 2021)<br>
 _chancery_: 1607 23rd Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-4829; [1] (202) 332-4846<br>
 _FAX_: [1] (202) 232-4748<br>
-_email address and website_: <br>washington@mae.ro (chancery)<br>contact@informatiiconsulare.ro (consular section)<br><br>https://washington.mae.ro/en<br>
+_email address and website_: <br>washington@mae.ro; office@roembus.org<br><br>Embassy of Romania - Washington, DC (roembus.org)<br>
 _consulate(s) general_: Chicago, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -567,6 +567,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 0.9% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 2 (2023)<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 1.3GW (2023)<br>
+_Percent of total electricity production_: 18.5% (2021)<br>
+_Percent of total energy produced_: 12.9% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 0<br>
+
 **Coal**<br>
 _production_: 15.002 million metric tons (2020 est.)<br>
 _consumption_: 16.412 million metric tons (2020 est.)<br>
@@ -721,9 +729,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 94,179 (Ukraine) (as of 20 May 2023)<br>
+_refugees (country of origin)_: 138,850 (Ukraine) (as of 11 June 2023)<br>
 _stateless persons_: 297 (2022)<br>
-<strong>note:</strong> 13,748 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
+<strong>note:</strong> 14,050 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis</p><br>

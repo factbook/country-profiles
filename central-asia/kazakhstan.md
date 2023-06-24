@@ -575,6 +575,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 0<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 0GW<br>
+_Percent of total electricity production_: 0%<br>
+_Percent of total energy produced_: 0%<br>
+_Number of nuclear reactors permanently shut down_: 1<br>
+
 **Coal**<br>
 _production_: 102.338 million metric tons (2020 est.)<br>
 _consumption_: 74.819 million metric tons (2020 est.)<br>
@@ -672,8 +680,8 @@ UP<br>
 658 km condensate, 15,429 km gas (2020), 8,020 km oil (2020), 1,095 km refined products, 1,975 km water (2017) (2020)<br>
 
 **Railways**<br>
-_total_: 16,636 km (2020)<br>
-_broad gauge_: 16,636 km (2020) 1.520-m gauge (4,237 km electrified)<br>
+_total_: 16,636 km (2021)<br>
+_broad gauge_: 16,636 km (2021) 1.520-m gauge (4,237 km electrified)<br>
 
 **Roadways**<br>
 _total_: 96,167 km (2021)<br>
@@ -725,5 +733,5 @@ Kazakhstan’s armed forces were formed in 1992 following the breakup of the Sov
 _stateless persons_: 7,558 (2022)<br>
 
 **Illicit drugs**<br>
-<p>synthetic drugs dominate the local illicit drug market, smuggled from Southeast Asia, China, Russia and Europe; however the number of domestic clandestine laboratories producing synthetic drugs continues to increase;  remains a transit country for Afghan heroin destined for Russia and Europe.</p><br>
+<p>part of the "Northern Route," land drug trafficking route from Afghanistan to Russia and Europe; domestic manufacturing of synthetics increasing and domestic drug use trends to synthetic drugs outpacing heroin and cannabis;</p><br>
 

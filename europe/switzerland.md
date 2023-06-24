@@ -344,12 +344,12 @@ _chief of state_: President of the Swiss Confederation Alain BERSET (since 1 Jan
 _head of government_: President of the Swiss Confederation Alain BERSET (since 1 January 2023); Vice President Viola AMHERD (since 1 January 2023)<br>
 _cabinet_: Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) indirectly elected by the Federal Assembly for a 4-year term<br>
 _elections/appointments_: president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term; election last held on 8 December 2022 (next to be held in December 2023)<br>
-_election results_: <em>2022:  </em>Alain BERSET elected president for 2023; Federal Assembly vote - Alain BERSET (SP) 140 OF 181; Viola AMHERD (The Center) elected vice president; Federal assembly vote - 207 of 223 <em><br><br>2021:</em> Ignazio CASSIS elected president for 2022; Federal Assembly vote - Ignazio CASSIS (FDP.The Liberals) 156 of 197 votes; Alain BERSET (SP) elected vice president; Federal Assembly vote - 158 of 204<br><br><em>2020:</em> Guy PARMELIN elected president for 2021; Federal Assembly vote - Guy PARMELIN (SVP) 188 of 202 votes; Ignazio CASSIS (FDP.The Liberals) elected vice president; Federal Assembly vote - 162 of 191<br>
+_election results_: <p><em>2022:  </em>Alain BERSET elected president for 2023; Federal Assembly vote - Alain BERSET (SP) 140 OF 181; Viola AMHERD (The Center) elected vice president; Federal assembly vote - 207 of 223 <em><br><br>2021:</em> Ignazio CASSIS elected president for 2022; Federal Assembly vote - Ignazio CASSIS (FDP.The Liberals) 156 of 197 votes; Alain BERSET (SP) elected vice president; Federal Assembly vote - 158 of 204<br><br><em>2020:</em> Guy PARMELIN elected president for 2021; Federal Assembly vote - Guy PARMELIN (SVP) 188 of 202 votes; Ignazio CASSIS (FDP.The Liberals) elected vice president; Federal Assembly vote - 162 of 191</p> <p> </p><br>
 
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in two-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons, which use list proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 194 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms)<br>
-_elections_: <br>Council of States - last held in most cantons on 20 October 2019 (each canton determines when the next election will be held)<br>National Council - last held on 20 October 2019 (next to be held on 31 October 2023)<br>
-_election results_: <br>Council of States - percent of vote by party - NA; seats by party - The Center 13, FDP.The Liberals 12, SDP 9, Green Party 5, SVP 6, other 1; composition (as of mid-2022) - men 33, women 13, percent of women 28.3% <br>National Council - percent of vote by party - SVP 26.5%, SP 19.5%, FDP.The Liberals 15.1%, Green Party 14%, The Center 14%, GLP 7.8%, other 3.5%; seats by party - SVP 53, SP 39, FDP.The Liberals 29, Green Party 28, The Center 28, GLP 16, other 7; composition (as of mid-2022) - men 115, women 85, percent of women 42.5%; note - overall Federal Assembly percent of women 39.8%<br>
+_elections_: <br>Council of States - last held in most cantons on 20 October 2019 (each canton determines when the next election will be held)<br>National Council - last held on 20 October 2019 (next to be held on 22 October 2023)<br>
+_election results_: <br>Council of States - percent of vote by party - NA; seats by party - The Center 14, FDP.The Liberals 12, SP 7, Green Party 5, SVP 7, other 1; composition (as of mid-2023) - men 34, women 12, percent of women 26.1% <br>National Council - percent of vote by party - SVP 25.6%, SP 16.8%, FDP.The Liberals 15.1%, Green Party 13.2%, The Center 11.4%, GLP 7.8%, other 4.5%; seats by party - SVP 55, SP 39, FDP.The Liberals 29, Green Party 30, The Center 31, GLP 16; composition (as of mid-2023) - men 116, women 84, percent of women 42.5%; note - overall Federal Assembly percent of women 41.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court (consists of 38 justices and 19 deputy justices organized into 7 divisions)<br>
@@ -357,17 +357,17 @@ _judge selection and term of office_: judges elected by the Federal Assembly for
 _subordinate courts_: Federal Criminal Court (established in 2004); Federal Administrative Court (established in 2007); note - each of Switzerland's 26 cantons has its own courts<br>
 
 **Political parties and leaders**<br>
-Green Liberal Party (Gruenliberale Partei or GLP, Parti vert liberale or PVL, Partito Verde-Liberale or PVL, Partida Verde Liberale or PVL) [Juerg GROSSEN]<br>Green Party (Gruene Partei der Schweiz or Gruene, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda) [Balthasar GLATTLI]<br>Social Democratic Party (Sozialdemokratische Partei der Schweiz or SP, Parti Socialiste Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS) [Cedric WERMUTH and Mattea MEYER]<br>Swiss People's Party (Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica di Centro or UDC, Uniun Democratica dal Center or UDC) [Marco CHIESA]<br>The Center (Die Mitte, Alleanza del Centro, Le Centre, Allianza dal Center) [Gerhard PFISTER] (merger of the Christian Democratic People's Party and the Conservative Democratic Party)<br>The Liberals or FDP.The Liberals (FDP.Die Liberalen, PLR.Les Liberaux-Radicaux, PLR.I Liberali, Ils Liberals) [Petra GOESSI]<br>other minor parties<br>
+Green Liberal Party (Gruenliberale Partei or GLP, Parti vert liberale or PVL, Partito Verde-Liberale or PVL, Partida Verde Liberale or PVL) [Juerg GROSSEN]<br>Green Party (Gruene Partei der Schweiz or Gruene, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda) [Balthasar GLATTLI]<br>Social Democratic Party (Sozialdemokratische Partei der Schweiz or SP, Parti Socialiste Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS) [Cedric WERMUTH and Mattea MEYER]<br>Swiss People's Party (Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica di Centro or UDC, Uniun Democratica dal Center or UDC) [Marco CHIESA]<br>The Center (Die Mitte, Alleanza del Centro, Le Centre, Allianza dal Center) [Gerhard PFISTER] (merger of the Christian Democratic People's Party and the Conservative Democratic Party)<br>The Liberals or FDP.The Liberals (FDP.Die Liberalen, PLR.Les Liberaux-Radicaux, PLR.I Liberali, Ils Liberals) [Thierry BURKART]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINUSMA, MONUSCO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNMOGIP, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jacques Henri PITTELOUD (since 16 September 2019)<br>
-_chancery_: 2201 Wisconsin Avenue NW, Suite 300, Washington, DC 20007-4105<br>
+_chancery_: 2900 Cathedral Ave NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 745-7900<br>
 _FAX_: [1] (202) 387-2564<br>
-_email address and website_: <br>washington@eda.admin.ch<br>https://www.eda.admin.ch/washington<br>
+_email address and website_: <br>washington@eda.admin.ch<br><br>https://www.eda.admin.ch/washington<br>
 _consulate(s) general_: Atlanta, Chicago, New York, San Francisco<br>
 _consulate(s)_: Boston<br>
 
@@ -572,6 +572,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 4.7% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 4 (2023)<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 2.97GW (2023)<br>
+_Percent of total electricity production_: 28.8% (2021)<br>
+_Percent of total energy produced_: 34.2% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 1<br>
+
 **Coal**<br>
 _production_: 0 metric tons (2020 est.)<br>
 _consumption_: 150,000 metric tons (2020 est.)<br>
@@ -725,9 +733,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,601 (Ukraine) (as of 19 May 2023)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 81,470 (Ukraine) (as of 2 June 2023)<br>
 _stateless persons_: 891 (2022)<br>
 
 **Illicit drugs**<br>
-major source of precursor chemicals used in the production of illicit narcotics; a significant importer and exporter of ephedrine and pseudoephedrine<br>
+<p>major source of precursor chemicals used in the production of illicit narcotics; a significant importer and exporter of ephedrine and pseudoephedrine;</p><br>
 

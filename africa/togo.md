@@ -348,13 +348,13 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Faure GNASSINGBE (since 4 May 2005)<br>
 _head of government_: Prime Minister Victoire Tomegah DOGBE (since 28 September 2020)<br>
 _cabinet_: Council of Ministers appointed by the president on the advice of the prime minister<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 22 February 2020 (next to be held&nbsp; February 2025); prime minister appointed by the president<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 22 February 2020 (next to be held 2025); prime minister appointed by the president<br>
 _election results_: <p><em>2020:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 70.8%, Agbeyome KODJO (MPDD) 19.5%, Jean-Pierre FABRE (ANC) 4.7%, other 5%<br><br><em>2015:</em> Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 58.8%, Jean-Pierre FABRE (ANC) 35.2%, Tchaboure GOGUE (ADDI) 4%, other 2%</p> <p> </p><br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (91 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms)<br>
+_description_: unicameral National Assembly or Assemblee Nationale (91 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms); party lists are required to contain equal numbers of men and women<br>
 _elections_: last held on 20 December 2018 (next to be held in 2023)<br>
-_election results_: percent of vote by coalition/party - NA; seats by party - UNIR 59, UFC 6, NET 3, MPDD 3, other 2, independent 18; composition - men 74, women 17, percent of women 18.7%<br>
+_election results_: percent of vote by coalition/party - NA; seats by party - UNIR 59, UFC 7, NET 3, MPDD 2, MRC 1, PDP 1, independent 18; composition - men 76, women 15, percent of women 16.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges, including the court president)<br>
@@ -362,7 +362,7 @@ _judge selection and term of office_: Supreme Court president appointed by decre
 _subordinate courts_: Court of Assizes (sessions court); Appeal Court; tribunals of first instance (divided into civil, commercial, and correctional chambers; Court of State Security; military tribunal<br>
 
 **Political parties and leaders**<br>
-Action Committee for Renewal or CAR [Dodji APEVON]<br>Alliance of Democrats for Integral Development or ADDI [Tchaboure GOGUE]<br>Democratic Convention of African Peoples or CDPA [Léopold GNININVI]<br>Democratic Forces for the Republic or FDR [Dodji APEVON]<br>National Alliance for Change or ANC [Jean-Pierre FABRE]<br>New Togolese Commitment [Gerry TAAMA]<br>Pan-African National Party or PNP [Tikpi ATCHADAM]<br>Pan-African Patriotic Convergence or CPP [Edem KODJO]<br>Patriotic Movement for Democracy and Development or MPDD [Agbeyome KODJO] <br>Socialist Pact for Renewal or PSR [Abi TCHESSA]<br>The Togolese Party [Nathaniel OLYMPIO]<br>Union of Forces for Change or UFC [N/A]<br>Union for the Republic or UNIR [Faure GNASSINGBE]<br>
+Action Committee for Renewal or CAR [Dodji APEVON]<br>Alliance of Democrats for Integral Development or ADDI [Tchaboure GOGUE]<br>Democratic Convention of African Peoples or CDPA [Léopold GNININVI]<br>Democratic Forces for the Republic or FDR [Dodji APEVON]<br>National Alliance for Change or ANC [Jean-Pierre FABRE]<br>New Togolese Commitment [Gerry TAAMA]<br>Pan-African National Party or PNP [Tikpi ATCHADAM]<br>Pan-African Patriotic Convergence or CPP [Edem KODJO]<br>Patriotic Movement for Democracy and Development or MPDD [Agbeyome KODJO] <br>Socialist Pact for Renewal or PSR [Abi TCHESSA]<br>The Togolese Party [Nathaniel OLYMPIO]<br>Union of Forces for Change or UFC [Dr. Gilchrist Sylvanus OLYMPIO]<br>Union for the Republic or UNIR [Faure GNASSINGBE]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

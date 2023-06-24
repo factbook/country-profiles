@@ -348,7 +348,7 @@ _chief of state_: President Recep Tayyip ERDOGAN (chief of state since 28 August
 _head of government_: President Recep Tayyip ERDOGAN (head of government since 9 July 2018; chief of state since 28 August 2014); note - a 2017 constitutional referendum eliminated the post of prime minister after the 2018 general election<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 May 2023 with a runoff on 28 May 2023 (next to be held in 2028)<br>
-_election results_: <em>2023: </em>Recep Tayyip ERDOGAN reelected in the second round; Recep Tayyip ERDOGAN (AKP) 52.2%, Kemal KILICDAROGLU (CHP) 47.8%<em><br><br>2018:</em> Recep Tayyip ERDOGAN reelected president in the first round; Recep Tayyip ERDOGAN (AKP) 52.6%, Muharrem INCE (CHP) 30.6%, Selahattin DEMIRTAS (HDP) 8.4%, Meral AKSENER (IYI) 7.3%, other 1.1%<br>
+_election results_: <p><em>2023: </em>Recep Tayyip ERDOGAN reelected in the second round; Recep Tayyip ERDOGAN (AKP) 52.2%, Kemal KILICDAROGLU (CHP) 47.8%<em><br><br>2018:</em> Recep Tayyip ERDOGAN reelected president in the first round; Recep Tayyip ERDOGAN (AKP) 52.6%, Muharrem INCE (CHP) 30.6%, Selahattin DEMIRTAS (HDP) 8.4%, Meral AKSENER (IYI) 7.3%, other 1.1%</p><br>
 
 **Legislative branch**<br>
 _description_: unicameral Grand National Assembly of Turkey or Turkey Buyuk Millet Meclisi (600 seats); members directly elected in multi-seat constituencies by closed party-list proportional representation vote, with a 10% threshold required to win a seat; members serve 5-year terms)<br>
@@ -371,7 +371,7 @@ ADB (nonregional member), Australia Group, BIS, BSEC, CBSS (observer), CD, CE, C
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Hasan Murat MERCAN (since 20 April 2021)<br>
 _chancery_: 2525 Massachusetts Avenue NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 612-6700; [1] (202) 612-6701<br>
+_telephone_: [1] (202) 612-6700<br>
 _FAX_: [1] (202) 612-6744<br>
 _email address and website_: <br>embassy.washingtondc@mfa.gov.tr<br><br>http://washington.emb.mfa.gov.tr/Mission<br>
 _consulate(s) general_: Boston, Chicago, Houston, Los Angeles, Miami, New York<br>
@@ -576,6 +576,14 @@ _tide and wave_: 0.4% of total installed capacity (2020 est.)<br>
 _geothermal_: 3.4% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 1.5% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 0<br>
+_Number of nuclear reactors under construction_: 4 (2023)<br>
+_Net capacity of operational nuclear reactors_: 0GW<br>
+_Percent of total electricity production_: 0%<br>
+_Percent of total energy produced_: 0%<br>
+_Number of nuclear reactors permanently shut down_: 0<br>
+
 **Coal**<br>
 _production_: 78.871 million metric tons (2020 est.)<br>
 _consumption_: 108.271 million metric tons (2020 est.)<br>
@@ -735,10 +743,10 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 <p><em>Turkey-Armenia</em>: in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered;  in early 2022, the two countries held talks twice aimed at normalizing relations, which could lead to the opening of their land border, shut since 1993; in 2000, Turkish authorities complained to UNESCO that blasting from quarries in Armenia was damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p> <p><em>Turkey-Azerbaijan</em>: none identified</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece; the Aegean Maritime Boundary is complicated by the close proximity of Greek islands to the western shores of the Turkish Anatolian peninsula, representing the primary source of conflict between the two countries</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 3,366,185 (Syria) (2023); 95,874 (Ukraine) (as of 26 January 2023)<br>
+_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 3,358,813 (Syria) (2023); 95,874 (Ukraine) (as of 26 January 2023)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2021)<br>
 _stateless persons_: 117 (2018)<br>
 
 **Illicit drugs**<br>
-<p>transit country for heroin, opium, and cocaine trafficked to European markets;  amphetamine-type stimulants (ATS) are trafficked to Middle East and Southeast Asia markets; one of the major transit routes for opiates smuggled from Afghanistan via Iran destined for Western Europe; smugglers involved in both heroin sales and transport and production and smuggling of synthetic drugs; criminal networks have interests in heroin conversion laboratories operating in Iran near the Turkish border;  hashish imported or grown domestically for local consumption</p><br>
+<p>a significant transit country for illicit drug trafficking; an increase of heroin and methamphetamine seizures along the Turkiye-Iran border; Syrian drug traffickers play a significant role in Turkiye’s drug trade; domestic Illegal drug use relatively low compared to countries in the region</p><br>
 

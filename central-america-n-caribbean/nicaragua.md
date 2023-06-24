@@ -349,8 +349,9 @@ BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Francisco Obadiah CAMPBELL Hooker (since 28 June 2010)<br>
 _chancery_: 1627 New Hampshire Avenue NW, Washington, DC 20009<br>
-_telephone_: [1] (202) 939-6570; [1] (202) 939-6573<br>
+_telephone_: [1] (202) 939-6570<br>
 _FAX_: [1] (202) 939-6545<br>
+_email address and website_: <br>mperalta@cancilleria.gob.ni<br>
 _consulate(s) general_: Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
@@ -679,7 +680,7 @@ the military's inventory includes mostly secondhand Russian/Soviet-era equipment
 18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months; requires Nicaraguan nationality and 6th-grade education (2022)<br>
 
 **Military - note**<br>
-the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA GARCIA, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas (2023)<br>
+the military is responsible for defending Nicaragua’s independence, sovereignty, and territory, but also has some domestic security responsibilities; key tasks include border security, assisting the police, protecting natural resources, and providing disaster relief and humanitarian assistance; it has ties with the militaries of Cuba, Venezuela, and Russia; Russia has provided training support and equipment <br><br>the military’s Land Forces have a mechanized brigade and approximately 8 regional commands or detachments, each with 1 or more light infantry battalions; there is also a small special operations command; the Naval Forces operate patrol boats and have a naval infantry battalion; the Air Forces do not possess any combat aircraft <br><br>the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA GARCIA, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas (2023)<br>
 
 ## Transnational Issues
 
@@ -691,5 +692,5 @@ _tier rating_: Tier 3 —<strong> </strong>Nicaragua does not fully meet the min
 _trafficking profile_: human traffickers exploit domestic and foreign victims in Nicaragua and Nicaraguans abroad; women, children, and migrants are most at risk; women and children are subject to sex trafficking within the country and its two Caribbean autonomous regions, as well as in other Central American countries, Mexico, Spain, and the United States; traffickers used social media to recruit victims with promises of higher-paying jobs in restaurants, hotels, domestic service, construction, and security outside of Nicaragua where they are subjected to sex or labor trafficking; traffickers force children to participate in illegal drug production and trafficking, while others are forced to work in artisanal mines and quarries; children and persons with disabilities are subjected to forced begging; Nicaragua is a destination for child sex tourists from the United States, Canada, and Western Europe (2022)<br>
 
 **Illicit drugs**<br>
-<p>a transit route for drug traffickers smuggling cocaine from South America through Mexico into the United States via maritime and air routes</p><br>
+<br> <p>transit route for illicit drugs originating from South America destined for the United States</p> <p> </p><br>
 

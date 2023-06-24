@@ -337,9 +337,9 @@ _residency requirement for naturalization_: 10 years for persons with no ties to
 
 **Executive branch**<br>
 _chief of state_: King FELIPE VI (since 19 June 2014); Heir Apparent Princess LEONOR, Princess of Asturias (daughter of the monarch, born 31 October 2005)<br>
-_head of government_: President of the Government (Prime Minister-equivalent) Pedro SANCHEZ PEREZ-CASTEJON (since 2 June 2018); Vice President (and Minister of the President's Office) Maria del Carmen CALVO POYATO (since 7 June 2018)<br>
+_head of government_: President of the Government (Prime Minister-equivalent) Pedro SANCHEZ PEREZ-CASTEJON (since 2 June 2018); Vice President Nadia Maria CALVINO Santamaria (since 12 July 2021)<br>
 _cabinet_: Council of Ministers designated by the president<br>
-_elections/appointments_: the monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the party or coalition with the largest number of seats, who is then indirectly elected by the Congress of Deputies; election last held on 10 November 2019 (next to be held November 2023); vice president and Council of Ministers appointed by the president<br>
+_elections/appointments_: the monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the party or coalition with the largest number of seats, who is then indirectly elected by the Congress of Deputies; election last held on 10 November 2019 (next to be held December 2023); vice president and Council of Ministers appointed by the president<br>
 _election results_: percent of National Assembly vote - NA<br>
 <strong>note:</strong> there is also a Council of State that is the supreme consultative organ of the government, but its recommendations are non-binding<br>
 
@@ -354,7 +354,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the mona
 _subordinate courts_: National High Court; High Courts of Justice (in each of the autonomous communities); provincial courts; courts of first instance<br>
 
 **Political parties and leaders**<br>
-Asturias Forum or FAC [Carmen MORIYON]<br>Basque Country Unite (Euskal Herria Bildu) or EH Bildu [Arnaldo OTEGI] (coalition of 4 Basque pro-independence parties)<br>Basque Nationalist Party or PNV or EAJ [Andoni ORTUZAR]<br>Canarian Coalition or CC [Fernando Clavijo BATLLE] (coalition of 5 parties)<br>Ciudadanos Party (Citizens Party) or Cs [Ines ARRIMADAS]<br>Compromis - Compromise Coalition [Enric MORERA i Català]<br>Together for Catalonia or JuntsxCat [Laura BORRAS]<br>People's Party or PP [Pablo CASADO]<br>Republican Left of Catalonia or ERC [Oriol JUNQUERAS]<br>Spanish Socialist Workers Party or PSOE [Pedro SANCHEZ]<br>Teruel Existe or TE [Tomas GUITARTE]<br>Unidas Podemos (United We Can) or UP [Ione BELARRA] (formerly Podemos IU; electoral coalition formed for May 2016 election)<br>Union of People of Navarra or UPN [Javier ESPARZA]<br>Vox or VOX [Santiago ABASCAL]<br>
+Asturias Forum or FAC [Carmen MORIYON]<br>Basque Country Unite (Euskal Herria Bildu) or EH Bildu [Arnaldo OTEGI] (coalition of 4 Basque pro-independence parties)<br>Basque Nationalist Party or PNV or EAJ [Andoni ORTUZAR]<br>Canarian Coalition or CC [Fernando Clavijo BATLLE] (coalition of 5 parties)<br>Ciudadanos Party (Citizens Party) or Cs [Adrian Vazquez LAZARA]<br>Compromis - Compromise Coalition [Enric MORERA i Català]<br>Together for Catalonia or JuntsxCat [Laura BORRAS]<br>People's Party or PP [Albert Nunez FEIJOO]<br>Republican Left of Catalonia or ERC [Oriol JUNQUERAS]<br>Spanish Socialist Workers Party or PSOE [Pedro SANCHEZ]<br>Teruel Existe or TE [Tomas GUITARTE]<br>Unidas Podemos (United We Can) or UP [Ione BELARRA] (formerly Podemos IU; electoral coalition formed for May 2016 election)<br>Union of People of Navarra or UPN [Javier ESPARZA]<br>Vox or VOX [Santiago ABASCAL]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BCIE, BIS, CAN (observer), CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNOCI, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -364,7 +364,7 @@ _chief of mission_: Ambassador Santiago CABANAS Ansorena (since 17 September 201
 _chancery_: 2375 Pennsylvania Avenue NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 452-0100<br>
 _FAX_: [1] (202) 833-5670<br>
-_email address and website_: <br>emb.washington@maec.es<br>http://www.exteriores.gob.es/embajadas/washington/en/pages/inicio2.aspx<br>
+_email address and website_: <br>emb.washington@maec.es<br><br>https://www.exteriores.gob.es/Embajadas/washington/en/Paginas/index.aspx<br>
 _consulate(s) general_: Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco, San Juan (Puerto Rico)<br>
 
 **Diplomatic representation from the US**<br>
@@ -566,6 +566,14 @@ _tide and wave_: 0% of total installed capacity (2020 est.)<br>
 _geothermal_: 0% of total installed capacity (2020 est.)<br>
 _biomass and waste_: 2.6% of total installed capacity (2020 est.)<br>
 
+**Nuclear energy**<br>
+_Number of operational nuclear reactors_: 7 (2023)<br>
+_Number of nuclear reactors under construction_: 0<br>
+_Net capacity of operational nuclear reactors_: 7.12GW (2023)<br>
+_Percent of total electricity production_: 21.38% (2016)<br>
+_Percent of total energy produced_: 33.2% (2021)<br>
+_Number of nuclear reactors permanently shut down_: 1<br>
+
 **Coal**<br>
 _production_: 546,000 metric tons (2020 est.)<br>
 _consumption_: 4.918 million metric tons (2020 est.)<br>
@@ -725,10 +733,10 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 177,228 (Ukraine) (as of 21 May 2023)<br>
+_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 178,580 (Ukraine) (as of 5 June 2023)<br>
 _stateless persons_: 6,489 (2022)<br>
-<strong>note: </strong>287,115 estimated refugee and migrant arrivals, including Canary Islands (January 2015-May 2023)<br>
+<strong>note: </strong>289,173 estimated refugee and migrant arrivals, including Canary Islands (January 2015-June 2023)<br>
 
 **Illicit drugs**<br>
-primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing indoor cannabis production; illegal labs cutting, mixing, and reconstituting cocaine, heroin, and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the US<br>
+<p>a primary European transit point for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection or altered to escape detection Spanish chemists reconstitute it and distribute to Europe; minor domestic drug production; synthetic drugs, including ketamine, new psychoactive substances (NPS), and MDMA transit from Spain to the United States</p><br>
 

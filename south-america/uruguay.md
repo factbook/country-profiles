@@ -370,7 +370,7 @@ _chief of mission_: Ambassador Andres Augusto DURAN HAREAU (since 23 December 20
 _chancery_: 1913 I Street NW, Washington, DC 20006<br>
 _telephone_: [1] (202) 331-1313<br>
 _FAX_: [1] (202) 331-8142<br>
-_email address and website_: <br>urueeuu@mrree.gub.uy<br>
+_email address and website_: <br>urueeuu@mrree.gub.uy<br><br>https://embassyofuruguay.us/<br>
 _consulate(s) general_: Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
@@ -709,7 +709,7 @@ the military's inventory includes a wide variety of older or second-hand equipme
 830 Democratic Republic of the Congo (MONUSCO); 210 Golan Heights (UNDOF) (May 2022)<br>
 
 **Military - note**<br>
-the military has some domestic responsibilities, including perimeter security for a number of prisons and border security; in 2020, the military deployed more than 1,000 troops to assist the National Police in securing the land border with Brazil and the riverine border with Argentina as part of a border control law passed in 2018 (2023)<br>
+the armed forces are responsible for defense of the country’s independence, national sovereignty, and territorial integrity, as well as protecting strategic resources; it has some domestic responsibilities, including perimeter security for a number of prisons and border security and providing humanitarian/disaster assistance; in 2020, the military deployed more than 1,000 troops to assist the National Police in securing the land border with Brazil and the riverine border with Argentina as part of a border control law passed in 2018; the military trains regularly, including in multinational exercises; it has traditionally held security ties with Argentina, Brazil, Peru, and the US<br><br>the Army has 4 regionally based divisions comprised of approximately 8 small brigades of infantry and mechanized cavalry; the Navy includes the Coast Guard, a naval aviation command, and a small naval infantry force; the Navy in recent years has undertaken a modest program to modernize its aging fleet, decommissioning several ships, including its only frigates, and acquiring secondhand patrol vessels from the US Coast Guard; it is also attempting to acquire larger and more modern offshore patrol vessels; the Air Force has a single squadron of light ground attack aircraft (2023)<br>
 
 ## Transnational Issues
 

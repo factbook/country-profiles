@@ -650,7 +650,7 @@ People's Revolutionary Armed Force (FARP): Army, Navy, Air Force; Ministry of In
 approximately 4,000 total active troops, including a few hundred air and naval personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FARP is poorly armed with an inventory consisting of Soviet-era equipment, much of which is reportedly unserviceable; over the past several years, it has received only a small amount of equipment from China and Spain (2022)<br>
+the FARP is armed mostly with Soviet-era equipment, much of which is reportedly unserviceable (2023)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for selective compulsory military service for men and women (Air Force service is voluntary); 16 years of age or younger, with parental consent, for voluntary service (2023)<br>

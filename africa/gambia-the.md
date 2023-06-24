@@ -366,11 +366,11 @@ Alliance for Patriotic Reorientation and Construction or APRC [Fabakary JATTA]<b
 ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Momodou Lamin BAH (12 December 2022)<br><br><br><br>
+_chief of mission_: Ambassador Momodou Lamin BAH (12 December 2022)<br><br>
 _chancery_: 5630 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 785-1399; [1] (202) 785-1428<br>
 _FAX_: [1] (202) 785-1430<br>
-_email address and website_: <br>info@gambiaembassy.us<br><br>https://www.gambiaembassydc.us/home<br>
+_email address and website_: <br>info@gambiaembassydc.us; <br>gambiaembassydc@gmail.com<br><br>https://www.gambiaembassydc.us/home<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Sharon L. CROMER (since 18 March 2022)<br>
@@ -678,7 +678,7 @@ Gambian Armed Forces (GAF): the Gambian National Army (GNA), Gambia Navy, Gambia
 information varies; approximately 3,000 active troops (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the GAF has a limited equipment inventory (2022)<br>
+the GAF has a limited and obsolescent equipment inventory originating from several suppliers, including China, the UK, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for male and female voluntary military service (18-22 for officers); no conscription; service obligation 6 months (2021)<br>

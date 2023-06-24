@@ -311,7 +311,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: the name Tirana first appears in a 1418 Venetian document; the origin of the name is unclear, but may derive from Tirkan Fortress, whose ruins survive on the slopes of Dajti mountain and which overlooks the city<br>
 
 **Administrative divisions**<br>
-12 counties (qarqe, singular - qark); Berat, Diber, Durres, Elbasan, Fier, Gjirokaster, Korce, Kukes, Lezhe, Shkoder, Tirane, Vlore<br>
+12 counties (qarqe, singular - qark); Berat, Diber, Durres, Elbasan, Fier, Gjirokaster, Korce, Kukes, Lezhe, Shkoder, Tirane (Tirana), Vlore<br>
 
 **Independence**<br>
 28 November 1912 (from the Ottoman Empire)<br>
@@ -709,8 +709,8 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 1,948 (2022)<br>
-<strong>note:</strong> 43,767 estimated refugee and migrant arrivals (January 2015-April 2023)<br>
+<strong>note:</strong> 44,396 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 
 **Illicit drugs**<br>
-<p>active transshipment point for violent Albanian narco-trafficking organizations moving illicit drugs such as cocaine from South America and heroin exiting Turkey and Asia throughout Europe; significant source country for cannabis production</p><br>
+<p>a source country for cannabis and an active transshipment point for Albanian narco-trafficking organizations moving illicit drugs into European markets</p><br>
 

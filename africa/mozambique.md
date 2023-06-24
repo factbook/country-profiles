@@ -373,7 +373,7 @@ _subordinate courts_: Administrative Court (capital city only); provincial court
 Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM [Lutero SIMANGO]<br>Liberation Front of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO [Filipe NYUSI]<br>Mozambican National Resistance (Resistencia Nacional Mocambicana) or RENAMO [Ossufo MOMADE]<br><br><strong>note:</strong> only parties with seats in the legislature listed<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF (observer), OPCW, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITC, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OCHA, OHCHR, OIC, OIF (observer), OPCW, SADC, UN, UNCDF, UNCTAD, UNDP, UNDSS, UNECA, UNEP,&nbsp; UNESCO, UNFPA, UNHCR, UNIDO, UNODC, UNOPS, UNV, Union Latina, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Alfredo Fabaio NUVUNGA (since 19 April 2023)<br>
@@ -732,5 +732,5 @@ _refugees (country of origin)_: 12,107 (Democratic Republic of Congo) (refugees 
 _IDPs_: 1.03 million (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>
-used by transnational organized crime networks from West and East Africa and South Asia as a transit point for drug trafficking and international money laundering; heroin from Southwest Asia, cocaine from South America, precursor chemicals and controlled pharmaceuticals from India, and methamphetamine from Nigeria transit destined for Southern Africa, Northern Africa, Europe, Canada, and the United States; cannabis is cultivated in Mozambique<br>
+<br><br> <p>a transit country for large shipments of heroin and methamphetamine originating from Afghanistan to primarily South Africa</p> <p> </p><br>
 

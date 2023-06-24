@@ -92,6 +92,9 @@ _major-language sample(s)_: <br>Verdens Faktabok, den essensielle kilden for gru
 **Religions**<br>
 Church of Norway (Evangelical Lutheran - official) 67.5%, Muslim 3.1%, Roman Catholic 3.1%, other Christian 3.8%, other 2.6%, unspecified 19.9% (2021 est.)<br>
 
+**Demographic profile**<br>
+<p>Norway is a trendsetter country in gender equality, especially in workforce participation.  Of particular value to families are the child and parental leave benefits.  This supplement is a monthly allowance paid to families from a month after birth until the child reaches 18 to defray some of the costs of raising children.  This is helpful to families with young children where the mother works limited hours.  The parental leave benefit is available to qualified mothers in a child’s first year, enabling parents to share at-home childcare for up to 49 weeks at full salary (or 59 weeks with 80% of their salary).  Afterward, parents can put their child in high-quality subsidized daycare or receive funding toward private child care or as compensation for one parent staying home to care for their child.</p> <p>Norway was originally a country of emigration with almost 850,000 Norwegians going abroad between 1825 and 1945.  At the turn of the 20th century, most Norwegians emigrated temporarily to work in the US.  Immigrants to Norway in the 1960s were mostly from neighboring Nordic countries, with whom they shared a common labor market.  By the end of the 1960s, with a strong economy and population shortage, Norway admitted guest workers from Pakistan, Morocco, then Yugoslavia, and Turkey.  The labor migrants were expected to be temporary, but many settled in Norway.  Eventually, Norway imposed immigration restrictions and the majority of migrants came in as refugees or for family reunification.  Beginning in the 1990s, Norway’s migration policy aimed at achieving integration – including language instruction and integration into the job market – as well as combatting racism and xenophobia.</p><br>
+
 **Age structure**<br>
 _0-14 years_: 17.83% (male 510,835/female 487,126)<br>
 _15-64 years_: 64% (male 1,842,794/female 1,739,688)<br>
@@ -330,7 +333,7 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: King HARALD V (since 17 January 1991); Heir Apparent Crown Prince HAAKON MAGNUS (son of the monarch, born 20 July 1973)<br>
-_head of government_: Prime Minister Jonas Gahr STORE (since 14 October 2021); note - Prime Minister Erna SOLBERG resigned on 12 October 2021<br>
+_head of government_: Prime Minister Jonas Gahr STORE (since 14 October 2021)<br>
 _cabinet_: Council of State appointed by the monarch, approved by Parliament<br>
 _elections/appointments_: the monarchy is hereditary; following parliamentary elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch with the approval of the parliament<br>
 
@@ -345,7 +348,7 @@ _judge selection and term of office_: justices appointed by the monarch (King in
 _subordinate courts_: Courts of Appeal or Lagmennsrett; regional and district courts; Conciliation Boards; ordinary and special courts; note - in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts<br>
 
 **Political parties and leaders**<br>
-<p>Center Party or Sp [Trygve Slagsvold VEDUM]<br>Christian Democratic Party or KrF [Olaug Vervik BOLLESTAD] <br>Conservative Party or H [Erna SOLBERG] <br>Green Party or MDG [Une Aina BASTHOLM]  <br>Labor Party or Ap [Jonas Gahr STORE] <br>Liberal Party or V [Guri MELBY]<br>Patient Focus or PF [Irene OJALA]<br>Progress Party or FrP [Sylvi LISTHAUG] <br>Red Party or R [Bjonar MOXNES]<br>Socialist Left Party or SV [Audun LYSBAKKEN]</p><br>
+<p>Center Party or Sp [Trygve Slagsvold VEDUM]<br>Christian Democratic Party or KrF [Olaug Vervik BOLLESTAD] <br>Conservative Party or H [Erna SOLBERG] <br>Green Party or MDG [Arild HERMSTAD]  <br>Labor Party or Ap [Jonas Gahr STORE] <br>Liberal Party or V [Guri MELBY]<br>Patient Focus or PF [Irene OJALA]<br>Progress Party or FrP [Sylvi LISTHAUG] <br>Red Party or R [Bjonar MOXNES]<br>Socialist Left Party or SV [Kristi BERGSTO]</p><br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -355,7 +358,7 @@ _chief of mission_: Ambassador Anniken Ramberg KRUTNES (since 17 September 2020)
 _chancery_: 2720 34th Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 333-6000<br>
 _FAX_: [1] (202) 469-3990<br>
-_email address and website_: <br>emb.washington@mfa.no<br>https://www.norway.no/en/usa/<br>
+_email address and website_: <br>emb.washington@mfa.no<br><br>https://www.norway.no/en/usa/<br>
 _consulate(s) general_: Houston, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
@@ -707,6 +710,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 47,850 (Ukraine) (as of 23 May 2023)<br>
+_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 47,890 (Ukraine) (as of 23 May 2023)<br>
 _stateless persons_: 3,901 (2022)<br>
 

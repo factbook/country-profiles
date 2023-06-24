@@ -91,7 +91,7 @@ _noun_: Congolese (singular and plural)<br>
 _adjective_: Congolese or Congo<br>
 
 **Ethnic groups**<br>
-Kongo 40.5%, Teke 16.9%, Mbochi 13.1%, foreigner 8.2%, Sangha 5.6%, Mbere/Mbeti/Kele 4.4%, Punu 4.3%, Pygmy 1.6%, Oubanguiens 1.6%, Duma 1.5%, Makaa 1.3%, other and unspecified 1% (2014-15 est.)<br>
+Kongo (Bakongo) 40.5%, Teke 16.9%, Mbochi 13.1%, foreigner 8.2%, Sangha 5.6%, Mbere/Mbeti/Kele 4.4%, Punu 4.3%, Pygmy 1.6%, Oubanguiens 1.6%, Duma 1.5%, Makaa 1.3%, other and unspecified 1% (2014-15 est.)<br>
 
 **Languages**<br>
 French (official), French Lingala and Monokutuba (lingua franca trade languages), many local languages and dialects (of which Kikongo is the most widespread)<br>
@@ -357,8 +357,8 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Denis SASSOU-Nguesso (since 25 October 1997)<br>
-_head of government_: Prime Minister Clement MOUAMBA (since 24 April 2016); note - a constitutional referendum held in 2015 approved the change of the head of government from the president to the prime minister<br>
+_chief of state_: President Denis SASSOU-Nguesso (since 1997)<br>
+_head of government_: Prime Minister Clement MOUAMBA (since 2016); note - a constitutional referendum held in 2015 approved the change of the head of government from the president to the prime minister (2019)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 additional terms); election last held on 21 March 2021 (next to be held on 21 March 2026)<br>
 _election results_: <p><em>2021: </em>Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 88.4%, Guy Price Parfait KOLELAS (MCDDI) 8.0%, other 3.6%</p> <p><em>2016: </em>Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 60.4%, Guy Price Parfait KOLELAS (MCDDI) 15.1%, Jean-Marie MOKOKO (independent) 13.9%, Pascal Tsaty MABIALA (UPADS) 4.4%, other 6.2% </p><br>
@@ -727,6 +727,6 @@ the FAC is viewed as having limited capabilities due to obsolescent and poorly m
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 27,445 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022); 30,204 (Central African Republic) (2023)<br>
+_refugees (country of origin)_: 30,204 (Central African Republic), 27,445 (Democratic Republic of the Congo) (refugees and asylum seekers)(2023)<br>
 _IDPs_: 159,830 (multiple civil wars since 1992) (2022)<br>
 

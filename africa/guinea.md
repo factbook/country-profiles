@@ -689,7 +689,7 @@ National Armed Forces: Army, Guinean Navy (Armee de Mer or Marine Guineenne), Gu
 approximately 12,000 active personnel (9,000 Army; 400 Navy; 800 Air Force; 300 BASP; 1,500 Gendarmerie) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Guinean military consists largely of aging and outdated (mostly Soviet-era) equipment; in recent years, it has received small amounts of equipment from China, France, Russia, and South Africa (2022)<br>
+the inventory of the Guinean military consists largely of aging and outdated (mostly Soviet-era) equipment; in recent years, it has received small amounts of equipment from China, France, and South Africa (2023)<br>
 
 **Military service age and obligation**<br>
 Voluntary and selective conscripted service, 9-24 mos (2022)<br>

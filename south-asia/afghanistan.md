@@ -372,7 +372,7 @@ the Taliban Government enforces an authoritarian state and has banned other poli
 member of the following organizations but cannot participate because the international community does not recognize the Taliban Government:&nbsp; ADB, CICA, CP, ECO, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (dialogue member), UN, UNAMA, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: the Afghan Embassy closed in March 2022<br>
+_chief of mission_: none; note - the Afghan Embassy closed in March 2022<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: the United States does not maintain a presence in Afghanistan and bases the Department of State's Afghanistan Affairs Unit in Doha, Qatar; note - the US Embassy in Kabul closed in August 2021<br>
@@ -716,5 +716,5 @@ _trafficking profile_: human traffickers exploit domestic and foreign victims in
 <strong>note: </strong>The United States has not recognized the Taliban or another entity as the government of Afghanistan. On August 15, 2021, the Taliban culminated its takeover of Kabul, and on September 7, 2021, the Taliban announced a so-called interim government. As of December 2021, the Taliban had not outlined steps or a timeline to establish a new permanent government. All references to “the pre-August 15 government” refer to the Islamic Republic of Afghanistan. References to the Taliban reflect events both prior to and after August 15.<br>
 
 **Illicit drugs**<br>
-<p>the world’s largest producer of illicit opiates, but it is not a major supplier to the United States; 215,000 hectares (ha) of opium poppy cultivated in Afghanistan in 2020; also produces methamphetamine and cannabis products; one of the highest domestic substance abuse rates in the world</p> (2022)<br>
+<p>the world’s largest supplier of opiates, but it is not a major supplier to the United States; 233,000 hectares (ha) of opium poppy cultivated in Afghanistan in 2022; opium from poppies used to produce morphine and heroin; also produces large quantities of methamphetamine, cannabis, and cannabis products such as hashish; one of the world’s largest populations suffering from substance abuse; major source of precursor or essential chemicals used in the production of illicit narcotics:</p> <p><br><br><br><br><br></p> (2022)<br>
 

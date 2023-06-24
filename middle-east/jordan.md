@@ -702,7 +702,7 @@ Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations 
 approximately 94,500 active duty armed forces personnel (80,000 Army; 14,000 Air Force; 500 Coast Guard); approximately 15,000 Gendarmerie Forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the JAF inventory is comprised of a wide mix of imported equipment from Europe, some Gulf States, Russia, and the US; in recent years, the Netherlands and the US have been the leading suppliers (2022)<br>
+the JAF inventory is comprised of a wide mix of imported equipment from Europe, some Gulf States, Russia, and the US; in recent years, the Netherlands and the US have been the leading suppliers (2023)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service for men (women can volunteer to serve in noncombat military positions in the Royal Jordanian Arab Army Women's Corps and RJAF); initial service term is 24 months, with option to reenlist for up to 18 years; conscription was abolished in 1991, but in 2020 Jordan announced the reinstatement of compulsory military service for jobless men aged between 25 and 29 with 12 months of service, made up of 3 months of military training and 9 months of professional and technical training; in 2019, Jordan announced a voluntary 4-month National Military Service program for men and women aged between 18-25 years who have been unemployed for at least 6 months; service would include 1 month for military training with the remaining 3 months dedicated to vocational training in the sectors of construction and tourism (2023)<br>
@@ -726,7 +726,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Jordan-Iraq</em>: the two countries signed a border agreement in 1984; Jordan has ratified the treaty, but it has not been confirmed that Iraq has ratified it; as of 2010, the agreement had not been registered with the UN</p> <p><em>Jordan-Israel</em>: none identified</p> <p><em>Jordan-Saudi Arabia</em>: Jordan and Saudi Arabia signed an agreement to demarcate their maritime borders in 2007</p> <p><em>Jordan-Syria</em>: the two countries signed an agreement in 2005 to settle the border dispute based on a 1931 demarcation accord; the two countries began demarcation in 2006</p> <p><em>Jordan-West Bank</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 12,866 (Yemen), 6,013 Sudan (2021); 33,951 (Iraq) (mid-year 2022); 660,605 (Syria) (2023)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 12,866 (Yemen), 6,013 Sudan (2021); 33,951 (Iraq) (mid-year 2022); 660,022 (Syria) (2023)<br>
 _stateless persons_: 64 (2022)<br>
 
 **Illicit drugs**<br>

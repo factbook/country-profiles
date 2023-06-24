@@ -363,7 +363,7 @@ ADB, CICA, CIS, CSTO, EAEC, EAPC, EBRD, ECO, EITI (candidate country), FAO, G-77
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Farrukh HAMRALIZODA (since 17 February 2021)<br>
 _chancery_: 1005 New Hampshire Avenue NW, Washington, DC 20037<br>
-_telephone_: [1] (202) 223-6090; [1] (202) 223-2666<br>
+_telephone_: [1] (202) 223-6090<br>
 _FAX_: [1] (202) 223-6091<br>
 _email address and website_: <br>tajemus@mfa.tj; tajikistan@verizon.net<br><br>https://mfa.tj/en/washington<br>
 
@@ -702,5 +702,5 @@ _refugees (country of origin)_: 6,775 (Afghanistan) (mid-year 2021)<br>
 _stateless persons_: 4,898 (2022)<br>
 
 **Illicit drugs**<br>
-Tajikistan is a major route for drug trafficking in Central Asia; opiates and cannabis travel from Afghanistan through Tajikistan to markets in Russia, Belarus, and Western and Central Europe<br>
+<p>Tajikistan is a primary transit country along the “Northern Route” for Afghanistan-sourced opiates and cannabis for the Russian and Eastern European markets and beyond; minimal domestic recreational drug use though it is increasing</p><br>
 

@@ -604,7 +604,7 @@ _total subscriptions_: 2,161,725 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 115 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom market continues to benefit from investment and from regulatory measures aimed at developing 5G and fiber based infrastructure; there is effective competition in the mobile market, with extensive services based on LTE-A technologies to boost data speeds; a large scale 5G deployment is not expected until 2023; in the fixed-line broadband sector, the country is ranked second highest in Europe (after Iceland) for fiber coverage and take-up, closely followed by Lithuania; with this infrastructure in place, the country has also developed a sophisticated digital economy, with e-commerce and e-government services widely available (2021)<br>
+_general assessment_: the telecom market continues to benefit from investment and from regulatory measures aimed at developing 5G and fiber-based infrastructure; there is effective competition in the mobile market; these multi-service operators have focused investment on fiber networks and on expanding the reach of 5G (2023)<br>
 _domestic_: fixed-line roughly 10 per 100 and mobile-cellular nearly 115 per 100 subscriptions (2021)<br>
 _international_: country code - 371; the Latvian network is now connected via fiber-optic cable to Estonia, Finland, and Sweden<br>
 
