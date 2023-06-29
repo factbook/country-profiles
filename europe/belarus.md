@@ -362,7 +362,7 @@ _subordinate courts_: oblast courts; Minsk City Court; town courts; Minsk city a
 BSEC (observer), CBSS (observer), CEI, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFC, IFRCS, ILO, IMF, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OPCW, OSCE, PCA, PFP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer), ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant; recalled by Belarus in 2008); Charg&eacute; d'Affaires Pavel SHYDLOWSKI (since 9 August 2022)<br>
+_chief of mission_: Ambassador (vacant; recalled by Belarus in 2008); Charg&eacute; d'Affaires Pavel SHIDLOWSKI (since 9 August 2022)<br>
 _chancery_: 1619 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 986-1606<br>
 _FAX_: [1] (202) 986-1805<br>

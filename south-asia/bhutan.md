@@ -329,7 +329,7 @@ ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IMF, Interpol, IOC, IOM
 _chief of mission_: Ambassador (vacant); Chargé d'Affaires Phuntsho NORBU (since October 2022) <br>note - also the Deputy Permanent Representative to the UN<br>
 _telephone_: [1] (212) 682-2268<br>
 _FAX_: [1] (212) 661-0551<br>
-_email address and website_: email - consulate.pmbny@mfa.gov.bt<br>web address - https://www.mfa.gov.bt/pmbny/<br>
+_email address and website_: <br>consulate.pmbny@mfa.gov.bt<br><br>https://www.mfa.gov.bt/pmbny/<br>
 _consulate(s) general_: New York<br>
 _embassy_: 343 East 43rd Street, New York, NY 10017<br>
 note - the Permanent Mission to the UN for Bhutan has consular jurisdiction in the US<br>

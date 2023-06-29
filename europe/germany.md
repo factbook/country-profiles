@@ -518,10 +518,10 @@ $1.676 trillion (2020 est.) note: data are in current year dollars<br>
 $1.816 trillion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-United States 9%, China 8%, France 8%, Netherlands 6%, United Kingdom 6%&nbsp; (2020)<br>
+United States 9%, China 8%, France 8%, Netherlands 6%, Italy 6% (2021)<br>
 
 **Exports - commodities**<br>
-cars and vehicle parts, packaged medicines, medical cultures/vaccines, aircraft, industrial machinery, medical instruments (2021)<br>
+cars and vehicle parts, packaged medicines, medical cultures and vaccines, aircraft, industrial machinery, medical instruments (2021)<br>
 
 **Imports**<br>
 $1.775 trillion (2021 est.) note: data are in current year dollars<br>
@@ -529,10 +529,10 @@ $1.454 trillion (2020 est.) note: data are in current year dollars<br>
 $1.595 trillion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 10%, Netherlands 10%, Poland 7%, France 6%, Italy 6%&nbsp; (2020)<br>
+China 10%, Netherlands 10%, Poland 7%, Italy 6%, France 6% (2021)<br>
 
 **Imports - commodities**<br>
-cars and vehicle parts, packaged medicines, broadcasting equipment, medical cultures/vaccines, computers (2020)<br>
+cars and vehicle parts, medical cultures/vaccines, packaged medicines, crude petroleum, natural gas, computers (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $295.736 billion (31 December 2021 est.)<br>

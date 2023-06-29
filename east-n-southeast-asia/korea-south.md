@@ -499,7 +499,7 @@ $607.505 billion (2020 est.) note: data are in current year dollars<br>
 $660.507 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-China 24%, United States 15%, Vietnam 9%, Hong Kong 6%, Japan 5% (2021)<br>
+China 24%, US 15%, Vietnam 9%, Hong Kong 6%, Japan 5% (2021)<br>
 
 **Exports - commodities**<br>
 integrated circuits, cars and vehicle parts, refined petroleum, office machinery, ships, telephones (2021)<br>
@@ -510,7 +510,7 @@ $541.57 billion (2020 est.) note: data are in current year dollars<br>
 $607.54 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 24%, United States 12%, Japan 9%, Vietnam 4%, Taiwan 4% (2021)<br>
+China 24%, US 12%, Japan 9%, Vietnam 4%, Taiwan 4% (2021)<br>
 
 **Imports - commodities**<br>
 crude oil, integrated circuits, natural gas, refined petroleum, photo lab equipment, cars, iron (2021)<br>

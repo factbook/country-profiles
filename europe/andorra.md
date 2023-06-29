@@ -323,7 +323,7 @@ _chief of mission_: Ambassador Elisenda VIVES BALMANA (since 2 March 2016)<br>
 _chancery_: 2 United Nations Plaza, 27th Floor, New York, NY 10017<br>
 _telephone_: [1] (212) 750-8064<br>
 _FAX_: [1] (212) 750-6630<br>
-_email address and website_: <br>contact@andorraun.org<br>
+_email address and website_: <br>contact@andorraun.org<br><br>https://www.exteriors.ad/en/embassies-of-andorra/andorra-usa-embassy<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Andorra; the US ambassador to Spain is accredited to Andorra; US interests in Andorra are represented by the US Consulate General's office in Barcelona (Spain); mailing address: Paseo Reina Elisenda de Montcada, 23, 08034 Barcelona, Espana; telephone: [34] (93) 280-22-27; FAX: [34] (93) 280-61-75; email address: Barcelonaacs@state.gov<br>

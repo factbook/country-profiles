@@ -505,7 +505,7 @@ $50.544 billion (2020 est.) note: data are in current year dollars<br>
 $57.875 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-China 28%, Australia 14%, United States 9%, Japan 6% (2019)<br>
+China 28%, Australia 14%, US 9%, Japan 6% (2019)<br>
 
 **Exports - commodities**<br>
 milk cream powders, lumber, beef, butter, mutton (2021)<br>
@@ -516,7 +516,7 @@ $48.104 billion (2020 est.) note: data are in current year dollars<br>
 $57.682 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 18%, Australia 15%, United States 9%, Japan 6%, Germany 5% (2019)<br>
+China 18%, Australia 15%, US 9%, Japan 6%, Germany 5% (2019)<br>
 
 **Imports - commodities**<br>
 cars, crude petroleum, refined petroleum, delivery trucks, gas turbines (2019)<br>

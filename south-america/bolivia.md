@@ -126,7 +126,7 @@ _female_: 26 years (2020 est.)<br>
 18.08 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.54 deaths/1,000 population (2023 est.)<br>
+4.33 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
 -0.96 migrant(s)/1,000 population (2023 est.)<br>

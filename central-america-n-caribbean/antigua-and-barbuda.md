@@ -323,7 +323,7 @@ ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, ICR
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sir Ronald SANDERS (since 17 September 2015)<br>
-_chancery_: 3234 Prospect Street NW, Washington, DC 20007<br>
+_chancery_: 3216 New Mexico Ave. NW, Washington, DC 20016<br>
 _telephone_: [1] (202) 362-5122<br>
 _FAX_: [1] (202) 362-5225<br>
 _email address and website_: <br>embantbar@aol.com<br>

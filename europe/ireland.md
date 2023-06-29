@@ -702,7 +702,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 84,625 (Ukraine) (as of 4 June 2023)<br>
+_refugees (country of origin)_: 85,790 (Ukraine) (as of 18 June 2023)<br>
 _stateless persons_: 7 (2022)<br>
 
 **Illicit drugs**<br>

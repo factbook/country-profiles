@@ -325,15 +325,15 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Ekaterini SAKELLAROPOULOU (since 13 March 2020)<br>
-_head of government_: Caretaker Prime Minister Ioannis SARMAS (since 25 May 2023)<br>
+_head of government_: Prime Minister Kyriakos MITSOTAKIS (since 26 June 2023)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president elected by Hellenic Parliament for a 5-year term (eligible for a second term); election last held on&nbsp;22 January 2020&nbsp;(next to be held by February 2025); president appoints as prime minister the leader of the majority party or coalition in the Hellenic Parliament<br>
 _election results_: <em>2020:</em> Katerina SAKELLAROPOULOU (independent) elected president by Parliament - 261 of 300 votes; note - SAKELLAROPOULOU is Greece's first woman president<br><br><em>2015:</em> Prokopis PAVLOPOULOS (ND) elected president by Parliament - 233 of 300 votes<br>
 
 **Legislative branch**<br>
 _description_: unicameral Hellenic Parliament or Vouli ton Ellinon (300 seats; 280 members in multi-seat and single-seat constituencies and 15 members - including 3 seats for Greek diaspora - in a single nationwide constituency directly elected by open party-list proportional representation vote; members serve up to 4 years); &nbsp;note - only parties surpassing a 3% threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold<br>
-_elections_: last held on 21 May 2023 (next to be held on 25 June 2023 because a government could not be formed)<br>
-_election results_: percent of vote by party - ND 39.9%, SYRIZA 31.5%, KINAL 8.1%, KKE 5.3%, Greek Solution 3.7%, MeRA25 3.4%, other 8.1%; seats by party - ND 158, SYRIZA 86, KINAL 22, KKE 15, Greek Solution 10, MeRA25 9; composition - men 244, women 56, percent of women 18.7%<br>
+_elections_: last held on 25 June 2023 (next to be held in 2027)<br>
+_election results_: percent of vote by party - ND 40.6%, SYRIZA-PS 17.8%, PASOK-KINAL 11.9%, KKE 7.7%, Spartans 4.6%, Greek Solution 4.4%, NIKI 3.7%, Course of Freedom 3.2%, other 6.1%; seats by party - ND 158, SYRIZA-PS 48, PASOK-KINAL 32, KKE 20, Spartans 12, Greek Solution 12, NIKI 10, Course of Freedom 8; composition - men NA, women NA, percent of women NA%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Civil and Criminal Court or Areios Pagos (consists of 56 judges, including the court presidents); Council of State (supreme administrative court) (consists of the president, 7 vice presidents, 42 privy councilors, 48 associate councilors and 50 reporting judges, organized into six 5- and 7-member chambers; Court of Audit (government audit and enforcement) consists of the president, 5 vice presidents, 20 councilors, and 90 associate and reporting judges<br>
@@ -341,7 +341,7 @@ _judge selection and term of office_: Supreme Court judges appointed by presiden
 _subordinate courts_: Courts of Appeal and Courts of First Instance (district courts)<br>
 
 **Political parties and leaders**<br>
-Anticapitalist Left Cooperation for the Overthrow or ANTARSYA [collective leadership]<br>Coalition of the Radical Left-Progressive Alliance or SYRIZA-PS [Alexios (Alexis) TSIPRAS]<br>Communist Party of Greece or KKE [Dimitrios KOUTSOUMBAS]<br>Democratic Left or DIMAR [Athanasios (Thanasis) THEOCHAROPOULOS]<br>European Realistic Disobedience Front or MeRA25 [Ioannis (Yanis) VAROUFAKIS]<br>Greek Solution [Kyriakos VELOPOULOS]<br>Independent Greeks or ANEL [Panagiotis (Panos) KAMMENOS]<br>National Party-Greeks [Anastasios (Tasos) KANELLOPOULOS]<br>New Democracy or ND [Kyriakos MITSOTAKIS]<br>PASOK - Movement for Change or PASOK-KINAL [Nikolaos (Nikos) ANDROULAKIS]<br>Popular Unity or LAE [Nikolaos CHOUNTIS]<br>Union of Centrists or EK [Vasileios (Vasilis) LEVENTIS]<br>
+Coalition of the Radical Left-Progressive Alliance or SYRIZA-PS [Alexios (Alexis) TSIPRAS]<br>Communist Party of Greece or KKE [Dimitrios KOUTSOUMBAS]<br>Course of Freedom [Zoe KONSTANTOPOULOU]<br>Democratic Patriotic Movement-Victory or NIKI [Dimitris NATSIOS]<br>Greek Solution [Kyriakos VELOPOULOS]<br>New Democracy or ND [Kyriakos MITSOTAKIS]<br>PASOK - Movement for Change or PASOK-KINAL [Nikolaos (Nikos) ANDROULAKIS]<br>Spartans [Vassilis STIGAS]<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -713,7 +713,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 24,985 (Ukraine) (as of 30 April 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,239,492 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
+<strong>note:</strong> 1,239,662 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

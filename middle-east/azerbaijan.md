@@ -363,7 +363,7 @@ _chief of mission_: Ambassador Kahzar IBRAHIM (since 15 September 2021)<br>
 _chancery_: 2741 34th Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 337-3500<br>
 _FAX_: [1] (202) 337-5911<br>
-_email address and website_: <br>azerbaijan@azembassy.us; consul@azembassy.us<br><br>https://washington.mfa.gov.az/en<br>
+_email address and website_: <br>azerbaijan@azembassy.us<br><br>https://washington.mfa.gov.az/en<br>
 _consulate(s) general_: Los Angeles<br>
 
 **Diplomatic representation from the US**<br>

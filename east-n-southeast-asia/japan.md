@@ -433,7 +433,7 @@ _exports of goods and services_: 17.7% (2017 est.)<br>
 _imports of goods and services_: -16.8% (2017 est.)<br>
 
 **Agricultural products**<br>
-rice, milk, sugar beet, vegetables, eggs, poultry, potatoes, cabbages, onions, pork<br>
+rice, milk, sugar beets, vegetables, eggs, poultry, potatoes, cabbages, onions, pork<br>
 
 **Industries**<br>
 among world's largest and most technologically advanced producers of motor vehicles, electronic equipment, machine tools, steel and nonferrous metals, ships, chemicals, textiles, processed foods<br>
@@ -502,7 +502,7 @@ $794.291 billion (2020 est.) note: data are in current year dollars<br>
 $904.632 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-China 21%, United States 18%, South Korea 7%, Taiwan 7%, Thailand 4% (2021)<br>
+China 21%, US 18%, South Korea 7%, Taiwan 7%, Thailand 4% (2021)<br>
 
 **Exports - commodities**<br>
 cars and vehicle parts, integrated circuits, general machinery, photo lab equipment, construction vehicles, semiconductors&nbsp; (2021)<br>
@@ -513,7 +513,7 @@ $801.889 billion (2020 est.) note: data are in current year dollars<br>
 $913.248 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 24%, United States 10%, Australia 7%, South Korea 4%, Taiwan 4% (2021)<br>
+China 24%, US 10%, Australia 7%, South Korea 4%, Taiwan 4% (2021)<br>
 
 **Imports - commodities**<br>
 crude petroleum, natural gas, integrated circuits, coal, refined petroleum, iron (2021)<br>

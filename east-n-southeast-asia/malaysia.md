@@ -504,7 +504,7 @@ $208.217 billion (2020 est.) note: data are in current year dollars<br>
 $238.361 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-Singapore 13%, China 13%, United States 11%, Hong Kong 6%, Japan 6%, Thailand 5% (2019)<br>
+Singapore 13%, China 13%, US 11%, Hong Kong 6%, Japan 6%, Thailand 5% (2019)<br>
 
 **Exports - commodities**<br>
 integrated circuits, refined petroleum, palm oil, rubber apparel, natural gas, semiconductors (2021)<br>
@@ -515,7 +515,7 @@ $186.613 billion (2020 est.) note: data are in current year dollars<br>
 $210.86 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 24%, Singapore 14%, Japan 6%, United States 6%, Taiwan 5%, Thailand 5% (2019)<br>
+China 24%, Singapore 14%, Japan 6%, US 6%, Taiwan 5%, Thailand 5% (2019)<br>
 
 **Imports - commodities**<br>
 integrated circuits, refined petroleum, crude petroleum, broadcasting equipment, coal (2019)<br>

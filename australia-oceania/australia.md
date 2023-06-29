@@ -381,7 +381,7 @@ _chief of mission_: Ambassador Kevin Michael RUDD (since 19 April 2023)<br>
 _chancery_: temporary location: 1145 17th St NW, Washington DC, 20036-4707<br><br>note - new chancery building under construction at 1601 Massachusetts Avenue NW, Washington, DC 20036; formal opening scheduled for late 2023<br>
 _telephone_: [1] (202) 797-3000<br>
 _FAX_: [1] (202) 797-3168<br>
-_email address and website_: <br>https://usa.embassy.gov.au/<br>
+_email address and website_: <br>info.us@dfat.gov.au<br><br>https://usa.embassy.gov.au/<br>
 _consulate(s) general_: Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>

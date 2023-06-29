@@ -348,11 +348,11 @@ _subordinate courts_: Civil High Courts of Appeal; middle and lower civil courts
 ABEDA, AFESD, AMF, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Abdulla bin Rashid AL KHALIFA (since 21 July 2017)<br>
+_chief of mission_: Ambassador Abdulla bin Rashed AL KHALIFA (since 21 July 2017)<br>
 _chancery_: 3502 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 342-1111<br>
 _FAX_: [1] (202) 362-2192<br>
-_email address and website_: <br>ambsecretary@bahrainembassy.org<br><br>mofa.gov.bh<br>
+_email address and website_: <br>ambsecretary@bahrainembassy.org<br><br>https://www.mofa.gov.bh/Default.aspx?language=en-US&amp;tabid=7702<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>

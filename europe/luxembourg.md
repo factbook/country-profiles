@@ -691,6 +691,6 @@ Luxembourg is a member of NATO and was one of the original 12 countries to sign 
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,805 (Ukraine) (as of 1 June 2023)<br>
+_refugees (country of origin)_: 5,890 (Ukraine) (as of 13 June 2023)<br>
 _stateless persons_: 174 (2022)<br>
 

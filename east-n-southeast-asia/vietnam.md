@@ -514,10 +514,10 @@ $290.229 billion (2020 est.) note: data are in current year dollars<br>
 $280.826 billion (2019 est.)<br>
 
 **Exports - partners**<br>
-United States 23%, China 14%, Japan 8%, South Korea 7% (2019)<br>
+US 28%, China 17%, South Korea 6%, Japan 6%, Hong Kong 4% (2021)<br>
 
 **Exports - commodities**<br>
-broadcasting equipment, telephones, integrated circuits, footwear, furniture (2019)<br>
+broadcasting equipment, telephones, integrated circuits, office machinery, footwear, furniture (2021)<br>
 
 **Imports**<br>
 $338.021 billion (2021 est.) note: data are in current year dollars<br>
@@ -525,10 +525,10 @@ $269.808 billion (2020 est.) note: data are in current year dollars<br>
 $261.683 billion (2019 est.)<br>
 
 **Imports - partners**<br>
-China 35%, South Korea 18%, Japan 6% (2019)<br>
+China 39%, South Korea 17%, Japan 5%, Taiwan 4%, Thailand 4% (2021)<br>
 
 **Imports - commodities**<br>
-integrated circuits, telephones, refined petroleum, textiles, semiconductors (2019)<br>
+integrated circuits, telephones, clothing and apparel, broadcasting accessories, refined petroleum, iron sheeting (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $109.371 billion (31 December 2021 est.)<br>

@@ -530,10 +530,10 @@ $2.159 trillion (2020 est.) note: data are in current year dollars<br>
 $2.546 trillion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-Canada 17%, Mexico 16%, China 7%, Japan 5% (2019)<br>
+Canada 16%, Mexico 15%, China 9%, Japan 4%, South Korea 4% (2021)<br>
 
 **Exports - commodities**<br>
-refined petroleum, crude petroleum, cars and vehicle parts, integrated circuits, aircraft (2019)<br>
+refined petroleum, natural gas, crude petroleum, cars and vehicle parts, integrated circuits, aircraft, vaccines and cultures (2021)<br>
 
 **Imports**<br>
 $3.402 trillion (2021 est.) note: data are in current year dollars<br>
@@ -541,10 +541,10 @@ $2.813 trillion (2020 est.) note: data are in current year dollars<br>
 $3.106 trillion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 18%, Mexico 15%, Canada 13%, Japan 6%, Germany 5% (2019)<br>
+China 19%, Mexico 13%, Canada 13%, Germany 5%, Japan 5% (2021)<br>
 
 **Imports - commodities**<br>
-cars, crude petroleum, computers, broadcasting equipment, packaged medicines (2019)<br>
+cars, crude petroleum, computers, broadcasting equipment, packaged medicines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $716.152 billion (31 December 2021 est.)<br>
