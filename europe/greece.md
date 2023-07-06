@@ -341,7 +341,7 @@ _judge selection and term of office_: Supreme Court judges appointed by presiden
 _subordinate courts_: Courts of Appeal and Courts of First Instance (district courts)<br>
 
 **Political parties and leaders**<br>
-Coalition of the Radical Left-Progressive Alliance or SYRIZA-PS [Alexios (Alexis) TSIPRAS]<br>Communist Party of Greece or KKE [Dimitrios KOUTSOUMBAS]<br>Course of Freedom [Zoe KONSTANTOPOULOU]<br>Democratic Patriotic Movement-Victory or NIKI [Dimitris NATSIOS]<br>Greek Solution [Kyriakos VELOPOULOS]<br>New Democracy or ND [Kyriakos MITSOTAKIS]<br>PASOK - Movement for Change or PASOK-KINAL [Nikolaos (Nikos) ANDROULAKIS]<br>Spartans [Vassilis STIGAS]<br>
+Coalition of the Radical Left-Progressive Alliance or SYRIZA-PS (vacant)<br>Communist Party of Greece or KKE [Dimitrios KOUTSOUMBAS]<br>Course of Freedom [Zoe KONSTANTOPOULOU]<br>Democratic Patriotic Movement-Victory or NIKI [Dimitris NATSIOS]<br>Greek Solution [Kyriakos VELOPOULOS]<br>New Democracy or ND [Kyriakos MITSOTAKIS]<br>PASOK - Movement for Change or PASOK-KINAL [Nikolaos (Nikos) ANDROULAKIS]<br>Spartans [Vassilis STIGAS]<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -604,7 +604,7 @@ _total subscriptions_: 11,494,008 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 110 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Greece&rsquo;s telecom market is susceptible to the country&rsquo;s volatile economy, and as a result revenue among the key networks has been variable; broadband subscriptions in Greece are developing steadily despite the difficult economic conditions; the main networks are concentrating investment on fiber-based next generation networks, enabling them to reach the European broadband targets for 2025; their work is also supported by government ultra-fast broadband projects, largely funded by the EC and aimed at delivering a service of at least 100Mb/s to under served areas; Greece&rsquo;s well-developed mobile market is dominated by the three MNOs; Networks continue to invest in LTE infrastructure and technologies to provide networks capable of meeting customer demand for data services; after extensive trials of 5G, the MNOs were able to launch commercial services in early 2021 following the December 2020 allocation of frequencies in a range of bands; the rapid rollout of 5G encouraged the shut down of the 3G network (a process expected to be completed by the end of 2021) and reallocate for LTE and 5G. (2022)<br>
+_general assessment_: Greece&rsquo;s telecom market is susceptible to the country&rsquo;s volatile economy, and, as a result, revenue among the key networks has been variable; broadband subscriptions in Greece are developing steadily; the main networks are concentrating investment on fiber-based next generation networks, enabling them to reach the European broadband targets for 2025; their work is also supported by government ultra-fast broadband projects, largely funded by the EC and aimed at delivering a service of at least 100Mb/s to under served areas; Greece&rsquo;s well-developed mobile market is dominated by the three MNOs; Networks continue to invest in LTE infrastructure and technologies to provide networks capable of meeting customer demand for data services; after extensive trials of 5G, the MNOs were able to launch commercial services in early 2021 following the December 2020 allocation of frequencies in a range of bands; the rapid rollout of 5G encouraged the shut down of the 3G network (a process expected to be completed by the end of 2021) and reallocate for LTE and 5G. (2023)<br>
 _domestic_: 47 per 100 subscribers for fixed-line and 110 per 100 for mobile-cellular (2021)<br>
 _international_: country code - 30; landing points for the SEA-ME-WE-3, Adria-1, Italy-Greece 1, OTEGLOBE, MedNautilus Submarine System, Aphrodite 2, AAE-1&nbsp;and Silphium optical telecommunications submarine cable that provides links to Europe, the Middle East, Africa, Southeast Asia, Asia and Australia;&nbsp; tropospheric scatter; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Eutelsat, and 1 Inmarsat - Indian Ocean region) (2019)<br>
 
@@ -672,8 +672,8 @@ _LNG terminal(s) (import)_: Revithoussa<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National Guard), Hellenic Navy (Elliniko Polemiko Navtiko, EPN), Hellenic Air Force (Elliniki Polemiki Aeroporia, EPA; includes air defense); Ministry of Shipping Affairs and Island Policy: Coast Guard (2023)<br>
-<strong>note 1:</strong> the police (under the Ministry of Citizen Protection) and the armed forces (Ministry of National Defense) share law enforcement duties in certain border areas; border protection is coordinated by a deputy minister for national defense<br><br>note 2: the National Guard was established in 1982 as an official part of the Army to help protect Greece and provide reinforcements and support to the Army in peacetime and in times of mobilization and war; members undergo weekly training run by the Army, which also provides weapons and ammunition<br>
+Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National Guard), Hellenic Navy (Elliniko Polemiko Navtiko, EPN), Hellenic Air Force (Elliniki Polemiki Aeroporia, EPA; includes air defense) (2023)<br>
+<strong>note 1:</strong> the police (under the Ministry of Citizen Protection) and the armed forces (Ministry of National Defense) share law enforcement duties in certain border areas; border protection is coordinated by a deputy minister for national defense; the Greek Coast Guard is under the Ministry of Shipping Affairs and Island Policy<br><br><strong>note 2:</strong> the National Guard was established in 1982 as an official part of the Army to help protect Greece and provide reinforcements and support to the Army in peacetime and in times of mobilization and war; members undergo weekly training run by the Army, which also provides weapons and ammunition<br>
 
 **Military expenditures**<br>
 3.6% of GDP (2022 est.)<br>
@@ -694,7 +694,7 @@ the military's inventory consists of a mix of imported weapons from Europe and t
 <strong>note 1: </strong>compulsory service applies to any individual whom the Greek authorities consider to be Greek, regardless of whether the individual considers himself Greek, has a foreign citizenship and passport, or was born or lives outside of Greece; Greek citizens living permanently outside of Greece have the right to postpone their conscription; they are permanently exempted from their military obligations when they reach the age of 45 years old<strong><br><br>note 2: </strong>up to 50% of the Greek military is comprised of conscripts<br><br><strong>note 3: </strong>as of 2019, women comprised approximately 19% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-approximately 1,000 Cyprus; 100 Kosovo (NATO); 100 Lebanon (UNIFIL) (2022)<br>
+approximately 1,000 Cyprus; 100 Kosovo (NATO); 140 Lebanon (UNIFIL) (2023)<br>
 
 **Military - note**<br>
 Greece joined NATO in 1952<br>
@@ -713,7 +713,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 24,985 (Ukraine) (as of 30 April 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,239,662 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
+<strong>note:</strong> 1,240,020 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

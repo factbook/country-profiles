@@ -606,7 +606,7 @@ _total subscriptions_: 4.3 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 77 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Lebanon&rsquo;s economic crisis has had a dire effect on the country&rsquo;s telecom services; although some progress has been made with developing 5G, the poor economic conditions have contributed to an erratic electricity supply and a lack of fuel to maintain generators; this has meant that internet services to areas of the country are not available on a regular basis, frustrating all those who depend on stable connectivity, and stalling business growth; adding to the difficulties are the combined stresses of the pandemic and the political crisis; a caretaker cabinet in September 2021 made way for a new government though there is little confidence on the ground that sectarian-based political horse-trading will give way to responsible governing to improve the lot of the stressed populace (2022)<br>
+_general assessment_: Lebanon&rsquo;s economic crisis has had a dire effect on the country&rsquo;s telecom services; although some progress has been made with developing 5G, the poor economic conditions have contributed to an erratic electricity supply and a lack of fuel to maintain generators; this has meant that internet services to areas of the country are not available on a regular basis, frustrating all those who depend on stable connectivity, and stalling business growth; adding to the difficulties is the political crisis; the cabinet went into caretaker status after the National Assembly election in May 2022 meaning it can only engage in routine decision making; there is little confidence on the ground that sectarian-based political horse-trading will give way to responsible governing to improve the lot of the stressed populace (2023)<br>
 _domestic_: fixed-line is 16 per 100 and 77 per 100 for mobile-cellular subscriptions (2021)<br>
 _international_: country code - 961; landing points for the IMEWE, BERYTAR AND CADMOS submarine cable links to Europe, Africa, the Middle East and Asia; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean) (2019)<br>
 
@@ -672,7 +672,7 @@ _container port(s) (TEUs)_: Beirut (1,229,100) (2019)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, Land Border Regiments), Naval Forces, Air Forces; Ministry of Interior: Internal Security Forces Directorate (law enforcement; includes Mobile Gendarmerie), Directorate for General Security (DGS; border control, some domestic security duties); Parliamentary Police Force (2023)<br>
+Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, Land Border Regiments), Naval Forces, Air Forces<br><br>Ministry of Interior: Internal Security Forces Directorate (law enforcement; includes Mobile Gendarmerie), Directorate for General Security (DGS; border control, some domestic security duties); Parliamentary Police Force (2023)<br>
 <strong>note 1:</strong> the commander of the LAF is also the commander of the Army; the LAF patrols external borders, while official border checkpoints are under the authority of Directorate for General Security<br><br><strong>note 2:</strong> the Parliamentary Police Force reports to the speaker of parliament and has responsibility for protecting parliament premises and the speaker’s residence; both the Internal Security Forces and the Lebanese Armed Forces provide units to the Parliamentary Police Force<br>
 
 **Military expenditures**<br>
@@ -686,7 +686,7 @@ Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, 
 approximately 80,000 active troops (77,000 Army; 1,500 Navy; 1,500 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LAF inventory includes a wide mix of mostly older equipment from a diverse array of countries; in recent years, the US has been the leading supplier of armaments (mostly second-hand equipment) to Lebanon (2022)<br>
+the LAF inventory includes a wide mix of mostly older equipment from a diverse array of countries; in recent years, the US has been the leading supplier of armaments (mostly second-hand) to Lebanon (2023)<br>
 
 **Military service age and obligation**<br>
 17-25 years of age for men and women for voluntary military service; no conscription (2022)<br>

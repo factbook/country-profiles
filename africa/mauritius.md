@@ -660,7 +660,7 @@ no regular military forces; the Mauritius Police Force (MPF) under the Ministry 
 approximately 1,700 Special Mobile Force; approximately 800 National Coast Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the MPF's inventory is comprised of mostly second-hand equipment from Western European countries and India; since 2010, India has been the primary supplier (2022)<br>
+the MPF's inventory is comprised of mostly secondhand equipment from Western European countries and India; since 2010, India has been the primary supplier (2023)<br>
 
 **Military service age and obligation**<br>
 service is voluntary (2022)<br>

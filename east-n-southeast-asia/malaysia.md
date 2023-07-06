@@ -504,7 +504,7 @@ $208.217 billion (2020 est.) note: data are in current year dollars<br>
 $238.361 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-Singapore 13%, China 13%, US 11%, Hong Kong 6%, Japan 6%, Thailand 5% (2019)<br>
+Singapore 15%, China 14%, US 13%, Hong Kong 6%, Japan 6% (2021)<br>
 
 **Exports - commodities**<br>
 integrated circuits, refined petroleum, palm oil, rubber apparel, natural gas, semiconductors (2021)<br>
@@ -515,10 +515,10 @@ $186.613 billion (2020 est.) note: data are in current year dollars<br>
 $210.86 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 24%, Singapore 14%, Japan 6%, US 6%, Taiwan 5%, Thailand 5% (2019)<br>
+China 29%, Singapore 11%, Japan 6%, US 6%, Taiwan 6% (2021)<br>
 
 **Imports - commodities**<br>
-integrated circuits, refined petroleum, crude petroleum, broadcasting equipment, coal (2019)<br>
+integrated circuits, refined petroleum, crude petroleum, coal, gold, semiconductors (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $116.916 billion (31 December 2021 est.)<br>
@@ -681,8 +681,8 @@ _LNG terminal(s) (import)_: Sungei Udang<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Malaysian Armed Forces (Angkatan Tentera Malaysia, ATM): Malaysian Army (Tentera Darat Malaysia), Royal Malaysian Navy (Tentera Laut Diraja Malaysia, TLDM), Royal Malaysian Air Force (Tentera Udara Diraja Malaysia, TUDM); Ministry of Home Affairs: Royal Malaysian Police (PRMD), Malaysian Maritime Enforcement Agency (MMEA; aka Malaysian Coast Guard) (2023)<br>
-<strong>note 1: </strong>the PRMD includes the General Operations Force, a paramilitary force with a variety of roles, including patrolling borders, counter-terrorism, maritime security, and counterinsurgency<br><strong><br>note 2:</strong> Malaysia created a National Special Operations Force in 2016 for combating terrorism threats; the force is comprised of personnel from the Armed Forces, the Royal Malaysian Police, and the Malaysian Maritime Enforcement Agency<br>
+Malaysian Armed Forces (Angkatan Tentera Malaysia, ATM): Malaysian Army (Tentera Darat Malaysia), Royal Malaysian Navy (Tentera Laut Diraja Malaysia, TLDM), Royal Malaysian Air Force (Tentera Udara Diraja Malaysia, TUDM) (2023)<br>
+<strong>note 1: </strong>the Royal Malaysian Police (PRMD) are under the Ministry of Home Affairs; the PRMD includes the General Operations Force, a paramilitary force with a variety of roles, including patrolling borders, counter-terrorism, maritime security, and counterinsurgency; the Ministry of Home Affairs also includes the Malaysian Maritime Enforcement Agency (MMEA; aka Malaysian Coast Guard)<br><strong><br>note 2:</strong> Malaysia created a National Special Operations Force in 2016 for combating terrorism threats; the force is comprised of personnel from the ATM, the PRMD, and the MMEA<br>
 
 **Military expenditures**<br>
 1% of GDP (2022 est.)<br>

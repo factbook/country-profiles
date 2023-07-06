@@ -716,7 +716,7 @@ the military's inventory includes a mix of domestically produced and imported we
 <strong>note: </strong>conscientious objectors can choose 390 days of community service instead of military service<br>
 
 **Military deployments**<br>
-up to 165 Kosovo (NATO/KFOR) (2022)<br>
+up to 165 Kosovo (NATO/KFOR) (2023)<br>
 
 **Military - note**<br>
 <p>Switzerland has long maintained a policy of military neutrality but does periodically participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military and peacekeeping operations; however, Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it contributed to the NATO-led Kosovo force (KFOR) in 1999 and as of 2023, continued doing so with up to 165 personnel; Switzerland also provided a small number of staff officers to the NATO mission in Afghanistan from 2004-2007</p> (2023)<br>
@@ -733,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 84,775 (Ukraine) (as of 16 June 2023)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 84,775 (Ukraine) (as of 23 June 2023)<br>
 _stateless persons_: 891 (2022)<br>
 
 **Illicit drugs**<br>

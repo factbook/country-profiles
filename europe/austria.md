@@ -340,11 +340,11 @@ _residency requirement for naturalization_: 10 years<br>
 16 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Alexander VAN DER BELLEN (since 26 January 2017); note - President Alexander VAN DER BELLEN was re-elected to a second six-year term on 9 October 2022<br>
+_chief of state_: President Alexander VAN DER BELLEN (since 26 January 2017); note - President Alexander VAN DER BELLEN&nbsp; reelected to a second six-year term on 9 October 2022<br>
 _head of government_: Chancellor Karl NEHAMMER (since 6 December 2021); note - Chancellor Alexander SCHALLENBERG resigned on 2 December 2021<br>
 _cabinet_: Council of Ministers proposed by the chancellor and appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); elections last held on 9 October 2022 (first round), (second round, which was annulled), (next election to be held in 2028); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor<br>
-_election results_: 2022: Alexander VAN DER BELLEN elected in first round; percent of vote - Alexander VAN DER BELLEN (the Greens) 56.7%, Walter ROSENKRANZ (FPO) 17.7%, Dominik WLAZNY (Beer) 8.3%, Tassilo WALLENTIN (independent) 8.1%, Gerald GROSZ (independent) 5.6%<em><br><br>2016:</em> Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round re-vote - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 9 October 2022; (next election to be held in 2028); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor<br>
+_election results_: <br>2022: Alexander VAN DER BELLEN elected in first round; percent of vote - Alexander VAN DER BELLEN (the Greens) 56.7%, Walter ROSENKRANZ (FPO) 17.7%, Dominik WLAZNY (Beer) 8.3%, Tassilo WALLENTIN (independent) 8.1%, Gerald GROSZ (independent) 5.6%<em><br>2016:</em> Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
@@ -656,7 +656,11 @@ OE<br>
 50 (2021)<br>
 
 **Airports - with paved runways**<br>
-24<br>
+_total_: 24<br>
+_civil airports_: 5<br>
+_military airports_: 1<br>
+_joint use (civil-military) airports_: 0<br>
+_other airports_: 18<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
@@ -710,7 +714,7 @@ registration requirement at age 17, the legal minimum age for voluntary military
 <strong>note 1:</strong> as of 2019, women made up about 4% of the military's full-time personnel<br><br><strong>note 2:</strong> in a January 2013 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system; approximately 40% of those liable to compulsory service have opted in favor of  alternative civil/community service<br>
 
 **Military deployments**<br>
-170 Bosnia-Herzegovina (EUFOR stabilization force); 300 Kosovo (NATO/KFOR); 200 Lebanon (UNIFIL) (Aug 2022)<br>
+170 Bosnia-Herzegovina (EUFOR stabilization force); 250 Kosovo (NATO/KFOR); 200 Lebanon (UNIFIL) (2023)<br>
 
 **Military - note**<br>
 Austria is constitutionally militarily non-aligned but is an EU member and actively participates in EU peacekeeping and crisis management operations under the Common Security and Defense Policy; Austria is not a member of NATO but joined NATO&rsquo;s Partnership for Peace framework in 1995 and participates in NATO-led crisis management and peacekeeping operations; as of 2023, more than 100,000 Austrian military and civilian personnel had taken part in more than 50 international peace support and humanitarian missions since 1960 (2023)<br>
@@ -727,7 +731,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 99,270 (Ukraine) (as of 19 June 2023)<br>
+_refugees (country of origin)_: 67,588 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 99,590 (Ukraine) (as of 26 June 2023)<br>
 _stateless persons_: 3,219 (2022)<br>
 
 **Illicit drugs**<br>

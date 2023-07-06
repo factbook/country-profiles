@@ -640,7 +640,7 @@ _major seaport(s)_: Male<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Republic of Maldives has no distinct army, navy, or air force but a single security unit called the Maldives National Defense Force (MNDF) comprised of ground forces, an air element, a coastguard, a presidential security division, and a special protection group (2023)<br>
+the Republic of Maldives has no distinct army, navy, or air force but a single security unit called the Maldives National Defense Force (MNDF) comprised of ground forces, an air element, a coast guard, a presidential security division, and a special protection group (2023)<br>
 <strong>note:</strong> the Maldives Police Service is responsible for internal security and reports to the Ministry of Home Affairs; the MNDF is responsible for counterterrorism<br>
 
 **Military expenditures**<br>
@@ -650,7 +650,7 @@ not available<br>
 approximately 2,500 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-India has provided most of the equipment in the MNDF's inventory (2022)<br>
+India has provided most of the equipment in the MNDF's inventory (2023)<br>
 
 **Military service age and obligation**<br>
 18-28 years of age for voluntary service; no conscription; 10th grade or equivalent education required; must not be a member of a political party (2022)<br>

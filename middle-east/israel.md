@@ -615,7 +615,7 @@ _total subscriptions_: 12.5 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 140 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Israel&rsquo;s developed economy largely revolves around high technology products, primarily used in the medical, biotechnology, agricultural, materials, and military industries; the country also attracts investment in its cyber-security industry, and has established itself as a hub for thousands of start-up companies; to underpin these developments, Israel has developed a robust telecoms sector; household broadband subscriptions is high, with a focus on fiber-network deployment; LTE services are almost universally available, while the August 2020 multi-frequency bands also enabled the MNOs to provide services based on 5G; 5G will be supported by moves to close down GSM and 3G networks in stages through to the end of 2025, with the physical assets and frequencies to be repurposed for LTE and 5G use (2022)<br>
+_general assessment_: Israel&rsquo;s developed economy largely revolves around high technology products and services, primarily used in the medical, biotechnology, agricultural, materials, and military industries; the country also attracts investment in its cyber-security industry, and has established itself as a hub for thousands of start-up companies; to underpin these developments, Israel has developed a robust telecoms sector; household broadband subscriptions is high, with a focus on fiber-network deployment; LTE services are almost universally available, while the August 2020 multi-frequency bands also enabled the MNOs to provide services based on 5G; 5G will be supported by moves to close down GSM and 3G networks in stages through to the end of 2025, with the physical assets and frequencies to be repurposed for LTE and 5G use (2023)<br>
 _domestic_: fixed-line nearly 39 per 100 and nearly 140 per 100 for mobile-cellular subscriptions (2021)<br>
 _international_: country code - 972; landing points for the MedNautilus Submarine System, Tameres North, Jonah and Lev Submarine System, submarine cables that provide links to Europe, Cyprus, and parts of the Middle East; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2019)<br>
 
@@ -681,8 +681,8 @@ _LNG terminal(s) (import)_: Hadera<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes commandos), Israel Air Force (IAF, includes air defense); Ministry of Public Security: Border Police, Immigration Police; Israeli Security Agency (2023)<br>
-<strong>note 1:</strong> the Border Police is a unit within the Israel Police with its own organizational and command structure; it works both independently as well as in cooperation with or in support of the Israel Police and the IDF<br><br>note 2: the Israeli Security Agency (ISA) is charged with combating terrorism and espionage in Israel and the West Bank and Gaza Strip; it is under the authority of the Prime Minister; ISA forces operating in the West Bank fall under the IDF for operations and operational debriefing<br>
+Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes commandos), Israel Air Force (IAF, includes air defense) (2023)<br>
+<strong>note 1:</strong> the national police, including the border police and the immigration police, are under the authority of the Ministry of Public Security<br><br><strong>note 2:</strong> the Israeli Security Agency (ISA) is charged with combating terrorism and espionage in Israel and the West Bank and Gaza Strip; it is under the authority of the Prime Minister; ISA forces operating in the West Bank fall under the IDF for operations and operational debriefing<br>
 
 **Military expenditures**<br>
 4.5% of GDP (2022 est.)<br>

@@ -576,8 +576,8 @@ _unpaved_: 91 km (2015)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Kosovo Security Force (KSF; Forca e Sigurisë së Kosovës or FSK): Land Force Command; Logistics Command; Doctrine and Training Command; National Guard Command (2023)<br>
-<strong>note: </strong>as of 2022, the Kosovo Government continued the process of transitioning the KSF into a multi-ethnic territorial defense force, in accordance with a 10-year plan which began in 2019<br>
+Kosovo Security Force (KSF; Forca e Sigurisë së Kosovës or FSK): Land Force, National Guard (2023)<br>
+<strong>note:</strong> the Kosovo Police are under the Ministry of Internal Affairs<br>
 
 **Military expenditures**<br>
 2% of GDP (2022 est.)<br>
@@ -587,10 +587,10 @@ Kosovo Security Force (KSF; Forca e Sigurisë së Kosovës or FSK): Land Force C
 0.8% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 3,300 KSF personnel, including reserves (2022)<br>
+approximately 3,300 KSF personnel, including about 800 reserves (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the KSF is equipped with small arms and light vehicles and has relied on donated equipment from a variety of countries, particularly Turkey and the US (2022)<br>
+the KSF is equipped with small arms and light vehicles and has relied on limited amounts of donated equipment from several countries, particularly Turkey and the US (2023)<br>
 
 **Military service age and obligation**<br>
 service is voluntary; must be over the age of 18 and a citizen of Kosovo; upper age for enlisting is 30 for officers, 25 for other ranks, although these may be waived for recruits with key skills considered essential for the KSF<br> (2023)<br>

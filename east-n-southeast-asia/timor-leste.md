@@ -330,7 +330,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Jos&eacute; RAMOS-HORTA (since May 2022); note - the president is commander in chief of the military and is able to veto legislation, dissolve parliament, and call national elections<br>
-_head of government_: Prime Minister Taur Matan RUAK (since 22 June 2018)<br>
+_head of government_: Prime Minister Kay Rala Xanana GUSMAO (since 1 July 2023)<br>
 _cabinet_: the governing coalition in the Parliament proposes cabinet member candidates to the prime minister, who presents these recommendations to the President of the Republic for swearing in<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last election held in April 2022; following parliamentary elections, the president appoints the leader of the majority party or majority coalition as the prime minister<br>
 _election results_: <em>2022</em>: José RAMOS-HORTA elected president in a run-off election -  RAMOS-HORTA (CNRT) 62.1%, Francisco GUTERRES (FRETILIN) 37.9%<br><br><em>2017</em>: Francisco GUTERRES (FRETILIN) 57.1%, António da CONCEICAO (PD) 32.46%<br>

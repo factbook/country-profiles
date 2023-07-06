@@ -684,7 +684,11 @@ F<br>
 464 (2021)<br>
 
 **Airports - with paved runways**<br>
-294<br>
+_total_: 294<br>
+_civil airports_: 64<br>
+_military airports_: 22<br>
+_joint use (civil-military) airports_: 5<br>
+_other airports_: 204<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
@@ -749,7 +753,7 @@ the French military's inventory consists mostly of domestically produced weapons
 <strong>note 1: </strong>in 2019, women comprised approximately 16% of the uniformed armed forces  <br><br><strong>note 2: </strong>men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign five-year contracts<br><br><strong>note 3:</strong> in 2018, Parliament passed a law that would require military service for all genders beginning in 2024; President MACRON included the measure in his platform hoping that it would reinvigorate a sense of civic duty; the service would include two components: the first would take place around age 16 and include one month of training and civic service, while the second component would last between three months and a year and be more geared towards defense and security duties; France began a pilot for the program in 2019<br>
 
 **Military deployments**<br>
-approximately 300 Central African Republic; approximately 1,000 Chad; 300 Comoros; approximately 900 Cote d'Ivoire; approximately 1,400 Djibouti; 300 Estonia (NATO); approximately 2,000 French Guyana; approximately 900 French Polynesia; approximately 1,000 French West Indies; 350 Gabon; approximately 500 Middle East (Iraq/Jordan/Syria); 600 Lebanon (UNIFIL); approximately 1,400 New Caledonia; approximately 1,500 Niger; approximately 1,700 Reunion Island; approximately 800 Romania (NATO); approximately 350 Senegal; approximately 650 United Arab Emirates (2023)<br>
+approximately 300 Central African Republic; approximately 1,000 Chad; 300 Comoros; approximately 900 Cote d'Ivoire; approximately 1,400 Djibouti; 300 Estonia (NATO); approximately 2,000 French Guyana; approximately 900 French Polynesia; approximately 1,000 French West Indies; 350 Gabon; approximately 500 Middle East (Iraq/Jordan/Syria); 650 Lebanon (UNIFIL); approximately 1,400 New Caledonia; approximately 1,500 Niger; approximately 1,700 Reunion Island; approximately 800 Romania (NATO); approximately 350 Senegal; approximately 650 United Arab Emirates (2023)<br>
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including France, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>

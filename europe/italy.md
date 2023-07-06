@@ -712,7 +712,7 @@ the military's inventory includes a mix of domestically manufactured, imported, 
 <strong>note:</strong> women may serve in any military branch; as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-120 Djibouti; approximately 750 Bulgaria (NATO); approximately 1,000 Middle East/Iraq/Kuwait (NATO, European Assistance Mission Iraq); 850 Kosovo (NATO/KFOR); 250 Latvia (NATO); 1,300 Lebanon (UNIFIL); 400 Libya; 350 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2023)<br>
+120 Djibouti; approximately 750 Bulgaria (NATO); approximately 1,000 Middle East (NATO, European Assistance Mission Iraq); 850 Kosovo (NATO/KFOR); 250 Latvia (NATO); 1,000 Lebanon (UNIFIL); 400 Libya; 350 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2023)<br>
 <strong>note:</strong> in response to Russia’s invasion of Ukraine, some NATO countries, including Italy, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
@@ -732,7 +732,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 175,107 (Ukraine) (as of 19 May 2023)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 753,596 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
+<strong>note:</strong> 757,022 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
 
 **Illicit drugs**<br>
 <p>important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe</p><br>

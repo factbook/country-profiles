@@ -675,7 +675,7 @@ _major seaport(s)_: Conakry, Kamsar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Armed Forces: Army, Guinean Navy (Armee de Mer or Marine Guineenne), Guinean Air Force (Force Aerienne de Guinee), Presidential Security Battalion (Battailon Autonome de la Sécurité Presidentielle, BASP), Gendarmerie (2022)<br>
+National Armed Forces: Army, Guinean Navy (Armee de Mer or Marine Guineenne), Guinean Air Force (Force Aerienne de Guinee), Presidential Security Battalion (Battailon Autonome de la Sécurité Presidentielle, BASP), Gendarmerie (2023)<br>
 <strong>note:</strong> the National Gendarmerie is overseen by the Ministry of Defense, while the National Police is under the Ministry of Security; the Gendarmerie and National Police share responsibility for internal security, but only the Gendarmerie can arrest police or military officials<br>
 
 **Military expenditures**<br>

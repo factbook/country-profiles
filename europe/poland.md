@@ -696,22 +696,21 @@ _river port(s)_: Szczecin (River Oder)<br>
 
 **Military and security forces**<br>
 Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Force (Wojska Obrony Terytorialnej); Ministry of Interior and Administration: Border Guard (includes coast guard duties) (2023)<br>
-<strong>note:</strong> the Polish Armed Forces are organized into a General Staff, an Armed Forces General Command, an Armed Forces Operational Command, Territorial Defense Forces (established 2017), Military Police, and the Warsaw Garrison Command<br>
+<strong>note:</strong> the police force is a national law enforcement body with regional and municipal units overseen by the Ministry of Interior and Administration; the Border Guard is responsible for border security and combating irregular migration and also reports to the Ministry of Interior and Administration<br>
 
 **Military expenditures**<br>
+3% of GDP (2023 est.)<br>
 2.4% of GDP (2022)<br>
 2.3% of GDP (2021)<br>
 2.2% of GDP (2020)<br>
 2% of GDP (2019)<br>
-2% of GDP (2018)<br>
-<strong>note: </strong>in 2022, the Polish Government announced plans to increase defense spending to 3% of GDP for 2023<br>
 
 **Military and security service personnel strengths**<br>
 approximately 120,000 active-duty personnel (65,000 Army; 7,000 Navy; 15,000 Air Force; 3,000 Special Forces; 25,000 joint service/other; 5,000 active Territorial Defense Forces); approximately 25,000 other Territorial Defense Forces (reserves) (2022)<br>
 <strong>note: </strong>in June 2019, the Polish Government approved a plan to increase the size of the military over a period of 10 years to over 200,000 troops, including doubling the size of the Territorial Defense Forces; in 2021, it announced additional plans to increase the size of the military to over 300,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a mix of Soviet-era and more modern, mostly Western, weapons systems; in recent years, the leading suppliers of armaments have included several European countries, South Korea, and the US; Poland has a large domestic defense sector that produces or provides upgrades to a wide variety of weapons systems, particularly ground systems such as tanks and other armored vehicles; it also cooperates with the European and US defense sectors (2023)<br>
+the military's inventory consists of a mix of Soviet-era and more modern, NATO-compatible, weapons systems; in recent years, the leading suppliers of armaments have included several European countries, South Korea, and the US; Poland has a large domestic defense sector that produces or provides upgrades to a wide variety of weapons systems, particularly ground systems such as tanks and other armored vehicles; it also cooperates with the European and US defense sectors (2023)<br>
 <strong>note:</strong> in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, frigates, and improved cyber security; in 2022, it signed large military weapons contracts with South Korea and the US<br>
 
 **Military service age and obligation**<br>
@@ -719,11 +718,11 @@ the military's inventory consists of a mix of Soviet-era and more modern, mostly
 <strong>note 1:</strong> as of 2019, women made up about 7% of the military's full-time personnel<br><br><strong>note 2: </strong>in May 2022, Poland announced a new 12-month voluntary military service program with recruits going through a 1-month basic training period with a military unit, followed by 11 months of specialized training; upon completion of service, the volunteers would be allowed to join the Territorial Defense Forces or the active reserve, and have priority to join the professional army and be given preference for employment in the public sector; the program is part of an effort to increase the size of the Polish military<br>
 
 **Military deployments**<br>
-250 Kosovo (NATO/KFOR); up to 180 Latvia (NATO); 190 Lebanon (UNIFIL); 230 Romania (NATO) (2022)<br>
-<strong>note 1: </strong>Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Poland, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+250 Kosovo (NATO/KFOR); up to 180 Latvia (NATO); 200 Lebanon (UNIFIL); 230 Romania (NATO) (2023)<br>
+<strong>note 1: </strong>Poland has obligated about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Poland, have committed additional troops and equipment to the battlegroups deployed in NATO territory in the Baltic States and eastern Europe<br>
 
 **Military - note**<br>
-Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br> <p>since 2017, Poland has hosted a US-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; since 2014, Poland has also hosted NATO fighter detachments at Malbork Air Base under NATO's enhanced air policing arrangements<br><br>Poland hosts a NATO-led divisional headquarters (Multinational Division Northeast; operational in 2018), which coordinates training and preparation activities of its respective subordinate battlegroups in Poland and Lithuania; Poland also hosts a corps-level headquarters (Multinational Corps Northeast) (2022)</p> (2023)<br>
+Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br><br>since 2017, Poland has hosted a US-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; since 2014, Poland has also hosted NATO fighter detachments at Malbork Air Base under NATO's enhanced air policing arrangements<br><br>Poland hosts a NATO-led divisional headquarters (Multinational Division Northeast; operational in 2018), which coordinates training and preparation activities of its respective subordinate battlegroups in Poland and Lithuania; Poland also hosts a corps-level headquarters (Multinational Corps Northeast) (2023)<br>
 
 ## Terrorism
 
@@ -737,7 +736,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,618,785 (Ukraine) (as of 13 June 2023)<br>
+_refugees (country of origin)_: 1,618,785 (Ukraine) (as of 26 June 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

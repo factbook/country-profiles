@@ -636,7 +636,11 @@ CU<br>
 133 (2021)<br>
 
 **Airports - with paved runways**<br>
-64<br>
+_total_: 64<br>
+_civil airports_: 7<br>
+_military airports_: 3<br>
+_joint use (civil-military) airports_: 2<br>
+_other airports_: 52<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
@@ -670,7 +674,7 @@ _major seaport(s)_: Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, N
 ## Military and Security
 
 **Military and security forces**<br>
-Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary Army (Ejercito Revolucionario, ER), Revolutionary Navy (Marina de Guerra Revolucionaria, MGR, includes Marine Corps), Revolutionary Air and Air Defense Forces (Defensas Anti-Aereas y Fuerza Aerea Revolucionaria, DAAFAR); Paramilitary forces: Youth Labor Army (Ejercito Juvenil del Trabajo, EJT), Territorial Militia Troops (Milicia de Tropas de Territoriales, MTT), Civil Defense Force; Ministry of Interior: Border Guards, State Security, National Revolutionary Police (2022)<br>
+Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary Army (Ejercito Revolucionario, ER), Revolutionary Navy (Marina de Guerra Revolucionaria, MGR, includes Marine Corps), Revolutionary Air and Air Defense Forces (Defensas Anti-Aereas y Fuerza Aerea Revolucionaria, DAAFAR); Paramilitary forces: Youth Labor Army (Ejercito Juvenil del Trabajo, EJT), Territorial Militia Troops (Milicia de Tropas de Territoriales, MTT), Civil Defense Force<br><br>Ministry of Interior: Border Guards, State Security, National Revolutionary Police (2023)<br>
 
 **Military expenditures**<br>
 4.2% of GDP (2020 est.)<br>

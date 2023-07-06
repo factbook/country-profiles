@@ -650,8 +650,8 @@ _LNG terminal(s) (import)_: Delimara<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Armed Forces of Malta (AFM) is a joint force with land, maritime, and air elements, plus a Volunteer Reserve Force (2022)<br>
-<strong>note:</strong> the AFM and the Malta Police Force are both under the Ministry of Home Affairs, National Security, and Law Enforcement<br>
+the Armed Forces of Malta (AFM) is a joint force with land, maritime, and air elements, plus a Volunteer Reserve Force (2023)<br>
+<strong>note:</strong> the Malta Police Force maintains internal security; both the Police and the AFM report to the Ministry of Home Affairs, National Security, and Law Enforcement<br>
 
 **Military expenditures**<br>
 0.6% of GDP (2022 est.)<br>
@@ -661,16 +661,16 @@ the Armed Forces of Malta (AFM) is a joint force with land, maritime, and air el
 0.5% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 active duty personnel (2021)<br>
+approximately 2,000 active-duty personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military has a small inventory that consists of equipment from a mix of European countries, particularly Italy, and the US (2022)<br>
+the military has a small inventory that consists of equipment from a mix of European countries, particularly Italy and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for men and women for voluntary military service; no conscription (2022)<br>
 
 **Military - note**<br>
-<p>Malta maintains a security policy of neutrality, but contributes to EU and UN military missions and joined NATO’s Partnership for Peace program in 1995 (suspended in 1996, but reactivated in 2008); it also participates in various bilateral and multinational military exercises; Malta cooperates closely with Italy on defense matters; in 1973, Italy established a military mission in Malta to provide advice, training, and search and rescue assistance</p> <p> </p><br>
+Malta maintains a security policy of neutrality, but contributes to EU and UN military missions and joined NATO&rsquo;s Partnership for Peace program in 1995 (suspended in 1996, but reactivated in 2008); it also participates in various bilateral and multinational military exercises; Malta cooperates closely with Italy on defense matters; in 1973, Italy established a military mission in Malta to provide advice, training, and search and rescue assistance (2023)<br>
 
 ## Transnational Issues
 

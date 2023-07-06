@@ -694,7 +694,7 @@ Japan operates one PC 3 or 4 class medium icebreaker<br>note - PC indicates a Po
 
 **Military and security forces**<br>
 Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSDF; includes aviation), Maritime Self-Defense Force (Kaijou Jieitai, MSDF; includes naval aviation), Air Self-Defense Force (Koukuu Jieitai, ASDF) (2023)<br>
-<strong>note:</strong> the Coast Guard is under the Ministry of Land, Infrastructure, Transport and Tourism; it is barred by law from operating as a military force, but in times of conflict Article 80 of the 1954 Self-Defense Forces Act permits the transfer of control of the coast guard to the Ministry of Defense with Cabinet approval <br>
+<strong>note:</strong> the Coast Guard is under the Ministry of Land, Infrastructure, Transport and Tourism; it is barred by law from operating as a military force, but in times of conflict Article 80 of the 1954 Self-Defense Forces Act permits the transfer of control of the coast guard to the Ministry of Defense with Cabinet approval<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2022 est.)<br>

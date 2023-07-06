@@ -674,7 +674,8 @@ Latvia operates one PC 5 or 6 class icebreaker in the Baltic Sea<br>note - PC in
 ## Military and Security
 
 **Military and security forces**<br>
-National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszemes Speki), Naval Force (Latvijas Juras Speki, includes Coast Guard (Latvijas Kara Flote)), Air Force (Latvijas Gaisa Speki), National Guard (2023)<br>
+National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszemes Speki), Naval Force (Latvijas Juras Speki, includes Coast Guard (Latvijas Kara Flote)), Air Force (Latvijas Gaisa Speki), National Guard (aka Land Guard or Zemessardze)  (2023)<br>
+<strong>note: </strong>the armed forces, the Defense Intelligence and Security Service, the Constitution Protection Bureau, and the National Guard are subordinate to the Ministry of Defense; the State Police, State Border Guards, and State Security Service are under the Ministry of Interior; the State Border Guard may become part of the armed forces during an emergency<br>
 
 **Military expenditures**<br>
 2.25% of GDP (2023 est.)<br>
@@ -684,20 +685,20 @@ National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszem
 2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,500 active duty troops (6,500 Land Forces; 500 Naval Force/Coast Guard; 500 Air Force; note - some Land Forces are considered joint forces); 8,200 National Guard (2022)<br>
+approximately 6,700 regular military forces; approximately 9,500 National Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Latvian military's inventory is limited and consists of a mixture of Soviet-era and more modern--mostly secondhand--European and US equipment (2022)<br>
+the Latvian military's inventory consists of a mixture of Soviet-era and limited amounts of more modern, Western-produced systems acquired since the country joined NATO in 2004; in recent years, the UK and US have been the leading suppliers of military equipment (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary male and female military service; no conscription (abolished 2007) (2023)<br>
+18 years of age for voluntary military service for men and women; no conscription (abolished 2007) (2023)<br>
 <strong>note 1:</strong> in 2023, the Latvian Parliament approved a plan to reinstate mandatory military service for men aged 18-27 (women voluntarily) beginning in 2024; service would be for 12 months in the Land Forces or alternatively in internal affairs, health, or welfare structures<br><br><strong>note 2:</strong> as of 2019, women comprised about 16% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-130 Kosovo (KFOR/NATO) (2022)<br>
+130 Kosovo (KFOR/NATO) (2023)<br>
 
 **Military - note**<br>
-Latvia became a member of NATO in 2004 <br><br>since 2017, Latvia has hosted a Canadian-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; in addition, Latvia hosts a NATO-led divisional headquarters (Multinational Division North; activated 2020), which coordinates training and preparation activities of its respective subordinate NATO battlegroups in Estonia and Latvia<br><br>NATO also has provided air protection for Latvia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations (2022)<br>
+Latvia became a member of NATO in 2004 <br><br>since 2017, Latvia has hosted a Canadian-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; in addition, Latvia hosts a NATO-led divisional headquarters (Multinational Division North; activated 2020), which coordinates training and preparation activities of its respective subordinate NATO battlegroups in Estonia and Latvia<br><br>NATO also has provided air protection for Latvia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations (2023)<br>
 
 ## Transnational Issues
 

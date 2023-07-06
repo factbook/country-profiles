@@ -708,7 +708,7 @@ Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM
 information limited and varied; approximately 12,000 personnel (11,000 Army and about 1,000 Air Force and Navy) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FADM's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of more modern equipment from a variety of countries, mostly as aid/donations (2022)<br>
+the FADM's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of more modern equipment from a variety of countries, mostly as aid/donations (2023)<br>
 
 **Military service age and obligation**<br>
 registration for military service is mandatory for all men and women at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service for men and women; 24-month service obligation (2023)<br>
@@ -728,7 +728,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Mozambique-Eswatini</em>: none identified</p> <p><em>Mozambique-Malawi</em>:  the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Mozambique-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>Mozambique-Tanzania</em>: none identified</p> <p><em>Mozambique-Zambia</em>: none identified</p> <p><em>Mozambique-Zimbabwe</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,107 (Democratic Republic of Congo) (refugees and asylum seekers), 9,250 (Burundi) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 12,107 (Democratic Republic of Congo) (refugees and asylum seekers), 9,261 (Burundi) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 1.03 million (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>

@@ -693,8 +693,8 @@ _river port(s)_: Baja, Csepel (Budapest), Dunaujvaros, Gyor-Gonyu, Mohacs (Danub
 ## Military and Security
 
 **Military and security forces**<br>
-Hungarian Defense Forces (HDF or Magyar Honvédség): the HDF is organized as a joint force under a general staff with commands for land, air, cyber, special operations, territorial defense, and support forces; Ministry of Interior: National Police, Counterterrorism Center (2023)<br>
-<strong>note:</strong> the National Police is responsible for maintaining order nationwide; the Counterterrorism Center is a special police force responsible for protecting the president and the prime minister and for preventing, uncovering, and detecting terrorist acts; it is directly subordinate to the Minister of Interior<br>
+Hungarian Defense Forces (HDF or Magyar Honvédség): the HDF is organized as a joint force under a general staff with commands for land, air, cyber, special operations, territorial defense, and support forces (2023)<br>
+<strong>note:</strong> the National Police are under the Ministry of Interior and responsible for maintaining order nationwide; the Ministry of Interior also has the Counterterrorism Center, a special police force responsible for protecting the president and the prime minister and for preventing, uncovering, and detecting terrorist acts<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2022 est.)<br>
@@ -715,7 +715,7 @@ the military's inventory consists largely of Soviet-era weapons, with a smaller 
 <strong>note:</strong> as of 2019, women comprised approximately 20% of Hungary's full-time military personnel<br>
 
 **Military deployments**<br>
-160 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (NATO); 470 Kosovo (NATO/KFOR) (2022)<br>
+150 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (NATO); 430 Kosovo (NATO/KFOR) (2023)<br>
 
 **Military - note**<br>
 Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997 and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance (2023)<br>
@@ -732,7 +732,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 36,315 (Ukraine) (as of 18 June 2023)<br>
+_refugees (country of origin)_: 36,315 (Ukraine) (as of 26 June 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

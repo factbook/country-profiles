@@ -676,7 +676,8 @@ _major seaport(s)_: Bar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Army of Montenegro (Vojska Crne Gore or VCG): Ground Forces, Air Force, Navy (2023)<br>
+Army of Montenegro (Vojska Crne Gore or VCG): Ground Forces (Kopnene snage), Air Force (Vazduhoplovstvo), Navy (Mornarica) (2023)<br>
+<strong>note:</strong> the National Police Force, which includes Border Police, is responsible for maintaining internal security; it is organized under the Police Administration within the Ministry of Interior and reports to the police director and, through the director, to the minister of interior and prime minister<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2022 est.)<br>
@@ -706,9 +707,9 @@ Montenegro became a member of NATO in 2017<br>
 <p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,075 (Ukraine) (as of 19 June 2023)<br>
+_refugees (country of origin)_: 14,180 (Ukraine) (as of 26 June 2023)<br>
 _stateless persons_: 468 (2022)<br>
-<strong>note:</strong> 31,036 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
+<strong>note:</strong> 31,218 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine destined for European markets</p><br>

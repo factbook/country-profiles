@@ -321,7 +321,7 @@ _chief of state_: President Jose Maria Pereira NEVES (since 9 November 2021)<br>
 _head of government_: Prime Minister Jose Ulisses CORREIA E. SILVA (since 22 April 2016)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 17 October 2021 (next to be held in October 2026); prime minister nominated by the National Assembly and appointed by the president<br>
-_election results_: <p><em>2020: </em>Jose Maria Pereira NEVES elected president; percent of vote - Jose Maria Pereira NEVES (PAICV) 51.7%, Carlos VEIGA (MPD) 42.4%, Casimiro DE PINA (Independent) 1.8%, Fernando Rocha DELGADO (Independent) 1.4%, Helio SANCHES (independent) 1.14%, Gilson ALVES (independent) 0.8%, Joaquim MONTEIRO (independent) 3.4%<br><br><em>2015: </em>Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74.1%, Albertino GRACA (independent) 22.5%, other 3%</p><br>
+_election results_: <em><br>2020: </em>Jose Maria Pereira NEVES elected president; percent of vote - Jose Maria Pereira NEVES (PAICV) 51.7%, Carlos VEIGA (MPD) 42.4%, Casimiro DE PINA (Independent) 1.8%, Fernando Rocha DELGADO (Independent) 1.4%, Helio SANCHES (independent) 1.14%, Gilson ALVES (independent) 0.8%, Joaquim MONTEIRO (independent) 3.4%<br><br><em>2016: </em>Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74.1%, Albertino GRACA (independent) 22.5%, other 3.4%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (72 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
@@ -637,7 +637,8 @@ _major seaport(s)_: Porto Grande<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Cabo Verdean Armed Forces (FACV): Army (also called the National Guard, GN; includes a small air component), Cabo Verde Coast Guard (Guardia Costeira de Cabo Verde, GCCV); Ministry of Internal Affairs: National Police (2022)<br>
+Cabo Verdean Armed Forces (FACV): Army (also called the National Guard, GN; includes a small air component), Cabo Verde Coast Guard (Guardia Costeira de Cabo Verde, GCCV) (2023)<br>
+<strong>note:</strong>  the National Police are under the Ministry of Internal Affairs<br>
 
 **Military expenditures**<br>
 0.5% of GDP (2022 est.)<br>

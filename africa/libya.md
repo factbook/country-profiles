@@ -644,8 +644,8 @@ _LNG terminal(s) (export)_: Marsa el Brega<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Government of National Unity (GNU) has access to various ground, air, and naval/coast guard forces comprised of a mix of formations and equipment from the QADHAFI regime, mix of semi-regular and nominally integrated units, tribal armed groups/militias, civilian volunteers, and foreign private military contractors and mercenaries; the GNU has a Ministry of Defense, but has limited control over its security forces<br><br>the self-styled Libyan National Army (LNA), under de facto LNA commander Khalifa HAFTER, also includes various ground, air, and naval forces comprised of semi-regular military personnel, militias, and foreign private military contractors and mercenaries; the LNA operates independently from the GNU and exerts influence throughout eastern, central, and southern Libya (2023)<br>
-<strong>note 1:</strong> the Stabilization Support Authority (SSA) is a state-funded militia established in January 2021 by the GNU; it is tasked with securing government buildings and officials, participating in combat operations, apprehending those suspected of national security crimes, and cooperating with other security bodies<br><br><strong>note 2: </strong>the national police force under the Ministry of Interior oversees internal security (with support from military forces under the Ministry of Defense), but much of Libya's security-related police work generally falls to informal armed groups, which received government salaries but lacked formal training, supervision, or consistent accountability<br>
+the Government of National Unity (GNU) has access to various ground, air, and naval/coast guard forces comprised of a mix of formations and equipment from the QADHAFI regime, semi-regular and nominally integrated units, tribal armed groups/militias, civilian volunteers, and foreign private military contractors and mercenaries; the GNU has a Ministry of Defense, but has limited control over its security forces<br><br>the self-styled Libyan National Army (LNA), under de facto LNA commander Khalifa HAFTER, also includes various ground, air, and naval forces comprised of semi-regular military personnel, militias, and foreign private military contractors and mercenaries; the LNA operates independently from the GNU and exerts influence throughout eastern, central, and southern Libya (2023)<br>
+<strong>note 1:</strong> the Stabilization Support Authority (SSA) is a state-funded militia established in January 2021 by the GNU; it is tasked with securing government buildings and officials, participating in combat operations, apprehending those suspected of national security crimes, and cooperating with other security bodies<br><br><strong>note 2: </strong>the national police force under the Ministry of Interior oversees internal security (with support from military forces under the Ministry of Defense), but much of Libya's security-related police work generally falls to informal armed groups, which receive government salaries but lack formal training, supervision, or consistent accountability<br>
 
 **Military expenditures**<br>
 not available<br>
@@ -654,7 +654,7 @@ not available<br>
 estimates not available<br>
 
 **Military equipment inventories and acquisitions**<br>
-both the forces aligned with the GNU and the LNA are largely equipped with weapons of Russian or Soviet origin; in recent years, Turkey has the been the primary supplier of arms to the GNU, while the LNA has received quantities from the UAE (2022)<br>
+both the forces aligned with the GNU and the LNA are largely equipped with weapons of Russian or Soviet origin; in recent years, Turkey has the been the primary supplier of arms to the GNU, while the LNA has received quantities from Russia and the United Arab Emirates (2023)<br>
 
 **Military service age and obligation**<br>
 not available<br>
@@ -674,6 +674,6 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham - Libya (ISIS-L); al-
 <p><em>Libya-Algeria:</em> dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria<br><br><em>Libya-Chad:</em> various Chadian rebels from the Aozou region reside in southern Libya; Libyan forces clashed with Chadian rebels in September 2021</p> <p><em>Libya-Egypt</em>: none identified</p> <p><em>Libya-Niger</em>: the boundary is poorly defined but has never been disputed by either country</p> <p><em>Libya-Sudan</em>: none identified</p> <p><em>Libya-Tunisia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,355 (Sudan) (refugees and asylum seekers), 11,308 (Syria) (refugees and asylum seekers), 6,716 (Eritrea) (2023)<br>
+_refugees (country of origin)_: 20,337 (Sudan) (refugees and asylum seekers), 10,391 (Syria) (refugees and asylum seekers), 7,406 (Eritrea) (2023)<br>
 _IDPs_: 134,787 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2022)<br>
 

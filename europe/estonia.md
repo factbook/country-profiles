@@ -679,7 +679,7 @@ Estonia operates two PC 5 or 6 class icebreakers in the Baltic Sea<br>note - PC 
 ## Military and Security
 
 **Military and security forces**<br>
-Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (Reserves); Ministry of Interior: Police, Border Guard Board, Internal Security Service (2023)<br>
+Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (Reserves)<br><br>Ministry of Interior: Police, Border Guard Board, Internal Security Service (2023)<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2022 est.)<br>

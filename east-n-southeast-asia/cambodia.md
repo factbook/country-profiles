@@ -690,7 +690,8 @@ _river port(s)_: Phnom Penh (Mekong)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Cambodian Armed Forces (RCAF): Royal Cambodian Army, Royal Khmer Navy, Royal Cambodian Air Force, Royal Gendarmerie; the National Committee for Maritime Security (performs Coast Guard functions and has representation from military and civilian agencies); Ministry of Interior: Cambodian National Police (2022)<br>
+Royal Cambodian Armed Forces (RCAF): Royal Cambodian Army, Royal Khmer Navy, Royal Cambodian Air Force, Royal Gendarmerie; the National Committee for Maritime Security (2023)<br>
+<strong>note 1:</strong> the National Committe for Maritime Security performs coast guard functions and has representation from military and civilian agencies<br><br><strong>note 2:</strong> the Cambodian National Police are under the Ministry of Interior<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2021 est.)<br>

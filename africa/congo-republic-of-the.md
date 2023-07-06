@@ -699,8 +699,8 @@ Impfondo (Oubangui) Ouesso (Sangha) Oyo (Alima)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese Air Force, Gendarmerie; Ministry of Interior: National Police (2022)<br>
-<strong>note:</strong> the Gendarmerie is a paramilitary force with domestic law enforcement and security responsibilities; it is under the Ministry of Defense, but also reports to the Ministry of Interior<br>
+Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese Air Force, Gendarmerie (2023)<br>
+<strong>note:</strong> the Gendarmerie is a paramilitary force with domestic law enforcement and security responsibilities; it is under the Ministry of Defense, but also reports to the Ministry of Interior; the Ministry of Interior also controls the National Police<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2022 est.)<br>
@@ -716,7 +716,7 @@ approximately 12,000 active duty troops (8,000 Army; 800 Navy; 1,000 Air Force; 
 the FAC has mostly Soviet-era armaments, with a small mix of French and South African equipment (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; conscription ended in 1969 (2021)<br>
+18 years of age for voluntary military service for men and women; conscription ended in 1969 (2022)<br>
 
 **Military - note**<br>
 the FAC is viewed as having limited capabilities due to obsolescent and poorly maintained equipment and low levels of training; its primary focus is internal security; since its creation in 1961, the FAC has had a turbulent history; it has been sidelined by some national leaders in favor of personal militias, endured an internal rebellion (1996), and clashed with various rebel groups and political or ethnic militias (1993-1996, 2002-2005, 2017); during the 1997-1999 civil war, the military generally split along ethnic lines, with most northern officers supporting eventual winner SASSOU-Nguesso, and most southerners backing the rebels; others joined ethnic-based factions loyal to regional warlords; forces backing SASSOU-Nguesso were supported by Angolan troops and received some French assistance; the FAC also has undergone at least three reorganizations that included the incorporation of former rebel combatants and various ethnic and political militias; in recent years, France has provided some advice and training, and a military cooperation agreement was signed with Russia in 2019 (2023)<br>

@@ -96,7 +96,7 @@ White 87.7%, Black 4.6%, Indigenous 2.4%, other 0.3%, none or unspecified 5% (20
 <strong>note:</strong> data represent primary ethnic identity<br>
 
 **Languages**<br>
-Spanish (official)<br>
+Spanish (official) (many speak the Rioplatense dialect)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>

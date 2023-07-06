@@ -339,7 +339,7 @@ _chief of state_: President Ilham ALIYEV (since 31 October 2003); First Vice Pre
 _head of government_: Prime Minister Ali ASADOV (since 8 October 2019); First Deputy Prime Minister Yaqub EYYUBOV (since 13 February 2003)<br>
 _cabinet_: Council of Ministers appointed by the president and confirmed by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds (if needed) for a 7-year term; a single individual is eligible for unlimited terms; election last held on 11 April 2018 (next to be held in 2025); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly; note - a constitutional amendment approved in a September 2016 referendum extended the presidential term from 5 to 7 years; a separate constitutional amendment approved in the same referendum also introduced the post of first vice-president and additional vice-presidents, who are directly appointed by the president; however, no additional vice-presidents have been appointed since the constitutional amendment was passed<br>
-_election results_: Ilham ALIYEV reelected president (11 April 2018) in first round; percent of vote - Ilham ALIYEV (YAP) 86%, Zahid ORUJ (independent) 3.1%, other 10.9%<br>
+_election results_: Ilham ALIYEV reelected president in first round; percent of vote - Ilham ALIYEV (YAP) 86%, Zahid ORUJ (independent) 3.1%, other 10.9%<br>
 <strong>note:</strong> OSCE observers noted shortcomings in the election, including a restrictive political environment, limits on fundamental freedoms, a lack of genuine competition, and ballot box stuffing<br>
 
 **Legislative branch**<br>
@@ -646,7 +646,11 @@ _annual freight traffic on registered air carriers_: 44.09 million (2018) mt-km<
 23 (2021)<br>
 
 **Airports - with paved runways**<br>
-30<br>
+_total_: 30<br>
+_civil airports_: 4<br>
+_military airports_: 5<br>
+_joint use (civil-military) airports_: 1<br>
+_other airports_: 20<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
@@ -677,7 +681,7 @@ _major seaport(s)_: Baku (Baki) located on the Caspian Sea<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Azerbaijan Armed Forces: Land Forces, Air Forces, Navy Forces, State Border Service, Coast Guard; Ministry of Internal Affairs: Internal Troops, local police forces; Special State Protection Service (SSPS): National Guard (2023)<br>
+Azerbaijan Armed Forces: Land Forces, Air Forces, Navy Forces, State Border Service, Coast Guard<br><br>Ministry of Internal Affairs: Internal Troops, local police forces; Special State Protection Service (SSPS): National Guard (2023)<br>
 <strong>note:</strong> the Ministry of Internal Affairs and the State Security Service (intelligence, counterterrorism) are responsible for internal security; the SSPS is under the president and provides protective services to senior officials, foreign missions, significant state assets, government buildings, etc; the National Guard also serves as a reserve for the Army<br>
 
 **Military expenditures**<br>

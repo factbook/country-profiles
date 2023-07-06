@@ -670,8 +670,8 @@ _by type_: bulk carrier 5, container ship 2, general cargo 79, oil tanker 7, oth
 ## Military and Security
 
 **Military and security forces**<br>
-National Army: Land Forces (Fortele Terestre ale Republicii Moldova, FTRM); Air Forces (Forţele Aeriene ale Republicii Moldova, FARM); Ministry of Internal Affairs: Carabinieri Troops (2022)<br>
-<strong>note:</strong> the Carabinieri is a quasi-militarized gendarmerie responsible for protecting public buildings, maintaining public order, and other national security functions<br>
+Armed Forces of the Republic of Moldova ( Forțele Armate ale Republicii Moldova): National Army (comprised of a General Staff, a Land Forces Command, and an Air Force Command); Ministry of Internal Affairs: General Carabinieri Inspectorate (aka Carabinieri Troops or Trupele de Carabinieri) (2023)<br>
+<strong>note 1:</strong> the Carabinieri is a quasi-militarized gendarmerie responsible for protecting public buildings, maintaining public order, and other national security functions<br><br><strong>note 2:</strong> the national police force reports to the Ministry of Internal Affairs and is the primary law enforcement body, responsible for internal security, public order, traffic, border security, and criminal investigations; the Moldovan Border Police (Poliției de Frontieră) are under the Ministry of Internal Affairs; prior to 2012, Border Police were under the armed forces and known as the Border Troops<br>
 
 **Military expenditures**<br>
 0.4% of GDP (2022 est.)<br>
@@ -681,7 +681,7 @@ National Army: Land Forces (Fortele Terestre ale Republicii Moldova, FTRM); Air 
 0.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,500 active troops (2022)<br>
+approximately 6,500 active troops; approximately 2,000 Carabinieri (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is limited and almost entirely comprised of older Russian and Soviet-era equipment; in recent years, it has received small amounts of donated material from other nations, including the US (2023)<br>
@@ -699,7 +699,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 108,889 (Ukraine) (as of 21 May 2023)<br>
+_refugees (country of origin)_: 7,980 (Ukraine) (as of 25 June 2023)<br>
 _stateless persons_: 1,701 (2022)<br>
 
 **Illicit drugs**<br>

@@ -356,7 +356,7 @@ _chief of state_: President Mohamed Ould Cheikh el GHAZOUANI (since 1 August 201
 _head of government_: Prime Minister Mohamed Ould BILAL (since 6 August 2020)<br>
 _cabinet_: Council of Ministers - nominees suggested by the prime minister, appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 22 June 2019 (next to be held on 22 June 2024); prime minister appointed by the president<br>
-_election results_: <em>2019</em>: Mohamed Ould Cheikh El GHAZOUANI elected president in first round; percent of vote - Mahamed Ould Cheikh El GHAZOUANI (UPR) 52%, Biram Dah Ould ABEID (independent) 18.6%, Sidi Mohamed Ould BOUBACAR (independent) 17.9%, other 11.5%<br><br><em>2014</em>: Mohamed Ould Abdel AZIZ elected president in first round; percent of vote - Mohamed Ould Abdel AZIZ (UPR) 81.9%, Biram Dah ABEID (IRA) 8.7%, Boidiel Ould HOUMEIT (El Wiam) 4.5%, Ibrahima Moctar SARR (SJD/MR) 4.4%, other 0.5% <br>
+_election results_: <em><br>2019:</em> Mohamed Ould Cheikh El GHAZOUANI elected president in first round; percent of vote - Mahamed Ould Cheikh El GHAZOUANI (UPR) 52%, Biram Dah Ould ABEID (independent) 18.6%, Sidi Mohamed Ould BOUBACAR (independent) 17.9%, other 11.5%<br><br><em>2014:</em> Mohamed Ould Abdel AZIZ elected president in first round; percent of vote - Mohamed Ould Abdel AZIZ (UPR) 81.9%, Biram Dah ABEID (IRA) 8.7%, Boidiel Ould HOUMEIT (El Wiam) 4.5%, Ibrahima Moctar SARR (SJD/MR) 4.4%, other 0.5%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Barlamane consists of the National Assembly or Al Jamiya Al Wataniya (157 seats statutory, 153 current term; 113 members in single- and multi-seat constituencies directly elected by a combination of plurality and proportional representation voting systems, 40 members in a single, nationwide constituency directly elected by proportional representation vote (20 seats are reserved for women candidates in the nationwide constituency) , and 4 members directly elected by the diaspora; all members serve 5-year terms)<br>
@@ -682,8 +682,8 @@ _major seaport(s)_: Nouadhibou, Nouakchott<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Mauritanian Armed Forces (aka Armée Nationale Mauritanienne): National Army, National Navy (Marine Nationale), Mauritania Islamic Air Force; Gendarmerie (Ministry of Defense); Ministry of Interior and Decentralization: National Police, National Guard, General Group for Road Safety (2023)<br>
-<strong>note 1:</strong> the National Police is responsible for enforcing the law and maintaining order in urban areas, while the paramilitary Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas; the Gendarmerie is under the Ministry of Defense, but also supports the ministries of Interior and Justice<br><br><strong>note 2:</strong> the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; regional authorities may call upon the National Guard to restore civil order during riots and other large-scale disturbances <br><br><strong>note 3:</strong> the General Group for Road Safety maintains security on roads and operates checkpoints throughout the country<br>
+Mauritanian Armed Forces (aka Armée Nationale Mauritanienne): National Army, National Navy (Marine Nationale), Mauritania Islamic Air Force; Gendarmerie (Ministry of Defense)<br><br>Ministry of Interior and Decentralization: National Police, National Guard, General Group for Road Safety (2023)<br>
+<strong>note 1:</strong> the National Police are responsible for enforcing the law and maintaining order in urban areas, while the paramilitary Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas; the Gendarmerie is under the Ministry of Defense, but also supports the ministries of Interior and Justice<br><br><strong>note 2:</strong> the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; regional authorities may call upon the National Guard to restore civil order during riots and other large-scale disturbances <br><br><strong>note 3:</strong> the General Group for Road Safety maintains security on roads and operates checkpoints throughout the country<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2022 est.)<br>
@@ -696,7 +696,7 @@ Mauritanian Armed Forces (aka Armée Nationale Mauritanienne): National Army, Na
 approximately 16,000 active armed forces personnel (15,000 Army; 700 Navy; 300 Air Force); estimated 3,000 Gendarmerie; estimated 2,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is limited and made up largely of older French and Soviet-era equipment; in recent years, Mauritania has received a limited amount of mostly secondhand military equipment from a variety of suppliers, with China as the leading provider (2022)<br>
+the military's inventory is limited and made up largely of older French and Soviet-era equipment; in recent years, Mauritania has received small amounts of mostly secondhand military equipment from a variety of suppliers, with China as the leading provider (2023)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; no conscription (2022)<br>

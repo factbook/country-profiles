@@ -493,7 +493,7 @@ _major seaport(s)_: Gaza<br>
 ## Military and Security
 
 **Military and security forces**<br>
-HAMAS does not have a conventional military in the Gaza Strip but maintains security forces in addition to its military wing, the 'Izz al-Din al-Qassam Brigades; the military wing reports to the HAMAS Political Bureau; there are several other militant groups operating in the Gaza Strip, most notably the Al-Quds Brigades of Palestine Islamic Jihad, which are usually but not always beholden to HAMAS's authority (2022)<br>
+HAMAS does not have a conventional military in the Gaza Strip but maintains security forces in addition to its military wing, the 'Izz al-Din al-Qassam Brigades; the military wing reports to the HAMAS Political Bureau; there are several other militant groups operating in the Gaza Strip, most notably the Al-Quds Brigades of Palestine Islamic Jihad, which are usually but not always beholden to HAMAS's authority (2023)<br>
 
 **Military expenditures**<br>
 not available<br>

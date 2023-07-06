@@ -642,7 +642,7 @@ _LNG terminal(s) (export)_: Lumut<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Brunei Armed Forces: Land Force, Navy, Air Force, Joint Force; Ministry of Home Affairs: Royal Brunei Police Force  (2023)<br>
+Royal Brunei Armed Forces: Land Force, Navy, Air Force, Joint Force<br><br>Ministry of Home Affairs: Royal Brunei Police Force (2023)<br>
 <strong>note: </strong>the Gurkha Reserve Unit (GRU) under the Ministry of Defense is a special guard force for the Sultan, the royal family, and the country’s oil installations<br>
 
 **Military expenditures**<br>

@@ -693,7 +693,8 @@ _major seaport(s)_: Takoradi, Tema<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ghana Armed Forces: Army, Navy, Air Force; Ministry of the Interior: Ghana Police Service (2023)<br>
+Ghana Armed Forces: Army, Navy, Air Force (2023)<br>
+<strong>note:</strong> the Ghana Police Service is under the Ministry of the Interior<br>
 
 **Military expenditures**<br>
 0.4% of GDP (2022 est.)<br>

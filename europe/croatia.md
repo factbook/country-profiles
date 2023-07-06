@@ -710,7 +710,7 @@ the majority of the military's inventory consists of Soviet-era equipment, altho
 <strong>note:</strong> as of 2021, women comprised nearly 15% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-130 Kosovo (KFOR/NATO) (2022)<br>
+150 Kosovo (KFOR/NATO) (2023)<br>
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
@@ -722,7 +722,7 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Croatia joined the Schengen Zone on 1 January 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,115 (Ukraine) (as of 16 June 2023)<br>
+_refugees (country of origin)_: 23,305 (Ukraine) (as of 23 June 2023)<br>
 _stateless persons_: 2,889 (2022)<br>
 <strong>note: </strong>807,324 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 

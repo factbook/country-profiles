@@ -727,7 +727,7 @@ Jama&rsquo;at Nusrat al-Islam wal-Muslimin (JNIM)<br>
 <p><em>Senegal-Guinea-Bissau</em>: rebels from the Movement of Democratic Forces in the Casamance find refuge in Guinea-Bissau</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,501 (Mauritania) (2023)<br>
+_refugees (country of origin)_: 11,502 (Mauritania) (2023)<br>
 _IDPs_: 8,400 (2021)<br>
 
 **Trafficking in persons**<br>

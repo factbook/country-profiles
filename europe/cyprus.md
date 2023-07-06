@@ -612,7 +612,7 @@ _total subscriptions_: 1,320,794 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 149 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Cyprus suffered from the effects of the pandemic in 2020 and 2021, when the tourism sector was essentially closed; during 2022, there have been adverse effects caused by Russia&rsquo;s invasion of Ukraine, which has resulted in a dramatic drop in the number of Russian tourists entering the country; the mobile market is served by four mobile network operators; the number of mobile subscribers fell in 2020, largely the result of subscribers scaling back on multiple SIM cards as an economic measure; the broadband market continues to develop steadily, providing the country with one of the highest broadband penetration rates in the region; DSL remains the dominant access platform, accounting for about two-thirds of fixed broadband connections; although fiber infrastructure in Cyprus is minimal (supported by the government and regulator) to extend an FttP service to about 200,000 premises; as a result, the number of DSL subscribers is set to fall steadily in coming years as customers are migrated to the fiber platform (2021)<br>
+_general assessment_: Cyprus suffered from the effects of the pandemic in 2020 and 2021, when the tourism sector was essentially closed; during 2022, there were adverse effects caused by Russia&rsquo;s invasion of Ukraine, which has resulted in a dramatic drop in the number of Russian tourists entering the country; the mobile market is served by four mobile network operators; the number of mobile subscribers fell in 2020, largely the result of subscribers scaling back on multiple SIM cards as an economic measure; the broadband market continues to develop steadily, providing the country with one of the highest broadband penetration rates in the region; DSL remains the dominant access platform, accounting for about two-thirds of fixed broadband connections; although fiber infrastructure in Cyprus is minimal (supported by the government and regulator) to extend an FttP service to about 200,000 premises; as a result, the number of DSL subscribers is set to fall steadily in coming years as customers are migrated to the fiber platform (2023)<br>
 _domestic_: fixed-line about 34 per 100 and about 149 per 100 for mobile-cellular teledensity (2021)<br>
 _international_: country code - 357 (area administered by Turkish Cypriots uses the country code of Turkey - 90); a number of submarine cables, including the SEA-ME-WE-3, CADMOS, MedNautilus Submarine System, POSEIDON, TE North/TGN-Eurasia/SEACOM/Alexandros/Medes, UGARIT, Aphrodite2, Hawk, Lev Submarine System, and Tamares combine to provide connectivity to&nbsp;Europe, the Middle East, Africa, Asia, Australia, and Southeast Asia; Turcyos-1 and Turcyos-2 submarine cable in Turkish North Cyprus link to Turkey; tropospheric scatter; satellite earth stations - 8 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 2 Eutelsat, 2 Intersputnik, and 1 Arabsat) (2019)<br>
 
@@ -673,7 +673,7 @@ area administered by Turkish Cypriots: Famagusta, Kyrenia<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Cyprus: Cypriot National Guard (Ethniki Froura, EF; includes Army Land Forces, Naval Command, Air Command) (2022)<br>
+Republic of Cyprus: Cypriot National Guard (Ethniki Froura, EF; includes Army Land Forces, Naval Command, Air Command) (2023)<br>
 
 **Military expenditures**<br>
 2% of GDP (2022 est.)<br>
@@ -686,7 +686,7 @@ Republic of Cyprus: Cypriot National Guard (Ethniki Froura, EF; includes Army La
 approximately 13,000 total active duty personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of Soviet-era and some more modern weapons systems from several countries, including France, Israel, Russia, and Serbia (2023)<br>
+the military's inventory is a mix of mostly Soviet-era weapons and equipment along with some more modern systems from several countries, including France, Israel, Russia, and Serbia (2023)<br>
 
 **Military service age and obligation**<br>
 Cypriot National Guard (CNG): 18-50 years of age for compulsory military service for all Greek Cypriot males; 17 years of age for voluntary service; 14-month service obligation (2023)<br>

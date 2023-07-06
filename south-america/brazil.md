@@ -359,7 +359,7 @@ voluntary between 16 to 18 years of age, over 70, and if illiterate; compulsory 
 _chief of state_: President Luiz In&aacute;cio LULA da Silva (since 1 January 2023); Vice President Geraldo Jos&eacute; Rodrigues ALCKMIN Filho (since 1 January 2023); note - the president is both chief of state and head of government<br>
 _head of government_: President Luiz In&aacute;cio LULA da Silva (since 1 January 2023); Vice President Geraldo Jos&eacute; Rodrigues ALCKMIN Filho (since 1 January 2023)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a single 4-year term (eligible for an immediate second term, and additional terms after a one-term break); election last held on 2 October 2022 with runoff on 30 October 2022 (next to be held on 4 October 2026)<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a single consecutive term, and additional terms after at least one term has elapsed); election last held on 2 October 2022 with runoff on 30 October 2022 (next to be held on 4 October 2026)<br>
 _election results_: <p><em>2022: </em>Luiz Inácio LULA da Silva elected president in second round; percent of vote in first round - Luiz Inácio LULA da Silva (PT) 48.4%, Jair BOLSONARO (PSL) 43.2%, Simone Nassar TEBET (MDB) 4.2%, Ciro GOMES (PDT) 3%, other 1.2%; percent of vote in second round - Luiz Inácio LULA da Silva (PT) 50.9%, Jair BOLSONARO (PSL) 49.1%<em><br><br>2018: </em>Jair BOLSONARO elected president in second round; percent of vote in first round - Jair BOLSONARO (PSL) 46%, Fernando HADDAD (PT) 29.3%, Ciro GOMEZ (PDT) 12.5%, Geraldo ALCKMIN (PSDB) 4.8%, other 7.4%; percent of vote in second round - Jair BOLSONARO (PSL) 55.1%, Fernando HADDAD (PT) 44.9%</p><br>
 
 **Legislative branch**<br>
@@ -679,7 +679,11 @@ PP<br>
 4,093 (2021)<br>
 
 **Airports - with paved runways**<br>
-698<br>
+_total_: 698<br>
+_civil airports_: 35<br>
+_military airports_: 14<br>
+_joint use (civil-military) airports_: 17<br>
+_other airports_: 632<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
@@ -722,7 +726,8 @@ _dry bulk cargo port(s)_: Sepetiba ore terminal, Tubarao<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Brazilian Armed Forces (For&ccedil;as Armadas Brasileiras): Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy (Marinha do Brasil, MB, includes Naval Aviation (Aviacao Naval Brasileira) and Marine Corps (Corpo de Fuzileiros Navais)), Brazilian Air Force (Forca Aerea Brasileira, FAB) (2023)<br>
+Brazilian Armed Forces (Forças Armadas Brasileiras): Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy (Marinha do Brasil, MB, includes Naval Aviation (Aviacao Naval Brasileira) and Marine Corps (Corpo de Fuzileiros Navais)), Brazilian Air Force (Forca Aerea Brasileira, FAB) (2023)<br>
+<strong>note:</strong> Brazil's Federal Police are under the Minister of Justice and Public Security<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2022 est.)<br>

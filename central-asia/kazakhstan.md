@@ -702,7 +702,7 @@ _river port(s)_: Oskemen (Ust-Kamenogorsk), Pavlodar, Semey (Semipalatinsk) (Irt
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and Air Defense Forces; Ministry of Internal Affairs: National Police, National Guard; Committee for National Security (KNB): Border Guard Service (2023)<br>
+Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and Air Defense Forces<br><br>Ministry of Internal Affairs: National Police, National Guard; Committee for National Security (KNB): Border Guard Service (2023)<br>
 <strong>note:</strong> the National Guard is a gendarmerie type force administered by the Ministry of Internal Affairs, but also serves the Ministry of Defense; it is responsible for fighting crime, maintaining public order, and ensuring public safety; other duties include anti-terrorism operations, guarding prisons, riot control, and territorial defense in time of war<br>
 
 **Military expenditures**<br>
@@ -716,7 +716,7 @@ Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and A
 information varies; approximately 40,000 active duty personnel (25,000 Land Forces; 3,000 Naval Forces; 12,000 Air and Air Defense Forces) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Kazakh military's inventory is comprised of mostly older Russian and Soviet-era equipment; Russia continues to be the leading supplier of arms (2022)<br>
+the Kazakh military's inventory is comprised of mostly older Russian and Soviet-era equipment, and Russia continues to be the leading supplier of arms (2023)<br>
 
 **Military service age and obligation**<br>
 all men 18-27 are required to serve in the military for 12-24 months (2023)<br>

@@ -687,7 +687,7 @@ Armed Forces of the Kyrgyz Republic: Land Forces, Air Defense Forces, National G
 approximately 14,000 active-duty troops (8,500 Land Forces; 2,500 Air Force/Air Defense; 3,000 National Guard) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Kyrgyz military inventory is comprised of mostly older Russian and Soviet-era equipment; Kyrgyzstan relies on donations of military equipment, which come mostly from Russia under a 2013 agreement between Bishkek and Moscow (2022)<br>
+the Kyrgyz military inventory is comprised of mostly older Russian and Soviet-era equipment; Russia is the leading supplier of armaments (2023)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory or voluntary service for men in the Armed Forces or Interior Ministry; 12-month service obligation (9 months for university graduates), with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2023)<br>

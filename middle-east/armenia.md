@@ -335,8 +335,8 @@ _residency requirement for naturalization_: 3 years<br>
 _chief of state_: President Vahagn KHACHATURYAN (since 13 March 2022)<br>
 _head of government_: Prime Minister Nikol PASHINYAN (since 10 September 2021); Deputy Prime Ministers Mher GRIGORYAN (since 3 August 2021) and Tigran KHACHATRYAN (since 19 December 2022); note - Prime Minister Nikol PASHINYAN resigned on 25 April 2021 in advance of the 20 June 2021 parliamentary election; he was reappointed by the president on 2 August 2021 and sworn in on 10 September 2021<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
-_elections/appointments_: president indirectly elected by the National Assembly in 3 rounds if needed for a single 7-year term; election last held on 2-3 March 2022; prime minister elected by majority vote in 2 rounds if needed by the National Assembly; election last held 20 June 2021; the next parliamentary elections are expected to be held in Armenia by 2026<br>
-_election results_:   <em>2022: </em>Vahagn KHACHATURYAN elected president in second round; note - Vahagn KHACHATURYAN ran unopposed and won the Assembly vote 71-0<em><br><br>2018:</em> Armen SARKISSIAN elected president in first round; note - Armen SARKISSIAN ran unopposed and won the Assembly vote 90-10<br>
+_elections/appointments_: president indirectly elected by the National Assembly in 3 rounds if needed for a single 7-year term; election last held on 2-3 March 2022; prime minister indirectly elected by majority vote in 2 rounds if needed by the National Assembly<br>
+_election results_:   <em><br>2022: </em>Vahagn KHACHATURYAN elected president in second round; note - Vahagn KHACHATURYAN ran unopposed and won the Assembly vote 71-0<em><br>2018:</em> Armen SARKISSIAN elected president in first round; note - Armen SARKISSIAN ran unopposed and won the Assembly vote 90-10<br>
 <strong>note:</strong> Nikol PASHINYAN was first elected prime minister on 8 May 2018 and reelected on January 2019; in response to a political crisis that followed Armenia's defeat in the Second Nagorno-Karabakh War in late 2020, PASHINYAN called an early legislative election for June 2021; his party won the election and PASHINYAN was elected to the prime ministership for a third time; his election was confirmed by the president on 2 August 2021, and he was sworn in on 10 September 2021<br>
 
 **Legislative branch**<br>
@@ -644,7 +644,11 @@ EK<br>
 7 (2021)<br>
 
 **Airports - with paved runways**<br>
-10<br>
+_total_: 10<br>
+_civil airports_: 2<br>
+_military airports_: 0<br>
+_joint use (civil-military) airports_: 1<br>
+_other airports_: 7<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>

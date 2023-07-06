@@ -678,7 +678,7 @@ _by type_: bulk carrier 3, container ship 6, general cargo 151, oil tanker 57, o
 ## Military and Security
 
 **Military and security forces**<br>
-Mongolian Armed Forces (MAF): Mongolian Ground Force (aka General Purpose Troops), Air/Air Defense Force, Cyber Security, Special Forces, Civil Engineering, Civil Defense Forces (2022)<br>
+Mongolian Armed Forces (MAF): Mongolian Ground Force (aka General Purpose Troops), Mongolian Air/Air Defense Force, Cyber Security Forces, Special Forces, Civil Engineering Forces, Civil Defense Forces (2023)<br>
 <strong>note: </strong>the National Police Agency and the General Authority for Border Protection, which operate under the Ministry of Justice and Home Affairs, are primarily responsible for internal security; they are assisted by the General Intelligence Agency under the prime minister; the MAF assists the internal security forces in providing domestic emergency assistance and disaster relief<br>
 
 **Military expenditures**<br>
@@ -692,7 +692,7 @@ Mongolian Armed Forces (MAF): Mongolian Ground Force (aka General Purpose Troops
 information varies; approximately 9,000 active duty troops (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the MAF's inventory is comprised of Soviet-era equipment (2022)<br>
+the MAF's inventory is comprised of Soviet-era and Russian equipment (2023)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory and voluntary military service (can enter military schools at age 17); 12-month conscript service obligation for men in the army, air forces, or police (can be extended 3 months under special circumstances); conscription service can be exchanged for a 24‐month stint in the civil service or a cash payment determined by the Mongolian Government; after conscription, soldiers can contract into military service for 2 or 4 years; volunteer military service for men and women is 24 months, which can be extended for another two years up to the age of 31 (2023)<br>

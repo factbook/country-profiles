@@ -657,7 +657,7 @@ _major seaport(s)_: Cap-Haitien, Gonaives, Jacmel, Port-au-Prince<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in 2017; it established an Army command in 2018; Ministry of Justice and Public Security: Haitian National Police (Police Nationale d'Haïti or PNH) (2023)<br>
+the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in 2017; it established an Army command in 2018<br><br>Ministry of Justice and Public Security: Haitian National Police (Police Nationale d'Haïti or PNH) (2023)<br>
 <strong>note:</strong> the PNH is responsible for maintaining public security; it includes police, corrections, fire, emergency response, airport security, port security, and coast guard functions; its units include a presidential guard and a paramilitary rapid-response Motorized Intervention Unit or BIM  <p class="gmail-css-axufdj"> </p><br>
 
 **Military and security service personnel strengths**<br>

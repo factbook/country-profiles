@@ -643,7 +643,8 @@ _major seaport(s)_: Assab, Massawa<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Eritrean Defense Forces (EDF): Eritrean Ground Forces, Eritrean Navy, Eritrean Air Force (includes Air Defense Force); Hizbawi Serawit (aka People's Army or People's Militia) (2022)<br>
+Eritrean Defense Forces (EDF): Eritrean Ground Forces, Eritrean Navy, Eritrean Air Force (includes Air Defense Force); Hizbawi Serawit (aka People's Army or People's Militia) (2023)<br>
+<strong>note: </strong>police are responsible for maintaining internal security, but the government sometimes used the armed forces, reserves, demobilized soldiers, or civilian militia to meet domestic as well as external security requirements; the armed forces have authority to arrest and detain civilians<br>
 
 **Military expenditures**<br>
 10% of GDP (2019 est.)<br>
@@ -663,7 +664,7 @@ Eritrea mandates military service for all citizens between the ages of 18 and 40
 <strong>note:</strong> as of 2020, women were estimated to make up as much as 30% of the Eritrean military<br>
 
 **Military - note**<br>
-the EDF’s primary responsibilities are external defense, border security, and providing the regime a vehicle for national cohesion; the Army is the dominant service; it is a large, conscript-based force with an estimated 20 infantry divisions, as well as a division of commandos/special forces; the Air Force has a small number of Soviet-era combat aircraft and helicopters, while the Navy maintains a limited number of coastal patrol vessels <br><br>since the country's independence in 1991, the Eritrean military has participated in numerous conflicts, including the Hanish Island Crisis with Yemen (1995), the First Congo War (1996-1997), the Second Sudanese Civil War (1996-1998), the Eritrea-Ethiopia War (1998-2000), the Djiboutian-Eritrean border conflict (2008), and the Tigray conflict in Ethiopia (2020-2023) (2023)<br>
+the military’s primary responsibilities are external defense, border security, and providing the regime a vehicle for national cohesion; the Army is the dominant service; it is a large, conscript-based force and estimated to have more than 20 infantry divisions, including some that are mechanized, as well as a division of commandos/special forces; the Air Force has a small number of Soviet-era combat aircraft and helicopters, while the Navy maintains a limited number of coastal patrol vessels <br><br>since the country's independence in 1991, the Eritrean military has participated in numerous conflicts, including the Hanish Island Crisis with Yemen (1995), the First Congo War (1996-1997), the Second Sudanese Civil War (1996-1998), the Eritrea-Ethiopia War (1998-2000), the Djiboutian-Eritrean border conflict (2008), and the Tigray conflict in Ethiopia (2020-2023) (2023)<br>
 
 ## Transnational Issues
 

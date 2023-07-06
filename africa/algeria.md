@@ -340,7 +340,7 @@ _chief of state_: President Abdelmadjid TEBBOUNE (since 12 December 2019)<br>
 _head of government_: Prime Minister Ayman BENABDERRAHMANE (since 7 July 2021)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second term); election last held on 12 December 2019 (next to be held in 2024); prime minister nominated by the president after consultation with the majority party in Parliament<br>
-_election results_: <em>2019:</em> Abdelmadjid TEBBOUNE (FLN) 58.1%, Abdelkader BENGRINA (El-Bina) 17.4%, Ali BENFLIS (Talaie El Hurriyet) 10.6%, Azzedine MIHOUBI (National Democratic Rally, RND) 7.3%, Abdelaziz BELAID (Front El Mustakbal, FM) 6.7%<br><br><em>2014:</em> Abdelaziz BOUTEFLIKA reelected president for a fourth term; percent of vote - Abdelaziz BOUTEFLIKA (FLN) 81.5%, Ali BENFLIS (FLN) 12.2%, Abdelaziz BELAID (Future Front) 3.4%, other 2.9%<br>
+_election results_: <em><br>2019:</em> Abdelmadjid TEBBOUNE (FLN) 58.1%, Abdelkader BENGRINA (El-Bina) 17.4%, Ali BENFLIS (Talaie El Hurriyet) 10.6%, Azzedine MIHOUBI (National Democratic Rally, RND) 7.3%, Abdelaziz BELAID (Front El Mustakbal, FM) 6.7%<br><br><em>2014:</em> Abdelaziz BOUTEFLIKA reelected president for a fourth term; percent of vote - Abdelaziz BOUTEFLIKA (FLN) 81.5%, Ali BENFLIS (FLN) 12.2%, Abdelaziz BELAID (Future Front) 3.4%, other 2.9%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Council of the Nation or Majlis al-Umma (174 seats, statutory; 170 currently); two-thirds of members indirectly elected by simple majority vote by an electoral college composed of local assemblies within each wilaya, and one-third of members appointed by the president; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National People's Assembly or <small></small>al-Majlis al-Sha'abi al-Watani (407 seats, including 8 seats for Algerian diaspora); members directly elected in multi-seat constituencies by open-list proportional representation vote to serve 5-year terms); note - in March 2021, President TEBBOUNE ordered the number of Assembly seats be reduced to 407 from 462<br>
@@ -683,7 +683,7 @@ _LNG terminal(s) (export)_: Arzew, Bethioua, Skikda<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast Guard), Air Forces, Territorial Air Defense Forces, Republican Guard (under ANP but responsible to the President), National Gendarmerie; Ministry of Interior: General Directorate of National Security (national police) (2022)<br>
+Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast Guard), Air Forces, Territorial Air Defense Forces, Republican Guard (under ANP but responsible to the President), National Gendarmerie<br><br>Ministry of Interior: General Directorate of National Security (national police) (2023)<br>
 
 **Military expenditures**<br>
 4.8% of GDP (2022 est.)<br>

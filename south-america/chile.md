@@ -679,8 +679,8 @@ Chile operates one PC 5 or 6 class light icebreaker for operations in Antarctica
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chile), Chilean Navy (Armada de Chile, includes marine units and coast guard or Maritime Territory and Merchant Marine Directorate (Directemar)), Chilean Air Force (Fuerza Aerea de Chile, FACh); Ministry of the Interior and Public Security: Carabineros de Chile (National Police Force) (2023)<br>
-<strong>note:</strong> the Carabineros de Chile are responsible to both the Ministry of Defense and the Ministry of the Interior<br>
+Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chile), Chilean Navy (Armada de Chile, includes marine units and coast guard or Maritime Territory and Merchant Marine Directorate (Directemar)), Chilean Air Force (Fuerza Aerea de Chile, FACh) (2023)<br>
+<strong>note:</strong> the National Police Force (Carabineros de Chile) are responsible to both the Ministry of Defense and the Ministry of the Interior and Public Security<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2022 est.)<br>

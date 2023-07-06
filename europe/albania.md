@@ -647,7 +647,11 @@ ZA<br>
 3 (2021)<br>
 
 **Airports - with paved runways**<br>
-3<br>
+_total_: 3<br>
+_civil airports_: 0<br>
+_military airports_: 1<br>
+_joint use (civil-military) airports_: 1<br>
+_other airports_: 1<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Pipelines**<br>
@@ -673,7 +677,7 @@ _major seaport(s)_: Durres, Sarande, Shengjin, Vlore<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqipërisë (FARSH); aka Albanian Armed Forces): Land Forces, Naval Force (includes Coast Guard), Air Forces; Ministry of Interior: Guard of the Republic, State Police (includes the Border and Migration Police) (2023)<br>
+Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqipërisë (FARSH); aka Albanian Armed Forces): Land Forces, Naval Force (includes Coast Guard), Air Forces<br><br>Ministry of Interior: Guard of the Republic, State Police (includes the Border and Migration Police) (2023)<br>
 <strong>note:</strong> the State Police are primarily responsible for internal security, including counterterrorism, while the Guard of the Republic protects senior state officials, foreign dignitaries, and certain state properties<br>
 
 **Military expenditures**<br>

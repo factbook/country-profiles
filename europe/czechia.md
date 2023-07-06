@@ -682,7 +682,7 @@ Decin, Usti nad Labem (Elbe)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Czech Armed Forces: Land Forces; Air Forces; Cyber Forces; Special Forces (2022)<br>
+Czech Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2023)<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2022 est.)<br>

@@ -658,8 +658,8 @@ _major seaport(s)_: Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'A
 ## Military and Security
 
 **Military and security forces**<br>
-Kuwaiti Armed Forces (KAF): Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Authority; Kuwaiti National Guard (KNG); Ministry of Interior: police, Kuwait State Security, Coast Guard (2023)<br>
-<strong>note 1:</strong> the Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the 25th Commando Brigade is Kuwait's leading special forces unit; the Emiri Guard Authority (aka Emiri Guard Brigade) is responsible for protecting Kuwait's heads of state<br><br><strong>note 2:</strong> the Kuwaiti National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br>
+Kuwaiti Armed Forces (KAF): Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Authority; Kuwaiti National Guard (KNG) (2023)<br>
+<strong>note 1:</strong> the Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the 25th Commando Brigade is Kuwait's leading special forces unit; the Emiri Guard Authority (aka Emiri Guard Brigade) is responsible for protecting Kuwait's heads of state<br><br><strong>note 2:</strong> the Kuwaiti National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br><br><strong>note 3:</strong> the police, Kuwait State Security, and Coast Guard are under the Ministry of Interior<br>
 
 **Military expenditures**<br>
 6.8% of GDP (2021 est.)<br>
@@ -672,7 +672,7 @@ Kuwaiti Armed Forces (KAF): Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air
 approximately 17,000 active duty armed forces personnel (12,500 Army, including the Amiri Guard and 25th Commando Brigade; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of weapons from a wide variety of sources, including Western Europe, Russia, and the US; the US has been the leading supplier of arms to Kuwait (2022)<br>
+the military's inventory consists of weapons from a wide variety of sources, including Western Europe, Russia, and the US; the US has been the leading supplier of arms to Kuwait (2023)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service; Kuwait reintroduced 12-month mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; mandatory service is divided in two phases – 4 months for training and 8 months for military service; women were allowed to volunteer in 2021 (2023)<br>

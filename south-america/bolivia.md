@@ -353,7 +353,7 @@ _residency requirement for naturalization_: 3 years<br>
 _chief of state_: President Luis Alberto ARCE Catacora (since 8 November 2020); Vice President David CHOQUEHUANCA Cespedes (since 8 November 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Luis Alberto ARCE Catacora (since 8 November 2020); Vice President David CHOQUEHUANCA Cespedes (since 8 November 2020)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot one of 3 ways: candidate wins at least 50% of the vote, or at least 40% of the vote and 10% more than the next highest candidate; otherwise a second round is held and the winner determined by simple majority vote; president and vice president are elected by majority vote to serve a 5-year term; no term limits (changed from two consecutive term limit by Constitutional Court in late 2017); election last held on 18 October 2020 (next to be held in October 2025)<br>
+_elections/appointments_: president and vice president directly elected on the same ballot one of 3 ways: candidate wins at least 50% of the vote, or at least 40% of the vote and 10% more than the next highest candidate; otherwise a second round is held and the winner determined by simple majority vote; president and vice president are elected by majority vote to serve a 5-year term; no term limits (changed from two-consecutive-term limit by Constitutional Court in late 2017); election last held on 18 October 2020 (next to be held in October 2025)<br>
 _election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected president; percent of vote - Luis Alberto ARCE Catacora (MAS) 55.1%; Carlos Diego MESA Gisbert (CC) 28.8%; Luis Fernando CAMACHO Vaca (Creemos) 14%; other 2.1%<br><br><em>2019:</em> Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4%; note - MORALES resigned from office on 10 November 2019 over alleged election rigging; resignations of all his constitutionally designated successors followed, including the Vice President, President of the Senate, President of the Chamber of Deputies, and First Vice President of the Senate, leaving the Second Vice President of the Senate, Jeanine ANEZ Chavez, the highest-ranking official still in office; her appointment to the presidency was endorsed by Bolivia's Constitutional Court, and she served as interim president until the 8 November 2020 inauguration of Luis Alberto ARCE Catacora, who was winner of the 18 October 2020 presidential election<br>
 
 **Legislative branch**<br>
@@ -668,7 +668,11 @@ CP<br>
 855 (2021)<br>
 
 **Airports - with paved runways**<br>
-21<br>
+_total_: 21<br>
+_civil airports_: 3<br>
+_military airports_: 1<br>
+_joint use (civil-military) airports_: 4<br>
+_other airports_: 13<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
@@ -701,7 +705,7 @@ _river port(s)_: Puerto Aguirre (Paraguay/Parana)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bolivian Armed Forces (Fuerzas Armadas de Bolivia or FAB): Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval Force (Fuerza Naval Boliviana, FNB), Bolivian Air Force (Fuerza Aerea Boliviana, FAB); Ministry of Government: National Police (Policía Nacional de Bolivia, PNB) (2022)<br>
+Bolivian Armed Forces (Fuerzas Armadas de Bolivia or FAB): Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval Force (Fuerza Naval Boliviana, FNB), Bolivian Air Force (Fuerza Aerea Boliviana, FAB)<br><br>Ministry of Government: National Police (Policía Nacional de Bolivia, PNB) (2023)<br>
 <strong>note:</strong> the PNB includes two paramilitary forces, the Anti-Narcotics Special Forces (Fuerza Especial de Lucha Contra el Narcotráfico, FELCN) and the Anti-Terrorist Group (GAT); the PNB is part of the reserves for the Armed Forces; the police and military share responsibility for border enforcement<br>
 
 **Military expenditures**<br>

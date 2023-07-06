@@ -676,8 +676,8 @@ _oil terminal(s)_: Acajutla offshore terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of El Salvador (Ejercito de El Salvador, ES), Navy of El Salvador (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aerea Salvadorena, FAS); Ministry of Justice and Public Security: National Civil Police (Policia Nacional Civil, PNC) (2023)<br>
-<strong>note:</strong> in 2016, El Salvador created a combined Army commando and National Civil Police unit to combat criminal gang violence<br>
+the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of El Salvador (Ejercito de El Salvador, ES), Navy of El Salvador (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aerea Salvadorena, FAS) (2023)<br>
+<strong>note:</strong> the National Civil Police (Policia Nacional Civil, PNC) are under the Ministry of Justice and Public Safety; in 2016, El Salvador created a combined Army commando and PNC unit to combat criminal gang violence<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2022 est.)<br>

@@ -666,8 +666,8 @@ _lake port(s)_: Bujumbura (Lake Tanganyika)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Defense Force of Burundi (Force de Defense Nationale du Burundi or FDNB): Land Force (Force Terrestre), the Navy Force (Force Marine), the Air Force (Force Aerienne) and Specialized Units (Unites Specialisees); Ministry of Interior, Community Development, and Public Security: National Police (Police Nationale du Burundi) (2023)<br>
-<strong>note:</strong> the Specialized Units include a special security brigade for the protection of institutions (aka BSPI) and military police<br>
+National Defense Force of Burundi (Force de Defense Nationale du Burundi or FDNB): Land Force (Force Terrestre), the Navy Force (Force Marine), the Air Force (Force Aerienne) and Specialized Units (Unites Specialisees) (2023)<br>
+<strong>note 1:</strong> the Specialized Units include a special security brigade for the protection of institutions (aka BSPI) and military police<br><br><strong>note 2:</strong> the Burundi National Police (Police Nationale du Burundi) are under the Ministry of Interior, Community Development, and Public Security<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2022 est.)<br>

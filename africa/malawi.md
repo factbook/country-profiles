@@ -679,8 +679,8 @@ _lake port(s)_: Chipoka, Monkey Bay, Nkhata Bay, Nkhotakota, Chilumba (Lake Nyas
 ## Military and Security
 
 **Military and security forces**<br>
-Malawi Defense Force (MDF): Army (includes maritime force), Air Force (established as a separate service August 2019; previously was an air wing under the Army); Ministry of Homeland Security: Malawi Police Service (2023)<br>
-<strong>note:</strong> the MDF reports directly to the president as commander in chief; the Malawi Ministry of Defense was abolished in 2011<br>
+Malawi Defense Force (MDF): Army (includes maritime force), Air Force (2023)<br>
+<strong>note:</strong> the MDF reports directly to the president as commander in chief; the Malawi Ministry of Defense was abolished in 2011; the Malawi Police Service is under the Ministry of Homeland Security<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2022 est.)<br>
@@ -693,7 +693,7 @@ Malawi Defense Force (MDF): Army (includes maritime force), Air Force (establish
 information varies; approximately 8,000 active duty troops (including about 500 air and marine forces personnel) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the MDF's inventory is comprised of mostly obsolescent or second-hand equipment from China, a few European countries, and South Africa (2022)<br>
+the MDF's inventory is comprised of mostly obsolescent or secondhand equipment originating from such countries as France and South Africa; in recent years, it has received small amounts of armaments from a few countries, including China (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for men and women for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2022)<br>
@@ -710,7 +710,7 @@ the MDF’s primary responsibility is external security; it is also tasked as ne
 <p><em>Malawi-Mozambique</em>: the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Malawi-Tanzania</em>: dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p> <p><em>Malawi-Zambia</em>: border demarcation was completed in 2011; in 2018, the redemarcation exercise determined that some parts of Malawi actually belonged to Zambia</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 32,891 (Democratic Republic of the Congo) (refugees and asylum seekers) 10,895 (Burundi) (refugees and asylum seekers), 6,466 (Rwanda) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 32,891 (Democratic Republic of the Congo) (refugees and asylum seekers) 10,953 (Burundi) (refugees and asylum seekers), 6,488 (Rwanda) (refugees and asylum seekers) (2023)<br>
 
 **Illicit drugs**<br>
 NA<br>

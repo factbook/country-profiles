@@ -680,7 +680,7 @@ _by type_: general cargo 1 (2022)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Air Force, Self-Defense Militia Forces; Ministry of Public Security (2023)<br>
+Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Air Force, Self-Defense Militia Forces (2023)<br>
 <strong>note:</strong> the Ministry of Public Security maintains internal security and is responsible for law enforcement; it oversees local, traffic, immigration, and security police, village police auxiliaries, and other armed police units<br>
 
 **Military expenditures**<br>
@@ -694,7 +694,7 @@ Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Forc
 information is limited and estimates vary; approximately 30,000 active duty troops (26,000 Army; 4,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LPAF is armed largely with Soviet-era weapons; in recent years, China and Russia have been the leading suppliers of military equipment to Laos (2022)<br>
+the LPAF is armed largely with Soviet-era weapons; in recent years, China and Russia have been the leading suppliers of military equipment to Laos (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for compulsory or voluntary military service; minimum 18-month service obligation (2023)<br>

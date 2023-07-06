@@ -665,7 +665,7 @@ _river port(s)_: Cork (Lee), Waterford (Suir)<br>
 
 **Military and security forces**<br>
 Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Reserve Defense Forces (2023)<br>
-<strong>note:</strong> An Garda Siochana (or Garda) is the national police force and maintains internal security under the auspices of the Department of Justice <br>
+<strong>note:</strong> An Garda Siochana (or Garda) is the national police force and maintains internal security under the auspices of the Department of Justice<br>
 
 **Military expenditures**<br>
 0.3% of GDP (2022)<br>
@@ -685,7 +685,7 @@ the Irish Defense Forces have a small inventory of imported weapons systems from
 <strong>note:</strong> as of 2021, women made up about 7% of the military's full-time personnel<br><br><strong>note 2:</strong> the Defense Forces are open to refugees under the Refugee Act of 1996 and nationals of the European Economic Area, which include EU member states, Iceland, Liechtenstein, and Norway<br>
 
 **Military deployments**<br>
-130 Golan Heights (UNDOF); 340 Lebanon (UNIFIL) (2023)<br>
+130 Golan Heights (UNDOF); 325 Lebanon (UNIFIL) (2023)<br>
 
 **Military - note**<br>
 <p>the Irish Defense Forces trace their origins back to the Irish Volunteers, a unit established in 1913; the Irish Volunteers took part in the 1916 Easter Rising and the Irish War of Independence, 1919-1921</p> <p>Ireland has a long-standing policy of military neutrality; however, it participates in international peacekeeping and humanitarian operations, as well as crisis management; Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO but has a relationship going back to 1997 when it deployed personnel in support of the NATO-led peacekeeping operations in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; Ireland has been an active participant in UN peacekeeping operations since the 1950s</p> (2023)<br>
@@ -702,7 +702,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 85,790 (Ukraine) (as of 18 June 2023)<br>
+_refugees (country of origin)_: 86,575 (Ukraine) (as of 26 June 2023)<br>
 _stateless persons_: 7 (2022)<br>
 
 **Illicit drugs**<br>

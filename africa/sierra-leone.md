@@ -342,12 +342,12 @@ _chief of state_: President Julius Maada BIO (since 28 June 2023); Vice Presiden
 _head of government_: President Julius Maada BIO (since 28 June 2023); Vice President Mohamed Juldeh JALLOH (since 28 June 2023)<br>
 _cabinet_: Ministers of State appointed by the president, approved by Parliament; the cabinet is responsible to the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 June 2023 (next to be in 2028)<br>
-_election results_: <p><em>2023: </em>Julius Maada BIO elected president in first round; percent of vote - Julius Maada BIO (SLPP) 56.1%, Samura KAMARA (APC) 41.1%<em><br><br>2018: </em>Julius Maada BIO elected president in second round; percent of vote - Julius Maada BIO (SLPP) 51.8%, Samura KAMARA (APC) 48.2%<br><br></p><br>
+_election results_: <p><em>2023: </em>Julius Maada BIO elected president in first round; percent of vote - Julius Maada BIO (SLPP) 56.1%, Samura KAMARA (APC) 41.1%<em><br>2018: </em>Julius Maada BIO elected president in second round; percent of vote - Julius Maada BIO (SLPP) 51.8%, Samura KAMARA (APC) 48.2%<br><br></p><br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (146 seats; 132 members directly elected in single-seat constituencies by a district block proportional representation vote and 14 seats filled in separate elections by non-partisan members of Parliament called "paramount chiefs;" members serve 5-year terms)<br>
-_elections_: last held on 24 June 2023 (next to be held in 2024)<br>
-_election results_: percent of vote by party - n/a; seats by party - APC 68, SLPP 49, C4C 8, other 7; composition as of May 2023 - men 127, women 19, percent of women 13%<br>
+_elections_: last held on 24 June 2023 (next to be held in 2028)<br>
+_election results_: percent of vote by party - n/a; seats by party - APC 68, SLPP 49, C4C 8, other 7; composition - NA<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Superior Court of Judicature (consists of the Supreme Court - at the apex - with the chief justice and 4 other judges, the Court of Appeal with the chief justice and 7 other judges, and the High Court of Justice with the chief justice and 9 other judges); note &ndash; the Judicature has jurisdiction in all civil, criminal, and constitutional matters<br>

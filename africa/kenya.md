@@ -708,7 +708,7 @@ Kenya Defense Forces (KDF): Kenya Army, Kenya Navy, Kenya Air Force (2023)<br>
 approximately 24,000 personnel (20,000 Army; 1,500 Navy; 2,500 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the KDF's inventory traditionally carried mostly older or second-hand Western weapons systems, particularly from France, the UK, and the US; however, since the 2000s it has sought to modernize and diversify its imports, and suppliers have included more than a dozen countries including China, Italy, and the US (2022)<br>
+the KDF's inventory traditionally carried mostly older or second-hand Western weapons systems, particularly from France, the UK, and the US; however, since the 2000s it has sought to modernize and diversify its imports, and suppliers have included several countries including China, Italy, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 no conscription; 18-26 years of age for male and female voluntary service (under 18 with parental consent; upper limit 30 years of age for specialists, tradesmen, or women with a diploma; 39 years of age for chaplains/imams); 9-year service obligation (7 years for Kenyan Navy) and subsequent 3-year re-enlistments; applicants must be Kenyan citizens (2022)<br>

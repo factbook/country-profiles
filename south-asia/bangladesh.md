@@ -349,15 +349,15 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Mohammad Shahabuddin CHUPPI (since 24 April 2023); CHUPPI ran unopposed<br>
+_chief of state_: President Mohammad Shahabuddin CHUPPI (since 24 April 2023)<br>
 _head of government_: Prime Minister Sheikh HASINA Wazed (since 6 January 2009)<br>
 _cabinet_: Cabinet selected by the prime minister, appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); election last held on 7 February 2018 (next to be held by 2023); the president appoints as prime minister the majority party leader in the National Parliament<br>
-_election results_: <em>2018:</em> President Abdul HAMID (AL) reelected by the National Parliament unopposed for a second term; Sheikh HASINA reappointed prime minister as leader of the majority AL party following parliamentary elections in 2018<br>
+_elections/appointments_: president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); election last held on 13 February 2023 (next to be held by 2028); the president appoints as prime minister the majority party leader in the National Parliament<br>
+_election results_: <em>2023:</em> President Abdul HAMID (AL) reelected by the National Parliament unopposed for a second term; Sheikh HASINA reappointed prime minister as leader of the majority AL party following parliamentary election in 2023<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the elected members by proportional representation vote using single transferable vote; all members serve 5-year terms)<br>
-_elections_: last held on 30 December 2018 (next to be held in December 2023)<br>
+_elections_: last held on 30 December 2018 (next to be held in January 2024)<br>
 _election results_: percent of vote by party - NA; seats by party as of February 2022 - AL 299, JP 27, BNP 7, other 10, independent 7; composition - men 277, women 73, percent of women 20.9%<br>
 
 **Judicial branch**<br>
@@ -671,7 +671,11 @@ S2<br>
 18 (2021)<br>
 
 **Airports - with paved runways**<br>
-16<br>
+_total_: 16<br>
+_civil airports_: 1<br>
+_military airports_: 2<br>
+_joint use (civil-military) airports_: 2<br>
+_other airports_: 11<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
@@ -709,7 +713,7 @@ _river port(s)_: Mongla Port (Sela River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bangladesh Navy, Bangladesh Air Force; Ministry of Home Affairs: Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion (RAB), Ansars, Village Defense Party (VDP) (2023)<br>
+Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bangladesh Navy, Bangladesh Air Force<br><br>Ministry of Home Affairs: Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion (RAB), Ansars, Village Defense Party (VDP) (2023)<br>
 <strong>note 1: </strong>the Armed Forces of Bangladesh are jointly administered by the Ministry of Defense (MOD) and the Armed Forces Division (AFD), both under the Prime Minister's Office; the AFD has ministerial status and parallel functions with MOD; the AFD is a joint coordinating headquarters for the three services and also functions as a joint command center during wartime; to coordinate policy, the prime minister and the president are advised by a six-member board, which includes the three service chiefs of staff, the principal staff officer of the AFD, and the military secretaries to the prime minister and president<br><br><strong>note 2: </strong>the RAB, Ansars, and VDP are paramilitary organizations for internal security; the RAB is a joint task force founded in 2004 and composed of members of the police, Army, Navy, Air Force, and Border Guards seconded to the RAB from their respective units; its mandate includes internal security, intelligence gathering related to criminal activities, and government-directed investigations<br>
 
 **Military expenditures**<br>

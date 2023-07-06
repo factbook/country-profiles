@@ -665,7 +665,11 @@ D<br>
 539 (2021)<br>
 
 **Airports - with paved runways**<br>
-318<br>
+_total_: 318<br>
+_civil airports_: 49<br>
+_military airports_: 21<br>
+_joint use (civil-military) airports_: 6<br>
+_other airports_: 242<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
@@ -730,7 +734,7 @@ the German Federal Armed Forces inventory is comprised of weapons systems produc
 <strong>note:</strong> women have been eligible for voluntary service in all military branches and positions since 2001 and account for about 12% of the German military<br>
 
 **Military deployments**<br>
-up to 500 Iraq (NATO); 1,000 Lithuania (NATO); approximately 1,100 Mali (MINUSMA/EUTM); 280 Slovakia (NATO) (2022)<br>
+up to 500 Iraq (NATO); up to 1,400 Lithuania (NATO); approximately 1,100 Mali (MINUSMA/EUTM); 280 Slovakia (NATO) (2023)<br>
 <strong>note 1: </strong>in November 2022, Germany pledged to withdraw its troops from Mali by Spring 2024<br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
@@ -748,7 +752,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 948,440 (Ukraine) (as of 4 June 2023)<br>
+_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 958,590 (Ukraine) (as of 25 June 2023)<br>
 _stateless persons_: 28,941 (2022)<br>
 
 **Illicit drugs**<br>

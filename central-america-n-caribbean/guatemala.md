@@ -684,7 +684,8 @@ _major seaport(s)_: Puerto Quetzal, Santo Tomas de Castilla<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Army of Guatemala (Ejercito de Guatemala; aka Armed Forces of Guatemala or Fuerzas Armadas de Guatemala): Land Forces (Fuerzas de Tierra), Naval Forces (Fuerzas de Mar), and Air Force (Fuerza de Aire); Ministry of Government (Interior): National Civil Police (Policia Nacional Civil or PNC) (2023)<br>
+Army of Guatemala (Ejercito de Guatemala; aka Armed Forces of Guatemala or Fuerzas Armadas de Guatemala): Land Forces (Fuerzas de Tierra), Naval Forces (Fuerzas de Mar), and Air Force (Fuerza de Aire) (2023)<br>
+<strong>note:</strong> the National Civil Police (Policia Nacional Civil or PNC) are under the Ministry of Government (Interior)<br>
 
 **Military expenditures**<br>
 0.5% of GDP (2022 est.)<br>

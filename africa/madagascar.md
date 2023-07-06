@@ -663,8 +663,8 @@ _major seaport(s)_: Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (T
 ## Military and Security
 
 **Military and security forces**<br>
-Madagascar People's Armed Forces (PAF): Army, Navy, Air Force; Ministry of Defense: National Gendarmerie; Ministry of Public Security: National Police (2022)<br>
-<strong>note: </strong>the National Gendarmerie is separate from the PAF and is responsible for maintaining law and order in rural areas at the village level, protecting government facilities, and operating a maritime police contingent; the National Police is responsible for maintaining law and order in urban areas<br>
+Madagascar People's Armed Forces (PAF): Army, Navy, Air Force; National Gendarmerie (2023)<br>
+<strong>note: </strong>the National Gendarmerie is separate from the PAF under the Ministry of Defense and is responsible for maintaining law and order in rural areas at the village level, protecting government facilities, and operating a maritime police contingent; the National Police under the Ministry of Security is responsible for maintaining law and order in urban areas<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2022 est.)<br>
@@ -677,7 +677,7 @@ Madagascar People's Armed Forces (PAF): Army, Navy, Air Force; Ministry of Defen
 approximately 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); estimated 10,000 Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PAF's inventory consists mostly of aging Soviet-era equipment; in recent years, it has received limited amounts of secondhand equipment from France, South Africa, and the UAE (2022)<br>
+the PAF's inventory consists mostly of aging Soviet-era equipment; in recent years, it has received small amounts of secondhand equipment from South Africa and the UAE (2023)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for men and women; service obligation 18 months; no conscription; women are permitted to serve in all branches (2022)<br>

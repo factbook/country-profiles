@@ -652,8 +652,8 @@ _unpaved_: 4,549 km (2017)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Army of the Republic of North Macedonia (ARSM): includes a General Staff and subordinate Operations Command, Logistic Support Command, Training and Doctrine Command, Center for Electronic Reconnaissance, Aviation Brigade, and Honor Guard Battalion (2023)<br>
-<strong>note:</strong> the Operations Command includes air, ground, special operations, support, and reserve forces<br>
+Army of the Republic of North Macedonia (ARSM): the ARSM is a joint force with air, ground, reserve, special operations, and support forces (2023)<br>
+<strong>note: </strong>the Police of Macedonia maintain internal security, including migration and border enforcement, and report to the Ministry of the Interior<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2022 est.)<br>
@@ -663,7 +663,7 @@ Army of the Republic of North Macedonia (ARSM): includes a General Staff and sub
 0.9% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,000 active duty personnel (2022)<br>
+approximately 6,000 active-duty personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists mostly of Soviet-era equipment, although in recent years it has received small amounts of more modern equipment from countries such as Turkey and the US (2022)<br>
@@ -689,7 +689,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 6,768 (Ukraine) (as of 8 May 2023)<br>
 _stateless persons_: 521 (2022)<br>
-<strong>note:</strong> 554,747 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
+<strong>note:</strong> 554,793 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

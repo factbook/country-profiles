@@ -682,8 +682,8 @@ _LNG terminal(s) (import)_: Klaipeda<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos Pajegos), Naval Forces (Karines Juru Pajegos), Air Forces (Karines Oro Pajegos), Special Operations Forces (Specialiuju Operaciju Pajegos); National Defense Volunteer Forces (Krašto Apsaugos Savanorių Pajegos or KASP); National Riflemen's Union (2023)<br>
-<strong>note: </strong>the National Rifleman's Union is a paramilitary force that acts as an additional reserve force<br>
+Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos Pajegos), Naval Forces (Karines Juru Pajegos), Air Forces (Karines Oro Pajegos), Special Operations Forces (Specialiuju Operaciju Pajegos); National Defense Volunteer Forces (Krašto Apsaugos Savanorių Pajegos or KASP); National Riflemen's Union (Lietuvos šaulių sąjunga) (2023)<br>
+<strong>note 1: </strong>the National Rifleman's Union is a civilian paramilitary organization supported by the Lithuanian Government that cooperates with the military but is not part of it; however, in a state of war, its armed formations would fall under the armed forces<br><br><strong>note 2:</strong> the Lithuanian Police and State Border Guard Service are under the Ministry of Interior; in wartime, the State Border Guard Service becomes part of the armed forces<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2022 est.)<br>
@@ -693,10 +693,10 @@ Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos 
 2% of GDP (2018) (approximately $1.59 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 17,000 active duty personnel (13,500 Army, including about 5,000 National Defense Voluntary Forces; 500 Navy; 1,000 Air Force; 2,000 other, including special operations forces, logistics support, training, etc); estimated 11,000 Riflemen Union (2022)<br>
+approximately 16,000 personnel (12,500 Army, including about 5,000 National Defense Voluntary Forces and 2,500 conscripts); 500 Navy; 1,000 Air Force; 2,000 other, including special operations forces, logistics support, training, etc) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of Soviet-era and more modern European and US equipment (2022)<br>
+the military's inventory is a mix of Soviet-era and more modern European and US equipment; Germany and the US have been the leading suppliers in recent years (2023)<br>
 
 **Military service age and obligation**<br>
 19-26 years of age for conscripted military service for men; 9-month service obligation; in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; 18-38 for voluntary service for men and women (2023)<br>

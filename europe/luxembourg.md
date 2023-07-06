@@ -663,7 +663,8 @@ _river port(s)_: Mertert (Moselle)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Luxembourg Army (l'Arm&eacute;e Luxembourgeoise) (2023)<br>
+Luxembourg Army (l'Armée Luxembourgeoise) (2023)<br>
+note: the Grand Ducal Police maintain internal security and report to the Ministry of Internal Security<br>
 
 **Military expenditures**<br>
 0.6% of GDP (2022 est.)<br>
@@ -680,7 +681,7 @@ the inventory of Luxembourg's Army is a small mix of Western origin equipment (2
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service for men and women; no conscription (abolished 1969) (2023)<br>
-<strong>note 1: </strong>since 2003, the Army has allowed EU citizens 18-24 years of age who have been a resident in the country for at least 36 months to volunteer<strong><br><br>note 2:</strong> as of 2019, women made up about 8% of the military's full-time personnel<br>
+<strong>note 1: </strong>since 2003, the Army has allowed EU citizens 18-24 years of age who have been a resident in the country for at least 36 months to volunteer<strong><br><br>note 2:</strong> 2023, women made up about 12% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Luxembourg is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries (2023)<br>

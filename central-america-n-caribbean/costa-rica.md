@@ -678,7 +678,7 @@ Pacific Ocean - Caldera<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Public Security: the Public Force (Fuerza Pública (National Police)), Air Surveillance Service (Servicio de Vigilancia Aérea), National Coast Guard Service (Servicio Nacional de Guardacostas), Border Police (Policia de Fronteras); Ministry of Presidency: Directorate of Intelligence and Security (DIS), Special Intervention Unit (UEI) (2022)<br>
+no regular military forces; Ministry of Public Security: the Public Force (Fuerza Pública (National Police)), Air Surveillance Service (Servicio de Vigilancia Aérea), National Coast Guard Service (Servicio Nacional de Guardacostas), Border Police (Policia de Fronteras); Ministry of Presidency: Directorate of Intelligence and Security (DIS), Special Intervention Unit (UEI) (2023)<br>
 <strong>note:</strong> Costa Rica's armed forces were constitutionally abolished in 1949<br>
 
 **Military expenditures**<br>

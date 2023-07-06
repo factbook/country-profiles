@@ -647,7 +647,8 @@ _major seaport(s)_: Grundartangi, Hafnarfjordur, Reykjavik<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Interior: Icelandic Coast Guard (includes both air and maritime elements); Icelandic National Police (2023)<br>
+no regular military forces; the Icelandic National Police, the nine regional police forces, and the Icelandic Coast Guard fall under the purview of the Ministry of Justice (2023)<br>
+<strong>note:</strong> the Icelandic Coast Guard is responsible for operational defense tasks in Iceland including but not limited to operation of Keflavik Air Base, special security zones, and Iceland's air defense systems<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Icelandic Coast Guard's inventory consists of equipment from mostly European suppliers (2023)<br>

@@ -681,8 +681,8 @@ _LNG terminal(s) (import)_: Andres LNG terminal (Boca Chica)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito de la Republica Dominicana, ERD), Navy (Armada de República Dominicana or ARD; includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD); Ministry of Interior: National Police (Policia Nacional) (2023)<br>
-<strong>note:</strong> in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation (CESAC), Port Security Authority (CESEP), the Tourist Security Corps (CESTUR), and Border Security Corps (CESFRONT); these specialized corps are made up of military and civilian personnel and assist the National Police <br>
+Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito de la Republica Dominicana, ERD), Navy (Armada de República Dominicana or ARD; includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD) (2023)<br>
+<strong>note 1:</strong> in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation (CESAC), Port Security Authority (CESEP), the Tourist Security Corps (CESTUR), and Border Security Corps (CESFRONT); these specialized corps are made up of military and civilian personnel and assist the National Police, which is under the Ministry of Interior<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2022 est.)<br>

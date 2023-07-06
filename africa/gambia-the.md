@@ -664,8 +664,8 @@ _major seaport(s)_: Banjul<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Gambian Armed Forces (GAF): the Gambian National Army (GNA), Gambia Navy, Gambia Air Force, Republican National Guard; Ministry of Interior: Gambia Police Force (2023)<br>
-<strong>note: </strong>the National Guard is responsible for VIP protection, riot control, and presidential security; the Gambia Police Force maintains internal security<br>
+Gambian Armed Forces (GAF): the Gambian National Army (GNA), Gambia Navy, Gambia Air Force, Republican National Guard (2023)<br>
+<strong>note: </strong>the National Guard is responsible for VIP protection, riot control, and presidential security; the Gambia Police Force under the Ministry of Interior maintains internal security<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2022 est.)<br>

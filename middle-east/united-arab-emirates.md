@@ -608,7 +608,7 @@ _domestic_: fixed-line is 24 per 100 and mobile-cellular is 190 per 100 (2021)<b
 _international_: country code - 971;&nbsp;landing points for the&nbsp;FLAG, SEA-ME-WE-3&nbsp;,-4 &amp; -5, Qater UAE&nbsp;Submarine Cable System, FALCON, FOG, Tat TGN-Gulf, OMRAN/EPEG Cable System, AAE-1, BBG, EIG, FEA, GBICS/MENA, IMEWE, Orient Express, TEAMS, TW1 and the UAE-Iran submarine cables, linking to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian) (2020)<br>
 
 **Broadcast media**<br>
-except for the many organizations now operating in media free zones in Abu Dhabi and Dubai, most TV and radio stations remain government-owned; widespread use of satellite dishes provides access to pan-Arab and other international broadcasts; restrictions since June 2017 on some satellite channels and websites originating from or otherwise linked to Qatar (2018)<br>
+except for the many organizations now operating in media free zones in Abu Dhabi and Dubai, most TV and radio stations remain government-owned; widespread use of satellite dishes provides access to pan-Arab and other international broadcasts; restrictions since June 2017 on some satellite channels and websites originating from or otherwise linked to Qatar, but in early 2023 Abu Dhabi unblocked several sites, including Al Jazeera (2022)<br>
 
 **Internet country code**<br>
 .ae<br>

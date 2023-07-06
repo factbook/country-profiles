@@ -612,7 +612,7 @@ _urban_: 437 km (2017)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Bhutan Army (includes Royal Bodyguard and an air wing); National Militia; Ministry of Home and Cultural Affairs: Royal Bhutan Police (2023)<br>
+Royal Bhutan Army (includes Royal Bodyguard and an air wing); National Militia<br><br>Ministry of Home and Cultural Affairs: Royal Bhutan Police (2023)<br>
 
 **Military and security service personnel strengths**<br>
 the Royal Bhutan Army has an estimated 8,000 personnel (2022)<br>
