@@ -671,15 +671,15 @@ _LNG terminal(s) (import)_: Sines<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps), Portuguese Air Force (Forca Aerea Portuguesa, FAP); National Republican Guard (Guarda Nacional Republicana, GNR) (2023)<br>
-<strong>note:</strong> the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to the Ministry of Internal Administration and to the Ministry of National Defense; in the event of war or crisis, it may be placed under the Chief of the General Staff of the Armed Forces; the GNR has law enforcement jurisdiction in rural areas, while the Public Security Police (also under the Ministry of Internal Administration) has jurisdiction in cities<br>
+Portuguese Armed Forces (Forças Armadas): Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps, aka Corpo de Fuzileiros or Corps of Fusiliers), Portuguese Air Force (Forca Aerea Portuguesa, FAP); National Republican Guard (Guarda Nacional Republicana, GNR) (2023)<br>
+<strong>note:</strong> the Ministries of Internal Administration and Justice have primary responsibility for internal security; the Ministry of Internal Administration oversees the Foreigners and Borders Service, Public Security Police, and GNR; the Foreigners and Borders Service has jurisdiction over immigration and border matters, the Public Security Police has jurisdiction in cities, and the GNR has jurisdiction in rural areas; the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to both the Ministry of Internal Administration and to the Ministry of National Defense; it is not part of the Armed Forces, but may be placed under the operational command of the Chief of the General Staff of the Armed Forces in the event of a national emergency; the GNR describes itself as a hinge between the Armed Forces and the police forces and other security services<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2023 est.)<br>
 1.4% of GDP (2022 est.)<br>
-1.6% of GDP (2021)<br>
+1.5% of GDP (2021)<br>
 1.4% of GDP (2020)<br>
 1.4% of GDP (2019)<br>
-1.3% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2023)<br>
@@ -692,8 +692,8 @@ the military's inventory includes mostly European- and US-origin weapons systems
 <strong>note: </strong>as of 2019, women made up about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-200 Central African Republic (MINUSCA/EUTM); up to 150 Lithuania (NATO); approximately 170 Romania (2022)<br>
-<strong>note 1: </strong>in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission<br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Portugal, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br><strong>note 3: </strong>Portugal also participates in several NATO maritime and air policing operations, as well as some EU international missions<br>
+200 Central African Republic (MINUSCA/EUTM); approximately 200 Lithuania (NATO); approximately 230 Romania (NATO) (2023)<br>
+<strong>note 1: </strong>in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission<br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Portugal, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br><br><strong>note 3: </strong>Portugal also participates in several NATO maritime and air policing operations, as well as some EU international missions<br>
 
 **Military - note**<br>
 Portugal is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949 (2023)<br>
@@ -710,7 +710,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Portugal-Spain</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 58,275 (Ukraine) (as of 4 June 2023)<br>
+_refugees (country of origin)_: 56,995 (Ukraine) (as of 4 June 2023)<br>
 _stateless persons_: 55 (2022)<br>
 
 **Illicit drugs**<br>

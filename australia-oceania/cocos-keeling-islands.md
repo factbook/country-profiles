@@ -200,7 +200,7 @@ see Australia<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General of the Commonwealth of Australia General David HURLEY (since 1 July 2019)<br>
-_head of government_: Acting Administrator Sarah VANDENBROEK (since 4 October 2022)<br>
+_head of government_: Administrator Ms. Farzian ZAINAL (since 11 May 2023)<br>
 _cabinet_: NA<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the Australian prime minister; administrator appointed by the governor general for a 2-year term and represents the monarch and Australia<br>
 

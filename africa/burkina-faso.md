@@ -549,9 +549,10 @@ _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 22% (2019)<br>
-_electrification - urban areas_: 69% (2019)<br>
-_electrification - rural areas_: 2% (2019)<br>
+_population without electricity_: (2020) 16 million<br>
+_electrification - total population_: 18.9% (2021)<br>
+_electrification - urban areas_: 67.6% (2021)<br>
+_electrification - rural areas_: 4.7% (2014)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 392,000 kW (2020 est.)<br>
@@ -685,7 +686,7 @@ Armed Forces of Burkina Faso ((FABF; aka National Armed Forces (FAN), aka Defens
 
 **Military and security service personnel strengths**<br>
 approximately 14,000 personnel (8,500 Army; 500 Air Force; 5,000 National Gendarmerie) (2023)<br>
-<strong>note: </strong>in 2022, the Burkina Faso Government announced a special recruitment for up to 6,000 additional soldiers to assist with its fight against terrorist groups operating in the country; it also put out a recruitment call for up to 50,000 VDF volunteers (the VDF's original recruited strength was 15,000)<br><strong><br><br></strong><br>
+<strong>note: </strong>in 2022, the Burkina Faso Government announced a special recruitment for up to 6,000 additional soldiers to assist with its fight against terrorist groups operating in the country; it also put out a recruitment call for up to 100,000 VDF volunteers (the VDF's original recruited strength was 15,000)<br><strong><br><br></strong><br>
 
 **Military equipment inventories and acquisitions**<br>
 the FABF has a mix of mostly older or secondhand equipment from a mix of suppliers, including France, Russia, South Africa, Turkey, the UK, and the US (2023)<br>

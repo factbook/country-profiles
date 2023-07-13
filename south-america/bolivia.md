@@ -564,9 +564,10 @@ _Currency_: bolivianos (BOB) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 93% (2019)<br>
-_electrification - urban areas_: 99.3% (2019)<br>
-_electrification - rural areas_: 79% (2019)<br>
+_population without electricity_: (2020) 2 million<br>
+_electrification - total population_: 98.5% (2021)<br>
+_electrification - urban areas_: 100% (2021)<br>
+_electrification - rural areas_: 95.1% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 3.834 million kW (2020 est.)<br>

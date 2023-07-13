@@ -396,7 +396,7 @@ $658.352 million (31 December 2019 est.)<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2018)<br>
+_electrification - total population_: 100% (2021)<br>
 <strong>note:</strong> data for Gaza Strip and West Bank combined<br>
 
 **Electricity**<br>

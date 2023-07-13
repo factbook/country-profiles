@@ -681,11 +681,11 @@ Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqip�
 <strong>note:</strong> the State Police are primarily responsible for internal security, including counterterrorism, while the Guard of the Republic protects senior state officials, foreign dignitaries, and certain state properties<br>
 
 **Military expenditures**<br>
-1.6% of GDP (2022 est.)<br>
+1.8% of GDP (2023 est.)<br>
+1.2% of GDP (2022 est.)<br>
 1.4% of GDP (2021)<br>
 1.3% of GDP (2020)<br>
 1.5% of GDP (2019)<br>
-1.3% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 7,000 total active duty personnel (5,000 Army; 1,500 Navy; 500 Air Force) (2022)<br>
@@ -713,7 +713,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 1,948 (2022)<br>
-<strong>note:</strong> 44,396 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
+<strong>note:</strong> 45,082 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis and an active transshipment point for Albanian narco-trafficking organizations moving illicit drugs into European markets</p><br>

@@ -410,6 +410,11 @@ raw materials for canneries, food, petroleum products, machinery and parts<br>
 
 ## Energy
 
+**Electricity access**<br>
+_electrification - total population_: 59% (2020)<br>
+_electrification - urban areas_: 60% (2020)<br>
+_electrification - rural areas_: 45% (2020)<br>
+
 **Electricity**<br>
 _installed generating capacity_: 47,000 kW (2020 est.)<br>
 _consumption_: 151 million kWh (2019 est.)<br>

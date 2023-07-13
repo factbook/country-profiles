@@ -579,7 +579,7 @@ _Currency_: Renminbi yuan (RMB) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 2,217,925,000 kW (2020 est.)<br>

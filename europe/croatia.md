@@ -552,7 +552,7 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 4.94 million kW (2020 est.)<br>
@@ -693,11 +693,11 @@ Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH)
 <strong>note:</strong> the Ministry of the Interior is responsible for internal security, including law enforcement (Croatia Police) and border security<br>
 
 **Military expenditures**<br>
-1.9% of GDP (2022 est.)<br>
-2.2% of GDP (2021)<br>
+1.8% of GDP (2023 est.)<br>
+1.8% of GDP (2022 est.)<br>
+2% of GDP (2021)<br>
 1.7% of GDP (2020)<br>
 1.6% of GDP (2019)<br>
-1.6% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 15,000 active-duty personnel (10,000 Army; 1,500 Navy; 1,500 Air force; 2,000 joint/other) (2022)<br>
@@ -722,9 +722,9 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Croatia joined the Schengen Zone on 1 January 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,305 (Ukraine) (as of 23 June 2023)<br>
+_refugees (country of origin)_: 22,550 (Ukraine) (as of 30 June 2023)<br>
 _stateless persons_: 2,889 (2022)<br>
-<strong>note: </strong>807,324 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
+<strong>note: </strong>813,368 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine destined for European markets</p> <p> </p><br>

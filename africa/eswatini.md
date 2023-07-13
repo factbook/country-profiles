@@ -522,9 +522,10 @@ _Currency_: emalangeni per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 90% (2019)<br>
-_electrification - urban areas_: 98% (2019)<br>
-_electrification - rural areas_: 87% (2019)<br>
+_population without electricity_: (2020) less than 1 million<br>
+_electrification - total population_: 82.9% (2021)<br>
+_electrification - urban areas_: 94.5% (2021)<br>
+_electrification - rural areas_: 79.1% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 286,000 kW (2020 est.)<br>

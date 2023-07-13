@@ -678,9 +678,9 @@ National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszem
 <strong>note: </strong>the armed forces, the Defense Intelligence and Security Service, the Constitution Protection Bureau, and the National Guard are subordinate to the Ministry of Defense; the State Police, State Border Guards, and State Security Service are under the Ministry of Interior; the State Border Guard may become part of the armed forces during an emergency<br>
 
 **Military expenditures**<br>
-2.25% of GDP (2023 est.)<br>
+2.3% of GDP (2023 est.)<br>
 2.1% of GDP (2022 est.)<br>
-2.2% of GDP (2021)<br>
+2.1% of GDP (2021)<br>
 2.2% of GDP (2020)<br>
 2% of GDP (2019)<br>
 

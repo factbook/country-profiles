@@ -547,9 +547,10 @@ _Currency_: Guinean francs (GNF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 46% (2019)<br>
-_electrification - urban areas_: 84% (2019)<br>
-_electrification - rural areas_: 24% (2019)<br>
+_population without electricity_: (2020) 7 million<br>
+_electrification - total population_: 46.8% (2021)<br>
+_electrification - urban areas_: 89.8% (2021)<br>
+_electrification - rural areas_: 21.2% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 992,000 kW (2020 est.)<br>

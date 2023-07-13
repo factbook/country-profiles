@@ -535,7 +535,7 @@ _Currency_: Danish kroner (DKK) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 17.655 million kW (2020 est.)<br>
@@ -678,11 +678,11 @@ Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Dan
 <strong>note:</strong> the Danish military maintains a joint service Arctic Command with the mission of protecting the sovereignty of the Kingdom of Denmark in the Arctic Region, including the Faroe Islands and Greenland; the command also conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, hydrographical surveys, and provides support to governmental science missions<br>
 
 **Military expenditures**<br>
+1.7% of GDP (2023 est.)<br>
 1.4% of GDP (2022 est.)<br>
 1.4% of GDP (2021)<br>
 1.4% of GDP (2020)<br>
 1.3% of GDP (2019)<br>
-1.3% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 17,000 active-duty personnel (10,000 Army; 3,500 Navy; 3,500 Air Force) (2023)<br>
@@ -713,6 +713,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 42,325 (Ukraine) (as of 21 May 2023)<br>
+_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 41,305 (Ukraine) (as of 29 May 2023)<br>
 _stateless persons_: 11,644 (2022)<br>
 

@@ -535,7 +535,7 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 21.545 million kW (2020 est.)<br>
@@ -676,11 +676,11 @@ Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National G
 <strong>note 1:</strong> the police (under the Ministry of Citizen Protection) and the armed forces (Ministry of National Defense) share law enforcement duties in certain border areas; border protection is coordinated by a deputy minister for national defense; the Greek Coast Guard is under the Ministry of Shipping Affairs and Island Policy<br><br><strong>note 2:</strong> the National Guard was established in 1982 as an official part of the Army to help protect Greece and provide reinforcements and support to the Army in peacetime and in times of mobilization and war; members undergo weekly training run by the Army, which also provides weapons and ammunition<br>
 
 **Military expenditures**<br>
-3.6% of GDP (2022 est.)<br>
-3.6% of GDP (2021)<br>
+3% of GDP (2023 est.)<br>
+3.9% of GDP (2022 est.)<br>
+3.7% of GDP (2021)<br>
 2.9% of GDP (2020)<br>
-2.3% of GDP (2019)<br>
-2.5% of GDP (2018)<br>
+2.5% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 125,000 active duty personnel (90,000 Army; 15,000 Navy; 20,000 Air Force); approximately 35,000 National Guard (2022)<br>
@@ -711,9 +711,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 <p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 24,985 (Ukraine) (as of 30 April 2023)<br>
+_refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 23,780 (Ukraine) (as of 30 April 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,240,020 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
+<strong>note:</strong> 1,241,248 estimated refugee and migrant arrivals (January 2015-July 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

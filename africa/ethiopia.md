@@ -580,9 +580,10 @@ _Currency_: birr (ETB) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 47% (2019)<br>
-_electrification - urban areas_: 96% (2019)<br>
-_electrification - rural areas_: 34% (2019)<br>
+_population without electricity_: (2020) 59 million<br>
+_electrification - total population_: 54.1% (2021)<br>
+_electrification - urban areas_: 94.3% (2019)<br>
+_electrification - rural areas_: 42.7% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 4.856 million kW (2020 est.)<br>
@@ -651,7 +652,7 @@ _total subscriptions_: 65 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 54 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: has been one of the last in Africa to allow its national telco a monopoly on all telecom services including fixed, mobile, internet and data communications; this has stifled innovation, restricted network expansion, and limited the scope of services on offer; the World Bank in early 2021 provided a $200 million loan to help develop the country&rsquo;s digital transformation, while the government has embarked on its 2020-2030 program as well as its Digital Ethiopia 2025 strategy, both aimed at making better use of digital technologies to promote socioeconomic development (2021)<br>
+_general assessment_: Ethio telecom is the major provider, but no longer has a complete monopoly on all telecom services; the World Bank in early 2021 provided a $200 million loan to help develop the country&rsquo;s digital transformation, while the government has embarked on its 2020-2030 program as well as its Digital Ethiopia 2025 strategy, both aimed at making better use of digital technologies to promote socioeconomic development (2023)<br>
 _domestic_: fixed-line subscriptions less than 1 per 100 while mobile-cellular stands at a little over 54 per 100 people (2021)<br>
 _international_: country code - 251; open-wire to Sudan and Djibouti; microwave radio relay to Kenya and Djibouti; 2 domestic satellites provide the national trunk service; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Pacific Ocean) (2016)<br>
 

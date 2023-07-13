@@ -264,7 +264,7 @@ see the Netherlands<br>
 _chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor Lucille A. GEORGE-WOUT (since 4 November 2013)<br>
 _head of government_: Prime Minister Gilmar PISAS (since 14 June 2021)<br>
 _cabinet_: Cabinet sworn-in by the governor<br>
-_elections/appointments_: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually elected prime minister by the Parliament of Curacao; last election 19 March 2021 (next to be held in 2025)<br>
+_elections/appointments_: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually elected prime minister by the Parliament of Curacao; election last&nbsp;held on 19 March 2021 (next to be held in 2025)<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament of Curacao (21 seats; members directly elected by party-list proportional representation vote to serve 4-year terms)<br>

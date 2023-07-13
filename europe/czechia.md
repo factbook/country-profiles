@@ -542,7 +542,7 @@ _Currency_: koruny (CZK) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 22.485 million kW (2020 est.)<br>
@@ -685,11 +685,11 @@ Decin, Usti nad Labem (Elbe)<br>
 Czech Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2023)<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2022 est.)<br>
+1.5% of GDP (2023 est.)<br>
+1.3% of GDP (2022 est.)<br>
 1.4% of GDP (2021)<br>
 1.3% of GDP (2020)<br>
 1.2% of GDP (2019)<br>
-1.1% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 26,000 active personnel (20,000 Army; 6,000 Air Force) (2022)<br>
@@ -715,7 +715,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 528,045 (Ukraine) (as of 18 June 2023)<br>
+_refugees (country of origin)_: 533,490 (Ukraine) (as of 2 July 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

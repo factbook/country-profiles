@@ -541,7 +541,7 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 3.03 million kW (2020 est.)<br>
@@ -682,11 +682,11 @@ Estonia operates two PC 5 or 6 class icebreakers in the Baltic Sea<br>note - PC 
 Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (Reserves)<br><br>Ministry of Interior: Police, Border Guard Board, Internal Security Service (2023)<br>
 
 **Military expenditures**<br>
-2.3% of GDP (2022 est.)<br>
-2.2% of GDP (2021)<br>
-2.4% of GDP (2020)<br>
+2.7% of GDP (2023 est.)<br>
+2.2% of GDP (2022 est.)<br>
+2% of GDP (2021)<br>
+2.3% of GDP (2020)<br>
 2% of GDP (2019)<br>
-2% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 7,000 active-duty personnel; approximately 15,000 Defense League (2023)<br>

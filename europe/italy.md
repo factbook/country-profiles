@@ -695,11 +695,11 @@ Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italia
 <strong>note 1:</strong> the National Police and Carabinieri (gendarmerie or military police) maintain internal security; the National Police reports to the Ministry of Interior while the Carabinieri reports to the Ministry of Defense but is also under the coordination of the Ministry of Interior; the Carabinieri is primarily a domestic police force organized along military lines, with some overseas responsibilities<br><br><strong>note 2:</strong> the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
 
 **Military expenditures**<br>
-1.5% of GDP (2022)<br>
-1.5% of GDP (2021)<br>
+1.5% of GDP (2023 est.)<br>
+1.5% of GDP (2022 est.)<br>
+1.6% of GDP (2021)<br>
 1.6% of GDP (2020)<br>
 1.2% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 108,000 Carabinieri (2022)<br>
@@ -730,9 +730,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 175,107 (Ukraine) (as of 19 May 2023)<br>
+_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 183,685 (Ukraine) (as of 2 June 2023)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 757,022 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
+<strong>note:</strong> 767,851 estimated refugee and migrant arrivals (January 2015-July 2023)<br>
 
 **Illicit drugs**<br>
 <p>important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe</p><br>

@@ -496,9 +496,9 @@ _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dolla
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 67% (2019)<br>
-_electrification - urban areas_: 75% (2019)<br>
-_electrification - rural areas_: 45% (2019)<br>
+_electrification - total population_: 66.7% (2021)<br>
+_electrification - urban areas_: 90.3% (2021)<br>
+_electrification - rural areas_: 47% (2020)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 349,000 kW (2020 est.)<br>

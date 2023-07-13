@@ -706,8 +706,8 @@ _LNG terminal(s) (export)_: Bonny Island<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Nigerian Armed Forces: Army, Navy (includes Coast Guard), Air Force; Ministry of Interior: Nigeria Security and Civil Defense Corps (NSCDC) (2023)<br>
-<strong>note 1: </strong>the NSCDC a paramilitary agency commissioned to assist the military in the management of threats to internal security, including attacks and natural disasters<br><br><strong>note 2:</strong> the Office of the National Security Advisor is responsible for coordinating all security and enforcement agencies, including the Department of State Security (DSS), the NSCDC, the Ministry of Justice, and the Nigeria Police Force (NPF); border security responsibilities are shared among the NPF, the DSS, the NSCDC, Customs, Immigration, and the Nigerian military<br><br><strong>note 3: </strong>some states have created local security forces in response to increased violence, insecurity, and criminality that have exceeded the response capacity of government security forces<br>
+<p>Nigerian Armed Forces: Army, Navy (includes Coast Guard), Air Force<br><br>Ministry of Interior: Nigeria Security and Civil Defense Corps (NSCDC), Nigeria Police Force (NPF)</p> (2023)<br>
+<strong>note 1: </strong>the NSCDC a paramilitary agency commissioned to assist the military in the management of threats to internal security, including attacks and natural disasters<br><br><strong>note 2:</strong> the Office of the National Security Advisor is responsible for coordinating all security and enforcement agencies, including the Department of State Security (DSS), the NSCDC, the Ministry of Justice, and the NPF; border security responsibilities are shared among the NPF, the DSS, the NSCDC, Customs, Immigration, and the Nigerian military<br><br><strong>note 3: </strong>some states have created local security forces in response to increased violence, insecurity, and criminality that have exceeded the response capacity of government security forces<br>
 
 **Military expenditures**<br>
 0.6% of GDP (2022 est.)<br>
@@ -720,7 +720,7 @@ Nigerian Armed Forces: Army, Navy (includes Coast Guard), Air Force; Ministry of
 information varies; approximately 135,000 active-duty armed forces personnel (100,000 Army; 20,000 Navy/Coast Guard; 15,000 Air Force); approximately 80,000 Security and Civil Defense Corps (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; the military is undergoing a considerable modernization program, and in recent years has received equipment from some 20 countries with China, Russia, and the US as the leading suppliers; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2023)<br>
+the military's inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; the military is undergoing a considerable modernization program, and in recent years has received equipment from nearly 20 countries with China and Russia as the leading suppliers; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2023)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for men and women for voluntary military service; no conscription (2022)<br>

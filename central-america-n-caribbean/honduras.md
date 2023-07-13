@@ -540,9 +540,10 @@ _Currency_: lempiras (HNL) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 81% (2019)<br>
-_electrification - urban areas_: 91% (2019)<br>
-_electrification - rural areas_: 68% (2019)<br>
+_population without electricity_: (2020) 1 million<br>
+_electrification - total population_: 94.1% (2021)<br>
+_electrification - urban areas_: 100% (2021)<br>
+_electrification - rural areas_: 85.6% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 3.991 million kW (2020 est.)<br>

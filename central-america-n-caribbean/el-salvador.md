@@ -539,9 +539,10 @@ _Currency_: <strong>note:</strong> the US dollar is used as a medium of exchange
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 97% (2019)<br>
-_electrification - urban areas_: 99% (2019)<br>
-_electrification - rural areas_: 93% (2019)<br>
+_population without electricity_: (2020) less than 1 million<br>
+_electrification - total population_: 97.8% (2021)<br>
+_electrification - urban areas_: 99.2% (2021)<br>
+_electrification - rural areas_: 94% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 2.586 million kW (2020 est.)<br>

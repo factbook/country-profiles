@@ -511,9 +511,10 @@ _Currency_: nakfa (ERN) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 47% (2019)<br>
-_electrification - urban areas_: 95% (2019)<br>
-_electrification - rural areas_: 13% (2019)<br>
+_population without electricity_: (2020) 3 million<br>
+_electrification - total population_: 52.5% (2021)<br>
+_electrification - urban areas_: 75.6% (2019)<br>
+_electrification - rural areas_: 35.7% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 228,000 kW (2020 est.)<br>
@@ -582,12 +583,12 @@ _total subscriptions_: 1.8 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 50 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Eritrea&rsquo;s telecom sector operates under a state-owned monopoly for fixed and mobile services; as a result of such restrictions on competition, the country has the least developed telecommunications market in Africa; mobile penetration stands at only about 20%, while fixed-line internet use barely registers; this is exacerbated by the very low use of computers, with only about 4% of households having a computer, and most of these being in the capital, Asmara; the 3G network continues to rollout which provides basic internet access to the majority or Eritreans; investment in telecom infrastructure is still required to improve the quality of services; the government has embarked on a work program to do exactly that, specifically aimed at extending services to remote areas, improving the quality of services, and ensuring that more telecoms infrastructure is supported by solar power to compensate for the poor state of the electricity network; additional foreign investment in telecom infrastructure, as well as introduction of more competition, would help transform what remains a virtually untapped market (2022)<br>
+_general assessment_: Eritrea&rsquo;s telecom sector operates under a state-owned monopoly for fixed and mobile services; as a result of such restrictions on competition, the country has the least developed telecommunications market in Africa; mobile penetration stands at only about 20%, while fixed-line internet use barely registers; this is exacerbated by the very low use of computers, with only about 4% of households having a computer, and most of these being in the capital, Asmara; the 3G network continues to rollout which provides basic internet access to the majority of Eritreans; investment in telecom infrastructure is still required to improve the quality of services; the government has embarked on a work program to do exactly that, specifically aimed at extending services to remote areas, improving the quality of services, and ensuring that more telecoms infrastructure is supported by solar power to compensate for the poor state of the electricity network (2022)<br>
 _domestic_: fixed-line subscribership is less than 2 per 100 persons and mobile-cellular is just over 50 per 100 (2021)<br>
 _international_: country code - 291 (2019)<br>
 
 **Broadcast media**<br>
-government controls broadcast media with private ownership prohibited; 1 state-owned TV station; state-owned radio operates 2 networks; purchases of satellite dishes and subscriptions to international broadcast media are permitted (2019)<br>
+government controls broadcast media with private ownership prohibited; 1 state-owned TV station; 2 state-owned radio networks; purchases of satellite dishes and subscriptions to international broadcast media are permitted (2023)<br>
 
 **Internet country code**<br>
 .er<br>

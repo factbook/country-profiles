@@ -541,7 +541,7 @@ _Currency_: laris (GEL) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 4.579 million kW (2020 est.)<br>
@@ -704,7 +704,7 @@ Russian troops continue to occupy the breakaway regions of Abkhazia and South Os
 <p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 24,182 (Ukraine) (as of 6 April 2023)<br>
+_refugees (country of origin)_: 24,180 (Ukraine) (as of 9 May 2023)<br>
 _IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2021)<br>
 _stateless persons_: 530 (2022)<br>
 

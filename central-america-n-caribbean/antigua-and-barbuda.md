@@ -326,7 +326,7 @@ _chief of mission_: Ambassador Sir Ronald SANDERS (since 17 September 2015)<br>
 _chancery_: 3216 New Mexico Ave. NW, Washington, DC 20016<br>
 _telephone_: [1] (202) 362-5122<br>
 _FAX_: [1] (202) 362-5225<br>
-_email address and website_: <br>embantbar@aol.com<br>
+_email address and website_: <br>embantbar@aol.com<br><br>https://www.antigua-barbuda.org/Aghome01.htm<br><br>
 _consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -482,7 +482,7 @@ _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 117,000 kW (2020 est.)<br>

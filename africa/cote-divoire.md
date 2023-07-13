@@ -351,10 +351,10 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Alassane Dramane OUATTARA (since 4 December 2010); Vice President Ti&eacute;moko Meyliet KONE (since 19 April 2022); note - Vice President Ti&eacute;moko Meyliet KONE was appointed by President Alassane Dramane OUATTARA before a Congressional meeting on 19 April 2022<br>
+_chief of state_: President Alassane Dramane OUATTARA (since 4 December 2010); Vice President Ti&eacute;moko Meyliet KONE (since 19 April 2022); note - Vice President Ti&eacute;moko Meyliet KONE appointed by President Alassane Dramane OUATTARA before a Congressional meeting on 19 April 2022<br>
 _head of government_: Prime Minister Patrick ACHI (since 19 April 2022); note - Prime Minister ACHI resigned on 13 April 2022 and was reappointed by President Alassane Dramane OUATTARA before a Congressional meeting on 19 April 2022<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term ; election last held on 31 October 2020 (next to be held in 2025); vice president elected on same ballot as president; prime minister appointed by the president; note &ndash; because President OUATTARA promulgated the new constitution in 2016, he has claimed that the clock is reset on term limits, allowing him to run for up to two additional terms<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term; election last held on 31 October 2020 (next to be held in 2025); vice president elected on same ballot as president; prime minister appointed by the president; note &ndash; because President OUATTARA promulgated the new constitution in 2016, he has claimed that the clock is reset on term limits, allowing him to run for up to two additional terms<br>
 _election results_: <p><em>2020: </em>Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7%</p> <p><em>2015: </em>Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 83.7%, Pascal Affi N'GUESSAN (FPI) 9.3%, Konan Bertin KOUADIO (independent) 3.9%, other 3.1% </p><br>
 
 **Legislative branch**<br>
@@ -556,9 +556,10 @@ _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 76% (2019)<br>
-_electrification - urban areas_: 99% (2019)<br>
-_electrification - rural areas_: 51% (2019)<br>
+_population without electricity_: (2020) 6 million<br>
+_electrification - total population_: 71.1% (2021)<br>
+_electrification - urban areas_: 94.9% (2021)<br>
+_electrification - rural areas_: 45.1% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 2.197 million kW (2020 est.)<br>

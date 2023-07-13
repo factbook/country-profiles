@@ -533,9 +533,10 @@ _Currency_: gourdes (HTG) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 39% (2019)<br>
-_electrification - urban areas_: 60% (2019)<br>
-_electrification - rural areas_: 12% (2019)<br>
+_population without electricity_: (2020) 7 million<br>
+_electrification - total population_: 47.1% (2021)<br>
+_electrification - urban areas_: 81.8% (2021)<br>
+_electrification - rural areas_: 3% (2020)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 3.453 million kW (2020 est.)<br>

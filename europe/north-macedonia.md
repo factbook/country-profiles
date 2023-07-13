@@ -656,17 +656,17 @@ Army of the Republic of North Macedonia (ARSM): the ARSM is a joint force with a
 <strong>note: </strong>the Police of Macedonia maintain internal security, including migration and border enforcement, and report to the Ministry of the Interior<br>
 
 **Military expenditures**<br>
+1.9% of GDP (2023 est.)<br>
 1.6% of GDP (2022 est.)<br>
 1.5% of GDP (2021)<br>
-1.3% of GDP (2020)<br>
+1.2% of GDP (2020)<br>
 1.2% of GDP (2019)<br>
-0.9% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 6,000 active-duty personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists mostly of Soviet-era equipment, although in recent years it has received small amounts of more modern equipment from countries such as Turkey and the US (2022)<br>
+the military's inventory consists mostly of Soviet-era equipment, although in recent years it has received small amounts of more modern equipment from countries such as Turkey and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished in 2007 (2023)<br>
@@ -687,9 +687,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,768 (Ukraine) (as of 8 May 2023)<br>
+_refugees (country of origin)_: 7,620 (Ukraine) (as of 11 June 2023)<br>
 _stateless persons_: 521 (2022)<br>
-<strong>note:</strong> 554,793 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
+<strong>note:</strong> 556,191 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

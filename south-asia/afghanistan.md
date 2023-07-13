@@ -541,9 +541,9 @@ _Currency_: afghanis (AFA) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 99% (2018)<br>
-_electrification - urban areas_: 100% (2018)<br>
-_electrification - rural areas_: 98% (2018)<br>
+_electrification - total population_: 97.7% (2021)<br>
+_electrification - urban areas_: 99.5% (2021)<br>
+_electrification - rural areas_: 97% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 776,000 kW (2020 est.)<br>

@@ -547,9 +547,9 @@ _Currency_: pulas (BWP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 59% (2019)<br>
-_electrification - urban areas_: 71% (2019)<br>
-_electrification - rural areas_: 29% (2019)<br>
+_electrification - total population_: 73.7% (2021)<br>
+_electrification - urban areas_: 93% (2021)<br>
+_electrification - rural areas_: 24.9% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 766,000 kW (2020 est.)<br>

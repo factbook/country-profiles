@@ -557,9 +557,10 @@ _Currency_: cedis (GHC) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 85% (2019)<br>
-_electrification - urban areas_: 93% (2019)<br>
-_electrification - rural areas_: 75% (2019)<br>
+_population without electricity_: (2020) 5 million<br>
+_electrification - total population_: 86.3% (2021)<br>
+_electrification - urban areas_: 95.2% (2021)<br>
+_electrification - rural areas_: 74% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 5.312 million kW (2020 est.)<br>

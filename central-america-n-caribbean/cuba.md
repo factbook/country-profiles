@@ -338,7 +338,7 @@ _residency requirement for naturalization_: unknown<br>
 _chief of state_: President Miguel DIAZ-CANEL Bermudez (since 19 April 2018); Vice President Salvador Antonio VALDES Mesa (since 10 October 2019)<br>
 _head of government_: Prime Minister Manuel MARRERO Cruz (since 21 December 2019); Deputy Prime Ministers Ramiro VALDES Menendez, Ines Maria CHAPMAN Waugh, Jorge Luis TAPIA Fonseca, Alejandro GIL Fernandez, Ricardo CABRISAS Ruiz (since 21 December 2019), and Jorge Luis PERDOMO DI-LELLA (since 20 April 2021)<br>
 _cabinet_: Council of Ministers proposed by the president and appointed by the National Assembly<br>
-_elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (may be reelected for another 5-year term); election last held on 19 April 2023 (next to be held NA)<br>
+_elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (eligible for a second&nbsp; term); election last held on 19 April 2023 (next to be held NA)<br>
 _election results_: <br><em>2023: </em>Miguel DIAZ-CANEL Bermudez (PCC) reelected president; percent of National Assembly vote - 97.7%; Salvador Antonio VALDES Mesa (PCC) reelected vice president; percent of National Assembly vote - 93.4%<em><br><br>2019: </em>Miguel DIAZ-CANEL Bermudez (PCC) elected president; percent of National Assembly vote - 98.8%; Salvador Antonio VALDES Mesa (PCC) elected vice president; percent of National Assembly vote - 98.1%<br><br>2018: Miguel DIAZ-CANEL Bermudez (PCC) elected president; percent of National Assembly vote - 98.8%; Salvador Antonio VALDES Mesa (PCC) elected vice president; percent of National Assembly vote - 100%<br>
 <em>note</em> - on 19 April 2018, DIAZ-CANEL succeeded Raul CASTRO as president of the Councils of State and Ministers; on 10 October 2019 he was elected to the newly created position of President of the Republic, which replaced the position of President of the Councils of State and Ministers<br>
 
@@ -533,7 +533,7 @@ _Currency_: Cuban pesos (CUP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 7.479 million kW (2020 est.)<br>
@@ -607,7 +607,7 @@ _domestic_: fixed-line density remains low at a little over 14 per 100 inhabitan
 _international_: country code - 53; the ALBA-1, GTMO-1, and GTMO-PR fiber-optic submarine cables link Cuba, Jamaica, and Venezuela; satellite earth station - 1 Intersputnik (Atlantic Ocean region) (2019)<br>
 
 **Broadcast media**<br>
-government owns and controls all broadcast media: five national TV channels (Cubavision, Tele Rebelde, Multivision, Educational Channel 1 and 2), two international channels (Cubavision Internacional and Caribe), 16 regional TV stations, 6 national radio networks, and multiple regional stations; the Cuban Government beams over the Radio-TV Marti signal; although private ownership of electronic media is prohibited, several online independent news sites exist; those that are not openly critical of the government are often tolerated; the others are blocked by the government; there are no independent TV channels, but several outlets have created strong audiovisual content (El Toque, for example); a community of young Youtubers is also growing, mostly with channels about sports, technology and fashion; Christian denominations are creating original video content to distribute via social media (2019)<br>
+government owns and controls all broadcast media: eight national TV channels (Cubavision, Cubavision Plus, Tele Rebelde, Multivision, Educational Channel 1 and 2, Canal Clave, Canal Habana), two international channels (Cubavision Internacional and Canal Caribe), multiple regional TV stations, 7 national radio networks, and multiple regional stations; the Cuban Government beams over the Radio-TV Marti signal; although private ownership of electronic media is prohibited, several online independent news sites exist; those that are not openly critical of the government are often tolerated; the others are blocked by the government; there are no independent TV channels, but several outlets have created strong audiovisual content (El Toque, for example); a community of young Youtubers is also growing, mostly with channels about sports, technology and fashion; Christian denominations are creating original video content to distribute via social media (2023)<br>
 
 **Internet country code**<br>
 .cu<br>

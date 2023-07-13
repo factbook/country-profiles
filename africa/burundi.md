@@ -504,7 +504,7 @@ calendar year<br>
 
 **Exports**<br>
 $285.105 million (2018 est.)<br>
-$270.686 million (2017 est.)<br>
+$315 million (2017 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
@@ -544,9 +544,10 @@ _Currency_: Burundi francs (BIF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 11% (2019)<br>
-_electrification - urban areas_: 66% (2019)<br>
-_electrification - rural areas_: 2% (2019)<br>
+_population without electricity_: (2020) 11 million<br>
+_electrification - total population_: 10.2% (2021)<br>
+_electrification - urban areas_: 62.8% (2021)<br>
+_electrification - rural areas_: 1.6% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 100,000 kW (2020 est.)<br>
@@ -697,7 +698,7 @@ the FDNB is responsible for defending Burundi’s territorial integrity and prot
 <p>cross-border conflicts persist among Tutsi, Hutu, other ethnic groups, associated political rebels, armed gangs, and various government forces in the Great Lakes region<em><br><br>Burundi-Rwanda: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 86,047 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 86,673 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 84,791 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1993 coup and fighting between government forces and rebel groups; violence since April 2015) (2022)<br>
 _stateless persons_: 767 (mid-year 2021)<br>
 

@@ -543,9 +543,10 @@ _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 33% (2019)<br>
-_electrification - urban areas_: 58% (2019)<br>
-_electrification - rural areas_: 9% (2019)<br>
+_population without electricity_: (2020) 8 million<br>
+_electrification - total population_: 41.9% (2021)<br>
+_electrification - urban areas_: 66.9% (2021)<br>
+_electrification - rural areas_: 17.9% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 475,000 kW (2020 est.)<br>
@@ -694,7 +695,7 @@ Beninese Armed Forces (Forces Armees Beninoises, FAB; aka Benin Defense Forces):
 approximately 7,000 active-duty troops; estimated 5,000 Republican Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAB is equipped with a small mix of mostly older or secondhand French, Soviet-era, and US equipment (2023)<br>
+the FAB is equipped with a small mix of mostly older or secondhand French, Soviet-era, and US equipment; in recent years, France has provided it with limited amounts of newer military hardware such as armored vehicles and helicopters (2023)<br>
 
 **Military service age and obligation**<br>
 18-35 years of age for voluntary and selective compulsory military service for men and women; a higher education diploma is required; conscript service is 18 months (2023)<br>

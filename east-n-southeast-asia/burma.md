@@ -385,9 +385,9 @@ ADB, ARF, ASEAN, BIMSTEC, CP, EAS, EITI (candidate country), FAO, G-77, IAEA, IB
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires WIN Thet (since 22 June 2022)<br>
 _chancery_: 2300 S Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 332-3344; [1] (202) 332-4350<br>
+_telephone_: [1] (202) 332-3344<br>
 _FAX_: [1] (202) 332-4351<br>
-_email address and website_: <br>pyi.thayar@verizon.net; washington-embassy@mofa.gov.mm<br><br>http://www.mewashingtondc.org<br>
+_email address and website_: <br>washington-embassy@mofa.gov.mm<br><br>https://www.mewashingtondc.org/<br>
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -564,9 +564,10 @@ _Currency_: kyats (MMK) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 51% (2019)<br>
-_electrification - urban areas_: 76% (2019)<br>
-_electrification - rural areas_: 39% (2019)<br>
+_population without electricity_: (2020) 26 million<br>
+_electrification - total population_: 72.4% (2021)<br>
+_electrification - urban areas_: 93.6% (2021)<br>
+_electrification - rural areas_: 62.7% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 7.247 million kW (2020 est.)<br>

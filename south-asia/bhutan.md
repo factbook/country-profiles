@@ -496,7 +496,7 @@ _Currency_: ngultrum (BTN) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 2.334 million kW (2020 est.)<br>

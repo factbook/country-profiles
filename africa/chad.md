@@ -382,7 +382,7 @@ ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Oumar Noury ABDELKERIM (since 20 March 2023)<br>
 _chancery_: 2401 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 652-1312<br>
-_FAX_: [1] (202) 265-1937<br>
+_FAX_: [1] (202) 578-0431<br>
 _email address and website_: <br>info@chadembassy.us<br><br>https://chadembassy.us/<br>
 
 **Diplomatic representation from the US**<br>
@@ -551,9 +551,10 @@ _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dolla
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 9% (2019)<br>
-_electrification - urban areas_: 32% (2019)<br>
-_electrification - rural areas_: 1% (2019)<br>
+_population without electricity_: (2020) 15 million<br>
+_electrification - total population_: 11.2% (2021)<br>
+_electrification - urban areas_: 43.2% (2021)<br>
+_electrification - rural areas_: 1.3% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 87,000 kW (2020 est.)<br>
@@ -707,7 +708,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 159,060 (Sudan) (includes refugees since 15 April 2023), 126,252 (Central African Republic), 26,552 (Cameroon), 20,951 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 159,060 (Sudan) (includes refugees since 15 April 2023), 127,934 (Central African Republic), 26,552 (Cameroon), 20,974 (Nigeria) (2023)<br>
 _IDPs_: 381,289 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>

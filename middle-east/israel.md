@@ -392,7 +392,7 @@ _selected World Heritage Site locales_: Masada; Old City of Acre; White City of 
 ## Economy
 
 **Economic overview**<br>
-high-income, technology- and industrial-based economy; recent debt spikes; high inequality and poverty disparities persist; significant tariff and regulatory burdens, especially in agriculture; hard-hit by COVID-19; quantitative easing in effect<br>
+high-income, technology- and industrial-based economy; highly dense, fast-growing labor force; recent debt spikes; persistent inequality and poverty; significant tariff and regulatory burdens, especially in agriculture;&nbsp; quantitative easing in effect<br>
 
 **Real GDP (purchasing power parity)**<br>
 $393.861 billion (2021 est.)<br>
@@ -509,7 +509,7 @@ $114.422 billion (2020 est.) note: data are in current year dollars<br>
 $117.779 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-United States 26%, China 9%, United Kingdom 7% (2020)<br>
+United States 27%, China 8%, India 4%, Germany 3%, Ireland 3% (2021)<br>
 
 **Exports - commodities**<br>
 diamonds, integrated circuits, refined petroleum, medical instruments, packaged medicines, measuring instruments (2021)<br>
@@ -520,10 +520,10 @@ $95.977 billion (2020 est.) note: data are in current year dollars<br>
 $108.784 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-United States 12%, China 11%, Germany 7.5%, Switzerland 7%, Turkey 6% (2020)<br>
+China 14%, United States 11%, Turkey 7%, Germany 7%, Switzerland 5% (2021)<br>
 
 **Imports - commodities**<br>
-diamonds, cars, crude petroleum, refined petroleum, broadcasting equipment (2019)<br>
+diamonds, cars, broadcasting equipment, integrated circuits, refined petroleum, packaged medicines&nbsp; (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $212.934 billion (31 December 2021 est.)<br>

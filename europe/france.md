@@ -419,7 +419,7 @@ _selected World Heritage Site locales_: Chartres Cathedral (c); Palace and Park 
 ## Economy
 
 **Economic overview**<br>
-high-income, advanced and diversified EU economy and euro user; strong tourism, aircraft manufacturing, pharmaceuticals, and industrial sectors; ongoing pension reform protests; high public debts and COVID-19 spending increases; global environmental leader<br>
+high-income, advanced and diversified EU economy and euro user; strong tourism, aircraft manufacturing, pharmaceuticals, and industrial sectors; strong US partner; ongoing pension reform protests and civil unrest; transitioning to a green economy via "France 2030" strategy<br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.048 trillion (2021 est.)<br>
@@ -537,7 +537,7 @@ $751.384 billion (2020 est.) note: data are in current year dollars<br>
 $892.016 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-Germany 14%, United States 8%, Italy 7%, Spain 7%, Belgium 7%, United Kingdom 7% (2019)<br>
+Germany 13%, Italy 8%, Belgium 8%, United States 7%, Spain 7% (2021)<br>
 
 **Exports - commodities**<br>
 aircraft, packaged medicines, cars and vehicle parts, wine, beauty products, gas turbines (2021)<br>
@@ -548,10 +548,10 @@ $796.353 billion (2020 est.) note: data are in current year dollars<br>
 $916.214 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-Germany 18%, Belgium 9%, Italy 9%, Spain 7%, China 7%, Netherlands 6%, United Kingdom 5% (2019)<br>
+Germany 17%, Italy 9%, Belgium 9%, Spain 8%, Netherlands 8% (2021)<br>
 
 **Imports - commodities**<br>
-cars, crude petroleum, refined petroleum, packaged medicines, aircraft machinery (2019)<br>
+cars and vehicle parts, refined petroleum, natural gas, packaged medicines, crude petroleum (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $244.28 billion (31 December 2021 est.)<br>
@@ -573,7 +573,7 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 138.611 million kW (2020 est.)<br>
@@ -735,11 +735,11 @@ French Armed Forces (Forces Armées Françaises): Army (l'Armee de Terre; includ
 <strong>note: </strong>under the direction of the Ministry of the Interior, the civilian National Police and the National Gendarmerie maintain internal security; the National Gendarmerie is a paramilitary police force that is a branch of the Armed Forces and therefore part of the Ministry of Defense but under the jurisdiction of the Ministry of the Interior; it also has additional duties to the Ministry of Justice; the Gendarmerie includes the National Gendarmerie Intervention Group (Groupe d'intervention de la Gendarmerie Nationale or GIGN), an elite national-level tactical police unit set up in 1973 in response to the 1972 Munich massacre<br>
 
 **Military expenditures**<br>
+1.9% of GDP (2023 est.)<br>
 1.9% of GDP (2022 est.)<br>
 1.9% of GDP (2021)<br>
 2% of GDP (2020)<br>
 1.8% of GDP (2019)<br>
-1.8% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 210,000 active-duty troops (120,000 Army; 35,000 Navy; 40,000 Air Force; 15,000 other, such as joint staffs, administration, logistics, procurement, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2023)<br>
@@ -771,7 +771,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>Madagascar claims the French territories of Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island; Comoros claims Mayotte; Mauritius claims Tromelin Island; territorial dispute between Suriname and the French overseas department of French Guiana; France asserts a territorial claim in Antarctica (Adelie Land); France and Vanuatu claim Matthew and Hunter Islands, east of New Caledonia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 55,681 (Afghanistan), 39,091 (Syria), 33,834 (Sri Lanka), 33,148 (Russia), 31,935 (Democratic Republic of the Congo), 24,223 (Sudan), 21,225 (Guinea), 18,008 (Serbia and Kosovo), 17,032 (Turkey), 13,974 (Iraq), 12,286 (Cote d'Ivoire), 11,489 (Eritrea), 11,012 (Cambodia), 10,543 (China), 10,236 (Albania), 10,210 (Somalia), 8,858 (Bangladesh), 8,124 (Mauritania), 8,101 (Mali), 7,991 (Vietnam), 6,913 (Bosnia and Herzegovina), 6,910 (Haiti), 6,808 (Angola), 6,498 (Laos), 6,417 (Armenia), 6,111 (Nigeria), 5,896 (Georgia) (mid-year 2022); 118,994 (Ukraine) (as of 31 October 2022)<br>
+_refugees (country of origin)_: 55,681 (Afghanistan), 39,091 (Syria), 33,834 (Sri Lanka), 33,148 (Russia), 31,935 (Democratic Republic of the Congo), 24,223 (Sudan), 21,225 (Guinea), 18,008 (Serbia and Kosovo), 17,032 (Turkey), 13,974 (Iraq), 12,286 (Cote d'Ivoire), 11,489 (Eritrea), 11,012 (Cambodia), 10,543 (China), 10,236 (Albania), 10,210 (Somalia), 8,858 (Bangladesh), 8,124 (Mauritania), 8,101 (Mali), 7,991 (Vietnam), 6,913 (Bosnia and Herzegovina), 6,910 (Haiti), 6,808 (Angola), 6,498 (Laos), 6,417 (Armenia), 6,111 (Nigeria), 5,896 (Georgia) (mid-year 2022); 70,570 (Ukraine) (as of 31 December 2022)<br>
 _stateless persons_: 3,633 (2022)<br>
 
 **Illicit drugs**<br>

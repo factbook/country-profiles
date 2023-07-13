@@ -559,9 +559,10 @@ _Currency_: taka (BDT) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 83% (2019)<br>
-_electrification - urban areas_: 93% (2019)<br>
-_electrification - rural areas_: 77% (2019)<br>
+_population without electricity_: (2020) 11 million<br>
+_electrification - total population_: 98.9% (2021)<br>
+_electrification - urban areas_: 99.7% (2021)<br>
+_electrification - rural areas_: 98.5% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 18.461 million kW (2020 est.)<br>

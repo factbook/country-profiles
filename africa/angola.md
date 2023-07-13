@@ -548,9 +548,10 @@ _Currency_: kwanza (AOA) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 43% (2019)<br>
-_electrification - urban areas_: 61% (2019)<br>
-_electrification - rural areas_: 6% (2019)<br>
+_population without electricity_: (2020) 18 million<br>
+_electrification - total population_: 48.2% (2021)<br>
+_electrification - urban areas_: 74.9% (2021)<br>
+_electrification - rural areas_: 7.3% (2018)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 7.344 million kW (2020 est.)<br>

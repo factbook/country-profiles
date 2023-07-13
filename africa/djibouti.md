@@ -520,9 +520,10 @@ _Currency_: Djiboutian francs (DJF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 42% (2019)<br>
-_electrification - urban areas_: 54% (2019)<br>
-_electrification - rural areas_: 1% (2019)<br>
+_population without electricity_: (2020) less than 1 million<br>
+_electrification - total population_: 65.4% (2021)<br>
+_electrification - urban areas_: 73.4% (2019)<br>
+_electrification - rural areas_: 36.5% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 130,000 kW (2020 est.)<br>
@@ -591,7 +592,7 @@ _total subscriptions_: 489,339 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 44 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Djibouti remains one of the last bastions where the national telco has a monopoly on all telecom services, including fixed lines, mobile, internet, and broadband; despite the country benefiting from its location as a hub for international submarine cables, prices for telecom services remain relatively high, and out of reach for a number of customers, weighing on market advancement; the Djibouti government is aiming to sell a minority stake in the incumbent telco (retaining some control of decisions) while securing the financial backing and the management acumen of a foreign operator; this is part of a larger plan to modernize the country&rsquo;s economy more generally; the state expects to conduct a sale of up to 40% of the company to an international investor by the end 2022 (2022)<br>
+_general assessment_: Djibouti remains one of the last bastions where the national telco has a monopoly on all telecom services, including fixed lines, mobile, internet, and broadband; despite the country benefiting from its location as a hub for international submarine cables, prices for telecom services remain relatively high, and out of reach for a number of customers, weighing on market advancement; the Djibouti government is aiming to sell a minority stake in the incumbent telco (retaining some control of decisions) while securing the financial backing and the management acumen of a foreign operator; this is part of a larger plan to modernize the country&rsquo;s economy more generally; the state expects to conduct a sale of up to 40% of the company to an international investor (2023)<br>
 _domestic_: about 2 per 100 fixed-line teledensity and nearly 44 per 100 mobile-cellular (2021)<br>
 _international_: country code - 253; landing points for the SEA-ME-WE-3 &amp; 5, EASSy, Aden-Djibouti, Africa-1, DARE-1, EIG, MENA, Bridge International, PEACE Cable, and SEACOM&nbsp;fiber-optic submarine cable systems providing links to Asia, the Middle East, Europe,&nbsp;Southeast Asia, Australia&nbsp;and Africa; satellite earth stations - 2 (1 Intelsat - Indian Ocean and 1 Arabsat) (2019)<br>
 

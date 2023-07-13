@@ -710,7 +710,7 @@ ZDF’s primary responsibilities are protecting the country’s sovereignty and 
 <p><em>Zimbabwe-Mozambique: none identified<br><br>Zimbabwe-South Africa: </em>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration<em><br><br>Zimbabwe-Zambia: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,756 (Democratic Republic of Congo) (refugees and asylum seekers), 9,907 (Mozambique) (2023)<br>
+_refugees (country of origin)_: 11,781 (Democratic Republic of Congo) (refugees and asylum seekers), 9,907 (Mozambique) (2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List - Zimbabwe does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government investigated and prosecuted human trafficking cases and conducted training for law enforcement, immigration, and other key officials; however, Zimbabwe did not demonstrate overall increasing efforts to increase anti-trafficking capacity; officials did not amend laws to criminalize all forms of trafficking, did not identify or provide care for any trafficking victims, nor convict any traffickers; therefore Zimbabwe remained on Tier 2 Watch List for the second consecutive year (2022)<br>

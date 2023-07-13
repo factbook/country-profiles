@@ -361,9 +361,9 @@ Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Georgi Velikov PANAYOTOV (since 7 June 2022)<br>
 _chancery_: 1621 22nd Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 387 5770; [1] (202) 387-0174; [1] (202) 299-0273, [1] (202) 483-1386<br>
+_telephone_: [1] (202) 387 5770<br>
 _FAX_: [1] (202) 234-7973<br>
-_email address and website_: <br>office@bulgaria-embassy.org; <br>Embassy.Washington@mfa.bg<br><br>https://www.bulgaria-embassy.org/en/homepage/<br>
+_email address and website_: <br>office@bulgaria-embassy.org<br><br>https://www.bulgaria-embassy.org/en/homepage/<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -549,7 +549,9 @@ _Currency_: leva (BGN) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 99.8% (2021)<br>
+_electrification - urban areas_: 99.9% (2021)<br>
+_electrification - rural areas_: 99.5% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 11.097 million kW (2020 est.)<br>
@@ -702,11 +704,11 @@ Bulgarian Armed Forces (aka Bulgarian Army): Land Forces, Air Force, Navy<br><br
 <strong>note:</strong> the GDMP includes the Gendarmerie, a special police force with military status deployed to secure important facilities, buildings and infrastructure, to respond to riots, and to counter militant threats<br>
 
 **Military expenditures**<br>
+1.8% of GDP (2023 est.)<br>
 1.6% of GDP (2022 est.)<br>
 1.6% of GDP (2021)<br>
 1.6% of GDP (2020)<br>
 3.1% of GDP (2019)<br>
-1.5% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 28,000 active-duty personnel (17,000 Army; 4,000 Navy; 7,000 Air Force) (2022)<br>
@@ -734,7 +736,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 161,420 (Ukraine) (as of 12 June 2023)<br>
+_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 162,935 (Ukraine) (as of 27 June 2023)<br>
 _stateless persons_: 1,129 (2022)<br>
 <strong>note:</strong> 91,531 estimated refugee and migrant arrivals (January 2015-May 2023); Bulgaria is predominantly a transit country<br>
 

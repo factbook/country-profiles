@@ -403,7 +403,7 @@ _exports of goods and services_: 27.2% (2015 est.)<br>
 _imports of goods and services_: -50.5% (2015 est.)<br>
 
 **Agricultural products**<br>
-coconuts, taro, bananas, yams, tropical fruit, pineapples, mangoes/guavas, papayas, roots/tubers nes, pork<br>
+coconuts, taro, bananas, yams, tropical fruit, pineapples, mangoes/guavas, papayas, roots/tubers, pork<br>
 
 **Industries**<br>
 food processing, building materials, auto parts<br>
@@ -468,10 +468,10 @@ $116.519 million (2020 est.)<br>
 $336.782 million (2019 est.)<br>
 
 **Exports - partners**<br>
-American Samoa 21%, United States 13%, New Zealand 12%, Australia 10%, Tokelau 6%, Taiwan 5% (2019)<br>
+US 20%, New Zealand 16%, American Samoa 11%, Brazil 8%, Australia 7% (2021)<br>
 
 **Exports - commodities**<br>
-refined petroleum, fish, fruit juice, coconut oil, beer (2019)<br>
+coconut oil, insulated wiring, refined petroleum, integrated circuits, sardines, air pumps, tuna, lemons, beer (2021)<br>
 
 **Imports**<br>
 $430.011 million (2021 est.) note: data are in current year dollars<br>
@@ -479,10 +479,10 @@ $376.791 million (2020 est.)<br>
 $456.707 million (2019 est.)<br>
 
 **Imports - partners**<br>
-New Zealand 22%, China 16%, Singapore 13%, United States 10%, Australia 9%, South Korea 8%, Fiji 5% (2019)<br>
+New Zealand 24%, China 19%, Singapore 11%, US 8%, Australia 7% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, iron products, poultry meats, cars, insulated wiring (2019)<br>
+refined petroleum, poultry meats, iron, lumber, processed fish, cars (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $294.682 million (31 December 2021 est.)<br>

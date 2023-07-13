@@ -660,8 +660,8 @@ _major seaport(s)_: Bluefields, Corinto<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Army of Nicaragua (Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); Naval Forces (Fuerza Naval); Air Forces (Fuerza Aérea); Nicaraguan National Police (Policía Nacional de Nicaragua  or PNN)  (2023)<br>
-<strong>note:</strong> both the military and the police report directly to the president; Parapolice, which are nonuniformed, armed, and masked units with marginal tactical training and loose hierarchical organization, act in coordination with government security forces and report directly to the National Police; they have been used to suppress anti-government protesters <br>
+Army of Nicaragua (Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); Naval Forces (Fuerza Naval); Air Forces (Fuerza Aérea) (2023)<br>
+<strong>note:</strong> both the military and the Nicaraguan National Police (Policía Nacional de Nicaragua or PNN) report directly to the president; Parapolice, which are nonuniformed, armed, and masked units with marginal tactical training and loose hierarchical organization, act in coordination with government security forces and report directly to the National Police; they have been used to suppress anti-government protesters<br>
 
 **Military expenditures**<br>
 0.5% of GDP (2022 est.)<br>

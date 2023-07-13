@@ -663,7 +663,7 @@ _unpaved_: 16,100 km (2016)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Nepali Army (includes Air Wing); Ministry of Home Affairs: Nepal Police, Nepal Armed Police Force (2023)<br>
+Ministry of Defense: Nepali Army (includes Air Wing)<br><br>Ministry of Home Affairs: Nepal Police, Nepal Armed Police Force (2023)<br>
 <strong>note: </strong>the Nepal Police are responsible for enforcing law and order across the country; the Armed Police Force is responsible for combating terrorism, providing security during riots and public disturbances, assisting in natural disasters, and protecting vital infrastructure, public officials, and the borders; it also conducts counterinsurgency and counterterrorism operations and would assist the Army in the event of an external invasion<br>
 
 **Military expenditures**<br>
@@ -677,7 +677,7 @@ Ministry of Defense: Nepali Army (includes Air Wing); Ministry of Home Affairs: 
 approximately 95,000 active troops (including a small air wing of about 500 personnel) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Army's inventory includes a mix of mostly older equipment largely of British, Chinese, Indian, Russian, and South African origin; in recent years, Nepal has received limited amounts of newer hardware from several countries, including China, Italy, and Russia (2022)<br>
+the Army's inventory includes a mix of mostly older equipment largely of British, Chinese, Indian, Russian, and South African origin; in recent years, Nepal has received limited amounts of newer hardware from several countries, including China, Italy, and Russia (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service (including women); no conscription (2022)<br>

@@ -545,7 +545,7 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 20.418 million kW (2020 est.)<br>
@@ -700,11 +700,11 @@ Finnish Defense Forces (FDF; Puolustusvoimat): Army (Maavoimat), Navy (Merivoima
 <strong>note:</strong> the Border Guard (Rajavartiolaitos) and National Police are under the Ministry of the Interior; the Border Guard becomes part of the FDF in wartime<br>
 
 **Military expenditures**<br>
+2.5% of GDP (2023 est.)<br>
 2% of GDP (2022 est.)<br>
 1.9% of GDP (2021)<br>
 1.5% of GDP (2020)<br>
 1.4% of GDP (2019)<br>
-1.4% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 30,000 active-duty personnel (22,000 Army; 5,000 Navy; 3,000 Air Force) (2023)<br>
@@ -729,6 +729,6 @@ Finland joined NATO in April 2023; Finland had been part of NATO’s Partnership
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 56,750 (Ukraine) (as of 23 May 2023)<br>
+_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 55,600 (Ukraine) (as of 4 July 2023)<br>
 _stateless persons_: 3,546 (2022)<br>
 

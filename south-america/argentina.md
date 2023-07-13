@@ -558,9 +558,7 @@ _Currency_: Argentine pesos (ARS) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 99% (2020)<br>
-_electrification - urban areas_: 99% (2020)<br>
-_electrification - rural areas_: 85% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 44.731 million kW (2020 est.)<br>

@@ -440,7 +440,7 @@ _Currency_: Caymanian dollars (KYD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 174,000 kW (2020 est.)<br>

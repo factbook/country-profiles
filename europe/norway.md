@@ -681,11 +681,11 @@ Norwegian Armed Forces (Forsvaret or "the Defense"): Norwegian Army (Haeren), Ro
 <strong>note:</strong> the national police have primary responsibility for internal security; the National Police Directorate, an entity under the Ministry of Justice and Public Security, oversees the police force<br>
 
 **Military expenditures**<br>
-1.6% of GDP (2022 est.)<br>
+1.7% of GDP (2023 est.)<br>
+1.5% of GDP (2022 est.)<br>
 1.7% of GDP (2021)<br>
 2% of GDP (2020)<br>
-1.9% of GDP (2019)<br>
-1.7% of GDP (2018)<br>
+1.8% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 27,000 active personnel (9,000 Army; 4,300 Navy; 4,700 Air Force; 9,000 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); approximately 40,000 Home Guard (2023)<br>

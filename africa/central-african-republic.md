@@ -375,7 +375,7 @@ _chief of mission_: Ambassador Martial NDOUBOU (since 17 September 2018)<br>
 _chancery_: 2704 Ontario Road NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 483-7800<br>
 _FAX_: [1] (202) 332-9893<br>
-_email address and website_: <br>pc@usrcaembassy.org; centrafricwashington@yahoo.com<br><br>https://www.usrcaembassy.org/<br>
+_email address and website_: <br>centrafricwashington@yahoo.com<br><br>https://www.usrcaembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Patricia A. MAHONEY (since 8 April 2022)<br>
@@ -537,9 +537,10 @@ _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dolla
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 3% (2019)<br>
-_electrification - urban areas_: 7% (2019)<br>
-_electrification - rural areas_: 0.4% (2019)<br>
+_population without electricity_: (2020) 5 million<br>
+_electrification - total population_: 15.6% (2021)<br>
+_electrification - urban areas_: 34.6% (2021)<br>
+_electrification - rural areas_: 1.5% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 38,000 kW (2020 est.)<br>
@@ -692,6 +693,6 @@ the 2013 coup resulted in the institutional collapse of the Central African Arme
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,632 (Democratic Republic of Congo), 15,335 (Sudan) (refugees since 15 April 2023) (2023)<br>
+_refugees (country of origin)_: 6,636 (Democratic Republic of Congo), 15,335 (Sudan) (refugees since 15 April 2023) (2023)<br>
 _IDPs_: 474,822 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2023)<br>
 

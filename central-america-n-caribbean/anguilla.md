@@ -405,6 +405,11 @@ _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
 2.7 (2014 est.)<br>
 2.7 (2013 est.)<br>
 
+## Energy
+
+**Electricity access**<br>
+_electrification - total population_: 100% (2020)<br>
+
 ## Communications
 
 **Telephones - fixed lines**<br>

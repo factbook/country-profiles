@@ -527,9 +527,9 @@ _Currency_: Guyanese dollars (GYD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 91.8% (2018)<br>
-_electrification - urban areas_: 96.9% (2018)<br>
-_electrification - rural areas_: 90% (2018)<br>
+_electrification - total population_: 92.8% (2021)<br>
+_electrification - urban areas_: 97.5% (2021)<br>
+_electrification - rural areas_: 91.1% (2021.)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 380,000 kW (2020 est.)<br>

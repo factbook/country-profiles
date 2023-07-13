@@ -483,7 +483,9 @@ _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 95.3% (2018)<br>
+_electrification - total population_: 93.7% (2021)<br>
+_electrification - urban areas_: 93% (2020)<br>
+_electrification - rural areas_: 96% (2020)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 55,000 kW (2020 est.)<br>

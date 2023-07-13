@@ -426,7 +426,7 @@ refined petroleum, trunks/cases, cars, insulated wire, broadcasting equipment (2
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 455,000 kW (2020 est.)<br>

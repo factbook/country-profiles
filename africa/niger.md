@@ -690,7 +690,7 @@ _by type_: general cargo 1, other 1 (2022)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie (GN); Ministry of Interior: Niger National Guard (GNN), National Police (2023)<br>
+Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie (GN)<br><br>Ministry of Interior: Niger National Guard (GNN), National Police (2023)<br>
 <strong>note 1:</strong> the Gendarmerie (GN) and the National Guard (GNN) are paramilitary forces; the GN has primary responsibility for rural security while the GNN is responsible for domestic security and the protection of high-level officials and government buildings; the GNN was formerly known as the National Forces of Intervention and Security<br><br><strong>note 2: </strong>the National Police includes the Directorate of Territorial Surveillance, which is charged with border management<br>
 
 **Military expenditures**<br>
@@ -704,7 +704,7 @@ Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force
 information varies; approximately 12,000 active FAN troops (8,000 Army; 200 Air Force; 4,000 Gendarmerie); approximately 3,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAN's inventory consists of a wide variety of older weapons; in recent years, it has received small amounts of mostly secondhand equipment and donations from several countries, particularly the US (2023)<br>
+the FAN's inventory consists of a wide variety of older weapons; in recent years, it has received small amounts of mostly secondhand equipment and donations from several countries, led by the US (2023)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for selective compulsory or voluntary military service for unmarried men and women; 24-month service term (2023)<br>
@@ -728,7 +728,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); 
 <p><em>Niger-Benin-Nigeria</em>: location of Niger-Benin-Nigeria tripoint is unresolved</p> <p><em>Niger-Burkina Faso</em>: the dispute with Burkina Faso was referred to the International Court of Justice (ICJ) in 2010; the ICJ ruled in 2013 that 786 sq km should go to Burkina Faso and 277 sq km to Niger; the ruling was implemented in 2015 and 2016, with Burkina Faso gaining 14 towns and Niger 4</p> <p><em>Niger-Cameroon-Nigeria</em>: only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Niger-Libya</em>: Libya claims about 25,000 sq km in a currently dormant dispute in the Tummo region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 181,239 (Nigeria), 66,5020 (Mali) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 183,328 (Nigeria), 66,5020 (Mali) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 376,809 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>

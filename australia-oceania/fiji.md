@@ -513,9 +513,9 @@ _Currency_: Fijian dollars (FJD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 99.6% (2018)<br>
-_electrification - urban areas_: 100% (2018)<br>
-_electrification - rural areas_: 99.2% (2018)<br>
+_electrification - total population_: 92.1% (2021)<br>
+_electrification - urban areas_: 96% (2021)<br>
+_electrification - rural areas_: 86.7% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 393,000 kW (2020 est.)<br>

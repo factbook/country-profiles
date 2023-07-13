@@ -697,11 +697,11 @@ Spanish Armed Forces: Army (Ejército de Tierra), Spanish Navy (Armada Espanola;
 <strong>note:</strong> the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defense and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2023 est.)<br>
 1.1% of GDP (2022 est.)<br>
 1% of GDP (2021)<br>
 1% of GDP (2020)<br>
 0.9% of GDP (2019)<br>
-0.9% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 120,000 active-duty troops (72,000 Army; 25,000 Navy, including about 5,000 marines; 23,000 Air and Space Force); 80,000 Guardia Civil (2023)<br>
@@ -735,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 183,980 (Ukraine) (as of 25 June 2023)<br>
 _stateless persons_: 6,489 (2022)<br>
-<strong>note: </strong>290,931 estimated refugee and migrant arrivals, including Canary Islands (January 2015-June 2023)<br>
+<strong>note: </strong>292,458 estimated refugee and migrant arrivals, including Canary Islands (January 2015-July 2023)<br>
 
 **Illicit drugs**<br>
 <p>a primary European transit point for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection or altered to escape detection Spanish chemists reconstitute it and distribute to Europe; minor domestic drug production; synthetic drugs, including ketamine, new psychoactive substances (NPS), and MDMA transit from Spain to the United States</p><br>

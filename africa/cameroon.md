@@ -387,7 +387,7 @@ _chief of mission_: Ambassador Henri ETOUNDI ESSOMBA (since 27 June 2016)<br>
 _chancery_: 2349 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 265-8790<br>
 _FAX_: [1] (202) 387-3826<br>
-_email address and website_: cs@cameroonembassyusa.org; mail@cameroonembassyusa.org<br><br>https://www.cameroonembassyusa.org/mainFolder/index.html<br>
+_email address and website_: cs@cameroonembassyusa.org<br><br>https://www.cameroonembassyusa.org/mainFolder/index.html<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Christopher J. LAMORA (since 21 March 2022)<br>
@@ -569,9 +569,10 @@ _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dolla
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 70% (2019)<br>
-_electrification - urban areas_: 98% (2019)<br>
-_electrification - rural areas_: 32% (2019)<br>
+_population without electricity_: (2020) 10 million<br>
+_electrification - total population_: 65.4% (2021)<br>
+_electrification - urban areas_: 94.6% (2021)<br>
+_electrification - rural areas_: 24.8% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 1.754 million kW (2020 est.)<br>
@@ -750,7 +751,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 350,780 (Central African Republic), 115,847 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 350,428 (Central African Republic), 116,183 (Nigeria) (2023)<br>
 _IDPs_: 1.01 million (2023) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>

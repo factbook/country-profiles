@@ -693,14 +693,15 @@ _river port(s)_: Braila, Galati (Galatz), Mancanului (Giurgiu), Tulcea (Danube R
 ## Military and Security
 
 **Military and security forces**<br>
-Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Internal Affairs: Romanian Gendarmerie, Romanian Police, Romanian Border Police (2023)<br>
+Romanian Armed Forces (Forțele Armate Române or Armata Română): Land Forces, Naval Forces, Air Force (2023)<br>
+<strong>note:</strong> the Ministry of Internal Affairs is responsible for the General Inspectorate of the Romanian Police, the Romanian Gendarmerie (Jandarmeria Română), the border police, the General Directorate for Internal Protection, and the Directorate General for Anticorruption<br>
 
 **Military expenditures**<br>
-1.8% of GDP (2022 est.)<br>
-2% of GDP (2021)<br>
+2.4% of GDP (2023 est.)<br>
+1.7% of GDP (2022 est.)<br>
+1.9% of GDP (2021)<br>
 2% of GDP (2020)<br>
 1.8% of GDP (2019)<br>
-1.8% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 75,000 active duty personnel (58,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2022)<br>
@@ -729,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 136,075 (Ukraine) (as of 11 June 2023)<br>
+_refugees (country of origin)_: 137,130 (Ukraine) (as of 2 July b2023)<br>
 _stateless persons_: 297 (2022)<br>
 <strong>note:</strong> 14,050 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 

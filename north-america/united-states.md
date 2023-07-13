@@ -732,11 +732,11 @@ United States Armed Forces (aka US Military): US Army (USA), US Navy (USN; inclu
 <strong>note 1: </strong>the US Coast Guard is administered in peacetime by the Department of Homeland Security, but in wartime reports to the Department of the Navy<br><strong><br>note 2:</strong> the Army National Guard and the Air National Guard are reserve components of their services and operate in part under state authority; the US military also maintains reserve forces for each branch (US Army Reserve, US Navy Reserve, US Air Force Reserve, and US Coast Guard Reserve)<br>
 
 **Military expenditures**<br>
+3.5% of GDP (2023 est.)<br>
 3.5% of GDP (2022 est.)<br>
-3.6% of GDP (2021)<br>
-3.7% of GDP (2020)<br>
-3.4% of GDP (2019)<br>
-3.3% of GDP (2018)<br>
+3.5% of GDP (2021)<br>
+3.6% of GDP (2020)<br>
+3.5% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1.39 million active duty personnel (475,000 Army; 345,000 Navy; 335,000 Air Force (includes about 8,000 Space Force); 180,000 Marine Corps; 40,000 Coast Guard); 335,000 Army National Guard; 105,000 Air National Guard (2022)<br>

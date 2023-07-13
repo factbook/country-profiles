@@ -540,9 +540,10 @@ _Currency_: dalasis (GMD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 49% (2019)<br>
-_electrification - urban areas_: 69% (2019)<br>
-_electrification - rural areas_: 16% (2019)<br>
+_population without electricity_: (2020) less than 1 million<br>
+_electrification - total population_: 63.6% (2021)<br>
+_electrification - urban areas_: 82.5% (2021)<br>
+_electrification - rural areas_: 31.2% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 137,000 kW (2020 est.)<br>

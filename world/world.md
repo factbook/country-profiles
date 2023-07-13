@@ -390,9 +390,10 @@ $75.09 trillion (31 December 2016 est.)<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 90% (2019)<br>
-_electrification - urban areas_: 96% (2019)<br>
-_electrification - rural areas_: 85% (2019)<br>
+_population without electricity_: (2020) 757 million<br>
+_electrification - total population_: 91.4% (2021)<br>
+_electrification - urban areas_: 97.6% (2021)<br>
+_electrification - rural areas_: 84.4% (2021)<br>
 
 **Electricity generation sources**<br>
 _fossil fuels_: 60.6% of total installed capacity (2020 est.)<br>

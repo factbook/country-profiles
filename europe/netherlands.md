@@ -339,14 +339,14 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER (since 30 April 2013); Heir Apparent Princess CATHARINA-AMALIA (daughter of King WILLEM-ALEXANDER, born 7 December 2003)<br>
-_head of government_: Prime Minister Mark RUTTE (since 14 October 2010); Deputy Prime Ministers Sigrid KAAG and Wopke HOEKSTRA (since 10 January 2022) and Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE heads his fourth cabinet<br>
+_head of government_: Prime Minister Mark RUTTE (since 14 October 2010); Deputy Prime Ministers Sigrid KAAG and Wopke HOEKSTRA (since 10 January 2022) and Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE's ruling coalition collapsed on 8 July 2023.&nbsp; He is serving as Prime Minister in a caretaker status until new elections in November 2023.<br>
 _cabinet_: Council of Ministers appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or majority coalition is usually appointed prime minister by the monarch; deputy prime ministers are appointed by the monarch<br>
 
 **Legislative branch**<br>
 _description_: bicameral States General or Staten Generaal consists of:<br>Senate or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial council members by proportional representation vote; members serve 4-year terms)<br>House of Representatives or Tweede Kamer (150 seats; members directly elected in multi-seat constituencies by open-list proportional representation vote to serve up to 4-year terms)<br>
-_elections_: Senate - last held on 30 May 2023 (next to be held in May 2027)<br>House of Representatives - last held on 15-17 March 2021 (next to be held on 31 March 2025)<br>
-_election results_: <br>Senate - percent of vote by party - BBB 21.3%, VVD 13.3%, GL 9.3%, PvdA 9.3%, CDA 8.0%, D66 6.7%, PVV 5.3%, SP 4.0%, CU 4.0%, PvdD 4.0%, JA21 4.0%, Volt 2.7%, SGP 2.7%,  FvD 2.7%, other 2.6%; seats by party - BBB 16, VVD 10, GL 7, PvdA 7, CDA 6, D66 5, PVV 4, SP 3, CU 3, PvdD 3, JA21 3, Volt 2, SGP 2, FvD 2 other 2; composition (as of May 2023) - men 45, women 30, percent of women 40%<br>House of Representatives - percent of vote by party - VVD 21.9%, D66 15%, PVV 10.8%, CDA 9.5%, SP 9.1%, PvdA 5.7%, GL 5.2%, FvD 5%, PvdD 3.8%, CU 3.4%, other 13.7%; seats by party - VVD 34, D66 24, PVV 17, CDA 15, GL 8, FvD 8, PvdD 6, PvdA 9, SP 9, CU 5, Denk 3, SGP 3, 50 Plus 1, other 6; composition (as of September 2021) - men 89, women 61, percent of women 40.7%; note - total States General percent of women 37.3%<br>
+_elections_: Senate - last held on 30 May 2023 (next to be held in May 2027)<br>House of Representatives - last held on 15-17 March 2021 (next to be held in November 2023)<br>
+_election results_: <br>Senate - percent of vote by party - BBB 21.3%, VVD 13.3%, GL 9.3%, PvdA 9.3%, CDA 8.0%, D66 6.7%, PVV 5.3%, SP 4.0%, CU 4.0%, PvdD 4.0%, JA21 4.0%, Volt 2.7%, SGP 2.7%,  FvD 2.7%, other 2.6%; seats by party - BBB 16, VVD 10, GL 7, PvdA 7, CDA 6, D66 5, PVV 4, SP 3, CU 3, PvdD 3, JA21 3, Volt 2, SGP 2, FvD 2 other 2; composition (as of May 2023) - men 45, women 30, percent of women 40%<br>House of Representatives - percent of vote by party - VVD 22.7%, D66 16%, PVV 11.3%, CDA 9.3%, SP 6%, PvdA 6%, GL 5.3%, FvD 3.3%, PvdD 4%, CU 3.3%, Denk 2%, SGP 2%, JA21 2%, other 5.3%; seats by party - VVD 34, D66 24, PVV 17, CDA 14, GL 8, PvdD 6, PvdA 9, SP 9, CU 5, FvD 5, Denk 3, SGP 3, JA21 3, other 8; composition (as of September 2021) - men 89, women 61, percent of women 40.7%; note - total States General percent of women 37.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Hoge Raad (consists of 41 judges: the president, 6 vice presidents, 31 justices or raadsheren, and 3 justices in exceptional service, referred to as buitengewone dienst); the court is divided into criminal, civil, tax, and ombuds chambers<br>
@@ -354,7 +354,7 @@ _judge selection and term of office_: justices appointed by the monarch from a l
 _subordinate courts_: courts of appeal; district courts, each with up to 5 subdistrict courts; Netherlands Commercial Court<br>
 
 **Political parties and leaders**<br>
-Christian Democratic Appeal or CDA [Wopke HOEKSTRA]<br>Christian Union or CU [Mirjam BIKKER]<br>Correct Answer 2021 or JA21 [Joost EDERMANS]<br>Democrats 66 or D66 [Sigrid KAAG]<br>Denk [Farid AZARKAN]<br>Farmer-Citizen Movement or BBB [Caroline van der PLAS]<br>50Plus [Martin van ROOIJEN]<br>Forum for Democracy or FvD [Thierry BAUDET]<br>Green Left (GroenLinks) or GL [Jesse KLAVER]<br>Labor Party or PvdA (Attje KUIKEN)<br>Party for Freedom or PVV [Geert WILDERS]<br>Party for the Animals or PvdD [Esther OUWENHAND]<br>People's Party for Freedom and Democracy or VVD [Mark RUTTE]<br>Reformed Political Party or SGP [Kees VAN DER STAAIJ]<br>Socialist Party or SP [Lilian MARIJNISSEN]<br>Volt Netherlands or Volt [Laurens DASSEN]<br>
+Christian Democratic Appeal or CDA [Wopke HOEKSTRA]<br>Christian Union or CU [Mirjam BIKKER]<br>Correct Answer 2021 or JA21 [Joost EDERMANS]<br>Democrats 66 or D66 [Sigrid KAAG]<br>Denk [Farid AZARKAN]<br>Farmer-Citizen Movement or BBB [Caroline van der PLAS]<br>50Plus [Martin van ROOIJEN]<br>Forum for Democracy or FvD [Thierry BAUDET]<br>Green Left (GroenLinks) or GL [Jesse KLAVER]<br>Labor Party or PvdA (Attje KUIKEN)<br>Party for Freedom or PVV [Geert WILDERS]<br>Party for the Animals or PvdD [Esther OUWENHAND]<br>People's Party for Freedom and Democracy or VVD [Mark RUTTE]<br>Reformed Political Party or SGP [Kees VAN DER STAAIJ]<br>Socialist Party or SP [Lilian MARIJNISSEN]<br>Together or BIJ1 [Sylvana Simons]<br>Volt Netherlands or Volt [Laurens DASSEN]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, Benelux, BIS, CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, UNRWA, UN Security Council (temporary), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -695,11 +695,11 @@ Netherlands (Dutch) Armed Forces (Nederlandse Krijgsmacht): Royal Netherlands Ar
 <strong>note 1:</strong> the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature but managed by the Royal Netherlands Navy<br><br><strong>note 2:</strong> the national police maintain internal security in the Netherlands and report to the Ministry of Justice and Security, which oversees law enforcement organizations, as do the justice ministries in Aruba, Curaçao, and Sint Maarten<br>
 
 **Military expenditures**<br>
-1.7% of GDP (2022 est.)<br>
-1.5% of GDP (2021)<br>
+1.7% of GDP (2023 est.)<br>
+1.6% of GDP (2022 est.)<br>
+1.4% of GDP (2021)<br>
 1.4% of GDP (2020)<br>
 1.3% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 48,000 active-duty personnel (20,000 Army; 9,000 Navy; 7,000 Air Force; 7,000 Constabulary; 5,000 other) (2023)<br>
@@ -731,7 +731,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 53,496 (Syria), 19,204 (Eritrea), 7,106 (Turkey), 5,593 (Iran), 5,152 (Iraq) (mid-year 2022); 94,380 (Ukraine) (as of 26 May 2023)<br>
+_refugees (country of origin)_: 53,496 (Syria), 19,204 (Eritrea), 7,106 (Turkey), 5,593 (Iran), 5,152 (Iraq) (mid-year 2022); 94,415 (Ukraine) (as of 26 May 2023)<br>
 _stateless persons_: 4,570 (2022)<br>
 
 **Illicit drugs**<br>

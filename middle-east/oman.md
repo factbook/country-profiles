@@ -662,7 +662,7 @@ _LNG terminal(s) (export)_: Qalhat<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO), Royal Air Force of Oman (RAFO), Royal Guard of Oman (RGO), Sultan's Special Forces; Royal Oman Police (ROP): Civil Defense, Immigration, Customs, Royal Oman Police Coast Guard (2023)<br>
+Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO), Royal Air Force of Oman (RAFO), Royal Guard of Oman (RGO), Sultan's Special Forces<br><br>Royal Oman Police (ROP): Civil Defense, Immigration, Customs, Royal Oman Police Coast Guard, Special Task Force (2023)<br>
 <strong>note 1: </strong>the Sultan’s Special Forces and the ROP Special Task Force are Oman’s primary tactical counterterrorism response forces<strong><br><br>note 2:</strong> in addition to its policing duties, the ROP conducts many administrative functions similar to the responsibilities of a Ministry of Interior in other countries<br>
 
 **Military expenditures**<br>
@@ -676,7 +676,7 @@ Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO),
 approximately 40,000 active duty troops (25,000 Army, 5,000 Navy; 5,000 Air Force; 5,000 Royal Guard) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SAF's inventory includes a mix of older and some more modern weapons systems from a variety of suppliers, particularly Europe and the US; in recent years, the UK and the US have been the leading suppliers of arms to Oman (2022)<br>
+the SAF's inventory includes a mix of older and some more modern weapons systems from a variety of suppliers, particularly Europe and the US; in recent years, the UK has been the leading supplier of arms to Oman (2023)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service (women have been allowed to serve since 2011); no conscription (2022)<br>

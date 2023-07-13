@@ -553,9 +553,7 @@ the US dollar became Ecuador's currency in 2001<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 97% (2019)<br>
-_electrification - urban areas_: 100% (2019)<br>
-_electrification - rural areas_: 93% (2019)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 9.354 million kW (2020 est.)<br>

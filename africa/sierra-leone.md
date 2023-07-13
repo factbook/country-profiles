@@ -347,7 +347,7 @@ _election results_: <p><em>2023: </em>Julius Maada BIO elected president in firs
 **Legislative branch**<br>
 _description_: unicameral Parliament (146 seats; 132 members directly elected in single-seat constituencies by a district block proportional representation vote and 14 seats filled in separate elections by non-partisan members of Parliament called "paramount chiefs;" members serve 5-year terms)<br>
 _elections_: last held on 24 June 2023 (next to be held in 2028)<br>
-_election results_: percent of vote by party - n/a; seats by party - APC 68, SLPP 49, C4C 8, other 7; composition - NA<br>
+_election results_: percent of vote by party - n/a; seats by party - SLPP 81, APC 54; composition - men 94, women 41, percent of women 30.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Superior Court of Judicature (consists of the Supreme Court - at the apex - with the chief justice and 4 other judges, the Court of Appeal with the chief justice and 7 other judges, and the High Court of Justice with the chief justice and 9 other judges); note &ndash; the Judicature has jurisdiction in all civil, criminal, and constitutional matters<br>

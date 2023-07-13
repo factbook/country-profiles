@@ -311,7 +311,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Sandra MASON (since 30 November 2021)<br>
 _head of government_: Prime Minister Mia MOTTLEY (since 25 May 2018)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
-_elections/appointments_: the president is elected by an electoral college of both Houses of Parliament for a four year renewable term; election last held 20 October 2021; following legislative elections, the leader of the majority party or leader of the majority coalition usually appointed prime minister by the president; the prime minister recommends the deputy prime minister<br>
+_elections/appointments_: president elected by an electoral college of both Houses of Parliament for a 4-year renewable term; election last held on 20 October 2021; following legislative elections, the leader of the majority party or leader of the majority coalition usually appointed prime minister by the president; the prime minister recommends the deputy prime minister<br>
 _election results_: Sandra MASON elected as first president on 20 October 2021<br>
 
 **Legislative branch**<br>
@@ -336,7 +336,7 @@ _chief of mission_: Ambassador Noel Anderson LYNCH (since&nbsp;11 January 2019)<
 _chancery_: 2144 Wyoming Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-9200<br>
 _FAX_: [1] (202) 332-7467<br>
-_email address and website_: <br>washington@foreign.gov.bb<br>
+_email address and website_: <br>washington@foreign.gov.bb<br><br>https://www.foreign.gov.bb/embassies-high-commissions-and-permanent-missions/<br>
 _consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -508,7 +508,7 @@ _Currency_: Barbadian dollars (BBD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 311,000 kW (2020 est.)<br>

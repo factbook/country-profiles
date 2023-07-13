@@ -699,9 +699,9 @@ Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air 
 <strong>note:</strong> the police force is a national law enforcement body with regional and municipal units overseen by the Ministry of Interior and Administration; the Border Guard is responsible for border security and combating irregular migration and also reports to the Ministry of Interior and Administration<br>
 
 **Military expenditures**<br>
-3% of GDP (2023 est.)<br>
-2.4% of GDP (2022)<br>
-2.3% of GDP (2021)<br>
+3.9% of GDP (2023 est.)<br>
+2.4% of GDP (2022 est.)<br>
+2.2% of GDP (2021)<br>
 2.2% of GDP (2020)<br>
 2% of GDP (2019)<br>
 
@@ -736,7 +736,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,618,785 (Ukraine) (as of 26 June 2023)<br>
+_refugees (country of origin)_: 1,627,510 (Ukraine) (as of 26 June 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

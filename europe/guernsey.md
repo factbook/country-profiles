@@ -383,7 +383,7 @@ _Currency_: Guernsey pound per US dollar<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 ## Communications
 

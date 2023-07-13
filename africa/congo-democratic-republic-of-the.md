@@ -368,7 +368,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Felix TSHISEKEDI (since 24 January 2019)<br>
 _head of government_: Prime Minister Jean-Michel Sama LUKONDE (since 15 February 2021); Deputy Prime Ministers Jose MAKILA, Leonard She OKITUNDU, Henri MOVA Sankanyi (since February 2018) Jean-Pierre BEMBBA (since 23 March 2023)<br>
 _cabinet_: Ministers of State appointed by the president<br>
-_elections/appointments_: president directly elected by simple majority vote for a 5-year term (eligible for a second term); election last held on 30 December 2018 (next to be held in December 2023); prime minister appointed by the president<br>
+_elections/appointments_: president directly elected by simple majority vote for a 5-year term (eligible for a second term); election last held on 30 December 2018 (next to be held on 20 December 2023); prime minister appointed by the president<br>
 _election results_: <p><em>2018:</em> Felix TSHISEKEDI elected president; percent of vote - Felix TSHISEKEDI (UDPS) 38.6%, Martin FAYULU (Lamuka coalition) 34.8%, Emmanuel Ramazani SHADARY (PPRD) 23.9%, other 2.7%; note - election marred by serious voting irregularities<br><br><em>2011:</em> Joseph KABILA reelected president; percent of vote - Joseph KABILA (PPRD) 49%, Etienne TSHISEKEDI (UDPS) 32.3%, other 18.7%; note - election marred by serious voting irregularities </p><br>
 
 **Legislative branch**<br>
@@ -568,9 +568,10 @@ _Currency_: Congolese francs (CDF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 9% (2019)<br>
-_electrification - urban areas_: 19% (2019)<br>
-_electrification - rural areas_: 0.4% (2019)<br>
+_population without electricity_: (2020) 82 million<br>
+_electrification - total population_: 20.7% (2021)<br>
+_electrification - urban areas_: 43.7% (2021)<br>
+_electrification - rural areas_: 1% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 2.919 million kW (2020 est.)<br>

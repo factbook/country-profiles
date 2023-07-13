@@ -540,7 +540,7 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 26.929 million kW (2020 est.)<br>
@@ -695,11 +695,11 @@ Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, M
 <strong>note: </strong>the Belgian Federal Police is the national police force and responsible for internal security and nationwide law and order, including migration and border enforcement; the force reports to the ministers of interior and justice <br>
 
 **Military expenditures**<br>
+1.13% of GDP (2023 est.)<br>
 1.2% of GDP (2022 est.)<br>
 1.1% of GDP (2021)<br>
 1% of GDP (2020)<br>
 0.9% of GDP (2019)<br>
-0.9% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active-duty personnel (10,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Component; 7,000 other, including joint staff, support, and training schools) (2023)<br>

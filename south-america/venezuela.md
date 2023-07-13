@@ -710,7 +710,7 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia-People's 
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 39,185 (Colombia) (mid-year 2022)<br>
-<strong>note: </strong>As of September 2022, host governments report more than 7.1 million Venezuelan refugees and migrants worldwide<br>
+<strong>note: </strong>As of March 2023, host governments report more than 7.2 million Venezuelan refugees and migrants worldwide<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 &mdash; Venezuela does not fully meet the minimum standards for the elimination of trafficking and is not making any efforts to do so, therefore Venezuela remained on Tier 3; the Maduro regime (which is not recognized by the United States) took some steps to address trafficking, arresting some complicit individuals and issuing a decree to develop a national action plan; however, the regime did not report assisting victims or prosecuting or convicting traffickers; the regime continued to provide support and a permissive environment to non-state armed groups that recruited and used child soldiers and engaged in sex trafficking and forced labor with impunity; representatives did not make sufficient efforts to curb forced recruitment of children by non-state armed groups (2022)<br>
