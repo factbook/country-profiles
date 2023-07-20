@@ -261,7 +261,7 @@ _urban population_: 53.6% of total population (2023)<br>
 _rate of urbanization_: 3.41% annual rate of change (2015-20 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em><em>due to </em></em><em>high food prices and economic downturn </em><em>- </em>according to the latest analysis, about 940,000 people were estimated to be in “Crisis” and above between June and August 2021 due to high food inflation rates and the negative effects of the COVID‑19 pandemic on the economy; production of rice, a main food staple, was estimated at a below-average level in 2021, a factor that is expected to further aggravate food insecurity in 2022; prices of staple food have been on the rise in most domestic markets since early 2021; the main drivers of the food insecurity are the effects on crop production of floods and high infestations of pests, including Fall Armyworm in some localized areas (2022)<br>
+_severe localized food insecurity_: <em><em>due to </em></em><em>high food prices and macroeconomic challenges </em><em>- </em>levels of acute food insecurity are expected to increase in 2023 associated with high food prices due to high international commodity prices and elevated transportation costs, exacerbated by the unfolding effects of the war in Ukraine on international trade and commodity prices; food availability and access are likely to remain limited by high food prices and below‑average imports; an expected further slowdown in economic domestic growth in 2023 is likely to compound food insecurity conditions for the most vulnerable households; in the June to August 2023 lean season period, over 531,000 people are projected to face acute food insecurity (2023)<br>
 
 **Revenue from forest resources**<br>
 13.27% of GDP (2018 est.)<br>
@@ -523,9 +523,10 @@ _Currency_: Liberian dollars (LRD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 12% (2019)<br>
-_electrification - urban areas_: 18% (2019)<br>
-_electrification - rural areas_: 6% (2019)<br>
+_population without electricity_: (2020) 4 million<br>
+_electrification - total population_: 29.8% (2021)<br>
+_electrification - urban areas_: 49.5% (2021)<br>
+_electrification - rural areas_: 8% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 196,000 kW (2020 est.)<br>

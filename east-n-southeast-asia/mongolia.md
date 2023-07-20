@@ -397,7 +397,7 @@ _selected World Heritage Site locales_: Uvs Nuur Basin (n); Orkhon Valley Cultur
 ## Economy
 
 **Economic overview**<br>
-lower middle-income East Asian economy; large human capital improvements over last 3 decades; agricultural and natural resource rich; Chinese border closures and COVID-19 hurt; growth and poverty decline mainly in rural areas<br>
+lower middle-income East Asian economy; large human capital improvements over last 3 decades; agricultural and natural resource rich; export and consumption-led growth; high inflation due to supply bottlenecks and increased food and energy prices; currency depreciation<br>
 
 **Real GDP (purchasing power parity)**<br>
 $39.063 billion (2021 est.)<br>
@@ -509,7 +509,7 @@ $7.646 billion (2020 est.) note: data are in current year dollars<br>
 $8.416 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-China 81%, Switzerland 9% (2019)<br>
+China 73%, Switzerland 19%, Singapore 2%, South Korea 2%, Russia 1% (2021)<br>
 
 **Exports - commodities**<br>
 copper, coal, gold, iron, animal hair, crude petroleum, zinc (2021)<br>
@@ -520,10 +520,10 @@ $7.34 billion (2020 est.) note: data are in current year dollars<br>
 $9.249 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 31%, Russia 29%, Japan 10%, South Korea 5% (2019)<br>
+China 37%, Russia 27%, Japan 7%, South Korea 5%, Germany 3% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, delivery trucks, construction vehicles, aircraft (2019)<br>
+refined petroleum, cars, delivery trucks, trailers, electricity, iron (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $4.38 billion (31 December 2021 est.)<br>
@@ -545,9 +545,7 @@ _Currency_: togrog/tugriks (MNT) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 91% (2019)<br>
-_electrification - urban areas_: 99% (2019)<br>
-_electrification - rural areas_: 73% (2019)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 1.479 million kW (2020 est.)<br>

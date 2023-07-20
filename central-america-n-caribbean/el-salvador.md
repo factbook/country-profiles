@@ -335,9 +335,9 @@ _elections/appointments_: president and vice president directly elected on the s
 _election results_: <br><em>2019:</em> Nayib Armando BUKELE Ortez elected president - Nayib Armando BUKELE Ortez (GANA) 53.1%, Carlos CALLEJA Hakker (ARENA) 31.72%, Hugo MARTINEZ (FMLN) 14.41%, other 0.77%<br><br><em>2014:</em> Salvador SANCHEZ CEREN elected president in second round; percent of vote in first round - Salvador SANCHEZ CEREN (FMLN) 48.9%, Norman QUIJANO (ARENA) 39%, Antonio SACA (CN) 11.4%, other 0.7%; percent of vote in second round - Salvador SANCHEZ CEREN 50.1%, Norman QUIJANO 49.9%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Asamblea Legislativa (84 seats; members directly elected in multi-seat constituencies and a single nationwide constituency by proportional representation vote to serve 3-year terms)<br>
+_description_: unicameral Legislative Assembly or Asamblea Legislativa (84 seats; members directly elected in multi-seat constituencies and a single nationwide constituency by open-list proportional representation vote to serve 3-year terms)<br>
 _elections_: last held on 28 February 2021 (next to be held in 2024)<br>
-_election results_: percent of vote by party - NI 66.46%, ARENA 12.18%, FMLN 6.91%, GANA 5.29%, PCN 4.08%, NT 1.7%, PDC 1.7%, V 1.01%; seats by party - NI 56, ARENA 14, GANA 5, FMLN 4, PCN 2, PDC 1, NT 1, V 1; composition - men 61, women 23, percent of women 27.4%<br>
+_election results_: percent of vote by party - NI 66.5%, ARENA 12.2%, FMLN 6.9%, GANA 5.3%, PCN 4.1%, other 5%; seats by party - NI 56, ARENA 14, GANA 5, FMLN 4, other 5; composition - men 61, women 23, percent of women 27.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Corte Suprema de Justicia (consists of 15 judges, including its president, and 15 substitute judges organized into Constitutional, Civil, Penal, and Administrative Conflict Chambers)<br>

@@ -487,9 +487,9 @@ $87 million (2008 est.)<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 96.3% (2018)<br>
-_electrification - urban areas_: 95.7% (2018)<br>
-_electrification - rural areas_: 98.4% (2018)<br>
+_electrification - total population_: 99.7% (2021)<br>
+_electrification - urban areas_: 96% (2021)<br>
+_electrification - rural areas_: 92% (2020)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>

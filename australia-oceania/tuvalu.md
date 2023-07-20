@@ -471,7 +471,9 @@ _Currency_: Tuvaluan dollars or Australian dollars (AUD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 99.6% (2021)<br>
+_electrification - urban areas_: 100% (2021)<br>
+_electrification - rural areas_: 99% (2021)<br>
 
 **Coal**<br>
 _production_: 0 metric tons (2020 est.)<br>

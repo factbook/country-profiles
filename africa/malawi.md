@@ -271,7 +271,7 @@ _urban population_: 18.3% of total population (2023)<br>
 _rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em><em>due to </em>localized shortfalls in cereal production and high food prices - </em>an estimated 3.82 million people are expected to experience acute food insecurity between October 2022 and March 2023; this number is more than double the estimate for the January to March 2022 period; high food prices and the effects of weather-induced localized shortfalls in cereal production in 2022, notably in southern districts, are the primary factors underpinning the increase in acute food insecurity (2023)<br>
+_widespread lack of access_: <em><em>due to </em>weather extremes and high food prices - </em>the latest analysis indicates that about 3.8 million people (20 percent of the population) are estimated to have faced high levels of acute food insecurity between January and March 2023; this figure is more than double the number in the corresponding months of 2022; high food prices are the key reason for the deterioration in food insecurity, which, in the absence of a substantial increase in incomes, are severely constraining households’ economic access to food; production shortfalls in southern districts in 2022, areas that have the highest prevalence of food insecurity, are a further contributing factor; the impact of Cyclone Freddy (February-March 2023) on southern districts, including crop losses and destruction of infrastructure as well as high food prices, are expected to aggravate food insecurity conditions in 2023 (2023)<br>
 
 **Revenue from forest resources**<br>
 6.19% of GDP (2018 est.)<br>
@@ -550,9 +550,10 @@ _Currency_: Malawian kwachas (MWK) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 13% (2019)<br>
-_electrification - urban areas_: 55% (2019)<br>
-_electrification - rural areas_: 5% (2019)<br>
+_population without electricity_: (2020) 17 million<br>
+_electrification - total population_: 14.1% (2021)<br>
+_electrification - urban areas_: 54.2% (2021)<br>
+_electrification - rural areas_: 5.5% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 618,000 kW (2020 est.)<br>

@@ -266,7 +266,7 @@ _urban population_: 43.6% of total population (2023)<br>
 _rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict and high food prices -</em> according to the latest analysis, issued in November 2022, the number of people in Crisis and above is estimated at 2.7 million between September 2022 and March 2023; this is mainly attributed to the impact of civil insecurity and high food prices; persisting insecurity and population displacements continue to affect agricultural activities and limit farmers’ access to crop growing areas and agricultural inputs; elevated international prices of fuel and fertilizers, largely imported, have reportedly led to a lower use of agricultural inputs in 2022, especially among smallholder farmers, with a negative impact on yields (2023)<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict and high food prices -</em> according to the latest analysis, issued in July 2023, the number of people in Crisis and above is projected to reach 2.4 million between April and August 2023; this reflects the impact of the ongoing conflict and civil insecurity, as well as the effects of flooding and drought conditions that curbed crop yields and agricultural production (2023)<br>
 
 **Revenue from forest resources**<br>
 8.99% of GDP (2018 est.)<br>
@@ -693,6 +693,6 @@ the 2013 coup resulted in the institutional collapse of the Central African Arme
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,636 (Democratic Republic of Congo), 15,335 (Sudan) (refugees since 15 April 2023) (2023)<br>
+_refugees (country of origin)_: 6,636 (Democratic Republic of Congo), 12,018 (Sudan) (refugees since 15 April 2023) (2023)<br>
 _IDPs_: 474,822 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2023)<br>
 

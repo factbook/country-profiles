@@ -277,7 +277,7 @@ _urban population_: 59.3% of total population (2023)<br>
 _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil insecurity, high food prices, and floods - </em>according to a November 2022 analysis (the latest available), about 3.6 million people were estimated to be acutely food insecure between October and December 2022, as a result of conflict, sociopolitical unrest and high food prices, as well as floods that caused people displacements, damaged standing crops and prevented access to fields (2023)<br>
+_severe localized food insecurity_: <em>due to civil insecurity and high food prices - </em>according to a March 2023 analysis, about 3 million people were estimated to be acutely food insecure between March and August 2023, as a result of conflict, sociopolitical unrest and high food prices, as well as floods that caused population displacements and damaged standing crops (2023)<br>
 
 **Revenue from forest resources**<br>
 2.5% of GDP (2018 est.)<br>
@@ -380,7 +380,7 @@ _subordinate courts_: Parliamentary Court of Justice (jurisdiction limited to ca
 Alliance for Democracy and Development [Marcel YONDO]<br>Cameroon People's Democratic Movement or CPDM [Paul BIYA]<br>Cameroon People's Party or CPP [Edith Kah WALLA]<br>Cameroon Renaissance Movement or MRC [Maurice KAMTO]<br>Cameroonian Democratic Union or UDC [Adamou Ndam NJOYA]<br>Cameroonian Party for National Reconciliation or PCRN [Cabral LIBII]<br>Front for the National Salvation of Cameroon or FSNC [Issa Tchiroma BAKARY]<br>Movement for the Defense of the Republic or MDR [Dakole DAISSALA]<br>Movement for the Liberation and Development of Cameroon or MLDC [Marcel YONDO]<br>National Union for Democracy and Progress or UNDP [Maigari BELLO BOUBA]<br>Progressive Movement or MP [Jean-Jacques EKINDI]<br>Social Democratic Front or SDF [John FRU NDI]<br>Union of Peoples of Cameroon or UPC [Provisionary Management Bureau] [Cecil ODHIAMBO] <br>Union of Socialist Movements NA<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, BDEAC, C, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, BDEAC, C, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Henri ETOUNDI ESSOMBA (since 27 June 2016)<br>

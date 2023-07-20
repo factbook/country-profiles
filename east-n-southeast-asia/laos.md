@@ -547,9 +547,7 @@ _Currency_: kips (LAK) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 95% (2019)<br>
-_electrification - urban areas_: 98% (2019)<br>
-_electrification - rural areas_: 93% (2019)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 9.346 million kW (2020 est.)<br>

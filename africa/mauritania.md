@@ -270,7 +270,7 @@ _urban population_: 57.7% of total population (2023)<br>
 _rate of urbanization_: 3.84% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to high food prices - </em>according to the latest analysis, nearly 695,000 people are projected to be in need of humanitarian assistance during the June to August 2023 lean season; this would be an improvement compared to the previous year, mostly due to the substantial cereal production increase in 2022; high food prices continue to worsen food security, while flooding in 2022, which affected about 54,000 people, has further aggravated the conditions of vulnerable households (2023)<br>
+_widespread lack of access_: <em>due to high food prices - </em>according to the latest analysis, over 472,000 people are projected to be in need of humanitarian assistance during the June to August 2023 lean season; this would be an improvement compared to the previous year, mostly due to a substantial increase in cereal production in 2022; high food prices, in particular of imported wheat, continue to worsen acute food security (2023)<br>
 
 **Revenue from forest resources**<br>
 1.3% of GDP (2018 est.)<br>
@@ -550,9 +550,10 @@ _Currency_: ouguiyas (MRO) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 32% (2019)<br>
-_electrification - urban areas_: 56% (2019)<br>
-_electrification - rural areas_: 4% (2019)<br>
+_population without electricity_: (2020) 3 million<br>
+_electrification - total population_: 47.6% (2021)<br>
+_electrification - urban areas_: 89.6% (2021)<br>
+_electrification - rural areas_: 1% (2020)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 656,000 kW (2020 est.)<br>

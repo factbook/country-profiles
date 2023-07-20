@@ -476,7 +476,7 @@ _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 71,000 kW (2020 est.)<br>
@@ -594,13 +594,14 @@ _major seaport(s)_: Basseterre, Charlestown<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of National Security: St. Kitts and Nevis Defense Force (SKNDF), St. Kitts and Nevis Coast Guard, the Royal St. Christopher and Nevis Police Force (includes a paramilitary Special Services Unit) (2023)<br>
+Ministry of National Security: St. Kitts and Nevis Defense Force (SKNDF), St. Kitts and Nevis Coast Guard, the Royal St. Christopher and Nevis Police Force (2023)<br>
+note: the Nevis Police Force includes the paramilitary Special Services Unit<br>
 
 **Military and security service personnel strengths**<br>
 the SKNDF has approximately 400 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2022)<br>
+the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service (under 18 with written parental permission); no conscription (2022)<br>

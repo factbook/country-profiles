@@ -525,9 +525,7 @@ the US dollar is used<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 85.6% (2018)<br>
-_electrification - urban areas_: 100% (2018)<br>
-_electrification - rural areas_: 79.2% (2018)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 284,000 kW (2020 est.)<br>

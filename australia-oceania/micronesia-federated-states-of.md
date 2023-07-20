@@ -482,9 +482,9 @@ the US dollar is used<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 82% (2018)<br>
-_electrification - urban areas_: 93.5% (2018)<br>
-_electrification - rural areas_: 78.7% (2018)<br>
+_electrification - total population_: 83.6% (2021)<br>
+_electrification - urban areas_: 97.5% (2021)<br>
+_electrification - rural areas_: 79.4% (2021)<br>
 
 **Coal**<br>
 _production_: 0 metric tons (2020 est.)<br>

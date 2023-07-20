@@ -574,7 +574,7 @@ _Currency_: Russian rubles (RUB) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 276.463 million kW (2020 est.)<br>
@@ -730,11 +730,11 @@ Armed Forces of the Russian Federation: Ground Troops (Sukhoputnyye Voyskia, SV)
 <strong>note 1: </strong>the Air Force and Aerospace Defense Forces were merged into the VKS in 2015; VKS responsibilities also include launching military and dual‐use satellites, maintaining military satellites, and monitoring and defending against space threats<br><br><strong>note 2:</strong> the Ministry of Internal Affairs, Federal Security Service, Investigative Committee, Office of the Prosecutor General, and National Guard are responsible for law enforcement; the Federal Security Service is responsible for state security, counterintelligence, and counterterrorism, as well as for fighting organized crime and corruption; the national police force, under the Ministry of Internal Affairs, is responsible for combating all crime<br><br><strong>note 3:</strong> the National Guard was created in 2016 as an independent agency for internal/regime security, combating terrorism and narcotics trafficking, protecting important state facilities and government personnel, and supporting border security; it also participates in armed defense of the country’s territory in coordination with the Armed Forces; forces under the National Guard include the Special Purpose Mobile Units (OMON), Special Rapid Response Detachment (SOBR), and Interior Troops (VV); these troops were originally under the command of the Interior Ministry (MVD); also nominally under the National Guard’s command are the forces of Chechen Republic head Ramzan KADYROV<br>
 
 **Military expenditures**<br>
+4% of GDP (2022 est.)<br>
 4% of GDP (2021 est.)<br>
 4% of GDP (2020 est.)<br>
 3.8% of GDP (2019 est.)<br>
 3.7% of GDP (2018 est.)<br>
-4.2% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 prior to Russia's invasion of Ukraine in February 2022, approximately 850,000 active-duty troops (300,000 Ground Troops; 40,000 Airborne Troops; 150,000 Navy; 160,000 Aerospace Forces; 70,000 Strategic Rocket Forces; approximately 20,000 special operations forces; approximately 100,000 other uniformed personnel (command and control, cyber, support, logistics, security, etc.); estimated 350,000-plus Federal National Guard Troops (2023)<br>

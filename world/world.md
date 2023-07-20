@@ -394,6 +394,7 @@ _population without electricity_: (2020) 757 million<br>
 _electrification - total population_: 91.4% (2021)<br>
 _electrification - urban areas_: 97.6% (2021)<br>
 _electrification - rural areas_: 84.4% (2021)<br>
+<strong>note:</strong> sub-Saharan Africa remains the region with the largest number of people without access to electricity with 77% of the World's total<br>
 
 **Electricity generation sources**<br>
 _fossil fuels_: 60.6% of total installed capacity (2020 est.)<br>

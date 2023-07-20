@@ -571,9 +571,10 @@ _Currency_: Pakistani rupees (PKR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 79% (2019)<br>
-_electrification - urban areas_: 91% (2019)<br>
-_electrification - rural areas_: 72% (2019)<br>
+_population without electricity_: (2020) 46 million<br>
+_electrification - total population_: 94.9% (2021)<br>
+_electrification - urban areas_: 99.9% (2021)<br>
+_electrification - rural areas_: 91.9% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 39.925 million kW (2020 est.)<br>
@@ -718,7 +719,7 @@ _LNG terminal(s) (import)_: Port Qasim<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Pakistan Army (includes National Guard), Pakistan Navy (includes marines, Maritime Security Agency), Pakistan Air Force (Pakistan Fizaia); Ministry of Interior: Frontier Corps, Pakistan Rangers (2023)<br>
+Pakistan Army (includes National Guard), Pakistan Navy (includes marines, Maritime Security Agency), Pakistan Air Force (Pakistan Fizaia)<br><br>Ministry of Interior: Frontier Corps, Pakistan Rangers (2023)<br>
 <strong>note 1:</strong> the National Guard is a paramilitary force and one of the Army's reserve forces, along with the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers<br><br><strong>note 2: </strong>the Frontier Corps is a paramilitary force manned mostly by individuals from the tribal areas and commanded by officers from the Pakistan Army; its primary mission is security of the border with Afghanistan; the Frontier Corps is under the Ministry of Interior, but would report to the Army in times of conflict<br><br><strong>note 3: </strong>the Pakistan Rangers is a paramilitary force operating in Sindh and Punjab<br>
 
 **Military expenditures**<br>

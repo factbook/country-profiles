@@ -527,7 +527,7 @@ _Currency_: Qatari rials (QAR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 10.633 million kW (2020 est.)<br>
@@ -656,7 +656,8 @@ _LNG terminal(s) (export)_: Ras Laffan<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Qatar Armed Forces (QAF): Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, includes Coast Guard), Qatari Amiri Air Force (QAAF); Ministry of Interior: General Directorate of Public Security, General Directorate of Coasts and Border Security, Internal Security Forces (includes Mobile Gendarmerie) (2023)<br>
+Qatar Armed Forces (QAF): Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, includes Coast Guard), Qatari Amiri Air Force (QAAF)<br><br>Ministry of Interior: General Directorate of Public Security, General Directorate of Coasts and Border Security, Internal Security Forces (includes Mobile Gendarmerie) (2023)<br>
+<strong>note:</strong> the national police and Ministry of Interior forces maintain internal security, including preventing terrorism, cyberattacks, and espionage<br>
 
 **Military expenditures**<br>
 5% of GDP (2022 est.)<br>
@@ -669,7 +670,7 @@ Qatar Armed Forces (QAF): Qatari Amiri Land Force (QALF, includes Emiri Guard), 
 information varies; approximately 15,000 active-duty personnel (10,000 Land Force, including Emiri Guard; 3,000 Navy; 2,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Qatari military's inventory includes a broad mix of older and modern weapons systems, mostly from the US and Europe; in the 2010s, Qatar embarked on an extensive military expansion and modernization program with large air, ground, and naval equipment purchases; in recent years, France and the US have been the top suppliers (2023)<br>
+the Qatari military's inventory includes a broad mix of older and modern weapons systems, mostly from the US and Europe; in the 2010s, Qatar embarked on an extensive military expansion and modernization program with large air, ground, and naval equipment purchases; in recent years, France and the US have been the top suppliers; other major suppliers have included Germany, Italy, and the UK (2023)<br>
 
 **Military service age and obligation**<br>
 conscription for men aged 18-35 introduced in 2013; compulsory service times range from 4-12 months, depending on educational and professional circumstances; since 2018, women have been permitted to serve as volunteers in the armed forces, including as uniformed officers and pilots (2023)<br>

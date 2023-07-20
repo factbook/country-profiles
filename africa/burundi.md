@@ -273,7 +273,7 @@ _urban population_: 14.8% of total population (2023)<br>
 _rate of urbanization_: 5.43% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to the effects of weather - </em>about 646,000 people are estimated to be severely food insecure between June and September 2022; the main drivers are poor rains in May in some central and southern eastern areas that affected pulses production, the socio-economic impact of the COVID‑19 pandemic, and high food prices due to elevated fuel prices inflating transport costs (2022)<br>
+_widespread lack of access_: <em>due to the effects of weather - </em>according to the latest estimates, about 1.2 million people are estimated to be facing Crisis levels of acute food insecurity between June and September 2023, unchanged year on year; the main drivers are the lingering impact of floods in northern areas in late 2022 and high food prices due, in part, to the depreciation of the local currency (2023)<br>
 
 **Revenue from forest resources**<br>
 10.31% of GDP (2018 est.)<br>
@@ -371,7 +371,7 @@ _subordinate courts_: Courts of Appeal; County Courts; Courts of Residence; Mart
 Front for Democracy in Burundi-Nyakuri or FRODEBU-Nyakuri [Keffa NIBIZI]<br>Front for Democracy in Burundi-Sahwanya or FRODEBU-Sahwanya [Pierre Claver NAHIMANA]<br>National Congress for Liberty or CNL [Agathon RWASA]<br>National Council for the Defense of Democracy - Front for the Defense of Democracy or CNDD-FDD [Evariste NDAYISHIMIYE]<br>National Liberation Forces or FNL [Jacques BIGITIMANA]<br>Union for National Progress (Union pour le Progress Nationale) or UPRONA [Abel GASHATSI]<br>
 
 **International organization participation**<br>
-ACP, AfDB, ATMIS, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, ATMIS, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Pr&eacute;f&eacute;r&eacute; NDAYISHIMIYE (since 18 March 2023)<br>

@@ -457,9 +457,7 @@ _Currency_: Australian dollars (AUD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 99.8% (2018)<br>
-_electrification - urban areas_: 99.4% (2018)<br>
-_electrification - rural areas_: 98.7% (2018)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 15,000 kW (2020 est.)<br>

@@ -720,7 +720,6 @@ Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes 
 1.5% of GDP (2021)<br>
 1.5% of GDP (2020)<br>
 1.4% of GDP (2019)<br>
-<strong>note:</strong> in 2022, the German Government said defense spending would reach 2% of GDP by 2025<br>
 
 **Military and security service personnel strengths**<br>
 approximately 183,000 active-duty uniformed personnel (62,000 Army; 16,000 Navy; 27,000 Air Force; 20,000 Medical Service, 14,000 Cyber and Information Space Command; 43,000 other, including central staff, support, logistics, etc.) (2023)<br>

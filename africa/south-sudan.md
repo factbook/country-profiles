@@ -236,7 +236,7 @@ _urban population_: 21.2% of total population (2023)<br>
 _rate of urbanization_: 4.12% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to economic downturn, the lingering effects of floods, and prolonged internal conflict -</em> despite sustained humanitarian assistance, food insecurity still affects large segments of the population, owing to rampant inflation and insufficient food supplies due to stagnant agricultural production, the effects of consecutive years with widespread floods, and the escalation of organized violence at the subnational level since 2020; about 7.76 million people, almost two thirds of the total population, are expected to face severe acute food insecurity in the lean season between April and July 2023 (2023)<br>
+_widespread lack of access_: <em>due to economic downturn, the lingering effects of floods, and prolonged internal conflict -</em> despite sustained humanitarian assistance, food insecurity still affects large segments of the population, owing to rampant inflation and insufficient food supplies due to stagnant agricultural production, the effects of consecutive years with widespread floods, and the escalation of organized violence at the sub-national level since 2020; about 7.76 million people, almost two thirds of the total population, are expected to face severe acute food insecurity in the lean season between April and July 2023; the high levels of cereal prices are mainly due to insufficient supplies, low foreign currency reserves, a weak national currency and high fuel prices; further upward pressure was exerted by reduced imports from neighboring Uganda, where exportable surpluses shrunk in 2022 following a reduced cereal production (2023)<br>
 
 **Revenue from forest resources**<br>
 2.65% of GDP (2015 est.)<br>
@@ -467,9 +467,10 @@ _Currency_: South Sudanese pounds (SSP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 28.2% (2018)<br>
-_electrification - urban areas_: 46.8% (2018)<br>
-_electrification - rural areas_: 23.6% (2018)<br>
+_population without electricity_: (2020) 10 million<br>
+_electrification - total population_: 7.7% (2021)<br>
+_electrification - urban areas_: 15.5% (2021)<br>
+_electrification - rural areas_: 5.7% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 121,000 kW (2020 est.)<br>
@@ -623,7 +624,7 @@ the South Sudan People's Defense Forces (SSPDF) are largely focused on internal 
 <p><em>South Sudan- Central African Republic: </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights<br><br><em>South Sudan-Democratic Republic of the Congo</em>: none identified<br><br><em>South Sudan-Ethiopia</em>: the unresolved demarcation of the boundary and lack of clear limitation create substantial room for territorial conflict both locally among the border populations and between the two capitals; besides a large number of indigenous farmers, the border region supports refugees and various rebel groups opposed to the governments in Khartoum and Addis Ababa</p> <p><br><em>South Sudan-Kenya:</em> two thirds of the boundary that separates Kenya and South Sudan's sovereignty known as the Ilemi Triangle has been unclear since British colonial times; Kenya has administered the area since colonial times; officials from Kenya and South Sudan signed a memorandum of understanding on boundary delimitation and demarcation and agreed to set up a joint committee; as of July 2019, the demarcation process was to begin in 90 days, but was delayed due to a lack of funding</p> <p><em>South Sudan-Sudan:</em> present boundary represents 1 January 1956 alignment, which clearly placed the Kafia Kingi area (adjacent to Central African Republic) within South Sudan as shown on US maps although it is mostly occupied by Sudan; final alignment pending negotiations and demarcation; the final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan; clashes continue in the oil-rich Abyei region; the United Nations interim security Force for Abyei (UNISFA) has been deployed since 2011, when South Sudan became independent, Sudan accuses South Sudan of supporting Sudanese rebel groups</p> <p><em>South Sudan-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 139,912 (Sudan) (refugees since 15 April 2023), 11,503 (Democratic Republic of the Congo) (2023)<br>
+_refugees (country of origin)_: 139,912 (Sudan) (refugees since 15 April 2023), 9,782 (Democratic Republic of the Congo) (2023)<br>
 _IDPs_: 2.23 million (alleged coup attempt and ethnic conflict beginning in December 2013; information is lacking on those displaced in earlier years by: fighting in Abyei between the Sudanese Armed Forces and the Sudan People's Liberation Army (SPLA) in May 2011; clashes between the SPLA and dissident militia groups in South Sudan; inter-ethnic conflicts over resources and cattle; attacks from the Lord's Resistance Army; floods and drought) (2023)<br>
 _stateless persons_: 10,000 (2022)<br>
 

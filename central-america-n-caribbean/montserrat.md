@@ -406,6 +406,9 @@ _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
 
 ## Energy
 
+**Electricity access**<br>
+_electrification - total population_: 100% (2020)<br>
+
 **Electricity**<br>
 _installed generating capacity_: 5,000 kW (2020 est.)<br>
 _consumption_: 21.56 million kWh (2019 est.)<br>

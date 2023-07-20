@@ -253,7 +253,7 @@ _urban population_: 78.6% of total population (2023)<br>
 _rate of urbanization_: 1.56% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to unfavorable weather and high food prices - </em>about 192,000 people were estimated to have experienced acute food insecurity between July and December 2022 mainly due to insufficient rains in 2021 and 2022, which affected rangelands and pastoral livelihoods, as well as high food prices (2023)<br>
+_widespread lack of access_: <em>due to unfavorable weather and high food prices - </em>about 250,000 people were estimated to have faced acute food insecurity between March and June 2023, mainly due to the lingering impact of a prolonged and severe drought between late 2020 and early 2023, and high food prices (2023)<br>
 
 **Revenue from forest resources**<br>
 0.26% of GDP (2018 est.)<br>
@@ -335,9 +335,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em>2021</em>: Ismail Omar GUELLEH reelected president for a fifth term; percent of vote - Ismail Omar GUELLEH (RPP) 97.4%, Zakaria Ismael FARAH (MDEND) 2.7%<br><br><em>2016</em>: Ismail Omar GUELLEH reelected president for a fourth term; percent of vote - Ismail Omar GUELLEH (RPP) 87%, Omar Elmi KHAIREH (CDU) 7.3%, other 5.6%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 23 February 2018 (next to be held in February 2023)<br>
-_election results_: percent of vote by party - NA; seats by party - UMP 57, UDJ-PDD 7, CDU 1; composition - men 48, women 17, percent of women 26.2%<br>
+_description_: unicameral National Assembly or Assemblee Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>
+_elections_: last held on 24 February 2023 (next to be held in February 2028)<br>
+_election results_: percent of vote by party - UMP 93.7%, UDJ 6.3%; seats by party - UMP 58, UDJ 7; composition - men 48, women 17, percent of women 26.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of NA magistrates); Constitutional Council (consists of 6 magistrates)<br>

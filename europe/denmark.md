@@ -335,7 +335,7 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 **Legislative branch**<br>
 _description_: unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)<br>
 _elections_: last held on 1 November 2022 (next to be held on 31 October 2026)<br>
-_election results_: <em><br>1 November 2022:</em> percent of vote by party - SDP 27.5%, V 13.3%, M 9.3%, E 8.1%, DF 2.6%, SLP 3.8%, SF 8.3%, EL 5.1%, C 5.5%, AP 3.3%, NB 3.3%, LA 8.1%; seats by party - SDP 50, V 23, M 16, E 14, DF 5, SLP 7, SF 15, EL 9, C 10, AP 6, NB 6, LA 14; composition - men 101, women 78, percent of women 43.6%<br>
+_election results_: <em><br>1 November 2022:</em> percent of vote by party - SDP 27.5%, V 13.3%, M 9.3%, SF 8.3%, E 8.1%, LA 8.1%, C 5.5%, EL 5.1%, SLP 3.8%, AP 3.3%, NB 3.3%, DF 2.6%; seats by party - SDP 50, V 23, M 16, SF 15, E 14, LA 14, C 10, EL 9, SLP 7, AP 6, NB 6, DF 5; composition - men 101, women 78, percent of women 43.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president and 18 judges)<br>
@@ -713,6 +713,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 41,305 (Ukraine) (as of 29 May 2023)<br>
+_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 41,305 (Ukraine) (as of 9 July 2023)<br>
 _stateless persons_: 11,644 (2022)<br>
 

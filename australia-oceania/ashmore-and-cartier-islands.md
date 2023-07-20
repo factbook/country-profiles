@@ -79,9 +79,6 @@ _youth dependency ratio_: NA<br>
 _elderly dependency ratio_: NA<br>
 _potential support ratio_: NA<br>
 
-**Population growth rate**<br>
-0.32% (2021 est.)<br>
-
 **Birth rate**<br>
 NA<br>
 

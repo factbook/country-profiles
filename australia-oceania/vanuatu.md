@@ -500,9 +500,9 @@ _Currency_: vatu (VUV) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 61.8% (2018)<br>
-_electrification - urban areas_: 93.7% (2018)<br>
-_electrification - rural areas_: 51.1% (2018)<br>
+_electrification - total population_: 70% (2021)<br>
+_electrification - urban areas_: 97% (2021)<br>
+_electrification - rural areas_: 60.7% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 35,000 kW (2020 est.)<br>

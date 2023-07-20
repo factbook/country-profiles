@@ -268,7 +268,7 @@ _urban population_: 38.1% of total population (2023)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to reduced incomes - </em>about 1.22 million people are projected to be in need of food assistance between June and August 2022, primarily due to food access constraints on account of the economic effects of the COVID-19 pandemic (2022)<br>
+_severe localized food insecurity_: <em>due to reduced incomes - </em>levels of acute food insecurity are expected to increase in 2023; food prices are likely to remain at high levels, supported by the unfolding effects of the war in Ukraine on international trade; nearly 710,000 people are projected to be acutely food insecure during the June to August 2023 lean season, an improvement compared to 2022 when about 1.22 million people were estimated to face acute food insecurity; acute food insecurity is mainly driven by high food prices (2023)<br>
 
 **Revenue from forest resources**<br>
 4.81% of GDP (2018 est.)<br>

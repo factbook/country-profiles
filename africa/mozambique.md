@@ -557,9 +557,10 @@ _Currency_: meticais (MZM) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 35% (2019)<br>
-_electrification - urban areas_: 57% (2019)<br>
-_electrification - rural areas_: 22% (2019)<br>
+_population without electricity_: (2020) 19 million<br>
+_electrification - total population_: 31.4% (2021)<br>
+_electrification - urban areas_: 77.3% (2021)<br>
+_electrification - rural areas_: 3.8% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 2.765 million kW (2020 est.)<br>

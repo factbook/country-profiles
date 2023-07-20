@@ -363,7 +363,7 @@ _judge selection and term of office_: president of the Supreme Court nominated b
 _subordinate courts_: administrative courts; military courts; local, regional and appellate courts subdivided into military, civil, criminal, labor, and family courts<br>
 
 **Political parties and leaders**<br>
-Agreement [Jaroslaw GOWIN]<br>Civic Platform or PO [Donald TUSK]<br>Konfederajca [Krzysztof BOSAK]<br>Law and Justice or PiS [Jaroslaw KACZYNSKI]<br>New Left or NL [Wlodzimierz CZARZASTY and Robert BIEDRON]<br>Poland 2050 [Szymon HOLOWNIA]<br>Polish People's Party or PSL [Wladyslaw KOSINIAK-KAMYSZ]<br>Republican Party or R [Adam BIELAN]<br>United Poland or SP [Zbigniew ZIOBRO]<br>
+Agreement [Jaroslaw GOWIN]<br>Civic Platform or PO [Donald TUSK]<br>Konfederacja [Krzysztof BOSAK]<br>Law and Justice or PiS [Jaroslaw KACZYNSKI]<br>New Left or NL [Wlodzimierz CZARZASTY and Robert BIEDRON]<br>Poland 2050 [Szymon HOLOWNIA]<br>Polish People's Party or PSL [Wladyslaw KOSINIAK-KAMYSZ]<br>Republican Party or R [Adam BIELAN]<br>United Poland or SP [Zbigniew ZIOBRO]<br>
 
 **International organization participation**<br>
 Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNMISS, UNOCI, UN Security Council (temporary), UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -556,7 +556,7 @@ _Currency_: zlotych (PLN) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 47.269 million kW (2020 est.)<br>
@@ -695,8 +695,8 @@ _river port(s)_: Szczecin (River Oder)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Force (Wojska Obrony Terytorialnej); Ministry of Interior and Administration: Border Guard (includes coast guard duties) (2023)<br>
-<strong>note:</strong> the police force is a national law enforcement body with regional and municipal units overseen by the Ministry of Interior and Administration; the Border Guard is responsible for border security and combating irregular migration and also reports to the Ministry of Interior and Administration<br>
+Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Force (Wojska Obrony Terytorialnej) (2023)<br>
+<strong>note:</strong> the police force is a national law enforcement body with regional and municipal units overseen by the Ministry of Interior and Administration; the Border Guard is responsible for border (including coastal) security and combating irregular migration and also reports to the Ministry of Interior and Administration<br>
 
 **Military expenditures**<br>
 3.9% of GDP (2023 est.)<br>
@@ -736,7 +736,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,627,510 (Ukraine) (as of 26 June 2023)<br>
+_refugees (country of origin)_: 999,960 (Ukraine) (as of 26 June 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

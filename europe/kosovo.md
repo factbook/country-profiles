@@ -611,5 +611,5 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2004 as a result of violence) (2021)<br>
-<strong>note:</strong> 8,655 estimated refugee and migrant arrivals (January 2015-January 2023)<br>
+<strong>note:</strong> 8,884 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
 

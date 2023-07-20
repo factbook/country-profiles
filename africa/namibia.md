@@ -552,9 +552,10 @@ _Currency_: Namibian dollars (NAD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 57% (2019)<br>
-_electrification - urban areas_: 78% (2019)<br>
-_electrification - rural areas_: 36% (2019)<br>
+_population without electricity_: (2020) 1 million<br>
+_electrification - total population_: 55.2% (2021)<br>
+_electrification - urban areas_: 74.7% (2021)<br>
+_electrification - rural areas_: 33.2% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 640,000 kW (2020 est.)<br>

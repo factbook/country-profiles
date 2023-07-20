@@ -344,7 +344,7 @@ ACP, AfDB, AMF, AOSIS, AU, CAEU (candidates), COMESA, FAO, FZ, G-77, IBRD, ICAO,
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Issimail CHANFI (since 23 December 2020)<br>
-_chancery_: Mission to the UN, 866 United Nations Plaza, Suite 495, New York, NY 10017<br>
+_chancery_: Permanent Mission to the UN, 866 United Nations Plaza, Suite 495, New York, NY 10017<br>
 _telephone_: [1] (212) 750-1637<br>
 _FAX_: [1] (212) 750-1657<br>
 _email address and website_: <br>comoros@un.int<br><br>https://www.un.int/comoros/<br>

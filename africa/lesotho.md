@@ -264,7 +264,7 @@ _urban population_: 30.4% of total population (2023)<br>
 _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to poor harvests and increased food prices -</em> according to the latest national food security assessment, 22% of the rural population are expected to face acute food insecurity between October 2022 and March 2023, compared to 15% between July and September 2022; the forecasted proportion translates into 320,000 people in rural areas, while an additional 201,000 people in urban areas are foreseen to also need assistance; the foreseen increase of acute food insecurity levels is primarily due to the reduced harvest, high food prices in basic food and non‑food commodities and a slow recovery of households’ income reflecting a downturn in economic growth; harvesting of the 2022 main-season summer cereal crops, mostly maize and sorghum, is complete; production of maize, the main cereal staple, is about one‑third of the average, while the sorghum output is almost negligible; the poor harvest was primarily due to torrential rainfalls during January and February 2022, which caused localized flooding and resulted in crop losses (2022)<br>
+_severe localized food insecurity_: <em><em>due to h</em>igh food prices and economic downturn - </em>food insecurity conditions are primarily underpinned by the high food prices and a slow economic recovery that is impinging on households’ economic capacity to access food; Lesotho  is a net importer of key staple food commodities and energy, domestic prices have been largely influenced by the high level of international prices (2023)<br>
 
 **Revenue from forest resources**<br>
 3.34% of GDP (2018 est.)<br>
@@ -542,9 +542,10 @@ _Currency_: maloti (LSL) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 36% (2019)<br>
-_electrification - urban areas_: 63% (2019)<br>
-_electrification - rural areas_: 26% (2019)<br>
+_population without electricity_: (2020) 1 million<br>
+_electrification - total population_: 50.3% (2021)<br>
+_electrification - urban areas_: 80.6% (2021)<br>
+_electrification - rural areas_: 37.7% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 74,000 kW (2020 est.)<br>

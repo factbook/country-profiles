@@ -551,9 +551,10 @@ _Currency_: Philippine pesos (PHP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 96% (2019)<br>
-_electrification - urban areas_: 100% (2019)<br>
-_electrification - rural areas_: 93% (2019)<br>
+_population without electricity_: (2020) 3 million<br>
+_electrification - total population_: 97.4% (2021)<br>
+_electrification - urban areas_: 98.6% (2021)<br>
+_electrification - rural areas_: 96.4% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 27.885 million kW (2020 est.)<br>
@@ -706,7 +707,7 @@ Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air F
 approximately 130,000 active duty personnel (90,000 Army; 25,000 Navy, including about 8,000 Marine Corps; 15,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the AFP is equipped with a mix of imported weapons systems, particularly secondhand equipment from the US; the top weapons suppliers in recent years have included South Korea and the US (2022)<br>
+the AFP is equipped with a wide mix of imported weapons systems; in recent years, it has received equipment from more than a dozen countries led by Israel, South Korea, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18-25 (enlisted) and 21-29 (officers) years of age for voluntary military service for men and women; no conscription (2022)<br>

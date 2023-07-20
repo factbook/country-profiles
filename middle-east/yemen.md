@@ -521,10 +521,10 @@ _Currency_: Yemeni rials (YER) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 16 million (2019)<br>
-_electrification - total population_: 47% (2019)<br>
-_electrification - urban areas_: 72% (2019)<br>
-_electrification - rural areas_: 31% (2019)<br>
+_population without electricity_: 16 million (2020) 17 million<br>
+_electrification - total population_: 74.8% (2021)<br>
+_electrification - urban areas_: 93.1% (2021)<br>
+_electrification - rural areas_: 63.4% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 1.772 million kW (2020 est.)<br>

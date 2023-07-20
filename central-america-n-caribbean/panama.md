@@ -540,9 +540,10 @@ _Currency_: balboas (PAB) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 92% (2019)<br>
-_electrification - urban areas_: 99.4% (2019)<br>
-_electrification - rural areas_: 77% (2019)<br>
+_population without electricity_: (2020) less than 1 million<br>
+_electrification - total population_: 95.2% (2021)<br>
+_electrification - urban areas_: 99.7% (2021)<br>
+_electrification - rural areas_: 85.6% (2020)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 4.106 million kW (2020 est.)<br>
@@ -676,7 +677,7 @@ _container port(s) (TEUs)_: Balboa (3,561,432), Colon (4,915,975) (2021)<br>
 
 **Military and security forces**<br>
 no regular military forces; Ministry of Public Security: the Panama National Police (La Policía Nacional de Panamá, PNP), National Aeronaval Service (Servicio Nacional Aeronaval, SENAN), National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2023)<br>
-<strong>note:</strong> the PNP includes a special forces directorate with counterterrorism and counternarcotics units; SENAFRONT has 3 regionally-based border security brigades, plus a specialized brigade comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
+<strong>note:</strong> the PNP includes a special forces directorate with counterterrorism and counternarcotics units; SENAFRONT has three regionally-based border security brigades, plus a specialized brigade comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2022 est.)<br>
@@ -689,7 +690,7 @@ no regular military forces; Ministry of Public Security: the Panama National Pol
 approximately 20,000 National Police; 4,000 National Border Service; 3,000 National Air-Naval Service (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces in recent years (2022)<br>
+Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces in recent years (2023)<br>
 
 **Military - note**<br>
 the Panama National Police is principally responsible for internal law enforcement and public order, while the National Border Service handles border security; the Aeronaval Service is responsible for carrying out naval and air operations that include some internal security responsibilities; key areas of focus are countering narcotics trafficking and securing the border, particularly along the southern border with Colombia where most of the public security forces are deployed<br><br>Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2023)<br>
@@ -700,7 +701,7 @@ the Panama National Police is principally responsible for internal law enforceme
 <p><em>Panama-Colombia</em>: organized illegal narcotics operations in Colombia operate within the remote border region with Panama</p> <p><em>Panama-Costa Rica</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 80,021 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 147,424 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2023)<br>
 
 **Illicit drugs**<br>
 <p>not a major consumer or producer of illicit drugs; a prime sea and land passage for drugs, primarily cocaine, from South America to North America and Europe;   drug traffickers also use millions of shipping containers to smuggle drugs to North America and Europe through the Panama</p><br>

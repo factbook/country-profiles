@@ -267,7 +267,7 @@ _urban population_: 32.5% of total population (2023)<br>
 _rate of urbanization_: 4.75% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil insecurity in the north and high food prices - </em>according to the latest analysis, about 3.53 million people are projected to face acute food insecurity during the June to August 2023 lean season period; this would be a slight increase compared to the preceding year; food insecurity is primarily underpinned by worsening insecurity in Centre-Nord and Sahel regions, which, as of December 2022 (the latest data available), had displaced about 1.88 million people; high food prices further aggravate conditions of the most vulnerable households (2023)<br>
+_severe localized food insecurity_: <em>due to civil insecurity in the north and high food prices - </em>according to the latest analysis, about 3.53 million people are projected to face acute food insecurity during the June to August 2023 lean season period; this would be a slight increase compared to the preceding year; acute food insecurity is primarily underpinned by poor insecurity in northern and eastern areas, and in particular by the use of siege tactics by non-state armed groups in the country’s Sahel region; as of March 2023, civil insecurity resulted in the displacement of about 2.06 million people; persistent high food prices are affecting vulnerable households across the country, particularly those in conflict-affected areas due to market disruptions as well as constrained access to sources of income and humanitarian assistance (2023)<br>
 
 **Revenue from forest resources**<br>
 4.54% of GDP (2018 est.)<br>
@@ -686,7 +686,7 @@ Armed Forces of Burkina Faso ((FABF; aka National Armed Forces (FAN), aka Defens
 
 **Military and security service personnel strengths**<br>
 approximately 14,000 personnel (8,500 Army; 500 Air Force; 5,000 National Gendarmerie) (2023)<br>
-<strong>note: </strong>in 2022, the Burkina Faso Government announced a special recruitment for up to 6,000 additional soldiers to assist with its fight against terrorist groups operating in the country; it also put out a recruitment call for up to 100,000 VDF volunteers (the VDF's original recruited strength was 15,000)<br><strong><br><br></strong><br>
+<strong>note: </strong>in 2022, the Burkina Faso Government announced a special recruitment for up to 6,000 additional soldiers to assist with its fight against terrorist groups operating in the country; it also put out a recruitment call for up to 100,000 VDF volunteers, and as of 2023 had an estimated 90,000 VDF personnel enrolled (the VDF's original recruited strength was 15,000)<br><strong><br><br></strong><br>
 
 **Military equipment inventories and acquisitions**<br>
 the FABF has a mix of mostly older or secondhand equipment from a mix of suppliers, including France, Russia, South Africa, Turkey, the UK, and the US (2023)<br>

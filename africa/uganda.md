@@ -556,9 +556,10 @@ _Currency_: Ugandan shillings (UGX) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 29% (2019)<br>
-_electrification - urban areas_: 66% (2019)<br>
-_electrification - rural areas_: 17% (2019)<br>
+_population without electricity_: (2020) 34 million<br>
+_electrification - total population_: 45.2% (2021)<br>
+_electrification - urban areas_: 72.2% (2021)<br>
+_electrification - rural areas_: 35.9% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 2.397 million kW (2020 est.)<br>

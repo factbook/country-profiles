@@ -274,7 +274,7 @@ _urban population_: 54.3% of total population (2023)<br>
 _rate of urbanization_: 3.92% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em><em>due to persistent civil conflict in the northern areas, </em></em><em>floods, high food prices, and an economic slowdown </em><em>-</em> about 25.3 million people are projected to face acute food insecurity during the June to August 2023 lean season; this would be a significant deterioration compared to last year, when 19.45 million people were estimated to be acutely food insecure; acute food insecurity is mostly driven by the deterioration of security conditions and conflicts in northern states, which have led to the displacement of about 3.17 million people as of March 2022 (the latest data available) and are constraining farmers’ access to their lands; widespread flooding in 2022, affecting about 4.5 million people across the country, has further compounded conditions, particularly in areas already facing high levels of insecurity; high food prices and the expected slowdown in economic growth in 2023 are additional drivers of acute food insecurity (2023)<br>
+_widespread lack of access_: <em><em>due to persistent civil conflict in the northern areas, </em></em><em>floods, high food prices, and an economic slowdown </em><em>- </em>about 24.86 million people are projected to face acute food insecurity during the June to August 2023 lean season, which is more than the 19.45 million people estimated to be acutely food insecure in 2022; acute food insecurity is mostly the result of worsening insecurity and conflicts in northern states, which, as well as impeding farmers’ physical access to their lands and disrupting agricultural activities, led to the displacement of about 3.57 million people as of April 2023; macroeconomic challenges, marked by persistent high inflation, depreciation of the naira on the informal market, high fuel prices and the lingering impacts of cash shortages following the introduction of new banknotes at the start of 2023, have aggravated the food security conditions of vulnerable households (2023)<br>
 
 **Revenue from forest resources**<br>
 1.02% of GDP (2018 est.)<br>
@@ -563,9 +563,10 @@ _Currency_: nairas (NGN) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 62% (2019)<br>
-_electrification - urban areas_: 91% (2019)<br>
-_electrification - rural areas_: 30% (2019)<br>
+_population without electricity_: (2020) 66 million<br>
+_electrification - total population_: 59.6% (2021)<br>
+_electrification - urban areas_: 89.2% (2021)<br>
+_electrification - rural areas_: 26.3% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 11.691 million kW (2020 est.)<br>

@@ -558,9 +558,10 @@ _Currency_: Zambian kwacha (ZMK) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 37% (2019)<br>
-_electrification - urban areas_: 76% (2019)<br>
-_electrification - rural areas_: 6% (2019)<br>
+_population without electricity_: (2020) 12 million<br>
+_electrification - total population_: 46.6% (2021)<br>
+_electrification - urban areas_: 85.7% (2021)<br>
+_electrification - rural areas_: 14.5% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 3.065 million kW (2020 est.)<br>

@@ -351,7 +351,7 @@ _election results_: <br><em>2021:</em> Guillermo LASSO Mendoza elected president
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Asamblea Nacional (137 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 15 members directly elected in a single nationwide constituency by proportional representation vote, and 6 directly elected in multi-seat constituencies for Ecuadorians living abroad by simple majority vote; members serve 4-year terms); note - all Assembly members have alternates from the same party who cast votes when a primary member is absent, resigns, or is removed from office<br>
 _elections_: last held on 7 February 2021 (next scheduled in February 2025)<br>
-_election results_: percent of vote by party - UNES 32.21%, MUPP 16.81%, ID 11.98%, PSC 9.73%, CREO 9.65%, MC-PSE 3.76%, other 15.86%; seats by party - UNES 49, MUPP 27, ID 18, PSC 18, CREO 12, MC-PSE 2, independents 3, other 8; composition as of March 2022 - men 84, women 53, percent of women 38.7%; note - defections by members of National Assembly are commonplace, resulting in frequent changes in the numbers of seats held by the various parties<br>
+_election results_: percent of vote by party - UNES 32.2%, MUPP 16.8%, ID 11.9%, PSC 9.7%, MC-PSE 3.8%, other 15.9%; seats by party - UNES 49, MUPP 27, ID 18, PSC 18, CREO 12, MC-PSE 2, independent 3, other 8; composition as of July 2023 - men 84, women 53, percent of women 38.7%; note - defections by National Assembly members are commonplace, resulting in frequent changes in the numbers of seats held by the various parties<br>
 
 **Judicial branch**<br>
 _highest court(s)_: National Court of Justice or Corte Nacional de Justicia (consists of 21 judges, including the chief justice and organized into 5 specialized chambers); Constitutional Court or Corte Constitucional (consists of the court president and 8 judges)<br>
@@ -726,7 +726,7 @@ the International Maritime Bureau reported no incidents in 2022; the territorial
 <p>organized illegal narcotics operations in Colombia penetrate across Ecuador's shared border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 65,854 (Colombia) (refugees and asylum seekers) (2021); 513,900 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022)<br>
+_refugees (country of origin)_: 65,854 (Colombia) (refugees and asylum seekers) (2021); 502,214 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022)<br>
 
 **Illicit drugs**<br>
 <p>Ecuador is a major transit country for cocaine destined for the United States and other international destinations; criminal groups traffic cocaine precursor chemicals for drug gangs; not a major drug producing country; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>

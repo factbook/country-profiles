@@ -556,9 +556,10 @@ _Currency_: rand (ZAR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 94% (2019)<br>
-_electrification - urban areas_: 95% (2019)<br>
-_electrification - rural areas_: 92% (2019)<br>
+_population without electricity_: (2020) 3 million<br>
+_electrification - total population_: 89.3% (2021)<br>
+_electrification - urban areas_: 87.3% (2021)<br>
+_electrification - rural areas_: 93.3% (2019)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 62.728 million kW (2020 est.)<br>

@@ -549,7 +549,9 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 99.7% (2021)<br>
+_electrification - urban areas_: 100% (2021)<br>
+_electrification - rural areas_: 99.3% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 1.007 million kW (2020 est.)<br>

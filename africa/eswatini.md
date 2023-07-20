@@ -254,7 +254,7 @@ _urban population_: 24.8% of total population (2023)<br>
 _rate of urbanization_: 2.42% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to higher staple food prices - </em>the price of maize meal, the key food staple, increased in the first five months of 2022 and, as of May 2022, were 3 percent higher on a yearly basis; wheat flour prices were also at record highs in May 2022; this mainly reflects the elevated global prices and the country’s high dependence on imported wheat to satisfy national consumption needs (2022)<br>
+_severe localized food insecurity_: <em>due to higher staple food prices - </em>the latest analysis indicates that nearly 259,000 people faced acute food insecurity between January and March 2023, an improvement compared to the previous year; food insecurity in 2022-23 is driven by high food prices and a slowdown in economic growth, curbing households’ income earning opportunities (2023)<br>
 
 **Revenue from forest resources**<br>
 2.25% of GDP (2018 est.)<br>

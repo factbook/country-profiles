@@ -548,7 +548,9 @@ _Currency_: Uzbekistani soum (UZS) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 99.9% (2020)<br>
+_electrification - urban areas_: 100% (2021)<br>
+_electrification - rural areas_: 99.7% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 16.042 million kW (2020 est.)<br>

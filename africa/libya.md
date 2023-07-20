@@ -513,7 +513,8 @@ _Currency_: Libyan dinars (LYD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2019)<br>
+_electrification - total population_: 70.2% (2021)<br>
+_electrification - urban areas_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 10.516 million kW (2020 est.)<br>

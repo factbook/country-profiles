@@ -348,7 +348,7 @@ _election results_: <br><em>2019: </em>Zoran MILANOVIC elected president in seco
 **Legislative branch**<br>
 _description_: unicameral Assembly or Hrvatski Sabor (151 seats; 140 members in 10 multi-seat constituencies and 3 members in a single constituency for Croatian diaspora directly elected by proportional representation vote using the D'Hondt method with a 5% threshold; an additional 8 members elected from a nationwide constituency by simple majority by voters belonging to minorities recognized by Croatia; the Serb minority elects 3 Assembly members, the Hungarian and Italian minorities elect 1 each, the Czech and Slovak minorities elect 1 jointly, and all other minorities elect 2; all members serve 4-year terms<br>
 _elections_: early election held on 5 July 2020 (next to be held by 2024)<br>
-_election results_: percent of vote by coalition/party - HDZ-led coalition 37.3%, Restart coalition 24.9%, DPMS-led coalition 10.9%, MOST 7.4%, Green-Left coalition 7%, P-F-SSIP 4%, HNS-LD 1.3%, NS-R 1%, other 6.2%; number of seats by coalition/party - HDZ-led coalition 66, Restart coalition 41, DPMS-led coalition 16, MOST 8, Green-Left coalition 7, P-F-SSIP 3, HNS-LD 1, NS-R 1, national minorities 8; composition as of January 2021 - men 103, women 48, percent of women 31.8%<br>
+_election results_: <br>percent of vote by coalition/party - HDZ-led coalition 37.3%, Restart coalition 24.9%, DPMS-led coalition 10.9%, MOST 7.4%, Green-Left coalition 7%, P-F-SSIP 4%, HNS-LD 1.3%, NS-R 1%, other 6.2%; number of seats by coalition/party - HDZ-led coalition 66, Restart coalition 41, DPMS-led coalition 16, MOST 8, Green-Left coalition 7, P-F-SSIP 3, HNS-LD 1, NS-R 1, national minorities 8; composition as of January 2021 - men 103, women 48, percent of women 31.8%<br>
 <strong>note:</strong> seats by party as of March 2021 - HDZ 62, SDP 33, DP 9, Most 6, Croatian Sovereignists 4, We Can! 4, IDS 3, SDSS 3, HSS 2, HSLS 2, BZH 1, Center 1, FOKUS 1, GLAS 1, HDS 1, HSU 1, NL 1, Reformists 1, SSIP 1, RF 1, independent 12<br>
 
 **Judicial branch**<br>
@@ -366,8 +366,8 @@ Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FA
 _chief of mission_: Ambassador Pjer SIMUNOVIC (since 8 September 2017)<br>
 _chancery_: 2343 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 588-5899<br>
-_FAX_: [1] (202) 588-8936; [1] (202) 588-8937<br>
-_email address and website_: <br>washington@mvep.hr<br><br>https://mvep.gov.hr/us/en<br>
+_FAX_: [1] (202) 588-8937<br>
+_email address and website_: <br>washington@mvep.hr<br><br>https://mvep.gov.hr/embassy-114969/114969<br>
 _consulate(s) general_: Chicago, Los Angeles, New York, Seattle (WA), Washington, DC<br>
 _consulate(s)_: Anchorage (AL), Houston, Kansas City (MO), New Orleans, Pittsburgh (PA)<br>
 
@@ -722,7 +722,7 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Croatia joined the Schengen Zone on 1 January 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,550 (Ukraine) (as of 30 June 2023)<br>
+_refugees (country of origin)_: 22,600 (Ukraine) (as of 7 July 2023)<br>
 _stateless persons_: 2,889 (2022)<br>
 <strong>note: </strong>813,368 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
 

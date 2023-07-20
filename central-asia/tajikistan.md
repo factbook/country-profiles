@@ -540,7 +540,9 @@ _Currency_: Tajikistani somoni (TJS) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 99.5% (2021)<br>
+_electrification - urban areas_: 98.9% (2021)<br>
+_electrification - rural areas_: 99.8% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 7.114 million kW (2020 est.)<br>

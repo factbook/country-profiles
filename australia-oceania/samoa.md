@@ -503,7 +503,9 @@ _Currency_: tala (SAT) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 98.3% (2021)<br>
+_electrification - urban areas_: 100% (2021)<br>
+_electrification - rural areas_: 97.9% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 50,000 kW (2020 est.)<br>

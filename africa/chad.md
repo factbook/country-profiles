@@ -273,7 +273,7 @@ _urban population_: 24.4% of total population (2023)<br>
 _rate of urbanization_: 4.1% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to civil insecurity and shortfall in cereal production - </em>according to the latest analysis, about 1.5 million people are projected to experience acute food insecurity during the June to August 2023 lean season period; this would be an improvement compared to the previous year, mostly due to the significantly higher year-on-year cereal output in 2022 after the below-average 2021 production; acute food insecurity is underpinned by persistent insecurity in the Lac and Tibesti regions; elevated food prices, as well as the impact of the severe floods in 2022, which affected approximately 1.5 million people and destroyed about 350,000 hectares of farmland, are compounding food insecurity (2023)<br>
+_widespread lack of access_: <em>due to civil insecurity and high food prices - </em>according to the latest analysis, about 1.86 million people are projected to experience acute food insecurity during the June to August 2023 lean season period; this would be an improvement compared to the previous year, mostly due to the higher year-on-year cereal output in 2022 after the below average 2021 production; acute food insecurity is underpinned by persisting insecurity in the Lac and Tibesti regions, which had displaced over 380 000 people by April 2023; furthermore, elevated food prices due to high fuel costs and localized crop losses during the 2022 floods are aggravating food insecurity (2023)<br>
 
 **Revenue from forest resources**<br>
 3.81% of GDP (2018 est.)<br>
@@ -708,7 +708,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 159,060 (Sudan) (includes refugees since 15 April 2023), 127,934 (Central African Republic), 26,552 (Cameroon), 20,974 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 192,473 (Sudan) (includes refugees since 15 April 2023), 127,934 (Central African Republic), 26,552 (Cameroon), 20,974 (Nigeria) (2023)<br>
 _IDPs_: 381,289 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>

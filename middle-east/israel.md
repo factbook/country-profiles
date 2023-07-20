@@ -392,7 +392,7 @@ _selected World Heritage Site locales_: Masada; Old City of Acre; White City of 
 ## Economy
 
 **Economic overview**<br>
-high-income, technology- and industrial-based economy; highly dense, fast-growing labor force; recent debt spikes; persistent inequality and poverty; significant tariff and regulatory burdens, especially in agriculture;&nbsp; quantitative easing in effect<br>
+high-income, technology- and industrial-based economy; highly dense, fast-growing labor force; recent debt spikes; persistent inequality and poverty; significant tariff and regulatory burdens, especially in agriculture; quantitative easing in effect<br>
 
 **Real GDP (purchasing power parity)**<br>
 $393.861 billion (2021 est.)<br>
@@ -510,6 +510,7 @@ $117.779 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 27%, China 8%, India 4%, Germany 3%, Ireland 3% (2021)<br>
+<strong>note:</strong> Approximately, 6% of Israel's exports went to the Gaza Strip and West Bank, but official data are not available individually for the Palestinian territories.<br>
 
 **Exports - commodities**<br>
 diamonds, integrated circuits, refined petroleum, medical instruments, packaged medicines, measuring instruments (2021)<br>
@@ -546,7 +547,7 @@ _Currency_: new Israeli shekels (ILS) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 18.993 million kW (2020 est.)<br>
@@ -648,7 +649,11 @@ _annual freight traffic on registered air carriers_: 994.54 million (2018) mt-km
 42 (2021)<br>
 
 **Airports - with paved runways**<br>
-33<br>
+_total_: 33<br>
+_civil airports_: 4<br>
+_military airports_: 9<br>
+_joint use (civil-military) airports_: 1<br>
+_other airports_: 19<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>

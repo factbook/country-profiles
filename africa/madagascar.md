@@ -532,9 +532,10 @@ _Currency_: Malagasy ariary (MGA) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 39% (2019)<br>
-_electrification - urban areas_: 64% (2019)<br>
-_electrification - rural areas_: 23% (2019)<br>
+_population without electricity_: (2020) 20 million<br>
+_electrification - total population_: 35.1% (2021)<br>
+_electrification - urban areas_: 72.6% (2021)<br>
+_electrification - rural areas_: 10.9% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 587,000 kW (2020 est.)<br>

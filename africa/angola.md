@@ -45,7 +45,7 @@ semiarid in south and along coast to Luanda; north has cool, dry season (May to 
 narrow coastal plain rises abruptly to vast interior plateau<br>
 
 **Elevation**<br>
-_highest point_: Moca 2,620 m<br>
+_highest point_: Moco 2,620 m<br>
 _lowest point_: Atlantic Ocean 0 m<br>
 _mean elevation_: 1,112 m<br>
 
@@ -360,7 +360,7 @@ _subordinate courts_: provincial and municipal courts<br>
 Broad Convergence for the Salvation of Angola Electoral Coalition or CASA-CE [Manuel FERNANDES]<br>National Front for the Liberation of Angola or FNLA; note - party has two factions; one led by Lucas NGONDA; the other by Ngola KABANGU<br>National Union for the Total Independence of Angola or UNITA [Adalberto Costa JUNIOR] (largest opposition party)<br>Popular Movement for the Liberation of Angola or MPLA [Joao LOURENCO]; note- ruling party in power since 1975<br>Social Renewal Party or PRS [Benedito DANIEL]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OPEC, SADC, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OPEC, SADC, UN, UNCTAD, UNESCO, UNIDO, UNMISS, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Appointed Ambassador Agostinho de Carvalho dos Santos VAN-D&Uacute;NEM (since 2 June 2023)<br>

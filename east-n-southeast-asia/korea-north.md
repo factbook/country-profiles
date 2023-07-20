@@ -479,9 +479,10 @@ _Currency_: North Korean won (KPW) per US dollar (average market rate)<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 26% (2019)<br>
-_electrification - urban areas_: 36% (2019)<br>
-_electrification - rural areas_: 11% (2019)<br>
+_population without electricity_: (2020) 19 million<br>
+_electrification - total population_: 52.6% (2021)<br>
+_electrification - urban areas_: 36% (2020)<br>
+_electrification - rural areas_: 11% (2020)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 8.413 million kW (2020 est.)<br>
@@ -575,7 +576,11 @@ P<br>
 82 (2021)<br>
 
 **Airports - with paved runways**<br>
-39<br>
+_total_: 39<br>
+_civil airports_: 1<br>
+_military airports_: 18<br>
+_joint use (civil-military) airports_: 1<br>
+_other airports_: 19<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>

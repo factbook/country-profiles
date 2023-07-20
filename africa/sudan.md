@@ -542,9 +542,10 @@ _Currency_: Sudanese pounds (SDG) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 47% (2019)<br>
-_electrification - urban areas_: 71% (2019)<br>
-_electrification - rural areas_: 35% (2019)<br>
+_population without electricity_: (2020) 23 million<br>
+_electrification - total population_: 61.7% (2021)<br>
+_electrification - urban areas_: 84.2% (2021)<br>
+_electrification - rural areas_: 49.3% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 4.354 million kW (2020 est.)<br>
@@ -721,6 +722,6 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; Harakat Sawa’d Misr<br
 <p><em>Sudan-Central African Republic</em>: periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights; Sudan closed its border with the Central African Republic in January 2022 due to security concerns</p> <p><em>Sudan-Chad</em>: Chad wants to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; however, since the August 2020 Juba Peace Agreement between the Sudanese Government and the Sudanese Revolutionary Front and the termination of the UN’s peacekeeping mission, UNAMID, at the end of 2020, violence continues to break out over land and water access</p> <p><em>Sudan-Egypt</em>: Sudan claims, but Egypt de facto administers, security and economic development of the Halaib region north of the 22nd parallel boundary</p> <p><em>Sudan-Eritrea</em>: none identified</p> <p><em>Sudan-Ethiopia</em>: civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; clashes continue between Sudan and Ethiopia over al-Fashaga, a fertile piece of land inhabited by Ethiopian farmers for years until the Sudanese army expelled them in December 2020, claiming the land belonged to Sudan based on colonial-era maps from over 100 years ago; in February, 2022, the two countries were discussing resuming talks over the border conflict</p> <p><em>Sudan-Libya</em>: none identified</p> <p><em>Sudan-South Sudan</em>: the South Sudan-Sudan boundary represents 1 January 1956 alignment, final alignment pending negotiations and demarcation; final sovereignty status of Abyei area pending negotiations between South Sudan and Sudan; clashes continue in the oil-rich Abyei region; the United Nations Interim Security Force for Abyei (UNISFA) has been deployed since 2011, when South Sudan became independent; the United Nations Interim Security Force for Abyei (UNISFA) has condemned renewed clashes on 23 September 2022 between the Twik and Ngok Dinka communities taking place in Agok, 28 kilometres from Abyei town</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 808,336 (South Sudan) (refugees and asylum seekers), 137,402 (Eritrea) (refugees and asylum seekers), 93,477 (Syria) (refugees and asylum seekers), 72,334 (Ethiopia) (refugees and asylum seekers), 24,370 (Central African Republic) (2023)<br>
-_IDPs_: 1.67 million (armed conflict between rival factions of the military government of Sudan since 15 April 2023) (2023)<br>
+_refugees (country of origin)_: 882,765 (South Sudan) (refugees and asylum seekers), 137,402 (Eritrea) (refugees and asylum seekers), 93,477 (Syria) (refugees and asylum seekers), 72,334 (Ethiopia) (refugees and asylum seekers), 24,370 (Central African Republic) (2023)<br>
+_IDPs_: 2.41 million (armed conflict between rival factions of the military government of Sudan since 15 April 2023) (2023)<br>
 

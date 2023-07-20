@@ -277,7 +277,7 @@ _urban population_: 47.4% of total population (2023)<br>
 _rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to internal conflict in eastern regions and high food prices - </em>according to an October 2022 analysis, 24.5 million people were projected to experience acute food insecurity between January and June 2023; this is due to persistent conflict in the eastern provinces of North Kivu, South Kivu and Ituri, which continues to cause population displacements, and to high prices of domestic food staples (2023)<br>
+_widespread lack of access_: <em>due to internal conflict in eastern regions and high food prices - </em>according to an October 2022 analysis, 24.5 million people were projected to experience acute food insecurity between January and June 2023; this is due to the intensification of the conflict in the northeastern provinces, which, among other factors, has prevented completion of the harvests and likely will reduce food availability in the months to come (2023)<br>
 
 **Revenue from forest resources**<br>
 8.72% of GDP (2018 est.)<br>
@@ -385,7 +385,7 @@ _subordinate courts_: State Security Court; Court of Appeals (organized into adm
 Christian Democrat Party or PDC [Jose ENDUNDO]<br>Congolese Rally for Democracy or RCD [Azarias RUBERWA]<br>Convention of Christian Democrats or CDC [NA]<br>Engagement for Citizenship and Development or ECiDe [Martin FAYULU]<br>Forces of Renewal or FR [Mbusa NYAMWISI]<br>Lamuka coalition [Martin FAYULU] (includes ECiDe, MLC, Together for Change, CNB, and Nouvel Elan)<br>Movement for the Liberation of the Congo or MLC [Jean-Pierre BEMBA]<br>Nouvel Elan [Adolphe MUZITO]<br>Our Congo or CNB ("Congo Na Biso") [Freddy MATUNGULU]<br>People's Party for Reconstruction and Democracy or PPRD [Henri MOVA Sakanyi]<br>Social Movement for Renewal or MSR [Pierre LUMBI]<br>Together for Change ("Ensemble") [Moise KATUMBI]<br>Unified Lumumbist Party or PALU [NA]<br>Union for the Congolese Nation or UNC [Vital KAMERHE]<br>Union for Democracy and Social Progress or UDPS [Felix TSHISEKEDI]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, CEMAC, CEPGL, COMESA, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, CEMAC, CEPGL, COMESA, EAC, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Marie-H&eacute;l&egrave;ne Mathey Boo LOWUMBA (since 7 June 2022)<br>

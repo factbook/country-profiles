@@ -529,9 +529,10 @@ _Currency_: leones (SLL) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 26% (2019)<br>
-_electrification - urban areas_: 52% (2019)<br>
-_electrification - rural areas_: 6% (2019)<br>
+_population without electricity_: (2020) 6 million<br>
+_electrification - total population_: 27.4% (2021)<br>
+_electrification - urban areas_: 56.9% (2021)<br>
+_electrification - rural areas_: 4.9% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 180,000 kW (2020 est.)<br>

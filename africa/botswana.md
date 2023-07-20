@@ -363,7 +363,7 @@ _subordinate courts_: Industrial Court (with circuits scheduled monthly in the c
 Alliance of Progressives or AP [Ndaba GAOLATHE]<br>Botswana Congress Party or BCP [Dumelang SALESHANDO]<br>Botswana Democratic Party or BDP [Mokgweetsi MASISI]<br>Botswana National Front or BNF [Duma BOKO]<br>Botswana Patriotic Front or BPF [Biggie BUTALE]<br>Botswana Peoples Party or BPP [Motlatsi MOLAPISI]<br>Umbrella for Democratic Change or UDC [Duma BOKO] (various times the coalition has included the BPP, BCP, BNF and other parties)<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Onkokame Kitso MOKAILA (since 17 September 2020)<br>

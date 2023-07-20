@@ -256,7 +256,7 @@ _urban population_: 47.9% of total population (2023)<br>
 _rate of urbanization_: 4.2% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions and internal conflict - </em>about 6.5 million people are estimated to face severe acute food insecurity between April and June 2023 as a result of consecutive poor rainy seasons since late 2020 and heightened conflict since early 2021 (2023)<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions and internal conflict - </em>the food security situation remains dire and, at national level, about 6.5 million people (almost 40 percent of the total population) are projected to have faced severe acute food insecurity between April and June 2023; the high prevalence and severity of food insecurity are due to prolonged drought, which began in late 2020 and caused severe crop and livestock losses; the impact of the drought on households’ food security has been compounded by prolonged conflicts and hikes in international prices of wheat and fuel caused by the war in Ukraine (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 29.51 micrograms per cubic meter (2016 est.)<br>
@@ -510,9 +510,10 @@ _Currency_: Somali shillings (SOS) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 18% (2019)<br>
-_electrification - urban areas_: 34% (2019)<br>
-_electrification - rural areas_: 4% (2019)<br>
+_population without electricity_: (2020) 10 million<br>
+_electrification - total population_: 49.3% (2021)<br>
+_electrification - urban areas_: 70.6% (2021)<br>
+_electrification - rural areas_: 30.6% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 91,000 kW (2020 est.)<br>

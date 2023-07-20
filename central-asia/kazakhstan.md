@@ -556,7 +556,7 @@ _Currency_: tenge (KZT) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 25.022 million kW (2020 est.)<br>
@@ -666,7 +666,11 @@ UP<br>
 96 (2021)<br>
 
 **Airports - with paved runways**<br>
-63<br>
+_total_: 63<br>
+_civil airports_: 18<br>
+_military airports_: 5<br>
+_joint use (civil-military) airports_: 2<br>
+_other airports_: 38<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>

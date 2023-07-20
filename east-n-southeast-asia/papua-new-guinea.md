@@ -536,9 +536,9 @@ _Currency_: kina (PGK) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 58.9% (2018)<br>
-_electrification - urban areas_: 82% (2018)<br>
-_electrification - rural areas_: 55.4% (2018)<br>
+_electrification - total population_: 20.9% (2021)<br>
+_electrification - urban areas_: 65.1% (2021)<br>
+_electrification - rural areas_: 14% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 1.139 million kW (2020 est.)<br>
@@ -672,7 +672,7 @@ _LNG terminal(s) (export)_: Port Moresby<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Papua New Guinea Defense Force (PNGDF; includes land, maritime, and air elements); Ministry of Police: Royal Papua New Guinea Constabulary and Correctional Services (2022)<br>
+Papua New Guinea Defense Force (PNGDF): Land Element, Maritime Element, Air Element<br><br>Ministry of Internal Security: Royal Papua New Guinea Constabulary (RPNGC) (2023)<br>
 
 **Military expenditures**<br>
 0.3% of GDP (2022 est.)<br>
@@ -682,16 +682,16 @@ Papua New Guinea Defense Force (PNGDF; includes land, maritime, and air elements
 0.3% of GDP (2018) (approximately $100 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 3,000 active duty troops (2022)<br>
+approximately 2,500 active-duty PNGDF troops (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PNGDF is lightly armed; most of its military assistance has come from Australia (2022)<br>
+the PNGDF is lightly armed; most of its military assistance has come from Australia (2023)<br>
 
 **Military service age and obligation**<br>
 18-27 for a general enlistee or 18-30 for an officer cadet; no conscription (2022)<br>
 
 **Military - note**<br>
-the PNGDF is a small, lightly armed, and underfunded force that is assessed to have limited combat capabilities; it is tasked with defense of the country and its territories against external attack, as well as internal security duties; the PNGDF was established in 1973, and its primary combat unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until Papua New Guinea gained its independence in 1975, when it became part of the PNGDF<br><br>Papua New Guinea's traditional security partners are Australia, Indonesia, New Zealand, and the US; Australia and the US are assisting the country with expanding and improving the Defense Force naval base at Lombrum on Manus Island; the US first established a Lombrum base in 1944 during World War II; in recent years, Papua New Guinea has established security ties with France and the UK; the US and PNG signed a defense cooperation agreement in May 2023, which included a shiprider agreement that provides the opportunity for PNG personnel to work on US Coast Guard and US Navy vessels, and vice versa, to tackle maritime crime such as illegal fishing (2023)<br>
+the PNGDF is a small, lightly armed, and underfunded force tasked with defense of the country and its territories against external attack, as well as internal security and socio-economic development duties; the Land Element includes two infantry battalions, an engineer battalion, a signal squadron, an explosive ordnance disposal unit, and a preventive medicine platoon; the Air Element is a small air wing operating a light transport aircraft and two leased helicopters while the Maritime Element consists of four patrol boats and two landing craft<br><br>the PNGDF was established in 1973, and its primary combat unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until Papua New Guinea gained its independence in 1975, when it became part of the PNGDF<br><br>Papua New Guinea's traditional security partners are Australia, Indonesia, New Zealand, and the US; Australia and the US are assisting the country with expanding and improving the Defense Force naval base at Lombrum on Manus Island; the US first established a Lombrum base in 1944 during World War II; in recent years, Papua New Guinea has established security ties with France and the UK; the US and PNG signed a defense cooperation agreement in May 2023, which included a shiprider agreement that provides the opportunity for PNG personnel to work on US Coast Guard and US Navy vessels, and vice versa, to tackle maritime crime such as illegal fishing (2023)<br>
 
 ## Transnational Issues
 

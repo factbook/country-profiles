@@ -555,9 +555,10 @@ _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 71% (2019)<br>
-_electrification - urban areas_: 94% (2019)<br>
-_electrification - rural areas_: 50% (2019)<br>
+_population without electricity_: (2020) 5 million<br>
+_electrification - total population_: 67.9% (2021)<br>
+_electrification - urban areas_: 93.9% (2021)<br>
+_electrification - rural areas_: 43.4% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 1.312 million kW (2020 est.)<br>
@@ -691,8 +692,8 @@ _major seaport(s)_: Dakar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army, Senegalese National Navy (Marine Senegalaise, MNS), Senegalese Air Force (l'Armee de l'Air du Senegal), National Gendarmerie (includes Territorial and Mobile components); Ministry of Interior: National Police (2023)<br>
-<strong>note:</strong> the National Police operates in major cities, while the Gendarmerie primarily operates outside urban areas; both services have specialized anti-terrorism units<br>
+Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army, Senegalese National Navy (Marine Senegalaise, MNS), Senegalese Air Force (l'Armee de l'Air du Senegal), National Gendarmerie (includes Territorial and Mobile components) (2023)<br>
+<strong>note:</strong> the National Police under the Ministry of Interior operates in major cities, while the Gendarmerie under the FAS primarily operates outside urban areas; both services have specialized anti-terrorism units<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2022 est.)<br>

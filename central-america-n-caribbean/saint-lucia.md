@@ -498,9 +498,7 @@ _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 99.5% (2018)<br>
-_electrification - urban areas_: 97.5% (2018)<br>
-_electrification - rural areas_: 99.9% (2018)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 92,000 kW (2020 est.)<br>
@@ -610,8 +608,8 @@ _major seaport(s)_: Castries, Cul-de-Sac, Vieux-Fort<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Royal Saint Lucia Police Force (includes Special Service Unit, Marine Unit) (2023)<br>
-note: the RSLPF has responsibility for law enforcement and maintenance of order within the country; it is under the Ministry of Home Affairs, Justice, and National Security<br>
+no regular military forces; Royal Saint Lucia Police Force (RSLPF)  (2023)<br>
+<strong>note:</strong> the RSLPF has responsibility for law enforcement and maintenance of order within the country; it is under the Ministry of Home Affairs, Justice, and National Security and includes a Special Service Unit and a Marine Unit<br>
 
 **Military - note**<br>
 Saint Lucia has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2023)<br>

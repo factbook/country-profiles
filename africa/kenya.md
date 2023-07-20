@@ -264,7 +264,7 @@ _urban population_: 29.5% of total population (2023)<br>
 _rate of urbanization_: 4.09% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions - </em>about 4.4 million people were projected to be severely acutely food insecure between October and December 2022 reflecting consecutive poor rainy seasons since late 2020 that affected crop and livestock production; prices of maize are at high levels across the country due to reduced availabilities and high fuel prices inflating production and transportation costs (2023)<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to weather extremes - </em>according to the latest estimates, about 5.4 million people were acutely food insecure between March and June 2023, reflecting the lingering impact of a prolonged and severe drought between late 2020 and early 2023 that affected crop and livestock production, mainly in northern and eastern pastoral and marginal agricultural areas (2023)<br>
 
 **Revenue from forest resources**<br>
 1.3% of GDP (2018 est.)<br>
@@ -556,9 +556,10 @@ _Currency_: Kenyan shillings (KES) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 85% (2019)<br>
-_electrification - urban areas_: 99% (2019)<br>
-_electrification - rural areas_: 79% (2019)<br>
+_population without electricity_: (2020) 12 million<br>
+_electrification - total population_: 76.5% (2021)<br>
+_electrification - urban areas_: 97.5% (2021)<br>
+_electrification - rural areas_: 68.1% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 3.304 million kW (2020 est.)<br>

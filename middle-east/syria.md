@@ -513,9 +513,10 @@ _Currency_: Syrian pounds (SYP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 92% (2019)<br>
-_electrification - urban areas_: 100% (2019)<br>
-_electrification - rural areas_: 84% (2019)<br>
+_population without electricity_: (2020) 2 million<br>
+_electrification - total population_: 88.8% (2021)<br>
+_electrification - urban areas_: 100% (2021)<br>
+_electrification - rural areas_: 74.5% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 10.082 million kW (2020 est.)<br>
@@ -689,7 +690,7 @@ Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras 
 <p><em>Syria-Iraq</em>: none identified</p> <p><em>Syria-Israel</em>: Golan Heights is Israeli-controlled with UN Disengagement Observer Force (UNDOF) patrolling a buffer zone since 1974; because of ceasefire violations and increased military activity in the Golan Heights, the UN Security Council continues to extend UNDOF’s mandate; since 2000, Lebanon has claimed Shab'a Farms in the Golan Heights</p> <p><em>Syria-Jordan</em>: the two countries signed an agreement in 2005 to settle the border dispute based on a 1931 demarcation accord; the two countries began demarcation in 2006</p> <p><em>Syria-Lebanon</em>: discussions on demarcating the two countries’ maritime borders were held in April 2021, after Syria signed a contract with a Russian company to conduct oil and gas exploration in a disputed maritime area, but the issue was not resolved</p> <p><em>Syria-Turkey</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 568,730 (Palestinian Refugees) (2020); 11,121 (Iraq) (mid-year 2022)<br>
+_refugees (country of origin)_: 580,000 (Palestinian Refugees) (2022); 11,121 (Iraq) (mid-year 2022)<br>
 _IDPs_: 6.75 million (ongoing civil war since 2011) (2022)<br>
 _stateless persons_: 160,000 (2022); note - Syria's stateless population consists of Kurds and Palestinians; stateless persons are prevented from voting, owning land, holding certain jobs, receiving food subsidies or public healthcare, enrolling in public schools, or being legally married to Syrian citizens; in 1962, some 120,000 Syrian Kurds were stripped of their Syrian citizenship, rendering them and their descendants stateless; in 2011, the Syrian Government granted citizenship to thousands of Syrian Kurds as a means of appeasement; however, resolving the question of statelessness is not a priority given Syria's ongoing civil war<br>
 <strong>note:</strong> the ongoing civil war has resulted in almost 5.3 million registered Syrian refugees - dispersed mainly in Egypt, Iraq, Jordan, Lebanon, and Turkey - as of June 2023<br>

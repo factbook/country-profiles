@@ -381,6 +381,9 @@ _Currency_: Saint Helenian pounds (SHP) per US dollar -<br>
 
 ## Energy
 
+**Electricity access**<br>
+_electrification - total population_: 100% (2021)<br>
+
 **Electricity**<br>
 _installed generating capacity_: 8,000 kW (2020 est.)<br>
 _consumption_: 6.809 million kWh (2019 est.)<br>

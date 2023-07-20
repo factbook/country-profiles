@@ -273,7 +273,7 @@ _urban population_: 17.1% of total population (2023)<br>
 _rate of urbanization_: 4.72% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to internal conflict, high food prices, and floods - </em>about 2.87 million people are projected to be acutely food insecure during the June to August 2023 lean season period; this would be an improvement on the situation in 2022, mostly reflecting the sharp upturn in crop yields following the below‑average cereal output in 2021; persistent insecurity continues to disrupt livelihoods and has displaced over 360,000 people as of January 2023, mostly in the Diffa, Tahoua and Tillabery regions; high food prices, as well as the floods in 2022 that affected about 327,000 people, are additional factors that have aggravated food insecurity (2023)<br>
+_widespread lack of access_: <em>due to internal conflict, high food prices, and floods - </em>about 3.28 million people are projected to be acutely food insecure during the June to August 2023 lean season period; this would be an improvement on the situation in 2022, mostly reflecting the sharp upturn in crop yields following the below average cereal output in 2021; persistent insecurity continues to disrupt livelihoods and has displaced over 370,000 people, mostly in the Diffa, Tahoua and Tillabery regions, as of May 2023; high food prices, as well as the floods in 2022 that affected about 327,000 people, are additional factors that have aggravated food insecurity (2023)<br>
 
 **Revenue from forest resources**<br>
 4.41% of GDP (2018 est.)<br>
@@ -560,9 +560,10 @@ _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 14% (2019)<br>
-_electrification - urban areas_: 71% (2019)<br>
-_electrification - rural areas_: 2% (2019)<br>
+_population without electricity_: (2020) 21 million<br>
+_electrification - total population_: 18.6% (2021)<br>
+_electrification - urban areas_: 65.9% (2021)<br>
+_electrification - rural areas_: 9% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 324,000 kW (2020 est.)<br>
@@ -704,7 +705,7 @@ Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force
 information varies; approximately 12,000 active FAN troops (8,000 Army; 200 Air Force; 4,000 Gendarmerie); approximately 3,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAN's inventory consists of a wide variety of older weapons; in recent years, it has received small amounts of mostly secondhand equipment and donations from several countries, led by the US (2023)<br>
+the FAN's inventory consists of a wide variety of older weapons; in recent years, it has received small amounts of mostly secondhand equipment and donations from several countries, including Egypt and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for selective compulsory or voluntary military service for unmarried men and women; 24-month service term (2023)<br>

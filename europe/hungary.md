@@ -550,7 +550,7 @@ _Currency_: forints (HUF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 10.873 million kW (2020 est.)<br>
@@ -659,7 +659,11 @@ HA<br>
 41 (2021)<br>
 
 **Airports - with paved runways**<br>
-20<br>
+_total_: 20<br>
+_civil airports_: 4<br>
+_military airports_: 3<br>
+_joint use (civil-military) airports_: 0<br>
+_other airports_: 13<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
@@ -732,7 +736,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 36,330 (Ukraine) (as of 26 June 2023)<br>
+_refugees (country of origin)_: 52,335 (Ukraine) (as of 9 July 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

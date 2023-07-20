@@ -269,7 +269,7 @@ _elections/appointments_: the monarch is hereditary; governor appointed by the m
 **Legislative branch**<br>
 _description_: unicameral Parliament of Curacao (21 seats; members directly elected by party-list proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 19 March 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - MFK 28.1%, PAR 14.1%, PNP 12.6%, MAN 6.5%, KEM 5.4%, TPK 5.3%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition - NA<br>
+_election results_: <br>percent of vote by party - MFK 28.1%, PAR 14.1%, PNP 12.6%, MAN 6.5%, KEM 5.4%, TPK 5.3%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition - NA<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court, in The Hague, Netherlands<br>
@@ -507,7 +507,7 @@ defense is the responsibility of the Kingdom of the Netherlands; the Dutch Gover
 ## Transnational Issues
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,200 (Venezuela) (2021)<br>
+_refugees (country of origin)_: 14,000 (Venezuela) (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 &mdash; Curacao does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore Curacao was downgraded to Tier 3; the government took some steps to address trafficking, including providing pre-trial support to three victims participating in legal proceedings against traffickers, awarding restitution to two victims, and extending the national action plan that expired in December 2021; however, authorities did not convict any traffickers or identify any victims, and continued to condition assistance to foreign victims on their cooperation with law enforcement in cases against traffickers; officials conflated trafficking with migrant smuggling, and the lack of funding remained a primary obstacle to anti-trafficking efforts; limited judiciary familiarity with trafficking contributed to frequent acquittals in trafficking cases (2022)<br>

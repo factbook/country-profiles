@@ -535,7 +535,7 @@ _Currency_: Macedonian denars (MKD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 1.928 million kW (2020 est.)<br>
@@ -687,7 +687,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,620 (Ukraine) (as of 11 June 2023)<br>
+_refugees (country of origin)_: 10,725 (Ukraine) (as of 10 July 2023)<br>
 _stateless persons_: 521 (2022)<br>
 <strong>note:</strong> 556,191 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
 

@@ -342,7 +342,7 @@ _election results_: <em>2023; </em>2nd Round Petr PAVEL 58.3%, Andrej BABIS 41.6
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br><br>Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)<br>
 _elections_: Senate - last held in 2 rounds on 23-24 September and 30 September and 1 October 2022 (next to be held in October 2024)<br>Chamber of Deputies - last held on 8-9 October 2021 (next to be held by October 2025)<br>
-_election results_: Senate - percent of vote by party - seats by party - ODS 23, STAN 15, KDU-CSL 12, ANO 5, TOP 09 6, CSSD 1, SEN 21 4, Pirates 2, minor parties with one seat each 9, independents 1 <br><br>Chamber of Deputies - percent of vote by party – SPOLU 27.8%, Action of Dissatisfied Persons (ANO)27.1%, Pirates and Mayors of Independents (STAN) 15.6%, Freedom and Direct Democracy 9.6%, other 19.9%; seats by party - Action of Dissatisfied Persons 72, SPOLU 71, Pirates and Mayors 37, Freedom and Direct Democracy 20<br>
+_election results_: <br>Senate - percent of vote by party NA; - seats by party - ODS 23, STAN 15, KDU-CSL 12, TOP 09 6, ANO 5, SEN 21 4, other 15, independent 1 <br>Chamber of Deputies - percent of vote by party – SPOLU 27.8%, ANO 27.1%, Pirates and STAN 15.6%, SPD 9.6%, other 19.9%; seats by party - ANO 72, SPOLU 71, Pirates and STAN 37, SPD 20<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (organized into Civil Law and Commercial Division, and Criminal Division each with a court chief justice, vice justice, and several judges); Constitutional Court (consists of 15 justices); Supreme Administrative Court (consists of 36 judges, including the court president and vice president, and organized into 6-, 7-, and 9-member chambers)<br>
@@ -350,7 +350,7 @@ _judge selection and term of office_: Supreme Court judges proposed by the Chamb
 _subordinate courts_: High Court; regional and district courts<br>
 
 **Political parties and leaders**<br>
-Christian Democratic Union-Czechoslovak People's Party or KDU-CSL [Marian JURECKA]<br>Civic Democratic Party or ODS [Petr FIALA]<br>Communist Party of Bohemia and Moravia or KSCM [Katerina KONECNA]<br>Czech Social Democratic Party or CSSD [Michal SMARDA]<br>Freedom and Direct Democracy or SPD [Tomio OKAMURA]<br>Mayors and Independents or STAN [Vit RAKUSAN]<br>Mayors for the Liberec Region [Martin PUTA]<br>Movement of Dissatisfied Citizens or ANO [Andrej BABIS]<br>Party of Free Citizens Svobodni [Libor VONDRACEK]<br>Pirate Party or Pirates [Ivan BARTOS]<br>Senator 21 [Vaclav LASKA]<br>Tradition Responsibility Prosperity 09 or TOP 09 [Marketa PEKAROVA ADAMOVA]<br>
+Christian Democratic Union-Czechoslovak People's Party or KDU-CSL [Marian JURECKA]<br>Civic Democratic Party or ODS [Petr FIALA]<br>Communist Party of Bohemia and Moravia or KSCM [Katerina KONECNA]<br>Czech Social Democratic Party or CSSD [Michal SMARDA]<br>Freedom and Direct Democracy or SPD [Tomio OKAMURA]<br>Mayors and Independents or STAN [Vit RAKUSAN]<br>Mayors for the Liberec Region [Martin PUTA]<br>Action of Dissatisfied Citizens or ANO (<em lang="cs">Akce nespokojených občanů)</em> [Andrej BABIS]<br>Party of Free Citizens Svobodni [Libor VONDRACEK]<br>Pirate Party or Pirates [Ivan BARTOS]<br>Senator 21 [Vaclav LASKA]<br>Tradition Responsibility Prosperity 09 or TOP 09 [Marketa PEKAROVA ADAMOVA]<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -715,7 +715,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 533,490 (Ukraine) (as of 2 July 2023)<br>
+_refugees (country of origin)_: 352,315 (Ukraine) (as of 9 July 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

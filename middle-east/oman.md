@@ -528,9 +528,7 @@ _Currency_: Omani rials (OMR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 99% (2019)<br>
-_electrification - urban areas_: 100% (2019)<br>
-_electrification - rural areas_: 92% (2019)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 8.601 million kW (2020 est.)<br>

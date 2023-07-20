@@ -566,9 +566,10 @@ _Currency_: Tanzanian shillings (TZS) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 40% (2019)<br>
-_electrification - urban areas_: 71% (2019)<br>
-_electrification - rural areas_: 23% (2019)<br>
+_population without electricity_: (2020) 37 million<br>
+_electrification - total population_: 42.7% (2021)<br>
+_electrification - urban areas_: 77.3% (2021)<br>
+_electrification - rural areas_: 23.3% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 1.623 million kW (2020 est.)<br>
@@ -745,7 +746,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 126,614 (Burundi), 88,066 (Democratic Republic of the Congo) (2023)<br>
+_refugees (country of origin)_: 126,381 (Burundi), 88,066 (Democratic Republic of the Congo) (2023)<br>
 
 **Illicit drugs**<br>
 <p>significant transit country for illicit drugs in East Africa; international drug trafficking organizations and courier networks transit illicit drugs through mainland Tanzania to markets in Europe and North America; cultivates cannabis and khat for domestic consumption and regional and international distribution; domestic drug use continues increasing including methamphetamine use</p> (2021)<br>

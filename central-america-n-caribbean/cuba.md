@@ -345,7 +345,7 @@ _election results_: <br><em>2023: </em>Miguel DIAZ-CANEL Bermudez (PCC) reelecte
 **Legislative branch**<br>
 _description_: unicameral National Assembly of People's Power or Asamblea Nacional del Poder Popular (605 seats; (586 seats filled in 2021); members directly elected by absolute majority vote; members serve 5-year terms); note 1 - the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes otherwise the seat remains vacant or the Council of State can declare another election; note 2 - in July 2019, the National Assembly passed a law which reduces the number of members from 605 to 474, effective with the 2023 general election<br>
 _elections_: last held on 26 March 2023 (next to be held in early 2028)<br>
-_election results_: Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed; composition (as of June 2021) - men 273, women 313, percent of women 53.4%<br>
+_election results_: <br>Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed; composition (as of June 2021) - men 273, women 313, percent of women 53.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: People's Supreme Court (consists of court president, vice president, 41 professional justices, and NA lay judges); organization includes the State Council, criminal, civil, administrative, labor, crimes against the state, and military courts)<br>
@@ -361,9 +361,9 @@ ACP, ALBA, AOSIS, CELAC, EAEU (observer), FAO, G-77, IAEA, ICAO, ICC (national c
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Lianys TORRES RIVERA (since 14 January 2021)<br>
 _chancery_: 2630 16th Street NW, Washington, DC 20009<br>
-_telephone_: [1] (202) 797-8515 through 8518<br>
+_telephone_: [1] (202) 797-8515<br>
 _FAX_: [1] (202) 797-8521<br>
-_email address and website_: <br>recepcion@usadc.embacuba.cu<br><br>http://misiones.minrex.gob.cu/en/usa<br>
+_email address and website_: <br>recepcion@usadc.embacuba.cu<br><br>https://misiones.cubaminrex.cu/en/usa/embassy-cuba-usa<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Timothy ZUNIGA-BROWN (since 31 July 2020)<br>

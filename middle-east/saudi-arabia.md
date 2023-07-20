@@ -542,7 +542,7 @@ _Currency_: Saudi riyals (SAR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 76.785 million kW (2020 est.)<br>
@@ -695,7 +695,7 @@ the Saudi Armed Forces have about 250,000 total active troops; approximately 125
 <strong>note:</strong> SANG also has an irregular force (Fowj), primarily Bedouin tribal volunteers, with a total strength of approximately 25,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Saudi military forces, including the SANG, includes a mix of mostly modern weapons systems from the US and Europe; in recent years, the US has been the leading supplier of armaments; Saudi Arabia is one of the world's largest importers of arms  (2022)<br>
+the inventory of the Saudi military forces, including the SANG, includes a mix of mostly modern weapons systems from the US and Europe; in recent years, the US has been the leading supplier of armaments; other major suppliers include France and the UK; Saudi Arabia is one of the world's largest importers of arms (2023)<br>
 <strong>note:</strong> as of 2022, the Saudi Navy was in the midst of a multi-year and multi-billion dollar expansion and modernization program to purchase new frigates, corvettes, and other naval craft; in 2022, it received two of an expected five corvettes as part of a joint construction effort with Spain; in 2018, it signed a contract to acquire four US-built multi-purpose littoral mission ships, which will be comparable to frigates in capabilities<br>
 
 **Military service age and obligation**<br>

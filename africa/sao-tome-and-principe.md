@@ -403,7 +403,7 @@ $0 (2018 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 7.86% (2018 est.)<br>
-5.7% (2017 est.)<br>
+5.6% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11.8% (2017 est.)<br>
@@ -519,9 +519,10 @@ _Currency_: dobras (STD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 71% (2019)<br>
-_electrification - urban areas_: 87% (2019)<br>
-_electrification - rural areas_: 25% (2019)<br>
+_population without electricity_: (2020) less than 1 million<br>
+_electrification - total population_: 78.4% (2021)<br>
+_electrification - urban areas_: 80% (2021)<br>
+_electrification - rural areas_: 73.7% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 28,000 kW (2020 est.)<br>
