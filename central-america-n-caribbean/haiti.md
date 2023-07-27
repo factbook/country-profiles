@@ -259,7 +259,7 @@ _urban population_: 59.7% of total population (2023)<br>
 _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to high food prices, natural disasters, sociopolitical turmoil, and worsening insecurity -</em> about 4.7 million people are projected to be facing severe acute food insecurity and are in need of urgent food assistance between March and June 2023; the high levels of food insecurity are the result of elevated food prices, an economic downturn, frequent natural disasters, exacerbated by sociopolitical turmoil and worsening insecurity; the population experiencing the highest levels of acute food insecurity is located in the Cité Soleil commune of the capital city, Port-au-Prince, where inter-gang violence severely affects households’ access to markets and essential services<br> (2023)<br>
+_severe localized food insecurity_: <em>due to high food prices, natural disasters, and worsening civil insecurity - </em>about 4.9 million people are estimated to face severe acute food insecurity and were in need of urgent food assistance between March and June 2023; the high levels of food insecurity are the result of sustained economic downturn, reducing domestic food production, elevated food prices, fuel shortage and frequent natural disasters; the situation is exacerbated by worsening insecurity, which has limited access to essential services, including markets, caused population displacements and hampered delivery of humanitarian assistance (2023)<br>
 
 **Revenue from forest resources**<br>
 0.68% of GDP (2018 est.)<br>
@@ -338,10 +338,10 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <br><em>2016:</em> Jovenel MOISE elected president in first round; percent of vote - Jovenel MOISE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOISE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8%<br><br><em>2011:</em> Michel MARTELLY elected president in runoff; percent of vote - Michel MARTELLY (Peasant's Response) 68%, Mirlande MANIGAT (RDNP) 32%<br>
 
 **Legislative branch**<br>
-_description_: bicameral legislature or le Corps legislatif ou le Parlement consists of:<br>le Sénat de la République or Senate (30 seats; 10 filled as of March 2022); members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms (2-term limit) with one-third of the membership renewed every 2 years)<br>la Chambre des députés or Chamber of Deputies (119 seats; 0 filled as of March 2022; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms; no term limits); note - when the 2 chambers meet collectively it is known as L'Assemblée nationale or the National Assembly and is convened for specific purposes spelled out in the constitution<br>
+_description_: bicameral legislature or le Corps legislatif ou le Parlement consists of:<br>Senate or le Sénat de la République (30 seats; 0 filled as of January 2023); members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms (2-term limit) with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Chambre des députés (119 seats; 0 filled as of January 2023; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms; no term limits); note - when the 2 chambers meet collectively it is known as the National Assembly or L'Assemblée nationale and is convened for specific purposes spelled out in the constitution<br>
 _elections_: <br>Senate - last held on 20 November 2016 with runoff on 29 January 2017 (next originally scheduled for 27 October 2019 but postponed until political and civil society actors agree to a consensual process) <br>Chamber of Deputies - last held on 9 August 2015 with runoff on 25 October 2015 and 20 November 2016 (next originally scheduled for 27 October 2019 but postponed until political and civil society actors agree to a consensual process)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 10, women 0, percent of women 0%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - NA<br>
-<em>note:</em> the Chamber of Deputies is currently defunct, and the Senate is only one-third filled (not enough seats for a quorum)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition - NA<br>Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - NA<br>
+<em>note:</em> the Senate and Chamber of Deputies as of January 2023 was not functional<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour de cassation (currently 11 of 12 judges as prescribed by the constitution, 8 of whom were appointed in March 2023); note - Haiti is a member of the Caribbean Court of Justice; Constitutional Court, called for in the 1987 constitution but not yet established; High Court of Justice, for trying high government officials - currently not functional<br>
@@ -356,7 +356,7 @@ Alternative League for Haitian Progress and Emancipation (Ligue Alternative pour
 ACP, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OIF, OPANAL, OPCW, PCA, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Bocchit EDMOND (since 23 December 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Louis Harold JOSEPH (since 15 May 2023)<br>
 _chancery_: 2311 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-4090<br>
 _FAX_: [1] (202) 745-7215<br>
@@ -533,7 +533,7 @@ _Currency_: gourdes (HTG) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 7 million<br>
+_population without electricity_: 7 million (2020)<br>
 _electrification - total population_: 47.1% (2021)<br>
 _electrification - urban areas_: 81.8% (2021)<br>
 _electrification - rural areas_: 3% (2020)<br>

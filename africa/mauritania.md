@@ -550,7 +550,7 @@ _Currency_: ouguiyas (MRO) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 3 million<br>
+_population without electricity_: 3 million (2020)<br>
 _electrification - total population_: 47.6% (2021)<br>
 _electrification - urban areas_: 89.6% (2021)<br>
 _electrification - rural areas_: 1% (2020)<br>

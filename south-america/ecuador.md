@@ -362,7 +362,7 @@ _subordinate courts_: provincial courts (one for each province except Galapagos)
 Avanza Party or AVANZA [Javier ORTI Torres]<br>Central Democratic Movement or CD [Jimmy JAIRALA]<br>Citizen Revolution Movement or MRC or RC5 [Marcela AGUIÑAGA]<br>Creating Opportunities Movement or CREO [Guido CHIRIBOGA]<br>Democratic Left or ID [Enrique CHÁVEZ]<br>Pachakutik Plurinational Unity Movement or MUPP [Guillermo CHURUCHUMBI]<br>Patriotic Society Party or PSP [Lucio GUTIERREZ Borbua]<br>Social Christian Party or PSC [Alfredo SERRANO]<br>Socialist Party [Gustavo VALLEJO] <br>Society United for More Action or SUMA [Guillermo CELI]<br>
 
 **International organization participation**<br>
-CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, Pacific Alliance (observer), PCA, PROSUR, SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, Pacific Alliance (observer), PCA, PROSUR, SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Ivonne Leila Juez De A-BAKI (since 6 February 2020)<br>

@@ -262,7 +262,7 @@ _urban population_: 19.2% of total population (2023)<br>
 _rate of urbanization_: 1.22% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to serious macroeconomic challenges, significant reduction in 2022 cereal output, and high food prices</em> - severe macroeconomic challenges, mostly reflecting dwindling foreign currency reserves after revenues from merchandise exports, remittances, and from the tourist sector declined dramatically over the last year, have had a negative impact on the country’s capacity to import cereals; the 2022 cereal production sharply declined due to a government ordered reduction in the application of chemical fertilizers; unprecedentedly high food prices are constraining economic access to food for a majority of households<br>
+_widespread lack of access_: <em>due to unfavorable prospects for 2023 agricultural output and high prices of key food items - </em>the 2023 cereal production is forecast below the five-year average, mostly reflecting constraints on farmers’ access to agricultural inputs; elevated prices of key food items are also constraining economic access to food for a large number of households (2023)<br>
 
 **Revenue from forest resources**<br>
 0.06% of GDP (2018 est.)<br>
@@ -545,7 +545,7 @@ _Currency_: Sri Lankan rupees (LKR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2019)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 4.527 million kW (2020 est.)<br>

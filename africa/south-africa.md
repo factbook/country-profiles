@@ -98,7 +98,7 @@ Black African 80.9%, Colored 8.8%, White 7.8%, Indian/Asian 2.6% (2021 est.)<br>
 <strong>note:</strong> colored is a term used in South Africa, including on the national census, for persons of mixed race ancestry who developed a distinct cultural identity over several hundred years<br>
 
 **Languages**<br>
-isiZulu (official) 25.3%, isiXhosa (official) 14.8%, Afrikaans (official) 12.2%, Sepedi (official) 10.1%, Setswana (official) 9.1%, English (official) 8.1%, Sesotho (official) 7.9%, Xitsonga (official) 3.6%, siSwati (official) 2.8%, Tshivenda (official) 2.5%, isiNdebele (official) 1.6%, other (includes Khoi, Nama, and San languages) 2%; note - data represent language spoken most often at home (2018 est.)<br>
+isiZulu or Zulu (official) 25.3%, isiXhosa or Xhosa (official) 14.8%, Afrikaans (official) 12.2%, Sepedi of Pedi (official) 10.1%, Setswana or Tswana (official) 9.1%, English (official) 8.1%, Sesotho or Sotho (official) 7.9%, Xitsonga or Tsonga (official) 3.6%, siSwati or Swati (official) 2.8%, Tshivenda or Venda (official) 2.5%, isiNdebele or Ndebele (official) 1.6%, other (includes South African sign language (official) and Khoi or Khoisan or Khoe languages) 2%; note - data represent language spoken most often at home (2018 est.)<br>
 _major-language sample(s)_: <br>Die Wereld Feite Boek, n’ onontbeerlike bron vir basiese informasie. (Afrikaans)<br><br>The World Factbook, the indispensable source for basic information. (English)<br>
 
 **Religions**<br>
@@ -556,7 +556,7 @@ _Currency_: rand (ZAR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 3 million<br>
+_population without electricity_: 3 million (2020)<br>
 _electrification - total population_: 89.3% (2021)<br>
 _electrification - urban areas_: 87.3% (2021)<br>
 _electrification - rural areas_: 93.3% (2019)<br>

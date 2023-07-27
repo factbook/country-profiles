@@ -249,7 +249,7 @@ _urban population_: 81.6% of total population (2023)<br>
 _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to civil insecurity, economic and political instability, and high food prices -</em> an estimated 800,000 people, 10% of the population, need humanitarian assistance, of which 500,000 require food assistance; the country relies heavily on imports (up to 90%) to cover its cereal consumption requirements (mostly wheat for human consumption and barley for feed); between 2016 and 2020, the country sourced over 30% of its wheat imports from Ukraine, and 20% from the Russian Federation; almost 65% of total maize imports of 650,000 mt, and 50% of total barley imports of 1 million mt originated from Ukraine, making the Libya vulnerable to disruptions in shipments from the Black Sea region (2022)<br>
+_severe localized food insecurity_: <em>due to civil insecurity, economic and political instability, and high food prices -</em> a 2023 analysis states that about 300,000 people are estimated to be in need of humanitarian assistance in 2023; the country relies heavily on imports (up to 90%) to cover its cereal consumption requirements (mostly wheat for human consumption and barley for feed); between 2016 and 2020, the country sourced over 30% of its wheat imports from Ukraine, and 20% from the Russian Federation; almost 65% of total maize imports of 650,000 mt, and 50% of total barley imports of 1 million mt originated from Ukraine, making the Libya vulnerable to disruptions in shipments from the Black Sea region (2023)<br>
 
 **Revenue from forest resources**<br>
 0.06% of GDP (2018 est.)<br>

@@ -542,7 +542,7 @@ _Currency_: maloti (LSL) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 1 million<br>
+_population without electricity_: 1 million (2020)<br>
 _electrification - total population_: 50.3% (2021)<br>
 _electrification - urban areas_: 80.6% (2021)<br>
 _electrification - rural areas_: 37.7% (2021)<br>

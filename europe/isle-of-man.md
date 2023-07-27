@@ -269,9 +269,9 @@ _elections/appointments_: the monarchy is hereditary; lieutenant governor appoin
 _election results_: <em>2021:</em> Alfred CANNAN (independent) elected chief minister; Tynwald House of Keys vote - 21 of 24<br><br><em>2016:</em> Howard QUAYLE elected chief minister; Tynwald House of Keys vote - 21 of 33<br>
 
 **Legislative branch**<br>
-_description_: bicameral Tynwald or the High Court of Tynwald consists of:<br>Legislative Council (11 seats; includes the President of Tynwald, 2 ex-officio members - the Lord Bishop of Sodor and Man and the attorney general (non-voting) - and 8 members indirectly elected by the House of Keys with renewal of 4 members every 2 years; elected members serve 4-year terms) <br>House of Keys (24 seats; 2 members directly elected by simple majority vote from 12 constituencies to serve 5-year terms)<br>
-_elections_: <br>Legislative Council - last held 29 February 2020 (next to be held on 28 February 2022)<br>House of Keys - last held on 23 September 2021 (next to be held in September 2026)<br>
-_election results_: <p>Legislative Council - composition (as of 2022) - men 6, women 4, 1 vacancy; percent of women 36.4%</p> <p>House of Keys - percent of vote by party - Liberal Vannin 5.3%, Manx Labour Prty 5.1%, Green Party 3.3% independent 86.3%; seats by party - independent 21; Manx Labour Party 2, Liberal Vannin 1; composition – men 14, women 10, percent of women 41.7%; note - total Tynwald percent of women 37.1%</p><br>
+_description_: bicameral Tynwald or the High Court of Tynwald consists of:<br>Legislative Council (11 seats; includes the President of Tynwald, 2 ex-officio (non-voting) members - the Lord Bishop of Sodor and Man and the attorney general - and 8 members indirectly elected by the House of Keys with renewal of 4 members every 2 years; elected members serve 4-year terms) <br>House of Keys (24 seats; 2 members each from 12 constituencies directly elected by simple majority vote to serve 5-year terms)<br>
+_elections_: <br>Legislative Council - last held 14 March 2023 (next to be held by March 2028)<br>House of Keys - last held on 23 September 2021 (next to be held on 24 September 2026)<br>
+_election results_: <p>Legislative Council - composition (as of 2022) - men 7, women 3, 1 vacancy; percent of women 30%</p> <p>House of Keys - percent of vote by party - Liberal Vannin 5.3%, Manx Labour Party 5.1%, Green Party 3.3% independent 86.3%; seats by party - independent 21; Manx Labour Party 2, Liberal Vannin 1; composition – men 14, women 10, percent of women 41.7%; note - total Tynwald percent of women 37.1%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Isle of Man High Court of Justice (consists of 3 permanent judges or "deemsters" and 1 judge of appeal; organized into the Staff of Government Division or Court of Appeal and the Civil Division); the Court of General Gaol Delivery is not formally part of the High Court but is administered as though part of the High Court and deals with serious criminal cases; note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
@@ -427,7 +427,7 @@ _Currency_: Manx pounds (IMP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 ## Communications
 

@@ -337,7 +337,7 @@ _election results_: <em>2022</em>: José RAMOS-HORTA elected president in a run-
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by closed, party-list proportional representation vote using the D'Hondt method to serve 5-year terms)<br>
-_elections_: last held on 12 May 2018 (next to be held in May 2023)<br>
+_elections_: last held May 2023 (next to be held in May 2028)<br>
 _election results_: percent of vote by party in 2023 elections - CNRT 41.5%, FRETILIN 25.8%, PD 9.3%, KHUNTO 7.5%, PLP 6%, other 9.9%; seats by party - CNRT 31, FRETILIN 19, PD 6, KHUNTO 5, PLP 4; note - 12 other parties received votes, but won no seats<br><br>percent of vote by party in 2018 elections - AMP 49.6%, FRETILIN 34.2%, PD 8.1%, DDF 5.5%, other 2.6%; seats by party - AMP 34, FRETILIN 23, PD 5, DDF 3; composition - men 39, women 26, percent of women 40%; note - AMP (Alliance for Change and Progress) was a coalition of CNRT, PLP, and KHUNTO which dissolved in May of 2020<br>
 
 **Judicial branch**<br>

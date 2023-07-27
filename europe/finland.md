@@ -340,7 +340,7 @@ _chief of state_: President Sauli NIINISTO (since 1 March 2012)<br>
 _head of government_: Prime Minister Petteri ORPO (since 20 June 2023)<br>
 _cabinet_: Council of State or Valtioneuvosto appointed by the president, responsible to Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 28 January 2018 (next to be held in January 2024); prime minister appointed by Parliament<br>
-_election results_: <em>2018:</em> Sauli NIINISTO reelected president; percent of vote - Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%<br><br><em>2012: </em>Sauli NIINISTO elected president; percent of vote - Sauli NIINISTO (National Coalition Party) 62.6%, Pekka HAAVISTO (Vihr) 37.4%<br>
+_election results_: <em><br>2018:</em> Sauli NIINISTO reelected president; percent of vote - Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%<br><br><em>2012: </em>Sauli NIINISTO elected president; percent of vote - Sauli NIINISTO (Kok) 62.6%, Pekka HAAVISTO (Vihr) 37.4%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms)<br>

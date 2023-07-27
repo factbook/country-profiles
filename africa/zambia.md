@@ -273,7 +273,7 @@ _urban population_: 46.3% of total population (2023)<br>
 _rate of urbanization_: 4.15% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to reduced incomes and localized shortfalls in cereal production -</em> cereal production declined to a below‑average level in 2022 and along with the impact of rising food prices, the number of food insecure is foreseen to increase at the end of 2022 to levels above the 1.6 million people estimated in the first quarter of 2022 (2022)<br>
+_severe localized food insecurity_: <em>due to reduced incomes and localized shortfalls in cereal production -</em>an estimated 1.95 million people were projected to face acute food insecurity between October 2022 and March 2023, an increase compared to the 1.6 million people estimated in 2021/22; the high level of acute food insecurity is associated with the effects of a below-average cereal harvest and high food prices that adversely impacted households’ food availability and access (2023)<br>
 
 **Revenue from forest resources**<br>
 4.45% of GDP (2018 est.)<br>
@@ -375,10 +375,10 @@ _subordinate courts_: Court of Appeal; High Court; Industrial Relations Court; s
 Alliance for Democracy and Development or ADD [Charles MILUPI]<br>Forum for Democracy and Development or FDD [Edith NAWAKWI]<br>Movement for Multiparty Democracy or MMD [Dr. Nevers MUMBA]<br>Party of National Unity and Progress or PNUP [Highvie HAMUDUDU]<br>Patriotic Front or PF [Edgar LUNGU]<br>United Party for National Development or UPND [Hakainde HICHILEMA]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, C, COMESA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, C, COMESA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Margaret KAPIHYA&nbsp;(since 13 January 2023)<br>
+_chief of mission_: Ambassador Chibamba KANYAMA (since 30 June 2023)<br>
 _chancery_: 2200 R Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 234-4009<br>
 _FAX_: [1] (202) 332-0826<br>
@@ -558,7 +558,7 @@ _Currency_: Zambian kwacha (ZMK) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 12 million<br>
+_population without electricity_: 12 million (2020)<br>
 _electrification - total population_: 46.6% (2021)<br>
 _electrification - urban areas_: 85.7% (2021)<br>
 _electrification - rural areas_: 14.5% (2021)<br>

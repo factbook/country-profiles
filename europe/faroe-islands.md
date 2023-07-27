@@ -273,7 +273,6 @@ _chief of state_: Queen MARGRETHE II of Denmark (since 14 January 1972), represe
 _head of government_: Prime Minister Aksel V. JOHANNESEN&nbsp; (since 22 December 2022)<br>
 _cabinet_: Landsstyri appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; high commissioner appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the Faroese Parliament; election last held on 31 August 2019 (next to be held in 2023)<br>
-_election results_: <em>2022:</em> Aksel V. JOHANNESEN elected prime minister; Parliament vote - NA<em><br><br>2019:</em> Bardur A STEIGNIELSEN elected prime minister; Parliament vote - NA<br><br><em>2015:</em>  Aksel V. JOHANNESEN elected prime minister; Parliament vote - NA<br>
 
 **Legislative branch**<br>
 _description_: unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>the Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms<br>

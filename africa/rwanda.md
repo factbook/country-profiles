@@ -364,7 +364,7 @@ _subordinate courts_: High Court of the Republic; commercial courts including th
 Democratic Green Party of Rwanda or DGPR [Frank HABINEZA]<br>Liberal Party or PL [Donatille MUKABALISA]<br>Party for Progress and Concord or PPC [Dr. Alivera MUKABARAMBA]<br>Rwandan Patriotic Front or RPF [Paul KAGAME]<br>Rwandan Patriotic Front Coalition (includes RPF, PPC) [Paul KAGAME]<br>Social Democratic Party or PSD [Vincent BIRUTA]<br>Social Party Imberakuri or PS-Imberakuri [Christine MUKABUNANI]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, C, CEPGL, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, C, CEPGL, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mathilde MUKANTABANA (since 18 July 2013)<br>
@@ -542,7 +542,7 @@ _Currency_: Rwandan francs (RWF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 5.8 million<br>
+_population without electricity_: 5.8 million (2020)<br>
 _electrification - total population_: 48.7% (2021)<br>
 _electrification - urban areas_: 97.9% (2021)<br>
 _electrification - rural areas_: 38.1% (2021)<br>

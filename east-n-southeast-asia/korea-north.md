@@ -246,7 +246,7 @@ _urban population_: 63.2% of total population (2023)<br>
 _rate of urbanization_: 0.85% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to low food consumption levels, poor dietary diversity, and economic downturn -</em> a large portion of the population suffers from low levels of food consumption and very poor dietary diversity; the economic constraints, particularly resulting from the global impact of the COVID‑19 pandemic, have increased the population’s vulnerability to food insecurity; the food gap is estimated at about 860,000 mt, equivalent to approximately 2-3 months of food use, if this gap is not adequately covered through commercial imports and/or food aid, households could experience a harsh lean period (2022)<br>
+_widespread lack of access_: <em>due to low food consumption levels, poor dietary diversity, and economic downturn -</em>the food security situation is expected to remain fragile, given persisting economic constraints aggravated by a below-average 2022 agricultural output (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 30.4 micrograms per cubic meter (2016 est.)<br>
@@ -479,7 +479,7 @@ _Currency_: North Korean won (KPW) per US dollar (average market rate)<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 19 million<br>
+_population without electricity_: 19 million (2020)<br>
 _electrification - total population_: 52.6% (2021)<br>
 _electrification - urban areas_: 36% (2020)<br>
 _electrification - rural areas_: 11% (2020)<br>

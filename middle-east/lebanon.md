@@ -252,7 +252,7 @@ _urban population_: 89.4% of total population (2023)<br>
 _rate of urbanization_: -1.23% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to the ongoing financial and economic crisis -</em> in September 2021, the United Nations estimated that, taking into account multiple factors other than income, such as access to health, education and public utilities, 82% of the population lives in multidimensional poverty in 2021, up from 42% in 2019 (2022)<br>
+_widespread lack of access_: <em>due to the ongoing financial and economic crisis - </em>according to the latest analysis, about 1.46 million Lebanese residents (38% of the resident population) were subjected to severe food insecurity between January and April 2023 (2023)<br>
 
 **Revenue from forest resources**<br>
 0% of GDP (2018 est.)<br>
@@ -327,7 +327,7 @@ _residency requirement for naturalization_: unknown<br>
 21 years of age; authorized for all men and women regardless of religion; excludes persons convicted of felonies and other crimes or those imprisoned; excludes all military and security service personnel regardless of rank<br>
 
 **Executive branch**<br>
-_chief of state_: vacant<br>
+_chief of state_: president (vacant)<br>
 _head of government_: Caretaker Prime Minister Najib MIQATI (since 20 September 2021)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president and Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament with two-thirds majority vote in the first round and if needed absolute majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016 (presidential election ongoing as of mid-May 2023); prime minister appointed by the president in consultation with Parliament; deputy prime minister determined during cabinet formation<br>
@@ -345,7 +345,7 @@ _judge selection and term of office_: Court of Cassation judges appointed by Sup
 _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized tribunals, religious courts; military courts<br>
 
 **Political parties and leaders**<br>
-<p>Al-Ahbash or Association of Islamic Charitable Projects or AICP [Shaykh Hussam QARAQIRA]<br>Amal Movement ("Hope Movement") [Nabih BERRI]<br>Azm Movement [Najib MIQATI]<br>Ba’th Arab Socialist Party of Lebanon [leader disputed]<br>Free Patriotic Movement or FPM [Gibran BASSIL]<br>Future Movement Bloc or FM [Sa'ad al-HARIRI] (resigned from politics in January 2022)<br>Hizballah [Hassan NASRALLAH]<br>Islamic Action Front or IAF [Sheikh Zuhayr al-JU’AYD]<br>Kata'ib Party [Sami GEMAYEL]<br>Lebanese Democratic Party [Talal ARSLAN]<br>Lebanese Forces or LF [Samir JA'JA]<br>Marada Movement [Sulayman FRANJIEH]<br>Progressive Socialist Party or PSP [Walid JUNBLATT]<br>Social Democrat Hunshaqian Party [Sabuh KALPAKIAN]<br>Syrian Social Nationalist Party or SSNP [Rabi BANAT]<br>Tashnaq or Armenian Revolutionary Federation [Hagop PAKRADOUNIAN]</p><br>
+<p>Al-Ahbash or Association of Islamic Charitable Projects or AICP [Shaykh Hussam QARAQIRA]<br>Amal Movement ("Hope Movement") [Nabih BERRI]<br>Azm Movement [Najib MIQATI]<br>Ba’th Arab Socialist Party of Lebanon [leader disputed]<br>Free Patriotic Movement or FPM [Gibran BASSIL]<br>Future Movement Bloc or FM [Sa'ad al-HARIRI] (resigned from politics in January 2022)<br>Hizballah [Hassan NASRALLAH]<br>Islamic Action Front or IAF [Sheikh Zuhayr al-JU’AYD]<br>Kata'ib Party [Sami GEMAYEL]<br>Lebanese Democratic Party [Talal ARSLAN]<br>Lebanese Forces or LF [Samir JA'JA]<br>Marada Movement [Sulayman FRANJIEH]<br>Progressive Socialist Party or PSP [Taymour JUMBLATT] (JUMBLATT is also a member of Parliament)<br>Social Democrat Hunshaqian Party [Sabuh KALPAKIAN]<br>Syrian Social Nationalist Party or SSNP [Rabi BANAT]<br>Tashnaq or Armenian Revolutionary Federation [Hagop PAKRADOUNIAN]</p><br>
 
 **International organization participation**<br>
 ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
@@ -537,7 +537,7 @@ _Currency_: Lebanese pounds (LBP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 3.768 million kW (2020 est.)<br>
@@ -707,7 +707,7 @@ Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; HAMAS; Hizball
 <p><em>Lebanon-Syria</em>: lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; in March 2021, Syria signed a contract with a Russian company for oil and gas exploration in a maritime area Lebanon claims as its own based on a 2011 map sent to the UN</p> <p><em>Lebanon-Israel</em>: Lebanon has claimed Shab'a Farms area in the Israeli-controlled Golan Heights; Lebanon and Israel resumed negotiations over their maritime border in 2020, but their efforts were derailed when Lebanon argued that the map the UN was using needed modifications</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 479,537 (Palestinian refugees) (2020); 805,326 (Syria) (2023)<br>
+_refugees (country of origin)_: 487,000 (Palestinian refugees) (2022); 805,326 (Syria) (2023)<br>
 _IDPs_: 7,000 (2020)<br>
 _stateless persons_: undetermined (2016); note - tens of thousands of persons are stateless in Lebanon, including many Palestinian refugees and their descendants, Syrian Kurds denaturalized in Syria in 1962, children born to Lebanese women married to foreign or stateless men; most babies born to Syrian refugees, and Lebanese children whose births are unregistered<br>
 

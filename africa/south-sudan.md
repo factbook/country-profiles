@@ -323,7 +323,7 @@ Note: in mid-2022, the Government of South Sudan inaugurated an Ad-hoc Judiciary
 <p>Democratic Change or DC<br>Democratic Forum or DF<br>Labour Party or LPSS [Federico Awi VUNI]<br>South Sudan Opposition Alliance or SSOA [Hussein ABDELBAGI Ayii]<br>Sudan African National Union or SANU [Toby MADOUT]<br>Sudan People's Liberation Movement or SPLM [Salva KIIR Mayardit]<br>Sudan People’s Liberation Movement-In Opposition or SPLM-IO [Riek MACHAR Teny Dhurgon]<br>United Democratic Salvation Front or UDSF    <br>United South Sudan African Party or USSAP [Louis Pasquale ALEU, Secretary]<br>United South Sudan Party or USSP [Paulino LUKUDU Obede]     </p> <strong>note:</strong> only parties with seats in the Transitional National Legislative Assembly included<br>
 
 **International organization participation**<br>
-AU, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IGAD, ILO, IMF, Interpol, IOM, IPU, ITU, MIGA, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WMO<br>
+AU, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, Interpol, IOM, IPU, ITU, MIGA, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WMO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Philip Jada NATANA (since 17 September 2018)<br>
@@ -467,7 +467,7 @@ _Currency_: South Sudanese pounds (SSP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 10 million<br>
+_population without electricity_: 10 million (2020)<br>
 _electrification - total population_: 7.7% (2021)<br>
 _electrification - urban areas_: 15.5% (2021)<br>
 _electrification - rural areas_: 5.7% (2021)<br>

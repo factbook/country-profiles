@@ -379,7 +379,7 @@ Chadian Convention for Peace and Development or CTPD [Laoukein Kourayo MEDARD]<b
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSMA, MNJTF, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Oumar Noury ABDELKERIM (since 20 March 2023)<br>
+_chief of mission_: Ambassador KITOKO GATA Ngoulou (since 30 June 2023)<br>
 _chancery_: 2401 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 652-1312<br>
 _FAX_: [1] (202) 578-0431<br>
@@ -551,7 +551,7 @@ _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dolla
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 15 million<br>
+_population without electricity_: 15 million (2020)<br>
 _electrification - total population_: 11.2% (2021)<br>
 _electrification - urban areas_: 43.2% (2021)<br>
 _electrification - rural areas_: 1.3% (2021)<br>

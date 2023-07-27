@@ -349,7 +349,7 @@ Democratic Party of Pensioners of Slovenia or DeSUS [Ljubo JASNIC]<br>Freedom Mo
 Australia Group, BIS, CD, CE, CEI, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Andrej MEDICA (since 25 October 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Darja FERLEZ (since 5 June 2023)<br>
 _chancery_: 2410 California Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 386-6601<br>
 _FAX_: [1] (202) 386-6633<br>
@@ -675,6 +675,7 @@ _major seaport(s)_: Koper<br>
 
 **Military and security forces**<br>
 Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force with air, land, maritime, special operations, combat support, and combat service support elements (2023)<br>
+<strong>note: </strong>the National Police maintain internal security and report to the Ministry of Interior<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2023 est.)<br>
@@ -690,7 +691,7 @@ approximately 6,000 active-duty troops (2022)<br>
 the military's inventory is a mix of Soviet-era and smaller quantities of more modern Russian and Western equipment (2022)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service for men and women; must be a citizen of the Republic of Slovenia; recruits sign up for 3-, 5-, or 10-year service contracts; conscription abolished in 2003 (2023)<br>
+18-30 years of age for voluntary military service for men and women; must be a citizen of the Republic of Slovenia; recruits sign up for 3-, 5-, or 10-year service contracts; conscription abolished in 2003 (2023)<br>
 <strong>note:</strong> as of 2019, women comprised about 15% of the military's full-time personnel<br>
 
 **Military deployments**<br>

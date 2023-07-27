@@ -268,7 +268,7 @@ _urban population_: 40.5% of total population (2023)<br>
 _rate of urbanization_: 2.88% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to economic constraints and high prices of important food items -</em>  food insecurity is expected to remain fragile, given persisting economic constraints; domestic prices of wheat flour and palm oil, important food items, were at high levels in January 2023; the result of elevated international prices of energy, fuel and food, having been transmitted to the domestic markets (2023)<br>
+_severe localized food insecurity_: <em>due to economic constraints and high prices of important food items -</em> food insecurity is expected to remain fragile, given persisting economic constraints; domestic prices of wheat flour and palm oil, important food items, were at high levels in May 2023 (2023)<br>
 
 **Revenue from forest resources**<br>
 0.08% of GDP (2018 est.)<br>
@@ -353,7 +353,7 @@ _chief of state_: President Mohammad Shahabuddin CHUPPI (since 24 April 2023)<br
 _head of government_: Prime Minister Sheikh HASINA Wazed (since 6 January 2009)<br>
 _cabinet_: Cabinet selected by the prime minister, appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); election last held on 13 February 2023 (next to be held by 2028); the president appoints as prime minister the majority party leader in the National Parliament<br>
-_election results_: <em>2023:</em> President Abdul HAMID (AL) reelected by the National Parliament unopposed for a second term; Sheikh HASINA reappointed prime minister as leader of the majority AL party following parliamentary election in 2023<br>
+_election results_: <em><br>2023:</em> President Abdul HAMID (AL) reelected by the National Parliament unopposed for a second term; Sheikh HASINA reappointed prime minister as leader of the majority AL party following parliamentary election in 2023<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the elected members by proportional representation vote using single transferable vote; all members serve 5-year terms)<br>
@@ -559,7 +559,7 @@ _Currency_: taka (BDT) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 11 million<br>
+_population without electricity_: 11 million (2020)<br>
 _electrification - total population_: 98.9% (2021)<br>
 _electrification - urban areas_: 99.7% (2021)<br>
 _electrification - rural areas_: 98.5% (2021)<br>
@@ -754,7 +754,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 <p><em>Bangladesh-Burma:</em> Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border.<br><br><em>Bangladesh-India:</em> Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 961,175 (Burma) (2023)<br>
+_refugees (country of origin)_: 961,729 (Burma) (2023)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2021)<br>
 _stateless persons_: 929,606 (2022)<br>
 

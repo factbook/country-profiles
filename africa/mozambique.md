@@ -270,7 +270,7 @@ _urban population_: 38.8% of total population (2023)<br>
 _rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <p><em>due to shortfall in agricultural production and economic downturn -</em> the number of people in need of food assistance is expected to rise above the 1.86 million estimated in 2021-2022 because of three key factors; firstly, higher year‑on‑year prices of food and fuel are reducing households’ purchasing power, worsening their economic access to food, particularly for low-income households; secondly, the impact of extreme weather events on agricultural production in central and southern provinces in 2022 is likely to mean that farming households in the affected areas have both low food supplies from their own production and curtailed income-earning opportunities from crop sales, impinging on their food availability and economic access to food; thirdly, there has been an increase in attacks by non‑state armed groups in the northern province of Cabo Delgado in 2022</p> (2022)<br>
+_severe localized food insecurity_: <p><em>due to shortfall in insecurity in northern areas and extreme weather events - </em>food insecurity estimates for 2023 are not yet available, but the landing of cyclone Freddy in February 2023 is expected to have caused disruptions to livelihoods and resulted in crop damage, aggravating food insecurity of the affected population</p> (2023)<br>
 
 **Revenue from forest resources**<br>
 6.46% of GDP (2018 est.)<br>
@@ -373,7 +373,7 @@ _subordinate courts_: Administrative Court (capital city only); provincial court
 Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM [Lutero SIMANGO]<br>Liberation Front of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO [Filipe NYUSI]<br>Mozambican National Resistance (Resistencia Nacional Mocambicana) or RENAMO [Ossufo MOMADE]<br><br><strong>note:</strong> only parties with seats in the legislature listed<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITC, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OCHA, OHCHR, OIC, OIF (observer), OPCW, SADC, UN, UNCDF, UNCTAD, UNDP, UNDSS, UNECA, UNEP,&nbsp; UNESCO, UNFPA, UNHCR, UNIDO, UNODC, UNOPS, UNV, Union Latina, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITC, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OCHA, OIC, OIF (observer), OPCW, SADC, UN, UNCDF, UNCTAD, UNDP, UNDSS, UNECA, UNEP,&nbsp; UNESCO, UNFPA, UNHCR, UNIDO, UNODC, UNOPS, UNV, Union Latina, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Alfredo Fabaio NUVUNGA (since 19 April 2023)<br>
@@ -557,7 +557,7 @@ _Currency_: meticais (MZM) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 19 million<br>
+_population without electricity_: 19 million (2020)<br>
 _electrification - total population_: 31.4% (2021)<br>
 _electrification - urban areas_: 77.3% (2021)<br>
 _electrification - rural areas_: 3.8% (2021)<br>

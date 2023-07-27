@@ -556,7 +556,7 @@ _Currency_: Kenyan shillings (KES) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 12 million<br>
+_population without electricity_: 12 million (2020)<br>
 _electrification - total population_: 76.5% (2021)<br>
 _electrification - urban areas_: 97.5% (2021)<br>
 _electrification - rural areas_: 68.1% (2021)<br>

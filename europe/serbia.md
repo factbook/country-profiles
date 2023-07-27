@@ -558,7 +558,7 @@ _Currency_: Serbian dinars (RSD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 8.986 million kW (2020 est.)<br>
@@ -687,7 +687,7 @@ _river port(s)_: Belgrade (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Serbian Armed Forces (Vojska Srbije, VS): Land Forces (includes Riverine Component, consisting of a naval flotilla on the Danube), Air and Air Defense Forces, Serbian Guard; Serbian Ministry of Interior: General Police Directorate (2023)<br>
+Serbian Armed Forces (Vojska Srbije, VS): Land Forces (aka Army; includes Riverine Component, consisting of a naval flotilla on the Danube), Air and Air Defense Forces, Serbian Guard; Serbian Ministry of Interior: General Police Directorate (2023)<br>
 <strong>note:</strong> the Serbian Guard is a brigade-sized unit that is directly subordinate to the Serbian Armed Forces Chief of General Staff; its duties include safeguarding key defense facilities and rendering military honors to top foreign, state, and military officials <br><br>
 
 **Military expenditures**<br>

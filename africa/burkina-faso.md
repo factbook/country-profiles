@@ -367,7 +367,7 @@ _subordinate courts_: Appeals Court; High Court; first instance tribunals; distr
 Act Together [Kadre OUEDRAOGO]<br>African Democratic Rally/Alliance for Democracy and Federation or ADF/RDA [Gilbert Noel OUEDRAOGO]<br>Congress for Democracy and Progress or CDP [Eddie KOMBOIGO]<br>Convergence for Progress and Solidarity-Generation 3 or CPS-G3<br>Movement for the Future Burkina Faso or MBF<br>National Convention for Progress or CNP<br>New Era for Democracy or NTD [Vincent DABILGOU]<br>Pan-African Alliance for Refoundation or APR<br>Party for Democracy and Socialism/Metba or PDS/Metba [Philippe OUEDRAOGO]<br>Party for Development and Change or PDC [Aziz SEREME]<br>Patriotic Rally for Integrity or RPI<br>Peoples Movement for Progress or MPP [Roch Marc Christian KABORE]<br>Progressives United for Renewal or PUR<br>Union for Progress and Reform or UPC [Zephirin DIABRE]<br>Union for Rebirth - Sankarist Party or UNIR-PS [Benewende Stanislas SANKARA]<br><br><strong>note:</strong> only parties with seats in the National Assembly included<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNMISS, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Hermann Yirigouin TOE (since 27 September 2022)<br>
@@ -549,7 +549,7 @@ _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 16 million<br>
+_population without electricity_: 16 million (2020)<br>
 _electrification - total population_: 18.9% (2021)<br>
 _electrification - urban areas_: 67.6% (2021)<br>
 _electrification - rural areas_: 4.7% (2014)<br>

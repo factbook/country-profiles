@@ -307,10 +307,10 @@ ACP, AOSIS, C, Caricom, CD, CDB, CELAC, Commonwealth of Nations, ECCU, FAO, G-77
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Judith-Anne ROLLE (since 16 December 2021)<br>
-_chancery_: 1701 Pennsylvania Avenue NW, Suite 200<br>Washington, DC 20006<br>
+_chancery_: 3216 New Mexico Ave NW Washington, DC 20016<br>
 _telephone_: [1] (202) 364-6781<br>
 _FAX_: [1] (202) 364-6791<br>
-_email address and website_: mail.embdomdc@gmail.com; <br><br>embdomdc@gmail.com<br>
+_email address and website_: <br>embdomdc@gmail.com<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>

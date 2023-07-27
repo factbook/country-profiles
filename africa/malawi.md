@@ -550,7 +550,7 @@ _Currency_: Malawian kwachas (MWK) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 17 million<br>
+_population without electricity_: 17 million (2020)<br>
 _electrification - total population_: 14.1% (2021)<br>
 _electrification - urban areas_: 54.2% (2021)<br>
 _electrification - rural areas_: 5.5% (2021)<br>

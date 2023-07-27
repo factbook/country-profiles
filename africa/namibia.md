@@ -265,7 +265,7 @@ _urban population_: 54.9% of total population (2023)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em><em>due to localized shortfalls in cereal production and </em></em><em>rising food prices </em><em>-</em> cereal production increased in 2022 and this is expected to have a positive impact on food security, however, rising prices of basic foods is likely to limit a more substantial improvement (2022)<br>
+_severe localized food insecurity_: <em><em>due to localized shortfalls in cereal production and </em></em><em>rising food prices </em><em>- </em>an estimated 390,000 people faced acute food insecurity in the January to March 2023 period, lower than the figure in the corresponding period of 2022; high food prices and localized weather induced shortfalls in cereal production in 2022 were the key drivers (2023)<br>
 
 **Revenue from forest resources**<br>
 0.47% of GDP (2018 est.)<br>
@@ -552,7 +552,7 @@ _Currency_: Namibian dollars (NAD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 1 million<br>
+_population without electricity_: 1 million (2020)<br>
 _electrification - total population_: 55.2% (2021)<br>
 _electrification - urban areas_: 74.7% (2021)<br>
 _electrification - rural areas_: 33.2% (2021)<br>

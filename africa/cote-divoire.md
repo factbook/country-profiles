@@ -556,7 +556,7 @@ _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 6 million<br>
+_population without electricity_: 6 million (2020)<br>
 _electrification - total population_: 71.1% (2021)<br>
 _electrification - urban areas_: 94.9% (2021)<br>
 _electrification - rural areas_: 45.1% (2021)<br>

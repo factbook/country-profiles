@@ -348,9 +348,9 @@ _elections/appointments_: president indirectly elected by the National Assembly 
 _election results_: <em>2022: </em>Katalin NOVAK (Fidesz) elected president; National Assembly vote - 137 to 51<em><br><br>2017:</em> Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39<br><br><em>2010:</em> Viktor ORBAN (Fidesz) reelected prime minister<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party-list proportional representation vote, using the d&rsquo;Hondt method; members serve 4-year terms)<br>
+_description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party-list proportional representation vote, using the D&rsquo;Hondt method; members serve 4-year terms)<br>
 _elections_: last held on 3 April 2022 (next to be held in April 2026)<br>
-_election results_: percent of vote by party list - Fidesz-KDNP 54.1%, United for Hungary 34.5%, Mi Hazank 5.9%, other 5.5%; seats by party - Fidesz-KDNP 135, United for Hungary 57, Mi Hazank 6, independent 1; composition - men 175, women 24, percent of women 12.1%<br>
+_election results_: percent of vote by party list - Fidesz-KDNP 54.1%, United for Hungary 34.5%, Mi Hazank 5.9%, other 5.5%; seats by party list - Fidesz-KDNP 135, United for Hungary 57, Mi Hazank 6, independent 1; composition as of June 2023 - men 171, women 28, percent of women 14.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Curia or Supreme Judicial Court (consists of the president, vice president, department heads, and has a maximum of 113 judges, and is organized into civil, criminal, and administrative-labor departments; Constitutional Court (consists of 15 judges, including the court president and vice president)<br>

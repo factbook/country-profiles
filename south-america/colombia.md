@@ -562,7 +562,7 @@ _Currency_: Colombian pesos (COP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 2 million<br>
+_population without electricity_: 2 million (2020)<br>
 _electrification - total population_: 99.9% (2021)<br>
 _electrification - urban areas_: 100% (2021)<br>
 _electrification - rural areas_: 99.9% (2021)<br>
@@ -746,7 +746,7 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia - People'
 <p>in December 2007, ICJ allocated San Andres, Providencia, and Santa Catalina islands to Colombia under 1928 Treaty but did not rule on 82 degrees W meridian as maritime boundary with Nicaragua; managed dispute with Venezuela over maritime boundary and Venezuelan-administered Los Monjes Islands near the Gulf of Venezuela; Colombian-organized illegal narcotics, guerrilla, and paramilitary activities penetrate all neighboring borders and have caused Colombian citizens to flee mostly into neighboring countries; Colombia, Honduras, Nicaragua, Jamaica, and the US assert various claims to Bajo Nuevo and Serranilla Bank</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,842,390 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2022)<br>
+_refugees (country of origin)_: 2,477,588 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)<br>
 _IDPs_: 6,863,334 (conflict between government and illegal armed groups and drug traffickers since 1985) (2023)<br>
 _stateless persons_: 11 (2022)<br>
 

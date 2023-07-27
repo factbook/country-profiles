@@ -510,7 +510,7 @@ _Currency_: Somali shillings (SOS) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 10 million<br>
+_population without electricity_: 10 million (2020)<br>
 _electrification - total population_: 49.3% (2021)<br>
 _electrification - urban areas_: 70.6% (2021)<br>
 _electrification - rural areas_: 30.6% (2021)<br>

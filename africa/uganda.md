@@ -268,7 +268,7 @@ _urban population_: 26.8% of total population (2023)<br>
 _rate of urbanization_: 5.41% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em><em>due to weather extremes, </em></em><em>civil insecurity, and high food prices</em><em>-</em> in Karamoja Region, about 518,000 people, 41% of the population, are estimated to be severely food insecure between March and July 2022, as a result of consecutive poor rainy seasons that adversely affected crop and livestock production, frequent episodes of cattle rustling leading to the loss of productive assets, and high food prices (2022)<br>
+_severe localized food insecurity_: <em><em>due to weather extremes, </em></em><em>civil insecurity, and high food prices </em><em>- </em>the latest analysis, conducted in the northeastern agro-pastoral Karamoja region, estimates that about 582,000 million people are facing acute food insecurity between April and August 2023; these conditions reflect the adverse impact of weather shocks, crop and livestock diseases, civil insecurity and high food prices; the significant deterioration of the food security situation during the last 12 months in Karamoja Region is mainly due to protracted insecurity that has caused livelihood losses and consecutive poor local harvests; in 2023, the national average price of maize increased by 20% between January and May 2023, with seasonal patterns compounded by a fast depletion of stocks due to a drought‑reduced production in 2022 (2023)<br>
 
 **Revenue from forest resources**<br>
 7.32% of GDP (2018 est.)<br>
@@ -556,7 +556,7 @@ _Currency_: Ugandan shillings (UGX) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 34 million<br>
+_population without electricity_: 34 million (2020)<br>
 _electrification - total population_: 45.2% (2021)<br>
 _electrification - urban areas_: 72.2% (2021)<br>
 _electrification - rural areas_: 35.9% (2021)<br>

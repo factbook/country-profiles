@@ -386,7 +386,7 @@ _email address and website_: <br>info@nigeriaembassyusa.org<br><br>https://www.n
 _consulate(s) general_: Atlanta, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Vacant<br>
+_chief of mission_: Charge d'Affaires David Greene<br>
 _embassy_: Plot 1075 Diplomatic Drive, Central District Area, Abuja<br>
 _mailing address_: 8320 Abuja Place, Washington DC&nbsp; 20521-8320<br>
 _telephone_: [234] (9) 461-4000<br>
@@ -412,7 +412,7 @@ _selected World Heritage Site locales_: Sukur Cultural Landscape; Osun-Osogbo Sa
 ## Economy
 
 **Economic overview**<br>
-one of the largest West African economies; oil-dependent exports, revenues, and credit; COVID-19 and oil price shocks have resulted in slowing growth, high inflation, increasing unemployment; frequent disruptions due to political instability, especially in the north<br>
+largest African market economy; enormous but mostly lower middle income labor force; major oil exporter; key telecommunications and finance industries; susceptible to global energy price shocks; regional leader in critical infrastructure; primarily agrarian employment<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.05 trillion (2021 est.)<br>
@@ -527,7 +527,7 @@ $39.937 billion (2020 est.) note: data are in current year dollars<br>
 $69.927 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-India 16%, Spain 10%, United States 7%, France 7%, Netherlands 6% (2019)<br>
+India 16%, Spain 12%, United States 6%, France 6%, China 5% (2021)<br>
 
 **Exports - commodities**<br>
 crude petroleum, natural gas, scrap vessels, cocoa beans, refined petroleum (2021)<br>
@@ -538,10 +538,10 @@ $72.178 billion (2020 est.) note: data are in current year dollars<br>
 $100.82 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 30%, Netherlands 11%, United States 6%, Belgium 5% (2019)<br>
+China 36%, India 8%, Netherlands 7%, United States 7%, Belgium 4% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, wheat, laboratory glassware, packaged medicines (2019)<br>
+refined petroleum, wheat, cars, packaged medicines, broadcasting equipment, telephones (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $36.73 billion (31 December 2020 est.)<br>
@@ -563,7 +563,7 @@ _Currency_: nairas (NGN) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 66 million<br>
+_population without electricity_: 66 million (2020)<br>
 _electrification - total population_: 59.6% (2021)<br>
 _electrification - urban areas_: 89.2% (2021)<br>
 _electrification - rural areas_: 26.3% (2021)<br>

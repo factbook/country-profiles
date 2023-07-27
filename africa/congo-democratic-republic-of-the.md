@@ -568,7 +568,7 @@ _Currency_: Congolese francs (CDF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 82 million<br>
+_population without electricity_: 82 million (2020)<br>
 _electrification - total population_: 20.7% (2021)<br>
 _electrification - urban areas_: 43.7% (2021)<br>
 _electrification - rural areas_: 1% (2021)<br>

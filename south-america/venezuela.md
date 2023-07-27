@@ -257,7 +257,7 @@ _urban population_: 88.4% of total population (2023)<br>
 _rate of urbanization_: 1.16% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to severe economic crisis -</em> the national economy, highly dependent on oil production and exports, was forecast to contract in 2021 for the eighth consecutive year; with the persistent negative effects of the COVID‑19 pandemic that have compounded the already severe macro‑economic crisis, the access to food of the most vulnerable households is expected to deteriorate throughout 2021 and into 2022 due to widespread losses of income‑generating activities and soaring food prices (2022)<br>
+_widespread lack of access_: <em>due to severe economic crisis -</em>despite a resumption of economic growth since 2021, outflows of refugees and migrants have continued in the first five months of 2023; the number of Venezuelan refugees and migrants (in-destination) in need of food assistance is projected at 3.62 million in 2023 (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 15.82 micrograms per cubic meter (2016 est.)<br>

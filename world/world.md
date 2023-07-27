@@ -390,7 +390,7 @@ $75.09 trillion (31 December 2016 est.)<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 757 million<br>
+_population without electricity_: 757 million (2020)<br>
 _electrification - total population_: 91.4% (2021)<br>
 _electrification - urban areas_: 97.6% (2021)<br>
 _electrification - rural areas_: 84.4% (2021)<br>

@@ -353,7 +353,7 @@ _subordinate courts_: criminal and civil appellate courts; administrative appell
 5165 National Conservative Movement Party [Karin TONOYAN]<br>Alliance of Democrats [Arman BABAJANYAN]<br>Armenia Alliance or HD [Robert KOCHARYAN]<br>(formerly known as the Armenian Revolutionary Federation)<br>Armenian National Congress or ANC [Levon TER-PETROSSIAN] (bloc of independent and opposition parties)<br>Bright Armenia [Edmon MARUKYAN]<br>Civil Contract or KP [Nikol PASHINYAN]<br>Country To Live In [Mane TANDILYAN]<br>Homeland of Armenians [Artak GALSTYAN]<br>Homeland Party [Artur VANETSYAN]<br>I Have Honor Alliance (formerly known as the Republican Party of Armenia, [Serzh SARGSIAN]<br>Liberal Party [Samvel BABAYAN]<br>National Democratic Party [Vahe GASPARYAN]<br>Prosperous Armenia or BHK [Gagik TSARUKYAN]<br>Republic Party (Hanrapetutyun Party) [Aram SARGSYAN]<br>
 
 **International organization participation**<br>
-ADB, BSEC, CE, CIS, CSTO, EAEC (observer), EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM (observer), OAS (observer), OIF, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, BSEC, CD, CE, CIS, CSTO, EAEC (observer), EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM (observer), OAS (observer), OIF, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lilit MAKUNTS (since 15 September 2021)<br>

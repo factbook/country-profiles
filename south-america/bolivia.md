@@ -564,7 +564,7 @@ _Currency_: bolivianos (BOB) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 2 million<br>
+_population without electricity_: 2 million (2020)<br>
 _electrification - total population_: 98.5% (2021)<br>
 _electrification - urban areas_: 100% (2021)<br>
 _electrification - rural areas_: 95.1% (2021)<br>
@@ -735,7 +735,7 @@ the Bolivian Armed Forces (FAB) are responsible for territorial defense but also
 <p>Contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of its border regions with all of its neighbors (Argentina, Brazil, Chile, Paraguay, and Peru).<br><br><em>Bolivia-Chile:</em> Despite tariff-free access to ports in southern Peru and northern Chile, Bolivia persists with its long-standing claims to regain sovereign access to the Pacific Ocean. <br><br><em>Bolivia-Peru:</em> Despite tariff-free access to ports in southern Peru and northern Chile, Bolivia persists with its long-standing claims to regain sovereign access to the Pacific Ocean. Smuggling of archaeological artifacts from Peru to Bolivia, illegal timber and narcotics smuggling, human trafficking, and falsified documents are current issues. <br><br><em>Bolivia-Brazil:</em> The Roboré Accord of March 29, 1958 placed the long-disputed Isla Suárez/Ilha de Guajará-Mirim, a fluvial island on the Río Mamoré, between the two towns of Guajará-Mirim (Brazil) and Guayaramerin (Bolivia), under Bolivian administration but did not resolve the sovereignty dispute<br><br><em>Bolivia-Argentina:</em> Contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of the border. <br><br><em>Bolivia-Paraguay:</em> On April 27, 2009, the president of Argentina hosted the presidents of Bolivia and Paraguay together with representatives of the fiver other guarantor states -- Brazil, Chile, Peru, the United States, and Uruguay -- to the signing for the Final Record of the Boundary Commission in execution of the 1938 Peace Treaty between Bolivia and Paraguay.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,400 (Venezuela) (2022)<br>
+_refugees (country of origin)_: 15,700 (Venezuela) (2022)<br>
 
 **Illicit drugs**<br>
 <p>the third-largest source country of cocaine and a major transit country for Peruvian cocaine; coca cultivation in 2021 totaled 39,700 hectares (ha); most  cocaine is exported to other Latin American countries, especially Brazil, Paraguay, and Argentina, for domestic consumption, or for onward transit from those countries to West Africa and Europe, not the United States.</p> <p> </p><br>

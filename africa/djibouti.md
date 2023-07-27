@@ -332,7 +332,7 @@ _chief of state_: President Ismail Omar GUELLEH (since 8 May 1999)<br>
 _head of government_: Prime Minister Abdoulkader Kamil MOHAMED (since 1 April 2013)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 9 April 2021 (next to be held in April 2026); prime minister appointed by the president<br>
-_election results_: <em>2021</em>: Ismail Omar GUELLEH reelected president for a fifth term; percent of vote - Ismail Omar GUELLEH (RPP) 97.4%, Zakaria Ismael FARAH (MDEND) 2.7%<br><br><em>2016</em>: Ismail Omar GUELLEH reelected president for a fourth term; percent of vote - Ismail Omar GUELLEH (RPP) 87%, Omar Elmi KHAIREH (CDU) 7.3%, other 5.6%<br>
+_election results_: <em><br>2021</em>: Ismail Omar GUELLEH reelected president for a fifth term; percent of vote - Ismail Omar GUELLEH (RPP) 97.4%, Zakaria Ismael FARAH (MDEND) 2.7%<br><br><em>2016</em>: Ismail Omar GUELLEH reelected president for a fourth term; percent of vote - Ismail Omar GUELLEH (RPP) 87%, Omar Elmi KHAIREH (CDU) 7.3%, other 5.6%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>

@@ -353,7 +353,7 @@ _election results_: <p><em>2021:</em> Ebrahim RAISI elected president; percent o
 **Legislative branch**<br>
 _description_: unicameral Islamic Consultative Assembly or Majles-e Shura-ye Eslami or Majles (290 seats; 285 members directly elected in single- and multi-seat constituencies by 2-round vote, and 1 seat each for Zoroastrians, Jews, Assyrian and Chaldean Christians, Armenians in the north of the country and Armenians in the south; members serve 4-year terms); note - all candidates to the Majles must be approved by the Council of Guardians, a 12-member group of which 6 are appointed by the supreme leader and 6 are jurists nominated by the judiciary and elected by the Majles<br>
 _elections_: first round held on 21 February 2020 and second round for 11 remaining seats held on 11 September 2020 (next full Majles election to be held in 2024)<br>
-_election results_: percent of vote by coalition (first round) - NA; seats by coalition (first round) - conservatives and hardliners 226, reformists 19, independents 40, religious minorities 5; as of June 2021 by-elections; composition - men 274, women 16, percent of women 5.6%<br>
+_election results_: percent of vote by coalition (first round) - NA; seats by coalition (first round) - conservatives and hardliners 226, reformists 19, independent 40, religious minorities 5; as of June 2021 by-elections; composition - men 274, women 16, percent of women 5.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and organized into 42 two-bench branches, each with a justice and a judge)<br>

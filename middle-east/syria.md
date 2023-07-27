@@ -253,7 +253,7 @@ _urban population_: 57.4% of total population (2023)<br>
 _rate of urbanization_: 5.38% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <em>due to civil conflict and economic crisis - </em>the latest available nationwide food security assessment estimated that about 12 million people, 60% of the overall population, were food insecure in 2021, a slight decline from 12.4 million in 2020, but 5 million more than at the end of 2019, mostly due to constrained livelihood opportunities and a rapidly worsening economy (2022)<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to civil conflict and economic crisis - </em>based on the World Food Program’s (WFP’s) food security and agriculture sector estimated that about 15 million people are in need of some form of food and agriculture assistance (representing 68 percent of the total population), of whom about 12.1 million are food insecure and about 2.9 million people are estimated to be at risk of food insecurity; fuel scarcity and increases in fuel prices led to a rise in transportation and freight charges for goods, both imported and domestically produced, including agricultural and food products; additional price increases at retail level further constrained the already weakened purchasing power of the majority of the population threatening their food security (2023)<br>
 
 **Air pollutants**<br>
 _particulate matter emissions_: 39.43 micrograms per cubic meter (2016 est.)<br>
@@ -513,7 +513,7 @@ _Currency_: Syrian pounds (SYP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 2 million<br>
+_population without electricity_: 2 million (2020)<br>
 _electrification - total population_: 88.8% (2021)<br>
 _electrification - urban areas_: 100% (2021)<br>
 _electrification - rural areas_: 74.5% (2021)<br>

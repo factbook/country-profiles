@@ -316,7 +316,7 @@ _chief of state_: President Ratu Wiliame KATONIVERE (since 12 November 2021)<br>
 _head of government_: Prime Minister Voreqe "Frank" BAINIMARAMA (since 22 September 2014)<br>
 _cabinet_: Cabinet appointed by the prime minister from among members of Parliament and is responsible to Parliament<br>
 _elections/appointments_: president elected by Parliament for a 3-year term (eligible for a second term); election last held on 22 October 2021 (next to be held in 2024); prime minister endorsed by the president<br>
-_election results_: Ratu Wiliame KATONIVERE elected president with 28 votes against 23 votes for Teimumu KEPA<br>
+_election results_: <br>Ratu Wiliame KATONIVERE elected president; Wiliame KATONIVERE 28 votes, Teimumu KEPA 23 votes <br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (55 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote to serve 4-year terms)<br>

@@ -369,7 +369,7 @@ _FAX_: [231] 77-677-7370<br>
 _email address and website_: <br>ACSMonrovia@state.gov<br><br>https://lr.usembassy.gov/<br>
 
 **Flag description**<br>
-11 equal horizontal stripes of red (top and bottom) alternating with white; a white five-pointed star appears on a blue square in the upper hoist-side corner; the stripes symbolize the signatories of the Liberian Declaration of Independence; the blue square represents the African mainland, and the star represents the freedom granted to the ex-slaves; according to the constitution, the blue color signifies liberty, justice, and fidelity, the white color purity, cleanliness, and guilelessness, and the red color steadfastness, valor, and fervor<br>
+11 equal horizontal stripes of red (top and bottom) alternating with white; a white, five-pointed star appears on a blue square in the upper hoist-side corner; the stripes symbolize the signatories of the Liberian Declaration of Independence; the blue square represents the African mainland, and the star represents the freedom granted to the ex-slaves; according to the constitution, the blue color signifies liberty, justice, and fidelity, the white color purity, cleanliness, and guilelessness, and the red color steadfastness, valor, and fervor<br>
 <strong>note:</strong> the design is based on the US flag<br>
 
 **National symbol(s)**<br>
@@ -523,7 +523,7 @@ _Currency_: Liberian dollars (LRD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 4 million<br>
+_population without electricity_: 4 million (2020)<br>
 _electrification - total population_: 29.8% (2021)<br>
 _electrification - urban areas_: 49.5% (2021)<br>
 _electrification - rural areas_: 8% (2021)<br>

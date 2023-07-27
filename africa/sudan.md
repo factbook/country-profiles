@@ -265,7 +265,7 @@ _urban population_: 36.3% of total population (2023)<br>
 _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to conflict, civil insecurity, and soaring food prices - </em>according to the results of the latest analysis, about 11.7 million people (24% of the analyzed population) are estimated to be severely food insecure during June to September 2022; the main drivers are macroeconomic challenges resulting in rampant food and non‑food inflation, tight supplies due to a poor 2021 harvest and the escalation of intercommunal violence (2022)<br>
+_severe localized food insecurity_: <em>due to conflict, civil insecurity, and soaring food prices - </em>about 19.9 million people are currently expected to require emergency food and livelihood assistance, due to the conflict that broke out in mid-April 2023 which severely damaged livelihoods, paralyzed economic activities, triggered a surge in the already high food prices and caused large-scale displacements, with about 1.67 million people displaced inside of the country and about 528,000 people having fled to neighboring countries (2023)<br>
 
 **Revenue from forest resources**<br>
 3.01% of GDP (2018 est.)<br>
@@ -542,7 +542,7 @@ _Currency_: Sudanese pounds (SDG) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 23 million<br>
+_population without electricity_: 23 million (2020)<br>
 _electrification - total population_: 61.7% (2021)<br>
 _electrification - urban areas_: 84.2% (2021)<br>
 _electrification - rural areas_: 49.3% (2021)<br>

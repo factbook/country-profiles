@@ -278,7 +278,7 @@ _urban population_: 37.4% of total population (2023)<br>
 _rate of urbanization_: 4.89% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to localized shortfalls in staple food production -</em> about 592,000 people are estimated to be in need of humanitarian assistance between May and September 2022, mainly located in northeastern regions, reflecting crop losses during the October–December “Vuli” 2021 and March–May “Masika” 2022 seasons due to poor rains; high food prices are also constraining households’ economic access to food (2022)<br>
+_severe localized food insecurity_: <em>due to localized shortfalls in staple food production - </em>according to the latest analysis, an estimated 990,000 million people were facing severe acute food insecurity between March and May 2023, 839,000 people in 28 mainland districts and 151,000 on Zanzibar Island; the food insecurity situation was mainly driven by a reduced crop production in 2022 due to dry weather conditions and by high food prices (2023)<br>
 
 **Revenue from forest resources**<br>
 2.19% of GDP (2018 est.)<br>
@@ -566,7 +566,7 @@ _Currency_: Tanzanian shillings (TZS) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 37 million<br>
+_population without electricity_: 37 million (2020)<br>
 _electrification - total population_: 42.7% (2021)<br>
 _electrification - urban areas_: 77.3% (2021)<br>
 _electrification - rural areas_: 23.3% (2021)<br>

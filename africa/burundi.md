@@ -544,7 +544,7 @@ _Currency_: Burundi francs (BIF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 11 million<br>
+_population without electricity_: 11 million (2020)<br>
 _electrification - total population_: 10.2% (2021)<br>
 _electrification - urban areas_: 62.8% (2021)<br>
 _electrification - rural areas_: 1.6% (2021)<br>

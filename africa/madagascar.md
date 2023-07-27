@@ -268,7 +268,7 @@ _urban population_: 40.6% of total population (2023)<br>
 _rate of urbanization_: 4.26% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to the effects of extreme weather events and slow economic recovery - </em>according to the latest May 2022 analysis, the prevalence of food insecurity in the southern regions is projected to peak at 2.1 million people by December 2022 until at least March 2023; overall, the number of people requiring humanitarian assistance by the end of 2022 is expected to be about 30 percent higher compared to the peak number in 2021; the poor food security situation is mainly the consequence of six consecutive poor agricultural seasons that culminated in very tight food supplies for rural households and curbed incomes from crop sales; high rates of poverty and increased prices of essential food commodities, combined with a high reliance on market supplies due to low harvests for own consumption, are also contributing to the high rates of food insecurity across the southern regions (2022)<br>
+_severe localized food insecurity_: <em>due to the effects of extreme weather events and slow economic recovery - </em>in 2023, an estimated 2.2 million people are projected to face crisis levels of acute food insecurity in southern and southeastern areas, due to successive years of droughts; cyclone Freddy in February 2023 caused disruptions to livelihoods and resulted in crop damage, which further aggravated food insecurity (2023)<br>
 
 **Revenue from forest resources**<br>
 4.34% of GDP (2018 est.)<br>
@@ -532,7 +532,7 @@ _Currency_: Malagasy ariary (MGA) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 20 million<br>
+_population without electricity_: 20 million (2020)<br>
 _electrification - total population_: 35.1% (2021)<br>
 _electrification - urban areas_: 72.6% (2021)<br>
 _electrification - rural areas_: 10.9% (2021)<br>

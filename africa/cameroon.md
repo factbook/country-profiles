@@ -364,7 +364,7 @@ _chief of state_: President Paul BIYA (since 6 November 1982)<br>
 _head of government_: Prime Minister Joseph Dion NGUTE (since 4 January 2019); Deputy Prime Minister Amadou ALI (since 2014)<br>
 _cabinet_: Cabinet proposed by the prime minister, appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (no term limits); election last held on 7 October 2018 (next to be held in October 2025); prime minister appointed by the president<br>
-_election results_: <em>2018: </em>Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2% (2018)<br>
+_election results_: <em><br>2018: </em>Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2% (2018)<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br>National Assembly or Assemblee Nationale (180 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
@@ -569,7 +569,7 @@ _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dolla
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 10 million<br>
+_population without electricity_: 10 million (2020)<br>
 _electrification - total population_: 65.4% (2021)<br>
 _electrification - urban areas_: 94.6% (2021)<br>
 _electrification - rural areas_: 24.8% (2021)<br>

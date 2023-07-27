@@ -371,7 +371,7 @@ _chief of state_: President SAHLE-WORK Zewde (since 25 October 2018)<br>
 _head of government_: Prime Minister ABIY Ahmed Ali (since April 2018); Deputy Prime Minister DEMEKE Mekonnen Hassen (since 29 November 2012)<br>
 _cabinet_: Council of Ministers selected by the prime minister and approved by the House of People's Representatives<br>
 _elections/appointments_: president indirectly elected by both chambers of Parliament for a 6-year term (eligible for a second term); election held on 21 June 2021 and 30 September 2021 (the scheduled 29 August 2020 election was postponed by Prime Minister ABIY due to the COVID-19 pandemic); prime minister designated by the majority party following legislative elections<br>
-_election results_: <em>2021</em>: SAHLE-WORK elected president during joint session of Parliament, vote - 659 (unanimous); ABIY confirmed Prime Minister by House of Peoples' Representatives (4 October 2021)<br><br><em>2018</em>: SAHLE-WORK elected president during joint session of Parliament, vote - 659 (unanimous); note - snap election held on 25 October 2018 due to resignation of President MULATA Teshome<br>
+_election results_: <em><br>2021</em>: SAHLE-WORK Zewde elected president during joint session of Parliament, vote - 659 (unanimous); ABIY confirmed Prime Minister by House of Peoples' Representatives (4 October 2021)<br><br><em>2018</em>: SAHLE-WORK Zewde elected president during joint session of Parliament, vote - 659 (unanimous); note - snap election held on 25 October 2018 due to resignation of President MULATA Teshome<br>
 <strong>note:</strong> SAHLE-WORK Zewde is the first female elected head of state in Ethiopia; she is currently the only female president in Africa.<br>
 
 **Legislative branch**<br>
@@ -390,7 +390,7 @@ House of People's Representatives:<br>Ethiopian Citizens for Social Justice and 
 <strong>note:</strong> Ethiopia has over fifty national-level and regional-level political parties. The ruling party, the Prosperity Party, was created by Prime Minister ABIY in November 2019 from member parties of the former Ethiopian People’s Revolutionary Democratic Front (EPRDF), which included the Amhara Democratic Party (ADP), Oromo Democratic Party (ODP), Southern Ethiopian People's Democratic Movement (SEPDM), plus other EPRDF-allied parties such as the Afar National Democratic Party (ANDP), Benishangul Gumuz People’s Democratic Party (BGPDP), Gambella People’s Democratic Movement (GPDM), Somali People’s Democratic Party (SPDP), and the Harari National League (HNL). Once the Prosperity Party was created, the various ethnically-based parties that comprised or were affiliated with the EPRDF were subsequently disbanded; in January 2021, the Ethiopian electoral board de-registered the Tigray People’s Liberation Front or TPLF; national level parties are qualified to register candidates in multiple regions across Ethiopia; regional parties can register candidates for both national and regional parliaments, but only in one region of Ethiopia<br>
 
 **International organization participation**<br>
-ACP, AfDB, ATMIS, AU, COMESA, EITI, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (accession candidate)<br>
+ACP, AfDB, ATMIS, AU, COMESA, EITI, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador SELESHI Bekele Awulachew (since 7 June 2022)<br>
@@ -580,7 +580,7 @@ _Currency_: birr (ETB) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 59 million<br>
+_population without electricity_: 59 million (2020)<br>
 _electrification - total population_: 54.1% (2021)<br>
 _electrification - urban areas_: 94.3% (2019)<br>
 _electrification - rural areas_: 42.7% (2021)<br>

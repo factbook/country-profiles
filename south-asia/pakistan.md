@@ -275,7 +275,7 @@ _urban population_: 38% of total population (2023)<br>
 _rate of urbanization_: 2.1% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to population displacements, economic constraints, and high prices of the main food staple -</em> according to the latest analysis, about 4.7 million people, 25% of the population, are estimated to be facing high levels of acute food insecurity, between April and June 2022 in 25 districts analyzed in Balochistan, Sindh and Khyber Pakhtunkhwa provinces; prices of wheat flour, the country’s main staple, were at high levels in most markets in May 2022, constraining access to the staple food (2022)<br>
+_severe localized food insecurity_: <em>due to population displacements, economic constraints, and high prices of the main food staple - </em>according to the latest analysis, the number of people facing high levels of acute food insecurity between April and October 2023 is estimated at 10.5 million people, due to the devastating flood impacts in 2022; price of wheat flour, the country’s main staple, were at elevated levels in most markets in January 2023, constraining access to a key staple food (2023)<br>
 
 **Revenue from forest resources**<br>
 0.1% of GDP (2018 est.)<br>
@@ -571,7 +571,7 @@ _Currency_: Pakistani rupees (PKR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 46 million<br>
+_population without electricity_: 46 million (2020)<br>
 _electrification - total population_: 94.9% (2021)<br>
 _electrification - urban areas_: 99.9% (2021)<br>
 _electrification - rural areas_: 91.9% (2021)<br>

@@ -552,7 +552,7 @@ _Currency_: riels (KHR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 4 million<br>
+_population without electricity_: 4 million (2020)<br>
 _electrification - total population_: 82.5% (2021)<br>
 _electrification - urban areas_: 98.9% (2021)<br>
 _electrification - rural areas_: 77.1% (2021)<br>

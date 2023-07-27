@@ -542,7 +542,7 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 7.868 million kW (2020 est.)<br>
@@ -678,7 +678,8 @@ _river port(s)_: Bratislava, Komarno (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land Forces (Slovenské Pozemné Sily), Air Forces (Slovenské Vzdušné Sily), Special Operations Forces (Sily Pre Speciálne Operácie) (2022)<br>
+Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land Forces (Slovenské Pozemné Sily), Air Forces (Slovenské Vzdušné Sily), Special Operations Forces (Sily Pre Speciálne Operácie) (2023)<br><br>note: the national Slovak Police Force has sole responsibility for internal and border security and reports to the Ministry of Interior <br>
+note: the national Slovak Police Force has sole responsibility for internal and border security and reports to the Ministry of Interior&nbsp;<br>
 
 **Military expenditures**<br>
 2% of GDP (2023 est.)<br>
@@ -710,7 +711,7 @@ Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host
 <p><em>Slovakia-Austria</em>: none identified</p> <p><em>Slovakia-Czechia</em>: none identified</p> <p><em>Slovakia-Hungary</em>: initiated by the 1977 Budapest Treaty, Hungary and formerly Czechoslovakia agreed to a hydroelectric dam project on the Danube with dams to be constructed at Gabcikovo (Slovakia) and Nagymaros (Hungary) to prevent floods, improve river navigability, and to generate electricity; when Hungary suspended work on the project until its environmental impact could be assessed, Slovakia continued working on it and adopted a pared down strategy to divert the Danube so that all construction was within Czechoslovakian territory; Hungary terminated the project on environmental and economic grounds in 1989, and in 1992 both countries took the matter to the International Court of Justice (ICJ); the ICJ found largely in favor of then Slovakia, finding Hungary had breached their agreement; however, then Czechoslovakia should not have begun the alternative plan before the ICJ ruled on the case; in 2017, Hungary and Slovakia agreed to discontinue the ICJ proceedings</p> <p><em>Slovakia-Poland</em>: none identified</p> <p><em>Slovakia-Ukraine</em>: tens of thousands of Ukrainian refugees are crossing the border to Slovakia to escape the Russian invasion in their country</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 119,505 (Ukraine) (as of 2 July 2023)<br>
+_refugees (country of origin)_: 104,290 (Ukraine) (as of 9 July 2023)<br>
 _stateless persons_: 2,940 (2022)<br>
 
 **Illicit drugs**<br>

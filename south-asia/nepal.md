@@ -540,7 +540,7 @@ _Currency_: Nepalese rupees (NPR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 1 million<br>
+_population without electricity_: 1 million (2020)<br>
 _electrification - total population_: 89.9% (2021)<br>
 _electrification - urban areas_: 94.2% (2021)<br>
 _electrification - rural areas_: 97% (2020)<br>

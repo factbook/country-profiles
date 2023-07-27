@@ -336,7 +336,7 @@ _chief of state_: President Alar KARIS (since 11 October 2021)<br>
 _head of government_: Prime Minister Kaja KALLAS (since 26 January 2021)<br>
 _cabinet_: Cabinet appointed by the prime minister, approved by Parliament<br>
 _elections/appointments_: <p>president indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two thirds of the votes after 3 rounds of balloting, then an electoral college consisting of Parliament members and local council members elects the president, choosing between the 2 candidates with the highest number of votes; if a president is still not elected, the process begins again; election last held on 30-31 August 2021 (next to be held in 2026); prime minister nominated by the president and approved by Parliament</p><br>
-_election results_: <p><em>2021</em>: Alar KARIS (independent) elected president; second round of voting in parliament with 72 of 101 votes<br><br><em>2016</em>: Kersti KALJULAID is elected president with 81 of 98 votes in parliament (17 ballots blank) in the sixth round of voiting. She is sworn in on October 10 as the first female head of state of Estonia.</p><br>
+_election results_: <em><br>2021</em>: Alar KARIS (independent) elected president; second round of voting in parliament with 72 of 101 votes<br><br><em>2016</em>: Kersti KALJULAID elected president with 81 of 98 votes in parliament (17 ballots blank) in the sixth round of voting; KALJULAID sworn in on 10 October - first female head of state of Estonia<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Riigikogu (101 seats; members directly elected in multi-seat constituencies by open- list proportional representation vote to serve 4-year terms)<br>
@@ -708,7 +708,7 @@ Estonia became a member of NATO in 2004<br><br>since 2017, Estonia has hosted a 
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 50,625 (Ukraine) (as of 5 June 2023)<br>
+_refugees (country of origin)_: 48,590 (Ukraine) (as of 5 June 2023)<br>
 _stateless persons_: 70,604 (2022); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

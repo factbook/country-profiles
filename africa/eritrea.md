@@ -322,11 +322,11 @@ _residency requirement for naturalization_: 20 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President ISAIAS Afwerki (since 8 June 1993); note - the president is both chief of state and head of government and is head of the State Council and National Assembly<br>
+_chief of state_: President ISAIAS Afwerki (since 24 May 1993); note - the president is both chief of state and head of government and is head of the State Council and National Assembly<br>
 _head of government_: President ISAIAS Afwerki (since 8 June 1993)<br>
 _cabinet_: State Council appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term), according to the constitution; the only election was held on 8 June 1993, following independence from Ethiopia (successive election postponed indefinitely)<br>
-_election results_: <em>1993</em>: ISAIAS Afwerki elected president by the transitional National Assembly; percent of National Assembly vote - ISAIAS  Afwerki (PFDJ) 95%, other 5%<br>
+_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term), according to the constitution; the only election held was&nbsp;on 24 May 1993, following independence from Ethiopia (next postponed indefinitely)<br>
+_election results_: <em><br></em>ISAIAS Afwerki elected president by the transitional National Assembly; percent of National Assembly vote - ISAIAS  Afwerki (PFDJ) 95%, other 5%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (Hagerawi Baito) (150 seats; 75 members directly elected by simple majority vote and 75 members indirectly elected by the ruling party; members serve 5-year terms)<br>
@@ -342,7 +342,7 @@ _subordinate courts_: regional/zonal courts; community courts; special courts; s
 People's Front for Democracy and Justice or PFDJ [ISAIAS Afwerki] (the only party recognized by the government)<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IFAD, IFC, IFRCS (observer), ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), LAS (observer), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO<br>
+ACP, AfDB, AU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IFAD, IFC, IFRCS (observer), IGAD, ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), LAS (observer), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Berhane Gebrehiwet SOLOMON (since 15 March 2011)<br>
@@ -511,7 +511,7 @@ _Currency_: nakfa (ERN) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 3 million<br>
+_population without electricity_: 3 million (2020)<br>
 _electrification - total population_: 52.5% (2021)<br>
 _electrification - urban areas_: 75.6% (2019)<br>
 _electrification - rural areas_: 35.7% (2021)<br>

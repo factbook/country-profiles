@@ -537,7 +537,7 @@ _Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dolla
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 5 million<br>
+_population without electricity_: 5 million (2020)<br>
 _electrification - total population_: 15.6% (2021)<br>
 _electrification - urban areas_: 34.6% (2021)<br>
 _electrification - rural areas_: 1.5% (2021)<br>

@@ -344,7 +344,7 @@ _chief of state_: President Joao Manuel Goncalves LOURENCO (since 15 September 2
 _head of government_: President Joao Manuel Goncalves LOURENCO (since 15 September 2022); Vice President Esperanca Francisco DA COSTA (since 15 September 2022)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 24 August 2022 (next to be held in 2027)<br>
-_election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 24 August 2022 general election<br>
+_election results_: <br>Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 24 August 2022 general election<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)<br>
@@ -363,7 +363,7 @@ Broad Convergence for the Salvation of Angola Electoral Coalition or CASA-CE [Ma
 ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OPEC, SADC, UN, UNCTAD, UNESCO, UNIDO, UNMISS, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Appointed Ambassador Agostinho de Carvalho dos Santos VAN-D&Uacute;NEM (since 2 June 2023)<br>
+_chief of mission_: Ambassador Agostinho de Carvalho dos Santos VAN-D&Uacute;NEM (since 30 June 2023)<br>
 _chancery_: 2108 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 785-1156<br>
 _FAX_: [1] (202) 822-9049<br>
@@ -548,7 +548,7 @@ _Currency_: kwanza (AOA) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 18 million<br>
+_population without electricity_: 18 million (2020)<br>
 _electrification - total population_: 48.2% (2021)<br>
 _electrification - urban areas_: 74.9% (2021)<br>
 _electrification - rural areas_: 7.3% (2018)<br>

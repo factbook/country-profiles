@@ -275,7 +275,7 @@ _urban population_: 49.6% of total population (2023)<br>
 _rate of urbanization_: 3.59% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to localized shortfalls in cereal production and reduced incomes - </em>according to the latest analysis, about 881,000 people are estimated to be in need of humanitarian assistance between June and August 2022, mostly on account of localized shortfalls in cereal production in 2021 and reduced incomes owing to the impact of the COVID‑19 pandemic (2022)<br>
+_severe localized food insecurity_: <em>due to localized shortfalls in cereal production and reduced incomes - </em>the latest analysis indicates that about 1.26 million people are projected to be acutely food insecure during the June to August 2023 lean season; this would be a significant deterioration compared to the previous year; the main drivers of acute food insecurity are macroeconomic challenges and high prices of basic food items (2023)<br>
 
 **Revenue from forest resources**<br>
 1.46% of GDP (2018 est.)<br>
@@ -555,7 +555,7 @@ _Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 5 million<br>
+_population without electricity_: 5 million (2020)<br>
 _electrification - total population_: 67.9% (2021)<br>
 _electrification - urban areas_: 93.9% (2021)<br>
 _electrification - rural areas_: 43.4% (2021)<br>

@@ -264,7 +264,7 @@ _urban population_: 44.3% of total population (2023)<br>
 _rate of urbanization_: 3.02% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <em>due to high food prices and reduced incomes - </em>about 1.6 million people are estimated to be severely food insecure between June and August 2022 on account of high food prices and low purchasing power, resulting in acute constraints on households’ economic access to food (2022)<br>
+_severe localized food insecurity_: <em>due to high food prices and reduced incomes - </em>according to the latest analysis, about 1.18 million people are projected to be in need of humanitarian assistance between the June to August 2023 lean season; acute food insecurity is underpinned by elevated food prices, in part driven by a weak currency, and low purchasing power of vulnerable households (2023)<br>
 
 **Revenue from forest resources**<br>
 6.92% of GDP (2018 est.)<br>
@@ -529,7 +529,7 @@ _Currency_: leones (SLL) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: (2020) 6 million<br>
+_population without electricity_: 6 million (2020)<br>
 _electrification - total population_: 27.4% (2021)<br>
 _electrification - urban areas_: 56.9% (2021)<br>
 _electrification - rural areas_: 4.9% (2021)<br>

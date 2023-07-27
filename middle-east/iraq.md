@@ -358,7 +358,7 @@ _election results_: <em><br>2022: </em>COR vote in first round - Latif RASHID (P
 **Legislative branch**<br>
 _description_: unicameral Council of Representatives of Iraq (COR) or Majlis an-Nuwwab al-Iraqiyy (329 seats; 320 members directly elected in 83 multi-seat constituencies by single nontransferable vote, 9 seats elected by religious minorities - 5 by Christians, 1 each by Sabaean-Mandaeans, Yazidis, Shabaks andFayli Kurds, and 25% of seats allocated to women; members serve 4-year terms)<br>
 _elections_: last held on 10 October 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party/coalition - NA; seats by party -Taqadum 47, State of Law Coalition 43, Al Fatah Alliance 37, Kurdistan Democratic Party 31, Kurdistan Coalition 18, Azm Alliance 16, Imtidad 16, State Forces Alliance 11, Ishraqat Kanun 10, New Generation Movement 9, National Contract Party 8, Tasmim Alliance 7, Babiliyun Movement 3, other 73; composition - men 234, women 95, percent of women 28.9%<br>note - seat counts reflect updated numbers after the Sadrist Trend withdrew from government formation and its 73 seats were reallocated to other parties<br>
+_election results_: percent of vote by party/coalition - NA; seats by party - Taqadum 47, State of Law Coalition 43, Al Fatah Alliance 37, Kurdistan Democratic Party 31, Kurdistan Coalition 18, Azm Alliance 16, Imtidad 16, State Forces Alliance 11, Ishraqat Kanun 10, New Generation Movement 9, National Contract Party 8, Tasmim Alliance 7, Babiliyun Movement 3, other 73; composition - men 234, women 95, percent of women 28.9%<br>note - seat counts reflect updated numbers after the Sadrist Trend withdrew from government formation and its 73 seats were reallocated to other parties<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court or FSC (consists of 9 judges); note - court jurisdiction limited to constitutional issues, application of federal laws, ratification of election results for the COR, judicial competency disputes, and disputes between regions or governorates and the central government; Court of Cassation (consists of a court president, 5 vice presidents, and at least 24 judges)<br>
@@ -372,7 +372,7 @@ Al Fatah Alliance [Hadi al-AMIRI]<br>Azm Alliance [Khamis al-KHANJAR]<br>Babiliy
 ABEDA, AFESD, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Salwan Rasheed Anjo ANJO (since 27 June 2022)<br>
+_chief of mission_: Ambassador Nazar Issa Abdulhadi AL-KHIRULLAH (since 30 June 2023)<br>
 _chancery_: 1801 P Street NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 483-7500<br>
 _FAX_: [1] (202) 462-8815<br>
@@ -557,7 +557,7 @@ _Currency_: Iraqi dinars (IQD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 28.369 million kW (2020 est.)<br>

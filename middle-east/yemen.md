@@ -256,7 +256,7 @@ _urban population_: 39.8% of total population (2023)<br>
 _rate of urbanization_: 3.71% annual rate of change (2015-20 est.)<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: <em>due to conflict, poverty, floods, high food and fuel prices -</em> the number of food insecure people was projected to increase by over 1 million to 17.4 million between January and May 2022, increasing to 19 million starting from June until the end of the year; economic conditions in the country remain dire; the conflict is further hampering the already constrained livelihood activities and humanitarian access; income earning opportunities have declined due to COVID‑19‑related business disruptions (2022)<br>
+_widespread lack of access_: <em>due to conflict, poverty, floods, high food and fuel prices -</em> in 2023, a partial analysis in government‑controlled areas, where approximately 25 percent of the population in acute food insecurity resides, shows that the situation remains dire; despite some improvements in security, the economic crisis and localized conflicts continue, fueled by persistent political instability, while insufficient external revenues and elevated global commodity prices on imported food limits food security (2023)<br>
 
 **Revenue from forest resources**<br>
 0.04% of GDP (2018 est.)<br>
@@ -521,7 +521,7 @@ _Currency_: Yemeni rials (YER) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_population without electricity_: 16 million (2020) 17 million<br>
+_population without electricity_: 17 million (2020)<br>
 _electrification - total population_: 74.8% (2021)<br>
 _electrification - urban areas_: 93.1% (2021)<br>
 _electrification - rural areas_: 63.4% (2021)<br>

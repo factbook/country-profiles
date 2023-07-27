@@ -347,7 +347,7 @@ Democratic Progressive Party or DPP [Mohamad Hamim BIN ALIYA]<br>National Solida
 ADB, AOSIS, APEC, Arctic Council (observer), ARF, ASEAN, BIS, C, CP, EAS, FAO, FATF, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, Pacific Alliance (observer), PCA, UN, UNCTAD, UNESCO, UNHCR, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Ashok KUMAR Mirpuri (since 30 July 2012)<br>
+_chief of mission_: Ambassador LUI Tuck Yew (since 30 June 2023)<br>
 _chancery_: 3501 International Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 537-3100<br>
 _FAX_: [1] (202) 537-7086<br>
@@ -537,7 +537,7 @@ _Currency_: Singapore dollars (SGD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 12.24 million kW (2020 est.)<br>
