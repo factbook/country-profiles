@@ -328,7 +328,7 @@ _residency requirement for naturalization_: not specified<br>
 21 years of age and at least 20-year citizenship<br>
 
 **Executive branch**<br>
-_chief of state_: Amir NAWAF al-Ahmad al-Jabir al-Sabah (since 29 September 2020); Crown Prince MISHAL al-Ahmad al-Sabah, born in 1940, is the brother of Amir NAWAF al-Ahmad al-Jabir al-Sabah<br>
+_chief of state_: Amir NAWAF al-Ahmad al-Jabir al-Sabah (since 29 September 2020); Crown Prince MISHAL al-Ahmad al-Sabah, born 27 September 1940, is the brother of Amir NAWAF al-Ahmad al-Jabir al-Sabah<br>
 _head of government_: Prime Minister Sheikh AHMAD AL-NAWAF Al-Ahmad al-Sabah (reappointed 5 March 2023); First Deputy Prime Minister and Minister of Interior Sheikh TALAL al-Khalid Al-Ahmad Al-Sabah (since 16 October 2022); Deputy Prime Minister and Minister of State for Cabinet Affairs Khalid al-FADIL (since 9 April 2022); Deputy Prime Minister and Minister of Oil Bader Hamed Yusef Al-Mula (since 16 October 2022)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, approved by the amir<br>
 _elections/appointments_: amir chosen from within the ruling family, confirmed by the National Assembly; prime minister and deputy prime ministers appointed by the amir; crown prince appointed by the amir and approved by the National Assembly<br>
@@ -675,7 +675,7 @@ approximately 17,000 active duty armed forces personnel (12,500 Army, including 
 the military's inventory consists of weapons from a wide variety of sources, including Western Europe, Russia, and the US; the US has been the leading supplier of arms to Kuwait (2023)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service; Kuwait reintroduced 12-month mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; mandatory service is divided in two phases – 4 months for training and 8 months for military service; women were allowed to volunteer in 2021 (2023)<br>
+18-55 years of age for voluntary military service; Kuwait reintroduced 12-month mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; mandatory service is divided in two phases – 4 months for training and 8 months for military service; women were allowed to volunteer in 2021 (2023)<br>
 <strong>note:</strong> the National Guard is restricted to citizens, but in 2018, the Army began allowing non-Kuwaitis to join on contract or as non-commissioned officers; that same year, it also began allowing stateless people (Bidoon) to join<br>
 
 **Military - note**<br>

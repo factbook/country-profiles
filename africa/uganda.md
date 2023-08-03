@@ -368,7 +368,7 @@ _subordinate courts_: Court of Appeal (also acts as the Constitutional Court); H
 Democratic Party or DP [Norbert MAO]<br>Forum for Democratic Change or FDC [Patrick Oboi AMURIAT]<br>Justice Forum or JEEMA [Asuman BASALIRWA]<br>National Resistance Movement or NRM [Yoweri MUSEVENI]<br>National Unity Platform [Robert Kyagulanyi SSENTAMU, known as Bobi WINE]<br>People's Progressive Party or PPP [Jaberi Bidandi SSALI]<br>Uganda People's Congress or UPC [James AKENA]<br><br><strong>note: </strong>only parties with seats in Parliament listed<br>
 
 **International organization participation**<br>
-ACP, AfDB, ATMIS, AU, C, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITC, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OHCHR, OIC, OPCW, PCA, UN, UNAIDS, UNCDF, UNCTAD, UNDESA, UNDP, UNDSS, UNFCCC, UNFPA, UNDRR, UNECA, UNESCO, UNHCR, UNICEF, UNIDO, UNISFA, UNOCI, UNODC, UNOPS, UNSOM, UNV,&nbsp; UNWTO, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, ATMIS, AU, C, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITC, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, PCA, UN, UNCDF, UNCTAD, UNDP, UNFPA, UNESCO, UNHCR, UNICEF, UNIDO, UNISFA, UNOCI, UNOPS, UNSOM, UNWTO, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Robinah <strong>KAKONGE</strong> (since 12 December 2022)<br>

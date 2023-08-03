@@ -373,7 +373,7 @@ _subordinate courts_: Administrative Court (capital city only); provincial court
 Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM [Lutero SIMANGO]<br>Liberation Front of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO [Filipe NYUSI]<br>Mozambican National Resistance (Resistencia Nacional Mocambicana) or RENAMO [Ossufo MOMADE]<br><br><strong>note:</strong> only parties with seats in the legislature listed<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITC, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OCHA, OIC, OIF (observer), OPCW, SADC, UN, UNCDF, UNCTAD, UNDP, UNDSS, UNECA, UNEP,&nbsp; UNESCO, UNFPA, UNHCR, UNIDO, UNODC, UNOPS, UNV, Union Latina, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF (observer), OPCW, SADC, UN, UNCTAD, UNDP, UNEP,&nbsp; UNESCO, UNHCR, UNIDO, UNWTO, Union Latina, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Alfredo Fabaio NUVUNGA (since 19 April 2023)<br>

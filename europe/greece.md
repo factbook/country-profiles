@@ -711,9 +711,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 <p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 23,780 (Ukraine) (as of 30 April 2023)<br>
+_refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 25,050 (Ukraine) (as of 30 June 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,241,248 estimated refugee and migrant arrivals (January 2015-July 2023)<br>
+<strong>note:</strong> 1,242,560 estimated refugee and migrant arrivals (January 2015-July 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

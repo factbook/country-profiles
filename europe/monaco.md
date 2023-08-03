@@ -439,11 +439,12 @@ _Currency_: euros (EUR) per US dollar -<br>
 0.9214 (2015 est.)<br>
 0.885 (2014 est.)<br>
 0.7634 (2013 est.)<br>
+<strong>note: </strong>while not an EU member state, Monaco, due to its preexisting monetary and banking agreements with France, has a 1998 monetary agreement with the EU to produce limited euro coinage—but not banknotes—that began enforcement in January 2002 and superseded by a new EU agreement in 2012<br>
 
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 ## Communications
 

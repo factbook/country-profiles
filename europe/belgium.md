@@ -730,7 +730,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 71,730 (Ukraine) (as of 4 July 2023)<br>
+_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 71,730 (Ukraine) (as of 18 July 2023)<br>
 _stateless persons_: 1,190 (2022)<br>
 
 **Illicit drugs**<br>

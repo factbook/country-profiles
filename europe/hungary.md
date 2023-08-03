@@ -736,7 +736,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 52,335 (Ukraine) (as of 9 July 2023)<br>
+_refugees (country of origin)_: 52,335 (Ukraine) (as of 23 July 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

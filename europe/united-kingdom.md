@@ -545,7 +545,7 @@ _Currency_: British pounds (GBP) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 113.153 million kW (2020 est.)<br>

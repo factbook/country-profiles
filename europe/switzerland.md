@@ -553,7 +553,7 @@ _Currency_: Swiss francs (CHF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 22.921 million kW (2020 est.)<br>
@@ -696,7 +696,8 @@ _river port(s)_: Basel (Rhine)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2023)<br>
+Swiss Armed Forces (aka Swiss Army or Schweizer Armee); Army (Heer; aka Land Forces), Swiss Air Force (Schweizer Luftwaffe)  (2023)<br>
+<strong>note:</strong> the federal police maintain internal security and report to the Federal Department of Justice and Police, while the armed forces report to the Federal Department of Defense, Civil Protection, and Sport<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>
@@ -706,7 +707,7 @@ Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2023)<br
 0.7% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-the Swiss Armed Forces maintain a full-time professional cadre of about 4,000 personnel along with approximately 18-20,000 conscripts brought in annually for 18-23 weeks of training; approximately 120,000 reserve forces (2022)<br>
+approximately 100,000, including cadre/professionals, conscripts, and militia; the Swiss Armed Forces consist of a small core of cadre/professional personnel along with a mix of militia and 18-20,000 conscripts brought in each year for training (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a mix of domestically produced and imported weapons systems; in recent years, the US has been the leading supplier of military armaments to Switzerland; the Swiss defense industry produces a range of military land vehicles (2023)<br>

@@ -301,6 +301,7 @@ _Currency_: euros (EUR) per US dollar -<br>
 0.9214 (2015 est.)<br>
 0.885 (2014 est.)<br>
 0.7634 (2013 est.)<br>
+<strong>note: </strong>while not an EU member state, the Holy See, has a 2000 monetary agreement with Italy and the EU to produce limited euro coinage—but not banknotes—that began enforcement in January 2002<br>
 
 ## Energy
 

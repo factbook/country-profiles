@@ -269,7 +269,7 @@ _chief of state_: President Vjosa OSMANI-Sadriu (since 4 April 2021)<br>
 _head of government_: Prime Minister Albin KURTI (since 22 March 2021)<br>
 _cabinet_: Cabinet elected by the Assembly<br>
 _elections/appointments_: president indirectly elected by at least two-thirds majority vote of the Assembly for a 5-year term; if a candidate does not attain a two-thirds threshold in the first two ballots, the candidate winning a simple majority vote in the third ballot is elected (eligible for a second term); election last held on 3-4 April 2021 (next to be held in 2026); prime minister indirectly elected by the Assembly<br>
-_election results_: <em>2021: </em> Vjosa OSMANI-Sadriu elected president in the third ballot; Assembly vote - Vjosa OSMANI-Sadriu (Guxo!) 71 votes; Albin KURTI (LVV) elected prime minister; Assembly vote - 67-30<br><br><em>2016:</em> Hashim THACI elected president in third ballot; Assembly vote - Hashim THACI (PDK) 71 votes; Ramush HARADINAJ (AAK) elected prime minister; Assembly vote - 61 votes<br>
+_election results_: <em>2021: </em> Vjosa OSMANI-Sadriu elected president in third ballot; Assembly vote - Vjosa OSMANI-Sadriu (Guxo!) 71; Albin KURTI (LVV) elected prime minister; Assembly vote - 67-30<br><br><em>2016:</em> Hashim THACI elected president in third ballot; Assembly vote - Hashim THACI (PDK) 71; Ramush HARADINAJ (AAK) elected prime minister; Assembly vote - 61 <br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Kuvendi i Kosoves/Skupstina Kosova (120 seats; 100 members directly elected by open-list proportional representation vote with 20 seats reserved for ethnic minorities - 10 for Serbs and 10 for other ethnic minorities; members serve 4-year terms)<br>
@@ -459,6 +459,7 @@ _Currency_: euros (EUR) per US dollar -<br>
 0.893 (2019 est.)<br>
 0.847 (2018 est.)<br>
 0.885 (2017 est.)<br>
+<strong>note: </strong>Kosovo, which is neither an EU member state nor a party to a formal EU monetary agreement, uses the euro as its de facto currency<br>
 
 ## Energy
 
@@ -611,5 +612,5 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2004 as a result of violence) (2021)<br>
-<strong>note:</strong> 8,884 estimated refugee and migrant arrivals (January 2015-May 2023)<br>
+<strong>note:</strong> 8,935 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
 

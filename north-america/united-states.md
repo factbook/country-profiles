@@ -567,7 +567,7 @@ _Currency_: <strong>British pounds per US dollar: </strong>0.7836 (2017 est.), 0
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 1,143,266,000 kW (2020 est.)<br>
@@ -729,7 +729,7 @@ the US operates one PC 1 or 2 class heavy icebreaker, two PC 3 or 4 class medium
 
 **Military and security forces**<br>
 United States Armed Forces (aka US Military): US Army (USA), US Navy (USN; includes US Marine Corps or USMC), US Air Force (USAF), US Space Force (USSF); US Coast Guard (USCG); National Guard (Army National Guard and Air National Guard) (2023)<br>
-<strong>note 1: </strong>the US Coast Guard is administered in peacetime by the Department of Homeland Security, but in wartime reports to the Department of the Navy<br><strong><br>note 2:</strong> the Army National Guard and the Air National Guard are reserve components of their services and operate in part under state authority; the US military also maintains reserve forces for each branch (US Army Reserve, US Navy Reserve, US Air Force Reserve, and US Coast Guard Reserve)<br>
+<strong>note 1: </strong>the US Coast Guard is administered in peacetime by the Department of Homeland Security, but in wartime reports to the Department of the Navy<br><strong><br>note 2:</strong> the Army National Guard and the Air National Guard are reserve components of their services and operate in part under state authority; the US military also maintains reserve forces for each branch (US Army Reserve, US Navy Reserve, US Air Force Reserve, and US Coast Guard Reserve)<br><br><strong>note 3: </strong>US law enforcement personnel include those of federal agencies, such as the Department of Homeland Security and Department of Justice, the 50 states, special jurisdictions, local sheriff’s offices, and municipal, county, regional, and tribal police departments <br>
 
 **Military expenditures**<br>
 3.5% of GDP (2023 est.)<br>

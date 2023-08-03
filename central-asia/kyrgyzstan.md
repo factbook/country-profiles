@@ -344,11 +344,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Sadyr JAPAROV (since 28 January 2021)<br>
+_chief of state_: President Sadyr JAPAROV (since 28 January 2021); note - the president is both chief of state and head of government<br>
 _head of government_: President Sadyr JAPAROV (since 28 January 2021)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a five-year term (eligible for a second term); election last held on 10 January 2021 (next to be held in 2027)<br>
-_election results_: <em>2021:</em> Sadyr JAPAROV elected president in first round; percent of vote - Sadyr JAPAROV (Mekenchil) 79.2%, Adakhan MADUMAROV (United Kyrgyzstan) 6.8%, other 14%<br><br><em>2017:</em> Sooronbay JEENBEKOV elected president; Sooronbay JEENBEKOV (Social Democratic Party of Kosovo) 54.7%, Omurbek BABANOV (independent) 33.8%, Adakhan MADUMAROV (United Kyrgyzstan) 6.6%, and other 4.9%<br>
+_election results_: <em>2021:</em> Sadyr JAPAROV elected president in first round; percent of vote - Sadyr JAPAROV (Mekenchil) 79.2%, Adakhan MADUMAROV (United Kyrgyzstan) 6.8%, other 14%<br><br><em>2017:</em> Sooronbay JEENBEKOV elected president; Sooronbay JEENBEKOV (Social Democratic Party of Kyrgyzstan) 54.7%, Omurbek BABANOV (independent) 33.8%, Adakhan MADUMAROV (United Kyrgyzstan) 6.6%, other 4.9%<br>
 <strong>note:</strong> the President is both Chief of State and Head of Government.<br>
 
 **Legislative branch**<br>
@@ -362,7 +362,7 @@ _judge selection and term of office_: Supreme Court and Constitutional Court jud
 _subordinate courts_: Higher Court of Arbitration; oblast (provincial) and city courts<br>
 
 **Political parties and leaders**<br>
-Alyans (Alliance) [Mirlan JEENCHOROEV]<br>Ata-Jurt Kyrgyzstan (Homeland) or AJK [Aybek MATKERIMOV]<br>Butun Kyrgyzstan (United) [Adakhan MADUMAROV]<br>Ishenim (Trust) [Rysbat AMATOV and Azamat DOROYEV]<br>Social Democrats or SDK [Temirlan SULTANBEKOV]<br>Yntymak (Unity) [Marlen MAMATALIEV]<br>Yiman Nuru (Light of Faith) [Nurjigit KADYRBEKOV]<br>
+Alyans (Alliance) [Mirlan JEENCHOROEV]<br>Ata-Jurt Kyrgyzstan (Homeland) or AJK [Aybek MATKERIMOV]<br>Butun Kyrgyzstan (United Kyrgyzstan) [Adakhan MADUMAROV]<br>Ishenim (Trust) [Rysbat AMATOV and Azamat DOROYEV]<br>Social Democrats or SDK [Temirlan SULTANBEKOV]<br>Yntymak (Unity) [Marlen MAMATALIEV]<br>Yiman Nuru (Light of Faith) [Nurjigit KADYRBEKOV]<br>
 
 **International organization participation**<br>
 ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PCA, PFP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

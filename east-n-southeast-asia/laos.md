@@ -340,11 +340,11 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President THONGLOUN Sisoulit (since 22 March 2021); Vice Presidents PANI Yathotou and BOUNTHONG Chitmani (since 22 March 2021)<br>
+_chief of state_: President THONGLOUN Sisoulith (since 22 March 2021); Vice Presidents PANI Yathotou and BOUNTHONG Chitmani (since 22 March 2021)<br>
 _head of government_: Prime Minister SONXAI Siphandon (since 30 December 2022)<br>
 _cabinet_: Council of Ministers appointed by the president, approved by the National Assembly<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (no term limits); election last held on 22 March 2021 (next to be held in March 2026); prime minister nominated by the president, elected by the National Assembly for 5-year term<br>
-_election results_: <em><br>2021: </em>THONGLOUN Sisoulit (LPRP) elected president; National Assembly vote: 161-1; PANI Yathotou and BOUNTHONG Chitmani (LPRP) elected vice presidents; National Assembly vote NA; PHANKHAM Viphavan (LPRP) elected prime minister; National Assembly vote: 158-3<br><br><em>2016:</em> BOUNNYANG Vorachit (LPRP) elected president; PHANKHAM Viphavan (LPRP) elected vice president; percent of National Assembly vote - NA; THONGLOUN Sisoulit (LPRP) elected prime minister; percent of National Assembly vote - NA<br>
+_election results_: <em><br>2021: </em>THONGLOUN Sisoulith elected president; National Assembly vote - THONGLOUN Sisoulith (LPRP161-1; PANI Yathotou and BOUNTHONG Chitmani (LPRP) elected vice presidents; National Assembly vote - NA; PHANKHAM Viphavan (LPRP) elected prime minister; National Assembly vote - 158-3<br><br><em>2016:</em> BOUNNYANG Vorachit (LPRP) elected president; PHANKHAM Viphavan (LPRP) elected vice president; percent of National Assembly vote - NA; THONGLOUN Sisoulith (LPRP) elected prime minister; percent of National Assembly vote - NA<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Sapha Heng Xat (164 seats; members directly elected in multi-seat constituencies by simple majority vote from candidate lists provided by the Lao People's Revolutionary Party; members serve 5-year terms)<br>

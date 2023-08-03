@@ -333,9 +333,9 @@ _residency requirement for naturalization_: 10 years<br>
 **Executive branch**<br>
 _chief of state_: President Gitanas NAUSEDA (since 12 July 2019)<br>
 _head of government_: Prime Minister Ingrida SIMONYTE (since 24 November 2020)<br>
-_cabinet_: Council of Ministers nominated by the prime minister, appointed by the president, and approved by Parliament<br>
+_cabinet_: Council of Ministers nominated by the prime minister, appointed by the president, approved by Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 12 and 26 May 2019 (next to be held in May 2024); prime minister appointed by the president, approved by Parliament<br>
-_election results_: <em><br>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%<br><br><em>2014: </em>elected president; percent by vote Dalia GRYBAUSKAITE (independent) 59.1%, Zigmantas BALCYTIS (Social Democratic Party) 40.9%<br>
+_election results_: <em><br>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%<br><br><em>2014: Dalia GRYBAUSKAITE </em>elected president; percent of vote - Dalia GRYBAUSKAITE (independent) 59.1%, Zigmantas BALCYTIS (Social Democratic Party) 40.9%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
@@ -540,7 +540,7 @@ _Currency_: litai (LTL) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 3.512 million kW (2020 est.)<br>
@@ -714,7 +714,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 78,405 (Ukraine) (as of 4 July 2023)<br>
+_refugees (country of origin)_: 48,425 (Ukraine) (as of 24 July 2023)<br>
 _stateless persons_: 2,720 (2022)<br>
 
 **Illicit drugs**<br>

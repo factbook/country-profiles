@@ -356,7 +356,7 @@ _chancery_: 1400 16th Street NW, Suite 100, Washington, DC 20036<br>
 _telephone_: [1] (202) 595-7500<br>
 _FAX_: [1] (202) 232-3763<br>
 _email address and website_: infoEEUU@rree.gob.sv<br>
-_consulate(s) general_: Atlanta, Boston, Brentwood (NY), Charlotte, Chicago, Dallas, Denver, Houston, Las Vegas (NV), Loreado (TX), Los Angeles, McAllen (TX), New York, San Bernardino (CA), San Francisco, Tucson (AZ), Washington (DC), Woodbridge (VA)<br>
+_consulate(s) general_: Atlanta, Boston, Brentwood (NY), Charlotte, Chicago, Dallas, Denver, Houston, Las Vegas (NV), Laredo (TX), Los Angeles, McAllen (TX), New York, San Bernardino (CA), San Francisco, Tucson (AZ), Washington (DC), Woodbridge (VA)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Patrick H. VENTRELL<br>

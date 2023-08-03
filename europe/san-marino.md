@@ -465,11 +465,12 @@ _Currency_: euros (EUR) per US dollar -<br>
 0.893 (2019 est.)<br>
 0.847 (2018 est.)<br>
 0.885 (2017 est.)<br>
+<strong>note: </strong>while not an EU member state, San Marino, due to its preexisting monetary and banking agreements with Italy, has a 2000 monetary agreement with the EU to produce limited euro coinage—but not banknotes—that began enforcement in January 2002 and was superseded by a new EU agreement in 2012<br>
 
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 ## Communications
 

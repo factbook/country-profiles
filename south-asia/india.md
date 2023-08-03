@@ -420,7 +420,7 @@ _selected World Heritage Site locales_: Taj Mahal (c); Red Fort Complex (c); Ell
 ## Economy
 
 **Economic overview**<br>
-largest South Asian economy; still informal domestic economies; COVID-19 reversed both economic growth and poverty reduction; credit access weaknesses contributing to lower private consumption and inflation; new social and infrastructure equity efforts<br>
+largest South Asian economy; key US trading partner; many informal domestic economies; promoting self-reliance and increasing market access barriers; credit access weaknesses contributing to lower private consumption and inflation; ongoing social and infrastructure equity efforts<br>
 
 **Real GDP (purchasing power parity)**<br>
 $9.279 trillion (2021 est.)<br>
@@ -537,7 +537,7 @@ $484.691 billion (2020 est.) note: data are in current year dollars<br>
 $546.033 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-United States 17%, United Arab Emirates 9%, China 5% (2019)<br>
+US 18%, UAE 6%, China 6%, Bangladesh 4%, Hong Kong 3% (2021)<br>
 
 **Exports - commodities**<br>
 refined petroleum, diamonds, packaged medicines, jewelry, rice (2021)<br>
@@ -548,10 +548,10 @@ $493.033 billion (2020 est.) note: data are in current year dollars<br>
 $619.485 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 15%, United States 7%, United Arab Emirates 6%, Saudi Arabia 5% (2019)<br>
+China 17%, UAE 7%, US 7%, Switzerland 6%, Saudi Arabia 5% (2021)<br>
 
 **Imports - commodities**<br>
-crude petroleum, gold, coal, diamonds, natural gas (2019)<br>
+crude petroleum, gold, coal, diamonds, natural gas, integrated circuits (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $638.485 billion (31 December 2021 est.)<br>

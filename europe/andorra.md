@@ -459,6 +459,7 @@ _Currency_: euros (EUR) per US dollar -<br>
 0.903 (2016 est.)<br>
 0.921 (2015 est.)<br>
 0.885 (2014 est.)<br>
+<strong>note: </strong>while not an EU member state, Andorra has a 2011 monetary agreement with the EU to produce limited euro coinage—but not banknotes—that began enforcement in April 2012<br>
 
 ## Energy
 

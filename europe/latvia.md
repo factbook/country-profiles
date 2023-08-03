@@ -332,7 +332,7 @@ _chief of state_: President Egils LEVITS (since 8 July 2019)<br>
 _head of government_: Prime Minister Krisjanis KARINS (since 23 January 2019)<br>
 _cabinet_: Cabinet of Ministers nominated by the prime minister, appointed by Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament for a 4-year term (eligible for a second term); election last held on 29 May 2019 (next to be held in 2023); prime minister appointed by the president, confirmed by Parliament<br>
-_election results_: <em>2019:</em> Egils LEVITS elected president; Parliament vote - Egils LEVITS 61 votes, Didzis SMITS 24 votes, Juris JANSONS 8 votes; Krisjanis KARINS confirmed prime minister 61-39<br><br><em>2015: </em>Raimonds VEJONIS elected president; Raimonds VEJONIS (the Green Party) 55 votes, Egils LEVITS (National Alliance) 42 votes<br>
+_election results_: <em>2019:</em> Egils LEVITS elected president; Parliament vote - Egils LEVITS 61, Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39<br><br><em>2015: </em>Raimonds VEJONIS elected president; Parliament vote - Raimonds VEJONIS (the Green Party) 55, Egils LEVITS (NA) 42<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms)<br>
@@ -535,7 +535,7 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 3.089 million kW (2020 est.)<br>
@@ -706,7 +706,7 @@ Latvia became a member of NATO in 2004 <br><br>since 2017, Latvia has hosted a C
 <p><em>Latvia-Belarus</em>: Belarus and Latvia signed joint demarcation map in September 2008</p> <p><em>Latvia-Estonia</em>: demarcation reportedly completed in 1998</p> <p><em>Latvia-Lithuania</em>: boundary demarcation was completed by the end of 1998; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights</p> <p><em>Latvia-Russia</em>: Russia demands better Latvian treatment of ethnic Russians in Latvia; in March 2007, Latvia and Russia signed a border treaty, which includes Latvia withdrawing claims to a district now in Russia that was part of Latvia before WWII; the permanent demarcation of the boundary between Latvia and Russia was completed and came into force in April 2018; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 31,527 (Ukraine) (as of 19 May 2023)<br>
+_refugees (country of origin)_: 38,145 (Ukraine) (as of 25 July 2023)<br>
 _stateless persons_: 195,354 (2022); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
 
 **Illicit drugs**<br>
