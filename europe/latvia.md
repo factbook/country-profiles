@@ -2,11 +2,6 @@ _Europe / Countries_
 
 # Latvia
 
-## Introduction
-
-**Background**<br>
-Several eastern Baltic tribes merged in medieval times to form the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.). The region subsequently came under the control of Germans, Poles, Swedes, and finally, Russians. A Latvian republic emerged following World War I, but it was annexed by the USSR in 1940 - an action never recognized by the US and many other countries. Latvia reestablished its independence in 1991 following the breakup of the Soviet Union. Although the last Russian troops left in 1994, the status of the Russian minority (some 25% of the population) remains of concern to Moscow. Latvia acceded to both NATO and the EU in the spring of 2004; it joined the euro zone in 2014 and the OECD in 2016. A dual citizenship law was adopted in 2013, easing naturalization for non-citizen children.<br>
-
 ## Geography
 
 **Location**<br>
@@ -72,6 +67,11 @@ large percentage of agricultural fields can become waterlogged and require drain
 
 **Geography - note**<br>
 most of the country is composed of fertile low-lying plains with some hills in the east<br>
+
+## Introduction
+
+**Background**<br>
+Several eastern Baltic tribes merged in medieval times to form the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.). The region subsequently came under the control of Germans, Poles, Swedes, and finally, Russians. A Latvian republic emerged following World War I, but it was annexed by the USSR in 1940 - an action never recognized by the US and many other countries. Latvia reestablished its independence in 1991 following the breakup of the Soviet Union. Although the last Russian troops left in 1994, the status of the Russian minority (some 25% of the population) remains of concern to Moscow. Latvia acceded to both NATO and the EU in the spring of 2004; it joined the euro zone in 2014 and the OECD in 2016. A dual citizenship law was adopted in 2013, easing naturalization for non-citizen children.<br>
 
 ## People and Society
 
@@ -332,7 +332,7 @@ _chief of state_: President Egils LEVITS (since 8 July 2019)<br>
 _head of government_: Prime Minister Krisjanis KARINS (since 23 January 2019)<br>
 _cabinet_: Cabinet of Ministers nominated by the prime minister, appointed by Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament for a 4-year term (eligible for a second term); election last held on 29 May 2019 (next to be held in 2023); prime minister appointed by the president, confirmed by Parliament<br>
-_election results_: <em>2019:</em> Egils LEVITS elected president; Parliament vote - Egils LEVITS 61, Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39<br><br><em>2015: </em>Raimonds VEJONIS elected president; Parliament vote - Raimonds VEJONIS (the Green Party) 55, Egils LEVITS (NA) 42<br>
+_election results_: <em>2019:</em> Egils LEVITS elected president; Parliament vote - Egils LEVITS 61, Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39<br><br><em>2015: </em>Raimonds VEJONIS elected president; Parliament vote - Raimonds VEJONIS (Latvian Green Party) 55, Egils LEVITS (NA) 42<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms)<br>
@@ -345,7 +345,7 @@ _judge selection and term of office_: Supreme Court judges nominated by chief ju
 _subordinate courts_: district (city) and regional courts<br>
 
 **Political parties and leaders**<br>
-Development/For! or AP! [Daniels PAVLUTS, Ivars IJABS]<br>For Stability or S! [Aleksejs ROSLIKOVS]<br>Latvia First [Ainars SLESERS]<br>National Alliance "All For Latvia!"-"For Fatherland and Freedom/LNNK" or NA [Raivis DZINTARS] <br>New Unity or JV [Arturs Krišjānis KARINS]<br>Social Democratic Party "Harmony" or S [Janis URBANOVICS]<br>The Progressives or PRO [Kaspars BRISKENS]<br>Union of Greens and Farmers or ZZS [Aivars LEMBERGS]<br>United List or AS [Uldis PILENS] (electoral coalition including the Latvian Green Party or LZP, Latvian Association of Regions or LRA, Liepaja Party)<br>
+Development/For! or AP! [Daniels PAVLUTS, Ivars IJABS]<br>For Stability or S! [Aleksejs ROSLIKOVS]<br>Latvia First [Ainars SLESERS]<br>Latvian Green Party or LZP (Edgars TAVARS)<br>National Alliance "All For Latvia!"-"For Fatherland and Freedom/LNNK" or NA [Raivis DZINTARS] <br>New Unity or JV [Arturs Krišjānis KARINS]<br>Social Democratic Party "Harmony" or S [Janis URBANOVICS]<br>The Progressives or PRO [Kaspars BRISKENS]<br>Union of Greens and Farmers or ZZS [Aivars LEMBERGS]<br>United List or AS [Uldis PILENS] (electoral coalition including the Latvian Green Party or LZP, Latvian Association of Regions or LRA, Liepaja Party)<br>
 
 **International organization participation**<br>
 Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>

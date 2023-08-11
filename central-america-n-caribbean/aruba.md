@@ -580,10 +580,6 @@ defense is the responsibility of the Kingdom of the Netherlands; the Aruba secur
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 17,000 (Venezuela) (2021)<br>
 
-**Trafficking in persons**<br>
-_tier rating_: Tier 2 Watch List &mdash; Aruba does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government identified more potential victims, investigated more trafficking cases, and produced a new awareness campaign; however, the government did not demonstrate overall increasing efforts, compared to the previous reporting period, on its anti-trafficking capacity; authorities did not prosecute or convict any traffickers for the third consecutive year and sometimes relied on victims to self-identify; efforts depended on ad hoc funding, limiting key initiatives; officials conflated trafficking in persons and migrant smuggling, hindering the effectiveness of anti-trafficking efforts; because the government has devoted significant resources to a plan that, if implemented, would constitute significant efforts to meet minimum standards, Aruba was granted a waiver per the TVPA and thus remained on the Tier 2 Watch List for a third consecutive year (2022)<br>
-_trafficking profile_: <p>human traffickers exploit domestic and foreign victims; traffickers exploit Venezuelan women in sex trafficking, and foreign men and women are subject to forced labor in Aruba’s services and construction sectors; Venezuelans overstaying visas are at risk of forced labor in domestic service, construction, and commercial sex; Chinese men and women and Indian men are subject to forced labor in retail businesses and domestic service; Arubans force Caribbean and South American women into domestic servitude; officials reported increases in forced criminality, where traffickers compel victims to commit unlawful acts, such as robberies and drug-related offenses (2022)</p><br>
-
 **Illicit drugs**<br>
 <p>northbound transshipment point for cocaine from Colombia and Venezuela; cocaine shipped to the United States, other Caribbean islands, Africa, and Europe</p> <p> </p><br>
 

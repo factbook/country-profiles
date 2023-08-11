@@ -2,11 +2,6 @@ _Europe / Countries_
 
 # Spain
 
-## Introduction
-
-**Background**<br>
-<p>Spain's powerful world empire of the 16th and 17th centuries ultimately yielded command of the seas to England. Subsequent failure to embrace the mercantile and industrial revolutions caused the country to fall behind Britain, France, and Germany in economic and political power. Spain remained neutral in World War I and II but suffered through a devastating civil war (1936-39). A peaceful transition to democracy following the death of dictator Francisco FRANCO in 1975, and rapid economic modernization (Spain joined the EU in 1986) gave Spain a dynamic and rapidly growing economy, and made it a global champion of freedom and human rights. More recently, Spain has emerged from a severe economic recession that began in mid-2008, posting solid years of GDP growth above the EU average. Unemployment has fallen but remains high, especially among youth. Spain is the euro-zone's fourth-largest economy. The country has faced increased domestic turmoil in recent years due to the independence movement in its restive Catalonia region.</p><br>
-
 ## Geography
 
 **Location**<br>
@@ -76,6 +71,11 @@ with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban a
 
 **Geography - note**<br>
 strategic location along approaches to Strait of Gibraltar; Spain controls a number of territories in northern Morocco including the enclaves of Ceuta and Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas; Spain's Canary Islands are one of four North Atlantic archipelagos that make up Macaronesia; the others are Azores (Portugal), Madeira (Portugal), and Cabo Verde<br>
+
+## Introduction
+
+**Background**<br>
+<p>Spain's powerful world empire of the 16th and 17th centuries ultimately yielded command of the seas to England. Subsequent failure to embrace the mercantile and industrial revolutions caused the country to fall behind Britain, France, and Germany in economic and political power. Spain remained neutral in World War I and II but suffered through a devastating civil war (1936-39). A peaceful transition to democracy following the death of dictator Francisco FRANCO in 1975, and rapid economic modernization (Spain joined the EU in 1986) gave Spain a dynamic and rapidly growing economy, and made it a global champion of freedom and human rights. More recently, Spain has emerged from a severe economic recession that began in mid-2008, posting solid years of GDP growth above the EU average. Unemployment has fallen but remains high, especially among youth. Spain is the euro-zone's fourth-largest economy. The country has faced increased domestic turmoil in recent years due to the independence movement in its restive Catalonia region.</p><br>
 
 ## People and Society
 
@@ -533,8 +533,8 @@ $81.288 billion (31 December 2020 est.)<br>
 $74.731 billion (31 December 2019 est.)<br>
 
 **Debt - external**<br>
-$2.338 billion (2019 est.)<br>
-$2.366 billion (2018 est.)<br>
+$2.338 trillion (2019 est.)<br>
+$2.366 trillion (2018 est.)<br>
 
 **Exchange rates**<br>
 _Currency_: euros (EUR) per US dollar -<br>
@@ -733,9 +733,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 438,400 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022); 185,120 (Ukraine) (as of 9 July 2023)<br>
+_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 438,400 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022); 186,045 (Ukraine) (as of 30 July 2023)<br>
 _stateless persons_: 6,489 (2022)<br>
-<strong>note: </strong>292,458 estimated refugee and migrant arrivals, including Canary Islands (January 2015-July 2023)<br>
+<strong>note: </strong>293,878 estimated refugee and migrant arrivals, including Canary Islands (January 2015-July 2023)<br>
 
 **Illicit drugs**<br>
 <p>a primary European transit point for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection or altered to escape detection Spanish chemists reconstitute it and distribute to Europe; minor domestic drug production; synthetic drugs, including ketamine, new psychoactive substances (NPS), and MDMA transit from Spain to the United States</p><br>

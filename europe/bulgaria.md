@@ -736,9 +736,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 162,935 (Ukraine) (as of 27 June 2023)<br>
+_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 162,935 (Ukraine) (as of 11 July 2023)<br>
 _stateless persons_: 1,129 (2022)<br>
-<strong>note:</strong> 91,531 estimated refugee and migrant arrivals (January 2015-May 2023); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 93,441 estimated refugee and migrant arrivals (January 2015-June 2023); Bulgaria is predominantly a transit country<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Bulgaria does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials prosecuted significantly more suspected traffickers, ordered restitution, and drafted an annual national program with increased funding for combating trafficking and protecting victims; however, the government did not demonstrate overall increasing efforts to improve its anti-trafficking capacity; authorities investigated and convicted significantly fewer traffickers, the fewest since the government began reporting trafficking data; courts continued to issue suspended sentences for most convicted traffickers; victim identification and assistance data remained unreliable, making it difficult to accurately assess trafficking; authorities penalized victims for crimes traffickers compelled them to commit; lack of resources, legal authority, and training impeded law enforcement; corruption in law enforcement and the judiciary hindered progress, and alleged complicity in trafficking crimes persisted; therefore, Bulgaria was downgraded to Tier 2 Watch List (2022)<br>

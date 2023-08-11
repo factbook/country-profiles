@@ -22,7 +22,7 @@ Asia<br>
 _total_: 86,600 sq km<br>
 _land_: 82,629 sq km<br>
 _water_: 3,971 sq km<br>
-<strong>note:</strong> includes the exclave of Naxcivan Autonomous Republic and the Nagorno-Karabakh region; the region's autonomy was abolished by Azerbaijani Supreme Soviet on 26 November 1991<br>
+<strong>note:</strong> includes the exclave of Naxcivan Autonomous Republic and the Nagorno-Karabakh region; the final status of the region has yet to be determined<br>
 
 **Area - comparative**<br>
 about three-quarters the size of Pennsylvania; slightly smaller than Maine<br>
@@ -716,6 +716,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps (IR
 <p>Local border forces struggle to control the illegal transit of goods and people across the porous, undemarcated Armenian, Azerbaijani, and Georgian borders.<br><br><em>Armenia-Azerbaijan:</em> The dispute over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan remains the primary focus of regional instability. Residents have evacuated the former Soviet-era small ethnic enclaves in Armenia and Azerbaijan.<br><br><em>Azerbaijan-Georgia:</em> A joint boundary commission agrees on most of the alignment, leaving only small areas at certain crossing points in dispute.  Consequently, the two states have yet to agree on a delimitation or demarcation of their common boundary. One area of contention is where the international boundary should run through the 6th-13th Century David-Gareja monastery complex.<br><br><em>Azerbaijan-Iran:</em> none identified<br><br><em>Azerbaijan-Russia: </em>Russia complains of cross-border smuggling.<br><br><em>Azerbaijan-Turkey:</em> none identified<br><br><em>Caspian Sea (Maritime Boundary):</em> Azerbaijan, Kazakhstan, and Russia ratified the Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea. Bilateral talks continue with Turkmenistan on dividing the seabed and contested oilfields in the middle of the Caspian.</p><br>
 
 **Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 5,270 (Ukraine) (as of 26 July 2023)<br>
 _IDPs_: 655,000 (conflict with Armenia over Nagorno-Karabakh; IDPs are mainly ethnic Azerbaijanis but also include ethnic Kurds, Russians, and Turks predominantly from occupied territories around Nagorno-Karabakh; includes IDPs' descendants, returned IDPs, and people living in insecure areas and excludes people displaced by natural disasters; around half the IDPs live in the capital Baku) (2021)<br>
 _stateless persons_: 3,585 (2022)<br>
 

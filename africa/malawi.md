@@ -362,7 +362,7 @@ _election results_: <p><em>2020: </em>Lazarus CHAKWERA elected president; Lazaru
 **Legislative branch**<br>
 _description_: unicameral National Assembly (193 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: last held on 21 May 2019 (next to be held in May 2024)<br>
-_election results_: percent of vote by party - n/a; seats by party - DPP 62, MCP 55, UDF 10, PP 5, other 5, independent 55, vacant 1; composition - men 161, women 32, percent of women 16.6%<br>
+_election results_: percent of vote by party - n/a; seats by party - DPP 62, MCP 55, UDF 10, PP 5, other 5, independent 55, vacant 1; composition as of July 2023 - men 153, women 40, percent of women 20.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Appeal (consists of the chief justice and at least 3 judges)<br>
@@ -711,7 +711,7 @@ the MDF’s primary responsibility is external security; it is also tasked as ne
 <p><em>Malawi-Mozambique</em>: the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Malawi-Tanzania</em>: dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p> <p><em>Malawi-Zambia</em>: border demarcation was completed in 2011; in 2018, the redemarcation exercise determined that some parts of Malawi actually belonged to Zambia</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,121 (Democratic Republic of the Congo) (refugees and asylum seekers) 10,953 (Burundi) (refugees and asylum seekers), 6,488 (Rwanda) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 33,332 (Democratic Republic of the Congo) (refugees and asylum seekers) 10,953 (Burundi) (refugees and asylum seekers), 6,488 (Rwanda) (refugees and asylum seekers) (2023)<br>
 
 **Illicit drugs**<br>
 NA<br>

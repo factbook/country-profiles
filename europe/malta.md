@@ -2,11 +2,6 @@ _Europe / Countries_
 
 # Malta
 
-## Introduction
-
-**Background**<br>
-With a civilization that dates back thousands of years, Malta boasts some of the oldest megalithic sites in the world. Situated in the center of the Mediterranean, Malta&rsquo;s islands have long served as a strategic military asset, with the islands at various times having come under control of the Phoenicians, Carthaginians, Greeks, Romans, Byzantines, Moors, Normans, Sicilians, Spanish, Knights of St. John, and the French. Most recently a British colony (since 1814), Malta gained its independence in 1964 and declared itself a republic 10 years later. While under British rule, the island staunchly supported the UK through both world wars. Since about the mid-1980s, the island has transformed itself into a freight transshipment point, a financial center, and a tourist destination while its key industries moved toward more service-oriented activities. Malta became an EU member in May 2004 and began using the euro as currency in 2008.<br>
-
 ## Geography
 
 **Location**<br>
@@ -70,6 +65,11 @@ occasional droughts<br>
 
 **Geography - note**<br>
 the country comprises an archipelago, with only the three largest islands (Malta, Ghawdex or Gozo, and Kemmuna or Comino) inhabited; numerous bays provide good harbors; Malta and Tunisia are discussing oil exploration on the continental shelf between their countries, although no commercially viable reserves have been found as of 2017<br>
+
+## Introduction
+
+**Background**<br>
+With a civilization that dates back thousands of years, Malta boasts some of the oldest megalithic sites in the world. Situated in the center of the Mediterranean, Malta&rsquo;s islands have long served as a strategic military asset, with the islands at various times having come under control of the Phoenicians, Carthaginians, Greeks, Romans, Byzantines, Moors, Normans, Sicilians, Spanish, Knights of St. John, and the French. Most recently a British colony (since 1814), Malta gained its independence in 1964 and declared itself a republic 10 years later. While under British rule, the island staunchly supported the UK through both world wars. Since about the mid-1980s, the island has transformed itself into a freight transshipment point, a financial center, and a tourist destination while its key industries moved toward more service-oriented activities. Malta became an EU member in May 2004 and began using the euro as currency in 2008.<br>
 
 ## People and Society
 
@@ -523,7 +523,7 @@ _Currency_: euros (EUR) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 784,000 kW (2020 est.)<br>
@@ -678,6 +678,7 @@ Malta maintains a security policy of neutrality, but contributes to EU and UN mi
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 5,890 (Ukraine) (as of 16 July 2023)<br>
 _stateless persons_: 11 (2022)<br>
 <strong>note:</strong> 8,556 estimated refugee and migrant arrivals by sea (January 2015-November 2022)<br>
 

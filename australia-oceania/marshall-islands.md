@@ -303,11 +303,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President David KABUA&nbsp;(since&nbsp; 13 January 2020); note - the president is both chief of state and head of government<br>
+_chief of state_: President David KABUA (since 13 January 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President David KABUA&nbsp;(since&nbsp;13 January 2020)<br>
 _cabinet_: Cabinet nominated by the president from among members of the Nitijela, appointed by Nitijela speaker<br>
 _elections/appointments_: president indirectly elected by the Nitijela from among its members for a 4-year term (no term limits); election last held on&nbsp;6 January 2020 (next to be held in 2024)<br>
-_election results_: David KABUA&nbsp;elected president; Parliament vote - David KABUA&nbsp;20, Hilda C. HEINE&nbsp;12<br>
+_election results_: David KABUA elected president; National Parliament vote - David KABUA 20, Hilda C. HEINE 12<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament consists of:<br>Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - the Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms<br>

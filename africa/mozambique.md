@@ -357,7 +357,7 @@ _chief of state_: President Filipe Jacinto NYUSI (since 15 January 2015); note -
 _head of government_: President Filipe Jacinto NYUSI (since 15 January 2015); Prime Minister Adriano Afonso MALEIANE (since 3 March 2022); note - President NYUSI removed former Prime Minister Carlos Agostinho DO ROSARIO from office on 3 March 2022 as part of a cabinet reshuffle<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president elected directly by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 consecutive terms); election last held on 15 October 2019 (next to be held on 15 October 2024); prime minister appointed by the president<br>
-_election results_: <em>2019</em>: Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 73.0%, Ossufo MOMADE (RENAMO) 21.9%, Daviz SIMANGO (MDM) 5.1%<br><br><em>2014</em>:  Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 57.0%, Afonso DHLAKAMA (RENAMO) 36.6%, Daviz SIMANGO (MDM) 6.4% <br>
+_election results_: <em><br>2019</em>: Filipe NYUSI reelected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 73.0%, Ossufo MOMADE (RENAMO) 21.9%, Daviz SIMANGO (MDM) 5.1%<br><br><em>2014</em>:  Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 57.0%, Afonso DHLAKAMA (RENAMO) 36.6%, Daviz SIMANGO (MDM) 6.4%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Republic or Assembleia da Republica (250 seats; 248 members elected in multi-seat constituencies by party-list proportional representation vote and 2 members representing Mozambicans abroad directly elected by simple majority vote; members serve 5-year terms)<br>
@@ -729,7 +729,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Mozambique-Eswatini</em>: none identified</p> <p><em>Mozambique-Malawi</em>:  the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Mozambique-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>Mozambique-Tanzania</em>: none identified</p> <p><em>Mozambique-Zambia</em>: none identified</p> <p><em>Mozambique-Zimbabwe</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,178 (Democratic Republic of Congo) (refugees and asylum seekers), 9,261 (Burundi) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 12,398 (Democratic Republic of Congo) (refugees and asylum seekers), 9,261 (Burundi) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 1.03 million (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>

@@ -364,9 +364,9 @@ _residency requirement for naturalization_: 5 years<br>
 **Executive branch**<br>
 _chief of state_: President Andr&eacute;s Manuel L&Oacute;PEZ OBRADOR (since 1 December 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Andr&eacute;s Manuel L&Oacute;PEZ OBRADOR (since 1 December 2018)<br>
-_cabinet_: Cabinet appointed by the president; note - appointment of attorney general, the head of the Bank of Mexico, and senior treasury officials require consent of the Senate<br>
+_cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 6-year term; election last held on 1 July 2018 (next to be held in July 2024)<br>
-_election results_: <br><em>2018:</em> Andrés Manuel LÓPEZ OBRADOR elected president; percent of vote - Andrés Manuel LÓPEZ OBRADOR (MORENA) 53.2%, Ricardo ANAYA Cortés (PAN) 22.3%, José Antonio MEADE Kuribreña (PRI) 16.4%, Jaime RODRÍGUEZ Calderón 5.2% (independent), other 2.9%<br><br><em>2012:</em> Enrique PEÑA NIETO elected president; percent of vote - Enrique PEÑA NIETO (PRI) 38.2%, Andrés Manuel LÓPEZ OBRADOR (PRD) 31.6%, Josefina Eugenia VÁZQUEZ Mota (PAN) 25.4%, other 4.8%<br>
+_election results_: <br><em>2018:</em> Andrés Manuel LÓPEZ OBRADOR elected president; percent of vote - Andrés Manuel LÓPEZ OBRADOR (MORENA) 53.2%, Ricardo ANAYA Cortés (PAN) 22.3%, José Antonio MEADE Kuribreña (PRI) 16.4%, Jaime RODRÍGUEZ Calderón 5.2% (independent), other 2.9%<br><em>2012:</em> Enrique PEÑA NIETO elected president; percent of vote - Enrique PEÑA NIETO (PRI) 38.2%, Andrés Manuel LÓPEZ OBRADOR (PRD) 31.6%, Josefina Eugenia VÁZQUEZ Mota (PAN) 25.4%, other 4.8%<br>
 
 **Legislative branch**<br>
 _description_: <p>bicameral National Congress or Congreso de la Unión consists of:<br>Senate or Cámara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms)<br><br>Chamber of Deputies or Cámara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)</p><br>
@@ -577,7 +577,7 @@ _Currency_: Mexican pesos (MXN) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 93.43 million kW (2020 est.)<br>
@@ -687,7 +687,11 @@ XA<br>
 1,714 (2021)<br>
 
 **Airports - with paved runways**<br>
-243<br>
+_total_: 243<br>
+_civil airports_: 40<br>
+_military airports_: 6<br>
+_joint use (civil-military) airports_: 11<br>
+_other airports_: 186<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
@@ -758,7 +762,7 @@ the International Maritime Bureau reported one incident in the territorial water
 <p><em>Mexico-Belize</em>: Mexico and Belize are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty</p> <p><em>Mexico-Guatemala</em>: Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US</p> <p><em>Mexico-US</em>: the US has intensified security measures to monitor and control legal and illegal persons, transport, and commodities across its border with Mexico</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 35,755 (Honduras), 13,531 (El Salvador) (mid-year 2022); 82,976 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 35,755 (Honduras), 13,531 (El Salvador) (mid-year 2022); 91,359 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022)<br>
 _IDPs_: 379,000 (government's quashing of Zapatista uprising in 1994 in eastern Chiapas Region; drug cartel violence and government's military response since 2007; violence between and within indigenous groups) (2021)<br>
 _stateless persons_: 13 (2022)<br>
 

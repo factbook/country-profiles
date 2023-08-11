@@ -679,7 +679,7 @@ information varies; up to 15,000 FACA troops (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FACA is lightly armed; most of the military's heavy weapons and equipment were destroyed or captured during the 2012–2014 civil war; prior to the war, most of its equipment was of French, Russian, or Soviet origin; in recent years, it has received small amounts of secondhand equipment from China and Russia (2023)<br>
-<strong>note:</strong> since 2013, CAR has been under a UNSC arms embargo; the embargo bans all supplies of arms and related materiel to the country except to the CAR security forces if approved in advance by the relevant UN Sanctions Committee<br>
+<strong>note:</strong> since 2013, CAR has been under a UNSC arms embargo; the embargo bans all supplies of arms and related materiel to the country except to the CAR security forces if approved in advance by the relevant UN Sanctions Committee; in 2023, UNSC took a step towards relaxing the arms embargo by granting permission for weaponry to be supplied to government forces<br>
 
 **Military service age and obligation**<br>
 18 years of age for military service; no conscription (2022)<br>

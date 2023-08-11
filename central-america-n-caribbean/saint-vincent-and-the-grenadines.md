@@ -2,11 +2,6 @@ _Central America and Caribbean / Countries_
 
 # Saint Vincent and the Grenadines
 
-## Introduction
-
-**Background**<br>
-Resistance by native Caribs prevented colonization on Saint Vincent until 1719. Disputed by France and the UK for most of the 18th century, the island was ceded to Britain in 1783. The British prized Saint Vincent due to its fertile soil, which allowed for thriving slave-run plantations of sugar, coffee, indigo, tobacco, cotton, and cocoa. In 1834, the British abolished slavery. Immigration of indentured servants eased the ensuing labor shortage, as did subsequent Portuguese immigrants from Madeira and East Indian laborers. Conditions remained harsh for both former slaves and immigrant agricultural workers, however, as depressed world sugar prices kept the economy stagnant until the early 1900s. The economy then went into a period of decline with many landowners abandoning their estates and leaving the land to be cultivated by liberated slaves. Between 1960 and 1962, Saint Vincent and the Grenadines was a separate administrative unit of the Federation of the West Indies. Autonomy was granted in 1969 and independence in 1979. In April 2021, the explosive eruption of the La Soufri&egrave;re volcano in the north of Saint Vincent destroyed much of Saint Vincent&rsquo;s most productive agricultural lands. Unlike most of its tourism-dependent neighbors, the Vincentian economy is primarily agricultural. The US provided $4.7 million in humanitarian support after the eruption.<br>
-
 ## Geography
 
 **Location**<br>
@@ -70,6 +65,11 @@ most of the population is concentrated in and around the capital of Kingstown<br
 
 **Geography - note**<br>
 the administration of the islands of the Grenadines group is divided between Saint Vincent and the Grenadines and Grenada; Saint Vincent and the Grenadines is comprised of 32 islands and cays<br>
+
+## Introduction
+
+**Background**<br>
+Resistance by native Caribs prevented colonization on Saint Vincent until 1719. Disputed by France and the UK for most of the 18th century, the island was ceded to Britain in 1783. The British prized Saint Vincent due to its fertile soil, which allowed for thriving slave-run plantations of sugar, coffee, indigo, tobacco, cotton, and cocoa. In 1834, the British abolished slavery. Immigration of indentured servants eased the ensuing labor shortage, as did subsequent Portuguese immigrants from Madeira and East Indian laborers. Conditions remained harsh for both former slaves and immigrant agricultural workers, however, as depressed world sugar prices kept the economy stagnant until the early 1900s. The economy then went into a period of decline with many landowners abandoning their estates and leaving the land to be cultivated by liberated slaves. Between 1960 and 1962, Saint Vincent and the Grenadines was a separate administrative unit of the Federation of the West Indies. Autonomy was granted in 1969 and independence in 1979. In April 2021, the explosive eruption of the La Soufri&egrave;re volcano in the north of Saint Vincent destroyed much of Saint Vincent&rsquo;s most productive agricultural lands. Unlike most of its tourism-dependent neighbors, the Vincentian economy is primarily agricultural. The US provided $4.7 million in humanitarian support after the eruption.<br>
 
 ## People and Society
 
@@ -490,7 +490,7 @@ _Currency_: East Caribbean dollars (XCD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 49,000 kW (2020 est.)<br>

@@ -2,11 +2,6 @@ _Europe / Countries_
 
 # Andorra
 
-## Introduction
-
-**Background**<br>
-<p>The Moorish invasion of Spain in the 8th century and subsequent incursions into France were finally stemmed at the Pyrenees by Frankish King Charlemagne, who in 795 created the Hispanic March, a series of buffer states to keep the Muslim Moors from advancing into Christian France. The landlocked Principality of Andorra, one of the smallest states in Europe and nestled high in the Pyrenees between the French and Spanish borders, is the last independent survivor of these March states. For 715 years, from 1278 to 1993, Andorrans lived under a unique coprincipality, ruled by French and Spanish leaders (from 1607 onward, the French chief of state and the Bishop of Urgell). In 1993, this feudal system was modified with the introduction of a modern constitution; the co-princes remained as titular heads of state, but the government transformed into a parliamentary democracy.</p> <p>Andorra has become a popular tourist destination visited by approximately 8 million people each year drawn by the winter sports, summer climate, and duty-free shopping. Andorra has also become a wealthy international commercial center because of its mature banking sector and low taxes. As part of its effort to modernize its economy, Andorra has opened to foreign investment, and engaged in other reforms, such as advancing tax initiatives aimed at supporting a broader infrastructure. Although not a member of the EU, Andorra enjoys a special relationship with the bloc that is governed by various customs and cooperation agreements and uses the euro as its national currency.</p><br>
-
 ## Geography
 
 **Location**<br>
@@ -69,6 +64,11 @@ avalanches<br>
 
 **Geography - note**<br>
 landlocked; straddles a number of important crossroads in the Pyrenees<br>
+
+## Introduction
+
+**Background**<br>
+<p>The Moorish invasion of Spain in the 8th century and subsequent incursions into France were finally stemmed at the Pyrenees by Frankish King Charlemagne, who in 795 created the Hispanic March, a series of buffer states to keep the Muslim Moors from advancing into Christian France. The landlocked Principality of Andorra, one of the smallest states in Europe and nestled high in the Pyrenees between the French and Spanish borders, is the last independent survivor of these March states. For 715 years, from 1278 to 1993, Andorrans lived under a unique coprincipality, ruled by French and Spanish leaders (from 1607 onward, the French chief of state and the Bishop of Urgell). In 1993, this feudal system was modified with the introduction of a modern constitution; the co-princes remained as titular heads of state, but the government transformed into a parliamentary democracy.</p> <p>Andorra has become a popular tourist destination visited by approximately 8 million people each year drawn by the winter sports, summer climate, and duty-free shopping. Andorra has also become a wealthy international commercial center because of its mature banking sector and low taxes. As part of its effort to modernize its economy, Andorra has opened to foreign investment, and engaged in other reforms, such as advancing tax initiatives aimed at supporting a broader infrastructure. Although not a member of the EU, Andorra enjoys a special relationship with the bloc that is governed by various customs and cooperation agreements and uses the euro as its national currency.</p><br>
 
 ## People and Society
 
@@ -373,8 +373,9 @@ $2.712 billion (2016 est.)<br>
 -0.1% (2014 est.)<br>
 
 **Credit ratings**<br>
-_Fitch rating_: BBB+ (2018)<br>
-_Standard & Poors rating_: BBB (2017)<br>
+_Fitch rating_: A- (2022)<br>
+_Moody's rating_: Baa2 (2022)<br>
+_Standard & Poors rating_: BBB+ (2023)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>

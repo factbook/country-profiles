@@ -737,6 +737,9 @@ the Bolivian Armed Forces (FAB) are responsible for territorial defense but also
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 15,700 (Venezuela) (2022)<br>
 
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List &mdash; Bolivia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government adopted a National Action Plan for the elimination of trafficking and reportedly sentenced three traffickers who had been in pretrial detention since 2016; however, Bolivia did not demonstrate overall increasing efforts compared with the previous reporting period; officials did not report investigating, prosecuting, or convicting traffickers and did not report identifying or referring victims to care; therefore Bolivia was downgraded to Tier 2 Watch List (2023)<br>
+
 **Illicit drugs**<br>
 <p>the third-largest source country of cocaine and a major transit country for Peruvian cocaine; coca cultivation in 2021 totaled 39,700 hectares (ha); most  cocaine is exported to other Latin American countries, especially Brazil, Paraguay, and Argentina, for domestic consumption, or for onward transit from those countries to West Africa and Europe, not the United States.</p> <p> </p><br>
 

@@ -660,7 +660,7 @@ Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (
 1.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 personnel (2022)<br>
+approximately 1,500-2,000 personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military is lightly armed and has a limited inventory consisting of equipment donated by other countries; in recent years, it has received small amounts of material from China, South Korea, and the US (2022)<br>
@@ -669,7 +669,7 @@ the military is lightly armed and has a limited inventory consisting of equipmen
 18 years of age for voluntary military service; compulsory service was authorized in 2020 for men and women aged 18-30 for 18 months of service, but the level of implementation is unclear (2023)<br>
 
 **Military - note**<br>
-the small and lightly equipped F-FDTL has both external defense and internal security roles; it has 2 infantry battalions and a handful of naval patrol boats <br><br>since achieving independence, Timor-Leste has received security assistance from or has made defense cooperation arrangements with Australia, China, Indonesia, Malaysia, New Zealand, the Philippines, Portugal, the UN, and the US; some Defense Force personnel train with the Indonesian military and the two countries maintain a joint Border Security Task Force to jointly monitor and patrol the border, particularly the Oecussi exclave area where smuggling and trafficking are prevalent (2023)<br>
+the small and lightly equipped F-FDTL has both external defense and internal security roles; it has two infantry battalions, a small air component, and a handful of naval patrol boats <br><br>since achieving independence, Timor-Leste has received security assistance from or has made defense cooperation arrangements with Australia, China, Indonesia, Malaysia, New Zealand, the Philippines, Portugal, the UN, and the US; some Defense Force personnel train with the Indonesian military and the two countries maintain a joint Border Security Task Force to jointly monitor and patrol the border, particularly the Oecussi exclave area where smuggling and trafficking are prevalent (2023)<br>
 
 ## Transnational Issues
 

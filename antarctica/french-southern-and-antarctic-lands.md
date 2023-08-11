@@ -35,7 +35,7 @@ _territorial sea_: 12 nm<br>
 _exclusive economic zone_: 200 nm from Iles Kerguelen and Iles Eparses (does not include the rest of French Southern and Antarctic Lands); Juan de Nova Island and Tromelin Island claim a continental shelf of 200-m depth or to the depth of exploitation<br>
 
 **Climate**<br>
-<p><strong>Ile Amsterdam et Ile Saint-Paul:</strong> oceanic with persistent westerly winds and high humidity; </p><p><strong>Iles Crozet:</strong> windy, cold, wet, and cloudy; </p><p><strong>Iles Kerguelen:</strong> oceanic, cold, overcast, windy; </p><p><strong>Iles Eparses:</strong> tropical</p><br>
+<p><strong>Ile Amsterdam et Ile Saint-Paul:</strong> oceanic with persistent westerly winds and high humidity</p> <p><strong>Iles Crozet:</strong> windy, cold, wet, and cloudy</p> <p><strong>Iles Kerguelen:</strong> oceanic, cold, overcast, windy</p> <p><strong>Iles Eparses:</strong> tropical</p><br>
 
 **Terrain**<br>
 <p><strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul):</strong> a volcanic island with steep coastal cliffs; the center floor of the volcano is a large plateau; </p><p><strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul):</strong> triangular in shape, the island is the top of a volcano, rocky with steep cliffs on the eastern side; has active thermal springs; </p><p><strong>Iles Crozet:</strong> a large archipelago formed from the Crozet Plateau is divided into two groups of islands; </p><p><strong>Iles Kerguelen:</strong> the interior of the large island of Ile Kerguelen is composed of high mountains, hills, valleys, and plains with peninsulas stretching off its coasts; </p><p><strong>Bassas da India (Iles Eparses):</strong> atoll, awash at high tide; shallow (15 m) lagoon; </p><p><strong>Europa Island, Glorioso Islands, Juan de Nova Island:</strong> low, flat, and sandy; </p><p><strong>Tromelin Island (Iles Eparses):</strong> low, flat, sandy; likely volcanic seamount</p><br>
@@ -104,7 +104,7 @@ NA<br>
 introduction of foreign species on Iles Crozet has caused severe damage to the original ecosystem; overfishing of Patagonian toothfish around Iles Crozet and Iles Kerguelen<br>
 
 **Climate**<br>
-<p><strong>Ile Amsterdam et Ile Saint-Paul:</strong> oceanic with persistent westerly winds and high humidity; </p><p><strong>Iles Crozet:</strong> windy, cold, wet, and cloudy; </p><p><strong>Iles Kerguelen:</strong> oceanic, cold, overcast, windy; </p><p><strong>Iles Eparses:</strong> tropical</p><br>
+<p><strong>Ile Amsterdam et Ile Saint-Paul:</strong> oceanic with persistent westerly winds and high humidity</p> <p><strong>Iles Crozet:</strong> windy, cold, wet, and cloudy</p> <p><strong>Iles Kerguelen:</strong> oceanic, cold, overcast, windy</p> <p><strong>Iles Eparses:</strong> tropical</p><br>
 
 ## Government
 

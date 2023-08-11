@@ -319,7 +319,7 @@ _etymology_: both "Burma" and "Myanmar" derive from the name of the majority Bur
 <strong>note:</strong> since 1989 the military authorities in Burma and the deposed parliamentary government have promoted the name Myanmar as a conventional name for their state; the US Government has not officially adopted the name<br>
 
 **Government type**<br>
-parliamentary republic<br>
+previously parliamentary republic<br>
 
 **Capital**<br>
 _name_: Rangoon (aka Yangon, continues to be recognized as the primary Burmese capital by the US Government); Nay Pyi Taw is the administrative capital<br>
@@ -366,7 +366,7 @@ _state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note 
 <strong>note 1:</strong> a parliamentary bill creating the position of "state counsellor" was signed into law by former President HTIN KYAW on 6 April 2016; a state counsellor serves the equivalent term of the president and is similar to a prime minister in that the holder acts as a link between the parliament and the executive branch<br><br><strong>note 2:</strong> in July 2023, the junta announced a 6-month extension on the state of emergency in place since 2021, a move that further delayed elections that it had pledged to hold by August 2023<br>
 
 **Legislative branch**<br>
-_description_: bicameral Assembly of the Union or Pyidaungsu consists of:<br>House of Nationalities or Amyotha Hluttaw, (224 seats; 168 members directly elected in single-seat constituencies by absolute majority vote with a second round if needed and 56 appointed by the military; members serve 5-year terms)<br>House of Representatives or Pyithu Hluttaw, (440 seats, currently 433; 330 members directly elected in single-seat constituencies by simple majority vote and 110 appointed by the military; members serve 5-year terms); note - on 1 February 2021, the military dissolved the Assembly of the Union; the State Administration Council (SAC) governs in place of the Assembly of the Union<br>
+_description_: dissolved 1 February 2021; previously bicameral Assembly of the Union or Pyidaungsu consists of:<br>House of Nationalities or Amyotha Hluttaw, (224 seats; 168 members directly elected in single-seat constituencies by absolute majority vote with a second round if needed and 56 appointed by the military; members serve 5-year terms)<br>House of Representatives or Pyithu Hluttaw, (440 seats, currently 433; 330 members directly elected in single-seat constituencies by simple majority vote and 110 appointed by the military; members serve 5-year terms); note - on 1 February 2021, the military dissolved the Assembly of the Union; the State Administration Council (SAC) governs in place of the Assembly of the Union<br>
 _elections_: House of Nationalities - last held on 8 November 2020 <br>House of Representatives - last held on 8 November 2020; note - the military junta overturned the results of the 8 November legislative elections<br>
 _election results_: House of Nationalities - percent of vote by party - NLD 61.6%, USDP 3.1%, ANP 1.8%, MUP 1.3%, KySDP 1.3%, other 5.9%, military appointees 25%; seats by party - NLD 138, USDP 7, ANP 4, MUP 3, KySPD 3, SNLD 2, TNP 2, other 2, canceled due to insurgency 7, military appointees 56 <br><br>House of Representatives - percent of vote by party - NLD 58.6%, USDP 5.9%, SNLD 3.0%, other 7.5%, military 25%; seats by party - NLD 258, USDP 26, SNLD 13, ANP 4, PNO 3, TNP 3, MUP 2, KySPD 2, other 4, canceled due to insurgency 15, military appointees 110<br>
 
@@ -391,7 +391,7 @@ _email address and website_: <br>washington-embassy@mofa.gov.mm<br><br>https://w
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Thomas J. VAJDA (since 19 January 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Susan STEVENSON (since 10 July2023)<br>
 _embassy_: 110 University Avenue, Kamayut Township, Rangoon<br>
 _mailing address_: 4250 Rangoon Place, Washington DC&nbsp; 20521-4250<br>
 _telephone_: [95] (1) 753-6509<br>
