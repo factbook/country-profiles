@@ -748,6 +748,15 @@ the Egyptian Armed Forces (EAF) are responsible for external defense but also ha
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Egypt are a risk for armed robbery against ships; in 2022, one attempted attack against a commercial vessel was reported, this was the first incident reported in four years; the reported incident occurred in port while the ship was anchored<br>
 
+## Space
+
+**Space agency/agencies**<br>
+Egyptian Space Agency (EgSA; public economic authority established 2019); National Authority for Remote Sensing and Space Science (NARSS; formed in 1994 from the Remote Sensing Center, which was established in 1971) (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: has a growing program with a focus on developing the capabilities to manufacture satellites and associated support infrastructure; seeks to become a regional space power; operates satellites; builds satellites jointly with foreign partners but developing localized satellite manufacturing capabilities; acquiring through technology transfers and domestic development programs other space-related technologies, including those related to communications, Earth imaging/remote sensing (RS), and satellite payloads and components; cooperating on space-related issues with a variety of foreign governments and commercial space companies, including those of Belarus, Canada, China, the European Space Agency and its member states (particularly France, Germany, Italy), Ghana, India, Japan, Kazakhstan, Kenya, Nigeria, Russia, South Africa, Sudan, Uganda, Ukraine, the UAE, and the US; also a member of the Arab Space Coordination Group, established by the UAE in 2019; has a commercial space sector that focuses on satellite communications, satellite design and production, RS, and space applications (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+
 ## Terrorism
 
 **Terrorist group(s)**<br>
@@ -760,7 +769,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); 
 <p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 250,000 (Sudan) (refugees since 15 April 2023), 147,999 (Syria) (2023)<br>
+_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 250,000 (Sudan) (refugees since 15 April 2023), 148,608 (Syria) (2023)<br>
 _stateless persons_: 10 (2022)<br>
 
 **Illicit drugs**<br>

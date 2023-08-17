@@ -397,7 +397,7 @@ _selected World Heritage Site locales_: Town of Luangphrabang; Vat Phou and Asso
 ## Economy
 
 **Economic overview**<br>
-lower middle-income, socialist Southeast Asian economy; one of the fastest growing economies; declining but still high poverty; natural resource rich; new anticorruption efforts; already high and growing public debt; service sector hit hard by COVID-19<br>
+lower middle-income, industrial Southeast Asian economy; high inflation due to 2022 currency depreciation brought on by persistently high debt; new Laos-China railway and dry port; rising inequities; ongoing labor shortages<br>
 
 **Real GDP (purchasing power parity)**<br>
 $58.264 billion (2021 est.)<br>
@@ -511,7 +511,7 @@ $6.461 billion (2020 est.) note: data are in current year dollars<br>
 $6.985 billion (2019 est.)<br>
 
 **Exports - partners**<br>
-Thailand 36%, China 28%, Vietnam 16% (2019)<br>
+Thailand 33%, China 27%, Vietnam 13%, Australia 8%, Switzerland 3% (2021)<br>
 
 **Exports - commodities**<br>
 electricity, gold, paper, copper, rubber, flavored water (2021)<br>
@@ -525,7 +525,7 @@ $7.518 billion (2019 est.)<br>
 Thailand 53%, China 26%, Vietnam 10% (2019)<br>
 
 **Imports - commodities**<br>
-refined petroleum, cars, cattle, iron structures, steel products (2019)<br>
+refined petroleum, gold, cars, broadcasting equipment, delivery trucks, tractors (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.476 billion (31 December 2021 est.)<br>

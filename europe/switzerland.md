@@ -2,6 +2,11 @@ _Europe / Countries_
 
 # Switzerland
 
+## Introduction
+
+**Background**<br>
+<p>The Swiss Confederation was founded in 1291 as a defensive alliance among three cantons. In succeeding years, other localities joined the original three. The Swiss Confederation secured its independence from the Holy Roman Empire in 1499. A constitution of 1848, subsequently modified in 1874 to allow voters to introduce referenda on proposed laws, replaced the confederation with a centralized federal government. Switzerland's sovereignty and neutrality have long been honored by the major European powers, and the country was not involved in either of the two World Wars. The political and economic integration of Europe over the past half century, as well as Switzerland's role in many UN and international organizations, has strengthened Switzerland's ties with its neighbors. However, the country did not officially become a UN member until 2002. Switzerland remains active in many UN and international organizations but retains a strong commitment to neutrality.</p> <p> </p><br>
+
 ## Geography
 
 **Location**<br>
@@ -73,11 +78,6 @@ avalanches, landslides; flash floods<br>
 
 **Geography - note**<br>
 landlocked; crossroads of northern and southern Europe; along with southeastern France, northern Italy, and southwestern Austria, has the highest elevations in the Alps<br>
-
-## Introduction
-
-**Background**<br>
-<p>The Swiss Confederation was founded in 1291 as a defensive alliance among three cantons. In succeeding years, other localities joined the original three. The Swiss Confederation secured its independence from the Holy Roman Empire in 1499. A constitution of 1848, subsequently modified in 1874 to allow voters to introduce referenda on proposed laws, replaced the confederation with a centralized federal government. Switzerland's sovereignty and neutrality have long been honored by the major European powers, and the country was not involved in either of the two World Wars. The political and economic integration of Europe over the past half century, as well as Switzerland's role in many UN and international organizations, has strengthened Switzerland's ties with its neighbors. However, the country did not officially become a UN member until 2002. Switzerland remains active in many UN and international organizations but retains a strong commitment to neutrality.</p> <p> </p><br>
 
 ## People and Society
 
@@ -722,6 +722,15 @@ up to 165 Kosovo (NATO/KFOR) (2023)<br>
 **Military - note**<br>
 <p>Switzerland has long maintained a policy of military neutrality but does periodically participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military and peacekeeping operations; however, Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it contributed to the NATO-led Kosovo force (KFOR) in 1999 and as of 2023, continued doing so with up to 165 personnel; Switzerland also provided a small number of staff officers to the NATO mission in Afghanistan from 2004-2007</p> (2023)<br>
 
+## Space
+
+**Space agency/agencies**<br>
+Switzerland does not have its own national space agency; it does most of its research and development within the framework of the European Space Agency&rsquo;s (ESA) activities and programs; the Swiss Space Office, under the State Secretariat for Education, Research, and Innovation (SERI), is the government body responsible for space matters, including implementing national space policy, coordinating space activities, serving as the government point of contact for space industry and scientific institutions, and representation with the ESA and other international partners; the Federal Commission on Space Affairs provides advice and recommendations to the Federal Council on space matters; the Committee on Space Research of the Swiss Academy of Sciences coordinates and stimulates space research in Switzerland (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: space program integrated within the ESA framework; manufactures satellites and satellite payloads and products/components for satellite launch vehicles, satellites (particularly remote sensing, navigational, and telecommunications), and ground stations, including electronics, fairings, laser and fiber optics, sensor and nano technologies, scientific instruments, and software; produces atomic clocks (for navigational needs); has a considerable space research effort and has provided scientific instruments for a range of ESA and other space programs; participates in international space programs such as the International Space Station; has relations with a range of foreign space agencies and industries, including those of China, ESA and EU member states, Japan, and the US; the Swiss space industry is spread across approximately 100 businesses, most of which provide niche capabilities and supplies to large space companies (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+
 ## Terrorism
 
 **Terrorist group(s)**<br>
@@ -734,7 +743,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,345 (Ukraine) (as of 1 August 2023)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,385 (Ukraine) (as of 8 August 2023)<br>
 _stateless persons_: 891 (2022)<br>
 
 **Illicit drugs**<br>

@@ -744,6 +744,18 @@ the Peruvian Armed Forces (FAP) are responsible for external security in additio
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Peru are a risk for armed robbery against ships; in 2022, 12 attacks against commercial vessels were reported, a slight decrease over the 18 attacks in 2021; all of these occurred in the main port of Callao while ships were berthed or at anchor<br>
 
+## Space
+
+**Space agency/agencies**<br>
+National Aerospace Research and Development Commission (Comisi&oacute;n Nacional de Investigaci&oacute;n y Desarrollo Aeroespacia, CONIDA; established 1974); National Satellite Imagery Operations Center (Centro Nacional de Operaciones de Im&aacute;genes Satelitales, CONIS; established 2006) (2023)<br>
+
+**Space launch site(s)**<br>
+Punta Lobos Rocket Range (Chilca, Huancayo; used by foreign partners for scientific sounding rocket launches (1970s-1990s; the US used the site for scientific launches in 1975 and 1983) (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: has a small space program focused on acquiring satellites, applying space applications such as data satellite imagery, and building small rockets; has built a small science/technology satellite; operates satellites and processes satellite imagery data; builds and launches sounding rockets with goal of developing a satellite/space launch vehicle (SLV); researching, developing, and acquiring technologies for manufacturing satellites and satellite payloads with a focus on remote sensing (RS) capabilities; member of Latin American and Caribbean Space Agency (ALCE); cooperates with a variety of foreign space agencies and industries, including those of Brazil, China, the European Space Agency and individual member states (particularly France and Germany), India, Russia, South Korea, Thailand, and the US, as well as signatories of the Latin American and Caribbean Space Agency (ALCE) (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+
 ## Terrorism
 
 **Terrorist group(s)**<br>

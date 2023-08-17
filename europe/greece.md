@@ -699,6 +699,15 @@ approximately 1,000 Cyprus; 100 Kosovo (NATO); 140 Lebanon (UNIFIL) (2023)<br>
 **Military - note**<br>
 Greece joined NATO in 1952<br>
 
+## Space
+
+**Space agency/agencies**<br>
+Hellenic Space Center (HSC; aka Hellenic Space Agency; established 2018) (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: has a relatively new and growing space program focused on building and operating satellites; also researches and develops technologies in a variety of other space sectors, including such areas as remote sensing (RS), telecommunications, defense, environmental studies, and agricultural development; as a member of the European Space Agency (ESA), it contributes to, participates in, and benefits from ESA capabilities and programs; cooperates with space agencies and commercial space sectors of ESA and EU member states, as well as the US; has a robust commercial space sector that researches, develops, and produces a variety of space technologies and capabilities, including satellite components, electronics, sensors, and communications (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+
 ## Terrorism
 
 **Terrorist group(s)**<br>
@@ -713,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 25,050 (Ukraine) (as of 30 June 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,242,560 estimated refugee and migrant arrivals (January 2015-July 2023)<br>
+<strong>note:</strong> 1,245,656 estimated refugee and migrant arrivals (January 2015-August 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

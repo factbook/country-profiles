@@ -400,7 +400,7 @@ _selected World Heritage Site locales_: Angkor; Temple of Preah Vihear; Sambor P
 ## Economy
 
 **Economic overview**<br>
-one of the fastest growing economies; tourism and clothing exports; substantial manufacturing and construction sectors; COVID-19 declines and the suspension of EU market preferential access; massive reductions in poverty, but rural areas remain disproportionately poor<br>
+one of the fastest growing Southeast Asian economies; rebounding tourism and clothing exports; substantial manufacturing and construction sectors; new trade agreements expanding agricultural markets; significant public debt; investing in new ports and roads<br>
 
 **Real GDP (purchasing power parity)**<br>
 $72.238 billion (2021 est.)<br>
@@ -516,7 +516,7 @@ $21.072 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
-United States 21%, Singapore 8%, Thailand 8%, Germany 7%, Japan 6%, China 5%, Canada 5%, United Kingdom 5% (2019)<br>
+United States 35%, China 7%, Germany 7%, Vietnam 7%, Japan 6% (2021)<br>
 
 **Exports - commodities**<br>
 clothing and footwear, trunks and cases, rice, rubber, light fixtures (2021)<br>
@@ -528,10 +528,10 @@ $23.091 billion (2020 est.) note: data are in current year dollars<br>
 $25.516 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 27%, Thailand 25%, Vietnam 15%, Singapore 8% (2019)<br>
+China 27%, Singapore 27%, Thailand 16%, Vietnam 12%, Hong Kong 2% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, clothing, gold, cars, flavored water (2019)<br>
+gold, refined petroleum, clothing, motorcycle parts, cars (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $20.27 billion (31 December 2021 est.)<br>

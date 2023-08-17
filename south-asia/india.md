@@ -2,6 +2,11 @@ _South Asia / Countries_
 
 # India
 
+## Introduction
+
+**Background**<br>
+<p>The Indus Valley civilization, one of the world's oldest, flourished during the 3rd and 2nd millennia B.C. and extended into northwestern India. Aryan tribes from the northwest infiltrated the Indian subcontinent about 1500 B.C.; their merger with the earlier Dravidian inhabitants created the classical Indian culture. The Maurya Empire of the 4th and 3rd centuries B.C. - which reached its zenith under ASHOKA - united much of South Asia. The Golden Age ushered in by the Gupta dynasty (4th to 6th centuries A.D.) saw a flowering of Indian science, art, and culture. Islam spread across the subcontinent over a period of 700 years. In the 10th and 11th centuries, Turks and Afghans invaded India and established the Delhi Sultanate. In the early 16th century, the Emperor BABUR established the Mughal Dynasty, which ruled India for more than three centuries. European explorers began establishing footholds in India during the 16th century.</p> <p>By the 19th century, Great Britain had become the dominant political power on the subcontinent and India was seen as the "Jewel in the Crown" of the British Empire. The British Indian Army played a vital role in both World Wars. Years of nonviolent resistance to British rule, led by Mohandas GANDHI and Jawaharlal NEHRU, eventually resulted in Indian independence in 1947. Large-scale communal violence took place before and after the subcontinent partition into two separate states - India and Pakistan. The neighboring countries have fought three wars since independence, the last of which was in 1971 and resulted in East Pakistan becoming the separate nation of Bangladesh. India's nuclear weapons tests in 1998 emboldened Pakistan to conduct its own tests that same year. In November 2008, terrorists originating from Pakistan conducted a series of coordinated attacks in Mumbai, India's financial capital. India's economic growth following the launch of economic reforms in 1991, a massive youthful population, and a strategic geographic location have contributed to India's emergence as a regional and global power. However, India still faces pressing problems such as environmental degradation, extensive poverty, and widespread corruption, and its restrictive business climate challenges economic growth expectations.</p><br>
+
 ## Geography
 
 **Location**<br>
@@ -79,11 +84,6 @@ with the notable exception of the deserts in the northwest, including the Thar D
 
 **Geography - note**<br>
 dominates South Asian subcontinent; near important Indian Ocean trade routes; Kanchenjunga, third tallest mountain in the world, lies on the border with Nepal<br>
-
-## Introduction
-
-**Background**<br>
-<p>The Indus Valley civilization, one of the world's oldest, flourished during the 3rd and 2nd millennia B.C. and extended into northwestern India. Aryan tribes from the northwest infiltrated the Indian subcontinent about 1500 B.C.; their merger with the earlier Dravidian inhabitants created the classical Indian culture. The Maurya Empire of the 4th and 3rd centuries B.C. - which reached its zenith under ASHOKA - united much of South Asia. The Golden Age ushered in by the Gupta dynasty (4th to 6th centuries A.D.) saw a flowering of Indian science, art, and culture. Islam spread across the subcontinent over a period of 700 years. In the 10th and 11th centuries, Turks and Afghans invaded India and established the Delhi Sultanate. In the early 16th century, the Emperor BABUR established the Mughal Dynasty, which ruled India for more than three centuries. European explorers began establishing footholds in India during the 16th century.</p> <p>By the 19th century, Great Britain had become the dominant political power on the subcontinent and India was seen as the "Jewel in the Crown" of the British Empire. The British Indian Army played a vital role in both World Wars. Years of nonviolent resistance to British rule, led by Mohandas GANDHI and Jawaharlal NEHRU, eventually resulted in Indian independence in 1947. Large-scale communal violence took place before and after the subcontinent partition into two separate states - India and Pakistan. The neighboring countries have fought three wars since independence, the last of which was in 1971 and resulted in East Pakistan becoming the separate nation of Bangladesh. India's nuclear weapons tests in 1998 emboldened Pakistan to conduct its own tests that same year. In November 2008, terrorists originating from Pakistan conducted a series of coordinated attacks in Mumbai, India's financial capital. India's economic growth following the launch of economic reforms in 1991, a massive youthful population, and a strategic geographic location have contributed to India's emergence as a regional and global power. However, India still faces pressing problems such as environmental degradation, extensive poverty, and widespread corruption, and its restrictive business climate challenges economic growth expectations.</p><br>
 
 ## People and Society
 
@@ -755,6 +755,18 @@ the Indian military is a large, experienced, professional, and well-equipped mil
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of India are a risk for armed robbery against ships; in 2022, three attacks against commercial vessels were reported, an increase from the two attacks in 2021; all of these occurred in port while ships were berthed or at anchor<br>
+
+## Space
+
+**Space agency/agencies**<br>
+Indian Space Research Organization (ISRO; established 1969); the ISRO is subordinate to the Department of Space (DOS; established 1972); India&rsquo;s first space organization was the Indian National Committee for Space Research (INCOSPAR; established 1962); Defense Space Agency (DSA; established 2019 to command the space assets of the Army, Navy, and Air Force; the Defense Imagery Processing and Analysis Center, Defense Satellite Control Center, and Defense Space Research Organization were also merged into the DSA); National Space Promotion and Authorization Center (established 2020 to facilitate India&rsquo;s private sector in the country&rsquo;s space program) (2023)<br>
+
+**Space launch site(s)**<br>
+Satish Dhawan Space Center (aka Sriharikota Range; located in Andhra Pradesh); Vikram Sarabhai Space Center (Kerala) (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: has one of the world&rsquo;s largest space programs; designs, builds, launches, operates, and tracks the full spectrum of satellites, including communications, navigation, remote sensing (RS), and scientific/technology; designs, builds, and launches rockets, space/satellite launch vehicles (SLVs), and lunar/interplanetary probes; launches satellites for foreign partners; developing human space flight capabilities with Russian assistance; researching and developing additional space-related technologies and capabilities; has space-related agreements with more than 50 countries, including China, France, Germany, Japan, Russia, and the US, as well as the European Space Agency; participates in international space projects such as the Square Kilometer Array (SKA) radio telescope; has a government-owned company under the administrative control of DOS; NewSpace India Limited (NSIL) is the commercial arm of the ISRO with the responsibility of researching and developing space-related technologies and promoting India&rsquo;s growing space industry (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism
 

@@ -416,7 +416,7 @@ _selected World Heritage Site locales_: Pyu Ancient Cities; Bagan<br>
 ## Economy
 
 **Economic overview**<br>
-prior to COVID-19 and the February 2021 military coup, massive declines in poverty, rapid economic growth, and improving social welfare; underdevelopment, climate change, and unequal investment threaten progress and sustainability planning; since coup, foreign assistance has ceased from most funding sources<br>
+slowly recovering Southeast Asian economy; household incomes weaken domestic consumption; growing trade deficit; declining employment; high inflation and reduced currency power; agriculture sector remains most stable&nbsp;<br>
 
 **Real GDP (purchasing power parity)**<br>
 $216.948 billion (2021 est.)<br>
@@ -520,29 +520,29 @@ $67.72 million (2019 est.)<br>
 -$4.917 billion (2017 est.)<br>
 
 **Exports**<br>
-$17.523 billion (2019 est.)<br>
-$15.728 billion (2018 est.)<br>
-$13.629 billion (2017 est.)<br>
+$20.4 billion (2021 est.) note: data are in current year dollars<br>
+$17.523 billion (2019 est.) note: data are in current year dollars<br>
+$15.728 billion (2018 est.) note: data are in current year dollars<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
-China 24%, Thailand 24%, Japan 7%, Germany 5% (2019)<br>
+China 34%, Thailand 14%, Germany 6%, Japan 5%, United States 5% (2021)<br>
 
 **Exports - commodities**<br>
 natural gas, clothing products, dried legumes, precious stones, yttrium, scandium, rice, corn (2021)<br>
 <strong>note:</strong> Burmese methamphetamine production and opiate production remain significant illicit trade commodities<br>
 
 **Imports**<br>
+$23.1 billion (2021 est.) note: data are in current year dollars<br>
 $17.356 billion (2019 est.) note: data are in current year dollars<br>
 $18.664 billion (2018 est.) note: data are in current year dollars<br>
-$18.459 billion (2017 est.)<br>
 <strong>note:</strong> import figures are grossly underestimated due to the value of consumer goods, diesel fuel, and other products smuggled in from Thailand, China, Malaysia, and India<br>
 
 **Imports - partners**<br>
-China 43%, Thailand 15%, Singapore 12%, Indonesia 5% (2019)<br>
+China 41%, Thailand 19%, Singapore 13%, Indonesia 5%, India 3% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, broadcasting equipment, fabrics, motorcycles, packaged medicines (2019)<br>
+refined petroleum, palm oil, fabrics, packaged medicines, broadcasting equipment, cars (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $7.67 billion (31 December 2020 est.)<br>

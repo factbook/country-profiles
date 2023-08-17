@@ -474,7 +474,7 @@ $7.828 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
-Japan 34%, Australia 12%, Singapore 10%, India 8%, Malaysia 8%, Thailand 7%, China 6%, South Korea 5% (2019)<br>
+Singapore 21%, China 20%, Japan 19%, Australia 14%, Malaysia 5% (2021)<br>
 
 **Exports - commodities**<br>
 refined petroleum, natural gas, crude petroleum, industrial hydrocarbons, industrial alcohols&nbsp; (2021)<br>
@@ -485,10 +485,10 @@ $6.382 billion (2020 est.) note: data are in current year dollars<br>
 $6.806 billion (2019 est.)<br>
 
 **Imports - partners**<br>
-Singapore 18%, China 14%, Malaysia 12%, Nigeria 5%, United Arab Emirates 5%, United States 5% (2019)<br>
+Malaysia 20%, Russia 14%, Singapore 11%, Saudi Arabia 10%, China 8% (2021)<br>
 
 **Imports - commodities**<br>
-crude petroleum, refined petroleum, cars, tug boats, valves (2019)<br>
+crude petroleum, refined petroleum, cars, coal, packaged medicines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $3.997 billion (31 December 2020 est.)<br>

@@ -542,7 +542,7 @@ _Currency_: Turkmenistani manat (TMM) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 5.205 million kW (2020 est.)<br>
@@ -699,6 +699,15 @@ the inventory for Turkmenistan's military is comprised largely of older Russian 
 
 **Military - note**<br>
 the military is responsible for external defense and works closely with the Border Service on protecting the country’s borders; it is conscript-based and equipped with Soviet-era arms; while Turkmenistan has a policy of permanent and "positive" neutrality and has declined to participate in post-Soviet military groupings such as the Collective Security Treaty Organization and the Shanghai Cooperation Organization, it has participated in multinational exercises and bilateral training with neighboring countries, including Russia and Uzbekistan; Turkmenistan joined NATO's Partnership for Peace program in 1994, but it does not offer any military forces to NATO-led operations<br><br>information on the structure of the military is limited and varied; the primary Land Force combat units are reportedly up to 4 “motorized rifle” divisions (MRD) inherited from the former Soviet Army after the USSR’s collapse in 1991; MRDs are typically comprised of one or more mechanized infantry regiments, plus a tank and an artillery regiment; there are reportedly also some separate motorized rifle (mechanized infantry), artillery, and surface-to-surface missile brigades; in recent years, Turkmenistan has made efforts to strengthen its naval capabilities on the Caspian Sea, including expanding ship building capabilities and adding larger vessels to the Navy’s inventory; in 2018, Turkmenistan opened its first naval shipyard, and in 2021 the Navy commissioned its largest warship, a corvette that was jointly constructed with Turkey, to complement a small existing force of coastal patrol craft; the Border Service also has a force of patrol boats; the Air Force has approximately 50 operational Soviet-era fighter and ground attack aircraft, as well as a few combat helicopters (2023)<br>
+
+## Space
+
+**Space agency/agencies**<br>
+Turkmenistan National Space Agency (established 2011; in 2019, was transferred to the Space Directorate of Turkmenaragatnashik Agency) (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: has a small space program focused on acquiring satellites and developing the infrastructure to build and operate satellites; particularly interested in remote sensing (RS) satellites for such purposes as monitoring its agricultural and transportation sectors, the oil and natural gas industry, and the ecology of the Caspian Sea; has cooperated with the space agencies and/or space industries of France, Italy, Russia, and the US (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
 

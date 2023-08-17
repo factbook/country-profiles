@@ -734,6 +734,18 @@ the SANDF’s primary responsibilities include territorial and maritime defense,
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of South Africa are a risk for armed robbery against ships; in 2022, one attack against a commercial vessel was reported, this was the first such incident reported in four years; in the reported incident the ship was boarded while underway<br>
 
+## Space
+
+**Space agency/agencies**<br>
+South African National Space Agency (SANSA; established 2010); South Africa Council for Space Affairs (SACSA; statutory body established 1995); South African Radio Telescope Observatory (SARAO)&nbsp; (2023)<br>
+
+**Space launch site(s)**<br>
+Arniston launch facility (Western Cape) used to support space launch vehicle and ballistic missile program (1980s-1990s) (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: the largest producer of satellites (particularly nanosatellites) in Africa; areas of focus for development include remote sensing (RS) capabilities, such as optical instruments and synthetic aperture radar systems, space engineering, ground support to space operations (tracking, telemetry, etc.), and space science, particularly astronomy; SANSA is responsible for aggregating RS data for southern African countries; has a sounding rocket program for carrying experimental payloads for research purposes; cooperates with foreign space agencies and industries, including those of China, France, India, Russia, and the US; participates in international programs such as the Square Kilometer Array (SKA) Project, an international effort to build the world&rsquo;s largest radio telescope by 2030; has more than 120 state- and privately-owned aerospace companies, as well as a substantial number of academic and research institutions involved in space-related activities (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+
 ## Terrorism
 
 **Terrorist group(s)**<br>

@@ -2,6 +2,11 @@ _Europe / Countries_
 
 # Spain
 
+## Introduction
+
+**Background**<br>
+<p>Spain's powerful world empire of the 16th and 17th centuries ultimately yielded command of the seas to England. Subsequent failure to embrace the mercantile and industrial revolutions caused the country to fall behind Britain, France, and Germany in economic and political power. Spain remained neutral in World War I and II but suffered through a devastating civil war (1936-39). A peaceful transition to democracy following the death of dictator Francisco FRANCO in 1975, and rapid economic modernization (Spain joined the EU in 1986) gave Spain a dynamic and rapidly growing economy, and made it a global champion of freedom and human rights. More recently, Spain has emerged from a severe economic recession that began in mid-2008, posting solid years of GDP growth above the EU average. Unemployment has fallen but remains high, especially among youth. Spain is the euro-zone's fourth-largest economy. The country has faced increased domestic turmoil in recent years due to the independence movement in its restive Catalonia region.</p><br>
+
 ## Geography
 
 **Location**<br>
@@ -71,11 +76,6 @@ with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban a
 
 **Geography - note**<br>
 strategic location along approaches to Strait of Gibraltar; Spain controls a number of territories in northern Morocco including the enclaves of Ceuta and Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas; Spain's Canary Islands are one of four North Atlantic archipelagos that make up Macaronesia; the others are Azores (Portugal), Madeira (Portugal), and Cabo Verde<br>
-
-## Introduction
-
-**Background**<br>
-<p>Spain's powerful world empire of the 16th and 17th centuries ultimately yielded command of the seas to England. Subsequent failure to embrace the mercantile and industrial revolutions caused the country to fall behind Britain, France, and Germany in economic and political power. Spain remained neutral in World War I and II but suffered through a devastating civil war (1936-39). A peaceful transition to democracy following the death of dictator Francisco FRANCO in 1975, and rapid economic modernization (Spain joined the EU in 1986) gave Spain a dynamic and rapidly growing economy, and made it a global champion of freedom and human rights. More recently, Spain has emerged from a severe economic recession that began in mid-2008, posting solid years of GDP growth above the EU average. Unemployment has fallen but remains high, especially among youth. Spain is the euro-zone's fourth-largest economy. The country has faced increased domestic turmoil in recent years due to the independence movement in its restive Catalonia region.</p><br>
 
 ## People and Society
 
@@ -346,7 +346,7 @@ _election results_: percent of National Assembly vote - NA<br>
 **Legislative branch**<br>
 _description_: bicameral General Courts or Las Cortes Generales consists of:<br>Senate or Senado (265 seats; 208 members directly elected in multi-seat constituencies by simple majority vote and 57 members indirectly elected by the legislatures of the autonomous communities; members serve 4-year terms)<br>Congress of Deputies or Congreso de los Diputados (350 seats; 348 members directly elected in 50 multi-seat constituencies by closed-list proportional representation vote, with a 3% threshold needed to gain a seat, and 2 directly elected from the North African Ceuta and Melilla enclaves by simple majority vote; members serve 4-year terms or until the government is dissolved)<br>
 _elections_: <br>Senate - last held on 23 July 2023 (next to be held no later than July 2027)<br>Congress of Deputies - last held on 23 July 2023 (next to be held no later than July 2027)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PP 120, PSOE 72, ERC 7, PNV 4, other 5; composition (as of mid-2022) - men 161, women 104; percent of women 39.3%<br>Congress of Deputies - percent of vote by party - PP 33.3%, PSOE 32.0%, Vox 12.5%, Sumar 12.4%, ERC 1.9%, JuntsxCat 1.6%, EH-Bildu 1.4%, PNV 1.3% other 3.6%; seats by party - PP 136, PSOE 122, Vox 33, Sumar 31, ERC 7, JuntsxCat 7, EH-Bildu 6, PNV 5, other 3; men 196, women 154, percent of women 44%; note - overall General Courts percent of women 42%<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PP 120, PSOE 72, ERC 7, PNV 4, other 5; composition (as of mid-2022) - men 161, women 104; percent of women 39.3%<br>Congress of Deputies - percent of vote by party - PP 33.1%, PSOE 31.7%, Vox 12.4%, Sumar 12.3%, ERC 1.7%, JuntsxCat 1.6%, EH-Bildu 1.4%, PNV 1.1% other 4.7%; seats by party - PP 136, PSOE 122, Vox 33, Sumar 31, ERC 7, JuntsxCat 7, EH-Bildu 6, PNV 5, other 3; men 196, women 154, percent of women 44%; note - overall General Courts percent of women 42%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Tribunal Supremo (consists of the court president and organized into the Civil Room, with a president and 9 judges; the Penal Room, with a president and 14 judges; the Administrative Room, with a president and 32 judges; the Social Room, with a president and 12 judges; and the Military Room, with a president and 7 judges); Constitutional Court or Tribunal Constitucional de Espana (consists of 12 judges)<br>
@@ -721,6 +721,18 @@ approximately 200 Iraq (NATO/EU training assistance); up to 600 Latvia (NATO); 6
 **Military - note**<br>
 Spain joined NATO in 1982 but refrained from participating in the integrated military structure until 1996; the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world; the Spanish Army has an infantry regiment, formed in the 13th century, that is considered the oldest still active military unit in the western world<br><br>Spain created a Spanish Legion for foreigners in 1920, but early on the Legion was primarily filled by native Spaniards due to difficulties in recruiting foreigners and most of its foreign members were from the Republic of Cuba; it was modeled after the French Foreign Legion and its purpose was to provide a corps of professional troops to fight in Spain's colonial campaigns in North Africa; in more recent years, it has been used in NATO peacekeeping deployments; today’s Legion includes a mix of native Spaniards and foreigners with Spanish residency (2023)<br>
 
+## Space
+
+**Space agency/agencies**<br>
+Spanish Space Agency (became operational in April 2023); previously, the National Institute of Aerospace Technology (Instituto Nacional de T&eacute;cnica Aeroespacial or INTA, established 1942), a public research organization that depends on the Ministry of Defense, acted as Spain&rsquo;s space agency; Center for the Development of Industrial Technology (CDTI); Catalan Space Agency (established 2021); Valencian Space Consortium (established 2009) (2023)<br>
+
+**Space launch site(s)**<br>
+Arenosillo Experiment Center/Range (Andalusia); private launch site (Teruel province) (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: space program is integrated into the European Space Agency (ESA) and dates back to the 1940s; manufactures and operates communications, remote sensing (RS), and scientific/technology satellites; has developed sounding rockets; conducts research and development in a broad range of space-related capabilities, including astrobiology, astronomy, imaging/RS, materials, meteorology, optics, propulsion, robotics, satellites (particularly micro- and nano-satellites), satellite systems and subsystems, satellite/space launch vehicles (SLVs), and space sciences; participates in ESA, EU, and other international programs; hosts the European Space Astronomy Center (ESOC) and the ESA&rsquo;s Space Surveillance and Tracking Data Centre (ESAC); cooperates with foreign space agencies and industries, including those of ESA and EU member states and the US; has a considerable commercial space industry, which is involved in a wide range of space-related research, development, and production, including satellites and SLVs; the CDTI coordinates the activities of the commercial space sector (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+
 ## Terrorism
 
 **Terrorist group(s)**<br>
@@ -733,9 +745,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 438,400 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022); 186,045 (Ukraine) (as of 30 July 2023)<br>
+_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 438,400 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022); 186,045 (Ukraine) (as of 6 August 2023)<br>
 _stateless persons_: 6,489 (2022)<br>
-<strong>note: </strong>293,878 estimated refugee and migrant arrivals, including Canary Islands (January 2015-July 2023)<br>
+<strong>note: </strong>295,589 estimated refugee and migrant arrivals, including Canary Islands (January 2015-August 2023)<br>
 
 **Illicit drugs**<br>
 <p>a primary European transit point for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection or altered to escape detection Spanish chemists reconstitute it and distribute to Europe; minor domestic drug production; synthetic drugs, including ketamine, new psychoactive substances (NPS), and MDMA transit from Spain to the United States</p><br>

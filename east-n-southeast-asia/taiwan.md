@@ -623,6 +623,18 @@ starting with those born in 1994, men 18-36 years of age may volunteer or must c
 **Military - note**<br>
 the military’s primary responsibility is external security, including the defense of the country’s sovereignty and territory, and the protection of Taiwan’s air space, maritime claims, and sea lanes of communication; its main focus is the challenge posed by the People’s Republic of China; the military trains regularly and conducts multiservice exercises; the Army’s primary combat forces include 9 mechanized or motorized infantry brigades, 4 armored brigades, and 3 artillery brigades; it also has an aviation and special forces command that includes several squadrons of attack helicopters; the Air Force has nearly 300 fighter and multipurpose fighter aircraft organized, plus squadrons for anti-submarine and electronic warfare, early warning, and surveillance; the Navy’s warship inventory includes 4 destroyers, 22 frigates, more than 40 corvettes, patrol vessels, and missile-armed attack craft, and 2 combat-capable attack submarines; it also has 3 marine infantry brigades <br><br>the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2023)<br>
 
+## Space
+
+**Space agency/agencies**<br>
+Taiwan Space Agency (TASA; renamed from the National Space Program Organization, which was renamed in 2005 from the National Space Program Office, established in 1991); TASA is subordinate to the National Science and Technology Council (2023)<br>
+
+**Space launch site(s)**<br>
+sounding rockets launched from Jui Peng Air Base (Pingtung); in 2021, announced intentions to build future rocket launch site (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: space program focused on the acquisition of satellites and the development of independent space capabilities; manufactures and operates remote sensing (RS) and scientific/research satellites; manufactures and tests sounding rockets and small satellite launch vehicles (SLVs); researching and developing other space technologies, including communications satellites, small satellites, satellite payloads and ground station components, spacecraft components, optical RS and telecommunications, navigational control, and rocket propulsion systems; has bi-lateral relations with the space programs of India and the US but is blocked from participating in most international and regional space organizations due to political pressure from China; has a commercial space industry that provides components and expertise for TASA and is independently developing satellites and satellite launch vehicles (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>

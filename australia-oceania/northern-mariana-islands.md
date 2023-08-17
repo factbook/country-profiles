@@ -284,7 +284,7 @@ PIF (observer), SPC, UPU<br>
 _embassy_: none (commonwealth in political union with the US) &nbsp; &nbsp; &nbsp;&nbsp;<br>
 
 **Flag description**<br>
-blue with a white, five-pointed star superimposed on a gray latte stone (the traditional foundation stone used in building) in the center, surrounded by a wreath; blue symbolizes the Pacific Ocean, the star represents the Commonwealth; the latte stone and the floral head wreath display elements of the native Chamorro culture<br>
+blue with a white, five-pointed star superimposed on a gray latte stone (the traditional foundation stone used in building) in the center, surrounded by a mwáár or head lei (wreath); blue symbolizes the Pacific Ocean, the star represents the Commonwealth; the latte stone and the Carolinian mwáár (head lei) represent elements of the native Chamorro culture; the mwáár is composed of the flowers from four flowering plants: flores mayo (<em>Plumeria</em>), ylang-ylang or langilang (<em>Cananga odorata</em>), angagha or peacock flower (<em>Caesalpinia pulcherrima</em>), and teibwo or Pacific basil (<em>Ocimum tenuiflorum</em>) <br>
 
 **National symbol(s)**<br>
 latte stone; national colors: blue, white<br>
@@ -409,7 +409,7 @@ refined petroleum, trunks/cases, cars, watches, jewelry (2019)<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Coal**<br>
 _production_: 0 metric tons (2020 est.)<br>

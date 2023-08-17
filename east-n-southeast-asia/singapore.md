@@ -501,10 +501,10 @@ $627.442 billion (2020 est.) note: data are in current year dollars<br>
 $658.127 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-China 15%, Hong Kong 13%, Malaysia 9%, United States 8%, Indonesia 7%, India 5% (2019)<br>
+China 16%, Hong Kong 16%, United States 8%, Malaysia 9%, Indonesia 5% (2021)<br>
 
 **Exports - commodities**<br>
-integrated circuits, refined petroleum, gold, gas turbines, packaged medicines (2019)<br>
+integrated circuits, refined petroleum, gold, packaged medicines, appliances, photo lab equipment (2021)<br>
 
 **Imports**<br>
 $609.28 billion (2021 est.) note: data are in current year dollars<br>
@@ -512,10 +512,10 @@ $517.967 billion (2020 est.) note: data are in current year dollars<br>
 $550.209 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 16%, Malaysia 11%, United States 9%, Taiwan 7%, Japan 5%, Indonesia 5% (2019)<br>
+China 15%, Malaysia 14%, Taiwan 9%, United States 9%, Japan 5% (2021)<br>
 
 **Imports - commodities**<br>
-integrated circuits, refined petroleum, crude petroleum, gold, gas turbines (2019)<br>
+integrated circuits, refined petroleum, crude petroleum, gold, gas turbines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $425.098 billion (31 December 2021 est.)<br>
@@ -689,6 +689,15 @@ the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was for
 
 **Maritime threats**<br>
 the International Maritime Bureau reported that incidents in the Singapore Straits continue to increase year on year with 38 in 2022 compared to 35 in 2021; vessels were successfully boarded in all 38 incidents in 2022; while the majority of vessels boarded reported incidents as predominately low-level opportunistic thefts, four crew were taken hostage and a further two threatened during these incidents; the majority of incidents were reported during the hours of darkness and while vessels were underway; the territorial and offshore waters in the South China Sea remain a high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift<br>
+
+## Space
+
+**Space agency/agencies**<br>
+no national government agency; Office for Space Technology and Industry (OSTin) was established in 2013 as a non-government space economic development program with the role of coordinating local space-related industry, universities, international businesses, and government agencies to encourage the development of space technologies in the private sector; the Center for Remote Sensing and Processing (CRISP) is under the National University of Singapore and established with funding from the Agency for Science, Technology, and Research of Singapore; CRISP&rsquo;s mission is to develop an advanced capability in remote sensing (RS) to meet the scientific, operational, and business requirements of Singapore and the region (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: space program and capabilities are largely commercial with a focus on acquiring or developing and manufacturing small RS (including optical and microwave) satellites, other satellite-related capabilities, such as data processing, and rockets capable of placing small satellites in low Earth orbit; manufactures and operates satellites; has a considerable civil/commercial and university-based research and development program; has established relations with the space agencies and industries of China, the European Space Agency, India, Japan, and the US; has over 50 companies involved in space-related technology development and manufacturing (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism
 

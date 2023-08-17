@@ -716,6 +716,18 @@ the Islamic Revolutionary Guard Corps (IRGC) was formed in May 1979 in the immed
 **Maritime threats**<br>
 <p>the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-003 - Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Gulf of Aden, Bab al Mandeb Strait, Red Sea, and Somali Basin-Threats to Commercial Vessels) effective 23 February 2023, which states in part that "Regional conflict, military activity, and political tensions pose threats to commercial vessels operating in the above listed geographic areas;" Coalition Task Force (CTF) Sentinel has been established to provide escorts for commercial shipping transiting the Persian Gulf, Strait of Hormuz, and Gulf of Oman</p><br>
 
+## Space
+
+**Space agency/agencies**<br>
+Iranian Space Agency (ISA; created in 2003 from merging the activities of the Iranian Remote Sensing Center and some of the activities of the Telecommunications Company of Iran); Iran Space Research Center (established, 2000); Ministry of Defense and Armed Forces Logistics; Aerospace Industries Organization (AIO; under the Ministry of Defense); Islamic Revolutionary Guard Corps (IRGC) Space Command (formed in 2020) (2023)<br>
+
+**Space launch site(s)**<br>
+Imam Khomeini Space Center (aka Semnan Space Center; Semnan province); Shahroud Space Center (IGRC military base; Semnan Province); Qom Space Center (Qom Province); inaugurated its first space monitoring center located near Delijan (Markazi Province) in 2013 (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: has an ambitious civil and military space program focused on acquiring and operating satellites and developing indigenous space launch vehicles (SLV); designs, builds, and operates satellites, including communications, remote sensing (RS), and scientific; manufactures and operates SLVs; researching and developing other space-related capabilities and technologies in such areas as telecommunications, RS, navigation, and space situational awareness; UN Security Council and other international sanctions against Iran&rsquo;s weapons of mass destruction program have severely limited Iran&rsquo;s cooperation with foreign space agencies and commercial space industries; in recent years, however, it has cooperated with North Korea and Russia on space issues; Iran has also had relations with regional and international space organizations, such as the Asia-Pacific Space Cooperation Organization and the International Telecommunications Satellite Organization; it was a founding member of the UN Committee on the Peaceful Uses of Outer Space (COPUOS) established in 1958 (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+
 ## Terrorism
 
 **Terrorist group(s)**<br>

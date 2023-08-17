@@ -413,7 +413,7 @@ _selected World Heritage Site locales_: Borobudur Temple Compounds (c); Komodo N
 ## Economy
 
 **Economic overview**<br>
-one of the fastest growing economies and largest in Southeast Asia; upper middle-income country; human capital and competitiveness phase of its 20-year development plan; COVID-19 reversed poverty reduction trajectory; strengthening financial resilience<br>
+upper middle-income, largest and growing Southeast Asian economy; higher lending rates to moderate inflation; ongoing relocation of capital fueling infrastructure projects; major tourism sector prompting green economy goals<br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.246 trillion (2021 est.)<br>
@@ -529,7 +529,7 @@ $178.418 billion (2020 est.) note: data are in current year dollars<br>
 $200.097 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-China 15%, United States 10%, Japan 9%, Singapore 8%, India 7%, Malaysia 5% (2019)<br>
+China 22%, United States 11%, Japan 8%, India 6%, Singapore 5% (2021)<br>
 
 **Exports - commodities**<br>
 coal, palm oil, natural gas, iron alloys, stainless steel (2021)<br>
@@ -540,10 +540,10 @@ $159.872 billion (2020 est.) note: data are in current year dollars<br>
 $204.23 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 27%, Singapore 12%, Japan 8%, Thailand 5%, United States 5%, South Korea 5%, Malaysia 5% (2019)<br>
+China 31%, Singapore 9%, Japan 7%, United States 5%, Malaysia 5% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, crude petroleum, vehicle parts, telephones, natural gas (2019)<br>
+refined petroleum, crude petroleum, natural gas, vaccines and cultures, vehicle parts (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $144.908 billion (31 December 2021 est.)<br>
@@ -740,6 +740,18 @@ the military is responsible for external defense, combatting separatism, and res
 
 **Maritime threats**<br>
 the International Maritime Bureau continues to report the territorial and offshore waters in the Strait of Malacca and South China Sea as high risk for piracy and armed robbery against ships; the number of attacks in Indonesia increased to ten incidents in 2022 compared to nine in 2021; aggressive maritime patrolling by regional authorities has reduced the frequency of attacks in recent years; vessels continue to be boarded while anchored or berthed at Indonesian ports; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>
+
+## Space
+
+**Space agency/agencies**<br>
+National Research and Innovation Agency (BRIN; established 2021); BRIN integrated five previously separate Indonesian institutions, including the National Institute of Aeronautics and Space of Indonesia (Lembaga Penerbangan Dan Antariksa Nasional or LAPAN; established 1964), and nearly 50 governmental research divisions; BRIN is under the Ministry of Research and Technology and manages Indonesia&rsquo;s space program through the Indonesian Space Agency (INASA; formed 2022) and the Research Organization for Aeronautics and Space (ORPA; formed 2021) (2023)<br>
+
+**Space launch site(s)**<br>
+Stasiun Peluncuran Roket rocket launch facility (West Java); building an SLV launch facility/spaceport on Biak, Papua (estimated completion date is 2025) (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: has had a space program since the 1960s that has focused largely on rocket development and the acquisition and operation of satellites; operates satellites; manufactures remote sensing (RS) satellites; has a sounding (research) rocket program geared towards development of an indigenous orbital satellite launch vehicle (SLV) and independent satellite launch capabilities; researching and developing a range of other space-related technologies and capabilities related to satellite payloads, communications, RS, and astronomy; has relations with several foreign space agencies and industries, including those of France, Germany, India, Japan, Russia, and the US (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism
 

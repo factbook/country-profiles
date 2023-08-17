@@ -718,6 +718,15 @@ up to 120 Poland (NATO) (2022)<br>
 **Military - note**<br>
 Romania became a member of NATO in 2004<br><br>Romania hosts a NATO multinational divisional headquarters (Multinational Division Southeast; became operational in 2017) and a French-led ground force battlegroup as part of NATO's tailored forward presence in the southeastern part of the Alliance in response to Russia’s 2022 invasion of Ukraine; Romania conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Romanian Air Force since 2014 (2023)<br>
 
+## Space
+
+**Space agency/agencies**<br>
+Romanian Space Agency (Agentia Spatiala Romania, ROSA; established 1991) (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: space program is integrated into the European Space Agency (ESA) and dates back to the 1960s; program is involved in the development and production of a wide range of capabilities and technologies, including satellites, satellite/space launch vehicles (SLVs), remote sensing, human space flight, navigation, telecommunications, and other space-related applications; in addition to the ESA/EU and their member states (particularly Bulgaria, France, Germany, Hungary, Italy), it cooperates with a variety of other space agencies and commercial space entities, including those of Azerbaijan, China, Japan, Russia, and the US; also participates in international programs; has an active space industry sector with over 50 entities involved in space-related activities (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+
 ## Terrorism
 
 **Terrorist group(s)**<br>
@@ -730,9 +739,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 95,035 (Ukraine) (as of 23 July 2023)<br>
+_refugees (country of origin)_: 95,160 (Ukraine) (as of 6 August 2023)<br>
 _stateless persons_: 297 (2022)<br>
-<strong>note:</strong> 14,408 estimated refugee and migrant arrivals (January 2015-July 2023)<br>
+<strong>note:</strong> 14,611 estimated refugee and migrant arrivals (January 2015-July 2023)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis</p><br>

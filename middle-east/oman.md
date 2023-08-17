@@ -685,6 +685,15 @@ the SAF’s primary responsibility is external security; it is a small, but prof
 **Maritime threats**<br>
 <p>the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-003 - Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Gulf of Aden, Bab al Mandeb Strait, Red Sea, and Somali Basin-Threats to Commercial Vessels) effective 23 February 2023, which states in part that "Regional conflict, military activity, and political tensions pose threats to commercial vessels operating in the above listed geographic areas"; Coalition Task Force (CTF) Sentinel has been established to provide escorts for commercial shipping transiting the Persian Gulf, Strait of Hormuz, and Gulf of Oman</p><br>
 
+## Space
+
+**Space agency/agencies**<br>
+no government agency; the Government of Oman has established a limited liability company with the mission of spearheading a national satellite program initiative and building a national satellite communications infrastructure&nbsp; (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: has a nascent space program focused on the acquisition of satellites and satellite ground support infrastructure; contracts with foreign commercial companies for development of space capabilities, such as satellites and telecommunications infrastructure (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>

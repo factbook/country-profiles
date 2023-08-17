@@ -721,13 +721,22 @@ the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed b
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Angola are a risk for armed robbery against ships; in 2022, five attacks against commercial vessels were reported, an increase from the four attacks in 2021; most of these occurred in the main port of Luanda while ships were berthed or at anchor<br>
 
+## Space
+
+**Space agency/agencies**<br>
+National Space Program Office (Gabinete de Gest&atilde;o do Programa Espacial Nacional, GGPEN; established 2013) (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: has a national space strategy with a focus on capacity building, developing space infrastructure, investing in domestic space sector, supporting socioeconomic growth, and establishing cooperation agreements with foreign technical and scientific institutions in the space industry; contracts with foreign companies to build and launch satellites; operates satellites; cooperates with a variety of foreign space agencies and industries, including those of France and Russia (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>
 <p><em>Angola-Democratic Republic of Congo (DRC): </em>DRC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: </em>none identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,235 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023)<br>
+_refugees (country of origin)_: 23,187 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

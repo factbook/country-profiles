@@ -2,6 +2,11 @@ _Europe / Countries_
 
 # Denmark
 
+## Introduction
+
+**Background**<br>
+<p>Once the seat of Viking raiders and later a major north European power, Denmark has evolved into a modern, prosperous nation that is participating in the general political and economic integration of Europe. It joined NATO in 1949 and the EEC (now the EU) in 1973. However, the country has opted out of certain elements of the EU's Maastricht Treaty, including the European Economic and Monetary Union, and justice and home affairs issues.</p><br>
+
 ## Geography
 
 **Location**<br>
@@ -68,11 +73,6 @@ flooding is a threat in some areas of the country (e.g., parts of Jutland, along
 
 **Geography - note**<br>
 composed of the Jutland Peninsula and a group of more than 400 islands (Danish Archipelago); controls Danish Straits (Skagerrak and Kattegat) linking Baltic and North Seas; about one-quarter of the population lives in greater Copenhagen<br>
-
-## Introduction
-
-**Background**<br>
-<p>Once the seat of Viking raiders and later a major north European power, Denmark has evolved into a modern, prosperous nation that is participating in the general political and economic integration of Europe. It joined NATO in 1949 and the EEC (now the EU) in 1973. However, the country has opted out of certain elements of the EU's Maastricht Treaty, including the European Economic and Monetary Union, and justice and home affairs issues.</p><br>
 
 ## People and Society
 
@@ -700,6 +700,15 @@ approximately 225 Estonia (NATO); approximately 800 Latvia (NATO) (2023)<br>
 
 **Military - note**<br>
 Denmark is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>Denmark is a member of the EU and voted to join the EU’s Common Defense and Security Policy in a June 2022 referendum<br><br>the Danish Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020 (2023)<br>
+
+## Space
+
+**Space agency/agencies**<br>
+no formal space agency; the Ministry of Higher Education and Science has responsibility for coordinating Danish space activities managing international cooperation; the Danish Space Research Institute (Dansk Rumforskningsinstitut (DRKI) was the country&rsquo;s space agency from 1966-2005; DTU Space, National Space Institute, is Denmark&rsquo;s national space institute (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: a member of the European Space Agency (ESA) and fully integrated within its structure; participates in ESA programs, particularly those linked to human spaceflight and satellite-based remote sensing activities, as well as technology programs involving telecommunications and navigation; independently builds and operates satellites, particularly those with meteorological, science, technology, and signal/traffic monitoring capabilities; in addition to cooperating with the ESA and EU, as well as bi-laterally with member states, it has relations with the space agencies and industries of Canada, India, Japan, and the US (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism
 

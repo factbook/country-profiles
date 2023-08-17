@@ -683,6 +683,15 @@ the military's inventory includes mostly secondhand Russian/Soviet-era equipment
 **Military - note**<br>
 the military is responsible for defending Nicaragua’s independence, sovereignty, and territory, but also has some domestic security responsibilities; key tasks include border security, assisting the police, protecting natural resources, and providing disaster relief and humanitarian assistance; it has ties with the militaries of Cuba, Venezuela, and Russia; Russia has provided training support and equipment <br><br>the military’s Land Forces have a mechanized brigade and approximately 8 regional commands or detachments, each with 1 or more light infantry battalions; there is also a small special operations command; the Naval Forces operate patrol boats and have a naval infantry battalion; the Air Forces do not possess any combat aircraft <br><br>the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA GARCIA, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas (2023)<br>
 
+## Space
+
+**Space agency/agencies**<br>
+National Secretariat for Extraterrestrial Space Affairs, The Moon and Other Celestial Bodies (Secretar&iacute;a Nacional para Asuntos del Espacio Ultraterrestre, la Luna y otros Cuerpos Celestes, established 2021; operates under the military&rsquo;s control) (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: stated mission of the space agency is to promote the development of space activities with the aim of broadening the country&rsquo;s capacities in the fields of education, industry, science, and technology; has cooperated with China and Russia; is a signatory of the convention establishing the Latin American and Caribbean Space Agency (ALCE) (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>

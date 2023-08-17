@@ -734,6 +734,15 @@ the Colombian military is responsible for defending and maintaining the countryâ
 **Maritime threats**<br>
 the International Maritime Bureau reported no incidents in 2022 in the territorial waters of Colombia; there remains a risk for armed robbery against ships particularly in the main port of Cartagena while ships are berthed or at anchor<br>
 
+## Space
+
+**Space agency/agencies**<br>
+Colombian Space Commission (Comision Colombiana Del Espacio, CCE; established 2006); Air and Space Operations Command (Colombian military); note &ndash; the Colombian Space Agency (Agencia Espacial Del Colombia, AEC) is a private, non-profit agency established in 2017&nbsp; (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: has a small program focused on acquiring satellites, particularly remote sensing (RS) satellites; operates satellites and produces nanosatellites; researches other space technologies, including telecommunications, satellite navigation, and astronautics; has relations with a variety of foreign space agencies or commercial space industries, including those of Denmark, India, Russia, the US, and some members of the Latin American and Caribbean Space Agency (ALCE) (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the countryâ€™s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+
 ## Terrorism
 
 **Terrorist group(s)**<br>

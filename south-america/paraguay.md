@@ -552,7 +552,7 @@ _Currency_: guarani (PYG) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 8.831 million kW (2020 est.)<br>
@@ -698,7 +698,7 @@ Armed Forces of Paraguay (Fuerzas Armadas de Paraguay; aka Armed Forces of the N
 approximately 15,000 active duty personnel (10,000 Army; 3,500 Navy; 1,500 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US (2022)<br>
+the military's inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 12 months for Army, 24 months for Navy; conscripts also serve in the National Police; volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2023)<br>
@@ -706,6 +706,15 @@ the military's inventory is comprised of mostly older equipment from a variety o
 
 **Military - note**<br>
 the Paraguayan military is responsible for external defense but also has some domestic security duties; while the National Police are responsible for maintaining internal security, the military works with the police through a Joint Task Force (aka Fuerza de Tarea Conjunta or FTC) in combatting the Paraguayan People’s Army (Ejército del Pueblo Paraguayo or EPP) and transnational criminal organizations; the military has an Internal Defense Operations Command (Comando de Defensa Interna or CODI), which includes the Army, Navy, and Air Force, to coordinate internal security support to the police and other security organizations, such as the National Anti-Drug Secretariat or SENAD<br><br>the EPP is a domestic criminal/guerrilla group initially dedicated to a Marxist-Leninist revolution in Paraguay that operates in the rural northern part of the country along the border with Brazil; the activities of the EPP and its offshoots—Marsical López’s Army (EML) and the Armed Peasant Association (ACA)—have consisted largely of isolated attacks on remote police and army posts, or against ranchers and peasants accused of aiding Paraguayan security forces<br><br>the military is a small force by regional standards, and its limited equipment inventory is largely obsolete, with some of it pre-dating World War II; it has deployed small numbers of troops on UN missions and cooperates with neighboring countries, such as Argentina and Brazil, on security issues, particularly organized crime and narco-trafficking in what is known as the Tri-Border Area; Paraguay has not fought a war against a neighboring country since the Chaco War with Bolivia in the 1930s; formally established in 1811, the Army has 9 divisions of infantry and cavalry, but each division is reportedly about the size of a US battalion or 500-1,000 troops; there is also a presidential guard regiment; the Navy is a riverine force that has some of the oldest operational warships in the World, as well as a small marine infantry force; the Air Force has a single combat squadron with a handful of light ground attack/trainer aircraft  (2023)<br>
+
+## Space
+
+**Space agency/agencies**<br>
+Special Agency of Paraguay (Agencia Especial del Paraguay, AEP; established 2014) (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: has a small, recently established space program focused on the acquisition of satellites, satellite data, and the technologies and capabilities to manufacture satellites, as well as promoting in-country expertise building and space industry; a priority is acquiring remote sensing (RS) capabilities to support socio-economic develop, including resource mapping, weather, and crop monitoring; has built a cube satellite with foreign assistance; operates satellites; cooperates with foreign space agencies and industries, including those of India, Japan, Taiwan, the US, and member states of the Latin American and Caribbean Space Agency (ALCE) (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism
 
@@ -719,7 +728,7 @@ Hizballah (2022)<br>
 <p><em>Paraguay-Argentina-Brazil</em>: unruly region at convergence of Paraguay-Argentina-Brazil borders is locus of money laundering, smuggling, arms and illegal narcotics trafficking, and fundraising for violent extremist organizations</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,900 (Venezuela) (2022)<br>
+_refugees (country of origin)_: 5,400 (Venezuela) (2022)<br>
 
 **Illicit drugs**<br>
 <br><br> <p>marijuana cultivation and the trafficking of Andean cocaine in the tri-border area shared with Argentina, and Brazil facilitates money laundering</p> <p> </p><br>

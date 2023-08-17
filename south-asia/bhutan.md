@@ -627,6 +627,15 @@ India has provided most of the Royal Bhutan Army's equipment (2023)<br>
 **Military - note**<br>
 the Army is responsible for external threats but also has some internal security functions such as conducting counterinsurgency operations, guarding forests, and providing security for prominent persons; the force is deployed throughout the country in more than a dozen &ldquo;wings,&rdquo; each comprised of a few infantry companies; the Army also has units of royal bodyguards and special forces; Bhutan relies on India for military training, arms supplies, and the country&rsquo;s air defense (2023)<br>
 
+## Space
+
+**Space agency/agencies**<br>
+announced in 2018 that it intends to establish a space agency, but has not yet done so (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: has a small, recent program focused on acquiring satellites and developing the capabilities to manufacture satellites; cooperates with India (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>

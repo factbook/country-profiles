@@ -756,6 +756,15 @@ the Mexican military is responsible for defending the independence, integrity, a
 **Maritime threats**<br>
 the International Maritime Bureau reported one incident in the territorial waters of Mexico in 2022, the same number of attacks as in 2021; ports in Mexico continue to be affected by the crime of armed robbery; this incident occurred in the port of Puerto Dos Bocas while ships were berthed or at anchor; pirates and robbers in this area are armed with guns<br>
 
+## Space
+
+**Space agency/agencies**<br>
+Mexican Space Agency (Agencia Espacial Mexicana or AEM; established 2010 and began operating in 2013); predecessor organization, the National Space Commission (Comisi&oacute;n Nacional del Espacio Exterior or CONEE was established in 1962 and terminated in 1977) (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: the AEM&rsquo;s focus is on coordinating Mexico&rsquo;s space policy and the country&rsquo;s commercial space sector, including developing specialists, technologies, and infrastructure, and acquiring satellites; manufactures and operates communications and scientific satellites; conducts research in a range of space-related capabilities and technologies, including satellites and satellite payloads, telecommunications, remote sensing, Earth and weather sciences, astronomy, and astrophysics; has relations with a variety of foreign space agencies and commercial space industries, including those of Argentina, Brazil, Chile, the European Space Agency (ESA) and its member states (particularly France, Germany, and the UK), India, Peru, Russia, Ukraine, and the US; leading member of the Latin American and Caribbean Space Agency (ALCE) (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>

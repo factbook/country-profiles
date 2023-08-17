@@ -345,7 +345,7 @@ _residency requirement for naturalization_: 3 years<br>
 _chief of state_: President Guillermo LASSO Mendoza (since 24 May 2021); Vice President Alfredo Enrique BORRERO Vega (since 24 May 2021); the president is both chief of state and head of government<br>
 _head of government_: President Guillermo LASSO Mendoza (since 24 May 2021); Vice President Alfredo Enrique BORRERO Vega (since 24 May 2021)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 7 February 2021 with a runoff on 11 April 2021 (next to be held in February 2025)<br>
+_elections/appointments_: <p>president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 7 February 2021 with a runoff on 11 April 2021 (next to be held on 20 August 2023); note – on 18 May 2023, Ecuador’s National Electoral Council announced that the presidential elections—originally scheduled for February 2025—would be held on 20 August 2023 after President Guillermo LASSO dissolved the National Assembly by decree on 17 May 2023; though eligible for a second term, LASSO has announced that he will not run in the 2023 election</p><br>
 _election results_: <br><em>2021:</em> Guillermo LASSO Mendoza elected president; first round election results: percent of vote - Andres ARAUZ (UNES) 32.72%, Guillermo LASSO Mendoza (CREO) 19.74%, Yaku PEREZ Guartambel (MUPP) 19.38%, Xavier HERVAS Mora (ID) 15.68%, other 12.48%; second round election results: percent of vote - Guillermo LASSO Mendoza (CREO) 52.5%, Andres ARAUZ (UNES) 47.5%<br><br><em>2017:</em> Lenin MORENO Garces elected president in second round; percent of vote - Lenin MORENO Garces (Alianza PAIS Movement) 51.1%, Guillermo LASSO (CREO) 48.9%<br>
 
 **Legislative branch**<br>
@@ -719,6 +719,15 @@ the military is responsible for preserving Ecuador’s national sovereignty and 
 
 **Maritime threats**<br>
 the International Maritime Bureau reported no incidents in 2022; the territorial and offshore waters of Ecuador remain at risk for piracy and armed robbery against ships; vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen<br>
+
+## Space
+
+**Space agency/agencies**<br>
+Ecuadorian Civilian Space Agency (EXA; a private research and development institution in charge of the administration and execution of Ecuador&rsquo;s space program, established 2007); Ecuadorian Space Institute (established 2012, disbanded 2018) (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: has a small program focused on acquiring or manufacturing satellites; builds scientific satellites; conducts research and develops some space-related technologies; has established relations with the space agencies and industries of China and Russia, as well as the Latin American and Caribbean Space Agency (ALCE) and its member states (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
 

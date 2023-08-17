@@ -553,7 +553,7 @@ _Currency_: Uruguayan pesos (UYU) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 5.348 million kW (2020 est.)<br>
@@ -711,13 +711,22 @@ the military's inventory includes a wide variety of older or second-hand equipme
 **Military - note**<br>
 the armed forces are responsible for defense of the country’s independence, national sovereignty, and territorial integrity, as well as protecting strategic resources; it has some domestic responsibilities, including perimeter security for a number of prisons and border security and providing humanitarian/disaster assistance; in 2020, the military deployed more than 1,000 troops to assist the National Police in securing the land border with Brazil and the riverine border with Argentina as part of a border control law passed in 2018; the military trains regularly, including in multinational exercises; it has traditionally held security ties with Argentina, Brazil, Peru, and the US<br><br>the Army has 4 regionally based divisions comprised of approximately 8 small brigades of infantry and mechanized cavalry; the Navy includes the Coast Guard, a naval aviation command, and a small naval infantry force; the Navy in recent years has undertaken a modest program to modernize its aging fleet, decommissioning several ships, including its only frigates, and acquiring secondhand patrol vessels from the US Coast Guard; it is also attempting to acquire larger and more modern offshore patrol vessels; the Air Force has a single squadron of light ground attack aircraft (2023)<br>
 
+## Space
+
+**Space agency/agencies**<br>
+drafted a bill to establish a space agency to be named the Uruguayan Space Agency, 2022&nbsp; (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: nascent program; the bill to establish a space agency declared its purpose to be promoting the development of the space sector in Uruguay with emphasis on the economic and social development of its inhabitants (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>
 <p><em>Uruguay-Argentina</em>: in 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime, which ended the dispute</p> <p><em>Uruguay-Brazil</em>: uncontested boundary dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question; smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2022)<br>
+_refugees (country of origin)_: 27,500 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2022)<br>
 _stateless persons_: 5 (2022)<br>
 
 **Illicit drugs**<br>

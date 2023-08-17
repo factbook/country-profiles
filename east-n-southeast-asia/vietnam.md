@@ -715,6 +715,15 @@ the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and 
 **Maritime threats**<br>
 the International Maritime Bureau reported that incidents in the territorial and offshore waters of Vietnam increased from one in 2021 to two in 2022;&nbsp; the South China Sea remains a high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>
 
+## Space
+
+**Space agency/agencies**<br>
+Vietnam National Space Center (VNSC; established 2011; formerly known as the Vietnam National Satellite Center); Space Technology Institute (STI; established 2006); both the VNSC and the STI operate under the Vietnamese Academy of Science and Technology (VAST); Ministry of Science and Technology (2023)<br>
+
+**Space program overview**<br>
+_Space programs overview_: has a growing space program focused on acquiring, operating, and exploiting satellites, as well as expanding domestic capabilities in satellites and associated sub-system production, space sciences, and technology applications; builds and operates communications and remote sensing (RS) satellites; conducting research and development on space science and applied space technologies, such as advanced optics and space data exploitation; has worked closely with Japan&rsquo;s Aerospace Exploration Agency (JAXA) and Japanese companies and universities on its space program since inception; cooperation has included funding, loans, training, technical expertise, and data sharing; has also established relationships with the space agencies or commercial space sectors of some European countries (such as France), India, and the US (2023)<br>
+<strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>
