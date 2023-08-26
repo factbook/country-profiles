@@ -715,7 +715,7 @@ the military is responsible for external defense and may be called upon to handl
 Sri Lanka Aeronautics and Space Agency (SLASA; established 2019); Space Applications Division of the Arthur C. Clark Institute for Modern Technologies (ACCIMT; created 1984) (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: has a small space program focused on acquiring satellites and conducting research and development in space-related technologies, such as electronics, telecommunications, information technology, and robotics; has cooperated with the space agencies or industries of China, France, India, Japan, and the US (2023)<br>
+has a small space program focused on acquiring satellites and conducting research and development in space-related technologies, such as electronics, telecommunications, information technology, and robotics; has cooperated with the space agencies or industries of China, France, India, Japan, and the US (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

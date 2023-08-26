@@ -728,7 +728,7 @@ up to 165 Kosovo (NATO/KFOR) (2023)<br>
 Switzerland does not have its own national space agency; it does most of its research and development within the framework of the European Space Agency&rsquo;s (ESA) activities and programs; the Swiss Space Office, under the State Secretariat for Education, Research, and Innovation (SERI), is the government body responsible for space matters, including implementing national space policy, coordinating space activities, serving as the government point of contact for space industry and scientific institutions, and representation with the ESA and other international partners; the Federal Commission on Space Affairs provides advice and recommendations to the Federal Council on space matters; the Committee on Space Research of the Swiss Academy of Sciences coordinates and stimulates space research in Switzerland (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: space program integrated within the ESA framework; manufactures satellites and satellite payloads and products/components for satellite launch vehicles, satellites (particularly remote sensing, navigational, and telecommunications), and ground stations, including electronics, fairings, laser and fiber optics, sensor and nano technologies, scientific instruments, and software; produces atomic clocks (for navigational needs); has a considerable space research effort and has provided scientific instruments for a range of ESA and other space programs; participates in international space programs such as the International Space Station; has relations with a range of foreign space agencies and industries, including those of China, ESA and EU member states, Japan, and the US; the Swiss space industry is spread across approximately 100 businesses, most of which provide niche capabilities and supplies to large space companies (2023)<br>
+space program integrated within the ESA framework; manufactures satellites and satellite payloads and products/components for satellite launch vehicles, satellites (particularly remote sensing, navigational, and telecommunications), and ground stations, including electronics, fairings, laser and fiber optics, sensor and nano technologies, scientific instruments, and software; produces atomic clocks (for navigational needs); has a considerable space research effort and has provided scientific instruments for a range of ESA and other space programs; participates in international space programs such as the International Space Station; has relations with a range of foreign space agencies and industries, including those of China, ESA and EU member states, Japan, and the US; the Swiss space industry is spread across approximately 100 businesses, most of which provide niche capabilities and supplies to large space companies (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism
@@ -743,7 +743,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,385 (Ukraine) (as of 8 August 2023)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,500 (Ukraine) (as of 15 August 2023)<br>
 _stateless persons_: 891 (2022)<br>
 
 **Illicit drugs**<br>

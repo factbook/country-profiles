@@ -717,7 +717,7 @@ the armed forces are responsible for defense of the country’s independence, na
 drafted a bill to establish a space agency to be named the Uruguayan Space Agency, 2022&nbsp; (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: nascent program; the bill to establish a space agency declared its purpose to be promoting the development of the space sector in Uruguay with emphasis on the economic and social development of its inhabitants (2023)<br>
+nascent program; the bill to establish a space agency declared its purpose to be promoting the development of the space sector in Uruguay with emphasis on the economic and social development of its inhabitants (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

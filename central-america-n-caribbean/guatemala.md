@@ -374,7 +374,7 @@ _FAX_: [502] 2326-4654<br>
 _email address and website_: <br>AmCitsGuatemala@state.gov<br><br>https://gt.usembassy.gov/<br>
 
 **Flag description**<br>
-three equal vertical bands of light blue (hoist side), white, and light blue, with the coat of arms centered in the white band; the coat of arms includes a green and red quetzal (the national bird) representing liberty and a scroll bearing the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain) all superimposed on a pair of crossed rifles signifying Guatemala's willingness to defend itself and a pair of crossed swords representing honor and framed by a laurel wreath symbolizing victory; the blue bands represent the Pacific Ocean and Caribbean Sea; the white band denotes peace and purity<br>
+three equal vertical bands of light blue (hoist side), white, and light blue, with the coat of arms centered in the white band; the coat of arms includes a green and red quetzal (the national bird) representing liberty and a scroll bearing the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain) - all superimposed on a pair of crossed rifles signifying Guatemala's willingness to defend itself and a pair of crossed swords representing honor - and framed by a laurel wreath symbolizing victory; the blue bands represent the Pacific Ocean and Caribbean Sea; the white band denotes peace and purity<br>
 <strong>note:</strong> one of only two national flags featuring a firearm, the other is Mozambique<br>
 
 **National symbol(s)**<br>
@@ -508,7 +508,7 @@ $12.713 billion (2020 est.) note: data are in current year dollars<br>
 $13.598 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-United States 33%, El Salvador 12%, Honduras 8%, Mexico 5%, Nicaragua 5% (2019)<br>
+United States 32%, El Salvador 12%, Honduras 10%, Nicaragua 6%, Mexico 4% (2021)<br>
 
 **Exports - commodities**<br>
 clothing, bananas, coffee, palm oil, cardamoms, raw sugar, iron alloys (2021)<br>
@@ -519,10 +519,10 @@ $19.267 billion (2020 est.) note: data are in current year dollars<br>
 $21.527 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-United States 36%, China 12%, Mexico 11%, El Salvador 5% (2019)<br>
+United States 33%, China 17%, Mexico 9%, El Salvador 5%, Costa Rica 3% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, broadcasting equipment, packaged medicines, cars, delivery trucks (2019)<br>
+refined petroleum, broadcasting equipment, cars, packaged medicines, delivery trucks, clothing and apparel, polymers (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $20.935 billion (31 December 2021 est.)<br>

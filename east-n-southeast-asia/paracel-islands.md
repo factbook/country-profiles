@@ -153,7 +153,7 @@ small Chinese port facilities on Woody Island and Duncan Island<br>
 ## Military and Security
 
 **Military - note**<br>
-occupied by China, which is assessed to maintain 20 outposts in the Paracels (Antelope, Bombay, and North reefs; Drummond, Duncan, Lincoln, Middle, Money, North, Pattle, Quanfu, Robert, South, Tree, Triton, Woody, and Yagong islands; South Sand and West Sand; Observation Bank); the outposts range in size from one or two buildings to bases with significant military infrastructure; Woody Island is the main base in the Paracels and includes an airstrip with fighter aircraft hangers, naval facilities, surveillance radars, and defenses such as surface-to-air missiles and anti-ship cruise missiles; fighter aircraft have deployed to the island (2023)<br>
+occupied by China, which is assessed to maintain 20 outposts in the Paracels (Antelope, Bombay, and North reefs; Drummond, Duncan, Lincoln, Middle, Money, North, Pattle, Quanfu, Robert, South, Tree, Triton, Woody, and Yagong islands; South Sand and West Sand; Observation Bank); the outposts range in size from one or two buildings to bases with significant military infrastructure; Woody Island is the main base in the Paracels and includes an airstrip with fighter aircraft hangers, naval facilities, surveillance radars, and defenses such as surface-to-air missiles and anti-ship cruise missiles; combat aircraft have deployed to the island (2023)<br>
 
 ## Transnational Issues
 

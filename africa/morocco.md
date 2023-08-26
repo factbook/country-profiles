@@ -749,7 +749,7 @@ the Royal Armed Forces (FAR) are responsible for defending Morocco’s territori
 Morocco Royal Center for Remote Sensing (Centre Royal de T&eacute;l&eacute;d&eacute;tection Spatiale, CRTS; established 1989) (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: has a small space program largely focused on the acquisition of remote sensing (RS) satellites; designs, jointly builds RS microsatellites and exploits imagery applications; has relations with a variety of space agencies and commercial space industries, including those of Algeria, Egypt, Tunisia, the European Space Agency and some individual member states (particularly France, Germany, Italy, and the UK), Russia, and the US; also a member of the Arab Space Cooperation Group, established by the UAE in 2019 (2023)<br>
+has a small space program largely focused on the acquisition of remote sensing (RS) satellites; designs, jointly builds RS microsatellites and exploits imagery applications; has relations with a variety of space agencies and commercial space industries, including those of Algeria, Egypt, Tunisia, the European Space Agency and some individual member states (particularly France, Germany, Italy, and the UK), Russia, and the US; also a member of the Arab Space Cooperation Group, established by the UAE in 2019 (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

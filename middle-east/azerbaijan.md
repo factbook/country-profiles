@@ -710,7 +710,7 @@ since November 2020, Russia has deployed about 2,000 peacekeeping troops to the 
 Azerbaijan National Aerospace Agency (NASA; Azərbaycan Milli Aerokosmik Agentliyi, MAKA; established in 1992 from the Kaspiy Scientific Center, established 1974); Space Agency of the Republic of Azerbaijan (Azercosmos; established 2010 as a state-owned satellite operating company)&nbsp; (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: national space program largely focused on the acquisition and operation of satellites; operates foreign-built communications and remote sensing (RS) satellites; has two satellite ground control stations; cooperates with a variety of foreign space agencies and commercial entities, including those of China, the European Space Agency (and individual member states such as France), Russia, and the US; Azercosmos is the largest satellite operator in the Caucasus region (2023)<br>
+national space program largely focused on the acquisition and operation of satellites; operates foreign-built communications and remote sensing (RS) satellites; has two satellite ground control stations; cooperates with a variety of foreign space agencies and commercial entities, including those of China, the European Space Agency (and individual member states such as France), Russia, and the US; Azercosmos is the largest satellite operator in the Caucasus region (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

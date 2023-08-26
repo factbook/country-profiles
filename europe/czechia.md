@@ -715,7 +715,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 356,625 (Ukraine) (as of 23 July 2023)<br>
+_refugees (country of origin)_: 361,485 (Ukraine) (as of 13 August 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

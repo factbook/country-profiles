@@ -633,7 +633,7 @@ the Army is responsible for external threats but also has some internal security
 announced in 2018 that it intends to establish a space agency, but has not yet done so (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: has a small, recent program focused on acquiring satellites and developing the capabilities to manufacture satellites; cooperates with India (2023)<br>
+has a small, recently established program focused on acquiring satellites and developing the capabilities to manufacture satellites; cooperates with India (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

@@ -709,7 +709,7 @@ the military’s primary concerns and responsibilities are border security, ensu
 Agency for Space Research and Technology (Uzbekcosmos; established 2019) (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: has a small space program focused on acquiring satellites and developing the country&rsquo;s space industry; Uzbekcosmos largely sets state policy and shapes the strategic direction, development, and use of the country&rsquo;s space-related industries and technologies in key sectors, including cartography, environmental and disaster monitoring, land use, resource management, and telecommunications; also has an astronomy program; cooperates with foreign space agencies and commercial companies, including those of China, France, India, Kazakhstan, Russia, and South Korea (2023)<br>
+has a small space program focused on acquiring satellites and developing the country’s space industry; Uzbekcosmos largely sets state policy and shapes the strategic direction, development, and use of the country’s space-related industries and technologies in key sectors, including cartography, environmental and disaster monitoring, land use, resource management, and telecommunications; also has an astronomy program; cooperates with foreign space agencies and commercial companies, including those of China, France, India, Kazakhstan, Russia, and South Korea (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

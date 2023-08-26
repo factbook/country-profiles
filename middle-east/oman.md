@@ -691,7 +691,7 @@ the SAF’s primary responsibility is external security; it is a small, but prof
 no government agency; the Government of Oman has established a limited liability company with the mission of spearheading a national satellite program initiative and building a national satellite communications infrastructure&nbsp; (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: has a nascent space program focused on the acquisition of satellites and satellite ground support infrastructure; contracts with foreign commercial companies for development of space capabilities, such as satellites and telecommunications infrastructure (2023)<br>
+has a nascent space program focused on the acquisition of satellites and satellite ground support infrastructure; contracts with foreign commercial companies for development of space capabilities, such as satellites and telecommunications infrastructure (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

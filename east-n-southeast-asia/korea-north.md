@@ -645,7 +645,7 @@ National Aerospace Development Administration (NADA; established 2013); predeces
 Sohae Satellite Launching Station (aka Tongch'ang-dong Space Launch Center; North Pyongan province); Tonghae Satellite Launching Ground (North Hamgyong province) (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: North Korea&rsquo;s leader has emphasized the development of space capabilities, particularly space launch vehicles (SLVs) and remote sensing (RS) satellites; manufactures small satellites; manufactures and launches rockets/SLVs; note &ndash; the SLV program is closely related to North Korea&rsquo;s development of intercontinental ballistic missiles (2023)<br>
+North Korea’s leader has emphasized the development of space capabilities, particularly space launch vehicles (SLVs) and remote sensing (RS) satellites; manufactures small satellites; manufactures and launches rockets/SLVs; note – the SLV program is closely related to North Korea’s development of intercontinental ballistic missiles (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

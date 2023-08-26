@@ -697,7 +697,7 @@ the RDF's inventory includes mostly Soviet-era and older Western--largely French
 Rwanda Space Agency (RSA; established 2020 and approved by legislature in 2021)&nbsp; (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: has a small program focused on developing and utilizing space technologies, such as satellite imagery for socioeconomic development and security purposes; operates communications and remote sensing (RS) satellites; the RSA is responsible for regulating and coordinating the country&rsquo;s space activities and encouraging commercial and industrial development; has established ties with the space agencies or industries of several countries, including France, Israel, Japan, the UAE, and the US (2023)<br>
+has a small program focused on developing and utilizing space technologies, such as satellite imagery for socioeconomic development and security purposes; operates communications and remote sensing (RS) satellites; the RSA is responsible for regulating and coordinating the country’s space activities and encouraging commercial and industrial development; has established ties with the space agencies or industries of several countries, including France, Israel, Japan, the UAE, and the US (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

@@ -711,7 +711,7 @@ ZDF’s primary responsibilities are protecting the country’s sovereignty and 
 Zimbabwe National Geospatial and Space Agency (ZINGSA; established in 2019 and officially launched in 2021; under the Ministry of Higher and Tertiary Education, Science and Technology Development) (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: has a nascent program with the goal of utilizing space technologies in economic development; particularly interested in remote sensing (RS) capabilities to assist with monitoring or managing agriculture and food security, climate change, disease outbreaks, environmental hazards and disasters, and natural resources, as well as weather forecasting; part of a joint project (BIRDS-5) with Japan, which seeks to promote the first steps towards creating an indigenous space program by designing, building, testing, launching, and operating the first satellites for participating countries (2023)<br>
+has a nascent program with the goal of utilizing space technologies in economic development; particularly interested in remote sensing capabilities to assist with monitoring or managing agriculture and food security, climate change, disease outbreaks, environmental hazards and disasters, and natural resources, as well as weather forecasting; part of a joint project (BIRDS-5) with Japan, which seeks to promote the first steps towards creating an indigenous space program by designing, building, testing, launching, and operating the first satellites for participating countries (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

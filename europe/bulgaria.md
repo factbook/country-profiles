@@ -730,7 +730,7 @@ Bulgaria became a member of NATO in 2004; Bulgaria conducts its own air policing
 Space Research and Technology Institute - Bulgarian Academy of Sciences (SRTI-BAS; formed in 1987 but originated from the Central Laboratory for Space Research and the Bulgarian Aerospace Agency, which was established in 1969) (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: has a long history of involvement in space going back to the 1960s; develops, produces, and operates satellites, mostly with foreign partners; researches, develops, and produces other space technologies, including those related to astrophysics, remote sensing, data exploitation, optics, and electronics; has specialized in producing scientific instruments for space research; has more than 20 research institutes; Cooperating State of the European Space Agency (ESA) since 2015; cooperates with a variety of foreign space agencies and commercial entities, including those of the ESA and EU (and bi-laterally with their member states), India, Japan, Russia, and the US (2023)<br>
+has a long history of involvement in space-related activities going back to the 1960s; develops, produces, and operates satellites, mostly with foreign partners; researches, develops, and produces other space technologies, including those related to astrophysics, remote sensing, data exploitation, optics, and electronics; has specialized in producing scientific instruments for space research; has more than 20 research institutes; Cooperating State of the European Space Agency (ESA) since 2015; cooperates with a variety of foreign space agencies and commercial entities, including those of the ESA and EU (and bi-laterally with their member states), India, Japan, Russia, and the US (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 162,935 (Ukraine) (as of 11 July 2023)<br>
+_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 86,490 (Ukraine) (as of 15 August 2023)<br>
 _stateless persons_: 1,129 (2022)<br>
 <strong>note:</strong> 93,441 estimated refugee and migrant arrivals (January 2015-June 2023); Bulgaria is predominantly a transit country<br>
 

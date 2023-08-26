@@ -2,6 +2,11 @@ _Europe / Countries_
 
 # Latvia
 
+## Introduction
+
+**Background**<br>
+Several eastern Baltic tribes merged in medieval times to form the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.). The region subsequently came under the control of Germans, Poles, Swedes, and finally, Russians. A Latvian republic emerged following World War I, but it was annexed by the USSR in 1940 - an action never recognized by the US and many other countries. Latvia reestablished its independence in 1991 following the breakup of the Soviet Union. Although the last Russian troops left in 1994, the status of the Russian minority (some 25% of the population) remains of concern to Moscow. Latvia acceded to both NATO and the EU in the spring of 2004; it joined the euro zone in 2014 and the OECD in 2016. A dual citizenship law was adopted in 2013, easing naturalization for non-citizen children.<br>
+
 ## Geography
 
 **Location**<br>
@@ -67,11 +72,6 @@ large percentage of agricultural fields can become waterlogged and require drain
 
 **Geography - note**<br>
 most of the country is composed of fertile low-lying plains with some hills in the east<br>
-
-## Introduction
-
-**Background**<br>
-Several eastern Baltic tribes merged in medieval times to form the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.). The region subsequently came under the control of Germans, Poles, Swedes, and finally, Russians. A Latvian republic emerged following World War I, but it was annexed by the USSR in 1940 - an action never recognized by the US and many other countries. Latvia reestablished its independence in 1991 following the breakup of the Soviet Union. Although the last Russian troops left in 1994, the status of the Russian minority (some 25% of the population) remains of concern to Moscow. Latvia acceded to both NATO and the EU in the spring of 2004; it joined the euro zone in 2014 and the OECD in 2016. A dual citizenship law was adopted in 2013, easing naturalization for non-citizen children.<br>
 
 ## People and Society
 
@@ -329,7 +329,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Egils LEVITS (since 8 July 2019)<br>
-_head of government_: Prime Minister Krisjanis KARINS (since 23 January 2019)<br>
+_head of government_: Prime Minister vacant (as of 17 August 2023); note - Krisjanis KARINS stepped down on 17 August 2023<br>
 _cabinet_: Cabinet of Ministers nominated by the prime minister, appointed by Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament for a 4-year term (eligible for a second term); election last held on 29 May 2019 (next to be held in 2023); prime minister appointed by the president, confirmed by Parliament<br>
 _election results_: <em>2019:</em> Egils LEVITS elected president; Parliament vote - Egils LEVITS 61, Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39<br><br><em>2015: </em>Raimonds VEJONIS elected president; Parliament vote - Raimonds VEJONIS (Latvian Green Party) 55, Egils LEVITS (NA) 42<br>
@@ -706,7 +706,7 @@ Latvia became a member of NATO in 2004 <br><br>since 2017, Latvia has hosted a C
 <p><em>Latvia-Belarus</em>: Belarus and Latvia signed joint demarcation map in September 2008</p> <p><em>Latvia-Estonia</em>: demarcation reportedly completed in 1998</p> <p><em>Latvia-Lithuania</em>: boundary demarcation was completed by the end of 1998; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights</p> <p><em>Latvia-Russia</em>: Russia demands better Latvian treatment of ethnic Russians in Latvia; in March 2007, Latvia and Russia signed a border treaty, which includes Latvia withdrawing claims to a district now in Russia that was part of Latvia before WWII; the permanent demarcation of the boundary between Latvia and Russia was completed and came into force in April 2018; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,145 (Ukraine) (as of 25 July 2023)<br>
+_refugees (country of origin)_: 32,470 (Ukraine) (as of 15 August 2023)<br>
 _stateless persons_: 195,354 (2022); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
 
 **Illicit drugs**<br>

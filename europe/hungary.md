@@ -730,7 +730,7 @@ Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 Hungarian Space Office (HSO; established 1992) (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: has a history of involvement in space going back to the Soviet era; growing a modern space program focused on acquiring satellites and contributing to the European Space Agency (ESA); has a national space strategy; builds and operates satellites; researches and develops space technologies, including communications, navigation, and subsystems for satellites; has an astronaut corps; in addition to being an ESA member and cooperating with individual ESA and EU member states, particularly France, has relations with a variety of other foreign space agencies and industries, including those of Brazil, Israel, Russia, Singapore, Turkey, the UAE, and the US; national space strategy included the goals of fostering innovation and increasing Hungary&rsquo;s competitiveness in the commercial space sector (2023)<br>
+has a history of involvement in space activities going back to the Soviet era; growing a modern space program focused on acquiring satellites and contributing to the European Space Agency (ESA); has a national space strategy; builds and operates satellites; researches and develops space technologies, including communications, navigation, and subsystems for satellites; has an astronaut corps; in addition to being an ESA member and cooperating with individual ESA and EU member states, particularly France, has relations with a variety of other foreign space agencies and industries, including those of Brazil, Israel, Russia, Singapore, Turkey, the UAE, and the US; national space strategy included the goals of fostering innovation and increasing Hungary’s competitiveness in the commercial space sector (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 49,375 (Ukraine) (as of 7 August 2023)<br>
+_refugees (country of origin)_: 52,290 (Ukraine) (as of 14 August 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

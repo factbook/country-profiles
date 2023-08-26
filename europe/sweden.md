@@ -725,7 +725,7 @@ Swedish National Space Agency (SNSA; established 1972; known until 2018 as the S
 Esrange Space Center (Kiruna); Esrange is slated to become a new European launch site for small satellites in 2023; Esrange also accommodates one of the world&rsquo;s largest civilian satellite ground stations and acts as a hub for Sweden&rsquo;s satellite station network (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: member of the European Space Agency (ESA) and program is integrated within the framework of the ESA; produces and operates satellites; builds and launches sounding rockets; involved in the research, development, production, and operations of a wide variety of other space-related areas and capabilities, including astronomy, atmospheric monitoring, geographic information systems, infrared imaging, meteorology, propulsion systems, remote sensing, satellite subsystems, spacecraft systems and structures, space physics, scientific research, stratospheric balloons, and telecommunications; conducts extensive bilateral and multilateral international cooperation, in particular through the ESA and EU and their member states, as well as with the US; has a robust commercial space industry with more than 30 companies involved in a broad range of space-related capabilities (2023)<br>
+member of the European Space Agency (ESA) and program is integrated within the framework of the ESA; produces and operates satellites; builds and launches sounding rockets; involved in the research, development, production, and operations of a wide variety of other space-related areas and capabilities, including astronomy, atmospheric monitoring, geographic information systems, infrared imaging, meteorology, propulsion systems, remote sensing, satellite subsystems, spacecraft systems and structures, space physics, scientific research, stratospheric balloons, and telecommunications; conducts extensive bilateral and multilateral international cooperation, in particular through the ESA and EU and their member states, as well as with the US; has a robust commercial space industry with more than 30 companies involved in a broad range of space-related capabilities (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism
@@ -740,6 +740,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 40,720 (Ukraine) (as of 3 August 2023)<br>
+_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 40,830 (Ukraine) (as of 10 August 2023)<br>
 _stateless persons_: 46,515 (2022); note - the majority of stateless people are from the Middle East and Somalia<br>
 

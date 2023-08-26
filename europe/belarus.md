@@ -721,7 +721,7 @@ Belarus has close security ties with Russia, including an integrated air and mis
 Belarus Space Agency (aka National Agency for Space Research; established 2009) (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: has a modest national space program focused on developing remote sensing (RS) satellites; jointly builds satellites with foreign partners; develops some space technologies and components for space equipment, including satellite payloads and associated technology, such as optics and imaging equipment; has cooperated with a variety of foreign space agencies and commercial entities, including those of Azerbaijan, China, Kazakhstan, Russia, and Ukraine; has a state-owned satellite company (2023)<br>
+has a modest national space program focused on developing remote sensing (RS) satellites; jointly builds satellites with foreign partners; develops some space technologies and components for space equipment, including satellite payloads and associated technology, such as optics and imaging equipment; has cooperated with a variety of foreign space agencies and commercial entities, including those of Azerbaijan, China, Kazakhstan, Russia, and Ukraine; has a state-owned satellite company (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues
@@ -730,7 +730,7 @@ _Space programs overview_: has a modest national space program focused on develo
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,820 (Ukraine) (as of 26 April 2023)<br>
+_refugees (country of origin)_: 32,435 (Ukraine) (as of 1 August 2023)<br>
 _stateless persons_: 5,626 (2022)<br>
 
 **Trafficking in persons**<br>

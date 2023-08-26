@@ -709,7 +709,7 @@ the Armed Force of El Salvador (FAES) is responsible for defending national sove
 El Salvador Aerospace Institute (ESAI; established 2018) is an aerospace think tank that is authorized by the Salvadoran Government decree to lead the country&rsquo;s national aerospace strategy (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: small, nascent space effort; ESAI serves as a link and coordination body for the aerospace industry with a focus on research, development, and innovation, particularly in the fields of science, technology, and engineering; has sought training and cooperation on space programs from South Korea and Turkey (2023)<br>
+small, nascent space effort; ESAI serves as a link and coordination body for the aerospace industry with a focus on research, development, and innovation, particularly in the fields of science, technology, and engineering; has sought training and cooperation on space programs from South Korea and Turkey (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

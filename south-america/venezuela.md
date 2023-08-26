@@ -701,10 +701,10 @@ The International Maritime Bureau reported three attacks in 2022 where ships wer
 ## Space
 
 **Space agency/agencies**<br>
-Bolivarian Agency for Space Activities (Agencia Bolivariana para Actividades Espaciales, ABAE; formed 2007); ABAE was originally known as the Venezuelan Space Center (CEV; created 2005); it is under the Ministry of Science, Technology, and Innovation (2023)<br>
+Bolivarian Agency for Space Activities (Agencia Bolivariana para Actividades Espaciales, ABAE; formed 2007); ABAE was originally known as the Venezuelan Space Center (CEV; created 2005); the ABAE is under the Ministry of Science, Technology, and Innovation (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: has a small program primarily focused on the acquisition of satellites and developing the country&rsquo;s space engineering and sciences capabilities; operates satellites and maintains two satellite ground control stations; has received considerable technical assistance from China (2023)<br>
+has a small program primarily focused on the acquisition of satellites and developing the country’s space engineering and sciences capabilities; operates satellites and maintains two satellite ground control stations; has received technical assistance from China (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

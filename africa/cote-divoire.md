@@ -733,7 +733,7 @@ the International Maritime Bureau reported one product tanker hijacked and one p
 announced in 2021 that it was in the process of establishing a national space agency (space issues currently managed by the Ministry of Scientific Research)&nbsp; (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: has as nascent, small program focused on acquiring a remote sensing (RS) satellite for purposes detecting illegal gold mining, facilitating access to drinking water, mapping deforestation, and national security issues (2023)<br>
+has as nascent, small program focused on acquiring a remote sensing (RS) satellite for purposes detecting illegal gold mining, facilitating access to drinking water, mapping deforestation, and national security issues (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

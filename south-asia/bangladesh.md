@@ -748,7 +748,7 @@ the International Maritime Bureau reports the territorial waters of Bangladesh r
 Bangladesh Space Research and Remote Sensing Organization (SPARRSO; established 1980)&nbsp; (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: has a modest space program focused on designing, building, and operating satellites, particularly those with remote sensing (RS) capabilities; researching a variety of other space-related capabilities and technologies; has a government-owned company for acquiring and operating satellites (Bangladesh Satellite Company Limited or BSCL, established in 2017); has relations with several foreign space agencies and commercial entities, including those of France, Japan, Russia, and the US (2023)<br>
+has a modest space program focused on designing, building, and operating satellites, particularly those with remote sensing (RS) capabilities; researching a variety of other space-related capabilities and technologies; has a government-owned company for acquiring and operating satellites (Bangladesh Satellite Company Limited or BSCL, established in 2017); has relations with several foreign space agencies and commercial entities, including those of France, Japan, Russia, and the US (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

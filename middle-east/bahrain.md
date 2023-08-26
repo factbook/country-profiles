@@ -686,7 +686,7 @@ the military's inventory consists of a mix of equipment acquired from a wide var
 Bahrain National Space Science Agency (NSSA; established 2014) (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: space program in nascent stages and is focused on developing the capabilities to build and operate satellites; the NSSA&rsquo;s mission includes promoting space science, technology, and research, building capacity in the fields of satellite manufacturing, tracking, control, data processing and analysis, and remote sensing, developing space-related programs and space policy, and facilitating international cooperation; cooperates with a variety of foreign agencies and commercial entities, including those of India, Italy, Japan, Saudi Arabia, the UK, and the UAE; also a member of the Arab Space Coordination Group, established by the UAE in 2019 (2023)<br>
+space program in nascent stages and is focused on developing the capabilities to build and operate satellites; the NSSA’s mission includes promoting space science, technology, and research, building capacity in the fields of satellite manufacturing, tracking, control, data processing and analysis, and remote sensing, developing space-related programs and space policy, and facilitating international cooperation; cooperates with a variety of foreign agencies and commercial entities, including those of India, Italy, Japan, Saudi Arabia, the UK, and the UAE; also a member of the Arab Space Coordination Group, established by the UAE in 2019 (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

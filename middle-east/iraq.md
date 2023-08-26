@@ -718,10 +718,10 @@ Iraqi security forces (ISF), including conventional air and ground forces, are p
 ## Space
 
 **Space agency/agencies**<br>
-announced in 2019 that the Iraqi Ministry of Communication was working with France to create a national space agency&nbsp; (2023)<br>
+announced in 2019 that the Iraqi Ministry of Communication was working with France to create a national space agency (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: stated purpose of current program is to acquire satellites for security, economic, agricultural, industrial, environmental and military purposes; status unclear (2023)<br>
+stated purpose of current program is to acquire satellites for security, economic, agricultural, industrial, environmental and military purposes; status unclear (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism

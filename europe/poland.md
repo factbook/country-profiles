@@ -730,7 +730,7 @@ Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin a
 Polish Space Agency (POLSA; established 2014; operational in 2015); Space Research Center (SRC, interdisciplinary research institute of the Polish Academy of Sciences that acted as Poland&rsquo;s space agency until POLSA was established in 1977) (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: space program is integrated within the framework of the European Space Agency (ESA); builds satellites, including nano/cube remote sensing (RS) and educational/scientific/technology satellites; researches and develops communications, RS, navigational, and other scientific applications for satellite payloads; creating infrastructure for receiving, storing, processing and distributing data from meteorological and environmental satellites; researches and develops other space-related technologies, including sensors and robotic probes for interplanetary landers, and launcher systems; participates in international space programs and cooperates with a variety of foreign space agencies and industries, including those of Brazil, Canada, China, ESA/EU member states (particularly France, Germany, Italy), India, Japan, Mexico, Russia, Ukraine, UK, and the US; has a growing commercial space sector with more than 300 active enterprises (2023)<br>
+space program is integrated within the framework of the European Space Agency (ESA); builds satellites, including nano/cube remote sensing (RS) and educational/scientific/technology satellites; researches and develops communications, RS, navigational, and other scientific applications for satellite payloads; creating infrastructure for receiving, storing, processing and distributing data from meteorological and environmental satellites; researches and develops other space-related technologies, including sensors and robotic probes for interplanetary landers, and launcher systems; participates in international space programs and cooperates with a variety of foreign space agencies and industries, including those of Brazil, Canada, China, ESA/EU member states (particularly France, Germany, Italy), India, Japan, Mexico, Russia, Ukraine, UK, and the US; has a growing commercial space sector with more than 300 active enterprises (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 968,390 (Ukraine) (as of 27 July 2023)<br>
+_refugees (country of origin)_: 968,390 (Ukraine) (as of 10 August 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

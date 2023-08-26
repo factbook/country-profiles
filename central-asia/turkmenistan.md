@@ -706,7 +706,7 @@ the military is responsible for external defense and works closely with the Bord
 Turkmenistan National Space Agency (established 2011; in 2019, was transferred to the Space Directorate of Turkmenaragatnashik Agency) (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: has a small space program focused on acquiring satellites and developing the infrastructure to build and operate satellites; particularly interested in remote sensing (RS) satellites for such purposes as monitoring its agricultural and transportation sectors, the oil and natural gas industry, and the ecology of the Caspian Sea; has cooperated with the space agencies and/or space industries of France, Italy, Russia, and the US (2023)<br>
+has a small space program focused on acquiring satellites and developing the infrastructure to build and operate satellites; particularly interested in remote sensing satellites for such purposes as monitoring its agricultural and transportation sectors, the oil and natural gas industry, and the ecology of the Caspian Sea; has cooperated with the space agencies and/or space industries of France, Italy, Russia, and the US (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

@@ -344,11 +344,11 @@ _residency requirement for naturalization_: 3 years<br>
 18 years of age; universal and compulsory until the age of 75<br>
 
 **Executive branch**<br>
-_chief of state_: President Mario ABDO BEN&Iacute;TEZ (since 15 August 2018); Vice President Hugo Adalberto VEL&Aacute;ZQUEZ Moreno (since 15 August 2018); note - the president is both chief of state and head of government<br>
-_head of government_: President Mario ABDO BEN&Iacute;TEZ (since 15 August 2018); Vice President Hugo Adalberto VEL&Aacute;ZQUEZ Moreno (since 15 August 2018)<br>
+_chief of state_: President Santiago PE&Ntilde;A Palacios (since 15 August 2023); Vice President Pedro Lorenzo ALLIANA Rodr&iacute;guez (since 15 August 2023); note - the president is both chief of state and head of government<br>
+_head of government_: President Santiago PE&Ntilde;A Palacios (since 15 August 2023); Vice President Pedro Lorenzo ALLIANA Rodr&iacute;guez (since 15 August 2023)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a single 5-year term; election last held on 30 April 2023 (next to be held in April 2028)<br>
-_election results_: <br><em>2023: </em>Santiago PEÑA Palacios elected president; percent of vote - Santiago PEÑA Palacios (ANR) 43.9%, Efraín ALEGRE (PLRA) 28.3%, Paraguayo CUBAS Colomes 23.6%, other 4.2%; note - PEÑA will take office 15 August 2023<em><br><br>2018:</em> Mario ABDO BENÍTEZ elected president; percent of vote - Mario ABDO BENÍTEZ (ANR) 49%, Efraín ALEGRE (PLRA) 45.1%, Juan Bautista YBÁÑEZ 3.4%, other 2.5%<br><br><em>2013:</em> Horacio Manuel CARTES Jara elected president; percent of vote - Horacio Manuel CARTES Jara (ANR) 48.5%, Efraín ALEGRE (PLRA) 39%, Mario FERREIRO (AP) 6.2%, Aníbal CARRILLO (FG) 3.5%, other 2.8%<br>
+_election results_: <br><em>2023: </em>Santiago PEÑA Palacios elected president; percent of vote - Santiago PEÑA Palacios (ANR) 43.9%, Efraín ALEGRE (PLRA) 28.3%, Paraguayo CUBAS Colomes 23.6%, other 4.2%<em><br><br>2018:</em> Mario ABDO BENÍTEZ elected president; percent of vote - Mario ABDO BENÍTEZ (ANR) 49%, Efraín ALEGRE (PLRA) 45.1%, Juan Bautista YBÁÑEZ 3.4%, other 2.5%<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Chamber of Senators or Camara de Senadores (45 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote to serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (80 seats; members directly elected in 18 multi-seat constituencies - corresponding to the country's 17 departments and capital city - by closed-list proportional representation vote to serve 5-year terms)<br>
@@ -713,7 +713,7 @@ the Paraguayan military is responsible for external defense but also has some do
 Special Agency of Paraguay (Agencia Especial del Paraguay, AEP; established 2014) (2023)<br>
 
 **Space program overview**<br>
-_Space programs overview_: has a small, recently established space program focused on the acquisition of satellites, satellite data, and the technologies and capabilities to manufacture satellites, as well as promoting in-country expertise building and space industry; a priority is acquiring remote sensing (RS) capabilities to support socio-economic develop, including resource mapping, weather, and crop monitoring; has built a cube satellite with foreign assistance; operates satellites; cooperates with foreign space agencies and industries, including those of India, Japan, Taiwan, the US, and member states of the Latin American and Caribbean Space Agency (ALCE) (2023)<br>
+has a small, recently established space program focused on the acquisition of satellites, satellite data, and the technologies and capabilities to manufacture satellites, as well as promoting in-country expertise building and space industry; a priority is acquiring remote sensing (RS) capabilities to support socio-economic develop, including resource mapping, weather, and crop monitoring; has built a cube satellite with foreign assistance; operates satellites; cooperates with foreign space agencies and industries, including those of India, Japan, Taiwan, the US, and member states of the Latin American and Caribbean Space Agency (ALCE) (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Terrorism
