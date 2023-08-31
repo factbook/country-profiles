@@ -331,7 +331,7 @@ _election results_: <em>2020: </em>Gudni Thorlacius JOHANNESSON reelected presid
 **Legislative branch**<br>
 _description_: unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote using the D'Hondt method; members serve 4-year terms)<br>
 _elections_: last held on 25 September 2021 (next to be held in 2025)<br>
-_election results_: <p>percent of vote by party - IP 25.4%, PP 20.6%, LGM 12.7%, SDA 9.5%, People's Party 9.5%, Pirate Party 9.5%, Reform Party 7.9%. CP 4.8%; seats by party - IP 16, PP 13, LGM 8, SDA 6, People's Party 6, Pirate Party 6, Reform Party 5, CP 3; composition - men 33, women 30; percent of women 47.6%</p><br>
+_election results_: <p>percent of vote by party - IP 25.4%, PP 20.6%, LGM 12.7%, People's Party 9.5%, Pirate Party 9.5%, SDA 9.5%, Reform Party 7.9%, CP 4.8%; seats by party - IP 16, PP 13, LGM 8, People's Party 6, Pirate Party 6, SDA 6, Reform Party 5, CP 3; composition - men 33, women 30; percent of women 47.6%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Haestirettur (consists of 9 judges)<br>
@@ -526,7 +526,7 @@ _Currency_: Icelandic kronur (ISK) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 2.967 million kW (2020 est.)<br>

@@ -409,7 +409,7 @@ refined petroleum, cars, jewelry, furniture, soybeans (2019)<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 85,000 kW (2020 est.)<br>

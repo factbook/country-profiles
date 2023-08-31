@@ -256,7 +256,7 @@ _chief of state_: King CHARLES III (since 8 September 2022)<br>
 _head of government_: Governor Nigel PHILLIPS (since 13 August 2022)<br>
 _cabinet_: Executive Council consists of the governor, 3 ex-officio officers, and 5 elected members of the Legislative Council<br>
 _elections/appointments_: none; the monarchy is hereditary; governor appointed by the monarch<br>
-<strong>note:</strong> the constitution order provides for an administrator for Ascension and Tristan da Cunha appointed by the governor<br>
+<strong>note:</strong> the constitution order provides for an administrator for Ascension and Tristan da Cunha, appointed by the governor<br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Council (17 seats including the speaker and deputy speaker; 12 members directly elected in a single countrywide constituency by simple majority vote and 3 ex-officio members - the chief secretary, financial secretary, and attorney general; members serve 4-year terms)<br>

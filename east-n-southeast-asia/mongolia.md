@@ -361,7 +361,7 @@ _subordinate courts_: aimag (provincial) and capital city appellate courts; soum
 36 parties registered for the 2020 legislative elections to the State Great Hural; among them, the following parties won seats:<br>Democratic Party or DP [Sodnomzunduin ERDENE]<br>Mongolian People's Party or MPP [Ukhnaagiin KHURELSUKH]<br><br>others include:<br>Civil Will-Green Party or CWGP [Tserendorj GANKHUYAG] <br>Justice Party [Batbayar NASANBILEG]<br>Mongolian National Democratic Party or MNDP [Bayanjargal TSOGTGEREL]<br>Mongolian People's Revolutionary Party [Nambaryn ENKHBAYAR]<br>Mongolian Social Democratic Party or MSDP [Adiya GANBAATAR]<br>Mongolian Traditionally United Party or MTUP [Batdelgeriin BATBOLD]<br>National Labor Party or HUN [Togmidyn DORJKHAND]<br><br>Coalitions:<br>Our Coalition (MPRP, Civil Will-Green Party, and Mongolian Traditionally United Party)<br>Right Person Electorate Coalition or RPEC (National Labor Party, Mongolian Social Democratic Party, Justice Party) [Togmidyn DORJKHAND]<br>
 
 **International organization participation**<br>
-ADB, ARF, CD, CICA, CP, EBRD, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, MONUSCO, NAM, OPCW, OSCE, SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ADB, ARF, CD, CICA, CP, EBRD, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, MONUSCO, NAM, OPCW, OSCE, SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador BATBAYAR Ulziidelger (since 1 December 2021)<br>
@@ -696,7 +696,7 @@ the MAF's inventory is comprised of Soviet-era and Russian equipment (2023)<br>
 18-27 years of age for compulsory and voluntary military service (can enter military schools at age 17); 12-month conscript service obligation for men in the army, air forces, or police (can be extended 3 months under special circumstances); conscription service can be exchanged for a 24‐month stint in the civil service or a cash payment determined by the Mongolian Government; after conscription, soldiers can contract into military service for 2 or 4 years; volunteer military service for men and women is 24 months, which can be extended for another two years up to the age of 31 (2023)<br>
 
 **Military deployments**<br>
-860 South Sudan (UNMISS) (May 2022)<br>
+860 South Sudan (UNMISS) (2023)<br>
 <strong>note:</strong> from 2003 to July 2021, some 3,300 Mongolian troops served in Afghanistan, including about 1,300 under the NATO-led Resolute Support Mission (2015 to 2021); since 2002, Mongolia has deployed more than 19,000 peacekeepers and observers to UN operations in more than a dozen countries<br>
 
 **Military - note**<br>

@@ -348,7 +348,7 @@ _residency requirement for naturalization_: 15 years<br>
 
 **Executive branch**<br>
 _chief of state_: King ABDALLAH II (since 7 February 1999); Heir Apparent Crown Prince HUSSEIN (eldest son of the monarch, born 28 June 1994); the monarchy is hereditary<br>
-_head of government_: Prime Minister Bisher AL-KHASAWNEH (since 7 October 2020)<br>
+_head of government_: Prime Minister Bisher Al-KHASAWNEH (since 7 October 2020)<br>
 _cabinet_: Cabinet appointed by the monarch in consultation with the prime minister<br>
 _elections/appointments_: prime minister appointed by the monarch<br>
 
@@ -367,7 +367,7 @@ _subordinate courts_: Courts of Appeal; Great Felonies Court; religious courts; 
 political reforms enacted in 2020 require all existing parties to re-register by May 2023, which will result in changes to the number of registered parties and the number of seats held by those parties for the anticipated 2024 election<br>
 
 **International organization participation**<br>
-ABEDA, AFESD, AMF, CAEU, CD, CICA, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINUSTAH, MINUSMA, MONUSCO, NAM, NATO (partner), OIC, OPCW, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ABEDA, AFESD, AMF, CAEU, CD, CICA, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINUSTAH, MINUSMA, MONUSCO, NAM, NATO (partner), OIC, OPCW, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Dina Khalil Tawfiq KAWAR (since 27 June 2016)<br>
@@ -712,7 +712,7 @@ the JAF inventory is comprised of a wide mix of imported equipment from Europe, 
 <strong>note:</strong> most women serve in the medical service; outside the medical service, women comprised about 1.5% of the military as of 2019<br>
 
 **Military deployments**<br>
-330 Mali (MINUSMA) (May 2022)<br>
+330 Mali (MINUSMA) (2023)<br>
 
 **Military - note**<br>
 the JAF traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s; it is responsible for territorial defense and border security, but also has a supporting role for internal security; the JAF’s primary concerns are terrorist and criminal threats emanating from its 230-mile border with Syria and 112-mile border with Iraq, as well as the potential impact of Israeli-Palestinian tensions; the terrorist group Hizballah and Iranian-backed militia forces operate in southwestern Syria near Jordan’s border while fighters from the Islamic State of Iraq and ash-Sham (ISIS) terrorist group continue to operate in both Iraq and Syria; ISIS fighters have included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan<br><br>the JAF is a professional military that trains regularly and participates in both bilateral and multinational exercises; in recent years, it has taken part in regional military operations alongside allied forces in Afghanistan, Syria, and Yemen; it also participates in UN peacekeeping missions; the Army is organized and equipped for a mobile territorial defense against conventional threats and rapid responses to unconventional threats such as terrorism; border security forces are backed up by approximately 10 mechanized or armored brigades, plus a rapid reaction/high readiness airborne/ranger brigade; the Army also has a well-regarded special operations/counterterrorism group, and Jordan hosts an international special operations training center; the Air Force maintains about 50 US-made multirole fighter aircraft and approximately 50 attack helicopters; the Coast Guard has a small force of fast, gun- or missile-armed patrol craft for monitoring Jordan’s coastline on the Gulf of Aqaba<br><br>the US is a key security partner, and Jordan is one of the largest recipients of US military aid in the region; it cooperates with the US on a number of issues, including border and maritime security, arms transfers, cybersecurity, and counterterrorism; Jordan has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation (2023)<br>
@@ -729,7 +729,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Jordan-Iraq</em>: the two countries signed a border agreement in 1984; Jordan has ratified the treaty, but it has not been confirmed that Iraq has ratified it; as of 2010, the agreement had not been registered with the UN</p> <p><em>Jordan-Israel</em>: none identified</p> <p><em>Jordan-Saudi Arabia</em>: Jordan and Saudi Arabia signed an agreement to demarcate their maritime borders in 2007</p> <p><em>Jordan-Syria</em>: the two countries signed an agreement in 2005 to settle the border dispute based on a 1931 demarcation accord; the two countries began demarcation in 2006</p> <p><em>Jordan-West Bank</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2.4 million (Palestinian refugees) (2020); 12,866 (Yemen), 6,013 Sudan (2021); 33,951 (Iraq) (mid-year 2022); 659,457 (Syria) (2023)<br>
+_refugees (country of origin)_: 2.4 million (Palestinian refugees) (2020); 12,866 (Yemen), 6,013 Sudan (2021); 33,951 (Iraq) (mid-year 2022); 656,762 (Syria) (2023)<br>
 _stateless persons_: 64 (2022)<br>
 
 **Illicit drugs**<br>

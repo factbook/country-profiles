@@ -345,7 +345,7 @@ _subordinate courts_: Civil High Courts of Appeal; middle and lower civil courts
 <p><strong>note:</strong> political parties are prohibited, but political societies were legalized under a July 2005 law</p><br>
 
 **International organization participation**<br>
-ABEDA, AFESD, AMF, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ABEDA, AFESD, AMF, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Abdulla bin Rashed AL KHALIFA (since 21 July 2017)<br>
@@ -657,8 +657,8 @@ _major seaport(s)_: Mina' Salman, Sitrah<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force<br><br>Ministry of Interior: National Guard, Special Security Forces Command (SSFC), Coast Guard<br> (2022)<br>
-<strong>note 1:</strong> the Royal Guard is officially under the command of the Army, but exercises considerable autonomy; the National Guard's primary mission is to guard critical infrastructure such as the airport and oil fields and is a back-up to the police; while the Guard is under the Ministry of Interior, it reports directly to the king<br><br><strong>note 2:</strong> the Ministry of Interior is responsible for internal security and oversees police and specialized security units responsible for maintaining internal order<br>
+Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force<br><br>Ministry of Interior: National Guard, Special Security Forces Command (SSFC), Coast Guard<br> (2023)<br>
+<strong>note 1:</strong> the Royal Guard is officially under the command of the Army, but exercises considerable autonomy <br><br><strong>note 2:</strong> the Ministry of Interior is responsible for internal security and oversees police and specialized security units responsible for maintaining internal order; the National Guard's primary mission is to guard critical infrastructure such as the airport and oil fields and is a back-up to the police; the Guard is under the Ministry of Interior but reports directly to the king<br>
 
 **Military expenditures**<br>
 3.2% of GDP (2022 est.)<br>
@@ -668,7 +668,7 @@ Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Roy
 4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); approximately 3,000 National Guard (2022)<br>
+information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); approximately 3,000 National Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of a mix of equipment acquired from a wide variety of suppliers; in recent years, the US has been the leading supplier of arms to Bahrain (2023)<br>

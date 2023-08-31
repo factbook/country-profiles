@@ -341,7 +341,7 @@ _chief of state_: King CHARLES III (since 8 September 2022); represented by Gove
 _head of government_: Prime Minister James MARAPE (since 30 May 2019); Deputy Prime Minister John ROSSO (since 25 May 2022)<br>
 _cabinet_: National Executive Council appointed by the governor general on the recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general nominated by the National Parliament and appointed by the chief of state; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general pending the outcome of a National Parliament vote<br>
-_election results_: James MARAPE re-elected prime minister; National Parliament vote - 105 out of 118<br>
+_election results_: James MARAPE reelected prime minister; National Parliament vote - 105 out of 118<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (118 seats; members directly elected in single-seat constituencies - 89 local, 20 provincial, the autonomous province of Bouganville, and the National Capital District - by majority preferential vote; members serve 5-year terms); note - the constitution allows up to 126 seats<br>

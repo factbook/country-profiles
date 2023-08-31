@@ -380,7 +380,7 @@ _subordinate courts_: Parliamentary Court of Justice (jurisdiction limited to ca
 Alliance for Democracy and Development [Marcel YONDO]<br>Cameroon People's Democratic Movement or CPDM [Paul BIYA]<br>Cameroon People's Party or CPP [Edith Kah WALLA]<br>Cameroon Renaissance Movement or MRC [Maurice KAMTO]<br>Cameroonian Democratic Union or UDC [Adamou Ndam NJOYA]<br>Cameroonian Party for National Reconciliation or PCRN [Cabral LIBII]<br>Front for the National Salvation of Cameroon or FSNC [Issa Tchiroma BAKARY]<br>Movement for the Defense of the Republic or MDR [Dakole DAISSALA]<br>Movement for the Liberation and Development of Cameroon or MLDC [Marcel YONDO]<br>National Union for Democracy and Progress or UNDP [Maigari BELLO BOUBA]<br>Progressive Movement or MP [Jean-Jacques EKINDI]<br>Social Democratic Front or SDF [John FRU NDI]<br>Union of Peoples of Cameroon or UPC [Provisionary Management Bureau] [Cecil ODHIAMBO] <br>Union of Socialist Movements NA<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, BDEAC, C, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, BDEAC, C, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Henri ETOUNDI ESSOMBA (since 27 June 2016)<br>
@@ -751,6 +751,6 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 350,428 (Central African Republic), 116,183 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 351,090 (Central African Republic), 116,706 (Nigeria) (2023)<br>
 _IDPs_: 1.01 million (2023) (includes far north, northwest, and southwest)<br>
 

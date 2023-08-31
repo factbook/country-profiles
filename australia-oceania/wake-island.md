@@ -144,7 +144,7 @@ the flag of the US is used<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 0 kW (2020 est.)<br>

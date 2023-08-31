@@ -360,11 +360,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Samia Suluhu HASSAN (since 19 March 2021); note - the president is both chief of state and head of government; note - President John MAGUFULI died on 17 March 2021; Vice President Philip MPANGO<br>
-_head of government_: President Samia Suluhu HASSAN (since 19 March 2021); Vice President Philip MPANGO; Prime Minister Kassim Majaliwa MAJALIWA (since 20 November 2015) has authority over the day-to-day functions of the government, is the leader of government business in the National Assembly, and head of the Cabinet<br>
+_chief of state_: President Samia Suluhu HASSAN (since 19 March 2021); note - the president is both chief of state and head of government; note - following the death of President John MAGUFULI in March 2021, then Vice President Samia Suluhu HASSAN assumed the presidency; Vice President Philip MPANGO (since 31 March 2021)<br>
+_head of government_: President Samia Suluhu HASSAN (since 19 March 2021); Vice President Philip MPANGO; Prime Minister Kassim MAJALIWA (since 20 November 2015) has authority over the day-to-day functions of the government, is the leader of government business in the National Assembly, and is head of the Cabinet<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 28 October 2020 (next to be held in October 2025); prime minister appointed by the president<br>
-_election results_: <em>2020</em>: John MAGUFULI reelected president; percent of vote - John MAGUFULI (CCM) 84.4%, Tundu LISSU (CHADEMA) 13%, other 2.6%<br><br><em>2015</em>: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5%<br>
+_election results_: <br><em>2020</em>: John MAGUFULI reelected president; percent of vote - John MAGUFULI (CCM) 84.4%, Tundu LISSU (CHADEMA) 13%, other 2.6%<br><br><em>2015</em>: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5%<br>
 <strong>note:</strong> Zanzibar elects a president as head of government for internal matters; elections were held on 28 October 2020; Hussein MWINYI (CCM) 76.3%, Maalim Seif SHARIF (ACT-Wazalendo) 19.9%, other 3.8%<br>
 
 **Legislative branch**<br>
@@ -746,7 +746,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 126,381 (Burundi), 88,066 (Democratic Republic of the Congo) (2023)<br>
+_refugees (country of origin)_: 125,221 (Burundi), 88,160 (Democratic Republic of the Congo) (2023)<br>
 
 **Illicit drugs**<br>
 <p>significant transit country for illicit drugs in East Africa; international drug trafficking organizations and courier networks transit illicit drugs through mainland Tanzania to markets in Europe and North America; cultivates cannabis and khat for domestic consumption and regional and international distribution; domestic drug use continues increasing including methamphetamine use</p> (2021)<br>

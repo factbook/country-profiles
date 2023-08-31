@@ -356,7 +356,7 @@ _subordinate courts_: Courts of Appeal (replaced the Economic Court in 2002); di
 Azerbaijan Democratic Enlightenment Party or ADMP [Elshan MASAYEV]<br>Civic Solidarity Party or VHP [Sabir RUSTAMKHANLI]<br>Civic Unity Party or VBP [Sabir HAJIYEV]<br>Great Order Party [Fazil MUSTAFA]<br>Islamic Party of Azerbaijan or AiP [Mavsum SAMADOV]<br>Musavat (Equity) Party [Arif HAJILI]<br>Popular Front Party [Ali KARIMLI]<br>Motherland Party or AVP [Fazail AGAMALI]<br>National Front Party [Razi NURULLAYEV]<br>National Revival Movement Party [Faraj GULIYEV]<br>Party for Democratic Reforms or DIP [Asim MOLLAZADE]<br>Republican Alternative Party or REAL [Ilgar MAMMADOV]<br>Social Democratic Party [Ayaz MUTALIBOV]<br>Social Prosperity Party [Asli KAZIMOVA]<br>Unity Party or VP [Tahir KARIMLI]<br>Whole Azerbaijan Popular Front Party [Gudrat HASANGULIYEV]<br>New Azerbaijan Party (Yeni Azərbaycan Partiyasi) or YAP [Ilham ALIYEV]<br>
 
 **International organization participation**<br>
-ADB, BSEC, CD, CE, CICA, CIS, EAPC, EBRD, ECO, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+ADB, BSEC, CD, CE, CICA, CIS, EAPC, EBRD, ECO, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Kahzar IBRAHIM (since 15 September 2021)<br>
@@ -692,7 +692,7 @@ Azerbaijan Armed Forces: Land Forces, Air Forces, Navy Forces, State Border Serv
 3.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimates vary; up to 95,000 active armed forces (85,000 Army; 2,000 Navy; 8,000 Air Force); approximately 15,000 Ministry of Internal Affairs troops (2022)<br>
+estimates vary; approximately 60-75,000 active armed forces; approximately 15,000 Ministry of Internal Affairs troops (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 Baku has been actively upgrading its equipment for over a decade with purchases from Belarus, Israel, Russia, and Turkey; while most of the military's equipment was once Soviet-era material, it now fields quantities of advanced equipment, including armored vehicles, artillery systems, air defense systems, tanks, and UAVs (2023)<br>

@@ -703,7 +703,7 @@ the military's inventory is limited and made up largely of older French and Sovi
 18 is the legal minimum age for voluntary military service; no conscription (2022)<br>
 
 **Military deployments**<br>
-470 (plus about 320 police) Central African Republic (MINUSCA) (May 2022)<br>
+450 (plus about 320 police) Central African Republic (MINUSCA) (2023)<br>
 <strong>note:</strong> Mauritania is part of a four (formerly five)-nation anti-jihadist task force known as the G4 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali (withdrew in 2022), and Niger; it has committed 550 troops and 100 gendarmes to the force; as of 2020, defense forces from each of the participating states were allowed to pursue terrorist fighters up to 100 km into neighboring countries; the force is backed by France, the UN, and the US<br>
 
 **Military - note**<br>

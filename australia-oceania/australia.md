@@ -374,7 +374,7 @@ _subordinate courts_: subordinate courts: <em>at the federal level:</em> Federal
 Australian Greens Party or The Greens [Adam BANDT]<br>Australian Labor Party or ALP [Anthony ALBANESE]<br>Liberal Party of Australia [Peter DUTTON]<br>The Nationals [David LITTLEPROUD]<br>Pauline Hanson’s One Nation or PHON or ONP [Pauline HANSON]<br>
 
 **International organization participation**<br>
-ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, EITI (implementing country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NEA, NSG, OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF, SAARC (observer), Quad, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNMISS, UNMIT, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, EITI (implementing country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NEA, NSG, OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF, SAARC (observer), Quad, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNMISS, UNMIT, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Kevin Michael RUDD (since 19 April 2023)<br>
@@ -715,18 +715,18 @@ Australian Defense Force (ADF): Australian Army, Royal Australian Navy, Royal Au
 <strong>note 1: </strong>the Army includes a Special Operations Command, while the Navy includes a Naval Aviation Force<br><br><strong>note 2:</strong> the Australian Federal Police is an independent agency of the Attorney-General’s Department; it, along with state and territorial police forces are responsible for internal security; the Australian Border Force is under the Department of Home Affairs <br>
 
 **Military expenditures**<br>
-2% of GDP (2022 est.)<br>
+2% of GDP (2023 est.)<br>
+2% of GDP (2022)<br>
 2.1% of GDP (2021)<br>
 2.1% of GDP (2020)<br>
 2% of GDP (2019)<br>
-1.9% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 60,000 active troops (30,000 Army; 15,000 Navy; 15,000 Air Force) (2022)<br>
+approximately 60,000 active troops (30,000 Army; 15,000 Navy; 15,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a mix of domestically produced and imported Western weapons systems; in recent years, the US has been the largest supplier of arms; the Australian defense industry produces a variety of land and sea weapons platforms; the defense industry also participates in joint development and production ventures with other Western countries, including the US and Canada (2023)<br>
-<strong>note:</strong> in 2023, the Australian defense ministry announced a new strategic review that called for the acquisition of more long-range deterrence capabilities, including missiles, submarines, and cyber tools <br>
+<strong>note:</strong> in 2023, the Australian defense ministry announced a new strategic review that called for the acquisition of more long-range deterrence capabilities, including missiles, submarines, and cyber tools<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service (with parental consent); no conscription (abolished 1973); women allowed to serve in all roles, including combat arms, since 2013 (2022)<br>

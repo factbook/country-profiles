@@ -667,7 +667,7 @@ the FAD's inventory includes mostly older French and Soviet-era weapons systems,
 18 years of age for voluntary military service for men and women; 16-25 years of age for voluntary military training; no conscription (2021)<br>
 
 **Military deployments**<br>
-960 Somalia (ATMIS) (2022)<br>
+approximately 960 Somalia (ATMIS; note - ATMIS troop contingents are drawing down towards a final exit in December 2024); Djibouti has about 200 police deployed to the Central African Republic under MINUSCA (2023)<br>
 
 **Military - note**<br>
 Djibouti's military forces are largely focused on border, coastal, and internal security duties, including counterterrorism; China, France, Italy, Japan, and the US maintain bases in Djibouti for regional military missions, including counter-terrorism, counter-piracy, crisis response, and security assistance (note &ndash; France has multiple bases and hosts troop contingents from Germany and Spain); the EU and NATO also maintain a presence to support multinational naval counter-piracy operations and maritime training efforts (2023)<br>

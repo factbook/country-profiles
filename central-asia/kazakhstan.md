@@ -367,7 +367,7 @@ _subordinate courts_: regional and local courts<br>
 Ak Zhol (Bright Path) Party or Democratic Party of Kazakhstan Ak Zhol [Azat PERUASHEV]<br>Amanat Party [Yerlan KOSHANOV] (formerly Nur Otan (Radiant Fatherland))<br>Baytak (Boundless) Party [Azamatkhan AMIRTAY]<br>National Social Democratic Party or NSDP [Askhat RAKHIMZHANOV]<br>People's Democratic (Patriotic) Party or Auyl or AHDPP [Ali BEKTAYEV]<br>People's Party of Kazakhstan or QHP [Yermkhamet YERTYSBAYEV]<br>Respublica Party [Avdarbek KHODZHANAZAROV]<br>
 
 **International organization participation**<br>
-ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, MINURSO, NAM (observer), NSG, OAS (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, MINURSO, NAM (observer), NSG, OAS (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Yerzhan ASHIKBAYEV (since 7 July 2021)<br>

@@ -365,7 +365,7 @@ African Movement for Development and Progress or MADEP [Sefou FAGBOHOUN]<br>Beni
 <strong>note:</strong> approximately 20 additional minor parties<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, CD, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, CD, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jean-Claude Felix DO REGO (since 17 July 2020)<br>
@@ -701,7 +701,7 @@ the FAB is equipped with a small mix of mostly older or secondhand French, Sovie
 18-35 years of age for voluntary and selective compulsory military service for men and women; a higher education diploma is required; conscript service is 18 months (2023)<br>
 
 **Military deployments**<br>
-260 (plus about 160 police) Mali (MINUSMA) (May 2022)<br>
+250 Mali (MINUSMA) (2023)<br>
 
 **Military - note**<br>
 a key focus for the security forces of Benin is countering infiltrations into the country by terrorist groups tied to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS) operating just over the border from northern Benin in Burkina Faso and Niger; in May 2022, the Benin Government said it was "at war" after suffering a series of attacks from these groups; later that same year, President TALON said his government would spend more than $130 million to recruit up to 4,000 additional military personnel, modernize military equipment, and build and fortify operating bases; in addition, the FAB participates in the Multinational Joint Task Force (MNJTF) along with Cameroon, Chad, Niger, and Nigeria against Boko Haram and ISIS-West Africa in the general area of the Lake Chad Basin and along Nigeria's northeastern border <br><br>the FAB has a close working relationship with the Belgian armed forces; the Belgians offer military advice, training, and second-hand equipment donations, and deploy to Benin for limited military exercises (2023)<br>

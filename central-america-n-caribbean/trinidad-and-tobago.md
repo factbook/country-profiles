@@ -501,7 +501,7 @@ _Currency_: Trinidad and Tobago dollars (TTD) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 2.123 million kW (2020 est.)<br>
@@ -651,7 +651,7 @@ the Police Service maintains internal security; the TTDF's primary responsibilit
 <p><em>Trinidad and Tobago-Barbados</em>: Barbados and Trinidad and Tobago abide by the April 2006 Permanent Court of Arbitration decision delimiting a maritime boundary and limiting catches of flying fish in Trinidad and Tobago's EEZ</p> <p><em>Trinidad and Tobago-Barbados-Guyana-Venezuela</em>: in 2005, Barbados and Trinidad and Tobago agreed to compulsory international arbitration under UN Convention on the Law of the Sea challenging whether the northern limit of Trinidad and Tobago's and Venezuela's maritime boundary extends into Barbadian waters; Guyana has expressed its intention to include itself in the arbitration, as the Trinidad and Tobago-Venezuela maritime boundary may also extend into its waters</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 28,500 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 35,314 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Trinidad and Tobago does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials increased investigations and prosecutions, identified more victims, and expanded training; however, the government did not demonstrate overall increasing efforts compared to the previous year to expand its anti-trafficking capacity; the government has never convicted a trafficker under its 2011 anti-trafficking law; corruption and official complicity in trafficking remained significant concerns, inhibiting law enforcement, and the government did not take action against senior officials alleged in 2020 to be involved in trafficking; victim identification and services remained weak, and the government did not formally adopt the National Action Plan for 2021-2023; therefore, Trinidad and Tobago remained on Tier 2 Watch List for the second consecutive year (2022)<br>

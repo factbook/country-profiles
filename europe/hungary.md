@@ -361,7 +361,7 @@ _subordinate courts_: 5 regional courts of appeal; 19 regional or county courts 
 Christian Democratic People's Party or KDNP [Zsolt SEMJEN]<br>Democratic Coalition or DK [Ferenc GYURCSANY]<br>Dialogue for Hungary (Parbeszed) or PM [Bence TORDAI, Rebeka SZABO]<br>Fidesz-Hungarian Civic Alliance or Fidesz [Viktor ORBAN]<br>Hungarian Socialist Party or MSZP [Bertalan TOTH, Agnes KUNHALMI]<br>LMP-Hungary's Green Party [Peter UNGAR, Erzsebet SCHMUCK]<br>Mi Hazank (Our Homeland Movement) or MHM [Laszlo TOROCZKAI]<br>Momentum Movement (Momentum Mozgalom) [Ferenc GELENCSER]<br>Movement for a Better Hungary or Jobbik [Marton GYONGYOSI]<br>National Self-Government of Germans in Hungary or LdU [Ibolya HOCK-ENGLENDER]<br>United for Hungary (a coalition of Jobbik, MSZP, Dialogue, DK, LMP, and Momentum)<br>
 
 **International organization participation**<br>
-Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Szabolcs Ferenc TAKACS (since 23 December 2020)<br>
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 52,290 (Ukraine) (as of 14 August 2023)<br>
+_refugees (country of origin)_: 52,290 (Ukraine) (as of 20 August 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

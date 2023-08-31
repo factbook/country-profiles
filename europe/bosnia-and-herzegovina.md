@@ -712,7 +712,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 **Refugees and internally displaced persons**<br>
 _IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
 _stateless persons_: 48 (2022)<br>
-<strong>note: </strong>126,628 estimated refugee and migrant arrivals (January 2015-July 2023)<br>
+<strong>note: </strong>131,139 estimated refugee and migrant arrivals (January 2015-August 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>

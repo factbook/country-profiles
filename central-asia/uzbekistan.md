@@ -359,7 +359,7 @@ _subordinate courts_: regional, district, city, and town courts<br>
 Ecological Party of Uzbekistan (O'zbekiston Ekologik Partivasi) [Narzullo OBLOMURODOV]<br>Justice (Adolat) Social Democratic Party of Uzbekistan [Bahrom ABDUKHALIMOV]<br>Liberal Democratic Party of Uzbekistan (O'zbekiston Liberal-Demokratik Partiyasi) or LDPU [Aktam HAITOV]<br>National Revival Democratic Party of Uzbekistan (O'zbekiston Milliy Tiklanish Demokratik Partiyasi) [Alisher QODIROV]<br>People's Democratic Party of Uzbekistan (Xalq Demokratik Partiyas) or PDP [Ulugbek Ilyosovich INOYATOV] (formerly Communist Party)<br>
 
 **International organization participation**<br>
-ADB, CICA, CIS, EAEU (observer), EAPC, EBRD, ECO, EEU (observer), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+ADB, CICA, CIS, EAEU (observer), EAPC, EBRD, ECO, EEU (observer), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Furqat SIDIKOV (since 19 April 2023)<br>

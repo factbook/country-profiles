@@ -349,7 +349,7 @@ _subordinate courts_: Courts of Appeal; regional courts; specialized courts for 
 <strong>Flemish parties:</strong> <br>Christian Democratic and Flemish or CD&amp;V [Sammy MAHDI]<br>Forward [Conner ROUSSEAU] (formerly Social Progressive Alternative or SP.A)<br>Groen or Green [Nadia NAJI and Jeremie VANEECKHOUT] (formerly AGALEV, Flemish Greens)<br>New Flemish Alliance or N-VA [Bart DE WEVER]<br>Open Flemish Liberals and Democrats or Open VLD [Egbert LACHAERT]<br>Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN]<br><strong>Francophone parties:</strong> <br>Ecolo (Francophone Greens) [Jean-Marc NOLLET and Rajae MAOUANE]<br>Francophone Federalist Democrats or Defi [Francois DE SMET]<br>Les Engages [Maxime PREVOT] (formerly Humanist and Democratic Center or CDH)<br>Reform Movement or MR [George-Louis BOUCHEZ]<br>Socialist Party or PS [Paul MAGNETTE]<br>Workers' Party or PVDA-PTB [Raoul HEDEBOUW]<br>
 
 **International organization participation**<br>
-ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jean-Arthur REGIBEAU (since 17 September 2020)<br>
@@ -708,8 +708,8 @@ approximately 25,000 active-duty personnel (10,000 Land Component; 1,500 Marine 
 the armed forces have a mix of weapons systems from European countries, Israel, and the US; Belgium has an export-focused defense industry that focuses on components and subcontracting (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; conscription abolished in 1995 (2022)<br>
-<strong>note 1:</strong> in 2020, women comprised about 9% of the military's full-time personnel<br><br><strong>note 2:</strong> foreign nationals 18-34 years of age who speak Dutch or French and are citizens of EU countries, Iceland, Lichtenstein, Norway, and Switzerland may apply to join the military<br>
+18 years of age for voluntary military service for men and women; conscription abolished in 1995 (2023)<br>
+<strong>note 1:</strong> in 2023, women comprised nearly 11% of the military's full-time personnel<br><br><strong>note 2:</strong> foreign nationals 18-34 years of age who speak Dutch or French and are citizens of EU countries, Iceland, Lichtenstein, Norway, and Switzerland may apply to join the military<br>
 
 **Military deployments**<br>
 125 France (EuroCorps); 325 Eastern Europe (NATO); 100 Middle East; 325 Niger  (2023)<br>
@@ -739,7 +739,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 71,730 (Ukraine) (as of 18 July 2023)<br>
+_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 73,095 (Ukraine) (as of 22 August 2023)<br>
 _stateless persons_: 1,190 (2022)<br>
 
 **Illicit drugs**<br>

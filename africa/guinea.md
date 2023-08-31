@@ -696,7 +696,7 @@ the inventory of the Guinean military consists largely of aging and outdated (mo
 Voluntary and selective conscripted service, 9-24 mos (2022)<br>
 
 **Military deployments**<br>
-670 Mali (MINUSMA) (May 2022)<br>
+670 Mali (MINUSMA) (2023)<br>
 
 **Military - note**<br>
 the Guinean military is a small and lightly armed force that is responsible for external defense, but also has some domestic security responsibilities and has historically been involved in suppressing public protests; the military has undergone some attempts at reform since 2010, but in 2021 the Army&rsquo;s special forces led a successful coup; the Army has a mix of approximately 10 infantry, light armor, commando, and special forces battalions, as well as a presidential guard force; piracy and natural resource protection in the Gulf of Guinea are key areas of concern for the small Navy, which possesses only a few patrol boats; the Air Force has a handful of serviceable aircraft, including helicopter gunships (2023)<br>

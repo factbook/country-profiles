@@ -289,7 +289,7 @@ see United States<br>
 _chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)<br>
 _head of government_: Governor Pedro PIERLUISI (since 2 January 2021)<br>
 _cabinet_: Cabinet appointed by governor with the consent of the Legislative Assembly<br>
-_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of Puerto Rico do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 3 November 2020 (next to be held in November 2024)<br>
+_elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of Puerto Rico do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 3 November 2020 (next to be held on 5 November 2024)<br>
 _election results_: <br><em>2020:</em> Pedro PIERLUISI elected governor; percent of vote - Pedro PIERLUISI (PNP) 32.9%, Carlos DELGADO (PPD) 31.6%, Alexandra LUGARO (independent) 14.2%, Juan DALMAU (PIP) 13.7%, other 7.6%<br><br><em>2016:</em> Ricardo ROSSELLO elected governor; percent of vote - Ricardo ROSSELLO (PNP) 41.8%, David BERNIER (PPD) 38.9%, Alexandra LUGARO (independent) 11.1%, Manuel CIDRE (independent) 5.7%<br>
 
 **Legislative branch**<br>
@@ -461,7 +461,7 @@ $52.98 billion (31 December 2009 est.)<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 6.18 million kW (2020 est.)<br>

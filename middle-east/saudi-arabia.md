@@ -351,7 +351,7 @@ _subordinate courts_: Court of Appeals; Specialized Criminal Court, first-degree
 none<br>
 
 **International organization participation**<br>
-ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, CAEU, CP, FAO, G-20, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, CAEU, CP, FAO, G-20, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Reema Bint Bandar Bin Sultan&nbsp;AL SAUD (since 8 July 2019)<br>

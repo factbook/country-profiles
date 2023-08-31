@@ -291,7 +291,7 @@ _elections/appointments_: president indirectly elected by Parliament (eligible f
 _election results_: <p>Russ KUN elected president unopposed</p><br>
 
 **Legislative branch**<br>
-_description_: unicameral parliament (19 seats; members directly elected in multi-seat constituencies by majority vote using the "Dowdall" counting system by which voters rank candidates on their ballots; members serve 3-year terms)<br>
+_description_: unicameral Parliament (19 seats; members directly elected in multi-seat constituencies by majority vote using the "Dowdall" counting system by which voters rank candidates on their ballots; members serve 3-year terms)<br>
 _elections_: last held on 24 September 2022 (next to be held in September 2025)<br>
 _election results_: percent of vote - NA; seats - independent 19; composition - men 17, women 2, percent of women 10.5%<br>
 

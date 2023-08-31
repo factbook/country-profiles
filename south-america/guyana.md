@@ -680,7 +680,7 @@ the International Maritime Bureau reports the territorial waters of Guyana are a
 <p>all of the area west of the Essequibo River is claimed by Venezuela preventing any discussion of a maritime boundary; Guyana has expressed its intention to join Barbados in asserting claims before UN Convention on the Law of the Sea (UNCLOS) that Trinidad and Tobago's maritime boundary with Venezuela extends into their waters; Suriname claims a triangle of land between the New and Kutari/Koetari Rivers in a historic dispute over the headwaters of the Courantyne</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 24,500 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 19,600 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2022)<br>
 
 **Illicit drugs**<br>
 <p>a transit country for cocaine destined for the United States, Canada, the Caribbean, Europe, and West Africa; growing domestic marijuana cultivation and consumption</p><br>

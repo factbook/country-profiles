@@ -376,7 +376,7 @@ Chadian Convention for Peace and Development or CTPD [Laoukein Kourayo MEDARD]<b
 <strong>note:</strong> on 5 October 2021, Interim President Mahamat Idriss DEBY appointed 93 members to the interim National Transitional Council (NTC); 30% of the NTC members were retained from parties previously represented in the National Assembly<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSMA, MNJTF, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSMA, MNJTF, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador KITOKO GATA Ngoulou (since 30 June 2023)<br>
@@ -690,7 +690,7 @@ the ANT is mostly armed with older or secondhand equipment from Belgium, France,
 20 is the legal minimum age for compulsory military service for men with an 18-36 month service obligation (information varies); women are subject to 12 months of compulsory military or civic service at age 21; 18-35 for voluntary service; soldiers released from active duty are in the reserves until the age of 50 (2023)<br>
 
 **Military deployments**<br>
-1,450 Mali (MINUSMA) (May 2022)<br>
+1,425 Mali (MINUSMA) (2023)<br>
 <strong>note 1:</strong> Chad has committed approximately 1,000-1,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own territories, although cross‐border operations are conducted periodically; in 2019, Chad sent more than 1,000 troops to Nigeria’s Borno State to fight Boko Haram as part of the MNJTF mission<br><br><strong>note 2: </strong>Chad is also part of a four (formerly five)-nation anti-jihadist task force known as the G4 Sahel Group, set up in 2014 with Chad, Mali (withdrew in 2022), Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; as of 2020, defense forces from each of the participating states were allowed to pursue terrorist fighters up to 100 km into neighboring countries; the force is backed by France, the UN, and the US<br>
 
 **Military - note**<br>
@@ -708,7 +708,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 192,473 (Sudan) (includes refugees since 15 April 2023), 127,934 (Central African Republic), 26,552 (Cameroon), 20,974 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 192,473 (Sudan) (includes refugees since 15 April 2023), 128,060 (Central African Republic), 26,552 (Cameroon), 21,053 (Nigeria) (2023)<br>
 _IDPs_: 381,289 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>

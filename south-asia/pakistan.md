@@ -97,7 +97,7 @@ Punjabi 44.7%, Pashtun (Pathan) 15.4%, Sindhi 14.1%, Saraiki 8.4%, Muhajirs 7.6%
 
 **Languages**<br>
 Punjabi 38.8%, Pashto (alternate name, Pashtu) 18.2%, Sindhi 14.6%, Saraiki (a Punjabi variant) 12.2%, Urdu 7.1%, Balochi 3%, Hindko 2.4%, Brahui 1.2%, other 2.4%<br>
-_major-language sample(s)_: <br>ਸੰਸਾਰ ਦੀ ਤੱਥ ਕਿਤਾਬ, ਆਧਾਰੀ ਜਾਣਕਾਰੀ ਲਈ ਜ਼ਰੂਰੀ ਸਰੋਤ ਹੈ (Punjabi)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>دنیا کا قاموس، ایک لازمی زریہ بنیادی معلومات کا (Urdu)<br><br>The World Factbook, the indispensable source for basic information.<br>
 <strong>note:</strong> data represent population by mother tongue; English (official; lingua franca of Pakistani elite and most government ministries)<br>
 
 **Religions**<br>
@@ -360,14 +360,14 @@ _residency requirement for naturalization_: 4 out of the previous 7 years and in
 
 **Executive branch**<br>
 _chief of state_: President Arif ALVI (since 9 September 2018)<br>
-_head of government_: Prime Minister Shehbaz SHARIF (since 11 April 2022); former Prime Minister Imran KHAN on 10 April 2022 lost a no-confidence vote in the National Assembly<br>
+_head of government_: Interim Prime Minister Anwaar-ul-Haq KAKAR (since 14 August 2023); caretaker cabinet (since 17 August 2023)&nbsp;&nbsp;<br>
 _cabinet_: Cabinet appointed by the president upon the advice of the prime minister<br>
 _elections/appointments_: president indirectly elected by the Electoral College consisting of members of the Senate, National Assembly, and provincial assemblies for a 5-year term (limited to 2 consecutive terms); election last held on 4 September 2018 (next to be held in 2023); prime minister elected by the National Assembly on 11 April 2022<br>
 _election results_: <p><em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br><br><em>2013:</em> Mamnoon HUSSAIN elected president; Mamnoon HUSSAIN (PML-N) 432 votes, Wajihuddin AHMED (PTI) 77 votes</p><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (100 seats; members indirectly elected by the 4 provincial assemblies and the federal capital territory indirectly elected by the National Assembly using proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 3 March 2021 (next to be held in March 2024)<br>National Assembly - last held on 25 July 2018 (next to be held in October 2023)<br>
+_elections_: <br>Senate - last held on 3 March 2021 (next to be held in March 2024)<br>National Assembly - last held on 25 July 2018 (next to be held in October 2023)<br><strong>note:</strong> Parliament dissolved on 9 August 2023; government placed in caretaker status until new elections - initially scheduled for November 2023 - but expected to be delayed until February 2024 due to Election Commission of Pakistan changes in electoral districts<br>
 _election results_: <br>Senate - percent of vote by party - NA; seats by party - PTI 25, PPP 21, PML-N 18, BAP 13, JUI-F 5, other 13, independent 5; composition - men 81, women 19, percent of women 19%<br><br>National Assembly - percent of votes by party - NA; seats by party - PTI 156, PML-N 83, PPP 55, MMA 16, MQM-P 7, BAP 5, PML-Q 5, BNP-M 4, GDA 3, AML 1, ANP 1, JWP 1, independent 4; composition - men 272, women 70, percent of women 20.2%; note - total Parliament percent of women 20.1%<br>
 
 **Judicial branch**<br>
@@ -380,7 +380,7 @@ Awami National Party or ANP [Asfandyar Wali KHAN]<br>Awami Muslim League or AML 
 <strong>note:</strong> Pakistan has several hundred officially registered political parties; this list includes those that won seats in the most recent elections at the national and provincial levels<br>
 
 **International organization participation**<br>
-ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNISFA, UNISFA, UNMISS, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNISFA, UNISFA, UNMISS, UNOOSA, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sardar Masood KHAN (since 19 April 2022)<br>

@@ -27,9 +27,9 @@ _water_: 891,163 sq km<br>
 slightly larger than the US<br>
 
 **Land boundaries**<br>
-_total_: 8,891 km<br>
-_border countries_: US 8,891 km (includes 2,475 km with Alaska)<br>
-<strong>note:</strong> Canada is the world's largest country that borders only one country<br>
+_total_: 8,892 km<br>
+_border countries_: US 8,891 km (includes 2,475 km with Alaska); Denmark (Greenland) 1.2 km<br>
+&nbsp;<br>
 
 **Coastline**<br>
 202,080 km<br>
@@ -371,7 +371,7 @@ _subordinate courts_: federal level: Federal Court of Appeal; Federal Court; Tax
 Bloc Quebecois [Yves-Francois BLANCHET]<br>Conservative Party of Canada or CPC [Pierre POILIEVRE]<br>Green Party [Elizabeth MAY]<br>Liberal Party [Justin TRUDEAU]<br>New Democratic Party or NDP [Jagmeet SINGH]<br>People's Party of Canada [Maxime BERNIER]<br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNRWA, UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNOOSA, UNRWA, UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Kirsten HILLMAN (since 17 July 2020)<br>
@@ -774,7 +774,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Hizballah<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>managed maritime boundary disputes with the US at Dixon Entrance, Beaufort Sea, Strait of Juan de Fuca, and the Gulf of Maine, including the disputed Machias Seal Island and North Rock; Canada and the United States dispute how to divide the Beaufort Sea and the status of the Northwest Passage but continue to work cooperatively to survey the Arctic continental shelf; US works closely with Canada to intensify security measures for monitoring and controlling legal and illegal movement of people, transport, and commodities across the international border; sovereignty dispute with Denmark over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; commencing the collection of technical evidence for submission to the Commission on the Limits of the Continental Shelf in support of claims for continental shelf beyond 200 nm from its declared baselines in the Arctic, as stipulated in Article 76, paragraph 8, of the UN Convention on the Law of the Sea</p><br>
+<p>managed maritime boundary disputes with the US at Dixon Entrance, Beaufort Sea, Strait of Juan de Fuca, and the Gulf of Maine, including the disputed Machias Seal Island and North Rock; Canada and the United States dispute how to divide the Beaufort Sea and the status of the Northwest Passage but continue to work cooperatively to survey the Arctic continental shelf; US works closely with Canada to intensify security measures for monitoring and controlling legal and illegal movement of people, transport, and commodities across the international border; commencing the collection of technical evidence for submission to the Commission on the Limits of the Continental Shelf in support of claims for continental shelf beyond 200 nm from its declared baselines in the Arctic, as stipulated in Article 76, paragraph 8, of the UN Convention on the Law of the Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 22,400 (Venezuela) (refugees and migrants) (2020); 5,254 (Iran) (mid-year 2021)<br>

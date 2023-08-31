@@ -28,8 +28,8 @@ _water_: 660 sq km<br>
 slightly less than twice the size of Massachusetts; about two-thirds the size of West Virginia<br>
 
 **Land boundaries**<br>
-_total_: 140 km<br>
-_border countries_: Germany 140 km<br>
+_total_: 141 km<br>
+_border countries_: Germany 140 km; Canada 1.2 km<br>
 
 **Coastline**<br>
 7,314 km<br>
@@ -346,7 +346,7 @@ _subordinate courts_: Special Court of Indictment and Revision; 2 High Courts; M
 The Alternative or AP [Franciska ROSENKILDE]<br>Conservative People's Party or DKF or C [Soren PAPE POULSEN]<br>Danish People's Party or DF or O [Morten MESSERSCHMIDT]<br>Denmark Democrats or E [Inger STOJBERG]<br>Green Left or SF or F [Pia OLSEN DYHR] (formerly Socialist People's Party or SF or F)<br>Liberal Alliance or LA or I [Alex VANOPSLAGH]<br>Liberal Party (Venstre) or V [Jakob ELLEMANN-JENSEN]<br>Moderates or M [Lars Lokke RASMUSSEN]<br>New Right Party or NB or D [Ann Pernille VERMUND TVEDE]<br>Red-Green Alliance (Unity List) or EL [collective leadership, Mai VILLADSEN, spokesperson]<br>Social Democrats or SDP or A [Mette FREDERIKSEN]<br>Social Liberal Party or SLP or B [Martin LIDEGAARD]<br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Christina Markus LASSEN (since 16 September 2022)<br>
@@ -719,7 +719,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
+<p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 41,305 (Ukraine) (as of 23 July 2023)<br>

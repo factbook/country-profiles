@@ -356,7 +356,7 @@ _subordinate courts_: People's Provincial Courts; People's Regional Courts; Peop
 Cuban Communist Party or PCC [Miguel DIAZ-CANEL Bermudez]<br>
 
 **International organization participation**<br>
-ACP, ALBA, AOSIS, CELAC, EAEU (observer), FAO, G-77, IAEA, ICAO, ICC (national committees), ICRM, IFAD, IFRCS, IHO, ILO, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAES, LAIA, NAM, OAS (excluded from formal participation since 1962), OPANAL, OPCW, PCA, Petrocaribe, PIF (partner), UN, UNCTAD, UNESCO, UNHRC, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, ALBA, AOSIS, CELAC, EAEU (observer), FAO, G-77, IAEA, ICAO, ICC (national committees), ICRM, IFAD, IFRCS, IHO, ILO, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAES, LAIA, NAM, OAS (excluded from formal participation since 1962), OPANAL, OPCW, PCA, Petrocaribe, PIF (partner), UN, UNCTAD, UNESCO, UNHRC, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Lianys TORRES RIVERA (since 14 January 2021)<br>

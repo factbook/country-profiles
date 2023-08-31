@@ -344,7 +344,7 @@ _subordinate courts_: Court of Accounts; district and local tribunals and courts
 Alternative Democratic Reform Party or ADR [Fred KEUP]<br>Christian Social People's Party or CSV [Claude WISELER]<br>Democratic Party or DP [Lex DELLES]<br>Green Party [Djuna BERNARD, Meris SEHOVIC]<br>Luxembourg Socialist Workers' Party or LSAP [Dan BIANCALANA, Francine CLOSENER]<br>Pirate Party [Starsky FLOR, Rebecca LAU]<br>The Left (dei Lenk/la Gauche) [collective leadership, Central Committee]<br>
 
 **International organization participation**<br>
-ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNRWA, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNOOSA, UNRWA, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Nicole BINTNER-BAKSHIAN (since 15 August 2021)<br>
@@ -701,6 +701,6 @@ aims to be the commercial space hub for Europe; LSA established largely to devel
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,890 (Ukraine) (as of 14 June 2023)<br>
+_refugees (country of origin)_: 6,060 (Ukraine) (as of 4 August 2023)<br>
 _stateless persons_: 174 (2022)<br>
 

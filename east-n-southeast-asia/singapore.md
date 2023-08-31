@@ -326,8 +326,8 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President HALIMAH Yacob (since 14 September 2017)<br>
 _head of government_: Prime Minister LEE Hsien Loong (since 12 August 2004)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a fixed term of 6 years (there are no term limits); election last held on 13 September 2017 (next to be held in 2023); following legislative elections, leader of majority party or majority coalition appointed prime minister by president; deputy prime ministers appointed by the president<br>
-_election results_: <em>2017</em>: HALIMAH Yacob was declared president on 13 September 2017, being the only eligible candidate<br><br><em>2011</em>: Tony TAN Keng Yam elected president; percent of vote - Tony TAN Keng Yam (independent) 35.2%, TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 13 September 2017 (next to be held on 1 Septembere 2023); following legislative elections, the leader of the majority party or majority coalition appointed prime minister by the president; deputy prime ministers appointed by the president<br>
+_election results_: <em><br>2017</em>: HALIMAH Yacob declared president on 13 September 2017, being the only eligible candidate<br><br><em>2011</em>: Tony TAN Keng Yam elected president; percent of vote - Tony TAN Keng Yam (independent) 35.2%, TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (104 seats statutory, 103 current term; 93 members directly elected by simple majority popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members increased to 12 for the 2020 election for the first time (2021)<br>
@@ -344,7 +344,7 @@ Democratic Progressive Party or DPP [Mohamad Hamim BIN ALIYA]<br>National Solida
 <strong>note: </strong>the PAP has won every general election since the end of the British colonial era in 1959<br>
 
 **International organization participation**<br>
-ADB, AOSIS, APEC, Arctic Council (observer), ARF, ASEAN, BIS, C, CP, EAS, FAO, FATF, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, Pacific Alliance (observer), PCA, UN, UNCTAD, UNESCO, UNHCR, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ADB, AOSIS, APEC, Arctic Council (observer), ARF, ASEAN, BIS, C, CP, EAS, FAO, FATF, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, Pacific Alliance (observer), PCA, UN, UNCTAD, UNESCO, UNHCR, UNOOSA, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador LUI Tuck Yew (since 30 June 2023)<br>

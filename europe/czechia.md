@@ -353,7 +353,7 @@ _subordinate courts_: High Court; regional and district courts<br>
 Christian Democratic Union-Czechoslovak People's Party or KDU-CSL [Marian JURECKA]<br>Civic Democratic Party or ODS [Petr FIALA]<br>Communist Party of Bohemia and Moravia or KSCM [Katerina KONECNA]<br>Czech Social Democratic Party or CSSD [Michal SMARDA]<br>Freedom and Direct Democracy or SPD [Tomio OKAMURA]<br>Mayors and Independents or STAN [Vit RAKUSAN]<br>Mayors for the Liberec Region [Martin PUTA]<br>Action of Dissatisfied Citizens or ANO (<em lang="cs">Akce nespokojených občanů)</em> [Andrej BABIS]<br>Party of Free Citizens Svobodni [Libor VONDRACEK]<br>Pirate Party or Pirates [Ivan BARTOS]<br>Senator 21 [Vaclav LASKA]<br>Tradition Responsibility Prosperity 09 or TOP 09 [Marketa PEKAROVA ADAMOVA]<br>
 
 **International organization participation**<br>
-Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Miloslav STASEK (since 16 September 2022)<br>
@@ -715,7 +715,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 361,485 (Ukraine) (as of 13 August 2023)<br>
+_refugees (country of origin)_: 363,195 (Ukraine) (as of 20 August 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

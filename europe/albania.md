@@ -359,7 +359,7 @@ _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized co
 Alliance for Change (electoral coalition led by PD)<br>Democratic Party or PD [Enkelejd ALIBEAJ, interim leader]<br>Party for Justice, Integration and Unity or PDIU [Shpetim IDRIZI] (part of the Alliance for Change)<br>Social Democratic Party or PSD [Tom DOSHI]<br>Socialist Movement for Integration or LSI [Monika KRYEMADHI]<br>Socialist Party or PS [Edi RAMA]<br>
 
 **International organization participation**<br>
-BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIC, OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIC, OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 <strong>note</strong>: Albania is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
@@ -424,8 +424,8 @@ $15.273 billion (2019 est.)<br>
 1.41% (2019 est.)<br>
 
 **Credit ratings**<br>
-_Moody's rating_: B1 (2007)<br>
-_Standard & Poors rating_: B+ (2016)<br>
+_Moody's rating_: B1 (2021)<br>
+_Standard & Poors rating_: B+ (2020)<br>
 <strong>note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
 
 **GDP - composition, by sector of origin**<br>
@@ -713,7 +713,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 1,948 (2022)<br>
-<strong>note:</strong> 45,082 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
+<strong>note:</strong> 45,491 estimated refugee and migrant arrivals (January 2015-July 2023)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis and an active transshipment point for Albanian narco-trafficking organizations moving illicit drugs into European markets</p><br>

@@ -231,12 +231,10 @@ see the Netherlands<br>
 <p>18 years of age; universal</p><br>
 
 **Executive branch**<br>
-_chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor General Eugene HOLIDAY (since 10 October 2010)<br>
+_chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor Ajamu G. BALY (since 10 October 2022)<br>
 _head of government_: Prime Minister Silveria JACOBS (since 28 March 2020)<br>
-_cabinet_: Cabinet nominated by the prime minister and appointed by the governor-general<br>
-_elections/appointments_: the monarch is hereditary; governor general appointed by the monarch for a 6-year term; following parliamentary elections, the leader of the majority party usually elected prime minister by Parliament<br>
-_election results_: last held&nbsp;9 January 2020 (next to be held in 2024)<br>
-note - on 16 January 2020, Governor Eugene HOLIDAY appoints Silveria JACOBS as <em>formateur</em> of a new government<br>
+_cabinet_: Cabinet nominated by the prime minister and appointed by the governor<br>
+_elections/appointments_: the monarch is hereditary; governor appointed by the monarch for a 6-year term; following parliamentary elections, the leader of the majority party usually elected prime minister by Parliament<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament&nbsp;of Sint Maarten&nbsp;(15 seats; members directly elected by proportional representation vote to serve 4-year terms)<br>
@@ -349,7 +347,7 @@ _Currency_: Netherlands Antillean guilders (ANG) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>

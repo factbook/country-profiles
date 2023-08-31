@@ -362,8 +362,8 @@ _election results_: <p><em>2018:</em> Emmerson MNANGAGWA reelected president in 
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (80 seats; 60 members directly elected in multi-seat constituencies - 6 seats in each of the 10 provinces - by proportional representation vote, 16 indirectly elected by the regional governing councils, 2 reserved for the National Council Chiefs, and 2 reserved for members with disabilities; members serve 5-year terms)<br><br>National Assembly (270 seats; 210 members directly elected in single-seat constituencies by simple majority vote and 60 seats reserved for women directly elected by proportional representation vote; members serve 5-year terms)<br>
-_elections_: <p>Senate - last held for elected member on 30 July 2018 (next to be held in 2023)<br>National Assembly - last held on 30 July 2018 (next to be held in 2023)</p><br>
-_election results_: <p>Senate - percent of vote by party - NA; seats by party - ZANU-PF 34, MDC Alliance 25, Chiefs 18, people with disabilities 2, MDC-T 1; composition - men 45, women 35, percent of women 43.8%<br><br>National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 179, MDC Alliance 88, MDC-T 1, NPF 1, independent 1; composition - men 184, women 81, percent of women 31.5%; note - total Parliament percent of women 34.3%</p><br>
+_elections_: <p>Senate - last held for elected member on 30 July 2018 (next to be held in 2023)<br>National Assembly - last held on 23 August 2023 (next to be held in 2028)</p><br>
+_election results_: <p>Senate - percent of vote by party - NA; seats by party - ZANU-PF 34, MDC Alliance 25, Chiefs 18, people with disabilities 2, MDC-T 1; composition - men 45, women 35, percent of women 43.8%<br><br>National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 136, CCC-73, vacant-1; composition - men 184, women 81, percent of women 31.5%; note - total Parliament percent of women 34.3%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 4 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>

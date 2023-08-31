@@ -658,20 +658,20 @@ Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard; Belize Police De
 <strong>note:</strong> the Ministry of National Defense and Border Security is responsible for oversight of the BDF and the Coast Guard, while the Ministry of Home Affairs and New Growth Industries has responsibility for the Belize Police Department and prisons; the Police Department is primarily responsible for internal security <br>
 
 **Military expenditures**<br>
-1.2% of GDP (2022 est.)<br>
+1.1% of GDP (2022 est.)<br>
 1.3% of GDP (2021 est.)<br>
 1.5% of GDP (2020 est.)<br>
 1.4% of GDP (2019 est.)<br>
 1.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1,300 BDF personnel; approximately 300 Belize Coast Guard (2022)<br>
+approximately 1,500 BDF personnel; approximately 500 Coast Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military has a small inventory consisting mostly of UK- and US-origin equipment (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient, but conscription has never been implemented; initial service obligation is 12 years (2022)<br>
+18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient, but conscription has never been implemented; initial service obligation is 12 years (2023)<br>
 
 **Military - note**<br>
 <p>the Belize Defense Force (BDF) is responsible for external security but also provides some support to civilian authorities; it has limited powers of arrest within land and shoreline areas, while the Coast Guard has arrest powers and jurisdiction within coastal and maritime areas; the BDF traces its history back to the Prince Regent Royal Honduras Militia, a volunteer force established in 1817; the BDF was established in 1978 from the disbanded Police Special Force and the Belize Volunteer Guard to assist the resident British forces with the defense of Belize against Guatemala</p> <p>the British Army has maintained a presence in Belize since its independence; the presence consists of a small training support unit that provides jungle training to troops from the UK and international partners</p> (2023)<br>

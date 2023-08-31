@@ -369,7 +369,7 @@ _subordinate courts_: civil courts include: Assistant Judge's Court; Joint Distr
 Awami League or AL [Sheikh HASINA]<br>Bangladesh Jamaat-i-Islami or JIB [Shafiqur RAHMAN]<br>Bangladesh Nationalist Front or BNF [S. M. Abul Kalam AZAD]<br>Bangladesh Nationalist Party or BNP [Tarique RAHMAN, acting chairperson; Khaleda ZIA]<br>Bangladesh Tariqat Federation or BTF [Syed Nozibul Bashar MAIZBHANDARI]<br>Jatiya Party or JP (Ershad faction) [Rowshan ERSHAD]<br>Jatiya Party or JP (Manju faction) [Anwar Hossain MANJU]<br>Liberal Democratic Party or LDP [Oli AHMED]<br>National Socialist Party (Jatiya Samajtantrik Dal) or JSD [Hasanul Haque INU]<br>Workers Party or WP [Rashed Khan MENON]<br>
 
 **International organization participation**<br>
-ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNIFIL, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNIFIL, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Muhammad IMRAN (since 12 December 2022)<br>
@@ -725,16 +725,16 @@ Armed Forces of Bangladesh (aka Bangladesh Defense Force): Bangladesh Army, Bang
 1.4% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 165,000 total active personnel (135,000 Army; 15,000 Navy; 15,000 Air Force) (2022)<br>
+information varies; approximately 160,000 total active personnel (130,000 Army; 15,000 Navy; 15,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 much of the military's inventory is comprised of Chinese- and Russian-origin equipment; in recent years, China has been the leading provider of arms to Bangladesh (2023)<br>
 
 **Military service age and obligation**<br>
-16-21 years of age for voluntary military service; Bangladeshi nationality and 10th grade education required; officers: 17-21 years of age, Bangladeshi nationality, and 12th grade education required (2022)<br>
+16-21 years of age for voluntary military service; Bangladeshi nationality and 10th grade education required; officers: 17-21 years of age, Bangladeshi nationality, and 12th grade education required (2023)<br>
 
 **Military deployments**<br>
-1,375 Central African Republic (MINUSCA); 1,625 Democratic Republic of the Congo (MONUSCO; plus about 190 police); 120 Lebanon (UNIFIL); 1,100 Mali (MINUSMA; plus about 280 police); 1,600 South Sudan (UNMISS); 180 Sudan (UNISFA) (2022)<br>
+approximately 1,400 Central African Republic (MINUSCA); 1,650 Democratic Republic of the Congo (MONUSCO; plus about 200 police); 120 Lebanon (UNIFIL); 1,375 Mali (MINUSMA; plus about 280 police); 1,600 South Sudan (UNMISS); 150 Sudan (UNISFA)&nbsp; (2023)<br>
 
 **Military - note**<br>
 the military’s primary responsibility is external defense but it also has a domestic security role and has traditionally been a significant player in the country’s politics, as well as its economy; the military has a long history of participating in UN peacekeeping missions, which has provided operational experience and a source of funding; it runs an international institute for the training of peacekeepers; the military also conducts multinational and bilateral exercises with foreign partners, particularly India; it has commercial business interests in such areas as banking, food, hotels, manufacturing, real estate, and shipbuilding, and manages government infrastructure and construction projects<br><br>the Army is the dominant service and its primary combat forces are approximately 10 infantry divisions, complemented by several independent brigades and regiments of armor, artillery, and commandos; it maintains a large presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; the Navy conducts both coastal and blue water operations and participates in UN and humanitarian missions and multinational exercises; its principal combat ships are a mix of approximately 15 frigates, corvettes, and large patrol ships, as well as a few attack submarines; the Air Force has about 50 mostly Chinese- and Russian-made combat aircraft organized into several squadrons (2023)<br>

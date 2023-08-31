@@ -359,7 +359,7 @@ _chief of state_: President Bola Ahmed Adekunle TINUBU (since 29 May 2023); Vice
 _head of government_: President Bola Ahmed Adekunle TINUBU (since 29 May 2023); Vice President Kashim SHETTIMA (since 29 May 2023)<br>
 _cabinet_: Federal Executive Council appointed by the president but constrained constitutionally to include at least one member from each of the 36 states<br>
 _elections/appointments_: president directly elected by qualified majority popular vote and at least 25% of the votes cast in 24 of Nigeria's 36 states; president elected for a 4-year term (eligible for a second term); election last held on 25 February 2023 (next to be held on 27 February 2027)<br>
-_election results_: <p><em>2023:</em> Bola Ahmed Adekunle TINUBU elected president; percent of vote - Bola Ahmed Adekunle TINUBU (APC) 36%, Atiku ABUBAKAR (PDP) 29%, Peter OBI (LP) 25%, Rabiu KWANKWASO (NNPP) 6%<br><br><em>2019: </em>Muhammadu BUHARI elected president; percent of vote - Muhammadu BUHARI (APC) 53%, Atiku ABUBAKAR (PDP) 39%, other 8%</p> <p> </p><br>
+_election results_: <p><em>2023:</em> Bola Ahmed Adekunle TINUBU elected president; percent of vote - Bola Ahmed Adekunle TINUBU (APC) 36.6%, Atiku ABUBAKAR (PDP) 29.1%, Peter OBI (LP) 25.4%, Rabiu KWANKWASO (NNPP) 6.4%, other 2.5%<br><br><em>2019: </em>Muhammadu BUHARI elected president; percent of vote - Muhammadu BUHARI (APC) 53%, Atiku ABUBAKAR (PDP) 39%, other 8%</p> <p> </p><br>
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>Senate (109 seats - 3 each for the 36 states and 1 for Abuja-Federal Capital Territory; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>House of Representatives (360 seats statutory, 258 current; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
@@ -375,7 +375,7 @@ _subordinate courts_: Court of Appeal; Federal High Court; High Court of the Fed
 Accord Party or ACC [Mohammad Lawal MALADO]<br>Africa Democratic Congress or ADC [Ralph Okey NWOSU] <br>All Progressives Congress or APC [<u>Abdullahi ADAMU</u>]<br>All Progressives Grand Alliance or APGA [Victor Ike OYE]<br>Labor Party or LP [Julius ABURE]<br>Peoples Democratic Party or PDP [Iyourchia AYU]<br>Young Progressive Party or YPP [Bishop AMAKIRI]<br>
 
 **International organization participation**<br>
-ACP, AfDB, ATMIS, AU, C, CD, D-8, ECOWAS, EITI (compliant country), FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINURSO, MINUSMA, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, ATMIS, AU, C, CD, D-8, ECOWAS, EITI (compliant country), FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINURSO, MINUSMA, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Uzoma Elizabeth EMENIKE (since 7 July 2021)<br>

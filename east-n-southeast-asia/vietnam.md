@@ -346,7 +346,7 @@ _election results_: <em>2021</em>: Nguyen Xuan PHUC (CPV) elected president; Pha
 <strong>note: </strong>Nguyen Phu TRONG is the General Secretary of the Vietnam Communist Party<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Quoc Hoi &nbsp;(500 seats - number following 2021 election - 499; members directly elected in multi-seat constituencies by absolute majority vote; members serve 5-year terms)<br>
+_description_: unicameral National Assembly or Quoc Hoi (500 seats - number following 2021 election - 499; members directly elected in multi-seat constituencies by absolute majority vote; members serve 5-year terms)<br>
 _elections_: last held on 23 May 2021 (next to be held in spring 2026)<br>
 _election results_: percent of vote in 2016 election by party -CPV 95.8%, non-party members 4.2%; seats by party - CPV 474, non-party CPV-approved 20, self-nominated 2; note - 494 candidates elected, 2 CPV candidates-elect were disqualified; composition - men 364, women 122, percent of women 26.6%<br>
 
@@ -360,7 +360,7 @@ Communist Party of Vietnam or CPV [General Secretary Nguyen Phu TRONG]<br>
 <strong>note:</strong> other parties proscribed<br>
 
 **International organization participation**<br>
-ADB, APEC, ARF, ASEAN, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, APEC, ARF, ASEAN, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Nguyen Quoc DUNG (since 19 April 2022)<br>

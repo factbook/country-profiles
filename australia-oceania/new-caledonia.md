@@ -269,7 +269,7 @@ _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by 
 _head of government_: President of the Government Louis MAPOU (since 22 July 2021); Vice President Isabelle CHAMPMOREAU (since 22 July 2021)<br>
 _cabinet_: Cabinet elected from and by the Territorial Congress<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; president of New Caledonia elected by Territorial Congress for a 5-year term (no term limits); election last held on 8 July 2021 (next to be held in 2026)<br>
-_election results_: <em><br>2021:</em> Louis MAPOU elected president by Territorial Congress with 6 votes out of 11<br><em>2019:</em> Thieryy SANTA elected president by Territorial Congress; vote NA<br>
+_election results_: <em><br>2021:</em> Louis MAPOU (PALIKA) elected president by Territorial Congress with 6 votes out of 11<br><em>2019: </em>Thieryy SANTA (The Republicans) elected president by Territorial Congress with 6 votes out of 11<br>
 
 **Legislative branch**<br>
 _description_: unicameral Territorial Congress or Congrès du Territoire (54 seats; members indirectly selected proportionally by the partisan makeup of the 3 Provincial Assemblies or Assemblés Provinciales; members of the 3 Provincial Assemblies directly elected by party-list proportional representation vote; members serve 5-year terms); note - the Customary Senate is the assembly of the various traditional councils of the Kanaks, the indigenous population, which rules on laws affecting the indigenous population<br>New Caledonia indirectly elects 2 members to the French Senate by an electoral colleges for a 6-year term with one seat renewed every 3 years and directly elects 2 members to the French National Assembly by absolute majority vote in 2 rounds if needed for a 5-year term<br>
@@ -438,7 +438,7 @@ _Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 1.071 million kW (2020 est.)<br>

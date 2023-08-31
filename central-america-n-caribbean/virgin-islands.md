@@ -421,7 +421,7 @@ refined petroleum, crude petroleum, rubber piping, jewelry, beer (2019)<br>
 ## Energy
 
 **Electricity access**<br>
-_electrification - total population_: 100% (2020)<br>
+_electrification - total population_: 100% (2021)<br>
 
 **Electricity**<br>
 _installed generating capacity_: 321,000 kW (2020 est.)<br>

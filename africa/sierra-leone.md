@@ -341,8 +341,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Julius Maada BIO (since 28 June 2023); Vice President Mohamed Juldeh JALLOH (since 28 June 2023); note - the president is both chief of state, head of government, and minister of defense<br>
 _head of government_: President Julius Maada BIO (since 28 June 2023); Vice President Mohamed Juldeh JALLOH (since 28 June 2023)<br>
 _cabinet_: Ministers of State appointed by the president, approved by Parliament; the cabinet is responsible to the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 June 2023 (next to be in 2028)<br>
-_election results_: <p><em>2023: </em>Julius Maada BIO elected president in first round; percent of vote - Julius Maada BIO (SLPP) 56.1%, Samura KAMARA (APC) 41.1%<em><br>2018: </em>Julius Maada BIO elected president in second round; percent of vote - Julius Maada BIO (SLPP) 51.8%, Samura KAMARA (APC) 48.2%<br><br></p><br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 June 2023 (next to be held in 2028)<br>
+_election results_: <br><em>2023: </em>Julius Maada BIO elected president in first round; percent of vote - Julius Maada BIO (SLPP) 56.2%, Samura KAMARA (APC) 41.2%, other 2.6%<br><em><br>2018: </em>Julius Maada BIO elected president in second round; percent of vote - Julius Maada BIO (SLPP) 51.8%, Samura KAMARA (APC) 48.2%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (146 seats; 132 members directly elected in single-seat constituencies by a district block proportional representation vote and 14 seats filled in separate elections by non-partisan members of Parliament called "paramount chiefs;" members serve 5-year terms)<br>
@@ -358,7 +358,7 @@ _subordinate courts_: magistrates' courts; District Appeals Court; local courts<
 All People's Congress or APC [Ernest Bai KOROMA]<br>Coalition for Change or C4C [Tamba R. SANDY]<br>National Grand Coalition or NGC [Dr. Dennis BRIGHT]<br>Sierra Leone People's Party or SLPP [Dr. Prince HARDING]<br>numerous other parties<br>
 
 **International organization participation**<br>
-ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sidique Abou-Bakarr WAI (since 8 April 2019)<br>
