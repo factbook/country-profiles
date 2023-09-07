@@ -354,15 +354,15 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Emmerson Dambudzo MNANGAGWA (since 24 November 2017); First Vice President Constantino CHIWENGA (since 28 December 2017); note - Robert Gabriel MUGABE resigned on 21 November 2017, after ruling for 37 years<br>
-_head of government_: President Emmerson Dambudzo MNANGAGWA (since 24 November 2017); Vice President Constantino CHIWENGA (since 28 December 2017);<br>
+_chief of state_: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023); First Vice President Constantino CHIWENGA (since 4 September 2023 ); note - Robert Gabriel MUGABE resigned on 21 November 2017, after ruling for 37 years<br>
+_head of government_: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023); Vice President Constantino CHIWENGA (since 4 September 2023)<br>
 _cabinet_: Cabinet appointed by president, responsible to National Assembly<br>
-_elections/appointments_: each presidential candidate nominated with a nomination paper signed by at least 10 registered voters (at least 1 candidate from each province) and directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 3 July 2018 (next to be held in 2023); co-vice presidents drawn from party leadership<br>
-_election results_: <p><em>2018:</em> Emmerson MNANGAGWA reelected president in 1st round of voting; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 50.8%, Nelson CHAMISA (MDC-T) 44.3%, Thokozani KHUPE (MDC-N) 0.9%, other 3%<br><br><em>2013: </em>Robert Gabriel MUGABE reelected president; percent of vote - Robert Gabriel MUGABE (ZANU-PF) 61.1%, Morgan TSVANGIRAI (MDC-T) 34.4%, Welshman NCUBE (MDC-N) 2.7%, other 1.8%; note - the election process was considered flawed and roundly criticized by election monitors and international bodies; both the African Union and the South African Development Community endorsed the results of the election with some concerns</p><br>
+_elections/appointments_: each presidential candidate nominated with a nomination paper signed by at least 10 registered voters (at least 1 candidate from each province) and directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 23 August 2023 (next to be held in 2028); co-vice presidents drawn from party leadership<br>
+_election results_: <em>2023: </em>Emmerson MNANGAGWA elected president in 1st round of voting; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 52.6%, Nelson CHAMISA (MDC-T) 44%, Wilbert MUBAIWA (MDC) 1.20%, other 3%<br><em><br>2018:</em> Emmerson MNANGAGWA elected president in 1st round of voting; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 50.8%, Nelson CHAMISA (MDC-T) 44.3%, Thokozani KHUPE (MDC-N) 0.9%, other 3%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (80 seats; 60 members directly elected in multi-seat constituencies - 6 seats in each of the 10 provinces - by proportional representation vote, 16 indirectly elected by the regional governing councils, 2 reserved for the National Council Chiefs, and 2 reserved for members with disabilities; members serve 5-year terms)<br><br>National Assembly (270 seats; 210 members directly elected in single-seat constituencies by simple majority vote and 60 seats reserved for women directly elected by proportional representation vote; members serve 5-year terms)<br>
-_elections_: <p>Senate - last held for elected member on 30 July 2018 (next to be held in 2023)<br>National Assembly - last held on 23 August 2023 (next to be held in 2028)</p><br>
+_elections_: <p>Senate - last held for elected member on 23 August 2023 (next to be held in 2028)<br>National Assembly - last held on 23 August 2023 (next to be held in 2028)</p><br>
 _election results_: <p>Senate - percent of vote by party - NA; seats by party - ZANU-PF 34, MDC Alliance 25, Chiefs 18, people with disabilities 2, MDC-T 1; composition - men 45, women 35, percent of women 43.8%<br><br>National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 136, CCC-73, vacant-1; composition - men 184, women 81, percent of women 31.5%; note - total Parliament percent of women 34.3%</p><br>
 
 **Judicial branch**<br>
@@ -371,7 +371,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: High Court; Labor Court; Administrative Court; regional magistrate courts; customary law courts; special courts<br>
 
 **Political parties and leaders**<br>
-Citizens Coalition for Change [Nelson CHAMISA] <br>Movement for Democratic Change - MDC-T [Douglas MWONZORA]<br>National People's Party or NPP [Conrad SANGMA] (formerly Zimbabwe People First or ZimPF)<br>Zimbabwe African National Union-Patriotic Front or ZANU-PF [Emmerson Dambudzo MNANGAGWA]<br>Zimbabwe African Peoples Union or ZAPU [Michael NKOMO]<br>
+Citizens Coalition for Change [Nelson CHAMISA] <br>Movement for Democratic Change - MDC-T [Douglas MWONZORA]<br>National People's Congress- NPC- [Wilbert MUBAIWA] <br>National People's Party or NPP [Conrad SANGMA] (formerly Zimbabwe People First or ZimPF)<br>Zimbabwe African National Union-Patriotic Front or ZANU-PF [Emmerson Dambudzo MNANGAGWA]<br>Zimbabwe African Peoples Union or ZAPU [Michael NKOMO]<br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

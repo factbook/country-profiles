@@ -701,6 +701,6 @@ aims to be the commercial space hub for Europe; LSA established largely to devel
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,060 (Ukraine) (as of 4 August 2023)<br>
+_refugees (country of origin)_: 6,060 (Ukraine) (as of 11 August 2023)<br>
 _stateless persons_: 174 (2022)<br>
 

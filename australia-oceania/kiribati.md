@@ -399,7 +399,7 @@ _industry_: 7% (2016 est.)<br>
 _services_: 70% (2016 est.)<br>
 
 **Agricultural products**<br>
-coconuts, roots/tubers nes, bananas, vegetables, taro, tropical fruit, poultry, pork, nuts, eggs<br>
+coconuts, roots/tubers, bananas, vegetables, taro, tropical fruit, poultry, pork, nuts, eggs<br>
 
 **Industries**<br>
 fishing, handicrafts<br>

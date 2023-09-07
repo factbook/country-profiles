@@ -81,14 +81,14 @@ _noun_: Palauan(s)<br>
 _adjective_: Palauan<br>
 
 **Ethnic groups**<br>
-Palauan (Micronesian with Malayan and Melanesian admixtures) 73%, Carolinian 2%, Asian 21.7%, Caucasian 1.2%, other 2.1% (2015 est.)<br>
+Palauan (Micronesian with Malayan and Melanesian admixtures) 70.6%, Carolinian 1.2%, Asian 26.5%, other 1.7% (2020 est.)<br>
 
 **Languages**<br>
 Palauan (official on most islands) 65.2%, other Micronesian 1.9%, English (official) 19.1%, Filipino 9.9%, Chinese 1.2%, other 2.8% (2015 est.)<br>
 <strong>note:</strong> Sonsoralese is official in Sonsoral; Tobian is official in Tobi; Angaur and Japanese are official in Angaur<br>
 
 **Religions**<br>
-Roman Catholic 45.3%, Protestant 34.9% (includes Evangelical 26.4%, Seventh Day Adventist 6.9%, Assembly of God .9%, Baptist .7%), Modekngei 5.7% (indigenous to Palau), Muslim 3%, Church of Jesus Christ 1.5%, other 9.7% (2015 est.)<br>
+Roman Catholic 46.9%, Protestant 30.9% (Evangelical 24.6%, Seventh Day Adventist 5%, other Protestant 1.4%), Modekngei 5.1% (indigenous to Palau), Muslim 4.9%, other 12.3% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 17.49% (male 1,966/female 1,844)<br>
@@ -300,7 +300,7 @@ _chief of state_: President Surangel WHIPPS Jr. (since 21 January 2021); Vice Pr
 _head of government_: President Surangel WHIPPS Jr. (since 21 January 2021); Vice President Jerrlyn Uduch Sengebau SENIOR (since 21 January 2021)<br>
 _cabinet_: Cabinet appointed by the president with the advice and consent of the Senate; also includes the vice president; the Council of Chiefs consists of chiefs from each of the states who advise the president on issues concerning traditional laws, customs, and their relationship to the constitution and laws of Palau<br>
 _elections/appointments_: president and vice president directly elected on separate ballots by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 3 November 2020 (next to be held in November 2024)<br>
-_election results_: <em>2020: </em>Surangel WHIPPS, Jr. elected president (in second round); percent of vote - Surangel WHIPPS, Jr. (independent) 56.7%, Raynold OILUCH (independent) 43.3%<br><br><em>2016:</em> Tommy REMENGESAU reelected president; percent of vote - Tommy REMENGESAU (independent) 51.3%, Surangel WHIPPS, Jr.(independent) 48.7%; Antonio BELLS elected vice president<br>
+_election results_: <br><em>2020: </em>Surangel WHIPPS, Jr. elected president in second round; percent of vote - Surangel WHIPPS, Jr. (independent) 56.7%, Raynold OILUCH (independent) 43.3%<br><br><em>2016:</em> Tommy REMENGESAU reelected president; percent of vote - Tommy REMENGESAU (independent) 51.3%, Surangel WHIPPS, Jr.(independent) 48.7%; Antonio BELLS elected vice president<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Olbiil Era Kelulau consists of:<br>Senate (13 seats; members directly elected in single-seat constituencies by majority vote to serve 4-year terms)<br>House of Delegates (16 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
@@ -327,7 +327,7 @@ _email address and website_: <br>info@palauembassy.org<br><br>https://www.palaue
 _consulate(s)_: Tamuning (Guam)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires James BOUGHNER (since September 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires James BOUGHNER (since 9 September 2022)<br>
 _embassy_: Omsangel/Beklelachieb, Airai 96940<br>
 _mailing address_: 4260 Koror Place, Washington, DC&nbsp; 20521-4260<br>
 _telephone_: [680] 587-2920<br>

@@ -321,7 +321,7 @@ _email address and website_: <br>dcmission@fsmembassy.fm<br><br>https://fsmembas
 _consulate(s) general_: Honolulu, Portland (OR), Tamuning (Guam)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;Carmen G. CANTOR&nbsp;(since 31 January 2020)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Alissa M. BIBB (since 4 August 2023)<br>
 _embassy_: 1286 US Embassy Place, Kolonia, Pohnpei, FM 96941<br>
 _mailing address_: 4120 Kolonia Place, Washington, D.C. 20521-4120<br>
 _telephone_: [691] 320-2187<br>

@@ -282,7 +282,7 @@ _chief of state_: President of China XI Jinping (since 14 March 2013)<br>
 _head of government_: Chief Executive John LEE Ka-chieu (since 1 July 2022)<br>
 _cabinet_: Executive Council or ExCo appointed by the chief executive<br>
 _elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 10 March 2023 (next to be held in March 2028); chief executive indirectly elected by the Election Committee and appointed by the PRC Government for a 5-year term (eligible for a second term); election last held on 8 May 2022 (next to be held in 2027)<br>
-_election results_: <em>2022</em>: John LEE was the only candidate and won with over 99% of the vote by the Election Committee<br><br><em>2017</em>: Election Committee vote - Carrie LAM (non-partisan) 777, John TSANG (non-partisan) 365, WOO Kwok-hing (non-partisan) 21, 23 ballots rejected (1,186 votes cast)<br>
+_election results_: <br><em>2022: John LEE was the only candidate and won with over 99% of the vote by the Election Committee<br><br><em>2017</em>: Election Committee vote - Carrie LAM (non-partisan) 777, John TSANG (non-partisan) 365, WOO Kwok-hing (non-partisan) 21, 23 ballots rejected (1,186 votes cast)</em><br>
 <strong>note:</strong> electoral changes that Beijing imposed in March 2021 expanded the Election Committee to 1,500 members<br>
 
 **Legislative branch**<br>
@@ -441,9 +441,10 @@ $24.092 billion (2020 est.)<br>
 $21.23 billion (2019 est.)<br>
 
 **Exports**<br>
-$751.26 billion (2021 est.) note: data are in current year dollars<br>
-$608.159 billion (2020 est.) note: data are in current year dollars<br>
-$645.007 billion (2019 est.) note: data are in current year dollars<br>
+$751.26 billion (2021 est.)<br>
+$608.159 billion (2020 est.)<br>
+$645.007 billion (2019 est.)<br>
+note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 23%, India 14%, Netherlands 6%, United Kingdom 5% (2019)<br>

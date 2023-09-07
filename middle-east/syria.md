@@ -332,7 +332,7 @@ _chief of state_: President Bashar al-ASAD (since 17 July 2000); Vice President 
 _head of government_: Prime Minister Hussein ARNOUS (since 30 August 2020); Deputy Prime Minister Ali Abdullah AYOUB (Lt. Gen.) (since 30 August 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 26 May 2021 (next to be held in 2028); the president appoints the vice president, prime minister, and deputy prime minister<br>
-_election results_: <em>2021: </em>Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party) 95.2%, Mahmoud Ahmad MAREI (Democratic Arab Socialist Union) 3.3%, other1.5%<br>
+_election results_: <em> </em>Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party) 95.2%, Mahmoud Ahmad MAREI (Democratic Arab Socialist Union) 3.3%, other1.5%<br>
 
 **Legislative branch**<br>
 _description_: unicameral People's Assembly or Majlis al-Shaab (250 seats; members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms)<br>

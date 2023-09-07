@@ -331,7 +331,7 @@ _chief of state_: President Stevo PENDAROVSKI (since 12 May 2019)<br>
 _head of government_: Prime Minister Dimitar KOVACEVSKI (since 16 January 2022)<br>
 _cabinet_: Council of Ministers elected by the Assembly by simple majority vote<br>
 _elections/appointments_: president directly elected using a modified 2-round system; a candidate can only be elected in the first round with an absolute majority from all registered voters; in the second round, voter turnout must be at least 40% for the result to be deemed valid; president elected for a 5-year term (eligible for a second term); election last held on 21 April and 5 May 2019 (next to be held in 2024); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the Assembly; Dimitar KOVACEVSKI elected prime minister by the Assembly on 16 January 2022; Assembly vote - NA<br>
-_election results_: <em><br>2019:</em> Stevo PENDAROVSKI elected president in second round; percent of vote in first round - Stevo PENDAROVSKI (SDSM) 44.8%, Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 44.2%, Blenim REKA (independent) 11.1%; percent of vote in second round - Stevo PENDAROVSKI 53.6%, Gordana SILJANOVSKA-DAVKOVA 46.4%<br><br><em>2014:</em> Gjorge IVANOV reelected president in second round; percent of vote in first round - Gjorge IVANOV (VMRO-DPMNE) 53.1%, Stevo PENDAROVSKI (SDSM) 38.6%, Ilijaz HALIMI (DPA) 4.6%, Zoran POPOVSKI (GROM) 3.7%; percent of vote in second round - Gjorge IVANOV 57.3%, Stevo PENDAROVSKI (SDSM) 42.7%<br>
+_election results_: <em><br>2019:</em> Stevo PENDAROVSKI elected president in second round; percent of vote in first round - Stevo PENDAROVSKI (SDSM) 44.8%, Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 44.2%, Blenim REKA (independent) 11.1%; percent of vote in second round - Stevo PENDAROVSKI 53.6%, Gordana SILJANOVSKA-DAVKOVA 46.4%<br><br><em>2014:</em> Gjorge IVANOV reelected president in second round; percent of vote in first round - Gjorge IVANOV (VMRO-DPMNE) 53.1%, Stevo PENDAROVSKI (SDSM) 38.6%, Ilijaz HALIMI (DPA) 4.6%, Zoran POPOVSKI (GROM) 3.7%; percent of vote in second round - Gjorge IVANOV 57.3%, Stevo PENDAROVSKI 42.7%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly -&nbsp;Sobraine in Macedonian, Kuvend in Albanian (between 120 and 140 seats, currently 120; members directly elected in multi-seat constituencies by closed-list proportional representation vote; possibility of 3 directly elected in diaspora constituencies by simple majority vote provided there is sufficient voter turnout; members serve 4-year terms)<br>
@@ -687,7 +687,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,155 (Ukraine) (as of 23 July 2023)<br>
+_refugees (country of origin)_: 15,255 (Ukraine) (as of 22 August 2023)<br>
 _stateless persons_: 521 (2022)<br>
 <strong>note:</strong> 557,715 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
 

@@ -345,7 +345,7 @@ _chief of state_: President Katalin NOVAK (since 10 May 2022)<br>
 _head of government_: Prime Minister Viktor ORBAN (since 29 May 2010)<br>
 _cabinet_: Cabinet of Ministers proposed by the prime minister and appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 11 March 2022 (next to be held spring 2027); prime minister elected by the National Assembly on the recommendation of the president; election last held on 3 April 2022 (next to be held April or May 2027)<br>
-_election results_: <em>2022: </em>Katalin NOVAK (Fidesz) elected president; National Assembly vote - 137 to 51<em><br><br>2017:</em> Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39<br><br><em>2010:</em> Viktor ORBAN (Fidesz) reelected prime minister<br>
+_election results_: <br><em>2022: </em>Katalin NOVAK (Fidesz) elected president; National Assembly vote - 137 to 51<em><br><br>2017:</em> Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party-list proportional representation vote, using the D&rsquo;Hondt method; members serve 4-year terms)<br>
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 52,290 (Ukraine) (as of 20 August 2023)<br>
+_refugees (country of origin)_: 52,285 (Ukraine) (as of 29 August 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

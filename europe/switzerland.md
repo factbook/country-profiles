@@ -344,7 +344,7 @@ _chief of state_: President of the Swiss Confederation Alain BERSET (since 1 Jan
 _head of government_: President of the Swiss Confederation Alain BERSET (since 1 January 2023); Vice President Viola AMHERD (since 1 January 2023)<br>
 _cabinet_: Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) indirectly elected by the Federal Assembly for a 4-year term<br>
 _elections/appointments_: president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term; election last held on 8 December 2022 (next to be held in December 2023)<br>
-_election results_: <br><em>2022:  </em>Alain BERSET elected president for 2023; Federal Assembly vote - Alain BERSET (SP) 140 OF 181; Viola AMHERD (The Center) elected vice president; Federal assembly vote - 207 of 223 <em><br><br>2021:</em> Ignazio CASSIS elected president for 2022; Federal Assembly vote - Ignazio CASSIS (FDP.The Liberals) 156 of 197 votes; Alain BERSET (SP) elected vice president; Federal Assembly vote - 158 of 204<br><br><em>2020:</em> Guy PARMELIN elected president for 2021; Federal Assembly vote - Guy PARMELIN (SVP) 188 of 202 votes; Ignazio CASSIS (FDP.The Liberals) elected vice president; Federal Assembly vote - 162 of 191 <p> </p><br>
+_election results_: <br><em>2022:  </em>Alain BERSET elected president for 2023; Federal Assembly vote - Alain BERSET (SP) 140 OF 181; Viola AMHERD (The Center) elected vice president; Federal assembly vote - 207 of 223 <em><br><br>2021:</em> Ignazio CASSIS elected president for 2022; Federal Assembly vote - Ignazio CASSIS (FDP.The Liberals) 156 of 197 votes; Alain BERSET (SP) elected vice president; Federal Assembly vote - 158 of 204<br><br> <p> </p><br>
 
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in two-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons, which use list proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 194 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms)<br>
@@ -743,7 +743,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,500 (Ukraine) (as of 15 August 2023)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,780 (Ukraine) (as of 30 August 2023)<br>
 _stateless persons_: 891 (2022)<br>
 
 **Illicit drugs**<br>

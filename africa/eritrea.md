@@ -192,7 +192,6 @@ _unimproved: total_: total: 84.3% of population (2017 est.)<br>
 _degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria and dengue fever<br>
-<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Eritrea is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 5% (2016)<br>
@@ -326,7 +325,7 @@ _chief of state_: President ISAIAS Afwerki (since 24 May 1993); note - the presi
 _head of government_: President ISAIAS Afwerki (since 8 June 1993)<br>
 _cabinet_: State Council appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term), according to the constitution; the only election held was&nbsp;on 24 May 1993, following independence from Ethiopia (next postponed indefinitely)<br>
-_election results_: <em><br></em>ISAIAS Afwerki elected president by the transitional National Assembly; percent of National Assembly vote - ISAIAS  Afwerki (PFDJ) 95%, other 5%<br>
+_election results_: ISAIAS Afwerki elected president by the transitional National Assembly; percent of National Assembly vote - ISAIAS Afwerki (PFDJ) 95%, other 5%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (Hagerawi Baito) (150 seats; 75 members directly elected by simple majority vote and 75 members indirectly elected by the ruling party; members serve 5-year terms)<br>

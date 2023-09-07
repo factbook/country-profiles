@@ -306,7 +306,7 @@ _chief of state_: President Salva KIIR Mayardit (since 9 July 2011); Vice Presid
 _head of government_: President Salva KIIR Mayardit (since 9 July 2011); Vice Presidents TABAN Deng Gai, Riek MACHAR Teny Dhurgon, James Wani IGGA, Rebecca Nyandeng Chol GARANG de Mabior, Hussein ABDELBAGI Ayii (since 22 February 2020)<br>
 _cabinet_: National Council of Ministers appointed by the president, approved by the Transitional National Legislative Assembly<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11-15 April 2010 (originally scheduled for 2015 but postponed several times, currently in 2024)<br>
-_election results_: <em><br>2010</em>: Salva KIIR Mayardit elected leader of then-Southern Sudan in 2010; percent of vote - Salva KIIR Mayardit (SPLM) 93%, Lam AKOL (SPLM-DC) 7%<br>
+_election results_: Salva KIIR Mayardit elected leader of then-Southern Sudan in 2010; percent of vote - Salva KIIR Mayardit (SPLM) 93%, Lam AKOL (SPLM-DC) 7%<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Legislature consists of:<br>Council of States, pending establishment as stipulated by the 2018 peace deal<br>Transitional National Legislative Assembly (TNLA), established on 4 August 2016, in accordance with the August 2015 Agreement on the Resolution of the Conflict in the Republic of South Sudan; note - originally 400 seats; the TNLA was expanded to 550 members from 400 and reestablished in May 2020 under the 2018 peace agreement<br>

@@ -82,7 +82,7 @@ _noun_: Marshallese (singular and plural)<br>
 _adjective_: Marshallese<br>
 
 **Ethnic groups**<br>
-Marshallese 92.1%, mixed Marshallese 5.9%, other 2% (2006 est.)<br>
+Marshallese 95.6%, Filipino 1.1%, other 3.3% (2021 est.)<br>
 
 **Languages**<br>
 Marshallese (official) 98.2%, other languages 1.8% (1999 est.)<br>
@@ -90,7 +90,7 @@ _major-language sample(s)_: <p><br>Bok eo an Lalin kin Melele ko Rejimwe ej jiki
 <strong>note:</strong> English (official), widely spoken as a second language<br>
 
 **Religions**<br>
-Protestant 80.5% (United Church of Christ 47%, Assembly of God 16.2%, Bukot Nan Jesus 5.4%, Full Gospel 3.3%, Reformed Congressional Church 3%, Salvation Army 1.9%, Seventh Day Adventist 1.4%, Meram in Jesus 1.2%, other Protestant 1.1%), Roman Catholic 8.5%, Church of Jesus Christ 7%, Jehovah's Witness 1.7%,&nbsp; other 1.2%, none 1.1% (2011 est.)<br>
+Protestant 79.3% (United Church of Christ 47.9%, Assembly of God 14.1%, Full Gospel 5%, Bukot Nan Jesus 3%, Salvation Army 2.3%, Reformed Congressional Church 2.2%, Seventh Day Adventist 1.7%, New Beginning Church 1.4%, other Protestant 1.6%), Roman Catholic 9.3%, Church of Jesus Christ 5.7%, Jehovah's Witness 1.3%, other 3.3%, none 1.1% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 30.65% (male 12,642/female 12,175)<br>
@@ -334,7 +334,7 @@ _email address and website_: <br>info@rmiembassyus.org<br><br>https://www.rmiemb
 _consulate(s) general_: Honolulu, Springdale (AR)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Roxanne CABRAL (since 6 February 2020)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Lance POSEY (since 18 August 2023)<br>
 _embassy_: Mejen Weto, Ocean Side, Majuro<br>
 _mailing address_: 4380 Majuro Place, Washington DC&nbsp; 20521-4380<br>
 _telephone_: [692] 247-4011<br>
@@ -581,4 +581,8 @@ defense is the responsibility of the US<br><br>the Marshall Islands have a "ship
 
 **Disputes - international**<br>
 <p><em>Marshall Islands-US</em>: claims US territory of Wake Island; the Marshall Islands put its claim on record with the UN in 2016</p> <p> </p><br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List &mdash; Marshall Islands does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials identified a labor trafficking victim, conducted awareness-raising activities, and continued to investigate a government official allegedly complicit in trafficking; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; the government did not prosecute any traffickers for the third consecutive year and has not convicted any traffickers since 2011; officials did not use standard operating procedures to identify trafficking victims and penalized victims for immigration offenses committed as a direct result of being trafficked; law enforcement officials, who have a limited understanding of trafficking, did not receive anti-trafficking training, nor did the government provide adequate financial and technical resources for anti-trafficking efforts; therefore, Marshall Islands was downgraded to Tier 2 Watch List (2023)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in the Marshall lslands, as well as Marshallese victims abroad; traffickers, including hotel and bar staff and family members, recruit and transport Marshallese and East Asian women and girls and exploit them in sex trafficking in the Marshall Islands with foreign construction workers and crew members of foreign fishing and commercial ships; traffickers exploit some foreign fishermen under conditions indicative of forced labor on ships in Marshallese waters; foreign women, including some Chinese nationals, are recruited with promises of work, are forced into commercial sex in establishments frequented by crew members of China-affiliated and other foreign fishing vessels; traffickers exploit Chinese nationals in Chinese-owned businesses; some wealthier or more powerful family members use traditional cultural practices to exploit impoverished Marshallese from outer Islands to serve as indentured labor; limited reports indicate some Marshallese searching for work in the US experience indicators of trafficking, such as passport confiscation, excessive work hours, and fraudulent recruitment, while some Marshallese children are transported to the US and exploited in situations of sexual abuse with indicators of sex trafficking (2023)<br>
 

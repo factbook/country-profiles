@@ -309,7 +309,7 @@ _chief of state_: President Christine KANGALOO (since 20 March 2023)<br>
 _head of government_: Prime Minister Keith ROWLEY (since 9 September 2015)<br>
 _cabinet_: Cabinet appointed from among members of Parliament<br>
 _elections/appointments_: president indirectly elected by an electoral college of selected Senate and House of Representatives members for a 5-year term (eligible for a second term); election last held on 20 January 2023 (next to be held by February 2028); the president usually appoints the leader of the majority party in the House of Representatives as prime minister<br>
-_election results_: Christine KANGALOO (PNM) elected president by the electoral college on 20 January 2023; Christine KANGALOO received 48 votes against 22 votes for opposition candidate Israel KHAN (UNC)<br>
+_election results_: Christine KANGALOO elected president by the electoral college on 20 January 2023; Christine KANGALOO (PNM) - 48 votes, Israel KHAN (UNC) 22&nbsp;<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives (42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)<br>

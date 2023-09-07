@@ -80,14 +80,14 @@ _noun_: Nauruan(s)<br>
 _adjective_: Nauruan<br>
 
 **Ethnic groups**<br>
-Nauruan 88.9%, part Nauruan 6.6%, I-Kiribati 2%, other 2.5% (2007 est.)<br>
+Nauruan 94.6%, I-Kiribati 2.2%, Fijian 1.3%, other 1.9% (2021 est.)<br>
 
 **Languages**<br>
 Nauruan 93% (official, a distinct Pacific Island language), English 2% (widely understood, spoken, and used for most government and commercial purposes), other 5% (includes Gilbertese 2% and Chinese 2%) (2011 est.)<br>
 <strong>note:</strong> data represent main language spoken at home; Nauruan is spoken by 95% of the population, English by 66%, and other languages by 12%<br>
 
 **Religions**<br>
-Protestant 60.4% (includes Nauru Congregational 35.7%, Assembly of God 13%, Nauru Independent Church 9.5%, Baptist 1.5%, and Seventh Day Adventist 0.7%), Roman Catholic 33%, other 3.7%, none 1.8%, unspecified 1.1% (2011 est.)<br>
+Protestant 60.4% (Nauruan Congregational 34.7%, Assemblies of God 11.6%, Pacific Light House 6.3%, Nauru Independent 3.6%, Baptist 1.5, Seventh Day Adventist 1.3%, other Protestant 1.4%), Roman Catholic 33.9%, other 4.2%, none 1.3%, no answer 0.3% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 30.13% (male 1,513/female 1,455)<br>
@@ -288,7 +288,7 @@ _chief of state_: President Russ KUN (since 28 September 2022); note - the presi
 _head of government_: President Russ KUN (since 28 September 2022)<br>
 _cabinet_: Cabinet appointed by the president from among members of Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament (eligible for a second term); election last held on 28 September 2022 (next to be held in 2025)<br>
-_election results_: <p>Russ KUN elected president unopposed</p><br>
+_election results_: Russ KUN elected president unopposed<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (19 seats; members directly elected in multi-seat constituencies by majority vote using the "Dowdall" counting system by which voters rank candidates on their ballots; members serve 3-year terms)<br>

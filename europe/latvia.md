@@ -332,7 +332,7 @@ _chief of state_: President Egils LEVITS (since 8 July 2019)<br>
 _head of government_: Prime Minister vacant (as of 17 August 2023); note - Krisjanis KARINS stepped down on 17 August 2023<br>
 _cabinet_: Cabinet of Ministers nominated by the prime minister, appointed by Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament for a 4-year term (eligible for a second term); election last held on 29 May 2019 (next to be held in 2023); prime minister appointed by the president, confirmed by Parliament<br>
-_election results_: <em>2019:</em> Egils LEVITS elected president; Parliament vote - Egils LEVITS 61, Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39<br><br><em>2015: </em>Raimonds VEJONIS elected president; Parliament vote - Raimonds VEJONIS (Latvian Green Party) 55, Egils LEVITS (NA) 42<br>
+_election results_: <em><br>2019:</em> Egils LEVITS elected president; Parliament vote - Egils LEVITS 61, Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39<br><br><em>2015: </em>Raimonds VEJONIS elected president; Parliament vote - Raimonds VEJONIS (Latvian Green Party) 55, Egils LEVITS (NA) 42<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms)<br>

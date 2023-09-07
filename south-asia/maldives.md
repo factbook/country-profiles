@@ -328,7 +328,7 @@ _chief of state_: President Ibrahim "Ibu" Mohamed SOLIH (since 17 November 2018)
 _head of government_: President Ibrahim "Ibu" Mohamed SOLIH (since 17 November 2018); Vice President Faisal NASEEM (since 17 November 2018)<br>
 _cabinet_: Cabinet of Ministers appointed by the president, approved by Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 September 2018 (next to be held on 9 September 2023)<br>
-_election results_: <em>2018:</em> Ibrahim Mohamed SOLIH elected president (in single round); Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%<br>
+_election results_: Ibrahim Mohamed SOLIH elected president in first round; Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or People's Majlis (87 seats - includes 2 seats added by the Elections Commission in late 2018; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>

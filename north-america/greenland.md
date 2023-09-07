@@ -275,10 +275,10 @@ _chief of state_: Queen MARGRETHE II of Denmark (since 14 January 1972), represe
 _head of government_: Premier Mute B. EGEDE (since 23 April 2021)<br>
 _cabinet_: Self-rule Government (Naalakkersuisut) elected by the Parliament (Inatsisartut)<br>
 _elections/appointments_: the monarchy is hereditary; high commissioner appointed by the monarch; premier indirectly elected by Parliament for a 4-year term<br>
-_election results_: <em><br>2021:</em> Mute B. EGEDE elected premier; Parliament vote - Mute B. EGEDE 20-0<br><br><em>2014:</em> Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (S) 27.2%, Sara OLSVIG (IA) 25.5%, Randi Vestergaard EVALDSEN (D) 19.5%, other 27.8%<br>
+_election results_: <em><br>2021:</em> Mute B. EGEDE elected premier; Parliament vote - Mute B. EGEDE (Inuit Ataqatigiit) unanimous<br><br><em>2014:</em> Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (S) 27.2%, Sara OLSVIG (IA) 25.5%, Randi Vestergaard EVALDSEN (D) 19.5%, other 27.8%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Inatsisartut (31 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote  - using the d'Hondt method - to serve 4-year terms)<br>Greenland elects 2 members to the Danish Parliament to serve 4-year terms<br>
+_description_: unicameral Parliament or Inatsisartut (31 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote - by the d'Hondt method - to serve 4-year terms)<br>Greenland elects 2 members to the Danish Parliament to serve 4-year terms<br>
 _elections_: Greenland Parliament - last held on 6 April 2021 (next to be held in 2025)<br>Greenland members to Danish Parliament - last held on 5 June 2019 (next to be held by 4 June 2023)<br>
 _election results_: Greenland Parliament - percent of vote by party - IA 38.7%, S 32.2%, N 12.9%, D 9.7%, A 6.5%; seats by party - IA 12, S 10, N 4, D 3, A 2; composition - men 21, women 10, percent of women 32.2%<br><br>Greenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women<br>
 

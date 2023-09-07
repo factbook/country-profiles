@@ -284,7 +284,7 @@ PIF (observer), SPC, UPU<br>
 _embassy_: none (commonwealth in political union with the US) &nbsp; &nbsp; &nbsp;&nbsp;<br>
 
 **Flag description**<br>
-blue with a white, five-pointed star superimposed on a gray latte stone (the traditional foundation stone used in building) in the center, surrounded by a mwáár or head lei (wreath); blue symbolizes the Pacific Ocean, the star represents the Commonwealth; the latte stone and the Carolinian mwáár (head lei) represent elements of the native Chamorro culture; the mwáár is composed of the flowers from four flowering plants: flores mayo (<em>Plumeria</em>), ylang-ylang or langilang (<em>Cananga odorata</em>), angagha or peacock flower (<em>Caesalpinia pulcherrima</em>), and teibwo or Pacific basil (<em>Ocimum tenuiflorum</em>)<br>
+blue with a white, five-pointed star superimposed on a gray latte stone (the traditional foundation stone used in building) in the center, surrounded by a mwáár or head lei (wreath); blue symbolizes the Pacific Ocean, the star represents the Commonwealth; the Chamorro latte stone and the Carolinian mwáár (head lei) represent elements of Marianas culture; the mwáár is composed of the flowers from four flowering plants: flores mayo (<em>Plumeria</em>), ylang-ylang or langilang (<em>Cananga odorata</em>), angagha or peacock flower (<em>Caesalpinia pulcherrima</em>), and teibwo or Pacific basil (<em>Ocimum tenuiflorum</em>)<br>
 
 **National symbol(s)**<br>
 latte stone; national colors: blue, white<br>

@@ -2,6 +2,11 @@ _Europe / Countries_
 
 # Andorra
 
+## Introduction
+
+**Background**<br>
+<p>The Moorish invasion of Spain in the 8th century and subsequent incursions into France were finally stemmed at the Pyrenees by Frankish King Charlemagne, who in 795 created the Hispanic March, a series of buffer states to keep the Muslim Moors from advancing into Christian France. The landlocked Principality of Andorra, one of the smallest states in Europe and nestled high in the Pyrenees between the French and Spanish borders, is the last independent survivor of these March states. For 715 years, from 1278 to 1993, Andorrans lived under a unique coprincipality, ruled by French and Spanish leaders (from 1607 onward, the French chief of state and the Bishop of Urgell). In 1993, this feudal system was modified with the introduction of a modern constitution; the co-princes remained as titular heads of state, but the government transformed into a parliamentary democracy.</p> <p>Andorra has become a popular tourist destination visited by approximately 8 million people each year drawn by the winter sports, summer climate, and duty-free shopping. Andorra has also become a wealthy international commercial center because of its mature banking sector and low taxes. As part of its effort to modernize its economy, Andorra has opened to foreign investment, and engaged in other reforms, such as advancing tax initiatives aimed at supporting a broader infrastructure. Although not a member of the EU, Andorra enjoys a special relationship with the bloc that is governed by various customs and cooperation agreements and uses the euro as its national currency.</p><br>
+
 ## Geography
 
 **Location**<br>
@@ -64,11 +69,6 @@ avalanches<br>
 
 **Geography - note**<br>
 landlocked; straddles a number of important crossroads in the Pyrenees<br>
-
-## Introduction
-
-**Background**<br>
-<p>The Moorish invasion of Spain in the 8th century and subsequent incursions into France were finally stemmed at the Pyrenees by Frankish King Charlemagne, who in 795 created the Hispanic March, a series of buffer states to keep the Muslim Moors from advancing into Christian France. The landlocked Principality of Andorra, one of the smallest states in Europe and nestled high in the Pyrenees between the French and Spanish borders, is the last independent survivor of these March states. For 715 years, from 1278 to 1993, Andorrans lived under a unique coprincipality, ruled by French and Spanish leaders (from 1607 onward, the French chief of state and the Bishop of Urgell). In 1993, this feudal system was modified with the introduction of a modern constitution; the co-princes remained as titular heads of state, but the government transformed into a parliamentary democracy.</p> <p>Andorra has become a popular tourist destination visited by approximately 8 million people each year drawn by the winter sports, summer climate, and duty-free shopping. Andorra has also become a wealthy international commercial center because of its mature banking sector and low taxes. As part of its effort to modernize its economy, Andorra has opened to foreign investment, and engaged in other reforms, such as advancing tax initiatives aimed at supporting a broader infrastructure. Although not a member of the EU, Andorra enjoys a special relationship with the bloc that is governed by various customs and cooperation agreements and uses the euro as its national currency.</p><br>
 
 ## People and Society
 
@@ -299,7 +299,7 @@ _chief of state_: Co-prince Emmanuel MACRON (since 14 May 2017); represented by 
 _head of government_: Xavier Espot ZAMORA (since 16 May 2019)<br>
 _cabinet_: Executive Council of 12 ministers designated by the head of government<br>
 _elections/appointments_: head of government indirectly elected by the General Council (Andorran parliament), formally appointed by the co-princes for a 4-year term; election last held on 2 April 2023 (next to be held in April 2027); the leader of the majority party in the General Council is usually elected head of government<br>
-_election results_: <em><br>2023: </em>Xaviar Espot ZAMORA (DA) re-elected head of government; percent of General Council vote - 57.1%<em><br>2019:</em>  Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7<br>
+_election results_: <em><br>2023: </em>Xaviar Espot ZAMORA (DA) re-elected head of government; percent of General Council vote - 57.1%<br><em><br>2019:</em>  Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7<br>
 
 **Legislative branch**<br>
 _description_: unicameral General Council of the Valleys or Consell General de les Valls (a minimum of 28 seats; 14 members directly elected in two-seat constituencies (7 parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - voters cast two separate ballots - one for a national list and one for a parish list<br>

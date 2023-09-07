@@ -340,7 +340,7 @@ _chief of state_: President Ranil WICKREMESINGHE (since 20 July 2022); the presi
 _head of government_: President Ranil WICKREMESINGHE (since 20 July 2022)<br>
 _cabinet_: Cabinet appointed by the president in consultation with the prime minister<br>
 _elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 16 November 2019 (next to be held in 2024); prime minister appointed by the president from among members of Parliament for a 5-year term)<br>
-_election results_: Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; WICKREMESINGHE 134 votes, Dullas ALAHAPPERUNA 82 votes<br>
+_election results_: Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; Parliament vote - WICKREMESINGHE (UNP) 134, Dullas ALAHAPPERUNA (SLPP) 82<br>
 <strong>Note</strong>: amid public protests which began in March 2022, President Gotabaya RAJAPAKSE fled the country on 13 July and Ranil WICKREMESINGHE became acting president; RAJAPAKSE announced his resignation on the 14th, which was accepted by the speaker of Parliament the following day<br>
 
 **Legislative branch**<br>
@@ -712,7 +712,7 @@ the military is responsible for external defense and may be called upon to handl
 ## Space
 
 **Space agency/agencies**<br>
-Sri Lanka Aeronautics and Space Agency (SLASA; established 2019); Space Applications Division of the Arthur C. Clark Institute for Modern Technologies (ACCIMT; created 1984) (2023)<br>
+Sri Lanka Aeronautics and Space Agency (SLASA; established 2019); Space Applications Division of the Arthur C. Clarke Institute for Modern Technologies (ACCIMT; created 1984) (2023)<br>
 
 **Space program overview**<br>
 has a small space program focused on acquiring satellites and conducting research and development in space-related technologies, such as electronics, telecommunications, information technology, and robotics; has cooperated with the space agencies or industries of China, France, India, Japan, and the US (2023)<br>

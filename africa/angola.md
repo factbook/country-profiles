@@ -344,7 +344,7 @@ _chief of state_: President Joao Manuel Goncalves LOURENCO (since 15 September 2
 _head of government_: President Joao Manuel Goncalves LOURENCO (since 15 September 2022); Vice President Esperanca Francisco DA COSTA (since 15 September 2022)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 24 August 2022 (next to be held in 2027)<br>
-_election results_: <br>Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 24 August 2022 general election<br>
+_election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 24 August 2022 general election<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)<br>

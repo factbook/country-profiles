@@ -266,7 +266,7 @@ _chief of state_: Lord of Mann King CHARLES III (since 8 September 2022); repres
 _head of government_: Chief Minister Alfred CANNAN (since 12 October 2021)<br>
 _cabinet_: Council of Ministers appointed by the lieutenant governor<br>
 _elections/appointments_: the monarchy is hereditary; lieutenant governor appointed by the monarch; chief minister indirectly elected by the Tynwald for a 5-year term (eligible for second term); election last held on 23 September 2021 (next to be held in 2026)<br>
-_election results_: <em>2021:</em> Alfred CANNAN (independent) elected chief minister; Tynwald House of Keys vote - 21 of 24<br><br><em>2016:</em> Howard QUAYLE elected chief minister; Tynwald House of Keys vote - 21 of 33<br>
+_election results_: <em><br>2021:</em> Alfred CANNAN (independent) elected chief minister; Tynwald House of Keys vote - 21 of 24<br><br><em>2016:</em> Howard QUAYLE elected chief minister; Tynwald House of Keys vote - 21 of 33<br>
 
 **Legislative branch**<br>
 _description_: bicameral Tynwald or the High Court of Tynwald consists of:<br>Legislative Council (11 seats; includes the President of Tynwald, 2 ex-officio (non-voting) members - the Lord Bishop of Sodor and Man and the attorney general - and 8 members indirectly elected by the House of Keys with renewal of 4 members every 2 years; elected members serve 4-year terms) <br>House of Keys (24 seats; 2 members each from 12 constituencies directly elected by simple majority vote to serve 5-year terms)<br>

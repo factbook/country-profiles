@@ -173,11 +173,6 @@ _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.9% of population (2020 est.)<br>
 
-**Major infectious diseases**<br>
-_degree of risk_: high (2020)<br>
-_food or waterborne diseases_: bacterial diarrhea<br>
-_vectorborne diseases_: malaria<br>
-
 **Obesity - adult prevalence rate**<br>
 55.9% (2016)<br>
 
@@ -326,21 +321,27 @@ _lyrics/music_: Tepaeru Te RITO/Thomas DAVIS<br>
 ## Economy
 
 **Economic overview**<br>
-high-income self-governing New Zealand territorial economy; tourism-based activity but diversifying; severely curtailed by COVID-19 pandemic; copra and tropical fruit exporter; recently received economic recovery support from Asian Development Bank<br>
+high-income self-governing New Zealand territorial economy; tourism-based activity but diversifying; severely curtailed by COVID-19 pandemic; copra and tropical fruit exporter; Asian Development Bank aid recipient<br>
 
 **Real GDP (purchasing power parity)**<br>
-$299.9 million (2016 est.)<br>
-$183.2 million (2015 est.)<br>
+$266 million (2022 est.)<br>
+$257 million (2021 est.)<br>
+$287 million (2020 est.)<br>
+<strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
-0.1% (2005 est.)<br>
+10.5% (2022 est.)<br>
+-24.5% (2021 est.)<br>
+-5.2% (2020 est.)<br>
 
 **Real GDP per capita**<br>
-$16,700 (2016 est.)<br>
-$9,100 (2005 est.)<br>
+$15,600 (2022 est.)<br>
+$15,100 (2021 est.)<br>
+$16,800 (2020 est.)<br>
+<strong>note:</strong> data are in 2015 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$299.9 million (2016 est.)<br>
+$336 million (2022 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.2% (2011 est.)<br>
@@ -399,7 +400,7 @@ $5.163 million (2010 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
-Japan 37%, Thailand 21%, France 17% (2019)<br>
+Japan 41%, France 18%, Thailand 16%, Greece 7%, China 6% (2021)<br>
 
 **Exports - commodities**<br>
 fish products, recreational boats, paintings, lobsters, tuna (2021)<br>
@@ -409,10 +410,10 @@ $109.3 million (2011 est.)<br>
 $90.62 million (2010 est.)<br>
 
 **Imports - partners**<br>
-New Zealand 41%, China 21%, Italy 12%, Fiji 10% (2019)<br>
+New Zealand 57%, Turkey 12%, Italy 11%, Israel 5%, Fiji 4% (2021)<br>
 
 **Imports - commodities**<br>
-ships, refined petroleum, recreational boats, cars, flavored water (2019)<br>
+motorboats, refined petroleum, integrated circuits, lumber, cars, edible preparations, flavored water, beer (2021)<br>
 
 **Debt - external**<br>
 $141 million (1996 est.)<br>

@@ -204,7 +204,6 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note:</strong> on 22 March 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; The Gambia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 10.3% (2016)<br>
@@ -347,7 +346,7 @@ _chief of state_: President Adama BARROW (since 19 January 2022); Vice President
 _head of government_: President Adama BARROW (since 19 January 2022); Vice President Isatou TOURAY (since 15 March 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 4 December 2021 (next to be held in 2026); vice president appointed by the president<br>
-_election results_: <em><br>2021: </em>Adama BARROW reelected president; percent of vote - Adama BARROW (NPP) 53.2%, Ousainou DARBOE (UDP) 27.7%, Mamma KANDEH (GDC) 12.3%, other 6.8%<br><em>2016: </em>Adama BARROW elected president; percent of vote - Adama BARROW (Coalition 2016) 43.3%, Yahya JAMMEH (APRC) 39.6%, Mamma KANDEH (GDC) 17.1%<br>
+_election results_: <em><br>2021: </em>Adama BARROW reelected president; percent of vote - Adama BARROW (NPP) 53.2%, Ousainou DARBOE (UDP) 27.7%, Mamma KANDEH (GDC) 12.3%, other 6.8%<br><br><em>2016: </em>Adama BARROW elected president; percent of vote - Adama BARROW (Coalition 2016) 43.3%, Yahya JAMMEH (APRC) 39.6%, Mamma KANDEH (GDC) 17.1%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (58 seats; 53 members directly elected in single-seat constituencies by simple majority vote and 5 appointed by the president; members serve 5-year terms)<br>

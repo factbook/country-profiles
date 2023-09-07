@@ -367,7 +367,7 @@ _FAX_: [1] (202) 745-3679<br>
 _email address and website_: <br>info@pngembassy.org<br><br>http://www.pngembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Joe ZADROZNY (since 14 April 2022); note - also accredited to the Solomon Islands and Vanuatu<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Matthew BUNT (since 25 August 2023); note - also accredited to the Solomon Islands and Vanuatu<br>
 _embassy_: P.O. Box 1492, Port Moresby<br>
 _mailing address_: 4240 Port Moresby Place, Washington DC&nbsp; 20521-4240<br>
 _telephone_: [675] 308-2100<br>

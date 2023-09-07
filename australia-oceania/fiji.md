@@ -316,7 +316,7 @@ _chief of state_: President Ratu Wiliame KATONIVERE (since 12 November 2021)<br>
 _head of government_: Prime Minister Voreqe "Frank" BAINIMARAMA (since 22 September 2014)<br>
 _cabinet_: Cabinet appointed by the prime minister from among members of Parliament and is responsible to Parliament<br>
 _elections/appointments_: president elected by Parliament for a 3-year term (eligible for a second term); election last held on 22 October 2021 (next to be held in 2024); prime minister endorsed by the president<br>
-_election results_: <br>Ratu Wiliame KATONIVERE elected president; Wiliame KATONIVERE 28 votes, Teimumu KEPA 23 votes <br>
+_election results_: Ratu Wiliame KATONIVERE elected president; Wiliame KATONIVERE 28 votes, Teimumu KEPA 23 votes<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (55 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote to serve 4-year terms)<br>
@@ -342,7 +342,7 @@ _FAX_: [1] (202) 466-8325<br>
 _email address and website_: <br>info@FijiEmbassyDC.com<br><br>https://www.fijiembassydc.com/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Tony GREUBEL (since 20 January 2021); note - also accredited to Kiribati, Nauru, Tonga, and Tuvalu<br>
+_chief of mission_: Ambassador Marie DAMOUR (since 24 November 2022); note - also accredited to Kiribati, Nauru, Tonga, and Tuvalu<br>
 _embassy_: 158 Princes Road, Tamavua, Suva<br>
 _mailing address_: 4290 Suva Place, Washington DC&nbsp; 20521-4290<br>
 _telephone_: [679] 331-4466<br>
@@ -667,7 +667,7 @@ the RFMF is lightly armed and equipped; Australia has provided patrol boats and 
 18-25 years of age for voluntary military service; mandatory retirement at age 55 (2022)<br>
 
 **Military deployments**<br>
-170 Egypt (MFO); 165 Iraq (UNAMI); 150 Golan Heights (UNDOF) (2022)<br>
+170 Egypt (MFO); 160 Iraq (UNAMI); 150 Golan Heights (UNDOF) (2023)<br>
 
 **Military - note**<br>
 established in 1920,<strong> </strong>the RFMF is a small and lightly-armed force with a history of intervening in the country’s politics, including coups in 1987 and 2006, and a mutiny in 2000, and it continues to have significant political power; the RFMF is responsible for external security but can be assigned some domestic security responsibilities in specific circumstances; it also has a tradition of participating in UN peacekeeping operations, having sent troops on nearly 20 such missions since first deploying personnel  to South Lebanon in 1978; these deployments have offered experience and a source of financial support; the RFMF has an infantry regiment and a small naval element comprised of patrol boats <br><br>Fiji has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Fiji's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>

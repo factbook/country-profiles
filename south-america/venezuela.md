@@ -200,7 +200,6 @@ _unimproved: total_: total: 4.2% of population (2020 est.)<br>
 _degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
-<strong>note:</strong> as of 30 September 2021, the Centers for Disease Control and Prevention recommends that travelers avoid all nonessential travel to Venezuela; the country is experiencing outbreaks of infectious diseases, and adequate health care is currently not available in most of the country; there are shortages of food, water, electricity, medicine, and medical supplies that have contributed to an increasing humanitarian crisis affecting much of the country<br>
 
 **Obesity - adult prevalence rate**<br>
 25.6% (2016)<br>
@@ -336,8 +335,8 @@ _residency requirement for naturalization_: 10 years; reduced to five years in t
 _chief of state_: Notification Statement: the United States does not recognize Nicolas MADURO Moros as president of Venezuela<br><br>President Nicolas MADURO Moros (since 19 April 2013); Executive Vice President Delcy RODRIGUEZ Gomez (since 14 June 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Nicolas MADURO Moros (since 19 April 2013); Executive Vice President Delcy RODRIGUEZ Gomez (since 14 June 2018)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 20 May 2018 (next election in 2024)<br>
-_election results_: <br>2018: Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 68%, Henri FALCON (AP) 21%, Javier BERTUCCI 11%; note - the election was marred by serious shortcomings and electoral fraud; voter turnout was approximately 46% due largely to an opposition boycott of the election<br><br>2013: Nicolas MADURO Moros elected president; percent of vote - Nicolas MADURO Moros (PSUV) 50.6%, Henrique CAPRILES Radonski (PJ) 49.1%, other 0.3%<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 20 May 2018 (next to be held in 2024)<br>
+_election results_: <br>2018: Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 68%, Henri FALCON (AP) 21%, Javier BERTUCCI 11%; note - the election was reportedly marred by serious shortcomings and electoral fraud<br><br>2013: Nicolas MADURO Moros elected president; percent of vote - Nicolas MADURO Moros (PSUV) 50.6%, Henrique CAPRILES Radonski (PJ) 49.1%, other 0.3%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Asamblea Nacional (277 seats; 3 seats reserved for indigenous peoples of Venezuela; members serve 5-year terms); note - in 2020, the National Electoral Council increased the number of seats in the National Assembly from 167 to 277 for the 6 December 2020 election<br>

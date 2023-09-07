@@ -337,7 +337,7 @@ _chief of state_: President Petr PAVEL (since 9 March 2023)<br>
 _head of government_: Prime Minister Petr FIALA (since 17 December 2021); First Deputy Prime Minister Vit RAKUSAN (since 17 December 2021), Deputy Prime Ministers Marian JURECKA, Ivan BARTOS, Vlastimil VALEK (all since 17 December 2021)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 27-28 January 2023 the second round and 13-14 January 2023 for the 1st round; prime minister appointed by the president for a 4-year term<br>
-_election results_: <em><br>2023; </em>2nd Round Petr PAVEL 58.3%, Andrej BABIS 41.6%; 1st Round Petr PAVEL 35.4%, Andrej BABIS 35<em>%</em>, Danuse NERUDOVA 13.9%, Pavel FISCHER 6.8%<em><br><br>2018:</em> Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br><br><em>2013:</em> Milos ZEMAN elected president; percent of vote - Milos ZEMAN (SPO) 54.8%, Karel SCHWARZENBERG (TOP 09) 45.2%<br>
+_election results_: <em><br>2023; </em>2nd Round Petr PAVEL 58.3%, Andrej BABIS 41.6%; 1st Round Petr PAVEL 35.4%, Andrej BABIS 35<em>%</em>, Danuse NERUDOVA 13.9%, Pavel FISCHER 6.8%<em><br><br>2018:</em> Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br><br>Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)<br>
@@ -703,7 +703,7 @@ the Czech military has a mix of Soviet-era and more modern equipment, mostly of 
 <strong>note: </strong>as of 2019, women comprised about 13% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-up to 130 Lithuania (NATO); 130 Slovakia (NATO) (2022)<br>
+up to 130 Lithuania (NATO); 130 Slovakia (NATO) (2023)<br>
 <strong>note:</strong> in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
@@ -715,7 +715,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 363,195 (Ukraine) (as of 20 August 2023)<br>
+_refugees (country of origin)_: 364,885 (Ukraine) (as of 27 August 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

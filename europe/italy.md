@@ -333,7 +333,7 @@ _chief of state_: President Sergio MATTARELLA (since 3 February 2015)<br>
 _head of government_: Prime Minister Giorgia MELONI (since 22 October 2022); the prime minister's official title is President of the Council of Ministers<br>
 _cabinet_: Council of Ministers proposed by the prime minister, known officially as the President of the Council of Ministers and locally as the Premier; nominated by the president; the current deputy prime ministers, known officially as vice presidents of the Council of Ministers, are Matteo SALVINI (L) and Antonio TAIANI (FI) (since 22 October 2022)<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of both houses of Parliament and 58 regional representatives for a 7-year term (no term limits); election last held on 24-29 January 2022 (eight rounds) (next to be held in 2029); prime minister appointed by the president, confirmed by parliament<br>
-_election results_: <p><em>2022:</em> Sergio MATTARELLA (independent) reelected president; electoral college vote count in eighth round - 759 out of 1,009 (505 vote threshold)<br><br><em>2015: </em>Sergio MATTARELLA (independent) elected president; electoral college vote count in fourth round - 665 out of 995 (505 vote threshold)</p> <p> </p><br>
+_election results_: <br><em>2022:</em> Sergio MATTARELLA (independent) reelected president; electoral college vote count in eighth round - 759 out of 1,009 (505 vote threshold)<br><br><em>2015: </em>Sergio MATTARELLA (independent) elected president; electoral college vote count in fourth round - 665 out of 995 (505 vote threshold) <p> </p><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlamento consists of:<br>Senate or Senato della Repubblica (200 elected seats; 122 members in multi-seat constituencies directly elected by proportional representation vote, 74 members in single-seat constituencies directly elected by plurality vote, and 4 members in multi-seat constituencies abroad directly elected by proportional representation vote; all members serve 5-year terms)<br>Chamber of Deputies or Camera dei Deputati (400 seats; 245 members directly elected in multi-seat constituencies by proportional representation vote; 147 members directly elected in single-seat constituencies by plurality vote and 8 members in multi-seat constituencies abroad directly elected by proportional representation vote; members serve 5-year terms)<br>
@@ -746,9 +746,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 167,210 (Ukraine) (as of 4 August 2023)<br>
+_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 167,520 (Ukraine) (as of 11 August 2023)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 801,805 estimated refugee and migrant arrivals (January 2015-August 2023)<br>
+<strong>note:</strong> 801,699 estimated refugee and migrant arrivals (January 2015-August 2023)<br>
 
 **Illicit drugs**<br>
 <p>important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe</p><br>

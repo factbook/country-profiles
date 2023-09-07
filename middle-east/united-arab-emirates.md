@@ -323,7 +323,7 @@ _chief of state_: President MUHAMMAD BIN ZAYID Al-Nuhayyan (since 14 May 2022); 
 _head of government_: Prime Minister and Co-Vice President MUHAMMAD BIN RASHID Al-Maktum (since 5 January 2006); Deputy Prime Ministers SAIF bin Zayid Al-Nuhayyan, MANSUR bin Zayid Al-Nuhayyan (both since 11 May 2009), and MAKTUM bin Muhammad bin Rashid Al-Maktum (since 25 September 2021)<br>
 _cabinet_: Council of Ministers announced by the prime minister and approved by the president<br>
 _elections/appointments_: president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); unscheduled election held on 14 May 2022, following the death of President KHALIFA bin Zayid Al-Nuhayyan (next election NA); prime minister and deputy prime minister appointed by the president<br>
-_election results_: MUHAMMAD BIN ZAYID Al-Nuhayyan elected president; Federal Supreme Council vote NA<br>
+_election results_: MUHAMMAD BIN ZAYID Al-Nuhayyan elected president; Federal Supreme Council vote - NA<br>
 <strong>note:</strong> the Federal Supreme Council (FSC) is composed of the 7 emirate rulers and is the highest constitutional authority in the UAE; the FSC establishes general policies and sanctions federal legislation; meets 4 times a year; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) rulers have effective veto power<br>
 
 **Legislative branch**<br>

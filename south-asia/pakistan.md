@@ -360,10 +360,10 @@ _residency requirement for naturalization_: 4 out of the previous 7 years and in
 
 **Executive branch**<br>
 _chief of state_: President Arif ALVI (since 9 September 2018)<br>
-_head of government_: Interim Prime Minister Anwaar-ul-Haq KAKAR (since 14 August 2023); caretaker cabinet (since 17 August 2023)&nbsp;&nbsp;<br>
+_head of government_: Interim Prime Minister Anwaar-ul-Haq KAKAR (since 14 August 2023); caretaker cabinet (since 17 August 2023)<br>
 _cabinet_: Cabinet appointed by the president upon the advice of the prime minister<br>
 _elections/appointments_: president indirectly elected by the Electoral College consisting of members of the Senate, National Assembly, and provincial assemblies for a 5-year term (limited to 2 consecutive terms); election last held on 4 September 2018 (next to be held in 2023); prime minister elected by the National Assembly on 11 April 2022<br>
-_election results_: <p><em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br><br><em>2013:</em> Mamnoon HUSSAIN elected president; Mamnoon HUSSAIN (PML-N) 432 votes, Wajihuddin AHMED (PTI) 77 votes</p><br>
+_election results_: <br><em>2018:</em> Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br><br><em>2013:</em> Mamnoon HUSSAIN elected president; National Assembly vote - Mamnoon HUSSAIN (PML-N) 432, Wajihuddin AHMED (PTI) 77<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (100 seats; members indirectly elected by the 4 provincial assemblies and the federal capital territory indirectly elected by the National Assembly using proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>

@@ -360,7 +360,7 @@ _residency requirement for naturalization_: 3-5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Vladimir Vladimirovich PUTIN (since 7 May 2012); no vice president position&nbsp;<br>
+_chief of state_: President Vladimir Vladimirovich PUTIN (since 7 May 2012); no vice president position<br>
 _head of government_: Premier Mikhail MISHUSTIN (since 16 January 2020); First Deputy Premier Andrey Removich BELOUSOV (since 21 January 2020); Deputy Premiers Yuriy TRUTNEV (since 31 August 2013), Tatiana Alekseyevna GOLIKOVA (since 18 May 2018), Dmitriy Yuriyevich GRIGORENKO, Viktoriya Valeriyevna ABRAMCHENKO, Aleksey Logvinovich OVERCHUK, Marat Shakirzyanovich KHUSNULLIN, Dmitriy Nikolayevich CHERNYSHENKO (since 21 January 2020), Aleksandr NOVAK (since 10 November 2020), Denis Valentinovich MANTUROV (since 15 July 2022)<br>
 _cabinet_: the "Government" is composed of the premier, his deputies, and ministers, all appointed by the president; the premier is also confirmed by the Duma<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (2020 constitutional amendments allow a second consecutive term); election last held on 18 March 2018 (next to be held in March 2024); note - for the 2024 presidential election, previous presidential terms are discounted<br>

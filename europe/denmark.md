@@ -722,6 +722,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 41,305 (Ukraine) (as of 23 July 2023)<br>
+_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 39,680 (Ukraine) (as of 27 August 2023)<br>
 _stateless persons_: 11,644 (2022)<br>
 

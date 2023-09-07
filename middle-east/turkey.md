@@ -345,10 +345,10 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Recep Tayyip ERDOGAN (chief of state since 28 August 2014; head of government since 9 July 2018); Vice President Cevdet YILMAZ (since 3 June 2023); note - the president is both chief of state and head of government<br>
-_head of government_: President Recep Tayyip ERDOGAN (head of government since 9 July 2018; chief of state since 28 August 2014); note - a 2017 constitutional referendum eliminated the post of prime minister after the 2018 general election<br>
+_head of government_: President Recep Tayyip ERDOGAN (head of government since 9 July 2018; chief of state since 28 August 2014)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 May 2023 with a runoff on 28 May 2023 (next to be held in 2028)<br>
-_election results_: <p><em>2023: </em>Recep Tayyip ERDOGAN reelected in the second round; Recep Tayyip ERDOGAN (AKP) 52.2%, Kemal KILICDAROGLU (CHP) 47.8%<em><br><br>2018:</em> Recep Tayyip ERDOGAN reelected president in the first round; Recep Tayyip ERDOGAN (AKP) 52.6%, Muharrem INCE (CHP) 30.6%, Selahattin DEMIRTAS (HDP) 8.4%, Meral AKSENER (IYI) 7.3%, other 1.1%</p><br>
+_election results_: <em><br>2023: </em>Recep Tayyip ERDOGAN reelected in second round - Recep Tayyip ERDOGAN (AKP) 52.2%, Kemal KILICDAROGLU (CHP) 47.8%<em><br><br>2018:</em> Recep Tayyip ERDOGAN reelected president in first round - Recep Tayyip ERDOGAN (AKP) 52.6%, Muharrem INCE (CHP) 30.6%, Selahattin DEMIRTAS (HDP) 8.4%, Meral AKSENER (IYI) 7.3%, other 1.1%<br><br>
 
 **Legislative branch**<br>
 _description_: unicameral Grand National Assembly of Turkey or Turkey Buyuk Millet Meclisi (600 seats); members directly elected in multi-seat constituencies by closed party-list proportional representation vote, with a 10% threshold required to win a seat; members serve 5-year terms)<br>
@@ -755,7 +755,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 <p><em>Turkey-Armenia</em>: in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered;  in early 2022, the two countries held talks twice aimed at normalizing relations, which could lead to the opening of their land border, shut since 1993; in 2000, Turkish authorities complained to UNESCO that blasting from quarries in Armenia was damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p> <p><em>Turkey-Azerbaijan</em>: none identified</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece; the Aegean Maritime Boundary is complicated by the close proximity of Greek islands to the western shores of the Turkish Anatolian peninsula, representing the primary source of conflict between the two countries</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 3,312,209 (Syria), 43,955 (Ukraine) (as of 27 July 2023) (2023)<br>
+_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 3,298,817 (Syria), 43,670 (Ukraine) (as of 24 August 2023) (2023)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2021)<br>
 _stateless persons_: 117 (2018)<br>
 
