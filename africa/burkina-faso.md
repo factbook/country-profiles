@@ -695,7 +695,7 @@ the FABF has a mix of mostly older or secondhand equipment from a mix of supplie
 18-26 years of age for voluntary military service; no conscription; women may serve in supporting roles (2022)<br>
 
 **Military deployments**<br>
-650 (plus about 180 police) Mali (MINUSMA) (May 2022)<br>
+650 (plus about 200 police) Mali (MINUSMA) (2023)<br>
 <strong>note:</strong> Burkina Faso is part of a four (formerly five)-nation anti-jihadist task force known as the G4 Sahel Group, set up in 2014 with Chad, Mali (withdrew in 2022), Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; as of 2020, defense forces from each of the participating states were allowed to pursue terrorist fighters up to 100 km into neighboring countries; the force is backed by France, the UN, and the US<br>
 
 **Military - note**<br>
@@ -713,6 +713,6 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 <p>adding to illicit cross-border activities, Burkina Faso has issues concerning unresolved boundary alignments with its neighbors; demarcation is currently underway with Mali; the dispute with Niger was referred to the ICJ in 2010, and a dispute over several villages with Benin persists; Benin retains a border dispute with Burkina Faso around the town of Koualau/Kourou</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 35,860 (Mali) (2023)<br>
-_IDPs_: <p>1,761,915 (2022)</p><br>
+_refugees (country of origin)_: 36,372 (Mali) (2023)<br>
+_IDPs_: <p>2,062,534 (2023)</p><br>
 

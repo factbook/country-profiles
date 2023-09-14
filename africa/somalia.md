@@ -634,8 +634,8 @@ _major seaport(s)_: Berbera, Kismaayo<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Somali National Army (SNA); Ministry of Internal Security: Somali National Police (SNP, includes a maritime unit and a Turkish-trained commando unit known as Harmacad, or Cheetah); National Security and Intelligence Agency (includes a commando/counterterrorism unit) (2023)<br>
-<strong>note 1:</strong> Somalia has numerous militia (aka "macawisley") and regional forces operating throughout the country; these forces include ones that are clan- and warlord-based, semi-official paramilitary and special police forces (aka "darwish"), and externally-sponsored militias; the SNA is attempting to incorporate some of these militia units<br><br><strong>note 2: </strong>Somaliland has army and naval forces under the Somaliland Ministry of Defense and Armed Forces<br>
+Somali National Armed Forces (SNAF; aka Somali National Defense Force): Land Forces (Somali National Army or SNA), Somali Navy, Somali Air Force<br><br>Ministry of Internal Security: Somali National Police (SNP, includes Coast Guard and a commando unit known as Harmacad or Cheetah) <br><br>National Security and Intelligence Agency (includes a commando/counterterrorism unit) (2023)<br>
+<strong>note 1: </strong> the Somali Navy and Air Force have only a few hundred personnel, little equipment, and are not operational<br><br><strong>note 2:</strong> Somalia has numerous militia ("macawisley") and regional forces operating throughout the country; these forces include ones that are clan- and warlord-based, semi-official paramilitary and special police forces ("darwish"), and externally sponsored militias<br><br><strong>note 3: </strong>Somaliland and Puntland have separate military and security forces<br>
 
 **Military expenditures**<br>
 6% of GDP (2021 est.)<br>
@@ -645,7 +645,7 @@ Ministry of Defense: Somali National Army (SNA); Ministry of Internal Security: 
 5.9% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimates vary; up to 20,000 SNA personnel (2023)<br>
+estimates vary; approximately 18-20,000 regular military personnel (2023)<br>
 <strong>note 1:</strong> in January 2023, the Somali Government said the SNA would have 24,000 trained and equipped troops by 2024<br><br><strong>note 2:</strong> as of 2022, there were estimates of up to 50,000 militia forces operating in the country<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -675,5 +675,5 @@ al-Shabaab; Islamic State of Iraq and ash-Sham – Somalia<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 9,208 (Yemen) (2022)<br>
-_IDPs_: 2.968 million (civil war since 1988, clan-based competition for resources; famine; insecurity because of fighting between al-Shabaab and the Transitional Federal Government's allied forces) (2022)<br>
+_IDPs_: 3.864 million (civil war since 1988, clan-based competition for resources; famine; insecurity because of fighting between al-Shabaab and the Transitional Federal Government's allied forces) (2022)<br>
 

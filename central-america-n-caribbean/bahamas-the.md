@@ -293,7 +293,7 @@ _residency requirement for naturalization_: 6-9 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Cornelius A. SMITH (since 28 June 2019)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Cynthia A. PRATT (since 1 September 2023)<br>
 _head of government_: Prime Minister Philip DAVIS (since 17 September 2021)<br>
 _cabinet_: Cabinet appointed by governor general on recommendation of prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general; the prime minister recommends the deputy prime minister<br>

@@ -663,14 +663,13 @@ Armed Forces of Liberia (AFL): Army, Liberian Coast Guard, Air Wing; Ministry of
 0.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 active personnel (2022)<br>
+approximately 2,000 active personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military has a limited inventory; in recent years, it has received small quantities of equipment, including donations, from countries such as China and the US (2022)<br>
+the military has a limited inventory; in recent years, it has received small quantities of equipment, including donations, from countries such as China and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age for men and women for voluntary military service; no conscription (2022)<br>
-<strong>note:</strong> as of 2020, women made up less than 1% of the active military<br>
+18-35 years of age for men and women for voluntary military service; no conscription (2023)<br>
 
 **Military deployments**<br>
 160 Mali (MINUSMA) (2023)<br>

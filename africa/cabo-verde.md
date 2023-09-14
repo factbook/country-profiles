@@ -648,7 +648,7 @@ Cabo Verdean Armed Forces (FACV): Army (also called the National Guard, GN; incl
 0.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1,200 personnel including about 100 in the Coast Guard (2022)<br>
+the military has approximately 1,000-1,200 personnel&nbsp; (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FACV has a limited amount of mostly dated and second-hand equipment, largely from China, some European countries, and the former Soviet Union (2023)<br>

@@ -667,7 +667,8 @@ _total_: 30,000 km (2018)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and Air Defense Forces; National Guard; Ministry of Internal Affairs: Internal Troops (reserves for Armed Forces in wartime), police; State Committee on National Security: Border Guard Forces (2023)<br>
+Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and Air Defense Forces; National Guard<br><br>Ministry of Internal Affairs: Internal Troops (reserves for Armed Forces in wartime), police<br><br>State Committee on National Security: Border Guard Forces (2023)<br>
+<strong>note: </strong>the National Guard, formerly the Presidential Guard, is tasked with ensuring public safety and security, similar to the tasks of the Internal Troops; it also takes part in ceremonial duties<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2022 est.)<br>
@@ -677,10 +678,10 @@ Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and 
 2.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 9,500 active duty troops (8,000 Land and Mobile Forces; 1,500 Air and Air Defense Forces) (2022)<br>
+approximately 10,000 active-duty troops (8,000 Land and Mobile Forces; 2,000 Air and Air Defense Forces) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised of older Russian and Soviet-era equipment; it has received limited quantities of weapons systems in recent years, most of which was secondhand material from Russia (2021)<br>
+the military's inventory is comprised of older Russian and Soviet-era equipment; it has received limited quantities of weapons systems in recent years, most of which was secondhand material from Russia (2023)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory or voluntary military service for men; women may volunteer; 24-month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay a fee in order to avoid conscription (2023)<br>

@@ -687,9 +687,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,255 (Ukraine) (as of 22 August 2023)<br>
+_refugees (country of origin)_: 16,495 (Ukraine) (as of 3 September 2023)<br>
 _stateless persons_: 521 (2022)<br>
-<strong>note:</strong> 557,715 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
+<strong>note:</strong> 559,000 estimated refugee and migrant arrivals (January 2015-August 2023)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

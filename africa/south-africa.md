@@ -705,7 +705,7 @@ South Africa operates one PC 5 or 6 class light icebreaker<br>note - PC indicate
 ## Military and Security
 
 **Military and security forces**<br>
-South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services; Ministry of Police: South African Police Service (2023)<br>
+South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services<br><br>Ministry of Police: South African Police Service (2023)<br>
 <strong>note:</strong> the South African Police Service includes a Special Task Force for counterterrorism, counterinsurgency, and hostage rescue operations<br>
 
 **Military expenditures**<br>
@@ -716,17 +716,17 @@ South African National Defense Force (SANDF): South African Army (includes Reser
 1% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 75,000 active duty personnel (40,000 Army; 7,000 Navy; 10,000 Air Force; 8,000 Military Health Service; 10,000 other, including administrative, logistics, military police); 180,000 South African Police Service (2022)<br>
+approximately 75,000 active-duty personnel (40,000 Army; 7,000 Navy; 10,000 Air Force; 8,000 Military Health Service; 10,000 other, including administrative, logistics, military police); 180,000 South African Police Service (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SANDF's inventory consists of a mix of domestically produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly produced with foreign companies), while the Air Force and Navy inventories include a mix of European-, Israeli-, and US-origin weapons systems (2022)<br>
+the SANDF's inventory consists of a mix of domestically produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly produced with foreign companies), while the Air Force and Navy inventories include a mix of aging European-, Israeli-, and US-origin weapons and equipment; the SANDF has received only a limited number of imported weapons in recent years&nbsp; (2023)<br>
 
 **Military service age and obligation**<br>
 18-22 (18-26 for college graduates) years of age for voluntary military service for men and women; 2-year service obligation (2023)<br>
 <strong>note:</strong> in 2019, women comprised about 30% of the military<br>
 
 **Military deployments**<br>
-1,150 Democratic Republic of the Congo (MONUSCO); up to 1,500 Mozambique (part of a Southern African Development Community force to help quell an insurgency) (2022)<br>
+1,150 Democratic Republic of the Congo (MONUSCO); up to 1,500 Mozambique (part of a Southern African Development Community force to help quell an insurgency) (2023)<br>
 
 **Military - note**<br>
 the SANDF’s primary responsibilities include territorial and maritime defense, supporting the Police Service, protecting key infrastructure, and participating in international peacekeeping missions; the SANDF traditionally has been one of Africa’s most capable militaries, but in recent years its operational readiness and modernization programs have been hampered by funding shortfalls; it participates regularly in African and UN peacekeeping missions and is a member of the Southern Africa Development Community (SADC) Standby Force; in 2021, it sent approximately 1,500 troops to Mozambique as part of a multinational SADC force to help combat an insurgency, and South African forces are a key component of the UN’s Force Intervention Brigade in the Democratic Republic of the Congo; in recent years, the SANDF has been deployed internally to assist the Police Service with quelling unrest and to combat trafficking along the border<br><br>the Army in recent years has reorganized, and its combat forces are organized into 4 “modern” brigades, each designed for specific missions and responding to modern-day threats such as “asymmetric” warfare; the new brigades are separated into airborne, light infantry, mechanized, and motorized forces; the Navy operates a mixed force of warships, patrol craft, submarines, and support vessels; its principal combatants are 4 frigates and 3 attack submarines; the Navy also has a maritime rapid reaction squadron that includes naval infantry and combat divers; the Air Force has squadrons of multipurpose fighter, ground attack, and transport aircraft, as well as attack and transport helicopters<br><br>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands (2023)<br>

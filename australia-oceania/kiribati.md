@@ -366,7 +366,7 @@ _selected World Heritage Site locales_: Phoenix Islands Protected Area<br>
 ## Economy
 
 **Economic overview**<br>
-small, growing, environmentally fragile, Pacific island economy; major financial support from remittances, aid, and phosphate mining fund; tourism and fishing industries; poor business climate; inadequate anticorruption efforts; poor fiscal management<br>
+lower-middle income, Pacific island economy; environmentally fragile; sizable remittances; key phosphate mining fund; tourism and fishing industries; public sector-dominated economy; recent withdrawal from Pacific Islands Forum; ongoing constitutional crisis<br>
 
 **Real GDP (purchasing power parity)**<br>
 $249.64 million (2021 est.)<br>
@@ -463,7 +463,7 @@ $21.228 million (2020 est.) note: data are in current year dollars<br>
 $32.516 million (2019 est.)<br>
 
 **Exports - partners**<br>
-Thailand 53%, Philippines 17%, South Korea 10%, Japan 9% (2019)<br>
+Thailand 60%, Indonesia 11%, Philippines 10%, Japan 6%, South Korea 3% (2021)<br>
 
 **Exports - commodities**<br>
 skipjacks, tuna, fish fillets, ships, coconut oil, copra (2021)<br>
@@ -474,10 +474,10 @@ $148.77 million (2020 est.) note: data are in current year dollars<br>
 $177.149 million (2019 est.)<br>
 
 **Imports - partners**<br>
-China 20%, Fiji 19%, Australia 12%, Taiwan 11%, South Korea 11%, New Zealand 7%, Japan 5% (2019)<br>
+China 23%, Taiwan 16%, Fiji 16%, Australia 12%, New Zealand 6% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, netting, raw sugar, rice, poultry meats (2019)<br>
+fishing ships, beef, netting, poultry meat, rice, refined petroleum, sugar, refrigerators (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $0 (31 December 2017 est.)<br>

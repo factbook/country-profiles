@@ -664,7 +664,7 @@ _unpaved_: 16,100 km (2016)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Nepali Army (includes Air Wing)<br><br>Ministry of Home Affairs: Nepal Police, Nepal Armed Police Force (2023)<br>
+Nepalese Armed Forces (Ministry of Defense): Nepali Army (includes Air Wing)<br><br>Ministry of Home Affairs: Nepal Police, Nepal Armed Police Force (2023)<br>
 <strong>note: </strong>the Nepal Police are responsible for enforcing law and order across the country; the Armed Police Force is responsible for combating terrorism, providing security during riots and public disturbances, assisting in natural disasters, and protecting vital infrastructure, public officials, and the borders; it also conducts counterinsurgency and counterterrorism operations and would assist the Army in the event of an external invasion<br>
 
 **Military expenditures**<br>
@@ -675,17 +675,17 @@ Ministry of Defense: Nepali Army (includes Air Wing)<br><br>Ministry of Home Aff
 2.3% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 95,000 active troops (including a small air wing of about 500 personnel) (2022)<br>
+approximately 95,000 active troops (including a small air wing of about 500 personnel) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Army's inventory includes a mix of mostly older equipment largely of British, Chinese, Indian, Russian, and South African origin; in recent years, Nepal has received limited amounts of newer hardware from several countries, including China, Italy, and Russia (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service (including women); no conscription (2022)<br>
-<strong>note:</strong> as of 2020, women comprised about 5% of the active duty military<br>
+18 years of age for voluntary military service (including women); no conscription (2023)<br>
+<strong>note:</strong> as of 2022, women comprised about 7% of the active duty military<br>
 
 **Military deployments**<br>
-790 Central African Republic (MINUSCA); 1,150 Democratic Republic of the Congo (MONUSCO); 400 Golan Heights (UNDOF); 875 Lebanon (UNIFIL); 235 Liberia (UNSMIL); 175 Mali (MINUSMA); 1,750 (plus about 220 police) South Sudan (UNMISS) (2022)<br>
+1225 Central African Republic (MINUSCA); 1,150 Democratic Republic of the Congo (MONUSCO); 400 Golan Heights (UNDOF); 875 Lebanon (UNIFIL); 225 Liberia (UNSMIL); 175 Mali (MINUSMA); 1,750 (plus about 220 police) South Sudan (UNMISS) (2023)<br>
 
 **Military - note**<br>
 the Nepali Army is a lightly equipped and professional force responsible for territorial defense, although it has some domestic duties such as disaster relief/humanitarian assistance and nature conservation efforts; during the 10-year civil war that ended in 2006, it conducted extensive counterinsurgency operations against Maoist guerrillas; the Army also has a long and distinguished history of supporting UN missions, having sent its first UN observers to Lebanon in 1958 and its first troop contingent to Egypt in 1974; as of 2023, nearly 150,000 Nepali military personnel had deployed on over 40 UN missions; the Army conducts training with foreign partners, including China, India, and the US; it has 8 geographically-based divisions, each comprised of light infantry brigades and support units; the Army also has independent special forces and security force (palace guard) brigades; the Air Wing has a small number of multi-role and transport helicopters<br><br>the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816); the Gurkhas subsequently were brought into the British Indian Army and by 1914, there were 10 Gurkha regiments, collectively known as the Gurkha Brigade; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; four regiments were transferred to the British Army, where they have since served continuously as the Brigade of Gurkhas; six Gurkha (aka Gorkha in India) regiments went to the new Indian Army; a seventh regiment was later added; Gurkhas are also recruited into the Singaporean Police and a special guard in the Sultanate of Brunei known as the Gurkha Reserve Unit (2023)<br>

@@ -355,8 +355,8 @@ _elections/appointments_: president and vice president directly elected on the s
 _election results_: <br><em>2019:</em> Alberto Ángel FERNÁNDEZ elected president; percent of vote - Alberto Angel FERNÁNDEZ (TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA (independent) 6.2%, other 5.3%<br><br><em>2015:</em> Mauricio MACRI elected president in second round; percent of vote in first round - Daniel SCIOLI (PJ) 37.1%, Mauricio MACRI (PRO) 34.2%, Sergio MASSA (FR/PJ) 21.4%, other 7.3%; percent of vote in second round - Mauricio MACRI (PRO) 51.4%, Daniel SCIOLI (PJ) 48.6%<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (72 seats; members directly elected on a provincial basis with 2 seats awarded to the party with the most votes and 1 seat to the party with the second highest number of votes; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Cámara de Diputados (257 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 4-year terms with one-half of the membership renewed every 2 years)<br>
-_elections_: <br>Senate - last held on 14 November 2021 (next to be held 22 October 2023)<br>Chamber of Deputies - last held on 14 November 2021 (next to be held 22 October 2023)<br>
+_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (72 seats; members directly elected from 24 provincial districts by closed-list proportional representation vote; 2 seats per district awarded to the party with the most votes and 1 seat per district to the party with the second highest votes; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Cámara de Diputados (257 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 4-year terms with one-half of the membership renewed every 2 years)<br>
+_elections_: <br>Senate - last held on 14 November 2021 (next to be held on 22 October 2023)<br>Chamber of Deputies - last held on 14 November 2021 (next to be held on 22 October 2023)<br>
 _election results_: <p><br>Senate - percent of vote by bloc or party - NA; seats by bloc or party - FdT 35, JxC 33, other 4; composition (as of February 2022) men 41, women 31, percent of women 43.1%</p> <p>Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - FdT 118, JxC 116, FIT-U 4, other: 19; composition (as of February 2022) - men 142, women 115, percent of women 44.7%; note - total National Congress percent of women 44.4%</p><br>
 
 **Judicial branch**<br>
@@ -723,7 +723,7 @@ Armed Forces of the Argentine Republic (Fuerzas Armadas de la República Argenti
 0.8% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 82,000 active duty personnel (50,000 Army; 18,000 Navy, including about 3,500 marines); 14,000 Air Force); estimated 20,000 Gendarmerie (2022)<br>
+approximately 80,000 active-duty personnel (50,000 Army; 17,000 Navy, including about 3,500 marines); 13,000 Air Force); estimated 20,000 Gendarmerie (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; in recent years, France and the US have been the leading suppliers of equipment; Argentina has an indigenous defense industry that produces air, land, and naval systems (2023)<br>

@@ -689,7 +689,7 @@ Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Forc
 0.2% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information is limited and estimates vary; approximately 30,000 active duty troops (26,000 Army; 4,000 Air Force) (2022)<br>
+limited and varied information; estimated 30,000 active-duty troops (26,000 Army; 4,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the LPAF is armed largely with Soviet-era weapons; in recent years, China and Russia have been the leading suppliers of military equipment to Laos (2023)<br>
@@ -698,7 +698,7 @@ the LPAF is armed largely with Soviet-era weapons; in recent years, China and Ru
 18 years of age for compulsory or voluntary military service; minimum 18-month service obligation (2023)<br>
 
 **Military - note**<br>
-the LPAF’s primary missions are border and internal security, including counterinsurgency and counterterrorism<br><br>Vietnam is the military's primary security partner, although in recent years, Laos has expanded defense ties with China and Russia (2023)<br>
+the LPAF’s primary missions are border and internal security, including counterinsurgency and counterterrorism; the Army is organized into a few small divisions and independent regiments deployed around the country in four military regions; the Army is supported by a self-defense militia, which is estimated to be 100,000 strong; the small Air Force does not have any combat aircraft<br><br>Vietnam is the military's primary security partner, although in recent years, Laos has expanded defense ties with China and Russia (2023)<br>
 
 ## Transnational Issues
 

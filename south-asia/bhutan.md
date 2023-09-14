@@ -615,7 +615,7 @@ _urban_: 437 km (2017)<br>
 Royal Bhutan Army (includes Royal Bodyguard and an air wing); National Militia<br><br>Ministry of Home and Cultural Affairs: Royal Bhutan Police (2023)<br>
 
 **Military and security service personnel strengths**<br>
-the Royal Bhutan Army has an estimated 8,000 personnel (2022)<br>
+estimated 8,000 active personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 India has provided most of the Royal Bhutan Army's equipment (2023)<br>

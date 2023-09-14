@@ -367,7 +367,7 @@ _selected World Heritage Site locales_: Levuka Historical Port Town<br>
 ## Economy
 
 **Economic overview**<br>
-tourism-based Pacific island economy, susceptible to sea-level rises; new energy infrastructure investments; major foreign direct investment; COVID-19 crippled tourism sector; privatizing state-owned enterprises; military coups have destabilized labor force<br>
+upper-middle income, tourism-based Pacific island economy; susceptible to ocean rises; key energy and infrastructure investments; post-pandemic tourism resurgence; improved debt standing; limited workforce<br>
 
 **Real GDP (purchasing power parity)**<br>
 $9.578 billion (2021 est.)<br>
@@ -477,7 +477,7 @@ $1.23 billion (2020 est.) note: data are in current year dollars<br>
 $2.636 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-United States 29%, Australia 14%, New Zealand 7%, Japan 6%, Tonga 6% (2019)<br>
+United States 34%, Australia 14%, China 7%, New Zealand 7%, Tonga 4% (2021)<br>
 
 **Exports - commodities**<br>
 water, fuel wood, gold, sugar, refined petroleum, fish (2021)<br>
@@ -488,10 +488,10 @@ $1.977 billion (2020 est.) note: data are in current year dollars<br>
 $3.206 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-Singapore 18%, Australia 13%, China 13.8%, New Zealand 11%, France 11%, South Korea 8% (2017)<br>
+New Zealand 18%, China 16%, Singapore 14%, Australia 13%, United States 9% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, aircraft, cars, wheat, broadcasting equipment (2019)<br>
+refined petroleum, aircraft, cars, dentistry devices, broadcasting equipment (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.518 billion (31 December 2021 est.)<br>
@@ -658,13 +658,13 @@ Republic of Fiji Military Force (RFMF): Land Force Command, Maritime Command (20
 1.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 4,000 active personnel (2022)<br>
+approximately 4,000 active personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RFMF is lightly armed and equipped; Australia has provided patrol boats and a few armored personnel carriers; it also provides logistical support for RFMF regional or UN operations; in recent years, China has provided construction equipment and military vehicles (2023)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service; mandatory retirement at age 55 (2022)<br>
+18-25 years of age for voluntary military service; mandatory retirement at age 55 (2023)<br>
 
 **Military deployments**<br>
 170 Egypt (MFO); 160 Iraq (UNAMI); 150 Golan Heights (UNDOF) (2023)<br>

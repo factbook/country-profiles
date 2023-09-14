@@ -695,8 +695,7 @@ _river port(s)_: Szczecin (River Oder)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Force (Wojska Obrony Terytorialnej) (2023)<br>
-<strong>note:</strong> the police force is a national law enforcement body with regional and municipal units overseen by the Ministry of Interior and Administration; the Border Guard is responsible for border (including coastal) security and combating irregular migration and also reports to the Ministry of Interior and Administration<br>
+Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Force (Wojska Obrony Terytorialnej)<br><br>Ministry of Interior and Administration: Polish National Police (Policja); Border Guard (Straż Graniczna or SG) (2023)<br>
 
 **Military expenditures**<br>
 3.9% of GDP (2023 est.)<br>
@@ -745,7 +744,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 968,390 (Ukraine) (as of 17 August 2023)<br>
+_refugees (country of origin)_: 968,390 (Ukraine) (as of 3 September 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

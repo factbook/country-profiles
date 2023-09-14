@@ -696,7 +696,7 @@ _river port(s)_: Mpulungu (Zambezi)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Service; Defense Force Medical Service; Ministry of Home Affairs and Internal Security: Zambia Police (includes a paramilitary battalion) (2023)<br>
+Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Service; Defense Force Medical Service<br><br>Ministry of Home Affairs and Internal Security: Zambia Police (includes a paramilitary battalion) (2023)<br>
 <strong>note:</strong> the Zambia National Service is a support organization that also does public work projects<br>
 
 **Military expenditures**<br>
@@ -707,10 +707,10 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 1.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 17,000 active troops (15,000 Army; 2,000 Air) (2022)<br>
+approximately 17,000 active troops (15,000 Army; 2,000 Air) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments; in recent years, China has been the leading supplier of arms to Zambia (2022)<br>
+the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments; in recent years, leading suppliers have included China and Italy (2023)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age (17 with parental consent) for voluntary military service for men and women; no conscription; 12-year enlistment period (7 years active, 5 in the Reserves); must be Zambian citizens, holder of a green national registration card, and must have a school Grade 12 certification (2023)<br>
@@ -728,7 +728,7 @@ the ZDF is responsible for preserving the country’s sovereignty and territoria
 <p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto</p> <p><em>Zambia-Tanzania</em>: some drug smuggling may take place across the Zambia-Tanzania border; there are no known current territorial issues, as both states have continued to recognize the colonial boundaries last modified in 1937; the boundary in Lake Tanganyika remains undefined.<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 56,687 (Democratic Republic of the Congo) (refugees and asylum seekers), 7,866 (Burundi) (2023)<br>
+_refugees (country of origin)_: 57,301 (Democratic Republic of the Congo) (refugees and asylum seekers), 8,330 (Burundi) (2023)<br>
 
 **Illicit drugs**<br>
 transshipment point for moderate amounts of methaqualone, small amounts of heroin, and cocaine bound for southern Africa and possibly Europe; a poorly developed financial infrastructure coupled with a government commitment to combating money laundering make it an unattractive venue for money launderers; major consumer of cannabis<br>

@@ -683,7 +683,7 @@ _major seaport(s)_: Nouadhibou, Nouakchott<br>
 
 **Military and security forces**<br>
 Mauritanian Armed Forces (aka Armée Nationale Mauritanienne): National Army, National Navy (Marine Nationale), Mauritania Islamic Air Force; Gendarmerie (Ministry of Defense)<br><br>Ministry of Interior and Decentralization: National Police, National Guard, General Group for Road Safety (2023)<br>
-<strong>note 1:</strong> the National Police are responsible for enforcing the law and maintaining order in urban areas, while the paramilitary Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas; the Gendarmerie is under the Ministry of Defense, but also supports the ministries of Interior and Justice<br><br><strong>note 2:</strong> the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; regional authorities may call upon the National Guard to restore civil order during riots and other large-scale disturbances <br><br><strong>note 3:</strong> the General Group for Road Safety maintains security on roads and operates checkpoints throughout the country<br>
+<strong>note 1:</strong> the National Police are responsible for enforcing the law and maintaining order in urban areas, while the paramilitary Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas; like the Mauritanian Armed Forces, the Gendarmerie is under the Ministry of Defense, but also supports the ministries of Interior and Justice<br><br><strong>note 2:</strong> the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; regional authorities may call upon the National Guard to restore civil order during riots and other large-scale disturbances <br><br><strong>note 3:</strong> the General Group for Road Safety maintains security on roads and operates checkpoints throughout the country<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2022 est.)<br>
@@ -693,7 +693,7 @@ Mauritanian Armed Forces (aka Armée Nationale Mauritanienne): National Army, Na
 2.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 16,000 active armed forces personnel (15,000 Army; 700 Navy; 300 Air Force); estimated 3,000 Gendarmerie; estimated 2,000 National Guard (2022)<br>
+approximately 16,000 Mauritanian Armed Forces personnel (15,000 Army; 700 Navy; 300 Air Force); estimated 3,000 Gendarmerie; estimated 2,000 National Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is limited and made up largely of older French and Soviet-era equipment; in recent years, Mauritania has received small amounts of mostly secondhand military equipment from a variety of suppliers, with China as the leading provider (2023)<br>
@@ -719,7 +719,7 @@ Al-Qa'ida in the Islamic Maghreb (AQIM)<br>
 <p><em>Mauritania-Algeria</em>: none identified</p> <p><em>Mauritania-Mali</em>: there are no border disputes, but the border has not been demarcated; talks on demarcation were reportedly being held in February 2022</p> <p><em>Mauritania-Morocco</em>: Mauritanian claims to Western Sahara remain dormant; tensions arose in 2016 when Mauritanian soldiers were deployed to Lagouira, a city in the southernmost part of Morocco, and raised their flag</p> <p><em>Mauritania-Senegal</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,000 (Sahrawis) (2021); 98,202 (Mali) (2022)<br>
+_refugees (country of origin)_: 26,000 (Sahrawis) (2021); 102,400 (Mali) (2023)<br>
 
 **Illicit drugs**<br>
 NA<br>

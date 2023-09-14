@@ -346,9 +346,9 @@ _elections/appointments_: president indirectly elected by the Assembly for a 5-y
 _election results_: <em><br>2022: </em>Bajram BEGAJ elected president in the fourth round; Assembly vote - 78-4, opposition parties boycotted<br><em><br>2017:</em> Ilir META elected president in the fourth round; Assembly vote - 87-2<br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly or Kuvendi (140 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
+_description_: unicameral Assembly or Kuvendi (140 seats; members directly elected in multi-seat constituencies by open party -list proportional representation vote using the D'Hondt method; members serve 4-year terms)<br>
 _elections_: last held on 25 April 2021 (next to be held in 2025)<br>
-_election results_: <br>percent of vote by party/coalition - PS 48.7%, PD-Alliance for Change 39.4%, LSI 6.8%, PSD 2.3%, other 2.8%; seats by party/coalition - PS 74, PD-Alliance for Change 59, LSI 4, PSD 3; composition - men 93, women 47, percent of women 33.6%<br>
+_election results_: <br>percent of vote by party/coalition - PS 48.7%, PD-Alliance for Change 39.4%, LSI 6.8%, PSD 2.3%, other 2.8%; seats by party/coalition - PS 74, PD-Alliance for Change 59, LSI 4, PSD 3; composition as of August 2023 - men 90, women 50, percent of women 35.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 19 judges, including the chief justice); Constitutional Court (consists of 9 judges, including the chairman)<br>

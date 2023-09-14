@@ -654,8 +654,8 @@ _major seaport(s)_: Baniyas, Latakia, Tartus<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Syrian Armed Forces: Syrian Arab Army (includes Republican Guard), Syrian Naval Forces, Syrian Air Forces, Syrian Air Defense Forces, National Defense Forces (NDF) and Local Defense Forces (LDF) (2022)<br>
-<strong>note:</strong> NDF and LDF are pro-government militia and auxiliary forces; some militia and auxiliary forces are Iranian-backed; the Syrian military is also supported by the Russian armed forces, the Iran-affiliated Hizballah terrorist group, and Iran’s Islamic Revolutionary Guard Corps<br>
+Syrian Armed Forces: Syrian Arab Army (includes Republican Guard), Syrian Naval Forces, Syrian Air Forces, Syrian Air Defense Forces, National Defense Forces (NDF), and Local Defense Forces (LDF) (2023)<br>
+<strong>note:</strong> NDF and LDF are pro-government militia and auxiliary forces; some militia and auxiliary forces are backed by Iran; the Syrian military is also supported by the Russian armed forces, the Iran-affiliated Hizballah terrorist group, and Iran’s Islamic Revolutionary Guard Corps<br>
 
 **Military expenditures**<br>
 6.5% of GDP (2019 est.)<br>
@@ -665,11 +665,11 @@ Syrian Armed Forces: Syrian Arab Army (includes Republican Guard), Syrian Naval 
 7.2% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-current estimates not available; since the start of the civil war in 2011, the Syrian Armed Forces (SAF) have taken significant losses in personnel due to casualties and desertions; prior to the civil war, the SAF had approximately 300,000 active duty troops, including 200-225,000 Army, plus about 300,000 reserve forces (2022)<br>
+current estimates not available; the Syrian Armed Forces (SAF) are rebuilding after suffering significant casualties and desertions since the start of the civil war in 2011; prior to the civil war, the SAF had approximately 300,000 troops, including 200-225,000 Army, plus about 300,000 reserve forces (2023)<br>
 <strong>note: </strong>pro-government militia and auxiliary forces probably number in the tens of thousands<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SAF's inventory is comprised mostly of Russian and Soviet-era equipment; in recent years, Russia has supplied the majority of Syria's weapons systems, although China and Iran have also provided military equipment (2022)<br>
+the SAF's inventory is comprised mostly of older Russian and Soviet-era equipment; in recent years, Russia has supplied the majority of Syria's imported weapons systems (2023)<br>
 
 **Military service age and obligation**<br>
 18-42 years of age for compulsory and voluntary military service; conscript service obligation is 18 months; women are not conscripted but may volunteer to serve (2022)<br>
@@ -700,7 +700,7 @@ Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras 
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 580,000 (Palestinian Refugees) (2022); 11,121 (Iraq) (mid-year 2022)<br>
-_IDPs_: 6.75 million (ongoing civil war since 2011) (2022)<br>
+_IDPs_: 6.865 million (ongoing civil war since 2011) (2022)<br>
 _stateless persons_: 160,000 (2022); note - Syria's stateless population consists of Kurds and Palestinians; stateless persons are prevented from voting, owning land, holding certain jobs, receiving food subsidies or public healthcare, enrolling in public schools, or being legally married to Syrian citizens; in 1962, some 120,000 Syrian Kurds were stripped of their Syrian citizenship, rendering them and their descendants stateless; in 2011, the Syrian Government granted citizenship to thousands of Syrian Kurds as a means of appeasement; however, resolving the question of statelessness is not a priority given Syria's ongoing civil war<br>
 <strong>note:</strong> the ongoing civil war has resulted in more than 5.2 million registered Syrian refugees - dispersed mainly in Egypt, Iraq, Jordan, Lebanon, and Turkey - as of August 2023<br>
 

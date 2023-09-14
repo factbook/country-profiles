@@ -540,14 +540,14 @@ _paved_: 4,686 km (2010)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-per the Oslo Accords, the PA is not permitted a conventional military but maintains security and police forces; PA security personnel have operated almost exclusively in the West Bank since HAMAS seized power in the Gaza Strip in 2007; PA forces include National Security Forces, Presidential Guard, Civil Police, Civil Defense, Preventive Security Organization, the General Intelligence Organization, and the Military Intelligence Organization (2022)<br>
+per the Oslo Accords, the PA is not permitted a conventional military but maintains security and police forces; PA security personnel have operated almost exclusively in the West Bank since HAMAS seized power in the Gaza Strip in 2007; PA forces include National Security Forces, Presidential Guard, Civil Police, Civil Defense, Preventive Security Organization, the General Intelligence Organization, and the Military Intelligence Organization (2023)<br>
 <strong>note:</strong> the National Security Forces conduct gendarmerie-style security operations in circumstances that exceed the capabilities of the Civil Police; it is the largest branch of the PA security services and acts as the Palestinian army; the Presidential Guard protects facilities and provides dignitary protection; the Preventive Security Organization is responsible for internal intelligence gathering and investigations related to internal security cases, including political dissent<br>
 
 **Military expenditures**<br>
 not available<br>
 
 **Military and security service personnel strengths**<br>
-the PA Security Forces have approximately 30,000 active personnel (2022)<br>
+the PA Security Forces have approximately 28,000 active personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the security services are armed mostly with small arms and light weapons, although in recent years, they have received small amounts of heavier equipment from Jordan (armored personnel carriers) and Russia (armored personnel carriers and transport helicopters) (2022)<br>
@@ -571,5 +571,5 @@ Al-Aqsa Martyrs Brigade; HAMAS; Kahane Chai; Palestine Islamic Jihad; Palestine 
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 901,000 (Palestinian refugees) (2022)<br>
-_IDPs_: 131,000 (includes persons displaced within the Gaza strip due to the intensification of the Israeli-Palestinian conflict since June 2014 and other Palestinian IDPs in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006) (2020); note - data represent Gaza Strip and West Bank<br>
+_IDPs_: 12,000 (includes persons displaced within the Gaza strip due to the intensification of the Israeli-Palestinian conflict since June 2014 and other Palestinian IDPs in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006) (2022); note - data represent Gaza Strip and West Bank<br>
 

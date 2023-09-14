@@ -665,8 +665,8 @@ _LNG terminal(s) (export)_: Das Island<br>
 ## Military and Security
 
 **Military and security forces**<br>
-United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presidential Guard (includes special operations forces); Ministry of Interior: Coast Guard Forces, Critical Infrastructure and Coastal Patrol Agency (CICPA) (2023)<br>
-<strong>note:</strong> each emirate maintains a local police force called a general directorate, which is officially a branch of the federal Ministry of Interior; all emirate-level general directorates of police enforce their respective emirate’s laws autonomously; they also enforce federal laws within their emirate in coordination with one another under the federal ministry; the State Security Directorate (SSD) in Abu Dhabi and Dubai State Security (DSS) have primary responsible for counterterrorism law enforcement efforts; local, emirate-level police forces, especially Abu Dhabi Police and Dubai Police, are the first responders in such cases and provide technical assistance to SSD and DSS <br>
+United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presidential Guard (includes special operations forces)<br><br>Ministry of Interior: Coast Guard Forces, Critical Infrastructure and Coastal Patrol Agency (CICPA) (2023)<br>
+<strong>note:</strong> each emirate maintains a local police force called a general directorate, which is officially a branch of the federal Ministry of Interior; all emirate-level general directorates of police enforce their respective emirate’s laws autonomously; they also enforce federal laws within their emirate in coordination with one another under the federal ministry; the State Security Directorate (SSD) in Abu Dhabi and Dubai State Security (DSS) have primary responsible for counterterrorism law enforcement efforts; local, emirate-level police forces, especially the Abu Dhabi Police and Dubai Police, are the first responders in such cases and provide technical assistance to SSD and DSS<br>
 
 **Military expenditures**<br>
 5.6% of GDP (2020 est.)<br>
@@ -676,10 +676,10 @@ United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presiden
 6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 65,000 active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2022)<br>
+approximately 65,000 active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is comprised of a wide variety of mostly modern imported equipment; over the past decade, the UAE has acquired military equipment from more than 20 countries with France, Russia, and the US as the leading suppliers; in recent years, the UAE has tried to boost its domestic defense industry (2023)<br>
+the military's inventory is comprised of a wide variety of mostly modern imported equipment; over the past decade, the UAE has acquired military equipment from more than 20 countries with the US as the leading supplier; in recent years, the UAE has tried to boost its domestic defense industry (2023)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for compulsory military service for men (compulsory service initiated in 2014); 17 years of age for volunteers with parental approval; men can volunteer up to age 40; 24-month general service obligation, 16 months for secondary school graduates; women can volunteer to serve for 9 months regardless of education (2022)<br>

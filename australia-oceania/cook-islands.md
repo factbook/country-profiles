@@ -395,6 +395,7 @@ _expenditures_: $77.9 million (2010)<br>
 $26.67 million (2005)<br>
 
 **Exports**<br>
+$31.4 million (2021 est.)<br>
 $3.125 million (2011 est.)<br>
 $5.163 million (2010 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
@@ -406,6 +407,7 @@ Japan 41%, France 18%, Thailand 16%, Greece 7%, China 6% (2021)<br>
 fish products, recreational boats, paintings, lobsters, tuna (2021)<br>
 
 **Imports**<br>
+$215 million (2021 est.)<br>
 $109.3 million (2011 est.)<br>
 $90.62 million (2010 est.)<br>
 

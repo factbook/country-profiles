@@ -685,7 +685,7 @@ Defense Forces of Georgia (DFG; aka Georgian Defense Forces or GDF): Ground Forc
 1.9% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 30,000 troops, including active National Guard forces (2022)<br>
+estimates vary; approximately 30,000 troops, including active National Guard forces (2023)<br>
 <strong>note: </strong>in December 2020, the Parliament of Georgia adopted a resolution determining that the Georgian Defense Forces would have maximum peacetime strength of 37,000 troops<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -705,7 +705,7 @@ Russian troops continue to occupy the breakaway regions of Abkhazia and South Os
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 24,180 (Ukraine) (as of 9 May 2023)<br>
-_IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2021)<br>
+_IDPs_: 308,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2022)<br>
 _stateless persons_: 530 (2022)<br>
 
 **Illicit drugs**<br>

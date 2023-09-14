@@ -654,7 +654,7 @@ Eritrean Defense Forces (EDF): Eritrean Ground Forces, Eritrean Navy, Eritrean A
 10.6% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-limited available information; estimated 150,000-200,000 personnel, including about 2,000 in the naval and air forces (2022)<br>
+limited available information; estimated 150,000-200,000 personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the EDF inventory is comprised primarily of older Russian and Soviet-era systems; Eritrea was under a UN arms embargo from 2009 to 2018; from the 1990s to 2008, Russia was the leading supplier of arms to Eritrea, and in recent years, Eritrea has expressed interest in purchasing additional Russian equipment; in 2022, it reportedly received some UAVs from Russia (2023)<br>

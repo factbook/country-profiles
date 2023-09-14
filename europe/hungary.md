@@ -708,7 +708,7 @@ Hungarian Defense Forces (HDF or Magyar Honvédség): the HDF is organized as a 
 1.4% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 21,000 active-duty troops (16,000 Army; 5,000 Air Force) (2022)<br>
+approximately 25,000 active-duty troops (20,000 Army; 5,000 Air Force) (2023)<br>
 <strong>note:</strong> in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000 but did not give a timeline<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 52,285 (Ukraine) (as of 29 August 2023)<br>
+_refugees (country of origin)_: 52,285 (Ukraine) (as of 3 September 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

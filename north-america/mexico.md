@@ -741,7 +741,7 @@ the Mexican Armed Forces (Fuerzas Armadas de México) are divided between the S
 0.5% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 218,000 armed forces personnel (160,000 Army; 8,000 Air Force; 50,000 Navy, including about 20,000 marines); approximately 110,000 National Guard personnel (2022)<br>
+information varies; approximately 225,000 armed forces personnel (165,000 Army; 10,000 Air Force; 50,000 Navy, including about 20,000 marines); approximately 110,000 National Guard personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Mexican military inventory includes a mix of domestically produced and imported equipment from a variety of mostly Western suppliers; the US has been the leading supplier of military hardware to Mexico in recent years; Mexico's defense industry produces naval vessels and light armored vehicles, as well as small arms and other miscellaneous equipment (2023)<br>
@@ -772,7 +772,7 @@ the AEM’s focus is on coordinating Mexico’s space policy and the country’s
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 35,755 (Honduras), 13,531 (El Salvador) (mid-year 2022); 91,359 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022)<br>
-_IDPs_: 379,000 (government's quashing of Zapatista uprising in 1994 in eastern Chiapas Region; drug cartel violence and government's military response since 2007; violence between and within indigenous groups) (2021)<br>
+_IDPs_: 386,000 (government's quashing of Zapatista uprising in 1994 in eastern Chiapas Region; drug cartel violence and government's military response since 2007; violence between and within indigenous groups) (2022)<br>
 _stateless persons_: 13 (2022)<br>
 
 **Illicit drugs**<br>

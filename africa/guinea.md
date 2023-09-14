@@ -676,7 +676,7 @@ _major seaport(s)_: Conakry, Kamsar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Armed Forces: Army, Guinean Navy (Armee de Mer or Marine Guineenne), Guinean Air Force (Force Aerienne de Guinee), Presidential Security Battalion (Battailon Autonome de la Sécurité Presidentielle, BASP), Gendarmerie (2023)<br>
+National (or Guinean) Armed Forces: Army, Guinean Navy (Armee de Mer or Marine Guineenne), Guinean Air Force (Force Aerienne de Guinee), Presidential Security Battalion (Battailon Autonome de la Sécurité Presidentielle, BASP), Gendarmerie (2023)<br>
 <strong>note:</strong> the National Gendarmerie is overseen by the Ministry of Defense, while the National Police is under the Ministry of Security; the Gendarmerie and National Police share responsibility for internal security, but only the Gendarmerie can arrest police or military officials<br>
 
 **Military expenditures**<br>
@@ -687,7 +687,7 @@ National Armed Forces: Army, Guinean Navy (Armee de Mer or Marine Guineenne), Gu
 1.8% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 12,000 active personnel (9,000 Army; 400 Navy; 800 Air Force; 300 BASP; 1,500 Gendarmerie) (2022)<br>
+approximately 12,000 active personnel, including about 1,500 Gendarmerie (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Guinean military consists largely of aging and outdated (mostly Soviet-era) equipment; in recent years, it has received small amounts of equipment from China, France, and South Africa (2023)<br>

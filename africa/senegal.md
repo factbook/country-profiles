@@ -691,8 +691,8 @@ _major seaport(s)_: Dakar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army, Senegalese National Navy (Marine Senegalaise, MNS), Senegalese Air Force (l'Armee de l'Air du Senegal), National Gendarmerie (includes Territorial and Mobile components) (2023)<br>
-<strong>note:</strong> the National Police under the Ministry of Interior operates in major cities, while the Gendarmerie under the FAS primarily operates outside urban areas; both services have specialized anti-terrorism units<br>
+Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army, Senegalese National Navy (Marine Senegalaise, MNS), Senegalese Air Force (l'Armee de l'Air du Senegal), National Gendarmerie (includes Territorial and Mobile components)<br><br>Ministry of Interior: National Police (2023)<br>
+<strong>note:</strong> the National Police operates in major cities, while the Gendarmerie under the FAS primarily operates outside urban areas; both services have specialized anti-terrorism units<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2022 est.)<br>
@@ -702,7 +702,7 @@ Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army, Senegale
 1.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 5,000 National Gendarmerie) (2022)<br>
+approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 5,000 National Gendarmerie) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAS inventory includes mostly older or secondhand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program and has received small amounts of newer equipment from more than 10 countries, with France as the leading supplier (2023)<br>
@@ -711,7 +711,7 @@ the FAS inventory includes mostly older or secondhand equipment from a variety o
 18 years of age for voluntary military service for men and women; 20 years of age for selective compulsory service for men and possibly women; 24-month service obligation (2023)<br>
 
 **Military deployments**<br>
-950 Mali (MINUSMA); note - Senegal also has about 1,000 police deployed on UN peacekeeping missions in the Central African Republic, the Democratic Republic of the Congo, and Mali (2023)<br>
+200 Central African Republic (MINUSCA); 950 Mali (MINUSMA); note - Senegal also has about 1,000 police deployed to UN peacekeeping missions in the Central African Republic (MINUSCA), the Democratic Republic of the Congo (MONUSCO), and Mali (MINUSMA) (2023)<br>
 
 **Military - note**<br>
 despite limited resources, the FAS is considered to be a well-equipped, experienced, and professional military; it has a history of non-interference in the country’s political process and good relations with civil authorities; it is experienced in foreign deployments and has received considerable assistance from the French military, which maintains a presence in Senegal, and the US, with smaller levels from Germany, Spain, and the UK; the FAS’s primary focuses are border, internal, and maritime security; it is closely watching the prevalence of multiple active terrorist groups across the region and political instability in neighboring Mali and Guinea and has recently established new military and gendarmerie camps along its eastern border; it also works with the government in areas such as preventive healthcare, infrastructure development, environmental protection, and disaster response<br><br>the Army is spread amongst 7 military zones and organized into a mix of light infantry battalions and light armored reconnaissance squadrons, as well as airborne, special operations, and artillery battalions; the Gendarmerie includes mobile units, as well as the Presidential Guard (aka “The Red Guard”); the Navy is a small force of coastal patrol craft; in recent years it has acquired some modern platforms from France and Israel, including its first offshore patrol vessel, to improve the Navy’s ability to patrol Senegal’s coastline and economic exclusion zone, conduct fisheries inspections, counter drug trafficking, and combat piracy; the Air Force is configured for supporting the ground forces and has a small number of light attack aircraft and helicopter gunships, as well as transport and reconnaissance aircraft<br><br>Senegalese security forces have been engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance (MDFC) since 1982; the conflict is one of longest running low-level insurgencies in the World, having claimed more than 5,000 lives while leaving another 60,000 displaced; in May 2023, a faction of the MFDC agreed to a peace deal (2023)<br>
@@ -727,8 +727,8 @@ Jama&rsquo;at Nusrat al-Islam wal-Muslimin (JNIM)<br>
 <p><em>Senegal-Guinea-Bissau</em>: rebels from the Movement of Democratic Forces in the Casamance find refuge in Guinea-Bissau</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,502 (Mauritania) (2023)<br>
-_IDPs_: 8,400 (2021)<br>
+_refugees (country of origin)_: 11,505 (Mauritania) (2023)<br>
+_IDPs_: 8,400 (2022)<br>
 
 **Illicit drugs**<br>
 <p>a transit point on the cocaine route from South America to Europe; large production of cannabis in southern Casamance region; the high domestic use of cannabis, crack cocaine and to a lesser extent heroin</p><br>

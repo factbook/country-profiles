@@ -643,14 +643,11 @@ _major seaport(s)_: Sao Tome<br>
 Armed Forces of Sao Tome and Principe (Forcas Armadas de Sao Tome e Principe, FASTP): Army, Coast Guard of Sao Tome e Principe (Guarda Costeira de Sao Tome e Principe, GCSTP), Presidential Guard, National Guard (2023)<br>
 <strong>note:</strong> the Army and Coast Guard are responsible for external security while the public security police and judicial police maintain internal security; both the public security police and the military report to the Ministry of Defense and Internal Affairs; the judicial police report to the Ministry of Justice, Public Administration, and Human Rights<br>
 
-**Military expenditures**<br>
-Not available<br>
-
 **Military and security service personnel strengths**<br>
-the FASTP has approximately 500 personnel (2022)<br>
+the FASTP has approximately 500 personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FASTP has a limited inventory of light weapons (2022)<br>
+the FASTP has a limited inventory of light weapons (2023)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for compulsory military service (reportedly not enforced); 17 is the legal minimum age for voluntary service (2023)<br>

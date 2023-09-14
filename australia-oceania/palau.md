@@ -352,7 +352,7 @@ _selected World Heritage Site locales_: Rock Islands Southern Lagoon<br>
 ## Economy
 
 **Economic overview**<br>
-high-income Pacific island economy; major subsistence agriculture and fishing industries; reliant on US aid; strong tourism has prompted sustainability oversight mechanism; severely disrupted by COVID-19<br>
+high-income Pacific island economy; environmentally fragile; subsistence agriculture and fishing industries; US aid reliance; rebounding post-pandemic tourism industry and services sector; very high living standard and low unemployment<br>
 
 **Real GDP (purchasing power parity)**<br>
 $248.468 million (2021 est.)<br>
@@ -453,10 +453,10 @@ $58.349 million (2020 est.)<br>
 $107.823 million (2019 est.)<br>
 
 **Exports - partners**<br>
-Japan 70%, South Korea 15%, United States 7% (2019)<br>
+Japan 34%, Taiwan 16%, Turkey 16%, Italy 12%, United States 9% (2021)<br>
 
 **Exports - commodities**<br>
-fish, computers, broadcasting equipment, office machinery/parts, scrap vessels (2019)<br>
+computers, scrap vessels, recreational boats, scrap iron, fish, scrap copper, scrap aluminum (2021)<br>
 
 **Imports**<br>
 $180.38 million (2021 est.)<br>
@@ -464,10 +464,10 @@ $215.97 million (2020 est.)<br>
 $226.594 million (2019 est.)<br>
 
 **Imports - partners**<br>
-South Korea 19%, China 18%, Taiwan 17%, United States 17%, Japan 16% (2019)<br>
+China 34%, United States 21%, South Korea 12%, Japan 8%, Taiwan 6% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, fish, cars, broadcasting equipment, modeling instruments (2019)<br>
+refined petroleum, boat propellers, iron structures, cars, floating docks, broadcasting equipment, prefabricated buildings (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $0 (31 December 2017 est.)<br>

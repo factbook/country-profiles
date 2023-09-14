@@ -499,7 +499,7 @@ HAMAS does not have a conventional military in the Gaza Strip but maintains secu
 not available<br>
 
 **Military and security service personnel strengths**<br>
-the military wing of HAMAS has an estimated 20-25,000 fighters (2022)<br>
+the military wing of HAMAS has an estimated 20-25,000 fighters (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military wing of HAMAS is armed with light weapons, including an inventory of improvised rocket, anti-tank missile, and mortar capabilities; HAMAS acquires its weapons through smuggling or local construction and receives some military support from Iran (2023)<br>
@@ -520,5 +520,5 @@ Army of Islam; Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; HAMAS; Islamic 
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 1.6 million (Palestinian refugees) (2022)<br>
-_IDPs_: 131,000 (includes persons displaced within the Gaza Strip due to the intensification of the Israeli-Palestinian conflict since June 2014 and other Palestinian IDPs in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006) (2020); note - data represent Gaza Strip and West Bank<br>
+_IDPs_: 12,000 (includes persons displaced within the Gaza Strip due to the intensification of the Israeli-Palestinian conflict since June 2014 and other Palestinian IDPs in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006) (2022); note - data represent Gaza Strip and West Bank<br>
 

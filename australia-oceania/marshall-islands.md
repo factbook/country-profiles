@@ -359,7 +359,7 @@ _selected World Heritage Site locales_: Bikini Atoll Nuclear Test Site<br>
 ## Economy
 
 **Economic overview**<br>
-upper middle-income Pacific island economy; US aid reliance; large public sector workforce; produces coconut oil as a substitute to diesel fuel; becoming offshore banking locale; fishing rights seller; import-dependent<br>
+upper middle-income Pacific island economy; US aid reliance; large public sector; coconut oil production as diesel fuel substitute; growing offshore banking locale; fishing rights seller; import-dependent<br>
 
 **Real GDP (purchasing power parity)**<br>
 $250.694 million (2021 est.)<br>
@@ -456,23 +456,25 @@ $56.998 million (2019 est.)<br>
 $53.031 million (2018 est.)<br>
 
 **Exports**<br>
-$76.734 million (2020 est.) note: data are in current year dollars<br>
-$54.987 million (2019 est.)<br>
-$128.904 million (2018 est.)<br>
+$1.37 billion (2021 est.)<br>
+$773 million (2020 est.)<br>
+$1.17 billion (2019 est.)<br>
+<strong>note:</strong> data are in current year dollars<br>
 
 **Exports - partners**<br>
-Poland 28%, Denmark 19%, South Korea 13%, Indonesia 10%, Cyprus 6% (2019)<br>
+Denmark 33%, South Korea 20%, Germany 15%, Poland 9%, Cyprus 4% (2021)<br>
 
 **Exports - commodities**<br>
 ships, recreational boats, skipjack, tuna, refined petroleum, broadcasting equipment (2021)<br>
 
 **Imports**<br>
-$171.201 million (2020 est.) note: data are in current year dollars<br>
-$91.814 million (2019 est.)<br>
-$174.722 million (2018 est.)<br>
+$10.7 billion (2021 est.)<br>
+$12 billion (2020 est.)<br>
+$9.1 billion (2019 est.)<br>
+<strong>note:</strong> data are in current year dollars<br>
 
 **Imports - partners**<br>
-South Korea 39%, China 27%, Japan 15% (2019)<br>
+South Korea 33%, China 30%, Japan 11%, Greece 3%, Cyprus 3% (2021)<br>
 
 **Imports - commodities**<br>
 ships, refined petroleum, centrifuges, recreational boats, boat propellers (2019)<br>

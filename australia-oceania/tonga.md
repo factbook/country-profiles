@@ -80,14 +80,14 @@ _noun_: Tongan(s)<br>
 _adjective_: Tongan<br>
 
 **Ethnic groups**<br>
-Tongan 97%, part-Tongan 0.8%, other 2.2%, unspecified &lt;0.1% (2016 est.)<br>
+Tongan 96.5%, other (European, Fijian, Samoan, Indian, Chinese, other Pacific Islander, other Asian, other) 3.5% (2021 est.)<br>
 
 **Languages**<br>
-Tongan and English 76.8%, Tongan, English, and other language 10.6%, Tongan only (official) 8.7%, English only (official) 0.7%, other 1.7%, none 2.2% (2016 est.)<br>
-<strong>note:</strong> data represent persons aged 5 and older who can read and write a simple sentence in Tongan, English, or another language<br>
+Tongan only 85%, Tongan and other language 13.9%, Tongan not used at home 1.1% (2021 est.)<br>
+<strong>note:</strong> data represent language use at home of persons aged 5 and older<br>
 
 **Religions**<br>
-Protestant 64.1% (includes Free Wesleyan Church 35%, Free Church of Tonga 11.9%, Church of Tonga 6.8%, Assembly of God 2.3%, Seventh Day Adventist 2.2%, Tokaikolo Christian Church 1.6%, other 4.3%), Church of Jesus Christ 18.6%, Roman Catholic 14.2%, other 2.4%, none 0.5%, unspecified 0.1% (2016 est.)<br>
+Protestant 63.9% (Free Wesleyan Church 34.2%, Free Church of Tonga 11.3%, Church of Tonga 6.8%, Seventh Day Adventist 2.5%, Assembly of God 2.5%, Tokaikolo/Maamafo'ou 1.5%, Constitutional Church of Tonga 1.2%, other Protestant 4%), Church of Jesus Christ 19.7%, Roman Catholic 13.7%, other 2.1%, none 0.6%, no answer 0.1% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 29.92% (male 15,989/female 15,491)<br>
@@ -325,9 +325,9 @@ _election results_: Siaosi SOVALENI elected prime minister by the Legislative As
 <strong>note:</strong> a Privy Council advises the monarch<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Fale Alea (30 seats statutory, 27 current); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)<br>
+_description_: unicameral Legislative Assembly or Fale Alea (30 seats statutory, 26 current); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)<br>
 _elections_: last held on 18 November 2021 (next to be held in November 2025)<br>
-_election results_: percent of vote - NA; seats by party (elected members) - independents 11, nobles' representatives 9,&nbsp; Democratic Party 3, Peoples Party 3; composition - men 26, women 1, percent of women 3.7%<br>
+_election results_: percent of vote - NA; seats by party (elected members) - independents 11, nobles' representatives 9, Democratic Party 3, Peoples Party 3; composition - men 26, women 1, percent of women 3.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>
@@ -341,7 +341,7 @@ Democratic Party of the Friendly Islands or DPFI or PTOA [Semisi SIKA]<br>People
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, IMF, IMO, IMSO, Interpol, IOC, IPU, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Viliami Va&rsquo;inga TONE (since 20 April 2021)<br>
+_chief of mission_: Ambassador Viliana Va&rsquo;inga TONE (since 20 April 2021)<br>
 _chancery_: 250 East 51st Street, New York, NY 10022<br>
 _telephone_: [1] (917) 369-1025<br>
 _FAX_: [1] (917) 369-1024<br>
@@ -405,7 +405,7 @@ _exports of goods and services_: 22.8% (2017 est.)<br>
 _imports of goods and services_: -68.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-coconuts, gourds, cassava, sweet potatoes, vegetables, yams, taro, roots/tubers nes, plantains, lemons/limes<br>
+coconuts, gourds, cassava, sweet potatoes, vegetables, yams, taro, roots/tubers, plantains, lemons/limes<br>
 
 **Industries**<br>
 tourism, construction, fishing<br>
@@ -469,10 +469,10 @@ $99.78 million (2020 est.) note: data are in current year dollars<br>
 $112.482 million (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-United States 38%, South Korea 18%, Australia 14%, New Zealand 14%, Japan 6%,&nbsp; (2019)<br>
+United States 22%, South Africa 18%, New Zealand 15%, Australia 13%, South Korea 11% (2021)<br>
 
 **Exports - commodities**<br>
-squash, fish, various fruits and nuts, antiques, coral and shells (2019)<br>
+natural gas, shellfish, various fruits and nuts, vegetables, cassava, coral and shells (2021)<br>
 
 **Imports**<br>
 $285.675 million (2021 est.) note: data are in current year dollars<br>
@@ -480,10 +480,10 @@ $309.685 million (2020 est.) note: data are in current year dollars<br>
 $327.395 million (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-Fiji 29%, New Zealand 23%, China 14%, United States 8%, Australia 6%, Japan 6% (2019)<br>
+New Zealand 36%, China 20%, Fiji 18%, Australia 6%, United States 6% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, poultry meats, audio equipment, mutton, goat meat, broadcasting equipment (2019)<br>
+refined petroleum, poultry meats, cars, mutton, goat meat, lumber, x-ray equipment, broadcasting equipment (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $361.812 million (31 December 2021 est.)<br>
@@ -627,7 +627,7 @@ _major seaport(s)_: Nuku'alofa, Neiafu, Pangai<br>
 ## Military and Security
 
 **Military and security forces**<br>
-His Majesty's Armed Forces Tonga (aka Tonga Defense Services): Joint Force headquarters, Tonga Royal Guard, Land Force (Royal Tongan Marines), Tonga Navy, Training Wing, Air Wing, and Support Unit; Ministry of Police and Fire Services: Tonga Police Force (2023)<br>
+His Majesty's Armed Forces Tonga (aka Tonga Defense Services): Tonga Royal Guard, Land Force (Royal Tongan Marines), Tonga Navy, Air Wing <br><br>Ministry of Police and Fire Services: Tonga Police Force (2023)<br>
 
 **Military expenditures**<br>
 2.1% of GDP (2020 est.)<br>
@@ -637,16 +637,16 @@ His Majesty's Armed Forces Tonga (aka Tonga Defense Services): Joint Force headq
 1.7% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 650 personnel (2022)<br>
+approximately 500-700 personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Tonga military's inventory includes mostly light weapons and equipment from Australia, European countries (primarily the UK), and the US (2022)<br>
+the Tonga military's inventory includes mostly light weapons and equipment from Australia, European countries (primarily the UK), and the US; nearly all of its military acquisitions in recent years have come from Australia (2023)<br>
 
 **Military service age and obligation**<br>
 voluntary military service for men and women 18-25 (16 with parental approval for non-combat positions); no conscription (2022)<br>
 
 **Military - note**<br>
-the HMAF’s primary missions are protecting the King and Tonga’s sovereignty; the HMAF has also contributed small numbers of personnel to multinational military operations in Afghanistan, Iraq, and the Solomon Islands; it is a small force comprised of a royal guard company, a marine battalion, and a few naval patrol boats <br><br>Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty’s Armed Forces of Tonga (HMAF); Tongan troops deployed to Iraq from 2004-2008 and Afghanistan to support UK forces from 2010-2014<br><br>Tonga has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tonga's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
+the HMAF’s primary missions are protecting the King and Tonga’s sovereignty; the HMAF has contributed small numbers of personnel to multinational military operations in Afghanistan, Iraq, and the Solomon Islands; it is a small force comprised of a royal guard company, a marine battalion, a few naval patrol boats, and a couple of aircraft for maritime patrolling, search and rescue, and training purposes<br><br>Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty’s Armed Forces of Tonga (HMAF); Tongan troops deployed to Iraq from 2004-2008 and Afghanistan to support UK forces from 2010-2014<br><br>Tonga has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Tonga's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
 
 ## Transnational Issues
 

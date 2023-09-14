@@ -505,7 +505,7 @@ $50.544 billion (2020 est.) note: data are in current year dollars<br>
 $57.875 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-China 28%, Australia 14%, US 9%, Japan 6% (2019)<br>
+China 33%, Australia 12%, United States 11%, Japan 6%, South Korea 3% (2021)<br>
 
 **Exports - commodities**<br>
 milk cream powders, lumber, beef, butter, mutton (2021)<br>
@@ -516,10 +516,10 @@ $48.104 billion (2020 est.) note: data are in current year dollars<br>
 $57.682 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 18%, Australia 15%, US 9%, Japan 6%, Germany 5% (2019)<br>
+China 22%, Australia 15%, United States 7%, Japan 6%, Thailand 5% (2021)<br>
 
 **Imports - commodities**<br>
-cars, crude petroleum, refined petroleum, delivery trucks, gas turbines (2019)<br>
+cars, refined petroleum, crude petroleum, delivery trucks, broadcasting equipment, gas turbines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $16.114 billion (31 December 2021 est.)<br>
@@ -673,7 +673,7 @@ _major seaport(s)_: Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga
 
 **Military and security forces**<br>
 New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Royal New Zealand Air Force (2023)<br>
-<strong>note: </strong>the New Zealand Police, under the minister of police, are responsible for internal security<br>
+<strong>note: </strong>the New Zealand Police, under the Minister of Police, are responsible for internal security<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2022 est.)<br>

@@ -668,7 +668,7 @@ _lake port(s)_: Bujumbura (Lake Tanganyika)<br>
 
 **Military and security forces**<br>
 National Defense Force of Burundi (Force de Defense Nationale du Burundi or FDNB): Land Force (Force Terrestre), the Navy Force (Force Marine), the Air Force (Force Aerienne) and Specialized Units (Unites Specialisees) (2023)<br>
-<strong>note 1:</strong> the Specialized Units include a special security brigade for the protection of institutions (aka BSPI) and military police<br><br><strong>note 2:</strong> the Burundi National Police (Police Nationale du Burundi) are under the Ministry of Interior, Community Development, and Public Security<br>
+<strong>note 1:</strong> the Specialized Units include a special security brigade for the protection of institutions (aka BSPI) and military police<br><br><strong>note 2:</strong> in 2022, Burundi created a new reserve force (Force de réserve et d’appui au développement, FRAD); the FRAD's duties include organizing paramilitary trainings, supporting other components in protecting the integrity of the national territory, conceiving and implementing development projects, and operationalizing national and international partnerships<br><br><strong>note 3:</strong> the Burundi National Police (Police Nationale du Burundi) is under the Ministry of Interior, Community Development, and Public Security<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2022 est.)<br>
@@ -678,7 +678,7 @@ National Defense Force of Burundi (Force de Defense Nationale du Burundi or FDNB
 2.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25-30,000 active-duty troops, the majority of which are ground forces (2022)<br>
+approximately 25-30,000 active-duty troops, the majority of which are ground forces (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FDN has a mix of mostly older weapons and equipment typically of French, Russian, and Soviet origin, and a smaller selection of more modern secondhand equipment from such countries as China, South Africa, and the US (2023)<br>
@@ -699,6 +699,6 @@ the FDNB is responsible for defending Burundi’s territorial integrity and prot
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 86,230 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
-_IDPs_: 84,791 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1993 coup and fighting between government forces and rebel groups; violence since April 2015) (2022)<br>
+_IDPs_: 76,987 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1993 coup and fighting between government forces and rebel groups; violence since April 2015) (2023)<br>
 _stateless persons_: 767 (mid-year 2021)<br>
 

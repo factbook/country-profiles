@@ -687,7 +687,7 @@ _river port(s)_: Belgrade (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Serbian Armed Forces (Vojska Srbije, VS): Land Forces (aka Army; includes Riverine Component, consisting of a naval flotilla on the Danube), Air and Air Defense Forces, Serbian Guard; Serbian Ministry of Interior: General Police Directorate (2023)<br>
+Serbian Armed Forces (Vojska Srbije, VS): Land Forces (aka Army; includes Riverine Component, consisting of a naval flotilla on the Danube), Air and Air Defense Forces, Serbian Guard<br><br>Serbian Ministry of Interior: General Police Directorate (2023)<br>
 <strong>note:</strong> the Serbian Guard is a brigade-sized unit that is directly subordinate to the Serbian Armed Forces Chief of General Staff; its duties include safeguarding key defense facilities and rendering military honors to top foreign, state, and military officials <br><br>
 
 **Military expenditures**<br>
@@ -698,10 +698,10 @@ Serbian Armed Forces (Vojska Srbije, VS): Land Forces (aka Army; includes Riveri
 1.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active duty troops (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other); approximately 3,000 Gendarmerie (2022)<br>
+approximately 25,000 active-duty troops (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other); approximately 3,000 Gendarmerie (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of Russian and Soviet-era weapons systems; in recent years, Russia has been the largest suppliers of arms to Serbia; China has also provided a growing amount of arms (2023)<br>
+the military's inventory consists of Russian and Soviet-era weapons systems; in recent years, China and Russia have been the largest suppliers of arms to Serbia (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; conscription abolished January 2011 (2022)<br>
@@ -719,10 +719,10 @@ the Serbian Armed Forces were established in June 2006; the Serbian military tra
 <p><em>Serbia-Bosnia and Herzegovina</em>: Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute</p> <p><em>Serbia-Bulgaria</em>: none identified</p> <p><em>Serbia-Croatia</em>: Serbia and Croatia dispute their border along the Danube; Serbia claims the border is the median between the current Danube shorelines, with the land to the eastern side of the median belonging to Serbia; Croatia contends that the boundary is demarcated according to historic maps, despite the river having meandered since then</p> <p><em>Serbia-Hungary</em>: none identified</p> <p><em>Serbia-Kosovo</em>: Serbia with several other states protested the US and other states' recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; since 1999, NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo (UNMIK) authority have continued to keep the peace within Kosovo between the ethnic Albanian majority and the Serb minority; in October 2021, NATO-led KFOR increased patrols along the border with Serbia to deescalate hostilities caused by a dispute over license plates</p> <p><em>Serbia-Montenegro</em>: the former republic boundary serves as the boundary until a line is formally delimited and demarcated</p> <p><em>Serbia-North Macedonia</em>: none identified</p> <p><em>Serbia-Romania</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,334 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2022)<br>
-_IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
+_refugees (country of origin)_: 17,334 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2022); 5,690 (Ukraine) (as of 31 August 2023)<br>
+_IDPs_: 196,066 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2022)<br>
 _stateless persons_: 2,594 (includes stateless persons in Kosovo) (2022)<br>
-<strong>note:</strong> 995,408 estimated refugee and migrant arrivals (January 2015-August 2023)<br>
+<strong>note:</strong> 1,004,194 estimated refugee and migrant arrivals (January 2015-August 2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Serbia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; Serbia investigated more suspects, revised indicators to identify victims among schoolchildren, and increased resources for the Center for Protection of Trafficking Victims; officials developed a coordination body to support victims during criminal proceedings, formed four Special Working Groups for anti-trafficking issues, and designated an Ombudsman on trafficking; however, the government did not demonstrate overall increasing efforts compared with the previous year to expand its anti-trafficking capacity; there were no proactive efforts to identify victims, and implementation of standard operating procedures remained inadequate; an anti-trafficking council did not meet, and the government did not adopt the 2021-2022 National Action Plan; official complicity in trafficking crimes remained a concern; therefore, Serbia was downgraded to Tier 2 Watch List (2022)<br>

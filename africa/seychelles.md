@@ -639,8 +639,8 @@ _major seaport(s)_: Victoria<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Seychelles Defense Forces (SDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force; Ministry of Internal Affairs: Seychelles Police Force (includes unarmed police and an armed paramilitary Police Special Support Wing, and the Marine Police Unit) (2023)<br>
-<strong>note:</strong> the military reports to the president, who acts as minister of defense  <br>
+Seychelles Defense Forces (SDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force<br><br>Ministry of Internal Affairs: Seychelles Police Force (includes unarmed police and an armed paramilitary Police Special Support Wing, and the Marine Police Unit) (2023)<br>
+<strong>note:</strong> the SDF reports to the president, who acts as minister of defense  <br>
 
 **Military expenditures**<br>
 1.4% of GDP (2022 est.)<br>
@@ -650,13 +650,13 @@ Seychelles Defense Forces (SDF): Army (includes infantry, special forces, and a 
 1.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 500 personnel (2022)<br>
+approximately 500-1,000 personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SDF's inventory primarily consists of Soviet-era equipment delivered in the 1970s and 1980s; in recent years, the SDF has received limited amounts of more modern equipment, mostly donations of patrol boats and aircraft, from several suppliers led by China and India (2022)<br>
+the SDF's inventory primarily consists of Soviet-era equipment delivered in the 1970s and 1980s; in recent years, the SDF has received limited amounts of more modern equipment, mostly donations of patrol boats and aircraft, from several suppliers led by China and India (2023)<br>
 
 **Military service age and obligation**<br>
-18-28 (18-25 for officers) years of age for voluntary military service for men and women; 6-year initial commitment; no conscription (2022)<br>
+18-28 (18-25 for officers) years of age for voluntary military service for men and women; 6-year initial commitment; no conscription (2023)<br>
 
 **Military - note**<br>
 formed in 1977, the SDF is one of the world's smallest militaries; its primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling; it was given police powers in 2022; the Seychelles has strong security ties with India (2023)<br>

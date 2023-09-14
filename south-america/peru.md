@@ -716,7 +716,7 @@ _river port(s)_: Iquitos, Pucallpa, Yurimaguas (Amazon)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Peru (Fuerzas Armadas del Per&uacute; or FAP): Peruvian Army (Ejercito del Peru), Peruvian Navy (Marina de Guerra del Peru, MGP, includes naval infantry and Coast Guard), Air Force of Peru (Fuerza Aerea del Peru, FAP); Ministry of the Interior (Ministerio del Interior): Peruvian National Police (Polic&iacute;a Nacional del Per&uacute;, PNP) (2023)<br>
+Armed Forces of Peru (Fuerzas Armadas del Perú or FAP): Peruvian Army (Ejercito del Peru), Peruvian Navy (Marina de Guerra del Peru, MGP, includes naval infantry and Coast Guard), Air Force of Peru (Fuerza Aerea del Peru, FAP)<br><br>Ministry of the Interior (Ministerio del Interior): Peruvian National Police (Policía Nacional del Perú, PNP) (2023)<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2022 est.)<br>
@@ -726,7 +726,7 @@ Armed Forces of Peru (Fuerzas Armadas del Per&uacute; or FAP): Peruvian Army (Ej
 1.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 95,000 active-duty personnel (60,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2022)<br>
+information varies; approximately 95,000 active-duty personnel (60,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of mostly older equipment from a wide variety of suppliers, including Brazil, Europe, Russia/the former Soviet Union, and the US; in recent years, it has received some more modern weapons systems from more than a dozen countries with South Korea as the leading supplier (2023)<br>
@@ -736,7 +736,7 @@ the military's inventory is a mix of mostly older equipment from a wide variety 
 <strong>note: </strong>as of 2019, women made up about 10% of the active duty military<br>
 
 **Military deployments**<br>
-215 Central African Republic (MINUSCA) (May 2022)<br>
+225 Central African Republic (MINUSCA) (2023)<br>
 
 **Military - note**<br>
 the Peruvian Armed Forces (FAP) are responsible for external security in addition to some domestic security responsibilities in designated emergency areas and in exceptional circumstances; key areas of focus include counterinsurgency, counternarcotics, disaster relief, and maritime security operations; the FAP trains regularly and participates in both bilateral and multinational exercises; it has contributed to UN missions since 1958 and has ties to regional militaries, particularly Colombia, as well as those of numerous other countries such as China, Russia, Spain, and the US; the FAP’s last external conflict was a brief border war with Ecuador in 1995; the FAP supported the police during anti-government protests in early 2023 and was accused of human rights violations <br><br>the Joint Command of the Armed Forces of Peru (Comando Conjunto de las Fuerzas Armadas del Perú or CCFFAA) has responsibility for the planning, preparation, coordination, and direction of the military’s operations; the CCFFAA has oversight over commands for air, air defense, cyber, maritime, and special operations, as well as five regional commands (Amazonas, central, north, south, and Ucayali) and a Special Command of the Valley of the Apurimac, Ene, and Mantaro rivers (CE-VRAEM); CE-VRAEM is responsible for combating the remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T) and includes several thousand air, ground, naval, police, and special forces personnel; the FAP also provides aircraft, vehicles, and logistical support to the command  <br><br>the Army was officially established in 1821 with the formation of the Peruvian Guard Legion; it has five regionally based divisions comprised of about 20 combat brigades, which include a mix of armored, artillery, jungle infantry, light infantry, mechanized cavalry, and special forces; the Army also has an aviation brigade and a multi-purpose support brigade designed in large part to provide assistance during natural disasters; the Navy, also established in 1821, includes the Coast Guard; it has undertaken efforts to modernize since the 2000s; the Navy’s warships include seven frigates, 15 corvettes and patrol ships, and six attack submarines; it also has a flotilla of river gunboats, plus naval aviation and a marine force comprised of amphibious infantry, light infantry, jungle infantry, and commandos; the Air Force, established in the 1920s, has several squadrons of French-, Russian-, and US-made fighters, multirole fighters, and fixed-wing ground attack aircraft, as well as attack helicopters (2023)<br>
@@ -769,7 +769,7 @@ Shining Path (Sendero Luminoso)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 1,518,102 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2023)<br>
-_IDPs_: 60,000 (civil war from 1980-2000; most IDPs are indigenous peasants in Andean and Amazonian regions; as of 2011, no new information on the situation of these IDPs) (2021)<br>
+_IDPs_: 73,000 (civil war from 1980-2000; most IDPs are indigenous peasants in Andean and Amazonian regions; as of 2011, no new information on the situation of these IDPs) (2022)<br>
 
 **Illicit drugs**<br>
 <p>world’s second-largest producer of cocaine and coca (after Colombia), with approximately 84,400 hectares (ha) under cultivation in 2021;  Peruvian cocaine is trafficked throughout South America for shipment to Europe, East Asia, Mexico, and the United States;  major importer of precursor chemicals for cocaine production; growing domestic drug consumption problem; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>

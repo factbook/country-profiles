@@ -676,8 +676,8 @@ _container port(s) (TEUs)_: Balboa (3,561,432), Colon (4,915,975) (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Public Security: the Panama National Police (La Policía Nacional de Panamá, PNP), National Aeronaval Service (Servicio Nacional Aeronaval, SENAN), National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2023)<br>
-<strong>note:</strong> the PNP includes a special forces directorate with counterterrorism and counternarcotics units; SENAFRONT has three regionally-based border security brigades, plus a specialized brigade comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
+no regular military forces; the paramilitary Panamanian Public Forces are under the Ministry of Public Security and include the Panama National Police (La Policía Nacional de Panamá, PNP), National Aeronaval Service (Servicio Nacional Aeronaval, SENAN), and National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2023)<br>
+<strong>note:</strong> the PNP includes a special forces directorate with counterterrorism and counternarcotics units; SENAFRONT has three regionally based border security brigades, plus a specialized brigade comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2022 est.)<br>
@@ -687,13 +687,13 @@ no regular military forces; Ministry of Public Security: the Panama National Pol
 1.1% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 20,000 National Police; 4,000 National Border Service; 3,000 National Air-Naval Service (2022)<br>
+approximately 27,000 Ministry of Public Security personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces in recent years (2023)<br>
 
 **Military - note**<br>
-the Panama National Police is principally responsible for internal law enforcement and public order, while the National Border Service handles border security; the Aeronaval Service is responsible for carrying out naval and air operations that include some internal security responsibilities; key areas of focus are countering narcotics trafficking and securing the border, particularly along the southern border with Colombia where most of the public security forces are deployed<br><br>Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2023)<br>
+the Panama National Police is principally responsible for internal law enforcement and public order, while the National Border Service handles border security; the Aeronaval Service is responsible for carrying out naval and air operations that include some internal security responsibilities; key areas of focus are countering narcotics trafficking and securing the border, particularly along the southern border with Colombia where the National Border Service (SENAFRONT) maintains a significant presence<br><br>Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2023)<br>
 
 ## Transnational Issues
 

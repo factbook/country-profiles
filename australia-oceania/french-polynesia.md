@@ -267,7 +267,7 @@ see France<br>
 
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by High Commissioner of the Republic Dominique SORAIN (since 10 July 2019)<br>
-_head of government_: President of French Polynesia Moetai BROTHERSON Edouard FRITCH (since 12 May 2023)<br>
+_head of government_: President of French Polynesia Moetai BROTHERSON (since 12 May 2023)<br>
 _cabinet_: Council of Ministers approved by the Assembly from a list of its members submitted by the president<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; French Polynesia president indirectly elected by Assembly of French Polynesia for a 5-year term (no term limits)<br>
 
@@ -318,9 +318,10 @@ under certain acts of France, French Polynesia has acquired autonomy in all area
 small, territorial-island tourism-based economy; large French financing; lower EU import duties; Pacific Islands Forum member; fairly resilient from COVID-19; oil-dependent infrastructure<br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.49 billion (2017 est.)<br>
-$5.383 billion (2016 est.)<br>
-$6.963 billion (2015 est.)<br>
+$5.65 billion (2021 est.)<br>
+$5.52 billion (2020 est.)<br>
+$5.94 billion (2019 est.)<br>
+<strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
 1.02% (2021 est.)<br>
@@ -328,9 +329,10 @@ $6.963 billion (2015 est.)<br>
 2.42% (2019 est.)<br>
 
 **Real GDP per capita**<br>
-$17,000 (2015 est.)<br>
-$20,100 (2014 est.)<br>
-$22,700 (2010)<br>
+$18,600 (2021 est.)<br>
+$18,300 (2020 est.)<br>
+$19,800 (2019 est.)<br>
+<strong>note:</strong> data are in 2015 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $4.795 billion (2015 est.)<br>
@@ -353,7 +355,7 @@ _exports of goods and services_: 17.5% (2014 est.)<br>
 _imports of goods and services_: -37.5% (2014 est.)<br>
 
 **Agricultural products**<br>
-coconuts, fruit, roots/tubers nes, pineapples, cassava, sugar cane, eggs, tropical fruit, tomatoes<br>
+coconuts, fruit, roots/tubers, pineapples, cassava, sugar cane, eggs, tropical fruit, tomatoes<br>
 
 **Industries**<br>
 tourism, pearls, agricultural processing, handicrafts, phosphates<br>
@@ -404,24 +406,26 @@ $411.963 million (2016 est.)<br>
 $158.8 million (2013 est.)<br>
 
 **Exports**<br>
-$1.245 billion (2014 est.)<br>
-$1.168 billion (2013 est.)<br>
+$162 million (2021 est.)<br>
+$94.4 million (2020 est.)<br>
+$184 million (2019 est.)<br>
 
 **Exports - partners**<br>
-Japan 23.1%, Hong Kong 21.5%, Kyrgyzstan 15.9%, US 15.9%, France 12.4% (2017)<br>
+United States 47%, Japan 17%, France 14%, Netherlands 4%, Poland 3% (2021)<br>
 
 **Exports - commodities**<br>
 paintings, pearls, tuna, aircraft parts, coconut oil, vanilla, electrical panels (2021)<br>
 
 **Imports**<br>
-$2.235 billion (2014 est.)<br>
-$2.271 billion (2013 est.)<br>
+$1.66 billion (2021 est.)<br>
+$1.75 billion (2020 est.)<br>
+$2.24 billion (2019 est.)<br>
 
 **Imports - partners**<br>
-France 27.9%, South Korea 12.1%, US 10.1%, China 7.3%, NZ 6.7%, Singapore 4.2% (2017)<br>
+France 43%, New Zealand 12%, China 8%, United States 6%, Singapore 5% (2021)<br>
 
 **Imports - commodities**<br>
-fuels, foodstuffs, machinery and equipment<br>
+refined petroleum, cars, packaged medicines, broadcasting equipment, passenger ships (2021)<br>
 
 **Debt - external**<br>
 <p>NA</p><br>

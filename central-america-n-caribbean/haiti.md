@@ -679,7 +679,7 @@ the International Maritime Bureau reported one incident in the territorial water
 <p>since 2004, peacekeepers from the UN Stabilization Mission in Haiti have assisted in maintaining civil order in Haiti; the mission currently includes 6,685 military, 2,607 police, and 443 civilian personnel; despite efforts to control illegal migration, Haitians cross into the Dominican Republic and sail to neighboring countries; Haiti claims US-administered Navassa Island</p><br>
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 17,000 (violence among armed gangs in the metropolitan area os Port-au-Prince) (2021)<br>
+_IDPs_: 171,000 (violence among armed gangs in the metropolitan area os Port-au-Prince) (2022)<br>
 _stateless persons_: 2,992 (2018); note - individuals without a nationality who were born in the Dominican Republic prior to January 2010<br>
 
 **Trafficking in persons**<br>

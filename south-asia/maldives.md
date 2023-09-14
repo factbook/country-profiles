@@ -324,11 +324,11 @@ _residency requirement for naturalization_: unknown<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Ibrahim "Ibu" Mohamed SOLIH (since 17 November 2018); Vice President&nbsp;Faisal NASEEM (since 17 November 2018); the president is both chief of state and head of government<br>
-_head of government_: President Ibrahim "Ibu" Mohamed SOLIH (since 17 November 2018); Vice President Faisal NASEEM (since 17 November 2018)<br>
+_chief of state_: President Ibrahim Mohamed SOLIH (since 17 November 2018); Vice President Faisal NASEEM (since 17 November 2018); the president is both chief of state and head of government<br>
+_head of government_: President Ibrahim Mohamed SOLIH (since 17 November 2018); Vice President Faisal NASEEM (since 17 November 2018)<br>
 _cabinet_: Cabinet of Ministers appointed by the president, approved by Parliament<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 September 2018 (next to be held on 9 September 2023)<br>
-_election results_: Ibrahim Mohamed SOLIH elected president in first round; Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); first round held on 9 September 2023 (runoff to be held on 30 September 2023)<br>
+_election results_: <em><br>2023:</em> first round results - Mohamed MUIZZI 46.1%, Ibrahim Mohamed SOLIH 39.1%, Ilyas LEBEEB 7.1%, other 7.7%<br><br><em>2018</em>: Ibrahim Mohamed SOLIH elected president in first round; Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7% <br><br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or People's Majlis (87 seats - includes 2 seats added by the Elections Commission in late 2018; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
@@ -640,8 +640,8 @@ _major seaport(s)_: Male<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Republic of Maldives has no distinct army, navy, or air force but a single security unit called the Maldives National Defense Force (MNDF) comprised of ground forces, an air element, a coast guard, a presidential security division, and a special protection group (2023)<br>
-<strong>note:</strong> the Maldives Police Service is responsible for internal security and reports to the Ministry of Home Affairs; the MNDF is responsible for counterterrorism<br>
+Maldives National Defense Force (MNDF): Coast Guard, Marine Corps, Fire and Rescue Service, Defense Intelligence Service, Service Corps, Adjutant General's Corps, Special Protection Corps, Special Forces, Training and Education Command, Welfare and Recreation Service (2023)<br>
+<strong>note:</strong> the Maldives Police Service is responsible for internal security and reports to the Ministry of Home Affairs<br>
 
 **Military expenditures**<br>
 not available<br>
@@ -656,7 +656,7 @@ India has provided most of the equipment in the MNDF's inventory (2023)<br>
 18-28 years of age for voluntary service; no conscription; 10th grade or equivalent education required; must not be a member of a political party (2022)<br>
 
 **Military - note**<br>
-the MNDF is primarily tasked to reinforce the Maldives Police Service and ensure security in the country's exclusive economic zone (2023)<br>
+the Maldives National Defense Force (MNDF) is responsible for defending and safeguarding the Maldives' territorial integrity, economic exclusion zone, and people; it is also responsible for disaster relief, and if requested, assisting the Maldives Police Service in maintaining internal security and law and order; the MNDF is organized into four area commands and a functional Special Forces command; the head of the MNDF reports to the Minister of Defense (2023)<br>
 
 ## Terrorism
 

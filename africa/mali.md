@@ -702,7 +702,7 @@ Malian Armed Forces (Forces Armées Maliennes or FAMa): Land Forces (l’Armée 
 3.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 20,000 active FAMa personnel (includes up to 2,000 Air Force); approximately 5,000 Gendarmerie; approximately 10,000 National Guard (2022)<br>
+information varies; estimated 35,000 total active military and paramilitary personal, including approximately 20,000 FAMa (up to 2,000 Air Force), 5,000 Gendarmerie, and 10,000 National Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAMa's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of newer armaments from more than a dozen countries, especially China and Russia (2023)<br>
@@ -728,7 +728,7 @@ Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 <p><em>Mali-Burkina Faso</em>: demarcation is underway with Burkina Faso</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 27,794 (Burkina Faso) (refugees and asylum seekers), 19,547 (Niger) (refugees and asylum seekers), 14,953 (Mauritania) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 28,820 (Burkina Faso) (refugees and asylum seekers), 19,712 (Niger) (refugees and asylum seekers), 14,955 (Mauritania) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 375,539 (Tuareg rebellion since 2012) (2023)<br>
 
 **Illicit drugs**<br>

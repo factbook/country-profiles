@@ -294,16 +294,21 @@ _lyrics/music_: unknown/unknown, prepared by Sioeli FUSIKATA<br>
 ## Economy
 
 **Economic overview**<br>
-upper-middle-income self-governing New Zealand territorial economy; massive emigration; postage stamps, small-scale agricultural processing, and subsistence farming; depends on New Zealand subsidies; EU preferential market access not utilized<br>
+upper-middle-income self-governing New Zealand territorial economy; environmentally fragile; massive emigration; post-pandemic tourism rebound; postage stamps, small-scale agricultural processing, and subsistence farming; most recent Asian Development Bank member<br>
 
 **Real GDP (purchasing power parity)**<br>
-$10.01 million (2003 est.)<br>
+$18.7 million (2021 est.)<br>
+$19.9 million (2020 est.)<br>
+$20.9 million (2019 est.)<br>
 
 **Real GDP growth rate**<br>
 6.2% (2003 est.)<br>
 
 **Real GDP per capita**<br>
-$5,800 (2003 est.)<br>
+$11,100 (2021 est.)<br>
+$11,800 (2020 est.)<br>
+$12,400 (2019 est.)<br>
+<strong>note:</strong> data are in 2009 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $10.01 million (2003) (2003)<br>
@@ -352,22 +357,22 @@ _expenditures_: $16.33 million (FY04/05)<br>
 1 April - 31 March<br>
 
 **Exports**<br>
-$201,400 (2004 est.)<br>
+$5.68 million (2021 est.)<br>
 
 **Exports - partners**<br>
-Indonesia 92%, South Korea 5% (2019)<br>
+Indonesia 57%, Thailand 7%, South Korea 5%, Czechia 4%, Poland 4% (2021)<br>
 
 **Exports - commodities**<br>
 tanker ships, collector's items, commemorative coins, fruits, nuts, juice, electrical resistors (2021)<br>
 
 **Imports**<br>
-$9.038 million (2004 est.)<br>
+$43.8 million (2021 est.)<br>
 
 **Imports - partners**<br>
-New Zealand 43%, United Kingdom 30%, Japan 22% (2019)<br>
+New Zealand 41%, United Kingdom 40%, Japan 15%, Israel 3%, Fiji 1% (2021)<br>
 
 **Imports - commodities**<br>
-hydraulic engines, ships, refined petroleum, cars, plastics (2019)<br>
+floating platforms, tugboats, refined petroleum, cargo ships, cars, plasticware (2021)<br>
 
 **Debt - external**<br>
 $418,000 (2002 est.)<br>

@@ -717,7 +717,7 @@ Bolivian Armed Forces (Fuerzas Armadas de Bolivia or FAB): Bolivian Army (Ejerci
 1.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies widely; approximately 40,000 active troops (28,000 Army; 5,000 Navy; 7,000 Air Force; note - a considerable portion of the Navy personnel are marines and naval police); approximately 40,000 National Police (2022)<br>
+estimates range from 40,000 to as many as 70,000 active-duty military personnel; approximately 40,000 National Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military is equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment; in recent years, France has been the leading supplier (2023)<br>

@@ -664,7 +664,7 @@ _major seaport(s)_: Banjul<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Gambian Armed Forces (GAF): the Gambian National Army (GNA), Gambia Navy, Gambia Air Force, Republican National Guard (2023)<br>
+Gambian Armed Forces (GAF; aka Armed Forces of the Gambia): the Gambian National Army (GNA), Gambia Navy, Gambia Air Force, Republican National Guard (2023)<br>
 <strong>note: </strong>the National Guard is responsible for VIP protection, riot control, and presidential security; the Gambia Police Force under the Ministry of Interior maintains internal security<br>
 
 **Military expenditures**<br>
@@ -675,7 +675,7 @@ Gambian Armed Forces (GAF): the Gambian National Army (GNA), Gambia Navy, Gambia
 0.7% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 3,000 active troops (2022)<br>
+estimated 3,000 military personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the GAF has a limited and obsolescent equipment inventory originating from several suppliers, including China, the UK, and the US (2023)<br>
@@ -690,4 +690,7 @@ the Gambian security forces have a history of involvement in domestic politics, 
 
 **Disputes - international**<br>
 <p>attempts to stem refugees, cross-border raids, arms smuggling, and other illegal activities by separatists from southern Senegal's Casamance region, as well as from conflicts in other west African states</p><br>
+
+**Refugees and internally displaced persons**<br>
+_IDPs_: 5,600 (2022)<br>
 

@@ -684,8 +684,8 @@ _river port(s)_: Asuncion, Villeta, San Antonio, Encarnacion (Parana)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Paraguay (Fuerzas Armadas de Paraguay; aka Armed Forces of the Nation or Fuerzas Armadas de la Nación): Paraguayan Army (Ejército Paraguayo), Paraguayan Navy (Armada Paraguaya; includes marines), Paraguayan Air Force (Fuerza Aérea Paraguaya); Ministry of Internal Affairs: National Police of Paraguay (Policía Nacional del Paraguay, PNP) (2023)<br>
-<strong>note: </strong>Paraguay also has a National Counterdrug Bureau (Secretaria Nacional Antidrogas or SENAD) that operates under the presidency <br>
+Armed Forces of Paraguay (Fuerzas Armadas de Paraguay; aka Armed Forces of the Nation or Fuerzas Armadas de la Nación): Paraguayan Army (Ejército Paraguayo), Paraguayan Navy (Armada Paraguaya; includes marines), Paraguayan Air Force (Fuerza Aérea Paraguaya)<br><br>Ministry of Internal Affairs: National Police of Paraguay (Policía Nacional del Paraguay, PNP) (2023)<br>
+<strong>note: </strong>Paraguay also has a National Counterdrug Bureau (Secretaria Nacional Antidrogas or SENAD) that operates under the presidency<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2022 est.)<br>
@@ -695,7 +695,7 @@ Armed Forces of Paraguay (Fuerzas Armadas de Paraguay; aka Armed Forces of the N
 1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 15,000 active duty personnel (10,000 Army; 3,500 Navy; 1,500 Air Force) (2022)<br>
+approximately 20,000 active-duty personnel (13,500 Army; 4,000 Navy; 2,500 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US (2023)<br>

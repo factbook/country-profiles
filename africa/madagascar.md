@@ -675,7 +675,7 @@ Madagascar People's Armed Forces (PAF): Army, Navy, Air Force; National Gendarme
 0.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); estimated 10,000 Gendarmerie (2022)<br>
+estimated 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); estimated 10,000 Gendarmerie (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the PAF's inventory consists mostly of aging Soviet-era equipment; in recent years, it has received small amounts of secondhand equipment from South Africa and the UAE (2023)<br>

@@ -684,8 +684,8 @@ _lake port(s)_: Entebbe, Jinja, Port Bell (Lake Victoria)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Uganda People's Defense Force (UPDF): Land Force (includes marines), Air Force, Special Forces Command, Reserve Force; Ministry of Internal Affairs: Uganda Police Force (2023)<br>
-<strong>note 1:</strong> the Special Forces Command is a separate branch within the UPDF; it evolved from the former Presidential Guard Brigade and has continued to retain presidential protection duties in addition to its conventional missions, such as counterinsurgency<br><br><strong>note 2:</strong> the Uganda Police Force includes air, field, territorial, and marine units, as well as a presidential guard force<br><br><strong>note 3:</strong> in 2018, President MUSEVENI created a volunteer force of Local Defense Units under the military to beef up local security in designated parts of the country<br>
+Uganda People's Defense Force (UPDF): Land Force (includes marines), Air Force, Special Forces Command, Reserve Force <br><br>Ministry of Internal Affairs: Uganda Police Force (2023)<br>
+<strong>note 1:</strong> the Special Forces Command is a separate branch within the UPDF; it evolved from the former Presidential Guard Brigade and has continued to retain presidential protection duties in addition to its traditional missions, such as counterinsurgency<br><br><strong>note 2:</strong> the Uganda Police Force includes air, field, territorial, and marine units, as well as a presidential guard force<br><br><strong>note 3:</strong> in 2018, President MUSEVENI created a volunteer force of Local Defense Units under the military to beef up local security in designated parts of the country<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2022 est.)<br>
@@ -695,16 +695,16 @@ Uganda People's Defense Force (UPDF): Land Force (includes marines), Air Force, 
 1.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 50,000 troops, including about 1,000-1,500 air and marine personnel; approximately 20-30,000 personnel in the Local Defense Units (2022)<br>
+approximately 45-50,000 active-duty troops (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited mix of more modern Russian- and Western-origin arms; in recent years, Russia has been the leading supplier of arms to the UPDF; Uganda has a small but growing defense industry that can manufacture light armored vehicles and perform maintenance on some military equipment, including its Russian-made helicopters&nbsp; (2023)<br>
+the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited mix of more modern Russian- and Western-origin arms; in recent years, Belarus and Russia have been the leading supplier of arms to the UPDF; Uganda has a small but growing defense industry that can manufacture light armored vehicles and perform maintenance on some military equipment, including its Russian-made helicopters (2023)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military duty for men and women; 18-30 for those with degrees/diplomas in specialized fields such as medicine, engineering, chemistry, and education, or possess qualifications in some vocational skills; 9-year service obligation (2022)<br>
 
 **Military deployments**<br>
-6,500 Somalia (ATMIS; UNSOM); 250 Equatorial Guinea (training mission) (2023)<br>
+approximately 6,500 Somalia (625 for UNSOM; the remainder under ATMIS; note - foreign troop contingents in Somalia under ATMIS are drawing down towards a final withdrawal in December 2024); 250 Equatorial Guinea (training mission) (2023)<br>
 <strong>note:</strong> in December 2022, Uganda sent approximately 1,000 troops to the eastern part of the Democratic Republic of the Congo (DRC) as part of a newly formed East Africa Community Regional Force (EACRF) to assist the DRC military against the rebel group M23<br>
 
 **Military - note**<br>
@@ -731,6 +731,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 891,331 (South Sudan) (refugees and asylum seekers), 494,874 (Democratic Republic of the Congo), 69,614 (Somalia), 42,641 (Burundi), 32,871 (Eritrea), 23,457 (Rwanda), 7,787 (Ethiopia) (2023)<br>
+_refugees (country of origin)_: 893,925 (South Sudan) (refugees and asylum seekers), 494,874 (Democratic Republic of the Congo), 51,692 (Somalia), 41,132 (Burundi), 36,900 (Eritrea), 23,808 (Rwanda), 9,139 (Ethiopia), 5,776 (Sudan) (2023)<br>
 _stateless persons_: 67,000 (2022)<br>
 

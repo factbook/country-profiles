@@ -311,12 +311,12 @@ _selected World Heritage Site locales_: Lagoons of New Caledonia<br>
 ## Economy
 
 **Economic overview**<br>
-upper-middle-income French Pacific territorial economy; large tourism presence that was hit hard by COVID-19; nickel and other metals mining operations; continuing French subsidies; large exporter of nickel to China<br>
+upper-middle-income French Pacific territorial economy; enormous nickel reserves; ongoing French independence negotiations; large Chinese nickel exporter; luxury eco-tourism destination; large French aid recipient; high cost-of-living; lingering wealth disparities<br>
 
 **Real GDP (purchasing power parity)**<br>
+$10.266 billion (2021 est.)<br>
 $11.11 billion (2017 est.)<br>
 $10.89 billion (2016 est.)<br>
-$10.77 billion (2015 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -325,9 +325,9 @@ $10.77 billion (2015 est.)<br>
 3.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
+$35,700 (2021 est.)<br>
 $31,100 (2015 est.)<br>
 $32,100 (2014 est.)<br>
-$29,800 (2012 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $9.77 billion (2017 est.)<br>
@@ -405,23 +405,26 @@ calendar year<br>
 -$1.861 billion (2013 est.)<br>
 
 **Exports**<br>
-$2.207 billion (2014 est.)<br>
+$1.92 billion (2021 est.)<br>
+$1.8 billion (2020 est.)<br>
+$1.79 billion (2019 est.)<br>
 
 **Exports - partners**<br>
-China 59%, South Korea 14%, Japan 11% (2019)<br>
+China 55%, South Korea 16%, Japan 11%, Taiwan 4%, Spain 3% (2021)<br>
 
 **Exports - commodities**<br>
 iron alloys, nickel, essential oils, recreational boats, shrimp (2021)<br>
 
 **Imports**<br>
-$2.715 billion (2015 est.)<br>
-$4.4 billion (2014 est.)<br>
+$2.26 billion (2021 est.)<br>
+$2.1 billion (2020 est.)<br>
+$2.48 billion (2019 est.)<br>
 
 **Imports - partners**<br>
-France 43%, Australia 12%, Singapore 12%, China 6% (2019)<br>
+France 39%, Australia 14%, Singapore 11%, New Zealand 7%, China 7% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, aircraft, coal, cars, packaged medicines (2019)<br>
+refined petroleum, coal, cars, packaged medicines, delivery trucks (2021)<br>
 
 **Debt - external**<br>
 $112 million (31 December 2013 est.)<br>

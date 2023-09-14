@@ -667,13 +667,13 @@ Lesotho Defense Force (LDF): Army (includes Air Wing) (2023)<br>
 2.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 personnel (2022)<br>
+approximately 2,000 personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the LDF has a small inventory of older and second-hand equipment from a variety of countries (2023)<br>
 
 **Military service age and obligation**<br>
-20-30 years of age for voluntary military service; no conscription (2022)<br>
+20-30 years of age for voluntary military service for both men and women (women can serve in combat arms); no conscription (2023)<br>
 
 **Military - note**<br>
 Lesotho's declared policy for its military is the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa; the LDF is a small force comprised of about a half dozen infantry companies; it began in 1964 as the Police Mobile Unit (PMU); the PMU was designated as the Lesotho Paramilitary Force in 1980 and became the Royal Lesotho Defense Force in 1986; it was subsequently renamed the Lesotho Defense Force in 1993 (2023)<br>

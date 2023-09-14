@@ -739,7 +739,7 @@ Brazilian Armed Forces (Forças Armadas Brasileiras): Brazilian Army (Exercito B
 1.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 360,000 active military personnel (220,000 Army; 70,000 Navy; 70,000 Air Force) (2022)<br>
+approximately 360,000 active military personnel (220,000 Army; 70,000 Navy; 70,000 Air Force); approximately 400,000 paramilitary security forces (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Brazilian military's inventory consists of a mix of domestically produced and imported weapons, largely from Europe and the US; in recent years, the US and several European countries have been the leading suppliers of military equipment to Brazil; Brazil's defense industry designs and manufactures equipment for all three military services and for export; it also jointly produces equipment with other countries (2023)<br>
@@ -779,7 +779,7 @@ Hizballah (2022)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 449,678 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)<br>
-_IDPs_: 21,000<br>
+_IDPs_: 5,600 (2022)<br>
 _stateless persons_: 12 (2022)<br>
 
 **Illicit drugs**<br>

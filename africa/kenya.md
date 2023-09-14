@@ -707,7 +707,7 @@ Kenya Defense Forces (KDF): Kenya Army, Kenya Navy, Kenya Air Force (2023)<br>
 1.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 24,000 personnel (20,000 Army; 1,500 Navy; 2,500 Air Force) (2022)<br>
+approximately 24,000 personnel (20,000 Army; 1,500 Navy; 2,500 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the KDF's inventory traditionally carried mostly older or second-hand Western weapons systems, particularly from France, the UK, and the US; however, since the 2000s it has sought to modernize and diversify its imports, and suppliers have included several countries including China, Italy, and the US (2023)<br>
@@ -750,7 +750,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 281,319 (Somalia), 157,402 (South Sudan), 57,286 (Democratic Republic of the Congo), 21,847 (Ethiopia), 8,392 (Burundi), 5,756 (Sudan) (2023)<br>
-_IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2021)<br>
+_IDPs_: 30,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2022)<br>
 _stateless persons_: 16,779 (2022); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 
 **Illicit drugs**<br>

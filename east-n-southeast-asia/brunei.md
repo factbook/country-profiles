@@ -653,7 +653,7 @@ Royal Brunei Armed Forces: Land Force, Navy, Air Force, Joint Force<br><br>Minis
 2.8% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,000 total active troops (4,000 Army; 1,000 Navy; 1,000 Air Force) (2022)<br>
+approximately 7,000 total active-duty troops (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's s inventory includes equipment and weapons systems from a wide variety of suppliers from Asia, Europe, and the US (2023)<br>

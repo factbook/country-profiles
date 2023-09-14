@@ -352,7 +352,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King WACHIRALONGKON, also spelled Vajiralongkorn (since 1 December 2016)<br>
-_head of government_: Prime Minister PRAYUT Chan-ocha (since July 2019)<br>
+_head of government_: Prime Minister SETTHA Thawisin (since 5 September 2023)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the king; a Privy Council advises the king<br>
 _elections/appointments_: the monarchy is hereditary; prime minister candidate approved by the House of Representatives and Senate and appointed by the king; starting in 2024, approval of prime minister needed only by the House of Representatives<br>
 <strong>note:</strong>  PRAYUT Chan-ocha was appointed interim prime minister in August 2014, three months after he staged the coup that removed the previously elected government of Prime Minister YINGLAK Chinnawat; on 5 June 2019, PRAYUT (independent) approved as prime minister by the National Assembly; the Constitutional Court in September 2022 ruled that PRAYUT's term as prime minister began in April 2017 with the promulgation of Thailand's most recent constitution, meaning he will not reach the statutory 8-year limit until 2025<br>
@@ -700,8 +700,8 @@ _LNG terminal(s) (import)_: Map Ta Phut<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Thai, RTA), Royal Thai Navy (Kongthap Ruea Thai, RTN; includes Royal Thai Marine Corps), Royal Thai Air Force (Kongthap Akaat Thai, RTAF); Office of the Prime Minister: Royal Thai Police; Internal Security Operations Command (ISOC) (2023)<br>
-<strong>note 1:</strong> the ISOC oversees counter-insurgency operations, as well as countering terrorism, narcotics and weapons trafficking, and other internal security duties; it is primarily run by the Army<br><br><strong>note 2:</strong> official paramilitary forces in Thailand include the Thai Rangers (Thahan Phran or "Hunter Soldiers") under the Army; the Paramilitary Marines under the Navy; the Border Patrol Police (BPP) under the Royal Thai Police; the Volunteer Defense Corps (VDC or <em>O So</em>) and National Defense Volunteers (NDV), both under the Ministry of Interior; there are also several government-backed volunteer militias created to provide village security against insurgents in the deep south or to assist the ISOC<br>
+Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Thai, RTA), Royal Thai Navy (Kongthap Ruea Thai, RTN; includes Royal Thai Marine Corps), Royal Thai Air Force (Kongthap Akaat Thai, RTAF)<br><br>Office of the Prime Minister: Royal Thai Police (2023)<br>
+<strong>note 1:</strong> the Thai Internal Security Operations Command (ISOC) oversees counter-insurgency operations, as well as countering terrorism, narcotics and weapons trafficking, and other internal security duties; it is primarily run by the Army<br><br><strong>note 2:</strong> official paramilitary forces in Thailand include the Thai Rangers (Thahan Phran or "Hunter Soldiers") under the Army; the Paramilitary Marines under the Navy; the Border Patrol Police (BPP) under the Royal Thai Police; the Volunteer Defense Corps (VDC or <em>O So</em>) and National Defense Volunteers (NDV), both under the Ministry of Interior; there are also several government-backed volunteer militias created to provide village security against insurgents in the deep south or to assist the ISOC<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2022 est.)<br>
@@ -711,17 +711,17 @@ Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Th
 1.3% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 300,000 active duty personnel (200,000 Army; 70,000 Navy; 30,000 Air Force); approximately 230,000 Royal Thai Police (2022)<br>
+estimated 350,000 active-duty personnel (250,000 Army; 70,000 Navy; 30,000 Air Force); approximately 230,000 Royal Thai Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RTARF has a diverse array of foreign-supplied weapons systems, including a large amount of older US equipment; in recent years, Thailand has received arms from nearly 20 countries, including China, South Korea, Sweden, Ukraine, and the US; Thailand has been making efforts to increase its domestic defense production capabilities in such areas as armored vehicles, unmanned aerial systems, and other military technologies (2023)<br>
+the RTARF has a diverse array of foreign-supplied weapons systems, including a considerable amount of older US equipment; over the past decade, Thailand has received arms from nearly 20 countries, with China, South Korea, Ukraine, and the US being among the leading suppliers; in recent years, Thailand has been making efforts to increase its domestic defense production capabilities in such areas as armored vehicles, unmanned aerial systems, and other military technologies (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; 21 years of age for compulsory military service for men; men register at 18 years of age; volunteer service obligation may be as short as 6 or 12 months, depending on educational qualifications; conscript service obligation also varies by educational qualifications, but is typically 24 months (2023)<br>
 <strong>note 1:</strong> serving in the armed forces is a national duty of all Thai citizens; conscription was introduced in 1905; it includes women, however, only men over the age of 21 who have not gone through reserve training are conscripted; conscripts are chosen by lottery (on draft day, eligible draftees can request volunteer service, or they may choose to stay for the conscription lottery); approximately 75-100,000 men are drafted for military service each year and conscripts reportedly comprise as much as 50% of the armed forces<br><br><strong>note 2:</strong> as of 2020, women comprised about 8% of active-duty military personnel<br>
 
 **Military deployments**<br>
-280 South Sudan (UNMISS) (May 2022)<br>
+275 South Sudan (UNMISS) (2023)<br>
 
 **Military - note**<br>
 the RTARF’s missions include defending the country’s territory and sovereignty, protecting the monarchy, ensuring internal security, and responding to natural disasters; it also plays a large role in domestic politics and has attempted more than 20 coups since the fall of absolute monarchy in 1932, the most recent being in 2014; the Army, formed in 1874, is the dominant service and has 15 combat divisions spread across 4 military regions; ten of the divisions are infantry, while the others are armored/mechanized cavalry, special forces, and artillery; established in 1906, the Navy’s principal warships include a light aircraft/helicopter carrier, a landing platform dock (LPD) amphibious assault ship, and nearly 20 frigates, corvettes, and offshore patrol vessels; it also has a marine infantry division; the Air Force, established in 1913, is one of the oldest in Southeast Asia and has around 100 combat aircraft<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, Thai officials have been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, violence associated with the insurgency has claimed more than 7,300 lives (as of 2023); the Thai Government has had as many as 100,000 military and paramilitary forces deployed in the south to combat the insurgency<br><br>Thailand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; the Thai and US militaries host the annual "Cobra Gold" multinational military exercises in Thailand; the exercise is one of the largest multinational exercises in the Pacific region (2023)<br>
@@ -745,7 +745,7 @@ has an ambitious and growing space program focused on the acquisition and operat
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 90,617 (Burma) (refugees and asylum seekers) (2022)<br>
-_IDPs_: 41,000 (2021)<br>
+_IDPs_: 41,000 (2022)<br>
 _stateless persons_: 566,900 (2022) (estimate represents stateless persons registered with the Thai Government; actual number may be as high as 3.5 million); note - about half of Thailand's northern hill tribe people do not have citizenship and make up the bulk of Thailand's stateless population; most lack documentation showing they or one of their parents were born in Thailand; children born to Burmese refugees are not eligible for Burmese or Thai citizenship and are stateless; most Chao Lay, maritime nomadic peoples, who travel from island to island in the Andaman Sea west of Thailand are also stateless; stateless Rohingya refugees from Burma are considered illegal migrants by Thai authorities and are detained in inhumane conditions or expelled; stateless persons are denied access to voting, property, education, employment, healthcare, and driving<br>
 <strong>note:</strong> Thai nationality was granted to more than 23,000 stateless persons between 2012 and 2016 and more than 18,000 between 2018 and 2021; in 2016, the Government of Thailand approved changes to its citizenship laws that could make 80,000 stateless persons eligible for citizenship, as part of its effort to achieve zero statelessness by 2024 (2021)<br>
 

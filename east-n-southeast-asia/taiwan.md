@@ -599,8 +599,8 @@ _LNG terminal(s) (import)_: Yung An (Kaohsiung), Taichung<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force; Taiwan Coast Guard Administration; Ministry of Interior: National Police (2023)<br>
-<strong>note: </strong>the Coast Guard is a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime<br>
+Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force<br><br>Ocean Affairs Council: Coast Guard Administration (CGA)<br><br>Ministry of Interior: National Police (2023)<br>
+<strong>note: </strong>the CGA is a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime; it was established in 2000 from the integration of the Coast Guard Command (formerly under the Ministry of Defense), the Marine Police Bureau (formerly under the National Police), and several cutters from the Taiwan Directorate General of Customs (Ministry of Finance)<br>
 
 **Military expenditures**<br>
 2% of GDP (2022 est.)<br>
@@ -610,7 +610,7 @@ Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force; Taiwan Coast
 1.7% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2022)<br>
+approximately 170,000 active-duty troops (90,000 Army; 40,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2023)<br>
 <strong>note: </strong>Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -621,7 +621,7 @@ starting with those born in 1994, men 18-36 years of age may volunteer or must c
 <strong>note 1: </strong>compulsory service is 5 weeks of basic training followed by 11 weeks of specialized training with field units; in 2022, the Taiwan announced that compulsory service would be extended from 4 to 12 months beginning in January 2024<strong><br><br>note 2:</strong> as of 2023, women made up about 15% of the active-duty military<br>
 
 **Military - note**<br>
-the military’s primary responsibility is external security, including the defense of the country’s sovereignty and territory, and the protection of Taiwan’s air space, maritime claims, and sea lanes of communication; its main focus is the challenge posed by the People’s Republic of China; the military trains regularly and conducts multiservice exercises; the Army’s primary combat forces include 9 mechanized or motorized infantry brigades, 4 armored brigades, and 3 artillery brigades; it also has an aviation and special forces command that includes several squadrons of attack helicopters; the Air Force has nearly 300 fighter and multipurpose fighter aircraft organized, plus squadrons for anti-submarine and electronic warfare, early warning, and surveillance; the Navy’s warship inventory includes 4 destroyers, 22 frigates, more than 40 corvettes, patrol vessels, and missile-armed attack craft, and 2 combat-capable attack submarines; it also has 3 marine infantry brigades <br><br>the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2023)<br>
+the military’s primary responsibility is external security, including the defense of the country’s sovereignty and territory, and the protection of Taiwan’s air space, maritime claims, and sea lanes of communication; its main focus is the challenge posed by the People’s Republic of China; the military trains regularly and conducts multiservice exercises; the Army’s primary combat forces include nine mechanized or motorized infantry brigades, four armored brigades, and three artillery brigades; it also has an aviation and special forces command that includes several squadrons of attack helicopters; the Air Force has nearly 300 fighter and multipurpose fighter aircraft organized, plus squadrons for anti-submarine and electronic warfare, early warning, and surveillance; the Navy’s warship inventory includes four destroyers, 22 frigates, more than 40 corvettes, patrol vessels, and missile-armed attack craft, and two combat-capable attack submarines; it also has three marine infantry brigades <br><br>the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2023)<br>
 
 ## Space
 

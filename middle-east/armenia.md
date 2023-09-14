@@ -708,6 +708,7 @@ seeks foreign providers for satellite communications, remote sensing (RS), and n
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 27,929 (Azerbaijan) (mid-year 2022)<br>
+_IDPs_: 8,400 (2022)<br>
 _stateless persons_: 816 (2022)<br>
 
 **Illicit drugs**<br>

@@ -651,21 +651,8 @@ _major seaport(s)_: Port Louis<br>
 no regular military forces; the Mauritius Police Force (MPF) under the Ministry of Defense includes a paramilitary unit known as the Special Mobile Force, which includes some motorized infantry and light armored units; the MPF also has a Police Helicopter Squadron, a Special Support Unit (riot police), and the National Coast Guard (also includes an air squadron) (2023)<br>
 <strong>note: </strong>the MPF is responsible for law enforcement and maintenance of order within the country; a police commissioner heads the force and has authority over all police and other security forces, including the Coast Guard and Special Mobile Forces; the Special Mobile Forces share responsibility with police for internal security<br>
 
-**Military expenditures**<br>
-0.3% of GDP (2022 est.)<br>
-0.3% of GDP (2021 est.)<br>
-0.3% of GDP (2020 est.)<br>
-0.3% of GDP (2019 est.)<br>
-0.3% of GDP (2018 est.)<br>
-
-**Military and security service personnel strengths**<br>
-approximately 1,700 Special Mobile Force; approximately 800 National Coast Guard (2022)<br>
-
 **Military equipment inventories and acquisitions**<br>
 the MPF's inventory is comprised of mostly secondhand equipment from Western European countries and India; since 2010, India has been the primary supplier (2023)<br>
-
-**Military service age and obligation**<br>
-service is voluntary (2022)<br>
 
 **Military - note**<br>
 the country’s primary security partner is India, and Indian naval vessels often patrol Mauritian waters; the MPF has also received assistance and training from France, the UK, and the US; the MPF’s chief security concerns are piracy and narcotics trafficking<br><br>the Special Mobile Force was created in 1960 following the withdrawal of the British garrison (2023)<br>
@@ -674,6 +661,10 @@ the country’s primary security partner is India, and Indian naval vessels ofte
 
 **Disputes - international**<br>
 <p>Mauritius and Seychelles claim the Chagos Islands (UK-administered British Indian Ocean Territory); claims French-administered Tromelin Island</p> <p><em>Mauritius-France</em>: Mauritius has claimed French-administered Tromelin Island (part of the French Southern and Antarctic Lands) since 1976<br><br><em>Mauritius-UK</em>: Mauritius and Seychelles claim the Chagos Islands (UK-administered British Indian Ocean Territory)</p><br>
+
+**Trafficking in persons**<br>
+_tier rating_: Tier 2 Watch List &mdash; Mauritius does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; these efforts included partnering with an international organization to adopt standard operating procedures for victim identification and referral, enhancing screening for trafficking indicators during labor inspections, and adopting a 2022-2026 National Action Plan; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; officials did not prosecute any suspected traffickers, did not convict any traffickers, nor report initiating any investigations for the second consecutive year; the government provided minimal services to victims and did not identify any victims for the third consecutive year; officials continued to compel some adult foreign victims to participate in criminal proceedings using threats of deportation and arrest; police regularly investigated potential trafficking cases as other crimes, and prosecutors routinely pursued lesser offenses with lesser penalties in cases initially investigated as trafficking; courts continued to provide lenient sentences to first-time offenders, weakening deterrence; therefore, Mauritius was downgraded to Tier 2 Watch List (2023)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Mauritius; girls across the country&mdash;particularly from low-income communities&mdash;are exploited in child sex trafficking; taxi drivers, sometimes involved in commercial sex networks, knowingly transport child sex traffickers and victims; traffickers may exploit children in sex trafficking on Rodrigues Island, an autonomous territory of Mauritius; members of underserved communities, including individuals in commercial sex, women and children of African descent (Creoles), and LGBTQI+ persons, are vulnerable to sex trafficking, particularly in urban areas; traffickers, including gang members, force Mauritian children and foreign migrants to carry drugs; foreign migrants, particularly Malagasy women, are recruited under false pretenses of employment or tourism but forced into sex trafficking and domestic servitude; previous reports indicate traffickers, in partnership with criminal networks in Russia and Kazakhstan, recruit Belarusian, Russian, and Ukrainian women to move to Mauritius, under the guise of a marriage agency, then exploit them in sex trafficking; traffickers exploit migrants&mdash;primarily from Bangladesh, India, Madagascar, Nepal, and Sri Lanka&mdash;in labor trafficking in the garment, textile, manufacturing, and construction industries; labor trafficking is more common in small- and medium-sized businesses that employ migrant workers, primarily from Bangladesh, often recruited by former migrant workers who returned to their country of origin; traffickers may exploit migrant workers aboard foreign-owned fishing vessels in Mauritius&rsquo; territorial waters and ports (2023)<br>
 
 **Illicit drugs**<br>
 <p>consumer and transshipment point for heroin from South Asia; small amounts of cannabis produced and consumed locally; significant offshore financial industry creates potential for money laundering</p><br>

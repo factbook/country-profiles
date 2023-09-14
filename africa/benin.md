@@ -681,8 +681,8 @@ _LNG terminal(s) (import)_: Cotonou<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Beninese Armed Forces (Forces Armees Beninoises, FAB; aka Benin Defense Forces): Army, Navy, Air Force; Ministry of Interior and Public Security: Republican Police (Police Republicaine, DGPR) (2023)<br>
-<strong>note:</strong> FAB is under the Ministry of Defense and is responsible for external security and supporting the DGPR in maintaining internal security, which has primary responsibility for enforcing law and maintaining order <br>
+Beninese Armed Forces (Forces Armees Beninoises, FAB; aka Benin Defense Forces): Army, Navy, Air Force, National Guard (aka Republican Guard)<br><br>Ministry of Interior and Public Security: Republican Police (Police Republicaine, DGPR) (2023)<br>
+<strong>note:</strong> FAB is under the Ministry of Defense and is responsible for external security and supporting the DGPR in maintaining internal security, which has primary responsibility for enforcing law and maintaining order; the DGPR was formed in 2018 through a merger of police and gendarmes<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2022 est.)<br>
@@ -692,7 +692,7 @@ Beninese Armed Forces (Forces Armees Beninoises, FAB; aka Benin Defense Forces):
 0.7% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,000 active-duty troops; estimated 5,000 Republican Police (2022)<br>
+approximately 12,000 active-duty troops, including about 3,000 National Guard; estimated 5,000 Republican Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAB is equipped with a small mix of mostly older or secondhand French, Soviet-era, and US equipment; in recent years, France has provided it with limited amounts of newer military hardware such as armored vehicles and helicopters (2023)<br>

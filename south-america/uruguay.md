@@ -685,8 +685,8 @@ _major seaport(s)_: Montevideo<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Coast Guard (Prefectura Nacional Naval or PRENA)), Uruguayan Air Force (Fuerza Aerea); Ministry of Interior: National Police (2023)<br>
-<strong>note: </strong>the National Police includes the paramilitary National Republican Guard or Guardia Nacional Republicana; the National Police maintains internal security, while the National Directorate for Migration is responsible for migration and border enforcement<br>
+Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Coast Guard (Prefectura Nacional Naval or PRENA)), Uruguayan Air Force (Fuerza Aerea)<br><br>Ministry of Interior: National Police (2023)<br>
+<strong>note: </strong>the National Police includes the paramilitary National Republican Guard (Guardia Nacional Republicana); the National Police maintains internal security, while the National Directorate for Migration is responsible for migration and border enforcement<br>
 
 **Military expenditures**<br>
 1% of GDP (2022 est.)<br>
@@ -696,17 +696,17 @@ Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito N
 2.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 22,000 active duty personnel (14,000 Army; 5,000 Navy; 3,000 Air Force) (2022)<br>
+approximately 23,000 active-duty personnel (15,000 Army; 5,000 Navy; 3,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a wide variety of older or second-hand equipment; in recent years, it has imported limited amounts of military hardware from a variety of countries with Spain as the leading supplier (2022)<br>
+the military's inventory includes a wide variety of older or second-hand equipment; in recent years, it has imported limited amounts of military hardware from a variety of countries with Spain as the leading supplier (2023)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age (18-22 years of age for Navy) for voluntary military service for men and women; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2023)<br>
 <strong>note:</strong> as of 2023, women comprised nearly 20% of the active military<br>
 
 **Military deployments**<br>
-830 Democratic Republic of the Congo (MONUSCO); 210 Golan Heights (UNDOF) (May 2022)<br>
+825 Democratic Republic of the Congo (MONUSCO); 210 Golan Heights (UNDOF) (2023)<br>
 
 **Military - note**<br>
 the armed forces are responsible for defense of the country’s independence, national sovereignty, and territorial integrity, as well as protecting strategic resources; it has some domestic responsibilities, including perimeter security for a number of prisons and border security and providing humanitarian/disaster assistance; in 2020, the military deployed more than 1,000 troops to assist the National Police in securing the land border with Brazil and the riverine border with Argentina as part of a border control law passed in 2018; the military trains regularly, including in multinational exercises; it has traditionally held security ties with Argentina, Brazil, Peru, and the US<br><br>the Army has 4 regionally based divisions comprised of approximately 8 small brigades of infantry and mechanized cavalry; the Navy includes the Coast Guard, a naval aviation command, and a small naval infantry force; the Navy in recent years has undertaken a modest program to modernize its aging fleet, decommissioning several ships, including its only frigates, and acquiring secondhand patrol vessels from the US Coast Guard; it is also attempting to acquire larger and more modern offshore patrol vessels; the Air Force has a single squadron of light ground attack aircraft (2023)<br>

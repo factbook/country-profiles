@@ -670,7 +670,7 @@ _by type_: bulk carrier 5, container ship 2, general cargo 79, oil tanker 7, oth
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Moldova ( Forțele Armate ale Republicii Moldova): National Army (comprised of a General Staff, a Land Forces Command, and an Air Force Command); Ministry of Internal Affairs: General Carabinieri Inspectorate (aka Carabinieri Troops or Trupele de Carabinieri) (2023)<br>
+Armed Forces of the Republic of Moldova (Forțele Armate ale Republicii Moldova): National Army (comprised of a General Staff, a Land Forces Command, and an Air Force Command); Ministry of Internal Affairs: General Carabinieri Inspectorate (aka Carabinieri Troops or Trupele de Carabinieri) (2023)<br>
 <strong>note 1:</strong> the Carabinieri is a quasi-militarized gendarmerie responsible for protecting public buildings, maintaining public order, and other national security functions<br><br><strong>note 2:</strong> the national police force reports to the Ministry of Internal Affairs and is the primary law enforcement body, responsible for internal security, public order, traffic, border security, and criminal investigations; the Moldovan Border Police (Poliției de Frontieră) are under the Ministry of Internal Affairs; prior to 2012, Border Police were under the armed forces and known as the Border Troops<br>
 
 **Military expenditures**<br>
@@ -681,7 +681,7 @@ Armed Forces of the Republic of Moldova ( Forțele Armate ale Republicii Moldova
 0.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,500 active troops; approximately 2,000 Carabinieri (2022)<br>
+approximately 6,500 active troops; approximately 2,000 Carabinieri (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is limited and almost entirely comprised of older Russian and Soviet-era equipment; in recent years, it has received small amounts of donated material from other nations, including the US (2023)<br>
@@ -691,7 +691,7 @@ the military's inventory is limited and almost entirely comprised of older Russi
 <strong>note:</strong> as of 2019, women made up about 20% of the military's full-time personnel<br>
 
 **Military - note**<br>
-Moldova is constitutionally neutral, but has maintained a relationship with NATO since 1992; bilateral cooperation started when Moldova joined NATO’s Partnership for Peace program in 1994; Moldova has contributed small numbers of troops to NATO’s Kosovo Force (KFOR) since 2014, and a civilian NATO liaison office was established in Moldova in 2017 at the request of the Moldovan Government to promote practical cooperation and facilitate support<br><br>the 1992 war between Moldovan forces and Transnistrian separatists backed by Russian troops ended with a cease-fire; as of 2022, Russia maintained approximately 1,500 troops in Transnistria, some of which served under the authority of a peacekeeping force known as a Joint Control Commission that also included Moldovan and separatist personnel; the remainder of the Russian contingent (Operational Group of Russian Forces - Transnistria or OGF-T) guarded a depot of Soviet-era ammunition and trained Transnistrian separatist paramilitary troops (2023)<br>
+Moldova is constitutionally neutral, but has maintained a relationship with NATO since 1992; bilateral cooperation started when Moldova joined NATO’s Partnership for Peace program in 1994; Moldova has contributed small numbers of troops to NATO’s Kosovo Force (KFOR) since 2014, and a civilian NATO liaison office was established in Moldova in 2017 at the request of the Moldovan Government to promote practical cooperation and facilitate support<br><br>the 1992 war between Moldovan forces and Transnistrian separatists backed by Russian troops ended with a cease-fire; as of 2022, Russia maintained approximately 1,500 troops in Transnistria, some of which served under the authority of a peacekeeping force known as a Joint Control Commission that also included Moldovan and separatist personnel; the remainder of the Russian contingent (Operational Group of Russian Forces - Transnistria or OGF-T) guarded a depot of Soviet-era ammunition and trained Transnistrian separatist paramilitary troops (note - most of the 1,500 Russian troops are local Transnistrians who have been given Russian passports) (2023)<br>
 
 ## Transnational Issues
 
@@ -699,7 +699,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 117,160 (Ukraine) (as of 20 August 2023)<br>
+_refugees (country of origin)_: 117,065 (Ukraine) (as of 27 August 2023)<br>
 _stateless persons_: 1,701 (2022)<br>
 
 **Illicit drugs**<br>

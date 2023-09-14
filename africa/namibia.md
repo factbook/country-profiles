@@ -684,7 +684,7 @@ _major seaport(s)_: Luderitz, Walvis Bay<br>
 
 **Military and security forces**<br>
 Namibian Defense Force (NDF): Army, Navy, Air Force (2023)<br>
-<strong>note:</strong> the Namibian Police Force has a paramilitary Special Field Force responsible for protecting borders and government installations; the Police Force is under the Ministry of Home Affairs, Immigration, Safety, and Security<br>
+<strong>note:</strong> the Namibian Police Force is under the Ministry of Home Affairs, Immigration, Safety, and Security; it has a paramilitary Special Field Force responsible for protecting borders and government installations<br>
 
 **Military expenditures**<br>
 3% of GDP (2022 est.)<br>
@@ -694,13 +694,13 @@ Namibian Defense Force (NDF): Army, Navy, Air Force (2023)<br>
 3.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500 Air Force) (2022)<br>
+information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the NDF's inventory consists of a mix of Soviet-era and some more modern systems from a variety of countries, including Brazil, China, Germany, India, and South Africa; in recent years, China has been the leading supplier; Namibia has a small defense industry that produces items such as armored personnel carriers (2023)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for men and women for voluntary military service; no conscription (2022)<br>
+18-25 years of age for men and women for voluntary military service; no conscription (2023)<br>
 <strong>note:</strong> as of 2018, women comprised more than 20% of the active duty military<br>
 
 **Military - note**<br>
@@ -712,5 +712,5 @@ the NDF’s primary responsibility is external security; it has participated in 
 <p><em>Namibia-Angola-Botswana</em>: concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border</p> <p><em>Namibia-Botswana-Zambia-Zimbabwe</em>: Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; the Kazungula Bridge opened to traffic in May 2021</p> <p><em>Namibia-South Africa</em>: the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia claims a median line boundary, while South Africa supports the northern bank of the river</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,233 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 6,285 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
 

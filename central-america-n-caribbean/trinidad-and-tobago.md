@@ -622,8 +622,8 @@ _LNG terminal(s) (export)_: Port Fortin<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago Regiment), Coast Guard, Air Guard, Defense Force Reserves; Trinidad and Tobago Police Service (TTPS) (2023)<br>
-<strong>note:</strong> the Ministry of National Security oversees defense, immigration, and the police<br>
+Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago Regiment), Coast Guard, Air Guard, Defense Force Reserves<br><br>Trinidad and Tobago Police Service (TTPS) (2023)<br>
+<strong>note:</strong> the Ministry of National Security oversees both the TTDF and the TTPS<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2022 est.)<br>
@@ -633,10 +633,10 @@ Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago 
 1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 4,500 TTDF personnel (2022)<br>
+approximately 5,000 TTDF personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the TTDF's ground force inventory includes only light weapons, while the Coast Guard and Air Guard field mostly secondhand equipment from a mix of countries, including Australia, China, the Netherlands, the UK, and the US (2022)<br>
+the TTDF's ground force inventory includes only light weapons, while the Coast Guard and Air Guard field mostly secondhand equipment from a mix of countries, including Australia, China, the Netherlands, the UK, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service for men and women (some age variations between services, reserves); no conscription (2022)<br>

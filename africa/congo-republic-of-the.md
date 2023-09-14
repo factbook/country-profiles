@@ -711,7 +711,7 @@ Congolese Armed Forces (Forces Armees Congolaises, FAC): Army, Navy, Congolese A
 2.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 12,000 active duty troops (8,000 Army; 800 Navy; 1,000 Air Force; 2,000 Gendarmerie) (2022)<br>
+approximately 12,000 active-duty troops (including 2,000 Gendarmerie) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAC has mostly Soviet-era armaments, with a small mix of French and South African equipment (2023)<br>
@@ -729,7 +729,7 @@ the FAC is viewed as having limited capabilities due to obsolescent and poorly m
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 30,290 (Central African Republic), 27,476 (Democratic Republic of the Congo) (refugees and asylum seekers)(2023)<br>
-_IDPs_: 159,830 (multiple civil wars since 1992) (2022)<br>
+_IDPs_: 27,000 (multiple civil wars since 1992) (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; The Republic of the Congo does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government trained law enforcement officials on the anti-trafficking law and issued six decrees to protect Indigenous People from trafficking; however, officials did not demonstrate overall increasing efforts, compared with the previous reporting period, on its anti-trafficking capacity; no investigations, prosecutions, or convictions of traffickers occurred; no reports identified victims for the third consecutive year; the government did not take any proactive measures to address alleged official complicity in trafficking, and the lack of a national anti-trafficking task force hindered overall efforts; therefore, the Republic of the Congo was downgraded to Tier 2 Watch List (2023)<br>

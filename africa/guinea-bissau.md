@@ -637,7 +637,7 @@ _major seaport(s)_: Bissau, Buba, Cacheu, Farim<br>
 ## Military and Security
 
 **Military and security forces**<br>
-People's Revolutionary Armed Force (FARP): Army, Navy, Air Force; Ministry of Internal Administration: Guard Nacional (a gendarmerie force), Public Order Police, Border Police, Rapid Intervention Police, Maritime Police (2022)<br>
+People's Revolutionary Armed Force (FARP): Army, Navy, Air Force<br><br>Ministry of Internal Administration: Guard Nacional (a gendarmerie force), Public Order Police, Border Police, Rapid Intervention Police, Maritime Police (2023)<br>
 <strong>note: </strong>the Public Order Police is responsible for maintaining law and order, while the Judicial Police, under the Ministry of Justice, has primary responsibility for investigating drug trafficking, terrorism, and other transnational crimes<br>
 
 **Military expenditures**<br>
@@ -648,7 +648,7 @@ People's Revolutionary Armed Force (FARP): Army, Navy, Air Force; Ministry of In
 1.7% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 4,000 total active troops, including a few hundred air and naval personnel (2022)<br>
+approximately 4,000 active troops, including a few hundred air and naval personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FARP is armed mostly with Soviet-era equipment, much of which is reportedly unserviceable (2023)<br>

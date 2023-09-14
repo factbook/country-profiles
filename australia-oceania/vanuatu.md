@@ -83,13 +83,14 @@ _noun_: Ni-Vanuatu (singular and plural)<br>
 _adjective_: Ni-Vanuatu<br>
 
 **Ethnic groups**<br>
-Melanesian 99.2%, non-Melanesian 0.8% (2016 est.)<br>
+Ni-Vanuatu 99%, other 1% (European, Asian, other Melanesian, Polynesian, Micronesian, other) (2020 est.)<br>
 
 **Languages**<br>
-local languages (more than 100) 63.2%, Bislama (official; creole) 33.7%, English (official) 2%, French (official) 0.6%, other 0.5% (2009 est.)<br>
+Indigenous languages (more than 100) 82.6%, Bislama (official; creole) 14.5%, English (official) 2.1%, French (official) 0.8% (2020 est.)<br>
+<strong>note:</strong> data represent first language spoken for population aged 3 years and above<br>
 
 **Religions**<br>
-Protestant 70% (includes Presbyterian 27.9%, Anglican 15.1%, Seventh Day Adventist 12.5%, Assemblies of God 4.7%, Church of Christ 4.5%, Neil Thomas Ministry 3.1%, and Apostolic 2.2%), Roman Catholic 12.4%, customary beliefs 3.7% (including Jon Frum cargo cult), other 12.6%, none 1.1%, unspecified 0.2% (2009 est.)<br>
+Protestant 39.9% (Presbyterian 27.2%, Seventh Day Adventist 14.8%, Anglican 12%, Churches of Christ 5%, Assemblies of God 4.9%, Neil Thomas Ministry/Inner Life Ministry 3.2%), Roman Catholic 12.1%, Apostolic 2.3%, Church of Jesus Christ 1.8%, customary beliefs (including Jon Frum cargo cult) 3.1%, other 12%, none 1.4%, unspecified 0.1% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 31.73% (male 50,721/female 48,607)<br>
@@ -307,10 +308,10 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Nikenike VUROBARAVU (since 23 July 2022)<br>
-_head of government_: Prime Minister Ishmael KALSAKAU (since 4 November 2022)<br>
+_head of government_: Prime Minister Sato KILMAN (since 4 September 2023)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, responsible to Parliament<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of Parliament and presidents of the 6 provinces; Vanuatu president serves a 5-year term; election last held on 23 July 2022 (next to be held in 2027); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by Parliament from among its members; election for prime minister last held on 20 April 2020 (next to be held following general elections in 2024)<br>
-_election results_: Nikenike VUROBARAVU elected president in eighth round on 23 July 2022 with 48 votes;<br>Ishmael KALSAKAU (UMP) elected prime minister on 4 November 2022 with 50 votes<br>
+_election results_: Nikenike VUROBARAVU elected president in eighth round on 23 July 2022 with 48 votes;<br>Ishmael KALSAKAU (UMP) defeated as prime minister in no-confidence vote on 16 August 2023;  Sato KILMAN elected prime minister on 4 September 2023 with 57 votes against 23 for Ishmael KALSAKAU<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (52 seats; members directly elected in 8 single-seat and 9 multi-seat constituencies by single non-transferable vote to serve 4-year terms (candidates in multi-seat constituencies can be elected with only 4% of the vote)<br>
@@ -359,7 +360,7 @@ _selected World Heritage Site locales_: Chief Roi Mata&rsquo;s Domain<br>
 ## Economy
 
 **Economic overview**<br>
-Pacific island agriculture- and tourism-based economy; environmentally vulnerable to cyclones; poor property rights administration; corruption-prone; subsidizing loss-prone state enterprises in agriculture, banking, and airports<br>
+lower-middle income Pacific island economy; extremely reliant on subsistence agriculture and tourism; environmentally fragile; struggling post-pandemic and Tropical Cyclone Harold rebound; sizeable inflation; road infrastructure aid from Australia<br>
 
 **Real GDP (purchasing power parity)**<br>
 $888.165 million (2021 est.)<br>
@@ -400,7 +401,7 @@ _exports of goods and services_: 42.5% (2017 est.)<br>
 _imports of goods and services_: -48.5% (2017 est.)<br>
 
 **Agricultural products**<br>
-coconuts, roots/tubers nes, bananas, vegetables, pork, fruit, milk, beef, groundnuts, cocoa<br>
+coconuts, roots/tubers, bananas, vegetables, pork, fruit, milk, beef, groundnuts, cocoa<br>
 
 **Industries**<br>
 food and fish freezing, wood processing, meat canning<br>
@@ -464,10 +465,10 @@ $141.534 million (2020 est.) note: data are in current year dollars<br>
 $372.711 million (2019 est.)<br>
 
 **Exports - partners**<br>
-Japan 33%, Thailand 13%, Mauritania 13%, South Korea 11%, China 9%, Fiji 7% (2019)<br>
+Thailand 54%, Japan 18%, South Korea 6%, Cyprus 5%, China 4% (2021)<br>
 
 **Exports - commodities**<br>
-fish and fish products, tug boats, perfume plants, mollusks, cocoa beans (2019)<br>
+tuna, floating platforms, cargo ships, perfume plants, mollusks, copra (2021)<br>
 
 **Imports**<br>
 $495.858 million (2021 est.) note: data are in current year dollars<br>
@@ -475,10 +476,10 @@ $429.601 million (2020 est.) note: data are in current year dollars<br>
 $488.795 million (2019 est.)<br>
 
 **Imports - partners**<br>
-China 29%, Australia 18%, New Zealand 11%, Fiji 11%, Taiwan 5%, Thailand 5% (2019)<br>
+China 26%, Australia 16%, New Zealand 15%, Fiji 8%, Singapore 7% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, fishing ships, delivery trucks, poultry meats, broadcasting equipment (2019)<br>
+refined petroleum, fishing ships, poultry meats, delivery trucks, lumber, rice, broadcasting equipment (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $664.751 million (31 December 2021 est.)<br>

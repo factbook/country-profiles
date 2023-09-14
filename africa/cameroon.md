@@ -720,7 +720,7 @@ Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre
 1.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 35-40,000 active-duty troops; (20-25,000 ground forces, including the Rapid Intervention Battalion/BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 12,000 Gendarmerie) (2022)<br>
+information varies; approximately 35-40,000 active-duty troops (20-25,000 ground forces, including the Rapid Intervention Battalion/BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 12,000 Gendarmerie) (2023)<br>
 <strong>note: </strong>the BIR has approximately 5,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -751,6 +751,6 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 351,090 (Central African Republic), 116,706 (Nigeria) (2023)<br>
-_IDPs_: 1.01 million (2023) (includes far north, northwest, and southwest)<br>
+_refugees (country of origin)_: 352,938 (Central African Republic), 117,738 (Nigeria) (2023)<br>
+_IDPs_: 1.066 million (2023) (includes far north, northwest, and southwest)<br>
 

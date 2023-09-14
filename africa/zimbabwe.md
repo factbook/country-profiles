@@ -361,9 +361,9 @@ _elections/appointments_: each presidential candidate nominated with a nominatio
 _election results_: <em>2023: </em>Emmerson MNANGAGWA elected president in 1st round of voting; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 52.6%, Nelson CHAMISA (MDC-T) 44%, Wilbert MUBAIWA (MDC) 1.20%, other 3%<br><em><br>2018:</em> Emmerson MNANGAGWA elected president in 1st round of voting; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 50.8%, Nelson CHAMISA (MDC-T) 44.3%, Thokozani KHUPE (MDC-N) 0.9%, other 3%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (80 seats; 60 members directly elected in multi-seat constituencies - 6 seats in each of the 10 provinces - by proportional representation vote, 16 indirectly elected by the regional governing councils, 2 reserved for the National Council Chiefs, and 2 reserved for members with disabilities; members serve 5-year terms)<br><br>National Assembly (270 seats; 210 members directly elected in single-seat constituencies by simple majority vote and 60 seats reserved for women directly elected by proportional representation vote; members serve 5-year terms)<br>
+_description_: bicameral Parliament consists of:<br>Senate (80 seats; 60 members directly elected in multi-seat constituencies - 6 seats in each of the 10 provinces - by proportional representation vote, 16 indirectly elected by the regional governing councils, 18 reserved for the National Council Chiefs, and 2 reserved for members with disabilities; members serve 5-year terms)<br><br>National Assembly (270 seats; 210 members directly elected in single-seat constituencies by simple majority vote and 60 seats reserved for women directly elected by proportional representation vote; members serve 5-year terms)<br>
 _elections_: <p>Senate - last held for elected member on 23 August 2023 (next to be held in 2028)<br>National Assembly - last held on 23 August 2023 (next to be held in 2028)</p><br>
-_election results_: <p>Senate - percent of vote by party - NA; seats by party - ZANU-PF 34, MDC Alliance 25, Chiefs 18, people with disabilities 2, MDC-T 1; composition - men 45, women 35, percent of women 43.8%<br><br>National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 136, CCC-73, vacant-1; composition - men 184, women 81, percent of women 31.5%; note - total Parliament percent of women 34.3%</p><br>
+_election results_: <p>Senate - percent of vote by party - NA; seats by party - ZANU-PF 33, CCC- 27, Chiefs 18, people with disabilities 2; composition - men 44, women 36, percent of women 45%<br><br>National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 169, CCC-100, vacant-1; composition - men 193, women 86, percent of women 30.8%; note - total Parliament percent of women 34.3%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 4 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>
@@ -684,7 +684,7 @@ _river port(s)_: Binga, Kariba (Zambezi)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ); Ministry of Home Affairs: Zimbabwe Republic Police (2023)<br>
+Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ)<br><br>Ministry of Home Affairs: Zimbabwe Republic Police (2023)<br>
 
 **Military expenditures**<br>
 2.6% of GDP (2019 est.)<br>
@@ -694,10 +694,10 @@ Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbab
 1.9% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 30,000 active duty troops, including about 4,000 Air Force personnel (2022)<br>
+information varies; approximately 30,000 active-duty troops, including about 4,000 Air Force personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ZDF inventory is comprised mostly of Soviet-era and older Chinese equipment; since the early 2000s, Zimbabwe has been under an arms embargo from the EU, as well as targeted sanctions from Australia, Canada, New Zealand, the UK, and the US (2022)<br>
+the ZDF inventory is comprised mostly of Soviet-era and older Chinese equipment; since the early 2000s, Zimbabwe has been under an arms embargo from the EU, as well as targeted sanctions from Australia, Canada, New Zealand, the UK, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18-22 years of age for voluntary military service (18-24 for officer cadets; 18-30 for technical/specialist personnel); no conscription; women are eligible to serve (2022)<br>
@@ -720,7 +720,7 @@ has a nascent program with the goal of utilizing space technologies in economic 
 <p><em>Zimbabwe-Mozambique: none identified<br><br>Zimbabwe-South Africa: </em>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration<em><br><br>Zimbabwe-Zambia: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,811 (Democratic Republic of Congo) (refugees and asylum seekers), 9,907 (Mozambique) (2023)<br>
+_refugees (country of origin)_: 11,833 (Democratic Republic of Congo) (refugees and asylum seekers), 9,926 (Mozambique) (2023)<br>
 
 **Illicit drugs**<br>
 <p>transit point for cannabis and South Asian heroin, methaqualone, and methamphetamines en route to South Africa</p><br>

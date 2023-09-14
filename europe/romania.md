@@ -693,8 +693,7 @@ _river port(s)_: Braila, Galati (Galatz), Mancanului (Giurgiu), Tulcea (Danube R
 ## Military and Security
 
 **Military and security forces**<br>
-Romanian Armed Forces (Forțele Armate Române or Armata Română): Land Forces, Naval Forces, Air Force (2023)<br>
-<strong>note:</strong> the Ministry of Internal Affairs is responsible for the General Inspectorate of the Romanian Police, the Romanian Gendarmerie (Jandarmeria Română), the border police, the General Directorate for Internal Protection, and the Directorate General for Anticorruption<br>
+Romanian Armed Forces (Forțele Armate Române or Armata Română): Land Forces, Naval Forces, Air Force<br><br>Ministry of Internal Affairs: General Inspectorate of the Romanian Police, the Romanian Gendarmerie (Jandarmeria Română), the Romanian Border Police, the General Directorate for Internal Protection, and the Directorate General for Anticorruption (2023)<br>
 
 **Military expenditures**<br>
 2.4% of GDP (2023 est.)<br>
@@ -704,7 +703,7 @@ Romanian Armed Forces (Forțele Armate Române or Armata Română): Land Forces,
 1.8% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 75,000 active duty personnel (58,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2022)<br>
+approximately 75,000 active-duty military personnel (58,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is comprised mostly of Soviet-era and older domestically produced weapons systems, although in recent years it has launched an effort to acquire more Western-origin equipment from European countries and the US, including aircraft and armored vehicles (2023)<br>
@@ -713,7 +712,7 @@ the military's inventory is comprised mostly of Soviet-era and older domesticall
 18 years of age for voluntary service for men and women; all military inductees contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36; conscription ended in 2006 (2022)<br>
 
 **Military deployments**<br>
-up to 120 Poland (NATO) (2022)<br>
+up to 120 Poland (NATO) (2023)<br>
 
 **Military - note**<br>
 Romania became a member of NATO in 2004<br><br>Romania hosts a NATO multinational divisional headquarters (Multinational Division Southeast; became operational in 2017) and a French-led ground force battlegroup as part of NATO's tailored forward presence in the southeastern part of the Alliance in response to Russia’s 2022 invasion of Ukraine; Romania conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Romanian Air Force since 2014 (2023)<br>
@@ -739,7 +738,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 94,515 (Ukraine) (as of 20 August 2023)<br>
+_refugees (country of origin)_: 86,850 (Ukraine) (as of 3 September 2023)<br>
 _stateless persons_: 297 (2022)<br>
 <strong>note:</strong> 14,611 estimated refugee and migrant arrivals (January 2015-July 2023)<br>
 

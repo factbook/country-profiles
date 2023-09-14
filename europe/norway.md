@@ -723,6 +723,6 @@ has a broad and active space program coordinated with the European Space Agency 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 48,280 (Ukraine) (as of 27 July 2023)<br>
+_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 53,440 (Ukraine) (as of 30 August 2023)<br>
 _stateless persons_: 3,901 (2022)<br>
 

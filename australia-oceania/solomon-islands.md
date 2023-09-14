@@ -359,7 +359,7 @@ _selected World Heritage Site locales_: East Rennell<br>
 ## Economy
 
 **Economic overview**<br>
-lower middle-income Pacific island economy; natural resource rich; primarily subsistence agriculture and fishing; land rights conflicts; fairly low public debt; underdeveloped financial sector; large, state-owned enterprise presence<br>
+lower middle-income Pacific island economy; natural resource rich but environmentally fragile; key agrarian sector; growing Chinese economic relationship; infrastructure damage due to social unrest; metal mining operations<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.703 billion (2021 est.)<br>
@@ -470,10 +470,10 @@ $428.834 million (2020 est.) note: data are in current year dollars<br>
 $591.293 million (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-China 65%, Italy 9%, India 6% (2019)<br>
+China 59%, Italy 9%, India 6%, Netherlands 4%, Australia 3% (2021)<br>
 
 **Exports - commodities**<br>
-lumber, fish, aluminum, palm oil, cocoa beans (2019)<br>
+lumber, tuna, palm oil, coconut oil, gold (2021)<br>
 
 **Imports**<br>
 $619.46 million (2021 est.) note: data are in current year dollars<br>
@@ -481,10 +481,10 @@ $556.26 million (2020 est.) note: data are in current year dollars<br>
 $752.909 million (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 24%, Australia 13%, South Korea 12%, Singapore 12%, Malaysia 10% (2019)<br>
+China 36%, Singapore 13%, Australia 12%, Malaysia 10%, New Zealand 6% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, fish, insulated wiring, broadcasting equipment, excavation machinery (2019)<br>
+refined petroleum, scrap iron, fish, iron structures, poultry meats, rice (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $694.515 million (31 December 2021 est.)<br>
@@ -639,7 +639,7 @@ _major seaport(s)_: Honiara, Malloco Bay, Viru Harbor, Tulagi<br>
 no regular military forces; the Royal Solomon Islands Police Force is responsible for internal and external security and reports to the Ministry of Police, National Security, and Correctional Services (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-China and Australia have provided equipment to the Solomons Islands Police Force; the maritime branch operates patrol boats provided by Australia (2022)<br>
+China and Australia have provided equipment to the Solomons Islands Police Force; the maritime branch operates patrol boats provided by Australia (2023)<br>
 
 **Military - note**<br>
 Australia and New Zealand provide material and training assistance to the Royal Solomon Islands Police Force (2023)<br>

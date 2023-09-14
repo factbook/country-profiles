@@ -330,7 +330,7 @@ _lyrics/music_: Margaret HENDRIE/Laurence Henry HICKS<br>
 ## Economy
 
 **Economic overview**<br>
-upper-middle-income Pacific island country; phosphate resource exhaustion made island interior uninhabitable; licenses fishing rights; houses Australia&rsquo;s Regional Processing Centre; former known tax haven; largely dependent on foreign subsidies<br>
+upper-middle-income Pacific island country; phosphate resource exhaustion made island interior uninhabitable; licenses fishing rights; houses Australia&rsquo;s Regional Processing Centre; former tax haven; largely dependent on foreign subsidies<br>
 
 **Real GDP (purchasing power parity)**<br>
 $149.474 million (2021 est.)<br>
@@ -424,24 +424,28 @@ $14.11 million (2017 est.)<br>
 $2.079 million (2016 est.)<br>
 
 **Exports**<br>
-$31.101 million (2018 est.) note: data are in current year dollars<br>
-$39.883 million (2017 est.)<br>
+$187 million (2021 est.)<br>
+$105 million (2020 est.)<br>
+$32.7 million (2019 est.)<br>
+<strong>note:</strong> data are in current year dollars<br>
 
 **Exports - partners**<br>
-Thailand 34%, Australia 16%, United States 13%, South Korea 10%, Philippines 9%, Japan 7%, France 5% (2019)<br>
+Thailand 49%, Saudi Arabia 14%, Philippines 11%, South Korea 8%, India 7% (2021)<br>
 
 **Exports - commodities**<br>
 skipjack, calcium phosphates, tuna, cars, delivery trucks, low-voltage protection equipment (2021)<br>
 
 **Imports**<br>
-$94.796 million (2018 est.) note: data are in current year dollars<br>
-$91.571 million (2017 est.)<br>
+$94.2 million (2021 est.)<br>
+$103 million (2020 est.)<br>
+$88.2 million (2019 est.)<br>
+<strong>note:</strong> data are in current year dollars<br>
 
 **Imports - partners**<br>
-Taiwan 52%, Australia 28% (2019)<br>
+Australia 36%, Taiwan 16%, China 12%, Japan 12%, Nigeria 7% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, construction vehicles, tug boats, poultry meats, cars (2019)<br>
+refined petroleum, tugboats, cigarettes, cars, construction vehicles (2021)<br>
 
 **Debt - external**<br>
 $33.3 million (2004 est.)<br>

@@ -646,7 +646,7 @@ _major seaport(s)_: Djibouti<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Djibouti Armed Forces (Force Armée Djiboutienne or FAD): Army, Navy, Air Force; Djibouti Coast Guard; Ministry of Interior: National Gendarmerie, National Police (2023)<br>
+Djibouti Armed Forces (Force Armée Djiboutienne or FAD): Army, Navy, Air Force; Djibouti Coast Guard<br><br>Ministry of Interior: National Gendarmerie, National Police (2023)<br>
 <strong>note:</strong> the National Police is responsible for security within Djibouti City and has primary control over immigration and customs procedures for all land border-crossing points, while the National Gendarmerie is responsible for all security outside of Djibouti City, as well as for protecting critical infrastructure within the city, such as the international airport<br>
 
 **Military expenditures**<br>
@@ -657,7 +657,7 @@ Djibouti Armed Forces (Force Armée Djiboutienne or FAD): Army, Navy, Air Force;
 2.5% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 10,000 active troops (8,000 Army; 250 Naval; 250 Air; 1,500 Gendarmerie) (2022)<br>
+approximately 10,000 active-duty military personnel; approximately 2,000 Gendarmerie (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAD's inventory includes mostly older French and Soviet-era weapons systems, although in recent years it has received limited amounts of more modern, but largely secondhand equipment from a variety of other countries, including China, the Netherlands, and the US (2023)<br>

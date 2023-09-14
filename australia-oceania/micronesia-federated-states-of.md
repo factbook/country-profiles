@@ -444,23 +444,26 @@ $12 million (2017 est.)<br>
 $11 million (2016 est.)<br>
 
 **Exports**<br>
-$88.3 million (2013 est.)<br>
+$179 million (2021 est.)<br>
+$122 million (2020 est.)<br>
+$130 million (2019 est.)<br>
 
 **Exports - partners**<br>
-Thailand 73%, Japan 10%, China 9% (2019)<br>
+Thailand 81%, China 9%, Japan 4%, Philippines 4%, United States 1% (2021)<br>
 
 **Exports - commodities**<br>
 skipjack, tuna, fish fillets, aircraft, scrap iron (2021)<br>
 
 **Imports**<br>
-$167.8 million (2015 est.)<br>
-$258.5 million (2013 est.)<br>
+$126 million (2021 est.)<br>
+$133 million (2020 est.)<br>
+$121 million (2019 est.)<br>
 
 **Imports - partners**<br>
-United States 32%, China 16%, Japan 14%, Taiwan 9%, Philippines 6%, South Korea 6% (2019)<br>
+United States 34%, China 16%, Japan 11%, Taiwan 7%, South Korea 6% (2021)<br>
 
 **Imports - commodities**<br>
-poultry meats, netting, broadcasting equipment, various meats, fish products (2019)<br>
+poultry meats, broadcasting equipment, other meats, cars, fish products, rice, lumber (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $497,434,100 (31 December 2021 est.)<br>
@@ -574,7 +577,7 @@ _major seaport(s)_: Colonia (Tamil Harbor), Molsron Lele Harbor, Pohnepi Harbor<
 no military forces; Federated States of Micronesia National Police (includes a maritime wing); the Department of Justice oversees the National Police; State police forces are responsible for law enforcement in their respective states and are under the jurisdiction of each state&rsquo;s director of public safety (2023)<br>
 
 **Military - note**<br>
-defense is the responsibility of the US<br><br>Micronesia has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Micronesia's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2022)<br>
+defense is the responsibility of the US<br><br>Micronesia has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Micronesia's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
 
 ## Transnational Issues
 

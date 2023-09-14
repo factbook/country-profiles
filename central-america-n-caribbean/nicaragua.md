@@ -661,7 +661,7 @@ _major seaport(s)_: Bluefields, Corinto<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Army of Nicaragua (Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); Naval Forces (Fuerza Naval); Air Forces (Fuerza Aérea) (2023)<br>
+Armed Forces of Nicaragua (formal name is Army of Nicaragua or Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); Naval Forces (Fuerza Naval); Air Forces (Fuerza Aérea) (2023)<br>
 <strong>note:</strong> both the military and the Nicaraguan National Police (Policía Nacional de Nicaragua or PNN) report directly to the president; Parapolice, which are nonuniformed, armed, and masked units with marginal tactical training and loose hierarchical organization, act in coordination with government security forces and report directly to the National Police; they have been used to suppress anti-government protesters<br>
 
 **Military expenditures**<br>
@@ -672,13 +672,13 @@ Army of Nicaragua (Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); N
 0.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2022)<br>
+approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes mostly secondhand Russian/Soviet-era equipment; in recent years, Russia has been the leading arms supplier to Nicaragua (2023)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months; requires Nicaraguan nationality and 6th-grade education (2022)<br>
+18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months (2022)<br>
 
 **Military - note**<br>
 the military is responsible for defending Nicaragua’s independence, sovereignty, and territory, but also has some domestic security responsibilities; key tasks include border security, assisting the police, protecting natural resources, and providing disaster relief and humanitarian assistance; it has ties with the militaries of Cuba, Venezuela, and Russia; Russia has provided training support and equipment <br><br>the military’s Land Forces have a mechanized brigade and approximately 8 regional commands or detachments, each with 1 or more light infantry battalions; there is also a small special operations command; the Naval Forces operate patrol boats and have a naval infantry battalion; the Air Forces do not possess any combat aircraft <br><br>the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA GARCIA, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas (2023)<br>

@@ -320,7 +320,7 @@ there are no political parties, but members of parliament usually align themselv
 ACP, ADB, AOSIS, C, FAO, IBRD, IDA, IFAD, IFRCS (observer), ILO, IMF, IMO, IOC, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant)<br>note - also Permanent Representative to UN; Tapugao FALEFOU presented his credentials to the Secretary General of the UN on 30 December 2022, but has not presented his credentials for Ambassador to the US as of 1 June 2023<br>
+_chief of mission_: Ambassador Tapugao FALEFOU (since 19 April 2023)<br>note - also Permanent Representative to UN<br>
 _chancery_: 685 Third Avenue, Suite 1104, New York, NY 10017<br>
 _telephone_: [1] (212) 490-0534<br>
 _FAX_: [1] (212) 808-4975<br>
@@ -344,7 +344,7 @@ _lyrics/music_: Afaese MANOA<br>
 ## Economy
 
 **Economic overview**<br>
-upper middle-income but very fragile Pacific island economy; currency pegged to Australian dollar; public revenues from international aid, fishing licenses, and national trust fund; pursuing Te Kakeega sustainable development; significant remittances<br>
+upper middle-income Pacific island economy; extremely environmentally fragile; currency pegged to Australian dollar; large international aid recipient; subsistence agrarian sector; Te Kakeega sustainable development; domain name licensing incomes<br>
 
 **Real GDP (purchasing power parity)**<br>
 $55.169 million (2021 est.)<br>
@@ -382,7 +382,7 @@ _exports of goods and services_: 43.7% (2016 est.)<br>
 _imports of goods and services_: -66.1% (2016 est.)<br>
 
 **Agricultural products**<br>
-coconuts, vegetables, tropical fruit, bananas, roots/tubers nes, pork, poultry, eggs, pig fat, pig offals<br>
+coconuts, vegetables, tropical fruit, bananas, roots/tubers, pork, poultry, eggs, pig fat, pig offals<br>
 
 **Industries**<br>
 fishing<br>
@@ -444,10 +444,10 @@ $3.087 million (2020 est.) note: data are in current year dollars<br>
 $10.266 million (2019 est.)<br>
 
 **Exports - partners**<br>
-Thailand 50%, Indonesia 40% (2019)<br>
+Thailand 91%, Nigeria 5%, Philippines 3%, South Korea 1% (2021)<br>
 
 **Exports - commodities**<br>
-fish, ships, coins, metal-clad products, electrical power accessories (2019)<br>
+tugboats, tuna, nitrile compounds, integrated circuits, electrical power accessories (2021)<br>
 
 **Imports**<br>
 $51.187 million (2021 est.) note: data are in current year dollars<br>
@@ -455,10 +455,10 @@ $50.792 million (2020 est.) note: data are in current year dollars<br>
 $65.24 million (2019 est.)<br>
 
 **Imports - partners**<br>
-China 32%, Japan 29%, Fiji 23%, New Zealand 6% (2019)<br>
+China 36%, Japan 33%, Fiji 13%, South Korea 9%, New Zealand 4% (2021)<br>
 
 **Imports - commodities**<br>
-refined petroleum, fishing ships, tug boats, other ships, iron structures (2019)<br>
+cargo ships, fishing ships, refined petroleum, tankers, tugboats, construction vehicles (2021)<br>
 
 **Debt - external**<br>
 <p>NA</p><br>

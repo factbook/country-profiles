@@ -497,8 +497,10 @@ $5.348 billion (2017 est.)<br>
 $5.175 billion (2016 est.)<br>
 
 **Exports**<br>
-$10.597 billion (2018 est.) note: data are in current year dollars<br>
-$10.254 billion (2017 est.)<br>
+$11 billion (2021 est.)<br>
+$9.36 billion (2020 est.)<br>
+$11 billion (2019 est.)<br>
+<strong>note:</strong> data are in current year dollars<br>
 
 **Exports - partners**<br>
 Japan 25%, China 25%, Australia 16%, Taiwan 6%, South Korea 6% (2021)<br>
@@ -507,8 +509,9 @@ Japan 25%, China 25%, Australia 16%, Taiwan 6%, South Korea 6% (2021)<br>
 natural gas, gold, copper, palm oil, nickel, crude petroleum, lumber, refined petroleum, tuna, coffee (2021)<br>
 
 **Imports**<br>
-$4.844 billion (2018 est.) note: data are in current year dollars<br>
-$4.662 billion (2017 est.)<br>
+$4.25 billion (2021 est.)<br>
+$3.77 billion (2020 est.)<br>
+$4.14 billion (2019 est.)<br>
 
 **Imports - partners**<br>
 Australia 27%, China 25%, Singapore 13%, Malaysia 8%, Indonesia 5% (2021)<br>
@@ -700,7 +703,7 @@ the PNGDF is a small, lightly armed, and underfunded force tasked with defense o
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 11,432 (Indonesia) (mid-year 2022)<br>
-_IDPs_: 24,000 (natural disasters, tribal conflict, inter-communal violence, development projects) (2021)<br>
+_IDPs_: 91,000 (tribal conflict, inter-communal violence) (2022)<br>
 _stateless persons_: 15 (2022)<br>
 
 **Trafficking in persons**<br>

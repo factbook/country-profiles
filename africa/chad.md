@@ -671,7 +671,7 @@ _total_: 40,000 km (2018)<br>
 
 **Military and security forces**<br>
 Chadian National Army (Armee Nationale du Tchad, ANT): Land Forces (l'Armee de Terre, AdT), Chadian Air Force (l'Armee de l'Air Tchadienne, AAT), General Direction of the Security Services of State Institutions (Direction Generale des Services de Securite des Institutions de l'Etat, GDSSIE); National Gendarmerie; Ministry of Public Security and Immigration: National Nomadic Guard of Chad (GNNT) (2023)<br>
-<strong>note 1:</strong> the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and is considered to be Chad's elite military unit; it is reportedly a division-size unit with infantry, armor, and special forces/anti-terrorism regiments (known as the Special Anti-Terrorist Group or SATG, aka Division of Special Anti-Terrorist Groups or DGSAT)<br><br><strong>note 2:</strong> the Chadian National Police are under the Ministry of Security and Immigration; border security duties are shared by the Army, Customs (Ministry of Public Security and Immigration), the Gendarmerie, and the GNNT<br>
+<strong>note 1:</strong> the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and is considered to be Chad's elite military unit; it is reportedly a division-sized force with infantry, armor, and special forces/anti-terrorism regiments (known as the Special Anti-Terrorist Group or SATG, aka Division of Special Anti-Terrorist Groups or DGSAT)<br><br><strong>note 2:</strong> the Chadian National Police are under the Ministry of Public Security and Immigration; border security duties are shared by the Army, Customs (Ministry of Public Security and Immigration), the Gendarmerie, and the GNNT<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2022 est.)<br>
@@ -681,7 +681,7 @@ Chadian National Army (Armee Nationale du Tchad, ANT): Land Forces (l'Armee de T
 2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-limited and varied information; estimated to have up to 35,000 active ANT personnel (25-30,000 Ground Forces; 300 Air Force; approximately 5,000 GDSSIE); approximately 5,000 National Gendarmerie; approximately 3,000 Nomadic Guard (2022)<br>
+limited and varied information; estimated to have up to 35,000 active ANT personnel (approximately 25-30,000 Ground Forces, 5,000 GDSSIE, and a few hundred Air Force); approximately 5,000 National Gendarmerie; approximately 3,000 Nomadic Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ANT is mostly armed with older or secondhand equipment from Belgium, France, Russia, and the former Soviet Union; in recent years it has received equipment, including donations, from other countries, including China, Turkey, and the US (2023)<br>
@@ -708,7 +708,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 192,473 (Sudan) (includes refugees since 15 April 2023), 128,060 (Central African Republic), 26,552 (Cameroon), 21,053 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 382,320 (Sudan) (includes refugees since 15 April 2023), 128,083 (Central African Republic), 26,668 (Cameroon), 21,081 (Nigeria) (2023)<br>
 _IDPs_: 381,289 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>

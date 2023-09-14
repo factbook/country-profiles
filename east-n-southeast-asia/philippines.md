@@ -693,8 +693,8 @@ _container port(s) (TEUs)_: Manila (4,976,014) (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air Force (2023)<br>
-<strong>note 1:</strong> the Philippine Coast Guard is an armed and uniformed service under the Department of Transportation; it would be attached to the AFP in wartime; the Philippine National Police Force (PNP) falls under the Department of the Interior<br><br><strong>note 2: </strong>the Philippine Government also arms and supports civilian militias; the AFP controls Civilian Armed Force Geographical Units, while the Civilian Volunteer Organizations fall under PNP command<br>
+Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air Force<br><br>Department of Transportation: Philippine Coast Guard (PCG)<br><br>Department of the Interior: Philippine National Police Force (PNP) (2023)<br>
+<strong>note 1:</strong> the PCG is an armed and uniformed service that would be attached to the AFP during a conflict<br><br><strong>note 2: </strong>the Philippine Government also arms and supports civilian militias; the AFP controls Civilian Armed Force Geographical Units, while the Civilian Volunteer Organizations fall under PNP command<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2022 est.)<br>
@@ -704,7 +704,7 @@ Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air F
 1% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 130,000 active duty personnel (90,000 Army; 25,000 Navy, including about 8,000 Marine Corps; 15,000 Air Force) (2022)<br>
+approximately 140,000 active-duty personnel (100,000 Army; 25,000 Navy, including about 8,000 Marine Corps; 15,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the AFP is equipped with a wide mix of imported weapons systems; in recent years, it has received equipment from more than a dozen countries led by Israel, South Korea, and the US (2023)<br>
@@ -743,7 +743,7 @@ Abu Sayyaf Group; Communist Party of the Philippines/New People's Army (CPP/NPA)
 <p><em>Philippines-Taiwan-China-Malaysia-Vietnam</em>: Philippines claims sovereignty over Scarborough Reef (also claimed by China together with Taiwan) and over certain of the Spratly Islands, known locally as the Kalayaan (Freedom) Islands, also claimed by China, Malaysia, Taiwan, and Vietnam; the 2002 "Declaration on the Conduct of Parties in the South China Sea," has eased tensions in the Spratly Islands but falls short of a legally binding "code of conduct" desired by several of the disputants; in March 2005, the national oil companies of China, the Philippines, and Vietnam signed a joint accord to conduct marine seismic activities in the Spratly Islands</p> <p><em>Philippines-Malaysia</em>: Philippines retains a dormant claim to Malaysia's Sabah State in northern Borneo based on the Sultanate of Sulu's granting the Philippines Government power of attorney to pursue a sovereignty claim on his behalf; the disagreement resurfaced in September 2020 , when Malaysia’s submission to the UN about extending its continental shelf was sharply countered by the Philippines because it included the disputed territory</p> <p><em>Philippines-Palau</em>: maritime delimitation negotiations continue with Palau, as of March 2022</p><br>
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 108,000 (government troops fighting the Moro Islamic Liberation Front, the Abu Sayyaf Group, and the New People's Army; clan feuds; armed attacks, political violence, and communal tensions in Mindanao) (2021)<br>
+_IDPs_: 102,000 (government troops fighting the Moro Islamic Liberation Front, the Abu Sayyaf Group, and the New People's Army; clan feuds; armed attacks, political violence, and communal tensions in Mindanao) (2022)<br>
 _stateless persons_: 261 (2022); note - stateless persons are descendants of Indonesian migrants<br>
 
 **Illicit drugs**<br>

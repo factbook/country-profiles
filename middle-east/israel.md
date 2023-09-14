@@ -697,7 +697,7 @@ Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes com
 5.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 173,000 active duty personnel (130,000 Ground Forces; 9,000 Naval; 34,000 Air Force) (2022)<br>
+approximately 170,000 active-duty personnel (130,000 Ground Forces; 10,000 Naval; 30,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the majority of the IDF's inventory is comprised of weapons that are domestically produced or imported from Europe and the US; the US has been the leading supplier of arms in recent years; Israel has a broad defense industrial base that can develop, produce, support, and sustain a wide variety of weapons systems for both domestic use and export, particularly armored vehicles, unmanned aerial systems, air defense, and guided missiles (2023)<br>

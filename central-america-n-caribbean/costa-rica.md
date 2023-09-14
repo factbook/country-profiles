@@ -688,7 +688,7 @@ no regular military forces; Ministry of Public Security: the Public Force (Fuerz
 0.7% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-12,500 Public Force personnel; approximately 500-600 Air, 500-600 Coast Guard, and 300-400 Border Police personnel (2022)<br>
+12-15,000 Ministry of Public Security personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Public Force is lightly armed with an inventory that includes mostly older, secondhand US equipment (2023)<br>
