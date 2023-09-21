@@ -66,7 +66,7 @@ _other_: 0% (2018 est.)<br>
 _fresh water lake(s)_: Lake Malawi (shared with Malawi and Tanzania) - 22,490<br>
 
 **Major rivers (by length in km)**<br>
-Zambezi river mouth (shared with Zambia [s]), Angola, Namibia, Botswana, and Zimbabwe) - 2,740 km; Limpopo river mouth (shared with South Africa [s], Botswana, and Zimbabwe) - 1,800 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Rio Zambeze (Zambezi) river mouth (shared with Zambia [s]), Angola, Namibia, Botswana, and Zimbabwe) - 2,740 km; Rio Limpopo river mouth (shared with South Africa [s], Botswana, and Zimbabwe) - 1,800 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -292,7 +292,7 @@ _percent of municipal solid waste recycled_: 1% (2014 est.)<br>
 _fresh water lake(s)_: Lake Malawi (shared with Malawi and Tanzania) - 22,490<br>
 
 **Major rivers (by length in km)**<br>
-Zambezi river mouth (shared with Zambia [s]), Angola, Namibia, Botswana, and Zimbabwe) - 2,740 km; Limpopo river mouth (shared with South Africa [s], Botswana, and Zimbabwe) - 1,800 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Rio Zambeze (Zambezi) river mouth (shared with Zambia [s]), Angola, Namibia, Botswana, and Zimbabwe) - 2,740 km; Rio Limpopo river mouth (shared with South Africa [s], Botswana, and Zimbabwe) - 1,800 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>

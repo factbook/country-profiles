@@ -65,7 +65,7 @@ _other_: 10.6% (2018 est.)<br>
 4,730 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
-Danube river mouth (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+<p>Dunărea (Danube) river mouth (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km</p> <strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -276,7 +276,7 @@ _municipal solid waste recycled annually_: 277,547 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 5.7% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Danube river mouth (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+<p>Dunărea (Danube) river mouth (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km</p> <strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -715,7 +715,7 @@ the military's inventory is comprised mostly of Soviet-era and older domesticall
 up to 120 Poland (NATO) (2023)<br>
 
 **Military - note**<br>
-Romania became a member of NATO in 2004<br><br>Romania hosts a NATO multinational divisional headquarters (Multinational Division Southeast; became operational in 2017) and a French-led ground force battlegroup as part of NATO's tailored forward presence in the southeastern part of the Alliance in response to Russia’s 2022 invasion of Ukraine; Romania conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Romanian Air Force since 2014 (2023)<br>
+the Romanian Armed Forces are responsible for territorial defense, fulfilling Romania’s commitments to European security, and contributing to multinational peacekeeping operations; the military has a variety of concerns, including cyber attacks and terrorism, but its primary focus is Russian aggression against neighboring Ukraine and its activities in the Black Sea and Romania’s other eastern neighbor, Moldova; Romania joined NATO in 2004, and the Alliance forms a key pillar of the country’s defense policy; it hosts a NATO multinational divisional headquarters (Multinational Division Southeast) and a French-led ground force battlegroup as part of NATO's Enhanced Forward Presence initiative in the southeastern part of the Alliance, which came about in response to Russia’s 2022 invasion of Ukraine; NATO allies have also sent detachments of fighters to augment the Romanian Air Force since 2014 because of aggressive Russian activity in the Black Sea region; the Romanian military trains regularly with NATO and its member states and participates in NATO- and EU-led multinational missions in Bosnia andHerzegovina, Kosovo, and Poland<br><br>the military is a professional and all-volunteer force equipped largely with Soviet-era or other aging weapons systems, although since joining NATO it has embarked on an effort to acquire more modern, NATO-compatible weapons systems, such as armored vehicles, combat aircraft, and naval vessels; the main combat formations of the Land Forces are two combined arms infantry divisions, each comprised of three or four mechanized and mountain infantry brigades, plus artillery, reconnaissance, and other combat support forces; the Army also has a tactical missile brigade; the military’s special operations forces were consolidated into a special operations command in 2018<br><br>the Romanian Navy operates on the Black Sea and the Danube River; the Black Sea fleet command has three frigates and seven corvettes organized into flotillas and divisions, as well as divisions of mine warfare vessels, naval missiles, and coastal defense; the Danube River flotilla has gunboats and a marine infantry regiment <br><br>the Air Force had approximately 400 Soviet-made combat aircraft when Romania was a member of the Warsaw Pact, but by the 2020s the number was down to a few dozen that were being replaced by secondhand US-origin F-16 fighter aircraft acquired from NATO partners; in 2023, Romania retired the last of its Soviet-era fighters and signed a contract to acquire about 30 additional F-16s from Norway (2023)<br>
 
 ## Space
 
@@ -738,7 +738,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 86,850 (Ukraine) (as of 3 September 2023)<br>
+_refugees (country of origin)_: 86,810 (Ukraine) (as of 10 September 2023)<br>
 _stateless persons_: 297 (2022)<br>
 <strong>note:</strong> 14,611 estimated refugee and migrant arrivals (January 2015-July 2023)<br>
 

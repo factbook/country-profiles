@@ -62,7 +62,7 @@ _other_: 55.7% (2018 est.)<br>
 10 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Ubangi river [s] (shared with Democratic Republic of Congo and Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Oubangui (Ubangi) river [s] (shared with Democratic Republic of Congo and Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -283,7 +283,7 @@ _methane emissions_: 22.44 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 1,105,983 tons (2014 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Ubangi river [s] (shared with Democratic Republic of Congo and Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Oubangui (Ubangi) river [s] (shared with Democratic Republic of Congo and Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -664,7 +664,7 @@ Nola (Sangha)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includes an air squadron, Escadrille Centrafricaine); Ministry of Interior: National Gendarmerie (Gendarmerie Nationale), National Police (2023)<br>
+Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includes an air squadron, Escadrille Centrafricaine)<br><br>Ministry of Interior: National Gendarmerie (Gendarmerie Nationale), National Police (2023)<br>
 <strong>note 1: </strong>the Special Republican Protection Group (Groupement Spécial Chargé de la Protection Républicaine or GSPR) is part of the Army per a March 2022 decree, but reports to the president; the GSPR provides protection to the head of state<br><strong><br>note 2:</strong> in 2019-2021, the CAR created three Mixed Special Security units (Unités Spéciales Mixtes de Sécurité or USMS), regionally based battalion-sized units comprised of about 40% government and 60% rebel soldiers created to provide security along transportation corridors and at mining sites; the units are intended to be transitional in nature with a scheduled deployment time of two years; in addition, since mid-2021 the FACA have frequently recruited local militias, mostly former anti-balaka fighters, whom they pay to help track and attack rebels hiding in the bush<br>
 
 **Military expenditures**<br>
@@ -693,6 +693,6 @@ the 2013 coup resulted in the institutional collapse of the Central African Arme
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,636 (Democratic Republic of Congo), 12,018 (Sudan) (refugees since 15 April 2023) (2023)<br>
-_IDPs_: 474,822 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2023)<br>
+_refugees (country of origin)_: 18,011 (Sudan) (refugees since 15 April 2023), 6,636 (Democratic Republic of Congo) (2023)<br>
+_IDPs_: 514,547 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2023)<br>
 

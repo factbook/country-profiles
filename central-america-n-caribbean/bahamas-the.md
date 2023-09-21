@@ -293,15 +293,15 @@ _residency requirement for naturalization_: 6-9 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Cynthia A. PRATT (since 1 September 2023)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General Cynthia A. PRATT (since 1 September 2023)<br>
 _head of government_: Prime Minister Philip DAVIS (since 17 September 2021)<br>
-_cabinet_: Cabinet appointed by governor general on recommendation of prime minister<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general; the prime minister recommends the deputy prime minister<br>
+_cabinet_: Cabinet appointed by governor-general on recommendation of prime minister<br>
+_elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; the prime minister recommends the deputy prime minister<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (16 seats; members appointed by the governor general - 9 selected on the advice of the prime minister, 4 on the advice of the leader of the opposition party, and 3 on the advice of the prime minister in consultation with the opposition leader; members serve 5-year terms)<br>House of Assembly (39 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_description_: bicameral Parliament consists of:<br>Senate (16 seats; members appointed by the governor-general - 9 selected on the advice of the prime minister, 4 on the advice of the leader of the opposition party, and 3 on the advice of the prime minister in consultation with the opposition leader; members serve 5-year terms)<br>House of Assembly (39 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: <br>Senate - last appointments on 24 May 2017 (next appointments in 2022)<br>House of Assembly - last held on 16 September 2021 (next to be held by September 2026)<br>
-_election results_: <br>Senate - appointed; composition as of March 2022 - men 12, women 4, percent of women 25%<br>House of Assembly - percent of vote by party - PLP 52.5%, FNM 36.2%; seats by party - PLP 32, FNM 7; composition as of March 2022 - men 32, women 7, percent of women 18%; note - total Parliament percent of women 20%<br>
+_election results_: <br>Senate - appointed; composition as of August 2023 - men 12, women 4, percent of women 25%<br><br>House of Assembly - percent of vote by party - PLP 52.5%, FNM 36.2%; seats by party - PLP 32, FNM 7; composition as of August 2023 - men 32, women 7, percent of women 18%; note - total Parliament percent of women 20%<br>
 <strong>note:</strong> the government may dissolve the parliament and call elections at any time<br>
 
 **Judicial branch**<br>

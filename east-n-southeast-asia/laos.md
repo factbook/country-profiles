@@ -62,7 +62,7 @@ _other_: 21.5% (2018 est.)<br>
 4,409 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
-Mekong (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+<p>Mènam Khong (Mekong) (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km</p> <strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -279,7 +279,7 @@ _municipal solid waste recycled annually_: 35,190 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 10% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Mekong (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+<p>Mènam Khong (Mekong) (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km</p> <strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>

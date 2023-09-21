@@ -379,8 +379,8 @@ _lyrics/music_: Mustafa Sadik AL-RAFII and Aboul-Qacem ECHEBBI/Mohamad Abdel WAH
 <strong>note:</strong> adopted 1957, replaced 1958, restored 1987; Mohamad Abdel WAHAB also composed the music for the anthem of the United Arab Emirates<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 8 (7 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Amphitheatre of El Jem (c); Archaeological Site of Carthage (c); Medina of Tunis (c); Ichkeul National Park (n); Punic Town of Kerkuane (c); Kairouan (c); Medina of Sousse (c); Dougga / Thugga (c)<br>
+_total World Heritage Sites_: 9 (8 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Amphitheatre of El Jem (c); Archaeological Site of Carthage (c); Medina of Tunis (c); Ichkeul National Park (n); Punic Town of Kerkuane (c); Kairouan (c); Medina of Sousse (c); Dougga / Thugga (c); Djerba: Testimony to a settlement pattern in an island territory (c)<br>
 
 ## Economy
 

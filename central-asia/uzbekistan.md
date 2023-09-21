@@ -389,8 +389,8 @@ _lyrics/music_: Abdulla ARIPOV/Mutal BURHANOV<br>
 <strong>note:</strong> adopted 1992; after the fall of the Soviet Union, Uzbekistan kept the music of the anthem from its time as a Soviet Republic but adopted new lyrics<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 5 (4 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Itchan Kala (c); Historic Bukhara (c); Historic Shakhrisyabz (c); Samarkand - Crossroad of Cultures (c); Western Tien Shan (n)<br>
+_total World Heritage Sites_: 6 (5 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Itchan Kala (c); Historic Bukhara (c); Historic Shakhrisyabz (c); Samarkand - Crossroad of Cultures (c); Western Tien Shan (n); Silk Roads: Zarafshan-Karakum Corridor (c)<br>
 
 ## Economy
 

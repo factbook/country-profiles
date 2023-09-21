@@ -67,7 +67,7 @@ _other_: 21.6% (2018 est.)<br>
 _salt water lake(s)_: Thalesap Songkhla - 1,290 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Mekong (shared with China [s], Burma, Laos, Cambodia, and Vietnam [m]) - 4,350 km; Salween (shared with China [s] and Burma [m]) - 3,060 km; Mun - 1,162 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Mae Nam Khong (Mekong) (shared with China [s], Burma, Laos, Cambodia, and Vietnam [m]) - 4,350 km; Salween (shared with China [s] and Burma [m]) - 3,060 km; Mun - 1,162 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -290,7 +290,7 @@ _percent of municipal solid waste recycled_: 19.1% (2012 est.)<br>
 _salt water lake(s)_: Thalesap Songkhla - 1,290 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Mekong (shared with China [s], Burma, Laos, Cambodia, and Vietnam [m]) - 4,350 km; Salween (shared with China [s] and Burma [m]) - 3,060 km; Mun - 1,162 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Mae Nam Khong (Mekong) (shared with China [s], Burma, Laos, Cambodia, and Vietnam [m]) - 4,350 km; Salween (shared with China [s] and Burma [m]) - 3,060 km; Mun - 1,162 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>

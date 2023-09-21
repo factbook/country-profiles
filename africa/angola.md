@@ -63,7 +63,7 @@ _forest_: 54.3% (2018 est.)<br>
 860 sq km (2014)<br>
 
 **Major rivers (by length in km)**<br>
-Zambezi (shared with Zambia [s], Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Okavango river source (shared with Namibia and Botswana [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Rio Zambeze (Zambezi) (shared with Zambia [s], Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Rio Cubango (Okavango) river source (shared with Namibia and Botswana [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
@@ -274,7 +274,7 @@ _methane emissions_: 23.28 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 4,213,644 tons (2012 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Zambezi (shared with Zambia [s], Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Okavango river source (shared with Namibia and Botswana [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Rio Zambeze (Zambezi) (shared with Zambia [s], Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Rio Cubango (Okavango) river source (shared with Namibia and Botswana [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>

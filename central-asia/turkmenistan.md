@@ -397,8 +397,8 @@ _lyrics/music_: collective/Veli MUKHATOV<br>
 <strong>note:</strong> adopted 1997, lyrics revised in 2008, to eliminate references to deceased President Saparmurat NYYAZOW <br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 3 (all cultural)<br>
-_selected World Heritage Site locales_: Ancient Merv; Kunya-Urgench; Parthian Fortresses of Nisa<br>
+_total World Heritage Sites_: 4 (all cultural)<br>
+_selected World Heritage Site locales_: Ancient Merv; Kunya-Urgench; Parthian Fortresses of Nisa; Silk Roads: Zarafshan-Karakum Corridor<br>
 
 ## Economy
 

@@ -381,8 +381,8 @@ _lyrics/music_: Vincas KUDIRKA<br>
 <strong>note:</strong> adopted 1918, restored 1990; written in 1898 while Lithuania was a part of Russia; banned during the Soviet occupation from 1940 to 1990<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 4 (all cultural)<br>
-_selected World Heritage Site locales_: Vilnius Historic Center; Curonian Spit; Kernavė Archaeological Site; Struve Geodetic Arc<br>
+_total World Heritage Sites_: 5 (all cultural)<br>
+_selected World Heritage Site locales_: Vilnius Historic Center; Curonian Spit; Kernavė Archaeological Site; Struve Geodetic Arc; Modernist Kaunas: Architecture of Optimism, 1919-1939<br>
 
 ## Economy
 
@@ -706,7 +706,7 @@ the military's inventory is a mix of Soviet-era and more modern European and US 
 <strong>note: </strong>contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br>
 
 **Military - note**<br>
-Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hosted a German-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; NATO also has provided air protection for Lithuania since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base (2022)</p><br>
+the Lithuanian Armed Forces are responsible for the defense of the country’s interests, sovereignty, and territory, fulfilling Lithuania’s commitments to NATO and European security, and contributing to UN international peacekeeping efforts; Russia is Lithuania’s primary security focus, which has only increased since the Russian seizure of Crimea in 2014 and subsequent full-scale attack on Ukraine in 2022; Lithuania has been a member of NATO since 2004 and is reliant on the Alliance as the country’s security guarantor; it is actively engaged in both NATO and EU security, as well as bilaterally with allies such as the other Baltic States, Poland, the UK, Ukraine, and the US; the Lithuanian military has participated in NATO and EU missions abroad and regularly conducts training and exercises with NATO and EU partner forces; it hosts NATO forces, is a member of the UK-led Joint Expeditionary Force, and contributes troops to a multinational brigade with Poland and Ukraine; Lithuania participated in its first UN peacekeeping mission in 1994<br><br>the Land Forces form the backbone of the country’s defense force; the active Land Forces comprise a mechanized infantry brigade and a motorized infantry brigade; they are supplemented by the part-time National Defense Volunteer Forces, which are organized into six district-based territorial units; since 2017, Lithuania has hosted a German-led multinational NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative<br><br>Lithuania has no combat aircraft but has a ground air defense unit, and NATO has provided air protection for Lithuania since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on four-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base; Lithuania’s Naval Forces have small patrol vessel and mine warfare squadrons; the Special Operations Forces have air, ground, and naval units for missions such as counterterrorism, direct action, hostage rescue, military assistance, and reconnaissance (2023)<br>
 
 ## Space
 
@@ -723,7 +723,7 @@ has a small but growing space program; operates satellites; manufactures small s
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 43,015 (Ukraine) (as of 1 September 2023)<br>
+_refugees (country of origin)_: 49,970 (Ukraine) (as of 7 September 2023)<br>
 _stateless persons_: 2,720 (2022)<br>
 
 **Illicit drugs**<br>

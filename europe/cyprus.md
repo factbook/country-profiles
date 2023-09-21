@@ -683,7 +683,7 @@ Republic of Cyprus: Cypriot National Guard (Ethniki Froura, EF; includes Army La
 1.8% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 13,000 total active duty personnel (2022)<br>
+approximately 15,000 total active-duty personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of mostly Soviet-era weapons and equipment along with some more modern systems from several countries, including France, Israel, Russia, and Serbia (2023)<br>
@@ -693,7 +693,7 @@ Cypriot National Guard (CNG): 18-50 years of age for compulsory military service
 <strong>note:</strong> the CNG accepts all foreign nationals of at least partial Cypriot descent under age 32 as volunteers; dual citizenship Cypriot origin citizens, who were born in Cyprus or abroad, have the obligation to serve in the CNG on repatriation, regardless of whether or not they possess a foreign citizenship; a person is considered as having Cypriot origin where a grandparent or parent was/is a Cypriot citizen<br>
 
 **Military - note**<br>
-the United Nations Peacekeeping Force in Cyprus (UNFICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; the UN force patrols a buffer zone, also called the &ldquo;Green Line,&rdquo; that separates the two sides; the UNFICYP mission has about 800 personnel assigned (2023)<br>
+established in 1964, the National Guard (EF) is responsible for ensuring Cyprus’s territorial integrity and sovereignty; its primary focus is Turkey, which invaded Cyprus in 1974 and maintains a large military presence in the unrecognized Turkish Republic of Northern Cyprus; the EF also participates in some internal missions, such as providing assistance during natural disasters; Greece is its main security partner and maintains about 1,000 troops on Cyprus; the EF has conducted training exercises with other militaries including France, Israel, and the US; since Cyprus joined the EU in 2004, the EF has actively participated in the EU’s Common Security and Defense Policy and has sent small numbers of personnel to some EU and missions; Cyprus is also part of the Organization for Security and Cooperation in Europe<br><br>the EF, particularly the Army, would rely heavily on the mobilization of approximately 50,000 available reserves during a crisis; the majority of the active Army is deployed along the “Green Line” that separates the Greek Cypriots from the Turkish Cypriots; its principal combat forces are five infantry brigades, an armored brigade, and regiments of artillery, light infantry, and special forces; the Navy has a small number of coastal patrol craft and boats, as well as a special operations unit, while the Air Force has a few combat helicopters and ground-based air defense units (2023)<br>
 
 ## Terrorism
 
@@ -707,8 +707,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 18,985 (Ukraine) (as of 20 August 2023)<br>
-_IDPs_: 242,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2021)<br>
+_refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 18,225 (Ukraine) (as of 27 August 2023)<br>
+_IDPs_: 246,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2022)<br>
 _stateless persons_: 74 (2022)<br>
 <strong>note:</strong> 53,552 estimated refugee and migrant arrivals (January 2015-June 2023)<br>
 

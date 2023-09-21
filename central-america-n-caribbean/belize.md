@@ -322,15 +322,15 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Froyla TZALAM (since 27 May 2021)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General&nbsp; Froyla TZALAM (since 27 May 2021)<br>
 _head of government_: Prime Minister Juan Antonio BRICENO (since 12 November 2020); Deputy Prime Minister Cordel HYDE (since 16 November 2020)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister from among members of the National Assembly<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general; prime minister recommends the deputy prime minister<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>Senate (14 seats, including the president); members appointed by the governor general - 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 1 each on the advice of the Belize Council of Churches and Evangelical Association of Churches, the Belize Chamber of Commerce and Industry and the Belize Better Business Bureau, non-governmental organizations in good standing, and the National Trade Union Congress and the Civil Society Steering Committee; Senate president elected from among the Senate members or from outside the Senate; members serve 5-year terms<br>House of Representatives (31 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br>Senate -  last appointed 11 November 2020 (next appointments in November 2025)<br>House of Representatives - last held on 11 November 2020 (next to be held in November 2025)<br>
-_election results_: Senate - all members appointed; composition as of March 2022 - composition - men 9, women 5, percent of women 35.7%<br>House of Representatives - percent of vote by party - PUP 59.6%, UDP 38.8%, other 1.6%; seats by party - PUP 26, UDP 5; composition as of March 2022 -  men 27, women 4, percent of women 12.9%; note - total percent of women in the National Assembly 20%<br>
+_description_: bicameral National Assembly consists of:<br>Senate (14 seats, including the president); members appointed by the govenor-general - 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 1 each on the advice of the Belize Council of Churches and Evangelical Association of Churches, the Belize Chamber of Commerce and Industry and the Belize Better Business Bureau, non-governmental organizations in good standing, and the National Trade Union Congress and the Civil Society Steering Committee; Senate president elected from among the Senate members or from outside the Senate; members serve 5-year terms<br>House of Representatives (32 seats; 31 members directly elected in single-seat constituencies by simple majority vote and the speaker, who may be designated from outside the government; members serve 5-year terms)<br>
+_elections_: <br>Senate - last appointed 11 November 2020 (next appointments in November 2025)<br>House of Representatives - last held on 11 November 2020 (next to be held in November 2025)<br>
+_election results_: <br>Senate - all members appointed; composition as of August 2023 - composition - men 8, women 6, percent of women 43%<br>House of Representatives - percent of vote by party - PUP 59.6%, UDP 38.8%, other 1.6%; seats by party - PUP 26, UDP 5; composition as of August 2023 - men 27, women 5, percent of women 15.6%; note - total percent of women in the National Assembly 24%<br>
 <strong> </strong><br>
 
 **Judicial branch**<br>

@@ -77,7 +77,7 @@ landlocked; highlands are main recharge area for Israel's coastal aquifers; ther
 ## People and Society
 
 **Population**<br>
-3,050,760 (2023 est.)<br>
+3,176,549 (2023 est.)<br>
 <strong>note:</strong> approximately 432,000 Israeli settlers live in the West Bank (2019); approximately 227,100 Israeli settlers live in East Jerusalem (2019)<br>
 
 **Nationality**<br>
@@ -550,7 +550,7 @@ not available<br>
 the PA Security Forces have approximately 28,000 active personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the security services are armed mostly with small arms and light weapons, although in recent years, they have received small amounts of heavier equipment from Jordan (armored personnel carriers) and Russia (armored personnel carriers and transport helicopters) (2022)<br>
+the security services are armed mostly with small arms and light weapons; in recent years, they have received small amounts of equipment from Jordan, Russia, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 not available<br>

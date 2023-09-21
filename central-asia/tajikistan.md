@@ -387,8 +387,8 @@ _lyrics/music_: Gulnazar KELDI/Sulaimon YUDAKOV<br>
 <strong>note:</strong> adopted 1991; after the fall of the Soviet Union, Tajikistan kept the music of the anthem from its time as a Soviet republic but adopted new lyrics<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Proto-urban Site of Sarazm (c); Tajik National Park (Mountains of the Pamirs) (n)<br>
+_total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Proto-urban Site of Sarazm (c); Tajik National Park (Mountains of the Pamirs) (n); Silk Roads: Zarafshan-Karakum Corridor (c)<br>
 
 ## Economy
 

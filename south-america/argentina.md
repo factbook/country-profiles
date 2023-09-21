@@ -712,7 +712,7 @@ Argentina operates one PC 5 or 6 class light icebreaker<br>note - PC indicates a
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Argentine Republic (Fuerzas Armadas de la República Argentina): Argentine Army (Ejercito Argentino, EA), Navy of the Argentine Republic (Armada Republica, ARA; includes naval aviation and naval infantry), Argentine Air Force (Fuerza Aerea Argentina, FAA); Ministry of Security: Gendarmería Nacional Argentina (National Gendarmerie), Coast Guard (Prefectura Naval) (2023)<br>
+Armed Forces of the Argentine Republic (Fuerzas Armadas de la República Argentina): Argentine Army (Ejercito Argentino, EA), Navy of the Argentine Republic (Armada Republica, ARA; includes naval aviation and naval infantry), Argentine Air Force (Fuerza Aerea Argentina, FAA)<br><br>Ministry of Security: Gendarmería Nacional Argentina (National Gendarmerie), Coast Guard (Prefectura Naval) (2023)<br>
 <strong>note: </strong>all federal police forces are under the Ministry of Security<br>
 
 **Military expenditures**<br>

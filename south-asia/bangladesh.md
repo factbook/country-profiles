@@ -356,7 +356,7 @@ _elections/appointments_: president indirectly elected by the National Parliamen
 _election results_: President Abdul HAMID (AL) reelected by the National Parliament unopposed for a second term; Sheikh HASINA reappointed prime minister as leader of the majority AL party following parliamentary election in 2023<br>
 
 **Legislative branch**<br>
-_description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the elected members by proportional representation vote using single transferable vote; all members serve 5-year terms)<br>
+_description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the House of the Nation membership by proportional representation vote using single transferable vote method; all members serve 5-year terms)<br>
 _elections_: last held on 30 December 2018 (next to be held in January 2024)<br>
 _election results_: percent of vote by party - NA; seats by party as of February 2022 - AL 299, JP 27, BNP 7, other 10, independent 7; composition - men 277, women 73, percent of women 20.9%<br>
 
@@ -709,6 +709,7 @@ _by type_: bulk carrier 56, container ship 10, general cargo 150, oil tanker 152
 **Ports and terminals**<br>
 _major seaport(s)_: Chattogram (Chittagong)<br>
 _container port(s) (TEUs)_: Chattogram (Chittagong) (3,214,548) (2021)<br>
+_LNG terminal(s) (import)_: Moheshkhali (2 FSRU)<br>
 _river port(s)_: Mongla Port (Sela River)<br>
 
 ## Military and Security
@@ -764,7 +765,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 962,416 (Burma) (2023)<br>
-_IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2021)<br>
+_IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2022)<br>
 _stateless persons_: 929,606 (2022)<br>
 
 **Illicit drugs**<br>

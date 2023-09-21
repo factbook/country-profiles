@@ -62,7 +62,7 @@ _other_: 19.7% (2018 est.)<br>
 211 sq km (2015)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Austria, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunaj (Danube) (shared with Germany [s], Austria, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -271,7 +271,7 @@ _municipal solid waste recycled annually_: 135,941 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 7.6% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Austria, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunaj (Danube) (shared with Germany [s], Austria, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -703,7 +703,7 @@ the military's inventory consists mostly of Soviet-era platforms; in recent year
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Slovakia, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host a NATO ground force battlegroup comprised of troops from Czechia, Germany, the Netherlands, Poland, Slovakia, Slovenia, and the US; Czechia and Poland also provide fighter aircraft for the NATO air policing mission over Slovakia (2023)<br>
+the Slovak military was created from the Czechoslovak Army after the dissolution of Czechoslovakia in January 1993; it is a small and professional force responsible for external defense and fulfilling Slovakia’s commitments to European and international security; Slovakia has been a member of both the EU and NATO since 2004; a key focus of the Slovak military is fulfilling the country’s security responsibilities to NATO, including modernizing and acquiring NATO-compatible equipment, participating in training exercises, and providing forces for security missions such as NATO’s Enhanced Forward Presence in the Baltic States; since 2022, Slovakia has hosted a NATO ground force battlegroup comprised of troops from Czechia, Germany, the Netherlands, Poland, Slovakia, Slovenia, and the US as part of the NATO effort to boost the defenses of Eastern Europe since the Russian invasion of Ukraine; Slovakia also contributes to EU and UN peacekeeping missions<br><br>the military operates under a General Staff and a Joint Operations Command; the combat units of the subordinate Land Forces are two mechanized infantry brigades, plus separate battalions of artillery and reconnaissance forces; the separate Special Operations Forces include special forces and airborne units; the Air Force has only a handful of fighter aircraft and is assisted by NATO’s air policing mission over Slovakia, which includes fighter aircraft from Czechia and Poland; in 2022, Slovakia signed a defense agreement with the US that allows the US to use two Slovak military air bases; as a landlocked country, Slovakia does not have a naval force (2023)<br>
 
 ## Space
 

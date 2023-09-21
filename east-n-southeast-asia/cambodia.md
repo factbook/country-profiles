@@ -396,8 +396,8 @@ _lyrics/music_: CHUON NAT/F. PERRUCHOT and J. JEKYLL<br>
 <strong>note:</strong> adopted 1941, restored 1993; the anthem, based on a Cambodian folk tune, was restored after the defeat of the Communist regime<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 3 (all cultural)<br>
-_selected World Heritage Site locales_: Angkor; Temple of Preah Vihear; Sambor Prei Kuk<br>
+_total World Heritage Sites_: 4 (all cultural)<br>
+_selected World Heritage Site locales_: Angkor; Temple of Preah Vihear; Sambor Prei Kuk; Koh Ker: Archaeological Site of Ancient Lingapora or Chok Gargyar<br>
 
 ## Economy
 
@@ -705,7 +705,7 @@ Royal Cambodian Armed Forces (RCAF): Royal Cambodian Army, Royal Khmer Navy, Roy
 2.1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 100,000 total active troops including less than 5,000 Navy and Air Force personnel; approximately 10,000 Gendarmerie (2022)<br>
+information varies; approximately 100,000 total active troops including less than 5,000 Navy and Air Force personnel; approximately 10,000 Gendarmerie (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RCAF is armed largely with older Chinese and Russian-origin equipment; in recent years it has received limited amounts of more modern equipment from a variety of suppliers, particularly China (2023)<br>

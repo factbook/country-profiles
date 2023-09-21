@@ -28,7 +28,7 @@ slightly larger than the US<br>
 
 **Land boundaries**<br>
 _total_: 8,892 km<br>
-_border countries_: US 8,891 km (includes 2,475 km with Alaska); Denmark (Greenland) 1.2 km<br>
+_border countries_: US 8,891 km (includes 2,475 km with Alaska); Denmark (Greenland) 1.3 km<br>
 &nbsp;<br>
 
 **Coastline**<br>
@@ -401,7 +401,7 @@ _lyrics/music_: Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/
 <strong>note:</strong> adopted 1980; originally written in 1880, "O Canada" served as an unofficial anthem many years before its official adoption; the anthem has French and English versions whose lyrics differ; as a Commonwealth realm, in addition to the national anthem, "God Save the King" serves as the royal anthem (see United Kingdom)<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 20 (9 cultural, 10 natural, 1 mixed) (2021)<br>
+_total World Heritage Sites_: 21 (10 cultural, 10 natural, 1 mixed) (2021)<br>
 _selected World Heritage Site locales_: L'Anse aux Meadows (c); Canadian Rocky Mountain Parks (n); Dinosaur Provincial Park (n); Historic District of Old Quebec (c); Old Town Lunenburg (c); Wood Buffalo National Park (n); Head-Smashed-In Buffalo Jump (c); Gros Morne National Park (n); Pimachiowin Aki (m)<br>
 
 ## Economy

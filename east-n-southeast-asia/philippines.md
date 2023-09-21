@@ -689,6 +689,7 @@ _by type_: bulk carrier 59, container ship 43, general cargo 749, oil tanker 210
 **Ports and terminals**<br>
 _major seaport(s)_: Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila<br>
 _container port(s) (TEUs)_: Manila (4,976,014) (2021)<br>
+_LNG terminal(s) (import)_: Batangas<br>
 
 ## Military and Security
 

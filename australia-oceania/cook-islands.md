@@ -287,8 +287,8 @@ _elections/appointments_: the monarchy is hereditary; UK representative appointe
 
 **Legislative branch**<br>
 _description_: unicameral Parliament, formerly the Legislative Assembly (24 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms); note - the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the Queen's representative serves as a consultative body to the Parliament<br>
-_elections_: last held on 14 June 2018 (next to be held by 2022)<br>
-_election results_: percent of vote by party - NA; seats by party - Demo 11, CIP 10, One Cook Islands Movement 1, independent 2; composition - men 17, women 7, percent of women 17.7%<br>
+_elections_: last held on 1 August 2022 (next to be held by 2026)<br>
+_election results_: percent of vote by party - CIP 44%, Demo 26.9%, Cook Islands United Party 26.9%, OCI 2.7%, other 0.2% independent 7.3%; seats by party - CIP 12, Demo 5, Cook Islands United Party 3, OCI 1, independent 3; composition as of September 2023 - men 18, women 6, percent of women 25%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and 3 judges of the High Court); High Court (consists of the chief justice and at least 4 judges and organized into civil, criminal, and land divisions); note - appeals beyond the Cook Islands Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -296,7 +296,7 @@ _judge selection and term of office_: High Court chief justice appointed by the 
 _subordinate courts_: justices of the peace<br>
 
 **Political parties and leaders**<br>
-Cook Islands Party or CIP [Mark BROWN]<br>Democratic Party or Demo [Tina BROWNE]<br>One Cook Islands Movement [Teina BISHOP]<br>
+Cook Islands Party or CIP [Mark BROWN]<br>Cook Islands United Party [Teariki HEATHER]<br>Democratic Party or Demo [Tina BROWNE]<br>One Cook Islands Movement or OCI [George TURIA]<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, FAO, ICAO, ICCt, ICRM, IFAD, IFRCS, IMO, IMSO, IOC, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UNESCO, UPU, WHO, WMO<br>

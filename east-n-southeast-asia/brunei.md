@@ -646,11 +646,11 @@ Royal Brunei Armed Forces: Land Force, Navy, Air Force, Joint Force<br><br>Minis
 <strong>note: </strong>the Gurkha Reserve Unit (GRU) under the Ministry of Defense is a special guard force for the Sultan, the royal family, and the country’s oil installations<br>
 
 **Military expenditures**<br>
+2.5% of GDP (2022)<br>
 3.1% of GDP (2021 est.)<br>
 3.7% of GDP (2020 est.)<br>
 3.1% of GDP (2019 est.)<br>
 2.7% of GDP (2018 est.)<br>
-2.8% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 7,000 total active-duty troops (2023)<br>
@@ -659,7 +659,7 @@ approximately 7,000 total active-duty troops (2023)<br>
 the military's s inventory includes equipment and weapons systems from a wide variety of suppliers from Asia, Europe, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary military service; non-Malays are ineligible to serve (2022)<br>
+17 years of age for voluntary military service; non-Malays are ineligible to serve (2023)<br>
 <strong>note:</strong> the Gurkha Reserve Unit (GRU) employs about 500 Gurkhas from Nepal, the majority of whom are veterans of the British Army and the Singapore Police Force who have joined the GRU as a second career<br>
 
 **Military - note**<br>

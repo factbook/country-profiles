@@ -623,7 +623,7 @@ Korean People's Army (KPA): KPA Ground Forces, KPA Navy, KPA Air Force and Air D
 between 2010 and 2019, military expenditures accounted for an estimated 20-25% of North Korea's GDP annually; North Korea in the 2010s and 2020s has increasingly relied on illicit activities &mdash; including cybercrime &mdash; to generate revenue for its weapons of mass destruction and ballistic missile programs to evade US and UN sanctions<br>
 
 **Military and security service personnel strengths**<br>
-information varies widely; estimated 1.2 million active-duty troops; estimated 200,000 internal security forces (2023)<br>
+information varies; estimated 1-1.2 million active-duty troops; estimated 200,000 internal security forces (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the KPA is equipped with older weapon systems originally acquired from the former Soviet Union, Russia, and China, and some domestically produced equipment; North Korea produces a diverse array of military hardware, including small arms, munitions, light armored vehicles, tanks, naval vessels and submarines, and some advanced weapons systems, such as cruise and ballistic missiles; most are copies or upgrades of older foreign supplied equipment (2023)<br>

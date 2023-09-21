@@ -62,7 +62,7 @@ _other_: 10.8% (2018 est.)<br>
 220 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunaj (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Labe (Elbe) river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -272,7 +272,7 @@ _municipal solid waste recycled annually_: 850,935 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 25.5% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunaj (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Labe (Elbe) river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -384,8 +384,8 @@ _lyrics/music_: Josef Kajetan TYL/Frantisek Jan SKROUP<br>
 <strong>note:</strong> adopted 1993; the anthem was originally written as incidental music to the play "Fidlovacka" (1834), it soon became very popular as an unofficial anthem of the Czech nation; its first verse served as the official Czechoslovak anthem beginning in 1918, while the second verse (Slovak) was dropped after the split of Czechoslovakia in 1993<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 16 (all cultural)<br>
-_selected World Heritage Site locales_: Historic Prague; Historic Telč; Historic Česk&yacute; Krumlov; Lednice-Valtice Cultural Landscape; Historic Kutn&aacute; Hora; Holy Trinity Column, Olomouc; Karlovy Vary Spa&nbsp;<br>
+_total World Heritage Sites_: 17 (all cultural)<br>
+_selected World Heritage Site locales_: Historic Prague; Historic Telč; Historic Česk&yacute; Krumlov; Lednice-Valtice Cultural Landscape; Historic Kutn&aacute; Hora; Holy Trinity Column, Olomouc; Karlovy Vary Spa; Zatec and the Landscape of Saaz Hops<br>
 
 ## Economy
 
@@ -707,7 +707,7 @@ up to 130 Lithuania (NATO); 130 Slovakia (NATO) (2023)<br>
 <strong>note:</strong> in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance (2023)<br>
+the Czech military is a professional force responsible for national and territorial defense, assisting civil authorities during natural disasters or other emergencies, boosting border security alongside the police, participating in international peacekeeping operations, and supporting its collective security commitments to the EU and NATO, both of which Czechia considers pillars of its national security strategy; Czechia is a member of the Organization for Security and Cooperation in Europe, contributes to UN peacekeeping operations, and actively participates in EU military and security missions under the EU Common Security and Defense Policy; the Czech military has been an active member of NATO since the country joined in 2009 and participates in a variety of NATO’s collective defense missions, including contributing to the Enhanced Forward Presence in Eastern Europe, Baltic Air Policing operations, and NATO’s rapid response forces; it also participates in NATO operations in Kosovo and exercises regularly with NATO partners; the Czech military also maintains close bilateral ties to a number of militaries, particularly partner members of the Visegrad Group (Hungary, Poland, and Slovakia) and Germany <br><br>the military has commands for its land, air, cyber/information operations, and territorial forces, as well as a joint operations command and a special forces directorate; the principal combat forces under the Land Force Command include two mechanized brigades, an airborne regiment, and regiments of artillery, reconnaissance, and electronic warfare forces; the Air Force Command is responsible for securing Czech airspace and has about 30 Czech- and Swedish-made light multirole combat fighter aircraft organized in two squadrons, as well as small squadron of Soviet-era attack helicopters; the Territorial Command is responsible for the active reserves and regional military commands that align with each of Czechia’s 13 regions and the capital, Prague (2023)<br>
 
 ## Transnational Issues
 
@@ -715,7 +715,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 366,440 (Ukraine) (as of 3 September 2023)<br>
+_refugees (country of origin)_: 368,300 (Ukraine) (as of 10 September 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

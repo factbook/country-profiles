@@ -69,7 +69,7 @@ _fresh water lake(s)_: Dongting Hu - 3,100 sq km; Poyang Hu - 3,350 sq km; Hongz
 _salt water lake(s)_: Quinghai Hu - 4,460 sq km; Nam Co - 2,500 sq km; Siling Co - 1,860 sq km; Tangra Yumco - 1,400 sq km;&nbsp;Bosten Hu 1,380 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Yangtze - 6,300 km; Huang He - 5,464 km; Amur river source (shared with Mongolia and Russia [m]) - 4,444 km; Mekong river source (shared with Burma, Laos, Thailand, Cambodia, and Vietnam [m]) - 4,350 km; Brahmaputra river source (shared with India and Bangladesh [m]) - 3,969 km; Indus river source (shared with India and Pakistan [m]) - 3,610 km; Salween river source (shared with Thailand and Burma [m]) - 3,060 km; Irrawaddy river source (shared with Burma [m]) - 2,809 km; Pearl (shared with Vietnam [s]) - 2,200 km; Red river source (shared with Vietnam [m]) - 1,149 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Yangtze - 6,300 km; Huang He - 5,464 km; Amur river source (shared with Mongolia and Russia [m]) - 4,444 km; Lancang Jiang (Mekong) river source (shared with Burma, Laos, Thailand, Cambodia, and Vietnam [m]) - 4,350 km; Yarlung Zangbo Jiang (Brahmaputra) river source (shared with India and Bangladesh [m]) - 3,969 km; Yin-tu Ho (Indus) river source (shared with India and Pakistan [m]) - 3,610 km; Nu Jiang (Salween) river source (shared with Thailand and Burma [m]) - 3,060 km; Irrawaddy river source (shared with Burma [m]) - 2,809 km; Zhu Jiang (Pearl) (shared with Vietnam [s]) - 2,200 km; Yuan Jiang (Red river) source (shared with Vietnam [m]) - 1,149 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Amur (1,929,955 sq km), Huang He (944,970 sq km), Mekong (805,604 sq km), Yangtze (1,722,193 sq km)<br>Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>Arctic Ocean drainage: Ob (2,972,493 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
@@ -294,7 +294,7 @@ _fresh water lake(s)_: Dongting Hu - 3,100 sq km; Poyang Hu - 3,350 sq km; Hongz
 _salt water lake(s)_: Quinghai Hu - 4,460 sq km; Nam Co - 2,500 sq km; Siling Co - 1,860 sq km; Tangra Yumco - 1,400 sq km;&nbsp;Bosten Hu 1,380 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Yangtze - 6,300 km; Huang He - 5,464 km; Amur river source (shared with Mongolia and Russia [m]) - 4,444 km; Mekong river source (shared with Burma, Laos, Thailand, Cambodia, and Vietnam [m]) - 4,350 km; Brahmaputra river source (shared with India and Bangladesh [m]) - 3,969 km; Indus river source (shared with India and Pakistan [m]) - 3,610 km; Salween river source (shared with Thailand and Burma [m]) - 3,060 km; Irrawaddy river source (shared with Burma [m]) - 2,809 km; Pearl (shared with Vietnam [s]) - 2,200 km; Red river source (shared with Vietnam [m]) - 1,149 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Yangtze - 6,300 km; Huang He - 5,464 km; Amur river source (shared with Mongolia and Russia [m]) - 4,444 km; Lancang Jiang (Mekong) river source (shared with Burma, Laos, Thailand, Cambodia, and Vietnam [m]) - 4,350 km; Yarlung Zangbo Jiang (Brahmaputra) river source (shared with India and Bangladesh [m]) - 3,969 km; Yin-tu Ho (Indus) river source (shared with India and Pakistan [m]) - 3,610 km; Nu Jiang (Salween) river source (shared with Thailand and Burma [m]) - 3,060 km; Irrawaddy river source (shared with Burma [m]) - 2,809 km; Zhu Jiang (Pearl) (shared with Vietnam [s]) - 2,200 km; Yuan Jiang (Red river) source (shared with Vietnam [m]) - 1,149 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Amur (1,929,955 sq km), Huang He (944,970 sq km), Mekong (805,604 sq km), Yangtze (1,722,193 sq km)<br>Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>Arctic Ocean drainage: Ob (2,972,493 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
@@ -413,7 +413,7 @@ _lyrics/music_: TIAN Han/NIE Er<br>
 <strong>note:</strong> adopted 1949; the anthem, though banned during the Cultural Revolution, is more commonly known as "Zhongguo Guoge" (Chinese National Song); it was originally the theme song to the 1935 Chinese movie, "Sons and Daughters in a Time of Storm"<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 56 (14 natural, 38 cultural, 4 mixed)<br>
+_total World Heritage Sites_: 57 (14 natural, 39 cultural, 4 mixed)<br>
 _selected World Heritage Site locales_: Imperial Palaces of the Ming and Qing Dynasties (c); Mausoleum of the First Qin Emperor (c); The Great Wall (c); Summer Palace (c); Jiuzhaigou Valley (n); Potala Palace (c); Ancient Pingyao (c); Historic Macau (c); Dengfeng (c); Grand Canal (c); Mount Huangshan (m)<br>
 
 **Government - note**<br>
@@ -744,14 +744,14 @@ People's Liberation Army (PLA): Ground Forces, Navy (PLAN, includes naval aviati
 1.7% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2 million active-duty troops (approximately 1 million Ground; 250,000 Navy/Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 Strategic Support Forces); estimated 600-650,000 People&rsquo;s Armed Police (2022)<br>
+approximately 2 million active-duty troops (approximately 1 million Ground; 250,000 Navy/Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 Strategic Support Forces); estimated 600-650,000 People&rsquo;s Armed Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the PLA has a mix of some older and an increasing amount of modern, largely domestically produced systems heavily influenced by technology derived from other countries; Russia has been the top supplier of foreign military equipment in recent years; China has one of the world's largest defense-industrial sectors and is capable of producing advanced weapons systems across all military domains (2023)<br>
 <strong>note:</strong> the PLA is in the midst of a decades-long modernization effort; in 2017, President XI set three developmental goals for the force - becoming a mechanized force with increased information and strategic capabilities by 2020, a fully modernized force by 2035, and a world-class military by mid-century<br>
 
 **Military service age and obligation**<br>
-18-22 years of age for men for selective compulsory military service, with a 2-year service obligation; women 18-19 years of age who are high school graduates and meet requirements for specific military jobs are subject to conscription (2022)<br>
+18-22 years of age for men for selective compulsory military service, with a 2-year service obligation; women 18-19 years of age who are high school graduates and meet requirements for specific military jobs are subject to conscription (2023)<br>
 <strong>note: </strong>the PLA’s conscription system functions as a levy; the PLA establishes the number of enlistees needed, which produces quotas for the provinces; each province provides a set number of soldiers or sailors; if the number of volunteers fails to meet quotas, the local governments may compel individuals to enter military service<br>
 
 **Military deployments**<br>

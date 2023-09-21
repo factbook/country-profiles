@@ -67,7 +67,7 @@ _other_: 20.7% (2018 est.)<br>
 _fresh water lake(s)_: Lake Tanganyika (shared with Burundi, Tanzania, and Zambia) - 32,000 sq km; Lake Albert (shared with Uganda) - 5,590 sq km; Lake Mweru (shared with Zambia) - 4,350 sq km; Lac Mai-Ndombe - 2,300 sq km; Lake Kivu (shared with Rwanda) - 2,220 sq km; Lake Edward (shared with Uganda) - 2,150 sq km; Lac Tumba - 500 sq km; Lac Upemba - 530 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Congo river mouth (shared with Zambia [s], Angola, and Republic of Congo) - 4,700 km; Ubangi river mouth (shared with Central African Republic [s] and Republic of Congo) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+<p>Zaïre (Congo) river mouth (shared with Zambia [s], Angola, and Republic of Congo) - 4,700 km; Ubangi river mouth (shared with Central African Republic [s] and Republic of Congo) - 2,270 km</p> <strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -299,7 +299,7 @@ _percent of municipal solid waste recycled_: 4.9% (2005 est.)<br>
 _fresh water lake(s)_: Lake Tanganyika (shared with Burundi, Tanzania, and Zambia) - 32,000 sq km; Lake Albert (shared with Uganda) - 5,590 sq km; Lake Mweru (shared with Zambia) - 4,350 sq km; Lac Mai-Ndombe - 2,300 sq km; Lake Kivu (shared with Rwanda) - 2,220 sq km; Lake Edward (shared with Uganda) - 2,150 sq km; Lac Tumba - 500 sq km; Lac Upemba - 530 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Congo river mouth (shared with Zambia [s], Angola, and Republic of Congo) - 4,700 km; Ubangi river mouth (shared with Central African Republic [s] and Republic of Congo) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+<p>Zaïre (Congo) river mouth (shared with Zambia [s], Angola, and Republic of Congo) - 4,700 km; Ubangi river mouth (shared with Central African Republic [s] and Republic of Congo) - 2,270 km</p> <strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>

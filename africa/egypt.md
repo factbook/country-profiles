@@ -68,7 +68,7 @@ _other_: 96.3% (2018 est.)<br>
 _salt water lake(s)_: Lake Manzala - 1,360 sq km<br>note - largest of Nile Delta lakes<br>
 
 **Major rivers (by length in km)**<br>
-Nile river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+An Nīl (Nile) river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -289,7 +289,7 @@ _percent of municipal solid waste recycled_: 12.5% (2013 est.)<br>
 _salt water lake(s)_: Lake Manzala - 1,360 sq km<br>note - largest of Nile Delta lakes<br>
 
 **Major rivers (by length in km)**<br>
-Nile river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+An Nīl (Nile) river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -730,7 +730,7 @@ Egyptian Armed Forces (EAF): Army (includes Republican Guard), Navy (includes Co
 1.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 450,000 active duty personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces personnel (2022)<br>
+information varies; approximately 450,000 active-duty personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the EAF's inventory is comprised of a mix of domestically produced, Soviet-era, and more modern, particularly Western, weapons systems; in recent years, the EAF has embarked on an extensive equipment modernization program with significant purchases from foreign suppliers; major suppliers have included France, Germany, Italy, Russia, and the US; Egypt has an established defense industry that produces a range of products from small arms to armored vehicles and naval vessels; it also has licensed and co-production agreements with several countries, including the US (2023)<br>
@@ -769,7 +769,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); 
 <p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 250,000 (Sudan) (refugees since 15 April 2023), 149,454 (Syria) (2023)<br>
+_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 287,230 (Sudan) (refugees since 15 April 2023), 149,454 (Syria) (2023)<br>
 _stateless persons_: 10 (2022)<br>
 
 **Trafficking in persons**<br>

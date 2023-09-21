@@ -65,7 +65,7 @@ _other_: 14.4% (2018 est.)<br>
 _fresh water lake(s)_: Lake Constance (shared with Switzerland and Germany) - 540 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Donau (Danube) (shared with Germany [s], Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -279,7 +279,7 @@ _percent of municipal solid waste recycled_: 25.7% (2015 est.)<br>
 _fresh water lake(s)_: Lake Constance (shared with Switzerland and Germany) - 540 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Donau (Danube) (shared with Germany [s], Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -347,9 +347,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <br><em>2022:</em> Alexander VAN DER BELLEN elected in first round; percent of vote - Alexander VAN DER BELLEN (the Greens) 56.7%, Walter ROSENKRANZ (FPO) 17.7%, Dominik WLAZNY (Beer) 8.3%, Tassilo WALLENTIN (independent) 8.1%, Gerald GROSZ (independent) 5.6%<em><br><br>2016:</em> Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
+_description_: bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats - currently 60; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
 _elections_: <br>Federal Council - last appointed in 2021<br>National Council - last held on 29 September 2019 (next to be held in 2024); note - election was originally scheduled for 2022, but President VAN DER BELLEN called for an early election<br>
-_election results_: <br>Federal Council - percent of vote by party - OeVP 42.6%, SPOe 31.2%. FPOe 16.4%, The Greens 8.2%, NEOS 1.6%; seats by party - OeVP 26, SPOe 19, FPOe 10, The Greens 5, NEOS 1; composition (as of March 2022) - men 36, women 25, percent of women 41% <br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26, NEOS 15; composition (as of March 2022) - men 107, women 76, percent of women 41.5%<br>
+_election results_: <br>Federal Council - percent of vote by party - OeVP 42.6%, SPOe 31.2%. FPOe 16.4%, The Greens 8.2%, NEOS 1.6%; seats by party - OeVP 26, SPOe 19, FPOe 10, The Greens 5, NEOS 1; composition (as of August 2023) - men 31, women 29, percent of women 48.3% <br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26, NEOS 15; composition (as of August 2023) - men 110, women 73, percent of women 39.9%; note - total Federal Assembly percentage of women 42%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice or Oberster Gerichtshof (consists of 85 judges organized into 17 senates or panels of 5 judges each); Constitutional Court or Verfassungsgerichtshof (consists of 20 judges including 6 substitutes; Administrative Court or Verwaltungsgerichtshof - 2 judges plus other members depending on the importance of the case)<br>
@@ -357,7 +357,7 @@ _judge selection and term of office_: Supreme Court judges nominated by executiv
 _subordinate courts_: Courts of Appeal (4); Regional Courts (20); district courts (120); county courts<br>
 
 **Political parties and leaders**<br>
-Austrian People's Party or OeVP [Karl NEHAMMER]<br>Freedom Party of Austria or FPOe [Herbert KICKI]<br>The Greens - The Green Alternative [Werner KOGLER]<br>NEOS - The New Austria and Liberal Forum [Beate MEINL-REISINGER]<br>Social Democratic Party of Austria or SPOe [Pamela RENDI-WAGNER]<br>
+Austrian People's Party or OeVP [Karl NEHAMMER]<br>Freedom Party of Austria or FPOe [Herbert KICKL]<br>The Greens - The Green Alternative [Werner KOGLER]<br>NEOS - The New Austria and Liberal Forum [Beate MEINL-REISINGER]<br>Social Democratic Party of Austria or SPOe [Pamela RENDI-WAGNER]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -717,7 +717,7 @@ registration requirement at age 17, the legal minimum age for voluntary military
 170 Bosnia-Herzegovina (EUFOR stabilization force); 250 Kosovo (NATO/KFOR); 200 Lebanon (UNIFIL) (2023)<br>
 
 **Military - note**<br>
-Austria is constitutionally militarily non-aligned but is an EU member and actively participates in EU peacekeeping and crisis management operations under the Common Security and Defense Policy; Austria is not a member of NATO but joined NATO&rsquo;s Partnership for Peace framework in 1995 and participates in NATO-led crisis management and peacekeeping operations; as of 2023, more than 100,000 Austrian military and civilian personnel had taken part in more than 50 international peace support and humanitarian missions since 1960 (2023)<br>
+the military’s primary responsibilities are national defense and protecting Austria’s neutrality; it also has some domestic security and disaster response responsibilities and contributes to international peacekeeping and humanitarian missions; Austria has been constitutionally militarily non-aligned since 1955 but is an EU member and actively participates in EU peacekeeping and crisis management operations under the EU Common Security and Defense Policy; Austria is not a member of NATO but joined NATO’s Partnership for Peace framework in 1995 and participates in some NATO-led crisis management and peacekeeping operations; it has provided troops to international peacekeeping missions in Bosnia and Herzegovina (EU), Kosovo (NATO), and Lebanon (UN) in recent years; more than 100,000 Austrian military and civilian personnel have taken part in more than 50 international peace support and humanitarian missions since 1960<br><br>the Land Forces comprise the bulk of the military, and they are organizationally divided between territorial and operational forces; each of the nine federal states has a military command that provides a link between the military and civil authorities; the main tasks of these commands include providing military assistance during disasters and supporting security police operations; these military commands have an infantry battalion, a militia battalion (Vienna has two), and typically a militia engineer/pioneer company at their disposal; the operational Land Forces are four combat brigades: a rapid reaction/”fast forces” (schnelle kräftewith) brigade with mechanized and motorized forces, an armored/mechanized infantry (panzer grenadier) brigade, a mountain infantry brigade (gebirgsbrigade), and a light infantry brigade (jägerbrigade) that includes airborne and air assault troops; Austria has separate special operations and cyber defense forces; the Air Forces have a small number of European-made multipurpose fighter aircraft<br><br>Austria has a militia system that provides important support to the active military; the militia is comprised of men and women who have done their basic military or training service and continue to perform a task in the armed forces; they are integrated into the military but have civilian jobs and only participate in exercises or operations; missions for the militia may include providing disaster relief, assisting security police, and protecting critical infrastructure (energy, water, etc.), as well as deployments on missions abroad (2023)<br>
 
 ## Space
 
@@ -740,7 +740,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 68,700 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 68,700 (Ukraine) (as of 4 September 2023)<br>
+_refugees (country of origin)_: 68,700 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 68,700 (Ukraine) (as of 11 September 2023)<br>
 _stateless persons_: 3,219 (2022)<br>
 
 **Illicit drugs**<br>

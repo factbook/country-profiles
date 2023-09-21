@@ -315,10 +315,10 @@ _elections/appointments_: president elected by an electoral college of both Hous
 _election results_: Sandra MASON elected as first president on 20 October 2021<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (21 seats - 18 for current term; members appointed by the president - 12 on the advice of the prime minister, 2 on the advice of the opposition leader, and 7 at the discretion of the president) <br>House of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_description_: bicameral Parliament consists of:<br>Senate (21 seats statutory - 19 current; members appointed by the president - 12 on the advice of the prime minister, 2 on the advice of the opposition leader, and 7 at the discretion of the president; members serve 5-year terms) <br>House of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: <br>Senate - last appointments on 4 February 2022 (next appointments in February 2027)<br>House of Assembly - last held on 19 January 2022 (next to be held in January 2027)<br>
-_election results_: <br>Senate - appointed; composition as of March 2022- men 10, women 8, percent of women 44.4% <br>House of Assembly - percent of vote by party - BLP 69%, DLP 26.5%, other 4.5%; seats by party - BLP 30; composition as of March 2022 - men 22, women 8, percent of women 26.7%; note - total Parliament percent of women 33.3%<br>
-<strong>note:</strong> tradition dictates that the election is held within 5 years of the last election, but constitutionally it is 5 years from the first seating of Parliament plus a 90-day grace period<br>
+_election results_: <br>Senate - appointed; composition as of August 2023 - men 11, women 8, percent of women 42.1% <br>House of Assembly - percent of vote by party - BLP 69%, DLP 26.5%, other 4.5%; seats by party - BLP 30; composition as of August 2023 - men 22, women 8, percent of women 26.7%; note - total Parliament percent of women 32.7%<br>
+<strong>note:</strong> tradition dictates that the next election is held within 5 years of the last election, but constitutionally it is 5 years from the first seating of Parliament plus a 90-day grace period<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the High Court with 8 justices) and the Court of Appeal (consists of the High Court chief justice and president of the court and 4 justices; note - in 2005, Barbados acceded to the Caribbean Court of Justice as the final court of appeal, replacing that of the Judicial Committee of the Privy Council (in London)<br>

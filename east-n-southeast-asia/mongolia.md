@@ -391,8 +391,8 @@ _lyrics/music_: Tsendiin DAMDINSUREN/Bilegiin DAMDINSUREN and Luvsanjamts MURJOR
 <strong>note:</strong> music adopted 1950, lyrics adopted 2006; lyrics altered on numerous occasions<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Uvs Nuur Basin (n); Orkhon Valley Cultural Landscape (c); Petroglyphic Complexes of the Mongolian Altai (c); Great Burkhan Khaldun Mountain and surrounding sacred landscape (c); Landscapes of Dauria (n)<br>
+_total World Heritage Sites_: 6 (4 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Uvs Nuur Basin (n); Orkhon Valley Cultural Landscape (c); Petroglyphic Complexes of the Mongolian Altai (c); Great Burkhan Khaldun Mountain and surrounding sacred landscape (c); Landscapes of Dauria (n); Deer Stone Monuments and Related Bronze Age Sites (c)<br>
 
 ## Economy
 
@@ -687,7 +687,7 @@ Mongolian Armed Forces (MAF): Mongolian Ground Force (aka General Purpose Troops
 0.7% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 9,000 active duty troops (2022)<br>
+information varies; approximately 9,000 active duty troops (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the MAF's inventory is comprised of Soviet-era and Russian equipment (2023)<br>

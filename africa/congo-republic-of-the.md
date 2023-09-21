@@ -64,7 +64,7 @@ _other_: 3.3% (2018 est.)<br>
 20 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Ubangi (shared with Central African Republic [s] and Democratic Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Oubangui (Ubangi) (shared with Central African Republic [s] and Democratic Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
@@ -293,7 +293,7 @@ _municipal solid waste recycled annually_: 118,214 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 26.2% (2005 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Ubangi (shared with Central African Republic [s] and Democratic Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Oubangui (Ubangi) (shared with Central African Republic [s] and Democratic Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
@@ -407,8 +407,8 @@ _lyrics/music_: Jacques TONDRA and Georges KIBANGHI/Jean ROYER and Joseph SPADIL
 <strong>note:</strong> originally adopted 1959, restored 1991<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 1 (natural)<br>
-_selected World Heritage Site locales_: Sangha Trinational Forest<br>
+_total World Heritage Sites_: 2 (natural)<br>
+_selected World Heritage Site locales_: Sangha Trinational Forest; Forest Massif of Odzala-Kokoua<br>
 
 ## Economy
 

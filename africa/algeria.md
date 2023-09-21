@@ -684,6 +684,7 @@ _LNG terminal(s) (export)_: Arzew, Bethioua, Skikda<br>
 
 **Military and security forces**<br>
 Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast Guard), Air Forces, Territorial Air Defense Forces, Republican Guard (under ANP but responsible to the President), National Gendarmerie<br><br>Ministry of Interior: General Directorate of National Security (national police) (2023)<br>
+<strong>note: </strong>the National Gendarmerie performs police functions outside urban areas under the auspices of the Ministry of National Defense; it is comprised of territorial, intervention/mobile, border guard, railway, riot control, and air support units; General Directorate of National Security share responsibility for maintaining law and order <br>
 
 **Military expenditures**<br>
 4.8% of GDP (2022 est.)<br>
@@ -693,7 +694,7 @@ Algerian People's National Army (ANP): Land Forces, Naval Forces (includes Coast
 5.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 140,000 ANP personnel (120,000 Army; 6,000 Navy; 14,000 Air Force); approximately 130,000 National Gendarmerie; approximately 200,000 General Directorate of National Security (2022)<br>
+approximately 250,000 active armed forces personnel (100,000 Army, 15,000 Air Force/Air Defense, 10,000 Navy, 1,000 Republican Guard, 125,000 Gendarmerie); approximately 200,000 General Directorate of National Security (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ANP's inventory includes mostly Russian-sourced equipment; in recent years, Algeria has received arms from a variety of countries with Russia as the leading supplier (2023)<br>

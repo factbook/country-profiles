@@ -65,7 +65,7 @@ _other_: 0% (2018 est.)<br>
 15,666 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Nile (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Egypt [m]) - 6,650 km; Blue Nile river mouth (shared with Ethiopia [s]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
+<p>An Nīl (Nile) (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Egypt [m]) - 6,650 km; Blue Nile river mouth (shared with Ethiopia [s]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -282,7 +282,7 @@ _methane emissions_: 75.1 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 2,831,291 tons (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Nile (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Egypt [m]) - 6,650 km; Blue Nile river mouth (shared with Ethiopia [s]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
+<p>An Nīl (Nile) (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Egypt [m]) - 6,650 km; Blue Nile river mouth (shared with Ethiopia [s]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>

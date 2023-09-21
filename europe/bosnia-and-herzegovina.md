@@ -692,11 +692,11 @@ approximately 10,000 active-duty personnel (2023)<br>
 the military's inventory is largely Soviet-era material with a smaller mix of mostly secondhand from other countries, particularly the US (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; mandatory retirement at age 35 or after 15 years of service for junior enlisted personnel, mandatory retirement at age 50 and 30 years of service for non-commissioned officers, mandatory retirement at age 55 and 30 years of service for all commissioned officers; conscription abolished in 2005 (2021)<br>
+18 years of age for voluntary military service; conscription abolished in 2005 (2023)<br>
 <strong>note:</strong> as of 2021, women made up about 7% of the military's full-time personnel<br>
 
 **Military - note**<br>
-the Armed Forces of Bosnia and Herzegovina (AFBiH) are comprised of the former Bosnian-Croat Army of the Federation of Bosnia and Herzegovina (Vojska Federacije Bosne i Hercegovin, VF) and the Bosnian-Serb Republic of Serbia Army (Vojska Republike Srpske, VRS); the two forces were unified under the 2006 Law on Defense, which also established the country’s Ministry of Defense<br><br>the European Union Force Bosnia and Herzegovina (EUFOR) has operated in the country to oversee implementation of the Dayton/Paris Agreement since taking over from NATO's Stabilization Force (SFOR) in 2004; it has about about 1,100 troops from 22 countries<br><br>Bosnia and Herzegovina joined NATO’s Partnership for Peace (PfP) program in 2007 and was invited to join NATO’s Membership Action Plan in 2010; NATO maintains a military headquarters in Sarajevo with the mission of assisting Bosnia and Herzegovina with the PfP program and promoting closer integration with NATO, as well as providing logistics and other support to EUFOR (2023)<br>
+the Armed Forces of Bosnia and Herzegovina (AFBiH) are comprised of the former Bosnian-Croat Army of the Federation of Bosnia and Herzegovina (Vojska Federacije Bosne i Hercegovin, VF) and the Bosnian-Serb Republic of Serbia Army (Vojska Republike Srpske, VRS); the two forces were unified under the 2006 Law on Defense, and the combined force includes each ethnic group; the 2006 law also established the country’s Ministry of Defense<br><br>the AFBiH is responsible for territorial defense, providing assistance to civil authorities during disasters or other emergencies, and participating in collective security and peace support operations; it is a compact and professional force organized into five brigades under an Operational Command: three infantry, one tactical support, and one air and air defense; each of the infantry brigades is headquartered inside of their respective ethnicity territory, while the Operational Command is in Sarajevo; Bosnia and Herzegovina aspires to join NATO; it joined NATO’s Partnership for Peace (PfP) program in 2007 and was invited to join NATO’s Membership Action Plan in 2010; the AFBiH is undergoing a defense modernization and reform program for preparing to join and integrate with NATO; it has contributed small numbers of troops to EU, NATO, and UN missions<br><br>NATO maintains a military headquarters in Sarajevo with the mission of assisting Bosnia and Herzegovina with the PfP program and promoting closer integration with NATO, as well as providing logistics and other support to the EU Force Bosnia and Herzegovina (EUFOR), which has operated in the country to oversee implementation of the Dayton/Paris Agreement since taking over from NATO's Stabilization Force (SFOR) in 2004; EUFOR has about 1,100 troops from 22 countries (2023)<br>
 
 ## Terrorism
 
@@ -710,9 +710,9 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 <p><em>Bosnia and Herzegovina-Serbia:</em> Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute.<br><br><em>Bosnia and Herzegovina-Croatia:</em> none identified<br><br><em>Bosnia and Herzegovina-Montenegro:</em> none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
+_IDPs_: 91,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2022)<br>
 _stateless persons_: 48 (2022)<br>
-<strong>note: </strong>131,139 estimated refugee and migrant arrivals (January 2015-August 2023)<br>
+<strong>note: </strong>132,858 estimated refugee and migrant arrivals (January 2015-August 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>

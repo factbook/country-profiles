@@ -407,8 +407,8 @@ _lyrics/music_: Wage Rudolf SOEPRATMAN<br>
 <strong>note:</strong> adopted 1945<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 9 (5 cultural, 4 natural)<br>
-_selected World Heritage Site locales_: Borobudur Temple Compounds (c); Komodo National Park (n); Prambanan Temple Compounds (c); Ujung Kulon National Park (n); Sangiran Early Man Site (c); Lorentz National Park (n); Tropical Rainforest Heritage of Sumatra (n); Cultural Landscape of Bali Province (c); Ombilin Coal Mining Heritage of Sawahlunto (c)<br>
+_total World Heritage Sites_: 10 (6 cultural, 4 natural)<br>
+_selected World Heritage Site locales_: Borobudur Temple Compounds (c); Komodo National Park (n); Prambanan Temple Compounds (c); Ujung Kulon National Park (n); Sangiran Early Man Site (c); Lorentz National Park (n); Tropical Rainforest Heritage of Sumatra (n); Cultural Landscape of Bali Province (c); Ombilin Coal Mining Heritage of Sawahlunto (c); Cosmological Axis of Yogyakarta and its Historic Landmarks (c)<br>
 
 ## Economy
 
@@ -724,7 +724,7 @@ Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-An
 0.7% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 400,000 active duty troops (300,000 Army; 60,000 Navy, including about 20,000 marines; 30,000 Air Force) (2022)<br>
+approximately 400,000 active-duty troops (300,000 Army; 60,000 Navy, including about 20,000 marines; 30,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a wide mix of Chinese, Russian, and Western (including US) equipment; in recent years, the top suppliers have included China, France, Germany, the Netherlands, South Korea, and the US; the TNI has been engaged in a modernization program for more than a decade with uneven success; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government said that growing its domestic defense industry was a national priority over the following 10 years (2023)<br>
@@ -766,7 +766,7 @@ Islamic State of Iraq and ash-Sham (aka Jemaah Anshorut Daulah); Jemaah Islamiya
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,684 (Afghanistan) (mid-year 2022)<br>
-_IDPs_: 73,000 (inter-communal, inter-faith, and separatist violence between 1998 and 2004 in Aceh and Papua; religious attacks and land conflicts in 2007 and 2013; most IDPs in Aceh, Maluku, East Nusa Tengarra) (2021)<br>
+_IDPs_: 72,000 (inter-communal, inter-faith, and separatist violence between 1998 and 2004 in Aceh and Papua; religious attacks and land conflicts in 2007 and 2013; most IDPs in Aceh, Maluku, East Nusa Tengarra) (2022)<br>
 _stateless persons_: 866 (2022)<br>
 
 **Illicit drugs**<br>

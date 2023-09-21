@@ -64,7 +64,7 @@ _other_: 16.4% (2018 est.)<br>
 987 sq km (2013)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -274,7 +274,7 @@ _municipal solid waste recycled annually_: 572,993 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 19% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -711,18 +711,18 @@ Bulgarian Armed Forces (aka Bulgarian Army): Land Forces, Air Force, Navy<br><br
 3.1% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 28,000 active-duty personnel (17,000 Army; 4,000 Navy; 7,000 Air Force) (2022)<br>
+approximately 30,000 active-duty personnel (19,000 Army; 4,000 Navy; 7,000 Air Force) (2023)<br>
 <strong>note:</strong> in 2021, Bulgaria released a 10-year defense plan which called for an active military strength of 43,000<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists primarily of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern weapons systems from some Western countries (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2022)<br>
+18-40 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2023)<br>
 <strong>note 1:</strong> in 2021, women comprised about 17% of the Bulgarian military's full-time personnel<br><br><strong>note 2:</strong> in 2020, Bulgaria announced a program to allow every citizen up to the age of 40 to join the armed forces for 6 months of military service in the voluntary reserve<br>
 
 **Military - note**<br>
-Bulgaria became a member of NATO in 2004; Bulgaria conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Bulgarian Air Force since 2014 (2023)<br>
+the Bulgarian military is a professional force that is responsible for guaranteeing Bulgaria’s independence, sovereignty, and territorial integrity, providing support to international peace and security missions, and contributing to national security in peacetime, including such missions as responding to disasters or assisting with border security; the military trains regularly including in multinational exercises with regional partners and with NATO since Bulgaria joined the organization in 2004; it also participates in overseas peacekeeping and other security missions under the EU, NATO, and the UN; in 2022, Bulgaria established and began leading a NATO multinational battlegroup as part of an effort to boost NATO defenses in Eastern Europe following Russia’s invasion of Ukraine; in 2021, Bulgaria approved a 10-year defense development program, which included calls for equipment upgrades and procurements, boosts in manpower, organizational reforms, and greater focus on such areas as cyber defense, communications, logistics support, and research and development<br><br>the Bulgarian military has participated in several significant conflicts since its establishment in 1878, including the Serbo-Bulgarian War (1885), the First Balkan War (1912-13), the Second Balkan War (1913), World War I (1915-1918), and World War II (1941-45); during the Cold War it was one of the Warsaw Pact’s largest militaries with over 150,000 personnel, eight ground combat divisions, and more than 200 Soviet-made combat aircraft; the principal combat units of the modern-day Land Forces are two mechanized infantry brigades and regiments of artillery and mountain infantry, while the Air Force has a mix of about 20 US-made and Soviet-era fighter aircraft; it is in the midst of retiring the Soviet fighters and replacing them with additional US-made aircraft; NATO partners provide assistance with protecting Bulgaria’s airspace; the Navy has four frigates, including one Soviet-era and three secondhand vessels acquired from Belgium, plus three Soviet-era corvettes; Bulgaria retired the last of its Soviet-era submarines in 2011; the military also has a joint special operations command, a communications, information support, and cyber defense command, and a joint forces command, which was established in 2021 to coordinate the operations of the services (2023)<br>
 
 ## Space
 
@@ -745,9 +745,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 86,490 (Ukraine) (as of 15 August 2023)<br>
+_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 65,765 (Ukraine) (as of 15 August 2023)<br>
 _stateless persons_: 1,129 (2022)<br>
-<strong>note:</strong> 93,441 estimated refugee and migrant arrivals (January 2015-June 2023); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 96,017 estimated refugee and migrant arrivals (January 2015-July 2023); Bulgaria is predominantly a transit country<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Bulgaria does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials prosecuted significantly more suspected traffickers, ordered restitution, and drafted an annual national program with increased funding for combating trafficking and protecting victims; however, the government did not demonstrate overall increasing efforts to improve its anti-trafficking capacity; authorities investigated and convicted significantly fewer traffickers, the fewest since the government began reporting trafficking data; courts continued to issue suspended sentences for most convicted traffickers; victim identification and assistance data remained unreliable, making it difficult to accurately assess trafficking; authorities penalized victims for crimes traffickers compelled them to commit; lack of resources, legal authority, and training impeded law enforcement; corruption in law enforcement and the judiciary hindered progress, and alleged complicity in trafficking crimes persisted; therefore, Bulgaria was downgraded to Tier 2 Watch List (2022)<br>

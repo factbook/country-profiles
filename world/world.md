@@ -285,7 +285,7 @@ _name_: virtually every country has a national anthem; most (but not all) anthem
 <strong>note: </strong>the World's oldest national anthem is the "Het Wilhelmus" (The William) of the Netherlands, which dates to the 17th century; the first national anthem to be officially adopted (1795) was "La Marseillaise" (The Song of Marseille) of France; Japan claims to have the World's shortest national anthem, entitled "Kimigayo" (The Emperor's Reign), it consists of 11 measures of music (the lyrics are also the world's oldest, dating to the 10th century or earlier); the World's longest national anthem in terms of lyrics is that of Greece, "Ymnos eis tin Eleftherian" (Hymn to Liberty) with 158 stanzas - only two of which are used; the World's longest national anthem in terms of music is that of Uruguay, "Himno Nacional" (National Anthem of Uruguay) with 105 bars (almost five minutes) - generally only the first verse and chorus are sung; both Denmark and New Zealand have two official national anthems<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 1154 (897 cultural, 218 natural, 39 mixed) (2022)<br>
+_total World Heritage Sites_: 1184 (924 cultural, 221 natural, 39 mixed) (2023)<br>
 <strong>note:</strong> a summary of every country's UNESCO World Heritage Sites (i.e., country-specific "Wonders") may be found in individual country "National heritage" entries; a Wonders of the World field (seven ancient, seven new, and seven natural Wonders) may be found under World &gt; Geography &gt; "Wonders of the World"<br>
 
 ## Economy

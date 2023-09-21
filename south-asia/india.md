@@ -414,7 +414,7 @@ _lyrics/music_: Rabindranath TAGORE<br>
 <strong>note:</strong> adopted 1950; Rabindranath TAGORE, a Nobel laureate, also wrote Bangladesh's national anthem<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 40 (32 cultural, 7 natural, 1 mixed)<br>
+_total World Heritage Sites_: 41 (33 cultural, 7 natural, 1 mixed)<br>
 _selected World Heritage Site locales_: Taj Mahal (c); Red Fort Complex (c); Ellora Caves (c); Hill Forts of Rajasthan (c); Sundarbans National Park (n); Rock Shelters of Bhimbetka (c); Champaner-Pavagadh Archaeological Park (c); Dholavira: A Harappan City (c); Jaipur (c); Mahabodhi Temple Complex at Bodh Gaya (c); Manas Wildlife Sanctuary (n); Nanda Devi and Valley of Flowers National Parks (n); Khangchendzonga National Park (m)<br>
 
 ## Economy
@@ -722,7 +722,7 @@ _by type_: bulk carrier 65, container ship 23, general cargo 594, oil tanker 134
 **Ports and terminals**<br>
 _major seaport(s)_: Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam<br>
 _container port(s) (TEUs)_: Jawaharal Nehru Port (5,630,000), Mundra (6,660,000) (2021)<br>
-_LNG terminal(s) (import)_: Dabhol, Dahej, Hazira, Kochi<br>
+_LNG terminal(s) (import)_: Dabhol, Dahej, Dhamra, Ennore, Hazira, Kochi, Mundra<br>
 
 ## Military and Security
 

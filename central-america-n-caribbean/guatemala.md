@@ -386,8 +386,8 @@ _lyrics/music_: Jose Joaquin PALMA/Rafael Alvarez OVALLE<br>
 <strong>note:</strong> adopted 1897, modified lyrics adopted 1934; Cuban poet Jose Joaquin PALMA anonymously submitted lyrics to a public contest calling for a national anthem; his authorship was not discovered until 1911<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 3 (2 cultural, 1 mixed)<br>
-_selected World Heritage Site locales_: Antigua Guatemala (c); Tikal National Park (m); Archaeological Park and Ruins of Quirigua (c)<br>
+_total World Heritage Sites_: 4 (3 cultural, 1 mixed)<br>
+_selected World Heritage Site locales_: Antigua Guatemala (c); Tikal National Park (m); Archaeological Park and Ruins of Quirigua (c); National Archaeological Park Tak'alik Ab'aj (c)<br>
 
 ## Economy
 
@@ -696,7 +696,7 @@ Army of Guatemala (Ejercito de Guatemala; aka Armed Forces of Guatemala or Fuerz
 0.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 20,000 active military personnel (18,000 Land Forces; 1,000 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2022)<br>
+information varies; approximately 20,000 active military personnel (18,000 Land Forces; 1,000 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is limited and mostly comprised of older US equipment; in recent years, Guatemala has received small amounts of equipment from several countries, including Colombia, Spain, and the US (2023)<br>
@@ -717,7 +717,7 @@ the military is responsible for maintaining sovereignty, territorial integrity, 
 <p><em>Guatemala-Belize: </em>Demarcated but insecure boundary due to Guatemala’s claims to more than half of Belizean territory.  Line of Adjacency operates in lieu of an international boundary to control influx of Guatemalan squatters onto Belizean territory. Smuggling, narcotics trafficking, and human trafficking for sexual exploitation and debt bondage are all problems. Belize lacks resources to detect and extradite impoverished Guatemalan peasants squatting in Belizean rain forests in the remote border areas. Both countries agreed in April 2012 to hold simultaneous referenda, scheduled for 6 October 2013, to decide whether to refer the dispute to the ICJ for binding resolution, but this vote was suspended indefinitely. At present, Belize and Honduras 12-nm territorial sea claims close off Guatemalan access to Caribbean in the Bahia de Amatique. Maritime boundary remains unresolved pending further negotiation.<br><em><br>Guatemala-</em><em>Mexico: </em>Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 243,000 (more than three decades of internal conflict that ended in 1996 displaced mainly the indigenous Maya population and rural peasants; ongoing drug cartel and gang violence) (2021)<br>
+_IDPs_: 242,000 (more than three decades of internal conflict that ended in 1996 displaced mainly the indigenous Maya population and rural peasants; ongoing drug cartel and gang violence) (2022)<br>
 
 **Illicit drugs**<br>
 <p>a major transit country for illegal drugs; illicit cultivation of opium poppies, marijuana, and coca plants in rural areas; a major source of precursor or essential chemicals used in the production of illicit narcotics</p> <p> </p><br>

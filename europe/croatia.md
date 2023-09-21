@@ -63,7 +63,7 @@ _other_: 41.9% (2018 est.)<br>
 171 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -277,7 +277,7 @@ _municipal solid waste recycled annually_: 269,933 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 16.3% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -714,7 +714,7 @@ the majority of the military's inventory consists of Soviet-era equipment, altho
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-Croatia joined NATO in 2009<br>
+the Armed Forces of Croatia (OSRH) are responsible for the defense of Croatia’s sovereignty and territory, contributing to international humanitarian, peacekeeping, and security missions, and providing assistance to civil authorities for such missions as responding to disasters, search and rescue, anti-terrorism, and internal security in times of crisis if called upon by the prime minister or the president; Croatia joined NATO in 2009, and the OSRH participates in NATO missions, including its peacekeeping force in Kosovo and the Enhanced Forward Presence mission in Eastern Europe; it also contributes to EU and UN missions; the OSRH trains regularly with NATO and regional partners  <br><br>the OSRH was established in 1991 from the Croatian National Guard during the Croatian War of Independence (1991-95); during the war, the ground forces grew to as many as 60 brigades and dozens of independent battalions, and a single military offensive against Serbian forces in 1995 included some 100,000 Croatian troops; in 2000, Croatia initiated an effort to modernize and reform the OSRH into a small, professional military capable of meeting the challenges of NATO membership; the current 15,000-strong military’s principal combat forces are two mechanized infantry brigades, a small joint service special operations command, a flotilla of missile boats and coastal patrol vessels, and a squadron of Soviet-era fighter aircraft that are in the process of being replaced by more modern French aircraft  (2023)<br>
 
 ## Transnational Issues
 
@@ -722,7 +722,7 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Croatia joined the Schengen Zone on 1 January 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,315 (Ukraine) (as of 1 September 2023)<br>
+_refugees (country of origin)_: 23,380 (Ukraine) (as of 8 September 2023)<br>
 _stateless persons_: 2,889 (2022)<br>
 <strong>note: </strong>820,999 estimated refugee and migrant arrivals (January 2015-July 2023)<br>
 

@@ -421,8 +421,8 @@ _lyrics/music_: DEREJE Melaku Mengesha/SOLOMON Lulu<br>
 <strong>note:</strong> adopted 1992<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 9 (8 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Rock-Hewn Churches, Lalibela (c); Simien National Park (n); Fasil Ghebbi, Gondar Region (c); Axum (c); Lower Valley of the Awash (c); Lower Valley of the Omo (c); Tiya (c); Harar Jugol, the Fortified Historic Town (c); Konso Cultural Landscape (c)<br>
+_total World Heritage Sites_: 11 (9 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Rock-Hewn Churches, Lalibela (c); Simien National Park (n); Fasil Ghebbi, Gondar Region (c); Axum (c); Lower Valley of the Awash (c); Lower Valley of the Omo (c); Tiya (c); Harar Jugol, the Fortified Historic Town (c); Konso Cultural Landscape (c); Gedeo Cultural Landscape (c)<br>
 
 ## Economy
 

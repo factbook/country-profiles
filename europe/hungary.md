@@ -65,7 +65,7 @@ _other_: 18.6% (2018 est.)<br>
 _fresh water lake(s)_: Lake Balaton - 590 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Duna (Danube) (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -279,7 +279,7 @@ _percent of municipal solid waste recycled_: 25.9% (2015 est.)<br>
 _fresh water lake(s)_: Lake Balaton - 590 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Duna (Danube) (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -722,7 +722,7 @@ the military's inventory consists largely of Soviet-era weapons, with a smaller 
 150 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (NATO); 430 Kosovo (NATO/KFOR) (2023)<br>
 
 **Military - note**<br>
-Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997 and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance (2023)<br>
+the Hungarian Defense Forces (HDF) are a professional military responsible for ensuring the defense of the country’s sovereignty, territorial integrity, and citizens, and fulfilling Hungary’s commitments to the EU and NATO, as well as contributing to other international peacekeeping efforts under the UN; the HDF is also responsible for some aspects of domestic security, crisis management, and disaster response, and since 2015, under a declared state of emergency prompted by mass migration, it may assist law enforcement forces in border protection and handling mass migration situations; Hungary’s most recent national security strategy addressed migration as an important security concern, alongside other issues, such as great power competition and cyber security; modernizing the HDF by replacing Soviet-era equipment with Western systems and building up Hungary’s defense industrial capacity has been a priority over the past decade<br><br>Hungary has been a member of NATO since 1999 and considers the collective defense ensured within the Alliance as a cornerstone of the country’s security; NATO membership is complemented by Hungary’s ties to the EU under the EU’s Common Security and Defense Policy; the HDF has participated in multiple NATO-led security missions, including in Afghanistan, Iraq, and Kosovo, as well as EU-led missions in Bosnia and Herzegovina and Mali; it hosts a NATO battlegroup comprised of troops from Croatia, Hungary, Italy, and the US, and NATO’s Multinational Division Center, a headquarters capable of commanding a division-sized force (typically 15-20,000 troops) in a crisis; both organizations were established as a result of Russian aggression against Ukraine; Hungary also hosts NATO’s Center of Excellence for Military Medicine; Hungary is a member of the Visegrad Group, a regional platform that brings together Czechia, Hungary, Poland, and Slovakia to discuss cultural, defense, and political cooperation<br><br>the HDF is organized as a joint force under a general staff with commands for land, air, cyber, special operations, territorial defense, and support forces; the combat units of the HDF’s Land Command have recently been reorganized and currently consists of three combined arms brigades, plus a reconnaissance regiment; one of the brigades has a joint Hungarian-Romanian peacekeeping battalion; the Special Operations Command includes a special purpose brigade; the Air Command’s combat forces are a squadron of Swedish-made fighter aircraft, an attack helicopter battalion, and an air defense missile regiment; the Territorial Defense Forces Command has volunteer operational reservists to backfill regular units on occasion and non-deployable volunteer territorial reservists that are organized into local defense units (typically battalions) spread throughout the country (2023)<br>
 
 ## Space
 
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 52,285 (Ukraine) (as of 3 September 2023)<br>
+_refugees (country of origin)_: 53,375 (Ukraine) (as of 3 September 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

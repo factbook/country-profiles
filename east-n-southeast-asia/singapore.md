@@ -323,11 +323,11 @@ _residency requirement for naturalization_: 10 years<br>
 21 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President HALIMAH Yacob (since 14 September 2017)<br>
+_chief of state_: President THARMAN Shanmugaratnam (since 14 September 2023)<br>
 _head of government_: Prime Minister LEE Hsien Loong (since 12 August 2004)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 13 September 2017 (next to be held on 1 Septembere 2023); following legislative elections, the leader of the majority party or majority coalition appointed prime minister by the president; deputy prime ministers appointed by the president<br>
-_election results_: <em><br>2017</em>: HALIMAH Yacob declared president on 13 September 2017, being the only eligible candidate<br><br><em>2011</em>: Tony TAN Keng Yam elected president; percent of vote - Tony TAN Keng Yam (independent) 35.2%, TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%<br>
+_election results_: <em>2023: </em>THARMAN Shanmugaratnam elected president; percent of vote - THARMAN (independent) 70.4%, Ng Kok Song (independent) 15.7%, Tan Kin Lian (independent) 13.9%; turnout is 93.4%<br><em><br>2017</em>: HALIMAH Yacob declared president on 13 September 2017, being the only eligible candidate<br><br><em>2011</em>: Tony TAN Keng Yam elected president; percent of vote - Tony TAN Keng Yam (independent) 35.2%, TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (104 seats statutory, 103 current term; 93 members directly elected by simple majority popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members increased to 12 for the 2020 election for the first time (2021)<br>

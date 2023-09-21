@@ -319,9 +319,9 @@ _elections/appointments_: president elected by Parliament for a 3-year term (eli
 _election results_: Ratu Wiliame KATONIVERE elected president; Wiliame KATONIVERE 28 votes, Teimumu KEPA 23 votes<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (55 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 14 November 2018 (next to be held in 2022)<br>
-_election results_: percent of vote by party - FijiFirst 50%, SODELPA 39.6%, NFP 7.4%; seats by party - FijiFirst 27, SODELPA 21, NFP 3; composition - men 41, women 10, percent of women 19.6%<br>
+_description_: unicameral Parliament (55 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote with a 5% electoral threshold; members serve 4-year terms)<br>
+_elections_: last held on 14 December 2022 (next to be held in 2026)<br>
+_election results_: percent of vote by party - FijiFirst 42.5%, People's Alliance 35.8%, NFP 8.9%, SODELPA 5.1%, other 7.7%; seats by party - FijiFirst 26, People's Alliance 21, NFP 5, SODELPA 3; composition - men 49, women 6, percent of women 10.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, all justices of the Court of Appeal, and judges appointed specifically as Supreme Court judges); Court of Appeal (consists of the court president, all puisne judges of the High Court, and judges specifically appointed to the Court of Appeal); High Court (chaired by the chief justice and includes a minimum of 10 puisne judges; High Court organized into civil, criminal, family, employment, and tax divisions)<br>
@@ -329,7 +329,7 @@ _judge selection and term of office_: chief justice appointed by the president o
 _subordinate courts_: Magistrates' Court (organized into civil, criminal, juvenile, and small claims divisions)<br>
 
 **Political parties and leaders**<br>
-FijiFirst [Veroqe "Frank" BAINIMARAMA]<br>Fiji Labor Party or FLP [Mahendra CHAUDHRY]<br>Freedom Alliance [Jagath KARUNARATNE] (formerly Fiji United Freedom Party or FUFP)<br>National Federation Party or NFP [Biman PRASAD] (primarily Indian)<br>Peoples Democratic Party or PDP [Lynda TABUYA]<br>Social Democratic Liberal Party or SODELPA [Viliame Rogoibulu GAVOKA]<br>Unity Fiji [Savenaca NARUBE]<br>
+FijiFirst [Veroqe "Frank" BAINIMARAMA]<br>Fiji Labor Party or FLP [Mahendra CHAUDHRY]<br>Freedom Alliance [Jagath KARUNARATNE] (formerly Fiji United Freedom Party or FUFP)<br>National Federation Party or NFP [Biman PRASAD] (primarily Indian)<br>People's Alliance [Sitiveni RABUKA]<br>Peoples Democratic Party or PDP [Lynda TABUYA]<br>Social Democratic Liberal Party or SODELPA [ Lenaitasi DURU, general secretary]<br>Unity Fiji [Savenaca NARUBE]<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OPCW, PCA, PIF, Sparteca (suspended), SPC, UN, UNCTAD, UNDOF, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

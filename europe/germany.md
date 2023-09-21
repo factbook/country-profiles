@@ -68,7 +68,7 @@ _fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 54
 _salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Danube river source (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhine (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Donau (Danube) river source (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhein (Rhine) (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -282,7 +282,7 @@ _fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 54
 _salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Danube river source (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhine (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Donau (Danube) river source (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhein (Rhine) (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -396,7 +396,7 @@ _lyrics/music_: August Heinrich HOFFMANN VON FALLERSLEBEN/Franz Joseph HAYDN<br>
 <strong>note:</strong> adopted 1922; the anthem, also known as "Deutschlandlied" (Song of Germany), was originally adopted for its connection to the March 1848 liberal revolution; following appropriation by the Nazis of the first verse, specifically the phrase, "Deutschland, Deutschland ueber alles" (Germany, Germany above all) to promote nationalism, it was banned after 1945; in 1952, its third verse was adopted by West Germany as its national anthem; in 1990, it became the national anthem for the reunited Germany<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 51 (48 cultural, 3 natural)<br>
+_total World Heritage Sites_: 52 (49 cultural, 3 natural)<br>
 _selected World Heritage Site locales_: Museumsinsel (Museum Island), Berlin (c); Palaces and Parks of Potsdam and Berlin (c); Speyer Cathedral (c); Upper Middle Rhine Valley (c); Aachen Cathedral (c); Bauhaus and its Sites in Weimar, Dessau, and Bernau (c); Caves and Ice Age Art in the Swabian Jura (c); Mines of Rammelsberg, Historic Town of Goslar, and Upper Harz Water Management System (c); Roman Monuments, Cathedral of St. Peter, and Church of Our Lady in Trier (c); Hanseatic City of Lübeck (c); Old Town of Regensburg (c); Messel Pit Fossil Site (n)<br>
 
 ## Economy
@@ -736,7 +736,7 @@ up to 500 Iraq (NATO); up to 1,400 Lithuania (NATO); approximately 1,100 Mali (M
 <strong>note 1: </strong>in November 2022, Germany pledged to withdraw its troops from Mali by Spring 2024<br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br><br>the German Army has incorporated a joint Franco-German mechanized infantry brigade since 1989, a Dutch airmobile infantry brigade since 2014, and a Dutch mechanized infantry brigade since 2016; in addition, the German Navy’s Sea Battalion (includes marine infantry, naval divers, reconnaissance, and security forces) has worked closely with the Dutch Marine Corps since 2016, including as a binational amphibious landing group (2023)<br>
+the Bundeswehr’s core mission is the defense of Germany and its NATO partners; it has a wide range of peacetime duties, including crisis management, cyber security, deterrence, homeland security, humanitarian and disaster relief, and international peacekeeping and stability operations; as a key member of NATO and the EU, the Bundeswehr typically operates in a coalition environment, and its capabilities are largely based on NATO and EU planning goals and needs; it has participated in a range of NATO and EU missions in Europe, Africa, and Asia, as well as global maritime operations; the Bundeswehr has close bilateral defense ties with a number of EU countries, including the Czechia, France, the Netherlands, and Romania, as well as the UK and the US; it also contributes forces to UN peacekeeping missions<br><br>the Bundeswehr was established in 1955; at the height of the Cold War in the 1980s, it had nearly 600,000 personnel, over 7,000 tanks, and 1,000 combat aircraft; in addition, over 400,000 soldiers from other NATO countries—including about 200,000 US military personnel—were stationed in West Germany; in the years following the collapse of the Soviet Union and the end of the Cold War, the Bundeswehr shrank by more than 60% in size (over 90% in tanks and about 80% in aircraft), while funding fell from nearly 3% of GDP and over 4% of government spending in the mid-1980s to 1.2% and 1.6% respectively; by the 2010s,  Bundeswehr’s ability to fulfill its regional security commitments had deteriorated; the Russian annexation of Crimea in 2014 and full-scale assault on Ukraine in 2022 led to renewed emphasis on Germany’s leadership role in European defense and NATO and efforts to boost funding for the Bundeswehr to improve readiness, modernize, and expand<br><br>the current Bundeswehr Army is comprised of two armored divisions and a rapid forces division; the armored divisions have multiple armored and mechanized infantry brigades, including a Dutch brigade and a bi-national Franco-German brigade; one of the divisions also has a mountain infantry brigade; the rapid forces division has airborne, special operations, and helicopter forces, as well as a Dutch air mobile infantry brigade<br><br>the Navy is organized into flotillas for high seas and coastal operations; the high seas flotilla has 12 frigates, while the coastal flotilla has five corvettes and six submarines, plus mine warfare vessels, special operations forces, and marines; the marines cooperate closely with their Dutch counterparts, the Corps Mariniers, and together form a bi-national amphibious group; the Navy also has an aviation command for missions such as maritime surveillance, anti-submarine, and anti-surface warfare<br><br>the Air Force has commands for air, transport/logistics, and space operations; it has about 200 combat aircraft, plus dozens of aircraft for other missions, such as transport, tankers, electronic warfare, and reconnaissance, as well as more than 80 helicopters of various types (2023)<br>
 
 ## Space
 
@@ -762,7 +762,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,084,410 (Ukraine) (as of 19 August 2023)<br>
+_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,086,355 (Ukraine) (as of 3 September 2023)<br>
 _stateless persons_: 28,941 (2022)<br>
 
 **Illicit drugs**<br>

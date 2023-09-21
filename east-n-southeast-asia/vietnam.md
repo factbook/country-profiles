@@ -65,7 +65,7 @@ _other_: 20.2% (2018 est.)<br>
 46,000 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Mekong river mouth (shared with China [s], Burma, Laos, Thailand, Cambodia) - 4,350 km; Pearl river source (shared with China [m]) - 2,200 km; Red river mouth (shared with China [s]) - 1,149 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+<p>Sông Tiên Giang (Mekong) river mouth (shared with China [s], Burma, Laos, Thailand, Cambodia) - 4,350 km; Pearl river source (shared with China [m]) - 2,200 km; Red river mouth (shared with China [s]) - 1,149 km</p> <strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -276,7 +276,7 @@ _municipal solid waste recycled annually_: 2,201,169 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 23% (2014 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Mekong river mouth (shared with China [s], Burma, Laos, Thailand, Cambodia) - 4,350 km; Pearl river source (shared with China [m]) - 2,200 km; Red river mouth (shared with China [s]) - 1,149 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+<p>Sông Tiên Giang (Mekong) river mouth (shared with China [s], Burma, Laos, Thailand, Cambodia) - 4,350 km; Pearl river source (shared with China [m]) - 2,200 km; Red river mouth (shared with China [s]) - 1,149 km</p> <strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>

@@ -67,7 +67,7 @@ _other_: 13% (2018 est.)<br>
 16,700 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpopo river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpoporivier (Limpopo) river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>
@@ -284,7 +284,7 @@ _municipal solid waste recycled annually_: 5,168,025 tons (2011 est.)<br>
 _percent of municipal solid waste recycled_: 28% (2011 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpopo river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpoporivier (Limpopo) river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>
