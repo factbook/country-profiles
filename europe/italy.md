@@ -748,7 +748,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 167,525 (Ukraine) (as of 1 September 2023)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 811,094 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
+<strong>note:</strong> 826,119 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
 
 **Illicit drugs**<br>
 <p>important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe</p><br>

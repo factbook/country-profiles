@@ -710,7 +710,7 @@ Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republi
 1.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active troops (23,000 Army, including about 2,000 Special Forces; 1,000 Navy; 1,000 Air Force); 5-10,000 Gendarmerie (2022)<br>
+approximately 25,000 active troops (23,000 Army, including about 2,000 Special Forces; 1,000 Navy; 1,000 Air Force); 5-10,000 Gendarmerie (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the FACI consists mostly of older or second-hand equipment, typically of French or Soviet-era origin; Cote d'Ivoire was under a partial UN arms embargo from 2004 to 2016; in recent years it has received limited amounts of mostly second-hand equipment from a variety of suppliers, including Bulgaria, China, and France (2023)<br>

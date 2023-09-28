@@ -713,7 +713,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 1,948 (2022)<br>
-<strong>note:</strong> 45,491 estimated refugee and migrant arrivals (January 2015-July 2023)<br>
+<strong>note:</strong> 45,889 estimated refugee and migrant arrivals (January 2015-August 2023)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis and an active transshipment point for Albanian narco-trafficking organizations moving illicit drugs into European markets</p><br>

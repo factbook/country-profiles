@@ -392,20 +392,20 @@ _selected World Heritage Site locales_: Royal Domain of Drottningholm (c); Lapon
 small, open, competitive, and thriving economy that remains outside of the euro zone; has achieved an enviable standard of living, with its combination of free-market capitalism and extensive welfare benefits<br>
 
 **Real GDP (purchasing power parity)**<br>
+$574.877 billion (2022 est.)<br>
 $558.427 billion (2021 est.)<br>
 $531.455 billion (2020 est.)<br>
-$543.245 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+2.6% (2022 est.)<br>
 5.08% (2021 est.)<br>
 -2.17% (2020 est.)<br>
-1.99% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$54,800 (2022 est.)<br>
 $53,600 (2021 est.)<br>
 $51,300 (2020 est.)<br>
-$52,900 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

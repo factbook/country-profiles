@@ -729,7 +729,7 @@ Royal Armed Forces (FAR): Royal Moroccan Army (includes the Moroccan Royal Guard
 3.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); estimated 20,000 Gendarmerie; estimated 5,000 Mobile Intervention Corps; estimated 25-30,000 Auxiliary Forces (2022)<br>
+approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); estimated 20,000 Gendarmerie; estimated 5,000 Mobile Intervention Corps; estimated 25-30,000 Auxiliary Forces (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Moroccan military's inventory is comprised of mostly older French and US equipment, although in recent years, it has received quantities of more modern equipment from a variety of countries with France and the US continuing to be the leading suppliers (2023)<br>

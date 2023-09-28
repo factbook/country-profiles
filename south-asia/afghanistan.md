@@ -686,7 +686,7 @@ announced that approximately 130,000 personnel had been recruited for a new "Nat
 <strong>note:</strong> as of 2022, there were also up to 10,000 foreign fighters in Afghanistan, most of whom were aligned with the Taliban<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Taliban military/security forces are armed largely with US-provided equipment captured from the Afghan National Defense and Security Forces when the central government in Kabul collapsed in 2021 (2022)<br>
+the Taliban military/security forces are armed largely with US-provided equipment captured from the Afghan National Defense and Security Forces when the central government in Kabul collapsed in 2021 (2023)<br>
 
 **Military service age and obligation**<br>
 not available<br>
@@ -708,7 +708,7 @@ Haqqani Taliban Network; Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Islami
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 59,486 (Pakistan) (mid-year 2022)<br>
-_IDPs_: 4.314 million (mostly Pashtuns and Kuchis displaced in the south and west due to natural disasters and political instability) (2021)<br>
+_IDPs_: 4.394 million (mostly Pashtuns and Kuchis displaced in the south and west due to natural disasters and political instability) (2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 - Afghanistan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Afghanistan remains on Tier 3; substantial personnel turnover and closing of some ministries after the August 15, 2021 Taliban takeover hindered Afghanistan's ability to maintain consistent anti-trafficking efforts; although the pre-August 15 government took some training and awareness steps to address trafficking, it employed or recruited child soldiers and sexual slaves in government compounds; after August 15, the Taliban continued recruiting or employing child soldiers and did not investigate, prosecute, or convict any traffickers; the Taliban shut down shelters for victims, did not identify or protect victims, and did not make any efforts to prevent trafficking; Taliban undermining the rights of women, minorities, and other vulnerable populations, further exacerbated vulnerabilities to trafficking (2022)<br>

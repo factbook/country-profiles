@@ -395,20 +395,20 @@ _selected World Heritage Site locales_: Fortress of Suomenlinna (c); Old Rauma (
 highly industrialized, export-based EU economy and euro user; high per capita GDP; major timber, metals, engineering, telecommunications, and electronics industries; manageable public debts; rigid labor laws impose higher regulatory burdens<br>
 
 **Real GDP (purchasing power parity)**<br>
+$275.545 billion (2022 est.)<br>
 $270.143 billion (2021 est.)<br>
 $262.343 billion (2020 est.)<br>
-$268.259 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+2.1% (2022 est.)<br>
 2.97% (2021 est.)<br>
 -2.21% (2020 est.)<br>
-1.22% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$49,600 (2022 est.)<br>
 $48,800 (2021 est.)<br>
 $47,400 (2020 est.)<br>
-$48,600 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

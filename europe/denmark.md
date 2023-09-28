@@ -386,20 +386,20 @@ _selected World Heritage Site locales_: Denmark: Mounds, Runic Stones, and Churc
 diversified EU trade-based economy; environmental regulatory innovator; dominant services sector; increased government spending but retaining budget surpluses; currently high inflation; unique "flexicurity" labor market<br>
 
 **Real GDP (purchasing power parity)**<br>
+$352.436 billion (2022 est.)<br>
 $339.472 billion (2021 est.)<br>
 $323.751 billion (2020 est.)<br>
-$330.34 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+3.8% (2022 est.)<br>
 4.86% (2021 est.)<br>
 -1.99% (2020 est.)<br>
-1.49% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$59,700 (2022 est.)<br>
 $58,000 (2021 est.)<br>
 $55,500 (2020 est.)<br>
-$56,800 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

@@ -722,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 25,050 (Ukraine) (as of 30 June 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,250,914 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
+<strong>note:</strong> 1,257,072 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

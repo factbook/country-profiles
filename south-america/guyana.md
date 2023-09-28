@@ -660,13 +660,13 @@ the Guyana Defense Force is a unified force with ground, air, and coast guard co
 1.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 4,000 active duty military personnel (2022)<br>
+approximately 3,000 active-duty military personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military has a limited inventory comprised mostly of second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age or older for voluntary military service; no conscription (2022)<br>
+18-25 years of age or older for voluntary military service; no conscription (2023)<br>
 
 **Military - note**<br>
 the Guyana Defense Force (GDF) was established in 1965; its primary missions are defense of the country, including border security, assisting civil authorities with law and order as needed, and contributing to the Guyana’s economic development; key areas of concern include disaster response, illegal fishing, narcotics trafficking, piracy, and porous borders; the GDF trains regularly and participates in both bilateral and multinational exercises; it has relationships with Brazil, China, France, the UK, and the US; the GDF’s ground force officers are trained at the British Royal Military Academy at Sandhurst, while coast guard officers receive training at the British Royal Naval College<br><br>the GDF’s ground combat forces include 3 infantry battalions (1 reserve), a special forces squadron, and an artillery company; the coast guard has an offshore patrol craft and a few patrol boats, as well as a small amphibious “raider” force; the air corps does not have any combat aircraft but instead provides tactical observation, transport, casualty evacuation, and other forms of support to the ground forces (2023)<br>

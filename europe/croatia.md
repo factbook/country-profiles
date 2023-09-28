@@ -724,7 +724,7 @@ the Armed Forces of Croatia (OSRH) are responsible for the defense of Croatia’
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 23,380 (Ukraine) (as of 8 September 2023)<br>
 _stateless persons_: 2,889 (2022)<br>
-<strong>note: </strong>820,999 estimated refugee and migrant arrivals (January 2015-July 2023)<br>
+<strong>note: </strong>832,384 estimated refugee and migrant arrivals (January 2015-August 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine destined for European markets</p> <p> </p><br>

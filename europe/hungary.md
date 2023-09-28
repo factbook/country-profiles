@@ -715,7 +715,7 @@ approximately 25,000 active-duty troops (20,000 Army; 5,000 Air Force) (2023)<br
 the military's inventory consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment; in recent years, Germany has been the top supplier of military hardware to Hungary (2023)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2022)<br>
+18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2023)<br>
 <strong>note:</strong> as of 2019, women comprised approximately 20% of Hungary's full-time military personnel<br>
 
 **Military deployments**<br>

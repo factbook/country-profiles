@@ -64,7 +64,7 @@ once a strategic strip of land along Mideast-North African trade routes that has
 ## People and Society
 
 **Population**<br>
-2,037,744 (2023 est.)<br>
+2,098,389 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: NA<br>

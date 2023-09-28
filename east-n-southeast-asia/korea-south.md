@@ -377,7 +377,7 @@ _lyrics/music_: YUN Ch'i-Ho or AN Ch'ang-Ho/AHN Eaktay<br>
 <strong>note:</strong> adopted 1948, well-known by 1910; both North Korea's and South Korea's anthems share the same name and have a vaguely similar melody but have different lyrics<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 15 (13 cultural, 2 natural)<br>
+_total World Heritage Sites_: 16 (14 cultural, 2 natural)<br>
 _selected World Heritage Site locales_: Jeju Volcanic Island and Lava Tubes (n); Changdeokgung Palace Complex (c); Jongmyo Shrine (c); Seokguram Grotto and Bulguksa Temple (c); Gochang, Hwasun, and Ganghwa Dolmen Sites (c); Gyeongju Historic Areas (c); Namhansanseong (c); Baekje Historic Areas (c); Sansa, Buddhist Mountain Monasteries in Korea (c); Royal Tombs of the Joseon Dynasty (c)<br>
 
 ## Economy
@@ -692,14 +692,14 @@ Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Republic o
 <strong>note 1: </strong>in January 2022, the South Korean military announced the formation of a space branch under its Joint Chiefs of Staff to coordinate the development of space and space-enabled capabilities across the Army, Navy and Air Force<br><br><strong>note 2:</strong> the military reserves include Mobilization Reserve Forces (First Combat Forces) and Homeland Defense Forces (Regional Combat Forces)<br>
 
 **Military expenditures**<br>
+2.6% of GDP (2023)<br>
 2.6% of GDP (2022 est.)<br>
 2.6% of GDP (2021)<br>
 2.6% of GDP (2020)<br>
 2.7% of GDP (2019)<br>
-2.5% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 550,000 active-duty personnel (420,000 Army; 70,000 Navy, including about 30,000 Marines; 60,000 Air Force) (2023)<br>
+approximately 500,000 active-duty personnel (365,000 Army; 70,000 Navy, including about 30,000 Marines; 65,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the South Korean military is equipped with a mix of domestically produced and imported weapons systems; South Korea has a robust defense industry and production includes armored fighting vehicles, artillery, aircraft, naval ships, and missiles; its weapons are designed to be compatible with US and NATO systems; in recent years the top foreign weapons supplier has been the US, and some domestically produced systems are built under US license (2023)<br>

@@ -705,13 +705,13 @@ Ghana Armed Forces: Army, Navy, Air Force (2023)<br>
 0.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 14,000 active personnel (10,000 Army; 2,000 Navy; 2,000 Air Force) (2022)<br>
+approximately 14,000 active personnel (10,000 Army; 2,000 Navy; 2,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix older and some newer Russian, Chinese, and Western equipment (2023)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service, with basic education certificate; no conscription (2022)<br>
+18-27 years of age for voluntary military service, with basic education certificate; no conscription (2023)<br>
 
 **Military deployments**<br>
 140 Mali (MINUSMA); 875 Lebanon (UNIFIL); 725 (plus about 275 police) South Sudan (UNMISS); 650 Sudan (UNISFA) (2023)<br>

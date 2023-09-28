@@ -699,7 +699,7 @@ approximately 16,000 Mauritanian Armed Forces personnel (15,000 Army; 700 Navy; 
 the military's inventory is limited and made up largely of older French and Soviet-era equipment; in recent years, Mauritania has received small amounts of mostly secondhand military equipment from a variety of suppliers, with China as the leading provider (2023)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; no conscription (2022)<br>
+18 is the legal minimum age for voluntary military service; has a compulsory two-year military service law, but the law has reportedly never been applied (2022)<br>
 
 **Military deployments**<br>
 450 (plus about 320 police) Central African Republic (MINUSCA) (2023)<br>

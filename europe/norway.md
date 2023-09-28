@@ -390,20 +390,20 @@ _selected World Heritage Site locales_: Bryggen (c); Urnes Stave Church (c); Rø
 high-income non-EU European economy; aging labor force; large state-owned energy company constrains budget and spending; largest oil sovereign wealth fund; major fishing, forestry, and extraction industries; large welfare system<br>
 
 **Real GDP (purchasing power parity)**<br>
+$368.151 billion (2022 est.)<br>
 $355.122 billion (2021 est.)<br>
 $341.855 billion (2020 est.)<br>
-$344.324 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+3.3% (2022 est.)<br>
 3.88% (2021 est.)<br>
 -0.72% (2020 est.)<br>
-0.75% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$67,500 (2022 est.)<br>
 $65,700 (2021 est.)<br>
 $63,500 (2020 est.)<br>
-$64,400 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

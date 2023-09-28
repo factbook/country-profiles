@@ -333,7 +333,7 @@ _residency requirement for naturalization_: 1 to 3 years<br>
 _chief of state_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022); Vice Presidents Salvador NASRALLA, Doris GUTI&Eacute;RREZ, and Renato FLORENTINO (since 27 January 2022); note - the president is both chief of state and head of government; CASTRO is Honduras' first female president<br>
 _head of government_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022); Vice Presidents Salvador NASRALLA, Doris GUTI&Eacute;RREZ, and Renato FLORENTINO (since 27 January 2022)<br>
 _cabinet_: Cabinet appointed by president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 4-year term; election last held on 28 November 2021 (next to be held in 30 November 2025); note - in 2015, the Constitutional Chamber of the Honduran Supreme Court struck down the constitutional provisions on presidential term limits<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 4-year term; election last held on 28 November 2021 (next to be held on 30 November 2025); note - in 2015, the Constitutional Chamber of the Honduran Supreme Court struck down the constitutional provisions on presidential term limits<br>
 _election results_: <br><em>2021: </em>Iris Xiomara CASTRO de Zelaya elected president; percent of vote - Iris Xiomara CASTRO de Zelaya (LIBRE) 51.1%, Nasry Juan ASFURA Zablah (PNH) 36.9%, Yani Benjamin ROSENTHAL Hidalgo (PL) 10%, other 2%<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br>
 
 **Legislative branch**<br>
@@ -687,7 +687,7 @@ Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Hond
 1.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Military Police of Public Order); approximately 18,000 National Police (2022)<br>
+approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Military Police of Public Order); approximately 18,000 National Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FFAA's inventory is comprised of mostly older imported equipment from Israel, the UK, and the US; in recent years, it has received limited amounts of military equipment from several countries, including Colombia and Israel (2023)<br>

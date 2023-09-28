@@ -698,11 +698,11 @@ Royal Cambodian Armed Forces (RCAF): Royal Cambodian Army, Royal Khmer Navy, Roy
 <strong>note 1:</strong> the National Committe for Maritime Security performs coast guard functions and has representation from military and civilian agencies<br><br><strong>note 2:</strong> the Cambodian National Police are under the Ministry of Interior<br>
 
 **Military expenditures**<br>
-2.5% of GDP (2021 est.)<br>
-2.5% of GDP (2020 est.)<br>
+2.1% of GDP (2022 est.)<br>
+2.3% of GDP (2021 est.)<br>
+2.3% of GDP (2020 est.)<br>
 2.2% of GDP (2019 est.)<br>
 2.2% of GDP (2018 est.)<br>
-2.1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 100,000 total active troops including less than 5,000 Navy and Air Force personnel; approximately 10,000 Gendarmerie (2023)<br>

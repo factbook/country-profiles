@@ -692,7 +692,7 @@ Malaysian Armed Forces (Angkatan Tentera Malaysia, ATM): Malaysian Army (Tentera
 1% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 115,000 active duty troops (80,000 Army; 18,000 Navy; 17,000 Air Force) (2022)<br>
+approximately 110,000 active-duty troops (80,000 Army; 15,000 Navy; 15,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military fields a diverse mix of older and more modern imported weapons systems from a wide variety of suppliers across Europe, Asia, and the US; in recent years it has received military equipment from approximately 20 countries with South Korea as one of the leading suppliers (2023)<br>

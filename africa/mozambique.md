@@ -729,7 +729,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Mozambique-Eswatini</em>: none identified</p> <p><em>Mozambique-Malawi</em>:  the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Mozambique-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>Mozambique-Tanzania</em>: none identified</p> <p><em>Mozambique-Zambia</em>: none identified</p> <p><em>Mozambique-Zimbabwe</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,554 (Democratic Republic of Congo) (refugees and asylum seekers), 10,655 (Burundi) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 12,678 (Democratic Republic of Congo) (refugees and asylum seekers), 10,655 (Burundi) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 875,972 (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2023)<br>
 
 **Trafficking in persons**<br>

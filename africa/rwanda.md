@@ -677,7 +677,7 @@ Rwanda Defense Force (RDF; Ingabo z’u Rwanda): Rwanda Army (Rwanda Land Force)
 1.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 33,000 active RDF personnel (32,000 Army; 1,000 Air Force) (2022)<br>
+approximately 33,000 active RDF personnel (32,000 Army; 1,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RDF's inventory includes mostly Soviet-era and older Western--largely French and South African--equipment; in recent years, Russia has been the top supplier of arms to Rwanda (2023)<br>
@@ -706,6 +706,6 @@ has a small program focused on developing and utilizing space technologies, such
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 77,898 (Democratic Republic of the Congo), 48,793 (Burundi) (2023)<br>
+_refugees (country of origin)_: 79,569 (Democratic Republic of the Congo), 48,029 (Burundi) (2023)<br>
 _stateless persons_: 9,500 (2022)<br>
 

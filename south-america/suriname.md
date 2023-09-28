@@ -657,7 +657,7 @@ _major seaport(s)_: Paramaribo, Wageningen<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Suriname Army (National Leger, NL): Army, Navy, Air Force, Military Police; Ministry of Justice and Police: Suriname Police Force (Korps Politie Suriname or KPS) (2023)<br>
+Suriname National Army (Nationaal Leger or NL); Army (Landmacht), Navy (Marine); Air Force (Luchtmacht), Military Police (Korps Militaire Politie)<br><br>Ministry of Justice and Police: Suriname Police Force (Korps Politie Suriname or KPS) (2023)<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2019 est.)<br>
@@ -667,10 +667,10 @@ Suriname Army (National Leger, NL): Army, Navy, Air Force, Military Police; Mini
 1.4% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 total personnel (2022)<br>
+approximately 2,000 total personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Suriname Army has a limited inventory comprised of a mix of older, foreign-supplied equipment; in recent years, Suriname has received small quantities of military hardware from several countries, including the US (2022)<br>
+the Suriname Army has a limited inventory comprised of a mix of older, foreign-supplied equipment; in recent years, Suriname has received small quantities of military hardware from India (2023)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; no conscription (2022)<br>

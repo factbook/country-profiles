@@ -640,14 +640,14 @@ _major seaport(s)_: Male<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Maldives National Defense Force (MNDF): Coast Guard, Marine Corps, Fire and Rescue Service, Defense Intelligence Service, Service Corps, Adjutant General's Corps, Special Protection Corps, Special Forces, Training and Education Command, Welfare and Recreation Service (2023)<br>
+Maldives National Defense Force (MNDF): the MNDF has combined force structure with seven services divided into Combat and Maneuver Forces (Coast Guard, Marine Corps, and Fire and Rescue Service) and Support Services (Service Corps, Defense Intelligence Service, Medical Corps, Adjutant General's Corps); there is also a separate Special Forces command and a Special Protection Service (2023)<br>
 <strong>note:</strong> the Maldives Police Service is responsible for internal security and reports to the Ministry of Home Affairs<br>
 
 **Military expenditures**<br>
 not available<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,500 personnel (2022)<br>
+approximately 3-4,000&nbsp;personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 India has provided most of the equipment in the MNDF's inventory (2023)<br>

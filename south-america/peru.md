@@ -732,7 +732,7 @@ information varies; approximately 95,000 active-duty personnel (60,000 Army; 25,
 the military's inventory is a mix of mostly older equipment from a wide variety of suppliers, including Brazil, Europe, Russia/the former Soviet Union, and the US; in recent years, it has received some more modern weapons systems from more than a dozen countries with South Korea as the leading supplier (2023)<br>
 
 **Military service age and obligation**<br>
-18-50 years of age for male and 18-45 years of age for female voluntary military service (12 months); no conscription (abolished in 1999) (2022)<br>
+18-30 years of age for voluntary military service (12 months); no conscription (abolished in 1999) (2023)<br>
 <strong>note: </strong>as of 2019, women made up about 10% of the active duty military<br>
 
 **Military deployments**<br>

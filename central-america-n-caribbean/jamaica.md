@@ -657,13 +657,13 @@ Jamaica Defense Force (JDF): Jamaica Regiment (Ground Forces), Maritime-Air-Cybe
 1.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 4,000 personnel (2022)<br>
+approximately 5,000 personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the JDF is lightly armed with a limited inventory featuring equipment mostly from Europe and the US (2023)<br>
 
 **Military service age and obligation**<br>
-no conscription; 18-23 for voluntary military service (17 with parental consent); 18-28 for the reserves; since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC); in the JNSC, soldiers receive basic military, vocational, and life skills training; upon completion of 12 months of service, soldiers can continue on with the JDF or seek other opportunities with other government agencies (2022)<br>
+no conscription; 18-23 for voluntary military service (17 with parental consent); 18-28 for the reserves; since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC); in the JNSC, soldiers receive basic military, vocational, and life skills training; upon completion of 12 months of service, soldiers can continue on with the JDF or seek other opportunities with other government agencies (2023)<br>
 
 **Military - note**<br>
 in addition to its responsibility of defending against external aggression, the JDF's primary missions are border, internal, and maritime security, including support to police operations in combating crime and violence; other missions include search and rescue, disaster response, humanitarian assistance, and peacekeeping; it has arrest authority and partners with the Jamaica Constabulary Force (JCF); both the JDF and JCF are under the Ministry of National Security, which directs policy for the security forces; the JDF participates in bilateral and multinational training exercises, including with the militaries of Canada, the UK, the US, and other Caribbean nations <br><br>while Jamaica had a militia force as early as the 1660s, the JDF was constituted in 1962 from the West India Regiment (WIR), a British colonial regiment which dates back to 1795; troops for the WIR were recruited from freed slaves from North America, slaves purchased in the West Indies, and slaves from Africa bought off slave ships (2023)<br>

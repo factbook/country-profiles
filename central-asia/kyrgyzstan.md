@@ -679,14 +679,14 @@ _lake port(s)_: Balykchy (Ysyk-Kol or Rybach'ye)(Lake Ysyk-Kol)<br>
 Armed Forces of the Kyrgyz Republic: Land Forces, Air Defense Forces, National Guard; Internal Troops; State Committee for National Security (GKNB): State Border Service (2023)<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2022 est.)<br>
 1.7% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
 2.3% of GDP (2019 est.)<br>
 2.3% of GDP (2018 est.)<br>
-2.3% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 14,000 active-duty troops (8,500 Land Forces; 2,500 Air Force/Air Defense; 3,000 National Guard) (2022)<br>
+approximately 15,000 active-duty troops (9,000 Land Forces; 3,000 Air Force/Air Defense; 3,000 National Guard) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Kyrgyz military inventory is comprised of mostly older Russian and Soviet-era equipment; Russia is the leading supplier of armaments (2023)<br>

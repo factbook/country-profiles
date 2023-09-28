@@ -662,14 +662,14 @@ Kuwaiti Armed Forces (KAF): Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air
 <strong>note 1:</strong> the Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the 25th Commando Brigade is Kuwait's leading special forces unit; the Emiri Guard Authority (aka Emiri Guard Brigade) is responsible for protecting Kuwait's heads of state<br><br><strong>note 2:</strong> the Kuwaiti National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br><br><strong>note 3:</strong> the police, Kuwait State Security, and Coast Guard are under the Ministry of Interior<br>
 
 **Military expenditures**<br>
+4.5% of GDP (2022 est.)<br>
 6.8% of GDP (2021 est.)<br>
 6.3% of GDP (2020 est.)<br>
-5.6% of GDP (2019)<br>
-5.1% of GDP (2018)<br>
-5.6% of GDP (2017)<br>
+5.6% of GDP (2019 est.)<br>
+5.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 17,000 active duty armed forces personnel (12,500 Army, including the Amiri Guard and 25th Commando Brigade; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard (2022)<br>
+approximately 17,000 active-duty armed forces personnel (12,500 Army, including the Amiri Guard and 25th Commando Brigade; 2,000 Navy; 2,500 Air Force); approximately 7,000 National Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of weapons from a wide variety of sources, including Western Europe, Russia, and the US; the US has been the leading supplier of arms to Kuwait (2023)<br>

@@ -65,7 +65,7 @@ _other_: 9.4% (2018 est.)<br>
 1,200 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Senegal (shared with Guinea [s], Mali, and Mauritania [m] ) - 1,641 km; Gambia (shared with Guinea [s] and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Senegal (shared with Guinea [s], Mali, and Mauritania [m] ) - 1,641 km; Gambie (Gambia) (shared with Guinea [s] and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Senegal (456,397 sq km)<br>
@@ -291,7 +291,7 @@ _methane emissions_: 11.74 megatons (2020 est.)<br>
 _municipal solid waste generated annually_: 2,454,059 tons (2016 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Senegal (shared with Guinea [s], Mali, and Mauritania [m] ) - 1,641 km; Gambia (shared with Guinea [s] and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Senegal (shared with Guinea [s], Mali, and Mauritania [m] ) - 1,641 km; Gambie (Gambia) (shared with Guinea [s] and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Senegal (456,397 sq km)<br>

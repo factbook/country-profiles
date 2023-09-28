@@ -199,6 +199,7 @@ _unimproved: total_: total: 6.7% of population (2020 est.)<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Japanese encephalitis<br>
+<strong>note: </strong>On 20 September 2023, the CDC issued a travel notice for an outbreak of diphtheria in several provinces in Vietnam (see attached map); vaccination against diphtheria is essential to protect against disease; if you are traveling to an affected area, you should be up to date with your diphtheria vaccines; Diphtheria is a serious infection caused by strains of bacteria called <em>Corynebacterium diphtheriae </em>that make a toxin; Diphtheria bacteria spread from person to person, usually through respiratory droplets, like from coughing or sneezing<br>
 
 **Obesity - adult prevalence rate**<br>
 2.1% (2016)<br>

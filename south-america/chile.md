@@ -690,7 +690,7 @@ Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chi
 1.9% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 70,000 active armed forces personnel (40,000 Army; 20,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2022)<br>
+approximately 75,000 active armed forces personnel (45,000 Army; 20,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Chilean military inventory is comprised of a wide mix of mostly Western equipment and some domestically produced systems; in recent years, it has received military hardware from a variety of countries, including Australia, the UK, and the US; Chile's defense industry has capabilities in military aircraft, ships, and vehicles (2023)<br>

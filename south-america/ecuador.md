@@ -711,7 +711,7 @@ approximately 40,000 active military personnel (25,000 Army; 9,000 Navy; 6,000 A
 the military's inventory includes a wide mix of mostly older equipment derived from a variety of sources such as Brazil, China, Russia, and the US; in recent years, Ecuador has received limited amounts of more modern material from several countries, including Germany and Spain (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for selective conscript military service, although conscription was suspended in 2008; 18 years of age for voluntary military service; Ecuadorian birth requirement; 1-year service obligation; females have been allowed to serve in all branches since 2012 (2022)<br>
+18-22 years of age for selective conscript military service, although conscription was suspended in 2008; 18 years of age for voluntary military service; Ecuadorian birth requirement; 1-year service obligation; females have been allowed to serve in all branches since 2012 (2023)<br>
 <strong>note: </strong>in 2017, women made up an estimated 3% of the military<br>
 
 **Military - note**<br>

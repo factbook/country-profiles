@@ -630,11 +630,11 @@ _major seaport(s)_: Nuku'alofa, Neiafu, Pangai<br>
 His Majesty's Armed Forces Tonga (aka Tonga Defense Services): Tonga Royal Guard, Land Force (Royal Tongan Marines), Tonga Navy, Air Wing <br><br>Ministry of Police and Fire Services: Tonga Police Force (2023)<br>
 
 **Military expenditures**<br>
+1.6% of GDP (2023 est.)<br>
+1.6% of GDP (2022 est.)<br>
+1.5% of GDP (2021 est.)<br>
 2.1% of GDP (2020 est.)<br>
 2.4% of GDP (2019 est.)<br>
-1.5% of GDP (2018 est.)<br>
-2.1% of GDP (2017 est.)<br>
-1.7% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 500-700 personnel (2023)<br>

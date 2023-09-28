@@ -693,6 +693,6 @@ the 2013 coup resulted in the institutional collapse of the Central African Arme
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,011 (Sudan) (refugees since 15 April 2023), 6,636 (Democratic Republic of Congo) (2023)<br>
+_refugees (country of origin)_: 18,011 (Sudan) (refugees since 15 April 2023), 6,676 (Democratic Republic of Congo) (2023)<br>
 _IDPs_: 514,547 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2023)<br>
 

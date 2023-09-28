@@ -384,7 +384,7 @@ _lyrics/music_: multiple authors/Hassan RIAHI<br>
 <strong>note 1:</strong> adopted 1990; Iran has had six national anthems; the first, entitled "Salam-e Shah" (Royal Salute) was in use from 1873-1909; next came "Salamati-ye Dowlat-e Elliye-ye Iran" (Salute of the Sublime State of Persia, 1909-1933); it was followed by "Sorud-e melli" (The Imperial Anthem of Iran; 1933-1979), which chronicled the exploits of the Pahlavi Dynasty; "Ey Iran" (Oh Iran) functioned unofficially as the national anthem for a brief period between the ouster of the Shah in 1979 and the early days of the Islamic Republic in 1980; "Payandeh Bada Iran" (Long Live Iran) was used between 1980 and 1990 during the time of Ayatollah KHOMEINI<br><br><strong>note 2:</strong> a recording of the current Iranian national anthem is unavailable since the US Navy Band does not record anthems for countries from which the US does not anticipate official visits; the US does not have diplomatic relations with Iran<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 26 (24 cultural, 2 natural)<br>
+_total World Heritage Sites_: 27 (25 cultural, 2 natural)<br>
 _selected World Heritage Site locales_: Persepolis (c); Tchogha Zanbil (c); Bam and its Cultural Landscape (c); Golestan Palace (c); Shushtar Historical Hydraulic System (c); Pasargadae (c); Hyrcanian Forests (n); Tabriz Historic Bazaar Complex (c); Meidan Emam, Esfahan (c); Bisotun (c)<br>
 
 ## Economy

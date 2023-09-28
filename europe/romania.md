@@ -703,13 +703,13 @@ Romanian Armed Forces (Forțele Armate Române or Armata Română): Land Forces,
 1.8% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 75,000 active-duty military personnel (58,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2022)<br>
+approximately 70,000 active-duty military personnel (53,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is comprised mostly of Soviet-era and older domestically produced weapons systems, although in recent years it has launched an effort to acquire more Western-origin equipment from European countries and the US, including aircraft and armored vehicles (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary service for men and women; all military inductees contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36; conscription ended in 2006 (2022)<br>
+18 years of age for voluntary service for men and women; all military inductees contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36; conscription ended in 2006 (2023)<br>
 
 **Military deployments**<br>
 up to 120 Poland (NATO) (2023)<br>

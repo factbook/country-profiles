@@ -669,11 +669,11 @@ United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presiden
 <strong>note:</strong> each emirate maintains a local police force called a general directorate, which is officially a branch of the federal Ministry of Interior; all emirate-level general directorates of police enforce their respective emirate’s laws autonomously; they also enforce federal laws within their emirate in coordination with one another under the federal ministry; the State Security Directorate (SSD) in Abu Dhabi and Dubai State Security (DSS) have primary responsible for counterterrorism law enforcement efforts; local, emirate-level police forces, especially the Abu Dhabi Police and Dubai Police, are the first responders in such cases and provide technical assistance to SSD and DSS<br>
 
 **Military expenditures**<br>
+4% of GDP (2022 est.)<br>
+5% of GDP (2021 est.)<br>
 5.6% of GDP (2020 est.)<br>
 5.4% of GDP (2019 est.)<br>
 5.5% of GDP (2018 est.)<br>
-5.2% of GDP (2017 est.)<br>
-6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 65,000 active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2023)<br>

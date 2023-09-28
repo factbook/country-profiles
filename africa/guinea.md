@@ -63,7 +63,7 @@ _other_: 15.4% (2018 est.)<br>
 950 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambia river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambie (Gambia) river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
@@ -202,6 +202,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
+<strong>note:  </strong>on 20 September 2023, the Centers for Disease Control and Prevention updated a Travel Health Alert for a diphtheria outbreak in several states in Guinea; vaccination against diphtheria is essential to protect against disease; if you are traveling to an affected area, you should be up to date with your diphtheria vaccines; before travel, discuss the need for a booster dose with your healthcare professional; diphtheria is a serious infection caused by strains of Corynebacterium diphtheriae bacteria that make a toxin from which people get very sick; diphtheria bacteria spread from person to person through respiratory droplets like from coughing or sneezing; people can also get sick from touching open sores or ulcers of people sick with diphtheria (see attached map)<br>
 
 **Obesity - adult prevalence rate**<br>
 7.7% (2016)<br>
@@ -287,7 +288,7 @@ _municipal solid waste recycled annually_: 29,846 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 5% (2005 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambia river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambie (Gambia) river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
@@ -693,7 +694,7 @@ approximately 12,000 active personnel, including about 1,500 Gendarmerie (2023)<
 the inventory of the Guinean military consists largely of aging and outdated (mostly Soviet-era) equipment; in recent years, it has received small amounts of equipment from China, France, and South Africa (2023)<br>
 
 **Military service age and obligation**<br>
-Voluntary and selective conscripted service, 9-24 mos (2022)<br>
+18 years of age for voluntary and selective conscripted service; 9-12 months of service (2023)<br>
 
 **Military deployments**<br>
 670 Mali (MINUSMA) (2023)<br>

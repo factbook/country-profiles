@@ -633,7 +633,7 @@ National Army for Development (l'Armee Nationale de Developpement, AND): Comoran
 <strong>note 1: </strong>when the Gendarmerie serves as the judicial police, it reports to the Minister of Justice; the Gendarmerie also has an intervention platoon that may act under the authority of the interior minister<br><br><strong>note 2:</strong> the National Directorate of Territorial Safety oversees customs and immigration<br><br><strong>note 3:</strong> the FCD is also known as the Comoran Security Force<br>
 
 **Military and security service personnel strengths**<br>
-estimated 600 Defense Force personnel; estimated 500 Federal Police (2022)<br>
+estimated 600 Defense Force personnel; estimated 500 Federal Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the defense forces are lightly armed with a mix of mostly older equipment originating from several countries, including France, Italy, Russia, and the US (2023)<br>

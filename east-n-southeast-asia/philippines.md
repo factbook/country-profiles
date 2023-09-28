@@ -711,7 +711,7 @@ approximately 140,000 active-duty personnel (100,000 Army; 25,000 Navy, includin
 the AFP is equipped with a wide mix of imported weapons systems; in recent years, it has received equipment from more than a dozen countries led by Israel, South Korea, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18-25 (enlisted) and 21-29 (officers) years of age for voluntary military service for men and women; no conscription (2022)<br>
+18-27 years of age for voluntary military service for men and women; no conscription (2023)<br>
 <strong>note:</strong> as of 2020, women made up about 6% of the active military; women were allowed to enter the Philippine Military Academy and train as combat soldiers in 1993<br>
 
 **Military - note**<br>

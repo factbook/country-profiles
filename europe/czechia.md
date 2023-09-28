@@ -692,14 +692,14 @@ Czech Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2023)
 1.2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 26,000 active personnel (20,000 Army; 6,000 Air Force) (2022)<br>
+approximately 27,000 active personnel (21,000 Army; 6,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Czech military has a mix of Soviet-era and more modern equipment, mostly of Western European origin from such suppliers as Austria, Germany, and Spain; Czechia has a considerable domestic defense industry; during the Cold War, Czechoslovakia was a major producer of tanks, armored personnel carriers, military trucks, and trainer aircraft (2023)<br>
 <strong>note:</strong> in 2019, Czechia announced a modernization plan to acquire more Western equipment that was compliant with NATO standards, including aircraft and armored vehicles<br>
 
 **Military service age and obligation**<br>
-18-28 years of age for voluntary military service for men and women; conscription abolished 2004 (2022)<br>
+18-28 years of age for voluntary military service for men and women; conscription abolished 2004 (2023)<br>
 <strong>note: </strong>as of 2019, women comprised about 13% of the military's full-time personnel<br>
 
 **Military deployments**<br>

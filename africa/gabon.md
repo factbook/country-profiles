@@ -680,7 +680,7 @@ Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka Gabonese Defense and 
 1.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,500 active duty troops including the Republican Guard and Gendarmerie (2022)<br>
+approximately 6,500 active-duty troops including the Republican Guard and Gendarmerie (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Gabonese military is lightly armed with a mix of equipment from a variety of suppliers including Brazil, China, France, Germany, and South Africa (2023)<br>
