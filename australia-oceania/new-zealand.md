@@ -304,7 +304,7 @@ _etymology_: named in 1840 after Arthur WELLESLEY, the first Duke of Wellington 
 16 regions and 1 territory*; Auckland, Bay of Plenty, Canterbury, Chatham Islands*, Gisborne, Hawke's Bay, Manawatu-Wanganui, Marlborough, Nelson, Northland, Otago, Southland, Taranaki, Tasman, Waikato, Wellington, West Coast<br>
 
 **Dependent areas**<br>
-Cook Islands, Niue, Tokelau<br>
+Tokelau (1)<br>
 
 **Independence**<br>
 26 September 1907 (from the UK)<br>
@@ -643,7 +643,11 @@ ZK<br>
 123 (2021)<br>
 
 **Airports - with paved runways**<br>
-39<br>
+_total_: 39<br>
+_civil airports_: 15<br>
+_military airports_: 2<br>
+_joint use (civil-military) airports_: 1<br>
+_other airports_: 21<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
@@ -690,8 +694,8 @@ approximately 12,200 active-duty troops including active reservists (6,600 Army;
 the NZDF is equipped mostly with Western-supplied weapons and equipment with the US as the leading provider (2023)<br>
 
 **Military service age and obligation**<br>
-17 years of age for men and women for voluntary military service; soldiers cannot be deployed until the age of 18; no conscription (2023)<br>
-<strong>note 1: </strong>New Zealand opened up all military occupations to women in 2000; women currently account for about 15% of regular armed forces personnel<br><br><strong>note 2:</strong> as of 2022, the NZDF’s program for recruiting foreign volunteers had been suspended<br>
+17 years of age for voluntary military service for men and women; soldiers cannot be deployed until the age of 18; no conscription (2023)<br>
+<strong>note 1: </strong>New Zealand opened up all military occupations to women in 2000; in 2022, women accounted for about 20% of armed forces personnel<br><br><strong>note 2:</strong> as of 2022, the NZDF’s program for recruiting foreign volunteers had been suspended<br>
 
 **Military deployments**<br>
 up to 220 Antarctica (summer season only) (2022)<br>

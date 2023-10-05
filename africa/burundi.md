@@ -684,7 +684,7 @@ approximately 25-30,000 active-duty troops, the majority of which are ground for
 the military has a mix of mostly older weapons and equipment typically of French, Russian, and Soviet origin, and a smaller selection of more modern secondhand equipment from such countries as China, South Africa, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service (2023)<br>
+18 years of age for voluntary military service for men and women (2023)<br>
 
 **Military deployments**<br>
 750 Central African Republic (MINUSCA); more than 3,000 in Somalia (ATMIS; note - foreign troop contingents under ATMIS are drawing down towards a final exit in December 2024) (2023)<br>

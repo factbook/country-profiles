@@ -694,7 +694,7 @@ approximately 25,000 active military personnel (21,000 Army; 2,000 Navy; 2,000 A
 the FAES has a mix of mostly older imported platforms, largely from the US (2023)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and non-commissioned officers (2023)<br>
+18-30 years of age for selective compulsory military service; 16-22 years of age for voluntary military service for men and women; service obligation is 12 months, with 11 months for officers and non-commissioned officers (2023)<br>
 <strong>note:</strong> as of 2016, women made up about 6% of the active duty military<br>
 
 **Military deployments**<br>

@@ -363,7 +363,7 @@ BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, 
 <strong>note</strong>: Albania is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Floreta FABER (since 18 May 2015)<br>
+_chief of mission_: Ambassador Ervin BUSHATI (since 15 September 2023)<br>
 _chancery_: 2100 S Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 223-4942<br>
 _FAX_: [1] (202) 628-7342<br>
@@ -695,7 +695,7 @@ since joining NATO, the military has been in the process of modernizing by retir
 
 **Military service age and obligation**<br>
 18-27 (up to 32 in some cases) for voluntary military service for men and women; conscription abolished 2010 (2023)<br>
-<strong>note: </strong>as of 2021, women comprised about 15% of the military's full-time personnel, including 20% of the officers<br>
+<strong>note: </strong>as of 2023, women comprised about 15% of the military's full-time personnel, including 20% of the officers<br>
 
 **Military - note**<br>
 the Albanian Armed Forces (AAF) are responsible for defending the country&rsquo;s independence, sovereignty, and territory, assisting with internal security, providing disaster and humanitarian relief, and participating in international peacekeeping missions; the AAF has contributed small numbers of forces to several NATO missions since Albania joined NATO in 2009, including peacekeeping/stability missions in Afghanistan, Kosovo, and Iraq, and multinational battlegroups in Bulgaria and Latvia; it has also contributed to EU and UN missions; the AAF is a small, lightly armed force that has been undergoing a modernization effort to improve its ability to fulfill NATO missions, including training and equipment purchases; the primary ground combat units include three light infantry battalions (or battle groups), including one trained and certified for NATO missions, and a special operations regiment; the Naval Force and Coast Guard operate a small force of patrol boats while the Air Force has a small inventory of helicopters (2023)<br>

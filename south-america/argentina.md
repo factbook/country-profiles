@@ -730,7 +730,7 @@ the inventory of Argentina's armed forces is a mix of domestically-produced and 
 
 **Military service age and obligation**<br>
 18-24 years of age for voluntary military service for men and women; conscription suspended in 1995; citizens can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2023)<br>
-note - as of 2021, women comprised over 21% of the active duty military<br>
+<strong>note: </strong>as of 2022, women comprised about 20% of the active duty military<br>
 
 **Military deployments**<br>
 225 Cyprus (UNFICYP) (2023)<br>

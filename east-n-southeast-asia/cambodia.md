@@ -713,7 +713,7 @@ the RCAF is armed largely with older Chinese and Russian-origin equipment; in re
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for compulsory and voluntary military service (conscription only selectively enforced since 1993; service is for 18 months); women may volunteer (2023)<br>
-<strong>note: </strong>in 2018, women made up an estimated 6% of the active-duty military and 88 women held the rank of general<br>
+<strong>note: </strong>as of 2018, women made up an estimated 6% of the active-duty military<br>
 
 **Military deployments**<br>
 225 Central African Republic (MINUSCA); 180 Lebanon (UNIFIL); 260 Mali (MINUSMA) (2023)<br>

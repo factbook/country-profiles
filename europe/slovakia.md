@@ -340,8 +340,8 @@ _election results_: <em><br>2019:</em> Zuzana CAPUTOVA elected president in seco
 
 **Legislative branch**<br>
 _description_: unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 29 February 2020 (next to be held in September 2023)<br>
-_election results_: percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina or SR 8.2%, LSNS 8%, SaS 6.2%, Za Ludi or ZL 5.8%, other 28.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12; composition (as of April 2023) - men 117, women 33, percent of women 22%<br>
+_elections_: last held on 30 September 2023<br>
+_election results_: percent of vote by party - SMER-SSD 22.9%, PS 18%, Hlas-SD 14.7%, OL'aNO 8.9%, KDH 6.8%, SaS 6.3%, SNS 5.6%; seats by party SMER-SSD 42, PS 32, Hlas-SD 27, OL'aNO 16, KDH 12, SaS 11, 10<br><br><em>2020</em>; percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina or SR 8.2%, LSNS 8%, SaS 6.2%, Za Ludi or ZL 5.8%, other 28.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12; composition (as of April 2023) - men 117, women 33, percent of women 22%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Slovak Republic (consists of the court president, vice president, and approximately 80 judges organized into criminal, civil, commercial, and administrative divisions with 3- and 5-judge panels); Constitutional Court of the Slovak Republic (consists of 13 judges organized into 3-judge panels)<br>
@@ -349,7 +349,7 @@ _judge selection and term of office_: Supreme Court judge candidates nominated b
 _subordinate courts_: regional and district civil courts; Special Criminal Court; Higher Military Court; military district courts; Court of Audit;<br>
 
 **Political parties and leaders**<br>
-Alliance-Szovetseg or A-S [Krisztian FORRO]<br>Democrats [Eduard HEGER]<br>Direction-Social Democracy or Smer-SD [Robert FICO]<br>For the People or Za Ludi [Veronika REMISOVA]<br>Freedom and Solidarity or SaS [Richard SULIK]<br>Kotleba-People's Party Our Slovakia or LSNS [Marian KOTLEBA]<br>Ordinary People and Independent Personalities - New Majority or OLaNO-NOVA [Igor MATOVIC]<br>Slovak National Party or SNS [Andrej DANKO]<br>Voice - Social Democracy or Hlas-SD [Petr PELLIGRINI]<br>We Are Family or Sme-Rodina [Boris KOLLAR] (formerly Party of Citizens of Slovakia)<br>
+Alliance-Szovetseg or A-S [Krisztian FORRO]<br>Christian Union or KÚ [Anna ZABORSKA]<br>Civic Conservative Party or OKS [Ondrej DOSTAL]<br>Democrats [Eduard HEGER]<br>Direction-Social Democracy or Smer-SSD [Robert FICO]<br>For the People or Za Ludi [Veronika REMISOVA]<br>Freedom and Solidarity or SaS [Richard SULIK]<br>Life National Party or Život–NS [Tomáš TARABA] (formerly Christian Democracy - Life and Prosperity - Alliance for Slovkia)<br>New Majority or NOVA [Gábor GRENDEL]<br>Ordinary People and Independent Personalities - New Majority or OLaNO-NOVA [Igor MATOVIC]<br>People's Party Our Slovakia or LSNS [Marian KOTLEBA]<br>Progressive Slovakia or PS [Michal SIMECKA]<br>Republic [Milan UHRIK]<br>Slovak National Party or SNS [Andrej DANKO]<br>Voice - Social Democracy or Hlas-SD [Petr PELLIGRINI]<br>We Are Family or Sme-Rodina [Boris KOLLAR] (formerly Party of Citizens of Slovakia)<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -696,7 +696,7 @@ the military's inventory consists mostly of Soviet-era platforms; in recent year
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service for men and women; conscription in peacetime suspended in 2004 (2023)<br>
-<strong>note:</strong> as of 2019, women made up around 12% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2020, women made up around 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 240 Cyprus (UNFICYP); up to 150 Latvia (NATO) (2023)<br>
@@ -720,7 +720,7 @@ focused on the development of satellites, satellite subcomponents, and other spa
 <p><em>Slovakia-Austria</em>: none identified</p> <p><em>Slovakia-Czechia</em>: none identified</p> <p><em>Slovakia-Hungary</em>: initiated by the 1977 Budapest Treaty, Hungary and formerly Czechoslovakia agreed to a hydroelectric dam project on the Danube with dams to be constructed at Gabcikovo (Slovakia) and Nagymaros (Hungary) to prevent floods, improve river navigability, and to generate electricity; when Hungary suspended work on the project until its environmental impact could be assessed, Slovakia continued working on it and adopted a pared down strategy to divert the Danube so that all construction was within Czechoslovakian territory; Hungary terminated the project on environmental and economic grounds in 1989, and in 1992 both countries took the matter to the International Court of Justice (ICJ); the ICJ found largely in favor of then Slovakia, finding Hungary had breached their agreement; however, then Czechoslovakia should not have begun the alternative plan before the ICJ ruled on the case; in 2017, Hungary and Slovakia agreed to discontinue the ICJ proceedings</p> <p><em>Slovakia-Poland</em>: none identified</p> <p><em>Slovakia-Ukraine</em>: tens of thousands of Ukrainian refugees are crossing the border to Slovakia to escape the Russian invasion in their country</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 107,415 (Ukraine) (as of 27 August 2023)<br>
+_refugees (country of origin)_: 109,115 (Ukraine) (as of 24 September 2023)<br>
 _stateless persons_: 2,940 (2022)<br>
 
 **Illicit drugs**<br>

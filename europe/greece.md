@@ -347,7 +347,7 @@ Coalition of the Radical Left-Progressive Alliance or SYRIZA-PS (vacant)<br>Comm
 Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Alexandra PAPADOPOULOU (since 6 February 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Theodoros BIZAKIS (since 22 September 2023)<br>
 _chancery_: 2217 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-1300<br>
 _FAX_: [1] (202) 939-1324<br>
@@ -691,7 +691,7 @@ the military's inventory consists of a mix of imported weapons from Europe and t
 
 **Military service age and obligation**<br>
 19-45 years of age for compulsory military service for men; 12-month obligation for all services (note - as an exception, the duration of the full military service is 9 instead of 12 months if conscripts, after the initial training, serve the entire remaining time in certain areas of the eastern borders, in Cyprus, or in certain military units); 18 years of age for voluntary military service for men and women (2023)<br>
-<strong>note 1: </strong>compulsory service applies to any individual whom the Greek authorities consider to be Greek, regardless of whether the individual considers himself Greek, has a foreign citizenship and passport, or was born or lives outside of Greece; Greek citizens living permanently outside of Greece have the right to postpone their conscription; they are permanently exempted from their military obligations when they reach the age of 45 years old<strong><br><br>note 2: </strong>up to 50% of the Greek military is comprised of conscripts<br><br><strong>note 3: </strong>as of 2019, women comprised approximately 19% of the military's full-time personnel<br>
+<strong>note 1: </strong>compulsory service applies to any individual whom the Greek authorities consider to be Greek, regardless of whether the individual considers himself Greek, has a foreign citizenship and passport, or was born or lives outside of Greece; Greek citizens living permanently outside of Greece have the right to postpone their conscription; they are permanently exempted from their military obligations when they reach the age of 45 years old<strong><br><br>note 2: </strong>up to 50% of the Greek military is comprised of conscripts<br><br><strong>note 3: </strong>as of 2020, women comprised approximately 16% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 approximately 1,000 Cyprus; 100 Kosovo (NATO); 140 Lebanon (UNIFIL) (2023)<br>
@@ -722,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 25,050 (Ukraine) (as of 30 June 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,257,072 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
+<strong>note:</strong> 1,258,580 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

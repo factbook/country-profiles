@@ -716,7 +716,7 @@ the military's inventory consists largely of Soviet-era weapons, with a smaller 
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2023)<br>
-<strong>note:</strong> as of 2019, women comprised approximately 20% of Hungary's full-time military personnel<br>
+<strong>note:</strong> as of 2021, women comprised over 20% of Hungary's full-time military personnel<br>
 
 **Military deployments**<br>
 150 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (NATO); 430 Kosovo (NATO/KFOR) (2023)<br>
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 53,375 (Ukraine) (as of 3 September 2023)<br>
+_refugees (country of origin)_: 53,375 (Ukraine) (as of 25 September 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

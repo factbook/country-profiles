@@ -370,7 +370,7 @@ Act Together [Kadre OUEDRAOGO]<br>African Democratic Rally/Alliance for Democrac
 ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNMISS, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Hermann Yirigouin TOE (since 27 September 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Jean-Baptiste GAGRE (since 31 July 2023)<br>
 _chancery_: 2340 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-5577<br>
 _FAX_: [1] (202) 667-1882<br>
@@ -692,7 +692,7 @@ approximately 15,500 personnel (10,000 Army; 500 Air Force; 5,000 National Genda
 the FABF has a mix of mostly older or secondhand equipment from a mix of suppliers, including France, Russia, South Africa, Turkey, the UK, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service; no conscription; women may serve in supporting roles (2023)<br>
+18-26 years of age for voluntary military service for men and women; no conscription (2023)<br>
 
 **Military deployments**<br>
 650 (plus about 200 police) Mali (MINUSMA) (2023)<br>

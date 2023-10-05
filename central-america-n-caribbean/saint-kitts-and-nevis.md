@@ -322,7 +322,7 @@ Concerned Citizens Movement or CCM [Mark BRANTLEY]<br>Nevis Reformation Party or
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, MIGA, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Shanelle Natasha SIMMONDS (since 26 August 2022)<br>
+_chief of mission_: Ambassador Jacinth HENRY-MARTIN (since 15 September 2023)<br>
 _chancery_: 1203 19th St. NW, 5th Floor, Washington, DC 20036<br>
 _telephone_: [1] (202) 686-2636<br>
 _FAX_: [1] (202) 686-5740<br>
@@ -604,7 +604,7 @@ less than 500 active personnel (2023)<br>
 the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service (under 18 with written parental permission); no conscription (2023)<br>
+18 years of age for voluntary military service for men and women (under 18 with written parental permission); no conscription (2023)<br>
 
 **Military - note**<br>
 St. Kitts joined the Caribbean Regional Security System (RSS) in 1984; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security<br><br>SKNDF's missions included defense of the country's territorial integrity and sovereignty, protecting natural resources, interdicting narcotics trafficking, and providing humanitarian relief as needed (2023)<br>

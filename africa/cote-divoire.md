@@ -716,7 +716,7 @@ approximately 25,000 active troops (23,000 Army, including about 2,000 Special F
 the inventory of the FACI consists mostly of older or second-hand equipment, typically of French or Soviet-era origin; Cote d'Ivoire was under a partial UN arms embargo from 2004 to 2016; in recent years it has received limited amounts of mostly second-hand equipment from a variety of suppliers, including Bulgaria, China, and France (2023)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for compulsory and voluntary male and female military service; conscription is not enforced (2023)<br>
+18-26 years of age for compulsory and voluntary military service for men and women; conscription is reportedly not enforced (2023)<br>
 
 **Military deployments**<br>
 650 Mali (MINUSMA) (2023)<br>

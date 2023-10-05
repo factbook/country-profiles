@@ -304,7 +304,7 @@ _etymology_: the medieval name was spelt "Aslo"; the <em>as</em> component refer
 11 counties (fylker, singular - fylke); Agder, Innlandet, More og Romsdal, Nordland, Oslo, Rogaland, Troms og Finnmark, Trondelag, Vestfold og Telemark, Vestland, Viken<br>
 
 **Dependent areas**<br>
-Bouvet Island, Jan Mayen, Svalbard<br>
+Bouvet Island, Jan Mayen, Svalbard (3)<br>
 
 **Independence**<br>
 7 June 1905 (union with Sweden declared dissolved); 26 October 1905 (Sweden agreed to the repeal of the union); notable earlier dates: ca. 872 (traditional unification of petty Norwegian kingdoms by HARALD Fairhair); 1397 (Kalmar Union of Denmark, Norway, and Sweden); 1524 (Denmark-Norway); 17 May 1814 (Norwegian constitution adopted); 4 November 1814 (Sweden-Norway union confirmed)<br>
@@ -640,7 +640,11 @@ LN<br>
 95 (2021)<br>
 
 **Airports - with paved runways**<br>
-67<br>
+_total_: 67<br>
+_civil airports_: 25<br>
+_military airports_: 1<br>
+_joint use (civil-military) airports_: 6<br>
+_other airports_: 35<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>

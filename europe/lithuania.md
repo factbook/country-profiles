@@ -700,7 +700,7 @@ the military's inventory is a mix of Soviet-era and more modern European and US 
 
 **Military service age and obligation**<br>
 19-26 years of age for conscripted military service for men; 9-month service obligation; in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; 18-38 for voluntary service for men and women (2023)<br>
-<strong>note 1:</strong> Lithuania conscripts up to 4,000 males each year; conscripts are selected using an automated lottery system<br><br><strong>note 2:</strong> as of 2019, women comprised about 12% of the military's full-time personnel<br>
+<strong>note 1:</strong> Lithuania conscripts up to 4,000 males each year; conscripts are selected using an automated lottery system<br><br><strong>note 2:</strong> as of 2020, women comprised about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 <strong>note: </strong>contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units; units affiliated with the multinational brigade remain within the structures of the armed forces of their respective countries until the brigade is activated for participation in an international operation<br>
@@ -723,7 +723,7 @@ has a small but growing space program; operates satellites; manufactures small s
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 49,970 (Ukraine) (as of 7 September 2023)<br>
+_refugees (country of origin)_: 49,970 (Ukraine) (as of 15 September 2023)<br>
 _stateless persons_: 2,720 (2022)<br>
 
 **Illicit drugs**<br>

@@ -696,8 +696,8 @@ _river port(s)_: Basel (Rhine)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Swiss Armed Forces (aka Swiss Army or Schweizer Armee); Army (Heer; aka Land Forces), Swiss Air Force (Schweizer Luftwaffe)  (2023)<br>
-<strong>note:</strong> the federal police maintain internal security and report to the Federal Department of Justice and Police, while the armed forces report to the Federal Department of Defense, Civil Protection, and Sport<br>
+Swiss Armed Forces (aka Swiss Army or Schweizer Armee); Army (Heer; aka Land Forces), Swiss Air Force (Schweizer Luftwaffe) (2023)<br>
+<strong>note:</strong> the federal police maintain internal security and report to the Federal Department of Justice and Police, while the Armed Forces report to the Federal Department of Defense, Civil Protection, and Sport<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>
@@ -713,8 +713,8 @@ approximately 100,000, including cadre/professionals, conscripts, and militia; t
 the military's inventory includes a mix of domestically produced and imported weapons systems; in recent years, the US has been the leading supplier of military armaments to Switzerland; the Swiss defense industry produces a range of military land vehicles (2023)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for compulsory military service for men; 18 years of age for voluntary military service; women may volunteer; every Swiss male has to serve at least 245 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by six 19-day intermittent recalls for training during the next 10 years (2023)<br>
-<strong>note: </strong>conscientious objectors can choose 390 days of community service instead of military service<br>
+18-30 years of age for compulsory military service for men; 18 years of age for voluntary military service for men and women; every Swiss male has to serve at least 245 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by six 19-day intermittent recalls for training during the next 10 years (2023)<br>
+<strong>note: </strong>conscientious objectors can choose 390 days of community service instead of military service; as of 2022, women comprised about 1% of the active Swiss military<br>
 
 **Military deployments**<br>
 up to 165 Kosovo (NATO/KFOR) (2023)<br>
@@ -743,7 +743,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 65,815 (Ukraine) (as of 12 September 2023)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 66,065 (Ukraine) (as of 22 September 2023)<br>
 _stateless persons_: 891 (2022)<br>
 
 **Illicit drugs**<br>

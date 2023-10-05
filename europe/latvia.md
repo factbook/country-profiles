@@ -675,7 +675,7 @@ Latvia operates one PC 5 or 6 class icebreaker in the Baltic Sea<br>note - PC in
 ## Military and Security
 
 **Military and security forces**<br>
-National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszemes Speki), Naval Force (Latvijas Juras Speki, includes Coast Guard (Latvijas Kara Flote)), Air Force (Latvijas Gaisa Speki), National Guard (aka Land Guard or Zemessardze)  (2023)<br>
+National Armed Forces (Nacionalie Brunotie Speki or NBS): Land Forces (Latvijas Sauszemes Speki), Naval Force (Latvijas Juras Speki, includes Coast Guard (Latvijas Kara Flote)), Air Force (Latvijas Gaisa Speki), National Guard (aka Land Guard or Zemessardze) (2023)<br>
 <strong>note: </strong>the armed forces, the Defense Intelligence and Security Service, the Constitution Protection Bureau, and the National Guard are subordinate to the Ministry of Defense; the State Police, State Border Guards, and State Security Service are under the Ministry of Interior; the State Border Guard may become part of the armed forces during an emergency<br>
 
 **Military expenditures**<br>
@@ -693,7 +693,7 @@ the Latvian military's inventory consists of a mixture of Soviet-era and limited
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; no conscription (abolished 2007) (2023)<br>
-<strong>note 1:</strong> in 2023, the Latvian Parliament approved a plan to reinstate mandatory military service for men aged 18-27 (women voluntarily) beginning in 2024; service would be for 12 months in the Land Forces or alternatively in internal affairs, health, or welfare structures<br><br><strong>note 2:</strong> as of 2019, women comprised about 16% of the military's full-time personnel<br>
+<strong>note 1:</strong> in 2023, the Latvian Parliament approved a plan to reinstate mandatory military service for men aged 18-27 (women voluntarily) beginning in 2024; service would be for 12 months in the Land Forces or alternatively in internal affairs, health, or welfare structures<br><br><strong>note 2:</strong> as of 2022, women comprised about 16% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 130 Kosovo (KFOR/NATO) (2023)<br>

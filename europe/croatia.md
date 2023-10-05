@@ -706,7 +706,7 @@ approximately 15,000 active-duty personnel (10,000 Army; 1,500 Navy; 1,500 Air f
 the majority of the military's inventory consists of Soviet-era equipment, although in recent years Croatia has acquired some limited numbers of more modern weapon systems from Western suppliers, including France, Germany, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for voluntary military service; conscription abolished in 2008 (2022)<br>
+18-27 years of age for voluntary military service; conscription abolished in 2008 (2023)<br>
 <strong>note:</strong> as of 2021, women comprised nearly 15% of the military's full-time personnel<br>
 
 **Military deployments**<br>
@@ -722,7 +722,7 @@ the Armed Forces of Croatia (OSRH) are responsible for the defense of Croatia’
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Croatia joined the Schengen Zone on 1 January 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,380 (Ukraine) (as of 8 September 2023)<br>
+_refugees (country of origin)_: 23,480 (Ukraine) (as of 22 September 2023)<br>
 _stateless persons_: 2,889 (2022)<br>
 <strong>note: </strong>832,384 estimated refugee and migrant arrivals (January 2015-August 2023)<br>
 

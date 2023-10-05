@@ -368,7 +368,7 @@ Alliance '90/Greens [Ricarda LANG and Omid NOURIPOUR]<br>Alternative for Germany
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMISS, UNOOSA, UNRWA, UNSOM, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Emily Margarethe HABER (since 22 June 2018)<br>
+_chief of mission_: Ambassador Andreas MICHAELIS (since 15 September 2023)<br>
 _chancery_: 4645 Reservoir Road NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 298-4000<br>
 _FAX_: [1] (202) 298-4261<br>
@@ -729,7 +729,7 @@ the German Federal Armed Forces inventory is comprised of weapons systems produc
 
 **Military service age and obligation**<br>
 17-23 years of age for voluntary military service for men and women (must have completed compulsory full-time education and have German citizenship); conscription ended July 2011; service obligation 7-23 months or 12 years; in July 2020, the government launched a new voluntary conscript initiative focused on homeland security tasks; volunteers serve for 7 months plus 5 months as reservists over a 6 year period (2023)<br>
-<strong>note:</strong> women have been eligible for voluntary service in all military branches and positions since 2001 and account for about 12% of the German military<br>
+<strong>note:</strong> women have been eligible for voluntary service in all military branches and positions since 2001 and accounted for about 12% of the active-duty German military in 2023<br>
 
 **Military deployments**<br>
 up to 500 Iraq (NATO); up to 1,400 Lithuania (NATO); approximately 1,100 Mali (MINUSMA/EUTM); 100 Niger; 280 Slovakia (NATO) (2023)<br>
@@ -762,7 +762,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,086,355 (Ukraine) (as of 3 September 2023)<br>
+_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,094,155 (Ukraine) (as of 17 September 2023)<br>
 _stateless persons_: 28,941 (2022)<br>
 
 **Illicit drugs**<br>

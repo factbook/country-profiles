@@ -670,7 +670,7 @@ the military's inventory consists mostly of Soviet-era equipment, although in re
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished in 2007 (2023)<br>
-<strong>note:</strong> as of 2023, women made up about 10.6% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2023, women made up about 10% of the military's full-time personnel<br>
 
 **Military - note**<br>
 the Army of the Republic of North Macedonia (ARSM) is responsible for the defense of the country’s territory and independence, fulfilling North Macedonia’s commitments to NATO and European security, and contributing to EU, NATO, and UN peace and security missions; the ARSM has participated in multinational missions and operations in Afghanistan (NATO), Bosnia and Herzegovina (EU), Eastern Europe (NATO), Iraq (NATO), Kosovo (NATO), and Lebanon (UN); a key area of focus over the past decade has been improving capabilities and bringing the largely Soviet-era-equipped ARSM up to NATO standards; it has increased its participation in NATO training exercises since becoming the 30th member of the Alliance in 2020 and currently has small numbers of combat troops deployed to Bulgaria and Romania as part of NATO’s Enhance Forward Presence mission implemented because of Russian military aggression against Ukraine<br><br>the ARSM is a joint force led by a general staff with subordinate commands for operations, logistics, reserves, special operations, and training; the Operational Command includes the active air and ground combat forces, which include a mechanized infantry brigade, an air brigade with a small combat helicopter squadron, and a ground air defense unit; the Special Operations Command has battalions of rangers and special forces, while the Reserve Forces Command has an infantry brigade (2023)<br>
@@ -687,7 +687,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,315 (Ukraine) (as of 3 September 2023)<br>
+_refugees (country of origin)_: 17,315 (Ukraine) (as of 10 September 2023)<br>
 _stateless persons_: 521 (2022)<br>
 <strong>note:</strong> 559,000 estimated refugee and migrant arrivals (January 2015-August 2023)<br>
 

@@ -673,7 +673,7 @@ approximately 2,000 total personnel (2023)<br>
 the Suriname Army has a limited inventory comprised of a mix of older, foreign-supplied equipment; in recent years, Suriname has received small quantities of military hardware from India (2023)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; no conscription (2022)<br>
+18 is the legal minimum age for voluntary military service for men and women; no conscription (2022)<br>
 
 **Military - note**<br>
 key missions for the National Leger include border control and supporting domestic security; the military police has direct responsibility for immigration control at the country&rsquo;s ports of entry; in addition, the military assists the police in combating crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams (2023)<br>

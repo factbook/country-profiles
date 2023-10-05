@@ -699,7 +699,7 @@ the military fields a diverse mix of older and more modern imported weapons syst
 
 **Military service age and obligation**<br>
 17 years 6 months of age for voluntary military service for men and women (younger with parental consent and proof of age); maximum age of 27 to enlist; mandatory retirement age 60; no conscription (2023)<br>
-note - in 2020, the military announced a goal of having 10% of the active force comprised of women<br>
+<strong>note: </strong>in 2020, the military announced a goal of having 10% of the active force comprised of women<br>
 
 **Military deployments**<br>
 830 Lebanon (UNIFIL) (2023)<br>

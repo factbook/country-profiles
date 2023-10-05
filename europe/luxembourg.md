@@ -664,7 +664,7 @@ _river port(s)_: Mertert (Moselle)<br>
 
 **Military and security forces**<br>
 Luxembourg Army (l'Armée Luxembourgeoise) (2023)<br>
-note: the Grand Ducal Police maintain internal security and report to the Ministry of Internal Security<br>
+<strong>note:</strong> the Grand Ducal Police maintain internal security and report to the Ministry of Internal Security<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2023 est.)<br>

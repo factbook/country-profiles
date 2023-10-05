@@ -370,9 +370,9 @@ African Christian Democratic Party or ACDP [Kenneth MESHOE]<br>African Independe
 ACP, AfDB, AU, BIS, BRICS, C, CD, FAO, FATF, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, NSG, OECD (enhanced engagement), OPCW, Paris Club (associate), PCA, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNITAR, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Nomaindiya MFEKETO (since 8 April 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ismail ESAU (since 14 August 2023)<br>
 _chancery_: 3051 Massachusetts Avenue NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 232-4400<br>
+_telephone_: [1] (202) 413-1953<br>
 _FAX_: [1] (202) 265-1607<br>
 _email address and website_: <br>Info.SAembassyDC@dirco.gov.za<br><br>https://www.saembassy.org/<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
@@ -669,7 +669,11 @@ ZS<br>
 407 (2021)<br>
 
 **Airports - with paved runways**<br>
-130<br>
+_total_: 130<br>
+_civil airports_: 21<br>
+_military airports_: 7<br>
+_joint use (civil-military) airports_: 1<br>
+_other airports_: 101<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
@@ -723,7 +727,7 @@ the SANDF's inventory consists of a mix of domestically produced and foreign-sup
 
 **Military service age and obligation**<br>
 18-22 (18-26 for college graduates) years of age for voluntary military service for men and women; 2-year service obligation (2023)<br>
-<strong>note:</strong> in 2019, women comprised about 30% of the military<br>
+<strong>note:</strong> in 2020, women comprised about 30% of the military<br>
 
 **Military deployments**<br>
 1,150 Democratic Republic of the Congo (MONUSCO); up to 1,500 Mozambique (part of a Southern African Development Community force to help quell an insurgency) (2023)<br>

@@ -724,10 +724,10 @@ information varies; approximately 35-40,000 active-duty troops (20-25,000 ground
 <strong>note: </strong>the BIR has approximately 5,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Russian, and Western equipment, with a limited quantity of more modern weapons received in recent years from such countries as China, France, and Russia (2022)<br>
+the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Russian, and Western equipment, with a limited quantity of more modern weapons received in recent years from such countries as China, France, and Russia (2023)<br>
 
 **Military service age and obligation**<br>
-18-23 years of age for male and female voluntary military service; no conscription; high school graduation required; service obligation 4 years (2023)<br>
+18-23 years of age for voluntary military service for men and women; no conscription; high school graduation required; service obligation 4 years (2023)<br>
 
 **Military deployments**<br>
 750 (plus about 350 police) Central African Republic (MINUSCA) (May 2022)<br>

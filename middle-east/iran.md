@@ -703,11 +703,11 @@ information varies; up to 600,000 active armed forces personnel; approximately 4
 the Iranian military's inventory includes a mix of domestically produced and mostly older foreign equipment largely of Chinese, Russian, Soviet, and US origin (US equipment acquired prior to the Islamic Revolution in 1979); it also has some military equipment from North Korea, including midget submarines and ballistic missiles; in recent years, Iran has received some newer equipment from Russia; Iran has a defense industry with the capacity to develop, produce, support, and sustain air, land, missile, and naval weapons programs (2023)<br>
 
 **Military service age and obligation**<br>
-military service is compulsory for all Iranian males 18/19 to approximately age 40; 16 for voluntary military service (may be as low as 15 for the Basij); conscript military service obligation is 18-24 months, depending on the location of service (soldiers serving in places of high security risk and deprived areas serve shorter terms); women exempt from military service (2023)<br>
+military service is compulsory for all Iranian men 18/19 to approximately age 40; 16 for voluntary military service (may be as low as 15 for the Basij); conscript military service obligation is 18-24 months, depending on the location of service (soldiers serving in places of high security risk and deprived areas serve shorter terms); women exempted from military service (2023)<br>
 <strong>note: </strong>conscripts serve in the Artesh, IRGC, and Law Enforcement; approximately 80% of Artesh ground forces personnel are conscripts, while Navy and Air/Air Defense Force personnel are primarily volunteers; conscripts reportedly comprise more than 50% of the IRGC<br>
 
 **Military deployments**<br>
-estimated to have up to 3,000 military personnel in Syria (2022)<br>
+continues to maintain a military presence in Syria reportedly of a few thousand personnel, mostly of special operations and IRGC forces (2023)<br>
 <strong>note:</strong> Iran has recruited, trained, and funded thousands of Syrian and foreign fighters to support the ASAD regime during the Syrian civil war<br>
 
 **Military - note**<br>

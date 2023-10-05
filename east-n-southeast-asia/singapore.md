@@ -639,7 +639,11 @@ _annual freight traffic on registered air carriers_: 5,194,900,000 (2018) mt-km<
 9 (2021)<br>
 
 **Airports - with paved runways**<br>
-9<br>
+_total_: 9<br>
+_civil airports_: 0<br>
+_military airports_: 2<br>
+_joint use (civil-military) airports_: 3<br>
+_other airports_: 4<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Pipelines**<br>
@@ -672,7 +676,7 @@ Singapore Armed Forces (SAF; aka Singapore Defense Force): Singapore Army, Repub
 2.9% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 60,000 active duty troops (45,000 Army; 7,000 Navy; 8,000 Air Force) (2023)<br>
+information varies; approximately 60,000 active-duty troops (45,000 Army; 7,000 Navy; 8,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SAF has a diverse and largely modern mix of domestically produced and imported Western weapons systems; in recent years, France and the US have been the chief suppliers of arms; Singapore has the most developed arms industry in Southeast Asia and is also its largest importer of weapons (2023)<br>

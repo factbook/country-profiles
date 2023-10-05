@@ -318,7 +318,7 @@ National Democratic Congress or NDC [Dickon MITCHELL]<br>New National Party or N
 ACP, AOSIS, CARIFORUM, CARIBCAN, Caricom, CBI, CDB, CELAC, CSME, ECCU, EPA, FAO, G-77, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, ITUC, LAES, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Yolande Yvonne&nbsp;SMITH (since 8 April 2019)<br>
+_chief of mission_: Ambassador Tarlie FRANCIS (since 15 September 2023)<br>
 _chancery_: 1701 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 265-2561<br>
 _FAX_: [1] (202) 265-2468<br>

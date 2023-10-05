@@ -668,7 +668,11 @@ _annual freight traffic on registered air carriers_: 19.42 million (2018) mt-km<
 54 (2021)<br>
 
 **Airports - with paved runways**<br>
-40<br>
+_total_: 40<br>
+_civil airports_: 8<br>
+_military airports_: 0<br>
+_joint use (civil-military) airports_: 3<br>
+_other airports_: 29<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
@@ -707,7 +711,7 @@ _LNG terminal(s) (export)_: Bonny Island<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Nigerian Armed Forces: Army, Navy (includes Coast Guard), Air Force<br><br>Ministry of Interior: Nigeria Security and Civil Defense Corps (NSCDC), Nigeria Police Force (NPF) (2023)<br>
+Armed Forces of Nigeria (AFN): Army, Navy (includes Coast Guard), Air Force<br><br>Ministry of Interior: Nigeria Security and Civil Defense Corps (NSCDC), Nigeria Police Force (NPF) (2023)<br>
 <strong>note 1: </strong>the NSCDC is a paramilitary agency commissioned to assist the military in the management of threats to internal security, including attacks and natural disasters<br><br><strong>note 2:</strong> the Office of the National Security Advisor is responsible for coordinating all security and enforcement agencies, including the Department of State Security (DSS), the NSCDC, the Ministry of Justice, and the NPF; border security responsibilities are shared among the NPF, the DSS, the NSCDC, Customs, Immigration, and the Nigerian military<br><br><strong>note 3: </strong>some states have created local security forces in response to increased violence, insecurity, and criminality that have exceeded the response capacity of government security forces<br>
 
 **Military expenditures**<br>
@@ -724,7 +728,7 @@ information varies; approximately 135,000 active-duty armed forces personnel (10
 the military's inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; the military is undergoing a considerable modernization program, and in recent years has received equipment from nearly 20 countries with China and Russia as the leading suppliers; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2023)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for men and women for voluntary military service; no conscription (2023)<br>
+18-26 years of age for voluntary military service for men and women; no conscription (2023)<br>
 
 **Military deployments**<br>
 175 Sudan/South Sudan (UNISFA); has about 200 police and military assigned to the MINUSMA mission in Mali (2023)<br>

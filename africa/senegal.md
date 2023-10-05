@@ -702,7 +702,7 @@ Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army, Senegale
 1.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 5,000 National Gendarmerie) (2023)<br>
+approximately 25,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 11,000 National Gendarmerie) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAS inventory includes mostly older or secondhand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program and has received small amounts of newer equipment from more than 10 countries, with France as the leading supplier (2023)<br>

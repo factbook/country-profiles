@@ -723,7 +723,7 @@ the military's inventory includes a wide mix of equipment from a variety of supp
 
 **Military service age and obligation**<br>
 18-24 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 18 months; conscripted soldiers reportedly include regular soldiers (conscripts without a high school degree), drafted high school graduates (bachilleres), and rural (campesino) soldiers who serve in their home regions (2023)<br>
-<strong>note 1:</strong> conscripts reportedly comprise about 50% of the Colombian military's active force with more than 50,000 conscripts brought into the military annually<br><br><strong>note 2:</strong> the Colombian military first incorporated women in 1976 in administrative positions; women were incorporated as non-commissioned officers in 1983 and officers in 2009; women comprise about 1% of the military<br>
+<strong>note 1:</strong> conscripts reportedly comprise about 50% of the Colombian military's active force with more than 50,000 conscripts brought into the military annually<br><br><strong>note 2:</strong> the Colombian military first incorporated women in 1976 in administrative positions; women were incorporated as non-commissioned officers in 1983 and officers in 2009; women comprised about 1% of the military in 2023<br>
 
 **Military deployments**<br>
 275 Egypt (MFO) (2023)<br>

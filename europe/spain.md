@@ -657,7 +657,11 @@ EC<br>
 135 (2021)<br>
 
 **Airports - with paved runways**<br>
-102<br>
+_total_: 102<br>
+_civil airports_: 28<br>
+_military airports_: 6<br>
+_joint use (civil-military) airports_: 13<br>
+_other airports_: 55<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
@@ -712,7 +716,7 @@ the military's inventory is comprised of domestically produced and imported West
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women; 24-36 month initial obligation; women allowed to serve in all branches, including combat units; no conscription (abolished 2001), but the Spanish Government retains the right to mobilize citizens 19-25 years of age in a national emergency; 18-58 for the voluntary reserves (2023)<br>
-<strong>note 1:</strong> as of 2019, women comprised about 13% of the military's full-time personnel<br><br><strong>note 2:</strong> the military recruits foreign nationals with residency in Spain from countries of its former empire, including Argentina, Costa Rica, Bolivia, Colombia, Chile, Cuba, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, and Venezuela<br>
+<strong>note 1:</strong> as of 2023, women comprised about 13% of the military's full-time personnel<br><br><strong>note 2:</strong> the military recruits foreign nationals with residency in Spain from countries of its former empire, including Argentina, Costa Rica, Bolivia, Colombia, Chile, Cuba, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, and Venezuela<br>
 
 **Military deployments**<br>
 approximately 200 Iraq (NATO/EU training assistance); up to 600 Latvia (NATO); 650 Lebanon (UNIFIL); approximately 200 Romania (NATO); approximately 500 Mali (EUTM); 150 Turkey (NATO) (2023)<br>
@@ -745,9 +749,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 438,400 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022); 186,125 (Ukraine) (as of 8 September 2023)<br>
+_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 438,400 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022); 190,380 (Ukraine) (as of 24 September 2023)<br>
 _stateless persons_: 6,489 (2022)<br>
-<strong>note: </strong>304,548 estimated refugee and migrant arrivals, including Canary Islands (January 2015-September 2023)<br>
+<strong>note: </strong>304,984 estimated refugee and migrant arrivals, including Canary Islands (January 2015-September 2023)<br>
 
 **Illicit drugs**<br>
 <p>a primary European transit point for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection or altered to escape detection Spanish chemists reconstitute it and distribute to Europe; minor domestic drug production; synthetic drugs, including ketamine, new psychoactive substances (NPS), and MDMA transit from Spain to the United States</p><br>

@@ -283,7 +283,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Charles A. SAVARIN (since 2 October 2013)<br>
+_chief of state_: President Sylvanie BURTON (since 2 October 2023)<br>
 _head of government_: Prime Minister Roosevelt SKERRIT (since 8 January 2004)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
 _elections/appointments_: president nominated by the prime minister and leader of the opposition party and elected by the House of Assembly for a 5-year term (eligible for a second term); election last held on 1 October 2018 (next to be held in October 2023); prime minister appointed by the president<br>
@@ -306,7 +306,7 @@ Dominica Freedom Party or DFP [Bernard HURTAULT]<br>Dominica Labor Party or DLP 
 ACP, AOSIS, C, Caricom, CD, CDB, CELAC, Commonwealth of Nations, ECCU, FAO, G-77, IAEA, IBRD, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Judith-Anne ROLLE (since 16 December 2021)<br>
+_chief of mission_: Ambassador Steve FERROL (since 15 September 2023)<br>
 _chancery_: 3216 New Mexico Ave NW Washington, DC 20016<br>
 _telephone_: [1] (202) 364-6781<br>
 _FAX_: [1] (202) 364-6791<br>

@@ -360,7 +360,7 @@ Christian Democratic Appeal or CDA [Wopke HOEKSTRA]<br>Christian Union or CU [Mi
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, Benelux, BIS, CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, UNOOSA, UNRWA, UN Security Council (temporary), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador&nbsp;Andre HASPELS&nbsp;(since 16 September 2019)<br>
+_chief of mission_: Ambassador Birgitta TAZELAAR (since 15 September 2023)<br>
 _chancery_: 4200 Linnean Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 244-5300<br>
 _FAX_: [1] (202) 362-3430<br>
@@ -656,7 +656,11 @@ PH<br>
 29 (2021)<br>
 
 **Airports - with paved runways**<br>
-23<br>
+_total_: 23<br>
+_civil airports_: 6<br>
+_military airports_: 5<br>
+_joint use (civil-military) airports_: 2<br>
+_other airports_: 10<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>

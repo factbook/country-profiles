@@ -643,7 +643,7 @@ approximately 1,500 active RBDF personnel (2023)<br>
 most of the RBDF's major equipment inventory is supplied by the Netherlands (2023)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary male and female service (18-60 for Reserves); no conscription (2023)<br>
+18-30 years of age for voluntary service for men and women (18-60 for Reserves); no conscription (2023)<br>
 
 **Military - note**<br>
 established in 1980; the RBDF's primary responsibilities are disaster relief, maritime security, and counter-narcotics operations; it also provides security at a detention center for migrants and performs some domestic security functions, such as guarding embassies; the RBDF is a naval force, but includes a lightly-armed marine infantry/commando squadron for base and internal security, as well as a few light non-combat aircraft; the maritime element has coastal patrol craft and patrol boats; the RBDF maintains training relationships with the UK and the US (2023)<br>

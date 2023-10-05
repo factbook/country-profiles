@@ -684,6 +684,7 @@ the RDF's inventory includes mostly Soviet-era and older Western--largely French
 
 **Military service age and obligation**<br>
 18 years of age for men and women for voluntary military service; no conscription; Rwandan citizenship is required; enlistment is either as contract (5-years, renewable twice) or career (2023)<br>
+note: as of 2022, women comprised approximately 6% of the Rwanda Defense Force<br>
 
 **Military deployments**<br>
 4,000 Central African Republic (approximately 2,800 for MINUSCA, including 700 police; an additional 1,200 troops sent separately under a bilateral arrangement to support and train Central African military forces); up to 3,000 Mozambique (deployed mid-2021 under a bilateral agreement to assist with combating an insurgency; includes both military and police forces); 2,600 (plus about 400 police) South Sudan (UNMISS) (2023)<br>

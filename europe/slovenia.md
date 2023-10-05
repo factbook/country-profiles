@@ -349,9 +349,9 @@ Democratic Party of Pensioners of Slovenia or DeSUS [Ljubo JASNIC]<br>Freedom Mo
 Australia Group, BIS, CD, CE, CEI, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Darja FERLEZ (since 5 June 2023)<br>
+_chief of mission_: Ambassador Iztok MIRO&Scaron;IČ (since 15 September 2023)<br>
 _chancery_: 2410 California Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 386-6601<br>
+_telephone_: [1] (202) 386-6611<br>
 _FAX_: [1] (202) 386-6633<br>
 _email address and website_: <br>sloembassy.washington@gov.si<br><br>http://www.washington.embassy.si/<br>
 _consulate(s) general_: Cleveland (OH)<br>
@@ -644,7 +644,11 @@ S5<br>
 16 (2021)<br>
 
 **Airports - with paved runways**<br>
-9<br>
+_total_: 9<br>
+_civil airports_: 3<br>
+_military airports_: 0<br>
+_joint use (civil-military) airports_: 1<br>
+_other airports_: 5<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
@@ -691,7 +695,7 @@ the military's inventory is a mix of Soviet-era and smaller quantities of more m
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service for men and women; must be a citizen of the Republic of Slovenia; recruits sign up for 3-, 5-, or 10-year service contracts; conscription abolished in 2003 (2023)<br>
-<strong>note:</strong> as of 2019, women comprised about 15% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2023, women comprised about 16% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 200 Kosovo (NATO); 100 Slovakia (NATO) (2023)<br>
@@ -706,7 +710,7 @@ the Slovenian Armed Forces (Slovenska Vojska or SV) are a small and professional
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,140 (Ukraine) (as of 4 September 2023)<br>
+_refugees (country of origin)_: 10,240 (Ukraine) (as of 25 September 2023)<br>
 _stateless persons_: 10 (2020)<br>
 <strong>note:  </strong>593,986 estimated refugee and migrant arrivals (January 2015-July 2023)<br>
 

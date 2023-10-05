@@ -327,7 +327,7 @@ _etymology_: the name is claimed to derive from either Kambera or Camberry, whic
 6 states and 2 territories*; Australian Capital Territory*, New South Wales, Northern Territory*, Queensland, South Australia, Tasmania, Victoria, Western Australia<br>
 
 **Dependent areas**<br>
-Ashmore and Cartier Islands, Christmas Island, Cocos (Keeling) Islands, Coral Sea Islands, Heard Island and McDonald Islands, Norfolk Island<br>
+Ashmore and Cartier Islands, Christmas Island, Cocos (Keeling) Islands, Coral Sea Islands, Heard Island and McDonald Islands, Norfolk Island (6)<br>
 
 **Independence**<br>
 1 January 1901 (from the federation of UK colonies)<br>
@@ -729,8 +729,8 @@ the military's inventory includes a mix of domestically produced and imported We
 <strong>note:</strong> in 2023, the Australian defense ministry announced a new strategic review that called for the acquisition of more long-range deterrence capabilities, including missiles, submarines, and cyber tools<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary military service (with parental consent); no conscription (abolished 1973); women allowed to serve in all roles, including combat arms, since 2013 (2022)<br>
-<strong>note 1:</strong> foreign nationals who are permanent residents, particularly New Zealanders, or those who have applied for citizenship or overseas candidates who have appropriate experience and qualifications from an overseas military can apply to join the ADF <br><br><strong>note 2:</strong> in 2020-2021, women comprised nearly 20% of the military<br>
+17 years of age for voluntary military service (with parental consent); no conscription (abolished 1973); women allowed to serve in all roles, including combat arms, since 2013 (2023)<br>
+<strong>note 1:</strong> foreign nationals who are permanent residents, particularly New Zealanders, or those who have applied for citizenship or overseas candidates who have appropriate experience and qualifications from an overseas military can apply to join the ADF <br><br><strong>note 2:</strong> in 2022, women comprised about 20% of the military<br>
 
 **Military deployments**<br>
 <strong>note: </strong>since the 1990s, Australia has deployed more than 30,000 personnel on nearly 100 UN peacekeeping and coalition military operations, including in Cambodia, Rwanda, the Solomon Islands, Somalia, and East Timor<br>

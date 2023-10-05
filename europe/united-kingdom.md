@@ -306,7 +306,7 @@ _etymology_: the name derives from the Roman settlement of Londinium, establishe
 <p><strong>England:</strong> 24 two-tier counties, 32 London boroughs and 1 City of London or Greater London, 36 metropolitan districts, 59 unitary authorities (including 4 single-tier counties*);</p> <p><strong>two-tier counties:</strong> Cambridgeshire, Cumbria, Derbyshire, Devon, East Sussex, Essex, Gloucestershire, Hampshire, Hertfordshire, Kent, Lancashire, Leicestershire, Lincolnshire, Norfolk, North Yorkshire, Nottinghamshire, Oxfordshire, Somerset, Staffordshire, Suffolk, Surrey, Warwickshire, West Sussex, Worcestershire</p> <p><strong>London boroughs and City of London or Greater London:</strong> Barking and Dagenham, Barnet, Bexley, Brent, Bromley, Camden, Croydon, Ealing, Enfield, Greenwich, Hackney, Hammersmith and Fulham, Haringey, Harrow, Havering, Hillingdon, Hounslow, Islington, Kensington and Chelsea, Kingston upon Thames, Lambeth, Lewisham, City of London, Merton, Newham, Redbridge, Richmond upon Thames, Southwark, Sutton, Tower Hamlets, Waltham Forest, Wandsworth, Westminster</p> <p><strong>metropolitan districts:</strong> Barnsley, Birmingham, Bolton, Bradford, Bury, Calderdale, Coventry, Doncaster, Dudley, Gateshead, Kirklees, Knowlsey, Leeds, Liverpool, Manchester, Newcastle upon Tyne, North Tyneside, Oldham, Rochdale, Rotherham, Salford, Sandwell, Sefton, Sheffield, Solihull, South Tyneside, St. Helens, Stockport, Sunderland, Tameside, Trafford, Wakefield, Walsall, Wigan, Wirral, Wolverhampton</p> <p><strong>unitary authorities:</strong> Bath and North East Somerset; Bedford; Blackburn with Darwen; Blackpool; Bournemouth, Christchurch and Poole; Bracknell Forest; Brighton and Hove; City of Bristol; Buckinghamshire; Central Bedfordshire; Cheshire East; Cheshire West and Chester; Cornwall; Darlington; Derby; Dorset; Durham County*; East Riding of Yorkshire; Halton; Hartlepool; Herefordshire*; Isle of Wight*; Isles of Scilly; City of Kingston upon Hull; Leicester; Luton; Medway; Middlesbrough; Milton Keynes; North East Lincolnshire; North Lincolnshire; North Northamptonshire; North Somerset; Northumberland*; Nottingham; Peterborough; Plymouth; Portsmouth; Reading; Redcar and Cleveland; Rutland; Shropshire; Slough; South Gloucestershire; Southampton; Southend-on-Sea; Stockton-on-Tees; Stoke-on-Trent; Swindon; Telford and Wrekin; Thurrock; Torbay; Warrington; West Berkshire; West Northamptonshire; Wiltshire; Windsor and Maidenhead; Wokingham; York</p> <p><strong>Northern Ireland:</strong> 5 borough councils, 4 district councils, 2 city councils;</p> <p><strong>borough councils:</strong> Antrim and Newtownabbey; Ards and North Down; Armagh City, Banbridge, and Craigavon; Causeway Coast and Glens; Mid and East Antrim</p> <p><strong>district councils:</strong> Derry City and Strabane; Fermanagh and Omagh; Mid Ulster; Newry, Murne, and Down</p> <p><strong>city councils:</strong> Belfast; Lisburn and Castlereagh</p> <p><strong>Scotland:</strong> 32 council areas;</p> <p><strong>council areas:</strong> Aberdeen City, Aberdeenshire, Angus, Argyll and Bute, Clackmannanshire, Dumfries and Galloway, Dundee City, East Ayrshire, East Dunbartonshire, East Lothian, East Renfrewshire, City of Edinburgh, Eilean Siar (Western Isles), Falkirk, Fife, Glasgow City, Highland, Inverclyde, Midlothian, Moray, North Ayrshire, North Lanarkshire, Orkney Islands, Perth and Kinross, Renfrewshire, Shetland Islands, South Ayrshire, South Lanarkshire, Stirling, The Scottish Borders, West Dunbartonshire, West Lothian</p> <p><strong>Wales:</strong> 22 unitary authorities;</p> <p><strong>unitary authorities:</strong> Blaenau Gwent, Bridgend, Caerphilly, Cardiff, Carmarthenshire, Ceredigion, Conwy, Denbighshire, Flintshire, Gwynedd, Isle of Anglesey, Merthyr Tydfil, Monmouthshire, Neath Port Talbot, Newport, Pembrokeshire, Powys, Rhondda Cynon Taff, Swansea, The Vale of Glamorgan, Torfaen, Wrexham</p><br>
 
 **Dependent areas**<br>
-Anguilla; Bermuda; British Indian Ocean Territory; British Virgin Islands; Cayman Islands; Falkland Islands; Gibraltar; Montserrat; Pitcairn Islands; Saint Helena, Ascension, and Tristan da Cunha; South Georgia and the South Sandwich Islands; Turks and Caicos Islands<br>
+Anguilla; Bermuda; British Indian Ocean Territory; British Virgin Islands; Cayman Islands; Falkland Islands; Gibraltar; Montserrat; Pitcairn Islands; Saint Helena, Ascension, and Tristan da Cunha; South Georgia and the South Sandwich Islands; Turks and Caicos Islands (12)<br>
 
 **Independence**<br>
 no official date of independence: 927 (minor English kingdoms unite); 3 March 1284 (enactment of the Statute of Rhuddlan uniting England and Wales); 1536 (Act of Union formally incorporates England and Wales); 1 May 1707 (Acts of Union formally unite England, Scotland, and Wales as Great Britain); 1 January 1801 (Acts of Union formally unite Great Britain and Ireland as the United Kingdom of Great Britain and Ireland); 6 December 1921 (Anglo-Irish Treaty formalizes partition of Ireland; six counties remain part of the United Kingdom and Northern Ireland); 12 April 1927 (Royal and Parliamentary Titles Act establishes current name of the United Kingdom of Great Britain and Northern Ireland)<br>
@@ -392,23 +392,23 @@ _selected World Heritage Site locales_: Giant's Causeway and Causeway Coast (n);
 ## Economy
 
 **Economic overview**<br>
-high-income, diversified non-EU European economy; sixth-largest importer and exporter globally; global financial and diplomatic leader; vulnerable private consumption-led growth; increased regional trade barriers post-Brexit; inflation hurting trade values<br>
+high-income, diversified non-EU European economy; sixth-largest importer and exporter; global financial and diplomatic leader; nominal consumption-led growth; high inflation and increased interest rates eroding purchasing power despite real wage growth<br>
 
 **Real GDP (purchasing power parity)**<br>
+$3.136 trillion (2022 est.)<br>
 $3.028 trillion (2021 est.)<br>
 $2.816 trillion (2020 est.)<br>
-$3.166 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
+4.1% (2022 est.)<br>
 7.52% (2021 est.)<br>
 -11.03% (2020 est.)<br>
-1.6% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$46,800 (2022 est.)<br>
 $45,000 (2021 est.)<br>
 $42,000 (2020 est.)<br>
-$47,400 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -658,7 +658,11 @@ G<br>
 460 (2021)<br>
 
 **Airports - with paved runways**<br>
-271<br>
+_total_: 271<br>
+_civil airports_: 51<br>
+_military airports_: 25<br>
+_joint use (civil-military) airports_: 1<br>
+_other airports_: 194<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Airports - with unpaved runways**<br>
