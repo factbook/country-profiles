@@ -360,7 +360,7 @@ _residency requirement for naturalization_: none<br>
 _chief of state_: Prime Minister, State Administration Council Chair, Sr. Gen. MIN AUNG HLAING (since 1 August 2021); note - the military took over the government on 1 February 2021 and declared a state of emergency<br>
 _head of government_: Prime Minister, State Administration Council Chair, Sr. Gen. MIN AUNG HLAING (since 1 August 2021)<br>
 _cabinet_: Cabinet appointments shared by the president and the commander-in-chief; note - after 1 February, the military junta replaced the Cabinet<br>
-_elections/appointments_: prior to the military takeover, president was indirectly elected by simple majority vote by the full Assembly of the Union from among 3 vice-presidential candidates nominated by the Presidential Electoral College (consists of members of the lower and upper houses and military members); the other 2 candidates become vice presidents (president elected for a 5-year term); election last held on 28 March 2018; the military junta pledged to hold new elections in 2023<br>
+_elections/appointments_: prior to the military takeover, president was indirectly elected by simple majority vote by the full Assembly of the Union from among 3 vice-presidential candidates nominated by the Presidential Electoral College (consists of members of the lower and upper houses and military members); the other 2 candidates become vice presidents (president elected for a 5-year term); election last held on 28 March 2018; the military junta pledged to hold new elections in 2023, but has repeatedly announced delays&nbsp;<br>
 _election results_: <em><br>2018</em>: WIN MYINT elected president in an indirect by-election held on 28 March 2018 after the resignation of HTIN KYAW; Assembly of the Union vote - WIN MYINT (NLD) 403, MYINT SWE (USDP) 211, HENRY VAN THIO (NLD) 18, 4 votes canceled (636 votes cast); note - WIN MYINT and other key leaders of the ruling NLD party were placed under arrest following the military takeover on 1 February 2021<br><br><em>2016</em>: Assembly of the Union vote - HTIN KYAW elected president; HTIN KYAW (NLD) 360, MYINT SWE (USDP) 213, HENRY VAN THIO (NLD) 79 (652 votes cast)<br>
 _state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note - under arrest since 1 February 2021; formerly served as Minister of Foreign Affairs and Minister for the Office of the President<br>
 <strong>note 1:</strong> a parliamentary bill creating the position of "state counsellor" was signed into law by former President HTIN KYAW on 6 April 2016; a state counsellor serves the equivalent term of the president and is similar to a prime minister in that the holder acts as a link between the parliament and the executive branch<br><br><strong>note 2:</strong> in July 2023, the junta announced a 6-month extension on the state of emergency in place since 2021, a move that further delayed elections that it had pledged to hold by August 2023<br>
@@ -391,7 +391,7 @@ _email address and website_: <br>washington-embassy@mofa.gov.mm<br><br>https://w
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Susan STEVENSON (since 10 July2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Susan STEVENSON (since 10 July 2023)<br>
 _embassy_: 110 University Avenue, Kamayut Township, Rangoon<br>
 _mailing address_: 4250 Rangoon Place, Washington DC&nbsp; 20521-4250<br>
 _telephone_: [95] (1) 753-6509<br>

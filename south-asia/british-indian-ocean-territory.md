@@ -139,7 +139,7 @@ the laws of the UK apply where applicable<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022)<br>
-_head of government_: Commissioner Paul CANDLER (since 8 July 2021); Administrator Kit PYMAN; note - both reside in the UK and are represented by Commander Steven R. DRYSDALE, RN, commanding British Forces on Diego Garcia (since 19 February 2021)<br>
+_head of government_: Commissioner Paul CANDLER (since 8 July 2021); Administrator Balraj DHANDA; note - both reside in the UK and are represented by Commander Colvin OSBORN, RN, Officer commanding British Forces on Diego Garcia (since January 2022)<br>
 _cabinet_: NA<br>
 _elections/appointments_: the monarchy is hereditary; commissioner and administrator appointed by the monarch<br>
 

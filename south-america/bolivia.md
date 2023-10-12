@@ -374,7 +374,7 @@ Community Citizen Alliance or ACC [Carlos Diego MESA Gisbert]<br>Movement Toward
 CAN, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, PCA, UN, UN Security Council (temporary), UNAMID, UNASUR, UNCTAD, UNESCO, UNHRC, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Maysa Rossana URENA MENACHO (since 1 September 2022)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Maysa Rossana URENA MENACHO (since 1 September 2022)&nbsp;<br>
 _chancery_: 3014 Massachusetts Ave., NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-4410<br>
 _FAX_: [1] (202) 328-3712<br>
@@ -382,7 +382,7 @@ _email address and website_: <br>embolivia.wdc@gmail.com<br><br>https://www.boli
 _consulate(s) general_: Houston, Los Angeles, Maple Grove (MN), Miami, New York, Washington, DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Chargé d'Affaires Charisse PHILLIPS (since August 2020)<br>
+_chief of mission_: Ambassador (vacant); Chargé d'Affaires Debra HEVIA (since September 2023)<br>
 _embassy_: Avenida Arce 2780, La Paz<br>
 _mailing address_: 3220 La Paz Place, Washington DC&nbsp; 20512-3220<br>
 _telephone_: [591] (2) 216-8000<br>
@@ -717,14 +717,14 @@ Bolivian Armed Forces (Fuerzas Armadas de Bolivia or FAB): Bolivian Army (Ejerci
 1.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimates range from 40,000 to as many as 70,000 active-duty military personnel; approximately 40,000 National Police (2023)<br>
+approximately 40,000 active-duty military personnel; approximately 40,000 National Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military is equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment; in recent years, France has been the leading supplier (2023)<br>
 
 **Military service age and obligation**<br>
 compulsory for all men between the ages of 18 and 22; men can volunteer from the age of 16, women from 18; service is for 12 months; Search and Rescue service can be substituted for citizens who have reached the age of compulsory military service; duration of this service is 24 months (2023)<br>
-<strong>note:</strong> foreign nationals 18-22 residing in Bolivia may join the armed forces; joining speeds the process of acquiring Bolivian citizenship by naturalization<br>
+<strong>note 1:</strong> foreign nationals 18-22 residing in Bolivia may join the armed forces; joining speeds the process of acquiring Bolivian citizenship by naturalization<br><br><strong>note 2:</strong> as of 2022, women comprised about 8% of the Bolivian military's personnel<br>
 
 **Military - note**<br>
 the Bolivian Armed Forces (FAB) are responsible for territorial defense but also have some internal security duties, particularly counternarcotics and border security; the FAB shares responsibility for border enforcement with the National Police (PNB), and it may be called out to assist the PNB with maintaining public order in critical situations; the Army is the largest service and is organized into 6 military regions and 10 divisional headquarters; most of the combat units are light, motorized, or mechanized infantry along with a sizeable contingent of mechanized, motorized, or horse cavalry; the Army also has a special operations command with airborne, ranger, and special forces units; the Air Force does not have any fighter aircraft but rather a small force of reconnaissance and transport aircraft and multirole helicopters <br><br>Bolivia has a small naval force for patrolling some 5,000 miles of navigable rivers to combat narcotics trafficking and smuggling, provide disaster relief, and deliver supplies to remote rural areas, as well as for maintaining a presence on Lake Titicaca; the Navy also exists in part to cultivate a maritime tradition and as a reminder of Bolivia’s desire to regain the access to the Pacific Ocean that the country lost to Chile in the War of the Pacific (1879-1884); every year on 23 March, the Navy participates in parades and government ceremonies commemorating the Día Del Mar (Day of the Sea) holiday that remembers the loss (2023)<br>

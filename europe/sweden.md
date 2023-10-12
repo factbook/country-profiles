@@ -341,7 +341,7 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Riksdag (349 seats; 310 members directly elected in multi-seat constituencies by open party-list proportional representation vote and 39 members in "at-large" seats directly elected by open party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 11 September 2022<br>
+_elections_: last held on 11 September 2022 (next to beheld on 13 September 2026)<br>
 _election results_: percent of vote by party - S/SAP 30.3%, M 19.1%, SD 20.5%, C 6.7%, V 6.7%, KD 5.3%, L 4.6%, MP 5.1%, other 1.7%; seats by party - S/SAP 107, M 68, SD 73, C 24, V 24, KD 19, L 16, MP 18; composition as of mid-2022 - men 188, women 161, percent of women 46%<br>
 
 **Judicial branch**<br>
@@ -744,6 +744,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 41,165 (Ukraine) (as of 21 September 2023)<br>
+_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 41,235 (Ukraine) (as of 28 September 2023)<br>
 _stateless persons_: 46,515 (2022); note - the majority of stateless people are from the Middle East and Somalia<br>
 

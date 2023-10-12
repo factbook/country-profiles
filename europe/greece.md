@@ -341,7 +341,7 @@ _judge selection and term of office_: Supreme Court judges appointed by presiden
 _subordinate courts_: Courts of Appeal and Courts of First Instance (district courts)<br>
 
 **Political parties and leaders**<br>
-Coalition of the Radical Left-Progressive Alliance or SYRIZA-PS (vacant)<br>Communist Party of Greece or KKE [Dimitrios KOUTSOUMBAS]<br>Course of Freedom [Zoe KONSTANTOPOULOU]<br>Democratic Patriotic Movement-Victory or NIKI [Dimitris NATSIOS]<br>Greek Solution [Kyriakos VELOPOULOS]<br>New Democracy or ND [Kyriakos MITSOTAKIS]<br>PASOK - Movement for Change or PASOK-KINAL [Nikolaos (Nikos) ANDROULAKIS]<br>Spartans [Vassilis STIGAS]<br>
+Coalition of the Radical Left-Progressive Alliance or SYRIZA-PS [Stefanos KASSELAKIS]<br>Communist Party of Greece or KKE [Dimitrios KOUTSOUMBAS]<br>Course of Freedom [Zoe KONSTANTOPOULOU]<br>Democratic Patriotic Movement-Victory or NIKI [Dimitris NATSIOS]<br>Greek Solution [Kyriakos VELOPOULOS]<br>New Democracy or ND [Kyriakos MITSOTAKIS]<br>PASOK - Movement for Change or PASOK-KINAL [Nikolaos (Nikos) ANDROULAKIS]<br>Spartans [Vassilis STIGAS]<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -722,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 25,050 (Ukraine) (as of 30 June 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,258,580 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
+<strong>note:</strong> 1,264,621 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

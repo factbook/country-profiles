@@ -323,7 +323,7 @@ Naadam (games) holiday (commemorates independence from China in the 1921 Revolut
 
 **Constitution**<br>
 _history_: several previous; latest adopted 13 January 1992, effective 12 February 1992<br>
-_amendments_: proposed by the State Great Hural, by the president of the republic, by the government, or by petition submitted to the State Great Hural by the Constitutional Court; conducting referenda on proposed amendments requires at least two-thirds majority vote of the State Great Hural; passage of amendments by the State Great Hural requires at least three-quarters majority vote; passage by referendum requires majority participation of qualified voters and a majority of votes; amended 1999, 2000, 2019<br>
+_amendments_: proposed by the State Great Hural, by the president of the republic, by the government, or by petition submitted to the State Great Hural by the Constitutional Court; conducting referenda on proposed amendments requires at least two-thirds majority vote of the State Great Hural; passage of amendments by the State Great Hural requires at least three-quarters majority vote; passage by referendum requires majority participation of qualified voters and a majority of votes; amended 1999, 2000, 2019, 2023; note - an amendment passed in a referendum held in May 2023 increased the seats in the State Great Hural from 76 to 126<br>
 
 **Legal system**<br>
 civil law system influenced by Soviet and Romano-Germanic legal systems; constitution ambiguous on judicial review of legislative acts<br>
@@ -348,9 +348,9 @@ _elections/appointments_: presidential candidates nominated by political parties
 _election results_: Ukhnaagiin KHURELSUKH elected president in first round; percent of vote - Ukhnaagiin KHURELSUKH (MPP) 72%, Dangaasuren ENKHBAT (RPEC) 21.6%, Sodnomzundui ERDENE (DP) 6.4%<br>
 
 **Legislative branch**<br>
-_description_: unicameral State Great Hural or Ulsyn Ikh Khural (76 seats; members directly elected in single-seat constituencies by simple majority vote; each constituency requires at least 50% voter participation for the poll to be valid; members serve 4-year terms)<br>
+_description_: unicameral State Great Hural or Ulsyn Ikh Khural (126 seats; 78 members directly elected in a selected constituency by simple majority vote and 48 members directly elected by proportional representation vote; members serve 4-year terms); note - a constitutional referendum passed in May 2023 increased the number of seats to 126 from 76<br>
 _elections_: last held on 24 June 2020 (next to be held in 2024)<br>
-_election results_: percent of vote by party - MPP 44.9%, DP 24.5%, Our Coalition 8.1%, independent 8.7%, Right Person Electorate Coalition 5.2%, other 8.5%; seats by party - MPP 62, DP 11, Our Coalition 1, Right Person Electorate Coalition 1; independent 1; composition -&nbsp; 63 men, 13 women; percent of women 17.1%<br>
+_election results_: percent of vote by party - MPP 44.9%, DP 24.5%, Our Coalition 8.1%, independent 8.7%, Right Person Electorate Coalition 5.2%, other 8.5%; seats by party - MPP 62, DP 11, Our Coalition 1, Right Person Electorate Coalition 1; independent 1; composition - 63 men, 13 women; percent of women 17.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the Chief Justice and 24 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tsets (consists of the chairman and 8 members)<br>

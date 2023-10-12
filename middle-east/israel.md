@@ -341,7 +341,7 @@ _election results_: <br><em>2021:</em> Isaac HERZOG elected president; Knesset v
 
 **Legislative branch**<br>
 _description_: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed party- list proportional representation vote, with a 3.25% vote threshold to gain representation; members serve 4-year terms)<br>
-_elections_: last held on 1 November 2022 (next scheduled for November 2026)<br>
+_elections_: last held on 1 November 2022 (next to be held in November 2026)<br>
 _election results_: percent by party - Likud 23.4%, Yesh Atid 17.8%, Religious Zionism (electoral alliance of Religious Zionist Party, Jewish Strength, and Noam) 10.8%, National Unity 9.1%, Shas 8.2%, UTJ 5.9%, Yisrael Beiteinu 4.5%, United Arab List 4.1%, Hadash-Ta'al 3.8%, Labor 3.7%, Meretz 3.2%, other 1.6%; seats by party - Likud 32, Yesh Atid 24, Religious Zionism 14, National Unity 12, Shas 11, UTJ 7, Yisrael Beiteinu 6, Hadash-Ta'al 5, United Arab List 5, Labor 4; composition - men 91, women 29, percentage of women 24.2%; note - following the 1 November 2022 election, the Religious Zionism Alliance split into three parties in the Knesset:&nbsp; Religious Zionism 7 seats, Jewish Power (Otzma Yehudit) 6, and Noam 1<br>
 
 **Judicial branch**<br>
@@ -724,7 +724,7 @@ has one of the most advanced space programs in the region; designs, builds, and 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); Popular Front for the Liberation of Palestine; Palestinian Islamic Jihad<br>
+Islamic State of Iraq and ash-Sham (ISIS); Popular Front for the Liberation of Palestine; Palestinian Islamic Jihad; HAMAS<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

@@ -332,7 +332,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Jos&eacute; RAMOS-HORTA (since May 2022); note - the president is commander in chief of the military and can veto legislation, dissolve parliament, and call national elections<br>
 _head of government_: Prime Minister Kay Rala Xanana GUSMAO (since 1 July 2023)<br>
 _cabinet_: Council of Ministers; ministers proposed to the prime minister by the coalition in the Parliament and sworn in by the President of the Republic<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last election held in April 2022; following parliamentary elections, the president appoints the leader of the majority party or majority coalition as the prime minister<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last election held in April 2022 (next election to be held April 2027); following parliamentary elections, the president appoints the leader of the majority party or majority coalition as the prime minister<br>
 _election results_: <br><em>2022</em>: José RAMOS-HORTA elected president in a runoff - RAMOS-HORTA (CNRT) 62.1%, Francisco GUTERRES (FRETILIN) 37.9%<br><br><em>2017</em>: Francisco GUTERRES (FRETILIN) 57.1%, António da CONCEICAO (PD) 32.46%<br>
 
 **Legislative branch**<br>
@@ -666,7 +666,7 @@ approximately 1,500-2,000 personnel (2023)<br>
 the military is lightly armed and has a limited inventory consisting of equipment donated by other countries; in recent years, it has received small amounts of donated equipment from China, South Korea, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; compulsory service was authorized in 2020 for men and women aged 18-30 for 18 months of service, but the level of implementation is unclear (2023)<br>
+18 years of age for voluntary military service for men and women; compulsory service was authorized in 2020 for men and women aged 18-30 for 18 months of service, but the level of implementation is unclear (2023)<br>
 
 **Military - note**<br>
 the small and lightly equipped F-FDTL has both external defense and internal security roles; it has two infantry battalions, a small air component, and a handful of naval patrol boats <br><br>since achieving independence, Timor-Leste has received security assistance from or has made defense cooperation arrangements with Australia, China, Indonesia, Malaysia, New Zealand, the Philippines, Portugal, the UN, and the US; some Defense Force personnel train with the Indonesian military and the two countries maintain a joint Border Security Task Force to jointly monitor and patrol the border, particularly the Oecussi exclave area where smuggling and trafficking are prevalent (2023)<br>

@@ -357,12 +357,12 @@ _residency requirement for naturalization_: 5 continuous years<br>
 _chief of state_: President Joko "Jokowi" WIDODO (since 20 October 2014); Vice President Ma'ruf AMIN (since 20 October 2019); note - the president is both chief of state and head of government<br>
 _head of government_: President Joko "Jokowi" WIDODO (since 20 October 2014); Vice President Ma'ruf AMIN (since 20 October 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on&nbsp;17 April 2019 (next election 2024)<br>
+_elections/appointments_: president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on 17 April 2019 (next to be held in 2024)<br>
 _election results_: <em><br>2019</em>: Joko WIDODO elected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%<br><br><em>2014</em>: Joko WIDODO elected president; percent of vote - Joko WIDODO (PDI-P) 53.15%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 46.85%<br>
 
 **Legislative branch**<br>
 _description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br>House of Representatives or Dewan Perwakilan Rakyat (575 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms)<br>
-_elections_: Regional Representative Council - last held on 17 April 2019 (next to be held 2024)<br>House of Representatives - last held on 17 April 2019 (next to be held 2024)<br>
+_elections_: Regional Representative Council - last held on 17 April 2019 (next to be held in 2024)<br>House of Representatives - last held on 17 April 2019 (next to be held in 2024)<br>
 _election results_: Regional Representative Council - all seats elected on a non-partisan basis; composition - men 102, women 34, percent of women 25%<br>House of Representatives - percent of vote by party - PDI-P 19.3%, Gerindra 12.6%, Golkar 12.3%, PKB 9.7%, Nasdem 9.1%, PKS 8.2%, PD 7.8%, PAN 6.8%, PPP 4.5%, other 9.6%; seats by party - PDI-P 128, Golkar 85, Gerindra 78, Nasdem 59, PKB 58, PD 54, PKS 50, PAN 44, PPP 19; composition - men 449, women 126, percent of women 21.9%; total People's Consultative Assembly percent of women 22.5%<br>
 
 **Judicial branch**<br>
@@ -717,11 +717,11 @@ Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-An
 <strong>note 1:</strong> in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coordinate the actions of all maritime security agencies, including the Navy, the Indonesian Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai, KPLP), the Water Police (Polair), Customs (Bea Cukai), and Ministry of Marine Affairs and Fisheries<br><br><strong>note 2: </strong>the Indonesian National Police, which reports directly to the president, includes a paramilitary Mobile Brigade Corps (BRIMOB); following the Bali terror bombing in 2002, the National Police formed a special counterterrorism force called Detachment 88 (Densus or Detasemen Khusus 88 Antiteror); Detachment 88 often works with the TNI's Joint Special Operations Command, which has counterterrorism and counterinsurgency units; the National Police are also bolstered by the KAMRA "People's Security" police auxiliaries<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2023 est.)<br>
 0.7% of GDP (2022 est.)<br>
 0.8% of GDP (2021)<br>
 0.8% of GDP (2020)<br>
 0.8% of GDP (2019)<br>
-0.7% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 400,000 active-duty troops (300,000 Army; 60,000 Navy, including about 20,000 marines; 30,000 Air Force) (2023)<br>

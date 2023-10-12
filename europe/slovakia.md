@@ -340,8 +340,8 @@ _election results_: <em><br>2019:</em> Zuzana CAPUTOVA elected president in seco
 
 **Legislative branch**<br>
 _description_: unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 30 September 2023<br>
-_election results_: percent of vote by party - SMER-SSD 22.9%, PS 18%, Hlas-SD 14.7%, OL'aNO 8.9%, KDH 6.8%, SaS 6.3%, SNS 5.6%; seats by party SMER-SSD 42, PS 32, Hlas-SD 27, OL'aNO 16, KDH 12, SaS 11, 10<br><br><em>2020</em>; percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina or SR 8.2%, LSNS 8%, SaS 6.2%, Za Ludi or ZL 5.8%, other 28.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12; composition (as of April 2023) - men 117, women 33, percent of women 22%<br>
+_elections_: last held on 30 September 2023; next election to be held in February 2024<br>
+_election results_: <br><em>2023:</em> percent of vote by party - SMER-SSD 23%, PS 18%, Hlas-SD 14.7%, OL'aNO 8.9%, KDH 6.8%, SaS 6.3%, SNS 5.6%; seats by party SMER-SSD 42, PS 32, Hlas-SD 27, OL'aNO 16, KDH 12, SaS 11, 10<br><br><em>2020</em>; percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina or SR 8.2%, LSNS 8%, SaS 6.2%, Za Ludi or ZL 5.8%, other 28.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12; composition (as of April 2023) - men 117, women 33, percent of women 22%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of the Slovak Republic (consists of the court president, vice president, and approximately 80 judges organized into criminal, civil, commercial, and administrative divisions with 3- and 5-judge panels); Constitutional Court of the Slovak Republic (consists of 13 judges organized into 3-judge panels)<br>

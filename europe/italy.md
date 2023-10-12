@@ -337,7 +337,7 @@ _election results_: <br><em>2022:</em> Sergio MATTARELLA (independent) reelected
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlamento consists of:<br>Senate or Senato della Repubblica (200 elected seats; 122 members in multi-seat constituencies directly elected by proportional representation vote, 74 members in single-seat constituencies directly elected by plurality vote, and 4 members in multi-seat constituencies abroad directly elected by proportional representation vote; all members serve 5-year terms)<br>Chamber of Deputies or Camera dei Deputati (400 seats; 245 members directly elected in multi-seat constituencies by proportional representation vote; 147 members directly elected in single-seat constituencies by plurality vote and 8 members in multi-seat constituencies abroad directly elected by proportional representation vote; members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 25 September 2022 (next to be held no later than December 2027)<br>Chamber of Deputies - last held on 25 September 2022; note - snap elections were called when Prime Minister DRAGHI resigned, and the parliament was dissolved on 21 July 2022 (next to be held 30 September 2027)<br>
+_elections_: <br>Senate - last held on 25 September 2022 (next to be held no later than December 2027)<br>Chamber of Deputies - last held on 25 September 2022; note - snap elections were called when Prime Minister DRAGHI resigned, and the parliament was dissolved on 21 July 2022 (next to be held on 30 September 2027)<br>
 _election results_: <br>Senate - percent of vote by party - NA; seats by party - center-right coalition (FdI 65, Lega 30, FI 18), center-left coalition (PD 40, AVS 3), M5S 28, Action-Italia Viva 9, SVP 2, MAIE 1, ScN 1; composition (as of September 2022) - men 131, women 69, percent of women 34.5%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - center-right coalition (FdI 119, Lega 66, FI 45), center-left coalition (PD 69, AVS 12, +EU 2), M5S 52, Action-Italia Viva 21, SVP 3, MAIE 1, ScN 1; composition (as of September 2022) - men 271, women 129, percent of women 32.3%; note - total Parliament percent of women 33%<br>
 <strong>note</strong>: in October 2019, Italy's Parliament voted to reduce the number of Senate seats from 315 to 200 and the number of Chamber of Deputies seats from 630 to 400; a referendum to reduce the membership of Parliament held on 20-21 September 2020 was approved, effective for the September 2022 snap election<br>
 
@@ -712,8 +712,8 @@ approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Fo
 the military's inventory includes a mix of domestically manufactured, imported, and jointly produced weapons systems, mostly from Europe and the US; in recent years, the US has been the lead supplier of military hardware to Italy; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in aircraft, armored vehicles, and naval vessels; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2023)<br>
 
 **Military service age and obligation**<br>
-17-25 years of age for voluntary military service for men and women (some variations on age depending on the military branch); voluntary service is a minimum of 12 months with the option to extend in the Armed Forces or compete for positions in the Military Corps of the Italian Red Cross, the State Police, the Carabinieri, the Guardia di Finanza, the Penitentiary Police, or the National Fire Brigade; recruits can also volunteer for 4 years military service; conscription abolished 2004 (2022)<br>
-<strong>note:</strong> women may serve in any military branch; as of 2019, women made up about 6% of the military's full-time personnel<br>
+17-25 years of age for voluntary military service for men and women (some variations on age depending on the military branch); voluntary service is a minimum of 12 months with the option to extend in the Armed Forces or compete for positions in the Military Corps of the Italian Red Cross, the State Police, the Carabinieri, the Guardia di Finanza, the Penitentiary Police, or the National Fire Brigade; recruits can also volunteer for 4 years military service; conscription abolished 2004 (2023)<br>
+<strong>note:</strong> women may serve in any military branch; as of 2020, women made up about 6% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 120 Djibouti; approximately 750 Bulgaria (NATO); approximately 1,000 Middle East (NATO, European Assistance Mission Iraq); 850 Kosovo (NATO/KFOR); 250 Latvia (NATO); 1,000 Lebanon (UNIFIL); 400 Libya; 350 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2023)<br>
@@ -748,7 +748,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 167,525 (Ukraine) (as of 1 September 2023)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 826,119 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
+<strong>note:</strong> 833,841 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 
 **Illicit drugs**<br>
 <p>important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe</p><br>

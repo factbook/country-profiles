@@ -328,11 +328,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Egils LEVITS (since 8 July 2019)<br>
+_chief of state_: President Edgars RINKEVICS (since 8 July 2023)<br>
 _head of government_: Prime Minister Evika SILINA (since 15 September 2023)<br>
 _cabinet_: Cabinet of Ministers nominated by the prime minister, appointed by Parliament<br>
-_elections/appointments_: president indirectly elected by Parliament for a 4-year term (eligible for a second term); election last held on 29 May 2019 (next to be held in 2023); prime minister appointed by the president, confirmed by Parliament<br>
-_election results_: <em><br>2019:</em> Egils LEVITS elected president; Parliament vote - Egils LEVITS 61, Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39<br><br><em>2015: </em>Raimonds VEJONIS elected president; Parliament vote - Raimonds VEJONIS (Latvian Green Party) 55, Egils LEVITS (NA) 42<br>
+_elections/appointments_: president indirectly elected by Parliament for a 4-year term (eligible for a second term); election last held on 31 May 2023 (next to be held in 2027); prime minister appointed by the president, confirmed by Parliament<br>
+_election results_: <em><br>2023: </em>Edgars RINKEVICS elected president; Parliament vote - Edgars RINKEVICS 52, Uldis Pīlēns 25 third round on 31 May 2023<br><em><br>2019:</em> Egils LEVITS elected president; Parliament vote - Egils LEVITS 61, Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39<br>
 <strong>note:</strong> on 15 September 2023, Parliament voted 53-39 to approve Prime Minister Evika SILINA<br>
 
 **Legislative branch**<br>

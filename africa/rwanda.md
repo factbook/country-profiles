@@ -351,7 +351,7 @@ _election results_: <br><em>2017:</em> Paul KAGAME reelected president; Paul KAG
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br><br>Senate or Senat (26 seats; 12 members indirectly elected by local councils, 8 appointed by the president, 4 appointed by the Political Organizations Forum - a body of registered political parties, and 2 selected by institutions of higher learning; members serve 8-year terms)<br><br>Chamber of Deputies or Chambre des Deputes (80 seats; 53 members directly elected by proportional representation vote, 24 women selected by special interest groups, and 3 selected by youth and disability organizations; members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 16-18 September 2019 (next to be held in 2027)<br>Chamber of Deputies - last held on 3 September 2018 (next to be held in September 2023)<br>
+_elections_: <br>Senate - last held on 16-18 September 2019 (next to be held in 2027)<br>Chamber of Deputies - last held on 3 September 2018 (next to be held in August 2024)<br>
 _election results_: <p>Senate - percent of vote by party - NA; seats by party - NA; composition - men 17, women 9, percent of women 34.6%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - Rwandan Patriotic Front Coalition 40, PSD 5, PL 4, other 4 indirectly elected 27; composition - men 31, women 49, percent of women 54.7%; note - total Parliament percent of women 54.7%</p> <p> </p><br>
 
 **Judicial branch**<br>
@@ -707,6 +707,6 @@ has a small program focused on developing and utilizing space technologies, such
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 79,569 (Democratic Republic of the Congo), 48,029 (Burundi) (2023)<br>
+_refugees (country of origin)_: 79,569 (Democratic Republic of the Congo), 48,133 (Burundi) (2023)<br>
 _stateless persons_: 9,500 (2022)<br>
 

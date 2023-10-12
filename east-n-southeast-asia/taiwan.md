@@ -603,11 +603,11 @@ Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force<br><br>Ocean 
 <strong>note: </strong>the CGA is a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime; it was established in 2000 from the integration of the Coast Guard Command (formerly under the Ministry of Defense), the Marine Police Bureau (formerly under the National Police), and several cutters from the Taiwan Directorate General of Customs (Ministry of Finance)<br>
 
 **Military expenditures**<br>
-2% of GDP (2022 est.)<br>
+2.1% of GDP (2023 est.)<br>
+2.1% of GDP (2022)<br>
 2.1% of GDP (2021)<br>
 2.1% of GDP (2020)<br>
 1.8% of GDP (2019)<br>
-1.7% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 170,000 active-duty troops (90,000 Army; 40,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2023)<br>

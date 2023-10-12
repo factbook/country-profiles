@@ -363,7 +363,7 @@ _email address and website_: <br>echile.eeuu@minrel.gob.cl<br><br>https://chile.
 _consulate(s) general_: Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Richard H. GLENN (since August 2020)<br>
+_chief of mission_: Ambassador Bernadette M. MEEHAN (since 30 September 2022)<br>
 _embassy_: Avenida Andres Bello 2800, Las Condes, Santiago<br>
 _mailing address_: 3460 Santiago Place, Washington DC&nbsp; 20521-3460<br>
 _telephone_: [56] (2) 2330-3000<br>

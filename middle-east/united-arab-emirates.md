@@ -322,13 +322,13 @@ limited; note - rulers of the seven emirates each select a proportion of voters 
 _chief of state_: President MUHAMMAD BIN ZAYID Al-Nuhayyan (since 14 May 2022); Co-Vice President MUHAMMAD BIN RASHID Al-Maktum (since 5 January 2006); Co-Vice President MANSUR bin Zayid Al-Nuhayyan (since 29 March 2023); Crown Prince KHALID bin Muhammad Al-Nuhayyan, the eldest son of the monarch, born 14 November 1982; note - MUHAMMAD BIN ZAYID Al-Nuhayyan elected president by the Federal Supreme Council following the death of President KHALIFA bin Zayid Al-Nuhayyan on 13 May 2022<br>
 _head of government_: Prime Minister and Co-Vice President MUHAMMAD BIN RASHID Al-Maktum (since 5 January 2006); Deputy Prime Ministers SAIF bin Zayid Al-Nuhayyan, MANSUR bin Zayid Al-Nuhayyan (both since 11 May 2009), and MAKTUM bin Muhammad bin Rashid Al-Maktum (since 25 September 2021)<br>
 _cabinet_: Council of Ministers announced by the prime minister and approved by the president<br>
-_elections/appointments_: president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); unscheduled election held on 14 May 2022, following the death of President KHALIFA bin Zayid Al-Nuhayyan (next election NA); prime minister and deputy prime minister appointed by the president<br>
+_elections/appointments_: president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); unscheduled election held on 14 May 2022, following the death of President KHALIFA bin Zayid Al-Nuhayyan (next election expected in 2027); prime minister and deputy prime minister appointed by the president<br>
 _election results_: MUHAMMAD BIN ZAYID Al-Nuhayyan elected president; Federal Supreme Council vote - NA<br>
 <strong>note:</strong> the Federal Supreme Council (FSC) is composed of the 7 emirate rulers and is the highest constitutional authority in the UAE; the FSC establishes general policies and sanctions federal legislation; meets 4 times a year; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) rulers have effective veto power<br>
 
 **Legislative branch**<br>
 _description_: unicameral Federal National Council (FNC) or Majlis al-Ittihad al-Watani (40 seats; 20 members indirectly elected using single non-transferable vote by an electoral college whose members are selected by each emirate ruler proportional to its FNC membership, and 20 members appointed by the rulers of the 7 constituent states; members serve 4-year terms)<br>
-_elections_: last held for indirectly elected members on 5 October 2019 (next to be held in October 2023)<br>
+_elections_: last held for indirectly elected members on 7 October 2023 (next to be held in October 2027); last held for appointed members in October 2019 (next appointments expected in late 2023)<br>
 _election results_: all candidates ran as independents; seats by emirate - Abu Dhabi 4, Dubai 4, Sharjah 3, Ras al-Khaimah 3, Ajman 2, Fujairah 2, Umm al-Quwain 2; composition (preliminary) - 13 men, 7 women, percent of elected women 35%; note - to attain overall FNC gender parity, 13 women and 7 men will be appointed; overall FNC percent of women 50%<br>
 
 **Judicial branch**<br>
@@ -682,8 +682,8 @@ approximately 65,000 active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air
 the military's inventory is comprised of a wide variety of mostly modern imported equipment; over the past decade, the UAE has acquired military equipment from more than 20 countries with the US as the leading supplier; in recent years, the UAE has tried to boost its domestic defense industry (2023)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for compulsory military service for men (compulsory service initiated in 2014); 18-40 for voluntary service; 36-month service obligation for men without a secondary education and 11 months for secondary school graduates; women may volunteer (11-month service obligation regardless of education)  (2023)<br>
-<strong>note 1:</strong> compulsory service may be completed in the uniformed military, the Ministry of Interior, or other security institutions designated by the military leadership<br><br><strong>note 2:</strong> the UAE military employs a considerable number—estimates range from a low of about 30% to as much as 70% of the force—of foreign personnel on contract<br>
+18-30 years of age for compulsory military service for men (compulsory service initiated in 2014); 18-40 for voluntary service; 36-month service obligation for men without a secondary education and 11 months for secondary school graduates; women may volunteer (11-month service obligation regardless of education) (2023)<br>
+<strong>note 1:</strong> compulsory service may be completed in the uniformed military, the Ministry of Interior, or other security institutions designated by the military leadership<br><br><strong>note 2:</strong> the UAE military employs a considerable number of foreign personnel on contracted service<br>
 
 **Military deployments**<br>
 continues to maintain a small force in Yemen; also maintains some troops at military bases in Eritrea and Somalia (Somaliland) (2023)<br>

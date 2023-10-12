@@ -366,7 +366,7 @@ _FAX_: [1] (202) 797-8521<br>
 _email address and website_: <br>recepcion@usadc.embacuba.cu<br><br>https://misiones.cubaminrex.cu/en/usa/embassy-cuba-usa<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Timothy ZUNIGA-BROWN (since 31 July 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Benjamin G. ZIFF (since 14 July 2022)<br>
 _embassy_: Calzada between L &amp; M Streets, Vedado, Havana<br>
 _mailing address_: 3200 Havana Place, Washington DC&nbsp; 20521-3200<br>
 _telephone_: [53] (7) 839-4100<br>

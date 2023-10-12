@@ -326,7 +326,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President THARMAN Shanmugaratnam (since 14 September 2023)<br>
 _head of government_: Prime Minister LEE Hsien Loong (since 12 August 2004)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 13 September 2017 (next to be held on 1 Septembere 2023); following legislative elections, the leader of the majority party or majority coalition appointed prime minister by the president; deputy prime ministers appointed by the president<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 13 September 2017 (next to be held on 1 September 2023); following legislative elections, the leader of the majority party or majority coalition appointed prime minister by the president; deputy prime ministers appointed by the president<br>
 _election results_: <em>2023: </em>THARMAN Shanmugaratnam elected president; percent of vote - THARMAN (independent) 70.4%, Ng Kok Song (independent) 15.7%, Tan Kin Lian (independent) 13.9%; turnout is 93.4%<br><em><br>2017</em>: HALIMAH Yacob declared president on 13 September 2017, being the only eligible candidate<br><br><em>2011</em>: Tony TAN Keng Yam elected president; percent of vote - Tony TAN Keng Yam (independent) 35.2%, TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%<br>
 
 **Legislative branch**<br>
@@ -669,7 +669,7 @@ Singapore Armed Forces (SAF; aka Singapore Defense Force): Singapore Army, Repub
 <strong>note 1: </strong>the Digital and Intelligence Service (DIS) was stood up as the fourth SAF service in October of 2022<strong><br><br>note 2:</strong> the Gurkha Contingent of the Singapore Police Force (GCSPF) is a paramilitary unit for riot control and acts as a rapid reaction force <strong><br></strong><br><strong>note 3:</strong> in 2009, Singapore established a multi-agency national Maritime Security Task Force (MSTF) to work with law enforcement and maritime agencies to guard Singapore’s waters, including conducting daily patrols, as well as boarding and escort operations in the Singapore Strait; the MSTF is subordinate to the Singapore Navy<br>
 
 **Military expenditures**<br>
-2.9% of GDP (2022 est.)<br>
+3% of GDP (2022 est.)<br>
 3% of GDP (2021 est.)<br>
 3% of GDP (2020)<br>
 2.9% of GDP (2019)<br>

@@ -286,7 +286,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Sylvanie BURTON (since 2 October 2023)<br>
 _head of government_: Prime Minister Roosevelt SKERRIT (since 8 January 2004)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
-_elections/appointments_: president nominated by the prime minister and leader of the opposition party and elected by the House of Assembly for a 5-year term (eligible for a second term); election last held on 1 October 2018 (next to be held in October 2023); prime minister appointed by the president<br>
+_elections/appointments_: president nominated by the prime minister and leader of the opposition party and elected by the House of Assembly for a 5-year term (eligible for a second term); election last held on 27 September 2023 (next to be held in October 2028); prime minister appointed by the president<br>
 _election results_: 27 September 2023, parliament elects Sylvanie BURTON (DLP) with 20 votes for and five against; takes office on 2 October 2023<br>
 
 **Legislative branch**<br>

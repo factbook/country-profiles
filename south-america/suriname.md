@@ -356,7 +356,7 @@ _email address and website_: <br>amb.vs@gov.sr<br><br>https://surinameembassy.or
 _consulate(s) general_: Miami<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Robert J. FAUCHER (since 20 November 2018)<br>
+_chief of mission_: Ambassador Robert J. FAUCHER (since 31 January 2023)<br>
 _embassy_: 165 Kristalstraat, Paramaribo<br>
 _mailing address_: 3390 Paramaribo Place, Washington DC&nbsp; 20521-3390<br>
 _telephone_: [597] 556-700<br>

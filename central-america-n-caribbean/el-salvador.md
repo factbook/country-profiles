@@ -359,7 +359,7 @@ _email address and website_: infoEEUU@rree.gob.sv<br>
 _consulate(s) general_: Atlanta, Boston, Brentwood (NY), Charlotte, Chicago, Dallas, Denver, Houston, Las Vegas (NV), Laredo (TX), Los Angeles, McAllen (TX), New York, San Bernardino (CA), San Francisco, Tucson (AZ), Washington (DC), Woodbridge (VA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Patrick H. VENTRELL<br>
+_chief of mission_: Ambassador William H. DUNCAN (since 24 January 2023)<br>
 _embassy_: Final Boulevard Santa Elena, Antiguo Cuscatlan, La Libertad, San Salvador<br>
 _mailing address_: 3450 San Salvador Place, Washington, DC 20521-3450<br>
 _telephone_: [503] 2501-2999<br>

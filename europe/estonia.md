@@ -340,8 +340,8 @@ _election results_: <em><br>2021</em>: Alar KARIS (independent) elected presiden
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Riigikogu (101 seats; members directly elected in multi-seat constituencies by open- list proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 5 March 2023<br>
-_election results_: <em>2023:</em> percent of vote by party - Reform 31.2%, EKRE 16.1%, Center 15.3%, E200 13.3%, SDE 9.3%, Pro Patria 8.2%, Left 2.4%, Right 2.3%, Greens 1.0%; seats by party - Reform 37, EKRE 17, Center 16, E200 14, SDE 9, Pro Patria 8; composition - men 71, women 30, percent of women 29.7%<br>
+_elections_: last held on 5 March 2023; next elections 7 March 2027<br>
+_election results_: <em><br>2023:</em> percent of vote by party - Reform 31.2%, EKRE 16.1%, Center 15.3%, E200 13.3%, SDE 9.3%, Pro Patria 8.2%, Left 2.4%, Right 2.3%, Greens 1.0%; seats by party - Reform 37, EKRE 17, Center 16, E200 14, SDE 9, Pro Patria 8; composition - men 71, women 30, percent of women 29.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 19 justices, including the chief justice, and organized into civil, criminal, administrative, and constitutional review chambers)<br>

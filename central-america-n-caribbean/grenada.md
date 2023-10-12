@@ -303,7 +303,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (13 seats; members appointed by the governor general - 10 on the advice of the prime minister and 3 on the advice of the leader of the opposition party; members serve 5-year terms)<br>House of Representatives (15 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last appointments on 3 August 2022 (next no later than 2027)<br>House of Representatives - last held on 23 June 2022 (next no later than 2027)<br>
+_elections_: Senate - last appointments on 3 August 2022 (next to be held no later than 2027)<br>House of Representatives - last held on 23 June 2022 (next to be held no later than 2027)<br>
 _election results_: Senate - percent by party - NA; seats by party - NDC 7, NNP 3, independents 3<br>House of Representatives - percent of vote by party - NDC 51.8%; NNP 47.8%; other 0.4%; seats by party - NDC 9; NNP 6<br>
 
 **Judicial branch**<br>

@@ -352,7 +352,7 @@ _election results_: <br><em>2021:</em> Patrice TALON elected to a second term; p
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (109 seats, including 24 seats reserved for women; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms except for the current members whose terms will end in 2026 to facilitate general elections)<br>
-_elections_: last held on 8 January 2023 (next to be held 11 January 2027)<br>
+_elections_: last held on 8 January 2023 (next to be held on 11 January 2027)<br>
 _election results_: percent of vote by party - Progressive Union for Renewal 37.6%, Bloc Republicain 29.2%, The Democrats 24%; seats by party - Progressive Union for Renewal 53, Bloc Republicain 28, The Democrats 28; composition as of May 2023 - men 80, women 29, percent of women 26.6%<br>
 
 **Judicial branch**<br>

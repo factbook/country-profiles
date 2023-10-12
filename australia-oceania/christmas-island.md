@@ -206,7 +206,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 
 **Legislative branch**<br>
 _description_: unicameral Christmas Island Shire Council (9 seats; members directly elected by simple majority vote to serve 4-year terms)<br>
-_elections_: held every 2 years with half the members standing for election; last held in October 2021 (next to be held in October 2023)<br>
+_elections_: held every 2 years with half the members standing for election; last held in October 2021 (next to be held in 21 October 2023)<br>
 _election results_: percent of vote - NA; seats by party - independent 9; composition as of 17 October 2021 - men 8, women 1, percent of women 11.1%<br>
 
 **Judicial branch**<br>

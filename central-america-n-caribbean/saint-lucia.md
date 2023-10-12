@@ -314,7 +314,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 
 **Legislative branch**<br>
 _description_: bicameral Houses of Parliament consists of:<br>Senate (11 seats; all members appointed by the governor general; 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 2 upon consultation with religious, economic, and social groups; members serve 5-year terms)<br>House of Assembly (18 seats; 17 members directly elected in single-seat constituencies by simple majority vote and the speaker, designated from outside the Parliament; members serve 5-year terms)<br>
-_elections_: Senate - last appointments on 17 August 2021 (next in 2026)<br>House of Assembly - last held on 26 July 2021 (next to be held in 2026)<br>
+_elections_: Senate - last appointments on 17 August 2021 (next to be held in 2026)<br>House of Assembly - last held on 26 July 2021 (next to be held in 2026)<br>
 _election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 6, women 5, percent of women 45.5%<br>House of Assembly - percent of vote by party - SLP 50.1%, UWP 42.9%, other o.3%, independent 6.6%; seats by party - SLP 13, UWP 2, independent 2; composition (including the speaker) - men 16, women 2, percent of women 11.1%; note - total Parliament percent of women 24.1%<br>
 
 **Judicial branch**<br>

@@ -361,7 +361,7 @@ _email address and website_: <br>info@embassyofpanama.org<br><br>https://www.emb
 _consulate(s) general_: Houston, Miami, Los Angeles, New Orleans, New York, Philadelphia, Tampa, Washington DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant), Charg&eacute; d'Affaires Stewart TUTTLE (since August 2020)<br>
+_chief of mission_: Ambassador Mari Carmen APONTE (since 21 November 2022)<br>
 _embassy_: Building 783, Demetrio Basilio Lakas Avenue, Clayton<br>
 _mailing address_: 9100 Panama City PL, Washington, DC 20521-9100<br>
 _telephone_: [507] 317-5000<br>

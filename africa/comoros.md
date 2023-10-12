@@ -326,9 +326,9 @@ _elections/appointments_: president directly elected by absolute majority vote i
 _election results_: <em><br>2019</em>: AZALI Assoumani (CRC) elected president in first round - AZALI Assoumani (CRC) 60.8%, Ahamada MAHAMOUDOU (PJ) 14.6%, Mouigni Baraka Said SOILIHI (independent) 5.6%, other 19%<br><br><em>2016:</em> AZALI Assoumani (CRC) elected president in the second round; percent of vote in first round - Mohamed Ali SOILIHI (UPDC) 17.6%, Mouigni BARAKA (RDC) 15.1%, AZALI Assoumani (CRC) 15%, Fahmi Said IBRAHIM (PEC) 14.5%, other 37.8%; percent of vote in second round - AZALI Assoumani (CRC) 41.4%, Mohamed Ali SOILIHI (UPDC) 39.7%; Mouigni BARAKA (RDC) 19%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly of the Union (33 seats; 24 members directly elected by absolute majority vote in 2 rounds if needed and 9 members indirectly elected by the 3 island assemblies; members serve 5-year terms) (2017)<br>
-_elections_: last held on&nbsp;19 January 2020 with a runoff on 23&nbsp;February 2020 (next to be held in 2025) (2020)<br>
-_election results_: percent of vote by party - 1st round - CRC 60.9%, Orange Party 4.3%, Independents 30.8%, other 4%; 2nd round - CRC 54.1%, Orange Party 18.9%, Independents 26.1%, other 1%; seats by party - 1st round -  CRC 16, Orange Party 1, Independents 2; 2nd round - CRC 4, Orange Party 1; note - 9 additional seats filled by the 3 island assemblies; composition for elected members as of 2022 - men 20, women 4, percent of women 16.7%<br> <h3> </h3> (2022)<br>
+_description_: unicameral Assembly of the Union (33 seats; 24 members directly elected by absolute majority vote in 2 rounds if needed and 9 members indirectly elected by the 3 island assemblies; members serve 5-year terms)<br>
+_elections_: last held on&nbsp;19 January 2020 with a runoff on 23&nbsp;February 2020 (next to be held in 2025)<br>
+_election results_: percent of vote by party - 1st round - CRC 60.9%, Orange Party 4.3%, Independents 30.8%, other 4%; 2nd round - CRC 54.1%, Orange Party 18.9%, Independents 26.1%, other 1%; seats by party - 1st round -  CRC 16, Orange Party 1, Independents 2; 2nd round - CRC 4, Orange Party 1; note - 9 additional seats filled by the 3 island assemblies; composition for elected members as of 2022 - men 20, women 4, percent of women 16.7%<br> <h3> </h3><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of 7 judges)<br>

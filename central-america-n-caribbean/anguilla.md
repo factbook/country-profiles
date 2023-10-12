@@ -247,7 +247,7 @@ see United Kingdom<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Dileeni DANIEL-SELVARATNAM<br>(since 18 January 2021)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Julia CROUCH<br>(since 11 September 2023)<br>
 _head of government_: Premier Dr. Ellis WEBSTER (since 30 June 2020); note -&nbsp; starting in 2019, the title of head of government was changed to premier from chief minister of Anguilla<br>
 _cabinet_: Executive Council appointed by the governor from among elected members of the House of Assembly<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>

@@ -391,7 +391,7 @@ _email address and website_: <br>Webadmin@embassyofperu.us<br><br>Embassy of Per
 _consulate(s) general_: Atlanta, Boston, Chicago, Dallas, Denver, Hartford (CT), Houston, Los Angeles, Miami, New York, Paterson (NJ), San Francisco, Washington DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Lisa Suzanne KENNA (since 18 March 2021)<br>
+_chief of mission_: Ambassador (vacant); Chargé d’Affaires John T. MCNAMARA (since 8 September 2023)<br>
 _embassy_: Avenida La Encalada, Cuadra 17 s/n, Surco, Lima 33<br>
 _mailing address_: 3230 Lima Place, Washington DC&nbsp; 20521-3230<br>
 _telephone_: [51] (1) 618-2000<br>

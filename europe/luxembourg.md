@@ -326,14 +326,14 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: Grand Duke HENRI (since 7 October 2000); Heir Apparent Prince GUILLAUME (son of the monarch, born 11 November 1981)<br>
-_head of government_: Prime Minister Xavier BETTEL (since 4 December 2013); Deputy Prime Minister Francois BAUSCH (since 11 October 2019); Deputy Prime Minister Daniel KERSCH (since 4 February 2020)<br>
+_head of government_: Prime Minister Xavier BETTEL (since 4 December 2013) (As of 9 October 2023 - Acting as Caretaker until new government is formed); Deputy Prime Minister Francois BAUSCH (since 11 October 2019); Deputy Prime Minister Daniel KERSCH (since 4 February 2020)<br>
 _cabinet_: Council of Ministers recommended by the prime minister, appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following elections to the Chamber of Deputies, the leader of the majority party or majority coalition usually appointed prime minister by the monarch; deputy prime minister appointed by the monarch; prime minister and deputy prime minister are responsible to the Chamber of Deputies<br>
 
 **Legislative branch**<br>
 _description_: unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms); note - a 21-member Council of State appointed by the Grand Duke on the advice of the prime minister serves as an advisory body to the Chamber of Deputies<br>
-_elections_: last held on 14 October 2018 (next to be held by 31 October 2023)<br>
-_election results_: percent of vote by party - CSV 35%, DP 20%, LSAP 16.7%, Green Party 15%, ADR 6.7%, Pirate Party 3.3%, The Left 3.3%; seats by party - CSV 21, DP 12, LSAP 10, Green Party 9, ADR 4, Pirate Party 2, The Left 2; composition (as of July 2023) - men 39, women 21, percent of women 35%<br>
+_elections_: last held on 8 October 2023 (next to be held by 31 October 2028)<br>
+_election results_: percent of vote by party - CSV 29.2%, LSAP 18.9%, DP 18.7%, ADR 9.3%, Green Party 8.6%, Pirate Party 6.7%, The Left 3.9%; seats by party - CSV 21, DP 14, LSAP 11, ADR 5, Green Party 4, Pirate Party 3, The Left 2; composition (as of October 2023) - men 39, women 21, percent of women 35%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice includes Court of Appeal and Court of Cassation (consists of 27 judges on 9 benches); Constitutional Court (consists of 9 members)<br>

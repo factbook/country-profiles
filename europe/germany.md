@@ -732,7 +732,7 @@ the German Federal Armed Forces inventory is comprised of weapons systems produc
 <strong>note:</strong> women have been eligible for voluntary service in all military branches and positions since 2001 and accounted for about 12% of the active-duty German military in 2023<br>
 
 **Military deployments**<br>
-up to 500 Iraq (NATO); up to 1,400 Lithuania (NATO); approximately 1,100 Mali (MINUSMA/EUTM); 100 Niger; 280 Slovakia (NATO) (2023)<br>
+up to 500 Iraq (NATO); up to 1,400 Lithuania (NATO); up to 1,000 Mali (MINUSMA/EUTM); 100 Niger; 280 Slovakia (NATO) (2023)<br>
 <strong>note 1: </strong>in November 2022, Germany pledged to withdraw its troops from Mali by Spring 2024<br><br><strong>note 2: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>

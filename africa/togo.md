@@ -353,7 +353,7 @@ _election results_: <br><em>2020:</em> Faure GNASSINGBE reelected president; per
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (91 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms); party lists are required to contain equal numbers of men and women<br>
-_elections_: last held on 20 December 2018 (next to be held in 2023)<br>
+_elections_: last held on 20 December 2018 (next to be held on 31 December 2023)<br>
 _election results_: percent of vote by coalition/party - NA; seats by party - UNIR 59, UFC 7, NET 3, MPDD 2, MRC 1, PDP 1, independent 18; composition - men 76, women 15, percent of women 16.5%<br>
 
 **Judicial branch**<br>
@@ -703,7 +703,8 @@ estimated 15,000 active-duty personnel, including approximately 3,000 Gendarmeri
 the FAT has a small, mixed inventory of mostly older equipment from a variety of countries; in recent years, it has received limited amounts of equipment from several suppliers, including France, Russia, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for military service; 24-month service obligation; no conscription; women have been able to serve since 2007 (2023)<br>
+18 years of age for military service for men and women; 24-month service obligation; no conscription (2023)<br>
+<strong>note:</strong> as of 2022, about 7% of the military's personnel were women<br>
 
 **Military deployments**<br>
 725 (plus about 300 police) Mali (MINUSMA) (2023)<br>

@@ -355,7 +355,7 @@ _email address and website_: <br>mperalta@cancilleria.gob.ni<br>
 _consulate(s) general_: Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Kevin K. SULLIVAN (since 14 November 2018)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Kevin Michael O'REILLY (since 28 June 2023)<br>
 _embassy_: Kilometer 5.5 Carretera Sur, Managua<br>
 _mailing address_: 3240 Managua Place, Washington DC&nbsp; 20521-3240<br>
 _telephone_: [505] 2252-7100,<br>

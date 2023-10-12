@@ -682,7 +682,7 @@ the Irish Defense Forces have a small inventory of imported weapons systems from
 
 **Military service age and obligation**<br>
 18-25 years of age for male and female voluntary military service recruits to the Defence Forces (18-27 years of age for the Naval Service); 18-26 for cadetship (officer) applicants; 12-year service (5 active, 7 reserves) (2023)<br>
-<strong>note:</strong> as of 2021, women made up about 7% of the military's full-time personnel<br><br><strong>note 2:</strong> the Defense Forces are open to refugees under the Refugee Act of 1996 and nationals of the European Economic Area, which include EU member states, Iceland, Liechtenstein, and Norway<br>
+<strong>note:</strong> as of 2023, women made up about 7% of the military's full-time personnel<br><br><strong>note 2:</strong> the Defense Forces are open to refugees under the Refugee Act of 1996 and nationals of the European Economic Area, which include EU member states, Iceland, Liechtenstein, and Norway<br>
 
 **Military deployments**<br>
 130 Golan Heights (UNDOF); 325 Lebanon (UNIFIL) (2023)<br>
@@ -702,7 +702,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 93,810 (Ukraine) (as of 10 September 2023)<br>
+_refugees (country of origin)_: 95,905 (Ukraine) (as of 1 October 2023)<br>
 _stateless persons_: 7 (2022)<br>
 
 **Illicit drugs**<br>
