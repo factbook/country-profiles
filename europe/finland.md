@@ -701,7 +701,7 @@ Finnish Defense Forces (FDF; Puolustusvoimat): Army (Maavoimat), Navy (Merivoima
 
 **Military expenditures**<br>
 2.5% of GDP (2023 est.)<br>
-2% of GDP (2022 est.)<br>
+2% of GDP (2022)<br>
 1.9% of GDP (2021)<br>
 1.5% of GDP (2020)<br>
 1.4% of GDP (2019)<br>
@@ -729,6 +729,6 @@ the Finnish Defense Forces (FDF) are focused primarily on territorial defense, w
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 60,060 (Ukraine) (as of 10 September 2023)<br>
+_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 61,520 (Ukraine) (as of 24 September 2023)<br>
 _stateless persons_: 3,546 (2022)<br>
 

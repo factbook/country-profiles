@@ -354,7 +354,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023); First Vice President Constantino CHIWENGA (since 4 September 2023 ); note - Robert Gabriel MUGABE resigned on 21 November 2017, after ruling for 37 years<br>
+_chief of state_: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023); First Vice President Constantino CHIWENGA (since 4 September 2023); note - Robert Gabriel MUGABE resigned on 21 November 2017, after ruling for 37 years<br>
 _head of government_: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023); Vice President Constantino CHIWENGA (since 4 September 2023)<br>
 _cabinet_: Cabinet appointed by president, responsible to National Assembly<br>
 _elections/appointments_: each presidential candidate nominated with a nomination paper signed by at least 10 registered voters (at least 1 candidate from each province) and directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 23 August 2023 (next to be held in 2028); co-vice presidents drawn from party leadership<br>
@@ -371,7 +371,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: High Court; Labor Court; Administrative Court; regional magistrate courts; customary law courts; special courts<br>
 
 **Political parties and leaders**<br>
-Citizens Coalition for Change [Nelson CHAMISA] <br>Movement for Democratic Change - MDC-T [Douglas MWONZORA]<br>National People's Congress- NPC- [Wilbert MUBAIWA] <br>National People's Party or NPP [Conrad SANGMA] (formerly Zimbabwe People First or ZimPF)<br>Zimbabwe African National Union-Patriotic Front or ZANU-PF [Emmerson Dambudzo MNANGAGWA]<br>Zimbabwe African Peoples Union or ZAPU [Michael NKOMO]<br>
+Citizens Coalition for Change [Nelson CHAMISA] <br>Movement for Democratic Change - MDC-T [Douglas MWONZORA]<br>National People's Congress- NPC- [Wilbert MUBAIWA] <br>Zimbabwe African National Union-Patriotic Front or ZANU-PF [Emmerson Dambudzo MNANGAGWA]<br>Zimbabwe African Peoples Union or ZAPU [Michael NKOMO]<br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -384,7 +384,7 @@ _FAX_: [1] (202) 483-9326<br>
 _email address and website_: <br>general@zimembassydc.org<br><br>https://zimembassydc.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Thomas R. HASTINGS (since August 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Elaine M. FRENCH (since August 2022)<br>
 _embassy_: 2 Lorraine Drive, Bluffhill, Harare<br>
 _mailing address_: 2180 Harare Place, Washington DC&nbsp; 20521-2180<br>
 _telephone_: [263] 867-701-1000<br>
@@ -700,7 +700,7 @@ information varies; approximately 30,000 active-duty troops, including about 4,0
 the ZDF inventory is comprised mostly of Soviet-era and older Chinese equipment; since the early 2000s, Zimbabwe has been under an arms embargo from the EU, as well as targeted sanctions from Australia, Canada, New Zealand, the UK, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18-22 years of age for voluntary military service (18-24 for officer cadets; 18-30 for technical/specialist personnel); no conscription; women are eligible to serve (2022)<br>
+18-22 years of age for voluntary military service for men and women (18-24 for officer cadets; 18-30 for technical/specialist personnel); no conscription (2023)<br>
 
 **Military - note**<br>
 ZDF’s primary responsibilities are protecting the country’s sovereignty and territory and securing its borders; it also has a considerable role in domestic security and has continued to be active in the country’s politics since the 2017 military-assisted political transition; the ZDF is part of the Southern Africa Development Community (SADC) Standby Force and has provided troops to the SADC deployment to Mozambique; Zimbabwe has defense ties with China and Russia; the Army has approximately 5 light infantry brigades, plus brigades of mechanized infantry, presidential guards, special operations, and artillery; the Air Force has a few dozen operational Chinese- and Russian-made combat aircraft and helicopters <br><br>the ZDF was formed after independence from the former Rhodesian Army and the two guerrilla forces that opposed it during the Rhodesian Civil War (aka "Bush War") of the 1970s, the Zimbabwe African National Liberation Army (ZANLA) and the Zimbabwe People's Revolutionary Army (ZIPRA); the ZDF intervened in the Mozambique Civil War (1983-1992), the Democratic Republic of Congo during the Second Congo War (1998-2003), and the Angolan Civil War (1975-2002) during the late 1990s (2023)<br>
@@ -720,7 +720,7 @@ has a nascent program with the goal of utilizing space technologies in economic 
 <p><em>Zimbabwe-Mozambique: none identified<br><br>Zimbabwe-South Africa: </em>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration<em><br><br>Zimbabwe-Zambia: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,867 (Democratic Republic of Congo) (refugees and asylum seekers), 9,926 (Mozambique) (2023)<br>
+_refugees (country of origin)_: 11,867 (Democratic Republic of Congo) (refugees and asylum seekers), 9,931 (Mozambique) (2023)<br>
 
 **Illicit drugs**<br>
 <p>transit point for cannabis and South Asian heroin, methaqualone, and methamphetamines en route to South Africa</p><br>

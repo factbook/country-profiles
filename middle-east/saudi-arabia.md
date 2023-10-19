@@ -362,7 +362,7 @@ _email address and website_: <br>info@saudiembassy.net; Saudisusemb@mofa.gov.sa<
 _consulate(s) general_: Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Martina STRONG (since February 2021)<br>
+_chief of mission_: Ambassador Michael STRONG (since 2 May 2023)<br>
 _embassy_: Riyadh 11564<br>
 _mailing address_: 6300 Riyadh Place, Washington DC&nbsp; 20521-6300<br>
 _telephone_: [966] (11) 835-4000<br>

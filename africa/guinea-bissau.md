@@ -354,7 +354,7 @@ ACP, AfDB, AOSIS, AU, CPLP, ECOWAS, FAO, FZ, G-77, IBRD, ICAO, ICRM, IDA, IDB, I
 _chief of mission_: none; note - Guinea-Bissau does not have official representation in Washington, DC<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: the US Embassy suspended operations on 14 June 1998; the US Ambassador to Senegal is accredited to Guinea-Bissau; US diplomatic representation in Guinea-Bissau is conducted through the US Embassy in Dakar and the Guinea-Bissau Liaison Office located in Bissau<br>
+_chief of mission_: Ambassador Mike RAYNOR (since 20 April 2022)<br>
 _mailing address_: 2080 Bissau Place, Washington DC&nbsp; 20521-2080<br>
 _email address and website_: <br>dakarACS@state.gov<br><br>https://gw.usmission.gov/<br>
 

@@ -326,12 +326,12 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President THARMAN Shanmugaratnam (since 14 September 2023)<br>
 _head of government_: Prime Minister LEE Hsien Loong (since 12 August 2004)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 13 September 2017 (next to be held on 1 September 2023); following legislative elections, the leader of the majority party or majority coalition appointed prime minister by the president; deputy prime ministers appointed by the president<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 1 September 2023; next to be held in 2029); following legislative elections, the leader of the majority party or majority coalition appointed prime minister by the president; deputy prime ministers appointed by the president<br>
 _election results_: <em>2023: </em>THARMAN Shanmugaratnam elected president; percent of vote - THARMAN (independent) 70.4%, Ng Kok Song (independent) 15.7%, Tan Kin Lian (independent) 13.9%; turnout is 93.4%<br><em><br>2017</em>: HALIMAH Yacob declared president on 13 September 2017, being the only eligible candidate<br><br><em>2011</em>: Tony TAN Keng Yam elected president; percent of vote - Tony TAN Keng Yam (independent) 35.2%, TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (104 seats statutory, 103 current term; 93 members directly elected by simple majority popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members increased to 12 for the 2020 election for the first time (2021)<br>
-_elections_: last held on 10 July 2020 (next must be held by 2025)<br>
+_description_: unicameral Parliament (104 seats statutory, 103 current term; 93 members directly elected by simple majority popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members increased to 12 for the 2020 election for the first time<br>
+_elections_: last held on 10 July 2020 (next must be held by 24 November 2025)<br>
 _election results_: percent of vote by party - PAP 89.2%, WP 10.6%, other 0.2%; seats by party - PAP 83, WP 10; composition of total Parliament - men 73, women 30, percent of women 29.1%<br>
 
 **Judicial branch**<br>

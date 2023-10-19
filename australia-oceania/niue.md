@@ -259,7 +259,7 @@ _election results_: Dalton TAGELAGI reelected premier; Legislative Assembly vote
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Fono Ekepule (20 seats; 14 members directly elected in single-seat constituencies by simple majority vote and 6 directly elected from the National Register or "common roll" by majority vote; members serve 3-year terms)<br>
-_elections_: last held on 29 April 2023 (next to be held on 2026)<br>
+_elections_: last held on 29 April 2023 (next to be held in 2026)<br>
 _election results_: percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percent of women 15%<br>
 
 **Judicial branch**<br>
@@ -279,6 +279,7 @@ none (self-governing territory in free association with New Zealand)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (self-governing territory in free association with New Zealand)<br>
+<strong>note:</strong> on 25 September 2023, the US officially established diplomatic relations with Niue<br>
 
 **Flag description**<br>
 yellow with the flag of the UK in the upper hoist-side quadrant; the flag of the UK bears five yellow five-pointed stars - a large star on a blue disk in the center and a smaller star on each arm of the bold red cross; the larger star stands for Niue, the smaller stars recall the Southern Cross constellation on the New Zealand flag and symbolize links with that country; yellow represents the bright sunshine of Niue and the warmth and friendship between Niue and New Zealand<br>

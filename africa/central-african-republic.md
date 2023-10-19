@@ -304,7 +304,7 @@ _agricultural_: 400,000 cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Central African Republic<br>
 _conventional short form_: none<br>
-_local long form_: Republique Centrafricaine<br>
+_local long form_: Republique Centrale Africaine<br>
 _local short form_: none<br>
 _former_: Ubangi-Shari, Central African Empire<br>
 _abbreviation_: CAR<br>
@@ -329,8 +329,8 @@ _etymology_: established as a French settlement in 1889 and named after its loca
 Republic Day, 1 December (1958)<br>
 
 **Constitution**<br>
-_history_: several previous; latest (interim constitution) approved by the Transitional Council 30 August 2015, adopted by referendum 13-14 December 2015, ratified 27 March 2016<br>
-_amendments_: proposals require support of the government, two thirds of the National Council of Transition, and assent by the "Mediator of the Central African" crisis; passage requires at least three-fourths majority vote by the National Council membership; non-amendable constitutional provisions include those on the secular and republican form of government, fundamental rights and freedoms, amendment procedures, or changes to the authorities of various high-level executive, parliamentary, and judicial officials; note - constitutional referendum on abolishing presidential term limits scheduled for 30 July 2023<br>
+_history_: several previous; latest constitution passed by a national referrendum on 30 July 2023; note - the new constitution was proposed by President Faustin-Archange Touad&eacute;ra, extended the presidential term from 5 to 7 years, removed term limits, and will allow President Touad&eacute;ra to run again in 2025<br>
+_amendments_: proposals require support of the government, two thirds of the National Council of Transition, and assent by the "Mediator of the Central African" crisis; passage requires at least three-fourths majority vote by the National Council membership; non-amendable constitutional provisions include those on the secular and republican form of government, fundamental rights and freedoms, amendment procedures, or changes to the authorities of various high-level executive, parliamentary, and judicial officials<br>
 
 **Legal system**<br>
 civil law system based on the French model<br>
@@ -693,6 +693,6 @@ the 2013 coup resulted in the institutional collapse of the Central African Arme
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,011 (Sudan) (refugees since 15 April 2023), 6,676 (Democratic Republic of Congo) (2023)<br>
-_IDPs_: 514,547 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2023)<br>
+_refugees (country of origin)_: 13,844 (Sudan) (refugees since 15 April 2023), 6,676 (Democratic Republic of Congo) (2023)<br>
+_IDPs_: 488,866 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2023)<br>
 

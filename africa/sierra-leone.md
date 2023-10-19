@@ -367,7 +367,7 @@ _FAX_: [1] (202) 483-1793<br>
 _email address and website_: <br>info@embassyofsierraleone.net<br><br>https://embassyofsierraleone.net/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador David REIMER (since 24 March 2021)<br>
+_chief of mission_: Ambassador Bryan David HUNT (since 23 August 2023)<br>
 _embassy_: Southridge-Hill Station, Freetown<br>
 _mailing address_: 2160 Freetown Place, Washington DC&nbsp; 20521-2160<br>
 _telephone_: [232] 99 105 000<br>

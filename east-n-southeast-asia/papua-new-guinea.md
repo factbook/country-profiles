@@ -354,7 +354,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: district, village, and juvenile courts, military courts, taxation courts, coronial courts, mining warden courts, land courts, traffic courts, committal courts, grade five courts<br>
 
 **Political parties and leaders**<br>
-Advance PNG [Muglua DILU]<br>Allegiance Party or AP [Bryan KRAMER]<br>Destiny Party [Marsh NARAWEC]<br>Liberal Party [John PUNDARI]<br>Melanesian Alliance Party or MAP [Joseph YOPYYOPY]<br>National Alliance Party or NAP [Patrick PRUAITCH]<br>New Generation Party or NGP [Keith IDUHU]<br>Our Development Party or ODP [Charles ABEL]<br>Papua and Niugini Union Party or PANGU PATI [James MARAPE]<br>Papua New Guinea Country Party or PNGCP [Chris HAIVETA]<br>Papua New Guinea Greens Party [Richard MASERE]<br>Papua New Guinea National Party [Kerenga KUA]<br>Papua New Guinea Party or PNGP [Belden NAMAH]<br>People's First Party or PFP [Richard MARU]<br>People's Labor Party or PLP [Peter YAMA]<br>People's Movement for Change or PMC [Gary JAFFA]<br>People's National Congress Party or PNC [Peter Paire O'NEILL]<br>People's Party or PP [Peter IPATAS]<br>People's Progress Party or PPP [Sir Julius CHAN]<br>People's Reform Party or PRP [James DONALD]<br>Social Democratic Party or SDP [Powes PARKOP]<br>Triumph Heritage Empowerment Party or THE [Don POLYE]<br>United Labor Party or PLP [vacant]<br>United Resources Party or URP [William DUMA]<br>
+Advance PNG [Muglua DILU]<br>Allegiance Party or AP [Bryan KRAMER]<br>Destiny Party [Marsh NARAWEC]<br>Liberal Party [John PUNDARI]<br>Melanesian Alliance Party or MAP [Joseph YOPYYOPY]<br>National Alliance Party or NAP [Patrick PRUAITCH]<br>New Generation Party or NGP [Keith IDUHU]<br>Our Development Party or ODP [Charles ABEL]<br>Papua and Niugini Union Party or PANGU PATI [James MARAPE]<br>Papua New Guinea Country Party or PNGCP [Chris HAIVETA]<br>Papua New Guinea Greens Party [Richard MASERE]<br>Papua New Guinea National Party [Kerenga KUA]<br>Papua New Guinea Party or PNGP [Belden NAMAH]<br>People's First Party or PFP [Richard MARU]<br>People's Labor Party or PLP [Peter YAMA]<br>People's Movement for Change or PMC [Gary JAFFA]<br>People's National Congress Party or PNC [Peter Paire O'NEILL]<br>People's Party or PP [Peter IPATAS]<br>People's Progress Party or PPP [Sir Julius CHAN]<br>People's Reform Party or PRP [James DONALD]<br>Social Democratic Party or SDP [Powes PARKOP]<br>Triumph Heritage Empowerment Party or THE [Don POLYE]<br>United Labor Party or ULP [Lekwa GURE]<br>United Resources Party or URP [William DUMA]<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, APEC, ARF, ASEAN (observer), C, CD, CP, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -367,9 +367,9 @@ _FAX_: [1] (202) 745-3679<br>
 _email address and website_: <br>info@pngembassy.org<br><br>http://www.pngembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Matthew BUNT (since 25 August 2023); note - also accredited to the Solomon Islands and Vanuatu<br>
-_embassy_: P.O. Box 1492, Port Moresby<br>
-_mailing address_: 4240 Port Moresby Place, Washington DC&nbsp; 20521-4240<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Katherine Elizabeth MONAHAN (since 26 September 2023); note - also accredited to the Solomon Islands and Vanuatu<br>
+_embassy_: Harbour City Road, Port Moresby 121, NCD, Papua New Guinea<br>
+_mailing address_: Harbour City Road, Port Moresby 121, NCD, Papua New Guinea<br>
 _telephone_: [675] 308-2100<br>
 _email address and website_: <br>ConsularPortMoresby@state.gov<br><br>https://pg.usembassy.gov/<br>
 

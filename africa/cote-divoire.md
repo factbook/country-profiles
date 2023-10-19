@@ -352,7 +352,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Alassane Dramane OUATTARA (since 4 December 2010); Vice President Ti&eacute;moko Meyliet KONE (since 19 April 2022); note - Vice President Ti&eacute;moko Meyliet KONE appointed by President Alassane Dramane OUATTARA before a Congressional meeting on 19 April 2022<br>
-_head of government_: Prime Minister Patrick ACHI (since 19 April 2022); note - Prime Minister ACHI resigned on 13 April 2022 and was reappointed by President Alassane Dramane OUATTARA before a Congressional meeting on 19 April 2022<br>
+_head of government_: Prime Minister Robert Beujre MAMBE (since 16 October 2023)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term; election last held on 31 October 2020 (next to be held in 2025); vice president elected on same ballot as president; prime minister appointed by the president; note &ndash; because President OUATTARA promulgated the new constitution in 2016, he has claimed that the clock is reset on term limits, allowing him to run for up to two additional terms<br>
 _election results_: <br><em>2020: </em>Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7% <p><em>2015: </em>Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 83.7%, Pascal Affi N'GUESSAN (FPI) 9.3%, Konan Bertin KOUADIO (independent) 3.9%, other 3.1% </p><br>
@@ -382,7 +382,7 @@ _FAX_: [1] (202) 462-9444<br>
 _email address and website_: <br>info@ambacidc.org<br><br>Ambassade de Cote D’ivoire aux USA (ambaciusa.org)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Richard K. BELL (since 10 October 2019)<br>
+_chief of mission_: Ambassador Jessica Davis BA (since 2 March 2023)<br>
 _embassy_: B.P. 730 Abidjan Cidex 03<br>
 _mailing address_: 2010 Abidjan Place, Washington DC&nbsp; 20521-2010<br>
 _telephone_: [225] 27-22-49-40-00<br>

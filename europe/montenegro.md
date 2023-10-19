@@ -690,7 +690,7 @@ Army of Montenegro (Vojska Crne Gore or VCG): Ground Forces (Kopnene snage), Air
 1.3% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 active duty troops (2022)<br>
+approximately 2,000 active-duty troops (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is small and consists mostly of Soviet-era equipment inherited from the former Yugoslavia military, with a limited mix of other imported systems from such countries as Austria, Turkey, and the US (2023)<br>
@@ -710,7 +710,7 @@ the Army of Montenegro is a small military focused on the defense of Montenegro�
 <p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 61,745 (Ukraine) (as of 25 September 2023)<br>
+_refugees (country of origin)_: 62,075 (Ukraine) (as of 2 October 2023)<br>
 _stateless persons_: 468 (2022)<br>
 <strong>note:</strong> 33,521 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 

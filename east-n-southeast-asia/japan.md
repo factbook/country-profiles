@@ -701,22 +701,22 @@ Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSD
 <strong>note:</strong> the Coast Guard is under the Ministry of Land, Infrastructure, Transport and Tourism; it is barred by law from operating as a military force, but in times of conflict Article 80 of the 1954 Self-Defense Forces Act permits the transfer of control of the coast guard to the Ministry of Defense with Cabinet approval<br>
 
 **Military expenditures**<br>
-1.1% of GDP (2022 est.)<br>
+1.1% of GDP (2023 est.)<br>
+1.1% of GDP (2022)<br>
 1% of GDP (2021)<br>
 1% of GDP (2020)<br>
 0.9% of GDP (2019)<br>
-0.9% of GDP (2018)<br>
 <strong>note:</strong> the Japanese Government in 2022 pledged to increase defense expenditures to 2% of GDP in line with NATO standards by 2028; if the planned increase occurs, Japan would have one of the world's largest defense budgets<br>
 
 **Military and security service personnel strengths**<br>
-approximately 240,000 active personnel (150,000 Ground; 45,000 Maritime; 45,000 Air); 14,000 Coast Guard (2023)<br>
+approximately 230-240,000 active personnel (145-150,000 Ground; 40-45,000 Maritime; 40-45,000 Air); 14,000 Coast Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the JSDF is equipped with a mix of imported and domestically produced equipment; Japan has a robust defense industry and is capable of producing a wide range of air, ground, and naval weapons systems; the majority of its weapons imports are from the US and some domestically produced weapons are US-origin and manufactured under license (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women (maximum enlistment age 32); no conscription (2022)<br>
-<strong>note:</strong> as of 2023, women made up about 8% of the military's full-time personnel<br>
+18-32 years of age for voluntary military service for men and women; no conscription (2023)<br>
+<strong>note:</strong> as of 2023, women made up about 9% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 approximately 200 Djibouti (2023)<br>

@@ -196,7 +196,7 @@ NA<br>
 31.5% (2023 est.)<br>
 
 **Education expenditures**<br>
-3.8% of GDP (202 est.)<br>
+3.8% of GDP (2021 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over has completed five or more years of schooling<br>

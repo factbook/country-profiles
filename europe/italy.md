@@ -362,7 +362,7 @@ _consulate(s) general_: Boston, Chicago, Detroit, Houston, Miami, New York, Los 
 _consulate(s)_: Charlotte (NC), Cleveland (OH), Detroit (MI), Hattiesburg (MS), Honolulu (HI), New Orleans, Newark (NJ), Norfolk (VA), Pittsburgh (PA), Portland (OR), Seattle<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Shawn CROWLEY (since July 2022); note - also accredited to San Marino<br>
+_chief of mission_: Ambassador Jack Markell (since September 2023); note - also accredited to San Marino<br>
 _embassy_: via Vittorio Veneto 121, 00187 Roma<br>
 _mailing address_: 9500 Rome Place, Washington DC&nbsp; 20521-9500<br>
 _telephone_: [39] 06-46741<br>
@@ -706,7 +706,7 @@ Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italia
 1.2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 108,000 Carabinieri (2022)<br>
+approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 108,000 Carabinieri (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a mix of domestically manufactured, imported, and jointly produced weapons systems, mostly from Europe and the US; in recent years, the US has been the lead supplier of military hardware to Italy; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in aircraft, armored vehicles, and naval vessels; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2023)<br>

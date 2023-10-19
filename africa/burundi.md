@@ -381,7 +381,7 @@ _FAX_: [1] (202) 342-2578<br>
 _email address and website_: <br>burundiembusadc@gmail.com<br><br>https://burundiembassy-usa.com/index.php<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Melanie Harris HIGGINS (since 2 March 2021)<br>
+_chief of mission_: Ambassador (vacant); Keith GILGES (since June 2022)&nbsp;<br>
 _embassy_: B.P. 1720, Avenue Des Etats-Unis, Bujumbura<br>
 _mailing address_: 2100 Bujumbura Place, Washington DC&nbsp; 20521-2100<br>
 _telephone_: [257] 22-207-000<br>

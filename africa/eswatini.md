@@ -328,7 +328,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King MSWATI III (since 25 April 1986)<br>
-_head of government_: Prime Minister Cleopas DLAMINI (since since 19 July 2021); Deputy Prime Minister Themba MASUKU (since 6 November 2018)<br>
+_head of government_: <p>Chief Mgwagwa GAMEDZE appointed acting prime minister (since 28 September 2023)</p> <p> </p><br>
 _cabinet_: Cabinet recommended by the prime minister, confirmed by the monarch; at least one-half of the cabinet membership must be appointed from among elected members of the House of Assembly<br>
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch from among members of the House of Assembly<br>
 
@@ -343,7 +343,7 @@ _judge selection and term of office_: justices of the Supreme Court and High Cou
 _subordinate courts_: magistrates' courts; National Swazi Courts for administering customary/traditional laws (jurisdiction restricted to customary law for Swazi citizens)<br>
 
 **Political parties and leaders**<br>
-political parties exist but conditions for their operations, particularly in elections, are undefined, legally unclear, or culturally restricted; the following are considered political associations:<br>African United Democratic Party or AUDP [Sibusiso DLAMINI]<br>Ngwane National Liberatory Congress or NNLC [Sibongile MAZIBUKO]<br>People's United Democratic Movement or PUDEMO [Mlungisi MAKHANYA]<br>Swazi Democratic Party or SWADEPA [Jan SITHOLE]<br>
+political parties exist but conditions for their operations, particularly in elections, are undefined, legally unclear, or culturally restricted; the following are considered political associations:<br>African United Democratic Party or AUDP [Stanley S. MALINDZISA]<br>Ngwane National Liberatory Congress or NNLC [Sibongile MAZIBUKO]<br>People's United Democratic Movement or PUDEMO [Mlungisi MAKHANYA]<br>Swazi Democratic Party or SWADEPA [Jan SITHOLE]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -356,7 +356,7 @@ _FAX_: [1] (202) 234-8254<br>
 _email address and website_: <br>embassy@eswatini-usa.com; swaziland@compuserve.com<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Jeanne M. MALONEY (since 4 March 2021)<br>
+_chief of mission_: Ambassador (vacant) Charges d'Affaires Earl R. MILLER (since 27 January 2023)<br>
 _embassy_: Corner of MR 103 and Cultural Center Drive, Ezulwini, P.O. Box D202, The Gables, H106<br>
 _mailing address_: 2350 Mbabane Place, Washington DC&nbsp; 20521-2350<br>
 _telephone_: (268) 2417-9000<br>

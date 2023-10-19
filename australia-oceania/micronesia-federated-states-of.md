@@ -298,7 +298,7 @@ _election results_: David W. PANUELO elected president by Congress; Yosiwo P. GE
 
 **Legislative branch**<br>
 _description_: unicameral Congress (14 seats; 10 members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms and 4 at- large members directly elected from each of the 4 states by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 7 March 2023 (next to be held on March 2025)<br>
+_elections_: last held on 7 March 2023 (next to be held in March 2025)<br>
 _election results_: percent of vote - NA; seats - independent 14; composition as of July 2022 - men 13, women 1, percent of women 7.1%<br>
 
 **Judicial branch**<br>
@@ -321,7 +321,7 @@ _email address and website_: <br>dcmission@fsmembassy.fm<br><br>https://fsmembas
 _consulate(s) general_: Honolulu, Portland (OR), Tamuning (Guam)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Alissa M. BIBB (since 4 August 2023)<br>
+_chief of mission_: Ambassador Jennifer JOHNSON (since 13 September 2023)<br>
 _embassy_: 1286 US Embassy Place, Kolonia, Pohnpei, FM 96941<br>
 _mailing address_: 4120 Kolonia Place, Washington, D.C. 20521-4120<br>
 _telephone_: [691] 320-2187<br>

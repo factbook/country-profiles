@@ -353,7 +353,7 @@ _FAX_: [1] (202) 745-4933<br>
 _email address and website_: <br>washington@fm.gov.om<br><br>https://www.culturaloffice.info/aboutomaniembassy<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Leslie M. TSOU (since 19 January 2020)<br>
+_chief of mission_: Ambassador (vacant); Charge D'Affaires Leslie ORDEMAN (since August 2023)<br>
 _embassy_: P.C. 115, Madinat Al Sultan Qaboos, Muscat<br>
 _mailing address_: 6220 Muscat Place, Washington DC&nbsp; 20521<br>
 _telephone_: [968] 2464-3400<br>

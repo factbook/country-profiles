@@ -371,7 +371,7 @@ _email address and website_: <br>embassy.washington@mfa.gov.al<br><br>http://www
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Yuri KIM (since 27 January 2020)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires David WISNER (since August 2023)<br>
 _embassy_: Rruga Stavro Vinjau, No. 14, Tirana<br>
 _mailing address_: 9510 Tirana Place, Washington DC&nbsp; 20521-9510<br>
 _telephone_: [355] 4 2247-285<br>
@@ -688,7 +688,7 @@ Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqip�
 1.5% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 7,000 total active duty personnel (5,000 Army; 1,500 Navy; 500 Air Force) (2022)<br>
+approximately 7,000 total active-duty personnel (5,000 Army; 1,500 Navy; 500 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 since joining NATO, the military has been in the process of modernizing by retiring its inventory of Soviet-era weapons and replacing them with Western equipment, including donated and secondhand purchases&nbsp; (2023)<br>

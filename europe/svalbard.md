@@ -204,14 +204,14 @@ _elections/appointments_: none; the monarchy is hereditary; governor and assista
 
 **Legislative branch**<br>
 _description_: unicameral Longyearbyen Community Council (15 seats; members directly elected by majority vote to serve 4-year-terms); note - the Council acts very much like a Norwegian municipality, responsible for infrastructure and utilities, including power, land-use and community planning, education, and child welfare; however, healthcare services are provided by the state<br>
-_elections_: last held on 7 October 2019 (next to be held in October 2023)<br>
-_election results_: seats by party - Labor Party 5, Liberals 4, Conservatives 3, Progress Party 2, Green Party 1<br>
+_elections_: last held on 9 October 2023 (next to be held in October 2027)<br>
+_election results_: seats by party - Liberals 7, Labor 3, Social Liberals 3, Conservatives 2<br>
 
 **Judicial branch**<br>
 _highest court(s)_: none; note - Svalbard is subordinate to Norway's Nord-Troms District Court and Halogaland Court of Appeal, both located in Tromso<br>
 
 **Political parties and leaders**<br>
-Svalbard Conservative Party [Kjetil FIGENSCHOU]<br>Svalbard Green Party [Pal BERG]<br>Svalbard Labor Party [Arild OLSEN]<br>Svalbard Liberal Party [Terie AUVENIK]<br>Svalbard Progress Party [Jorn DYBDAHL]<br>
+Conservative [Celine ANDERSSEN]<br>Green [Pal BERG]<br>Labor [Arild OLSEN]<br>Liberal [Terje AUVENIK]<br>Progress [Jorn DYBDAHL]<br>Social Liberals []<br>
 
 **International organization participation**<br>
 none<br>

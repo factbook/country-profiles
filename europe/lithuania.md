@@ -362,7 +362,7 @@ _email address and website_: <br>info@usa.mfa.lt<br><br>https://usa.mfa.lt/usa/e
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Robert S. GILCHRIST (since 4 February 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Tamir WASER (since 12 August 2023)<br>
 _embassy_: Akmenu gatve 6, Vilnius, LT-03106<br>
 _mailing address_: 4510 Vilnius Place, Washington DC&nbsp; 20521-4510<br>
 _telephone_: [370] (5) 266-5500<br>
@@ -693,7 +693,7 @@ Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos 
 2% of GDP (2019) (approximately $1.7 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 16,000 personnel (12,500 Army, including about 5,000 National Defense Voluntary Forces and 2,500 conscripts); 500 Navy; 1,000 Air Force; 2,000 other, including special operations forces, logistics support, training, etc) (2023)<br>
+approximately 17,000 active-duty personnel (13,000 Army, including about 5,000 National Defense Voluntary Forces and 2,500 conscripts); 500 Navy; 1,000 Air Force; 2,500 other, including special operations forces, logistics support, training, etc) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of Soviet-era and more modern European and US equipment; Germany and the US have been the leading suppliers in recent years (2023)<br>
@@ -723,7 +723,7 @@ has a small but growing space program; operates satellites; manufactures small s
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 49,970 (Ukraine) (as of 15 September 2023)<br>
+_refugees (country of origin)_: 49,970 (Ukraine) (as of 29 September 2023)<br>
 _stateless persons_: 2,720 (2022)<br>
 
 **Illicit drugs**<br>

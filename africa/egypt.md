@@ -384,7 +384,7 @@ _email address and website_: <br>consulate@egyptembassy.net<br><br>https://www.e
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires John P. DESROCHER (since 26 April 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Ambassador A.Elizabeth JONES (since 9 October 2023)<br>
 _embassy_: 5 Tawfik Diab St., Garden City, Cairo<br>
 _mailing address_: 7700 Cairo Place, Washington DC 20512-7700<br>
 _telephone_: [20-2] 2797-3300<br>
@@ -769,7 +769,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); 
 <p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 287,230 (Sudan) (refugees since 15 April 2023), 149,454 (Syria) (2023)<br>
+_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 310,000 (Sudan) (refugees since 15 April 2023), 150,465 (Syria) (2023)<br>
 _stateless persons_: 10 (2022)<br>
 
 **Trafficking in persons**<br>

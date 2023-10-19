@@ -697,11 +697,11 @@ Sweden operates four PC 3 or 4 class medium icebreakers in the Baltic Sea<br>not
 Swedish Armed Forces (F&ouml;rsvarsmakten or "the Defense Force"): Army, Navy, Air Force, Home Guard (2023)<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2022 est.)<br>
+1.5% of GDP (2023 est.)<br>
+1.3% of GDP (2022)<br>
 1.3% of GDP (2021)<br>
 1.2% of GDP (2020)<br>
 1.1% of GDP (2019)<br>
-1% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 the SAF has about 25,000 active-duty personnel: approximately 14,000 continuous service/full-time and approximately 11,000 temporary service; approximately 21,000 Home Guard (some on active duty) (2023)<br>
@@ -744,6 +744,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 41,235 (Ukraine) (as of 28 September 2023)<br>
+_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 41,315 (Ukraine) (as of 5 October 2023)<br>
 _stateless persons_: 46,515 (2022); note - the majority of stateless people are from the Middle East and Somalia<br>
 

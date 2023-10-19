@@ -344,14 +344,14 @@ NA<br><br>
 ABEDA, AfDB, AFESD, AMF, AMU, AU, BDEAC, CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, LCBC, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNSMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Khaled DAIEF (since 27 August 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Fadil S M OMAR (since 17 July 2023)<br>
 _chancery_: 1460 Dahlia Street NW, Washington, DC 20012<br>
 _telephone_: [1] (202) 944-9601<br>
 _FAX_: [1] (202) 944-9606<br>
 _email address and website_: <br>info@embassyoflibyadc.com<br><br>https://www.embassyoflibyadc.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'affaires Leslie T. ORDEMAN (since 7 September 2022)<br>
+_chief of mission_: Ambassador (vacant); Ambassador Richard B. NORLAND, US Special Envoy for Libya (since 8 September 2022)<br>
 _embassy_: operations suspended<br>
 _mailing address_: 8850 Tripoli Place, Washington, DC&nbsp; 20521-8850<br>
 _telephone_: [216] 71-107-000<br>
@@ -680,5 +680,5 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham - Libya (ISIS-L); al-
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 24,887 (Sudan) (refugees and asylum seekers), 11,623 (Syria) (refugees and asylum seekers), 8,302 (Eritrea) (2023)<br>
-_IDPs_: 125,802 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2022)<br>
+_IDPs_: 125,802 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2023)<br>
 

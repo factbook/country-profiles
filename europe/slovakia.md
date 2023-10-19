@@ -689,7 +689,7 @@ Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land 
 1.7% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 14,000 active-duty personnel (8,000 Land Forces; 4,000 Air Forces; 2,000 other, including staff, special operations, and support forces) (2022)<br>
+approximately 14,000 active-duty personnel (8,000 Land Forces; 4,000 Air Forces; 2,000 other, including staff, special operations, and support forces) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists mostly of Soviet-era platforms; in recent years, it has imported limited quantities of more modern equipment, particularly from Italy and the US (2023)<br>
@@ -720,7 +720,7 @@ focused on the development of satellites, satellite subcomponents, and other spa
 <p><em>Slovakia-Austria</em>: none identified</p> <p><em>Slovakia-Czechia</em>: none identified</p> <p><em>Slovakia-Hungary</em>: initiated by the 1977 Budapest Treaty, Hungary and formerly Czechoslovakia agreed to a hydroelectric dam project on the Danube with dams to be constructed at Gabcikovo (Slovakia) and Nagymaros (Hungary) to prevent floods, improve river navigability, and to generate electricity; when Hungary suspended work on the project until its environmental impact could be assessed, Slovakia continued working on it and adopted a pared down strategy to divert the Danube so that all construction was within Czechoslovakian territory; Hungary terminated the project on environmental and economic grounds in 1989, and in 1992 both countries took the matter to the International Court of Justice (ICJ); the ICJ found largely in favor of then Slovakia, finding Hungary had breached their agreement; however, then Czechoslovakia should not have begun the alternative plan before the ICJ ruled on the case; in 2017, Hungary and Slovakia agreed to discontinue the ICJ proceedings</p> <p><em>Slovakia-Poland</em>: none identified</p> <p><em>Slovakia-Ukraine</em>: tens of thousands of Ukrainian refugees are crossing the border to Slovakia to escape the Russian invasion in their country</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 109,115 (Ukraine) (as of 24 September 2023)<br>
+_refugees (country of origin)_: 109,115 (Ukraine) (as of 1 October 2023)<br>
 _stateless persons_: 2,940 (2022)<br>
 
 **Illicit drugs**<br>

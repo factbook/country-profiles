@@ -367,7 +367,7 @@ _email address and website_: <br>azerbaijan@azembassy.us<br><br>https://washingt
 _consulate(s) general_: Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires ad interium (since 29 June 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Hugo GUEVARA (since 29 June 2022)<br>
 _embassy_: 111 Azadlig Avenue, AZ1007 Baku<br>
 _mailing address_: 7050 Baku Place, Washington, DC 20521-7050<br>
 _telephone_: [994] (12) 488-3300<br>

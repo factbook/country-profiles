@@ -722,7 +722,7 @@ Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes 
 1.4% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 183,000 active-duty uniformed personnel (62,000 Army; 16,000 Navy; 27,000 Air Force; 20,000 Medical Service, 14,000 Cyber and Information Space Command; 43,000 other, including central staff, support, logistics, etc.) (2023)<br>
+approximately 185,000 active-duty armed forces personnel (62,000 Army; 16,000 Navy; 27,000 Air Force; 20,000 Medical Service, 14,000 Cyber and Information Space Command; 45,000 other, including central staff, support, logistics, etc.) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the German Federal Armed Forces inventory is comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; in recent years, the US has been the leading foreign supplier; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and is one of the world's leading arms exporters; it also participates in joint defense production projects with the US and European partners (2023)<br>
@@ -762,7 +762,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,094,155 (Ukraine) (as of 17 September 2023)<br>
+_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,100,720 (Ukraine) (as of 7 October 2023)<br>
 _stateless persons_: 28,941 (2022)<br>
 
 **Illicit drugs**<br>

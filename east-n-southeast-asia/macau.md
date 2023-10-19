@@ -259,7 +259,7 @@ _chief of state_: President of China XI Jinping (since 14 March 2013)<br>
 _head of government_: Chief Executive HO lat Seng (since 20 December 2019)<br>
 _cabinet_: Executive Council appointed by the chief executive<br>
 _elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 10 March 2023 (next to be held in March 2028); chief executive chosen by a 400-member Election Committee for a 5-year term (eligible for a second term); election last held on 24 August 2019 (next to be held in 2024)<br>
-_election results_: <em><br>2019</em>: HO lat Seng (unopposed; received 392 out of 400 votes) <br><br><em>2014</em>: Fernando CHUI Sai (unopposed; received 380 of 396 votes)<br>
+_election results_: <em>2019</em>: HO lat Seng (unopposed; received 392 out of 400 votes) <br><br><em>2014</em>: Fernando CHUI Sai (unopposed; received 380 of 396 votes)<br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Regiao Administrativa Especial de Macau (33 seats; 14 members directly elected by proportional representation vote, 12 indirectly elected by an electoral college of professional and commercial interest groups, and 7 appointed by the chief executive; members serve 4-year terms)<br>
@@ -272,7 +272,7 @@ _judge selection and term of office_: justices appointed by the Macau chief exec
 _subordinate courts_: Court of Second Instance; Court of First instance; Lower Court; Administrative Court<br>
 
 **Political parties and leaders**<br>
-Alliance for Change or APM [Melinda CHAN Mei-yi]<br>Alliance for a Happy Home or ABL [WONG Kit-cheng] (an electoral list of UPP)<br>Macau Civic Power [Agnes LAM Iok-fong]<br>Macau-Guangdong Union or UMG [MAK Soi-kun]<br>Macau Citizens' Development Association or ACDM [Becky SONG Pek-kei] <br>New Hope or NE [Jose Maria Pereira COUTINHO]<br>New Macau Association (New Macau Progressives) or AMN or ANPM [Sulu SOU Ka-hou]<br>New Union for Macau's Development or NUDM [Angela LEONG On-kei]<br>Union for Development or UPD [HO Sut Heng]<br>Union for Promoting Progress or UPP [HO Ion-sang]<br>United Citizens Association of Macau or ACUM [CHAN Meng-kam]<br>
+Alliance for a Happy Home or ABL [WONG Kit-cheng]<br>Association of Synergy of Macao ("Synergy Power" or Poder da Singeria) or PS [Vitor VAI]<br>Macau-Guangdong Union or UGM [MAK Soi-kun]<br>New Hope or NE [José Maria Pereira COUTINHO]<br>Union for Development or UPD [HO Sut Heng]<br>Union for Promoting Progress or UPP or UNIPRO [HO Ion-sang]<br>United Citizens Association of Macau or ACUM [CHAN Meng-kam]<br>Women's General Association of Macau or AGMM [HO Teng-iat]<br>
 <strong>note:</strong> there is no political party ordinance, so there are no registered political parties; politically active groups register as societies or companies<br>
 
 **International organization participation**<br>

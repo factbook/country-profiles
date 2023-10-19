@@ -374,7 +374,7 @@ _email address and website_: <br>info@botswanaembassy.org<br><br>http://www.bots
 _consulate(s) general_: Atlanta<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Chargé d'Affaires Amanda S. JACOBSEN<br>
+_chief of mission_: Ambassador Howard A. VAN VRANKEN (since 24 May 2023)<br>
 _embassy_: Embassy Drive, Government Enclave (off Khama Crescent), Gaborone<br>
 _mailing address_: 2170 Gabarone Place, Washington DC&nbsp; 20521-2170<br>
 _telephone_: [267] 395-3982<br>

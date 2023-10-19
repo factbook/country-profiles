@@ -364,7 +364,7 @@ _email address and website_: <br>washington@embassy.mzv.cz<br><br>https://www.mz
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Bijan SABET<br>
+_chief of mission_: Ambassador Bijan SABET (since 15 February 2023)<br>
 _embassy_: Trziste 15, 118 01 Praha 1 - Mala Strana<br>
 _mailing address_: 5630 Prague Place, Washington DC&nbsp; 20521-5630<br>
 _telephone_: [420] 257-022-000<br>
@@ -700,7 +700,7 @@ the Czech military has a mix of Soviet-era and more modern equipment, mostly of 
 
 **Military service age and obligation**<br>
 18-28 years of age for voluntary military service for men and women; conscription abolished 2004 (2023)<br>
-<strong>note: </strong>as of 2019, women comprised about 13% of the military's full-time personnel<br>
+<strong>note: </strong>as of 2020, women comprised about 13% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 up to 130 Lithuania (NATO); 130 Slovakia (NATO) (2023)<br>
@@ -715,7 +715,7 @@ the Czech military is a professional force responsible for national and territor
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 368,300 (Ukraine) (as of 10 September 2023)<br>
+_refugees (country of origin)_: 361,385 (Ukraine) (as of 8 October 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

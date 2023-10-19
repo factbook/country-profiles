@@ -354,6 +354,7 @@ _FAX_: [1] (212) 661-6405<br>
 _email address and website_: <br>info@maldivesmission.com<br><br>http://www.maldivesmission.com/<br>
 
 **Diplomatic representation from the US**<br>
+_chief of mission_: Ambassador Hugo Yue-Ho JON (since 6 September 2023); note - Ambassador JON is the first resident US ambassador to the Republic of Maldives<br>
 _embassy_: the US does not have an embassy in Maldives; the US is in the process of opening an embassy in Maldives; as of March 2022, there is no US Ambassador to Maldives; until late 2021, the US Ambassador to Sri Lanka was also accredited to the Maldives<br>
 
 **Flag description**<br>

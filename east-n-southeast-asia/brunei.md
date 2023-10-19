@@ -325,9 +325,9 @@ _cabinet_: Council of Ministers appointed and presided over by the monarch; note
 _elections/appointments_: none; the monarchy is hereditary<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (33 seats; 20 members appointed by the sultan from ex-officio cabinet ministers, titled people, and prominent citizens in public service and various professional fields and 13 members from 4 multi-seat constituencies, and 3 ex-officio members - the speaker and first and second secretaries<br>
+_description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (33 seats; 20 members appointed by the sultan from ex-officio cabinet ministers, titled people, and prominent citizens in public service and various professional fields and 13 members from 4 multi-seat constituencies, and 3 ex-officio members - the speaker and first and second secretaries); 5-year term<br>
 _elections_: January 2017 - appointed by the sultan<br>
-_election results_: NA; composition (as of February 2022) - men 30, women 3, percent of women 9.1%<br>
+_election results_: Legislative Council last appointed January 2023; composition men 30, women 3, percent of women 9.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the Court of Appeal and the High Court, each with a chief justice and 2 judges); Sharia Court (consists the Court of Appeals and the High Court); note - Brunei has a dual judicial system of secular and sharia (religious) courts; the Judicial Committee of Privy Council (in London) serves as the final appellate court for civil cases only<br>
@@ -335,8 +335,8 @@ _judge selection and term of office_: Supreme Court judges appointed by the mona
 _subordinate courts_: Intermediate Court; Magistrates' Courts; Juvenile Court; small claims courts; lower sharia courts<br>
 
 **Political parties and leaders**<br>
-National Development Party or NDP [YASSIN Affendi]<br>
-<strong>note:</strong> Brunei National Solidarity Party or PPKB [Abdul LATIF bin Chuchu] and People's Awareness Party or PAKAR [Awang Haji MAIDIN bin Haji Ahmad] were deregistered in 2007; parties are small and have limited activity<br>
+National Development Party or NDP [Zainal Talib]<br>
+<strong>note:</strong> the NDP is Brunei’s only registered party, but does not have representation in the Legislative Council, which is appointed<br>
 
 **International organization participation**<br>
 ADB, APEC, ARF, ASEAN, C, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, ISO (correspondent), ITSO, ITU, NAM, OIC, OPCW, UN, UNCTAD, UNESCO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

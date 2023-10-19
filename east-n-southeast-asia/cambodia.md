@@ -150,7 +150,7 @@ _65 years and over_: 0.55 male(s)/female<br>
 _total population_: 0.94 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
-22.4 years (2014 est.)<br>
+23.3 years (2021-22 est.)<br>
 <strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
@@ -345,13 +345,12 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: King Norodom SIHAMONI (since 29 October 2004)<br>
-_head of government_: Prime Minister HUN MANET (since 22 August 2023)<br>
+_head of government_: Prime Minister HUN MANET (since 22 August 2023); note - MANET succeeded his father, HUN SEN, who had been prime minister since 1985<br>
 _cabinet_: Council of Ministers named by the prime minister and appointed by the monarch<br>
 _elections/appointments_: monarch chosen by the 9-member Royal Council of the Throne from among all eligible males of royal descent; following legislative elections, a member of the majority party or majority coalition named prime minister by the Chairman of the National Assembly and appointed by the monarch<br>
-Prime Minister HUN MANET succeeded his father, HUN SEN who had been prime minister since 1985<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament of Cambodia consists of:<br>Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)<br>National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
+_description_: bicameral Parliament of Cambodia consists of:<br>Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)<br><br>National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
 _elections_: Senate - last held on 25 February 2018 (next to be held in 2024); National Assembly - last held on 23 July 2023 (next to be held in July 2028)<br>
 _election results_: Senate - percent of vote by party - CPP 96%, FUNCINPEC 2.4%, KNUP 1.6%; seats by party - CPP 58; FUNCINPEC 4; composition (as of April 2023) - men 52, women 10, percent of women 16.1%<br>National Assembly - percent of vote by party (July 2023 election)- CPP 82.4%, FUNCINPEC 9.2%, KNUP 1.7%, CYP 1.3%, Other 5.4% (14 other parties received votes); seats by party - CPP 125, FUNCINPEC 5; composition (as of April 2023) - men 99, women 26, percent of women 20.8%; note - total Parliament of Cambodia percent of women 19.3%<br>
 <strong>note:</strong> the CPP had no meaningful opposition in the July 2023 legislative election as the only serious challenger, the Candlelight Party, was disqualified on a technicality in advance of the election; the EU, UN, and US condemned the poll as neither free nor fair<br>

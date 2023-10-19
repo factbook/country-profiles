@@ -369,7 +369,7 @@ _FAX_: [1] (202) 986-1805<br>
 _email address and website_: <br>usa@mfa.gov.by<br><br>https://usa.mfa.gov.by/en/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires ad interim, Deputy Chief of Mission &ndash; Ruben HARUTUNIAN (since 9 June 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Peter KAUFMAN (since June 2023)<br>
 _embassy_: 46 Starovilenskaya Street, Minsk 220002<br>
 _mailing address_: 7010 Minsk Place, Washington DC&nbsp; 20521-7010<br>
 _telephone_: [375] (17) 210-12-83/217-73-47/217-73-48<br>

@@ -363,8 +363,8 @@ _election results_: <br><em>2023:</em> Bola Ahmed Adekunle TINUBU elected presid
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>Senate (109 seats - 3 each for the 36 states and 1 for Abuja-Federal Capital Territory; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>House of Representatives (360 seats statutory, 258 current; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: <p>Senate - last held on 25 February 2023 (next to be held on 25 February 2027)<br>House of Representatives - last held on 25 February 2023 (next to be held on 25 February 2027)</p> <p> </p><br>
-_election results_: <p>Senate - percent of vote by party - NA; seats by party - APC 59, PDP 36, LP 8, NNPP 2, SDP 2, YPP 1, APGA 1; composition - men 106, women 3, percent of women 2.75%<br><br>House of Representatives - percent of vote by party - NA; seats by party - APC 178, PDP 114, LP 35, NNPP 19, APGA 5, other 7, vacant 2; composition - men 344, women 14, percent of women 3.8%; note - total National Assembly percent of women 3.6%</p> <p> </p><br>
+_elections_: <br>Senate - last held on 25 February 2023 (next to be held on 25 February 2027)<br>House of Representatives - last held on 25 February 2023 (next to be held on 25 February 2027) <p> </p><br>
+_election results_: <em><em><br></em></em>Senate - percent of vote by party - NA; seats by party - APC 59, PDP 36, LP 8, NNPP 2, SDP 2, YPP 1, APGA 1; composition - men 106, women 3, percent of women 2.75%<em><em><br><br></em></em>House of Representatives - percent of vote by party - NA; seats by party - APC 178, PDP 114, LP 35, NNPP 19, APGA 5, other 7, vacant 2; composition - men 344, women 14, percent of women 3.8%; note - total National Assembly percent of women 3.6% <p> </p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 15 justices)<br>
@@ -386,7 +386,7 @@ _email address and website_: <br>info@nigeriaembassyusa.org<br><br>https://www.n
 _consulate(s) general_: Atlanta, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Charge d'Affaires David Greene<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires David GREENE (since 31 March 2023)<br>
 _embassy_: Plot 1075 Diplomatic Drive, Central District Area, Abuja<br>
 _mailing address_: 8320 Abuja Place, Washington DC&nbsp; 20521-8320<br>
 _telephone_: [234] (9) 461-4000<br>
@@ -761,8 +761,8 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa; Jama’atu Ansar
 <p><em>Nigeria-Benin</em>: none identified</p> <p><em>Nigeria-Cameroon</em>: Joint Border Commission with Cameroon reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a phaseout of Nigerian control within two years while resolving patriation issues; demarcation of the Bakassi Peninsula and adjoining border areas should be finalized in 2022; as Lake Chad’s evaporation exposed dry land, only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty which also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Nigeria-Cameroon-Equatorial Guinea</em>: the ICJ ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but imprecisely defined coordinates in the ICJ decision and a sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River all contribute to the delay in implementation</p> <p><em>Nigeria-Niger</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 86,401 (Cameroon) (2023)<br>
-_IDPs_: 3.579 million (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2023)<br>
+_refugees (country of origin)_: 89,045 (Cameroon) (2023)<br>
+_IDPs_: 3.15 million (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2023)<br>
 
 **Illicit drugs**<br>
 <p>Nigeria is a major hub for transnational drug trafficking networks entrenched throughout the world and supplying cocaine to Asia and Europe, heroin to Europe and North America, and methamphetamine to South Africa, Southeast Asia, Australia, and New Zealand; also exporting massive quantities of opioids such as tramadol and captagon along with crack cocaine; a major source of precursor or essential chemicals used in the production of illicit narcotics</p> <p> </p><br>

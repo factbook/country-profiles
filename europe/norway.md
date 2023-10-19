@@ -693,7 +693,7 @@ Norwegian Armed Forces (Forsvaret or "the Defense"): Norwegian Army (Haeren), Ro
 
 **Military and security service personnel strengths**<br>
 approximately 27,000 active personnel (9,000 Army; 4,300 Navy; 4,700 Air Force; 9,000 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); approximately 40,000 Home Guard (2023)<br>
-<strong>note:</strong>  active personnel includes about 10,000 conscripts<br>
+<strong>note:</strong> active personnel include about 10,000 conscripts<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a mix of modern, imported European, US, and domestically produced weapons systems and equipment; in recent years, the US has been the leading supplier of weapons systems to Norway (2023)<br>

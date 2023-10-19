@@ -372,7 +372,7 @@ _email address and website_: <br>info@nepalembassyusa.org<br><br>https://us.nepa
 _consulate(s) general_: Chicago, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Randy BERRY (since 25 October 2018)<br>
+_chief of mission_: Ambassador Dean R. THOMPSON (since October 2022)<br>
 _embassy_: Maharajgunj, Kathmandu<br>
 _mailing address_: 6190 Kathmandu Place, Washington DC&nbsp; 20521-6190<br>
 _telephone_: [977] (1) 423-4000<br>

@@ -342,7 +342,7 @@ _election results_: <em><br>2023:</em> Bernardo ARÉVALO de León elected presid
 
 **Legislative branch**<br>
 _description_: unicameral Congress of the Republic or Congreso de la Republica (160 seats; 128 members directly elected in multi-seat constituencies in the country's 22 departments and 32 directly elected in a single nationwide constituency by closed party-list proportional representation vote, using the D'Hondt method; members serve 4-year terms)<br>
-_elections_: last held on 25 June 2023 (next to be held on June 2027)<br>
+_elections_: last held on 25 June 2023 (next to be held in June 2027)<br>
 _election results_: percent of vote by party - NA; seats by party - VAMOS 39, UNE 28, SEMILLA 23, CABAL 18, Valor-Unionist 12, VIVA 11, TODOS 6, VOS 4, BIEN 4, CREO 3, PPN 3, Victoria 3, Blue 2, Elephant 2, Change 1, Winaq-URNG 1; composition - men 128, women 32, percent of women 20%<br>
 
 **Judicial branch**<br>
@@ -366,7 +366,7 @@ _consulate(s) general_: Atlanta, Chicago, Del Rio (TX), Denver, Houston, Los Ang
 _consulate(s)_: Lake Worth (FL), Silver Spring (MD), Tucson (AZ)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador William W. POPP (since 13 August 2020)<br>
+_chief of mission_: Ambassador (vacant); Chargé d'Affaires Patrick VENTRELL (since August 2023)<br>
 _embassy_: Avenida Reforma 7-01, Zone 10, Guatemala City<br>
 _mailing address_: 3190 Guatemala Place, Washington DC&nbsp; 20521-3190<br>
 _telephone_: [502] 2326-4000<br>

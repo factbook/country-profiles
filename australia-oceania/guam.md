@@ -273,7 +273,7 @@ _election results_: Lourdes LEON GUERRERO reelected governor; percent of vote - 
 
 **Legislative branch**<br>
 _description_: unicameral Legislature of Guam or Liheslaturan Guahan (15 seats; members elected in a single countrywide constituency by simple majority vote to serve 2-year terms)<br>Guam directly elects 1 member by simple majority vote to serve a 2-year term as the delegate to the US House of Representatives; note - the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
-_elections_: Guam Legislature - last held on 8 November 2022 (next to be held on  November 2024)<br>delegate to the US House of Representatives - last held on 8 November 2022 (next to be held on November 2024)<br>
+_elections_: Guam Legislature - last held on 8 November 2022 (next to be held on November 2024)<br>delegate to the US House of Representatives - last held on 8 November 2022 (next to be held on November 2024)<br>
 _election results_: Guam Legislature - percent of vote by party - NA; seats by party - Democratic Party 10, Republican Party 5; composition - men 5, women 10, percent of women 66.7%<br>Guam delegate to the US House of Representatives - Democratic Party 1 (man)<br>
 
 **Judicial branch**<br>

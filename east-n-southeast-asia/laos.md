@@ -342,7 +342,7 @@ _residency requirement for naturalization_: 10 years<br>
 **Executive branch**<br>
 _chief of state_: President THONGLOUN Sisoulith (since 22 March 2021); Vice Presidents PANI Yathotou and BOUNTHONG Chitmani (since 22 March 2021)<br>
 _head of government_: Prime Minister SONXAI Siphandon (since 30 December 2022)<br>
-_cabinet_: Council of Ministers appointed by the president, approved by the National Assembly<br>
+_cabinet_: Council of Ministers appointed by the president and approved by the National Assembly<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (no term limits); election last held on 22 March 2021 (next to be held in March 2026); prime minister nominated by the president, elected by the National Assembly for 5-year term<br>
 _election results_: <em><br>2021: </em>THONGLOUN Sisoulith elected president; National Assembly vote - THONGLOUN Sisoulith (LPRP161-1; PANI Yathotou and BOUNTHONG Chitmani (LPRP) elected vice presidents; National Assembly vote - NA; PHANKHAM Viphavan (LPRP) elected prime minister; National Assembly vote - 158-3<br><br><em>2016:</em> BOUNNYANG Vorachit (LPRP) elected president; PHANKHAM Viphavan (LPRP) elected vice president; percent of National Assembly vote - NA; THONGLOUN Sisoulith (LPRP) elected prime minister; percent of National Assembly vote - NA<br>
 
@@ -372,7 +372,7 @@ _email address and website_: <br>embasslao@gmail.com<br><br>https://laoembassy.c
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Peter HAYMOND (since 7 February 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute;e d&rsquo;Affaires Michelle OUTLAW (since August 2023)<br>
 _embassy_: Ban Somvang Tai, Thadeua Road, Km 9,&nbsp;Hatsayfong District, Vientiane<br>
 _mailing address_: 4350 Vientiane Place, Washington DC&nbsp; 20521-4350<br>
 _telephone_: [856] 21-48-7000<br>

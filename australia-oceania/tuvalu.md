@@ -279,7 +279,7 @@ Independence Day, 1 October (1978)<br>
 
 **Constitution**<br>
 _history_: previous 1978 (at independence); latest effective 1 October 1986<br>
-_amendments_: proposed by the House of Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the final reading; amended 2007, 2010, 2013; note - in 2016, the United Nations Development Program and the Tuvaluan Government initiated a review of the country's constitution, which was ongoing as of early 2021<br>
+_amendments_: proposed by the House of Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the final reading; amended 2007, 2010, 2013, 2023<br>
 
 **Legal system**<br>
 mixed legal system of English common law and local customary law<br>

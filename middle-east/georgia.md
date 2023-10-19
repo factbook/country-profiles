@@ -363,7 +363,7 @@ _email address and website_: <br>embgeo.usa@mfa.gov.ge<br><br>https://georgiaemb
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Kelly C. DEGNAN (since 31 January 2020)<br>
+_chief of mission_: Ambassador Robin DUNNIGAN (since 12 October 2023)<br>
 _embassy_: 29 Georgian-American Friendship Avenue, Didi Dighomi, Tbilisi, 0131<br>
 _mailing address_: 7060 Tbilisi Place, Washington, DC&nbsp; 20521-7060<br>
 _telephone_: [995] (32) 227-70-00<br>
@@ -704,7 +704,7 @@ the Defense Forces of Georgia (DFG) are responsible for protecting the independe
 <p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 24,180 (Ukraine) (as of 9 May 2023)<br>
+_refugees (country of origin)_: 27,000 (Ukraine) (as of 4 October 2023)<br>
 _IDPs_: 308,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2022)<br>
 _stateless persons_: 530 (2022)<br>
 

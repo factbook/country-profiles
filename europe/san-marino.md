@@ -313,6 +313,7 @@ _FAX_: [1] (212) 751-1436<br>
 _email address and website_: <br>smrassistant@gmail.com<br><br>Republic of San Marino Permanent Mission to the United Nations<br>
 
 **Diplomatic representation from the US**<br>
+_chief of mission_: Ambassador Jack Markell (since September 2023); note - also accredited to Italy<br>
 _embassy_: the United States does not have an Embassy in San Marino; the US Ambassador to Italy is accredited to San Marino, and the US Consulate General in Florence maintains day-to-day ties<br>
 
 **Flag description**<br>

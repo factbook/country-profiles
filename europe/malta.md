@@ -351,7 +351,7 @@ _FAX_: [1] (202) 387-5470; note - The Embassy of Malta has relocated until furth
 _email address and website_: <br>maltaembassy.washington@gov.mt<br><br>https://foreignandeu.gov.mt/en/Embassies/ME_United_States/Pages/ME_United_States.aspx<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Gwendolyn "Wendy" GREEN (since August 2020)<br>
+_chief of mission_: Ambassador Constance J. MILSTEIN (since October 27, 2022)<br>
 _embassy_: Ta' Qali National Park, Attard, ATD 4000<br>
 _mailing address_: 5800 Valletta Place, Washington DC&nbsp; 20521-5800<br>
 _telephone_: [356] 2561-4000<br>
@@ -654,11 +654,11 @@ the Armed Forces of Malta (AFM) is a joint force with land, maritime, and air el
 <strong>note:</strong> the Malta Police Force maintains internal security; both the Police and the AFM report to the Ministry of Home Affairs, National Security, and Law Enforcement<br>
 
 **Military expenditures**<br>
-0.6% of GDP (2022 est.)<br>
+0.8% of GDP (2023 est.)<br>
+0.7% of GDP (2022)<br>
 0.5% of GDP (2021)<br>
 0.6% of GDP (2020)<br>
 0.5% of GDP (2019)<br>
-0.5% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 active-duty personnel (2023)<br>

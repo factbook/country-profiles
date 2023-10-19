@@ -374,7 +374,7 @@ _FAX_: [1] (202) 232-4544<br>
 _email address and website_: <br>info@rwandaembassy.org<br><br>https://rwandaembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Deb MacLEAN (since February 2022)<br>
+_chief of mission_: Ambassador Eric KNEEDLER (since 3 October 2023)<br>
 _embassy_: 2657 Avenue de la Gendarmerie (Kaciyiru), P. O. Box 28 Kigali<br>
 _mailing address_: 2210 Kigali Place, Washington DC&nbsp; 20521-2210<br>
 _telephone_: [250] 252 596-400<br>

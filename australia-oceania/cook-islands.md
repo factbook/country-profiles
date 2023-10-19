@@ -261,7 +261,7 @@ _etymology_: translates as "two harbors" in Maori<br>
 none<br>
 
 **Independence**<br>
-none (became self-governing in free association with New Zealand on 4 August 1965 with the right at any time to move to full independence by unilateral action)<br>
+4 August 1965 (Cook Islands became self-governing state in free association with New Zealand)<br>
 
 **National holiday**<br>
 Constitution Day, the first Monday in August (1965)<br>
@@ -286,7 +286,7 @@ _cabinet_: Cabinet chosen by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; UK representative appointed by the monarch; New Zealand high commissioner appointed by the New Zealand Government; following legislative elections, the leader of the majority party or majority coalition usually becomes prime minister<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament, formerly the Legislative Assembly (24 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms); note - the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the Queen's representative serves as a consultative body to the Parliament<br>
+_description_: unicameral Parliament, formerly the Legislative Assembly (24 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms); note - the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the King's representative serves as a consultative body to the Parliament<br>
 _elections_: last held on 1 August 2022 (next to be held by 2026)<br>
 _election results_: percent of vote by party - CIP 44%, Demo 26.9%, Cook Islands United Party 26.9%, OCI 2.7%, other 0.2% independent 7.3%; seats by party - CIP 12, Demo 5, Cook Islands United Party 3, OCI 1, independent 3; composition as of September 2023 - men 18, women 6, percent of women 25%<br>
 
@@ -306,6 +306,7 @@ none (self-governing in free association with New Zealand)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (self-governing in free association with New Zealand)<br>
+<strong>note:</strong> on 25 September 2023, the US officially established diplomatic relations with Cook Islands<br>
 
 **Flag description**<br>
 blue with the flag of the UK in the upper hoist-side quadrant and a large circle of 15 white five-pointed stars (one for every island) centered in the outer half of the flag<br>
