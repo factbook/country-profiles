@@ -217,7 +217,7 @@ NA<br>
 57.2% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 18_: 0% (2017 est.)<br>
+_women married by age 18_: 0.1% (2017 est.)<br>
 
 **Education expenditures**<br>
 5.9% of GDP (2020 est.)<br>

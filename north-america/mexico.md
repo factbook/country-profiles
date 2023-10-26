@@ -222,7 +222,7 @@ _male_: 19.9% (2020 est.)<br>
 _female_: 6.2% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-4.7% (2018/19)<br>
+4.2% (2021)<br>
 
 **Currently married women (ages 15-49)**<br>
 56.6% (2023 est.)<br>
@@ -734,8 +734,8 @@ the Mexican Armed Forces (Fuerzas Armadas de México) are divided between the S
 <strong>note:</strong> the National Guard was formed in 2019 of personnel from the former Federal Police (disbanded in December 2019) and military police units of the Army and Navy; up until September 2022, the Guard was under the civilian-led Secretariat of Security and Civilian Protection, while the SEDENA had day-to-day operational control and provided the commanders and the training; in September 2022, complete control of the Guard was handed over to the SEDENA/Mexican Army; the Guard, along with state and municipal police, is responsible for enforcing the law and maintaining order; the regular military also actively supports police operations<br>
 
 **Military expenditures**<br>
-0.8% of GDP (2022 est.)<br>
-0.8% of GDP (2021)<br>
+0.7% of GDP (2022 est.)<br>
+0.7% of GDP (2021)<br>
 0.6% of GDP (2020)<br>
 0.5% of GDP (2019)<br>
 0.5% of GDP (2018)<br>

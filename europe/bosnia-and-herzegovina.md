@@ -203,9 +203,6 @@ _total_: 35% (2020 est.)<br>
 _male_: 42% (2020 est.)<br>
 _female_: 28% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-1.6% (2012)<br>
-
 **Currently married women (ages 15-49)**<br>
 63.8% (2023 est.)<br>
 
@@ -337,7 +334,7 @@ _election results_: <em><br>2022: </em>percent of vote<em> -</em> Denis BECIROVI
 <strong>note:</strong> President of the Federation of Bosnia and Herzegovina Lidiia BRADARA (since 28 February 2023); Vice Presidents Refik LENDO (since 28 February 2023) and Igor STOJANOVIC (since 28 February 2023); President of the Republika Srpska Milorad DODIK (since 15 November 2022); Vice Presidents Camil DURAKOVIC (since 15 November 2022) and Davor PRANJIC (since 15 November 2022)<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliamentary Assembly or Skupstina consists of:<br>House of Peoples or Dom Naroda (15 seats - 5 Bosniak, 5 Croat, 5 Serb; members designated by the Federation of Bosnia and Herzegovina's House of Peoples and the Republika Srpska's National Assembly to serve 4-year terms)<br>House of Representatives or Predstavnicki Dom (42 seats to include 28 seats allocated to the Federation of Bosnia and Herzegovina and 14 to the Republika Srpska; members directly elected by proportional representation vote to serve 4-year terms); note - the Federation of Bosnia and Herzegovina has a bicameral legislature that consists of the House of Peoples (80 seats - 23 Bosniak, 23 Croat, 23 Serb, 11 other) and the House of Representatives (98 seats; members directly elected by proportional representation vote to serve 4-year terms); Republika Srpska's unicameral legislature is the National Assembly (83 directly elected delegates serve 4-year terms)<br>
+_description_: bicameral Parliamentary Assembly or Skupstina consists of:<br>House of Peoples or Dom Naroda (15 seats - 5 Bosniak, 5 Croat, 5 Serb; members designated by the Federation of Bosnia and Herzegovina's House of Peoples and the Republika Srpska's National Assembly serve 4-year terms)<br>House of Representatives or Predstavnicki Dom (42 seats to include 28 seats allocated to the Federation of Bosnia and Herzegovina and 14 to the Republika Srpska; members directly elected by proportional representation vote to serve 4-year terms); note - the Federation of Bosnia and Herzegovina has a bicameral legislature that consists of the House of Peoples (80 seats - 23 Bosniak, 23 Croat, 23 Serb, 11 other) and the House of Representatives (98 seats; members directly elected by proportional representation vote to serve 4-year terms); Republika Srpska's unicameral legislature is the National Assembly or Narodna skupština Republike Srpske (83 directly elected delegates serve 4-year terms)<br>
 _elections_: House of Peoples - last held on 2 October 2022 (next to be held in 2026)<br>House of Representatives - last held on 2 October 2022 (next to be held in 2026)<br>
 _election results_: House of Peoples - percent of vote by coalition/party - NA; seats by coalition/party - NA; composition - men 12, women 3, percent of women 20%<br>House of Representatives - percent of vote by party/coalition - SDA 17.2%, SNSD 16.3%, HDZ BiH 8.8%, SDP 8.2%, SDS 7.1%, DF-GS 6.4%, NiP 5%, PDP 4.6%, NS/HC 3.1%, NES 3%, For Justice and Order 2.1%, DEMOS 1.9%, US 1.6%, BHI KF 1.3%, other 13.4%; seats by party/coalition - SDA 9, SNSD 6, SDP 5, HDZ BiH 4, DF-GS 3, NiP 3, SDS 2, PDP 2, NS/HC 2, NES 2, For Justice and Order 1, DEMOS 1, US 1, BHI KF 1; composition - men 31, women 11, percent of women 26.2%; note - total Parliamentary Assembly percent of women 24.6%<br>
 
@@ -347,7 +344,7 @@ _judge selection and term of office_: BiH Constitutional Court judges - 4 select
 _subordinate courts_: the Federation has 10 cantonal courts plus a number of municipal courts; the Republika Srpska has a supreme court, 5 district courts, and a number of municipal courts<br>
 
 **Political parties and leaders**<br>
-Alliance of Independent Social Democrats or SNSD [Milorad DODIK]<br>Bosnian-Herzegovinian Initiative or BHI KF [Fuad KASUMOVIC]<br>Civic Alliance or GS [Reuf BAJROVIC]<br>Croatian Democratic Union of Bosnia and Herzegovina or HDZ-BiH [Dragan COVIC]<br>Democratic Front or DF [Zeljko KOMSIC]<br>Democratic Union or DEMOS [Nedeljko CUBRILOVIC]<br>For Justice and Order [Nebojsa VUKANOVIC]<br>Our Party or NS/HC [Edin FORTO]<br>Party for Democratic Action or SDA [Bakir IZETBEGOVIC]<br>Party of Democratic Progress or PDP [Branislav BORENOVIC]<br>People and Justice Party or NiP [Elmedin KONAKOVIC]<br>People's European Union of Bosnia and Herzegovina or NES [Nermin OGRESEVIC]<br>Progressive Srpska or NS [Goran DORDIC]<br>Serb Democratic Party or SDS [Milan MILICEVIC]<br>Social Democratic Party or SDP [Nermin NIKSIC]<br>United Srpska or US [Nenad STEVANDIC]<br>
+Alliance of Independent Social Democrats or SNSD [Milorad DODIK]<br>Bosnian-Herzegovinian Initiative or BHI KF [Fuad KASUMOVIC]<br>Civic Alliance or GS [Reuf BAJROVIC]<br>Croatian Democratic Union of Bosnia and Herzegovina or HDZ-BiH [Dragan COVIC]<br>Democratic Front or DF [Zeljko KOMSIC]<br>Democratic Union or DEMOS [Nedeljko CUBRILOVIC]<br>For Justice and Order [Nebojsa VUKANOVIC]<br>Our Party or NS/HC [Edin FORTO]<br>Party for Democratic Action or SDA [Bakir IZETBEGOVIC]<br>Party of Democratic Progress or PDP [Branislav BORENOVIC]<br>People and Justice Party or NiP [Elmedin KONAKOVIC]<br>People's European Union of Bosnia and Herzegovina or NES [Nermin OGRESEVIC]<br>Serb Democratic Party or SDS [Milan MILICEVIC]<br>Social Democratic Party or SDP [Nermin NIKSIC]<br>United Srpska or US [Nenad STEVANDIC]<br>
 
 **International organization participation**<br>
 BIS, CD, CE, CEI, EAPC, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM (observer), OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
@@ -693,7 +690,7 @@ the military's inventory is largely Soviet-era material with a smaller mix of mo
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished in 2005 (2023)<br>
-<strong>note:</strong> as of 2021, women made up about 7% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2022, women made up about 7% of the military's full-time personnel<br>
 
 **Military - note**<br>
 the Armed Forces of Bosnia and Herzegovina (AFBiH) are comprised of the former Bosnian-Croat Army of the Federation of Bosnia and Herzegovina (Vojska Federacije Bosne i Hercegovin, VF) and the Bosnian-Serb Republic of Serbia Army (Vojska Republike Srpske, VRS); the two forces were unified under the 2006 Law on Defense, and the combined force includes each ethnic group; the 2006 law also established the country’s Ministry of Defense<br><br>the AFBiH is responsible for territorial defense, providing assistance to civil authorities during disasters or other emergencies, and participating in collective security and peace support operations; it is a compact and professional force organized into five brigades under an Operational Command: three infantry, one tactical support, and one air and air defense; each of the infantry brigades is headquartered inside of their respective ethnicity territory, while the Operational Command is in Sarajevo; Bosnia and Herzegovina aspires to join NATO; it joined NATO’s Partnership for Peace (PfP) program in 2007 and was invited to join NATO’s Membership Action Plan in 2010; the AFBiH is undergoing a defense modernization and reform program for preparing to join and integrate with NATO; it has contributed small numbers of troops to EU, NATO, and UN missions<br><br>NATO maintains a military headquarters in Sarajevo with the mission of assisting Bosnia and Herzegovina with the PfP program and promoting closer integration with NATO, as well as providing logistics and other support to the EU Force Bosnia and Herzegovina (EUFOR), which has operated in the country to oversee implementation of the Dayton/Paris Agreement since taking over from NATO's Stabilization Force (SFOR) in 2004; EUFOR has about 1,100 troops from 22 countries (2023)<br>
@@ -712,7 +709,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 **Refugees and internally displaced persons**<br>
 _IDPs_: 91,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2022)<br>
 _stateless persons_: 48 (2022)<br>
-<strong>note: </strong>133,892 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
+<strong>note: </strong>138,716 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>

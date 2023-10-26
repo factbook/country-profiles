@@ -341,7 +341,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Alexander VAN DER BELLEN (since 26 January 2017); note - President Alexander VAN DER BELLEN&nbsp; reelected to a second six-year term on 9 October 2022<br>
-_head of government_: Chancellor Karl NEHAMMER (since 6 December 2021); note - Chancellor Alexander SCHALLENBERG resigned on 2 December 2021<br>
+_head of government_: Chancellor Karl NEHAMMER (since 6 December 2021)<br>
 _cabinet_: Council of Ministers proposed by the chancellor and appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 9 October 2022; (next election to be held in 2028); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor<br>
 _election results_: <br><em>2022:</em> Alexander VAN DER BELLEN elected in first round; percent of vote - Alexander VAN DER BELLEN (the Greens) 56.7%, Walter ROSENKRANZ (FPO) 17.7%, Dominik WLAZNY (Beer) 8.3%, Tassilo WALLENTIN (independent) 8.1%, Gerald GROSZ (independent) 5.6%<em><br><br>2016:</em> Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br>
@@ -740,7 +740,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 68,700 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 68,700 (Ukraine) (as of 2 October 2023)<br>
+_refugees (country of origin)_: 68,700 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 68,700 (Ukraine) (as of 9 October 2023)<br>
 _stateless persons_: 3,219 (2022)<br>
 
 **Illicit drugs**<br>

@@ -214,10 +214,14 @@ _male_: 14.6% (2020 est.)<br>
 _female_: 6.5% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-4% (2013)<br>
+3% (2019)<br>
 
 **Currently married women (ages 15-49)**<br>
 52.1% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 9.4%<br>
+_women married by age 18_: 31.5% (2019 est.)<br>
 
 **Education expenditures**<br>
 4.6% of GDP (2020 est.)<br>

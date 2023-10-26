@@ -204,10 +204,14 @@ _spirits_: 0.14 liters of pure alcohol (2019 est.)<br>
 _other alcohols_: 0 liters of pure alcohol (2019 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-29.9% (2012)<br>
+16.2% (2019)<br>
 
 **Currently married women (ages 15-49)**<br>
 50.6% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 15_: 1.4%<br>
+_women married by age 18_: 6.5% (2019 est.)<br>
 
 **Education expenditures**<br>
 3.6% of GDP (2018 est.)<br>

@@ -208,7 +208,6 @@ _female_: 6% (2020 est.)<br>
 71.9% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0%<br>
 _women married by age 18_: 2.2%<br>
 _men married by age 18_: 2.2% (2017 est.)<br>
 

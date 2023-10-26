@@ -231,9 +231,10 @@ _female_: 0.5% (2020 est.)<br>
 66.2% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 15.7%<br>
-_women married by age 18_: 43.4%<br>
-_men married by age 18_: 3.2% (2018 est.)<br>
+_women married by age 15_: 12.3%<br>
+_women married by age 18_: 30.3%<br>
+_men married by age 18_: 1.6% (2021 est.)<br>
+<strong>note:</strong> due to prolonged insecurity concerns, some parts of states, including Borno state, were not sampled<br>
 
 **Education expenditures**<br>
 0.5% of GDP (2013)<br>

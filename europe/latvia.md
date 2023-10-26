@@ -207,7 +207,7 @@ _male_: 50.3% (2020 est.)<br>
 _female_: 23.7% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-NA<br>
+21.1% (2020/21) NA<br>
 
 **Currently married women (ages 15-49)**<br>
 49.1% (2023 est.)<br>
@@ -686,7 +686,7 @@ National Armed Forces (Nacionalie Brunotie Speki or NBS): Land Forces (Latvijas 
 2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,700 regular military forces; approximately 9,500 National Guard (2023)<br>
+approximately 7,000 regular military forces; approximately 9,500 National Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Latvian military's inventory consists of a mixture of Soviet-era and limited amounts of more modern, Western-produced systems acquired since the country joined NATO in 2004; in recent years, the UK and US have been the leading suppliers of military equipment (2023)<br>

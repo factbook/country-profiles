@@ -223,14 +223,14 @@ _male_: 13.2% (2020 est.)<br>
 _female_: 3% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-2.4% (2019)<br>
+2.1% (2021)<br>
 
 **Currently married women (ages 15-49)**<br>
 51.2% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 2.5%<br>
-_women married by age 18_: 17.4% (2018 est.)<br>
+_women married by age 15_: 2%<br>
+_women married by age 18_: 14.1% (2020 est.)<br>
 
 **Education expenditures**<br>
 4% of GDP (2021 est.)<br>
@@ -391,7 +391,7 @@ _email address and website_: <br>Webadmin@embassyofperu.us<br><br>Embassy of Per
 _consulate(s) general_: Atlanta, Boston, Chicago, Dallas, Denver, Hartford (CT), Houston, Los Angeles, Miami, New York, Paterson (NJ), San Francisco, Washington DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Chargé d’Affaires John T. MCNAMARA (since 8 September 2023)<br>
+_chief of mission_: Ambassador (vacant); Chargé d’Affaires John T. McNAMARA (since 8 September 2023)<br>
 _embassy_: Avenida La Encalada, Cuadra 17 s/n, Surco, Lima 33<br>
 _mailing address_: 3230 Lima Place, Washington DC&nbsp; 20521-3230<br>
 _telephone_: [51] (1) 618-2000<br>

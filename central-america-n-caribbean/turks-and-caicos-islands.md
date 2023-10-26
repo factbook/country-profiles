@@ -170,10 +170,14 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 12% of population (2017)<br>
 
 **Children under the age of 5 years underweight**<br>
-NA<br>
+0.4% (2019/20) NA<br>
 
 **Currently married women (ages 15-49)**<br>
 59.1% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 18_: 23.3%<br>
+_men married by age 18_: 5.1% (2020 est.)<br>
 
 **Education expenditures**<br>
 4.5% of GDP (2021 est.)<br>

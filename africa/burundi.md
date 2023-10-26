@@ -219,7 +219,7 @@ _male_: 17.4% (2020 est.)<br>
 _female_: 6.1% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-27% (2018/19)<br>
+27.6% (2022)<br>
 
 **Currently married women (ages 15-49)**<br>
 54.1% (2023 est.)<br>
@@ -360,7 +360,7 @@ _election results_: <br><em>2020: </em>Evariste NDAYISHIMIYE elected president; 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Inama Nkenguzamateka (39 seats in the July 2020 election); 36 members indirectly elected by an electoral college of provincial councils using a three-round voting system, which requires a two-thirds majority vote in the first two rounds and simple majority vote for the two leading candidates in the final round; 3 seats reserved for Twas, and 30% of all votes reserved for women; members serve 5-year terms)<br>National Assembly or Inama Nshingamateka (123 seats in the May 2020 election; 100 members directly elected in multi-seat constituencies by proportional representation vote and 23 co-opted members; 60% of seats allocated to Hutu and 40% to Tutsi; 3 seats reserved for Twas; 30% of total seats reserved for women; members serve 5-year terms)<br>
 _elections_: <br>Senate - last held on 20 July 2020 (next to be held in 2025)<br>National Assembly - last held on 20 May 2020 (next to be held in 2025)<br>
-_election results_: <p>Senate - percent of vote by party - CNDD-FDD 87.2%, Twa 7.7%, CNL 2.6%, UPRONA 2.6%; seats by party - CNDD-FDD 34, CNL 1, UPRONA 1, Twa 3; composition - men 23, women 16, percent of women 37.2% <br><br>National Assembly - percent of vote by party - CNDD-FDD 70.9%, CNL 23.4%, UPRONA 2.5%, other (co-opted Twa) 3.2%; seats by party - CNDD-FDD 86, CNL 32, UPRONA 2, Twa 3; composition - men 76, women 47, percent of women 38.2%; note - total Parliament percent of women 38%</p> <p> </p><br>
+_election results_: <em><br></em>Senate - percent of vote by party - CNDD-FDD 87.2%, Twa 7.7%, CNL 2.6%, UPRONA 2.6%; seats by party - CNDD-FDD 34, Twa 3, CNL 1, UPRONA 1; composition - men 23, women 16, percent of women 37.2% <p>National Assembly - percent of vote by party - CNDD-FDD 70.9%, CNL 23.4%, UPRONA 2.5%, other (co-opted Twa) 3.2%; seats by party - CNDD-FDD 86, CNL 32, Twa 3, UPRONA 2; composition - men 76, women 47, percent of women 38.2%; note - total Parliament percent of women 38%</p> <p> </p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 9 judges and organized into judicial, administrative, and cassation chambers); Constitutional Court (consists of 7 members)<br>

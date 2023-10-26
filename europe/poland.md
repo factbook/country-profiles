@@ -214,9 +214,6 @@ _total_: 24% (2020 est.)<br>
 _male_: 27.9% (2020 est.)<br>
 _female_: 20.1% (2020 est.)<br>
 
-**Children under the age of 5 years underweight**<br>
-0.7% (2010/12)<br>
-
 **Currently married women (ages 15-49)**<br>
 56.6% (2023 est.)<br>
 
@@ -749,7 +746,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 959,875 (Ukraine) (as of 25 September 2023)<br>
+_refugees (country of origin)_: 959,875 (Ukraine) (as of 10 October 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

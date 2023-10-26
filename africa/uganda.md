@@ -218,7 +218,7 @@ _male_: 13% (2020 est.)<br>
 _female_: 3.7% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-10.4% (2016)<br>
+7.6% (2019/20)<br>
 
 **Currently married women (ages 15-49)**<br>
 58.3% (2023 est.)<br>
@@ -701,7 +701,7 @@ approximately 45-50,000 active-duty troops (2023)<br>
 the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited mix of more modern Russian- and Western-origin arms; in recent years, Belarus and Russia have been the leading supplier of arms to the UPDF; Uganda has a small but growing defense industry that can manufacture light armored vehicles and perform maintenance on some military equipment, including its Russian-made helicopters (2023)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military duty for men and women; 18-30 for those with degrees/diplomas in specialized fields such as medicine, engineering, chemistry, and education, or possess qualifications in some vocational skills; 9-year service obligation (2022)<br>
+18-25 years of age for voluntary military duty for men and women; 18-30 for those with degrees/diplomas in specialized fields such as medicine, engineering, chemistry, and education, or possess qualifications in some vocational skills; 9-year service obligation (2023)<br>
 
 **Military deployments**<br>
 approximately 6,500 Somalia (625 for UNSOM; the remainder under ATMIS; note - foreign troop contingents in Somalia under ATMIS are drawing down towards a final withdrawal in December 2024); 250 Equatorial Guinea (training mission) (2023)<br>
@@ -731,6 +731,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 893,866 (South Sudan) (refugees and asylum seekers), 498,133 (Democratic Republic of the Congo), 41,277 (Somalia), 38,533 (Burundi), 36,900 (Eritrea), 23,808 (Rwanda), 9,139 (Ethiopia), 5,776 (Sudan) (2023)<br>
+_refugees (country of origin)_: 898,513 (South Sudan) (refugees and asylum seekers), 498,133 (Democratic Republic of the Congo), 41,180 (Somalia), 38,593 (Burundi), 34,368 (Eritrea), 23,388 (Rwanda), 8,936 (Ethiopia), 5,776 (Sudan) (2023)<br>
 _stateless persons_: 67,000 (2022)<br>
 

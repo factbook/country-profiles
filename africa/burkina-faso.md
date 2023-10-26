@@ -143,8 +143,8 @@ _65 years and over_: 0.74 male(s)/female<br>
 _total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.4 years (2010 est.)<br>
-<strong>note:</strong> data represents median age at first birth among women 25-29<br>
+20.1 years (2021 est.)<br>
+<strong>note:</strong> data represents median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 264 deaths/100,000 live births (2020 est.)<br>
@@ -218,7 +218,7 @@ _male_: 22.1% (2020 est.)<br>
 _female_: 6.4% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-16.4% (2019)<br>
+17.5% (2021)<br>
 
 **Currently married women (ages 15-49)**<br>
 73.5% (2023)<br>
@@ -354,7 +354,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2020:</em> Roch Marc Christian KABORE reelected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 57.9%, Eddie KOMBOIGO (CDP) 15.5%, Zephirin DIABRE (UPC)12.5%, other 14.1%<br><br><em>2015:</em> Roch Marc Christian KABORE elected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 53.5%, Zephirin DIABRE (UPC) 29.6%, Tahirou BARRY (PAREN) 3.1%, Benewende Stanislas SANKARA (UNIR-MS) 2.8%, other 10.9%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly (127 seats; 111 members directly elected in 13 multi-seat constituencies by party-list proportional representation vote and 26 members elected in a nationwide constituency by proportional representation vote; all member serve 5-year terms)<br>
+_description_: unicameral National Assembly (127 seats; 111 members directly elected in 13 multi-seat constituencies by party-list proportional representation vote and 26 members elected in a nationwide constituency by proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 22 November 2020 (next to be held by July 2024)<br>
 _election results_: percent of vote by party - MPP 34.6%, CDP 13.3%, UPC 10.2%, NTD 5.6%, other 36.3%; seats by party - MPP 56, CDP 20, NTD 13, UPC 12, other 26; composition as of October 2021 - men 119, women 8, percent of women 6.3%<br>
 

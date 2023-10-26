@@ -210,6 +210,9 @@ _female_: 2% (2020 est.)<br>
 **Currently married women (ages 15-49)**<br>
 53.9% (2023 est.)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 1.5% (2018 est.)<br>
+
 **Education expenditures**<br>
 7.3% of GDP (2016 est.)<br>
 
@@ -336,7 +339,7 @@ _election results_: <em><br></em>Kais SAIED elected president in second round; p
 
 **Legislative branch**<br>
 _description_: bicameral legislature (enacted by the 2022 constitution) consists of:<br>newly added National Council of Regions and Districts (Le Conseil National des regions et des districts); (NA seats; members appointed by municipal-level councils; members of each Regional Council elect 3 members among themselves to the National Council; each District Council elects 1 member among themselves to the National Council; members serve 5-year term)<br>Assembly of Representatives of the People (161 seats; 151 members in single seat constituencies and 10 members from Tunisian diaspora directly elected by majoritarian two-round voting system; all members serve 5-year terms)<br>
-_elections_: National Council of Regions and Districts - dates of first appointments and indirect elections NA<br>Assembly of Representatives of the People - last held on 17 December 2022 with a runoff on 29 January 2023 (next scheduled for late 2027)<br>
+_elections_: National Council of Regions and Districts - dates of first appointments and indirect elections NA<br>Assembly of Representatives of the People - last held on 17 December 2022 with a runoff on 29 January 2023 (next to be held in late 2027)<br>
 _election results_: note: in 2022 President SAIED issued a new electoral law which required all legislative candidates run as independents<br>results NA; composition for 154 seats) - men 129, women 25, percent of women 15.2%<br>
 
 **Judicial branch**<br>

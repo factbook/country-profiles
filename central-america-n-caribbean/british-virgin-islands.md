@@ -265,7 +265,7 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 <strong>note;</strong> on 5 May 2022, Premier Andrew FAHIE was removed from office by a no confidence vote in House of Assembly following his arrest on drug trafficking and money laundering charges on 28 April 2022; Premier Dr. Natalio WHEATLEY sworn in as premier on 5 May 2022<br>
 
 **Legislative branch**<br>
-_description_: unicameral House of Assembly (15 seats; 13 members - 9 in single-seat constituencies and 4 at-large seats directly elected by simple majority vote and 2 ex-officio members - the attorney general and the speaker - chosen from outside the House; members serve 4-year terms)<br>
+_description_: unicameral House of Assembly (15 seats; 13 members - 9 in single-seat constituencies and 4 members in a single, nationwide constituency directly elected by simple majority vote and 2 ex-officio members - the attorney general and the speaker - chosen from outside the House; members serve 4-year terms)<br>
 _elections_: last held on 24 April 2023 (next to be held in 2027)<br>
 _election results_: percent of vote by party - PVIM 34.2%, VIP 31.9%, NDP 26.1%, PU 8%; seats by party - VIP 6, NDP 3, PVIM 3, PU 1<br>
 

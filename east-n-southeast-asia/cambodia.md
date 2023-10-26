@@ -222,7 +222,7 @@ _male_: 36.1% (2020 est.)<br>
 _female_: 6% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-24.1% (2014)<br>
+16.3% (2022)<br>
 
 **Currently married women (ages 15-49)**<br>
 66.4% (2023 est.)<br>
@@ -351,9 +351,9 @@ _elections/appointments_: monarch chosen by the 9-member Royal Council of the Th
 
 **Legislative branch**<br>
 _description_: bicameral Parliament of Cambodia consists of:<br>Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)<br><br>National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: Senate - last held on 25 February 2018 (next to be held in 2024); National Assembly - last held on 23 July 2023 (next to be held in July 2028)<br>
-_election results_: Senate - percent of vote by party - CPP 96%, FUNCINPEC 2.4%, KNUP 1.6%; seats by party - CPP 58; FUNCINPEC 4; composition (as of April 2023) - men 52, women 10, percent of women 16.1%<br>National Assembly - percent of vote by party (July 2023 election)- CPP 82.4%, FUNCINPEC 9.2%, KNUP 1.7%, CYP 1.3%, Other 5.4% (14 other parties received votes); seats by party - CPP 125, FUNCINPEC 5; composition (as of April 2023) - men 99, women 26, percent of women 20.8%; note - total Parliament of Cambodia percent of women 19.3%<br>
-<strong>note:</strong> the CPP had no meaningful opposition in the July 2023 legislative election as the only serious challenger, the Candlelight Party, was disqualified on a technicality in advance of the election; the EU, UN, and US condemned the poll as neither free nor fair<br>
+_elections_: <br>Senate - last held on 25 February 2018 (next to be held in 2024)<br>National Assembly - last held on 23 July 2023 (next to be held in July 2028)<br>
+_election results_: <br>Senate - percent of vote by party - CPP 96%, FUNCINPEC 2.4%, KNUP 1.6%; seats by party - CPP 58; FUNCINPEC 4; composition (as of October 2023) - men 52, women 10, percent of women 16.1%<br>National Assembly - percent of vote by party - CPP 82.4%, FUNCINPEC 9.2%, KNUP 1.7%, CYP 1.3%, other 5.4% (14 other parties received votes); seats by party - CPP 125, FUNCINPEC 5; composition (as of October 2023) - men 112, women 13, percent of women 10.4%; note - total Parliament of Cambodia percent of women 12.3%<br>
+<strong>note:</strong> the CPP had no meaningful opposition in the July 2023 legislative election as the only serious challenger - the Candlelight Party - was disqualified on a technicality in advance of the election; the EU, UN, and US condemned the poll as neither free nor fair<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Council (organized into 5- and 9-judge panels and includes a court chief and deputy chief); Constitutional Court (consists of 9 members); note - in 1997, the Cambodian Government requested UN assistance in establishing trials to prosecute former Khmer Rouge senior leaders for crimes against humanity committed during the 1975-1979 Khmer Rouge regime; the Extraordinary Chambers of the Courts of Cambodia (also called the Khmer Rouge Tribunal) was established in 2006 and began hearings for the first case in 2009; court proceedings remain ongoing in 2021<br>

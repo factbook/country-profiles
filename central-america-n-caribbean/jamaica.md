@@ -203,7 +203,7 @@ _male_: 15% (2020 est.)<br>
 _female_: 3.8% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-4.4% (2016)<br>
+2.5% (2018/19)<br>
 
 **Currently married women (ages 15-49)**<br>
 32.7% (2023 est.)<br>

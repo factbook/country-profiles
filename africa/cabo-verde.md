@@ -326,7 +326,7 @@ _election results_: <em><br>2020: </em>Jose Maria Pereira NEVES elected presiden
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (72 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 18 April 2021 (next to be held in April 2026)<br>
-_election results_: percent of vote by party MPD 50.2%, PAICV 39.6%, UCID 9.0%; seats by party - MPD 38, PAICV 30, UCID 4; composition - men 44, women 28, percent of women 37.5%<br>
+_election results_: percent of vote by party MPD 50.2%, PAICV 39.6%, UCID 9.0%, other 1.2%; seats by party - MPD 38, PAICV 30, UCID 4; composition as of October 2023 - men 42, women 30, percent of women 41.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the chief justice and at least 7 judges and organized into civil, criminal, and administrative sections)<br>

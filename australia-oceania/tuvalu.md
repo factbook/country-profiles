@@ -191,10 +191,14 @@ _male_: 49.8% (2020 est.)<br>
 _female_: 21.3% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-NA<br>
+3.1% (2019/20) NA<br>
 
 **Currently married women (ages 15-49)**<br>
 66.1% (2023 est.)<br>
+
+**Child marriage**<br>
+_women married by age 18_: 1.8%<br>
+_men married by age 18_: 1.7% (2020 est.)<br>
 
 **Education expenditures**<br>
 NA<br>

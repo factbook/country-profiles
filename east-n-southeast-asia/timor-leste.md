@@ -207,7 +207,7 @@ _male_: 67.6% (2020 est.)<br>
 _female_: 10.8% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-37.5% (2013)<br>
+31.9% (2020)<br>
 
 **Currently married women (ages 15-49)**<br>
 55.9% (2023 est.)<br>
@@ -347,8 +347,8 @@ _subordinate courts_: Court of Appeal; High Administrative, Tax, and Audit Court
 <strong>note:</strong> the UN Justice System Programme, launched in 2003 and being rolled out in 4 phases through 2018, is helping strengthen the country's justice system; the Programme is aligned with the country's long-range Justice Sector Strategic Plan, which includes legal reforms<br>
 
 **Political parties and leaders**<br>
-Democratic Party or PD [Mariano Assanami SABINO Lopes]<br>Frenti-Mudanca (Front for National Reconstruction of Timor-Leste - Change) or FM [Jose Luis GUTERRES]<br>Green Party of Timor (Os Verdes or the Greens) [António Lela Hunu CRUZ]<br>National Congress for Timorese Reconstruction or CNRT [Kay Rala Xanana GUSMAO]<br>National Unity of the Sons of Timor (Haburas Unidade Nasional Timor Oan or KHUNTO) [Armanda BERTA DOS SANTOS]<br>People's Liberation Party or PLP [Taur Matan RUAK]<br>Revolutionary Front of Independent Timor-Leste or FRETILIN [Franciso GUTERRES]<br>Timorese Democratic Union or UDT [Gilman SANTOS]<br>United Party for Development and Democracy or PUDD [António de Sá BENEVIDES]<br>
-<strong>note:</strong> 17 parties ran in the May 2023 parliamentary election<br>
+Democratic Party or PD [Mariano Assanami SABINO Lopes]<br>National Congress for Timorese Reconstruction or CNRT [Kay Rala Xanana GUSMAO]<br>National Unity of the Sons of Timor (Haburas Unidade Nasional Timor Oan or KHUNTO) [Armanda BERTA DOS SANTOS]<br>People's Liberation Party or PLP [Taur Matan RUAK]<br>Revolutionary Front of Independent Timor-Leste or FRETILIN [Franciso GUTERRES]<br>
+<strong>note:</strong> 12 additional parties received votes during the 2023 parliamentary election but did not gain any seats<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, ARF, ASEAN (observer), CPLP, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OPCW, PIF (observer), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WMO<br>

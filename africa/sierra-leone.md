@@ -214,7 +214,7 @@ _male_: 20.5% (2020 est.)<br>
 _female_: 6.4% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-13.5% (2019)<br>
+12% (2021)<br>
 
 **Currently married women (ages 15-49)**<br>
 58.9% (2023 est.)<br>
@@ -354,7 +354,7 @@ _judge selection and term of office_: Supreme Court chief justice and other judg
 _subordinate courts_: magistrates' courts; District Appeals Court; local courts<br>
 
 **Political parties and leaders**<br>
-All People's Congress or APC [Ernest Bai KOROMA]<br>Coalition for Change or C4C [Tamba R. SANDY]<br>National Grand Coalition or NGC [Dr. Dennis BRIGHT]<br>Sierra Leone People's Party or SLPP [Dr. Prince HARDING]<br>numerous other parties<br>
+All People's Congress or APC [Ernest Bai KOROMA]<br>Coalition for Change or C4C [vacant]<br>Progressive Alliance Party (alliance of National Grand Coalition or NGC and Sierra Leone People's Party or SLPP) [Julius Maada BIO]<br>numerous other parties<br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

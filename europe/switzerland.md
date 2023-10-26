@@ -348,8 +348,8 @@ _election results_: <br><em>2022:  </em>Alain BERSET elected president for 2023
 
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in two-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons, which use list proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 194 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms)<br>
-_elections_: <br>Council of States - last held in most cantons on 20 October 2019 (each canton determines when the next election will be held)<br>National Council - last held on 20 October 2019 (next to be held on 22 October 2023)<br>
-_election results_: <br>Council of States - percent of vote by party - NA; seats by party - The Center 14, FDP.The Liberals 12, SP 7, Green Party 5, SVP 7, other 1; composition (as of mid-2023) - men 34, women 12, percent of women 26.1% <br>National Council - percent of vote by party - SVP 25.6%, SP 16.8%, FDP.The Liberals 15.1%, Green Party 13.2%, The Center 11.4%, GLP 7.8%, other 4.5%; seats by party - SVP 55, SP 39, FDP.The Liberals 29, Green Party 30, The Center 31, GLP 16; composition (as of mid-2023) - men 116, women 84, percent of women 42.5%; note - overall Federal Assembly percent of women 41.5%<br>
+_elections_: <br>Council of States - last held in most cantons on 22 October 2023 (each canton determines when the next election will be held)<br>National Council - last held on 22 October 2023 (next to be held on 31 October 2028)<br>
+_election results_: <br>Council of States - percent of vote by party - NA; seats by party - The Center 13, FDP.The Liberals 12, SP 9, SVP 6, Green Party 5, other 1; composition (as of 22 Oct 2023) - men 34, women 12, percent of women 26.1% <br>National Council - percent of vote by party - SVP 28.6%, SP 18%, The Center 14.6%, FDP.The Liberals 14.4%, Green Party 9.4%, GLP 7.2%, EDU 1.2, EDV/PEV 1.9%, MCR/MCG .5%, other 4%; seats by party - SVP 62, SP 41, The Center 29, FDP.The Liberals 28, Green Party 23, GLP 10, EDU 2, EDV/PEV 2, MCR/MCG 2, other 1; composition (as of mid-2023) - men 116, women 84, percent of women 42.5%; note - overall Federal Assembly percent of women 41.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court (consists of 38 justices and 19 deputy justices organized into 7 divisions)<br>
@@ -357,7 +357,7 @@ _judge selection and term of office_: judges elected by the Federal Assembly for
 _subordinate courts_: Federal Criminal Court (established in 2004); Federal Administrative Court (established in 2007); note - each of Switzerland's 26 cantons has its own courts<br>
 
 **Political parties and leaders**<br>
-Green Liberal Party (Gruenliberale Partei or GLP, Parti vert liberale or PVL, Partito Verde-Liberale or PVL, Partida Verde Liberale or PVL) [Juerg GROSSEN]<br>Green Party (Gruene Partei der Schweiz or Gruene, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda) [Balthasar GLATTLI]<br>Social Democratic Party (Sozialdemokratische Partei der Schweiz or SP, Parti Socialiste Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS) [Cedric WERMUTH and Mattea MEYER]<br>Swiss People's Party (Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica di Centro or UDC, Uniun Democratica dal Center or UDC) [Marco CHIESA]<br>The Center (Die Mitte, Alleanza del Centro, Le Centre, Allianza dal Center) [Gerhard PFISTER] (merger of the Christian Democratic People's Party and the Conservative Democratic Party)<br>The Liberals or FDP.The Liberals (FDP.Die Liberalen, PLR.Les Liberaux-Radicaux, PLR.I Liberali, Ils Liberals) [Thierry BURKART]<br>
+The Center (Die Mitte, Alleanza del Centro, Le Centre, Allianza dal Center) [Gerhard PFISTER] (merger of the Christian Democratic People's Party and the Conservative Democratic Party)<br>Evangelical Peoples' Party or EVP/PEV [Lilian STUDER]<br>Federal Democrats or EDU [Daniel FRISCHKNECH]<br>Geneva Citizens Movement or MCR/MCG [Ana ROCH]<br>Green Liberal Party (Gruenliberale Partei or GLP, Parti vert liberale or PVL, Partito Verde-Liberale or PVL, Partida Verde Liberale or PVL) [Jurg GROSSEN]<br>Green Party (Gruene Partei der Schweiz or Gruene, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda) [Balthasar GLATTLI]<br>The Liberals or FDP.The Liberals (FDP.Die Liberalen, PLR.Les Liberaux-Radicaux, PLR.I Liberali, Ils Liberals) [Thierry BURKART]<br>Social Democratic Party (Sozialdemokratische Partei der Schweiz or SP, Parti Socialiste Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS) [Cedric WERMUTH and Mattea MEYER]<br>Swiss People's Party (Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica di Centro or UDC, Uniun Democratica dal Center or UDC) [Marco CHIESA]<br><br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINUSMA, MONUSCO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNMOGIP, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -372,7 +372,7 @@ _consulate(s) general_: Atlanta, Chicago, New York, San Francisco<br>
 _consulate(s)_: Boston<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Scott MILLER (since 11 January 2022) note - also accredited to Liechtenstein<br>
+_chief of mission_: Ambassador Scott C. MILLER (since 11 January 2022) note - also accredited to Liechtenstein<br>
 _embassy_: Sulgeneckstrasse 19, CH-3007 Bern<br>
 _mailing address_: 5110 Bern Place, Washington DC&nbsp; 20521-5110<br>
 _telephone_: [41] (031) 357-70-11<br>
@@ -700,11 +700,11 @@ Swiss Armed Forces (aka Swiss Army or Schweizer Armee); Army (Heer; aka Land For
 <strong>note:</strong> the federal police maintain internal security and report to the Federal Department of Justice and Police, while the Armed Forces report to the Federal Department of Defense, Civil Protection, and Sport<br>
 
 **Military expenditures**<br>
-0.7% of GDP (2021 est.)<br>
-0.8% of GDP (2020)<br>
+0.7% of GDP (2022)<br>
+0.7% of GDP (2021)<br>
+0.7% of GDP (2020)<br>
 0.7% of GDP (2019)<br>
 0.7% of GDP (2018)<br>
-0.7% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 100,000, including cadre/professionals, conscripts, and militia; the Swiss Armed Forces consist of a small core of cadre/professional personnel along with a mix of militia and 18-20,000 conscripts brought in each year for training (2022)<br>

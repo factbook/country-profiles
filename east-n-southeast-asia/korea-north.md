@@ -202,6 +202,9 @@ _female_: 0% (2020 est.)<br>
 **Currently married women (ages 15-49)**<br>
 69.7% (2023 est.)<br>
 
+**Child marriage**<br>
+_women married by age 18_: 0.1% (2017 est.)<br>
+
 **Education expenditures**<br>
 NA<br>
 

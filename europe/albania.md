@@ -356,7 +356,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the High
 _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized courts: Court for Corruption and Organized Crime, Appeals Court for Corruption and Organized Crime (responsible for corruption, organized crime, and crimes of high officials)<br>
 
 **Political parties and leaders**<br>
-Alliance for Change (electoral coalition led by PD)<br>Democratic Party or PD [Enkelejd ALIBEAJ, interim leader]<br>Party for Justice, Integration and Unity or PDIU [Shpetim IDRIZI] (part of the Alliance for Change)<br>Social Democratic Party or PSD [Tom DOSHI]<br>Socialist Movement for Integration or LSI [Monika KRYEMADHI]<br>Socialist Party or PS [Edi RAMA]<br>
+Alliance for Change (electoral coalition led by PD)<br>Democratic Party or PD [Lulzim BASHA]<br>Party for Justice, Integration and Unity pr PDIU [Shpetim IDRIZI] (part of the Alliance for Change))<br>Social Democratic Party or PSD [Tom DOSHI]<br>Freedom Party of Albania or PL [Ilir META] (formerly the Socialist Movement for Integration or LSI)<br>Socialist Party or PS [Edi RAMA]<br>
 
 **International organization participation**<br>
 BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIC, OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
