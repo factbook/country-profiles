@@ -108,9 +108,9 @@ _elderly dependency ratio_: 5.5<br>
 _potential support ratio_: 18.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20 years<br>
+_total_: 20 years (2020)<br>
 _male_: 19.7 years<br>
-_female_: 20.3 years (2020 est.)<br>
+_female_: 20.3 years<br>
 
 **Population growth rate**<br>
 2.45% (2023 est.)<br>
@@ -149,14 +149,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 399 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 39.79 deaths/1,000 live births<br>
+_total_: 39.79 deaths/1,000 live births (2023 est.)<br>
 _male_: 44.41 deaths/1,000 live births<br>
-_female_: 35.03 deaths/1,000 live births (2023 est.)<br>
+_female_: 35.03 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.71 years<br>
+_total population_: 71.71 years (2023 est.)<br>
 _male_: 69.13 years<br>
-_female_: 74.37 years (2023 est.)<br>
+_female_: 74.37 years<br>
 
 **Total fertility rate**<br>
 4.18 children born/woman (2023 est.)<br>
@@ -242,9 +242,9 @@ _male_: 14 years<br>
 _female_: 12 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.7%<br>
+_total_: 9.7% (2021 est.)<br>
 _male_: 12.3%<br>
-_female_: 7.7% (2021 est.)<br>
+_female_: 7.7%<br>
 
 ## Environment
 
@@ -362,7 +362,7 @@ _judge selection and term of office_: Supreme Court president appointed by decre
 _subordinate courts_: Court of Assizes (sessions court); Appeal Court; tribunals of first instance (divided into civil, commercial, and correctional chambers; Court of State Security; military tribunal<br>
 
 **Political parties and leaders**<br>
-Action Committee for Renewal or CAR [Dodji APEVON]<br>Alliance of Democrats for Integral Development or ADDI [Tchaboure GOGUE]<br>Democratic Convention of African Peoples or CDPA [Léopold GNININVI]<br>Democratic Forces for the Republic or FDR [Dodji APEVON]<br>National Alliance for Change or ANC [Jean-Pierre FABRE]<br>New Togolese Commitment [Gerry TAAMA]<br>Pan-African National Party or PNP [Tikpi ATCHADAM]<br>Pan-African Patriotic Convergence or CPP [vacant]<br>Patriotic Movement for Democracy and Development or MPDD [Agbeyome KODJO] <br>Socialist Pact for Renewal or PSR [Abi TCHESSA]<br>The Togolese Party [Nathaniel OLYMPIO]<br>Union of Forces for Change or UFC [Jean-Pierre FABRE]<br>Union for the Republic or UNIR [Faure GNASSINGBE]<br>
+Action Committee for Renewal or CAR [Dodji APEVON]<br>Alliance of Democrats for Integral Development or ADDI [Tchaboure GOGUE]<br>Democratic Convention of African Peoples or CDPA [Léopold GNININVI]<br>Democratic Forces for the Republic or FDR [Dodji APEVON]<br>National Alliance for Change or ANC [Jean-Pierre FABRE]<br>New Togolese Commitment [Gerry TAAMA]<br>Pan-African National Party or PNP [Tikpi ATCHADAM]<br>Pan-African Patriotic Convergence or CPP (vacant)<br>Patriotic Movement for Democracy and Development or MPDD [Agbeyome KODJO] <br>Socialist Pact for Renewal or PSR [Abi TCHESSA]<br>The Togolese Party [Nathaniel OLYMPIO]<br>Union of Forces for Change or UFC [Jean-Pierre FABRE]<br>Union for the Republic or UNIR [Faure GNASSINGBE]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -469,9 +469,9 @@ _services_: 30% (1998 est.)<br>
 3.72% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.7%<br>
+_total_: 9.7% (2021 est.)<br>
 _male_: 12.3%<br>
-_female_: 7.7% (2021 est.)<br>
+_female_: 7.7%<br>
 
 **Population below poverty line**<br>
 55.1% (2015 est.)<br>
@@ -675,8 +675,8 @@ _urban_: 1,783 km (2018)<br>
 50 km (2011) (seasonally navigable by small craft on the Mono River depending on rainfall)<br>
 
 **Merchant marine**<br>
-_total_: 403<br>
-_by type_: bulk carrier 1, container ship 10, general cargo 254, oil tanker 57, other 81 (2022)<br>
+_total_: 403 (2022)<br>
+_by type_: bulk carrier 1, container ship 10, general cargo 254, oil tanker 57, other 81<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kpeme, Lome<br>

@@ -101,9 +101,9 @@ _elderly dependency ratio_: 3.9<br>
 _potential support ratio_: 25.8 (2021)<br>
 
 **Median age**<br>
-_total_: 27 years<br>
+_total_: 27 years (2020)<br>
 _male_: 28.2 years<br>
-_female_: 25.9 years (2020 est.)<br>
+_female_: 25.9 years<br>
 
 **Population growth rate**<br>
 0.42% (2023 est.)<br>
@@ -132,14 +132,14 @@ _65 years and over_: 0.51 male(s)/female<br>
 _total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.72 deaths/1,000 live births<br>
+_total_: 7.72 deaths/1,000 live births (2023 est.)<br>
 _male_: 9.94 deaths/1,000 live births<br>
-_female_: 5.41 deaths/1,000 live births (2023 est.)<br>
+_female_: 5.41 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.25 years<br>
+_total population_: 68.25 years (2023 est.)<br>
 _male_: 64.69 years<br>
-_female_: 71.95 years (2023 est.)<br>
+_female_: 71.95 years<br>
 
 **Total fertility rate**<br>
 2.58 children born/woman (2023 est.)<br>
@@ -202,9 +202,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.6%<br>
+_total_: 26.6% (2013)<br>
 _male_: 20.9%<br>
-_female_: 37.5% (2013)<br>
+_female_: 37.5%<br>
 
 ## Environment
 
@@ -284,11 +284,11 @@ has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
 20 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Russ KUN (since 28 September 2022); note - the president is both chief of state and head of government<br>
-_head of government_: President Russ KUN (since 28 September 2022)<br>
+_chief of state_: President David ADEANG (since 30 October 2023); note - the president is both chief of state and head of government<br>
+_head of government_: President David ADEANG (since 30 October 2023)<br>
 _cabinet_: Cabinet appointed by the president from among members of Parliament<br>
-_elections/appointments_: president indirectly elected by Parliament (eligible for a second term); election last held on 28 September 2022 (next to be held in 2025)<br>
-_election results_: Russ KUN elected president unopposed<br>
+_elections/appointments_: president indirectly elected by Parliament for 3-year term (eligible for a second term); election last held on 30 October 2023 (next to be held in 2026)<br>
+_election results_: David ADEAGN elected president over Delvin THOMA, 10-8<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (19 seats; members directly elected in multi-seat constituencies by majority vote using the "Dowdall" counting system by which voters rank candidates on their ballots; members serve 3-year terms)<br>
@@ -387,9 +387,9 @@ NA<br>
 90% (2004 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.6%<br>
+_total_: 26.6% (2013)<br>
 _male_: 20.9%<br>
-_female_: 37.5% (2013)<br>
+_female_: 37.5%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -572,8 +572,8 @@ _paved_: 24 km (2002)<br>
 _unpaved_: 6 km (2002)<br>
 
 **Merchant marine**<br>
-_total_: 3<br>
-_by type_: other 3 (2022)<br>
+_total_: 3 (2022)<br>
+_by type_: other 3<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Nauru<br>

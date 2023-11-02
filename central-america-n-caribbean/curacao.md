@@ -97,9 +97,9 @@ _elderly dependency ratio_: 21.4<br>
 _potential support ratio_: 4.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 36.7 years<br>
+_total_: 36.7 years (2020)<br>
 _male_: 34.4 years<br>
-_female_: 39.5 years (2020 est.)<br>
+_female_: 39.5 years<br>
 
 **Population growth rate**<br>
 0.3% (2023 est.)<br>
@@ -131,14 +131,14 @@ _65 years and over_: 0.83 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.7 deaths/1,000 live births<br>
+_total_: 7.7 deaths/1,000 live births (2023 est.)<br>
 _male_: 8.5 deaths/1,000 live births<br>
-_female_: 6.87 deaths/1,000 live births (2023 est.)<br>
+_female_: 6.87 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.65 years<br>
+_total population_: 79.65 years (2023 est.)<br>
 _male_: 77.33 years<br>
-_female_: 82.09 years (2023 est.)<br>
+_female_: 82.09 years<br>
 
 **Total fertility rate**<br>
 1.97 children born/woman (2023 est.)<br>
@@ -178,9 +178,9 @@ _male_: 18 years<br>
 _female_: 18 years (2013)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 42.2%<br>
+_total_: 42.2% (2020 est.)<br>
 _male_: 38.1%<br>
-_female_: 47.1% (2020 est.)<br>
+_female_: 47.1%<br>
 
 ## Environment
 
@@ -371,9 +371,9 @@ _services_: 81.8% (2008 est.)<br>
 9.8% (2011 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 42.2%<br>
+_total_: 42.2% (2020 est.)<br>
 _male_: 38.1%<br>
-_female_: 47.1% (2020 est.)<br>
+_female_: 47.1%<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 -0.4% (of GDP) (2012 est.)<br>
@@ -487,8 +487,8 @@ PJ<br>
 _total_: 550 km<br>
 
 **Merchant marine**<br>
-_total_: 59<br>
-_by type_: general cargo 5, oil tanker 1, other 53 (2022)<br>
+_total_: 59 (2022)<br>
+_by type_: general cargo 5, oil tanker 1, other 53<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Willemstad<br>

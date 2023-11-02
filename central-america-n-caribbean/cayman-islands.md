@@ -101,9 +101,9 @@ _elderly dependency ratio_: 10.4<br>
 _potential support ratio_: 9.6 (2021)<br>
 
 **Median age**<br>
-_total_: 40.5 years<br>
+_total_: 40.5 years (2020)<br>
 _male_: 39.7 years<br>
-_female_: 41.2 years (2020 est.)<br>
+_female_: 41.2 years<br>
 
 **Population growth rate**<br>
 1.79% (2023 est.)<br>
@@ -136,14 +136,14 @@ _65 years and over_: 0.84 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.47 deaths/1,000 live births<br>
+_total_: 7.47 deaths/1,000 live births (2023 est.)<br>
 _male_: 9.04 deaths/1,000 live births<br>
-_female_: 5.87 deaths/1,000 live births (2023 est.)<br>
+_female_: 5.87 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.25 years<br>
+_total population_: 82.25 years (2023 est.)<br>
 _male_: 79.57 years<br>
-_female_: 84.98 years (2023 est.)<br>
+_female_: 84.98 years<br>
 
 **Total fertility rate**<br>
 1.82 children born/woman (2023 est.)<br>
@@ -187,9 +187,9 @@ _male_: 98.7% NA<br>
 _female_: 99% (2021) NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.8%<br>
+_total_: 13.8% (2015 est.)<br>
 _male_: 16.4%<br>
-_female_: 11.4% (2015 est.)<br>
+_female_: 11.4%<br>
 
 ## Environment
 
@@ -274,7 +274,7 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (21 seats; 19 members directly elected by majority vote and 2 ex officio members - the deputy governor and attorney general - appointed by the governor; members serve 4-year terms)<br>
-_elections_: last held on 14 April 2021 (next to be held on 2025)<br>
+_elections_: last held on 14 April 2021 (next to be held in 2025)<br>
 _election results_: percent of vote by party - independent 79.1%, PPM 19.6%; seats by party - independent 12, PPM 7; composition of elected members - men 15, women 4, percent of women 21.1%; ex-officio members - men 2<br>
 
 **Judicial branch**<br>
@@ -372,9 +372,9 @@ _services_: 79% (2008 est.)<br>
 4.4% (2004)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.8%<br>
+_total_: 13.8% (2015 est.)<br>
 _male_: 16.4%<br>
-_female_: 11.4% (2015 est.)<br>
+_female_: 11.4%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -552,8 +552,8 @@ _total_: 785 km (2007)<br>
 _paved_: 785 km (2007)<br>
 
 **Merchant marine**<br>
-_total_: 139<br>
-_by type_: bulk carrier 29, container ship 3, general cargo 1, oil tanker 20, other 86 (2022)<br>
+_total_: 139 (2022)<br>
+_by type_: bulk carrier 29, container ship 3, general cargo 1, oil tanker 20, other 86<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cayman Brac, George Town<br>

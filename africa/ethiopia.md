@@ -118,9 +118,9 @@ _elderly dependency ratio_: 5.5<br>
 _potential support ratio_: 18.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.8 years<br>
+_total_: 19.8 years (2020)<br>
 _male_: 19.6 years<br>
-_female_: 20.1 years (2020 est.)<br>
+_female_: 20.1 years<br>
 
 **Population growth rate**<br>
 2.42% (2023 est.)<br>
@@ -159,14 +159,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 267 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.44 deaths/1,000 live births<br>
+_total_: 32.44 deaths/1,000 live births (2023 est.)<br>
 _male_: 37.13 deaths/1,000 live births<br>
-_female_: 27.6 deaths/1,000 live births (2023 est.)<br>
+_female_: 27.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.59 years<br>
+_total population_: 68.59 years (2023 est.)<br>
 _male_: 66.43 years<br>
-_female_: 70.81 years (2023 est.)<br>
+_female_: 70.81 years<br>
 
 **Total fertility rate**<br>
 3.92 children born/woman (2023 est.)<br>
@@ -251,9 +251,9 @@ _male_: 8 years<br>
 _female_: 8 years (2012)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.7%<br>
+_total_: 5.7% (2021 est.)<br>
 _male_: 4.4%<br>
-_female_: 7.2% (2021 est.)<br>
+_female_: 7.2%<br>
 
 ## Environment
 
@@ -496,9 +496,9 @@ _services_: 19.9% (2013 est.)<br>
 2.33% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.7%<br>
+_total_: 5.7% (2021 est.)<br>
 _male_: 4.4%<br>
-_female_: 7.2% (2021 est.)<br>
+_female_: 7.2%<br>
 
 **Population below poverty line**<br>
 23.5% (2015 est.)<br>
@@ -700,8 +700,8 @@ _standard gauge_: 659 km (2017) 1.435-m gauge<br>
 _total_: 120,171 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 12<br>
-_by type_: general cargo 10, oil tanker 2 (2022)<br>
+_total_: 12 (2022)<br>
+_by type_: general cargo 10, oil tanker 2<br>
 
 **Ports and terminals**<br>
 Ethiopia is landlocked and uses the ports of Djibouti in Djibouti and Berbera in Somalia<br>
@@ -755,7 +755,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Ethiopia-Eritrea:</em> Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement <br><br><em>Ethiopia-Somalia:</em> While border clashes continue in the al-Fashqa (Fashaga) area, the US views the 1902 boundary treaty between Ethiopia and Sudan as being in force; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; <br><br><em>Ethiopia-Sudan:</em> Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 417,306 (South Sudan), 298,892 (Somalia), 165,450 (Eritrea), 35,218 (Sudan) (refugees since 15 April 2023) (2023)<br>
+_refugees (country of origin)_: 417,419 (South Sudan), 302,195 (Somalia), 167,391 (Eritrea), 25,463 (Sudan) (refugees since 15 April 2023) (2023)<br>
 _IDPs_: 4.385 million (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2023)<br>
 
 **Illicit drugs**<br>

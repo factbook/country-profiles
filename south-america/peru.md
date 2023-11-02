@@ -118,9 +118,9 @@ _elderly dependency ratio_: 13.1<br>
 _potential support ratio_: 7.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.1 years<br>
+_total_: 29.1 years (2020)<br>
 _male_: 28.3 years<br>
-_female_: 29.9 years (2020 est.)<br>
+_female_: 29.9 years<br>
 
 **Population growth rate**<br>
 0.5% (2023 est.)<br>
@@ -159,14 +159,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 69 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.8 deaths/1,000 live births<br>
+_total_: 10.8 deaths/1,000 live births (2023 est.)<br>
 _male_: 11.89 deaths/1,000 live births<br>
-_female_: 9.65 deaths/1,000 live births (2023 est.)<br>
+_female_: 9.65 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.94 years<br>
+_total population_: 68.94 years (2023 est.)<br>
 _male_: 65.38 years<br>
-_female_: 72.67 years (2023 est.)<br>
+_female_: 72.67 years<br>
 
 **Total fertility rate**<br>
 2.18 children born/woman (2023 est.)<br>
@@ -247,9 +247,9 @@ _male_: 15 years<br>
 _female_: 15 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.2%<br>
+_total_: 11.2% (2021 est.)<br>
 _male_: 9.2%<br>
-_female_: 13.2% (2021 est.)<br>
+_female_: 13.2%<br>
 
 ## Environment
 
@@ -488,9 +488,9 @@ _services_: 56.8% (2011)<br>
 <strong>note:</strong> data are for metropolitan Lima; widespread underemployment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.2%<br>
+_total_: 11.2% (2021 est.)<br>
 _male_: 9.2%<br>
-_female_: 13.2% (2021 est.)<br>
+_female_: 13.2%<br>
 
 **Population below poverty line**<br>
 20.2% (2019 est.)<br>
@@ -704,8 +704,8 @@ _paved_: 18,699 km<br>
 8,808 km (2011) (8,600 km of navigable tributaries on the Amazon River system and 208 km on Lago Titicaca)<br>
 
 **Merchant marine**<br>
-_total_: 101<br>
-_by type_: general cargo 1, oil tanker 8, other 92 (2022)<br>
+_total_: 101 (2022)<br>
+_by type_: general cargo 1, oil tanker 8, other 92<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Callao, Matarani, Paita<br>

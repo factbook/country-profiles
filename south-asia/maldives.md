@@ -102,9 +102,9 @@ _elderly dependency ratio_: 6.2<br>
 _potential support ratio_: 16.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.5 years<br>
+_total_: 29.5 years (2020)<br>
 _male_: 29.2 years<br>
-_female_: 30 years (2020 est.)<br>
+_female_: 30 years<br>
 
 **Population growth rate**<br>
 -0.17% (2023 est.)<br>
@@ -143,14 +143,14 @@ _total population_: 1.06 male(s)/female (2023 est.)<br>
 57 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 25.02 deaths/1,000 live births<br>
+_total_: 25.02 deaths/1,000 live births (2023 est.)<br>
 _male_: 28 deaths/1,000 live births<br>
-_female_: 21.89 deaths/1,000 live births (2023 est.)<br>
+_female_: 21.89 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.19 years<br>
+_total population_: 77.19 years (2023 est.)<br>
 _male_: 74.84 years<br>
-_female_: 79.66 years (2023 est.)<br>
+_female_: 79.66 years<br>
 
 **Total fertility rate**<br>
 1.7 children born/woman (2023 est.)<br>
@@ -226,9 +226,9 @@ _male_: 12 years<br>
 _female_: 14 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.7%<br>
+_total_: 17.7% (2021 est.)<br>
 _male_: 19.9%<br>
-_female_: 12.6% (2021 est.)<br>
+_female_: 12.6%<br>
 
 ## Environment
 
@@ -438,9 +438,9 @@ _services_: 69.5% (2017 est.)<br>
 5.34% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.7%<br>
+_total_: 17.7% (2021 est.)<br>
 _male_: 19.9%<br>
-_female_: 12.6% (2021 est.)<br>
+_female_: 12.6%<br>
 
 **Population below poverty line**<br>
 8.2% (2016 est.)<br>
@@ -631,8 +631,8 @@ _paved_: 93 km (2018) - 60 km in Malée; 16 km on Addu Atolis; 17 km on Laamu<br
 <strong>note:</strong> island roads are mainly compacted coral<br>
 
 **Merchant marine**<br>
-_total_: 80<br>
-_by type_: general cargo 30, oil tanker 20, other 30 (2022)<br>
+_total_: 80 (2022)<br>
+_by type_: general cargo 30, oil tanker 20, other 30<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Male<br>

@@ -118,9 +118,9 @@ _elderly dependency ratio_: 5.9<br>
 _potential support ratio_: 17.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 16.7 years<br>
+_total_: 16.7 years (2020)<br>
 _male_: 16.5 years<br>
-_female_: 16.8 years (2020 est.)<br>
+_female_: 16.8 years<br>
 
 **Population growth rate**<br>
 3.13% (2023 est.)<br>
@@ -159,14 +159,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 547 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 59.12 deaths/1,000 live births<br>
+_total_: 59.12 deaths/1,000 live births (2023 est.)<br>
 _male_: 64.65 deaths/1,000 live births<br>
-_female_: 53.42 deaths/1,000 live births (2023 est.)<br>
+_female_: 53.42 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.23 years<br>
+_total population_: 62.23 years (2023 est.)<br>
 _male_: 60.39 years<br>
-_female_: 64.13 years (2023 est.)<br>
+_female_: 64.13 years<br>
 
 **Total fertility rate**<br>
 5.56 children born/woman (2023 est.)<br>
@@ -248,9 +248,9 @@ _male_: 10 years<br>
 _female_: 9 years (2013)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.1%<br>
+_total_: 10.1% (2021 est.)<br>
 _male_: 12%<br>
-_female_: 8.5% (2021 est.)<br>
+_female_: 8.5%<br>
 
 ## Environment
 
@@ -489,9 +489,9 @@ _services_: NA<br>
 NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.1%<br>
+_total_: 10.1% (2021 est.)<br>
 _male_: 12%<br>
-_female_: 8.5% (2021 est.)<br>
+_female_: 8.5%<br>
 
 **Population below poverty line**<br>
 63% (2014 est.)<br>
@@ -702,8 +702,8 @@ _non-urban_: 144,973 km<br>
 15,000 km (2011) (including the Congo River, its tributaries, and unconnected lakes)<br>
 
 **Merchant marine**<br>
-_total_: 23<br>
-_by type_: general cargo 5, oil tanker 2, other 16 (2022)<br>
+_total_: 23 (2022)<br>
+_by type_: general cargo 5, oil tanker 2, other 16<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Banana<br>

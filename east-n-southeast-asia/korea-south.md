@@ -105,9 +105,9 @@ _elderly dependency ratio_: 23.3<br>
 _potential support ratio_: 4.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 43.2 years<br>
+_total_: 43.2 years (2020)<br>
 _male_: 41.6 years<br>
-_female_: 45 years (2020 est.)<br>
+_female_: 45 years<br>
 
 **Population growth rate**<br>
 0.23% (2023 est.)<br>
@@ -145,14 +145,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.83 deaths/1,000 live births<br>
+_total_: 2.83 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.04 deaths/1,000 live births<br>
-_female_: 2.6 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.17 years<br>
+_total population_: 83.17 years (2023 est.)<br>
 _male_: 80.09 years<br>
-_female_: 86.42 years (2023 est.)<br>
+_female_: 86.42 years<br>
 
 **Total fertility rate**<br>
 1.11 children born/woman (2023 est.)<br>
@@ -225,9 +225,9 @@ _male_: 17 years<br>
 _female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.8%<br>
+_total_: 7.8% (2021 est.)<br>
 _male_: 8.8%<br>
-_female_: 6.9% (2021 est.)<br>
+_female_: 6.9%<br>
 
 ## Environment
 
@@ -452,9 +452,9 @@ _services_: 70.6% (2017 est.)<br>
 3.75% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.8%<br>
+_total_: 7.8% (2021 est.)<br>
 _male_: 8.8%<br>
-_female_: 6.9% (2021 est.)<br>
+_female_: 6.9%<br>
 
 **Population below poverty line**<br>
 14.4% (2016 est.)<br>
@@ -674,8 +674,8 @@ _unpaved_: 7,633 km (2016)<br>
 1,600 km (2011) (most navigable only by small craft)<br>
 
 **Merchant marine**<br>
-_total_: 2,063<br>
-_by type_: bulk carrier 84, container ship 99, general cargo 358, oil tanker 200, other 1,322 (2022)<br>
+_total_: 2,063 (2022)<br>
+_by type_: bulk carrier 84, container ship 99, general cargo 358, oil tanker 200, other 1,322<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu<br>

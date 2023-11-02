@@ -111,9 +111,9 @@ _elderly dependency ratio_: 9.7<br>
 _potential support ratio_: 10.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 32.6 years<br>
+_total_: 32.6 years (2020)<br>
 _male_: 31.1 years<br>
-_female_: 34.2 years (2020 est.)<br>
+_female_: 34.2 years<br>
 
 **Population growth rate**<br>
 0.63% (2023 est.)<br>
@@ -152,14 +152,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 41 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.93 deaths/1,000 live births<br>
+_total_: 22.93 deaths/1,000 live births (2023 est.)<br>
 _male_: 24.02 deaths/1,000 live births<br>
-_female_: 21.77 deaths/1,000 live births (2023 est.)<br>
+_female_: 21.77 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.42 years<br>
+_total population_: 74.42 years (2023 est.)<br>
 _male_: 71.36 years<br>
-_female_: 77.66 years (2023 est.)<br>
+_female_: 77.66 years<br>
 
 **Total fertility rate**<br>
 1.86 children born/woman (2023 est.)<br>
@@ -231,9 +231,9 @@ _male_: 13 years<br>
 _female_: 14 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.5%<br>
+_total_: 16.5% (2021 est.)<br>
 _male_: 14.4%<br>
-_female_: 18.9% (2021 est.)<br>
+_female_: 18.9%<br>
 
 ## Environment
 
@@ -461,9 +461,9 @@ _services_: 48.9% (2014)<br>
 4.85% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.5%<br>
+_total_: 16.5% (2021 est.)<br>
 _male_: 14.4%<br>
-_female_: 18.9% (2021 est.)<br>
+_female_: 18.9%<br>
 
 **Population below poverty line**<br>
 4.9% (2015 est.)<br>
@@ -672,8 +672,8 @@ _total_: 24,981 km (2013)<br>
 <strong>note:</strong> total roadway length has increased significantly and continues to grow due to the recovery of Armenian-held territories and related reconstruction efforts. No updated figure is currently available.<br>
 
 **Merchant marine**<br>
-_total_: 309<br>
-_by type_: general cargo 38, oil tanker 44, other 227 (2022)<br>
+_total_: 309 (2022)<br>
+_by type_: general cargo 38, oil tanker 44, other 227<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Baku (Baki) located on the Caspian Sea<br>
@@ -722,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps (IR
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Local border forces struggle to control the illegal transit of goods and people across the porous, undemarcated Armenian, Azerbaijani, and Georgian borders.<br><br><em>Armenia-Azerbaijan:</em> The dispute over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan remains the primary focus of regional instability. Residents have evacuated the former Soviet-era small ethnic enclaves in Armenia and Azerbaijan.<br><br><em>Azerbaijan-Georgia:</em> A joint boundary commission agrees on most of the alignment, leaving only small areas at certain crossing points in dispute.  Consequently, the two states have yet to agree on a delimitation or demarcation of their common boundary. One area of contention is where the international boundary should run through the 6th-13th Century David-Gareja monastery complex.<br><br><em>Azerbaijan-Iran:</em> none identified<br><br><em>Azerbaijan-Russia: </em>Russia complains of cross-border smuggling.<br><br><em>Azerbaijan-Turkey:</em> none identified<br><br><em>Caspian Sea (Maritime Boundary):</em> Azerbaijan, Kazakhstan, and Russia ratified the Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea. Bilateral talks continue with Turkmenistan on dividing the seabed and contested oilfields in the middle of the Caspian.</p><br>
+<p><em>Armenia-Azerbaijan:</em> tensions existed for years over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan; Azerbaijan seized part of the enclave during six weeks of fighting in 2020 and the remainder in a short conflict in September 2023; in October 2023, Baku and Yerevan began preliminary discussions on a peace treaty, the demarcation of borders, and full normalization of relations; nevertheless, concerns persist in Armenia that Azerbaijan could invade in order to force the establishment of a transit corridor to the exclave of Naxicvan (Nakhichevan)<br><br><em>Azerbaijan-Georgia:</em> a joint boundary commission agrees on most of the alignment, leaving only small areas at certain crossing points in dispute; consequently, the two states have yet to agree on a delimitation or demarcation of their common boundary; one area of contention is where the international boundary should run through the 6th-13th Century David-Gareja monastery complex<br><br><em>Azerbaijan-Iran:</em> none identified<br><br><em>Azerbaijan-Russia: </em>Russia has complained of cross-border smuggling<br><br><em>Azerbaijan-Turkey:</em> none identified; as of 2023, Turkey and Armenia were discussing normalizing relations<br><br><em>Caspian Sea (Maritime Boundary):</em> Azerbaijan, Kazakhstan, and Russia ratified the Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea; bilateral talks continue with Turkmenistan on dividing the seabed and contested oilfields in the middle of the Caspian<br><br>local border forces struggle to control the illegal transit of goods and people across the porous, undemarcated Armenian, Azerbaijani, and Georgian borders</p><br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 659,000 (conflict with Armenia over Nagorno-Karabakh; IDPs are mainly ethnic Azerbaijanis but also include ethnic Kurds, Russians, and Turks predominantly from occupied territories around Nagorno-Karabakh; includes IDPs' descendants, returned IDPs, and people living in insecure areas and excludes people displaced by natural disasters; around half the IDPs live in the capital Baku) (2022)<br>

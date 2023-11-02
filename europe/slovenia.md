@@ -104,9 +104,9 @@ _elderly dependency ratio_: 31.9<br>
 _potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 44.9 years<br>
+_total_: 44.9 years (2020)<br>
 _male_: 43.4 years<br>
-_female_: 46.6 years (2020 est.)<br>
+_female_: 46.6 years<br>
 
 **Population growth rate**<br>
 -0.08% (2023 est.)<br>
@@ -144,14 +144,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.51 deaths/1,000 live births<br>
+_total_: 1.51 deaths/1,000 live births (2023 est.)<br>
 _male_: 1.62 deaths/1,000 live births<br>
-_female_: 1.4 deaths/1,000 live births (2023 est.)<br>
+_female_: 1.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.02 years<br>
+_total population_: 82.02 years (2023 est.)<br>
 _male_: 79.18 years<br>
-_female_: 84.98 years (2023 est.)<br>
+_female_: 84.98 years<br>
 
 **Total fertility rate**<br>
 1.6 children born/woman (2023 est.)<br>
@@ -222,9 +222,9 @@ _male_: 17 years<br>
 _female_: 18 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.9%<br>
+_total_: 13.9% (2021 est.)<br>
 _male_: 12.7%<br>
-_female_: 15.5% (2021 est.)<br>
+_female_: 15.5%<br>
 
 ## Environment
 
@@ -451,9 +451,9 @@ _services_: 63.3% (2017 est.)<br>
 4.45% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.9%<br>
+_total_: 13.9% (2021 est.)<br>
 _male_: 12.7%<br>
-_female_: 15.5% (2021 est.)<br>
+_female_: 15.5%<br>
 
 **Population below poverty line**<br>
 12% (2018 est.)<br>
@@ -669,8 +669,8 @@ _paved_: 38,985 km (2012) (includes 769 km of expressways)<br>
 710 km (2022) (some transport on the Drava River)<br>
 
 **Merchant marine**<br>
-_total_: 9<br>
-_by type_: general cargo 1, other 8 (2022)<br>
+_total_: 9 (2022)<br>
+_by type_: general cargo 1, other 8<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Koper<br>
@@ -688,7 +688,7 @@ Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force wi
 1.1% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,000 active-duty troops (2022)<br>
+approximately 6,000 active-duty troops (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory is a mix of Soviet-era and smaller quantities of more modern, mostly Western equipment; in recent years, it has imported limited amounts of equipment from a few European countries and the US (2023)<br>
@@ -712,7 +712,7 @@ the Slovenian Armed Forces (Slovenska Vojska or SV) are a small and professional
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 10,290 (Ukraine) (as of 2 October 2023)<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  603,271</strong> estimated refugee and migrant arrivals (January 2015-August 2023)<br>
+<strong>note: </strong> 611,883 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

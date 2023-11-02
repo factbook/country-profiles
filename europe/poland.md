@@ -112,9 +112,9 @@ _elderly dependency ratio_: 28.6<br>
 _potential support ratio_: 3.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 41.9 years<br>
+_total_: 41.9 years (2020)<br>
 _male_: 40.3 years<br>
-_female_: 43.6 years (2020 est.)<br>
+_female_: 43.6 years<br>
 
 **Population growth rate**<br>
 -0.28% (2023 est.)<br>
@@ -152,14 +152,14 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 2 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.1 deaths/1,000 live births<br>
+_total_: 4.1 deaths/1,000 live births (2023 est.)<br>
 _male_: 4.52 deaths/1,000 live births<br>
-_female_: 3.65 deaths/1,000 live births (2023 est.)<br>
+_female_: 3.65 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79 years<br>
+_total population_: 79 years (2023 est.)<br>
 _male_: 75.28 years<br>
-_female_: 82.94 years (2023 est.)<br>
+_female_: 82.94 years<br>
 
 **Total fertility rate**<br>
 1.41 children born/woman (2023 est.)<br>
@@ -232,9 +232,9 @@ _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.4%<br>
+_total_: 13.4% (2021 est.)<br>
 _male_: 12.3%<br>
-_female_: 15% (2021 est.)<br>
+_female_: 15%<br>
 
 ## Environment
 
@@ -470,9 +470,9 @@ _services_: 57.6% (2015)<br>
 3.28% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.4%<br>
+_total_: 13.4% (2021 est.)<br>
 _male_: 12.3%<br>
-_female_: 15% (2021 est.)<br>
+_female_: 15%<br>
 
 **Population below poverty line**<br>
 15.4% (2018 est.)<br>
@@ -622,7 +622,7 @@ _total subscriptions_: 50,588,785 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 132 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the liberalized telecom market has seen considerable development in the broadband and mobile sectors; the regulatory environment has encouraged market competition, partly by encouraging operators to secure spectrum and also by ensuring access to cable and fiber infrastructure; the mobile market in recent years has been characterized by the rapid extension of LTE networks and the development of mobile data services based on newly released and re-farmed spectrum; the regulator&rsquo;s attempts to auction spectrum in a range of bands has been delayed, with spectrum in the 5G-suitable 3.4-3.8GHz range having been suspended to later in 2021 as a result of the Covid-19 outbreak and legislative changes (2021)<br>
+_general assessment_: the liberalized telecom market has seen considerable development in the broadband and mobile sectors; the regulatory environment has encouraged market competition, partly by encouraging operators to secure spectrum and also by ensuring access to cable and fiber infrastructure; the mobile market in recent years has been characterized by the rapid extension of LTE and 5G networks, and the development of mobile data services based on newly released and re-farmed spectrum; the regulator&rsquo;s attempts to auction spectrum in a range of bands has been delayed, with spectrum in the 5G-suitable 3.4-3.8GHz range having been put back to later in 2023 as a result of the Covid-19 outbreak and changes to legislation (2021)<br>
 _domestic_: fixed-line is 14 per 100 (service lags in rural areas), mobile-cellular is 132 per 100 persons (2021)<br>
 _international_: country code - 48; landing points for the Baltica and the Denmark-Poland2 submarine cables connecting Poland, Denmark and Sweden; international direct dialing with automated exchanges; satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and Intersputnik (2019)<br>
 
@@ -684,8 +684,8 @@ _unpaved_: 129,000 km (2016)<br>
 3,997 km (2009) (navigable rivers and canals)<br>
 
 **Merchant marine**<br>
-_total_: 149<br>
-_by type_: general cargo 7, oil tanker 6, other 136 (2022)<br>
+_total_: 149 (2022)<br>
+_by type_: general cargo 7, oil tanker 6, other 136<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Gdansk, Gdynia, Swinoujscie<br>
@@ -746,7 +746,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 959,875 (Ukraine) (as of 10 October 2023)<br>
+_refugees (country of origin)_: 958,935 (Ukraine) (as of 18 October 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

@@ -101,9 +101,9 @@ _elderly dependency ratio_: 13.7<br>
 _potential support ratio_: 7.3 (2021)<br>
 
 **Median age**<br>
-_total_: 36.5 years<br>
+_total_: 36.5 years (2020)<br>
 _male_: 36.7 years<br>
-_female_: 36.3 years (2020 est.)<br>
+_female_: 36.3 years<br>
 
 **Population growth rate**<br>
 0.59% (2023 est.)<br>
@@ -135,14 +135,14 @@ _65 years and over_: 0.91 male(s)/female<br>
 _total population_: 1 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.19 deaths/1,000 live births<br>
+_total_: 8.19 deaths/1,000 live births (2023 est.)<br>
 _male_: 5.61 deaths/1,000 live births<br>
-_female_: 10.83 deaths/1,000 live births (2023 est.)<br>
+_female_: 10.83 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.33 years<br>
+_total population_: 77.33 years (2023 est.)<br>
 _male_: 74.89 years<br>
-_female_: 79.81 years (2023 est.)<br>
+_female_: 79.81 years<br>
 
 **Total fertility rate**<br>
 1.76 children born/woman (2023 est.)<br>
@@ -585,8 +585,8 @@ _paved_: 163 km (2002)<br>
 _unpaved_: 220 km (2002)<br>
 
 **Merchant marine**<br>
-_total_: 282<br>
-_by type_: bulk carrier 9, container ship 11, general cargo 64, oil tanker 46, other 152 (2022)<br>
+_total_: 282 (2022)<br>
+_by type_: bulk carrier 9, container ship 11, general cargo 64, oil tanker 46, other 152<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Basseterre, Charlestown<br>

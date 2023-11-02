@@ -115,9 +115,9 @@ _elderly dependency ratio_: 6.7<br>
 _potential support ratio_: 14.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21.8 years<br>
+_total_: 21.8 years (2020)<br>
 _male_: 21.1 years<br>
-_female_: 22.6 years (2020 est.)<br>
+_female_: 22.6 years<br>
 
 **Population growth rate**<br>
 1.8% (2023 est.)<br>
@@ -156,14 +156,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 215 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 28.49 deaths/1,000 live births<br>
+_total_: 28.49 deaths/1,000 live births (2023 est.)<br>
 _male_: 30.52 deaths/1,000 live births<br>
-_female_: 26.4 deaths/1,000 live births (2023 est.)<br>
+_female_: 26.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.04 years<br>
+_total population_: 67.04 years (2023 est.)<br>
 _male_: 65 years<br>
-_female_: 69.14 years (2023 est.)<br>
+_female_: 69.14 years<br>
 
 **Total fertility rate**<br>
 2.94 children born/woman (2023 est.)<br>
@@ -236,9 +236,9 @@ _male_: 90.6%<br>
 _female_: 92.3% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 40.4%<br>
+_total_: 40.4% (2021 est.)<br>
 _male_: 39.4%<br>
-_female_: 41.7% (2021 est.)<br>
+_female_: 41.7%<br>
 
 ## Environment
 
@@ -473,9 +473,9 @@ _services_: 54% (2013 est.)<br>
 19.99% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 40.4%<br>
+_total_: 40.4% (2021 est.)<br>
 _male_: 39.4%<br>
-_female_: 41.7% (2021 est.)<br>
+_female_: 41.7%<br>
 
 **Population below poverty line**<br>
 17.4% (2015 est.)<br>
@@ -674,8 +674,8 @@ _paved_: 7,893 km (2018)<br>
 _unpaved_: 40,982 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 15<br>
-_by type_: general cargo 1, other 14 (2022)<br>
+_total_: 15 (2022)<br>
+_by type_: general cargo 1, other 14<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Luderitz, Walvis Bay<br>
@@ -712,5 +712,5 @@ the NDF’s primary responsibility is external security; it has participated in 
 <p><em>Namibia-Angola-Botswana</em>: concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border</p> <p><em>Namibia-Botswana-Zambia-Zimbabwe</em>: Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; the Kazungula Bridge opened to traffic in May 2021</p> <p><em>Namibia-South Africa</em>: the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia claims a median line boundary, while South Africa supports the northern bank of the river</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,170 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 6,188 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
 

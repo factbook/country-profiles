@@ -101,9 +101,9 @@ _elderly dependency ratio_: 10.5<br>
 _potential support ratio_: 9.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.1 years<br>
+_total_: 24.1 years (2020)<br>
 _male_: 23.6 years<br>
-_female_: 24.5 years (2020 est.)<br>
+_female_: 24.5 years<br>
 
 **Population growth rate**<br>
 -0.3% (2023 est.)<br>
@@ -142,14 +142,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 126 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.1 deaths/1,000 live births<br>
+_total_: 12.1 deaths/1,000 live births (2023 est.)<br>
 _male_: 13.09 deaths/1,000 live births<br>
-_female_: 11.09 deaths/1,000 live births (2023 est.)<br>
+_female_: 11.09 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.78 years<br>
+_total population_: 77.78 years (2023 est.)<br>
 _male_: 76.14 years<br>
-_female_: 79.47 years (2023 est.)<br>
+_female_: 79.47 years<br>
 
 **Total fertility rate**<br>
 2.7 children born/woman (2023 est.)<br>
@@ -223,9 +223,9 @@ _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.1%<br>
+_total_: 11.1% (2021 est.)<br>
 _male_: 7.5%<br>
-_female_: 16.3% (2021 est.)<br>
+_female_: 16.3%<br>
 
 ## Environment
 
@@ -327,7 +327,7 @@ _election results_: Siaosi SOVALENI elected prime minister by the Legislative As
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Fale Alea (30 seats statutory, 26 current); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)<br>
 _elections_: last held on 18 November 2021 (next to be held in November 2025)<br>
-_election results_: percent of vote - NA; seats by party (elected members) - independents 11, nobles' representatives 9, Democratic Party 3, Peoples Party 3; composition - men 26, women 1, percent of women 3.7%<br>
+_election results_: percent of vote - NA; seats by party (elected members) - independents 11, nobles' representatives 9, DPFI 3, TPPI 3; composition - men 26, women 1, percent of women 3.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>
@@ -335,7 +335,7 @@ _judge selection and term of office_: judge appointments and tenures made by the
 _subordinate courts_: Supreme Court; Magistrates' Courts; Land Courts<br>
 
 **Political parties and leaders**<br>
-Democratic Party of the Friendly Islands or DPFI or PTOA [Semisi SIKA]<br>People's Democratic Party or PDP [Tesina FUKO]<br>Tonga Democratic Labor Party [vacant]<br>Tonga Human Rights and Democracy Movement or HRDM ['Uliti UATA]<br>Tonga People's Party or PAK or TPPI (Paati ʻa e Kakai ʻo Tonga) [Pohiva TU'I'ONETOA] (split from Democratic Party of the Friendly Islands)<br>
+Democratic Party of the Friendly Islands or DPFI or PTOA [Semisi SIKA]<br>People's Democratic Party or PDP [Tesina FUKO]<br>Tonga Democratic Labor Party (vacant)<br>Tonga Human Rights and Democracy Movement or HRDM ['Uliti UATA]<br>Tonga People's Party or PAK or TPPI (Paati ʻa e Kakai ʻo Tonga) [Pohiva TU'I'ONETOA] (split from Democratic Party of the Friendly Islands)<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, IMF, IMO, IMSO, Interpol, IOC, IPU, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -427,9 +427,9 @@ _services_: 2,006% (2006 est.)<br>
 3.06% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.1%<br>
+_total_: 11.1% (2021 est.)<br>
 _male_: 7.5%<br>
-_female_: 16.3% (2021 est.)<br>
+_female_: 16.3%<br>
 
 **Population below poverty line**<br>
 22.5% (2010 est.)<br>
@@ -618,8 +618,8 @@ _paved_: 184 km (2011)<br>
 _unpaved_: 496 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 32<br>
-_by type_: container ship 4, general cargo 13, oil tanker 1, other 14 (2022)<br>
+_total_: 32 (2022)<br>
+_by type_: container ship 4, general cargo 13, oil tanker 1, other 14<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Nuku'alofa, Neiafu, Pangai<br>

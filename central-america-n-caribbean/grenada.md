@@ -99,9 +99,9 @@ _elderly dependency ratio_: 14.9<br>
 _potential support ratio_: 6.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 33.3 years<br>
+_total_: 33.3 years (2020)<br>
 _male_: 33.1 years<br>
-_female_: 33.4 years (2020 est.)<br>
+_female_: 33.4 years<br>
 
 **Population growth rate**<br>
 0.29% (2023 est.)<br>
@@ -136,14 +136,14 @@ _total population_: 1.03 male(s)/female (2023 est.)<br>
 21 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.2 deaths/1,000 live births<br>
+_total_: 9.2 deaths/1,000 live births (2023 est.)<br>
 _male_: 8.77 deaths/1,000 live births<br>
-_female_: 9.68 deaths/1,000 live births (2023 est.)<br>
+_female_: 9.68 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76 years<br>
+_total population_: 76 years (2023 est.)<br>
 _male_: 73.41 years<br>
-_female_: 78.84 years (2023 est.)<br>
+_female_: 78.84 years<br>
 
 **Total fertility rate**<br>
 1.92 children born/woman (2023 est.)<br>
@@ -590,8 +590,8 @@ _paved_: 902 km (2017)<br>
 _unpaved_: 225 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 6<br>
-_by type_: general cargo 3, other 3 (2022)<br>
+_total_: 6 (2022)<br>
+_by type_: general cargo 3, other 3<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Saint George's<br>

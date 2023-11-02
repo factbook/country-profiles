@@ -104,9 +104,9 @@ _elderly dependency ratio_: 14.6<br>
 _potential support ratio_: 6.9 (2021)<br>
 
 **Median age**<br>
-_total_: 30.5 years<br>
+_total_: 30.5 years (2020)<br>
 _male_: 30.2 years<br>
-_female_: 30.8 years (2020 est.)<br>
+_female_: 30.8 years<br>
 
 **Population growth rate**<br>
 0.62% (2023 est.)<br>
@@ -134,14 +134,14 @@ _65 years and over_: 0.77 male(s)/female<br>
 _total population_: 1.06 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 24.93 deaths/1,000 live births<br>
+_total_: 24.93 deaths/1,000 live births (2023 est.)<br>
 _male_: 26.36 deaths/1,000 live births<br>
-_female_: 23.38 deaths/1,000 live births (2023 est.)<br>
+_female_: 23.38 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.15 years<br>
+_total population_: 72.15 years (2023 est.)<br>
 _male_: 69.93 years<br>
-_female_: 74.54 years (2023 est.)<br>
+_female_: 74.54 years<br>
 
 **Total fertility rate**<br>
 1.88 children born/woman (2023 est.)<br>
@@ -181,9 +181,9 @@ NA<br>
 NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 48.8%<br>
+_total_: 48.8% (2020 est.)<br>
 _male_: 44.9%<br>
-_female_: 57.3% (2020 est.)<br>
+_female_: 57.3%<br>
 
 ## Environment
 
@@ -388,9 +388,9 @@ _services_: 78.2% (2017 est.)<br>
 <strong>note:</strong> Kosovo has a large informal sector that may not be reflected in these data<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 48.8%<br>
+_total_: 48.8% (2020 est.)<br>
 _male_: 44.9%<br>
-_female_: 57.3% (2020 est.)<br>
+_female_: 57.3%<br>
 
 **Population below poverty line**<br>
 17.6% (2015 est.)<br>

@@ -118,9 +118,9 @@ _elderly dependency ratio_: 12.2<br>
 _potential support ratio_: 8.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.3 years<br>
+_total_: 29.3 years (2020)<br>
 _male_: 28.2 years<br>
-_female_: 30.4 years (2020 est.)<br>
+_female_: 30.4 years<br>
 
 **Population growth rate**<br>
 0.61% (2023 est.)<br>
@@ -158,14 +158,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 59 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12 deaths/1,000 live births<br>
+_total_: 12 deaths/1,000 live births (2023 est.)<br>
 _male_: 13.23 deaths/1,000 live births<br>
-_female_: 10.71 deaths/1,000 live births (2023 est.)<br>
+_female_: 10.71 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.46 years<br>
+_total population_: 73.46 years (2023 est.)<br>
 _male_: 70.29 years<br>
-_female_: 76.79 years (2023 est.)<br>
+_female_: 76.79 years<br>
 
 **Total fertility rate**<br>
 1.73 children born/woman (2023 est.)<br>
@@ -246,9 +246,9 @@ _male_: 15 years<br>
 _female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.1%<br>
+_total_: 8.1% (2021 est.)<br>
 _male_: 7.9%<br>
-_female_: 8.6% (2021 est.)<br>
+_female_: 8.6%<br>
 
 ## Environment
 
@@ -494,9 +494,9 @@ _services_: 61.9% (2011)<br>
 <strong>note:</strong> underemployment may be as high as 25%<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.1%<br>
+_total_: 8.1% (2021 est.)<br>
 _male_: 7.9%<br>
-_female_: 8.6% (2021 est.)<br>
+_female_: 8.6%<br>
 
 **Population below poverty line**<br>
 41.9% (2018 est.)<br>
@@ -717,8 +717,8 @@ _unpaved_: 529,358 km (2017)<br>
 2,900 km (2012) (navigable rivers and coastal canals mostly connected with ports on the country's east coast)<br>
 
 **Merchant marine**<br>
-_total_: 669<br>
-_by type_: container ship 1, bulk carrier 5, general cargo 10, oil tanker 32, other 621 (2022)<br>
+_total_: 669 (2022)<br>
+_by type_: container ship 1, bulk carrier 5, general cargo 10, oil tanker 32, other 621<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz<br>

@@ -104,9 +104,9 @@ _elderly dependency ratio_: 32.1<br>
 _potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 44.5 years<br>
+_total_: 44.5 years (2020)<br>
 _male_: 40.2 years<br>
-_female_: 48.2 years (2020 est.)<br>
+_female_: 48.2 years<br>
 
 **Population growth rate**<br>
 -1.04% (2023 est.)<br>
@@ -144,14 +144,14 @@ _total population_: 0.86 male(s)/female (2023 est.)<br>
 9 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.61 deaths/1,000 live births<br>
+_total_: 3.61 deaths/1,000 live births (2023 est.)<br>
 _male_: 4.06 deaths/1,000 live births<br>
-_female_: 3.12 deaths/1,000 live births (2023 est.)<br>
+_female_: 3.12 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.95 years<br>
+_total population_: 75.95 years (2023 est.)<br>
 _male_: 70.62 years<br>
-_female_: 81.59 years (2023 est.)<br>
+_female_: 81.59 years<br>
 
 **Total fertility rate**<br>
 1.61 children born/woman (2023 est.)<br>
@@ -230,9 +230,9 @@ _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19%<br>
+_total_: 19% (2021 est.)<br>
 _male_: 18.5%<br>
-_female_: 19.6% (2021 est.)<br>
+_female_: 19.6%<br>
 
 ## Environment
 
@@ -459,9 +459,9 @@ _services_: 65.8% (2015 est.)<br>
 6.26% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19%<br>
+_total_: 19% (2021 est.)<br>
 _male_: 18.5%<br>
-_female_: 19.6% (2021 est.)<br>
+_female_: 19.6%<br>
 
 **Population below poverty line**<br>
 20.6% (2018 est.)<br>
@@ -674,8 +674,8 @@ _unpaved_: 11,869 km (2012)<br>
 441 km (2007) (navigable year-round)<br>
 
 **Merchant marine**<br>
-_total_: 62<br>
-_by type_: container ship 4, general cargo 22, oil tanker 2, other 34 (2022)<br>
+_total_: 62 (2022)<br>
+_by type_: container ship 4, general cargo 22, oil tanker 2, other 34<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Klaipeda<br>

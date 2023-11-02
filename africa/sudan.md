@@ -116,9 +116,9 @@ _elderly dependency ratio_: 6.2<br>
 _potential support ratio_: 16.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.3 years<br>
+_total_: 18.3 years (2020)<br>
 _male_: 18.1 years<br>
-_female_: 18.5 years (2020 est.)<br>
+_female_: 18.5 years<br>
 
 **Population growth rate**<br>
 2.55% (2023 est.)<br>
@@ -153,14 +153,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 270 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 41.4 deaths/1,000 live births<br>
+_total_: 41.4 deaths/1,000 live births (2023 est.)<br>
 _male_: 46.87 deaths/1,000 live births<br>
-_female_: 35.66 deaths/1,000 live births (2023 est.)<br>
+_female_: 35.66 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.45 years<br>
+_total population_: 67.45 years (2023 est.)<br>
 _male_: 65.19 years<br>
-_female_: 69.81 years (2023 est.)<br>
+_female_: 69.81 years<br>
 
 **Total fertility rate**<br>
 4.54 children born/woman (2023 est.)<br>
@@ -236,9 +236,9 @@ _male_: 8 years<br>
 _female_: 7 years (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 35.6%<br>
+_total_: 35.6% (2021 est.)<br>
 _male_: 30.5%<br>
-_female_: 45.8% (2021 est.)<br>
+_female_: 45.8%<br>
 
 ## Environment
 
@@ -367,7 +367,7 @@ _subordinate courts_: Court of Appeal; other national courts; public courts; dis
 <p>Major Parties as of April 2019: <br>Democratic Unionist Party [Muhammad Uthman al-MIRGHANI]<br>Democratic Unionist Party or DUP [Babika BABIKER]<br>Federal Umma Party [Dr. Ahmed Babikir NAHAR]<br>Muslim Brotherhood or MB [Sadig Abdalla ABDELMAJID and Dr. Yousif Al-Hibir Nor-ELDAYIM]<br>National Congress Party or NCP [Umar Hassan Ahmad al-BASHIR]<br>National Umma Party or NUP [Fadlallah Baramah NASSER]<br>Popular Congress Party or PCP [Nawal Al-KHIDIR]<br>Reform Movement Now [Dr. Ghazi Salahuddin al-ATABANI]<br>Sudan National Front [Ali Mahmud HASANAYN]<br>Sudanese Communist Party or SCP [Mohammed Moktar Al-KHATEEB]<br>Sudanese Congress Party or SCoP [Omar El DIGAIR]<br>Umma Party for Reform and Development [Mubarak Al-Fadul Al-MAHDI]<br>Unionist Movement Party or UMP [led by DUP Chair Mohammed Osama Al-MERGHANI]</p> <strong>note: </strong>in November 2019, the transitional government banned the National Congress Party<br>
 
 **International organization participation**<br>
-ABEDA, ACP, AfDB, AFESD, AMF, AU, CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+ABEDA, ACP, AfDB, AFESD, AMF, AU (suspended), CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mohamed Abdalla Idris MOHAMED (since 16 September 2022)<br>
@@ -465,9 +465,9 @@ _services_: 13% (1998 est.)<br>
 17.65% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 35.6%<br>
+_total_: 35.6% (2021 est.)<br>
 _male_: 30.5%<br>
-_female_: 45.8% (2021 est.)<br>
+_female_: 45.8%<br>
 
 **Population below poverty line**<br>
 46.5% (2009 est.)<br>
@@ -678,8 +678,8 @@ _urban_: 1,000 km (2019)<br>
 4,068 km (2011) (1,723 km open year-round on White and Blue Nile Rivers)<br>
 
 **Merchant marine**<br>
-_total_: 15<br>
-_by type_: other 15 (2022)<br>
+_total_: 15 (2022)<br>
+_by type_: other 15<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Port Sudan<br>
@@ -735,6 +735,6 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; Harakat Sawa’d Misr<br
 <p><em>Sudan-Central African Republic</em>: periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights; Sudan closed its border with the Central African Republic in January 2022 due to security concerns</p> <p><em>Sudan-Chad</em>: Chad wants to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; however, since the August 2020 Juba Peace Agreement between the Sudanese Government and the Sudanese Revolutionary Front and the termination of the UN’s peacekeeping mission, UNAMID, at the end of 2020, violence continues to break out over land and water access</p> <p><em>Sudan-Egypt</em>: Sudan claims, but Egypt de facto administers, security and economic development of the Halaib region north of the 22nd parallel boundary</p> <p><em>Sudan-Eritrea</em>: none identified</p> <p><em>Sudan-Ethiopia</em>: civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; clashes continue between Sudan and Ethiopia over al-Fashaga, a fertile piece of land inhabited by Ethiopian farmers for years until the Sudanese army expelled them in December 2020, claiming the land belonged to Sudan based on colonial-era maps from over 100 years ago; in February, 2022, the two countries were discussing resuming talks over the border conflict</p> <p><em>Sudan-Libya</em>: none identified</p> <p><em>Sudan-South Sudan</em>: the South Sudan-Sudan boundary represents 1 January 1956 alignment, final alignment pending negotiations and demarcation; final sovereignty status of Abyei area pending negotiations between South Sudan and Sudan; clashes continue in the oil-rich Abyei region; the United Nations Interim Security Force for Abyei (UNISFA) has been deployed since 2011, when South Sudan became independent; the United Nations Interim Security Force for Abyei (UNISFA) has condemned renewed clashes on 23 September 2022 between the Twik and Ngok Dinka communities taking place in Agok, 28 kilometres from Abyei town</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 808,336 (South Sudan) (refugees and asylum seekers), 137,402 (Eritrea) (refugees and asylum seekers), 93,477 (Syria) (refugees and asylum seekers), 72,334 (Ethiopia) (refugees and asylum seekers), 24,370 (Central African Republic) (2023)<br>
-_IDPs_: 4.55 million (armed conflict between rival factions of the military government of Sudan since 15 April 2023) (2023); note - includes some non-Sudanese nationals<br>
+_refugees (country of origin)_: 682,519 (South Sudan) (refugees and asylum seekers), 137,402 (Eritrea) (refugees and asylum seekers), 93,477 (Syria) (refugees and asylum seekers), 72,334 (Ethiopia) (refugees and asylum seekers), 18,597 (Central African Republic) (2023)<br>
+_IDPs_: 4.63 million (armed conflict between rival factions of the military government of Sudan since 15 April 2023) (2023); note - includes some non-Sudanese nationals<br>
 

@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-Humans arrived in the Palauan archipelago around 1000 B.C. from Southeast Asia and developed a complex, highly organized matrilineal society where high-ranking women picked the chiefs. The islands were the westernmost part of the widely scattered Pacific islands north of New Guinea that Spanish explorers named the Caroline Islands in the 17th century. There were several failed attempts by Spanish Jesuit missionaries to visit the islands in the early 1700s. Spain gained some influence in the islands and administered it from the Philippines but sold Palau to Germany in 1899 after it lost the Philippines in the Spanish-American War.<br><br>Japan seized Palau in 1914, was granted a League of Nations mandate to administer the islands in 1920, and made Koror the capital of its South Seas Mandate in 1922. By the outbreak of World War II, there were four times as many Japanese living in Koror as Palauans. In 1944, the Battle of Peleliu between US and Japanese forces resulted in more than 15,000 deaths. Following the war, Palau became part of the US-administered Trust Territory of the Pacific Islands.<br><br>Palau voted against joining the Federated States of Micronesia in 1978 and adopted its own constitution in 1981, which stated that Palau was a nuclear-free country. In 1982, Palau signed a Compact of Free Association (COFA) with the US, which granted Palau financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities. However, many Palauans saw the COFA as incompatible with the Palauan Constitution because of the US military’s nuclear arsenal, and seven referenda failed to achieve ratification. Following a constitutional amendment and eighth referendum in 1993, the COFA was ratified and entered into force in 1994 when the islands gained their independence. Its funding was renewed in 2010.<br><br>Palau has been on the frontlines of combatting climate change and protecting marine resources. In 2011, Palau banned commercial shark fishing and created the world’s first shark sanctuary. In 2017, Palau began stamping the Palau Pledge into passports, reminding visitors to act in ecologically and culturally responsible ways. In 2020, Palau banned coral reef-toxic sunscreens and expanded its fishing prohibition to include 80% of its exclusive economic zone.<br>
+Humans arrived in the Palauan archipelago around 1000 B.C. from Southeast Asia and developed a complex, highly organized matrilineal society where high-ranking women picked the chiefs. The islands were the westernmost part of the widely scattered Pacific islands north of New Guinea that Spanish explorers named the Caroline Islands in the 17th century. There were several failed attempts by Spanish Jesuit missionaries to visit the islands in the early 1700s. Spain gained some influence in the islands and administered it from the Philippines but sold Palau to Germany in 1899 after it lost the Philippines in the Spanish-American War.<br><br>Japan seized Palau in 1914, was granted a League of Nations mandate to administer the islands in 1920, and made Koror the capital of its South Seas Mandate in 1922. By the outbreak of World War II, there were four times as many Japanese living in Koror as Palauans. In 1944, the US invasion of the island of Peleliu in 1944 was one of the bloodiest island fights of the Pacific War. Following the war, Palau became part of the US-administered Trust Territory of the Pacific Islands.<br><br>Palau voted against joining the Federated States of Micronesia in 1978 and adopted its own constitution in 1981, which stated that Palau was a nuclear-free country. In 1982, Palau signed a Compact of Free Association (COFA) with the US, which granted Palau financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities. However, many Palauans saw the COFA as incompatible with the Palauan Constitution because of the US military’s nuclear arsenal, and seven referenda failed to achieve ratification. Following a constitutional amendment and eighth referendum in 1993, the COFA was ratified and entered into force in 1994 when the islands gained their independence. Its funding was renewed in 2010.<br><br>Palau has been on the frontlines of combatting climate change and protecting marine resources. In 2011, Palau banned commercial shark fishing and created the world’s first shark sanctuary. In 2017, Palau began stamping the Palau Pledge into passports, reminding visitors to act in ecologically and culturally responsible ways. In 2020, Palau banned coral reef-toxic sunscreens and expanded its fishing prohibition to include 80% of its exclusive economic zone.<br>
 
 ## Geography
 
@@ -102,9 +102,9 @@ _elderly dependency ratio_: 13.7<br>
 _potential support ratio_: 7.3 (2021)<br>
 
 **Median age**<br>
-_total_: 33.9 years<br>
+_total_: 33.9 years (2020)<br>
 _male_: 32.9 years<br>
-_female_: 35.9 years (2020 est.)<br>
+_female_: 35.9 years<br>
 
 **Population growth rate**<br>
 0.39% (2023 est.)<br>
@@ -136,14 +136,14 @@ _65 years and over_: 0.33 male(s)/female<br>
 _total population_: 1.06 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.04 deaths/1,000 live births<br>
+_total_: 11.04 deaths/1,000 live births (2023 est.)<br>
 _male_: 12.99 deaths/1,000 live births<br>
-_female_: 8.98 deaths/1,000 live births (2023 est.)<br>
+_female_: 8.98 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.91 years<br>
+_total population_: 74.91 years (2023 est.)<br>
 _male_: 71.76 years<br>
-_female_: 78.24 years (2023 est.)<br>
+_female_: 78.24 years<br>
 
 **Total fertility rate**<br>
 1.7 children born/woman (2023 est.)<br>
@@ -205,9 +205,9 @@ _male_: 16 years<br>
 _female_: 17 years (2013)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.6%<br>
+_total_: 5.6% (2014)<br>
 _male_: NA<br>
-_female_: (2014) NA<br>
+_female_: NA<br>
 
 ## Environment
 
@@ -413,9 +413,9 @@ _services_: 86.4% (2016)<br>
 4.1% (2012)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.6%<br>
+_total_: 5.6% (2014)<br>
 _male_: NA<br>
-_female_: (2014) NA<br>
+_female_: NA<br>
 
 **Population below poverty line**<br>
 24.9% (2006) NA<br>
@@ -545,8 +545,8 @@ _paved_: 89 km (2018)<br>
 _unpaved_: 36 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 304<br>
-_by type_: bulk carrier 29, container ship 6, general cargo 137, oil tanker 43, other 89 (2022)<br>
+_total_: 304 (2022)<br>
+_by type_: bulk carrier 29, container ship 6, general cargo 137, oil tanker 43, other 89<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Koror<br>

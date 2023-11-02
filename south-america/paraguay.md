@@ -113,9 +113,9 @@ _elderly dependency ratio_: 9.6<br>
 _potential support ratio_: 10.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.7 years<br>
+_total_: 29.7 years (2020)<br>
 _male_: 29.5 years<br>
-_female_: 29.9 years (2020 est.)<br>
+_female_: 29.9 years<br>
 
 **Population growth rate**<br>
 1.12% (2023 est.)<br>
@@ -154,14 +154,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 71 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.6 deaths/1,000 live births<br>
+_total_: 22.6 deaths/1,000 live births (2023 est.)<br>
 _male_: 26.78 deaths/1,000 live births<br>
-_female_: 18.2 deaths/1,000 live births (2023 est.)<br>
+_female_: 18.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.61 years<br>
+_total population_: 78.61 years (2023 est.)<br>
 _male_: 75.97 years<br>
-_female_: 81.38 years (2023 est.)<br>
+_female_: 81.38 years<br>
 
 **Total fertility rate**<br>
 1.88 children born/woman (2023 est.)<br>
@@ -237,9 +237,9 @@ _male_: 94.9%<br>
 _female_: 94.2% (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.3%<br>
+_total_: 16.3% (2021 est.)<br>
 _male_: 12.7%<br>
-_female_: 21.9% (2021 est.)<br>
+_female_: 21.9%<br>
 
 ## Environment
 
@@ -470,9 +470,9 @@ _services_: 55% (2008)<br>
 6.59% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.3%<br>
+_total_: 16.3% (2021 est.)<br>
 _male_: 12.7%<br>
-_female_: 21.9% (2021 est.)<br>
+_female_: 21.9%<br>
 
 **Population below poverty line**<br>
 23.5% (2019 est.)<br>
@@ -674,8 +674,8 @@ _unpaved_: 70,238 km (2020)<br>
 3,100 km (2012) (primarily on the Paraguay and Paraná River systems)<br>
 
 **Merchant marine**<br>
-_total_: 105<br>
-_by type_: container ship 2, general cargo 24, oil tanker 5, other 74 (2022)<br>
+_total_: 105 (2022)<br>
+_by type_: container ship 2, general cargo 24, oil tanker 5, other 74<br>
 <strong>note:</strong> as of 2017, Paraguay registered 2,012 fluvial vessels of which 1,741 were commercial barges<br>
 
 **Ports and terminals**<br>

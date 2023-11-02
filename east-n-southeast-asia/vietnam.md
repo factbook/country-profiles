@@ -115,9 +115,9 @@ _elderly dependency ratio_: 12.7<br>
 _potential support ratio_: 7.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.9 years<br>
+_total_: 31.9 years (2020)<br>
 _male_: 30.8 years<br>
-_female_: 33 years (2020 est.)<br>
+_female_: 33 years<br>
 
 **Population growth rate**<br>
 0.93% (2023 est.)<br>
@@ -152,14 +152,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 124 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.42 deaths/1,000 live births<br>
+_total_: 14.42 deaths/1,000 live births (2023 est.)<br>
 _male_: 14.76 deaths/1,000 live births<br>
-_female_: 14.05 deaths/1,000 live births (2023 est.)<br>
+_female_: 14.05 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.79 years<br>
+_total population_: 75.79 years (2023 est.)<br>
 _male_: 73.22 years<br>
-_female_: 78.62 years (2023 est.)<br>
+_female_: 78.62 years<br>
 
 **Total fertility rate**<br>
 2.04 children born/woman (2023 est.)<br>
@@ -237,9 +237,9 @@ _male_: 97%<br>
 _female_: 94.6% (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.2%<br>
+_total_: 7.2% (2021 est.)<br>
 _male_: 7.1%<br>
-_female_: 7.5% (2021 est.)<br>
+_female_: 7.5%<br>
 
 ## Environment
 
@@ -473,9 +473,9 @@ _services_: 34% (2017)<br>
 2.04% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.2%<br>
+_total_: 7.2% (2021 est.)<br>
 _male_: 7.1%<br>
-_female_: 7.5% (2021 est.)<br>
+_female_: 7.5%<br>
 
 **Population below poverty line**<br>
 6.7% (2018 est.)<br>
@@ -685,8 +685,8 @@ _unpaved_: 47,130 km (2013)<br>
 47,130 km (2011) (30,831 km weight under 50 tons)<br>
 
 **Merchant marine**<br>
-_total_: 1,975<br>
-_by type_: bulk carrier 116, container ship 42, general cargo 1,194, oil tanker 137, other 486 (2022)<br>
+_total_: 1,975 (2022)<br>
+_by type_: bulk carrier 116, container ship 42, general cargo 1,194, oil tanker 137, other 486<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon<br>

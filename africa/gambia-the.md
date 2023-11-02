@@ -112,9 +112,9 @@ _elderly dependency ratio_: 4.5<br>
 _potential support ratio_: 22.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21.8 years<br>
+_total_: 21.8 years (2020)<br>
 _male_: 21.5 years<br>
-_female_: 22.2 years (2020 est.)<br>
+_female_: 22.2 years<br>
 
 **Population growth rate**<br>
 2.23% (2023 est.)<br>
@@ -154,14 +154,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 458 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 36.44 deaths/1,000 live births<br>
+_total_: 36.44 deaths/1,000 live births (2023 est.)<br>
 _male_: 39.92 deaths/1,000 live births<br>
-_female_: 32.86 deaths/1,000 live births (2023 est.)<br>
+_female_: 32.86 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.98 years<br>
+_total population_: 67.98 years (2023 est.)<br>
 _male_: 66.26 years<br>
-_female_: 69.75 years (2023 est.)<br>
+_female_: 69.75 years<br>
 
 **Total fertility rate**<br>
 3.66 children born/woman (2023 est.)<br>
@@ -227,8 +227,8 @@ _female_: 0.8% (2020 est.)<br>
 60.9% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 7.5%<br>
-_women married by age 18_: 25.7%<br>
+_women married by age 15_: 5.6%<br>
+_women married by age 18_: 23.1%<br>
 _men married by age 18_: 0.2% (2020 est.)<br>
 
 **Education expenditures**<br>
@@ -241,9 +241,9 @@ _male_: 65.2%<br>
 _female_: 51.2% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.5%<br>
+_total_: 15.5% (2021 est.)<br>
 _male_: 11.4%<br>
-_female_: 20.5% (2021 est.)<br>
+_female_: 20.5%<br>
 
 ## Environment
 
@@ -461,9 +461,9 @@ _services_: 6% (1996 est.)<br>
 NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.5%<br>
+_total_: 15.5% (2021 est.)<br>
 _male_: 11.4%<br>
-_female_: 20.5% (2021 est.)<br>
+_female_: 20.5%<br>
 
 **Population below poverty line**<br>
 48.6% (2015 est.)<br>
@@ -655,8 +655,8 @@ _unpaved_: 2,459 km (2011)<br>
 390 km (2010) (on River Gambia; small oceangoing vessels can reach 190 km)<br>
 
 **Merchant marine**<br>
-_total_: 9<br>
-_by type_: general cargo 1, other 8 (2022)<br>
+_total_: 9 (2022)<br>
+_by type_: general cargo 1, other 8<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Banjul<br>

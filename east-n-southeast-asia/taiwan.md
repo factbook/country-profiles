@@ -102,9 +102,9 @@ _elderly dependency ratio_: 22.4<br>
 _potential support ratio_: 4.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.3 years<br>
+_total_: 42.3 years (2020)<br>
 _male_: 41.5 years<br>
-_female_: 43.1 years (2020 est.)<br>
+_female_: 43.1 years<br>
 
 **Population growth rate**<br>
 0.03% (2023 est.)<br>
@@ -136,14 +136,14 @@ _65 years and over_: 0.82 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.9 deaths/1,000 live births<br>
+_total_: 3.9 deaths/1,000 live births (2023 est.)<br>
 _male_: 4.23 deaths/1,000 live births<br>
-_female_: 3.56 deaths/1,000 live births (2023 est.)<br>
+_female_: 3.56 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.38 years<br>
+_total population_: 81.38 years (2023 est.)<br>
 _male_: 78.4 years<br>
-_female_: 84.54 years (2023 est.)<br>
+_female_: 84.54 years<br>
 
 **Total fertility rate**<br>
 1.09 children born/woman (2023 est.)<br>
@@ -588,8 +588,8 @@ _paved_: 42,793 km (2017) (includes 1,348 km of highways and 737 km of expresswa
 _unpaved_: 413 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 450<br>
-_by type_: bulk carrier 34, container ship 53, general cargo 58, oil tanker 34, other 271 (2022)<br>
+_total_: 450 (2022)<br>
+_by type_: bulk carrier 34, container ship 53, general cargo 58, oil tanker 34, other 271<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Keelung (Chi-lung), Kaohsiung, Hualian, Taichung<br>

@@ -100,9 +100,9 @@ _elderly dependency ratio_: 11.9<br>
 _potential support ratio_: 8.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 32.8 years<br>
+_total_: 32.8 years (2020)<br>
 _male_: 31.7 years<br>
-_female_: 34 years (2020 est.)<br>
+_female_: 34 years<br>
 
 **Population growth rate**<br>
 0.8% (2023 est.)<br>
@@ -137,14 +137,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 77 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.52 deaths/1,000 live births<br>
+_total_: 12.52 deaths/1,000 live births (2023 est.)<br>
 _male_: 12.96 deaths/1,000 live births<br>
-_female_: 12.06 deaths/1,000 live births (2023 est.)<br>
+_female_: 12.06 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.38 years<br>
+_total population_: 76.38 years (2023 est.)<br>
 _male_: 73.47 years<br>
-_female_: 79.38 years (2023 est.)<br>
+_female_: 79.38 years<br>
 
 **Total fertility rate**<br>
 1.97 children born/woman (2023 est.)<br>
@@ -199,9 +199,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.8%<br>
+_total_: 30.8% (2021 est.)<br>
 _male_: 27.5%<br>
-_female_: 35.6% (2021 est.)<br>
+_female_: 35.6%<br>
 
 ## Environment
 
@@ -415,9 +415,9 @@ _tourism_: 37% (2011 est.)<br>
 10.06% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.8%<br>
+_total_: 30.8% (2021 est.)<br>
 _male_: 27.5%<br>
-_female_: 35.6% (2021 est.)<br>
+_female_: 35.6%<br>
 
 **Population below poverty line**<br>
 9.3% (2010 est.)<br>
@@ -615,8 +615,8 @@ _paved_: 1,620 km (2011)<br>
 _unpaved_: 1,080 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 1,307<br>
-_by type_: bulk carrier 337, container ship 40, general cargo 63, oil tanker 213, other 654 (2022)<br>
+_total_: 1,307 (2022)<br>
+_by type_: bulk carrier 337, container ship 40, general cargo 63, oil tanker 213, other 654<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Freeport, Nassau, South Riding Point<br>

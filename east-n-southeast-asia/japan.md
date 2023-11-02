@@ -108,9 +108,9 @@ _elderly dependency ratio_: 51<br>
 _potential support ratio_: 2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 48.6 years<br>
+_total_: 48.6 years (2020)<br>
 _male_: 47.2 years<br>
-_female_: 50 years (2020 est.)<br>
+_female_: 50 years<br>
 
 **Population growth rate**<br>
 -0.41% (2023 est.)<br>
@@ -148,14 +148,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 4 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.88 deaths/1,000 live births<br>
+_total_: 1.88 deaths/1,000 live births (2023 est.)<br>
 _male_: 1.99 deaths/1,000 live births<br>
-_female_: 1.77 deaths/1,000 live births (2023 est.)<br>
+_female_: 1.77 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 85 years<br>
+_total population_: 85 years (2023 est.)<br>
 _male_: 82.11 years<br>
-_female_: 88.06 years (2023 est.)<br>
+_female_: 88.06 years<br>
 
 **Total fertility rate**<br>
 1.39 children born/woman (2023 est.)<br>
@@ -227,9 +227,9 @@ _male_: 15 years<br>
 _female_: 15 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.4%<br>
+_total_: 4.4% (2021 est.)<br>
 _male_: 4.6%<br>
-_female_: 4.1% (2021 est.)<br>
+_female_: 4.1%<br>
 
 ## Environment
 
@@ -347,7 +347,7 @@ _judge selection and term of office_: Supreme Court chief justice designated by 
 _subordinate courts_: 8 High Courts (Koto-saiban-sho), each with a Family Court (Katei-saiban-sho); 50 District Courts (Chiho saibansho), with 203 additional branches; 438 Summary Courts (Kani saibansho)<br>
 
 **Political parties and leaders**<br>
-Constitutional Democratic Party of Japan or CDP [Kenta IZUMI]<br>Democratic Party for the People Japan or DPFP [Yuichiro TAMAKI]<br>Group of Reformists [Sakihito OZAWA]<br>Japan Communist Party or JCP [Kazuo SHII]<br>Japan Innovation Party or Nippon Ishin no kai or Ishin [Ichiro MATSUI]<br>Komeito [Natsuo YAMAGUCHI]<br>Liberal Democratic Party or LDP [Fumio KISHIDA]<br>Liberal Party [Ichiro OZAWA] (formerly People's Life Party &amp; Taro Yamamoto and Friends or PLPTYF)<br>Party of Hope or Kibo no To [Nariaki NAKAYAMA]<br>Reiwa Shinsengumi [Taro YAMAMOTO]<br>Sanseitō or DIY [Sohei KAMIYA]<br>Social Democratic Party or SDP [Mizuho FUKUSHIMA]<br>
+Constitutional Democratic Party of Japan or CDP [Kenta IZUMI]<br>Democratic Party for the People Japan or DPFP [Yuichiro TAMAKI]<br>Group of Reformists [Sakihito OZAWA]<br>Japan Communist Party or JCP [Kazuo SHII]<br>Japan Innovation Party or Nippon Ishin no kai or Ishin [Ichiro MATSUI]<br>Komeito [Natsuo YAMAGUCHI]<br>Liberal Democratic Party or LDP [Fumio KISHIDA]<br>Liberal Party [Ichiro OZAWA] (formerly People's Life Party &amp; Taro Yamamoto and Friends or PLPTYF)<br>Party of Hope or Kibo no To [Nariaki NAKAYAMA]<br>Reiwa Shinsengumi [Taro YAMAMOTO]<br>Seijika Joshi or NHK [Ayaka OTSU (de jure) Takashi TACHIBANA (de facto)]<br>Sanseitō or DIY [Sohei KAMIYA]<br>Social Democratic Party or SDP [Mizuho FUKUSHIMA]<br>
 
 **International organization participation**<br>
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CE (observer), CERN (observer), CICA (observer), CP, CPLP (associate), EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Quad, SAARC (observer), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, UNOOSA, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -455,9 +455,9 @@ _services_: 70.9% (February 2015 est.)<br>
 2.4% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.4%<br>
+_total_: 4.4% (2021 est.)<br>
 _male_: 4.6%<br>
-_female_: 4.1% (2021 est.)<br>
+_female_: 4.1%<br>
 
 **Population below poverty line**<br>
 16.1% (2013 est.)<br>
@@ -682,8 +682,8 @@ _unpaved_: 225,937 km (2015)<br>
 1,770 km (2010) (seagoing vessels use inland seas)<br>
 
 **Merchant marine**<br>
-_total_: 5,590<br>
-_by type_: bulk carrier 149, container ship 47, general cargo 2,071, oil tanker 690, other 2,633 (2022)<br>
+_total_: 5,590 (2022)<br>
+_by type_: bulk carrier 149, container ship 47, general cargo 2,071, oil tanker 690, other 2,633<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, Tomakomai, Yokohama<br>

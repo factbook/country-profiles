@@ -106,9 +106,9 @@ _elderly dependency ratio_: 10.4<br>
 _potential support ratio_: 9.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.2 years<br>
+_total_: 29.2 years (2020)<br>
 _male_: 28.9 years<br>
-_female_: 29.6 years (2020 est.)<br>
+_female_: 29.6 years<br>
 
 **Population growth rate**<br>
 1.01% (2023 est.)<br>
@@ -143,14 +143,14 @@ _total population_: 1.05 male(s)/female (2023 est.)<br>
 21 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.49 deaths/1,000 live births<br>
+_total_: 6.49 deaths/1,000 live births (2023 est.)<br>
 _male_: 6.87 deaths/1,000 live births<br>
-_female_: 6.08 deaths/1,000 live births (2023 est.)<br>
+_female_: 6.08 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.38 years<br>
+_total population_: 76.38 years (2023 est.)<br>
 _male_: 74.77 years<br>
-_female_: 78.12 years (2023 est.)<br>
+_female_: 78.12 years<br>
 
 **Total fertility rate**<br>
 1.74 children born/woman (2023 est.)<br>
@@ -228,9 +228,9 @@ _male_: 13 years<br>
 _female_: 14 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.6%<br>
+_total_: 15.6% (2021 est.)<br>
 _male_: 14.2%<br>
-_female_: 17.8% (2021 est.)<br>
+_female_: 17.8%<br>
 
 ## Environment
 
@@ -456,9 +456,9 @@ _services_: 53% (2012 est.)<br>
 3.26% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.6%<br>
+_total_: 15.6% (2021 est.)<br>
 _male_: 14.2%<br>
-_female_: 17.8% (2021 est.)<br>
+_female_: 17.8%<br>
 
 **Population below poverty line**<br>
 5.6% (2018 est.)<br>
@@ -669,8 +669,8 @@ _unpaved_: 28,234 km (2010)<br>
 7,200 km (2011) (Peninsular Malaysia 3,200 km; Sabah 1,500 km; Sarawak 2,500 km)<br>
 
 **Merchant marine**<br>
-_total_: 1,790<br>
-_by type_: bulk carrier 14, container ship 33, general cargo 181, oil tanker 156, other 1,406 (2022)<br>
+_total_: 1,790 (2022)<br>
+_by type_: bulk carrier 14, container ship 33, general cargo 181, oil tanker 156, other 1,406<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bintulu, Johor Bahru, George Town (Penang), Pelabuhan Klang (Port Klang), Tanjung Pelepas<br>

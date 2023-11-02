@@ -109,9 +109,9 @@ _elderly dependency ratio_: 34.4<br>
 _potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 43.9 years<br>
+_total_: 43.9 years (2020)<br>
 _male_: 42 years<br>
-_female_: 45.9 years (2020 est.)<br>
+_female_: 45.9 years<br>
 
 **Population growth rate**<br>
 -0.47% (2023 est.)<br>
@@ -149,14 +149,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.58 deaths/1,000 live births<br>
+_total_: 8.58 deaths/1,000 live births (2023 est.)<br>
 _male_: 8.36 deaths/1,000 live births<br>
-_female_: 8.81 deaths/1,000 live births (2023 est.)<br>
+_female_: 8.81 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.47 years<br>
+_total population_: 77.47 years (2023 est.)<br>
 _male_: 74.37 years<br>
-_female_: 80.76 years (2023 est.)<br>
+_female_: 80.76 years<br>
 
 **Total fertility rate**<br>
 1.46 children born/woman (2023 est.)<br>
@@ -232,9 +232,9 @@ _male_: 14 years<br>
 _female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.6%<br>
+_total_: 23.6% (2021 est.)<br>
 _male_: 21.8%<br>
-_female_: 26.3% (2021 est.)<br>
+_female_: 26.3%<br>
 
 ## Environment
 
@@ -467,9 +467,9 @@ _services_: 70.8% (2017 est.)<br>
 6.62% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.6%<br>
+_total_: 23.6% (2021 est.)<br>
 _male_: 21.8%<br>
-_female_: 26.3% (2021 est.)<br>
+_female_: 26.3%<br>
 
 **Population below poverty line**<br>
 18.3% (2018 est.)<br>
@@ -677,8 +677,8 @@ _total_: 26,958 km (2015) (includes 1,416 km of expressways)<br>
 4,714 km (2022) Danube 2,859 km, Sava 562 km, Drava 505 km, Neretva 20 km, Bosut 151 km, Kupa 296 km, Mura 53 km, Korana 134 km, Lonja 134 km<br>
 
 **Merchant marine**<br>
-_total_: 376<br>
-_by type_: bulk carrier 12, general cargo 33, oil tanker 14, other 317 (2022)<br>
+_total_: 376 (2022)<br>
+_by type_: bulk carrier 12, general cargo 33, oil tanker 14, other 317<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ploce, Rijeka, Sibenik, Split<br>
@@ -724,7 +724,7 @@ the Armed Forces of Croatia (OSRH) are responsible for the defense of Croatia’
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 23,570 (Ukraine) (as of 6 October 2023)<br>
 _stateless persons_: 2,889 (2022)<br>
-<strong>note: </strong>832,384 estimated refugee and migrant arrivals (January 2015-August 2023)<br>
+<strong>note: </strong>843,010 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine destined for European markets</p> <p> </p><br>

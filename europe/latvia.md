@@ -104,9 +104,9 @@ _elderly dependency ratio_: 34.4<br>
 _potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 44.4 years<br>
+_total_: 44.4 years (2020)<br>
 _male_: 40.5 years<br>
-_female_: 48 years (2020 est.)<br>
+_female_: 48 years<br>
 
 **Population growth rate**<br>
 -1.13% (2023 est.)<br>
@@ -144,14 +144,14 @@ _total population_: 0.87 male(s)/female (2023 est.)<br>
 18 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.78 deaths/1,000 live births<br>
+_total_: 4.78 deaths/1,000 live births (2023 est.)<br>
 _male_: 5.2 deaths/1,000 live births<br>
-_female_: 4.34 deaths/1,000 live births (2023 est.)<br>
+_female_: 4.34 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.16 years<br>
+_total population_: 76.16 years (2023 est.)<br>
 _male_: 71.75 years<br>
-_female_: 80.79 years (2023 est.)<br>
+_female_: 80.79 years<br>
 
 **Total fertility rate**<br>
 1.55 children born/woman (2023 est.)<br>
@@ -227,9 +227,9 @@ _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.5%<br>
+_total_: 15.5% (2021 est.)<br>
 _male_: 12%<br>
-_female_: 19.6% (2021 est.)<br>
+_female_: 19.6%<br>
 
 ## Environment
 
@@ -453,9 +453,9 @@ _services_: 68.1% (2016 est.)<br>
 6.31% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.5%<br>
+_total_: 15.5% (2021 est.)<br>
 _male_: 12%<br>
-_female_: 19.6% (2021 est.)<br>
+_female_: 19.6%<br>
 
 **Population below poverty line**<br>
 22.9% (2018 est.)<br>
@@ -663,8 +663,8 @@ _unpaved_: 55,086 km (2018)<br>
 300 km (2010) (navigable year-round)<br>
 
 **Merchant marine**<br>
-_total_: 80<br>
-_by type_: container ship 2, general cargo 30, oil tanker 9, other 39 (2022)<br>
+_total_: 80 (2022)<br>
+_by type_: container ship 2, general cargo 30, oil tanker 9, other 39<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Riga, Ventspils<br>

@@ -109,9 +109,9 @@ _elderly dependency ratio_: 13.2<br>
 _potential support ratio_: 7.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.1 years<br>
+_total_: 30.1 years (2020)<br>
 _male_: 29.6 years<br>
-_female_: 30.5 years (2020 est.)<br>
+_female_: 30.5 years<br>
 
 **Population growth rate**<br>
 1.51% (2023 est.)<br>
@@ -146,14 +146,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 50 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.28 deaths/1,000 live births<br>
+_total_: 15.28 deaths/1,000 live births (2023 est.)<br>
 _male_: 16.53 deaths/1,000 live births<br>
-_female_: 13.96 deaths/1,000 live births (2023 est.)<br>
+_female_: 13.96 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.44 years<br>
+_total population_: 78.44 years (2023 est.)<br>
 _male_: 75.6 years<br>
-_female_: 81.46 years (2023 est.)<br>
+_female_: 81.46 years<br>
 
 **Total fertility rate**<br>
 2.37 children born/woman (2023 est.)<br>
@@ -230,9 +230,9 @@ _male_: 12 years<br>
 _female_: 13 years (2016)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30%<br>
+_total_: 30% (2021 est.)<br>
 _male_: 21.8%<br>
-_female_: 43.6% (2021 est.)<br>
+_female_: 43.6%<br>
 
 ## Environment
 
@@ -456,9 +456,9 @@ _services_: 64.4% (2009 est.)<br>
 4.73% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30%<br>
+_total_: 30% (2021 est.)<br>
 _male_: 21.8%<br>
-_female_: 43.6% (2021 est.)<br>
+_female_: 43.6%<br>
 
 **Population below poverty line**<br>
 22.1% (2016 est.)<br>
@@ -666,8 +666,8 @@ _standard gauge_: 77 km (2014) 1.435-m gauge<br>
 800 km (2011) (includes the 82-km Panama Canal that is being widened)<br>
 
 **Merchant marine**<br>
-_total_: 8,025<br>
-_by type_: bulk carrier 2,690, container ship 662, general cargo 1,418, oil tanker 785, other 2,470 (2022)<br>
+_total_: 8,025 (2022)<br>
+_by type_: bulk carrier 2,690, container ship 662, general cargo 1,418, oil tanker 785, other 2,470<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Balboa, Colon, Cristobal<br>

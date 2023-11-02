@@ -105,9 +105,9 @@ _elderly dependency ratio_: 21.4<br>
 _potential support ratio_: 4.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 39 years<br>
+_total_: 39 years (2020)<br>
 _male_: 38 years<br>
-_female_: 40 years (2020 est.)<br>
+_female_: 40 years<br>
 
 **Population growth rate**<br>
 0.11% (2023 est.)<br>
@@ -145,14 +145,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.16 deaths/1,000 live births<br>
+_total_: 7.16 deaths/1,000 live births (2023 est.)<br>
 _male_: 8.09 deaths/1,000 live births<br>
-_female_: 6.17 deaths/1,000 live births (2023 est.)<br>
+_female_: 6.17 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.09 years<br>
+_total population_: 77.09 years (2023 est.)<br>
 _male_: 74.99 years<br>
-_female_: 79.32 years (2023 est.)<br>
+_female_: 79.32 years<br>
 
 **Total fertility rate**<br>
 1.52 children born/woman (2023 est.)<br>
@@ -223,9 +223,9 @@ _male_: 13 years<br>
 _female_: 14 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 34.1%<br>
+_total_: 34.1% (2021 est.)<br>
 _male_: 31.6%<br>
-_female_: 38.4% (2021 est.)<br>
+_female_: 38.4%<br>
 
 ## Environment
 
@@ -452,9 +452,9 @@ _services_: 54.5% (2017 est.)<br>
 17.26% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 34.1%<br>
+_total_: 34.1% (2021 est.)<br>
 _male_: 31.6%<br>
-_female_: 38.4% (2021 est.)<br>
+_female_: 38.4%<br>
 
 **Population below poverty line**<br>
 21.6% (2018 est.)<br>
@@ -663,7 +663,7 @@ Army of the Republic of North Macedonia (ARSM): the ARSM is a joint force with a
 1.2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,000 active-duty personnel (2022)<br>
+approximately 6,500 active-duty personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists mostly of Soviet-era equipment, although in recent years it has received small amounts of more modern equipment from countries such as Turkey and the US (2023)<br>

@@ -103,9 +103,9 @@ _elderly dependency ratio_: 15.3<br>
 _potential support ratio_: 6.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 33.7 years<br>
+_total_: 33.7 years (2020)<br>
 _male_: 33.1 years<br>
-_female_: 34.4 years (2020 est.)<br>
+_female_: 34.4 years<br>
 
 **Population growth rate**<br>
 0.64% (2023 est.)<br>
@@ -140,14 +140,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 21 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.88 deaths/1,000 live births<br>
+_total_: 6.88 deaths/1,000 live births (2023 est.)<br>
 _male_: 7.42 deaths/1,000 live births<br>
-_female_: 6.31 deaths/1,000 live births (2023 est.)<br>
+_female_: 6.31 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79 years<br>
+_total population_: 79 years (2023 est.)<br>
 _male_: 77.6 years<br>
-_female_: 80.46 years (2023 est.)<br>
+_female_: 80.46 years<br>
 
 **Total fertility rate**<br>
 1.71 children born/woman (2023 est.)<br>
@@ -223,9 +223,9 @@ _male_: 12 years<br>
 _female_: 11 years (2014)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.6%<br>
+_total_: 29.6% (2021 est.)<br>
 _male_: 30.8%<br>
-_female_: 26.7% (2021 est.)<br>
+_female_: 26.7%<br>
 
 ## Environment
 
@@ -454,9 +454,9 @@ _services_: NA<br>
 11.35% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.6%<br>
+_total_: 29.6% (2021 est.)<br>
 _male_: 30.8%<br>
-_female_: 26.7% (2021 est.)<br>
+_female_: 26.7%<br>
 
 **Population below poverty line**<br>
 27.4% (2011 est.)<br>
@@ -662,8 +662,8 @@ _narrow gauge_: 82 km (2017) 1.050-m gauge<br>
 _total_: 21,705 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 49<br>
-_by type_: bulk carrier 2, general cargo 32, oil tanker 1, other 14 (2022)<br>
+_total_: 49 (2022)<br>
+_by type_: bulk carrier 2, general cargo 32, oil tanker 1, other 14<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Beirut, Tripoli<br>

@@ -113,9 +113,9 @@ _elderly dependency ratio_: 5<br>
 _potential support ratio_: 20.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 15.9 years<br>
+_total_: 15.9 years (2020)<br>
 _male_: 15.4 years<br>
-_female_: 16.4 years (2020 est.)<br>
+_female_: 16.4 years<br>
 
 **Population growth rate**<br>
 3.34% (2023 est.)<br>
@@ -154,14 +154,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 222 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 57.2 deaths/1,000 live births<br>
+_total_: 57.2 deaths/1,000 live births (2023 est.)<br>
 _male_: 62.37 deaths/1,000 live births<br>
-_female_: 51.87 deaths/1,000 live births (2023 est.)<br>
+_female_: 51.87 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.51 years<br>
+_total population_: 62.51 years (2023 est.)<br>
 _male_: 60.44 years<br>
-_female_: 64.65 years (2023 est.)<br>
+_female_: 64.65 years<br>
 
 **Total fertility rate**<br>
 5.76 children born/woman (2023 est.)<br>
@@ -232,9 +232,9 @@ _male_: 82.6%<br>
 _female_: 62.4% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.5%<br>
+_total_: 18.5% (2021 est.)<br>
 _male_: 18.2%<br>
-_female_: 18.8% (2021 est.)<br>
+_female_: 18.8%<br>
 
 ## Environment
 
@@ -465,9 +465,9 @@ _industry and services_: 15% (2003 est.)<br>
 7.42% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.5%<br>
+_total_: 18.5% (2021 est.)<br>
 _male_: 18.2%<br>
-_female_: 18.8% (2021 est.)<br>
+_female_: 18.8%<br>
 
 **Population below poverty line**<br>
 32.3% (2018 est.)<br>
@@ -684,8 +684,8 @@ _unpaved_: 12,400 km (2018)<br>
 1,300 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 58<br>
-_by type_: general cargo 13, oil tanker 8, other 37 (2022)<br>
+_total_: 58 (2022)<br>
+_by type_: general cargo 13, oil tanker 8, other 37<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cabinda, Lobito, Luanda, Namibe<br>
@@ -733,10 +733,10 @@ has a national space strategy with a focus on capacity building, developing spac
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Angola-Democratic Republic of Congo (DRC): </em>DRC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: </em>none identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
+<p><em>Angola-Democratic Republic of Congo (DRC): </em>has had disputes over land and maritime borders with the DRC; maritime disputes have largely been about offshore oil claims<br><br><em>Angola-Namibia: </em>none identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,265 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023)<br>
+_refugees (country of origin)_: 23,278 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

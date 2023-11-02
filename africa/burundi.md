@@ -111,9 +111,9 @@ _elderly dependency ratio_: 4.8<br>
 _potential support ratio_: 20.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 17.7 years<br>
+_total_: 17.7 years (2020)<br>
 _male_: 17.4 years<br>
-_female_: 18 years (2020 est.)<br>
+_female_: 18 years<br>
 
 **Population growth rate**<br>
 3.59% (2023 est.)<br>
@@ -152,14 +152,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 494 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 36.75 deaths/1,000 live births<br>
+_total_: 36.75 deaths/1,000 live births (2023 est.)<br>
 _male_: 40.86 deaths/1,000 live births<br>
-_female_: 32.52 deaths/1,000 live births (2023 est.)<br>
+_female_: 32.52 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.77 years<br>
+_total population_: 67.77 years (2023 est.)<br>
 _male_: 65.65 years<br>
-_female_: 69.95 years (2023 est.)<br>
+_female_: 69.95 years<br>
 
 **Total fertility rate**<br>
 4.96 children born/woman (2023 est.)<br>
@@ -244,9 +244,9 @@ _male_: 11 years<br>
 _female_: 11 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.4%<br>
+_total_: 3.4% (2021 est.)<br>
 _male_: 4.6%<br>
-_female_: 2.5% (2021 est.)<br>
+_female_: 2.5%<br>
 
 ## Environment
 
@@ -466,9 +466,9 @@ _services_: 4.1% (2002 est.)<br>
 NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.4%<br>
+_total_: 3.4% (2021 est.)<br>
 _male_: 4.6%<br>
-_female_: 2.5% (2021 est.)<br>
+_female_: 2.5%<br>
 
 **Population below poverty line**<br>
 64.6% (2014 est.)<br>
@@ -698,7 +698,7 @@ the FDNB is responsible for defending Burundi’s territorial integrity and prot
 <p>cross-border conflicts persist among Tutsi, Hutu, other ethnic groups, associated political rebels, armed gangs, and various government forces in the Great Lakes region<em><br><br>Burundi-Rwanda: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 86,380 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 84,379 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 76,987 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1993 coup and fighting between government forces and rebel groups; violence since April 2015) (2023)<br>
 _stateless persons_: 767 (mid-year 2021)<br>
 

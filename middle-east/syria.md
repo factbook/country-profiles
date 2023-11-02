@@ -112,9 +112,9 @@ _elderly dependency ratio_: 7.4<br>
 _potential support ratio_: 13.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 23.5 years<br>
+_total_: 23.5 years (2020)<br>
 _male_: 23 years<br>
-_female_: 24 years (2020 est.)<br>
+_female_: 24 years<br>
 
 **Population growth rate**<br>
 6.39% (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 30 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.48 deaths/1,000 live births<br>
+_total_: 15.48 deaths/1,000 live births (2023 est.)<br>
 _male_: 17.06 deaths/1,000 live births<br>
-_female_: 13.8 deaths/1,000 live births (2023 est.)<br>
+_female_: 13.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.55 years<br>
+_total population_: 74.55 years (2023 est.)<br>
 _male_: 73.09 years<br>
-_female_: 76.1 years (2023 est.)<br>
+_female_: 76.1 years<br>
 
 **Total fertility rate**<br>
 2.74 children born/woman (2023 est.)<br>
@@ -224,9 +224,9 @@ _male_: 9 years<br>
 _female_: 9 years (2013)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.2%<br>
+_total_: 26.2% (2021 est.)<br>
 _male_: 21.6%<br>
-_female_: 51.1% (2021 est.)<br>
+_female_: 51.1%<br>
 
 ## Environment
 
@@ -441,9 +441,9 @@ _services_: 67% (2008 est.)<br>
 8.77% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.2%<br>
+_total_: 26.2% (2021 est.)<br>
 _male_: 21.6%<br>
-_female_: 51.1% (2021 est.)<br>
+_female_: 51.1%<br>
 
 **Population below poverty line**<br>
 82.5% (2014 est.)<br>
@@ -645,8 +645,8 @@ _unpaved_: 6,813 km (2010)<br>
 900 km (2011) (navigable but not economically significant)<br>
 
 **Merchant marine**<br>
-_total_: 22<br>
-_by type_: bulk carrier 1, general cargo 8, other 13 (2022)<br>
+_total_: 22 (2022)<br>
+_by type_: bulk carrier 1, general cargo 8, other 13<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Baniyas, Latakia, Tartus<br>

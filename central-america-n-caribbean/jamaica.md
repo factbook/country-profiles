@@ -103,9 +103,9 @@ _elderly dependency ratio_: 13.4<br>
 _potential support ratio_: 7.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.4 years<br>
+_total_: 29.4 years (2020)<br>
 _male_: 28.6 years<br>
-_female_: 30.1 years (2020 est.)<br>
+_female_: 30.1 years<br>
 
 **Population growth rate**<br>
 0.09% (2023 est.)<br>
@@ -144,14 +144,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 99 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.92 deaths/1,000 live births<br>
+_total_: 10.92 deaths/1,000 live births (2023 est.)<br>
 _male_: 12.15 deaths/1,000 live births<br>
-_female_: 9.62 deaths/1,000 live births (2023 est.)<br>
+_female_: 9.62 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.01 years<br>
+_total population_: 76.01 years (2023 est.)<br>
 _male_: 74.25 years<br>
-_female_: 77.85 years (2023 est.)<br>
+_female_: 77.85 years<br>
 
 **Total fertility rate**<br>
 2.05 children born/woman (2023 est.)<br>
@@ -223,9 +223,9 @@ _male_: 11 years<br>
 _female_: 13 years (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.1%<br>
+_total_: 26.1% (2021 est.)<br>
 _male_: 22.1%<br>
-_female_: 31.4% (2021 est.)<br>
+_female_: 31.4%<br>
 
 ## Environment
 
@@ -444,9 +444,9 @@ _services_: 67.9% (2017)<br>
 7.69% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.1%<br>
+_total_: 26.1% (2021 est.)<br>
 _male_: 22.1%<br>
-_female_: 31.4% (2021 est.)<br>
+_female_: 31.4%<br>
 
 **Population below poverty line**<br>
 17.1% (2016 est.)<br>
@@ -635,8 +635,8 @@ _paved_: 16,148 km (2011)<br>
 _unpaved_: 5,973 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 36<br>
-_by type_: bulk carrier 1, general cargo 9, oil tanker 1, other 25 (2022)<br>
+_total_: 36 (2022)<br>
+_by type_: bulk carrier 1, general cargo 9, oil tanker 1, other 25<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port Antonio, Port Esquivel, Port Kaiser, Rocky Point<br>

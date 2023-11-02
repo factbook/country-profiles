@@ -106,9 +106,9 @@ _elderly dependency ratio_: 17.3<br>
 _potential support ratio_: 5.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 36.3 years<br>
+_total_: 36.3 years (2020)<br>
 _male_: 35 years<br>
-_female_: 37.6 years (2020 est.)<br>
+_female_: 37.6 years<br>
 
 **Population growth rate**<br>
 0.09% (2023 est.)<br>
@@ -143,14 +143,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 84 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.84 deaths/1,000 live births<br>
+_total_: 11.84 deaths/1,000 live births (2023 est.)<br>
 _male_: 13.35 deaths/1,000 live births<br>
-_female_: 10.23 deaths/1,000 live births (2023 est.)<br>
+_female_: 10.23 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.13 years<br>
+_total population_: 75.13 years (2023 est.)<br>
 _male_: 72.32 years<br>
-_female_: 78.13 years (2023 est.)<br>
+_female_: 78.13 years<br>
 
 **Total fertility rate**<br>
 1.35 children born/woman (2023 est.)<br>
@@ -222,9 +222,9 @@ _male_: 14 years<br>
 _female_: 16 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.3%<br>
+_total_: 25.3% (2021 est.)<br>
 _male_: 19.7%<br>
-_female_: 32.9% (2021 est.)<br>
+_female_: 32.9%<br>
 
 ## Environment
 
@@ -443,9 +443,9 @@ _services_: 62.2% (2014 est.)<br>
 6.33% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.3%<br>
+_total_: 25.3% (2021 est.)<br>
 _male_: 19.7%<br>
-_female_: 32.9% (2021 est.)<br>
+_female_: 32.9%<br>
 
 **Population below poverty line**<br>
 10.3% (2017 est.)<br>
@@ -639,8 +639,8 @@ _paved_: 2,379 km (2015) (includes 99 km of expressways)<br>
 _unpaved_: 49 km (2015)<br>
 
 **Merchant marine**<br>
-_total_: 31<br>
-_by type_: general cargo 1, oil tanker 5, other 25 (2022)<br>
+_total_: 31 (2022)<br>
+_by type_: general cargo 1, oil tanker 5, other 25<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Port Louis<br>

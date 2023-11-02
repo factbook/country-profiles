@@ -116,9 +116,9 @@ _elderly dependency ratio_: 8.5<br>
 _potential support ratio_: 11.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 26.4 years<br>
+_total_: 26.4 years (2020)<br>
 _male_: 25.6 years<br>
-_female_: 27.2 years (2020 est.)<br>
+_female_: 27.2 years<br>
 
 **Population growth rate**<br>
 1.04% (2023 est.)<br>
@@ -157,14 +157,14 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 218 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 28.75 deaths/1,000 live births<br>
+_total_: 28.75 deaths/1,000 live births (2023 est.)<br>
 _male_: 32.22 deaths/1,000 live births<br>
-_female_: 25.12 deaths/1,000 live births (2023 est.)<br>
+_female_: 25.12 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.03 years<br>
+_total population_: 71.03 years (2023 est.)<br>
 _male_: 69.17 years<br>
-_female_: 72.97 years (2023 est.)<br>
+_female_: 72.97 years<br>
 
 **Total fertility rate**<br>
 2.2 children born/woman (2023 est.)<br>
@@ -237,9 +237,9 @@ _male_: 88.4%<br>
 _female_: 79.8% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.8%<br>
+_total_: 1.8% (2021 est.)<br>
 _male_: 1.6%<br>
-_female_: 2.1% (2021 est.)<br>
+_female_: 2.1%<br>
 
 ## Environment
 
@@ -470,9 +470,9 @@ _services_: 31.5% (2013 est.)<br>
 <strong>note:</strong> high underemployment, according to official statistics<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.8%<br>
+_total_: 1.8% (2021 est.)<br>
 _male_: 1.6%<br>
-_female_: 2.1% (2021 est.)<br>
+_female_: 2.1%<br>
 
 **Population below poverty line**<br>
 16.5% (2016 est.)<br>
@@ -683,8 +683,8 @@ _unpaved_: 35,024 km (2013)<br>
 3,700 km (2012) (mainly on Mekong River)<br>
 
 **Merchant marine**<br>
-_total_: 242<br>
-_by type_: container ship 2, general cargo 159, oil tanker 18, other 63 (2022)<br>
+_total_: 242 (2022)<br>
+_by type_: container ship 2, general cargo 159, oil tanker 18, other 63<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Sihanoukville (Kampong Saom)<br>

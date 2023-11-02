@@ -103,9 +103,9 @@ _elderly dependency ratio_: 14.4<br>
 _potential support ratio_: 7 (2020 est.)<br>
 
 **Median age**<br>
-_total_: 32.7 years<br>
+_total_: 32.7 years (2020)<br>
 _male_: 30.7 years<br>
-_female_: 34.4 years (2020 est.)<br>
+_female_: 34.4 years<br>
 
 **Population growth rate**<br>
 1.13% (2023 est.)<br>
@@ -140,14 +140,14 @@ _total population_: 0.89 male(s)/female (2023 est.)<br>
 21 deaths/100,000 live births (2020)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.95 deaths/1,000 live births<br>
+_total_: 13.95 deaths/1,000 live births (2023 est.)<br>
 _male_: 16.84 deaths/1,000 live births<br>
-_female_: 10.91 deaths/1,000 live births (2023 est.)<br>
+_female_: 10.91 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.04 years<br>
+_total population_: 78.04 years (2023 est.)<br>
 _male_: 75.88 years<br>
-_female_: 80.31 years (2023 est.)<br>
+_female_: 80.31 years<br>
 
 **Total fertility rate**<br>
 1.94 children born/woman (2023 est.)<br>
@@ -597,8 +597,8 @@ _paved_: 386 km (2011)<br>
 _unpaved_: 784 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 638<br>
-_by type_: bulk carrier 26, container ship 112, general cargo 443, oil tanker 4, other 53 (2022)<br>
+_total_: 638 (2022)<br>
+_by type_: bulk carrier 26, container ship 112, general cargo 443, oil tanker 4, other 53<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Saint John's<br>

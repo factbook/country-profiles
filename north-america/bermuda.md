@@ -100,9 +100,9 @@ _elderly dependency ratio_: 30.1<br>
 _potential support ratio_: 3.3 (2021)<br>
 
 **Median age**<br>
-_total_: 43.6 years<br>
+_total_: 43.6 years (2020)<br>
 _male_: 41.6 years<br>
-_female_: 45.7 years (2020 est.)<br>
+_female_: 45.7 years<br>
 
 **Population growth rate**<br>
 0.32% (2023 est.)<br>
@@ -134,14 +134,14 @@ _65 years and over_: 0.74 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.17 deaths/1,000 live births<br>
+_total_: 2.17 deaths/1,000 live births (2023 est.)<br>
 _male_: 2.48 deaths/1,000 live births<br>
-_female_: 1.84 deaths/1,000 live births (2023 est.)<br>
+_female_: 1.84 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.25 years<br>
+_total population_: 82.25 years (2023 est.)<br>
 _male_: 79.18 years<br>
-_female_: 85.47 years (2023 est.)<br>
+_female_: 85.47 years<br>
 
 **Total fertility rate**<br>
 1.89 children born/woman (2023 est.)<br>
@@ -194,9 +194,9 @@ _male_: 12 years<br>
 _female_: 13 years (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.3%<br>
+_total_: 29.3% (2014 est.)<br>
 _male_: 29.7%<br>
-_female_: 29% (2014 est.)<br>
+_female_: 29%<br>
 
 ## Environment
 
@@ -393,9 +393,9 @@ _services_: 85% (2016 est.)<br>
 7% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.3%<br>
+_total_: 29.3% (2014 est.)<br>
 _male_: 29.7%<br>
-_female_: 29% (2014 est.)<br>
+_female_: 29%<br>
 
 **Population below poverty line**<br>
 11% (2008 est.)<br>
@@ -568,8 +568,8 @@ _paved_: 447 km (2010)<br>
 <strong>note:</strong> 225 km public roads; 222 km private roads<br>
 
 **Merchant marine**<br>
-_total_: 135<br>
-_by type_: container ship 14, oil tanker 15, other 106 (2022)<br>
+_total_: 135 (2022)<br>
+_by type_: container ship 14, oil tanker 15, other 106<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Hamilton, Ireland Island, Saint George<br>

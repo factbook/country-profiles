@@ -104,7 +104,7 @@ Portuguese (official and most widely spoken language); note - less common langua
 _major-language sample(s)_: <br>O Livro de Fatos Mundiais, a fonte indispensável para informação básica. (Brazilian Portuguese)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 64.6%, other Catholic 0.4%, Protestant 22.2% (includes Adventist 6.5%, Assembly of God 2.0%, Christian Congregation of Brazil 1.2%, Universal Kingdom of God 1.0%, other Protestant 11.5%), other Christian 0.7%, Spiritist 2.2%, other 1.4%, none 8%, unspecified 0.4% (2010 est.)<br>
+Roman Catholic 50%, Evangelical 31%, Spiritist 3%, Umbanda, Candomble, or other Afro-Brazilian religions 2%, Jewish 0.3%, atheist 1%, other 2%, none 10% (2020 est.)<br>
 
 **Demographic profile**<br>
 <p>Brazil’s rapid fertility decline since the 1960s is the main factor behind the country's slowing population growth rate, aging population, and fast-paced demographic transition.  As of 2023, Brazil’s total fertility rate – the average number of children born per woman – was 1.75, below the 2.1 replacement rate needed to prevent a population decrease.   The 2022 national census showed that population growth had slowed more than expected.  Factors behind the decrease include fewer births as couples marry later and more women work, an increase in the mortality rate as the population ages, the Zika epidemic, the COVID-19 pandemic, as well as economic troubles and the emigration of young people. The current window of opportunity to benefit from a demographic bonus – when the working-age population exceeds the number of children and the elderly combined – is expected to close around 2035, ten years earlier than expected. </p> <p>Well-funded public pensions have nearly wiped out poverty among the elderly, and Bolsa Familia and other social programs have lifted tens of millions out of poverty. More than half of Brazil’s population is considered middle class, but poverty and income inequality levels remain high; the Northeast, North, and Center-West, women, and black, mixed race, and indigenous populations are disproportionately affected. Disparities in opportunities foster social exclusion and contribute to Brazil’s high crime rate, particularly violent crime in cities and favelas.</p> <p>Brazil has traditionally been a net recipient of immigrants, with its southeast being the prime destination. After abolishing slavery in 1888, the last country in the Americas to do so, Brazil sought Europeans (Italians, Portuguese, Spaniards, and Germans) and later Asians (Japanese) to work in agriculture, especially coffee cultivation.  Lebanese and Syrian immigrants arrived at the end of the 19th century and focused on trade and later commerce. Between 2011 and 2020, the largest immigrant groups came from Venezuela, Haiti, Bolivia, Colombia, and the US. Since Brazil’s economic downturn in the 1980s, emigration to the United States, Paraguay, Europe, and Japan has been rising but is negligible relative to Brazil’s total population. The majority of these emigrants are well-educated and middle-class. Fewer Brazilian peasants are emigrating to neighboring countries to take up agricultural work. </p><br>
@@ -121,9 +121,9 @@ _elderly dependency ratio_: 13.7<br>
 _potential support ratio_: 7.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 33.2 years<br>
+_total_: 33.2 years (2020)<br>
 _male_: 32.3 years<br>
-_female_: 34.1 years (2020 est.)<br>
+_female_: 34.1 years<br>
 
 **Population growth rate**<br>
 0.64% (2023 est.)<br>
@@ -158,14 +158,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 72 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.11 deaths/1,000 live births<br>
+_total_: 13.11 deaths/1,000 live births (2023 est.)<br>
 _male_: 14.68 deaths/1,000 live births<br>
-_female_: 11.45 deaths/1,000 live births (2023 est.)<br>
+_female_: 11.45 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.1 years<br>
+_total population_: 76.1 years (2023 est.)<br>
 _male_: 72.56 years<br>
-_female_: 79.81 years (2023 est.)<br>
+_female_: 79.81 years<br>
 
 **Total fertility rate**<br>
 1.75 children born/woman (2023 est.)<br>
@@ -243,9 +243,9 @@ _male_: 15 years<br>
 _female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 31.9%<br>
+_total_: 31.9% (2021 est.)<br>
 _male_: 27%<br>
-_female_: 38.2% (2021 est.)<br>
+_female_: 38.2%<br>
 
 ## Environment
 
@@ -484,9 +484,9 @@ _services_: 58.5% (2017 est.)<br>
 11.93% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 31.9%<br>
+_total_: 31.9% (2021 est.)<br>
 _male_: 27%<br>
-_female_: 38.2% (2021 est.)<br>
+_female_: 38.2%<br>
 
 **Population below poverty line**<br>
 4.2% (2016 est.)<br>
@@ -714,8 +714,8 @@ _unpaved_: 1.754 million km (2018)<br>
 50,000 km (2012) (most in areas remote from industry and population)<br>
 
 **Merchant marine**<br>
-_total_: 877<br>
-_by type_: bulk carrier 11, container ship 20, general cargo 40, oil tanker 27, other 779 (2022)<br>
+_total_: 877 (2022)<br>
+_by type_: bulk carrier 11, container ship 20, general cargo 40, oil tanker 27, other 779<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Belem, Itajai, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao Sebastiao, Tubarao<br>

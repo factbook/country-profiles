@@ -113,9 +113,9 @@ _elderly dependency ratio_: 10.7<br>
 _potential support ratio_: 9.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.7 years<br>
+_total_: 31.7 years (2020)<br>
 _male_: 31.5 years<br>
-_female_: 32 years (2020 est.)<br>
+_female_: 32 years<br>
 
 **Population growth rate**<br>
 0.93% (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 1.03 male(s)/female (2023 est.)<br>
 22 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.58 deaths/1,000 live births<br>
+_total_: 14.58 deaths/1,000 live births (2023 est.)<br>
 _male_: 15.7 deaths/1,000 live births<br>
-_female_: 13.4 deaths/1,000 live births (2023 est.)<br>
+_female_: 13.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.44 years<br>
+_total population_: 75.44 years (2023 est.)<br>
 _male_: 74.07 years<br>
-_female_: 76.87 years (2023 est.)<br>
+_female_: 76.87 years<br>
 
 **Total fertility rate**<br>
 1.92 children born/woman (2023 est.)<br>
@@ -234,9 +234,9 @@ _male_: 15 years<br>
 _female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.2%<br>
+_total_: 27.2% (2021 est.)<br>
 _male_: 24%<br>
-_female_: 41.7% (2021 est.)<br>
+_female_: 41.7%<br>
 
 ## Environment
 
@@ -456,9 +456,9 @@ _services_: 48.6% (2013 est.)<br>
 <strong>note:</strong> data are Iranian Government numbers<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.2%<br>
+_total_: 27.2% (2021 est.)<br>
 _male_: 24%<br>
-_female_: 41.7% (2021 est.)<br>
+_female_: 41.7%<br>
 
 **Population below poverty line**<br>
 18.7% (2007 est.)<br>
@@ -676,8 +676,8 @@ _unpaved_: 28,000 km (2018)<br>
 850 km (2012) (on Karun River; some navigation on Lake Urmia)<br>
 
 **Merchant marine**<br>
-_total_: 942<br>
-_by type_: bulk carrier 32, container ship 31, general cargo 393, oil tanker 83, other 403 (2022)<br>
+_total_: 942 (2022)<br>
+_by type_: bulk carrier 32, container ship 31, general cargo 393, oil tanker 83, other 403<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bandar-e Asaluyeh, Bandar Abbas, Bandar-e Emam Khomeyni<br>

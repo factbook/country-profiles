@@ -109,9 +109,9 @@ _elderly dependency ratio_: 13.3<br>
 _potential support ratio_: 7.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 32.7 years<br>
+_total_: 32.7 years (2020)<br>
 _male_: 32 years<br>
-_female_: 33.3 years (2020 est.)<br>
+_female_: 33.3 years<br>
 
 **Population growth rate**<br>
 0.63% (2023 est.)<br>
@@ -146,14 +146,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 37 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.57 deaths/1,000 live births<br>
+_total_: 11.57 deaths/1,000 live births (2023 est.)<br>
 _male_: 12.99 deaths/1,000 live births<br>
-_female_: 10.07 deaths/1,000 live births (2023 est.)<br>
+_female_: 10.07 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.07 years<br>
+_total population_: 77.07 years (2023 est.)<br>
 _male_: 75.4 years<br>
-_female_: 78.84 years (2023 est.)<br>
+_female_: 78.84 years<br>
 
 **Total fertility rate**<br>
 1.96 children born/woman (2023 est.)<br>
@@ -228,9 +228,9 @@ _male_: 14 years<br>
 _female_: 16 years (2016)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.3%<br>
+_total_: 38.3% (2021 est.)<br>
 _male_: 37.1%<br>
-_female_: 41.2% (2021 est.)<br>
+_female_: 41.2%<br>
 
 ## Environment
 
@@ -457,9 +457,9 @@ _services_: 51.7% (2014 est.)<br>
 15.13% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.3%<br>
+_total_: 38.3% (2021 est.)<br>
 _male_: 37.1%<br>
-_female_: 41.2% (2021 est.)<br>
+_female_: 41.2%<br>
 
 **Population below poverty line**<br>
 15.2% (2015 est.)<br>
@@ -664,8 +664,8 @@ _dual gauge_: 8 km (2014) 1.435-1.000-m gauge<br>
 _paved_: 20,000 km (2015)<br>
 
 **Merchant marine**<br>
-_total_: 70<br>
-_by type_: container ship 1, general cargo 8, oil tanker 1, other 60 (2022)<br>
+_total_: 70 (2022)<br>
+_by type_: container ship 1, general cargo 8, oil tanker 1, other 60<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bizerte, Gabes, Rades, Sfax, Skhira<br>

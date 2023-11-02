@@ -111,9 +111,9 @@ _elderly dependency ratio_: 28.7<br>
 _potential support ratio_: 3.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.7 years<br>
+_total_: 42.7 years (2020)<br>
 _male_: 41.7 years<br>
-_female_: 43.7 years (2020 est.)<br>
+_female_: 43.7 years<br>
 
 **Population growth rate**<br>
 0.64% (2023 est.)<br>
@@ -151,14 +151,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 7 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.51 deaths/1,000 live births<br>
+_total_: 3.51 deaths/1,000 live births (2023 est.)<br>
 _male_: 4 deaths/1,000 live births<br>
-_female_: 2.99 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.99 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.42 years<br>
+_total population_: 83.42 years (2023 est.)<br>
 _male_: 81.12 years<br>
-_female_: 85.86 years (2023 est.)<br>
+_female_: 85.86 years<br>
 
 **Total fertility rate**<br>
 1.58 children born/woman (2023 est.)<br>
@@ -229,9 +229,9 @@ _male_: 17 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.1%<br>
+_total_: 9.1% (2021 est.)<br>
 _male_: 9.4%<br>
-_female_: 8.8% (2021 est.)<br>
+_female_: 8.8%<br>
 
 ## Environment
 
@@ -467,9 +467,9 @@ _services_: 76.9% (2015)<br>
 4.39% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.1%<br>
+_total_: 9.1% (2021 est.)<br>
 _male_: 9.4%<br>
-_female_: 8.8% (2021 est.)<br>
+_female_: 8.8%<br>
 
 **Population below poverty line**<br>
 16% (2018 est.)<br>
@@ -687,8 +687,8 @@ _paved_: 71,557 km (2017) (includes 1,458 of expressways)<br>
 1,292 km (2010) (there are 1,227 km of waterways on lakes and rivers for public transport and 65 km on the Rhine River between Basel-Rheinfelden and Schaffhausen-Bodensee for commercial goods transport)<br>
 
 **Merchant marine**<br>
-_total_: 20<br>
-_by type_: bulk carrier 16, general cargo 1, other 3 (includes Liechtenstein) (2022)<br>
+_total_: 20 (2022)<br>
+_by type_: bulk carrier 16, general cargo 1, other 3 (includes Liechtenstein)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Basel (Rhine)<br>

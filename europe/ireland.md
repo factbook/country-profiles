@@ -81,13 +81,13 @@ _noun_: Irishman(men), Irishwoman(women), Irish (collective plural)<br>
 _adjective_: Irish<br>
 
 **Ethnic groups**<br>
-Irish 82.2%, Irish travelers 0.7%, other White 9.5%, Asian 2.1%, Black 1.4%, other 1.5%, unspecified 2.6% (2016 est.)<br>
+Irish 76.6%, Irish travelers 0.6%, other White 9.9%, Asian 3.3%, Black 1.5%, other (includes Arab, Roma, and persons of mixed backgrounds) 2%, unspecified 2.6% (2022 est.)<br>
 
 **Languages**<br>
 English (official, the language generally used), Irish (Gaelic or Gaeilge) (official, spoken by approximately 39.8% of the population as of 2016; mainly spoken in areas along Ireland's western coast known as gaeltachtai, which are officially recognized regions where Irish is the predominant language)<br>
 
 **Religions**<br>
-Roman Catholic 78.3%, Church of Ireland 2.7%, other Christian 1.6%, Orthodox 1.3%, Muslim 1.3%, other 2.4%, none 9.8%, unspecified 2.6% (2016 est.)<br>
+Roman Catholic 68.3%, Protestant 3.8% (Church of Ireland/Church of England/Anglican/Episcopalian 2.4%, other Protestant 1.4%), Orthodox 2%, other Christian 0.9%, Muslim 1.4%, other 1.6%, none 15.4%, unspecified 6.6% (2022 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 20.39% (male 556,057/female 529,454)<br>
@@ -101,9 +101,9 @@ _elderly dependency ratio_: 22.7<br>
 _potential support ratio_: 4.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 37.8 years<br>
+_total_: 37.8 years (2020)<br>
 _male_: 37.4 years<br>
-_female_: 38.2 years (2020 est.)<br>
+_female_: 38.2 years<br>
 
 **Population growth rate**<br>
 0.91% (2023 est.)<br>
@@ -141,14 +141,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.41 deaths/1,000 live births<br>
+_total_: 3.41 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.84 deaths/1,000 live births<br>
-_female_: 2.96 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.96 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.87 years<br>
+_total population_: 81.87 years (2023 est.)<br>
 _male_: 79.57 years<br>
-_female_: 84.3 years (2023 est.)<br>
+_female_: 84.3 years<br>
 
 **Total fertility rate**<br>
 1.91 children born/woman (2023 est.)<br>
@@ -219,9 +219,9 @@ _male_: 18 years<br>
 _female_: 19 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.4%<br>
+_total_: 17.4% (2021 est.)<br>
 _male_: 16.1%<br>
-_female_: 18.8% (2021 est.)<br>
+_female_: 18.8%<br>
 
 ## Environment
 
@@ -445,9 +445,9 @@ _services_: 84% (2015 est.)<br>
 4.95% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.4%<br>
+_total_: 17.4% (2021 est.)<br>
 _male_: 16.1%<br>
-_female_: 18.8% (2021 est.)<br>
+_female_: 18.8%<br>
 
 **Population below poverty line**<br>
 13.1% (2018 est.)<br>
@@ -652,8 +652,8 @@ _paved_: 99,830 km (2018) (includes 2,717 km of expressways)<br>
 956 km (2010) (pleasure craft only)<br>
 
 **Merchant marine**<br>
-_total_: 96<br>
-_by type_: bulk carrier 12, general cargo 34, oil tanker 1, other 49 (2022)<br>
+_total_: 96 (2022)<br>
+_by type_: bulk carrier 12, general cargo 34, oil tanker 1, other 49<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dublin, Shannon Foynes<br>
@@ -702,7 +702,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 95,905 (Ukraine) (as of 1 October 2023)<br>
+_refugees (country of origin)_: 97,505 (Ukraine) (as of 15 October 2023)<br>
 _stateless persons_: 7 (2022)<br>
 
 **Illicit drugs**<br>

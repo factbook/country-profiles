@@ -105,9 +105,9 @@ _elderly dependency ratio_: 32.3<br>
 _potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 43.7 years<br>
+_total_: 43.7 years (2020)<br>
 _male_: 40.4 years<br>
-_female_: 47 years (2020 est.)<br>
+_female_: 47 years<br>
 
 **Population growth rate**<br>
 -0.74% (2023 est.)<br>
@@ -145,14 +145,14 @@ _total population_: 0.89 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.38 deaths/1,000 live births<br>
+_total_: 3.38 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.26 deaths/1,000 live births<br>
-_female_: 3.5 deaths/1,000 live births (2023 est.)<br>
+_female_: 3.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.12 years<br>
+_total population_: 78.12 years (2023 est.)<br>
 _male_: 73.52 years<br>
-_female_: 82.94 years (2023 est.)<br>
+_female_: 82.94 years<br>
 
 **Total fertility rate**<br>
 1.62 children born/woman (2023 est.)<br>
@@ -228,9 +228,9 @@ _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.1%<br>
+_total_: 17.1% (2021 est.)<br>
 _male_: 16.5%<br>
-_female_: 17.8% (2021 est.)<br>
+_female_: 17.8%<br>
 
 ## Environment
 
@@ -457,9 +457,9 @@ _services_: 76.8% (2017 est.)<br>
 4.45% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.1%<br>
+_total_: 17.1% (2021 est.)<br>
 _male_: 16.5%<br>
-_female_: 17.8% (2021 est.)<br>
+_female_: 17.8%<br>
 
 **Population below poverty line**<br>
 21.7% (2018 est.)<br>
@@ -667,8 +667,8 @@ _unpaved_: 47,985 km (2011)<br>
 335 km (2011) (320 km are navigable year-round)<br>
 
 **Merchant marine**<br>
-_total_: 70<br>
-_by type_: general cargo 2, oil tanker 3, other 65 (2022)<br>
+_total_: 70 (2022)<br>
+_by type_: general cargo 2, oil tanker 3, other 65<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn<br>

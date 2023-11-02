@@ -112,9 +112,9 @@ _elderly dependency ratio_: 29.4<br>
 _potential support ratio_: 3.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 44.5 years<br>
+_total_: 44.5 years (2020)<br>
 _male_: 43.1 years<br>
-_female_: 45.8 years (2020 est.)<br>
+_female_: 45.8 years<br>
 
 **Population growth rate**<br>
 0.31% (2023 est.)<br>
@@ -152,14 +152,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.2 deaths/1,000 live births<br>
+_total_: 3.2 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.6 deaths/1,000 live births<br>
-_female_: 2.77 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.77 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.48 years<br>
+_total population_: 82.48 years (2023 est.)<br>
 _male_: 79.86 years<br>
-_female_: 85.23 years (2023 est.)<br>
+_female_: 85.23 years<br>
 
 **Total fertility rate**<br>
 1.51 children born/woman (2023 est.)<br>
@@ -231,9 +231,9 @@ _male_: 16 years<br>
 _female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.4%<br>
+_total_: 11.4% (2021 est.)<br>
 _male_: 11.5%<br>
-_female_: 11.3% (2021 est.)<br>
+_female_: 11.3%<br>
 
 ## Environment
 
@@ -466,9 +466,9 @@ _services_: 74.1% (2017 est.)<br>
 4.49% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.4%<br>
+_total_: 11.4% (2021 est.)<br>
 _male_: 11.5%<br>
-_female_: 11.3% (2021 est.)<br>
+_female_: 11.3%<br>
 
 **Population below poverty line**<br>
 13.3% (2018 est.)<br>
@@ -684,8 +684,8 @@ _paved_: 137,039 km (2018) (includes 2,232 km of expressways)<br>
 358 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 1<br>
-_by type_: other 1 (2022)<br>
+_total_: 1 (2022)<br>
+_by type_: other 1<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Enns, Krems, Linz, Vienna (Danube)<br>

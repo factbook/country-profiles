@@ -116,9 +116,9 @@ _elderly dependency ratio_: 4.9<br>
 _potential support ratio_: 20.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 16 years<br>
+_total_: 16 years (2020)<br>
 _male_: 15.3 years<br>
-_female_: 16.7 years (2020 est.)<br>
+_female_: 16.7 years<br>
 
 **Population growth rate**<br>
 2.93% (2023 est.)<br>
@@ -157,14 +157,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 440 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 58.99 deaths/1,000 live births<br>
+_total_: 58.99 deaths/1,000 live births (2023 est.)<br>
 _male_: 64.31 deaths/1,000 live births<br>
-_female_: 53.5 deaths/1,000 live births (2023 est.)<br>
+_female_: 53.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.81 years<br>
+_total population_: 62.81 years (2023 est.)<br>
 _male_: 60.56 years<br>
-_female_: 65.13 years (2023 est.)<br>
+_female_: 65.13 years<br>
 
 **Total fertility rate**<br>
 5.45 children born/woman (2023 est.)<br>
@@ -226,7 +226,7 @@ _male_: 15.6% (2020 est.)<br>
 _female_: 1% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-18.1% (2019)<br>
+18.5% (2022)<br>
 
 **Currently married women (ages 15-49)**<br>
 77.9% (2023 est.)<br>
@@ -251,9 +251,9 @@ _male_: 8 years<br>
 _female_: 7 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.3%<br>
+_total_: 17.3% (2021 est.)<br>
 _male_: 15.4%<br>
-_female_: 19.8% (2021 est.)<br>
+_female_: 19.8%<br>
 
 ## Environment
 
@@ -486,9 +486,9 @@ _industry and services_: 20% (2005 est.)<br>
 7.44% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.3%<br>
+_total_: 17.3% (2021 est.)<br>
 _male_: 15.4%<br>
-_female_: 19.8% (2021 est.)<br>
+_female_: 19.8%<br>
 
 **Population below poverty line**<br>
 42.1% (2019 est.)<br>
@@ -728,7 +728,7 @@ Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 <p><em>Mali-Burkina Faso</em>: demarcation is underway with Burkina Faso</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 28,820 (Burkina Faso) (refugees and asylum seekers), 19,712 (Niger) (refugees and asylum seekers), 14,955 (Mauritania) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 29,138 (Burkina Faso) (refugees and asylum seekers), 20,617 (Niger) (refugees and asylum seekers), 14,956 (Mauritania) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 375,539 (Tuareg rebellion since 2012) (2023)<br>
 
 **Illicit drugs**<br>

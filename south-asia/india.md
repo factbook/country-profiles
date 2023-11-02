@@ -116,9 +116,9 @@ _elderly dependency ratio_: 10.1<br>
 _potential support ratio_: 9.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 28.7 years<br>
+_total_: 28.7 years (2020)<br>
 _male_: 28 years<br>
-_female_: 29.5 years (2020 est.)<br>
+_female_: 29.5 years<br>
 
 **Population growth rate**<br>
 0.7% (2023 est.)<br>
@@ -157,14 +157,14 @@ _total population_: 1.06 male(s)/female (2023 est.)<br>
 103 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 30.36 deaths/1,000 live births<br>
+_total_: 30.36 deaths/1,000 live births (2023 est.)<br>
 _male_: 29.99 deaths/1,000 live births<br>
-_female_: 30.77 deaths/1,000 live births (2023 est.)<br>
+_female_: 30.77 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.69 years<br>
+_total population_: 67.69 years (2023 est.)<br>
 _male_: 65.95 years<br>
-_female_: 69.61 years (2023 est.)<br>
+_female_: 69.61 years<br>
 
 **Total fertility rate**<br>
 2.07 children born/woman (2023 est.)<br>
@@ -223,15 +223,15 @@ _male_: 41.3% (2020 est.)<br>
 _female_: 13% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-33.4% (2016/18)<br>
+31.5% (2019/21)<br>
 
 **Currently married women (ages 15-49)**<br>
 72.6% (2023 est.)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 6.8%<br>
-_women married by age 18_: 27.3%<br>
-_men married by age 18_: 4.2% (2016 est.)<br>
+_women married by age 15_: 4.8%<br>
+_women married by age 18_: 23.3%<br>
+_men married by age 18_: 2.6% (2021 est.)<br>
 
 **Education expenditures**<br>
 4.5% of GDP (2020 est.)<br>
@@ -248,9 +248,9 @@ _male_: 12 years<br>
 _female_: 12 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.3%<br>
+_total_: 28.3% (2021 est.)<br>
 _male_: 28.6%<br>
-_female_: 26.7% (2021 est.)<br>
+_female_: 26.7%<br>
 
 ## Environment
 
@@ -490,9 +490,9 @@ _services_: 31% (FY 2014 est.)<br>
 5.27% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.3%<br>
+_total_: 28.3% (2021 est.)<br>
 _male_: 28.6%<br>
-_female_: 26.7% (2021 est.)<br>
+_female_: 26.7%<br>
 
 **Population below poverty line**<br>
 21.9% (2011 est.)<br>
@@ -717,8 +717,8 @@ _total_: 6,371,847 km (2021) note: includes 140,995 km of national highways and 
 14,500 km (2012) (5,200 km on major rivers and 485 km on canals suitable for mechanized vessels)<br>
 
 **Merchant marine**<br>
-_total_: 1,810<br>
-_by type_: bulk carrier 65, container ship 23, general cargo 594, oil tanker 134, other 994 (2022)<br>
+_total_: 1,810 (2022)<br>
+_by type_: bulk carrier 65, container ship 23, general cargo 594, oil tanker 134, other 994<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam<br>

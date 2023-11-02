@@ -113,9 +113,9 @@ _elderly dependency ratio_: 5.1<br>
 _potential support ratio_: 19.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20 years<br>
+_total_: 20 years (2020)<br>
 _male_: 19.7 years<br>
-_female_: 20.3 years (2020 est.)<br>
+_female_: 20.3 years<br>
 
 **Population growth rate**<br>
 1.77% (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 835 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 81.74 deaths/1,000 live births<br>
+_total_: 81.74 deaths/1,000 live births (2023 est.)<br>
 _male_: 87.69 deaths/1,000 live births<br>
-_female_: 75.61 deaths/1,000 live births (2023 est.)<br>
+_female_: 75.61 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 55.96 years<br>
+_total population_: 55.96 years (2023 est.)<br>
 _male_: 54.64 years<br>
-_female_: 57.31 years (2023 est.)<br>
+_female_: 57.31 years<br>
 
 **Total fertility rate**<br>
 3.99 children born/woman (2023 est.)<br>
@@ -237,9 +237,9 @@ _male_: 8 years<br>
 _female_: 6 years (2012)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.8%<br>
+_total_: 11.8% (2021 est.)<br>
 _male_: 10.6%<br>
-_female_: 13.1% (2021 est.)<br>
+_female_: 13.1%<br>
 
 ## Environment
 
@@ -356,8 +356,8 @@ _election results_: <em><br>2020</em>: Faustin-Archange TOUADERA reelected presi
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (140 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
-_elections_: first round last held on 27 December 2020; note - on election day, voting in many electoral areas was disrupted by armed groups; on 13 February 2021, President TOUADERA announced that a new first round of elections will be held on 27 February for those areas controlled by armed groups and second round on 14 March<br>
-_election results_: December 2015 election: percent of vote by party - NA; seats by party - UNDP 16, URCA 11, RDC 8, MLPC 10, KNK 7, other 28, independent 60; composition as of March 2022 - men 122, women 18, percent of women 12.9%<br>
+_elections_: last held in December 2020 through July 2021 (next to be held 31 December 2025); note - on 27 December 2020, the day of first round elections, voting in many electoral areas was disrupted by armed groups; on 13 February 2021, President TOUADERA announced that new first round elections would be held on 27 February for those areas controlled by armed groups and the second round on 14 March; ultimately, two additional rounds were held on 23 May and 25 July 2021 in areas that continued to suffer from election security problems<br>
+_election results_: December 2020 to July 2021 election: percent of vote by party - NA; seats by party - UNDP 16, URCA 11, RDC 8, MLPC 10, KNK 7, other 28, independent 60; composition as of March 2022 - men 122, women 18, percent of women 12.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 judges, at least 3 of whom are women)<br>
@@ -461,9 +461,9 @@ gold and diamond mining, logging, brewing, sugar refining<br>
 5.62% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.8%<br>
+_total_: 11.8% (2021 est.)<br>
 _male_: 10.6%<br>
-_female_: 13.1% (2021 est.)<br>
+_female_: 13.1%<br>
 
 **Population below poverty line**<br>
 62% (2008 est.) NA<br>
@@ -693,6 +693,6 @@ the 2013 coup resulted in the institutional collapse of the Central African Arme
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 13,844 (Sudan) (refugees since 15 April 2023), 6,676 (Democratic Republic of Congo) (2023)<br>
+_refugees (country of origin)_: 13,844 (Sudan) (refugees since 15 April 2023), 6,682 (Democratic Republic of Congo) (2023)<br>
 _IDPs_: 488,866 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2023)<br>
 

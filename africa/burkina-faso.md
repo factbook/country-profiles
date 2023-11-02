@@ -109,9 +109,9 @@ _elderly dependency ratio_: 4.8<br>
 _potential support ratio_: 20.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 17.9 years<br>
+_total_: 17.9 years (2020)<br>
 _male_: 17 years<br>
-_female_: 18.7 years (2020 est.)<br>
+_female_: 18.7 years<br>
 
 **Population growth rate**<br>
 2.46% (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 264 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 48.17 deaths/1,000 live births<br>
+_total_: 48.17 deaths/1,000 live births (2023 est.)<br>
 _male_: 52.39 deaths/1,000 live births<br>
-_female_: 43.83 deaths/1,000 live births (2023 est.)<br>
+_female_: 43.83 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.82 years<br>
+_total population_: 63.82 years (2023 est.)<br>
 _male_: 61.99 years<br>
-_female_: 65.72 years (2023 est.)<br>
+_female_: 65.72 years<br>
 
 **Total fertility rate**<br>
 4.14 children born/woman (2023 est.)<br>
@@ -238,9 +238,9 @@ _male_: 9 years<br>
 _female_: 9 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.7%<br>
+_total_: 7.7% (2021 est.)<br>
 _male_: 7.5%<br>
-_female_: 8% (2021 est.)<br>
+_female_: 8%<br>
 
 ## Environment
 
@@ -367,7 +367,7 @@ _subordinate courts_: Appeals Court; High Court; first instance tribunals; distr
 Act Together [Kadre OUEDRAOGO]<br>African Democratic Rally/Alliance for Democracy and Federation or ADF/RDA [Gilbert Noel OUEDRAOGO]<br>Congress for Democracy and Progress or CDP [Eddie KOMBOIGO]<br>Convergence for Progress and Solidarity-Generation 3 or CPS-G3<br>Movement for the Future Burkina Faso or MBF<br>National Convention for Progress or CNP<br>New Era for Democracy or NTD [Vincent DABILGOU]<br>Pan-African Alliance for Refoundation or APR<br>Party for Democracy and Socialism/Metba or PDS/Metba [Philippe OUEDRAOGO]<br>Party for Development and Change or PDC [Aziz SEREME]<br>Patriotic Rally for Integrity or RPI<br>Peoples Movement for Progress or MPP [Roch Marc Christian KABORE]<br>Progressives United for Renewal or PUR<br>Union for Progress and Reform or UPC [Zephirin DIABRE]<br>Union for Rebirth - Sankarist Party or UNIR-PS [Benewende Stanislas SANKARA]<br><br><strong>note:</strong> only parties with seats in the National Assembly included<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNMISS, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU (suspended), CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNMISS, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Jean-Baptiste GAGRE (since 31 July 2023)<br>
@@ -470,9 +470,9 @@ _industry and services_: 10% (2000 est.)<br>
 4.69% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.7%<br>
+_total_: 7.7% (2021 est.)<br>
 _male_: 7.5%<br>
-_female_: 8% (2021 est.)<br>
+_female_: 8%<br>
 
 **Population below poverty line**<br>
 41.4% (2018 est.)<br>

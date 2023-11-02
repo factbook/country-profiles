@@ -103,9 +103,9 @@ _elderly dependency ratio_: 17<br>
 _potential support ratio_: 5.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 33.7 years<br>
+_total_: 33.7 years (2020)<br>
 _male_: 32.3 years<br>
-_female_: 35.1 years (2020 est.)<br>
+_female_: 35.1 years<br>
 
 **Population growth rate**<br>
 0.59% (2023 est.)<br>
@@ -144,14 +144,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 29 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.04 deaths/1,000 live births<br>
+_total_: 8.04 deaths/1,000 live births (2023 est.)<br>
 _male_: 9.02 deaths/1,000 live births<br>
-_female_: 7.03 deaths/1,000 live births (2023 est.)<br>
+_female_: 7.03 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.24 years<br>
+_total population_: 78.24 years (2023 est.)<br>
 _male_: 74.83 years<br>
-_female_: 81.78 years (2023 est.)<br>
+_female_: 81.78 years<br>
 
 **Total fertility rate**<br>
 1.97 children born/woman (2023 est.)<br>
@@ -233,9 +233,9 @@ _male_: 14 years<br>
 _female_: 14 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.1%<br>
+_total_: 26.1% (2021 est.)<br>
 _male_: 21.1%<br>
-_female_: 35.6% (2021 est.)<br>
+_female_: 35.6%<br>
 
 ## Environment
 
@@ -462,9 +462,9 @@ _services_: 47% (31 December 2016)<br>
 4.35% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.1%<br>
+_total_: 26.1% (2021 est.)<br>
 _male_: 21.1%<br>
-_female_: 35.6% (2021 est.)<br>
+_female_: 35.6%<br>
 
 **Population below poverty line**<br>
 4.1% (2016 est.)<br>
@@ -673,8 +673,8 @@ _unpaved_: 97,116 km (2010)<br>
 160 km (2012) (primarily on rivers in southwest)<br>
 
 **Merchant marine**<br>
-_total_: 92<br>
-_by type_: bulk carrier 5, general cargo 13, oil tanker 11, other 63 (2022)<br>
+_total_: 92 (2022)<br>
+_by type_: bulk carrier 5, general cargo 13, oil tanker 11, other 63<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Colombo<br>
@@ -694,7 +694,7 @@ Sri Lanka Armed Forces: Sri Lanka Army (includes National Guard and the Voluntee
 1.9% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 250,000 total personnel (190,000 Army; 30,000 Navy; 30,000 Air Force); approximately 11,000 Special Task Force personnel (2023)<br>
+approximately 260,000 total personnel (200,000 Army; 30,000 Navy; 30,000 Air Force); approximately 11,000 Special Task Force personnel (2023)<br>
 <strong>note: </strong>in January 2023, Sri Lanka’s Ministry of Defense announced plans to decrease the size of the Army to 135,000 by 2024 and 100,000 by 2030<br>
 
 **Military equipment inventories and acquisitions**<br>

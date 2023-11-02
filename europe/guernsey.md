@@ -91,9 +91,9 @@ _potential support ratio_: 4.1 (2021 est.)<br>
 <strong>note:</strong> data represent Guernsey and Jersey<br>
 
 **Median age**<br>
-_total_: 44.3 years<br>
+_total_: 44.3 years (2020)<br>
 _male_: 43 years<br>
-_female_: 45.6 years (2020 est.)<br>
+_female_: 45.6 years<br>
 
 **Population growth rate**<br>
 0.22% (2023 est.)<br>
@@ -123,14 +123,14 @@ _65 years and over_: 0.87 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.3 deaths/1,000 live births<br>
+_total_: 3.3 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.79 deaths/1,000 live births<br>
-_female_: 2.78 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.78 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.42 years<br>
+_total population_: 83.42 years (2023 est.)<br>
 _male_: 80.73 years<br>
-_female_: 86.24 years (2023 est.)<br>
+_female_: 86.24 years<br>
 
 **Total fertility rate**<br>
 1.59 children born/woman (2023 est.)<br>
@@ -170,9 +170,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.8%<br>
+_total_: 15.8% (2021 est.)<br>
 _male_: 15.9%<br>
-_female_: 15.6% (2021 est.)<br>
+_female_: 15.6%<br>
 
 ## Environment
 
@@ -327,9 +327,9 @@ NA<br>
 6.41% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.8%<br>
+_total_: 15.8% (2021 est.)<br>
 _male_: 15.9%<br>
-_female_: 15.6% (2021 est.)<br>
+_female_: 15.6%<br>
 
 **Population below poverty line**<br>
 NA<br>

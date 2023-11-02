@@ -119,9 +119,9 @@ _elderly dependency ratio_: 23.4<br>
 _potential support ratio_: 4.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 40.3 years<br>
+_total_: 40.3 years (2020)<br>
 _male_: 37.5 years<br>
-_female_: 43.2 years (2020 est.)<br>
+_female_: 43.2 years<br>
 
 **Population growth rate**<br>
 -0.24% (2023 est.)<br>
@@ -159,14 +159,14 @@ _total population_: 0.86 male(s)/female (2023 est.)<br>
 14 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.33 deaths/1,000 live births<br>
+_total_: 6.33 deaths/1,000 live births (2023 est.)<br>
 _male_: 7.19 deaths/1,000 live births<br>
-_female_: 5.41 deaths/1,000 live births (2023 est.)<br>
+_female_: 5.41 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.72 years<br>
+_total population_: 72.72 years (2023 est.)<br>
 _male_: 67.22 years<br>
-_female_: 78.54 years (2023 est.)<br>
+_female_: 78.54 years<br>
 
 **Total fertility rate**<br>
 1.6 children born/woman (2023 est.)<br>
@@ -248,9 +248,9 @@ _male_: 16 years<br>
 _female_: 16 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.9%<br>
+_total_: 16.9% (2021 est.)<br>
 _male_: 15.7%<br>
-_female_: 18.4% (2021 est.)<br>
+_female_: 18.4%<br>
 
 ## Environment
 
@@ -494,9 +494,9 @@ _services_: 63% (2016 est.)<br>
 4.5% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.9%<br>
+_total_: 16.9% (2021 est.)<br>
 _male_: 15.7%<br>
-_female_: 18.4% (2021 est.)<br>
+_female_: 18.4%<br>
 
 **Population below poverty line**<br>
 12.6% (2018 est.)<br>
@@ -655,7 +655,7 @@ _total subscriptions_: 250 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 170 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom market is the largest in Europe, supported by a population approaching 147 million; the overall market is dominated by the western regions, particularly Moscow and St Petersburg which are the main cities and economic centers; all sectors of the market have been liberalized, with competition most prevalent in the two largest regional markets; the fiber broadband sector has shown considerable growth, supported by the government&rsquo;s program to extend the reach of broadband to outlying regions; the development of 5G services has been stymied by the lack of spectrum; although MNOs have licenses to use 700MHz spectrum for 5G, this spectrum will not be released until at least August 2023; progress is being made by MNOs to develop a joint strategy to deploy 5G using shared network and spectrum assets; mobile penetration is high, though this is partly due to the popularity of multiple SIM card use; there is pressure on operator revenue from the poor economic climate, lower pricing resulting from intense competition, regulatory measures introduced in 2018 which saw the end of roaming charges, and the effects of the Covid-19 pandemic (2022)<br>
+_general assessment_: the telecom market is the largest in Europe, supported by a population approaching 147 million; the overall market is dominated by the western regions, particularly Moscow and St Petersburg which are the main cities and economic centers; all sectors of the market have been liberalized, with competition most prevalent in the two largest regional markets; the fiber broadband sector has shown considerable growth, supported by the government&rsquo;s program to extend the reach of broadband to outlying regions; the development of 5G services has been stymied by the lack of spectrum; although MNOs have licenses to use 700MHz spectrum for 5G, this spectrum has yet to be released by broadcasters; spectrum in the 3.4GHz range commonly used for 5G in Europe has been restricted for use in Russia by the military and intelligence agencies; despite these limitations, the four principal MNOs each have an equal share in a joint venture aimed at developing a strategy to deploy 5G using shared network and spectrum assets (2022)<br>
 _domestic_: 16 per 100 for fixed-line and mobile-cellular is 170 per 100 persons (2021)<br>
 _international_: country code - 7; landing points for the Far East Submarine Cable System, HSCS, Sakhalin-Kuril Island Cable, RSCN, BCS North-Phase 2, Kerch Strait Cable and the Georgia-Russian submarine cable system connecting Russia, Japan, Finland, Georgia and Ukraine; satellite earth stations provide access to Intelsat, Intersputnik, Eutelsat, Inmarsat, and Orbita systems (2019)<br>
 
@@ -718,8 +718,8 @@ _unpaved_: 355,666 km (2012)<br>
 102,000 km (2009) (including 48,000 km with guaranteed depth; the 72,000-km system in European Russia links Baltic Sea, White Sea, Caspian Sea, Sea of Azov, and Black Sea)<br>
 
 **Merchant marine**<br>
-_total_: 2,917<br>
-_by type_: bulk carrier 12, container ship 18, general cargo 987, oil tanker 392, other 1,508 (2022)<br>
+_total_: 2,917 (2022)<br>
+_by type_: bulk carrier 12, container ship 18, general cargo 987, oil tanker 392, other 1,508<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: <em><br>Arctic Ocean: </em>Arkhangelsk, Murmansk<em><br>Baltic Sea:</em> Kaliningrad, Primorsk, Saint Petersburg<br><em>Black Sea:</em> Novorossiysk<br><em>Pacific Ocean:</em> Nakhodka, Vladivostok, Vostochnyy<br>

@@ -5,7 +5,7 @@ _Australia-Oceania / Dependencies (United States)_
 ## Introduction
 
 **Background**<br>
-<p>Guam was settled by Austronesian people around 1500 B.C. These people became the indigenous Chamorro and were influenced by later migrations, including the Micronesians in the first millennium A.D., and island Southeast Asians around 900. Society was stratified with higher classes living along the coast and lower classes living inland. Spanish explorer Ferdinand MAGELLAN was the first European to see Guam in 1521 and Spain claimed the island in 1565 as it served as a refueling stop for ships between Mexico and the Philippines. Spain formally colonized Guam in 1668. Spain’s brutal repression of the Chamorro, along with new diseases and intermittent warfare, reduced the indigenous population from more than 100,000 to less than 5,000 by the 1700s. Spain tried to repopulate the island by forcing people from nearby islands to settle on Guam and preventing them from escaping.<br><br>Guam became a hub for whalers and traders in the western Pacific in the early 1800s. During the 1898 Spanish-American War, the US Navy occupied Guam and set up a military administration. The US Navy opposed local control of government despite repeated petitions by the Chamorro. Japan invaded Guam in 1941 and instituted a repressive regime. During the US recapture of Guam in 1944, the island’s two largest villages were destroyed. After World War II, political pressure from local Chamorro leaders led to Guam being established as an unincorporated organized territory in 1950 with US citizenship granted to all Chamorro. In a referendum in 1982, more than 75% of voters chose closer relations with the US over independence, although no change in status was made because of disagreements on the future right of Chamorro self-determination. The US military holds about 29% of Guam’s land and stations several thousand troops on the island. The installations are some of the most strategically important US bases in the Pacific; they also constitute the island’s most important source of income and economic stability.</p><br>
+<p>Guam was settled by Austronesian people around 1500 B.C. These people became the indigenous Chamorro and were influenced by later migrations, including the Micronesians in the first millennium A.D., and island Southeast Asians around 900. Society was stratified with higher classes living along the coast and lower classes living inland. Spanish explorer Ferdinand MAGELLAN was the first European to see Guam in 1521, and Spain claimed the island in 1565 as it served as a refueling stop for ships between Mexico and the Philippines. Spain formally colonized Guam in 1668. Spain’s brutal repression of the Chamorro, along with new diseases and intermittent warfare, reduced the indigenous population from more than 100,000 to less than 5,000 by the 1700s. Spain tried to repopulate the island by forcing people from nearby islands to settle on Guam and preventing them from escaping.<br><br>Guam became a hub for whalers and traders in the western Pacific in the early 1800s. During the 1898 Spanish-American War, the US Navy occupied Guam and set up a military administration. The US Navy opposed local control of government despite repeated petitions by the Chamorro. Japan invaded Guam in 1941 and instituted a repressive regime. During the US recapture of Guam in 1944, the island’s two largest villages were destroyed. After World War II, political pressure from local Chamorro leaders led to Guam being established as an unincorporated organized territory in 1950 with US citizenship granted to all Chamorro. In a referendum in 1982, more than 75% of voters chose closer relations with the US over independence, although no change in status was made because of disagreements on the future right of Chamorro self-determination. The US military holds about 29% of Guam’s land and stations several thousand troops on the island. The installations are some of the most strategically important US bases in the Pacific; they also constitute the island’s most important source of income and economic stability.</p><br>
 
 ## Geography
 
@@ -99,9 +99,9 @@ _elderly dependency ratio_: 18.4<br>
 _potential support ratio_: 5.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.4 years<br>
+_total_: 29.4 years (2020)<br>
 _male_: 28.7 years<br>
-_female_: 30.2 years (2020 est.)<br>
+_female_: 30.2 years<br>
 
 **Population growth rate**<br>
 0.13% (2023 est.)<br>
@@ -133,14 +133,14 @@ _65 years and over_: 0.87 male(s)/female<br>
 _total population_: 1.06 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.2 deaths/1,000 live births<br>
+_total_: 11.2 deaths/1,000 live births (2023 est.)<br>
 _male_: 11.23 deaths/1,000 live births<br>
-_female_: 11.16 deaths/1,000 live births (2023 est.)<br>
+_female_: 11.16 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.74 years<br>
+_total population_: 77.74 years (2023 est.)<br>
 _male_: 75.33 years<br>
-_female_: 80.31 years (2023 est.)<br>
+_female_: 80.31 years<br>
 
 **Total fertility rate**<br>
 2.76 children born/woman (2023 est.)<br>
@@ -185,9 +185,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.3%<br>
+_total_: 15.3% (2021 est.)<br>
 _male_: 14.7%<br>
-_female_: 16.1% (2021 est.)<br>
+_female_: 16.1%<br>
 
 ## Environment
 
@@ -369,9 +369,9 @@ _services_: 78.1% (2013 est.)<br>
 5.51% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.3%<br>
+_total_: 15.3% (2021 est.)<br>
 _male_: 14.7%<br>
-_female_: 16.1% (2021 est.)<br>
+_female_: 16.1%<br>
 
 **Population below poverty line**<br>
 23% (2001 est.)<br>
@@ -533,8 +533,8 @@ N<br>
 _total_: 1,045 km (2008)<br>
 
 **Merchant marine**<br>
-_total_: 3<br>
-_by type_: other 3 (2022)<br>
+_total_: 3 (2022)<br>
+_by type_: other 3<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Apra Harbor<br>

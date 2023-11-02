@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Gabon, a sparsely populated country known for its dense rainforests and vast petroleum reserves, is one of the most prosperous and stable countries in central Africa. Approximately 40 ethnic groups are represented, the largest of which is the Fang, a group that covers the northern third of Gabon and expands north into Equatorial Guinea and Cameroon. From about the early 1300s, various kingdoms emerged in and surrounding present-day Gabon, including the Kingdoms of Loango and Orungu. Because most early Bantu languages spoken in these kingdoms did not have a written form, historical traditions were passed on orally, resulting in much of Gabon's early history being lost over time. Portuguese traders who arrived in the mid-1400s gave the area its name of Gabon. At that time, indigenous trade networks began to engage with European traders, exchanging goods such as ivory and wood. For a century beginning in the 1760s, trade came to focus mostly on enslaved people. While many groups in Gabon participated in the slave trade, the Fang were a notable exception. As the slave trade declined in the late 1800s, France colonized the country and directed a widespread extraction of Gabonese resources. Anti-colonial rhetoric by Gabon’s educated elites increased significantly in the early 1900s, but no widespread rebellion materialized. French decolonization following World War II led to the country’s independence in 1960.</p> <p>Within a year of independence, the government changed from a parliamentary to a presidential system, and Leon M’BA won the first presidential election in 1961. El Hadj Omar BONGO Ondimba - one of the longest ruling heads of state in history - was M’BA’s vice president and assumed the presidency after M’BA’s death in 1967. BONGO went on to dominate the country's political scene for four decades (1967-2009). In 1968, he declared Gabon a single-party state and created the Parti Democratique Gabonais (PDG), which remains the predominant party in Gabonese politics today. In the early 1990s, he reintroduced a multiparty system under a new constitution after he was confronted with growing political opposition. He was reelected by wide margins in 1995, 1998, 2002, and 2005 against a divided opposition and amidst allegations of fraud. Following President BONGO's death in 2009, a new election brought his son, Ali BONGO Ondimba, to power. President Ali BONGO Ondimba was reelected in 2016 in a close election against a united opposition. Gabon’s Constitutional Court reviewed the contested election results and ruled in his favor.</p><br>
+<p>Gabon, a sparsely populated country known for its dense rainforests and vast petroleum reserves, is one of the most prosperous and stable countries in central Africa. Approximately 40 ethnic groups are represented, the largest of which is the Fang, a group that covers the northern third of Gabon and expands north into Equatorial Guinea and Cameroon. From about the early 1300s, various kingdoms emerged in and surrounding present-day Gabon, including the Kingdoms of Loango and Orungu. Because most early Bantu languages spoken in these kingdoms did not have a written form, historical traditions were passed on orally, resulting in much of Gabon's early history being lost over time. Portuguese traders who arrived in the mid-1400s gave the area its name of Gabon. At that time, indigenous trade networks began to engage with European traders, exchanging goods such as ivory and wood. For a century beginning in the 1760s, trade came to focus mostly on enslaved people. While many groups in Gabon participated in the slave trade, the Fang were a notable exception. As the slave trade declined in the late 1800s, France colonized the country and directed a widespread extraction of Gabonese resources. Anti-colonial rhetoric by Gabon’s educated elites increased significantly in the early 1900s, but no widespread rebellion materialized. French decolonization following World War II led to the country’s independence in 1960.</p> <p>Within a year of independence, the government changed from a parliamentary to a presidential system, and Leon M’BA won the first presidential election in 1961. El Hadj Omar BONGO Ondimba - one of the longest ruling heads of state in history - was M’BA’s vice president and assumed the presidency after M’BA’s death in 1967. BONGO went on to dominate the country's political scene for four decades (1967-2009). In 1968, he declared Gabon a single-party state and created the Parti Democratique Gabonais (PDG), which remains the predominant party in Gabonese politics today. In the early 1990s, he reintroduced a multiparty system under a new constitution after he was confronted with growing political opposition. He was reelected by wide margins in 1995, 1998, 2002, and 2005 against a divided opposition and amidst allegations of fraud. Following President BONGO's death in 2009, a new election brought his son, Ali BONGO Ondimba, to power. President Ali BONGO Ondimba was reelected in 2016 in a close election against a united opposition. Gabon’s Constitutional Court reviewed the contested election results and ruled in his favor. President Ali BONGO Ondimba won a third term in Gabon’s 26 August 2023 election, but he was overthrown in a military coup on 30 August 2023.  Gen. Brice OLIGUI Nguema led a military group called the Committee for the Transition and Restoration of Institutions that arrested and detained President BONGO, canceled the election results, and dissolved state institutions.  On 4 September 2023, Gen. OLIGUI was sworn in as transitional president of Gabon.</p> <p> </p><br>
 
 ## Geography
 
@@ -111,9 +111,9 @@ _elderly dependency ratio_: 6.5<br>
 _potential support ratio_: 15.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21 years<br>
+_total_: 21 years (2020)<br>
 _male_: 21.4 years<br>
-_female_: 20.6 years (2020 est.)<br>
+_female_: 20.6 years<br>
 
 **Population growth rate**<br>
 2.39% (2023 est.)<br>
@@ -152,14 +152,14 @@ _total population_: 1.07 male(s)/female (2023 est.)<br>
 227 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 27.7 deaths/1,000 live births<br>
+_total_: 27.7 deaths/1,000 live births (2023 est.)<br>
 _male_: 30.61 deaths/1,000 live births<br>
-_female_: 24.71 deaths/1,000 live births (2023 est.)<br>
+_female_: 24.71 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.03 years<br>
+_total population_: 70.03 years (2023 est.)<br>
 _male_: 68.3 years<br>
-_female_: 71.81 years (2023 est.)<br>
+_female_: 71.81 years<br>
 
 **Total fertility rate**<br>
 3.26 children born/woman (2023 est.)<br>
@@ -228,9 +228,9 @@ _male_: 86.2%<br>
 _female_: 84.7% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.4%<br>
+_total_: 38.4% (2021 est.)<br>
 _male_: 33.7%<br>
-_female_: 44.4% (2021 est.)<br>
+_female_: 44.4%<br>
 
 ## Environment
 
@@ -331,16 +331,16 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Gen. Brice OLIGUI Nguema (since 5 September 2023); note - on 30 August 2023, Gen. Brice OLIGUI Nguema led a military group called Committee for the Transition and Restoration of Institutions in a coup in which President Ali BONGO was arrested and detained, election results were canceled, and state institutions dissolved; on 5 September 2023, OLIGUI was sworn in as transitional president<br>
-_head of government_: Raymond Ndong Sima (since 8 September 2023); note- interim prime minister<br>
-_cabinet_: Council of Ministers appointed by the prime minister in consultation with the president<br>
-_elections/appointments_: president directly elected by plurality vote for a 5-year term (no term limits); election last held on 27 August 2016 (next to be held on 2 September 2023); prime minister appointed by the president<br>
-_election results_: <em><br>2016: </em>Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br><em>2009: </em>Ali BONGO Ondimba elected president; percent of vote - Ali BONGO Ondimba (PDG) 41.7%, Andre MBA OBAME (independent) 25.9%, Pierre MAMBOUNDOU (UPG) 25.2%, Zacharie MYBOTO (UGDD) 3.9%, other 3.3% <p> </p><br>
+_chief of state_: Transitional President Gen. Brice OLIGUI Nguema (since 4 September 2023); note - on 30 August 2023, Gen. Brice OLIGUI Nguema led a military group called the Committee for the Transition and Restoration of Institutions in a coup in which President Ali BONGO Ondimba was arrested and detained, election results were canceled, and state institutions dissolved; on 4 September 2023, Gen. OLIGUI was sworn in as transitional president<br>
+_head of government_: Interim Prime Minister Raymond Ndong SIMA (since 8 September 2023)<br>
+_cabinet_: formerly the Council of Ministers, appointed by the prime minister in consultation with the president<br>
+_elections/appointments_: formerly, the president directly elected by plurality vote for a 5-year term (no term limits); election last held on 26 August 2023; prime minister appointed by the president; note - on 30 August 2023, Gen. Brice OLIGUI Nguema led a military group called Committee for the Transition and Restoration of Institutions in a coup in which President Ali BONGO Ondimba was arrested and detained, election results were canceled, and state institutions dissolved; on 4 September 2023, OLIGUI was sworn in as transitional president<br>
+_election results_: <em><br>2016: </em>Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br><br><em>2009: </em>Ali BONGO Ondimba elected president; percent of vote - Ali BONGO Ondimba (PDG) 41.7%, Andre MBA OBAME (independent) 25.9%, Pierre MAMBOUNDOU (UPG) 25.2%, Zacharie MYBOTO (UGDD) 3.9%, other 3.3% <p> </p><br>
 
 **Legislative branch**<br>
-_description_: <p>formerly the Parliament or Parlement; note - on 30 August 2023, Gen. Brice OLIGUI Nguema led a military group called Committee for the Transition and Restoration of Institutions in a coup in which President Ali BONGO was arrested and detained, election results were canceled, and the Parliament dissolved; on 11 September 2023, Transitional President Gen. Brice OLIGUI Nguema appointed 168 members to the Transitional Parliament</p><br>
-_elections_: <p>168 members of the Transitional Parliament were appointed by the Transitional President Gen. Brice OLIGUI Nguema on 11 September 2023; elections for a permanent legislature had not been announced</p> <p> </p><br>
-_election results_: <p>168 members of the Transitional Parliament (98 members National Assembly and 70 members Senate) were appointed by the Transitional President on 11 September 2023; the members represent legally recognized political parties or leading political figures, civil society, and defense and security forces</p><br>
+_description_: <p>Transitional Parliament (formerly the bicameral Parliament) consists of:<br>Senate (70 seats; members appointed by Transitional president; member term NA)<br>National Assembly (98 seats; members appointed by the Transitional president; member term NA) <br>note - all members represent legally recognized political parties or leading political figures, civil society, and defense and security forces<br><br><br></p><br>
+_elections_: <p>on 11 September 2023, Transitional President Gen. Brice OLIGUI Nguema appointed 168 members to the Transitional Parliament; elections for a permanent legislature reportedly to follow 2-year transition</p><br>
+_election results_: <p>all members of the Transitional Parliament appointed by the Transitional president</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 4 permanent specialized supreme courts - Supreme Court or Cour de Cassation, Administrative Supreme Court or Conseil d'Etat, Accounting Supreme Court or Cour des Comptes, Constitutional Court or Cour Constitutionnelle, and the non-permanent Court of State Security, initiated only for cases of high treason by the president and criminal activity by executive branch officials)<br>
@@ -352,7 +352,7 @@ Gabonese Democratic Party or PDG [Ali BONGO Ondimba]<br>Restoration of Republica
 Paul Mba Abessole<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, BDEAC, CEMAC, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU (suspended), BDEAC, CEMAC, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Noel Nelson&nbsp;MESSONE (12 December 2022)<br>
@@ -456,9 +456,9 @@ _services_: 24% (2005 est.)<br>
 20.74% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.4%<br>
+_total_: 38.4% (2021 est.)<br>
 _male_: 33.7%<br>
-_female_: 44.4% (2021 est.)<br>
+_female_: 44.4%<br>
 
 **Population below poverty line**<br>
 33.4% (2017 est.)<br>
@@ -659,8 +659,8 @@ _unpaved_: 13,400 km (2001)<br>
 1,600 km (2010) (310 km on Ogooue River)<br>
 
 **Merchant marine**<br>
-_total_: 71<br>
-_by type_: bulk carrier 2, general cargo 19, oil tanker 20, other 30 (2022)<br>
+_total_: 71 (2022)<br>
+_by type_: bulk carrier 2, general cargo 19, oil tanker 20, other 30<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Libreville, Owendo, Port-Gentil<br>

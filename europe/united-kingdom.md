@@ -105,9 +105,9 @@ _elderly dependency ratio_: 29.8<br>
 _potential support ratio_: 3.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 40.6 years<br>
+_total_: 40.6 years (2020)<br>
 _male_: 39.6 years<br>
-_female_: 41.7 years (2020 est.)<br>
+_female_: 41.7 years<br>
 
 **Population growth rate**<br>
 0.49% (2023 est.)<br>
@@ -146,14 +146,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 10 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.79 deaths/1,000 live births<br>
+_total_: 3.79 deaths/1,000 live births (2023 est.)<br>
 _male_: 4.25 deaths/1,000 live births<br>
-_female_: 3.31 deaths/1,000 live births (2023 est.)<br>
+_female_: 3.31 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.05 years<br>
+_total population_: 82.05 years (2023 est.)<br>
 _male_: 80.01 years<br>
-_female_: 84.21 years (2023 est.)<br>
+_female_: 84.21 years<br>
 
 **Total fertility rate**<br>
 1.63 children born/woman (2023 est.)<br>
@@ -231,9 +231,9 @@ _male_: 17 years<br>
 _female_: 18 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.2%<br>
+_total_: 13.2% (2021 est.)<br>
 _male_: 14.6%<br>
-_female_: 11.8% (2021 est.)<br>
+_female_: 11.8%<br>
 
 ## Environment
 
@@ -341,9 +341,9 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 <strong>note:</strong> in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 14 additional Commonwealth countries (these 15 states are each referred to as a Commonwealth realm)<br><br><br><br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>House of Lords (membership not fixed; as of October 2021, 787 lords were eligible to participate in the work of the House of Lords - 673 life peers, 88 hereditary peers, and 26 clergy; members are appointed by the monarch on the advice of the prime minister and non-party political members recommended by the House of Lords Appointments Commission); note - House of Lords total does not include ineligible members or members on leave of absence<br>House of Commons (650 seats; members directly elected in single-seat constituencies by simple majority popular vote to serve 5-year terms unless the House is dissolved earlier)<br>
+_description_: bicameral Parliament consists of:<br>House of Lords (membership not fixed; as of October 2023, 778 lords were eligible to participate in the work of the House of Lords - 663 life peers, 90 hereditary peers, and 25 clergy; members are appointed by the monarch on the advice of the prime minister and non-party political members recommended by the House of Lords Appointments Commission); note - House of Lords total does not include ineligible members or members on leave of absence<br>House of Commons (650 seats; members directly elected in single-seat constituencies by simple majority popular vote to serve 5-year terms unless the House is dissolved earlier)<br>
 _elections_: <br>House of Lords - no elections; note - in 1999, as provided by the House of Lords Act, elections were held in the House of Lords to determine the 92 hereditary peers who would remain; elections held only as vacancies in the hereditary peerage arise)<br>House of Commons - last held on 12 December 2019 (next to be held no later than 28 January 2025)<br>
-_election results_: <br>House of Lords - composition - men 554, women 222, percent of women 28.6%<br>House of Commons - percent of vote by party - Conservative 54.9%, Labor 30.8%, SNP 6.8%, Lib Dems 2.2%, DUP 1.2%, Sinn Fein 1.1%, Plaid Cymru .6%, other 2.5%; seats by party - Conservative 365, Labor 202, SNP 48, Lib Dems 11, DUP 8, Sinn Fein 7, Plaid Cymru 4, other 5; composition - men 425, women 225, percent of women 34.6%; total Parliament percent of women 31.3%<br>
+_election results_: <br>House of Lords - composition - men 552, women 226, percent of women 29%<br>House of Commons - percent of vote by party - Conservative 54.9%, Labor 30.8%, SNP 6.8%, Lib Dems 2.2%, DUP 1.2%, Sinn Fein 1.1%, Plaid Cymru .6%, other 2.5%; seats by party - Conservative 365, Labor 202, SNP 48, Lib Dems 11, DUP 8, Sinn Fein 7, Plaid Cymru 4, other 5; composition - men 425, women 225, percent of women 34.6%; total Parliament percent of women 31.3%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 12 justices, including the court president and deputy president); note - the Supreme Court was established by the Constitutional Reform Act 2005 and implemented in 2009, replacing the Appellate Committee of the House of Lords as the highest court in the United Kingdom<br>
@@ -461,9 +461,9 @@ _services_: 83.5% (2014 est.)<br>
 3.74% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.2%<br>
+_total_: 13.2% (2021 est.)<br>
 _male_: 14.6%<br>
-_female_: 11.8% (2021 est.)<br>
+_female_: 11.8%<br>
 
 **Population below poverty line**<br>
 18.6% (2017 est.)<br>
@@ -686,8 +686,8 @@ _paved_: 394,428 km (2009) (includes 3,519 km of expressways)<br>
 3,200 km (2009) (620 km used for commerce)<br>
 
 **Merchant marine**<br>
-_total_: 1,174<br>
-_by type_: bulk carrier 133, container ship 58, general cargo 97, oil tanker 73, other 813 (2022)<br>
+_total_: 1,174 (2022)<br>
+_by type_: bulk carrier 133, container ship 58, general cargo 97, oil tanker 73, other 813<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dover, Felixstowe, Immingham, Liverpool, London, Southampton, Teesport (England); Forth Ports (Scotland); Milford Haven (Wales)<br>
@@ -711,7 +711,7 @@ United Kingdom Armed Forces (aka British Armed Forces, aka His Majesty's Armed F
 2.1% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 148,000 regular forces (82,000 Army including the Gurkhas; 33,000 Navy including the Royal Marines; 33,000 Air Force) (2023)<br>
+approximately 150,000 regular forces (82,000 Army including the Gurkhas; 34,000 Navy including the Royal Marines; 34,000 Air Force) (2023)<br>
 <strong>note: </strong>the military also has approximately 40-45,000 reserves and other personnel on active duty<br>
 
 **Military equipment inventories and acquisitions**<br>

@@ -104,9 +104,9 @@ _elderly dependency ratio_: 16.8<br>
 _potential support ratio_: 7.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 37.8 years<br>
+_total_: 37.8 years (2020)<br>
 _male_: 37.3 years<br>
-_female_: 38.3 years (2020 est.)<br>
+_female_: 38.3 years<br>
 
 **Population growth rate**<br>
 0.12% (2023 est.)<br>
@@ -141,14 +141,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 27 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.44 deaths/1,000 live births<br>
+_total_: 15.44 deaths/1,000 live births (2023 est.)<br>
 _male_: 17.51 deaths/1,000 live births<br>
-_female_: 13.28 deaths/1,000 live births (2023 est.)<br>
+_female_: 13.28 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.19 years<br>
+_total population_: 76.19 years (2023 est.)<br>
 _male_: 74.29 years<br>
-_female_: 78.18 years (2023 est.)<br>
+_female_: 78.18 years<br>
 
 **Total fertility rate**<br>
 1.63 children born/woman (2023 est.)<br>
@@ -207,9 +207,9 @@ _male_: 99.2%<br>
 _female_: 98.7% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.7%<br>
+_total_: 12.7% (2021 est.)<br>
 _male_: 12.8%<br>
-_female_: 12.6% (2021 est.)<br>
+_female_: 12.6%<br>
 
 ## Environment
 
@@ -423,9 +423,9 @@ _services_: 85.4% (2016 est.)<br>
 3.42% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.7%<br>
+_total_: 12.7% (2021 est.)<br>
 _male_: 12.8%<br>
-_female_: 12.6% (2021 est.)<br>
+_female_: 12.6%<br>
 
 **Population below poverty line**<br>
 20% (2014 est.)<br>
@@ -608,8 +608,8 @@ _annual freight traffic on registered air carriers_: 41.14 million (2018) mt-km<
 257 km condensate, 11 km condensate/gas, 1,567 km gas, 587 km oil (2013)<br>
 
 **Merchant marine**<br>
-_total_: 102<br>
-_by type_: general cargo 1, other 101 (2022)<br>
+_total_: 102 (2022)<br>
+_by type_: general cargo 1, other 101<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Point Fortin, Point Lisas, Port of Spain, Scarborough<br>

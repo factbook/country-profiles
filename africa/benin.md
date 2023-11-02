@@ -108,9 +108,9 @@ _elderly dependency ratio_: 5.7<br>
 _potential support ratio_: 17.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 17 years<br>
+_total_: 17 years (2020)<br>
 _male_: 16.4 years<br>
-_female_: 17.6 years (2020 est.)<br>
+_female_: 17.6 years<br>
 
 **Population growth rate**<br>
 3.31% (2023 est.)<br>
@@ -149,14 +149,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 523 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 54.33 deaths/1,000 live births<br>
+_total_: 54.33 deaths/1,000 live births (2023 est.)<br>
 _male_: 59.28 deaths/1,000 live births<br>
-_female_: 49.14 deaths/1,000 live births (2023 est.)<br>
+_female_: 49.14 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.6 years<br>
+_total population_: 62.6 years (2023 est.)<br>
 _male_: 60.75 years<br>
-_female_: 64.55 years (2023 est.)<br>
+_female_: 64.55 years<br>
 
 **Total fertility rate**<br>
 5.39 children born/woman (2023 est.)<br>
@@ -241,9 +241,9 @@ _male_: 12 years<br>
 _female_: 10 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.9%<br>
+_total_: 3.9% (2021 est.)<br>
 _male_: 3.1%<br>
-_female_: 4.6% (2021 est.)<br>
+_female_: 4.6%<br>
 
 ## Environment
 
@@ -465,9 +465,9 @@ textiles, food processing, construction materials, cement<br>
 1.47% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.9%<br>
+_total_: 3.9% (2021 est.)<br>
 _male_: 3.1%<br>
-_female_: 4.6% (2021 est.)<br>
+_female_: 4.6%<br>
 
 **Population below poverty line**<br>
 38.5% (2019 est.)<br>
@@ -671,8 +671,8 @@ _unpaved_: 14,600 km (2006)<br>
 150 km (2011) (seasonal navigation on River Niger along northern border)<br>
 
 **Merchant marine**<br>
-_total_: 7<br>
-_by type_: other 7 (2022)<br>
+_total_: 7 (2022)<br>
+_by type_: other 7<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cotonou<br>

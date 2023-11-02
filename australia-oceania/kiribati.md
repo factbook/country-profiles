@@ -101,9 +101,9 @@ _elderly dependency ratio_: 6.2<br>
 _potential support ratio_: 16.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 25.7 years<br>
+_total_: 25.7 years (2020)<br>
 _male_: 24.8 years<br>
-_female_: 26.6 years (2020 est.)<br>
+_female_: 26.6 years<br>
 
 **Population growth rate**<br>
 1.02% (2023 est.)<br>
@@ -142,14 +142,14 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 76 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.2 deaths/1,000 live births<br>
+_total_: 32.2 deaths/1,000 live births (2023 est.)<br>
 _male_: 34.17 deaths/1,000 live births<br>
-_female_: 30.14 deaths/1,000 live births (2023 est.)<br>
+_female_: 30.14 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.22 years<br>
+_total population_: 68.22 years (2023 est.)<br>
 _male_: 65.6 years<br>
-_female_: 70.97 years (2023 est.)<br>
+_female_: 70.97 years<br>
 
 **Total fertility rate**<br>
 2.18 children born/woman (2023 est.)<br>
@@ -220,9 +220,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 22.5%<br>
+_total_: 22.5% (2019 est.)<br>
 _male_: 21.2%<br>
-_female_: 24.6% (2019 est.)<br>
+_female_: 24.6%<br>
 
 ## Environment
 
@@ -421,9 +421,9 @@ _services_: 75% (2010)<br>
 6.1% (2005)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 22.5%<br>
+_total_: 22.5% (2019 est.)<br>
 _male_: 21.2%<br>
-_female_: 24.6% (2019 est.)<br>
+_female_: 24.6%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -615,8 +615,8 @@ _total_: 670 km (2017)<br>
 5 km (2012) (small network of canals in Line Islands)<br>
 
 **Merchant marine**<br>
-_total_: 90<br>
-_by type_: bulk carrier 3, general cargo 35, oil tanker 11, other 41 (2022)<br>
+_total_: 90 (2022)<br>
+_by type_: bulk carrier 3, general cargo 35, oil tanker 11, other 41<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Betio (Tarawa Atoll), Canton Island, English Harbor<br>

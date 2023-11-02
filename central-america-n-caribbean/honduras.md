@@ -110,9 +110,9 @@ _elderly dependency ratio_: 6.4<br>
 _potential support ratio_: 15.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.4 years<br>
+_total_: 24.4 years (2020)<br>
 _male_: 23.5 years<br>
-_female_: 25.2 years (2020 est.)<br>
+_female_: 25.2 years<br>
 
 **Population growth rate**<br>
 1.16% (2023 est.)<br>
@@ -151,14 +151,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 72 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.77 deaths/1,000 live births<br>
+_total_: 14.77 deaths/1,000 live births (2023 est.)<br>
 _male_: 16.88 deaths/1,000 live births<br>
-_female_: 12.59 deaths/1,000 live births (2023 est.)<br>
+_female_: 12.59 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.43 years<br>
+_total population_: 75.43 years (2023 est.)<br>
 _male_: 71.91 years<br>
-_female_: 79.06 years (2023 est.)<br>
+_female_: 79.06 years<br>
 
 **Total fertility rate**<br>
 1.98 children born/woman (2023 est.)<br>
@@ -235,9 +235,9 @@ _male_: 10 years<br>
 _female_: 11 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.5%<br>
+_total_: 15.5% (2021 est.)<br>
 _male_: 11.4%<br>
-_female_: 24.6% (2021 est.)<br>
+_female_: 24.6%<br>
 
 ## Environment
 
@@ -463,9 +463,9 @@ _services_: 39.8% (2005 est.)<br>
 <strong>note:</strong> about one-third of the people are underemployed<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.5%<br>
+_total_: 15.5% (2021 est.)<br>
 _male_: 11.4%<br>
-_female_: 24.6% (2021 est.)<br>
+_female_: 24.6%<br>
 
 **Population below poverty line**<br>
 48.3% (2018 est.)<br>
@@ -672,8 +672,8 @@ _unpaved_: 11,375 km (2012) (1,543 km summer only)<br>
 465 km (2012) (most navigable only by small craft)<br>
 
 **Merchant marine**<br>
-_total_: 505<br>
-_by type_: general cargo 246, oil tanker 82, other 177 (2022)<br>
+_total_: 505 (2022)<br>
+_by type_: general cargo 246, oil tanker 82, other 177<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: La Ceiba, Puerto Cortes, San Lorenzo, Tela<br>

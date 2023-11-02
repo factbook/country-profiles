@@ -111,9 +111,9 @@ _elderly dependency ratio_: 6.7<br>
 _potential support ratio_: 14.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24 years<br>
+_total_: 24 years (2020)<br>
 _male_: 23.7 years<br>
-_female_: 24.4 years (2020 est.)<br>
+_female_: 24.4 years<br>
 
 **Population growth rate**<br>
 1.3% (2023 est.)<br>
@@ -148,14 +148,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 126 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 36.56 deaths/1,000 live births<br>
+_total_: 36.56 deaths/1,000 live births (2023 est.)<br>
 _male_: 40.38 deaths/1,000 live births<br>
-_female_: 32.59 deaths/1,000 live births (2023 est.)<br>
+_female_: 32.59 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.59 years<br>
+_total population_: 68.59 years (2023 est.)<br>
 _male_: 66.95 years<br>
-_female_: 70.31 years (2023 est.)<br>
+_female_: 70.31 years<br>
 
 **Total fertility rate**<br>
 2.3 children born/woman (2023 est.)<br>
@@ -237,9 +237,9 @@ _male_: 10 years<br>
 _female_: 10 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.3%<br>
+_total_: 3.3% (2021 est.)<br>
 _male_: 3.4%<br>
-_female_: 3.2% (2021 est.)<br>
+_female_: 3.2%<br>
 
 ## Environment
 
@@ -465,9 +465,9 @@ _services_: 20.6% (2012 est.)<br>
 0.85% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.3%<br>
+_total_: 3.3% (2021 est.)<br>
 _male_: 3.4%<br>
-_female_: 3.2% (2021 est.)<br>
+_female_: 3.2%<br>
 
 **Population below poverty line**<br>
 18.3% (2018 est.)<br>
@@ -672,8 +672,8 @@ _unpaved_: 34,171 km (2009)<br>
 4,600 km (2012) (primarily on the Mekong River and its tributaries; 2,900 additional km are intermittently navigable by craft drawing less than 0.5 m)<br>
 
 **Merchant marine**<br>
-_total_: 1<br>
-_by type_: general cargo 1 (2022)<br>
+_total_: 1 (2022)<br>
+_by type_: general cargo 1<br>
 
 ## Military and Security
 

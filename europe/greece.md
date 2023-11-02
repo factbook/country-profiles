@@ -104,9 +104,9 @@ _elderly dependency ratio_: 35.5<br>
 _potential support ratio_: 2.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 45.3 years<br>
+_total_: 45.3 years (2020)<br>
 _male_: 43.7 years<br>
-_female_: 46.8 years (2020 est.)<br>
+_female_: 46.8 years<br>
 
 **Population growth rate**<br>
 -0.35% (2023 est.)<br>
@@ -144,14 +144,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.49 deaths/1,000 live births<br>
+_total_: 3.49 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.89 deaths/1,000 live births<br>
-_female_: 3.07 deaths/1,000 live births (2023 est.)<br>
+_female_: 3.07 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.71 years<br>
+_total population_: 81.71 years (2023 est.)<br>
 _male_: 79.18 years<br>
-_female_: 84.4 years (2023 est.)<br>
+_female_: 84.4 years<br>
 
 **Total fertility rate**<br>
 1.4 children born/woman (2023 est.)<br>
@@ -223,9 +223,9 @@ _male_: 20 years<br>
 _female_: 20 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36.9%<br>
+_total_: 36.9% (2021 est.)<br>
 _male_: 33.5%<br>
-_female_: 41.5% (2021 est.)<br>
+_female_: 41.5%<br>
 
 ## Environment
 
@@ -452,9 +452,9 @@ _services_: 72.4% (30 October 2015 est.)<br>
 17.31% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36.9%<br>
+_total_: 36.9% (2021 est.)<br>
 _male_: 33.5%<br>
-_female_: 41.5% (2021 est.)<br>
+_female_: 41.5%<br>
 
 **Population below poverty line**<br>
 17.9% (2018 est.)<br>
@@ -660,8 +660,8 @@ _total_: 117,000 km (2018)<br>
 6 km (2012) (the 6-km-long Corinth Canal crosses the Isthmus of Corinth; it shortens a sea voyage by 325 km)<br>
 
 **Merchant marine**<br>
-_total_: 1,234<br>
-_by type_: bulk carrier 146, container ship 5, general cargo 83, oil tanker 311, other 689 (2022)<br>
+_total_: 1,234 (2022)<br>
+_by type_: bulk carrier 146, container ship 5, general cargo 83, oil tanker 311, other 689<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Aspropyrgos, Pachi, Piraeus, Thessaloniki<br>
@@ -683,7 +683,7 @@ Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National G
 2.5% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 125,000 active duty personnel (90,000 Army; 15,000 Navy; 20,000 Air Force); approximately 35,000 National Guard (2022)<br>
+approximately 120,000 active-duty personnel (85,000 Army; 15,000 Navy; 20,000 Air Force); approximately 35,000 National Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of a mix of imported weapons from Europe and the US, as well as a limited number of domestically produced systems; in recent years, France, Germany, and the US have been the top suppliers; Greece's defense industry is capable of producing a range of military hardware, including naval vessels and associated subsystems (2023)<br>
@@ -722,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 25,050 (Ukraine) (as of 30 June 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,264,621 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
+<strong>note:</strong> 1,266,725 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

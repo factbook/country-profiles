@@ -112,9 +112,9 @@ _elderly dependency ratio_: 32.3<br>
 _potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 41.1 years<br>
+_total_: 41.1 years (2020)<br>
 _male_: 40.1 years<br>
-_female_: 42.1 years (2020 est.)<br>
+_female_: 42.1 years<br>
 
 **Population growth rate**<br>
 0.51% (2023 est.)<br>
@@ -152,14 +152,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.28 deaths/1,000 live births<br>
+_total_: 2.28 deaths/1,000 live births (2023 est.)<br>
 _male_: 2.5 deaths/1,000 live births<br>
-_female_: 2.05 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.05 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.8 years<br>
+_total population_: 82.8 years (2023 est.)<br>
 _male_: 81.05 years<br>
-_female_: 84.66 years (2023 est.)<br>
+_female_: 84.66 years<br>
 
 **Total fertility rate**<br>
 1.67 children born/woman (2023 est.)<br>
@@ -231,9 +231,9 @@ _male_: 18 years<br>
 _female_: 21 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.5%<br>
+_total_: 24.5% (2021 est.)<br>
 _male_: 26.1%<br>
-_female_: 23% (2021 est.)<br>
+_female_: 23%<br>
 
 ## Environment
 
@@ -458,9 +458,9 @@ _services_: 86% (2014 est.)<br>
 6.83% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.5%<br>
+_total_: 24.5% (2021 est.)<br>
 _male_: 26.1%<br>
-_female_: 23% (2021 est.)<br>
+_female_: 23%<br>
 
 **Population below poverty line**<br>
 17.1% (2018 est.)<br>
@@ -681,8 +681,8 @@ _unpaved_: 433,034 km (2016)<br>
 2,052 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 368<br>
-_by type_: general cargo 46, oil tanker 21, other 301 (2022)<br>
+_total_: 368 (2022)<br>
+_by type_: general cargo 46, oil tanker 21, other 301<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, Stockholm, Trelleborg, Visby<br>

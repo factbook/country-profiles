@@ -113,9 +113,9 @@ _elderly dependency ratio_: 5.4<br>
 _potential support ratio_: 18.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.7 years<br>
+_total_: 19.7 years (2020)<br>
 _male_: 18.9 years<br>
-_female_: 20.4 years (2020 est.)<br>
+_female_: 20.4 years<br>
 
 **Population growth rate**<br>
 1.68% (2023 est.)<br>
@@ -154,14 +154,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 259 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 25.64 deaths/1,000 live births<br>
+_total_: 25.64 deaths/1,000 live births (2023 est.)<br>
 _male_: 28.08 deaths/1,000 live births<br>
-_female_: 23.13 deaths/1,000 live births (2023 est.)<br>
+_female_: 23.13 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 66.21 years<br>
+_total population_: 66.21 years (2023 est.)<br>
 _male_: 64.23 years<br>
-_female_: 68.24 years (2023 est.)<br>
+_female_: 68.24 years<br>
 
 **Total fertility rate**<br>
 3.23 children born/woman (2023 est.)<br>
@@ -239,9 +239,9 @@ _male_: 11 years<br>
 _female_: 11 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 2.9%<br>
+_total_: 2.9% (2021 est.)<br>
 _male_: 2.2%<br>
-_female_: 3.6% (2021 est.)<br>
+_female_: 3.6%<br>
 
 ## Environment
 
@@ -467,9 +467,9 @@ _services_: 18% (2012 est.)<br>
 1.1% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 2.9%<br>
+_total_: 2.9% (2021 est.)<br>
 _male_: 2.2%<br>
-_female_: 3.6% (2021 est.)<br>
+_female_: 3.6%<br>
 
 **Population below poverty line**<br>
 38.2% (2016 est.)<br>
@@ -710,6 +710,6 @@ has a small program focused on developing and utilizing space technologies, such
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 79,569 (Democratic Republic of the Congo), 48,133 (Burundi) (2023)<br>
+_refugees (country of origin)_: 80,668 (Democratic Republic of the Congo), 48,133 (Burundi) (2023)<br>
 _stateless persons_: 9,500 (2022)<br>
 

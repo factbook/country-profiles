@@ -100,9 +100,9 @@ _elderly dependency ratio_: 34<br>
 _potential support ratio_: 3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 41.8 years<br>
+_total_: 41.8 years (2020)<br>
 _male_: 40.6 years<br>
-_female_: 42.8 years (2020 est.)<br>
+_female_: 42.8 years<br>
 
 **Population growth rate**<br>
 -0.49% (2023 est.)<br>
@@ -134,14 +134,14 @@ _65 years and over_: 0.81 male(s)/female<br>
 _total population_: 0.9 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.49 deaths/1,000 live births<br>
+_total_: 7.49 deaths/1,000 live births (2023 est.)<br>
 _male_: 8.48 deaths/1,000 live births<br>
-_female_: 6.44 deaths/1,000 live births (2023 est.)<br>
+_female_: 6.44 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.49 years<br>
+_total population_: 80.49 years (2023 est.)<br>
 _male_: 77.32 years<br>
-_female_: 83.85 years (2023 est.)<br>
+_female_: 83.85 years<br>
 
 **Total fertility rate**<br>
 1.98 children born/woman (2023 est.)<br>
@@ -189,9 +189,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27%<br>
+_total_: 27% (2021 est.)<br>
 _male_: 24.1%<br>
-_female_: 37.3% (2021 est.)<br>
+_female_: 37.3%<br>
 
 ## Environment
 
@@ -364,9 +364,9 @@ _services_: 80% (2003 est.)<br>
 12.47% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27%<br>
+_total_: 27% (2021 est.)<br>
 _male_: 24.1%<br>
-_female_: 37.3% (2021 est.)<br>
+_female_: 37.3%<br>
 
 **Population below poverty line**<br>
 28.9% (2002 est.)<br>
@@ -507,8 +507,8 @@ _percent of population_: 64.8% (2022 est.)<br>
 _total_: 1,260 km (2008)<br>
 
 **Merchant marine**<br>
-_total_: 1,868<br>
-_by type_: bulk carrier 91, container ship 39, general cargo 1,205, oil tanker 118, other 415 (2019)<br>
+_total_: 1,868 (2019)<br>
+_by type_: bulk carrier 91, container ship 39, general cargo 1,205, oil tanker 118, other 415<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Charlotte Amalie, Christiansted, Cruz Bay, Frederiksted, Limetree Bay<br>

@@ -101,9 +101,9 @@ _elderly dependency ratio_: 14.1<br>
 _potential support ratio_: 7.1 (2021)<br>
 
 **Median age**<br>
-_total_: 35.7 years<br>
+_total_: 35.7 years (2020)<br>
 _male_: 33.7 years<br>
-_female_: 37.6 years (2020 est.)<br>
+_female_: 37.6 years<br>
 
 **Population growth rate**<br>
 1.77% (2023 est.)<br>
@@ -135,14 +135,14 @@ _65 years and over_: 0.96 male(s)/female<br>
 _total population_: 0.89 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.02 deaths/1,000 live births<br>
+_total_: 3.02 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.94 deaths/1,000 live births<br>
-_female_: 2.08 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.08 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.41 years<br>
+_total population_: 82.41 years (2023 est.)<br>
 _male_: 79.81 years<br>
-_female_: 85.08 years (2023 est.)<br>
+_female_: 85.08 years<br>
 
 **Total fertility rate**<br>
 1.72 children born/woman (2023 est.)<br>
@@ -461,8 +461,8 @@ _paved_: 82 km (2004)<br>
 _unpaved_: 93 km (2004)<br>
 
 **Merchant marine**<br>
-_total_: 2<br>
-_by type_: other 2 (2022)<br>
+_total_: 2 (2022)<br>
+_by type_: other 2<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Blowing Point, Road Bay<br>

@@ -101,9 +101,9 @@ _elderly dependency ratio_: 6<br>
 _potential support ratio_: 16.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 23.5 years<br>
+_total_: 23.5 years (2020)<br>
 _male_: 23.2 years<br>
-_female_: 23.7 years (2020 est.)<br>
+_female_: 23.7 years<br>
 
 **Population growth rate**<br>
 1.69% (2023 est.)<br>
@@ -142,14 +142,14 @@ _total population_: 1.04 male(s)/female (2023 est.)<br>
 122 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.53 deaths/1,000 live births<br>
+_total_: 19.53 deaths/1,000 live births (2023 est.)<br>
 _male_: 23.3 deaths/1,000 live births<br>
-_female_: 15.58 deaths/1,000 live births (2023 est.)<br>
+_female_: 15.58 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.96 years<br>
+_total population_: 76.96 years (2023 est.)<br>
 _male_: 74.32 years<br>
-_female_: 79.73 years (2023 est.)<br>
+_female_: 79.73 years<br>
 
 **Total fertility rate**<br>
 2.82 children born/woman (2023 est.)<br>
@@ -215,9 +215,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.9%<br>
+_total_: 1.9% (2021 est.)<br>
 _male_: 1.6%<br>
-_female_: 2.3% (2021 est.)<br>
+_female_: 2.3%<br>
 
 ## Environment
 
@@ -427,9 +427,9 @@ _services_: 20% (2000 est.)<br>
 NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.9%<br>
+_total_: 1.9% (2021 est.)<br>
 _male_: 1.6%<br>
-_female_: 2.3% (2021 est.)<br>
+_female_: 2.3%<br>
 
 **Population below poverty line**<br>
 12.7% (2012 est.)<br>
@@ -627,8 +627,8 @@ _unpaved_: 1,356 km (2011)<br>
 <strong>note:</strong> includes 920 km of private plantation roads<br>
 
 **Merchant marine**<br>
-_total_: 27<br>
-_by type_: general cargo 9, oil tanker 1, other 17 (2022)<br>
+_total_: 27 (2022)<br>
+_by type_: general cargo 9, oil tanker 1, other 17<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Honiara, Malloco Bay, Viru Harbor, Tulagi<br>

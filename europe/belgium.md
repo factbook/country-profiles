@@ -107,9 +107,9 @@ _elderly dependency ratio_: 30.4<br>
 _potential support ratio_: 3.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 41.6 years<br>
+_total_: 41.6 years (2020)<br>
 _male_: 40.4 years<br>
-_female_: 42.8 years (2020 est.)<br>
+_female_: 42.8 years<br>
 
 **Population growth rate**<br>
 0.55% (2023 est.)<br>
@@ -147,14 +147,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.15 deaths/1,000 live births<br>
+_total_: 3.15 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.58 deaths/1,000 live births<br>
-_female_: 2.69 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.69 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.06 years<br>
+_total population_: 82.06 years (2023 est.)<br>
 _male_: 79.47 years<br>
-_female_: 84.79 years (2023 est.)<br>
+_female_: 84.79 years<br>
 
 **Total fertility rate**<br>
 1.77 children born/woman (2023 est.)<br>
@@ -225,9 +225,9 @@ _male_: 18 years<br>
 _female_: 20 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.6%<br>
+_total_: 19.6% (2021 est.)<br>
 _male_: 18.9%<br>
-_female_: 20.4% (2021 est.)<br>
+_female_: 20.4%<br>
 
 ## Environment
 
@@ -454,9 +454,9 @@ _services_: 80.1% (2013 est.)<br>
 5.36% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.6%<br>
+_total_: 19.6% (2021 est.)<br>
 _male_: 18.9%<br>
-_female_: 20.4% (2021 est.)<br>
+_female_: 20.4%<br>
 
 **Population below poverty line**<br>
 14.8% (2018 est.)<br>
@@ -678,8 +678,8 @@ _paved_: 118,414 km (2015) (includes 1,747 km of expressways)<br>
 2,043 km (2012) (1,528 km in regular commercial use)<br>
 
 **Merchant marine**<br>
-_total_: 199<br>
-_by type_: bulk carrier 18, container ship 3, general cargo 15, oil tanker 23, other 140 (2022)<br>
+_total_: 199 (2022)<br>
+_by type_: bulk carrier 18, container ship 3, general cargo 15, oil tanker 23, other 140<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Oostende, Zeebrugge<br>

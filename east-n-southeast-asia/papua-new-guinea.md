@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Papua New Guinea (PNG) was first settled between 50,000 and 60,000 years ago. PNG’s harsh geography consisting of mountains, jungles, and numerous river valleys, kept many of the arriving groups isolated, giving rise to PNG’s incredible ethnic and linguistic diversity. Agriculture was independently developed by some of these groups. Around 500 B.C., Austronesian voyagers settled along the coast. Spanish and Portuguese explorers periodically visited the island starting in the 1500s, but none made it into the country’s interior. American and British whaling ships frequented the islands off the coast of New Guinea in the mid-1800s. In 1884, Germany declared a protectorate - and eventually a colony - over the northern part of what would become PNG and named it German New Guinea; days later the UK followed suit on the southern part and nearby islands and called it Papua. Most of their focus was on the coastal regions, leaving the highlands largely unexplored.<br><br>The UK put its colony under Australian administration in 1902 and formalized the act in 1906. At the outbreak of World War I, Australia occupied German New Guinea and continued to rule it after the war as a League of Nations Mandate. The discovery of gold along the Bulolo River in the 1920s led prospectors to venture into the highlands, where they found about 1 million people living in isolated communities. Japan invaded New Guinea in 1941 and reached Papua the following year. Allied victories during the New Guinea campaign pushed out the Japanese, and after the end of the war, Australia combined the two territories into one administration. Sir Michael SOMARE won elections in 1972 on the promise of achieving independence, which was realized in 1975. <br><br>A secessionist movement in Bougainville, an island well endowed in copper and gold resources, reignited in 1988 with debates about land use, profits, and an influx of outsiders at the Panguna Copper Mine. Following elections in 1992, the PNG Government took a hardline stance against Bougainville rebels and the resulting civil war led to about 20,000 deaths. In 1997, the PNG Government hired mercenaries to support its troops in Bougainville, sparking an army mutiny and forcing the prime minister to resign. PNG and Bougainville signed a truce in 1997 and a peace agreement in 2001, which granted Bougainville autonomy. An internationally-monitored nonbinding referendum asking Bougainvilleans to chose independence or greater self-rule occurred in November 2019, with 98% of voters opting for independence. However, the PNG Government and Bougainville officials remain in negotiations about the status of the island.</p><br>
+<p>Papua New Guinea (PNG) was first settled between 50,000 and 60,000 years ago. PNG’s harsh geography consisting of mountains, jungles, and numerous river valleys, kept many of the arriving groups isolated, giving rise to PNG’s significant ethnic and linguistic diversity. Agriculture was independently developed by some of these groups. Around 500 B.C., Austronesian voyagers settled along the coast. Spanish and Portuguese explorers periodically visited the island starting in the 1500s, but none made it into the country’s interior. American and British whaling ships frequented the islands off the coast of New Guinea in the mid-1800s. In 1884, Germany declared a protectorate - and eventually a colony - over the northern part of what would become PNG and named it German New Guinea; days later the UK followed suit on the southern part and nearby islands and called it Papua. Most of their focus was on the coastal regions, leaving the highlands largely unexplored.<br><br>The UK put its colony under Australian administration in 1902 and formalized the act in 1906. At the outbreak of World War I, Australia occupied German New Guinea and continued to rule it after the war as a League of Nations Mandate. The discovery of gold along the Bulolo River in the 1920s led prospectors to venture into the highlands, where they found about 1 million people living in isolated communities. Japan invaded New Guinea in 1941 and reached Papua the following year. Allied victories during the New Guinea campaign pushed out the Japanese, and after the end of the war, Australia combined the two territories into one administration. Sir Michael SOMARE won elections in 1972 on the promise of achieving independence, which was realized in 1975. <br><br>A secessionist movement in Bougainville, an island well endowed in copper and gold resources, reignited in 1988 with debates about land use, profits, and an influx of outsiders at the Panguna Copper Mine. Following elections in 1992, the PNG Government took a hardline stance against Bougainville rebels and the resulting civil war led to about 20,000 deaths. In 1997, the PNG Government hired mercenaries to support its troops in Bougainville, sparking an army mutiny and forcing the prime minister to resign. PNG and Bougainville signed a truce in 1997 and a peace agreement in 2001, which granted Bougainville autonomy. An internationally-monitored nonbinding referendum asking Bougainvilleans to chose independence or greater self-rule occurred in November 2019, with 98% of voters opting for independence. However, the PNG Government and Bougainville officials remain in negotiations about the status of the island.</p><br>
 
 ## Geography
 
@@ -108,9 +108,9 @@ _elderly dependency ratio_: 5<br>
 _potential support ratio_: 20.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24 years<br>
+_total_: 24 years (2020)<br>
 _male_: 24 years<br>
-_female_: 24 years (2020 est.)<br>
+_female_: 24 years<br>
 
 **Population growth rate**<br>
 2.31% (2023 est.)<br>
@@ -149,14 +149,14 @@ _total population_: 1.03 male(s)/female (2023 est.)<br>
 192 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.81 deaths/1,000 live births<br>
+_total_: 32.81 deaths/1,000 live births (2023 est.)<br>
 _male_: 36.11 deaths/1,000 live births<br>
-_female_: 29.34 deaths/1,000 live births (2023 est.)<br>
+_female_: 29.34 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.74 years<br>
+_total population_: 69.74 years (2023 est.)<br>
 _male_: 68.04 years<br>
-_female_: 71.52 years (2023 est.)<br>
+_female_: 71.52 years<br>
 
 **Total fertility rate**<br>
 3.85 children born/woman (2023 est.)<br>
@@ -227,9 +227,9 @@ _male_: 65.6%<br>
 _female_: 62.8% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.3%<br>
+_total_: 5.3% (2021 est.)<br>
 _male_: 6.3%<br>
-_female_: 4.2% (2021 est.)<br>
+_female_: 4.2%<br>
 
 **People - note**<br>
 the indigenous population of Papua New Guinea (PNG) is one of the most heterogeneous in the world; PNG has several thousand separate communities, most with only a few hundred people; divided by language, customs, and tradition, some of these communities have engaged in low-scale tribal conflict with their neighbors for millennia; the advent of modern weapons and modern migrants into urban areas has greatly magnified the impact of this lawlessness<br>
@@ -364,7 +364,7 @@ _FAX_: [1] (202) 745-3679<br>
 _email address and website_: <br>info@pngembassy.org<br><br>http://www.pngembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Katherine Elizabeth MONAHAN (since 26 September 2023); note - also accredited to the Solomon Islands and Vanuatu<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Katherine Elizabeth "Kemy" MONAHAN (since 26 September 2023); note - also accredited to the Solomon Islands and Vanuatu<br>
 _embassy_: Harbour City Road, Port Moresby 121, NCD, Papua New Guinea<br>
 _mailing address_: Harbour City Road, Port Moresby 121, NCD, Papua New Guinea<br>
 _telephone_: [675] 308-2100<br>
@@ -456,9 +456,9 @@ _services_: NA<br>
 2.45% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.3%<br>
+_total_: 5.3% (2021 est.)<br>
 _male_: 6.3%<br>
-_female_: 4.2% (2021 est.)<br>
+_female_: 4.2%<br>
 
 **Population below poverty line**<br>
 37% (2002 est.)<br>
@@ -662,8 +662,8 @@ _unpaved_: 6,349 km (2011)<br>
 11,000 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 199<br>
-_by type_: container ship 6, general cargo 87, oil tanker 3, other 103 (2022)<br>
+_total_: 199 (2022)<br>
+_by type_: container ship 6, general cargo 87, oil tanker 3, other 103<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kimbe, Lae, Madang, Rabaul, Wewak<br>
@@ -678,8 +678,8 @@ Papua New Guinea Defense Force (PNGDF): Land Element, Maritime Element, Air Elem
 0.3% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
 0.4% of GDP (2020 est.)<br>
-0.3% of GDP (2019) (approximately $100 million)<br>
-0.3% of GDP (2018) (approximately $100 million)<br>
+0.3% of GDP (2019 est.)<br>
+0.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,500 active-duty PNGDF troops (2023)<br>
@@ -691,7 +691,7 @@ the PNGDF is lightly armed; most of its military assistance has come from Austra
 18-27 for voluntary military service for men and women; no conscription (2023)<br>
 
 **Military - note**<br>
-the PNGDF is a small, lightly armed, and underfunded force tasked with defense of the country and its territories against external attack, as well as internal security and socio-economic development duties; the Land Element includes two infantry battalions, an engineer battalion, a signal squadron, an explosive ordnance disposal unit, and a preventive medicine platoon; the Air Element is a small air wing operating a light transport aircraft and two leased helicopters while the Maritime Element consists of four patrol boats and two landing craft<br><br>the PNGDF was established in 1973, and its primary combat unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until Papua New Guinea gained its independence in 1975, when it became part of the PNGDF<br><br>Papua New Guinea's traditional security partners are Australia, Indonesia, New Zealand, and the US; Australia and the US are assisting the country with expanding and improving the Defense Force naval base at Lombrum on Manus Island; the US first established a Lombrum base in 1944 during World War II; in recent years, Papua New Guinea has established security ties with France and the UK; the US and PNG signed a defense cooperation agreement in May 2023, which included a shiprider agreement that provides the opportunity for PNG personnel to work on US Coast Guard and US Navy vessels, and vice versa, to tackle maritime crime such as illegal fishing (2023)<br>
+the PNGDF is a small and lightly armed force tasked with defense of the country and its territories against external attack, as well as internal security and socio-economic development duties; the Land Element includes two infantry battalions, plus small supporting engineer, communications, explosive ordnance disposal, and medical forces; the Air Element is a small air wing operating a light transport aircraft and two leased helicopters, while the Maritime Element consists of a few patrol boats and landing craft<br><br>the PNGDF was established in 1973, and its primary combat unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until Papua New Guinea gained its independence in 1975, when it became part of the PNGDF<br><br>Papua New Guinea's traditional security partners are Australia, Indonesia, New Zealand, and the US; Australia and the US are assisting the country with expanding and improving the Defense Force naval base at Lombrum on Manus Island; the US first established a Lombrum base in 1944 during World War II; in recent years, Papua New Guinea has established security ties with France and the UK; the US and PNG signed a defense cooperation agreement in May 2023, which included a shiprider agreement that provides the opportunity for PNG personnel to work on US Coast Guard and US Navy vessels, and vice versa, to tackle maritime crime such as illegal fishing (2023)<br>
 
 ## Transnational Issues
 

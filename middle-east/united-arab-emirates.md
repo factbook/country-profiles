@@ -107,9 +107,9 @@ _elderly dependency ratio_: 2.1<br>
 _potential support ratio_: 47.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 38.4 years<br>
+_total_: 38.4 years (2020)<br>
 _male_: 40.4 years<br>
-_female_: 31.5 years (2020 est.)<br>
+_female_: 31.5 years<br>
 
 **Population growth rate**<br>
 0.58% (2023 est.)<br>
@@ -144,14 +144,14 @@ _total population_: 2.16 male(s)/female (2023 est.)<br>
 9 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.06 deaths/1,000 live births<br>
+_total_: 5.06 deaths/1,000 live births (2023 est.)<br>
 _male_: 5.63 deaths/1,000 live births<br>
-_female_: 4.45 deaths/1,000 live births (2023 est.)<br>
+_female_: 4.45 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.75 years<br>
+_total population_: 79.75 years (2023 est.)<br>
 _male_: 78.39 years<br>
-_female_: 81.2 years (2023 est.)<br>
+_female_: 81.2 years<br>
 
 **Total fertility rate**<br>
 1.62 children born/woman (2023 est.)<br>
@@ -218,9 +218,9 @@ _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.7%<br>
+_total_: 10.7% (2021 est.)<br>
 _male_: 7.9%<br>
-_female_: 19.9% (2021 est.)<br>
+_female_: 19.9%<br>
 
 ## Environment
 
@@ -351,7 +351,7 @@ _email address and website_: <br>info@uaeembassy-usa.org<br><br>https://www.uae-
 _consulate(s) general_: Boston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Martina A. STRONG (since January 2021)<br>
+_chief of mission_: Ambassador Martina A. STRONG (since 4 October 2023)<br>
 _embassy_: Embassies District, Plot 38, Sector W59-02, Street No. 4,&nbsp;Abu Dhabi<br>
 _mailing address_: 6010 Abu Dhabi Place, Washington DC 20521-6010<br>
 _telephone_: [971] (2) 414-2200<br>
@@ -446,9 +446,9 @@ _services_: 78% (2000 est.)<br>
 2.23% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.7%<br>
+_total_: 10.7% (2021 est.)<br>
 _male_: 7.9%<br>
-_female_: 19.9% (2021 est.)<br>
+_female_: 19.9%<br>
 
 **Population below poverty line**<br>
 19.5% (2003 est.)<br>
@@ -654,8 +654,8 @@ _total_: 4,080 km (2008)<br>
 _paved_: 4,080 km (2008) (includes 253 km of expressways)<br>
 
 **Merchant marine**<br>
-_total_: 636<br>
-_by type_: bulk carrier 2, container ship 3, general cargo 121, oil tanker 16, other 494 (2022)<br>
+_total_: 636 (2022)<br>
+_by type_: bulk carrier 2, container ship 3, general cargo 121, oil tanker 16, other 494<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor Fakkan (Khawr Fakkan) (Sharjah), Mubarraz Island (Abu Dhabi), Mina' Rashid (Dubai), Mina' Saqr (Ra's al Khaymah)<br>

@@ -111,9 +111,9 @@ _elderly dependency ratio_: 18.4<br>
 _potential support ratio_: 5.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 35.5 years<br>
+_total_: 35.5 years (2020)<br>
 _male_: 34.3 years<br>
-_female_: 36.7 years (2020 est.)<br>
+_female_: 36.7 years<br>
 
 **Population growth rate**<br>
 0.63% (2023 est.)<br>
@@ -148,14 +148,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 15 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.41 deaths/1,000 live births<br>
+_total_: 6.41 deaths/1,000 live births (2023 est.)<br>
 _male_: 6.98 deaths/1,000 live births<br>
-_female_: 5.82 deaths/1,000 live births (2023 est.)<br>
+_female_: 5.82 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.02 years<br>
+_total population_: 80.02 years (2023 est.)<br>
 _male_: 77.04 years<br>
-_female_: 83.13 years (2023 est.)<br>
+_female_: 83.13 years<br>
 
 **Total fertility rate**<br>
 1.75 children born/woman (2023 est.)<br>
@@ -227,9 +227,9 @@ _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.4%<br>
+_total_: 21.4% (2021 est.)<br>
 _male_: 20.4%<br>
-_female_: 22.8% (2021 est.)<br>
+_female_: 22.8%<br>
 
 ## Environment
 
@@ -458,9 +458,9 @@ _services_: 67.1% (2013)<br>
 7.29% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.4%<br>
+_total_: 21.4% (2021 est.)<br>
 _male_: 20.4%<br>
-_female_: 22.8% (2021 est.)<br>
+_female_: 22.8%<br>
 
 **Population below poverty line**<br>
 8.6% (2017 est.)<br>
@@ -665,8 +665,8 @@ _broad gauge_: 3,428 km (2014) 1.676-m gauge (1,691 km electrified)<br>
 _total_: 77,801 km (2016)<br>
 
 **Merchant marine**<br>
-_total_: 239<br>
-_by type_: bulk carrier 4, container ship 5, general cargo 64, oil tanker 14, other 152 (2022)<br>
+_total_: 239 (2022)<br>
+_by type_: bulk carrier 4, container ship 5, general cargo 64, oil tanker 14, other 152<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, Valparaiso<br>

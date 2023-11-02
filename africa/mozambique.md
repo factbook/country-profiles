@@ -113,9 +113,9 @@ _elderly dependency ratio_: 4.8<br>
 _potential support ratio_: 20.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 17 years<br>
+_total_: 17 years (2020)<br>
 _male_: 16.3 years<br>
-_female_: 17.6 years (2020 est.)<br>
+_female_: 17.6 years<br>
 
 **Population growth rate**<br>
 2.55% (2023 est.)<br>
@@ -154,14 +154,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 127 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 59.77 deaths/1,000 live births<br>
+_total_: 59.77 deaths/1,000 live births (2023 est.)<br>
 _male_: 61.72 deaths/1,000 live births<br>
-_female_: 57.76 deaths/1,000 live births (2023 est.)<br>
+_female_: 57.76 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 57.7 years<br>
+_total population_: 57.7 years (2023 est.)<br>
 _male_: 56.41 years<br>
-_female_: 59.03 years (2023 est.)<br>
+_female_: 59.03 years<br>
 
 **Total fertility rate**<br>
 4.74 children born/woman (2023 est.)<br>
@@ -221,7 +221,7 @@ _male_: 23% (2020 est.)<br>
 _female_: 5.6% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-15.6% (2014/15)<br>
+14.6% (2019/20)<br>
 
 **Currently married women (ages 15-49)**<br>
 63.7% (2023 est.)<br>
@@ -241,9 +241,9 @@ _male_: 10 years<br>
 _female_: 9 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.1%<br>
+_total_: 8.1% (2021 est.)<br>
 _male_: 8.1%<br>
-_female_: 8.2% (2021 est.)<br>
+_female_: 8.2%<br>
 
 ## Environment
 
@@ -478,9 +478,9 @@ _services_: 21.7% (2015 est.)<br>
 3.47% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.1%<br>
+_total_: 8.1% (2021 est.)<br>
 _male_: 8.1%<br>
-_female_: 8.2% (2021 est.)<br>
+_female_: 8.2%<br>
 
 **Population below poverty line**<br>
 46.1% (2014 est.)<br>
@@ -685,8 +685,8 @@ _unpaved_: 23,718 km (2015)<br>
 460 km (2010) (Zambezi River navigable to Tete and along Cahora Bassa Lake)<br>
 
 **Merchant marine**<br>
-_total_: 30<br>
-_by type_: general cargo 9, other 21 (2022)<br>
+_total_: 30 (2022)<br>
+_by type_: general cargo 9, other 21<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Beira, Maputo, Nacala<br>
@@ -730,7 +730,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 12,678 (Democratic Republic of Congo) (refugees and asylum seekers), 10,655 (Burundi) (refugees and asylum seekers) (2023)<br>
-_IDPs_: 875,972 (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2023)<br>
+_IDPs_: 834,304 (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Mozambique does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government increased investigations and prosecutions, trained law enforcement and front-line officials, published and disseminated draft standard operating procedures (SOPs) for victim referral and care and raising public awareness; officials convened government and civil society stakeholders and coordinated with neighboring governments; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; despite increased investigations, Mozambique did not report identifying any victims and lacked adequate procedures to screen vulnerable populations for trafficking; for the seventh consecutive year, the government failed to adopt its draft National Referral Mechanism and SOPs for care and referral of victims; Mozambique did not report providing financial or in-kind support to the civil society organizations that identify and assist victims; the lack of a formally adopted National Action Plan, including dedicated resources for preventing trafficking, reduced integration of anti-trafficking efforts; reports of low-level official complicity in trafficking crimes persisted; the government did not provide sufficient resources to victim protection services, relying on NGOs and international organizations to provide the majority of services to victims; the government lacked effective policies or laws to regulate foreign labor recruiters and hold them liable for fraudulent recruiting; therefore, Mozambique was downgraded to Tier 2 Watch List (2023)<br>

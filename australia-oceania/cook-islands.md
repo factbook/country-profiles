@@ -102,9 +102,9 @@ _elderly dependency ratio_: 17.4<br>
 _potential support ratio_: 5.8 (2021)<br>
 
 **Median age**<br>
-_total_: 38.3 years<br>
+_total_: 38.3 years (2020)<br>
 _male_: 37.8 years<br>
-_female_: 38.7 years (2020 est.)<br>
+_female_: 38.7 years<br>
 
 **Population growth rate**<br>
 -2.31% (2023 est.)<br>
@@ -133,14 +133,14 @@ _65 years and over_: 0.96 male(s)/female<br>
 _total population_: 1.05 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.53 deaths/1,000 live births<br>
+_total_: 15.53 deaths/1,000 live births (2023 est.)<br>
 _male_: 19.52 deaths/1,000 live births<br>
-_female_: 11.34 deaths/1,000 live births (2023 est.)<br>
+_female_: 11.34 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.39 years<br>
+_total population_: 77.39 years (2023 est.)<br>
 _male_: 74.58 years<br>
-_female_: 80.34 years (2023 est.)<br>
+_female_: 80.34 years<br>
 
 **Total fertility rate**<br>
 2.04 children born/woman (2023 est.)<br>
@@ -542,8 +542,8 @@ _paved_: 207 km (2018)<br>
 _unpaved_: 88 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 189<br>
-_by type_: bulk carrier 20, general cargo 53, oil tanker 51, other 65 (2022)<br>
+_total_: 189 (2022)<br>
+_by type_: bulk carrier 20, general cargo 53, oil tanker 51, other 65<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Avatiu<br>

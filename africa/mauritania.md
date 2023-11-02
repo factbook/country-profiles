@@ -116,9 +116,9 @@ _elderly dependency ratio_: 6<br>
 _potential support ratio_: 16.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21 years<br>
+_total_: 21 years (2020)<br>
 _male_: 20.1 years<br>
-_female_: 22 years (2020 est.)<br>
+_female_: 22 years<br>
 
 **Population growth rate**<br>
 1.96% (2023 est.)<br>
@@ -157,14 +157,14 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 465 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 49.95 deaths/1,000 live births<br>
+_total_: 49.95 deaths/1,000 live births (2023 est.)<br>
 _male_: 55.84 deaths/1,000 live births<br>
-_female_: 43.89 deaths/1,000 live births (2023 est.)<br>
+_female_: 43.89 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.57 years<br>
+_total population_: 65.57 years (2023 est.)<br>
 _male_: 63.1 years<br>
-_female_: 68.12 years (2023 est.)<br>
+_female_: 68.12 years<br>
 
 **Total fertility rate**<br>
 3.46 children born/woman (2023 est.)<br>
@@ -245,9 +245,9 @@ _male_: 8 years<br>
 _female_: 9 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23%<br>
+_total_: 23% (2021 est.)<br>
 _male_: 20.8%<br>
-_female_: 27.9% (2021 est.)<br>
+_female_: 27.9%<br>
 
 ## Environment
 
@@ -374,7 +374,7 @@ _judge selection and term of office_: Supreme Court president appointed by the p
 _subordinate courts_: Courts of Appeal; courts of first instance or wilya courts are established in the regions' headquarters and include commercial and labor courts, criminal courts, Moughataa (district) Courts, and informal/customary courts<br>
 
 **Political parties and leaders**<br>
-Alliance for Justice and Democracy/Movement for Renewal or AJD/MR [Ibrahima Moctar SARR]<br>El Insaf or Equity Party [Mohamed Melainine Ould EYIH]<br>El Islah Party [Mohamed Ould TALEBNA]<br>El Karama Party [Cheikhna Ould Mohamed Ould HAJBOU]<br>El Vadila [Ethmane Ould Cheikh Ahmed Eboul MEALY]<br>FRUD (Republican Front for Unity and Democracy) [Kadiata Malick DIALLO]<br>Mauritanian Party of Union and Change (HATEM) [Saleh Ould HANENNA]<br>National Democratic Alliance or AND [Yacoub Ould MOINE]<br>National Rally for Reform and Development or RNRD or TAWASSOUL [Hamadi Ould Sidi MOKHTAR]<br>Nida El-Watan [Daoud Ould Ahmed AICHA]<br>Party for Conciliation and Prosperity or HIWAR [Valle Mint Mini]<br>Party of the Mauritanian Masses (Hakam) [El Khalil Ould ENNAHOUI]<br>Sawab Party [Ahmed Salem Ould HORMA]<br>Union for Democracy and Progress or UDP [Naha Mint MOUKNASS]<br>Union of Planning and Construction (UPC) [Qari Ould Mohamed ABDALLAHI]<br>
+Alliance for Justice and Democracy/Movement for Renewal or AJD/MR [Ibrahima Moctar SARR]<br>El Insaf or Equity Party [Mohamed Melainine Ould EYIH]<br>El Islah Party [Mohamed Ould TALEBNA]<br>El Karama Party [Cheikhna Ould Mohamed Ould HAJBOU]<br>El Vadila [Ethmane Ould Cheikh Ahmed Eboul MEALY]<br>FRUD (Republican Front for Unity and Democracy) [Kadiata Malick DIALLO]<br>Mauritanian Party of Union and Change (HATEM) [Saleh Ould HANENNA]<br>National Democratic Alliance or AND [Yacoub Ould MOINE]<br>National Rally for Reform and Development or RNRD or TAWASSOUL [Hamadi Ould Sidi MOKHTAR]<br>Nida El-Watan [Daoud Ould Ahmed AICHA]<br>Party for Conciliation and Prosperity or HIWAR [Valle Mint Mini]<br>Party of the Mauritanian Masses (Hakam) [El Khalil Ould ENNAHOUI]<br>Sawab Party [Ahmed Salem Ould HORMA]<br>Union for Democracy and Progress or UDP [Naha Mint MOUKNASS]<br>Union of Planning and Construction (UPC) [Qari Ould Mohamed ABDALLAHI]<br><br><strong>note</strong>: only parties with seats in the National Assembly listed<br>
 
 **International organization participation**<br>
 ABEDA, ACP, AfDB, AFESD, AMF, AMU, AU, CAEU, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAS, MIGA, MIUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -476,9 +476,9 @@ _services_: 48.1% (2014 est.)<br>
 10.39% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23%<br>
+_total_: 23% (2021 est.)<br>
 _male_: 20.8%<br>
-_female_: 27.9% (2021 est.)<br>
+_female_: 27.9%<br>
 
 **Population below poverty line**<br>
 31% (2014 est.)<br>
@@ -678,8 +678,8 @@ _unpaved_: 8,265 km (2018)<br>
 1,086 km (2022) (some navigation possible on the Senegal River)<br>
 
 **Merchant marine**<br>
-_total_: 11<br>
-_by type_: general cargo 2, other 9 (2022)<br>
+_total_: 11 (2022)<br>
+_by type_: general cargo 2, other 9<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Nouadhibou, Nouakchott<br>

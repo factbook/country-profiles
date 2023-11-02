@@ -5,7 +5,7 @@ _Australia-Oceania / Dependencies (United States)_
 ## Introduction
 
 **Background**<br>
-<p>Tutuila was settled by 1000 B.C. and the island served as a refuge for exiled chiefs and defeated warriors from the other Samoan islands. The Manu’a Islands developed its own traditional chiefdom that maintained its autonomy by controlling oceanic trade. In 1722, Dutch explorer Jacob ROGGEVEEN was the first European to sail through the Manu’a Islands, and he was followed by French explorer Louis Antoine DE BOUGAINVILLE in 1768. Whalers and missionaries arrived in American Samoa in the 1830s, but American and European traders tended to favor the port in Apia - now in independent Samoa - over the smaller and less-developed Pago Pago on Tutuila. In the mid-1800s, a dispute arose in Samoa over control of the Samoan archipelago, with different chiefs gaining support from Germany, the UK, and the US. In 1872, the high chief of Tutuila offered the US exclusive rights to Pago Pago in return for US protection, but the US rejected this offer. As fighting resumed, the US agreed to the chief’s request in 1878 and set up a coaling station at Pago Pago. In 1899, with continued disputes over succession, Germany and the US agreed to divide the Samoan islands, while the UK withdrew its claims in exchange for parts of the Solomon Islands. Local chiefs on Tutuila formally ceded their land to the US in 1900, followed by the chief of Manu’a in 1904. The territory was officially named “American Samoa” in 1911.<br><br>The US administered the territory through the Department of the Navy, and in 1918, the naval governor instituted strict quarantine rules to prevent the spread of the Spanish flu, allowing American Samoa to avoid the deadly infection that ravaged the then-New Zealand administered territory of Samoa. In 1949, there was an attempt to organize the territory, granting it formal self-government, but local chiefs helped defeat the measure in the US Congress. Administration was transferred to the Department of the Interior in 1951, and in 1967, American Samoa adopted a constitution that provides significant protections for traditional Samoan land tenure rules, language, and culture. In 1977, after four attempts, voters approved a measure to directly elect their governor. Nevertheless, American Samoa officially remains an unorganized territory and people born in American Samoa are US nationals instead of US citizens, a status many American Samoans prefer.</p> <p style="margin: 0in; margin-bottom: .0001pt; line-height: 18.0pt; background: white;"> </p><br>
+<p>Tutuila was settled by 1000 B.C. and the island served as a refuge for exiled chiefs and defeated warriors from the other Samoan islands. The Manu’a Islands developed its own traditional chiefdom that maintained its autonomy by controlling oceanic trade. In 1722, Dutch explorer Jacob ROGGEVEEN was the first European to sail through the Manu’a Islands, and he was followed by French explorer Louis Antoine DE BOUGAINVILLE in 1768. Whalers and missionaries arrived in American Samoa in the 1830s, but American and European traders tended to favor the port in Apia - now in independent Samoa - over the smaller and less-developed Pago Pago on Tutuila. In the mid-1800s, a dispute arose in Samoa over control of the Samoan archipelago, with different chiefs gaining support from Germany, the UK, and the US. In 1872, the high chief of Tutuila offered the US exclusive rights to Pago Pago in return for US protection, but the US rejected this offer. As fighting resumed, the US agreed to the chief’s request in 1878 and set up a coaling station at Pago Pago. In 1899, with continued disputes over succession, Germany and the US agreed to divide the Samoan islands, while the UK withdrew its claims in exchange for parts of the Solomon Islands. Local chiefs on Tutuila formally ceded their land to the US in 1900, followed by the chief of Manu’a in 1904. The territory was officially named “American Samoa” in 1911.<br><br>The US administered the territory through the Department of the Navy. In 1949, there was an attempt to organize the territory, granting it formal self-government, but local chiefs helped defeat the measure in the US Congress. Administration was transferred to the Department of the Interior in 1951, and in 1967, American Samoa adopted a constitution that provides significant protections for traditional Samoan land tenure rules, language, and culture. In 1977, after four attempts, voters approved a measure to directly elect their governor. Nevertheless, American Samoa officially remains an unorganized territory and people born in American Samoa are US nationals instead of US citizens, a status many American Samoans prefer.</p> <p style="margin: 0in; margin-bottom: .0001pt; line-height: 18.0pt; background: white;"> </p><br>
 
 ## Geography
 
@@ -99,9 +99,9 @@ _elderly dependency ratio_: 10.4<br>
 _potential support ratio_: 9.6 (2021)<br>
 
 **Median age**<br>
-_total_: 27.2 years<br>
+_total_: 27.2 years (2020)<br>
 _male_: 26.7 years<br>
-_female_: 27.7 years (2020 est.)<br>
+_female_: 27.7 years<br>
 
 **Population growth rate**<br>
 -1.74% (2023 est.)<br>
@@ -130,14 +130,14 @@ _65 years and over_: 0.88 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.87 deaths/1,000 live births<br>
+_total_: 9.87 deaths/1,000 live births (2023 est.)<br>
 _male_: 11.9 deaths/1,000 live births<br>
-_female_: 7.72 deaths/1,000 live births (2023 est.)<br>
+_female_: 7.72 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.58 years<br>
+_total population_: 75.58 years (2023 est.)<br>
 _male_: 73.1 years<br>
-_female_: 78.22 years (2023 est.)<br>
+_female_: 78.22 years<br>
 
 **Total fertility rate**<br>
 2.13 children born/woman (2023 est.)<br>
@@ -265,8 +265,8 @@ _election results_: <br>Lemanu Peleti MAUGA elected governor in first round; per
 
 **Legislative branch**<br>
 _description_: bicameral Legislature or Fono consists of:<br>Senate (18 seats; members indirectly selected by regional governing councils to serve 4-year terms)<br>House of Representatives (21 seats; 20 members in single- and multi-seat constituencies directly elected by simple majority popular vote and 1 decided by public meeting on Swains Island; members serve 2-year terms)<br>
-_elections_: <br>Senate - last held on 3 November 2020 (next to be held in November 2024)<br>House of Representatives - last held on 3 November 2020 (next to be held in November 2024)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - independent 18; composition - men 17, women 1; percent of women 5.6%<br>House of Representatives - percent of vote by party - NA; seats by party - NA; composition - men 20, women 1; percent of women 4.8%; note total Legislature percent of women 5.1%<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>5<br>
+_elections_: Senate - last held on 3 November 2020 (next to be held in November 2024)<br>House of Representatives - last held on 3 November 2020 (next to be held in November 2024)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - independent 18; composition - men 17, women 1; percent of women 5.6%<br>House of Representatives - percent of vote by party - NA; seats by party - NA; composition - men 20, women 1; percent of women 4.8%; note total Legislature percent of women 5.1%<br>
 <strong id="tinymce" class="mce-content-body " style="font-size: 18px;" contenteditable="true" spellcheck="false" data-id="field_notes">note:</strong> American Samoa elects 1 member by simple majority popular vote to serve a 2-year term as a delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote; election of delegate last held on 3 November 2020 (next to be held in November 2022); Amata Coleman RADEWAGEN elected delegate; Amata Coleman RADEWAGEN (Republican Party) 83.5%, Oreta CHRICHTON (Democratic Party) 14.4%, Meleagi SUITONU-CHAPMAN (Democratic Party) 2.1%<br>
 
 **Judicial branch**<br>

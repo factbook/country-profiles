@@ -116,9 +116,9 @@ _elderly dependency ratio_: 12.5<br>
 _potential support ratio_: 8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.2 years<br>
+_total_: 31.2 years (2020)<br>
 _male_: 30.2 years<br>
-_female_: 32.2 years (2020 est.)<br>
+_female_: 32.2 years<br>
 
 **Population growth rate**<br>
 0.54% (2023 est.)<br>
@@ -157,14 +157,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 75 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.65 deaths/1,000 live births<br>
+_total_: 11.65 deaths/1,000 live births (2023 est.)<br>
 _male_: 13.07 deaths/1,000 live births<br>
-_female_: 10.15 deaths/1,000 live births (2023 est.)<br>
+_female_: 10.15 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.89 years<br>
+_total population_: 74.89 years (2023 est.)<br>
 _male_: 71.27 years<br>
-_female_: 78.69 years (2023 est.)<br>
+_female_: 78.69 years<br>
 
 **Total fertility rate**<br>
 1.94 children born/woman (2023 est.)<br>
@@ -241,9 +241,9 @@ _male_: 14 years<br>
 _female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.4%<br>
+_total_: 26.4% (2021 est.)<br>
 _male_: 21.9%<br>
-_female_: 32.8% (2021 est.)<br>
+_female_: 32.8%<br>
 
 ## Environment
 
@@ -477,9 +477,9 @@ _services_: 62% (2011 est.)<br>
 9.96% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.4%<br>
+_total_: 26.4% (2021 est.)<br>
 _male_: 21.9%<br>
-_female_: 32.8% (2021 est.)<br>
+_female_: 32.8%<br>
 
 **Population below poverty line**<br>
 35.7% (2019 est.)<br>
@@ -692,8 +692,8 @@ _total_: 205,379 km (2019)<br>
 24,725 km (2019) (18,225 km navigable; the most important waterway, the River Magdalena, of which 1,092 km is navigable, is dredged regularly to ensure safe passage of cargo vessels and container barges)<br>
 
 **Merchant marine**<br>
-_total_: 148<br>
-_by type_: general cargo 28, oil tanker 12, other 108 (2022)<br>
+_total_: 148 (2022)<br>
+_by type_: general cargo 28, oil tanker 12, other 108<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo<br>Pacific Ocean - Buenaventura<br>

@@ -93,9 +93,9 @@ _elderly dependency ratio_: 32.7<br>
 _potential support ratio_: 3.1 (2021)<br>
 
 **Median age**<br>
-_total_: 35.5 years<br>
+_total_: 35.5 years (2020)<br>
 _male_: 34.4 years<br>
-_female_: 36.6 years (2020 est.)<br>
+_female_: 36.6 years<br>
 
 **Population growth rate**<br>
 0.19% (2023 est.)<br>
@@ -124,14 +124,14 @@ _65 years and over_: 0.96 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.13 deaths/1,000 live births<br>
+_total_: 6.13 deaths/1,000 live births (2023 est.)<br>
 _male_: 6.92 deaths/1,000 live births<br>
-_female_: 5.3 deaths/1,000 live births (2023 est.)<br>
+_female_: 5.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.65 years<br>
+_total population_: 80.65 years (2023 est.)<br>
 _male_: 77.82 years<br>
-_female_: 83.62 years (2023 est.)<br>
+_female_: 83.62 years<br>
 
 **Total fertility rate**<br>
 1.9 children born/woman (2023 est.)<br>
@@ -490,8 +490,8 @@ _total_: 29 km (2007)<br>
 _paved_: 29 km (2007)<br>
 
 **Merchant marine**<br>
-_total_: 155<br>
-_by type_: bulk carrier 8, container ship 12, general cargo 36, oil tanker 16, other 83 (2022)<br>
+_total_: 155 (2022)<br>
+_by type_: bulk carrier 8, container ship 12, general cargo 36, oil tanker 16, other 83<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Gibraltar<br>

@@ -113,9 +113,9 @@ _elderly dependency ratio_: 10<br>
 _potential support ratio_: 10 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.1 years<br>
+_total_: 31.1 years (2020)<br>
 _male_: 30.5 years<br>
-_female_: 31.8 years (2020 est.)<br>
+_female_: 31.8 years<br>
 
 **Population growth rate**<br>
 0.76% (2023 est.)<br>
@@ -154,14 +154,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 173 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.31 deaths/1,000 live births<br>
+_total_: 19.31 deaths/1,000 live births (2023 est.)<br>
 _male_: 21.71 deaths/1,000 live births<br>
-_female_: 16.78 deaths/1,000 live births (2023 est.)<br>
+_female_: 16.78 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.33 years<br>
+_total population_: 73.33 years (2023 est.)<br>
 _male_: 71.1 years<br>
-_female_: 75.68 years (2023 est.)<br>
+_female_: 75.68 years<br>
 
 **Total fertility rate**<br>
 1.99 children born/woman (2023 est.)<br>
@@ -243,9 +243,9 @@ _male_: 14 years<br>
 _female_: 14 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.1%<br>
+_total_: 16.1% (2021 est.)<br>
 _male_: 16.3%<br>
-_female_: 15.7% (2021 est.)<br>
+_female_: 15.7%<br>
 
 **People - note**<br>
 Indonesia is the fourth most populous nation in the World after China, India, and the United States; more than half of the Indonesian population - roughly 150 million people or 55% - live on the island of Java (about the size of California) making it the most crowded island on earth<br>
@@ -483,9 +483,9 @@ _services_: 47% (2016 est.)<br>
 3.62% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.1%<br>
+_total_: 16.1% (2021 est.)<br>
 _male_: 16.3%<br>
-_female_: 15.7% (2021 est.)<br>
+_female_: 15.7%<br>
 
 **Population below poverty line**<br>
 9.4% (2019 est.)<br>
@@ -702,8 +702,8 @@ _unpaved_: 213,505 km (2011)<br>
 21,579 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 11,015<br>
-_by type_: bulk carrier 154, container ship 218, general cargo 2,310, oil tanker 700, other 7,633 (2022)<br>
+_total_: 11,015 (2022)<br>
+_by type_: bulk carrier 154, container ship 218, general cargo 2,310, oil tanker 700, other 7,633<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok<br>

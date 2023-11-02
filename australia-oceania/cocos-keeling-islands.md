@@ -118,9 +118,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Life expectancy at birth**<br>
-_total population_: NA<br>
+_total population_: (2021) NA<br>
 _male_: NA<br>
-_female_: (2021 est.) NA<br>
+_female_: NA<br>
 
 **Total fertility rate**<br>
 NA<br>
@@ -206,8 +206,8 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 
 **Legislative branch**<br>
 _description_: unicameral Cocos (Keeling) Islands Shire Council (7 seats; members directly elected by simple majority vote to serve 4-year terms with 4 members renewed every 2 years)<br>
-_elections_: last held on 16 October 2021 (next to be held in October 2023)<br>
-_election results_: percent of vote by party - NA; seats by party - NA; composition - men 4, women 3, percent of women 42.9%<br>
+_elections_: last held on 16 October 2023 (next to be held in October 2025)<br>
+_election results_: percent of vote by party - NA; seats by party - NA; composition - men 4, women 3, percent of women 43%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)<br>

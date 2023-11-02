@@ -109,9 +109,9 @@ _elderly dependency ratio_: 5.2<br>
 _potential support ratio_: 19.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.5 years<br>
+_total_: 18.5 years (2020)<br>
 _male_: 18.7 years<br>
-_female_: 18.3 years (2020 est.)<br>
+_female_: 18.3 years<br>
 
 **Population growth rate**<br>
 2.49% (2023 est.)<br>
@@ -146,14 +146,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 621 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 85.06 deaths/1,000 live births<br>
+_total_: 85.06 deaths/1,000 live births (2023 est.)<br>
 _male_: 94.68 deaths/1,000 live births<br>
-_female_: 75.15 deaths/1,000 live births (2023 est.)<br>
+_female_: 75.15 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 56.12 years<br>
+_total population_: 56.12 years (2023 est.)<br>
 _male_: 53.75 years<br>
-_female_: 58.55 years (2023 est.)<br>
+_female_: 58.55 years<br>
 
 **Total fertility rate**<br>
 5.22 children born/woman (2023 est.)<br>
@@ -224,9 +224,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 34.7%<br>
+_total_: 34.7% (2021 est.)<br>
 _male_: 32.5%<br>
-_female_: 38.5% (2021 est.)<br>
+_female_: 38.5%<br>
 
 ## Environment
 
@@ -439,9 +439,9 @@ _industry and services_: 29% (1975)<br>
 NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 34.7%<br>
+_total_: 34.7% (2021 est.)<br>
 _male_: 32.5%<br>
-_female_: 38.5% (2021 est.)<br>
+_female_: 38.5%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -622,8 +622,8 @@ _annual passenger traffic on registered air carriers_: 4,486 (2018)<br>
 _total_: 15,000 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 4<br>
-_by type_: general cargo 1, other 3 (2022)<br>
+_total_: 4 (2022)<br>
+_by type_: general cargo 1, other 3<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Berbera, Kismaayo<br>

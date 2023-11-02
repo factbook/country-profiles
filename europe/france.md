@@ -124,9 +124,9 @@ _elderly dependency ratio_: 34.8<br>
 _potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 41.7 years<br>
+_total_: 41.7 years (2020)<br>
 _male_: 40 years<br>
-_female_: 43.4 years (2020 est.)<br>
+_female_: 43.4 years<br>
 
 **Population growth rate**<br>
 0.31% (2023 est.)<br>
@@ -164,14 +164,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.1 deaths/1,000 live births<br>
+_total_: 3.1 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.48 deaths/1,000 live births<br>
-_female_: 2.7 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.79 years<br>
+_total population_: 82.79 years (2023 est.)<br>
 _male_: 79.75 years<br>
-_female_: 85.97 years (2023 est.)<br>
+_female_: 85.97 years<br>
 
 **Total fertility rate**<br>
 2.02 children born/woman (2023 est.)<br>
@@ -242,9 +242,9 @@ _male_: 16 years<br>
 _female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.1%<br>
+_total_: 20.1% (2021 est.)<br>
 _male_: 19.9%<br>
-_female_: 20.3% (2021 est.)<br>
+_female_: 20.3%<br>
 
 ## Environment
 
@@ -489,9 +489,9 @@ _services_: 77.2% (2016 est.)<br>
 <strong>note:</strong> includes overseas territories<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.1%<br>
+_total_: 20.1% (2021 est.)<br>
 _male_: 19.9%<br>
-_female_: 20.3% (2021 est.)<br>
+_female_: 20.3%<br>
 
 **Population below poverty line**<br>
 13.6% (2018 est.)<br>
@@ -714,8 +714,8 @@ _non-urban_: 399,014 km (2011)<br>
 <strong>metropolitan France:</strong> 8,501 km (1,621 km navigable by craft up to 3,000 metric tons) (2010)<br>
 
 **Merchant marine**<br>
-_total_: 549<br>
-_by type_: container ship 32, general cargo 49, oil tanker 26, other 442 (2022)<br>
+_total_: 549 (2022)<br>
+_by type_: container ship 32, general cargo 49, oil tanker 26, other 442<br>
 <strong>note:</strong> includes Monaco<br>
 
 **Ports and terminals**<br>

@@ -101,9 +101,9 @@ _elderly dependency ratio_: 27.7<br>
 _potential support ratio_: 3.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.3 years<br>
+_total_: 42.3 years (2020)<br>
 _male_: 41.2 years<br>
-_female_: 43.5 years (2020 est.)<br>
+_female_: 43.5 years<br>
 
 **Population growth rate**<br>
 0.59% (2023 est.)<br>
@@ -142,14 +142,14 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.45 deaths/1,000 live births<br>
+_total_: 4.45 deaths/1,000 live births (2023 est.)<br>
 _male_: 4.36 deaths/1,000 live births<br>
-_female_: 4.54 deaths/1,000 live births (2023 est.)<br>
+_female_: 4.54 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.39 years<br>
+_total population_: 83.39 years (2023 est.)<br>
 _male_: 81.31 years<br>
-_female_: 85.56 years (2023 est.)<br>
+_female_: 85.56 years<br>
 
 **Total fertility rate**<br>
 1.51 children born/woman (2023 est.)<br>
@@ -221,9 +221,9 @@ _male_: 17 years<br>
 _female_: 18 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.8%<br>
+_total_: 9.8% (2021 est.)<br>
 _male_: 13.6%<br>
-_female_: 5.8% (2021 est.)<br>
+_female_: 5.8%<br>
 
 ## Environment
 
@@ -444,9 +444,9 @@ _services_: 77.7% (2016 est.)<br>
 3.62% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.8%<br>
+_total_: 9.8% (2021 est.)<br>
 _male_: 13.6%<br>
-_female_: 5.8% (2021 est.)<br>
+_female_: 5.8%<br>
 
 **Population below poverty line**<br>
 17.1% (2018 est.)<br>
@@ -639,8 +639,8 @@ _urban_: 1,422 km (2001)<br>
 _non-urban_: 832 km (2001)<br>
 
 **Merchant marine**<br>
-_total_: 2,047<br>
-_by type_: bulk carrier 545, container ship 312, general cargo 182, oil tanker 395, other 613 (2022)<br>
+_total_: 2,047 (2022)<br>
+_by type_: bulk carrier 545, container ship 312, general cargo 182, oil tanker 395, other 613<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Marsaxlokk (Malta Freeport), Valletta<br>

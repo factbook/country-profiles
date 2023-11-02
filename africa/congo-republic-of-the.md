@@ -115,9 +115,9 @@ _elderly dependency ratio_: 4.8<br>
 _potential support ratio_: 20.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.5 years<br>
+_total_: 19.5 years (2020)<br>
 _male_: 19.3 years<br>
-_female_: 19.7 years (2020 est.)<br>
+_female_: 19.7 years<br>
 
 **Population growth rate**<br>
 2.33% (2023 est.)<br>
@@ -156,14 +156,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 282 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 46.62 deaths/1,000 live births<br>
+_total_: 46.62 deaths/1,000 live births (2023 est.)<br>
 _male_: 51 deaths/1,000 live births<br>
-_female_: 42.11 deaths/1,000 live births (2023 est.)<br>
+_female_: 42.11 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.51 years<br>
+_total population_: 62.51 years (2023 est.)<br>
 _male_: 61.02 years<br>
-_female_: 64.05 years (2023 est.)<br>
+_female_: 64.05 years<br>
 
 **Total fertility rate**<br>
 4.32 children born/woman (2023 est.)<br>
@@ -245,9 +245,9 @@ _male_: 11 years<br>
 _female_: 11 years (2012)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 42.3%<br>
+_total_: 42.3% (2021 est.)<br>
 _male_: 42.2%<br>
-_female_: 42.5% (2021 est.)<br>
+_female_: 42.5%<br>
 
 ## Environment
 
@@ -374,7 +374,7 @@ _judge selection and term of office_: Supreme Court judges elected by Parliament
 _subordinate courts_: Court of Audit and Budgetary Discipline; courts of appeal; regional and district courts; employment tribunals; juvenile courts<br>
 
 **Political parties and leaders**<br>
-Alliance of the Presidential Majority or AMP<br>Action Movement for Renewal or MAR [Roland BOUITI-VIAUDO]<br>Citizen's Rally or RC [Claude Alphonse NSILOU]<br>Congolese Labour Party or PCT [Denis SASSOU-Nguesso]<br>Congolese Movement for Democracy and Integral Development or MCDDI [VACANT]<br>Movement for Unity, Solidarity, and Work or MUST [Claudine MUNARI]<br>Pan-African Union for Social Development or UPADS [Pascal Tsaty MABIALA]<br>Party for the Unity and the Republic or PUR [Wilfrid NGUESSO]<br>Patriotic Union for Democracy and Progress or UPDP [Auguste-Celestin GONGARD NKOUA]<br>Perspectives and Realities Club or CPR [Aimé Hydevert MOUAGNI]<br>Rally for Democracy and Social Progress or RDPS [Jean-Pierre Thystère TCHICAYA]<br>Republican and Liberal Party or PRL [Bonaventure MIZIDY]<br>Union of Democratic Forces or UDF [Josué Rodrigue NGOUONIMBA]<br>Union for Democracy and Republic or UDR [Guy Kinfoussia ROMAIN]<br>Union for the Republic or UR [Michel Bidimbou POUELA]<br>
+Alliance of the Presidential Majority or AMP<br>Action Movement for Renewal or MAR [Roland BOUITI-VIAUDO]<br>Citizen's Rally or RC [Claude Alphonse NSILOU]<br>Congolese Labour Party or PCT [Denis SASSOU-Nguesso]<br>Congolese Movement for Democracy and Integral Development or MCDDI (vacant)<br>Movement for Unity, Solidarity, and Work or MUST [Claudine MUNARI]<br>Pan-African Union for Social Development or UPADS [Pascal Tsaty MABIALA]<br>Party for the Unity and the Republic or PUR [Wilfrid NGUESSO]<br>Patriotic Union for Democracy and Progress or UPDP [Auguste-Celestin GONGARD NKOUA]<br>Perspectives and Realities Club or CPR [Aimé Hydevert MOUAGNI]<br>Rally for Democracy and Social Progress or RDPS [Jean-Pierre Thystère TCHICAYA]<br>Republican and Liberal Party or PRL [Bonaventure MIZIDY]<br>Union of Democratic Forces or UDF [Josué Rodrigue NGOUONIMBA]<br>Union for Democracy and Republic or UDR [Guy Kinfoussia ROMAIN]<br>Union for the Republic or UR [Michel Bidimbou POUELA]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -482,9 +482,9 @@ _services_: 44% (2005 est.)<br>
 20.62% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 42.3%<br>
+_total_: 42.3% (2021 est.)<br>
 _male_: 42.2%<br>
-_female_: 42.5% (2021 est.)<br>
+_female_: 42.5%<br>
 
 **Population below poverty line**<br>
 40.9% (2011 est.)<br>
@@ -688,8 +688,8 @@ _unpaved_: 20,213 km (2017)<br>
 1,120 km (2011) (commercially navigable on Congo and Oubangui Rivers above Brazzaville; there are many ferries across the river to Kinshasa; the Congo south of Brazzaville-Kinshasa to the coast is not navigable because of rapids, necessitating a rail connection to Pointe-Noire; other rivers are used for local traffic only)<br>
 
 **Merchant marine**<br>
-_total_: 11<br>
-_by type_: general cargo 1, oil tanker 1, other 9 (2022)<br>
+_total_: 11 (2022)<br>
+_by type_: general cargo 1, oil tanker 1, other 9<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Pointe-Noire<br>
@@ -728,7 +728,7 @@ the FAC is viewed as having limited capabilities due to obsolescent and poorly m
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 31,324 (Central African Republic), 27,930 (Democratic Republic of the Congo) (refugees and asylum seekers)(2023)<br>
+_refugees (country of origin)_: 32,910 (Central African Republic), 28,130 (Democratic Republic of the Congo) (refugees and asylum seekers)(2023)<br>
 _IDPs_: 27,000 (multiple civil wars since 1992) (2022)<br>
 
 **Trafficking in persons**<br>

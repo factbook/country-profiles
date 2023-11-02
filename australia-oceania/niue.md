@@ -480,8 +480,8 @@ _paved_: 210 km (2017)<br>
 _unpaved_: 24 km<br>
 
 **Merchant marine**<br>
-_total_: 71<br>
-_by type_: bulk carrier 4, container ship 2, general cargo 29, oil tanker 4, other 32 (2022)<br>
+_total_: 71 (2022)<br>
+_by type_: bulk carrier 4, container ship 2, general cargo 29, oil tanker 4, other 32<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Alofi<br>

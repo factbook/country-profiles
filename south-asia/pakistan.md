@@ -115,9 +115,9 @@ _elderly dependency ratio_: 7.2<br>
 _potential support ratio_: 13.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 22 years<br>
+_total_: 22 years (2020)<br>
 _male_: 21.9 years<br>
-_female_: 22.1 years (2020 est.)<br>
+_female_: 22.1 years<br>
 
 **Population growth rate**<br>
 1.91% (2023 est.)<br>
@@ -156,14 +156,14 @@ _total population_: 1.04 male(s)/female (2023 est.)<br>
 154 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 52.73 deaths/1,000 live births<br>
+_total_: 52.73 deaths/1,000 live births (2023 est.)<br>
 _male_: 57.13 deaths/1,000 live births<br>
-_female_: 48.1 deaths/1,000 live births (2023 est.)<br>
+_female_: 48.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.96 years<br>
+_total population_: 69.96 years (2023 est.)<br>
 _male_: 67.89 years<br>
-_female_: 72.14 years (2023 est.)<br>
+_female_: 72.14 years<br>
 
 **Total fertility rate**<br>
 3.39 children born/woman (2023 est.)<br>
@@ -247,9 +247,9 @@ _male_: 9 years<br>
 _female_: 8 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.4%<br>
+_total_: 9.4% (2021 est.)<br>
 _male_: 9.7%<br>
-_female_: 8.2% (2021 est.)<br>
+_female_: 8.2%<br>
 
 ## Environment
 
@@ -489,9 +489,9 @@ _services_: 35.1% (FY2015 est.)<br>
 <strong>note:</strong> Pakistan has substantial underemployment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.4%<br>
+_total_: 9.4% (2021 est.)<br>
 _male_: 9.7%<br>
-_female_: 8.2% (2021 est.)<br>
+_female_: 8.2%<br>
 
 **Population below poverty line**<br>
 24.3% (2015 est.)<br>
@@ -713,8 +713,8 @@ _paved_: 185,463 km (2021) (includes 708 km of expressways)<br>
 _unpaved_: 78,712 km (2021)<br>
 
 **Merchant marine**<br>
-_total_: 58<br>
-_by type_: bulk carrier 5, oil tanker 7, other 46 (2022)<br>
+_total_: 58 (2022)<br>
+_by type_: bulk carrier 5, oil tanker 7, other 46<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Karachi, Port Muhammad Bin Qasim<br>

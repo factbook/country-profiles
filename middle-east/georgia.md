@@ -106,9 +106,9 @@ _elderly dependency ratio_: 22.6<br>
 _potential support ratio_: 4.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 38.6 years<br>
+_total_: 38.6 years (2020)<br>
 _male_: 35.9 years<br>
-_female_: 41.4 years (2020 est.)<br>
+_female_: 41.4 years<br>
 
 **Population growth rate**<br>
 0.01% (2023 est.)<br>
@@ -148,14 +148,14 @@ _total population_: 0.92 male(s)/female (2023 est.)<br>
 28 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.45 deaths/1,000 live births<br>
+_total_: 14.45 deaths/1,000 live births (2023 est.)<br>
 _male_: 16.55 deaths/1,000 live births<br>
-_female_: 12.23 deaths/1,000 live births (2023 est.)<br>
+_female_: 12.23 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.74 years<br>
+_total population_: 77.74 years (2023 est.)<br>
 _male_: 73.72 years<br>
-_female_: 81.96 years (2023 est.)<br>
+_female_: 81.96 years<br>
 
 **Total fertility rate**<br>
 1.75 children born/woman (2023 est.)<br>
@@ -232,9 +232,9 @@ _male_: 16 years<br>
 _female_: 16 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.3%<br>
+_total_: 28.3% (2021 est.)<br>
 _male_: 27.4%<br>
-_female_: 29.9% (2021 est.)<br>
+_female_: 29.9%<br>
 
 ## Environment
 
@@ -457,9 +457,9 @@ _services_: 35.5% (2006 est.)<br>
 11.57% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.3%<br>
+_total_: 28.3% (2021 est.)<br>
 _male_: 27.4%<br>
-_female_: 29.9% (2021 est.)<br>
+_female_: 29.9%<br>
 
 **Population below poverty line**<br>
 19.5% (2019 est.)<br>
@@ -665,8 +665,8 @@ _broad gauge_: 1,326 km (2014) 1.520-m gauge (1,251 km electrified)<br>
 _total_: 20,295 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 24<br>
-_by type_: general cargo 3, other 21 (2022)<br>
+_total_: 24 (2022)<br>
+_by type_: general cargo 3, other 21<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Black Sea - Batumi, Poti<br>

@@ -100,9 +100,9 @@ _elderly dependency ratio_: 14.3<br>
 _potential support ratio_: 7 (2021)<br>
 
 **Median age**<br>
-_total_: 32.8 years<br>
+_total_: 32.8 years (2020)<br>
 _male_: 31.8 years<br>
-_female_: 34.1 years (2020 est.)<br>
+_female_: 34.1 years<br>
 
 **Population growth rate**<br>
 -0.35% (2023 est.)<br>
@@ -134,14 +134,14 @@ _65 years and over_: 1.12 male(s)/female<br>
 _total population_: 1.13 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.17 deaths/1,000 live births<br>
+_total_: 12.17 deaths/1,000 live births (2023 est.)<br>
 _male_: 14.75 deaths/1,000 live births<br>
-_female_: 9.16 deaths/1,000 live births (2023 est.)<br>
+_female_: 9.16 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.83 years<br>
+_total population_: 76.83 years (2023 est.)<br>
 _male_: 74.75 years<br>
-_female_: 79.27 years (2023 est.)<br>
+_female_: 79.27 years<br>
 
 **Total fertility rate**<br>
 2.59 children born/woman (2023 est.)<br>
@@ -265,7 +265,7 @@ _election results_: percent of vote in first round - Ralph TORRES (Republican) 3
 
 **Legislative branch**<br>
 _description_: bicameral Northern Marianas Commonwealth Legislature consists of:<br>Senate (9 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>House of Representatives (20 seats; members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms)<br><br>the Northern Mariana Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term<br>
-_elections_: <br>CNMI Senate - last held on 3 November 2020 (next to be held in November 2024)<br>CNMI House of Representatives - last held on 3 November 2020 (next to be held in November 2022)<br>Commonwealth of Northern Mariana Islands delegate to the US House of Representatives  - last held on 3 November 2020 (next to be held in November 2022)<br>
+_elections_: <br>CNMI Senate - last held on 8 November 2020 (next to be held in November 2024)<br>CNMI House of Representatives - last held on 8 November 2022 (next to be held in November 2024)<br>Commonwealth of Northern Mariana Islands delegate to the US House of Representatives  - last held on 8 November 2022 (next to be held in November 2024)<br>
 _election results_: <br>CNMI Senate - percent of vote by party - NA; seats by party - Republican Party 6, independent 3; composition - men 7, women 2, percent of women 22.2%<br>CNMI House of Representatives - percent of vote by party - NA; seats by party - Republican Party 9, Democrat Party 8, independent 3; composition - men 15, women 5, percent of women 25%; note - overall CNMI legislature percent of women 24.1%<br><br>delegate to US House of Representatives - seat won by independent; composition - 1 man<br>
 <strong id="tinymce" class="mce-content-body " style="font-size: 18px;" contenteditable="true" spellcheck="false" data-id="field_notes">note:</strong> the Northern Mariana Islands delegate to the US House of Representatives can vote when serving on a committee and when the House meets as the "Committee of the Whole House" but not when legislation is submitted for a “full floor” House vote<br>
 

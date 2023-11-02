@@ -106,9 +106,9 @@ _elderly dependency ratio_: 12.3<br>
 _potential support ratio_: 8.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 27.7 years<br>
+_total_: 27.7 years (2020)<br>
 _male_: 26.2 years<br>
-_female_: 29.3 years (2020 est.)<br>
+_female_: 29.3 years<br>
 
 **Population growth rate**<br>
 0.46% (2023 est.)<br>
@@ -147,14 +147,14 @@ _total population_: 0.92 male(s)/female (2023 est.)<br>
 43 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.9 deaths/1,000 live births<br>
+_total_: 11.9 deaths/1,000 live births (2023 est.)<br>
 _male_: 13.55 deaths/1,000 live births<br>
-_female_: 10.18 deaths/1,000 live births (2023 est.)<br>
+_female_: 10.18 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.63 years<br>
+_total population_: 75.63 years (2023 est.)<br>
 _male_: 72.16 years<br>
-_female_: 79.27 years (2023 est.)<br>
+_female_: 79.27 years<br>
 
 **Total fertility rate**<br>
 2.04 children born/woman (2023 est.)<br>
@@ -235,9 +235,9 @@ _male_: 12 years<br>
 _female_: 12 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.7%<br>
+_total_: 13.7% (2021 est.)<br>
 _male_: 11.3%<br>
-_female_: 18.3% (2021 est.)<br>
+_female_: 18.3%<br>
 
 ## Environment
 
@@ -459,9 +459,9 @@ _services_: 58% (2011 est.)<br>
 <strong>note:</strong> data are official rates; but underemployment is high<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.7%<br>
+_total_: 13.7% (2021 est.)<br>
 _male_: 11.3%<br>
-_female_: 18.3% (2021 est.)<br>
+_female_: 18.3%<br>
 
 **Population below poverty line**<br>
 22.8% (2019 est.)<br>
@@ -671,8 +671,8 @@ _unpaved_: 3,671 km (2017)<br>
 422 km (2022) (Rio Lempa River is partially navigable by small craft)<br>
 
 **Merchant marine**<br>
-_total_: 4<br>
-_by type_: other 4 (2022)<br>
+_total_: 4 (2022)<br>
+_by type_: other 4<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Puerto Cutuco<br>

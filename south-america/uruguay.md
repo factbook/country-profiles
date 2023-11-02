@@ -117,9 +117,9 @@ _elderly dependency ratio_: 23.7<br>
 _potential support ratio_: 4.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 35.5 years<br>
+_total_: 35.5 years (2020)<br>
 _male_: 33.8 years<br>
-_female_: 37.3 years (2020 est.)<br>
+_female_: 37.3 years<br>
 
 **Population growth rate**<br>
 0.27% (2023 est.)<br>
@@ -154,14 +154,14 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 19 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.14 deaths/1,000 live births<br>
+_total_: 8.14 deaths/1,000 live births (2023 est.)<br>
 _male_: 9.27 deaths/1,000 live births<br>
-_female_: 6.97 deaths/1,000 live births (2023 est.)<br>
+_female_: 6.97 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.66 years<br>
+_total population_: 78.66 years (2023 est.)<br>
 _male_: 75.58 years<br>
-_female_: 81.86 years (2023 est.)<br>
+_female_: 81.86 years<br>
 
 **Total fertility rate**<br>
 1.75 children born/woman (2023 est.)<br>
@@ -234,9 +234,9 @@ _male_: 17 years<br>
 _female_: 20 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 32.9%<br>
+_total_: 32.9% (2021 est.)<br>
 _male_: 28.3%<br>
-_female_: 38.7% (2021 est.)<br>
+_female_: 38.7%<br>
 
 ## Environment
 
@@ -469,9 +469,9 @@ _services_: 73% (2010 est.)<br>
 8.88% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 32.9%<br>
+_total_: 32.9% (2021 est.)<br>
 _male_: 28.3%<br>
-_female_: 38.7% (2021 est.)<br>
+_female_: 38.7%<br>
 
 **Population below poverty line**<br>
 8.8% (2019 est.)<br>
@@ -676,8 +676,8 @@ _unpaved_: 69,989 km (2010)<br>
 1,600 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 60<br>
-_by type_: container ship 1, general cargo 4, oil tanker 4, other 51 (2022)<br>
+_total_: 60 (2022)<br>
+_by type_: container ship 1, general cargo 4, oil tanker 4, other 51<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Montevideo<br>

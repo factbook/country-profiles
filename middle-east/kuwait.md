@@ -109,9 +109,9 @@ _elderly dependency ratio_: 6<br>
 _potential support ratio_: 24.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.7 years<br>
+_total_: 29.7 years (2020)<br>
 _male_: 30.7 years<br>
-_female_: 27.9 years (2020 est.)<br>
+_female_: 27.9 years<br>
 
 **Population growth rate**<br>
 1.13% (2023 est.)<br>
@@ -146,14 +146,14 @@ _total population_: 1.37 male(s)/female (2023 est.)<br>
 7 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.27 deaths/1,000 live births<br>
+_total_: 7.27 deaths/1,000 live births (2023 est.)<br>
 _male_: 7.57 deaths/1,000 live births<br>
-_female_: 6.96 deaths/1,000 live births (2023 est.)<br>
+_female_: 6.96 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.35 years<br>
+_total population_: 79.35 years (2023 est.)<br>
 _male_: 77.89 years<br>
-_female_: 80.87 years (2023 est.)<br>
+_female_: 80.87 years<br>
 
 **Total fertility rate**<br>
 2.22 children born/woman (2023 est.)<br>
@@ -225,9 +225,9 @@ _male_: 13 years<br>
 _female_: 16 years (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.5%<br>
+_total_: 25.5% (2021 est.)<br>
 _male_: 17.1%<br>
-_female_: 46.2% (2021 est.)<br>
+_female_: 46.2%<br>
 
 ## Environment
 
@@ -449,9 +449,9 @@ _services_: NA<br>
 2.17% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.5%<br>
+_total_: 25.5% (2021 est.)<br>
 _male_: 17.1%<br>
-_female_: 46.2% (2021 est.)<br>
+_female_: 46.2%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -649,8 +649,8 @@ _paved_: 4,887 km (2018)<br>
 _unpaved_: 862 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 166<br>
-_by type_: general cargo 15, oil tanker 29, other 122 (2022)<br>
+_total_: 166 (2022)<br>
+_by type_: general cargo 15, oil tanker 29, other 122<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'Abd Allah, Mina' al Ahmadi<br>

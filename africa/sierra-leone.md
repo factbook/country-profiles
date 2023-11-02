@@ -109,9 +109,9 @@ _elderly dependency ratio_: 5.5<br>
 _potential support ratio_: 18.3 (2020 est.)<br>
 
 **Median age**<br>
-_total_: 19.1 years<br>
+_total_: 19.1 years (2020)<br>
 _male_: 18.5 years<br>
-_female_: 19.7 years (2020 est.)<br>
+_female_: 19.7 years<br>
 
 **Population growth rate**<br>
 2.41% (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 443 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 72.3 deaths/1,000 live births<br>
+_total_: 72.3 deaths/1,000 live births (2023 est.)<br>
 _male_: 77.24 deaths/1,000 live births<br>
-_female_: 67.22 deaths/1,000 live births (2023 est.)<br>
+_female_: 67.22 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 59.07 years<br>
+_total population_: 59.07 years (2023 est.)<br>
 _male_: 57.48 years<br>
-_female_: 60.71 years (2023 est.)<br>
+_female_: 60.71 years<br>
 
 **Total fertility rate**<br>
 3.71 children born/woman (2023 est.)<br>
@@ -234,9 +234,9 @@ _male_: 55.3%<br>
 _female_: 39.8% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.8%<br>
+_total_: 10.8% (2021 est.)<br>
 _male_: 15.8%<br>
-_female_: 7.6% (2021 est.)<br>
+_female_: 7.6%<br>
 
 ## Environment
 
@@ -450,9 +450,9 @@ _services_: 33.4% (2014 est.)<br>
 4.65% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.8%<br>
+_total_: 10.8% (2021 est.)<br>
 _male_: 15.8%<br>
-_female_: 7.6% (2021 est.)<br>
+_female_: 7.6%<br>
 
 **Population below poverty line**<br>
 56.8% (2018 est.)<br>
@@ -648,8 +648,8 @@ _non-urban_: 8,700 km (2015)<br>
 800 km (2011) (600 km navigable year-round)<br>
 
 **Merchant marine**<br>
-_total_: 605<br>
-_by type_: bulk carrier 36, container ship 6, general cargo 325, oil tanker 104, other 134 (2022)<br>
+_total_: 605 (2022)<br>
+_by type_: bulk carrier 36, container ship 6, general cargo 325, oil tanker 104, other 134<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Freetown, Pepel, Sherbro Islands<br>

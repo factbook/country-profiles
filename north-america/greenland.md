@@ -101,9 +101,9 @@ _elderly dependency ratio_: 13.6<br>
 _potential support ratio_: 7.4 (2021)<br>
 
 **Median age**<br>
-_total_: 34.3 years<br>
+_total_: 34.3 years (2020)<br>
 _male_: 35.1 years<br>
-_female_: 33.4 years (2020 est.)<br>
+_female_: 33.4 years<br>
 
 **Population growth rate**<br>
 -0.04% (2023 est.)<br>
@@ -135,14 +135,14 @@ _65 years and over_: 1.13 male(s)/female<br>
 _total population_: 1.07 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.6 deaths/1,000 live births<br>
+_total_: 8.6 deaths/1,000 live births (2023 est.)<br>
 _male_: 10.08 deaths/1,000 live births<br>
-_female_: 7.04 deaths/1,000 live births (2023 est.)<br>
+_female_: 7.04 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.25 years<br>
+_total population_: 74.25 years (2023 est.)<br>
 _male_: 71.56 years<br>
-_female_: 77.07 years (2023 est.)<br>
+_female_: 77.07 years<br>
 
 **Total fertility rate**<br>
 1.9 children born/woman (2023 est.)<br>
@@ -301,7 +301,7 @@ _FAX_: +1 (202) 328-1470<br>
 _email address and website_: <br>washington@nanoq.gl<br><br>All Greenlandic Representations | GrÃ¸nlands ReprÃ¦sentation (grl-rep.dk); <br>https://naalakkersuisut.gl/en/Naalakkersuisut/Groenlands-repraesentation-Washington<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Consul Joanie SIMON (since June 2021)<br>
+_chief of mission_: Consul Monica BLAND (since July 2023)<br>
 _embassy_: Aalisartut Aqqutaa 47<br>Nuuk 3900<br>Greenland<br>
 _telephone_: (+299) 384100<br>
 _email address and website_: <br>https://dk.usembassy.gov/embassy-consulate/nuuk/<br>
@@ -552,8 +552,8 @@ OY-H<br>
 <p><strong>note:</strong> although there are short roads in towns, there are no roads between towns; inter-urban transport is either by sea or by air</p><br>
 
 **Merchant marine**<br>
-_total_: 6<br>
-_by type_: other 6 (2022)<br>
+_total_: 6 (2022)<br>
+_by type_: other 6<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Sisimiut<br>

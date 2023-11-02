@@ -100,9 +100,9 @@ _elderly dependency ratio_: 12.6<br>
 _potential support ratio_: 8 (2021)<br>
 
 **Median age**<br>
-_total_: 37.2 years<br>
+_total_: 37.2 years (2020)<br>
 _male_: 37 years<br>
-_female_: 37.5 years (2020 est.)<br>
+_female_: 37.5 years<br>
 
 **Population growth rate**<br>
 1.87% (2023 est.)<br>
@@ -134,14 +134,14 @@ _65 years and over_: 0.9 male(s)/female<br>
 _total population_: 0.91 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.77 deaths/1,000 live births<br>
+_total_: 13.77 deaths/1,000 live births (2023 est.)<br>
 _male_: 16.41 deaths/1,000 live births<br>
-_female_: 10.99 deaths/1,000 live births (2023 est.)<br>
+_female_: 10.99 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.9 years<br>
+_total population_: 79.9 years (2023 est.)<br>
 _male_: 78.4 years<br>
-_female_: 81.47 years (2023 est.)<br>
+_female_: 81.47 years<br>
 
 **Total fertility rate**<br>
 1.37 children born/woman (2023 est.)<br>
@@ -516,8 +516,8 @@ _total_: 200 km (2007)<br>
 _paved_: 200 km (2007)<br>
 
 **Merchant marine**<br>
-_total_: 30<br>
-_by type_: general cargo 3, other 27 (2022)<br>
+_total_: 30 (2022)<br>
+_by type_: general cargo 3, other 27<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Road Harbor<br>

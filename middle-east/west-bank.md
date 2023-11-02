@@ -78,7 +78,7 @@ landlocked; highlands are main recharge area for Israel's coastal aquifers; ther
 
 **Population**<br>
 3,176,549 (2023 est.)<br>
-<strong>note:</strong> approximately 432,000 Israeli settlers live in the West Bank (2019); approximately 227,100 Israeli settlers live in East Jerusalem (2019)<br>
+<strong>note:</strong> approximately 468,300 Israeli settlers live in the West Bank (2022); approximately 236,600 Israeli settlers live in East Jerusalem (2021)<br>
 
 **Nationality**<br>
 _noun_: NA<br>
@@ -107,9 +107,9 @@ _potential support ratio_: 16.5 (2021 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Median age**<br>
-_total_: 21.9 years<br>
+_total_: 21.9 years (2020)<br>
 _male_: 21.7 years<br>
-_female_: 22.2 years (2020 est.)<br>
+_female_: 22.2 years<br>
 
 **Population growth rate**<br>
 1.66% (2023 est.)<br>
@@ -143,14 +143,14 @@ _total population_: 1.03 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Infant mortality rate**<br>
-_total_: 14.91 deaths/1,000 live births<br>
+_total_: 14.91 deaths/1,000 live births (2023 est.)<br>
 _male_: 17.24 deaths/1,000 live births<br>
-_female_: 12.45 deaths/1,000 live births (2023 est.)<br>
+_female_: 12.45 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.63 years<br>
+_total population_: 76.63 years (2023 est.)<br>
 _male_: 74.55 years<br>
-_female_: 78.84 years (2023 est.)<br>
+_female_: 78.84 years<br>
 
 **Total fertility rate**<br>
 2.91 children born/woman (2023 est.)<br>
@@ -223,9 +223,9 @@ _female_: 14 years (2021)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 39.6%<br>
+_total_: 39.6% (2021 est.)<br>
 _male_: 33.7%<br>
-_female_: 69% (2021 est.)<br>
+_female_: 69%<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 ## Environment
@@ -355,9 +355,9 @@ _services_: 54.1% (2013 est.)<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 39.6%<br>
+_total_: 39.6% (2021 est.)<br>
 _male_: 33.7%<br>
-_female_: 69% (2021 est.)<br>
+_female_: 69%<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **Population below poverty line**<br>

@@ -103,9 +103,9 @@ _elderly dependency ratio_: 6.7<br>
 _potential support ratio_: 14.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.3 years<br>
+_total_: 19.3 years (2020)<br>
 _male_: 18.9 years<br>
-_female_: 19.7 years (2020 est.)<br>
+_female_: 19.7 years<br>
 
 **Population growth rate**<br>
 1.45% (2023 est.)<br>
@@ -144,14 +144,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 146 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 43.48 deaths/1,000 live births<br>
+_total_: 43.48 deaths/1,000 live births (2023 est.)<br>
 _male_: 46.93 deaths/1,000 live births<br>
-_female_: 39.92 deaths/1,000 live births (2023 est.)<br>
+_female_: 39.92 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.39 years<br>
+_total population_: 67.39 years (2023 est.)<br>
 _male_: 65.74 years<br>
-_female_: 69.08 years (2023 est.)<br>
+_female_: 69.08 years<br>
 
 **Total fertility rate**<br>
 3.44 children born/woman (2023 est.)<br>
@@ -234,9 +234,9 @@ _male_: 12 years<br>
 _female_: 13 years (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 22.9%<br>
+_total_: 22.9% (2021 est.)<br>
 _male_: 18% NA<br>
-_female_: 34.3% (2021 est.) NA<br>
+_female_: 34.3% NA<br>
 
 ## Environment
 
@@ -441,9 +441,9 @@ _services_: 52.5% (2014 est.)<br>
 14.14% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 22.9%<br>
+_total_: 22.9% (2021 est.)<br>
 _male_: 18% NA<br>
-_female_: 34.3% (2021 est.) NA<br>
+_female_: 34.3% NA<br>
 
 **Population below poverty line**<br>
 66.7% (2017 est.)<br>
@@ -631,8 +631,8 @@ _paved_: 230 km (2018)<br>
 _unpaved_: 1,070 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 25<br>
-_by type_: general cargo 15, oil tanker 2, other 8 (2022)<br>
+_total_: 25 (2022)<br>
+_by type_: general cargo 15, oil tanker 2, other 8<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Sao Tome<br>

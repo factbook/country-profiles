@@ -110,9 +110,9 @@ _elderly dependency ratio_: 24.1<br>
 _potential support ratio_: 4.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 34.3 years<br>
+_total_: 34.3 years (2020)<br>
 _male_: 32.9 years<br>
-_female_: 35.7 years (2020 est.)<br>
+_female_: 35.7 years<br>
 
 **Population growth rate**<br>
 0.19% (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.54 deaths/1,000 live births<br>
+_total_: 10.54 deaths/1,000 live births (2023 est.)<br>
 _male_: 11.56 deaths/1,000 live births<br>
-_female_: 9.46 deaths/1,000 live births (2023 est.)<br>
+_female_: 9.46 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.7 years<br>
+_total population_: 79.7 years (2023 est.)<br>
 _male_: 77.04 years<br>
-_female_: 82.55 years (2023 est.)<br>
+_female_: 82.55 years<br>
 
 **Total fertility rate**<br>
 1.55 children born/woman (2023 est.)<br>
@@ -234,9 +234,9 @@ _male_: 13 years<br>
 _female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.8%<br>
+_total_: 27.8% (2021 est.)<br>
 _male_: 28%<br>
-_female_: 27.6% (2021 est.)<br>
+_female_: 27.6%<br>
 
 ## Environment
 
@@ -465,9 +465,9 @@ _services_: 40.3% (2017 est.)<br>
 <strong>note:</strong> these official rates may not include those working at near-subsistence farming<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.8%<br>
+_total_: 27.8% (2021 est.)<br>
 _male_: 28%<br>
-_female_: 27.6% (2021 est.)<br>
+_female_: 27.6%<br>
 
 **Population below poverty line**<br>
 14.3% (2012 est.)<br>
@@ -668,8 +668,8 @@ _total_: 3,945 km (2018)<br>
 41 km (2011) (on the Bojana River)<br>
 
 **Merchant marine**<br>
-_total_: 69<br>
-_by type_: general cargo 47, oil tanker 1, other 21 (2022)<br>
+_total_: 69 (2022)<br>
+_by type_: general cargo 47, oil tanker 1, other 21<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Durres, Sarande, Shengjin, Vlore<br>
@@ -709,7 +709,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified<br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 1,948 (2022)<br>

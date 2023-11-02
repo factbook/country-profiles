@@ -100,9 +100,9 @@ _elderly dependency ratio_: 14<br>
 _potential support ratio_: 7.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 33.3 years<br>
+_total_: 33.3 years (2020)<br>
 _male_: 33 years<br>
-_female_: 33.5 years (2020 est.)<br>
+_female_: 33.5 years<br>
 
 **Population growth rate**<br>
 0.7% (2023 est.)<br>
@@ -134,14 +134,14 @@ _65 years and over_: 0.95 male(s)/female<br>
 _total population_: 1.05 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.34 deaths/1,000 live births<br>
+_total_: 4.34 deaths/1,000 live births (2023 est.)<br>
 _male_: 5.23 deaths/1,000 live births<br>
-_female_: 3.42 deaths/1,000 live births (2023 est.)<br>
+_female_: 3.42 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.66 years<br>
+_total population_: 78.66 years (2023 est.)<br>
 _male_: 76.36 years<br>
-_female_: 81.08 years (2023 est.)<br>
+_female_: 81.08 years<br>
 
 **Total fertility rate**<br>
 1.8 children born/woman (2023 est.)<br>
@@ -189,9 +189,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.9%<br>
+_total_: 38.9% (2021 est.)<br>
 _male_: 35.4%<br>
-_female_: 43.9% (2021 est.)<br>
+_female_: 43.9%<br>
 
 ## Environment
 
@@ -273,7 +273,7 @@ _elections/appointments_: French president directly elected by absolute majority
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of French Polynesia or Assembl&eacute;e de la Polyn&eacute;sie fran&ccedil;aise (57 seats; elections held in 2 rounds; in the second round, 38 members directly elected in multi-seat constituencies by a closed-list proportional representation vote; the party receiving the most votes gets an additional 19 seats; members serve 5-year terms; French Polynesia indirectly elects 2 senators to the French Senate via an electoral college by absolute majority vote for 6-year terms with one-half the membership renewed every 3 years and directly elects 3 deputies to the French National Assembly by absolute majority vote in 2 rounds if needed for 5-year terms<br>
-_elections_: Assembly of French Polynesia - last held on 16 and 30 April 2023 (next to be held in 2028)<br>French Senate - last held on 28 September 2020 (next to be held on 30 September 2023)<br>French National Assembly - last held in 2 rounds on 12 and 19 June 2022 (next to be held in 2027)<br>
+_elections_: Assembly of French Polynesia - last held on 16 and 30 April 2023 (next to be held in 2028)<br>French Senate - last held on 24 September 2023 (next to be held on 30 September 2026)<br>French National Assembly - last held in 2 rounds on 12 and 19 June 2022 (next to be held in 2027)<br>
 _election results_: Assembly of French Polynesia - percent of vote by party - People's Servant Party 66.7%; List of the People 26.3%, I Love Polynesia 5.3%, Rally of Mahoi People 1.8%; seats by party - People's Servant People 38; List of the People 15, I Love Polynesia 3, Rally of the Mahoi People 1, composition - men 27, women 30, percent of women 52.6%<br>French Senate - percent of vote by party - NA; seats by party - Popular Rally 1, People's Servant Party 1; composition - NA<br>French National Assembly - percent of vote by party - NA; seats by party - People's Servant Party 3; composition - NA<br>
 
 **Judicial branch**<br>
@@ -377,9 +377,9 @@ _services_: 68% (2013 est.)<br>
 12.3% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.9%<br>
+_total_: 38.9% (2021 est.)<br>
 _male_: 35.4%<br>
-_female_: 43.9% (2021 est.)<br>
+_female_: 43.9%<br>
 
 **Population below poverty line**<br>
 19.7% (2009 est.)<br>
@@ -557,8 +557,8 @@ _paved_: 1,735 km (1999)<br>
 _unpaved_: 855 km (1999)<br>
 
 **Merchant marine**<br>
-_total_: 25<br>
-_by type_: general cargo 14, other 11 (2022)<br>
+_total_: 25 (2022)<br>
+_by type_: general cargo 14, other 11<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Papeete<br>

@@ -134,9 +134,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.9<br>
+_total population_: (2017 est.) 77.9<br>
 _male_: 75.6<br>
-_female_: (2017 est.) 79.6<br>
+_female_: 79.6<br>
 
 **Total fertility rate**<br>
 NA<br>
@@ -499,8 +499,8 @@ _paved_: 50 km (2008)<br>
 _unpaved_: 390 km (2008)<br>
 
 **Merchant marine**<br>
-_total_: 2<br>
-_by type_: general cargo 1, other 1 (2022)<br>
+_total_: 2 (2022)<br>
+_by type_: general cargo 1, other 1<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Stanley<br>

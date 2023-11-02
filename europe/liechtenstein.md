@@ -105,9 +105,9 @@ _elderly dependency ratio_: 28.3<br>
 _potential support ratio_: 3.5 (2021)<br>
 
 **Median age**<br>
-_total_: 43.7 years<br>
+_total_: 43.7 years (2020)<br>
 _male_: 42 years<br>
-_female_: 45.3 years (2020 est.)<br>
+_female_: 45.3 years<br>
 
 **Population growth rate**<br>
 0.7% (2023 est.)<br>
@@ -142,14 +142,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 31.3 years (2017)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.98 deaths/1,000 live births<br>
+_total_: 3.98 deaths/1,000 live births (2023 est.)<br>
 _male_: 4.34 deaths/1,000 live births<br>
-_female_: 3.53 deaths/1,000 live births (2023 est.)<br>
+_female_: 3.53 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.76 years<br>
+_total population_: 82.76 years (2023 est.)<br>
 _male_: 80.54 years<br>
-_female_: 85.56 years (2023 est.)<br>
+_female_: 85.56 years<br>
 
 **Total fertility rate**<br>
 1.69 children born/woman (2023 est.)<br>
@@ -496,8 +496,8 @@ _total_: 630 km (2019)<br>
 28 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 20<br>
-_by type_: bulk carrier 16, general cargo 1, other 3 (includes Switzerland) (2022)<br>
+_total_: 20 (2022)<br>
+_by type_: bulk carrier 16, general cargo 1, other 3 (includes Switzerland)<br>
 
 ## Military and Security
 

@@ -104,9 +104,9 @@ _elderly dependency ratio_: 7.1<br>
 _potential support ratio_: 14 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.3 years<br>
+_total_: 20.3 years (2020)<br>
 _male_: 19.7 years<br>
-_female_: 20.8 years (2020 est.)<br>
+_female_: 20.8 years<br>
 
 **Population growth rate**<br>
 1.08% (2023 est.)<br>
@@ -145,14 +145,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 322 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 40.63 deaths/1,000 live births<br>
+_total_: 40.63 deaths/1,000 live births (2023 est.)<br>
 _male_: 47.45 deaths/1,000 live births<br>
-_female_: 33.62 deaths/1,000 live births (2023 est.)<br>
+_female_: 33.62 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.19 years<br>
+_total population_: 67.19 years (2023 est.)<br>
 _male_: 64.56 years<br>
-_female_: 69.89 years (2023 est.)<br>
+_female_: 69.89 years<br>
 
 **Total fertility rate**<br>
 3.5 children born/woman (2023 est.)<br>
@@ -229,9 +229,9 @@ _male_: 8 years<br>
 _female_: 7 years (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.6%<br>
+_total_: 14.6% (2021 est.)<br>
 _male_: 13.1%<br>
-_female_: 16.4% (2021 est.)<br>
+_female_: 16.4%<br>
 
 ## Environment
 
@@ -438,9 +438,9 @@ _industry_: 20% (2004 est.)<br>
 5.99% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.6%<br>
+_total_: 14.6% (2021 est.)<br>
 _male_: 13.1%<br>
-_female_: 16.4% (2021 est.)<br>
+_female_: 16.4%<br>
 
 **Population below poverty line**<br>
 50% (2004 est.)<br>
@@ -634,8 +634,8 @@ _paved_: 1,600 km (2000)<br>
 _unpaved_: 14,400 km (2000)<br>
 
 **Merchant marine**<br>
-_total_: 9<br>
-_by type_: general cargo 4, oil tanker 1, other 4 (2022)<br>
+_total_: 9 (2022)<br>
+_by type_: general cargo 4, oil tanker 1, other 4<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Assab, Massawa<br>

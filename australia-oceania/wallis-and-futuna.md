@@ -97,9 +97,9 @@ _elderly dependency ratio_: 20.4<br>
 _potential support ratio_: 4.9 (2021)<br>
 
 **Median age**<br>
-_total_: 34 years<br>
+_total_: 34 years (2020)<br>
 _male_: 33.1 years<br>
-_female_: 35.1 years (2020 est.)<br>
+_female_: 35.1 years<br>
 
 **Population growth rate**<br>
 0.23% (2023 est.)<br>
@@ -129,14 +129,14 @@ _65 years and over_: 1.04 male(s)/female<br>
 _total population_: 1.06 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.94 deaths/1,000 live births<br>
+_total_: 3.94 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.88 deaths/1,000 live births<br>
-_female_: 4 deaths/1,000 live births (2023 est.)<br>
+_female_: 4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.89 years<br>
+_total population_: 80.89 years (2023 est.)<br>
 _male_: 77.92 years<br>
-_female_: 84.01 years (2023 est.)<br>
+_female_: 84.01 years<br>
 
 **Total fertility rate**<br>
 1.71 children born/woman (2023 est.)<br>
@@ -423,8 +423,8 @@ _percent of population_: 45.8% (2021 est.)<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Merchant marine**<br>
-_total_: 1<br>
-_by type_: other 1 (2021)<br>
+_total_: 1 (2021)<br>
+_by type_: other 1<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Leava, Mata-Utu<br>

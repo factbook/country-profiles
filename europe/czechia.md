@@ -108,9 +108,9 @@ _elderly dependency ratio_: 32.2<br>
 _potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 43.3 years<br>
+_total_: 43.3 years (2020)<br>
 _male_: 42 years<br>
-_female_: 44.7 years (2020 est.)<br>
+_female_: 44.7 years<br>
 
 **Population growth rate**<br>
 0% (2023 est.)<br>
@@ -148,14 +148,14 @@ _total population_: 1.05 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.37 deaths/1,000 live births<br>
+_total_: 2.37 deaths/1,000 live births (2023 est.)<br>
 _male_: 2.57 deaths/1,000 live births<br>
-_female_: 2.16 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.16 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.96 years<br>
+_total population_: 79.96 years (2023 est.)<br>
 _male_: 77.04 years<br>
-_female_: 83.03 years (2023 est.)<br>
+_female_: 83.03 years<br>
 
 **Total fertility rate**<br>
 1.5 children born/woman (2023 est.)<br>
@@ -227,9 +227,9 @@ _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.6%<br>
+_total_: 7.6% (2021 est.)<br>
 _male_: 6.9%<br>
-_female_: 8.7% (2021 est.)<br>
+_female_: 8.7%<br>
 
 ## Environment
 
@@ -459,9 +459,9 @@ _services_: 59.2% (2015)<br>
 2.01% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.6%<br>
+_total_: 7.6% (2021 est.)<br>
 _male_: 6.9%<br>
-_female_: 8.7% (2021 est.)<br>
+_female_: 8.7%<br>
 
 **Population below poverty line**<br>
 10.1% (2018 est.)<br>
@@ -715,7 +715,7 @@ the Czech military is a professional force responsible for national and territor
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 361,385 (Ukraine) (as of 8 October 2023)<br>
+_refugees (country of origin)_: 363,160 (Ukraine) (as of 15 October 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

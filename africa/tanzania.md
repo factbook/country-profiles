@@ -117,9 +117,9 @@ _elderly dependency ratio_: 5.9<br>
 _potential support ratio_: 20.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.2 years<br>
+_total_: 18.2 years (2020)<br>
 _male_: 17.9 years<br>
-_female_: 18.4 years (2020 est.)<br>
+_female_: 18.4 years<br>
 
 **Population growth rate**<br>
 2.75% (2023 est.)<br>
@@ -158,14 +158,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 238 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 30.25 deaths/1,000 live births<br>
+_total_: 30.25 deaths/1,000 live births (2023 est.)<br>
 _male_: 32.97 deaths/1,000 live births<br>
-_female_: 27.44 deaths/1,000 live births (2023 est.)<br>
+_female_: 27.44 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.48 years<br>
+_total population_: 70.48 years (2023 est.)<br>
 _male_: 68.72 years<br>
-_female_: 72.29 years (2023 est.)<br>
+_female_: 72.29 years<br>
 
 **Total fertility rate**<br>
 4.33 children born/woman (2023 est.)<br>
@@ -224,7 +224,7 @@ _male_: 14% (2020 est.)<br>
 _female_: 3.4% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-14.6% (2018)<br>
+12.1% (2022)<br>
 
 **Currently married women (ages 15-49)**<br>
 59.5% (2023 est.)<br>
@@ -249,9 +249,9 @@ _male_: 9 years<br>
 _female_: 9 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.6%<br>
+_total_: 4.6% (2021 est.)<br>
 _male_: 3.7%<br>
-_female_: 5.5% (2021 est.)<br>
+_female_: 5.5%<br>
 
 ## Environment
 
@@ -483,9 +483,9 @@ _services_: 26.6% (2014 est.)<br>
 2.22% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.6%<br>
+_total_: 4.6% (2021 est.)<br>
 _male_: 3.7%<br>
-_female_: 5.5% (2021 est.)<br>
+_female_: 5.5%<br>
 
 **Population below poverty line**<br>
 26.4% (2017 est.)<br>
@@ -696,8 +696,8 @@ _unpaved_: 134,002 km (2022)<br>
 1,594 km (2022) (Lake Tanganyika 673 km, Lake Victoria 337 km, and Lake Nyasa (Lake Malawi) 584 km are the principal avenues of commerce with neighboring countries; the rivers are not navigable)<br>
 
 **Merchant marine**<br>
-_total_: 322<br>
-_by type_: bulk carrier 4, container ship 9, general cargo 148, oil tanker 46, other 115 (2022)<br>
+_total_: 322 (2022)<br>
+_by type_: bulk carrier 4, container ship 9, general cargo 148, oil tanker 46, other 115<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dar es Salaam, Zanzibar<br>
@@ -746,7 +746,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 121,142 (Burundi), 88,445 (Democratic Republic of the Congo) (2023)<br>
+_refugees (country of origin)_: 117,734 (Burundi), 88,840 (Democratic Republic of the Congo) (2023)<br>
 
 **Illicit drugs**<br>
 <p>significant transit country for illicit drugs in East Africa; international drug trafficking organizations and courier networks transit illicit drugs through mainland Tanzania to markets in Europe and North America; cultivates cannabis and khat for domestic consumption and regional and international distribution; domestic drug use continues increasing including methamphetamine use</p> (2021)<br>

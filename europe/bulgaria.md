@@ -110,9 +110,9 @@ _elderly dependency ratio_: 35.3<br>
 _potential support ratio_: 2.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 43.7 years<br>
+_total_: 43.7 years (2020)<br>
 _male_: 41.9 years<br>
-_female_: 45.6 years (2020 est.)<br>
+_female_: 45.6 years<br>
 
 **Population growth rate**<br>
 -0.66% (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 7 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.82 deaths/1,000 live births<br>
+_total_: 7.82 deaths/1,000 live births (2023 est.)<br>
 _male_: 8.85 deaths/1,000 live births<br>
-_female_: 6.72 deaths/1,000 live births (2023 est.)<br>
+_female_: 6.72 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.83 years<br>
+_total population_: 75.83 years (2023 est.)<br>
 _male_: 72.64 years<br>
-_female_: 79.21 years (2023 est.)<br>
+_female_: 79.21 years<br>
 
 **Total fertility rate**<br>
 1.51 children born/woman (2023 est.)<br>
@@ -229,9 +229,9 @@ _male_: 13 years<br>
 _female_: 14 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.2%<br>
+_total_: 14.2% (2021 est.)<br>
 _male_: 14.3%<br>
-_female_: 14% (2021 est.)<br>
+_female_: 14%<br>
 
 ## Environment
 
@@ -463,9 +463,9 @@ _services_: 66.6% (2016 est.)<br>
 4.23% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.2%<br>
+_total_: 14.2% (2021 est.)<br>
 _male_: 14.3%<br>
-_female_: 14% (2021 est.)<br>
+_female_: 14%<br>
 
 **Population below poverty line**<br>
 23.8% (2019 est.)<br>
@@ -691,8 +691,8 @@ _unpaved_: 277 km (2011)<br>
 470 km (2009)<br>
 
 **Merchant marine**<br>
-_total_: 80<br>
-_by type_: bulk carrier 3, general cargo 14, oil tanker 8, other 55 (2022)<br>
+_total_: 80 (2022)<br>
+_by type_: bulk carrier 3, general cargo 14, oil tanker 8, other 55<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Burgas, Varna (Black Sea)<br>

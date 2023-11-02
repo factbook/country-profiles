@@ -99,9 +99,9 @@ _elderly dependency ratio_: 23.4<br>
 _potential support ratio_: 4.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 39.5 years<br>
+_total_: 39.5 years (2020)<br>
 _male_: 38.4 years<br>
-_female_: 40.7 years (2020 est.)<br>
+_female_: 40.7 years<br>
 
 **Population growth rate**<br>
 0.24% (2023 est.)<br>
@@ -136,14 +136,14 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 39 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.79 deaths/1,000 live births<br>
+_total_: 9.79 deaths/1,000 live births (2023 est.)<br>
 _male_: 11.33 deaths/1,000 live births<br>
-_female_: 8.23 deaths/1,000 live births (2023 est.)<br>
+_female_: 8.23 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.79 years<br>
+_total population_: 78.79 years (2023 est.)<br>
 _male_: 76.04 years<br>
-_female_: 81.57 years (2023 est.)<br>
+_female_: 81.57 years<br>
 
 **Total fertility rate**<br>
 1.7 children born/woman (2023 est.)<br>
@@ -207,9 +207,9 @@ _male_: 99.6%<br>
 _female_: 99.6% (2014)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.6%<br>
+_total_: 30.6% (2021 est.)<br>
 _male_: 34.8%<br>
-_female_: 25.6% (2021 est.)<br>
+_female_: 25.6%<br>
 
 ## Environment
 
@@ -430,9 +430,9 @@ _services_: 75% (1996 est.)<br>
 8.41% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.6%<br>
+_total_: 30.6% (2021 est.)<br>
 _male_: 34.8%<br>
-_female_: 25.6% (2021 est.)<br>
+_female_: 25.6%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -612,8 +612,8 @@ _total_: 1,700 km (2015)<br>
 _paved_: 1,700 km (2015)<br>
 
 **Merchant marine**<br>
-_total_: 195<br>
-_by type_: bulk carrier 61, general cargo 114, other 20 (2022)<br>
+_total_: 195 (2022)<br>
+_by type_: bulk carrier 61, general cargo 114, other 20<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bridgetown<br>

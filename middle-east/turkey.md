@@ -113,9 +113,9 @@ _elderly dependency ratio_: 12.3<br>
 _potential support ratio_: 8.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 32.2 years<br>
+_total_: 32.2 years (2020)<br>
 _male_: 31.7 years<br>
-_female_: 32.8 years (2020 est.)<br>
+_female_: 32.8 years<br>
 
 **Population growth rate**<br>
 0.64% (2023 est.)<br>
@@ -153,14 +153,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 17 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.85 deaths/1,000 live births<br>
+_total_: 18.85 deaths/1,000 live births (2023 est.)<br>
 _male_: 20.46 deaths/1,000 live births<br>
-_female_: 17.16 deaths/1,000 live births (2023 est.)<br>
+_female_: 17.16 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.47 years<br>
+_total population_: 76.47 years (2023 est.)<br>
 _male_: 74.11 years<br>
-_female_: 78.94 years (2023 est.)<br>
+_female_: 78.94 years<br>
 
 **Total fertility rate**<br>
 1.91 children born/woman (2023 est.)<br>
@@ -236,9 +236,9 @@ _male_: 19 years<br>
 _female_: 18 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.3%<br>
+_total_: 24.3% (2021 est.)<br>
 _male_: 21.4%<br>
-_female_: 29.9% (2021 est.)<br>
+_female_: 29.9%<br>
 
 ## Environment
 
@@ -474,9 +474,9 @@ _services_: 54.9% (2016)<br>
 13.67% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.3%<br>
+_total_: 24.3% (2021 est.)<br>
 _male_: 21.4%<br>
-_female_: 29.9% (2021 est.)<br>
+_female_: 29.9%<br>
 
 **Population below poverty line**<br>
 14.4% (2018 est.)<br>
@@ -693,8 +693,8 @@ _unpaved_: 43,251 km (2018)<br>
 1,200 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 1,237<br>
-_by type_: bulk carrier 37, container ship 41, general cargo 288, oil tanker 130, other 741 (2022)<br>
+_total_: 1,237 (2022)<br>
+_by type_: bulk carrier 37, container ship 41, general cargo 288, oil tanker 130, other 741<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin (Icel), Limani, Yarimca<br>

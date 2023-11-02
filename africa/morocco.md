@@ -118,9 +118,9 @@ _potential support ratio_: 8.9 (2021 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Median age**<br>
-_total_: 29.1 years<br>
+_total_: 29.1 years (2020)<br>
 _male_: 28.7 years<br>
-_female_: 29.6 years (2020 est.)<br>
+_female_: 29.6 years<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Population growth rate**<br>
@@ -163,15 +163,15 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Infant mortality rate**<br>
-_total_: 18.73 deaths/1,000 live births<br>
+_total_: 18.73 deaths/1,000 live births (2023 est.)<br>
 _male_: 20.94 deaths/1,000 live births<br>
-_female_: 16.41 deaths/1,000 live births (2023 est.)<br>
+_female_: 16.41 deaths/1,000 live births<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.95 years<br>
+_total population_: 73.95 years (2023 est.)<br>
 _male_: 72.26 years<br>
-_female_: 75.72 years (2023 est.)<br>
+_female_: 75.72 years<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Total fertility rate**<br>
@@ -232,7 +232,7 @@ _male_: 28.2% (2020 est.)<br>
 _female_: 0.8% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-2.6% (2017/18)<br>
+2.8% (2019/20)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Currently married women (ages 15-49)**<br>
@@ -260,9 +260,9 @@ _female_: 14 years (2021)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.2%<br>
+_total_: 27.2% (2021 est.)<br>
 _male_: 26.7%<br>
-_female_: 28.7% (2021 est.)<br>
+_female_: 28.7%<br>
 <strong>note: </strong>does not include data from the former Western Sahara<br>
 
 ## Environment
@@ -498,9 +498,9 @@ _services_: 40.5% (2014 est.)<br>
 9.28% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.2%<br>
+_total_: 27.2% (2021 est.)<br>
 _male_: 26.7%<br>
-_female_: 28.7% (2021 est.)<br>
+_female_: 28.7%<br>
 <strong>note: </strong>does not include data from the former Western Sahara<br>
 
 **Population below poverty line**<br>
@@ -711,8 +711,8 @@ _standard gauge_: 2,067 km (2014) 1.435-m gauge (1,022 km electrified)<br>
 _total_: 57,300 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 93<br>
-_by type_: container ship 6, general cargo 5, oil tanker 2, other 80 (2022)<br>
+_total_: 93 (2022)<br>
+_by type_: container ship 6, general cargo 5, oil tanker 2, other 80<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ad Dakhla, Agadir, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), Mohammedia, Safi, Tangier<br>

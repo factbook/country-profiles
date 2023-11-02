@@ -113,9 +113,9 @@ _elderly dependency ratio_: 4.3<br>
 _potential support ratio_: 19.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.3 years<br>
+_total_: 20.3 years (2020)<br>
 _male_: 20.3 years<br>
-_female_: 20.3 years (2020 est.)<br>
+_female_: 20.3 years<br>
 
 **Population growth rate**<br>
 2.16% (2023 est.)<br>
@@ -154,14 +154,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 480 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 54.04 deaths/1,000 live births<br>
+_total_: 54.04 deaths/1,000 live births (2023 est.)<br>
 _male_: 61.2 deaths/1,000 live births<br>
-_female_: 46.65 deaths/1,000 live births (2023 est.)<br>
+_female_: 46.65 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.71 years<br>
+_total population_: 62.71 years (2023 est.)<br>
 _male_: 60.51 years<br>
-_female_: 64.97 years (2023 est.)<br>
+_female_: 64.97 years<br>
 
 **Total fertility rate**<br>
 3.47 children born/woman (2023 est.)<br>
@@ -244,9 +244,9 @@ _male_: 11 years<br>
 _female_: 10 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.7%<br>
+_total_: 5.7% (2021 est.)<br>
 _male_: 4.8%<br>
-_female_: 6.8% (2021 est.)<br>
+_female_: 6.8%<br>
 
 ## Environment
 
@@ -474,9 +474,9 @@ _agriculture_: 68% (2007 est.)<br>
 3.32% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.7%<br>
+_total_: 5.7% (2021 est.)<br>
 _male_: 4.8%<br>
-_female_: 6.8% (2021 est.)<br>
+_female_: 6.8%<br>
 
 **Population below poverty line**<br>
 39.5% (2018 est.)<br>
@@ -689,8 +689,8 @@ _unpaved_: 75,494 km (2007)<br>
 980 km (2011) (navigable rivers, canals, and numerous coastal lagoons)<br>
 
 **Merchant marine**<br>
-_total_: 25<br>
-_by type_: oil tanker 2, other 23 (2022)<br>
+_total_: 25 (2022)<br>
+_by type_: oil tanker 2, other 23<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Abidjan, San-Pedro<br>

@@ -111,9 +111,9 @@ _elderly dependency ratio_: 37.1<br>
 _potential support ratio_: 2.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.8 years<br>
+_total_: 42.8 years (2020)<br>
 _male_: 41.3 years<br>
-_female_: 44.4 years (2020 est.)<br>
+_female_: 44.4 years<br>
 
 **Population growth rate**<br>
 0.22% (2023 est.)<br>
@@ -151,14 +151,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.11 deaths/1,000 live births<br>
+_total_: 2.11 deaths/1,000 live births (2023 est.)<br>
 _male_: 2.29 deaths/1,000 live births<br>
-_female_: 1.92 deaths/1,000 live births (2023 est.)<br>
+_female_: 1.92 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.96 years<br>
+_total population_: 81.96 years (2023 est.)<br>
 _male_: 79.08 years<br>
-_female_: 84.98 years (2023 est.)<br>
+_female_: 84.98 years<br>
 
 **Total fertility rate**<br>
 1.74 children born/woman (2023 est.)<br>
@@ -233,9 +233,9 @@ _male_: 18 years<br>
 _female_: 20 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.1%<br>
+_total_: 18.1% (2021 est.)<br>
 _male_: 19%<br>
-_female_: 17.1% (2021 est.)<br>
+_female_: 17.1%<br>
 
 ## Environment
 
@@ -461,9 +461,9 @@ _services_: 75.3% (2017 est.)<br>
 6.69% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.1%<br>
+_total_: 18.1% (2021 est.)<br>
 _male_: 19%<br>
-_female_: 17.1% (2021 est.)<br>
+_female_: 17.1%<br>
 
 **Population below poverty line**<br>
 12.2% (2019 est.)<br>
@@ -683,8 +683,8 @@ _urban_: 26,000 km (2012)<br>
 8,000 km (2013) (includes Saimaa Canal system of 3,577 km; southern part leased from Russia; water transport used frequently in the summer and widely replaced with sledges on the ice in winter; there are 187,888 lakes in Finland that cover 31,500 km); Finland also maintains 8,200 km of coastal fairways<br>
 
 **Merchant marine**<br>
-_total_: 278<br>
-_by type_: bulk carrier 9, container ship 1, general cargo 74, oil tanker 5, other 189 (2022)<br>
+_total_: 278 (2022)<br>
+_by type_: bulk carrier 9, container ship 1, general cargo 74, oil tanker 5, other 189<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma<br>

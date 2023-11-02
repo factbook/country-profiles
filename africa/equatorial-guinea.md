@@ -105,9 +105,9 @@ _elderly dependency ratio_: 5.4<br>
 _potential support ratio_: 18.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.3 years<br>
+_total_: 20.3 years (2020)<br>
 _male_: 19.9 years<br>
-_female_: 20.7 years (2020 est.)<br>
+_female_: 20.7 years<br>
 
 **Population growth rate**<br>
 3.36% (2023 est.)<br>
@@ -142,14 +142,14 @@ _total population_: 1.15 male(s)/female (2023 est.)<br>
 212 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 77.85 deaths/1,000 live births<br>
+_total_: 77.85 deaths/1,000 live births (2023 est.)<br>
 _male_: 83.76 deaths/1,000 live births<br>
-_female_: 71.77 deaths/1,000 live births (2023 est.)<br>
+_female_: 71.77 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.8 years<br>
+_total population_: 63.8 years (2023 est.)<br>
 _male_: 61.53 years<br>
-_female_: 66.13 years (2023 est.)<br>
+_female_: 66.13 years<br>
 
 **Total fertility rate**<br>
 4.19 children born/woman (2023 est.)<br>
@@ -211,9 +211,9 @@ _male_: 97.4%<br>
 _female_: 93% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.3%<br>
+_total_: 18.3% (2021 est.)<br>
 _male_: 17.1%<br>
-_female_: 19.9% (2021 est.)<br>
+_female_: 19.9%<br>
 
 ## Environment
 
@@ -418,9 +418,9 @@ petroleum, natural gas, sawmilling<br>
 8.68% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.3%<br>
+_total_: 18.3% (2021 est.)<br>
 _male_: 17.1%<br>
-_female_: 19.9% (2021 est.)<br>
+_female_: 19.9%<br>
 
 **Population below poverty line**<br>
 44% (2011 est.)<br>
@@ -610,8 +610,8 @@ _annual freight traffic on registered air carriers_: 350,000 (2018) mt-km<br>
 _total_: 2,880 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 46<br>
-_by type_: bulk carrier 1, general cargo 12, oil tanker 7, other 26 (2022)<br>
+_total_: 46 (2022)<br>
+_by type_: bulk carrier 1, general cargo 12, oil tanker 7, other 26<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bata, Luba, Malabo<br>

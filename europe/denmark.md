@@ -109,9 +109,9 @@ _elderly dependency ratio_: 31.9<br>
 _potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42 years<br>
+_total_: 42 years (2020)<br>
 _male_: 40.9 years<br>
-_female_: 43.1 years (2020 est.)<br>
+_female_: 43.1 years<br>
 
 **Population growth rate**<br>
 0.44% (2023 est.)<br>
@@ -149,14 +149,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3 deaths/1,000 live births<br>
+_total_: 3 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.44 deaths/1,000 live births<br>
-_female_: 2.53 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.53 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.87 years<br>
+_total population_: 81.87 years (2023 est.)<br>
 _male_: 79.95 years<br>
-_female_: 83.91 years (2023 est.)<br>
+_female_: 83.91 years<br>
 
 **Total fertility rate**<br>
 1.77 children born/woman (2023 est.)<br>
@@ -230,9 +230,9 @@ _male_: 18 years<br>
 _female_: 19 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.1%<br>
+_total_: 10.1% (2021 est.)<br>
 _male_: 9.7%<br>
-_female_: 10.6% (2021 est.)<br>
+_female_: 10.6%<br>
 
 ## Environment
 
@@ -455,9 +455,9 @@ _services_: 79.3% (2016 est.)<br>
 5.02% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.1%<br>
+_total_: 10.1% (2021 est.)<br>
 _male_: 9.7%<br>
-_female_: 10.6% (2021 est.)<br>
+_female_: 10.6%<br>
 
 **Population below poverty line**<br>
 12.5% (2018 est.)<br>
@@ -661,8 +661,8 @@ _paved_: 74,558 km (2017) (includes 1,205 km of expressways)<br>
 400 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 731<br>
-_by type_: bulk carrier 13, container ship 137, general cargo 70, oil tanker 118, other 393 (2022)<br>
+_total_: 731 (2022)<br>
+_by type_: bulk carrier 13, container ship 137, general cargo 70, oil tanker 118, other 393<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Baltic Sea - Aarhus, Copenhagen, Fredericia, Kalundborg<br>

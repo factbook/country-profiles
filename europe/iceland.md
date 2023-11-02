@@ -105,9 +105,9 @@ _elderly dependency ratio_: 22.5<br>
 _potential support ratio_: 4.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 37.1 years<br>
+_total_: 37.1 years (2020)<br>
 _male_: 36.6 years<br>
-_female_: 37.7 years (2020 est.)<br>
+_female_: 37.7 years<br>
 
 **Population growth rate**<br>
 0.89% (2023 est.)<br>
@@ -145,14 +145,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.63 deaths/1,000 live births<br>
+_total_: 1.63 deaths/1,000 live births (2023 est.)<br>
 _male_: 1.82 deaths/1,000 live births<br>
-_female_: 1.44 deaths/1,000 live births (2023 est.)<br>
+_female_: 1.44 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.83 years<br>
+_total population_: 83.83 years (2023 est.)<br>
 _male_: 81.61 years<br>
-_female_: 86.15 years (2023 est.)<br>
+_female_: 86.15 years<br>
 
 **Total fertility rate**<br>
 1.95 children born/woman (2023 est.)<br>
@@ -223,9 +223,9 @@ _male_: 18 years<br>
 _female_: 21 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.4%<br>
+_total_: 13.4% (2021 est.)<br>
 _male_: 13%<br>
-_female_: 13.7% (2021 est.)<br>
+_female_: 13.7%<br>
 
 ## Environment
 
@@ -447,9 +447,9 @@ _services_: 73% (2008)<br>
 3.51% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.4%<br>
+_total_: 13.4% (2021 est.)<br>
 _male_: 13%<br>
-_female_: 13.7% (2021 est.)<br>
+_female_: 13.7%<br>
 
 **Population below poverty line**<br>
 8.8% (2017 est.)<br>
@@ -638,8 +638,8 @@ _paved/oiled gravel_: 5,647 km (2012) (excludes urban roads)<br>
 _unpaved_: 7,251 km (2012)<br>
 
 **Merchant marine**<br>
-_total_: 40<br>
-_by type_: general cargo 5, oil tanker 2, other 33 (2022)<br>
+_total_: 40 (2022)<br>
+_by type_: general cargo 5, oil tanker 2, other 33<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Grundartangi, Hafnarfjordur, Reykjavik<br>

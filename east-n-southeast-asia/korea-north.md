@@ -104,9 +104,9 @@ _elderly dependency ratio_: 16.3<br>
 _potential support ratio_: 6.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 34.6 years<br>
+_total_: 34.6 years (2020)<br>
 _male_: 33.2 years<br>
-_female_: 36.2 years (2020 est.)<br>
+_female_: 36.2 years<br>
 
 **Population growth rate**<br>
 0.44% (2023 est.)<br>
@@ -141,14 +141,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 107 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22 deaths/1,000 live births<br>
+_total_: 22 deaths/1,000 live births (2023 est.)<br>
 _male_: 24.85 deaths/1,000 live births<br>
-_female_: 18.99 deaths/1,000 live births (2023 est.)<br>
+_female_: 18.99 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.88 years<br>
+_total population_: 71.88 years (2023 est.)<br>
 _male_: 67.97 years<br>
-_female_: 76.02 years (2023 est.)<br>
+_female_: 76.02 years<br>
 
 **Total fertility rate**<br>
 1.89 children born/woman (2023 est.)<br>
@@ -220,9 +220,9 @@ _male_: 11 years<br>
 _female_: 11 years (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.1%<br>
+_total_: 6.1% (2021 est.)<br>
 _male_: 5.4%<br>
-_female_: 6.9% (2021 est.)<br>
+_female_: 6.9%<br>
 
 ## Environment
 
@@ -422,9 +422,9 @@ _industry_: 63% (2008 est.)<br>
 2.59% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.1%<br>
+_total_: 6.1% (2021 est.)<br>
 _male_: 5.4%<br>
-_female_: 6.9% (2021 est.)<br>
+_female_: 6.9%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -610,8 +610,8 @@ _unpaved_: 24,830 km (2006)<br>
 2,250 km (2011) (most navigable only by small craft)<br>
 
 **Merchant marine**<br>
-_total_: 270<br>
-_by type_: bulk carrier 9, container ship 5, general cargo 193, oil tanker 33, other 30 (2022)<br>
+_total_: 270 (2022)<br>
+_by type_: bulk carrier 9, container ship 5, general cargo 193, oil tanker 33, other 30<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong (formerly Unggi), Wonsan<br>

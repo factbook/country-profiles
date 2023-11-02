@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-Humans arrived in the Marshall Islands in the first millennium B.C. and gradually created permanent settlements on the various atolls. The early inhabitants were skilled navigators who frequently traveled between atolls using stick charts to map the islands. Society became organized under two paramount chiefs, one each for the Ratak (Sunrise) Chain and the Ralik (Sunset) Chain. The traditional hierarchy continued even after contact with Europeans in the early 1500s. Spain formally claimed the islands in 1592, but few other Europeans passed by the islands in the next two centuries. In 1788, British sea captain John MARSHALL undertook an exploratory voyage, and the islands were mapped in the early 1800s by Russian explorers. In the 1850s, US Protestant missionaries began arriving on the islands. Germany established a supply station on Jaluit Atoll and bought the islands from Spain in 1884, although paramount chiefs continued to rule.<br><br>Japan seized the Marshall Islands in 1914 and was granted a League of Nations Mandate to administer the islands in 1920. Japan built large military bases throughout the Marshall Islands, and during World War II, the US captured the bases on Kwajalein, Enewetak, and Majuro Atolls in Operations Flintlock and Catchpole. The Marshall Islands came under US administration as part of the Trust Territory of the Pacific Islands (TTPI) in 1947. Between 1946 and 1958, the US resettled populations from Bikini and Enewetak Atolls and conducted 67 nuclear tests; people from Ailinginae and Rongelap Atolls were also evacuated because of nuclear fallout, and all four atolls remain largely uninhabited. In 1979, the Marshall Islands drafted a constitution separate from the rest of the TTPI and declared independence under President Amata KABUA, a paramount chief. In 2000, Kessai NOTE became the first commoner elected president. In 2016, Hilda HEINE was the first woman elected president.<br><br>In 1982, the Marshall Islands signed a Compact of Free Association (COFA) with the US, which granted the Marshall Islands financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986 and its funding was renewed in 2003. The Marshall Islands hosts the US Army Kwajalein Atoll Reagan Missile Test Site, a key installation in the US missile defense network. Kwajalein also hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are at Cape Canaveral, Florida (US), on Ascension (Saint Helena, Ascension, and Tristan da Cunha), and at Diego Garcia (British Indian Ocean Territory)).<br>
+Humans arrived in the Marshall Islands in the first millennium B.C. and gradually created permanent settlements on the various atolls. The early inhabitants were skilled navigators who frequently traveled between atolls using stick charts to map the islands. Society became organized under two paramount chiefs, one each for the Ratak (Sunrise) Chain and the Ralik (Sunset) Chain. The traditional hierarchy continued even after contact with Europeans in the early 1500s. Spain formally claimed the islands in 1592, but few other Europeans passed by the islands in the next two centuries. In 1788, British sea captain John MARSHALL undertook an exploratory voyage, and the islands were mapped in the early 1800s by Russian explorers. In the 1850s, US Protestant missionaries began arriving on the islands. Germany established a supply station on Jaluit Atoll and bought the islands from Spain in 1884, although paramount chiefs continued to rule.<br><br>Japan seized the Marshall Islands in 1914 and was granted a League of Nations Mandate to administer the islands in 1920. Japan built large military bases throughout the Marshall Islands, and during World War II, the US captured the bases on Kwajalein, Enewetak, and Majuro Atolls. The Marshall Islands came under US administration as part of the Trust Territory of the Pacific Islands (TTPI) in 1947. Between 1946 and 1958, the US resettled populations from Bikini and Enewetak Atolls and conducted 67 nuclear tests; people from Ailinginae and Rongelap Atolls were also evacuated because of nuclear fallout, and all four atolls remain largely uninhabited. In 1979, the Marshall Islands drafted a constitution separate from the rest of the TTPI and declared independence under President Amata KABUA, a paramount chief. In 2000, Kessai NOTE became the first commoner elected president. In 2016, Hilda HEINE was the first woman elected president.<br><br>In 1982, the Marshall Islands signed a Compact of Free Association (COFA) with the US, which granted the Marshall Islands financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986 and its funding was renewed in 2003. The Marshall Islands hosts the US Army Kwajalein Atoll Reagan Missile Test Site, a key installation in the US missile defense network. Kwajalein also hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are at Cape Canaveral, Florida (US), on Ascension (Saint Helena, Ascension, and Tristan da Cunha), and at Diego Garcia (British Indian Ocean Territory)).<br>
 
 ## Geography
 
@@ -104,9 +104,9 @@ _elderly dependency ratio_: 6.8<br>
 _potential support ratio_: 14.7 (2021)<br>
 
 **Median age**<br>
-_total_: 23.8 years<br>
+_total_: 23.8 years (2020)<br>
 _male_: 23.6 years<br>
-_female_: 23.9 years (2020 est.)<br>
+_female_: 23.9 years<br>
 
 **Population growth rate**<br>
 1.3% (2023 est.)<br>
@@ -138,14 +138,14 @@ _65 years and over_: 0.96 male(s)/female<br>
 _total population_: 1.03 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.13 deaths/1,000 live births<br>
+_total_: 21.13 deaths/1,000 live births (2023 est.)<br>
 _male_: 24.56 deaths/1,000 live births<br>
-_female_: 17.54 deaths/1,000 live births (2023 est.)<br>
+_female_: 17.54 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.92 years<br>
+_total population_: 74.92 years (2023 est.)<br>
 _male_: 72.68 years<br>
-_female_: 77.26 years (2023 est.)<br>
+_female_: 77.26 years<br>
 
 **Total fertility rate**<br>
 2.72 children born/woman (2023 est.)<br>
@@ -210,9 +210,9 @@ _male_: 10 years<br>
 _female_: 10 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26%<br>
+_total_: 26% (2019 est.)<br>
 _male_: 31%<br>
-_female_: 14.2% (2019 est.)<br>
+_female_: 14.2%<br>
 
 ## Environment
 
@@ -418,9 +418,9 @@ _services_: 72.7% (2011 est.)<br>
 30.9% (2000 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 26%<br>
+_total_: 26% (2019 est.)<br>
 _male_: 31%<br>
-_female_: 14.2% (2019 est.)<br>
+_female_: 14.2%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -565,8 +565,8 @@ _paved_: 75 km (2007)<br>
 _unpaved_: 1,953 km<br>
 
 **Merchant marine**<br>
-_total_: 4,042<br>
-_by type_: bulk carrier 1,879 container ship 276, general cargo 62, oil tanker 1023, other 802 (2022)<br>
+_total_: 4,042 (2022)<br>
+_by type_: bulk carrier 1,879 container ship 276, general cargo 62, oil tanker 1023, other 802<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Enitwetak Island, Kwajalein, Majuro<br>

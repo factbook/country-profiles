@@ -118,9 +118,9 @@ _elderly dependency ratio_: 5.5<br>
 _potential support ratio_: 18 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.6 years<br>
+_total_: 18.6 years (2020)<br>
 _male_: 18.4 years<br>
-_female_: 18.9 years (2020 est.)<br>
+_female_: 18.9 years<br>
 
 **Population growth rate**<br>
 2.53% (2023 est.)<br>
@@ -159,14 +159,14 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 1,047 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 55.17 deaths/1,000 live births<br>
+_total_: 55.17 deaths/1,000 live births (2023 est.)<br>
 _male_: 60.43 deaths/1,000 live births<br>
-_female_: 49.6 deaths/1,000 live births (2023 est.)<br>
+_female_: 49.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 61.79 years<br>
+_total population_: 61.79 years (2023 est.)<br>
 _male_: 59.93 years<br>
-_female_: 63.75 years (2023 est.)<br>
+_female_: 63.75 years<br>
 
 **Total fertility rate**<br>
 4.57 children born/woman (2023 est.)<br>
@@ -246,9 +246,9 @@ _male_: 71.3%<br>
 _female_: 52.7% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.6%<br>
+_total_: 19.6% (2021 est.)<br>
 _male_: 19.8% NA<br>
-_female_: 19.4% (2021 est.) NA<br>
+_female_: 19.4% NA<br>
 
 ## Environment
 
@@ -482,9 +482,9 @@ _services_: 20% (1999 est.)<br>
 8.53% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.6%<br>
+_total_: 19.6% (2021 est.)<br>
 _male_: 19.8% NA<br>
-_female_: 19.4% (2021 est.) NA<br>
+_female_: 19.4% NA<br>
 
 **Population below poverty line**<br>
 40.1% (2018 est.)<br>
@@ -701,8 +701,8 @@ _unpaved_: 135,000 km (2017)<br>
 8,600 km (2011) (Niger and Benue Rivers and smaller rivers and creeks)<br>
 
 **Merchant marine**<br>
-_total_: 832<br>
-_by type_: general cargo 16, oil tanker 111, other 705 (2022)<br>
+_total_: 832 (2022)<br>
+_by type_: general cargo 16, oil tanker 111, other 705<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bonny Inshore Terminal, Calabar, Lagos<br>

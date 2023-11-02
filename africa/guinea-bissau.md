@@ -107,9 +107,9 @@ _elderly dependency ratio_: 5<br>
 _potential support ratio_: 20.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18 years<br>
+_total_: 18 years (2020)<br>
 _male_: 17.4 years<br>
-_female_: 18.6 years (2020 est.)<br>
+_female_: 18.6 years<br>
 
 **Population growth rate**<br>
 2.54% (2023 est.)<br>
@@ -144,14 +144,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 725 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 47.69 deaths/1,000 live births<br>
+_total_: 47.69 deaths/1,000 live births (2023 est.)<br>
 _male_: 53.39 deaths/1,000 live births<br>
-_female_: 41.82 deaths/1,000 live births (2023 est.)<br>
+_female_: 41.82 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 64.1 years<br>
+_total population_: 64.1 years (2023 est.)<br>
 _male_: 61.84 years<br>
-_female_: 66.42 years (2023 est.)<br>
+_female_: 66.42 years<br>
 
 **Total fertility rate**<br>
 4.65 children born/woman (2023 est.)<br>
@@ -227,9 +227,9 @@ _male_: 67%<br>
 _female_: 39.9% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.8%<br>
+_total_: 12.8% (2021 est.)<br>
 _male_: 11.6%<br>
-_female_: 14.2% (2021 est.)<br>
+_female_: 14.2%<br>
 
 ## Environment
 
@@ -436,9 +436,9 @@ _industry and services_: 18% (2000 est.)<br>
 NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.8%<br>
+_total_: 12.8% (2021 est.)<br>
 _male_: 11.6%<br>
-_female_: 14.2% (2021 est.)<br>
+_female_: 14.2%<br>
 
 **Population below poverty line**<br>
 67% (2015 est.)<br>
@@ -628,8 +628,8 @@ _unpaved_: 3,947 km (2018)<br>
 1,367 km (2022) major rivers Geba- 550km, Corubal 560 km, Cacheu 257 km (rivers are partially navigable; many inlets and creeks provide shallow-water access to much of interior)<br>
 
 **Merchant marine**<br>
-_total_: 8<br>
-_by type_: general cargo 5, other 3 (2022)<br>
+_total_: 8 (2022)<br>
+_by type_: general cargo 5, other 3<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bissau, Buba, Cacheu, Farim<br>

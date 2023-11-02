@@ -106,9 +106,9 @@ _elderly dependency ratio_: 6<br>
 _potential support ratio_: 16.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18 years<br>
+_total_: 18 years (2020)<br>
 _male_: 17.7 years<br>
-_female_: 18.2 years (2020 est.)<br>
+_female_: 18.2 years<br>
 
 **Population growth rate**<br>
 2.71% (2023 est.)<br>
@@ -147,14 +147,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 652 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 43.2 deaths/1,000 live births<br>
+_total_: 43.2 deaths/1,000 live births (2023 est.)<br>
 _male_: 47.23 deaths/1,000 live births<br>
-_female_: 39.05 deaths/1,000 live births (2023 est.)<br>
+_female_: 39.05 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.8 years<br>
+_total population_: 65.8 years (2023 est.)<br>
 _male_: 63.52 years<br>
-_female_: 68.15 years (2023 est.)<br>
+_female_: 68.15 years<br>
 
 **Total fertility rate**<br>
 4.73 children born/woman (2023 est.)<br>
@@ -231,9 +231,9 @@ _male_: 62.7%<br>
 _female_: 34.1% (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.2%<br>
+_total_: 3.2% (2021 est.)<br>
 _male_: 3.2%<br>
-_female_: 3.2% (2021 est.)<br>
+_female_: 3.2%<br>
 
 ## Environment
 
@@ -444,9 +444,9 @@ _services_: 22% (2000 est.)<br>
 3.02% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.2%<br>
+_total_: 3.2% (2021 est.)<br>
 _male_: 3.2%<br>
-_female_: 3.2% (2021 est.)<br>
+_female_: 3.2%<br>
 
 **Population below poverty line**<br>
 50.9% (2016 est.)<br>
@@ -643,8 +643,8 @@ _paved_: 657 km (2018)<br>
 _unpaved_: 9,943 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 4,311<br>
-_by type_: bulk carrier 1,673, container ship 962, general cargo 141, oil tanker 907, other 628 (2022)<br>
+_total_: 4,311 (2022)<br>
+_by type_: bulk carrier 1,673, container ship 962, general cargo 141, oil tanker 907, other 628<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Buchanan, Monrovia<br>

@@ -111,9 +111,9 @@ _elderly dependency ratio_: 6.1<br>
 _potential support ratio_: 16.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.1 years<br>
+_total_: 19.1 years (2020)<br>
 _male_: 18.9 years<br>
-_female_: 19.4 years (2020 est.)<br>
+_female_: 19.4 years<br>
 
 **Population growth rate**<br>
 2.75% (2023 est.)<br>
@@ -152,14 +152,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 553 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 48.32 deaths/1,000 live births<br>
+_total_: 48.32 deaths/1,000 live births (2023 est.)<br>
 _male_: 52.98 deaths/1,000 live births<br>
-_female_: 43.51 deaths/1,000 live births (2023 est.)<br>
+_female_: 43.51 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 64.27 years<br>
+_total population_: 64.27 years (2023 est.)<br>
 _male_: 62.38 years<br>
-_female_: 66.21 years (2023 est.)<br>
+_female_: 66.21 years<br>
 
 **Total fertility rate**<br>
 4.82 children born/woman (2023 est.)<br>
@@ -240,9 +240,9 @@ _male_: 10 years<br>
 _female_: 8 years (2014)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.2%<br>
+_total_: 8.2% (2021 est.)<br>
 _male_: 7%<br>
-_female_: 9.2% (2021 est.)<br>
+_female_: 9.2%<br>
 
 ## Environment
 
@@ -470,9 +470,9 @@ _industry_: 24% (2006 est.)<br>
 5.02% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.2%<br>
+_total_: 8.2% (2021 est.)<br>
 _male_: 7%<br>
-_female_: 9.2% (2021 est.)<br>
+_female_: 9.2%<br>
 
 **Population below poverty line**<br>
 43.7% (2018 est.)<br>
@@ -668,8 +668,8 @@ _unpaved_: 40,955 km (2018)<br>
 1,300 km (2011) (navigable by shallow-draft native craft in the northern part of the Niger River system)<br>
 
 **Merchant marine**<br>
-_total_: 3<br>
-_by type_: general cargo 1, other 2 (2022)<br>
+_total_: 3 (2022)<br>
+_by type_: general cargo 1, other 2<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Conakry, Kamsar<br>

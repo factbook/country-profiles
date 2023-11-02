@@ -120,9 +120,9 @@ _elderly dependency ratio_: 7.7<br>
 _potential support ratio_: 13 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.1 years<br>
+_total_: 24.1 years (2020)<br>
 _male_: 23.8 years<br>
-_female_: 24.5 years (2020 est.)<br>
+_female_: 24.5 years<br>
 
 **Population growth rate**<br>
 1.59% (2023 est.)<br>
@@ -161,14 +161,14 @@ _total population_: 1.06 male(s)/female (2023 est.)<br>
 17 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 17.27 deaths/1,000 live births<br>
+_total_: 17.27 deaths/1,000 live births (2023 est.)<br>
 _male_: 18.22 deaths/1,000 live births<br>
-_female_: 16.25 deaths/1,000 live births (2023 est.)<br>
+_female_: 16.25 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.72 years<br>
+_total population_: 74.72 years (2023 est.)<br>
 _male_: 73.53 years<br>
-_female_: 75.98 years (2023 est.)<br>
+_female_: 75.98 years<br>
 
 **Total fertility rate**<br>
 2.76 children born/woman (2023 est.)<br>
@@ -244,9 +244,9 @@ _male_: 14 years<br>
 _female_: 14 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.3%<br>
+_total_: 24.3% (2021 est.)<br>
 _male_: 15.6%<br>
-_female_: 59.5% (2021 est.)<br>
+_female_: 59.5%<br>
 
 ## Environment
 
@@ -480,9 +480,9 @@ _services_: 49.1% (2015 est.)<br>
 7.84% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.3%<br>
+_total_: 24.3% (2021 est.)<br>
 _male_: 15.6%<br>
-_female_: 59.5% (2021 est.)<br>
+_female_: 59.5%<br>
 
 **Population below poverty line**<br>
 32.5% (2017 est.)<br>
@@ -706,8 +706,8 @@ _unpaved_: 17,050 km (2018)<br>
 3,500 km (2018) (includes the Nile River, Lake Nasser, Alexandria-Cairo Waterway, and numerous smaller canals in Nile Delta; the Suez Canal (193.5 km including approaches) is navigable by oceangoing vessels drawing up to 17.68 m)<br>
 
 **Merchant marine**<br>
-_total_: 436<br>
-_by type_: bulk carrier 15, container ship 6, general cargo 27, oil tanker 41, other 347 (2022)<br>
+_total_: 436 (2022)<br>
+_by type_: bulk carrier 15, container ship 6, general cargo 27, oil tanker 41, other 347<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said<br>

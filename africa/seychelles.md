@@ -104,9 +104,9 @@ _elderly dependency ratio_: 11.4<br>
 _potential support ratio_: 8.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 36.8 years<br>
+_total_: 36.8 years (2020)<br>
 _male_: 36.3 years<br>
-_female_: 37.4 years (2020 est.)<br>
+_female_: 37.4 years<br>
 
 **Population growth rate**<br>
 0.6% (2023 est.)<br>
@@ -141,14 +141,14 @@ _total population_: 1.08 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.38 deaths/1,000 live births<br>
+_total_: 10.38 deaths/1,000 live births (2023 est.)<br>
 _male_: 13.07 deaths/1,000 live births<br>
-_female_: 7.6 deaths/1,000 live births (2023 est.)<br>
+_female_: 7.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.36 years<br>
+_total population_: 76.36 years (2023 est.)<br>
 _male_: 71.96 years<br>
-_female_: 80.89 years (2023 est.)<br>
+_female_: 80.89 years<br>
 
 **Total fertility rate**<br>
 1.81 children born/woman (2023 est.)<br>
@@ -217,9 +217,9 @@ _male_: 13 years<br>
 _female_: 16 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.5%<br>
+_total_: 16.5% (2020 est.)<br>
 _male_: 17.5%<br>
-_female_: 15.6% (2020 est.)<br>
+_female_: 15.6%<br>
 
 ## Environment
 
@@ -431,9 +431,9 @@ _services_: 74% (2006)<br>
 2.7% (2016 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.5%<br>
+_total_: 16.5% (2020 est.)<br>
 _male_: 17.5%<br>
-_female_: 15.6% (2020 est.)<br>
+_female_: 15.6%<br>
 
 **Population below poverty line**<br>
 25.3% (2018 est.)<br>
@@ -627,8 +627,8 @@ _paved_: 514 km (2015)<br>
 _unpaved_: 12 km (2015)<br>
 
 **Merchant marine**<br>
-_total_: 31<br>
-_by type_: general cargo 6, oil tanker 7, other 18 (2022)<br>
+_total_: 31 (2022)<br>
+_by type_: general cargo 6, oil tanker 7, other 18<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Victoria<br>

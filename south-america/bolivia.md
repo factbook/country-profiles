@@ -115,9 +115,9 @@ _elderly dependency ratio_: 12<br>
 _potential support ratio_: 8.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 25.3 years<br>
+_total_: 25.3 years (2020)<br>
 _male_: 24.5 years<br>
-_female_: 26 years (2020 est.)<br>
+_female_: 26 years<br>
 
 **Population growth rate**<br>
 1.06% (2023 est.)<br>
@@ -156,14 +156,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 161 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.28 deaths/1,000 live births<br>
+_total_: 22.28 deaths/1,000 live births (2023 est.)<br>
 _male_: 24.5 deaths/1,000 live births<br>
-_female_: 19.95 deaths/1,000 live births (2023 est.)<br>
+_female_: 19.95 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.5 years<br>
+_total population_: 72.5 years (2023 est.)<br>
 _male_: 71.04 years<br>
-_female_: 74.02 years (2023 est.)<br>
+_female_: 74.02 years<br>
 
 **Total fertility rate**<br>
 2.26 children born/woman (2023 est.)<br>
@@ -240,9 +240,9 @@ _male_: 96.5%<br>
 _female_: 88.6% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.4%<br>
+_total_: 17.4% (2021 est.)<br>
 _male_: 16.8%<br>
-_female_: 18.4% (2021 est.)<br>
+_female_: 18.4%<br>
 
 ## Environment
 
@@ -479,9 +479,9 @@ _services_: 48.6% (2015 est.)<br>
 <strong>note:</strong> data are for urban areas; widespread underemployment<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.4%<br>
+_total_: 17.4% (2021 est.)<br>
 _male_: 16.8%<br>
-_female_: 18.4% (2021 est.)<br>
+_female_: 18.4%<br>
 
 **Population below poverty line**<br>
 37.2% (2019 est.)<br>
@@ -696,8 +696,8 @@ _unpaved_: 80,776 km (2017)<br>
 10,000 km (2012) (commercially navigable almost exclusively in the northern and eastern parts of the country)<br>
 
 **Merchant marine**<br>
-_total_: 46<br>
-_by type_: general cargo 29, oil tanker 3, other 14 (2022)<br>
+_total_: 46 (2022)<br>
+_by type_: general cargo 29, oil tanker 3, other 14<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Puerto Aguirre (Paraguay/Parana)<br>

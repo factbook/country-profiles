@@ -109,9 +109,9 @@ _elderly dependency ratio_: 8<br>
 _potential support ratio_: 12.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 27.3 years<br>
+_total_: 27.3 years (2020)<br>
 _male_: 26.4 years<br>
-_female_: 28.2 years (2020 est.)<br>
+_female_: 28.2 years<br>
 
 **Population growth rate**<br>
 0.91% (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 78 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.63 deaths/1,000 live births<br>
+_total_: 18.63 deaths/1,000 live births (2023 est.)<br>
 _male_: 21.7 deaths/1,000 live births<br>
-_female_: 15.4 deaths/1,000 live births (2023 est.)<br>
+_female_: 15.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.05 years<br>
+_total population_: 75.05 years (2023 est.)<br>
 _male_: 72.84 years<br>
-_female_: 77.36 years (2023 est.)<br>
+_female_: 77.36 years<br>
 
 **Total fertility rate**<br>
 1.78 children born/woman (2023 est.)<br>
@@ -221,9 +221,9 @@ _male_: 82.4%<br>
 _female_: 82.8% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.6%<br>
+_total_: 11.6% (2021 est.)<br>
 _male_: 10.2%<br>
-_female_: 15.5% (2021 est.)<br>
+_female_: 15.5%<br>
 
 ## Environment
 
@@ -448,9 +448,9 @@ _services_: 50% (2011 est.)<br>
 <strong>note:</strong> underemployment was 46.5% in 2008<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.6%<br>
+_total_: 11.6% (2021 est.)<br>
 _male_: 10.2%<br>
-_female_: 15.5% (2021 est.)<br>
+_female_: 15.5%<br>
 
 **Population below poverty line**<br>
 24.9% (2016 est.)<br>
@@ -649,8 +649,8 @@ _unpaved_: 20,551 km (2014)<br>
 2,220 km (2011) (navigable waterways as well as the use of the large Lake Managua and Lake Nicaragua; rivers serve only the sparsely populated eastern part of the country)<br>
 
 **Merchant marine**<br>
-_total_: 5<br>
-_by type_: general cargo 1, oil tanker 1, other 3 (2022)<br>
+_total_: 5 (2022)<br>
+_by type_: general cargo 1, oil tanker 1, other 3<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bluefields, Corinto<br>

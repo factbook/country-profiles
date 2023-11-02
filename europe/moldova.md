@@ -107,9 +107,9 @@ _elderly dependency ratio_: 20.4<br>
 _potential support ratio_: 4.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 37.7 years<br>
+_total_: 37.7 years (2020)<br>
 _male_: 36.2 years<br>
-_female_: 39.5 years (2020 est.)<br>
+_female_: 39.5 years<br>
 
 **Population growth rate**<br>
 -1.14% (2023 est.)<br>
@@ -147,14 +147,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 12 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.38 deaths/1,000 live births<br>
+_total_: 11.38 deaths/1,000 live births (2023 est.)<br>
 _male_: 13.29 deaths/1,000 live births<br>
-_female_: 9.35 deaths/1,000 live births (2023 est.)<br>
+_female_: 9.35 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.72 years<br>
+_total population_: 72.72 years (2023 est.)<br>
 _male_: 68.9 years<br>
-_female_: 76.77 years (2023 est.)<br>
+_female_: 76.77 years<br>
 
 **Total fertility rate**<br>
 1.59 children born/woman (2023 est.)<br>
@@ -223,9 +223,9 @@ _male_: 14 years<br>
 _female_: 15 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.6%<br>
+_total_: 8.6% (2021 est.)<br>
 _male_: 5.3%<br>
-_female_: 14.7% (2021 est.)<br>
+_female_: 14.7%<br>
 
 ## Environment
 
@@ -455,9 +455,9 @@ _services_: 55.7% (2017 est.)<br>
 5.1% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.6%<br>
+_total_: 8.6% (2021 est.)<br>
 _male_: 5.3%<br>
-_female_: 14.7% (2021 est.)<br>
+_female_: 14.7%<br>
 
 **Population below poverty line**<br>
 7.3% (2018 est.)<br>
@@ -661,8 +661,8 @@ _unpaved_: 517 km (2012)<br>
 558 km (2011) (in public use on Danube, Dniester and Prut Rivers)<br>
 
 **Merchant marine**<br>
-_total_: 126<br>
-_by type_: bulk carrier 5, container ship 2, general cargo 79, oil tanker 7, other 33 (2022)<br>
+_total_: 126 (2022)<br>
+_by type_: bulk carrier 5, container ship 2, general cargo 79, oil tanker 7, other 33<br>
 
 ## Military and Security
 
@@ -696,7 +696,7 @@ the National Army is responsible for defense against external aggression, suppre
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 119,375 (Ukraine) (as of 8 October 2023)<br>
+_refugees (country of origin)_: 113,000 (Ukraine) (as of 15 October 2023)<br>
 _stateless persons_: 1,701 (2022)<br>
 
 **Illicit drugs**<br>

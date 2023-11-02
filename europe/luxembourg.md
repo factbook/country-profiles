@@ -104,9 +104,9 @@ _elderly dependency ratio_: 21.3<br>
 _potential support ratio_: 4.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 39.5 years<br>
+_total_: 39.5 years (2020)<br>
 _male_: 38.9 years<br>
-_female_: 40 years (2020 est.)<br>
+_female_: 40 years<br>
 
 **Population growth rate**<br>
 1.58% (2023 est.)<br>
@@ -144,14 +144,14 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 6 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.21 deaths/1,000 live births<br>
+_total_: 3.21 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.6 deaths/1,000 live births<br>
-_female_: 2.79 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.79 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.17 years<br>
+_total population_: 83.17 years (2023 est.)<br>
 _male_: 80.73 years<br>
-_female_: 85.76 years (2023 est.)<br>
+_female_: 85.76 years<br>
 
 **Total fertility rate**<br>
 1.63 children born/woman (2023 est.)<br>
@@ -222,9 +222,9 @@ _male_: 15 years<br>
 _female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.2%<br>
+_total_: 15.2% (2021 est.)<br>
 _male_: 16.3%<br>
-_female_: 14.1% (2021 est.)<br>
+_female_: 14.1%<br>
 
 ## Environment
 
@@ -333,7 +333,7 @@ _elections/appointments_: the monarchy is hereditary; following elections to the
 **Legislative branch**<br>
 _description_: unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms); note - a 21-member Council of State appointed by the Grand Duke on the advice of the prime minister serves as an advisory body to the Chamber of Deputies<br>
 _elections_: last held on 8 October 2023 (next to be held by 31 October 2028)<br>
-_election results_: percent of vote by party - CSV 29.2%, LSAP 18.9%, DP 18.7%, ADR 9.3%, Green Party 8.6%, Pirate Party 6.7%, The Left 3.9%; seats by party - CSV 21, DP 14, LSAP 11, ADR 5, Green Party 4, Pirate Party 3, The Left 2; composition (as of October 2023) - men 39, women 21, percent of women 35%<br>
+_election results_: percent of vote by party - CSV 29.2%, LSAP 18.9%, DP 18.7%, ADR 9.3%, Green Party 8.6%, Pirate Party 6.7%, The Left 3.9%; seats by party - CSV 21, DP 14, LSAP 11, ADR 5, Green Party 4, Pirate Party 3, The Left 2; composition (as of October 2023) - men 42, women 18, percent of women 30%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice includes Court of Appeal and Court of Cassation (consists of 27 judges on 9 benches); Constitutional Court (consists of 9 members)<br>
@@ -450,9 +450,9 @@ _services_: 78.9% (2013 est.)<br>
 5.59% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.2%<br>
+_total_: 15.2% (2021 est.)<br>
 _male_: 16.3%<br>
-_female_: 14.1% (2021 est.)<br>
+_female_: 14.1%<br>
 
 **Population below poverty line**<br>
 17.5% (2018 est.)<br>
@@ -654,8 +654,8 @@ _total_: 2,875 km (2019)<br>
 37 km (2010) (on Moselle River)<br>
 
 **Merchant marine**<br>
-_total_: 149<br>
-_by type_: bulk carrier 4, container ship 1, general cargo 27, oil tanker 3, other 114 (2022)<br>
+_total_: 149 (2022)<br>
+_by type_: bulk carrier 4, container ship 1, general cargo 27, oil tanker 3, other 114<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Mertert (Moselle)<br>

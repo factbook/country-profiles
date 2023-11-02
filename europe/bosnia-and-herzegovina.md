@@ -105,9 +105,9 @@ _elderly dependency ratio_: 27.1<br>
 _potential support ratio_: 3.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 43.3 years<br>
+_total_: 43.3 years (2020)<br>
 _male_: 41.6 years<br>
-_female_: 44.8 years (2020 est.)<br>
+_female_: 44.8 years<br>
 
 **Population growth rate**<br>
 -0.23% (2023 est.)<br>
@@ -145,14 +145,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 6 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.1 deaths/1,000 live births<br>
+_total_: 5.1 deaths/1,000 live births (2023 est.)<br>
 _male_: 5.23 deaths/1,000 live births<br>
-_female_: 4.96 deaths/1,000 live births (2023 est.)<br>
+_female_: 4.96 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.22 years<br>
+_total population_: 78.22 years (2023 est.)<br>
 _male_: 75.28 years<br>
-_female_: 81.38 years (2023 est.)<br>
+_female_: 81.38 years<br>
 
 **Total fertility rate**<br>
 1.37 children born/woman (2023 est.)<br>
@@ -221,9 +221,9 @@ _male_: 14 years<br>
 _female_: 15 years (2014)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 32.9%<br>
+_total_: 32.9% (2021 est.)<br>
 _male_: 28.2%<br>
-_female_: 39.9% (2021 est.)<br>
+_female_: 39.9%<br>
 
 ## Environment
 
@@ -455,9 +455,9 @@ _services_: 51.7% (2017 est.)<br>
 <strong>note:</strong> official rate; actual rate is lower as many technically unemployed persons work in the gray economy<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 32.9%<br>
+_total_: 32.9% (2021 est.)<br>
 _male_: 28.2%<br>
-_female_: 39.9% (2021 est.)<br>
+_female_: 39.9%<br>
 
 **Population below poverty line**<br>
 16.9% (2015 est.)<br>
@@ -709,7 +709,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 **Refugees and internally displaced persons**<br>
 _IDPs_: 91,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2022)<br>
 _stateless persons_: 48 (2022)<br>
-<strong>note: </strong>138,716 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
+<strong>note: </strong>139,583 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>

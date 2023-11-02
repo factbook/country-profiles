@@ -112,9 +112,9 @@ _elderly dependency ratio_: 5.8<br>
 _potential support ratio_: 17.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 23.5 years<br>
+_total_: 23.5 years (2020)<br>
 _male_: 23.9 years<br>
-_female_: 22.9 years (2020 est.)<br>
+_female_: 22.9 years<br>
 
 **Population growth rate**<br>
 0.79% (2023 est.)<br>
@@ -153,14 +153,14 @@ _total population_: 1.1 male(s)/female (2023 est.)<br>
 41 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.56 deaths/1,000 live births<br>
+_total_: 13.56 deaths/1,000 live births (2023 est.)<br>
 _male_: 14.66 deaths/1,000 live births<br>
-_female_: 12.39 deaths/1,000 live births (2023 est.)<br>
+_female_: 12.39 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.26 years<br>
+_total population_: 76.26 years (2023 est.)<br>
 _male_: 74.77 years<br>
-_female_: 77.84 years (2023 est.)<br>
+_female_: 77.84 years<br>
 
 **Total fertility rate**<br>
 2.91 children born/woman (2023 est.)<br>
@@ -237,9 +237,9 @@ _male_: 10 years<br>
 _female_: 11 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 40.5%<br>
+_total_: 40.5% (2021 est.)<br>
 _male_: 37.4%<br>
-_female_: 53.8% (2021 est.)<br>
+_female_: 53.8%<br>
 
 ## Environment
 
@@ -472,9 +472,9 @@ _services_: 78% (2013 est.)<br>
 <strong>note:</strong> official rate; unofficial rate is approximately 30%<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 40.5%<br>
+_total_: 40.5% (2021 est.)<br>
 _male_: 37.4%<br>
-_female_: 53.8% (2021 est.)<br>
+_female_: 53.8%<br>
 
 **Population below poverty line**<br>
 15.7% (2018 est.)<br>
@@ -682,8 +682,8 @@ _total_: 7,203 km (2011)<br>
 _paved_: 7,203 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 35<br>
-_by type_: general cargo 6, other 29 (2022)<br>
+_total_: 35 (2022)<br>
+_by type_: general cargo 6, other 29<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Al 'Aqabah<br>

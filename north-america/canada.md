@@ -119,9 +119,9 @@ _elderly dependency ratio_: 28.2<br>
 _potential support ratio_: 3.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 41.8 years<br>
+_total_: 41.8 years (2020)<br>
 _male_: 40.6 years<br>
-_female_: 42.9 years (2020 est.)<br>
+_female_: 42.9 years<br>
 
 **Population growth rate**<br>
 0.73% (2023 est.)<br>
@@ -159,14 +159,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 11 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.31 deaths/1,000 live births<br>
+_total_: 4.31 deaths/1,000 live births (2023 est.)<br>
 _male_: 4.6 deaths/1,000 live births<br>
-_female_: 4.02 deaths/1,000 live births (2023 est.)<br>
+_female_: 4.02 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.99 years<br>
+_total population_: 83.99 years (2023 est.)<br>
 _male_: 81.72 years<br>
-_female_: 86.39 years (2023 est.)<br>
+_female_: 86.39 years<br>
 
 **Total fertility rate**<br>
 1.57 children born/woman (2023 est.)<br>
@@ -237,9 +237,9 @@ _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14%<br>
+_total_: 14% (2021 est.)<br>
 _male_: 15%<br>
-_female_: 13.1% (2021 est.)<br>
+_female_: 13.1%<br>
 
 ## Environment
 
@@ -478,9 +478,9 @@ _manufacturing_: 3% (2006 est.)<br>
 5.66% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14%<br>
+_total_: 14% (2021 est.)<br>
 _male_: 15%<br>
-_female_: 13.1% (2021 est.)<br>
+_female_: 13.1%<br>
 
 **Population below poverty line**<br>
 9.4% (2008 est.)<br>
@@ -704,8 +704,8 @@ _unpaved_: 626,700 km (2011)<br>
 636 km (2011) (Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, shared with United States)<br>
 
 **Merchant marine**<br>
-_total_: 689<br>
-_by type_: bulk carrier 21, container ship 1, general cargo 65, oil tanker 15, other 587 (2022)<br>
+_total_: 689 (2022)<br>
+_by type_: bulk carrier 21, container ship 1, general cargo 65, oil tanker 15, other 587<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Halifax, Saint John (New Brunswick), Vancouver<br>

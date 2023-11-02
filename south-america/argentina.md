@@ -120,9 +120,9 @@ _elderly dependency ratio_: 18.2<br>
 _potential support ratio_: 5.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 32.4 years<br>
+_total_: 32.4 years (2020)<br>
 _male_: 31.1 years<br>
-_female_: 33.6 years (2020 est.)<br>
+_female_: 33.6 years<br>
 
 **Population growth rate**<br>
 0.8% (2023 est.)<br>
@@ -157,14 +157,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 45 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.14 deaths/1,000 live births<br>
+_total_: 9.14 deaths/1,000 live births (2023 est.)<br>
 _male_: 10.13 deaths/1,000 live births<br>
-_female_: 8.09 deaths/1,000 live births (2023 est.)<br>
+_female_: 8.09 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.55 years<br>
+_total population_: 78.55 years (2023 est.)<br>
 _male_: 75.49 years<br>
-_female_: 81.81 years (2023 est.)<br>
+_female_: 81.81 years<br>
 
 **Total fertility rate**<br>
 2.17 children born/woman (2023 est.)<br>
@@ -239,9 +239,9 @@ _male_: 17 years<br>
 _female_: 20 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.9%<br>
+_total_: 29.9% (2021 est.)<br>
 _male_: 25%<br>
-_female_: 37.1% (2021 est.)<br>
+_female_: 37.1%<br>
 
 ## Environment
 
@@ -479,9 +479,9 @@ _services_: 66.1% (2017 est.)<br>
 9.84% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.9%<br>
+_total_: 29.9% (2021 est.)<br>
 _male_: 25%<br>
-_female_: 37.1% (2021 est.)<br>
+_female_: 37.1%<br>
 
 **Population below poverty line**<br>
 35.5% (2019 est.)<br>
@@ -701,8 +701,8 @@ _unpaved_: 163,674 km (2017)<br>
 11,000 km (2012)<br>
 
 **Merchant marine**<br>
-_total_: 203<br>
-_by type_: container ship 1, bulk carrier 1 general cargo 8, oil tanker 33, other 160 (2022)<br>
+_total_: 203 (2022)<br>
+_by type_: container ship 1, bulk carrier 1 general cargo 8, oil tanker 33, other 160<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Ushuaia<br>
@@ -763,7 +763,7 @@ Hizballah<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Argentina-Bolivia:</em> Contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of the border with Bolivia<br><br><em>Argentina-Brazil:</em> Uncontested dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question.<br><br><em>Argentina-Chile:</em> The joint boundary commission, established by Chile and Argentina in 2001 has yet to map and demarcate the delimited boundary in the inhospitable Andean Southern Ice Field (Campo de Hielo Sur).<br><br><em>Argentina-Paraguay:</em> None identified<br><br><em>Argentina-Uruguay:</em> In 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime. Isla de Martín Garcia situated in the Rio de la Plata estuary is wholly within Uruguayan territorial waters but up to its low tide mark, the island is Argentinian territory.  The island is accorded unrestricted access rights.<br><br><em>Argentina-United Kingdom:</em> Argentina continues to assert its claims to the UK-administered Falkland Islands (Islas Malvinas), South Georgia, and the South Sandwich Islands in its constitution, forcibly occupying the Falklands in 1982, but in 1995 agreed to no longer seek settlement by force; UK continues to reject Argentine requests for sovereignty talks.</p><br>
+<p><em>Argentina-Bolivia:</em> contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of the border with Bolivia<br><br><em>Argentina-Brazil:</em> uncontested dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question<br><br><em>Argentina-Chile:</em> the joint boundary commission, established by Chile and Argentina in 2001 has yet to map and demarcate the delimited boundary in the inhospitable Southern Patagonian Ice Field (Campo de Hielo Sur); Chile in 2021 renewed a claim to 5,000 square kilometers (1,930 square miles) of continental shelf in the Drake Sea between Chile's Cape Horn, its mainland and the South Shetland Islands of Antarctica; the piece of undersea territory is known as Medialuna, and the claim includes the water above it; the two countries came close to war in the late 1970s in a dispute--known as the Beagle Conflict--over the possession of Picton, Lennox and Nueva islands and the scope of the maritime jurisdiction associated with those islands, which are strategically located off the south edge of Tierra del Fuego and at the east end of the Beagle Channel; the Beagle Channel, the Straits of Magellan, and the Drake Passage are the only three waterways between the Pacific Ocean and the Atlantic Ocean in the southern hemisphere<br><br><em>Argentina-Paraguay:</em> none identified<br><br><em>Argentina-Uruguay:</em> in 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime. Isla de Martín Garcia situated in the Rio de la Plata estuary is wholly within Uruguayan territorial waters but up to its low tide mark, the island is Argentinian territory; the island is accorded unrestricted access rights<br><br><em>Argentina-United Kingdom:</em> Argentina continues to assert its claims to the UK-administered Falkland Islands (Islas Malvinas), South Georgia, and the South Sandwich Islands in its constitution, forcibly occupying the Falklands in 1982, but in 1995 agreed to no longer seek settlement by force; UK continues to reject Argentine requests for sovereignty talks</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 220,495 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022)<br>

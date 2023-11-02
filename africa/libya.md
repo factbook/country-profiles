@@ -114,9 +114,9 @@ _elderly dependency ratio_: 7.3<br>
 _potential support ratio_: 13.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 25.8 years<br>
+_total_: 25.8 years (2020)<br>
 _male_: 25.9 years<br>
-_female_: 25.7 years (2020 est.)<br>
+_female_: 25.7 years<br>
 
 **Population growth rate**<br>
 1.54% (2023 est.)<br>
@@ -151,14 +151,14 @@ _total population_: 1.04 male(s)/female (2023 est.)<br>
 72 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.95 deaths/1,000 live births<br>
+_total_: 10.95 deaths/1,000 live births (2023 est.)<br>
 _male_: 12.36 deaths/1,000 live births<br>
-_female_: 9.48 deaths/1,000 live births (2023 est.)<br>
+_female_: 9.48 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.42 years<br>
+_total population_: 77.42 years (2023 est.)<br>
 _male_: 75.2 years<br>
-_female_: 79.76 years (2023 est.)<br>
+_female_: 79.76 years<br>
 
 **Total fertility rate**<br>
 3.04 children born/woman (2023 est.)<br>
@@ -220,9 +220,9 @@ _male_: 96.7%<br>
 _female_: 85.6% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 50.5%<br>
+_total_: 50.5% (2021 est.)<br>
 _male_: 41.4%<br>
-_female_: 73.8% (2021 est.)<br>
+_female_: 73.8%<br>
 
 ## Environment
 
@@ -438,9 +438,9 @@ _services_: 59% (2004 est.)<br>
 19.66% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 50.5%<br>
+_total_: 50.5% (2021 est.)<br>
 _male_: 41.4%<br>
-_female_: 73.8% (2021 est.)<br>
+_female_: 73.8%<br>
 
 **Population below poverty line**<br>
 <p><strong>note:</strong> about one-third of Libyans live at or below the national poverty line</p><br>
@@ -638,8 +638,8 @@ _paved_: 34,000 km (2010)<br>
 _unpaved_: 3,000 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 94<br>
-_by type_: general cargo 2, oil tanker 12, other 80 (2022)<br>
+_total_: 94 (2022)<br>
+_by type_: general cargo 2, oil tanker 12, other 80<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Marsa al Burayqah (Marsa el Brega), Tripoli<br>

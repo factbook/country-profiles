@@ -100,9 +100,9 @@ _elderly dependency ratio_: 23<br>
 _potential support ratio_: 4.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 39.9 years<br>
+_total_: 39.9 years (2020)<br>
 _male_: 38.2 years<br>
-_female_: 41.5 years (2020 est.)<br>
+_female_: 41.5 years<br>
 
 **Population growth rate**<br>
 1.11% (2023 est.)<br>
@@ -134,14 +134,14 @@ _65 years and over_: 0.67 male(s)/female<br>
 _total population_: 0.9 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.79 deaths/1,000 live births<br>
+_total_: 11.79 deaths/1,000 live births (2023 est.)<br>
 _male_: 16.04 deaths/1,000 live births<br>
-_female_: 7.45 deaths/1,000 live births (2023 est.)<br>
+_female_: 7.45 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.25 years<br>
+_total population_: 78.25 years (2023 est.)<br>
 _male_: 75.19 years<br>
-_female_: 81.37 years (2023 est.)<br>
+_female_: 81.37 years<br>
 
 **Total fertility rate**<br>
 1.82 children born/woman (2023 est.)<br>
@@ -556,8 +556,8 @@ P4<br>
 _total_: 1,000 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 1<br>
-_by type_: other 1 (2022)<br>
+_total_: 1 (2022)<br>
+_by type_: other 1<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Barcadera, Oranjestad<br>

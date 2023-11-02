@@ -80,9 +80,9 @@ _elderly dependency ratio_: NA<br>
 _potential support ratio_: NA<br>
 
 **Median age**<br>
-_total_: 44 years<br>
+_total_: 44 years (2020)<br>
 _male_: 42.6 years<br>
-_female_: 45.5 years (2020 est.)<br>
+_female_: 45.5 years<br>
 
 **Population growth rate**<br>
 (2021 est.) 0.10%<br>
@@ -107,14 +107,14 @@ _65 years and over_: 0.75 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.47 deaths/1,000 live births<br>
+_total_: 3.47 deaths/1,000 live births (2021)<br>
 _male_: 3.32 deaths/1,000 live births<br>
-_female_: 3.62 deaths/1,000 live births (2021 est.)<br>
+_female_: 3.62 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.63 years<br>
+_total population_: 77.63 years (2021)<br>
 _male_: 72.98 years<br>
-_female_: 82.51 years (2021 est.)<br>
+_female_: 82.51 years<br>
 
 **Total fertility rate**<br>
 (2021 est.) 1.62 children born/woman<br>
@@ -150,9 +150,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.5%<br>
+_total_: 19.5% (2021 est.)<br>
 _male_: 18.9%<br>
-_female_: 20.4% (2021 est.)<br>
+_female_: 20.4%<br>
 
 ## Environment
 
@@ -329,9 +329,9 @@ _services_: 73.1% (2014 est.)<br>
 6.69% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.5%<br>
+_total_: 19.5% (2021 est.)<br>
 _male_: 18.9%<br>
-_female_: 20.4% (2021 est.)<br>
+_female_: 20.4%<br>
 
 **Population below poverty line**<br>
 9.8% (2013 est.)<br>
@@ -489,7 +489,7 @@ _major port(s)_: Antwerp (Belgium), Barcelona (Spain), Braila (Romania), Bremen 
 <strong>note 1:</strong> the European Defense Fund (EDF) has a budget of  approximately $8 billion for 2021-2027; about $2.7 billion is devoted to funding collaborative defense research while about $5.3 billion is allocated for collaborative capability development projects that complement national contributions; EDF "categories for action" include areas such as information air and missile defense, cyber and information security, digital transformation, force protection, medical services, space, training, and air, ground, and naval combat capabilities <br><br><strong>note 2:</strong> NATO is resourced through the direct and indirect contributions of its members; NATO’s common funds are direct contributions to collective budgets, capabilities and programs, which equate to only 0.3% of total NATO defense spending (approximately $3.3 billion for 2023) to develop capabilities and run NATO, its military commands, capabilities, and infrastructure; NATO's 2014 Defense Investment Pledge called for NATO members to meet the 2% of GDP guideline for defense spending and the 20% of annual defense expenditure on major new equipment by 2024; since Russia’s full-scale invasion of Ukraine in February 2022, a majority of the NATO countries have committed to investing more in defense and at a more rapid pace<br>
 
 **Military and security service personnel strengths**<br>
-the 27 EU countries have a cumulative total of approximately 1.34 million active duty troops; the largest EU country military forces belong to France, Germany, and Italy (2021)<br>
+the 27 EU countries have a cumulative total of approximately 1.34 million active-duty troops; the largest EU country military forces belong to France, Germany, and Italy (2023)<br>
 <strong>note:</strong> the combined forces of NATO have approximately 3.3 million active duty personnel<br>
 
 **Military deployments**<br>

@@ -109,9 +109,9 @@ _elderly dependency ratio_: 24.4<br>
 _potential support ratio_: 4.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 37.2 years<br>
+_total_: 37.2 years (2020)<br>
 _male_: 36.4 years<br>
-_female_: 37.9 years (2020 est.)<br>
+_female_: 37.9 years<br>
 
 **Population growth rate**<br>
 1.06% (2023 est.)<br>
@@ -149,14 +149,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 7 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.39 deaths/1,000 live births<br>
+_total_: 3.39 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.58 deaths/1,000 live births<br>
-_female_: 3.18 deaths/1,000 live births (2023 est.)<br>
+_female_: 3.18 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.74 years<br>
+_total population_: 82.74 years (2023 est.)<br>
 _male_: 80.98 years<br>
-_female_: 84.58 years (2023 est.)<br>
+_female_: 84.58 years<br>
 
 **Total fertility rate**<br>
 1.86 children born/woman (2023 est.)<br>
@@ -228,9 +228,9 @@ _male_: 20 years<br>
 _female_: 21 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.4%<br>
+_total_: 11.4% (2021 est.)<br>
 _male_: 12.2%<br>
-_female_: 10.6% (2021 est.)<br>
+_female_: 10.6%<br>
 
 ## Environment
 
@@ -458,9 +458,9 @@ _services_: 72.7% (2017 est.)<br>
 4.11% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.4%<br>
+_total_: 11.4% (2021 est.)<br>
 _male_: 12.2%<br>
-_female_: 10.6% (2021 est.)<br>
+_female_: 10.6%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -668,8 +668,8 @@ _paved_: 61,600 km (2017) (includes 199 km of expressways)<br>
 _unpaved_: 32,400 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 116<br>
-_by type_: container ship 1, general cargo 12, oil tanker 5, other 98 (2022)<br>
+_total_: 116 (2022)<br>
+_by type_: container ship 1, general cargo 12, oil tanker 5, other 98<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga, Wellington<br>

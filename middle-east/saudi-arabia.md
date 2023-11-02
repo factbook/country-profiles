@@ -111,9 +111,9 @@ _elderly dependency ratio_: 3.7<br>
 _potential support ratio_: 27.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.8 years<br>
+_total_: 30.8 years (2020)<br>
 _male_: 33 years<br>
-_female_: 27.9 years (2020 est.)<br>
+_female_: 27.9 years<br>
 
 **Population growth rate**<br>
 1.65% (2023 est.)<br>
@@ -148,14 +148,14 @@ _total population_: 1.31 male(s)/female (2023 est.)<br>
 16 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.97 deaths/1,000 live births<br>
+_total_: 11.97 deaths/1,000 live births (2023 est.)<br>
 _male_: 13.16 deaths/1,000 live births<br>
-_female_: 10.71 deaths/1,000 live births (2023 est.)<br>
+_female_: 10.71 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.91 years<br>
+_total population_: 76.91 years (2023 est.)<br>
 _male_: 75.33 years<br>
-_female_: 78.56 years (2023 est.)<br>
+_female_: 78.56 years<br>
 
 **Total fertility rate**<br>
 1.89 children born/woman (2023 est.)<br>
@@ -227,9 +227,9 @@ _male_: 17 years<br>
 _female_: 16 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.8%<br>
+_total_: 28.8% (2021 est.)<br>
 _male_: 22.4%<br>
-_female_: 47.9% (2021 est.)<br>
+_female_: 47.9%<br>
 
 ## Environment
 
@@ -460,9 +460,9 @@ _services_: 71.9% (2005 est.)<br>
 <strong>note:</strong> data are for total population; unemployment among Saudi nationals is more than double<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.8%<br>
+_total_: 28.8% (2021 est.)<br>
 _male_: 22.4%<br>
-_female_: 47.9% (2021 est.)<br>
+_female_: 47.9%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -674,8 +674,8 @@ _paved_: 47,529 km (2006) (includes 3,891 km of expressways)<br>
 _unpaved_: 173,843 km (2006)<br>
 
 **Merchant marine**<br>
-_total_: 413<br>
-_by type_: bulk carrier 6, container ship 1, general cargo 21, oil tanker 58, other 327 (2022)<br>
+_total_: 413 (2022)<br>
+_by type_: bulk carrier 6, container ship 1, general cargo 21, oil tanker 58, other 327<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu'<br>

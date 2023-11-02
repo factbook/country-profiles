@@ -106,9 +106,9 @@ _potential support ratio_: 4.8 (2021 est.)<br>
 <strong>note:</strong> data represent the whole country<br>
 
 **Median age**<br>
-_total_: 37.9 years<br>
+_total_: 37.9 years (2020)<br>
 _male_: 36.7 years<br>
-_female_: 39.4 years (2020 est.)<br>
+_female_: 39.4 years<br>
 
 **Population growth rate**<br>
 1% (2023 est.)<br>
@@ -147,14 +147,14 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 68 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.2 deaths/1,000 live births<br>
+_total_: 8.2 deaths/1,000 live births (2023 est.)<br>
 _male_: 9.87 deaths/1,000 live births<br>
-_female_: 6.46 deaths/1,000 live births (2023 est.)<br>
+_female_: 6.46 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.96 years<br>
+_total population_: 79.96 years (2023 est.)<br>
 _male_: 77.18 years<br>
-_female_: 82.89 years (2023 est.)<br>
+_female_: 82.89 years<br>
 
 **Total fertility rate**<br>
 1.48 children born/woman (2023 est.)<br>
@@ -226,9 +226,9 @@ _male_: 16 years<br>
 _female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.8%<br>
+_total_: 11.8% (2021 est.)<br>
 _male_: 9.2%<br>
-_female_: 14.9% (2021 est.)<br>
+_female_: 14.9%<br>
 
 **People - note**<br>
 demographic data for Cyprus represent the population of the government-controlled area and the area administered by Turkish Cypriots, unless otherwise indicated<br>
@@ -460,9 +460,9 @@ _services_: 81% (2014 est.)<br>
 7.07% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.8%<br>
+_total_: 11.8% (2021 est.)<br>
 _male_: 9.2%<br>
-_female_: 14.9% (2021 est.)<br>
+_female_: 14.9%<br>
 
 **Population below poverty line**<br>
 14.7% (2018 est.)<br>
@@ -663,8 +663,8 @@ _unpaved_: 4,270 km (2016)<br>
 _Turkish Cypriot control_: 7,000 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 1,030<br>
-_by type_: bulk carrier 255, container ship 169, general cargo 200, oil tanker 61, other 345 (2022)<br>
+_total_: 1,030 (2022)<br>
+_by type_: bulk carrier 255, container ship 169, general cargo 200, oil tanker 61, other 345<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: area under government control: Larnaca, Limassol, Vasilikos<br>

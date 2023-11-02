@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Vanuatu was first settled around 2000 B.C. by Austronesian speakers from Solomon Islands. By around 1000, localized chieftain systems began to develop on the islands. In the mid-1400s, the Kuwae Volcano erupted, causing frequent conflict and internal strife amid declining food availability, especially on Efate Island. Around 1600, Chief ROI MATA united Efate under his rule. In 1606, Portuguese explorer Pedro Fernandes de QUEIROS was the first European to see the Banks Islands and Espiritu Santo, setting up a short-lived settlement on the latter. The next European explorers arrived in the 1760s, and in 1774, British navigator James COOK named the islands the New Hebrides. The islands were frequented by whalers in the 1800s and interest in harvesting the islands’ sandalwood trees caused conflict between Europeans and local Ni-Vanuatu. Catholic and Protestant missionaries arrived in the 1840s but faced difficulties converting the locals. In the 1860s, European planters in Australia, Fiji, New Caledonia, and Samoa needed labor and kidnapped almost half the adult males of the islands and forced them to work as indentured servants.<br><br>With growing and overlapping interests in the islands, France and the UK agreed that the New Hebrides would be neutral in 1878 and established a joint naval commission in 1887. In 1906, the two countries created the British-French Condominium to jointly administer the islands and they established separate laws, police forces, currencies, and education and health systems. The condominium arrangement was dysfunctional and the UK used France’s defeat to Germany in World War II to assert greater control over the islands. As Japan pushed into Melanesia, the US stationed up to 50,000 soldiers in Vanuatu to prevent further advances. In 1945, US troops withdrew and sold their equipment, leading to the rise of political and religious cargo cults, such as the John Frum movement.<br><br>The France-UK condominium was reestablished after World War II. The UK was interested in moving the condominium toward independence in the 1960s, but France was hesitant and political parties agitating independence began to form, largely divided along linguistic lines. France eventually relented and elections were held in 1974 with independence granted in 1980 as Vanuatu under English-speaking Prime Minister Walter LINI. At independence, the Nagriamel Movement, with support from French-speaking landowners, declared Espiritu Santo independent, but the short-lived state was dissolved 12 weeks later. Linguistic divisions have lessened over time but highly fractious political parties have led to weak coalition governments that require support from both Anglophone and Francophone parties. Since 2008, prime ministers have been ousted through no-confidence motions or temporary procedural issues 10 times.<br><br><br><br><br></p><br>
+<p>Vanuatu was first settled around 2000 B.C. by Austronesian speakers from Solomon Islands. By around 1000, localized chieftain systems began to develop on the islands. In the mid-1400s, the Kuwae Volcano erupted, causing frequent conflict and internal strife amid declining food availability, especially on Efate Island. Around 1600, Chief ROI MATA united Efate under his rule. In 1606, Portuguese explorer Pedro Fernandes de QUEIROS was the first European to see the Banks Islands and Espiritu Santo, setting up a short-lived settlement on the latter. The next European explorers arrived in the 1760s, and in 1774, British navigator James COOK named the islands the New Hebrides. The islands were frequented by whalers in the 1800s and interest in harvesting the islands’ sandalwood trees caused conflict between Europeans and local Ni-Vanuatu. Catholic and Protestant missionaries arrived in the 1840s but faced difficulties converting the locals. In the 1860s, European planters in Australia, Fiji, New Caledonia, and Samoa needed labor and kidnapped almost half the adult males of the islands and forced them to work as indentured servants.<br><br>With growing and overlapping interests in the islands, France and the UK agreed that the New Hebrides would be neutral in 1878 and established a joint naval commission in 1887. In 1906, the two countries created the British-French Condominium to jointly administer the islands and they established separate laws, police forces, currencies, and education and health systems. The condominium arrangement was dysfunctional and the UK used France’s defeat to Germany in World War II to assert greater control over the islands. As Japan pushed into Melanesia, the US stationed up to 50,000 soldiers in Vanuatu to prevent further advances. In 1945, US troops withdrew and sold their equipment, leading to the rise of political and religious cargo cults, such as the John Frum movement.<br><br>The France-UK condominium was reestablished after World War II. The UK was interested in moving the condominium toward independence in the 1960s, but France was hesitant and political parties agitating independence began to form, largely divided along linguistic lines. France eventually relented and elections were held in 1974 with independence granted in 1980 as Vanuatu under English-speaking Prime Minister Walter LINI. At independence, the Nagriamel Movement, with support from French-speaking landowners, declared Espiritu Santo independent, but the short-lived state was dissolved 12 weeks later. Linguistic divisions have lessened over time but highly fractious political parties have led to weak coalition governments that require support from both Anglophone and Francophone parties. Since 2008, prime ministers have been ousted through no-confidence motions or temporary procedural issues more than a dozen times.<br><br><br><br><br></p><br>
 
 ## Geography
 
@@ -104,9 +104,9 @@ _elderly dependency ratio_: 12.3<br>
 _potential support ratio_: 15.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 23 years<br>
+_total_: 23 years (2020)<br>
 _male_: 22.6 years<br>
-_female_: 23.5 years (2020 est.)<br>
+_female_: 23.5 years<br>
 
 **Population growth rate**<br>
 1.59% (2023 est.)<br>
@@ -141,14 +141,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 94 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14 deaths/1,000 live births<br>
+_total_: 14 deaths/1,000 live births (2023 est.)<br>
 _male_: 15.38 deaths/1,000 live births<br>
-_female_: 12.56 deaths/1,000 live births (2023 est.)<br>
+_female_: 12.56 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.4 years<br>
+_total population_: 75.4 years (2023 est.)<br>
 _male_: 73.72 years<br>
-_female_: 77.17 years (2023 est.)<br>
+_female_: 77.17 years<br>
 
 **Total fertility rate**<br>
 2.59 children born/woman (2023 est.)<br>
@@ -212,9 +212,9 @@ _male_: 89.8%<br>
 _female_: 88.4% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.4%<br>
+_total_: 5.4% (2021 est.)<br>
 _male_: 5.2%<br>
-_female_: 5.6% (2021 est.)<br>
+_female_: 5.6%<br>
 
 ## Environment
 
@@ -325,7 +325,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: Magistrates Courts; Island Courts<br>
 
 **Political parties and leaders**<br>
-Green Confederation or GC [Moana CARCASSES Kalosil]<br>Iauko Group or IG [Tony NARI]<br>Land and Justice Party (Graon mo Jastis Pati) or GJP [Ralph REGENVANU]<br>Melanesian Progressive Party or MPP [Barak SOPE]<br>Nagriamel Movement or NAG [Frankie STEVENS]<br>Natatok Indigenous People's Democratic Party or NATATOK or NIPDP [Alfred Roland CARLOT]<br>National United Party or NUP [Ham LINI]<br>People's Progressive Party or PPP [Sato KILMAN]<br>People's Service Party or PSP [Don KEN]<br>Reunification of Movement for Change or RMC [Charlot SALWAI]<br>Rural Development Party or RDP [Jay NGWELE, spokesman]<br>Union of Moderate Parties or UMP [Alatoi Ishmael KALSAKAU]<br>Vanua'aku Pati (Our Land Party) or VP [Bob LOUGHMAN]<br>Vanuatu Democratic Party [Maxime Carlot KORMAN]<br>Vanuatu First or Vanuatu [Russel NARI]<br>Vanuatu Liberal Democratic Party or VLDP [Tapangararua WILLIE]<br>Vanuatu Liberal Movement or VLM [Gaetan PIKIOUNE]<br>Vanuatu National Development Party or VNDP [Robert Bohn SIKOL]<br>Vanuatu National Party or VNP [Issac HAMARILIU]<br>Vanuatu Republican Party or VRP [Marcellino PIPITE]<br>
+Green Confederation or GC [Moana CARCASSES Kalosil]<br>Iauko Group or IG [Tony NARI]<br>Land and Justice Party (Graon mo Jastis Pati) or GJP [Ralph REGENVANU]<br>Leaders Party of Vanuatu or LVP [Nikenike VUROBARAVU] <br>Melanesian Progressive Party or MPP [Barak SOPE]<br>Nagriamel Movement or NAG [Frankie STEVENS]<br>Natatok Indigenous People's Democratic Party or NATATOK or NIPDP [Alfred Roland CARLOT]<br>National United Party or NUP [Ham LINI]<br>People's Progressive Party or PPP [Sato KILMAN]<br>People's Service Party or PSP [Don KEN]<br>Reunification of Movement for Change or RMC [Charlot SALWAI]<br>Rural Development Party or RDP [Jay NGWELE, spokesman]<br>Union of Moderate Parties or UMP [Alatoi Ishmael KALSAKAU]<br>Vanua'aku Pati (Our Land Party) or VP [Bob LOUGHMAN]<br>Vanuatu Democratic Party [Maxime Carlot KORMAN]<br>Vanuatu First or Vanuatu [Russel NARI]<br>Vanuatu Liberal Democratic Party or VLDP [Tapangararua WILLIE]<br>Vanuatu Liberal Movement or VLM [Gaetan PIKIOUNE]<br>Vanuatu National Development Party or VNDP [Robert Bohn SIKOL]<br>Vanuatu National Party or VNP [Issac HAMARILIU]<br>Vanuatu Republican Party or VRP [Marcellino PIPITE]<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IOM, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIF, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -423,9 +423,9 @@ _services_: 30% (2000 est.)<br>
 1.8% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.4%<br>
+_total_: 5.4% (2021 est.)<br>
 _male_: 5.2%<br>
-_female_: 5.6% (2021 est.)<br>
+_female_: 5.6%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -618,8 +618,8 @@ _paved_: 256 km (2000)<br>
 _unpaved_: 814 km (2000)<br>
 
 **Merchant marine**<br>
-_total_: 331<br>
-_by type_: bulk carrier 16, container ship 4, general cargo 87, oil tanker 2, other 222 (2022)<br>
+_total_: 331 (2022)<br>
+_by type_: bulk carrier 16, container ship 4, general cargo 87, oil tanker 2, other 222<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila<br>

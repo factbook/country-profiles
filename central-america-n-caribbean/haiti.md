@@ -105,9 +105,9 @@ _elderly dependency ratio_: 7.1<br>
 _potential support ratio_: 14.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.1 years<br>
+_total_: 24.1 years (2020)<br>
 _male_: 23.8 years<br>
-_female_: 24.3 years (2020 est.)<br>
+_female_: 24.3 years<br>
 
 **Population growth rate**<br>
 1.18% (2023 est.)<br>
@@ -146,14 +146,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 350 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 38.78 deaths/1,000 live births<br>
+_total_: 38.78 deaths/1,000 live births (2023 est.)<br>
 _male_: 44.36 deaths/1,000 live births<br>
-_female_: 33.14 deaths/1,000 live births (2023 est.)<br>
+_female_: 33.14 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 66.3 years<br>
+_total population_: 66.3 years (2023 est.)<br>
 _male_: 63.6 years<br>
-_female_: 69.04 years (2023 est.)<br>
+_female_: 69.04 years<br>
 
 **Total fertility rate**<br>
 2.39 children born/woman (2023 est.)<br>
@@ -230,9 +230,9 @@ _male_: 65.3%<br>
 _female_: 58.3% (2016)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 35.7%<br>
+_total_: 35.7% (2021 est.)<br>
 _male_: 28.1%<br>
-_female_: 45.6% (2021 est.)<br>
+_female_: 45.6%<br>
 
 ## Environment
 
@@ -455,9 +455,9 @@ _services_: 50.4% (2010)<br>
 <strong>note:</strong> widespread unemployment and underemployment; more than two-thirds of the labor force do not have formal jobs<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 35.7%<br>
+_total_: 35.7% (2021 est.)<br>
 _male_: 28.1%<br>
-_female_: 45.6% (2021 est.)<br>
+_female_: 45.6%<br>
 
 **Population below poverty line**<br>
 58.5% (2012 est.)<br>
@@ -649,8 +649,8 @@ _paved_: 600 km (2011)<br>
 _unpaved_: 3,502 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 4<br>
-_by type_: general cargo 3, other 1 (2022)<br>
+_total_: 4 (2022)<br>
+_by type_: general cargo 3, other 1<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cap-Haitien, Gonaives, Jacmel, Port-au-Prince<br>

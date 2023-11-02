@@ -114,9 +114,9 @@ _elderly dependency ratio_: 7.7<br>
 _potential support ratio_: 13 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.2 years<br>
+_total_: 29.2 years (2020)<br>
 _male_: 28.7 years<br>
-_female_: 29.7 years (2020 est.)<br>
+_female_: 29.7 years<br>
 
 **Population growth rate**<br>
 0.95% (2023 est.)<br>
@@ -154,14 +154,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 36.72 deaths/1,000 live births<br>
+_total_: 36.72 deaths/1,000 live births (2023 est.)<br>
 _male_: 44.67 deaths/1,000 live births<br>
-_female_: 28.37 deaths/1,000 live births (2023 est.)<br>
+_female_: 28.37 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.11 years<br>
+_total population_: 72.11 years (2023 est.)<br>
 _male_: 69.1 years<br>
-_female_: 75.26 years (2023 est.)<br>
+_female_: 75.26 years<br>
 
 **Total fertility rate**<br>
 2.03 children born/woman (2023 est.)<br>
@@ -237,9 +237,9 @@ _male_: 13 years<br>
 _female_: 13 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11%<br>
+_total_: 11% (2021 est.)<br>
 _male_: 13.4%<br>
-_female_: 7.6% (2021 est.)<br>
+_female_: 7.6%<br>
 
 ## Environment
 
@@ -464,9 +464,9 @@ _services_: 37.8% (2004 est.)<br>
 4.27% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11%<br>
+_total_: 11% (2021 est.)<br>
 _male_: 13.4%<br>
-_female_: 7.6% (2021 est.)<br>
+_female_: 7.6%<br>
 
 **Population below poverty line**<br>
 0.2% (2012 est.)<br>
@@ -670,8 +670,8 @@ _unpaved_: 11,015 km (2002)<br>
 1,300 km (2011) (Amu Darya River and Kara Kum Canal are important inland waterways)<br>
 
 **Merchant marine**<br>
-_total_: 72<br>
-_by type_: general cargo 6, oil tanker 8, other 58 (2022)<br>
+_total_: 72 (2022)<br>
+_by type_: general cargo 6, oil tanker 8, other 58<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Caspian Sea - Turkmenbasy<br>

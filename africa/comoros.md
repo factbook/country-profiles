@@ -103,9 +103,9 @@ _elderly dependency ratio_: 7.5<br>
 _potential support ratio_: 13.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.9 years<br>
+_total_: 20.9 years (2020)<br>
 _male_: 20.2 years<br>
-_female_: 21.5 years (2020 est.)<br>
+_female_: 21.5 years<br>
 
 **Population growth rate**<br>
 1.34% (2023 est.)<br>
@@ -144,14 +144,14 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 217 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 56.01 deaths/1,000 live births<br>
+_total_: 56.01 deaths/1,000 live births (2023 est.)<br>
 _male_: 66.02 deaths/1,000 live births<br>
-_female_: 45.7 deaths/1,000 live births (2023 est.)<br>
+_female_: 45.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.5 years<br>
+_total population_: 67.5 years (2023 est.)<br>
 _male_: 65.2 years<br>
-_female_: 69.87 years (2023 est.)<br>
+_female_: 69.87 years<br>
 
 **Total fertility rate**<br>
 2.69 children born/woman (2023 est.)<br>
@@ -217,9 +217,9 @@ _male_: 11 years<br>
 _female_: 11 years (2014)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.7%<br>
+_total_: 21.7% (2021 est.)<br>
 _male_: 21.8%<br>
-_female_: 21.5% (2021 est.)<br>
+_female_: 21.5%<br>
 
 ## Environment
 
@@ -426,9 +426,9 @@ _industry and services_: 20% (1996 est.)<br>
 8.08% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.7%<br>
+_total_: 21.7% (2021 est.)<br>
 _male_: 21.8%<br>
-_female_: 21.5% (2021 est.)<br>
+_female_: 21.5%<br>
 
 **Population below poverty line**<br>
 42.4% (2013 est.)<br>
@@ -617,8 +617,8 @@ _paved_: 673 km (2002)<br>
 _unpaved_: 207 km (2002)<br>
 
 **Merchant marine**<br>
-_total_: 248<br>
-_by type_: bulk carrier 10, container ship 6, general cargo 108, oil tanker 38, other 86 (2022)<br>
+_total_: 248 (2022)<br>
+_by type_: bulk carrier 10, container ship 6, general cargo 108, oil tanker 38, other 86<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Moroni, Moutsamoudou<br>

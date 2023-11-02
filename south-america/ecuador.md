@@ -113,9 +113,9 @@ _elderly dependency ratio_: 11.5<br>
 _potential support ratio_: 8.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 28.8 years<br>
+_total_: 28.8 years (2020)<br>
 _male_: 28 years<br>
-_female_: 29.6 years (2020 est.)<br>
+_female_: 29.6 years<br>
 
 **Population growth rate**<br>
 1.1% (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 66 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 17.72 deaths/1,000 live births<br>
+_total_: 17.72 deaths/1,000 live births (2023 est.)<br>
 _male_: 21.22 deaths/1,000 live births<br>
-_female_: 14.04 deaths/1,000 live births (2023 est.)<br>
+_female_: 14.04 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.25 years<br>
+_total population_: 78.25 years (2023 est.)<br>
 _male_: 75.32 years<br>
-_female_: 81.32 years (2023 est.)<br>
+_female_: 81.32 years<br>
 
 **Total fertility rate**<br>
 2.02 children born/woman (2023 est.)<br>
@@ -239,9 +239,9 @@ _male_: 14 years<br>
 _female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.2%<br>
+_total_: 14.2% (2021 est.)<br>
 _male_: 11.4%<br>
-_female_: 18.8% (2021 est.)<br>
+_female_: 18.8%<br>
 
 ## Environment
 
@@ -346,7 +346,7 @@ _chief of state_: President Guillermo LASSO Mendoza (since 24 May 2021); Vice Pr
 _head of government_: President Guillermo LASSO Mendoza (since 24 May 2021); Vice President Alfredo Enrique BORRERO Vega (since 24 May 2021)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: <p>president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 20 August 2023 with a runoff on 15 October 2023 (next to be held on 28 February 2025); note – on 18 May 2023, Ecuador’s National Electoral Council announced that the legislative and presidential elections—originally scheduled for February 2025—would be held on 20 August 2023 (with a runoff election held 15 October 2023) after President Guillermo LASSO dissolved the National Assembly by decree on 17 May 2023; though eligible for a second term, LASSO announced that he would not run in the 2023 election; the next president will serve out the remainder of the current presidential term (2021–2025)</p><br>
-_election results_: <br><em>2023:</em> first round results: percent of vote - Luisa GONZÁLEZ Alcivar (MRC) 33.6%, Daniel NOBOA Azin (ADN) 23.5%, Christian Gustavo ZURITA Ron (Construye) 16.4%, Jan Tomislav TOPIĆ Feraud (Por Un País Sin Miedo) 14.7%, Otto Ramón SONNENHOLZNER Sper (Avanza) 7.1% other 4.7%; second round results: percent of vote - Daniel NOBOA Azin (ADN) 51.9%, Luisa GONZÁLEZ Alcivar (MRC) 48.1%; note - NOBOA is scheduled to take office 25 November 2023<br><br><em>2021:</em> Guillermo LASSO Mendoza elected president; first round election results: percent of vote - Andres ARAUZ (UNES) 32.72%, Guillermo LASSO Mendoza (CREO) 19.74%, Yaku PEREZ Guartambel (MUPP) 19.38%, Xavier HERVAS Mora (ID) 15.68%, other 12.48%; second round election results: percent of vote - Guillermo LASSO Mendoza (CREO) 52.5%, Andres ARAUZ (UNES) 47.5%<br>
+_election results_: <br><em>2023:</em> first round results: percent of vote - Luisa GONZÁLEZ Alcivar (MRC) 33.6%, Daniel NOBOA Azin (ADN) 23.5%, Christian Gustavo ZURITA Ron (Construye) 16.4%, Jan Tomislav TOPIĆ Feraud (Por Un País Sin Miedo) 14.7%, Otto Ramón SONNENHOLZNER Sper (Avanza) 7.1% other 4.7%; second round results: percent of vote - Daniel NOBOA Azin (ADN) 51.8%, Luisa GONZÁLEZ Alcivar (MRC) 48.2%; note - NOBOA is scheduled to take office 25 November 2023<br><br><em>2021:</em> Guillermo LASSO Mendoza elected president; first round election results: percent of vote - Andres ARAUZ (UNES) 32.72%, Guillermo LASSO Mendoza (CREO) 19.74%, Yaku PEREZ Guartambel (MUPP) 19.38%, Xavier HERVAS Mora (ID) 15.68%, other 12.48%; second round election results: percent of vote - Guillermo LASSO Mendoza (CREO) 52.5%, Andres ARAUZ (UNES) 47.5%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Asamblea Nacional (137 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 15 members directly elected in a single nationwide constituency by open-list proportional representation vote, and 6 directly elected in multi-seat constituencies for Ecuadorians living abroad by simple majority vote; members serve 4-year terms); note - all Assembly members have alternates from the same party who cast votes when a primary member is absent, resigns, or is removed from office<br>
@@ -469,9 +469,9 @@ _services_: 55.5% (2017 est.)<br>
 3.81% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.2%<br>
+_total_: 14.2% (2021 est.)<br>
 _male_: 11.4%<br>
-_female_: 18.8% (2021 est.)<br>
+_female_: 18.8%<br>
 
 **Population below poverty line**<br>
 25% (2019 est.)<br>
@@ -683,8 +683,8 @@ _unpaved_: 35,055 km (2022)<br>
 1,500 km (2012) (most inaccessible)<br>
 
 **Merchant marine**<br>
-_total_: 147<br>
-_by type_: container ship 1, general cargo 8, oil tanker 28, other 110 (2022)<br>
+_total_: 147 (2022)<br>
+_by type_: container ship 1, general cargo 8, oil tanker 28, other 110<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Esmeraldas, Manta, Puerto Bolivar<br>

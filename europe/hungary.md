@@ -108,9 +108,9 @@ _elderly dependency ratio_: 31.4<br>
 _potential support ratio_: 3.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 43.6 years<br>
+_total_: 43.6 years (2020)<br>
 _male_: 41.5 years<br>
-_female_: 45.5 years (2020 est.)<br>
+_female_: 45.5 years<br>
 
 **Population growth rate**<br>
 -0.31% (2023 est.)<br>
@@ -148,14 +148,14 @@ _total population_: 0.91 male(s)/female (2023 est.)<br>
 15 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.55 deaths/1,000 live births<br>
+_total_: 4.55 deaths/1,000 live births (2023 est.)<br>
 _male_: 4.88 deaths/1,000 live births<br>
-_female_: 4.2 deaths/1,000 live births (2023 est.)<br>
+_female_: 4.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.44 years<br>
+_total population_: 77.44 years (2023 est.)<br>
 _male_: 73.82 years<br>
-_female_: 81.28 years (2023 est.)<br>
+_female_: 81.28 years<br>
 
 **Total fertility rate**<br>
 1.49 children born/woman (2023 est.)<br>
@@ -231,9 +231,9 @@ _male_: 15 years<br>
 _female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.5%<br>
+_total_: 13.5% (2021 est.)<br>
 _male_: 11.5%<br>
-_female_: 16.2% (2021 est.)<br>
+_female_: 16.2%<br>
 
 ## Environment
 
@@ -466,9 +466,9 @@ _services_: 64.5% (2015 est.)<br>
 3.42% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.5%<br>
+_total_: 13.5% (2021 est.)<br>
 _male_: 11.5%<br>
-_female_: 16.2% (2021 est.)<br>
+_female_: 16.2%<br>
 
 **Population below poverty line**<br>
 12.3% (2018 est.)<br>
@@ -688,8 +688,8 @@ _unpaved_: 126,514 km (2014)<br>
 1,622 km (2011) (most on Danube River)<br>
 
 **Merchant marine**<br>
-_total_: 1<br>
-_by type_: other 1 (2022)<br>
+_total_: 1 (2022)<br>
+_by type_: other 1<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Baja, Csepel (Budapest), Dunaujvaros, Gyor-Gonyu, Mohacs (Danube)<br>

@@ -102,7 +102,7 @@ isiZulu or Zulu (official) 25.3%, isiXhosa or Xhosa (official) 14.8%, Afrikaans 
 _major-language sample(s)_: <br>Die Wereld Feite Boek, n’ onontbeerlike bron vir basiese informasie. (Afrikaans)<br><br>The World Factbook, the indispensable source for basic information. (English)<br>
 
 **Religions**<br>
-Christian 86%,&nbsp; traditional African religions 5.4%, Muslim 1.9%, other 1.5%, nothing in particular 5.2% (2015 est.)<br>
+Christian 85.3%, African traditional 7.8%, Muslim 1.6%, Hindu 1.1%, other 1.3%, none 2.9% (2022 est.)<br>
 
 **Demographic profile**<br>
 <p>South Africa’s youthful population is gradually aging, as the country’s total fertility rate (TFR) has declined dramatically from about 6 children per woman in the 1960s to roughly 2.2 in 2014, and has remained at this level as of 2022. This pattern is similar to fertility trends in South Asia, the Middle East, and North Africa, and sets South Africa apart from the rest of Sub-Saharan Africa, where the average TFR remains higher than other regions of the world. Today, South Africa’s decreasing number of reproductive age women is having fewer children, as women increase their educational attainment, workforce participation, and use of family planning methods; delay marriage; and opt for smaller families.</p> <p>As the proportion of working-age South Africans has grown relative to children and the elderly, South Africa has been unable to achieve a demographic dividend because persistent high unemployment and the prevalence of HIV/AIDs have created a larger-than-normal dependent population. HIV/AIDS was also responsible for South Africa’s average life expectancy plunging to less than 43 years in 2008; it has rebounded to 65 years as of 2022. HIV/AIDS continues to be a serious public health threat, although awareness-raising campaigns and the wider availability of anti-retroviral drugs is stabilizing the number of new cases, enabling infected individuals to live longer, healthier lives, and reducing mother-child transmissions.</p> <p>Migration to South Africa began in the second half of the 17th century when traders from the Dutch East India Company settled in the Cape and started using slaves from South and southeast Asia (mainly from India but also from present-day Indonesia, Bangladesh, Sri Lanka, and Malaysia) and southeast Africa (Madagascar and Mozambique) as farm laborers and, to a lesser extent, as domestic servants. The Indian subcontinent remained the Cape Colony’s main source of slaves in the early 18th century, while slaves were increasingly obtained from southeast Africa in the latter part of the 18th century and into the 19th century under British rule.</p> <p>After slavery was completely abolished in the British Empire in 1838, South Africa’s colonists turned to temporary African migrants and indentured labor through agreements with India and later China, countries that were anxious to export workers to alleviate domestic poverty and overpopulation. Of the more than 150,000 indentured Indian laborers hired to work in Natal’s sugar plantations between 1860 and 1911, most exercised the right as British subjects to remain permanently (a small number of Indian immigrants came freely as merchants). Because of growing resentment toward Indian workers, the 63,000 indentured Chinese workers who mined gold in Transvaal between 1904 and 1911 were under more restrictive contracts and generally were forced to return to their homeland.</p> <p>In the late 19th century and nearly the entire 20th century, South Africa’s then British colonies’ and Dutch states’ enforced selective immigration policies that welcomed "assimilable" white Europeans as permanent residents but excluded or restricted other immigrants. Following the Union of South Africa’s passage of a law in 1913 prohibiting Asian and other non-white immigrants and its elimination of the indenture system in 1917, temporary African contract laborers from neighboring countries became the dominant source of labor in the burgeoning mining industries. Others worked in agriculture and smaller numbers in manufacturing, domestic service, transportation, and construction. Throughout the 20th century, at least 40% of South Africa’s miners were foreigners; the numbers peaked at over 80% in the late 1960s. Mozambique, Lesotho, Botswana, and Eswatini were the primary sources of miners, and Malawi and Zimbabwe were periodic suppliers.</p> <p>Under apartheid, a "two gates" migration policy focused on policing and deporting illegal migrants rather than on managing migration to meet South Africa’s development needs. The exclusionary 1991 Aliens Control Act limited labor recruitment to the highly skilled as defined by the ruling white minority, while bilateral labor agreements provided exemptions that enabled the influential mining industry and, to a lesser extent, commercial farms, to hire temporary, low-paid workers from neighboring states. Illegal African migrants were often tacitly allowed to work for low pay in other sectors but were always under threat of deportation.</p> <p>The abolishment of apartheid in 1994 led to the development of a new inclusive national identity and the strengthening of the country’s restrictive immigration policy. Despite South Africa’s protectionist approach to immigration, the downsizing and closing of mines, and rising unemployment, migrants from across the continent believed that the country held work opportunities. Fewer African labor migrants were issued temporary work permits and, instead, increasingly entered South Africa with visitors’ permits or came illegally, which drove growth in cross-border trade and the informal job market. A new wave of Asian immigrants has also arrived over the last two decades, many operating small retail businesses.</p> <p>In the post-apartheid period, increasing numbers of highly skilled white workers emigrated, citing dissatisfaction with the political situation, crime, poor services, and a reduced quality of life. The 2002 Immigration Act and later amendments were intended to facilitate the temporary migration of skilled foreign labor to fill labor shortages, but instead the legislation continues to create regulatory obstacles. Although the education system has improved and brain drain has slowed in the wake of the 2008 global financial crisis, South Africa continues to face skills shortages in several key sectors, such as health care and technology.</p> <p>South Africa’s stability and economic growth has acted as a magnet for refugees and asylum seekers from nearby countries, despite the prevalence of discrimination and xenophobic violence. Refugees have included an estimated 350,000 Mozambicans during its 1980s civil war and, more recently, several thousand Somalis, Congolese, and Ethiopians. Nearly all of the tens of thousands of Zimbabweans who have applied for asylum in South Africa have been categorized as economic migrants and denied refuge.</p><br>
@@ -119,9 +119,9 @@ _elderly dependency ratio_: 8.4<br>
 _potential support ratio_: 10.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 28 years<br>
+_total_: 28 years (2020)<br>
 _male_: 27.9 years<br>
-_female_: 28.1 years (2020 est.)<br>
+_female_: 28.1 years<br>
 
 **Population growth rate**<br>
 0.91% (2023 est.)<br>
@@ -156,14 +156,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 127 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 24.99 deaths/1,000 live births<br>
+_total_: 24.99 deaths/1,000 live births (2023 est.)<br>
 _male_: 27.9 deaths/1,000 live births<br>
-_female_: 22.03 deaths/1,000 live births (2023 est.)<br>
+_female_: 22.03 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.6 years<br>
+_total population_: 65.6 years (2023 est.)<br>
 _male_: 64.26 years<br>
-_female_: 66.96 years (2023 est.)<br>
+_female_: 66.96 years<br>
 
 **Total fertility rate**<br>
 2.17 children born/woman (2023 est.)<br>
@@ -242,9 +242,9 @@ _male_: 13 years<br>
 _female_: 14 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 64.2%<br>
+_total_: 64.2% (2021 est.)<br>
 _male_: 59.8%<br>
-_female_: 69.3% (2021 est.)<br>
+_female_: 69.3%<br>
 
 ## Environment
 
@@ -474,9 +474,9 @@ _services_: 71.9% (2014 est.)<br>
 28.47% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 64.2%<br>
+_total_: 64.2% (2021 est.)<br>
 _male_: 59.8%<br>
-_female_: 69.3% (2021 est.)<br>
+_female_: 69.3%<br>
 
 **Population below poverty line**<br>
 55.5% (2014 est.)<br>
@@ -695,8 +695,8 @@ _paved_: 158,124 km (2016)<br>
 _unpaved_: 591,876 km (2016)<br>
 
 **Merchant marine**<br>
-_total_: 107<br>
-_by type_: bulk carrier 3, general cargo 1, oil tanker 7, other 96 (2022)<br>
+_total_: 107 (2022)<br>
+_by type_: bulk carrier 3, general cargo 1, oil tanker 7, other 96<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay<br>
@@ -762,7 +762,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>South Africa-Botswana</em>: none identified</p> <p><em>South Africa-Eswatini</em>: Eswatini seeks to reclaim land it says was stolen by South Africa</p> <p><em>South Africa-Lesotho</em>: crossborder livestock thieving, smuggling of drugs and arms, and illegal migration are problematic</p> <p><em>South Africa-Mozambique</em>: animal poachers cross the South Africa-Mozambique border to hunt wildlife in South Africa’s Kruger National Park; border fences were removed in some areas to allow animals to roam between nature reserves in the two countries; improved patrols, technology, and crossborder cooperation are reducing the problem</p> <p><em>South Africa-Namibia</em>: the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; the location of the border could affect diamond mining rights; South Africa has always claimed that the northern bank of the Orange River is the border between the two countries, while Namibia’s constitution states that the border lies in the middle of the Orange River</p> <p><em>South Africa-various</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>South Africa-Zimbabwe</em>: Zimbabweans migrate illegally into South Africa in search of work or smuggle goods to sell at a profit back home</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,388 (Somalia), 15,240 (Ethiopia) (mid-year 2022); 42,167 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 22,388 (Somalia), 15,240 (Ethiopia) (mid-year 2022); 42,080 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 5,000 (2020)<br>
 
 **Trafficking in persons**<br>

@@ -109,9 +109,9 @@ _elderly dependency ratio_: 7<br>
 _potential support ratio_: 14.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.8 years<br>
+_total_: 29.8 years (2020)<br>
 _male_: 28.8 years<br>
-_female_: 30.7 years (2020 est.)<br>
+_female_: 30.7 years<br>
 
 **Population growth rate**<br>
 0.83% (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 39 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.77 deaths/1,000 live births<br>
+_total_: 19.77 deaths/1,000 live births (2023 est.)<br>
 _male_: 22.81 deaths/1,000 live births<br>
-_female_: 16.59 deaths/1,000 live births (2023 est.)<br>
+_female_: 16.59 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.65 years<br>
+_total population_: 71.65 years (2023 est.)<br>
 _male_: 67.49 years<br>
-_female_: 76.02 years (2023 est.)<br>
+_female_: 76.02 years<br>
 
 **Total fertility rate**<br>
 1.89 children born/woman (2023 est.)<br>
@@ -234,9 +234,9 @@ _male_: 14 years<br>
 _female_: 16 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21%<br>
+_total_: 21% (2021 est.)<br>
 _male_: 20.1%<br>
-_female_: 22.4% (2021 est.)<br>
+_female_: 22.4%<br>
 
 ## Environment
 
@@ -466,9 +466,9 @@ _services_: 50.5% (2016)<br>
 5.44% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 21%<br>
+_total_: 21% (2021 est.)<br>
 _male_: 20.1%<br>
-_female_: 22.4% (2021 est.)<br>
+_female_: 22.4%<br>
 
 **Population below poverty line**<br>
 28.4% (2018 est.)<br>
@@ -670,8 +670,8 @@ _unpaved_: 102,600 km (2017)<br>
 580 km (2010) (the only waterway in operation is Lake Hovsgol) (135 km); Selenge River (270 km) and Orhon River (175 km) are navigable but carry little traffic; lakes and rivers ice-free from May to September)<br>
 
 **Merchant marine**<br>
-_total_: 314<br>
-_by type_: bulk carrier 3, container ship 6, general cargo 151, oil tanker 57, other 97 (2022)<br>
+_total_: 314 (2022)<br>
+_by type_: bulk carrier 3, container ship 6, general cargo 151, oil tanker 57, other 97<br>
 
 ## Military and Security
 

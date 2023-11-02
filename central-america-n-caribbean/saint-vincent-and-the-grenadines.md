@@ -101,9 +101,9 @@ _elderly dependency ratio_: 16.1<br>
 _potential support ratio_: 6.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 35.3 years<br>
+_total_: 35.3 years (2020)<br>
 _male_: 35.4 years<br>
-_female_: 35.1 years (2020 est.)<br>
+_female_: 35.1 years<br>
 
 **Population growth rate**<br>
 -0.16% (2023 est.)<br>
@@ -138,14 +138,14 @@ _total population_: 1.04 male(s)/female (2023 est.)<br>
 62 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.59 deaths/1,000 live births<br>
+_total_: 12.59 deaths/1,000 live births (2023 est.)<br>
 _male_: 14.23 deaths/1,000 live births<br>
-_female_: 10.89 deaths/1,000 live births (2023 est.)<br>
+_female_: 10.89 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.93 years<br>
+_total population_: 76.93 years (2023 est.)<br>
 _male_: 74.9 years<br>
-_female_: 79.03 years (2023 est.)<br>
+_female_: 79.03 years<br>
 
 **Total fertility rate**<br>
 1.74 children born/woman (2023 est.)<br>
@@ -207,9 +207,9 @@ _male_: 14 years<br>
 _female_: 15 years (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 41.1%<br>
+_total_: 41.1% (2021 est.)<br>
 _male_: 39.7%<br>
-_female_: 43.9% (2021 est.)<br>
+_female_: 43.9%<br>
 
 ## Environment
 
@@ -415,9 +415,9 @@ _services_: 57% (1980 est.)<br>
 19.28% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 41.1%<br>
+_total_: 41.1% (2021 est.)<br>
 _male_: 39.7%<br>
-_female_: 43.9% (2021 est.)<br>
+_female_: 43.9%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -598,8 +598,8 @@ J8<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Merchant marine**<br>
-_total_: 832<br>
-_by type_: bulk carrier 32, container ship 17, general cargo 148, oil tanker 14, other 621 (2022)<br>
+_total_: 832 (2022)<br>
+_by type_: bulk carrier 32, container ship 17, general cargo 148, oil tanker 14, other 621<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kingstown<br>

@@ -109,9 +109,9 @@ _elderly dependency ratio_: 7.9<br>
 _potential support ratio_: 12.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 23.2 years<br>
+_total_: 23.2 years (2020)<br>
 _male_: 22.6 years<br>
-_female_: 23.8 years (2020 est.)<br>
+_female_: 23.8 years<br>
 
 **Population growth rate**<br>
 1.54% (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 96 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 25.57 deaths/1,000 live births<br>
+_total_: 25.57 deaths/1,000 live births (2023 est.)<br>
 _male_: 28.81 deaths/1,000 live births<br>
-_female_: 22.18 deaths/1,000 live births (2023 est.)<br>
+_female_: 22.18 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.18 years<br>
+_total population_: 73.18 years (2023 est.)<br>
 _male_: 71.17 years<br>
-_female_: 75.3 years (2023 est.)<br>
+_female_: 75.3 years<br>
 
 **Total fertility rate**<br>
 2.57 children born/woman (2023 est.)<br>
@@ -214,7 +214,7 @@ _male_: 20.1% (2020 est.)<br>
 _female_: 1.6% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-12.4% (2014/15)<br>
+14.4% (2021/22)<br>
 
 **Currently married women (ages 15-49)**<br>
 57.2% (2023 est.)<br>
@@ -234,9 +234,9 @@ _male_: 11 years<br>
 _female_: 10 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.2%<br>
+_total_: 7.2% (2021 est.)<br>
 _male_: 6.3%<br>
-_female_: 9.4% (2021 est.)<br>
+_female_: 9.4%<br>
 
 ## Environment
 
@@ -461,9 +461,9 @@ _services_: 55.8% (2017 est.)<br>
 2.19% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.2%<br>
+_total_: 7.2% (2021 est.)<br>
 _male_: 6.3%<br>
-_female_: 9.4% (2021 est.)<br>
+_female_: 9.4%<br>
 
 **Population below poverty line**<br>
 59.3% (2014 est.)<br>
@@ -676,8 +676,8 @@ _unpaved_: 9,982 km (2020) (includes 4,548 km of rural roads)<br>
 990 km (2012) (260 km navigable year round; additional 730 km navigable during high-water season)<br>
 
 **Merchant marine**<br>
-_total_: 9<br>
-_by type_: oil tanker 1, other 8 (2022)<br>
+_total_: 9 (2022)<br>
+_by type_: oil tanker 1, other 8<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Puerto Quetzal, Santo Tomas de Castilla<br>

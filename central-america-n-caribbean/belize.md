@@ -106,9 +106,9 @@ _elderly dependency ratio_: 7.4<br>
 _potential support ratio_: 13.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 23.9 years<br>
+_total_: 23.9 years (2020)<br>
 _male_: 23 years<br>
-_female_: 24.8 years (2020 est.)<br>
+_female_: 24.8 years<br>
 
 **Population growth rate**<br>
 1.61% (2023 est.)<br>
@@ -143,14 +143,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 130 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.9 deaths/1,000 live births<br>
+_total_: 10.9 deaths/1,000 live births (2023 est.)<br>
 _male_: 12.08 deaths/1,000 live births<br>
-_female_: 9.66 deaths/1,000 live births (2023 est.)<br>
+_female_: 9.66 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.08 years<br>
+_total population_: 76.08 years (2023 est.)<br>
 _male_: 74.49 years<br>
-_female_: 77.75 years (2023 est.)<br>
+_female_: 77.75 years<br>
 
 **Total fertility rate**<br>
 2.59 children born/woman (2023 est.)<br>
@@ -226,9 +226,9 @@ _male_: 12 years<br>
 _female_: 13 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.3%<br>
+_total_: 19.3% (2021 est.)<br>
 _male_: 12.2%<br>
-_female_: 31.9% (2021 est.)<br>
+_female_: 31.9%<br>
 
 ## Environment
 
@@ -449,9 +449,9 @@ _services_: 71.7% (2007 est.)<br>
 6.71% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.3%<br>
+_total_: 19.3% (2021 est.)<br>
 _male_: 12.2%<br>
-_female_: 31.9% (2021 est.)<br>
+_female_: 31.9%<br>
 
 **Population below poverty line**<br>
 41% (2013 est.)<br>
@@ -645,8 +645,8 @@ _unpaved_: 2,680 km (2017)<br>
 825 km (2011) (navigable only by small craft)<br>
 
 **Merchant marine**<br>
-_total_: 817<br>
-_by type_: bulk carrier 51, general cargo 433, oil tanker 67, other 266 (2022)<br>
+_total_: 817 (2022)<br>
+_by type_: bulk carrier 51, general cargo 433, oil tanker 67, other 266<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Belize City, Big Creek<br>

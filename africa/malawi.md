@@ -114,9 +114,9 @@ _elderly dependency ratio_: 5<br>
 _potential support ratio_: 20.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 16.8 years<br>
+_total_: 16.8 years (2020)<br>
 _male_: 16.7 years<br>
-_female_: 16.9 years (2020 est.)<br>
+_female_: 16.9 years<br>
 
 **Population growth rate**<br>
 2.28% (2023 est.)<br>
@@ -155,14 +155,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 381 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.68 deaths/1,000 live births<br>
+_total_: 32.68 deaths/1,000 live births (2023 est.)<br>
 _male_: 37.12 deaths/1,000 live births<br>
-_female_: 28.16 deaths/1,000 live births (2023 est.)<br>
+_female_: 28.16 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.71 years<br>
+_total population_: 72.71 years (2023 est.)<br>
 _male_: 69.62 years<br>
-_female_: 75.85 years (2023 est.)<br>
+_female_: 75.85 years<br>
 
 **Total fertility rate**<br>
 3.3 children born/woman (2023 est.)<br>
@@ -247,9 +247,9 @@ _male_: 11 years<br>
 _female_: 11 years (2011)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.9%<br>
+_total_: 9.9% (2021 est.)<br>
 _male_: 7.6%<br>
-_female_: 12.2% (2021 est.)<br>
+_female_: 12.2%<br>
 
 ## Environment
 
@@ -476,9 +476,9 @@ _services_: 19% (2013 est.)<br>
 5.75% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.9%<br>
+_total_: 9.9% (2021 est.)<br>
 _male_: 7.6%<br>
-_female_: 12.2% (2021 est.)<br>
+_female_: 12.2%<br>
 
 **Population below poverty line**<br>
 51.5% (2016 est.)<br>
@@ -716,7 +716,7 @@ the MDF’s primary responsibility is external security; it is also tasked as ne
 <p><em>Malawi-Mozambique</em>: the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Malawi-Tanzania</em>: dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p> <p><em>Malawi-Zambia</em>: border demarcation was completed in 2011; in 2018, the redemarcation exercise determined that some parts of Malawi actually belonged to Zambia</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,681 (Democratic Republic of the Congo) (refugees and asylum seekers) 11,502 (Burundi) (refugees and asylum seekers), 6,594 (Rwanda) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 33,823 (Democratic Republic of the Congo) (refugees and asylum seekers) 11,502 (Burundi) (refugees and asylum seekers), 6,594 (Rwanda) (refugees and asylum seekers) (2023)<br>
 
 **Illicit drugs**<br>
 NA<br>

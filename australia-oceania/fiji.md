@@ -103,9 +103,9 @@ _elderly dependency ratio_: 8.7<br>
 _potential support ratio_: 11.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.9 years<br>
+_total_: 29.9 years (2020)<br>
 _male_: 29.7 years<br>
-_female_: 30.1 years (2020 est.)<br>
+_female_: 30.1 years<br>
 
 **Population growth rate**<br>
 0.42% (2023 est.)<br>
@@ -140,14 +140,14 @@ _total population_: 1.03 male(s)/female (2023 est.)<br>
 38 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.85 deaths/1,000 live births<br>
+_total_: 9.85 deaths/1,000 live births (2023 est.)<br>
 _male_: 11.35 deaths/1,000 live births<br>
-_female_: 8.28 deaths/1,000 live births (2023 est.)<br>
+_female_: 8.28 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.54 years<br>
+_total population_: 74.54 years (2023 est.)<br>
 _male_: 71.88 years<br>
-_female_: 77.32 years (2023 est.)<br>
+_female_: 77.32 years<br>
 
 **Total fertility rate**<br>
 2.23 children born/woman (2023 est.)<br>
@@ -218,9 +218,9 @@ _male_: 99.1%<br>
 _female_: 99.1% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.1%<br>
+_total_: 18.1% (2021 est.)<br>
 _male_: 14.1%<br>
-_female_: 25.9% (2021 est.)<br>
+_female_: 25.9%<br>
 
 ## Environment
 
@@ -334,7 +334,7 @@ _judge selection and term of office_: chief justice appointed by the president o
 _subordinate courts_: Magistrates' Court (organized into civil, criminal, juvenile, and small claims divisions)<br>
 
 **Political parties and leaders**<br>
-FijiFirst [Veroqe "Frank" BAINIMARAMA]<br>Fiji Labor Party or FLP [Mahendra CHAUDHRY]<br>Freedom Alliance [Jagath KARUNARATNE] (formerly Fiji United Freedom Party or FUFP)<br>National Federation Party or NFP [Biman PRASAD] (primarily Indian)<br>People's Alliance [Sitiveni RABUKA]<br>Peoples Democratic Party or PDP [Lynda TABUYA]<br>Social Democratic Liberal Party or SODELPA [ Lenaitasi DURU, general secretary]<br>Unity Fiji [Savenaca NARUBE]<br>
+FijiFirst [Veroqe "Frank" BAINIMARAMA]<br>Fiji Labor Party or FLP [Mahendra CHAUDHRY]<br>Freedom Alliance [Jagath KARUNARATNE] (formerly Fiji United Freedom Party or FUFP)<br>National Federation Party or NFP [Biman PRASAD] (primarily Indian)<br>People's Alliance [Sitiveni RABUKA]<br>Peoples Democratic Party or PDP [Lynda TABUYA]<br>Social Democratic Liberal Party or SODELPA [Lenaitasi DURU, general secretary]<br>Unity Fiji [Savenaca NARUBE]<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OPCW, PCA, PIF, Sparteca (suspended), SPC, UN, UNCTAD, UNDOF, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -440,9 +440,9 @@ _services_: 41.6% (2011)<br>
 4.45% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.1%<br>
+_total_: 18.1% (2021 est.)<br>
 _male_: 14.1%<br>
-_female_: 25.9% (2021 est.)<br>
+_female_: 25.9%<br>
 
 **Population below poverty line**<br>
 29.9% (2019 est.)<br>
@@ -643,8 +643,8 @@ _unpaved_: 1,754 km (2011)<br>
 203 km (2012) (122 km are navigable by motorized craft and 200-metric-ton barges)<br>
 
 **Merchant marine**<br>
-_total_: 75<br>
-_by type_: general cargo 21, oil tanker 4, other 50 (2022)<br>
+_total_: 75 (2022)<br>
+_by type_: general cargo 21, oil tanker 4, other 50<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Lautoka, Levuka, Suva<br>

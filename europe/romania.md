@@ -112,9 +112,9 @@ _elderly dependency ratio_: 29.1<br>
 _potential support ratio_: 3.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.5 years<br>
+_total_: 42.5 years (2020)<br>
 _male_: 41 years<br>
-_female_: 44 years (2020 est.)<br>
+_female_: 44 years<br>
 
 **Population growth rate**<br>
 -1.01% (2023 est.)<br>
@@ -152,14 +152,14 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 10 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.65 deaths/1,000 live births<br>
+_total_: 5.65 deaths/1,000 live births (2023 est.)<br>
 _male_: 5.91 deaths/1,000 live births<br>
-_female_: 5.37 deaths/1,000 live births (2023 est.)<br>
+_female_: 5.37 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.31 years<br>
+_total population_: 76.31 years (2023 est.)<br>
 _male_: 72.87 years<br>
-_female_: 79.95 years (2023 est.)<br>
+_female_: 79.95 years<br>
 
 **Total fertility rate**<br>
 1.63 children born/woman (2023 est.)<br>
@@ -231,9 +231,9 @@ _male_: 14 years<br>
 _female_: 15 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.6%<br>
+_total_: 20.6% (2021 est.)<br>
 _male_: 20.9%<br>
-_female_: 20.1% (2021 est.)<br>
+_female_: 20.1%<br>
 
 ## Environment
 
@@ -464,9 +464,9 @@ _services_: 42.8% (2014)<br>
 3.91% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.6%<br>
+_total_: 20.6% (2021 est.)<br>
 _male_: 20.9%<br>
-_female_: 20.1% (2021 est.)<br>
+_female_: 20.1%<br>
 
 **Population below poverty line**<br>
 23.8% (2018 est.)<br>
@@ -683,8 +683,8 @@ _unpaved_: 34,312 km (2012)<br>
 1,731 km (2010) (includes 1,075 km on the Danube River, 524 km on secondary branches, and 132 km on canals)<br>
 
 **Merchant marine**<br>
-_total_: 125<br>
-_by type_: general cargo 11, oil tanker 6, other 108 (2022)<br>
+_total_: 125 (2022)<br>
+_by type_: general cargo 11, oil tanker 6, other 108<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Constanta, Midia<br>

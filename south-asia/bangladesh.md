@@ -111,9 +111,9 @@ _elderly dependency ratio_: 8.6<br>
 _potential support ratio_: 11.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 27.9 years<br>
+_total_: 27.9 years (2020)<br>
 _male_: 27.1 years<br>
-_female_: 28.6 years (2020 est.)<br>
+_female_: 28.6 years<br>
 
 **Population growth rate**<br>
 0.91% (2023 est.)<br>
@@ -149,14 +149,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 123 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 29.58 deaths/1,000 live births<br>
+_total_: 29.58 deaths/1,000 live births (2023 est.)<br>
 _male_: 32.12 deaths/1,000 live births<br>
-_female_: 26.93 deaths/1,000 live births (2023 est.)<br>
+_female_: 26.93 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.96 years<br>
+_total population_: 74.96 years (2023 est.)<br>
 _male_: 72.8 years<br>
-_female_: 77.21 years (2023 est.)<br>
+_female_: 77.21 years<br>
 
 **Total fertility rate**<br>
 2.08 children born/woman (2023 est.)<br>
@@ -239,9 +239,9 @@ _male_: 12 years<br>
 _female_: 13 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.7%<br>
+_total_: 14.7% (2021 est.)<br>
 _male_: 12.5%<br>
-_female_: 19.6% (2021 est.)<br>
+_female_: 19.6%<br>
 
 ## Environment
 
@@ -476,9 +476,9 @@ _services_: 36.9% (2016 est.)<br>
 <strong>note:</strong> about 40% of the population is underemployed; many persons counted as employed work only a few hours a week and at low wages<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.7%<br>
+_total_: 14.7% (2021 est.)<br>
 _male_: 12.5%<br>
-_female_: 19.6% (2021 est.)<br>
+_female_: 19.6%<br>
 
 **Population below poverty line**<br>
 24.3% (2016 est.)<br>
@@ -703,8 +703,8 @@ _unpaved_: 258,794 km (2018)<br>
 8,370 km (2011) (includes up to 3,060 km of main cargo routes; network reduced to 5,200 km in the dry season)<br>
 
 **Merchant marine**<br>
-_total_: 511<br>
-_by type_: bulk carrier 56, container ship 10, general cargo 150, oil tanker 152, other 143 (2022)<br>
+_total_: 511 (2022)<br>
+_by type_: bulk carrier 56, container ship 10, general cargo 150, oil tanker 152, other 143<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Chattogram (Chittagong)<br>
@@ -764,7 +764,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 <p><em>Bangladesh-Burma:</em> Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border.<br><br><em>Bangladesh-India:</em> Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 963,038 (Burma) (2023)<br>
+_refugees (country of origin)_: 965,457 (Burma) (2023)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2022)<br>
 _stateless persons_: 929,606 (2022)<br>
 

@@ -106,9 +106,9 @@ _elderly dependency ratio_: 19.9<br>
 _potential support ratio_: 5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.4 years<br>
+_total_: 30.4 years (2020)<br>
 _male_: 29.8 years<br>
-_female_: 31 years (2020 est.)<br>
+_female_: 31 years<br>
 
 **Population growth rate**<br>
 1.43% (2023 est.)<br>
@@ -146,14 +146,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.49 deaths/1,000 live births<br>
+_total_: 3.49 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.75 deaths/1,000 live births<br>
-_female_: 3.22 deaths/1,000 live births (2023 est.)<br>
+_female_: 3.22 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.54 years<br>
+_total population_: 83.54 years (2023 est.)<br>
 _male_: 81.65 years<br>
-_female_: 85.53 years (2023 est.)<br>
+_female_: 85.53 years<br>
 
 **Total fertility rate**<br>
 2.54 children born/woman (2023 est.)<br>
@@ -228,9 +228,9 @@ _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.8%<br>
+_total_: 8.8% (2021 est.)<br>
 _male_: 8.4%<br>
-_female_: 9.2% (2021 est.)<br>
+_female_: 9.2%<br>
 
 ## Environment
 
@@ -364,7 +364,7 @@ _email address and website_: <br>consular@washington.mfa.gov.il<br><br>https://e
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: ambassador (vacant); Charge D'Affaires Stephanie L. HALLETT (since 21 July 2023); note - as of 14 October 2023, Jacob LEW, nominated as US ambassador to Israel, was awaiting confirmation by the US Senate Committee on Foreign Relations<br>
+_chief of mission_: ambassador (vacant); Charge d'Affaires Stephanie L. HALLETT (since 21 July 2023); note - as of 14 October 2023, Jacob LEW, nominated as US ambassador to Israel, was awaiting confirmation by the US Senate Committee on Foreign Relations<br>
 _embassy_: 14 David Flusser Street, Jerusalem, 9378322<br>
 _mailing address_: 6350 Jerusalem Place, Washington DC&nbsp; 20521-6350<br>
 _telephone_: [972] (2) 630-4000<br>
@@ -461,9 +461,9 @@ _services_: 81.6% (2015 est.)<br>
 3.8% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.8%<br>
+_total_: 8.8% (2021 est.)<br>
 _male_: 8.4%<br>
-_female_: 9.2% (2021 est.)<br>
+_female_: 9.2%<br>
 
 **Population below poverty line**<br>
 22% (2014 est.)<br>
@@ -675,8 +675,8 @@ _total_: 20,391 km (2021)<br>
 _paved_: 20,391 km (2021) (includes 449 km of expressways)<br>
 
 **Merchant marine**<br>
-_total_: 45<br>
-_by type_: container ship 6, general cargo 2, oil tanker 4, other 33 (2022)<br>
+_total_: 45 (2022)<br>
+_by type_: container ship 6, general cargo 2, oil tanker 4, other 33<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ashdod, Elat (Eilat), Hadera, Haifa<br>

@@ -108,9 +108,9 @@ _elderly dependency ratio_: 9.5<br>
 _potential support ratio_: 10.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 27.5 years<br>
+_total_: 27.5 years (2020)<br>
 _male_: 27.2 years<br>
-_female_: 27.9 years (2020 est.)<br>
+_female_: 27.9 years<br>
 
 **Population growth rate**<br>
 0.28% (2023 est.)<br>
@@ -149,14 +149,14 @@ _total population_: 1.04 male(s)/female (2023 est.)<br>
 112 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.63 deaths/1,000 live births<br>
+_total_: 21.63 deaths/1,000 live births (2023 est.)<br>
 _male_: 24.45 deaths/1,000 live births<br>
-_female_: 18.67 deaths/1,000 live births (2023 est.)<br>
+_female_: 18.67 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.15 years<br>
+_total population_: 72.15 years (2023 est.)<br>
 _male_: 70.32 years<br>
-_female_: 74.07 years (2023 est.)<br>
+_female_: 74.07 years<br>
 
 **Total fertility rate**<br>
 2.06 children born/woman (2023 est.)<br>
@@ -213,7 +213,7 @@ _male_: 21.7% (2020 est.)<br>
 _female_: 2.4% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-8.2% (2014)<br>
+9.4% (2019)<br>
 
 **Currently married women (ages 15-49)**<br>
 62.6% (2023 est.)<br>
@@ -233,9 +233,9 @@ _male_: 11 years<br>
 _female_: 12 years (2012)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.9%<br>
+_total_: 29.9% (2021 est.)<br>
 _male_: 23.5%<br>
-_female_: 39.6% (2021 est.)<br>
+_female_: 39.6%<br>
 
 ## Environment
 
@@ -449,9 +449,9 @@ _services_: NA<br>
 13.99% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.9%<br>
+_total_: 29.9% (2021 est.)<br>
 _male_: 23.5%<br>
-_female_: 39.6% (2021 est.)<br>
+_female_: 39.6%<br>
 
 **Population below poverty line**<br>
 35% (2006 est.)<br>
@@ -641,8 +641,8 @@ _unpaved_: 3,196 km (2019)<br>
 330 km (2012) (the Berbice, Demerara, and Essequibo Rivers are navigable by oceangoing vessels for 150 km, 100 km, and 80 km respectively)<br>
 
 **Merchant marine**<br>
-_total_: 89<br>
-_by type_: bulk carrier 1, general cargo 45, oil tanker 12, other 31 (2022)<br>
+_total_: 89 (2022)<br>
+_by type_: bulk carrier 1, general cargo 45, oil tanker 12, other 31<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Georgetown<br>

@@ -101,9 +101,9 @@ _elderly dependency ratio_: 28.7<br>
 _potential support ratio_: 3.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 45.6 years<br>
+_total_: 45.6 years (2020)<br>
 _male_: 44.2 years<br>
-_female_: 46.5 years (2020 est.)<br>
+_female_: 46.5 years<br>
 
 **Population growth rate**<br>
 0.15% (2023 est.)<br>
@@ -138,14 +138,14 @@ _total population_: 0.86 male(s)/female (2023 est.)<br>
 29.8 years (2008 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.52 deaths/1,000 live births<br>
+_total_: 2.52 deaths/1,000 live births (2023 est.)<br>
 _male_: 2.79 deaths/1,000 live births<br>
-_female_: 2.23 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.23 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.8 years<br>
+_total population_: 83.8 years (2023 est.)<br>
 _male_: 81.12 years<br>
-_female_: 86.63 years (2023 est.)<br>
+_female_: 86.63 years<br>
 
 **Total fertility rate**<br>
 1.23 children born/woman (2023 est.)<br>
@@ -201,9 +201,9 @@ _male_: 17 years<br>
 _female_: 17 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15%<br>
+_total_: 15% (2021 est.)<br>
 _male_: 16.3%<br>
-_female_: 13.6% (2021 est.)<br>
+_female_: 13.6%<br>
 
 ## Environment
 
@@ -400,9 +400,9 @@ _manufacturing_: 17.1% (2013 est.)<br>
 2.93% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 15%<br>
+_total_: 15% (2021 est.)<br>
 _male_: 16.3%<br>
-_female_: 13.6% (2021 est.)<br>
+_female_: 13.6%<br>
 
 **Population below poverty line**<br>
 19.9% (2016 est.)<br>
@@ -596,8 +596,8 @@ _total_: 2,193 km (2021)<br>
 _paved_: 2,193 km (2021)<br>
 
 **Merchant marine**<br>
-_total_: 2,661<br>
-_by type_: bulk carrier 1,135, container ship 558, general cargo 155, oil tanker 394, other 419 (2022)<br>
+_total_: 2,661 (2022)<br>
+_by type_: bulk carrier 1,135, container ship 558, general cargo 155, oil tanker 394, other 419<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Hong Kong<br>

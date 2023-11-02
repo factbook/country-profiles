@@ -107,9 +107,9 @@ _elderly dependency ratio_: 15.3<br>
 _potential support ratio_: 6.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 32.6 years<br>
+_total_: 32.6 years (2020)<br>
 _male_: 32.1 years<br>
-_female_: 33.1 years (2020 est.)<br>
+_female_: 33.1 years<br>
 
 **Population growth rate**<br>
 0.98% (2023 est.)<br>
@@ -144,14 +144,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 22 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.2 deaths/1,000 live births<br>
+_total_: 8.2 deaths/1,000 live births (2023 est.)<br>
 _male_: 9.24 deaths/1,000 live births<br>
-_female_: 7.12 deaths/1,000 live births (2023 est.)<br>
+_female_: 7.12 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.87 years<br>
+_total population_: 79.87 years (2023 est.)<br>
 _male_: 77.23 years<br>
-_female_: 82.65 years (2023 est.)<br>
+_female_: 82.65 years<br>
 
 **Total fertility rate**<br>
 1.86 children born/woman (2023 est.)<br>
@@ -232,9 +232,9 @@ _male_: 16 years<br>
 _female_: 17 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 45.4%<br>
+_total_: 45.4% (2021 est.)<br>
 _male_: 37%<br>
-_female_: 56.3% (2021 est.)<br>
+_female_: 56.3%<br>
 
 ## Environment
 
@@ -459,9 +459,9 @@ _services_: 64% (2006 est.)<br>
 11.49% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 45.4%<br>
+_total_: 45.4% (2021 est.)<br>
 _male_: 37%<br>
-_female_: 56.3% (2021 est.)<br>
+_female_: 56.3%<br>
 
 **Population below poverty line**<br>
 21% (2019 est.)<br>
@@ -666,8 +666,8 @@ _total_: 5,035 km (2017)<br>
 730 km (2011) (seasonally navigable by small craft)<br>
 
 **Merchant marine**<br>
-_total_: 11<br>
-_by type_: other 11 (2022)<br>
+_total_: 11 (2022)<br>
+_by type_: other 11<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Atlantic Ocean (Caribbean) - Puerto Limon<br>

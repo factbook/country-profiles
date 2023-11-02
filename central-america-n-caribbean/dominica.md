@@ -100,9 +100,9 @@ _elderly dependency ratio_: 13.2<br>
 _potential support ratio_: 7.6 (2021)<br>
 
 **Median age**<br>
-_total_: 34.9 years<br>
+_total_: 34.9 years (2020)<br>
 _male_: 34.4 years<br>
-_female_: 35.5 years (2020 est.)<br>
+_female_: 35.5 years<br>
 
 **Population growth rate**<br>
 0.02% (2023 est.)<br>
@@ -134,14 +134,14 @@ _65 years and over_: 0.9 male(s)/female<br>
 _total population_: 1.02 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11 deaths/1,000 live births<br>
+_total_: 11 deaths/1,000 live births (2023 est.)<br>
 _male_: 14.89 deaths/1,000 live births<br>
-_female_: 6.91 deaths/1,000 live births (2023 est.)<br>
+_female_: 6.91 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.45 years<br>
+_total population_: 78.45 years (2023 est.)<br>
 _male_: 75.51 years<br>
-_female_: 81.53 years (2023 est.)<br>
+_female_: 81.53 years<br>
 
 **Total fertility rate**<br>
 2.01 children born/woman (2023 est.)<br>
@@ -571,8 +571,8 @@ _paved_: 762 km (2018)<br>
 _unpaved_: 750 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 84<br>
-_by type_: general cargo 31, oil tanker 13, other 40 (2022)<br>
+_total_: 84 (2022)<br>
+_by type_: general cargo 31, oil tanker 13, other 40<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Portsmouth, Roseau<br>

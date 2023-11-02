@@ -104,9 +104,9 @@ _elderly dependency ratio_: 19.1<br>
 _potential support ratio_: 5.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 35.6 years<br>
+_total_: 35.6 years (2020)<br>
 _male_: 35.4 years<br>
-_female_: 35.7 years (2020 est.)<br>
+_female_: 35.7 years<br>
 
 **Population growth rate**<br>
 0.9% (2023 est.)<br>
@@ -145,14 +145,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 7 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.54 deaths/1,000 live births<br>
+_total_: 1.54 deaths/1,000 live births (2023 est.)<br>
 _male_: 1.7 deaths/1,000 live births<br>
-_female_: 1.37 deaths/1,000 live births (2023 est.)<br>
+_female_: 1.37 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 86.51 years<br>
+_total population_: 86.51 years (2023 est.)<br>
 _male_: 83.82 years<br>
-_female_: 89.34 years (2023 est.)<br>
+_female_: 89.34 years<br>
 
 **Total fertility rate**<br>
 1.17 children born/woman (2023 est.)<br>
@@ -227,9 +227,9 @@ _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.1%<br>
+_total_: 9.1% (2021 est.)<br>
 _male_: 7%<br>
-_female_: 11.8% (2021 est.)<br>
+_female_: 11.8%<br>
 
 ## Environment
 
@@ -455,9 +455,9 @@ _services_: 73.7% (2017)<br>
 3.1% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.1%<br>
+_total_: 9.1% (2021 est.)<br>
 _male_: 7%<br>
-_female_: 11.8% (2021 est.)<br>
+_female_: 11.8%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -657,8 +657,8 @@ _total_: 3,500 km (2017)<br>
 _paved_: 3,500 km (2017) (includes 164 km of expressways)<br>
 
 **Merchant marine**<br>
-_total_: 3,227<br>
-_by type_: bulk carrier 574, container ship 542, general cargo 99, oil tanker 633, other 1,379 (2022)<br>
+_total_: 3,227 (2022)<br>
+_by type_: bulk carrier 574, container ship 542, general cargo 99, oil tanker 633, other 1,379<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Singapore<br>

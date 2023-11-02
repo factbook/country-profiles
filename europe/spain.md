@@ -109,9 +109,9 @@ _elderly dependency ratio_: 30.2<br>
 _potential support ratio_: 3.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 43.9 years<br>
+_total_: 43.9 years (2020)<br>
 _male_: 42.7 years<br>
-_female_: 45.1 years (2020 est.)<br>
+_female_: 45.1 years<br>
 
 **Population growth rate**<br>
 0.12% (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.43 deaths/1,000 live births<br>
+_total_: 2.43 deaths/1,000 live births (2023 est.)<br>
 _male_: 2.7 deaths/1,000 live births<br>
-_female_: 2.15 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.15 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.78 years<br>
+_total population_: 82.78 years (2023 est.)<br>
 _male_: 80.08 years<br>
-_female_: 85.61 years (2023 est.)<br>
+_female_: 85.61 years<br>
 
 **Total fertility rate**<br>
 1.29 children born/woman (2023 est.)<br>
@@ -230,9 +230,9 @@ _male_: 18 years<br>
 _female_: 19 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36.9%<br>
+_total_: 36.9% (2021 est.)<br>
 _male_: 35.9%<br>
-_female_: 38.2% (2021 est.)<br>
+_female_: 38.2%<br>
 
 ## Environment
 
@@ -464,9 +464,9 @@ _services_: 71.7% (2009)<br>
 14.1% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36.9%<br>
+_total_: 36.9% (2021 est.)<br>
 _male_: 35.9%<br>
-_female_: 38.2% (2021 est.)<br>
+_female_: 38.2%<br>
 
 **Population below poverty line**<br>
 20.7% (2018 est.)<br>
@@ -685,8 +685,8 @@ _paved_: 683,175 km (2011) (includes 16,205 km of expressways)<br>
 1,000 km (2012)<br>
 
 **Merchant marine**<br>
-_total_: 494<br>
-_by type_: bulk carrier 1, general cargo 35, oil tanker 23, other 435 (2022)<br>
+_total_: 494 (2022)<br>
+_by type_: bulk carrier 1, general cargo 35, oil tanker 23, other 435<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: <br><em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa Cruz de Tenerife (in the Canary Islands)<br><em>Mediterranean Sea:</em> Algeciras, Barcelona, Cartagena, Tarragona, Valencia<br>
@@ -749,9 +749,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 438,400 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022); 190,380 (Ukraine) (as of 8 October 2023)<br>
+_refugees (country of origin)_: 14,994 (Syria) (mid-year 2022); 438,400 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022); 185,875 (Ukraine) (as of 8 October 2023)<br>
 _stateless persons_: 6,489 (2022)<br>
-<strong>note: </strong>310,120 estimated refugee and migrant arrivals, including Canary Islands (January 2015-October 2023)<br>
+<strong>note: </strong>319,982 estimated refugee and migrant arrivals, including Canary Islands (January 2015-October 2023)<br>
 
 **Illicit drugs**<br>
 <p>a primary European transit point for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection or altered to escape detection Spanish chemists reconstitute it and distribute to Europe; minor domestic drug production; synthetic drugs, including ketamine, new psychoactive substances (NPS), and MDMA transit from Spain to the United States</p><br>

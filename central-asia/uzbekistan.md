@@ -110,9 +110,9 @@ _elderly dependency ratio_: 7.2<br>
 _potential support ratio_: 13 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.1 years<br>
+_total_: 30.1 years (2020)<br>
 _male_: 29.4 years<br>
-_female_: 30.7 years (2020 est.)<br>
+_female_: 30.7 years<br>
 
 **Population growth rate**<br>
 0.81% (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 30 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.55 deaths/1,000 live births<br>
+_total_: 18.55 deaths/1,000 live births (2023 est.)<br>
 _male_: 22.09 deaths/1,000 live births<br>
-_female_: 14.8 deaths/1,000 live births (2023 est.)<br>
+_female_: 14.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.55 years<br>
+_total population_: 75.55 years (2023 est.)<br>
 _male_: 72.54 years<br>
-_female_: 78.74 years (2023 est.)<br>
+_female_: 78.74 years<br>
 
 **Total fertility rate**<br>
 1.72 children born/woman (2023 est.)<br>
@@ -233,9 +233,9 @@ _male_: 12 years<br>
 _female_: 12 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16%<br>
+_total_: 16% (2021 est.)<br>
 _male_: 15.8%<br>
-_female_: 16.2% (2021 est.)<br>
+_female_: 16.2%<br>
 
 ## Environment
 
@@ -470,9 +470,9 @@ _services_: 60.9% (2012 est.)<br>
 <strong>note:</strong> official data; another 20% are underemployed<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 16%<br>
+_total_: 16% (2021 est.)<br>
 _male_: 15.8%<br>
-_female_: 16.2% (2021 est.)<br>
+_female_: 16.2%<br>
 
 **Population below poverty line**<br>
 14.1% (2013 est.)<br>

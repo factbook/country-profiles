@@ -111,9 +111,9 @@ _potential support ratio_: 3.1 (2021 est.)<br>
 <strong>note:</strong> data include Kosovo<br>
 
 **Median age**<br>
-_total_: 43.4 years<br>
+_total_: 43.4 years (2020)<br>
 _male_: 41.7 years<br>
-_female_: 45 years (2020 est.)<br>
+_female_: 45 years<br>
 
 **Population growth rate**<br>
 -0.63% (2023 est.)<br>
@@ -153,14 +153,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 10 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.55 deaths/1,000 live births<br>
+_total_: 4.55 deaths/1,000 live births (2023 est.)<br>
 _male_: 5.14 deaths/1,000 live births<br>
-_female_: 3.93 deaths/1,000 live births (2023 est.)<br>
+_female_: 3.93 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.08 years<br>
+_total population_: 75.08 years (2023 est.)<br>
 _male_: 72.46 years<br>
-_female_: 77.85 years (2023 est.)<br>
+_female_: 77.85 years<br>
 
 **Total fertility rate**<br>
 1.46 children born/woman (2023 est.)<br>
@@ -241,9 +241,9 @@ _male_: 14 years<br>
 _female_: 15 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.4%<br>
+_total_: 30.4% (2021 est.)<br>
 _male_: 28.5%<br>
-_female_: 33.7% (2021 est.)<br>
+_female_: 33.7%<br>
 
 ## Environment
 
@@ -478,9 +478,9 @@ _services_: 56.1% (2017 est.)<br>
 10.39% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.4%<br>
+_total_: 30.4% (2021 est.)<br>
 _male_: 28.5%<br>
-_female_: 33.7% (2021 est.)<br>
+_female_: 33.7%<br>
 
 **Population below poverty line**<br>
 23.2% (2018 est.)<br>
@@ -722,7 +722,7 @@ the Serbian military is a professional and voluntary force responsible for defen
 _refugees (country of origin)_: 17,334 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2022)<br>
 _IDPs_: 196,066 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2022)<br>
 _stateless persons_: 2,594 (includes stateless persons in Kosovo) (2022)<br>
-<strong>note:</strong> 1,018,126 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
+<strong>note:</strong> 1,019,703 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Serbia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government identified more victims and its Center for Protection of Trafficking Victims (CPTV) established a panel with a psychologist, educator, and social worker to conduct victim assessments within 24 hours of a referral; a court seized a house built from the profits of forced begging and gave ownership of the house to the victim as restitution; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; fewer investigations, prosecutions, and convictions of traffickers took place; officials decreased resources for the CPTV, despite its lack of staff, skills, and resources to assess victims, coordinate care, and run the CTPV shelter; standard operating procedures on victim identification remained unclear, and implementation was &ldquo;recommended&rdquo; rather than required; authorities inappropriately penalized victims with imprisonment, probation, and fines for unlawful acts committed as a direct result of being trafficked; the Anti-Trafficking Council has not met in three years, and the government has not adopted the 2021-2022 National Action Plan; official complicity in trafficking or inaction remained significant concerns; the government did not fully protect victims or fully investigate credible allegations that approximately 500 Vietnamese workers were subjected to forced labor at a factory owned by China; therefore, Serbia remained on Tier 2 Watch List for the second consecutive year (2023)<br>

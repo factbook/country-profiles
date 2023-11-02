@@ -120,9 +120,9 @@ _potential support ratio_: 5.3 (2021 est.)<br>
 <strong>note:</strong> data do not include Hong Kong, Macau, and Taiwan<br>
 
 **Median age**<br>
-_total_: 38.4 years<br>
+_total_: 38.4 years (2020)<br>
 _male_: 37.5 years<br>
-_female_: 39.4 years (2020 est.)<br>
+_female_: 39.4 years<br>
 
 **Population growth rate**<br>
 0.18% (2023 est.)<br>
@@ -158,14 +158,14 @@ _total population_: 1.04 male(s)/female (2023 est.)<br>
 23 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.49 deaths/1,000 live births<br>
+_total_: 6.49 deaths/1,000 live births (2023 est.)<br>
 _male_: 6.93 deaths/1,000 live births<br>
-_female_: 6.01 deaths/1,000 live births (2023 est.)<br>
+_female_: 6.01 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.23 years<br>
+_total population_: 78.23 years (2023 est.)<br>
 _male_: 75.5 years<br>
-_female_: 81.2 years (2023 est.)<br>
+_female_: 81.2 years<br>
 
 **Total fertility rate**<br>
 1.45 children born/woman (2023 est.)<br>
@@ -248,9 +248,9 @@ _male_: 14 years<br>
 _female_: 14 years (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.4%<br>
+_total_: 11.4% (2021 est.)<br>
 _male_: 12.1%<br>
-_female_: 10.4% (2021 est.)<br>
+_female_: 10.4%<br>
 
 **People - note**<br>
 in October 2015, the Chinese Government announced that it would change its rules to allow all couples to have two children, loosening a 1979 mandate that restricted many couples to one child; the new policy was implemented on 1 January 2016 to address China&rsquo;s rapidly aging population and future economic needs<br>
@@ -499,9 +499,9 @@ _services_: 43.5% (2016 est.)<br>
 <strong>note:</strong> data are for registered urban unemployment, which excludes private enterprises and migrants<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.4%<br>
+_total_: 11.4% (2021 est.)<br>
 _male_: 12.1%<br>
-_female_: 10.4% (2021 est.)<br>
+_female_: 10.4%<br>
 
 **Population below poverty line**<br>
 0.6% (2019 est.)<br>
@@ -723,8 +723,8 @@ _unpaved_: 622,000 km (2017)<br>
 27,700 km (2020) (navigable waterways)<br>
 
 **Merchant marine**<br>
-_total_: 7,362<br>
-_by type_: bulk carrier 1,684, container ship 355, general cargo 1,164, oil tanker 1,133, other 3,026 (2022)<br>
+_total_: 7,362 (2022)<br>
+_by type_: bulk carrier 1,684, container ship 355, general cargo 1,164, oil tanker 1,133, other 3,026<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin, Xiamen<br>

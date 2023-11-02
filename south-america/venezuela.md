@@ -116,9 +116,9 @@ _elderly dependency ratio_: 13.1<br>
 _potential support ratio_: 7.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30 years<br>
+_total_: 30 years (2020)<br>
 _male_: 29.4 years<br>
-_female_: 30.7 years (2020 est.)<br>
+_female_: 30.7 years<br>
 
 **Population growth rate**<br>
 2.4% (2023 est.)<br>
@@ -153,14 +153,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 259 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.1 deaths/1,000 live births<br>
+_total_: 14.1 deaths/1,000 live births (2023 est.)<br>
 _male_: 15.67 deaths/1,000 live births<br>
-_female_: 12.46 deaths/1,000 live births (2023 est.)<br>
+_female_: 12.46 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.25 years<br>
+_total population_: 74.25 years (2023 est.)<br>
 _male_: 71.19 years<br>
-_female_: 77.45 years (2023 est.)<br>
+_female_: 77.45 years<br>
 
 **Total fertility rate**<br>
 2.2 children born/woman (2023 est.)<br>
@@ -227,9 +227,9 @@ _male_: 97.4%<br>
 _female_: 97.7% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.9%<br>
+_total_: 14.9% (2021 est.)<br>
 _male_: 13.4% NA<br>
-_female_: 19.3% (2021 est.) NA<br>
+_female_: 19.3% NA<br>
 
 ## Environment
 
@@ -335,7 +335,7 @@ _residency requirement for naturalization_: 10 years; reduced to five years in t
 _chief of state_: Notification Statement: the United States does not recognize Nicolas MADURO Moros as president of Venezuela<br><br>President Nicolas MADURO Moros (since 19 April 2013); Executive Vice President Delcy RODRIGUEZ Gomez (since 14 June 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Nicolas MADURO Moros (since 19 April 2013); Executive Vice President Delcy RODRIGUEZ Gomez (since 14 June 2018)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 20 May 2018 (next to be held in 2024)<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 20 May 2018 (next to be held in the second half of 2024)<br>
 _election results_: <br>2018: Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 68%, Henri FALCON (AP) 21%, Javier BERTUCCI 11%; note - the election was reportedly marred by serious shortcomings and electoral fraud<br><br>2013: Nicolas MADURO Moros elected president; percent of vote - Nicolas MADURO Moros (PSUV) 50.6%, Henrique CAPRILES Radonski (PJ) 49.1%, other 0.3%<br>
 
 **Legislative branch**<br>
@@ -452,9 +452,9 @@ _services_: 70.9% (4th quarter, 2011 est.)<br>
 5.1% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.9%<br>
+_total_: 14.9% (2021 est.)<br>
 _male_: 13.4% NA<br>
-_female_: 19.3% (2021 est.) NA<br>
+_female_: 19.3% NA<br>
 
 **Population below poverty line**<br>
 33.1% (2015 est.)<br>
@@ -659,8 +659,8 @@ _total_: 96,189 km (2014)<br>
 7,100 km (2011) (Orinoco River (400 km) and Lake de Maracaibo navigable by oceangoing vessels)<br>
 
 **Merchant marine**<br>
-_total_: 272<br>
-_by type_: bulk carrier 3, container ship 1, general cargo 25, oil tanker 17, other 226 (2022)<br>
+_total_: 272 (2022)<br>
+_by type_: bulk carrier 3, container ship 1, general cargo 25, oil tanker 17, other 226<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: La Guaira, Maracaibo, Puerto Cabello, Punta Cardon<br>

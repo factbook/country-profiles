@@ -100,9 +100,9 @@ _elderly dependency ratio_: 24.7<br>
 _potential support ratio_: 4 (2021)<br>
 
 **Median age**<br>
-_total_: 34.8 years<br>
+_total_: 34.8 years (2020)<br>
 _male_: 34.1 years<br>
-_female_: 35.6 years (2020 est.)<br>
+_female_: 35.6 years<br>
 
 **Population growth rate**<br>
 0.46% (2023 est.)<br>
@@ -131,14 +131,14 @@ _65 years and over_: 1.14 male(s)/female<br>
 _total population_: 1 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.04 deaths/1,000 live births<br>
+_total_: 10.04 deaths/1,000 live births (2023 est.)<br>
 _male_: 8.16 deaths/1,000 live births<br>
-_female_: 12.01 deaths/1,000 live births (2023 est.)<br>
+_female_: 12.01 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.91 years<br>
+_total population_: 75.91 years (2023 est.)<br>
 _male_: 76.79 years<br>
-_female_: 74.99 years (2023 est.)<br>
+_female_: 74.99 years<br>
 
 **Total fertility rate**<br>
 1.32 children born/woman (2023 est.)<br>
@@ -259,7 +259,7 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly (12 seats; 9 members directly elected in a single constituency by absolute majority vote in 2 rounds to serve 5-year terms; the speaker, normally elected from the outside by the Assembly for a 5-year term, and 2 ex-officio members - the attorney general and financial secretary)<br>
-_elections_: last held on 18 November 2019 (next scheduled for 2024)<br>
+_elections_: last held on 18 November 2019 (next to be held in 2024)<br>
 _election results_: percent of vote by party - MCAP 42.7%, PDM 29.9%, other 17.1%; seats by party - MCAP 5, PDM 3, independent 1; composition, including the speaker and 2 ex-officio members - men 8, women 4, percent of women 33.3%<br>
 
 **Judicial branch**<br>

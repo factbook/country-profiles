@@ -111,9 +111,9 @@ _elderly dependency ratio_: 4.8<br>
 _potential support ratio_: 22.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.5 years<br>
+_total_: 19.5 years (2020)<br>
 _male_: 19.4 years<br>
-_female_: 19.5 years (2020 est.)<br>
+_female_: 19.5 years<br>
 
 **Population growth rate**<br>
 2.26% (2023 est.)<br>
@@ -152,14 +152,14 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 620 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 103.06 deaths/1,000 live births<br>
+_total_: 103.06 deaths/1,000 live births (2023 est.)<br>
 _male_: 111.47 deaths/1,000 live births<br>
-_female_: 94.24 deaths/1,000 live births (2023 est.)<br>
+_female_: 94.24 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 54.05 years<br>
+_total population_: 54.05 years (2023 est.)<br>
 _male_: 52.47 years<br>
-_female_: 55.71 years (2023 est.)<br>
+_female_: 55.71 years<br>
 
 **Total fertility rate**<br>
 4.53 children born/woman (2023 est.)<br>
@@ -242,9 +242,9 @@ _male_: 13 years<br>
 _female_: 8 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.2%<br>
+_total_: 20.2% (2021 est.)<br>
 _male_: 18.6%<br>
-_female_: 26.4% (2021 est.)<br>
+_female_: 26.4%<br>
 
 ## Environment
 
@@ -462,9 +462,9 @@ _services_: 37.6% (2017 est.)<br>
 11.22% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.2%<br>
+_total_: 20.2% (2021 est.)<br>
 _male_: 18.6%<br>
-_female_: 26.4% (2021 est.)<br>
+_female_: 26.4%<br>
 
 **Population below poverty line**<br>
 54.5% (2016 est.)<br>
@@ -704,7 +704,7 @@ Haqqani Taliban Network; Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Islami
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Afghanistan-China:</em> None identified<br><em><br>Afghanistan-Iran:</em> Afghan and Iranian commissioners have discussed boundary monument densification and resurvey; Iran protests Afghanistan's restricting flow of dammed Helmand River tributaries during drought<br><br><em>Afghanistan-Pakistan:</em> Pakistan has built fences in some portions of its border with Afghanistan which remains open in some areas to terrorist and other illegal activities. Their alignments may not always be in conformance with Durand Line and original surveyed definitions of the boundary.<br><br><em>Afghanistan-Tajikistan:</em> None identified<br><br><em>Afghanistan-Turkmenistan:</em> None identified<br><br><em>Afghanistan-Uzbekistan:</em> None identified. Boundary follows Amu Darya river as delimited in the Afghan-Soviet treaties and not by the river's current course. The boundary was delimited and possibly demarcated during Soviet times (pre-1991). No current negotiations between Afghanistan and Uzbekistan to redelimit the boundary have been identified. <br><br>Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries</p><br>
+<p><em>Afghanistan-China:</em> none identified<br><em><br>Afghanistan-Iran:</em> Afghan and Iranian commissioners have discussed boundary monument densification and resurvey; Iran protests Afghanistan's restricting flow of dammed Helmand River tributaries during drought<br><br><em>Afghanistan-Pakistan:</em> Pakistan has built fences in some portions of its border with Afghanistan which remains open in some areas to terrorist and other illegal activities; their alignments may not always be in conformance with the Durand Line and original surveyed definitions of the boundary; Pakistan demarcates the Durand Line differently from Afghanistan, and thus portions of the Pakistani fence may lie within what Afghanistan (and most of the international community, including the US) would consider Afghan territory; successive governments in Afghanistan, including the Taliban, have not accepted the 1947 demarcation line<br><br><em>Afghanistan-Tajikistan:</em> none identified<br><br><em>Afghanistan-Turkmenistan:</em> none identified<br><br><em>Afghanistan-Uzbekistan:</em> none identified; boundary follows Amu Darya River as delimited in the Afghan-Soviet treaties and not by the river's current course; the boundary was delimited and possibly demarcated during Soviet times (pre-1991); no current negotiations between Afghanistan and Uzbekistan to redelimit the boundary have been identified <br><br>Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 59,486 (Pakistan) (mid-year 2022)<br>

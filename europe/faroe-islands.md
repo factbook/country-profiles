@@ -99,9 +99,9 @@ _elderly dependency ratio_: 29.1<br>
 _potential support ratio_: 3.4 (2021)<br>
 
 **Median age**<br>
-_total_: 37.2 years<br>
+_total_: 37.2 years (2020)<br>
 _male_: 36.9 years<br>
-_female_: 37.7 years (2020 est.)<br>
+_female_: 37.7 years<br>
 
 **Population growth rate**<br>
 0.63% (2023 est.)<br>
@@ -133,14 +133,14 @@ _65 years and over_: 0.94 male(s)/female<br>
 _total population_: 1.07 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.86 deaths/1,000 live births<br>
+_total_: 5.86 deaths/1,000 live births (2023 est.)<br>
 _male_: 6.48 deaths/1,000 live births<br>
-_female_: 5.2 deaths/1,000 live births (2023 est.)<br>
+_female_: 5.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.47 years<br>
+_total population_: 81.47 years (2023 est.)<br>
 _male_: 78.96 years<br>
-_female_: 84.17 years (2023 est.)<br>
+_female_: 84.17 years<br>
 
 **Total fertility rate**<br>
 2.28 children born/woman (2023 est.)<br>
@@ -535,8 +535,8 @@ _unpaved_: 460 km (2017)<br>
 <strong>note:</strong> those islands not connected by roads (bridges or tunnels) are connected by seven different ferry links operated by the nationally owned company SSL; 28 km of tunnels<br>
 
 **Merchant marine**<br>
-_total_: 91<br>
-_by type_: container ships 6, general cargo 43, other 42 (2022)<br>
+_total_: 91 (2022)<br>
+_by type_: container ships 6, general cargo 43, other 42<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Fuglafjordur, Torshavn, Vagur<br>

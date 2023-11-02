@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Aboriginal Australians arrived on the continent at least 60,000 years ago and developed complex hunter-gatherer societies and oral histories. Dutch navigators led by Abel TASMAN were the first Europeans to land in Australia in 1606, and they mapped the western and northern coasts. They named the continent New Holland but made no attempts to permanently settle it. In 1770, English captain James COOK sailed to the east coast of Australia, named it New South Wales, and claimed it for Great Britain. In 1788 and 1825, Great Britain established New South Wales and then Tasmania as penal colonies respectively. Great Britain and Ireland sent more than 150,000 convicts to Australia before ending the practice in 1868. As Europeans began settling areas away from the coasts, they came into more direct contact with Aboriginal Australians. Europeans also cleared land for agriculture, impacting Aboriginal Australians’ ways of life. These issues, along with disease and a policy in the 1900s that forcefully removed Aboriginal children from their parents, reduced the Aboriginal Australian population from more than 700,000 pre-European contact to a low of 74,000 in 1933.<br><br>Four additional colonies were established in Australia in the mid-1800s: Western Australia (1829), South Australia (1836), Victoria (1851), and Queensland (1859). Gold rushes beginning in the 1850s brought thousands of new immigrants to New South Wales and Victoria, helping to reorient Australia away from its penal colony roots. In the second half of the 1800s, the colonies were all gradually granted self-government, and in 1901, they federated and became the Commonwealth of Australia. Australia contributed more than 400,000 troops to Allied efforts during World War I, and Australian troops played a large role in the defeat of Japanese troops in the Pacific in World War II. Australia severed most constitutional links with the UK in 1942, and in 1951 signed the Australia, New Zealand, and US (ANZUS) Treaty, cementing its military alliance with the United States.  In 2021, Australia, the UK, and the US announced the AUKUS enhanced trilateral security partnership to maintain and expand the three countries’ edge in military capabilities and critical technologies. Australia’s post-war economy boomed and by the 1970s, racial policies that prevented most non-Whites from immigrating to Australia were removed, greatly increasing Asian immigration to the country. In recent decades, Australia has become an internationally competitive, advanced market economy due in large part to economic reforms adopted in the 1980s and its proximity to East and Southeast Asia. </p> <p>In the early 2000s, Australian politics became unstable with frequent attempts to oust party leaders, including five changes of prime minister between 2010 and 2018. As a result, both major parties instituted rules to make it harder to remove a party leader.</p><br>
+<p>Aboriginal Australians arrived on the continent at least 60,000 years ago and developed complex hunter-gatherer societies and oral histories. Dutch navigators led by Abel TASMAN were the first Europeans to land in Australia in 1606, and they mapped the western and northern coasts. They named the continent New Holland but made no attempts to permanently settle it. In 1770, English captain James COOK sailed to the east coast of Australia, named it New South Wales, and claimed it for Great Britain. In 1788 and 1825, Great Britain established New South Wales and then Tasmania as penal colonies respectively. Great Britain and Ireland sent more than 150,000 convicts to Australia before ending the practice in 1868. As Europeans began settling areas away from the coasts, they came into more direct contact with Aboriginal Australians. Europeans also cleared land for agriculture, impacting Aboriginal Australians’ ways of life. These issues, along with disease and a policy in the 1900s that forcefully removed Aboriginal children from their parents, reduced the Aboriginal Australian population from more than 700,000 pre-European contact to a low of 74,000 in 1933.<br><br>Four additional colonies were established in Australia in the mid-1800s: Western Australia (1829), South Australia (1836), Victoria (1851), and Queensland (1859). Gold rushes beginning in the 1850s brought thousands of new immigrants to New South Wales and Victoria, helping to reorient Australia away from its penal colony roots. In the second half of the 1800s, the colonies were all gradually granted self-government, and in 1901, they federated and became the Commonwealth of Australia. Australia contributed more than 400,000 troops to Allied efforts during World War I, and Australian troops played a large role in the defeat of Japanese troops in the Pacific in World War II. Australia severed most constitutional links with the UK in 1942, but remained part of the British Commonwealth.  In 2021, Australia, the UK, and the US announced the AUKUS enhanced trilateral security partnership to maintain and expand the three countries’ edge in military capabilities and critical technologies. Australia’s post-war economy boomed and by the 1970s, racial policies that prevented most non-Whites from immigrating to Australia were removed, greatly increasing Asian immigration to the country. In recent decades, Australia has become an internationally competitive, advanced market economy due in large part to economic reforms adopted in the 1980s and its proximity to East and Southeast Asia. </p> <p>In the early 2000s, Australian politics became unstable with frequent attempts to oust party leaders, including five changes of prime minister between 2010 and 2018. As a result, both major parties instituted rules to make it harder to remove a party leader.</p><br>
 
 ## Geography
 
@@ -119,9 +119,9 @@ _elderly dependency ratio_: 25.5<br>
 _potential support ratio_: 3.9 (2020 est.)<br>
 
 **Median age**<br>
-_total_: 37.5 years<br>
+_total_: 37.5 years (2020)<br>
 _male_: 36.5 years<br>
-_female_: 38.5 years (2020 est.)<br>
+_female_: 38.5 years<br>
 
 **Population growth rate**<br>
 1.19% (2023 est.)<br>
@@ -160,14 +160,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.96 deaths/1,000 live births<br>
+_total_: 2.96 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.2 deaths/1,000 live births<br>
-_female_: 2.71 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.71 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.28 years<br>
+_total population_: 83.28 years (2023 est.)<br>
 _male_: 81.14 years<br>
-_female_: 85.54 years (2023 est.)<br>
+_female_: 85.54 years<br>
 
 **Total fertility rate**<br>
 1.73 children born/woman (2023 est.)<br>
@@ -239,9 +239,9 @@ _male_: 20 years<br>
 _female_: 22 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.8%<br>
+_total_: 10.8% (2021 est.)<br>
 _male_: 12.7%<br>
-_female_: 8.9% (2021 est.)<br>
+_female_: 8.9%<br>
 
 ## Environment
 
@@ -371,7 +371,8 @@ _judge selection and term of office_: justices appointed by the governor-general
 _subordinate courts_: subordinate courts: <em>at the federal level:</em> Federal Court; Federal Circuit and Family Court of Australia;  <em>at the state and territory level:</em> Local Court - New South Wales; Magistrates' Courts – Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory, Australian Capital Territory; District Courts – New South Wales, Queensland, South Australia, Western Australia; County Court – Victoria; Family Court – Western Australia; Court of Petty Sessions – Norfolk Island <p> </p> <p> </p><br>
 
 **Political parties and leaders**<br>
-Australian Greens Party or The Greens [Adam BANDT]<br>Australian Labor Party or ALP [Anthony ALBANESE]<br>Liberal Party of Australia [Peter DUTTON]<br>The Nationals [David LITTLEPROUD]<br>Pauline Hanson’s One Nation or PHON or ONP [Pauline HANSON]<br>
+Australian Greens Party or The Greens [Adam BANDT]<br>Australian Labor Party or ALP [Anthony ALBANESE]<br>Centre Alliance (formerly known as the Nick Xenophon Team or NXT) [none]<br>Jacqui Lambie Network or JLN [Jacqui LAMBIE]<br>Katter's Australian Party [Robbie KATTER]<br>Liberal Party of Australia [Peter DUTTON]<br>The Nationals [David LITTLEPROUD]<br>One Nation or ONP [Pauline HANSON]<br>
+<strong>note:</strong> the Labor Party is Australia’s oldest political party, established federally in 1901; the present Liberal Party was formed in 1944; the Country Party was formed in 1920, renamed the National Country Party in 1975, the National Party of Australia in 1982, and since 2003 has been known as the Nationals; since the general election of 1949, the Liberal Party and the Nationals (under various names) when forming government have done so as a coalition<br>
 
 **International organization participation**<br>
 ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, EITI (implementing country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NEA, NSG, OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF, SAARC (observer), Quad, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNMISS, UNMIT, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -480,9 +481,9 @@ _services_: 75.3% (2009 est.)<br>
 5.16% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.8%<br>
+_total_: 10.8% (2021 est.)<br>
 _male_: 12.7%<br>
-_female_: 8.9% (2021 est.)<br>
+_female_: 8.9%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 34.3 (2018 est.)<br>
@@ -696,8 +697,8 @@ _non-urban_: 727,645 km (2015)<br>
 2,000 km (2011) (mainly used for recreation on Murray and Murray-Darling River systems)<br>
 
 **Merchant marine**<br>
-_total_: 587<br>
-_by type_: bulk carrier 2, general cargo 77, oil tanker 6, other 502 (2022)<br>
+_total_: 587 (2022)<br>
+_by type_: bulk carrier 2, general cargo 77, oil tanker 6, other 502<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: <em><br>Indian Ocean:</em> Adelaide, Darwin, Fremantle, Geelong, Melbourne<br><em>Pacific Ocean:</em> Brisbane, Cairns, Gladstone, Hobart, Newcastle, Port Port Kembla, Sydney<br>
@@ -729,14 +730,14 @@ the military's inventory includes a mix of domestically produced and imported We
 <strong>note:</strong> in 2023, the Australian defense ministry announced a new strategic review that called for the acquisition of more long-range deterrence capabilities, including missiles, submarines, and cyber tools<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary military service (with parental consent); no conscription (abolished 1973); women allowed to serve in all roles, including combat arms, since 2013 (2023)<br>
-<strong>note 1:</strong> foreign nationals who are permanent residents, particularly New Zealanders, or those who have applied for citizenship or overseas candidates who have appropriate experience and qualifications from an overseas military can apply to join the ADF <br><br><strong>note 2:</strong> in 2022, women comprised about 20% of the military<br>
+17 years of age (with parental consent) for voluntary military service for men and women; no conscription (abolished 1973) (2023)<br>
+<strong>note 1:</strong> foreign nationals who are permanent residents, particularly New Zealanders, or those who have applied for citizenship or overseas candidates who have appropriate experience and qualifications from an overseas military can apply to join the ADF <br><br><strong>note 2:</strong> women have served in all roles, including combat arms, since 2013; in 2022, they comprised about 20% of the military<br>
 
 **Military deployments**<br>
 <strong>note: </strong>since the 1990s, Australia has deployed more than 30,000 personnel on nearly 100 UN peacekeeping and coalition military operations, including in Cambodia, Rwanda, the Solomon Islands, Somalia, and East Timor<br>
 
 **Military - note**<br>
-Australia has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; Australia is also a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>Australia has a long-standing military relationship with the US; Australian and US forces first fought together in France in 1918 at the Battle of Hamel, and have fought together in every major US conflict since; Australia and the US signed an agreement in 2014 that allowed for closer bi-lateral defense and security cooperation, including annual rotations of US Marines and enhanced rotations of US Air Force aircraft to Australia; Australian military forces train often with US forces; Australia has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation <br><br>Australia also has long-standing defense and security ties to the UK, including a Defense and Security Cooperation Treaty signed in 2013; in 2020, Australia and the UK signed a memorandum of understanding to cooperate on the building of a next generation of frigates for their respective navies; the Australia-UK Ministerial Consultations (AUKMIN) is their premier bilateral forum on foreign policy, defense, and security issues <br><br>in 2021, Australia, the UK, and the US announced an enhanced trilateral security partnership called “AUKUS” which would build on existing bilateral ties, including deeper integration of defense and security-related science, technology, industrial bases, and supply chains, as well as deeper cooperation on a range of defense and security capabilities; the first initiative under AUKUS was a commitment to support Australia in acquiring conventionally armed nuclear-powered submarines for the Royal Australian Navy<br><br>the ADF is an experienced and professional force equipped with modern weapons; its missions include protecting Australia’s borders and maritime interests, responding to domestic natural disasters, and deploying overseas for humanitarian, peacekeeping, and other security-related missions; it trains regularly and participates in international exercises; the Army’s principal combat forces include a divisional headquarters with 3 mechanized brigades and a special operations command; the Navy operates over 40 surface craft and submarines, including 11 destroyers and frigates, 2 landing helicopter dock (LHD) amphibious assault ships, and 6 attack-type submarines; the RAF has an air combat group with more than 140 modern combat aircraft, as well as transport and surveillance air groups (2023)<br>
+Australia has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; Australia is also a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>Australia has a long-standing military relationship with the US; Australian and US forces first fought together in France in 1918 at the Battle of Hamel, and have fought together in every major US conflict since; Australia and the US signed an agreement in 2014 that allowed for closer bi-lateral defense and security cooperation, including annual rotations of US Marines and enhanced rotations of US Air Force aircraft to Australia; Australian military forces train often with US forces; Australia has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation <br><br>Australia also has long-standing defense and security ties to the UK, including a Defense and Security Cooperation Treaty signed in 2013; in 2020, Australia and the UK signed a memorandum of understanding to cooperate on the building of a next generation of frigates for their respective navies; the Australia-UK Ministerial Consultations (AUKMIN) is their premier bilateral forum on foreign policy, defense, and security issues <br><br>in 2021, Australia, the UK, and the US announced an enhanced trilateral security partnership called “AUKUS” which would build on existing bilateral ties, including deeper integration of defense and security-related science, technology, industrial bases, and supply chains, as well as deeper cooperation on a range of defense and security capabilities; the first initiative under AUKUS was a commitment to support Australia in acquiring conventionally armed nuclear-powered submarines for the Royal Australian Navy<br><br>the ADF is an experienced and professional force equipped with modern weapons; its missions include protecting Australia’s borders and maritime interests, responding to domestic natural disasters, and deploying overseas for humanitarian, peacekeeping, and other security-related missions; it trains regularly and participates in international exercises; the Army’s principal combat forces include a divisional headquarters with 3 mechanized brigades and a special operations command; the Navy operates over 40 surface craft and submarines, including 11 destroyers and frigates, two landing helicopter dock (LHD) amphibious assault ships, and six attack-type submarines; the RAF has an air combat group with more than 140 modern combat aircraft, as well as transport and surveillance air groups (2023)<br>
 
 ## Space
 

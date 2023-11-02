@@ -113,9 +113,9 @@ _elderly dependency ratio_: 5.9<br>
 _potential support ratio_: 17 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21.4 years<br>
+_total_: 21.4 years (2020)<br>
 _male_: 21 years<br>
-_female_: 21.9 years (2020 est.)<br>
+_female_: 21.9 years<br>
 
 **Population growth rate**<br>
 2.19% (2023 est.)<br>
@@ -154,14 +154,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 263 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 31.87 deaths/1,000 live births<br>
+_total_: 31.87 deaths/1,000 live births (2023 est.)<br>
 _male_: 35.25 deaths/1,000 live births<br>
-_female_: 28.38 deaths/1,000 live births (2023 est.)<br>
+_female_: 28.38 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.72 years<br>
+_total population_: 69.72 years (2023 est.)<br>
 _male_: 68.06 years<br>
-_female_: 71.44 years (2023 est.)<br>
+_female_: 71.44 years<br>
 
 **Total fertility rate**<br>
 3.61 children born/woman (2023 est.)<br>
@@ -247,9 +247,9 @@ _male_: 12 years<br>
 _female_: 12 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.6%<br>
+_total_: 9.6% (2021 est.)<br>
 _male_: 9.7%<br>
-_female_: 9.4% (2021 est.)<br>
+_female_: 9.4%<br>
 
 ## Environment
 
@@ -475,9 +475,9 @@ _services_: 40.9% (2013 est.)<br>
 4.32% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.6%<br>
+_total_: 9.6% (2021 est.)<br>
 _male_: 9.7%<br>
-_female_: 9.4% (2021 est.)<br>
+_female_: 9.4%<br>
 
 **Population below poverty line**<br>
 23.4% (2016 est.)<br>
@@ -685,8 +685,8 @@ _urban_: 28,480 km 27% total paved 73% total unpaved<br>
 1,293 km (2011) (168 km for launches and lighters on Volta, Ankobra, and Tano Rivers; 1,125 km of arterial and feeder waterways on Lake Volta)<br>
 
 **Merchant marine**<br>
-_total_: 52<br>
-_by type_: general cargo 7, oil tanker 3, other 42 (2022)<br>
+_total_: 52 (2022)<br>
+_by type_: general cargo 7, oil tanker 3, other 42<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Takoradi, Tema<br>

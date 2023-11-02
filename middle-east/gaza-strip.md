@@ -94,9 +94,9 @@ _potential support ratio_: 16.5 (2021 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Median age**<br>
-_total_: 18 years<br>
+_total_: 18 years (2020)<br>
 _male_: 17.7 years<br>
-_female_: 18.4 years (2020 est.)<br>
+_female_: 18.4 years<br>
 
 **Population growth rate**<br>
 1.99% (2023 est.)<br>
@@ -133,14 +133,14 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Infant mortality rate**<br>
-_total_: 14.87 deaths/1,000 live births<br>
+_total_: 14.87 deaths/1,000 live births (2023 est.)<br>
 _male_: 16.01 deaths/1,000 live births<br>
-_female_: 13.67 deaths/1,000 live births (2023 est.)<br>
+_female_: 13.67 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.66 years<br>
+_total population_: 75.66 years (2023 est.)<br>
 _male_: 73.92 years<br>
-_female_: 77.5 years (2023 est.)<br>
+_female_: 77.5 years<br>
 
 **Total fertility rate**<br>
 3.34 children born/woman (2023 est.)<br>
@@ -213,9 +213,9 @@ _female_: 14 years (2021)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 39.6%<br>
+_total_: 39.6% (2021 est.)<br>
 _male_: 33.7%<br>
-_female_: 69% (2021 est.)<br>
+_female_: 69%<br>
 <strong>note:</strong> includes the West Bank<br>
 
 ## Environment
@@ -335,9 +335,9 @@ _services_: 84.8% (2015 est.)<br>
 <strong>note:</strong> data exclude the West Bank<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 39.6%<br>
+_total_: 39.6% (2021 est.)<br>
 _male_: 33.7%<br>
-_female_: 69% (2021 est.)<br>
+_female_: 69%<br>
 <strong>note:</strong> includes the West Bank<br>
 
 **Population below poverty line**<br>

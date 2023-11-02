@@ -100,9 +100,9 @@ _elderly dependency ratio_: 16<br>
 _potential support ratio_: 6.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 32.9 years<br>
+_total_: 32.9 years (2020)<br>
 _male_: 32.1 years<br>
-_female_: 33.7 years (2020 est.)<br>
+_female_: 33.7 years<br>
 
 **Population growth rate**<br>
 1.17% (2023 est.)<br>
@@ -135,14 +135,14 @@ _65 years and over_: 0.78 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.92 deaths/1,000 live births<br>
+_total_: 4.92 deaths/1,000 live births (2023 est.)<br>
 _male_: 5.88 deaths/1,000 live births<br>
-_female_: 3.91 deaths/1,000 live births (2023 est.)<br>
+_female_: 3.91 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.06 years<br>
+_total population_: 79.06 years (2023 est.)<br>
 _male_: 75.19 years<br>
-_female_: 83.13 years (2023 est.)<br>
+_female_: 83.13 years<br>
 
 **Total fertility rate**<br>
 1.84 children born/woman (2023 est.)<br>
@@ -191,9 +191,9 @@ _male_: 97.3%<br>
 _female_: 96.5% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 41%<br>
+_total_: 41% (2021 est.)<br>
 _male_: 39.2%<br>
-_female_: 43.2% (2021 est.)<br>
+_female_: 43.2%<br>
 
 ## Environment
 
@@ -372,9 +372,9 @@ _services_: 74.9% (2010)<br>
 14.91% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 41%<br>
+_total_: 41% (2021 est.)<br>
 _male_: 39.2%<br>
-_female_: 43.2% (2021 est.)<br>
+_female_: 43.2%<br>
 
 **Population below poverty line**<br>
 17% (2008)<br>
@@ -552,8 +552,8 @@ _inventory of registered aircraft operated by air carriers_: 15 (registered in F
 _total_: 5,622 km (2006)<br>
 
 **Merchant marine**<br>
-_total_: 23<br>
-_by type_: general cargo 5, oil tanker 1, other 17 (2022)<br>
+_total_: 23 (2022)<br>
+_by type_: general cargo 5, oil tanker 1, other 17<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Noumea<br>

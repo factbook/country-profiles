@@ -109,9 +109,9 @@ _elderly dependency ratio_: 11.6<br>
 _potential support ratio_: 8.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 27.9 years<br>
+_total_: 27.9 years (2020)<br>
 _male_: 27.8 years<br>
-_female_: 28.1 years (2020 est.)<br>
+_female_: 28.1 years<br>
 
 **Population growth rate**<br>
 0.88% (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 107 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 20.68 deaths/1,000 live births<br>
+_total_: 20.68 deaths/1,000 live births (2023 est.)<br>
 _male_: 22.95 deaths/1,000 live births<br>
-_female_: 18.33 deaths/1,000 live births (2023 est.)<br>
+_female_: 18.33 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.84 years<br>
+_total population_: 72.84 years (2023 est.)<br>
 _male_: 71.15 years<br>
-_female_: 74.6 years (2023 est.)<br>
+_female_: 74.6 years<br>
 
 **Total fertility rate**<br>
 2.2 children born/woman (2023 est.)<br>
@@ -238,9 +238,9 @@ _male_: 13 years<br>
 _female_: 15 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.6%<br>
+_total_: 20.6% (2021 est.)<br>
 _male_: 16.6%<br>
-_female_: 27.9% (2021 est.)<br>
+_female_: 27.9%<br>
 
 ## Environment
 
@@ -466,9 +466,9 @@ _services_: 64.7% (2014 est.)<br>
 6.36% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.6%<br>
+_total_: 20.6% (2021 est.)<br>
 _male_: 16.6%<br>
-_female_: 27.9% (2021 est.)<br>
+_female_: 27.9%<br>
 
 **Population below poverty line**<br>
 21% (2019 est.)<br>
@@ -675,8 +675,8 @@ _paved_: 9,872 km (2002)<br>
 _unpaved_: 9,833 km (2002)<br>
 
 **Merchant marine**<br>
-_total_: 38<br>
-_by type_: container ship 1, general cargo 2, oil tanker 1, other 34 (2022)<br>
+_total_: 38 (2022)<br>
+_by type_: container ship 1, general cargo 2, oil tanker 1, other 34<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Puerto Haina, Puerto Plata, Santo Domingo<br>

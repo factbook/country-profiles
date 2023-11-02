@@ -101,9 +101,9 @@ _elderly dependency ratio_: 8.9<br>
 _potential support ratio_: 11.2 (2020 est.)<br>
 
 **Median age**<br>
-_total_: 25.6 years<br>
+_total_: 25.6 years (2020)<br>
 _male_: 25.3 years<br>
-_female_: 26 years (2020 est.)<br>
+_female_: 26 years<br>
 
 **Population growth rate**<br>
 0.65% (2023 est.)<br>
@@ -138,14 +138,14 @@ _total population_: 1.03 male(s)/female (2023 est.)<br>
 59 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 17.76 deaths/1,000 live births<br>
+_total_: 17.76 deaths/1,000 live births (2023 est.)<br>
 _male_: 21.29 deaths/1,000 live births<br>
-_female_: 14.06 deaths/1,000 live births (2023 est.)<br>
+_female_: 14.06 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.46 years<br>
+_total population_: 75.46 years (2023 est.)<br>
 _male_: 72.58 years<br>
-_female_: 78.48 years (2023 est.)<br>
+_female_: 78.48 years<br>
 
 **Total fertility rate**<br>
 2.37 children born/woman (2023 est.)<br>
@@ -214,9 +214,9 @@ _male_: 99%<br>
 _female_: 99.3% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.7%<br>
+_total_: 19.7% (2021 est.)<br>
 _male_: 16.7%<br>
-_female_: 24.5% (2021 est.)<br>
+_female_: 24.5%<br>
 
 ## Environment
 
@@ -426,9 +426,9 @@ _services_: 29% (2015 est.)<br>
 NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.7%<br>
+_total_: 19.7% (2021 est.)<br>
 _male_: 16.7%<br>
-_female_: 24.5% (2021 est.)<br>
+_female_: 24.5%<br>
 
 **Population below poverty line**<br>
 20.3% (2013 est.)<br>
@@ -617,8 +617,8 @@ _annual passenger traffic on registered air carriers_: 137,770 (2018)<br>
 _total_: 1,150 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 15<br>
-_by type_: general cargo 3, oil tanker 5, other 7 (2022)<br>
+_total_: 15 (2022)<br>
+_by type_: general cargo 3, oil tanker 5, other 7<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Apia<br>
@@ -629,7 +629,7 @@ _major seaport(s)_: Apia<br>
 no regular military forces; Samoa Police Force (Ministry of Police, Prisons, and Correction Services) (2023)<br>
 
 **Military - note**<br>
-informal defense ties exist with NZ, which is required to consider any Samoan request for assistance under the 1962 Treaty of Friendship <br><br>Samoa has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Somoa's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
+informal defense ties exist with New Zealand, which is required to consider any Samoan request for assistance under the 1962 Treaty of Friendship <br><br>Samoa has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Somoa's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>
 
 ## Transnational Issues
 

@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Each of the four states that compose the Federated States of Micronesia (FSM) - Chuuk, Kosrae, Pohnpei, and Yap - has its own unique history and cultural traditions. The first humans arrived in what is now the FSM in the second millennium B.C. In the 800s A.D., construction of the artificial islets at the Nan Madol complex in Pohnpei began, with the main architecture being built around 1200. At its height, Nan Madol united the approximately 25,000 people of Pohnpei under the Saudeleur Dynasty. Around the same time, Kosrae was united in a kingdom centered in Leluh by 1250. Yap’s society became strictly hierarchical, with chiefs receiving tributes from islands up to 1,100 km (700 mi) away. Widespread human settlement in Chuuk began in the 1300s, and the different islands in the Chuuk Lagoon were frequently at war with one another.</p> <p>Portuguese and Spanish explorers visited a few of the islands in the 1500s and Spain began exerting nominal, but not day-to-day, control over some of the islands - which they named the Caroline Islands - in the 1600s. Christian missionaries arrived in the 1800s, in particular to Chuuk and Kosrae. By the 1870s, nearly every Kosraean had converted to Christianity and religion continues to play an important role in daily life on the island. In 1899, Spain sold all of the FSM to Germany. Japan seized the islands in 1914 and was granted a League of Nations mandate to administer them in 1920. The Japanese navy built bases across most of the islands and headquartered their Pacific naval operations in Chuuk. The US bombed Chuuk in 1944 during Operation Hailstone in World War II, destroying 250 Japanese planes and 40 ships. The US military largely bypassed the other islands in its leapfrog campaign across the Pacific.</p> <p>The FSM came under US administration as part of the Trust Territory of the Pacific Islands in 1947, which comprised six districts: Chuuk, the Marshall Islands, the Northern Mariana Islands, Palau, Pohnpei, and Yap; Kosrae was separated from Pohnpei into a separate district in 1977. In 1979, Chuuk, Kosrae, Pohnpei, and Yap ratified the FSM Constitution and declared independence while the other three districts opted to pursue separate political statuses. In 1982, the FSM signed a Compact of Free Association (COFA) with the US, which granted the FSM financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986 and its funding was renewed in 2003. There are significant inter-island rivalries stemming from their different histories and cultures. Chuuk, the most populous but poorest state, has pushed for secession, but an independence referendum has been repeatedly postponed and may not be held.<br><br>Eligible Micronesians can live, work, and study in any part of the US and its territories without a visa - this privilege reduces stresses on the island economy and the environment. Micronesians serve in the US armed forces and military recruiting from the FSM, per capita, is higher than many US states.</p><br>
+<p>Each of the four states that compose the Federated States of Micronesia (FSM) - Chuuk, Kosrae, Pohnpei, and Yap - has its own unique history and cultural traditions. The first humans arrived in what is now the FSM in the second millennium B.C. In the 800s A.D., construction of the artificial islets at the Nan Madol complex in Pohnpei began, with the main architecture being built around 1200. At its height, Nan Madol united the approximately 25,000 people of Pohnpei under the Saudeleur Dynasty. Around the same time, Kosrae was united in a kingdom centered in Leluh by 1250. Yap’s society became strictly hierarchical, with chiefs receiving tributes from islands up to 1,100 km (700 mi) away. Widespread human settlement in Chuuk began in the 1300s, and the different islands in the Chuuk Lagoon were frequently at war with one another.</p> <p>Portuguese and Spanish explorers visited a few of the islands in the 1500s and Spain began exerting nominal, but not day-to-day, control over some of the islands - which they named the Caroline Islands - in the 1600s. Christian missionaries arrived in the 1800s, in particular to Chuuk and Kosrae. By the 1870s, nearly every Kosraean had converted to Christianity and religion continues to play an important role in daily life on the island. In 1899, Spain sold all of the FSM to Germany. Japan seized the islands in 1914 and was granted a League of Nations mandate to administer them in 1920. The Japanese navy built bases across most of the islands and headquartered their Pacific naval operations in Chuuk. The US bombed Chuuk in 1944, but largely bypassed the islands in its leapfrog campaign across the Pacific. The US military largely bypassed the other islands in its leapfrog campaign across the Pacific.</p> <p>The FSM came under US administration as part of the Trust Territory of the Pacific Islands in 1947, which comprised six districts: Chuuk, the Marshall Islands, the Northern Mariana Islands, Palau, Pohnpei, and Yap; Kosrae was separated from Pohnpei into a separate district in 1977. In 1979, Chuuk, Kosrae, Pohnpei, and Yap ratified the FSM Constitution and declared independence while the other three districts opted to pursue separate political statuses. In 1982, the FSM signed a Compact of Free Association (COFA) with the US, which granted the FSM financial assistance and access to many US domestic programs in exchange for exclusive US military access and defense responsibilities; the COFA entered into force in 1986 and its funding was renewed in 2003. There are significant inter-island rivalries stemming from their different histories and cultures. Chuuk, the most populous but poorest state, has pushed for secession, but an independence referendum has been repeatedly postponed and may not be held.<br><br>Eligible Micronesians can live, work, and study in any part of the US and its territories without a visa - this privilege reduces stresses on the island economy and the environment. Micronesians serve in the US armed forces and military recruiting from the FSM, per capita, is higher than many US states.</p><br>
 
 ## Geography
 
@@ -100,9 +100,9 @@ _elderly dependency ratio_: 9.3<br>
 _potential support ratio_: 10.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 26.3 years<br>
+_total_: 26.3 years (2020)<br>
 _male_: 25.5 years<br>
-_female_: 27.1 years (2020 est.)<br>
+_female_: 27.1 years<br>
 
 **Population growth rate**<br>
 -0.7% (2023 est.)<br>
@@ -137,14 +137,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 74 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.37 deaths/1,000 live births<br>
+_total_: 21.37 deaths/1,000 live births (2023 est.)<br>
 _male_: 24.4 deaths/1,000 live births<br>
-_female_: 18.19 deaths/1,000 live births (2023 est.)<br>
+_female_: 18.19 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.71 years<br>
+_total population_: 74.71 years (2023 est.)<br>
 _male_: 72.61 years<br>
-_female_: 76.91 years (2023 est.)<br>
+_female_: 76.91 years<br>
 
 **Total fertility rate**<br>
 2.22 children born/woman (2023 est.)<br>
@@ -198,9 +198,9 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.9%<br>
+_total_: 18.9% (2014)<br>
 _male_: 10.4%<br>
-_female_: 29.9% (2014)<br>
+_female_: 29.9%<br>
 
 ## Environment
 
@@ -299,7 +299,7 @@ _election results_: David W. PANUELO elected president by Congress; Yosiwo P. GE
 **Legislative branch**<br>
 _description_: unicameral Congress (14 seats; 10 members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms and 4 at- large members directly elected from each of the 4 states by proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 7 March 2023 (next to be held in March 2025)<br>
-_election results_: percent of vote - NA; seats - independent 14; composition as of July 2022 - men 13, women 1, percent of women 7.1%<br>
+_election results_: percent of vote - NA; seats - independent 14; composition as of March 2023 - men 14, women 0<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federated States of Micronesia (FSM) Supreme Court (consists of the chief justice and not more than 5 associate justices and organized into appellate and criminal divisions)<br>
@@ -407,9 +407,9 @@ _services_: 93.9% (2013 est.)<br>
 16.2% (2010 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.9%<br>
+_total_: 18.9% (2014)<br>
 _male_: 10.4%<br>
-_female_: 29.9% (2014)<br>
+_female_: 29.9%<br>
 
 **Population below poverty line**<br>
 41.2% (2013 est.)<br>
@@ -565,8 +565,8 @@ V6<br>
 note - paved and unpaved circumferential roads, most interior roads are unpaved<br>
 
 **Merchant marine**<br>
-_total_: 37<br>
-_by type_: general cargo 19, oil tanker 4, other 14 (2022)<br>
+_total_: 37 (2022)<br>
+_by type_: general cargo 19, oil tanker 4, other 14<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Colonia (Tamil Harbor), Molsron Lele Harbor, Pohnepi Harbor<br>

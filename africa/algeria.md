@@ -113,9 +113,9 @@ _elderly dependency ratio_: 9.8<br>
 _potential support ratio_: 10.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 28.9 years<br>
+_total_: 28.9 years (2020)<br>
 _male_: 28.6 years<br>
-_female_: 29.3 years (2020 est.)<br>
+_female_: 29.3 years<br>
 
 **Population growth rate**<br>
 1.27% (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 1.03 male(s)/female (2023 est.)<br>
 78 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.22 deaths/1,000 live births<br>
+_total_: 19.22 deaths/1,000 live births (2023 est.)<br>
 _male_: 21.2 deaths/1,000 live births<br>
-_female_: 17.14 deaths/1,000 live births (2023 est.)<br>
+_female_: 17.14 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.27 years<br>
+_total population_: 78.27 years (2023 est.)<br>
 _male_: 76.81 years<br>
-_female_: 79.8 years (2023 est.)<br>
+_female_: 79.8 years<br>
 
 **Total fertility rate**<br>
 2.47 children born/woman (2023 est.)<br>
@@ -230,9 +230,9 @@ _male_: 87.4%<br>
 _female_: 75.3% (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 31.9%<br>
+_total_: 31.9% (2021 est.)<br>
 _male_: 27.8%<br>
-_female_: 54% (2021 est.)<br>
+_female_: 54%<br>
 
 ## Environment
 
@@ -458,9 +458,9 @@ _services_: 58.4% (2011 est.)<br>
 10.51% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 31.9%<br>
+_total_: 31.9% (2021 est.)<br>
 _male_: 27.8%<br>
-_female_: 54% (2021 est.)<br>
+_female_: 54%<br>
 
 **Population below poverty line**<br>
 5.5% (2011 est.)<br>
@@ -672,8 +672,8 @@ _paved_: 71,656 km (2015)<br>
 _unpaved_: 32,344 km (2015)<br>
 
 **Merchant marine**<br>
-_total_: 119<br>
-_by type_: bulk carrier 1, container ship 4, general cargo 11, oil tanker 14, other 89 (2022)<br>
+_total_: 119 (2022)<br>
+_by type_: bulk carrier 1, container ship 4, general cargo 11, oil tanker 14, other 89<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, Mostaganem, Oran, Skikda<br>

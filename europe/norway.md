@@ -108,9 +108,9 @@ _potential support ratio_: 3.6 (2021 est.)<br>
 <strong>note:</strong> data include Svalbard and Jan Mayen Islands<br>
 
 **Median age**<br>
-_total_: 39.5 years<br>
+_total_: 39.5 years (2020)<br>
 _male_: 38.8 years<br>
-_female_: 40.2 years (2020 est.)<br>
+_female_: 40.2 years<br>
 
 **Population growth rate**<br>
 0.79% (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 2 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.28 deaths/1,000 live births<br>
+_total_: 2.28 deaths/1,000 live births (2023 est.)<br>
 _male_: 2.61 deaths/1,000 live births<br>
-_female_: 1.93 deaths/1,000 live births (2023 est.)<br>
+_female_: 1.93 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.75 years<br>
+_total population_: 82.75 years (2023 est.)<br>
 _male_: 80.63 years<br>
-_female_: 84.98 years (2023 est.)<br>
+_female_: 84.98 years<br>
 
 **Total fertility rate**<br>
 1.83 children born/woman (2023 est.)<br>
@@ -228,9 +228,9 @@ _male_: 18 years<br>
 _female_: 19 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13%<br>
+_total_: 13% (2021 est.)<br>
 _male_: 13.5%<br>
-_female_: 12.5% (2021 est.)<br>
+_female_: 12.5%<br>
 
 ## Environment
 
@@ -456,9 +456,9 @@ _services_: 78.6% (2016 est.)<br>
 3.69% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13%<br>
+_total_: 13% (2021 est.)<br>
 _male_: 13.5%<br>
-_female_: 12.5% (2021 est.)<br>
+_female_: 12.5%<br>
 
 **Population below poverty line**<br>
 12.7% (2018 est.)<br>
@@ -667,8 +667,8 @@ _total_: 94,902 km (2018) (includes 455 km of expressways)<br>
 1,577 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 1,710<br>
-_by type_: bulk carrier 105, container ship 1, general cargo 273, oil tanker 95, other 1,236 (2022)<br>
+_total_: 1,710 (2022)<br>
+_by type_: bulk carrier 105, container ship 1, general cargo 273, oil tanker 95, other 1,236<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture<br>

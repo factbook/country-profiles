@@ -99,9 +99,9 @@ _elderly dependency ratio_: 13.9<br>
 _potential support ratio_: 7.2 (2021)<br>
 
 **Median age**<br>
-_total_: 34.6 years<br>
+_total_: 34.6 years (2020)<br>
 _male_: 34.9 years<br>
-_female_: 34.4 years (2020 est.)<br>
+_female_: 34.4 years<br>
 
 **Population growth rate**<br>
 1.81% (2023 est.)<br>
@@ -133,14 +133,14 @@ _65 years and over_: 0.94 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.32 deaths/1,000 live births<br>
+_total_: 11.32 deaths/1,000 live births (2023 est.)<br>
 _male_: 14.19 deaths/1,000 live births<br>
-_female_: 8.31 deaths/1,000 live births (2023 est.)<br>
+_female_: 8.31 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.04 years<br>
+_total population_: 81.04 years (2023 est.)<br>
 _male_: 78.3 years<br>
-_female_: 83.91 years (2023 est.)<br>
+_female_: 83.91 years<br>
 
 **Total fertility rate**<br>
 1.7 children born/woman (2023 est.)<br>
@@ -522,8 +522,8 @@ _paved_: 24 km (2003)<br>
 _unpaved_: 97 km (2003)<br>
 
 **Merchant marine**<br>
-_total_: 3<br>
-_by type_: general cargo 1, other 2 (2022)<br>
+_total_: 3 (2022)<br>
+_by type_: general cargo 1, other 2<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cockburn Harbour, Grand Turk, Providenciales<br>

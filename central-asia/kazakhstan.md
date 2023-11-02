@@ -114,9 +114,9 @@ _elderly dependency ratio_: 12.7<br>
 _potential support ratio_: 7.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.6 years<br>
+_total_: 31.6 years (2020)<br>
 _male_: 30.3 years<br>
-_female_: 32.8 years (2020 est.)<br>
+_female_: 32.8 years<br>
 
 **Population growth rate**<br>
 0.73% (2023 est.)<br>
@@ -154,14 +154,14 @@ _total population_: 0.9 male(s)/female (2023 est.)<br>
 13 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.77 deaths/1,000 live births<br>
+_total_: 18.77 deaths/1,000 live births (2023 est.)<br>
 _male_: 21.29 deaths/1,000 live births<br>
-_female_: 16.41 deaths/1,000 live births (2023 est.)<br>
+_female_: 16.41 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.8 years<br>
+_total population_: 72.8 years (2023 est.)<br>
 _male_: 67.73 years<br>
-_female_: 77.56 years (2023 est.)<br>
+_female_: 77.56 years<br>
 
 **Total fertility rate**<br>
 2.08 children born/woman (2023 est.)<br>
@@ -234,9 +234,9 @@ _male_: 15 years<br>
 _female_: 16 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.7%<br>
+_total_: 3.7% (2021 est.)<br>
 _male_: 3.3%<br>
-_female_: 4.3% (2021 est.)<br>
+_female_: 4.3%<br>
 
 ## Environment
 
@@ -473,9 +473,9 @@ _services_: 61.6% (2017 est.)<br>
 4.8% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.7%<br>
+_total_: 3.7% (2021 est.)<br>
 _male_: 3.3%<br>
-_female_: 4.3% (2021 est.)<br>
+_female_: 4.3%<br>
 
 **Population below poverty line**<br>
 4.3% (2018 est.)<br>
@@ -633,7 +633,7 @@ _total subscriptions_: 24.323 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 127 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Kazakhstan has one of the most developed telecommunications sectors in the Central Asian region; this is especially true of the mobile segment, where widespread network coverage has enabled very high penetration rates reaching 180% as far back as 2012; the mobile and fixed-line segments have both pared back their subscriber numbers to more modest levels; the telcos have still been successful in terms of improving their margins and revenues by growing value-added services along with exploiting the capabilities of their higher speed networks (4G LTE as well as fiber) to drive significant increases in data usage; Kazakhstan has enjoyed a&nbsp; high fixed-line teledensity thanks to concerted efforts to invest in the fixed-line infrastructure as well as next-generation networks; demand for traditional voice services is on the wane as customers take a preference for the flexibility and ubiquity of the mobile platform for voice as well as data services; mobile clearly dominates the telecom sector in Kazakhstan, yet 2020 saw a sharp drop in subscriber numbers for both mobile voice and mobile broadband services as the Covid-19 crisis took hold; with the exception of fixed-line voice services, Kazakhstan&rsquo;s telecom market is expected to return to moderate growth from 2022 onward; the extensive deployment of LTE networks across the country (along with the prospect of 5G services being added to the mix in 2023) points towards an even greater uptake of lucrative mobile broadband services, in particular (2021)<br>
+_general assessment_: Kazakhstan has one of the most developed telecommunications sectors in the Central Asian region; this is especially true of the mobile segment; the principal telcos have successfully generated revenue growth on the back of value-added services and the extended each of LTE and fiber networks; this has resulted in strong growth in mobile fixed line traffic; the mobile segment dominates the telecom sector in Kazakhstan overall, there was a drop in the number of subscribers in 2020; these effects also limited growth in 2021, though the easing of restrictions in 2022 resulted in a stronger recovery; the extensive deployment of LTE networks across the country, and the launch of limited 5G services in mid-2023 will provide a steady increase mobile broadband services (2021)<br>
 _domestic_: fixed telephone subscriptions are 16 per 100 persons; mobile-cellular subscriber base 127 per 100 persons (2021)<br>
 _international_: country code - 7; international traffic with other former Soviet republics and China carried by landline and microwave radio relay and with other countries by satellite and by the TAE fiber-optic cable; satellite earth stations - 2 Intelsat<br>
 
@@ -696,8 +696,8 @@ _unpaved_: 12,354 km (2021)<br>
 43,983 km (2020) (on the Ertis (Irtysh) River (80%) and Syr Darya (Syrdariya) River)<br>
 
 **Merchant marine**<br>
-_total_: 120<br>
-_by type_: general cargo 3, oil tanker 7, other 110 (2022)<br>
+_total_: 120 (2022)<br>
+_by type_: general cargo 3, oil tanker 7, other 110<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Caspian Sea - Aqtau (Shevchenko), Atyrau (Gur'yev)<br>

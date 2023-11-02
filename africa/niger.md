@@ -115,9 +115,9 @@ _elderly dependency ratio_: 5<br>
 _potential support ratio_: 20.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 14.8 years<br>
+_total_: 14.8 years (2020)<br>
 _male_: 14.5 years<br>
-_female_: 15.1 years (2020 est.)<br>
+_female_: 15.1 years<br>
 
 **Population growth rate**<br>
 3.66% (2023 est.)<br>
@@ -156,14 +156,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 441 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 65.53 deaths/1,000 live births<br>
+_total_: 65.53 deaths/1,000 live births (2023 est.)<br>
 _male_: 70.46 deaths/1,000 live births<br>
-_female_: 60.46 deaths/1,000 live births (2023 est.)<br>
+_female_: 60.46 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 60.48 years<br>
+_total population_: 60.48 years (2023 est.)<br>
 _male_: 58.91 years<br>
-_female_: 62.1 years (2023 est.)<br>
+_female_: 62.1 years<br>
 
 **Total fertility rate**<br>
 6.73 children born/woman (2023 est.)<br>
@@ -224,7 +224,7 @@ _male_: 13.7% (2020 est.)<br>
 _female_: 1.1% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-31.3% (2019)<br>
+34.6% (2022)<br>
 
 **Currently married women (ages 15-49)**<br>
 80.3% (2023 est.)<br>
@@ -244,9 +244,9 @@ _male_: 7 years<br>
 _female_: 6 years (2017)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1%<br>
+_total_: 1% (2021 est.)<br>
 _male_: 1.2%<br>
-_female_: 0.7% (2021 est.)<br>
+_female_: 0.7%<br>
 
 ## Environment
 
@@ -483,9 +483,9 @@ _services_: 17.5% (2012 est.)<br>
 0.55% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 1%<br>
+_total_: 1% (2021 est.)<br>
 _male_: 1.2%<br>
-_female_: 0.7% (2021 est.)<br>
+_female_: 0.7%<br>
 
 **Population below poverty line**<br>
 40.8% (2018 est.)<br>
@@ -685,8 +685,8 @@ _unpaved_: 15,037 km (2010)<br>
 300 km (2012) (the Niger, the only major river, is navigable to Gaya between September and March)<br>
 
 **Merchant marine**<br>
-_total_: 2<br>
-_by type_: general cargo 1, other 1 (2022)<br>
+_total_: 2 (2022)<br>
+_by type_: general cargo 1, other 1<br>
 
 ## Military and Security
 

@@ -105,9 +105,9 @@ _elderly dependency ratio_: 35.2<br>
 _potential support ratio_: 2.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 44.6 years<br>
+_total_: 44.6 years (2020)<br>
 _male_: 42.7 years<br>
-_female_: 46.5 years (2020 est.)<br>
+_female_: 46.5 years<br>
 
 **Population growth rate**<br>
 -0.17% (2023 est.)<br>
@@ -145,14 +145,14 @@ _total population_: 0.9 male(s)/female (2023 est.)<br>
 12 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.47 deaths/1,000 live births<br>
+_total_: 2.47 deaths/1,000 live births (2023 est.)<br>
 _male_: 2.83 deaths/1,000 live births<br>
-_female_: 2.1 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.71 years<br>
+_total population_: 81.71 years (2023 est.)<br>
 _male_: 78.6 years<br>
-_female_: 84.98 years (2023 est.)<br>
+_female_: 84.98 years<br>
 
 **Total fertility rate**<br>
 1.44 children born/woman (2023 est.)<br>
@@ -224,9 +224,9 @@ _male_: 17 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.1%<br>
+_total_: 23.1% (2021 est.)<br>
 _male_: 20.6%<br>
-_female_: 26.2% (2021 est.)<br>
+_female_: 26.2%<br>
 
 ## Environment
 
@@ -453,9 +453,9 @@ _services_: 67.5% (2014 est.)<br>
 6.46% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.1%<br>
+_total_: 23.1% (2021 est.)<br>
 _male_: 20.6%<br>
-_female_: 26.2% (2021 est.)<br>
+_female_: 26.2%<br>
 
 **Population below poverty line**<br>
 17.2% (2018 est.)<br>
@@ -660,8 +660,8 @@ _unpaved_: 11,606 km (2008)<br>
 210 km (2011) (on Douro River from Porto)<br>
 
 **Merchant marine**<br>
-_total_: 820<br>
-_by type_: bulk carrier 103, container ship 290, general cargo 175, oil tanker 28, other 224 (2022)<br>
+_total_: 820 (2022)<br>
+_by type_: bulk carrier 103, container ship 290, general cargo 175, oil tanker 28, other 224<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Leixoes, Lisbon, Setubal, Sines<br>
@@ -682,14 +682,14 @@ Portuguese Armed Forces (Forças Armadas): Portuguese Army (Exercito Portuguesa)
 1.4% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2023)<br>
+approximately 26,000 active-duty personnel (13,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes mostly European- and US-origin weapons systems along with a smaller mix of domestically produced equipment; in recent years, leading foreign suppliers have included Germany and the US; Portugal's defense industry is primarily focused on shipbuilding (2023)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004) but conscription possible if insufficient volunteers available; women serve in the armed forces but are prohibited from serving in some combatant specialties; contract service lasts for an initial period of 2-6 years, and can be extended to a maximum of 20 years of service; initial voluntary military service lasts 12 months; reserve obligation to age 35 (2023)<br>
-<strong>note: </strong>as of 2019, women made up about 12% of the military's full-time personnel<br>
+<strong>note: </strong>as of 2020, women made up about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 225 Central African Republic (MINUSCA/EUTM); approximately 200 Lithuania (NATO); approximately 230 Romania (NATO) (2023)<br>

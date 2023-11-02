@@ -106,9 +106,9 @@ _elderly dependency ratio_: 37.2<br>
 _potential support ratio_: 2.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 46.5 years<br>
+_total_: 46.5 years (2020)<br>
 _male_: 45.4 years<br>
-_female_: 47.5 years (2020 est.)<br>
+_female_: 47.5 years<br>
 
 **Population growth rate**<br>
 -0.11% (2023 est.)<br>
@@ -146,14 +146,14 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.11 deaths/1,000 live births<br>
+_total_: 3.11 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.28 deaths/1,000 live births<br>
-_female_: 2.94 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.94 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.79 years<br>
+_total population_: 82.79 years (2023 est.)<br>
 _male_: 80.46 years<br>
-_female_: 85.26 years (2023 est.)<br>
+_female_: 85.26 years<br>
 
 **Total fertility rate**<br>
 1.24 children born/woman (2023 est.)<br>
@@ -226,9 +226,9 @@ _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.9%<br>
+_total_: 30.9% (2021 est.)<br>
 _male_: 29.1%<br>
-_female_: 33.8% (2021 est.)<br>
+_female_: 33.8%<br>
 
 ## Environment
 
@@ -458,9 +458,9 @@ _services_: 67.8% (2011)<br>
 9.95% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.9%<br>
+_total_: 30.9% (2021 est.)<br>
 _male_: 29.1%<br>
-_female_: 33.8% (2021 est.)<br>
+_female_: 33.8%<br>
 
 **Population below poverty line**<br>
 20.1% (2018 est.)<br>
@@ -680,8 +680,8 @@ _paved_: 487,700 km (2007) (includes 6,700 km of expressways)<br>
 2,400 km (2012) (used for commercial traffic; of limited overall value compared to road and rail)<br>
 
 **Merchant marine**<br>
-_total_: 1,266<br>
-_by type_: bulk carrier 20, container ship 6, general cargo 107, oil tanker 102, other 1,031 (2022)<br>
+_total_: 1,266 (2022)<br>
+_by type_: bulk carrier 20, container ship 6, general cargo 107, oil tanker 102, other 1,031<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice<br>
@@ -748,7 +748,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 167,525 (Ukraine) (as of 1 September 2023)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 833,841 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
+<strong>note:</strong> 837,415 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 
 **Illicit drugs**<br>
 <p>important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe</p><br>

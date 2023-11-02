@@ -115,9 +115,9 @@ _elderly dependency ratio_: 5.7<br>
 _potential support ratio_: 17.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.4 years<br>
+_total_: 19.4 years (2020)<br>
 _male_: 18.5 years<br>
-_female_: 20.3 years (2020 est.)<br>
+_female_: 20.3 years<br>
 
 **Population growth rate**<br>
 2.52% (2023 est.)<br>
@@ -156,14 +156,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 261 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 31.75 deaths/1,000 live births<br>
+_total_: 31.75 deaths/1,000 live births (2023 est.)<br>
 _male_: 35.05 deaths/1,000 live births<br>
-_female_: 28.28 deaths/1,000 live births (2023 est.)<br>
+_female_: 28.28 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.25 years<br>
+_total population_: 70.25 years (2023 est.)<br>
 _male_: 68.52 years<br>
-_female_: 72.08 years (2023 est.)<br>
+_female_: 72.08 years<br>
 
 **Total fertility rate**<br>
 4.17 children born/woman (2023 est.)<br>
@@ -245,9 +245,9 @@ _male_: 8 years<br>
 _female_: 10 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5%<br>
+_total_: 5% (2021 est.)<br>
 _male_: 3.5%<br>
-_female_: 7.5% (2021 est.)<br>
+_female_: 7.5%<br>
 
 ## Environment
 
@@ -386,7 +386,7 @@ _email address and website_: <br>contact@ambasenegal-us.org<br><br>http://www.am
 _consulate(s) general_: Houston, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Michael RAYNOR (since February 2022); note - also accredited to Guinea-Bissau<br>
+_chief of mission_: Ambassador Michael RAYNOR (since 10 March 2022); note - also accredited to Guinea-Bissau<br>
 _embassy_: Route des Almadies, Dakar<br>
 _mailing address_: 2130 Dakar Place, Washington DC&nbsp; 20521-2130<br>
 _telephone_: [221] 33-879-4000<br>
@@ -479,9 +479,9 @@ _industry and services_: 22.5% (2007 est.)<br>
 2.86% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 5%<br>
+_total_: 5% (2021 est.)<br>
 _male_: 3.5%<br>
-_female_: 7.5% (2021 est.)<br>
+_female_: 7.5%<br>
 
 **Population below poverty line**<br>
 46.7% (2011 est.)<br>
@@ -682,8 +682,8 @@ _unpaved_: 10,539 km (2017)<br>
 1,000 km (2012) (primarily on the Senegal, Saloum, and Casamance Rivers)<br>
 
 **Merchant marine**<br>
-_total_: 35<br>
-_by type_: general cargo 5, oil tanker 1, other 29 (2022)<br>
+_total_: 35 (2022)<br>
+_by type_: general cargo 5, oil tanker 1, other 29<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dakar<br>
@@ -711,7 +711,7 @@ the FAS inventory includes mostly older or secondhand equipment from a variety o
 18 years of age for voluntary military service for men and women; 20 years of age for selective compulsory service for men and possibly women; 24-month service obligation (2023)<br>
 
 **Military deployments**<br>
-200 Central African Republic (MINUSCA); 950 Mali (MINUSMA); note - Senegal also has about 1,000 police deployed to UN peacekeeping missions in the Central African Republic (MINUSCA), the Democratic Republic of the Congo (MONUSCO), and Mali (MINUSMA) (2023)<br>
+200 Central African Republic (MINUSCA); 950 Mali (MINUSMA); note - Senegal also has up to 1,000 police deployed to UN peacekeeping missions in the Central African Republic (MINUSCA), the Democratic Republic of the Congo (MONUSCO), and Mali (MINUSMA) (2023)<br>
 
 **Military - note**<br>
 despite limited resources, the FAS is considered to be a well-equipped, experienced, and professional military; it has a history of non-interference in the country’s political process and good relations with civil authorities; it is experienced in foreign deployments and has received considerable assistance from the French military, which maintains a presence in Senegal, and the US, with smaller levels from Germany, Spain, and the UK; the FAS’s primary focuses are border, internal, and maritime security; it is closely watching the prevalence of multiple active terrorist groups across the region and political instability in neighboring Mali and Guinea and has recently established new military and gendarmerie camps along its eastern border; it also works with the government in areas such as preventive healthcare, infrastructure development, environmental protection, and disaster response<br><br>the Army is spread amongst 7 military zones and organized into a mix of light infantry battalions and light armored reconnaissance squadrons, as well as airborne, special operations, and artillery battalions; the Gendarmerie includes mobile units, as well as the Presidential Guard (aka “The Red Guard”); the Navy is a small force of coastal patrol craft; in recent years it has acquired some modern platforms from France and Israel, including its first offshore patrol vessel, to improve the Navy’s ability to patrol Senegal’s coastline and economic exclusion zone, conduct fisheries inspections, counter drug trafficking, and combat piracy; the Air Force is configured for supporting the ground forces and has a small number of light attack aircraft and helicopter gunships, as well as transport and reconnaissance aircraft<br><br>Senegalese security forces have been engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance (MDFC) since 1982; the conflict is one of longest running low-level insurgencies in the World, having claimed more than 5,000 lives while leaving another 60,000 displaced; in May 2023, a faction of the MFDC agreed to a peace deal (2023)<br>
@@ -727,7 +727,7 @@ Jama&rsquo;at Nusrat al-Islam wal-Muslimin (JNIM)<br>
 <p><em>Senegal-Guinea-Bissau</em>: rebels from the Movement of Democratic Forces in the Casamance find refuge in Guinea-Bissau</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,505 (Mauritania) (2023)<br>
+_refugees (country of origin)_: 11,518 (Mauritania) (2023)<br>
 _IDPs_: 8,400 (2022)<br>
 
 **Illicit drugs**<br>

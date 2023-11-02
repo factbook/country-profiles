@@ -114,9 +114,9 @@ _elderly dependency ratio_: 4.9<br>
 _potential support ratio_: 20.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.5 years<br>
+_total_: 18.5 years (2020)<br>
 _male_: 18.2 years<br>
-_female_: 18.8 years (2020 est.)<br>
+_female_: 18.8 years<br>
 
 **Population growth rate**<br>
 2.73% (2023 est.)<br>
@@ -155,14 +155,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 438 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 47.4 deaths/1,000 live births<br>
+_total_: 47.4 deaths/1,000 live births (2023 est.)<br>
 _male_: 52.18 deaths/1,000 live births<br>
-_female_: 42.48 deaths/1,000 live births (2023 est.)<br>
+_female_: 42.48 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.74 years<br>
+_total population_: 63.74 years (2023 est.)<br>
 _male_: 61.92 years<br>
-_female_: 65.61 years (2023 est.)<br>
+_female_: 65.61 years<br>
 
 **Total fertility rate**<br>
 4.5 children born/woman (2023 est.)<br>
@@ -248,9 +248,9 @@ _male_: 13 years<br>
 _female_: 11 years (2016)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.6%<br>
+_total_: 6.6% (2021 est.)<br>
 _male_: 6%<br>
-_female_: 7.3% (2021 est.)<br>
+_female_: 7.3%<br>
 
 ## Environment
 
@@ -486,9 +486,9 @@ _services_: 17% (2001 est.)<br>
 3.64% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.6%<br>
+_total_: 6.6% (2021 est.)<br>
 _male_: 6%<br>
-_female_: 7.3% (2021 est.)<br>
+_female_: 7.3%<br>
 
 **Population below poverty line**<br>
 37.5% (2014 est.)<br>
@@ -698,8 +698,8 @@ _unpaved_: 72,456 km (2016)<br>
 (2010) (major rivers in the south, such as the Wouri and the Sanaga, are largely non-navigable; in the north, the Benue, which connects through Nigeria to the Niger River, is navigable in the rainy season only to the port of Garoua)<br>
 
 **Merchant marine**<br>
-_total_: 121<br>
-_by type_: bulk carrier 2, general cargo 45, oil tanker 33, other 41 (2022)<br>
+_total_: 121 (2022)<br>
+_by type_: bulk carrier 2, general cargo 45, oil tanker 33, other 41<br>
 
 **Ports and terminals**<br>
 _oil terminal(s)_: Limboh Terminal<br>
@@ -751,6 +751,6 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 352,938 (Central African Republic), 117,738 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 353,701 (Central African Republic), 120,677 (Nigeria) (2023)<br>
 _IDPs_: 1.066 million (2023) (includes far north, northwest, and southwest)<br>
 

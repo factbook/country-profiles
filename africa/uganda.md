@@ -111,9 +111,9 @@ _elderly dependency ratio_: 3.2<br>
 _potential support ratio_: 31.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 15.7 years<br>
+_total_: 15.7 years (2020)<br>
 _male_: 14.9 years<br>
-_female_: 16.5 years (2020 est.)<br>
+_female_: 16.5 years<br>
 
 **Population growth rate**<br>
 3.22% (2023 est.)<br>
@@ -152,14 +152,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 284 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 29.44 deaths/1,000 live births<br>
+_total_: 29.44 deaths/1,000 live births (2023 est.)<br>
 _male_: 32.82 deaths/1,000 live births<br>
-_female_: 25.96 deaths/1,000 live births (2023 est.)<br>
+_female_: 25.96 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.32 years<br>
+_total population_: 69.32 years (2023 est.)<br>
 _male_: 67.08 years<br>
-_female_: 71.62 years (2023 est.)<br>
+_female_: 71.62 years<br>
 
 **Total fertility rate**<br>
 5.26 children born/woman (2023 est.)<br>
@@ -238,9 +238,9 @@ _male_: 84%<br>
 _female_: 74.3% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.3%<br>
+_total_: 4.3% (2021 est.)<br>
 _male_: 3.4%<br>
-_female_: 5.3% (2021 est.)<br>
+_female_: 5.3%<br>
 
 ## Environment
 
@@ -471,9 +471,9 @@ _services_: 22% (2013 est.)<br>
 1.92% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.3%<br>
+_total_: 4.3% (2021 est.)<br>
 _male_: 3.4%<br>
-_female_: 5.3% (2021 est.)<br>
+_female_: 5.3%<br>
 
 **Population below poverty line**<br>
 21.4% (2016 est.)<br>
@@ -731,6 +731,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 898,513 (South Sudan) (refugees and asylum seekers), 498,133 (Democratic Republic of the Congo), 41,180 (Somalia), 38,593 (Burundi), 34,368 (Eritrea), 23,388 (Rwanda), 8,936 (Ethiopia), 5,776 (Sudan) (2023)<br>
+_refugees (country of origin)_: 898,513 (South Sudan) (refugees and asylum seekers), 500,520 (Democratic Republic of the Congo), 41,180 (Somalia), 38,593 (Burundi), 34,368 (Eritrea), 23,388 (Rwanda), 8,936 (Ethiopia), 5,776 (Sudan) (2023)<br>
 _stateless persons_: 67,000 (2022)<br>
 

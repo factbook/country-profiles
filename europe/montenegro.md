@@ -108,9 +108,9 @@ _elderly dependency ratio_: 24.8<br>
 _potential support ratio_: 4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 39.6 years<br>
+_total_: 39.6 years (2020)<br>
 _male_: 38.1 years<br>
-_female_: 41.1 years (2020 est.)<br>
+_female_: 41.1 years<br>
 
 **Population growth rate**<br>
 -0.43% (2023 est.)<br>
@@ -148,14 +148,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 6 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.2 deaths/1,000 live births<br>
+_total_: 3.2 deaths/1,000 live births (2023 est.)<br>
 _male_: 2.69 deaths/1,000 live births<br>
-_female_: 3.73 deaths/1,000 live births (2023 est.)<br>
+_female_: 3.73 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.99 years<br>
+_total population_: 77.99 years (2023 est.)<br>
 _male_: 75.57 years<br>
-_female_: 80.5 years (2023 est.)<br>
+_female_: 80.5 years<br>
 
 **Total fertility rate**<br>
 1.81 children born/woman (2023 est.)<br>
@@ -237,9 +237,9 @@ _male_: 15 years<br>
 _female_: 16 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 31.6%<br>
+_total_: 31.6% (2021 est.)<br>
 _male_: 28.3%<br>
-_female_: 36.7% (2021 est.)<br>
+_female_: 36.7%<br>
 
 ## Environment
 
@@ -342,7 +342,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Jakov MILATOVIC (since 20 May 2023)<br>
-_head of government_: Prime Minister Dritan ABAZOVIC (since 28 April 2022)<br>
+_head of government_: Prime Minister Milojko SPAJIC (since 31 October 2023)<br>
 _cabinet_: ministers act as cabinet<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 19 March 2023 with a runoff on 2 April 2023 (next to be held in 2028); prime minister nominated by the president, approved by the Assembly<br>
 _election results_: <em><br>2023: </em>Jakov MILATOVIC elected president in second round; percent of vote in first round - Milo DUKANOVIC (DPS) 35.4%, Jakov MILATOVIC (Europe Now!) 28.9%, Andrija MANDIC (DF) 19.3%, Aleksa BECIC (DCG) 11.1%, other 5.3%; percent of vote in second round - Jakov MILATOVIC 58.9%, Milo DUKANOVIC 41.1%<em><br><br>2018:</em> Milo DJUKANOVIC elected president in first round; percent of vote - Milo DJUKANOVIC (DPS) 53.9%, Mladen BOJANIC (independent) 33.4%, Draginja VUKSANOVIC (SDP) 8.2%, Marko MILACIC (PRAVA) 2.8%, other 1.7%<br>
@@ -466,9 +466,9 @@ _services_: 75% (2017 est.)<br>
 15.12% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 31.6%<br>
+_total_: 31.6% (2021 est.)<br>
 _male_: 28.3%<br>
-_female_: 36.7% (2021 est.)<br>
+_female_: 36.7%<br>
 
 **Population below poverty line**<br>
 24.5% (2018 est.)<br>
@@ -670,8 +670,8 @@ _paved_: 7,141 km (2010)<br>
 _unpaved_: 621 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 18<br>
-_by type_: bulk carrier 4, other 14 (2022)<br>
+_total_: 18 (2022)<br>
+_by type_: bulk carrier 4, other 14<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bar<br>
@@ -712,7 +712,7 @@ the Army of Montenegro is a small military focused on the defense of Montenegroâ
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 62,075 (Ukraine) (as of 2 October 2023)<br>
 _stateless persons_: 468 (2022)<br>
-<strong>note:</strong> 33,521 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
+<strong>note:</strong> 33,634 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Montenegro does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government prosecuted more defendants and identified more trafficking victims, adopted the National Action Plan for 2022, and coordinating bodies met consistently; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; officials did not convict any traffickers and reorganized the police office dedicated to investigating trafficking, reducing its ability to conduct proactive investigations; the government did not act quickly to protect victims after experts published credible allegations of abuse by an employee with management duties for the government-funded NGO-run anti-trafficking shelter, including physical violence, intimidation, and blackmail; although civil society and international organizations ceased victim referrals to the shelter, the government did not suspend its license and funding, continued to refer two child victims, and funded the shelter until the grant ended in December 2022; afterwards, Montenegro did not renew the shelter&rsquo;s grant and decided to start renovating a government-run shelter for child trafficking victims; the government attempted to organize accommodations for child victims in foster families, but it did not develop a plan to provide protection for adult victims; therefore, Montenegro was downgraded to Tier 2 Watch List (2023)<br>

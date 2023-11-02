@@ -105,9 +105,9 @@ _elderly dependency ratio_: 4.6<br>
 _potential support ratio_: 21.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 32.9 years<br>
+_total_: 32.9 years (2020)<br>
 _male_: 34.4 years<br>
-_female_: 30.3 years (2020 est.)<br>
+_female_: 30.3 years<br>
 
 **Population growth rate**<br>
 0.85% (2023 est.)<br>
@@ -142,14 +142,14 @@ _total population_: 1.51 male(s)/female (2023 est.)<br>
 16 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.98 deaths/1,000 live births<br>
+_total_: 9.98 deaths/1,000 live births (2023 est.)<br>
 _male_: 11.65 deaths/1,000 live births<br>
-_female_: 8.26 deaths/1,000 live births (2023 est.)<br>
+_female_: 8.26 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.13 years<br>
+_total population_: 80.13 years (2023 est.)<br>
 _male_: 77.87 years<br>
-_female_: 82.45 years (2023 est.)<br>
+_female_: 82.45 years<br>
 
 **Total fertility rate**<br>
 1.66 children born/woman (2023 est.)<br>
@@ -221,9 +221,9 @@ _male_: 16 years<br>
 _female_: 17 years (2019)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.9%<br>
+_total_: 9.9% (2021 est.)<br>
 _male_: 6.1%<br>
-_female_: 20.5% (2021 est.)<br>
+_female_: 20.5%<br>
 
 ## Environment
 
@@ -453,9 +453,9 @@ _services_: 67% (2004 est.)<br>
 <strong>note:</strong> official estimate; actual rate is higher<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.9%<br>
+_total_: 9.9% (2021 est.)<br>
 _male_: 6.1%<br>
-_female_: 20.5% (2021 est.)<br>
+_female_: 20.5%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -648,8 +648,8 @@ _paved_: 3,392 km (2010)<br>
 _unpaved_: 730 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 190<br>
-_by type_: general cargo 11, oil tanker 3, other 176 (2022)<br>
+_total_: 190 (2022)<br>
+_by type_: general cargo 11, oil tanker 3, other 176<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Mina' Salman, Sitrah<br>

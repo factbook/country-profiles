@@ -116,9 +116,9 @@ _elderly dependency ratio_: 4.8<br>
 _potential support ratio_: 20.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20 years<br>
+_total_: 20 years (2020)<br>
 _male_: 19.9 years<br>
-_female_: 20.1 years (2020 est.)<br>
+_female_: 20.1 years<br>
 
 **Population growth rate**<br>
 2.09% (2023 est.)<br>
@@ -157,14 +157,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 530 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 26.94 deaths/1,000 live births<br>
+_total_: 26.94 deaths/1,000 live births (2023 est.)<br>
 _male_: 29.94 deaths/1,000 live births<br>
-_female_: 23.88 deaths/1,000 live births (2023 est.)<br>
+_female_: 23.88 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.04 years<br>
+_total population_: 70.04 years (2023 est.)<br>
 _male_: 68.31 years<br>
-_female_: 71.82 years (2023 est.)<br>
+_female_: 71.82 years<br>
 
 **Total fertility rate**<br>
 3.23 children born/woman (2023 est.)<br>
@@ -221,7 +221,7 @@ _male_: 19.5% (2020 est.)<br>
 _female_: 2.7% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-11.2% (2014)<br>
+10.1% (2022)<br>
 
 **Currently married women (ages 15-49)**<br>
 56.8% (2023 est.)<br>
@@ -236,9 +236,9 @@ _male_: 85.5%<br>
 _female_: 79.8% (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.8%<br>
+_total_: 13.8% (2021 est.)<br>
 _male_: 12.8%<br>
-_female_: 14.9% (2021 est.)<br>
+_female_: 14.9%<br>
 
 ## Environment
 
@@ -475,9 +475,9 @@ _services_: 32.2% (2005 est.)<br>
 5.01% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.8%<br>
+_total_: 13.8% (2021 est.)<br>
 _male_: 12.8%<br>
-_female_: 14.9% (2021 est.)<br>
+_female_: 14.9%<br>
 
 **Population below poverty line**<br>
 36.1% (2015 est.)<br>
@@ -686,8 +686,8 @@ _unpaved_: 147,032 km (2017)<br>
 (2011) none specifically; the only significant inland waterway is the part of Lake Victoria within the boundaries of Kenya; Kisumu is the main port and has ferry connections to Uganda and Tanzania<br>
 
 **Merchant marine**<br>
-_total_: 25<br>
-_by type_: oil tanker 3, other 22 (2022)<br>
+_total_: 25 (2022)<br>
+_by type_: oil tanker 3, other 22<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kisumu, Mombasa<br>
@@ -749,7 +749,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Kenya-Ethiopia</em>: their border was demarcated in the 1950s and approved in 1970; in 2012, Kenya and Ethiopia agreed to redemarcate their boundary following disputes over beacons and cross-border crime</p> <p><em>Kenya-Somalia</em>: Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; in 2021, the International Court of Justice (ICJ) gave Somalia control over a disputed ocean area where the seabeds are believed to hold vasts oil and gas deposits; the ICJ ruling gave Somalia the rights to several offshore oil exploration blocks previously claimed by Kenya; Kenya did not recognize the court’s decision</p> <p><em>Kenya-South Sudan</em>: two thirds of the boundary that separates Kenya and South Sudan's sovereignty known as the Ilemi Triangle has been unclear since British colonial times; Kenya has administered the area since colonial times; officials from Kenya and South Sudan signed a memorandum of understanding on boundary delimitation and demarcation and agreed to set up a joint committee; as of July 2019, the demarcation process was to begin in 90 days, but was delayed due to a lack of funding</p> <p><em>Kenya-Sudan</em>: Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005</p> <p><em>Kenya-Tanzania</em>: Kenya and Tanzania were conducting a joint reaffirmation process in November 2021 to ensure the border was visibly marked with pillars</p> <p><em>Kenya-Uganda:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021 </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 281,319 (Somalia), 157,402 (South Sudan), 58,322 (Democratic Republic of the Congo), 21,847 (Ethiopia), 8,392 (Burundi), 5,756 (Sudan) (2023)<br>
+_refugees (country of origin)_: 281,319 (Somalia), 157,402 (South Sudan), 58,779 (Democratic Republic of the Congo), 21,847 (Ethiopia), 8,392 (Burundi), 5,756 (Sudan) (2023)<br>
 _IDPs_: 30,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2022)<br>
 _stateless persons_: 16,779 (2022); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

@@ -108,9 +108,9 @@ _elderly dependency ratio_: 6.9<br>
 _potential support ratio_: 14.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.9 years<br>
+_total_: 24.9 years (2020)<br>
 _male_: 23 years<br>
-_female_: 26.4 years (2020 est.)<br>
+_female_: 26.4 years<br>
 
 **Population growth rate**<br>
 1.93% (2023 est.)<br>
@@ -145,14 +145,14 @@ _total population_: 0.83 male(s)/female (2023 est.)<br>
 234 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 46.02 deaths/1,000 live births<br>
+_total_: 46.02 deaths/1,000 live births (2023 est.)<br>
 _male_: 53.12 deaths/1,000 live births<br>
-_female_: 38.71 deaths/1,000 live births (2023 est.)<br>
+_female_: 38.71 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.61 years<br>
+_total population_: 65.61 years (2023 est.)<br>
 _male_: 63.04 years<br>
-_female_: 68.25 years (2023 est.)<br>
+_female_: 68.25 years<br>
 
 **Total fertility rate**<br>
 2.13 children born/woman (2023 est.)<br>
@@ -227,9 +227,9 @@ _male_: 7 years<br>
 _female_: 7 years (2011)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 79.9%<br>
+_total_: 79.9% (2021 est.)<br>
 _male_: 78.6%<br>
-_female_: 82.2% (2021 est.)<br>
+_female_: 82.2%<br>
 
 ## Environment
 
@@ -340,7 +340,7 @@ _election results_: <em><br>2021</em>: Ismail Omar GUELLEH reelected president f
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>
 _elections_: last held on 24 February 2023 (next to be held in February 2028)<br>
-_election results_: percent of vote by party - UMP 93.7%, UDJ 6.3%; seats by party - UMP 58, UDJ 7; composition - men 48, women 17, percent of women 26.2%<br>
+_election results_: percent of vote by party - NA; seats by party - UMP 58, UDJ 7; composition - men 48, women 17, percent of women 26.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of NA magistrates); Constitutional Council (consists of 6 magistrates)<br>
@@ -348,7 +348,7 @@ _judge selection and term of office_: Supreme Court magistrates appointed by the
 _subordinate courts_: High Court of Appeal; 5 Courts of First Instance; customary courts; State Court (replaced sharia courts in 2003)<br>
 
 **Political parties and leaders**<br>
-Center for United Democrats or CDU [Ahmed Mohamed YOUSSOUF, chairman]<br>Democratic Renewal Party or PRD [Abdillahi HAMARITEH]<br>Djibouti Development Party or PDD [Mohamed Daoud CHEHEM]<br>Front for Restoration of Unity and Democracy (Front pour la Restauration de l'Unite Democratique) or FRUD [Ali Mohamed DAOUD]<br>Movement for Democratic Renewal and Development or MRD (formerly Democratic Renewal Party or PRD) [Daher Ahmed FARAH]<br>National Democratic Party or PND [Aden Robleh AWALEH]<br>People's Rally for Progress or RPP [Ismail Omar GUELLEH] (governing party)<br>Peoples Social Democratic Party or PPSD [Hasna Moumin BAHDON]<br>Republican Alliance for Democracy or ARD [Aden Mohamed ABDOU]<br>Union for Democracy and Justice or UDJ [Ilya Ismail GUEDI Hared]<br>Union for the Presidential Majority coalition or UMP [collective leadership] (electoral coalition includes RPP, FRUD, PPSD, and UPR)<br>Union for National Salvation coalition or USN [collective leadership] (electoral coalition includes ARD, PRD, PDD, UDJ, and PND)<br>Union of Reform Partisans or UPR [Ibrahim Daoud CHEHEM]<br><br><strong>note:</strong> only parties with seats in the National Assembly included<br>
+Front for Restoration of Unity and Democracy (Front pour la Restauration de l'Unite Democratique) or FRUD [Ali Mohamed DAOUD]<br>National Democratic Party or PND [Aden Robleh AWALEH]<br>People's Rally for Progress or RPP [Ismail Omar GUELLEH] (governing party)<br>Peoples Social Democratic Party or PPSD [Hasna Moumin BAHDON]<br>Union for Democracy and Justice or UDJ [Ilya Ismail GUEDI Hared]<br>Union for the Presidential Majority coalition or UMP [collective leadership] (electoral coalition includes FRUD, PND, RPP, PPSD, and UPR)<br>Union of Reform Partisans or UPR [Ibrahim Daoud CHEHEM]<br><br><strong>note:</strong> only parties with seats in the National Assembly included<br>
 
 **International organization participation**<br>
 ACP, AfDB, AFESD, AMF, ATMIS, AU, CAEU (candidates), COMESA, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -361,7 +361,7 @@ _FAX_: [1] (202) 331-0302<br>
 _email address and website_: <br>info@djiboutiembassyus.org<br><br>https://www.djiboutiembassyus.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Jonathan Goodale PRATT (since 22 February 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Mario FERNANDEZ (since 10 June 2023)<br>
 _embassy_: Lot 350-B Haramouss, B.P. 185<br>
 _mailing address_: 2150 Djibouti Place, Washington DC&nbsp; 20521-2150<br>
 _telephone_: [253] 21-45-30-00<br>
@@ -445,9 +445,9 @@ _services_: NA<br>
 26.36% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 79.9%<br>
+_total_: 79.9% (2021 est.)<br>
 _male_: 78.6%<br>
-_female_: 82.2% (2021 est.)<br>
+_female_: 82.2%<br>
 
 **Population below poverty line**<br>
 21.1% (2017 est.)<br>
@@ -641,8 +641,8 @@ _standard gauge_: 97 km (2017) 1.435-m gauge<br>
 _total_: 2,893 km (2013)<br>
 
 **Merchant marine**<br>
-_total_: 42<br>
-_by type_: bulk carrier 1, container ship 1, general cargo 4, oil tanker 15, other 21 (2022)<br>
+_total_: 42 (2022)<br>
+_by type_: bulk carrier 1, container ship 1, general cargo 4, oil tanker 15, other 21<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Djibouti<br>

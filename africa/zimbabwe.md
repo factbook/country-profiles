@@ -112,9 +112,9 @@ _elderly dependency ratio_: 6<br>
 _potential support ratio_: 16.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.5 years<br>
+_total_: 20.5 years (2020)<br>
 _male_: 20.3 years<br>
-_female_: 20.6 years (2020 est.)<br>
+_female_: 20.6 years<br>
 
 **Population growth rate**<br>
 1.95% (2023 est.)<br>
@@ -153,14 +153,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 357 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 27.67 deaths/1,000 live births<br>
+_total_: 27.67 deaths/1,000 live births (2023 est.)<br>
 _male_: 31.22 deaths/1,000 live births<br>
-_female_: 24.01 deaths/1,000 live births (2023 est.)<br>
+_female_: 24.01 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.79 years<br>
+_total population_: 63.79 years (2023 est.)<br>
 _male_: 61.65 years<br>
-_female_: 66 years (2023 est.)<br>
+_female_: 66 years<br>
 
 **Total fertility rate**<br>
 3.88 children born/woman (2023 est.)<br>
@@ -244,9 +244,9 @@ _male_: 12 years<br>
 _female_: 11 years (2013)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.3%<br>
+_total_: 7.3% (2021 est.)<br>
 _male_: 6.2%<br>
-_female_: 8.5% (2021 est.)<br>
+_female_: 8.5%<br>
 
 ## Environment
 
@@ -473,9 +473,9 @@ _services_: 25.2% (2017 est.)<br>
 <strong>note:</strong> data include both unemployment and underemployment; true unemployment is unknown and, under current economic conditions, unknowable<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.3%<br>
+_total_: 7.3% (2021 est.)<br>
 _male_: 6.2%<br>
-_female_: 8.5% (2021 est.)<br>
+_female_: 8.5%<br>
 
 **Population below poverty line**<br>
 38.3% (2019 est.)<br>
@@ -720,7 +720,7 @@ has a nascent program with the goal of utilizing space technologies in economic 
 <p><em>Zimbabwe-Mozambique: none identified<br><br>Zimbabwe-South Africa: </em>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration<em><br><br>Zimbabwe-Zambia: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,867 (Democratic Republic of Congo) (refugees and asylum seekers), 9,931 (Mozambique) (2023)<br>
+_refugees (country of origin)_: 11,953 (Democratic Republic of Congo) (refugees and asylum seekers), 9,931 (Mozambique) (2023)<br>
 
 **Illicit drugs**<br>
 <p>transit point for cannabis and South Asian heroin, methaqualone, and methamphetamines en route to South Africa</p><br>

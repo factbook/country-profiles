@@ -146,14 +146,14 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 183 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 45.54 deaths/1,000 live births<br>
+_total_: 45.54 deaths/1,000 live births (2023 est.)<br>
 _male_: 50.87 deaths/1,000 live births<br>
-_female_: 39.95 deaths/1,000 live births (2023 est.)<br>
+_female_: 39.95 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.83 years<br>
+_total population_: 67.83 years (2023 est.)<br>
 _male_: 65.49 years<br>
-_female_: 70.28 years (2023 est.)<br>
+_female_: 70.28 years<br>
 
 **Total fertility rate**<br>
 2.91 children born/woman (2023 est.)<br>
@@ -227,9 +227,9 @@ _male_: 85.1%<br>
 _female_: 55% (2015)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.5%<br>
+_total_: 25.5% (2021 est.)<br>
 _male_: 24.3%<br>
-_female_: 36.3% (2021 est.)<br>
+_female_: 36.3%<br>
 
 ## Environment
 
@@ -447,9 +447,9 @@ crude oil production and petroleum refining; small-scale production of cotton te
 13.06% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.5%<br>
+_total_: 25.5% (2021 est.)<br>
 _male_: 24.3%<br>
-_female_: 36.3% (2021 est.)<br>
+_female_: 36.3%<br>
 
 **Population below poverty line**<br>
 48.6% (2014 est.)<br>
@@ -642,8 +642,8 @@ _paved_: 6,200 km (2005)<br>
 _unpaved_: 65,100 km (2005)<br>
 
 **Merchant marine**<br>
-_total_: 30<br>
-_by type_: general cargo 2, oil tanker 1, other 27 (2022)<br>
+_total_: 30 (2022)<br>
+_by type_: general cargo 2, oil tanker 1, other 27<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Aden, Al Hudaydah, Al Mukalla<br>
@@ -651,7 +651,7 @@ _major seaport(s)_: Aden, Al Hudaydah, Al Mukalla<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Yemen Government (ROYG) forces:<br><br>Ministry of Defense: Yemeni National Army, Air Force and Air Defense, Navy and Coastal Defense Forces, Border Guard, Strategic Reserve Forces (includes Special Forces and Presidential Protection Brigades, which are under the Ministry of Defense but responsible to the president), Popular Committee Forces (aka Popular Resistance Forces; government-backed tribal militia)<br><br>Ministry of Interior: Special Security Forces (paramilitary; formerly known as Central Security Forces), Political Security Organization (state security), National Security Bureau (intelligence), Counterterrorism Unit <br><br>Saudi-backed forces: paramilitary/militia border security brigades based largely on tribal or regional affiliation (deployed along the Saudi-Yemen border)<br><br>United Arab Emirates-backed forces include tribal and regionally-based militia and paramilitary forces (concentrated in the southern governates): Southern Transitional Council (STC) forces, including the Security Belt Forces, the Shabwani and Hadrami “Elite” Forces, the Support and Backup Forces (aka Logistics and Support Forces), Facilities Protection Forces, and Anti-Terrorism Forces; Republican Forces; Joint Forces<br><br>Houthi forces: ground, aerospace (air, missile), naval/coastal defense, presidential protection, special operations, and militia/tribal auxiliary forces (2023)<br>
+Republic of Yemen Government (ROYG) forces:<br><br>Ministry of Defense: Yemeni National Army, Air Force and Air Defense, Navy and Coastal Defense Forces, Border Guard, Strategic Reserve Forces (includes Special Forces and Presidential Protection Brigades, which are under the Ministry of Defense but responsible to the president), Popular Committee Forces (aka Popular Resistance Forces; government-backed tribal militia)<br><br>Ministry of Interior: Special Security Forces (paramilitary; formerly known as Central Security Forces), Political Security Organization (state security), National Security Bureau (intelligence), Counterterrorism Unit <br><br>Saudi-backed forces: paramilitary/militia border security brigades based largely on tribal or regional affiliation (deployed along the Saudi-Yemen border)<br><br>United Arab Emirates-backed forces include tribal and regionally-based militia and paramilitary forces (concentrated in the southern governates): Southern Transitional Council (STC) forces, including the Security Belt Forces, the Shabwani and Hadrami “Elite” Forces, the Support and Backup Forces (aka Logistics and Support Forces), Facilities Protection Forces, and Anti-Terrorism Forces; Republican Forces; Joint Forces<br><br>Houthi forces: land, aerospace (air, missile), naval/coastal defense, presidential protection, special operations, internal security, and militia/tribal auxiliary forces (2023)<br>
 <strong>note 1: </strong>under the 2019 Riyadh Agreement, the STC forces were to be incorporated into Yemen’s Ministries of Defense and Interior under the authority of the HADI government <strong><br><br>note 2: </strong>a considerable portion--up to 70 percent by some estimates--of Yemen’s military and security forces defected in whole or in part to former president SALAH and the Houthi opposition in 2011-2015<br>
 
 **Military expenditures**<br>

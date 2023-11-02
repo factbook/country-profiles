@@ -104,9 +104,9 @@ _elderly dependency ratio_: 8<br>
 _potential support ratio_: 12.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 26.8 years<br>
+_total_: 26.8 years (2020)<br>
 _male_: 25.9 years<br>
-_female_: 27.6 years (2020 est.)<br>
+_female_: 27.6 years<br>
 
 **Population growth rate**<br>
 1.19% (2023 est.)<br>
@@ -141,14 +141,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 42 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.96 deaths/1,000 live births<br>
+_total_: 22.96 deaths/1,000 live births (2023 est.)<br>
 _male_: 26.96 deaths/1,000 live births<br>
-_female_: 18.84 deaths/1,000 live births (2023 est.)<br>
+_female_: 18.84 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.02 years<br>
+_total population_: 74.02 years (2023 est.)<br>
 _male_: 71.69 years<br>
-_female_: 76.41 years (2023 est.)<br>
+_female_: 76.41 years<br>
 
 **Total fertility rate**<br>
 2.11 children born/woman (2023 est.)<br>
@@ -220,9 +220,9 @@ _male_: 12 years<br>
 _female_: 13 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 34.3%<br>
+_total_: 34.3% (2021 est.)<br>
 _male_: 29.9%<br>
-_female_: 40.7% (2021 est.)<br>
+_female_: 40.7%<br>
 
 ## Environment
 
@@ -436,9 +436,9 @@ food and beverages, fish processing, shoes and garments, salt mining, ship repai
 12.22% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 34.3%<br>
+_total_: 34.3% (2021 est.)<br>
 _male_: 29.9%<br>
-_female_: 40.7% (2021 est.)<br>
+_female_: 40.7%<br>
 
 **Population below poverty line**<br>
 35% (2015 est.)<br>
@@ -628,8 +628,8 @@ _paved_: 932 km (2013)<br>
 _unpaved_: 418 km (2013)<br>
 
 **Merchant marine**<br>
-_total_: 47<br>
-_by type_: general cargo 16, oil tanker 3, other 28 (2022)<br>
+_total_: 47 (2022)<br>
+_by type_: general cargo 16, oil tanker 3, other 28<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Porto Grande<br>

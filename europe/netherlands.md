@@ -110,9 +110,9 @@ _elderly dependency ratio_: 30.9<br>
 _potential support ratio_: 3.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.8 years<br>
+_total_: 42.8 years (2020)<br>
 _male_: 41.6 years<br>
-_female_: 44 years (2020 est.)<br>
+_female_: 44 years<br>
 
 **Population growth rate**<br>
 0.36% (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 4 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.34 deaths/1,000 live births<br>
+_total_: 3.34 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.7 deaths/1,000 live births<br>
-_female_: 2.97 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.97 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.36 years<br>
+_total population_: 82.36 years (2023 est.)<br>
 _male_: 80.15 years<br>
-_female_: 84.69 years (2023 est.)<br>
+_female_: 84.69 years<br>
 
 **Total fertility rate**<br>
 1.77 children born/woman (2023 est.)<br>
@@ -229,9 +229,9 @@ _male_: 18 years<br>
 _female_: 19 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.6%<br>
+_total_: 9.6% (2021 est.)<br>
 _male_: 10%<br>
-_female_: 9.2% (2021 est.)<br>
+_female_: 9.2%<br>
 
 ## Environment
 
@@ -463,9 +463,9 @@ _services_: 81.6% (2015 est.)<br>
 3.38% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.6%<br>
+_total_: 9.6% (2021 est.)<br>
 _male_: 10%<br>
-_female_: 9.2% (2021 est.)<br>
+_female_: 9.2%<br>
 
 **Population below poverty line**<br>
 13.6% (2019 est.)<br>
@@ -683,8 +683,8 @@ _total_: 139,124 km (2016) (includes 3,654 km of expressways)<br>
 6,237 km (2012) (navigable by ships up to 50 tons)<br>
 
 **Merchant marine**<br>
-_total_: 1,175<br>
-_by type_: bulk carrier 11, container ship 37, general cargo 543, oil tanker 26, other 558 (2022)<br>
+_total_: 1,175 (2022)<br>
+_by type_: bulk carrier 11, container ship 37, general cargo 543, oil tanker 26, other 558<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: IJmuiden, Vlissingen<br>

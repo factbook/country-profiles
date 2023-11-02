@@ -96,9 +96,9 @@ _elderly dependency ratio_: 16.9<br>
 _potential support ratio_: 5.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 40.8 years<br>
+_total_: 40.8 years (2020)<br>
 _male_: 40.7 years<br>
-_female_: 40.9 years (2020 est.)<br>
+_female_: 40.9 years<br>
 
 **Population growth rate**<br>
 0.71% (2023 est.)<br>
@@ -130,14 +130,14 @@ _65 years and over_: 0.89 male(s)/female<br>
 _total population_: 0.9 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.5 deaths/1,000 live births<br>
+_total_: 4.5 deaths/1,000 live births (2023 est.)<br>
 _male_: 4.59 deaths/1,000 live births<br>
-_female_: 4.41 deaths/1,000 live births (2023 est.)<br>
+_female_: 4.41 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 85.16 years<br>
+_total population_: 85.16 years (2023 est.)<br>
 _male_: 82.28 years<br>
-_female_: 88.18 years (2023 est.)<br>
+_female_: 88.18 years<br>
 
 **Total fertility rate**<br>
 1.23 children born/woman (2023 est.)<br>
@@ -183,9 +183,9 @@ _male_: 17 years<br>
 _female_: 19 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.2%<br>
+_total_: 9.2% (2021 est.)<br>
 _male_: 11.7%<br>
-_female_: 6.6% (2021 est.)<br>
+_female_: 6.6%<br>
 
 ## Environment
 
@@ -370,9 +370,9 @@ _commerce_: 20.3% (2013 est.)<br>
 1.75% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.2%<br>
+_total_: 9.2% (2021 est.)<br>
 _male_: 11.7%<br>
-_female_: 6.6% (2021 est.)<br>
+_female_: 6.6%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -563,8 +563,8 @@ _total_: 428 km (2017)<br>
 _paved_: 428 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 1<br>
-_by type_: other 1 (2022)<br>
+_total_: 1 (2022)<br>
+_by type_: other 1<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Macau<br>

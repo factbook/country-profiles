@@ -106,9 +106,9 @@ _elderly dependency ratio_: 8.1<br>
 _potential support ratio_: 12.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.1 years<br>
+_total_: 31.1 years (2020)<br>
 _male_: 30.5 years<br>
-_female_: 31.8 years (2020 est.)<br>
+_female_: 31.8 years<br>
 
 **Population growth rate**<br>
 1.43% (2023 est.)<br>
@@ -144,14 +144,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 44 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.26 deaths/1,000 live births<br>
+_total_: 10.26 deaths/1,000 live births (2023 est.)<br>
 _male_: 12.55 deaths/1,000 live births<br>
-_female_: 7.86 deaths/1,000 live births (2023 est.)<br>
+_female_: 7.86 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.61 years<br>
+_total population_: 78.61 years (2023 est.)<br>
 _male_: 76.26 years<br>
-_female_: 81.08 years (2023 est.)<br>
+_female_: 81.08 years<br>
 
 **Total fertility rate**<br>
 1.74 children born/woman (2023 est.)<br>
@@ -223,9 +223,9 @@ _male_: 14 years<br>
 _female_: 14 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.4%<br>
+_total_: 23.4% (2021 est.)<br>
 _male_: 20.7%<br>
-_female_: 27.6% (2021 est.)<br>
+_female_: 27.6%<br>
 
 ## Environment
 
@@ -434,9 +434,9 @@ _services_: 33% (2008 est.)<br>
 6.92% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.4%<br>
+_total_: 23.4% (2021 est.)<br>
 _male_: 20.7%<br>
-_female_: 27.6% (2021 est.)<br>
+_female_: 27.6%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -631,8 +631,8 @@ _unpaved_: 417 km (2014)<br>
 209 km (2012) (navigable by craft drawing less than 1.2 m; the Belait, Brunei, and Tutong Rivers are major transport links)<br>
 
 **Merchant marine**<br>
-_total_: 98<br>
-_by type_: general cargo 18, oil tanker 3, other 77 (2022)<br>
+_total_: 98 (2022)<br>
+_by type_: general cargo 18, oil tanker 3, other 77<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Muara<br>

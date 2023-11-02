@@ -106,9 +106,9 @@ _elderly dependency ratio_: 22.9<br>
 _potential support ratio_: 4.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.1 years<br>
+_total_: 42.1 years (2020)<br>
 _male_: 40.2 years<br>
-_female_: 43.8 years (2020 est.)<br>
+_female_: 43.8 years<br>
 
 **Population growth rate**<br>
 -0.19% (2023 est.)<br>
@@ -143,14 +143,14 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 39 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.07 deaths/1,000 live births<br>
+_total_: 4.07 deaths/1,000 live births (2023 est.)<br>
 _male_: 4.58 deaths/1,000 live births<br>
-_female_: 3.52 deaths/1,000 live births (2023 est.)<br>
+_female_: 3.52 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.87 years<br>
+_total population_: 79.87 years (2023 est.)<br>
 _male_: 77.53 years<br>
-_female_: 82.35 years (2023 est.)<br>
+_female_: 82.35 years<br>
 
 **Total fertility rate**<br>
 1.71 children born/woman (2023 est.)<br>
@@ -232,9 +232,9 @@ _male_: 13 years<br>
 _female_: 15 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.4%<br>
+_total_: 7.4% (2021 est.)<br>
 _male_: 7.6%<br>
-_female_: 7% (2021 est.)<br>
+_female_: 7%<br>
 
 **People - note**<br>
 illicit emigration is a continuing problem; Cubans attempt to depart the island and enter the US using homemade rafts, alien smugglers, direct flights, or falsified visas; Cubans also use non-maritime routes to enter the US including direct flights to Miami and overland via the southwest border; the number of Cubans migrating to the US surged after the announcement of normalization of US-Cuban relations in late December 2014 but has decreased since the end of the so-called "wet-foot, dry-foot" policy on 12 January 2017<br>
@@ -461,9 +461,9 @@ _services_: 72% (2016 est.)<br>
 <strong>note:</strong> data are official rates; unofficial estimates are about double<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.4%<br>
+_total_: 7.4% (2021 est.)<br>
 _male_: 7.6%<br>
-_female_: 7% (2021 est.)<br>
+_female_: 7%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -665,8 +665,8 @@ _unpaved_: 40,000 km (2001)<br>
 240 km (2011) (almost all navigable inland waterways are near the mouths of rivers)<br>
 
 **Merchant marine**<br>
-_total_: 64<br>
-_by type_: general cargo 13, oil tanker 10, other 41 (2022)<br>
+_total_: 64 (2022)<br>
+_by type_: general cargo 13, oil tanker 10, other 41<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, Nuevitas Bay, Santiago de Cuba<br>

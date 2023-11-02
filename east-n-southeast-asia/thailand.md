@@ -99,7 +99,7 @@ Thai (official) only 90.7%, Thai and other languages 6.4%, only other languages 
 _major-language sample(s)_: <br>สารานุกรมโลก - แหล่งข้อมูลพื้นฐานที่สำคัญ (Thai)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Buddhist 94.6%, Muslim 4.3%, Christian 1%, other &lt;0.1%, none &lt;0.1% (2015 est.)<br>
+Buddhist 92.5%, Muslim 5.4%, Christian 1.2%, other 0.9% (includes animist, Confucian, Hindu, Jewish, Sikh, and Taoist) (2021 est.)<br>
 
 **Demographic profile**<br>
 <p>Thailand has experienced a substantial fertility decline since the 1960s largely due to the nationwide success of its voluntary family planning program.  In just one generation, the total fertility rate (TFR) shrank from 6.5 children per woman in the 1960s to below the replacement level of 2.1 in the late 1980s.  Reduced fertility occurred among all segments of the Thai population, despite disparities between urban and rural areas in terms of income, education, and access to public services.  The country’s “reproductive revolution” gained momentum in the 1970s as a result of the government’s launch of an official population policy to reduce population growth, the introduction of new forms of birth control, and the assistance of foreign non-government organizations.  Contraceptive use rapidly increased as new ways were developed to deliver family planning services to Thailand’s then overwhelmingly rural population.  The contraceptive prevalence rate increased from just 14% in 1970 to 58% in 1981 and has remained about 80% since 2000. </p> <p>Thailand’s receptiveness to family planning reflects the predominant faith, Theravada Buddhism, which emphasizes individualism, personal responsibility, and independent decision-making.  Thai women have more independence and a higher status than women in many other developing countries and are not usually pressured by their husbands or other family members about family planning decisions.  Thailand’s relatively egalitarian society also does not have the son preference found in a number of other Asian countries; most Thai ideally want one child of each sex.</p> <p>Because of its low fertility rate, increasing life expectancy, and growing elderly population, Thailand has become an aging society that will face growing labor shortages.  The proportion of the population under 15 years of age has shrunk dramatically, the proportion of working-age individuals has peaked and is starting to decrease, and the proportion of elderly is growing rapidly.  In the short-term, Thailand will have to improve educational quality to increase the productivity of its workforce and to compete globally in skills-based industries.  An increasing reliance on migrant workers will be necessary to mitigate labor shortfalls.</p> <p>Thailand is a destination, transit, and source country for migrants. It has 3-4 million migrant workers as of 2017, mainly providing low-skilled labor in the construction, agriculture, manufacturing, services, and fishing and seafood processing sectors.  Migrant workers from other Southeast Asian countries with lower wages – primarily Burma and, to a lesser extent, Laos and Cambodia – have been coming to Thailand for decades to work in labor-intensive industries.  Many are undocumented and are vulnerable to human trafficking for forced labor, especially in the fisheries industry, or sexual exploitation.  A July 2017 migrant worker law stiffening fines on undocumented workers and their employers, prompted tens of thousands of migrants to go home.  Fearing a labor shortage, the Thai Government has postponed implementation of the law until January 2018 and is rapidly registering workers.  Thailand has also hosted ethnic minority refugees from Burma for more than 30 years; as of 2016, approximately 105,000 mainly Karen refugees from Burma were living in nine camps along the Thailand-Burma border.</p> <p>Thailand has a significant amount of internal migration, most often from rural areas to urban centers, where there are more job opportunities.  Low- and semi-skilled Thais also go abroad to work, mainly in Asia and a smaller number in the Middle East and Africa, primarily to more economically developed countries where they can earn higher wages.</p><br>
@@ -116,9 +116,9 @@ _elderly dependency ratio_: 18.4<br>
 _potential support ratio_: 4.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 39 years<br>
+_total_: 39 years (2020)<br>
 _male_: 37.8 years<br>
-_female_: 40.1 years (2020 est.)<br>
+_female_: 40.1 years<br>
 
 **Population growth rate**<br>
 0.2% (2023 est.)<br>
@@ -156,14 +156,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 29 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.36 deaths/1,000 live births<br>
+_total_: 6.36 deaths/1,000 live births (2023 est.)<br>
 _male_: 6.99 deaths/1,000 live births<br>
-_female_: 5.71 deaths/1,000 live births (2023 est.)<br>
+_female_: 5.71 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.91 years<br>
+_total population_: 77.91 years (2023 est.)<br>
 _male_: 74.92 years<br>
-_female_: 81.05 years (2023 est.)<br>
+_female_: 81.05 years<br>
 
 **Total fertility rate**<br>
 1.54 children born/woman (2023 est.)<br>
@@ -242,9 +242,9 @@ _male_: 15 years<br>
 _female_: 16 years (2016)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7%<br>
+_total_: 7% (2021 est.)<br>
 _male_: 6.2%<br>
-_female_: 8.1% (2021 est.)<br>
+_female_: 8.1%<br>
 
 ## Environment
 
@@ -477,9 +477,9 @@ _services_: 51.5% (2015 est.)<br>
 0.72% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7%<br>
+_total_: 7% (2021 est.)<br>
 _male_: 6.2%<br>
-_female_: 8.1% (2021 est.)<br>
+_female_: 8.1%<br>
 
 **Population below poverty line**<br>
 9.9% (2018 est.)<br>
@@ -688,8 +688,8 @@ _total_: 180,053 km (2006) (includes 450 km of expressways)<br>
 4,000 km (2011) (3,701 km navigable by boats with drafts up to 0.9 m)<br>
 
 **Merchant marine**<br>
-_total_: 829<br>
-_by type_: bulk carrier 26, container ship 28, general cargo 91, oil tanker 246, other 438 (2022)<br>
+_total_: 829 (2022)<br>
+_by type_: bulk carrier 26, container ship 28, general cargo 91, oil tanker 246, other 438<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha<br>

@@ -107,9 +107,9 @@ _elderly dependency ratio_: 19.1<br>
 _potential support ratio_: 5.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 36.6 years<br>
+_total_: 36.6 years (2020)<br>
 _male_: 35.1 years<br>
-_female_: 38.3 years (2020 est.)<br>
+_female_: 38.3 years<br>
 
 **Population growth rate**<br>
 -0.4% (2023 est.)<br>
@@ -147,14 +147,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 27 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.89 deaths/1,000 live births<br>
+_total_: 11.89 deaths/1,000 live births (2023 est.)<br>
 _male_: 13.43 deaths/1,000 live births<br>
-_female_: 10.24 deaths/1,000 live births (2023 est.)<br>
+_female_: 10.24 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.4 years<br>
+_total population_: 76.4 years (2023 est.)<br>
 _male_: 73.13 years<br>
-_female_: 79.91 years (2023 est.)<br>
+_female_: 79.91 years<br>
 
 **Total fertility rate**<br>
 1.65 children born/woman (2023 est.)<br>
@@ -231,9 +231,9 @@ _male_: 13 years<br>
 _female_: 14 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36.1%<br>
+_total_: 36.1% (2021 est.)<br>
 _male_: 34%<br>
-_female_: 38.7% (2021 est.)<br>
+_female_: 38.7%<br>
 
 ## Environment
 
@@ -457,9 +457,9 @@ _services_: 46.7% (2013 est.)<br>
 18.3% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 36.1%<br>
+_total_: 36.1% (2021 est.)<br>
 _male_: 34%<br>
-_female_: 38.7% (2021 est.)<br>
+_female_: 38.7%<br>
 
 **Population below poverty line**<br>
 26.4% (2019 est.)<br>
@@ -704,7 +704,7 @@ seeks foreign providers for satellite communications, remote sensing (RS), and n
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>local border forces struggle to control the illegal transit of goods and people across the porous, undemarcated Armenian, Azerbaijani, and Georgian borders<br><br><em>Armenia-Azerbaijan:</em> The dispute over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan remains the primary focus of regional instability. Residents have evacuated the former Soviet-era small ethnic enclaves in Armenia and Azerbaijan.<br><br><em>Armenia-Georgia:</em> Georgians restrict Armenian access into Samtse-Javakheti ethnic Armenian areas. Armenia has made no claims to the region.<br><br><em>Armenia-Iran:</em> None identified<br><br><em>Armenia-Turkey:</em> In 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered, in part due to resistance from Azerbaijan. The border has been closed since 1993, and no diplomatic relations established after Armenian independence. In 2022, Turkey and Armenia have agreed to move forward with efforts to normalize relations.<br>Turkish authorities have complained that blasting from quarries in Armenia might be damaging the ruins of Ani, an ancient city on the high ridge overlooking the Arpaçay valley on the opposite shore. </p><br>
+<p>local border forces struggle to control the illegal transit of goods and people across the porous, undemarcated Armenian, Azerbaijani, and Georgian borders<br><br><em>Armenia-Azerbaijan:</em> tensions existed for years over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan; Azerbaijan seized part of the enclave during six weeks of fighting in 2020 and the remainder in a short conflict in September 2023; in October 2023, Baku and Yerevan began preliminary discussions on a peace treaty, the demarcation of borders, and full normalization of relations; nevertheless, concerns persist in Armenia that Azerbaijan could invade in order to force the establishment of a transit corridor to the exclave of Naxicvan (Nakhichevan) <br><br><em>Armenia-Georgia:</em> Georgians restrict Armenian access into Samtse-Javakheti ethnic Armenian areas; Armenia has made no claims to the region<br><br><em>Armenia-Iran:</em> none identified<br><br><em>Armenia-Turkey:</em> in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered, in part due to resistance from Azerbaijan; the border has been closed since 1993, and no diplomatic relations established after Armenian independence; in 2022, Turkey and Armenia have agreed to move forward with efforts to normalize relations; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the ruins of Ani, an ancient city on the high ridge overlooking the Arpaçay valley on the opposite shore</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 27,929 (Azerbaijan) (mid-year 2022)<br>

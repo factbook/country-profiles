@@ -108,9 +108,9 @@ _elderly dependency ratio_: 4<br>
 _potential support ratio_: 25.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 26.2 years<br>
+_total_: 26.2 years (2020)<br>
 _male_: 27.2 years<br>
-_female_: 25.1 years (2020 est.)<br>
+_female_: 25.1 years<br>
 
 **Population growth rate**<br>
 1.8% (2023 est.)<br>
@@ -145,14 +145,14 @@ _total population_: 1.16 male(s)/female (2023 est.)<br>
 17 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.16 deaths/1,000 live births<br>
+_total_: 14.16 deaths/1,000 live births (2023 est.)<br>
 _male_: 15.38 deaths/1,000 live births<br>
-_female_: 12.87 deaths/1,000 live births (2023 est.)<br>
+_female_: 12.87 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.16 years<br>
+_total population_: 77.16 years (2023 est.)<br>
 _male_: 75.24 years<br>
-_female_: 79.17 years (2023 est.)<br>
+_female_: 79.17 years<br>
 
 **Total fertility rate**<br>
 2.67 children born/woman (2023 est.)<br>
@@ -224,9 +224,9 @@ _male_: 15 years<br>
 _female_: 15 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.6%<br>
+_total_: 14.6% (2021 est.)<br>
 _male_: 11.6%<br>
-_female_: 29.6% (2021 est.)<br>
+_female_: 29.6%<br>
 
 ## Environment
 
@@ -330,9 +330,9 @@ _head of government_: Sultan and Prime Minister HAYTHAM bin Tariq Al Said (since
 _cabinet_: Cabinet appointed by the monarch<br>
 
 **Legislative branch**<br>
-_description_: bicameral Council of Oman or Majlis Oman consists of:<br>Council of State or Majlis al-Dawla (85 seats including the chairman; members appointed by the sultan from among former government officials and prominent educators, businessmen, and citizens)<br>Consultative Council or Majlis al-Shura (86 seats; members directly elected in single- and 2-seat constituencies by simple majority popular vote to serve renewable 4-year terms); note - since political reforms in 2011, legislation from the Consultative Council is submitted to the Council of State for review by the Royal Court<br>
-_elections_: Council of State - last appointments on 11 July 2019 (next to be held in November 2023)<br>Consultative Assembly - last held on 27 October 2019 (next to be held on 27 October 2023)<br>
-_election results_: <br>Council of State - composition - men 70, women 15, percent of women 17.6%<br>Consultative Council percent of vote by party - NA; seats by party - NA (organized political parties in Oman are legally banned); composition men 84, women 2, percent of women 2.3%; note - total Council of Oman percent of women 9.9%<br>
+_description_: bicameral Council of Oman or Majlis Oman consists of:<br>Council of State or Majlis al-Dawla (85 seats including the chairman; members appointed by the sultan from among former government officials and prominent educators, businessmen, and citizens)<br>Consultative Assembly or Majlis al-Shura (86 seats; members directly elected in single- and 2-seat constituencies by simple majority popular vote to serve renewable 4-year terms); note - since political reforms in 2011, legislation from the Consultative Council is submitted to the Council of State for review by the Royal Court<br>
+_elections_: Council of State - last appointments on 11 July 2019 (next to be held in November 2023)<br>Consultative Assembly - last held on 29 October 2023 (next to be held in October 2027)<br>
+_election results_: <br>Council of State - 85 nonpartisan members were appointed by the sultan; composition - men 70, women 15, percent of women 17.6%<br>Consultative Assembly percent of vote by party - NA; seats by party - NA; 86 nonpartisan members were elected (organized political parties in Oman are legally banned)<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 5 judges)<br>
@@ -448,9 +448,9 @@ _services_: 45% (2016 est.) NA<br>
 NA<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.6%<br>
+_total_: 14.6% (2021 est.)<br>
 _male_: 11.6%<br>
-_female_: 29.6% (2021 est.)<br>
+_female_: 29.6%<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -649,8 +649,8 @@ _paved_: 29,685 km (2012) (includes 1,943 km of expressways)<br>
 _unpaved_: 30,545 km (2012)<br>
 
 **Merchant marine**<br>
-_total_: 57<br>
-_by type_: general cargo 11, other 46 (2022)<br>
+_total_: 57 (2022)<br>
+_by type_: general cargo 11, other 46<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Mina' Qabus, Salalah, Suhar<br>

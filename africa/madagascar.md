@@ -106,9 +106,9 @@ _elderly dependency ratio_: 5.8<br>
 _potential support ratio_: 17.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.3 years<br>
+_total_: 20.3 years (2020)<br>
 _male_: 20.1 years<br>
-_female_: 20.5 years (2020 est.)<br>
+_female_: 20.5 years<br>
 
 **Population growth rate**<br>
 2.22% (2023 est.)<br>
@@ -147,14 +147,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 392 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 38.27 deaths/1,000 live births<br>
+_total_: 38.27 deaths/1,000 live births (2023 est.)<br>
 _male_: 41.61 deaths/1,000 live births<br>
-_female_: 34.83 deaths/1,000 live births (2023 est.)<br>
+_female_: 34.83 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.47 years<br>
+_total population_: 68.47 years (2023 est.)<br>
 _male_: 67.06 years<br>
-_female_: 69.92 years (2023 est.)<br>
+_female_: 69.92 years<br>
 
 **Total fertility rate**<br>
 3.55 children born/woman (2023 est.)<br>
@@ -214,15 +214,15 @@ _male_: 42.7% (2020 est.)<br>
 _female_: 12.8% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
-26.4% (2018)<br>
+22.6% (2021)<br>
 
 **Currently married women (ages 15-49)**<br>
 60.1% (2023 est.)<br>
 
 **Child marriage**<br>
 _women married by age 15_: 12.7%<br>
-_women married by age 18_: 40.3%<br>
-_men married by age 18_: 11.8% (2018 est.)<br>
+_women married by age 18_: 38.8%<br>
+_men married by age 18_: 11.2% (2021 est.)<br>
 
 **Education expenditures**<br>
 3.1% of GDP (2020 est.)<br>
@@ -239,9 +239,9 @@ _male_: 10 years<br>
 _female_: 10 years (2018)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.8%<br>
+_total_: 4.8% (2021 est.)<br>
 _male_: 5.2%<br>
-_female_: 4.4% (2021 est.)<br>
+_female_: 4.4%<br>
 
 ## Environment
 
@@ -454,9 +454,9 @@ meat processing, seafood, soap, beer, leather, sugar, textiles, glassware, cemen
 1.86% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.8%<br>
+_total_: 4.8% (2021 est.)<br>
 _male_: 5.2%<br>
-_female_: 4.4% (2021 est.)<br>
+_female_: 4.4%<br>
 
 **Population below poverty line**<br>
 70.7% (2012 est.)<br>
@@ -655,8 +655,8 @@ _total_: 31,640 km (2018)<br>
 600 km (2011) (432 km navigable)<br>
 
 **Merchant marine**<br>
-_total_: 28<br>
-_by type_: general cargo 15, oil tanker 2, other 11 (2022)<br>
+_total_: 28 (2022)<br>
+_by type_: general cargo 15, oil tanker 2, other 11<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (Tulear)<br>

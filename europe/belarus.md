@@ -107,9 +107,9 @@ _elderly dependency ratio_: 25.4<br>
 _potential support ratio_: 3.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 40.9 years<br>
+_total_: 40.9 years (2020)<br>
 _male_: 38 years<br>
-_female_: 43.9 years (2020 est.)<br>
+_female_: 43.9 years<br>
 
 **Population growth rate**<br>
 -0.32% (2023 est.)<br>
@@ -147,14 +147,14 @@ _total population_: 0.87 male(s)/female (2023 est.)<br>
 1 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.23 deaths/1,000 live births<br>
+_total_: 3.23 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.69 deaths/1,000 live births<br>
-_female_: 2.76 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.76 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.54 years<br>
+_total population_: 74.54 years (2023 est.)<br>
 _male_: 69.2 years<br>
-_female_: 80.2 years (2023 est.)<br>
+_female_: 80.2 years<br>
 
 **Total fertility rate**<br>
 1.52 children born/woman (2023 est.)<br>
@@ -231,9 +231,9 @@ _male_: 15 years<br>
 _female_: 15 years (2021)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.3%<br>
+_total_: 11.3% (2021 est.)<br>
 _male_: 14%<br>
-_female_: 8.4% (2021 est.)<br>
+_female_: 8.4%<br>
 
 ## Environment
 
@@ -464,9 +464,9 @@ _services_: 66.8% (2015 est.)<br>
 <strong>note:</strong> official registered unemployed; large number of underemployed workers<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.3%<br>
+_total_: 11.3% (2021 est.)<br>
 _male_: 14%<br>
-_female_: 8.4% (2021 est.)<br>
+_female_: 8.4%<br>
 
 **Population below poverty line**<br>
 5% (2019 est.)<br>
@@ -683,8 +683,8 @@ _total_: 86,600 km (2017)<br>
 2,500 km (2011) (major rivers are the west-flowing Western Dvina and Neman Rivers and the south-flowing Dnepr River and its tributaries, the Berezina, Sozh, and Pripyat Rivers)<br>
 
 **Merchant marine**<br>
-_total_: 4<br>
-_by type_: other 4 (2022)<br>
+_total_: 4 (2022)<br>
+_by type_: other 4<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Mazyr (Prypyats')<br>

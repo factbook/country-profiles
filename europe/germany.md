@@ -114,9 +114,9 @@ _elderly dependency ratio_: 34.7<br>
 _potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 47.8 years<br>
+_total_: 47.8 years (2020)<br>
 _male_: 46.5 years<br>
-_female_: 49.1 years (2020 est.)<br>
+_female_: 49.1 years<br>
 
 **Population growth rate**<br>
 -0.12% (2023 est.)<br>
@@ -154,14 +154,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 4 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.14 deaths/1,000 live births<br>
+_total_: 3.14 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.51 deaths/1,000 live births<br>
-_female_: 2.76 deaths/1,000 live births (2023 est.)<br>
+_female_: 2.76 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.72 years<br>
+_total population_: 81.72 years (2023 est.)<br>
 _male_: 79.37 years<br>
-_female_: 84.2 years (2023 est.)<br>
+_female_: 84.2 years<br>
 
 **Total fertility rate**<br>
 1.58 children born/woman (2023 est.)<br>
@@ -233,9 +233,9 @@ _male_: 17 years<br>
 _female_: 17 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7%<br>
+_total_: 7% (2021 est.)<br>
 _male_: 7.2%<br>
-_female_: 6.6% (2021 est.)<br>
+_female_: 6.6%<br>
 
 ## Environment
 
@@ -471,9 +471,9 @@ _services_: 74.3% (2016)<br>
 3.14% (2019 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 7%<br>
+_total_: 7% (2021 est.)<br>
 _male_: 7.2%<br>
-_female_: 6.6% (2021 est.)<br>
+_female_: 6.6%<br>
 
 **Population below poverty line**<br>
 14.8% (2018 est.)<br>
@@ -695,8 +695,8 @@ _paved_: 830,000 km (2022) (includes 13,155 km of expressways)<br>
 7,300 km (2022) (Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea)<br>
 
 **Merchant marine**<br>
-_total_: 592<br>
-_by type_: bulk carrier 1, container ship 72, general cargo 79, oil tanker 34, other 406 (2022)<br>
+_total_: 592 (2022)<br>
+_by type_: bulk carrier 1, container ship 72, general cargo 79, oil tanker 34, other 406<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: <br><em>Baltic Sea:</em> Kiel, Rostock<br><em>North Sea:</em> Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven<br>
@@ -762,7 +762,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,100,720 (Ukraine) (as of 7 October 2023)<br>
+_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,105,210 (Ukraine) (as of 10 October 2023)<br>
 _stateless persons_: 28,941 (2022)<br>
 
 **Illicit drugs**<br>
