@@ -84,14 +84,14 @@ _noun_: Bahraini(s)<br>
 _adjective_: Bahraini<br>
 
 **Ethnic groups**<br>
-Bahraini 46%, Asian 45.5%, other Arab 4.7%, African 1.6%, European 1%, other 1.2% (includes Gulf Co-operative country nationals, North and South Americans, and Oceanians) (2010 est.)<br>
+Bahraini 47.4%, Asian 43.4%, other Arab 4.9%, African 1.4%, North American 1.1%, Gulf Co-operative countries 0.9%, European 0.8%, other 0.1% (2020 est.)<br>
 
 **Languages**<br>
 Arabic (official), English, Farsi, Urdu<br>
 _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 73.7%, Christian 9.3%, Jewish 0.1%, other 16.9% (2017 est.)<br>
+Muslim 74.2%, other (includes Christian, Jewish, Hindu, Baha'i) 25.8% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 18.14% (male 142,866/female 139,083)<br>
@@ -256,7 +256,7 @@ _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 69.04 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 51.82 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 31.69 megatons (2016 est.)<br>
 _methane emissions_: 15.47 megatons (2020 est.)<br>
 
@@ -382,7 +382,7 @@ _selected World Heritage Site locales_: Dilmun Burial Mounds; Qal'at al-Bahrain 
 ## Economy
 
 **Economic overview**<br>
-heavily dependent oil/gas economy, has suffered due to lower prices and COVID-19 demand reductions; diversification struggles driven by unemployment and low-skilled labor force; deployed fiscal balancing efforts; emerging tourism industry hit hard by COVID-19 disruptions<br>
+growing, economically diverse Middle Eastern island economy; major recovery and balancing efforts to fulfill Economic Vision 2030; regional finance hub; increasing openness; high youth unemployment; water scarcity amid reservoir depletion<br>
 
 **Real GDP (purchasing power parity)**<br>
 $72.267 billion (2021 est.)<br>
@@ -491,25 +491,28 @@ calendar year<br>
 -$1.493 billion (2016 est.)<br>
 
 **Exports**<br>
+$35.235 billion (2021 est.)<br>
 $30.097 billion (2018 est.)<br>
 $26.732 billion (2017 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
-United Arab Emirates 31%, Saudi Arabia 12%, Japan 8%, United States 8% (2019)<br>
+United Arab Emirates 17%, Saudi Arabia 16%, United States 7%, Japan 7%, India 4% (2021)<br>
 
 **Exports - commodities**<br>
 refined petroleum, aluminum, iron ore and reductions, aluminum wiring, crude petroleum (2021)<br>
 
 **Imports**<br>
-$27.187 billion (2018 est.) note: data are in current year dollars<br>
+$27.577 billion (2021 est.)<br>
+$27.187 billion (2018 est.)<br>
 $23.876 billion (2017 est.)<br>
+<strong>note:</strong> data are in current year dollars<br>
 
 **Imports - partners**<br>
-United Arab Emirates 27%, China 11%, Saudi Arabia 7%, United States 5%, Brazil 5%, Japan 5%, India 5% (2019)<br>
+United Arab Emirates 24%, Saudi Arabia 15%, Brazil 12%, China 9%, India 6% (2021)<br>
 
 **Imports - commodities**<br>
-cars, iron ore, jewelry, gold, gas turbines (2019)<br>
+iron ore, jewelry, cars, floating platforms, refined petroleum, gold, broadcasting equipment (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $4.993 billion (31 December 2021 est.)<br>

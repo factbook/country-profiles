@@ -289,7 +289,7 @@ _widespread lack of access_: <em>due to conflict in Tigray Region, drought condi
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 34.36 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 21.8 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 14.87 megatons (2016 est.)<br>
 _methane emissions_: 114.21 megatons (2020 est.)<br>
 

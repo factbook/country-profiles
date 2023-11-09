@@ -264,7 +264,7 @@ _rate of urbanization_: 0.76% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 16.79 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 14.52 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 6.63 megatons (2016 est.)<br>
 _methane emissions_: 0.86 megatons (2020 est.)<br>
 
@@ -704,10 +704,10 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</p><br>
+<p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; has had maritime/economic exclusion zone disputes with Turkey, particularly over energy exploration</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 19,125 (Ukraine) (as of 24 September 2023)<br>
+_refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 19,910 (Ukraine) (as of 16 October 2023)<br>
 _IDPs_: 246,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2022)<br>
 _stateless persons_: 74 (2022)<br>
 <strong>note:</strong> 55,098 estimated refugee and migrant arrivals (January 2015-August 2023)<br>

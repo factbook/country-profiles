@@ -272,7 +272,7 @@ _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 23.98 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 17.8 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 9.92 megatons (2016 est.)<br>
 _methane emissions_: 14.88 megatons (2020 est.)<br>
 
@@ -361,7 +361,7 @@ _judge selection and term of office_: Supreme Court and Constitutional Council j
 _subordinate courts_: Appellate Court; provincial and municipal courts; Military Court<br>
 
 **Political parties and leaders**<br>
-Candlelight Party or CP (the latest incarnation of the Sam <u>Rainsy</u> Party or SRP, which joined with the Human Rights Party or HRP to form the Cambodia National Rescue Party or CNRP in 2012; the CNRP was dissolved in 2017)<br>Cambodian People's Party or CPP [HUN SEN]<br>Cambodian Youth Party or CYP [PICH Sros]<br>Grassroots Democratic Party [YENG Virak]<br>Khmer National Unity Party or KNUP (an offshoot of FUNCINPEC) [NHEK BUN CHHAY]<br>League for Democracy Party or LDP [KHEM Veasna]<br>National United Front for Independent, Neutral, Peaceful, and Cooperative Cambodia or FUNCINPEC [Prince NORODOM CHAKRAVUTH]<br>
+Candlelight Party or CP (the latest incarnation of the Sam <u>Rainsy</u> Party or SRP, which joined with the Human Rights Party or HRP to form the Cambodia National Rescue Party or CNRP in 2012; the CNRP was dissolved in 2017)<br>Cambodian People's Party or CPP [HUN SEN]<br>Cambodian Youth Party or CYP [PICH Sros]<br>Grassroots Democratic Party [YENG Virak]<br>Khmer National Unity Party or KNUP (an offshoot of FUNCINPEC) [NHEK BUN CHHAY]<br>Khmer Will Party (aligned with Candlelight Party in 2023) [KONG Monika]<br>League for Democracy Party or LDP [KHEM Veasna]<br>National United Front for Independent, Neutral, Peaceful, and Cooperative Cambodia or FUNCINPEC [Prince NORODOM CHAKRAVUTH]<br>
 <strong>note 1: </strong>42 parties had registered with the Cambodian Government at the beginning of 2023 <br><br><strong>note 2:</strong> following the 2017 commune election, the CPP-led government arrested the CNRP president Kem SOKHA for treason, dissolved the party on similar grounds, and forced most of its senior leadership into exile, where the party’s former president, Sam RAINSY, had been living since late 2015; opposition parties, particularly the Candlelight Party, continue to report, intimidation, harassment, and arrests by the Cambodian Government; in May 2023, the Cambodian Government disqualified the Candlelight Party, which is the main opposition party, from the July 2023 election<br>
 
 **International organization participation**<br>
@@ -723,7 +723,7 @@ outside of periodic border skirmishes with Thailand, the RCAF’s primary respon
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Cambodia-Laos</em>: Cambodia is concerned that Laos' extensive upstream dam construction will affect Cambodian waters downstream</p> <p><em>Cambodia-Thailand</em>: Cambodia and Thailand have agreed to maintain peace along the border regardless of the decision of the International Court of Justice (ICJ) over territorial dispute near Cambodia's Preah Vihear Temple; the ICJ decision of 11 November 2013 determined that Cambodia had sovereignty over the whole territory of the promontory of Preah Vihear; the border disputes do not involve large amounts of territory, and most of the issues were settled by the Nov. 11, 2013 ICJ ruling</p> <p><em>Cambodia-Vietnam</em>: issues include casinos built in Cambodia near the border (gambling and prostitution); narcotics (criminals, crime, and abuse); trafficking of women and children, petrol smuggling into Cambodia from Vietnam, illegal logging, and illegal migration; a positive development is the special economic Zone in Bavet, Svay Rieng Province, Cambodia that is being developed by the Manhattan (Svay Rieng) International Group of Taiwan</p><br>
+<p><em>Cambodia-Laos</em>: Cambodia is concerned that Laos' extensive upstream dam construction will affect Cambodian waters downstream</p> <p><em>Cambodia-Thailand</em>: Cambodia and Thailand have agreed to maintain peace along the border regardless of the decision of the International Court of Justice (ICJ) over territorial dispute near Cambodia's Preah Vihear Temple; the ICJ decision of 11 November 2013 determined that Cambodia had sovereignty over the whole territory of the promontory of Preah Vihear; the border disputes do not involve large amounts of territory, and most of the issues were settled by the Nov. 11, 2013 ICJ ruling</p> <p><em>Cambodia-Vietnam</em>: issues include casinos built in Cambodia near the border (gambling and prostitution); narcotics (criminals, crime, and abuse); trafficking of women and children, petrol smuggling into Cambodia from Vietnam, illegal logging, and illegal migration</p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 75,000 (2022)<br>

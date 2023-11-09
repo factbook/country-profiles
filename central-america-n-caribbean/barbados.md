@@ -242,7 +242,7 @@ _rate of urbanization_: 0.46% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 22.24 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 9.79 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 1.28 megatons (2016 est.)<br>
 _methane emissions_: 2.35 megatons (2020 est.)<br>
 
@@ -646,7 +646,7 @@ formed in 1979, the Barbados Defense Force (BDF) is responsible for protecting n
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Barbados-Venezuela (Maritime Boundary):</em> Barbados joins other Caribbean states and the United Kingdom to counter Venezuela's claim that Aves Island, a large sandbar with some vegetation, sustains human habitation or economic life, the criteria under the UN Convention on the Law of the Sea (UNCLOS), Article 121, which would permit Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea.  The dispute hampers hydrocarbon prospecting and creation of exploration blocks. <br><br><em>Barbados-Trinidad and Tobago (Maritime Boundary):</em> Barbados and Trinidad and Tobago abide by the April 2006 Permanent Court of Arbitration decision delimiting a maritime boundary and limiting catches of flying fish in Trinidad and Tobago's exclusive economic zone.</p><br>
+<p><em>Barbados-Venezuela (Maritime Boundary):</em> Barbados joins other Caribbean states and the United Kingdom to counter Venezuela's claim that Aves Island, a large sandbar with some vegetation, sustains human habitation or economic life, the criteria under the UN Convention on the Law of the Sea (UNCLOS), Article 121, which would permit Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea; the dispute hampers hydrocarbon prospecting and creation of exploration blocks <br><br><em>Barbados-Trinidad and Tobago (Maritime Boundary):</em> Barbados and Trinidad and Tobago abide by the April 2006 Permanent Court of Arbitration decision delimiting a maritime boundary and limiting catches of flying fish in Trinidad and Tobago's exclusive economic zone</p><br>
 
 **Illicit drugs**<br>
 <p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>

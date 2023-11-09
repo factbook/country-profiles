@@ -263,7 +263,7 @@ _rate of urbanization_: 1.51% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 19.46 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 19.47 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 65.17 megatons (2016 est.)<br>
 _methane emissions_: 13.02 megatons (2020 est.)<br>
 
@@ -364,7 +364,7 @@ _email address and website_: <br>consular@washington.mfa.gov.il<br><br>https://e
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: ambassador (vacant); Charge d'Affaires Stephanie L. HALLETT (since 21 July 2023); note - as of 14 October 2023, Jacob LEW, nominated as US ambassador to Israel, was awaiting confirmation by the US Senate Committee on Foreign Relations<br>
+_chief of mission_: ambassador (vacant); Charge d'Affaires Stephanie L. HALLETT (since 21 July 2023); note - as of 3 November 2023, Jacob J. LEW, confirmed as US ambassador to Israel, was awaiting the opportunity to present his credentials to the Israeli Government<br>
 _embassy_: 14 David Flusser Street, Jerusalem, 9378322<br>
 _mailing address_: 6350 Jerusalem Place, Washington DC&nbsp; 20521-6350<br>
 _telephone_: [972] (2) 630-4000<br>
@@ -504,9 +504,10 @@ $22.486 billion (2020 est.)<br>
 $14.747 billion (2019 est.)<br>
 
 **Exports**<br>
-$143.884 billion (2021 est.) note: data are in current year dollars<br>
-$114.422 billion (2020 est.) note: data are in current year dollars<br>
-$117.779 billion (2019 est.) note: data are in current year dollars<br>
+$143.884 billion (2021 est.)<br>
+$114.422 billion (2020 est.)<br>
+$117.779 billion (2019 est.)<br>
+<strong>note:</strong> data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 27%, China 8%, India 4%, Germany 3%, Ireland 3% (2021)<br>
@@ -516,9 +517,10 @@ United States 27%, China 8%, India 4%, Germany 3%, Ireland 3% (2021)<br>
 diamonds, integrated circuits, refined petroleum, medical instruments, packaged medicines, measuring instruments (2021)<br>
 
 **Imports**<br>
-$124.578 billion (2021 est.) note: data are in current year dollars<br>
-$95.977 billion (2020 est.) note: data are in current year dollars<br>
-$108.784 billion (2019 est.) note: data are in current year dollars<br>
+$124.578 billion (2021 est.)<br>
+$95.977 billion (2020 est.)<br>
+$108.784 billion (2019 est.)<br>
+<strong>note:</strong> data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 14%, United States 11%, Turkey 7%, Germany 7%, Switzerland 5% (2021)<br>

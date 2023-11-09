@@ -276,7 +276,7 @@ _severe localized food insecurity_: <em>due to civil insecurity in the north and
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 36.78 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 40.74 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 3.42 megatons (2016 est.)<br>
 _methane emissions_: 12.85 megatons (2020 est.)<br>
 
@@ -351,7 +351,7 @@ _chief of state_: transitional President Capt. Ibrahim TRAORE (since 30 Septembe
 _head of government_: Prime Minister Albert OUEDRAOGO (since 3 March 2022); note - transitional President Lt. Col. DAMIBA appointed OUEDRAOGO Prime Minister on 3 March 2022; the position had been vacant since 24 January 2022 when the military ousted former Prime Minister Lassina ZERBO<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 22 November 2020 (next to be held by July 2024); prime minister appointed by the president with consent of the National Assembly<br>
-_election results_: <em><br>2020:</em> Roch Marc Christian KABORE reelected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 57.9%, Eddie KOMBOIGO (CDP) 15.5%, Zephirin DIABRE (UPC)12.5%, other 14.1%<br><br><em>2015:</em> Roch Marc Christian KABORE elected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 53.5%, Zephirin DIABRE (UPC) 29.6%, Tahirou BARRY (PAREN) 3.1%, Benewende Stanislas SANKARA (UNIR-MS) 2.8%, other 10.9%<br>
+_election results_: <em><br>2020:</em> Roch Marc Christian KABORE reelected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 57.9%, Eddie KOMBOIGO (CDP) 15.5%, Zephirin DIABRE (UPC) 12.5%, other 14.1%<br><br><em>2015:</em> Roch Marc Christian KABORE elected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 53.5%, Zephirin DIABRE (UPC) 29.6%, Tahirou BARRY (PAREN) 3.1%, Benewende Stanislas SANKARA (UNIR-MS) 2.8%, other 10.9%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (127 seats; 111 members directly elected in 13 multi-seat constituencies by party-list proportional representation vote and 26 members elected in a nationwide constituency by proportional representation vote; members serve 5-year terms)<br>

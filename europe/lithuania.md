@@ -265,7 +265,7 @@ _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 11.49 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 10.37 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 12.96 megatons (2016 est.)<br>
 _methane emissions_: 3.15 megatons (2020 est.)<br>
 
@@ -726,7 +726,7 @@ has a small but growing space program; operates satellites; manufactures small s
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 49,970 (Ukraine) (as of 29 September 2023)<br>
+_refugees (country of origin)_: 50,690 (Ukraine) (as of 27 October 2023)<br>
 _stateless persons_: 2,720 (2022)<br>
 
 **Illicit drugs**<br>

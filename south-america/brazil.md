@@ -278,7 +278,7 @@ _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 0.01% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 11.49 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 10.94 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 462.3 megatons (2016 est.)<br>
 _methane emissions_: 401.83 megatons (2020 est.)<br>
 
@@ -775,7 +775,7 @@ Hizballah (2022)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Brazil-Bolivia: </em>The Roboré Accord of March 29, 1958 placed the long-disputed Isla Suárez/Ilha de Guajará-Mirim, a fluvial island on the Río Mamoré, between the two towns of Guajará-Mirim (Brazil) and Guayaramerin (Bolivia), under Bolivian administration but did not resolve the sovereignty dispute<em><br><br>Brazil-Colombia:</em> Contraband smuggling (narcotics and arms), illegal migration, trafficking in animals, plants, lumber, illegal exploitation of mineral resources, Colombian (FARC) insurgent incursions in the area remain problematic issues.<em><br><br>Brazil-Uruguay:</em> The uncontested boundary dispute between Brazil and Uruguay over over Arroyo de la Invernada triangle and sovereignty over Isla Brasilera leaves the tripoint with Argentina in question. Smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border.<br><br><em>Brazil-Venezuela:</em> Colombian-organized illegal narcotics and paramilitary activities penetrate Brazil's border region with Venezuela.</p><br>
+<p><em>Brazil-Bolivia: </em>the Roboré Accord of March 29, 1958 placed the long-disputed Isla Suárez/Ilha de Guajará-Mirim, a fluvial island on the Río Mamoré, between the two towns of Guajará-Mirim (Brazil) and Guayaramerin (Bolivia), under Bolivian administration but did not resolve the sovereignty dispute<em><br><br>Brazil-Colombia:</em> contraband smuggling (narcotics and arms), illegal migration, trafficking in animals, plants, lumber, illegal exploitation of mineral resources, and incursions by Colombian insurgent/narco-terrorists groups in the area remain problematic issues<em><br><br>Brazil-Uruguay:</em> the uncontested boundary dispute between Brazil and Uruguay over Arroyo de la Invernada triangle and sovereignty over Isla Brasilera leaves the tripoint with Argentina in question; smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border<br><br><em>Brazil-Venezuela:</em> Colombian-organized illegal narcotics and paramilitary activities penetrate Brazil's border region with Venezuela</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 449,678 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)<br>

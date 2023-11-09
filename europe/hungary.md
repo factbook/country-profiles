@@ -266,7 +266,7 @@ _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 0.01% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 15.62 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 14.24 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 45.54 megatons (2016 est.)<br>
 _methane emissions_: 7.25 megatons (2020 est.)<br>
 
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 53,375 (Ukraine) (as of 8 October 2023)<br>
+_refugees (country of origin)_: 53,375 (Ukraine) (as of 15 October 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

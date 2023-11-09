@@ -275,7 +275,7 @@ _rate of urbanization_: 1.27% annual rate of change (2020-25 est.)<br>
 0.78% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 7.19 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 8.93 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 375.91 megatons (2016 est.)<br>
 _methane emissions_: 105.01 megatons (2020 est.)<br>
 
@@ -760,7 +760,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Australia-Indonesia (Maritime Boundary):</em> All borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature. Indonesian groups challenge Australia's claim to Ashmore Reef. Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing.<em><br><br>Australia-Timor-Leste (Maritime Boundary):</em> In 2007, Australia and Timor-Leste agreed to a 50-year development zone and revenue sharing arrangement and deferred a maritime boundary.</p><br>
+<p><em>Australia-Indonesia (Maritime Boundary):</em> All borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature. Indonesian groups challenge Australia's claim to Ashmore Reef. Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing.<em><br></em></p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 12,180 (Iran), 8,741 (Afghanistan), 5,042 (Pakistan) (mid-year 2022)<br>

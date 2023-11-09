@@ -268,7 +268,7 @@ _severe localized food insecurity_: <em>due to high food prices, natural disaste
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 14.63 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 9.69 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 2.98 megatons (2016 est.)<br>
 _methane emissions_: 6.12 megatons (2020 est.)<br>
 

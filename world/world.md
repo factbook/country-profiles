@@ -18,7 +18,7 @@ Physical Map of the World<br>
 **Area**<br>
 _total_: 510.072 million sq km<br>
 _land_: 148.94 million sq km<br>
-_water_: 361.9 million sq km<br>
+_water_: 361,899,999 sq km<br>
 <strong>note:</strong> 70.9% of the world's surface is water, 29.1% is land<br>
 
 **Area - comparative**<br>
@@ -111,9 +111,9 @@ _elderly dependency ratio_: 14.8<br>
 _potential support ratio_: 7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31 years<br>
+_total_: 31 years (2020)<br>
 _male_: 30.3 years<br>
-_female_: 31.8 years (2020 est.)<br>
+_female_: 31.8 years<br>
 
 **Population growth rate**<br>
 1.03% (2021 est.)<br>
@@ -149,14 +149,14 @@ _total population_: 1.01 male(s)/female (2020 est.)<br>
 211 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 30.8 deaths/1,000 live births<br>
+_total_: 30.8 deaths/1,000 live births (2020 est.)<br>
 _male_: 32.8 deaths/1,000 live births<br>
-_female_: 28.6 deaths/1,000 live births (2020 est.)<br>
+_female_: 28.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.5 years<br>
+_total population_: 70.5 years (2020)<br>
 _male_: 68.4 years<br>
-_female_: 72.6 years (2020 est.)<br>
+_female_: 72.6 years<br>
 
 **Total fertility rate**<br>
 2.42 children born/woman (2020 est.)<br>
@@ -205,9 +205,9 @@ _male_: 13 years<br>
 _female_: 13 years (2020)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.9%<br>
+_total_: 17.9% (2021 est.)<br>
 _male_: 17.3%<br>
-_female_: 19.7% (2021 est.)<br>
+_female_: 19.7%<br>
 
 ## Environment
 
@@ -352,9 +352,9 @@ _services_: 45.5% (2014 est.)<br>
 <strong>note:</strong> combined unemployment and underemployment in many non-industrialized countries; developed countries typically 4%-12% unemployment (2007 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.9%<br>
+_total_: 17.9% (2021 est.)<br>
 _male_: 17.3%<br>
-_female_: 19.7% (2021 est.)<br>
+_female_: 19.7%<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 37.9 (2012 est.)<br>
@@ -483,8 +483,8 @@ _total_: 1,148,186 km (2013)<br>
 <strong>top ten longest rivers:</strong> Nile (Africa) 6,693 km; Amazon (South America) 6,436 km; Mississippi-Missouri (North America) 6,238 km; Yenisey-Angara (Asia) 5,981 km; Ob-Irtysh (Asia) 5,569 km; Yangtze (Asia) 5,525 km; Yellow (Asia) 4,671 km; Amur (Asia) 4,352 km; Lena (Asia) 4,345 km; Congo (Africa) 4,344 km<br><br><strong>note 1:</strong> rivers are not necessarily navigable along the entire length; if measured by volume, the Amazon is the largest river in the World, responsible for about 20% of the Earth's freshwater entering the ocean<br><br><strong>note 2:</strong> there are 20 countries without rivers: 3 in Africa (Comoros, Djibouti, Libya); 1 in the Americas (Bahamas); 8 in Asia (Bahrain, Kuwait, Maldives, Oman, Qatar, Saudi Arabia, United Arab Emirates, Yemen); 3 in Europe (Malta, Monaco, Holy See), 5 in Oceania (Kiribati, Marshall Islands, Nauru, Tonga, Tuvalu); these countries also do not have natural lakes<br><br><strong>top ten largest natural lakes (by surface area): </strong>Caspian Sea (Azerbaijan, Iran, Kazakhstan, Russia, Turkmenistan) 372,960 sq km; Lake Superior (Canada, United States) 82,414 sq km; Lake Victoria (Kenya, Tanzania, Uganda) 69,490 sq km; Lake Huron (Canada, United States) 59,596 sq km; Lake Michigan (United States) 57,441 sq km; Lake Tanganyika (Burundi, Democratic Republic of the Congo, Tanzania, Zambia) 32,890 sq km; Great Bear Lake (Canada) 31,800 sq km; Lake Baikal (Russia) 31,494 sq km; Lake Nyasa (Malawi, Mozambique, Tanzania) 30,044 sq km; Great Slave Lake (Canada) 28,400 sq km<br><br><strong>note 1:</strong> the areas of the lakes are subject to seasonal variation; only the Caspian Sea is saline, the rest are fresh water<br><br><strong>note 2:</strong> Lakes Huron and Michigan are technically a single lake because the flow of water between the Straits of Mackinac that connects the two lakes keeps their water levels at near-equilibrium; combined, Lake Huron-Michigan is the largest freshwater lake by surface area in the World<br><br><strong>note 3: </strong>the deepest lake in the world (1,620 m), and also the largest freshwater lake by volume (23,600 cu km), is Lake Baikal in Russia<br>
 
 **Merchant marine**<br>
-_total_: 101,158<br>
-_by type_: bulk carrier 12,707, container ship 5,583, general cargo 19,647, oil tanker 11,396, other 51,825 (2022)<br>
+_total_: 101,158 (2022)<br>
+_by type_: bulk carrier 12,707, container ship 5,583, general cargo 19,647, oil tanker 11,396, other 51,825<br>
 
 **Ports and terminals**<br>
 <strong>top twenty container ports as measured by Twenty-Foot Equivalent Units (TEUs) throughput:</strong> Shanghai (China) - 47,030,300; Singapore (Singapore) - 37,470,000; Ningbo (China) - 31,070,000; Shenzhen (China) - 28,767,600; Guangzhou (China) - 24,180,000; Qingdao (China) - 23,710,000; Busan (South Korea) - 22,706,130; Tianjin (China) - 20,269,400; Hong Kong (China) - 17,798,000; Rotterdam (Netherlands) - 15,300,000; Dubai (UAE) - 13,742,000; Port Kelang (Malaysia) - 13,724,460; Xiamen (China) - 12,045,700; Antwerp (Belgium) - 12,020,000; Tanjung Pelepas (Malaysia) - 11,200,000; Los Angeles (US) - 10,677,610; Kaohsiung (Taiwan) - 9,864,448; Long Beach (US) - 9,384,368; New York/New Jersey (US) - 8,985,929; Hamburg (Germany) - 8,715,000 (2021)<br>
@@ -510,7 +510,7 @@ the US is the world's leading arms exporter, followed by Russia (2022)<br>
 there are over 85,000 personnel, including military, police, and civilians from 121 countries deployed on UN peacekeeping missions worldwide (2023)<br>
 
 **Maritime threats**<br>
-the International Maritime Bureau’s Piracy Reporting Centre (PRC) received 115 reported incidents of piracy and armed robbery against ships in 2022 compared with 132 reports in 2021; the 2022 figures are broken down as 107 vessels boarded, five attempted attacks, two vessels hijacked, and one fired upon; though the downward trend in reported incidents is welcomed, the risk to crew remains with 41 crew taken hostage, six assaulted and threatened, and two kidnapped; the continued and much-needed reduction is attributed to an overall decrease of piratical activity within the Gulf of Guinea region – down from 35 incidents in 2021 to 19 in 2022; in 2022, incidents in these waters were reported at up to 260 nm from the coast; though crew kidnappings decreased from 57 in 2021 to two in 2022, during the duration of the hijackings 29 crew were kept hostage<br><br>the EU naval mission, Operation ATALANTA, continues its operations in the Gulf of Aden and Indian Ocean through 2024; naval units from Japan, India, and China also operate in conjunction with EU forces; China has established a logistical base in Djibouti to support its deployed naval units in the Horn of Africa<br><br>the Horn of Africa saw no reported piracy attacks in 2022; although the opportunity for incidents has reduced, the Somali pirates continue to possess the capability and capacity to carry out incidents; the decrease in successful pirate attacks off the Horn of Africa since the peak in 2007 was due, in part, to anti-piracy operations by international naval forces, the hardening of vessels, and the increased use of armed security teams aboard merchant ships; despite these preventative measures, the assessed risk remains high<br><br>incidents in the Singapore Straits continue to increase year on year with 38 in 2022 compared to 35 in 2021; vessels were successfully boarded in all 38 incidents in 2022; while the majority of vessels boarded reported incidents as predominately low-level opportunistic thefts, four crew were taken hostage and a further two threatened during these incidents; the majority of incidents were reported during the hours of darkness and while vessels were underway; there were 10 attacks in Indonesian waters in 2022 compared to nine in 2021, primarily to ships anchored or berthed<br><br>South American ports in Brazil, Guyana, Peru, and Venezuela as well as those in Mexico and Haiti continue to be affected by the crime of armed robbery; this region experienced a decrease in 2022 with 24 incidents reported compared to 36 in 2021; the reduction is partially attributed to the decrease in reported incidents in Callao, Peru which saw a 33% drop compared to 2021; the majority of boardings were on anchored vessels and at night; during these incidents, seven crew were taken hostage and six assaulted and threatened, making this region risky for crewmen; the majority (64%) of global attacks against shipping occurred in the offshore waters of five countries - Bangladesh, Ghana, Indonesia, Singapore Straits, and Peru (2021)<br>
+the International Maritime Bureau’s Piracy Reporting Centre (PRC) received 115 reported incidents of piracy and armed robbery against ships in 2022 compared with 132 reports in 2021; the 2022 figures are broken down as 107 vessels boarded, five attempted attacks, two vessels hijacked, and one fired upon; though the downward trend in reported incidents is welcomed, the risk to crew remains with 41 crew taken hostage, six assaulted and threatened, and two kidnapped; the continued and much-needed reduction is attributed to an overall decrease of piratical activity within the Gulf of Guinea region – down from 35 incidents in 2021 to 19 in 2022; in 2022, incidents in these waters were reported at up to 260 nm from the coast; though crew kidnappings decreased from 57 in 2021 to two in 2022, during the duration of the hijackings 29 crew were kept hostage<br><br>the Horn of Africa saw no reported piracy attacks in 2022; although the opportunity for incidents has reduced, the Somali pirates continue to possess the capability and capacity to carry out incidents; the decrease in successful pirate attacks off the Horn of Africa since the peak in 2007 was due, in part, to anti-piracy operations by international naval forces, the hardening of vessels, and the increased use of armed security teams aboard merchant ships; despite these preventative measures, the assessed risk remains high<br><br>incidents in the Singapore Straits continue to increase year on year with 38 in 2022 compared to 35 in 2021; vessels were successfully boarded in all 38 incidents in 2022; while the majority of vessels boarded reported incidents as predominately low-level opportunistic thefts, four crew were taken hostage and a further two threatened during these incidents; the majority of incidents were reported during the hours of darkness and while vessels were underway; there were 10 attacks in Indonesian waters in 2022 compared to nine in 2021, primarily to ships anchored or berthed<br><br>South American ports in Brazil, Guyana, Peru, and Venezuela as well as those in Mexico and Haiti continue to be affected by the crime of armed robbery; this region experienced a decrease in 2022 with 24 incidents reported compared to 36 in 2021; the reduction is partially attributed to the decrease in reported incidents in Callao, Peru which saw a 33% drop compared to 2021; the majority of boardings were on anchored vessels and at night; during these incidents, seven crew were taken hostage and six assaulted and threatened, making this region risky for crewmen; the majority (64%) of global attacks against shipping occurred in the offshore waters of five countries - Bangladesh, Ghana, Indonesia, Singapore Straits, and Peru (2021)<br>
 
 ## Transnational Issues
 

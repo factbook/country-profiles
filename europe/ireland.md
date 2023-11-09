@@ -254,7 +254,7 @@ _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 8.26 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 8.2 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 37.71 megatons (2016 est.)<br>
 _methane emissions_: 13.67 megatons (2020 est.)<br>
 
@@ -702,7 +702,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 97,505 (Ukraine) (as of 15 October 2023)<br>
+_refugees (country of origin)_: 97,05 (Ukraine) (as of 29 October 2023)<br>
 _stateless persons_: 7 (2022)<br>
 
 **Illicit drugs**<br>

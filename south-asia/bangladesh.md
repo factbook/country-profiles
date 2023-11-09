@@ -277,7 +277,7 @@ _severe localized food insecurity_: <em>due to economic constraints and high pri
 0.02% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 58.33 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 45.99 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 84.25 megatons (2016 est.)<br>
 _methane emissions_: 59.3 megatons (2020 est.)<br>
 
@@ -761,10 +761,10 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Bangladesh-Burma:</em> Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border.<br><br><em>Bangladesh-India:</em> Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented.</p><br>
+<p><em>Bangladesh-Burma:</em> the border area has historically been an area of conflict and instability; militants, particularly ethnic armed groups (EAGs) from Burma, continue to operate in the border region and conduct illegal crossings, and both countries maintain considerable numbers of security personnel along the border; Burmese military forces actively conduct operations against EAGs; in 2022, Burmese artillery struck Bangladesh territory several times during military operations against Arakan Army rebels inside Rakhine; as of 2017, Burmese border authorities had constructed about 130 miles of border fencing and had planned to fence off the remainder of the border<br><br><em>Bangladesh-India:</em> Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 965,457 (Burma) (2023)<br>
+_refugees (country of origin)_: 965,467 (Burma) (2023)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2022)<br>
 _stateless persons_: 929,606 (2022)<br>
 

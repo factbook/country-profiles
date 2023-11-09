@@ -2,6 +2,11 @@ _Oceans / Oceans_
 
 # Indian Ocean
 
+## Introduction
+
+**Background**<br>
+The Indian Ocean is the third largest of the world's five oceans (after the Pacific Ocean and Atlantic Ocean, but larger than the Southern Ocean and Arctic Ocean). Four critically important access waterways are the Suez Canal (Egypt), Bab el Mandeb (Djibouti-Yemen), Strait of Hormuz (Iran-Oman), and Strait of Malacca (Indonesia-Malaysia). The decision by the International Hydrographic Organization in the spring of 2000 to delimit a fifth ocean, the Southern Ocean, removed the portion of the Indian Ocean south of 60 degrees south latitude.<br>
+
 ## Geography
 
 **Location**<br>
@@ -57,11 +62,6 @@ occasional icebergs pose navigational hazard in southern reaches<br>
 **Geography - note**<br>
 major chokepoints include Bab el Mandeb, Strait of Hormuz, Strait of Malacca, southern access to the Suez Canal, and the Lombok Strait<br>
 
-## Introduction
-
-**Background**<br>
-The Indian Ocean is the third largest of the world's five oceans (after the Pacific Ocean and Atlantic Ocean, but larger than the Southern Ocean and Arctic Ocean). Four critically important access waterways are the Suez Canal (Egypt), Bab el Mandeb (Djibouti-Yemen), Strait of Hormuz (Iran-Oman), and Strait of Malacca (Indonesia-Malaysia). The decision by the International Hydrographic Organization in the spring of 2000 to delimit a fifth ocean, the Southern Ocean, removed the portion of the Indian Ocean south of 60 degrees south latitude.<br>
-
 ## People and Society
 
 ## Environment
@@ -90,7 +90,7 @@ _major seaport(s)_: Chennai (Madras, India); Colombo (Sri Lanka); Durban (South 
 ## Military and Security
 
 **Maritime threats**<br>
-the International Maritime Bureau continues to report the territorial waters of littoral states and offshore waters as high risk for piracy and armed robbery against ships, particularly in the Gulf of Aden, along the east coast of Africa, the Bay of Bengal, and the Strait of Malacca; the presence of several naval task forces in the Gulf of Aden and additional anti-piracy measures on the part of ship operators, including the use of on-board armed security teams, have reduced incidents of piracy; 2022 saw no incidents in the region of the Horn of Africa, compared to one incident in 2021; the EU naval mission, Operation ATALANTA, continues its operations in the Gulf of Aden and Indian Ocean through 2024; naval units from Japan, India, and China also operate in conjunction with EU forces; China has established a logistical base in Djibouti to support its deployed naval units in the Horn of Africa <br><br>the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-003 - Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Gulf of Aden, Bab al Mandeb Strait, Red Sea, and Somali Basin-Threats to Commercial Vessels) effective 23 February 2023, which states in part that "Regional conflict, military activity, and political tensions pose threats to commercial vessels operating in the above listed geographic areas;" Coalition Task Force (CTF) Sentinel has been established to provide escorts for commercial shipping transiting the Persian Gulf, Strait of Hormuz, and Gulf of Oman<br>
+the International Maritime Bureau continues to report the territorial waters of littoral states and offshore waters as high risk for piracy and armed robbery against ships, particularly in the Gulf of Aden, along the east coast of Africa, the Bay of Bengal, and the Strait of Malacca; the presence of several naval task forces in the Gulf of Aden and additional anti-piracy measures on the part of ship operators, including the use of on-board armed security teams, have reduced incidents of piracy; 2022 saw no incidents in the region of the Horn of Africa, compared to one incident in 2021<br><br>the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-003 - Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Gulf of Aden, Bab al Mandeb Strait, Red Sea, and Somali Basin-Threats to Commercial Vessels) effective 23 February 2023, which states in part that "Regional conflict, military activity, and political tensions pose threats to commercial vessels operating in the above listed geographic areas;" Coalition Task Force (CTF) Sentinel has been established to provide escorts for commercial shipping transiting the Persian Gulf, Strait of Hormuz, and Gulf of Oman<br>
 
 ## Transnational Issues
 

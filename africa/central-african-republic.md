@@ -275,7 +275,7 @@ _exceptional shortfall in aggregate food production/supplies_: <em>due to intern
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 49.5 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 27.2 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 0.3 megatons (2016 est.)<br>
 _methane emissions_: 22.44 megatons (2020 est.)<br>
 
@@ -357,7 +357,7 @@ _election results_: <em><br>2020</em>: Faustin-Archange TOUADERA reelected presi
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (140 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
 _elections_: last held in December 2020 through July 2021 (next to be held 31 December 2025); note - on 27 December 2020, the day of first round elections, voting in many electoral areas was disrupted by armed groups; on 13 February 2021, President TOUADERA announced that new first round elections would be held on 27 February for those areas controlled by armed groups and the second round on 14 March; ultimately, two additional rounds were held on 23 May and 25 July 2021 in areas that continued to suffer from election security problems<br>
-_election results_: December 2020 to July 2021 election: percent of vote by party - NA; seats by party - UNDP 16, URCA 11, RDC 8, MLPC 10, KNK 7, other 28, independent 60; composition as of March 2022 - men 122, women 18, percent of women 12.9%<br>
+_election results_: December 2020 to July 2021 election: percent of vote by party - NA; seats by party - MCU 63, MOUNI 9, URCA 7, MLPC 7, RDC 5, KNK 3, PATRIE 3, CDE 2, RDD 2, MDD 2, PGD 2, PAD 2, CANE 2, other 11, independents 20; composition as of March 2022 - men 122, women 18, percent of women 12.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 judges, at least 3 of whom are women)<br>
@@ -365,7 +365,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: high courts; magistrates' courts<br>
 
 **Political parties and leaders**<br>
-African Party for Radical Transformation and Integration of States or PATRIE [Crepin MBOLI-GOUMBA]<br>Central African Democratic Rally or RDC [Desire KOLINGBA]<br>Movement for the Liberation of the Central African People or MLPC [Martin ZIGUELE]<br>National Convergence (also known as Kwa Na Kwa or KNK) [Francois BOZIZE]<br>National Movement of Independents or MOUNI <br>National Union for Democracy and Progress or UNDP [Michel AMINE]<br>National Union of Republican Democrats or UNADER<br>Party for Democratic Governance or PGD<br>Path of Hope [Karim MECKASSOUA]<br>Union for Central African Renewal or URCA [Anicet-Georges DOLOGUELE]<br>United Hearts Movement or MCU [Faustin-Archange TOUADERA]<br><br><strong>note:</strong> only parties with seats in the Parliament included<strong><br></strong><br>
+Action Party for Development or PAD<br>African Party for Radical Transformation and Integration of States or PATRIE [Crepin MBOLI-GOUMBA]<br>Alliance for Democracy and Progress or ADP<br>Be Africa ti e Kwe (also known as Central Africa for Us All or BTK)<br>Central African Democratic Rally or RDC [Desire KOLINGBA]<br>Central African Party for Integrated Development or PCDI<br>Democratic Movement for the Renewal and Evolution of Central Africa or MDREC<br>Kodro Ti Mo Kozo Si Movement or MKMKS<br>Movement for Democracy and Development or MDD<br>Movement for the Liberation of the Central African People or MLPC [Martin ZIGUELE]<br>National Convergence (also known as Kwa Na Kwa or KNK) [Francois BOZIZE]<br>National Movement of Independents or MOUNI <br>National Union for Democracy and Progress or UNDP [Michel AMINE]<br>National Union of Republican Democrats or UNADER<br>New Impetus for Central Africa or CANE<br>Party for Democracy and Solidarity - Kelemba or KPDS<br>Party for Democratic Governance or PGD<br>Path of Hope or CDE [Karim MECKASSOUA]<br>Renaissance for Sustainable Development or RDD<br>Socialist Party or PS<br>Transformation Through Action Initiative or ITA<br>Union for Central African Renewal or URCA [Anicet-Georges DOLOGUELE]<br>Union for Renaissance and Development or URD<br>United Hearts Movement or MCU [Faustin-Archange TOUADERA]<br><br><strong>note:</strong> only parties with seats in the Parliament included<strong><br></strong><br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country) (suspended), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, NAM, OIC (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

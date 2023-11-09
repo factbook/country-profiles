@@ -263,7 +263,7 @@ _severe localized food insecurity_: <em>due to higher staple food prices - </em
 0.1% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 16.26 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 15.07 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 1.16 megatons (2016 est.)<br>
 _methane emissions_: 1.9 megatons (2020 est.)<br>
 
@@ -328,7 +328,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King MSWATI III (since 25 April 1986)<br>
-_head of government_: <p>Chief Mgwagwa GAMEDZE appointed acting prime minister (since 28 September 2023)</p> <p> </p><br>
+_head of government_: <p>Prime Minister Ambrose Mandvulo Dlamini (since 3 November 2023)</p> <p> </p><br>
 _cabinet_: Cabinet recommended by the prime minister, confirmed by the monarch; at least one-half of the cabinet membership must be appointed from among elected members of the House of Assembly<br>
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch from among members of the House of Assembly<br>
 

@@ -255,7 +255,7 @@ _rate of urbanization_: 1.83% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 31.99 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 31.08 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 0.54 megatons (2016 est.)<br>
 _methane emissions_: 0.13 megatons (2020 est.)<br>
 
@@ -318,7 +318,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Jose Maria Pereira NEVES (since 9 November 2021)<br>
-_head of government_: Prime Minister Jose Ulisses CORREIA E. SILVA (since 22 April 2016)<br>
+_head of government_: Prime Minister Jose Ulisses CORREIA e SILVA (since 22 April 2016)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 17 October 2021 (next to be held in October 2026); prime minister nominated by the National Assembly and appointed by the president<br>
 _election results_: <em><br>2020: </em>Jose Maria Pereira NEVES elected president; percent of vote - Jose Maria Pereira NEVES (PAICV) 51.7%, Carlos VEIGA (MPD) 42.4%, Casimiro DE PINA (Independent) 1.8%, Fernando Rocha DELGADO (Independent) 1.4%, Helio SANCHES (independent) 1.14%, Gilson ALVES (independent) 0.8%, Joaquim MONTEIRO (independent) 3.4%<br><br><em>2016: </em>Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74.1%, Albertino GRACA (independent) 22.5%, other 3.4%<br>
@@ -662,7 +662,7 @@ the FACV/National Guard is mostly a ground force with 2 infantry battalions and 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 115 (2022)<br>

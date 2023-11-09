@@ -266,7 +266,7 @@ _rate of urbanization_: -0.15% annual rate of change (2020-25 est.)<br>
 0.03% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 14.29 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 13.3 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 69.26 megatons (2016 est.)<br>
 _methane emissions_: 27.62 megatons (2020 est.)<br>
 
@@ -738,9 +738,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 85,120 (Ukraine) (as of 1 October 2023)<br>
+_refugees (country of origin)_: 84,415 (Ukraine) (as of 29 October 2023)<br>
 _stateless persons_: 297 (2022)<br>
-<strong>note:</strong> 14,971 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
+<strong>note:</strong> 14,979 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis</p><br>

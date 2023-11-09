@@ -273,7 +273,7 @@ _severe localized food insecurity_: <em><em>due to h</em>igh food prices and eco
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 27.78 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 17.6 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 2.51 megatons (2016 est.)<br>
 _methane emissions_: 2.56 megatons (2020 est.)<br>
 

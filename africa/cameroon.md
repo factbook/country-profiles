@@ -286,7 +286,7 @@ _severe localized food insecurity_: <em>due to civil insecurity and high food pr
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 65.26 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 56.37 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 8.29 megatons (2016 est.)<br>
 _methane emissions_: 30.71 megatons (2020 est.)<br>
 
@@ -748,7 +748,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
+<p>the Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 353,701 (Central African Republic), 120,677 (Nigeria) (2023)<br>

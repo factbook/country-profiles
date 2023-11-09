@@ -282,7 +282,7 @@ _widespread lack of access_: <em>due to civil insecurity and high food prices - 
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 53.01 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 41.15 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 1.02 megatons (2016 est.)<br>
 _methane emissions_: 30.69 megatons (2020 est.)<br>
 
@@ -705,10 +705,10 @@ Boko Haram; Islamic State of Iraq and ash-Sham - West Africa (ISIS-WA)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
+<p>over 100,000 refugees have fled the 2023 conflict in Sudan to Chad, adding to the 600,000 mostly Sudanese refugees already in Chad after fleeing previous conflicts, especially in the Darfur region; Chad and Sudan share the same ethnic groups along both sides of their common 1,400-km-long border; in 2010, relations with Sudan were normalized, and the two countries established a joint border monitoring force, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 418,187 (Sudan) (includes refugees since 15 April 2023), 128,312 (Central African Republic), 26,692 (Cameroon), 21,087 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 418,187 (Sudan) (includes refugees since 15 April 2023), 128,619 (Central African Republic), 26,692 (Cameroon), 21,178 (Nigeria) (2023)<br>
 _IDPs_: 215,918 (majority are in the east) (2023)<br>
 
 **Trafficking in persons**<br>

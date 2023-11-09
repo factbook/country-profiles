@@ -283,7 +283,7 @@ _rate of urbanization_: 2.33% annual rate of change (2020-25 est.)<br>
 1.15% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 65.2 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 50.17 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 2,407.67 megatons (2016 est.)<br>
 _methane emissions_: 559.11 megatons (2020 est.)<br>
 
@@ -729,7 +729,7 @@ _LNG terminal(s) (import)_: Dabhol, Dahej, Dhamra, Ennore, Hazira, Kochi, Mundra
 
 **Military and security forces**<br>
 Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Defense Security Corps<br><br>Ministry of Home Affairs: Central Armed Police Forces (includes Assam Rifles, Border Security Force, Central Industrial Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, National Security Guards, Sashastra Seema Bal) (2023)<br>
-<strong>note 1:</strong> the Defense Security Corps provides security for Ministry of Defense sites<br><br><strong>note 2: </strong>the Border Security Force (BSF) is responsible for the Indo-Pakistan and Indo-Bangladesh borders; the Sashastra Seema Bal (SSB or Armed Border Force) guards the Indo-Nepal and Indo-Bhutan borders<br><br><strong>note 3:</strong> the Central Reserve Police Force (CRPF) includes a Rapid Reaction Force (RAF) for riot control and the Commando Battalion for Resolute Action (COBRA) for counter-insurgency operations <br><br><strong>note 4:</strong> the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (specifically the Indian Army)<br>
+<strong>note 1:</strong> the Defense Security Corps provides security for Ministry of Defense sites<br><br><strong>note 2: </strong>the Border Security Force (BSF) is responsible for the Indo-Pakistan and Indo-Bangladesh borders; the Sashastra Seema Bal (SSB or Armed Border Force) guards the Indo-Nepal and Indo-Bhutan borders<br><br><strong>note 3:</strong> the Central Reserve Police Force (CRPF) includes a Rapid Reaction Force (RAF) for riot control and the Commando Battalion for Resolute Action (COBRA) for counter-insurgency operations <br><br><strong>note 4:</strong> the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (specifically the Indian Army)<br><br><strong>note 5:</strong> the Territorial Army (TA) is a military reserve force composed of part-time volunteers who provide support services to the Indian Army; it is a part of Regular Army with the role of relieving the Regular Army from static duties and assisting civil authorities with natural calamities and maintaining essential services in emergencies, as well as providing units for the Regular Army as required<br>
 
 **Military expenditures**<br>
 2% of GDP (2023 est.)<br>

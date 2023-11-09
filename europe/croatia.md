@@ -267,7 +267,7 @@ _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 17.03 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 15.29 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 17.49 megatons (2016 est.)<br>
 _methane emissions_: 3.98 megatons (2020 est.)<br>
 
@@ -722,7 +722,7 @@ the Armed Forces of Croatia (OSRH) are responsible for the defense of Croatia’
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Croatia joined the Schengen Zone on 1 January 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,570 (Ukraine) (as of 6 October 2023)<br>
+_refugees (country of origin)_: 23,710 (Ukraine) (as of 20 October 2023)<br>
 _stateless persons_: 2,889 (2022)<br>
 <strong>note: </strong>843,010 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
 

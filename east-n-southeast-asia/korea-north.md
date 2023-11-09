@@ -252,7 +252,7 @@ _rate of urbanization_: 0.85% annual rate of change (2020-25 est.)<br>
 _widespread lack of access_: <em>due to low food consumption levels, poor dietary diversity, and economic downturn -</em>the food security situation is expected to remain fragile, given persisting economic constraints aggravated by a below-average 2022 agricultural output (2023)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 30.4 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 41.46 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 28.28 megatons (2016 est.)<br>
 _methane emissions_: 18.68 megatons (2020 est.)<br>
 

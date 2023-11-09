@@ -262,7 +262,7 @@ _rate of urbanization_: 0.78% annual rate of change (2020-25 est.)<br>
 0.01% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 21.03 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 20.49 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 85.82 megatons (2016 est.)<br>
 _methane emissions_: 15.97 megatons (2020 est.)<br>
 
@@ -714,7 +714,7 @@ has a space program with a considerable history and largely focused on the acqui
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Chile and Peru rebuff Bolivia's reactivated claim to restore the Atacama corridor, ceded to Chile in 1884, but Chile has offered instead unrestricted but not sovereign maritime access through Chile to Bolivian natural gas; Chile rejects Peru's unilateral legislation to change its latitudinal maritime boundary with Chile to an equidistance line with a southwestern axis favoring Peru; in October 2007, Peru took its maritime complaint with Chile to the ICJ; territorial claim in Antarctica (Chilean Antarctic Territory) partially overlaps Argentine and British claims; the joint boundary commission, established by Chile and Argentina in 2001, has yet to map and demarcate the delimited boundary in the inhospitable Andean Southern Ice Field (Campo de Hielo Sur)</p><br>
+<p>Chile and Peru rebuff Bolivia's reactivated claim to restore the Atacama corridor, ceded to Chile in 1884, but Chile has offered instead unrestricted but not sovereign maritime access through Chile to Bolivian natural gas; Chile rejects Peru's unilateral legislation to change its latitudinal maritime boundary with Chile to an equidistance line with a southwestern axis favoring Peru; in October 2007, Peru took its maritime complaint with Chile to the ICJ; territorial claim in Antarctica (Chilean Antarctic Territory) partially overlaps Argentine and British claims; the joint boundary commission, established by Chile and Argentina in 2001, has yet to map and demarcate the delimited boundary in the inhospitable Southern Patagonian Ice Field (Campo de Hielo Sur)</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 457,324 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>

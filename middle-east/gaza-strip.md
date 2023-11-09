@@ -235,6 +235,7 @@ _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
+_particulate matter emissions_: 30.82 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 3.23 megatons (2016 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
@@ -505,7 +506,7 @@ the military wing of HAMAS has an estimated 20-25,000 fighters (2023)<br>
 the military wing of HAMAS is armed with light weapons, including an inventory of improvised rocket, anti-tank missile, and mortar capabilities; HAMAS acquires its weapons through smuggling or local construction and receives some military support from Iran (2023)<br>
 
 **Military - note**<br>
-since seizing control of the Gaza Strip in 2007, HAMAS has claimed responsibility for numerous rocket attacks into Israel and organized protests at the border between Gaza and Israel, resulting in violent clashes, casualties, and reprisal military actions by the Israel Defense Forces (IDF); HAMAS and Israel fought an 11-day conflict in May of 2021, which ended in an informal truce; sporadic clashes continued into 2023, including rocket attacks from Gaza and retaliatory IDF strikes; Palestine Islamic Jihad (PIJ) has conducted numerous attacks on Israel since the 1980s, including a barrage of mortar and rocket strikes in 2020, also prompting IDF counter-strikes; see Appendix T for more details on HAMAS and PIJ<br><br>in 2017, HAMAS and PIJ announced the formation of a "joint operations room" to coordinate the activities of their armed wings; by late 2020, the formation consisted of 12 militant groups operating in Gaza and had conducted its first joint training exercise (2023)<br>
+since seizing control of the Gaza Strip in 2007, HAMAS has had repeated clashes with Israel, including armed conflicts in 2008-2009, 2012, 2014, 2021, and 2023; Palestine Islamic Jihad (PIJ) also operates in the Gaza Strip and has cooperated with HAMAS; see Appendix T for more details on HAMAS and PIJ (2023)<br>
 
 ## Terrorism
 

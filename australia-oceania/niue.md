@@ -206,7 +206,7 @@ _urban population_: 48.2% of total population (2023)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 11.47 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 6.74 micrograms per cubic meter (2019 est.)<br>
 
 **Total renewable water resources**<br>
 0 cubic meters (2017 est.)<br>

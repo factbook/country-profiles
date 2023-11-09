@@ -286,7 +286,7 @@ _widespread lack of access_: <em>due to internal conflict in eastern regions and
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 37.62 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 31.58 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 2.02 megatons (2016 est.)<br>
 _methane emissions_: 61.24 megatons (2020 est.)<br>
 
@@ -747,7 +747,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo<br><br><em>Democratic Republic of Congo(DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo(DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Democratic Republic of Congo(DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo(DRC)-Angola: </em>DRC accuses Angola of shifting monuments</p><br>
+<p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo<br><br><em>Democratic Republic of Congo (DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo (DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; the Ugandan-origin Allied Democratic Forces (ADF; aka Islamic State of Iraq and ash-Sham in the DRC) operates on both sides of the border<br><br><em>Democratic Republic of Congo (DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo (DRC)-Angola: </em>DRC has accused Angola of shifting monuments<br><br><em>Democratic Republic of Congo (DRC)-Rwanda:</em> the DRC has accused Rwanda of backing the armed separatist group March 23 Movement (aka M23 or Congolese Revolutionary Army)<br> <br><em>Democratic Republic of Congo (DRC)-Burundi:</em> multiple armed groups originating from Burundi operate in the DRC</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 211,882 (Central African Republic), 208,328 (Rwanda), 53,164 (South Sudan) (refugees and asylum seekers), 43,250 (Burundi) (2023)<br>
