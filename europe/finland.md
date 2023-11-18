@@ -268,7 +268,7 @@ _rate of urbanization_: 0.42% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 5.88 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 5.47 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 45.87 megatons (2016 est.)<br>
 _methane emissions_: 4.46 megatons (2020 est.)<br>
 
@@ -726,7 +726,7 @@ the Finnish Defense Forces (FDF) are focused primarily on territorial defense, w
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
+various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 61,520 (Ukraine) (as of 24 September 2023)<br>

@@ -264,7 +264,7 @@ _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 7.02 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 6.3 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 41.02 megatons (2016 est.)<br>
 _methane emissions_: 4.81 megatons (2020 est.)<br>
 
@@ -715,7 +715,7 @@ the Norwegian Armed Forces (Forsvaret) are responsible for protecting Norway and
 the Norwegian Space Agency (NOSA, aka Norsk Romsenter; established 1987) (2023)<br>
 
 **Space launch site(s)**<br>
-And&oslash;ya Space Center (And&oslash;ya Island; established 1962, privatized 1997) (2023)<br>
+And&oslash;ya Space Center (And&oslash;ya Island; note - first operational spaceport in continental Europe) (2023)<br>
 
 **Space program overview**<br>
 has a broad and active space program coordinated with the European Space Agency (ESA) and the EU; jointly designs and builds satellites with foreign partners, including communications, remote sensing (RS), scientific, and navigational/positional; operates satellites; develops and launches sounding rockets; researches and produces a range of other space-related technologies, including satellite/space launch vehicle (SLV) and space station components, telescopes, and robotics; conducts solar and telecommunications research; participates in international space programs, such as the International Space Station; hosts training for Mars landing missions on the island of Svalbard; active member of the ESA and cooperates with a variety of foreign space agencies and industries, including those of Canada, ESA/EU member states, Japan, Russia, and the US; has an active and advanced space industry that cooperates with both the NOSA and foreign space programs and produces a variety of space-related products, from terminals for satellite communications and technologies for RS satellites to sensors for gamma radiation in deep space (2023)<br>
@@ -727,6 +727,6 @@ has a broad and active space program coordinated with the European Space Agency 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 56,970 (Ukraine) (as of 30 August 2023)<br>
+_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 56,970 (Ukraine) (as of 23 October 2023)<br>
 _stateless persons_: 3,901 (2022)<br>
 

@@ -258,7 +258,7 @@ _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 0.04% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 15.69 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 14.62 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 62.43 megatons (2016 est.)<br>
 _methane emissions_: 9.8 megatons (2020 est.)<br>
 
@@ -717,12 +717,12 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy</p><br>
+<p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; Greece has a security wall along a portion of its land border with Turkey to deter border crossings by migrants and has announced intentions to extend the wall along the entire border</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 25,050 (Ukraine) (as of 30 June 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,266,725 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
+<strong>note:</strong> 1,269,567 estimated refugee and migrant arrivals (January 2015-November 2023)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

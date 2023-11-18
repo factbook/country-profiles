@@ -264,7 +264,7 @@ _rate of urbanization_: 0.59% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 12.07 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 10.74 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 170.78 megatons (2016 est.)<br>
 _methane emissions_: 17.79 megatons (2020 est.)<br>
 
@@ -339,13 +339,13 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER (since 30 April 2013); Heir Apparent Princess CATHARINA-AMALIA (daughter of King WILLEM-ALEXANDER, born 7 December 2003)<br>
-_head of government_: Prime Minister Mark RUTTE (since 14 October 2010); Deputy Prime Ministers Sigrid KAAG and Wopke HOEKSTRA (since 10 January 2022), Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE's ruling coalition collapsed on 8 July 2023; he is serving as prime minister in a caretaker status until new elections in November 2023<br>
+_head of government_: Prime Minister Mark RUTTE (since 14 October 2010); Deputy Prime Ministers Sigrid KAAG and Wopke HOEKSTRA (since 10 January 2022), Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE's ruling coalition collapsed on 8 July 2023; he is serving as prime minister in a caretaker status until new elections on 22 November 2023<br>
 _cabinet_: Council of Ministers appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or majority coalition is usually appointed prime minister by the monarch; deputy prime ministers are appointed by the monarch<br>
 
 **Legislative branch**<br>
 _description_: bicameral States General or Staten Generaal consists of:<br>Senate or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial council members by proportional representation vote; members serve 4-year terms)<br>House of Representatives or Tweede Kamer (150 seats; members directly elected in multi-seat constituencies by open-list proportional representation vote to serve up to 4-year terms)<br>
-_elections_: Senate - last held on 30 May 2023 (next to be held in May 2027)<br>House of Representatives - last held on 15-17 March 2021 (next to be held in November 2023)<br>
+_elections_: Senate - last held on 30 May 2023 (next to be held in May 2027)<br>House of Representatives - last held on 15-17 March 2021 (next to be held on 22 November 2023)<br>
 _election results_: <br>Senate - percent of vote by party - BBB 21.3%, VVD 13.3%, GL 9.3%, PvdA 9.3%, CDA 8.0%, D66 6.7%, PVV 5.3%, SP 4.0%, CU 4.0%, PvdD 4.0%, JA21 4.0%, Volt 2.7%, SGP 2.7%,  FvD 2.7%, other 2.6%; seats by party - BBB 16, VVD 10, GL 7, PvdA 7, CDA 6, D66 5, PVV 4, SP 3, CU 3, PvdD 3, JA21 3, Volt 2, SGP 2, FvD 2 other 2; composition (as of May 2023) - men 45, women 30, percent of women 40%<br>House of Representatives - percent of vote by party - VVD 22.7%, D66 16%, PVV 11.3%, CDA 9.3%, SP 6%, PvdA 6%, GL 5.3%, FvD 3.3%, PvdD 4%, CU 3.3%, Denk 2%, SGP 2%, JA21 2%, other 5.3%; seats by party - VVD 34, D66 24, PVV 17, CDA 14, GL 8, PvdD 6, PvdA 9, SP 9, CU 5, FvD 5, Denk 3, SGP 3, JA21 3, other 8; composition (as of September 2021) - men 89, women 61, percent of women 40.7%; note - total States General percent of women 37.3%<br>
 
 **Judicial branch**<br>

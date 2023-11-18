@@ -278,7 +278,7 @@ _severe localized food insecurity_: <em>due to reduced incomes - </em>levels of
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 22.43 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 37.57 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 3 megatons (2016 est.)<br>
 _methane emissions_: 11.13 megatons (2020 est.)<br>
 
@@ -702,13 +702,10 @@ the inventory of the Guinean military consists largely of aging and outdated (mo
 **Military - note**<br>
 the Guinean military is a small and lightly armed force that is responsible for external defense, but also has some domestic security responsibilities and has historically been involved in suppressing public protests; the military has undergone some attempts at reform since 2010, but in 2021 the Army&rsquo;s special forces led a successful coup; the Army has a mix of approximately 10 infantry, light armor, commando, and special forces battalions, as well as a presidential guard force; piracy and natural resource protection in the Gulf of Guinea are key areas of concern for the small Navy, which possesses only a few patrol boats; the Air Force has a handful of serviceable aircraft, including helicopter gunships (2023)<br>
 
-**Maritime threats**<br>
-the International Maritime Bureau reported no incidents in the territorial and offshore waters of Guinea in 2022; the offshore waters of the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; past incidents have been reported where vessels were attacked and crews kidnapped; these incidents showed that the pirates / robbers in the area are well armed and violent; pirates have robbed vessels and kidnapped crews for ransom; in the past, product tankers were hijacked and cargo stolen; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 3 January 2023, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>
-
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Sierra Leone considers Guinea's definition of the flood plain limits to define the left bank boundary of the Makona and Moa Rivers excessive and protests Guinea's continued occupation of these lands, including the hamlet of Yenga, occupied since 1998</p><br>
+<em>Guinea-Liberia: </em>the border is not disputed and there is joint border management, although the border is porous and there have been occasional disputes relating to military encroachments and use of the boundary rivers<br><br><em>Guinea-Mali: </em>the border is not disputed, although there have been periodic clashes between border communities over land rights and access to natural resources<br>
 
 **Illicit drugs**<br>
 NA<br>

@@ -94,7 +94,7 @@ Hungarian (official) 99.6%, English 16%, German 11.2%, Russian 1.6%, Romanian 1.
 _major-language sample(s)_: <br>A World Factbook nélkülözhetetlen forrása az alapvető információnak.  (Hungarian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 37.2%, Calvinist 11.6%, Lutheran 2.2%, Greek Catholic 1.8%, other 1.9%, none 18.2%, no response 27.2% (2011 est.)<br>
+Catholic 30.1% (Roman Catholic 27.5%, Greek Catholic 1.7%, other Catholic 0.9%), Calvinist 9.8%, Lutheran 1.8%, other Christian (includes Orthodox) 1.6%, other 0.4%, none 16.1%, no answer 40.1% (2022 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 14.24% (male 709,089/female 668,143)<br>
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 53,375 (Ukraine) (as of 15 October 2023)<br>
+_refugees (country of origin)_: 53,375 (Ukraine) (as of 5 November 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

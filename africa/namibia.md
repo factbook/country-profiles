@@ -274,7 +274,7 @@ _severe localized food insecurity_: <em><em>due to localized shortfalls in cerea
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 22.59 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 11.81 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 4.23 megatons (2016 est.)<br>
 _methane emissions_: 10.4 megatons (2020 est.)<br>
 

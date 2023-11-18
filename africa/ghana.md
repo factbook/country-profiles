@@ -282,7 +282,7 @@ _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 31.95 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 46.04 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 16.67 megatons (2016 est.)<br>
 _methane emissions_: 22.75 megatons (2020 est.)<br>
 
@@ -720,9 +720,6 @@ the military's inventory is a mix older and some newer Russian, Chinese, and Wes
 **Military - note**<br>
 the military’s primary missions are border defense, assisting with internal security, peacekeeping, and protecting the country’s territorial waters, particularly its offshore oil and gas infrastructure; it has benefited from cooperation with foreign partners, such as the UK and the US, and experience gained from participation in multiple international peacekeeping missions; the government in recent years has committed to an increase in funding for equipment acquisitions, including armor, mechanized, and special forces capabilities for the Army, light attack aircraft for the Air Force, and more modern coastal patrol vessels for the Navy; the Army’s primary combat forces include several battalions of light infantry, a motorized rapid reaction/presidential guard battalion, and small regiments of light armored reconnaissance and special forces; the Navy has 2 ocean-going patrol vessels, several coastal patrol craft, and a special forces unit, while the Air Force operates a few ground attack aircraft and multipurpose helicopters<br> <br>in 2022, Ghana began beefing up its military presence in the north of the country against threats from the terrorist organization Jama’at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups, which has conducted attacks in the neighboring countries of Burkina Faso, Cote d'Ivoire, and Togo; Ghana’s northern frontier with Burkina Faso is also an area with well-established smuggling routes, porous borders, and illegal gold mining; Ghana has also pushed an initiative to bolster security cooperation and intelligence sharing among Gulf of Guinea neighbors and Sahel countries <br><br>the military traces its origins to the Gold Coast Constabulary that was established in 1879 and renamed the Gold Coast Regiment in 1901; the Gold Coast Regiment was part of the West African Frontier Force (WAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the WAFF served with distinction in both East and West Africa during World War I; in 1928, it received royal recognition and was re-named the Royal West African Frontier Force (RWAFF); the RWAFF went on to serve in World War II as part of the British 81st and 82nd (West African) divisions in the East Africa and Burma campaigns; following independence in 1957, the Gold Coast Regiment formed the basis for the new Ghanaian Army (2023)<br>
 
-**Maritime threats**<br>
-<p>the International Maritime Bureau reported seven incidents in the territorial and offshore waters of Ghana in 2022, which was an increase over the five incidents reported in 2021; the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; past incidents include vessels that were attacked and crews kidnapped; these incidents showed that the pirates / robbers in the area are well armed and violent; pirates have robbed vessels and kidnapped crews for ransom; in the past, product tankers were hijacked and cargo stolen; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-008 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 30 June 2023, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"</p><br>
-
 ## Space
 
 **Space agency/agencies**<br>
@@ -735,7 +732,7 @@ has a small, nascent space program focused on research in space sciences and exp
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>disputed maritime border between Ghana and Cote d'Ivoire</p><br>
+disputed maritime border with Cote d'Ivoire was resolved in 2017 through a decision of a Special Chamber of the International Tribunal for the Law of the Sea (ITLOS)<br>
 
 **Illicit drugs**<br>
 <p>Ghana is a transit and destination point for illicit drugs trafficked from Asia and South America to other African countries, Europe, and to a lesser extent North America;  not a significant source for drugs entering the United States;  limited local consumption of controlled pharmaceuticals, cocaine, and heroin from Asia and South America; cannabis cultivated and produced in large quantities in most rural areas of Ghana  </p> <p> </p><br>

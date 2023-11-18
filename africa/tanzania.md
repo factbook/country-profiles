@@ -287,7 +287,7 @@ _severe localized food insecurity_: <em>due to localized shortfalls in staple fo
 0.02% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 25.59 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 15.36 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 11.97 megatons (2016 est.)<br>
 _methane emissions_: 59.08 megatons (2020 est.)<br>
 
@@ -730,9 +730,6 @@ the TPDF's inventory includes mostly Soviet-era and Chinese equipment; in recent
 
 **Military - note**<br>
 the TDPF&rsquo;s primary concerns are maritime piracy and smuggling, border security, terrorism, animal poaching, and spillover from instability in neighboring countries, particularly Mozambique and the Democratic Republic of the Congo (DRC); it participates in multinational training exercises, regional peacekeeping deployments, and has ties with a variety of foreign militaries, including those of China and the US; it has contributed troops to the UN&rsquo;s Force Intervention Brigade in the DRC and to the Southern African Development Community intervention force in Mozambique; since 2020, the TPDF has deployed additional troops to its border with Mozambique following several cross-border attacks by fighters from the Islamic State of Iraq and ash-Sham operating in Mozambique; the TPDF&rsquo;s principal ground forces are 5 infantry brigades and an armored brigade; the Naval Forces operate patrol and fast attack boats, while the Air Force inventory includes small numbers of combat aircraft and helicopters (2023)<br>
-
-**Maritime threats**<br>
-<p>the International Maritime Bureau reported no piracy attacks in the territorial and offshore waters of Tanzania in 2022; although the opportunity for incidents has reduced, the Somali pirates continue to possess the capability and capacity to carry out incidents; in the past, vessels have also been targeted off Kenya, Tanzania, Seychelles, Madagascar, Mozambique, as well as in the Indian ocean, and off the west and south coasts of India and west Maldives; generally, Somali pirates tend to be well armed with automatic weapons, RPGs and sometimes use skiffs launched from mother vessels, which may be hijacked fishing vessels or dhows; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-003 - Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Gulf of Aden, Bab al Mandeb Strait, Red Sea, and Somali Basin-Threats to Commercial Vessels) effective 23 February 2023, which states in part that "Regional conflict, military activity, and political tensions pose threats to commercial vessels operating in the above listed geographic areas" that shipping in territorial and offshore waters in the Indian Ocean remain at risk for piracy and armed robbery against ships</p><br>
 
 ## Terrorism
 

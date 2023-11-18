@@ -263,7 +263,7 @@ _rate of urbanization_: 2.27% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 38.51 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 26.29 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 5.32 megatons (2016 est.)<br>
 _methane emissions_: 1.13 megatons (2020 est.)<br>
 
@@ -334,7 +334,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: Transitional President Gen. Brice OLIGUI Nguema (since 4 September 2023); note - on 30 August 2023, Gen. Brice OLIGUI Nguema led a military group called the Committee for the Transition and Restoration of Institutions in a coup in which President Ali BONGO Ondimba was arrested and detained, election results were canceled, and state institutions dissolved; on 4 September 2023, Gen. OLIGUI was sworn in as transitional president<br>
 _head of government_: Interim Prime Minister Raymond Ndong SIMA (since 8 September 2023)<br>
 _cabinet_: formerly the Council of Ministers, appointed by the prime minister in consultation with the president<br>
-_elections/appointments_: formerly, the president directly elected by plurality vote for a 5-year term (no term limits); election last held on 26 August 2023; prime minister appointed by the president; note - on 30 August 2023, Gen. Brice OLIGUI Nguema led a military group called Committee for the Transition and Restoration of Institutions in a coup in which President Ali BONGO Ondimba was arrested and detained, election results were canceled, and state institutions dissolved; on 4 September 2023, OLIGUI was sworn in as transitional president<br>
+_elections/appointments_: formerly, the president directly elected by plurality vote for a 5-year term (no term limits); election last held on 26 August 2023; prime minister appointed by the president; note - on 30 August 2023, Gen. Brice OLIGUI Nguema led a military group called Committee for the Transition and Restoration of Institutions in a coup in which President Ali BONGO Ondimba was arrested and detained, election results were canceled, and state institutions dissolved; on 4 September 2023, OLIGUI was sworn in as transitional president; a general election is planned for August 2025<br>
 _election results_: <em><br>2016: </em>Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br><br><em>2009: </em>Ali BONGO Ondimba elected president; percent of vote - Ali BONGO Ondimba (PDG) 41.7%, Andre MBA OBAME (independent) 25.9%, Pierre MAMBOUNDOU (UPG) 25.2%, Zacharie MYBOTO (UGDD) 3.9%, other 3.3% <p> </p><br>
 
 **Legislative branch**<br>
@@ -691,9 +691,6 @@ the Gabonese military is lightly armed with a mix of equipment from a variety of
 **Military - note**<br>
 the Gabonese military is a small and lightly-armed force that is responsible for both external and internal security; in August 2023, it seized control of the government in a coup; some members of the military attempted a failed coup in 2019; the Army&rsquo;s core forces are the Republican Guard and an airborne infantry battalion, which are supported by several small regionally-based infantry units; the Gendarmerie has regionally-based &ldquo;legions,&rdquo; as well as mobile forces, a national parks security unit, and a special intervention group; the Air Force has a small number of older French-made fighter aircraft and some combat helicopters, also mostly of French origin; the Navy has a small force of patrol boats (2023)<br>
 
-**Maritime threats**<br>
-the International Maritime Bureau reported no incidents in 2022 in the waters off Gabon; the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; past incidents have been reported where vessels were attacked and crews kidnapped; these incidents showed that the pirates / robbers in the area are well armed and violent; pirates have robbed vessels and kidnapped crews for ransom; in the past, product tankers were hijacked and cargo stolen; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-008 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 30 June 2023, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>
-
 ## Space
 
 **Space agency/agencies**<br>
@@ -706,7 +703,7 @@ has a small space program focused on the acquisition, processing, analysis, and 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>UN urges Equatorial Guinea and Gabon to resolve the sovereignty dispute over Gabon-occupied Mbane Island and lesser islands and to establish a maritime boundary in hydrocarbon-rich Corisco Bay</p><br>
+<p>dispute with Equatorial Guinea over Mbane Island and lesser islands in the Corisco Bay submitted to ICJ in 2016</p><br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Gabon does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials increased funding and capacity at an NGO-run shelter for victims, and also increased prosecutions and convictions of alleged traffickers; however, the government did not demonstrate overall increasing efforts, compared to the previous year, to expand its anti-trafficking capacity; authorities did not report any referrals of victims to services and did not report efforts to identify, protect, or provide justice for adult victims&mdash;potential efforts that have been inadequate for several years; for the fourth consecutive year, the government did not adopt its anti-trafficking National Action Plan and lacked inter-ministerial coordination; officials did not report investigating allegations of judicial corruption related to trafficking crimes; therefore, Gabon remained on Tier 2 Watch List for the second consecutive year (2023)<br>

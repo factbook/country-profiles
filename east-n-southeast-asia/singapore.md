@@ -262,7 +262,7 @@ _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 18.26 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 13.33 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 37.54 megatons (2016 est.)<br>
 _methane emissions_: 4.4 megatons (2020 est.)<br>
 
@@ -693,9 +693,6 @@ maintains permanent training detachments of military personnel in Australia, Fra
 
 **Military - note**<br>
 the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965 and is today widely viewed as the best equipped military in Southeast Asia; the SAF’s primary responsibility is external defense, but it has trained for certain domestic security operations, including joint deterrence patrols with police in instances of heightened terrorism alerts; the Army is organized into 3 combined arms divisions and a “people’s defense force,” a divisional headquarters responsible for homeland security and counterterrorism; the Army is based largely on 2-year conscripts and reservists with a small cadre of professional soldiers, and Army units are comprised of a mix of active duty and cadre/reserve battalions that are filled out by reservists upon mobilization; the Air Force and Navy are primarily comprised of professionals; the Air Force has over 100 modern US-origin combat aircraft, plus squadrons for anti-submarine warfare, maritime patrol, early warning, surveillance, and logistical support, as well as unmanned aerial vehicles and attack helicopters; the Navy’s principal combat vessels are a mix of about 20 frigates, corvettes, and littoral combat ships (comparable to a corvette in capabilities), plus a few submarines <br><br>Singapore is a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily (2023)<br>
-
-**Maritime threats**<br>
-the International Maritime Bureau reported that incidents in the Singapore Straits continue to increase year on year with 38 in 2022 compared to 35 in 2021; vessels were successfully boarded in all 38 incidents in 2022; while the majority of vessels boarded reported incidents as predominately low-level opportunistic thefts, four crew were taken hostage and a further two threatened during these incidents; the majority of incidents were reported during the hours of darkness and while vessels were underway; the territorial and offshore waters in the South China Sea remain a high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift<br>
 
 ## Space
 

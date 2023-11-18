@@ -281,7 +281,7 @@ _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 1.06% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 15.58 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 19.34 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 563.32 megatons (2016 est.)<br>
 _methane emissions_: 244.5 megatons (2020 est.)<br>
 
@@ -357,7 +357,7 @@ _residency requirement for naturalization_: 5 continuous years<br>
 _chief of state_: President Joko "Jokowi" WIDODO (since 20 October 2014); Vice President Ma'ruf AMIN (since 20 October 2019); note - the president is both chief of state and head of government<br>
 _head of government_: President Joko "Jokowi" WIDODO (since 20 October 2014); Vice President Ma'ruf AMIN (since 20 October 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on 17 April 2019 (next to be held in February 2024)<br>
+_elections/appointments_: president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on 17 April 2019 (next to be held on 14 February 2024)<br>
 _election results_: <em><br>2019</em>: Joko WIDODO elected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%<br><br><em>2014</em>: Joko WIDODO elected president; percent of vote - Joko WIDODO (PDI-P) 53.15%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 46.85%<br>
 
 **Legislative branch**<br>
@@ -739,9 +739,6 @@ the military's inventory is a wide mix of Chinese, Russian, and Western (includi
 
 **Military - note**<br>
 the military is responsible for external defense, combatting separatism, and responding to natural disasters; in certain conditions it may provide operational support to police, such as for counterterrorism operations, maintaining public order, and addressing communal conflicts; the TNI has undergone reforms since the 1990s to improve its professionalism and limit its involvement in internal politics; the infantry-heavy Army is the largest service and deployed throughout the country in 14 area (KODAM) and three joint area (KOGABWILHAN) defense commands; it also has a special forces command (KOPASSUS) and three strategic reserve (KOSTRAD) infantry division headquarters; as of 2023, the Army was conducting counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since Indonesia annexed the former Dutch colony in the 1960s; it has also been assisting police in Sulawesi in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local militant group affiliated with the Islamic State of Iraq and ash-Sham (ISIS); the Navy is organized and equipped for coastal defense and patrolling Indonesia’s territorial waters where it faces such issues as piracy, transnational crime, illegal fishing, and incursions by Chinese vessels; its warships include more than 30 frigates and corvettes and a substantial number of patrol vessels, plus a handful of attack-type submarines; the Navy also has a maritime aviation component and an amphibious force with several marine infantry brigades and amphibious assault ships; the Air Force has more than 100 combat aircraft <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, and held military exercises in the surrounding waters (2023)<br>
-
-**Maritime threats**<br>
-the International Maritime Bureau continues to report the territorial and offshore waters in the Strait of Malacca and South China Sea as high risk for piracy and armed robbery against ships; the number of attacks in Indonesia increased to ten incidents in 2022 compared to nine in 2021; aggressive maritime patrolling by regional authorities has reduced the frequency of attacks in recent years; vessels continue to be boarded while anchored or berthed at Indonesian ports; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>
 
 ## Space
 

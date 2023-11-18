@@ -269,7 +269,7 @@ _rate of urbanization_: 2.59% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 23.59 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 20.75 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 16.78 megatons (2016 est.)<br>
 _methane emissions_: 10.7 megatons (2020 est.)<br>
 
@@ -714,7 +714,7 @@ the military is responsible for maintaining sovereignty, territorial integrity, 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Guatemala-Belize: </em>Demarcated but insecure boundary due to Guatemala’s claims to more than half of Belizean territory.  Line of Adjacency operates in lieu of an international boundary to control influx of Guatemalan squatters onto Belizean territory. Smuggling, narcotics trafficking, and human trafficking for sexual exploitation and debt bondage are all problems. Belize lacks resources to detect and extradite impoverished Guatemalan peasants squatting in Belizean rain forests in the remote border areas. Both countries agreed in April 2012 to hold simultaneous referenda, scheduled for 6 October 2013, to decide whether to refer the dispute to the ICJ for binding resolution, but this vote was suspended indefinitely. At present, Belize and Honduras 12-nm territorial sea claims close off Guatemalan access to Caribbean in the Bahia de Amatique. Maritime boundary remains unresolved pending further negotiation.<br><em><br>Guatemala-</em><em>Mexico: </em>Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US.</p><br>
+<p><em>Guatemala-Belize: </em>demarcated but disputed boundary due to Guatemala’s claims to more than half of Belizean territory; line of Adjacency operates in lieu of an international boundary to control influx of Guatemalan squatters onto Belizean territory; smuggling, narcotics trafficking, and human trafficking are also problems; the dispute was referred to the ICJ in 2019 for binding resolution; the 12-nm territorial sea claims of Belize and Honduras close off Guatemalan access to Caribbean in the Bahia de Amatique; maritime boundary remains unresolved pending further negotiation<br><em><br>Guatemala-</em><em>Mexico: </em>thousands of impoverished Guatemalans and other Central Americans cross the porous border with Mexico looking for work in Mexico and the US</p><br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 242,000 (more than three decades of internal conflict that ended in 1996 displaced mainly the indigenous Maya population and rural peasants; ongoing drug cartel and gang violence) (2022)<br>

@@ -236,7 +236,7 @@ _rate of urbanization_: 0.86% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 21.56 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 10.08 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 0.27 megatons (2016 est.)<br>
 _methane emissions_: 2.04 megatons (2020 est.)<br>
 
@@ -607,7 +607,7 @@ Grenada joined the Caribbean Regional Security System (RSS) in 1985; RSS signato
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+none identified<br>
 
 **Illicit drugs**<br>
 <p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>

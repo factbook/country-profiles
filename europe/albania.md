@@ -269,7 +269,7 @@ _rate of urbanization_: 1.29% annual rate of change (2020-25 est.)<br>
 0.03% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 17.87 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 16.28 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 4.54 megatons (2016 est.)<br>
 _methane emissions_: 2.55 megatons (2020 est.)<br>
 
@@ -713,7 +713,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 1,948 (2022)<br>
-<strong>note:</strong> 46,570 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
+<strong>note:</strong> 46,944 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis and an active transshipment point for Albanian narco-trafficking organizations moving illicit drugs into European markets</p><br>

@@ -168,7 +168,7 @@ defense is the responsibility of Australia; Australia conducts fisheries patrols
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+none identified<br>
 
 **Illicit drugs**<br>
 NA<br>

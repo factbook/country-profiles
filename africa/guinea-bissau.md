@@ -262,7 +262,7 @@ _rate of urbanization_: 3.22% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 27.12 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 34.85 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 0.29 megatons (2016 est.)<br>
 _methane emissions_: 1.46 megatons (2020 est.)<br>
 
@@ -662,7 +662,7 @@ the FARP is focused on external security, but also has some internal security du
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>a longstanding low-grade conflict continues in parts of Casamance, in Senegal across the border; some rebels use Guinea-Bissau as a safe haven</p><br>
+<em>Guinea-Bissau - Senegal:</em> there are no border disputes and the frontier is relatively stable although some rebels conducting a longstanding low-grade insurgency in the southern Casamance region of Senegal have used Guinea-Bissau as a safe haven<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 7,757 (Senegal) (2022)<br>

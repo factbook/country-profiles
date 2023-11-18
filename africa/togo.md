@@ -277,7 +277,7 @@ _rate of urbanization_: 3.6% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 32.71 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 35.66 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 3 megatons (2016 est.)<br>
 _methane emissions_: 3.06 megatons (2020 est.)<br>
 
@@ -711,9 +711,6 @@ the FAT has a small, mixed inventory of mostly older equipment from a variety of
 
 **Military - note**<br>
 since its creation in 1963, the Togolese military has had a history of interfering in the country’s politics with assassinations, coups, influence, and a large military crackdown in 2005 that killed hundreds; over the past decade, however, it has made some efforts to reform and professionalize, as well as increase its role in UN peacekeeping activities; Togo maintains a regional peacekeeping training center for military and police in Lome; the military participates in multinational exercises and has received training from foreign partners, including France and the US<br><br>the FAT’s current focuses are primarily terrorism and maritime security; in recent years, it has increased operations in the northern border region of the country to boost border security and prevent terrorist infiltrations from Jama'at Nasr al-Islam wal Muslimin (JNIM), a coalition of al-Qa'ida-affiliated militant groups based in Mali that also operates in neighboring Burkina Faso; in 2022, the Togolese Government declared a state of emergency in the north due to the threat from JNIM following an attack on a Togolese military post that killed several soldiers; the Navy and Air Force have increased focus on combating piracy and smuggling in the Gulf of Guinea<br><br>the Army has a mixed force of small, lightly-armed combined arms, infantry, and commando regiments, as well as a rapid reaction force; the Gendarmerie includes mobile, regionally-based, and maritime units; the Navy operates a few patrol boats while the Air Force has a small inventory of training, light attack-capable, and transport aircraft, as well as combat helicopters and a few armed UAVs acquired from Turkey in 2022 (2023)<br>
-
-**Maritime threats**<br>
-for a second year the International Maritime Bureau reported no incidents in 2022 in the territorial and offshore waters of Togo; past incidents have been reported where vessels were attacked and crews kidnapped; these incidents showed that the pirates / robbers in the area are well armed and violent; pirates have robbed vessels and kidnapped crews for ransom; in the past, product tankers were hijacked and cargo stolen; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-008 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 30 June 2023, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>
 
 ## Terrorism
 

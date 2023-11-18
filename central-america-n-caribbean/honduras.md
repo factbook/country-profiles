@@ -270,7 +270,7 @@ _rate of urbanization_: 2.48% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 20.12 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 18.93 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 9.81 megatons (2016 est.)<br>
 _methane emissions_: 7.72 megatons (2020 est.)<br>
 
@@ -707,7 +707,7 @@ the Honduran Armed Forces (FFAA) are responsible for maintaining the country’s
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Honduras-El Salvador:</em> International Court of Justice (ICJ) ruled on the delimitation of "bolsones" (disputed areas) along the El Salvador-Honduras border in 1992 with final settlement by the parties in 2006 after an Organization of American States survey and a further ICJ ruling in 2003; the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca with consideration of Honduran access to the Pacific; El Salvador continues to claim tiny Conejo Island, not mentioned in the ICJ ruling, off Honduras in the Gulf of Fonseca. <br><em><br>Honduras-Belize:</em> Honduras claims the Belizean-administered Sapodilla Cays off the coast of Belize in its constitution, but agreed to a joint ecological park around the cays should Guatemala consent to a maritime corridor in the Caribbean under the OAS-sponsored 2002 Belize-Guatemala Differendum</p><br>
+<em>Honduras-El Salvador:</em> International Court of Justice (ICJ) ruled on the delimitation of "bolsones" (disputed areas) along the El Salvador-Honduras border in 1992 with final settlement by the parties in 2006 after an Organization of American States survey and a further ICJ ruling in 2003; the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca with consideration of Honduran access to the Pacific; El Salvador continues to claim tiny Conejo Island, not mentioned in the ICJ ruling, off Honduras in the Gulf of Fonseca. <br><em><br>Honduras-Belize:</em> Honduras claims the Belizean-administered Sapodilla Cays off the coast of Belize in its constitution, but agreed to a joint ecological park around the cays should Guatemala consent to a maritime corridor in the Caribbean under the OAS-sponsored 2002 Belize-Guatemala Differendum<br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 247,000 (violence, extortion, threats, forced recruitment by urban gangs between 2004 and 2018) (2023)<br>

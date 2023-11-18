@@ -701,7 +701,7 @@ the Defense Forces of Georgia (DFG) are responsible for protecting the independe
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
+Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia; Russia maintains military bases and troops in Abkhazia and South Ossetia<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 27,000 (Ukraine) (as of 4 October 2023)<br>

@@ -574,5 +574,5 @@ defense is the responsibility of France; France maintains forces (about 900 troo
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 

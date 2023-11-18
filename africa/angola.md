@@ -266,7 +266,7 @@ _rate of urbanization_: 4.04% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 27.95 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 27.16 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 34.69 megatons (2016 est.)<br>
 _methane emissions_: 23.28 megatons (2020 est.)<br>
 
@@ -717,9 +717,6 @@ in 2023, Angola agreed to send 500 troops to the Democratic Republic of the Cong
 
 **Military - note**<br>
 the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA); the current force is responsible for country&rsquo;s external defense but also has some domestic security responsibilities, including border protection, expulsion of irregular migrants, and small-scale counterinsurgency operations against groups like the Front for the Liberation of the Enclave of Cabinda separatists in Cabinda; the Army is one of the largest in the region with six infantry divisions spread amongst six military regions; it is also one of the better equipped, with a significant portion of its units being motorized and supported by approximately 300 Soviet-era tanks, largely acquired in the 1980s and 1990s; the Air Force is also one of the largest and best equipped in the region with a fleet of approximately 100 combat aircraft, plus a substantial inventory of transport aircraft and helicopter gunships; while naval modernization has received more attention in recent years, the Navy remains a small force of fast attack and coastal patrol craft (2023)<br>
-
-**Maritime threats**<br>
-the International Maritime Bureau reports the territorial waters of Angola are a risk for armed robbery against ships; in 2022, five attacks against commercial vessels were reported, an increase from the four attacks in 2021; most of these occurred in the main port of Luanda while ships were berthed or at anchor<br>
 
 ## Space
 

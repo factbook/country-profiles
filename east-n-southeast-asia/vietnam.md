@@ -272,7 +272,7 @@ _rate of urbanization_: 2.7% annual rate of change (2020-25 est.)<br>
 0.35% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 29.66 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 20.89 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 192.67 megatons (2016 est.)<br>
 _methane emissions_: 110.4 megatons (2020 est.)<br>
 
@@ -720,9 +720,6 @@ the PAVN is armed largely with weapons and equipment from Russia and the former 
 
 **Military - note**<br>
 the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary<br><br>the PAVN is one of the region’s largest militaries and has participated in numerous conflicts since its founding in the mid-1940s, including the First (1946-54) and Second (1950s-1975) Indochina Wars, the Cambodian-Vietnamese War (1978-1989), and the Sino-Vietnamese War (1979); the PAVN’s current missions include protecting the country's independence, sovereignty, territorial integrity, and national interests; in recent years, it has increased focus on protecting the country’s maritime economy and sovereignty; it also assists with natural disasters and is heavily involved in economic projects, including electrical infrastructure, oil and gas services, hydroelectric projects, aviation and seaport services, telecommunications, and the shipbuilding industry, while military-owned factories and enterprises produce weapons and equipment; the Ground Forces are spread throughout the country in approximately eight regional commands, four operational corps, and dozens of divisions and brigades, including some that are maintained at cadre strength and filled in wartime by an estimated five million reserves; the Navy in recent years has received increased government focus for procurement efforts because of the rise in territorial disputes in the South China Sea and has a growing combat force of about 20 frigates, corvettes, and fast-attack surface vessels, plus eight attack submarines; the Air Force has a mix of approximately 75 Soviet-era and Russian-made combat aircraft (2023)<br>
-
-**Maritime threats**<br>
-the International Maritime Bureau reported that incidents in the territorial and offshore waters of Vietnam increased from one in 2021 to two in 2022;&nbsp; the South China Sea remains a high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>
 
 ## Space
 

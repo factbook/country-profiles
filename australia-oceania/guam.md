@@ -550,5 +550,5 @@ defense is the responsibility of the US; the US military maintains over 6,000 pe
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+none identified<br>
 

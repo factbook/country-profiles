@@ -552,5 +552,5 @@ the Government of Denmark has responsibility for defense; as such, the Danish mi
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>because anticipated offshore hydrocarbon resources have not been realized, earlier Faroese proposals for full independence have been deferred; Iceland, the UK, and Ireland dispute Denmark's claim to UNCLOS that the Faroe Islands' continental shelf extends beyond 200 nm</p><br>
+because anticipated offshore hydrocarbon resources have not been realized, earlier Faroese proposals for full independence have been deferred; Iceland, the UK, and Ireland dispute Denmark's claim to UNCLOS that the Faroe Islands' continental shelf extends beyond 200 nm<br>
 

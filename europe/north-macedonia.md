@@ -258,7 +258,7 @@ _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 28.34 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 25.17 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 7.05 megatons (2016 est.)<br>
 _methane emissions_: 2.28 megatons (2020 est.)<br>
 
@@ -689,7 +689,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 18,345 (Ukraine) (as of 1 October 2023)<br>
 _stateless persons_: 521 (2022)<br>
-<strong>note:</strong> 560,841 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
+<strong>note:</strong> 562,235 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

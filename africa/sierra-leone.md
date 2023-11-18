@@ -272,7 +272,7 @@ _severe localized food insecurity_: <em>due to high food prices and reduced inco
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 20.63 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 39.42 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 1.09 megatons (2016 est.)<br>
 _methane emissions_: 3.16 megatons (2020 est.)<br>
 
@@ -677,9 +677,6 @@ the RSLAF has a small inventory that includes a mix of Soviet-origin and other o
 
 **Military - note**<br>
 the RSLAF’s principle responsibilities are securing the borders and the country’s territorial waters, supporting civil authorities during emergencies and reconstruction efforts, and participating in peacekeeping missions; it is small, lightly armed, and has a limited budget; since being reduced in size and restructured with British assistance after the end of the civil war in 2002, it has received assistance from several foreign militaries, including those of Canada, China, France, the UK, and the US; the RSLAF has participated in peacekeeping operations in Somalia and Sudan; the Land Forces are by far the largest service with four small light infantry brigades and a separate battalion, each assigned to a separate region, including the capital; the Maritime Forces have a few small coastal and in-shore patrol boats, while the Air Wing has a handful of serviceable combat helicopters; the RSLAF operates under a Joint Forces Command<br><br>the RSLAF’s origins lie in the Sierra Leone Battalion of the Royal West African Frontier Force (RWAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the RWAFF fought in both World Wars (2023)<br>
-
-**Maritime threats**<br>
-the International Maritime Bureau reported one incident in the territorial waters of Sierra Leone in 2022 where the ship was hijacked, this was the first incident reported in two years; this incident was one of only two hijackings Worldwide in 2022; the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; past incidents have been reported where vessels were attacked and crews kidnapped; these incidents showed that the pirates / robbers in the area are well armed and violent; pirates have robbed vessels and kidnapped crews for ransom; in the past, product tankers were hijacked and cargo stolen; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 3 January 2023, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>
 
 ## Transnational Issues
 

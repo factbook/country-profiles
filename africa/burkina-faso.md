@@ -692,7 +692,8 @@ approximately 15,500 personnel (10,000 Army; 500 Air Force; 5,000 National Genda
 the FABF has a mix of mostly older or secondhand equipment from a mix of suppliers, including France, Russia, South Africa, Turkey, the UK, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service for men and women; no conscription (2023)<br>
+18-26 years of age for voluntary military service for men and women (2023)<br>
+<strong>note:</strong> the military junta implemented an emergency law in 2023 that allows the president extensive powers to combat terrorist groups operating in the country, including conscripting citizens into the security services<br>
 
 **Military deployments**<br>
 650 (plus about 200 police) Mali (MINUSMA) (2023)<br>

@@ -444,7 +444,7 @@ defense is the responsibility of the UK<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+none identified<br>
 
 **Illicit drugs**<br>
 NA<br>

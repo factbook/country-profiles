@@ -269,7 +269,7 @@ _rate of urbanization_: 2.96% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 25.66 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 33.75 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 0.12 megatons (2016 est.)<br>
 _methane emissions_: 0.04 megatons (2020 est.)<br>
 
@@ -654,9 +654,6 @@ the FASTP has a limited inventory of light weapons (2023)<br>
 
 **Military - note**<br>
 the FASTP is one of the smallest militaries in Africa and consists of only a few companies of ground troops and some small patrol boats (2023)<br>
-
-**Maritime threats**<br>
-the International Maritime Bureau reported no incidents in the territorial and offshore waters of Sao Tome and Principe in 2022; the offshore waters of the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; past incidents have been reported where vessels were attacked and crews kidnapped; these incidents showed that the pirates / robbers in the area are well armed and violent; pirates have robbed vessels and kidnapped crews for ransom; in the past, product tankers were hijacked and cargo stolen; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2023-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 3 January 2023, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>
 
 ## Transnational Issues
 

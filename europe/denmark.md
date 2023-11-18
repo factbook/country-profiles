@@ -265,7 +265,7 @@ _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 10.12 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 9.66 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 31.79 megatons (2016 est.)<br>
 _methane emissions_: 6.54 megatons (2020 est.)<br>
 
@@ -722,9 +722,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
+<p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; in 2019, Denmark signed continental shelf delimitation agreements with Iceland and Norway to parts of the continental shelf in the Ægir Basin, which is located north of the Faroe Islands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 39,680 (Ukraine) (as of 27 August 2023)<br>
+_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 39,680 (Ukraine) (as of 5 November 2023)<br>
 _stateless persons_: 11,644 (2022)<br>
 
