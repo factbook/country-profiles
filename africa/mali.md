@@ -289,7 +289,7 @@ _severe localized food insecurity_: <p><em>due to civil insecurity and </em><em>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 31.17 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 38.55 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 3.18 megatons (2016 est.)<br>
 _methane emissions_: 19.16 megatons (2020 est.)<br>
 
@@ -384,7 +384,7 @@ _subordinate courts_: Court of Appeal; High Court of Justice (jurisdiction limit
 <p>African Solidarity for Democracy and Independence or SADI [Oumar MARIKO]<br>Alliance for Democracy and Progress or ADP-Maliba [Amadou THIAM]<br>Alliance for Democracy in Mali-Pan-African Party for Liberty, Solidarity, and Justice or ADEMA-PASJ [Tiemoko SANGARE]<br>Alliance for the Solidarity of Mali-Convergence of Patriotic Forces or ASMA-CFP [Amadou CISSE, vice-president, acting]<br>Convergence for the Development of Mali or CODEM [Housseyni Amion GUINDO]<br>Democratic Alliance for Peace or ADP-Maliba [Aliou Boubacar DIALLO]<br>Movement for Mali or MPM [Brahima DIANESSY, deputy]                                                                                           <br>Party for National Renewal (also Rebirth or Renaissance or PARENA) [Tiebile DRAME]<br>Rally for Mali or RPM [Boucary TRETA] <br>Social Democratic Convention or CDS [Mamadou Bakary "Blaise" SANGARE]<br>Union for Democracy and Development or UDD [Hassane BARRY]                                             <br>Union for Republic and Democracy or URD [Soumaïla CISSE]<br>Yéléma [Moussa MARA]</p> <strong>note 1: </strong>only parties with 2 or more seats in the last National Assembly parliamentary elections (30 March and 19 April 2020) listed<br><strong><br>note 2:</strong>  the National Assembly was dissolved on 18 August 2020 following a military coup and replaced with a National Transition Council; currently 121 members, party affiliations unknown<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU (suspended), CD, ECOWAS (suspended), EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNDP, UNESCO, UNFPA, UNHCR, UNIDO, UNMISS, UNOPS, UN Women, UNWTO, UPU, WADB (regional), WAEMU, World Bank Group, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU (suspended), CD, ECOWAS (suspended), EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNDP, UNESCO, UNFPA, UNHCR, UNIDO, UNOPS, UN Women, UNWTO, UPU, WADB (regional), WAEMU, World Bank Group, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador S&eacute;kou BERTHE (since 16 September 2022)<br>
@@ -394,7 +394,7 @@ _FAX_: [1] (202) 332-6603<br>
 _email address and website_: <br>administration@maliembassy.us<br><br>https://www.maliembassy.us/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Rachna KORHONEN (since 22 December 2022)<br>
+_chief of mission_: Ambassador Rachna KORHONEN (since 16 March 2023)<br>
 _embassy_: ACI 2000, Rue 243, (located off the Roi Bin Fahad Aziz Bridge west of the Bamako central district), Porte 297, Bamako<br>
 _mailing address_: 2050 Bamako Place, Washington DC&nbsp; 20521-2050<br>
 _telephone_: [223] 20-70-23-00<br>

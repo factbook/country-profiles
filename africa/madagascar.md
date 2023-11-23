@@ -277,7 +277,7 @@ _severe localized food insecurity_: <em>due to the effects of extreme weather ev
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 21.44 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 16.02 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 3.91 megatons (2016 est.)<br>
 _methane emissions_: 10.14 megatons (2020 est.)<br>
 
@@ -343,7 +343,7 @@ _residency requirement for naturalization_: unknown<br>
 _chief of state_: President Andry RAJOELINA (since 21 January 2019)<br>
 _head of government_: Prime Minister Christian NTSAY (since 6 June 2018)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 7 November and 19 December 2018 (next to be held on 9 November 2023); prime minister nominated by the National Assembly, appointed by the president<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 7 November and 19 December 2018 (next to be held on 16 November 2023); prime minister nominated by the National Assembly, appointed by the president<br>
 _election results_: <em><br>2018</em>: Andry RAJOELINA elected president in second round; percent of vote in first round - Andry RAJOELINA (TGV) 39.2%, Marc RAVALOMANANA (TIM) 35.4%, other 25.4%; percent of vote in second round - Andry RAJOELINA 55.7%, Marc RAVALOMANANA 44.3% <br><em><br>2013</em>: Hery Martial RAJAONARIMAMPIANINA elected president in second round; percent of vote in first round - Hery Martial RAJAONARIMAMPIANINA (HVM) 15.9%, Jean Louis ROBINSON (AVANA) 21.1%, other 63%; percent of vote in second round - Hery Martial RAJAONARIMAMPIANINA 53.5%, Jean Louis ROBINSON 46.5%<br>
 
 **Legislative branch**<br>

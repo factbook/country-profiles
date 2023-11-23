@@ -242,7 +242,7 @@ _widespread lack of access_: <em>due to economic downturn, the lingering effects
 2.65% of GDP (2015 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 41.12 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 20.18 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 1.73 megatons (2016 est.)<br>
 _methane emissions_: 7.61 megatons (2020 est.)<br>
 
@@ -302,10 +302,10 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Salva KIIR Mayardit (since 9 July 2011); Vice Presidents TABAN Deng Gai, Riek MACHAR Teny Dhurgon, James Wani IGGA, Rebecca Nyandeng Chol GARANG de Mabior, Hussein ABDELBAGI Ayii (since 22 February 2020); note - the president is both chief of state and head of government; TABAN served as first vice president from 23 July 2016 to February 2020<br>
-_head of government_: President Salva KIIR Mayardit (since 9 July 2011); Vice Presidents TABAN Deng Gai, Riek MACHAR Teny Dhurgon, James Wani IGGA, Rebecca Nyandeng Chol GARANG de Mabior, Hussein ABDELBAGI Ayii (since 22 February 2020)<br>
+_chief of state_: President Salva KIIR Mayardit (since 9 July 2011); Vice Presidents Riek MACHAR Teny Dhurgon, TABAN Deng Gai, James Wani IGGA, Rebecca Nyandeng Chol GARANG de Mabior, Hussein ABDELBAGI Ayii (since 22 February 2020); note - the president is both chief of state and head of government<br>
+_head of government_: President Salva KIIR Mayardit (since 9 July 2011); Vice Presidents Riek MACHAR Teny Dhurgon, TABAN Deng Gai, James Wani IGGA, Rebecca Nyandeng Chol GARANG de Mabior, Hussein ABDELBAGI Ayii (since 22 February 2020)<br>
 _cabinet_: National Council of Ministers appointed by the president, approved by the Transitional National Legislative Assembly<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11-15 April 2010 (originally scheduled for 2015 but postponed several times, currently in 2024)<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11-15 April 2010 (originally scheduled for 2015 but postponed several times, currently to 2024)<br>
 _election results_: Salva KIIR Mayardit elected leader of then-Southern Sudan in 2010; percent of vote - Salva KIIR Mayardit (SPLM) 93%, Lam AKOL (SPLM-DC) 7%<br>
 
 **Legislative branch**<br>
@@ -592,7 +592,7 @@ see entry for Sudan<br>
 
 **Military and security forces**<br>
 South Sudan People’s Defense Force (SSPDF): Ground Force (includes Presidential Guard), Air Force, Air Defense Forces; National (or Necessary) Unified Forces (NUF)<br><br>Ministry of Interior: South Sudan National Police Service (2023)<br>
-<strong>note 1: </strong>the NUF are being formed by retraining rebel and pro-government militia fighters into military, police, and other government security forces; in August 2022, South Sudan held the first graduation ceremony for retrained personnel<strong><br><br>note 2:</strong> numerous irregular forces operate in the country with official knowledge, including militias operated by the National Security Service (an internal security force under the Ministry of National Security) and proxy forces<br>
+<strong>note 1: </strong>the NUF are being formed by retraining rebel and pro-government militia fighters into military, police, and other government security forces; the first operational NUF deployed in November 2023<strong><br><br>note 2:</strong> numerous irregular forces operate in the country with official knowledge, including militias operated by the National Security Service (an internal security force under the Ministry of National Security) and proxy forces<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2022 est.)<br>

@@ -267,15 +267,15 @@ see United Kingdom<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Martyn ROPER (since 29 October 2018)<br>
-_head of government_: Premier Wayne PANTON (since 21 April 2021)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Jane OWEN (since 21 April 2023)<br>
+_head of government_: Premier Juliana O'CONNOR-CONNOLLY (since 15 November 2023)<br>
 _cabinet_: Cabinet selected from the Parliament and appointed by the governor on the advice of the premier<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition appointed premier by the governor<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (21 seats; 19 members directly elected by majority vote and 2 ex officio members - the deputy governor and attorney general - appointed by the governor; members serve 4-year terms)<br>
 _elections_: last held on 14 April 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - independent 79.1%, PPM 19.6%; seats by party - independent 12, PPM 7; composition of elected members - men 15, women 4, percent of women 21.1%; ex-officio members - men 2<br>
+_election results_: percent of vote by party - independent 79.1%, PPM 19.6%; elected seats by party - independent 12, PPM 7; composition of elected members - men 15, women 4, percent of women 21.1%; ex officio members - men 2<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and at least 2 judges); Grand Court (consists of the court president and at least 2 judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>

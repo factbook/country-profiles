@@ -242,7 +242,7 @@ _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 9.43 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 7.21 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 0.14 megatons (2016 est.)<br>
 _methane emissions_: 0.03 megatons (2020 est.)<br>
 
@@ -311,7 +311,7 @@ _election results_: David KABUA elected president; National Parliament vote - Da
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament consists of:<br>Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - the Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms<br>
-_elections_: last held on 18 November 2019 (next to be held by November 2023)<br>
+_elections_: last held on 18 November 2019 (next to be held on 20 November 2023)<br>
 _election results_: percent of vote by party - NA; seats by party - independent 33; composition - men 31, women 2, percent of women 6.1%<br>
 
 **Judicial branch**<br>

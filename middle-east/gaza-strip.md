@@ -521,5 +521,5 @@ Army of Islam; Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; HAMAS; Islamic 
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 1.6 million (Palestinian refugees) (2022)<br>
-_IDPs_: 12,000 (includes persons displaced within the Gaza Strip due to the intensification of the Israeli-Palestinian conflict since June 2014 and other Palestinian IDPs in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006) (2022); note - data represent Gaza Strip and West Bank<br>
+_IDPs_: 1.6 million (includes persons displaced within the Gaza Strip due to the intensification of the Israeli-Palestinian conflict since June 2014 and other Palestinian IDPs in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006) (2023); note - data represent Gaza Strip<br>
 

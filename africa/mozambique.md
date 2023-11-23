@@ -279,7 +279,7 @@ _severe localized food insecurity_: <p><em>due to shortfall in insecurity in nor
 4.17% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 19.44 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 16.45 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 7.94 megatons (2016 est.)<br>
 _methane emissions_: 16.26 megatons (2020 est.)<br>
 
@@ -356,7 +356,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Filipe Jacinto NYUSI (since 15 January 2015); note - the president is both chief of state and head of government<br>
 _head of government_: President Filipe Jacinto NYUSI (since 15 January 2015); Prime Minister Adriano Afonso MALEIANE (since 3 March 2022); note - President NYUSI removed Prime Minister Carlos Agostinho DO ROSARIO from office on 3 March 2022 as part of a cabinet reshuffle<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president elected directly by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 consecutive terms); election last held on 15 October 2019 (next to be held on 15 October 2024); prime minister appointed by the president<br>
+_elections/appointments_: president elected directly by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 consecutive terms); election last held on 15 October 2019 (next to be held on 9 October 2024); prime minister appointed by the president<br>
 _election results_: <em><br>2019</em>: Filipe NYUSI reelected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 73.0%, Ossufo MOMADE (RENAMO) 21.9%, Daviz SIMANGO (MDM) 5.1%<br><br><em>2014</em>:  Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 57.0%, Afonso DHLAKAMA (RENAMO) 36.6%, Daviz SIMANGO (MDM) 6.4%<br>
 
 **Legislative branch**<br>
@@ -370,7 +370,7 @@ _judge selection and term of office_: Supreme Court president appointed by the p
 _subordinate courts_: Administrative Court (capital city only); provincial courts or Tribunais Judicias de Provincia; District Courts or Tribunais Judicias de Districto; customs courts; maritime courts; courts marshal; labor courts; community courts<br>
 
 **Political parties and leaders**<br>
-Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM [Lutero SIMANGO]<br>Liberation Front of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO [Filipe NYUSI]<br>Mozambican National Resistance (Resistencia Nacional Mocambicana) or RENAMO [Ossufo MOMADE]<br><br><strong>note:</strong> only parties with seats in the legislature listed<br>
+Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM [vacant]<br>Liberation Front of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO [Filipe NYUSI]<br>Mozambican National Resistance (Resistencia Nacional Mocambicana) or RENAMO [Ossufo MOMADE]<br><br><strong>note:</strong> only parties with seats in the legislature listed<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF (observer), OPCW, SADC, UN, UNCTAD, UNDP, UNEP,&nbsp; UNESCO, UNHCR, UNIDO, UNWTO, Union Latina, UPU, WCO, WFP, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -730,7 +730,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 12,678 (Democratic Republic of Congo) (refugees and asylum seekers), 10,655 (Burundi) (refugees and asylum seekers) (2023)<br>
-_IDPs_: 834,304 (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2023)<br>
+_IDPs_: 850,599 (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2023)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Mozambique does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government increased investigations and prosecutions, trained law enforcement and front-line officials, published and disseminated draft standard operating procedures (SOPs) for victim referral and care and raising public awareness; officials convened government and civil society stakeholders and coordinated with neighboring governments; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; despite increased investigations, Mozambique did not report identifying any victims and lacked adequate procedures to screen vulnerable populations for trafficking; for the seventh consecutive year, the government failed to adopt its draft National Referral Mechanism and SOPs for care and referral of victims; Mozambique did not report providing financial or in-kind support to the civil society organizations that identify and assist victims; the lack of a formally adopted National Action Plan, including dedicated resources for preventing trafficking, reduced integration of anti-trafficking efforts; reports of low-level official complicity in trafficking crimes persisted; the government did not provide sufficient resources to victim protection services, relying on NGOs and international organizations to provide the majority of services to victims; the government lacked effective policies or laws to regulate foreign labor recruiters and hold them liable for fraudulent recruiting; therefore, Mozambique was downgraded to Tier 2 Watch List (2023)<br>

@@ -80,7 +80,7 @@ _noun_: Andorran(s)<br>
 _adjective_: Andorran<br>
 
 **Ethnic groups**<br>
-Andorran 48.3%, Spanish 24.8%, Portuguese 11.2%, French 4.5%, Argentine 1.4%, other 9.8% (2021 est.)<br>
+Andorran 47.6%, Spanish 24.8%, Portuguese 10.8%, French 4.5%, Argentine 1.7%, British, 1%, other 9.7% (2022 est.)<br>
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>
@@ -237,7 +237,7 @@ _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 9.95 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 8.52 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 0.47 megatons (2016 est.)<br>
 _methane emissions_: 0.05 megatons (2020 est.)<br>
 

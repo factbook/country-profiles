@@ -256,7 +256,7 @@ _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 0.34% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 27.25 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 26.19 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 21.85 megatons (2016 est.)<br>
 _methane emissions_: 2.92 megatons (2020 est.)<br>
 
@@ -709,7 +709,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 **Refugees and internally displaced persons**<br>
 _IDPs_: 91,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2022)<br>
 _stateless persons_: 48 (2022)<br>
-<strong>note: </strong>139,583 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
+<strong>note: </strong>142,338 estimated refugee and migrant arrivals (January 2015-November 2023)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p><br>

@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Seychelles was uninhabited prior to being discovered by Europeans early in the 16th century. A lengthy struggle between France and Great Britain for the islands ended in 1814, when they were ceded to the latter. During colonial rule, a plantation-based economy developed that relied on imported labor, primarily from European colonies in Africa. Independence came in 1976. In 1977, prime minister France-Albert RENE launched a coup against the country’s first president and Seychelles became a socialist one-party state until adopting a new constitution and holding elections in 1993. RENE continued to lead Seychelles through two election cycles until he stepped down in 2004. Vice President James Alix MICHEL took over the presidency and in 2006 was elected to a new five-year term; he was reelected in 2011 and again in 2015. In 2016, James MICHEL resigned and handed over the presidency to his vice-president, Danny FAURE. In 2020, Wavel RAMKALAWAN was elected president, the first time an opposition candidate has won the presidency since independence.</p><br>
+<p>Seychelles was uninhabited prior to being discovered by Europeans early in the 16th century. A lengthy struggle between France and Great Britain for the islands ended in 1814, when they were ceded to the latter. During colonial rule, a plantation-based economy developed that relied on imported labor, primarily from European colonies in Africa. Seychelles gained independence in 1976 through negotiations with Great Britain. In 1977, prime minister France-Albert RENE launched a coup against the country’s first president and Seychelles became a socialist one-party state until adopting a new constitution and holding elections in 1993. RENE continued to lead Seychelles through two election cycles until he stepped down in 2004. Vice President James Alix MICHEL took over the presidency and in 2006 was elected to a new five-year term; he was reelected in 2011 and again in 2015. In 2016, James MICHEL resigned and handed over the presidency to his vice-president, Danny FAURE. In 2020, Wavel RAMKALAWAN was elected president, the first time an opposition candidate has won the presidency.</p><br>
 
 ## Geography
 
@@ -252,7 +252,7 @@ _rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 18.72 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 16.96 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 0.61 megatons (2016 est.)<br>
 _methane emissions_: 0.1 megatons (2020 est.)<br>
 
@@ -317,13 +317,13 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Wavel RAMKALAWAN (since 26 October 2020); Vice President Ahmed AFIF (since 27 October 2020); the president is both chief of state and head of government<br>
 _head of government_: President Wavel RAMKALAWAN (since 26 October 2020); Vice President Ahmed AFIF (since 27 October 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 22-24 October 2020 (originally scheduled for December 2020 but rescheduled to coincide with the 22-24 October 2025 National Assembly election in order to cut election costs)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 22-24 October 2020; next presidential election due in 2025<br>
 _election results_: <br><em>2020</em>: Wavel RAMKALAWAN elected president; Wavel RAMKALAWAN (LDS) 54.9%, Danny FAURE (US) 43.5%, other 1.6%<br><br><em>2015</em>:  President James Alix MICHEL reelected president in second round; percent of vote first round - James Alix MICHEL (PL) 47.8%, Wavel RAMKALAWAN (SNP) 35.3%, other 16.9%; percent of vote second round - James Alix MICHEL 50.2%, Wavel RAMKALAWAN 49.8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (35 seats in the 2020-25 term; 26 members directly elected in single-seat constituencies by simple majority vote and up to 9 members elected by proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 22-24 October 2020 (next to be held in October 2025); note - the election was originally scheduled for 2021 but was moved up a year and held alongside the presidential election in order to cut election costs<br>
-_election results_: percent of vote by party - LDS 54.8%, US 42.3% , other 2.9%; seats by party - LDS 25, US10; composition - men 27, women 8, percent of women 22.9%<br>
+_election results_: percent of vote by party - LDS 54.8%, US 42.3%, other 2.9%; seats by party - LDS 25, US 10; composition - men 27, women 8, percent of women 22.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Seychelles Court of Appeal (consists of the court president and 4 justices); Supreme Court of Seychelles (consists of the chief justice and 9 puisne judges); Constitutional Court (consists of 3 Supreme Court judges)<br>
@@ -345,7 +345,9 @@ _email address and website_: <br>seychelles@un.int; seychellesmission@sycun.org<
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: the US does not have an embassy in Seychelles; the US Ambassador to Mauritius is accredited to Seychelles<br>
+_chief of mission_: Ambassador Henry V. JARDINE (since 22 February 2023); note - Ambassador JARDINE is posted in Mauritius but is accredited to Seychelles<br>
+_embassy_: 2nd Floor, Oliaji Trade Center, Victoria Mahe, Seychelles; note - US Embassy in Seychelles reopened on 1 June 2023 after having been closed in 1996<br>
+_telephone_: [248] 422 5256<br>
 
 **Flag description**<br>
 five oblique bands of blue (hoist side), yellow, red, white, and green (bottom) radiating from the bottom of the hoist side; the oblique bands are meant to symbolize a dynamic new country moving into the future; blue represents sky and sea, yellow the sun giving light and life, red the peoples' determination to work for the future in unity and love, white social justice and harmony, and green the land and natural environment<br>

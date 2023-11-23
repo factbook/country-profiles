@@ -353,8 +353,10 @@ _FAX_: [1] (212) 661-6405<br>
 _email address and website_: <br>info@maldivesmission.com<br><br>http://www.maldivesmission.com/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Hugo Yue-Ho JON (since 6 September 2023); note - Ambassador JON is the first resident US ambassador to the Republic of Maldives<br>
-_embassy_: the US does not have an embassy in Maldives; the US is in the process of opening an embassy in Maldives; as of March 2022, there is no US Ambassador to Maldives; until late 2021, the US Ambassador to Sri Lanka was also accredited to the Maldives<br>
+_chief of mission_: Ambassador Hugo Yue-Ho YON (since 6 September 2023); note - Ambassador YON is the first resident US ambassador to the Republic of Maldives<br>
+_embassy_: 210 Galle Road, Colombo 03, Sri Lanka; note - as of early November 2023, the US has no consular or diplomatic offices in Maldives; the US Mission to Maldives operates from US Embassy Colombo, Sri Lanka<br>
+_telephone_: [94] (11) 249-8500<br>
+_FAX_: [94] (11) 243-7345<br>
 
 **Flag description**<br>
 red with a large green rectangle in the center bearing a vertical white crescent moon; the closed side of the crescent is on the hoist side of the flag; red recalls those who have sacrificed their lives in defense of their country, the green rectangle represents peace and prosperity, and the white crescent signifies Islam<br>

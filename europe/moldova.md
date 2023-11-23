@@ -258,7 +258,7 @@ _rate of urbanization_: 0.09% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 15.97 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 12.37 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 5.12 megatons (2016 est.)<br>
 _methane emissions_: 3.29 megatons (2020 est.)<br>
 
@@ -696,7 +696,7 @@ the National Army is responsible for defense against external aggression, suppre
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,000 (Ukraine) (as of 15 October 2023)<br>
+_refugees (country of origin)_: 111,185 (Ukraine) (as of 12 November 2023)<br>
 _stateless persons_: 1,701 (2022)<br>
 
 **Illicit drugs**<br>

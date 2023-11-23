@@ -260,7 +260,7 @@ _rate of urbanization_: 0.38% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 12.88 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 11.26 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 96.89 megatons (2016 est.)<br>
 _methane emissions_: 7.78 megatons (2020 est.)<br>
 
@@ -346,7 +346,7 @@ _judge selection and term of office_: Constitutional Court judges appointed by t
 _subordinate courts_: Courts of Appeal; regional courts; specialized courts for administrative, commercial, labor, immigration, and audit issues; magistrate's courts; justices of the peace<br>
 
 **Political parties and leaders**<br>
-<strong>Flemish parties:</strong> <br>Christian Democratic and Flemish or CD&amp;V [Sammy MAHDI]<br>Forward [Conner ROUSSEAU] (formerly Social Progressive Alternative or SP.A)<br>Groen or Green [Nadia NAJI and Jeremie VANEECKHOUT] (formerly AGALEV, Flemish Greens)<br>New Flemish Alliance or N-VA [Bart DE WEVER]<br>Open Flemish Liberals and Democrats or Open VLD [Egbert LACHAERT]<br>Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN]<br><strong>Francophone parties:</strong> <br>Ecolo (Francophone Greens) [Jean-Marc NOLLET and Rajae MAOUANE]<br>Francophone Federalist Democrats or Defi [Francois DE SMET]<br>Les Engages [Maxime PREVOT] (formerly Humanist and Democratic Center or CDH)<br>Reform Movement or MR [George-Louis BOUCHEZ]<br>Socialist Party or PS [Paul MAGNETTE]<br>Workers' Party or PVDA-PTB [Raoul HEDEBOUW]<br>
+<strong>Flemish parties:</strong> <br>Christian Democratic and Flemish or CD&amp;V [Sammy MAHDI]<br>Forward [Melissa DEPRAETERE] (formerly Social Progressive Alternative or SP.A)<br>Groen or Green [Nadia NAJI and Jeremie VANEECKHOUT] (formerly AGALEV, Flemish Greens)<br>New Flemish Alliance or N-VA [Bart DE WEVER]<br>Open Flemish Liberals and Democrats or Open VLD [Egbert LACHAERT]<br>Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN]<br><strong>Francophone parties:</strong> <br>Ecolo (Francophone Greens) [Jean-Marc NOLLET and Rajae MAOUANE]<br>Francophone Federalist Democrats or Defi [Francois DE SMET]<br>Les Engages [Maxime PREVOT] (formerly Humanist and Democratic Center or CDH)<br>Reform Movement or MR [George-Louis BOUCHEZ]<br>Socialist Party or PS [Paul MAGNETTE]<br>Workers' Party or PVDA-PTB [Raoul HEDEBOUW]<br>
 
 **International organization participation**<br>
 ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>

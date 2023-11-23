@@ -277,7 +277,7 @@ _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 0.03% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 26.23 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 24.64 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 283.76 megatons (2016 est.)<br>
 _methane emissions_: 86.98 megatons (2020 est.)<br>
 
@@ -367,7 +367,7 @@ _judge selection and term of office_: Supreme Court judges selected by the Judic
 _subordinate courts_: courts of first instance and appeals courts within both the judicial and administrative systems; military courts<br>
 
 **Political parties and leaders**<br>
-Action Coalition Party or ACP [ANEK Laothammathast]<br>Bhumjaithai Party (aka Phumchai Thai Party or PJT; aka Thai Pride Party) or BJT [ANUTIN Chanwirakun]<br>Chat Phatthana Kla arty (National Development Party) [KON Chatikawanit]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [VARAWUT Silpa-archa]<br>New Economics Party or NEP [MANUN Siwaphiromrat]<br>Move Forward Party or MFP [PHITHA Limcharoenrat] <br>Palang Pracharat Party (People's State Power Party) or PPRP [PRAWIT Wongsuwan] <br>Prachachat Party or PCC [WAN Muhamad NOOR Matha]<br>Prachathipat Party (Democrat Party) or DP [JURIN Laksanawisit] <br>Puea Chat Party (For Nation Party) or PCP [SARUNWUT Sarunket]<br>Puea Thai Party (For Thais Party) or PTP [Chusak SIRINIL]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party or TLP) [SERIPHISUT Temiyawet]<br>Thai Civilized Party or TCL [MONGKOLKIT Suksintharanon]<br>Thai Local Power Party or TLP [CHATCHAWAI Kong-udom]<br>Thai People Power Party or TLPT [NIKHOM Bunwiset]<br>Thai Sang Thai Party [SUDARAT Keyuraphan]<br>United Thai Nation (Ruam Thai Sang Chat) or UTN [PHIRAPHAN Saliratthawiphak]<br>
+Action Coalition Party or ACP [ANEK Laothammathast]<br>Bhumjaithai Party (aka Phumchai Thai Party or PJT; aka Thai Pride Party) or BJT [ANUTIN Chanwirakun]<br>Chat Phatthana Kla arty (National Development Party) [KON Chatikawanit]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [VARAWUT Silpa-archa]<br>New Economics Party or NEP [MANUN Siwaphiromrat]<br>Move Forward Party or MFP [CHAITHAWAT Tulathon] <br>Palang Pracharat Party (People's State Power Party) or PPRP [PRAWIT Wongsuwan] <br>Prachachat Party or PCC [WAN Muhamad NOOR Matha]<br>Prachathipat Party (Democrat Party) or DP [JURIN Laksanawisit] <br>Puea Chat Party (For Nation Party) or PCP [SARUNWUT Sarunket]<br>Puea Thai Party (For Thais Party) or PTP [Chusak SIRINIL]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party or TLP) [SERIPHISUT Temiyawet]<br>Thai Civilized Party or TCL [MONGKOLKIT Suksintharanon]<br>Thai Local Power Party or TLP [CHATCHAWAI Kong-udom]<br>Thai People Power Party or TLPT [NIKHOM Bunwiset]<br>Thai Sang Thai Party [SUDARAT Keyuraphan]<br>United Thai Nation (Ruam Thai Sang Chat) or UTN [PHIRAPHAN Saliratthawiphak]<br>
 
 **International organization participation**<br>
 ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMOGIP, UNOOSA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

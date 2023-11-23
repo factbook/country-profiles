@@ -712,6 +712,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified<br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 7,495 (Ukraine) (as of 7 November 2023)<br>
 _stateless persons_: 1,948 (2022)<br>
 <strong>note:</strong> 46,944 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 

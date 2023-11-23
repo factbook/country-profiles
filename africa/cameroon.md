@@ -367,9 +367,9 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2% (2018)<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br>National Assembly or Assemblee Nationale (180 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last held on 12 March 2023 (next to be held in 2028)<br>National Assembly - last held on 9 February 2020 (current term extended by president)<br>
-_election results_: Senate - percent of vote by party - CDPM 100% composition as of March 2023 - men 69, women 31, percent of women 31%<br>National Assembly - percent of vote by party - NA; seats by party - CPDM 139, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, Union of Socialist Movements 2; 13 vacant; composition as of June 2023 - men 119, women 61, percent of women 33.9%; note - total Parliament percent of women 31.1%<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br>National Assembly or Assemblee Nationale (180 seats; members directly elected in 49 single and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: Senate - last held on 12 March 2023 (next to be held in 2028)<br>National Assembly - last held on 9 February 2020<br>
+_election results_: Senate - percent of vote by party - CDPM 100%; composition as of October 2023 - men 69, women 31, percent of women 31%<br>National Assembly - percent of vote by party - NA; seats by party - CPDM 139, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, Union of Socialist Movements 2; other 13; composition as of October 2023 - men 119, women 61, percent of women 33.9%; note - total Parliament percent of women 31.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cameroon (consists of 9 titular and 6 surrogate judges and organized into judicial, administrative, and audit chambers); Constitutional Council (consists of 11 members)<br>

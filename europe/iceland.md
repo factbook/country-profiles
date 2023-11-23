@@ -258,7 +258,7 @@ _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 5.94 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 5.79 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 2.06 megatons (2016 est.)<br>
 _methane emissions_: 0.59 megatons (2020 est.)<br>
 
@@ -659,7 +659,7 @@ Iceland was one of the original 12 countries to sign the North Atlantic Treaty (
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; the European Free Trade Association Surveillance Authority filed a suit against Iceland, claiming the country violated the Agreement on the European Economic Area in failing to pay minimum compensation to Icesave depositors</p><br>
+in 2019, Denmark signed continental shelf delimitation agreements with Iceland and Norway to parts of the continental shelf in the &AElig;gir Basin, which is located north of the Faroe Islands<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 68 (2022)<br>

@@ -326,7 +326,7 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: Grand Duke HENRI (since 7 October 2000); Heir Apparent Prince GUILLAUME (son of the monarch, born 11 November 1981)<br>
-_head of government_: Prime Minister Xavier BETTEL (since 4 December 2013) (As of 9 October 2023 - Acting as Caretaker until new government is formed); Deputy Prime Minister Francois BAUSCH (since 11 October 2019); Deputy Prime Minister Daniel KERSCH (since 4 February 2020)<br>
+_head of government_: Prime Minister Luc FRIEDEN (since 17 November 2023); Deputy Prime Minister Xavier BETTEL (since 17 November 2023)<br>
 _cabinet_: Council of Ministers recommended by the prime minister, appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following elections to the Chamber of Deputies, the leader of the majority party or majority coalition usually appointed prime minister by the monarch; deputy prime minister appointed by the monarch; prime minister and deputy prime minister are responsible to the Chamber of Deputies<br>
 

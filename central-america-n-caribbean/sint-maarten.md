@@ -238,7 +238,7 @@ _elections/appointments_: the monarch is hereditary; governor appointed by the m
 
 **Legislative branch**<br>
 _description_: unicameral Parliament&nbsp;of Sint Maarten&nbsp;(15 seats; members directly elected by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held&nbsp;9 January 2020 (next to be held in 2024)<br>
+_elections_: last held 9 January 2020 (next to be held on 11 January 2024)<br>
 _election results_: percent of vote by party - NA 35.2%, UP 24.2%, US Party 13.2%, PFP 10.6%, UD 8.7%, other 8.1%; seats by party - NA 6, UP 4, PFP 2, US Party 2, UD 1<br>
 
 **Judicial branch**<br>

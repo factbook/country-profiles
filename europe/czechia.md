@@ -262,7 +262,7 @@ _rate of urbanization_: 0.2% annual rate of change (2020-25 est.)<br>
 0.14% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 15.15 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 14.34 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 102.22 megatons (2016 est.)<br>
 _methane emissions_: 13.11 megatons (2020 est.)<br>
 
@@ -715,7 +715,7 @@ the Czech military is a professional force responsible for national and territor
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 363,160 (Ukraine) (as of 15 October 2023)<br>
+_refugees (country of origin)_: 368,685 (Ukraine) (as of 12 November 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>
