@@ -283,7 +283,7 @@ _widespread lack of access_: <em>due to high food prices - </em>according to th
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 40.82 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 41.98 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 2.74 megatons (2016 est.)<br>
 _methane emissions_: 6.16 megatons (2020 est.)<br>
 

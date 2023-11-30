@@ -689,7 +689,7 @@ the Gambian security forces have a history of involvement in domestic politics, 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>attempts to stem refugees, cross-border raids, arms smuggling, and other illegal activities by separatists from southern Senegal's Casamance region, as well as from conflicts in other west African states</p><br>
+<p>border issues include attempts to stem refugees, cross-border raids, arms smuggling, and other illegal activities by separatists from southern Senegal's Casamance region, as well as from conflicts in other west African states</p><br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 5,600 (2022)<br>

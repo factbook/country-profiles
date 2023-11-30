@@ -271,7 +271,7 @@ _widespread lack of access_: <em>due to unfavorable prospects for 2023 agricultu
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 15.25 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 23.88 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 23.36 megatons (2016 est.)<br>
 _methane emissions_: 10.95 megatons (2020 est.)<br>
 

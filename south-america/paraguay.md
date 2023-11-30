@@ -272,7 +272,7 @@ _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 11.16 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 12.31 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 7.41 megatons (2016 est.)<br>
 _methane emissions_: 27.65 megatons (2020 est.)<br>
 

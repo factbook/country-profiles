@@ -711,7 +711,7 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>adding to illicit cross-border activities, Burkina Faso has issues concerning unresolved boundary alignments with its neighbors; demarcation is currently underway with Mali; the dispute with Niger was referred to the ICJ in 2010, and a dispute over several villages with Benin persists; Benin retains a border dispute with Burkina Faso around the town of Koualau/Kourou</p><br>
+<p>porous borders contribute to illicit cross-border activities, including terrorism and trafficking<br><br><em>Burkina Faso-Benin</em>: the two countries dispute sovereignty over a small area known as Kourou/Koalou near the tripoint with Togo, which has been declared a neutral zone pending settlement of the dispute; in 2009, an agreement to refer the dispute to the International Court of Justice was signed, but no formal application has yet been made to the Court</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 36,372 (Mali) (2023)<br>

@@ -714,7 +714,7 @@ the military is responsible for defending the independence, integrity, and sover
 ## Transnational Issues
 
 **Disputes - international**<br>
-unauthorized migration and smuggling from impoverished and unstable Haiti has led to occasional border tensions and increased security by the Dominican Republic, including the construction of a fence and the deployment of military troops<br>
+<em>Dominican Republic-Haiti:</em> unauthorized migration and smuggling from impoverished and unstable Haiti has led to occasional border tensions and increased security by the Dominican Republic, including the construction of a fence and the deployment of military troops<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 115,283 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>

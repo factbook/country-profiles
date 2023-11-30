@@ -715,7 +715,7 @@ al-Qa’ida (Jama’at Nusrat al Islam wal Muslimeen); Islamic State in the Grea
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Benin-Burkina Faso:</em> Benin retains a border dispute with Burkina Faso near the town of Koualau/Kourou.<em><br><br>Benin-Togo:</em> Talks continue between Benin and Togo on funding the Adjarala hydroelectric dam on the Mona River.<br><br><em>Benin-Niger:</em> The location of Benin-Niger-Nigeria tripoint is unresolved.</p><br>
+<p><em>Benin-Burkina Faso:</em> Benin retains a border dispute with Burkina Faso near the town of Koualau/Kourou<em><br><br>Benin-Togo:</em> talks continue between Benin and Togo on funding the Adjarala hydroelectric dam on the Mona River<br><br><em>Benin-Niger:</em> the location of Benin-Niger-Nigeria tripoint is unresolved</p><br>
 
 **Illicit drugs**<br>
 <p>a significant transit and departure country for cocaine shipments in Africa destined for Europe</p><br>

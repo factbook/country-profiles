@@ -644,5 +644,5 @@ the security forces are limited in capabilities to performing search and rescue 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>claims French-administered Mayotte and challenges France's and Madagascar's claims to Banc du Geyser, a drying reef in the Mozambique Channel; in May 2008, African Union forces assisted the Comoros military in recapturing Anjouan Island from rebels who seized it in 2001</p><br>
+<p>claims French-administered Mayotte and challenges France's and Madagascar's claims to Banc du Geyser, a drying reef in the Mozambique Channel</p><br>
 

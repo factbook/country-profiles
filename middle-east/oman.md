@@ -330,9 +330,9 @@ _head of government_: Sultan and Prime Minister HAYTHAM bin Tariq Al Said (since
 _cabinet_: Cabinet appointed by the monarch<br>
 
 **Legislative branch**<br>
-_description_: bicameral Council of Oman or Majlis Oman consists of:<br>Council of State or Majlis al-Dawla (85 seats including the chairman; members appointed by the sultan from among former government officials and prominent educators, businessmen, and citizens)<br>Consultative Assembly or Majlis al-Shura (86 seats; members directly elected in single- and 2-seat constituencies by simple majority popular vote to serve renewable 4-year terms); note - since political reforms in 2011, legislation from the Consultative Council is submitted to the Council of State for review by the Royal Court<br>
-_elections_: Council of State - last appointments on 11 July 2019 (next to be held in November 2023)<br>Consultative Assembly - last held on 29 October 2023 (next to be held in October 2027)<br>
-_election results_: <br>Council of State - 85 nonpartisan members were appointed by the sultan; composition - men 70, women 15, percent of women 17.6%<br>Consultative Assembly percent of vote by party - NA; seats by party - NA; 86 nonpartisan members were elected (organized political parties in Oman are legally banned)<br>
+_description_: bicameral Council of Oman or Majlis Oman consists of:<br>Council of State or Majlis al-Dawla (87 seats including the chairman; members appointed by the sultan from among former government officials and prominent educators, businessmen, and citizens; members serve 4-year term)<br>Consultative Assembly or Majlis al-Shura (90 seats; members directly elected in single- and 2-seat constituencies by simple majority popular vote to serve renewable 4-year terms)<br>
+_elections_: Council of State - last appointments on 8 November 2023 (next appointments in November 2027)<br>Consultative Assembly - last held on 29 October 2023 (next to be held in October 2027)<br>
+_election results_: <br>Council of State - 87 nonpartisan members were appointed by the sultan; composition - men 59, women 18, percent of women 20.7%<br>Consultative Assembly percent of vote by party - NA; seats by party - NA; 90 nonpartisan members were elected (organized political parties in Oman are legally banned); composition - 90 men, 0 women; note - total Council of Oman percent of women 20.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 5 judges)<br>

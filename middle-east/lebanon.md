@@ -261,7 +261,7 @@ _widespread lack of access_: <em>due to the ongoing financial and economic crisi
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 30.67 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 24.23 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 24.8 megatons (2016 est.)<br>
 _methane emissions_: 3.37 megatons (2020 est.)<br>
 

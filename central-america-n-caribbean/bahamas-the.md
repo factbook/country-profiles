@@ -651,7 +651,7 @@ established in 1980; the RBDF's primary responsibilities are disaster relief, ma
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>The Bahamas-US (Maritime Boundary):</em> In declaring its archipelagic waters and 200 nm EEZ in 1993 legislation, The Bahamas did not delimit the outer limits of the EEZ; but in areas where EEZs overlap with neighbors, The Bahamas agreed to equidistance as a line of separation.  However, The Bahamas has yet to define maritime boundaries with any of its neighbors, including the United States, whose Florida coast lays about 70 nm from Grand Bahama Island.</p><br>
+<p><em>The Bahamas-US:</em> in declaring its archipelagic waters and 200 nm EEZ in 1993 legislation, The Bahamas did not delimit the outer limits of the EEZ; but in areas where EEZs overlap with neighbors, The Bahamas agreed to equidistance as a line of separation; however, The Bahamas has yet to define maritime boundaries with any of its neighbors, including the US, whose Florida coast lays about 70 nm from Grand Bahama Island</p><br>
 
 **Illicit drugs**<br>
 <p>a transit point for illegal drugs bound for the United States; small scale illicit production of marijuana continues</p><br>

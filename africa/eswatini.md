@@ -662,7 +662,7 @@ the UEDF&rsquo;s primary mission is external security but it also has domestic s
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>in 2006, Swati king advocated resorting to ICJ to claim parts of Mpumalanga and KwaZulu-Natal from South Africa</p><br>
+<p>Eswatini has stable relations with South Africa but claims large sections of South African territory based on the historic extent of Swazi control during the early 19th century; despite periodic negotiations, there has been little progress in resolving the dispute </p><br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Eswatini does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; Eswatini established multi-agency emergency response teams to respond to trafficking victim identification; however, the government did not demonstrate overall increasing efforts, compared with the previous year, to expand its anti-trafficking capacity; the lack of government coordination and leadership of the Prevention of People Trafficking and Smuggling Secretariat continued to hinder efforts; the government did not allocate funding for the Prevention of People Trafficking and People Smuggling Task Force to coordinate anti-trafficking efforts; the lack of specialized training for front-line officers continued to hamper efforts; serious allegations of trafficking and victim abuse by senior government officials have remained pending for multiple years; the first shelter for victims refurbished in collaboration with foreign donor support remained inoperative for the second consecutive year; therefore, Eswatini remained on Tier 2 Watch List for the second consecutive year (2023)<br>

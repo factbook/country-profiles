@@ -669,7 +669,7 @@ the military’s primary responsibilities are external defense, border security,
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Eritrea and Ethiopia agreed to abide by 2002 Ethiopia-Eritrea Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement; Sudan accuses Eritrea of supporting eastern Sudanese rebel groups; in 2008, Eritrean troops moved across the border on Ras Doumera peninsula and occupied Doumera Island with undefined sovereignty in the Red Sea</p><br>
+<p><em>Eritrea-Ethiopia: </em>both agreed to abide by 2002 Ethiopia-Eritrea Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement<br><br><em>Eritrea-Sudan: </em>Sudan accuses Eritrea of supporting eastern Sudanese rebel groups<br><br><em>Eritrea-Djibouti:</em> in 2008, Eritrean troops moved across the border on Ras Doumera peninsula and occupied Doumera Island with undefined sovereignty in the Red Sea</p><br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 &mdash; Eritrea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; a government policy or pattern of human trafficking existed; the government continued to exploit its nationals in forced labor in its compulsory national service and citizen militia by forcing them to serve indefinitely or for arbitrary periods; the government did not demonstrate any efforts to address human trafficking (2022)<br>

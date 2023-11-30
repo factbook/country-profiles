@@ -760,7 +760,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Australia-Indonesia (Maritime Boundary):</em> All borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature. Indonesian groups challenge Australia's claim to Ashmore Reef. Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing.<em><br></em></p><br>
+<p><em>Australia-Indonesia:</em> Australia has closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing; Indonesian groups challenge Australia's claim to Ashmore Reef <em><br></em></p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 12,180 (Iran), 8,741 (Afghanistan), 5,042 (Pakistan) (mid-year 2022)<br>

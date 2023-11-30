@@ -283,7 +283,7 @@ _severe localized food insecurity_: <em>due to floods -</em> above average rainf
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 38.67 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 29.48 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 3.28 megatons (2016 est.)<br>
 _methane emissions_: 2.24 megatons (2020 est.)<br>
 
@@ -725,10 +725,10 @@ the FAC is viewed as having limited capabilities due to obsolescent and poorly m
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
+<p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 32,910 (Central African Republic), 28,130 (Democratic Republic of the Congo) (refugees and asylum seekers)(2023)<br>
+_refugees (country of origin)_: 33,585 (Central African Republic), 28,396 (Democratic Republic of the Congo) (refugees and asylum seekers)(2023)<br>
 _IDPs_: 27,000 (multiple civil wars since 1992) (2022)<br>
 
 **Trafficking in persons**<br>

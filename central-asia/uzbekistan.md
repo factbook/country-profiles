@@ -268,7 +268,7 @@ _rate of urbanization_: 1.25% annual rate of change (2020-25 est.)<br>
 0.06% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 25.29 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 40.98 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 91.81 megatons (2016 est.)<br>
 _methane emissions_: 96.16 megatons (2020 est.)<br>
 
@@ -729,7 +729,7 @@ Islamic Jihad Union; Islamic Movement of Uzbekistan; Islamic State of Iraq and a
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Uzbekistan-Afghanistan</em>: none identified</p> <p><em>Uzbekistan-Kazakhstan</em>: field demarcation of the boundaries with Kazakhstan commenced in 2004; disputed territory is held by Uzbekistan but the overwhelming majority of residents are ethnic Kazakhs; the two countries agreed on draft final demarcation documents in March 2022 and plan to hold another meeting in April 2022</p> <p><em>Uzbekistan-Kyrgyzstan</em>: border delimitation of 130 km of border with Kyrgyzstan is hampered by serious disputes around enclaves and other areas; in 2021, border talks between Uzbek and Kyrgyz officials raised the possibility of a land swap arrangement, but a deal was not finalized</p> <p><em>Uzbekistan-Tajikistan</em>: none identified</p> <p><em>Uzbekistan-Turkmenistan</em>: prolonged drought and cotton monoculture in Uzbekistan and Turkmenistan created water-sharing difficulties for Amu Darya river states; in 2021, the two countries reached an agreement to create a joint intergovernmental commission to oversee water management</p><br>
+<p><em>Uzbekistan-Afghanistan</em>: none identified</p> <p><em>Uzbekistan-Kazakhstan</em>: field demarcation of the boundaries with Kazakhstan commenced in 2004; disputed territory is held by Uzbekistan, but the overwhelming majority of residents are ethnic Kazakhs; the two countries agreed on draft final demarcation documents in March 2022 and signed an agreement demarcating their border in December 2022 </p> <p><em>Uzbekistan-Kyrgyzstan</em>: border delimitation of 130 km of border with Kyrgyzstan is hampered by serious disputes around enclaves and other areas; in 2021, border talks between Uzbek and Kyrgyz officials raised the possibility of a land swap arrangement, but a deal was not finalized</p> <p><em>Uzbekistan-Tajikistan</em>: none identified</p> <p><em>Uzbekistan-Turkmenistan</em>: prolonged drought and cotton monoculture in Uzbekistan and Turkmenistan created water-sharing difficulties for Amu Darya river states; in 2021, the two countries reached an agreement to create a joint intergovernmental commission to oversee water management</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 13,031 (Afghanistan) (mid-year 2022)<br>

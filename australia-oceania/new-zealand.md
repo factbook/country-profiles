@@ -263,7 +263,7 @@ _rate of urbanization_: 0.92% annual rate of change (2020-25 est.)<br>
 0.03% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 5.73 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 8.61 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 34.38 megatons (2016 est.)<br>
 _methane emissions_: 34.3 megatons (2020 est.)<br>
 
@@ -333,15 +333,16 @@ _residency requirement for naturalization_: 3 years<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General Dame Cindy KIRO (since 21 October 2021)<br>
-_head of government_: Prime Minister Chris HIPKINS (since 25 January 2023); Deputy Prime Minister Carmel SEPULONI (since 25 January 2023)<br>
+_head of government_: Prime Minister Christopher LUXON (since 27 November 2023); Deputy Prime Minister Winston PETERS (since 27 November 2023)<br>
 _cabinet_: Executive Council appointed by the governor-general on the recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; deputy prime minister appointed by the governor-general<br>
-_election results_: 14 October 2023 parliamentary elections see National Party led coalition appear to have a majority; official results scheduled to be released on 3 November 2023; National Party leader Christopher LUXON expected to be new prime minister<br>
+_election results_: LUXON's National Party won the 2023 general selection with 38% of the vote and 48 total seats in parliament; his coalition government includes the ACT New Zealand party (8.6% and 11 seats) and the New Zealand First Party (6.1% and 8 seats)<br>
+<strong>note: </strong>according to Prime Minister LUXON, the Winston PETERS of the New Zealand First Party would be the deputy prime minister in the first half of the term while Act party leader, David SEYMOUR, would take the role for the second half of the term<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of Representatives - commonly called Parliament (121 seats for 2023-26 term); 72 members directly elected in 65 single-seat constituencies and 7 Maori constituencies by simple majority vote and 49 directly elected by closed party-list proportional representation vote; members serve 3-year terms)<br>
 _elections_: last held on 14 October 2023 (next scheduled for October 2026)<br>
-_election results_: percent of vote by party - National Party 39.0%, Labor Party 26.9%, Green Party 10.8%, ACT Party 9.0%, New Zealand First 6.5%; Maori Party 2.6%; seats by party - National Party 50, Labor Party 34, Green Party 14, ACT Party 11, New Zealand First 8, Maori Party 4; composition - NA; parliamentary election results see National Party led coalition appear to have a majority; official results scheduled to be released on 3 November 2023<br>
+_election results_: percent of vote by party - National Party 38.1%, Labor Party 26.9%, Green Party 11.6%, ACT Party 8.6%, New Zealand First 6.1%; Maori Party 3.1%; seats by party - National Party 48, Labor Party 34, Green Party 15, ACT Party 11, New Zealand First 8, Maori Party 6; composition - NA<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 5 justices, including the chief justice); note - the Supreme Court in 2004 replaced the Judicial Committee of the Privy Council (in London) as the final appeals court<br>
@@ -349,7 +350,8 @@ _judge selection and term of office_: justices appointed by the governor-general
 _subordinate courts_: Court of Appeal; High Court; tribunals and authorities; district courts; specialized courts for issues related to employment, environment, family, Maori lands, youth, military; tribunals<br>
 
 **Political parties and leaders**<br>
-ACT New Zealand [David SEYMOUR]<br>Green Party [Marama DAVIDSON and James SHAW]<br>Mana Movement [Hone HARAWIRA] (formerly Mana Party)<br>Maori Party [Debbie NGAREWA-PACKER and Rawiri WAITITI]<br>New Zealand First Party or NZ First [Winston PETERS]<br>New Zealand Labor Party [Chris HIPKINS]<br>New Zealand National Party [Christopher LUXON]<br>
+ACT New Zealand [David SEYMOUR]<br>Green Party [Marama DAVIDSON and James SHAW]<br>New Zealand First Party or NZ First [Winston PETERS]<br>New Zealand Labor Party [Chris HIPKINS]<br>New Zealand National Party [Christopher LUXON]<br>Te Pāti Māori [Debbie NGAREWA-PACKER and Rawiri WAITITI]<br>
+<strong>note:</strong> in the October 2023 general election, 11 additional parties won votes but no seats in Parliament<br>
 
 **International organization participation**<br>
 ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OECD, OPCW, Pacific Alliance (observer), Paris Club (associate), PCA, PIF, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNOOSA, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

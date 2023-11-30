@@ -639,5 +639,5 @@ has a small, recently established program focused on acquiring satellites and de
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Bhutan-China:</em> Lacking any treaty describing the boundary, Bhutan and China continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the most contentious of which lie in Bhutan's west along China’s Chumbi salient.<br><br><em>Bhutan-India:</em> none identified</p><br>
+<p><em>Bhutan-China:</em> lacking any treaty describing the boundary, Bhutan and China continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the most contentious of which lie in Bhutan's west along China’s Chumbi salient<br><br><em>Bhutan-India:</em> none identified</p><br>
 

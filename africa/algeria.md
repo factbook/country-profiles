@@ -265,7 +265,7 @@ _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 35.17 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 22.68 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 150.01 megatons (2016 est.)<br>
 _methane emissions_: 49.94 megatons (2020 est.)<br>
 
@@ -336,7 +336,7 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Abdelmadjid TEBBOUNE (since 12 December 2019)<br>
-_head of government_: Prime Minister Ayman BENABDERRAHMANE (since 7 July 2021)<br>
+_head of government_: Prime Minister Nadir LARBAOUI (since 11 November 2023)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second term); election last held on 12 December 2019 (next to be held in 2024); prime minister nominated by the president after consultation with the majority party in Parliament<br>
 _election results_: <em><br>2019:</em> Abdelmadjid TEBBOUNE (FLN) 58.1%, Abdelkader BENGRINA (El-Bina) 17.4%, Ali BENFLIS (Talaie El Hurriyet) 10.6%, Azzedine MIHOUBI (National Democratic Rally, RND) 7.3%, Abdelaziz BELAID (Front El Mustakbal, FM) 6.7%<br><br><em>2014:</em> Abdelaziz BOUTEFLIKA reelected president for a fourth term; percent of vote - Abdelaziz BOUTEFLIKA (FLN) 81.5%, Ali BENFLIS (FLN) 12.2%, Abdelaziz BELAID (Future Front) 3.4%, other 2.9%<br>
@@ -730,7 +730,7 @@ _refugees (country of origin)_: more than 100,000 (Sahrawi, mostly living in Alg
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Algeria does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government made key achievements during the reporting period, therefore Algeria was upgraded to Tier 2 Watch List; authorities identified more trafficking victims, increased investigations and prosecutions, while continuing to convict traffickers; Algeria partnered with international organizations to train officials and conduct public awareness campaigns; however, government identification of and services for victims remained insufficient; authorities continued to punish some potential victims for unlawful acts traffickers compelled them to commit (2022)<br>
-_trafficking profile_: <p>human traffickers exploit domestic and foreign victims; Algerian women and girls are vulnerable to sex trafficking due to financial problems or after running away from home; undocumented sub-Saharan migrants are vulnerable to labor and sex trafficking and are exploited in restaurants, houses, and informal worksites; sub-Saharan men and women needing more funds for their onward journey to Europe work illegally in construction and commercial sex and are vulnerable to sex trafficking and debt bondage; foreign women and girls, mainly from sub-Saharan Africa, are subject to sex trafficking in bars and informal brothels; criminal begging rings that exploit sub-Saharan African migrant children are common and reportedly increasing (2022)</p><br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims; Algerian women and girls are vulnerable to sex trafficking due to financial problems or after running away from home; undocumented sub-Saharan migrants are vulnerable to labor and sex trafficking and are exploited in restaurants, houses, and informal worksites; sub-Saharan men and women needing more funds for their onward journey to Europe work illegally in construction and commercial sex and are vulnerable to sex trafficking and debt bondage; foreign women and girls, mainly from sub-Saharan Africa, are subject to sex trafficking in bars and informal brothels; criminal begging rings that exploit sub-Saharan African migrant children are common and reportedly increasing (2022)<br>
 
 **Illicit drugs**<br>
 NA<br>

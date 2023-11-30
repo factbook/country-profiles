@@ -261,7 +261,7 @@ _rate of urbanization_: 2.3% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 21.23 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 10.51 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 0.57 megatons (2016 est.)<br>
 _methane emissions_: 0.55 megatons (2020 est.)<br>
 
@@ -679,7 +679,7 @@ the military has a small inventory consisting mostly of UK- and US-origin equipm
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Belize-Guatemala: </em>Demarcated but insecure boundary due to Guatemala’s claims to more than half of Belizean territory.  Line of Adjacency operates in lieu of an international boundary to control influx of Guatemalan squatters onto Belizean territory. Smuggling, narcotics trafficking, and human trafficking for sexual exploitation and debt bondage are all problems. Belize lacks resources to detect and extradite impoverished Guatemalan peasants squatting in Belizean rain forests in the remote border areas. At present, Belize and Honduras 12-nm territorial sea claims close off Guatemalan access to Caribbean in the Bahia de Amatique. Maritime boundary remains unresolved pending further negotiation.<br><br><em>Belize-Honduras:</em> Honduras claims the Belizean-administered Sapodilla Cays off the coast of Belize in its constitution, but agreed to a joint ecological park around the cays should Guatemala consent to a maritime corridor in the Caribbean under the OAS-sponsored 2002 Belize-Guatemala Differendum.</p> <p><em>Belize-Mexico:</em> Belize and Mexico are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty. Transshipment of illegal<strong> </strong>narcotics, smuggling, human trafficking, illegal immigration, and the growing of marijuana in very low population areas are all issues in the region today.</p><br>
+<p><em>Belize-Guatemala: </em>demarcated but insecure boundary due to Guatemala’s claims to more than half of Belizean territory; a Line of Adjacency operates in lieu of an international boundary to control influx of Guatemalan squatters onto Belizean territory, as well as smuggling, narcotics trafficking, and human trafficking for sexual exploitation and debt bondage; Belize and Honduras 12-nm territorial sea claims close off Guatemalan access to Caribbean in the Bahia de Amatique; maritime boundary remains unresolved pending further negotiation<br><br><em>Belize-Honduras:</em> Honduras claims the Belizean-administered Sapodilla Cays off the coast of Belize in its constitution, but agreed to a joint ecological park around the cays should Guatemala consent to a maritime corridor in the Caribbean under the OAS-sponsored 2002 Belize-Guatemala Differendum</p> <p><em>Belize-Mexico:</em> Belize and Mexico are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty; transshipment of illegal<strong> </strong>narcotics, smuggling, human trafficking, illegal immigration, and the growing of marijuana in very low population areas are issues in the region </p><br>
 
 **Illicit drugs**<br>
 <p>a significant drug trafficking and transit point between countries in South America and the United States; primary domestic use of narcotics is marijuana and some crack cocaine; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>

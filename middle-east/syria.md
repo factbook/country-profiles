@@ -256,7 +256,7 @@ _rate of urbanization_: 5.38% annual rate of change (2020-25 est.)<br>
 _exceptional shortfall in aggregate food production/supplies_: <em>due to civil conflict and economic crisis - </em>based on the World Food Program’s (WFP’s) food security and agriculture sector estimated that about 15 million people are in need of some form of food and agriculture assistance (representing 68 percent of the total population), of whom about 12.1 million are food insecure and about 2.9 million people are estimated to be at risk of food insecurity; fuel scarcity and increases in fuel prices led to a rise in transportation and freight charges for goods, both imported and domestically produced, including agricultural and food products; additional price increases at retail level further constrained the already weakened purchasing power of the majority of the population threatening their food security (2023)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 39.43 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 25.14 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 28.83 megatons (2016 est.)<br>
 _methane emissions_: 12.93 megatons (2020 est.)<br>
 

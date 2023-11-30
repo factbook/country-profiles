@@ -266,7 +266,7 @@ _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 0% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 18.06 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 15.48 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 58.28 megatons (2016 est.)<br>
 _methane emissions_: 17.19 megatons (2020 est.)<br>
 
@@ -727,7 +727,7 @@ has a modest national space program focused on developing remote sensing (RS) sa
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
+<p><em>Belarus-Latvia:</em> boundary demarcated with Latvia<br><br><em>Belarus-Lithuania:</em> boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> as a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 32,435 (Ukraine) (as of 1 August 2023)<br>

@@ -745,7 +745,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>the Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
+<p><em>Cameroon-Nigeria:</em> Nigeria recognized Cameroon's sovereignty over the Bakassi Peninsula in 2006 and in completed the transfer of administration in 2013, although there are occasional, mostly local disputes in the area; the majority of the land boundary was demarcated by 2019 with UN assistance, although there are few disagreements on the precise location of the boundary; the porous border is susceptible to crossings by the Boko Haram and Islamic State of Iraq and ash-Sham - West Africa terrorist groups, both of which operate in Northern Nigeria  <br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 353,701 (Central African Republic), 120,677 (Nigeria) (2023)<br>

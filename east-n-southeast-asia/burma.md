@@ -286,7 +286,7 @@ _severe localized food insecurity_: <em>due to conflict, political instability, 
 0.01% of GDP (2018 est.)<br>
 
 **Air pollutants**<br>
-_particulate matter emissions_: 34.69 micrograms per cubic meter (2016 est.)<br>
+_particulate matter emissions_: 27.16 micrograms per cubic meter (2019 est.)<br>
 _carbon dioxide emissions_: 25.28 megatons (2016 est.)<br>
 _methane emissions_: 42.2 megatons (2020 est.)<br>
 
