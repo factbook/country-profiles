@@ -104,9 +104,9 @@ _elderly dependency ratio_: 11.4<br>
 _potential support ratio_: 8.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 36.8 years (2020)<br>
-_male_: 36.3 years<br>
-_female_: 37.4 years<br>
+_total_: 38.2 years (2023 est.)<br>
+_male_: 37.7 years<br>
+_female_: 38.8 years<br>
 
 **Population growth rate**<br>
 0.6% (2023 est.)<br>
@@ -118,7 +118,7 @@ _female_: 37.4 years<br>
 6.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.81 migrant(s)/1,000 population (2023 est.)<br>
+0.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 more than three-quarters of the population lives on the main island of Mahe; Praslin contains less than 10%; a smaller percent on La Digue and the outer islands as shown in this population distribution map<br>
@@ -141,14 +141,14 @@ _total population_: 1.08 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.38 deaths/1,000 live births (2023 est.)<br>
-_male_: 13.07 deaths/1,000 live births<br>
+_total_: 10.4 deaths/1,000 live births (2023 est.)<br>
+_male_: 13.1 deaths/1,000 live births<br>
 _female_: 7.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.36 years (2023 est.)<br>
-_male_: 71.96 years<br>
-_female_: 80.89 years<br>
+_total population_: 76.4 years (2023 est.)<br>
+_male_: 72 years<br>
+_female_: 80.9 years<br>
 
 **Total fertility rate**<br>
 1.81 children born/woman (2023 est.)<br>

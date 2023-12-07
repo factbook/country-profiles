@@ -113,21 +113,21 @@ _elderly dependency ratio_: 4<br>
 _potential support ratio_: 24.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 16.1 years (2020)<br>
-_male_: 15.6 years<br>
-_female_: 16.5 years<br>
+_total_: 16.5 years (2023 est.)<br>
+_male_: 16.1 years<br>
+_female_: 17 years<br>
 
 **Population growth rate**<br>
 3.05% (2023 est.)<br>
 
 **Birth rate**<br>
-39.85 births/1,000 population (2023 est.)<br>
+39.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.21 deaths/1,000 population (2023 est.)<br>
+9.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.12 migrant(s)/1,000 population (2023 est.)<br>
+-0.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the population is unevenly distributed due to contrasts in climate and physical geography; the highest density is found in the southwest, particularly around Lake Chad and points south; the dry Saharan zone to the north is the least densely populated as shown in this population distribution map<br>
@@ -154,14 +154,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 1,063 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 63.99 deaths/1,000 live births (2023 est.)<br>
-_male_: 69.63 deaths/1,000 live births<br>
-_female_: 58.11 deaths/1,000 live births<br>
+_total_: 64 deaths/1,000 live births (2023 est.)<br>
+_male_: 69.6 deaths/1,000 live births<br>
+_female_: 58.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 59.57 years (2023 est.)<br>
-_male_: 57.71 years<br>
-_female_: 61.51 years<br>
+_total population_: 59.6 years (2023 est.)<br>
+_male_: 57.7 years<br>
+_female_: 61.5 years<br>
 
 **Total fertility rate**<br>
 5.35 children born/woman (2023 est.)<br>

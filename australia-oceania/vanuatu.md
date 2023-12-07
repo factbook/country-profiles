@@ -104,21 +104,21 @@ _elderly dependency ratio_: 12.3<br>
 _potential support ratio_: 15.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 23 years (2020)<br>
-_male_: 22.6 years<br>
-_female_: 23.5 years<br>
+_total_: 24.2 years (2023 est.)<br>
+_male_: 23.7 years<br>
+_female_: 24.6 years<br>
 
 **Population growth rate**<br>
 1.59% (2023 est.)<br>
 
 **Birth rate**<br>
-21.19 births/1,000 population (2023 est.)<br>
+21.2 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.99 deaths/1,000 population (2023 est.)<br>
+4 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.28 migrant(s)/1,000 population (2023 est.)<br>
+-1.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 three-quarters of the population lives in rural areas; the urban populace lives primarily in two cities, Port-Vila and Lugenville; three largest islands - Espiritu Santo, Malakula, and Efate - accomodate over half of the populace<br>
@@ -142,13 +142,13 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 14 deaths/1,000 live births (2023 est.)<br>
-_male_: 15.38 deaths/1,000 live births<br>
-_female_: 12.56 deaths/1,000 live births<br>
+_male_: 15.4 deaths/1,000 live births<br>
+_female_: 12.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
 _total population_: 75.4 years (2023 est.)<br>
-_male_: 73.72 years<br>
-_female_: 77.17 years<br>
+_male_: 73.7 years<br>
+_female_: 77.2 years<br>
 
 **Total fertility rate**<br>
 2.59 children born/woman (2023 est.)<br>

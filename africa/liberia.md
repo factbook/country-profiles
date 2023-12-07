@@ -106,21 +106,21 @@ _elderly dependency ratio_: 6<br>
 _potential support ratio_: 16.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18 years (2020)<br>
-_male_: 17.7 years<br>
-_female_: 18.2 years<br>
+_total_: 19.7 years (2023 est.)<br>
+_male_: 19.6 years<br>
+_female_: 19.9 years<br>
 
 **Population growth rate**<br>
-2.71% (2023 est.)<br>
+2.37% (2023 est.)<br>
 
 **Birth rate**<br>
-36.26 births/1,000 population (2023 est.)<br>
+33 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.46 deaths/1,000 population (2023 est.)<br>
+8.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.67 migrant(s)/1,000 population (2023 est.)<br>
+-0.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 more than half of the population lives in urban areas, with approximately one-third living within an 80-km radius of Monrovia as shown in this population distribution map<br>
@@ -147,20 +147,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 652 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 43.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 47.23 deaths/1,000 live births<br>
-_female_: 39.05 deaths/1,000 live births<br>
+_total_: 56.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 61.5 deaths/1,000 live births<br>
+_female_: 50.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.8 years (2023 est.)<br>
-_male_: 63.52 years<br>
-_female_: 68.15 years<br>
+_total population_: 61.3 years (2023 est.)<br>
+_male_: 59.7 years<br>
+_female_: 63 years<br>
 
 **Total fertility rate**<br>
-4.73 children born/woman (2023 est.)<br>
+4.03 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-2.33 (2023 est.)<br>
+1.98 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 24.9% (2019/20)<br>

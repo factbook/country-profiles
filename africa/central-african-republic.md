@@ -113,21 +113,21 @@ _elderly dependency ratio_: 5.1<br>
 _potential support ratio_: 19.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20 years (2020)<br>
-_male_: 19.7 years<br>
-_female_: 20.3 years<br>
+_total_: 20.2 years (2023 est.)<br>
+_male_: 19.5 years<br>
+_female_: 21.1 years<br>
 
 **Population growth rate**<br>
 1.77% (2023 est.)<br>
 
 **Birth rate**<br>
-32.37 births/1,000 population (2023 est.)<br>
+32.4 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-11.51 deaths/1,000 population (2023 est.)<br>
+11.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--3.16 migrant(s)/1,000 population (2023 est.)<br>
+-3.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 majority of residents live in the western and central areas of the country, especially in and around the capital of Bangui as shown in this population distribution map<br>
@@ -150,14 +150,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 835 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 81.74 deaths/1,000 live births (2023 est.)<br>
-_male_: 87.69 deaths/1,000 live births<br>
-_female_: 75.61 deaths/1,000 live births<br>
+_total_: 81.7 deaths/1,000 live births (2023 est.)<br>
+_male_: 87.7 deaths/1,000 live births<br>
+_female_: 75.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 55.96 years (2023 est.)<br>
-_male_: 54.64 years<br>
-_female_: 57.31 years<br>
+_total population_: 56 years (2023 est.)<br>
+_male_: 54.6 years<br>
+_female_: 57.3 years<br>
 
 **Total fertility rate**<br>
 3.99 children born/woman (2023 est.)<br>
@@ -693,6 +693,6 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with South Sudan over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with Sudan over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 13,844 (Sudan) (refugees since 15 April 2023), 6,682 (Democratic Republic of Congo) (2023)<br>
+_refugees (country of origin)_: 13,844 (Sudan) (refugees since 15 April 2023), 6,683 (Democratic Republic of Congo) (2023)<br>
 _IDPs_: 490,868 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2023)<br>
 

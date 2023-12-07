@@ -109,9 +109,9 @@ _elderly dependency ratio_: 34.4<br>
 _potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 43.9 years (2020)<br>
-_male_: 42 years<br>
-_female_: 45.9 years<br>
+_total_: 44.8 years (2023 est.)<br>
+_male_: 42.9 years<br>
+_female_: 46.7 years<br>
 
 **Population growth rate**<br>
 -0.47% (2023 est.)<br>
@@ -120,10 +120,10 @@ _female_: 45.9 years<br>
 8.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-12.98 deaths/1,000 population (2023 est.)<br>
+13 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.26 migrant(s)/1,000 population (2023 est.)<br>
+-0.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 more of the population lives in the northern half of the country, with approximately a quarter of the populace residing in and around the capital of Zagreb; many of the islands are sparsely populated<br>
@@ -140,7 +140,7 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-64 years_: 1.02 male(s)/female<br>
 _65 years and over_: 0.82 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2023 est.)<br>
+_total population_: 0.93 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29 years (2020 est.)<br>
@@ -149,14 +149,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.58 deaths/1,000 live births (2023 est.)<br>
-_male_: 8.36 deaths/1,000 live births<br>
-_female_: 8.81 deaths/1,000 live births<br>
+_total_: 8.6 deaths/1,000 live births (2023 est.)<br>
+_male_: 8.4 deaths/1,000 live births<br>
+_female_: 8.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.47 years (2023 est.)<br>
-_male_: 74.37 years<br>
-_female_: 80.76 years<br>
+_total population_: 77.5 years (2023 est.)<br>
+_male_: 74.4 years<br>
+_female_: 80.8 years<br>
 
 **Total fertility rate**<br>
 1.46 children born/woman (2023 est.)<br>

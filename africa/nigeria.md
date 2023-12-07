@@ -118,9 +118,9 @@ _elderly dependency ratio_: 5.5<br>
 _potential support ratio_: 18 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.6 years (2020)<br>
-_male_: 18.4 years<br>
-_female_: 18.9 years<br>
+_total_: 19.2 years (2023 est.)<br>
+_male_: 18.9 years<br>
+_female_: 19.4 years<br>
 
 **Population growth rate**<br>
 2.53% (2023 est.)<br>
@@ -129,10 +129,10 @@ _female_: 18.9 years<br>
 34 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.52 deaths/1,000 population (2023 est.)<br>
+8.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.21 migrant(s)/1,000 population (2023 est.)<br>
+-0.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 largest population of any African nation; significant population clusters are scattered throughout the country, with the highest density areas being in the south and southwest as shown in this population distribution map<br>
@@ -159,14 +159,14 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 1,047 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 55.17 deaths/1,000 live births (2023 est.)<br>
-_male_: 60.43 deaths/1,000 live births<br>
+_total_: 55.2 deaths/1,000 live births (2023 est.)<br>
+_male_: 60.4 deaths/1,000 live births<br>
 _female_: 49.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 61.79 years (2023 est.)<br>
-_male_: 59.93 years<br>
-_female_: 63.75 years<br>
+_total population_: 61.8 years (2023 est.)<br>
+_male_: 59.9 years<br>
+_female_: 63.8 years<br>
 
 **Total fertility rate**<br>
 4.57 children born/woman (2023 est.)<br>

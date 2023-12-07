@@ -111,21 +111,21 @@ _elderly dependency ratio_: 28.7<br>
 _potential support ratio_: 3.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.7 years (2020)<br>
-_male_: 41.7 years<br>
-_female_: 43.7 years<br>
+_total_: 44 years (2023 est.)<br>
+_male_: 43.3 years<br>
+_female_: 44.8 years<br>
 
 **Population growth rate**<br>
-0.64% (2023 est.)<br>
+0.78% (2023 est.)<br>
 
 **Birth rate**<br>
-10.3 births/1,000 population (2023 est.)<br>
+10.2 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.37 deaths/1,000 population (2023 est.)<br>
+8.4 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-4.5 migrant(s)/1,000 population (2023 est.)<br>
+6 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population distribution corresponds to elevation with the northern and western areas far more heavily populated; the higher Alps of the south limit settlement<br>
@@ -138,11 +138,11 @@ _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 1.432 million Zurich, 441,000 BERN (capital) (2023)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.06 male(s)/female<br>
+_at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
 _65 years and over_: 0.82 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31.1 years (2020 est.)<br>
@@ -151,17 +151,17 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 7 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.51 deaths/1,000 live births (2023 est.)<br>
-_male_: 4 deaths/1,000 live births<br>
-_female_: 2.99 deaths/1,000 live births<br>
+_total_: 3 deaths/1,000 live births (2023 est.)<br>
+_male_: 3.4 deaths/1,000 live births<br>
+_female_: 2.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.42 years (2023 est.)<br>
-_male_: 81.12 years<br>
-_female_: 85.86 years<br>
+_total population_: 83.8 years (2023 est.)<br>
+_male_: 81.9 years<br>
+_female_: 85.8 years<br>
 
 **Total fertility rate**<br>
-1.58 children born/woman (2023 est.)<br>
+1.59 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
 0.77 (2023 est.)<br>
@@ -348,8 +348,8 @@ _election results_: <br><em>2022:  </em>Alain BERSET elected president for 2023
 
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in two-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons, which use list proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 194 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms)<br>
-_elections_: <br>Council of States - last held in most cantons on 22 October 2023 (each canton determines when the next election will be held)<br>National Council - last held on 22 October 2023 (next to be held on 31 October 2028)<br>
-_election results_: <br>Council of States - percent of vote by party - NA; seats by party - The Center 13, FDP.The Liberals 12, SP 9, SVP 6, Green Party 5, other 1; composition (as of 22 Oct 2023) - men 34, women 12, percent of women 26.1% <br>National Council - percent of vote by party - SVP 28.6%, SP 18%, The Center 14.6%, FDP.The Liberals 14.4%, Green Party 9.4%, GLP 7.2%, EDU 1.2, EDV/PEV 1.9%, MCR/MCG .5%, other 4%; seats by party - SVP 62, SP 41, The Center 29, FDP.The Liberals 28, Green Party 23, GLP 10, EDU 2, EDV/PEV 2, MCR/MCG 2, other 1; composition (as of mid-2023) - men 116, women 84, percent of women 42.5%; note - overall Federal Assembly percent of women 41.5%<br>
+_elections_: <br>Council of States - last held in most cantons on 22 October 2023 (each canton determines when the next election will be held)<br>National Council - last held on 22 October 2023 (next to be held on 31 October 2027)<br>
+_election results_: <br>Council of States - percent of vote by party - NA; seats by party - The Center 13, FDP.The Liberals 12, SP 9, SVP 6, Green Party 5, other 1; composition (as of 22 Oct 2023) - men 34, women 12, percent of women 26.1% <br>National Council - percent of vote by party - SVP 28.6%, SP 18%, The Center 14.6%, FDP.The Liberals 14.4%, Green Party 9.4%, GLP 7.2%, EDU 1.2, EDV/PEV 1.9%, MCR/MCG .5%, other 4%; seats by party - SVP 62, SP 41, The Center 29, FDP.The Liberals 28, Green Party 23, GLP 10, EDU 2, EDV/PEV 2, MCR/MCG 2, other 1; composition (as of mid-2023) - men 123, women 77, percent of women 38.5%; note - overall Federal Assembly percent of women 41.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Supreme Court (consists of 38 justices and 19 deputy justices organized into 7 divisions)<br>

@@ -107,21 +107,21 @@ _elderly dependency ratio_: 20.4<br>
 _potential support ratio_: 4.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 37.7 years (2020)<br>
-_male_: 36.2 years<br>
-_female_: 39.5 years<br>
+_total_: 39.4 years (2023 est.)<br>
+_male_: 38.1 years<br>
+_female_: 40.8 years<br>
 
 **Population growth rate**<br>
--1.14% (2023 est.)<br>
+-0.58% (2023 est.)<br>
 
 **Birth rate**<br>
-9.94 births/1,000 population (2023 est.)<br>
+8.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-12.51 deaths/1,000 population (2023 est.)<br>
+14.4 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--8.8 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 pockets of agglomeration exist throughout the country, the largest being in the center of the country around the capital of Chisinau, followed by Tiraspol and Balti<br>
@@ -134,11 +134,11 @@ _rate of urbanization_: 0.09% annual rate of change (2020-25 est.)<br>
 488,000 CHISINAU (capital) (2023)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.06 male(s)/female<br>
+_at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.02 male(s)/female<br>
 _65 years and over_: 0.67 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_total population_: 0.89 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.2 years (2019 est.)<br>
@@ -147,20 +147,20 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 12 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.38 deaths/1,000 live births (2023 est.)<br>
-_male_: 13.29 deaths/1,000 live births<br>
-_female_: 9.35 deaths/1,000 live births<br>
+_total_: 14.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 16.3 deaths/1,000 live births<br>
+_female_: 11.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.72 years (2023 est.)<br>
-_male_: 68.9 years<br>
-_female_: 76.77 years<br>
+_total population_: 69.7 years (2023 est.)<br>
+_male_: 65.8 years<br>
+_female_: 73.9 years<br>
 
 **Total fertility rate**<br>
-1.59 children born/woman (2023 est.)<br>
+1.25 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.77 (2023 est.)<br>
+0.6 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 56% (2020)<br>
@@ -696,7 +696,7 @@ the National Army is responsible for defense against external aggression, suppre
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 111,185 (Ukraine) (as of 12 November 2023)<br>
+_refugees (country of origin)_: 113,130 (Ukraine) (as of 19 November 2023)<br>
 _stateless persons_: 1,701 (2022)<br>
 
 **Illicit drugs**<br>

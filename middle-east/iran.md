@@ -113,15 +113,15 @@ _elderly dependency ratio_: 10.7<br>
 _potential support ratio_: 9.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.7 years (2020)<br>
-_male_: 31.5 years<br>
-_female_: 32 years<br>
+_total_: 33.3 years (2023 est.)<br>
+_male_: 33.1 years<br>
+_female_: 33.5 years<br>
 
 **Population growth rate**<br>
 0.93% (2023 est.)<br>
 
 **Birth rate**<br>
-14.79 births/1,000 population (2023 est.)<br>
+14.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 5.2 deaths/1,000 population (2023 est.)<br>
@@ -150,14 +150,14 @@ _total population_: 1.03 male(s)/female (2023 est.)<br>
 22 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.58 deaths/1,000 live births (2023 est.)<br>
+_total_: 14.6 deaths/1,000 live births (2023 est.)<br>
 _male_: 15.7 deaths/1,000 live births<br>
 _female_: 13.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.44 years (2023 est.)<br>
-_male_: 74.07 years<br>
-_female_: 76.87 years<br>
+_total population_: 75.4 years (2023 est.)<br>
+_male_: 74.1 years<br>
+_female_: 76.9 years<br>
 
 **Total fertility rate**<br>
 1.92 children born/woman (2023 est.)<br>
@@ -734,7 +734,7 @@ Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and a
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Iran-Afghanistan</em>: Iran protests Afghanistan's limiting flow of dammed Helmand River tributaries during drought; Afghan and Iranian commissioners have discussed boundary monument densification and resurvey</p> <p><em>Iran-Azerbaijan-Kazakhstan-Russia</em>: Azerbaijan, Kazakhstan, and Russia ratified a Caspian seabed delimitation treaty in 2018 based on equidistance, while Iran continues to insist on a one-fifth slice of the sea</p> <p><em>Iran-Iraq</em>: Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf</p> <p><em>Iran-UAE</em>: Iran and UAE dispute Tunb Islands and Abu Musa Island, which are occupied by Iran; the dispute was rehashed at the September 2021 UN General Assembly meeting; Iran’s Islamic Revolution Guards Corp opened an airport on Greater Tunb in February 2022</p><br>
+<p><em>Iran-Afghanistan</em>: Iran protests Afghanistan's limiting flow of dammed Helmand River tributaries during drought; Afghan and Iranian commissioners have discussed boundary monument densification and resurvey</p> <p><em>Iran-Azerbaijan-Kazakhstan-Russia</em>: Azerbaijan, Kazakhstan, and Russia ratified a Caspian seabed delimitation treaty in 2018 based on equidistance, while Iran continues to insist on a one-fifth slice of the sea</p> <p><em>Iran-Iraq</em>: Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf<br><br><em>Iran-Kuwait:</em> dispute over undemarcated maritime border and Al Durra offshore gasfield in the Arabian/Persian Gulf </p> <p><em>Iran-UAE</em>: Iran and UAE dispute the Greater Tunb, Lesser Tunb, and Abu Musa islands, which are occupied by Iran; Iran has conducted military drills on and around the disputed islands<br><br><em>Caspian Sea (Maritime Boundary):</em> Azerbaijan, Kazakhstan, and Russia ratified the Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 500,000 undocumented Afghans, 750,000 Afghan refugee card holders, 12,000 Iraqi refugee card holders (2022)<br>

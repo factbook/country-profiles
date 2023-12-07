@@ -118,21 +118,21 @@ _elderly dependency ratio_: 12.2<br>
 _potential support ratio_: 8.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.3 years (2020)<br>
-_male_: 28.2 years<br>
-_female_: 30.4 years<br>
+_total_: 30.6 years (2023 est.)<br>
+_male_: 28.9 years<br>
+_female_: 32.3 years<br>
 
 **Population growth rate**<br>
 0.61% (2023 est.)<br>
 
 **Birth rate**<br>
-13.95 births/1,000 population (2023 est.)<br>
+14 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.07 deaths/1,000 population (2023 est.)<br>
+7.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.77 migrant(s)/1,000 population (2023 est.)<br>
+-0.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is found in the middle of the country between the states of Jalisco and Veracruz; approximately a quarter of the population lives in and around Mexico City<br>
@@ -159,13 +159,13 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 12 deaths/1,000 live births (2023 est.)<br>
-_male_: 13.23 deaths/1,000 live births<br>
-_female_: 10.71 deaths/1,000 live births<br>
+_male_: 13.2 deaths/1,000 live births<br>
+_female_: 10.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.46 years (2023 est.)<br>
-_male_: 70.29 years<br>
-_female_: 76.79 years<br>
+_total population_: 73.5 years (2023 est.)<br>
+_male_: 70.3 years<br>
+_female_: 76.8 years<br>
 
 **Total fertility rate**<br>
 1.73 children born/woman (2023 est.)<br>

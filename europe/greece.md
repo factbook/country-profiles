@@ -104,21 +104,21 @@ _elderly dependency ratio_: 35.5<br>
 _potential support ratio_: 2.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 45.3 years (2020)<br>
-_male_: 43.7 years<br>
-_female_: 46.8 years<br>
+_total_: 46.2 years (2023 est.)<br>
+_male_: 44.3 years<br>
+_female_: 47.9 years<br>
 
 **Population growth rate**<br>
 -0.35% (2023 est.)<br>
 
 **Birth rate**<br>
-7.52 births/1,000 population (2023 est.)<br>
+7.5 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-12.02 deaths/1,000 population (2023 est.)<br>
+12 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.03 migrant(s)/1,000 population (2023 est.)<br>
+1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 one-third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters<br>
@@ -144,13 +144,13 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.49 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.89 deaths/1,000 live births<br>
-_female_: 3.07 deaths/1,000 live births<br>
+_total_: 3.5 deaths/1,000 live births (2023 est.)<br>
+_male_: 3.9 deaths/1,000 live births<br>
+_female_: 3.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.71 years (2023 est.)<br>
-_male_: 79.18 years<br>
+_total population_: 81.7 years (2023 est.)<br>
+_male_: 79.2 years<br>
 _female_: 84.4 years<br>
 
 **Total fertility rate**<br>

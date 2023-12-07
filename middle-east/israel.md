@@ -106,21 +106,21 @@ _elderly dependency ratio_: 19.9<br>
 _potential support ratio_: 5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.4 years (2020)<br>
-_male_: 29.8 years<br>
-_female_: 31 years<br>
+_total_: 30.1 years (2023 est.)<br>
+_male_: 29.5 years<br>
+_female_: 30.7 years<br>
 
 **Population growth rate**<br>
-1.43% (2023 est.)<br>
+1.56% (2023 est.)<br>
 
 **Birth rate**<br>
-17.3 births/1,000 population (2023 est.)<br>
+19.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.05 deaths/1,000 population (2023 est.)<br>
+5.6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.99 migrant(s)/1,000 population (2023 est.)<br>
+1.9 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated with the exception of the shore of the Gulf of Aqaba<br>
@@ -146,20 +146,20 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.49 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.75 deaths/1,000 live births<br>
-_female_: 3.22 deaths/1,000 live births<br>
+_total_: 3 deaths/1,000 live births (2023 est.)<br>
+_male_: 3.6 deaths/1,000 live births<br>
+_female_: 2.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.54 years (2023 est.)<br>
-_male_: 81.65 years<br>
-_female_: 85.53 years<br>
+_total population_: 82.2 years (2023 est.)<br>
+_male_: 80.2 years<br>
+_female_: 84.3 years<br>
 
 **Total fertility rate**<br>
-2.54 children born/woman (2023 est.)<br>
+2.94 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-1.24 (2023 est.)<br>
+1.44 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

@@ -75,9 +75,9 @@ _elderly dependency ratio_: 13.3<br>
 _potential support ratio_: 7.5 (2021)<br>
 
 **Median age**<br>
-_total_: 45.6 years<br>
-_male_: 45.5 years<br>
-_female_: 45.8 years (2020 est.)<br>
+_total_: 47 years (2023 est.)<br>
+_male_: 46.7 years<br>
+_female_: 47.4 years<br>
 
 **Population growth rate**<br>
 -0.11% (2023 est.)<br>
@@ -86,10 +86,10 @@ _female_: 45.8 years (2020 est.)<br>
 9.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.16 deaths/1,000 population (2023 est.)<br>
+9.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.27 migrant(s)/1,000 population (2023 est.)<br>
+-1.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the populace concentrated in and around the capital of Gustavia, but scattered settlements exist around the island periphery<br>
@@ -102,20 +102,20 @@ _65 years and over_: 1.01 male(s)/female<br>
 _total population_: 1.12 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.58 deaths/1,000 live births<br>
+_total_: 6.6 deaths/1,000 live births (2023 est.)<br>
 _male_: 7.7 deaths/1,000 live births<br>
-_female_: 5.42 deaths/1,000 live births (2023 est.)<br>
+_female_: 5.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.8 years<br>
-_male_: 77.72 years<br>
-_female_: 84.01 years (2023 est.)<br>
+_total population_: 80.8 years (2023 est.)<br>
+_male_: 77.7 years<br>
+_female_: 84 years<br>
 
 **Total fertility rate**<br>
 1.64 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.79 (2023 est.)<br>
+0.8 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -211,7 +211,7 @@ _election results_: <br><em>2022: </em>Xavier LEDEE (Saint Barth United) elected
 
 **Legislative branch**<br>
 _description_: unicameral Territorial Council (19 seats; members elected by absolute majority vote in the first-round vote and proportional representation vote in the second round; members serve 5-year terms); Saint Barthelemy indirectly elects 1 senator to the French Senate by an electoral college for a 6-year term and directly elects 1 deputy (shared with Saint Martin) to the French National Assembly<br>
-_elections_: Territorial Council - first round held on 20 March 2022 (next to be held in 2027); second round held on 27 March 2022<br>French Senate - election last held on 24 September 2020 (next to be held in September 2023) <br>French National Assembly - election last held on 12 and 19 June 2022 (next to be held by June 2027)<br>
+_elections_: Territorial Council - first round held on 20 March 2022 (next to be held in 2027); second round held on 27 March 2022<br>French Senate - election last held on 24 September 2023 (next to be held on 30 September 2026) <br>French National Assembly - election last held on 12 and 19 June 2022 (next to be held by June 2027)<br>
 _election results_: Territorial Council - percent of vote by party (first round) - SBA 46.2%, Saint Barth Action Equilibre 27.1%, Unis pour Saint Barthelemy 26.8%; percent of vote by party (second round) - Saint Barth Action Equilibre and Unis pour Saint Barthelemy 50.9%, SBA 49.2%, seats by party - Saint Barth Action Equilibre and Unis pour Saint Barthelemy 13, SBA 6; composition - men NA, women NA, percent of women NA<br>French Senate - percent of vote by party NA; seats by party UMP 1 <br>French National Assembly - percent of vote by party NA; seats by party UMP 1<br>
 
 **Political parties and leaders**<br>

@@ -106,21 +106,21 @@ _elderly dependency ratio_: 12.3<br>
 _potential support ratio_: 8.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 27.7 years (2020)<br>
-_male_: 26.2 years<br>
-_female_: 29.3 years<br>
+_total_: 29.2 years (2023 est.)<br>
+_male_: 27.7 years<br>
+_female_: 30.7 years<br>
 
 **Population growth rate**<br>
 0.46% (2023 est.)<br>
 
 **Birth rate**<br>
-17.49 births/1,000 population (2023 est.)<br>
+17.5 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.92 deaths/1,000 population (2023 est.)<br>
+5.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--7.01 migrant(s)/1,000 population (2023 est.)<br>
+-7 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 athough it is the smallest country in land area in Central America, El Salvador has a population that is 18 times larger than Belize; at least 20% of the population lives abroad; high population density country-wide, with particular concentration around the capital of San Salvador<br>
@@ -148,13 +148,13 @@ _total population_: 0.92 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 11.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 13.55 deaths/1,000 live births<br>
-_female_: 10.18 deaths/1,000 live births<br>
+_male_: 13.6 deaths/1,000 live births<br>
+_female_: 10.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.63 years (2023 est.)<br>
-_male_: 72.16 years<br>
-_female_: 79.27 years<br>
+_total population_: 75.6 years (2023 est.)<br>
+_male_: 72.2 years<br>
+_female_: 79.3 years<br>
 
 **Total fertility rate**<br>
 2.04 children born/woman (2023 est.)<br>

@@ -70,7 +70,7 @@ Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube
 despite a distinctive pattern with an industrial north and an agrarian south, a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples), attracting larger and denser populations<br>
 
 **Natural hazards**<br>
-<p>regional risks include landslides, mudflows, avalanches, earthquakes, volcanic eruptions, flooding; land subsidence in Venice</p><p><strong>volcanism:</strong> significant volcanic activity; Etna (3,330 m), which is in eruption as of 2010, is Europe's most active volcano; flank eruptions pose a threat to nearby Sicilian villages; Etna, along with the famous Vesuvius, which remains a threat to the millions of nearby residents in the Bay of Naples area, have both been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Stromboli, on its namesake island, has also been continuously active with moderate volcanic activity; other historically active volcanoes include Campi Flegrei, Ischia, Larderello, Pantelleria, Vulcano, and Vulsini</p><br>
+<p>regional risks include landslides, mudflows, avalanches, earthquakes, volcanic eruptions, flooding; land subsidence in Venice</p> <p><strong>volcanism:</strong> significant volcanic activity; Etna (3,330 m), which is in eruption as of 2013, is Europe's most active volcano; flank eruptions pose a threat to nearby Sicilian villages; Etna, along with the famous Vesuvius, which remains a threat to the millions of nearby residents in the Bay of Naples area, have both been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Stromboli, on its namesake island, has also been continuously active with moderate volcanic activity; other historically active volcanoes include Campi Flegrei, Ischia, Larderello, Pantelleria, Vulcano, and Vulsini</p><br>
 
 **Geography - note**<br>
 strategic location dominating central Mediterranean as well as southern sea and air approaches to Western Europe<br>
@@ -106,9 +106,9 @@ _elderly dependency ratio_: 37.2<br>
 _potential support ratio_: 2.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 46.5 years (2020)<br>
-_male_: 45.4 years<br>
-_female_: 47.5 years<br>
+_total_: 48.1 years (2023 est.)<br>
+_male_: 47 years<br>
+_female_: 49.1 years<br>
 
 **Population growth rate**<br>
 -0.11% (2023 est.)<br>
@@ -117,7 +117,7 @@ _female_: 47.5 years<br>
 7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-11.27 deaths/1,000 population (2023 est.)<br>
+11.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
 3.2 migrant(s)/1,000 population (2023 est.)<br>
@@ -146,14 +146,14 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.11 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.28 deaths/1,000 live births<br>
-_female_: 2.94 deaths/1,000 live births<br>
+_total_: 3.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 3.3 deaths/1,000 live births<br>
+_female_: 2.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.79 years (2023 est.)<br>
-_male_: 80.46 years<br>
-_female_: 85.26 years<br>
+_total population_: 82.8 years (2023 est.)<br>
+_male_: 80.5 years<br>
+_female_: 85.3 years<br>
 
 **Total fertility rate**<br>
 1.24 children born/woman (2023 est.)<br>
@@ -743,10 +743,10 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
+<p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 167,525 (Ukraine) (as of 1 September 2023)<br>
+_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 168,725 (Ukraine) (as of 10 November 2023)<br>
 _stateless persons_: 3,000 (2022)<br>
 <strong>note:</strong> 840,958 estimated refugee and migrant arrivals (January 2015-November 2023)<br>
 

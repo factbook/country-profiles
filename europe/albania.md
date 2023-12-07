@@ -110,21 +110,21 @@ _elderly dependency ratio_: 24.1<br>
 _potential support ratio_: 4.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 34.3 years (2020)<br>
-_male_: 32.9 years<br>
-_female_: 35.7 years<br>
+_total_: 35.8 years (2023 est.)<br>
+_male_: 34.3 years<br>
+_female_: 37.2 years<br>
 
 **Population growth rate**<br>
 0.19% (2023 est.)<br>
 
 **Birth rate**<br>
-12.48 births/1,000 population (2023 est.)<br>
+12.5 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.36 deaths/1,000 population (2023 est.)<br>
+7.4 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--3.22 migrant(s)/1,000 population (2023 est.)<br>
+-3.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution, with somewhat higher concentrations of people in the western and central parts of the country<br>
@@ -150,14 +150,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.54 deaths/1,000 live births (2023 est.)<br>
-_male_: 11.56 deaths/1,000 live births<br>
-_female_: 9.46 deaths/1,000 live births<br>
+_total_: 10.5 deaths/1,000 live births (2023 est.)<br>
+_male_: 11.6 deaths/1,000 live births<br>
+_female_: 9.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
 _total population_: 79.7 years (2023 est.)<br>
-_male_: 77.04 years<br>
-_female_: 82.55 years<br>
+_male_: 77 years<br>
+_female_: 82.6 years<br>
 
 **Total fertility rate**<br>
 1.55 children born/woman (2023 est.)<br>
@@ -339,7 +339,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President of the Republic Bajram BEGAJ (since 24 July 2022)<br>
+_chief of state_: President Bajram BEGAJ (since 24 July 2022)<br>
 _head of government_: Prime Minister Edi RAMA (since 10 September 2013); Deputy Prime Minister Arben AHMETAJ (since 18 September 2021)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, nominated by the president, and approved by the Assembly<br>
 _elections/appointments_: president indirectly elected by the Assembly for a 5-year term (eligible for a second term); a candidate needs three-fifths majority vote of the Assembly in 1 of 3 rounds or a simple majority in 2 additional rounds to become president; election last held in 4 rounds on 16, 23, and 30 May and 4 June 2022 (next election to be held in 2027); prime minister appointed by the president on the proposal of the majority party or coalition of parties in the Assembly<br>

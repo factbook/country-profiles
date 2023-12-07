@@ -116,21 +116,21 @@ _elderly dependency ratio_: 6.2<br>
 _potential support ratio_: 16.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.3 years (2020)<br>
-_male_: 18.1 years<br>
-_female_: 18.5 years<br>
+_total_: 19.1 years (2023 est.)<br>
+_male_: 18.8 years<br>
+_female_: 19.3 years<br>
 
 **Population growth rate**<br>
 2.55% (2023 est.)<br>
 
 **Birth rate**<br>
-33.32 births/1,000 population (2023 est.)<br>
+33.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.19 deaths/1,000 population (2023 est.)<br>
+6.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.63 migrant(s)/1,000 population (2023 est.)<br>
+-1.6 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 with the exception of a ribbon of settlement that corresponds to the banks of the Nile, northern Sudan, which extends into the dry Sahara, is sparsely populated; more abundant vegetation and broader access to water increases population distribution in the south extending habitable range along nearly the entire border with South Sudan; sizeable areas of population are found around Khartoum, southeast between the Blue and White Nile Rivers, and throughout South Darfur as shown on this population distribution map<br>
@@ -154,13 +154,13 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 41.4 deaths/1,000 live births (2023 est.)<br>
-_male_: 46.87 deaths/1,000 live births<br>
-_female_: 35.66 deaths/1,000 live births<br>
+_male_: 46.9 deaths/1,000 live births<br>
+_female_: 35.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.45 years (2023 est.)<br>
-_male_: 65.19 years<br>
-_female_: 69.81 years<br>
+_total population_: 67.5 years (2023 est.)<br>
+_male_: 65.2 years<br>
+_female_: 69.8 years<br>
 
 **Total fertility rate**<br>
 4.54 children born/woman (2023 est.)<br>
@@ -736,5 +736,5 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; Harakat Sawa’d Misr<br
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 682,519 (South Sudan) (refugees and asylum seekers), 137,402 (Eritrea) (refugees and asylum seekers), 93,477 (Syria) (refugees and asylum seekers), 72,334 (Ethiopia) (refugees and asylum seekers), 18,597 (Central African Republic) (2023)<br>
-_IDPs_: 4.96 million (armed conflict between rival factions of the military government of Sudan since 15 April 2023) (2023); note - includes some non-Sudanese nationals<br>
+_IDPs_: 5.29 million (armed conflict between rival factions of the military government of Sudan since 15 April 2023) (2023); note - includes some non-Sudanese nationals<br>
 

@@ -120,21 +120,21 @@ _potential support ratio_: 5.3 (2021 est.)<br>
 <strong>note:</strong> data do not include Hong Kong, Macau, and Taiwan<br>
 
 **Median age**<br>
-_total_: 38.4 years (2020)<br>
-_male_: 37.5 years<br>
-_female_: 39.4 years<br>
+_total_: 39.8 years (2023 est.)<br>
+_male_: 38.6 years<br>
+_female_: 41.1 years<br>
 
 **Population growth rate**<br>
 0.18% (2023 est.)<br>
 
 **Birth rate**<br>
-9.69 births/1,000 population (2023 est.)<br>
+9.7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.82 deaths/1,000 population (2023 est.)<br>
+7.8 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.11 migrant(s)/1,000 population (2023 est.)<br>
+-0.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 overwhelming majority of the population is found in the eastern half of the country; the west, with its vast mountainous and desert areas, remains sparsely populated; though ranked first in the world in total population, overall density is less than that of many other countries in Asia and Europe; high population density is found along the Yangtze and Yellow River valleys, the Xi Jiang River delta, the Sichuan Basin (around Chengdu), in and around Beijing, and the industrial area around Shenyang<br>
@@ -158,12 +158,12 @@ _total population_: 1.04 male(s)/female (2023 est.)<br>
 23 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.49 deaths/1,000 live births (2023 est.)<br>
-_male_: 6.93 deaths/1,000 live births<br>
-_female_: 6.01 deaths/1,000 live births<br>
+_total_: 6.5 deaths/1,000 live births (2023 est.)<br>
+_male_: 6.9 deaths/1,000 live births<br>
+_female_: 6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.23 years (2023 est.)<br>
+_total population_: 78.2 years (2023 est.)<br>
 _male_: 75.5 years<br>
 _female_: 81.2 years<br>
 

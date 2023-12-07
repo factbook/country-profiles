@@ -109,21 +109,21 @@ _elderly dependency ratio_: 5.2<br>
 _potential support ratio_: 19.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.5 years (2020)<br>
-_male_: 18.7 years<br>
-_female_: 18.3 years<br>
+_total_: 19 years (2023 est.)<br>
+_male_: 19.2 years<br>
+_female_: 18.7 years<br>
 
 **Population growth rate**<br>
 2.49% (2023 est.)<br>
 
 **Birth rate**<br>
-37.71 births/1,000 population (2023 est.)<br>
+37.7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-11.43 deaths/1,000 population (2023 est.)<br>
+11.4 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.42 migrant(s)/1,000 population (2023 est.)<br>
+-1.4 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 distribution varies greatly throughout the country; least densely populated areas are in the northeast and central regions, as well as areas along the Kenyan border; most populated areas are in and around the cities of Mogadishu, Marka, Boorama, Hargeysa, and Baidoa as shown on this population distribution map<br>
@@ -146,14 +146,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 621 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 85.06 deaths/1,000 live births (2023 est.)<br>
-_male_: 94.68 deaths/1,000 live births<br>
-_female_: 75.15 deaths/1,000 live births<br>
+_total_: 85.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 94.7 deaths/1,000 live births<br>
+_female_: 75.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 56.12 years (2023 est.)<br>
-_male_: 53.75 years<br>
-_female_: 58.55 years<br>
+_total population_: 56.1 years (2023 est.)<br>
+_male_: 53.8 years<br>
+_female_: 58.6 years<br>
 
 **Total fertility rate**<br>
 5.22 children born/woman (2023 est.)<br>

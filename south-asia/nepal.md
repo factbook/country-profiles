@@ -108,21 +108,21 @@ _elderly dependency ratio_: 9.4<br>
 _potential support ratio_: 10.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 25.3 years (2020)<br>
-_male_: 23.9 years<br>
-_female_: 26.9 years<br>
+_total_: 27.1 years (2023 est.)<br>
+_male_: 26 years<br>
+_female_: 28.1 years<br>
 
 **Population growth rate**<br>
 0.74% (2023 est.)<br>
 
 **Birth rate**<br>
-17.26 births/1,000 population (2023 est.)<br>
+17.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.59 deaths/1,000 population (2023 est.)<br>
+5.6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.29 migrant(s)/1,000 population (2023 est.)<br>
+-4.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is divided nearly equally between a concentration in the southern-most plains of the Tarai region and the central hilly region; overall density is quite low<br>
@@ -149,14 +149,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 174 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 24.55 deaths/1,000 live births (2023 est.)<br>
-_male_: 25.84 deaths/1,000 live births<br>
-_female_: 23.18 deaths/1,000 live births<br>
+_total_: 24.6 deaths/1,000 live births (2023 est.)<br>
+_male_: 25.8 deaths/1,000 live births<br>
+_female_: 23.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.67 years (2023 est.)<br>
-_male_: 71.95 years<br>
-_female_: 73.44 years<br>
+_total population_: 72.7 years (2023 est.)<br>
+_male_: 72 years<br>
+_female_: 73.4 years<br>
 
 **Total fertility rate**<br>
 1.88 children born/woman (2023 est.)<br>

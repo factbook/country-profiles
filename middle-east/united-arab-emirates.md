@@ -107,21 +107,21 @@ _elderly dependency ratio_: 2.1<br>
 _potential support ratio_: 47.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 38.4 years (2020)<br>
-_male_: 40.4 years<br>
-_female_: 31.5 years<br>
+_total_: 35.7 years (2023 est.)<br>
+_male_: 37.9 years<br>
+_female_: 29.9 years<br>
 
 **Population growth rate**<br>
 0.58% (2023 est.)<br>
 
 **Birth rate**<br>
-10.76 births/1,000 population (2023 est.)<br>
+10.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-1.62 deaths/1,000 population (2023 est.)<br>
+1.6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--3.35 migrant(s)/1,000 population (2023 est.)<br>
+-3.4 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population is heavily concentrated to the northeast on the Musandam Peninsula; the three largest emirates - Abu Dhabi, Dubai, and Sharjah - are home to nearly 85% of the population<br>
@@ -144,13 +144,13 @@ _total population_: 2.16 male(s)/female (2023 est.)<br>
 9 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.06 deaths/1,000 live births (2023 est.)<br>
-_male_: 5.63 deaths/1,000 live births<br>
-_female_: 4.45 deaths/1,000 live births<br>
+_total_: 5.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 5.6 deaths/1,000 live births<br>
+_female_: 4.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.75 years (2023 est.)<br>
-_male_: 78.39 years<br>
+_total population_: 79.8 years (2023 est.)<br>
+_male_: 78.4 years<br>
 _female_: 81.2 years<br>
 
 **Total fertility rate**<br>

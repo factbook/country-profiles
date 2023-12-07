@@ -116,21 +116,21 @@ _elderly dependency ratio_: 9.7<br>
 _potential support ratio_: 10.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.2 years (2020)<br>
-_male_: 28.3 years<br>
-_female_: 30 years<br>
+_total_: 30.4 years (2023 est.)<br>
+_male_: 29.5 years<br>
+_female_: 31.3 years<br>
 
 **Population growth rate**<br>
-0.75% (2023 est.)<br>
+0.73% (2023 est.)<br>
 
 **Birth rate**<br>
-16.04 births/1,000 population (2023 est.)<br>
+16.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.14 deaths/1,000 population (2023 est.)<br>
+7.4 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.36 migrant(s)/1,000 population (2023 est.)<br>
+-1.4 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population concentrated along coastal areas and in general proximity to the shores of the Irrawaddy River; the extreme north is relatively underpopulated<br>
@@ -157,14 +157,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 179 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 35.34 deaths/1,000 live births<br>
-_female_: 28.88 deaths/1,000 live births<br>
+_total_: 33.4 deaths/1,000 live births (2023 est.)<br>
+_male_: 36.7 deaths/1,000 live births<br>
+_female_: 29.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.21 years (2023 est.)<br>
-_male_: 68.57 years<br>
-_female_: 71.95 years<br>
+_total population_: 69.8 years (2023 est.)<br>
+_male_: 68.1 years<br>
+_female_: 71.6 years<br>
 
 **Total fertility rate**<br>
 2 children born/woman (2023 est.)<br>

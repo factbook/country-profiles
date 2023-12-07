@@ -101,9 +101,9 @@ _elderly dependency ratio_: 14.1<br>
 _potential support ratio_: 7.1 (2021)<br>
 
 **Median age**<br>
-_total_: 35.7 years (2020)<br>
-_male_: 33.7 years<br>
-_female_: 37.6 years<br>
+_total_: 36.8 years (2023 est.)<br>
+_male_: 34.6 years<br>
+_female_: 38.6 years<br>
 
 **Population growth rate**<br>
 1.77% (2023 est.)<br>
@@ -112,10 +112,10 @@ _female_: 37.6 years<br>
 11.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.72 deaths/1,000 population (2023 est.)<br>
+4.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-10.48 migrant(s)/1,000 population (2023 est.)<br>
+10.5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in The Valley in the center of the island; settlmement is fairly uniform in the southwest, but rather sparce in the northeast<br>
@@ -135,14 +135,14 @@ _65 years and over_: 0.96 male(s)/female<br>
 _total population_: 0.89 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.02 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.94 deaths/1,000 live births<br>
-_female_: 2.08 deaths/1,000 live births<br>
+_total_: 3 deaths/1,000 live births (2023 est.)<br>
+_male_: 3.9 deaths/1,000 live births<br>
+_female_: 2.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.41 years (2023 est.)<br>
-_male_: 79.81 years<br>
-_female_: 85.08 years<br>
+_total population_: 82.4 years (2023 est.)<br>
+_male_: 79.8 years<br>
+_female_: 85.1 years<br>
 
 **Total fertility rate**<br>
 1.72 children born/woman (2023 est.)<br>

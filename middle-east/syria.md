@@ -112,21 +112,21 @@ _elderly dependency ratio_: 7.4<br>
 _potential support ratio_: 13.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 23.5 years (2020)<br>
-_male_: 23 years<br>
-_female_: 24 years<br>
+_total_: 23.9 years (2023 est.)<br>
+_male_: 23.3 years<br>
+_female_: 24.5 years<br>
 
 **Population growth rate**<br>
 6.39% (2023 est.)<br>
 
 **Birth rate**<br>
-22.19 births/1,000 population (2023 est.)<br>
+22.2 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.07 deaths/1,000 population (2023 est.)<br>
+4.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-45.78 migrant(s)/1,000 population (2023 est.) NA<br>
+45.8 migrant(s)/1,000 population (2023 est.) NA<br>
 
 **Population distribution**<br>
 significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley<br>
@@ -150,13 +150,13 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 30 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.48 deaths/1,000 live births (2023 est.)<br>
-_male_: 17.06 deaths/1,000 live births<br>
+_total_: 15.5 deaths/1,000 live births (2023 est.)<br>
+_male_: 17.1 deaths/1,000 live births<br>
 _female_: 13.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.55 years (2023 est.)<br>
-_male_: 73.09 years<br>
+_total population_: 74.6 years (2023 est.)<br>
+_male_: 73.1 years<br>
 _female_: 76.1 years<br>
 
 **Total fertility rate**<br>

@@ -115,21 +115,21 @@ _elderly dependency ratio_: 7.2<br>
 _potential support ratio_: 13.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 22 years (2020)<br>
-_male_: 21.9 years<br>
-_female_: 22.1 years<br>
+_total_: 22.7 years (2023 est.)<br>
+_male_: 22.6 years<br>
+_female_: 22.8 years<br>
 
 **Population growth rate**<br>
 1.91% (2023 est.)<br>
 
 **Birth rate**<br>
-26.01 births/1,000 population (2023 est.)<br>
+26 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.94 deaths/1,000 population (2023 est.)<br>
+5.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.01 migrant(s)/1,000 population (2023 est.)<br>
+-1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the Indus River and its tributaries attract most of the settlement, with Punjab province the most densely populated<br>
@@ -156,14 +156,14 @@ _total population_: 1.04 male(s)/female (2023 est.)<br>
 154 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 52.73 deaths/1,000 live births (2023 est.)<br>
-_male_: 57.13 deaths/1,000 live births<br>
+_total_: 52.7 deaths/1,000 live births (2023 est.)<br>
+_male_: 57.1 deaths/1,000 live births<br>
 _female_: 48.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.96 years (2023 est.)<br>
-_male_: 67.89 years<br>
-_female_: 72.14 years<br>
+_total population_: 70 years (2023 est.)<br>
+_male_: 67.9 years<br>
+_female_: 72.1 years<br>
 
 **Total fertility rate**<br>
 3.39 children born/woman (2023 est.)<br>

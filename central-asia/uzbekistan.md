@@ -110,21 +110,21 @@ _elderly dependency ratio_: 7.2<br>
 _potential support ratio_: 13 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.1 years (2020)<br>
-_male_: 29.4 years<br>
-_female_: 30.7 years<br>
+_total_: 28.7 years (2023 est.)<br>
+_male_: 27.9 years<br>
+_female_: 29.5 years<br>
 
 **Population growth rate**<br>
-0.81% (2023 est.)<br>
+1.61% (2023 est.)<br>
 
 **Birth rate**<br>
-15.18 births/1,000 population (2023 est.)<br>
+22.2 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.43 deaths/1,000 population (2023 est.)<br>
+5.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.7 migrant(s)/1,000 population (2023 est.)<br>
+-0.9 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, while the central and western deserts are sparsely populated<br>
@@ -137,11 +137,11 @@ _rate of urbanization_: 1.25% annual rate of change (2020-25 est.)<br>
 2.603 million TASHKENT (capital) (2023)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.06 male(s)/female<br>
+_at birth_: 1.08 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
 _65 years and over_: 0.76 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.7 years (2019 est.)<br>
@@ -150,20 +150,20 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 30 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.55 deaths/1,000 live births (2023 est.)<br>
-_male_: 22.09 deaths/1,000 live births<br>
-_female_: 14.8 deaths/1,000 live births<br>
+_total_: 18.9 deaths/1,000 live births (2023 est.)<br>
+_male_: 21.9 deaths/1,000 live births<br>
+_female_: 15.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.55 years (2023 est.)<br>
-_male_: 72.54 years<br>
-_female_: 78.74 years<br>
+_total population_: 75.8 years (2023 est.)<br>
+_male_: 73.2 years<br>
+_female_: 78.6 years<br>
 
 **Total fertility rate**<br>
-1.72 children born/woman (2023 est.)<br>
+2.92 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.84 (2023 est.)<br>
+1.41 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

@@ -87,21 +87,21 @@ _elderly dependency ratio_: 12.3<br>
 _potential support ratio_: 8.1 (2021)<br>
 
 **Median age**<br>
-_total_: 41.1 years (2020)<br>
-_male_: 39.6 years<br>
-_female_: 42.7 years<br>
+_total_: 41.1 years (2023 est.)<br>
+_male_: 39.3 years<br>
+_female_: 42.8 years<br>
 
 **Population growth rate**<br>
 1.19% (2023 est.)<br>
 
 **Birth rate**<br>
-12.41 births/1,000 population (2023 est.)<br>
+12.4 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.24 deaths/1,000 population (2023 est.)<br>
+6.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-5.76 migrant(s)/1,000 population (2023 est.)<br>
+5.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most populous areas are Lower Prince's Quarter (north of Philipsburg), followed closely by Cul de Sac<br>
@@ -121,14 +121,14 @@ _65 years and over_: 0.86 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.81 deaths/1,000 live births (2023 est.)<br>
-_male_: 8.61 deaths/1,000 live births<br>
-_female_: 6.97 deaths/1,000 live births<br>
+_total_: 7.8 deaths/1,000 live births (2023 est.)<br>
+_male_: 8.6 deaths/1,000 live births<br>
+_female_: 7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
 _total population_: 79.5 years (2023 est.)<br>
-_male_: 77.16 years<br>
-_female_: 81.95 years<br>
+_male_: 77.2 years<br>
+_female_: 82 years<br>
 
 **Total fertility rate**<br>
 1.98 children born/woman (2023 est.)<br>

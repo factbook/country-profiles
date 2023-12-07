@@ -108,21 +108,21 @@ _elderly dependency ratio_: 31.4<br>
 _potential support ratio_: 3.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 43.6 years (2020)<br>
-_male_: 41.5 years<br>
-_female_: 45.5 years<br>
+_total_: 44.5 years (2023 est.)<br>
+_male_: 42.6 years<br>
+_female_: 46.4 years<br>
 
 **Population growth rate**<br>
--0.31% (2023 est.)<br>
+-0.33% (2023 est.)<br>
 
 **Birth rate**<br>
-8.58 births/1,000 population (2023 est.)<br>
+9.2 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-12.89 deaths/1,000 population (2023 est.)<br>
+15 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.21 migrant(s)/1,000 population (2023 est.)<br>
+2.6 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -139,7 +139,7 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
 _65 years and over_: 0.63 male(s)/female<br>
-_total population_: 0.91 male(s)/female (2023 est.)<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.4 years (2020 est.)<br>
@@ -148,20 +148,20 @@ _total population_: 0.91 male(s)/female (2023 est.)<br>
 15 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.55 deaths/1,000 live births (2023 est.)<br>
-_male_: 4.88 deaths/1,000 live births<br>
-_female_: 4.2 deaths/1,000 live births<br>
+_total_: 4.8 deaths/1,000 live births (2023 est.)<br>
+_male_: 5.2 deaths/1,000 live births<br>
+_female_: 4.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.44 years (2023 est.)<br>
-_male_: 73.82 years<br>
-_female_: 81.28 years<br>
+_total population_: 75.3 years (2023 est.)<br>
+_male_: 72.1 years<br>
+_female_: 78.7 years<br>
 
 **Total fertility rate**<br>
-1.49 children born/woman (2023 est.)<br>
+1.59 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.72 (2023 est.)<br>
+0.78 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -742,7 +742,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Hungary and Slovakia have a long-running dispute over the implementation of a 1970s soviet-era hydropower project on the Danube, the Gabčíkovo-Nagymaros project </p><br>
+<p>Hungary and Slovakia have a long-running dispute over the implementation of a 1970s Soviet-era hydropower project on the Danube, the Gabčíkovo-Nagymaros project </p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 53,375 (Ukraine) (as of 5 November 2023)<br>

@@ -100,21 +100,21 @@ _elderly dependency ratio_: 23<br>
 _potential support ratio_: 4.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 39.9 years (2020)<br>
-_male_: 38.2 years<br>
-_female_: 41.5 years<br>
+_total_: 40.7 years (2023 est.)<br>
+_male_: 39 years<br>
+_female_: 42.2 years<br>
 
 **Population growth rate**<br>
 1.11% (2023 est.)<br>
 
 **Birth rate**<br>
-11.69 births/1,000 population (2023 est.)<br>
+11.7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.69 deaths/1,000 population (2023 est.)<br>
+8.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-8.08 migrant(s)/1,000 population (2023 est.)<br>
+8.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most residents live in or around Oranjestad and San Nicolaas; most settlments tend to be located on the less mountainous western side of the island<br>
@@ -134,14 +134,14 @@ _65 years and over_: 0.67 male(s)/female<br>
 _total population_: 0.9 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.79 deaths/1,000 live births (2023 est.)<br>
-_male_: 16.04 deaths/1,000 live births<br>
-_female_: 7.45 deaths/1,000 live births<br>
+_total_: 11.8 deaths/1,000 live births (2023 est.)<br>
+_male_: 16 deaths/1,000 live births<br>
+_female_: 7.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.25 years (2023 est.)<br>
-_male_: 75.19 years<br>
-_female_: 81.37 years<br>
+_total population_: 78.3 years (2023 est.)<br>
+_male_: 75.2 years<br>
+_female_: 81.4 years<br>
 
 **Total fertility rate**<br>
 1.82 children born/woman (2023 est.)<br>

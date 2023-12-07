@@ -105,21 +105,21 @@ _elderly dependency ratio_: 23.3<br>
 _potential support ratio_: 4.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 43.2 years (2020)<br>
-_male_: 41.6 years<br>
-_female_: 45 years<br>
+_total_: 45 years (2023 est.)<br>
+_male_: 43.5 years<br>
+_female_: 46.8 years<br>
 
 **Population growth rate**<br>
 0.23% (2023 est.)<br>
 
 **Birth rate**<br>
-6.95 births/1,000 population (2023 est.)<br>
+7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.28 deaths/1,000 population (2023 est.)<br>
+7.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-2.61 migrant(s)/1,000 population (2023 est.)<br>
+2.6 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 with approximately 70% of the country considered mountainous, the country's population is primarily concentrated in the lowland areas, where density is quite high; Gyeonggi Province in the northwest, which surrounds the capital of Seoul and contains the port of Incheon, is the most densely populated province; Gangwon in the northeast is the least populated<br>
@@ -145,14 +145,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.83 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.04 deaths/1,000 live births<br>
+_total_: 2.8 deaths/1,000 live births (2023 est.)<br>
+_male_: 3 deaths/1,000 live births<br>
 _female_: 2.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.17 years (2023 est.)<br>
-_male_: 80.09 years<br>
-_female_: 86.42 years<br>
+_total population_: 83.2 years (2023 est.)<br>
+_male_: 80.1 years<br>
+_female_: 86.4 years<br>
 
 **Total fertility rate**<br>
 1.11 children born/woman (2023 est.)<br>

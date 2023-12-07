@@ -105,9 +105,9 @@ _elderly dependency ratio_: 22.5<br>
 _potential support ratio_: 4.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 37.1 years (2020)<br>
-_male_: 36.6 years<br>
-_female_: 37.7 years<br>
+_total_: 37.8 years (2023 est.)<br>
+_male_: 37.2 years<br>
+_female_: 38.4 years<br>
 
 **Population growth rate**<br>
 0.89% (2023 est.)<br>
@@ -116,10 +116,10 @@ _female_: 37.7 years<br>
 12.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.57 deaths/1,000 population (2023 est.)<br>
+6.6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-2.69 migrant(s)/1,000 population (2023 est.)<br>
+2.7 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 Iceland is almost entirely urban with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west<br>
@@ -145,14 +145,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.63 deaths/1,000 live births (2023 est.)<br>
-_male_: 1.82 deaths/1,000 live births<br>
-_female_: 1.44 deaths/1,000 live births<br>
+_total_: 1.6 deaths/1,000 live births (2023 est.)<br>
+_male_: 1.8 deaths/1,000 live births<br>
+_female_: 1.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.83 years (2023 est.)<br>
-_male_: 81.61 years<br>
-_female_: 86.15 years<br>
+_total population_: 83.8 years (2023 est.)<br>
+_male_: 81.6 years<br>
+_female_: 86.2 years<br>
 
 **Total fertility rate**<br>
 1.95 children born/woman (2023 est.)<br>

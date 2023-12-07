@@ -117,9 +117,9 @@ _elderly dependency ratio_: 5.9<br>
 _potential support ratio_: 20.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.2 years (2020)<br>
-_male_: 17.9 years<br>
-_female_: 18.4 years<br>
+_total_: 18.9 years (2023 est.)<br>
+_male_: 18.7 years<br>
+_female_: 19.2 years<br>
 
 **Population growth rate**<br>
 2.75% (2023 est.)<br>
@@ -128,10 +128,10 @@ _female_: 18.4 years<br>
 32.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.02 deaths/1,000 population (2023 est.)<br>
+5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.39 migrant(s)/1,000 population (2023 est.)<br>
+-0.4 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast as shown in this population distribution map<br>
@@ -158,14 +158,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 238 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 30.25 deaths/1,000 live births (2023 est.)<br>
-_male_: 32.97 deaths/1,000 live births<br>
-_female_: 27.44 deaths/1,000 live births<br>
+_total_: 30.3 deaths/1,000 live births (2023 est.)<br>
+_male_: 33 deaths/1,000 live births<br>
+_female_: 27.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.48 years (2023 est.)<br>
-_male_: 68.72 years<br>
-_female_: 72.29 years<br>
+_total population_: 70.5 years (2023 est.)<br>
+_male_: 68.7 years<br>
+_female_: 72.3 years<br>
 
 **Total fertility rate**<br>
 4.33 children born/woman (2023 est.)<br>
@@ -743,7 +743,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 117,734 (Burundi), 88,840 (Democratic Republic of the Congo) (2023)<br>
+_refugees (country of origin)_: 114,743 (Burundi), 89,017 (Democratic Republic of the Congo) (2023)<br>
 
 **Illicit drugs**<br>
 <p>significant transit country for illicit drugs in East Africa; international drug trafficking organizations and courier networks transit illicit drugs through mainland Tanzania to markets in Europe and North America; cultivates cannabis and khat for domestic consumption and regional and international distribution; domestic drug use continues increasing including methamphetamine use</p> (2021)<br>

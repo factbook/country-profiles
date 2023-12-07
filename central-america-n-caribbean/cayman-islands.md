@@ -101,21 +101,21 @@ _elderly dependency ratio_: 10.4<br>
 _potential support ratio_: 9.6 (2021)<br>
 
 **Median age**<br>
-_total_: 40.5 years (2020)<br>
-_male_: 39.7 years<br>
-_female_: 41.2 years<br>
+_total_: 41 years (2023 est.)<br>
+_male_: 40.2 years<br>
+_female_: 41.8 years<br>
 
 **Population growth rate**<br>
 1.79% (2023 est.)<br>
 
 **Birth rate**<br>
-11.62 births/1,000 population (2023 est.)<br>
+11.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.06 deaths/1,000 population (2023 est.)<br>
+6.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-12.34 migrant(s)/1,000 population (2023 est.)<br>
+12.3 migrant(s)/1,000 population (2023 est.)<br>
 <strong>note:</strong> major destination for Cubans trying to migrate to the US<br>
 
 **Population distribution**<br>
@@ -136,14 +136,14 @@ _65 years and over_: 0.84 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.47 deaths/1,000 live births (2023 est.)<br>
-_male_: 9.04 deaths/1,000 live births<br>
-_female_: 5.87 deaths/1,000 live births<br>
+_total_: 7.5 deaths/1,000 live births (2023 est.)<br>
+_male_: 9 deaths/1,000 live births<br>
+_female_: 5.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.25 years (2023 est.)<br>
-_male_: 79.57 years<br>
-_female_: 84.98 years<br>
+_total population_: 82.3 years (2023 est.)<br>
+_male_: 79.6 years<br>
+_female_: 85 years<br>
 
 **Total fertility rate**<br>
 1.82 children born/woman (2023 est.)<br>

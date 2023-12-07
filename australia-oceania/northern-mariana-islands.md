@@ -100,9 +100,9 @@ _elderly dependency ratio_: 14.3<br>
 _potential support ratio_: 7 (2021)<br>
 
 **Median age**<br>
-_total_: 32.8 years (2020)<br>
-_male_: 31.8 years<br>
-_female_: 34.1 years<br>
+_total_: 32.3 years (2023 est.)<br>
+_male_: 31.7 years<br>
+_female_: 33.3 years<br>
 
 **Population growth rate**<br>
 -0.35% (2023 est.)<br>
@@ -111,10 +111,10 @@ _female_: 34.1 years<br>
 15.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.58 deaths/1,000 population (2023 est.)<br>
+5.6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--13.51 migrant(s)/1,000 population (2023 est.)<br>
+-13.5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 approximately 90% of the population lives on the island of Saipan<br>
@@ -134,14 +134,14 @@ _65 years and over_: 1.12 male(s)/female<br>
 _total population_: 1.13 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.17 deaths/1,000 live births (2023 est.)<br>
-_male_: 14.75 deaths/1,000 live births<br>
-_female_: 9.16 deaths/1,000 live births<br>
+_total_: 12.2 deaths/1,000 live births (2023 est.)<br>
+_male_: 14.8 deaths/1,000 live births<br>
+_female_: 9.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.83 years (2023 est.)<br>
-_male_: 74.75 years<br>
-_female_: 79.27 years<br>
+_total population_: 76.8 years (2023 est.)<br>
+_male_: 74.8 years<br>
+_female_: 79.3 years<br>
 
 **Total fertility rate**<br>
 2.59 children born/woman (2023 est.)<br>

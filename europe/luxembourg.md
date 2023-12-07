@@ -104,21 +104,21 @@ _elderly dependency ratio_: 21.3<br>
 _potential support ratio_: 4.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 39.5 years (2020)<br>
-_male_: 38.9 years<br>
-_female_: 40 years<br>
+_total_: 39.8 years (2023 est.)<br>
+_male_: 39.3 years<br>
+_female_: 40.3 years<br>
 
 **Population growth rate**<br>
 1.58% (2023 est.)<br>
 
 **Birth rate**<br>
-11.59 births/1,000 population (2023 est.)<br>
+11.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.17 deaths/1,000 population (2023 est.)<br>
+7.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-11.39 migrant(s)/1,000 population (2023 est.)<br>
+11.4 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most people live in the south, on or near the border with France<br>
@@ -144,14 +144,14 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 6 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.21 deaths/1,000 live births (2023 est.)<br>
+_total_: 3.2 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.6 deaths/1,000 live births<br>
-_female_: 2.79 deaths/1,000 live births<br>
+_female_: 2.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.17 years (2023 est.)<br>
-_male_: 80.73 years<br>
-_female_: 85.76 years<br>
+_total population_: 83.2 years (2023 est.)<br>
+_male_: 80.7 years<br>
+_female_: 85.8 years<br>
 
 **Total fertility rate**<br>
 1.63 children born/woman (2023 est.)<br>

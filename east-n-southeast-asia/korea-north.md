@@ -104,21 +104,21 @@ _elderly dependency ratio_: 16.3<br>
 _potential support ratio_: 6.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 34.6 years (2020)<br>
-_male_: 33.2 years<br>
-_female_: 36.2 years<br>
+_total_: 35.6 years (2023 est.)<br>
+_male_: 34.2 years<br>
+_female_: 37.1 years<br>
 
 **Population growth rate**<br>
-0.44% (2023 est.)<br>
+0.4% (2023 est.)<br>
 
 **Birth rate**<br>
-14.06 births/1,000 population (2023 est.)<br>
+13.4 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.66 deaths/1,000 population (2023 est.)<br>
+9.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.04 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the plains and lowlands; least populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east<br>
@@ -141,20 +141,20 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 107 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22 deaths/1,000 live births (2023 est.)<br>
-_male_: 24.85 deaths/1,000 live births<br>
-_female_: 18.99 deaths/1,000 live births<br>
+_total_: 16.2 deaths/1,000 live births (2023 est.)<br>
+_male_: 17.9 deaths/1,000 live births<br>
+_female_: 14.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.88 years (2023 est.)<br>
-_male_: 67.97 years<br>
-_female_: 76.02 years<br>
+_total population_: 72.9 years (2023 est.)<br>
+_male_: 69.5 years<br>
+_female_: 76.5 years<br>
 
 **Total fertility rate**<br>
-1.89 children born/woman (2023 est.)<br>
+1.82 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.92 (2023 est.)<br>
+0.88 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 70.2% (2017)<br>

@@ -121,21 +121,21 @@ _elderly dependency ratio_: 13.7<br>
 _potential support ratio_: 7.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 33.2 years (2020)<br>
-_male_: 32.3 years<br>
-_female_: 34.1 years<br>
+_total_: 34.7 years (2023 est.)<br>
+_male_: 33.6 years<br>
+_female_: 35.7 years<br>
 
 **Population growth rate**<br>
 0.64% (2023 est.)<br>
 
 **Birth rate**<br>
-13.44 births/1,000 population (2023 est.)<br>
+13.4 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 6.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.19 migrant(s)/1,000 population (2023 est.)<br>
+-0.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the vast majority of people live along, or relatively near, the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of S&atilde;o Paolo, Bras&iacute;lia, and Rio de Janeiro<br>
@@ -158,14 +158,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 72 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.11 deaths/1,000 live births (2023 est.)<br>
-_male_: 14.68 deaths/1,000 live births<br>
-_female_: 11.45 deaths/1,000 live births<br>
+_total_: 13.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 14.7 deaths/1,000 live births<br>
+_female_: 11.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
 _total population_: 76.1 years (2023 est.)<br>
-_male_: 72.56 years<br>
-_female_: 79.81 years<br>
+_male_: 72.6 years<br>
+_female_: 79.8 years<br>
 
 **Total fertility rate**<br>
 1.75 children born/woman (2023 est.)<br>

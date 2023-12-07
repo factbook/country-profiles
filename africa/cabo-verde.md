@@ -104,21 +104,21 @@ _elderly dependency ratio_: 8<br>
 _potential support ratio_: 12.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 26.8 years (2020)<br>
-_male_: 25.9 years<br>
-_female_: 27.6 years<br>
+_total_: 28.3 years (2023 est.)<br>
+_male_: 27.5 years<br>
+_female_: 29.2 years<br>
 
 **Population growth rate**<br>
 1.19% (2023 est.)<br>
 
 **Birth rate**<br>
-18.19 births/1,000 population (2023 est.)<br>
+18.2 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.77 deaths/1,000 population (2023 est.)<br>
+5.8 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.57 migrant(s)/1,000 population (2023 est.)<br>
+-0.6 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 among the nine inhabited islands, population distribution is variable; islands in the east are very dry and are only sparsely settled to exploit their extensive salt deposits; the more southerly islands receive more precipitation and support larger populations, but agriculture and livestock grazing have damaged the soil fertility and vegetation; approximately half of the population lives on Sao Tiago Island, which is the location of the capital of Praia; Mindelo, on the northern island of Sao Vicente, also has a large urban population as shown in this population distribution map<br>
@@ -141,14 +141,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 42 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.96 deaths/1,000 live births (2023 est.)<br>
-_male_: 26.96 deaths/1,000 live births<br>
-_female_: 18.84 deaths/1,000 live births<br>
+_total_: 23 deaths/1,000 live births (2023 est.)<br>
+_male_: 27 deaths/1,000 live births<br>
+_female_: 18.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.02 years (2023 est.)<br>
-_male_: 71.69 years<br>
-_female_: 76.41 years<br>
+_total population_: 74 years (2023 est.)<br>
+_male_: 71.7 years<br>
+_female_: 76.4 years<br>
 
 **Total fertility rate**<br>
 2.11 children born/woman (2023 est.)<br>

@@ -132,13 +132,13 @@ _female_: 39.8 years<br>
 0.68% (2023 est.)<br>
 
 **Birth rate**<br>
-12.21 births/1,000 population (2023 est.)<br>
+12.2 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.42 deaths/1,000 population (2023 est.)<br>
+8.4 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.01 migrant(s)/1,000 population (2023 est.)<br>
+3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western tier states; mountainous areas, principally the Rocky Mountains and Appalachian chain, deserts in the southwest, the dense boreal forests in the extreme north, and the central prarie states are less densely populated; Alaska's population is concentrated along its southern coast - with particular emphasis on the city of Anchorage - and Hawaii's is centered on the island of Oahu<br>
@@ -164,14 +164,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 21 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.12 deaths/1,000 live births (2023 est.)<br>
-_male_: 5.49 deaths/1,000 live births<br>
-_female_: 4.73 deaths/1,000 live births<br>
+_total_: 5.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 5.5 deaths/1,000 live births<br>
+_female_: 4.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.75 years (2023 est.)<br>
-_male_: 78.54 years<br>
-_female_: 82.93 years<br>
+_total population_: 80.8 years (2023 est.)<br>
+_male_: 78.5 years<br>
+_female_: 82.9 years<br>
 
 **Total fertility rate**<br>
 1.84 children born/woman (2023 est.)<br>

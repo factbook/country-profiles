@@ -111,21 +111,21 @@ _elderly dependency ratio_: 5.5<br>
 _potential support ratio_: 18.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 25.3 years (2020)<br>
-_male_: 24.6 years<br>
-_female_: 26 years<br>
+_total_: 22.7 years (2023 est.)<br>
+_male_: 22.3 years<br>
+_female_: 23.2 years<br>
 
 **Population growth rate**<br>
-1.36% (2023 est.)<br>
+1.94% (2023 est.)<br>
 
 **Birth rate**<br>
-20.28 births/1,000 population (2023 est.)<br>
+26.4 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.67 deaths/1,000 population (2023 est.)<br>
+4.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.02 migrant(s)/1,000 population (2023 est.)<br>
+-2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the country's population is concentrated at lower elevations, with perhaps as much as 90% of the people living in valleys; overall density increases from east to west<br>
@@ -142,7 +142,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 0.99 male(s)/female<br>
 _65 years and over_: 0.71 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.2 years (2017 est.)<br>
@@ -151,20 +151,20 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 17 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 31.62 deaths/1,000 live births (2023 est.)<br>
-_male_: 36.28 deaths/1,000 live births<br>
-_female_: 26.73 deaths/1,000 live births<br>
+_total_: 23.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 26 deaths/1,000 live births<br>
+_female_: 20.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.66 years (2023 est.)<br>
-_male_: 66.49 years<br>
-_female_: 72.99 years<br>
+_total population_: 71.1 years (2023 est.)<br>
+_male_: 69.2 years<br>
+_female_: 73.1 years<br>
 
 **Total fertility rate**<br>
-2.42 children born/woman (2023 est.)<br>
+3.6 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-1.18 (2023 est.)<br>
+1.75 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 29.3% (2017)<br>

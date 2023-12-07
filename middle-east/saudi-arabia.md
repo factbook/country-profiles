@@ -111,9 +111,9 @@ _elderly dependency ratio_: 3.7<br>
 _potential support ratio_: 27.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.8 years (2020)<br>
-_male_: 33 years<br>
-_female_: 27.9 years<br>
+_total_: 32 years (2023 est.)<br>
+_male_: 34.2 years<br>
+_female_: 29 years<br>
 
 **Population growth rate**<br>
 1.65% (2023 est.)<br>
@@ -122,10 +122,10 @@ _female_: 27.9 years<br>
 13.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.45 deaths/1,000 population (2023 est.)<br>
+3.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-6.07 migrant(s)/1,000 population (2023 est.)<br>
+6.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 historically a population that was mostly nomadic or semi-nomadic, the Saudi population has become more settled since petroleum was discovered in the 1930s; most of the economic activities - and with it the country's population - is concentrated in a wide area across the middle of the peninsula, from Ad Dammam in the east, through Riyadh in the interior, to Mecca-Medina in the west near the Red Sea<br>
@@ -148,14 +148,14 @@ _total population_: 1.31 male(s)/female (2023 est.)<br>
 16 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.97 deaths/1,000 live births (2023 est.)<br>
-_male_: 13.16 deaths/1,000 live births<br>
-_female_: 10.71 deaths/1,000 live births<br>
+_total_: 12 deaths/1,000 live births (2023 est.)<br>
+_male_: 13.2 deaths/1,000 live births<br>
+_female_: 10.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.91 years (2023 est.)<br>
-_male_: 75.33 years<br>
-_female_: 78.56 years<br>
+_total population_: 76.9 years (2023 est.)<br>
+_male_: 75.3 years<br>
+_female_: 78.6 years<br>
 
 **Total fertility rate**<br>
 1.89 children born/woman (2023 est.)<br>
@@ -362,7 +362,7 @@ _email address and website_: <br>info@saudiembassy.net; Saudisusemb@mofa.gov.sa<
 _consulate(s) general_: Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Michael STRONG (since 2 May 2023)<br>
+_chief of mission_: Ambassador Michael RATNEY (since 27 April 2023)<br>
 _embassy_: Riyadh 11564<br>
 _mailing address_: 6300 Riyadh Place, Washington DC&nbsp; 20521-6300<br>
 _telephone_: [966] (11) 835-4000<br>
@@ -506,10 +506,10 @@ $182.848 billion (2020 est.) note: data are in current year dollars<br>
 $285.86 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-China 20%, India 11%, Japan 11%, South Korea 9%, United States 5% (2019)<br>
+China 19%, India 10%, Japan 9%, South Korea 8%, United Arab Emirates 5% (2021)<br>
 
 **Exports - commodities**<br>
-crude petroleum, refined petroleum, polymers, industrial alcohols, natural gas (2019)<br>
+crude petroleum, refined petroleum, polymers, industrial alcohols, natural gas (2021)<br>
 
 **Imports**<br>
 $213.016 billion (2021 est.) note: data are in current year dollars<br>
@@ -517,10 +517,10 @@ $182.184 billion (2020 est.) note: data are in current year dollars<br>
 $218.941 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 18%, United Arab Emirates 12%, United States 9%, Germany 5% (2019)<br>
+China 19%, United Arab Emirates 15%, United States 8%, India 6%, Germany 4% (2021)<br>
 
 **Imports - commodities**<br>
-cars, broadcasting equipment, refined petroleum, packaged medicines, telephones (2019)<br>
+cars, refined petroleum, broadcasting equipment, gold, packaged medicines (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $473.89 billion (31 December 2021 est.)<br>

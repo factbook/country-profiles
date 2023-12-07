@@ -114,21 +114,21 @@ _elderly dependency ratio_: 34.7<br>
 _potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 47.8 years (2020)<br>
-_male_: 46.5 years<br>
-_female_: 49.1 years<br>
+_total_: 46.7 years (2023 est.)<br>
+_male_: 45.4 years<br>
+_female_: 48.2 years<br>
 
 **Population growth rate**<br>
 -0.12% (2023 est.)<br>
 
 **Birth rate**<br>
-9.02 births/1,000 population (2023 est.)<br>
+9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-11.97 deaths/1,000 population (2023 est.)<br>
+12 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.78 migrant(s)/1,000 population (2023 est.)<br>
+1.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 second most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far western part of the industrial state of North Rhine-Westphalia<br>
@@ -154,13 +154,13 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 4 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.14 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.51 deaths/1,000 live births<br>
-_female_: 2.76 deaths/1,000 live births<br>
+_total_: 3.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 3.5 deaths/1,000 live births<br>
+_female_: 2.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.72 years (2023 est.)<br>
-_male_: 79.37 years<br>
+_total population_: 81.7 years (2023 est.)<br>
+_male_: 79.4 years<br>
 _female_: 84.2 years<br>
 
 **Total fertility rate**<br>

@@ -114,21 +114,21 @@ _elderly dependency ratio_: 7.3<br>
 _potential support ratio_: 13.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 25.8 years (2020)<br>
-_male_: 25.9 years<br>
-_female_: 25.7 years<br>
+_total_: 26.1 years (2023 est.)<br>
+_male_: 26.1 years<br>
+_female_: 26.1 years<br>
 
 **Population growth rate**<br>
 1.54% (2023 est.)<br>
 
 **Birth rate**<br>
-20.88 births/1,000 population (2023 est.)<br>
+20.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.45 deaths/1,000 population (2023 est.)<br>
+3.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.05 migrant(s)/1,000 population (2023 est.)<br>
+-2.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 well over 90% of the population lives along the Mediterranean coast in and between Tripoli to the west and Al Bayda to the east; the interior remains vastly underpopulated due to the Sahara and lack of surface water as shown in this population distribution map<br>
@@ -151,14 +151,14 @@ _total population_: 1.04 male(s)/female (2023 est.)<br>
 72 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.95 deaths/1,000 live births (2023 est.)<br>
-_male_: 12.36 deaths/1,000 live births<br>
-_female_: 9.48 deaths/1,000 live births<br>
+_total_: 11 deaths/1,000 live births (2023 est.)<br>
+_male_: 12.4 deaths/1,000 live births<br>
+_female_: 9.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.42 years (2023 est.)<br>
+_total population_: 77.4 years (2023 est.)<br>
 _male_: 75.2 years<br>
-_female_: 79.76 years<br>
+_female_: 79.8 years<br>
 
 **Total fertility rate**<br>
 3.04 children born/woman (2023 est.)<br>

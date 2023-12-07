@@ -101,21 +101,21 @@ _elderly dependency ratio_: 25.9<br>
 _potential support ratio_: 3.9 (2021)<br>
 
 **Median age**<br>
-_total_: 48.5 years (2020)<br>
-_male_: 47.9 years<br>
-_female_: 49 years<br>
+_total_: 50.6 years (2023 est.)<br>
+_male_: 49.9 years<br>
+_female_: 51.2 years<br>
 
 **Population growth rate**<br>
 -1.19% (2023 est.)<br>
 
 **Birth rate**<br>
-6.54 births/1,000 population (2023 est.)<br>
+6.5 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-11.36 deaths/1,000 population (2023 est.)<br>
+11.4 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--7.12 migrant(s)/1,000 population (2023 est.)<br>
+-7.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is found on Saint Pierre Island; a small settlement is located on the north end of Miquelon Island<br>
@@ -135,20 +135,20 @@ _65 years and over_: 0.79 male(s)/female<br>
 _total population_: 0.94 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.97 deaths/1,000 live births (2023 est.)<br>
-_male_: 9.87 deaths/1,000 live births<br>
-_female_: 5.96 deaths/1,000 live births<br>
+_total_: 8 deaths/1,000 live births (2023 est.)<br>
+_male_: 9.9 deaths/1,000 live births<br>
+_female_: 6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.62 years (2023 est.)<br>
-_male_: 79.27 years<br>
-_female_: 84.11 years<br>
+_total population_: 81.6 years (2023 est.)<br>
+_male_: 79.3 years<br>
+_female_: 84.1 years<br>
 
 **Total fertility rate**<br>
 1.59 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.77 (2023 est.)<br>
+0.76 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

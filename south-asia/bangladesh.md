@@ -111,9 +111,9 @@ _elderly dependency ratio_: 8.6<br>
 _potential support ratio_: 11.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 27.9 years (2020)<br>
-_male_: 27.1 years<br>
-_female_: 28.6 years<br>
+_total_: 29.2 years (2023 est.)<br>
+_male_: 28.3 years<br>
+_female_: 30 years<br>
 
 **Population growth rate**<br>
 0.91% (2023 est.)<br>
@@ -125,7 +125,7 @@ _female_: 28.6 years<br>
 5.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.88 migrant(s)/1,000 population (2023 est.)<br>
+-2.9 migrant(s)/1,000 population (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 40.5% of total population (2023)<br>
@@ -149,14 +149,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 123 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 29.58 deaths/1,000 live births (2023 est.)<br>
-_male_: 32.12 deaths/1,000 live births<br>
-_female_: 26.93 deaths/1,000 live births<br>
+_total_: 29.6 deaths/1,000 live births (2023 est.)<br>
+_male_: 32.1 deaths/1,000 live births<br>
+_female_: 26.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.96 years (2023 est.)<br>
+_total population_: 75 years (2023 est.)<br>
 _male_: 72.8 years<br>
-_female_: 77.21 years<br>
+_female_: 77.2 years<br>
 
 **Total fertility rate**<br>
 2.08 children born/woman (2023 est.)<br>
@@ -366,7 +366,7 @@ _judge selection and term of office_: chief justice and justices appointed by th
 _subordinate courts_: civil courts include: Assistant Judge's Court; Joint District Judge's Court; Additional District Judge's Court; District Judge's Court; criminal courts include: Court of Sessions; Court of Metropolitan Sessions; Metropolitan Magistrate Courts; Magistrate Court; special courts/tribunals<br>
 
 **Political parties and leaders**<br>
-Awami League or AL [Sheikh HASINA]<br>Bangladesh Jamaat-i-Islami or JIB [Shafiqur RAHMAN]<br>Bangladesh Nationalist Front or BNF [S. M. Abul Kalam AZAD]<br>Bangladesh Nationalist Party or BNP [Tarique RAHMAN, acting chairperson; Khaleda ZIA]<br>Bangladesh Tariqat Federation or BTF [Syed Nozibul Bashar MAIZBHANDARI]<br>Jatiya Party or JP (Ershad faction) [Rowshan ERSHAD]<br>Jatiya Party or JP (Manju faction) [Anwar Hossain MANJU]<br>Liberal Democratic Party or LDP [Oli AHMED]<br>National Socialist Party (Jatiya Samajtantrik Dal) or JSD [Hasanul Haque INU]<br>Workers Party or WP [Rashed Khan MENON]<br>
+Awami League or AL [Sheikh HASINA]<br>Bangladesh Jamaat-i-Islami or JIB [Shafiqur RAHMAN]<br>Bangladesh Nationalist Front or BNF [S. M. Abul Kalam AZAD]<br>Bangladesh Nationalist Party or BNP [Tarique RAHMAN, acting chairperson; Begum  Khaleda ZIA]<br>Bangladesh Tariqat Federation or BTF [Syed Nozibul Bashar MAIZBHANDARI]<br>Jatiya Party or JP (Ershad faction) [Rowshan ERSHAD]<br>Jatiya Party or JP (Manju faction) [Anwar Hossain MANJU]<br>Liberal Democratic Party or LDP [Oli AHMED]<br>National Socialist Party (Jatiya Samajtantrik Dal) or JSD [Hasanul Haque INU]<br>Workers Party or WP [Rashed Khan MENON]<br>
 
 **International organization participation**<br>
 ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNIFIL, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

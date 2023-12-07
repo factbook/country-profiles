@@ -116,21 +116,21 @@ _elderly dependency ratio_: 13.1<br>
 _potential support ratio_: 7.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30 years (2020)<br>
-_male_: 29.4 years<br>
-_female_: 30.7 years<br>
+_total_: 30.8 years (2023 est.)<br>
+_male_: 30.1 years<br>
+_female_: 31.5 years<br>
 
 **Population growth rate**<br>
 2.4% (2023 est.)<br>
 
 **Birth rate**<br>
-16.99 births/1,000 population (2023 est.)<br>
+17 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.55 deaths/1,000 population (2023 est.)<br>
+6.6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-13.55 migrant(s)/1,000 population (2023 est.)<br>
+13.6 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in the northern and western highlands along an eastern spur at the northern end of the Andes, an area that includes the capital of Caracas<br>
@@ -154,13 +154,13 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 14.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 15.67 deaths/1,000 live births<br>
-_female_: 12.46 deaths/1,000 live births<br>
+_male_: 15.7 deaths/1,000 live births<br>
+_female_: 12.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.25 years (2023 est.)<br>
-_male_: 71.19 years<br>
-_female_: 77.45 years<br>
+_total population_: 74.3 years (2023 est.)<br>
+_male_: 71.2 years<br>
+_female_: 77.5 years<br>
 
 **Total fertility rate**<br>
 2.2 children born/woman (2023 est.)<br>
@@ -711,7 +711,7 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia-People's 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Venezuela-Brazil</em>: none identified</p> <p><em>Venezuela-Colombia</em>: dispute with Colombia over maritime boundary and Venezuelan administered Los Monjes Islands near the Gulf of Venezuela; Colombian-organized illegal narcotics and paramilitary activities penetrate Venezuela's shared border region; the border between the two countries was closed from March 2020 to October 2021 due to COVID, but goods and people fleeing poverty and violence continued to be smuggled from Venezuela into Colombia, and illegal narcotics and armed men flowed into Venezuela from Colombia; since the FARC disarmed in 2016, some former members have formed armed dissident groups that operate along the border</p> <p><em>Venezuela-Guyana</em>: claims all of the area west of the Essequibo River in Guyana, preventing any discussion of a maritime boundary; Guyana has expressed its intention to join Barbados in asserting claims before the UN Convention on the Law of the Sea that Trinidad and Tobago's maritime boundary with Venezuela extends into their waters; in 2018, Guyana initiated proceedings against Venezuela with the International Court of Justice (ICJ); Venezuela requested a direct dialogue to settle the dispute; the ICJ ruled that it had jurisdiction to hear the case in December 2020; in September 2021, Venezuelan officials issued a statement reasserting dominion over three-quarters of Guyana, which Guyana stated was a threat to its sovereignty and territorial integrity</p> <p><em>Venezuela-various:</em>  Venezuela claims Aves Island and thereby an economic exclusion Zone/continental shelf extending over a large portion of the eastern Caribbean Sea; Venezuela’s claim to Aves Island is disputed by Dominica and several other countries because the island has rich guano deposits useful in producing fertilizer and gunpowder, as well as large fish stocks and natural gas reserves; contraband smuggling (narcotics and arms), illegal migration, trafficking in animals, plants, lumber, illegal exploitation of mineral resources</p><br>
+<p><em>Venezuela-Brazil</em>: none identified</p> <p><em>Venezuela-Colombia</em>: dispute with Colombia over maritime boundary and Venezuelan administered Los Monjes Islands near the Gulf of Venezuela; Colombian-organized illegal narcotics and paramilitary activities penetrate Venezuela's shared border region; the border between the two countries was closed from March 2020 to October 2021 due to COVID, but goods and people fleeing poverty and violence continued to be smuggled from Venezuela into Colombia, and illegal narcotics and armed men flowed into Venezuela from Colombia; since the FARC disarmed in 2016, some former members have formed armed dissident groups that operate along the border</p> <p><em>Venezuela-Guyana</em>: claims all of the area west of the Essequibo River in Guyana, preventing any discussion of a maritime boundary; Guyana has expressed its intention to join Barbados in asserting claims before the UN Convention on the Law of the Sea that Trinidad and Tobago's maritime boundary with Venezuela extends into their waters; in 2018, Guyana initiated proceedings against Venezuela with the International Court of Justice (ICJ); Venezuela requested a direct dialogue to settle the dispute; the ICJ ruled that it had jurisdiction to hear the case in December 2020; in September 2021, Venezuelan officials issued a statement reasserting dominion over three-quarters of Guyana, which Guyana stated was a threat to its sovereignty and territorial integrity; in December 2023, the Venezuelan Government conducted a public referendum asking its citizens to support establishing a state in the disputed territory, granting citizenship to current and future area residents, and rejecting the jurisdiction of the ICJ</p> <p><em>Venezuela-various:</em>  Venezuela claims Aves Island and thereby an economic exclusion Zone/continental shelf extending over a large portion of the eastern Caribbean Sea; Venezuela’s claim to Aves Island is disputed by Dominica and several other countries because the island has rich guano deposits useful in producing fertilizer and gunpowder, as well as large fish stocks and natural gas reserves; contraband smuggling (narcotics and arms), illegal migration, trafficking in animals, plants, lumber, illegal exploitation of mineral resources</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 39,185 (Colombia) (mid-year 2022)<br>

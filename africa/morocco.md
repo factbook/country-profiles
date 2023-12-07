@@ -118,9 +118,9 @@ _potential support ratio_: 8.9 (2021 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Median age**<br>
-_total_: 29.1 years (2020)<br>
-_male_: 28.7 years<br>
-_female_: 29.6 years<br>
+_total_: 30.2 years (2023 est.)<br>
+_male_: 29.8 years<br>
+_female_: 30.7 years<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Population growth rate**<br>
@@ -132,11 +132,11 @@ note: does not include data from the former Western Sahara<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Death rate**<br>
-6.61 deaths/1,000 population (2023 est.)<br>
+6.6 deaths/1,000 population (2023 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Net migration rate**<br>
--1.73 migrant(s)/1,000 population (2023 est.)<br>
+-1.7 migrant(s)/1,000 population (2023 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Population distribution**<br>
@@ -163,15 +163,15 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Infant mortality rate**<br>
-_total_: 18.73 deaths/1,000 live births (2023 est.)<br>
-_male_: 20.94 deaths/1,000 live births<br>
-_female_: 16.41 deaths/1,000 live births<br>
+_total_: 18.7 deaths/1,000 live births (2023 est.)<br>
+_male_: 20.9 deaths/1,000 live births<br>
+_female_: 16.4 deaths/1,000 live births<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.95 years (2023 est.)<br>
-_male_: 72.26 years<br>
-_female_: 75.72 years<br>
+_total population_: 74 years (2023 est.)<br>
+_male_: 72.3 years<br>
+_female_: 75.7 years<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Total fertility rate**<br>

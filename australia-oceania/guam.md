@@ -99,21 +99,21 @@ _elderly dependency ratio_: 18.4<br>
 _potential support ratio_: 5.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.4 years (2020)<br>
-_male_: 28.7 years<br>
-_female_: 30.2 years<br>
+_total_: 30.1 years (2023 est.)<br>
+_male_: 29.4 years<br>
+_female_: 30.8 years<br>
 
 **Population growth rate**<br>
 0.13% (2023 est.)<br>
 
 **Birth rate**<br>
-18.33 births/1,000 population (2023 est.)<br>
+18.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.08 deaths/1,000 population (2023 est.)<br>
+6.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--10.94 migrant(s)/1,000 population (2023 est.)<br>
+-10.9 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 no large cities exist on the island, though large villages (municipalities) attract much of the population; the largest of these is Dededo<br>
@@ -134,13 +134,13 @@ _total population_: 1.06 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 11.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 11.23 deaths/1,000 live births<br>
-_female_: 11.16 deaths/1,000 live births<br>
+_male_: 11.2 deaths/1,000 live births<br>
+_female_: 11.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.74 years (2023 est.)<br>
-_male_: 75.33 years<br>
-_female_: 80.31 years<br>
+_total population_: 77.7 years (2023 est.)<br>
+_male_: 75.3 years<br>
+_female_: 80.3 years<br>
 
 **Total fertility rate**<br>
 2.76 children born/woman (2023 est.)<br>

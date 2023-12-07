@@ -116,21 +116,21 @@ _elderly dependency ratio_: 4.8<br>
 _potential support ratio_: 20.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20 years (2020)<br>
-_male_: 19.9 years<br>
-_female_: 20.1 years<br>
+_total_: 20.9 years (2023 est.)<br>
+_male_: 20.8 years<br>
+_female_: 21 years<br>
 
 **Population growth rate**<br>
 2.09% (2023 est.)<br>
 
 **Birth rate**<br>
-26.01 births/1,000 population (2023 est.)<br>
+26 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.95 deaths/1,000 population (2023 est.)<br>
+5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.19 migrant(s)/1,000 population (2023 est.)<br>
+-0.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population heavily concentrated in the west along the shore of Lake Victoria; other areas of high density include the capital of Nairobi, and in the southeast along the Indian Ocean coast as shown in this population distribution map<br>
@@ -157,14 +157,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 530 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 26.94 deaths/1,000 live births (2023 est.)<br>
-_male_: 29.94 deaths/1,000 live births<br>
-_female_: 23.88 deaths/1,000 live births<br>
+_total_: 26.9 deaths/1,000 live births (2023 est.)<br>
+_male_: 29.9 deaths/1,000 live births<br>
+_female_: 23.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.04 years (2023 est.)<br>
-_male_: 68.31 years<br>
-_female_: 71.82 years<br>
+_total population_: 70 years (2023 est.)<br>
+_male_: 68.3 years<br>
+_female_: 71.8 years<br>
 
 **Total fertility rate**<br>
 3.23 children born/woman (2023 est.)<br>
@@ -746,7 +746,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Kenya-Ethiopia</em>: their border was demarcated in the 1950s and approved in 1970; in 2012, Kenya and Ethiopia agreed to redemarcate their boundary following disputes over beacons and cross-border crime</p> <p><em>Kenya-Somalia</em>: Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; in 2021, the International Court of Justice (ICJ) gave Somalia control over a disputed ocean area where the seabeds are believed to hold vasts oil and gas deposits; the ICJ ruling gave Somalia the rights to several offshore oil exploration blocks previously claimed by Kenya; Kenya did not recognize the court’s decision</p> <p><em>Kenya-South Sudan</em>: two thirds of the boundary that separates Kenya and South Sudan's sovereignty known as the Ilemi Triangle has been unclear since British colonial times; Kenya has administered the area since colonial times; officials from Kenya and South Sudan signed a memorandum of understanding on boundary delimitation and demarcation and agreed to set up a joint committee; as of July 2019, the demarcation process was to begin in 90 days, but was delayed due to a lack of funding</p> <p><em>Kenya-Sudan</em>: Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005</p> <p><em>Kenya-Tanzania</em>: Kenya and Tanzania were conducting a joint reaffirmation process in November 2021 to ensure the border was visibly marked with pillars</p> <p><em>Kenya-Uganda:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021 </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 290,635 (Somalia), 170,292 (South Sudan), 58,779 (Democratic Republic of the Congo), 21,847 (Ethiopia), 8,392 (Burundi), 5,756 (Sudan) (2023)<br>
+_refugees (country of origin)_: 290,635 (Somalia), 170,292 (South Sudan), 58,824 (Democratic Republic of the Congo), 21,847 (Ethiopia), 8,392 (Burundi), 5,756 (Sudan) (2023)<br>
 _IDPs_: 30,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2022)<br>
 _stateless persons_: 16,779 (2022); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

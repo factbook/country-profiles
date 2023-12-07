@@ -113,21 +113,21 @@ _elderly dependency ratio_: 4.3<br>
 _potential support ratio_: 19.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.3 years (2020)<br>
-_male_: 20.3 years<br>
-_female_: 20.3 years<br>
+_total_: 21 years (2023 est.)<br>
+_male_: 21 years<br>
+_female_: 21 years<br>
 
 **Population growth rate**<br>
 2.16% (2023 est.)<br>
 
 **Birth rate**<br>
-27.92 births/1,000 population (2023 est.)<br>
+27.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.45 deaths/1,000 population (2023 est.)<br>
+7.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.16 migrant(s)/1,000 population (2023 est.)<br>
+1.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the population is primarily located in the forested south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the northern savanna remains sparsely populated with higher concentrations located along transportation corridors as shown in this population distribution map<br>
@@ -144,7 +144,7 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.05 male(s)/female<br>
 _65 years and over_: 0.73 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.6 years (2011/12 est.)<br>
@@ -154,14 +154,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 480 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 54.04 deaths/1,000 live births (2023 est.)<br>
+_total_: 54 deaths/1,000 live births (2023 est.)<br>
 _male_: 61.2 deaths/1,000 live births<br>
-_female_: 46.65 deaths/1,000 live births<br>
+_female_: 46.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.71 years (2023 est.)<br>
-_male_: 60.51 years<br>
-_female_: 64.97 years<br>
+_total population_: 62.7 years (2023 est.)<br>
+_male_: 60.5 years<br>
+_female_: 65 years<br>
 
 **Total fertility rate**<br>
 3.47 children born/woman (2023 est.)<br>

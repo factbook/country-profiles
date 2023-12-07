@@ -116,21 +116,21 @@ _elderly dependency ratio_: 8.5<br>
 _potential support ratio_: 11.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 26.4 years (2020)<br>
-_male_: 25.6 years<br>
-_female_: 27.2 years<br>
+_total_: 27.6 years (2023 est.)<br>
+_male_: 26.6 years<br>
+_female_: 28.5 years<br>
 
 **Population growth rate**<br>
 1.04% (2023 est.)<br>
 
 **Birth rate**<br>
-18.75 births/1,000 population (2023 est.)<br>
+18.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 5.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.67 migrant(s)/1,000 population (2023 est.)<br>
+-2.7 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the southeast, particularly in and around the capital of Phnom Penh; further distribution is linked closely to the Tonle Sap and Mekong Rivers<br>
@@ -157,14 +157,14 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 218 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 28.75 deaths/1,000 live births (2023 est.)<br>
-_male_: 32.22 deaths/1,000 live births<br>
-_female_: 25.12 deaths/1,000 live births<br>
+_total_: 28.8 deaths/1,000 live births (2023 est.)<br>
+_male_: 32.2 deaths/1,000 live births<br>
+_female_: 25.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.03 years (2023 est.)<br>
-_male_: 69.17 years<br>
-_female_: 72.97 years<br>
+_total population_: 71 years (2023 est.)<br>
+_male_: 69.2 years<br>
+_female_: 73 years<br>
 
 **Total fertility rate**<br>
 2.2 children born/woman (2023 est.)<br>

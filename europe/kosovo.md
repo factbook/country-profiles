@@ -104,21 +104,21 @@ _elderly dependency ratio_: 14.6<br>
 _potential support ratio_: 6.9 (2021)<br>
 
 **Median age**<br>
-_total_: 30.5 years (2020)<br>
-_male_: 30.2 years<br>
-_female_: 30.8 years<br>
+_total_: 31.7 years (2023 est.)<br>
+_male_: 31.3 years<br>
+_female_: 32 years<br>
 
 **Population growth rate**<br>
 0.62% (2023 est.)<br>
 
 **Birth rate**<br>
-14.57 births/1,000 population (2023 est.)<br>
+14.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.65 deaths/1,000 population (2023 est.)<br>
+7.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.71 migrant(s)/1,000 population (2023 est.)<br>
+-0.7 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population clusters exist throughout the country, the largest being in the east in and around the capital of Pristina<br>
@@ -134,14 +134,14 @@ _65 years and over_: 0.77 male(s)/female<br>
 _total population_: 1.06 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 24.93 deaths/1,000 live births (2023 est.)<br>
-_male_: 26.36 deaths/1,000 live births<br>
-_female_: 23.38 deaths/1,000 live births<br>
+_total_: 24.9 deaths/1,000 live births (2023 est.)<br>
+_male_: 26.4 deaths/1,000 live births<br>
+_female_: 23.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.15 years (2023 est.)<br>
-_male_: 69.93 years<br>
-_female_: 74.54 years<br>
+_total population_: 72.2 years (2023 est.)<br>
+_male_: 69.9 years<br>
+_female_: 74.5 years<br>
 
 **Total fertility rate**<br>
 1.88 children born/woman (2023 est.)<br>

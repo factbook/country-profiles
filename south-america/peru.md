@@ -118,21 +118,21 @@ _elderly dependency ratio_: 13.1<br>
 _potential support ratio_: 7.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.1 years (2020)<br>
-_male_: 28.3 years<br>
-_female_: 29.9 years<br>
+_total_: 30.1 years (2023 est.)<br>
+_male_: 29.1 years<br>
+_female_: 31.1 years<br>
 
 **Population growth rate**<br>
 0.5% (2023 est.)<br>
 
 **Birth rate**<br>
-16.96 births/1,000 population (2023 est.)<br>
+17 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-11.04 deaths/1,000 population (2023 est.)<br>
+11 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.89 migrant(s)/1,000 population (2023 est.)<br>
+-0.9 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 approximately one-third of the population resides along the desert coastal belt in the west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, which is strongly identified with the country's Amerindian population, contains roughly half of the overall population; the eastern slopes of the Andes, and adjoining rainforest, are sparsely populated<br>
@@ -160,13 +160,13 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 10.8 deaths/1,000 live births (2023 est.)<br>
-_male_: 11.89 deaths/1,000 live births<br>
-_female_: 9.65 deaths/1,000 live births<br>
+_male_: 11.9 deaths/1,000 live births<br>
+_female_: 9.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.94 years (2023 est.)<br>
-_male_: 65.38 years<br>
-_female_: 72.67 years<br>
+_total population_: 68.9 years (2023 est.)<br>
+_male_: 65.4 years<br>
+_female_: 72.7 years<br>
 
 **Total fertility rate**<br>
 2.18 children born/woman (2023 est.)<br>

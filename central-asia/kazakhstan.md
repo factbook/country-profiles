@@ -114,21 +114,21 @@ _elderly dependency ratio_: 12.7<br>
 _potential support ratio_: 7.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.6 years (2020)<br>
-_male_: 30.3 years<br>
-_female_: 32.8 years<br>
+_total_: 31.7 years (2023 est.)<br>
+_male_: 29.9 years<br>
+_female_: 33.5 years<br>
 
 **Population growth rate**<br>
-0.73% (2023 est.)<br>
+0.9% (2023 est.)<br>
 
 **Birth rate**<br>
-14.92 births/1,000 population (2023 est.)<br>
+17.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.05 deaths/1,000 population (2023 est.)<br>
+8.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.39 migrant(s)/1,000 population (2023 est.)<br>
+-0.4 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the country displays a low population density, particularly the interior; population clusters appear in urban agglomerations in the far northern and southern portions of the country<br>
@@ -141,11 +141,11 @@ _rate of urbanization_: 1.19% annual rate of change (2020-25 est.)<br>
 1.987 million Almaty, 1.291 million NUR-SULTAN (capital), 1.155 million Shimkent (2023)<br>
 
 **Sex ratio**<br>
-_at birth_: 0.94 male(s)/female<br>
+_at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 0.94 male(s)/female<br>
 _15-64 years_: 0.95 male(s)/female<br>
 _65 years and over_: 0.56 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2023 est.)<br>
+_total population_: 0.94 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.9 years (2019 est.)<br>
@@ -154,20 +154,20 @@ _total population_: 0.9 male(s)/female (2023 est.)<br>
 13 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.77 deaths/1,000 live births (2023 est.)<br>
-_male_: 21.29 deaths/1,000 live births<br>
-_female_: 16.41 deaths/1,000 live births<br>
+_total_: 8.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 9.1 deaths/1,000 live births<br>
+_female_: 7.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.8 years (2023 est.)<br>
-_male_: 67.73 years<br>
-_female_: 77.56 years<br>
+_total population_: 73 years (2023 est.)<br>
+_male_: 68.7 years<br>
+_female_: 77.7 years<br>
 
 **Total fertility rate**<br>
-2.08 children born/woman (2023 est.)<br>
+2.59 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-1.08 (2023 est.)<br>
+1.25 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 53% (2018)<br>

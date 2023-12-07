@@ -102,21 +102,21 @@ _elderly dependency ratio_: 22.4<br>
 _potential support ratio_: 4.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.3 years (2020)<br>
-_male_: 41.5 years<br>
-_female_: 43.1 years<br>
+_total_: 44 years (2023 est.)<br>
+_male_: 43 years<br>
+_female_: 45 years<br>
 
 **Population growth rate**<br>
 0.03% (2023 est.)<br>
 
 **Birth rate**<br>
-7.33 births/1,000 population (2023 est.)<br>
+7.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.98 deaths/1,000 population (2023 est.)<br>
+8 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.96 migrant(s)/1,000 population (2023 est.)<br>
+1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 distribution exhibits a peripheral coastal settlement pattern, with the largest populations on the north and west coasts<br>
@@ -137,13 +137,13 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 4.23 deaths/1,000 live births<br>
-_female_: 3.56 deaths/1,000 live births<br>
+_male_: 4.2 deaths/1,000 live births<br>
+_female_: 3.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.38 years (2023 est.)<br>
+_total population_: 81.4 years (2023 est.)<br>
 _male_: 78.4 years<br>
-_female_: 84.54 years<br>
+_female_: 84.5 years<br>
 
 **Total fertility rate**<br>
 1.09 children born/woman (2023 est.)<br>

@@ -100,21 +100,21 @@ _elderly dependency ratio_: 34.9<br>
 _potential support ratio_: 2.9 (2021)<br>
 
 **Median age**<br>
-_total_: 44.6 years (2020)<br>
+_total_: 44.8 years (2023 est.)<br>
 _male_: 43.6 years<br>
-_female_: 45.6 years<br>
+_female_: 46 years<br>
 
 **Population growth rate**<br>
 0.48% (2023 est.)<br>
 
 **Birth rate**<br>
-10.49 births/1,000 population (2023 est.)<br>
+10.5 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.17 deaths/1,000 population (2023 est.)<br>
+10.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-4.52 migrant(s)/1,000 population (2023 est.)<br>
+4.5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most people concentrated in cities and large towns of which Douglas, in the southeast, is the largest<br>
@@ -134,13 +134,13 @@ _65 years and over_: 0.89 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.16 deaths/1,000 live births (2023 est.)<br>
-_male_: 4.51 deaths/1,000 live births<br>
-_female_: 3.78 deaths/1,000 live births<br>
+_total_: 4.2 deaths/1,000 live births (2023 est.)<br>
+_male_: 4.5 deaths/1,000 live births<br>
+_female_: 3.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.25 years (2023 est.)<br>
-_male_: 80.44 years<br>
+_total population_: 82.3 years (2023 est.)<br>
+_male_: 80.4 years<br>
 _female_: 84.2 years<br>
 
 **Total fertility rate**<br>

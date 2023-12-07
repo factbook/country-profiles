@@ -111,21 +111,21 @@ _elderly dependency ratio_: 9.7<br>
 _potential support ratio_: 10.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 32.6 years (2020)<br>
-_male_: 31.1 years<br>
-_female_: 34.2 years<br>
+_total_: 33.8 years (2023 est.)<br>
+_male_: 32.2 years<br>
+_female_: 35.4 years<br>
 
 **Population growth rate**<br>
-0.63% (2023 est.)<br>
+0.43% (2023 est.)<br>
 
 **Birth rate**<br>
-13.2 births/1,000 population (2023 est.)<br>
+11.5 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.92 deaths/1,000 population (2023 est.)<br>
+6.8 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2023 est.)<br>
+-0.4 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 highest population density is found in the far eastern area of the country, in and around Baku; apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population<br>
@@ -139,11 +139,11 @@ _rate of urbanization_: 1.38% annual rate of change (2020-25 est.)<br>
 2.432 million BAKU (capital) (2023)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.06 male(s)/female<br>
+_at birth_: 1.15 male(s)/female<br>
 _0-14 years_: 1.11 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
 _65 years and over_: 0.66 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24 years (2019 est.)<br>
@@ -152,20 +152,20 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 41 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.93 deaths/1,000 live births (2023 est.)<br>
-_male_: 24.02 deaths/1,000 live births<br>
-_female_: 21.77 deaths/1,000 live births<br>
+_total_: 11.9 deaths/1,000 live births (2023 est.)<br>
+_male_: 13.8 deaths/1,000 live births<br>
+_female_: 9.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.42 years (2023 est.)<br>
-_male_: 71.36 years<br>
-_female_: 77.66 years<br>
+_total population_: 74.9 years (2023 est.)<br>
+_male_: 72.4 years<br>
+_female_: 77.8 years<br>
 
 **Total fertility rate**<br>
-1.86 children born/woman (2023 est.)<br>
+1.69 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.9 (2023 est.)<br>
+0.78 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

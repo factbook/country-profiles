@@ -124,21 +124,21 @@ _elderly dependency ratio_: 34.8<br>
 _potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 41.7 years (2020)<br>
-_male_: 40 years<br>
-_female_: 43.4 years<br>
+_total_: 42.4 years (2023 est.)<br>
+_male_: 40.9 years<br>
+_female_: 44 years<br>
 
 **Population growth rate**<br>
-0.31% (2023 est.)<br>
+0.21% (2023 est.)<br>
 
 **Birth rate**<br>
-11.56 births/1,000 population (2023 est.)<br>
+10.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.51 deaths/1,000 population (2023 est.)<br>
+9.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.06 migrant(s)/1,000 population (2023 est.)<br>
+1.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 much of the population is concentrated in the north and southeast; although there are many urban agglomerations throughout the country, Paris is by far the largest city, with Lyon ranked a distant second<br>
@@ -165,19 +165,19 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.48 deaths/1,000 live births<br>
-_female_: 2.7 deaths/1,000 live births<br>
+_male_: 3.5 deaths/1,000 live births<br>
+_female_: 2.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.79 years (2023 est.)<br>
-_male_: 79.75 years<br>
-_female_: 85.97 years<br>
+_total population_: 82.5 years (2023 est.)<br>
+_male_: 79.7 years<br>
+_female_: 85.5 years<br>
 
 **Total fertility rate**<br>
-2.02 children born/woman (2023 est.)<br>
+1.9 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.99 (2023 est.)<br>
+0.93 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

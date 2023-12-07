@@ -105,9 +105,9 @@ _elderly dependency ratio_: 4.6<br>
 _potential support ratio_: 21.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 32.9 years (2020)<br>
-_male_: 34.4 years<br>
-_female_: 30.3 years<br>
+_total_: 33.3 years (2023 est.)<br>
+_male_: 34.6 years<br>
+_female_: 31 years<br>
 
 **Population growth rate**<br>
 0.85% (2023 est.)<br>
@@ -116,10 +116,10 @@ _female_: 30.3 years<br>
 12.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-2.83 deaths/1,000 population (2023 est.)<br>
+2.8 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.99 migrant(s)/1,000 population (2023 est.)<br>
+-1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 smallest population of the Gulf States, but urbanization rate exceeds 90%; largest settlement concentration is found on the far northern end of the island in and around Manamah and Al Muharraq<br>
@@ -142,14 +142,14 @@ _total population_: 1.51 male(s)/female (2023 est.)<br>
 16 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.98 deaths/1,000 live births (2023 est.)<br>
-_male_: 11.65 deaths/1,000 live births<br>
-_female_: 8.26 deaths/1,000 live births<br>
+_total_: 10 deaths/1,000 live births (2023 est.)<br>
+_male_: 11.7 deaths/1,000 live births<br>
+_female_: 8.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.13 years (2023 est.)<br>
-_male_: 77.87 years<br>
-_female_: 82.45 years<br>
+_total population_: 80.1 years (2023 est.)<br>
+_male_: 77.9 years<br>
+_female_: 82.5 years<br>
 
 **Total fertility rate**<br>
 1.66 children born/woman (2023 est.)<br>

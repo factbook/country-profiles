@@ -103,21 +103,21 @@ _elderly dependency ratio_: 15.3<br>
 _potential support ratio_: 6.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 33.7 years (2020)<br>
-_male_: 33.1 years<br>
-_female_: 34.4 years<br>
+_total_: 35.8 years (2023 est.)<br>
+_male_: 35.1 years<br>
+_female_: 36.4 years<br>
 
 **Population growth rate**<br>
 0.64% (2023 est.)<br>
 
 **Birth rate**<br>
-12.86 births/1,000 population (2023 est.)<br>
+12.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.57 deaths/1,000 population (2023 est.)<br>
+5.6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.94 migrant(s)/1,000 population (2023 est.)<br>
+-0.9 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the majority of the people live on or near the Mediterranean coast, and of these most live in and around the capital, Beirut; favorable growing conditions in the Bekaa Valley, on the southeastern side of the Lebanon Mountains, have attracted farmers and thus the area exhibits a smaller population density<br>
@@ -140,14 +140,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 21 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.88 deaths/1,000 live births (2023 est.)<br>
-_male_: 7.42 deaths/1,000 live births<br>
-_female_: 6.31 deaths/1,000 live births<br>
+_total_: 6.9 deaths/1,000 live births (2023 est.)<br>
+_male_: 7.4 deaths/1,000 live births<br>
+_female_: 6.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
 _total population_: 79 years (2023 est.)<br>
 _male_: 77.6 years<br>
-_female_: 80.46 years<br>
+_female_: 80.5 years<br>
 
 **Total fertility rate**<br>
 1.71 children born/woman (2023 est.)<br>

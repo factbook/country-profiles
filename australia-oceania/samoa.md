@@ -101,21 +101,21 @@ _elderly dependency ratio_: 8.9<br>
 _potential support ratio_: 11.2 (2020 est.)<br>
 
 **Median age**<br>
-_total_: 25.6 years (2020)<br>
-_male_: 25.3 years<br>
-_female_: 26 years<br>
+_total_: 26.9 years (2023 est.)<br>
+_male_: 26.5 years<br>
+_female_: 27.3 years<br>
 
 **Population growth rate**<br>
 0.65% (2023 est.)<br>
 
 **Birth rate**<br>
-19.03 births/1,000 population (2023 est.)<br>
+19 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.38 deaths/1,000 population (2023 est.)<br>
+5.4 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--7.19 migrant(s)/1,000 population (2023 est.)<br>
+-7.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 about three-quarters of the population lives on the island of Upolu<br>
@@ -138,14 +138,14 @@ _total population_: 1.03 male(s)/female (2023 est.)<br>
 59 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 17.76 deaths/1,000 live births (2023 est.)<br>
-_male_: 21.29 deaths/1,000 live births<br>
-_female_: 14.06 deaths/1,000 live births<br>
+_total_: 17.8 deaths/1,000 live births (2023 est.)<br>
+_male_: 21.3 deaths/1,000 live births<br>
+_female_: 14.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.46 years (2023 est.)<br>
-_male_: 72.58 years<br>
-_female_: 78.48 years<br>
+_total population_: 75.5 years (2023 est.)<br>
+_male_: 72.6 years<br>
+_female_: 78.5 years<br>
 
 **Total fertility rate**<br>
 2.37 children born/woman (2023 est.)<br>

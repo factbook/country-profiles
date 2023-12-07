@@ -113,21 +113,21 @@ _elderly dependency ratio_: 5<br>
 _potential support ratio_: 20.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 15.9 years (2020)<br>
-_male_: 15.4 years<br>
-_female_: 16.4 years<br>
+_total_: 16.2 years (2023 est.)<br>
+_male_: 15.7 years<br>
+_female_: 16.7 years<br>
 
 **Population growth rate**<br>
 3.34% (2023 est.)<br>
 
 **Birth rate**<br>
-41.42 births/1,000 population (2023 est.)<br>
+41.4 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 7.8 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.19 migrant(s)/1,000 population (2023 est.)<br>
+-0.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda as shown in this population distribution map<br>
@@ -155,13 +155,13 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 57.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 62.37 deaths/1,000 live births<br>
-_female_: 51.87 deaths/1,000 live births<br>
+_male_: 62.4 deaths/1,000 live births<br>
+_female_: 51.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.51 years (2023 est.)<br>
-_male_: 60.44 years<br>
-_female_: 64.65 years<br>
+_total population_: 62.5 years (2023 est.)<br>
+_male_: 60.4 years<br>
+_female_: 64.7 years<br>
 
 **Total fertility rate**<br>
 5.76 children born/woman (2023 est.)<br>
@@ -733,7 +733,7 @@ has a national space strategy with a focus on capacity building, developing spac
 <p><em>Angola-Democratic Republic of Congo (DRC): </em>has had disputes over land and maritime borders with the DRC; maritime disputes have largely been about offshore oil claims<br><br><em>Angola-Namibia: </em>none identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,278 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023)<br>
+_refugees (country of origin)_: 22,969 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

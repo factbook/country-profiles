@@ -101,21 +101,21 @@ _elderly dependency ratio_: 27.7<br>
 _potential support ratio_: 3.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.3 years (2020)<br>
-_male_: 41.2 years<br>
-_female_: 43.5 years<br>
+_total_: 43.2 years (2023 est.)<br>
+_male_: 42.1 years<br>
+_female_: 44.4 years<br>
 
 **Population growth rate**<br>
 0.59% (2023 est.)<br>
 
 **Birth rate**<br>
-9.59 births/1,000 population (2023 est.)<br>
+9.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.61 deaths/1,000 population (2023 est.)<br>
+8.6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-4.96 migrant(s)/1,000 population (2023 est.)<br>
+5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population lives on the eastern half of Malta, the largest of the three inhabited islands<br>
@@ -142,14 +142,14 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.45 deaths/1,000 live births (2023 est.)<br>
-_male_: 4.36 deaths/1,000 live births<br>
-_female_: 4.54 deaths/1,000 live births<br>
+_total_: 4.5 deaths/1,000 live births (2023 est.)<br>
+_male_: 4.4 deaths/1,000 live births<br>
+_female_: 4.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.39 years (2023 est.)<br>
-_male_: 81.31 years<br>
-_female_: 85.56 years<br>
+_total population_: 83.4 years (2023 est.)<br>
+_male_: 81.3 years<br>
+_female_: 85.6 years<br>
 
 **Total fertility rate**<br>
 1.51 children born/woman (2023 est.)<br>

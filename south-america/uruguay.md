@@ -117,21 +117,21 @@ _elderly dependency ratio_: 23.7<br>
 _potential support ratio_: 4.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 35.5 years (2020)<br>
-_male_: 33.8 years<br>
-_female_: 37.3 years<br>
+_total_: 36.2 years (2023 est.)<br>
+_male_: 34.6 years<br>
+_female_: 37.9 years<br>
 
 **Population growth rate**<br>
 0.27% (2023 est.)<br>
 
 **Birth rate**<br>
-12.65 births/1,000 population (2023 est.)<br>
+12.7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.12 deaths/1,000 population (2023 est.)<br>
+9.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.88 migrant(s)/1,000 population (2023 est.)<br>
+-0.9 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo<br>
@@ -154,14 +154,14 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 19 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.14 deaths/1,000 live births (2023 est.)<br>
-_male_: 9.27 deaths/1,000 live births<br>
-_female_: 6.97 deaths/1,000 live births<br>
+_total_: 8.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 9.3 deaths/1,000 live births<br>
+_female_: 7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.66 years (2023 est.)<br>
-_male_: 75.58 years<br>
-_female_: 81.86 years<br>
+_total population_: 78.7 years (2023 est.)<br>
+_male_: 75.6 years<br>
+_female_: 81.9 years<br>
 
 **Total fertility rate**<br>
 1.75 children born/woman (2023 est.)<br>

@@ -111,18 +111,18 @@ _potential support ratio_: 3.1 (2021 est.)<br>
 <strong>note:</strong> data include Kosovo<br>
 
 **Median age**<br>
-_total_: 43.4 years (2020)<br>
-_male_: 41.7 years<br>
-_female_: 45 years<br>
+_total_: 43.7 years (2023 est.)<br>
+_male_: 42.2 years<br>
+_female_: 45.2 years<br>
 
 **Population growth rate**<br>
 -0.63% (2023 est.)<br>
 
 **Birth rate**<br>
-8.87 births/1,000 population (2023 est.)<br>
+8.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-15.12 deaths/1,000 population (2023 est.)<br>
+15.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
 0 migrant(s)/1,000 population (2023 est.)<br>
@@ -153,14 +153,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 10 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.55 deaths/1,000 live births (2023 est.)<br>
-_male_: 5.14 deaths/1,000 live births<br>
-_female_: 3.93 deaths/1,000 live births<br>
+_total_: 4.6 deaths/1,000 live births (2023 est.)<br>
+_male_: 5.1 deaths/1,000 live births<br>
+_female_: 3.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.08 years (2023 est.)<br>
-_male_: 72.46 years<br>
-_female_: 77.85 years<br>
+_total population_: 75.1 years (2023 est.)<br>
+_male_: 72.5 years<br>
+_female_: 77.9 years<br>
 
 **Total fertility rate**<br>
 1.46 children born/woman (2023 est.)<br>

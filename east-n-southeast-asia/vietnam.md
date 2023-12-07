@@ -115,21 +115,21 @@ _elderly dependency ratio_: 12.7<br>
 _potential support ratio_: 7.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.9 years (2020)<br>
-_male_: 30.8 years<br>
-_female_: 33 years<br>
+_total_: 32.7 years (2023 est.)<br>
+_male_: 31.6 years<br>
+_female_: 33.8 years<br>
 
 **Population growth rate**<br>
 0.93% (2023 est.)<br>
 
 **Birth rate**<br>
-15.29 births/1,000 population (2023 est.)<br>
+15.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.77 deaths/1,000 population (2023 est.)<br>
+5.8 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.21 migrant(s)/1,000 population (2023 est.)<br>
+-0.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 though it has one of the highest population densities in the world, the population is not evenly dispersed; clustering is heaviest along the South China Sea and Gulf of Tonkin, with the Mekong Delta (in the south) and the Red River Valley (in the north) having the largest concentrations of people<br>
@@ -152,14 +152,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 124 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.42 deaths/1,000 live births (2023 est.)<br>
-_male_: 14.76 deaths/1,000 live births<br>
-_female_: 14.05 deaths/1,000 live births<br>
+_total_: 14.4 deaths/1,000 live births (2023 est.)<br>
+_male_: 14.8 deaths/1,000 live births<br>
+_female_: 14.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.79 years (2023 est.)<br>
-_male_: 73.22 years<br>
-_female_: 78.62 years<br>
+_total population_: 75.8 years (2023 est.)<br>
+_male_: 73.2 years<br>
+_female_: 78.6 years<br>
 
 **Total fertility rate**<br>
 2.04 children born/woman (2023 est.)<br>

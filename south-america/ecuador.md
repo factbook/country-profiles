@@ -113,21 +113,21 @@ _elderly dependency ratio_: 11.5<br>
 _potential support ratio_: 8.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 28.8 years (2020)<br>
-_male_: 28 years<br>
-_female_: 29.6 years<br>
+_total_: 27.7 years (2023 est.)<br>
+_male_: 26.8 years<br>
+_female_: 28.7 years<br>
 
 **Population growth rate**<br>
-1.1% (2023 est.)<br>
+0.99% (2023 est.)<br>
 
 **Birth rate**<br>
-16.19 births/1,000 population (2023 est.)<br>
+18 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.18 deaths/1,000 population (2023 est.)<br>
+7.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2023 est.)<br>
+-1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 nearly half of the population is concentrated in the interior in the Andean intermontane basins and valleys, with large concentrations also found along the western coastal strip; the rainforests of the east remain sparsely populated<br>
@@ -144,26 +144,26 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 0.98 male(s)/female<br>
 _65 years and over_: 0.89 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 66 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 17.72 deaths/1,000 live births (2023 est.)<br>
-_male_: 21.22 deaths/1,000 live births<br>
-_female_: 14.04 deaths/1,000 live births<br>
+_total_: 11.2 deaths/1,000 live births (2023 est.)<br>
+_male_: 12.2 deaths/1,000 live births<br>
+_female_: 10.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.25 years (2023 est.)<br>
-_male_: 75.32 years<br>
-_female_: 81.32 years<br>
+_total population_: 74.9 years (2023 est.)<br>
+_male_: 69.7 years<br>
+_female_: 80.4 years<br>
 
 **Total fertility rate**<br>
-2.02 children born/woman (2023 est.)<br>
+2.24 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.98 (2023 est.)<br>
+1.09 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 77.9% (2018/19)<br>

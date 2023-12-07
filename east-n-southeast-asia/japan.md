@@ -108,9 +108,9 @@ _elderly dependency ratio_: 51<br>
 _potential support ratio_: 2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 48.6 years (2020)<br>
-_male_: 47.2 years<br>
-_female_: 50 years<br>
+_total_: 49.5 years (2023 est.)<br>
+_male_: 48 years<br>
+_female_: 50.9 years<br>
 
 **Population growth rate**<br>
 -0.41% (2023 est.)<br>
@@ -119,10 +119,10 @@ _female_: 50 years<br>
 6.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-11.74 deaths/1,000 population (2023 est.)<br>
+11.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.74 migrant(s)/1,000 population (2023 est.)<br>
+0.7 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 all primary and secondary regions of high population density lie on the coast; one-third of the population resides in and around Tokyo on the central plain (Kanto Plain)<br>
@@ -148,14 +148,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 4 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.88 deaths/1,000 live births (2023 est.)<br>
-_male_: 1.99 deaths/1,000 live births<br>
-_female_: 1.77 deaths/1,000 live births<br>
+_total_: 1.9 deaths/1,000 live births (2023 est.)<br>
+_male_: 2 deaths/1,000 live births<br>
+_female_: 1.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
 _total population_: 85 years (2023 est.)<br>
-_male_: 82.11 years<br>
-_female_: 88.06 years<br>
+_male_: 82.1 years<br>
+_female_: 88.1 years<br>
 
 **Total fertility rate**<br>
 1.39 children born/woman (2023 est.)<br>

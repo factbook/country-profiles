@@ -108,21 +108,21 @@ _elderly dependency ratio_: 25.8<br>
 _potential support ratio_: 3.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 41.8 years (2020)<br>
-_male_: 40.1 years<br>
-_female_: 43.6 years<br>
+_total_: 42.5 years (2023 est.)<br>
+_male_: 41 years<br>
+_female_: 44.1 years<br>
 
 **Population growth rate**<br>
--0.12% (2023 est.)<br>
+-0.13% (2023 est.)<br>
 
 **Birth rate**<br>
-8.78 births/1,000 population (2023 est.)<br>
+10.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.18 deaths/1,000 population (2023 est.)<br>
+11.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.2 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country; slightly larger concentration in the west in proximity to the Czech border<br>
@@ -139,7 +139,7 @@ _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
 _65 years and over_: 0.67 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2023 est.)<br>
+_total population_: 0.93 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.2 years (2020 est.)<br>
@@ -148,20 +148,20 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.74 deaths/1,000 live births (2023 est.)<br>
-_male_: 5.4 deaths/1,000 live births<br>
-_female_: 4.05 deaths/1,000 live births<br>
+_total_: 5.3 deaths/1,000 live births (2023 est.)<br>
+_male_: 5.9 deaths/1,000 live births<br>
+_female_: 4.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.55 years (2023 est.)<br>
-_male_: 75.09 years<br>
-_female_: 82.25 years<br>
+_total population_: 76.6 years (2023 est.)<br>
+_male_: 73.1 years<br>
+_female_: 80.4 years<br>
 
 **Total fertility rate**<br>
-1.46 children born/woman (2023 est.)<br>
+1.6 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.71 (2023 est.)<br>
+0.77 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

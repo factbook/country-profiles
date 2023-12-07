@@ -107,21 +107,21 @@ _elderly dependency ratio_: 6.1<br>
 _potential support ratio_: 18.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.6 years (2020)<br>
-_male_: 18.9 years<br>
-_female_: 18.3 years<br>
+_total_: 18.7 years (2023 est.)<br>
+_male_: 18.7 years<br>
+_female_: 18.6 years<br>
 
 **Population growth rate**<br>
 4.78% (2023 est.)<br>
 
 **Birth rate**<br>
-37.07 births/1,000 population (2023 est.)<br>
+37.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.22 deaths/1,000 population (2023 est.)<br>
+9.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-19.98 migrant(s)/1,000 population (2023 est.)<br>
+20 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 clusters found in urban areas, particularly in the western interior and around the White Nile as shown in this population distribution map<br>
@@ -144,14 +144,14 @@ _total population_: 1.05 male(s)/female (2023 est.)<br>
 1,223 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 61.63 deaths/1,000 live births (2023 est.)<br>
-_male_: 67.41 deaths/1,000 live births<br>
-_female_: 55.55 deaths/1,000 live births<br>
+_total_: 61.6 deaths/1,000 live births (2023 est.)<br>
+_male_: 67.4 deaths/1,000 live births<br>
+_female_: 55.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 59.71 years (2023 est.)<br>
-_male_: 57.94 years<br>
-_female_: 61.57 years<br>
+_total population_: 59.7 years (2023 est.)<br>
+_male_: 57.9 years<br>
+_female_: 61.6 years<br>
 
 **Total fertility rate**<br>
 5.2 children born/woman (2023 est.)<br>
@@ -624,7 +624,7 @@ the South Sudan People's Defense Forces (SSPDF) are largely focused on internal 
 <p><em>South Sudan- Central African Republic: </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights<br><br><em>South Sudan-Democratic Republic of the Congo</em>: none identified<br><br><em>South Sudan-Ethiopia</em>: the unresolved demarcation of the boundary and lack of clear limitation create substantial room for territorial conflict both locally among the border populations and between the two capitals; besides a large number of indigenous farmers, the border region supports refugees and various rebel groups opposed to the governments in Khartoum and Addis Ababa</p> <p><br><em>South Sudan-Kenya:</em> two thirds of the boundary that separates Kenya and South Sudan's sovereignty known as the Ilemi Triangle has been unclear since British colonial times; Kenya has administered the area since colonial times; officials from Kenya and South Sudan signed a memorandum of understanding on boundary delimitation and demarcation and agreed to set up a joint committee; as of July 2019, the demarcation process was to begin in 90 days, but was delayed due to a lack of funding</p> <p><em>South Sudan-Sudan:</em> present boundary represents 1 January 1956 alignment, which clearly placed the Kafia Kingi area (adjacent to Central African Republic) within South Sudan as shown on US maps although it is mostly occupied by Sudan; final alignment pending negotiations and demarcation; the final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan; clashes continue in the oil-rich Abyei region; the United Nations interim security Force for Abyei (UNISFA) has been deployed since 2011, when South Sudan became independent, Sudan accuses South Sudan of supporting Sudanese rebel groups</p> <p><em>South Sudan-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 254,953 (Sudan) (refugees since 15 April 2023), 12,939 (Democratic Republic of the Congo) (2023)<br>
+_refugees (country of origin)_: 254,953 (Sudan) (refugees since 15 April 2023), 13,114 (Democratic Republic of the Congo) (2023)<br>
 _IDPs_: 2.258 million (alleged coup attempt and ethnic conflict beginning in December 2013; information is lacking on those displaced in earlier years by: fighting in Abyei between the Sudanese Armed Forces and the Sudan People's Liberation Army (SPLA) in May 2011; clashes between the SPLA and dissident militia groups in South Sudan; inter-ethnic conflicts over resources and cattle; attacks from the Lord's Resistance Army; floods and drought) (2023)<br>
 _stateless persons_: 10,000 (2022)<br>
 

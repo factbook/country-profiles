@@ -112,21 +112,21 @@ _elderly dependency ratio_: 29.1<br>
 _potential support ratio_: 3.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.5 years (2020)<br>
-_male_: 41 years<br>
-_female_: 44 years<br>
+_total_: 45.1 years (2023 est.)<br>
+_male_: 43.6 years<br>
+_female_: 46.5 years<br>
 
 **Population growth rate**<br>
 -1.01% (2023 est.)<br>
 
 **Birth rate**<br>
-8.63 births/1,000 population (2023 est.)<br>
+8.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-14.92 deaths/1,000 population (2023 est.)<br>
+14.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--3.86 migrant(s)/1,000 population (2023 est.)<br>
+-3.9 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 urbanization is not particularly high, and a fairly even population distribution can be found throughout most of the country, with urban areas attracting larger and denser populations; Hungarians, the country's largest minority, have a particularly strong presence in eastern Transylvania<br>
@@ -152,14 +152,14 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 10 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.65 deaths/1,000 live births (2023 est.)<br>
-_male_: 5.91 deaths/1,000 live births<br>
-_female_: 5.37 deaths/1,000 live births<br>
+_total_: 5.7 deaths/1,000 live births (2023 est.)<br>
+_male_: 5.9 deaths/1,000 live births<br>
+_female_: 5.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.31 years (2023 est.)<br>
-_male_: 72.87 years<br>
-_female_: 79.95 years<br>
+_total population_: 76.3 years (2023 est.)<br>
+_male_: 72.9 years<br>
+_female_: 80 years<br>
 
 **Total fertility rate**<br>
 1.63 children born/woman (2023 est.)<br>

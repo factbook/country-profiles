@@ -114,18 +114,18 @@ _elderly dependency ratio_: 4.9<br>
 _potential support ratio_: 20.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18.5 years (2020)<br>
-_male_: 18.2 years<br>
-_female_: 18.8 years<br>
+_total_: 18.8 years (2023 est.)<br>
+_male_: 18.5 years<br>
+_female_: 19.1 years<br>
 
 **Population growth rate**<br>
 2.73% (2023 est.)<br>
 
 **Birth rate**<br>
-35.13 births/1,000 population (2023 est.)<br>
+35.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.54 deaths/1,000 population (2023 est.)<br>
+7.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
 -0.3 migrant(s)/1,000 population (2023 est.)<br>
@@ -156,13 +156,13 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 47.4 deaths/1,000 live births (2023 est.)<br>
-_male_: 52.18 deaths/1,000 live births<br>
-_female_: 42.48 deaths/1,000 live births<br>
+_male_: 52.2 deaths/1,000 live births<br>
+_female_: 42.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.74 years (2023 est.)<br>
-_male_: 61.92 years<br>
-_female_: 65.61 years<br>
+_total population_: 63.7 years (2023 est.)<br>
+_male_: 61.9 years<br>
+_female_: 65.6 years<br>
 
 **Total fertility rate**<br>
 4.5 children born/woman (2023 est.)<br>
@@ -745,7 +745,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Cameroon-Nigeria:</em> Nigeria recognized Cameroon's sovereignty over the Bakassi Peninsula in 2006 and in completed the transfer of administration in 2013, although there are occasional, mostly local disputes in the area; the majority of the land boundary was demarcated by 2019 with UN assistance, although there are few disagreements on the precise location of the boundary; the porous border is susceptible to crossings by the Boko Haram and Islamic State of Iraq and ash-Sham - West Africa terrorist groups, both of which operate in Northern Nigeria  <br><br></p><br>
+<p><em>Cameroon-Central African Republic</em>: Cameroon has deployed military troops to the border to counter intrusions from armed militias and bandits<br> <br><em>Cameroon-Nigeria:</em> Nigeria recognized Cameroon's sovereignty over the Bakassi Peninsula in 2006 and in completed the transfer of administration in 2013, although there are occasional, mostly local disputes in the area; the the majority of the land boundary was demarcated by 2019 with UN assistance, although there are few disagreements on the precise location of the boundary; the porous border is susceptible to crossings by the Boko Haram and Islamic State of Iraq and ash-Sham - West Africa terrorist groups, both of which operate in Northern Nigeria <br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 353,701 (Central African Republic), 120,677 (Nigeria) (2023)<br>

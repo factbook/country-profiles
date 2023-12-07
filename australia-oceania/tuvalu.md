@@ -101,21 +101,21 @@ _elderly dependency ratio_: 10<br>
 _potential support ratio_: 10 (2021)<br>
 
 **Median age**<br>
-_total_: 26.6 years (2020)<br>
-_male_: 25.6 years<br>
-_female_: 27.6 years<br>
+_total_: 27.5 years (2023 est.)<br>
+_male_: 26.5 years<br>
+_female_: 28.6 years<br>
 
 **Population growth rate**<br>
 0.81% (2023 est.)<br>
 
 **Birth rate**<br>
-22.34 births/1,000 population (2023 est.)<br>
+22.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 7.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--6.36 migrant(s)/1,000 population (2023 est.)<br>
+-6.4 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 over half of the population resides on the atoll of Funafuti<br>
@@ -135,14 +135,14 @@ _65 years and over_: 0.58 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 28.32 deaths/1,000 live births (2023 est.)<br>
-_male_: 31.92 deaths/1,000 live births<br>
-_female_: 24.54 deaths/1,000 live births<br>
+_total_: 28.3 deaths/1,000 live births (2023 est.)<br>
+_male_: 31.9 deaths/1,000 live births<br>
+_female_: 24.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.69 years (2023 est.)<br>
-_male_: 66.25 years<br>
-_female_: 71.25 years<br>
+_total population_: 68.7 years (2023 est.)<br>
+_male_: 66.3 years<br>
+_female_: 71.3 years<br>
 
 **Total fertility rate**<br>
 2.81 children born/woman (2023 est.)<br>

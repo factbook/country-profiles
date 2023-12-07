@@ -106,21 +106,21 @@ _elderly dependency ratio_: 2<br>
 _potential support ratio_: 50.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 33.7 years (2020)<br>
-_male_: 35 years<br>
-_female_: 28.2 years<br>
+_total_: 34.2 years (2023 est.)<br>
+_male_: 35.5 years<br>
+_female_: 28.1 years<br>
 
 **Population growth rate**<br>
 0.86% (2023 est.)<br>
 
 **Birth rate**<br>
-9.27 births/1,000 population (2023 est.)<br>
+9.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-1.42 deaths/1,000 population (2023 est.)<br>
+1.4 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.78 migrant(s)/1,000 population (2023 est.)<br>
+0.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is clustered in or around the capital of Doha on the eastern side of the peninsula<br>
@@ -143,14 +143,14 @@ _total population_: 3.34 male(s)/female (2023 est.)<br>
 8 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.46 deaths/1,000 live births (2023 est.)<br>
-_male_: 7.06 deaths/1,000 live births<br>
-_female_: 5.85 deaths/1,000 live births<br>
+_total_: 6.5 deaths/1,000 live births (2023 est.)<br>
+_male_: 7.1 deaths/1,000 live births<br>
+_female_: 5.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.03 years (2023 est.)<br>
-_male_: 77.92 years<br>
-_female_: 82.19 years<br>
+_total population_: 80 years (2023 est.)<br>
+_male_: 77.9 years<br>
+_female_: 82.2 years<br>
 
 **Total fertility rate**<br>
 1.9 children born/woman (2023 est.)<br>
@@ -381,7 +381,7 @@ _selected World Heritage Site locales_: Al Zubarah Archaeological Site<br>
 ## Economy
 
 **Economic overview**<br>
-high-income, oil-and-gas-based Middle Eastern economy; better regional integration after 2021 terrorism resolution; infrastructure investments ahead of 2022 World Cup; Islamic finance leader; citizenship-based labor force growth<br>
+high-income, oil-and-gas-based Middle Eastern economy; better regional integration after 2021 terrorism resolution; sports-led infrastructure investments; Islamic finance leader; citizenship-based labor force growth<br>
 
 **Real GDP (purchasing power parity)**<br>
 $249.636 billion (2021 est.)<br>
@@ -491,10 +491,10 @@ $70.933 billion (2020 est.) note: data are in current year dollars<br>
 $92.046 billion (2019 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
-Japan 17%, South Korea 16%, India 14%, China 13%, Singapore 7% (2019)<br>
+China 13%, Japan 11%, India 11%, South Korea 10%, Singapore 6% (2021)<br>
 
 **Exports - commodities**<br>
-natural gas, crude petroleum, refined petroleum, ethylene polymers, fertilizers (2019)<br>
+natural gas, crude petroleum, refined petroleum, ethylene polymers, fertilizers (2021)<br>
 
 **Imports**<br>
 $61.204 billion (2021 est.) note: data are in current year dollars<br>
@@ -502,10 +502,10 @@ $59.065 billion (2020 est.) note: data are in current year dollars<br>
 $66.77 billion (2019 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
-United States 15%, France 13%, United Kingdom 9%, China 9%, Germany 5%, Italy 5% (2019)<br>
+China 14%, United Arab Emirates 8%, United States 7%, United Kingdom 6%, India 6% (2021)<br>
 
 **Imports - commodities**<br>
-aircraft, gas turbines, cars, jewelry, iron piping (2019)<br>
+cars, gas turbines, jewelry, broadcasting equipment, gold (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $42.213 billion (31 December 2021 est.)<br>

@@ -102,21 +102,21 @@ _elderly dependency ratio_: 13.7<br>
 _potential support ratio_: 7.3 (2021)<br>
 
 **Median age**<br>
-_total_: 33.9 years (2020)<br>
-_male_: 32.9 years<br>
-_female_: 35.9 years<br>
+_total_: 35 years (2023 est.)<br>
+_male_: 33.9 years<br>
+_female_: 37 years<br>
 
 **Population growth rate**<br>
 0.39% (2023 est.)<br>
 
 **Birth rate**<br>
-11.57 births/1,000 population (2023 est.)<br>
+11.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.31 deaths/1,000 population (2023 est.)<br>
+8.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.64 migrant(s)/1,000 population (2023 est.)<br>
+0.6 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is located on the southern end of the main island of Babelthuap<br>
@@ -136,14 +136,14 @@ _65 years and over_: 0.33 male(s)/female<br>
 _total population_: 1.06 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.04 deaths/1,000 live births (2023 est.)<br>
-_male_: 12.99 deaths/1,000 live births<br>
-_female_: 8.98 deaths/1,000 live births<br>
+_total_: 11 deaths/1,000 live births (2023 est.)<br>
+_male_: 13 deaths/1,000 live births<br>
+_female_: 9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.91 years (2023 est.)<br>
-_male_: 71.76 years<br>
-_female_: 78.24 years<br>
+_total population_: 74.9 years (2023 est.)<br>
+_male_: 71.8 years<br>
+_female_: 78.2 years<br>
 
 **Total fertility rate**<br>
 1.7 children born/woman (2023 est.)<br>

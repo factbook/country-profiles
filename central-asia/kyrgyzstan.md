@@ -113,21 +113,21 @@ _elderly dependency ratio_: 7.2<br>
 _potential support ratio_: 13.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 27.3 years (2020)<br>
-_male_: 26.1 years<br>
-_female_: 28.5 years<br>
+_total_: 28.1 years (2023 est.)<br>
+_male_: 26.7 years<br>
+_female_: 29.5 years<br>
 
 **Population growth rate**<br>
 0.82% (2023 est.)<br>
 
 **Birth rate**<br>
-19.08 births/1,000 population (2023 est.)<br>
+19.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.07 deaths/1,000 population (2023 est.)<br>
+6.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.83 migrant(s)/1,000 population (2023 est.)<br>
+-4.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the vast majority of Kyrgyzstanis live in rural areas; densest population settlement is to the north in and around the capital, Bishkek, followed by Osh in the west; the least densely populated area is the east, southeast in the Tien Shan mountains<br>
@@ -153,14 +153,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 50 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 25.08 deaths/1,000 live births (2023 est.)<br>
-_male_: 29.19 deaths/1,000 live births<br>
+_total_: 25.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 29.2 deaths/1,000 live births<br>
 _female_: 20.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.63 years (2023 est.)<br>
-_male_: 68.57 years<br>
-_female_: 76.96 years<br>
+_total population_: 72.6 years (2023 est.)<br>
+_male_: 68.6 years<br>
+_female_: 77 years<br>
 
 **Total fertility rate**<br>
 2.47 children born/woman (2023 est.)<br>

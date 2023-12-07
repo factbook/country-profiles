@@ -105,9 +105,9 @@ _elderly dependency ratio_: 29.8<br>
 _potential support ratio_: 3.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 40.6 years (2020)<br>
-_male_: 39.6 years<br>
-_female_: 41.7 years<br>
+_total_: 40.6 years (2023 est.)<br>
+_male_: 39.9 years<br>
+_female_: 41.4 years<br>
 
 **Population growth rate**<br>
 0.49% (2023 est.)<br>
@@ -116,10 +116,10 @@ _female_: 41.7 years<br>
 10.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.12 deaths/1,000 population (2023 est.)<br>
+9.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.23 migrant(s)/1,000 population (2023 est.)<br>
+3.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the core of the population lies in and around London, with significant clusters found in central Britain around Manchester and Liverpool, in the Scottish lowlands between Edinburgh and Glasgow, southern Wales in and around Cardiff, and far eastern Northern Ireland centered on Belfast<br>
@@ -146,14 +146,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 10 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.79 deaths/1,000 live births (2023 est.)<br>
-_male_: 4.25 deaths/1,000 live births<br>
-_female_: 3.31 deaths/1,000 live births<br>
+_total_: 3.8 deaths/1,000 live births (2023 est.)<br>
+_male_: 4.3 deaths/1,000 live births<br>
+_female_: 3.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.05 years (2023 est.)<br>
-_male_: 80.01 years<br>
-_female_: 84.21 years<br>
+_total population_: 82.1 years (2023 est.)<br>
+_male_: 80 years<br>
+_female_: 84.2 years<br>
 
 **Total fertility rate**<br>
 1.63 children born/woman (2023 est.)<br>
@@ -752,7 +752,7 @@ Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New
 <p><em>UK-Argentina</em>: UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands</p> <p><em>UK-Argentina-Chile</em>: the UK’s territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim</p> <p><em>UK-Denmark</em>: the UK, Iceland, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p> <p><em>UK (Gibraltar)-Spain</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; London and Madrid reached a temporary agreement at the end of 2020 that allowed Gibraltar to be part of the passport-free Schengen zone; talks are expected to continue in 2022</p> <p><em>UK-Mauritius-Seychelles</em>: Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos Islands prohibiting the extraction of any natural resources therein</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan), 12,155 (Syria), 10,259 (Afghanistan), 8,009 (Pakistan), 7,699 (Iraq) (mid-year 2022); 246,760 (Ukraine) (as of 7 November 2023)<br>
+_refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan), 12,155 (Syria), 10,259 (Afghanistan), 8,009 (Pakistan), 7,699 (Iraq) (mid-year 2022); 248,260 (Ukraine) (as of 7 November 2023)<br>
 _stateless persons_: 5,483 (2022)<br>
 
 **Illicit drugs**<br>

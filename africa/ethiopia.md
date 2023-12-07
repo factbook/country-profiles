@@ -118,21 +118,21 @@ _elderly dependency ratio_: 5.5<br>
 _potential support ratio_: 18.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.8 years (2020)<br>
-_male_: 19.6 years<br>
-_female_: 20.1 years<br>
+_total_: 20.2 years (2023 est.)<br>
+_male_: 20 years<br>
+_female_: 20.5 years<br>
 
 **Population growth rate**<br>
-2.42% (2023 est.)<br>
+2.4% (2023 est.)<br>
 
 **Birth rate**<br>
-29.97 births/1,000 population (2023 est.)<br>
+30.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.6 deaths/1,000 population (2023 est.)<br>
+6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.19 migrant(s)/1,000 population (2023 est.)<br>
+-0.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 highest density is found in the highlands of the north and middle areas of the country, particularly around the centrally located capital city of Addis Ababa; the far east and southeast are sparsely populated as shown in this population distribution map<br>
@@ -159,14 +159,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 267 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.44 deaths/1,000 live births (2023 est.)<br>
-_male_: 37.13 deaths/1,000 live births<br>
-_female_: 27.6 deaths/1,000 live births<br>
+_total_: 33.9 deaths/1,000 live births (2023 est.)<br>
+_male_: 38.8 deaths/1,000 live births<br>
+_female_: 28.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.59 years (2023 est.)<br>
-_male_: 66.43 years<br>
-_female_: 70.81 years<br>
+_total population_: 67.1 years (2023 est.)<br>
+_male_: 64.9 years<br>
+_female_: 69.4 years<br>
 
 **Total fertility rate**<br>
 3.92 children born/woman (2023 est.)<br>

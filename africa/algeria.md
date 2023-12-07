@@ -113,21 +113,21 @@ _elderly dependency ratio_: 9.8<br>
 _potential support ratio_: 10.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 28.9 years (2020)<br>
+_total_: 28.9 years (2023 est.)<br>
 _male_: 28.6 years<br>
-_female_: 29.3 years<br>
+_female_: 29.2 years<br>
 
 **Population growth rate**<br>
-1.27% (2023 est.)<br>
+1.62% (2023 est.)<br>
 
 **Birth rate**<br>
-17.84 births/1,000 population (2023 est.)<br>
+20.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.33 deaths/1,000 population (2023 est.)<br>
+4.4 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.81 migrant(s)/1,000 population (2023 est.)<br>
+-0.4 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast as shown in this population distribution map<br>
@@ -150,20 +150,20 @@ _total population_: 1.03 male(s)/female (2023 est.)<br>
 78 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.22 deaths/1,000 live births (2023 est.)<br>
-_male_: 21.2 deaths/1,000 live births<br>
-_female_: 17.14 deaths/1,000 live births<br>
+_total_: 18.8 deaths/1,000 live births (2023 est.)<br>
+_male_: 19.9 deaths/1,000 live births<br>
+_female_: 17.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.27 years (2023 est.)<br>
-_male_: 76.81 years<br>
-_female_: 79.8 years<br>
+_total population_: 77.8 years (2023 est.)<br>
+_male_: 77 years<br>
+_female_: 78.6 years<br>
 
 **Total fertility rate**<br>
-2.47 children born/woman (2023 est.)<br>
+2.97 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-1.2 (2023 est.)<br>
+1.45 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 53.6% (2018/19)<br>

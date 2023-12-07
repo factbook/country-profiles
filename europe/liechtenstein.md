@@ -105,9 +105,9 @@ _elderly dependency ratio_: 28.3<br>
 _potential support ratio_: 3.5 (2021)<br>
 
 **Median age**<br>
-_total_: 43.7 years (2020)<br>
-_male_: 42 years<br>
-_female_: 45.3 years<br>
+_total_: 44.1 years (2023 est.)<br>
+_male_: 42.3 years<br>
+_female_: 46 years<br>
 
 **Population growth rate**<br>
 0.7% (2023 est.)<br>
@@ -116,10 +116,10 @@ _female_: 45.3 years<br>
 10.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.05 deaths/1,000 population (2023 est.)<br>
+8.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-4.78 migrant(s)/1,000 population (2023 est.)<br>
+4.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is found in the western half of the country along the Rhine River<br>
@@ -142,14 +142,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 31.3 years (2017)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.98 deaths/1,000 live births (2023 est.)<br>
-_male_: 4.34 deaths/1,000 live births<br>
-_female_: 3.53 deaths/1,000 live births<br>
+_total_: 4 deaths/1,000 live births (2023 est.)<br>
+_male_: 4.3 deaths/1,000 live births<br>
+_female_: 3.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.76 years (2023 est.)<br>
-_male_: 80.54 years<br>
-_female_: 85.56 years<br>
+_total population_: 82.8 years (2023 est.)<br>
+_male_: 80.5 years<br>
+_female_: 85.6 years<br>
 
 **Total fertility rate**<br>
 1.69 children born/woman (2023 est.)<br>

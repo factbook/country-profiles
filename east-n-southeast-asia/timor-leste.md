@@ -105,21 +105,21 @@ _elderly dependency ratio_: 8.9<br>
 _potential support ratio_: 11.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.6 years (2020)<br>
-_male_: 18.9 years<br>
-_female_: 20.2 years<br>
+_total_: 20.3 years (2023 est.)<br>
+_male_: 19.6 years<br>
+_female_: 21.1 years<br>
 
 **Population growth rate**<br>
 2.1% (2023 est.)<br>
 
 **Birth rate**<br>
-30.36 births/1,000 population (2023 est.)<br>
+30.4 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.55 deaths/1,000 population (2023 est.)<br>
+5.6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--3.81 migrant(s)/1,000 population (2023 est.)<br>
+-3.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population concentrated in the western third of the country, particularly around Dili<br>
@@ -146,14 +146,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 204 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 32.93 deaths/1,000 live births (2023 est.)<br>
-_male_: 36.12 deaths/1,000 live births<br>
-_female_: 29.53 deaths/1,000 live births<br>
+_total_: 32.9 deaths/1,000 live births (2023 est.)<br>
+_male_: 36.1 deaths/1,000 live births<br>
+_female_: 29.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.21 years (2023 est.)<br>
-_male_: 68.56 years<br>
-_female_: 71.98 years<br>
+_total population_: 70.2 years (2023 est.)<br>
+_male_: 68.6 years<br>
+_female_: 72 years<br>
 
 **Total fertility rate**<br>
 4.09 children born/woman (2023 est.)<br>

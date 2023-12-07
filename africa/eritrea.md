@@ -104,21 +104,21 @@ _elderly dependency ratio_: 7.1<br>
 _potential support ratio_: 14 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.3 years (2020)<br>
-_male_: 19.7 years<br>
-_female_: 20.8 years<br>
+_total_: 21 years (2023 est.)<br>
+_male_: 20.5 years<br>
+_female_: 21.5 years<br>
 
 **Population growth rate**<br>
 1.08% (2023 est.)<br>
 
 **Birth rate**<br>
-26.72 births/1,000 population (2023 est.)<br>
+26.7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 6.6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--9.38 migrant(s)/1,000 population (2023 est.)<br>
+-9.4 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 density is highest in the center of the country in and around the cities of Asmara (capital) and Keren; smaller settlements exist in the north and south as shown in this population distribution map<br>
@@ -145,14 +145,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 322 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 40.63 deaths/1,000 live births (2023 est.)<br>
-_male_: 47.45 deaths/1,000 live births<br>
-_female_: 33.62 deaths/1,000 live births<br>
+_total_: 40.6 deaths/1,000 live births (2023 est.)<br>
+_male_: 47.5 deaths/1,000 live births<br>
+_female_: 33.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.19 years (2023 est.)<br>
-_male_: 64.56 years<br>
-_female_: 69.89 years<br>
+_total population_: 67.2 years (2023 est.)<br>
+_male_: 64.6 years<br>
+_female_: 69.9 years<br>
 
 **Total fertility rate**<br>
 3.5 children born/woman (2023 est.)<br>

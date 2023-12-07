@@ -109,21 +109,21 @@ _elderly dependency ratio_: 6.8<br>
 _potential support ratio_: 14.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.7 years (2020)<br>
-_male_: 24.7 years<br>
-_female_: 24.7 years<br>
+_total_: 23.7 years (2023 est.)<br>
+_male_: 23.2 years<br>
+_female_: 24.2 years<br>
 
 **Population growth rate**<br>
 0.76% (2023 est.)<br>
 
 **Birth rate**<br>
-23.01 births/1,000 population (2023 est.)<br>
+23 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 10.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.52 migrant(s)/1,000 population (2023 est.)<br>
+-4.5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 relatively higher population density in the western half of the nation, with the capital of Maseru, and the smaller cities of Mafeteng, Teyateyaneng, and Leribe attracting the most people as shown in this population distribution map<br>
@@ -150,14 +150,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 566 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 47.04 deaths/1,000 live births (2023 est.)<br>
-_male_: 52.47 deaths/1,000 live births<br>
-_female_: 41.44 deaths/1,000 live births<br>
+_total_: 47 deaths/1,000 live births (2023 est.)<br>
+_male_: 52.5 deaths/1,000 live births<br>
+_female_: 41.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 59.87 years (2023 est.)<br>
-_male_: 57.85 years<br>
-_female_: 61.95 years<br>
+_total population_: 59.9 years (2023 est.)<br>
+_male_: 57.9 years<br>
+_female_: 62 years<br>
 
 **Total fertility rate**<br>
 2.88 children born/woman (2023 est.)<br>

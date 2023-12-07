@@ -107,21 +107,21 @@ _potential support ratio_: 16.5 (2021 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Median age**<br>
-_total_: 21.9 years (2020)<br>
-_male_: 21.7 years<br>
-_female_: 22.2 years<br>
+_total_: 21.7 years (2023 est.)<br>
+_male_: 21.5 years<br>
+_female_: 21.9 years<br>
 
 **Population growth rate**<br>
-1.66% (2023 est.)<br>
+2.1% (2023 est.)<br>
 
 **Birth rate**<br>
-24.02 births/1,000 population (2023 est.)<br>
+28.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.38 deaths/1,000 population (2023 est.)<br>
+3.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.02 migrant(s)/1,000 population (2023 est.)<br>
+-3.9 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the most populous Palestinian communities in the West Bank are located in the central ridge and western half of its territory; Jewish settlements are located throughout the West Bank, the most populous in the Seam Zone--between the 1949 Armistice Line and the separation barrier--and around Jerusalem<br>
@@ -143,20 +143,20 @@ _total population_: 1.03 male(s)/female (2023 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Infant mortality rate**<br>
-_total_: 14.91 deaths/1,000 live births (2023 est.)<br>
-_male_: 17.24 deaths/1,000 live births<br>
-_female_: 12.45 deaths/1,000 live births<br>
+_total_: 16.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 18.7 deaths/1,000 live births<br>
+_female_: 13.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.63 years (2023 est.)<br>
-_male_: 74.55 years<br>
-_female_: 78.84 years<br>
+_total population_: 75.9 years (2023 est.)<br>
+_male_: 73.7 years<br>
+_female_: 78.2 years<br>
 
 **Total fertility rate**<br>
-2.91 children born/woman (2023 est.)<br>
+3.54 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-1.41 (2023 est.)<br>
+1.72 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 57.3% (2019/20)<br>

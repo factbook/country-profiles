@@ -107,21 +107,21 @@ _elderly dependency ratio_: 5<br>
 _potential support ratio_: 20.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 18 years (2020)<br>
-_male_: 17.4 years<br>
-_female_: 18.6 years<br>
+_total_: 18.3 years (2023 est.)<br>
+_male_: 17.7 years<br>
+_female_: 18.9 years<br>
 
 **Population growth rate**<br>
 2.54% (2023 est.)<br>
 
 **Birth rate**<br>
-36.25 births/1,000 population (2023 est.)<br>
+36.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.32 deaths/1,000 population (2023 est.)<br>
+7.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--3.54 migrant(s)/1,000 population (2023 est.)<br>
+-3.5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 approximately one-fifth of the population lives in the capital city of Bissau along the Atlantic coast; the remainder is distributed among the eight other, mainly rural, regions as shown in this population distribution map<br>
@@ -144,14 +144,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 725 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 47.69 deaths/1,000 live births (2023 est.)<br>
-_male_: 53.39 deaths/1,000 live births<br>
-_female_: 41.82 deaths/1,000 live births<br>
+_total_: 47.7 deaths/1,000 live births (2023 est.)<br>
+_male_: 53.4 deaths/1,000 live births<br>
+_female_: 41.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
 _total population_: 64.1 years (2023 est.)<br>
-_male_: 61.84 years<br>
-_female_: 66.42 years<br>
+_male_: 61.8 years<br>
+_female_: 66.4 years<br>
 
 **Total fertility rate**<br>
 4.65 children born/woman (2023 est.)<br>

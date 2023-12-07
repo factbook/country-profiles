@@ -113,21 +113,21 @@ _elderly dependency ratio_: 9.6<br>
 _potential support ratio_: 10.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.7 years (2020)<br>
-_male_: 29.5 years<br>
-_female_: 29.9 years<br>
+_total_: 31.3 years (2023 est.)<br>
+_male_: 31.1 years<br>
+_female_: 31.5 years<br>
 
 **Population growth rate**<br>
 1.12% (2023 est.)<br>
 
 **Birth rate**<br>
-16.15 births/1,000 population (2023 est.)<br>
+16.2 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 4.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.07 migrant(s)/1,000 population (2023 est.)<br>
+-0.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population resides in the eastern half of the country; to the west lies the Gran Chaco (a semi-arid lowland plain), which accounts for 60% of the land territory, but only 2% of the overall population<br>
@@ -144,7 +144,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
 _65 years and over_: 0.91 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.9 years (2008 est.)<br>
@@ -155,13 +155,13 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 22.6 deaths/1,000 live births (2023 est.)<br>
-_male_: 26.78 deaths/1,000 live births<br>
+_male_: 26.8 deaths/1,000 live births<br>
 _female_: 18.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.61 years (2023 est.)<br>
-_male_: 75.97 years<br>
-_female_: 81.38 years<br>
+_total population_: 78.6 years (2023 est.)<br>
+_male_: 76 years<br>
+_female_: 81.4 years<br>
 
 **Total fertility rate**<br>
 1.88 children born/woman (2023 est.)<br>

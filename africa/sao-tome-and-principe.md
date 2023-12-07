@@ -103,21 +103,21 @@ _elderly dependency ratio_: 6.7<br>
 _potential support ratio_: 14.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.3 years (2020)<br>
-_male_: 18.9 years<br>
-_female_: 19.7 years<br>
+_total_: 20.4 years (2023 est.)<br>
+_male_: 20 years<br>
+_female_: 20.8 years<br>
 
 **Population growth rate**<br>
 1.45% (2023 est.)<br>
 
 **Birth rate**<br>
-27.43 births/1,000 population (2023 est.)<br>
+27.4 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.07 deaths/1,000 population (2023 est.)<br>
+6.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--6.84 migrant(s)/1,000 population (2023 est.)<br>
+-6.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 Sao Tome, the capital city, has roughly a quarter of the nation's population; Santo Antonio is the largest town on Principe; the northern areas of both islands have the highest population densities as shown in this population distribution map<br>
@@ -144,14 +144,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 146 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 43.48 deaths/1,000 live births (2023 est.)<br>
-_male_: 46.93 deaths/1,000 live births<br>
-_female_: 39.92 deaths/1,000 live births<br>
+_total_: 43.5 deaths/1,000 live births (2023 est.)<br>
+_male_: 46.9 deaths/1,000 live births<br>
+_female_: 39.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.39 years (2023 est.)<br>
-_male_: 65.74 years<br>
-_female_: 69.08 years<br>
+_total population_: 67.4 years (2023 est.)<br>
+_male_: 65.7 years<br>
+_female_: 69.1 years<br>
 
 **Total fertility rate**<br>
 3.44 children born/woman (2023 est.)<br>

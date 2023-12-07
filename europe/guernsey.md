@@ -91,21 +91,21 @@ _potential support ratio_: 4.1 (2021 est.)<br>
 <strong>note:</strong> data represent Guernsey and Jersey<br>
 
 **Median age**<br>
-_total_: 44.3 years (2020)<br>
-_male_: 43 years<br>
-_female_: 45.6 years<br>
+_total_: 44.8 years (2023 est.)<br>
+_male_: 43.6 years<br>
+_female_: 46.1 years<br>
 
 **Population growth rate**<br>
 0.22% (2023 est.)<br>
 
 **Birth rate**<br>
-9.73 births/1,000 population (2023 est.)<br>
+9.7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.17 deaths/1,000 population (2023 est.)<br>
+9.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.64 migrant(s)/1,000 population (2023 est.)<br>
+1.6 migrant(s)/1,000 population (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 31.2% of total population (2023)<br>
@@ -124,13 +124,13 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.3 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.79 deaths/1,000 live births<br>
-_female_: 2.78 deaths/1,000 live births<br>
+_male_: 3.8 deaths/1,000 live births<br>
+_female_: 2.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.42 years (2023 est.)<br>
-_male_: 80.73 years<br>
-_female_: 86.24 years<br>
+_total population_: 83.4 years (2023 est.)<br>
+_male_: 80.7 years<br>
+_female_: 86.2 years<br>
 
 **Total fertility rate**<br>
 1.59 children born/woman (2023 est.)<br>

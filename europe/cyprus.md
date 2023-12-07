@@ -106,21 +106,21 @@ _potential support ratio_: 4.8 (2021 est.)<br>
 <strong>note:</strong> data represent the whole country<br>
 
 **Median age**<br>
-_total_: 37.9 years (2020)<br>
-_male_: 36.7 years<br>
-_female_: 39.4 years<br>
+_total_: 39.1 years (2023 est.)<br>
+_male_: 37.9 years<br>
+_female_: 40.6 years<br>
 
 **Population growth rate**<br>
 1% (2023 est.)<br>
 
 **Birth rate**<br>
-10.37 births/1,000 population (2023 est.)<br>
+10.4 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.99 deaths/1,000 population (2023 est.)<br>
+7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-6.65 migrant(s)/1,000 population (2023 est.)<br>
+6.7 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population concentrated in central Nicosia and in the major cities of the south: Paphos, Limassol, and Larnaca<br>
@@ -137,7 +137,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 0.97 male(s)/female<br>
 _65 years and over_: 0.68 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2023 est.)<br>
+_total population_: 1.05 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30 years (2020 est.)<br>
@@ -148,13 +148,13 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 8.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 9.87 deaths/1,000 live births<br>
-_female_: 6.46 deaths/1,000 live births<br>
+_male_: 9.9 deaths/1,000 live births<br>
+_female_: 6.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.96 years (2023 est.)<br>
-_male_: 77.18 years<br>
-_female_: 82.89 years<br>
+_total population_: 80 years (2023 est.)<br>
+_male_: 77.2 years<br>
+_female_: 82.9 years<br>
 
 **Total fertility rate**<br>
 1.48 children born/woman (2023 est.)<br>

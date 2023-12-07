@@ -109,21 +109,21 @@ _elderly dependency ratio_: 13.2<br>
 _potential support ratio_: 7.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 30.1 years (2020)<br>
-_male_: 29.6 years<br>
-_female_: 30.5 years<br>
+_total_: 31.2 years (2023 est.)<br>
+_male_: 30.8 years<br>
+_female_: 31.6 years<br>
 
 **Population growth rate**<br>
 1.51% (2023 est.)<br>
 
 **Birth rate**<br>
-17.71 births/1,000 population (2023 est.)<br>
+17.7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.88 deaths/1,000 population (2023 est.)<br>
+5.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.22 migrant(s)/1,000 population (2023 est.)<br>
+3.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population is concentrated towards the center of the country, particularly around the Canal, but a sizeable segment of the populace also lives in the far west around David; the eastern third of the country is sparsely inhabited<br>
@@ -140,20 +140,20 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1.02 male(s)/female<br>
 _65 years and over_: 0.87 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2023 est.)<br>
+_total population_: 1.02 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 50 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.28 deaths/1,000 live births (2023 est.)<br>
-_male_: 16.53 deaths/1,000 live births<br>
-_female_: 13.96 deaths/1,000 live births<br>
+_total_: 15.3 deaths/1,000 live births (2023 est.)<br>
+_male_: 16.5 deaths/1,000 live births<br>
+_female_: 14 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.44 years (2023 est.)<br>
+_total population_: 78.4 years (2023 est.)<br>
 _male_: 75.6 years<br>
-_female_: 81.46 years<br>
+_female_: 81.5 years<br>
 
 **Total fertility rate**<br>
 2.37 children born/woman (2023 est.)<br>

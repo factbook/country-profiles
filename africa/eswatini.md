@@ -103,21 +103,21 @@ _elderly dependency ratio_: 6.5<br>
 _potential support ratio_: 15.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 23.7 years (2020)<br>
-_male_: 22.5 years<br>
-_female_: 24.7 years<br>
+_total_: 24.4 years (2023 est.)<br>
+_male_: 23.1 years<br>
+_female_: 25.5 years<br>
 
 **Population growth rate**<br>
 0.72% (2023 est.)<br>
 
 **Birth rate**<br>
-22.83 births/1,000 population (2023 est.)<br>
+22.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.53 deaths/1,000 population (2023 est.)<br>
+9.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--6.07 migrant(s)/1,000 population (2023 est.)<br>
+-6.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 because of its mountainous terrain, the population distribution is uneven throughout the country, concentrating primarily in valleys and plains as shown in this population distribution map<br>
@@ -140,14 +140,14 @@ _total population_: 0.9 male(s)/female (2023 est.)<br>
 437 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 38.12 deaths/1,000 live births (2023 est.)<br>
-_male_: 42.27 deaths/1,000 live births<br>
-_female_: 33.85 deaths/1,000 live births<br>
+_total_: 38.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 42.3 deaths/1,000 live births<br>
+_female_: 33.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 60.22 years (2023 est.)<br>
-_male_: 58.17 years<br>
-_female_: 62.33 years<br>
+_total population_: 60.2 years (2023 est.)<br>
+_male_: 58.2 years<br>
+_female_: 62.3 years<br>
 
 **Total fertility rate**<br>
 2.41 children born/woman (2023 est.)<br>

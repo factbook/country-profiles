@@ -106,21 +106,21 @@ _elderly dependency ratio_: 8.1<br>
 _potential support ratio_: 12.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.1 years (2020)<br>
-_male_: 30.5 years<br>
-_female_: 31.8 years<br>
+_total_: 32 years (2023 est.)<br>
+_male_: 31.1 years<br>
+_female_: 32.8 years<br>
 
 **Population growth rate**<br>
 1.43% (2023 est.)<br>
 
 **Birth rate**<br>
-15.98 births/1,000 population (2023 est.)<br>
+16 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.85 deaths/1,000 population (2023 est.)<br>
+3.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-2.15 migrant(s)/1,000 population (2023 est.)<br>
+2.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the population is found along the coast in the western part of Brunei, which is separated from the eastern portion by Malaysia; the largest population concentration is in the far north on the western side of the Brunei Bay, in and around the capital of Bandar Seri Begawan<br>
@@ -144,14 +144,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 44 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.26 deaths/1,000 live births (2023 est.)<br>
-_male_: 12.55 deaths/1,000 live births<br>
-_female_: 7.86 deaths/1,000 live births<br>
+_total_: 10.3 deaths/1,000 live births (2023 est.)<br>
+_male_: 12.6 deaths/1,000 live births<br>
+_female_: 7.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.61 years (2023 est.)<br>
-_male_: 76.26 years<br>
-_female_: 81.08 years<br>
+_total population_: 78.6 years (2023 est.)<br>
+_male_: 76.3 years<br>
+_female_: 81.1 years<br>
 
 **Total fertility rate**<br>
 1.74 children born/woman (2023 est.)<br>

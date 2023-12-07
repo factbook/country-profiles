@@ -115,21 +115,21 @@ _elderly dependency ratio_: 4.8<br>
 _potential support ratio_: 20.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.5 years (2020)<br>
-_male_: 19.3 years<br>
-_female_: 19.7 years<br>
+_total_: 20.5 years (2023 est.)<br>
+_male_: 20.3 years<br>
+_female_: 20.7 years<br>
 
 **Population growth rate**<br>
-2.33% (2023 est.)<br>
+2.4% (2023 est.)<br>
 
 **Birth rate**<br>
-31.55 births/1,000 population (2023 est.)<br>
+29.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.23 deaths/1,000 population (2023 est.)<br>
+5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2023 est.)<br>
+-0.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the population is primarily located in the south, in and around the capital of Brazzaville as shown in this population distribution map<br>
@@ -156,20 +156,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 282 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 46.62 deaths/1,000 live births (2023 est.)<br>
-_male_: 51 deaths/1,000 live births<br>
-_female_: 42.11 deaths/1,000 live births<br>
+_total_: 31.4 deaths/1,000 live births (2023 est.)<br>
+_male_: 34.3 deaths/1,000 live births<br>
+_female_: 28.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.51 years (2023 est.)<br>
-_male_: 61.02 years<br>
-_female_: 64.05 years<br>
+_total population_: 72.2 years (2023 est.)<br>
+_male_: 70.8 years<br>
+_female_: 73.6 years<br>
 
 **Total fertility rate**<br>
-4.32 children born/woman (2023 est.)<br>
+3.86 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-2.13 (2023 est.)<br>
+1.9 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 30.1% (2014/15)<br>

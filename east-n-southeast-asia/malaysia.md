@@ -106,21 +106,21 @@ _elderly dependency ratio_: 10.4<br>
 _potential support ratio_: 9.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.2 years (2020)<br>
-_male_: 28.9 years<br>
-_female_: 29.6 years<br>
+_total_: 31.4 years (2023 est.)<br>
+_male_: 31.3 years<br>
+_female_: 31.5 years<br>
 
 **Population growth rate**<br>
 1.01% (2023 est.)<br>
 
 **Birth rate**<br>
-14.39 births/1,000 population (2023 est.)<br>
+14.4 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.72 deaths/1,000 population (2023 est.)<br>
+5.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.46 migrant(s)/1,000 population (2023 est.)<br>
+1.5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a highly uneven distribution with over 80% of the population residing on the Malay Peninsula<br>
@@ -143,14 +143,14 @@ _total population_: 1.05 male(s)/female (2023 est.)<br>
 21 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.49 deaths/1,000 live births (2023 est.)<br>
-_male_: 6.87 deaths/1,000 live births<br>
-_female_: 6.08 deaths/1,000 live births<br>
+_total_: 6.5 deaths/1,000 live births (2023 est.)<br>
+_male_: 6.9 deaths/1,000 live births<br>
+_female_: 6.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.38 years (2023 est.)<br>
-_male_: 74.77 years<br>
-_female_: 78.12 years<br>
+_total population_: 76.4 years (2023 est.)<br>
+_male_: 74.8 years<br>
+_female_: 78.1 years<br>
 
 **Total fertility rate**<br>
 1.74 children born/woman (2023 est.)<br>

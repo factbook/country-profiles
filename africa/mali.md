@@ -116,21 +116,21 @@ _elderly dependency ratio_: 4.9<br>
 _potential support ratio_: 20.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 16 years (2020)<br>
-_male_: 15.3 years<br>
-_female_: 16.7 years<br>
+_total_: 16.3 years (2023 est.)<br>
+_male_: 15.6 years<br>
+_female_: 17 years<br>
 
 **Population growth rate**<br>
 2.93% (2023 est.)<br>
 
 **Birth rate**<br>
-40.54 births/1,000 population (2023 est.)<br>
+40.5 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 8.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.99 migrant(s)/1,000 population (2023 est.)<br>
+-3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the overwhelming majority of the population lives in the southern half of the country, with greater density along the border with Burkina Faso as shown in this population distribution map<br>
@@ -157,14 +157,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 440 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 58.99 deaths/1,000 live births (2023 est.)<br>
-_male_: 64.31 deaths/1,000 live births<br>
+_total_: 59 deaths/1,000 live births (2023 est.)<br>
+_male_: 64.3 deaths/1,000 live births<br>
 _female_: 53.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.81 years (2023 est.)<br>
-_male_: 60.56 years<br>
-_female_: 65.13 years<br>
+_total population_: 62.8 years (2023 est.)<br>
+_male_: 60.6 years<br>
+_female_: 65.1 years<br>
 
 **Total fertility rate**<br>
 5.45 children born/woman (2023 est.)<br>

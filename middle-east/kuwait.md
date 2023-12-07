@@ -109,21 +109,21 @@ _elderly dependency ratio_: 6<br>
 _potential support ratio_: 24.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.7 years (2020)<br>
-_male_: 30.7 years<br>
-_female_: 27.9 years<br>
+_total_: 30.1 years (2023 est.)<br>
+_male_: 31 years<br>
+_female_: 28.6 years<br>
 
 **Population growth rate**<br>
 1.13% (2023 est.)<br>
 
 **Birth rate**<br>
-17.65 births/1,000 population (2023 est.)<br>
+17.7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-2.27 deaths/1,000 population (2023 est.)<br>
+2.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.07 migrant(s)/1,000 population (2023 est.)<br>
+-4.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 densest settlement is along the Persian Gulf, particularly in Kuwait City and on Bubiyan Island; significant population threads extend south and west along highways that radiate from the capital, particularly in the southern half of the country<br>
@@ -146,14 +146,14 @@ _total population_: 1.37 male(s)/female (2023 est.)<br>
 7 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.27 deaths/1,000 live births (2023 est.)<br>
-_male_: 7.57 deaths/1,000 live births<br>
-_female_: 6.96 deaths/1,000 live births<br>
+_total_: 7.3 deaths/1,000 live births (2023 est.)<br>
+_male_: 7.6 deaths/1,000 live births<br>
+_female_: 7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.35 years (2023 est.)<br>
-_male_: 77.89 years<br>
-_female_: 80.87 years<br>
+_total population_: 79.4 years (2023 est.)<br>
+_male_: 77.9 years<br>
+_female_: 80.9 years<br>
 
 **Total fertility rate**<br>
 2.22 children born/woman (2023 est.)<br>
@@ -684,7 +684,7 @@ the Kuwaiti Armed Forces (KAF) are responsible for external defense; the indepen
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Kuwait-Iraq</em>: no maritime boundary exists with Iraq in the Persian Gulf</p> <p><em>Kuwait-Saudi Arabia</em>: their maritime boundary was established in 2000 and has a neutral zone but its extension to Iran’s maritime boundary has not been negotiated</p> <p> </p><br>
+<p><em>Kuwait-Iraq</em>: no maritime boundary exists with Iraq in the Persian Gulf; Kuwait has called on Iraq to resolve the domestic legal status of the 2012 Kuwait-Iraq Agreement to regulate maritime navigation in Khor Abdullah and ensure that the agreement remains in force  </p> <p><em>Kuwait-Saudi Arabia</em>: their maritime boundary was established in 2000 and has a neutral zone but its extension to Iran’s maritime boundary has not been negotiated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 92,000 (2022); note - Kuwait's 1959 Nationality Law defined citizens as persons who settled in the country before 1920 and who had maintained normal residence since then; one-third of the population, descendants of Bedouin tribes, missed the window of opportunity to register for nationality rights after Kuwait became independent in 1961 and were classified as bidun (meaning "without"); since the 1980s Kuwait's bidun have progressively lost their rights, including opportunities for employment and education, amid official claims that they are nationals of other countries who have destroyed their identification documents in hopes of gaining Kuwaiti citizenship; Kuwaiti authorities have delayed processing citizenship applications and labeled biduns as "illegal residents," denying them access to civil documentation, such as birth and marriage certificates<br>

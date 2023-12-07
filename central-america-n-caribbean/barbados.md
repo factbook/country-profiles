@@ -99,21 +99,21 @@ _elderly dependency ratio_: 23.4<br>
 _potential support ratio_: 4.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 39.5 years (2020)<br>
-_male_: 38.4 years<br>
-_female_: 40.7 years<br>
+_total_: 41 years (2023 est.)<br>
+_male_: 39.9 years<br>
+_female_: 42.1 years<br>
 
 **Population growth rate**<br>
 0.24% (2023 est.)<br>
 
 **Birth rate**<br>
-10.73 births/1,000 population (2023 est.)<br>
+10.7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.03 deaths/1,000 population (2023 est.)<br>
+8 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.29 migrant(s)/1,000 population (2023 est.)<br>
+-0.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most densely populated country in the eastern Caribbean; approximately one-third live in urban areas<br>
@@ -136,14 +136,14 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 39 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.79 deaths/1,000 live births (2023 est.)<br>
-_male_: 11.33 deaths/1,000 live births<br>
-_female_: 8.23 deaths/1,000 live births<br>
+_total_: 9.8 deaths/1,000 live births (2023 est.)<br>
+_male_: 11.3 deaths/1,000 live births<br>
+_female_: 8.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.79 years (2023 est.)<br>
-_male_: 76.04 years<br>
-_female_: 81.57 years<br>
+_total population_: 78.8 years (2023 est.)<br>
+_male_: 76 years<br>
+_female_: 81.6 years<br>
 
 **Total fertility rate**<br>
 1.7 children born/woman (2023 est.)<br>

@@ -101,21 +101,21 @@ _elderly dependency ratio_: 6<br>
 _potential support ratio_: 16.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 23.5 years (2020)<br>
-_male_: 23.2 years<br>
-_female_: 23.7 years<br>
+_total_: 24.8 years (2023 est.)<br>
+_male_: 24.6 years<br>
+_female_: 25 years<br>
 
 **Population growth rate**<br>
 1.69% (2023 est.)<br>
 
 **Birth rate**<br>
-22.34 births/1,000 population (2023 est.)<br>
+22.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.95 deaths/1,000 population (2023 est.)<br>
+4 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.52 migrant(s)/1,000 population (2023 est.)<br>
+-1.5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population lives along the coastal regions; about one in five live in urban areas, and of these some two-thirds reside in Honiara, the largest town and chief port<br>
@@ -142,14 +142,14 @@ _total population_: 1.04 male(s)/female (2023 est.)<br>
 122 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.53 deaths/1,000 live births (2023 est.)<br>
+_total_: 19.5 deaths/1,000 live births (2023 est.)<br>
 _male_: 23.3 deaths/1,000 live births<br>
-_female_: 15.58 deaths/1,000 live births<br>
+_female_: 15.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.96 years (2023 est.)<br>
-_male_: 74.32 years<br>
-_female_: 79.73 years<br>
+_total population_: 77 years (2023 est.)<br>
+_male_: 74.3 years<br>
+_female_: 79.7 years<br>
 
 **Total fertility rate**<br>
 2.82 children born/woman (2023 est.)<br>

@@ -103,21 +103,21 @@ _elderly dependency ratio_: 17<br>
 _potential support ratio_: 5.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 33.7 years (2020)<br>
-_male_: 32.3 years<br>
-_female_: 35.1 years<br>
+_total_: 33.9 years (2023 est.)<br>
+_male_: 32.1 years<br>
+_female_: 35.6 years<br>
 
 **Population growth rate**<br>
-0.59% (2023 est.)<br>
+0.56% (2023 est.)<br>
 
 **Birth rate**<br>
-13.61 births/1,000 population (2023 est.)<br>
+14.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.54 deaths/1,000 population (2023 est.)<br>
+7.4 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.21 migrant(s)/1,000 population (2023 est.)<br>
+-1.5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the population is primarily concentrated within a broad wet zone in the southwest, urban centers along the eastern coast, and on the Jaffna Peninsula in the north<br>
@@ -130,11 +130,11 @@ _rate of urbanization_: 1.22% annual rate of change (2020-25 est.)<br>
 103,000 Sri Jayewardenepura Kotte (legislative capital) (2018), 633,000 COLOMBO (capital) (2023)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.04 male(s)/female<br>
+_at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 0.97 male(s)/female<br>
 _65 years and over_: 0.72 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_total population_: 0.94 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.6 years (2016 est.)<br>
@@ -144,20 +144,20 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 29 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.04 deaths/1,000 live births (2023 est.)<br>
-_male_: 9.02 deaths/1,000 live births<br>
-_female_: 7.03 deaths/1,000 live births<br>
+_total_: 6.8 deaths/1,000 live births (2023 est.)<br>
+_male_: 7.5 deaths/1,000 live births<br>
+_female_: 6.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.24 years (2023 est.)<br>
-_male_: 74.83 years<br>
-_female_: 81.78 years<br>
+_total population_: 76.6 years (2023 est.)<br>
+_male_: 73.6 years<br>
+_female_: 79.8 years<br>
 
 **Total fertility rate**<br>
-1.97 children born/woman (2023 est.)<br>
+2.14 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.96 (2023 est.)<br>
+1.05 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 64.6% (2016)<br>

@@ -115,21 +115,21 @@ _elderly dependency ratio_: 5.7<br>
 _potential support ratio_: 17.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.4 years (2020)<br>
-_male_: 18.5 years<br>
-_female_: 20.3 years<br>
+_total_: 19 years (2023 est.)<br>
+_male_: 18.2 years<br>
+_female_: 19.8 years<br>
 
 **Population growth rate**<br>
 2.52% (2023 est.)<br>
 
 **Birth rate**<br>
-30.84 births/1,000 population (2023 est.)<br>
+30.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.69 migrant(s)/1,000 population (2023 est.)<br>
+-0.7 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the population is concentrated in the west, with Dakar anchoring a well-defined core area; approximately 70% of the population is rural as shown in this population distribution map<br>
@@ -156,14 +156,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 261 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 31.75 deaths/1,000 live births (2023 est.)<br>
-_male_: 35.05 deaths/1,000 live births<br>
-_female_: 28.28 deaths/1,000 live births<br>
+_total_: 31.8 deaths/1,000 live births (2023 est.)<br>
+_male_: 35.1 deaths/1,000 live births<br>
+_female_: 28.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.25 years (2023 est.)<br>
-_male_: 68.52 years<br>
-_female_: 72.08 years<br>
+_total population_: 70.3 years (2023 est.)<br>
+_male_: 68.5 years<br>
+_female_: 72.1 years<br>
 
 **Total fertility rate**<br>
 4.17 children born/woman (2023 est.)<br>

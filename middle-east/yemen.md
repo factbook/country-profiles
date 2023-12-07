@@ -105,21 +105,21 @@ _elderly dependency ratio_: 4.7<br>
 _potential support ratio_: 19.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.8 years (2018 est.)<br>
-_male_: 19.6 years<br>
-_female_: 19.9 years<br>
+_total_: 21.6 years (2023 est.)<br>
+_male_: 21.5 years<br>
+_female_: 21.8 years<br>
 
 **Population growth rate**<br>
 1.83% (2023 est.)<br>
 
 **Birth rate**<br>
-24.05 births/1,000 population (2023 est.)<br>
+24.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.54 deaths/1,000 population (2023 est.)<br>
+5.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.19 migrant(s)/1,000 population (2023 est.)<br>
+-0.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the population is found in the Asir Mountains (part of the larger Sarawat Mountain system), located in the far western region of the country<br>
@@ -146,14 +146,14 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 183 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 45.54 deaths/1,000 live births (2023 est.)<br>
-_male_: 50.87 deaths/1,000 live births<br>
-_female_: 39.95 deaths/1,000 live births<br>
+_total_: 45.5 deaths/1,000 live births (2023 est.)<br>
+_male_: 50.9 deaths/1,000 live births<br>
+_female_: 40 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.83 years (2023 est.)<br>
-_male_: 65.49 years<br>
-_female_: 70.28 years<br>
+_total population_: 67.8 years (2023 est.)<br>
+_male_: 65.5 years<br>
+_female_: 70.3 years<br>
 
 **Total fertility rate**<br>
 2.91 children born/woman (2023 est.)<br>
@@ -682,6 +682,6 @@ Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and a
 <p><em>Yemen-Oman</em>: none identified</p> <p><em>Yemen-Saudia Arabia:</em> in 2004, Saudi Arabia reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities, including militants and arms; in 2013 and 2015, Saudi Arabia again erected fences<br><br><br></p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 46,596 (Somalia), 17,812 (Ethiopia) (2023)<br>
+_refugees (country of origin)_: 45,608 (Somalia), 17,812 (Ethiopia) (2023)<br>
 _IDPs_: 4.523 million (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2022)<br>
 

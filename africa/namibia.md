@@ -115,18 +115,18 @@ _elderly dependency ratio_: 6.7<br>
 _potential support ratio_: 14.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21.8 years (2020)<br>
-_male_: 21.1 years<br>
-_female_: 22.6 years<br>
+_total_: 22.5 years (2023 est.)<br>
+_male_: 21.8 years<br>
+_female_: 23.2 years<br>
 
 **Population growth rate**<br>
-1.8% (2023 est.)<br>
+1.66% (2023 est.)<br>
 
 **Birth rate**<br>
-24.68 births/1,000 population (2023 est.)<br>
+24.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.64 deaths/1,000 population (2023 est.)<br>
+8.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
 0 migrant(s)/1,000 population (2023 est.)<br>
@@ -146,7 +146,7 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-64 years_: 0.95 male(s)/female<br>
 _65 years and over_: 0.73 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.6 years (2013 est.)<br>
@@ -156,14 +156,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 215 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 28.49 deaths/1,000 live births (2023 est.)<br>
-_male_: 30.52 deaths/1,000 live births<br>
-_female_: 26.4 deaths/1,000 live births<br>
+_total_: 28.7 deaths/1,000 live births (2023 est.)<br>
+_male_: 31.7 deaths/1,000 live births<br>
+_female_: 25.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.04 years (2023 est.)<br>
-_male_: 65 years<br>
-_female_: 69.14 years<br>
+_total population_: 63.7 years (2023 est.)<br>
+_male_: 62.1 years<br>
+_female_: 65.4 years<br>
 
 **Total fertility rate**<br>
 2.94 children born/woman (2023 est.)<br>
@@ -712,5 +712,5 @@ the NDF’s primary responsibility is external security; it has participated in 
 <p><em>Namibia-Angola-Botswana</em>: concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border</p> <p><em>Namibia-Botswana-Zambia-Zimbabwe</em>: Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; the Kazungula Bridge opened to traffic in May 2021</p> <p><em>Namibia-South Africa</em>: the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia claims a median line boundary, while South Africa supports the northern bank of the river</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,188 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 6,247 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
 

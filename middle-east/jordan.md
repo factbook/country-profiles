@@ -112,21 +112,21 @@ _elderly dependency ratio_: 5.8<br>
 _potential support ratio_: 17.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 23.5 years (2020)<br>
-_male_: 23.9 years<br>
-_female_: 22.9 years<br>
+_total_: 24.6 years (2023 est.)<br>
+_male_: 25.1 years<br>
+_female_: 24.1 years<br>
 
 **Population growth rate**<br>
 0.79% (2023 est.)<br>
 
 **Birth rate**<br>
-22.37 births/1,000 population (2023 est.)<br>
+22.4 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.47 deaths/1,000 population (2023 est.)<br>
+3.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--10.99 migrant(s)/1,000 population (2023 est.)<br>
+-11 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population heavily concentrated in the west, and particularly the northwest, in and around the capital of Amman; a sizeable, but smaller population is located in the southwest along the shore of the Gulf of Aqaba<br>
@@ -153,14 +153,14 @@ _total population_: 1.1 male(s)/female (2023 est.)<br>
 41 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.56 deaths/1,000 live births (2023 est.)<br>
-_male_: 14.66 deaths/1,000 live births<br>
-_female_: 12.39 deaths/1,000 live births<br>
+_total_: 13.6 deaths/1,000 live births (2023 est.)<br>
+_male_: 14.7 deaths/1,000 live births<br>
+_female_: 12.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.26 years (2023 est.)<br>
-_male_: 74.77 years<br>
-_female_: 77.84 years<br>
+_total population_: 76.3 years (2023 est.)<br>
+_male_: 74.8 years<br>
+_female_: 77.8 years<br>
 
 **Total fertility rate**<br>
 2.91 children born/woman (2023 est.)<br>
@@ -348,7 +348,7 @@ _residency requirement for naturalization_: 15 years<br>
 
 **Executive branch**<br>
 _chief of state_: King ABDALLAH II (since 7 February 1999); Heir Apparent Crown Prince HUSSEIN (eldest son of the monarch, born 28 June 1994); the monarchy is hereditary<br>
-_head of government_: Prime Minister Bisher Al-KHASAWNEH (since 7 October 2020)<br>
+_head of government_: Prime Minister Bisher AL-KHASAWNEH (since 7 October 2020)<br>
 _cabinet_: Cabinet appointed by the monarch in consultation with the prime minister<br>
 _elections/appointments_: prime minister appointed by the monarch<br>
 

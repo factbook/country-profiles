@@ -100,21 +100,21 @@ _elderly dependency ratio_: 11.9<br>
 _potential support ratio_: 8.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 32.8 years (2020)<br>
-_male_: 31.7 years<br>
-_female_: 34 years<br>
+_total_: 30.2 years (2023 est.)<br>
+_male_: 30.2 years<br>
+_female_: 30.2 years<br>
 
 **Population growth rate**<br>
-0.8% (2023 est.)<br>
+1.06% (2023 est.)<br>
 
 **Birth rate**<br>
-14.49 births/1,000 population (2023 est.)<br>
+13.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.47 deaths/1,000 population (2023 est.)<br>
+5.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2023 est.)<br>
+3.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population lives in urban areas, with two-thirds living on New Providence Island where Nassau is located<br>
@@ -131,26 +131,26 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-64 years_: 0.98 male(s)/female<br>
 _65 years and over_: 0.65 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_total population_: 0.86 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 77 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.52 deaths/1,000 live births (2023 est.)<br>
-_male_: 12.96 deaths/1,000 live births<br>
-_female_: 12.06 deaths/1,000 live births<br>
+_total_: 9.6 deaths/1,000 live births (2023 est.)<br>
+_male_: 10.7 deaths/1,000 live births<br>
+_female_: 8.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.38 years (2023 est.)<br>
-_male_: 73.47 years<br>
-_female_: 79.38 years<br>
+_total population_: 76.2 years (2023 est.)<br>
+_male_: 74.5 years<br>
+_female_: 77.9 years<br>
 
 **Total fertility rate**<br>
-1.97 children born/woman (2023 est.)<br>
+1.44 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.97 (2023 est.)<br>
+0.71 (2023 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 98.9% of population<br>

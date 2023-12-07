@@ -116,21 +116,21 @@ _elderly dependency ratio_: 12.5<br>
 _potential support ratio_: 8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.2 years (2020)<br>
-_male_: 30.2 years<br>
-_female_: 32.2 years<br>
+_total_: 32.4 years (2023 est.)<br>
+_male_: 31.2 years<br>
+_female_: 33.6 years<br>
 
 **Population growth rate**<br>
 0.54% (2023 est.)<br>
 
 **Birth rate**<br>
-15.06 births/1,000 population (2023 est.)<br>
+15.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.84 deaths/1,000 population (2023 est.)<br>
+7.8 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.85 migrant(s)/1,000 population (2023 est.)<br>
+-1.9 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the majority of people live in the north and west where agricultural opportunities and natural resources are found; the vast grasslands of the llanos to the south and east, which make up approximately 60% of the country, are sparsely populated<br>
@@ -147,7 +147,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 0.96 male(s)/female<br>
 _65 years and over_: 0.79 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.7 years (2015 est.)<br>
@@ -157,14 +157,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 75 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.65 deaths/1,000 live births (2023 est.)<br>
-_male_: 13.07 deaths/1,000 live births<br>
-_female_: 10.15 deaths/1,000 live births<br>
+_total_: 11.7 deaths/1,000 live births (2023 est.)<br>
+_male_: 13.1 deaths/1,000 live births<br>
+_female_: 10.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.89 years (2023 est.)<br>
-_male_: 71.27 years<br>
-_female_: 78.69 years<br>
+_total population_: 74.9 years (2023 est.)<br>
+_male_: 71.3 years<br>
+_female_: 78.7 years<br>
 
 **Total fertility rate**<br>
 1.94 children born/woman (2023 est.)<br>

@@ -112,21 +112,21 @@ _elderly dependency ratio_: 6<br>
 _potential support ratio_: 16.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.5 years (2020)<br>
-_male_: 20.3 years<br>
-_female_: 20.6 years<br>
+_total_: 21 years (2023 est.)<br>
+_male_: 20.2 years<br>
+_female_: 21.8 years<br>
 
 **Population growth rate**<br>
-1.95% (2023 est.)<br>
+1.99% (2023 est.)<br>
 
 **Birth rate**<br>
-32.77 births/1,000 population (2023 est.)<br>
+29.4 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.51 deaths/1,000 population (2023 est.)<br>
+6.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.74 migrant(s)/1,000 population (2023 est.)<br>
+-2.9 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 Aside from major urban agglomerations in Harare and Bulawayo, population distribution is fairly even, with slightly greater overall numbers in the eastern half as shown in this population distribution map<br>
@@ -143,7 +143,7 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 0.99 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
 _65 years and over_: 0.63 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2023 est.)<br>
+_total population_: 0.95 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.3 years (2015 est.)<br>
@@ -153,20 +153,20 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 357 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 27.67 deaths/1,000 live births (2023 est.)<br>
-_male_: 31.22 deaths/1,000 live births<br>
-_female_: 24.01 deaths/1,000 live births<br>
+_total_: 34 deaths/1,000 live births (2023 est.)<br>
+_male_: 37.7 deaths/1,000 live births<br>
+_female_: 30.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.79 years (2023 est.)<br>
-_male_: 61.65 years<br>
-_female_: 66 years<br>
+_total population_: 66.8 years (2023 est.)<br>
+_male_: 65.2 years<br>
+_female_: 68.5 years<br>
 
 **Total fertility rate**<br>
-3.88 children born/woman (2023 est.)<br>
+3.51 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-1.91 (2023 est.)<br>
+1.73 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.8% (2015)<br>
@@ -720,7 +720,7 @@ has a nascent program with the goal of utilizing space technologies in economic 
 <p><em>Zimbabwe-Mozambique: none identified<br><br>Zimbabwe-South Africa: </em>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration<em><br><br>Zimbabwe-Zambia: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,953 (Democratic Republic of Congo) (refugees and asylum seekers), 9,931 (Mozambique) (2023)<br>
+_refugees (country of origin)_: 12,014 (Democratic Republic of Congo) (refugees and asylum seekers), 9,931 (Mozambique) (2023)<br>
 
 **Illicit drugs**<br>
 <p>transit point for cannabis and South Asian heroin, methaqualone, and methamphetamines en route to South Africa</p><br>

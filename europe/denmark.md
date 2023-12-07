@@ -109,21 +109,21 @@ _elderly dependency ratio_: 31.9<br>
 _potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42 years (2020)<br>
-_male_: 40.9 years<br>
-_female_: 43.1 years<br>
+_total_: 42.2 years (2023 est.)<br>
+_male_: 41 years<br>
+_female_: 43.3 years<br>
 
 **Population growth rate**<br>
 0.44% (2023 est.)<br>
 
 **Birth rate**<br>
-11.25 births/1,000 population (2023 est.)<br>
+11.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.55 deaths/1,000 population (2023 est.)<br>
+9.6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-2.71 migrant(s)/1,000 population (2023 est.)<br>
+2.7 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea, population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland<br>
@@ -150,13 +150,13 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.44 deaths/1,000 live births<br>
-_female_: 2.53 deaths/1,000 live births<br>
+_male_: 3.4 deaths/1,000 live births<br>
+_female_: 2.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.87 years (2023 est.)<br>
-_male_: 79.95 years<br>
-_female_: 83.91 years<br>
+_total population_: 81.9 years (2023 est.)<br>
+_male_: 80 years<br>
+_female_: 83.9 years<br>
 
 **Total fertility rate**<br>
 1.77 children born/woman (2023 est.)<br>

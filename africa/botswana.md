@@ -112,21 +112,21 @@ _elderly dependency ratio_: 5.7<br>
 _potential support ratio_: 13.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 25.7 years (2020)<br>
-_male_: 24.5 years<br>
-_female_: 26.7 years<br>
+_total_: 26.8 years (2023 est.)<br>
+_male_: 25.6 years<br>
+_female_: 27.9 years<br>
 
 **Population growth rate**<br>
 1.37% (2023 est.)<br>
 
 **Birth rate**<br>
-19.95 births/1,000 population (2023 est.)<br>
+20 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.98 deaths/1,000 population (2023 est.)<br>
+9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-2.77 migrant(s)/1,000 population (2023 est.)<br>
+2.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the population is primarily concentrated in the east with a focus in and around the captial of Gaborone, and the far central-eastern city of Francistown; population density remains low in other areas in the country, especially in the Kalahari to the west as shown in this population distribution map<br>
@@ -149,14 +149,14 @@ _total population_: 0.92 male(s)/female (2023 est.)<br>
 186 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 24.41 deaths/1,000 live births (2023 est.)<br>
-_male_: 26.72 deaths/1,000 live births<br>
-_female_: 22.04 deaths/1,000 live births<br>
+_total_: 24.4 deaths/1,000 live births (2023 est.)<br>
+_male_: 26.7 deaths/1,000 live births<br>
+_female_: 22 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 66.04 years (2023 est.)<br>
-_male_: 63.98 years<br>
-_female_: 68.16 years<br>
+_total population_: 66 years (2023 est.)<br>
+_male_: 64 years<br>
+_female_: 68.2 years<br>
 
 **Total fertility rate**<br>
 2.37 children born/woman (2023 est.)<br>

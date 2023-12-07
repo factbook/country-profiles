@@ -116,21 +116,21 @@ _elderly dependency ratio_: 10.1<br>
 _potential support ratio_: 9.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 28.7 years (2020)<br>
-_male_: 28 years<br>
-_female_: 29.5 years<br>
+_total_: 29.5 years (2023 est.)<br>
+_male_: 28.8 years<br>
+_female_: 30.2 years<br>
 
 **Population growth rate**<br>
 0.7% (2023 est.)<br>
 
 **Birth rate**<br>
-16.53 births/1,000 population (2023 est.)<br>
+16.5 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.65 deaths/1,000 population (2023 est.)<br>
+9.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.12 migrant(s)/1,000 population (2023 est.)<br>
+0.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations<br>
@@ -157,14 +157,14 @@ _total population_: 1.06 male(s)/female (2023 est.)<br>
 103 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 30.36 deaths/1,000 live births (2023 est.)<br>
-_male_: 29.99 deaths/1,000 live births<br>
-_female_: 30.77 deaths/1,000 live births<br>
+_total_: 30.4 deaths/1,000 live births (2023 est.)<br>
+_male_: 30 deaths/1,000 live births<br>
+_female_: 30.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.69 years (2023 est.)<br>
-_male_: 65.95 years<br>
-_female_: 69.61 years<br>
+_total population_: 67.7 years (2023 est.)<br>
+_male_: 66 years<br>
+_female_: 69.6 years<br>
 
 **Total fertility rate**<br>
 2.07 children born/woman (2023 est.)<br>

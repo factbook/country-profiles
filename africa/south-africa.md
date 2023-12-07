@@ -119,21 +119,21 @@ _elderly dependency ratio_: 8.4<br>
 _potential support ratio_: 10.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 28 years (2020)<br>
-_male_: 27.9 years<br>
-_female_: 28.1 years<br>
+_total_: 30.1 years (2023 est.)<br>
+_male_: 29.9 years<br>
+_female_: 30.3 years<br>
 
 **Population growth rate**<br>
-0.91% (2023 est.)<br>
+1.08% (2023 est.)<br>
 
 **Birth rate**<br>
-18.24 births/1,000 population (2023 est.)<br>
+18.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.25 deaths/1,000 population (2023 est.)<br>
+7.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.11 migrant(s)/1,000 population (2023 est.)<br>
+-0.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the population concentrated along the southern and southeastern coast, and inland around Pretoria; the eastern half of the country is more densely populated than the west as shown in this population distribution map<br>
@@ -150,26 +150,26 @@ _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 1 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
 _65 years and over_: 0.73 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 127 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 24.99 deaths/1,000 live births (2023 est.)<br>
-_male_: 27.9 deaths/1,000 live births<br>
-_female_: 22.03 deaths/1,000 live births<br>
+_total_: 24.4 deaths/1,000 live births (2023 est.)<br>
+_male_: 26.3 deaths/1,000 live births<br>
+_female_: 22.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.6 years (2023 est.)<br>
-_male_: 64.26 years<br>
-_female_: 66.96 years<br>
+_total population_: 71 years (2023 est.)<br>
+_male_: 69.4 years<br>
+_female_: 72.6 years<br>
 
 **Total fertility rate**<br>
-2.17 children born/woman (2023 est.)<br>
+2.31 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-1.07 (2023 est.)<br>
+1.14 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 54.6% (2016)<br>
@@ -350,7 +350,7 @@ _residency requirement for naturalization_: 5 year<br>
 _chief of state_: President Matamela Cyril RAMAPHOSA (since 15 February 2018); Deputy President Paul MASHSATILE (since 7 March 2023); note - the president is both chief of state and head of government; note - Deputy President David MABUZA resigned 1 March 2023<br>
 _head of government_: President Matamela Cyril RAMAPHOSA (since 15 February 2018); Deputy President Paul MASHSATILE (since 7 March 2023)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 22 May 2019 (next to be held in May 2024) (2019)<br>
+_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 22 May 2019 (next to be held in May 2024)<br>
 _election results_: <br><em>2019: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br><br><em>2014:</em> Jacob ZUMA (ANC) reelected president by the National Assembly unopposed  <p> </p><br>
 
 **Legislative branch**<br>

@@ -100,21 +100,21 @@ _elderly dependency ratio_: 9.3<br>
 _potential support ratio_: 10.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 26.3 years (2020)<br>
-_male_: 25.5 years<br>
-_female_: 27.1 years<br>
+_total_: 27.8 years (2023 est.)<br>
+_male_: 26.9 years<br>
+_female_: 28.6 years<br>
 
 **Population growth rate**<br>
 -0.7% (2023 est.)<br>
 
 **Birth rate**<br>
-18.12 births/1,000 population (2023 est.)<br>
+18.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 4.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--20.92 migrant(s)/1,000 population (2023 est.)<br>
+-20.9 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the majority of the populaton lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas<br>
@@ -137,14 +137,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 74 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.37 deaths/1,000 live births (2023 est.)<br>
+_total_: 21.4 deaths/1,000 live births (2023 est.)<br>
 _male_: 24.4 deaths/1,000 live births<br>
-_female_: 18.19 deaths/1,000 live births<br>
+_female_: 18.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.71 years (2023 est.)<br>
-_male_: 72.61 years<br>
-_female_: 76.91 years<br>
+_total population_: 74.7 years (2023 est.)<br>
+_male_: 72.6 years<br>
+_female_: 76.9 years<br>
 
 **Total fertility rate**<br>
 2.22 children born/woman (2023 est.)<br>

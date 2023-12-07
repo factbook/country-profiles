@@ -105,15 +105,15 @@ _elderly dependency ratio_: 35.2<br>
 _potential support ratio_: 2.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 44.6 years (2020)<br>
-_male_: 42.7 years<br>
-_female_: 46.5 years<br>
+_total_: 46 years (2023 est.)<br>
+_male_: 44 years<br>
+_female_: 47.9 years<br>
 
 **Population growth rate**<br>
 -0.17% (2023 est.)<br>
 
 **Birth rate**<br>
-7.99 births/1,000 population (2023 est.)<br>
+8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 10.9 deaths/1,000 population (2023 est.)<br>
@@ -145,14 +145,14 @@ _total population_: 0.9 male(s)/female (2023 est.)<br>
 12 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.47 deaths/1,000 live births (2023 est.)<br>
-_male_: 2.83 deaths/1,000 live births<br>
+_total_: 2.5 deaths/1,000 live births (2023 est.)<br>
+_male_: 2.8 deaths/1,000 live births<br>
 _female_: 2.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.71 years (2023 est.)<br>
+_total population_: 81.7 years (2023 est.)<br>
 _male_: 78.6 years<br>
-_female_: 84.98 years<br>
+_female_: 85 years<br>
 
 **Total fertility rate**<br>
 1.44 children born/woman (2023 est.)<br>
@@ -326,9 +326,9 @@ _residency requirement for naturalization_: 10 years; 6 years if from a Portugue
 
 **Executive branch**<br>
 _chief of state_: President Marcelo REBELO DE SOUSA (since 9 March 2016)<br>
-_head of government_: Prime Minister Antonio Luis Santos da COSTA (since 24 November 2015)<br>
+_head of government_: Prime Minister Antonio Luis Santos da COSTA (since 24 November 2015; resigned on 7 November 2023 but remains in caretaker status until new elections on 10 March 2024)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2021 (next to be held in January 2026); following legislative elections the leader of the majority party or majority coalition is usually appointed prime minister by the president<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2021 (next to be held on 10 March 2024); following legislative elections the leader of the majority party or majority coalition is usually appointed prime minister by the president<br>
 _election results_: <br><em>2021:</em> Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (ran as an independent but is a member of PS) 13%, Andre VENTURA (CH) 11.9%, João FERREIRA (PCP-PEV) 4.3%, other 10.1%<br><br><em>2016:</em> Marcelo REBELO DE SOUSA elected president; percent of vote - Marcelo REBELO DE SOUSA (PSD) 52%, António SAMPAIO DA NOVOA (independent) 22.9%, Marisa MATIAS (BE) 10.1%, Maria DE BELEM ROSEIRA (PS) 4.2%, other 10.8% <p> </p><br>
 <strong>note:</strong> there is also a Council of State that acts as a consultative body to the president<br>
 

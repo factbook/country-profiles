@@ -113,21 +113,21 @@ _elderly dependency ratio_: 4.8<br>
 _potential support ratio_: 20.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 17 years (2020)<br>
-_male_: 16.3 years<br>
-_female_: 17.6 years<br>
+_total_: 17.2 years (2023 est.)<br>
+_male_: 16.6 years<br>
+_female_: 17.8 years<br>
 
 **Population growth rate**<br>
 2.55% (2023 est.)<br>
 
 **Birth rate**<br>
-36.94 births/1,000 population (2023 est.)<br>
+36.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.93 deaths/1,000 population (2023 est.)<br>
+9.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.54 migrant(s)/1,000 population (2023 est.)<br>
+-1.5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 three large populations clusters are found along the southern coast between Maputo and Inhambane, in the central area between Beira and Chimoio along the Zambezi River, and in and around the northern cities of Nampula, Cidade de Nacala, and Pemba; the northwest and southwest are the least populated areas as shown in this population distribution map<br>
@@ -154,14 +154,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 127 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 59.77 deaths/1,000 live births (2023 est.)<br>
-_male_: 61.72 deaths/1,000 live births<br>
-_female_: 57.76 deaths/1,000 live births<br>
+_total_: 59.8 deaths/1,000 live births (2023 est.)<br>
+_male_: 61.7 deaths/1,000 live births<br>
+_female_: 57.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
 _total population_: 57.7 years (2023 est.)<br>
-_male_: 56.41 years<br>
-_female_: 59.03 years<br>
+_male_: 56.4 years<br>
+_female_: 59 years<br>
 
 **Total fertility rate**<br>
 4.74 children born/woman (2023 est.)<br>
@@ -729,7 +729,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Mozambique-Eswatini</em>: none identified</p> <p><em>Mozambique-Malawi</em>:  the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Mozambique-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>Mozambique-Tanzania</em>: none identified</p> <p><em>Mozambique-Zambia</em>: none identified</p> <p><em>Mozambique-Zimbabwe</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,678 (Democratic Republic of Congo) (refugees and asylum seekers), 10,655 (Burundi) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 12,810 (Democratic Republic of Congo) (refugees and asylum seekers), 10,655 (Burundi) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 850,599 (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2023)<br>
 
 **Trafficking in persons**<br>

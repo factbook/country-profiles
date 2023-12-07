@@ -108,21 +108,21 @@ _elderly dependency ratio_: 4<br>
 _potential support ratio_: 25.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 26.2 years (2020)<br>
-_male_: 27.2 years<br>
-_female_: 25.1 years<br>
+_total_: 27.1 years (2023 est.)<br>
+_male_: 27.9 years<br>
+_female_: 26 years<br>
 
 **Population growth rate**<br>
 1.8% (2023 est.)<br>
 
 **Birth rate**<br>
-21.62 births/1,000 population (2023 est.)<br>
+21.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.21 deaths/1,000 population (2023 est.)<br>
+3.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.46 migrant(s)/1,000 population (2023 est.)<br>
+-0.5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the population is located in and around the Al Hagar Mountains in the north of the country; another smaller cluster is found around the city of Salalah in the far south; most of the country remains sparsely poplulated<br>
@@ -145,14 +145,14 @@ _total population_: 1.16 male(s)/female (2023 est.)<br>
 17 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.16 deaths/1,000 live births (2023 est.)<br>
-_male_: 15.38 deaths/1,000 live births<br>
-_female_: 12.87 deaths/1,000 live births<br>
+_total_: 14.2 deaths/1,000 live births (2023 est.)<br>
+_male_: 15.4 deaths/1,000 live births<br>
+_female_: 12.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.16 years (2023 est.)<br>
-_male_: 75.24 years<br>
-_female_: 79.17 years<br>
+_total population_: 77.2 years (2023 est.)<br>
+_male_: 75.2 years<br>
+_female_: 79.2 years<br>
 
 **Total fertility rate**<br>
 2.67 children born/woman (2023 est.)<br>

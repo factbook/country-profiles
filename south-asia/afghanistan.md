@@ -89,7 +89,7 @@ _noun_: Afghan(s)<br>
 _adjective_: Afghan<br>
 
 **Ethnic groups**<br>
-Current, reliable statistical data on ethnicity in Afghanistan are not available; Afghanistan's 2004 Constitution cited Pashtun, Tajik, Hazara, Uzbek, Turkman, Baluch, Pachaie, Nuristani, Aymaq, Arab, Qirghiz, Qizilbash, Gujur, and Brahwui ethnicities; Afghanistan has dozens of other small ethnic groups<br>
+current, reliable statistical data on ethnicity in Afghanistan are not available; Afghanistan's 2004 Constitution cited Pashtun, Tajik, Hazara, Uzbek, Turkman, Baluch, Pachaie, Nuristani, Aymaq, Arab, Qirghiz, Qizilbash, Gujur, and Brahwui ethnicities; Afghanistan has dozens of other small ethnic groups<br>
 
 **Languages**<br>
 Afghan Persian or Dari (official, lingua franca) 77%, Pashto (official) 48%, Uzbeki 11%, English 6%, Turkmani 3%, Urdu 3%, Pachaie 1%, Nuristani 1%, Arabic 1%, Balochi 1%, other &lt;1% (2020 est.)<br>
@@ -111,18 +111,18 @@ _elderly dependency ratio_: 4.8<br>
 _potential support ratio_: 22.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 19.5 years (2020)<br>
-_male_: 19.4 years<br>
-_female_: 19.5 years<br>
+_total_: 19.9 years (2023 est.)<br>
+_male_: 19.8 years<br>
+_female_: 20 years<br>
 
 **Population growth rate**<br>
 2.26% (2023 est.)<br>
 
 **Birth rate**<br>
-34.79 births/1,000 population (2023 est.)<br>
+34.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-12.08 deaths/1,000 population (2023 est.)<br>
+12.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
 -0.1 migrant(s)/1,000 population (2023 est.)<br>
@@ -142,7 +142,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-64 years_: 1.03 male(s)/female<br>
 _65 years and over_: 0.85 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2023 est.)<br>
+_total population_: 1.03 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.9 years (2015 est.)<br>
@@ -152,14 +152,14 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 620 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 103.06 deaths/1,000 live births (2023 est.)<br>
-_male_: 111.47 deaths/1,000 live births<br>
-_female_: 94.24 deaths/1,000 live births<br>
+_total_: 103.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 111.5 deaths/1,000 live births<br>
+_female_: 94.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 54.05 years (2023 est.)<br>
-_male_: 52.47 years<br>
-_female_: 55.71 years<br>
+_total population_: 54.1 years (2023 est.)<br>
+_male_: 52.5 years<br>
+_female_: 55.7 years<br>
 
 **Total fertility rate**<br>
 4.53 children born/woman (2023 est.)<br>

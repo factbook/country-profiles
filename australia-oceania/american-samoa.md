@@ -81,7 +81,7 @@ Pacific Islander 88.7% (includes Samoan 83.2%, Tongan 2.2%, other 3.3%), Asian 5
 <strong>note:</strong> data represent population by ethnic origin or race<br>
 
 **Languages**<br>
-Samoan 87.9% (closely related to Hawaiian and other Polynesian languages), English 3.3%, Tongan 2.1%, other Pacific Islander 4.1%, Asian languages 2.1%, other 0.5% (2010 est.)<br>
+Samoan 87.9% (closely related to Hawaiian and other Polynesian languages), English 3.3%, Tongan 2.1%, other Pacific Islander 4.1%, Asian languages 2.1%, other 0.5% (2020 est.)<br>
 <strong>note:</strong> most people are bilingual<br>
 
 **Religions**<br>
@@ -99,21 +99,21 @@ _elderly dependency ratio_: 10.4<br>
 _potential support ratio_: 9.6 (2021)<br>
 
 **Median age**<br>
-_total_: 27.2 years (2020)<br>
-_male_: 26.7 years<br>
-_female_: 27.7 years<br>
+_total_: 29.4 years (2023 est.)<br>
+_male_: 28.8 years<br>
+_female_: 30 years<br>
 
 **Population growth rate**<br>
 -1.74% (2023 est.)<br>
 
 **Birth rate**<br>
-16.18 births/1,000 population (2023 est.)<br>
+16.2 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.19 deaths/1,000 population (2023 est.)<br>
+6.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--27.36 migrant(s)/1,000 population (2023 est.)<br>
+-27.4 migrant(s)/1,000 population (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 87.2% of total population (2023)<br>
@@ -130,14 +130,14 @@ _65 years and over_: 0.88 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.87 deaths/1,000 live births (2023 est.)<br>
+_total_: 9.9 deaths/1,000 live births (2023 est.)<br>
 _male_: 11.9 deaths/1,000 live births<br>
-_female_: 7.72 deaths/1,000 live births<br>
+_female_: 7.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.58 years (2023 est.)<br>
+_total population_: 75.6 years (2023 est.)<br>
 _male_: 73.1 years<br>
-_female_: 78.22 years<br>
+_female_: 78.2 years<br>
 
 **Total fertility rate**<br>
 2.13 children born/woman (2023 est.)<br>

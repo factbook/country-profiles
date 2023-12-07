@@ -103,21 +103,21 @@ _elderly dependency ratio_: 8.7<br>
 _potential support ratio_: 11.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.9 years (2020)<br>
-_male_: 29.7 years<br>
-_female_: 30.1 years<br>
+_total_: 31.2 years (2023 est.)<br>
+_male_: 31 years<br>
+_female_: 31.5 years<br>
 
 **Population growth rate**<br>
 0.42% (2023 est.)<br>
 
 **Birth rate**<br>
-16.25 births/1,000 population (2023 est.)<br>
+16.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.44 deaths/1,000 population (2023 est.)<br>
+6.4 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--5.65 migrant(s)/1,000 population (2023 est.)<br>
+-5.7 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 approximately 70% of the population lives on the island of Viti Levu; roughly half of the population lives in urban areas<br>
@@ -140,14 +140,14 @@ _total population_: 1.03 male(s)/female (2023 est.)<br>
 38 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.85 deaths/1,000 live births (2023 est.)<br>
-_male_: 11.35 deaths/1,000 live births<br>
-_female_: 8.28 deaths/1,000 live births<br>
+_total_: 9.9 deaths/1,000 live births (2023 est.)<br>
+_male_: 11.4 deaths/1,000 live births<br>
+_female_: 8.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.54 years (2023 est.)<br>
-_male_: 71.88 years<br>
-_female_: 77.32 years<br>
+_total population_: 74.5 years (2023 est.)<br>
+_male_: 71.9 years<br>
+_female_: 77.3 years<br>
 
 **Total fertility rate**<br>
 2.23 children born/woman (2023 est.)<br>

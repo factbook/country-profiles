@@ -107,9 +107,9 @@ _elderly dependency ratio_: 19.1<br>
 _potential support ratio_: 5.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 36.6 years (2020)<br>
-_male_: 35.1 years<br>
-_female_: 38.3 years<br>
+_total_: 38.3 years (2023 est.)<br>
+_male_: 36.9 years<br>
+_female_: 39.8 years<br>
 
 **Population growth rate**<br>
 -0.4% (2023 est.)<br>
@@ -118,10 +118,10 @@ _female_: 38.3 years<br>
 10.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.54 deaths/1,000 population (2023 est.)<br>
+9.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--5.28 migrant(s)/1,000 population (2023 est.)<br>
+-5.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is located in the northern half of the country; the capital of Yerevan is home to more than five times as many people as Gyumri, the second largest city in the country<br>
@@ -147,14 +147,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 27 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.89 deaths/1,000 live births (2023 est.)<br>
-_male_: 13.43 deaths/1,000 live births<br>
-_female_: 10.24 deaths/1,000 live births<br>
+_total_: 11.9 deaths/1,000 live births (2023 est.)<br>
+_male_: 13.4 deaths/1,000 live births<br>
+_female_: 10.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
 _total population_: 76.4 years (2023 est.)<br>
-_male_: 73.13 years<br>
-_female_: 79.91 years<br>
+_male_: 73.1 years<br>
+_female_: 79.9 years<br>
 
 **Total fertility rate**<br>
 1.65 children born/woman (2023 est.)<br>

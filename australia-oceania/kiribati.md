@@ -101,21 +101,21 @@ _elderly dependency ratio_: 6.2<br>
 _potential support ratio_: 16.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 25.7 years (2020)<br>
-_male_: 24.8 years<br>
-_female_: 26.6 years<br>
+_total_: 26.9 years (2023 est.)<br>
+_male_: 26 years<br>
+_female_: 27.8 years<br>
 
 **Population growth rate**<br>
 1.02% (2023 est.)<br>
 
 **Birth rate**<br>
-19.92 births/1,000 population (2023 est.)<br>
+19.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.91 deaths/1,000 population (2023 est.)<br>
+6.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.79 migrant(s)/1,000 population (2023 est.)<br>
+-2.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 consists of three achipelagos spread out over an area roughly the size of India; the eastern Line Islands and central Phoenix Islands are sparsely populated, but the western Gilbert Islands are some of the most densely settled places on earth, with the main island of South Tarawa boasting a population density similar to Tokyo or Hong Kong<br>
@@ -143,13 +143,13 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 32.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 34.17 deaths/1,000 live births<br>
-_female_: 30.14 deaths/1,000 live births<br>
+_male_: 34.2 deaths/1,000 live births<br>
+_female_: 30.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.22 years (2023 est.)<br>
+_total population_: 68.2 years (2023 est.)<br>
 _male_: 65.6 years<br>
-_female_: 70.97 years<br>
+_female_: 71 years<br>
 
 **Total fertility rate**<br>
 2.18 children born/woman (2023 est.)<br>

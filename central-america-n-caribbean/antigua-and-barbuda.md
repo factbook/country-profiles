@@ -103,21 +103,21 @@ _elderly dependency ratio_: 14.4<br>
 _potential support ratio_: 7 (2020 est.)<br>
 
 **Median age**<br>
-_total_: 32.7 years (2020)<br>
-_male_: 30.7 years<br>
-_female_: 34.4 years<br>
+_total_: 33.6 years (2023 est.)<br>
+_male_: 31.6 years<br>
+_female_: 35.4 years<br>
 
 **Population growth rate**<br>
 1.13% (2023 est.)<br>
 
 **Birth rate**<br>
-15.01 births/1,000 population (2023 est.)<br>
+15 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.69 deaths/1,000 population (2023 est.)<br>
+5.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-2.01 migrant(s)/1,000 population (2023 est.)<br>
+2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the island of Antigua is home to approximately 97% of the population; nearly the entire population of Barbuda lives in Codrington<br>
@@ -140,14 +140,14 @@ _total population_: 0.89 male(s)/female (2023 est.)<br>
 21 deaths/100,000 live births (2020)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.95 deaths/1,000 live births (2023 est.)<br>
-_male_: 16.84 deaths/1,000 live births<br>
-_female_: 10.91 deaths/1,000 live births<br>
+_total_: 14 deaths/1,000 live births (2023 est.)<br>
+_male_: 16.8 deaths/1,000 live births<br>
+_female_: 10.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.04 years (2023 est.)<br>
-_male_: 75.88 years<br>
-_female_: 80.31 years<br>
+_total population_: 78 years (2023 est.)<br>
+_male_: 75.9 years<br>
+_female_: 80.3 years<br>
 
 **Total fertility rate**<br>
 1.94 children born/woman (2023 est.)<br>

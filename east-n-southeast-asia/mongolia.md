@@ -109,21 +109,21 @@ _elderly dependency ratio_: 7<br>
 _potential support ratio_: 14.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.8 years (2020)<br>
-_male_: 28.8 years<br>
-_female_: 30.7 years<br>
+_total_: 31.2 years (2023 est.)<br>
+_male_: 29.9 years<br>
+_female_: 32.2 years<br>
 
 **Population growth rate**<br>
 0.83% (2023 est.)<br>
 
 **Birth rate**<br>
-15.37 births/1,000 population (2023 est.)<br>
+15.4 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.33 deaths/1,000 population (2023 est.)<br>
+6.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.77 migrant(s)/1,000 population (2023 est.)<br>
+-0.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 sparsely distributed population throughout the country; the capital of Ulaanbaatar and the northern city of Darhan support the highest population densities<br>
@@ -150,14 +150,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 39 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.77 deaths/1,000 live births (2023 est.)<br>
-_male_: 22.81 deaths/1,000 live births<br>
-_female_: 16.59 deaths/1,000 live births<br>
+_total_: 19.8 deaths/1,000 live births (2023 est.)<br>
+_male_: 22.8 deaths/1,000 live births<br>
+_female_: 16.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.65 years (2023 est.)<br>
-_male_: 67.49 years<br>
-_female_: 76.02 years<br>
+_total population_: 71.7 years (2023 est.)<br>
+_male_: 67.5 years<br>
+_female_: 76 years<br>
 
 **Total fertility rate**<br>
 1.89 children born/woman (2023 est.)<br>

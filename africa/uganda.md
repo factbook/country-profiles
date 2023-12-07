@@ -111,21 +111,21 @@ _elderly dependency ratio_: 3.2<br>
 _potential support ratio_: 31.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 15.7 years (2020)<br>
-_male_: 14.9 years<br>
-_female_: 16.5 years<br>
+_total_: 16.1 years (2023 est.)<br>
+_male_: 15.3 years<br>
+_female_: 16.9 years<br>
 
 **Population growth rate**<br>
 3.22% (2023 est.)<br>
 
 **Birth rate**<br>
-40.27 births/1,000 population (2023 est.)<br>
+40.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.87 deaths/1,000 population (2023 est.)<br>
+4.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--3.16 migrant(s)/1,000 population (2023 est.)<br>
+-3.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated as shown in this population distribution map<br>
@@ -152,14 +152,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 284 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 29.44 deaths/1,000 live births (2023 est.)<br>
-_male_: 32.82 deaths/1,000 live births<br>
-_female_: 25.96 deaths/1,000 live births<br>
+_total_: 29.4 deaths/1,000 live births (2023 est.)<br>
+_male_: 32.8 deaths/1,000 live births<br>
+_female_: 26 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.32 years (2023 est.)<br>
-_male_: 67.08 years<br>
-_female_: 71.62 years<br>
+_total population_: 69.3 years (2023 est.)<br>
+_male_: 67.1 years<br>
+_female_: 71.6 years<br>
 
 **Total fertility rate**<br>
 5.26 children born/woman (2023 est.)<br>

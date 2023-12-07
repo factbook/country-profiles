@@ -114,21 +114,21 @@ _elderly dependency ratio_: 7.7<br>
 _potential support ratio_: 13 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.2 years (2020)<br>
-_male_: 28.7 years<br>
-_female_: 29.7 years<br>
+_total_: 30.7 years (2023 est.)<br>
+_male_: 30.2 years<br>
+_female_: 31.2 years<br>
 
 **Population growth rate**<br>
 0.95% (2023 est.)<br>
 
 **Birth rate**<br>
-17.16 births/1,000 population (2023 est.)<br>
+17.2 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.96 deaths/1,000 population (2023 est.)<br>
+6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.69 migrant(s)/1,000 population (2023 est.)<br>
+-1.7 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the most densely populated areas are the southern, eastern, and northeastern oases; approximately 50% of the population lives in and around the capital of Ashgabat<br>
@@ -154,14 +154,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 36.72 deaths/1,000 live births (2023 est.)<br>
-_male_: 44.67 deaths/1,000 live births<br>
-_female_: 28.37 deaths/1,000 live births<br>
+_total_: 36.7 deaths/1,000 live births (2023 est.)<br>
+_male_: 44.7 deaths/1,000 live births<br>
+_female_: 28.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.11 years (2023 est.)<br>
+_total population_: 72.1 years (2023 est.)<br>
 _male_: 69.1 years<br>
-_female_: 75.26 years<br>
+_female_: 75.3 years<br>
 
 **Total fertility rate**<br>
 2.03 children born/woman (2023 est.)<br>

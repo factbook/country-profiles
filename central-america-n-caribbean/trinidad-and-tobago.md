@@ -104,21 +104,21 @@ _elderly dependency ratio_: 16.8<br>
 _potential support ratio_: 7.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 37.8 years (2020)<br>
-_male_: 37.3 years<br>
-_female_: 38.3 years<br>
+_total_: 38 years (2023 est.)<br>
+_male_: 37.5 years<br>
+_female_: 38.4 years<br>
 
 **Population growth rate**<br>
 0.12% (2023 est.)<br>
 
 **Birth rate**<br>
-10.62 births/1,000 population (2023 est.)<br>
+10.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.48 deaths/1,000 population (2023 est.)<br>
+8.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.97 migrant(s)/1,000 population (2023 est.)<br>
+-1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population on Trinidad is concentrated in the western half of the island, on Tobago in the southern half<br>
@@ -141,14 +141,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 27 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.44 deaths/1,000 live births (2023 est.)<br>
-_male_: 17.51 deaths/1,000 live births<br>
-_female_: 13.28 deaths/1,000 live births<br>
+_total_: 15.4 deaths/1,000 live births (2023 est.)<br>
+_male_: 17.5 deaths/1,000 live births<br>
+_female_: 13.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.19 years (2023 est.)<br>
-_male_: 74.29 years<br>
-_female_: 78.18 years<br>
+_total population_: 76.2 years (2023 est.)<br>
+_male_: 74.3 years<br>
+_female_: 78.2 years<br>
 
 **Total fertility rate**<br>
 1.63 children born/woman (2023 est.)<br>

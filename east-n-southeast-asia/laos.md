@@ -111,21 +111,21 @@ _elderly dependency ratio_: 6.7<br>
 _potential support ratio_: 14.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24 years (2020)<br>
-_male_: 23.7 years<br>
-_female_: 24.4 years<br>
+_total_: 25 years (2023 est.)<br>
+_male_: 24.6 years<br>
+_female_: 25.3 years<br>
 
 **Population growth rate**<br>
 1.3% (2023 est.)<br>
 
 **Birth rate**<br>
-20.35 births/1,000 population (2023 est.)<br>
+20.4 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.26 deaths/1,000 population (2023 est.)<br>
+6.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.09 migrant(s)/1,000 population (2023 est.)<br>
+-1.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most densely populated area is in and around the capital city of Vientiane; large communities are primarily found along the Mekong River along the southwestern border; overall density is considered one of the lowest in Southeast Asia<br>
@@ -142,20 +142,20 @@ _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-64 years_: 0.99 male(s)/female<br>
 _65 years and over_: 0.86 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 126 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 36.56 deaths/1,000 live births (2023 est.)<br>
-_male_: 40.38 deaths/1,000 live births<br>
-_female_: 32.59 deaths/1,000 live births<br>
+_total_: 36.6 deaths/1,000 live births (2023 est.)<br>
+_male_: 40.4 deaths/1,000 live births<br>
+_female_: 32.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.59 years (2023 est.)<br>
-_male_: 66.95 years<br>
-_female_: 70.31 years<br>
+_total population_: 68.6 years (2023 est.)<br>
+_male_: 67 years<br>
+_female_: 70.3 years<br>
 
 **Total fertility rate**<br>
 2.3 children born/woman (2023 est.)<br>

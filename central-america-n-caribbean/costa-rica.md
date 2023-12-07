@@ -107,21 +107,21 @@ _elderly dependency ratio_: 15.3<br>
 _potential support ratio_: 6.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 32.6 years (2020)<br>
-_male_: 32.1 years<br>
-_female_: 33.1 years<br>
+_total_: 35 years (2023 est.)<br>
+_male_: 34.4 years<br>
+_female_: 35.6 years<br>
 
 **Population growth rate**<br>
-0.98% (2023 est.)<br>
+0.72% (2023 est.)<br>
 
 **Birth rate**<br>
-14.03 births/1,000 population (2023 est.)<br>
+10.7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.97 deaths/1,000 population (2023 est.)<br>
+5.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.76 migrant(s)/1,000 population (2023 est.)<br>
+2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 roughly half of the nation's population resides in urban areas; the capital of San Jose is the largest city and home to approximately one-fifth of the population<br>
@@ -144,20 +144,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 22 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 9.24 deaths/1,000 live births<br>
-_female_: 7.12 deaths/1,000 live births<br>
+_total_: 7 deaths/1,000 live births (2023 est.)<br>
+_male_: 7.4 deaths/1,000 live births<br>
+_female_: 6.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.87 years (2023 est.)<br>
-_male_: 77.23 years<br>
-_female_: 82.65 years<br>
+_total population_: 79.6 years (2023 est.)<br>
+_male_: 77 years<br>
+_female_: 82.4 years<br>
 
 **Total fertility rate**<br>
-1.86 children born/woman (2023 est.)<br>
+1.4 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.91 (2023 est.)<br>
+0.68 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 70.9% (2018)<br>

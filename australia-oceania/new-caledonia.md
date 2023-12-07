@@ -100,21 +100,21 @@ _elderly dependency ratio_: 16<br>
 _potential support ratio_: 6.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 32.9 years (2020)<br>
-_male_: 32.1 years<br>
-_female_: 33.7 years<br>
+_total_: 33.9 years (2023 est.)<br>
+_male_: 33.1 years<br>
+_female_: 34.8 years<br>
 
 **Population growth rate**<br>
 1.17% (2023 est.)<br>
 
 **Birth rate**<br>
-13.96 births/1,000 population (2023 est.)<br>
+14 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.92 deaths/1,000 population (2023 est.)<br>
+5.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.62 migrant(s)/1,000 population (2023 est.)<br>
+3.6 migrant(s)/1,000 population (2023 est.)<br>
 <strong>note:</strong> there has been steady emigration from Wallis and Futuna to New Caledonia<br>
 
 **Population distribution**<br>
@@ -135,14 +135,14 @@ _65 years and over_: 0.78 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.92 deaths/1,000 live births (2023 est.)<br>
-_male_: 5.88 deaths/1,000 live births<br>
-_female_: 3.91 deaths/1,000 live births<br>
+_total_: 4.9 deaths/1,000 live births (2023 est.)<br>
+_male_: 5.9 deaths/1,000 live births<br>
+_female_: 3.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.06 years (2023 est.)<br>
-_male_: 75.19 years<br>
-_female_: 83.13 years<br>
+_total population_: 79.1 years (2023 est.)<br>
+_male_: 75.2 years<br>
+_female_: 83.1 years<br>
 
 **Total fertility rate**<br>
 1.84 children born/woman (2023 est.)<br>

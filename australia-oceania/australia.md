@@ -119,21 +119,21 @@ _elderly dependency ratio_: 25.5<br>
 _potential support ratio_: 3.9 (2020 est.)<br>
 
 **Median age**<br>
-_total_: 37.5 years (2020)<br>
-_male_: 36.5 years<br>
-_female_: 38.5 years<br>
+_total_: 37.9 years (2023 est.)<br>
+_male_: 36.8 years<br>
+_female_: 39 years<br>
 
 **Population growth rate**<br>
 1.19% (2023 est.)<br>
 
 **Birth rate**<br>
-12.23 births/1,000 population (2023 est.)<br>
+12.2 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.76 deaths/1,000 population (2023 est.)<br>
+6.8 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-6.39 migrant(s)/1,000 population (2023 est.)<br>
+6.4 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or "outback", has a very sparse population<br>
@@ -160,14 +160,14 @@ _total population_: 0.99 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.96 deaths/1,000 live births (2023 est.)<br>
+_total_: 3 deaths/1,000 live births (2023 est.)<br>
 _male_: 3.2 deaths/1,000 live births<br>
-_female_: 2.71 deaths/1,000 live births<br>
+_female_: 2.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.28 years (2023 est.)<br>
-_male_: 81.14 years<br>
-_female_: 85.54 years<br>
+_total population_: 83.3 years (2023 est.)<br>
+_male_: 81.1 years<br>
+_female_: 85.5 years<br>
 
 **Total fertility rate**<br>
 1.73 children born/woman (2023 est.)<br>

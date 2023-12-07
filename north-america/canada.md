@@ -119,21 +119,21 @@ _elderly dependency ratio_: 28.2<br>
 _potential support ratio_: 3.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 41.8 years (2020)<br>
-_male_: 40.6 years<br>
-_female_: 42.9 years<br>
+_total_: 42.4 years (2023 est.)<br>
+_male_: 41.2 years<br>
+_female_: 43.5 years<br>
 
 **Population growth rate**<br>
 0.73% (2023 est.)<br>
 
 **Birth rate**<br>
-10.11 births/1,000 population (2023 est.)<br>
+10.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.17 deaths/1,000 population (2023 est.)<br>
+8.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-5.37 migrant(s)/1,000 population (2023 est.)<br>
+5.4 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia<br>
@@ -159,14 +159,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 11 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.31 deaths/1,000 live births (2023 est.)<br>
+_total_: 4.3 deaths/1,000 live births (2023 est.)<br>
 _male_: 4.6 deaths/1,000 live births<br>
-_female_: 4.02 deaths/1,000 live births<br>
+_female_: 4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.99 years (2023 est.)<br>
-_male_: 81.72 years<br>
-_female_: 86.39 years<br>
+_total population_: 84 years (2023 est.)<br>
+_male_: 81.7 years<br>
+_female_: 86.4 years<br>
 
 **Total fertility rate**<br>
 1.57 children born/woman (2023 est.)<br>

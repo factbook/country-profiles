@@ -97,21 +97,21 @@ _elderly dependency ratio_: 21.4<br>
 _potential support ratio_: 4.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 36.7 years (2020)<br>
-_male_: 34.4 years<br>
-_female_: 39.5 years<br>
+_total_: 37.5 years (2023 est.)<br>
+_male_: 35.3 years<br>
+_female_: 40 years<br>
 
 **Population growth rate**<br>
 0.3% (2023 est.)<br>
 
 **Birth rate**<br>
-13.07 births/1,000 population (2023 est.)<br>
+13.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.78 deaths/1,000 population (2023 est.)<br>
+8.8 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.31 migrant(s)/1,000 population (2023 est.)<br>
+-1.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 largest concentration on the island is Willemstad; smaller settlements near the coast can be found throughout the island, particularly in the northwest<br>
@@ -128,17 +128,17 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
 _65 years and over_: 0.83 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2023 est.)<br>
+_total population_: 0.93 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 7.7 deaths/1,000 live births (2023 est.)<br>
 _male_: 8.5 deaths/1,000 live births<br>
-_female_: 6.87 deaths/1,000 live births<br>
+_female_: 6.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.65 years (2023 est.)<br>
-_male_: 77.33 years<br>
-_female_: 82.09 years<br>
+_total population_: 79.7 years (2023 est.)<br>
+_male_: 77.3 years<br>
+_female_: 82.1 years<br>
 
 **Total fertility rate**<br>
 1.97 children born/woman (2023 est.)<br>

@@ -105,21 +105,21 @@ _elderly dependency ratio_: 5.4<br>
 _potential support ratio_: 18.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.3 years (2020)<br>
-_male_: 19.9 years<br>
-_female_: 20.7 years<br>
+_total_: 21.9 years (2023 est.)<br>
+_male_: 22.5 years<br>
+_female_: 21.3 years<br>
 
 **Population growth rate**<br>
 3.36% (2023 est.)<br>
 
 **Birth rate**<br>
-29.46 births/1,000 population (2023 est.)<br>
+29.5 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 8.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-13.01 migrant(s)/1,000 population (2023 est.)<br>
+13 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 only two large cities over 30,000 people (Bata on the mainland, and the capital Malabo on the island of Bioko); small communities are scattered throughout the mainland and the five inhabited islands as shown in this population distribution map<br>
@@ -142,14 +142,14 @@ _total population_: 1.15 male(s)/female (2023 est.)<br>
 212 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 77.85 deaths/1,000 live births (2023 est.)<br>
-_male_: 83.76 deaths/1,000 live births<br>
-_female_: 71.77 deaths/1,000 live births<br>
+_total_: 77.9 deaths/1,000 live births (2023 est.)<br>
+_male_: 83.8 deaths/1,000 live births<br>
+_female_: 71.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
 _total population_: 63.8 years (2023 est.)<br>
-_male_: 61.53 years<br>
-_female_: 66.13 years<br>
+_male_: 61.5 years<br>
+_female_: 66.1 years<br>
 
 **Total fertility rate**<br>
 4.19 children born/woman (2023 est.)<br>

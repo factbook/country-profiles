@@ -101,21 +101,21 @@ _elderly dependency ratio_: 22.7<br>
 _potential support ratio_: 4.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 37.8 years (2020)<br>
-_male_: 37.4 years<br>
-_female_: 38.2 years<br>
+_total_: 39.8 years (2023 est.)<br>
+_male_: 39.4 years<br>
+_female_: 40.2 years<br>
 
 **Population growth rate**<br>
-0.91% (2023 est.)<br>
+1.09% (2023 est.)<br>
 
 **Birth rate**<br>
-12.08 births/1,000 population (2023 est.)<br>
+11.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.74 deaths/1,000 population (2023 est.)<br>
+7.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.76 migrant(s)/1,000 population (2023 est.)<br>
+6.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population distribution is weighted to the eastern side of the island, with the largest concentration being in and around Dublin; populations in the west are small due to mountainous land, poorer soil, lack of good transport routes, and fewer job opportunities<br>
@@ -132,7 +132,7 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
 _65 years and over_: 0.87 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30.9 years (2020 est.)<br>
@@ -141,20 +141,20 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.41 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.84 deaths/1,000 live births<br>
-_female_: 2.96 deaths/1,000 live births<br>
+_total_: 3.2 deaths/1,000 live births (2023 est.)<br>
+_male_: 3.2 deaths/1,000 live births<br>
+_female_: 3.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.87 years (2023 est.)<br>
-_male_: 79.57 years<br>
-_female_: 84.3 years<br>
+_total population_: 82.2 years (2023 est.)<br>
+_male_: 80.5 years<br>
+_female_: 84.1 years<br>
 
 **Total fertility rate**<br>
-1.91 children born/woman (2023 est.)<br>
+1.72 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.93 (2023 est.)<br>
+0.84 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

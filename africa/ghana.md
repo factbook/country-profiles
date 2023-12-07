@@ -113,21 +113,21 @@ _elderly dependency ratio_: 5.9<br>
 _potential support ratio_: 17 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21.4 years (2020)<br>
-_male_: 21 years<br>
-_female_: 21.9 years<br>
+_total_: 21.3 years (2023 est.)<br>
+_male_: 20.4 years<br>
+_female_: 22.2 years<br>
 
 **Population growth rate**<br>
 2.19% (2023 est.)<br>
 
 **Birth rate**<br>
-28.04 births/1,000 population (2023 est.)<br>
+28 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.99 deaths/1,000 population (2023 est.)<br>
+6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.16 migrant(s)/1,000 population (2023 est.)<br>
+-0.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population is concentrated in the southern half of the country, with the highest concentrations being on or near the Atlantic coast as shown in this population distribution map<br>
@@ -154,14 +154,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 263 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 31.87 deaths/1,000 live births (2023 est.)<br>
-_male_: 35.25 deaths/1,000 live births<br>
-_female_: 28.38 deaths/1,000 live births<br>
+_total_: 31.9 deaths/1,000 live births (2023 est.)<br>
+_male_: 35.3 deaths/1,000 live births<br>
+_female_: 28.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.72 years (2023 est.)<br>
-_male_: 68.06 years<br>
-_female_: 71.44 years<br>
+_total population_: 69.7 years (2023 est.)<br>
+_male_: 68.1 years<br>
+_female_: 71.4 years<br>
 
 **Total fertility rate**<br>
 3.61 children born/woman (2023 est.)<br>

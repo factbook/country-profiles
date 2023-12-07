@@ -113,21 +113,21 @@ _elderly dependency ratio_: 12.3<br>
 _potential support ratio_: 8.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 32.2 years (2020)<br>
-_male_: 31.7 years<br>
-_female_: 32.8 years<br>
+_total_: 33.6 years (2023 est.)<br>
+_male_: 33 years<br>
+_female_: 34.1 years<br>
 
 **Population growth rate**<br>
 0.64% (2023 est.)<br>
 
 **Birth rate**<br>
-14.04 births/1,000 population (2023 est.)<br>
+14 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.09 deaths/1,000 population (2023 est.)<br>
+6.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.53 migrant(s)/1,000 population (2023 est.)<br>
+-1.5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the most densely populated area is found around the Bosporus in the northwest where 20% of the population lives in Istanbul; with the exception of Ankara, urban centers remain small and scattered throughout the interior of Anatolia; an overall pattern of peripheral development exists, particularly along the Aegean Sea coast in the west, and the Tigris and Euphrates River systems in the southeast<br>
@@ -153,14 +153,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 17 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.85 deaths/1,000 live births (2023 est.)<br>
-_male_: 20.46 deaths/1,000 live births<br>
-_female_: 17.16 deaths/1,000 live births<br>
+_total_: 18.9 deaths/1,000 live births (2023 est.)<br>
+_male_: 20.5 deaths/1,000 live births<br>
+_female_: 17.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.47 years (2023 est.)<br>
-_male_: 74.11 years<br>
-_female_: 78.94 years<br>
+_total population_: 76.5 years (2023 est.)<br>
+_male_: 74.1 years<br>
+_female_: 78.9 years<br>
 
 **Total fertility rate**<br>
 1.91 children born/woman (2023 est.)<br>

@@ -108,21 +108,21 @@ _elderly dependency ratio_: 6.9<br>
 _potential support ratio_: 14.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.9 years (2020)<br>
-_male_: 23 years<br>
-_female_: 26.4 years<br>
+_total_: 26 years (2023 est.)<br>
+_male_: 24.1 years<br>
+_female_: 27.6 years<br>
 
 **Population growth rate**<br>
 1.93% (2023 est.)<br>
 
 **Birth rate**<br>
-22.03 births/1,000 population (2023 est.)<br>
+22 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.08 deaths/1,000 population (2023 est.)<br>
+7.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-4.37 migrant(s)/1,000 population (2023 est.)<br>
+4.4 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most densely populated areas are in the east; the largest city is Djibouti, with a population over 600,000; no other city in the country has a total population over 50,000 as shown in this population distribution map<br>
@@ -145,14 +145,14 @@ _total population_: 0.83 male(s)/female (2023 est.)<br>
 234 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 46.02 deaths/1,000 live births (2023 est.)<br>
-_male_: 53.12 deaths/1,000 live births<br>
-_female_: 38.71 deaths/1,000 live births<br>
+_total_: 46 deaths/1,000 live births (2023 est.)<br>
+_male_: 53.1 deaths/1,000 live births<br>
+_female_: 38.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.61 years (2023 est.)<br>
-_male_: 63.04 years<br>
-_female_: 68.25 years<br>
+_total population_: 65.6 years (2023 est.)<br>
+_male_: 63 years<br>
+_female_: 68.3 years<br>
 
 **Total fertility rate**<br>
 2.13 children born/woman (2023 est.)<br>

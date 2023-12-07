@@ -109,21 +109,21 @@ _elderly dependency ratio_: 8<br>
 _potential support ratio_: 12.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 27.3 years (2020)<br>
-_male_: 26.4 years<br>
-_female_: 28.2 years<br>
+_total_: 28.5 years (2023 est.)<br>
+_male_: 27.6 years<br>
+_female_: 29.4 years<br>
 
 **Population growth rate**<br>
-0.91% (2023 est.)<br>
+0.97% (2023 est.)<br>
 
 **Birth rate**<br>
-16.3 births/1,000 population (2023 est.)<br>
+16.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.19 deaths/1,000 population (2023 est.)<br>
+5.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.04 migrant(s)/1,000 population (2023 est.)<br>
+-1.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the overwhelming majority of the population resides in the western half of the country, with much of the urban growth centered in the capital city of Managua; coastal areas also show large population clusters<br>
@@ -140,7 +140,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 0.94 male(s)/female<br>
 _65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_total population_: 0.96 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.2 years (2011/12 est.)<br>
@@ -150,20 +150,20 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 78 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.63 deaths/1,000 live births (2023 est.)<br>
-_male_: 21.7 deaths/1,000 live births<br>
-_female_: 15.4 deaths/1,000 live births<br>
+_total_: 14.7 deaths/1,000 live births (2023 est.)<br>
+_male_: 16.2 deaths/1,000 live births<br>
+_female_: 13 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.05 years (2023 est.)<br>
-_male_: 72.84 years<br>
-_female_: 77.36 years<br>
+_total population_: 74.5 years (2023 est.)<br>
+_male_: 73 years<br>
+_female_: 76.2 years<br>
 
 **Total fertility rate**<br>
-1.78 children born/woman (2023 est.)<br>
+1.85 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.87 (2023 est.)<br>
+0.9 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 80.4% (2011/12)<br>

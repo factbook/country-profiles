@@ -109,21 +109,21 @@ _elderly dependency ratio_: 4.8<br>
 _potential support ratio_: 20.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 17.9 years (2020)<br>
-_male_: 17 years<br>
-_female_: 18.7 years<br>
+_total_: 18.5 years (2023 est.)<br>
+_male_: 17.7 years<br>
+_female_: 19.3 years<br>
 
 **Population growth rate**<br>
 2.46% (2023 est.)<br>
 
 **Birth rate**<br>
-32.71 births/1,000 population (2023 est.)<br>
+32.7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 7.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.59 migrant(s)/1,000 population (2023 est.)<br>
+-0.6 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
  <p>Most of the population is located in the center and south. Nearly one-third of the population lives in cities. The capital and largest city is Ouagadougou (Ouaga), with a population of 1.8 million as shown in this population distribution map</p>  (2019)<br>
@@ -150,14 +150,14 @@ _total population_: 0.96 male(s)/female (2023 est.)<br>
 264 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 48.17 deaths/1,000 live births (2023 est.)<br>
-_male_: 52.39 deaths/1,000 live births<br>
-_female_: 43.83 deaths/1,000 live births<br>
+_total_: 48.2 deaths/1,000 live births (2023 est.)<br>
+_male_: 52.4 deaths/1,000 live births<br>
+_female_: 43.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.82 years (2023 est.)<br>
-_male_: 61.99 years<br>
-_female_: 65.72 years<br>
+_total population_: 63.8 years (2023 est.)<br>
+_male_: 62 years<br>
+_female_: 65.7 years<br>
 
 **Total fertility rate**<br>
 4.14 children born/woman (2023 est.)<br>
@@ -697,7 +697,6 @@ the FABF has a mix of mostly older or secondhand equipment from a mix of supplie
 
 **Military deployments**<br>
 650 (plus about 200 police) Mali (MINUSMA) (2023)<br>
-<strong>note:</strong> Burkina Faso is part of a four (formerly five)-nation anti-jihadist task force known as the G4 Sahel Group, set up in 2014 with Chad, Mali (withdrew in 2022), Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; as of 2020, defense forces from each of the participating states were allowed to pursue terrorist fighters up to 100 km into neighboring countries; the force is backed by France, the UN, and the US<br>
 
 **Military - note**<br>
 the FABF has a history of interference in the country’s politics, having conducted eight coups since its formation in 1960-61, including the most recent in September of 2022; several combat units were disbanded in 2011 following mutinies; while the FABF is responsible for external defense, it has an internal security role and can be called out to assist internal security forces in restoring public order, combating crime, securing the border, and counterterrorism; indeed, for more than a decade, its focus has largely been combatting terrorism, and it is actively engaged in combat operations to counter terrorist groups linked to al-Qa'ida and the Islamic State of Iraq and ash-Sham (ISIS), particularly in the northern and eastern regions; the FABF is struggling to contain the groups, however, and a large portion of the country—40% by some estimates—is not under government control<br><br>in the north, Jama'at Nusrat al-Islam wal-Muslimin (JNIM), a coalition of al-Qa'ida linked militant groups taht act as al-Qa'ida in the Land of the Islamic Magreb's (AQIM) arm in the Sahel, has exploited ethnic tensions and perceptions of state neglect, as well as grievances over corruption, patronage politics, social stratification, and land disputes; in 2022, JNIM conducted attacks in 10 of the country's 13 provinces; most of the attacks were assessed to be by the Macina Liberation Front (FLM) of the JNIM coalition; the ISIS-Greater Sahara (ISIS-GS) terrorist group operates in the eastern part of the country<br><br>the Army’s combat forces include a mix of about eight small (battalion-sized) infantry and combined arms regiments, plus battalions of artillery and special forces historically deployed in three military regions; in November 2022, the military government announced it was creating six rapid reaction battalions (bataillon de réaction rapide or BIR), expanding the number of military regions to six, and establishing six Gendarmerie “legions”; currently, the Gendarmerie has approximately eight mobile squadrons; in addition to its counterterrorism missions, the Gendarmerie’s Special Legion fights organized crime and provides security for high-level officials and government institutions; the Air Force’s primary mission is providing support to the Army; it has small numbers of combat aircraft, combat helicopters, and armed UAVs acquired from Turkey (2023)<br>

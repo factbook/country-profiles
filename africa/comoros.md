@@ -103,21 +103,21 @@ _elderly dependency ratio_: 7.5<br>
 _potential support ratio_: 13.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 20.9 years (2020)<br>
-_male_: 20.2 years<br>
-_female_: 21.5 years<br>
+_total_: 22.3 years (2023 est.)<br>
+_male_: 21.6 years<br>
+_female_: 22.9 years<br>
 
 **Population growth rate**<br>
 1.34% (2023 est.)<br>
 
 **Birth rate**<br>
-22.06 births/1,000 population (2023 est.)<br>
+22.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.49 deaths/1,000 population (2023 est.)<br>
+6.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.22 migrant(s)/1,000 population (2023 est.)<br>
+-2.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the capital city of Maroni, located on the western side of the island of Grande Comore, is the country's largest city; however, of the three islands that comprise Comoros, it is Anjouan that is the most densely populated as shown in this population distribution map<br>
@@ -144,14 +144,14 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 217 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 56.01 deaths/1,000 live births (2023 est.)<br>
-_male_: 66.02 deaths/1,000 live births<br>
+_total_: 56 deaths/1,000 live births (2023 est.)<br>
+_male_: 66 deaths/1,000 live births<br>
 _female_: 45.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
 _total population_: 67.5 years (2023 est.)<br>
 _male_: 65.2 years<br>
-_female_: 69.87 years<br>
+_female_: 69.9 years<br>
 
 **Total fertility rate**<br>
 2.69 children born/woman (2023 est.)<br>

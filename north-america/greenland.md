@@ -101,21 +101,21 @@ _elderly dependency ratio_: 13.6<br>
 _potential support ratio_: 7.4 (2021)<br>
 
 **Median age**<br>
-_total_: 34.3 years (2020)<br>
-_male_: 35.1 years<br>
-_female_: 33.4 years<br>
+_total_: 35 years (2023 est.)<br>
+_male_: 35.7 years<br>
+_female_: 34.4 years<br>
 
 **Population growth rate**<br>
 -0.04% (2023 est.)<br>
 
 **Birth rate**<br>
-13.66 births/1,000 population (2023 est.)<br>
+13.7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.07 deaths/1,000 population (2023 est.)<br>
+9.1 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.95 migrant(s)/1,000 population (2023 est.)<br>
+-5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; interior is uninhabited<br>
@@ -136,13 +136,13 @@ _total population_: 1.07 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 8.6 deaths/1,000 live births (2023 est.)<br>
-_male_: 10.08 deaths/1,000 live births<br>
-_female_: 7.04 deaths/1,000 live births<br>
+_male_: 10.1 deaths/1,000 live births<br>
+_female_: 7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.25 years (2023 est.)<br>
-_male_: 71.56 years<br>
-_female_: 77.07 years<br>
+_total population_: 74.3 years (2023 est.)<br>
+_male_: 71.6 years<br>
+_female_: 77.1 years<br>
 
 **Total fertility rate**<br>
 1.9 children born/woman (2023 est.)<br>

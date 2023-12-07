@@ -118,21 +118,21 @@ _elderly dependency ratio_: 5.9<br>
 _potential support ratio_: 17.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 16.7 years (2020)<br>
-_male_: 16.5 years<br>
-_female_: 16.8 years<br>
+_total_: 16.8 years (2023 est.)<br>
+_male_: 16.6 years<br>
+_female_: 16.9 years<br>
 
 **Population growth rate**<br>
 3.13% (2023 est.)<br>
 
 **Birth rate**<br>
-39.64 births/1,000 population (2023 est.)<br>
+39.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.74 deaths/1,000 population (2023 est.)<br>
+7.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.63 migrant(s)/1,000 population (2023 est.)<br>
+-0.6 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 urban clusters are spread throughout the country, particularly in the northeast along the border with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated as shown in this population distribution map<br>
@@ -159,14 +159,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 547 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 59.12 deaths/1,000 live births (2023 est.)<br>
-_male_: 64.65 deaths/1,000 live births<br>
-_female_: 53.42 deaths/1,000 live births<br>
+_total_: 59.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 64.7 deaths/1,000 live births<br>
+_female_: 53.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.23 years (2023 est.)<br>
-_male_: 60.39 years<br>
-_female_: 64.13 years<br>
+_total population_: 62.2 years (2023 est.)<br>
+_male_: 60.4 years<br>
+_female_: 64.1 years<br>
 
 **Total fertility rate**<br>
 5.56 children born/woman (2023 est.)<br>

@@ -104,9 +104,9 @@ _elderly dependency ratio_: 34.4<br>
 _potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 44.4 years (2020)<br>
-_male_: 40.5 years<br>
-_female_: 48 years<br>
+_total_: 45.2 years (2023 est.)<br>
+_male_: 41.3 years<br>
+_female_: 48.9 years<br>
 
 **Population growth rate**<br>
 -1.13% (2023 est.)<br>
@@ -115,10 +115,10 @@ _female_: 48 years<br>
 8.5 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-14.69 deaths/1,000 population (2023 est.)<br>
+14.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--5.06 migrant(s)/1,000 population (2023 est.)<br>
+-5.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 largest concentration of people is found in and around the port and capital city of Riga; small agglomerations are scattered throughout the country<br>
@@ -144,14 +144,14 @@ _total population_: 0.87 male(s)/female (2023 est.)<br>
 18 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.78 deaths/1,000 live births (2023 est.)<br>
+_total_: 4.8 deaths/1,000 live births (2023 est.)<br>
 _male_: 5.2 deaths/1,000 live births<br>
-_female_: 4.34 deaths/1,000 live births<br>
+_female_: 4.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.16 years (2023 est.)<br>
-_male_: 71.75 years<br>
-_female_: 80.79 years<br>
+_total population_: 76.2 years (2023 est.)<br>
+_male_: 71.8 years<br>
+_female_: 80.8 years<br>
 
 **Total fertility rate**<br>
 1.55 children born/woman (2023 est.)<br>

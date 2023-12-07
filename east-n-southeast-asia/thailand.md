@@ -116,21 +116,21 @@ _elderly dependency ratio_: 18.4<br>
 _potential support ratio_: 4.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 39 years (2020)<br>
-_male_: 37.8 years<br>
-_female_: 40.1 years<br>
+_total_: 41 years (2023 est.)<br>
+_male_: 39.8 years<br>
+_female_: 42.2 years<br>
 
 **Population growth rate**<br>
 0.2% (2023 est.)<br>
 
 **Birth rate**<br>
-10.04 births/1,000 population (2023 est.)<br>
+10 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.86 deaths/1,000 population (2023 est.)<br>
+7.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.22 migrant(s)/1,000 population (2023 est.)<br>
+-0.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 highest population density is found in and around Bangkok; significant population clusters found througout large parts of the country, particularly north and northeast of Bangkok and in the extreme southern region of the country<br>
@@ -156,14 +156,14 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 29 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.36 deaths/1,000 live births (2023 est.)<br>
-_male_: 6.99 deaths/1,000 live births<br>
-_female_: 5.71 deaths/1,000 live births<br>
+_total_: 6.4 deaths/1,000 live births (2023 est.)<br>
+_male_: 7 deaths/1,000 live births<br>
+_female_: 5.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.91 years (2023 est.)<br>
-_male_: 74.92 years<br>
-_female_: 81.05 years<br>
+_total population_: 77.9 years (2023 est.)<br>
+_male_: 74.9 years<br>
+_female_: 81.1 years<br>
 
 **Total fertility rate**<br>
 1.54 children born/woman (2023 est.)<br>

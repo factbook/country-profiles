@@ -116,21 +116,21 @@ _elderly dependency ratio_: 5.8<br>
 _potential support ratio_: 17.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21.2 years (2020)<br>
-_male_: 20.8 years<br>
-_female_: 21.6 years<br>
+_total_: 22.1 years (2023 est.)<br>
+_male_: 21.7 years<br>
+_female_: 22.4 years<br>
 
 **Population growth rate**<br>
 1.94% (2023 est.)<br>
 
 **Birth rate**<br>
-24.22 births/1,000 population (2023 est.)<br>
+24.2 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.88 deaths/1,000 population (2023 est.)<br>
+3.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.98 migrant(s)/1,000 population (2023 est.)<br>
+-1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population is concentrated in the north, center, and eastern parts of the country, with many of the larger urban agglomerations found along extensive parts of the Tigris and Euphrates Rivers; much of the western and southern areas are either lightly populated or uninhabited<br>
@@ -153,14 +153,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 76 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.17 deaths/1,000 live births (2023 est.)<br>
-_male_: 20.85 deaths/1,000 live births<br>
-_female_: 17.42 deaths/1,000 live births<br>
+_total_: 19.2 deaths/1,000 live births (2023 est.)<br>
+_male_: 20.9 deaths/1,000 live births<br>
+_female_: 17.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.45 years (2023 est.)<br>
-_male_: 71.58 years<br>
-_female_: 75.42 years<br>
+_total population_: 73.5 years (2023 est.)<br>
+_male_: 71.6 years<br>
+_female_: 75.4 years<br>
 
 **Total fertility rate**<br>
 3.17 children born/woman (2023 est.)<br>
@@ -733,10 +733,10 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Iraq-Iran</em>: Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf</p> <p><em>Iraq-Turkey</em>: Turkey has expressed concern over the autonomous status of Kurds in Iraq</p><br>
+<p><em>Iraq-Iran</em>: Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf<br><br><em>Iraq-Kuwait:</em> undemarcated maritime boundary; Kuwait has called on Iraq to resolve the domestic legal status of the 2012 Kuwait-Iraq Agreement to regulate maritime navigation in Khor Abdullah and ensure that the agreement remains in force </p> <p><em>Iraq-Turkey</em>: Turkey maintains a military presence in northern Iraq to combat the Kurdistan Worker's Party (PKK) terrorist group; it periodically conducts air strikes and has conducted large military operations involving thousands of troops in 2007, 2011, and 2018, and smaller-scale operations in 2021 and 2022 </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,864 (West Bank and Gaza Strip) (mid-year 2022); 270,479 (Syria), 8,712 (Iran), 8,102 (Turkey) (2023)<br>
+_refugees (country of origin)_: 7,864 (West Bank and Gaza Strip) (mid-year 2022); 272,165 (Syria), 8,575 (Iran), 8,091 (Turkey) (2023)<br>
 _IDPs_: 1.142 million (displacement in central and northern Iraq since January 2014) (2023)<br>
 _stateless persons_: 47,253 (2022); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 

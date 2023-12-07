@@ -120,21 +120,21 @@ _elderly dependency ratio_: 7.7<br>
 _potential support ratio_: 13 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.1 years (2020)<br>
-_male_: 23.8 years<br>
-_female_: 24.5 years<br>
+_total_: 24.1 years (2023 est.)<br>
+_male_: 24.1 years<br>
+_female_: 24.1 years<br>
 
 **Population growth rate**<br>
 1.59% (2023 est.)<br>
 
 **Birth rate**<br>
-20.48 births/1,000 population (2023 est.)<br>
+20.5 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.32 deaths/1,000 population (2023 est.)<br>
+4.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.29 migrant(s)/1,000 population (2023 est.)<br>
+-0.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 approximately 95% of the population lives within 20 km of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited as shown in this population distribution map<br>
@@ -161,14 +161,14 @@ _total population_: 1.06 male(s)/female (2023 est.)<br>
 17 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 17.27 deaths/1,000 live births (2023 est.)<br>
-_male_: 18.22 deaths/1,000 live births<br>
-_female_: 16.25 deaths/1,000 live births<br>
+_total_: 17.3 deaths/1,000 live births (2023 est.)<br>
+_male_: 18.2 deaths/1,000 live births<br>
+_female_: 16.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.72 years (2023 est.)<br>
-_male_: 73.53 years<br>
-_female_: 75.98 years<br>
+_total population_: 74.7 years (2023 est.)<br>
+_male_: 73.5 years<br>
+_female_: 76 years<br>
 
 **Total fertility rate**<br>
 2.76 children born/woman (2023 est.)<br>
@@ -384,7 +384,7 @@ _email address and website_: <br>consulate@egyptembassy.net<br><br>https://www.e
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Ambassador A.Elizabeth JONES (since 9 October 2023)<br>
+_chief of mission_: Ambassador Herro MUSTAFA GARG (since November 2023)<br>
 _embassy_: 5 Tawfik Diab St., Garden City, Cairo<br>
 _mailing address_: 7700 Cairo Place, Washington DC 20512-7700<br>
 _telephone_: [20-2] 2797-3300<br>
@@ -411,7 +411,7 @@ _selected World Heritage Site locales_: Memphis and its Necropolis (c); Ancient 
 ## Economy
 
 **Economic overview**<br>
-Africa&rsquo;s second largest economy; 2030 Vision to diversify markets and energy infrastructure; improving fiscal, external, and current accounts; underperforming private sector; poor labor force participation; expanded credit access<br>
+Africa&rsquo;s second-largest economy; 2030 Vision to diversify markets and energy infrastructure; improving fiscal, external, and current accounts; underperforming private sector; poor labor force participation; expanded credit access<br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.264 trillion (2021 est.)<br>

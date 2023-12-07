@@ -108,21 +108,21 @@ _potential support ratio_: 3.6 (2021 est.)<br>
 <strong>note:</strong> data include Svalbard and Jan Mayen Islands<br>
 
 **Median age**<br>
-_total_: 39.5 years (2020)<br>
-_male_: 38.8 years<br>
-_female_: 40.2 years<br>
+_total_: 40.6 years (2023 est.)<br>
+_male_: 39.9 years<br>
+_female_: 41.4 years<br>
 
 **Population growth rate**<br>
-0.79% (2023 est.)<br>
+0.6% (2023 est.)<br>
 
 **Birth rate**<br>
-11.89 births/1,000 population (2023 est.)<br>
+10.4 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.93 deaths/1,000 population (2023 est.)<br>
+8.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.89 migrant(s)/1,000 population (2023 est.)<br>
+3.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most Norwegians live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated<br>
@@ -150,20 +150,20 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 2 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.28 deaths/1,000 live births (2023 est.)<br>
-_male_: 2.61 deaths/1,000 live births<br>
-_female_: 1.93 deaths/1,000 live births<br>
+_total_: 1.8 deaths/1,000 live births (2023 est.)<br>
+_male_: 2.1 deaths/1,000 live births<br>
+_female_: 1.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.75 years (2023 est.)<br>
-_male_: 80.63 years<br>
-_female_: 84.98 years<br>
+_total population_: 83 years (2023 est.)<br>
+_male_: 81.4 years<br>
+_female_: 84.7 years<br>
 
 **Total fertility rate**<br>
-1.83 children born/woman (2023 est.)<br>
+1.57 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.89 (2023 est.)<br>
+0.76 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

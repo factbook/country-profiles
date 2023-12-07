@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In 1816, the United Provinces of the Río de la Plata declared their independence from Spain. After Bolivia, Paraguay, and Uruguay went their separate ways, the area that remained became Argentina. The country's population and culture were heavily shaped by immigrants from throughout Europe, with Italy and Spain providing the largest percentage of newcomers from 1860 to 1930. Up until about the mid-20th century, much of Argentina's history was dominated by periods of internal political unrest and conflict between civilian and military factions.</p> <p>After World War II, an era of populism under former President Juan Domingo PERÓN - the founder of the Peronist political movement - and direct and indirect military interference in subsequent governments was followed by a military junta that took power in 1976. Democracy returned in 1983 after a failed bid to seize the Falkland Islands (Islas Malvinas) by force, and has persisted despite numerous challenges, the most formidable of which was a severe economic crisis in 2001-02 that led to violent public protests and the successive resignations of several presidents. The years 2003-15 saw Peronist rule by Néstor KIRCHNER (2003-07) and his spouse Cristina FERNÁNDEZ DE KIRCHNER (2007-15), who oversaw several years of strong economic growth (2003-11) followed by a gradual deterioration in the government’s fiscal situation and eventual economic stagnation and isolation. Argentina underwent a brief period of economic reform and international reintegration under Mauricio MACRI (2015-19), but a recession in 2018-19 and frustration with MACRI’s economic policies ushered in a new Peronist government in 2019 led by President Alberto FERNÁNDEZ and Vice President FERNÁNDEZ DE KIRCHNER. Presidential elections will take place next in October 2023.</p><br>
+<p>In 1816, the United Provinces of the Río de la Plata declared their independence from Spain. After Bolivia, Paraguay, and Uruguay went their separate ways, the area that remained became Argentina. The country's population and culture were heavily shaped by immigrants from throughout Europe, with Italy and Spain providing the largest percentage of newcomers from 1860 to 1930. Up until about the mid-20th century, much of Argentina's history was dominated by periods of internal political unrest and conflict between civilian and military factions.</p> <p>After World War II, an era of populism under former President Juan Domingo PERÓN - the founder of the Peronist political movement - and direct and indirect military interference in subsequent governments was followed by a military junta that took power in 1976. Democracy returned in 1983 after a failed bid to seize the Falkland Islands (Islas Malvinas) by force, and has persisted despite numerous challenges, the most formidable of which was a severe economic crisis in 2001-02 that led to violent public protests and the successive resignations of several presidents. The years 2003-15 saw Peronist rule by Néstor KIRCHNER (2003-07) and his spouse Cristina FERNÁNDEZ DE KIRCHNER (2007-15), who oversaw several years of strong economic growth (2003-11) followed by a gradual deterioration in the government’s fiscal situation and eventual economic stagnation and isolation. Argentina underwent a brief period of economic reform and international reintegration under Mauricio MACRI (2015-19), but a recession in 2018-19 and frustration with MACRI’s economic policies ushered in a new Peronist government in 2019 led by President Alberto FERNÁNDEZ and Vice President FERNÁNDEZ DE KIRCHNER. </p><br>
 
 ## Geography
 
@@ -120,21 +120,21 @@ _elderly dependency ratio_: 18.2<br>
 _potential support ratio_: 5.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 32.4 years (2020)<br>
-_male_: 31.1 years<br>
-_female_: 33.6 years<br>
+_total_: 33 years (2023 est.)<br>
+_male_: 31.8 years<br>
+_female_: 34.3 years<br>
 
 **Population growth rate**<br>
 0.8% (2023 est.)<br>
 
 **Birth rate**<br>
-15.38 births/1,000 population (2023 est.)<br>
+15.4 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.28 deaths/1,000 population (2023 est.)<br>
+7.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.08 migrant(s)/1,000 population (2023 est.)<br>
+-0.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated<br>
@@ -157,14 +157,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 45 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.14 deaths/1,000 live births (2023 est.)<br>
-_male_: 10.13 deaths/1,000 live births<br>
-_female_: 8.09 deaths/1,000 live births<br>
+_total_: 9.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 10.1 deaths/1,000 live births<br>
+_female_: 8.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.55 years (2023 est.)<br>
-_male_: 75.49 years<br>
-_female_: 81.81 years<br>
+_total population_: 78.6 years (2023 est.)<br>
+_male_: 75.5 years<br>
+_female_: 81.8 years<br>
 
 **Total fertility rate**<br>
 2.17 children born/woman (2023 est.)<br>

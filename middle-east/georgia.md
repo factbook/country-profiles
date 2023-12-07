@@ -106,21 +106,21 @@ _elderly dependency ratio_: 22.6<br>
 _potential support ratio_: 4.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 38.6 years (2020)<br>
-_male_: 35.9 years<br>
-_female_: 41.4 years<br>
+_total_: 38 years (2023 est.)<br>
+_male_: 35.6 years<br>
+_female_: 40.4 years<br>
 
 **Population growth rate**<br>
-0.01% (2023 est.)<br>
+-0.57% (2023 est.)<br>
 
 **Birth rate**<br>
-10.79 births/1,000 population (2023 est.)<br>
+12.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.76 deaths/1,000 population (2023 est.)<br>
+13.6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.06 migrant(s)/1,000 population (2023 est.)<br>
+-4.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 settlement concentrated in the central valley, particularly in the capital city of Tbilisi in the east; smaller urban agglomerations dot the Black Sea coast, with Bat'umi being the largest<br>
@@ -134,7 +134,7 @@ _rate of urbanization_: 0.35% annual rate of change (2020-25 est.)<br>
 1.082 million TBILISI (capital) (2023)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.05 male(s)/female<br>
+_at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 0.97 male(s)/female<br>
 _65 years and over_: 0.65 male(s)/female<br>
@@ -148,20 +148,20 @@ _total population_: 0.92 male(s)/female (2023 est.)<br>
 28 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.45 deaths/1,000 live births (2023 est.)<br>
-_male_: 16.55 deaths/1,000 live births<br>
-_female_: 12.23 deaths/1,000 live births<br>
+_total_: 22.6 deaths/1,000 live births (2023 est.)<br>
+_male_: 24.3 deaths/1,000 live births<br>
+_female_: 20.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.74 years (2023 est.)<br>
-_male_: 73.72 years<br>
-_female_: 81.96 years<br>
+_total population_: 72.3 years (2023 est.)<br>
+_male_: 68.3 years<br>
+_female_: 76.6 years<br>
 
 **Total fertility rate**<br>
-1.75 children born/woman (2023 est.)<br>
+1.96 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.85 (2023 est.)<br>
+0.95 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 40.6% (2018)<br>

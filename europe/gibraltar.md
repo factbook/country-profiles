@@ -93,21 +93,21 @@ _elderly dependency ratio_: 32.7<br>
 _potential support ratio_: 3.1 (2021)<br>
 
 **Median age**<br>
-_total_: 35.5 years (2020)<br>
-_male_: 34.4 years<br>
-_female_: 36.6 years<br>
+_total_: 36.6 years (2023 est.)<br>
+_male_: 36 years<br>
+_female_: 37.2 years<br>
 
 **Population growth rate**<br>
 0.19% (2023 est.)<br>
 
 **Birth rate**<br>
-13.84 births/1,000 population (2023 est.)<br>
+13.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.74 deaths/1,000 population (2023 est.)<br>
+8.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--3.24 migrant(s)/1,000 population (2023 est.)<br>
+-3.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2023)<br>
@@ -124,14 +124,14 @@ _65 years and over_: 0.96 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.13 deaths/1,000 live births (2023 est.)<br>
-_male_: 6.92 deaths/1,000 live births<br>
+_total_: 6.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 6.9 deaths/1,000 live births<br>
 _female_: 5.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.65 years (2023 est.)<br>
-_male_: 77.82 years<br>
-_female_: 83.62 years<br>
+_total population_: 80.7 years (2023 est.)<br>
+_male_: 77.8 years<br>
+_female_: 83.6 years<br>
 
 **Total fertility rate**<br>
 1.9 children born/woman (2023 est.)<br>

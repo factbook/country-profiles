@@ -102,21 +102,21 @@ _elderly dependency ratio_: 34.9<br>
 _potential support ratio_: 2.9 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 43.6 years (2020)<br>
-_male_: 41.6 years<br>
-_female_: 45.3 years<br>
+_total_: 45.6 years (2023 est.)<br>
+_male_: 43.6 years<br>
+_female_: 47.2 years<br>
 
 **Population growth rate**<br>
 -1.29% (2023 est.)<br>
 
 **Birth rate**<br>
-7.84 births/1,000 population (2023 est.)<br>
+7.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 10 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--10.76 migrant(s)/1,000 population (2023 est.)<br>
+-10.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population clusters tend to be found along the coast, the largest of these is found in and around San Juan; an exception to this is a sizeable population located in the interior of the island immediately south of the capital around Caguas; most of the interior, particularly in the western half of the island, is dominated by the Cordillera Central mountains, where population density is low<br>
@@ -139,14 +139,14 @@ _total population_: 0.89 male(s)/female (2023 est.)<br>
 34 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.92 deaths/1,000 live births (2023 est.)<br>
+_total_: 5.9 deaths/1,000 live births (2023 est.)<br>
 _male_: 6.5 deaths/1,000 live births<br>
-_female_: 5.31 deaths/1,000 live births<br>
+_female_: 5.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.89 years (2023 est.)<br>
-_male_: 78.69 years<br>
-_female_: 85.27 years<br>
+_total population_: 81.9 years (2023 est.)<br>
+_male_: 78.7 years<br>
+_female_: 85.3 years<br>
 
 **Total fertility rate**<br>
 1.25 children born/woman (2023 est.)<br>

@@ -111,21 +111,21 @@ _elderly dependency ratio_: 6.5<br>
 _potential support ratio_: 15.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21 years (2020)<br>
-_male_: 21.4 years<br>
-_female_: 20.6 years<br>
+_total_: 21.8 years (2023 est.)<br>
+_male_: 22.2 years<br>
+_female_: 21.3 years<br>
 
 **Population growth rate**<br>
 2.39% (2023 est.)<br>
 
 **Birth rate**<br>
-25.89 births/1,000 population (2023 est.)<br>
+25.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.59 deaths/1,000 population (2023 est.)<br>
+5.6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.59 migrant(s)/1,000 population (2023 est.)<br>
+3.6 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the relatively small population is spread in pockets throughout the country; the largest urban center is the capital of Libreville, located along the Atlantic coast in the northwest as shown in this population distribution map<br>
@@ -153,13 +153,13 @@ _total population_: 1.07 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 27.7 deaths/1,000 live births (2023 est.)<br>
-_male_: 30.61 deaths/1,000 live births<br>
-_female_: 24.71 deaths/1,000 live births<br>
+_male_: 30.6 deaths/1,000 live births<br>
+_female_: 24.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.03 years (2023 est.)<br>
+_total population_: 70 years (2023 est.)<br>
 _male_: 68.3 years<br>
-_female_: 71.81 years<br>
+_female_: 71.8 years<br>
 
 **Total fertility rate**<br>
 3.26 children born/woman (2023 est.)<br>

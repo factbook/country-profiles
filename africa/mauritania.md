@@ -116,21 +116,21 @@ _elderly dependency ratio_: 6<br>
 _potential support ratio_: 16.8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21 years (2020)<br>
-_male_: 20.1 years<br>
-_female_: 22 years<br>
+_total_: 21.9 years (2023 est.)<br>
+_male_: 20.9 years<br>
+_female_: 22.8 years<br>
 
 **Population growth rate**<br>
 1.96% (2023 est.)<br>
 
 **Birth rate**<br>
-27.61 births/1,000 population (2023 est.)<br>
+27.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.33 deaths/1,000 population (2023 est.)<br>
+7.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.71 migrant(s)/1,000 population (2023 est.)<br>
+-0.7 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 with most of the country being a desert, vast areas of the country, particularly in the central, northern, and eastern areas, are without sizeable population clusters; half the population lives in or around the coastal capital of Nouakchott; smaller clusters are found near the southern border with Mali and Senegal as shown in this population distribution map<br>
@@ -157,14 +157,14 @@ _total population_: 0.93 male(s)/female (2023 est.)<br>
 465 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 49.95 deaths/1,000 live births (2023 est.)<br>
-_male_: 55.84 deaths/1,000 live births<br>
-_female_: 43.89 deaths/1,000 live births<br>
+_total_: 50 deaths/1,000 live births (2023 est.)<br>
+_male_: 55.8 deaths/1,000 live births<br>
+_female_: 43.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.57 years (2023 est.)<br>
+_total population_: 65.6 years (2023 est.)<br>
 _male_: 63.1 years<br>
-_female_: 68.12 years<br>
+_female_: 68.1 years<br>
 
 **Total fertility rate**<br>
 3.46 children born/woman (2023 est.)<br>

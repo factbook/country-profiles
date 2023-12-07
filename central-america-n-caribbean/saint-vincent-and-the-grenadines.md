@@ -101,21 +101,21 @@ _elderly dependency ratio_: 16.1<br>
 _potential support ratio_: 6.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 35.3 years (2020)<br>
-_male_: 35.4 years<br>
-_female_: 35.1 years<br>
+_total_: 37 years (2023 est.)<br>
+_male_: 37.2 years<br>
+_female_: 36.9 years<br>
 
 **Population growth rate**<br>
 -0.16% (2023 est.)<br>
 
 **Birth rate**<br>
-12.09 births/1,000 population (2023 est.)<br>
+12.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.58 deaths/1,000 population (2023 est.)<br>
+7.6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--6.11 migrant(s)/1,000 population (2023 est.)<br>
+-6.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in and around the capital of Kingstown<br>
@@ -138,14 +138,14 @@ _total population_: 1.04 male(s)/female (2023 est.)<br>
 62 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.59 deaths/1,000 live births (2023 est.)<br>
-_male_: 14.23 deaths/1,000 live births<br>
-_female_: 10.89 deaths/1,000 live births<br>
+_total_: 12.6 deaths/1,000 live births (2023 est.)<br>
+_male_: 14.2 deaths/1,000 live births<br>
+_female_: 10.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.93 years (2023 est.)<br>
+_total population_: 76.9 years (2023 est.)<br>
 _male_: 74.9 years<br>
-_female_: 79.03 years<br>
+_female_: 79 years<br>
 
 **Total fertility rate**<br>
 1.74 children born/woman (2023 est.)<br>

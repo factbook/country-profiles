@@ -102,18 +102,18 @@ _elderly dependency ratio_: 20.1<br>
 _potential support ratio_: 5 (2021)<br>
 
 **Median age**<br>
-_total_: 46.2 years (2020)<br>
-_male_: 46.3 years<br>
-_female_: 46.1 years<br>
+_total_: 48.1 years (2023 est.)<br>
+_male_: 48.1 years<br>
+_female_: 48.1 years<br>
 
 **Population growth rate**<br>
 -0.11% (2023 est.)<br>
 
 **Birth rate**<br>
-6.87 births/1,000 population (2023 est.)<br>
+6.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.98 deaths/1,000 population (2023 est.)<br>
+8 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
 0 migrant(s)/1,000 population (2023 est.)<br>
@@ -139,14 +139,14 @@ _total population_: 1.05 male(s)/female (2023 est.)<br>
 32.8 years (2019)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.39 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.49 deaths/1,000 live births<br>
-_female_: 3.27 deaths/1,000 live births<br>
+_total_: 3.4 deaths/1,000 live births (2023 est.)<br>
+_male_: 3.5 deaths/1,000 live births<br>
+_female_: 3.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.61 years (2023 est.)<br>
+_total population_: 83.6 years (2023 est.)<br>
 _male_: 81.4 years<br>
-_female_: 85.97 years<br>
+_female_: 86 years<br>
 
 **Total fertility rate**<br>
 1.46 children born/woman (2023 est.)<br>
@@ -296,7 +296,7 @@ _residency requirement for naturalization_: 25 years<br>
 
 **Executive branch**<br>
 _chief of state_: Co-prince Emmanuel MACRON (since 14 May 2017); represented by Patrick STROZDA (since 14 May 2017); and Co-prince Archbishop Joan-Enric VIVES i Sicilia (since 12 May 2003); represented by Josep Maria MAURI (since 20 July 2012)<br>
-_head of government_: Xavier Espot ZAMORA (since 16 May 2019)<br>
+_head of government_: Prime Minister Xavier Espot ZAMORA (since 16 May 2019)<br>
 _cabinet_: Executive Council of 12 ministers designated by the head of government<br>
 _elections/appointments_: head of government indirectly elected by the General Council (Andorran parliament), formally appointed by the co-princes for a 4-year term; election last held on 2 April 2023 (next to be held in April 2027); the leader of the majority party in the General Council is usually elected head of government<br>
 _election results_: <em><br>2023: </em>Xaviar Espot ZAMORA (DA) re-elected head of government; percent of General Council vote - 57.1%<br><em><br>2019:</em>  Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7<br>

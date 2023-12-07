@@ -100,21 +100,21 @@ _elderly dependency ratio_: 14<br>
 _potential support ratio_: 7.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 33.3 years (2020)<br>
-_male_: 33 years<br>
-_female_: 33.5 years<br>
+_total_: 34.8 years (2023 est.)<br>
+_male_: 34.6 years<br>
+_female_: 35.1 years<br>
 
 **Population growth rate**<br>
 0.7% (2023 est.)<br>
 
 **Birth rate**<br>
-13.22 births/1,000 population (2023 est.)<br>
+13.2 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.67 deaths/1,000 population (2023 est.)<br>
+5.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.61 migrant(s)/1,000 population (2023 est.)<br>
+-0.6 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the majority of the population lives in the Society Islands, one of five archipelagos that includes the most populous island - Tahiti - with approximately 70% of the nation's population<br>
@@ -134,14 +134,14 @@ _65 years and over_: 0.95 male(s)/female<br>
 _total population_: 1.05 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.34 deaths/1,000 live births (2023 est.)<br>
-_male_: 5.23 deaths/1,000 live births<br>
-_female_: 3.42 deaths/1,000 live births<br>
+_total_: 4.3 deaths/1,000 live births (2023 est.)<br>
+_male_: 5.2 deaths/1,000 live births<br>
+_female_: 3.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.66 years (2023 est.)<br>
-_male_: 76.36 years<br>
-_female_: 81.08 years<br>
+_total population_: 78.7 years (2023 est.)<br>
+_male_: 76.4 years<br>
+_female_: 81.1 years<br>
 
 **Total fertility rate**<br>
 1.8 children born/woman (2023 est.)<br>

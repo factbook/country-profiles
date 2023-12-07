@@ -109,21 +109,21 @@ _elderly dependency ratio_: 11.6<br>
 _potential support ratio_: 8.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 27.9 years (2020)<br>
-_male_: 27.8 years<br>
-_female_: 28.1 years<br>
+_total_: 28.9 years (2023 est.)<br>
+_male_: 28.7 years<br>
+_female_: 29 years<br>
 
 **Population growth rate**<br>
-0.88% (2023 est.)<br>
+0.73% (2023 est.)<br>
 
 **Birth rate**<br>
-17.8 births/1,000 population (2023 est.)<br>
+17.3 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.31 deaths/1,000 population (2023 est.)<br>
+7.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.66 migrant(s)/1,000 population (2023 est.)<br>
+-2.7 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 coastal development is significant, especially in the southern coastal plains and the Cibao Valley, where population density is highest; smaller population clusters exist in the interior mountains (Cordillera Central)<br>
@@ -150,20 +150,20 @@ _total population_: 1.02 male(s)/female (2023 est.)<br>
 107 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 20.68 deaths/1,000 live births (2023 est.)<br>
-_male_: 22.95 deaths/1,000 live births<br>
-_female_: 18.33 deaths/1,000 live births<br>
+_total_: 22.7 deaths/1,000 live births (2023 est.)<br>
+_male_: 25.4 deaths/1,000 live births<br>
+_female_: 19.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.84 years (2023 est.)<br>
-_male_: 71.15 years<br>
-_female_: 74.6 years<br>
+_total population_: 71.9 years (2023 est.)<br>
+_male_: 70.3 years<br>
+_female_: 73.5 years<br>
 
 **Total fertility rate**<br>
-2.2 children born/woman (2023 est.)<br>
+2.13 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-1.08 (2023 est.)<br>
+1.05 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 62.8% (2019)<br>

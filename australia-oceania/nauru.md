@@ -101,21 +101,21 @@ _elderly dependency ratio_: 3.9<br>
 _potential support ratio_: 25.8 (2021)<br>
 
 **Median age**<br>
-_total_: 27 years (2020)<br>
-_male_: 28.2 years<br>
-_female_: 25.9 years<br>
+_total_: 27.5 years (2023 est.)<br>
+_male_: 26.9 years<br>
+_female_: 28.2 years<br>
 
 **Population growth rate**<br>
 0.42% (2023 est.)<br>
 
 **Birth rate**<br>
-20.71 births/1,000 population (2023 est.)<br>
+20.7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.39 deaths/1,000 population (2023 est.)<br>
+6.4 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--10.15 migrant(s)/1,000 population (2023 est.)<br>
+-10.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 extensive phosphate mining made approximately 90% of the island unsuitable for farming; most people live in the fertile coastal areas, especially along the southwest coast<br>
@@ -129,17 +129,17 @@ _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 0.97 male(s)/female<br>
 _65 years and over_: 0.51 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2023 est.)<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.72 deaths/1,000 live births (2023 est.)<br>
-_male_: 9.94 deaths/1,000 live births<br>
-_female_: 5.41 deaths/1,000 live births<br>
+_total_: 7.7 deaths/1,000 live births (2023 est.)<br>
+_male_: 9.9 deaths/1,000 live births<br>
+_female_: 5.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.25 years (2023 est.)<br>
-_male_: 64.69 years<br>
-_female_: 71.95 years<br>
+_total population_: 68.3 years (2023 est.)<br>
+_male_: 64.7 years<br>
+_female_: 72 years<br>
 
 **Total fertility rate**<br>
 2.58 children born/woman (2023 est.)<br>

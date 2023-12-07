@@ -99,21 +99,21 @@ _elderly dependency ratio_: 14.9<br>
 _potential support ratio_: 6.7 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 33.3 years (2020)<br>
-_male_: 33.1 years<br>
-_female_: 33.4 years<br>
+_total_: 35 years (2023 est.)<br>
+_male_: 34.7 years<br>
+_female_: 35.1 years<br>
 
 **Population growth rate**<br>
 0.29% (2023 est.)<br>
 
 **Birth rate**<br>
-13.61 births/1,000 population (2023 est.)<br>
+13.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.34 deaths/1,000 population (2023 est.)<br>
+8.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.34 migrant(s)/1,000 population (2023 est.)<br>
+-2.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 approximately one-third of the population is found in the capital of St. George's; the island's population is concentrated along the coast<br>
@@ -137,13 +137,13 @@ _total population_: 1.03 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 9.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 8.77 deaths/1,000 live births<br>
-_female_: 9.68 deaths/1,000 live births<br>
+_male_: 8.8 deaths/1,000 live births<br>
+_female_: 9.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
 _total population_: 76 years (2023 est.)<br>
-_male_: 73.41 years<br>
-_female_: 78.84 years<br>
+_male_: 73.4 years<br>
+_female_: 78.8 years<br>
 
 **Total fertility rate**<br>
 1.92 children born/woman (2023 est.)<br>

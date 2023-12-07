@@ -106,21 +106,21 @@ _elderly dependency ratio_: 22.9<br>
 _potential support ratio_: 4.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.1 years (2020)<br>
-_male_: 40.2 years<br>
-_female_: 43.8 years<br>
+_total_: 42.3 years (2023 est.)<br>
+_male_: 40.8 years<br>
+_female_: 44.3 years<br>
 
 **Population growth rate**<br>
 -0.19% (2023 est.)<br>
 
 **Birth rate**<br>
-9.99 births/1,000 population (2023 est.)<br>
+10 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.37 deaths/1,000 population (2023 est.)<br>
+9.4 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--2.53 migrant(s)/1,000 population (2023 est.)<br>
+-2.5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 large population clusters found throughout the country, the more significant ones being in the larger towns and cities, particularly the capital of Havana<br>
@@ -137,20 +137,20 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
 _15-64 years_: 1 male(s)/female<br>
 _65 years and over_: 0.71 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2023 est.)<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 39 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.07 deaths/1,000 live births (2023 est.)<br>
-_male_: 4.58 deaths/1,000 live births<br>
-_female_: 3.52 deaths/1,000 live births<br>
+_total_: 4.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 4.6 deaths/1,000 live births<br>
+_female_: 3.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.87 years (2023 est.)<br>
-_male_: 77.53 years<br>
-_female_: 82.35 years<br>
+_total population_: 79.9 years (2023 est.)<br>
+_male_: 77.5 years<br>
+_female_: 82.4 years<br>
 
 **Total fertility rate**<br>
 1.71 children born/woman (2023 est.)<br>

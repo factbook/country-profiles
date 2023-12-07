@@ -110,21 +110,21 @@ _elderly dependency ratio_: 6.4<br>
 _potential support ratio_: 15.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.4 years (2020)<br>
-_male_: 23.5 years<br>
-_female_: 25.2 years<br>
+_total_: 25.3 years (2023 est.)<br>
+_male_: 24.4 years<br>
+_female_: 26.2 years<br>
 
 **Population growth rate**<br>
-1.16% (2023 est.)<br>
+1.28% (2023 est.)<br>
 
 **Birth rate**<br>
-17.64 births/1,000 population (2023 est.)<br>
+20.2 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.69 deaths/1,000 population (2023 est.)<br>
+5.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--1.32 migrant(s)/1,000 population (2023 est.)<br>
+-1.5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most residents live in the mountainous western half of the country; unlike other Central American nations, Honduras is the only one with an urban population that is distributed between two large centers - the capital of Tegucigalpa and the city of San Pedro Sula; the Rio Ulua valley in the north is the only densely populated lowland area<br>
@@ -141,7 +141,7 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-64 years_: 0.93 male(s)/female<br>
 _65 years and over_: 0.79 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2023 est.)<br>
+_total population_: 0.93 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.3 years (2011/12 est.)<br>
@@ -151,20 +151,20 @@ _total population_: 0.95 male(s)/female (2023 est.)<br>
 72 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.77 deaths/1,000 live births (2023 est.)<br>
-_male_: 16.88 deaths/1,000 live births<br>
-_female_: 12.59 deaths/1,000 live births<br>
+_total_: 15.4 deaths/1,000 live births (2023 est.)<br>
+_male_: 17.6 deaths/1,000 live births<br>
+_female_: 13.3 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.43 years (2023 est.)<br>
-_male_: 71.91 years<br>
-_female_: 79.06 years<br>
+_total population_: 71.9 years (2023 est.)<br>
+_male_: 68.4 years<br>
+_female_: 75.5 years<br>
 
 **Total fertility rate**<br>
-1.98 children born/woman (2023 est.)<br>
+2.37 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.97 (2023 est.)<br>
+1.17 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 69.4% (2019)<br>

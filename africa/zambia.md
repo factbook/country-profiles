@@ -116,21 +116,21 @@ _elderly dependency ratio_: 3.2<br>
 _potential support ratio_: 31.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 16.9 years (2020)<br>
-_male_: 16.7 years<br>
-_female_: 17 years<br>
+_total_: 18.2 years (2023 est.)<br>
+_male_: 18 years<br>
+_female_: 18.4 years<br>
 
 **Population growth rate**<br>
 2.86% (2023 est.)<br>
 
 **Birth rate**<br>
-34.48 births/1,000 population (2023 est.)<br>
+34.5 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.02 deaths/1,000 population (2023 est.)<br>
+6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.16 migrant(s)/1,000 population (2023 est.)<br>
+0.2 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 one of the highest levels of urbanization in Africa; high density in the central area, particularly around the cities of Lusaka, Ndola, Kitwe, and Mufulira as shown in this population distribution map<br>
@@ -157,14 +157,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 135 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 36.33 deaths/1,000 live births (2023 est.)<br>
-_male_: 39.72 deaths/1,000 live births<br>
-_female_: 32.83 deaths/1,000 live births<br>
+_total_: 36.3 deaths/1,000 live births (2023 est.)<br>
+_male_: 39.7 deaths/1,000 live births<br>
+_female_: 32.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
 _total population_: 66.6 years (2023 est.)<br>
-_male_: 64.88 years<br>
-_female_: 68.36 years<br>
+_male_: 64.9 years<br>
+_female_: 68.4 years<br>
 
 **Total fertility rate**<br>
 4.49 children born/woman (2023 est.)<br>
@@ -728,7 +728,7 @@ the Zambia Defense Forces are responsible for preserving the country’s soverei
 <p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto</p> <p><em>Zambia-Tanzania</em>: some drug smuggling may take place across the Zambia-Tanzania border; there are no known current territorial issues, as both states have continued to recognize the colonial boundaries last modified in 1937; the boundary in Lake Tanganyika remains undefined.<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 59,217 (Democratic Republic of the Congo) (refugees and asylum seekers), 8,436 (Burundi) (2023)<br>
+_refugees (country of origin)_: 59,943 (Democratic Republic of the Congo) (refugees and asylum seekers), 8,436 (Burundi) (2023)<br>
 
 **Illicit drugs**<br>
 transshipment point for moderate amounts of methaqualone, small amounts of heroin, and cocaine bound for southern Africa and possibly Europe; a poorly developed financial infrastructure coupled with a government commitment to combating money laundering make it an unattractive venue for money launderers; major consumer of cannabis<br>

@@ -110,21 +110,21 @@ _elderly dependency ratio_: 30.9<br>
 _potential support ratio_: 3.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 42.8 years (2020)<br>
-_male_: 41.6 years<br>
-_female_: 44 years<br>
+_total_: 42.2 years (2023 est.)<br>
+_male_: 41 years<br>
+_female_: 43.4 years<br>
 
 **Population growth rate**<br>
-0.36% (2023 est.)<br>
+0.48% (2023 est.)<br>
 
 **Birth rate**<br>
-10.98 births/1,000 population (2023 est.)<br>
+10.5 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.27 deaths/1,000 population (2023 est.)<br>
+9.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-1.89 migrant(s)/1,000 population (2023 est.)<br>
+4.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, though sizeable communities can be found throughout the entire country<br>
@@ -141,7 +141,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1.01 male(s)/female<br>
 _65 years and over_: 0.84 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2023 est.)<br>
+_total population_: 0.99 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30.2 years (2020 est.)<br>
@@ -150,20 +150,20 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 4 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.34 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.7 deaths/1,000 live births<br>
-_female_: 2.97 deaths/1,000 live births<br>
+_total_: 3.7 deaths/1,000 live births (2023 est.)<br>
+_male_: 4 deaths/1,000 live births<br>
+_female_: 3.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.36 years (2023 est.)<br>
-_male_: 80.15 years<br>
-_female_: 84.69 years<br>
+_total population_: 81.7 years (2023 est.)<br>
+_male_: 80.1 years<br>
+_female_: 83.3 years<br>
 
 **Total fertility rate**<br>
-1.77 children born/woman (2023 est.)<br>
+1.61 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.86 (2023 est.)<br>
+0.78 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 73% (2013)<br>
@@ -339,7 +339,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER (since 30 April 2013); Heir Apparent Princess CATHARINA-AMALIA (daughter of King WILLEM-ALEXANDER, born 7 December 2003)<br>
-_head of government_: Prime Minister Mark RUTTE (since 14 October 2010); Deputy Prime Ministers Sigrid KAAG and Wopke HOEKSTRA (since 10 January 2022), Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE's ruling coalition collapsed on 8 July 2023; he is serving as prime minister in a caretaker status until new elections on 22 November 2023<br>
+_head of government_: Prime Minister Mark RUTTE (since 14 October 2010); Deputy Prime Ministers Sigrid KAAG and Wopke HOEKSTRA (since 10 January 2022), Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE's ruling coalition collapsed on 8 July 2023; he is serving as prime minister in a caretaker status until a new prime minister is named following the 22 November 2023<br>
 _cabinet_: Council of Ministers appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or majority coalition is usually appointed prime minister by the monarch; deputy prime ministers are appointed by the monarch<br>
 

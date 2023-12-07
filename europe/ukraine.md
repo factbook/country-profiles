@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Ukraine was the center of the first eastern Slavic state, Kyivan Rus, which during the 10th and 11th centuries was the largest and most powerful state in Europe. Weakened by internecine quarrels and Mongol invasions, Kyivan Rus was incorporated into the Grand Duchy of Lithuania and eventually into the Polish-Lithuanian Commonwealth. The cultural and religious legacy of Kyivan Rus laid the foundation for Ukrainian nationalism through subsequent centuries. A new Ukrainian state, the Cossack Hetmanate, was established during the mid-17th century after an uprising against the Poles. Despite continuous Muscovite pressure, the Hetmanate managed to remain autonomous for well over 100 years. During the latter part of the 18th century, most Ukrainian ethnographic territory was absorbed by the Russian Empire. Following the collapse of czarist Russia in 1917, Ukraine achieved a short-lived period of independence (1917-20) but was reconquered and endured a brutal Soviet rule that engineered two forced famines (1921-22 and 1932-33) in which over 8 million died. In World War II, German and Soviet armies were responsible for 7 to 8 million more deaths. Although Ukraine overwhelmingly voted for independence in 1991 around the time of the dissolution of the USSR, democracy and prosperity remained elusive as the legacy of state control, patronage politics, and endemic corruption stalled efforts at economic reform, privatization, and civil liberties.</p> <p>A peaceful mass protest referred to as the "Orange Revolution" in the closing months of 2004 and early 2005 forced the authorities to overturn a rigged presidential election and to allow a new internationally monitored vote that swept into power a reformist slate under Viktor YUSHCHENKO. Subsequent internal squabbles in the YUSHCHENKO camp allowed his rival Viktor YANUKOVYCH to stage a comeback in legislative (Rada) elections, become prime minister in August 2006, and be elected president in February 2010. In October 2012, Ukraine held Rada elections, widely criticized by Western observers as flawed due to use of government resources to favor ruling party candidates, interference with media access, and harassment of opposition candidates. President YANUKOVYCH's backtracking on a trade and cooperation agreement with the EU in November 2013 - in favor of closer economic ties with Russia - and subsequent use of force against students, civil society activists, and other civilians in favor of the agreement and fed up with blatant corruption led to a three-month protest occupation of Kyiv's central square. The government's use of violence to break up the protest camp in February 2014 led to all out pitched battles, scores of deaths, international condemnation, a failed political deal, and the president's abrupt departure for Russia. New elections in the spring allowed pro-West president Petro POROSHENKO to assume office in June 2014; he was succeeded by Volodymyr ZELENSKY in May 2019.</p> <p>Shortly after YANUKOVYCH's departure in late February 2014, Russian President PUTIN ordered the invasion of Ukraine's Crimean Peninsula falsely claiming the action was to protect ethnic Russians living there. Two weeks later, a "referendum" was held regarding the integration of Crimea into the Russian Federation. The "referendum" was condemned as illegitimate by the Ukrainian Government, the EU, the US, and the UN General Assembly (UNGA). In response to Russia's illegal annexation of Crimea, 100 members of the UN passed UNGA resolution 68/262, rejecting the "referendum" as baseless and invalid and confirming the sovereignty, political independence, unity, and territorial integrity of Ukraine. In mid-2014, Russia began supplying proxies in two of Ukraine's eastern provinces with manpower, funding, and materiel beginning an armed conflict with the Ukrainian Government. Representatives from Ukraine, Russia, and the unrecognized Russian proxy republics signed the Minsk Protocol and Memorandum in September 2014 with the aim of ending the conflict. However, this agreement failed to stop the fighting or find a political solution. In a renewed attempt to alleviate ongoing clashes, leaders of Ukraine, Russia, France, and Germany negotiated a follow-on Package of Measures in February 2015 to implement the Minsk agreements, but this effort failed as well. By early 2022, more than 14,000 civilians were killed or wounded as a result of the Russian intervention in eastern Ukraine. <br><br>On 24 February 2022, Russia escalated its conflict with Ukraine by launching a full-scale invasion of the country on several fronts in what has become the largest conventional military attack on a sovereign state in Europe since World War II. The invasion has received near universal international condemnation, and many countries have imposed sanctions on Russia and supplied humanitarian and military aid to Ukraine. Russia made substantial gains in the early weeks of the invasion but underestimated Ukrainian resolve and combat capabilities. By the end of 2022, Ukrainian forces had regained all territories in the north and northeast and made some advances in the east and south. Nonetheless, Russia in late September 2022 unilaterally declared its annexation of four Ukrainian oblasts - Donetsk, Kherson, Luhansk, and Zaporizhzhia - even though none was fully under Russian control. The annexations remain unrecognized by the international community.<br><br>The invasion has also created Europe's largest refugee crisis since World War II. As of 14 November 2023, there were 6.3 million Ukrainian refugees recorded globally, and 3.67 million people were internally displaced as of September 2023.  Nearly 27,800 civilian casualties had been reported, as of 8 October 2023. The invasion of Ukraine remains one of the two largest displacement crises worldwide (the other is the conflict in Syria).<br><br>The Ukrainian people continue to fiercely resist Russia’s full-scale invasion, which has targeted civilian and critical infrastructure - including energy - to try to break the Ukrainian will. President ZELENSKYY has focused on the civic identity of Ukrainians, regardless of ethnic or linguistic background, to unite the country behind the goals of ending the war by regaining as much territory as possible and advancing Ukraine’s candidacy for membership in the European Union (EU). Support for joining the EU and NATO has grown significantly, overcoming the historical, and sometimes artificial, divide between eastern and western Ukraine.</p><br>
+<p>Ukraine was the center of the first eastern Slavic state, Kyivan Rus, which during the 10th and 11th centuries was the largest and most powerful state in Europe. Weakened by internecine quarrels and Mongol invasions, Kyivan Rus was incorporated into the Grand Duchy of Lithuania and eventually into the Polish-Lithuanian Commonwealth. The cultural and religious legacy of Kyivan Rus laid the foundation for Ukrainian nationalism through subsequent centuries. A new Ukrainian state, the Cossack Hetmanate, was established during the mid-17th century after an uprising against the Poles. Despite continuous Muscovite pressure, the Hetmanate managed to remain autonomous for well over 100 years. During the latter part of the 18th century, most Ukrainian ethnographic territory was absorbed by the Russian Empire. Following the collapse of czarist Russia in 1917, Ukraine achieved a short-lived period of independence (1917-20) but was reconquered and endured a brutal Soviet rule that engineered two forced famines (1921-22 and 1932-33) in which over 8 million died. In World War II, German and Soviet armies were responsible for 7 to 8 million more deaths. Although Ukraine overwhelmingly voted for independence in 1991 around the time of the dissolution of the USSR, democracy and prosperity remained elusive as the legacy of state control, patronage politics, and endemic corruption stalled efforts at economic reform, privatization, and civil liberties.</p> <p>A peaceful mass protest referred to as the "Orange Revolution" in the closing months of 2004 and early 2005 forced the authorities to overturn a rigged presidential election and to allow a new internationally monitored vote that swept into power a reformist slate under Viktor YUSHCHENKO. Subsequent internal squabbles in the YUSHCHENKO camp allowed his rival Viktor YANUKOVYCH to stage a comeback in legislative (Rada) elections, become prime minister in August 2006, and be elected president in February 2010. In October 2012, Ukraine held Rada elections, widely criticized by Western observers as flawed due to use of government resources to favor ruling party candidates, interference with media access, and harassment of opposition candidates. President YANUKOVYCH's backtracking on a trade and cooperation agreement with the EU in November 2013 - in favor of closer economic ties with Russia - and subsequent use of force against students, civil society activists, and other civilians in favor of the agreement and fed up with blatant corruption led to a three-month protest occupation of Kyiv's central square. The government's use of violence to break up the protest camp in February 2014 led to all out pitched battles, scores of deaths, international condemnation, a failed political deal, and the president's abrupt departure for Russia. New elections in the spring allowed pro-West president Petro POROSHENKO to assume office in June 2014; he was succeeded by Volodymyr ZELENSKY in May 2019.</p> <p>Shortly after YANUKOVYCH's departure in late February 2014, Russian President PUTIN ordered the invasion of Ukraine's Crimean Peninsula falsely claiming the action was to protect ethnic Russians living there. Two weeks later, a "referendum" was held regarding the integration of Crimea into the Russian Federation. The "referendum" was condemned as illegitimate by the Ukrainian Government, the EU, the US, and the UN General Assembly (UNGA). In response to Russia's illegal annexation of Crimea, 100 members of the UN passed UNGA resolution 68/262, rejecting the "referendum" as baseless and invalid and confirming the sovereignty, political independence, unity, and territorial integrity of Ukraine. In mid-2014, Russia began supplying proxies in two of Ukraine's eastern provinces with manpower, funding, and materiel beginning an armed conflict with the Ukrainian Government. Representatives from Ukraine, Russia, and the unrecognized Russian proxy republics signed the Minsk Protocol and Memorandum in September 2014 with the aim of ending the conflict. However, this agreement failed to stop the fighting or find a political solution. In a renewed attempt to alleviate ongoing clashes, leaders of Ukraine, Russia, France, and Germany negotiated a follow-on Package of Measures in February 2015 to implement the Minsk agreements, but this effort failed as well. By early 2022, more than 14,000 civilians were killed or wounded as a result of the Russian intervention in eastern Ukraine. <br><br>On 24 February 2022, Russia escalated its conflict with Ukraine by launching a full-scale invasion of the country on several fronts in what has become the largest conventional military attack on a sovereign state in Europe since World War II. The invasion has received near universal international condemnation, and many countries have imposed sanctions on Russia and supplied humanitarian and military aid to Ukraine. Russia made substantial gains in the early weeks of the invasion but underestimated Ukrainian resolve and combat capabilities. By the end of 2022, Ukrainian forces had regained all territories in the north and northeast and made some advances in the east and south. Nonetheless, Russia in late September 2022 unilaterally declared its annexation of four Ukrainian oblasts - Donetsk, Kherson, Luhansk, and Zaporizhzhia - even though none was fully under Russian control. The annexations remain unrecognized by the international community.<br><br>The invasion has also created Europe's largest refugee crisis since World War II. As of 28 November 2023, there were 6.3 million Ukrainian refugees recorded globally, and 3.67 million people were internally displaced as of September 2023.  Nearly 27,800 civilian casualties had been reported, as of 8 October 2023. The invasion of Ukraine remains one of the two largest displacement crises worldwide (the other is the conflict in Syria).<br><br>The Ukrainian people continue to fiercely resist Russia’s full-scale invasion, which has targeted civilian and critical infrastructure - including energy - to try to break the Ukrainian will. President ZELENSKYY has focused on the civic identity of Ukrainians, regardless of ethnic or linguistic background, to unite the country behind the goals of ending the war by regaining as much territory as possible and advancing Ukraine’s candidacy for membership in the European Union (EU). Support for joining the EU and NATO has grown significantly, overcoming the historical, and sometimes artificial, divide between eastern and western Ukraine.</p><br>
 
 ## Geography
 
@@ -112,21 +112,21 @@ _potential support ratio_: 3.9 (2021 est.)<br>
 <strong>note:</strong> data include Crimea<br>
 
 **Median age**<br>
-_total_: 41.2 years (2020)<br>
-_male_: 38.2 years<br>
-_female_: 44.3 years<br>
+_total_: 45.3 years (2023 est.)<br>
+_male_: 41.3 years<br>
+_female_: 50 years<br>
 
 **Population growth rate**<br>
--0.52% (2023 est.)<br>
+2.33% (2023 est.)<br>
 
 **Birth rate**<br>
-8.79 births/1,000 population (2023 est.)<br>
+5.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-13.7 deaths/1,000 population (2023 est.)<br>
+19.8 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.27 migrant(s)/1,000 population (2023 est.)<br>
+37.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 densest settlement in the eastern (Donbas) and western regions; noteable concentrations in and around major urban areas of Kyiv, Kharkiv, Donets'k, Dnipropetrovs'k, and Odesa<br>
@@ -143,7 +143,7 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-64 years_: 0.94 male(s)/female<br>
 _65 years and over_: 0.52 male(s)/female<br>
-_total population_: 0.87 male(s)/female (2023 est.)<br>
+_total population_: 1 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.2 years (2019 est.)<br>
@@ -152,20 +152,20 @@ _total population_: 0.87 male(s)/female (2023 est.)<br>
 17 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.21 deaths/1,000 live births (2023 est.)<br>
-_male_: 8.14 deaths/1,000 live births<br>
-_female_: 6.21 deaths/1,000 live births<br>
+_total_: 9 deaths/1,000 live births (2023 est.)<br>
+_male_: 10.1 deaths/1,000 live births<br>
+_female_: 7.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.72 years (2023 est.)<br>
-_male_: 69.1 years<br>
-_female_: 78.64 years<br>
+_total population_: 69.8 years (2023 est.)<br>
+_male_: 64.5 years<br>
+_female_: 75.4 years<br>
 
 **Total fertility rate**<br>
-1.57 children born/woman (2023 est.)<br>
+1.22 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.76 (2023 est.)<br>
+0.59 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 65.4% (2012)<br>
@@ -647,7 +647,7 @@ Ukraine&rsquo;s media landscape is dominated by oligarch-owned news outlets, whi
 .ua<br>
 
 **Internet users**<br>
-_total_: 3.239 million (2021 est.)<br>
+_total_: 34,596,356 (2021 est.)<br>
 _percent of population_: 79% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>

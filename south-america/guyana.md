@@ -108,21 +108,21 @@ _elderly dependency ratio_: 9.5<br>
 _potential support ratio_: 10.6 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 27.5 years (2020)<br>
-_male_: 27.2 years<br>
-_female_: 27.9 years<br>
+_total_: 27.9 years (2023 est.)<br>
+_male_: 27.8 years<br>
+_female_: 28 years<br>
 
 **Population growth rate**<br>
 0.28% (2023 est.)<br>
 
 **Birth rate**<br>
-16.74 births/1,000 population (2023 est.)<br>
+16.7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.95 deaths/1,000 population (2023 est.)<br>
+7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--6.99 migrant(s)/1,000 population (2023 est.)<br>
+-7 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population is heavily concentrated in the northeast in and around Georgetown, with noteable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated<br>
@@ -149,14 +149,14 @@ _total population_: 1.04 male(s)/female (2023 est.)<br>
 112 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.63 deaths/1,000 live births (2023 est.)<br>
-_male_: 24.45 deaths/1,000 live births<br>
-_female_: 18.67 deaths/1,000 live births<br>
+_total_: 21.6 deaths/1,000 live births (2023 est.)<br>
+_male_: 24.5 deaths/1,000 live births<br>
+_female_: 18.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.15 years (2023 est.)<br>
-_male_: 70.32 years<br>
-_female_: 74.07 years<br>
+_total population_: 72.2 years (2023 est.)<br>
+_male_: 70.3 years<br>
+_female_: 74.1 years<br>
 
 **Total fertility rate**<br>
 2.06 children born/woman (2023 est.)<br>
@@ -674,7 +674,7 @@ the Guyana Defense Force (GDF) was established in 1965; its primary missions are
 ## Transnational Issues
 
 **Disputes - international**<br>
-<em>Guyana-Venezuela:</em> Venezuela claims all of the area west of the Essequibo River and maintains that Guyana does not have jurisdiction to grant concessions in maritime areas off the Essequibo, waters which are potentially rich in hydrocarbon resources; Guyana submitted the dispute to the International Court of Justice in 2018<br><br><em>Guyana-Suriname:</em> Suriname claims a triangle of land between the New and Kutari/Koetari Rivers in a historic dispute over the headwaters of the Courantyne River<br>
+<em>Guyana-Venezuela:</em> Venezuela claims all of the area west of the Essequibo River and maintains that Guyana does not have jurisdiction to grant concessions in maritime areas off the Essequibo, waters which are potentially rich in hydrocarbon resources; Guyana submitted the dispute to the International Court of Justice in 2018; in December 2023, the Venezuelan Government conducted a public referendum asking its citizens to support establishing a state in the disputed territory, granting citizenship to current and future area residents, and rejecting the jurisdiction of the ICJ<br><br><em>Guyana-Suriname:</em> Suriname claims a triangle of land between the New and Kutari/Koetari Rivers in a historic dispute over the headwaters of the Courantyne River<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,600 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2022)<br>

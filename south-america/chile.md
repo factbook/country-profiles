@@ -111,21 +111,21 @@ _elderly dependency ratio_: 18.4<br>
 _potential support ratio_: 5.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 35.5 years (2020)<br>
-_male_: 34.3 years<br>
-_female_: 36.7 years<br>
+_total_: 36.6 years (2023 est.)<br>
+_male_: 35.4 years<br>
+_female_: 37.8 years<br>
 
 **Population growth rate**<br>
 0.63% (2023 est.)<br>
 
 **Birth rate**<br>
-12.57 births/1,000 population (2023 est.)<br>
+12.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.58 deaths/1,000 population (2023 est.)<br>
+6.6 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-0.32 migrant(s)/1,000 population (2023 est.)<br>
+0.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 90% of the population is located in the middle third of the country around the capital of Santiago; the far north (anchored by the Atacama Desert) and the extreme south are relatively underpopulated<br>
@@ -148,14 +148,14 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 15 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.41 deaths/1,000 live births (2023 est.)<br>
-_male_: 6.98 deaths/1,000 live births<br>
-_female_: 5.82 deaths/1,000 live births<br>
+_total_: 6.4 deaths/1,000 live births (2023 est.)<br>
+_male_: 7 deaths/1,000 live births<br>
+_female_: 5.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.02 years (2023 est.)<br>
-_male_: 77.04 years<br>
-_female_: 83.13 years<br>
+_total population_: 80 years (2023 est.)<br>
+_male_: 77 years<br>
+_female_: 83.1 years<br>
 
 **Total fertility rate**<br>
 1.75 children born/woman (2023 est.)<br>

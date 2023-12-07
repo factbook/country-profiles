@@ -103,21 +103,21 @@ _elderly dependency ratio_: 13.4<br>
 _potential support ratio_: 7.4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 29.4 years (2020)<br>
-_male_: 28.6 years<br>
-_female_: 30.1 years<br>
+_total_: 30.5 years (2023 est.)<br>
+_male_: 29.7 years<br>
+_female_: 31.3 years<br>
 
 **Population growth rate**<br>
 0.09% (2023 est.)<br>
 
 **Birth rate**<br>
-15.77 births/1,000 population (2023 est.)<br>
+15.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-7.44 deaths/1,000 population (2023 est.)<br>
+7.4 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--7.42 migrant(s)/1,000 population (2023 est.)<br>
+-7.4 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population density is high throughout, but increases in and around Kingston, Montego Bay, and Port Esquivel<br>
@@ -144,14 +144,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 99 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.92 deaths/1,000 live births (2023 est.)<br>
-_male_: 12.15 deaths/1,000 live births<br>
-_female_: 9.62 deaths/1,000 live births<br>
+_total_: 10.9 deaths/1,000 live births (2023 est.)<br>
+_male_: 12.2 deaths/1,000 live births<br>
+_female_: 9.6 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.01 years (2023 est.)<br>
-_male_: 74.25 years<br>
-_female_: 77.85 years<br>
+_total population_: 76 years (2023 est.)<br>
+_male_: 74.3 years<br>
+_female_: 77.9 years<br>
 
 **Total fertility rate**<br>
 2.05 children born/woman (2023 est.)<br>

@@ -112,21 +112,21 @@ _elderly dependency ratio_: 4.5<br>
 _potential support ratio_: 22.2 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 21.8 years (2020)<br>
-_male_: 21.5 years<br>
-_female_: 22.2 years<br>
+_total_: 19.9 years (2023 est.)<br>
+_male_: 19.5 years<br>
+_female_: 20.3 years<br>
 
 **Population growth rate**<br>
 2.23% (2023 est.)<br>
 
 **Birth rate**<br>
-28.03 births/1,000 population (2023 est.)<br>
+28 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-5.71 deaths/1,000 population (2023 est.)<br>
+5.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.04 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 settlements are found scattered along the Gambia River; the largest communities, including the capital of Banjul, and the country's largest city, Serekunda, are found at the mouth of the Gambia River along the Atlantic coast as shown in this population distribution map<br>
@@ -154,14 +154,14 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 458 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 36.44 deaths/1,000 live births (2023 est.)<br>
-_male_: 39.92 deaths/1,000 live births<br>
-_female_: 32.86 deaths/1,000 live births<br>
+_total_: 36.4 deaths/1,000 live births (2023 est.)<br>
+_male_: 39.9 deaths/1,000 live births<br>
+_female_: 32.9 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.98 years (2023 est.)<br>
-_male_: 66.26 years<br>
-_female_: 69.75 years<br>
+_total population_: 68 years (2023 est.)<br>
+_male_: 66.3 years<br>
+_female_: 69.8 years<br>
 
 **Total fertility rate**<br>
 3.66 children born/woman (2023 est.)<br>

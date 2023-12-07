@@ -115,21 +115,21 @@ _elderly dependency ratio_: 12<br>
 _potential support ratio_: 8.3 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 25.3 years (2020)<br>
-_male_: 24.5 years<br>
-_female_: 26 years<br>
+_total_: 26.2 years (2023 est.)<br>
+_male_: 25.9 years<br>
+_female_: 26.6 years<br>
 
 **Population growth rate**<br>
 1.06% (2023 est.)<br>
 
 **Birth rate**<br>
-18.08 births/1,000 population (2023 est.)<br>
+18.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.33 deaths/1,000 population (2023 est.)<br>
+6.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.96 migrant(s)/1,000 population (2023 est.)<br>
+-1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a high altitude plain in the west between two cordillera of the Andes, known as the Altiplano, is the focal area for most of the population; a dense settlement pattern is also found in and around the city of Santa Cruz, located on the eastern side of the Andes<br>
@@ -156,14 +156,14 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 161 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.28 deaths/1,000 live births (2023 est.)<br>
+_total_: 22.3 deaths/1,000 live births (2023 est.)<br>
 _male_: 24.5 deaths/1,000 live births<br>
-_female_: 19.95 deaths/1,000 live births<br>
+_female_: 20 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
 _total population_: 72.5 years (2023 est.)<br>
-_male_: 71.04 years<br>
-_female_: 74.02 years<br>
+_male_: 71 years<br>
+_female_: 74 years<br>
 
 **Total fertility rate**<br>
 2.26 children born/woman (2023 est.)<br>

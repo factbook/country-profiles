@@ -112,21 +112,21 @@ _elderly dependency ratio_: 32.3<br>
 _potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 41.1 years (2020)<br>
-_male_: 40.1 years<br>
-_female_: 42.1 years<br>
+_total_: 41 years (2023 est.)<br>
+_male_: 40 years<br>
+_female_: 42 years<br>
 
 **Population growth rate**<br>
 0.51% (2023 est.)<br>
 
 **Birth rate**<br>
-10.76 births/1,000 population (2023 est.)<br>
+10.8 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 9.5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-3.79 migrant(s)/1,000 population (2023 est.)<br>
+3.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most Swedes live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the Baltic coast in the east; the interior areas of the north remain sparsely populated<br>
@@ -152,20 +152,20 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 5 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.28 deaths/1,000 live births (2023 est.)<br>
+_total_: 2.3 deaths/1,000 live births (2023 est.)<br>
 _male_: 2.5 deaths/1,000 live births<br>
-_female_: 2.05 deaths/1,000 live births<br>
+_female_: 2.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
 _total population_: 82.8 years (2023 est.)<br>
-_male_: 81.05 years<br>
-_female_: 84.66 years<br>
+_male_: 81.1 years<br>
+_female_: 84.7 years<br>
 
 **Total fertility rate**<br>
 1.67 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.81 (2023 est.)<br>
+0.8 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 70.3% (2017)<br>

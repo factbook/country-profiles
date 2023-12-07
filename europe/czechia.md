@@ -108,21 +108,21 @@ _elderly dependency ratio_: 32.2<br>
 _potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 43.3 years (2020)<br>
-_male_: 42 years<br>
-_female_: 44.7 years<br>
+_total_: 43.9 years (2023 est.)<br>
+_male_: 42.5 years<br>
+_female_: 45.4 years<br>
 
 **Population growth rate**<br>
-0% (2023 est.)<br>
+0.1% (2023 est.)<br>
 
 **Birth rate**<br>
-8.43 births/1,000 population (2023 est.)<br>
+10 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.77 deaths/1,000 population (2023 est.)<br>
+12.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-2.32 migrant(s)/1,000 population (2023 est.)<br>
+3.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations<br>
@@ -139,7 +139,7 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-64 years_: 1.11 male(s)/female<br>
 _65 years and over_: 0.77 male(s)/female<br>
-_total population_: 1.05 male(s)/female (2023 est.)<br>
+_total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.5 years (2020 est.)<br>
@@ -148,20 +148,20 @@ _total population_: 1.05 male(s)/female (2023 est.)<br>
 3 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.37 deaths/1,000 live births (2023 est.)<br>
-_male_: 2.57 deaths/1,000 live births<br>
-_female_: 2.16 deaths/1,000 live births<br>
+_total_: 2.6 deaths/1,000 live births (2023 est.)<br>
+_male_: 2.8 deaths/1,000 live births<br>
+_female_: 2.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.96 years (2023 est.)<br>
-_male_: 77.04 years<br>
-_female_: 83.03 years<br>
+_total population_: 78.3 years (2023 est.)<br>
+_male_: 75.1 years<br>
+_female_: 81.6 years<br>
 
 **Total fertility rate**<br>
-1.5 children born/woman (2023 est.)<br>
+1.74 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-0.73 (2023 est.)<br>
+0.85 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -715,7 +715,7 @@ the Czech military is a professional force responsible for national and territor
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 368,685 (Ukraine) (as of 12 November 2023)<br>
+_refugees (country of origin)_: 369,550 (Ukraine) (as of 19 November 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

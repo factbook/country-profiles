@@ -113,21 +113,21 @@ _elderly dependency ratio_: 10<br>
 _potential support ratio_: 10 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 31.1 years (2020)<br>
+_total_: 31.2 years (2023 est.)<br>
 _male_: 30.5 years<br>
-_female_: 31.8 years<br>
+_female_: 32 years<br>
 
 **Population growth rate**<br>
 0.76% (2023 est.)<br>
 
 **Birth rate**<br>
-15.05 births/1,000 population (2023 est.)<br>
+15.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.77 deaths/1,000 population (2023 est.)<br>
+6.8 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.71 migrant(s)/1,000 population (2023 est.)<br>
+-0.7 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands (those surrounding Java and Bali), Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda, and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated<br>
@@ -154,14 +154,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 173 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.31 deaths/1,000 live births (2023 est.)<br>
-_male_: 21.71 deaths/1,000 live births<br>
-_female_: 16.78 deaths/1,000 live births<br>
+_total_: 19.3 deaths/1,000 live births (2023 est.)<br>
+_male_: 21.7 deaths/1,000 live births<br>
+_female_: 16.8 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.33 years (2023 est.)<br>
+_total population_: 73.3 years (2023 est.)<br>
 _male_: 71.1 years<br>
-_female_: 75.68 years<br>
+_female_: 75.7 years<br>
 
 **Total fertility rate**<br>
 1.99 children born/woman (2023 est.)<br>
@@ -761,7 +761,7 @@ Islamic State of Iraq and ash-Sham (aka Jemaah Anshorut Daulah); Jemaah Islamiya
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Indonesia has a stated foreign policy objective of establishing stable fixed land and maritime boundaries with all of its neighbors; three stretches of land borders with Timor-Leste have yet to be delimited, two of which are in the Oecussi exclave area, and no maritime or Exclusive Economic Zone (EEZ) boundaries have been established between the countries; all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia has closed parts of the Ashmore and Cartier Reserve to Indonesian traditional fishing and placed restrictions on certain catches; land and maritime negotiations with Malaysia are ongoing, and disputed areas include the controversial Tanjung Datu and Camar Wulan border area in Borneo and the maritime boundary in the Ambalat oil block in the Celebes Sea; Indonesia and Singapore continue to work on finalizing their 1973 maritime boundary agreement by defining unresolved areas north of Indonesia's Batam Island; Indonesian secessionists, squatters, and illegal migrants create repatriation problems for Papua New Guinea; maritime delimitation talks continue with Palau; EEZ negotiations with Vietnam are ongoing, and the two countries in Fall 2011 agreed to work together to reduce illegal fishing along their maritime boundary</p><br>
+<p><em>Indonesia-Australia:</em> all borders have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia has closed parts of the Ashmore and Cartier Reserve to Indonesian traditional fishing and placed restrictions on certain catches<br><br><em>Indonesia-Malaysia:</em> territorial disputes resulting from competing interpretations of colonial era documents have prevented a full demarcation of the land border where there are several areas under dispute; negotiations continue; the two countries have not agreed to any EEZ boundaries; disputed maritime areas includes the Ambalat block in the Celebes Sea<br><br><em>Indonesia-Palau:</em> discussions on reaching an agreement on a partial EEZ boundary line continue <br><br><em>Indonesia-Papua New Guinea:</em>  Papua New Guinea ratified an agreement governing the border in 2023; migrants and separatists crossing the porous 760-kilometer (472-mile) border have complicated diplomatic relations<br><br><em>Indonesia-Philippines: </em> have ratified EEZ boundary agreements that were initially signed in 2014<br><br><em>Indonesia-Singapore:</em> continue to work on finalizing their 1973 maritime boundary agreement by defining unresolved areas north of Indonesia's Batam Island<br><br><em>Indonesia-Timor Leste:</em> as of 2023, negotiations were ongoing on remaining two segments of the land border under dispute (Bidjael Sunan-Oben and Noel Besi-Citrana) and the maritime borders from Batugade to Atauro and from Atauro to Jaco <br><br><em>Indonesia-Vietnam:</em> agreed on a continental shelf boundary agreement with Vietnam in 2003 which produced a border around 250 nautical miles long, but the two countries continue to negotiate an agreement regarding EEZ delimitations in the South China Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,684 (Afghanistan) (mid-year 2022)<br>

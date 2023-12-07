@@ -101,21 +101,21 @@ _elderly dependency ratio_: 12.5<br>
 _potential support ratio_: 8 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 36.9 years (2020)<br>
-_male_: 35.7 years<br>
-_female_: 38 years<br>
+_total_: 39 years (2023 est.)<br>
+_male_: 37.8 years<br>
+_female_: 40.2 years<br>
 
 **Population growth rate**<br>
 0.27% (2023 est.)<br>
 
 **Birth rate**<br>
-11.73 births/1,000 population (2023 est.)<br>
+11.7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-8.17 deaths/1,000 population (2023 est.)<br>
+8.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.82 migrant(s)/1,000 population (2023 est.)<br>
+-0.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most of the population is found on the periphery of the island, with a larger concentration in the north around the capital of Castries<br>
@@ -138,14 +138,14 @@ _total population_: 0.94 male(s)/female (2023 est.)<br>
 73 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.75 deaths/1,000 live births (2023 est.)<br>
-_male_: 11.03 deaths/1,000 live births<br>
+_total_: 11.8 deaths/1,000 live births (2023 est.)<br>
+_male_: 11 deaths/1,000 live births<br>
 _female_: 12.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.18 years (2023 est.)<br>
-_male_: 76.46 years<br>
-_female_: 82.06 years<br>
+_total population_: 79.2 years (2023 est.)<br>
+_male_: 76.5 years<br>
+_female_: 82.1 years<br>
 
 **Total fertility rate**<br>
 1.72 children born/woman (2023 est.)<br>

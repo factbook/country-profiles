@@ -101,21 +101,21 @@ _elderly dependency ratio_: 10.5<br>
 _potential support ratio_: 9.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.1 years (2020)<br>
-_male_: 23.6 years<br>
-_female_: 24.5 years<br>
+_total_: 25.4 years (2023 est.)<br>
+_male_: 25 years<br>
+_female_: 25.9 years<br>
 
 **Population growth rate**<br>
 -0.3% (2023 est.)<br>
 
 **Birth rate**<br>
-20.02 births/1,000 population (2023 est.)<br>
+20 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-4.95 deaths/1,000 population (2023 est.)<br>
+5 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--18.06 migrant(s)/1,000 population (2023 est.)<br>
+-18.1 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 over two-thirds of the population lives on the island of Tongatapu; only 45 of the nation's 171 islands are occupied<br>
@@ -143,13 +143,13 @@ _total population_: 1.01 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 12.1 deaths/1,000 live births (2023 est.)<br>
-_male_: 13.09 deaths/1,000 live births<br>
-_female_: 11.09 deaths/1,000 live births<br>
+_male_: 13.1 deaths/1,000 live births<br>
+_female_: 11.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.78 years (2023 est.)<br>
-_male_: 76.14 years<br>
-_female_: 79.47 years<br>
+_total population_: 77.8 years (2023 est.)<br>
+_male_: 76.1 years<br>
+_female_: 79.5 years<br>
 
 **Total fertility rate**<br>
 2.7 children born/woman (2023 est.)<br>

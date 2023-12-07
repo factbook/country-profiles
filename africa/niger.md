@@ -115,21 +115,21 @@ _elderly dependency ratio_: 5<br>
 _potential support ratio_: 20.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 14.8 years (2020)<br>
-_male_: 14.5 years<br>
-_female_: 15.1 years<br>
+_total_: 15.1 years (2023 est.)<br>
+_male_: 14.8 years<br>
+_female_: 15.5 years<br>
 
 **Population growth rate**<br>
 3.66% (2023 est.)<br>
 
 **Birth rate**<br>
-46.86 births/1,000 population (2023 est.)<br>
+46.9 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-9.66 deaths/1,000 population (2023 est.)<br>
+9.7 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.62 migrant(s)/1,000 population (2023 est.)<br>
+-0.6 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 majority of the populace is located in the southernmost extreme of the country along the border with Nigeria and Benin as shown in this population distribution map<br>
@@ -156,13 +156,13 @@ _total population_: 0.98 male(s)/female (2023 est.)<br>
 441 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 65.53 deaths/1,000 live births (2023 est.)<br>
-_male_: 70.46 deaths/1,000 live births<br>
-_female_: 60.46 deaths/1,000 live births<br>
+_total_: 65.5 deaths/1,000 live births (2023 est.)<br>
+_male_: 70.5 deaths/1,000 live births<br>
+_female_: 60.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 60.48 years (2023 est.)<br>
-_male_: 58.91 years<br>
+_total population_: 60.5 years (2023 est.)<br>
+_male_: 58.9 years<br>
 _female_: 62.1 years<br>
 
 **Total fertility rate**<br>
@@ -713,7 +713,7 @@ the FAN's inventory consists of a wide variety of older weapons; in recent years
 
 **Military deployments**<br>
 875 Mali (MINUSMA) (2023)<br>
-<strong>note 1:</strong> Niger is part of a four (formerly five)-nation anti-jihadist task force known as the G5 (now G4) Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali (withdrew in 2022), and Mauritania; it has committed 1,100 troops and 200 gendarmes to the force; defense forces from each of the participating states are allowed to pursue terrorist fighters up to 100 km into neighboring countries; the force is backed by France, the UN, and the US<br><br><strong>note 2: </strong>Niger also has committed about 1,000 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
+<strong>note: </strong>Niger also has committed about 1,000 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
 
 **Military - note**<br>
 while the FAN is responsible for ensuring external security, much of its focus is internal, particularly counterinsurgency/counterterrorism operations against terrorist groups operating in the areas bordering Burkina Faso, Libya, Mali, and Nigeria, as well as much of northern Niger and the Diffa and Lake Chad regions; these groups include the Islamic State of Iraq and ash-Sham (ISIS) in the Greater Sahara, Boko Haram, ISIS-West Africa, and Jama’at Nusrat al-Islam wal-Muslimin (JNIM); up to 70% of the security forces are assigned to fighting militants and protecting borders<br><br>the FAN is a lightly armed, but experienced military; it has conducted training and combat operations with foreign partners, including the French and US; the EU has also provided security assistance, particularly to the GN, GNN, and the National Police; the FAN also conducts counterterrorism operations with the G4 Sahel Group and the Multinational Joint Task Force (MNJTF), which coordinates the Lake Chad states’ operations against Boko Haram; it conducted counterinsurgency operations against Taureg rebels during the periods of 1990-95 and 2007-09<br><br>in recent years, Niger has focused on making its security services more mobile to improve their effectiveness in countering terrorism and protecting the country’s borders; with training support and material assistance from the US and the EU, each security service has created new units or reconfigured existing units with an emphasis on mobility, hybridization, and specialized training; since the 2010s, the Army has created a special operations command, several special intervention battalions, and an anti-terrorism unit known as the 1st Expeditionary Force of Niger (EFoN); the GN has created mobile units modeled on European gendarmerie forces known as the Rapid Action Group—Surveillance and Response in the Sahel (Groupe d'action Rapides—Surveillance et Intervention au Sahel or GAR-SI Sahel); the GNN has developed mobile Multipurpose Squadrons (Escadrons Polyvalentes de la Garde Nationale de Niger or EP-GNN), while the National Police have created Mobile Border Control Companies (Compagnie Mobile de Contrôle des Frontières or CMCF); Niger has also established training centers for special forces in Tillia and peacekeeping in Ouallam; meanwhile, the Air Force has received a few armed UAVs from Turkey<br><br>the Army was established in 1960 from French colonial forces, while the Air Force was formed as the Niger National Escadrille in 1961; the GN received its first Nigerien commander in 1962; since its establishment, Niger’s military has played a significant role in the country’s politics, conducting successful coups in 1974, 1996, 1999, and 2010, and ruling Niger for much of the period before 1999; it seized control of the government again in 2023 (2023)<br>

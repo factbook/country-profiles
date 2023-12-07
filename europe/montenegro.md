@@ -108,21 +108,21 @@ _elderly dependency ratio_: 24.8<br>
 _potential support ratio_: 4 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 39.6 years (2020)<br>
-_male_: 38.1 years<br>
-_female_: 41.1 years<br>
+_total_: 40.7 years (2023 est.)<br>
+_male_: 39.2 years<br>
+_female_: 42.2 years<br>
 
 **Population growth rate**<br>
 -0.43% (2023 est.)<br>
 
 **Birth rate**<br>
-11.04 births/1,000 population (2023 est.)<br>
+11 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 10.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.99 migrant(s)/1,000 population (2023 est.)<br>
+-5 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 highest population density is concentrated in the south, southwest; the extreme eastern border is the least populated area<br>
@@ -149,12 +149,12 @@ _total population_: 0.97 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
 _total_: 3.2 deaths/1,000 live births (2023 est.)<br>
-_male_: 2.69 deaths/1,000 live births<br>
-_female_: 3.73 deaths/1,000 live births<br>
+_male_: 2.7 deaths/1,000 live births<br>
+_female_: 3.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.99 years (2023 est.)<br>
-_male_: 75.57 years<br>
+_total population_: 78 years (2023 est.)<br>
+_male_: 75.6 years<br>
 _female_: 80.5 years<br>
 
 **Total fertility rate**<br>

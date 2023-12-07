@@ -109,21 +109,21 @@ _elderly dependency ratio_: 8.3<br>
 _potential support ratio_: 12 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 24.1 years (2020)<br>
-_male_: 23.6 years<br>
-_female_: 24.6 years<br>
+_total_: 25.4 years (2023 est.)<br>
+_male_: 24.9 years<br>
+_female_: 26 years<br>
 
 **Population growth rate**<br>
 1.58% (2023 est.)<br>
 
 **Birth rate**<br>
-22.17 births/1,000 population (2023 est.)<br>
+22.2 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.32 deaths/1,000 population (2023 est.)<br>
+6.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.04 migrant(s)/1,000 population (2023 est.)<br>
+0 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 population concentrated where good farmlands lie; highest concentrations are northwest and south-central Luzon, the southeastern extension of Luzon, and the islands of the Visayan Sea, particularly Cebu and Negros; Manila is home to one-eighth of the entire national population<br>
@@ -150,14 +150,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 78 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.14 deaths/1,000 live births (2023 est.)<br>
-_male_: 24.43 deaths/1,000 live births<br>
-_female_: 19.73 deaths/1,000 live births<br>
+_total_: 22.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 24.4 deaths/1,000 live births<br>
+_female_: 19.7 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.48 years (2023 est.)<br>
-_male_: 66.97 years<br>
-_female_: 74.15 years<br>
+_total population_: 70.5 years (2023 est.)<br>
+_male_: 67 years<br>
+_female_: 74.2 years<br>
 
 **Total fertility rate**<br>
 2.77 children born/woman (2023 est.)<br>

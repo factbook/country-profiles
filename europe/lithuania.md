@@ -104,21 +104,21 @@ _elderly dependency ratio_: 32.1<br>
 _potential support ratio_: 3.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 44.5 years (2020)<br>
-_male_: 40.2 years<br>
-_female_: 48.2 years<br>
+_total_: 45 years (2023 est.)<br>
+_male_: 40.6 years<br>
+_female_: 49 years<br>
 
 **Population growth rate**<br>
 -1.04% (2023 est.)<br>
 
 **Birth rate**<br>
-9.09 births/1,000 population (2023 est.)<br>
+9.1 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-15.17 deaths/1,000 population (2023 est.)<br>
+15.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.34 migrant(s)/1,000 population (2023 est.)<br>
+-4.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda<br>
@@ -144,14 +144,14 @@ _total population_: 0.86 male(s)/female (2023 est.)<br>
 9 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.61 deaths/1,000 live births (2023 est.)<br>
-_male_: 4.06 deaths/1,000 live births<br>
-_female_: 3.12 deaths/1,000 live births<br>
+_total_: 3.6 deaths/1,000 live births (2023 est.)<br>
+_male_: 4.1 deaths/1,000 live births<br>
+_female_: 3.1 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.95 years (2023 est.)<br>
-_male_: 70.62 years<br>
-_female_: 81.59 years<br>
+_total population_: 76 years (2023 est.)<br>
+_male_: 70.6 years<br>
+_female_: 81.6 years<br>
 
 **Total fertility rate**<br>
 1.61 children born/woman (2023 est.)<br>

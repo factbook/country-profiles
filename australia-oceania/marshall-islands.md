@@ -104,21 +104,21 @@ _elderly dependency ratio_: 6.8<br>
 _potential support ratio_: 14.7 (2021)<br>
 
 **Median age**<br>
-_total_: 23.8 years (2020)<br>
-_male_: 23.6 years<br>
-_female_: 23.9 years<br>
+_total_: 25.1 years (2023 est.)<br>
+_male_: 25 years<br>
+_female_: 25.2 years<br>
 
 **Population growth rate**<br>
 1.3% (2023 est.)<br>
 
 **Birth rate**<br>
-21.61 births/1,000 population (2023 est.)<br>
+21.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
 4.3 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--4.31 migrant(s)/1,000 population (2023 est.)<br>
+-4.3 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 most people live in urban clusters found on many of the country's islands; more than two-thirds of the population lives on the atolls of Majuro and Ebeye<br>
@@ -138,14 +138,14 @@ _65 years and over_: 0.96 male(s)/female<br>
 _total population_: 1.03 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.13 deaths/1,000 live births (2023 est.)<br>
-_male_: 24.56 deaths/1,000 live births<br>
-_female_: 17.54 deaths/1,000 live births<br>
+_total_: 21.1 deaths/1,000 live births (2023 est.)<br>
+_male_: 24.6 deaths/1,000 live births<br>
+_female_: 17.5 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.92 years (2023 est.)<br>
-_male_: 72.68 years<br>
-_female_: 77.26 years<br>
+_total population_: 74.9 years (2023 est.)<br>
+_male_: 72.7 years<br>
+_female_: 77.3 years<br>
 
 **Total fertility rate**<br>
 2.72 children born/woman (2023 est.)<br>

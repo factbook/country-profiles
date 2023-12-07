@@ -109,21 +109,21 @@ _elderly dependency ratio_: 24.4<br>
 _potential support ratio_: 4.1 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 37.2 years (2020)<br>
-_male_: 36.4 years<br>
-_female_: 37.9 years<br>
+_total_: 37.7 years (2023 est.)<br>
+_male_: 36.9 years<br>
+_female_: 38.4 years<br>
 
 **Population growth rate**<br>
 1.06% (2023 est.)<br>
 
 **Birth rate**<br>
-12.69 births/1,000 population (2023 est.)<br>
+12.7 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-6.89 deaths/1,000 population (2023 est.)<br>
+6.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-4.81 migrant(s)/1,000 population (2023 est.)<br>
+4.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 over three-quarters of New Zealanders, including the indigenous Maori, live on the North Island, primarily in urban areas<br>
@@ -149,14 +149,14 @@ _total population_: 1 male(s)/female (2023 est.)<br>
 7 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.39 deaths/1,000 live births (2023 est.)<br>
-_male_: 3.58 deaths/1,000 live births<br>
-_female_: 3.18 deaths/1,000 live births<br>
+_total_: 3.4 deaths/1,000 live births (2023 est.)<br>
+_male_: 3.6 deaths/1,000 live births<br>
+_female_: 3.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.74 years (2023 est.)<br>
-_male_: 80.98 years<br>
-_female_: 84.58 years<br>
+_total population_: 82.7 years (2023 est.)<br>
+_male_: 81 years<br>
+_female_: 84.6 years<br>
 
 **Total fertility rate**<br>
 1.86 children born/woman (2023 est.)<br>

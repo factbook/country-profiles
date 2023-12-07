@@ -103,21 +103,21 @@ _elderly dependency ratio_: 70.2<br>
 _potential support ratio_: 1.4 (2021)<br>
 
 **Median age**<br>
-_total_: 55.4 years (2020)<br>
-_male_: 53.7 years<br>
-_female_: 57 years<br>
+_total_: 56.2 years (2023 est.)<br>
+_male_: 54.5 years<br>
+_female_: 57.6 years<br>
 
 **Population growth rate**<br>
 0.66% (2023 est.)<br>
 
 **Birth rate**<br>
-6.61 births/1,000 population (2023 est.)<br>
+6.6 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-10.92 deaths/1,000 population (2023 est.)<br>
+10.9 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
-10.89 migrant(s)/1,000 population (2023 est.)<br>
+10.9 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 the second most densely populated country in the world (after Macau); its entire population living on 2 square km<br>
@@ -137,14 +137,14 @@ _65 years and over_: 0.81 male(s)/female<br>
 _total population_: 0.94 male(s)/female (2023 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.75 deaths/1,000 live births (2023 est.)<br>
-_male_: 2.05 deaths/1,000 live births<br>
-_female_: 1.44 deaths/1,000 live births<br>
+_total_: 1.8 deaths/1,000 live births (2023 est.)<br>
+_male_: 2.1 deaths/1,000 live births<br>
+_female_: 1.4 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 89.64 years (2023 est.)<br>
-_male_: 85.84 years<br>
-_female_: 93.59 years<br>
+_total population_: 89.6 years (2023 est.)<br>
+_male_: 85.8 years<br>
+_female_: 93.6 years<br>
 
 **Total fertility rate**<br>
 1.53 children born/woman (2023 est.)<br>
