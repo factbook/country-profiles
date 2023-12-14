@@ -201,11 +201,6 @@ _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.6% (2013)<br>
-_male_: 20.9%<br>
-_female_: 37.5%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -378,9 +373,6 @@ NA<br>
 
 **Labor force**<br>
 NA<br>
-
-**Labor force - by occupation**<br>
-<p><strong>note:</strong> most of the labor force is employed in phosphate mining, public administration, education, and transportation</p><br>
 
 **Unemployment rate**<br>
 23% (2011 est.)<br>

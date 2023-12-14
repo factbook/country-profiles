@@ -180,11 +180,6 @@ NA<br>
 **Education expenditures**<br>
 NA<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 48.8% (2020 est.)<br>
-_male_: 44.9%<br>
-_female_: 57.3%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -376,11 +371,6 @@ mineral mining, construction materials, base metals, leather, machinery, applian
 **Labor force**<br>
 500,300 (2017 est.)<br>
 <strong>note:</strong> includes those estimated to be employed in the gray economy<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 4.4%<br>
-_industry_: 17.4%<br>
-_services_: 78.2% (2017 est.)<br>
 
 **Unemployment rate**<br>
 30.5% (2017 est.)<br>
@@ -608,7 +598,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo authority continue to ensure a safe and secure environment and freedom of movement for all Kosovo citizens</p> <p><em>Kosovo-Albania</em>: none identified</p> <p><em>Kosovo-Montenegro</em>: their 2015 demarcation agreement was ratified by Montenegro in December 2015 and by Kosovo in March 2018, but the actual demarcation has not been completed; as of March 2021, Kosovo Prime Minister Albin KURTI said that after the new Montenegrin government is formed, he would broach the subject of reopening the agreement</p> <p>Kosovo-North Macedonia: Kosovo and North Macedonia completed demarcation of their boundary in September 2008; both countries ratified the demarcation documents on October 17, 2009, after high-level consultations resolved the disputed section of border around Debelde/Tanusevci</p> <p><em>Kosovo-Serbia</em>: Serbia with several other states protest the US’s and other countries’ recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; Kosovo’s and Serbia’s temporary agreement on license plates expired on 21 April 2022; the two countries are meeting on 13 May to reach a permanent agreement</p> <p> </p><br>
+<p><em>Kosovo-Albania</em>: none identified</p> <p><em>Kosovo-Montenegro</em>: their 2015 demarcation agreement was ratified by Montenegro in December 2015 and by Kosovo in March 2018, but the actual demarcation has not been completed</p> <p><em>Kosovo-North Macedonia:</em> Kosovo and North Macedonia completed demarcation of their boundary in September 2008; both countries ratified the demarcation documents on October 17, 2009, after high-level consultations resolved the disputed section of border around Debelde/Tanusevci</p> <p><em>Kosovo-Serbia</em>: Serbia has not recognized Kosovo's independence, and Belgrade continues to claim it as its territory; Kosovo’s ethnic Serb minority, most of whom live in the northern regions, view themselves as part of Serbia, and Serbian municipalities along the northern border have challenged the final status of Kosovo-Serbia boundary; some protests have turned violent </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2004 as a result of violence) (2022)<br>

@@ -230,11 +230,6 @@ _total_: 14 years<br>
 _male_: 13 years<br>
 _female_: 14 years (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.5% (2021 est.)<br>
-_male_: 14.4%<br>
-_female_: 18.9%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -338,7 +333,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Ilham ALIYEV (since 31 October 2003); First Vice President Mehriban ALIYEVA (since 21 February 2017)<br>
 _head of government_: Prime Minister Ali ASADOV (since 8 October 2019); First Deputy Prime Minister Yaqub EYYUBOV (since 13 February 2003)<br>
 _cabinet_: Council of Ministers appointed by the president and confirmed by the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds (if needed) for a 7-year term; a single individual is eligible for unlimited terms; election last held on 11 April 2018 (next to be held in 2025); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly; note - a constitutional amendment approved in a September 2016 referendum extended the presidential term from 5 to 7 years; a separate constitutional amendment approved in the same referendum also introduced the post of first vice-president and additional vice-presidents, who are directly appointed by the president; however, no additional vice-presidents have been appointed since the constitutional amendment was passed<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds (if needed) for a 7-year term; a single individual is eligible for unlimited terms; election last held on 11 April 2018 (next to be held on 7 February 2024); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly; note - a constitutional amendment approved in a September 2016 referendum extended the presidential term from 5 to 7 years; a separate constitutional amendment approved in the same referendum also introduced the post of first vice-president and additional vice-presidents, who are directly appointed by the president; however, no additional vice-presidents have been appointed since the constitutional amendment was passed<br>
 _election results_: Ilham ALIYEV reelected president in first round; percent of vote - Ilham ALIYEV (YAP) 86%, Zahid ORUJ (independent) 3.1%, other 10.9%<br>
 <strong>note:</strong> OSCE observers noted shortcomings in the election, including a restrictive political environment, limits on fundamental freedoms, a lack of genuine competition, and ballot box stuffing<br>
 
@@ -449,11 +444,6 @@ petroleum and petroleum products, natural gas, oilfield equipment; steel, iron o
 
 **Labor force**<br>
 4.919 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 37%<br>
-_industry_: 14.3%<br>
-_services_: 48.9% (2014)<br>
 
 **Unemployment rate**<br>
 6.58% (2021 est.)<br>

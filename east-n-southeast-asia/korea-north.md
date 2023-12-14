@@ -219,11 +219,6 @@ _total_: 11 years<br>
 _male_: 11 years<br>
 _female_: 11 years (2015)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.1% (2021 est.)<br>
-_male_: 5.4%<br>
-_female_: 6.9%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -411,10 +406,6 @@ military products; machine building, electric power, chemicals; mining (coal, ir
 **Labor force**<br>
 17.16 million (2021 est.)<br>
 <strong>note:</strong> estimates vary widely<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 37%<br>
-_industry_: 63% (2008 est.)<br>
 
 **Unemployment rate**<br>
 2.59% (2021 est.)<br>
@@ -654,7 +645,7 @@ North Korea’s leader has emphasized the development of space capabilities, par
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>North Korea-China</em>: risking arrest, imprisonment, and deportation, tens of thousands of North Koreans cross into China to escape famine, economic privation, and political oppression; North Korea and China dispute the sovereignty of certain islands in Yalu and Tumen Rivers</p> <p><em>North Korea-Japan</em>: North Korea supports South Korea in rejecting Japan's claim to Liancourt Rocks (Tok-do/Take-shima)</p> <p><em>North Korea-South Korea</em>: Military Demarcation Line within the 4-km-wide Demilitarized Zone has separated North from South Korea since 1953; periodic incidents in the Yellow Sea with South Korea which claims the Northern Limiting Line as a maritime boundary</p><br>
+<p><em>North Korea-China</em>: risking arrest, imprisonment, and deportation, tens of thousands of North Koreans have crossed the 1,400-km-long border into China to escape famine, economic privation, and political oppression; the adjacent areas of northeastern China (the provinces of Jilin, Heilongjiang, and Liaoning) includes a significant Korean minority population of an estimated 2 million people; in the 2020s, North Korea has built hundreds of kilometers of new or upgraded border fences, walls, and guard posts along the border; North Korea and China dispute the sovereignty of certain islands in Yalu and Tumen Rivers </p> <p><em>North Korea-Japan</em>: North Korea supports South Korea in rejecting Japan's claim to Liancourt Rocks (Tok-do/Take-shima)<br><br><em>North Korea-Russia:</em> Russian troops guard the border and immediately return escapees they capture to the North Korean Government; in the 2020s, North Korea has built new or upgraded border fences and guard posts along the border</p> <p><em>North Korea-South Korea</em>: the Military Demarcation Line within the 4-km-wide, 257-km-long Demilitarized Zone (DMZ) has separated North from South Korea since 1953; periodic incidents in the Yellow Sea with South Korea which claims the Northern Limit Line as a maritime boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: undetermined (2021)<br>

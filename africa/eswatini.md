@@ -224,11 +224,6 @@ _total_: 13 years<br>
 _male_: 13 years<br>
 _female_: 12 years (2013)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 50.9% (2021 est.)<br>
-_male_: 47.7%<br>
-_female_: 54.1%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -328,7 +323,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King MSWATI III (since 25 April 1986)<br>
-_head of government_: <p>Prime Minister Ambrose Mandvulo Dlamini (since 3 November 2023)</p> <p> </p><br>
+_head of government_: <p>Prime Minister Ambrose Mandvulo DLAMINI (since 6 November 2023)</p> <p> </p><br>
 _cabinet_: Cabinet recommended by the prime minister, confirmed by the monarch; at least one-half of the cabinet membership must be appointed from among elected members of the House of Assembly<br>
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch from among members of the House of Assembly<br>
 
@@ -432,11 +427,6 @@ soft drink concentrates, coal, forestry, sugar processing, textiles, and apparel
 
 **Labor force**<br>
 383,500 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 10.7%<br>
-_industry_: 30.4%<br>
-_services_: 58.9% (2014 est.)<br>
 
 **Unemployment rate**<br>
 25.76% (2021 est.)<br>

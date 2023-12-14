@@ -5,7 +5,7 @@ _Central Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>A Central Asian country of incredible natural beauty and proud nomadic traditions, most of the territory of present-day Kyrgyzstan was formally annexed by the Russian Empire in 1876. The Kyrgyz staged a major revolt against the Tsarist Empire in 1916 in which almost one-sixth of the Kyrgyz population was killed. Kyrgyzstan became a Soviet republic in 1926 and achieved independence in 1991 when the USSR dissolved. Nationwide demonstrations in 2005 and 2010 resulted in the ouster of the country’s first two presidents, Askar AKAEV and Kurmanbek BAKIEV. Interim President Roza OTUNBAEVA led a transitional government and following a nation-wide election, President Almazbek ATAMBAEV was sworn in as president in 2011. In 2017, ATAMBAEV became the first Kyrgyzstani president to step down after serving one full six-year term as required at the time in the country’s constitution. Former prime minister and ruling Social-Democratic Party of Kyrgyzstan member, Sooronbay JEENBEKOV, replaced him after winning the 2017 presidential election, which was the most competitive in the country’s history, although international and local election observers noted cases of vote buying and abuse of public resources. In October 2020, protests against legislative election results spread across Kyrgyzstan, leading to JEENBEKOV’s resignation from the presidency, and catapulting previously imprisoned Sadyr JAPAROV to acting president. In January 2021, Kyrgyzstanis formerly elected JAPAROV as president and approved a referendum to move Kyrgyzstan from a parliamentary to a presidential system. In April 2021, Kyrgyzstanis voted in favor of draft constitutional changes that consolidated power in the presidency. Pro-government parties won a majority in the Jogorku Kenesh (Kyrgyzstan’s legislature) in November 2021 elections. Continuing concerns for Kyrgyzstan include the trajectory of democratization, endemic corruption, a history of tense, and at times violent, interethnic relations, border security vulnerabilities, and potential terrorist threats.</p><br>
+<p>A Central Asian country of incredible natural beauty and proud nomadic traditions, most of the territory of present-day Kyrgyzstan was formally annexed by the Russian Empire in 1876. The Kyrgyz staged a major revolt against the Tsarist Empire in 1916 in which almost one-sixth of the Kyrgyz population was killed. Kyrgyzstan became a Soviet republic in 1926 and achieved independence in 1991 when the USSR dissolved. Nationwide demonstrations in 2005 and 2010 resulted in the ouster of the country’s first two presidents, Askar AKAEV and Kurmanbek BAKIEV. Interim President Roza OTUNBAEVA led a transitional government and following a nation-wide election, President Almazbek ATAMBAEV was sworn in as president in 2011. In 2017, ATAMBAEV became the first Kyrgyzstani president to step down after serving one full six-year term as required at the time in the country’s constitution. Former prime minister and ruling Social-Democratic Party of Kyrgyzstan member, Sooronbay JEENBEKOV, replaced him after winning the 2017 presidential election, which was the most competitive in the country’s history, although international and local election observers noted cases of vote buying and abuse of public resources. In October 2020, protests against parliamentary election results spread across Kyrgyzstan, leading to JEENBEKOV’s resignation from the presidency, and catapulting previously imprisoned Sadyr JAPAROV to acting president. In January 2021, Kyrgyzstanis formally elected JAPAROV as president and approved a referendum to move Kyrgyzstan from a parliamentary to a presidential system. In April 2021, Kyrgyzstanis voted in favor of draft constitutional changes that consolidated power in the presidency. Pro-government parties won a majority in the Jogorku Kenesh (Kyrgyzstan’s legislature) in November 2021 elections. Continuing concerns for Kyrgyzstan include the trajectory of democratization, endemic corruption, tense regional relations, vulnerabilities due to climate change, border security vulnerabilities, and potential terrorist threats.</p><br>
 
 ## Geography
 
@@ -92,7 +92,7 @@ _adjective_: Kyrgyzstani<br>
 Kyrgyz 73.8%, Uzbek 14.8%, Russian 5.1%, Dungan 1.1%, other 5.2% (includes Uyghur, Tajik, Turk, Kazakh, Tatar, Ukrainian, Korean, German) (2021 est.)<br>
 
 **Languages**<br>
-Kyrgyz (official) 71.4%, Uzbek 14.4%, Russian (official) 9%, other 5.2% (2009 est.)<br>
+Kyrgyz (state language) 71.4%, Uzbek 14.4%, Russian (official language) 9%, other 5.2% (2009 est.)<br>
 _major-language sample(s)_: <br>Дүйнөлүк фактылар китеби, негизги маалыматтын маанилүү булагы. (Kyrgyz)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -235,11 +235,6 @@ _total_: 14 years<br>
 _male_: 13 years<br>
 _female_: 14 years (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.3% (2021 est.)<br>
-_male_: 15.6%<br>
-_female_: 27.3%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -302,7 +297,6 @@ _conventional long form_: Kyrgyz Republic<br>
 _conventional short form_: Kyrgyzstan<br>
 _local long form_: Kyrgyz Respublikasy<br>
 _local short form_: Kyrgyzstan<br>
-_former_: Kirghiz Soviet Socialist Republic<br>
 _etymology_: a combination of the Turkic words "kyrg" (forty) and "-yz" (tribes) with the Persian suffix "-stan" (country) creating the meaning "Land of the Forty Tribes"; the name refers to the 40 clans united by the mythic Kyrgyz hero, MANAS<br>
 
 **Government type**<br>
@@ -354,7 +348,7 @@ _election results_: <em><br>2021:</em> Sadyr JAPAROV elected president in first 
 **Legislative branch**<br>
 _description_: unicameral Supreme Council or Jogorku Kenesh (90 seats statutory, current 88; 54 seats allocated for proportional division among political party lists from the national vote and 36 seats allocated for candidates running in single-seat constituencies; members serve 5-year terms; parties must receive 5% of the vote to win seats in the Council)<br>
 _elections_: last held on 28 November 2021 (next to be held in 2026)<br>
-_election results_: percent of vote by party - Ata-Jurt Kyrgyzstan or AJK 17.3%, Ishenim 15%, Yntymak 12.1%, Alyns 9.2%, Butun Kyrgyzstan 7.8%, Yiman Nuru 6.8%, other 30%; seats by party - AJK 15, Ishenim 12, Yntymak 9, Alyns 7, Butun Kyrgyzstan 6, Yiman Nuru 5, other 36; composition - men 70, women 18, percent of women 20%<br>
+_election results_: percent of vote by party - Ata-Jurt Kyrgyzstan or AJK 17.3%, Ishenim 15%, Yntymak 12.1%, Alyans 9.2%, Butun Kyrgyzstan 7.8%, Yiman Nuru 6.8%, other 30%; seats by party - AJK 15, Ishenim 12, Yntymak 9, Alyns 7, Butun Kyrgyzstan 6, Yiman Nuru 5, other 36; composition - men 70, women 18, percent of women 20%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 25 judges); Constitutional Chamber of the Supreme Court (consists of the chairperson, deputy chairperson, and 9 judges)<br>
@@ -456,11 +450,6 @@ small machinery, textiles, food processing, cement, shoes, lumber, refrigerators
 
 **Labor force**<br>
 2.478 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 48%<br>
-_industry_: 12.5%<br>
-_services_: 39.5% (2005 est.)<br>
 
 **Unemployment rate**<br>
 9.1% (2021 est.)<br>
@@ -618,12 +607,12 @@ _total subscriptions_: 8.5 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 130 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the country&rsquo;s telecom sector (specifically the mobile segment) has been able to prosper; Kyrgyzstan has opened up its telecom market to competition; the mobile market has achieved high levels of penetration (140% in 2021) along with a fairly competitive operating environment with four major players; mobile broadband has come along strongly, reaching over 125% penetration in 2019 before falling back slightly during the Covid-19 crisis; slow-to-moderate growth is expected for both segments in coming years, supported by the anticipated rollout of 5G services which began testing in 2022 with a pilot service to follow some time in 2023 (2022)<br>
+_general assessment_: the country&rsquo;s telecom sector (specifically the mobile segment) has been able to prosper; Kyrgyzstan has opened up its telecom market to competition; the mobile market has achieved high levels of penetration (140% in 2021) along with a fairly competitive operating environment with four major players; mobile broadband has come along strongly, reaching over 125% penetration in 2019 before falling back slightly during the COVID-19 crisis; slow-to-moderate growth is expected for both segments in coming years, supported by the anticipated rollout of 5G services which began testing in 2022 with a pilot service to follow some time in 2023 (2022)<br>
 _domestic_: fixed-line subscriptions 5 per 100; mobile-cellular subscribership up to over 130 per 100 persons (2021)<br>
 _international_: country code - 996; connections with other CIS (Commonwealth of Independent States, 9 members post-Soviet Republics in EU) countries by landline or microwave radio relay and with other countries by leased connections with Moscow international gateway switch and by satellite; satellite earth stations - 2 (1 Intersputnik, 1 Intelsat) (2019)<br>
 
 **Broadcast media**<br>
-state-funded public TV broadcaster KTRK has nationwide coverage; also operates Ala-Too 24 news channel which broadcasts 24/7 and&nbsp;4 other educational, cultural, and sports channels; ELTR and Channel 5 are&nbsp;state-owned stations with national reach; the switchover to digital TV in 2017 resulted in private TV station growth; approximately 20 stations are struggling to increase their own content up to 50% of airtime, as required by law, instead of rebroadcasting primarily&nbsp;programs from Russian channels&nbsp;or airing unlicensed movies and music; 3 Russian TV stations also broadcast; state-funded radio stations and about 10 significant private radio stations also exist (2019)<br>
+state-funded public TV broadcaster NTRK has nationwide coverage; also operates Ala-Too 24 news channel which broadcasts 24/7 and 4 other educational, cultural, and sports channels; ELTR is a state-owned TV station with national reach; the switchover to digital TV in 2017 resulted in private TV station growth; approximately 20 stations are struggling to increase their own Kyrgyz-language content up to 60% of airtime, as required by law, instead of rebroadcasting primarily programs from Russian channels or airing unlicensed movies and music; several Russian TV stations also broadcast; state-funded radio stations and about 10 significant private radio stations also exist (2023)<br>
 
 **Internet country code**<br>
 .kg<br>
@@ -689,7 +678,7 @@ Armed Forces of the Kyrgyz Republic: Land Forces, Air Defense Forces, National G
 approximately 15,000 active-duty troops (9,000 Land Forces; 3,000 Air Force/Air Defense; 3,000 National Guard) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Kyrgyz military inventory is comprised of mostly older Russian and Soviet-era equipment; Russia is the leading supplier of armaments (2023)<br>
+the Kyrgyz military inventory is comprised of mostly older Russian and Soviet-era equipment; Russia continues to be the leading supplier of armaments, although in recent years Kyrgyzstan has procured weapons systems from several other countries, including Belarus, Germany, and Turkey (2023)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory or voluntary service for men in the Armed Forces or Interior Ministry; 12-month service obligation (9 months for university graduates), with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2023)<br>
@@ -705,7 +694,7 @@ US-designated foreign terrorist groups such as the Islamic Jihad Union, the Isla
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Kyrgyzstan-China</em>: a 2009 treaty settled a border dispute, with Kyrgyzstan receiving the Khan Tengri Peak and Kyrgyzstan ceding to China the Uzengi-Kush area</p> <p><em>Kyrgyzstan-Kazakhstan</em>: in January 2019, Kyrgyzstan ratified the 2017 agreement on the demarcation of the Kyrgyzstan-Kazakhstan border</p> <p><em>Kyrgyzstan-Tajikistan</em>: as the last major Central Asian boundary dispute with lengthy undelimited sections, the lowland (NE part) of the Kyrgz-Tajik line seems intractable despite recent Kyrgyz-Uzbek compromises and agreements on delimitation and demarcation</p> <p><em>Kyrgyzstan-Uzbekistan</em>: delimitation of approximately 15% or 200 km of border with Uzbekistan is hampered by serious disputes over enclaves and other areas; Kyrgyz and Uzbek officials signed an agreement in March 2021 on the final delimitation and demarcation of the Kyrgyzstan-Uzbekistan border; the accord included several land swaps that gave Kyrgyzstan more territory but was offset by Uzbekistan retaining use of reservoirs on Kyrgyz land; although a Kyrgyz official returned from the March 2021 meetings and said the decades-old border dispute was 100% resolved, his talks with residents in some affected areas showed that agreement had not been reached on all border segments</p><br>
+<p><em>Kyrgyzstan-China</em>: a 2009 treaty settled a border dispute, with Kyrgyzstan receiving the Khan Tengri Peak and Kyrgyzstan ceding to China the Uzengi-Kush area</p> <p><em>Kyrgyzstan-Kazakhstan</em>: in January 2019, Kyrgyzstan ratified the 2017 agreement on the demarcation of the Kyrgyzstan-Kazakhstan border</p> <p><em>Kyrgyzstan-Tajikistan</em>: as the last major Central Asian boundary dispute with lengthy undelimited sections, agreement on the lowland (NE part) of the Kyrgz-Tajik line remains highly sensitive despite recent Kyrgyz-Uzbek agreements on delimiting short sections of their shared border </p> <p><em>Kyrgyzstan-Uzbekistan</em>: in January 2023, the presidents of Kyrgyzstan and Uzbekistan exchanged instruments of ratification for the treaty delineating their shared border</p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 482 (2022)<br>

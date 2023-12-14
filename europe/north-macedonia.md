@@ -222,11 +222,6 @@ _total_: 13 years<br>
 _male_: 13 years<br>
 _female_: 14 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 34.1% (2021 est.)<br>
-_male_: 31.6%<br>
-_female_: 38.4%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -440,11 +435,6 @@ food processing, beverages, textiles, chemicals, iron, steel, cement, energy, ph
 
 **Labor force**<br>
 916,200 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 16.2%<br>
-_industry_: 29.2%<br>
-_services_: 54.5% (2017 est.)<br>
 
 **Unemployment rate**<br>
 16.2% (2021 est.)<br>
@@ -687,7 +677,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,345 (Ukraine) (as of 1 October 2023)<br>
+_refugees (country of origin)_: 18,680 (Ukraine) (as of 14 November 2023)<br>
 _stateless persons_: 521 (2022)<br>
 <strong>note:</strong> 562,235 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 

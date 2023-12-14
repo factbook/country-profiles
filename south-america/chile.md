@@ -226,11 +226,6 @@ _total_: 17 years<br>
 _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 21.4% (2021 est.)<br>
-_male_: 20.4%<br>
-_female_: 22.8%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -446,11 +441,6 @@ copper, lithium, other minerals, foodstuffs, fish processing, iron and steel, wo
 
 **Labor force**<br>
 8.684 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 9.2%<br>
-_industry_: 23.7%<br>
-_services_: 67.1% (2013)<br>
 
 **Unemployment rate**<br>
 9.13% (2021 est.)<br>
@@ -708,7 +698,7 @@ the Chilean military is a professional volunteer force that is regarded as one o
 the Chilean Space Agency was established in 2001 and dissolved in 2014, at which time the space program became part of the Ministry of Defense; the Ministry of Science also participates in Chile&rsquo;s space program (2023)<br>
 
 **Space program overview**<br>
-has a space program with a considerable history and largely focused on the acquisition and operation of satellites; operates foreign-built satellites and satellite ground stations; building small remote sensing (RS) satellites; researching and developing additional capabilities and technologies associated with the production of satellites and satellite sub-systems; is a world leader in astronomy and astrophysics (Chile’s Atacama Desert, where the skies are exceptionally clear and dry for more than 300 days a year, is home to the Cerro Tololo Inter-American Observatory, the Las Campanas Observatory, and the European Southern Observatory); Chile is also home to several astronomy institutes; has established relations with space agencies and industries of Canada, China, France, India, Israel, Mexico, Russia, the UK, and the US (2023)<br>
+has a space program with a considerable history and largely focused on the acquisition and operation of satellites; operates foreign-built satellites and satellite ground stations; building small remote sensing (RS) satellites; researching and developing additional capabilities and technologies associated with the production of satellites and satellite sub-systems; is a world leader in astronomy and astrophysics (Chile’s Atacama Desert, where the skies are exceptionally clear and dry for more than 300 days a year, is home to more than a dozen astronomical observatories including the Cerro Tololo Inter-American Observatory, the Las Campanas Observatory, and the European Southern Observatory); Chile is also home to several astronomy institutes; has established relations with space agencies and industries of Canada, China, France, India, Israel, Mexico, Russia, the UK, and the US (2023)<br>
 <strong>note:</strong> further details about the key activities, programs, and milestones of the country’s space program, as well as government spending estimates on the space sector, appear in Appendix S<br>
 
 ## Transnational Issues

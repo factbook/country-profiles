@@ -566,12 +566,12 @@ _Total energy consumption per capita 2019_: 27.111 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 3 (2021 est.)<br>
+_total subscriptions_: 4,567 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 69,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 32 (2021 est.)<br>
+_total subscriptions_: 134,320 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 60 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Samoa was one of the first Pacific Island countries to establish a regulatory infrastructure and to liberalize its telecom market; the advent of competition in the mobile market saw prices fall by around 50% and network coverage increase to more than 90% of the population; Samoa also boasts one of the highest rates of mobile phone coverage in the Pacific region; the growth of fixed-line internet has been impeded by factors including the high costs for bandwidth, under investment in fixed-line infrastructure; Samoa&rsquo;s telecoms sector has been inhibited by a lack of international connectivity; Samoa has had access to the Samoa-America-Samoa (SAS) cable laid in 2009, this cable has insufficient capacity to meet the country&rsquo;s future bandwidth needs; this issue was addressed with two new submarine cables that became available in 2018 and 2019; combined with the Samoa National Broadband Highway (SNBH), have improved internet data rates and reliability, and have helped to reduce the high costs previously associated with internet access in Samoa; in April 2022, the Samoan government announced its decision to take over control of the Samoa Submarine Cable Company, looking to the cable to generate additional revenue for the state (2022)<br>

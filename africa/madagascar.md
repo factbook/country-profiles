@@ -238,11 +238,6 @@ _total_: 10 years<br>
 _male_: 10 years<br>
 _female_: 10 years (2018)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.8% (2021 est.)<br>
-_male_: 5.2%<br>
-_female_: 4.4%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -343,8 +338,8 @@ _residency requirement for naturalization_: unknown<br>
 _chief of state_: President Andry RAJOELINA (since 21 January 2019)<br>
 _head of government_: Prime Minister Christian NTSAY (since 6 June 2018)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 7 November and 19 December 2018 (next to be held on 16 November 2023); prime minister nominated by the National Assembly, appointed by the president<br>
-_election results_: <em><br>2018</em>: Andry RAJOELINA elected president in second round; percent of vote in first round - Andry RAJOELINA (TGV) 39.2%, Marc RAVALOMANANA (TIM) 35.4%, other 25.4%; percent of vote in second round - Andry RAJOELINA 55.7%, Marc RAVALOMANANA 44.3% <br><em><br>2013</em>: Hery Martial RAJAONARIMAMPIANINA elected president in second round; percent of vote in first round - Hery Martial RAJAONARIMAMPIANINA (HVM) 15.9%, Jean Louis ROBINSON (AVANA) 21.1%, other 63%; percent of vote in second round - Hery Martial RAJAONARIMAMPIANINA 53.5%, Jean Louis ROBINSON 46.5%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 16 November 2023 (next to be held in November 2028); prime minister nominated by the National Assembly, appointed by the president<br>
+_election results_: <em><br>2023</em>: Andry RAJOELINA elected president in first round; percent of vote - Andry RAJOELINA (TGV) 59.0%, Siteny Thierry RANDRIANASOLONIAIKO 14.3%, Marc RAVALOMANANA (TIM) 12.1%<br><em><br>2018</em>: Andry RAJOELINA elected president in second round; percent of vote in first round - Andry RAJOELINA (TGV) 39.2%, Marc RAVALOMANANA (TIM) 35.4%, other 25.4%; percent of vote in second round - Andry RAJOELINA 55.7%, Marc RAVALOMANANA 44.3%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Antenimierandoholona  (18 seats; 12 members indirectly elected by an electoral college of municipal, communal, regional, and provincial leaders and 6 appointed by the president; members serve 5-year terms)<br>National Assembly or Antenimierampirenena (151 seats; 87 members directly elected in single-seat constituencies by simple majority vote and 64 directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 5-year terms)<br>

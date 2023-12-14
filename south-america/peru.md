@@ -246,11 +246,6 @@ _total_: 15 years<br>
 _male_: 15 years<br>
 _female_: 15 years (2017)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.2% (2021 est.)<br>
-_male_: 9.2%<br>
-_female_: 13.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -475,11 +470,6 @@ mining and refining of minerals; steel, metal fabrication; petroleum extraction 
 **Labor force**<br>
 18.352 million (2021 est.)<br>
 <strong>note:</strong> individuals older than 14 years of age<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 25.8%<br>
-_industry_: 17.4%<br>
-_services_: 56.8% (2011)<br>
 
 **Unemployment rate**<br>
 4.83% (2021 est.)<br>

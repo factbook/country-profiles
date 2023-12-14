@@ -218,11 +218,6 @@ _total_: 19 years<br>
 _male_: 18 years<br>
 _female_: 19 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.4% (2021 est.)<br>
-_male_: 16.1%<br>
-_female_: 18.8%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -433,11 +428,6 @@ pharmaceuticals, chemicals, computer hardware and software, food products, bever
 
 **Labor force**<br>
 2.518 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 5%<br>
-_industry_: 11%<br>
-_services_: 84% (2015 est.)<br>
 
 **Unemployment rate**<br>
 6.63% (2021 est.)<br>
@@ -702,7 +692,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 97,505 (Ukraine) (as of 29 October 2023)<br>
+_refugees (country of origin)_: 101,530 (Ukraine) (as of 3 December 2023)<br>
 _stateless persons_: 7 (2022)<br>
 
 **Illicit drugs**<br>

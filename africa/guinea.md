@@ -239,11 +239,6 @@ _total_: 9 years<br>
 _male_: 10 years<br>
 _female_: 8 years (2014)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.2% (2021 est.)<br>
-_male_: 7%<br>
-_female_: 9.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -372,7 +367,7 @@ African Congress for Democracy and Renewal or CADRE [Daniel KOLIE]<br>Alliance f
 </h3><br>
 
 **International organization participation**<br>
-ACP, AfDB, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Fatoumata KABA (since 19 April 2023)  <p> </p><br>
@@ -459,10 +454,6 @@ bauxite, gold, diamonds, iron ore; light manufacturing, agricultural processing<
 
 **Labor force**<br>
 4.89 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 76%<br>
-_industry_: 24% (2006 est.)<br>
 
 **Unemployment rate**<br>
 6.34% (2021 est.)<br>

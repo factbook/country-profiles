@@ -244,11 +244,6 @@ _total_: 9 years<br>
 _male_: 8 years<br>
 _female_: 10 years (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 5% (2021 est.)<br>
-_male_: 3.5%<br>
-_female_: 7.5%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -375,7 +370,7 @@ _subordinate courts_: High Court of Justice (for crimes of high treason by the p
 African Patriots for Senegal for Work, Ethics and Fraternity [Ousmane SONKO]<br>Alliance for Citizenship and Work or ACT [Abdoul MBAYE]<br>Alliance for the Republic-Yakaar or APR [Macky SALL]<br>Alliance of Forces of Progress or AFP [Moustapha NIASSE]<br>And-Jef/African Party for Democracy and Socialism or AJ/PADS [Landing SAVANE]<br>Benno Bokk Yakaar or BBY (United in Hope) [Mahammed DIONNE] (coalition includes AFP, APR, BGC, LD-MPT, PIT, PS, and UNP)<br>Bokk Gis Gis coalition [Pape DIOP]<br>Citizen Movement for National Reform or MCRN-Bes Du Nakk [Mansour Sy DJAMIL]<br>Dare the Future movement [Aissata Tall SALL]<br>Democratic League-Labor Party Movement or LD-MPT [Mamadou NDOYE]<br>Democratic Renaissance Congress [NA]<br>Front for Socialism and Democracy/Benno Jubel or FSD/BJ [Cheikh Abdoulaye Bamba DIEYE]<br>Gainde Centrist Bloc or BCG [Jean-Paul DIAS Mendes]<br>General Alliance for the Interests of the Republic or AGIR [Thierno BOCOUM]<br>Grand Party or GP [Malick GAKOU]<br>Independence and Labor Party or PIT [Maguette THIAM]<br>Jotna Coalition [Dr Abdoulaye Niane]<br>Liberate the People (Yewwi Askan Wi) or YAW [Barthelemy DIAS, Ousmane SONKO, Khalifa SALL]<br>Madicke 2019 coalition [Madicke NIANG]<br>National Union for the People or UNP [Abdoul MBAYE]<br>Only Senegal Movement [Pierre Goudiaby ATEPA]<br>Party for Truth and Development or PVD [Cheikh Ahmadou Kara MBAKE]<br>Party of Unity and Rally or PUR [Cheikh Mouhamadou Moustapha SY]<br>Patriotic Convergence Kaddu Askan Wi or CP-Kaddu Askan Wi [Abdoulaye BALDE]<br>Rewmi Party [Idrissa SECK]<br>Save Senegal (Wallu Senegal Grand Coalition) or WS [Abdoulaye WADE] (coalition includes PDS, Jotna Coalition, Democratic Renaissance Congress)<br>Senegalese Democratic Party or PDS [Abdoulaye WADE]<br>Socialist Party or PS [Ousmane Tanor DIENG]<br>Tekki Movement [Mamadou Lamine DIALLO]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, CD, CPLP (associate), ECOWAS, EITI (candidate country), FAO, FZ, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, CD, CPLP (associate), ECOWAS, EITI (candidate country), FAO, FZ, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mansour Elimane KANE (since 6 January 2020)<br>
@@ -467,11 +462,6 @@ agricultural and fish processing, phosphate mining, fertilizer production, petro
 
 **Labor force**<br>
 4.377 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 77.5%<br>
-_industry_: 22.5%<br>
-_industry and services_: 22.5% (2007 est.)<br>
 
 **Unemployment rate**<br>
 3.72% (2021 est.)<br>
@@ -618,12 +608,12 @@ _Total energy consumption per capita 2019_: 9.221 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 261,440 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
+_total subscriptions_: 297,046 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 19,859,981 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 118 (2021 est.)<br>
+_total subscriptions_: 20,854,830 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 120 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Senegal&rsquo;s telecom market continues to show steady growth in all sectors; this has been supported by the particular demands made on consumers during the pandemic, which resulted in a particularly strong increase in the number of subscribers; the mobile subscriber base increased 6.7% in 2020, year-on-year, and by 4.1% in 2021, while the number of fixed broadband subscribers increased 17.5% year-on-year in 2021; mobile internet platforms account for the vast majority of all internet accesses; quality of service issues continue to plague the market, with the regulator periodically issuing fines to the market players (2022)<br>
@@ -702,7 +692,7 @@ Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army, Senegale
 1.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 11,000 National Gendarmerie) (2023)<br>
+approximately 27,000 active personnel (13,000 Army; 1,500 Navy/Coast Guard; 1,500 Air Force; 11,000 National Gendarmerie) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAS inventory includes mostly older or secondhand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program and has received small amounts of newer equipment from more than 10 countries, with France as the leading supplier (2023)<br>

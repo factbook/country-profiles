@@ -219,11 +219,6 @@ _total population_: 91%<br>
 _male_: 96.7%<br>
 _female_: 85.6% (2015)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 50.5% (2021 est.)<br>
-_male_: 41.4%<br>
-_female_: 73.8%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -351,12 +346,12 @@ _FAX_: [1] (202) 944-9606<br>
 _email address and website_: <br>info@embassyoflibyadc.com<br><br>https://www.embassyoflibyadc.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Ambassador Richard B. NORLAND, US Special Envoy for Libya (since 8 September 2022)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Jeremy BERNDT (since 9 October 2023)<br>
 _embassy_: operations suspended<br>
 _mailing address_: 8850 Tripoli Place, Washington, DC&nbsp; 20521-8850<br>
 _telephone_: [216] 71-107-000<br>
-_email address and website_: <br>LibyaACS@state.gov<br><br>https://ly.usembassy.gov/<br>
-<strong>note:</strong> the US Embassy in Tripoli closed in July 2014 due to fighting near the embassy related to Libyan civil unrest; embassy staff and operations temporarily first relocated to Valetta, Malta and currently are temporarily relocated to Tunis, Tunisia<br>
+_email address and website_: <br>Webmaster_Libya@state.gov<br><br>https://ly.usembassy.gov/<br>
+<strong>note:</strong> the US Embassy in Tripoli closed in July 2014 due to Libyan civil unrest; embassy staff and operations currently are located at US Embassy Tunis, Tunisia<br>
 
 **Flag description**<br>
 three horizontal bands of red (top), black (double width), and green with a white crescent and star centered on the black stripe; the National Transitional Council reintroduced this flag design of the former Kingdom of Libya (1951-1969) on 27 February 2011; it replaced the former all-green banner promulgated by the QADHAFI regime in 1977; the colors represent the three major regions of the country: red stands for Fezzan, black symbolizes Cyrenaica, and green denotes Tripolitania; the crescent and star represent Islam, the main religion of the country<br>
@@ -426,11 +421,6 @@ petroleum, petrochemicals, aluminum, iron and steel, food processing, textiles, 
 
 **Labor force**<br>
 2.28 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 17%<br>
-_industry_: 23%<br>
-_services_: 59% (2004 est.)<br>
 
 **Unemployment rate**<br>
 19.58% (2021 est.)<br>

@@ -223,11 +223,6 @@ _total_: 17 years<br>
 _male_: 17 years<br>
 _female_: 17 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.1% (2021 est.)<br>
-_male_: 20.6%<br>
-_female_: 26.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -346,7 +341,7 @@ _subordinate courts_: Supreme Administrative Court (Supremo Tribunal Administrat
 Democratic Alliance (2022 electoral alliance in the Azores, includes PSD, CDS-PP, PPM)<br>Democratic and Social Center/People's Party (Partido do Centro Democratico Social-Partido Popular) or CDS-PP [Nuno MELO]<br>Ecologist Party "The Greens" or "Os Verdes" (Partido Ecologista-Os Verdes) or PEV [Heloisa APOLONIA]<br>Enough (Chega) [Andre VENTURA]<br>Liberal Initiative (Iniciativa Liberal) or IL [Joao COTRIM DE FIGUEIREDO]<br>Madeira First (2022 electoral alliance in Madeira, includes PSD, CDS-PP)<br>People-Animals-Nature Party (Pessoas-Animais-Natureza) or PAN [Ines SOUSA REAL]<br>People's Monarchist Party or PPM [Gonçalo DA CAMARA PEREIRA]<br>Portuguese Communist Party (Partido Comunista Portugues) or PCP [Jeronimo DE SOUSA]<br>Social Democratic Party (Partido Social Democrata) or PSD [Luis MONTENEGRO] (formerly the Partido Popular Democratico or PPD)<br>Socialist Party (Partido Socialista) or PS [Paulo RAIMUNDO]<br>The Left Bloc (Bloco de Esquerda) or BE or O Bloco [Catarina MARTINS]<br>Unitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU [Jeronimo DE SOUSA] (includes PCP and PEV)<br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Francisco Antonio DUARTE LOPES (since 7 June 2022)<br>
@@ -441,11 +436,6 @@ textiles, clothing, footwear, wood and cork, paper and pulp, chemicals, fuels an
 
 **Labor force**<br>
 5.174 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 8.6%<br>
-_industry_: 23.9%<br>
-_services_: 67.5% (2014 est.)<br>
 
 **Unemployment rate**<br>
 6.65% (2021 est.)<br>

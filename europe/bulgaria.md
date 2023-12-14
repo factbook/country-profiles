@@ -88,15 +88,15 @@ _noun_: Bulgarian(s)<br>
 _adjective_: Bulgarian<br>
 
 **Ethnic groups**<br>
-Bulgarian 76.9%, Turkish 8%, Romani 4.4%, other 0.7% (including Russian, Armenian, and Vlach), other (unknown) 10% (2011 est.)<br>
+Bulgarian 78.5%, Turkish 7.8%, Roma 4.1%, other 1.2%, unspecified 9.4% (2021 est.)<br>
 <strong>note:</strong> Romani populations are usually underestimated in official statistics and may represent 9–11% of Bulgaria's population<br>
 
 **Languages**<br>
-Bulgarian (official) 76.8%, Turkish 8.2%, Romani 3.8%, other 0.7%, unspecified 10.5% (2011 est.)<br>
+Bulgarian (official) 77.3%, Turkish 7.9%, Romani 3.5%, other 1%, unspecified 10.4% (2021 est.)<br>
 _major-language sample(s)_: <br>Светoвен Алманах, незаменимият източник за основна информация. (Bulgarian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Eastern Orthodox 59.4%, Muslim 7.8%, other (including Catholic, Protestant, Armenian Apostolic Orthodox, and Jewish) 1.7%, none 3.7%, unspecified 27.4% (2011 est.)<br>
+Christian 64.7%, Muslim 9.8%, other 0.1%, none 4.7%, unspecified 20.7% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 14.03% (male 492,147/female 465,612)<br>
@@ -227,11 +227,6 @@ _female_: 98.2% (2021)<br>
 _total_: 14 years<br>
 _male_: 13 years<br>
 _female_: 14 years (2020)<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.2% (2021 est.)<br>
-_male_: 14.3%<br>
-_female_: 14%<br>
 
 ## Environment
 
@@ -451,11 +446,6 @@ electricity, gas, water; food, beverages, tobacco; machinery and equipment, auto
 **Labor force**<br>
 3.291 million (2021 est.)<br>
 <strong>note:</strong> number of employed persons<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 6.8%<br>
-_industry_: 26.6%<br>
-_services_: 66.6% (2016 est.)<br>
 
 **Unemployment rate**<br>
 5.42% (2021 est.)<br>
@@ -745,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 52,245 (Ukraine) (as of 7 November 2023)<br>
+_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 51,975 (Ukraine) (as of 5 December 2023)<br>
 _stateless persons_: 1,129 (2022)<br>
 <strong>note:</strong> 100,671 estimated refugee and migrant arrivals (January 2015-August 2023); Bulgaria is predominantly a transit country<br>
 

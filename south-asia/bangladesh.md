@@ -238,11 +238,6 @@ _total_: 12 years<br>
 _male_: 12 years<br>
 _female_: 13 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.7% (2021 est.)<br>
-_male_: 12.5%<br>
-_female_: 19.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -369,7 +364,7 @@ _subordinate courts_: civil courts include: Assistant Judge's Court; Joint Distr
 Awami League or AL [Sheikh HASINA]<br>Bangladesh Jamaat-i-Islami or JIB [Shafiqur RAHMAN]<br>Bangladesh Nationalist Front or BNF [S. M. Abul Kalam AZAD]<br>Bangladesh Nationalist Party or BNP [Tarique RAHMAN, acting chairperson; Begum  Khaleda ZIA]<br>Bangladesh Tariqat Federation or BTF [Syed Nozibul Bashar MAIZBHANDARI]<br>Jatiya Party or JP (Ershad faction) [Rowshan ERSHAD]<br>Jatiya Party or JP (Manju faction) [Anwar Hossain MANJU]<br>Liberal Democratic Party or LDP [Oli AHMED]<br>National Socialist Party (Jatiya Samajtantrik Dal) or JSD [Hasanul Haque INU]<br>Workers Party or WP [Rashed Khan MENON]<br>
 
 **International organization participation**<br>
-ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNIFIL, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNIFIL, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Muhammad IMRAN (since 12 December 2022)<br>
@@ -463,11 +458,6 @@ jute, cotton, garments, paper, leather, fertilizer, iron and steel, cement, petr
 **Labor force**<br>
 70.961 million (2021 est.)<br>
 <strong>note:</strong> extensive migration of labor to Saudi Arabia, Kuwait, UAE, Oman, Qatar, and Malaysia<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 42.7%<br>
-_industry_: 20.5%<br>
-_services_: 36.9% (2016 est.)<br>
 
 **Unemployment rate**<br>
 5.23% (2021 est.)<br>

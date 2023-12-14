@@ -226,11 +226,6 @@ _total_: 16 years<br>
 _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.6% (2021 est.)<br>
-_male_: 6.9%<br>
-_female_: 8.7%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -447,11 +442,6 @@ motor vehicles, metallurgy, machinery and equipment, glass, armaments<br>
 
 **Labor force**<br>
 5.266 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 2.8%<br>
-_industry_: 38%<br>
-_services_: 59.2% (2015)<br>
 
 **Unemployment rate**<br>
 2.89% (2021 est.)<br>
@@ -715,7 +705,7 @@ the Czech military is a professional force responsible for national and territor
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 369,550 (Ukraine) (as of 19 November 2023)<br>
+_refugees (country of origin)_: 370,815 (Ukraine) (as of 26 November 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

@@ -230,11 +230,6 @@ _total_: 20 years<br>
 _male_: 18 years<br>
 _female_: 21 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.5% (2021 est.)<br>
-_male_: 26.1%<br>
-_female_: 23%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -353,7 +348,7 @@ _subordinate courts_: first instance, appellate, general, and administrative cou
 Center Party (Centerpartiet) or C [Muharrem DEMIROK]<br>Christian Democrats (Kristdemokraterna) or KD [Ebba BUSCH]<br>Green Party (Miljopartiet de Grona) or MP [Marta STEVENI and Per BOLUND]<br>Left Party (Vansterpartiet) or V [Nooshi DADGOSTAR]<br>Moderate Party (Moderaterna) or M [Ulf KRISTERSSON]<br>Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]<br>Swedish Social Democratic Party (Socialdemokraterna) or S/SAP [Magdalena ANDERSSON]<br>The Liberals (Liberalerna) or L [Johan PEHRSON]<br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNMOGIP, UNOOSA, UNRWA, UN Security Council (temporary), UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNMOGIP, UNOOSA, UNRWA, UN Security Council (temporary), UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Urban AHLIN (since 15 September 2023)<br>
@@ -446,11 +441,6 @@ iron and steel, precision equipment (bearings, radio and telephone parts, armame
 
 **Labor force**<br>
 5.556 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 2%<br>
-_industry_: 12%<br>
-_services_: 86% (2014 est.)<br>
 
 **Unemployment rate**<br>
 8.66% (2021 est.)<br>
@@ -744,6 +734,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 41,375 (Ukraine) (as of 9 November 2023)<br>
+_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 41,520 (Ukraine) (as of 30 November 2023)<br>
 _stateless persons_: 46,515 (2022); note - the majority of stateless people are from the Middle East and Somalia<br>
 

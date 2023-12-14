@@ -241,11 +241,6 @@ _total_: 13 years<br>
 _male_: 14 years<br>
 _female_: 12 years (2017)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.7% (2021 est.)<br>
-_male_: 12.3%<br>
-_female_: 7.7%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -365,7 +360,7 @@ _subordinate courts_: Court of Assizes (sessions court); Appeal Court; tribunals
 Action Committee for Renewal or CAR [Dodji APEVON]<br>Alliance of Democrats for Integral Development or ADDI [Tchaboure GOGUE]<br>Democratic Convention of African Peoples or CDPA [Léopold GNININVI]<br>Democratic Forces for the Republic or FDR [Dodji APEVON]<br>National Alliance for Change or ANC [Jean-Pierre FABRE]<br>New Togolese Commitment [Gerry TAAMA]<br>Pan-African National Party or PNP [Tikpi ATCHADAM]<br>Pan-African Patriotic Convergence or CPP (vacant)<br>Patriotic Movement for Democracy and Development or MPDD [Agbeyome KODJO] <br>Socialist Pact for Renewal or PSR [Abi TCHESSA]<br>The Togolese Party [Nathaniel OLYMPIO]<br>Union of Forces for Change or UFC [Jean-Pierre FABRE]<br>Union for the Republic or UNIR [Faure GNASSINGBE]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Frederic Edem HEGBE (since 24 April 2017)<br>
@@ -457,11 +452,6 @@ phosphate mining, agricultural processing, cement, handicrafts, textiles, bevera
 
 **Labor force**<br>
 2.965 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 65%<br>
-_industry_: 5%<br>
-_services_: 30% (1998 est.)<br>
 
 **Unemployment rate**<br>
 4% (2021 est.)<br>

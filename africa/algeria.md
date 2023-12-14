@@ -229,11 +229,6 @@ _total population_: 81.4%<br>
 _male_: 87.4%<br>
 _female_: 75.3% (2018)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 31.9% (2021 est.)<br>
-_male_: 27.8%<br>
-_female_: 54%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -446,11 +441,6 @@ petroleum, natural gas, light industries, mining, electrical, petrochemical, foo
 
 **Labor force**<br>
 12.312 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 10.8%<br>
-_industry_: 30.9%<br>
-_services_: 58.4% (2011 est.)<br>
 
 **Unemployment rate**<br>
 12.7% (2021 est.)<br>

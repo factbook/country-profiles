@@ -224,11 +224,6 @@ _total_: 15 years<br>
 _male_: 13 years<br>
 _female_: 16 years (2015)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.5% (2021 est.)<br>
-_male_: 17.1%<br>
-_female_: 46.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -437,11 +432,6 @@ petroleum, petrochemicals, cement, shipbuilding and repair, water desalination, 
 **Labor force**<br>
 2.363 million (2021 est.)<br>
 <strong>note:</strong> non-Kuwaitis represent about 60% of the labor force<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: NA<br>
-_industry_: NA<br>
-_services_: NA<br>
 
 **Unemployment rate**<br>
 3.71% (2021 est.)<br>

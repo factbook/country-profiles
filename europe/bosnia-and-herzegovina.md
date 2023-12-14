@@ -220,11 +220,6 @@ _total_: 14 years<br>
 _male_: 14 years<br>
 _female_: 15 years (2014)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 32.9% (2021 est.)<br>
-_male_: 28.2%<br>
-_female_: 39.9%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -347,7 +342,7 @@ _subordinate courts_: the Federation has 10 cantonal courts plus a number of mun
 Alliance of Independent Social Democrats or SNSD [Milorad DODIK]<br>Bosnian-Herzegovinian Initiative or BHI KF [Fuad KASUMOVIC]<br>Civic Alliance or GS [Reuf BAJROVIC]<br>Croatian Democratic Union of Bosnia and Herzegovina or HDZ-BiH [Dragan COVIC]<br>Democratic Front or DF [Zeljko KOMSIC]<br>Democratic Union or DEMOS [Nedeljko CUBRILOVIC]<br>For Justice and Order [Nebojsa VUKANOVIC]<br>Our Party or NS/HC [Edin FORTO]<br>Party for Democratic Action or SDA [Bakir IZETBEGOVIC]<br>Party of Democratic Progress or PDP [Branislav BORENOVIC]<br>People and Justice Party or NiP [Elmedin KONAKOVIC]<br>People's European Union of Bosnia and Herzegovina or NES [Nermin OGRESEVIC]<br>Serb Democratic Party or SDS [Milan MILICEVIC]<br>Social Democratic Party or SDP [Nermin NIKSIC]<br>United Srpska or US [Nenad STEVANDIC]<br>
 
 **International organization participation**<br>
-BIS, CD, CE, CEI, EAPC, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM (observer), OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
+BIS, CD, CE, CEI, EAPC, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM (observer), OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
 <strong>note</strong>: Bosnia-Herzegovina is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
@@ -442,11 +437,6 @@ steel, coal, iron ore, lead, zinc, manganese, bauxite, aluminum, motor vehicle a
 
 **Labor force**<br>
 1.169 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 18%<br>
-_industry_: 30.4%<br>
-_services_: 51.7% (2017 est.)<br>
 
 **Unemployment rate**<br>
 15.22% (2021 est.)<br>

@@ -226,11 +226,6 @@ _total_: 7 years<br>
 _male_: 7 years<br>
 _female_: 7 years (2011)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 79.9% (2021 est.)<br>
-_male_: 78.6%<br>
-_female_: 82.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -433,11 +428,6 @@ construction, agricultural processing, shipping<br>
 
 **Labor force**<br>
 240,500 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: NA<br>
-_industry_: NA<br>
-_services_: NA<br>
 
 **Unemployment rate**<br>
 28.39% (2021 est.)<br>
@@ -687,7 +677,7 @@ al-Shabaab<br>
 <p><em>Djibouti-Somalia:</em> Djibouti maintains economic ties and border accords with "Somaliland" leadership while maintaining some political ties to various factions in Somalia</p> <p><em>Djibouti-Eritrea:</em> in 2008, Eritrean troops moved across the border on Ras Doumera peninsula and occupied Doumera Island with undefined sovereignty in the Red Sea, sparking a brief conflict; Qatar mediated and provided peacekeepers until 2017; Djibouti accused Eritrea of reoccupying the area in 2017 after Qatari troops were withdrawn; Djibouti and Eritrea agreed to normalize relations in 2018</p> <p><em>Djibouti-Ethiopia:</em> the Ethiopia-Djibouti relationship has been relatively harmonious, and there have been no major disputes along their shared border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 13,329 (Somalia) (2023); 6,518 (Yemen) (mid-year 2022)<br>
+_refugees (country of origin)_: 13,434 (Somalia) (2023); 6,518 (Yemen) (mid-year 2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Djibouti does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; Djibouti partnered with international experts to expand training, formalized standard operating procedures for victim identification, enhanced a partnership with an international organization to develop victim referral procedures for transiting migrants, appointed a government focal point and inter-ministerial task force to combat human trafficking, and conducted awareness campaigns; however, the government did not demonstrate overall increasing efforts to improve its anti-trafficking capacity; the government did not convict any traffickers for the fifth consecutive year, and judges continue to use outdated versions of the penal code that do not include the 2016 anti-trafficking law; officials did not identify any trafficking victims for the third consecutive year and lacked formal services for victims; despite training, some front-line officials&rsquo; limited understanding of trafficking continued to inhibit law enforcement and victim identification; for the seventh consecutive year, the government only partially implemented its 2015-2022 national action plan; therefore, Djibouti remained on Tier 2 Watch List for the second consecutive year (2022)<br>

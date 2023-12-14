@@ -230,11 +230,6 @@ _total population_: 48.3%<br>
 _male_: 62.7%<br>
 _female_: 34.1% (2017)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.2% (2021 est.)<br>
-_male_: 3.2%<br>
-_female_: 3.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -349,7 +344,7 @@ _subordinate courts_: judicial circuit courts; special courts, including crimina
 All Liberian Party or ALP [Benoni UREY]<br>Alliance for Peace and Democracy or APD [vacant]<br>Alternative National Congress or ANC [Alexander B. CUMMINGS, JR]<br>Coalition for Democratic Change [George WEAH] (includes CDC, NPP, and LPDP) Congress for Democratic Change or CDC [George WEAH]<br>Liberia Destiny Party or LDP [Nathaniel BARNES]<br>Liberia National Union or LINU [Dr. Clarence K. MONIBA]<br>Liberia Transformation Party or LTP [Kennedy SANDY]<br>Liberian People Democratic Party or LPDP [Alex J. TYLER]<br>Liberian People's Party or LPP [Henry FAHNBULLEH, JR] <br>Liberty Party or LP [Charles Brumskine]<br>Movement for Democracy and Reconstruction or MDR [Prince Y. JOHNSON]<br>Movement for Economic Empowerment [Joseph JONES]<br>Movement for Progressive Change or MPC [Simeon FREEMAN]<br>National Democratic Coalition or NDC [Dew MAYSON]<br>National Democratic Party of Liberia or NDPL [D. Nyandeh SIEH]<br>National Patriotic Party or NPP [Jewel HOWARD TAYLOR]<br>National Reformist Party or NRP [Maximillian T. W. DIABE]<br>National Union for Democratic Progress or NUDP [Victor BARNEY]<br>People's Unification Party or PUP [Isobe GBORKORKOLLIE]<br>Unity Party or UP [Josephe BOKAI]<br>United People's Party [MacDonald WENTO]<br>Victory for Change Party or VCP [Marcus R. JONES]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+ACP, AfDB, AU, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jeff Gongoer DOWANA (since 12 December 2022)<br>
@@ -432,11 +427,6 @@ mining (iron ore and gold), rubber processing, palm oil processing, diamonds<br>
 
 **Labor force**<br>
 2.289 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 70%<br>
-_industry_: 8%<br>
-_services_: 22% (2000 est.)<br>
 
 **Unemployment rate**<br>
 4.09% (2021 est.)<br>

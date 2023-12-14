@@ -229,11 +229,6 @@ _total_: 16 years<br>
 _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 19% (2021 est.)<br>
-_male_: 18.5%<br>
-_female_: 19.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -447,11 +442,6 @@ metal-cutting machine tools, electric motors, televisions, refrigerators and fre
 
 **Labor force**<br>
 1.476 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 9.1%<br>
-_industry_: 25.2%<br>
-_services_: 65.8% (2015 est.)<br>
 
 **Unemployment rate**<br>
 7.9% (2021 est.)<br>
@@ -726,7 +716,7 @@ has a small but growing space program; operates satellites; manufactures small s
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 50,690 (Ukraine) (as of 10 November 2023)<br>
+_refugees (country of origin)_: 51,810 (Ukraine) (as of 4 December 2023)<br>
 _stateless persons_: 2,720 (2022)<br>
 
 **Illicit drugs**<br>

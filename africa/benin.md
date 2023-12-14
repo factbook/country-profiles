@@ -240,11 +240,6 @@ _total_: 11 years<br>
 _male_: 12 years<br>
 _female_: 10 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.9% (2021 est.)<br>
-_male_: 3.1%<br>
-_female_: 4.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -365,7 +360,7 @@ African Movement for Development and Progress or MADEP [Sefou FAGBOHOUN]<br>Beni
 <strong>note:</strong> approximately 20 additional minor parties<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, CD, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, CD, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jean-Claude Felix DO REGO (since 17 July 2020)<br>

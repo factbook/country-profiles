@@ -226,11 +226,6 @@ _total population_: 52.9%<br>
 _male_: 67%<br>
 _female_: 39.9% (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.8% (2021 est.)<br>
-_male_: 11.6%<br>
-_female_: 14.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -329,14 +324,14 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Umaro Sissoko EMBALO (since 27 February 2020); note - President EMBALO was declared winner of the 29 December 2019 runoff presidential election by the electoral commission, in late February 2020, EMBALO inaugurated himself with only military leadership present, even though the Supreme Court of Justice had yet to rule on an electoral litigation appeal lodged by his political rival Domingos Simoes PEREIRA<br>
-_head of government_: Prime Minister Nuno NABIAM (since 27 February 2020)<br>
+_head of government_: Prime Minister Geraldo MARTINS (since 12 December 2023) note- on 4 December 2023 the president dissolved the parliament and dismissed Prime Minister MARTINS, reappointing him on 12 December with new elections held at a future date<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for up to 2 consecutive 5-year terms; election last held on 24 November 2019 with a runoff on 29 December 2019 (next to be held in 2024); prime minister appointed by the president after consultation with party leaders in the National People's Assembly; note - the president cannot apply for a third consecutive term<br>
 _election results_: Umaro Sissoco EMBALO elected president in second round; percent of vote in first round - Domingos Simoes PEREIRA (PAIGC) 40.1%, Umaro Sissoco EMBALO (Madem G15) 27.7%, Nuno Gomez NABIAM (APU-PDGB) 13.2%, Jose Mario VAZ (independent) 12.4%, other 6.6%; percent of vote in second round - Umaro Sissoco EMBALO 53.6%, Domingos Simoes PEREIRA 46.5% (2019)<br>
 
 **Legislative branch**<br>
 _description_: unicameral National People's Assembly or Assembleia Nacional Popular (102 seats; 100 members directly elected in 27 multi-seat constituencies by closed party-list proportional representation vote and 2 elected in single-seat constituencies for citizens living abroad (Africa 1, Europe 1); all members serve 4-year terms)<br>
-_elections_: last election held 4 June 2023 (next election on 30 June 2027)<br>
+_elections_: last election held 4 June 2023 (next election on 30 June 2027) note: on 4 December 2023 the president dissolved the parliament with new elections held at a future date<br>
 _election results_: percent of vote by party - PAIGC 39.4%, Madem G-15 21.1%, PRS 14.9%, other 12.5%; seats by party - PAIGC 54, Madem G-15 29, PRS- 12, other 7; composition - men 92, women 10, percent of women 9.8%<br>
 
 **Judicial branch**<br>
@@ -424,10 +419,6 @@ agricultural products processing, beer, soft drinks<br>
 
 **Labor force**<br>
 867,500 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 82%<br>
-_industry and services_: 18% (2000 est.)<br>
 
 **Unemployment rate**<br>
 6.76% (2021 est.)<br>

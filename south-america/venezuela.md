@@ -226,11 +226,6 @@ _total population_: 97.5%<br>
 _male_: 97.4%<br>
 _female_: 97.7% (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.9% (2021 est.)<br>
-_male_: 13.4% NA<br>
-_female_: 19.3% NA<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -440,11 +435,6 @@ agricultural products, livestock, raw materials, machinery and equipment, transp
 
 **Labor force**<br>
 10.245 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 7.3%<br>
-_industry_: 21.8%<br>
-_services_: 70.9% (4th quarter, 2011 est.)<br>
 
 **Unemployment rate**<br>
 6.41% (2021 est.)<br>
@@ -711,7 +701,7 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia-People's 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Venezuela-Brazil</em>: none identified</p> <p><em>Venezuela-Colombia</em>: dispute with Colombia over maritime boundary and Venezuelan administered Los Monjes Islands near the Gulf of Venezuela; Colombian-organized illegal narcotics and paramilitary activities penetrate Venezuela's shared border region; the border between the two countries was closed from March 2020 to October 2021 due to COVID, but goods and people fleeing poverty and violence continued to be smuggled from Venezuela into Colombia, and illegal narcotics and armed men flowed into Venezuela from Colombia; since the FARC disarmed in 2016, some former members have formed armed dissident groups that operate along the border</p> <p><em>Venezuela-Guyana</em>: claims all of the area west of the Essequibo River in Guyana, preventing any discussion of a maritime boundary; Guyana has expressed its intention to join Barbados in asserting claims before the UN Convention on the Law of the Sea that Trinidad and Tobago's maritime boundary with Venezuela extends into their waters; in 2018, Guyana initiated proceedings against Venezuela with the International Court of Justice (ICJ); Venezuela requested a direct dialogue to settle the dispute; the ICJ ruled that it had jurisdiction to hear the case in December 2020; in September 2021, Venezuelan officials issued a statement reasserting dominion over three-quarters of Guyana, which Guyana stated was a threat to its sovereignty and territorial integrity; in December 2023, the Venezuelan Government conducted a public referendum asking its citizens to support establishing a state in the disputed territory, granting citizenship to current and future area residents, and rejecting the jurisdiction of the ICJ</p> <p><em>Venezuela-various:</em>  Venezuela claims Aves Island and thereby an economic exclusion Zone/continental shelf extending over a large portion of the eastern Caribbean Sea; Venezuela’s claim to Aves Island is disputed by Dominica and several other countries because the island has rich guano deposits useful in producing fertilizer and gunpowder, as well as large fish stocks and natural gas reserves; contraband smuggling (narcotics and arms), illegal migration, trafficking in animals, plants, lumber, illegal exploitation of mineral resources</p><br>
+<p><em>Venezuela-Brazil</em>: none identified</p> <p><em>Venezuela-Colombia</em>: dispute with Colombia over maritime boundary and Venezuelan administered Los Monjes Islands near the Gulf of Venezuela; Colombian-organized illegal narcotics and paramilitary activities penetrate Venezuela's shared border region; the border between the two countries was closed from March 2020 to October 2021 due to COVID, but goods and people fleeing poverty and violence continued to be smuggled from Venezuela into Colombia, and illegal narcotics and armed men flowed into Venezuela from Colombia; since the FARC disarmed in 2016, some former members have formed armed dissident groups that operate along the border</p> <p><em>Venezuela-Guyana</em>: claims all of the area west of the Essequibo River in Guyana, preventing any discussion of a maritime boundary; in 2018, Guyana initiated proceedings against Venezuela with the International Court of Justice (ICJ); Venezuela requested a direct dialogue to settle the dispute; the ICJ ruled that it had jurisdiction to hear the case in December 2020; in September 2021, Venezuelan officials issued a statement reasserting dominion over three-quarters of Guyana, which Guyana stated was a threat to its sovereignty and territorial integrity; in December 2023, the Venezuelan Government conducted a public referendum asking its citizens to support establishing a state in the disputed territory, granting citizenship to current and future area residents, and rejecting the jurisdiction of the ICJ</p> <p><em>Venezuela-various:</em>  Venezuela claims Aves Island and thereby an economic exclusion Zone/continental shelf extending over a large portion of the eastern Caribbean Sea; Venezuela’s claim to Aves Island is disputed by Dominica and several other countries because the island has rich guano deposits useful in producing fertilizer and gunpowder, as well as large fish stocks and natural gas reserves; contraband smuggling (narcotics and arms), illegal migration, trafficking in animals, plants, lumber, illegal exploitation of mineral resources</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 39,185 (Colombia) (mid-year 2022)<br>

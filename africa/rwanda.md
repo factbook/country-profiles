@@ -238,11 +238,6 @@ _total_: 11 years<br>
 _male_: 11 years<br>
 _female_: 11 years (2019)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 2.9% (2021 est.)<br>
-_male_: 2.2%<br>
-_female_: 3.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -349,12 +344,12 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Paul KAGAME (since 22 April 2000)<br>
 _head of government_: Prime Minister Edouard NGIRENTE (since 30 August 2017)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by simple majority popular -vote for a 5-year term (eligible for a second term); note - a constitutional amendment approved in December 2016 reduced the presidential term from 7 to 5 years but included an exception that allowed President KAGAME to serve another 7-year term in 2017, potentially followed by two additional 5-year terms; election last held on 4 August 2017 (next to be held in August 2024); prime minister appointed by the president<br>
+_elections/appointments_: president directly elected by simple majority popular -vote for a 5-year term (eligible for a second term); note - a constitutional amendment approved in December 2016 reduced the presidential term from 7 to 5 years but included an exception that allowed President KAGAME to serve another 7-year term in 2017, potentially followed by two additional 5-year terms; election last held on 4 August 2017 (next to be held in 15 July 2024); prime minister appointed by the president<br>
 _election results_: <br><em>2017:</em> Paul KAGAME reelected president; Paul KAGAME (RPF) 98.8%, Philippe MPAYIMANA (independent), other 1.2%<br><br><em>2010:</em> Paul KAGAME reelected president; Paul KAGAME (RPF) 93.1%, Jean NTAWUKURIRYAYO (PSD) 5.1%, other 1.8%  <p> </p><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br><br>Senate or Senat (26 seats; 12 members indirectly elected by local councils, 8 appointed by the president, 4 appointed by the Political Organizations Forum - a body of registered political parties, and 2 selected by institutions of higher learning; members serve 8-year terms)<br><br>Chamber of Deputies or Chambre des Deputes (80 seats; 53 members directly elected by proportional representation vote, 24 women selected by special interest groups, and 3 selected by youth and disability organizations; members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 16-18 September 2019 (next to be held in 2027)<br>Chamber of Deputies - last held on 3 September 2018 (next to be held in August 2024)<br>
+_elections_: <br>Senate - last held on 16-18 September 2019 (next to be held in 2027)<br>Chamber of Deputies - last held on 3 September 2018 (next to be held 15 July 2024)<br>
 _election results_: <p>Senate - percent of vote by party - NA; seats by party - NA; composition - men 17, women 9, percent of women 34.6%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - Rwandan Patriotic Front Coalition 40, PSD 5, PL 4, other 4 indirectly elected 27; composition - men 31, women 49, percent of women 54.7%; note - total Parliament percent of women 54.7%</p> <p> </p><br>
 
 **Judicial branch**<br>
@@ -455,11 +450,6 @@ cement, agricultural products, small-scale beverages, soap, furniture, shoes, pl
 
 **Labor force**<br>
 6.776 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 75.3%<br>
-_industry_: 6.7%<br>
-_services_: 18% (2012 est.)<br>
 
 **Unemployment rate**<br>
 1.61% (2021 est.)<br>
@@ -710,6 +700,6 @@ has a small program focused on developing and utilizing space technologies, such
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 79,606 (Democratic Republic of the Congo), 48,214 (Burundi) (2023)<br>
+_refugees (country of origin)_: 79,606 (Democratic Republic of the Congo), 48,300 (Burundi) (2023)<br>
 _stateless persons_: 9,500 (2022)<br>
 

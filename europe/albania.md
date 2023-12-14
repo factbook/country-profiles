@@ -233,11 +233,6 @@ _total_: 14 years<br>
 _male_: 13 years<br>
 _female_: 15 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.8% (2021 est.)<br>
-_male_: 28%<br>
-_female_: 27.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -346,7 +341,7 @@ _elections/appointments_: president indirectly elected by the Assembly for a 5-y
 _election results_: <em><br>2022: </em>Bajram BEGAJ elected president in the fourth round; Assembly vote - 78-4, opposition parties boycotted<br><em><br>2017:</em> Ilir META elected president in the fourth round; Assembly vote - 87-2<br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly or Kuvendi (140 seats; members directly elected in multi-seat constituencies by open party -list proportional representation vote using the D'Hondt method; members serve 4-year terms)<br>
+_description_: unicameral Assembly or Kuvendi (140 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote using the D'Hondt method; members serve 4-year terms)<br>
 _elections_: last held on 25 April 2021 (next to be held in 2025)<br>
 _election results_: <br>percent of vote by party/coalition - PS 48.7%, PD-Alliance for Change 39.4%, LSI 6.8%, PSD 2.3%, other 2.8%; seats by party/coalition - PS 74, PD-Alliance for Change 59, LSI 4, PSD 3; composition as of August 2023 - men 90, women 50, percent of women 35.7%<br>
 
@@ -452,11 +447,6 @@ food; footwear, apparel and clothing; lumber, oil, cement, chemicals, mining, ba
 
 **Labor force**<br>
 1.378 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 41.4%<br>
-_industry_: 18.3%<br>
-_services_: 40.3% (2017 est.)<br>
 
 **Unemployment rate**<br>
 11.82% (2021 est.)<br>

@@ -346,11 +346,6 @@ tourism, light industry, construction, rum, concrete block, offshore banking cen
 **Labor force**<br>
 12,770 (2004)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 0.6%<br>
-_industry_: 40%<br>
-_services_: 59.4% (2005)<br>
-
 **Unemployment rate**<br>
 2.9% (2015 est.)<br>
 

@@ -233,11 +233,6 @@ _total_: 16 years<br>
 _male_: 15 years<br>
 _female_: 16 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.7% (2021 est.)<br>
-_male_: 3.3%<br>
-_female_: 4.3%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -461,11 +456,6 @@ oil, coal, iron ore, manganese, chromite, lead, zinc, copper, titanium, bauxite,
 
 **Labor force**<br>
 9.248 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 18.1%<br>
-_industry_: 20.4%<br>
-_services_: 61.6% (2017 est.)<br>
 
 **Unemployment rate**<br>
 4.9% (2021 est.)<br>
@@ -744,7 +734,7 @@ has an active and ambitious space program that originated with the former Soviet
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Kazakhstan-China</em>: in 1998, Kazakhstan and China agreed to split two disputed border areas nearly evenly; demarcation with China completed in 2002</p> <p><em>Kazakhstan-Kyrgyzstan</em>: in January 2019, Kyrgyzstan ratified the 2017 agreement on the demarcation of the Kyrgyzstan-Kazakhstan border</p> <p><em>Kazakhstan-Russia</em>: Russia boundary delimitation was ratified on November 2005; field demarcation commenced in 2007 and was expected to be completed by 2013</p> <p><em>Kazakhstan-Turkmenistan</em>: Kazakhstan and Turkmenistan signed a treaty on the delimitation and demarcation process in 2001; field demarcation of the boundaries with Kazakhstan commenced in 2005; Turkmenistan and Kazakhstan agreed to their border in the Caspian Sea in 2014</p> <p><em>Kazakhstan-Uzbekistan</em>: field demarcation of the boundaries with Kazakhstan commenced in 2004; disputed territory is held by Uzbekistan but the overwhelming majority of residents are ethnic Kazakhs; the two countries agreed on draft final demarcation documents in March 2022 and planned to hold another meeting in April 2022</p><br>
+<p><em>Kazakhstan-China</em>: in 1998, Kazakhstan and China agreed to split two disputed border areas nearly evenly; demarcation with China completed in 2002</p> <p><em>Kazakhstan-Kyrgyzstan</em>: in January 2019, Kyrgyzstan ratified the 2017 agreement on the demarcation of the Kyrgyzstan-Kazakhstan border</p> <p><em>Kazakhstan-Russia</em>: Russia boundary delimitation was ratified on November 2005; field demarcation commenced in 2007 and was expected to be completed by 2013</p> <p><em>Kazakhstan-Turkmenistan</em>: Kazakhstan and Turkmenistan signed a treaty on the delimitation and demarcation process in 2001; field demarcation of the boundaries with Kazakhstan commenced in 2005; Turkmenistan and Kazakhstan agreed to their border in the Caspian Sea in 2014</p> <p><em>Kazakhstan-Uzbekistan</em>: field demarcation of the boundaries with Kazakhstan commenced in 2004; disputed territory is held by Uzbekistan but the overwhelming majority of residents are ethnic Kazakhs; the two countries agreed on draft final demarcation documents in March 2022 and planned to hold another meeting in April 2022<br><br><em>Kazakhstan-Azerbaijan-Iran-Russia: </em>Azerbaijan, Kazakhstan, and Russia ratified a Caspian seabed delimitation treaty in 2018 based on equidistance, while Iran continues to insist on a one-fifth slice of the sea </p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 7,558 (2022)<br>

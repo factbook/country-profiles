@@ -244,11 +244,6 @@ _total_: 9 years<br>
 _male_: 8 years<br>
 _female_: 9 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 23% (2021 est.)<br>
-_male_: 20.8%<br>
-_female_: 27.9%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -377,7 +372,7 @@ _subordinate courts_: Courts of Appeal; courts of first instance or wilya courts
 Alliance for Justice and Democracy/Movement for Renewal or AJD/MR [Ibrahima Moctar SARR]<br>El Insaf or Equity Party [Mohamed Melainine Ould EYIH]<br>El Islah Party [Mohamed Ould TALEBNA]<br>El Karama Party [Cheikhna Ould Mohamed Ould HAJBOU]<br>El Vadila [Ethmane Ould Cheikh Ahmed Eboul MEALY]<br>FRUD (Republican Front for Unity and Democracy) [Kadiata Malick DIALLO]<br>Mauritanian Party of Union and Change (HATEM) [Saleh Ould HANENNA]<br>National Democratic Alliance or AND [Yacoub Ould MOINE]<br>National Rally for Reform and Development or RNRD or TAWASSOUL [Hamadi Ould Sidi MOKHTAR]<br>Nida El-Watan [Daoud Ould Ahmed AICHA]<br>Party for Conciliation and Prosperity or HIWAR [Valle Mint Mini]<br>Party of the Mauritanian Masses (Hakam) [El Khalil Ould ENNAHOUI]<br>Sawab Party [Ahmed Salem Ould HORMA]<br>Union for Democracy and Progress or UDP [Naha Mint MOUKNASS]<br>Union of Planning and Construction (UPC) [Qari Ould Mohamed ABDALLAHI]<br><br><strong>note</strong>: only parties with seats in the National Assembly listed<br>
 
 **International organization participation**<br>
-ABEDA, ACP, AfDB, AFESD, AMF, AMU, AU, CAEU, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAS, MIGA, MIUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ABEDA, ACP, AfDB, AFESD, AMF, AMU, AU, CAEU, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador BOIDE Cisse (since 15 September 2021)<br>
@@ -464,11 +459,6 @@ fish processing, oil production, mining (iron ore, gold, copper)<br>
 
 **Labor force**<br>
 1.197 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 50%<br>
-_industry_: 1.9%<br>
-_services_: 48.1% (2014 est.)<br>
 
 **Unemployment rate**<br>
 11.46% (2021 est.)<br>

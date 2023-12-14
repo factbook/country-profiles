@@ -230,11 +230,6 @@ _total_: 16 years<br>
 _male_: 16 years<br>
 _female_: 16 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.4% (2021 est.)<br>
-_male_: 11.5%<br>
-_female_: 11.3%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -454,11 +449,6 @@ construction, machinery, vehicles and parts, food, metals, chemicals, lumber and
 
 **Labor force**<br>
 4.661 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 0.7%<br>
-_industry_: 25.2%<br>
-_services_: 74.1% (2017 est.)<br>
 
 **Unemployment rate**<br>
 6.3% (2021 est.)<br>
@@ -740,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 68,700 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 80,365 (Ukraine) (as of 6 November 2023)<br>
+_refugees (country of origin)_: 68,700 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 81,870 (Ukraine) (as of 4 December 2023)<br>
 _stateless persons_: 3,219 (2022)<br>
 
 **Illicit drugs**<br>

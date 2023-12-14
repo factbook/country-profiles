@@ -232,11 +232,6 @@ _total_: 19 years<br>
 _male_: 18 years<br>
 _female_: 20 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.1% (2021 est.)<br>
-_male_: 19%<br>
-_female_: 17.1%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -356,7 +351,7 @@ _subordinate courts_: 6 Courts of Appeal; 8 regional administrative courts; 27 d
 Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk [Annika SAARIKKO]<br>Christian Democrats or KD [Sari ESSAYAH]<br>Finns Party or PS [Riikka PURRA]<br>Green League or Vihr [Sofia VIRTA]<br>Left Alliance or Vas [Li ANDERSSON]<br>Movement Now or Liike Nyt [Harry HARKINO]<br>National Coalition Party or Kok [Petteri ORPO]<br>Social Democratic Party or SDP [Sanna MARIN]<br>Swedish People's Party or RKP or SFP [Anna-Maja HENRIKSSON]<br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNOOSA, UNRWA, UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNOOSA, UNRWA, UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mikko Tapani HAUTALA (since 17 September 2020)<br>
@@ -449,11 +444,6 @@ metals and metal products, electronics, machinery and scientific instruments, sh
 
 **Labor force**<br>
 2.82 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 4%<br>
-_industry_: 20.7%<br>
-_services_: 75.3% (2017 est.)<br>
 
 **Unemployment rate**<br>
 7.53% (2021 est.)<br>

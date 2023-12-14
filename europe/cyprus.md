@@ -225,11 +225,6 @@ _total_: 16 years<br>
 _male_: 16 years<br>
 _female_: 16 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.8% (2021 est.)<br>
-_male_: 9.2%<br>
-_female_: 14.9%<br>
-
 **People - note**<br>
 demographic data for Cyprus represent the population of the government-controlled area and the area administered by Turkish Cypriots, unless otherwise indicated<br>
 
@@ -392,23 +387,25 @@ _selected World Heritage Site locales_: Paphos; Painted Churches in the Troodos 
 
 **Economic overview**<br>
 services-based, high-income EU island economy; heavy tourism; sustained growth between recovery of national banking system and COVID-19 trade restrictions; high living standards; a known financial hub, its stock exchange functions as an investment bridge between EU-and EEU-member countries<br>
+<strong>note: </strong>Even though the whole of the island is part of the EU, implementation of the EU "acquis communautaire" has been suspended in the area administered by Turkish Cypriots, known locally as the Turkish Republic of Northern Cyprus, until political conditions permit the reunification of the island. Its market-based economy is roughly one-fifth the size of its southern neighbor and is likewise dominated by the service sector with a large portion of the population employed by the government. Manufacturing is limited mainly to food and beverages, furniture and fixtures, construction materials, metal and non-metal products, textiles and clothing. Little trade exists with the Republic of Cyprus outside of construction, historically relying heavily upon Turkey for financial aid, defense, telecommunications, utilities, and postal services. The Turkish Lira is the preferred currency, though foreign currencies are widely accepted in business transactions.<br>
 
 **Real GDP (purchasing power parity)**<br>
 $37.546 billion (2021 est.)<br>
 $35.209 billion (2020 est.)<br>
 $36.819 billion (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+<strong>note:</strong> data are in 2017 dollars<br><br><strong>note:</strong> area administered by Turkish Cypriots - $1.829 billion (2007 est.)<br>
 
 **Real GDP growth rate**<br>
 6.64% (2021 est.)<br>
 -4.37% (2020 est.)<br>
 5.53% (2019 est.)<br>
+<strong>note: </strong>area administered by Turkish Cypriots - -16.2% (2020 est.)<br>
 
 **Real GDP per capita**<br>
 $41,700 (2021 est.)<br>
 $39,500 (2020 est.)<br>
 $41,700 (2019 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
+<strong>note:</strong> data are in 2017 dollars<br><strong><br>note:</strong> area administered by Turkish Cypriots - $11,700 (2007 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $24.946 billion (2019 est.)<br>
@@ -428,6 +425,7 @@ _Standard & Poors rating_: BBB- (2018)<br>
 _agriculture_: 2% (2017 est.)<br>
 _industry_: 12.5% (2017 est.)<br>
 _services_: 85.5% (2017 est.)<br>
+<strong>note:</strong> area administered by Turkish Cypriots - agriculture: 6.2%,; industry: 35.1%,; services: 58.7% (2012 est.)<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 68.7% (2017 est.)<br>
@@ -439,25 +437,25 @@ _imports of goods and services_: -67.8% (2017 est.)<br>
 
 **Agricultural products**<br>
 milk, potatoes, pork, sheep milk, goat milk, barley, wheat, poultry, olives, tangerines/mandarins<br>
+<strong>note:</strong> area administered by Turkish Cypriots - citrus fruit, dairy, potatoes, grapes, olives, poultry, lamb<br>
 
 **Industries**<br>
 tourism, food and beverage processing, cement and gypsum, ship repair and refurbishment, textiles, light chemicals, metal products, wood, paper, stone and clay products<br>
+<strong>note:</strong> area administered by Turkish Cypriots - foodstuffs, textiles, clothing, ship repair, clay, gypsum, copper, furniture<br>
 
 **Industrial production growth rate**<br>
 8.1% (2021 est.)<br>
+<strong>note:</strong> area administered by Turkish Cypriots - -0.3% (2007 est.)<br>
 
 **Labor force**<br>
 655,100 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 3.8%<br>
-_industry_: 15.2%<br>
-_services_: 81% (2014 est.)<br>
+<strong>note:</strong> area administered by Turkish Cypriots - 95,030 (2007 est.)<br>
 
 **Unemployment rate**<br>
 6.13% (2021 est.)<br>
 7.59% (2020 est.)<br>
 7.07% (2019 est.)<br>
+<strong>note:</strong> area administered by Turkish Cypriots - 9.4% (2005 est.)<br>
 
 **Youth unemployment rate (ages 15-24)**<br>
 _total_: 11.8% (2021 est.)<br>
@@ -477,6 +475,7 @@ _highest 10%_: 28.8% (2014)<br>
 **Budget**<br>
 _revenues_: $10.362 billion (2019 est.)<br>
 _expenditures_: $9.996 billion (2019 est.)<br>
+<strong>note:</strong> area administered by Turkish Cypriots - revenues: $2.5 billion; expenditures: $2.5 billion (est. 2006)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
 1.8% (of GDP) (2017 est.)<br>
@@ -501,24 +500,27 @@ calendar year<br>
 $24.551 billion (2021 est.)<br>
 $20.379 billion (2020 est.)<br>
 $19.835 billion (2019 est.)<br>
-<strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
+<strong>note:</strong> data are in current year dollars and do not include illicit exports or re-exports.<br><br><strong>note:</strong> area administered by Turkish Cypriots - $68.1 million (est. 2007)<br>
 
 **Exports - partners**<br>
 India 9%, Greece 9%, Libya 8%, United Kingdom 7% (2019)<br>
 
 **Exports - commodities**<br>
 ships, refined petroleum, packaged medicines, cheese, recreational boats (2021)<br>
+<strong>note:</strong> area administered by Turkish Cypriots - citrus, dairy, potatoes, textiles<br>
 
 **Imports**<br>
 $23.748 billion (2021 est.) note: data are in current year dollars<br>
 $20.711 billion (2020 est.) note: data are in current year dollars<br>
 $19.575 billion (2019 est.) note: data are in current year dollars<br>
+<strong>note:</strong> area administered by Turkish Cypriots - $1.2 billion (est. 2007)<br>
 
 **Imports - partners**<br>
 Greece 16%, Italy 10%, Turkey 8%, Russia 5%, Germany 5%, United Kingdom 5%, China 5% (2019)<br>
 
 **Imports - commodities**<br>
 refined petroleum, ships, cars, coal tar oil, packaged medicines (2019)<br>
+<strong>note:</strong> area administered by Turkish Cypriots - vehicles, fuel, cigarettes, food, minerals, chemicals, machinery<br>
 
 **Reserves of foreign exchange and gold**<br>
 $1.611 billion (31 December 2021 est.)<br>
@@ -537,9 +539,6 @@ _Currency_: euros (EUR) per US dollar -<br>
 0.847 (2018 est.)<br>
 0.885 (2017 est.)<br>
 
-**Economy of the area administered by Turkish Cypriots**<br>
-<p><strong>Economy - overview:</strong> Even though the whole of the island is part of the EU, implementation of the EU "acquis communautaire" has been suspended in the area administered by Turkish Cypriots, known locally as the "Turkish Republic of Northern Cyprus" ("TRNC"), until political conditions permit the reunification of the island. The market-based economy of the "TRNC" is roughly one-fifth the size of its southern neighbor and is likewise dominated by the service sector with a large portion of the population employed by the government. In 2012 - the latest year for which data are available - the services sector, which includes the public sector, trade, tourism, and education, contributed 58.7% to economic output. In the same year, light manufacturing and agriculture contributed 2.7% and 6.2%, respectively. Manufacturing is limited mainly to food and beverages, furniture and fixtures, construction materials, metal and non-metal products, textiles and clothing. The "TRNC" maintains few economic ties with the Republic of Cyprus outside of trade in construction materials. Since its creation, the "TRNC" has heavily relied on financial assistance from Turkey, which supports the "TRNC" defense, telecommunications, water and postal services. The Turkish Lira is the preferred currency, though foreign currencies are widely accepted in business transactions. The "TRNC" remains vulnerable to the Turkish market and monetary policy because of its use of the Turkish Lira. The "TRNC" weathered the European financial crisis relatively unscathed - compared to the Republic of Cyprus - because of the lack of financial sector development, the health of the Turkish economy, and its separation from the rest of the island. The "TRNC" economy experienced growth estimated at 2.8% in 2013 and 2.3% in 2014 and is projected to grow 3.8% in 2015.; </p><p><strong>GDP (purchasing power parity):</strong> $1.829 billion (2007 est.); </p><p><strong>GDP - real growth rate:</strong> 2.3% (2014 est.); </p><p>2.8% (2013 est.); </p><p><strong>GDP - per capita:</strong> $11,700 (2007 est.); </p><p><strong>GDP - composition by sector:</strong> agriculture: 6.2%,; industry: 35.1%,; services: 58.7% (2012 est.); </p><p><strong>Labor force:</strong> 95,030 (2007 est.); </p><p><strong>Labor force - by occupation:</strong> agriculture: 14.5%,; industry: 29%,; services: 56.5% (2004); </p><p><strong>Unemployment rate:</strong> 9.4% (2005 est.); </p><p><strong>Population below poverty line:</strong> %NA; </p><p><strong>Inflation rate:</strong> 11.4% (2006); </p><p><strong>Budget:</strong> revenues: $2.5 billion,; expenditures: $2.5 billion (2006); </p><p><strong>Agriculture - products:</strong> citrus fruit, dairy, potatoes, grapes, olives, poultry, lamb; </p><p><strong>Industries:</strong> foodstuffs, textiles, clothing, ship repair, clay, gypsum, copper, furniture; </p><p><strong>Industrial production growth rate:</strong> -0.3% (2007 est.); </p><p><strong>Electricity production:</strong> 998.9 million kWh (2005); </p><p><strong>Electricity consumption:</strong> 797.9 million kWh (2005); </p><p><strong>Exports:</strong> $68.1 million, f.o.b. (2007 est.); </p><p><strong>Export - commodities:</strong> citrus, dairy, potatoes, textiles; </p><p><strong>Export - partners:</strong> Turkey 40%; direct trade between the area administered by Turkish Cypriots and the area under government control remains limited; </p><p><strong>Imports:</strong> $1.2 billion, f.o.b. (2007 est.); </p><p><strong>Import - commodities:</strong> vehicles, fuel, cigarettes, food, minerals, chemicals, machinery; </p><p><strong>Import - partners:</strong> Turkey 60%; direct trade between the area administered by Turkish Cypriots and the area under government control remains limited; </p><p><strong>Reserves of foreign exchange and gold:</strong> NA; </p><p><strong>Debt - external:</strong> NA; </p><p><strong>Currency (code):</strong> Turkish new lira (YTL); </p><p><strong>Exchange rates:</strong> Turkish new lira per US dollar:; 1.9 (2013); 1.8 (2012); 1.668 (2011); 1.5026 (2010); 1.55 (2009); </p><br>
-
 ## Energy
 
 **Electricity access**<br>
@@ -551,6 +550,7 @@ _consumption_: 4.733 billion kWh (2019 est.)<br>
 _exports_: 0 kWh (2019 est.)<br>
 _imports_: 0 kWh (2019 est.)<br>
 _transmission/distribution losses_: 184 million kWh (2019 est.)<br>
+<strong>note: </strong>electricity production in area administered by Turkish Cypriots - 998.9 million kWh (est. 2005)<br><br><strong>note: </strong>electricity consumption in area administered by Turkish Cypriots - 797.9 million kWh (est. 2005)<br>
 
 **Electricity generation sources**<br>
 _fossil fuels_: 86.8% of total installed capacity (2020 est.)<br>
@@ -707,7 +707,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; has had maritime/economic exclusion zone disputes with Turkey, particularly over energy exploration</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 19,345 (Ukraine) (as of 5 November 2023)<br>
+_refugees (country of origin)_: 10,869 (Syria) (mid-year 2022); 18,230 (Ukraine) (as of 12 November 2023)<br>
 _IDPs_: 246,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2022)<br>
 _stateless persons_: 74 (2022)<br>
 <strong>note:</strong> 55,098 estimated refugee and migrant arrivals (January 2015-August 2023)<br>

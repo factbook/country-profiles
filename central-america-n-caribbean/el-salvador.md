@@ -234,11 +234,6 @@ _total_: 12 years<br>
 _male_: 12 years<br>
 _female_: 12 years (2018)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.7% (2021 est.)<br>
-_male_: 11.3%<br>
-_female_: 18.3%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -332,10 +327,10 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Nayib Armando BUKELE Ortez (since 1 June 2019); Vice President F&eacute;lix Augusto Antonio ULLOA Garay (since 1 June 2019); note - the president is both chief of state and head of government<br>
-_head of government_: President Nayib Armando BUKELE Ortez (since 1 June 2019); Vice President F&eacute;lix Augusto Antonio ULLOA Garay (since 1 June 2019)<br>
+_chief of state_: Acting President Claudia Juana RODR&Iacute;GUEZ de Guevara (since 1 December 2023); note - parliament granted a six-month leave of absence to President Nayib Armando BUKELE Ortez and Vice President F&eacute;lix Augusto Antonio ULLOA Garay (to allow them to participate in the 4 February 2024 presidential election) and approved the appointment of Claudia Juana RODR&Iacute;GUEZ de Guevara as acting president from 1 December 2023 to 1 June 2024<br>
+_head of government_: Acting President Claudia Juana RODR&Iacute;GUEZ de Guevara (since 1 December 2023)<br>
 _cabinet_: Council of Ministers selected by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a single 5-year term; election last held on 3 February 2019 (next to be held on February 2024)<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a single 5-year term; election last held on 3 February 2019 (next to be held on 4 February 2024)<br>
 _election results_: <br><em>2019:</em> Nayib Armando BUKELE Ortez elected president - Nayib Armando BUKELE Ortez (GANA) 53.1%, Carlos CALLEJA Hakker (ARENA) 31.72%, Hugo MARTINEZ (FMLN) 14.41%, other 0.77%<br><br><em>2014:</em> Salvador SANCHEZ CEREN elected president in second round; percent of vote in first round - Salvador SANCHEZ CEREN (FMLN) 48.9%, Norman QUIJANO (ARENA) 39%, Antonio SACA (CN) 11.4%, other 0.7%; percent of vote in second round - Salvador SANCHEZ CEREN 50.1%, Norman QUIJANO 49.9%<br>
 
 **Legislative branch**<br>
@@ -446,11 +441,6 @@ food processing, beverages, petroleum, chemicals, fertilizer, textiles, furnitur
 
 **Labor force**<br>
 2.658 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 21%<br>
-_industry_: 20%<br>
-_services_: 58% (2011 est.)<br>
 
 **Unemployment rate**<br>
 5.94% (2021 est.)<br>

@@ -222,11 +222,6 @@ _total_: 14 years<br>
 _male_: 14 years<br>
 _female_: 15 years (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.6% (2021 est.)<br>
-_male_: 5.3%<br>
-_female_: 14.7%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -443,11 +438,6 @@ sugar processing, vegetable oil, food processing, agricultural machinery; foundr
 
 **Labor force**<br>
 810,000 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 32.3%<br>
-_industry_: 12%<br>
-_services_: 55.7% (2017 est.)<br>
 
 **Unemployment rate**<br>
 3.96% (2021 est.)<br>
@@ -696,7 +686,7 @@ the National Army is responsible for defense against external aggression, suppre
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,130 (Ukraine) (as of 19 November 2023)<br>
+_refugees (country of origin)_: 112,810 (Ukraine) (as of 3 December 2023)<br>
 _stateless persons_: 1,701 (2022)<br>
 
 **Illicit drugs**<br>

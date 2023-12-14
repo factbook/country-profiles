@@ -231,11 +231,6 @@ _total_: 16 years<br>
 _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.4% (2021 est.)<br>
-_male_: 12.3%<br>
-_female_: 15%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -343,7 +338,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Andrzej DUDA (since 6 August 2015)<br>
-_head of government_: Prime Minister Mateusz MORAWIECKI (since 11 December 2017); Deputy Prime Ministers Piotr GLINSKI (since 16 November 2015), Jacek SASIN (since 15 November 2019), Henryk KOWALCZYK (since 26 October 2021), and Mariusz BLASZCZAK (since 22 June 2022)<br>
+_head of government_: Prime Minister Donald TUSK (since 11 December 2023); Deputy Prime Ministers Piotr GLINSKI (since 16 November 2015), Jacek SASIN (since 15 November 2019), Henryk KOWALCZYK (since 26 October 2021), and Mariusz BLASZCZAK (since 22 June 2022)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president, and approved by the Sejm<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 June 2020 with a second round on 12 July 2020 (next to be held in 2025); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm; all presidential candidates resign their party affiliation<br>
 _election results_: <br><em>2020:</em> Andrzej DUDA reelected president in second round; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%<br><em><br>2015:</em> Andrzej DUDA elected president in second round; percent of vote - Andrzej DUDA (independent) 51.5%, Bronislaw KOMOROWSKI (independent) 48.5% <p> </p><br>
@@ -458,11 +453,6 @@ machine building, iron and steel, coal mining, chemicals, shipbuilding, food pro
 
 **Labor force**<br>
 18.212 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 11.5%<br>
-_industry_: 30.4%<br>
-_services_: 57.6% (2015)<br>
 
 **Unemployment rate**<br>
 3.37% (2021 est.)<br>

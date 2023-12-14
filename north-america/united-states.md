@@ -241,11 +241,6 @@ _total_: 16 years<br>
 _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.6% (2021 est.)<br>
-_male_: 10.5%<br>
-_female_: 8.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -382,7 +377,7 @@ _subordinate courts_: Courts of Appeal (includes the US Court of Appeal for the 
 Democratic Party [Jaime HARRISON]<br>Green Party [collective leadership]<br>Libertarian Party [Angela McARDLE]<br>Republican Party [Ronna Romney MCDANIEL]<br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), ANZUS, APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE (observer), CERN (observer), CICA (observer), CP, EAPC, EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Quad, SAARC (observer), SELEC (observer), SICA (observer), SPC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNITAR, UNMIL, UNMISS, UNOOSA, UNRWA, UN Security Council (permanent), UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), ANZUS, APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE (observer), CERN (observer), CICA (observer), CP, EAPC, EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Quad, SAARC (observer), SELEC (observer), SICA (observer), SPC, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNITAR, UNMIL, UNMISS, UNOOSA, UNRWA, UN Security Council (permanent), UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Flag description**<br>
 13 equal horizontal stripes of red (top and bottom) alternating with white; there is a blue rectangle in the upper hoist-side corner bearing 50 small, white, five-pointed stars arranged in nine offset horizontal rows of six stars (top and bottom) alternating with rows of five stars; the 50 stars represent the 50 states, the 13 stripes represent the 13 original colonies; blue stands for loyalty, devotion, truth, justice, and friendship, red symbolizes courage, zeal, and fervency, while white denotes purity and rectitude of conduct; commonly referred to by its nickname of Old Glory<br>
@@ -461,19 +456,6 @@ highly diversified, world leading, high-technology innovator, second-largest ind
 **Labor force**<br>
 164.797 million (2021 est.)<br>
 <strong>note:</strong> includes unemployed<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 0.7% (2009)<br>
-_industry_: 20.3% (2009)<br>
-_services_: 37.3% (2009)<br>
-_industry and services_: 24.2% (2009)<br>
-_manufacturing_: 17.6% (2009)<br>
-_farming, forestry, and fishing_: 0.7% (2009)<br>
-_manufacturing, extraction, transportation, and crafts_: 20.3% (2009)<br>
-_managerial, professional, and technical_: 37.3% (2009)<br>
-_sales and office_: 24.2% (2009)<br>
-_other services_: 17.6% (2009)<br>
-<strong>note:</strong> figures exclude the unemployed<br>
 
 **Unemployment rate**<br>
 5.46% (2021 est.)<br>

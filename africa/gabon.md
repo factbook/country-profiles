@@ -227,11 +227,6 @@ _total population_: 85.5%<br>
 _male_: 86.2%<br>
 _female_: 84.7% (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 38.4% (2021 est.)<br>
-_male_: 33.7%<br>
-_female_: 44.4%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -331,7 +326,7 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Transitional President Gen. Brice OLIGUI Nguema (since 4 September 2023); note - on 30 August 2023, Gen. Brice OLIGUI Nguema led a military group called the Committee for the Transition and Restoration of Institutions in a coup in which President Ali BONGO Ondimba was arrested and detained, election results were canceled, and state institutions dissolved; on 4 September 2023, Gen. OLIGUI was sworn in as transitional president<br>
+_chief of state_: Transitional President Gen. Brice OLIGUI Nguema (since 4 September 2023); note - on 30 August 2023, Gen. Brice OLIGUI Nguema led a military group called the Committee for the Transition and Restoration of Institutions in a coup in which President Ali BONGO Ondimba was arrested and detained, election results were canceled, and state institutions dissolved; on 4 September 2023, Gen. OLIGUI was sworn in as transitional president<br>note- the military government announced on 13 November 2023 that presidential and legislative elections will be held in August 2025<br>
 _head of government_: Interim Prime Minister Raymond Ndong SIMA (since 8 September 2023)<br>
 _cabinet_: formerly the Council of Ministers, appointed by the prime minister in consultation with the president<br>
 _elections/appointments_: formerly, the president directly elected by plurality vote for a 5-year term (no term limits); election last held on 26 August 2023; prime minister appointed by the president; note - on 30 August 2023, Gen. Brice OLIGUI Nguema led a military group called Committee for the Transition and Restoration of Institutions in a coup in which President Ali BONGO Ondimba was arrested and detained, election results were canceled, and state institutions dissolved; on 4 September 2023, OLIGUI was sworn in as transitional president; a general election is planned for August 2025<br>
@@ -339,7 +334,7 @@ _election results_: <em><br>2016: </em>Ali BONGO Ondimba reelected president; pe
 
 **Legislative branch**<br>
 _description_: <p>Transitional Parliament (formerly the bicameral Parliament) consists of:<br>Senate (70 seats; members appointed by Transitional president; member term NA)<br>National Assembly (98 seats; members appointed by the Transitional president; member term NA) <br>note - all members represent legally recognized political parties or leading political figures, civil society, and defense and security forces<br><br><br></p><br>
-_elections_: <p>on 11 September 2023, Transitional President Gen. Brice OLIGUI Nguema appointed 168 members to the Transitional Parliament; elections for a permanent legislature reportedly to follow 2-year transition</p><br>
+_elections_: <p>on 11 September 2023, Transitional President Gen. Brice OLIGUI Nguema appointed 168 members to the Transitional Parliament; elections for a permanent legislature reportedly to follow 2-year transition; note - the military government announced on 13 November 2023 that presidential and legislative elections will be held in August 2025</p><br>
 _election results_: <p>all members of the Transitional Parliament appointed by the Transitional president</p><br>
 
 **Judicial branch**<br>
@@ -444,11 +439,6 @@ petroleum extraction and refining; manganese, gold; chemicals, ship repair, food
 
 **Labor force**<br>
 718,400 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 64%<br>
-_industry_: 12%<br>
-_services_: 24% (2005 est.)<br>
 
 **Unemployment rate**<br>
 22.26% (2021 est.)<br>

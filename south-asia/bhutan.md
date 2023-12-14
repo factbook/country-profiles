@@ -204,11 +204,6 @@ _total_: 13 years<br>
 _male_: 13 years<br>
 _female_: 13 years (2018)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.8% (2021 est.)<br>
-_male_: 15.6%<br>
-_female_: 22%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -403,11 +398,6 @@ cement, wood products, processed fruits, alcoholic beverages, calcium carbide, t
 **Labor force**<br>
 361,000 (2021 est.)<br>
 <strong>note:</strong> major shortage of skilled labor<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 58%<br>
-_industry_: 20%<br>
-_services_: 22% (2015 est.)<br>
 
 **Unemployment rate**<br>
 4.33% (2021 est.)<br>

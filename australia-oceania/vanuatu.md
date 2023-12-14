@@ -211,11 +211,6 @@ _total population_: 89.1%<br>
 _male_: 89.8%<br>
 _female_: 88.4% (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.4% (2021 est.)<br>
-_male_: 5.2%<br>
-_female_: 5.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -411,11 +406,6 @@ food and fish freezing, wood processing, meat canning<br>
 
 **Labor force**<br>
 132,700 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 65%<br>
-_industry_: 5%<br>
-_services_: 30% (2000 est.)<br>
 
 **Unemployment rate**<br>
 2.18% (2021 est.)<br>

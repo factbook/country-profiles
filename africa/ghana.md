@@ -246,11 +246,6 @@ _total_: 12 years<br>
 _male_: 12 years<br>
 _female_: 12 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.6% (2021 est.)<br>
-_male_: 9.7%<br>
-_female_: 9.4%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -370,7 +365,7 @@ All Peoples Congress or APC [Hassan AYARIGA]<br>Convention People's Party or CPP
 <strong>note:</strong> Ghana has more than 20 registered parties; included are those which participated in the 2020 general election<br>
 
 **International organization participation**<br>
-ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Alima MAHAMA (since 7 July 2021)<br>
@@ -463,11 +458,6 @@ mining, lumbering, light manufacturing, aluminum smelting, food processing, ceme
 
 **Labor force**<br>
 14.095 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 44.7%<br>
-_industry_: 14.4%<br>
-_services_: 40.9% (2013 est.)<br>
 
 **Unemployment rate**<br>
 4.7% (2021 est.)<br>

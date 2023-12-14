@@ -226,11 +226,6 @@ _total population_: 64.2%<br>
 _male_: 65.6%<br>
 _female_: 62.8% (2015)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.3% (2021 est.)<br>
-_male_: 6.3%<br>
-_female_: 4.2%<br>
-
 **People - note**<br>
 the indigenous population of Papua New Guinea (PNG) is one of the most heterogeneous in the world; PNG has several thousand separate communities, most with only a few hundred people; divided by language, customs, and tradition, some of these communities have engaged in low-scale tribal conflict with their neighbors for millennia; the advent of modern weapons and modern migrants into urban areas has greatly magnified the impact of this lawlessness<br>
 
@@ -444,11 +439,6 @@ oil and gas; mining (gold, copper, and nickel); palm oil processing; plywood and
 
 **Labor force**<br>
 3.073 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 85%<br>
-_industry_: NA<br>
-_services_: NA<br>
 
 **Unemployment rate**<br>
 2.75% (2021 est.)<br>

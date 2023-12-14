@@ -233,11 +233,6 @@ _total population_: 47.7%<br>
 _male_: 55.3%<br>
 _female_: 39.8% (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.8% (2021 est.)<br>
-_male_: 15.8%<br>
-_female_: 7.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -357,7 +352,7 @@ _subordinate courts_: magistrates' courts; District Appeals Court; local courts<
 All People's Congress or APC [Ernest Bai KOROMA]<br>Coalition for Change or C4C [vacant]<br>Progressive Alliance Party (alliance of National Grand Coalition or NGC and Sierra Leone People's Party or SLPP) [Julius Maada BIO]<br>numerous other parties<br>
 
 **International organization participation**<br>
-ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sidique Abou-Bakarr WAI (since 8 April 2019)<br>
@@ -438,11 +433,6 @@ diamond mining; iron ore, rutile and bauxite mining; small-scale manufacturing (
 
 **Labor force**<br>
 2.858 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 61.1%<br>
-_industry_: 5.5%<br>
-_services_: 33.4% (2014 est.)<br>
 
 **Unemployment rate**<br>
 5.33% (2021 est.)<br>

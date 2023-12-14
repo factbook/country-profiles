@@ -229,11 +229,6 @@ _total_: 19 years<br>
 _male_: 18 years<br>
 _female_: 19 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.1% (2021 est.)<br>
-_male_: 9.7%<br>
-_female_: 10.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -349,7 +344,7 @@ _subordinate courts_: Special Court of Indictment and Revision; 2 High Courts; M
 The Alternative or AP [Franciska ROSENKILDE]<br>Conservative People's Party or DKF or C [Soren PAPE POULSEN]<br>Danish People's Party or DF or O [Morten MESSERSCHMIDT]<br>Denmark Democrats or E [Inger STOJBERG]<br>Green Left or SF or F [Pia OLSEN DYHR] (formerly Socialist People's Party or SF or F)<br>Liberal Alliance or LA or I [Alex VANOPSLAGH]<br>Liberal Party (Venstre) or V [Jakob ELLEMANN-JENSEN]<br>Moderates or M [Lars Lokke RASMUSSEN]<br>New Right Party or NB or D [Ann Pernille VERMUND TVEDE]<br>Red-Green Alliance (Unity List) or EL [collective leadership, Mai VILLADSEN, spokesperson]<br>Social Democrats or SDP or A [Mette FREDERIKSEN]<br>Social Liberal Party or SLP or B [Martin LIDEGAARD]<br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOOSA, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jesper M&oslash;ller S&Oslash;RENSEN (since 15 September 2023)<br>
@@ -443,11 +438,6 @@ wind turbines, pharmaceuticals, medical equipment, shipbuilding and refurbishmen
 
 **Labor force**<br>
 3.051 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 2.4%<br>
-_industry_: 18.3%<br>
-_services_: 79.3% (2016 est.)<br>
 
 **Unemployment rate**<br>
 4.8% (2021 est.)<br>
@@ -725,6 +715,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; in 2019, Denmark signed continental shelf delimitation agreements with Iceland and Norway to parts of the continental shelf in the Ægir Basin, which is located north of the Faroe Islands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 39,680 (Ukraine) (as of 12 November 2023)<br>
+_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 36,635 (Ukraine) (as of 3 December 2023)<br>
 _stateless persons_: 11,644 (2022)<br>
 

@@ -243,11 +243,6 @@ _total_: 11 years<br>
 _male_: 11 years<br>
 _female_: 10 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.7% (2021 est.)<br>
-_male_: 4.8%<br>
-_female_: 6.8%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -372,7 +367,7 @@ _subordinate courts_: Courts of Appeal (organized into civil, criminal, and soci
 African Peoples' Party-Cote d'Ivoire or PPA-CI [Laurent GBAGBO]<br>Democratic Party of Cote d'Ivoire or PDCI [Henri Konan BEDIE]<br>Ivorian Popular Front or FPI [Pascal Affi N'GUESSAN]<br>Liberty and Democracy for the Republic or LIDER [Mamadou KOULIBALY]<br>Movement of the Future Forces or MFA [Innocent Augustin ANAKY KOBENA]<br>Pan-African Congress for People's Justice and Equality or COJEP [Charles BLE GOUDE]<br>Rally of Houphouetists for Democracy and Peace or RHDP [Alassane Dramane OUATTARA] <br>Rally of the Republicans or RDR [Henriette DIABATE]<br>Together for Democracy and Sovereignty or EDS [Georges Armand OUEGNIN]<br>Together to Build (UDPCI, FPI,and allies) [Toikeuse MABRI]<br>Union for Cote d'Ivoire or UPCI [Gnamien KONAN]<br>Union for Democracy and Peace in Cote d'Ivoire or UDPCI [Albert Toikeusse MABRI]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, Union Latina, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, Union Latina, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Ibrahima TOURE (since 13 January 2022)<br>
@@ -464,9 +459,6 @@ foodstuffs, beverages; wood products, oil refining, gold mining, truck and bus a
 
 **Labor force**<br>
 8.876 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 68% (2007 est.)<br>
 
 **Unemployment rate**<br>
 3.47% (2021 est.)<br>

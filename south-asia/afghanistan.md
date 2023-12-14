@@ -241,11 +241,6 @@ _total_: 10 years<br>
 _male_: 13 years<br>
 _female_: 8 years (2018)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.2% (2021 est.)<br>
-_male_: 18.6%<br>
-_female_: 26.4%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -450,11 +445,6 @@ small-scale production of bricks, textiles, soap, furniture, shoes, fertilizer, 
 
 **Labor force**<br>
 9.39 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 44.3%<br>
-_industry_: 18.1%<br>
-_services_: 37.6% (2017 est.)<br>
 
 **Unemployment rate**<br>
 13.28% (2021 est.)<br>

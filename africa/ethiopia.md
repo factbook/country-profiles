@@ -250,11 +250,6 @@ _total_: 9 years<br>
 _male_: 8 years<br>
 _female_: 8 years (2012)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.7% (2021 est.)<br>
-_male_: 4.4%<br>
-_female_: 7.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -484,11 +479,6 @@ food processing, beverages, textiles, leather, garments, chemicals, metals proce
 
 **Labor force**<br>
 56.664 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 72.7%<br>
-_industry_: 7.4%<br>
-_services_: 19.9% (2013 est.)<br>
 
 **Unemployment rate**<br>
 3.69% (2021 est.)<br>
@@ -755,7 +745,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Ethiopia-Eritrea:</em> Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement<br><br><em>Ethiopia-Somalia:</em> the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden (populated largely by ethnic Somalis) and southern Somalia's Oromo region; the Somalia-based terrorist group al-Shabaab has conducted cross-border assaults into Ethiopia as recently as 2022 <br><br><em>Ethiopia-South Sudan: </em>while border clashes continue in the al-Fashqa (Fashaga) area, the US views the 1902 boundary treaty between Ethiopia and Sudan as being in force<br><br><em>Ethiopia-Sudan:</em> Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile in northern Ethiopia since 2011 has become a focal point of relations with Egypt and Sudan; Egypt has described the giant hydroelectric project as an existential threat because of its potential to control the flow of the river that is a key source of water for the country; Ethiopia completed filling the dam in 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 417,478 (South Sudan), 308,068 (Somalia), 167,391 (Eritrea), 25,463 (Sudan) (refugees since 15 April 2023) (2023)<br>
+_refugees (country of origin)_: 418,749 (South Sudan), 309,581 (Somalia), 167,391 (Eritrea), 25,463 (Sudan) (refugees since 15 April 2023) (2023)<br>
 _IDPs_: 4.385 million (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2023)<br>
 
 **Illicit drugs**<br>

@@ -227,11 +227,6 @@ _total_: 18 years<br>
 _male_: 18 years<br>
 _female_: 19 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 13% (2021 est.)<br>
-_male_: 13.5%<br>
-_female_: 12.5%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -351,7 +346,7 @@ _subordinate courts_: Courts of Appeal or Lagmennsrett; regional and district co
 <p>Center Party or Sp [Trygve Slagsvold VEDUM]<br>Christian Democratic Party or KrF [Olaug Vervik BOLLESTAD] <br>Conservative Party or H [Erna SOLBERG] <br>Green Party or MDG [Arild HERMSTAD]  <br>Labor Party or Ap [Jonas Gahr STORE] <br>Liberal Party or V [Guri MELBY]<br>Patient Focus or PF [Irene OJALA]<br>Progress Party or FrP [Sylvi LISTHAUG] <br>Red Party or R [Bjonar MOXNES]<br>Socialist Left Party or SV [Kristi BERGSTO]</p><br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Anniken Ramberg KRUTNES (since 17 September 2020)<br>
@@ -444,11 +439,6 @@ petroleum and gas, shipping, fishing, aquaculture, food processing, shipbuilding
 
 **Labor force**<br>
 2.971 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 2.1%<br>
-_industry_: 19.3%<br>
-_services_: 78.6% (2016 est.)<br>
 
 **Unemployment rate**<br>
 4.99% (2021 est.)<br>
@@ -727,6 +717,6 @@ has a broad and active space program coordinated with the European Space Agency 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 56,970 (Ukraine) (as of 23 October 2023)<br>
+_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 61,005 (Ukraine) (as of 4 December 2023)<br>
 _stateless persons_: 3,901 (2022)<br>
 

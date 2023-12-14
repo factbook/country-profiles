@@ -243,11 +243,6 @@ _total_: 6 years<br>
 _male_: 7 years<br>
 _female_: 6 years (2017)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 1% (2021 est.)<br>
-_male_: 1.2%<br>
-_female_: 0.7%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -380,7 +375,7 @@ _subordinate courts_: Court of Cassation; Council of State; Court of Finances; v
 <strong>note 1: </strong>only parties with seats in the National Assembly are listed<br><strong><br>note 2:</strong> the SPLM and SPLM-DC are banned political parties<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU (suspended), CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSCA, MINUSMA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU (suspended), CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSCA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mamadou Kiari LIMAN-TINGUIRI (since 19 April 2022)<br>
@@ -471,11 +466,6 @@ uranium mining, petroleum, cement, brick, soap, textiles, food processing, chemi
 
 **Labor force**<br>
 9.411 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 79.2%<br>
-_industry_: 3.3%<br>
-_services_: 17.5% (2012 est.)<br>
 
 **Unemployment rate**<br>
 0.75% (2021 est.)<br>

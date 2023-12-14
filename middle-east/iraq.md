@@ -234,11 +234,6 @@ _total population_: 85.6%<br>
 _male_: 91.2%<br>
 _female_: 79.9% (2017)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.2% (2021 est.)<br>
-_male_: 23.5%<br>
-_female_: 65.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -462,11 +457,6 @@ petroleum, chemicals, textiles, leather, construction materials, food processing
 
 **Labor force**<br>
 11.184 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 21.6%<br>
-_industry_: 18.7%<br>
-_services_: 59.8% (2008 est.)<br>
 
 **Unemployment rate**<br>
 14.19% (2021 est.)<br>
@@ -736,7 +726,7 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods
 <p><em>Iraq-Iran</em>: Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf<br><br><em>Iraq-Kuwait:</em> undemarcated maritime boundary; Kuwait has called on Iraq to resolve the domestic legal status of the 2012 Kuwait-Iraq Agreement to regulate maritime navigation in Khor Abdullah and ensure that the agreement remains in force </p> <p><em>Iraq-Turkey</em>: Turkey maintains a military presence in northern Iraq to combat the Kurdistan Worker's Party (PKK) terrorist group; it periodically conducts air strikes and has conducted large military operations involving thousands of troops in 2007, 2011, and 2018, and smaller-scale operations in 2021 and 2022 </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,864 (West Bank and Gaza Strip) (mid-year 2022); 272,165 (Syria), 8,575 (Iran), 8,091 (Turkey) (2023)<br>
+_refugees (country of origin)_: 7,864 (West Bank and Gaza Strip) (mid-year 2022); 271,732 (Syria), 8,575 (Iran), 8,091 (Turkey) (2023)<br>
 _IDPs_: 1.142 million (displacement in central and northern Iraq since January 2014) (2023)<br>
 _stateless persons_: 47,253 (2022); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 

@@ -227,11 +227,6 @@ _total_: 16 years<br>
 _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.1% (2021 est.)<br>
-_male_: 16.5%<br>
-_female_: 17.8%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -352,7 +347,7 @@ _subordinate courts_: circuit (appellate) courts; administrative, county, city, 
 Center Party of Estonia (Keskerakond) or K [Juri RATAS]<br>Estonia 200 [Kristina KALLAS]<br>Estonian Conservative People's Party (Konservatiivne Rahvaerakond) or EKRE [Martin HELME]<br>Estonian Greens (Greens/EFA) [Marko KAASIK &amp; Johanna Maria TOUGU]<br>Estonian Reform Party (Reformierakond) or RE [Kaja KALLAS]<br>Pro Patria (Isamaa) [Helir-Valdor SEEDER]<br>Social Democratic Party or SDE [Lauri LAANEMETS]<br>
 
 **International organization participation**<br>
-Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
+Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Kristjan PRIKK (since 7 July 2021)<br>
@@ -445,11 +440,6 @@ food, engineering, electronics, wood and wood products, textiles; information te
 
 **Labor force**<br>
 704,700 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 2.7%<br>
-_industry_: 20.5%<br>
-_services_: 76.8% (2017 est.)<br>
 
 **Unemployment rate**<br>
 6.33% (2021 est.)<br>
@@ -708,7 +698,7 @@ the Estonian military is a compact force that relies heavily on conscripts and r
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 50,450 (Ukraine) (as of 5 November 2023)<br>
+_refugees (country of origin)_: 50,450 (Ukraine) (as of 3 December 2023)<br>
 _stateless persons_: 70,604 (2022); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

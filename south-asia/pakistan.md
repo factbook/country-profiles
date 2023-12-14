@@ -246,11 +246,6 @@ _total_: 9 years<br>
 _male_: 9 years<br>
 _female_: 8 years (2019)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.4% (2021 est.)<br>
-_male_: 9.7%<br>
-_female_: 8.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -380,7 +375,7 @@ Awami National Party or ANP [Asfandyar Wali KHAN]<br>Awami Muslim League or AML 
 <strong>note:</strong> Pakistan has several hundred officially registered political parties; this list includes those that won seats in the most recent elections at the national and provincial levels<br>
 
 **International organization participation**<br>
-ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNISFA, UNISFA, UNMISS, UNOOSA, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNISFA, UNISFA, UNMISS, UNOOSA, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sardar Masood KHAN (since 19 April 2022)<br>
@@ -476,11 +471,6 @@ textiles and apparel, food processing, pharmaceuticals, surgical instruments, co
 **Labor force**<br>
 73.133 million (2021 est.)<br>
 <strong>note:</strong> extensive export of labor, mostly to the Middle East, and use of child labor<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 42.3%<br>
-_industry_: 22.6%<br>
-_services_: 35.1% (FY2015 est.)<br>
 
 **Unemployment rate**<br>
 4.35% (2021 est.)<br>

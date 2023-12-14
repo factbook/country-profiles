@@ -88,7 +88,7 @@ Emirati 11.6%, South Asian 59.4% (includes Indian 38.2%, Bangladeshi 9.5%, Pakis
 <strong>note</strong><strong>:</strong> data represent the total population; as of 2019, immigrants make up about 87.9% of the total population, according to UN data<br>
 
 **Languages**<br>
-Arabic (official), English, Hindi, Malayam, Urdu, Pashto, Tagalog, Persian<br>
+Arabic (official), English, Hindi, Malayalam, Urdu, Pashto, Tagalog, Persian<br>
 _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>

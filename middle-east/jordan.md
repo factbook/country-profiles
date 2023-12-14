@@ -236,11 +236,6 @@ _total_: 11 years<br>
 _male_: 10 years<br>
 _female_: 11 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 40.5% (2021 est.)<br>
-_male_: 37.4%<br>
-_female_: 53.8%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -367,7 +362,7 @@ _subordinate courts_: Courts of Appeal; Great Felonies Court; religious courts; 
 political reforms enacted in 2020 require all existing parties to re-register by May 2023, which will result in changes to the number of registered parties and the number of seats held by those parties for the anticipated 2024 election<br>
 
 **International organization participation**<br>
-ABEDA, AFESD, AMF, CAEU, CD, CICA, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINUSTAH, MINUSMA, MONUSCO, NAM, NATO (partner), OIC, OPCW, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ABEDA, AFESD, AMF, CAEU, CD, CICA, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINUSTAH, MONUSCO, NAM, NATO (partner), OIC, OPCW, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Dina Khalil Tawfiq KAWAR (since 27 June 2016)<br>
@@ -459,11 +454,6 @@ tourism, information technology, clothing, fertilizer, potash, phosphate mining,
 
 **Labor force**<br>
 2.865 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 2%<br>
-_industry_: 20%<br>
-_services_: 78% (2013 est.)<br>
 
 **Unemployment rate**<br>
 19.25% (2021 est.)<br>
@@ -729,7 +719,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Jordan-Iraq</em>: the two countries signed a border agreement in 1984; Jordan has ratified the treaty, but it has not been confirmed that Iraq has ratified it; as of 2010, the agreement had not been registered with the UN</p> <p><em>Jordan-Israel</em>: none identified</p> <p><em>Jordan-Saudi Arabia</em>: Jordan and Saudi Arabia signed an agreement to demarcate their maritime borders in 2007</p> <p><em>Jordan-Syria</em>: the two countries signed an agreement in 2005 to settle the border dispute based on a 1931 demarcation accord; the two countries began demarcation in 2006</p> <p><em>Jordan-West Bank</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2.4 million (Palestinian refugees) (2020); 12,866 (Yemen), 6,013 Sudan (2021); 33,951 (Iraq) (mid-year 2022); 652,842 (Syria) (2023)<br>
+_refugees (country of origin)_: 2.4 million (Palestinian refugees) (2020); 12,866 (Yemen), 6,013 Sudan (2021); 33,951 (Iraq) (mid-year 2022); 651,329 (Syria) (2023)<br>
 _stateless persons_: 64 (2022)<br>
 
 **Illicit drugs**<br>

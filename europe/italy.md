@@ -225,11 +225,6 @@ _total_: 16 years<br>
 _male_: 16 years<br>
 _female_: 17 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.9% (2021 est.)<br>
-_male_: 29.1%<br>
-_female_: 33.8%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -350,7 +345,7 @@ _subordinate courts_: various lower civil and criminal courts (primary and secon
 <p>Action-Italia Viva [Carlo CALENDA and Matteo RENZI]<br>Associative Movement of Italians Abroad or MAIE [Ricardo Antonio MERIO]<br>Brothers of Italy or FdI [Giorgia MELONI]<br>Democratic Party or PD [Elly SCHLEIN]<br>Five Star Movement or M5S [Giuseppe CONTE]<br>Forza Italia or FI [Antonio TAJANI]<br>Free and Equal (Liberi e Uguali) or LeU [Pietro GRASSO]<br>Greens and Left Alliance or AVS [Angelo BONELLI]<br>Italexit [Gianluigi PARAGONE]]<br>League or Lega [Matteo SALVINI]<br>More Europe or +EU [Emma BONINO]<br>Popular Union or PU [Luigi DE MAGISTRIS]<br>South calls North or ScN [Cateno DE LUCA] <br>South Tyrolean Peoples Party or SVP [Philipp ACHAMMER]<br>other minor parties</p><br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CDB, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMOGIP, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CDB, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMOGIP, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Maria Angela ZAPPIA (since 15 September 2021)<br>
@@ -446,11 +441,6 @@ tourism, machinery, iron and steel, chemicals, food processing, textiles, motor 
 
 **Labor force**<br>
 25.012 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 3.9%<br>
-_industry_: 28.3%<br>
-_services_: 67.8% (2011)<br>
 
 **Unemployment rate**<br>
 9.83% (2021 est.)<br>

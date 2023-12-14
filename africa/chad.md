@@ -243,11 +243,6 @@ _total_: 7 years<br>
 _male_: 9 years<br>
 _female_: 6 years (2015)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 2.4% (2021 est.)<br>
-_male_: 3.3%<br>
-_female_: 1.4%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -376,7 +371,7 @@ Chadian Convention for Peace and Development or CTPD [Laoukein Kourayo MEDARD]<b
 <strong>note:</strong> on 5 October 2021, Interim President Mahamat Idriss DEBY appointed 93 members to the interim National Transitional Council (NTC); 30% of the NTC members were retained from parties previously represented in the National Assembly<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSMA, MNJTF, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador KITOKO GATA Ngoulou (since 30 June 2023)<br>
@@ -463,10 +458,6 @@ oil, cotton textiles, brewing, natron (sodium carbonate), soap, cigarettes, cons
 
 **Labor force**<br>
 5.246 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 80%<br>
-_industry_: 20% (2006 est.)<br>
 
 **Unemployment rate**<br>
 1.88% (2021 est.)<br>

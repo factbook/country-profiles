@@ -235,11 +235,6 @@ _total_: 8 years<br>
 _male_: 8 years<br>
 _female_: 7 years (2015)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 35.6% (2021 est.)<br>
-_male_: 30.5%<br>
-_female_: 45.8%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -453,11 +448,6 @@ oil, cotton ginning, textiles, cement, edible oils, sugar, soap distilling, shoe
 
 **Labor force**<br>
 12.921 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 80%<br>
-_industry_: 7%<br>
-_services_: 13% (1998 est.)<br>
 
 **Unemployment rate**<br>
 19.81% (2021 est.)<br>
@@ -736,5 +726,5 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; Harakat Sawa’d Misr<br
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 682,519 (South Sudan) (refugees and asylum seekers), 137,402 (Eritrea) (refugees and asylum seekers), 93,477 (Syria) (refugees and asylum seekers), 72,334 (Ethiopia) (refugees and asylum seekers), 18,597 (Central African Republic) (2023)<br>
-_IDPs_: 5.29 million (armed conflict between rival factions of the military government of Sudan since 15 April 2023) (2023); note - includes some non-Sudanese nationals<br>
+_IDPs_: 5.42 million (armed conflict between rival factions of the military government of Sudan since 15 April 2023) (2023); note - includes some non-Sudanese nationals<br>
 

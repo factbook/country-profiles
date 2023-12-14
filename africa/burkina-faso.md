@@ -86,13 +86,13 @@ _noun_: Burkinabe (singular and plural)<br>
 _adjective_: Burkinabe<br>
 
 **Ethnic groups**<br>
-Mossi 52%, Fulani (Peuhl) 8.4%, Gurma 7%, Bobo 4.9%, Gurunsi 4.6%, Senufo 4.5%, Bissa 3.7%, Lobi 2.4%, Dagara 2.4%, Tuareg/Bella 1.9%, Dioula 0.8%, unspecified/no answer 0.3%, other 7.2% (2010 est.)<br>
+Mossi 52%, Fulani (Peuhl) 8.4%, Gurma 7%, Bobo 4.9%, Gurunsi 4.6%, Senufo 4.5%, Bissa 3.7%, Lobi 2.4%, Dagara 2.4%, Tuareg/Bella 1.9%, Dyula 0.8%, unspecified/no answer 0.3%, other 7.2% (2010 est.)<br>
 
 **Languages**<br>
 Mossi 52.9%, Fula 7.8%, Gourmantche 6.8%, Dyula 5.7%, Bissa 3.3%, Gurunsi 3.2%, French (official) 2.2%, Bwamu 2%, Dagara 2%, San 1.7%, Marka 1.6%, Bobo 1.5%, Senufo 1.5%, Lobi 1.2%, other 6.6% (2019 est.)<br>
 
 **Religions**<br>
-Muslim 63.2%, Roman Catholic 24.6%, Protestant 6.9%, traditional/animist 4.2%, none 0.7%, unspecified 0.4% (2017-18 est.)<br>
+Muslim 63.8%, Roman Catholic 20.1%, Animiste 9%, Protestant 6.2%, other 0.2%, none 0.7% (2019 est.)<br>
 
 **Demographic profile**<br>
 <p>Burkina Faso has a young age structure – the result of declining mortality combined with steady high fertility – and continues to experience rapid population growth, which is putting increasing pressure on the country’s limited arable land. Almost 65% of the population is under the age of 25 as of 2020, and the population is growing at 2.5% annually. Mortality rates, especially those of infants and children, have decreased because of improved health care, hygiene, and sanitation, but women continue to have an average of more than 4 children. Even if fertility were substantially reduced, today’s large cohort entering their reproductive years would sustain high population growth for the foreseeable future. Only about a third of the population is literate and unemployment is widespread, dampening the economic prospects of Burkina Faso’s large working-age population.</p> <p>Migration has traditionally been a way of life for Burkinabe, with seasonal migration being replaced by stints of up to two years abroad. Cote d’Ivoire remains the top destination, although it has experienced periods of internal conflict. Under French colonization, Burkina Faso became a main labor source for agricultural and factory work in Cote d’Ivoire. Burkinabe also migrated to Ghana, Mali, and Senegal for work between the world wars. Burkina Faso attracts migrants from Cote d’Ivoire, Ghana, and Mali, who often share common ethnic backgrounds with the Burkinabe. Despite its food shortages and high poverty rate, Burkina Faso has become a destination for refugees in recent years and hosts about 33,600 Malian refugees as of October 2022.</p> (2018)<br>
@@ -237,11 +237,6 @@ _total_: 9 years<br>
 _male_: 9 years<br>
 _female_: 9 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.7% (2021 est.)<br>
-_male_: 7.5%<br>
-_female_: 8%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -367,7 +362,7 @@ _subordinate courts_: Appeals Court; High Court; first instance tribunals; distr
 Act Together [Kadre OUEDRAOGO]<br>African Democratic Rally/Alliance for Democracy and Federation or ADF/RDA [Gilbert Noel OUEDRAOGO]<br>Congress for Democracy and Progress or CDP [Eddie KOMBOIGO]<br>Convergence for Progress and Solidarity-Generation 3 or CPS-G3<br>Movement for the Future Burkina Faso or MBF<br>National Convention for Progress or CNP<br>New Era for Democracy or NTD [Vincent DABILGOU]<br>Pan-African Alliance for Refoundation or APR<br>Party for Democracy and Socialism/Metba or PDS/Metba [Philippe OUEDRAOGO]<br>Party for Development and Change or PDC [Aziz SEREME]<br>Patriotic Rally for Integrity or RPI<br>Peoples Movement for Progress or MPP [Roch Marc Christian KABORE]<br>Progressives United for Renewal or PUR<br>Union for Progress and Reform or UPC [Zephirin DIABRE]<br>Union for Rebirth - Sankarist Party or UNIR-PS [Benewende Stanislas SANKARA]<br><br><strong>note:</strong> only parties with seats in the National Assembly included<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU (suspended), CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNMISS, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU (suspended), CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNMISS, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Jean-Baptiste GAGRE (since 31 July 2023)<br>
@@ -459,10 +454,6 @@ cotton lint, beverages, agricultural processing, soap, cigarettes, textiles, gol
 **Labor force**<br>
 8.016 million (2021 est.)<br>
 <strong>note:</strong> a large part of the male labor force migrates annually to neighboring countries for seasonal employment<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 90%<br>
-_industry and services_: 10% (2000 est.)<br>
 
 **Unemployment rate**<br>
 4.76% (2021 est.)<br>

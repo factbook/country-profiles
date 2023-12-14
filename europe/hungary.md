@@ -230,11 +230,6 @@ _total_: 15 years<br>
 _male_: 15 years<br>
 _female_: 15 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.5% (2021 est.)<br>
-_male_: 11.5%<br>
-_female_: 16.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -454,11 +449,6 @@ mining, metallurgy, construction materials, processed foods, textiles, chemicals
 
 **Labor force**<br>
 4.91 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 4.9%<br>
-_industry_: 30.3%<br>
-_services_: 64.5% (2015 est.)<br>
 
 **Unemployment rate**<br>
 4.12% (2021 est.)<br>
@@ -745,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Hungary and Slovakia have a long-running dispute over the implementation of a 1970s Soviet-era hydropower project on the Danube, the Gabčíkovo-Nagymaros project </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 53,375 (Ukraine) (as of 5 November 2023)<br>
+_refugees (country of origin)_: 61,445 (Ukraine) (as of 4 December 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

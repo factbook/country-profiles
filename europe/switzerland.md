@@ -228,11 +228,6 @@ _total_: 17 years<br>
 _male_: 17 years<br>
 _female_: 17 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.1% (2021 est.)<br>
-_male_: 9.4%<br>
-_female_: 8.8%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -360,7 +355,7 @@ _subordinate courts_: Federal Criminal Court (established in 2004); Federal Admi
 The Center (Die Mitte, Alleanza del Centro, Le Centre, Allianza dal Center) [Gerhard PFISTER] (merger of the Christian Democratic People's Party and the Conservative Democratic Party)<br>Evangelical Peoples' Party or EVP/PEV [Lilian STUDER]<br>Federal Democrats or EDU [Daniel FRISCHKNECH]<br>Geneva Citizens Movement or MCR/MCG [Ana ROCH]<br>Green Liberal Party (Gruenliberale Partei or GLP, Parti vert liberale or PVL, Partito Verde-Liberale or PVL, Partida Verde Liberale or PVL) [Jurg GROSSEN]<br>Green Party (Gruene Partei der Schweiz or Gruene, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda) [Balthasar GLATTLI]<br>The Liberals or FDP.The Liberals (FDP.Die Liberalen, PLR.Les Liberaux-Radicaux, PLR.I Liberali, Ils Liberals) [Thierry BURKART]<br>Social Democratic Party (Sozialdemokratische Partei der Schweiz or SP, Parti Socialiste Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS) [Cedric WERMUTH and Mattea MEYER]<br>Swiss People's Party (Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica di Centro or UDC, Uniun Democratica dal Center or UDC) [Marco CHIESA]<br><br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINUSMA, MONUSCO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNMOGIP, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNMOGIP, UNOOSA, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jacques Henri PITTELOUD (since 16 September 2019)<br>
@@ -455,11 +450,6 @@ machinery, chemicals, watches, textiles, precision instruments, tourism, banking
 
 **Labor force**<br>
 4.963 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 3.3%<br>
-_industry_: 19.8%<br>
-_services_: 76.9% (2015)<br>
 
 **Unemployment rate**<br>
 5.32% (2021 est.)<br>
@@ -743,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 66,065 (Ukraine) (as of 22 September 2023)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 66,525 (Ukraine) (as of 1 December 2023)<br>
 _stateless persons_: 891 (2022)<br>
 
 **Illicit drugs**<br>

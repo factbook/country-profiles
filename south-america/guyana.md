@@ -232,11 +232,6 @@ _total_: 11 years<br>
 _male_: 11 years<br>
 _female_: 12 years (2012)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.9% (2021 est.)<br>
-_male_: 23.5%<br>
-_female_: 39.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -437,11 +432,6 @@ bauxite, sugar, rice milling, timber, textiles, gold mining<br>
 
 **Labor force**<br>
 299,300 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: NA<br>
-_industry_: NA<br>
-_services_: NA<br>
 
 **Unemployment rate**<br>
 16.42% (2021 est.)<br>
@@ -674,7 +664,7 @@ the Guyana Defense Force (GDF) was established in 1965; its primary missions are
 ## Transnational Issues
 
 **Disputes - international**<br>
-<em>Guyana-Venezuela:</em> Venezuela claims all of the area west of the Essequibo River and maintains that Guyana does not have jurisdiction to grant concessions in maritime areas off the Essequibo, waters which are potentially rich in hydrocarbon resources; Guyana submitted the dispute to the International Court of Justice in 2018; in December 2023, the Venezuelan Government conducted a public referendum asking its citizens to support establishing a state in the disputed territory, granting citizenship to current and future area residents, and rejecting the jurisdiction of the ICJ<br><br><em>Guyana-Suriname:</em> Suriname claims a triangle of land between the New and Kutari/Koetari Rivers in a historic dispute over the headwaters of the Courantyne River<br>
+<em>Guyana-Venezuela:</em> Venezuela claims all of the area west of the Essequibo River and maintains that Guyana does not have jurisdiction to grant concessions in maritime areas off the Essequibo, waters which are potentially rich in hydrocarbon resources; Guyana submitted the dispute to the International Court of Justice in 2018; the ICJ ruled that it had jurisdiction to hear the case in December 2020; in September 2021, Venezuelan officials issued a statement reasserting dominion over three-quarters of Guyana, which Guyana stated was a threat to its sovereignty and territorial integrity; in December 2023, the Venezuelan Government conducted a public referendum asking its citizens to support establishing a state in the disputed territory, granting citizenship to current and future area residents, and rejecting the jurisdiction of the ICJ<br><br><em>Guyana-Suriname:</em> Suriname claims a triangle of land between the New and Kutari/Koetari Rivers in a historic dispute over the headwaters of the Courantyne River<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,600 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2022)<br>

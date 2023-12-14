@@ -243,11 +243,6 @@ _total_: 14 years<br>
 _male_: 14 years<br>
 _female_: 14 years (2018)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 24.3% (2021 est.)<br>
-_male_: 15.6%<br>
-_female_: 59.5%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -322,6 +317,7 @@ presidential republic<br>
 _name_: Cairo<br>
 _geographic coordinates_: 30 03 N, 31 15 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
+_daylight saving time_: +1hr, begins last Friday in April; ends last Thursday in October<br>
 _etymology_: from the Arabic "al-Qahira," meaning "the victorious"<br>
 
 **Administrative divisions**<br>
@@ -373,7 +369,7 @@ _subordinate courts_: Courts of Appeal; Courts of First Instance; courts of limi
 Al-Nour [Yunis MAKHYUN]<br>Arab Democratic Nasserist Party [El Etehad el Masri el ARABI]<br>Congress Party [Omar Al-Mokhtar SEMIDA]<br>Conservative Party [El Mohafezin]<br>Democratic Peace Party [Ahmed FADALY]<br>Egyptian National Movement Party [Gen. Raouf EL SAYED]<br>Egyptian Social Democratic Party [Farid ZAHRAN]<br>El Ghad Party [Moussa Mostafa MOUSSA]<br>El Serh El Masry el Hor [Tarek Ahmed Abbas NADIM]<br>Eradet Geel Party [Tayseer MATAR]<br>Free Egyptians Party [Essam KHALIL]<br>Freedom Party [Mamdouuh HASSAN]<br>Justice Party<br>Homeland’s Protector Party [Lt. Gen. (retired) Galal AL-HARIDI]<br>Modern Egypt Party [Nabil DEIBIS]<br>My Homeland Egypt Party [Gen. Seif El Islam ABDEL BARY ]<br>Nation's Future Party (Mostaqbal Watan) [Abdel Wahab Abdel RAZEQ]<br>National Progressive Unionist (Tagammu) Party [Sayed Abdel AAL]<br>Reform and Development Party [Mohamad Anwar al-SADAT]<br>Republican People’s Party [Hazim AMR]<br>Revolutionary Guards Party [Magdy EL-SHARIF]<br>Wafd Party [Abdel Sanad YAMAMA]<br>
 
 **International organization participation**<br>
-ABEDA, AfDB, AFESD, AMF, AU, BSEC (observer), CAEU, CD, CICA, COMESA, D-8, EBRD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, LCBC (observer), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OIF, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ABEDA, AfDB, AFESD, AMF, AU, BSEC (observer), CAEU, CD, CICA, COMESA, D-8, EBRD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, LCBC (observer), MIGA, MINURSO, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OIF, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Motaz Mounir ZAHRAN (since 17 September 2020)<br>
@@ -468,11 +464,6 @@ textiles, food processing, tourism, chemicals, pharmaceuticals, hydrocarbons, co
 
 **Labor force**<br>
 30.179 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 25.8%<br>
-_industry_: 25.1%<br>
-_services_: 49.1% (2015 est.)<br>
 
 **Unemployment rate**<br>
 9.33% (2021 est.)<br>
@@ -766,7 +757,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); 
 <em>Egypt-Gaza Strip:</em> constructed a barrier and established a buffer zone on its border with Gaza to halt the passage of weapons and militants through cross-border smuggling tunnels and pressure the Palestinian HAMAS terrorist group that runs the Gaza Strip<br><br><em>Egypt-Ethiopia</em>: Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile in northern Ethiopia since 2011 has become a focal point of relations with Egypt and Sudan; Egypt has described the giant hydroelectric project as an existential threat because of its potential to control the flow of the river that is a key source of water for the country; Ethiopia completed filling the dam in 2023<br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 310,000 (Sudan) (refugees since 15 April 2023), 151,721 (Syria) (2023)<br>
+_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 310,000 (Sudan) (refugees since 15 April 2023), 152,973 (Syria) (2023)<br>
 _stateless persons_: 10 (2022)<br>
 
 **Trafficking in persons**<br>

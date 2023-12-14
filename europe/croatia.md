@@ -231,11 +231,6 @@ _total_: 15 years<br>
 _male_: 14 years<br>
 _female_: 16 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.6% (2021 est.)<br>
-_male_: 21.8%<br>
-_female_: 26.3%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -455,11 +450,6 @@ chemicals and plastics, machine tools, fabricated metal, electronics, pig iron a
 
 **Labor force**<br>
 1.742 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 1.9%<br>
-_industry_: 27.3%<br>
-_services_: 70.8% (2017 est.)<br>
 
 **Unemployment rate**<br>
 8.68% (2021 est.)<br>
@@ -722,7 +712,7 @@ the Armed Forces of Croatia (OSRH) are responsible for the defense of Croatia’
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Croatia joined the Schengen Zone on 1 January 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,855 (Ukraine) (as of 3 November 2023)<br>
+_refugees (country of origin)_: 23,995 (Ukraine) (as of 1 December 2023)<br>
 _stateless persons_: 2,889 (2022)<br>
 <strong>note: </strong>843,010 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
 

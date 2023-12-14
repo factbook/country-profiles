@@ -245,11 +245,6 @@ _total population_: 62%<br>
 _male_: 71.3%<br>
 _female_: 52.7% (2018)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.6% (2021 est.)<br>
-_male_: 19.8% NA<br>
-_female_: 19.4% NA<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -376,7 +371,7 @@ _subordinate courts_: Court of Appeal; Federal High Court; High Court of the Fed
 Accord Party or ACC [Mohammad Lawal MALADO]<br>Africa Democratic Congress or ADC [Ralph Okey NWOSU] <br>All Progressives Congress or APC [<u>Abdullahi ADAMU</u>]<br>All Progressives Grand Alliance or APGA [Victor Ike OYE]<br>Labor Party or LP [Julius ABURE]<br>Peoples Democratic Party or PDP [Iyourchia AYU]<br>Young Progressive Party or YPP [Bishop AMAKIRI]<br>
 
 **International organization participation**<br>
-ACP, AfDB, ATMIS, AU, C, CD, D-8, ECOWAS, EITI (compliant country), FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINURSO, MINUSMA, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, ATMIS, AU, C, CD, D-8, ECOWAS, EITI (compliant country), FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINURSO, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Uzoma Elizabeth EMENIKE (since 7 July 2021)<br>
@@ -470,11 +465,6 @@ crude oil, coal, tin, columbite; rubber products, wood; hides and skins, textile
 
 **Labor force**<br>
 65.116 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 70%<br>
-_industry_: 10%<br>
-_services_: 20% (1999 est.)<br>
 
 **Unemployment rate**<br>
 9.79% (2021 est.)<br>

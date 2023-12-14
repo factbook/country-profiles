@@ -233,11 +233,6 @@ _total_: 12 years<br>
 _male_: 12 years<br>
 _female_: 12 years (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 41.2% (2021 est.)<br>
-_male_: 39.5%<br>
-_female_: 43.3%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -455,11 +450,6 @@ diamonds, copper, nickel, salt, soda ash, potash, coal, iron ore, silver; beef p
 
 **Labor force**<br>
 1.05 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: NA<br>
-_industry_: NA<br>
-_services_: NA<br>
 
 **Unemployment rate**<br>
 24.72% (2021 est.)<br>

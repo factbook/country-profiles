@@ -236,11 +236,6 @@ _total population_: 83.9%<br>
 _male_: 88.4%<br>
 _female_: 79.8% (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.8% (2021 est.)<br>
-_male_: 1.6%<br>
-_female_: 2.1%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -365,7 +360,7 @@ Candlelight Party or CP (the latest incarnation of the Sam <u>Rainsy</u> Party o
 <strong>note 1: </strong>42 parties had registered with the Cambodian Government at the beginning of 2023 <br><br><strong>note 2:</strong> following the 2017 commune election, the CPP-led government arrested the CNRP president Kem SOKHA for treason, dissolved the party on similar grounds, and forced most of its senior leadership into exile, where the party’s former president, Sam RAINSY, had been living since late 2015; opposition parties, particularly the Candlelight Party, continue to report, intimidation, harassment, and arrests by the Cambodian Government; in May 2023, the Cambodian Government disqualified the Candlelight Party, which is the main opposition party, from the July 2023 election<br>
 
 **International organization participation**<br>
-ADB, ARF, ASEAN, CICA, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MINUSMA, MIGA, NAM, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, ARF, ASEAN, CICA, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador KEO Chhea (since 19 April 2022)<br>
@@ -457,11 +452,6 @@ tourism, garments, construction, rice milling, fishing, wood and wood products, 
 
 **Labor force**<br>
 9.345 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 48.7%<br>
-_industry_: 19.9%<br>
-_services_: 31.5% (2013 est.)<br>
 
 **Unemployment rate**<br>
 0.61% (2021 est.)<br>

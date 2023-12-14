@@ -247,11 +247,6 @@ _total_: 14 years<br>
 _male_: 14 years<br>
 _female_: 14 years (2015)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.4% (2021 est.)<br>
-_male_: 12.1%<br>
-_female_: 10.4%<br>
-
 **People - note**<br>
 in October 2015, the Chinese Government announced that it would change its rules to allow all couples to have two children, loosening a 1979 mandate that restricted many couples to one child; the new policy was implemented on 1 January 2016 to address China&rsquo;s rapidly aging population and future economic needs<br>
 
@@ -387,7 +382,7 @@ Chinese Communist Party or CCP [XI Jinping]<br>
 <strong>note:</strong> China has 8 nominally independent small parties controlled by the CCP<br>
 
 **International organization participation**<br>
-ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), BIS, BRICS, CDB, CICA, EAS, FAO, FATF, G-20, G-24 (observer), G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAIA (observer), MIGA, MINURSO, MINUSMA, MONUSCO, NAM (observer), NSG, OAS (observer), OPCW, Pacific Alliance (observer), PCA, PIF (partner), SAARC (observer), SCO, SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UN Security Council (permanent), UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), BIS, BRICS, CDB, CICA, EAS, FAO, FATF, G-20, G-24 (observer), G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAIA (observer), MIGA, MINURSO, MONUSCO, NAM (observer), NSG, OAS (observer), OPCW, Pacific Alliance (observer), PCA, PIF (partner), SAARC (observer), SCO, SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UN Security Council (permanent), UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador XIE Feng (since 30 June 2023)<br>
@@ -486,11 +481,6 @@ world leader in gross value of industrial output; mining and ore processing, iro
 **Labor force**<br>
 791.383 million (2021 est.)<br>
 <strong>note:</strong> by the end of 2012, China's working age population (15-64 years) was 1.004 billion<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 27.7%<br>
-_industry_: 28.8%<br>
-_services_: 43.5% (2016 est.)<br>
 
 **Unemployment rate**<br>
 4.82% (2021 est.)<br>

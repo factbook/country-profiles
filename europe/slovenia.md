@@ -221,11 +221,6 @@ _total_: 18 years<br>
 _male_: 17 years<br>
 _female_: 18 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.9% (2021 est.)<br>
-_male_: 12.7%<br>
-_female_: 15.5%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -439,11 +434,6 @@ ferrous metallurgy and aluminum products, lead and zinc smelting; electronics (i
 
 **Labor force**<br>
 1.036 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 5.5%<br>
-_industry_: 31.2%<br>
-_services_: 63.3% (2017 est.)<br>
 
 **Unemployment rate**<br>
 4.42% (2021 est.)<br>
@@ -710,7 +700,7 @@ the Slovenian Armed Forces (Slovenska Vojska or SV) are a small and professional
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,435 (Ukraine) (as of 13 November 2023)<br>
+_refugees (country of origin)_: 10,515 (Ukraine) (as of 4 December 2023)<br>
 _stateless persons_: 10 (2020)<br>
 <strong>note: </strong> 6174,747 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 

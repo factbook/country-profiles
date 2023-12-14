@@ -237,11 +237,6 @@ _total population_: 79%<br>
 _male_: 84%<br>
 _female_: 74.3% (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.3% (2021 est.)<br>
-_male_: 3.4%<br>
-_female_: 5.3%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -459,11 +454,6 @@ sugar processing, brewing, tobacco, cotton textiles; cement, steel production<br
 
 **Labor force**<br>
 16.995 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 71%<br>
-_industry_: 7%<br>
-_services_: 22% (2013 est.)<br>
 
 **Unemployment rate**<br>
 2.94% (2021 est.)<br>
@@ -731,6 +721,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo (DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 905,568 (South Sudan) (refugees and asylum seekers), 502,487 (Democratic Republic of the Congo), 41,246 (Somalia), 38,880 (Burundi), 34,368 (Eritrea), 23,388 (Rwanda), 8,936 (Ethiopia), 5,776 (Sudan) (2023)<br>
+_refugees (country of origin)_: 917,232 (South Sudan) (refugees and asylum seekers), 502,487 (Democratic Republic of the Congo), 41,420 (Somalia), 39,330 (Burundi), 34,368 (Eritrea), 23,388 (Rwanda), 8,936 (Ethiopia), 5,776 (Sudan) (2023)<br>
 _stateless persons_: 67,000 (2022)<br>
 

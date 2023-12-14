@@ -228,11 +228,6 @@ _total_: 19 years<br>
 _male_: 18 years<br>
 _female_: 19 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.6% (2021 est.)<br>
-_male_: 10%<br>
-_female_: 9.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -357,7 +352,7 @@ _subordinate courts_: courts of appeal; district courts, each with up to 5 subdi
 Christian Democratic Appeal or CDA [Henri BONTENBAI]<br>Christian Union or CU [Mirjam BIKKER]<br>Correct Answer 2021 or JA21 [Joost EEDERMANS]<br>Democrats 66 or D66 [Rob JETTEN]<br>Denk [Stephan van BAARLE]<br>Farmer-Citizen Movement or BBB [Caroline van der PLAS]<br>50Plus [Martin van ROOIJEN]<br>Forum for Democracy or FvD [Thierry BAUDET]<br>Green Left (GroenLinks) or GL [Jesse KLAVER]<br>Labor Party or PvdA [Attje KUIKEN]<br>New Social Contract or NSC [Pieter OMTZIGT]<br>Party for Freedom or PVV [Geert WILDERS]<br>Party for the Animals or PvdD [Esther OUWENHAND]<br>People's Party for Freedom and Democracy or VVD [Dilan YESILGOZ]<br>Reformed Political Party or SGP [Chris STOFFER]<br>Socialist Party or SP [Lilian MARIJNISSEN]<br>Together or BIJ1 [Edson OLF]<br>Volt Netherlands or Volt [Laurens DASSEN]<br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, Benelux, BIS, CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, UNOOSA, UNRWA, UN Security Council (temporary), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, Benelux, BIS, CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, UNOOSA, UNRWA, UN Security Council (temporary), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Birgitta TAZELAAR (since 15 September 2023)<br>
@@ -451,11 +446,6 @@ agroindustries, metal and engineering products, electrical machinery and equipme
 
 **Labor force**<br>
 9.902 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 1.2%<br>
-_industry_: 17.2%<br>
-_services_: 81.6% (2015 est.)<br>
 
 **Unemployment rate**<br>
 4.01% (2021 est.)<br>
