@@ -96,7 +96,7 @@ Spanish (official) and Guarani (official) 46.3%, only Guarani 34%, only Spanish 
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 89.6%, Protestant 6.2%, other Christian 1.1%, other or unspecified 1.9%, none 1.1% (2002 est.)<br>
+Roman Catholic 80.4%, Protestant 7% (Evangelical (non-specific) 6.7%, Evangelical Pentecostal &lt;0.1%, Seventh Day Adventist &lt;0.1%, Protestant (non-specific) &lt;0.1%), Believer (not belonging to church) 5.7%, other 0.6%, agnostic &lt;0.1%, none 0.2%, unspecified 6.2% (2023 est.)<br>
 
 **Demographic profile**<br>
 <p>Paraguay falls below the Latin American average in several socioeconomic categories, including immunization rates, potable water, sanitation, and secondary school enrollment, and has greater rates of income inequality and child and maternal mortality. Paraguay's poverty rate has declined in recent years but remains high, especially in rural areas, with more than a third of the population below the poverty line. However, the well-being of the poor in many regions has improved in terms of housing quality and access to clean water, telephone service, and electricity. The fertility rate continues to drop, declining sharply from an average 4.3 births per woman in the late 1990s to about 2 in 2013, as a result of the greater educational attainment of women, increased use of contraception, and a desire for smaller families among young women.</p><p>Paraguay is a country of emigration; it has not attracted large numbers of immigrants because of political instability, civil wars, years of dictatorship, and the greater appeal of neighboring countries. Paraguay first tried to encourage immigration in 1870 in order to rebound from the heavy death toll it suffered during the War of the Triple Alliance, but it received few European and Middle Eastern immigrants. In the 20th century, limited numbers of immigrants arrived from Lebanon, Japan, South Korea, and China, as well as Mennonites from Canada, Russia, and Mexico. Large flows of Brazilian immigrants have been arriving since the 1960s, mainly to work in agriculture. Paraguayans continue to emigrate to Argentina, Brazil, Uruguay, the United States, Italy, Spain, and France.</p><br>
@@ -235,11 +235,6 @@ _definition_: age 15 and over can read and write<br>
 _total population_: 94.5%<br>
 _male_: 94.9%<br>
 _female_: 94.2% (2020)<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.3% (2021 est.)<br>
-_male_: 12.7%<br>
-_female_: 21.9%<br>
 
 ## Environment
 
@@ -458,11 +453,6 @@ sugar processing, cement, textiles, beverages, wood products, steel, base metals
 
 **Labor force**<br>
 3.43 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 26.5%<br>
-_industry_: 18.5%<br>
-_services_: 55% (2008)<br>
 
 **Unemployment rate**<br>
 7.21% (2021 est.)<br>

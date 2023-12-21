@@ -222,11 +222,6 @@ _total_: 20 years<br>
 _male_: 20 years<br>
 _female_: 20 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 36.9% (2021 est.)<br>
-_male_: 33.5%<br>
-_female_: 41.5%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -440,11 +435,6 @@ tourism, food and tobacco processing, textiles, chemicals, metal products; minin
 
 **Labor force**<br>
 4.619 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 12.6%<br>
-_industry_: 15%<br>
-_services_: 72.4% (30 October 2015 est.)<br>
 
 **Unemployment rate**<br>
 14.8% (2021 est.)<br>

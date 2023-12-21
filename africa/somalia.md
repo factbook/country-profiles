@@ -223,11 +223,6 @@ _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 34.7% (2021 est.)<br>
-_male_: 32.5%<br>
-_female_: 38.5%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -426,11 +421,6 @@ light industries, including sugar refining, textiles, wireless communication<br>
 
 **Labor force**<br>
 3.042 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 71%<br>
-_industry_: 29%<br>
-_industry and services_: 29% (1975)<br>
 
 **Unemployment rate**<br>
 19.86% (2021 est.)<br>
@@ -642,8 +632,8 @@ Somali National Armed Forces (SNAF; aka Somali National Defense Force): Land For
 5.9% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimates vary; approximately 18-20,000 regular military personnel (2023)<br>
-<strong>note 1:</strong> in January 2023, the Somali Government said the SNA would have 24,000 trained and equipped troops by 2024<br><br><strong>note 2:</strong> as of 2022, there were estimates of up to 50,000 militia forces operating in the country<br>
+estimates vary; approximately 20,000 regular military personnel (2023)<br>
+<strong>note 1:</strong> in January 2023, the Somali Government said the SNA would have 24,000 trained and equipped troops by 2024; it aims to also have about 40,000 police<br><br><strong>note 2:</strong> as of 2022, there were estimates of up to 50,000 militia forces operating in the country<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SNA is lightly armed with an inventory that includes a variety of older, secondhand equipment largely from Italy, Russia, South Africa, and the UK; in recent years, it has received small quantities of equipment as aid/donations from a variety of countries, including the US (2023)<br>

@@ -722,7 +722,7 @@ the military's inventory consists of a wide variety of imported weapons systems 
 18-26 years of age for voluntary military service for men and women; no conscription (2023)<br>
 
 **Military deployments**<br>
-175 Sudan/South Sudan (UNISFA); has about 200 police and military assigned to the MINUSMA mission in Mali (2023)<br>
+175 Sudan/South Sudan (UNISFA) (2023)<br>
 <strong>note:</strong> Nigeria has committed an Army combat brigade (approximately 3,000 troops) to the Multinational Joint Task Force (MNJTF), a regional counter-terrorism force comprised of troops from Benin, Cameroon, Chad, and Niger; MNJTF conducts operations against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
 
 **Military - note**<br>

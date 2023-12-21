@@ -209,11 +209,6 @@ _total_: 10 years<br>
 _male_: 10 years<br>
 _female_: 10 years (2019)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 26% (2019 est.)<br>
-_male_: 31%<br>
-_female_: 14.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -407,11 +402,6 @@ copra, tuna processing, tourism, craft items (from seashells, wood, and pearls)<
 
 **Labor force**<br>
 10,670 (2013 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 11%<br>
-_industry_: 16.3%<br>
-_services_: 72.7% (2011 est.)<br>
 
 **Unemployment rate**<br>
 36% (2006 est.)<br>

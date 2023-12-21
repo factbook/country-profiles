@@ -309,8 +309,7 @@ parliamentary constitutional monarchy<br>
 **Capital**<br>
 _name_: Amman<br>
 _geographic coordinates_: 31 57 N, 35 56 E<br>
-_time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_daylight saving time_: +1hr, begins last Friday in February; ends last Friday in October<br>
+_time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
 _etymology_: in the 13th century B.C., the Ammonites named their main city "Rabbath Ammon"; "rabbath" designated "capital," so the name meant "The Capital of [the] Ammon[ites]"; over time, the "Rabbath" came to be dropped and the city became known simply as "Ammon" and then "Amman"<br>
 
 **Administrative divisions**<br>

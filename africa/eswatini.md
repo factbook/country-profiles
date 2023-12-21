@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>A Swazi kingdom was founded in the mid-18th century and ruled by a series of kings including MSWATI II, a 19th century ruler whose appellation was adopted to become the name of the country and its predominant ethnic group. The kingdom’s modern borders were defined by European countries during the late-19th century and Swaziland (as it became known) was administered as a UK high commission territory from 1903 until its independence in 1968. A new constitution came into effect in 2006, which included provisions for a more independent parliament and judiciary, but the legal status of political parties remains unclear, and the kingdom is still considered an absolute monarchy. King MSWATI III renamed the country from Swaziland to Eswatini in 2018 to reflect the name most commonly used by its citizens. In 2021, MSWATI III used security forces to suppress prodemocracy protests and established a national dialogue on political reforms. Despite its classification as a lower-middle income country, Eswatini suffers from severe poverty, corruption, and high unemployment. Eswatini has the world's highest HIV/AIDS prevalence rate, although recent years have shown marked declines in new infections. Eswatini is the only country in Africa that recognizes Taiwan.</p> <p> </p> <p> </p> <p> </p><br>
+<p>A Swazi kingdom was founded in the mid-18th century and ruled by a series of kings including MSWATI II, a 19th century ruler whose appellation was adopted to become the name of the country and its predominant ethnic group. The kingdom’s modern borders were defined by European countries during the late-19th century and Swaziland (as it became known) was administered as a UK high commission territory from 1903 until its independence in 1968. A new constitution came into effect in 2005, which included provisions for a more independent parliament and judiciary, but the legal status of political parties remains unclear, and the kingdom is still considered an absolute monarchy. King MSWATI III renamed the country from Swaziland to Eswatini in 2018 to reflect the name most commonly used by its citizens. In 2021, MSWATI III used security forces to suppress prodemocracy protests. A national dialogue and reconciliation process agreed to in the wake of violence has not materialized. In November 2023, King MSWATI III appointed a new Prime Minister following peaceful national elections.  Despite its classification as a lower-middle income country, Eswatini suffers from severe poverty, corruption, and high unemployment. Eswatini has the world's highest HIV/AIDS prevalence rate, although recent years have shown marked declines in new infections. Eswatini is the only country in Africa that recognizes Taiwan.</p> <p> </p> <p> </p> <p> </p><br>
 
 ## Geography
 
@@ -323,14 +323,14 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King MSWATI III (since 25 April 1986)<br>
-_head of government_: <p>Prime Minister Ambrose Mandvulo DLAMINI (since 6 November 2023)</p> <p> </p><br>
+_head of government_: <p>Prime Minister Russell Mmiso DLAMINI (since 3 November 2023)</p> <p> </p><br>
 _cabinet_: Cabinet recommended by the prime minister, confirmed by the monarch; at least one-half of the cabinet membership must be appointed from among elected members of the House of Assembly<br>
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch from among members of the House of Assembly<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament (Libandla) consists of:<br> Senate (30 seats; 20 members appointed by the monarch and 10 indirectly elected by simple majority vote by the House of Assembly; members serve 5-year terms)<br>House of Assembly (70 seats statutory, current 70; 59 members directly elected in single-seat constituencies or tinkhundla by absolute majority vote in 2 rounds if needed, 10 members appointed by the monarch, 4 women elected by the members if representation of elected women is less than 30%, and 1 ex-officio member - the attorney general; members serve 5-year terms)<br>
-_elections_: <p>Senate - last held on 23 October 2018 (next to be held on 31 October 2023)<br>House of Assembly - last held on 29 September 2023 (next to be held in 2028)</p> <p> </p><br>
-_election results_: <p>Senate - percent of seats by party - NA; seats by party - NA; composition - men 18, women 12, percent of women 40% <br>House of Assembly - percent of vote by party - NA; seats by party - independent 59; composition - men 58, women 12, percent of women 17.14%; note - total Parliament percent of women 4.1%</p><br>
+_description_: bicameral Parliament (Libandla) consists of:<br> Senate (30 seats; 20 members appointed by the monarch and 10 indirectly elected by simple majority vote by the House of Assembly; members serve 5-year terms)<br>House of Assembly (70 seats statutory, current 69; 59 members directly elected in single-seat constituencies or tinkhundla by absolute majority vote in 2 rounds if needed, 10 members appointed by the monarch, 4 women, one each representing each region, elected by the members if representation of elected women is less than 30%, and 1 ex-officio member - the attorney general; members serve 5-year terms)<br>
+_elections_: <p>Senate - last election held on 12 October 2023 , senate fully constituted on November 5 when monarch appointed remaining 20 senators; (next to be held in 2028)<br><br>House of Assembly - last held on 29 September 2023 (next to be held in 2028)</p> <p> </p><br>
+_election results_: <p>Senate - percent of seats by party - NA; seats by party - NA; composition - men 17, women 13, percent of women 43% <br>House of Assembly - percent of vote by party - NA; seats by party - independent 59; composition - men 58, women 12, percent of women 17.14%; note - total Parliament percent of women 4.1%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and at least 4 justices) and the High Court (consists of the chief justice - ex officio - and 4 justices); note - the Supreme Court has jurisdiction in all constitutional matters<br>
@@ -351,12 +351,12 @@ _FAX_: [1] (202) 234-8254<br>
 _email address and website_: <br>embassy@eswatini-usa.com; swaziland@compuserve.com<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant) Charges d'Affaires Earl R. MILLER (since 27 January 2023)<br>
+_chief of mission_: Ambassador (vacant) Charges d'Affaires Caitlin PIPER (since 27 October 2023)<br>
 _embassy_: Corner of MR 103 and Cultural Center Drive, Ezulwini, P.O. Box D202, The Gables, H106<br>
 _mailing address_: 2350 Mbabane Place, Washington DC&nbsp; 20521-2350<br>
 _telephone_: (268) 2417-9000<br>
 _FAX_: [268] 2416-3344<br>
-_email address and website_: <br>ConsularMbabane@state.gov<br><br>https://sz.usembassy.gov/<br>
+_email address and website_: MBACONSULAR@state.gov<br><br>https://sz.usembassy.gov/<br>
 
 **Flag description**<br>
 three horizontal bands of blue (top), red (triple width), and blue; the red band is edged in yellow; centered in the red band is a large black and white shield covering two spears and a staff decorated with feather tassels, all placed horizontally; blue stands for peace and stability, red represents past struggles, and yellow the mineral resources of the country; the shield, spears, and staff symbolize protection from the country's enemies, while the black and white of the shield are meant to portray black and white people living in peaceful coexistence<br>

@@ -75,10 +75,10 @@ _noun_: Chinese<br>
 _adjective_: Chinese<br>
 
 **Ethnic groups**<br>
-Chinese 88.7%, Portuguese 1.1%, mixed 1.1%, other 9.2% (includes Macanese - mixed Portuguese and Asian ancestry) (2016 est.)<br>
+Chinese 89.4%, Chinese and Portuguese 1%, Portuguese 0.8%, Chinese and non-Portuguese 0.2%, Portuguese and others 0.2%, other 8.5% (2021 est.)<br>
 
 **Languages**<br>
-Cantonese 80.1%, Mandarin 5.5%, other Chinese dialects 5.3%, Tagalog 3%, English 2.8%, Portuguese 0.6%, other 2.8%; note - Chinese and Portuguese are official languages; Macanese, a Portuguese-based Creole, is also spoken (2016 est.)<br>
+Cantonese 81%, Mandarin 4.7%, other Chinese dialects 5.4%, English 3.6%, Tagalog 2.9%, Portuguese 0.6%, other 1.8%; note - Chinese and Portuguese are official languages; Macanese, a Portuguese-based Creole, is also spoken (2021 est.)<br>
 _major-language sample(s)_: <br> <p>世界概况, 必須擁有的基本資料参考书 (Cantonese)</p> <br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -181,11 +181,6 @@ _female_: 95.9% (2021)<br>
 _total_: 18 years<br>
 _male_: 17 years<br>
 _female_: 19 years (2021)<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.2% (2021 est.)<br>
-_male_: 11.7%<br>
-_female_: 6.6%<br>
 
 ## Environment
 
@@ -352,17 +347,6 @@ tourism, gambling, clothing, textiles, electronics, footwear, toys<br>
 
 **Labor force**<br>
 404,500 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 2.5%<br>
-_industry_: 9.8%<br>
-_services_: 4.4%<br>
-_industry and services_: 12.4%<br>
-_agriculture/fishing/forestry/mining_: 15%<br>
-_manufacturing_: 25.9%<br>
-_construction_: 7.1%<br>
-_transportation and utilities_: 2.6%<br>
-_commerce_: 20.3% (2013 est.)<br>
 
 **Unemployment rate**<br>
 3.01% (2021 est.)<br>

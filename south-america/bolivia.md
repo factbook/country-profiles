@@ -98,7 +98,7 @@ Spanish (official) 68.1%, Quechua (official) 17.2%, Aymara (official) 10.5%, Gua
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 70%, Evangelical 14.5%, Adventist 2.5%, Church of Jesus Christ 1.2%, agnostic 0.3%, atheist 0.8%, other 3.5%, none 6.6%, unspecified 0.6% (2018 est.)<br>
+Roman Catholic 65%, Protestant 19.6% (Evangelical (non-specific) 11.9%, Evangelical Baptist 2.1%, Evangelical Pentecostal 1.8%, Evangelical Methodist 0.7%, Adventist 2.8%, Protestant (non-specific) 0.3%), Believer (not belonging to the church) 0.9%, other 4.8%, atheist 1.7%, agnostic 0.6%, none 6.1%, unspecified 1.3% (2023 est.)<br>
 
 **Demographic profile**<br>
 <p>Bolivia ranks at or near the bottom among Latin American countries in several areas of health and development, including poverty, education, fertility, malnutrition, mortality, and life expectancy. On the positive side, more children are being vaccinated and more pregnant women are getting prenatal care and having skilled health practitioners attend their births.</p><p>Bolivia’s income inequality is the highest in Latin America and one of the highest in the world. Public education is of poor quality, and educational opportunities are among the most unevenly distributed in Latin America, with girls and indigenous and rural children less likely to be literate or to complete primary school. The lack of access to education and family planning services helps to sustain Bolivia’s high fertility rate—approximately three children per woman. Bolivia’s lack of clean water and basic sanitation, especially in rural areas, contributes to health problems.</p><p>Between 7% and 16% of Bolivia’s population lives abroad (estimates vary in part because of illegal migration). Emigrants primarily seek jobs and better wages in Argentina (the principal destination), the US, and Spain. In recent years, more restrictive immigration policies in Europe and the US have increased the flow of Bolivian emigrants to neighboring countries. Fewer Bolivians migrated to Brazil in 2015 and 2016 because of its recession; increasing numbers have been going to Chile, mainly to work as miners.</p><br>
@@ -238,11 +238,6 @@ _definition_: age 15 and over can read and write<br>
 _total population_: 92.5%<br>
 _male_: 96.5%<br>
 _female_: 88.6% (2015)<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.4% (2021 est.)<br>
-_male_: 16.8%<br>
-_female_: 18.4%<br>
 
 ## Environment
 
@@ -466,11 +461,6 @@ mining, smelting, electricity, petroleum, food and beverages, handicrafts, cloth
 
 **Labor force**<br>
 6.322 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 29.4%<br>
-_industry_: 22%<br>
-_services_: 48.6% (2015 est.)<br>
 
 **Unemployment rate**<br>
 8.51% (2021 est.)<br>

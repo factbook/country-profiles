@@ -242,11 +242,6 @@ _total_: 14 years<br>
 _male_: 14 years<br>
 _female_: 14 years (2018)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 16.1% (2021 est.)<br>
-_male_: 16.3%<br>
-_female_: 15.7%<br>
-
 **People - note**<br>
 Indonesia is the fourth most populous nation in the World after China, India, and the United States; more than half of the Indonesian population - roughly 150 million people or 55% - live on the island of Java (about the size of California) making it the most crowded island on earth<br>
 
@@ -362,7 +357,7 @@ _election results_: <em><br>2019</em>: Joko WIDODO elected president; percent of
 
 **Legislative branch**<br>
 _description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br>House of Representatives or Dewan Perwakilan Rakyat (575 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms)<br>
-_elections_: Regional Representative Council - last held on 17 April 2019 (next to be held in February 2024)<br>House of Representatives - last held on 17 April 2019 (next to be held in February 2024)<br>
+_elections_: Regional Representative Council - last held on 17 April 2019 (next to be held in February 2024)<br>House of Representatives - last held on 17 April 2019 (next to be held 14 February 2024)<br>
 _election results_: Regional Representative Council - all seats elected on a non-partisan basis; composition - men 102, women 34, percent of women 25%<br>House of Representatives - percent of vote by party - PDI-P 19.3%, Gerindra 12.6%, Golkar 12.3%, PKB 9.7%, Nasdem 9.1%, PKS 8.2%, PD 7.8%, PAN 6.8%, PPP 4.5%, other 9.6%; seats by party - PDI-P 128, Golkar 85, Gerindra 78, Nasdem 59, PKB 58, PD 54, PKS 50, PAN 44, PPP 19; composition - men 449, women 126, percent of women 21.9%; total People's Consultative Assembly percent of women 22.5%<br>
 
 **Judicial branch**<br>
@@ -471,11 +466,6 @@ petroleum and natural gas, textiles, automotive, electrical appliances, apparel,
 
 **Labor force**<br>
 138.119 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 32%<br>
-_industry_: 21%<br>
-_services_: 47% (2016 est.)<br>
 
 **Unemployment rate**<br>
 4.41% (2021 est.)<br>

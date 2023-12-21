@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Portugal discovered and colonized the uninhabited islands in the late 15th century, setting up a sugar-based economy that gave way to coffee and cocoa in the 19th century - all grown with African plantation slave labor, a form of which lingered into the 20th century. While independence was achieved in 1975, democratic reforms were not instituted until the late 1980s. The country held its first free elections in 1991, but frequent internal wrangling between the various political parties precipitated repeated changes in leadership and five failed, non-violent coup attempts in 1995, 1998, 2003, 2009, and 2022. In 2012, three opposition parties combined in a no confidence vote to bring down the majority government of former Prime Minister Patrice TROVOADA, but in 2014, legislative elections returned him to the office. President Evaristo CARVALHO, of the same political party as Prime Minister TROVOADA, was elected in September 2016, marking a rare instance in which the positions of president and prime minister were held by the same party. Prime Minister TROVOADA resigned at the end of 2018 and was replaced by Jorge BOM JESUS. Carlos Vila NOVA was elected president in September 2021 and was inaugurated early the following month. TROVOADA began his fourth stint as prime minister in November 2022, following his party's victory in legislative elections held in September of that year. New oil discoveries in the Gulf of Guinea may attract increased attention to the small island nation. </p><br>
+<p>Portugal discovered and colonized the uninhabited islands in the late 15th century, setting up a sugar-based economy that gave way to coffee and cocoa in the 19th century - all grown with African plantation slave labor, a form of which lingered into the 20th century. While independence was achieved in 1975, democratic reforms were not instituted until the late 1980s. The country held its first free elections in 1991, but frequent internal wrangling between the various political parties precipitated repeated changes in leadership and five failed, non-violent coup attempts in 1995, 1998, 2003, and 2009. In 2012, three opposition parties combined in a no confidence vote to bring down the majority government of former Prime Minister Patrice TROVOADA, but in 2014, legislative elections returned him to the office. President Evaristo CARVALHO, of the same political party as Prime Minister TROVOADA, was elected in September 2016, marking a rare instance in which the positions of president and prime minister were held by the same party. Prime Minister TROVOADA resigned at the end of 2018 and was replaced by Jorge BOM JESUS. Carlos Vila NOVA was elected president in September 2021 and was inaugurated early the following month. TROVOADA began his fourth stint as prime minister in November 2022, following his party's victory in legislative elections held in September of that year. </p><br>
 
 ## Geography
 
@@ -233,11 +233,6 @@ _total_: 12 years<br>
 _male_: 12 years<br>
 _female_: 13 years (2015)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 22.9% (2021 est.)<br>
-_male_: 18% NA<br>
-_female_: 34.3% NA<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -361,7 +356,7 @@ _FAX_: [1] (212) 317-0580<br>
 _email address and website_: <br>stp1@attglobal.net<br><br>Sao Tome and Principe Permanent Mission to the United Nations<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: the US does not have an embassy in Sao Tome and Principe; the US Ambassador to Gabon is accredited to Sao Tome and Principe<br>
+_embassy_: the US does not have an embassy in Sao Tome and Principe; the US Ambassador to Angola is accredited to Sao Tome and Principe<br>
 _mailing address_: 2290 Sao Tome Place, Washington DC&nbsp; 20521-2290<br>
 
 **Flag description**<br>
@@ -429,11 +424,6 @@ light construction, textiles, soap, beer, fish processing, timber<br>
 
 **Labor force**<br>
 71,400 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 26.1%<br>
-_industry_: 21.4%<br>
-_services_: 52.5% (2014 est.)<br>
 
 **Unemployment rate**<br>
 15.91% (2021 est.)<br>
@@ -583,20 +573,20 @@ _Total energy consumption per capita 2019_: 11.636 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,619 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
+_total subscriptions_: 2,501 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 189,239 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 85 (2021 est.)<br>
+_total subscriptions_: 197,318 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 87 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: local telephone network of adequate quality with most lines connected to digital switches; mobile cellular superior choice to landland; dial-up quality low; broadband expensive (2018)<br>
+_general assessment_: local telephone network of adequate quality with most lines connected to digital switches; mobile cellular superior choice to landline; dial-up quality low; broadband expensive (2018)<br>
 _domestic_: fixed-line is 1 per 100 and mobile-cellular teledensity is 85 telephones per 100 persons (2021)<br>
 _international_: country code - 239; landing points for the Ultramar GE and ACE submarine cables&nbsp;from South Africa&nbsp;to over 20&nbsp;West African countries and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-1 government-owned TV station; 1 government-owned radio station; 3 independent local radio stations authorized in 2005 with 2 operating at the end of 2006; transmissions of multiple international broadcasters are available<br>
+1 government-owned TV station; 2 government-owned radio stations; 7 independent local radio stations; transmissions of multiple international broadcasters are available<br>
 
 **Internet country code**<br>
 .st<br>

@@ -704,7 +704,7 @@ the military's inventory is a mix older and some newer Russian, Chinese, and Wes
 18-27 years of age for voluntary military service, with basic education certificate; no conscription (2023)<br>
 
 **Military deployments**<br>
-140 Mali (MINUSMA); 875 Lebanon (UNIFIL); 725 (plus about 275 police) South Sudan (UNMISS); 650 Sudan (UNISFA) (2023)<br>
+875 Lebanon (UNIFIL); 725 (plus about 275 police) South Sudan (UNMISS); 650 Sudan (UNISFA) (2023)<br>
 <strong>note:</strong> since sending a contingent of troops to the Congo in 1960, the military has been a regular contributor to African- and UN-sponsored peacekeeping missions<br>
 
 **Military - note**<br>

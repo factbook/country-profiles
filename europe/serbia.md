@@ -240,11 +240,6 @@ _total_: 14 years<br>
 _male_: 14 years<br>
 _female_: 15 years (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.4% (2021 est.)<br>
-_male_: 28.5%<br>
-_female_: 33.7%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -358,8 +353,8 @@ _election results_: <br><em>2022:</em> Aleksandar VUCIC reelected in first round
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Narodna Skupstina (250 seats; members directly elected by party list proportional representation vote in a single nationwide constituency to serve 4-year terms)<br>
-_elections_: last held on 3 April 2022 (next to be held in April 2026)<br>
-_election results_: percent of vote by party/coalition - Together We Can Do Everything 44.2%, UZPS 14.1%, Ivica Dacic - Prime Minister 11.8%, NADA 5.6%, We Must 4.9%, Dveri-POKS 3.9%, SSZ 3.8%, other 11.7%; seats by party/coalition - Together We Can Do Everything 120, UZPS 38, Ivica Dacic - Prime Minister 31, NADA 15, We Must 13, Dveri-POKS 10, SSZ 10, SVM 6, SPP 3, other 4; composition -&nbsp; men 150, women 100, percent of women 40%<br>
+_elections_: last held on 17 December 2023 (next to be held in 2027)<br>
+_election results_: percent of vote by party/coalition - Serbia Must Stop 48%, SPN 24.4%, SPS-JS-ZS 6.7%, NADA 5.2%, MI-GIN 4.8%, Alliance of Vojvodina Hungarians 1.7%, SPP-DSHV 0.8%, SDAS 0.6%, other 7.8%; seats by party/coalition - Serbia Must Stop 130, SPN 65, SPS-JS-ZS 18, NADA 14, MI-GIN 13, Alliance of Vojvodina Hungarians 6, SPP-DSHV 2, SDAS 2; composition - men NA, women NA; percent of women NA%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cassation (consists of 36 judges, including the court president); Constitutional Court (consists of 15 judges, including the court president and vice president)<br>
@@ -367,7 +362,7 @@ _judge selection and term of office_: Supreme Court justices proposed by the Hig
 _subordinate courts_: basic courts, higher courts, appellate courts; courts of special jurisdiction include the Administrative Court, commercial courts, and misdemeanor courts<br>
 
 **Political parties and leaders**<br>
-Albanian Democratic Alternative (coalition of ethnic Albanian parties) [Shaip KAMBERI]<br>Alliance of Vojvodina Hungarians or SVM or VMSZ [Istvan PASZTOR]<br>Better Serbia or BS [Dragan JOVANOVIC]<br>Democratic Party or DS [Zoran LUTOVAC]<br>Dveri [Bosko OBRADOVIC]<br>Greens of Serbia or ZS [Ivan KARIC]<br>Ivica Dacic - Prime Minister of Serbia [Ivica DACIC] (electoral coalition includes SPS, JS, ZS)<br>Justice and Reconciliation Party or SPP [Usame ZUKORLIC] (formerly Bosniak Democratic Union of Sandzak or BDZS)<br>Movement for the Restoration of the Kingdom of Serbia or POKS [Vojislav MIHAILOVIC]<br>Movement of Free Citizens or PSG [Pavle GRBOVIC]<br>Movement of Socialists or PS [Aleksandar VULIN]<br>National Democratic Alternative or NADA [Milos JOVANOVIC and Vojislav MIHAILOVIC] (coalition includes DSS and POKS)<br>New Democratic Party of Serbia or NDSS or New DSS [Milos JOVANOVIC] (formerly Democratic Party of Serbia or DSS)<br>Party of Democratic Action of the Sandzak or SDA [Sulejman UGLJANIN]<br>Party of Freedom and Justice or SSP [Dragan DJILAS]<br>Party of United Pensioners, Farmers, and Proletarians of Serbia – Solidarity and Justice or PUPS - Solidarity and Justice [Milan KRKOBABIC] (formerly Party of United Pensioners of Serbia or PUPS)<br>People's Party or NS or Narodna [Vuk JEREMIC]<br>People's Peasant Party or NSS [Marijan RISTICEVIC]<br>Serbian Party Oathkeepers or SSZ [Milica DJURDJEVIC STAMENKOVSKI]<br>Serbian People's Party or SNP [Nenad POPOVIC]<br>Serbian Progressive Party or SNS [Miloš VUCEVIC]<br>Serbian Renewal Movement or SPO [Vuk DRASKOVIC]<br>Social Democratic Party of Serbia or SDPS [Rasim LJAJIC]<br>Socialist Party of Serbia or SPS [Ivica DACIC]<br>Strength of Serbia or PSS [Bogoljub KARIC]<br>Together for Serbia or ZZS [Nebojsa ZELENOVIC]<br>Together We Can Do Everything [Milenko JOVANOV] (electoral coalition includes SNS, SDPS, PUPS, PSS, SNP, SPO, PS, NSS, USS, BS)<br>United for the Victory of Serbia or UZPS (includes NS, SSP, DS, PSG) (dissolved April 2022)<br>United Peasant Party or USS [Milija MILETIC]<br>United Serbia or JS [Dragan MARKOVIC]<br>We Must or Moramo [Nebojsa ZELENOVIC, Dobrica VESELINOVIC, Aleksandar JOVANOVIC CUTA, Biljana STOJKOVIC, Radomir LAZOVIC, Biljana DORDEVIC]<br>
+Alliance of Vojvodina Hungarians or SVM or VMSZ [Istvan PASZTOR]<br>Democratic Alliance of Croats in Vojvodina or DSHV [Tomislav ZIGMANOV]<br>Democratic Party or DS [Zoran LUTOVAC]<br>Dveri [Bosko OBRADOVIC]<br>Ecological Uprising or EU [Aleksandar JOVANOVIC]<br>Green - Left Front or ZLF [Radomir LAZOVIC, Biljana DORDEVIC]<br>Greens of Serbia or ZS [Ivan KARIC]<br>Justice and Reconciliation Party or SPP [Usame ZUKORLIC] (formerly Bosniak Democratic Union of Sandzak or BDZS)<br>Movement for Reversal or PZP [Janko VESELINOVIC]<br>Movement for the Restoration of the Kingdom of Serbia or POKS [Vojislav MIHAILOVIC]<br>Movement of Free Citizens or PSG [Pavle GRBOVIC]<br>Movement of Socialists or PS [Aleksandar VULIN]<br>National Democratic Alternative or NADA [Milos JOVANOVIC and Vojislav MIHAILOVIC] (coalition includes NDSS and POKS)<br>National Gathering or NO [Bosko OBRADOVIC, Milica Durdevic STAMENKOVSKI (electoral coalition includes SSZ, DVERI)<br>New Communist Party of Yugoslavia or DSHV [Aleksandar BANJANAC]<br>New Democratic Party of Serbia or NDSS or New DSS [Milos JOVANOVIC] (formerly Democratic Party of Serbia or DSS)<br>Party of Democratic Action of the Sandzak or SDAS [Sulejman UGLJANIN]<br>Party of Freedom and Justice or SSP [Dragan DJILAS]<br>Party of United Pensioners, Farmers, and Proletarians of Serbia – Solidarity and Justice or PUPS - Solidarity and Justice [Milan KRKOBABIC] (formerly Party of United Pensioners of Serbia or PUPS)<br>Party of Democratic Action of Sandzak or SDAS [Sulejmon UGLJANIN]<br>People's Movement of Serbia or NPS [Miroslav ALEKSIC]<br>People's Movement of Serbs from Kosovo and Metohija or Fatherland [Stavica RISTIC]<br>People's Peasant Party or NSS [Marijan RISTICEVIC]<br>Political Battle of the Albanians Continues or KSLP or KAPD [Shaip KAMBERI]<br>Russian Party or RS [Slobodan NIKOLIC]<br>Serbia Against Violence or SPN [collective leadership] (electoral coalition includes DS, SSP, ZLF, Zajedno, NPS, PSG, EU, PZP, USS Sloga, NLS, Fatherland]<br>Serbia Must Not Stop [Milenko JOVANOV] (electoral coalitions includes SNS, SDPS, PUPS, PSS, SNP, SPO, PS, NSS, USS)<br>Serbian Party Oathkeepers or SSZ [Milica DJURDJEVIC STAMENKOVSKI]<br>Serbian People's Party or SNP [Nenad POPOVIC]<br>Serbian Progressive Party or SNS [Miloš VUCEVIC]<br>Serbian Renewal Movement or SPO [Vuk DRASKOVIC]<br>Social Democratic Party of Serbia or SDPS [Rasim LJAJIC]<br>Socialist Party of Serbia or SPS [Ivica DACIC]<br>Strength of Serbia or PSS [Bogoljub KARIC]<br>Together or ZAJEDNO [Biljana STOSKOVIC]<br>United Peasant Party or USS [Milija MILETIC]<br>United Serbia or JS [Dragan MARKOVIC]<br>United Trade Unions of Serbia or NLS [Milos PARANDICOVIC]<br>We - The Voice from the People or MI-GIN [collective leadership)<br>
 <strong>note:</strong> Serbia has more than 110 registered political parties and citizens' associations<br>
 
 **International organization participation**<br>
@@ -466,11 +461,6 @@ automobiles, base metals, furniture, food processing, machinery, chemicals, suga
 
 **Labor force**<br>
 3.176 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 19.4%<br>
-_industry_: 24.5%<br>
-_services_: 56.1% (2017 est.)<br>
 
 **Unemployment rate**<br>
 11.81% (2021 est.)<br>
@@ -619,11 +609,11 @@ _Total energy consumption per capita 2019_: 98.195 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,540,276 (2021 est.)<br>
+_total subscriptions_: 2,538,727 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 37 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,501,519 (2021 est.)<br>
+_total subscriptions_: 8,621,147 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 124 (2021 est.)<br>
 
 **Telecommunication systems**<br>

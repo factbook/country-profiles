@@ -226,11 +226,6 @@ _total_: 15 years<br>
 _male_: 15 years<br>
 _female_: 15 years (2019)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 4.4% (2021 est.)<br>
-_male_: 4.6%<br>
-_female_: 4.1%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -443,11 +438,6 @@ among world's largest and most technologically advanced producers of motor vehic
 
 **Labor force**<br>
 68.629 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 2.9%<br>
-_industry_: 26.2%<br>
-_services_: 70.9% (February 2015 est.)<br>
 
 **Unemployment rate**<br>
 2.8% (2021 est.)<br>

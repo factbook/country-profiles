@@ -243,7 +243,7 @@ part of the Kingdom of Denmark; self-governing overseas administrative division 
 **Capital**<br>
 _name_: Nuuk (Godthaab)<br>
 _geographic coordinates_: 64 11 N, 51 45 W<br>
-_time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)<br>
+_time difference_: UTC-2 (3 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
 _time zone note_: Greenland has four time zones<br>
 _etymology_: "nuuk" is the Inuit word for "cape" and refers to the city's position at the end of the Nuup Kangerlua fjord<br>
@@ -373,11 +373,6 @@ fish processing (mainly shrimp and Greenland halibut), anorthosite and ruby mini
 
 **Labor force**<br>
 26,840 (2015 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 15.9%<br>
-_industry_: 10.1%<br>
-_services_: 73.9% (2015 est.)<br>
 
 **Unemployment rate**<br>
 9.1% (2015 est.)<br>

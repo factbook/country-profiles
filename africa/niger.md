@@ -702,7 +702,6 @@ the FAN's inventory consists of a wide variety of older weapons; in recent years
 18 is the legal minimum age for selective compulsory or voluntary military service for unmarried men and women; 24-month service term (2023)<br>
 
 **Military deployments**<br>
-875 Mali (MINUSMA) (2023)<br>
 <strong>note: </strong>Niger also has committed about 1,000 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
 
 **Military - note**<br>

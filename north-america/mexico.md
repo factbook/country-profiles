@@ -245,11 +245,6 @@ _total_: 15 years<br>
 _male_: 15 years<br>
 _female_: 15 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 8.1% (2021 est.)<br>
-_male_: 7.9%<br>
-_female_: 8.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -329,7 +324,7 @@ federal presidential republic<br>
 _name_: Mexico City (Ciudad de Mexico)<br>
 _geographic coordinates_: 19 26 N, 99 08 W<br>
 _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br>
-_daylight saving time_: +1hr, begins first Sunday in April; ends last Sunday in October<br>
+_daylight saving time_: DST was permanently removed in October 2022<br>
 _time zone note_: Mexico has four time zones<br>
 _etymology_: named after the Mexica, the largest and most powerful branch of the Aztecs; the meaning of the name is uncertain<br>
 
@@ -481,11 +476,6 @@ food and beverages, tobacco, chemicals, iron and steel, petroleum, mining, texti
 
 **Labor force**<br>
 56.132 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 13.4%<br>
-_industry_: 24.1%<br>
-_services_: 61.9% (2011)<br>
 
 **Unemployment rate**<br>
 4.38% (2021 est.)<br>

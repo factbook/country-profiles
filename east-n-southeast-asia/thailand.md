@@ -241,11 +241,6 @@ _total_: 15 years<br>
 _male_: 15 years<br>
 _female_: 16 years (2016)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 7% (2021 est.)<br>
-_male_: 6.2%<br>
-_female_: 8.1%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -367,7 +362,7 @@ _judge selection and term of office_: Supreme Court judges selected by the Judic
 _subordinate courts_: courts of first instance and appeals courts within both the judicial and administrative systems; military courts<br>
 
 **Political parties and leaders**<br>
-Action Coalition Party or ACP [ANEK Laothammathast]<br>Bhumjaithai Party (aka Phumchai Thai Party or PJT; aka Thai Pride Party) or BJT [ANUTIN Chanwirakun]<br>Chat Phatthana Kla arty (National Development Party) [KON Chatikawanit]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [VARAWUT Silpa-archa]<br>New Economics Party or NEP [MANUN Siwaphiromrat]<br>Move Forward Party or MFP [CHAITHAWAT Tulathon] <br>Palang Pracharat Party (People's State Power Party) or PPRP [PRAWIT Wongsuwan] <br>Prachachat Party or PCC [WAN Muhamad NOOR Matha]<br>Prachathipat Party (Democrat Party) or DP [JURIN Laksanawisit] <br>Puea Chat Party (For Nation Party) or PCP [SARUNWUT Sarunket]<br>Puea Thai Party (For Thais Party) or PTP [Chusak SIRINIL]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party or TLP) [SERIPHISUT Temiyawet]<br>Thai Civilized Party or TCL [MONGKOLKIT Suksintharanon]<br>Thai Local Power Party or TLP [CHATCHAWAI Kong-udom]<br>Thai People Power Party or TLPT [NIKHOM Bunwiset]<br>Thai Sang Thai Party [SUDARAT Keyuraphan]<br>United Thai Nation (Ruam Thai Sang Chat) or UTN [PHIRAPHAN Saliratthawiphak]<br>
+Action Coalition Party or ACP [ANEK Laothammathast]<br>Bhumjaithai Party (aka Phumchai Thai Party or PJT; aka Thai Pride Party) or BJT [ANUTIN Chanwirakun]<br>Chat Phatthana Kla arty (National Development Party) [KON Chatikawanit]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [VARAWUT Silpa-archa]<br>New Economics Party or NEP [MANUN Siwaphiromrat]<br>Move Forward Party or MFP [CHAITHAWAT Tulathon] <br>Palang Pracharat Party (People's State Power Party) or PPRP [PRAWIT Wongsuwan] <br>Prachachat Party or PCC [WAN Muhamad NOOR Matha]<br>Prachathipat Party (Democrat Party) or DP [CHALERMCHAI Sri-on] <br>Puea Chat Party (For Nation Party) or PCP [SARUNWUT Sarunket]<br>Puea Thai Party (For Thais Party) or PTP [Chusak SIRINIL]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party or TLP) [SERIPHISUT Temiyawet]<br>Thai Civilized Party or TCL [MONGKOLKIT Suksintharanon]<br>Thai Local Power Party or TLP [CHATCHAWAI Kong-udom]<br>Thai People Power Party or TLPT [NIKHOM Bunwiset]<br>Thai Sang Thai Party [SUDARAT Keyuraphan]<br>United Thai Nation (Ruam Thai Sang Chat) or UTN [PHIRAPHAN Saliratthawiphak]<br>
 
 **International organization participation**<br>
 ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMOGIP, UNOOSA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -465,11 +460,6 @@ tourism, textiles and garments, agricultural processing, beverages, tobacco, cem
 
 **Labor force**<br>
 40.213 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 31.8%<br>
-_industry_: 16.7%<br>
-_services_: 51.5% (2015 est.)<br>
 
 **Unemployment rate**<br>
 1.42% (2021 est.)<br>

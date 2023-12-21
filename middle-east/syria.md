@@ -223,11 +223,6 @@ _total_: 9 years<br>
 _male_: 9 years<br>
 _female_: 9 years (2013)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.2% (2021 est.)<br>
-_male_: 21.6%<br>
-_female_: 51.1%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -295,8 +290,7 @@ presidential republic; highly authoritarian regime<br>
 **Capital**<br>
 _name_: Damascus<br>
 _geographic coordinates_: 33 30 N, 36 18 E<br>
-_time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_daylight saving time_: +1hr, begins midnight on the last Friday in March; ends at midnight on the last Friday in October<br>
+_time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
 _etymology_: Damascus is a very old city; its earliest name, Temeseq, first appears in an Egyptian geographical list of the 15th century B.C., but the meaning is uncertain<br>
 
 **Administrative divisions**<br>
@@ -429,11 +423,6 @@ petroleum, textiles, food processing, beverages, tobacco, phosphate rock mining,
 
 **Labor force**<br>
 6.143 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 17%<br>
-_industry_: 16%<br>
-_services_: 67% (2008 est.)<br>
 
 **Unemployment rate**<br>
 10.57% (2021 est.)<br>
