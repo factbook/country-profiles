@@ -601,12 +601,12 @@ _Total energy consumption per capita 2019_: 639.951 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,887,500 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 32 (2021 est.)<br>
+_total subscriptions_: 1,906,200 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 32 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,660,700 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 146 (2021 est.)<br>
+_total subscriptions_: 9,350,700 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 156 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; the government's telecommunication regulator, Infocomm Media Development Authority (IMDA), issued awards in mid-2020 to telecom operators with the goal of having at least 50% of the city-state covered with a standalone 5G network by the end of 2022; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers and controls Internet content; well served by submarine cable and satellite connections (2021)<br>

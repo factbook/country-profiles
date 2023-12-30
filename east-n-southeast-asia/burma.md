@@ -314,7 +314,7 @@ _etymology_: both "Burma" and "Myanmar" derive from the name of the majority Bur
 <strong>note:</strong> since 1989 the military authorities in Burma and the deposed parliamentary government have promoted the name Myanmar as a conventional name for their state; the US Government has not officially adopted the name<br>
 
 **Government type**<br>
-previously parliamentary republic<br>
+military regime<br>
 
 **Capital**<br>
 _name_: Rangoon (aka Yangon, continues to be recognized as the primary Burmese capital by the US Government); Nay Pyi Taw is the administrative capital<br>

@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Paramount chief MOSHOESHOE I consolidated what would become Basutoland in the early 19th century and made himself king in 1822. Continuing encroachments by Dutch settlers from the neighboring Orange Free State caused the king to enter into an 1868 agreement with the UK by which Basutoland became a British protectorate, and after 1884, a crown colony. Upon independence in 1966, the country was renamed the Kingdom of Lesotho. The Basotho National Party ruled the country during its first two decades. King MOSHOESHOE II was exiled in 1990 but returned to Lesotho in 1992 and was reinstated in 1995 and subsequently succeeded by his son, King LETSIE III, in 1996. Constitutional government was restored in 1993 after seven years of military rule. In 1998, violent protests and a military mutiny following a contentious election prompted a brief but bloody intervention by South African and Batswana military forces under the aegis of the Southern African Development Community. Subsequent constitutional reforms restored relative political stability. Peaceful parliamentary elections were held in 2002, but the National Assembly elections in 2007 were hotly contested and aggrieved parties disputed how the electoral law was applied to award proportional seats in the Assembly. In 2012, competitive elections involving 18 parties saw Prime Minister Motsoahae Thomas THABANE form a coalition government - the first in the country's history - that ousted the 14-year incumbent, Pakalitha MOSISILI, who peacefully transferred power the following month. MOSISILI returned to power in snap elections in February 2015 after the collapse of THABANE&rsquo;s coalition government and an alleged attempted military coup. In June 2017, THABANE returned to become prime minister but stepped down in May 2020 after being implicated in his estranged wife&rsquo;s murder. He was succeeded by Moseketsi MAJORO. In November 2022, Ntsokoane Samuel MATEKANE was inaugurated as prime minister as head of a three-party coalition featuring his Revolution for Prosperity (RFP), the Monyane MOLELEKI-led Alliance of Democrats (AD), and the Selibe MOCHOBOROANE-led Movement for Economic Change (MEC).<br>
+Paramount chief MOSHOESHOE I consolidated what would become Basutoland in the early 19th century and made himself king in 1822. Continuing encroachments by Dutch settlers from the neighboring Orange Free State caused the king to enter into an 1868 agreement with the UK by which Basutoland became a British protectorate, and after 1884, a crown colony. Upon independence in 1966, the country was renamed the Kingdom of Lesotho. The Basotho National Party ruled the country during its first two decades. King MOSHOESHOE II was exiled in 1990 but returned to Lesotho in 1992 and was reinstated in 1995 and subsequently succeeded by his son, King LETSIE III, in 1996. Constitutional government was restored in 1993 after seven years of military rule. In 1998, violent protests and a military mutiny following a contentious election prompted a brief but bloody intervention by South African and Batswana military forces under the aegis of the Southern African Development Community (SADC). Subsequent constitutional reforms restored relative political stability. Peaceful parliamentary elections were held in 2002, but the National Assembly elections in 2007 were hotly contested and aggrieved parties disputed how the electoral law was applied to award proportional seats in the Assembly. In 2012, competitive elections involving 18 parties saw Prime Minister Motsoahae Thomas THABANE form a coalition government - the first in the country's history - that ousted the 14-year incumbent, Pakalitha MOSISILI, who peacefully transferred power the following month. MOSISILI returned to power in snap elections in February 2015 after the collapse of THABANE&rsquo;s coalition government and an alleged attempted military coup. In June 2017, THABANE returned to become prime minister but stepped down in May 2020 after being implicated in his estranged wife&rsquo;s murder. He was succeeded by Moseketsi MAJORO. In October 2022, Ntsokoane Samuel MATEKANE was inaugurated as prime minister and head of a three-party coalition featuring his Revolution for Prosperity (RFP), then Monyane MOLELEKI-led Alliance of Democrats (AD), and the Selibe MOCHOBOROANE-led Movement for Economic Change (MEC).<br>
 
 ## Geography
 
@@ -86,7 +86,7 @@ _noun_: Mosotho (singular), Basotho (plural)<br>
 _adjective_: Basotho<br>
 
 **Ethnic groups**<br>
-Sotho 99.7%, other 0.3% (includes San, Kwena, Nguni (Hlubi and Phuthi), Zulu)<br>
+Sotho 99.7%, other 0.3% (includes Kwena, Nguni (Hlubi and Phuthi), Zulu)<br>
 
 **Languages**<br>
 Sesotho (official) (southern Sotho), English (official), Phuthi, Xhosa, Zulu<br>
@@ -234,11 +234,6 @@ _total_: 12 years<br>
 _male_: 12 years<br>
 _female_: 13 years (2017)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 37.4% (2021 est.)<br>
-_male_: 32.8% NA<br>
-_female_: 43.8% NA<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -343,14 +338,14 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King LETSIE III (since 7 February 1996); note - King LETSIE III formerly occupied the throne from November 1990 to February 1995 while his father was in exile<br>
-_head of government_: Prime Minister Ntsokoane Samuel MATEKANE (4 November 2022)<br>
-_cabinet_: consists of the prime minister, appointed by the King on the advice of the Council of State, the deputy prime minister, and 15 other ministers<br>
-_elections/appointments_: the monarchy is hereditary, but under the terms of the constitution that came into effect after the March 1993 election, the monarch is a "living symbol of national unity" with no executive or legislative powers; under traditional law, the College of Chiefs has the power to depose the monarch, to determine next in line of succession, or to serve as regent in the event that a successor is not of mature age; following legislative elections, the leader of the majority party or majority coalition in the Assembly automatically becomes prime minister<br>
+_head of government_: Prime Minister Ntsokoane Samuel MATEKANE (28 October 2022)<br>
+_cabinet_: consists of the prime minister, appointed by the King on the advice of the Council of State, the deputy prime minister, and 18 other ministers; the prime minister is the leader of the majority party or majority coalition in the National Assembly&nbsp;<br>
+_elections/appointments_: the monarchy is hereditary, but under the terms of the constitution that came into effect after the March 1993 election, the monarch is a "living symbol of national unity" with no executive or legislative powers; under traditional law, the College of Chiefs has the power to depose the monarch, to determine next in line of succession, or to serve as regent in the event that a successor is not of mature age<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (33 seats; 22 principal chiefs and 11 other senators nominated by the king with the advice of the Council of State, a 13-member body of key government and non-government officials; members serve 5-year terms)<br>National Assembly (120 seats; 80 members directly elected in single-seat constituencies by simple majority vote and 40 elected through proportional representation; members serve 5-year terms)<br>
-_elections_: <p>Senate - last nominated by the king on July 2022 (next to be held in late July 2027)<br>National Assembly - last held on 7 October 2022 (next to be held in October 2027)</p><br>
-_election results_: <p>Senate - percent of votes by party - NA, seats by party - NA; composition - men 26, women 7, percent of women 21.2%<br><br>National Assembly - percent of votes by party - RFP 38.9%, DC 24.7%, ABC 7.1%, BAP 5.4%, AD 4.0%, MEC 3.2%, LCD 2.3%, SR 2.1%, BNP 1.4%, PFD 0.9%, BCM 0.8%, MPS 0.8%, MIP 0.7%; seats by party - RFP 56, DC 29, ABC 8, BAP 6, AD 5, MEC 4, LCD 3, SR 2, BNP 1, PFD 1,BCM 1, MPS 1, NIP 1, HOPE 1, TBD 1; composition - men 87, women 28, percent of women 23.3%; note - total Parliament percent of women 22.9%</p><br>
+_elections_: <p>Senate - last appointed by the king in November 2022 (next to be appointed 2028)<br>National Assembly - last held on 7 October 2022 (next to be held in February 2028)</p><br>
+_election results_: <p>Senate - percent of votes by party - NA, seats by party - NA; composition - men 25, women 8, percent of women 24.2%<br>National Assembly - percent of votes by party - RFP 38.9%, DC 24.7%, ABC 7.1%, BAP 5.4%, AD 4.0%, MEC 3.2%, LCD 2.3%, SR 2.1%, BNP 1.4%, PFD 0.9%, BCM 0.8%, MPS 0.8%, MIP 0.7%; seats by party - RFP 56, DC 29, ABC 8, BAP 6, AD 5, MEC 4, LCD 3, SR 2, BNP 1, PFD 1,BCM 1, MPS 1, NIP 1, HOPE 1, TBD 1; composition - men 88, women 32, percent of women 26.6%; note - total Parliament percent of women 22.9%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president, such number of justices of appeal as set by Parliament, and the Chief Justice and the puisne judges of the High Court ex officio); High Court (consists of the chief justice and such number of puisne judges as set by Parliament); note - both the Court of Appeal and the High Court have jurisdiction in constitutional issues<br>
@@ -358,7 +353,7 @@ _judge selection and term of office_: Court of Appeal president and High Court c
 _subordinate courts_: Magistrate Courts; customary or traditional courts; military courts<br>
 
 **Political parties and leaders**<br>
-All Basotho Convention or ABC [Nkaku KABI]<br>Alliance of Democrats or AD [Monyane MOLELEKI]<br>Basotho Action Party or BAP [Nqosa MAHAO]<br>Basotho National Party or BNP [Thesele MASERIBANE]<br>Democratic Congress or DC [Mathibeli MOKHOTHU]<br>Democratic Party of Lesotho or DPL [Limpho TAU]<br>Lesotho Congress for Democracy or LCD [Mothetjoa METSING]<br>Lesotho People's Congress or LPC [Mabusetsa MAKHARILELEJ]<br>Movement of Economic Change or MEC [Selibe MOCHOBOROANE]<br>National Independent Party or NIP [Kimetso MATHABA]<br>Popular Front for Democracy of PFD [Lekhetho RAKUOANE]<br>Reformed Congress of Lesotho or RCL [Keketso RANTSO]<br>
+All Basotho Convention or ABC [Nkaku KABI]<br>Alliance of Democrats or AD [Ntoi RAPPA]<br>Basotho Action Party or BAP [Nqosa MAHAO]<br>Basotho National Party or BNP [Machesetsa MOFOMOBE]<br>Democratic Congress or DC [Mathibeli MOKHOTHU]<br>Democratic Party of Lesotho or DPL [Limpho TAU]<br>Lesotho Congress for Democracy or LCD [Mothetjoa METSING]<br>Lesotho People's Congress or LPC [Moipone PIET]<br>Movement of Economic Change or MEC [Selibe MOCHOBOROANE]<br>National Independent Party or NIP [Kimetso MATHABA]<br>Popular Front for Democracy of PFD [Lekhetho RAKUOANE]<br>Reformed Congress of Lesotho or RCL [Keketso RANTSO]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OPCW, SACU, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -451,11 +446,6 @@ food, beverages, textiles, apparel assembly, handicrafts, construction, tourism<
 
 **Labor force**<br>
 955,600 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 86%<br>
-_industry and services_: 14% (2002 est.)<br>
-<strong>note:</strong> most of the resident population is engaged in subsistence agriculture; roughly 35% of the active male wage earners work in South Africa<br>
 
 **Unemployment rate**<br>
 24.6% (2021 est.)<br>
@@ -614,12 +604,12 @@ _total subscriptions_: 1,821,374 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 80 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: until late 2020, Lesotho&rsquo;s telecom regulator maintained a market duopoly which is focused on fixed-line services; competition was insufficient to promote effective price reductions for consumers, while the regulator had no mechanisms in place to monitor the telcos to ensure quality of service and fair pricing for consumers; the small size of the country&rsquo;s population provided little incentive for new players to enter the market; a positive outcome for consumers was the deployment in early 2021 of a service to monitor traffic and billing; this ended the practice whereby the regulator was dependent on telcos submitting data about their performance, billing, and other matters; the regulator has also turned its attention to addressing multiple SIM ownership and stem incidences of crimes committed using unregistered SIMs; in May 2022, it instructed the country&rsquo;s MNOs to begin registering SIM cards on their networks from the following month; fixed-wireless 5G trials began in early 2019 (2022)<br>
+_general assessment_: until late 2020, Lesotho&rsquo;s telecom regulator maintained a market duopoly which is focused on fixed-line services; competition was insufficient to promote effective price reductions for consumers, while the regulator had no mechanisms in place to monitor the telcos to ensure quality of service and fair pricing for consumers; the small size of the country&rsquo;s population provided little incentive for new players to enter the market; a positive outcome for consumers was the deployment in early 2021 of a service to monitor traffic and billing; this ended the practice whereby the regulator was dependent on telcos submitting data about their performance, billing, and other matters; the regulator has also turned its attention to addressing multiple SIM ownership and stemming incidences of crimes committed using unregistered SIMs; in May 2022, it instructed the country&rsquo;s Mobile Network Operators to begin registering SIM cards on their networks from the following month; fixed-wireless 5G trials began in early 2019 (2022)<br>
 _domestic_: fixed-line is less than 1 per 100 subscriptions; mobile-cellular service subscribership is 80 per 100 persons (2021)<br>
 _international_: country code - 266; Internet accessibility has improved with several submarine fiber optic cables that land on African east and west coasts, but the country's land locked position makes access prices expensive; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-1 state-owned TV station and 2 state-owned radio stations; government controls most private broadcast media; satellite TV subscription service available; transmissions of multiple international broadcasters obtainable (2019)<br>
+1 state-owned TV station and 2 state-owned radio stations; most private broadcast media transmitters are connected to government radio signal towers; satellite TV subscription service available; transmissions of multiple international broadcasters obtainable (2019)<br>
 
 **Internet country code**<br>
 .ls<br>
@@ -656,8 +646,8 @@ _unpaved_: 4,871 km (2011)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lesotho Defense Force (LDF): Army (includes Air Wing) (2023)<br>
-<strong>note:</strong> the Lesotho Mounted Police Service is responsible for internal security and reports to the Minister of Police and Public Safety<br>
+Lesotho Defense Force (LDF): Army (includes Air Wing)  (2023)<br>
+<strong>note:</strong> the Lesotho Mounted Police Service is responsible for internal security and reports to the Minister of Local Government, Chieftainship, Home Affairs and Police<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2022 est.)<br>
@@ -673,7 +663,7 @@ approximately 2,000 personnel (2023)<br>
 the LDF has a small inventory of older and second-hand equipment from a variety of countries (2023)<br>
 
 **Military service age and obligation**<br>
-20-30 years of age for voluntary military service for both men and women (women can serve in combat arms); no conscription (2023)<br>
+18-24 years of age for voluntary military service for both men and women (women can serve in combat arms); no conscription (2023)<br>
 
 **Military - note**<br>
 Lesotho's declared policy for its military is the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa; the LDF is a small force comprised of about a half dozen infantry companies; it began in 1964 as the Police Mobile Unit (PMU); the PMU was designated as the Lesotho Paramilitary Force in 1980 and became the Royal Lesotho Defense Force in 1986; it was subsequently renamed the Lesotho Defense Force in 1993 (2023)<br>

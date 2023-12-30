@@ -603,12 +603,12 @@ _Total energy consumption per capita 2019_: 296.949 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,594,631 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 18 (2021 est.)<br>
+_total subscriptions_: 6,773,272 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 19 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 45,427,321 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 126 (2021 est.)<br>
+_total subscriptions_: 48,197,996 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Saudi Arabia&rsquo;s telecom and ICT sectors continue to benefit from the range of programs aimed at diversifying the economy away from a dependence on oil, and establishing a wider digital transformation over the next decade; an essential element of this has been the widening reach of 5G networks, which by mid-2021 reached about half of the population and the majority of cities; the MNOs have focused investment on upgrading LTE infrastructure and further developing 5G; this in part is aimed at generating additional revenue from mobile data services, and also to their contribution to the Vision 2030 program; the ongoing pandemic has resulted in more people working and schooling from home during periods of restricted travel; this has stimulated growth in mobile data traffic, while the government has encouraged non-cash transactions and so helped develop the vast e-commerce market; while Saudi Arabia&rsquo;s fixed broadband penetration remains relatively low, there has been a concentration of fiber infrastructure and the Kingdom has developed one of the fastest services in the region (2022)<br>

@@ -572,12 +572,12 @@ _Total energy consumption per capita 2019_: 163.06 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 18,768 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 18 (2021 est.)<br>
+_total subscriptions_: 19,027 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 184,161 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 173 (2021 est.)<br>
+_total subscriptions_: 205,140 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 192 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: effective system; direct international calls to over 100 countries; radiotelephone communications between islands in the archipelago; 3 ISPs; use of Internet cafes' for access to Internet; 4G services and 5G pending (2020)<br>

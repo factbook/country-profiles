@@ -212,12 +212,6 @@ _male_: 12 years<br>
 _female_: 14 years (2021)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 39.6% (2021 est.)<br>
-_male_: 33.7%<br>
-_female_: 69%<br>
-<strong>note:</strong> includes the West Bank<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -322,12 +316,6 @@ textiles, food processing, furniture<br>
 **Labor force**<br>
 1.249 million (2021 est.)<br>
 <strong>note:</strong> excludes the West Bank<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 5.2%<br>
-_industry_: 10%<br>
-_services_: 84.8% (2015 est.)<br>
-<strong>note:</strong> data exclude the West Bank<br>
 
 **Unemployment rate**<br>
 24.9% (2021 est.)<br>
@@ -521,5 +509,5 @@ Army of Islam; Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; HAMAS; Islamic 
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 1.6 million (Palestinian refugees) (2022)<br>
-_IDPs_: 1.6 million (includes persons displaced within the Gaza Strip due to the intensification of the Israeli-Palestinian conflict since June 2014 and other Palestinian IDPs in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006) (2023); note - data represent Gaza Strip<br>
+_IDPs_: 1.9 million (as of 18 December 2023, since HAMAS's attack on Israel on 7 October 2023)<br><br>1.6 million (includes persons displaced within the Gaza Strip due to the intensification of the Israeli-Palestinian conflict between June 2014 and 7 October 2023 and other Palestinian IDPs in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006) (2022)<br>
 

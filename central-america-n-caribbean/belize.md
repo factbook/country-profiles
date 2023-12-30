@@ -106,21 +106,21 @@ _elderly dependency ratio_: 7.4<br>
 _potential support ratio_: 13.5 (2021 est.)<br>
 
 **Median age**<br>
-_total_: 23.9 years (2020)<br>
-_male_: 23 years<br>
-_female_: 24.8 years<br>
+_total_: 26.4 years (2023 est.)<br>
+_male_: 26.1 years<br>
+_female_: 26.8 years<br>
 
 **Population growth rate**<br>
-1.61% (2023 est.)<br>
+1.47% (2023 est.)<br>
 
 **Birth rate**<br>
-20.93 births/1,000 population (2023 est.)<br>
+18 births/1,000 population (2023 est.)<br>
 
 **Death rate**<br>
-3.89 deaths/1,000 population (2023 est.)<br>
+5.2 deaths/1,000 population (2023 est.)<br>
 
 **Net migration rate**<br>
--0.95 migrant(s)/1,000 population (2023 est.)<br>
+1.8 migrant(s)/1,000 population (2023 est.)<br>
 
 **Population distribution**<br>
 approximately 25% to 30% of the population lives in the former capital, Belize City; over half of the overall population is rural; population density is slightly higher in the north and east<br>
@@ -137,26 +137,26 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-64 years_: 0.99 male(s)/female<br>
 _65 years and over_: 0.9 male(s)/female<br>
-_total population_: 1 male(s)/female (2023 est.)<br>
+_total population_: 0.98 male(s)/female (2023 est.)<br>
 
 **Maternal mortality ratio**<br>
 130 deaths/100,000 live births (2020 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.9 deaths/1,000 live births (2023 est.)<br>
-_male_: 12.08 deaths/1,000 live births<br>
-_female_: 9.66 deaths/1,000 live births<br>
+_total_: 11.3 deaths/1,000 live births (2023 est.)<br>
+_male_: 12.4 deaths/1,000 live births<br>
+_female_: 10.2 deaths/1,000 live births<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.08 years (2023 est.)<br>
-_male_: 74.49 years<br>
-_female_: 77.75 years<br>
+_total population_: 73.7 years (2023 est.)<br>
+_male_: 71.9 years<br>
+_female_: 75.6 years<br>
 
 **Total fertility rate**<br>
-2.59 children born/woman (2023 est.)<br>
+2.08 children born/woman (2023 est.)<br>
 
 **Gross reproduction rate**<br>
-1.26 (2023 est.)<br>
+1.02 (2023 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 51.4% (2015/16)<br>

@@ -163,9 +163,6 @@ defense is the responsibility of the UK; Akrotiri (aka the Western Sovereign Bas
 
 ## Transnational Issues
 
-**Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,495 (Ukraine) (as of<br>
-
 **Illicit drugs**<br>
 NA<br>
 

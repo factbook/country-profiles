@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-In the early 1800s, multiple political entities in what is now Botswana were destabilized or destroyed by a series of conflicts and population movements in southern Africa. By the end of this period, the Tswana ethnic group, who also live across the border in South Africa, had become the most prominent group in the area. In 1852, Tswana forces halted the expansion of white Afrikaner settlers who were seeking to expand their territory northwards into what is now Botswana. In 1885, Great Britain claimed territory that roughly corresponds with modern day Botswana as a protectorate called Bechuanaland. Upon independence in 1966, the British protectorate of Bechuanaland adopted the new name of Botswana, which means land of the Tswana. More than five decades of uninterrupted civilian leadership, progressive social policies, and significant capital investment have created an enduring democracy and upper-middle-income economy. The ruling Botswana Democratic Party has won every national election since independence; President Mokgweetsi Eric MASISI assumed the presidency in 2018 following the retirement of former President Ian KHAMA due to constitutional term limits. MASISI won his first election as president in 2019, and he is Botswana’s fifth president since independence. Mineral extraction, principally diamond mining, dominates economic activity, though tourism is a growing sector due to the country's conservation practices and extensive nature preserves. Botswana has one of the world's highest rates of HIV/AIDS infection but also one of Africa's most progressive and comprehensive programs for dealing with the disease. <p> </p> <p> </p><br>
+In the early 1800s, multiple political entities in what is now Botswana were destabilized or destroyed by a series of conflicts and population movements in southern Africa. By the end of this period, the Tswana ethnic group, who also live across the border in South Africa, had become the most prominent group in the area. In 1852, Tswana forces halted the expansion of white Afrikaner settlers who were seeking to expand their territory northwards into what is now Botswana. In 1885, Great Britain claimed territory that roughly corresponds with modern day Botswana as a protectorate called Bechuanaland. Upon independence in 1966, the British protectorate of Bechuanaland adopted the new name of Botswana, which means land of the Tswana. More than five decades of uninterrupted civilian leadership, progressive social policies, and significant capital investment have created an enduring democracy and upper-middle-income economy. The ruling Botswana Democratic Party has won every national election since independence; President Mokgweetsi Eric Keabetswe MASISI assumed the presidency in 2018 following the retirement of former President Ian KHAMA due to constitutional term limits. MASISI won his first election as president in 2019, and he is Botswana’s fifth president since independence. Mineral extraction, principally diamond mining, dominates economic activity, though tourism is a growing sector due to the country's conservation practices and extensive nature preserves. Botswana has one of the world's highest rates of HIV/AIDS infection but also one of Africa's most progressive and comprehensive programs for dealing with the disease. <p> </p> <p> </p><br>
 
 ## Geography
 
@@ -319,7 +319,7 @@ _etymology_: named after GABORONE (ca. 1825-1931), a revered kgosi (chief) of th
 Independence Day (Botswana Day), 30 September (1966)<br>
 
 **Constitution**<br>
-_history_: previous 1960 (preindependence); latest adopted March 1965, effective 30 September 1966<br>
+_history_: previous 1960 (pre-independence); latest adopted March 1965, effective 30 September 1966<br>
 _amendments_: proposed by the National Assembly; passage requires approval in two successive Assembly votes with at least two-thirds majority in the final vote; proposals to amend constitutional provisions on fundamental rights and freedoms, the structure and branches of government, and public services also requires approval by majority vote in a referendum and assent by the president of the republic; amended several times, last in 2021<br>
 
 **Legal system**<br>
@@ -338,8 +338,8 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Mokgweetse Eric MASISI (since 1 April 2018); Vice President Slumber TSOGWANE (since 4 April 2018); note - the president is both chief of state and head of government<br>
-_head of government_: President Mokgweetse Eric MASISI (since 1 April 2018); Vice President Slumber TSOGWANE (since 4 April 2018)<br>
+_chief of state_: President Mokgweetsi Eric Keabetswe MASISI (since 1 April 2018); Vice President Slumber TSOGWANE (since 4 April 2018); note - the president is both chief of state and head of government<br>
+_head of government_: President Mokgweetsi Eric Keabetswe MASISI (since 1 April 2018); Vice President Slumber TSOGWANE (since 4 April 2018)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 23 October 2019 (next to be held in October 2024); vice president appointed by the president<br>
 _election results_: President Seretse Khama Ian KHAMA, who had served as president since 1 April 2008, stepped down on 1 April 2018 having completed the constitutionally mandated 10-year term limit; upon his retirement, then Vice President MASISI became president; national elections held in 2019 gave MASISI'S BPD 38 seats in the National Assembly which then selected MASISI as President<br>
@@ -355,7 +355,7 @@ _judge selection and term of office_: Court of Appeal and High Court chief justi
 _subordinate courts_: Industrial Court (with circuits scheduled monthly in the capital city and in 3 districts); Magistrates Courts (1 in each district); Customary Court of Appeal; Paramount Chief's Court/Urban Customary Court; Senior Chief's Representative Court; Chief's Representative’s Court; Headman's Court<br>
 
 **Political parties and leaders**<br>
-Alliance of Progressives or AP [Ndaba GAOLATHE]<br>Botswana Congress Party or BCP [Dumelang SALESHANDO]<br>Botswana Democratic Party or BDP [Mokgweetsi MASISI]<br>Botswana National Front or BNF [Duma BOKO]<br>Botswana Patriotic Front or BPF [Biggie BUTALE]<br>Botswana Peoples Party or BPP [Motlatsi MOLAPISI]<br>Umbrella for Democratic Change or UDC [Duma BOKO] (various times the coalition has included the BPP, BCP, BNF and other parties)<br>
+Alliance of Progressives or AP [Ndaba GAOLATHE]<br>Botswana Congress Party or BCP [Dumelang SALESHANDO]<br>Botswana Democratic Party or BDP [Mokgweetsi MASISI]<br>Botswana National Front or BNF [Duma BOKO]<br>Botswana Patriotic Front or BPF [Mephato REATILE]<br>Botswana Peoples Party or BPP [Motlatsi MOLAPISI]<br>Botswana Republic Party or BRP [Biggie BUTALE]<br>Umbrella for Democratic Change or UDC [Duma BOKO] (various times the coalition has included the BPP, BCP, BNF and other parties)<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -371,10 +371,10 @@ _consulate(s) general_: Atlanta<br>
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Howard A. VAN VRANKEN (since 24 May 2023)<br>
 _embassy_: Embassy Drive, Government Enclave (off Khama Crescent), Gaborone<br>
-_mailing address_: 2170 Gabarone Place, Washington DC&nbsp; 20521-2170<br>
+_mailing address_: 2170 Gaborone Place, Washington DC&nbsp; 20521-2170<br>
 _telephone_: [267] 395-3982<br>
 _FAX_: [267] 318-0232<br>
-_email address and website_: <br>ConsularGabarone@state.gov<br><br>https://bw.usembassy.gov/<br>
+_email address and website_: <br>ConsularGaborone@state.gov<br><br>https://bw.usembassy.gov/<br>
 
 **Flag description**<br>
 light blue with a horizontal white-edged black stripe in the center; the blue symbolizes water in the form of rain, while the black and white bands represent racial harmony<br>

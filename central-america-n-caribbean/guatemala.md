@@ -233,11 +233,6 @@ _total_: 11 years<br>
 _male_: 11 years<br>
 _female_: 10 years (2019)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.2% (2021 est.)<br>
-_male_: 6.3%<br>
-_female_: 9.4%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -338,7 +333,7 @@ _chief of state_: President Alejandro GIAMMATTEI (since 14 January 2020); Vice P
 _head of government_: President Alejandro GIAMMATTEI (since 14 January 2020); Vice President&nbsp;Cesar Guillermo CASTILLO Reyes&nbsp;(since 14 January 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (not eligible for consecutive terms); election last held on 25 June 2023 with a runoff on 20 August 2023 (next to be held in June 2027)<br>
-_election results_: <em><br>2023:</em> Bernardo ARÉVALO de León elected president in second round; percent of vote in first round - Sandra TORRES (UNE) 21%; Bernardo ARÉVALO de León (SEMILLA) 15.6%, Manuel CONDE Orellana (VAMOS) 10.4%; Armando CASTILLO Alvarado (VIVA) 9.6%, other 43.4%; percent of vote in second round - Bernardo ARÉVALO de León 60.9%, Sandra TORRES 39.1%<br><em><br>2019:</em> Alejandro GIAMMATTEI elected president; percent of vote in first round - Sandra TORRES (UNE) 25.5%, Alejandro GIAMMATTEI (VAMOS) 14%, Edmond MULET (PHG) 11.2%, Thelma CABRERA (MLP) 10.4%, Roberto ARZU (PAN-PODEMOS) 6.1%, other 32.8%; percent of vote in second round - Alejandro GIAMMATTEI 58%, Sandra TORRES 42%<br>
+_election results_: <em><br>2023:</em> Bernardo ARÉVALO de León elected president in second round; percent of vote in first round - Sandra TORRES (UNE) 21%; Bernardo ARÉVALO de León (SEMILLA) 15.6%, Manuel CONDE Orellana (VAMOS) 10.4%; Armando CASTILLO Alvarado (VIVA) 9.6%, other 43.4%; percent of vote in second round - Bernardo ARÉVALO de León 60.9%, Sandra TORRES 39.1%; note - ARÉVALO is scheduled to take office 14 January 2024<br><em><br>2019:</em> Alejandro GIAMMATTEI elected president; percent of vote in first round - Sandra TORRES (UNE) 25.5%, Alejandro GIAMMATTEI (VAMOS) 14%, Edmond MULET (PHG) 11.2%, Thelma CABRERA (MLP) 10.4%, Roberto ARZU (PAN-PODEMOS) 6.1%, other 32.8%; percent of vote in second round - Alejandro GIAMMATTEI 58%, Sandra TORRES 42%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Congress of the Republic or Congreso de la Republica (160 seats; 128 members directly elected in multi-seat constituencies in the country's 22 departments and 32 directly elected in a single nationwide constituency by closed party-list proportional representation vote, using the D'Hondt method; members serve 4-year terms)<br>
@@ -449,11 +444,6 @@ sugar, textiles and clothing, furniture, chemicals, petroleum, metals, rubber, t
 
 **Labor force**<br>
 6.671 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 31.4%<br>
-_industry_: 12.8%<br>
-_services_: 55.8% (2017 est.)<br>
 
 **Unemployment rate**<br>
 3.57% (2021 est.)<br>

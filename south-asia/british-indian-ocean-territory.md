@@ -134,6 +134,14 @@ _etymology_: self-descriptive name specifying the territory's affiliation and lo
 **Dependency status**<br>
 overseas territory of the UK; administered by a commissioner, resident in the Foreign, Commonwealth, and Development Office in London<br>
 
+**Capital**<br>
+_name_: often regarded as being on Diego Garcia<br>
+_geographic coordinates_: <strong> </strong>7 18S, 12 24E<br>
+_time difference_: UTC+6 (12 hours ahead of Washington, DC, during Standard Time)<br>
+
+**Constitution**<br>
+_history_: British Indian Ocean Territory (Constitution) Order 2004<br>
+
 **Legal system**<br>
 the laws of the UK apply where applicable<br>
 

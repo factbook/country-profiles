@@ -476,12 +476,12 @@ _electrification - total population_: 100% (2021)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 16,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 47 (2021 est.)<br>
+_total subscriptions_: 16,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 48 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 40,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 119 (2021 est.)<br>
+_total subscriptions_: 41,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 122 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: automatic telephone system completely integrated into Italian system (2018)<br>

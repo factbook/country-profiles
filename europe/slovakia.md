@@ -611,12 +611,12 @@ _Total energy consumption per capita 2019_: 129.665 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 577,390 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 11 (2021 est.)<br>
+_total subscriptions_: 540,558 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,362,325 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 135 (2021 est.)<br>
+_total subscriptions_: 7,445,151 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 132 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the broadband market has shown steady growth in recent years; fiber has become the principal platform for fixed broadband services, followed by DSL; the cable sector is a distant third in terms of subscribers, though cable is particularly strong in urban areas; mobile broadband access and content services are developing rapidly in line with operators having upgraded their networks; the regulator prepared the groundwork for 5G services in line with European Union requirements, with concessions in the 3.5GHz range followed by those in the 700MHz, 900MHz and 1800MHz bands; 5G was launched in late 2021 and is expected to cover about a fifth of the population by the end of 2022 (2021)<br>
