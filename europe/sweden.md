@@ -345,7 +345,7 @@ _judge selection and term of office_: Supreme Court and Supreme Administrative C
 _subordinate courts_: first instance, appellate, general, and administrative courts; specialized courts that handle cases such as land and environment, immigration, labor, markets, and patents<br>
 
 **Political parties and leaders**<br>
-Center Party (Centerpartiet) or C [Muharrem DEMIROK]<br>Christian Democrats (Kristdemokraterna) or KD [Ebba BUSCH]<br>Green Party (Miljopartiet de Grona) or MP [Marta STEVENI and Per BOLUND]<br>Left Party (Vansterpartiet) or V [Nooshi DADGOSTAR]<br>Moderate Party (Moderaterna) or M [Ulf KRISTERSSON]<br>Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]<br>Swedish Social Democratic Party (Socialdemokraterna) or S/SAP [Magdalena ANDERSSON]<br>The Liberals (Liberalerna) or L [Johan PEHRSON]<br>
+Center Party (Centerpartiet) or C [Muharrem DEMIROK]<br>Christian Democrats (Kristdemokraterna) or KD [Ebba BUSCH]<br>Green Party (Miljopartiet de Grona) or MP [Marta STEVENI and Daniel HELLDEN]<br>Left Party (Vansterpartiet) or V [Nooshi DADGOSTAR]<br>Moderate Party (Moderaterna) or M [Ulf KRISTERSSON]<br>Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]<br>Swedish Social Democratic Party (Socialdemokraterna) or S/SAP [Magdalena ANDERSSON]<br>The Liberals (Liberalerna) or L [Johan PEHRSON]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNMOGIP, UNOOSA, UNRWA, UN Security Council (temporary), UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -601,16 +601,16 @@ _Total energy consumption per capita 2019_: 210.882 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,382,146 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
+_total subscriptions_: 1,261,073 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12,843,683 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 123 (2021 est.)<br>
+_total subscriptions_: 13,194,189 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 125 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Sweden&rsquo;s telecom market includes mature mobile and broadband sectors which have been stimulated by the progressive investment of the main telcos in developing new technologies; the country retains one of the best developed LTE infrastructures in the region, while its MNOs have benefited from the January 2021 auction of spectrum in the 3.5GHz band which will enable them to expand services nationally; the country also has one of the highest fiber broadband penetration rates in Europe; the focus of FttP is aimed at fulfilling the government&rsquo;s target of providing a 1Gb/s service to 98% of the population by 2025; the methodology to achieve this has rested on regulatory measures supported by public funds, as well as on the auction of spectrum in different bands; in the fixed-line broadband segment, the number of DSL subscribers is falling steadily as customers continue to migrate to fiber networks; there is also competition from HFC infrastructure, offering fiber-based broadband and investing in services based on the DOCSIS3.1 standard; this report assesses key aspects of the Swedish telecom market, providing data on fixed network services and profiling the main players; it also reviews the key regulatory issues, including interconnection, local loop unbundling, number portability, carrier preselection and NGN open access; the report also analyses the mobile market, providing data on network operators and their strategies in a highly competitive environment; in addition, the report considers the fixed and fixed-wireless broadband markets, including analyses of market dynamics and the main operators, as well as providing subscriber forecasts (2021)<br>
-_domestic_: fixed-line is 13 per 100 and mobile-cellular is 123 per 100 (2021)<br>
+_domestic_: fixed-line is 12 per 100 and mobile-cellular is 125 per 100 (2022)<br>
 _international_: country code - 46; landing points for Botina, SFL, SFS-4, Baltic Sea Submarine Cable, Eastern Light, Sweden-Latvia, BCS North-Phase1, EE-S1, LV-SE1,&nbsp;BCS East-West Interlink, NordBalt, Baltica, Denmark-Sweden-15,-17,-18, Scandinavian Ring -North,-South, IP-Only Denmark-Sweden, Donica North,&nbsp;Kattegate-1,-2, Energinet Laeso-Varberg and GC2 submarine cables providing links to other Nordic countries and Europe; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Eutelsat, and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Sweden shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Norway) (2019)<br>
 
 **Broadcast media**<br>

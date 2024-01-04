@@ -233,11 +233,6 @@ _total_: 15 years<br>
 _male_: 15 years<br>
 _female_: 15 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.2% (2021 est.)<br>
-_male_: 24%<br>
-_female_: 41.7%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -364,7 +359,7 @@ _subordinate courts_: Penal Courts I and II; Islamic Revolutionary Courts; Court
 Combatant Clergy Association [Mostafa PURMOHAMMADI] (an active political group)<br>Executives of Construction Party [Hossein MARASHI]<br>Front of Islamic Revolutionary Stability [Sadegh MAHSULI, secretary general]<br>Islamic Coalition Party [Asadollah BADAMCHIAN]<br>Militant Clerics Society (Majma-e Ruhaniyoun-e Mobarez) or MRM [Mohammad Mousavi KHOEINIHA]<br>Moderation and Development Party [Hassan RUHANI] <br>National Trust Party (Hezb-e E'temad-eMelli) or HEM [Elias HAZRATI]<br>Progress and Justice Society [Mohammad Saeed AHADIAN]<br>Union of Islamic Iran People's Party (Hezb-e Ettehad-e Iran-e Eslami) [Azar MANSURI]<br>
 
 **International organization participation**<br>
-CICA, CP, D-8, ECO, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OPEC, PCA, SAARC (observer), SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+BRICS, CICA, CP, D-8, ECO, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OPEC, PCA, SAARC (observer), SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: none; Iran has an Interests Section in the Pakistani Embassy; address: Iranian Interests Section, Embassy of Pakistan, 1250 23rd Street NW, Washington, DC 20037; telephone: [1] (202) 965-4990; FAX [1] (202) 965-1073; email:&nbsp; requests@daftar.org; info@daftarwashington.com; website:&nbsp; https://daftar.org/<br>
@@ -443,11 +438,6 @@ petroleum, petrochemicals, gas, fertilizer, caustic soda, textiles, cement and o
 **Labor force**<br>
 27.682 million (2021 est.)<br>
 <strong>note:</strong> shortage of skilled labor<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 16.3%<br>
-_industry_: 35.1%<br>
-_services_: 48.6% (2013 est.)<br>
 
 **Unemployment rate**<br>
 11.46% (2021 est.)<br>

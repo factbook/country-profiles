@@ -223,11 +223,6 @@ _total population_: 95%<br>
 _male_: 96.5%<br>
 _female_: 93.4% (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 30.5% (2021 est.)<br>
-_male_: 22.1%<br>
-_female_: 46.1%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -439,11 +434,6 @@ gold mining, oil, lumber, food processing, fishing<br>
 **Labor force**<br>
 244,200 (2021 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 11.2%<br>
-_industry_: 19.5%<br>
-_services_: 69.3% (2010)<br>
-
 **Unemployment rate**<br>
 10.06% (2021 est.)<br>
 9.78% (2020 est.)<br>
@@ -588,16 +578,16 @@ _Total energy consumption per capita 2019_: 82.356 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 119,977 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 20 (2021 est.)<br>
+_total subscriptions_: 108,250 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 906,170 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 148 (2021 est.)<br>
+_total subscriptions_: 928,840 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 150 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_:  <p>Suriname is the smallest nation on the South American continent, with about 580,000 inhabitants; the only Dutch-speaking nation in South America, it has close affinities with the Caribbean, and is a member of the Caribbean Community and Common Market (CARICOM); the country’s fixed-line infrastructure is reasonably reliable in the more populated coastal region, though poor in the interior; fixed teledensity and broadband penetration are slightly lower than average for Latin America and the Caribbean, while mobile penetration is significantly above the regional average and much higher than would be expected given the country’s relatively low GDP per capita; many Surinamese have up to three mobile lines with different providers, which has pushed up penetration figures although the number of subscribers has fallen in recent years as consumers have responded to economic pressures</p>  (2021)<br>
-_domestic_: fixed-line is 20 per 100 and mobile-cellular teledensity is 148 telephones per 100 persons (2021)<br>
+_domestic_: fixed-line is 18 per 100 and mobile-cellular teledensity is 150 telephones per 100 persons (2022)<br>
 _international_: country code - 597; landing point for the SG-SCS submarine cable linking South America with the Caribbean; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>

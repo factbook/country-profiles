@@ -243,11 +243,6 @@ _total_: 11 years<br>
 _male_: 11 years<br>
 _female_: 11 years (2018)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.4% (2021 est.)<br>
-_male_: 4.6%<br>
-_female_: 2.5%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -453,11 +448,6 @@ light consumer goods (sugar, shoes, soap, beer); cement, assembly of imported co
 
 **Labor force**<br>
 5.271 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 93.6%<br>
-_industry_: 2.3%<br>
-_services_: 4.1% (2002 est.)<br>
 
 **Unemployment rate**<br>
 1.79% (2021 est.)<br>

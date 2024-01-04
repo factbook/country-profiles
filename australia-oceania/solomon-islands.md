@@ -214,11 +214,6 @@ _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 1.9% (2021 est.)<br>
-_male_: 1.6%<br>
-_female_: 2.3%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -415,11 +410,6 @@ fish (tuna), mining, timber<br>
 **Labor force**<br>
 366,000 (2021 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 75%<br>
-_industry_: 5%<br>
-_services_: 20% (2000 est.)<br>
-
 **Unemployment rate**<br>
 1.03% (2021 est.)<br>
 0.92% (2020 est.)<br>
@@ -569,11 +559,11 @@ _Total energy consumption per capita 2019_: 6.955 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,000 (2021 est.)<br>
+_total subscriptions_: 1,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 470,000 (2021 est.)<br>
+_total subscriptions_: 474,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 67 (2021 est.)<br>
 
 **Telecommunication systems**<br>

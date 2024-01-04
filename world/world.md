@@ -204,11 +204,6 @@ _total_: 13 years<br>
 _male_: 13 years<br>
 _female_: 13 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 17.9% (2021 est.)<br>
-_male_: 17.3%<br>
-_female_: 19.7%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -339,11 +334,6 @@ _imports of goods and services_: -28.3% (2017 est.)<br>
 
 **Labor force**<br>
 3.463 billion (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 31%<br>
-_industry_: 23.5%<br>
-_services_: 45.5% (2014 est.)<br>
 
 **Unemployment rate**<br>
 6.18% (2021 est.)<br>
@@ -511,6 +501,15 @@ there are over 85,000 personnel, including military, police, and civilians from 
 
 **Military - note**<br>
 Atlantic Ocean: according to the International Maritime Bureau and the Maritime Administration of the US Department of Transportation, the risk of piracy and armed robbery of ships in the territorial and offshore waters of the Niger Delta and Gulf of Guinea off the western coast of Africa is high; some criminals/pirates have operated as far as 200 nm offshore <br><br>Indian Ocean: according to the International Maritime Bureau, areas of high risk for piracy and armed robbery against ships in territorial waters of littoral states and offshore waters include the Gulf of Aden, along the east coast of Africa, the Bay of Bengal, and the Strait of Malacca; in addition, the Maritime Administration of the US Department of Transportation advises that regional conflict, military activity, and political tensions pose threats to commercial vessels in the Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Gulf of Aden, Bab al Mandeb Strait, Red Sea, and Somali Basin <br><br>Pacific Ocean: according to the International Maritime Bureau, the risk for piracy and armed robbery in the territorial waters of littoral states and offshore waters in the South China Sea is high,particularly the Singapore Straits and the Celebes and Sulu Seas between the Philippines and Malaysia<br><br>Other: the Maritime Administration of the US Department of Transportation also advises that regional conflict, military activity, and political tensions pose threats to commercial vessels in the Black Sea, Sea of Azov, and the Eastern Mediterranean (2023)<br>
+
+## Space
+
+**Space agency/agencies**<br>
+more than 90 countries, plus the EU, have national space agencies (2023)<br>
+
+**Space launch site(s)**<br>
+more than 30 countries have existing or planned commercial or government space launch sites; the US has the most launch sites with nearly 20<br>
+<strong>note:</strong> there were approximately 220 attempted space launches worldwide in 2023  <br>
 
 ## Transnational Issues
 

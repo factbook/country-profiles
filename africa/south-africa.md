@@ -241,11 +241,6 @@ _total_: 13 years<br>
 _male_: 13 years<br>
 _female_: 14 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 64.2% (2021 est.)<br>
-_male_: 59.8%<br>
-_female_: 69.3%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -463,11 +458,6 @@ mining (world's largest producer of platinum, gold, chromium), automobile assemb
 **Labor force**<br>
 22.398 million (2021 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 4.6%<br>
-_industry_: 23.5%<br>
-_services_: 71.9% (2014 est.)<br>
-
 **Unemployment rate**<br>
 33.56% (2021 est.)<br>
 29.22% (2020 est.)<br>
@@ -628,16 +618,16 @@ _Total energy consumption per capita 2019_: 98.474 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,472,191 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
+_total subscriptions_: 1,309,590 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 100,328,005 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 169 (2021 est.)<br>
+_total subscriptions_: 100,259,890 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 167 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: South Africa&rsquo;s telecom sector boasts one of the most advanced infrastructures on the continent; the focus in recent years has been on back haul capacity and on fiber and LTE networks to extend and improve internet service connectivity; with the ongoing migration to fiber, the incumbent telco expects to close down its copper network in 2024; the mobile sector has developed strongly in recent years, partly due to the poor availability and level of service of fixed-line networks, which meant that many people had no alternative to mobile networks for voice and data services; the multi-spectrum auction was delayed several times due to legal wrangling, and was finally held in March 2022; the delay caused difficulties for network operators, which were forced to reform spectrum for 3G and LTE use, and provide 5G services on temporary licenses; six qualified bidders acquired spectrum, netting the regulator ZAR14.4 billion in revenues; the market is shrugging off the impact of the pandemic, which had a significant impact on production and supply chains globally, and saw a slowdown in some network expansions, particularly around 5G; on the consumer side, spending on telecoms services and devices remains slightly under pressure amid ongoing macroeconomic challenges facing the country; the crucial nature of telecom services, both for general communication as well as a tool for home-working, will offset such pressures; in many markets the net effect should be a steady though reduced increase in subscriber growth (2022)<br>
-_domestic_: fixed-line is 2 per 100 persons and mobile-cellular is 169 telephones per 100 persons (2021)<br>
+_domestic_: fixed-line is 2 per 100 persons and mobile-cellular is 167 telephones per 100 persons (2022)<br>
 _international_: country code - 27; landing points for the WACS, ACE, SAFE, SAT-3, Equiano, SABR, SAEx1, SAEx2, IOX Cable System, METISS, EASSy, and SEACOM/ Tata TGN-Eurasia&nbsp;fiber-optic submarine cable systems connecting South Africa, East Africa, West Africa, Europe,&nbsp;Southeast Asia, Asia, South America, Indian Ocean Islands,&nbsp;and the&nbsp;US;&nbsp;satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>

@@ -207,11 +207,6 @@ _total population_: 34.5%<br>
 _male_: 40.3%<br>
 _female_: 28.9% (2018)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 21% (2021 est.)<br>
-_male_: 21.8%<br>
-_female_: 20.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -530,8 +525,8 @@ _Total energy consumption per capita 2019_: 2.404 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3.3 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 30 (2021 est.)<br>
+_total subscriptions_: 3,276,146 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 30 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: following a referendum, oil-rich South Sudan seceded from Sudan in 2011 and became an independent nation; having been deprived of investment for decades, it inherited one of the least developed telecom markets in the world; there was once investment activity among mobile network operators who sought to expand their networks in some areas of the country; operators in the telecom sector placed themselves in survival mode and are hoping for a political settlement and a return to some degree of social stability; South Sudan has one of the lowest mobile penetration rates in Africa; growth in the sector in coming years is premised on a resolution to the political crisis and a recovery of the country&rsquo;s economy; the virtually untapped internet and broadband market also depends to a large extent on the country gaining access to international fiber cables and on a national backbone network being in place; sophisticated infrastructure solutions are needed to reach the 80% of the population that live outside of the main urban centers; some improvement has followed from the cable link in February 2020 which connects Juba directly to the company&rsquo;s submarine landing station at Mombasa; the cable was South Sudan&rsquo;s first direct international fiber link, and has helped drive down the price of retail internet services for residential and business customers; a second cable linking to the border with Kenya was completed in December 2021 (2022)<br>

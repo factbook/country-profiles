@@ -230,11 +230,6 @@ _total_: 13 years<br>
 _male_: 13 years<br>
 _female_: 14 years (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 36.1% (2021 est.)<br>
-_male_: 34%<br>
-_female_: 38.7%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -445,11 +440,6 @@ brandy, mining, diamond processing, metal-cutting machine tools, forging and pre
 
 **Labor force**<br>
 1.153 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 36.3%<br>
-_industry_: 17%<br>
-_services_: 46.7% (2013 est.)<br>
 
 **Unemployment rate**<br>
 20.9% (2021 est.)<br>
@@ -690,7 +680,7 @@ the military's inventory includes mostly Russian and Soviet-era equipment (2023)
 <strong>note: </strong>in 2023, Armenia approved six-month voluntary service for women, after which they have the option to switch to a five-year contract; previously, women served on a contract basis  <br><br><strong>note 2:</strong> as of 2021, conscripts comprised about half of the military's active personnel; as of 2020, women made up about 10% of the active duty military; the Armenian Army established its first all-women combat unit in 2020<br>
 
 **Military - note**<br>
-the Armenian Armed Forces were officially established in 1992, although their origins go back to 1918; the modern military’s missions include deterrence, territorial defense, crisis management, humanitarian assistance, and disaster response, as well as socio-economic development projects; territorial defense is its primary focus, particularly in regards to tensions with neighboring Azerbaijan over the Nagorno-Karabakh region; Armenia and Azerbaijan engaged in open conflicts over the Nagorno-Karabakh enclave in 1991-94 and 2020, plus a brief flare-up in 2016; tensions continued following the 2020 conflict; Azerbaijan seized the entire enclave in 2023 <br><br>the bulk of the Armenian military’s ground combat forces are organized into five small corps that are  typically comprised of one or more Soviet-style “motorized rifle” (mechanized infantry) regiments, plus supporting units of artillery, reconnaissance, and tank forces; there are also separate artillery, air defense, battlefield rockets, and special operations forces; four of the five corps are typically deployed along the border with Azerbaijan with the fifth deployed along the border with Turkey; the ground forces also have a peacekeeping brigade; the air combat forces consist of small numbers of Soviet-era ground attack aircraft and attack helicopters; Armenia is landlocked so it has no naval forces  <br><br>Armenia has close military ties with Russia and hosts Russian military forces at two bases, as well as Russian border guards along multiple border areas; it has been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and committed troops to CSTO's rapid reaction force; Armenia has relations with NATO going back to 1992 when Armenia joined the North Atlantic Cooperation Council; in 1994, it joined NATO’s Partnership for Peace program and has contributed to the NATO force in Kosovo, as well as the former NATO deployment in Afghanistan (2023)<br>
+the Armenian Armed Forces were officially established in 1992, although their origins go back to 1918; the modern military’s missions include deterrence, territorial defense, crisis management, humanitarian assistance, and disaster response, as well as socio-economic development projects; territorial defense is its primary focus, particularly in regards to tensions with neighboring Azerbaijan over the Nagorno-Karabakh region; Armenia and Azerbaijan engaged in open conflicts over the Nagorno-Karabakh enclave in 1991-94 and 2020, plus a brief flare-up in 2016; tensions continued following the 2020 conflict; Azerbaijan seized the entire enclave in 2023 <br><br>the bulk of the Armenian military’s ground combat forces are organized into five small corps that are typically comprised of one or more Soviet-style “motorized rifle” (mechanized infantry) regiments, plus supporting units of artillery, reconnaissance, and tank forces; there are also separate artillery, air defense, battlefield rockets, and special operations forces; the ground forces also have a peacekeeping brigade; the air combat forces consist of small numbers of Soviet-era ground attack aircraft and attack helicopters; Armenia is landlocked so it has no naval forces  <br><br>Armenia has close military ties with Russia and hosts Russian military forces at two bases, as well as Russian border guards along multiple border areas; it has been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and committed troops to CSTO's rapid reaction force; Armenia has relations with NATO going back to 1992 when Armenia joined the North Atlantic Cooperation Council; in 1994, it joined NATO’s Partnership for Peace program and has contributed to the NATO force in Kosovo, as well as the former NATO deployment in Afghanistan (2023)<br>
 
 ## Space
 

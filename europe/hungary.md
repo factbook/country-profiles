@@ -735,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Hungary and Slovakia have a long-running dispute over the implementation of a 1970s Soviet-era hydropower project on the Danube, the Gabčíkovo-Nagymaros project </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 61,445 (Ukraine) (as of 4 December 2023)<br>
+_refugees (country of origin)_: 63,775 (Ukraine) (as of 17 December 2023)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

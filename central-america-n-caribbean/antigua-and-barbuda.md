@@ -402,11 +402,6 @@ tourism, construction, light manufacturing (clothing, alcohol, household applian
 **Labor force**<br>
 30,000 (1991)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 7%<br>
-_industry_: 11%<br>
-_services_: 82% (1983 est.)<br>
-
 **Unemployment rate**<br>
 11% (2014 est.)<br>
 

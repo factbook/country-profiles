@@ -5,7 +5,7 @@ _Central Asia / Countries_
 ## Introduction
 
 **Background**<br>
-Present-day Turkmenistan covers territory that has been at the crossroads of civilizations for centuries. The area was ruled in antiquity by various Persian empires, and was conquered by Alexander the Great, Muslim armies, the Mongols, Turkic warriors, and eventually the Russians. In medieval times, Merv (located in present-day Mary province) was one of the great cities of the Islamic world and an important stop on the Silk Road. Annexed by Russia in the late 1800s, Turkmen territories later figured prominently in the anti-Bolshevik resistance in Central Asia. In 1924, Turkmenistan became a Soviet republic; it achieved independence upon the dissolution of the USSR in 1991. President for Life Saparmyrat NYYAZOW died in December 2006, and Gurbanguly BERDIMUHAMEDOW, a deputy chairman under NYYAZOW, emerged as the country's new president. BERDIMUHAMEDOW won Turkmenistan's first multi-candidate presidential election in February 2007, and again in 2012 and in 2017 with over 97% of the vote in both instances, in elections widely regarded as undemocratic.  In February 2022, BERDIMUHAMEDOW announced that he would step down from the presidency and called for an election to replace him. His son, Serdar BERDIMUHAMEDOW, won the ensuing election, held in March 2022, with 73% of the vote. Gurbanguly BERDIMUHAMEDOW, although no longer head of state, maintains an influential political position as head of the Halk Maslahaty (People’s Council) and as National Leader of the Turkmen People, a title that provides additional privileges and immunity for him and his family. Since Gurbanguly BERDIMUHAMEDOW stepped down from the presidency, state-controlled media upgraded his honorific from Arkadag (protector) to Hero-Arkadag, and incorporated his son into the personality cult by referring to Serdar BERDIMUHAMEDOW as Arkadagly Serder, which can be translated as "Serder who has a protector to support him."<br><br>Turkmenistan has sought new export markets for its extensive hydrocarbon/natural gas reserves, which have yet to be fully exploited. As of early 2022, Turkmenistan exported the majority of its gas to China and smaller levels of gas to Russia. Turkmenistan's reliance on gas exports has made the economy vulnerable to fluctuations in the global energy market, and economic hardships since the drop in energy prices in 2014 have led many Turkmenistanis to emigrate, mostly to Turkey. Heavy restrictions placed by the government in 2020 on entry and exit into the country in response to the COVID-19 pandemic have resulted in a steep drop in emigration, however.<br>
+Present-day Turkmenistan covers territory that has been at the crossroads of civilizations for centuries. The area was ruled in antiquity by various Persian empires, and was conquered by Alexander the Great, Muslim armies, the Mongols, Turkic warriors, and eventually the Russians. In medieval times, Merv (located in present-day Mary province) was one of the great cities of the Islamic world and an important stop on the Silk Road. Annexed by Russia in the late 1800s, Turkmen territories later figured prominently in the anti-Bolshevik resistance in Central Asia. In 1924, Turkmenistan became a Soviet republic; it achieved independence upon the dissolution of the USSR in 1991. President for Life Saparmurat NIYAZOV died in December 2006, and Gurbanguly BERDIMUHAMEDOV, a deputy chairman under NIYAZOW, emerged as the country's new president. BERDIMUHAMEDOV won Turkmenistan's first multi-candidate presidential election in February 2007, and again in 2012 and in 2017 with over 97% of the vote in both instances, in elections widely regarded as undemocratic.  In February 2022, BERDIMUHAMEDOV announced that he would step down from the presidency and called for an election to replace him. His son, Serdar BERDIMUHAMEDOV, won the ensuing election, held in March 2022, with 73% of the vote. Gurbanguly BERDIMUHAMEDOV, although no longer head of state, maintains an influential political position as head of the Halk Maslahaty (People’s Council) and as National Leader of the Turkmen People, a title that provides additional privileges and immunity for him and his family. Since Gurbanguly BERDIMUHAMEDOV stepped down from the presidency, state-controlled media upgraded his honorific from Arkadag (protector) to Hero-Arkadag, and began referring to Serdar BERDIMUHAMEDOV as Arkadagly Serdar, which can be translated as "Serdar who has a protector to support him."<br><br>Turkmenistan has sought new export markets for its extensive hydrocarbon/natural gas reserves, which have yet to be fully exploited. Turkmenistan exports the majority of its gas to China and smaller levels of gas to Russia and Uzbekistan. Turkmenistan's reliance on gas exports has made the economy vulnerable to fluctuations in the global energy market, and economic hardships since the drop in energy prices in 2014 have led many citizens of Turkmenistan to emigrate, mostly to Turkiye.<br>
 
 ## Geography
 
@@ -236,11 +236,6 @@ _total_: 13 years<br>
 _male_: 13 years<br>
 _female_: 13 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 11% (2021 est.)<br>
-_male_: 13.4%<br>
-_female_: 7.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -316,7 +311,7 @@ _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time
 _etymology_: derived from the Persian words <em>esh</em>q meaning "love" and <em>abad</em> meaning "inhabited place" or "city," and so loosely translates as "the city of love"<br>
 
 **Administrative divisions**<br>
-5 provinces (welayatlar, singular - welayat) and 1 independent city*: Ahal Welayaty (Anew), Ashgabat*, Balkan Welayaty (Balkanabat), Dasoguz Welayaty, Lebap Welayaty (Turkmenabat), Mary Welayaty<br>
+5 provinces (velayatlar, singular - velayat) and 1 independent city*: Ahal Velayat (Arkadag), Ashgabat*, Balkan Velayat (Balkanabat), Dashoguz Velayat, Lebap Velayat (Turkmenabat), Mary Velayat<br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)<br>
 
 **Independence**<br>
@@ -327,7 +322,7 @@ Independence Day, 27 October (1991)<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 14 September 2016<br>
-_amendments_: proposed by the Assembly or Mejlis; passage requires two-thirds majority vote or absolute majority approval in a referendum; amended several times, last in 2023 (changed legislature from bicameral to unicameral Assembly or Mejlis; reestablished People's Council or Halk Maslahaty and named former president Gurbanguly BERDIMUHAMEDOW as National Leader of the Turkmen people<br>
+_amendments_: proposed by the Assembly or Mejlis; passage requires two-thirds majority vote or absolute majority approval in a referendum; amended several times, last in 2023 (changed legislature from bicameral to unicameral Assembly or Mejlis; reestablished People's Council or Halk Maslahaty and named former president Gurbanguly BERDIMUHAMEDOV as National Leader of the Turkmen people<br>
 
 **Legal system**<br>
 civil law system with Islamic (sharia) law influences<br>
@@ -345,11 +340,11 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Serdar BERDIMUHAMEDOW (since 19 March 2022); note - the president is both chief of state and head of government<br>
-_head of government_: President Serdar BERDIMUHAMEDOW (since 19 March 2022)<br>
+_chief of state_: President Serdar BERDIMUHAMEDOV (since 19 March 2022); note - the president is both chief of state and head of government<br>
+_head of government_: President Serdar BERDIMUHAMEDOV (since 19 March 2022)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (no term limits); election last held on 12 March 2022 (next to be held in 2029); note - on 11 February 2022, President Gurbanguly BERDIMUHAMEDOW announced his intent to retire setting up the early presidential election<br>
-_election results_: <em><br>2022:</em> Serdar BERDIMUHAMEDOW elected president; percent of vote - Serdar BERDIMUHAMEDOW 73%,  Khydyr NUNNAYEV 11.1%, Agadzhan BEKMYRADOV 7.2%, other 8.7%; note - Serdar BERDIMUHAMEDOW is the son of previous president Gurbanguly BERDIMUHAMEDOW<br><br><em>2017:</em> Gurbanguly BERDIMUHAMEDOW reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (no term limits); election last held on 12 March 2022 (next to be held in 2029); note - on 11 February 2022, President Gurbanguly BERDIMUHAMEDOV announced his intent to retire setting up the early presidential election<br>
+_election results_: <em><br>2022:</em> Serdar BERDIMUHAMEDOV elected president; percent of vote - Serdar BERDIMUHAMEDOW 73%,  Khydyr NUNNAYEV 11.1%, Agadzhan BEKMYRADOV 7.2%, other 8.7%; note - Serdar BERDIMUHAMEDOV is the son of previous president Gurbanguly BERDIMUHAMEDOV<br><br><em>2017:</em> Gurbanguly BERDIMUHAMEDOV reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Mejlis (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms); formerly the Assembly was the lower house of the bicameral National Council or Milli Genes, which consisted of an upper house, the People's Council or Halk Maslahaty, and the Assembly or Mejlis<br>
@@ -363,8 +358,8 @@ _judge selection and term of office_: judges appointed by the president for 5-ye
 _subordinate courts_: High Commercial Court; appellate courts; provincial, district, and city courts; military courts<br>
 
 **Political parties and leaders**<br>
-Agrarian Party of Turkmenistan or APT [Basim ANNAGURBANOW]<br>Democratic Party of Turkmenistan or DPT [Ata SERDAROW]<br>Party of Industrialists and Entrepreneurs or PIE [Saparmyrat OWGANOW]<br>
-<strong>note:</strong> all of these parties support President BERDIMUHAMEDOW; a law authorizing the registration of political parties went into effect in January 2012; unofficial, small opposition movements exist abroad<br>
+Agrarian Party of Turkmenistan or APT [Bashim ANNAGURBANOV]<br>Democratic Party of Turkmenistan or DPT [Ata SERDAROV]<br>Party of Industrialists and Entrepreneurs or PIE [Saparmurat OVGANOV]<br>
+<strong>note:</strong> all of these parties support President BERDIMUHAMEDOV; a law authorizing the registration of political parties went into effect in January 2012; unofficial, small opposition movements exist abroad<br>
 
 **International organization participation**<br>
 ADB, CIS (associate member, has not ratified the 1993 CIS charter although it participates in meetings and held the chairmanship of the CIS in 2012), EAPC, EBRD, ECO, FAO, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), ISO (correspondent), ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO<br>
@@ -452,11 +447,6 @@ natural gas, oil, petroleum products, textiles, food processing<br>
 
 **Labor force**<br>
 1.998 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 48.2%<br>
-_industry_: 14%<br>
-_services_: 37.8% (2004 est.)<br>
 
 **Unemployment rate**<br>
 5.08% (2021 est.)<br>

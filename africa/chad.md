@@ -330,8 +330,8 @@ _etymology_: name taken from the Arab name of a nearby village, Nijamina, meanin
 Independence Day, 11 August (1960)<br>
 
 **Constitution**<br>
-_history_: several previous; latest approved 30 April 2018 by the National Assembly, entered into force 4 May 2018; suspended 21 April 2021 and remained so through April 2022<br>
-_amendments_: proposed as a revision by the president of the republic after a Council of Ministers (cabinet) decision or by the National Assembly; approval for consideration of a revision requires at least three-fifths majority vote by the Assembly; passage requires approval by referendum or at least two-thirds majority vote by the Assembly<br>
+_history_: several previous; latest adopted by National Transitional Council 27 June 2023, approved by referendum 17 December, verified by Chad Supreme Court 28 December, promulgated 1 January 2024<br>
+_amendments_: previous process: proposed as a revision by the president of the republic after a Council of Ministers (cabinet) decision or by the National Assembly; approval for consideration of a revision requires at least three-fifths majority vote by the Assembly; passage requires approval by referendum or at least two-thirds majority vote by the Assembly<br>
 
 **Legal system**<br>
 mixed legal system of civil and customary law<br>

@@ -217,11 +217,6 @@ _total_: 16 years<br>
 _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.7% (2021 est.)<br>
-_male_: 7.9%<br>
-_female_: 19.9%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -340,7 +335,7 @@ _subordinate courts_: Federal Court of Cassation (determines the constitutionali
 none; political parties are banned<br>
 
 **International organization participation**<br>
-ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OIF (observer), OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, BRICS, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OIF (observer), OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Yousif Mana Saeed Ahmed AL OTAIBA (since 28 July 2008)<br>
@@ -434,11 +429,6 @@ petroleum and petrochemicals; fishing, aluminum, cement, fertilizer, commercial 
 **Labor force**<br>
 6.074 million (2021 est.)<br>
 <strong>note:</strong> expatriates account for about 85% of the workforce<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 7%<br>
-_industry_: 15%<br>
-_services_: 78% (2000 est.)<br>
 
 **Unemployment rate**<br>
 3.36% (2021 est.)<br>

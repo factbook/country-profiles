@@ -226,11 +226,6 @@ _total_: 17 years<br>
 _male_: 17 years<br>
 _female_: 16 years (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.8% (2021 est.)<br>
-_male_: 22.4%<br>
-_female_: 47.9%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -351,7 +346,7 @@ _subordinate courts_: Court of Appeals; Specialized Criminal Court, first-degree
 none<br>
 
 **International organization participation**<br>
-ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, CAEU, CP, FAO, G-20, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, BRICS, CAEU, CP, FAO, G-20, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Reema Bint Bandar Bin Sultan&nbsp;AL SAUD (since 8 July 2019)<br>
@@ -447,11 +442,6 @@ crude oil production, petroleum refining, basic petrochemicals, ammonia, industr
 **Labor force**<br>
 16.06 million (2021 est.)<br>
 <strong>note:</strong> comprised of 3.1 million Saudis and 10.7 million non-Saudis<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 6.7%<br>
-_industry_: 21.4%<br>
-_services_: 71.9% (2005 est.)<br>
 
 **Unemployment rate**<br>
 7.36% (2021 est.)<br>
