@@ -356,7 +356,7 @@ _subordinate courts_: High Court; district courts<br>
 <p><br>Federal Socialist Forum, Nepal or FSFN [Upendra YADAV]<br>Communist Party of Nepal (Maoist Centre) or CPN-MC [Pushpa Kamal DAHAL]<br>Communist Party of Nepal (Unified Marxist-Leninist) or CPN-UML [Khadga Prasad OLI]<br>Communist Party of Nepal (Unified Socialist) or CPN-US [Madhav Kumar NEPAL]<br>Janamat Party [Chandra Kant RAUT]<br>Loktantrik Samajwadi Party [Mahantha THAKUR]<br>Naya Shakti Party, Nepal [Baburam BHATTARAI]<br>Nepali Congress or NC [Sher Bahadur DEUBA]<br>Nepal Mazdoor Kisan Party (Nepal Workers' and Peasants' Party) or NWPP [Narayan Man BIJUKCHHE]<br>People's Socialist Party [Upendra YAKAV]<br>Rastriya Janamorcha (National People's Front) [Chitra Bahadur K.C.]<br>Rastriya Janata Party (National People's Party, Nepal) or RJPN [Mahanta THAKUR]<br>Rastriya Prajatantra Party (National Democratic Party) or RPP [Rajendra Prasad LINGDEN]<br>Rastriya Swatantra Party or RSP [Rabi LAMICHHANE]</p><br>
 
 **International organization participation**<br>
-ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sridhar KHATRI (since 19 April 2022)<br>
@@ -594,7 +594,7 @@ _Total energy consumption per capita 2019_: 5.219 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 730,000 (2021 est.)<br>
+_total subscriptions_: 726,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

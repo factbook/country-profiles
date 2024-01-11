@@ -233,11 +233,6 @@ _total_: 15 years<br>
 _male_: 14 years<br>
 _female_: 16 years (2019)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 21% (2021 est.)<br>
-_male_: 20.1%<br>
-_female_: 22.4%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -349,7 +344,7 @@ _election results_: Ukhnaagiin KHURELSUKH elected president in first round; perc
 
 **Legislative branch**<br>
 _description_: unicameral State Great Hural or Ulsyn Ikh Khural (126 seats; 78 members directly elected in a selected constituency by simple majority vote and 48 members directly elected by proportional representation vote; members serve 4-year terms); note - a constitutional referendum passed in May 2023 increased the number of seats to 126 from 76<br>
-_elections_: last held on 24 June 2020 (next to be held in 2024)<br>
+_elections_: last held on 24 June 2020 (next to be held 30 June 2024)<br>
 _election results_: percent of vote by party - MPP 44.9%, DP 24.5%, Our Coalition 8.1%, independent 8.7%, Right Person Electorate Coalition 5.2%, other 8.5%; seats by party - MPP 62, DP 11, Our Coalition 1, Right Person Electorate Coalition 1; independent 1; composition - 63 men, 13 women; percent of women 17.1%<br>
 
 **Judicial branch**<br>
@@ -454,11 +449,6 @@ construction and construction materials; mining (coal, copper, molybdenum, fluor
 
 **Labor force**<br>
 1.331 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 31.1%<br>
-_industry_: 18.5%<br>
-_services_: 50.5% (2016)<br>
 
 **Unemployment rate**<br>
 7.08% (2021 est.)<br>
@@ -605,7 +595,7 @@ _Total energy consumption per capita 2019_: 83.045 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 399,237 (2021 est.)<br>
+_total subscriptions_: 475,290 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 12 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

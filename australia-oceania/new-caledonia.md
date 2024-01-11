@@ -190,11 +190,6 @@ _total population_: 96.9%<br>
 _male_: 97.3%<br>
 _female_: 96.5% (2015)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 41% (2021 est.)<br>
-_male_: 39.2%<br>
-_female_: 43.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -360,11 +355,6 @@ nickel mining and smelting<br>
 
 **Labor force**<br>
 132,200 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 2.7%<br>
-_industry_: 22.4%<br>
-_services_: 74.9% (2010)<br>
 
 **Unemployment rate**<br>
 16.57% (2021 est.)<br>

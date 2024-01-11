@@ -227,11 +227,6 @@ _total_: 13 years<br>
 _male_: 13 years<br>
 _female_: 14 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.6% (2021 est.)<br>
-_male_: 14.2%<br>
-_female_: 17.8%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -337,8 +332,7 @@ _elections/appointments_: king elected by and from the hereditary rulers of 9 st
 **Legislative branch**<br>
 _description_: bicameral Parliament of Malaysia or Parlimen Malaysia consists of:<br>Senate or Dewan Negara (70 seats; 44 members appointed by the king and 26 indirectly elected by 13 state legislatures; members serve 3-year terms)<br>House of Representatives or Dewan Rakyat (222 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms) (2016)<br>
 _elections_: Senate - appointed<br>House of Representatives - last held on 19 Nov 2022 (next to be held in 2027)<br>
-_election results_: Senate - appointed; composition - men 54, women 14, percent of women 20.6%<br><br><em>2022:</em> House of Representatives - percent of vote by party/coalition - PH 37.5%, PN 30.4%, BN 22.4%, GPS 4%, WARISAN 1.8%, GRS 1.3%, other 2.6%; seats by party/coalition - PH 81, PN 73, BN 30, GPS 23, GRS 6, WARISAN 3, PBM 1, KDM 1, MUDA 1, independents/unaffiliated 3<br><br><em>2018:</em> House of Representatives - percent of vote by party/coalition - PH 45.6%, BN 33.8%, PAS 16.9%, WARISAN 2.3%, other 1.4%; seats by party/coalition - PH 113, BN 79, PAS 18, WARISAN 8, USA 1, independent 3; composition - men 199, women 23, percent of women 10.4%; note - total Parliament percent of women 12.8%<br>
-<strong>note:</strong> as of May 2022, seats by party/coalition - PH 90, PN 50, BN 42, GPS 18, WARISAN 7, PEJUANG 4, PBM 3, PSB 1, MUDA 1, independent 4, vacant 2<br>
+_election results_: Senate - appointed; composition - men 41, women 10, percent of women 29.6%<br><br>House of Representatives - percent of vote by party/coalition - PH 37.5%, PN 30.4%, BN 22.4%, GPS 4%, WARISAN 1.8%, GRS 1.3%, other 2.6%; seats by party/coalition - PH 90, PN 50, BN 42, GPS 18, WARISAN 7, PEJUANG 4, PBM 3, PSB 1, MUDA 1, independent 4, vacant 2; composition - 192 men, 30 women; percent women 13.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Federal Court (consists of the chief justice, president of the Court of Appeal, chief justice of the High Court of Malaya, chief judge of the High Court of Sabah and Sarawak, 8 judges, and 1 "additional" judge); note - Malaysia has a dual judicial hierarchy of civil and religious (sharia) courts<br>
@@ -444,11 +438,6 @@ Peninsular Malaysia - rubber and oil palm processing and manufacturing, petroleu
 
 **Labor force**<br>
 16.74 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 11%<br>
-_industry_: 36%<br>
-_services_: 53% (2012 est.)<br>
 
 **Unemployment rate**<br>
 4.61% (2021 est.)<br>
@@ -601,7 +590,7 @@ _Total energy consumption per capita 2019_: 123.755 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 8,247,100 (2021 est.)<br>
+_total subscriptions_: 8,452,900 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 25 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -725,7 +714,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Jemaah Islamiyah (JI); Abu Sayyaf Gro
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>piracy remains a problem in the Malacca Strait</p> <p><em>Malaysia-Brunei</em>: per Letters of Exchange signed in 2009, Malaysia in 2010 ceded two hydrocarbon concession blocks to Brunei; in 2009, the media reported that Brunei had dropped its claims to the Limbang corridor, but Brunei responded that the subject had never been discussed during recent talks between the two countries</p> <p><em>Malaysia-China-Philippines-Vietnam</em><strong>: </strong>while the 2002 "Declaration on the Conduct of Parties in the South China Sea" has eased tensions over the Spratly Islands, it is not the legally binding "code of conduct" sought by some parties, which is currently being negotiated between China and ASEAN; Malaysia was not party to the March 2005 joint accord among the national oil companies of China, the Philippines, and Vietnam on conducting marine seismic activities in the Spratly Islands</p> <p><em>Malaysia-Indonesia</em>: land and maritime negotiations with Indonesia are ongoing, and disputed areas include the controversial Tanjung Datu and Camar Wulan border area in Borneo and the maritime boundary in the Ambalat oil block in the Celebes Sea</p> <p><em>Malaysia-Philippines</em>: Philippines retains a dormant claim to the eastern part of Malaysia's Sabah State in northern Borneo</p> <p><em>Malaysia-Singapore</em>: disputes continue over deliveries of fresh water to Singapore, Singapore's land reclamation, bridge construction, and maritime boundaries in the Johor and Singapore Straits; in 2008, the International Court of Justice awarded sovereignty of Pedra Branca (Pulau Batu Puteh/Horsburgh Island) to Singapore, and Middle Rocks to Malaysia but did not rule on maritime regimes, boundaries, or disposition of South Ledge</p> <p><em>Malaysia-Thailand</em>: in 2008, separatist violence in Thailand's predominantly Muslim southern provinces prompts Malaysia to take measures to close and to monitor the border with Thailand to stem terrorist activities</p> <p> </p> <p> </p><br>
+<p>piracy remains a problem in the Malacca Strait</p> <p><em>Malaysia-Brunei</em>: per Letters of Exchange signed in 2009, Malaysia in 2010 ceded two hydrocarbon concession blocks to Brunei; in 2009, the media reported that Brunei had dropped its claims to the Limbang corridor, but Brunei responded that the subject had never been discussed during recent talks between the two countries</p> <p><em>Malaysia-China-Philippines-Vietnam</em>: while the 2002 "Declaration on the Conduct of Parties in the South China Sea" has eased tensions over the Spratly Islands, it is not the legally binding "code of conduct" sought by some parties, which is currently being negotiated between China and ASEAN; Malaysia was not party to the March 2005 joint accord among the national oil companies of China, the Philippines, and Vietnam on conducting marine seismic activities in the Spratly Islands</p> <p><em>Malaysia-Indonesia</em>: land and maritime negotiations with Indonesia are ongoing, and disputed areas include the controversial Tanjung Datu and Camar Wulan border area in Borneo and the maritime boundary in the Ambalat oil block in the Celebes Sea</p> <p><em>Malaysia-Philippines</em>: Philippines retains a dormant claim to the eastern part of Malaysia's Sabah State in northern Borneo</p> <p><em>Malaysia-Singapore</em>: disputes continue over deliveries of fresh water to Singapore, Singapore's land reclamation, bridge construction, and maritime boundaries in the Johor and Singapore Straits; in 2008, the International Court of Justice awarded sovereignty of Pedra Branca (Pulau Batu Puteh/Horsburgh Island) to Singapore, and Middle Rocks to Malaysia but did not rule on maritime regimes, boundaries, or disposition of South Ledge</p> <p><em>Malaysia-Thailand</em>: in 2008, separatist violence in Thailand's predominantly Muslim southern provinces prompts Malaysia to take measures to close and to monitor the border with Thailand to stem terrorist activities</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 157,731 (Burma) (refugees and asylum seekers) (2023)<br>

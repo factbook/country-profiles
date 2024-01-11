@@ -97,7 +97,7 @@ Bamileke-Bamu 24.3%, Beti/Bassa, Mbam 21.6%, Biu-Mandara 14.6%, Arab-Choa/Hausa/
 _major-language sample(s)_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br>
 
 **Religions**<br>
-Roman Catholic 38.3%, Protestant 25.5%, other Christian 6.9%, Muslim 24.4%, animist 2.2%, other 0.5%, none 2.2% (2018 est.)<br>
+Christian 70.7% (Roman Catholic 38.3%, Protestant 25.5%, other Christian 6.9%), Muslim 24.4%, animist 2.2%, other 0.5%, none 2.2% (2018 est.)<br>
 
 **Demographic profile**<br>
 <p>Cameroon has a large youth population, with more than 60% of the populace under the age of 25 as of 2020. Fertility is falling but remains at a high level, especially among poor, rural, and uneducated women, in part because of inadequate access to contraception. Life expectancy remains low at about 55 years due to the prevalence of HIV and AIDs and an elevated maternal mortality rate, which has remained high since 1990. Cameroon, particularly the northern region, is vulnerable to food insecurity largely because of government mismanagement, corruption, high production costs, inadequate infrastructure, and natural disasters. Despite economic growth in some regions, poverty is on the rise, and is most prevalent in rural areas, which are especially affected by a shortage of jobs, declining incomes, poor school and health care infrastructure, and a lack of clean water and sanitation. Underinvestment in social safety nets and ineffective public financial management also contribute to Cameroon’s high rate of poverty.  The activities of Boko Haram, other armed groups, and counterinsurgency operations have worsened food insecurity in the Far North region.  </p> <p>International migration has been driven by unemployment (including fewer government jobs), poverty, the search for educational opportunities, and corruption. The US and Europe are preferred destinations, but, with tighter immigration restrictions in these countries, young Cameroonians are increasingly turning to neighboring states, such as Gabon and Nigeria, South Africa, other parts of Africa, and the Near and Far East. Cameroon’s limited resources make it dependent on UN support to host more than 480,000 refugees and asylum seekers as of December 2022. These refugees and asylum seekers are primarily from the Central African Republic and Nigeria.  Internal and external displacement have grown dramatically in recent years.  Boko Haram's attacks and counterattacks by government forces in the Far North since 2014 have increased the number of internally displaced people.  Armed conflict between separatists and Cameroon's military in the Northwest and Southwest since 2016 have displaced hundreds of thousands of the country's Anglophone minority.</p><br>
@@ -247,11 +247,6 @@ _total_: 12 years<br>
 _male_: 13 years<br>
 _female_: 11 years (2016)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 6.6% (2021 est.)<br>
-_male_: 6%<br>
-_female_: 7.3%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -361,7 +356,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Paul BIYA (since 6 November 1982)<br>
-_head of government_: Prime Minister Joseph Dion NGUTE (since 4 January 2019); Deputy Prime Minister Amadou ALI (since 2014)<br>
+_head of government_: Prime Minister Joseph Dion NGUTE (since 4 January 2019)<br>
 _cabinet_: Cabinet proposed by the prime minister, appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (no term limits); election last held on 7 October 2018 (next to be held in October 2025); prime minister appointed by the president<br>
 _election results_: Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2% (2018)<br>
@@ -369,15 +364,15 @@ _election results_: Paul BIYA reelected president; percent of vote - Paul BIYA (
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br>National Assembly or Assemblee Nationale (180 seats; members directly elected in 49 single and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: Senate - last held on 12 March 2023 (next to be held in 2028)<br>National Assembly - last held on 9 February 2020<br>
-_election results_: Senate - percent of vote by party - CDPM 100%; composition as of October 2023 - men 69, women 31, percent of women 31%<br>National Assembly - percent of vote by party - NA; seats by party - CPDM 139, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, Union of Socialist Movements 2; other 13; composition as of October 2023 - men 119, women 61, percent of women 33.9%; note - total Parliament percent of women 31.1%<br>
+_election results_: Senate - percent of vote by party - CDPM 100%; composition as of October 2023 - men 69, women 31, percent of women 31%<br><br>National Assembly - percent of vote by party - NA; seats by party - CPDM 139, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, Union of Socialist Movements 2; other 13; composition as of October 2023 - men 119, women 61, percent of women 33.9%; note - total Parliament percent of women 31.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cameroon (consists of 9 titular and 6 surrogate judges and organized into judicial, administrative, and audit chambers); Constitutional Council (consists of 11 members)<br>
-_judge selection and term of office_: Supreme Court judges appointed by the president with the advice of the Higher Judicial Council of Cameroon, a body chaired by the president and includes the minister of justice, selected magistrates, and representatives of the National Assembly; judge term NA; Constitutional Council members appointed by the president for single 9-year terms<br>
+_judge selection and term of office_: Supreme Court judges appointed by the president with the advice of the Higher Judicial Council of Cameroon, a body chaired by the president and includes the minister of justice, selected magistrates, and representatives of the National Assembly; judge term NA; Constitutional Council members appointed by the president for renewable 6-year terms<br>
 _subordinate courts_: Parliamentary Court of Justice (jurisdiction limited to cases involving the president and prime minister); appellate and first instance courts; circuit and magistrates' courts<br>
 
 **Political parties and leaders**<br>
-Alliance for Democracy and Development [Marcel YONDO]<br>Cameroon People's Democratic Movement or CPDM [Paul BIYA]<br>Cameroon People's Party or CPP [Edith Kah WALLA]<br>Cameroon Renaissance Movement or MRC [Maurice KAMTO]<br>Cameroonian Democratic Union or UDC [Adamou Ndam NJOYA]<br>Cameroonian Party for National Reconciliation or PCRN [Cabral LIBII]<br>Front for the National Salvation of Cameroon or FSNC [Issa Tchiroma BAKARY]<br>Movement for the Defense of the Republic or MDR [Dakole DAISSALA]<br>Movement for the Liberation and Development of Cameroon or MLDC [Marcel YONDO]<br>National Union for Democracy and Progress or UNDP [Maigari BELLO BOUBA]<br>Progressive Movement or MP [Jean-Jacques EKINDI]<br>Social Democratic Front or SDF [John FRU NDI]<br>Union of Peoples of Cameroon or UPC [Provisionary Management Bureau] [Cecil ODHIAMBO] <br>Union of Socialist Movements NA<br>
+Alliance for Democracy and Development [Garga Haman ADJI]<br>Cameroon People's Democratic Movement or CPDM [Paul BIYA]<br>Cameroon People's Party or CPP [Edith Kah WALLA]<br>Cameroon Renaissance Movement or MRC [Maurice KAMTO]<br>Cameroonian Democratic Union or UDC [Hermine Patricia TOMAINO]<br>Cameroonian Party for National Reconciliation or PCRN [Cabral LIBII]<br>Front for the National Salvation of Cameroon or FSNC [Issa Tchiroma BAKARY]<br>Movement for the Defense of the Republic or MDR [Paulin DJOWRWE]<br>Movement for the Liberation and Development of Cameroon or MLDC [Marcel YONDO]<br>National Union for Democracy and Progress or UNDP [Maigari BELLO BOUBA]<br>Progressive Movement or MP [Jean-Jacques EKINDI]<br>Social Democratic Front or SDF [Joshua OSIH]<br>Union of Peoples of Cameroon or UPC [Pierre Baleguel NKOT] <br>Union of Socialist Movements [Pierre KWEMO] <br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, BDEAC, C, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNMISS, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -387,7 +382,7 @@ _chief of mission_: Ambassador Henri ETOUNDI ESSOMBA (since 27 June 2016)<br>
 _chancery_: 2349 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 265-8790<br>
 _FAX_: [1] (202) 387-3826<br>
-_email address and website_: cs@cameroonembassyusa.org<br><br>https://www.cameroonembassyusa.org/mainFolder/index.html<br>
+_email address and website_: mail@cameroonembassyusa<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Christopher J. LAMORA (since 21 March 2022)<br>
@@ -474,11 +469,6 @@ petroleum production and refining, aluminum production, food processing, light c
 
 **Labor force**<br>
 11.81 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 70%<br>
-_industry_: 13%<br>
-_services_: 17% (2001 est.)<br>
 
 **Unemployment rate**<br>
 3.87% (2021 est.)<br>
@@ -633,7 +623,7 @@ _Total energy consumption per capita 2019_: 6.187 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 739,572 (2021 est.)<br>
+_total subscriptions_: 929,007 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 3 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -641,12 +631,12 @@ _total subscriptions_: 22,442,414 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 83 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Cameroon was for many years one of the few countries in Africa with only two competing mobile operators; the investment programs among operators over the next few years will considerably boost mobile broadband services in rural areas of the country, many of which are under served by fixed-line infrastructure; the government has also been supportive, having launched its &lsquo;Cameroon Digital 2020&rsquo; program, aimed at improving connectivity nationally; improved submarine and terrestrial cable connectivity has substantially increased international bandwidth, in turn leading to reductions in access prices for consumers; other projects such as Acceleration of the Digital Transformation of Cameroon are aimed at developing the digital economy (2022)<br>
+_general assessment_: Cameroon was for many years one of the few countries in Africa with only two competing mobile operators; the investment programs among operators over the next few years aims to considerably boost mobile broadband services in rural areas of the country, many of which are under served by fixed-line infrastructure; the government has also been supportive, having launched its &lsquo;Cameroon Digital 2020&rsquo; program, aimed at improving connectivity nationally; improved submarine and terrestrial cable connectivity has substantially increased international bandwidth, in turn leading to reductions in access prices for consumers; other projects such as Acceleration of the Digital Transformation of Cameroon are aimed at developing the digital economy (2022)<br>
 _domestic_: only a little above 3 per 100 persons for fixed-line subscriptions; mobile-cellular usage has increased sharply, reaching a subscribership base of roughly 83 per 100 persons (2021)<br>
 _international_: country code - 237; landing points for the SAT-3/WASC, SAIL, ACE, NCSCS, Ceiba-2, and WACS&nbsp;fiber-optic submarine cable that provides connectivity to Europe, South America, and West Africa; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-government maintains tight control over broadcast media; state-owned Cameroon Radio Television (CRTV), broadcasting on both a TV and radio network, was the only officially recognized and fully licensed broadcaster until August 2007, when the government finally issued licenses to 2 private TV broadcasters and 1 private radio broadcaster; about 70 privately owned, unlicensed radio stations operate but are subject to closure at any time; foreign news services required to partner with state-owned national station (2019)<br>
+government maintains tight control over broadcast media; state-owned Cameroon Radio Television (CRTV), broadcasting on both a TV and radio network, was the only officially recognized and fully licensed broadcaster until August 2007, when the government issued licenses to 2 private TV broadcasters and 1 private radio broadcaster; about 70 privately owned, unlicensed radio stations operate under &ldquo;administrative tolerance,&rdquo; meaning the stations could be subject to closure at any time (2019)<br>
 
 **Internet country code**<br>
 .cm<br>
@@ -710,7 +700,7 @@ Garoua (Benoue)<br>
 
 **Military and security forces**<br>
 Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre), Navy (Marine Nationale Republique, MNR, includes naval infantry or fusiliers marin), Air Force (Armee de l'Air du Cameroun, AAC), Rapid Intervention Battalion (Bataillons d’Intervention Rapide or BIR), National Gendarmerie, Presidential Guard (2023)<br>
-<strong>note 1:</strong> the National Police and the National Gendarmerie are responsible for internal security; the Police report to the General Delegation of National Security, while the Gendarmerie reports to the Secretariat of State for Defense in charge of the Gendarmerie<br><br><strong>note 2:</strong> the Rapid Intervention Battalion (BIR) maintains its own command and control structure and reports directly to the president; the BIR is structured as a large brigade with up to 9 battalions, detachments, or groups consisting of infantry, airborne/airmobile, amphibious, armored reconnaissance, counterterrorism, and support elements, such as artillery and intelligence; the BIR receives better training, equipment, and pay than regular Army units<br>
+<strong>note 1:</strong> the National Police and the National Gendarmerie are responsible for internal security; the Police report to the General Delegation of National Security, while the Gendarmerie reports to the Secretariat of State for Defense in charge of the Gendarmerie<br><br><strong>note 2:</strong> the Rapid Intervention Battalion (BIR), while part of the Ministry of Defense, maintains its own command and control structure that reports directly to the Presidency; the BIR is structured as a large brigade with up to 9 battalions, detachments, or groups consisting of infantry, airborne/airmobile, amphibious, armored reconnaissance, counterterrorism, and support elements, such as artillery and intelligence; the BIR receives better training, equipment, and pay than regular Army units.<br>
 
 **Military expenditures**<br>
 1% of GDP (2022 est.)<br>
@@ -720,8 +710,8 @@ Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre
 1.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 35-40,000 active-duty troops (20-25,000 ground forces, including the Rapid Intervention Battalion/BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 12,000 Gendarmerie) (2023)<br>
-<strong>note: </strong>the BIR has approximately 5,000 personnel<br>
+information varies; approximately 45-50,000 active-duty troops (30-35,000 ground forces, including the Rapid Intervention Battalion/BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 12,000 Gendarmerie) (2023)<br>
+<strong>note: </strong>the BIR has approximately 12,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Russian, and Western equipment, with a limited quantity of more modern weapons received in recent years from such countries as China, France, and Russia (2023)<br>

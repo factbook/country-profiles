@@ -346,8 +346,8 @@ _elections/appointments_: monarch chosen by the 9-member Royal Council of the Th
 
 **Legislative branch**<br>
 _description_: bicameral Parliament of Cambodia consists of:<br>Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)<br><br>National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 25 February 2018 (next to be held in 2024)<br>National Assembly - last held on 23 July 2023 (next to be held in July 2028)<br>
-_election results_: <br>Senate - percent of vote by party - CPP 96%, FUNCINPEC 2.4%, KNUP 1.6%; seats by party - CPP 58; FUNCINPEC 4; composition (as of October 2023) - men 52, women 10, percent of women 16.1%<br>National Assembly - percent of vote by party - CPP 82.4%, FUNCINPEC 9.2%, KNUP 1.7%, CYP 1.3%, other 5.4% (14 other parties received votes); seats by party - CPP 125, FUNCINPEC 5; composition (as of October 2023) - men 112, women 13, percent of women 10.4%; note - total Parliament of Cambodia percent of women 12.3%<br>
+_elections_: Senate - last held on 25 February 2018 (next to be held 29 February 2024)<br>National Assembly - last held on 23 July 2023 (next to be held in July 2028)<br>
+_election results_: Senate - percent of vote by party - CPP 96%, FUNCINPEC 2.4%, KNUP 1.6%; seats by party - CPP 58; FUNCINPEC 4; composition - men 52, women 10, percent of women 16.1%<br>National Assembly - percent of vote by party - CPP 82.4%, FUNCINPEC 9.2%, KNUP 1.7%, CYP 1.3%, other 5.4% (14 other parties received votes); seats by party - CPP 120, FUNCINPEC 5; composition (as of October 2023) - men 108, women 17, percent of women 13.6%; note - total Parliament of Cambodia percent of women 14.4%<br>
 <strong>note:</strong> the CPP had no meaningful opposition in the July 2023 legislative election as the only serious challenger - the Candlelight Party - was disqualified on a technicality in advance of the election; the EU, UN, and US condemned the poll as neither free nor fair<br>
 
 **Judicial branch**<br>
@@ -357,7 +357,7 @@ _subordinate courts_: Appellate Court; provincial and municipal courts; Military
 
 **Political parties and leaders**<br>
 Candlelight Party or CP (the latest incarnation of the Sam <u>Rainsy</u> Party or SRP, which joined with the Human Rights Party or HRP to form the Cambodia National Rescue Party or CNRP in 2012; the CNRP was dissolved in 2017)<br>Cambodian People's Party or CPP [HUN SEN]<br>Cambodian Youth Party or CYP [PICH Sros]<br>Grassroots Democratic Party [YENG Virak]<br>Khmer National Unity Party or KNUP (an offshoot of FUNCINPEC) [NHEK BUN CHHAY]<br>Khmer Will Party (aligned with Candlelight Party in 2023) [KONG Monika]<br>League for Democracy Party or LDP [KHEM Veasna]<br>National United Front for Independent, Neutral, Peaceful, and Cooperative Cambodia or FUNCINPEC [Prince NORODOM CHAKRAVUTH]<br>
-<strong>note 1: </strong>42 parties had registered with the Cambodian Government at the beginning of 2023 <br><br><strong>note 2:</strong> following the 2017 commune election, the CPP-led government arrested the CNRP president Kem SOKHA for treason, dissolved the party on similar grounds, and forced most of its senior leadership into exile, where the party’s former president, Sam RAINSY, had been living since late 2015; opposition parties, particularly the Candlelight Party, continue to report, intimidation, harassment, and arrests by the Cambodian Government; in May 2023, the Cambodian Government disqualified the Candlelight Party, which is the main opposition party, from the July 2023 election<br>
+<strong>note 1: </strong>42 parties had registered with the Cambodian Government at the beginning of 2023 <br><br><strong>note 2:</strong> following the 2017 commune election, the CPP-led government arrested the CNRP president Kem SOKHA for treason, dissolved the party on similar grounds, and forced most of its senior leadership into exile where the party’s former president, Sam RAINSY, had been living since late 2015; opposition parties, particularly the Candlelight Party, continue to report, intimidation, harassment, and arrests by the Cambodian Government; in May 2023, the Cambodian Government disqualified the Candlelight Party, the main opposition party, from the July 2023 election <br>
 
 **International organization participation**<br>
 ADB, ARF, ASEAN, CICA, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -608,7 +608,7 @@ _Total energy consumption per capita 2019_: 13.629 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 40,296 (2021 est.)<br>
+_total subscriptions_: 38,284 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>

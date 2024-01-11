@@ -213,11 +213,6 @@ _total population_: 99.1%<br>
 _male_: 99%<br>
 _female_: 99.3% (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.7% (2021 est.)<br>
-_male_: 16.7%<br>
-_female_: 24.5%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -318,7 +313,7 @@ _election results_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (independent) u
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Fono (53 seats for 2021-2026 term); members from 51 single-seat constituencies directly elected by simple majority vote, with a minimum 10% representation of women in the Assembly required; members serve 5-year terms)<br>
 _elections_: election last held on 9 April 2021 (next election to be held in 2026)<br>
-_election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independents 5%; seats by party – FAST 30, HRPP 22, independents 1; composition - men 47, women 6, percent of women 11.3% <br><strong>note:</strong> on 29 November 2021, the Election Commissioner added two women seats to parliament, bringing the HRPP’s total from 20 to 22 seats<br>
+_election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independents 5%; seats by party – 35 FAST, 18 HRPP, 1 independent; composition - men 47, women 7, percent of women 14.9% <br><strong>note:</strong> on 29 November 2021, the Election Commissioner added two women seats to parliament, bringing the HRPP’s total from 20 to 22 seats<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)<br>
@@ -413,11 +408,6 @@ food processing, building materials, auto parts<br>
 
 **Labor force**<br>
 58,400 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 65%<br>
-_industry_: 6%<br>
-_services_: 29% (2015 est.)<br>
 
 **Unemployment rate**<br>
 9.84% (2021 est.)<br>

@@ -403,11 +403,6 @@ food and beverages, textiles, light assembly operations, tourism, construction, 
 **Labor force**<br>
 55,270 (2017 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 11%<br>
-_industry_: 20%<br>
-_services_: 69% (2008 est.)<br>
-
 **Unemployment rate**<br>
 24% (2017 est.)<br>
 28.2% (2016 est.)<br>
@@ -546,7 +541,7 @@ _Total energy consumption per capita 2019_: 39.799 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 26,000 (2021 est.)<br>
+_total subscriptions_: 26,011 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 21 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

@@ -365,7 +365,7 @@ All Peoples Congress or APC [Hassan AYARIGA]<br>Convention People's Party or CPP
 <strong>note:</strong> Ghana has more than 20 registered parties; included are those which participated in the 2020 general election<br>
 
 **International organization participation**<br>
-ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Alima MAHAMA (since 7 July 2021)<br>
@@ -611,7 +611,7 @@ _Total energy consumption per capita 2019_: 11.239 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 315,271 (2021 est.)<br>
+_total subscriptions_: 330,016 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

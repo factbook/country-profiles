@@ -574,7 +574,7 @@ _from consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 100,482 (2021 est.)<br>
+_total subscriptions_: 93,048 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 27 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

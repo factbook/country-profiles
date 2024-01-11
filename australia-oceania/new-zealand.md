@@ -227,11 +227,6 @@ _total_: 20 years<br>
 _male_: 20 years<br>
 _female_: 21 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.4% (2021 est.)<br>
-_male_: 12.2%<br>
-_female_: 10.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -342,7 +337,7 @@ _election results_: LUXON's National Party won the 2023 general selection with 3
 **Legislative branch**<br>
 _description_: unicameral House of Representatives - commonly called Parliament (121 seats for 2023-26 term); 72 members directly elected in 65 single-seat constituencies and 7 Maori constituencies by simple majority vote and 49 directly elected by closed party-list proportional representation vote; members serve 3-year terms)<br>
 _elections_: last held on 14 October 2023 (next scheduled for October 2026)<br>
-_election results_: percent of vote by party - National Party 38.1%, Labor Party 26.9%, Green Party 11.6%, ACT Party 8.6%, New Zealand First 6.1%; Maori Party 3.1%; seats by party - National Party 48, Labor Party 34, Green Party 15, ACT Party 11, New Zealand First 8, Maori Party 6; composition - NA<br>
+_election results_: percent of vote by party - National Party 38.1%, Labor Party 26.9%, Green Party 11.6%, ACT Party 8.6%, New Zealand First 6.1%; Maori Party 3.1%; seats by party - National Party 48, Labor Party 34, Green Party 15, ACT Party 11, New Zealand First 8, Maori Party 6; composition - 67 men, 56 women; percentage of women 45.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 5 justices, including the chief justice); note - the Supreme Court in 2004 replaced the Judicial Committee of the Privy Council (in London) as the final appeals court<br>
@@ -448,11 +443,6 @@ agriculture, forestry, fishing, logs and wood articles, manufacturing, mining, c
 
 **Labor force**<br>
 2.911 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 6.6%<br>
-_industry_: 20.7%<br>
-_services_: 72.7% (2017 est.)<br>
 
 **Unemployment rate**<br>
 4.12% (2021 est.)<br>
@@ -605,7 +595,7 @@ _Total energy consumption per capita 2019_: 186.804 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 651,000 (2021 est.)<br>
+_total subscriptions_: 757,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

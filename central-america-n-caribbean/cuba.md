@@ -231,11 +231,6 @@ _total_: 14 years<br>
 _male_: 13 years<br>
 _female_: 15 years (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.4% (2021 est.)<br>
-_male_: 7.6%<br>
-_female_: 7%<br>
-
 **People - note**<br>
 illicit emigration is a continuing problem; Cubans attempt to depart the island and enter the US using homemade rafts, alien smugglers, direct flights, or falsified visas; Cubans also use non-maritime routes to enter the US including direct flights to Miami and overland via the southwest border; the number of Cubans migrating to the US surged after the announcement of normalization of US-Cuban relations in late December 2014 but has decreased since the end of the so-called "wet-foot, dry-foot" policy on 12 January 2017<br>
 
@@ -449,11 +444,6 @@ petroleum, nickel, cobalt, pharmaceuticals, tobacco, construction, steel, cement
 5.135 million (2021 est.)<br>
 <strong>note:</strong> state sector 72.3%, non-state sector 27.7%<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 18%<br>
-_industry_: 10%<br>
-_services_: 72% (2016 est.)<br>
-
 **Unemployment rate**<br>
 2.76% (2021 est.)<br>
 2.62% (2020 est.)<br>
@@ -594,7 +584,7 @@ _Total energy consumption per capita 2019_: 32.785 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,539,269 (2021 est.)<br>
+_total subscriptions_: 1,573,526 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 14 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

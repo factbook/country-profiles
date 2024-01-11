@@ -600,7 +600,7 @@ _Total energy consumption per capita 2019_: 34.095 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 132,457 (2021 est.)<br>
+_total subscriptions_: 91,725 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -683,7 +683,7 @@ the BDF has a mix of mostly older weapons and equipment, largely of Western/Euro
 approximately 300 Mozambique (Southern African Development Community force) (2023)<br>
 
 **Military - note**<br>
-the BDF’s key functions include defending the country's territorial integrity on land and in the air, ensuring national security and stability, and aiding civil authorities in support of domestic missions such as disaster relief and anti-poaching; it is a small and professional force that participates in regional and international security operations; the Ground Force has five small brigades of infantry, light armor, and artillery, plus a unit of commandos and a marine unit with boats and river craft for patrolling Botswana's internal waterways and supporting anti-poaching operations; the Air Arm has a small squadron of ageing fighters, as well as some multipurpose helicopters<br><br>Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces in the 1960s and 1970s demonstrated that the PMU was inadequate for defending the country and led to the establishment of the Botswana Defense Force (BDF) in 1977 (2023)<br>
+the BDF’s key functions include defending the country's territorial integrity on land and in the air, ensuring national security and stability, and aiding civil authorities in support of domestic missions such as disaster relief and anti-poaching; it participates in regional and international security operations; the Ground Force has five small brigades of infantry, light armor, and artillery, plus a unit of commandos and a marine unit with boats and river craft for patrolling Botswana's internal waterways and supporting anti-poaching operations; the Air Arm has a small squadron of ageing fighters, as well as some multipurpose helicopters<br><br>Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces in the 1960s and 1970s demonstrated that the PMU was inadequate for defending the country and led to the establishment of the Botswana Defense Force (BDF) in 1977 (2023)<br>
 
 ## Space
 

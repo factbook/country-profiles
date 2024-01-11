@@ -149,11 +149,6 @@ _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.5% (2021 est.)<br>
-_male_: 18.9%<br>
-_female_: 20.4%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -318,11 +313,6 @@ among the world's largest and most technologically advanced regions, the EU indu
 **Labor force**<br>
 217.042 million (2021 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 5%<br>
-_industry_: 21.9%<br>
-_services_: 73.1% (2014 est.)<br>
-
 **Unemployment rate**<br>
 7.05% (2021 est.)<br>
 7.05% (2020 est.)<br>
@@ -424,7 +414,7 @@ _electrification - rural areas_: 99.9% (2021)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 160,149,025 (2020 est.)<br>
+_total subscriptions_: 155,004,603 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 36 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>

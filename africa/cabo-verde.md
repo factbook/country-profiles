@@ -219,11 +219,6 @@ _total_: 13 years<br>
 _male_: 12 years<br>
 _female_: 13 years (2018)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 34.3% (2021 est.)<br>
-_male_: 29.9%<br>
-_female_: 40.7%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -578,7 +573,7 @@ _Total energy consumption per capita 2019_: 26.539 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 53,586 (2021 est.)<br>
+_total subscriptions_: 57,020 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 9 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

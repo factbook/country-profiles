@@ -361,7 +361,7 @@ _subordinate courts_: <p>Courts of Appeal; district courts</p><br>
 Batkivshchyna (Fatherland) [Yuliya TYMOSHENKO]<br>European Solidarity or YeS [Petro POROSHENKO] <br>Holos (Voice or Vote) [Kira RUDYK]<br>Opposition Bloc [Evgeny MURAYEV] (formerly known as Opposition Bloc — Party for Peace and Development, successor of the Industrial Party of Ukraine, and resulted from a schism in the original Opposition Bloc in 2019; banned in court June 2022; ceased to exist in July 2022)<br>Opposition Bloc or OB (divided into Opposition Bloc - Party for Peace and Development and Opposition Platform - For Life in 2019; ceased to exist in July 2022)<br>Opposition Platform - For Life [Yuriy BOYKO] (resulted from a schism in the original Opposition Bloc in 2019; activities suspended by the National Security and Defense Council in March 2022; dissolved in April 2022)<br>Platform for Life and Peace [Yuriy BOYKO]<br>Radical Party or RPOL [Oleh LYASHKO]<br>Samopomich (Self Reliance) [Oksana Ivanivna SYROYID]<br>Servant of the People [Olena Oleksiivna SHULIAK]<br>Svoboda (Freedom) [Oleh TYAHNYBOK]<br>
 
 **International organization participation**<br>
-Australia Group, BSEC, CBSS (observer), CD, CE, CEI, CICA (observer), CIS (participating member, has not signed the 1993 CIS charter), EAEC (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+Australia Group, BSEC, CBSS (observer), CD, CE, CEI, CICA (observer), CIS (participating member, has not signed the 1993 CIS charter), EAEC (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 <strong>note</strong>: Ukraine is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
@@ -618,7 +618,7 @@ _Total energy consumption per capita 2019_: 82.571 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2.3 million (2021 est.)<br>
+_total subscriptions_: 1,739,319 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 6 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

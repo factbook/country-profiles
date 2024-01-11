@@ -219,11 +219,6 @@ _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 22.5% (2019 est.)<br>
-_male_: 21.2%<br>
-_female_: 24.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -324,7 +319,7 @@ _election results_: Taneti MAAMAU reelected president; percent of vote - Taneti 
 **Legislative branch**<br>
 _description_: unicameral House of Assembly or Maneaba Ni Maungatabu (46 seats; 44 members directly elected in single- and multi-seat constituencies by absolute majority vote in two-rounds if needed; 1 member appointed by the Rabi Council of Leaders - representing Banaba Island, and 1 ex officio member - the attorney general; members serve 4-year terms)<br>
 _elections_: legislative elections originally scheduled to be held in two rounds on 7 and 15 April 2020 but rescheduled for 14 and 21 April (next to be held in 2024)<br>
-_election results_: percent of vote by party (second round) - NA; seats by party (second round) - TKB 22, BKM 22, 1 independent<br>
+_election results_: percent of vote by party (second round) - NA; seats by party (second round) - TKB 22, BKM 22, 1 independent; composition - 42 men, 3 women; percentage of women 6.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: High Court (consists of a chief justice and other judges as prescribed by the president); note - the High Court has jurisdiction on constitutional issues<br>
@@ -410,11 +405,6 @@ fishing, handicrafts<br>
 **Labor force**<br>
 39,000 (2010 est.)<br>
 <strong>note:</strong> economically active, not including subsistence farmers<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 15%<br>
-_industry_: 10%<br>
-_services_: 75% (2010)<br>
 
 **Unemployment rate**<br>
 30.6% (2010 est.)<br>
@@ -561,7 +551,7 @@ _Total energy consumption per capita 2019_: 9.335 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 10 (2021 est.)<br>
+_total subscriptions_: 0 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>

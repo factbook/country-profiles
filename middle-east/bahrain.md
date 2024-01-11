@@ -220,11 +220,6 @@ _total_: 16 years<br>
 _male_: 16 years<br>
 _female_: 17 years (2019)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 9.9% (2021 est.)<br>
-_male_: 6.1%<br>
-_female_: 20.5%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -441,11 +436,6 @@ petroleum processing and refining, aluminum smelting, iron pelletization, fertil
 819,100 (2021 est.)<br>
 <strong>note:</strong> excludes unemployed; 44% of the population in the 15-64 age group is non-national<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 1%<br>
-_industry_: 32%<br>
-_services_: 67% (2004 est.)<br>
-
 **Unemployment rate**<br>
 1.87% (2021 est.)<br>
 1.78% (2020 est.)<br>
@@ -595,7 +585,7 @@ _Total energy consumption per capita 2019_: 547.976 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 266,741 (2021 est.)<br>
+_total subscriptions_: 253,431 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 18 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -681,7 +671,7 @@ the military's inventory consists of a mix of equipment acquired from a wide var
 <strong>note:</strong> the BDF hires foreign nationals, Sunni Muslims primarily from Arabic countries and Pakistan, to serve under contract; as of 2020, foreigners were estimated to comprise as much as 80% of the military; the policy has become a controversial issue with the primarily Shia population; during the 2011, the BDF reportedly deployed mostly foreign personnel against protesters<br>
 
 **Military - note**<br>
-<p>the BDF is a small, but well-equipped military focused on territorial defense and support to internal security; its primary concern is Iran, both the conventional military threat and its support to regional terrorist groups; the BDF participates in multinational exercises and has conducted small deployments outside of the country; in 2015, for example, Bahrain joined the Saudi Arabia-led military intervention in Yemen, supplying a few hundred troops and combat aircraft; the Army’s primary combat units are an armored brigade and a mechanized brigade, plus battalions of royal guards and special forces; in a conflict, the Army would be supported by the paramilitary National Guard; the Navy’s principal warships are a US-provided secondhand frigate, 2 corvettes acquired from Germany, and a secondhand British offshore patrol vessel; the Air Force has small numbers of US-made combat aircraft and attack helicopters</p> Bahrain’s closest security partners are the US and Saudi Arabia; it hosts the US Naval Forces Central Command (USNAVCENT; established 1983), which includes the US 5th Fleet, several subordinate naval task forces, and the Combined Maritime Forces (established 2002), a coalition of more than 30 nations providing maritime security for regional shipping lanes; in 2003, the US granted Bahrain Major Non-NATO Ally status, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Bahraini leaders have said that the security of Bahrain and Saudi Arabia are “indivisible”; Saudi Arabia sent forces to Bahrain to assist with internal security following the 2011 uprising; Bahrain also has close security ties to other Gulf Cooperation Council  countries, particularly Kuwait and the United Arab Emirates, as well as the UK (2023)<br>
+<p>the BDF is a small, but well-equipped military focused on territorial defense and support to internal security; its primary concern is Iran, both the conventional military threat and its support to regional terrorist groups; the BDF participates in multinational exercises and has conducted small deployments outside of the country; in 2015, for example, Bahrain joined the Saudi Arabia-led military intervention in Yemen, supplying a few hundred troops and combat aircraft; the Army’s primary combat units are an armored brigade and a mechanized brigade, plus battalions of royal guards and special forces; in a conflict, the Army would be supported by the paramilitary National Guard; the Navy’s principal warships are a US-provided secondhand frigate, two corvettes acquired from Germany, and a secondhand British offshore patrol vessel; the Air Force has small numbers of US-made combat aircraft and attack helicopters</p> Bahrain’s closest security partners are the US and Saudi Arabia; it hosts the US Naval Forces Central Command (USNAVCENT; established 1983), which includes the US 5th Fleet, several subordinate naval task forces, and the Combined Maritime Forces (established 2002), a coalition of more than 30 nations providing maritime security for regional shipping lanes; in 2003, the US granted Bahrain Major Non-NATO Ally status, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Bahraini leaders have said that the security of Bahrain and Saudi Arabia are “indivisible”; Saudi Arabia sent forces to Bahrain to assist with internal security following the 2011 uprising; Bahrain also has close security ties to other Gulf Cooperation Council  countries, particularly Kuwait and the United Arab Emirates, as well as the UK (2023)<br>
 
 ## Space
 

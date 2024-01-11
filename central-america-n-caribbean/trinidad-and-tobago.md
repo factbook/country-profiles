@@ -206,11 +206,6 @@ _total population_: 99%<br>
 _male_: 99.2%<br>
 _female_: 98.7% (2015)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 12.7% (2021 est.)<br>
-_male_: 12.8%<br>
-_female_: 12.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -412,11 +407,6 @@ petroleum and petroleum products, liquefied natural gas, methanol, ammonia, urea
 **Labor force**<br>
 702,900 (2021 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 3.1%<br>
-_industry_: 11.5%<br>
-_services_: 85.4% (2016 est.)<br>
-
 **Unemployment rate**<br>
 4.8% (2021 est.)<br>
 4.57% (2020 est.)<br>
@@ -556,16 +546,16 @@ _from consumed natural gas_: 35.011 million metric tonnes of CO2 (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 340,000 (2021)<br>
-_subscriptions per 100 inhabitants_: 22 (2021 est.)<br>
+_total subscriptions_: 326,483 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 21 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 130 (2021 est.)<br>
+_total subscriptions_: 1,999,029 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 131 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: excellent international service; good local service; broadband access; expanded FttP (Fiber to the Home) markets; LTE launch; regulatory development; major growth in mobile telephony and data segments which attacks operation investment in fiber infrastructure; moves to end roaming charges (2020)<br>
-_domestic_: fixed-line is 22 per 100 persons and mobile-cellular teledensity 130 per 100 persons (2021)<br>
+_domestic_: fixed-line is 21 per 100 persons and mobile-cellular teledensity 131 per 100 persons (2022)<br>
 _international_: country code - 1-868; landing points for the EC Link, ECFS, Southern Caribbean Fiber, SG-SCS and Americas II submarine cable systems provide connectivity to US, parts of the Caribbean and South America; satellite earth station - 1 Intelsat (Atlantic Ocean); tropospheric scatter to Barbados and Guyana (2020)<br>
 
 **Broadcast media**<br>

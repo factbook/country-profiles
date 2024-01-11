@@ -325,7 +325,7 @@ _etymology_: according to tradition, the name derives from the fusion of the nam
 Independence Day, 2 October (1958)<br>
 
 **Constitution**<br>
-_history_: previous 1958, 1990; latest 2010, which was suspended on 5 September 2021 via a coup d&rsquo;etat; on 27 September, the Transitional Charter was released, which supersedes the constitution until a new constitution is promulgated<br>
+_history_: previous 1958, 1990; 2010 and a referendum in 2020, which was suspended on 5 September 2021 via a coup d&rsquo;etat; on 27 September, the Transitional Charter was released, which supersedes the constitution until a new constitution is promulgated<br>
 _amendments_: proposed by the National Assembly or by the president of the republic; consideration of proposals requires approval by simple majority vote by the Assembly; passage requires approval in referendum; the president can opt to submit amendments directly to the Assembly, in which case approval requires at least two-thirds majority vote; revised in 2020<br>
 
 **Legal system**<br>
@@ -603,7 +603,7 @@ _Total energy consumption per capita 2019_: 4.133 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 0 (2018 est.)<br>
+_total subscriptions_: 0 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -616,7 +616,7 @@ _domestic_: fixed-line teledensity is less than 1 per 100 persons; mobile-cellul
 _international_: country code - 224; ACE submarine cable connecting Guinea with 20 landing points in Western and South Africa and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean (2019)<br>
 
 **Broadcast media**<br>
-<p>Government maintains marginal control over broadcast media; single state-run TV station; state-run radio broadcast station also operates several stations in rural areas; a dozen private television stations; a steadily increasing number of privately owned radio stations, nearly all in Conakry, and about a dozen community radio stations; foreign TV programming available via satellite and cable subscription services </p> (2022)<br>
+<p>Government maintains control over broadcast media; single state-run TV station; state-run radio broadcast station also operates several stations in rural areas; a dozen private television stations; a steadily increasing number of privately owned radio stations, nearly all in Conakry, and about a dozen community radio stations; foreign TV programming available via satellite and cable subscription services </p> (2022)<br>
 
 **Internet country code**<br>
 .gn<br>
@@ -688,7 +688,7 @@ the inventory of the Guinean military consists largely of aging and outdated (mo
 18 years of age for voluntary and selective conscripted service; 9-12 months of service (2023)<br>
 
 **Military deployments**<br>
-670 Mali (MINUSMA) (2023)<br>
+NA (2023)<br>
 
 **Military - note**<br>
 the Guinean military is a small and lightly armed force that is responsible for external defense, but also has some domestic security responsibilities and has historically been involved in suppressing public protests; the military has undergone some attempts at reform since 2010, but in 2021 the Army&rsquo;s special forces led a successful coup; the Army has a mix of approximately 10 infantry, light armor, commando, and special forces battalions, as well as a presidential guard force; piracy and natural resource protection in the Gulf of Guinea are key areas of concern for the small Navy, which possesses only a few patrol boats; the Air Force has a handful of serviceable aircraft, including helicopter gunships (2023)<br>

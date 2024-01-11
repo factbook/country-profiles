@@ -321,11 +321,6 @@ NA<br>
 **Labor force**<br>
 24,420 (2014 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: NEGL<br>
-_industry_: 1.8%<br>
-_services_: 98.2% (2014 est.)<br>
-
 **Unemployment rate**<br>
 1% (2016 est.)<br>
 
@@ -447,7 +442,7 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 17,000 (2021 est.)<br>
+_total subscriptions_: 17,155 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 53 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Continuously populated for at least 2,500 years, the dense jungle in the area of Sierra Leone allowed the region to remain relatively protected from invaders from empires in West Africa. Traders introduced Sierra Leone to Islam, which occupies a central role in Sierra Leonean culture and history. In the 17th century, the British set up a trading post near present-day Freetown. The trade originally involved timber and ivory but later expanded to enslaved people. In 1787, following the American Revolution, Sierra Leone became a destination for Black British loyalists from the new United States. After the abolition of the slave trade in 1807, British ships delivered thousands of liberated Africans to Sierra Leone. During the 19th century, the colony gradually expanded inland.</p> <p>In 1961, Sierra Leone became independent of the UK. While Sierra Leone held free and fair elections in 1962 and 1967, Siaka STEVENS - Sierra Leone’s second prime minister - quickly reverted to authoritarian tendencies, outlawing most political parties and ruling from 1967 to 1985. In 1991, Sierra Leonean soldiers launched a civil war against STEVENS’ ruling party. The war caused tens of thousands of deaths and displaced more than 2 million people (about one third of the population). In 1998, a Nigerian-led West African coalition military force intervened, installing Tejan KABBAH - who was originally elected in 1996 - as prime minister. In 2002, KABBAH officially announced the end of the war. Since 1998, Sierra Leone has conducted uninterrupted democratic elections, dominated by the two main political parties. In 2018, Julius Maada BIO of the Sierra Leone People’s Party won the presidential election that saw a high voter turnout despite some allegations of voter intimidation. The next presidential election is scheduled for June 2023.</p><br>
+<p>Continuously populated for at least 2,500 years, the dense jungle in the area of Sierra Leone allowed the region to remain relatively protected from invaders from empires in West Africa. Traders introduced Sierra Leone to Islam, which occupies a central role in Sierra Leonean culture and history. In the 17th century, the British set up a trading post near present-day Freetown. The trade originally involved timber and ivory but later expanded to enslaved people. In 1787, following the American Revolution, Sierra Leone became a destination for Black British loyalists from the new United States. After the abolition of the slave trade in 1807, British ships delivered thousands of liberated Africans to Sierra Leone. During the 19th century, the colony gradually expanded inland.</p> <p>In 1961, Sierra Leone became independent of the UK. While Sierra Leone held free and fair elections in 1962 and 1967, Siaka STEVENS - Sierra Leone’s second prime minister - quickly reverted to authoritarian tendencies, outlawing most political parties and ruling from 1967 to 1985. In 1991, Sierra Leonean soldiers launched a civil war against STEVENS’ ruling party. The war caused tens of thousands of deaths and displaced more than 2 million people (about one third of the population). In 1998, a Nigerian-led West African coalition military force intervened, installing Tejan KABBAH - who was originally elected in 1996 - as prime minister. In 2002, KABBAH officially announced the end of the war. Since 1998, Sierra Leone has conducted uninterrupted democratic elections dominated by the two main political parties,the Sierra Leone People’s Party (SLPP) and the All People’s Congress (APC) party. In 2018, Julius Maada BIO of the Sierra Leone People’s Party won the presidential election that saw a high voter turnout despite some allegations of voter intimidation. On June 27, 2023, the Electoral Commission for Sierra Leone announced incumbent President Julius Maada Bio as the winner of the June 2023 presidential election. Independent parallel vote tabulations and analyses by accredited national and international observation missions noted irregularities in the elections results, calling into question the integrity of the results.  On October 19, 2023, following a mediated dialogue, the Government of Sierra Leone and the main opposition party, the All People’s Congress, signed the Agreement for National Unity, which chartered a path forward for greater dialogue and cooperation between political parties, as well as the review and reform of the country’s electoral system.</p><br>
 
 ## Geography
 
@@ -229,9 +229,9 @@ _men married by age 18_: 4.1% (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write English, Mende, Temne, or Arabic<br>
-_total population_: 47.7%<br>
-_male_: 55.3%<br>
-_female_: 39.8% (2021)<br>
+_total population_: 48.6%<br>
+_male_: 56.3%<br>
+_female_: 41.3% (2022)<br>
 
 ## Environment
 
@@ -332,10 +332,10 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Julius Maada BIO (since 28 June 2023); Vice President Mohamed Juldeh JALLOH (since 28 June 2023); note - the president is both chief of state, head of government, and minister of defense<br>
-_head of government_: President Julius Maada BIO (since 28 June 2023); Vice President Mohamed Juldeh JALLOH (since 28 June 2023)<br>
+_chief of state_: President Julius Maada BIO (since 27 June 2023); Vice President Mohamed Juldeh JALLOH (since 27 June 2023); note - the president is both chief of state, head of government, and minister of defense<br>
+_head of government_: President Julius Maada BIO (since 27 June 2023); Vice President Mohamed Juldeh JALLOH (since 27 June 2023)<br>
 _cabinet_: Ministers of State appointed by the president, approved by Parliament; the cabinet is responsible to the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 June 2023 (next to be held in 2028)<br>
+_elections/appointments_: president directly elected by 55 percent in the first round or&nbsp;absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 June 2023 (next to be held in 2028)<br>
 _election results_: <br><em>2023: </em>Julius Maada BIO elected president in first round; percent of vote - Julius Maada BIO (SLPP) 56.2%, Samura KAMARA (APC) 41.2%, other 2.6%<br><em><br>2018: </em>Julius Maada BIO elected president in second round; percent of vote - Julius Maada BIO (SLPP) 51.8%, Samura KAMARA (APC) 48.2%<br>
 
 **Legislative branch**<br>
@@ -349,7 +349,7 @@ _judge selection and term of office_: Supreme Court chief justice and other judg
 _subordinate courts_: magistrates' courts; District Appeals Court; local courts<br>
 
 **Political parties and leaders**<br>
-All People's Congress or APC [Ernest Bai KOROMA]<br>Coalition for Change or C4C [vacant]<br>Progressive Alliance Party (alliance of National Grand Coalition or NGC and Sierra Leone People's Party or SLPP) [Julius Maada BIO]<br>numerous other parties<br>
+All People's Congress or APC [Samura KAMARA]<br>Sierra Leone People's Party or SLPP) [Julius Maada BIO]<br>numerous other parties<br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNOOSA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -362,7 +362,7 @@ _FAX_: [1] (202) 483-1793<br>
 _email address and website_: <br>info@embassyofsierraleone.net<br><br>https://embassyofsierraleone.net/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Bryan David HUNT (since 23 August 2023)<br>
+_chief of mission_: Ambassador Bryan David HUNT (since 8 September 2023)<br>
 _embassy_: Southridge-Hill Station, Freetown<br>
 _mailing address_: 2160 Freetown Place, Washington DC&nbsp; 20521-2160<br>
 _telephone_: [232] 99 105 000<br>
@@ -590,7 +590,7 @@ _total subscriptions_: 8,227,093 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 98 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom sector has only gradually recovered from the destruction caused during the war years, and only since 2019 has there been an effective terrestrial fiber backbone infrastructure, while the cable link to neighboring Guinea was not completed until February 2020; there is considerable available capacity from the ACE submarine cable and the national fiber network, but this is used inefficiently and so the price of internet connectivity remains one of the highest in the region; the theft of equipment and cabling, compounded by neglect, mismanagement, and under investment, means that telcos continue to operate in difficult conditions; the telecom regulator has made efforts to improve the market, including the liberalization of the international gateway and regular checks on QoS; the regulator reduced the price floor for mobile voice calls in early 2020, though consumers objected to the MNOs withdrawing a number of cheap packages as a response; the mobile sector has been the main driver of overall telecom revenue (2022)<br>
+_general assessment_: the telecom sector has only gradually recovered from the destruction caused during the war years, and only since 2019 has there been an effective terrestrial fiber backbone infrastructure, while the cable link to neighboring Guinea was not completed until February 2020; there is considerable available capacity from the ACE submarine cable and the national fiber network, but this is used inefficiently and so the price of internet connectivity remains one of the highest in the region; the theft of equipment and cabling, compounded by neglect, mismanagement, and under investment, means that telecommunications companies continue to operate in difficult conditions; the telecom regulator has made efforts to improve the market, including the liberalization of the international gateway and regular checks on QoS; the regulator reduced the price floor for mobile voice calls in early 2020, though consumers objected to the MNOs withdrawing a number of cheap packages as a response; the mobile sector has been the main driver of overall telecom revenue (2022)<br>
 _domestic_: fixed-line less than 0 per 100 and mobile-cellular just over 98 per 100 (2021)<br>
 _international_: country code - 232; landing point for the ACE submarine cable linking to South Africa, over 20 western African countries and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
@@ -647,7 +647,7 @@ _major seaport(s)_: Freetown, Pepel, Sherbro Islands<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Sierra Leone Armed Forces (RSLAF): Land Forces, Maritime Forces, Air Wing<br><br>Ministry of Internal Affairs: Sierre Leone Police (2023)<br>
+Republic of Sierra Leone Armed Forces (RSLAF): Land Forces, Maritime Forces, Air Wing<br><br>Ministry of Internal Affairs: Sierra Leone Police (2023)<br>
 
 **Military expenditures**<br>
 0.6% of GDP (2022 est.)<br>
@@ -657,13 +657,13 @@ Republic of Sierra Leone Armed Forces (RSLAF): Land Forces, Maritime Forces, Air
 0.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 10,000 personnel, mostly ground forces (2023)<br>
+The estimated strength of the RSLAF is 8500. (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RSLAF has a small inventory that includes a mix of Soviet-origin and other older foreign-supplied equipment; in recent years, it has received limited amounts of mostly donations and secondhand equipment (2023)<br>
 
 **Military service age and obligation**<br>
-18-30 for voluntary military service for men and women (25-40 for specialists); no conscription (2023)<br>
+18-25 for voluntary military service for men and women (25-40 for specialists); no conscription (2023)<br>
 
 **Military - note**<br>
 the RSLAF’s principle responsibilities are securing the borders and the country’s territorial waters, supporting civil authorities during emergencies and reconstruction efforts, and participating in peacekeeping missions; it is small, lightly armed, and has a limited budget; since being reduced in size and restructured with British assistance after the end of the civil war in 2002, it has received assistance from several foreign militaries, including those of Canada, China, France, the UK, and the US; the RSLAF has participated in peacekeeping operations in Somalia and Sudan; the Land Forces are by far the largest service with four small light infantry brigades and a separate battalion, each assigned to a separate region, including the capital; the Maritime Forces have a few small coastal and in-shore patrol boats, while the Air Wing has a handful of serviceable combat helicopters; the RSLAF operates under a Joint Forces Command<br><br>the RSLAF’s origins lie in the Sierra Leone Battalion of the Royal West African Frontier Force (RWAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the RWAFF fought in both World Wars (2023)<br>
@@ -674,5 +674,5 @@ the RSLAF’s principle responsibilities are securing the borders and the countr
 <p><em>Sierra Leone-Guinea</em>: Sierra Leone opposed Guinean troops' continued occupation of Yenga, a small village on the Makona River that serves as a border with Guinea; Guinea's forces came to Yenga in the mid-1990s to help the Sierra Leonean military to suppress rebels and to secure their common border but remained there even after both countries signed a 2005 agreement acknowledging that Yenga belonged to Sierra Leone; in 2012, the two sides signed a declaration to demilitarize the area; in 2019, Sierra Leone’s Minister of Foreign Affairs and International Cooperation stated that the dispute over Yenga had been resolved; however, at a 2021 ECOWAS meeting, Sierra Leone’s President BIO called on the bloc to help resolve an incursion of Guinean troops in Yenga</p> <p><em>Sierra Leone-Liberia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 5,500 (displacement caused by post-electoral violence in 2018 and clashes in the Pujehun region in 2019) (2021)<br>
+_IDPs_: IDPs: 3000 currently displaced due to post-electoral violence in 2018 and clashes in the Pujehun region in 2019); 900 internal displacements due to flood in 2022 (2022)<br><br>5,500 (displacement caused by post-electoral violence in 2018 and clashes in the Pujehun region in 2019) (2021)<br>
 

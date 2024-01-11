@@ -372,11 +372,6 @@ electronics, communications and information technology products, petroleum refin
 **Labor force**<br>
 11.498 million (2020 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 4.9%<br>
-_industry_: 35.9%<br>
-_services_: 59.2% (2016 est.)<br>
-
 **Unemployment rate**<br>
 3.73% (2019 est.)<br>
 3.69% (2018 est.)<br>
@@ -524,11 +519,11 @@ _Total energy consumption per capita 2019_: 160.669 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 13 million (2021 est.)<br>
+_total subscriptions_: 12.3 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 53 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 30 million (2021 est.)<br>
+_total subscriptions_: 30.3 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 120 (2021 est.)<br>
 
 **Telecommunication systems**<br>

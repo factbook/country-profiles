@@ -217,11 +217,6 @@ _total population_: 99.1%<br>
 _male_: 99.1%<br>
 _female_: 99.1% (2018)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.1% (2021 est.)<br>
-_male_: 14.1%<br>
-_female_: 25.9%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -334,7 +329,7 @@ _judge selection and term of office_: chief justice appointed by the president o
 _subordinate courts_: Magistrates' Court (organized into civil, criminal, juvenile, and small claims divisions)<br>
 
 **Political parties and leaders**<br>
-FijiFirst [Veroqe "Frank" BAINIMARAMA]<br>Fiji Labor Party or FLP [Mahendra CHAUDHRY]<br>Freedom Alliance [Jagath KARUNARATNE] (formerly Fiji United Freedom Party or FUFP)<br>National Federation Party or NFP [Biman PRASAD] (primarily Indian)<br>People's Alliance [Sitiveni RABUKA]<br>Peoples Democratic Party or PDP [Lynda TABUYA]<br>Social Democratic Liberal Party or SODELPA [Lenaitasi DURU, general secretary]<br>Unity Fiji [Savenaca NARUBE]<br>
+Fiji First [Veroqe "Frank" BAINIMARAMA]<br>Fiji Labor Party or FLP [Mahendra CHAUDHRY]<br>Freedom Alliance [Jagath KARUNARATNE] (formerly Fiji United Freedom Party or FUFP)<br>National Federation Party or NFP [Biman PRASAD] (primarily Indian)<br>People's Alliance [Sitiveni RABUKA]<br>Peoples Democratic Party or PDP [Lynda TABUYA]<br>Social Democratic Liberal Party or SODELPA [Lenaitasi DURU, general secretary]<br>Unity Fiji [Savenaca NARUBE]<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OPCW, PCA, PIF, Sparteca (suspended), SPC, UN, UNCTAD, UNDOF, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -428,11 +423,6 @@ tourism, sugar processing, clothing, copra, gold, silver, lumber<br>
 
 **Labor force**<br>
 372,200 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 44.2%<br>
-_industry_: 14.3%<br>
-_services_: 41.6% (2011)<br>
 
 **Unemployment rate**<br>
 5.24% (2021 est.)<br>
@@ -581,7 +571,7 @@ _Total energy consumption per capita 2019_: 32.901 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 49,000 (2021 est.)<br>
+_total subscriptions_: 48,510 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

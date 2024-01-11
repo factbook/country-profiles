@@ -231,11 +231,6 @@ _total_: 17 years<br>
 _male_: 16 years<br>
 _female_: 17 years (2019)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 45.4% (2021 est.)<br>
-_male_: 37%<br>
-_female_: 56.3%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -448,11 +443,6 @@ medical equipment, food processing, textiles and clothing, construction material
 2.426 million (2021 est.)<br>
 <strong>note:</strong> official estimate; excludes Nicaraguans living in Costa Rica<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 14%<br>
-_industry_: 22%<br>
-_services_: 64% (2006 est.)<br>
-
 **Unemployment rate**<br>
 17.95% (2021 est.)<br>
 17.41% (2020 est.)<br>
@@ -603,7 +593,7 @@ _Total energy consumption per capita 2019_: 44.899 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 553,455 (2021 est.)<br>
+_total subscriptions_: 491,613 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 11 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

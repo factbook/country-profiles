@@ -186,11 +186,6 @@ _total population_: 98.9% NA<br>
 _male_: 98.7% NA<br>
 _female_: 99% (2021) NA<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.8% (2015 est.)<br>
-_male_: 16.4%<br>
-_female_: 11.4%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -361,11 +356,6 @@ tourism, banking, insurance and finance, construction, construction materials, f
 **Labor force**<br>
 39,000 (2007 est.)<br>
 <strong>note:</strong> nearly 55% are non-nationals<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 1.9%<br>
-_industry_: 19.1%<br>
-_services_: 79% (2008 est.)<br>
 
 **Unemployment rate**<br>
 4% (2008)<br>

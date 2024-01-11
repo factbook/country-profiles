@@ -592,7 +592,7 @@ _Total energy consumption per capita 2019_: 76.329 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 296,620 (2021 est.)<br>
+_total subscriptions_: 265,944 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 22 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -695,7 +695,7 @@ the Estonian military is a compact force that relies heavily on conscripts and r
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
+<p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia often criticizes the Estonian Government over alleged mistreatment of ethnic Russians in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 50,450 (Ukraine) (as of 17 December 2023)<br>

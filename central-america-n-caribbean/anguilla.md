@@ -333,16 +333,6 @@ tourism, boat building, offshore financial services<br>
 **Labor force**<br>
 6,049 (2001)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 74.1%<br>
-_industry_: 3%<br>
-_services_: 18%<br>
-_agriculture/fishing/forestry/mining_: 4% (2000 est.)<br>
-_manufacturing_: 3% (2000 est.)<br>
-_construction_: 18% (2000 est.)<br>
-_transportation and utilities_: 10% (2000 est.)<br>
-_commerce_: 36% (2000 est.)<br>
-
 **Unemployment rate**<br>
 8% (2002)<br>
 

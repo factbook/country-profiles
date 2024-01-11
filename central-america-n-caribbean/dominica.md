@@ -387,11 +387,6 @@ soap, coconut oil, tourism, copra, furniture, cement blocks, shoes<br>
 **Labor force**<br>
 25,000 (2000 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 40%<br>
-_industry_: 32%<br>
-_services_: 28% (2002 est.)<br>
-
 **Unemployment rate**<br>
 23% (2000 est.)<br>
 
@@ -527,7 +522,7 @@ _Total energy consumption per capita 2019_: 37.513 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,500 (2021 est.)<br>
+_total subscriptions_: 7,459 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

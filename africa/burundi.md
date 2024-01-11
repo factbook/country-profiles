@@ -94,7 +94,7 @@ _major-language sample(s)_: <br>Igitabo Mpuzamakungu c'ibimenyetso bifatika, iso
 <strong>note:</strong> data represent languages read and written by people 10 years of age or older; spoken Kirundi is nearly universal<br>
 
 **Religions**<br>
-Roman Catholic 58.6%, Protestant 35.3% (includes Adventist 2.7% and other Protestant 32.6%), Muslim 3.4%, other 1.3%, none 1.3% (2016-17 est.)<br>
+Christian 93.9% (Roman Catholic 58.6%, Protestant 35.3% [includes Adventist 2.7% and other Protestant religions 32.6%]), Muslim 3.4%, other 1.3%, none 1.3% (2016-17 est.)<br>
 
 **Demographic profile**<br>
 <p>Burundi is a densely populated country with a high population growth rate, factors that combined with land scarcity and poverty place a large share of its population at risk of food insecurity. About 90% of the population relies on subsistence agriculture. Subdivision of land to sons, and redistribution to returning refugees, results in smaller, overworked, and less-productive plots. Food shortages, poverty, and a lack of clean water contribute to a 60% chronic malnutrition rate among children. A lack of reproductive health services has prevented a significant reduction in Burundi’s maternal mortality and fertility rates, which are both among the world’s highest. With almost two-thirds of its population under the age of 25 and a birth rate of about 5 children per woman as of 2022, Burundi’s population will continue to expand rapidly for decades to come, putting additional strain on a poor country.</p> <p>Historically, migration flows into and out of Burundi have consisted overwhelmingly of refugees from violent conflicts. In the last decade, more than a half million Burundian refugees returned home from neighboring countries, mainly Tanzania. Reintegrating the returnees has been problematic due to their prolonged time in exile, land scarcity, poor infrastructure, poverty, and unemployment. Repatriates and existing residents (including internally displaced persons) compete for limited land and other resources. To further complicate matters, international aid organizations reduced their assistance because they no longer classified Burundi as a post-conflict country. Conditions deteriorated when renewed violence erupted in April 2015, causing another outpouring of refugees. In addition to refugee out-migration, Burundi has hosted thousands of refugees from neighboring countries, mostly from the Democratic Republic of the Congo and lesser numbers from Rwanda.</p><br>
@@ -312,13 +312,13 @@ _etymology_: name derived from the pre-colonial Kingdom of Burundi (17th-19th ce
 presidential republic<br>
 
 **Capital**<br>
-_name_: Gitega (political capital), Bujumbura (commercial capital); note - in January 2019, the Burundian parliament voted to make Gitega the political capital of the country while Bujumbura would remain its economic capital; as of 2022, the government's move to Gitega remains incomplete<br>
+_name_: Gitega (political capital), Bujumbura (commercial capital); note - in January 2019, the Burundian parliament voted to make Gitega the political capital of the country while Bujumbura would remain its economic capital; as of 2023, the government's move to Gitega remains incomplete<br>
 _geographic coordinates_: 3 25 S, 29 55 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _etymology_: the naming origins for both Gitega and Bujumbura are obscure; Bujumbura's name prior to independence in 1962 was Usumbura<br>
 
 **Administrative divisions**<br>
-18 provinces; Bubanza, Bujumbura Mairie, Bujumbura Rural, Bururi, Cankuzo, Cibitoke, Gitega, Karuzi, Kayanza, Kirundo, Makamba, Muramvya, Muyinga, Mwaro, Ngozi, Rumonge, Rutana, Ruyigi<br>
+18 provinces; Bubanza, Bujumbura Mairie, Bujumbura Rural, Bururi, Cankuzo, Cibitoke, Gitega, Karuzi, Kayanza, Kirundo, Makamba, Muramvya, Muyinga, Mwaro, Ngozi, Rumonge, Rutana, Ruyigi; note- a law was passed in March 2023 reducing the number of provinces to five: Buhumuza, Bujumbura, Burunga, Butanyerera, Gitega, with full implementation by 2025.<br>
 
 **Independence**<br>
 1 July 1962 (from UN trusteeship under Belgian administration)<br>
@@ -353,34 +353,33 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <br><em>2020: </em>Evariste NDAYISHIMIYE elected president; percent of vote - Evariste NDAYISHIMIYE (CNDD-FDD) 71.5%, Agathon RWASA (CNL) 25.2%, Gaston SINDIMWO (UPRONA) 1.7%, other 1.6%<br><br><em>2015:</em> Pierre NKURUNZIZA reelected president; percent of vote - Pierre NKURUNZIZA (CNDD-FDD) 69.4%, Agathon RWASA (Hope of Burundians - Amizerio y'ABARUNDI) 19%, other 11.6% <p> </p><br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate or Inama Nkenguzamateka (39 seats in the July 2020 election); 36 members indirectly elected by an electoral college of provincial councils using a three-round voting system, which requires a two-thirds majority vote in the first two rounds and simple majority vote for the two leading candidates in the final round; 3 seats reserved for Twas, and 30% of all votes reserved for women; members serve 5-year terms)<br>National Assembly or Inama Nshingamateka (123 seats in the May 2020 election; 100 members directly elected in multi-seat constituencies by proportional representation vote and 23 co-opted members; 60% of seats allocated to Hutu and 40% to Tutsi; 3 seats reserved for Twas; 30% of total seats reserved for women; members serve 5-year terms)<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate or Inama Nkenguzamateka (39 seats in the July 2020 election); 36 members indirectly elected by an electoral college of provincial councils using a three-round voting system, which requires a two-thirds majority vote in the first two rounds and simple majority vote for the two leading candidates in the final round; 3 seats reserved for Twas, and 30% of all votes reserved for women; members serve 5-year terms)<br>National Assembly or Inama Nshingamateka (123 seats in the May 2020 election; 100 members directly elected in multi-seat constituencies by proportional representation vote and 23 co-opted members; 60% of seats allocated to Hutus and 40% to Tutsis; 3 seats reserved for Twas; 30% of total seats reserved for women; members serve 5-year terms)<br>
 _elections_: <br>Senate - last held on 20 July 2020 (next to be held in 2025)<br>National Assembly - last held on 20 May 2020 (next to be held in 2025)<br>
 _election results_: <em><br></em>Senate - percent of vote by party - CNDD-FDD 87.2%, Twa 7.7%, CNL 2.6%, UPRONA 2.6%; seats by party - CNDD-FDD 34, Twa 3, CNL 1, UPRONA 1; composition - men 23, women 16, percent of women 37.2% <p>National Assembly - percent of vote by party - CNDD-FDD 70.9%, CNL 23.4%, UPRONA 2.5%, other (co-opted Twa) 3.2%; seats by party - CNDD-FDD 86, CNL 32, Twa 3, UPRONA 2; composition - men 76, women 47, percent of women 38.2%; note - total Parliament percent of women 38%</p> <p> </p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 9 judges and organized into judicial, administrative, and cassation chambers); Constitutional Court (consists of 7 members)<br>
-_judge selection and term of office_: Supreme Court judges nominated by the Judicial Service Commission, a 15-member independent body of judicial and legal profession officials), appointed by the president and confirmed by the Senate; judge tenure NA; Constitutional Court judges appointed by the president and confirmed by the Senate and serve 6-year nonrenewable terms<br>
-_subordinate courts_: Courts of Appeal; County Courts; Courts of Residence; Martial Court; Court Against Corruption; Commercial Court<br>
+_judge selection and term of office_: Supreme Court judges nominated by the Judicial Service Commission, a 15-member body of judicial and legal profession officials), appointed by the president and confirmed by the Senate; judge tenure NA; Constitutional Court judges appointed by the president and confirmed by the Senate and serve 6-year nonrenewable terms<br>
+_subordinate courts_: Courts of Appeal; County Courts; Courts of Residence; Martial Court; Commercial Court<br>
 
 **Political parties and leaders**<br>
-Front for Democracy in Burundi-Nyakuri or FRODEBU-Nyakuri [Keffa NIBIZI]<br>Front for Democracy in Burundi-Sahwanya or FRODEBU-Sahwanya [Pierre Claver NAHIMANA]<br>National Congress for Liberty or CNL [Agathon RWASA]<br>National Council for the Defense of Democracy - Front for the Defense of Democracy or CNDD-FDD [Evariste NDAYISHIMIYE]<br>National Liberation Forces or FNL [Jacques BIGITIMANA]<br>Union for National Progress (Union pour le Progress Nationale) or UPRONA [Abel GASHATSI]<br>
+Council for Democracy and the Sustainable Development of Burundi or CODEBU [Keffa NIBIZI]<br>Front for Democracy in Burundi-Sahwanya or FRODEBU-Sahwanya [Patrick NKURUNZIZA]<br>National Council for the Defense of Democracy - Front for the Defense of Democracy or CNDD-FDD [Evariste NDAYISHIMIYE]<br>National Congress for Liberty or CNL [Agathon RWASA]<br>National Liberation Forces or FNL [Jacques BIGIRIMANA]<br>Union for National Progress (Union pour le Progress Nationale) or UPRONA [Olivier NKURUNZIZA] <br><br><br>
 
 **International organization participation**<br>
-ACP, AfDB, ATMIS, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, ATMIS, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICC, ICGLR, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Pr&eacute;f&eacute;r&eacute; NDAYISHIMIYE (since 18 March 2023)<br>
+_chief of mission_: Ambassador Jean Bosco BAREGE (since 11 January 2024); Charg&eacute; d'Affaires Genevi&egrave;ve NIZIGIYIMANA (since 3 October 2023)&nbsp;&nbsp;<br>
 _chancery_: 2233 Wisconsin Avenue NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 342-2574<br>
 _FAX_: [1] (202) 342-2578<br>
-_email address and website_: <br>burundiembusadc@gmail.com<br><br>https://burundiembassy-usa.com/index.php<br>
+_email address and website_: burundiembusadc@gmail.com<br><br>https://burundiembassy-usa.com/index.php<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Keith GILGES (since June 2022)&nbsp;<br>
+_chief of mission_: Ambassador (vacant); Keith GILGES (since June 2022)<br>
 _embassy_: B.P. 1720, Avenue Des Etats-Unis, Bujumbura<br>
 _mailing address_: 2100 Bujumbura Place, Washington DC&nbsp; 20521-2100<br>
 _telephone_: [257] 22-207-000<br>
-_FAX_: [257] 22-222-926<br>
 _email address and website_: <br>BujumburaC@state.gov<br><br>https://bi.usembassy.gov/<br>
 
 **Flag description**<br>
@@ -598,7 +597,7 @@ _Total energy consumption per capita 2019_: 1.087 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 15,976 (2021 est.)<br>
+_total subscriptions_: 14,918 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
@@ -606,7 +605,7 @@ _total subscriptions_: 7,740,494 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 62 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Burundi provides an attractive telecom market given its high population density and existing low subscription rates for all services; one downside for investors is that the country has a very low economic output, disposable income is also very low, and fixed-line infrastructure is poor outside the main urban areas; this is a greater motivation for investors to focus on improving mobile networks than in expanding fixed-line infrastructure; to overcome difficulties associated with the poor telecom infrastructure, the government has supported a number of prominent telcos building a national fiber backbone network; this network offers onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania; the first sections of this network were switched on in early 2014, and additional provinces have since been connected; in addition, the government in early 2018 kick-started the Burundi Broadband project, which aims to deliver national connectivity by 2025; based on this improved infrastructure the government and ITU have developed an ICT strategy to make use of telecoms to promote the country&rsquo;s socio-economic development through to 2028; progress made by Tanzania with its own national backbone network has benefited Burundi, which has been provided with onward connectivity to most countries in the region; International bandwidth capacity has continued to increase in recent years, including a 38% increase in the nine months to September 2021, resulting in lower retail prices for consumers; two of the mobile operators have launched 3G and LTE services to capitalize on the growing demand for internet access; the number of mobile subscribers increased 7% in the third quarter of 2021, quarter-on-quarter; similar growth is expected for the next two years at least, which will help bring the mobile level closer to the average for the region (2022)<br>
+_general assessment_: Burundi provides an attractive telecom market given its high population density and existing low subscription rates for all services; one downside for investors is that the country has a very low economic output,and an unconducive business environment;&nbsp; disposable income is also very low, and fixed-line infrastructure is poor outside the main urban areas; this is a greater motivation for investors to focus on improving mobile networks than in expanding fixed-line infrastructure; to overcome difficulties associated with the poor telecom infrastructure, the government has supported a number of prominent telcos building a national fiber backbone network; this network offers onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania; the first sections of this network were switched on in early 2014, and additional provinces have since been connected; in addition, the government in early 2018 kick-started the Burundi Broadband project, which aims to deliver national connectivity by 2025; based on this improved infrastructure the government and ITU have developed an ICT strategy to make use of telecoms to promote the country&rsquo;s socio-economic development through to 2028; progress made by Tanzania with its own national backbone network has benefited Burundi, which has been provided with onward connectivity to most countries in the region; International bandwidth capacity has continued to increase in recent years, including a 38% increase in the nine months to September 2021, resulting in lower retail prices for consumers; two of the mobile operators have launched 3G and LTE services to capitalize on the growing demand for internet access; the number of mobile subscribers increased 7% in the third quarter of 2021, quarter-on-quarter; similar growth is expected for the next two years at least, which will help bring the mobile level closer to the average for the region (2022); Burundi&rsquo;s Telecommunications Regulation and Control Agency (ARCT) has recently published its roadmap for the deployment of 5G services in the country, setting out a target of July 2024 for the introduction of commercial services. &nbsp; (2022)<br>
 _domestic_: fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage is about 62 per 100 persons (2021)<br>
 _international_: country code - 257; satellite earth station - 1 Intelsat (Indian Ocean); the government, supported by the World Bank, has backed a joint venture with a number of prominent telecoms to build a national fiber backbone network, offering onward connectivity to submarine cable infrastructure landings in Kenya and Tanzania (2019)<br>
 
@@ -658,7 +657,7 @@ _lake port(s)_: Bujumbura (Lake Tanganyika)<br>
 
 **Military and security forces**<br>
 National Defense Force of Burundi (Force de Defense Nationale du Burundi or FDNB): Land Force (Force Terrestre), the Navy Force (Force Marine), the Air Force (Force Aerienne) and Specialized Units (Unites Specialisees) (2023)<br>
-<strong>note 1:</strong> the Specialized Units include a special security brigade for the protection of institutions (aka BSPI) and military police<br><br><strong>note 2:</strong> in 2022, Burundi created a new reserve force (Force de réserve et d’appui au développement, FRAD); the FRAD's duties include organizing paramilitary trainings, supporting other components in protecting the integrity of the national territory, conceiving and implementing development projects, and operationalizing national and international partnerships<br><br><strong>note 3:</strong> the Burundi National Police (Police Nationale du Burundi) are under the Ministry of Interior, Community Development, and Public Security<br>
+<strong>note 1:</strong> the Specialized Units include a special security brigade for the protection of institutions (aka BSPI) commandos, special forces and military police<br><br><strong>note 2:</strong> in 2022, Burundi created a new reserve force (Force de réserve et d’appui au développement, FRAD); the FRAD's duties include organizing paramilitary trainings, supporting other components in protecting the integrity of the national territory, conceiving and implementing development projects, and operationalizing national and international partnerships<br><br><strong>note 3:</strong> the Burundi National Police (Police Nationale du Burundi) are under the Ministry of Interior, Community Development, and Public Security<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2022 est.)<br>
@@ -677,7 +676,7 @@ the military has a mix of mostly older weapons and equipment typically of French
 18 years of age for voluntary military service for men and women (2023)<br>
 
 **Military deployments**<br>
-750 Central African Republic (MINUSCA); more than 3,000 in Somalia (ATMIS; note - foreign troop contingents under ATMIS are drawing down towards a final exit in December 2024) (2023)<br>
+750 Central African Republic (MINUSCA); more than 3,000 in Somalia (ATMIS); note - foreign troop contingents under ATMIS are drawing down towards a final exit in December 2024); bilateral deployment to eastern Democratic Republic of the Congo (2023)<br>
 
 **Military - note**<br>
 the FDNB is responsible for defending Burundi’s territorial integrity and protecting its sovereignty; it has an internal security role, including maintaining and restoring public order if required; the FDNB also participates in providing humanitarian/disaster assistance, countering terrorism, narcotics trafficking, piracy, and illegal arms trade, and protecting the country’s environment; the FDNB conducts limited training with foreign partners such as Russia and participates in regional peacekeeping missions, most recently in the Central African Republic, the Democratic Republic of the Congo, and Somalia; these missions have provided the force some operational experience and funding; in recent years the FDNB has conducted operations against anti-government rebel groups based in the neighboring Democratic Republic of the Congo (DRC) that have carried out sporadic attacks in Burundi, such as the such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU)<br><br>the Land Force’s primary units are 4 regionally based divisions which are comprised mostly of light infantry complemented by a few battalions of artillery, light armored forces, and commandos; the FDNB also has a separate special security brigade for protecting key facilities; the Air Force is lightly equipped with a handful of combat helicopters, while the Naval Force has a few patrol boats for monitoring Burundi’s 175-km shoreline on Lake Tanganyika<br><br>the Arusha Agreement that ended the 1993-2005 created a unified military by balancing the predominantly Tutsi ex-Burundi Armed Forces (ex-FAB) and the largely Hutu dominated armed movements and requiring the military to have a 50/50 ethnic mix of Tutsis and Hutus (2023)<br>

@@ -222,11 +222,6 @@ _total_: 14 years<br>
 _male_: 14 years<br>
 _female_: 14 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 23.4% (2021 est.)<br>
-_male_: 20.7%<br>
-_female_: 27.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -423,11 +418,6 @@ petroleum, petroleum refining, liquefied natural gas, construction, agriculture,
 **Labor force**<br>
 219,800 (2021 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 4.2%<br>
-_industry_: 62.8%<br>
-_services_: 33% (2008 est.)<br>
-
 **Unemployment rate**<br>
 7.65% (2021 est.)<br>
 7.68% (2020 est.)<br>
@@ -572,7 +562,7 @@ _Total energy consumption per capita 2019_: 415.184 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 112,298 (2021 est.)<br>
+_total subscriptions_: 122,204 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 25 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -663,7 +653,7 @@ the military's s inventory includes equipment and weapons systems from a wide va
 <strong>note:</strong> the Gurkha Reserve Unit (GRU) employs about 500 Gurkhas from Nepal, the majority of whom are veterans of the British Army and the Singapore Police Force who have joined the GRU as a second career<br>
 
 **Military - note**<br>
-the Royal Brunei Armed Forces were formed in 1961 with British support as the Brunei Malay Regiment; "Royal" was added as an honorary title in 1965 and its current name was given in 1984; the military is a small and professional force responsible for ensuring the country’s sovereignty and territorial integrity, as well as countering outside aggression, terrorism, and insurgency; the Army is comprised of a few infantry battalions and an armored reconnaissance squadron, while the Navy has several corvettes and patrol vessels for monitoring the country’s territorial waters; the small Air Force does not have any combat aircraft, but operates some maritime patrol aircraft and helicopters <br><br>Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2023)<br>
+the Royal Brunei Armed Forces were formed in 1961 with British support as the Brunei Malay Regiment; "Royal" was added as an honorary title in 1965 and its current name was given in 1984; the military is responsible for ensuring the country’s sovereignty and territorial integrity, as well as countering outside aggression, terrorism, and insurgency; the Army is comprised of a few infantry battalions and an armored reconnaissance squadron, while the Navy has several corvettes and patrol vessels for monitoring the country’s territorial waters; the small Air Force does not have any combat aircraft, but operates some maritime patrol aircraft and helicopters <br><br>Brunei has a long-standing defense relationship with the UK and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2023)<br>
 
 ## Transnational Issues
 

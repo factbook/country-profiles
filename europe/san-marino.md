@@ -193,11 +193,6 @@ _total_: 12 years<br>
 _male_: 13 years<br>
 _female_: 12 years (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.4% (2016 est.)<br>
-_male_: 21.4%<br>
-_female_: 36%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -387,11 +382,6 @@ tourism, banking, textiles, electronics, ceramics, cement, wine<br>
 
 **Labor force**<br>
 21,960 (September 2013 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 0.2%<br>
-_industry_: 33.5%<br>
-_services_: 66.3% (September 2013 est.)<br>
 
 **Unemployment rate**<br>
 8.1% (2017 est.)<br>

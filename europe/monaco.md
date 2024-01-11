@@ -191,11 +191,6 @@ _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.6% (2016 est.)<br>
-_male_: 25.7%<br>
-_female_: 27.9%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -374,11 +369,6 @@ banking, insurance, tourism, construction, small-scale industrial and consumer p
 52,000 (2014 est.)<br>
 <strong>note:</strong> includes all foreign workers<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 0%<br>
-_industry_: 16.1%<br>
-_services_: 83.9% (2012 est.)<br>
-
 **Unemployment rate**<br>
 2% (2012)<br>
 
@@ -449,7 +439,7 @@ _electrification - total population_: 100% (2021)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 42,812 (2021 est.)<br>
+_total subscriptions_: 44,649 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 117 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

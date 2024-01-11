@@ -223,11 +223,6 @@ _total_: 15 years<br>
 _male_: 15 years<br>
 _female_: 15 years (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 14.6% (2021 est.)<br>
-_male_: 11.6%<br>
-_female_: 29.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -436,11 +431,6 @@ crude oil production and refining, natural and liquefied natural gas production;
 2.259 million (2021 est.)<br>
 <strong>note:</strong> about 60% of the labor force is non-national<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 4.7% NA<br>
-_industry_: 49.6% NA<br>
-_services_: 45% (2016 est.) NA<br>
-
 **Unemployment rate**<br>
 3.12% (2021 est.)<br>
 2.94% (2020 est.)<br>
@@ -589,7 +579,7 @@ _Total energy consumption per capita 2019_: 292.022 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 572,166 (2021 est.)<br>
+_total subscriptions_: 563,172 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -677,7 +667,7 @@ approximately 40,000 active-duty troops (25,000 Army, 5,000 Navy; 5,000 Air Forc
 the SAF's inventory includes a mix of older and some more modern weapons systems from a variety of suppliers, particularly Europe and the US; in recent years, the UK has been the leading supplier of arms to Oman (2023)<br>
 
 **Military service age and obligation**<br>
-18 for voluntary military service for men and women (women have been allowed to serve since 2011); no conscription (2022)<br>
+18 for voluntary military service for men and women (women have been allowed to serve since 2011); no conscription (2023)<br>
 
 **Military - note**<br>
 the SAF’s primary responsibility is external security; it is a small, but professional and well-equipped military that trains regularly, including with foreign partners such as the UK, US, and Gulf Cooperation Council countries; the SAF has a longstanding security relationship with the British military going back to the 18th century; the relationship was notable during the Dhofar Rebellion (1963-1976), when the British military provided considerable assistance to the SAF in their eventually successful counterinsurgency campaign; today, the SAF and the British maintain a joint training base in Oman and exercise together regularly; in 2017, Oman and the UK signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port, expanding on previous military cooperation agreements in 2014, 2010, and 1980; Oman also allows other nations to use some of its maritime facilities, including China<br><br>the Omani Navy conducts maritime security operations along the country’s long coastline, including patrolling, ensuring freedom of navigation in the key naval chokepoint of the Strait of Hormuz, and countering piracy and smuggling; while Oman is not a member of the US-led, 34-member nation Combined Maritime Forces (CMF), which operates task forces to counter piracy and smuggling, the Omani Navy has at times participated in CMF-led joint exercises; the Navy is a small but relatively modern force; its principal warships include nine corvettes and offshore patrol vessels, which are supported by a number of small patrol and fast attack craft<br><br>the Royal Army was formed as the Muscat Garrison in 1907; today, it has an armored brigade equipped with American and British tanks, 2 brigades of infantry, and a border guard brigade, as well as an airborne regiment; the Royal Guard is comprised of an infantry brigade and 2 special forces regiments; the Air Force has about three dozen modern European- and US-made multipurpose fighter aircraft (2023)<br>

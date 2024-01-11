@@ -350,7 +350,7 @@ _residency requirement for naturalization_: 15 years<br>
 
 **Executive branch**<br>
 _chief of state_: Interim President Mahamat Idriss DEBY (since 20 April 2021); note - on 20 April 2021, newly reelected President Idriss DEBY Itno, Lt. Gen. died of injuries sustained following clashes between government forces he was commanding and insurgents in the northern part of the country; following his death, Mahamat Idriss DEBY took control of the country and dismissed the Chadian parliament, establishing a Transitional Military Council and promising elections within 18 months<br>
-_head of government_: Interim Prime Minister Albert Pahimi PADACKE (since 26 April 2021); note - PADACKE was appointed interim prime minister by the Transitional Military Council led by Mahamat Idriss DEBY<br>
+_head of government_: Interim Prime Minister Succ&egrave;s MASRA (since 2 January 2024)<br>
 _cabinet_: Council of Ministers<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 11 April 2021; note - on 20 April 2021, military officials suspended the constitution and formed a Transitional Military Council, pledging to hold democratic elections in October 2022<br>
 _election results_: <em><br>2021</em>: Lt. Gen. Idriss DEBY Itno reelected; percent of vote - Lt. Gen. Idriss DEBY (MPS) 79.3%, Pahimi PADACKET Albert (RNDT) 10.3%, Lydie BEASSEMDA (Party for Democracy and Independence) 3.2%, other 7.2%<br><em><br>2016</em>: Lt. Gen. Idriss DEBY Itno reelected president in first round; percent of vote - Lt. Gen. Idriss DEBY (MPS) 61.6%, Saleh KEBZABO (UNDR) 12.8%, Laokein Kourayo MEDAR (CTPD) 10.7%, Djimrangar DADNADJI (CAP-SUR) 5.1%, other 9.8%<br>
@@ -606,7 +606,7 @@ _Total energy consumption per capita 2019_: 1.575 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,300 (2021 est.)<br>
+_total subscriptions_: 5,250 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>

@@ -231,11 +231,6 @@ _total_: 16 years<br>
 _male_: 16 years<br>
 _female_: 16 years (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 28.3% (2021 est.)<br>
-_male_: 27.4%<br>
-_female_: 29.9%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -446,11 +441,6 @@ steel, machine tools, electrical appliances, mining (manganese, copper, gold), c
 **Labor force**<br>
 1.724 million (2021 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 55.6%<br>
-_industry_: 8.9%<br>
-_services_: 35.5% (2006 est.)<br>
-
 **Unemployment rate**<br>
 10.66% (2021 est.)<br>
 18.5% (2020 est.)<br>
@@ -602,7 +592,7 @@ _Total energy consumption per capita 2019_: 63.286 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 337,923 (2021 est.)<br>
+_total subscriptions_: 301,117 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 9 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

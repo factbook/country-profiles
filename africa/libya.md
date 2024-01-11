@@ -89,14 +89,14 @@ _noun_: Libyan(s)<br>
 _adjective_: Libyan<br>
 
 **Ethnic groups**<br>
-Berber and Arab 97%, other 3% (includes Egyptian, Greek, Indian, Italian, Maltese, Pakistani, Tunisian, and Turkish)<br>
+Amazigh and Arab 97%, other 3% (includes Egyptian, Greek, Indian, Italian, Maltese, Pakistani, Tunisian, and Turkish)<br>
 
 **Languages**<br>
-Arabic (official), Italian, English (all widely understood in the major cities); Berber (Nafusi, Ghadamis, Suknah, Awjilah, Tamasheq)<br>
+Arabic (official), Italian, English (all widely understood in the major cities); Tamazight (Nafusi, Ghadamis, Suknah, Awjilah, Tamasheq)<br>
 _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim (official; virtually all Sunni) 96.6%, Christian 2.7%, Buddhist &lt;1%, Hindu &lt;1%, Jewish &lt;1%, folk religion &lt;1%, other  &lt;1%, unafilliated &lt;1% (2020 est.)<br>
+Muslim (official; virtually all Sunni) 96.6%, Christian 2.7%, Buddhist &lt;1%, Hindu &lt;1%, Jewish &lt;1%, folk religion &lt;1%, other  &lt;1%, unaffiliated &lt;1% (2020 est.)<br>
 <strong>note:</strong> non-Sunni Muslims include native Ibadhi Muslims (&lt;1% of the population) and foreign Muslims<br>
 
 **Demographic profile**<br>
@@ -565,7 +565,7 @@ _Total energy consumption per capita 2019_: 107.118 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.6 million (2021 est.)<br>
+_total subscriptions_: 1,218,180 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 23 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -639,8 +639,8 @@ _LNG terminal(s) (export)_: Marsa el Brega<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Government of National Unity (GNU) has access to various ground, air, and naval/coast guard forces comprised of a mix of formations and equipment from the QADHAFI regime, semi-regular and nominally integrated units, tribal armed groups/militias, civilian volunteers, and foreign private military contractors and mercenaries; the GNU has a Ministry of Defense, but has limited control over its security forces<br><br>the self-styled Libyan National Army (LNA), under de facto LNA commander Khalifa HAFTER, also includes various ground, air, and naval forces comprised of semi-regular military personnel, militias, and foreign private military contractors and mercenaries; the LNA operates independently from the GNU and exerts influence throughout eastern, central, and southern Libya (2023)<br>
-<strong>note 1:</strong> the Stabilization Support Authority (SSA) is a state-funded militia established in January 2021 by the GNU; it is tasked with securing government buildings and officials, participating in combat operations, apprehending those suspected of national security crimes, and cooperating with other security bodies<br><br><strong>note 2: </strong>the national police force under the Ministry of Interior oversees internal security (with support from military forces under the Ministry of Defense), but much of Libya's security-related police work generally falls to informal armed groups, which receive government salaries but lack formal training, supervision, or consistent accountability<br>
+the Tripoli-based Government of National Unity (GNU) has access to various ground, air, and naval/coast guard forces comprised of a mix of formations and equipment from the QADHAFI regime, semi-regular and nominally integrated units, tribal armed groups/militias, civilian volunteers, and foreign private military contractors and mercenaries; the GNU has a Ministry of Defense, but has limited control over its security forces<br><br>the self-styled Libyan National Army (LNA), under de facto LNA commander Khalifa HAFTER, also includes various ground, air, and naval forces comprised of semi-regular military personnel, militias, and foreign private military contractors and mercenaries; the LNA operates independently from the GNU and exerts influence throughout eastern, central, and southern Libya (2023)<br>
+<strong>note 1:</strong> the Stabilization Support Apparatus (SSA) is a state-funded militia established in January 2021 by the GNA; it is tasked with securing government buildings and officials, participating in combat operations, apprehending those suspected of national security crimes, and cooperating with other security bodies<br><br><strong>note 2: </strong>the national police force under the Ministry of Interior oversees internal security (with support from military forces under the Ministry of Defense), but much of Libya's security-related police work generally falls to informal armed groups, which receive government salaries but lack formal training, supervision, or consistent accountability<br>
 
 **Military expenditures**<br>
 not available<br>
@@ -666,7 +666,7 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham - Libya (ISIS-L); al-
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Libya-Algeria:</em> dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria<br><br><em>Libya-Chad:</em> various Chadian rebels from the Aozou region reside in southern Libya; Libyan forces clashed with Chadian rebels in September 2021</p> <p><em>Libya-Egypt</em>: none identified</p> <p><em>Libya-Niger</em>: the boundary is poorly defined but has never been disputed by either country</p> <p><em>Libya-Sudan</em>: none identified</p> <p><em>Libya-Tunisia</em>: none identified</p><br>
+<p><em>Libya-Algeria:</em> while dormant, Libya has long claimed about 32,000 sq km in southeastern Algeria south of the Libyan town of Ghat  <br><br><em>Libya-Chad:</em> various Chadian rebels from the Aozou region reside in southern Libya; Libyan forces clashed with Chadian rebels in September 2021</p> <p><em>Libya-Egypt</em>: none identified</p> <p><em>Libya-Niger</em>: the boundary is poorly defined but has never been disputed by either country</p> <p><em>Libya-Sudan</em>: none identified</p> <p><em>Libya-Tunisia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 24,887 (Sudan) (refugees and asylum seekers), 11,623 (Syria) (refugees and asylum seekers), 8,302 (Eritrea) (2023)<br>

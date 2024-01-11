@@ -323,8 +323,8 @@ _residency requirement for naturalization_: not specified<br>
 21 years of age and at least 20-year citizenship<br>
 
 **Executive branch**<br>
-_chief of state_: Amir Sheikh MISHAL al-Ahmad al-Sabah (since 16 December 2023); he succeeded his brother, Amir Sheikh NAWAF al-Ahmad al-Jabir al-Sabah, who died the same day<br><br>
-_head of government_: Prime Minister Sheikh AHMAD AL-NAWAF Al-Ahmad al-Sabah (reappointed 5 March 2023); First Deputy Prime Minister and Minister of Interior Sheikh TALAL al-Khalid Al-Ahmad Al-Sabah (since 16 October 2022); Deputy Prime Minister and Minister of State for Cabinet Affairs Khalid al-FADIL (since 9 April 2022); Deputy Prime Minister and Minister of Oil Bader Hamed Yusef Al-Mula (since 16 October 2022)<br>
+_chief of state_: Amir Sheikh MISHAL al-Ahmad al-Sabah (since 16 December 2023); he succeeded his brother, Amir Sheikh NAWAF al-Ahmad al-Jabir al-Sabah, who died the same day<br>
+_head of government_: Prime Minister Sheikh MOHAMMAD Sabah Al Salim Al Sabah (since 4 January 2024); First Deputy Prime Minister and Minister of Interior Sheikh TALAL al-Khalid Al-Ahmad Al-Sabah (since 16 October 2022); Deputy Prime Minister and Minister of State for Cabinet Affairs Khalid al-FADIL (since 9 April 2022); Deputy Prime Minister and Minister of Oil Bader Hamed Yusef Al-Mula (since 16 October 2022)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, approved by the amir<br>
 _elections/appointments_: amir chosen from within the ruling family, confirmed by the National Assembly; prime minister and deputy prime ministers appointed by the amir; crown prince appointed by the amir and approved by the National Assembly<br>
 
@@ -343,7 +343,7 @@ _subordinate courts_: High Court of Appeal; Court of First Instance; Summary Cou
 none; the government does not recognize any political parties or allow their formation, although no formal law bans political parties<br>
 
 **International organization participation**<br>
-ABEDA, AfDB (nonregional member), AFESD, AMF, BDEAC, CAEU, CD, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, Paris Club (associate), PCA, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNRWA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ABEDA, AfDB (nonregional member), AFESD, AMF, BDEAC, CAEU, CD, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, Paris Club (associate), PCA, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNRWA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Alzain Sabah Naser Saud&nbsp;ALSABAH (since 19 April 2023)<br>
@@ -579,7 +579,7 @@ _Total energy consumption per capita 2019_: 381.985 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 580,000 (2020 est.)<br>
+_total subscriptions_: 572,511 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>

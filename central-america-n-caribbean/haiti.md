@@ -229,11 +229,6 @@ _total population_: 61.7%<br>
 _male_: 65.3%<br>
 _female_: 58.3% (2016)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 35.7% (2021 est.)<br>
-_male_: 28.1%<br>
-_female_: 45.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -442,11 +437,6 @@ textiles, sugar refining, flour milling, cement, light assembly using imported p
 **Labor force**<br>
 5.01 million (2021 est.)<br>
 <strong>note:</strong> shortage of skilled labor; unskilled labor abundant<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 38.1%<br>
-_industry_: 11.5%<br>
-_services_: 50.4% (2010)<br>
 
 **Unemployment rate**<br>
 15.73% (2021 est.)<br>

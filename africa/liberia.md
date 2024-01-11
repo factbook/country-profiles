@@ -670,7 +670,7 @@ the AFL is responsible for external defense but also has some domestic security 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Liberia-Guinea</em>: none identified</p> <p><em>Liberia-Sierra Leone</em>: none identified</p><br>
+<p>none identified</p><br>
 
 **Illicit drugs**<br>
 <p>not a significant transit country for illicit narcotics bound for the United States or Europe; not a key producer of illicit drugs; proximity to major drug transit routes contribute to trafficking cocaine and heroin, to and through Liberia and other West African countries; local drug use involves locally grown cannabis, heroin (mostly smoked), cocaine (snorted), and more recently kush (Cannabis Indic’s type flower), mixed with different substances including heroin or synthetic DMT</p><br>

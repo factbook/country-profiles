@@ -135,7 +135,7 @@ _etymology_: self-descriptive name specifying the territory's affiliation and lo
 overseas territory of the UK; administered by a commissioner, resident in the Foreign, Commonwealth, and Development Office in London<br>
 
 **Capital**<br>
-_name_: often regarded as being on Diego Garcia<br>
+_name_: administered from London; often regarded as being on Diego Garcia<br>
 _geographic coordinates_: <strong> </strong>7 18S, 12 24E<br>
 _time difference_: UTC+6 (12 hours ahead of Washington, DC, during Standard Time)<br>
 

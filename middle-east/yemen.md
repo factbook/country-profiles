@@ -226,11 +226,6 @@ _total population_: 70.1%<br>
 _male_: 85.1%<br>
 _female_: 55% (2015)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 25.5% (2021 est.)<br>
-_male_: 24.3%<br>
-_female_: 36.3%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -438,9 +433,6 @@ crude oil production and petroleum refining; small-scale production of cotton te
 **Labor force**<br>
 7.299 million (2021 est.)<br>
 
-**Labor force - by occupation**<br>
-<p><strong>note:</strong> most people are employed in agriculture and herding; services, construction, industry, and commerce account for less than one-fourth of the labor force</p><br>
-
 **Unemployment rate**<br>
 13.57% (2021 est.)<br>
 13.39% (2020 est.)<br>
@@ -585,7 +577,7 @@ _Total energy consumption per capita 2019_: 5.453 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.2 million (2021 est.)<br>
+_total subscriptions_: 1.24 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

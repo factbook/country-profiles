@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Senegal is one of the few countries in the world with evidence of continuous human life from the Paleolithic period to present. Between the 14th and 16th centuries, the Jolof Empire ruled most of Senegal. Starting in the 15th century, Portugal, the Netherlands, France, and Great Britain traded along the Senegalese coast. Senegal’s location on the western tip of Africa made it a favorable base for the European slave trade. European powers used the Senegalese island of Goree as a base to purchase slaves from the warring chiefdoms on the mainland, and at the height of the slave trade in Senegal, over one-third of the Senegalese population was enslaved. In 1815, France abolished slavery and began expanding inland. During the second half of the 19th century, France took possession of Senegal as a French colony. In 1959, the French colonies of Senegal and French Sudan were merged and granted independence in 1960 as the Mali Federation. The union broke up after only a few months. In 1982, Senegal joined with The Gambia to form the nominal confederation of Senegambia. The envisaged integration of the two countries was never implemented, and the union dissolved in 1989.<br><br>Since the 1980s, the Movement of Democratic Forces in the Casamance - a separatist movement based in southern Senegal - has led a low-level insurgency. Several attempts at reaching a comprehensive peace agreement have failed. Since 2012, despite sporadic incidents of violence, an unofficial cease-fire has remained largely in effect. Senegal is one of the most stable democracies in Africa and has a long history of participating in international peacekeeping and regional mediation. The Socialist Party of Senegal ruled for 40 years until Abdoulaye WADE was elected president in 2000 and re-elected in 2007. WADE amended Senegal's constitution over a dozen times to increase executive power and weaken the opposition. In 2012, WADE’s decision to run for a third presidential term sparked public backlash that led to his defeat to current President Macky SALL. A 2016 constitutional referendum limited future presidents to two consecutive five-year terms. The change, however, does not apply to SALL's first term. In February 2019, SALL won his bid for reelection; his second term will end in 2024.<br>
+Senegal is one of the few countries in the world with evidence of continuous human life from the Paleolithic period to present. Between the 14th and 16th centuries, the Jolof Empire ruled most of Senegal. Starting in the 15th century, Portugal, the Netherlands, France, and Great Britain traded along the Senegalese coast. Senegal’s location on the western tip of Africa made it a favorable base for the European slave trade. European powers used the Senegalese island of Goree as a base to purchase slaves from the warring chiefdoms on the mainland, and at the height of the slave trade in Senegal, over one-third of the Senegalese population was enslaved. In 1815, France abolished slavery and began expanding inland. During the second half of the 19th century, France took possession of Senegal as a French colony. In 1959, the French colonies of Senegal and French Sudan were merged and granted independence in 1960 as the Mali Federation. The union broke up after only a few months. In 1982, Senegal joined with The Gambia to form the nominal confederation of Senegambia. The envisaged integration of the two countries was never implemented, and the union dissolved in 1989.<br><br>Since the 1980s, the Movement of Democratic Forces in the Casamance - a separatist movement based in southern Senegal - has led a low-level insurgency. Several attempts at reaching a comprehensive peace agreement have failed. Since 2012, despite sporadic incidents of violence, an unofficial cease-fire has remained largely in effect. Senegal is one of the most stable democracies in Africa and has a long history of participating in international peacekeeping and regional mediation. The Socialist Party of Senegal ruled for 40 years until Abdoulaye WADE was elected president in 2000 and re-elected in 2007. WADE amended Senegal's constitution over a dozen times to increase executive power and weaken the opposition. In 2012, WADE’s decision to run for a third presidential term sparked public backlash that led to his defeat to current President Macky SALL. A 2016 constitutional referendum limited future presidents to two consecutive five-year terms. SALL announced in July 2023 that he would not seek another term in office, and will conclude his tenure in April 2024. <br>
 
 ## Geography
 
@@ -92,10 +92,10 @@ _noun_: Senegalese (singular and plural)<br>
 _adjective_: Senegalese<br>
 
 **Ethnic groups**<br>
-Wolof 39.7%, Pular 27.5%, Serer 16%, Mandinka 4.9%, Jola 4.2%, Soninke 2.4%, other 5.4% (includes Europeans and persons of Lebanese descent) (2019 est.)<br>
+Wolof 39.7%, Pulaar 27.5%, Sereer 16%, Mandinka 4.9%, Jola 4.2%, Soninke 2.4%, other 5.4% (includes Europeans and persons of Lebanese descent) (2019 est.)<br>
 
 **Languages**<br>
-French (official), Wolof, Pular, Jola, Mandinka, Serer, Soninke<br>
+French (official), Wolof, Pulaar, Jola, Mandinka, Serer, Soninke<br>
 
 **Religions**<br>
 Muslim 97.2% (most adhere to one of the four main Sufi brotherhoods), Christian 2.7% (mostly Roman Catholic) (2019 est.)<br>
@@ -307,8 +307,8 @@ _agricultural_: 2.76 billion cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Senegal<br>
 _conventional short form_: Senegal<br>
-_local long form_: Republique du Senegal<br>
-_local short form_: Senegal<br>
+_local long form_: Republique du S&eacute;n&eacute;gal&nbsp;<br>
+_local short form_: S&eacute;n&eacute;gal<br>
 _former_: Senegambia (along with The Gambia), Mali Federation<br>
 _etymology_: named for the Senegal River that forms the northern border of the country; many theories exist for the origin of the river name; perhaps the most widely cited derives the name from "Azenegue," the Portuguese appellation for the Berber Zenaga people who lived north of the river<br>
 
@@ -318,11 +318,11 @@ presidential republic<br>
 **Capital**<br>
 _name_: Dakar<br>
 _geographic coordinates_: 14 44 N, 17 38 W<br>
-_time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
+_time difference_: UTC 0 (5 hours ahead of Washington, D.C., during Standard Time)<br>
 _etymology_: the Atlantic coast trading settlement of Ndakaaru came to be called "Dakar" by French colonialists<br>
 
 **Administrative divisions**<br>
-14 regions (regions, singular - region); Dakar, Diourbel, Fatick, Kaffrine, Kaolack, Kedougou, Kolda, Louga, Matam, Saint-Louis, Sedhiou, Tambacounda, Thies, Ziguinchor<br>
+14 regions (regions, singular - region); Dakar, Diourbel, Fatick, Kaffrine, Kaolack, K&eacute;edougou, Kolda, Louga, Matam, Saint-Louis, Sedhiou, Tambacounda, Thies, Ziguinchor<br>
 
 **Independence**<br>
 4 April 1960 (from France); note - complete independence achieved upon dissolution of federation with Mali on 20 August 1960<br>
@@ -331,11 +331,11 @@ _etymology_: the Atlantic coast trading settlement of Ndakaaru came to be called
 Independence Day, 4 April (1960)<br>
 
 **Constitution**<br>
-_history_: previous 1959 (preindependence), 1963; latest adopted by referendum 7 January 2001, promulgated 22 January 2001<br>
+_history_: previous 1959 (pre-independence), 1963; latest adopted by referendum 7 January 2001, promulgated 22 January 2001<br>
 _amendments_: proposed by the president of the republic&nbsp;or by the National Assembly; passage requires Assembly approval and approval in a referendum; the president can bypass a referendum and submit an amendment directly to the Assembly, which requires at least three-fifths majority vote; the republican form of government is not amendable; amended several times, last in 2019<br>
 
 **Legal system**<br>
-civil law system based on French law; judicial review of legislative acts in Constitutional Court<br>
+civil law system based on French law; judicial review of legislative acts in Constitutional Council<br>
 
 **International law organization participation**<br>
 accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
@@ -353,28 +353,28 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Macky SALL (since 2 April 2012)<br>
 _head of government_: Prime Minister Amadou BA (since 17 September 2022)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term; election last held on 24 February 2019 (next to be held in February 2024)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single, renewable 5-year term; election last held on 24 February 2019 (next to be held in February 2024)<br>
 _election results_: <br><em><em>2019:</em></em> Macky SALL elected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5% <p><em>2012:</em> Macky SALL elected president in second round; percent of vote - Macky SALL 65.8%, Abdoulaye WADE (PDS) 34.2% </p><br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or <em>Assemblée</em> Nationale (165 seats; 112 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 53 members directly elected by proportional representation vote in a single nationwide constituency; member term is 5-years)<br>
-_elections_: National Assembly - last held on 31 July 2022 (next to be held in July 2027)<br>
-_election results_: National Assembly results - percent of vote by party/coalition - BBY 46.6%, YAW 32.9%, WS 14.5%, other 6%;&nbsp; seats by party/coalition - BBY 82, YAW 56, WS 24, other 3; composition - men 95, women 70, percent of women 42.4%<br>
+_elections_: National Assembly - last held on 31 July 2022 (next scheduled to be held in July 2027)<br>
+_election results_: National Assembly results - percent of vote by party/coalition - BBY 46.6%, YAW 32.9%, WS 14.5%, other 6%;&nbsp; seats by party/coalition - BBY 82, YAW 42, WS 24, other 17; composition - men 92, women 73, percent of women 44%<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Cour Supreme (consists of the court president and 12 judges and organized into civil and commercial, criminal, administrative, and social chambers); Constitutional Council or Conseil Constitutionel (consists of 7 members, including the court president, vice president, and 5 judges)<br>
+_highest court(s)_: Supreme Court or <em>Cour Suprême  </em>(consists of the court president and 12 judges and organized into civil and commercial, criminal, administrative, and social chambers); Constitutional Council or <em>Conseil Constitutionnel </em> (consists of 7 members, including the court president, vice president, and 5 judges)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the president of the republic upon recommendation of the Superior Council of the Magistrates, a body chaired by the president and minister of justice; judge tenure varies, with mandatory retirement either at 65 or 68 years; Constitutional Council members appointed - 5 by the president and 2 by the National Assembly speaker; judges serve 6-year terms, with renewal of 2 members every 2 years<br>
 _subordinate courts_: High Court of Justice (for crimes of high treason by the president); Courts of Appeal; Court of Auditors; assize courts; regional and district courts; Labor Court<br>
 
 **Political parties and leaders**<br>
-African Patriots for Senegal for Work, Ethics and Fraternity [Ousmane SONKO]<br>Alliance for Citizenship and Work or ACT [Abdoul MBAYE]<br>Alliance for the Republic-Yakaar or APR [Macky SALL]<br>Alliance of Forces of Progress or AFP [Moustapha NIASSE]<br>And-Jef/African Party for Democracy and Socialism or AJ/PADS [Landing SAVANE]<br>Benno Bokk Yakaar or BBY (United in Hope) [Mahammed DIONNE] (coalition includes AFP, APR, BGC, LD-MPT, PIT, PS, and UNP)<br>Bokk Gis Gis coalition [Pape DIOP]<br>Citizen Movement for National Reform or MCRN-Bes Du Nakk [Mansour Sy DJAMIL]<br>Dare the Future movement [Aissata Tall SALL]<br>Democratic League-Labor Party Movement or LD-MPT [Mamadou NDOYE]<br>Democratic Renaissance Congress [NA]<br>Front for Socialism and Democracy/Benno Jubel or FSD/BJ [Cheikh Abdoulaye Bamba DIEYE]<br>Gainde Centrist Bloc or BCG [Jean-Paul DIAS Mendes]<br>General Alliance for the Interests of the Republic or AGIR [Thierno BOCOUM]<br>Grand Party or GP [Malick GAKOU]<br>Independence and Labor Party or PIT [Maguette THIAM]<br>Jotna Coalition [Dr Abdoulaye Niane]<br>Liberate the People (Yewwi Askan Wi) or YAW [Barthelemy DIAS, Ousmane SONKO, Khalifa SALL]<br>Madicke 2019 coalition [Madicke NIANG]<br>National Union for the People or UNP [Abdoul MBAYE]<br>Only Senegal Movement [Pierre Goudiaby ATEPA]<br>Party for Truth and Development or PVD [Cheikh Ahmadou Kara MBAKE]<br>Party of Unity and Rally or PUR [Cheikh Mouhamadou Moustapha SY]<br>Patriotic Convergence Kaddu Askan Wi or CP-Kaddu Askan Wi [Abdoulaye BALDE]<br>Rewmi Party [Idrissa SECK]<br>Save Senegal (Wallu Senegal Grand Coalition) or WS [Abdoulaye WADE] (coalition includes PDS, Jotna Coalition, Democratic Renaissance Congress)<br>Senegalese Democratic Party or PDS [Abdoulaye WADE]<br>Socialist Party or PS [Ousmane Tanor DIENG]<br>Tekki Movement [Mamadou Lamine DIALLO]<br>
+Alliance for Citizenship and Work or ACT [Abdoul MBAYE]<br>Alliance for the Republic-Yakaar or APR [Macky SALL]<br>Alliance of Forces of Progress or AFP [Moustapha NIASSE]<br>AND (National Alliance for Democracy) [Aissatou MBODJ]<br>And-Jef/African Party for Democracy and Socialism or AJ/PADS [Landing SAVANE]<br>ARC (Alternative for the next generation of citizens) [Anta Babacar NGOM] <br>Awalé [Abdourahmane DIOUF] <br>Benno Bokk Yakaar or BBY (United in Hope) [vacant] (coalition includes AFP, APR, BGC, LD-MPT, PIT, PS, and UNP)<br>Bokk Gis Gis coalition [Pape DIOP]<br>Citizen Movement for National Reform or MCRN-Bes Du Nakk [Mansour Sy DJAMIL]<br>Coalition Mimi 2024 [Aminata TOURE]<br>Dare the Future movement [Aissata Tall SALL]<br>Democratic League-Labor Party Movement or LD-MPT [Mamadou NDOYE]<br>Democratic Renaissance Congress [NA]<br>Front for Socialism and Democracy/Benno Jubel or FSD/BJ [Cheikh Abdoulaye Bamba DIEYE]<br>Gainde Centrist Bloc or BCG [Jean-Paul DIAS MENDES ]<br>General Alliance for the Interests of the Republic or AGIR [Thierno BOCOUM]<br>Grand Party or GP [Malick GAKOU]<br>Gueum sa Bopp (Believe in yourself) [Bougane Dany GUEYE]<br>Independence and Labor Party or PIT [Maguette THIAM]<br>Jotna Coalition [Dr Abdoulaye NIANE]<br>Liberate the People (Yewwi Askan Wi) or YAW [Ousmane SONKO, Déthié FALL, Cheikh Tidiane YOUM]<br>Madicke 2019 coalition [Madicke NIANG]<br>National Union for the People or UNP [Abdoul MBAYE]<br>Only Senegal Movement [Pierre Goudiaby ATEPA]<br>Party for Truth and Development or PVD [Cheikh Ahmadou Kara MBAKE]<br>Party of Unity and Rally or PUR [Cheikh Mouhamadou Moustapha SY]<br>Patriotic Convergence Kaddu Askan Wi or CP-Kaddu Askan Wi [Abdoulaye BALDE]<br>PRP (Republican party for Progress) [Déthié FALL]<br>Rewmi Party [Idrissa SECK]<br>Save Senegal (Wallu Senegal Grand Coalition) or WS [Karim WADE] (coalition includes PDS, Jotna Coalition, Democratic Renaissance Congress)<br>Senegalese Democratic Party or PDS [Karim WADE]<br>Socialist Party or PS [vacant]<br>Tekki Movement [Mamadou Lamine DIALLO]<br>Réewum Ngor (Republic of Values) [Thierno Alassane SALL]<br>Servants (Les Serviteurs) [Pape Djibril FALL]<br><br><br><br><br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, CD, CPLP (associate), ECOWAS, EITI (candidate country), FAO, FZ, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, CD, CPLP (associate), ECOWAS, EITI (candidate country), FAO, FZ, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mansour Elimane KANE (since 6 January 2020)<br>
-_chancery_: 2215 M ST NW, Washington, DC 20037<br>
+_chancery_: 2215 M ST NW, Washington, D.C. 20037<br>
 _telephone_: [1] (202) 234-0540<br>
 _FAX_: [1] (202) 332-6315; [1] (202) 629-2961<br>
 _email address and website_: <br>contact@ambasenegal-us.org<br><br>http://www.ambasenegal-us.org/index.php<br>
@@ -383,7 +383,7 @@ _consulate(s) general_: Houston, New York<br>
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Michael RAYNOR (since 10 March 2022); note - also accredited to Guinea-Bissau<br>
 _embassy_: Route des Almadies, Dakar<br>
-_mailing address_: 2130 Dakar Place, Washington DC&nbsp; 20521-2130<br>
+_mailing address_: 2130 Dakar Place, Washington D.C.&nbsp; 20521-2130<br>
 _telephone_: [221] 33-879-4000<br>
 _email address and website_: <br>DakarACS@state.gov<br><br>https://sn.usembassy.gov/<br>
 
@@ -621,7 +621,7 @@ _domestic_: fixed-line is 2 per 100 and mobile-cellular 118 per 100 persons (202
 _international_: country code - 221; landing points for the ACE, Atlantis-2, MainOne and SAT-3/WASC submarine cables providing connectivity from South Africa, numerous western African countries, Europe and South America;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-state-run Radiodiffusion Television Senegalaise (RTS) broadcasts TV programs from five cities in Senegal; in most regions of the country, viewers can receive TV programming from at least 7 private broadcasters; a wide range of independent TV programming is available via satellite; RTS operates a national radio network and a number of regional FM stations; at least 7 community radio stations and 18 private-broadcast radio stations are available; transmissions of at least 5 international broadcasters are accessible on FM in Dakar (2019)<br>
+Senegal&rsquo;s media environment includes over 25 private television stations, hundreds of radio stations, and more than 45 newspapers. &nbsp;State-run Radiodiffusion Television Senegalaise (RTS) broadcasts from five cities in Senegal and a wide range of independent TV programming is available via satellite; transmissions of several international broadcasters are accessible on FM in Dakar<br>
 
 **Internet country code**<br>
 .sn<br>
@@ -681,7 +681,7 @@ _major seaport(s)_: Dakar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army, Senegalese National Navy (Marine Senegalaise, MNS), Senegalese Air Force (l'Armee de l'Air du Senegal), National Gendarmerie (includes Territorial and Mobile components)<br><br>Ministry of Interior: National Police (2023)<br>
+Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army (l’Armée de Terre, AT), Senegalese National Navy (Marine Senegalaise, MNS), Senegalese Air Force (l'Arméee de l'Air du Séenéegal), National Gendarmerie (includes Territorial and Mobile components)<br><br>Ministry of Interior: National Police (2023)<br>
 <strong>note:</strong> the National Police operates in major cities, while the Gendarmerie under the FAS primarily operates outside urban areas; both services have specialized anti-terrorism units<br>
 
 **Military expenditures**<br>
@@ -692,7 +692,7 @@ Senegalese Armed Forces (les Forces Armées Sénégalaises, FAS): Army, Senegale
 1.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 27,000 active personnel (13,000 Army; 1,500 Navy/Coast Guard; 1,500 Air Force; 11,000 National Gendarmerie) (2023)<br>
+approximately 27,000 active personnel (15,000 Army; 1,500 Navy; 1,500 Air Force; 16,000 National Gendarmerie), 15,000 National Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAS inventory includes mostly older or secondhand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program and has received small amounts of newer equipment from more than 10 countries, with France as the leading supplier (2023)<br>
@@ -701,7 +701,7 @@ the FAS inventory includes mostly older or secondhand equipment from a variety o
 18 years of age for voluntary military service for men and women; 20 years of age for selective compulsory service for men and possibly women; 24-month service obligation (2023)<br>
 
 **Military deployments**<br>
-200 Central African Republic (MINUSCA); 950 Mali (MINUSMA); note - Senegal also has up to 1,000 police deployed to UN peacekeeping missions in the Central African Republic (MINUSCA), and the Democratic Republic of the Congo (MONUSCO) (2023)<br>
+200 Central African Republic (MINUSCA); 800 (ECOMIG – The Gambia); 1,500(ESSMGB – Guinea Bissau);<br> note - Senegal also has up to 1,000 police deployed to UN peacekeeping missions in the Central African Republic (MINUSCA)and the Democratic Republic of the Congo (MONUSCO) (2023)<br>
 
 **Military - note**<br>
 despite limited resources, the FAS is considered to be a well-equipped, experienced, and professional military; it has a history of non-interference in the country’s political process and good relations with civil authorities; it is experienced in foreign deployments and has received considerable assistance from the French military, which maintains a presence in Senegal, and the US, with smaller levels from Germany, Spain, and the UK; the FAS’s primary focuses are border, internal, and maritime security; it is closely watching the prevalence of multiple active terrorist groups across the region and political instability in neighboring Mali and Guinea and has recently established new military and gendarmerie camps along its eastern border; it also works with the government in areas such as preventive healthcare, infrastructure development, environmental protection, and disaster response<br><br>the Army is spread amongst seven military zones and organized into a mix of light infantry battalions and light armored reconnaissance squadrons, as well as airborne, special operations, and artillery battalions; the Gendarmerie includes mobile units, as well as the Presidential Guard (aka “The Red Guard”); the Navy is a small force of coastal patrol craft; in recent years it has acquired some modern platforms from France and Israel, including two offshore patrol vessels, to improve the Navy’s ability to patrol Senegal’s coastline and economic exclusion zone, conduct fisheries inspections, counter drug trafficking, and combat piracy; the Air Force is configured for supporting the ground forces and has a small number of light attack aircraft and helicopter gunships, as well as transport and reconnaissance aircraft<br><br>Senegalese security forces have been engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance (MDFC) since 1982; the conflict is one of longest running low-level insurgencies in the World, having claimed more than 5,000 lives while leaving another 60,000 displaced; in May 2023, a faction of the MFDC agreed to a peace deal (2023)<br>
@@ -721,5 +721,5 @@ _refugees (country of origin)_: 11,518 (Mauritania) (2023)<br>
 _IDPs_: 8,400 (2022)<br>
 
 **Illicit drugs**<br>
-<p>a transit point on the cocaine route from South America to Europe; large production of cannabis in southern Casamance region; the high domestic use of cannabis, crack cocaine and to a lesser extent heroin</p><br>
+<p>a transit point on the cocaine route from South America to Europe; large production of cannabis in southern Casamance region; the high domestic use of cannabis, ecstasy, and to a lesser extent crack cocaine</p><br>
 

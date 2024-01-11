@@ -236,7 +236,7 @@ _men married by age 18_: 1.9% (2019 est.)<br>
 _definition_: age 15 and over can read and write English<br>
 _total population_: 89.7%<br>
 _male_: 88.3%<br>
-_female_: 89.7% (2021)<br>
+_female_: 93.7% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -350,10 +350,10 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023); First Vice President Constantino CHIWENGA (since 4 September 2023); note - Robert Gabriel MUGABE resigned on 21 November 2017, after ruling for 37 years<br>
-_head of government_: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023); Vice President Constantino CHIWENGA (since 4 September 2023)<br>
+_head of government_: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023); First Vice President Constantino CHIWENGA (since 4 September 2023); Second Vice President Kembo MOHADI (8 September 2023)<br>
 _cabinet_: Cabinet appointed by president, responsible to National Assembly<br>
 _elections/appointments_: each presidential candidate nominated with a nomination paper signed by at least 10 registered voters (at least 1 candidate from each province) and directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 23 August 2023 (next to be held in 2028); co-vice presidents drawn from party leadership<br>
-_election results_: <em>2023: </em>Emmerson MNANGAGWA elected president in 1st round of voting; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 52.6%, Nelson CHAMISA (MDC-T) 44%, Wilbert MUBAIWA (MDC) 1.20%, other 3%<br><em><br>2018:</em> Emmerson MNANGAGWA elected president in 1st round of voting; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 50.8%, Nelson CHAMISA (MDC-T) 44.3%, Thokozani KHUPE (MDC-N) 0.9%, other 3%<br>
+_election results_: <em>2023: </em>Emmerson MNANGAGWA elected president in 1st round of voting; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 52.6%, Nelson CHAMISA (MDC-T) 44%, Wilbert MUBAIWA (NPC) 1.20%, other 3%<br><em><br>2018:</em> Emmerson MNANGAGWA elected president in 1st round of voting; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 50.8%, Nelson CHAMISA (MDC-T) 44.3%, Thokozani KHUPE (MDC-N) 0.9%, other 3%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (80 seats; 60 members directly elected in multi-seat constituencies - 6 seats in each of the 10 provinces - by proportional representation vote, 16 indirectly elected by the regional governing councils, 18 reserved for the National Council Chiefs, and 2 reserved for members with disabilities; members serve 5-year terms)<br><br>National Assembly (280 seats; 210 members directly elected in single-seat constituencies by simple majority vote and 60 seats reserved for women directly elected by proportional representation vote and 10 additional seats reserved for candidates aged between 21 and 35 directly elected by proportional representation, members serve 5-year terms)<br>
@@ -605,7 +605,7 @@ _Total energy consumption per capita 2019_: 11.516 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 243,421 (2021 est.)<br>
+_total subscriptions_: 291,324 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

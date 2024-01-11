@@ -355,7 +355,7 @@ _subordinate courts_: provincial and municipal courts<br>
 Broad Convergence for the Salvation of Angola Electoral Coalition or CASA-CE [Manuel FERNANDES]<br>Humanist Party of Angola or PHI [Florbela MALAQUIAS]<br>National Front for the Liberation of Angola or FNLA; note - party has two factions; one led by Lucas NGONDA; the other by Ngola KABANGU<br>National Union for the Total Independence of Angola or UNITA [Adalberto Costa JUNIOR] (largest opposition party)<br>Popular Movement for the Liberation of Angola or MPLA [Joao LOURENCO]; note- ruling party in power since 1975<br>Social Renewal Party or PRS [Benedito DANIEL]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), SADC, UN, UNCTAD, UNESCO, UNIDO, UNMISS, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Agostinho de Carvalho dos Santos VAN-D&Uacute;NEM (since 30 June 2023)<br>
@@ -602,7 +602,7 @@ _Total energy consumption per capita 2019_: 11.693 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 119,826 (2021 est.)<br>
+_total subscriptions_: 93,968 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
@@ -684,7 +684,7 @@ _LNG terminal(s) (export)_: Angola Soyo<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Guerra Angola, MGA), Angolan National Air Force (Forca Aerea Nacional Angolana, FANA; under operational control of the Army)<br><br>Ministry of Interior: National Police, Border Guard Police  (2023)<br>
+Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Guerra Angola, MGA), Angolan National Air Force (Forca Aerea Nacional Angolana, FANA; under operational control of the Army)<br><br>Ministry of Interior: National Police, Border Guard Police (2023)<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2022 est.)<br>
@@ -703,10 +703,10 @@ most Angolan military weapons and equipment are of Russian or of Soviet-era orig
 20-45 years of age for compulsory and 18-45 years for voluntary military service for men (registration at age 18 is mandatory); 20-45 years of age for voluntary service for women; 24-month conscript service obligation; Angolan citizenship required; the Navy is entirely staffed with volunteers (2023)<br>
 
 **Military deployments**<br>
-in 2023, Angola agreed to send 500 troops to the Democratic Republic of the Congo (DRC) for 12 months to oversee cantonment of a rebel group known as M23, though as of publication few troops had actually deployed.&nbsp; Angola has also deployed military advisors as part of a SADC deployment to confront ISIS-M in Mozambique.<br>
+in 2023, Angola agreed to send 500 troops to the Democratic Republic of the Congo (DRC) for 12 months to oversee cantonment of a rebel group known as M23 (2023)<br>
 
 **Military - note**<br>
-the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA); the current force is responsible for country&rsquo;s external defense but also has some domestic security responsibilities, including border protection, expulsion of irregular migrants, and small-scale counterinsurgency operations against groups like the Front for the Liberation of the Enclave of Cabinda separatists in Cabinda; the Army is one of the largest in the region with six infantry divisions spread amongst six military regions; it is also one of the better equipped, with a significant portion of its units being motorized and supported by approximately 300 Soviet-era tanks, largely acquired in the 1980s and 1990s; the Air Force is also one of the largest and best equipped in the region with a fleet of approximately 100 combat aircraft, plus a substantial inventory of transport aircraft and helicopter gunships; while naval modernization has received more attention in recent years, the Navy remains a small force of fast attack and coastal patrol craft (2023)<br>
+the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA); the current force is responsible for country&rsquo;s external defense but also has some domestic security responsibilities, including border protection, expulsion of irregular migrants, and small-scale counterinsurgency operations against groups like the Front for the Liberation of the Enclave of Cabinda separatists in Cabinda; the Army and Air Force are some of the largest and better equipped forces in the region; a significant portion of the Army's core combat forces--six infantry divisions--are motorized and supported by approximately 300 Soviet-era tanks, while the Air Force has a fleet of approximately 100 combat aircraft, plus a substantial inventory of transport aircraft and helicopter gunships; while naval modernization has received more attention in recent years, the Navy remains a small force of fast attack and coastal patrol craft (2023)<br>
 
 ## Space
 

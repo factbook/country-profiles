@@ -431,9 +431,9 @@ _Total energy consumption per capita 2019_: 13.604 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 485,829 (2021 est.)<br>
+_total subscriptions_: 457,706 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 9 (2021 est.)<br>
-includes the West Bank<br>
+<strong>note:</strong> data includes both the Gaza Strip and West Bank<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 4,052,966 (2021 est.)<br>

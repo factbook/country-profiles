@@ -222,11 +222,6 @@ _total_: 16 years<br>
 _male_: 15 years<br>
 _female_: 17 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.1% (2021 est.)<br>
-_male_: 7.5%<br>
-_female_: 16.3%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -327,7 +322,7 @@ _election results_: Siaosi SOVALENI elected prime minister by the Legislative As
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Fale Alea (30 seats statutory, 26 current); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)<br>
 _elections_: last held on 18 November 2021 (next to be held in November 2025)<br>
-_election results_: percent of vote - NA; seats by party (elected members) - independents 11, nobles' representatives 9, DPFI 3, TPPI 3; composition - men 26, women 1, percent of women 3.7%<br>
+_election results_: percent of vote - NA; seats by party (elected members) - independents 11, nobles' representatives 9, DPFI 3, TPPI 3; composition - men 26, women 2, percent of women 7.14%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>
@@ -415,11 +410,6 @@ tourism, construction, fishing<br>
 
 **Labor force**<br>
 32,000 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 2,006% (2006 est.)<br>
-_industry_: 27.5% (2006 est.)<br>
-_services_: 2,006% (2006 est.)<br>
 
 **Unemployment rate**<br>
 3.97% (2021 est.)<br>
@@ -566,11 +556,11 @@ _Total energy consumption per capita 2019_: 22.841 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 11,000 (2021 est.)<br>
+_total subscriptions_: 10,824 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 64,000 (2021 est.)<br>
+_total subscriptions_: 64,328 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 61 (2021 est.)<br>
 
 **Telecommunication systems**<br>

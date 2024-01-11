@@ -385,11 +385,6 @@ NA<br>
 38,520 (2015 est.) (2012)<br>
 <strong>note:</strong> 51% of the labor force in Liechtenstein commute daily from Austria, Switzerland, and Germany<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 0.8%<br>
-_industry_: 36.9%<br>
-_services_: 62.3% (2015)<br>
-
 **Unemployment rate**<br>
 2.4% (2015)<br>
 2.4% (2014)<br>
@@ -449,7 +444,7 @@ _electrification - total population_: 100% (2021)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 11,712 (2021 est.)<br>
+_total subscriptions_: 10,980 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 30 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

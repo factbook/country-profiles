@@ -90,11 +90,11 @@ _noun_: Moroccan(s)<br>
 _adjective_: Moroccan<br>
 
 **Ethnic groups**<br>
-Arab-Berber 99%, other 1%<br>
+Arab-Amazigh 99%, other 1%<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Languages**<br>
-Arabic (official), Berber languages (Tamazight (official), Tachelhit, Tarifit), French (often the language of business, government, and diplomacy); note - the proportion of Berber speakers is disputed<br>
+Arabic (official), Tamazight languages (Tamazight (official), Tachelhit, Tarifit), French (often the language of business, government, and diplomacy); note - the proportion of Tamazight speakers is disputed<br>
 _major-language sample(s)_: <br>كتاب ديال لحقائق متاع العالم، احسن مصدر متاع المعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -258,12 +258,6 @@ _total_: 14 years<br>
 _male_: 14 years<br>
 _female_: 14 years (2021)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
-
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 27.2% (2021 est.)<br>
-_male_: 26.7%<br>
-_female_: 28.7%<br>
-<strong>note: </strong>does not include data from the former Western Sahara<br>
 
 ## Environment
 
@@ -487,11 +481,6 @@ automotive parts, phosphate mining and processing, aerospace, food processing, l
 **Labor force**<br>
 11.814 million (2021 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 39.1%<br>
-_industry_: 20.3%<br>
-_services_: 40.5% (2014 est.)<br>
-
 **Unemployment rate**<br>
 11.47% (2021 est.)<br>
 11.45% (2020 est.)<br>
@@ -642,7 +631,7 @@ _Total energy consumption per capita 2019_: 24.59 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,460,155 (2021 est.)<br>
+_total subscriptions_: 2,645,109 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 7 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -723,7 +712,7 @@ _LNG terminal(s) (import)_: Jorf Lasfar (planned)<br>
 
 **Military and security forces**<br>
 Royal Armed Forces (FAR): Royal Moroccan Army (includes the Moroccan Royal Guard), Royal Moroccan Navy (includes Coast Guard, marines), Royal Moroccan Air Force; Royal Moroccan Gendarmerie (2023)<br>
-<strong>note 1:</strong> the Moroccan Royal Guard is officially part of the Royal Moroccan Army, but is under the direct operational control of the Royal Military Household of His Majesty the King; it provides for the security and safety of the King and royal family; it was established in the 11th century and is considered one of the world's oldest active units still in military service<strong><br><br></strong><strong>note 2: </strong>Morocco's security apparatus includes several police and paramilitary organizations with overlapping authority; the National Police (Ministry of Interior) manages internal law enforcement in cities; the Royal Gendarmerie (Administration of National Defense) is responsible for law enforcement in rural regions and on national highways; the Gendarmerie operates mobile and fixed checkpoints along the roads in border areas and at the entrances to major municipalities; it also has a counterterrorism role; the Auxiliary Forces (Ministry of Interior) provide support to the Gendarmerie and National Police; it includes a Mobile Intervention Corps, a motorized paramilitary security force that supplements the military and the police as needed<br>
+<strong>note 1:</strong> the Moroccan Royal Guard is officially part of the Royal Moroccan Army, but is under the direct operational control of the Royal Military Household of His Majesty the King; it provides for the security and safety of the King and royal family; it was established in the 11th century and is considered one of the world's oldest active units still in military service<strong><br><br></strong><strong>note 2: </strong>Morocco's security apparatus includes several police and paramilitary organizations with overlapping authority; the National Police (DGSN; Ministry of Interior) manages internal law enforcement in cities; the Royal Gendarmerie (Administration of National Defense) is responsible for law enforcement in rural regions and on national highways; the Gendarmerie operates mobile and fixed checkpoints along the roads in border areas and at the entrances to major municipalities; it also has a counterterrorism role; the Auxiliary Forces (Ministry of Interior) provide support to the Gendarmerie and National Police; it includes a Mobile Intervention Corps, a motorized paramilitary security force that supplements the military and the police as needed<br>
 
 **Military expenditures**<br>
 4.5% of GDP (2022 est.)<br>

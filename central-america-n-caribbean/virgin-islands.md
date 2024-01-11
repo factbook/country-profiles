@@ -188,11 +188,6 @@ _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 27% (2021 est.)<br>
-_male_: 24.1%<br>
-_female_: 37.3%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -352,11 +347,6 @@ NA<br>
 
 **Labor force**<br>
 42,200 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 1%<br>
-_industry_: 19%<br>
-_services_: 80% (2003 est.)<br>
 
 **Unemployment rate**<br>
 13.27% (2021 est.)<br>

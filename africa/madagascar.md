@@ -591,7 +591,7 @@ _Total energy consumption per capita 2019_: 2.307 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 26,271 (2021 est.)<br>
+_total subscriptions_: 25,761 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
@@ -684,7 +684,7 @@ the PAF&rsquo;s responsibilities include ensuring sovereignty and territorial in
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Madagascar-France</em>: claims Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island (all administered by France); the vegetated drying cays of Banc du Geyser, which were claimed by Madagascar in 1976, also fall within the EEZ claim of France</p> <p><em>Madagascar-Comoros</em>: the vegetated drying cays of Banc du Geyser, which were claimed by Madagascar in 1976, also fall within the EEZ claim of the Comoros</p><br>
+<p><em>Madagascar-France</em>: claims Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island (all administered by France; talks with France over the claims have occurred in 1990, 2016, and 2019); the vegetated drying cays of Banc du Geyser, which were claimed by Madagascar in 1976, also fall within the EEZ claim of France</p> <p><em>Madagascar-Comoros</em>: the vegetated drying cays of Banc du Geyser, which were claimed by Madagascar in 1976, also fall within the EEZ claim of the Comoros</p><br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Madagascar does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; officials identified and provided services to more victims, launched an updated National Action Plan, took steps to reduce the demand for child sex tourism, and worked with an international organization to monitor Malagasy migrant workers&rsquo; conditions in Jordan; however, the government did not demonstrate overall increasing efforts, compared with the previous year, to expand its anti-trafficking capacity; officials investigated fewer trafficking cases and did not report any prosecutions or convictions of suspected traffickers for the second consecutive year; the government did not hold complicit officials accountable nor investigate reports of officials facilitating child sex trafficking within Madagascar or labor trafficking of Malagasy workers abroad; for the third consecutive year, the government did not disburse funds to the National Office to Combat Human Trafficking, hindering nationwide progress and coordination; efforts to address internal crimes, including domestic servitude, forced begging, and child sex trafficking, remained inadequate, and officials continued to conflate human trafficking with other crimes including gender-based violence and sexual exploitation; therefore, Madagascar remained on Tier 2 Watch List for the second consecutive year (2023)<br>

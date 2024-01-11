@@ -236,11 +236,6 @@ _total_: 7 years<br>
 _male_: 8 years<br>
 _female_: 6 years (2012)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.8% (2021 est.)<br>
-_male_: 10.6%<br>
-_female_: 13.1%<br>
-
 ## Environment
 
 **Environment - current issues**<br>

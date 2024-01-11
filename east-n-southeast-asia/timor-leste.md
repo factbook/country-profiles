@@ -226,11 +226,6 @@ _total population_: 68.1%<br>
 _male_: 71.9%<br>
 _female_: 64.2% (2018)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 13.8% (2021 est.)<br>
-_male_: 11.4%<br>
-_female_: 16.8%<br>
-
 **People - note**<br>
 one of only two predominantly Christian nations in Southeast Asia, the other being the Philippines<br>
 
@@ -338,7 +333,7 @@ _election results_: <br><em>2022</em>: José RAMOS-HORTA elected president in a 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by closed, party-list proportional representation vote using the D'Hondt method to serve 5-year terms)<br>
 _elections_: last held May 2023 (next to be held in May 2028)<br>
-_election results_: percent of vote by party in 2023 elections - CNRT 41.5%, FRETILIN 25.8%, PD 9.3%, KHUNTO 7.5%, PLP 6%, other 9.9%; seats by party - CNRT 31, FRETILIN 19, PD 6, KHUNTO 5, PLP 4; note - 12 other parties received votes, but won no seats<br><br>percent of vote by party in 2018 elections - AMP 49.6%, FRETILIN 34.2%, PD 8.1%, DDF 5.5%, other 2.6%; seats by party - AMP 34, FRETILIN 23, PD 5, DDF 3; composition - men 39, women 26, percent of women 40%; note - AMP (Alliance for Change and Progress) was a coalition of CNRT, PLP, and KHUNTO which dissolved in May of 2020<br>
+_election results_: percent of vote by party in 2023 elections - CNRT 41.5%, FRETILIN 25.8%, PD 9.3%, KHUNTO 7.5%, PLP 6%, other 9.9%; seats by party - CNRT 31, FRETILIN 19, PD 6, KHUNTO 5, PLP 4; note - 12 other parties received votes, but won no seats; composition - men 41, women 24; percent women 36.9%<br><br>percent of vote by party in 2018 elections - AMP 49.6%, FRETILIN 34.2%, PD 8.1%, DDF 5.5%, other 2.6%; seats by party - AMP 34, FRETILIN 23, PD 5, DDF 3; composition - men 39, women 26, percent of women 40%; note - AMP (Alliance for Change and Progress) was a coalition of CNRT, PLP, and KHUNTO which dissolved in May of 2020<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeals (consists of the court president and NA judges)<br>
@@ -434,11 +429,6 @@ printing, soap manufacturing, handicrafts, woven cloth<br>
 
 **Labor force**<br>
 569,700 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 41%<br>
-_industry_: 13%<br>
-_services_: 45.1% (2013)<br>
 
 **Unemployment rate**<br>
 5.07% (2021 est.)<br>
@@ -586,16 +576,16 @@ _Total energy consumption per capita 2019_: 5.74 million Btu/person (2019 est.)<
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,900 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 1,840 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.4 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
+_total subscriptions_: 1,481,007 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 110 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Timor-Leste has been moving forward with the regeneration of its economy and rebuilding key infrastructure, including telecommunications networks, that were destroyed during the years of civil unrest; fixed-line and fixed broadband penetration in Timor-Leste remains extremely low, mainly due to the limited fixed-line infrastructure and the proliferation of mobile connectivity; in an effort to boost e-government services; the number of subscribers through to 2026 is expected to develop steadily, though from a low base; by August 2020, Timor-Leste had three telecom service providers who jointly achieved a 98% network coverage nationally; the mobile broadband market is still at an early stage of development, strong growth is predicted over the next five years; at the end of 2020, the government issued new policy guidelines to maximize the use of spectrum in Timor-Leste; it invited mobile operators to submit applications for the allocation of spectrum in the 1800MHz, 2300MHz and 2600MHz bands; in November 2020, the government approved the deployment of a submarine fiber link connecting the south of the country to Australia via the North Western Cable System (NWCS) (2021)<br>
-_domestic_: fixed-line services less than 1 per 100 and mobile-cellular services is 100 per 100 (2021)<br>
+_domestic_: fixed-line services less than 1 per 100 and mobile-cellular services is 110 per 100 (2022)<br>
 _international_: country code - 670; &nbsp;international service is available; partnership with Australia telecom companies for potential deployment of a submarine fiber-optic link (NWCS);&nbsp;geostationary earth orbit satellite<br>
 
 **Broadcast media**<br>

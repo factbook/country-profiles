@@ -367,12 +367,6 @@ NA<br>
 51,610 (2007 est.)<br>
 <strong>note:</strong> of the 51,610 workers aged 15 and over in the labor force, 32,252 were born in Aruba and 19,353 came from abroad; foreign workers are 38% of the employed population<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: NA<br>
-_industry_: NA<br>
-_services_: NA<br>
-<strong>note:</strong> most employment is in wholesale and retail trade, followed by hotels and restaurants<br>
-
 **Unemployment rate**<br>
 7.7% (2016 est.)<br>
 

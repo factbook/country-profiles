@@ -225,11 +225,6 @@ _total_: 13 years<br>
 _male_: 12 years<br>
 _female_: 13 years (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 19.3% (2021 est.)<br>
-_male_: 12.2%<br>
-_female_: 31.9%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -437,11 +432,6 @@ garment production, food processing, tourism, construction, oil<br>
 **Labor force**<br>
 176,900 (2021 est.)<br>
 <strong>note:</strong> shortage of skilled labor and all types of technical personnel<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 10.2%<br>
-_industry_: 18.1%<br>
-_services_: 71.7% (2007 est.)<br>
 
 **Unemployment rate**<br>
 8.22% (2021 est.)<br>
@@ -674,7 +664,7 @@ the military has a small inventory consisting mostly of UK- and US-origin equipm
 18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient, but conscription has never been implemented; initial service obligation is 12 years (2023)<br>
 
 **Military - note**<br>
-<p>the Belize Defense Force (BDF) is responsible for external security but also provides some support to civilian authorities; it has limited powers of arrest within land and shoreline areas, while the Coast Guard has arrest powers and jurisdiction within coastal and maritime areas; the BDF traces its history back to the Prince Regent Royal Honduras Militia, a volunteer force established in 1817; the BDF was established in 1978 from the disbanded Police Special Force and the Belize Volunteer Guard to assist the resident British forces with the defense of Belize against Guatemala</p> <p>the British Army has maintained a presence in Belize since its independence; the presence consists of a small training support unit that provides jungle training to troops from the UK and international partners</p> (2023)<br>
+the Belize Defense Force (BDF) is responsible for external security but also provides some support to civilian authorities; it has limited powers of arrest within land and shoreline areas, while the Coast Guard has arrest powers and jurisdiction within coastal and maritime areas; the BDF traces its history back to the Prince Regent Royal Honduras Militia, a volunteer force established in 1817; the BDF was established in 1978 from the disbanded Police Special Force and the Belize Volunteer Guard to assist the resident British forces with the defense of Belize against Guatemala<br><br>the British Army has maintained a presence in Belize since its independence; the presence consists of a small training support unit that provides jungle training to troops from the UK and international partners (2023)<br>
 
 ## Transnational Issues
 

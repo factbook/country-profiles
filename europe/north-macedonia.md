@@ -586,7 +586,7 @@ _Total energy consumption per capita 2019_: 53.572 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 425,646 (2021 est.)<br>
+_total subscriptions_: 436,182 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 20 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -656,7 +656,7 @@ Army of the Republic of North Macedonia (ARSM): the ARSM is a joint force with a
 approximately 6,500 active-duty personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists mostly of Soviet-era equipment, although in recent years it has received small amounts of more modern equipment from countries such as Turkey and the US (2023)<br>
+the military's inventory is a mix of Soviet-era and increasing amounts of Western-origin equipment from countries such as France, Turkey, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished in 2007 (2023)<br>

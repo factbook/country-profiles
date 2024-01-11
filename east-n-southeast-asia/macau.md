@@ -5,7 +5,7 @@ _East & Southeast Asia / Dependencies (China)_
 ## Introduction
 
 **Background**<br>
-Colonized by the Portuguese in the 16th century, Macau was the first European settlement in the Far East. Pursuant to an agreement signed by China and Portugal on 13 April 1987, Macau became the Macau Special Administrative Region of the People's Republic of China on 20 December 1999. In this agreement, China promised that, under its "one country, two systems" formula, China's political and economic system would not be imposed on Macau, and that Macau would enjoy a "high degree of autonomy" in all matters except foreign affairs and defense for the subsequent 50 years. However, following a multi-year crackdown by China against a pro-democracy movement in nearby Hong Kong, the governments of China and the Macao Special Administrative Region similarly worked to limit Macao's political autonomy by suppressing opposition activity in the 2021 legislative elections.<br>
+Colonized by the Portuguese in the 16th century, Macau was the first European settlement in the Far East. Pursuant to an agreement signed by China and Portugal on 13 April 1987, Macau became the Macau Special Administrative Region of the People's Republic of China on 20 December 1999. In this agreement, China promised that, under its "one country, two systems" formula, China's political and economic system would not be imposed on Macau, and that Macau would enjoy a "high degree of autonomy" in all matters except foreign affairs and defense for the subsequent 50 years. However, following a multi-year crackdown by China against a pro-democracy movement in nearby Hong Kong, the governments of China and the Macau Special Administrative Region similarly worked to limit Macau's political autonomy by suppressing opposition activity in the 2021 legislative elections.<br>
 
 ## Geography
 
@@ -267,7 +267,7 @@ _judge selection and term of office_: justices appointed by the Macau chief exec
 _subordinate courts_: Court of Second Instance; Court of First instance; Lower Court; Administrative Court<br>
 
 **Political parties and leaders**<br>
-Alliance for a Happy Home or ABL [WONG Kit-cheng]<br>Association of Synergy of Macao ("Synergy Power" or Poder da Singeria) or PS [Vitor VAI]<br>Macau-Guangdong Union or UGM [MAK Soi-kun]<br>New Hope or NE [José Maria Pereira COUTINHO]<br>Union for Development or UPD [HO Sut Heng]<br>Union for Promoting Progress or UPP or UNIPRO [HO Ion-sang]<br>United Citizens Association of Macau or ACUM [CHAN Meng-kam]<br>Women's General Association of Macau or AGMM [HO Teng-iat]<br>
+Alliance for a Happy Home or ABL [WONG Kit-cheng]<br>Association of Synergy of Macau ("Synergy Power" or Poder da Singeria) or PS [Vitor VAI]<br>Macau-Guangdong Union or UGM [MAK Soi-kun]<br>New Hope or NE [José Maria Pereira COUTINHO]<br>Union for Development or UPD [HO Sut Heng]<br>Union for Promoting Progress or UPP or UNIPRO [HO Ion-sang]<br>United Citizens Association of Macau or ACUM [CHAN Meng-kam]<br>Women's General Association of Macau or AGMM [HO Teng-iat]<br>
 <strong>note:</strong> there is no political party ordinance, so there are no registered political parties; politically active groups register as societies or companies<br>
 
 **International organization participation**<br>
@@ -495,7 +495,7 @@ _Total energy consumption per capita 2019_: 81.407 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 110,000 (2021 est.)<br>
+_total subscriptions_: 92,382 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 16 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

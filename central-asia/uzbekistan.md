@@ -5,7 +5,7 @@ _Central Asia / Countries_
 ## Introduction
 
 **Background**<br>
-Uzbekistan is the geographic and population center of Central Asia. The country has a diverse economy and a relatively young population. Russia conquered and united the disparate territories of present-day Uzbekistan in the late 19th century. Stiff resistance to the Red Army after the Bolshevik Revolution was eventually suppressed and a socialist republic established in 1924. During the Soviet era, intensive production of "white gold" (cotton) and grain led to the overuse of agrochemicals and the depletion of water supplies, leaving the land degraded and the Aral Sea and certain rivers half-dry. Independent since the dissolution of the USSR in 1991, the country has diversified agricultural production while developing its mineral and petroleum export capacity and increasing its manufacturing base, although cotton remains a major part of its economy. Uzbekistan&rsquo;s first president, Islom KARIMOV, led Uzbekistan for 25 years until his death in September 2016. His successor, former Prime Minister Shavkat MIRZIYOYEV, has improved relations with Uzbekistan&rsquo;s neighbors and introduced wide-ranging economic, judicial, and social reforms. MIRZIYOYEV was reelected in October 2021 with 80% of the vote.<br>
+Uzbekistan is the geographic and population center of Central Asia. The country has a diverse economy and a relatively young population. Russia conquered and united the disparate territories of present-day Uzbekistan in the late 19th century. Stiff resistance to the Red Army after the Bolshevik Revolution was eventually suppressed and a socialist republic established in 1924. During the Soviet era, intensive production of "white gold" (cotton) and grain led to the overuse of agrochemicals and the depletion of water supplies, leaving the land degraded and the Aral Sea and certain rivers half-dry. Independent since the dissolution of the USSR in 1991, the country has diversified agricultural production while developing its mineral and petroleum export capacity and increasing its manufacturing base, although cotton remains a major part of its economy. Uzbekistan&rsquo;s first president, Islom KARIMOV, led Uzbekistan for 25 years until his death in September 2016. His successor, former Prime Minister Shavkat MIRZIYOYEV, has improved relations with Uzbekistan&rsquo;s neighbors and introduced wide-ranging economic, judicial, and social reforms. MIRZIYOYEV was reelected in October 2021 with 80% of the vote and again following a 2023 constitutional referendum with 87% of the vote.<br>
 
 ## Geography
 
@@ -232,11 +232,6 @@ _total_: 12 years<br>
 _male_: 12 years<br>
 _female_: 12 years (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 16% (2021 est.)<br>
-_male_: 15.8%<br>
-_female_: 16.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -312,8 +307,8 @@ _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time
 _etymology_: <em>tash</em> means "stone" and <em>kent</em> means "city" in Turkic languages, so the name simply denotes "stone city"<br>
 
 **Administrative divisions**<br>
-12 provinces (viloyatlar, singular - viloyat), 1 autonomous republic* (avtonom respublikasi), and 1 city** (shahar); Andijon Viloyati, Buxoro Viloyati [Bukhara Province], Farg'ona Viloyati [Fergana Province], Jizzax Viloyati, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus), Samarqand Viloyati [Samarkand Province], Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent Viloyati [Tashkent Province], Xorazm Viloyati (Urganch)<br>
-<strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)<br>
+<p>12 provinces (viloyatlar, singular - viloyat), 1 autonomous republic* (avtonom respublikasi), and 3 cities** (shahar); Andijon Viloyati, Buxoro Viloyati [Bukhara Province], Farg'ona Viloyati [Fergana Province], Jizzax Viloyati, Namangan Shahri, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus), Samarqand Shahri [Samarkand City], Samarqand Viloyati [Samarkand Province], Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent Viloyati [Tashkent Province], Xorazm Viloyati (Urganch)  </p><br>
+<strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses) <br>
 
 **Independence**<br>
 1 September 1991 (from the Soviet Union)<br>
@@ -324,10 +319,10 @@ Independence Day, 1 September (1991)<br>
 **Constitution**<br>
 _history_: several previous; latest adopted 8 December 1992<br>
 _amendments_: proposed by the Supreme Assembly or by referendum; passage requires two-thirds majority vote of both houses of the Assembly or passage in a referendum; amended several times, last in 2023<br>
-<strong>note: </strong>in a public referendum passed in April 2023, among the changes were the extension of the presidential term to 7 years from 5 years, and modifications to the structure and powers of the Supreme Assembly and to the criminal code<br>
+<strong>note:</strong> in a public referendum passed in April 2023, among the changes were the extension of the presidential term to 7 years from 5 years, and modifications to the structure and powers of the Supreme Assembly and to the criminal code <br>
 
 **Legal system**<br>
-civil law system; note - in early 2020, the president signed an amendment to the criminal code, criminal procedure code, and code of administrative responsibility; a constitutional referendum passed in April 2023 included criminal code reforms<br>
+civil law system;<strong> note:</strong> in early 2020, the president signed an amendment to the criminal code, criminal procedure code, and code of administrative responsibility; a constitutional referendum passed in April 2023 included criminal code reforms  <br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
@@ -346,7 +341,7 @@ _chief of state_: President Shavkat MIRZIYOYEV (since 14 December 2016)<br>
 _head of government_: Prime Minister Abdulla ARIPOV (since 14 December 2016)<br>
 _cabinet_: Cabinet of Ministers appointed by the president with most requiring approval of the Senate chamber of the Supreme Assembly (Oliy Majlis)<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term; previously a 5-year term, extended to 7 years by a 2023 constitutional amendment); election last held on 24 October 2021 (next to be held in 2026); prime minister nominated by majority party in legislature since 2011, but appointed along with the ministers and deputy ministers by the president<br>
-_election results_: <br>2021: Shavkat MIRZIYOYEV reelected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 80.3%, Maqsuda VORISOVA (PDP) 6.7%, Alisher QODIROV (National Revival Democratic Party) 5.5%, Narzullo OBLOMURODOV (Ecological Party) 4.1%, Bahrom ABDUHALIMOV (Adolat) 3.4%<br><br><em>2016:</em> Shavkat MIRZIYOYEV elected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 88.6%, Hotamjon KETMONOV (PDP) 3.7%, Narimon UMAROV (Adolat) 3.5%, Sarvar OTAMURODOV (National Revival Democratic Party) 2.4%, other 1.8%<br>
+_election results_: 2023: Shavkat MIRZIYOYEV reelected president in snap election; percent of vote - Shavkat MIRZIYOYEV (LDPU) 87.71%, Robaxon Maxmudova (Adolat) 4.47%, Ulugbek Inoyatov (PDP) 4.05%, Abdushukur Xamzayev (Ecological Party) 3.77%<br><br>2021: Shavkat MIRZIYOYEV reelected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 80.3%, Maqsuda VORISOVA (PDP) 6.7%, Alisher QODIROV (National Revival Democratic Party) 5.5%, Narzullo OBLOMURODOV (Ecological Party) 4.1%, Bahrom ABDUHALIMOV (Adolat) 3.4%<br><br><em>2016:</em> Shavkat MIRZIYOYEV elected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 88.6%, Hotamjon KETMONOV (PDP) 3.7%, Narimon UMAROV (Adolat) 3.5%, Sarvar OTAMURODOV (National Revival Democratic Party) 2.4%, other 1.8%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate or Senat (100 seats); 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms); note - amendments to the constitution approved in April 2023 call for the reduction of Senate seats to 65 from 100<br>Legislative Chamber or Qonunchilik Palatasi (150 seats statutory, 140 seats current; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
@@ -363,7 +358,7 @@ _subordinate courts_: regional, district, city, and town courts<br>
 Ecological Party of Uzbekistan (O'zbekiston Ekologik Partivasi) [Narzullo OBLOMURODOV]<br>Justice (Adolat) Social Democratic Party of Uzbekistan [Bahrom ABDUKHALIMOV]<br>Liberal Democratic Party of Uzbekistan (O'zbekiston Liberal-Demokratik Partiyasi) or LDPU [Aktam HAITOV]<br>National Revival Democratic Party of Uzbekistan (O'zbekiston Milliy Tiklanish Demokratik Partiyasi) [Alisher QODIROV]<br>People's Democratic Party of Uzbekistan (Xalq Demokratik Partiyas) or PDP [Ulugbek Ilyosovich INOYATOV] (formerly Communist Party)<br>
 
 **International organization participation**<br>
-ADB, CICA, CIS, EAEU (observer), EAPC, EBRD, ECO, EEU (observer), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+ADB, CICA, CIS, EAEU (observer), EAPC, EBRD, ECO, EEU (observer), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Furqat SIDIKOV (since 19 April 2023)<br>
@@ -457,11 +452,6 @@ textiles, food processing, machine building, metallurgy, mining, hydrocarbon ext
 
 **Labor force**<br>
 14.094 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 25.9%<br>
-_industry_: 13.2%<br>
-_services_: 60.9% (2012 est.)<br>
 
 **Unemployment rate**<br>
 7.16% (2021 est.)<br>
@@ -615,7 +605,7 @@ _Total energy consumption per capita 2019_: 57.709 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,470,097 (2021 est.)<br>
+_total subscriptions_: 5,685,854 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 17 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

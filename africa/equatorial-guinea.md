@@ -210,11 +210,6 @@ _total population_: 95.3%<br>
 _male_: 97.4%<br>
 _female_: 93% (2015)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 18.3% (2021 est.)<br>
-_male_: 17.1%<br>
-_female_: 19.9%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -555,7 +550,7 @@ _Total energy consumption per capita 2019_: 57.596 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 11,000 (2021 est.)<br>
+_total subscriptions_: 11,389 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>

@@ -88,7 +88,7 @@ _adjective_: Tunisian<br>
 Arab 98%, European 1%, Jewish and other 1%<br>
 
 **Languages**<br>
-Arabic (official, one of the languages of commerce), French (commerce), Berber (Tamazight); note - despite having no official status, French plays a major role in the country and is spoken by about two thirds of the population<br>
+Arabic (official, one of the languages of commerce), French (commerce), Tamazight; note - despite having no official status, French plays a major role in the country and is spoken by about two thirds of the population<br>
 _major-language sample(s)_: <br>كتاب حقائق العالم، أحسن كتاب تتعلم به المعلومات الأساسية (Arabic)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -593,16 +593,16 @@ _Total energy consumption per capita 2019_: 35.62 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.7 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 14 (2021 est.)<br>
+_total subscriptions_: 1,789,514 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 16 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 130 (2021 est.)<br>
+_total subscriptions_: 15,971,243 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 129 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Tunisia has one of the most sophisticated telecom infrastructures in North Africa; penetration rates for mobile and Internet services are among the highest in the region; government program of regulation and infrastructure projects aims to improve Internet connectivity to underserved areas; operators built extensive LTE infrastructure in 2019, and continue to discuss plans for future 5G networks and services; one operator has signed an agreement to pursue nano-satellite launches in 2023; internet censorship abolished, though concerns of government surveillance remain; legislation passed in 2017 supporting e-commerce and active e-government; importer of some integrated circuits and broadcasting equipment (including radio, television, and communications transmitters) from the PRC (2022)<br>
-_domestic_: fixed-line is nearly 14 per 100 and mobile-cellular teledensity is 130 telephones per 100 persons (2021)<br>
+_domestic_: fixed-line is nearly 14 per 100 and mobile-cellular teledensity is 129 telephones per 100 persons (2022)<br>
 _international_: country code - 216; landing points for the SEA-ME-WE-4, Didon, HANNIBAL System and Trapani-Kelibia&nbsp;submarine cable systems that provides links to Europe, Africa, the Middle East, Asia and Southeast Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Arabsat; coaxial cable and microwave radio relay to Algeria and Libya; participant in Medarabtel; 2 international gateway digital switches (2020)<br>
 
 **Broadcast media**<br>
@@ -667,21 +667,21 @@ Tunisian Armed Forces (Forces Armées Tunisiennes, FAT): Tunisian Army (includes
 <strong>note:</strong> the National Police has primary responsibility for law enforcement in the major cities, while the National Guard (gendarmerie) oversees border security and patrols smaller towns and rural areas<br>
 
 **Military expenditures**<br>
+2.5% of GDP (2023 est.)<br>
 2.7% of GDP (2022 est.)<br>
 3% of GDP (2021 est.)<br>
 3% of GDP (2020 est.)<br>
 3.8% of GDP (2019 est.)<br>
-3.9% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 35,000 active-duty personnel (25,000 Army; 5,000 Navy; 5,000 Air Force); estimated 10,000 National Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Tunisian military's inventory includes mostly older or second-hand US and European equipment; in recent years, the Netherlands, Turkey, and US have been the leading suppliers of arms to Tunisia (2023)<br>
+the Tunisian military's inventory includes mostly older or second-hand NATO-standard (US and European) equipment; in recent years, the Netherlands and the US have been the leading suppliers of arms to Tunisia (2023)<br>
 
 **Military service age and obligation**<br>
-20-23 years of age for compulsory service for men with a 12-month service obligation; individuals engaged in higher education or vocational training programs prior to their military drafting are allowed to delay service until they have completed their programs (up to age 35); 18-23 years of age for voluntary service for men and women (2023)<br>
-<strong>note 1: </strong>as of 2021, approximately 20-25,000 active military personnel were conscripts<br><br><strong>note 2:</strong> women have been allowed in the service since 1975 as volunteers only, although as recently as 2018, the Tunisian Government has discussed the possibility of conscripting women; as of 2018, women constituted less than 7% of the military and served in all three services<br>
+20-23 years of age for compulsory service for men with a 12-month service obligation; individuals engaged in higher education or vocational training programs prior to their military drafting are allowed to delay service until they have completed their programs (up to age 35); exemptions allowed for males considered to a family's sole provider; 18-23 years of age for voluntary service for men and women (2023)<br>
+<strong>note 1: </strong>approximately 20-25,000 active military personnel are conscripts<br><br><strong>note 2:</strong> women have been allowed in the service since 1975 as volunteers; the Tunisian Government has discussed the possibility of conscripting women as recently as 2018; as of 2023, women constituted about 8% of the military and served in all three services<br>
 
 **Military deployments**<br>
 775 Central African Republic (MINUSCA) (2023)<br>

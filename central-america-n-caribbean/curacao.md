@@ -177,11 +177,6 @@ _total_: 17 years<br>
 _male_: 18 years<br>
 _female_: 18 years (2013)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 42.2% (2020 est.)<br>
-_male_: 38.1%<br>
-_female_: 47.1%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -361,11 +356,6 @@ NA<br>
 **Labor force**<br>
 73,010 (2013)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 1.2%<br>
-_industry_: 16.9%<br>
-_services_: 81.8% (2008 est.)<br>
-
 **Unemployment rate**<br>
 13% (2013 est.)<br>
 9.8% (2011 est.)<br>
@@ -441,7 +431,7 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 53,000 (2021 est.)<br>
+_total subscriptions_: 53,095 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 28 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

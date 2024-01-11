@@ -230,11 +230,6 @@ _total_: 15 years<br>
 _male_: 15 years<br>
 _female_: 15 years (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 11.3% (2021 est.)<br>
-_male_: 14%<br>
-_female_: 8.4%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -452,11 +447,6 @@ metal-cutting machine tools, tractors, trucks, earthmovers, motorcycles, synthet
 **Labor force**<br>
 4.95 million (2021 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 9.7%<br>
-_industry_: 23.4%<br>
-_services_: 66.8% (2015 est.)<br>
-
 **Unemployment rate**<br>
 4.74% (2021 est.)<br>
 4.77% (2020 est.)<br>
@@ -617,7 +607,7 @@ _Total energy consumption per capita 2019_: 102.558 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4,332,754 (2021 est.)<br>
+_total subscriptions_: 4,229,817 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 45 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -713,7 +703,7 @@ the military's inventory is comprised mostly of Russian/Soviet-origin equipment,
 <strong>note:</strong> conscripts can be assigned to the military, to the Ministry of Interior as internal or border troops, or to the Ministry of Labor and Social Protection (alternative service); as of 2020, conscripts comprised an estimated 40% of the military<br>
 
 **Military - note**<br>
-the military of Belarus is responsible for territorial defense; it is a mixed force of conscripts and professionals that is equipped with Russian or Soviet-era weapons; the Army’s principal combat forces are divided into two geographically based commands, each with two mechanized brigades and an artillery brigade; there are also separate artillery and surface-to-surface missile brigades; the Special Operations Forces have three airborne, air assault, and special forces (spetsnaz) brigades, which serve as the military’s high-readiness units; the Air and Air Defense inventory includes about 100 combat aircraft and attack helicopters, as well as air defense brigades and regiments with surface-to-air missiles<br><br>Russia is the country’s closest security partner, a relationship that includes an integrated air and missile defense system and joint military training centers and exercises; Russia leases from Belarus a strategic ballistic missile defense site operated by Russian Aerospace Forces and a global communications facility for the Russian Navy; in 2020, the countries signed an agreement allowing for close security cooperation between the Belarusian Ministry of Interior and the Russian National Guard, including protecting public order and key government facilities and combating extremism and terrorism; in 2022, Belarus allowed Russian military forces to stage on its territory for their invasion of Ukraine and continues to supply arms and other aid to the Russian military, including logistical support, supply lines, medical care, and airfields for Russian combat aircraft; in 2023, Belarus agreed to permit Russia to deploy nuclear weapons on its soil<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and has committed an airborne brigade to CSTO's rapid reaction force; the military trains regularly with other CSTO members (2023)<br>
+the military of Belarus is responsible for territorial defense; it is a mixed force of conscripts and professionals that is equipped with Russian or Soviet-era weapons; the Army’s principal combat forces are divided into two geographically based commands, each with two mechanized brigades and an artillery brigade; there are also separate artillery and surface-to-surface missile brigades; the Special Operations Forces have three airborne, air assault, and special forces (spetsnaz) brigades, which serve as the military’s high-readiness units; the Air and Air Defense inventory includes about 100 combat aircraft and attack helicopters, as well as air defense brigades and regiments with surface-to-air missiles<br><br>Russia is the country’s closest security partner, a relationship that includes an integrated air and missile defense system and joint military training centers and exercises; Russia leases from Belarus a strategic ballistic missile defense site operated by Russian Aerospace Forces and a global communications facility for the Russian Navy; in 2020, the countries signed an agreement allowing for close security cooperation between the Belarusian Ministry of Interior and the Russian National Guard, including protecting public order and key government facilities and combating extremism and terrorism; in 2022, Belarus allowed Russian military forces to stage on its territory for their invasion of Ukraine and continues to supply arms and other aid to the Russian military, including logistical support, medical care, and airfields for Russian combat aircraft; in 2023, Belarus agreed to permit Russia to deploy nuclear weapons on its soil<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and has committed an airborne brigade to CSTO's rapid reaction force; the military trains regularly with other CSTO members (2023)<br>
 
 ## Space
 

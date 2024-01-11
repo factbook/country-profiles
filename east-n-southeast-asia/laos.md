@@ -236,11 +236,6 @@ _total_: 10 years<br>
 _male_: 10 years<br>
 _female_: 10 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 3.3% (2021 est.)<br>
-_male_: 3.4%<br>
-_female_: 3.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -453,11 +448,6 @@ mining (copper, tin, gold, gypsum); timber, electric power, agricultural process
 
 **Labor force**<br>
 3.915 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 73.1%<br>
-_industry_: 6.1%<br>
-_services_: 20.6% (2012 est.)<br>
 
 **Unemployment rate**<br>
 1.26% (2021 est.)<br>

@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Some of the earliest human remains in the fossil record are found in South Africa. By about A.D. 500, Bantu speaking groups began settling into what is now northeastern South Africa displacing Khoisan speaking groups to the southwest. Dutch traders landed at the southern tip of present-day South Africa in 1652 and established a stopover point on the spice route between the Netherlands and the Far East, founding the city of Cape Town. After the British seized the Cape of Good Hope area in 1806, many of the settlers of Dutch descent (Afrikaners, also called "Boers" (farmers) at the time) trekked north to found their own republics, Transvaal and Orange Free State. In the 1820s, several decades of wars began as the Zulus expanded their territory, moving out of what is today southeastern South Africa and clashing with other indigenous peoples and with expanding European settlements during a period known as the Mfecane. The discovery of diamonds (1867) and gold (1886) spurred wealth and immigration from Europe.<br><br>The Anglo-Zulu War (1879) resulted in the incorporation of the Zulu kingdom's territory into the British Empire. Subsequently, the Afrikaner republics were incorporated into the British Empire after their defeat in the Second South African War (1899-1902). However, the British and the Afrikaners ruled together beginning in 1910 under the Union of South Africa, which became a republic in 1961 after a Whites-only referendum. In 1948, the National Party was voted into power and instituted a policy of apartheid – billed as "separate development" of the races - which favored the White minority and suppressed the Black majority and other non-White groups. The African National Congress (ANC) led the resistance to apartheid and many top ANC leaders, such as Nelson MANDELA, spent decades in South Africa's prisons. Internal protests and insurgency, as well as boycotts by some Western nations and institutions, led to the regime's eventual willingness to unban the ANC and negotiate a peaceful transition to majority rule.</p> <p>The first multi-racial elections in 1994 following the end of apartheid ushered in majority rule under an ANC-led government. South Africa has since struggled to address apartheid-era imbalances in wealth, housing, education, and health care under successive administrations. Jacob ZUMA became president in 2009 and was reelected in 2014, but resigned in February 2018 after numerous corruption scandals and gains by opposition parties in municipal elections in 2016. His successor, Cyril RAMAPHOSA, has made some progress in reigning in corruption, though many challenges persist. In May 2019 national elections, the country’s sixth since the end of apartheid, the ANC won a majority of parliamentary seats, delivering RAMAPHOSA a five-year term. RAMAPHOSA was reelected ANC leader in 2022 ahead of national elections scheduled for 2024.</p><br>
+<p>Some of the earliest human remains in the fossil record are found in South Africa. By about A.D. 500, Bantu speaking groups began settling into what is now northeastern South Africa displacing Khoisan speaking groups to the southwest. Dutch traders landed at the southern tip of present-day South Africa in 1652 and established a stopover point on the spice route between the Netherlands and the Far East, founding the city of Cape Town. After the British seized the Cape of Good Hope area in 1806, many of the settlers of Dutch descent (Afrikaners, also called "Boers" (farmers) at the time) trekked north to found their own republics, Transvaal and Orange Free State. In the 1820s, several decades of wars began as the Zulus expanded their territory, moving out of what is today southeastern South Africa and clashing with other indigenous peoples and with expanding European settlements. The discovery of diamonds (1867) and gold (1886) spurred mass immigration predominately from Europe.<br><br>The Anglo-Zulu War (1879) resulted in the incorporation of the Zulu kingdom's territory into the British Empire. Subsequently, the Afrikaner republics were incorporated into the British Empire after their defeat in the Second South African War (1899-1902). However, the British and the Afrikaners ruled together beginning in 1910 under the Union of South Africa, which left the British Commonwealth to become a fully self-governing republic in 1961 after a Whites-only referendum. In 1948, the National Party was voted into power and instituted a policy of apartheid – billed as "separate development" of the races - which favored the White minority and suppressed the Black majority and other non-White groups. The African National Congress (ANC) led the resistance to apartheid and many top ANC leaders, such as Nelson MANDELA, spent decades in South Africa's prisons. Internal protests and insurgency, as well as boycotts by some Western nations and institutions, led to the regime's eventual willingness to unban the ANC and negotiate a peaceful transition to majority rule.</p> <p>The first multi-racial elections in 1994 following the end of apartheid ushered in majority rule under an ANC-led government. South Africa has since struggled to address apartheid-era imbalances in wealth, housing, education, and health care under successive administrations. Cyril RAMAPHOSA, has made some progress in reigning in corruption, though many challenges persist. RAMAPHOSA was reelected ANC leader in 2022 ahead of national elections scheduled for 2024.</p><br>
 
 ## Geography
 
@@ -94,8 +94,8 @@ _noun_: South African(s)<br>
 _adjective_: South African<br>
 
 **Ethnic groups**<br>
-Black African 81.4%, Colored 8.2%, White 7.3%, Indian/Asian 2.7%, other 0.4% (2022 est.)<br>
-<strong>note:</strong> colored is a term used in South Africa, including on the national census, for persons of mixed race ancestry who developed a distinct cultural identity over several hundred years<br>
+Black African 81.4%, Coloured 8.2%, White 7.3%, Indian/Asian 2.7%, other 0.4% (2022 est.)<br>
+<strong>note:</strong> coloured is a term used in South Africa, including on the national census, for persons of mixed race ancestry who developed a distinct cultural identity over several hundred years<br>
 
 **Languages**<br>
 isiZulu or Zulu (official) 25.3%, isiXhosa or Xhosa (official) 14.8%, Afrikaans (official) 12.2%, Sepedi of Pedi (official) 10.1%, Setswana or Tswana (official) 9.1%, English (official) 8.1%, Sesotho or Sotho (official) 7.9%, Xitsonga or Tsonga (official) 3.6%, siSwati or Swati (official) 2.8%, Tshivenda or Venda (official) 2.5%, isiNdebele or Ndebele (official) 1.6%, other (includes South African sign language (official) and Khoi or Khoisan or Khoe languages) 2%; note - data represent language spoken most often at home (2018 est.)<br>
@@ -345,7 +345,7 @@ _residency requirement for naturalization_: 5 year<br>
 _chief of state_: President Matamela Cyril RAMAPHOSA (since 15 February 2018); Deputy President Paul MASHSATILE (since 7 March 2023); note - the president is both chief of state and head of government; note - Deputy President David MABUZA resigned 1 March 2023<br>
 _head of government_: President Matamela Cyril RAMAPHOSA (since 15 February 2018); Deputy President Paul MASHSATILE (since 7 March 2023)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 22 May 2019 (next to be held in May 2024)<br>
+_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 22 May 2019 (next to be held around May 2024)<br>
 _election results_: <br><em>2019: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br><br><em>2014:</em> Jacob ZUMA (ANC) reelected president by the National Assembly unopposed  <p> </p><br>
 
 **Legislative branch**<br>
@@ -365,7 +365,7 @@ African Christian Democratic Party or ACDP [Kenneth MESHOE]<br>African Independe
 ACP, AfDB, AU, BIS, BRICS, C, CD, FAO, FATF, G-20, G-24, G-5, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, NSG, OECD (enhanced engagement), OPCW, Paris Club (associate), PCA, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNITAR, UNOOSA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ismail ESAU (since 14 August 2023)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Ndumiso NTSHINGAIsmail ESAU (since 29 October 2023)<br>
 _chancery_: 3051 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 413-1953<br>
 _FAX_: [1] (202) 265-1607<br>
@@ -631,7 +631,7 @@ _domestic_: fixed-line is 2 per 100 persons and mobile-cellular is 167 telephone
 _international_: country code - 27; landing points for the WACS, ACE, SAFE, SAT-3, Equiano, SABR, SAEx1, SAEx2, IOX Cable System, METISS, EASSy, and SEACOM/ Tata TGN-Eurasia&nbsp;fiber-optic submarine cable systems connecting South Africa, East Africa, West Africa, Europe,&nbsp;Southeast Asia, Asia, South America, Indian Ocean Islands,&nbsp;and the&nbsp;US;&nbsp;satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-the South African Broadcasting Corporation (SABC) operates 4 TV stations, 3 are free-to-air and 1 is pay TV; e.tv, a private station, is accessible to more than half the population; multiple subscription TV services provide a mix of local and international channels; well-developed mix of public and private radio stations at the national, regional, and local levels; the SABC radio network, state-owned and controlled but nominally independent, operates 18 stations, one for each of the 11 official languages, 4 community stations, and 3 commercial stations; more than 100 community-based stations extend coverage to rural areas<br>
+the South African Broadcasting Corporation (SABC) operates 46 free-to-air TV stations; e.tv, a private station, is accessible to more than half the population; multiple subscription TV services provide a mix of local and international channels; well-developed mix of public and private radio stations at the national, regional, and local levels; the SABC radio network, state-owned and controlled but nominally independent, operates 18 stations, one for each of the 11 official languages, 4 community stations, and 3 commercial stations; more than 100 community-based stations extend coverage to rural areas<br>
 
 **Internet country code**<br>
 .za<br>
@@ -674,8 +674,8 @@ _other airports_: 101<br>
 94 km condensate, 1,293 km gas, 992 km oil, 1,460 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 20,986 km (2014)<br>
-_standard gauge_: 80 km (2014) 1.435-m gauge (80 km electrified)<br>
+_total_: 30,400 km (2021)<br>
+_standard gauge_: 80 km (2021) 1.435-m gauge (80 km electrified)<br>
 _narrow gauge_: 19,756 km (2014) 1.065-m gauge (8,271 km electrified)<br>
 _other_: (2014) 1,150 km (passenger rail, gauge unspecified, 1,115.5 km electrified)<br>
 

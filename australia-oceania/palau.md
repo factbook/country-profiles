@@ -204,11 +204,6 @@ _total_: 17 years<br>
 _male_: 16 years<br>
 _female_: 17 years (2013)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 5.6% (2014)<br>
-_male_: NA<br>
-_female_: NA<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -304,8 +299,8 @@ _election results_: <br><em>2020: </em>Surangel WHIPPS, Jr. elected president in
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Olbiil Era Kelulau consists of:<br>Senate (13 seats; members directly elected in single-seat constituencies by majority vote to serve 4-year terms)<br>House of Delegates (16 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 3 November 2020 (next to be held in November 2024)<br>House of Delegates - last held on 3 November 2020 (next to be held in November 2024)<br>
-_election results_: <br>Senate - percent of vote - NA; seats - independent 13; composition - men 12, women 1; percent of women 7.7%<br>House of Delegates - percent of vote - NA; seats - independent 16; composition - men 15, women 1; percent of women 6.3%; note - overall percent of women in National Congress 6.9%<br>
+_elections_: Senate - last held on 3 November 2020 (next to be held in November 2024)<br>House of Delegates - last held on 3 November 2020 (next to be held in November 2024)<br>
+_election results_: Senate - percent of vote - NA; seats - independent 13; composition - men 12, women 1; percent of women 7.7%<br>House of Delegates - percent of vote - NA; seats - independent 16; composition - men 15, women 1; percent of women 6.3%; note - overall percent of women in National Congress 6.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 3 associate justices organized into appellate trial divisions; the Supreme Court organization also includes the Common Pleas and Land Courts)<br>
@@ -403,11 +398,6 @@ tourism, fishing, subsistence agriculture<br>
 **Labor force**<br>
 11,610 (2016)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 1.2%<br>
-_industry_: 12.4%<br>
-_services_: 86.4% (2016)<br>
-
 **Unemployment rate**<br>
 1.7% (2015 est.)<br>
 4.1% (2012)<br>
@@ -493,7 +483,7 @@ _electrification - total population_: 100% (2021)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 8,000 (2021 est.)<br>
+_total subscriptions_: 8,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 44 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

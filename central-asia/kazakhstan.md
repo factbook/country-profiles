@@ -346,7 +346,7 @@ _chief of state_: President Kasym-Zhomart TOKAYEV (since 20 March 2019)<br>
 _head of government_: Prime Minister Alikhan SMAILOV (since 11 January 2022); note - Prime Minister Askar MAMIN resigned on 5 January 2022 in the wake of massive protests of his government that began 2 January 2022 following a sudden, steep rise in gasoline prices<br>
 _cabinet_: the president appoints ministers based on the prime minister's recommendations; the president has veto power over all appointments and independently appoints the ministers of defense, internal affairs, and foreign affairs<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (prior to September 2022, the president of Kazakhstan could serve up to two terms of 5 years each; the legislation was changed in September 2022, reducing the maximum number of terms to one term of 7 years); election last held on 20 November 2022 (next to be held in 2029); prime minister and deputy prime ministers appointed by the president, approved by the Mazhilis<br>
-_election results_: <em><br>2022</em>: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV (Amanat) 81.3%, Zhiguli DAYRABAEV (Auyl) 3.4%, Qaraqat or Karakat ÄBDEN (KÄQŪA) 2.6%, Meyram KAZHYKEN (Amanat) 2.5%, Nurlan AUYESBAYEV (NSDP) 2.2%, Saltanat TURSYNBEKOVA (QA-DJ) 2.1%, other 5.8%<br><br><em>2019</em>: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV (Amanat) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br>
+_election results_: <em><br>2022</em>: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kassym-Jomart TOKAYEV (Amanat) 81.3%, Zhiguli DAYRABAEV (Auyl) 3.4%, Qaraqat or Karakat ÄBDEN (KÄQŪA) 2.6%, Meyram KAZHYKEN (Amanat) 2.5%, Nurlan AUYESBAYEV (NSDP) 2.2%, Saltanat TURSYNBEKOVA (QA-DJ) 2.1%, other 5.8%<br><br><em>2019</em>: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV (Amanat) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament of the Republic of Kazakhstan consists of:<br>Senate (50 seats); 40 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 10 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (98 seats; 69 members directly elected in a single national constituency by party list proportional representation vote (5% minimum threshold to gain seats) and 29 directly elected in single-seat constituencies to serve 5-year terms<br>
@@ -374,8 +374,8 @@ _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Daniel N. ROSENBLUM (since 14 November 2022)<br>
-_embassy_: Rakhymzhan Koshkarbayev Avenue, No. 3, Nur-Sultan 010010<br>
-_mailing address_: 2230 Nur-Sultan Place, Washington DC&nbsp; 20521-2230<br>
+_embassy_: Rakhymzhan Koshkarbayev Avenue, No. 3, Astana 010010<br>
+_mailing address_: 2230 Astana, Washington DC&nbsp; 20521-2230<br>
 _telephone_: [7] (7172) 70-21-00<br>
 _FAX_: [7] (7172) 54-09-14<br>
 _email address and website_: <br>USAKZ@state.gov<br><br>https://kz.usembassy.gov/<br>
@@ -615,7 +615,7 @@ _Total energy consumption per capita 2019_: 180.726 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,997,400 (2021 est.)<br>
+_total subscriptions_: 2,887,900 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 16 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

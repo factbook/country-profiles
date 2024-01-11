@@ -370,7 +370,7 @@ _election results_: <em><br>2023: </em>XI Jinping reelected president; National 
 **Legislative branch**<br>
 _description_: unicameral National People's Congress (NPC) or Quanguo Renmin Daibiao Dahui (maximum of 3,000 seats; members indirectly elected by municipal, regional, and provincial people's congresses, and the People's Liberation Army; members serve 5-year terms); note - in practice, only members of the Chinese Communist Party (CCP), its 8 allied independent parties, and CCP-approved independent candidates are elected<br>
 _elections_: the 14th NPC convened on 5 March 2023; the 15th NPC will convene in March 2028<br>
-_election results_: percent of vote - NA; seats by party - NA; the 14th NPC consists of 2,977 delegates; 2,187 men; 790 women (26.5%)&nbsp;<br>
+_election results_: percent of vote - NA; seats by party - NA; the 14th NPC consists of 2,977 delegates; 2,187 men; 790 women (26.5%)<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme People's Court (consists of over 340 judges, including the chief justice and 13 grand justices organized into a civil committee and tribunals for civil, economic, administrative, complaint and appeal, and communication and transportation cases)<br>
@@ -643,7 +643,7 @@ _Total energy consumption per capita 2019_: 105.687 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 180,700,500 (2021 est.)<br>
+_total subscriptions_: 179,414,200 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

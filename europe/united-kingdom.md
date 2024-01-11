@@ -349,7 +349,7 @@ _subordinate courts_: England and Wales: Court of Appeal (civil and criminal div
 Alliance Party (Northern Ireland) [Naomi LONG] <br>Conservative and Unionist Party [Rishi SUNAK]<br>Democratic Unionist Party or DUP (Northern Ireland) [Sir Jeffrey DONALDSON]<br>Green Party of England and Wales or Greens [Carla DENYER and Adrian RAMSAY]<br>Labor (Labour) Party [Sir Keir STARMER]<br>Liberal Democrats (Lib Dems) [Sir Ed DAVEY]<br>Party of Wales (Plaid Cymru) [Llyr GRUFFYDD]<br>Scottish National Party or SNP [Humza YOUSAF]<br>Sinn Fein (Northern Ireland) [Mary Lou MCDONALD]<br>Social Democratic and Labor Party or SDLP (Northern Ireland) [Colum EASTWOOD]<br>UK Independence Party or UKIP [Neil HAMILTON]<br>Ulster Unionist Party or UUP (Northern Ireland) [Doug BEATTIE]<br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, C, CBSS (observer), CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNMISS, UNOOSA, UNRWA, UN Security Council (permanent), UNSOM, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, C, CBSS (observer), CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNOOSA, UNRWA, UN Security Council (permanent), UNSOM, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Karen Elizabeth PIERCE (since 8 April 2020)<br>
@@ -604,7 +604,7 @@ _Total energy consumption per capita 2019_: 119.894 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 33 million (2021 est.)<br>
+_total subscriptions_: 29.798 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 48 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

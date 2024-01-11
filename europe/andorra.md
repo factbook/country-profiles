@@ -395,11 +395,6 @@ tourism (particularly skiing), banking, timber, furniture<br>
 **Labor force**<br>
 39,750 (2016)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 0.5%<br>
-_industry_: 4.4%<br>
-_services_: 95.1% (2015)<br>
-
 **Unemployment rate**<br>
 3.7% (2016 est.)<br>
 4.1% (2015 est.)<br>
@@ -473,7 +468,7 @@ _electrification - total population_: 100% (2021)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 50,000 (2021 est.)<br>
+_total subscriptions_: 50,871 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 63 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

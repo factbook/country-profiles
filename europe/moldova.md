@@ -586,7 +586,7 @@ _Total energy consumption per capita 2019_: 40.398 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,000,228 (2021 est.)<br>
+_total subscriptions_: 951,138 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 33 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

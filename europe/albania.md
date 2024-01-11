@@ -28,7 +28,7 @@ slightly smaller than Maryland<br>
 
 **Land boundaries**<br>
 _total_: 691 km<br>
-_border countries_: Greece 212 km; Kosovo 112 km; Macedonia 181 km; Montenegro 186 km<br>
+_border countries_: Greece 212 km; Kosovo 112 km; North Macedonia 181 km; Montenegro 186 km<br>
 
 **Coastline**<br>
 362 km<br>
@@ -351,10 +351,10 @@ _judge selection and term of office_: Supreme Court judges appointed by the High
 _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized courts: Court for Corruption and Organized Crime, Appeals Court for Corruption and Organized Crime (responsible for corruption, organized crime, and crimes of high officials)<br>
 
 **Political parties and leaders**<br>
-Alliance for Change (electoral coalition led by PD)<br>Democratic Party or PD [Lulzim BASHA]<br>Party for Justice, Integration and Unity pr PDIU [Shpetim IDRIZI] (part of the Alliance for Change))<br>Social Democratic Party or PSD [Tom DOSHI]<br>Freedom Party of Albania or PL [Ilir META] (formerly the Socialist Movement for Integration or LSI)<br>Socialist Party or PS [Edi RAMA]<br>
+Alliance for Change (electoral coalition led by PD)<br>Democratic Party or PD [Lulzim BASHA]<br>Party for Justice, Integration and Unity or PDIU [Shpetim IDRIZI] (part of the Alliance for Change))<br>Social Democratic Party or PSD [Tom DOSHI]<br>Freedom Party of Albania or PL [Ilir META] (formerly the Socialist Movement for Integration or LSI)<br>Socialist Party or PS [Edi RAMA]<br>
 
 **International organization participation**<br>
-BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIC, OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIC, OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 <strong>note</strong>: Albania is an EU candidate country whose satisfactory completion of accession criteria is required before being granted full EU membership<br>
 
 **Diplomatic representation in the US**<br>
@@ -597,7 +597,7 @@ _Total energy consumption per capita 2019_: 38.442 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 197,690 (2021 est.)<br>
+_total subscriptions_: 177,152 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 7 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -688,7 +688,7 @@ since joining NATO, the military has been in the process of modernizing by retir
 <strong>note: </strong>as of 2023, women comprised about 15% of the military's full-time personnel, including 20% of the officers<br>
 
 **Military - note**<br>
-the Albanian Armed Forces (AAF) are responsible for defending the country&rsquo;s independence, sovereignty, and territory, assisting with internal security, providing disaster and humanitarian relief, and participating in international peacekeeping missions; the AAF has contributed small numbers of forces to several NATO missions since Albania joined NATO in 2009, including peacekeeping/stability missions in Afghanistan, Kosovo, and Iraq, and multinational battlegroups in Bulgaria and Latvia; it has also contributed to EU and UN missions; the AAF is a small, lightly armed force that has been undergoing a modernization effort to improve its ability to fulfill NATO missions, including training and equipment purchases; the primary ground combat units include three light infantry battalions (or battle groups), including one trained and certified for NATO missions, and a special operations regiment; the Naval Force and Coast Guard operate a small force of patrol boats while the Air Force has a small inventory of helicopters (2023)<br>
+the Albanian Armed Forces (AAF) are responsible for defending the country&rsquo;s independence, sovereignty, and territory, assisting with internal security, providing disaster and humanitarian relief, and participating in international peacekeeping missions; the AAF has contributed small numbers of forces to several NATO missions since Albania joined NATO in 2009, including peacekeeping/stability missions in Afghanistan, Kosovo, and Iraq, and multinational battlegroups in Bulgaria and Latvia; it has also contributed to EU and UN missions; the AAF is a small, lightly armed force that has been undergoing a modernization effort to improve its ability to fulfill NATO missions, including training and equipment purchases; the primary ground combat units include a few light infantry battalions (or battle groups), including one trained and certified for NATO missions, and a special operations regiment; the Naval Force and Coast Guard operate a small force of patrol boats while the Air Force has a small inventory of helicopters (2023)<br>
 
 ## Terrorism
 

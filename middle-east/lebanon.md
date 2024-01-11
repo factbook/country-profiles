@@ -222,11 +222,6 @@ _total_: 11 years<br>
 _male_: 12 years<br>
 _female_: 11 years (2014)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 29.6% (2021 est.)<br>
-_male_: 30.8%<br>
-_female_: 26.7%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -443,11 +438,6 @@ banking, tourism, real estate and construction, food processing, wine, jewelry, 
 1.719 million (2021 est.)<br>
 <strong>note:</strong> excludes as many as 1 million foreign workers and refugees<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 39% (2009 est.) NA<br>
-_industry_: NA<br>
-_services_: NA<br>
-
 **Unemployment rate**<br>
 14.49% (2021 est.)<br>
 13.3% (2020 est.)<br>
@@ -598,7 +588,7 @@ _Total energy consumption per capita 2019_: 53.528 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 880,000 (2021 est.)<br>
+_total subscriptions_: 875,480 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 16 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -693,7 +683,7 @@ the LAF inventory includes a wide mix of mostly older equipment from a diverse a
 <strong>note:</strong> women were allowed to volunteer for military service in the 1980s; as of 2023, they comprised about 5% of the active duty military<br>
 
 **Military - note**<br>
-the LAF’s primary responsibilities are defense against external attack, border security, protecting the country’s territorial waters, and assisting with internal security and development projects; on Lebanon’s eastern and northern borders with Syria, the LAF has conducted operations to prevent or eliminate infiltrations of militants linked to the Islamic State of Iraq and ash-Sham (ISIS) and al-Qa’ida terrorist groups since the start of the Syrian civil war in 2011; in the south, its focus is on maintaining stability along its volatile border with Israel where the LAF and the Israel Defense Forces (IDF) are separated by the Blue Line, a demarcation line established by the UN in 2000 following the withdrawal of the IDF, which had occupied southern Lebanon since invading in 1982; since the line’s establishment, the LAF and IDF have had periodic clashes, and IDF aircraft have routinely entered Lebanese air space; the Iranian-backed terrorist group Hizballah is based in south Lebanon and acts as a militia alongside the LAF; it has launched periodic cross-border attacks on Israel and threatened additional attacks, while the IDF has conducted air strikes on Hizballah positions and in 2006 launched a ground invasion into southern Lebanon to suppress the group; in 2022, Israeli and Lebanese officials agreed on a common demarcation of their maritime border after US mediation<br><br>the LAF’s domestic security responsibilities include countering narcotics trafficking and smuggling, managing protests, conducting search and rescue, and intervening to prevent violence between rival political factions; in recent years, the military has faced a financial crisis as government debt and national economic difficulties have undercut its ability to train and fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate; the UN, as well as countries such as France and the US have provided financial assistance <br><br>the Army has about 12 infantry brigades (including a presidential guard brigade) that are supplemented by independent armored, artillery, border security, and “intervention” infantry regiments, as well as a special operations force comprised of airborne, marine commando, and ranger regiments that are regarded as the LAF’s elite units; the Air Force has a small inventory of aging combat aircraft and helicopters, while the Navy operates a mix of patrol craft and patrol boats<br><br>the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities, support the Lebanese Armed Forces as they deployed throughout the south of Lebanon, and provide assistance for humanitarian access for civilians and the return of displaced persons; UNIFIL had approximately 9,500 military personnel deployed in the country as of early 2023; UNIFIL includes a maritime task force (2023)<br>
+the LAF’s primary responsibilities are defense against external attack, border security, protecting the country’s territorial waters, and assisting with internal security and development projects; on Lebanon’s eastern and northern borders with Syria, the LAF has conducted operations to prevent or eliminate infiltrations of militants linked to the Islamic State of Iraq and ash-Sham (ISIS) and al-Qa’ida terrorist groups since the start of the Syrian civil war in 2011; in the south, its focus is on maintaining stability along its volatile border with Israel where the LAF and the Israel Defense Forces (IDF) are separated by the "Blue Line," a demarcation line established by the UN in 2000 following the withdrawal of the IDF, which had occupied southern Lebanon since invading in 1982; since the line’s establishment, the LAF and IDF have had periodic clashes, and IDF aircraft have routinely entered Lebanese air space; the Iranian-backed terrorist group Hizballah is based in south Lebanon and acts as a militia alongside the LAF; it has launched periodic cross-border attacks on Israel and threatened additional attacks, while the IDF has conducted air strikes on Hizballah positions and in 2006 launched a ground invasion into southern Lebanon to suppress the group; in 2022, Israeli and Lebanese officials agreed on a common demarcation of their maritime border after US mediation<br><br>the LAF’s domestic security responsibilities include countering narcotics trafficking and smuggling, managing protests, conducting search and rescue, and intervening to prevent violence between rival political factions; in recent years, the military has faced a financial crisis as government debt and national economic difficulties have undercut its ability to train and fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate; the UN, as well as countries such as France and the US have provided financial assistance <br><br>the Army has about 12 infantry brigades (including a presidential guard brigade) that are supplemented by independent armored, artillery, border security, and “intervention” infantry regiments, as well as a special operations force comprised of airborne, marine commando, and ranger regiments that are regarded as the LAF’s elite units; the Air Force has a small inventory of aging combat aircraft and helicopters, while the Navy operates a mix of patrol craft and patrol boats<br><br>the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities, support the Lebanese Armed Forces as they deployed throughout the south of Lebanon, and provide assistance for humanitarian access for civilians and the return of displaced persons; UNIFIL had approximately 9,500 military personnel deployed in the country as of early 2023; UNIFIL includes a maritime task force (2023)<br>
 
 ## Terrorism
 
@@ -704,7 +694,7 @@ Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; HAMAS; Hizball
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Lebanon-Syria</em>: lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; in March 2021, Syria signed a contract with a Russian company for oil and gas exploration in a maritime area Lebanon claims as its own based on a 2011 map sent to the UN</p> <p><em>Lebanon-Israel</em>: Lebanon has claimed Shab'a Farms area in the Israeli-controlled Golan Heights; Lebanon and Israel resumed negotiations over their maritime border in 2020, but their efforts were derailed when Lebanon argued that the map the UN was using needed modifications</p> <p> </p><br>
+<p><em>Lebanon-Syria</em>: lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; in March 2021, Syria signed a contract with a Russian company for oil and gas exploration in a maritime area Lebanon claims as its own based on a 2011 map sent to the UN</p> <p><em>Lebanon-Israel</em>: Lebanon has claimed Shab'a Farms area in the Israeli-controlled Golan Heights; the maritime boundary between Israel and Lebanon was established in October 2022</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 487,000 (Palestinian refugees) (2022); 789,842 (Syria) (2023)<br>

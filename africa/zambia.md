@@ -243,11 +243,6 @@ _total population_: 86.7%<br>
 _male_: 90.6%<br>
 _female_: 83.1% (2018)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 26.1% (2021 est.)<br>
-_male_: 26.7%<br>
-_female_: 25.4%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -468,11 +463,6 @@ copper mining and processing, emerald mining, construction, foodstuffs, beverage
 **Labor force**<br>
 8.113 million (2021 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 54.8%<br>
-_industry_: 9.9%<br>
-_services_: 35.3% (2017 est.)<br>
-
 **Unemployment rate**<br>
 13.03% (2021 est.)<br>
 12.85% (2020 est.)<br>
@@ -622,7 +612,7 @@ _Total energy consumption per capita 2019_: 11.595 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 66,000 (2021 est.)<br>
+_total subscriptions_: 96,284 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>

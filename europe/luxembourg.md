@@ -221,11 +221,6 @@ _total_: 15 years<br>
 _male_: 15 years<br>
 _female_: 15 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.2% (2021 est.)<br>
-_male_: 16.3%<br>
-_female_: 14.1%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -439,11 +434,6 @@ banking and financial services, construction, real estate services, iron, metals
 333,900 (2021 est.)<br>
 <strong>note:</strong> data exclude foreign workers; in addition to the figure for domestic labor force, about 150,000 workers commute daily from France, Belgium, and Germany<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 1.1%<br>
-_industry_: 20%<br>
-_services_: 78.9% (2013 est.)<br>
-
 **Unemployment rate**<br>
 5.23% (2021 est.)<br>
 6.77% (2020 est.)<br>
@@ -590,7 +580,7 @@ _Total energy consumption per capita 2019_: 310.068 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 270,000 (2021 est.)<br>
+_total subscriptions_: 261,054 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 42 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

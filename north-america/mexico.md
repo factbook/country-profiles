@@ -379,7 +379,7 @@ _subordinate courts_: federal level includes circuit, collegiate, and unitary co
 <p>Citizen's Movement (Movimiento Ciudadano) or MC [Clemente CASTAÑEDA Hoeflich]<br>Institutional Revolutionary Party (Partido Revolucionario Institucional) or PRI [Claudia RUIZ Massieu]<br>Labor Party (Partido del Trabajo) or PT [Alberto ANAYA Gutiérrez]<br>Mexican Green Ecological Party (Partido Verde Ecologista de México) or PVEM [Karen CASTREJÓN Trujillo]<br>Movement for National Regeneration (Movimiento Regeneración Nacional) or MORENA [Mario DELGADO Carillo]<br>National Action Party (Partido Acción Nacional) or PAN [Antonio CORTÉS Mendoza]<br>Party of the Democratic Revolution (Partido de la Revolución Democrática) or PRD [Jesús ZAMBRANO Grijalva]<br>This Is For Mexico (Va Por México) (alliance that includes PAN, PRI, and PRD)<br>Together We Make History (Juntos Hacemos Historia) (alliance that included MORENA, PT, PVEM) (dissolved 23 December 2020)<br><br></p><br>
 
 **International organization participation**<br>
-APEC, Australia Group, BCIE, BIS, CAN (observer), Caricom (observer), CD, CDB, CE (observer), CELAC, CSN (observer), EBRD, FAO, FATF, G-3, G-15, G-20, G-24, G-5, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAFTA, NAM (observer), NEA, NSG, OAS, OECD, OPANAL, OPCW, Pacific Alliance, Paris Club (associate), PCA, SICA (observer), UN, UNASUR (observer), UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, Union Latina (observer), UNOOSA, UNWTO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+APEC, Australia Group, BCIE, BIS, CAN (observer), Caricom (observer), CD, CDB, CE (observer), CELAC, CSN (observer), EBRD, FAO, FATF, G-3, G-15, G-20, G-24, G-5, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAFTA, NAM (observer), NEA, NSG, OAS, OECD, OPANAL, OPCW, Pacific Alliance, Paris Club (associate), PCA, SICA (observer), UN, UNASUR (observer), UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina (observer), UNOOSA, UNWTO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Esteban MOCTEZUMA Barrag&aacute;n (since 20 April 2021)<br>
@@ -636,7 +636,7 @@ _Total energy consumption per capita 2019_: 61.597 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 24,366,595 (2021 est.)<br>
+_total subscriptions_: 27,184,669 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 19 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

@@ -347,7 +347,7 @@ Gabonese Democratic Party or PDG [Ali BONGO Ondimba]<br>Restoration of Republica
 Paul Mba Abessole<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU (suspended), BDEAC, CEMAC, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHRC, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU (suspended), BDEAC, CEMAC, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Noel Nelson&nbsp;MESSONE (12 December 2022)<br>
@@ -587,7 +587,7 @@ _Total energy consumption per capita 2019_: 26.786 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 31,708 (2021 est.)<br>
+_total subscriptions_: 43,395 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

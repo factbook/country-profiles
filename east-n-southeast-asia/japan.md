@@ -331,9 +331,9 @@ _elections/appointments_: the monarchy is hereditary; the leader of the majority
 _election results_: Fumio KISHIDA reelected prime minister on 10 November 2021; upper house vote - Fumio KISHIDA (LDP) 141, Yukio EDANO 60 (CDP); lower house vote - Fumio KISHIDA 297, Yukio EDANO 108<br>
 
 **Legislative branch**<br>
-_description_: bicameral Diet or Kokkai consists of:<br>House of Councillors or Sangi-in (248 seats; 146 members directly elected in multi-seat districts by simple majority vote and 96 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years); note - the number of seats increased to 248 at the July 2022 election for renewal of half the membership <br>House of Representatives or Shugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: <br>House of Councillors - last held on 10 July 2022 (next to be held in July 2028)<br>House of Representatives - last held on 31 October 2021 (next to be held by October 2025)<br>
-_election results_: <br>House of Councillors - percent of vote by party - NA; seats by party - LDP 119, CDP 39, Komeito 27, JCP 11, Osaka Ishin no Kai (Initiatives from Osaka) 21, DPFP 10, Reiwa Shinsengumi 5, NHK 2, DIY 1, SDP 1, independent 12<br>House of Representatives - percent of vote by party - NA; seats by party - LDP 261, CDP 96, Ishin 41, Komeito 32, DPFP 11, JCP 10, Reiwa 3, SDP 1, independent 10; composition - men 420, women 45, percent of women 9.7%; note - total Diet percent of women 14.7%<br>
+_description_: bicameral National Diet or Kokkai consists of:<br>House of Councillors or Sangi-in (248 seats; 146 members directly elected in multi-seat districts by simple majority vote and 96 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years); note - the number of seats increased to 248 at the July 2022 election for renewal of half the membership <br>House of Representatives or Shugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve 4-year terms)<br>
+_elections_: House of Councillors - last held on 10 July 2022 (next to be held in July 2028)<br>House of Representatives - last held on 31 October 2021 (next to be held by October 2025)<br>
+_election results_: House of Councillors - percent of vote by party - NA; seats by party - LDP 119, CDP 39, Komeito 27, JCP 11, Osaka Ishin no Kai (Initiatives from Osaka) 21, DPFP 10, Reiwa Shinsengumi 5, NHK 2, DIY 1, SDP 1, independent 12; composition - 184 men, 64 women; percent of women 25.8% <br>House of Representatives - percent of vote by party - NA; seats by party - LDP 261, CDP 96, Ishin 41, Komeito 32, DPFP 11, JCP 10, Reiwa 3, SDP 1, independent 10; composition - 416 men, 48 women; percent women 10.3%; note - total National Diet percent of women 15.7%<br>
 <strong>note: </strong>the Diet in June 2017 redrew Japan's electoral district boundaries and reduced from 475 to 465 seats in the House of Representatives; the amended electoral law, which cuts 6 seats in single-seat districts and 4 in multi-seat districts, was reportedly intended to reduce voting disparities between densely and sparsely populated voting districts<br>
 
 **Judicial branch**<br>
@@ -598,7 +598,7 @@ _Total energy consumption per capita 2019_: 147.107 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 61,583,600 (2021 est.)<br>
+_total subscriptions_: 60,720,856 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 49 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

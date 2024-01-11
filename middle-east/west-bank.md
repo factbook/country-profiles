@@ -222,12 +222,6 @@ _male_: 12 years<br>
 _female_: 14 years (2021)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 39.6% (2021 est.)<br>
-_male_: 33.7%<br>
-_female_: 69%<br>
-<strong>note:</strong> includes Gaza Strip<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -341,12 +335,6 @@ small-scale manufacturing, quarrying, textiles, soap, olive-wood carvings, and m
 
 **Labor force**<br>
 1.249 million (2021 est.)<br>
-<strong>note:</strong> excludes Gaza Strip<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 11.5%<br>
-_industry_: 34.4%<br>
-_services_: 54.1% (2013 est.)<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **Unemployment rate**<br>
@@ -491,9 +479,9 @@ _Total energy consumption per capita 2019_: 13.604 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 485,829 (2021 est.)<br>
+_total subscriptions_: 457,706 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 9 (2021 est.)<br>
-<strong>note</strong>: includes Gaza Strip<br>
+<strong>note:</strong> data includes both the Gaza Strip and West Bank<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 4,052,966 (2021 est.)<br>

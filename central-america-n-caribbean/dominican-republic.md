@@ -237,11 +237,6 @@ _total_: 14 years<br>
 _male_: 13 years<br>
 _female_: 15 years (2017)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.6% (2021 est.)<br>
-_male_: 16.6%<br>
-_female_: 27.9%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -361,7 +356,7 @@ _subordinate courts_: courts of appeal; courts of first instance; justices of th
 Alliance for Democracy or APD<br>Broad Front (Frente Amplio) [Fidel SANTANA]<br>Country Alliance or AP [Guillermo Antonio MORENO Garcia]<br>Dominican Liberation Party or PLD [Danilo MEDINA Sánchez]<br>Dominican Revolutionary Party or PRD [Miguel VARGAS Maldonado]<br>Dominicans For Change or DXC [Manuel OVIEDO Estrada]<br>Institutional Social Democratic Bloc or BIS<br>Liberal Reformist Party or PRL (formerly the Liberal Party of the Dominican Republic or PLRD)<br>Modern Revolutionary Party or PRM [Luis ABINADER]<br>National Progressive Front or FNP [Vinicio CASTILLO, Pelegrin CASTILLO]<br>People's Force or FP [Leonel FERNANDEZ Reyna]<br>Social Christian Reformist Party or PRSC [Federico Augusto "Quique" ANTUN Batile]<br>
 
 **International organization participation**<br>
-ACP, AOSIS, BCIE, Caricom (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, MINUSMA, NAM, OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA (associated member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AOSIS, BCIE, Caricom (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, MINUSMA, NAM, OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA (associated member), UN, UNCTAD, UNESCO, UNHRC, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sonia GUZM&Aacute;N DE HERN&Aacute;NDEZ (since 18 January 2021)<br>
@@ -454,11 +449,6 @@ tourism, sugar processing, gold mining, textiles, cement, tobacco, electrical co
 
 **Labor force**<br>
 5.027 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 14.4%<br>
-_industry_: 20.8% (2014)<br>
-_services_: 64.7% (2014 est.)<br>
 
 **Unemployment rate**<br>
 8.5% (2021 est.)<br>
@@ -612,7 +602,7 @@ _Total energy consumption per capita 2019_: 39.016 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,154,670 (2021 est.)<br>
+_total subscriptions_: 1,143,893 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

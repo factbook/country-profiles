@@ -596,7 +596,7 @@ _Total energy consumption per capita 2019_: 7.823 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 9,559 (2021 est.)<br>
+_total subscriptions_: 6,744 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
@@ -663,7 +663,7 @@ approximately 2,000 personnel (2023)<br>
 the LDF has a small inventory of older and second-hand equipment from a variety of countries (2023)<br>
 
 **Military service age and obligation**<br>
-18-24 years of age for voluntary military service for both men and women (women can serve in combat arms); no conscription (2023)<br>
+18-30 years of age for voluntary military service for both men and women (women can serve in combat arms); no conscription (2023)<br>
 
 **Military - note**<br>
 Lesotho's declared policy for its military is the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa; the LDF is a small force comprised of about a half dozen infantry companies; it began in 1964 as the Police Mobile Unit (PMU); the PMU was designated as the Lesotho Paramilitary Force in 1980 and became the Royal Lesotho Defense Force in 1986; it was subsequently renamed the Lesotho Defense Force in 1993 (2023)<br>
@@ -671,5 +671,5 @@ Lesotho's declared policy for its military is the maintenance of the country's s
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Lesotho-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p> </p><br>
+<p><em>Lesotho-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, as well as Mozambique and, Zimbabwe, to assist with controlling cross-border smuggling, poaching, and illegal migration</p> <p> </p><br>
 

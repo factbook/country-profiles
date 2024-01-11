@@ -355,7 +355,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017)<br>
-_head of government_: Prime Minister &Eacute;lisabeth BORNE (since 16 May 2022)<br>
+_head of government_: Prime Minister Gabriel ATTAL (since 9 January 2024)<br>
 _cabinet_: Council of Ministers appointed by the president at the suggestion of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 April 2022 with a runoff held on 24 April 2022 (next to be held in April 2027); prime minister appointed by the president<br>
 _election results_: <em><br>2022: </em>Emmanuel MACRON reelected in second round; percent of vote in first round - Emmanuel MACRON (LREM) 27.8%, Marine LE PEN (RN) 23.2%, Jean-Luc MELENCHON (LFI) 22%, Eric ZEMMOUR (Reconquete) 7.1%, Valerie PECRESSE (LR) 4.8%, Yannick JADOT (EELV) 4.6%, other 10.6%; percent of vote in second round - MACRON 58.5%, LE PEN 41.5%<em><br></em><br><em>2017:</em> Emmanuel MACRON elected president in second round; percent of vote in first round - Emmanuel MACRON (EM) 24%, Marine LE PEN (FN) 21.3%, Francois FILLON (LR) 20%, Jean-Luc MELENCHON (FI) 19.6%, Benoit HAMON (PS) 6.4%, other 8.7%; percent of vote in second round - MACRON 66.1%, LE PEN 33.9%<br>
@@ -632,7 +632,7 @@ _Total energy consumption per capita 2019_: 151.053 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 38 million (2021 est.)<br>
+_total subscriptions_: 37.74 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 59 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

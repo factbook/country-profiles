@@ -338,7 +338,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Andrzej DUDA (since 6 August 2015)<br>
-_head of government_: Prime Minister Donald TUSK (since 11 December 2023); Deputy Prime Ministers Piotr GLINSKI (since 16 November 2015), Jacek SASIN (since 15 November 2019), Henryk KOWALCZYK (since 26 October 2021), and Mariusz BLASZCZAK (since 22 June 2022)<br>
+_head of government_: Prime Minister Donald TUSK (since 11 December 2023); Deputy Prime Ministers Wladyslaw KOSINIAK-KAMYSZ (since 11 December 2023), Krzysztof GAWKOWSKI (since 11 December 2023)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president, and approved by the Sejm<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 June 2020 with a second round on 12 July 2020 (next to be held in 2025); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm; all presidential candidates resign their party affiliation<br>
 _election results_: <br><em>2020:</em> Andrzej DUDA reelected president in second round; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%<br><em><br>2015:</em> Andrzej DUDA elected president in second round; percent of vote - Andrzej DUDA (independent) 51.5%, Bronislaw KOMOROWSKI (independent) 48.5% <p> </p><br>
@@ -604,7 +604,7 @@ _Total energy consumption per capita 2019_: 112.831 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,308,497 (2021 est.)<br>
+_total subscriptions_: 5,277,054 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 14 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -736,7 +736,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 954,600 (Ukraine) (as of 20 November 2023)<br>
+_refugees (country of origin)_: 956,635 (Ukraine) (as of 15 December 2023)<br>
 _stateless persons_: 1,435 (2022)<br>
 
 **Illicit drugs**<br>

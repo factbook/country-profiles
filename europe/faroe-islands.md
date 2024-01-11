@@ -354,11 +354,6 @@ fishing, fish processing, tourism, small ship repair and refurbishment, handicra
 **Labor force**<br>
 27,540 (2017 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 15%<br>
-_industry_: 15%<br>
-_services_: 70% (December 2016 est.)<br>
-
 **Unemployment rate**<br>
 2.2% (2017 est.)<br>
 3.4% (2016 est.)<br>
@@ -486,7 +481,7 @@ _Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 15,000 (2021 est.)<br>
+_total subscriptions_: 15,341 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 29 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

@@ -92,10 +92,10 @@ _noun_: Mauritanian(s)<br>
 _adjective_: Mauritanian<br>
 
 **Ethnic groups**<br>
-Black Moors (Haratines - Arabic-speaking descendants of African origin who are or were enslaved by White Moors) 40%, White Moors (of Arab-Berber descent, known as Beydane) 30%, Sub-Saharan Mauritanians (non-Arabic speaking, largely resident in or originating from the Senegal River Valley, including Halpulaar, Fulani, Soninke, Wolof, and Bambara ethnic groups) 30%<br>
+Black Moors (Haratines - Arabic-speaking descendants of African origin who are or were enslaved by White Moors) 40%, White Moors (of Arab-Amazigh descent, known as Beydane) 30%, Sub-Saharan Mauritanians (non-Arabic speaking, largely resident in or originating from the Senegal River Valley, including Halpulaar, Fulani, Soninke, Wolof, and Bambara ethnic groups) 30%<br>
 
 **Languages**<br>
-Arabic (official and national), Pular, Soninke, Wolof (all national languages), French; note - the spoken Arabic in Mauritania differs considerably from the Modern Standard Arabic used for official written purposes or in the media; the Mauritanian dialect, which incorporates many Berber words, is referred to as Hassaniya<br>
+Arabic (official and national), Pular, Soninke, Wolof (all national languages), French; note - the spoken Arabic in Mauritania differs considerably from the Modern Standard Arabic used for official written purposes or in the media; the Mauritanian dialect, which incorporates many Tamazight words, is referred to as Hassaniya<br>
 _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -608,7 +608,7 @@ _Total energy consumption per capita 2019_: 13.558 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 58,094 (2021 est.)<br>
+_total subscriptions_: 47,503 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

@@ -600,16 +600,16 @@ _Total energy consumption per capita 2019_: 4.113 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 54,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 65,613 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6.3 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 72 (2021 est.)<br>
+_total subscriptions_: 6,564,132 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 74 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: &nbsp;include radio, television, fixed and mobile telephones, and the Internet (2022)<br>
-_domestic_: fixed-line less than 1 per 100 and mobile-cellular is 72 telephones per 100 persons (2021)<br>
+_general assessment_: include radio, television, fixed and mobile telephones, and the Internet (2022)<br>
+_domestic_: fixed-line less than 1 per 100 and mobile-cellular is 74 telephones per 100 persons (2022)<br>
 _international_: country code - 228; landing point for the WACS submarine cable, linking countries along the west coast of Africa with each other and with Portugal; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Symphonie (2020)<br>
 
 **Broadcast media**<br>

@@ -236,11 +236,6 @@ _total population_: 95.8%<br>
 _male_: 97%<br>
 _female_: 94.6% (2019)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.2% (2021 est.)<br>
-_male_: 7.1%<br>
-_female_: 7.5%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -354,7 +349,7 @@ _election results_: <br>2021: Nguyen Xuan PHUC (CPV) elected president; Pham Min
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Quoc Hoi (500 seats - number following 2021 election - 499; members directly elected in multi-seat constituencies by absolute majority vote; members serve 5-year terms)<br>
 _elections_: last held on 23 May 2021 (next to be held in spring 2026)<br>
-_election results_: percent of vote in 2016 election by party -CPV 95.8%, non-party members 4.2%; seats by party - CPV 474, non-party CPV-approved 20, self-nominated 2; note - 494 candidates elected, 2 CPV candidates-elect were disqualified; composition - men 364, women 122, percent of women 26.6%<br>
+_election results_: <em>2021:</em> percent of vote by party - CPV 97.2%, 2.8% non-party; seats by party - CPV 486, non-party 14; composition - 348 men, 151 women; percent women 30.3%<br><br><em>2016:</em> percent of vote in 2016 election by party - CPV 95.8%, non-party members 4.2%; seats by party - CPV 474, non-party CPV-approved 20, self-nominated 2; note - 494 candidates elected, 2 CPV candidates-elect were disqualified; composition - men 364, women 122, percent of women 26.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme People's Court (consists of the chief justice and 13 judges)<br>
@@ -461,11 +456,6 @@ food processing, garments, shoes, machine-building; mining, coal, steel; cement,
 
 **Labor force**<br>
 56.203 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 40.3%<br>
-_industry_: 25.7%<br>
-_services_: 34% (2017)<br>
 
 **Unemployment rate**<br>
 2.17% (2021 est.)<br>
@@ -617,7 +607,7 @@ _Total energy consumption per capita 2019_: 36.392 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3.1 million (2021 est.)<br>
+_total subscriptions_: 2,390,671 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 3 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

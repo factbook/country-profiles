@@ -359,9 +359,6 @@ tourism, offshore financial services<br>
 **Labor force**<br>
 4,848 (1990 est.)<br>
 
-**Labor force - by occupation**<br>
-<p><strong>note:</strong> about 33% in government and 20% in agriculture and fishing; significant numbers in tourism, financial, and other services</p><br>
-
 **Unemployment rate**<br>
 10% (1997 est.)<br>
 

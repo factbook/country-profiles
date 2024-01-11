@@ -348,11 +348,6 @@ NA<br>
 27,970 (2010 est.)<br>
 <strong>note:</strong> includes foreign workers<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 1.9%<br>
-_industry_: 10%<br>
-_services_: 88.1% (2010 est.)<br>
-
 **Unemployment rate**<br>
 11.2% (2010 est.)<br>
 8% (2005 est.)<br>

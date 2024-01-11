@@ -366,7 +366,7 @@ Community Citizen Alliance or ACC [Carlos Diego MESA Gisbert]<br>Movement Toward
 <strong>note:</strong> We Believe or Creemos [Luis Fernando CAMACHO Vaca] is a coalition comprised of several opposition parties that participated in the 2020 election, which includes the Christian Democratic Party (PDC) and Solidarity Civic Unity (UCS)<br>
 
 **International organization participation**<br>
-CAN, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, PCA, UN, UN Security Council (temporary), UNAMID, UNASUR, UNCTAD, UNESCO, UNHRC, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+CAN, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, PCA, UN, UN Security Council (temporary), UNAMID, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Maysa Rossana URENA MENACHO (since 1 September 2022)&nbsp;<br>
@@ -618,7 +618,7 @@ _Total energy consumption per capita 2019_: 27.094 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 539,481 (2021 est.)<br>
+_total subscriptions_: 550,011 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

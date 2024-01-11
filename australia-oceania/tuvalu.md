@@ -208,11 +208,6 @@ _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 20.6% (2016)<br>
-_male_: 9.8%<br>
-_female_: 45.9%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -310,7 +305,7 @@ _election results_: Kausea NATANO elected prime minister by House of Assembly; H
 **Legislative branch**<br>
 _description_: unicameral House of Assembly or Fale I Fono (16 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 4-year terms)<br>
 _elections_: last held on 9 September 2019 (next to be held on 31 December 2023)<br>
-_election results_: percent of vote - NA; seats - independent 16 (9 members reelected)<br>
+_election results_: percent of vote - NA; seats - independent 16 (9 members reelected); composition - 15 men, 1 woman; percent women 6.25%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and not less than 3 appeals judges); High Court (consists of the chief justice); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -396,9 +391,6 @@ fishing<br>
 
 **Labor force**<br>
 3,615 (2004 est.)<br>
-
-**Labor force - by occupation**<br>
-<p><strong>note:</strong> most people make a living through exploitation of the sea, reefs, and atolls - and through overseas remittances (mostly from workers in the phosphate industry and sailors)</p><br>
 
 **Unemployment rate**<br>
 <p>NA</p><br>

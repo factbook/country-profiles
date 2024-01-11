@@ -235,11 +235,6 @@ _total population_: 92.3%<br>
 _male_: 90.6%<br>
 _female_: 92.3% (2021)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 40.4% (2021 est.)<br>
-_male_: 39.4%<br>
-_female_: 41.7%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -331,7 +326,7 @@ Independence Day, 21 March (1990)<br>
 
 **Constitution**<br>
 _history_: adopted 9 February 1990, entered into force 21 March 1990<br>
-_amendments_: initiated by the Cabinet; passage requires two-thirds majority vote of the National Assembly membership and of the National Council of Parliament and assent of the president of the republic; if the National Council fails to pass an amendment, the president can call for a referendum; passage by referendum requires two-thirds majority of votes cast; amendments that detract from or repeal constitutional articles on fundamental rights and freedoms cannot be amended, and the requisite majorities needed by Parliament to amend the constitution cannot be changed; amended 1998, 2010, 2014<br>
+_amendments_: passage requires majority vote of the National Assembly membership and of the National Council of Parliament and assent of the president of the republic; if the National Council fails to pass an amendment, the president can call for a referendum; passage by referendum requires two-thirds majority of votes cast; amendments that detract from or repeal constitutional articles on fundamental rights and freedoms cannot be amended, and the requisite majorities needed by Parliament to amend the constitution cannot be changed; amended 1998, 2010, 2014<br>
 
 **Legal system**<br>
 mixed legal system of uncodified civil law based on Roman-Dutch law and customary law<br>
@@ -349,11 +344,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Hage GEINGOB (since 21 March 2015); Vice President Nangola MBUMBA (since 8 February 2018); note - the president is both chief of state and head of government<br>
-_head of government_: President Hage GEINGOB (since 21 March 2015); Vice President Nangola MBUMBA (since 8 February 2018); Prime Minister Saara KUUGONGELWA-AMADHILA (since 21 March 2015)<br>
+_chief of state_: President Hage GEINGOB (since 21 March 2015); Vice President Nangolo MBUMBA (since 8 February 2018); note - the president is both chief of state and head of government<br>
+_head of government_: President Hage GEINGOB (since 21 March 2015); Vice President Nangolo MBUMBA (since 8 February 2018); Prime Minister Saara KUUGONGELWA-AMADHILA (since 21 March 2015)<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2019 (next to be held in 2024)<br>
-_election results_: <br><em>2019:</em> Hage GEINGOB reelected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (independent) 29.4%, McHenry VENAANI (PDM) 5.3%, other 8.9% <p><em>2014:</em> Hage GEINGOB elected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 86.7%, McHenry VENAANI (DTA) 5%, Hidipo HAMUTENYA (RDP) 3.4%, Asser MBAI (NUDO)1.9%, Henk MUDGE (RP) 1%, other 2%</p><br>
+_election results_: <br><em>2019:</em> Hage GEINGOB reelected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (independent) 29.4%, McHenry VENAANI (PDM) 5.3%, other .9% <p><em>2014:</em> Hage GEINGOB elected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 86.7%, McHenry VENAANI (DTA) 5%, Hidipo HAMUTENYA (RDP) 3.4%, Asser MBAI (NUDO)1.9%, Henk MUDGE (RP) 1%, other 2%</p><br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>National Council (42 seats); members indirectly elected 3 each by the 14 regional councils to serve 5-year terms); note - the Council primarily reviews legislation passed and referred by the National Assembly<br>National Assembly (104 seats; 96 members directly elected in multi-seat constituencies by closed list, proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president)<br>
@@ -366,7 +361,7 @@ _judge selection and term of office_: judges appointed by the president of Namib
 _subordinate courts_: High Court; Electoral Court, Labor Court; regional and district magistrates' courts; community courts<br>
 
 **Political parties and leaders**<br>
-All People's Party or APP (vacant)<br>Christian Democratic Voice or CDV [Gothard KANDUME]<br>Landless People's Movement or LPM [Bernadus SWARTBOOI]<br>National Unity Democratic Organization or NUDO [Estes MUINJANGUE]<br>Namibian Economic Freedom Fighters or NEFF [Epafras MUKWIILONGO]<br>Popular Democratic Movement or PDM [McHenry VENAANI] (formerly Democratic Turnhalle Alliance or DTA) <br>Rally for Democracy and Progress or RDP [Mike KAVEKOTORA]<br>Republican Party or RP [Henk MUDGE]<br>South West Africa National Union or SWANU [Charles KATJIVIRUE]<br>South West Africa People's Organization or SWAPO [Hage GEINGOB]<br>United Democratic Front or UDF [Apius AUCHAB]<br>United People's Movement or UPM [Jan J. VAN WYK]<br>
+All People's Party or APP (Erastus SHUUMBWA)<br>Christian Democratic Voice or CDV [Gothard KANDUME]<br>Landless People's Movement or LPM [Bernadus SWARTBOOI]<br>National Unity Democratic Organization or NUDO [Esther MUINJANGUE]<br>Namibian Economic Freedom Fighters or NEFF [Epafras MUKWIILONGO]<br>Popular Democratic Movement or PDM [McHenry VENAANI] (formerly Democratic Turnhalle Alliance or DTA) <br>Rally for Democracy and Progress or RDP [Mike KAVEKOTORA]<br>Republican Party or RP [Henk MUDGE]<br>South West Africa National Union or SWANU [Charles KATJIVIRUE]<br>South West Africa People's Organization or SWAPO [Hage GEINGOB]<br>United Democratic Front or UDF [Apius AUCHAB]<br>United People's Movement or UPM [Jan J. VAN WYK]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, CPLP (associate observer), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -380,10 +375,10 @@ _email address and website_: <br>info@namibiaembassyusa.org<br><br>https://namib
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Randy William BERRY (since 9 February 2023)<br>
-_embassy_: 14 Lossen Street, Windhoek<br>
+_embassy_: 38 Metje Street, Klein Windhoek, Windhoek<br>
 _mailing address_: 2540 Windhoek Place, Washington DC&nbsp; 20521-2540<br>
 _telephone_: [264] (061) 295-8500<br>
-_FAX_: [264] (061) 295-8603<br>
+_FAX_: [264] (061) 202-5219<br>
 _email address and website_: <br>ConsularWindhoek@state.gov<br><br>https://na.usembassy.gov/<br>
 
 **Flag description**<br>
@@ -460,12 +455,6 @@ mining, tourism, fishing, agriculture<br>
 
 **Labor force**<br>
 939,000 (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 31%<br>
-_industry_: 14%<br>
-_services_: 54% (2013 est.)<br>
-<strong>note:</strong> about half of Namibia's people are unemployed while about two-thirds live in rural areas; roughly two-thirds of rural dwellers rely on subsistence agriculture<br>
 
 **Unemployment rate**<br>
 21.68% (2021 est.)<br>
@@ -616,7 +605,7 @@ _Total energy consumption per capita 2019_: 29.811 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 91,869 (2021 est.)<br>
+_total subscriptions_: 85,814 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -624,8 +613,8 @@ _total subscriptions_: 2,915,307 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 115 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the government&rsquo;s Broadband Policy aims to provide 95% population coverage by 2024; mobile network coverage has increased sharply in recent years; by 2021, 3G infrastructure provided 89% population coverage while LTE infrastructure provided 79% coverage (compared to only 40% a year earlier); despite the relatively advanced nature of the market, progress towards 5G has been slow, partly due to unsubstantiated public concerns over health implications of the technology which caused the government to order an environmental assessment of 5G in mid-2020; the government has requested the regulator to speed up its 5G development strategy; Namibia&rsquo;s internet and broadband sector is reasonably competitive, its development was for many years held back by high prices for international bandwidth caused by the lack of a direct connection to international submarine cables; this market situation improved after operators invested in diversifying terrestrial access routes to adjacent countries; by the end of 2022 Namibia is expected to be connected by a 1,050km branch line of cable running between Portugal and South Africa (2022)<br>
-_domestic_: fixed-line subscribership is 4 per 100 and mobile-cellular roughly 115 per 100 persons (2021)<br>
+_general assessment_: the government&rsquo;s Broadband Policy aims to provide 95% population coverage by 2024; mobile network coverage has increased sharply in recent years; by 2023, 3G infrastructure provided 89% population coverage while LTE infrastructure provided 79% coverage; despite the relatively advanced nature of the market, progress towards 5G has been slow, partly due to unsubstantiated public concerns over health implications of the technology which caused the government to order an environmental assessment of 5G in mid-2020; the government has requested the regulator to speed up its 5G development strategy; Namibia&rsquo;s internet and broadband sector is reasonably competitive, its development was for many years held back by high prices for international bandwidth caused by the lack of a direct connection to international submarine cables; this market situation improved after operators invested in diversifying terrestrial access routes to adjacent countries; in June 2022 Namibia was connected to a 1,050km branch line of cable running between Portugal and South Africa (2022)<br>
+_domestic_: fixed-line subscribership is 4 per 100 and mobile-cellular roughly 113 per 100 persons (2022) (2021)<br>
 _international_: country code - 264;&nbsp;landing points for the ACE and WACS&nbsp;fiber-optic submarine cable linking southern and western African countries to Europe; satellite earth stations - 4 Intelsat (2019)<br>
 
 **Broadcast media**<br>

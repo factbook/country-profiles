@@ -375,7 +375,7 @@ Awami National Party or ANP [Asfandyar Wali KHAN]<br>Awami Muslim League or AML 
 <strong>note:</strong> Pakistan has several hundred officially registered political parties; this list includes those that won seats in the most recent elections at the national and provincial levels<br>
 
 **International organization participation**<br>
-ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, UNISFA, UNISFA, UNMISS, UNOOSA, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNISFA, UNISFA, UNMISS, UNOOSA, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sardar Masood KHAN (since 19 April 2022)<br>
@@ -634,7 +634,7 @@ _Total energy consumption per capita 2019_: 15.859 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,989,133 (2021 est.)<br>
+_total subscriptions_: 2,799,360 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

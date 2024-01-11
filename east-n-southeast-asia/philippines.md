@@ -238,11 +238,6 @@ _total_: 13 years<br>
 _male_: 13 years<br>
 _female_: 13 years (2020)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 7.3% (2021 est.)<br>
-_male_: 6.3%<br>
-_female_: 9%<br>
-
 **People - note**<br>
 one of only two predominantly Christian nations in Southeast Asia, the other being Timor-Leste<br>
 
@@ -352,8 +347,8 @@ _election results_: <em><br>2022: </em>Ferdinand MARCOS, Jr. elected president; 
 
 **Legislative branch**<br>
 _description_: bicameral Congress or Kongreso consists of:<br>Senate or Senado (24 seats; members directly elected in multi-seat constituencies by majority vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>House of Representatives or Kapulungan Ng Mga Kinatawan (316 seats; 253 members directly elected in single-seat constituencies by simple majority vote and 63 representing minorities directly elected by party-list proportional representation vote; members serve 3-year terms)<br>
-_elections_: <br>Senate - elections last held on 9 May 2022 (next to be held in May 2025)<br>House of Representatives - elections last held on 9 May 2022 (next to be held in May 2025)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - NPC 5, PDP-Laban 5, NP 4, other 5, independent 5; composition - men 17, women 7, percent of women 29%<br>House of Representatives - percent of vote by party - PDP-Laban 22.7%, NP 13.7%, NUP 12.6%, NPC 11.7%,  Lakas-CMD 9.4%,LP 3.8%, HNP 2.5%, other 19.6% independent 4%; seats by party - PDP-Laban 66, NP, NPC 35, NUP 33, Lakas-CMD 26, LP 10, HNP 6,  other 35, independent 6, party-list 63; composition - men 193, women 123, percent of women 38.9%; note - total Congress percent of women 38.2%<br>
+_elections_: Senate - elections last held on 9 May 2022 (next to be held in May 2025)<br>House of Representatives - elections last held on 9 May 2022 (next to be held in May 2025)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NPC 5, PDP-Laban 5, NP 4, other 5, independent 5; composition - men 17, women 7, percent of women 29%<br>House of Representatives - percent of vote by party - PDP-Laban 22.7%, NP 13.7%, NUP 12.6%, NPC 11.7%,  Lakas-CMD 9.4%,LP 3.8%, HNP 2.5%, other 19.6% independent 4%; seats by party - PDP-Laban 66, NP, NPC 35, NUP 33, Lakas-CMD 26, LP 10, HNP 6,  other 35, independent 6, party-list 63; composition - men 226, women 85, percent of women 27.3%; note - total Congress percent of women 27.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of a chief justice and 14 associate justices)<br>
@@ -458,11 +453,6 @@ semiconductors and electronics assembly, business process outsourcing, food and 
 
 **Labor force**<br>
 44.242 million (2021 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 25.4%<br>
-_industry_: 18.3%<br>
-_services_: 56.3% (2017 est.)<br>
 
 **Unemployment rate**<br>
 2.41% (2021 est.)<br>
@@ -616,7 +606,7 @@ _Total energy consumption per capita 2019_: 19.261 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,028,018 (2021 est.)<br>
+_total subscriptions_: 4,884,608 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

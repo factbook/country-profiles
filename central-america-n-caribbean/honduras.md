@@ -234,11 +234,6 @@ _total_: 10 years<br>
 _male_: 10 years<br>
 _female_: 11 years (2019)<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.5% (2021 est.)<br>
-_male_: 11.4%<br>
-_female_: 24.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -451,11 +446,6 @@ sugar processing, coffee, woven and knit apparel, wood products, cigars<br>
 **Labor force**<br>
 4.314 million (2021 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 39.2%<br>
-_industry_: 20.9%<br>
-_services_: 39.8% (2005 est.)<br>
-
 **Unemployment rate**<br>
 8.51% (2021 est.)<br>
 8.37% (2020 est.)<br>
@@ -609,7 +599,7 @@ _Total energy consumption per capita 2019_: 19.8 million Btu/person (2019 est.)<
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 465,521 (2021 est.)<br>
+_total subscriptions_: 413,936 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
