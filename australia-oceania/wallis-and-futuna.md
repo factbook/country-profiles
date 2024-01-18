@@ -327,11 +327,6 @@ NA<br>
 **Labor force**<br>
 4,482 (2013)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 74%<br>
-_industry_: 3%<br>
-_services_: 23% (2015 est.)<br>
-
 **Unemployment rate**<br>
 8.8% (2013 est.)<br>
 12.2% (2008 est.)<br>

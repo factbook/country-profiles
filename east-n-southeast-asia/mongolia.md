@@ -337,10 +337,10 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Ukhnaagiin KHURELSUKH (since 25 June 2021)<br>
-_head of government_: Prime Minister Luvsannamsrai OYUN-ERDENE (since 27 January 2021); Deputy Prime Minister Sainbuyen AMARSAIKHAN (since 8 September 2022)<br>
+_head of government_: Prime Minister Luvsannamsrai OYUN-ERDENE (since 27 January 2021); Deputy Prime Ministers Sainbuyen AMARSAIKHAN (since 8 September 2022) and Chimed KHURELBAATAR (since 5 January 2023)<br>
 _cabinet_: directly appointed by the prime minister following a constitutional amendment ratified in November 2019; prior to the amendment, the cabinet was nominated by the prime minister in consultation with the president and confirmed by the State Great Hural (parliament)<br>
 _elections/appointments_: presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple majority popular vote for one 6-year term; election last held on 9 June 2021 (next election in 2027); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the State Great Hural<br>
-_election results_: Ukhnaagiin KHURELSUKH elected president in first round; percent of vote - Ukhnaagiin KHURELSUKH (MPP) 72%, Dangaasuren ENKHBAT (RPEC) 21.6%, Sodnomzundui ERDENE (DP) 6.4%<br>
+_election results_: Ukhnaagiin KHURELSUKH elected president in first round; percent of vote - Ukhnaagiin KHURELSUKH (MPP) 68%, Dangaasuren ENKHBAT (RPEC) 20.1%, Sodnomzundui ERDENE (DP) 6%<br>
 
 **Legislative branch**<br>
 _description_: unicameral State Great Hural or Ulsyn Ikh Khural (126 seats; 78 members directly elected in a selected constituency by simple majority vote and 48 members directly elected by proportional representation vote; members serve 4-year terms); note - a constitutional referendum passed in May 2023 increased the number of seats to 126 from 76<br>
@@ -680,10 +680,10 @@ Mongolian Armed Forces (MAF): Mongolian Ground Force (aka General Purpose Troops
 information varies; approximately 9,000 active duty troops (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the MAF's inventory is comprised of Soviet-era and Russian equipment (2023)<br>
+the MAF's inventory is comprised largely of Soviet-era and Russian equipment (2024)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory and voluntary military service (can enter military schools at age 17); 12-month conscript service obligation for men in the army, air forces, or police (can be extended 3 months under special circumstances); conscription service can be exchanged for a 24‐month stint in the civil service or a cash payment determined by the Mongolian Government; after conscription, soldiers can contract into military service for 2 or 4 years; volunteer military service for men and women is 24 months, which can be extended for another two years up to the age of 31 (2023)<br>
+18-25 years of age for compulsory and voluntary military service (can enter military schools at age 17); 12-month conscript service obligation for men in the army, air forces, or police (can be extended 3 months under special circumstances); conscription service can be exchanged for a 24‐month stint in the civil service or a cash payment determined by the Mongolian Government; after conscription, soldiers can contract into military service for 2 or 4 years; volunteer military service for men and women is 24 months, which can be extended for another two years up to the age of 31 (2024)<br>
 
 **Military deployments**<br>
 860 South Sudan (UNMISS) (2023)<br>

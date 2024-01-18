@@ -321,11 +321,6 @@ NA<br>
 **Labor force**<br>
 1,850 (2016 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 41%<br>
-_industry_: 24.5%<br>
-_services_: 34.5% (2015 est.)<br>
-
 **Unemployment rate**<br>
 1% (2016 est.)<br>
 

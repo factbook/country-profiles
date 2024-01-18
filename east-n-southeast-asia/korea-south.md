@@ -329,7 +329,7 @@ _election results_: <em><br>2022</em>: YOON Suk-yeol elected president; YOON Suk
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Gukhoe (300 seats statutory, current 295; 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 15 April 2020 (next to be held on 10 April 2024)<br>
-_election results_: percent of vote by party/coalition - DPK/Platform Party 49.9%, United Future Party 41.5%, JP 1.7%; seats by party - DPK/Platform Party 180, United Future Party (now PPP) 103, JP 6, ODP 3, PP 3, independent 5; composition as of April 2022 - men 240, women 55, percent of women 18.6%<br>
+_election results_: percent of vote by party/coalition - DPK/Platform Party 49.9%, United Future Party 41.5%, JP 1.7%; seats by party - DPK/Platform Party 180, United Future Party (now PPP) 103, JP 6, ODP 3, PP 3, independent 5; composition as of April 2022 - men 242, women 57, percent of women 19.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of a chief justice and 13 justices); Constitutional Court (consists of a court head and 8 justices)<br>
@@ -337,7 +337,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: High Courts; District Courts; Branch Courts (organized under the District Courts); specialized courts for family and administrative issues<br>
 
 **Political parties and leaders**<br>
-Basic Income Party [SHIN Ji-hye] <br>Democratic Party of Korea or DPK [LEE Jae-myung] (renamed from Minjoo Party of Korea or MPK in October 2016); includes the former Open Democratic Party [CHOI Kong-wook], which merged with the DP in January 2022 and the Together Citizens' Party or Platform Party [WOO Hee-jong, CHOI Bae-geun], which merged with the DP in May 2022)<br>Hope of Korea [Yang Hyang-ja]<br>Justice Party or JP [LEE Jeong-mi]<br>People Power Party or PPP [YUN Jae-ok (acting)] (renamed from United Future Party in September 2020, formerly Liberty Korea Party)<br>Transition Korea [CHO Jung-hun]<br>
+Basic Income Party [SHIN Ji-hye] <br>Democratic Party of Korea or DPK [LEE Jae-myung] (renamed from Minjoo Party of Korea or MPK in October 2016); includes the former Open Democratic Party [CHOI Kong-wook], which merged with the DP in January 2022 and the Together Citizens' Party or Platform Party [WOO Hee-jong, CHOI Bae-geun], which merged with the DP in May 2022)<br>Hope of Korea [Yang Hyang-ja]<br>Justice Party or JP [LEE Jeong-mi]<br>People Power Party or PPP [HAN Dong-hoon] (renamed from United Future Party in September 2020, formerly Liberty Korea Party)<br>Transition Korea [CHO Jung-hun]<br>
 <strong>note: </strong>the DPK is South Korea’s largest party and its main progressive party; the People Power Party (PPP) is a conservative grouping and is South Korea’s second-largest party<br>
 
 **International organization participation**<br>
@@ -593,7 +593,7 @@ _Total energy consumption per capita 2019_: 242.346 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 23,213,189 (2021 est.)<br>
+_total subscriptions_: 22,809,806 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 45 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -692,10 +692,10 @@ Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Republic o
 approximately 500,000 active-duty personnel (365,000 Army; 70,000 Navy, including about 30,000 Marines; 65,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the South Korean military is equipped with a mix of domestically produced and imported weapons systems; South Korea has a robust defense industry and production includes armored fighting vehicles, artillery, aircraft, naval ships, and missiles; its weapons are designed to be compatible with US and NATO systems; in recent years the top foreign weapons supplier has been the US, and some domestically produced systems are built under US license (2023)<br>
+the South Korean military is equipped with a mix of domestically produced and imported weapons systems; South Korea has a robust defense industry and production includes armored fighting vehicles, artillery, aircraft, naval ships, and missiles; its weapons are designed to be compatible with US and NATO systems; in recent years the top foreign weapons supplier has been the US, and some domestically produced systems are built under US license (2024)<br>
 
 **Military service age and obligation**<br>
-18-35 years of age for compulsory military service for all men; minimum conscript service obligation varies by service - 18 months (Army, Marines, auxiliary police), 20 months (Navy, conscripted firefighters), 21 months (Air Force, social service), 36 months for alternative service; 18-29 years of age for voluntary military service for men and women (2023)<br>
+18-35 years of age for compulsory military service for all men; minimum conscript service obligation varies by service - 18 months (Army, Marines, auxiliary police), 20 months (Navy, conscripted firefighters), 21 months (Air Force, social service), 36 months for alternative service; 18-29 years of age for voluntary military service for men and women (2024)<br>
 <strong>note 1:</strong> women, in service since 1950, are able to serve in all branches and as of 2022 some 15,000 served in the armed forces, including about 9% of the non-commissioned and commissioned officers<br><br><strong>note 2: </strong>the military brings on over 200,000 conscripts each year<br>
 
 **Military deployments**<br>

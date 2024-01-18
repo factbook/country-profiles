@@ -280,11 +280,6 @@ tourism, light industry, ready mixed concrete<br>
 **Labor force**<br>
 978 (2006)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 6%<br>
-_industry_: 14%<br>
-_services_: 80% (2006 est.)<br>
-
 **Budget**<br>
 _revenues_: $4.6 million (FY99/00)<br>
 _expenditures_: $4.8 million (FY99/00)<br>

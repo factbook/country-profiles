@@ -325,7 +325,7 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen MARGRETHE II (since 14 January 1972); Heir Apparent Crown Prince FREDERIK (elder son of the monarch, born on 26 May 1968)<br>
+_chief of state_: King FREDERIK X (since 14 January 2024); Heir Apparent Crown Prince CHRISTIAN (son of the king, born 15 October 2005) (2024)<br>
 _head of government_: Prime Minister Mette FREDERIKSEN (since 27 June 2019)<br>
 _cabinet_: Council of State appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch<br>
@@ -589,7 +589,7 @@ _Total energy consumption per capita 2019_: 124.163 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 706,604 (2021 est.)<br>
+_total subscriptions_: 711,500 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 12 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

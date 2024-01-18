@@ -270,9 +270,6 @@ tourism, light industry and manufacturing, heavy industry<br>
 **Labor force**<br>
 17,300 (2008 est.)<br>
 
-**Labor force - by occupation**<br>
-85 directly or indirectly employed in tourist industry<br>
-
 **Exports - partners**<br>
 United States 35%, Netherlands 26%, Antigua and Barbuda 21%, France 10% (2019)<br>
 

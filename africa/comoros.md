@@ -314,8 +314,8 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President AZALI Assoumani (since 26 May 2016); note - the president is both chief of state and head of government<br>
 _head of government_: President AZALI Assoumani (since 26 May 2016)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 March 2019 (next to be held in 2024)<br>
-_election results_: <em><br>2019</em>: AZALI Assoumani (CRC) elected president in first round - AZALI Assoumani (CRC) 60.8%, Ahamada MAHAMOUDOU (PJ) 14.6%, Mouigni Baraka Said SOILIHI (independent) 5.6%, other 19%<br><br><em>2016:</em> AZALI Assoumani (CRC) elected president in the second round; percent of vote in first round - Mohamed Ali SOILIHI (UPDC) 17.6%, Mouigni BARAKA (RDC) 15.1%, AZALI Assoumani (CRC) 15%, Fahmi Said IBRAHIM (PEC) 14.5%, other 37.8%; percent of vote in second round - AZALI Assoumani (CRC) 41.4%, Mohamed Ali SOILIHI (UPDC) 39.7%; Mouigni BARAKA (RDC) 19%<br>
+_elections/appointments_: president directly elected by absolute majority vote in 2 rounds if needed for a 5-year term; election last held on 14 January 2024 (next to be held in 2029)<br>
+_election results_: <em><br>2024: </em>AZALI Assoumani reelected president in first round - AZALI Assoumani (CRC) 63%, SALIM ISSA Abdallah (PJ) 20.3%, DAOUDOU Abdallah Mohamed (Orange Party) 5.9%, Bourhane HAMIDOU (independent) 5.1%<em><br><br>2019</em>: AZALI Assoumani (CRC) elected president in first round - AZALI Assoumani (CRC) 60.8%, Ahamada MAHAMOUDOU (PJ) 14.6%, Mouigni Baraka Said SOILIHI (independent) 5.6%, other 19%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Union (33 seats; 24 members directly elected by absolute majority vote in 2 rounds if needed and 9 members indirectly elected by the 3 island assemblies; members serve 5-year terms)<br>
@@ -329,7 +329,7 @@ _subordinate courts_: Court of Appeals (in Moroni); Tribunal de premiere instanc
 <br>   <br><br> <br>
 
 **Political parties and leaders**<br>
-Convention for the Renewal of the Comoros or CRC [AZALI Assoumani]<br>Orange Party [Mohamed DAOUDOU]<br>Independents<br><br><strong>Note</strong>: only parties with seats in the Assembly of the Union included (2020)<br>
+Convention for the Renewal of the Comoros or CRC [AZALI Assoumani]<br>Juwa Party (Parti Juwa) or PJ [Ahmed Abdallah Mohamed SAMBI]<br>Orange Party [Mohamed DAOUDOU]<br><br><br><strong>Note</strong>: only parties with seats in the Assembly of the Union included (2020)<br>
 
 **International organization participation**<br>
 ACP, AfDB, AMF, AOSIS, AU, CAEU (candidates), COMESA, FAO, FZ, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>

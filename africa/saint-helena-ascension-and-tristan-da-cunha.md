@@ -327,11 +327,6 @@ NA<br>
 **Labor force**<br>
 2,486 (1998 est.)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 6%<br>
-_industry_: 48%<br>
-_services_: 46% (1987 est.)<br>
-
 **Unemployment rate**<br>
 14% (1998 est.)<br>
 

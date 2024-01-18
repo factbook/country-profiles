@@ -169,11 +169,6 @@ _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 15.8% (2021 est.)<br>
-_male_: 15.9%<br>
-_female_: 15.6%<br>
-
 ## Environment
 
 **Environment - current issues**<br>

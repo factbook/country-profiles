@@ -247,9 +247,6 @@ copra products, tourism<br>
 **Labor force**<br>
 NA<br>
 
-**Labor force - by occupation**<br>
-<p><strong>note:</strong> the Cocos Islands Cooperative Society Ltd. employs construction workers, stevedores, and lighterage workers; tourism is the other main source of employment</p><br>
-
 **Unemployment rate**<br>
 0.1% (2011)<br>
 60% (2000 est.)<br>

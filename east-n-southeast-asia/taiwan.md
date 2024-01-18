@@ -263,15 +263,15 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President TSAI Ing-wen (since 20 May 2016); Vice President LAI Ching-te (since 20 May 2020)<br>
-_head of government_: Premier CHEN Chien-jen (President of the Executive Yuan) (since 25 January 2023); Vice Premier CHENG Wen-tsan (Vice President of the Executive Yuan) (since 25 January 2023)<br>
+_head of government_: Premier CHEN Chien-jen (President of the Executive Yuan) (since 31 January 2023); Vice Premier CHENG Wen-tsan (Vice President of the Executive Yuan) (since 31 January 2023)<br>
 _cabinet_: Executive Yuan - ministers appointed by president on recommendation of premier<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11 January 2020 (next to be held on 13 January 2024); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier<br>
-_election results_: <em>2020: </em>TSAI Ing-wen reelected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%, James SOONG (PFP) 4.2%; note - TSAI is the first woman elected president of Taiwan<br><em><br><em>2016</em>: </em>TSAI Ing-wen elected president; percent of vote - TSAI Ing-wen (DPP) 56.1%, Eric CHU (KMT) 31%, James SOONG (PFP) 12.8%<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 13 January 2024 (next to be held in 2028); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier<br>
+_election results_: <em><em>2023: </em></em>LAI Ching-te (DPP) 40.1%, HOU Yu-ih (KMT) 33.5%, KO Wen-je (TPP) 26.5%; note - LAI takes office on 20 May 2024<em><br><br>2020: </em>TSAI Ing-wen reelected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%, James SOONG (PFP) 4.3%; note - TSAI is the first woman elected president of Taiwan<br><em><br><br></em><br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Yuan (113 seats; 73 members directly elected in single-seat constituencies by simple majority vote, 34 directly elected in a single island-wide constituency by proportional representation vote, and 6 directly elected in multi-seat aboriginal constituencies by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 11 January 2020 (next to be held on 13 January 2024)<br>
-_election results_: percent of vote by party - Democratic Progressive Party (DPP) 34.0%, Kuomintang (KMT) 33.4%, Taiwan People's Party (TPP) 11.2%, New Power Party (NPP) 7.5%; seats by party - DPP 61, KMT 38, TPP 5, NPP 3; composition as of early 2020 - men 64, women 48, percent of women 42.5%<br>
+_elections_: last held on 13 January 2024 (next to be held in 2028)<br>
+_election results_: percent of vote by party - DPP 40.6%, KMT 37.2%, TPP 12.6%, other 5.7%, independent 3.9%; seats by party - KMT 52, DPP 51, TPP 8, independent 2; composition - men 66, women 47, percent of women 41.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the court president, vice president, and approximately 100 judges organized into 8 civil and 12 criminal divisions, each with a division chief justice and 4 associate justices); Constitutional Court (consists of the court president, vice president, and 13 justices)<br>
@@ -279,7 +279,7 @@ _judge selection and term of office_: Supreme Court justices appointed by the pr
 _subordinate courts_: high courts; district courts; hierarchy of administrative courts<br>
 
 **Political parties and leaders**<br>
-Democratic Progressive Party or DPP [LAI Ching-te]<br>Kuomintang or KMT (Nationalist Party) [Eric CHU Chi-luan]<br>New Power Party or NPP [CHEN Jiau-hua]<br>People First Party or PFP [James SOONG]<br>Taiwan People's Party or TPP [KO Wen-je]<br>Taiwan Statebuilding Party or TSP [CHEN Yi-chi]<br>
+Democratic Progressive Party or DPP [LAI Ching-te]<br>Kuomintang or KMT (Nationalist Party) [Eric CHU Li-luan]<br>Taiwan People's Party or TPP [KO Wen-je]<br>
 <strong>note:</strong> the DPP and the KMT are the two major political parties; there are hundreds of registered minor parties<br>
 
 **International organization participation**<br>
@@ -594,26 +594,26 @@ _LNG terminal(s) (import)_: Yung An (Kaohsiung), Taichung<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force<br><br>Ocean Affairs Council: Coast Guard Administration (CGA)<br><br>Ministry of Interior: National Police (2023)<br>
+Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force<br><br>Ocean Affairs Council: Coast Guard Administration (CGA)<br><br>Ministry of Interior: National Police (2024)<br>
 <strong>note: </strong>the CGA is a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime; it was established in 2000 from the integration of the Coast Guard Command (formerly under the Ministry of Defense), the Marine Police Bureau (formerly under the National Police), and several cutters from the Taiwan Directorate General of Customs (Ministry of Finance)<br>
 
 **Military expenditures**<br>
-2.1% of GDP (2023 est.)<br>
+2.4% of GDP (2023 est.)<br>
 2.1% of GDP (2022)<br>
 2.1% of GDP (2021)<br>
 2.1% of GDP (2020)<br>
 1.8% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 170,000 active-duty troops (90,000 Army; 40,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2023)<br>
+approximately 180,000 active-duty troops (95,000 Army; 45,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2023)<br>
 <strong>note: </strong>Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military is armed mostly with secondhand weapons and equipment provided by the US, and the US has continued to be the largest provider of arms in recent years; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface ships and submarines (2023)<br>
+the military is armed with a mix of secondhand weapons and equipment provided by the US, as well as capabilities procured through the US Foreign Military Sales process; the US is the largest provider of arms to Taiwan; Taiwan also has a domestic defense industry capable of building and upgrading some weapons systems, including surface ships and submarines (2024)<br>
 
 **Military service age and obligation**<br>
-starting with those born in 1994, men 18-36 years of age may volunteer or must complete 4 months of compulsory military service; civil service can be substituted for military service in some cases; men born before December 1993 are required to complete compulsory service for 12 months (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military, the last cohort of 12-month military conscripts completed their service obligations in December 2018 (2023)<br>
-<strong>note 1: </strong>compulsory service is 5 weeks of basic training followed by 11 weeks of specialized training with field units; in 2022, the Taiwan announced that compulsory service would be extended from 4 to 12 months beginning in January 2024 for men born in 2005<strong><br><br>note 2:</strong> as of 2023, women made up about 15% of the active-duty military<br>
+starting with those born in 1994, men 18-36 years of age may volunteer or must complete 4 months of compulsory military service; civil service can be substituted for military service in some cases; men born before December 1993 are required to complete compulsory service for 12 months (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military, the last cohort of 12-month military conscripts completed their service obligations in December 2018 (2024)<br>
+<strong>note 1: </strong>compulsory service is 5 weeks of basic training followed by 11 weeks of specialized training with field units; in 2022, Taiwan announced that compulsory service would be extended from 4 to 12 months beginning in January 2024 for men born in 2005 and thereafter<strong><br><br>note 2:</strong> as of 2023, women made up about 15% of the active-duty military<br>
 
 **Military - note**<br>
 the military’s primary responsibility is external security, including the defense of the country’s sovereignty and territory, and the protection of Taiwan’s air space, maritime claims, and sea lanes of communication; its main focus is the challenge posed by the People’s Republic of China; the military trains regularly and conducts multiservice exercises; the Army’s primary combat forces include nine mechanized or motorized infantry brigades, four armored brigades, and three artillery brigades; it also has an aviation and special forces command that includes several squadrons of attack helicopters; the Air Force has nearly 300 fighter and multipurpose fighter aircraft organized, plus squadrons for anti-submarine and electronic warfare, early warning, and surveillance; the Navy’s warship inventory includes four destroyers, 22 frigates, more than 40 corvettes, patrol vessels, and missile-armed attack craft, and two combat-capable attack submarines; it also has three marine infantry brigades <br><br>the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2023)<br>

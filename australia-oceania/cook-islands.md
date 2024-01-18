@@ -364,11 +364,6 @@ fishing, fruit processing, tourism, clothing, handicrafts<br>
 **Labor force**<br>
 6,820 (2001)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 29%<br>
-_industry_: 15%<br>
-_services_: 56% (1995)<br>
-
 **Unemployment rate**<br>
 13.1% (2005)<br>
 

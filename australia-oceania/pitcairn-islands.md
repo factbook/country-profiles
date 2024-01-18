@@ -272,9 +272,6 @@ postage stamps, handicrafts, beekeeping, honey<br>
 **Labor force**<br>
 15 (2004)<br>
 
-**Labor force - by occupation**<br>
-<p><strong>note:</strong> no business community in the usual sense; some public works; subsistence farming and fishing</p><br>
-
 **Budget**<br>
 _revenues_: $746,000 (FY04/05)<br>
 _expenditures_: $1.028 million (FY04/05)<br>

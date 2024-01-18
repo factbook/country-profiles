@@ -271,7 +271,7 @@ see Denmark<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen MARGRETHE II of Denmark (since 14 January 1972), represented by High Commissioner Mikaela ENGELL (since April 2011)<br>
+_chief of state_: King FREDERIK X of Denmark (since 14 January 2024), represented by High Commissioner Mikaela ENGELL (since April 2011) (2024)<br>
 _head of government_: Premier Mute B. EGEDE (since 23 April 2021)<br>
 _cabinet_: Self-rule Government (Naalakkersuisut) elected by the Parliament (Inatsisartut)<br>
 _elections/appointments_: the monarchy is hereditary; high commissioner appointed by the monarch; premier indirectly elected by Parliament for a 4-year term<br>

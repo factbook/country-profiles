@@ -616,16 +616,16 @@ _Total energy consumption per capita 2019_: 79.126 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 12 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 15 (2021 est.)<br>
+_total subscriptions_: 11,197,979 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 86 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 100 (2021 est.)<br>
+_total subscriptions_: 90,297,565 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 106 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Turkey continues to develop its capabilities within its telecom sector, becoming one of the relatively few countries able to build and develop its own communications satellites; with the successful launch of the Turksat 5A and 5B satellites in 2021, the country has vastly increased its bandwidth capacity; these satellites will be joined by the Turksat 6A in 2023; the country&rsquo;s telcos have invested in fiber infrastructure; deployment of fiber-based broadband networks are well established, with fiber accounting for 26.7% of all fixed broadband connections as of early 2022; the DSL sector still dominates, accounting for about 63% of connections, but its share is steadily declining, year-on-year, while the number of fiber connections has grown strongly; improved fixed and mobile infrastructure is underpinning the country&rsquo;s initiatives relating to Smart City concepts, which have become a key area of focus for the emerging digital economy and the transformation to a knowledge-based economy; Turkey&rsquo;s National Smart Cities Strategy and Action Plan runs through to 2023 (2022)<br>
-_domestic_: fixed-line nearly 15 per 100 and mobile-cellular teledensity is 100 telephones per 100 persons (2021)<br>
+_domestic_: fixed-line nearly 14 per 100 and mobile-cellular teledensity is 106 telephones per 100 persons (2022)<br>
 _international_: country code - 90; landing points for the SeaMeWe-3 &amp; -5, MedNautilus Submarine System, Turcyos-1 &amp; -2 submarine cables providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia&nbsp;; satellite earth stations - 12 Intelsat; mobile satellite terminals - 328 in the Inmarsat and Eutelsat systems (2020)<br>
 
 **Broadcast media**<br>
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 <p><em>Turkey-Armenia</em>: in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered;  in early 2022, the two countries held talks twice aimed at normalizing relations, which could lead to the opening of their land border, shut since 1993; in 2000, Turkish authorities complained to UNESCO that blasting from quarries in Armenia was damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p> <p><em>Turkey-Azerbaijan</em>: none identified</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece; the Aegean Maritime Boundary is complicated by the close proximity of Greek islands to the western shores of the Turkish Anatolian peninsula, representing the primary source of conflict between the two countries</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 3,274,059 (Syria), 42,720 (Ukraine) (as of 23 November 2023) (2023)<br>
+_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 42,720 (Ukraine) (as of 23 November 2023) (2023); 3,199,927 (Syria) (2024)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2022)<br>
 _stateless persons_: 117 (2018)<br>
 

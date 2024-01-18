@@ -185,11 +185,6 @@ _total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
-**Youth unemployment rate (ages 15-24)**<br>
-_total_: 10.1% (2011 est.)<br>
-_male_: 11.8%<br>
-_female_: 8.2%<br>
-
 ## Environment
 
 **Environment - current issues**<br>
@@ -351,20 +346,6 @@ financial services, light manufacturing, tourism<br>
 
 **Labor force**<br>
 41,790 (2006)<br>
-
-**Labor force - by occupation**<br>
-_manufacturing_: 5% (2006 est.)<br>
-_construction_: 8% (2006 est.)<br>
-_tourism_: 1% (2006 est.)<br>
-_transport and communications_: 9% (2006 est.)<br>
-_agriculture, forestry, and fishing_: 2% (2006 est.)<br>
-_gas, electricity, and water_: 1% (2006 est.)<br>
-_wholesale and retail distribution_: 11% (2006 est.)<br>
-_professional and scientific services_: 20% (2006 est.)<br>
-_public administration_: 7% (2006 est.)<br>
-_banking and finance_: 23% (2006 est.)<br>
-_entertainment and catering_: 5% (2006 est.)<br>
-_miscellaneous services_: 8% (2006 est.)<br>
 
 **Unemployment rate**<br>
 1.1% (2017 est.)<br>

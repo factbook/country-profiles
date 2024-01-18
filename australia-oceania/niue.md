@@ -334,9 +334,6 @@ NA<br>
 **Labor force**<br>
 663 (2001)<br>
 
-**Labor force - by occupation**<br>
-<p><strong>note:</strong> most work on family plantations; paid work exists only in government service, small industry, and the Niue Development Board</p><br>
-
 **Unemployment rate**<br>
 12% (2001)<br>
 

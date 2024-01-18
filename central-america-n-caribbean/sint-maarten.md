@@ -238,8 +238,8 @@ _elections/appointments_: the monarch is hereditary; governor appointed by the m
 
 **Legislative branch**<br>
 _description_: unicameral Parliament&nbsp;of Sint Maarten&nbsp;(15 seats; members directly elected by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held 9 January 2020 (next to be held on 11 January 2024)<br>
-_election results_: percent of vote by party - NA 35.2%, UP 24.2%, US Party 13.2%, PFP 10.6%, UD 8.7%, other 8.1%; seats by party - NA 6, UP 4, PFP 2, US Party 2, UD 1<br>
+_elections_: last held 11 January 2024 (next to be held in 2028)<br>
+_election results_: percent of vote by party - NA 23.9%, UPP 19.6%, URSM 13.9%, DP 13.6%, PFP 11.9%, NOW 10.3%, other 6.8%; seats by party - NA 4, UPP 3, URSM 2, DP 2, PFP2, NOW 2<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (consists of the presiding judge, other members, and their substitutes); final appeals heard by the Supreme Court (in The Hague, Netherlands); note - prior to 2010, the Joint Court of Justice was the Common Court of Justice of the Netherlands Antilles and Aruba<br>
@@ -247,7 +247,7 @@ _judge selection and term of office_: Joint Court judges appointed by the monarc
 _subordinate courts_: Courts in First Instance<br>
 
 **Political parties and leaders**<br>
-National Alliance or NA [Silveria JACOBS]<br>Party for Progress or PFP [Melissa GUMBS]<br>Sint Maarten Christian Party or SMCP [Garcia ARRINDELL]<br>United Democrats Party or UD [Sarah WESCOT-WILLIAMS]<br>United People's Party or UP [Theodore HEYLIGER]<br>United Sint Maarten Party or US Party [Frans RICHARDSON]<br>
+Democratic Party or DP [Sarah WESCOT-WILLIAMS]<br>National Alliance or NA [Silveria JACOBS]<br>National Opportunity Wealth or NOW [Christophe EMMANUEL]<br>Party for Progress or PFP [Melissa GUMBS]<br>Sint Maarten Christian Party or SMCP [Garcia ARRINDELL]<br>Unified Resilient St Maarten Movement or URSM [Luc MERCELINA]<br>United People's Party or UPP [Rolando BRISON]<br>United Sint Maarten Party or US Party [Frans RICHARDSON]<br>
 
 **International organization participation**<br>
 <p>Caricom (observer), ILO, Interpol, UNESCO (associate), UPU, WMO</p><br>
@@ -308,11 +308,6 @@ tourism, light industry<br>
 
 **Labor force**<br>
 23,200 (2008 est.)<br>
-
-**Labor force - by occupation**<br>
-_agriculture_: 1.1%<br>
-_industry_: 15.2%<br>
-_services_: 83.7% (2008 est.)<br>
 
 **Unemployment rate**<br>
 12% (2012 est.)<br>
@@ -406,6 +401,6 @@ defense is the responsibility of the Kingdom of the Netherlands<br>
 non identified<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 &mdash; Sint Maarten does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore Sint Maarten was downgraded to Tier 3; officials took some steps to address trafficking, including investigating a potential trafficking case; however, the government did not report prosecuting or convicting any traffickers nor identify any victims for the second consecutive year; Sint Maarten was not equipped to provide services to trafficking victims due to its lack of shelters, funding, and formal arrangements with service providers; the government did not update its national action plan, which expired in 2018, and interagency coordination was severely lacking; officials consistently conflated human trafficking with migrant smuggling (2022)<br>
-_trafficking profile_: human traffickers exploit domestic and foreign victims in Sint Maarten; some brothel and dance club owners exploit women and girls from Latin America, the Caribbean, Eastern Europe, and Russia in sex trafficking; women from Haiti, Dominican Republic, and Venezuela are especially vulnerable to sex trafficking in Sint Maarten; government officials report a significant number of migrant workers are vulnerable to coercive schemes in domestic service, construction, Chinese national-owned markets, retail shops, food service, landscaping, and housekeeping; criminals, including smugglers, subject migrants&mdash;specifically Cuban and Brazilian nationals&mdash;who transit Sint Maarten en route to the United States and Canada to forced labor or sex trafficking; traffickers may exploit, under false pretenses, Colombian and Venezuelan women traveling to the islands in forced labor or sex trafficking (2022)<br>
+_tier rating_: Tier 3 &mdash; Sint Maarten does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore Sint Maarten remained on Tier 3; officials took some steps to address trafficking, including passing a National Action Plan and upholding three trafficking convictions; however, the government did not report prosecuting or convicting any traffickers nor identifying any victims for the third consecutive year; Sint Maarten could not provide services to trafficking victims due to its lack of shelters, funding, and formal arrangements with service providers; interagency coordination was severely lacking; officials consistently conflated human trafficking with migrant smuggling (2023)<br>
+_trafficking profile_: human traffickers exploit foreign victims and, to a lesser extent, domestic victims in Sint Maarten; women and girls from Latin America, the Caribbean, Eastern Europe, and Russia are vulnerable to sex trafficking; women from Haiti, the Dominican Republic, and Venezuela are especially vulnerable to sex trafficking in Sint Maarten; government officials report a significant number of migrant workers are vulnerable to forced labor in domestic service and housekeeping, construction, Chinese national-owned markets, retail shops, food service, and landscaping; criminals, including smugglers, may exploit migrants who transit Sint Maarten en route to the US and Canada&mdash;especially Brazilian and&nbsp; Cuban nationals&mdash;to forced labor or sex trafficking (2023)<br>
 

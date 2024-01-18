@@ -340,11 +340,6 @@ tourism, rum, textiles, electronic appliances<br>
 **Labor force**<br>
 4,521 (2012)<br>
 
-**Labor force - by occupation**<br>
-_agriculture_: 1.4%<br>
-_industry_: 12.7%<br>
-_services_: 85.9% (2017 est.)<br>
-
 **Unemployment rate**<br>
 5.6% (2017 est.)<br>
 6% (1998 est.)<br>
