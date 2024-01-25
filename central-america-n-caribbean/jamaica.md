@@ -314,7 +314,7 @@ _residency requirement for naturalization_: 4 out of the previous 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Sir Patrick L. ALLEN (since 26 February 2009); the Jamaican Government, in May 2023, announced plans to transition to a republic and to hold a referendum in 2024 to remain in the Commonwealth or become a republic<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Sir Patrick L. ALLEN (since 26 February 2009); note - the Jamaican Government, in May 2023, announced plans to hold a referendum in 2024 to determine whether or not to remain in the Commonwealth or become a republic<br>
 _head of government_: Prime Minister Andrew HOLNESS (since 3 March 2016)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition in the House of Representatives is appointed prime minister by the governor general<br>

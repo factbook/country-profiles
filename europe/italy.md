@@ -325,8 +325,8 @@ _residency requirement for naturalization_: 4 years for EU nationals, 5 years fo
 
 **Executive branch**<br>
 _chief of state_: President Sergio MATTARELLA (since 3 February 2015)<br>
-_head of government_: Prime Minister Giorgia MELONI (since 22 October 2022); the prime minister's official title is President of the Council of Ministers<br>
-_cabinet_: Council of Ministers proposed by the prime minister, known officially as the President of the Council of Ministers and locally as the Premier; nominated by the president; the current deputy prime ministers, known officially as vice presidents of the Council of Ministers, are Matteo SALVINI (L) and Antonio TAIANI (FI) (since 22 October 2022)<br>
+_head of government_: Prime Minister Giorgia MELONI (since 22 October 2022); the prime minister's official title is President of the Council of Ministers; Deputy Prime Ministers Matteo SALVINI and Antonio TAIANI (since 22 October 2022); the deputy prime ministers' official titles are Vice Presidents of the Council of Ministers<br>
+_cabinet_: Council of Ministers proposed by the prime minister, known officially as the President of the Council of Ministers and locally as the Premier; nominated by the president; deputy prime ministers are known officially as Vice Presidents of the Council of Ministers<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of both houses of Parliament and 58 regional representatives for a 7-year term (no term limits); election last held on 24-29 January 2022 (eight rounds) (next to be held in 2029); prime minister appointed by the president, confirmed by parliament<br>
 _election results_: <br><em>2022:</em> Sergio MATTARELLA (independent) reelected president; electoral college vote count in eighth round - 759 out of 1,009 (505 vote threshold)<br><br><em>2015: </em>Sergio MATTARELLA (independent) elected president; electoral college vote count in fourth round - 665 out of 995 (505 vote threshold) <p> </p><br>
 
@@ -600,7 +600,7 @@ _Total energy consumption per capita 2019_: 112.606 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 19,994,902 (2021 est.)<br>
+_total subscriptions_: 19,982,393 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 34 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -736,7 +736,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 168,725 (Ukraine) (as of 10 November 2023)<br>
+_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 169,040 (Ukraine) (as of 15 December 2023)<br>
 _stateless persons_: 3,000 (2022)<br>
 <strong>note:</strong> 840,958 estimated refugee and migrant arrivals (January 2015-November 2023)<br>
 

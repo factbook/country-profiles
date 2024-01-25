@@ -91,7 +91,7 @@ Czech 57.3%, Moravian 3.4%, other 7.7%, unspecified 31.6% (2021 est.)<br>
 
 **Languages**<br>
 Czech (official) 88.4%, Slovak 1.5%, other 2.6%, unspecified 7.2%<br><br><strong>note:</strong> includes only persons with one mother tongue (2021 est.)<br>
-_major-language sample(s)_: <br>World Fackbook, nepostradatelný zdroj základních informací. (Czech)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>World Factbook, nepostradatelný zdroj základních informací. (Czech)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 7%, other believers belonging to a church or religious society 6% (includes Evangelical United Brethren Church and Czechoslovak Hussite Church), believers unaffiliated with a religious society 9.1%, none 47.8%, unspecified 30.1% (2021 est.)<br>
@@ -331,8 +331,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Petr PAVEL (since 9 March 2023)<br>
 _head of government_: Prime Minister Petr FIALA (since 17 December 2021); First Deputy Prime Minister Vit RAKUSAN (since 17 December 2021), Deputy Prime Ministers Marian JURECKA, Ivan BARTOS, Vlastimil VALEK (all since 17 December 2021)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 27-28 January 2023 the second round and 13-14 January 2023 for the 1st round; prime minister appointed by the president for a 4-year term<br>
-_election results_: <em><br>2023; </em>2nd Round Petr PAVEL 58.3%, Andrej BABIS 41.6%; 1st Round Petr PAVEL 35.4%, Andrej BABIS 35<em>%</em>, Danuse NERUDOVA 13.9%, Pavel FISCHER 6.8%<em><br><br>2018:</em> Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br><br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 13 to 14 January 2023 with a second round held from 27 to 28 January 2023; prime minister appointed by the president for a 4-year term<br>
+_election results_: <em><br>2023: </em>Petr PAVEL elected in the second round; percent of vote in the first round - Petr PAVEL (independent) 35.4%, Andrej BABIS (ANO) 35<em>%</em>, Danuse NERUDOVA (Mayors and Independents) 13.9%, Pavel FISCHER (independent) 6.8%; percent of vote in the second round - Petr PAVEL 58.3%, Andrej BABIS 41.6%<em><br><br>2018:</em> Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br><br>Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)<br>
@@ -705,7 +705,7 @@ the Czech military is a professional force responsible for national and territor
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 373,080 (Ukraine) (as of 10 December 2023)<br>
+_refugees (country of origin)_: 375,590 (Ukraine) (as of 31 December 2023)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

@@ -360,8 +360,8 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Felix TSHISEKEDI (since 24 January 2019)<br>
-_head of government_: Prime Minister Jean-Michel Sama LUKONDE (since 15 February 2021); Deputy Prime Ministers Jose MAKILA, Leonard She OKITUNDU, Henri MOVA Sankanyi (since February 2018) Jean-Pierre BEMBBA (since 23 March 2023)<br>
+_chief of state_: President Felix TSHISEKEDI (since 20 January 2024)<br>
+_head of government_: Prime Minister Jean-Michel Sama LUKONDE (since 15 February 2021); Deputy Prime Ministers Jose MAKILA, Leonard She OKITUNDU, Henri MOVA Sankanyi (since February 2018), Jean-Pierre BEMBBA (since 23 March 2023)<br>
 _cabinet_: Ministers of State appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority vote for a 5-year term (eligible for a second term); election last held on 20 December 2023 (next to be held in December 2028); prime minister appointed by the president<br>
 _election results_: <em>2023: </em>Felix TSHISEKEDI reelected president; percent of vote - Felix TSHISEKEDI (UDPS) 73.3%, Moise KATUMBI (Ensemble) 18.8%, Martin FAYULU (ECIDE) 5.3%, other 2.6%<br><em><br>2018:</em> Felix TSHISEKEDI elected president; percent of vote - Felix TSHISEKEDI (UDPS) 38.6%, Martin FAYULU (Lamuka coalition) 34.8%, Emmanuel Ramazani SHADARY (PPRD) 23.9%, other 2.7%; note - election marred by serious voting irregularities<br>
@@ -737,7 +737,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p><em>Democratic Republic of Congo (DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo (DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; the Ugandan-origin Allied Democratic Forces (ADF; aka Islamic State of Iraq and ash-Sham in the DRC) operates on both sides of the border<br><br><em>Democratic Republic of Congo (DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo (DRC)-Angola: </em>DRC has accused Angola of shifting monuments<br><br><em>Democratic Republic of Congo (DRC)-Rwanda:</em> the DRC has accused Rwanda of backing the armed separatist group March 23 Movement (aka M23 or Congolese Revolutionary Army)<br> <br><em>Democratic Republic of Congo (DRC)-Burundi:</em> multiple armed groups originating from Burundi operate in the DRC</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 211,963 (Central African Republic), 208,328 (Rwanda), 53,194 (South Sudan) (refugees and asylum seekers), 46,272 (Burundi) (2023)<br>
+_refugees (country of origin)_: 212,217 (Central African Republic), 208,328 (Rwanda), 53,337 (South Sudan) (refugees and asylum seekers), 46,272 (Burundi) (2023)<br>
 _IDPs_: 6.38 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2023)<br>
 
 **Illicit drugs**<br>

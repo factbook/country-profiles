@@ -263,7 +263,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Vjosa OSMANI-Sadriu (since 4 April 2021)<br>
 _head of government_: Prime Minister Albin KURTI (since 22 March 2021)<br>
 _cabinet_: Cabinet elected by the Assembly<br>
-_elections/appointments_: president indirectly elected by at least two-thirds majority vote of the Assembly for a 5-year term; if a candidate does not attain a two-thirds threshold in the first two ballots, the candidate winning a simple majority vote in the third ballot is elected (eligible for a second term); election last held on 3-4 April 2021 (next to be held in 2026); prime minister indirectly elected by the Assembly<br>
+_elections/appointments_: president indirectly elected by at least two-thirds majority vote of the Assembly for a 5-year term; if a candidate does not attain a two-thirds threshold in the first two ballots, the candidate winning a simple majority vote in the third ballot is elected (eligible for a second term); election last held on 3 to 4 April 2021 (next to be held in 2026); prime minister indirectly elected by the Assembly<br>
 _election results_: <em><br>2021: </em> Vjosa OSMANI-Sadriu elected president in third ballot; Assembly vote - Vjosa OSMANI-Sadriu (Guxo!) 71 votes; Albin KURTI (LVV) elected prime minister; Assembly vote - 67 for, 30 against<br><br><em>2016:</em> Hashim THACI elected president in third ballot; Assembly vote - Hashim THACI (PDK) 71 votes; Ramush HARADINAJ (AAK) elected prime minister; Assembly vote - 61 for<br>
 
 **Legislative branch**<br>

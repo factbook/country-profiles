@@ -570,7 +570,7 @@ _total subscriptions_: 603,486 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 136 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Brunei&rsquo;s mobile market experienced drop-off in subscriber numbers in 2020; in 2022 there was a concerted effort to build out the fixed-line infrastructure while progressing towards introducing 5G mobile services; Brunei&rsquo;s fixed-line market is one of the few countries in the world to have displayed significant growth rather than a decline in teledensity in the last few years; this upward trend is set to continue as the new Unified National Network (UNN) works diligently to expand and enhance the fixed-line infrastructure around the country; strong growth was also seen in the fixed broadband space, on the back of those same infrastructure developments that are part of the Brunei Vision 2035 initiative; fixed broadband is starting from a relatively low base by international standards and is still only at 18%, leaving lots of room for growth; mobile and mobile broadband, on the other hand, are still suffering from the market contractions first felt in 2020; Brunei&rsquo;s 2G GSM network is shut down, with the spectrum to be reallocated to 3G, 4G, and potentially 5G use (2021)<br>
+_general assessment_: Brunei&rsquo;s mobile market experienced drop-off in subscriber numbers in 2020; in 2022 there was a concerted effort to build out the fixed-line infrastructure while progressing towards introducing 5G mobile services, which was activated in June 2023; Brunei&rsquo;s fixed-line market is one of the few countries in the world to have displayed significant growth rather than a decline in teledensity in the last few years; this upward trend is set to continue as the new Unified National Network (UNN) works diligently to expand and enhance the fixed-line infrastructure around the country; strong growth was also seen in the fixed broadband space, on the back of those same infrastructure developments that are part of the Brunei Vision 2035 initiative; fixed broadband is starting from a relatively low base by international standards and is still only at 18%, leaving lots of room for growth; mobile and mobile broadband, on the other hand, are still suffering from the market contractions first felt in 2020; Brunei&rsquo;s 2G GSM network is shut down, with the spectrum to be reallocated to 3G, 4G, and potentially 5G use (2023)<br>
 _domestic_: 25 per 100 fixed-line, 136 per 100 mobile-cellular (2021)<br>
 _international_: country code - 673; landing points for the SEA-ME-WE-3, SJC, AAG, Lubuan-Brunei Submarine Cable via&nbsp;optical telecommunications submarine cables that provides links to Asia, the Middle East, Southeast Asia, Africa, Australia, and the US; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean) (2019)<br>
 
@@ -632,7 +632,7 @@ _LNG terminal(s) (export)_: Lumut<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Brunei Armed Forces: Land Force, Navy, Air Force, Joint Force<br><br>Ministry of Home Affairs: Royal Brunei Police Force (2023)<br>
+Royal Brunei Armed Forces: Land Force, Navy, Air Force, Joint Force<br><br>Ministry of Home Affairs: Royal Brunei Police Force (2024)<br>
 <strong>note: </strong>the Gurkha Reserve Unit (GRU) under the Ministry of Defense is a special guard force for the Sultan, the royal family, and the country’s oil installations<br>
 
 **Military expenditures**<br>
@@ -649,7 +649,7 @@ approximately 7,000 total active-duty troops (2023)<br>
 the military's s inventory includes equipment and weapons systems from a wide variety of suppliers from Asia, Europe, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary military service; non-Malays are ineligible to serve (2023)<br>
+17 years of age for voluntary military service; non-Malays are ineligible to serve (2024)<br>
 <strong>note:</strong> the Gurkha Reserve Unit (GRU) employs about 500 Gurkhas from Nepal, the majority of whom are veterans of the British Army and the Singapore Police Force who have joined the GRU as a second career<br>
 
 **Military - note**<br>

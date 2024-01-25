@@ -374,7 +374,7 @@ ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Kevin Michael RUDD (since 19 April 2023)<br>
-_chancery_: temporary location: 1145 17th St NW, Washington DC, 20036-4707<br><br>note - new chancery building under construction at 1601 Massachusetts Avenue NW, Washington, DC 20036; formal opening scheduled for late 2023<br>
+_chancery_: 1601 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 797-3000<br>
 _FAX_: [1] (202) 797-3168<br>
 _email address and website_: <br>info.us@dfat.gov.au<br><br>https://usa.embassy.gov.au/<br>
@@ -702,8 +702,8 @@ Australia operates one PC 3 or 4 class medium icebreaker based in Tasmania in su
 ## Military and Security
 
 **Military and security forces**<br>
-Australian Defense Force (ADF): Australian Army, Royal Australian Navy, Royal Australian Air Force (2023)<br>
-<strong>note 1: </strong>the Army includes a Special Operations Command, while the Navy includes a Naval Aviation Force<br><br><strong>note 2:</strong> the Australian Federal Police is an independent agency of the Attorney-General’s Department; it, along with state and territorial police forces are responsible for internal security; the Australian Border Force is under the Department of Home Affairs <br>
+Australian Defense Force (ADF): Australian Army, Royal Australian Navy, Royal Australian Air Force (2024)<br>
+<strong>note 1: </strong>the Army includes a Special Operations Command, while the Navy includes a Naval Aviation Force<br><br><strong>note 2:</strong> the Australian Federal Police is an independent agency of the Attorney-General’s Department; it, along with state and territorial police forces are responsible for internal security; the Australian Border Force is under the Department of Home Affairs<br>
 
 **Military expenditures**<br>
 2% of GDP (2023 est.)<br>

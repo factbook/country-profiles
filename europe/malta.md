@@ -320,7 +320,7 @@ _chief of state_: President George VELLA (since 4 April 2019)<br>
 _head of government_: Prime Minister Robert ABELA (13 January 2020)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
 _elections/appointments_: president indirectly elected by the House of Representatives for a single 5-year term; election last held on 2 April 2019 (next to be held by April 2024); following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister<br>
-_election results_: <em><br>2019:</em> George VELLA (PL) elected president; House of Representatives vote - unanimous; <em>2020:</em> Robert ABELA (PL) appointed prime minister<br><em>2014:</em> Maria Louise Coleiro PRECO elected president; House of Representatives vote - unanimous<br>
+_election results_: <em><br>2020: </em>Robert ABELA (PL) appointed prime minister<em><br><br>2019:</em> George VELLA (PL) elected president; House of Representatives vote - unanimous<br><br><em>2014:</em> Maria Louise Coleiro PRECO elected president; House of Representatives vote - unanimous<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (65 seats statutory, 79 for 2022-2027 term; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
@@ -574,7 +574,7 @@ _Total energy consumption per capita 2019_: 267.739 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 259,439 (2021 est.)<br>
+_total subscriptions_: 259,120 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 49 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

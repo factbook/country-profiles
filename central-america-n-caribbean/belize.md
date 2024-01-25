@@ -317,10 +317,10 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General&nbsp; Froyla TZALAM (since 27 May 2021)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General Froyla TZALAM (since 27 May 2021)<br>
 _head of government_: Prime Minister Juan Antonio BRICENO (since 12 November 2020); Deputy Prime Minister Cordel HYDE (since 16 November 2020)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister from among members of the National Assembly<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general; prime minister recommends the deputy prime minister<br>
+_elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; prime minister recommends the deputy prime minister<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>Senate (14 seats, including the president); members appointed by the govenor-general - 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 1 each on the advice of the Belize Council of Churches and Evangelical Association of Churches, the Belize Chamber of Commerce and Industry and the Belize Better Business Bureau, non-governmental organizations in good standing, and the National Trade Union Congress and the Civil Society Steering Committee; Senate president elected from among the Senate members or from outside the Senate; members serve 5-year terms<br>House of Representatives (32 seats; 31 members directly elected in single-seat constituencies by simple majority vote and the speaker, who may be designated from outside the government; members serve 5-year terms)<br>

@@ -640,8 +640,8 @@ _major seaport(s)_: Djibouti<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Djibouti Armed Forces (Force Armée Djiboutienne or FAD): Army, Navy, Air Force; Djibouti Coast Guard<br><br>Ministry of Interior: National Gendarmerie, National Police (2023)<br>
-<strong>note:</strong> the National Police is responsible for security within Djibouti City and has primary control over immigration and customs procedures for all land border-crossing points, while the National Gendarmerie is responsible for all security outside of Djibouti City, as well as for protecting critical infrastructure within the city, such as the international airport<br>
+Djibouti Armed Forces (Forces Armées Djiboutiennes or FAD): Army, Navy, Air Force; Djibouti Coast Guard<br><br>Ministry of Interior: National Police (2024)<br>
+<strong>note:</strong> the National Police is responsible for security within Djibouti City and has primary control over immigration and customs procedures for all land border-crossing points, while the National Gendarmerie, which reports to the Ministry of Defense, is responsible for all security outside of Djibouti City, as well as for protecting critical infrastructure within the city, such as the international airport<br>
 
 **Military expenditures**<br>
 3.5% of GDP (2019 est.)<br>
@@ -657,7 +657,7 @@ approximately 10,000 active-duty military personnel; approximately 2,000 Gendarm
 the FAD's inventory includes mostly older French and Soviet-era weapons systems, although in recent years it has received limited amounts of more modern, but largely secondhand equipment from a variety of other countries, including China, the Netherlands, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; 16-25 years of age for voluntary military training; no conscription (2021)<br>
+18 years of age for voluntary military service for men and women; 16-25 years of age for voluntary military training; no conscription (2023)<br>
 
 **Military deployments**<br>
 approximately 960 Somalia (ATMIS; note - ATMIS troop contingents are drawing down towards a final exit in December 2024); Djibouti has about 200 police deployed to the Central African Republic under MINUSCA (2023)<br>
@@ -677,7 +677,7 @@ al-Shabaab<br>
 <p><em>Djibouti-Somalia:</em> Djibouti maintains economic ties and border accords with "Somaliland" leadership while maintaining some political ties to various factions in Somalia</p> <p><em>Djibouti-Eritrea:</em> in 2008, Eritrean troops moved across the border on Ras Doumera peninsula and occupied Doumera Island with undefined sovereignty in the Red Sea, sparking a brief conflict; Qatar mediated and provided peacekeepers until 2017; Djibouti accused Eritrea of reoccupying the area in 2017 after Qatari troops were withdrawn; Djibouti and Eritrea agreed to normalize relations in 2018</p> <p><em>Djibouti-Ethiopia:</em> the Ethiopia-Djibouti relationship has been relatively harmonious, and there have been no major disputes along their shared border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 13,434 (Somalia) (2023); 6,518 (Yemen) (mid-year 2022)<br>
+_refugees (country of origin)_: 13,452 (Somalia) (2023); 6,518 (Yemen) (mid-year 2022)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 3 &mdash; Djibouti does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Djibouti was downgraded to Tier 3; the government took some steps to address trafficking, including partnering with international organizations to establish a shelter and provide services to victims, and directing creation of a national coordinating body to combat trafficking; however, officials did not report investigating or prosecuting any cases and did not convict any traffickers for the sixth consecutive year; prosecutors dropped trafficking charges or reclassified cases as other crimes with lower penalties, and judges did not incorporate provisions from the 2016 anti-trafficking law; no victims were identified for the fourth consecutive year, and protection services remained limited; the government lacked coordinated anti-trafficking efforts and did not draft a new National Action Plan to replace the expired plan; some officials continued to deny the existence of sex and labor trafficking in Djibouti (2023)<br>

@@ -358,7 +358,7 @@ _chief of state_: President Dina Ercilia BOLUARTE Zegarra (since 7 December 2022
 _head of government_: President Dina Ercilia BOLUARTE Zegarra (since 7 December 2022); first vice president (vacant); second vice president (vacant)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 11 April 2021 with a runoff on 6 June 2021 (next to be held in April 2026)<br>
-_election results_: <br><em>2021: </em>Jose Pedro CASTILLO Terrones elected president in second round; percent of vote in first round - Jose Pedro CASTILLO Terrones (PL) 18.9%, Keiko Sofia FUJIMORI Higuchi (FP) 13.4%, Rafael LOPEZ ALIAGA Cazorla (RP) 11.8%, Hernando DE SOTO Polar (Social Integration Party) 11.6%, Yonhy LESCANO Ancieta (AP) 9.1%, Veronika MENDOZA Frisch (JP) 7.9%, Cesar ACUNA Peralta (APP) 6%, George FORSYTH Sommer (VN) 5.7%, Daniel Belizario URRESTI Elera (PP) 5.6%, other 10%; percent of vote second round - Jose Pedro CASTILLO Terrones (PL) 50.1%, Keiko Sofia FUJIMORI Higuchi (FP) 49.9%<br><br><em>2016:</em> Pedro Pablo KUCZYNSKI Godard elected president in second round; percent of vote in first round - Keiko FUJIMORI Higuchi (FP) 39.9%, Pedro Pablo KUCZYNSKI Godard (PPK) 21.1%, Veronika MENDOZA (FA) 18.7%, Alfredo BARNECHEA (AP) 7%, Alan GARCIA (APRA) 5.8%, other 7.5%; percent of vote in second round - Pedro Pablo KUCZYNSKI Godard 50.1%, Keiko FUJIMORI Higuchi 49.9%<br>
+_election results_: <br><em>2021: </em>Jose Pedro CASTILLO Terrones elected president in second round; percent of vote in first round - Jose Pedro CASTILLO Terrones (PL) 18.9%, Keiko Sofia FUJIMORI Higuchi (FP) 13.4%, Rafael LOPEZ ALIAGA Cazorla (RP) 11.8%, Hernando DE SOTO Polar (Social Integration Party) 11.6%, Yonhy LESCANO Ancieta (AP) 9.1%, Veronika MENDOZA Frisch (JP) 7.9%, Cesar ACUNA Peralta (APP) 6%, George FORSYTH Sommer (VN) 5.7%, Daniel Belizario URRESTI Elera (PP) 5.6%, other 10%; percent of vote second round - Jose Pedro CASTILLO Terrones 50.1%, Keiko Sofia FUJIMORI Higuchi 49.9%<br><br><em>2016:</em> Pedro Pablo KUCZYNSKI Godard elected president in second round; percent of vote in first round - Keiko FUJIMORI Higuchi (FP) 39.9%, Pedro Pablo KUCZYNSKI Godard (PPK) 21.1%, Veronika MENDOZA (FA) 18.7%, Alfredo BARNECHEA (AP) 7%, Alan GARCIA (APRA) 5.8%, other 7.5%; percent of vote in second round - Pedro Pablo KUCZYNSKI Godard 50.1%, Keiko FUJIMORI Higuchi 49.9%<br>
 <strong>note 1: </strong>First Vice President Dina Ercilia BOLUARTE Zegarra assumed the office of the president on 7 December 2022 after President Jose Pedro CASTILLO Terrones was impeached and arrested; BOLUARTE is the first woman to become president of Peru <br><br><strong>note 2:</strong> Prime Minister Alberto OTAROLA Penaranda (since 21 December 2022) does not exercise executive power; this power rests with the president<br>
 
 **Legislative branch**<br>
@@ -626,7 +626,7 @@ _Total energy consumption per capita 2019_: 36.465 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,266,025 (2021 est.)<br>
+_total subscriptions_: 1,797,709 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 7 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

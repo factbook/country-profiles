@@ -365,7 +365,7 @@ _chief of state_: President SAHLE-WORK Zewde (since 25 October 2018)<br>
 _head of government_: Prime Minister ABIY Ahmed Ali (since April 2018); Deputy Prime Minister and Minister of Foreign Affairs DEMEKE Mekonnen Hassen (since 29 November 2012)<br>
 _cabinet_: Council of Ministers selected by the prime minister and approved by the House of People's Representatives<br>
 _elections/appointments_: president indirectly elected by both chambers of Parliament for a 6-year term (eligible for a second term); election held on 21 June 2021 and 30 September 2021 (the scheduled 29 August 2020 election was postponed by Prime Minister ABIY due to the COVID-19 pandemic); prime minister designated by the majority party following legislative elections<br>
-_election results_: <em><br>2021</em>: SAHLE-WORK Zewde elected president during joint session of Parliament, vote - 659 (unanimous); ABIY confirmed Prime Minister by House of Peoples' Representatives (4 October 2021)<br><br><em>2018</em>: SAHLE-WORK Zewde elected president during joint session of Parliament, vote - 659 (unanimous); note - snap election held on 25 October 2018 due to resignation of President MULATA Teshome<br>
+_election results_: <em><br>2021</em>: SAHLE-WORK Zewde reelected president during joint session of Parliament, vote - 659 (unanimous); ABIY confirmed Prime Minister by House of Peoples' Representatives (4 October 2021)<br><br><em>2018</em>: SAHLE-WORK Zewde elected president during joint session of Parliament, vote - 659 (unanimous); note - snap election held on 25 October 2018 due to resignation of President MULATA Teshome<br>
 <strong>note:</strong> SAHLE-WORK Zewde is the first female elected head of state in Ethiopia; she is currently the only female president in Africa.<br>
 
 **Legislative branch**<br>
@@ -633,7 +633,7 @@ _Total energy consumption per capita 2019_: 3.219 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 890,000 (2021 est.)<br>
+_total subscriptions_: 862,157 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
@@ -700,14 +700,14 @@ Ethiopia is landlocked and uses the ports of Djibouti in Djibouti and Berbera in
 
 **Military and security forces**<br>
 Ethiopian National Defense Force (ENDF): Ground Forces, Ethiopian Air Force (Ye Ityopya Ayer Hayl, ETAF) (2023)<br>
-<strong>note 1: </strong>national and regional police forces are responsible for law enforcement and maintenance of order, with the ENDF sometimes providing internal security support; the Ethiopian Federal Police (EFP) report to the Prime Minister’s Office<br><br><strong>note 2:</strong> the regional governments control regional security forces, including "special" paramilitary forces, which generally operate independently from the federal government and in some cases operate as regional defense forces maintaining national borders; local militias also operate across the country in loose and varying coordination with these regional security and police forces, the ENDF, and the EFP; in April 2023, the federal government ordered the integration of these regional special forces into the EFP or ENDF<br><br><strong>note 3:</strong> in 2020 the Ethiopian Government announced it had re-established a navy, which had been disbanded in 1996; in March 2019, Ethiopia signed a defense cooperation agreement with France which stipulated that France would support the establishment of an Ethiopian navy, which would reportedly be based out of Djibouti; in 2018, Ethiopia established a Republican Guard military unit responsible to the Prime Minister for protecting senior officials<br><br><br><br>
+<strong>note 1: </strong>national and regional police forces are responsible for law enforcement and maintenance of order, with the ENDF sometimes providing internal security support; the Ethiopian Federal Police (EFP) report to the Prime Minister’s Office<br><br><strong>note 2:</strong> the regional governments control regional security forces, including "special" paramilitary forces, which generally operate independently from the federal government and in some cases operate as regional defense forces maintaining national borders; local militias also operate across the country in loose and varying coordination with these regional security and police forces, the ENDF, and the EFP; in April 2023, the federal government ordered the integration of these regional special forces into the EFP or ENDF; in some cases, the regional governments have maintained former members of the special forces for “crowd control/Adma Bitena” as a separate unit within their security structures<br><br><strong>note 3:</strong> in 2020 the Ethiopian Government announced it had re-established a navy, which had been disbanded in 1996; in March 2019, Ethiopia signed a defense cooperation agreement with France which stipulated that France would support the establishment of an Ethiopian navy, which would reportedly be based out of Djibouti; in 2018, Ethiopia established a Republican Guard military unit responsible to the Prime Minister for protecting senior officials<br><br><br><br>
 
 **Military expenditures**<br>
+0.6% of GDP (2023 est.)<br>
 1.7% of GDP (2022 est.)<br>
 0.5% of GDP (2021 est.)<br>
 0.5% of GDP (2020 est.)<br>
 0.6% of GDP (2019 est.)<br>
-0.6% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; prior to the 2020-2022 Tigray conflict, approximately 150,000 active-duty troops (2023)<br>
@@ -745,7 +745,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Ethiopia-Eritrea:</em> Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement<br><br><em>Ethiopia-Somalia:</em> the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden (populated largely by ethnic Somalis) and southern Somalia's Oromo region; the Somalia-based terrorist group al-Shabaab has conducted cross-border assaults into Ethiopia as recently as 2022 <br><br><em>Ethiopia-South Sudan: </em>while border clashes continue in the al-Fashqa (Fashaga) area, the US views the 1902 boundary treaty between Ethiopia and Sudan as being in force<br><br><em>Ethiopia-Sudan:</em> Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile in northern Ethiopia since 2011 has become a focal point of relations with Egypt and Sudan; Egypt has described the giant hydroelectric project as an existential threat because of its potential to control the flow of the river that is a key source of water for the country; Ethiopia completed filling the dam in 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 418,749 (South Sudan), 309,581 (Somalia), 167,391 (Eritrea), 25,463 (Sudan) (refugees since 15 April 2023) (2023)<br>
+_refugees (country of origin)_: 419,304 (South Sudan), 311,512 (Somalia), 167,391 (Eritrea), 25,463 (Sudan) (refugees since 15 April 2023) (2023)<br>
 _IDPs_: 4.385 million (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2023)<br>
 
 **Illicit drugs**<br>

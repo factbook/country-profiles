@@ -318,11 +318,11 @@ _residency requirement for naturalization_: unknown<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Mohamed MUIZZI (sworn in 17 November 2023); Vice President-elect Hussain Mohamed LATHEEF (since 30 September 2023); the president is both chief of state and head of government; inauguration scheduled for 17 November 2023<br>
-_head of government_: President Mohamed MUIZZI ((sworn in 17 November 2023); Vice President-elect Hussain Mohamed LATHEEF (since 30 September 2023)<br>
+_chief of state_: President Mohamed MUIZZI (since 17 November 2023); Vice President-elect Hussain Mohamed LATHEEF (since 30 September 2023); the president is both chief of state and head of government<br>
+_head of government_: President Mohamed MUIZZI (since 17 November 2023); Vice President-elect Hussain Mohamed LATHEEF (since 30 September 2023)<br>
 _cabinet_: Cabinet of Ministers appointed by the president, approved by Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); first round held on 9 September 2023 and runoff held on 30 September 2023 (next to be held in 2028)<br>
-_election results_: <em><br>2023:</em> first round results - Mohamed MUIZZI 46.1%, Ibrahim Mohamed SOLIH 39.1%, Ilyas LEBEEB 7.1%, other 7.7%; Mohamed MUZZI elected president in second round; Mohamed MUZZI (PNC) 54%, Ibrahim Mohamed SOLIH (MDP) 46%<br><br><em>2018</em>: Ibrahim Mohamed SOLIH elected president in first round; Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%<br>
+_election results_: <em><br>2023:</em> Mohamed MUIZZI elected president in the second round; percent of vote in first round - Mohamed MUIZZI (PNC) 46.1%, Ibrahim Mohamed SOLIH (MDP) 39.1%, Ilyas LABEEB (DEMS) 7.1%, other 7.7%; percent of vote in the second round - Mohamed MUZZI 54%, Ibrahim Mohamed SOLIH 46%<br><br><em>2018</em>: Ibrahim Mohamed SOLIH elected president in first round; Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or People's Majlis (87 seats - includes 2 seats added by the Elections Commission in late 2018; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>

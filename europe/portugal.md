@@ -324,7 +324,7 @@ _chief of state_: President Marcelo REBELO DE SOUSA (since 9 March 2016)<br>
 _head of government_: Prime Minister Antonio Luis Santos da COSTA (since 24 November 2015; resigned on 7 November 2023 but remains in caretaker status until new elections on 10 March 2024)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2021 (next to be held on 10 March 2024); following legislative elections the leader of the majority party or majority coalition is usually appointed prime minister by the president<br>
-_election results_: <br><em>2021:</em> Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (ran as an independent but is a member of PS) 13%, Andre VENTURA (CH) 11.9%, João FERREIRA (PCP-PEV) 4.3%, other 10.1%<br><br><em>2016:</em> Marcelo REBELO DE SOUSA elected president; percent of vote - Marcelo REBELO DE SOUSA (PSD) 52%, António SAMPAIO DA NOVOA (independent) 22.9%, Marisa MATIAS (BE) 10.1%, Maria DE BELEM ROSEIRA (PS) 4.2%, other 10.8% <p> </p><br>
+_election results_: <br><em>2021:</em> Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (ran as an independent but is a member of PS) 13%, Andre VENTURA (CH) 11.9%, João FERREIRA (PCP-PEV) 4.3%, other 10.1%<br><br><em>2016:</em> Marcelo REBELO DE SOUSA elected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 52%, António SAMPAIO DA NOVOA (independent) 22.9%, Marisa MATIAS (BE) 10.1%, Maria DE BELEM ROSEIRA (PS) 4.2%, other 10.8% <p> </p><br>
 <strong>note:</strong> there is also a Council of State that acts as a consultative body to the president<br>
 
 **Legislative branch**<br>
@@ -587,7 +587,7 @@ _Total energy consumption per capita 2019_: 101.734 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,318,750 (2021 est.)<br>
+_total subscriptions_: 5,437,049 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 52 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

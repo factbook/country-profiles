@@ -353,12 +353,12 @@ _chief of state_: President Joko "Jokowi" WIDODO (since 20 October 2014); Vice P
 _head of government_: President Joko "Jokowi" WIDODO (since 20 October 2014); Vice President Ma'ruf AMIN (since 20 October 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on 17 April 2019 (next to be held on 14 February 2024)<br>
-_election results_: <em><br>2019</em>: Joko WIDODO elected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%<br><br><em>2014</em>: Joko WIDODO elected president; percent of vote - Joko WIDODO (PDI-P) 53.15%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 46.85%<br>
+_election results_: <em><br>2019</em>: Joko WIDODO reelected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%<br><br><em>2014</em>: Joko WIDODO elected president; percent of vote - Joko WIDODO (PDI-P) 53.15%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 46.85%<br>
 
 **Legislative branch**<br>
 _description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br>House of Representatives or Dewan Perwakilan Rakyat (575 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms)<br>
 _elections_: Regional Representative Council - last held on 17 April 2019 (next to be held in February 2024)<br>House of Representatives - last held on 17 April 2019 (next to be held 14 February 2024)<br>
-_election results_: Regional Representative Council - all seats elected on a non-partisan basis; composition - men 102, women 34, percent of women 25%<br>House of Representatives - percent of vote by party - PDI-P 19.3%, Gerindra 12.6%, Golkar 12.3%, PKB 9.7%, Nasdem 9.1%, PKS 8.2%, PD 7.8%, PAN 6.8%, PPP 4.5%, other 9.6%; seats by party - PDI-P 128, Golkar 85, Gerindra 78, Nasdem 59, PKB 58, PD 54, PKS 50, PAN 44, PPP 19; composition - men 449, women 126, percent of women 21.9%; total People's Consultative Assembly percent of women 22.5%<br>
+_election results_: Regional Representative Council - all seats elected on a non-partisan basis; composition - men 102, women 34, percent of women 25%<br>House of Representatives - percent of vote by party - PDI-P 19.3%, Gerindra 12.6%, Golkar 12.3%, PKB 9.7%, Nasdem 9.1%, PKS 8.2%, PD 7.8%, PAN 6.8%, PPP 4.5%, other 9.6%; seats by party - PDI-P 128, Golkar 85, Gerindra 78, Nasdem 59, PKB 58, PD 54, PKS 50, PAN 44, PPP 19; composition - men 454, women 124, percent of women 21.5%; total People's Consultative Assembly percent of women 22.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Mahkamah Agung (51 judges divided into 8 chambers); Constitutional Court or Mahkamah Konstitusi (consists of 9 judges)<br>
@@ -620,7 +620,7 @@ _Total energy consumption per capita 2019_: 29.68 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 8,998,814 (2021 est.)<br>
+_total subscriptions_: 8,423,990 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 3 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

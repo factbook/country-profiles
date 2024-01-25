@@ -347,8 +347,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017); Vice President Mahamudu BAWUMIA (since 7 January 2017); the president is both chief of state and head of government<br>
 _head of government_: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017); Vice President Mahamudu BAWUMIA (since 7 January 2017)<br>
 _cabinet_: Council of Ministers; nominated by the president, approved by Parliament<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 7 December 2020 (next to be held in December 2024)<br>
-_election results_: Nana Addo Dankwa AKUFO-ADDO reelected president in the first round; percent of vote - Nana Addo Dankwa AKUFO-ADDO (NPP) 51.3%, John Dramani MAHAMA (NDC) 47.4%, other 1.3% (2020)<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 7 December 2020 (next to be held on 7 December 2024)<br>
+_election results_: <em>2020:</em> Nana Addo Dankwa AKUFO-ADDO reelected president in the first round; percent of vote - Nana Addo Dankwa AKUFO-ADDO (NPP) 51.3%, John Dramani MAHAMA (NDC) 47.4%, other 1.3% (2020)<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (275 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
@@ -684,7 +684,7 @@ _major seaport(s)_: Takoradi, Tema<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ghana Armed Forces: Army, Navy, Air Force (2023)<br>
+Ghana Armed Forces: Army, Navy, Air Force (2024)<br>
 <strong>note:</strong> the Ghana Police Service is under the Ministry of the Interior<br>
 
 **Military expenditures**<br>

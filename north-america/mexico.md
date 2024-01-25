@@ -360,12 +360,12 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Andr&eacute;s Manuel L&Oacute;PEZ OBRADOR (since 1 December 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Andr&eacute;s Manuel L&Oacute;PEZ OBRADOR (since 1 December 2018)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a single 6-year term; election last held on 1 July 2018 (next to be held in July 2024)<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a single 6-year term; election last held on 1 July 2018 (next to be held on 2 June 2024)<br>
 _election results_: <br><em>2018:</em> Andrés Manuel LÓPEZ OBRADOR elected president; percent of vote - Andrés Manuel LÓPEZ OBRADOR (MORENA) 53.2%, Ricardo ANAYA Cortés (PAN) 22.3%, José Antonio MEADE Kuribreña (PRI) 16.4%, Jaime RODRÍGUEZ Calderón 5.2% (independent), other 2.9%<br><br><em>2012:</em> Enrique PEÑA NIETO elected president; percent of vote - Enrique PEÑA NIETO (PRI) 38.2%, Andrés Manuel LÓPEZ OBRADOR (PRD) 31.6%, Josefina Eugenia VÁZQUEZ Mota (PAN) 25.4%, other 4.8%<br>
 
 **Legislative branch**<br>
 _description_: <p>bicameral National Congress or Congreso de la Unión consists of:<br>Senate or Cámara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms)<br><br>Chamber of Deputies or Cámara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)</p><br>
-_elections_: <br>Senate - last held on 1 July 2018 (next to be held in July 2024)<br><br>Chamber of Deputies - last held on 6 June 2021 (next to be held in July 2024)<br>
+_elections_: <br>Senate - last held on 1 July 2018 (next to be held in July 2024)<br><br>Chamber of Deputies - last held on 6 June 2021 (next to be held on 2 June 2024)<br>
 _election results_: <p><br>Senate - percent of vote by party - percent of vote by party - NA; seats by party - MORENA 58, PAN 22, PRI 14, PRD 9, MC 7, PT 7, PES 5, PVEM 5, PNA/PANAL 1; composition (as of July 2018) - men 65, women 63, percent of women 49.2%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - MORENA 197, PAN 111, PRI 69, PVEM 44, PT 38, MC 25, PRD 16; composition - men 250, women 250, percent of women 50%; note - overall percent of women in National Congress 49.8%</p><br>
 <strong>note: </strong>as of the 2018 election, senators will be eligible for a second term and deputies up to 4 consecutive terms<br>
 

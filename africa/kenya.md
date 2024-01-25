@@ -611,7 +611,7 @@ _Total energy consumption per capita 2019_: 6.31 million Btu/person (2019 est.)<
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 61,096 (2021 est.)<br>
+_total subscriptions_: 63,107 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
@@ -686,7 +686,7 @@ _LNG terminal(s) (import)_: Mombasa<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Kenya Defense Forces (KDF): Kenya Army, Kenya Navy, Kenya Air Force (2023)<br>
+Kenya Defense Forces (KDF): Kenya Army, Kenya Navy, Kenya Air Force (2024)<br>
 <strong>note 1:</strong> the National Police Service maintains internal security and reports to the Ministry of Interior and Coordination of National Government; it includes a paramilitary General Service Unit and Rapid Deployment Unit<br><br><strong>note 2:</strong> the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies<br>
 
 **Military expenditures**<br>
@@ -703,10 +703,10 @@ approximately 24,000 personnel (20,000 Army; 1,500 Navy; 2,500 Air Force) (2023)
 the KDF's inventory traditionally carried mostly older or second-hand Western weapons systems, particularly from France, the UK, and the US; however, since the 2000s it has sought to modernize and diversify its imports, and suppliers have included several countries including China, Italy, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-no conscription; 18-26 years of age for voluntary service for men and women (under 18 with parental consent; upper limit 30 years of age for specialists, tradesmen, or women with a diploma; 39 years of age for chaplains/imams); 9-year service obligation (7 years for Kenyan Navy) and subsequent 3-year re-enlistments; applicants must be Kenyan citizens (2023)<br>
+no conscription; 18-26 years of age for voluntary service for men and women (under 18 with parental consent; upper limit 30 years of age for specialists, tradesmen, or women with a diploma; 39 years of age for chaplains/imams); 9-year service obligation (7 years for Kenyan Navy) and subsequent 3-year re-enlistments; applicants must be Kenyan citizens (2024)<br>
 
 **Military deployments**<br>
-260 Democratic Republic of the Congo (MONUSCO); up to 3,600 troops deployed in Somalia under ATMIS (note - ATMIS troop contingents are drawing down towards a final exit in December 2024) (2023)<br>
+260 Democratic Republic of the Congo (MONUSCO); more than 3,000 troops deployed in Somalia under ATMIS (note - ATMIS troop contingents are drawing down towards a final exit in December 2024) (2023)<br>
 <strong>note:</strong> in November 2022, Kenya sent approximately 1,000 troops to the eastern part of the Democratic Republic of the Congo (DRC) as part of a newly formed East Africa Community Regional Force (EACRF) to assist the DRC military against the rebel group M23; the force is led by Kenya<br>
 
 **Military - note**<br>
@@ -736,7 +736,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <p><em>Kenya-Ethiopia</em>: their border was demarcated in the 1950s and approved in 1970; in 2012, Kenya and Ethiopia agreed to redemarcate their boundary following disputes over beacons and cross-border crime</p> <p><em>Kenya-Somalia</em>: the Somali-based terrorist group al-Shabaab has infiltrated the border and conducted attacks in Kenya; clan and militia fighting amongst ethnic Somali peoples separated by the Kenya-Somali border has periodically threatened to spread across the border, which has long been open to nomadic pastoralists; in 2021, the International Court of Justice (ICJ) gave Somalia control over a disputed ocean area where the seabeds are believed to hold vasts oil and gas deposits; the ICJ ruling gave Somalia the rights to several offshore oil exploration blocks previously claimed by Kenya; Kenya did not recognize the court’s decision</p> <p><em>Kenya-South Sudan</em>: two thirds of the boundary that separates Kenya and South Sudan's sovereignty known as the Ilemi Triangle has been unclear since British colonial times; Kenya has administered the area since colonial times; officials from Kenya and South Sudan signed a memorandum of understanding on boundary delimitation and demarcation and agreed to set up a joint committee which launched in 2023</p> <p><em>Kenya-Tanzania</em>: maintain good relations and have no border disputes; in 2021 began a joint process to complete a modern, re-demarcation of the border</p> <p><em>Kenya-Uganda:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Kenya and Uganda have a small, managed dispute over the small Migingo Island in Lake Victoria, although Kenya has had de facto control since 1926; the dispute has centered on the surrounding waters surrounding the island, which are known for fishing</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 290,635 (Somalia), 170,292 (South Sudan), 58,824 (Democratic Republic of the Congo), 21,847 (Ethiopia), 8,392 (Burundi), 5,756 (Sudan) (2023)<br>
+_refugees (country of origin)_: 290,635 (Somalia), 170,292 (South Sudan), 35,975 (Democratic Republic of the Congo), 21,847 (Ethiopia), 8,392 (Burundi), 5,756 (Sudan) (2023)<br>
 _IDPs_: 30,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2022)<br>
 _stateless persons_: 16,779 (2022); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

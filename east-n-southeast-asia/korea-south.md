@@ -324,7 +324,7 @@ _chief of state_: President YOON Suk Yeol (since 10 May 2022); the president is 
 _head of government_: President YOON Suk Yeol (since 10 May 2022)<br>
 _cabinet_: State Council appointed by the president on the prime minister's recommendation<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 March 2022 (next to be held in March 2027); prime minister appointed by president with consent of the National Assembly<br>
-_election results_: <em><br>2022</em>: YOON Suk-yeol elected president; YOON Suk-yeol (PPP) 48.56%, LEE Jae-myung (DP) 47.83%<br><br><em>2017</em>: MOON Jae-in elected president; MOON Jae-in (DP) 41.09%, HONG Joon-pyo (Liberty Korea Party) 24.04%, AHN Cheol-soo (PP) 21.42%<br>
+_election results_: <em><br>2022</em>: YOON Suk-yeol elected president; YOON Suk-yeol (PPP) 48.6%, LEE Jae-myung (DP) 47.8%<br><br><em>2017</em>: MOON Jae-in elected president; MOON Jae-in (DP) 41.1%, HONG Joon-pyo (Liberty Korea Party) 24%, AHN Cheol-soo (PP) 21.4%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Gukhoe (300 seats statutory, current 295; 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>

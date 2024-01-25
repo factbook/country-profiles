@@ -359,7 +359,7 @@ _chief of state_: President Paul BIYA (since 6 November 1982)<br>
 _head of government_: Prime Minister Joseph Dion NGUTE (since 4 January 2019)<br>
 _cabinet_: Cabinet proposed by the prime minister, appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (no term limits); election last held on 7 October 2018 (next to be held in October 2025); prime minister appointed by the president<br>
-_election results_: Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2% (2018)<br>
+_election results_: <em>2018:</em> Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2% (2018)<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br>National Assembly or Assemblee Nationale (180 seats; members directly elected in 49 single and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
@@ -699,19 +699,19 @@ Garoua (Benoue)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre), Navy (Marine Nationale Republique, MNR, includes naval infantry or fusiliers marin), Air Force (Armee de l'Air du Cameroun, AAC), Rapid Intervention Battalion (Bataillons d’Intervention Rapide or BIR), National Gendarmerie, Presidential Guard (2023)<br>
-<strong>note 1:</strong> the National Police and the National Gendarmerie are responsible for internal security; the Police report to the General Delegation of National Security, while the Gendarmerie reports to the Secretariat of State for Defense in charge of the Gendarmerie<br><br><strong>note 2:</strong> the Rapid Intervention Battalion (BIR), while part of the Ministry of Defense, maintains its own command and control structure that reports directly to the Presidency; the BIR is structured as a large brigade with up to 9 battalions, detachments, or groups consisting of infantry, airborne/airmobile, amphibious, armored reconnaissance, counterterrorism, and support elements, such as artillery and intelligence; the BIR receives better training, equipment, and pay than regular Army units.<br>
+Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre), Navy (Marine Nationale Republique, MNR, includes naval infantry or fusiliers marin), Air Force (Armee de l'Air du Cameroun, AAC), Rapid Intervention Battalion (Bataillons d’Intervention Rapide or BIR), National Gendarmerie, Presidential Guard (2024)<br>
+<strong>note 1:</strong> the National Police and the National Gendarmerie are responsible for internal security; the Police report to the General Delegation of National Security, while the Gendarmerie reports to the Secretariat of State for Defense in charge of the Gendarmerie<br><br><strong>note 2:</strong> the Rapid Intervention Battalion (BIR), while part of the Ministry of Defense, maintains its own command and control structure and reports directly to the Presidency; the BIR is structured as a large brigade with up to 9 battalions, detachments, or groups consisting of infantry, airborne/airmobile, amphibious, armored reconnaissance, counterterrorism, and support elements, such as artillery and intelligence<br>
 
 **Military expenditures**<br>
+1% of GDP (2023 est.)<br>
 1% of GDP (2022 est.)<br>
 1% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
 1.4% of GDP (2019 est.)<br>
-1.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 45-50,000 active-duty troops (30-35,000 ground forces, including the Rapid Intervention Battalion/BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 12,000 Gendarmerie) (2023)<br>
-<strong>note: </strong>the BIR has approximately 12,000 personnel<br>
+information varies; approximately 45-50,000 active-duty troops (30-35,000 ground forces, including the Rapid Intervention Battalion/BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 10,000 Gendarmerie) (2023)<br>
+<strong>note: </strong>the BIR has approximately 10,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Russian, and Western equipment, with a limited quantity of more modern weapons received in recent years from such countries as China, France, and Russia (2023)<br>
@@ -738,6 +738,6 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p><em>Cameroon-Central African Republic</em>: Cameroon has deployed military troops to the border to counter intrusions from armed militias and bandits<br> <br><em>Cameroon-Nigeria:</em> Nigeria recognized Cameroon's sovereignty over the Bakassi Peninsula in 2006 and in completed the transfer of administration in 2013, although there are occasional, mostly local disputes in the area; the the majority of the land boundary was demarcated by 2019 with UN assistance, although there are few disagreements on the precise location of the boundary; the porous border is susceptible to crossings by the Boko Haram and Islamic State of Iraq and ash-Sham - West Africa terrorist groups, both of which operate in Northern Nigeria <br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 353,701 (Central African Republic), 120,677 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 359,134 (Central African Republic), 120,839 (Nigeria) (2023)<br>
 _IDPs_: 1.066 million (2023) (includes far north, northwest, and southwest)<br>
 

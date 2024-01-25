@@ -291,7 +291,7 @@ Founding of the Democratic People's Republic of Korea (DPRK), 9 September (1948)
 
 **Constitution**<br>
 _history_: previous 1948, 1972; latest adopted 1998 (during KIM Jong-il era)<br>
-_amendments_: proposed by the Supreme People&rsquo;s Assembly (SPA); passage requires more than two-thirds majority vote of the total SPA membership; revised several times, last in 2019<br>
+_amendments_: proposed by the Supreme People&rsquo;s Assembly (SPA); passage requires more than two-thirds majority vote of the total SPA membership; revised several times, last in 2023<br>
 
 **Legal system**<br>
 civil law system based on the Prussian model; system influenced by Japanese traditions and Communist legal theory<br>
@@ -313,7 +313,7 @@ _chief of state_: State Affairs Commission President KIM Jong Un (since 17 Decem
 _head of government_: Supreme People's Assembly President CHOE Ryong Hae (since 11 April 2019); note - functions as the technical head of state and performs related duties, such as receiving ambassadors' credentials<br>
 _cabinet_: Cabinet or Naegak members appointed by the Supreme People's Assembly except the Minister of People's Armed Forces<br>
 _elections/appointments_: chief of state and premier indirectly elected by the Supreme People's Assembly; election last held on 10 March 2019 (next to be held in March 2024)<br>
-_election results_: KIM Jong Un reelected unopposed<br>
+_election results_: <em>2019:</em> KIM Jong Un reelected unopposed<br>
 <strong>note 1:</strong> KIM Jong Un's titles include general secretary of the Workers' Party of Korea (KWP), chairman of the KWP Central Military Commission, president of the State Affairs Commission, and supreme commander of the Korean People's Army<br>
 
 **Legislative branch**<br>

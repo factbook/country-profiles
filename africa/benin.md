@@ -343,7 +343,7 @@ _chief of state_: President Patrice TALON (since 6 April 2016); note - the presi
 _head of government_: President Patrice TALON (since 6 April 2016); prime minister position abolished<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 11 April 2021 (next to be held on 12 April 2026)<br>
-_election results_: <br><em>2021:</em> Patrice TALON elected to a second term; percent of vote - Patrice TALON (independent) 86.4%, Alassane SOUMANOU (FCBE) 11.3%, other 2.3%<br><br><em>2016:</em> Patrice TALON elected president in second round; percent of vote in first round - Lionel ZINSOU (FCBE) 28.4%, Patrice TALON (independent) 24.8%, Sebastien AJAVON (independent) 23.%, Abdoulaye Bio TCHANE (ABT) 8.8%, Pascal KOUPAKI (NC) 5.9%, other 9.1%; percent of vote in second round - Patrice TALON 65.4%, Lionel ZINSOU 34.6%<br>
+_election results_: <br><em>2021:</em> Patrice TALON reelected president in the ; percent of vote - Patrice TALON (independent) 86.3%, Alassane SOUMANOU (FCBE) 11.4%, Corentin KOHOUE (The Democrats) 2.3%<br><br><em>2016:</em> Patrice TALON elected president in second round; percent of vote in first round - Lionel ZINSOU (FCBE) 28.4%, Patrice TALON (independent) 24.8%, Sebastien AJAVON (independent) 23%, Abdoulaye Bio TCHANE (ABT) 8.8%, Pascal KOUPAKI (NC) 5.9%, other 9.1%; percent of vote in second round - Patrice TALON 65.4%, Lionel ZINSOU 34.6%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (109 seats, including 24 seats reserved for women; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms except for the current members whose terms will end in 2026 to facilitate general elections)<br>
@@ -356,7 +356,7 @@ _judge selection and term of office_: Supreme Court president and judges appoint
 _subordinate courts_: Court of Appeal or Cour d'Appel; district courts; village courts; Assize courts<br>
 
 **Political parties and leaders**<br>
-African Movement for Development and Progress or MADEP [Sefou FAGBOHOUN]<br>Benin Renaissance or RB [Lehady SOGLO]<br>Cowrie Force for an Emerging Benin or FCBE [Thomas Boni YAYI]<br>Democratic Renewal Party or PRD [Adrien HOUNGBEDJI]<br>United Dynamics for Development and Democracy or AND [Valentin Aditi HOUDE]<br>Progressive Union for Renewal [Joseph DJOGBENOU]<br>Republican Bloc [Abdoulaye B<br>IO TCHANE]<br>Sun Alliance or AS [Sacca LAFIA]<br>The Democrats [Eric HOUNDETE]<br>Union Makes the Nation or UN [Adrien HOUNGBEDJI] (includes PRD, MADEP)<br>
+African Movement for Development and Progress or MADEP [Sefou FAGBOHOUN]<br>Benin Renaissance or RB [Lehady SOGLO]<br>Cowrie Force for an Emerging Benin or FCBE [Thomas Boni YAYI]<br>Democratic Renewal Party or PRD [Adrien HOUNGBEDJI]<br>Progressive Union for Renewal [Joseph DJOGBENOU]<br>Republican Bloc [Abdoulaye BIO TCHANE]<br>Sun Alliance or AS [Sacca LAFIA]<br>The Democrats [Eric HOUNDETE]<br>Union Makes the Nation or UN [Adrien HOUNGBEDJI] (includes PRD, MADEP)<br>
 <strong>note:</strong> approximately 20 additional minor parties<br>
 
 **International organization participation**<br>

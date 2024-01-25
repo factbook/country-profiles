@@ -324,11 +324,11 @@ _residency requirement for naturalization_: 10 years<br>
 17 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Jos&eacute; RAMOS-HORTA (since May 2022); note - the president is commander in chief of the military and can veto legislation, dissolve parliament, and call national elections<br>
+_chief of state_: President Jos&eacute; RAMOS-HORTA (since 20 May 2022); note - the president is commander in chief of the military and can veto legislation, dissolve parliament, and call national elections<br>
 _head of government_: Prime Minister Kay Rala Xanana GUSMAO (since 1 July 2023)<br>
 _cabinet_: Council of Ministers; ministers proposed to the prime minister by the coalition in the Parliament and sworn in by the President of the Republic<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last election held in April 2022 (next election to be held April 2027); following parliamentary elections, the president appoints the leader of the majority party or majority coalition as the prime minister<br>
-_election results_: <br><em>2022</em>: José RAMOS-HORTA elected president in a runoff - RAMOS-HORTA (CNRT) 62.1%, Francisco GUTERRES (FRETILIN) 37.9%<br><br><em>2017</em>: Francisco GUTERRES (FRETILIN) 57.1%, António da CONCEICAO (PD) 32.46%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last election held on 19 March 2022 with a runoff on 19 April 2022 (next to be held in April 2027); following parliamentary elections, the president appoints the leader of the majority party or majority coalition as the prime minister<br>
+_election results_: <br><em>2022</em>: José RAMOS-HORTA elected president in second round - RAMOS-HORTA (CNRT) 62.1%, Francisco GUTERRES (FRETILIN) 37.9%<br><br><em>2017</em>: Francisco GUTERRES elected president; Francisco GUTERRES (FRETILIN) 57.1%, António da CONCEICAO (PD) 32.5%, other 10.4%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by closed, party-list proportional representation vote using the D'Hondt method to serve 5-year terms)<br>
@@ -640,7 +640,7 @@ _major seaport(s)_: Dili<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Joint Headquarters with Land, Air, Naval, Service Support, and Education/Training components<br><br>Ministry of Interior: National Police (Polícia Nacional de Timor-Leste, PNTL) (2023)<br>
+Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Joint Headquarters with Land, Air, Naval, Service Support, and Education/Training components<br><br>Ministry of Interior: National Police (Polícia Nacional de Timor-Leste, PNTL) (2024)<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2022 est.)<br>

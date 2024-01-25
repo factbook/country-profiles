@@ -352,7 +352,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Abdelfattah ELSISI (since 8 June 2014)<br>
 _head of government_: Prime Minister Mostafa MADBOULY (since 7 June 2018)<br>
 _cabinet_: Cabinet ministers nominated by the executive branch and approved by the House of Representatives<br>
-_elections/appointments_: president elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for 3 consecutive terms); election last held on 26-28 March 2018 (next to be held 10 to 12 December 2023); prime minister appointed by the president, approved by the House of Representatives; note - following a constitutional amendment approved by referendum in April 2019, the presidential term was extended from 4 to 6 years and eligibility extended to 3 consecutive terms<br>
+_elections/appointments_: president elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for 3 consecutive terms); election last held on 26 to 28 March 2018 (next to be held 10 to 12 December 2023); prime minister appointed by the president, approved by the House of Representatives; note - following a constitutional amendment approved by referendum in April 2019, the presidential term was extended from 4 to 6 years and eligibility extended to 3 consecutive terms<br>
 _election results_: Abdelfattah ELSISI reelected president in first round; percent of valid votes cast - Abdelfattah ELSISI (independent) 97.1%, Moussa Mostafa MOUSSA (El Ghad Party) 2.9%; note - more than 7% of ballots cast were deemed invalid<br>
 
 **Legislative branch**<br>
@@ -757,7 +757,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); 
 <em>Egypt-Gaza Strip:</em> constructed a barrier and established a buffer zone on its border with Gaza to halt the passage of weapons and militants through cross-border smuggling tunnels and pressure the Palestinian HAMAS terrorist group that runs the Gaza Strip<br><br><em>Egypt-Ethiopia</em>: Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile in northern Ethiopia since 2011 has become a focal point of relations with Egypt and Sudan; Egypt has described the giant hydroelectric project as an existential threat because of its potential to control the flow of the river that is a key source of water for the country; Ethiopia completed filling the dam in 2023<br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 310,000 (Sudan) (refugees since 15 April 2023), 152,973 (Syria) (2023)<br>
+_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 310,000 (Sudan) (refugees since 15 April 2023), 153,756 (Syria) (2023)<br>
 _stateless persons_: 10 (2022)<br>
 
 **Trafficking in persons**<br>

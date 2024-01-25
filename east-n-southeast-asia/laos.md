@@ -307,7 +307,7 @@ _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time
 _etymology_: the meaning in Pali, a Buddhist liturgical language, is "city of sandalwood"<br>
 
 **Administrative divisions**<br>
-17 provinces (khoueng, singular and plural) and 1 prefecture* (kampheng nakhon); Attapu, Bokeo, Bolikhamxai, Champasak, Houaphan, Khammouan, Louangnamtha, Louangphabang (Luang Prabang), Oudomxai, Phongsali, Salavan, Savannakhet, Viangchan (Vientiane)*, Viangchan, Xaignabouli, Xaisomboun, Xekong, Xiangkhouang<br>
+17 provinces (khoueng, singular and plural) and 1 prefecture* (kampheng nakhon); Attapu, Bokeo, Bolikhamxay, Champasak, Houaphanh, Khammouan, Louangnamtha, Louangphabang (Luang Prabang), Oudomxai, Phongsali, Salavan, Savannakhet, Viangchan (Vientiane)*, Viangchan, Xaignabouli, Xaisomboun, Xekong, Xiangkhouang<br>
 
 **Independence**<br>
 19 July 1949 (from France by the Franco-Lao General Convention); 22 October 1953 (Franco-Lao Treaty recognizes full independence)<br>
@@ -335,11 +335,11 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President THONGLOUN Sisoulith (since 22 March 2021); Vice Presidents PANI Yathotou and BOUNTHONG Chitmani (since 22 March 2021)<br>
-_head of government_: Prime Minister SONXAI Siphandon (since 30 December 2022)<br>
+_chief of state_: President THONGLOUN Sisoulith (since 22 March 2021); Vice Presidents PANY Yathotou and BOUNTHONG Chitmany (since 22 March 2021)<br>
+_head of government_: Prime Minister SONEXAY Siphandon (since 30 December 2022)<br>
 _cabinet_: Council of Ministers appointed by the president and approved by the National Assembly<br>
-_elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (no term limits); election last held on 22 March 2021 (next to be held in March 2026); prime minister nominated by the president, elected by the National Assembly for 5-year term<br>
-_election results_: <em><br>2021: </em>THONGLOUN Sisoulith elected president; National Assembly vote - THONGLOUN Sisoulith (LPRP161-1; PANI Yathotou and BOUNTHONG Chitmani (LPRP) elected vice presidents; National Assembly vote - NA; PHANKHAM Viphavan (LPRP) elected prime minister; National Assembly vote - 158-3<br><br><em>2016:</em> BOUNNYANG Vorachit (LPRP) elected president; PHANKHAM Viphavan (LPRP) elected vice president; percent of National Assembly vote - NA; THONGLOUN Sisoulith (LPRP) elected prime minister; percent of National Assembly vote - NA<br>
+_elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (no term limits); election last held on 22 March 2021 (next to be held in March 2026); prime minister nominated by the president, elected by the National Assembly for a 5-year term<br>
+_election results_: <em><br>2021: </em>THONGLOUN Sisoulith elected president; National Assembly vote - THONGLOUN Sisoulith (LPRP) 161-1; PANY Yathotou and BOUNTHONG Chitmany (LPRP) elected vice presidents; National Assembly vote - NA; PHANKHAM Viphavanh (LPRP) elected prime minister; National Assembly vote - 158-3<br><br><em>2016:</em> BOUNNHANG Vorachit (LPRP) elected president; PHANKHAM Viphavanh (LPRP) elected vice president; percent of National Assembly vote - NA; THONGLOUN Sisoulith (LPRP) elected prime minister; percent of National Assembly vote - NA<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Sapha Heng Xat (164 seats; members directly elected in multi-seat constituencies by simple majority vote from candidate lists provided by the Lao People's Revolutionary Party; members serve 5-year terms)<br>
@@ -352,7 +352,7 @@ _judge selection and term of office_: president of People's Supreme Court appoin
 _subordinate courts_: appellate courts; provincial, municipal, district, and military courts<br>
 
 **Political parties and leaders**<br>
-Lao People's Revolutionary Party or LPRP [THONGLOUN Sisoulit]<br>
+Lao People's Revolutionary Party or LPRP [THONGLOUN Sisoulith]<br>
 <strong>note:</strong> other parties proscribed<br>
 
 **International organization participation**<br>

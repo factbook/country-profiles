@@ -300,7 +300,7 @@ _chief of state_: King CHARLES III (since 8 September 2022); represented by Gove
 _head of government_: Prime Minister Kausea NATANO (since 19 September 2019)<br>
 _cabinet_: Cabinet appointed by the governor general on recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on recommendation of the prime minister; prime minister and deputy prime minister elected by and from members of House of Assembly following parliamentary elections<br>
-_election results_: Kausea NATANO elected prime minister by House of Assembly; House of Assembly vote count on 19 September 2019 -&nbsp;10 to 6<br>
+_election results_: <em>2019: </em>Kausea NATANO elected prime minister by House of Assembly; House of Assembly vote - 10 to 6<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of Assembly or Fale I Fono (16 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 4-year terms)<br>

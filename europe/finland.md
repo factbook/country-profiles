@@ -334,7 +334,7 @@ _residency requirement for naturalization_: 6 years<br>
 _chief of state_: President Sauli NIINISTO (since 1 March 2012)<br>
 _head of government_: Prime Minister Petteri ORPO (since 20 June 2023)<br>
 _cabinet_: Council of State or Valtioneuvosto appointed by the president, responsible to Parliament<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 28 January 2018 (next to be held in January 2024); prime minister appointed by Parliament<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 28 January 2018 (next to be held on 28 January 2024); prime minister appointed by Parliament<br>
 _election results_: <em><br>2018:</em> Sauli NIINISTO reelected president; percent of vote - Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%<br><br><em>2012: </em>Sauli NIINISTO elected president; percent of vote - Sauli NIINISTO (Kok) 62.6%, Pekka HAAVISTO (Vihr) 37.4%<br>
 
 **Legislative branch**<br>
@@ -604,7 +604,7 @@ _Total energy consumption per capita 2019_: 216.571 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 207,000 (2021 est.)<br>
+_total subscriptions_: 186,000 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

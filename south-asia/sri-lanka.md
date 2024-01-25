@@ -331,7 +331,7 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Ranil WICKREMESINGHE (since 20 July 2022); the president is both chief of state and head of government; Prime Minister Dinesh GUNAWARDENA (since 22 July 2022)<br>
+_chief of state_: President Ranil WICKREMESINGHE (since 20 July 2022); the president is both chief of state and head of government; Prime Minister Dinesh GUNAWARDENA (since 22 July 2022); note - prime minister functions as deputy to the president)<br>
 _head of government_: President Ranil WICKREMESINGHE (since 20 July 2022)<br>
 _cabinet_: Cabinet appointed by the president in consultation with the prime minister<br>
 _elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 16 November 2019 (next to be held in 2024); prime minister appointed by the president from among members of Parliament for a 5-year term)<br>
@@ -596,16 +596,16 @@ _Total energy consumption per capita 2019_: 17.268 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,869,186 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 13 (2021 est.)<br>
+_total subscriptions_: 2,582,154 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 30,764,134 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 141 (2021 est.)<br>
+_total subscriptions_: 31,237,303 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 143 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Sri Lanka&rsquo;s fixed-line telephony market was one of the very few in the world to experience a significant upsurge in subscriptions in 2020; while the country suffers from a relatively poor fixed-line infrastructure and a correspondingly strong mobile sector, demand for traditional phone services increased 14% in 2020; preliminary results suggest a further jump of up to 13% can also be expected in 2021; this will take Sri Lanka&rsquo;s fixed-line penetration to levels not seen since 2013; the most reason behind the market&rsquo;s reversal of fortunes is the Covid-19 crisis and Sri Lanka&rsquo;s ensuring lock downs; these forced much of the population back inside and reverting to &lsquo;traditional&rsquo; methods of communication for both voice and data services; the fixed broadband market was equally robust, growing 20% in 2020 alone; Sri Lanka possesses a relatively low number of computers per household so the fixed broadband market&rsquo;s success comes off a small base; the one area of the telecommunications market that experienced a fall was the mobile segment; up until the start of the pandemic, Sri Lanka had a very high mobile penetration rate of 155%; this near-saturation level reflected the preponderance for subscribers to carry multiple SIM cards to take advantage of cheaper on-net call rates; the reduction in demand and traffic because of the pandemic led to a sharp drop in the number of active subscriptions, down to just 135% &ndash; a 17% decline in just one year; the market is expected to bounce back quickly, as soon as the country eases back on its lock down measures and reduces travel restrictions; it will also be boosted, come 2022, by the anticipated launch of commercial 5G mobile services (2021)<br>
-_domestic_: fixed-line is 13 per 100 and mobile-cellular is 141 per 100 (2021)<br>
+_domestic_: fixed-line is 12 per 100 and mobile-cellular is 143 per 100 (2022)<br>
 _international_: country code - 94; landing points for the SeaMeWe -3,-5,&nbsp;&nbsp;Dhiraagu-SLT Submarine Cable Network, WARF Submarine&nbsp;Cable, Bharat Lanka Cable System&nbsp;and the Bay of Bengal Gateway submarine cables providing connectivity to Asia, Africa, Southeast Asia, Australia, the Middle East, and Europe; satellite earth stations - 2 Intelsat (Indian Ocean) (2019)<br>
 
 **Broadcast media**<br>

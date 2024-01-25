@@ -324,11 +324,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Emperor NARUHITO (since 1 May 2019); note - succeeds his father who abdicated on 30 April 2019<br>
-_head of government_: Prime Minister Fumio KISHIDA (since 4 October 2021 )<br>
+_chief of state_: Emperor NARUHITO (since 1 May 2019); note - succeeded his father who abdicated on 30 April 2019<br>
+_head of government_: Prime Minister Fumio KISHIDA (since 4 October 2021)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister<br>
-_election results_: Fumio KISHIDA reelected prime minister on 10 November 2021; upper house vote - Fumio KISHIDA (LDP) 141, Yukio EDANO 60 (CDP); lower house vote - Fumio KISHIDA 297, Yukio EDANO 108<br>
+_election results_: <em>2021:</em> Fumio KISHIDA reelected prime minister on 10 November 2021; upper house vote - Fumio KISHIDA (LDP) 141, Yukio EDANO (CDP) 60; lower house vote - Fumio KISHIDA 297, Yukio EDANO 108<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Diet or Kokkai consists of:<br>House of Councillors or Sangi-in (248 seats; 148 members directly elected in multi-seat districts by simple majority vote and 100 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)<br><br>House of Representatives or Shuugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve up to 4-year terms)<br>
@@ -611,7 +611,7 @@ _domestic_: 49 per 100 for fixed-line and 161 per 100 for mobile-cellular subscr
 _international_: country code - 81; numerous submarine cables with landing points for HSCS, JIH, RJCN, APCN-2, JUS, EAC-C2C, PC-1, Tata TGN-Pacific, FLAG North Asia Loop/REACH North Asia Loop, APCN-2, FASTER, SJC, SJC2, Unity/EAC-Pacific, JGA-N, APG, ASE, AJC, JUPITER, MOC, Okinawa Cellular Cable, KJCN, GOKI, KJCN, and SeaMeWE-3, submarine cables provide links throughout Asia, Australia, the Middle East, Europe, Southeast Asia, Africa&nbsp;and US; satellite earth stations - 7 Intelsat (Pacific and Indian Oceans), 1 Intersputnik (Indian Ocean region), 2 Inmarsat (Pacific and Indian Ocean regions), and 8 SkyPerfect JSAT (2019)<br>
 
 **Broadcast media**<br>
-a mixture of public and commercial broadcast TV and radio stations; 6 national terrestrial TV networks including 1 public broadcaster; the large number of radio and TV stations available provide a wide range of choices; satellite and cable services provide access to international channels (2019)<br>
+a mixture of public and commercial broadcast TV and radio stations; 5 national terrestrial TV networks including 1 public broadcaster; the large number of radio and TV stations available provide a wide range of choices; satellite and cable services provide access to international channels (2023)<br>
 
 **Internet country code**<br>
 .jp<br>

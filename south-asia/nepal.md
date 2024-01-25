@@ -337,10 +337,10 @@ _residency requirement for naturalization_: 15 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Ram Chandra POUDEL (since 13 March 2023); Vice President Ram Sahaya Prasad YADAV (since 20 March 2023)<br>
-_head of government_: Prime Minister Pushpa Kamal DAHAL (since 26 December 2022); deputy prime ministers Narayan Kaji SHRESTHA (since 26 December 2022), Purna Bahadur KHADKA (since 31 March 2023) (an)<br>
+_head of government_: Prime Minister Pushpa Kamal DAHAL (since 26 December 2022); Deputy Prime Ministers Narayan Kaji SHRESTHA (since 26 December 2022), Purna Bahadur KHADKA (since 31 March 2023) (an)<br>
 _cabinet_: Council of Ministers appointed by the prime minister; cabinet split between Nepali Congress, Communist Party of Nepal-Maoist Centre, and various coalition partners<br>
 _elections/appointments_: president indirectly elected by an electoral college of the Federal Parliament and of the state assemblies for a 5-year term (eligible for a second term); election last held on 9 March 2023 (next to be held in 2028); prime minister indirectly elected by the Federal Parliament<br>
-_election results_: Ram Chandra POUDEL elected president; electoral vote - Ram Chandra POUDEL (NC) 33,802, Subash Chandra NEMBANG (CPN-UML) 15,518<br>
+_election results_: <em>2023:</em> Ram Chandra POUDEL elected president; electoral college vote - Ram Chandra POUDEL (NC) 33,802, Subash Chandra NEMBANG (CPN-UML) 15,518<br>
 
 **Legislative branch**<br>
 _description_: bicameral Federal Parliament consists of:<br>National Assembly (59 seats; 56 members, including at least 3 women, 1 Dalit, 1 member with disabilities, or 1 minority indirectly elected by an electoral college of state and municipal government leaders, and 3 members, including 1 woman, nominated by the president of Nepal on the recommendation of the government; members serve 6-year terms with renewal of one-third of the membership every 2 years)<br>House of Representatives (275 seats; 165 members directly elected in single-seat constituencies by simple majority vote and 110 members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a threshold of 3% overall valid vote to be allocated a seat; members serve 5-year terms); note - the House of Representatives was dissolved on 22 May 2021, but on 13 July, the Supreme Court directed its reinstatement<br>

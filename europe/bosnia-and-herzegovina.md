@@ -324,7 +324,7 @@ _residency requirement for naturalization_: 8 years<br>
 _chief of state_: Chairman of the Presidency Zeljko KOMSIC (chairman since 16 July 2023; presidency member since 20 November 2018 - Croat seat); Zeljka CVIJANOVIC (presidency member since 16 November 2022 - Serb seat); Denis BECIROVIC (presidency member since 16 November 2022 - Bosniak seat)<br>
 _head of government_: Chairman of the Council of Ministers Borjana KRISTO (since 25 January 2023)<br>
 _cabinet_: Council of Ministers nominated by the council chairman, approved by the state-level House of Representatives<br>
-_elections/appointments_: 3-member presidency (1 Bosniak and 1 Croat elected from the Federation of Bosnia and Herzegovina and 1 Serb elected from the Republika Srpska) directly elected by simple majority popular vote for a 4-year term (eligible for a second term, but then ineligible for 4 years); the presidency chairpersonship rotates every 8 months with the new member of the presidency elected with the highest number of votes starting the new mandate as chair; election last held on 2 October 2022 (next to be held in October 2026); the chairman of the Council of Ministers appointed by the presidency and confirmed by the state-level House of Representatives<br>
+_elections/appointments_: 3-member presidency (1 Bosniak and 1 Croat elected from the Federation of Bosnia and Herzegovina and 1 Serb elected from the Republika Srpska) directly elected by simple majority popular vote for a 4-year term (eligible for a second term but then ineligible for 4 years); the presidency chairpersonship rotates every 8 months with the new member of the presidency elected with the highest number of votes starting the new mandate as chair; election last held on 2 October 2022 (next to be held in October 2026); the chairman of the Council of Ministers appointed by the presidency and confirmed by the state-level House of Representatives<br>
 _election results_: <em><br>2022: </em>percent of vote<em> -</em> Denis BECIROVIC - (SDP BiH) 57.4% - Bosniak seat; Zeljko KOMSIC (DF) 55.8% - Croat seat; Zeljka CVIJANOVIC (SNSD) 51.7% - Serb seat<em><br><br>2018: </em>percent of vote - Milorad DODIK (SNSD) 53.9% - Serb seat; Zeljko KOMSIC (DF) 52.6% - Croat seat; Sefik DZAFEROVIC (SDA) 36.6% - Bosniak seat<br>
 <strong>note:</strong> President of the Federation of Bosnia and Herzegovina Lidiia BRADARA (since 28 February 2023); Vice Presidents Refik LENDO (since 28 February 2023) and Igor STOJANOVIC (since 28 February 2023); President of the Republika Srpska Milorad DODIK (since 15 November 2022); Vice Presidents Camil DURAKOVIC (since 15 November 2022) and Davor PRANJIC (since 15 November 2022)<br>
 
@@ -591,7 +591,7 @@ _Total energy consumption per capita 2019_: 71.815 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 689,295 (2021 est.)<br>
+_total subscriptions_: 651,069 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 21 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

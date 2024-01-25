@@ -274,16 +274,16 @@ _elections_: last held on 13 January 2024 (next to be held in 2028)<br>
 _election results_: percent of vote by party - DPP 40.6%, KMT 37.2%, TPP 12.6%, other 5.7%, independent 3.9%; seats by party - KMT 52, DPP 51, TPP 8, independent 2; composition - men 66, women 47, percent of women 41.6%<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court (consists of the court president, vice president, and approximately 100 judges organized into 8 civil and 12 criminal divisions, each with a division chief justice and 4 associate justices); Constitutional Court (consists of the court president, vice president, and 13 justices)<br>
+_highest court(s)_: Supreme Court (consists of the court president, vice president, and approximately 100 judges organized into civil and criminal panels, each with a chief justice and 4 associate justices); Constitutional Court (consists of the court president, vice president, and 13 justices)<br>
 _judge selection and term of office_: Supreme Court justices appointed by the president; Constitutional Court justices appointed by the president, with approval of the Legislative Yuan; Supreme Court justices serve for life; Constitutional Court justices appointed for 8-year terms, with half the membership renewed every 4 years<br>
 _subordinate courts_: high courts; district courts; hierarchy of administrative courts<br>
 
 **Political parties and leaders**<br>
 Democratic Progressive Party or DPP [LAI Ching-te]<br>Kuomintang or KMT (Nationalist Party) [Eric CHU Li-luan]<br>Taiwan People's Party or TPP [KO Wen-je]<br>
-<strong>note:</strong> the DPP and the KMT are the two major political parties; there are hundreds of registered minor parties<br>
+<strong>note:</strong> the DPP and the KMT are the two major political parties; more than 30 parties garnered votes in the 2024 election<br>
 
 **International organization participation**<br>
-ADB (Taipei, China), APEC (Chinese Taipei), BCIE, IOC, ITUC (NGOs), SICA (observer), WTO (Taipei, China);<br>
+ADB (Chinese Taipei), APEC (Chinese Taipei), BCIE, IOC, ITUC (NGOs), SICA (observer), WTO (Chinese Taipei)<br>
 note - separate customs territory of Taiwan, Penghu, Kinmen, and Matsu<br>
 
 **Diplomatic representation in the US**<br>
@@ -519,20 +519,20 @@ _Total energy consumption per capita 2019_: 160.669 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 12.3 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 53 (2021 est.)<br>
+_total subscriptions_: 10 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 43 (2023 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 30.3 million (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 120 (2021 est.)<br>
+_total subscriptions_: 30 million (2023 est.)<br>
+_subscriptions per 100 inhabitants_: 128 (2023 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Taiwan has a highly developed telecoms sector in both the fixed-line and mobile segments; in part this is due to the country&rsquo;s early moves to liberalize the market, allowing vigorous competition to flourish; the government has also made concerted efforts to take advantage of Taiwan&rsquo;s strengths in the development of high-tech, export-oriented industries to encourage and enable the rapid adoption of advanced telecom platforms, while simultaneously leveraging the same telecoms infrastructure to push even further ahead with the country's industrial development plans; Taiwan has one of the highest teledensities in the region; while fixed-line subscriber numbers are trending downwards, the rate of decline has been slowed by the major fixed-line provider investing strongly in building out a widespread fiber network to allow customers to maintain a terrestrial voice connection as part of a fixed broadband package; fiber is the dominant platform in Taiwan&rsquo;s fixed broadband market; cable services have retained an unusually strong following thanks to the success of cable providers in delivering competitive cable TV and telephony services as a way to get around Chunghwa Telecom&rsquo;s control of the last mile for its copper and fiber networks; Taiwan also has high penetration rates in its mobile and mobile broadband segments, growth in both markets is almost at a standstill because the country reached 100% penetration very early on &ndash; way back when GSM was first introduced, in mobile&rsquo;s case; the MNOs moved quickly to roll out 4G and 5G networks and services in rapid succession, but subscriber numbers (and market share) has barely changed; the improved quality and performance available with the new platforms will drive increased usage and ARPU; fierce competition following the launch of 4G saw the opposite happen, with price wars causing telco revenues to fall instead; it is possible that the same problem can be avoided with 5G allowing Taiwan to reach the target of 50% of subscribers on 5G by mid-2023 (2022)<br>
-_domestic_: fixed-line over 53 per 100 and mobile-cellular roughly 120 per 100 (2021)<br>
+_general assessment_: Taiwan has a highly developed telecoms sector in both the fixed-line and mobile segments; in part this is due to its early moves to liberalize the market, allowing vigorous competition to flourish; the Taiwan authorities have also made concerted efforts to take advantage of Taiwan’s strengths in the development of high-tech, export-oriented industries to encourage and enable the rapid adoption of advanced telecom platforms, while simultaneously leveraging the same telecoms infrastructure to push even further ahead with Taiwan's industrial development plans; Taiwan has one of the highest teledensities in the region; while fixed-line subscriber numbers are trending downwards, the rate of decline has been slowed by the major fixed-line provider investing strongly in building out a widespread fiber network to allow customers to maintain a terrestrial voice connection as part of a fixed broadband package; fiber is the dominant platform in Taiwan’s fixed broadband market; cable services have retained an unusually strong following thanks to the success of cable providers in delivering competitive cable TV and telephony services as a way to get around Chunghwa Telecom’s control of the last mile for its copper and fiber networks; Taiwan also has high penetration rates in its mobile and mobile broadband segments, growth in both markets is almost at a standstill because Taiwan reached 100% penetration very early on – way back when GSM was first introduced, in mobile’s case; the MNOs moved quickly to roll out 4G and 5G networks and services in rapid succession, but subscriber numbers (and market share) has barely changed; the improved quality and performance available with the new platforms will drive increased usage and ARPU; fierce competition following the launch of 4G saw the opposite happen, with price wars causing telco revenues to fall instead; Taiwan’s 5G penetration rate reached 25 percent in October 2023, ranked 5th around the world now; Taiwan’s 5G roll-out plan faces challenges as subscribers enjoy 4G unlimited data flow tariff and yet to see a killer app in the 5G world <p> </p> (2023)<br>
+_domestic_: fixed-line over 43 per 100 and mobile-cellular roughly 128 per 100 (2023)<br>
 _international_: country code - 886; landing points for the EAC-C2C,&nbsp;APCN-2, FASTER, SJC2, TSE-1, TPE, APG, SeaMeWe-3, FLAG&nbsp;North Asia Loop/REACH North Asia Loop, HKA, NCP, and PLCN&nbsp;submarine fiber cables provide links throughout Asia, Australia, the Middle East, Europe, Africa and the US; satellite earth stations - 2 (2019)<br>
 
 **Broadcast media**<br>
-5 nationwide television networks operating roughly&nbsp;22 TV stations; more than 300 satellite TV channels are available; about 60% of households utilize multi-channel cable TV; 99.9% of households subscribe to digital cable TV;&nbsp;national and regional radio networks with about 171 radio stations (2019)<br>
+5 nationwide television networks operating roughly 22 TV stations; more than 300 satellite TV channels are available; about 51% of households utilize multi-channel cable TV; 99.9% of households subscribe to digital cable TV; national and regional radio networks with about 171 radio stations (2023)<br>
 
 **Internet country code**<br>
 .tw<br>
@@ -609,7 +609,7 @@ approximately 180,000 active-duty troops (95,000 Army; 45,000 Navy, including ap
 <strong>note: </strong>Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military is armed with a mix of secondhand weapons and equipment provided by the US, as well as capabilities procured through the US Foreign Military Sales process; the US is the largest provider of arms to Taiwan; Taiwan also has a domestic defense industry capable of building and upgrading some weapons systems, including surface ships and submarines (2024)<br>
+most of the weapons and equipment inventory of Taiwan's military forces was acquired from the US, either as secondhand or direct acquisitions; Taiwan also has a domestic defense industry capable of building and upgrading some weapons systems, including surface ships and submarines (2024)<br>
 
 **Military service age and obligation**<br>
 starting with those born in 1994, men 18-36 years of age may volunteer or must complete 4 months of compulsory military service; civil service can be substituted for military service in some cases; men born before December 1993 are required to complete compulsory service for 12 months (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military, the last cohort of 12-month military conscripts completed their service obligations in December 2018 (2024)<br>

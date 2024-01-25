@@ -324,11 +324,11 @@ _residency requirement for naturalization_: 2 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President George WEAH (since 22 January 2018); Vice President Jewel HOWARD-TAYLOR (since 22 January 2018); note - the president is both chief of state and head of government<br>
-_head of government_: President George WEAH (since 22 January 2018); Vice President Jewel HOWARD-TAYLOR (since 22 January 2018)<br>
+_chief of state_: President Joseph BOAKAI (since 22 January 2024); Vice President Jeremiah KUONG (since 22 January 2024); note - the president is both chief of state and head of government<br>
+_head of government_: President Joseph BOAKAI (since 22 January 2024); Vice President Jeremiah KUONG (since 22 January 2024)<br>
 _cabinet_: Cabinet appointed by the president, confirmed by the Senate<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 10 October 2023 with a run-off on 14 November 2023 (next to be held October 2028)<br>
-_election results_: Joseph BOAKAI elected president in second round; percent of vote in first round - George WEAH (CDC) 43.8%, Joseph BOAKAI (UP) 43.4%, Edward APPLETON (GDM) 2.20%, Lusinee KAMARA (ALCOP) 1.96%, Alexander B. CUMMINGS, Jr. (CPP) 1.61%, Tiawan Saye GONGLOE (LPP) 1.44%, other 5.59%; percentage of vote in second round - Joseph BOAKAI 50.6%, George WEAH 49.4% note - presidential inauguration in January 2024<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 10 October 2023 with a runoff on 14 November 2023 (next to be held in October 2029)<br>
+_election results_: <em>2023:</em> Joseph BOAKAI elected president in second round; percent of vote in first round - George WEAH (CDC) 43.8%, Joseph BOAKAI (UP) 43.4%, Edward APPLETON (GDM) 2.2%, Lusinee KAMARA (ALCOP) 2%, Alexander B. CUMMINGS, Jr. (CPP) 1.6%, Tiawan Saye GONGLOE (LPP) 1.4%, other 5.6%; percentage of vote in second round - Joseph BOAKAI 50.6%, George WEAH 49.4%<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>The Liberian Senate (30 seats; members directly elected in 15 2-seat districts by simple majority vote to serve 9-year staggered terms; each district elects 1 senator and elects the second senator 3 years later, followed by a 6-year hiatus, after which the first Senate seat is up for election)<br>House of Representatives (73 seats; members directly elected in single-seat districts by simple majority vote to serve 6-year terms; eligible for a second term)<br>

@@ -332,8 +332,8 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Gitanas NAUSEDA (since 12 July 2019)<br>
 _head of government_: Prime Minister Ingrida SIMONYTE (since 24 November 2020)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the president, approved by Parliament<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 12 and 26 May 2019 (next to be held in May 2024); prime minister appointed by the president, approved by Parliament<br>
-_election results_: <em><br>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%<br><br><em>2014: Dalia GRYBAUSKAITE </em>elected president; percent of vote - Dalia GRYBAUSKAITE (independent) 59.1%, Zigmantas BALCYTIS (Social Democratic Party) 40.9%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 12 and 26 May 2019 (next to be held on 12 May 2024); prime minister appointed by the president, approved by Parliament<br>
+_election results_: <em><br>2019:</em> Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%<br><br><em>2014: </em>Dalia GRYBAUSKAITE elected president; percent of vote - Dalia GRYBAUSKAITE (independent) 59.1%, Zigmantas BALCYTIS (Social Democratic Party) 40.9%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
@@ -602,7 +602,7 @@ _Total energy consumption per capita 2019_: 101.651 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 290,711 (2021 est.)<br>
+_total subscriptions_: 249,573 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 10 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

@@ -315,7 +315,7 @@ _chief of state_: President AZALI Assoumani (since 26 May 2016); note - the pres
 _head of government_: President AZALI Assoumani (since 26 May 2016)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority vote in 2 rounds if needed for a 5-year term; election last held on 14 January 2024 (next to be held in 2029)<br>
-_election results_: <em><br>2024: </em>AZALI Assoumani reelected president in first round - AZALI Assoumani (CRC) 63%, SALIM ISSA Abdallah (PJ) 20.3%, DAOUDOU Abdallah Mohamed (Orange Party) 5.9%, Bourhane HAMIDOU (independent) 5.1%<em><br><br>2019</em>: AZALI Assoumani (CRC) elected president in first round - AZALI Assoumani (CRC) 60.8%, Ahamada MAHAMOUDOU (PJ) 14.6%, Mouigni Baraka Said SOILIHI (independent) 5.6%, other 19%<br>
+_election results_: <em><br>2024: </em>AZALI Assoumani reelected president in first round - AZALI Assoumani (CRC) 63%, SALIM ISSA Abdallah (PJ) 20.3%, DAOUDOU Abdallah Mohamed (Orange Party) 5.9%, Bourhane HAMIDOU (independent) 5.1%<em><br><br>2019</em>: AZALI Assoumani elected president in first round - AZALI Assoumani (CRC) 60.8%, Ahamada MAHAMOUDOU (PJ) 14.6%, Mouigni Baraka Said SOILIHI (independent) 5.6%, other 19%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Union (33 seats; 24 members directly elected by absolute majority vote in 2 rounds if needed and 9 members indirectly elected by the 3 island assemblies; members serve 5-year terms)<br>

@@ -303,8 +303,8 @@ _etymology_: Skopje derives from its ancient name Scupi, the Latin designation o
 Independence Day, 8 September (1991), also known as National Day<br>
 
 **Constitution**<br>
-_history_: several previous; latest adopted 17 November 1991, effective 20 November 1991<br>
-_amendments_: proposed by the president of the republic, by the government, by at least 30 members of the Assembly, or by petition of at least 150,000 citizens; final approval requires a two-thirds majority vote by the Assembly; amended several times, last in 2019; this amendment was the result of the 2018 Prespa Agreement with Greece, in which the constitutional name of the country would be changed to the Republic of North Macedonia - previously the Republic of Macedonia -&nbsp; in exchange for assurances that Greece would no longer object to North Macedonia's integration in international organizations<br>
+_history_: several previous (since 1944); latest adopted 17 November 1991, effective 20 November 1991<br>
+_amendments_: proposed by the president of the republic, by the government, by at least 30 members of the Assembly, or by petition of at least 150,000 citizens; final approval requires a two-thirds majority vote by the Assembly; amended several times, last in 2019; this amendment was the result of the 2018 Prespa Agreement with Greece, in which the constitutional name of the country would be modified to Republic of North Macedonia in exchange for assurances that Greece would no longer object to its integration in international organizations; note - a referendum on&nbsp; amendments to the constitution is expected in 2024<br>
 
 **Legal system**<br>
 civil law system; judicial review of legislative acts<br>
@@ -325,8 +325,8 @@ _residency requirement for naturalization_: 8 years<br>
 _chief of state_: President Stevo PENDAROVSKI (since 12 May 2019)<br>
 _head of government_: Prime Minister Dimitar KOVACEVSKI (since 16 January 2022)<br>
 _cabinet_: Council of Ministers elected by the Assembly by simple majority vote<br>
-_elections/appointments_: president directly elected using a modified 2-round system; a candidate can only be elected in the first round with an absolute majority from all registered voters; in the second round, voter turnout must be at least 40% for the result to be deemed valid; president elected for a 5-year term (eligible for a second term); election last held on 21 April and 5 May 2019 (next to be held in 2024); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the Assembly; Dimitar KOVACEVSKI elected prime minister by the Assembly on 16 January 2022; Assembly vote - NA<br>
-_election results_: <em><br>2019:</em> Stevo PENDAROVSKI elected president in second round; percent of vote in first round - Stevo PENDAROVSKI (SDSM) 44.8%, Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 44.2%, Blenim REKA (independent) 11.1%; percent of vote in second round - Stevo PENDAROVSKI 53.6%, Gordana SILJANOVSKA-DAVKOVA 46.4%<br><br><em>2014:</em> Gjorge IVANOV reelected president in second round; percent of vote in first round - Gjorge IVANOV (VMRO-DPMNE) 53.1%, Stevo PENDAROVSKI (SDSM) 38.6%, Ilijaz HALIMI (DPA) 4.6%, Zoran POPOVSKI (GROM) 3.7%; percent of vote in second round - Gjorge IVANOV 57.3%, Stevo PENDAROVSKI 42.7%<br>
+_elections/appointments_: president directly elected using a modified 2-round system; a candidate can only be elected in the first round with an absolute majority from all registered voters; in the second round, voter turnout must be at least 40% for the result to be deemed valid; president elected for a 5-year term (eligible for a second term); election last held on 21 April and 5 May 2019 (next to be held in 2024); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the Assembly<br>
+_election results_: <em><br>2022: </em>Dimitar KOVACEVSKI elected Prime Minister; Assembly vote - NA<em><br><br>2019:</em> Stevo PENDAROVSKI elected president in second round; percent of vote in first round - Stevo PENDAROVSKI (SDSM) 44.8%, Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 44.2%, Blenim REKA (independent) 11.1%; percent of vote in second round - Stevo PENDAROVSKI 53.6%, Gordana SILJANOVSKA-DAVKOVA 46.4%<br><br><em>2014:</em> Gjorge IVANOV reelected president in second round; percent of vote in first round - Gjorge IVANOV (VMRO-DPMNE) 53.1%, Stevo PENDAROVSKI (SDSM) 38.6%, Ilijaz HALIMI (DPA) 4.6%, Zoran POPOVSKI (GROM) 3.7%; percent of vote in second round - Gjorge IVANOV 57.3%, Stevo PENDAROVSKI 42.7%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly -&nbsp;Sobraine in Macedonian, Kuvend in Albanian (between 120 and 140 seats, currently 120; members directly elected in multi-seat constituencies by closed-list proportional representation vote; possibility of 3 directly elected in diaspora constituencies by simple majority vote provided there is sufficient voter turnout; members serve 4-year terms)<br>
@@ -594,12 +594,12 @@ _total subscriptions_: 1,941,352 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 92 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: as part of the EU pre-accession process, North Macedonia has built closer economic ties with the Union which accounts for 77.5% of Macedonia&rsquo;s exports and just over half of its imports; closer regulatory and administrative ties with European Commission (EC) institutions have done much to develop the telecom sector and prepare the market for the competitive environment encouraged in the EU; as part of EU integration legislation North Macedonia has implemented the principles of the EU&rsquo;s regulatory framework for communications, established an independent regulator and set out several provisions to provide for a competitive telecom market, including wholesale access to the incumbent&rsquo;s fixed-line network; broadband services are widely available, with effective competition between DSL and cable platforms complemented by wireless broadband and a developing fiber sector; the number of DSL subscribers has continued to fall in recent years as customers are migrated to fiber networks; the MNOs are increasingly focused on expanding their 5G networks, seeking stronger coverage across North Macedonia&rsquo;s high value urban areas; mobile data services are also becoming increasingly important following investments in LTE network rollouts and in upgrades to LTE-A technology (2022)<br>
+_general assessment_: as part of the EU pre-accession process, North Macedonia has built closer economic ties with the Union which accounts for 79% of Macedonia&rsquo;s exports and 49% of its imports; closer regulatory and administrative ties with European Commission (EC) institutions have done much to develop the telecom sector and prepare the market for the competitive environment encouraged in the EU; as part of EU integration legislation North Macedonia has implemented the principles of the EU&rsquo;s regulatory framework for communications, established an independent regulator and set out several provisions to provide for a competitive telecom market, including wholesale access to the incumbent&rsquo;s fixed-line network; broadband services are widely available, with effective competition between DSL and cable platforms complemented by wireless broadband and a developing fiber sector; the number of DSL subscribers has continued to fall in recent years as customers are migrated to fiber networks; the MNOs are increasingly focused on expanding their 5G networks, seeking stronger coverage across North Macedonia&rsquo;s high value urban areas; mobile data services are also becoming increasingly important following investments in LTE network rollouts and in upgrades to LTE-A technology (2022)<br>
 _domestic_: fixed-line roughly 20 per 100 and mobile-cellular 92 per 100 subscriptions (2021)<br>
 _international_: country code - 389<br>
 
 **Broadcast media**<br>
-public service TV broadcaster Macedonian Radio and Television operates 3 national terrestrial TV channels and 2 satellite TV channels; additionally, there are 10 regional TV stations that broadcast nationally using terrestrial transmitters, 54 TV channels with concession for cable TV, 9 regional TV stations with concessions for cable TV; 4 satellite TV channels broadcasting on a national level, 21 local commercial TV channels, and a large number of cable operators that offer domestic and international programming; the public radio broadcaster operates over 3 stations; there are 4 privately owned radio stations that broadcast nationally; 17 regional radio stations, and 49 local commercial radio stations (2019)<br>
+public service TV broadcaster Macedonian Radio and Television operates 5 national terrestrial TV channels and 2 satellite TV channels; additionally, there are 11 regional TV stations broadcasting nationally, 29 regional and local broadcasters, a large number of cable operators offer domestic and international programming; the public radio broadcaster operates 3 stations; there are 4 privately owned national radio stations that broadcast and 60 regional and local operators (2023)<br>
 
 **Internet country code**<br>
 .mk<br>
@@ -642,7 +642,7 @@ _unpaved_: 4,549 km (2017)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Army of the Republic of North Macedonia (ARSM): the ARSM is a joint force with air, ground, reserve, special operations, and support forces (2023)<br>
+Army of the Republic of North Macedonia (ARSM or ARNM): joint force with air, ground, reserve, special operations, and support forces (2023)<br>
 <strong>note: </strong>the Police of Macedonia maintain internal security, including migration and border enforcement, and report to the Ministry of the Interior<br>
 
 **Military expenditures**<br>
@@ -653,10 +653,10 @@ Army of the Republic of North Macedonia (ARSM): the ARSM is a joint force with a
 1.2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,500 active-duty personnel (2023)<br>
+approximately 7,000 active-duty personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of Soviet-era and increasing amounts of Western-origin equipment from countries such as France, Turkey, and the US (2023)<br>
+the military's inventory is a mix of Soviet-era and increasing amounts of more modern Western-origin equipment from countries such as France, Turkey, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished in 2007 (2023)<br>
@@ -677,7 +677,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>North Macedonia-Albania</em>: none identified</p> <p><em>North Macedonia-Greece</em>: none identified</p> <p><em>North Macedonia-Kosovo</em>: North Macedonia and Kosovo completed demarcation of their boundary in October 2009</p> <p><em>North Macedonia-Serbia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,680 (Ukraine) (as of 14 November 2023)<br>
+_refugees (country of origin)_: 18,620 (Ukraine) (as of 24 December 2023)<br>
 _stateless persons_: 521 (2022)<br>
 <strong>note:</strong> 562,235 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 

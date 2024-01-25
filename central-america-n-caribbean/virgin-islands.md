@@ -262,7 +262,7 @@ _chief of state_: President Joseph R. BIDEN, Jr. (since 20 January 2021); Vice P
 _head of government_: Governor Albert BRYAN, Jr. (since 7 January 2019), Lieutenant Governor Tregenza ROACH (since 7 January 2019)<br>
 _cabinet_: Territorial Cabinet appointed by the governor and confirmed by the Senate<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Virgin Islands do not vote in elections for US president and vice president; however, they may vote in the Democratic and Republican presidential primary elections; governor and lieutenant governor directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 8 November 2022 (next to be held in November 2026)<br>
-_election results_: Albert BRYAN, Jr. reelected governor; percent of vote - Albert BRYAN, Jr. (Democratic Party) 56%, Kurt VIALET (independent) 38%<br>
+_election results_: <em>2022:</em> Albert BRYAN, Jr. reelected governor; percent of vote - Albert BRYAN, Jr. (Democratic Party) 56%, Kurt VIALET (independent) 38%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislature of the Virgin Islands (15 seats; senators directly elected in single- and multi-seat constituencies by simple majority popular vote to serve 2-year terms)<br><br>the Virgin Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term<br>

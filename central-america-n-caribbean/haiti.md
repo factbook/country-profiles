@@ -326,11 +326,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President (vacant); note - Prime Minister Ariel HENRY assumed executive responsibilities, including naming Cabinet members, following the assassination of President MOISE on 7 July 2021; new elections have not yet been scheduled<br>
-_head of government_: Prime Minister Ariel HENRY (since 20 July 2021)<br>
+_chief of state_: President (vacant); note - Acting Prime Minister Ariel HENRY assumed executive responsibilities, including naming Cabinet members, following the assassination of President MOISE on 7 July 2021<br>
+_head of government_: Acting Prime Minister Ariel HENRY (since 20 July 2021)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president; parliament must ratify the Cabinet and Prime Minister's governing policy<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a single non-consecutive term); last election had been originally scheduled for 9 October 2016 but was postponed until 20 November 2016 due to Hurricane Matthew<br>
-_election results_: <br><em>2016:</em> Jovenel MOISE elected president in first round; percent of vote - Jovenel MOISE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOISE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8%<br><br><em>2011:</em> Michel MARTELLY elected president in second round; percent of vote - Michel MARTELLY (Peasant's Response) 68%, Mirlande MANIGAT (RDNP) 32%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a single non-consecutive term); last election was 20 November 2016; new elections have been delayed in 2022 and 2023 but have not been scheduled by Acting Prime Minister HENRY<br>
+_election results_: <br><em>2016:</em> Jovenel MOISE elected president in first round; percent of vote - Jovenel MOISE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOISE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8%<br><br><em>2011:</em> Michel MARTELLY elected president in second round; percent of vote in second round - Michel MARTELLY (Peasant's Response) 68%, Mirlande MANIGAT (RDNP) 32%<br>
 
 **Legislative branch**<br>
 _description_: bicameral legislature or le Corps legislatif ou le Parlement consists of:<br>Senate or le Sénat de la République (30 seats; 0 filled as of January 2023); members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms (2-term limit) with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Chambre des députés (119 seats; 0 filled as of January 2023; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms; no term limits); note - when the 2 chambers meet collectively it is known as the National Assembly or L'Assemblée nationale and is convened for specific purposes spelled out in the constitution<br>

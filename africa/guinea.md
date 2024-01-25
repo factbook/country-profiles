@@ -345,10 +345,10 @@ _residency requirement for naturalization_: na<br>
 
 **Executive branch**<br>
 _chief of state_: President Col. Mamady DOUMBOUYA (since 1 October 2021); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and People's National Assembly dissolved; on 1 October 2021, DOUMBOUYA was sworn in as transitional president<br>
-_head of government_: Prime Minister Bernard GOMOU (since 20 August 2022); note - GOMOU had been acting prime minister since 16 July 2022 replacing Mohamed BEAVOGUI who stepped down due to health reasons<br>
+_head of government_: Prime Minister Bernard GOMOU (since 20 August 2022); note - GOMOU had been acting prime minister since 16 July 2022, replacing Mohamed BEAVOGUI who stepped down due to health reasons<br>
 _cabinet_: formerly the Council of Ministers appointed by the president; note - on 5 September 2021, the military arrested and detained the president, suspended the constitution, and dissolved the government and legislature<br>
-_elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term) and the prime minister appointed by the president; election last held on 18 October 2020; note - a new election time table has not been announced by the transitional government<br>
-_election results_: <em><br></em>note: following a military coup on 5 September 2021, coup leader Col. Mamady DOUMBOUYA was sworn in as transitional president on 1 October 2021<br><em><br>2020: </em>Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%<br><br>
+_elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term) and the prime minister appointed by the president; election last held on 18 October 2020; note - a new election timetable has not been announced by the transitional government<br>
+_election results_: <em>2020: </em>Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%<br>
 
 **Legislative branch**<br>
 _description_: formerly the People's National Assembly;&nbsp; note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and People's National Assembly dissolved; on 22 January 2022, an 81-member Transitional National Council was installed<br>
@@ -686,9 +686,6 @@ the inventory of the Guinean military consists largely of aging and outdated (mo
 
 **Military service age and obligation**<br>
 18 years of age for voluntary and selective conscripted service; 9-12 months of service (2023)<br>
-
-**Military deployments**<br>
-NA (2023)<br>
 
 **Military - note**<br>
 the Guinean military is a small and lightly armed force that is responsible for external defense, but also has some domestic security responsibilities and has historically been involved in suppressing public protests; the military has undergone some attempts at reform since 2010, but in 2021 the Army&rsquo;s special forces led a successful coup; the Army has a mix of approximately 10 infantry, light armor, commando, and special forces battalions, as well as a presidential guard force; piracy and natural resource protection in the Gulf of Guinea are key areas of concern for the small Navy, which possesses only a few patrol boats; the Air Force has a handful of serviceable aircraft, including helicopter gunships (2023)<br>

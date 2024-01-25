@@ -327,7 +327,7 @@ _chief of state_: President Edgars RINKEVICS (since 8 July 2023)<br>
 _head of government_: Prime Minister Evika SILINA (since 15 September 2023)<br>
 _cabinet_: Cabinet of Ministers nominated by the prime minister, appointed by Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament for a 4-year term (eligible for a second term); election last held on 31 May 2023 (next to be held in 2027); prime minister appointed by the president, confirmed by Parliament<br>
-_election results_: <em><br>2023: </em>Edgars RINKEVICS elected president; Parliament vote - Edgars RINKEVICS 52, Uldis Pīlēns 25 third round on 31 May 2023<br><em><br>2019:</em> Egils LEVITS elected president; Parliament vote - Egils LEVITS 61, Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39<br>
+_election results_: <em><br>2023: </em>Edgars RINKEVICS elected president in the third round; Parliament vote - Edgars RINKEVICS (Unity Party) 52, Uldis Pīlēns (independent) 25; Evika SILINA confirmed as prime minister 53-39<br><em><br>2019:</em> Egils LEVITS elected president; Parliament vote - Egils LEVITS (independent) 61, Didzis SMITS (KPV LV) 24, Juris JANSONS (independent) 8; Krisjanis KARINS confirmed as prime minister 61-39<br>
 <strong>note:</strong> on 15 September 2023, Parliament voted 53-39 to approve Prime Minister Evika SILINA<br>
 
 **Legislative branch**<br>

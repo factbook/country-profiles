@@ -328,12 +328,12 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Laurentino "Nito" CORTIZO Cohen (since 1 July 2019); Vice President Jose Gabriel CARRIZO Jaen (since 1 July 2019); note - the president is both chief of state and head of government<br>
 _head of government_: President Laurentino "Nito" CORTIZO Cohen (since 1 July 2019); Vice President Jose Gabriel CARRIZO Jaen (since 1 July 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term; president eligible for a single non-consecutive term); election last held on 5 May 2019 (next to be held in 2024)<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term; president eligible for a single non-consecutive term); election last held on 5 May 2019 (next to be held on 5 May 2024)<br>
 _election results_: <br><em>2019:</em> Laurentino "Nito" CORTIZO Cohen elected president; percent of vote - Laurentino CORTIZO Cohen (PRD) 33.3%, Romulo ROUX (CD) 31%, Ricardo LOMBANA (independent) 18.8%, Jose BLANDON (Panamenista Party) 10.8%, Ana Matilde GOMEZ Ruiloba (independent) 4.8%, other 1.3%<br><br><em>2014:</em> Juan Carlos VARELA elected president; percent of vote - Juan Carlos VARELA (PP) 39.1%, Jose Domingo ARIAS (CD) 31.4%, Juan Carlos NAVARRO (PRD) 28.2%, other 1.3%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Asamblea Nacional (71 seats; 45 members directly elected in multi-seat constituencies - populous towns and cities - by open list proportional representation vote and 26 directly elected in single-seat constituencies - outlying rural districts - by simple majority vote; members serve 5-year terms)<br>
-_elections_: last held on 5 May 2019 (next to be held in May 2024)<br>
+_elections_: last held on 5 May 2019 (next to be held on 5 May 2024)<br>
 _election results_: percent of vote by party - NA; seats by party - PRD 35, CD 18, Panamenista 8, MOLIRENA 5, independent 5; composition - men 55, women 16, percent of women 22.5%<br>
 
 **Judicial branch**<br>

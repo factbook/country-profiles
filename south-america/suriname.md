@@ -324,7 +324,7 @@ _chief of state_: President Chandrikapersad SANTOKHI (since 16 July 2020); Vice 
 _head of government_: President Chandrikapersad SANTOKHI (since 16 July 2020); Vice President Ronnie BRUNSWIJK (since 16 July 2020)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly; president and vice president serve a 5-year term (no term limits); election last held on 13 July 2020 (next to be held in May 2025)<br>
-_election results_: Chandrikapersad SANTOKHI elected president unopposed; National Assembly vote - NA<br>
+_election results_: <em>2020:</em> Chandrikapersad SANTOKHI elected president unopposed; National Assembly vote - NA<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Nationale Assemblee (51 seats; members directly elected in 10 multi-seat constituencies by party-list proportional representation vote, using the D'Hondt method, to serve 5-year terms)<br>

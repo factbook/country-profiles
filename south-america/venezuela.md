@@ -331,7 +331,7 @@ _chief of state_: Notification Statement: the United States does not recognize N
 _head of government_: President Nicolas MADURO Moros (since 19 April 2013); Executive Vice President Delcy RODRIGUEZ Gomez (since 14 June 2018)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 20 May 2018 (next to be held in the second half of 2024)<br>
-_election results_: <br>2018: Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 68%, Henri FALCON (AP) 21%, Javier BERTUCCI 11%; note - the election was reportedly marred by serious shortcomings and electoral fraud<br><br>2013: Nicolas MADURO Moros elected president; percent of vote - Nicolas MADURO Moros (PSUV) 50.6%, Henrique CAPRILES Radonski (PJ) 49.1%, other 0.3%<br>
+_election results_: <br><em>2018: </em>Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 67.9%, Henri FALCON (AP) 20.9%, Javier BERTUCCI 10.8%; note - the election was reportedly marred by serious shortcomings and electoral fraud<br><br><em>2013:</em> Nicolas MADURO Moros elected president; percent of vote - Nicolas MADURO Moros (PSUV) 50.6%, Henrique CAPRILES Radonski (PJ) 49.1%, other 0.3%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Asamblea Nacional (277 seats; 3 seats reserved for indigenous peoples of Venezuela; members serve 5-year terms); note - in 2020, the National Electoral Council increased the number of seats in the National Assembly from 167 to 277 for the 6 December 2020 election<br>

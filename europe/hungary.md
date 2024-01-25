@@ -339,7 +339,7 @@ _residency requirement for naturalization_: 8 years<br>
 _chief of state_: President Katalin NOVAK (since 10 May 2022)<br>
 _head of government_: Prime Minister Viktor ORBAN (since 29 May 2010)<br>
 _cabinet_: Cabinet of Ministers proposed by the prime minister and appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 11 March 2022 (next to be held spring 2027); prime minister elected by the National Assembly on the recommendation of the president; election last held on 3 April 2022 (next to be held April or May 2027)<br>
+_elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 11 March 2022 (next to be held in spring 2027); prime minister elected by the National Assembly on the recommendation of the president; election last held on 3 April 2022 (next to be held in April or May 2027)<br>
 _election results_: <br><em>2022: </em>Katalin NOVAK (Fidesz) elected president; National Assembly vote - 137 to 51<em><br><br>2017:</em> Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39<br>
 
 **Legislative branch**<br>
@@ -609,7 +609,7 @@ _Total energy consumption per capita 2019_: 108.212 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,955,979 (2021 est.)<br>
+_total subscriptions_: 2,845,376 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 30 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -735,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Hungary and Slovakia have a long-running dispute over the implementation of a 1970s Soviet-era hydropower project on the Danube, the Gabčíkovo-Nagymaros project </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 63,775 (Ukraine) (as of 17 December 2023)<br>
+_refugees (country of origin)_: 63,775 (Ukraine) (as of 14 January 2024)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

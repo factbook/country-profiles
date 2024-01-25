@@ -342,7 +342,7 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: transitional President Capt. Ibrahim TRAORE (since 30 September 2022); note - on 30 September 2022, a military junta led by TRAORE, took power and ousted President Lt. Col. Paul-Henri Sandaogo DAMIBA and took over as head of the Patriotic Movement for Safeguard and Restoration<br>
+_chief of state_: transitional President Capt. Ibrahim TRAORE (since 30 September 2022); note - on 30 September 2022, a military junta, led by TRAORE, took power and ousted President Lt. Col. Paul-Henri Sandaogo DAMIBA and took over as head of the Patriotic Movement for Safeguard and Restoration<br>
 _head of government_: Prime Minister Joachim KYLEM DE TAMBELA (since 21 October 2022); note - transitional President TRAORE appointed KYLEM DE TAMBELA Prime Minister on 21 October 2022; the position had been vacant since 30 September 2022 when the military ousted former Prime Minister Albert OUEDRAOGO<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 22 November 2020 (next to be held by July 2024); prime minister appointed by the president with consent of the National Assembly<br>
@@ -680,7 +680,7 @@ approximately 15,500 personnel (10,000 Army; 500 Air Force; 5,000 National Genda
 <strong>note: </strong>in 2022, the Burkina Faso Government announced a special recruitment for up to 6,000 additional soldiers and 1,500 gendarmes to assist with its fight against terrorist groups operating in the country; it also put out a recruitment call for up to 100,000 VDF volunteers, and as of 2023 had as many as 90,000 VDF personnel enrolled (the VDF's original recruited strength was 15,000)<br><strong><br><br></strong><br>
 
 **Military equipment inventories and acquisitions**<br>
-the FABF has a mix of mostly older or secondhand equipment from a mix of suppliers, including France, Russia, South Africa, Turkey, the UK, and the US (2023)<br>
+the FABF has a mix of older, secondhand, and some modern equipment from a variety of suppliers, including China, France, Russia, South Africa, Turkey, the UK, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service for men and women (2023)<br>

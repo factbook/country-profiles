@@ -308,7 +308,7 @@ _chief of state_: President Brig. Gen. (Ret.) Teodoro OBIANG Nguema Mbasogo (sin
 _head of government_: Prime Minister Manuela ROKA Botey (since 1 February 2023); First Deputy Prime Minister Clemente Engonga NGUEMA Onguene (since 23 June 2016); Second Deputy Prime Minister Angel MESIE Mibuy (since 5 February 2018); Third Deputy Prime Minister Alfonso Nsue MOKUY (since 23 June 2016)<br>
 _cabinet_: Council of Ministers appointed by the president and overseen by the prime minister<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 20 November 2022 (next to be held in 2029); prime minister and deputy prime ministers appointed by the president<br>
-_election results_: Teodoro OBIANG Nguema Mbasogo reelected president; percent of vote - Teodoro OBIANG Nguema Mbasogo (PDGE) 95%, other 6.1%<br>
+_election results_: <em>2022: </em>Teodoro OBIANG Nguema Mbasogo reelected president; percent of vote - Teodoro OBIANG Nguema Mbasogo (PDGE) 95%, other 6.1%<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Asemblea Nacional consists of:<br>Senate or Senado (70 seats statutory, 74 seats for current term; 55 members directly elected in multi-seat constituencies by closed party-list proportional representation vote, 15 appointed by the president, and 4 ex-officio)<br><br>Chamber of Deputies or Camara de los Diputados (100 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 5-year terms)<br>

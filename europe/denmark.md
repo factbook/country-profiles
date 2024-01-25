@@ -325,7 +325,7 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King FREDERIK X (since 14 January 2024); Heir Apparent Crown Prince CHRISTIAN (son of the king, born 15 October 2005) (2024)<br>
+_chief of state_: King FREDERIK X (since 14 January 2024); Heir Apparent Crown Prince CHRISTIAN (son of the king, born 15 October 2005); note - Queen MARGRETHE II abdicated on 14 January 2024, the first Danish monarch to voluntarily abdicate since King ERIC III in 1146 (2024)<br>
 _head of government_: Prime Minister Mette FREDERIKSEN (since 27 June 2019)<br>
 _cabinet_: Council of State appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch<br>
@@ -715,6 +715,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; in 2019, Denmark signed continental shelf delimitation agreements with Iceland and Norway to parts of the continental shelf in the Ægir Basin, which is located north of the Faroe Islands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 36,635 (Ukraine) (as of 3 December 2023)<br>
+_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 36,635 (Ukraine) (as of 17 December 2023)<br>
 _stateless persons_: 11,644 (2022)<br>
 

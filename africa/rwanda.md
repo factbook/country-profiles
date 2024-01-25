@@ -344,7 +344,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Paul KAGAME (since 22 April 2000)<br>
 _head of government_: Prime Minister Edouard NGIRENTE (since 30 August 2017)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by simple majority popular -vote for a 5-year term (eligible for a second term); note - a constitutional amendment approved in December 2016 reduced the presidential term from 7 to 5 years but included an exception that allowed President KAGAME to serve another 7-year term in 2017, potentially followed by two additional 5-year terms; election last held on 4 August 2017 (next to be held in 15 July 2024); prime minister appointed by the president<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second term); note - a constitutional amendment approved in December 2016 reduced the presidential term from 7 to 5 years but included an exception that allowed President KAGAME to serve another 7-year term in 2017, potentially followed by two additional 5-year terms; election last held on 4 August 2017 (next to be held on 15 July 2024); prime minister appointed by the president<br>
 _election results_: <br><em>2017:</em> Paul KAGAME reelected president; Paul KAGAME (RPF) 98.8%, Philippe MPAYIMANA (independent), other 1.2%<br><br><em>2010:</em> Paul KAGAME reelected president; Paul KAGAME (RPF) 93.1%, Jean NTAWUKURIRYAYO (PSD) 5.1%, other 1.8%  <p> </p><br>
 
 **Legislative branch**<br>
@@ -700,6 +700,6 @@ has a small program focused on developing and utilizing space technologies, such
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 79,606 (Democratic Republic of the Congo), 48,300 (Burundi) (2023)<br>
+_refugees (country of origin)_: 79,575 (Democratic Republic of the Congo), 48,346 (Burundi) (2023)<br>
 _stateless persons_: 9,500 (2022)<br>
 

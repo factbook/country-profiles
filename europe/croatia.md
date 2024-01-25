@@ -603,7 +603,7 @@ _Total energy consumption per capita 2019_: 89.733 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,268,941 (2021 est.)<br>
+_total subscriptions_: 1,234,915 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 31 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -693,7 +693,7 @@ Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH)
 approximately 15,000 active-duty personnel (10,000 Army; 1,500 Navy; 1,500 Air force; 2,000 joint/other) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the majority of the military's inventory consists of Soviet-era equipment, although in recent years Croatia has acquired some limited numbers of more modern weapon systems from Western suppliers, including France, Germany, and the US (2023)<br>
+the military's inventory is a mix of Soviet-era equipment and limited, but growing amounts of more modern weapon systems from Western suppliers, including France, Germany, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for voluntary military service; conscription abolished in 2008 (2023)<br>
@@ -712,7 +712,7 @@ the Armed Forces of Croatia (OSRH) are responsible for the defense of Croatia’
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Croatia joined the Schengen Zone on 1 January 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,995 (Ukraine) (as of 1 December 2023)<br>
+_refugees (country of origin)_: 24,150 (Ukraine) (as of 28 December 2023)<br>
 _stateless persons_: 2,889 (2022)<br>
 <strong>note: </strong>843,010 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
 

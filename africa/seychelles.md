@@ -312,8 +312,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Wavel RAMKALAWAN (since 26 October 2020); Vice President Ahmed AFIF (since 27 October 2020); the president is both chief of state and head of government<br>
 _head of government_: President Wavel RAMKALAWAN (since 26 October 2020); Vice President Ahmed AFIF (since 27 October 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 22-24 October 2020; next presidential election due in 2025<br>
-_election results_: <br><em>2020</em>: Wavel RAMKALAWAN elected president; Wavel RAMKALAWAN (LDS) 54.9%, Danny FAURE (US) 43.5%, other 1.6%<br><br><em>2015</em>:  President James Alix MICHEL reelected president in second round; percent of vote first round - James Alix MICHEL (PL) 47.8%, Wavel RAMKALAWAN (SNP) 35.3%, other 16.9%; percent of vote second round - James Alix MICHEL 50.2%, Wavel RAMKALAWAN 49.8%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 22 to 24 October 2020 (next to be held in 2025)<br>
+_election results_: <br><em>2020</em>: Wavel RAMKALAWAN elected president; Wavel RAMKALAWAN (LDS) 54.9%, Danny FAURE (US) 43.5%, other 1.6%<br><br><em>2015</em>:  President James Alix MICHEL reelected president in second round; percent of vote in first round - James Alix MICHEL (PL) 47.8%, Wavel RAMKALAWAN (SNP) 35.3%, other 16.9%; percent of vote in second round - James Alix MICHEL 50.2%, Wavel RAMKALAWAN 49.8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (35 seats in the 2020-25 term; 26 members directly elected in single-seat constituencies by simple majority vote and up to 9 members elected by proportional representation vote; members serve 5-year terms)<br>

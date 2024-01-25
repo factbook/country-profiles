@@ -325,7 +325,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King PHILIPPE (since 21 July 2013); Heir Apparent Princess ELISABETH (daughter of the monarch, born 25 October 2001)<br>
-_head of government_: Prime Minister Alexander DE CROO (since 1 October 2020); Deputy Prime Ministers Vincent Van QUICKENBORNE (since 1 October 2020), Vincent VAN PETEGHEM (since 1 October 2020), Frank VANDENBROUCKE (since 1 October 2020), Pierre-Yves DERMAGNE (since 1 October 2020), Petra DE SUTTER (since 1 October 2020), Georges GILKINET (since 1 October 2020), David CLARINVAL (since 15 July 2022)<br>
+_head of government_: Prime Minister Alexander DE CROO (since 1 October 2020); Deputy Prime Ministers Vincent Van QUICKENBORNE, Vincent VAN PETEGHEM, Frank VANDENBROUCKE, Pierre-Yves DERMAGNE, Petra DE SUTTER, Georges GILKINET (all since 1 October 2020), David CLARINVAL (since 15 July 2022)<br>
 _cabinet_: Council of Ministers formally appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary and constitutional; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch and approved by Parliament<br>
 
@@ -599,7 +599,7 @@ _Total energy consumption per capita 2019_: 234.216 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,293,420 (2021 est.)<br>
+_total subscriptions_: 2,952,930 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 28 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -729,7 +729,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 73,095 (Ukraine) (as of 22 August 2023)<br>
+_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 73,095 (Ukraine) (as of 30 November 2023)<br>
 _stateless persons_: 1,190 (2022)<br>
 
 **Illicit drugs**<br>

@@ -564,7 +564,7 @@ _total subscriptions_: 64,328 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 61 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Tonga was only connected to the global submarine telecommunication network in the last decade;&nbsp; this system is more stable than other technologies such as satellite and fixed infrastructure (2022)<br>
+_general assessment_: Tonga was only connected to the global submarine telecommunication network in the last decade; though this system is more stable than other technologies such as satellite and fixed infrastructure; the January 2022 eruption of Hunga Tonga-Hunga Ha’apai severed Tonga’s connection to the submarine telecommunication network <p> </p> (2023)<br>
 _domestic_: fixed-line 10 per 100 persons and mobile-cellular teledensity 61 telephones per 100 (2021)<br>
 _international_: country code - 676; landing point for the Tonga Cable and the TDCE connecting to Fiji and 3 separate Tonga islands; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)<br>
 

@@ -342,7 +342,7 @@ _residency requirement for naturalization_: 10 years<br>
 17 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Sovereign Council Chair and Commander-in-Chief of the Sudanese Armed Forces General Abd-al-Fatah al-BURHAN Abd-al-Rahman; note &ndash; the 2019 Constitutional Declaration established a collective chief of state of the "Sovereign Council," which was chaired by al-BURHAN; on 25 October 2021, al-BURHAN dissolved the Sovereign Council but reinstated it on 11 November 2021, replacing its civilian members (previously selected by the umbrella civilian coalition the Forces for Freedom and Change) with civilians of the military&rsquo;s choosing, but then relieved the newly-appointed civilian members of their duties on 6 July 2022; note - Sovereign Council currently consists of only the 5 generals<br>
+_chief of state_: Sovereign Council Chair and Commander-in-Chief of the Sudanese Armed Forces General Abd-al-Fatah al-BURHAN Abd-al-Rahman; note &ndash; the 2019 Constitutional Declaration established a collective chief of state of the "Sovereign Council," which was chaired by al-BURHAN; on 25 October 2021, al-BURHAN dissolved the Sovereign Council but reinstated it on 11 November 2021, replacing its civilian members (previously selected by the umbrella civilian coalition the Forces for Freedom and Change) with civilians of the military&rsquo;s choosing but then relieved the newly appointed civilian members of their duties on 6 July 2022; note - Sovereign Council currently consists of only the 5 generals<br>
 _head of government_: Sovereign Council Chair and Commander-in-Chief of the Sudanese Armed Forces General Abd-al-Fatah al-BURHAN Abd-al-Rahman; Acting Prime Minister Osman HUSSEIN (since 19 January 2022); note - former Prime Minister Abdallah HAMDOUK resigned on 2 January 2022; HAMDOUK served as prime minister from August 2019 to October 2019 before he was kidnapped; he was later freed and reinstated as prime minister on 21 November 2021<br>
 _cabinet_: most members of the Council of Ministers were forced from office in October 2021 by the military and subsequently resigned in November 2021; the military allowed a handful of ministers appointed by former armed opposition groups to retain their posts; at present, most of the members of the Council are senior civil servants serving in an acting minister capacity appointed either by Prime Minister HAMDOUK prior to his resignation or by the military<br>
 _elections/appointments_: the 2019 Constitutional Declaration originally called for elections to be held in late 2022 at the end of the transitional period; that date was pushed back to late 2023 by the Juba Peace Agreement; the methodology for future elections has not yet been defined; according to the 2019 Constitutional Declaration, civilian members of the Sovereign Council and the prime minister were to have been nominated by an umbrella coalition of civilian actors known as the Forces for Freedom and Change; this methodology was followed in selecting HAMDOUK as prime minister in August 2019; the military purports to have suspended this provision of the 2019 Constitutional Declaration in October 2021; Prime Minister HAMDOUK&rsquo;s restoration to office in November 2021 was the result of an agreement signed between him and Sovereign Council Chair BURHAN; military members of the Sovereign Council are selected by the leadership of the security forces; representatives of former armed groups to the Sovereign Council are selected by the signatories of the Juba Peace Agreement<br>
@@ -350,8 +350,8 @@ _election results_: NA<br>
 
 **Legislative branch**<br>
 _description_: according to the August 2019 Constitutional Declaration, which established Sudan's transitional government, the Transitional Legislative Council (TLC) was to have served as the national legislature during the transitional period until elections could be held; as of June 2023, the TLC had not been established<br>
-_elections_: Council of State - last held 1 June 2015; subsequently dissolved in April 2019<br>National Assembly - last held on 13-15 April 2015; subsequently dissolved in April 2019 <br>note – according to the 2019 Constitutional Declaration, elections for a new legislature are to be held in late 2023<br>
-_election results_: Council of State - percent of vote by party - NA; seats by party - NA; former composition - men 35, women 19, percent of women 35.2%<br>National Assembly - percent of vote by party - NA; former seats by party - NCP 323, DUP 25, Democratic Unionist Party 15, other 44, independent 19; former composition - men 296 women 130, percent of women 30.5%; note - former<br>total National Legislature percent of women 31%<br>
+_elections_: Council of State - last held 1 June 2015; subsequently dissolved in April 2019<br>National Assembly - last held on 13-15 April 2015; subsequently dissolved in April 2019 <br>note: according to the 2019 Constitutional Declaration, elections for a new legislature are to be held in late 2023<br>
+_election results_: Council of State - percent of vote by party - NA; seats by party - NA; former composition - men 35, women 19, percent of women 35.2%<br>National Assembly - percent of vote by party - NA; former seats by party - NCP 323, DUP 25, Democratic Unionist Party 15, other 44, independent 19; former composition - men 296 women 130, percent of women 30.5%; note - former total National Legislature percent of women 31%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: National Supreme Court (consists of 70 judges organized into panels of 3 judges and includes 4 circuits that operate outside the capital); Constitutional Court (consists of 9 justices including the court president); note - the Constitutional Court resides outside the national judiciary and has not been appointed since the signature of the 2019 Constitutional Declaration<br>
@@ -596,16 +596,16 @@ _Total energy consumption per capita 2019_: 8.047 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 129,408 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
+_total subscriptions_: 155,802 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: (2022 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 16,688,773 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 37 (2021 est.)<br>
+_total subscriptions_: 34,671,259 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 74 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Sudan emerged as a poorer country when South Sudan separated from it in 2011; although Sudan has about four times the population of South Sudan, the latter benefits from its control of the majority of known oil reserves; the Sudanese economy has been affected by hyperinflation in recent years, partly the result of the loss of oil revenue but also due to domestic volatility and social unrest; the difficult economic conditions have meant that for several years telcos have reported revenue under hyper inflationary reporting standards; pressure on revenue has made it difficult for operators to invest in infrastructure upgrades, and so provide improved services to customers; despite this, the number of mobile subscribers increased 7% in 2021, year-on-year; this level of growth is expected to have been maintained in 2022, though could slow from 2023; the country&rsquo;s poor fixed-line infrastructure has helped the development of mobile broadband services (2023)<br>
-_domestic_: teledensity fixed-line is 1 per 100 and mobile-cellular is 37 telephones per 100 persons (2021)<br>
+_domestic_: teledensity fixed-line is 1 per 100 and mobile-cellular is 74 telephones per 100 persons (2022)<br>
 _international_: country code - 249; landing points for the EASSy, FALCON&nbsp;and SAS-1,-2, fiber-optic submarine cable systems linking Africa, the Middle East, Indian Ocean Islands and Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
@@ -726,5 +726,5 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; Harakat Sawa’d Misr<br
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 682,519 (South Sudan) (refugees and asylum seekers), 137,402 (Eritrea) (refugees and asylum seekers), 93,477 (Syria) (refugees and asylum seekers), 72,334 (Ethiopia) (refugees and asylum seekers), 18,597 (Central African Republic) (2023)<br>
-_IDPs_: 5.42 million (armed conflict between rival factions of the military government of Sudan since 15 April 2023) (2023); note - includes some non-Sudanese nationals<br>
+_IDPs_: 6.04 million (armed conflict between rival factions of the military government of Sudan since 15 April 2023) (2024); note - includes some non-Sudanese nationals<br>
 

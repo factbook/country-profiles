@@ -603,7 +603,7 @@ _Total energy consumption per capita 2019_: 77.286 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 189,519 (2021 est.)<br>
+_total subscriptions_: 190,595 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 30 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -700,7 +700,7 @@ the Army of Montenegro is a small military focused on the defense of Montenegro�
 <p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 63,790 (Ukraine) (as of 4 December 2023)<br>
+_refugees (country of origin)_: 64,240 (Ukraine) (as of 25 December 2023)<br>
 _stateless persons_: 468 (2022)<br>
 <strong>note:</strong> 33,825 estimated refugee and migrant arrivals (January 2015-November 2023)<br>
 

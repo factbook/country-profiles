@@ -85,7 +85,7 @@ _adjective_: Azerbaijani<br>
 
 **Ethnic groups**<br>
 Azerbaijani 91.6%, Lezghin 2%, Russian 1.3%, Armenian 1.3%, Talysh 1.3%, other 2.4% (2009 est.)<br>
-<strong>note:</strong> the Nagorno-Karabakh region, which is part of Azerbaijan on the basis of the borders recognized when the Soviet Union dissolved in 1991, is populated almost entirely by ethnic Armenians; Azerbaijan has over 80 ethnic groups<br>
+<strong>note:</strong> the Nagorno-Karabakh region, which is part of Azerbaijan on the basis of the borders recognized when the Soviet Union dissolved in 1991, was populated almost entirely by ethnic Armenians; Azerbaijan has over 80 ethnic groups<br>
 
 **Languages**<br>
 Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)<br>
@@ -333,8 +333,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Ilham ALIYEV (since 31 October 2003); First Vice President Mehriban ALIYEVA (since 21 February 2017)<br>
 _head of government_: Prime Minister Ali ASADOV (since 8 October 2019); First Deputy Prime Minister Yaqub EYYUBOV (since 13 February 2003)<br>
 _cabinet_: Council of Ministers appointed by the president and confirmed by the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds (if needed) for a 7-year term; a single individual is eligible for unlimited terms; election last held on 11 April 2018 (next to be held on 7 February 2024); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly; note - a constitutional amendment approved in a September 2016 referendum extended the presidential term from 5 to 7 years; a separate constitutional amendment approved in the same referendum also introduced the post of first vice-president and additional vice-presidents, who are directly appointed by the president; however, no additional vice-presidents have been appointed since the constitutional amendment was passed<br>
-_election results_: Ilham ALIYEV reelected president in first round; percent of vote - Ilham ALIYEV (YAP) 86%, Zahid ORUJ (independent) 3.1%, other 10.9%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds (if needed) for a 7-year term; a single individual is eligible for unlimited terms; election last held on 11 April 2018 (next to be held on 7 February 2024); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly; note - a constitutional amendment approved in a September 2016 referendum extended the presidential term from 5 to 7 years; a separate constitutional amendment approved in the same referendum also introduced the post of first vice president and additional vice-presidents, who are directly appointed by the president; however, no additional vice presidents have been appointed since the constitutional amendment was passed<br>
+_election results_: <em>2018:</em> Ilham ALIYEV reelected president in first round; percent of vote - Ilham ALIYEV (YAP) 86%, Zahid ORUJ (independent) 3.1%, other 10.9%<br>
 <strong>note:</strong> OSCE observers noted shortcomings in the election, including a restrictive political environment, limits on fundamental freedoms, a lack of genuine competition, and ballot box stuffing<br>
 
 **Legislative branch**<br>

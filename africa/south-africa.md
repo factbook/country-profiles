@@ -342,10 +342,10 @@ _residency requirement for naturalization_: 5 year<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Matamela Cyril RAMAPHOSA (since 15 February 2018); Deputy President Paul MASHSATILE (since 7 March 2023); note - the president is both chief of state and head of government; note - Deputy President David MABUZA resigned 1 March 2023<br>
+_chief of state_: President Matamela Cyril RAMAPHOSA (since 15 February 2018); Deputy President Paul MASHSATILE (since 7 March 2023); note - the president is both chief of state and head of government; Deputy President David MABUZA resigned 1 March 2023<br>
 _head of government_: President Matamela Cyril RAMAPHOSA (since 15 February 2018); Deputy President Paul MASHSATILE (since 7 March 2023)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 22 May 2019 (next to be held around May 2024)<br>
+_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 22 May 2019 (next to be held in 2024)<br>
 _election results_: <br><em>2019: </em>Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br><br><em>2014:</em> Jacob ZUMA (ANC) reelected president by the National Assembly unopposed  <p> </p><br>
 
 **Legislative branch**<br>
@@ -713,7 +713,7 @@ South African National Defense Force (SANDF): South African Army (includes Reser
 approximately 75,000 active-duty personnel (40,000 Army; 7,000 Navy; 10,000 Air Force; 8,000 Military Health Service; 10,000 other, including administrative, logistics, military police); 180,000 South African Police Service (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SANDF's inventory consists of a mix of domestically produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly produced with foreign companies), while the Air Force and Navy inventories include a mix of aging European-, Israeli-, and US-origin weapons and equipment; the SANDF has received only a limited number of imported weapons in recent years&nbsp; (2023)<br>
+the SANDF's inventory consists of a mix of domestically produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly produced with foreign companies), while the Air Force and Navy inventories include a mix of aging European-, Israeli-, and US-origin weapons and equipment; the SANDF has received only a limited number of imported weapons in recent years (2023)<br>
 
 **Military service age and obligation**<br>
 18-22 (18-26 for college graduates) years of age for voluntary military service for men and women; 2-year service obligation (2023)<br>

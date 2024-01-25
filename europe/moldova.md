@@ -330,7 +330,7 @@ _chief of state_: President Maia SANDU (since 24 December 2020)<br>
 _head of government_: Prime Minister Dorin RECEAN (since 16 February 2023)<br>
 _cabinet_: Cabinet proposed by the prime minister-designate, nominated by the president, approved through a vote of confidence in Parliament<br>
 _elections/appointments_: president directly elected for a 4-year term (eligible for a second term); election last held on 15 November 2020 (next to be held in fall 2024); prime minister designated by the president upon consultation with Parliament; within 15 days from designation, the prime minister-designate must request a vote of confidence for his/her proposed work program from the Parliament<br>
-_election results_: <em><br>2020:</em> Maia SANDU elected president; percent of vote (second round results) - Maia SANDU (PAS) 57.7%, Igor DODON (PSRM) 42.3%<br><br><em>2016</em>: Igor DODON elected president; percent of vote 52.1%, and Maia SANDU 47.9%<br>
+_election results_: <em><br>2020:</em> Maia SANDU elected president in second round; percent of vote in second round - Maia SANDU (PAS) 57.7%, Igor DODON (PSRM) 42.3%<br><br><em>2016</em>: Igor DODON elected president in second round; percent of vote - Igor DODON (PSRM) 52.1%, Maia SANDU (PAS) 47.9%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (101 seats; 51 members directly elected in single-seat constituencies by simple majority vote and 50 members directly elected in a single, nationwide constituency by closed party-list proportional representation vote; all members serve 4-year terms<br>
@@ -686,7 +686,7 @@ the National Army is responsible for defense against external aggression, suppre
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 112,810 (Ukraine) (as of 24 December 2023)<br>
+_refugees (country of origin)_: 120,695 (Ukraine) (as of 14 January 2024)<br>
 _stateless persons_: 1,701 (2022)<br>
 
 **Illicit drugs**<br>

@@ -324,7 +324,7 @@ _residency requirement for naturalization_: 10 years, the last 5 of which have b
 _chief of state_: President Natasa PIRC MUSAR (since 23 December 2022); note - PIRC MUSAR is Slovenia's first female president<br>
 _head of government_: Prime Minister Robert GOLOB (since 1 June 2022)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second consecutive term); election last held on 23 October 2022&nbsp;with a runoff on 13 November (next to be held in 2027); following National Assembly elections, the leader of the majority party or majority coalition usually nominated prime minister by the president and elected by the National Assembly<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second consecutive term); election last held on 23 October 2022 with a runoff on 13 November 2022 (next to be held in 2027); following National Assembly elections, the leader of the majority party or majority coalition usually nominated prime minister by the president and elected by the National Assembly<br>
 _election results_: <em><br>2022:</em> Natasa PIRC MUSAR elected president in second round: percent of vote in first round - Anze LOGAR (SDS) 34%, Natasa PIRC MUSAR (independent) 26.9%, Milan BRGLEZ (SD) 15.5%, Vladimir PREBILIC (independent) 10.6%, Sabina SENCAR (Resni.ca) 5.9%, Janez CIGLER KRALJ (NSi) 4.4%, other 2.7%; percent of vote in second round - Natasa PIRC MUSAR 53.9%, Anze LOGAR 46.1%; Robert GOLOB (GS) elected prime minister on 25 May 2022, National Assembly vote - 54-30<br><em><br>2017:</em> Borut PAHOR reelected president in second round; percent of vote in first round - Borut PAHOR (independent) 47.1%, Marjan SAREC (Marjan Sarec List) 25%, Romana TOMC (SDS) 13.7%, Ljudmila NOVAK (NSi) 7.2%, other 7%; percent of vote in second round - Borut PAHOR 52.9%, Marjan SAREC 47.1%<br>
 
 **Legislative branch**<br>
@@ -593,16 +593,16 @@ _Total energy consumption per capita 2019_: 134.836 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 695,444 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 33 (2021 est.)<br>
+_total subscriptions_: 675,823 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 32 (2022 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,607,268 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 123 (2021 est.)<br>
+_total subscriptions_: 2,674,900 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 126 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Slovenia&rsquo;s telecom sector is dominated by four operators; the mobile market has four MNOs and a small number of MVNOs, operating in a country with a potential market of just over two million people; the regulator in recent years has addressed the need for mobile operators to have more spectrum, so enabling them to improve the quality and range of services; a multi-spectrum auction was concluded in mid-2021, aimed at supporting 5G services; the broadband market continues to be dominated by a small number of players; DSL lost its dominance some years ago, being taken over by fiber as subscribers are migrated to new fiber-based networks; fiber accounted for almost half of all fixed broadband connections by March 2022 (2022)<br>
-_domestic_: fixed-line is 33 per 100 and mobile-cellular is 123 per 100 teledensity (2021)<br>
+_domestic_: fixed-line is 32 per 100 and mobile-cellular is 126 per 100 teledensity (2022)<br>
 _international_: country code - 386 (2016)<br>
 
 **Broadcast media**<br>
@@ -700,7 +700,7 @@ the Slovenian Armed Forces (Slovenska Vojska or SV) are a small and professional
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,515 (Ukraine) (as of 4 December 2023)<br>
+_refugees (country of origin)_: 10,635 (Ukraine) (as of 19 December 2023)<br>
 _stateless persons_: 10 (2020)<br>
 <strong>note: </strong> 6174,747 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 

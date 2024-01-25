@@ -326,7 +326,7 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Nikos CHRISTODOULIDIS (since 28 February 2023); the president is both chief of state and head of government; note - vice presidency reserved for a Turkish Cypriot, but vacant since 1974 because Turkish Cypriots do not participate in the Republic of Cyprus Government<br>
+_chief of state_: President Nikos CHRISTODOULIDIS (since 28 February 2023); the president is both chief of state and head of government; note - vice presidency reserved for a Turkish Cypriot but vacant since 1974 because Turkish Cypriots do not participate in the Republic of Cyprus Government<br>
 _head of government_: President Nikos CHRISTODOULIDIS (since 28 February 2023)<br>
 _cabinet_: Council of Ministers appointed by the president; note - under the 1960 constitution, 3 of the ministerial posts reserved for Turkish Cypriots, appointed by the vice president; positions currently filled by Greek Cypriots<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); election last held on held 5 February 2023 with a runoff on 12 February 2023 (next to be held in 2028)<br>
@@ -604,7 +604,7 @@ _Total energy consumption per capita 2019_: 133.92 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 304,581 (2021 est.)<br>
+_total subscriptions_: 297,382 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 34 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

@@ -353,8 +353,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Macky SALL (since 2 April 2012)<br>
 _head of government_: Prime Minister Amadou BA (since 17 September 2022)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single, renewable 5-year term; election last held on 24 February 2019 (next to be held in February 2024)<br>
-_election results_: <br><em><em>2019:</em></em> Macky SALL elected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5% <p><em>2012:</em> Macky SALL elected president in second round; percent of vote - Macky SALL 65.8%, Abdoulaye WADE (PDS) 34.2% </p><br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single, renewable 5-year term; election last held on 24 February 2019 (next to be held on 25 February 2024)<br>
+_election results_: <br><em><em>2019:</em></em> Macky SALL reelected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5% <p><em>2012:</em> Macky SALL elected president in second round; percent of vote - Macky SALL (APR) 65.8%, Abdoulaye WADE (PDS) 34.2% </p><br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or <em>Assemblée</em> Nationale (165 seats; 112 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 53 members directly elected by proportional representation vote in a single nationwide constituency; member term is 5-years)<br>

@@ -344,7 +344,7 @@ _residency requirement for naturalization_: minimum of 3 of last 5 years residen
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Mary SIMON (since 6 July 2021)<br>
-_head of government_: Prime Minister Justin Pierre James TRUDEAU (Liberal Party) (since 4 November 2015)<br>
+_head of government_: Prime Minister Justin Pierre James TRUDEAU (since 4 November 2015)<br>
 _cabinet_: Federal Ministry chosen by the prime minister usually from among members of his/her own party sitting in Parliament<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general<br>
 <strong>note:</strong> the governor general position is largely ceremonial<br>
@@ -621,7 +621,7 @@ _Total energy consumption per capita 2019_: 403.7 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 12.928 million (2021 est.)<br>
+_total subscriptions_: 11.312 million (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 34 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -710,7 +710,7 @@ Canada operates a fleet of 12 icebreakers including two PC 3 or 4 class medium i
 ## Military and Security
 
 **Military and security forces**<br>
-Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force; Department of Fisheries and Oceans: Coast Guard (2023)<br>
+Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force; Department of Fisheries and Oceans: Coast Guard (2024)<br>
 <strong>note 1: </strong>the CAF is comprised of both a Regular Force and a Reserve Force; the Reserve Force is part of all three services (Army, Navy, and Air Force) and is considered an integral component of the CAF; reservists are primarily part-time service positions; they may volunteer for full-time employment or deployment on operations; they typically serve one or more evenings a week and/or during weekends at locations close to home; the Reserve Force is comprised of the Primary Reserve, Canadian Rangers, Cadet Organizations Administration and Training Service, and the Supplementary Reserve; the Canadian Rangers are part of the Army Reserve Force and provide a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles <br><br><strong>note 2: </strong>the Royal Canadian Mounted Police (RCMP or "Mounties") are under the Department of Public Safety; only Ontario, Quebec, and Newfoundland and Labrador have provincial police forces, but the Royal Newfoundland Constabulary contracts policing in regions of the province to the RCMP; the RCMP and municipal forces provide coverage for other provinces and territories; some Indigenous reserves provide Indigenous policing; provincial and municipal police report to their respective provincial authorities<br>
 
 **Military expenditures**<br>
