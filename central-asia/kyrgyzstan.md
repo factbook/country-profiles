@@ -599,7 +599,7 @@ _Total energy consumption per capita 2019_: 35.059 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 300,000 (2021 est.)<br>
+_total subscriptions_: 299,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 5 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -655,6 +655,8 @@ _broad gauge_: 424 km (2018) 1.520-m gauge<br>
 
 **Roadways**<br>
 _total_: 34,000 km (2022)<br>
+_paved_: 22,600 km (2020)<br>
+_unpaved_: 7,700 km (2020)<br>
 
 **Waterways**<br>
 576 km (2022)<br>
@@ -684,7 +686,7 @@ the Kyrgyz military inventory is comprised of mostly older Russian and Soviet-er
 18-27 years of age for compulsory or voluntary service for men in the Armed Forces or Interior Ministry; 12-month service obligation (9 months for university graduates), with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2023)<br>
 
 **Military - note**<br>
-Kyrgyzstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; it also started a relationship with NATO in 1992 and joined NATO's Partnership for Peace program in 1994<br><br>the Kyrgyz military’s primary responsibility is defense of the country’s sovereignty and territory, although it also has some internal security duties; elements of the military were called out in 2020 to respond to post-election demonstrations for example, and the National Guard’s missions include counterterrorism, responding to emergencies, and the protection of government facilities; the military also participates in UN and CSTO peacekeeping missions; border disputes with Tajikistan and Uzbekistan, as well as the threat posed by militant Islamic groups, have been particular areas of concern for both the military and internal security forces; the military’s closest security partner is Russia, which provides training and material assistance, and maintains a presence in the country, including an airbase; the military also conducts training with other regional countries such as India, traditionally with a focus on counterterrorism<br><br>the Kyrgyz military was formed in 1992 from Soviet Army units then based in Kyrgyzstan following the dissolution of the USSR; while the current organization continues to be based on those former Soviet formations, specific information is limited and varied; the Army’s principal combat units are reportedly a few small Soviet-style “motor rifle” (mechanized) infantry brigades, plus brigades of mountain infantry, special forces, and artillery; the National Guard has some rapid reaction and special forces units; the Air Defense Forces reportedly have only a few operational combat helicopters (2023)<br>
+Kyrgyzstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force; it also started a relationship with NATO in 1992 and joined NATO's Partnership for Peace program in 1994<br><br>the Kyrgyz military’s primary responsibility is defense of the country’s sovereignty and territory, although it also has some internal security duties; elements of the military were called out in 2020 to respond to post-election demonstrations for example, and the National Guard’s missions include counterterrorism, responding to emergencies, and the protection of government facilities; the military also participates in UN and CSTO peacekeeping missions; border disputes with Tajikistan and Uzbekistan, as well as the threat posed by militant Islamic groups, have been particular areas of concern for both the military and internal security forces; the military’s closest security partner is Russia, which provides training and material assistance, and maintains a presence in the country, including an airbase; the military also conducts training with other regional countries such as India, traditionally with a focus on counterterrorism<br><br>the Kyrgyz military was formed in 1992 from Soviet Army units then based in Kyrgyzstan following the dissolution of the USSR; the current organization continues to be based on those former Soviet formations; the Army’s principal combat units are reportedly a few small Soviet-style “motor rifle” (mechanized) infantry brigades, plus brigades of mountain infantry, special forces, and artillery; the National Guard has some rapid reaction and special forces units; the Air Defense Forces reportedly have only a few operational combat helicopters (2023)<br>
 
 ## Terrorism
 

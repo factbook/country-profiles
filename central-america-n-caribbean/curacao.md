@@ -264,7 +264,7 @@ _elections/appointments_: the monarch is hereditary; governor appointed by the m
 **Legislative branch**<br>
 _description_: unicameral Parliament of Curacao (21 seats; members directly elected by party-list proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 19 March 2021 (next to be held in 2025)<br>
-_election results_: <br>percent of vote by party - MFK 28.1%, PAR 14.1%, PNP 12.6%, MAN 6.5%, KEM 5.4%, TPK 5.3%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition - NA<br>
+_election results_: <br>percent of vote by party - MFK 28.1%, PAR 14.1%, PNP 12.6%, MAN 6.5%, KEM 5.4%, TPK 5.3%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition as of January 2024 - men 15, women 6, percent of women 28.6%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court, in The Hague, Netherlands<br>
@@ -492,7 +492,7 @@ _bulk cargo port(s)_: Fuik Bay (phosphate rock)<br>
 no regular military forces; Curaçao Militia (CURMIL) (2023)<br>
 
 **Military - note**<br>
-defense is the responsibility of the Kingdom of the Netherlands; the Dutch Government controls foreign and defense policy; the Dutch Caribbean Coast Guard (DCCG) provides maritime security (2022)<br>
+defense is the responsibility of the Kingdom of the Netherlands; the Dutch Government controls foreign and defense policy; the Dutch Caribbean Coast Guard (DCCG) provides maritime security (2024)<br>
 
 ## Transnational Issues
 
@@ -500,8 +500,8 @@ defense is the responsibility of the Kingdom of the Netherlands; the Dutch Gover
 _refugees (country of origin)_: 14,000 (Venezuela) (2022)<br>
 
 **Trafficking in persons**<br>
-_tier rating_: Tier 3 &mdash; Curacao does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore Curacao remained on Tier 3; the government took some steps to address trafficking, including providing shelter and services to two victims, prosecuting two alleged traffickers, and adopting and funding a National Action Plan (NAP) to improve law enforcement efforts to combat trafficking; however, the new NAP did not include provisions to protect victims or prevent crime; the courts did not convict any traffickers, and the government continued to condition foreign victim assistance on cooperation in cases against traffickers; lack of funding remained a primary obstacle to anti-trafficking efforts; officials demonstrated limited familiarity with human trafficking and conflated it with migrant smuggling, hindering effective prosecution, prevention, and protection efforts; government coordination with civil society organizations and internally, across agencies, was inadequate (2023)<br>
-_trafficking profile_: human traffickers exploit domestic and foreign victims in Curacao; undocumented migrants, especially the substantial population of Venezuelans, are vulnerable to sex and labor trafficking; traffickers exploit women and girls, particularly from Curacao, Dominican Republic, and Venezuela, among other countries, in sex trafficking; migrants from other Caribbean countries, South America, China, and India are subject to forced labor in domestic servitude, as well as in construction, landscaping, minimarkets, retail, and restaurants (2023)<br>
+_tier rating_: Tier 3 &mdash; Curacao does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Curacao remained on Tier 3; the government took some steps to address trafficking, including providing shelter and services to two victims, prosecuting two alleged traffickers, and adopting and funding a National Action Plan (NAP) to improve law enforcement efforts to combat trafficking; however, the new NAP did not include provisions to protect victims or prevent crime; the courts did not convict any traffickers, and the government continued to condition foreign victim assistance on cooperation in cases against traffickers; lack of funding remained a primary obstacle to anti-trafficking efforts; officials demonstrated limited familiarity with human trafficking and conflated it with migrant smuggling, hindering effective prosecution, prevention, and protection efforts; government coordination with civil society organizations and internally, across agencies, was inadequate (2023)<br>
+_trafficking profile_: human traffickers exploit domestic and foreign victims in Curacao; undocumented migrants, especially the substantial population of Venezuelans, are vulnerable to sex and labor trafficking; traffickers exploit women and girls, particularly from Curacao, the Dominican Republic, and Venezuela, among other countries, in sex trafficking; migrants from other Caribbean countries, South America, China, and India are subject to forced labor in domestic servitude, as well as in construction, landscaping, mini markets, retail, and restaurants (2023)<br>
 
 **Illicit drugs**<br>
 <p>northbound transshipment points for cocaine from Colombia and Venezuela; cocaine is transported to the United States, other Caribbean islands, Africa, and Europe</p><br>

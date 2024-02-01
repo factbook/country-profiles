@@ -278,6 +278,10 @@ _conventional long form_: none<br>
 _conventional short form_: West Bank<br>
 _etymology_: name refers to the location of the region of the British Mandate of Palestine that was occupied and administered by Jordan in 1948, as it is located on the far side (west bank) of the Jordan River in relation to Jordan proper; the designation was retained following the 1967 Six-Day War and the subsequent changes in administration<br>
 
+**National heritage**<br>
+_total World Heritage Sites_: 4 (all cultural)<br>
+_selected World Heritage Site locales_: Ancient Jericho/Tell es-Sultan; Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem; Hebron/Al-Khalil Old Town; Land of Olives and Vines &ndash; Cultural Landscape of Southern Jerusalem, Battir<br>
+
 ## Economy
 
 **Real GDP (purchasing power parity)**<br>

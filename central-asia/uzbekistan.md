@@ -340,7 +340,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Shavkat MIRZIYOYEV (since 14 December 2016)<br>
 _head of government_: Prime Minister Abdulla ARIPOV (since 14 December 2016)<br>
 _cabinet_: Cabinet of Ministers appointed by the president with most requiring approval of the Senate chamber of the Supreme Assembly (Oliy Majlis)<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term; previously a 5-year term, extended to 7 years by a 2023 constitutional amendment); election last held on 24 October 2021 (next to be held in 2026); prime minister nominated by majority party in legislature since 2011 but appointed along with the ministers and deputy ministers by the president<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term; previously a 5-year term, extended to 7 years by a 2023 constitutional amendment); election last held on 9 July 2023&nbsp; (next to be held in 2030); prime minister nominated by majority party in legislature since 2011 but appointed along with the ministers and deputy ministers by the president<br>
 _election results_: 2023: Shavkat MIRZIYOYEV reelected president in snap election; percent of vote - Shavkat MIRZIYOYEV (LDPU) 87.71%, Robaxon Maxmudova (Adolat) 4.47%, Ulugbek Inoyatov (PDP) 4.05%, Abdushukur Xamzayev (Ecological Party) 3.77%<br><br>2021: Shavkat MIRZIYOYEV reelected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 80.3%, Maqsuda VORISOVA (PDP) 6.7%, Alisher QODIROV (National Revival Democratic Party) 5.5%, Narzullo OBLOMURODOV (Ecological Party) 4.1%, Bahrom ABDUHALIMOV (Adolat) 3.4%<br><br><em>2016:</em> Shavkat MIRZIYOYEV elected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 88.6%, Hotamjon KETMONOV (PDP) 3.7%, Narimon UMAROV (Adolat) 3.5%, Sarvar OTAMURODOV (National Revival Democratic Party) 2.4%, other 1.8%<br>
 
 **Legislative branch**<br>
@@ -388,8 +388,8 @@ _lyrics/music_: Abdulla ARIPOV/Mutal BURHANOV<br>
 <strong>note:</strong> adopted 1992; after the fall of the Soviet Union, Uzbekistan kept the music of the anthem from its time as a Soviet Republic but adopted new lyrics<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 6 (5 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Itchan Kala (c); Historic Bukhara (c); Historic Shakhrisyabz (c); Samarkand - Crossroad of Cultures (c); Western Tien Shan (n); Silk Roads: Zarafshan-Karakum Corridor (c)<br>
+_total World Heritage Sites_: 7 (5 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Itchan Kala (c); Historic Bukhara (c); Historic Shakhrisyabz (c); Samarkand - Crossroad of Cultures (c); Western Tien Shan (n); Cold Winter Deserts of Turan (n); Silk Roads: Zarafshan-Karakum Corridor (c)<br>
 
 ## Economy
 
@@ -719,7 +719,7 @@ Islamic Jihad Union; Islamic Movement of Uzbekistan; Islamic State of Iraq and a
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Uzbekistan-Afghanistan</em>: none identified</p> <p><em>Uzbekistan-Kazakhstan</em>: field demarcation of the boundaries with Kazakhstan commenced in 2004; disputed territory is held by Uzbekistan, but the overwhelming majority of residents are ethnic Kazakhs; the two countries agreed on draft final demarcation documents in March 2022 and signed an agreement demarcating their border in December 2022 </p> <p><em>Uzbekistan-Kyrgyzstan</em>: border delimitation of 130 km of border with Kyrgyzstan is hampered by serious disputes around enclaves and other areas; in 2021, border talks between Uzbek and Kyrgyz officials raised the possibility of a land swap arrangement, but a deal was not finalized</p> <p><em>Uzbekistan-Tajikistan</em>: none identified</p> <p><em>Uzbekistan-Turkmenistan</em>: prolonged drought and cotton monoculture in Uzbekistan and Turkmenistan created water-sharing difficulties for Amu Darya river states; in 2021, the two countries reached an agreement to create a joint intergovernmental commission to oversee water management</p><br>
+<p><em>Uzbekistan-Afghanistan</em>: none identified</p> <p><em>Uzbekistan-Kazakhstan</em>: field demarcation of the boundaries with Kazakhstan commenced in 2004; disputed territory is held by Uzbekistan, but the overwhelming majority of residents are ethnic Kazakhs; the two countries agreed on draft final demarcation documents and ratified the correlating treaties in March 2023</p> <p><em>Uzbekistan-Kyrgyzstan</em>: border delimitation of 130 km of border with Kyrgyzstan is hampered by serious disputes around enclaves and other areas; in 2022, Uzbek and Kyrgyz officials settled on a land swap arrangement, resulting in full demarcation of the border; the deal was finalized and approved in May 2023</p> <p><em>Uzbekistan-Tajikistan</em>: none identified</p> <p><em>Uzbekistan-Turkmenistan</em>: prolonged drought and cotton monoculture in Uzbekistan and Turkmenistan created water-sharing difficulties for Amu Darya river states; in 2021, the two countries reached an agreement to create a joint intergovernmental commission to oversee water management</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 13,031 (Afghanistan) (mid-year 2022)<br>

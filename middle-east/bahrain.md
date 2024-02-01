@@ -636,8 +636,8 @@ A9C<br>
 20 km gas, 54 km oil (2013)<br>
 
 **Roadways**<br>
-_total_: 4,122 km (2010)<br>
-_paved_: 3,392 km (2010)<br>
+_total_: 4,122 km<br>
+_paved_: 3,392 km<br>
 _unpaved_: 730 km (2010)<br>
 
 **Merchant marine**<br>

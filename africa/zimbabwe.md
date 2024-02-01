@@ -89,13 +89,14 @@ _noun_: Zimbabwean(s)<br>
 _adjective_: Zimbabwean<br>
 
 **Ethnic groups**<br>
-African 99.4% (predominantly Shona; Ndebele is the second largest ethnic group), other 0.4%, unspecified 0.2% (2012 est.)<br>
+African 99.6% (predominantly Shona; Ndebele is the second largest ethnic group), other (includes caucasian, Asiatic, mixed race) 0.4% (2022 est.)<br>
 
 **Languages**<br>
-Shona (official; most widely spoken), Ndebele (official, second most widely spoken), English (official; traditionally used for official business), 13 minority languages (official; includes Chewa, Chibarwe, Kalanga, Koisan, Nambya, Ndau, Shangani, sign language, Sotho, Tonga, Tswana, Venda, and Xhosa)<br>
+Shona (official; most widely spoken) 80.9%, Ndebele (official, second most widely spoken) 11.5%, English (official; traditionally used for official business) 0.3%, 13 minority languages (official; includes Chewa, Chibarwe, Kalanga, Koisan, Nambya, Ndau, Shangani, sign language, Sotho, Tonga, Tswana, Venda, and Xhosa) 7%, other 0.3% (2022 est.)<br>
+<strong>note:</strong> data represent population by mother tongue<br>
 
 **Religions**<br>
-Protestant 74.8% (includes Apostolic 37.5%, Pentecostal 21.8%, other 15.5%), Roman Catholic 7.3%, other Christian 5.3%, traditional 1.5%, Muslim 0.5%, other 0.1%, none 10.5% (2015 est.)<br>
+Apostolic Sect 40.3%, Pentecostal 17%, Protestant 13.8%, other Christian 7.8%, Roman Catholic 6.4%, African traditionalist 5%, other 1.5% (includes Muslim, Jewish, Hindu), none 8.3% (2022 est.)<br>
 
 **Demographic profile**<br>
 <p>Zimbabwe’s progress in reproductive, maternal, and child health has stagnated in recent years. According to a 2010 Demographic and Health Survey, contraceptive use, the number of births attended by skilled practitioners, and child mortality have either stalled or somewhat deteriorated since the mid-2000s. Zimbabwe’s total fertility rate has remained fairly stable at about 4 children per woman for the last two decades, although an uptick in the urban birth rate in recent years has caused a slight rise in the country’s overall fertility rate. Zimbabwe’s HIV prevalence rate dropped from approximately 29% to 15% since 1997 but remains among the world’s highest and continues to suppress the country’s life expectancy rate. The proliferation of HIV/AIDS information and prevention programs and personal experience with those suffering or dying from the disease have helped to change sexual behavior and reduce the epidemic.</p> <p>Historically, the vast majority of Zimbabwe’s migration has been internal – a rural-urban flow. In terms of international migration, over the last 40 years Zimbabwe has gradually shifted from being a destination country to one of emigration and, to a lesser degree, one of transit (for East African illegal migrants traveling to South Africa). As a British colony, Zimbabwe attracted significant numbers of permanent immigrants from the UK and other European countries, as well as temporary economic migrants from Malawi, Mozambique, and Zambia. Although Zimbabweans have migrated to South Africa since the beginning of the 20th century to work as miners, the first major exodus from the country occurred in the years before and after independence in 1980. The outward migration was politically and racially influenced; a large share of the white population of European origin chose to leave rather than live under a new black-majority government.</p> <p>In the 1990s and 2000s, economic mismanagement and hyperinflation sparked a second, more diverse wave of emigration. This massive outmigration – primarily to other southern African countries, the UK, and the US – has created a variety of challenges, including brain drain, illegal migration, and human smuggling and trafficking. Several factors have pushed highly skilled workers to go abroad, including unemployment, lower wages, a lack of resources, and few opportunities for career growth.</p><br>
@@ -233,10 +234,10 @@ _men married by age 18_: 1.9% (2019 est.)<br>
 3.9% of GDP (2018 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write English<br>
-_total population_: 89.7%<br>
-_male_: 88.3%<br>
-_female_: 93.7% (2021)<br>
+_definition_: any person age 15 and above who completed at least grade 3 of primary education<br>
+_total population_: 93.6%<br>
+_male_: 95.1%<br>
+_female_: 92.3% (2022)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -349,11 +350,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023); First Vice President Constantino CHIWENGA (since 4 September 2023); note - Robert Gabriel MUGABE resigned on 21 November 2017, after ruling for 37 years<br>
+_chief of state_: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023); First Vice President Constantino CHIWENGA (since 4 September 2023); Second Vice President Kembo MOHADI (8 September 2023); note - Robert Gabriel MUGABE resigned on 21 November 2017, after ruling for 37 years<br>
 _head of government_: President Emmerson Dambudzo MNANGAGWA (since 4 September 2023); First Vice President Constantino CHIWENGA (since 4 September 2023); Second Vice President Kembo MOHADI (8 September 2023)<br>
 _cabinet_: Cabinet appointed by president, responsible to National Assembly<br>
 _elections/appointments_: each presidential candidate nominated with a nomination paper signed by at least 10 registered voters (at least 1 candidate from each province) and directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 23 August 2023 (next to be held in 2028); co-vice presidents drawn from party leadership<br>
-_election results_: <em>2023: </em>Emmerson MNANGAGWA elected president in 1st round of voting; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 52.6%, Nelson CHAMISA (MDC-T) 44%, Wilbert MUBAIWA (NPC) 1.20%, other 3%<br><em><br>2018:</em> Emmerson MNANGAGWA elected president in 1st round of voting; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 50.8%, Nelson CHAMISA (MDC-T) 44.3%, Thokozani KHUPE (MDC-N) 0.9%, other 3%<br>
+_election results_: <em>2023: </em>Emmerson MNANGAGWA reelected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 52.6%, Nelson CHAMISA (MDC-T) 44%, Wilbert MUBAIWA (NPC) 1.2%, other 2.2%<br><em><br>2018:</em> Emmerson MNANGAGWA elected president in first round; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 50.7%, Nelson CHAMISA (MDC-T) 44.4%, Thokozani KHUPE (MDC-N) 0.9%, other 4%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (80 seats; 60 members directly elected in multi-seat constituencies - 6 seats in each of the 10 provinces - by proportional representation vote, 16 indirectly elected by the regional governing councils, 18 reserved for the National Council Chiefs, and 2 reserved for members with disabilities; members serve 5-year terms)<br><br>National Assembly (280 seats; 210 members directly elected in single-seat constituencies by simple majority vote and 60 seats reserved for women directly elected by proportional representation vote and 10 additional seats reserved for candidates aged between 21 and 35 directly elected by proportional representation, members serve 5-year terms)<br>
@@ -366,7 +367,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: High Court; Labor Court; Administrative Court; regional magistrate courts; customary law courts; special courts<br>
 
 **Political parties and leaders**<br>
-Citizens Coalition for Change [Nelson CHAMISA] <br>Movement for Democratic Change - MDC-T [Douglas MWONZORA]<br>National People's Congress- NPC- [Wilbert MUBAIWA] <br>Zimbabwe African National Union-Patriotic Front or ZANU-PF [Emmerson Dambudzo MNANGAGWA]<br>Zimbabwe African Peoples Union or ZAPU [Michael NKOMO]<br>
+Citizens Coalition for Change [vacant] <br>Movement for Democratic Change - MDC-T [Douglas MWONZORA]<br>National People's Congress- NPC- [Wilbert MUBAIWA] <br>Zimbabwe African National Union-Patriotic Front or ZANU-PF [Emmerson Dambudzo MNANGAGWA]<br>Zimbabwe African Peoples Union or ZAPU [Michael NKOMO]<br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -710,7 +711,7 @@ has a nascent program with the goal of utilizing space technologies in economic 
 <p><em>Zimbabwe-Mozambique: none identified<br><br>Zimbabwe-South Africa: </em>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration<em><br><br>Zimbabwe-Zambia: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,014 (Democratic Republic of Congo) (refugees and asylum seekers), 9,931 (Mozambique) (2023)<br>
+_refugees (country of origin)_: 12,093 (Democratic Republic of Congo) (refugees and asylum seekers), 9,931 (Mozambique) (2023)<br>
 
 **Illicit drugs**<br>
 <p>transit point for cannabis and South Asian heroin, methaqualone, and methamphetamines en route to South Africa</p><br>

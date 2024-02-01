@@ -85,7 +85,7 @@ _noun_: Swede(s)<br>
 _adjective_: Swedish<br>
 
 **Ethnic groups**<br>
-<p>Swedish 80.3%, Syrian 1.9%, Iraqi 1.4%, Finnish 1.4%, other 15%</p> (2020 est.)<br>
+<p>Swedish 79.6%, Syrian 1.9%, Iraqi 1.4%, Finnish 1.3%, other 15.8%</p> (2022 est.)<br>
 <strong>note:</strong> data represent the population by country of birth; the indigenous Sami people are estimated to number between 20,000 and 40,000<br>
 
 **Languages**<br>
@@ -280,6 +280,10 @@ _agricultural_: 100 million cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 174 billion cubic meters (2020 est.)<br>
+
+**Geoparks**<br>
+_total global geoparks and regional networks_: 1<br>
+_global geoparks and regional networks_: Plat&aring;bergens (2023)<br>
 
 ## Government
 
@@ -684,7 +688,7 @@ Sweden operates four PC 3 or 4 class medium icebreakers in the Baltic Sea<br>not
 ## Military and Security
 
 **Military and security forces**<br>
-Swedish Armed Forces (F&ouml;rsvarsmakten or "the Defense Force"): Army, Navy, Air Force, Home Guard (2023)<br>
+Swedish Armed Forces (F&ouml;rsvarsmakten or "the Defense Force"): Army, Navy, Air Force, Home Guard (2024)<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2023 est.)<br>
@@ -734,6 +738,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 41,520 (Ukraine) (as of 30 November 2023)<br>
+_refugees (country of origin)_: 113,213 (Syria), 26,857 (Afghanistan), 25,849 (Eritrea), 10,464 (Iraq), 9,315 (Somalia), 7,146 (Iran) (mid-year 2022); 41,825 (Ukraine) (as of 28 December 2023)<br>
 _stateless persons_: 46,515 (2022); note - the majority of stateless people are from the Middle East and Somalia<br>
 

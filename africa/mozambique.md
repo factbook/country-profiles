@@ -611,7 +611,7 @@ _Total energy consumption per capita 2019_: 8.107 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 59,682 (2021 est.)<br>
+_total subscriptions_: 29,080 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
@@ -667,9 +667,9 @@ _total_: 4,787 km (2014)<br>
 _narrow gauge_: 4,787 km (2014) 1.067-m gauge<br>
 
 **Roadways**<br>
-_total_: 31,083 km (2015)<br>
-_paved_: 7,365 km (2015)<br>
-_unpaved_: 23,718 km (2015)<br>
+_total_: 30,562 km (2018)<br>
+_paved_: 5,958 km (2018)<br>
+_unpaved_: 24,604 km (2018)<br>
 
 **Waterways**<br>
 460 km (2010) (Zambezi River navigable to Tete and along Cahora Bassa Lake)<br>
@@ -719,7 +719,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Mozambique-Eswatini</em>: none identified</p> <p><em>Mozambique-Malawi</em>:  the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Mozambique-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>Mozambique-Tanzania</em>: none identified</p> <p><em>Mozambique-Zambia</em>: none identified</p> <p><em>Mozambique-Zimbabwe</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,810 (Democratic Republic of Congo) (refugees and asylum seekers), 10,655 (Burundi) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 12,855 (Democratic Republic of Congo) (refugees and asylum seekers), 10,655 (Burundi) (refugees and asylum seekers) (2023)<br>
 _IDPs_: 850,599 (north Mozambique, violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2023)<br>
 
 **Trafficking in persons**<br>

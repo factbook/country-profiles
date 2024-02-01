@@ -639,9 +639,9 @@ _subscriptions per 100 inhabitants_: 0.2 (2020 est.)<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>
-_total_: 5,940 km (2011)<br>
-_paved_: 1,069 km (2011)<br>
-_unpaved_: 4,871 km (2011)<br>
+_total_: 6,906 km (2022)<br>
+_paved_: 1,799 km (2022)<br>
+_unpaved_: 5,107 km (2022)<br>
 
 ## Military and Security
 

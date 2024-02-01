@@ -307,7 +307,7 @@ _chief of state_: King CHARLES III (since 8 September 2022); represented by Gove
 _head of government_: Prime Minister Manasseh SOGAVARE (since 24 April 2019)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the National Parliament for up to 5 years (eligible for a second term); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the National Parliament; deputy prime minister appointed by the governor general on the advice of the prime minister from among members of the National Parliament<br>
-_election results_: Manasseh SOGAVARE elected prime minister on 24 April 2019<br>
+_election results_: Manasseh SOGAVARE (OUR Party) elected prime minister on 24 April 2019<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (50 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
@@ -320,7 +320,7 @@ _judge selection and term of office_: Court of Appeal and High Court president, 
 _subordinate courts_: Magistrates' Courts; Customary Land Appeal Court; local courts<br>
 
 **Political parties and leaders**<br>
-Democratic Alliance Party or DAP [Steve ABANA]<br>Kadere Party of Solomon Islands or KPSI [Peter BOYERS]<br>People's Alliance Party or PAP [Sir Nathaniel WAENA]<br>Solomon Islands Party for Rural Advancement or SIPRA [Manasseh MAELANGA]<br>Solomon Islands People First Party or SIPFP [Dr. Jimmie RODGERS]<br>United Democratic Party or UDP [Sir Thomas Ko CHAN]<br>
+Democratic Alliance Party or DAP [Steve ABANA]<br>Kadere Party of Solomon Islands or KPSI [Peter BOYERS]<br>Ownership, Unity, and Responsibility Party (OUR Party) [Manasseh SOGAVARE]<br>People's Alliance Party or PAP [Sir Nathaniel WAENA]<br>Solomon Islands Party for Rural Advancement or SIPRA [Manasseh MAELANGA]<br>Solomon Islands People First Party or SIPFP [Dr. Jimmie RODGERS]<br>United Democratic Party or UDP [Sir Thomas Ko CHAN]<br>
 <strong>note:</strong> in general, Solomon Islands politics is characterized by fluid coalitions<br>
 
 **International organization participation**<br>

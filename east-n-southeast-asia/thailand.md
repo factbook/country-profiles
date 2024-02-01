@@ -298,6 +298,10 @@ _agricultural_: 51.79 billion cubic meters (2020 est.)<br>
 **Total renewable water resources**<br>
 438.61 billion cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 2<br>
+_global geoparks and regional networks_: Khorat; Satun (2023)<br>
+
 ## Government
 
 **Country name**<br>
@@ -347,9 +351,10 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King WACHIRALONGKON, also spelled Vajiralongkorn (since 1 December 2016)<br>
-_head of government_: Prime Minister SETTHA Thawisin (since 5 September 2023)<br>
+_head of government_: Prime Minister SRETTHA Thawisin (since 5 September 2023)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the king; a Privy Council advises the king<br>
 _elections/appointments_: the monarchy is hereditary; prime minister candidate approved by the House of Representatives and Senate and appointed by the king; starting in 2024, approval of prime minister needed only by the House of Representatives<br>
+<strong>note: </strong>following its May 2023 election win, the MJP formed an eight-party coalition and put forward its leader PITA Limjaroenrat for prime minister; however, the Senate blocked PITA from becoming prime minister in the first National Assembly vote in July 2023, and the Assembly subsequently voted that he could not submit his name again; the Constitutional Court also suspended PITA after accepting cases accusing him of violating election law; in August 2023, MJP handed over the lead in forming a new government to the second largest party in the coalition, PTP, which then formed a new coalition without MJP; PTP put forward SRETTHA Thavisin for prime minister, and he was approved by the National Assembly 482 votes out of a possible 747<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Ratthasapha consists of:<br>Senate or Wuthisapha (currently 250 seats; members appointed by the National Council for Peace and Order to serve 5-year terms; the Senate appointed in 2024 will consist of 200 members elected from various groups of professionals for a 5-year term)<br>House of Representatives or Saphaphuthan Ratsadon (500 seats; 400 members directly elected in single-seat constituencies by simple majority vote and 100 members elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)<br>
@@ -362,7 +367,7 @@ _judge selection and term of office_: Supreme Court judges selected by the Judic
 _subordinate courts_: courts of first instance and appeals courts within both the judicial and administrative systems; military courts<br>
 
 **Political parties and leaders**<br>
-Action Coalition Party or ACP [ANEK Laothammathast]<br>Bhumjaithai Party (aka Phumchai Thai Party or PJT; aka Thai Pride Party) or BJT [ANUTIN Chanwirakun]<br>Chat Phatthana Kla arty (National Development Party) [KON Chatikawanit]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [VARAWUT Silpa-archa]<br>Move Forward Party or MFP [CHAITHAWAT Tulathon] <br>New Economics Party or NEP [MANUN Siwaphiromrat]<br>Palang Pracharat Party (People's State Power Party) or PPRP [PRAWIT Wongsuwan] <br>Prachachat Party or PCC [THAWEE Sodsong]<br>Prachathipat Party (Democrat Party) or DP [CHALERMCHAI Sri-on] <br>Puea Chat Party (For Nation Party) or PCP [SARUNWUT Sarunket]<br>Puea Thai Party (For Thais Party) or PTP [PAETONGTARN Chinnawat]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party or TLP) [SERIPHISUT Temiyawet]<br>Thai Civilized Party or TCL [MONGKOLKIT Suksintharanon]<br>Thai Local Power Party or TLP [CHATCHAWAI Kong-udom]<br>Thai People Power Party or TLPT [NIKHOM Bunwiset]<br>Thai Sang Thai Party [SUDARAT Keyuraphan]<br>United Thai Nation (Ruam Thai Sang Chat) or UTN [PHIRAPHAN Saliratthawiphak]<br>
+Action Coalition Party or ACP [ANEK Laothammathast]<br>Bhumjaithai Party (aka Phumchai Thai Party or PJT; aka Thai Pride Party) or BJT [ANUTIN Chanwirakun]<br>Chat Phatthana Kla arty (National Development Party) [KON Chatikawanit]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [VARAWUT Silpa-archa]<br>Move Forward Party or MFP [CHAITHAWAT Tulathon] <br>New Economics Party or NEP [MANUN Siwaphiromrat]<br>Palang Pracharat Party (People's State Power Party) or PPRP [PRAWIT Wongsuwan] <br>Pheu (Puea) Thai Party (For Thais Party) or PTP [PAETONGTARN Shinawatra (aka Ung In)]<br>Prachachat Party or PCC [THAWEE Sodsong]<br>Prachathipat Party (Democrat Party) or DP [CHALERMCHAI Sri-on] <br>Puea Chat Party (For Nation Party) or PCP [SARUNWUT Sarunket]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party or TLP) [SERIPHISUT Temiyawet]<br>Thai Civilized Party or TCL [MONGKOLKIT Suksintharanon]<br>Thai Local Power Party or TLP [CHATCHAWAI Kong-udom]<br>Thai People Power Party or TLPT [NIKHOM Bunwiset]<br>Thai Sang Thai Party [SUDARAT Keyuraphan]<br>United Thai Nation (Ruam Thai Sang Chat) or UTN [PHIRAPHAN Saliratthawiphak]<br>
 
 **International organization participation**<br>
 ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMOGIP, UNOOSA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -397,8 +402,8 @@ _lyrics/music_: Luang SARANUPRAPAN/Phra JENDURIYANG<br>
 <strong>note:</strong> music adopted 1932, lyrics adopted 1939; by law, people are required to stand for the national anthem at 0800 and 1800 every day; the anthem is played in schools, offices, theaters, and on television and radio during this time; "Phleng Sanlasoen Phra Barami" (A Salute to the Monarch) serves as the royal anthem and is played in the presence of the royal family and during certain state ceremonies<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 6 (3 cultural, 3 natural)<br>
-_selected World Heritage Site locales_: Historic City of Ayutthaya (c); Historic Sukhothai and Associated Historic Towns (c); Thungyai-Huai Kha Khaeng Wildlife Sanctuaries (n); Ban Chiang Archaeological Site (c); Dong Phayayen-Khao Yai Forest Complex (n); Kaeng Krachan Forest Complex (n)<br>
+_total World Heritage Sites_: 7 (4 cultural, 3 natural)<br>
+_selected World Heritage Site locales_: Historic City of Ayutthaya (c); Historic Sukhothai and Associated Historic Towns (c); Thungyai-Huai Kha Khaeng Wildlife Sanctuaries (n); Ban Chiang Archaeological Site (c); Dong Phayayen-Khao Yai Forest Complex (n); Kaeng Krachan Forest Complex (n); The Ancient Town of Si Thep and its Associated Dvaravati Monuments (n)<br>
 
 ## Economy
 

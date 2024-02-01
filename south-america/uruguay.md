@@ -290,6 +290,10 @@ _agricultural_: 3.17 billion cubic meters (2020 est.)<br>
 **Total renewable water resources**<br>
 172.2 billion cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 1<br>
+_global geoparks and regional networks_: Grutas del Palacio (2023)<br>
+
 ## Government
 
 **Country name**<br>

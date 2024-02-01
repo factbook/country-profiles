@@ -270,6 +270,10 @@ _agricultural_: 8.11 billion cubic meters (2020 est.)<br>
 **Total renewable water resources**<br>
 68.4 billion cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 8<br>
+_global geoparks and regional networks_: Chelmos Vouraikos; Grevena - Kozani; Kefalonia-Ithaca; Lavreotiki;&nbsp; Lesvos Island; Psiloritis; Sitia; Vikos - Aoos (2023)<br>
+
 ## Government
 
 **Country name**<br>
@@ -372,7 +376,7 @@ _lyrics/music_: Dionysios SOLOMOS/Nikolaos MANTZAROS<br>
 <strong>note:</strong> adopted 1864; the anthem is based on a 158-stanza poem by the same name, which was inspired by the Greek Revolution of 1821 against the Ottomans (only the first two stanzas are used); Cyprus also uses "Hymn to Liberty" as its anthem<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 18 (16 cultural, 2 mixed)<br>
+_total World Heritage Sites_: 19 (17 cultural, 2 mixed)<br>
 _selected World Heritage Site locales_: Acropolis, Athens (c); Archaeological site of Delphi (c); Meteora (m); Medieval City of Rhodes (c); Archaeological site of Olympia (c); Archaeological site of Mycenae and Tiryns (c); Old Town of Corfu (c); Mount Athos (m); Delos (c); Archaeological Site of Philippi (c)<br>
 
 ## Economy
@@ -586,7 +590,7 @@ _Total energy consumption per capita 2019_: 108.022 million Btu/person (2019 est
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4,913,036 (2021 est.)<br>
+_total subscriptions_: 4,907,123 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 47 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>

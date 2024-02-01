@@ -195,7 +195,7 @@ _unimproved: total_: total: 63.4% of population (2020 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever and&nbsp;malaria<br>
+_vectorborne diseases_: dengue fever, malaria, sexually transmitted diseases: hepatitis B<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
 <strong>note:</strong> on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Benin is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
@@ -353,10 +353,10 @@ _election results_: percent of vote by party - Progressive Union for Renewal 37.
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of the chief justice and 16 justices organized into an administrative division, judicial chamber, and chamber of accounts); Constitutional Court or Cour Constitutionnelle (consists of 7 members, including the court president); High Court of Justice (consists of the Constitutional Court members, 6 members appointed by the National Assembly, and the Supreme Court president); note - jurisdiction of the High Court of Justice is limited to cases of high treason by the national president or members of the government while in office<br>
 _judge selection and term of office_: Supreme Court president and judges appointed by the president of the republic&nbsp;upon the advice of the National Assembly; judges appointed for single renewable 5-year terms; Constitutional Court members - 4 appointed by the National Assembly and 3 by the president of the republic; members appointed for single renewable 5-year terms; other members of the High Court of Justice elected by the National Assembly; member tenure NA<br>
-_subordinate courts_: Court of Appeal or Cour d'Appel; district courts; village courts; Assize courts<br>
+_subordinate courts_: Court of Appeal or Cour d'Appel; Court for the Repression of Economic and Terrorism Infractions (CRIET) or Cour de Repression des Infractions Economiques et du Terrorisme; district courts; village courts; Assize courts<br>
 
 **Political parties and leaders**<br>
-African Movement for Development and Progress or MADEP [Sefou FAGBOHOUN]<br>Benin Renaissance or RB [Lehady SOGLO]<br>Cowrie Force for an Emerging Benin or FCBE [Thomas Boni YAYI]<br>Democratic Renewal Party or PRD [Adrien HOUNGBEDJI]<br>Progressive Union for Renewal [Joseph DJOGBENOU]<br>Republican Bloc [Abdoulaye BIO TCHANE]<br>Sun Alliance or AS [Sacca LAFIA]<br>The Democrats [Eric HOUNDETE]<br>Union Makes the Nation or UN [Adrien HOUNGBEDJI] (includes PRD, MADEP)<br>
+African Movement for Development and Progress or MADEP [Sefou FAGBOHOUN]<br>Benin Renaissance or RB [Lehady SOGLO]<br>Cowrie Force for an Emerging Benin or FCBE [Thomas Boni YAYI]<br>Democratic Renewal Party or PRD [Adrien HOUNGBEDJI]<br>Progressive Union for Renewal [Joseph DJOGBENOU]<br>Republican Bloc [Abdoulaye BIO TCHANE]<br>Sun Alliance or AS [Sacca LAFIA]<br>The Democrats [Boni YAY]<br>Union Makes the Nation or UN [Adrien HOUNGBEDJI] (includes PRD, MADEP)<br>
 <strong>note:</strong> approximately 20 additional minor parties<br>
 
 **International organization participation**<br>
@@ -658,9 +658,7 @@ _total_: 438 km (2014)<br>
 _narrow gauge_: 438 km (2014) 1.000-m gauge<br>
 
 **Roadways**<br>
-_total_: 16,000 km (2006)<br>
-_paved_: 1,400 km (2006)<br>
-_unpaved_: 14,600 km (2006)<br>
+_total_: 16,000 km (2018)<br>
 
 **Waterways**<br>
 150 km (2011) (seasonal navigation on River Niger along northern border)<br>

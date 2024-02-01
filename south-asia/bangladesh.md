@@ -353,7 +353,7 @@ _election results_: President Mohammad Shahabuddin CHUPPI (AL) elected unopposed
 **Legislative branch**<br>
 _description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the House of the Nation membership by proportional representation vote using single transferable vote method; all members serve 5-year terms)<br>
 _elections_: last held on 7 January 2024 (next to be held in 2029)<br>
-_election results_: percent of vote by party - NA; seats by party (directly elected) - AL 222, JP 11, other 3, independent 62, vacant 2; composition NA<br>
+_election results_: percent of vote by party - NA; seats by party (directly elected) - AL 223, JP 11, other 3, independent 62, vacant 1; composition as of January 2024 - men 279, women 20, percent of women 6.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)<br>
@@ -685,8 +685,8 @@ _narrow gauge_: 1,801 km (2014) 1.000-m gauge<br>
 _broad gauge_: 659 km (2014) 1.676-m gauge<br>
 
 **Roadways**<br>
-_total_: 369,105 km (2018)<br>
-_paved_: 110,311 km (2018)<br>
+_total_: 369,105 km<br>
+_paved_: 110,311 km<br>
 _unpaved_: 258,794 km (2018)<br>
 
 **Waterways**<br>
@@ -728,7 +728,7 @@ much of the military's inventory is comprised of Chinese- and Russian-origin equ
 approximately 1,400 Central African Republic (MINUSCA); 1,650 Democratic Republic of the Congo (MONUSCO; plus about 200 police); 120 Lebanon (UNIFIL); 1,600 South Sudan (UNMISS); 150 Sudan (UNISFA) (2023)<br>
 
 **Military - note**<br>
-the military’s primary responsibility is external defense but it also has a domestic security role and has traditionally been a significant player in the country’s politics, as well as its economy; the military has a long history of participating in UN peacekeeping missions, which has provided operational experience and a source of funding; it runs an international institute for the training of peacekeepers; the military also conducts multinational and bilateral exercises with foreign partners, particularly India; it has commercial business interests in such areas as banking, food, hotels, manufacturing, real estate, and shipbuilding, and manages government infrastructure and construction projects<br><br>the Army is the dominant service and its primary combat forces are approximately 10 infantry divisions, complemented by several independent brigades and regiments of armor, artillery, and commandos; it maintains a large presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; the Navy conducts both coastal and blue water operations and participates in UN and humanitarian missions and multinational exercises; its principal combat ships are a mix of approximately 15 frigates, corvettes, and large patrol ships, as well as a few attack submarines; the Air Force has about 50 mostly Chinese- and Russian-made combat aircraft organized into several squadrons (2023)<br>
+the military’s primary responsibility is external defense but it also has a domestic security role and has traditionally been a significant player in the country’s politics, as well as its economy; the military has a long history of participating in UN peacekeeping missions, which has provided operational experience and a source of funding; it runs an international institute for the training of peacekeepers; the military also conducts multinational and bilateral exercises with foreign partners, particularly India; it has commercial business interests in such areas as banking, food, hotels, manufacturing, real estate, and shipbuilding, and manages government infrastructure and construction projects<br><br>the Army is the dominant service and its primary combat forces are approximately 10 infantry divisions, complemented by several independent brigades and regiments of armor, artillery, and commandos; it maintains a large presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; the Navy conducts both coastal and blue water operations and participates in UN and humanitarian missions and multinational exercises; its principal surface warships are a mix of frigates, corvettes, and large patrol ships; it also has a few attack submarines; the Air Force has several squadrons equipped Chinese- and Russian-made combat aircraft; the Air Force has about 50 mostly Chinese- and Russian-made combat aircraft organized into several squadrons (2023)<br>
 
 ## Space
 
@@ -751,7 +751,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 <p><em>Bangladesh-Burma:</em> the border area has historically been an area of conflict and instability; militants, particularly ethnic armed groups (EAGs) from Burma, continue to operate in the border region and conduct illegal crossings, and both countries maintain considerable numbers of security personnel along the border; Burmese military forces actively conduct operations against EAGs; in 2022, Burmese artillery struck Bangladesh territory several times during military operations against Arakan Army rebels inside Rakhine; as of 2017, Burmese border authorities had constructed about 130 miles of border fencing and had planned to fence off the remainder of the border<br><br><em>Bangladesh-India:</em> Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 967,842 (Burma) (2023)<br>
+_refugees (country of origin)_: 971,904 (Burma) (2023)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2022)<br>
 _stateless persons_: 929,606 (2022)<br>
 

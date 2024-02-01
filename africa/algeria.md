@@ -89,7 +89,7 @@ _adjective_: Algerian<br>
 
 **Ethnic groups**<br>
 Arab-Amazigh 99%, European less than 1%<br>
-<strong>note:</strong> although almost all Algerians are Amazigh in origin (not Arab), only a minority identify themselves as primarily Amazigh, about 15% of the total population; these people live mostly in the mountainous region of Kabylie east of Algiers and several other communities; the Amazigh are also Muslim but identify with their Amazigh rather than Arab cultural heritage; Amazigh have long agitated, sometimes violently, for autonomy; the government is unlikely to grant autonomy but has officially recognized Amazigh languages and introduced them into public schools<br>
+<strong>note:</strong> although almost all Algerians are Amazigh in origin and not Arab, only a minority identify themselves as primarily Amazigh, about 15% of the total population; these people live mostly in the mountainous region of Kabylie east of Algiers and in several other communities; the Amazigh are also Muslim but identify with their Amazigh rather than Arab cultural heritage; some Amazigh have long agitated, sometimes violently, for autonomy; the government is unlikely to grant autonomy but has officially recognized Amazigh languages and introduced them into public schools<br>
 
 **Languages**<br>
 Arabic (official), French (lingua franca), Tamazight (official) (dialects include Kabyle (Taqbaylit), Shawiya (Tacawit), Mzab, Tuareg (Tamahaq))<br>
@@ -194,7 +194,7 @@ _unimproved: rural_: rural: 8.7% of population<br>
 _unimproved: total_: total: 3.5% of population (2020 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> on 32 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Algeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> on 23 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Algeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 27.4% (2016)<br>
@@ -339,7 +339,7 @@ _election results_: <em><br>2019:</em> Abdelmadjid TEBBOUNE (FLN) 58.1%, Abdelka
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Council of the Nation or Majlis al-Umma (174 seats, statutory; 170 currently); two-thirds of members indirectly elected by simple majority vote by an electoral college composed of local assemblies within each wilaya, and one-third of members appointed by the president; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National People's Assembly or al-Majlis al-Sha'abi al-Watani (407 seats, including 8 seats for Algerian diaspora); members directly elected in multi-seat constituencies by open-list proportional representation vote using the Hare quota method; members serve 5-year terms)<br>
 _elections_: <br>Council of the Nation - last held on 5 February 2022 (next expected in 2025)<br>National People's Assembly - snap election held on 12 June 2021 (next to be held on 12 June 2026)<br>
-_election results_: <br>Council of the Nation - percent of vote by party - NA; seats by party - FLN 54, RND 22, Future Front 7, National Construction Movement 5, FFS 4, other 6, independent 18, appointed 58; composition as of August 2023 - men 163, women 7, percent of women 4.1%<br><br>National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, (Future Front) 48, Movement of National Construction 39, other 15, independent 84; composition - men 375, women 32, percent of women 7.9%; note - total Parliament percent of women 6.8%<br>
+_election results_: <br>Council of the Nation - percent of vote by party - NA; seats by party - FLN 54, RND 22, Future Front 7, National Construction Movement 5, FFS 4, other 6, independent 18, appointed 58; composition as of August 2023 - men 163, women 7, percent of women 4.1%<br><br>National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, (Future Front) 48, Movement of National Construction 39, other 15, independent 84; composition - men 375, women 32, percent of women 7.9%; note - total Parliament percent of women 6.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Le Cour Supr&ecirc;me, (consists of 150 judges organized into 8 chambers: Civil, Commercial and Maritime, Criminal, House of Offenses and Contraventions, House of Petitions, Land, Personal Status, and Social; Constitutional Council (consists of 12 members including the court chairman and deputy chairman); note - Algeria's judicial system does not include sharia courts<br>
@@ -657,9 +657,7 @@ _other airports_: 32<br>
 _total_: 4,020 km (2019)<br>
 
 **Roadways**<br>
-_total_: 104,000 km (2015)<br>
-_paved_: 71,656 km (2015)<br>
-_unpaved_: 32,344 km (2015)<br>
+_total_: 112,696 km (2020)<br>
 
 **Merchant marine**<br>
 _total_: 119 (2022)<br>

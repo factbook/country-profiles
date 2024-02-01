@@ -644,9 +644,9 @@ P2<br>
 264 km oil (2013)<br>
 
 **Roadways**<br>
-_total_: 9,349 km (2011)<br>
-_paved_: 3,000 km (2011)<br>
-_unpaved_: 6,349 km (2011)<br>
+_total_: 24,862 km (2015)<br>
+_paved_: 2,647 km (2015)<br>
+_unpaved_: 22,215 km (2015)<br>
 
 **Waterways**<br>
 11,000 km (2011)<br>

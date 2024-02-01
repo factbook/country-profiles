@@ -292,6 +292,10 @@ _agricultural_: 67.83 billion cubic meters (2020 est.)<br>
 **Total renewable water resources**<br>
 479 billion cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 1<br>
+_global geoparks and regional networks_: Bohol Island (2023)<br>
+
 ## Government
 
 **Country name**<br>

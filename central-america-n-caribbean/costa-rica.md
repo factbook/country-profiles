@@ -335,7 +335,7 @@ _election results_: <br><em>2022: </em>Rodrigo CHAVES Robles elected president i
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Asamblea Legislativa (57 seats; members directly elected in multi-seat constituencies - corresponding to the country's 7 provinces - by closed party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 6 February 2022 (next to be held in February 2026)<br>
-_election results_: percent of vote by party - PLN 24.8%, PPSD 15%, PUSC 11.4%, PNR 10.1%, PLP 9.1%, 8.3%, other 21.3%; seats by party - PLN 19,&nbsp; PPSD 10, PUSC 9, PNR 7, PLP 6, PFA 6; composition - men 30, women 27, percent of women 47.4%<br>
+_election results_: percent of vote by party - PLN 24.8%, PPSD 15%, PUSC 11.4%, PNR 10.1%, PLP 9.1%, 8.3%, other 21.3%; seats by party - PLN 19, PPSD 10, PUSC 9, PNR 7, PLP 6, PFA 6; composition - men 30, women 27, percent of women 47.4%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of 22 judges organized into 3 cassation chambers each with 5 judges and the Constitutional Chamber with 7 judges)<br>
@@ -684,7 +684,7 @@ no regular military forces; Ministry of Public Security: the Public Force (Fuerz
 the Public Force is lightly armed with an inventory that includes mostly older, secondhand US equipment (2023)<br>
 
 **Military - note**<br>
-Costa Rica relies on specialized paramilitary units within the Ministry of Public Security (MPS) for internal security missions and countering transnational threats such as narcotics smuggling and organized crime, as well as for participating in regional security operations and exercises; MPS forces have received advisory and training support from both Colombia and the US; since 2012, the US has also provided some military equipment, including aircraft and patrol boats (2022)<br>
+Costa Rica relies on specialized paramilitary units within the Ministry of Public Security (MPS) for internal security missions and countering transnational threats such as narcotics smuggling and organized crime, as well as for participating in regional security operations and exercises; MPS forces have received advisory and training support from both Colombia and the US; since 2012, the US has also provided some military equipment, including aircraft and patrol boats (2023)<br>
 
 ## Space
 

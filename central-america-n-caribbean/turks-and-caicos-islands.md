@@ -267,7 +267,7 @@ see United Kingdom<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Nigel DAKIN (since 15 July 2019)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Dileeni Daniel-SELVARATNAM (since 29 June 2023)<br>
 _head of government_: Premier Washington MISICK (since 19 February 2021)<br>
 _cabinet_: Cabinet appointed by the governor from among members of the House of Assembly<br>
 _elections/appointments_: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party is appointed premier by the governor<br>

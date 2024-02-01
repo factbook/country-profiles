@@ -207,7 +207,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: unicameral Christmas Island Shire Council (9 seats; members directly elected by simple majority vote to serve 4-year terms)<br>
 _elections_: held every 2 years with half the members standing for election; last held in October 2023 (next to be held in October 2025)<br>
-_election results_: percent of vote - NA; seats by party - independent 9; composition as of October 2023 - men 7, women 2, percent of women 22%<br>
+_election results_: percent of vote - NA; seats by party - independent 9; composition as of January 2024 - men 9, women 1, percent of women 11.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island, including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)<br>

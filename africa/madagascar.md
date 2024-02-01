@@ -659,24 +659,24 @@ _major seaport(s)_: Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (T
 ## Military and Security
 
 **Military and security forces**<br>
-Madagascar People's Armed Forces (PAF): Army, Navy, Air Force; National Gendarmerie (2023)<br>
+Madagascar People's Armed Forces (PAF): Army, Navy, Air Force; National Gendarmerie (2024)<br>
 <strong>note: </strong>the National Gendarmerie is separate from the PAF under the Ministry of Defense and is responsible for maintaining law and order in rural areas at the village level, protecting government facilities, and operating a maritime police contingent; the National Police under the Ministry of Security is responsible for maintaining law and order in urban areas<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2023 est.)<br>
 0.7% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.7% of GDP (2020 est.)<br>
 0.5% of GDP (2019 est.)<br>
-0.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimated 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); estimated 10,000 Gendarmerie (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PAF's inventory consists mostly of aging Soviet-era equipment; in recent years, it has received small amounts of secondhand equipment from South Africa and the UAE (2023)<br>
+the PAF's inventory consists mostly of aging Soviet-era equipment; in recent years, it has received small amounts of secondhand equipment from France, Japan, South Africa, and the UAE (2023)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for men and women; service obligation 18 months; no conscription; women are permitted to serve in all branches (2022)<br>
+18-25 years of age for men and women; service obligation 18 months; no conscription; women are permitted to serve in all branches (2023)<br>
 
 **Military - note**<br>
 the PAF&rsquo;s responsibilities include ensuring sovereignty and territorial integrity and protecting Madagascar&rsquo;s maritime domain, particularly against piracy, drug trafficking, and smuggling; it also assists the Gendarmerie with maintaining law and order in rural areas, largely in areas affected by banditry, cattle rustling, and criminal groups; the PAF has a history of having influence in domestic politics and a lack of accountability; members of the Army and the Gendarmerie were arrested for coup plotting as recently as 2021; its closest defense partners have been India and Russia; the PAF&rsquo;s small Navy has traditionally looked to India for assistance with maritime security (2023)<br>

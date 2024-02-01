@@ -306,8 +306,8 @@ _elections/appointments_: the monarchy is hereditary but can be removed by a two
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Chi Tshog consists of:<br>non-partisan National Council or Gyelyong Tshogde (25 seats; 20 members directly elected in single-seat constituencies by simple majority vote and 5 members appointed by the king; members serve 5-year terms)<br> National Assembly or Tshogdu (47 seats; members directly elected in single-seat constituencies in a two-round system; in the primary round, contesting political parties are directly selected by simple majority vote; in the main round, the two top parties in the primary round field candidates who are directly elected by simple majority vote; members serve 5-year terms)  <br>
-_elections_: <br>National Council - last held on 20 April 2023 (next to be held in 2028)<br><br>National Assembly - first round held on 30 November 2023 and second round held on 9 January 2024 (next to be held in 2028)<br><em><br>2018:</em> National Assembly - first round held on 15 September 2018 and second round held on 18 October 2018 (next primary round be held on 30 November 2023 and second round to be held on 9 January 2024)<br>
-_election results_: <br>National Council - seats by party - independent 20 (all candidates ran as independents) and 5 appointed by the king; composition as of October 2023 - men 22, women 3, percent of women 12%<br><br>National Assembly - percent of vote by party (first round) - PDP 42.5%, BTP 19.6%, DPT 14.9%, DNT 13.1% DTT 9.8%; percent of vote (second round) - NA; seats by party (second round) PDP 30, BTP 17<br>
+_elections_: <br>National Council - last held on 20 April 2023 (next to be held in 2028)<br><br>National Assembly - first round held on 30 November 2023 with a runoff on 9 January 2024 (next to be held in 2028)<br>
+_election results_: <br>National Council - seats by party - independent 20 (all candidates ran as independents) and 5 appointed by the king; composition as of October 2023 - men 22, women 3, percent of women 12%<br><br>National Assembly - percent of vote by party in first round - PDP 42.5%, BTP 19.6%, DPT 14.9%, DNT 13.1% DTT 9.8%; percent of vote in second round - PDP 55%, BTP 45%; seats by party PDP 30, BTP 17; composition as of January 2024 - men 45, women 2, percent of women 4.3%; note - total percent of women in Parliament 6.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 4 associate&nbsp;justices); note - the Supreme Court has sole jurisdiction in constitutional matters<br>
@@ -597,7 +597,7 @@ A5<br>
 
 **Roadways**<br>
 _total_: 12,205 km (2017)<br>
-_urban_: 437 km (2017)<br>
+_urban_: 437 km<br>
 
 ## Military and Security
 

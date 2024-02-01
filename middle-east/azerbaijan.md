@@ -333,7 +333,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Ilham ALIYEV (since 31 October 2003); First Vice President Mehriban ALIYEVA (since 21 February 2017)<br>
 _head of government_: Prime Minister Ali ASADOV (since 8 October 2019); First Deputy Prime Minister Yaqub EYYUBOV (since 13 February 2003)<br>
 _cabinet_: Council of Ministers appointed by the president and confirmed by the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds (if needed) for a 7-year term; a single individual is eligible for unlimited terms; election last held on 11 April 2018 (next to be held on 7 February 2024); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly; note - a constitutional amendment approved in a September 2016 referendum extended the presidential term from 5 to 7 years; a separate constitutional amendment approved in the same referendum also introduced the post of first vice president and additional vice-presidents, who are directly appointed by the president; however, no additional vice presidents have been appointed since the constitutional amendment was passed<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds (if needed) for a 7-year term; a single individual is eligible for unlimited terms; election last held on 11 April 2018 (next to be held on 7 February 2024, a snap election); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly; note - a constitutional amendment approved in a September 2016 referendum extended the presidential term from 5 to 7 years; a separate constitutional amendment approved in the same referendum also introduced the post of first vice president and additional vice-presidents, who are directly appointed by the president; however, no additional vice presidents have been appointed since the constitutional amendment was passed<br>
 _election results_: <em>2018:</em> Ilham ALIYEV reelected president in first round; percent of vote - Ilham ALIYEV (YAP) 86%, Zahid ORUJ (independent) 3.1%, other 10.9%<br>
 <strong>note:</strong> OSCE observers noted shortcomings in the election, including a restrictive political environment, limits on fundamental freedoms, a lack of genuine competition, and ballot box stuffing<br>
 
@@ -381,7 +381,7 @@ _lyrics/music_: Ahmed JAVAD/Uzeyir HAJIBEYOV<br>
 <strong>note:</strong> adopted 1992; although originally written in 1919 during a brief period of independence, "Azerbaijan Marsi" did not become the official anthem until after the dissolution of the Soviet Union<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 4 (all cultural)<br>
+_total World Heritage Sites_: 5 (4 cultural, 1 natural)<br>
 _selected World Heritage Site locales_: Walled City of Baku; Gobustan Rock Art Cultural Landscape; Historic Center of Sheki; Cultural Landscape of Khinalig People and "Koc Yolu" Transhumance Route<br>
 
 ## Economy

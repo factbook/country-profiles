@@ -97,7 +97,7 @@ Romanian (official) 91.6%, Hungarian 6.3%, Romani 1.2%, other 0.7% (2021 est.)<b
 _major-language sample(s)_: <br>Cartea informativa a lumii, sursa indispensabila pentru informatii de baza. (Romanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Romanian Orthodox 85.3%, Roman Catholic 4.5%, Reformed 3%, Pentecostal 2.5, other 4.7% (2021 est.)<br>
+Romanian Orthodox 85.3%, Roman Catholic 4.5%, Reformed 3%, Pentecostal 2.5%, other 4.7% (2021 est.)<br>
 <strong>note:</strong> data represent individuals who declared a religion in the 2021 national census; 13.9% did not respond<br>
 
 **Age structure**<br>
@@ -283,6 +283,10 @@ _agricultural_: 1.43 billion cubic meters (2020 est.)<br>
 
 **Total renewable water resources**<br>
 212 billion cubic meters (2020 est.)<br>
+
+**Geoparks**<br>
+_total global geoparks and regional networks_: 2<br>
+_global geoparks and regional networks_: Buzău; Haţeg (2023)<br>
 
 ## Government
 
@@ -728,7 +732,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 85,710 (Ukraine) (as of 7 January 2024)<br>
+_refugees (country of origin)_: 85,710 (Ukraine) (as of 22 January 2024)<br>
 _stateless persons_: 297 (2022)<br>
 <strong>note:</strong> 15,377 estimated refugee and migrant arrivals (January 2015-November 2023)<br>
 

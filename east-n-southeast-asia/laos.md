@@ -654,9 +654,9 @@ _total_: 422 km (2023)<br>
 _standard gauge_: 422 km (2023) 1.435-m gauge (422 km overhead electrification)<br>
 
 **Roadways**<br>
-_total_: 39,586 km (2009)<br>
-_paved_: 5,415 km (2009)<br>
-_unpaved_: 34,171 km (2009)<br>
+_total_: 59,647 km (2024)<br>
+_paved_: 13,718 km (2024)<br>
+_unpaved_: 45,929 km (2024)<br>
 
 **Waterways**<br>
 4,600 km (2012) (primarily on the Mekong River and its tributaries; 2,900 additional km are intermittently navigable by craft drawing less than 0.5 m)<br>

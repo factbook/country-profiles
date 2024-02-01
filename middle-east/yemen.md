@@ -325,8 +325,8 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Chairperson, Presidential Council Rashad Muhammad al-ALIMI, Dr. (since 19 April 2022); Vice Chairperson, Presidential Council Sultan al-ARADA (since 19 April 2022); Vice Chairperson, Presidential Council Faraj Salmin al- BAHSANI, Brig. Gen. (since 19 April 2022); Vice Chairperson, Presidential Council Abdullah Al-Alimi BA WAZIR (since 19 April 2022); Vice Chairperson, Presidential Council Uthman Hussain Faid al-MUJALI (since 19 April 2022); Vice Chairperson, Presidential Council TARIQ Muhammad Abdallah Salih, Brig. Gen. (since 19 April 2022); Vice Chairperson, Presidential Council 'Abd-al-Rahman ABU ZARA'A al-Muharrami al-Yafai, Brig. Gen. (since 19 April 2022); Vice Chairperson, Presidential Council Aydarus Qasim al-ZUBAYDI, Maj. Gen. (since 19 April 2022)<br>
-_head of government_: Chairperson, Presidential Council Rashad Muhammad al-ALIMI, Dr. (since 19 April 2022); Vice Chairperson, Presidential Council Sultan al-ARADA (since 19 April 2022); Vice Chairperson, Presidential Council Faraj Salmin al- BAHSANI, Brig. Gen. (since 19 April 2022); Vice Chairperson, Presidential Council Abdullah Al-Alimi BA WAZIR (since 19 April 2022); Vice Chairperson, Presidential Council Uthman Hussain Faid al-MUJALI (since 19 April 2022); Vice Chairperson, Presidential Council TARIQ Muhammad Abdallah Salih, Brig. Gen. (since 19 April 2022); Vice Chairperson, Presidential Council 'Abd-al-Rahman ABU ZARA'A al-Muharrami al-Yafai, Brig. Gen. (since 19 April 2022); Vice Chairperson, Presidential Council Aydarus Qasim al-ZUBAYDI, Maj. Gen. (since 19 April 2022)<br>
+_chief of state_: Chairperson, Presidential Council Rashad Muhammad al-ALIMI, Dr. (since 19 April 2022); Vice Chairpersons and Presidential Council members Sultan al-ARADA, Faraj Salmin al- BAHSANI, Brig. Gen. Abdullah Al-Alimi BA WAZIR, Uthman Hussain Faid al-MUJALI, TARIQ Muhammad Abdallah Salih, Brig. Gen., 'Abd-al-Rahman ABU ZARA'A al-Muharrami al-Yafai, Brig. Gen., Aydarus Qasim al-ZUBAYDI, Maj. Gen. (all since 19 April 2022)<br>
+_head of government_: Chairperson, Presidential Council Rashad Muhammad al-ALIMI, Dr. (since 19 April 2022); Vice Chairpersons and Presidential Council members Sultan al-ARADA, Faraj Salmin al- BAHSANI, Brig. Gen. Abdullah Al-Alimi BA WAZIR, Uthman Hussain Faid al-MUJALI, TARIQ Muhammad Abdallah Salih, Brig. Gen., 'Abd-al-Rahman ABU ZARA'A al-Muharrami al-Yafai, Brig. Gen., Aydarus Qasim al-ZUBAYDI, Maj. Gen. (all since 19 April 2022)<br>
 _cabinet_: 25 members from northern and southern Yemen, representing all of Yemen's major political parties<br>
 _elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 21 February 2012 (next election NA); note - a special election was held on 21 February 2012 to remove Ali Abdallah SALIH under the terms of a Gulf Cooperation Council-mediated deal during the political crisis of 2011; vice president appointed by the president; prime minister appointed by the president<br>
 _election results_: Abd Rabuh Mansur HADI (GPC) elected consensus president<br>
@@ -376,8 +376,8 @@ _lyrics/music_: Abdullah Abdulwahab NOA'MAN/Ayyoab Tarish ABSI<br>
 <strong>note:</strong> adopted 1990; the music first served as the anthem for South Yemen before unification with North Yemen in 1990<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 4 (3 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Old Walled City of Shibam (c); Old City of Sana'a (c); Historic Town of Zabid (c); Socotra Archipelago (n)<br>
+_total World Heritage Sites_: 5 (4 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Old Walled City of Shibam (c); Old City of Sana'a (c); Historic Town of Zabid (c); Socotra Archipelago (n); Landmarks of the Ancient Kingdom of Saba, Marib (c)<br>
 
 ## Economy
 

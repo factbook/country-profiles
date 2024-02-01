@@ -342,8 +342,8 @@ _residency requirement for naturalization_: an aggregate of 20 years and continu
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Yoweri Kaguta MUSEVENI (since 26 January 1986); Vice President Jessica Rose Epel ALUPO (since 21 June 2021); Prime Minister Robinah NABBANJA (since 21 June 2021); First Deputy Prime Minister Rebecca KADAGA (since 24 June 2021); Second Deputy Prime Minister Moses ALI (since 21 June 2021); note - the president is both chief of state and head of government<br>
-_head of government_: President Yoweri Kaguta MUSEVENI (since 26 January 1986); Vice President Jessica Rose Epel ALUPO (since 21 June 2021); Prime Minister Robinah NABBANJA (since 21 June 2021); First Deputy Prime Minister Rebecca KADAGA (since 24 June 2021); Second Deputy Prime Minister Moses ALI (since 21 June 2021)<br>
+_chief of state_: President Yoweri Kaguta MUSEVENI (since 26 January 1986); Vice President Jessica Rose Epel ALUPO (since 21 June 2021)<br>
+_head of government_: President Yoweri Kaguta MUSEVENI (since 26 January 1986); Vice President Jessica Rose Epel ALUPO (since 21 June 2021); Prime Minister Robinah NABBANJA (since 21 June 2021); First Deputy Prime Minister Rebecca KADAGA (since 24 June 2021); Second Deputy Prime Minister Moses ALI (since 21 June 2021); note - the prime minister is appointed by the president, with the approval of parliament, to coordinate the work of the cabinet and advise the president.     <p class="xmsonormal"> </p><br>
 _cabinet_: Cabinet appointed by the president from among elected members of the National Assembly or persons who qualify to be elected as members of the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 14 January 2021 (next to be held in 2026)<br>
 _election results_: <em><br>2021: </em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 58.6%, Bobi WINE (NUP) 34.8%, Patrick Oboi AMURIAT (FDC) 3.2%, other 3.4%<br><em><br><em>2016: </em></em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 60.6%, Kizza BESIGYE (FDC) 35.6%, other 3.8%<br>
@@ -609,7 +609,7 @@ _Total energy consumption per capita 2019_: 2.943 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 110,000 (2021 est.)<br>
+_total subscriptions_: 116,660 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: (2021 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
@@ -674,7 +674,7 @@ _lake port(s)_: Entebbe, Jinja, Port Bell (Lake Victoria)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Uganda People's Defense Force (UPDF): Land Force (includes marines), Air Force, Special Forces Command, Reserve Force <br><br>Ministry of Internal Affairs: Uganda Police Force (2023)<br>
+Uganda People's Defense Force (UPDF): Land Force (includes marines), Air Force, Special Forces Command, Reserve Force <br><br>Ministry of Internal Affairs: Uganda Police Force (2024)<br>
 <strong>note 1:</strong> the Special Forces Command is a separate branch within the UPDF; it evolved from the former Presidential Guard Brigade and has continued to retain presidential protection duties in addition to its traditional missions, such as counterinsurgency<br><br><strong>note 2:</strong> the Uganda Police Force includes air, field, territorial, and marine units, as well as a presidential guard force<br><br><strong>note 3:</strong> in 2018, President MUSEVENI created a volunteer force of Local Defense Units under the military to beef up local security in designated parts of the country<br>
 
 **Military expenditures**<br>
@@ -721,6 +721,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo (DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 917,232 (South Sudan) (refugees and asylum seekers), 502,487 (Democratic Republic of the Congo), 41,420 (Somalia), 39,330 (Burundi), 34,368 (Eritrea), 23,388 (Rwanda), 8,936 (Ethiopia), 5,776 (Sudan) (2023)<br>
+_refugees (country of origin)_: 923,607 (South Sudan) (refugees and asylum seekers), 505,075 (Democratic Republic of the Congo), 41,562 (Somalia), 40,136 (Burundi), 34,368 (Eritrea), 23,388 (Rwanda), 8,936 (Ethiopia), 5,776 (Sudan) (2023)<br>
 _stateless persons_: 67,000 (2022)<br>
 

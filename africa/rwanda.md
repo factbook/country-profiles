@@ -390,6 +390,10 @@ _name_: "Rwanda nziza" (Rwanda, Our Beautiful Country)<br>
 _lyrics/music_: Faustin MURIGO/Jean-Bosco HASHAKAIMANA<br>
 <strong>note:</strong> adopted 2001<br>
 
+**National heritage**<br>
+_total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Memorial sites of the Genocide: Nyamata, Murambi, Gisozi and Bisesero (c); Nyungwe National Park (n)<br>
+
 ## Economy
 
 **Economic overview**<br>
@@ -660,7 +664,7 @@ _lake port(s)_: Cyangugu, Gisenyi, Kibuye (Lake Kivu)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Rwanda Defense Force (RDF; Ingabo z’u Rwanda): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR), Rwanda Reserve Force, Special Units<br><br>Ministry of Internal Security: Rwanda National Police (2023)<br>
+Rwanda Defense Force (RDF; Ingabo z’u Rwanda): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR), Rwanda Reserve Force, Special Units<br><br>Ministry of Internal Security: Rwanda National Police (2024)<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2022 est.)<br>

@@ -195,7 +195,7 @@ _unimproved: total_: total: 14.4% of population (2020 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria<br>
+_vectorborne diseases_: malaria, sexually transmitted diseases: HIV/AIDS<br>
 <strong>note:</strong> on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Botswana is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -346,7 +346,7 @@ _election results_: President Seretse Khama Ian KHAMA, who had served as preside
 
 **Legislative branch**<br>
 _description_: unicameral Parliament consists of the National Assembly (63 seats; 57 members directly elected in single-seat constituencies by simple majority vote,&nbsp;4 nominated by the president and indirectly elected by simple majority vote by the rest of the National Assembly, and 2 ex-officio members - the president and attorney general; elected members serve 5-year terms); note - the House of Chiefs (Ntlo ya Dikgosi), an advisory body to the National Assembly, consists of 35 members - 8 hereditary chiefs from Botswana's principal tribes, 22 indirectly elected by the chiefs, and 5 appointed by the president; the House of Chiefs consults on issues including powers of chiefs, customary courts, customary law, tribal property, and constitutional amendments<br>
-_elections_: last held on 23 October 2019 (next to be held in October 2024)<br>
+_elections_: last held on 23 October 2019 (next to be held by October 2024)<br>
 _election results_: percent of vote by party - BDP 52.7%, UDC 35.9%, BPF 4.4%, AP 5.1%, other 1.7%; seats by party - BDP 38, UDC 15, BPF 3, AP 1; composition as of October 2023 - men 56, women 7, percent of women 11.1%<br>
 
 **Judicial branch**<br>
@@ -653,8 +653,8 @@ _total_: 888 km (2014)<br>
 _narrow gauge_: 888 km (2014) 1.067-m gauge<br>
 
 **Roadways**<br>
-_total_: 31,747 km (2017)<br>
-_paved_: 9,810 km (2017)<br>
+_total_: 31,747 km<br>
+_paved_: 9,810 km<br>
 _unpaved_: 21,937 km (2017)<br>
 
 ## Military and Security
@@ -683,7 +683,7 @@ the BDF has a mix of mostly older weapons and equipment, largely of Western/Euro
 approximately 300 Mozambique (Southern African Development Community force) (2023)<br>
 
 **Military - note**<br>
-the BDF’s key functions include defending the country's territorial integrity on land and in the air, ensuring national security and stability, and aiding civil authorities in support of domestic missions such as disaster relief and anti-poaching; it participates in regional and international security operations; the Ground Force has five small brigades of infantry, light armor, and artillery, plus a unit of commandos and a marine unit with boats and river craft for patrolling Botswana's internal waterways and supporting anti-poaching operations; the Air Arm has a small squadron of ageing fighters, as well as some multipurpose helicopters<br><br>Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces in the 1960s and 1970s demonstrated that the PMU was inadequate for defending the country and led to the establishment of the Botswana Defense Force (BDF) in 1977 (2023)<br>
+the BDF’s key functions include defending the country's territorial integrity on land and in the air, ensuring national security and stability, and aiding civil authorities in support of domestic missions such as disaster relief and anti-poaching; it participates in regional and international security operations; the Ground Force has five small brigades of infantry, light armor, and artillery, plus commandos and a marine unit with boats and river craft for patrolling Botswana's internal waterways and supporting anti-poaching operations; the Air Arm has a small squadron of ageing fighters, as well as some multipurpose helicopters<br><br>Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces in the 1960s and 1970s demonstrated that the PMU was inadequate for defending the country and led to the establishment of the Botswana Defense Force (BDF) in 1977 (2023)<br>
 
 ## Space
 

@@ -87,7 +87,7 @@ Luxembourger 52.9%, Portuguese 14.5%, French 7.6%, Italian 3.7%, Belgian 3%, Ger
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>
-Luxembourgish (official administrative and judicial language and national language (spoken vernacular)) 55.8%, Portuguese 15.7%, French (official administrative, judicial, and legislative language) 12.1%, German (official administrative and judicial language) 3.1%, Italian 2.9%, English 2.1%, other 8.4% (2011 est.)<br>
+Luxembourgish (official administrative and judicial language and national language (spoken vernacular)) 48.9%, Portuguese 15.4%, French (official administrative, judicial, and legislative language) 14.9%, Italian 3.6%, English 3.6%, German (official administrative and judicial language) 2.9%, other 10.8% (2021 est.)<br>
 
 **Religions**<br>
 Christian (predominantly Roman Catholic) 70.6%, Muslim 2.3%, other (includes Buddhist, folk religions, Hindu, Jewish) 0.4%, unaffiliated 26.7% (2020 est.)<br>
@@ -271,6 +271,10 @@ _agricultural_: 400,000 cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
 3.5 billion cubic meters (2020 est.)<br>
+
+**Geoparks**<br>
+_total global geoparks and regional networks_: 1<br>
+_global geoparks and regional networks_: M&euml;llerdall (2023)<br>
 
 ## Government
 

@@ -348,7 +348,7 @@ _election results_: <br><em>2020:</em> Faure GNASSINGBE reelected president; per
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (91 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms); party lists are required to contain equal numbers of men and women<br>
-_elections_: last held on 20 December 2018 (next to be held on 31 December 2023)<br>
+_elections_: last held on 20 December 2018 (next to be held on March 2024)<br>
 _election results_: percent of vote by coalition/party - NA; seats by party - UNIR 59, UFC 7, NET 3, MPDD 2, MRC 1, PDP 1, independent 18; composition - men 76, women 15, percent of women 16.5%<br>
 
 **Judicial branch**<br>
@@ -675,7 +675,7 @@ _container port(s) (TEUs)_: Lome (1,962,304) (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Armee de l’Air), National Gendarmerie (Gendarmerie Nationale Togolaise or GNT)<br><br>Ministry of Security and Civil Protection: National Police Directorate (Direction de la Police Nationale) (2023)<br>
+Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Armee de l’Air), National Gendarmerie (Gendarmerie Nationale Togolaise or GNT)<br><br>Ministry of Security and Civil Protection: National Police Directorate (Direction de la Police Nationale) (2024)<br>
 <strong>note:</strong> the Police Directorate and GNT are responsible for law enforcement and maintenance of order within the country; the GNT is also responsible for migration and border enforcement; the GNT falls under the Ministry of the Armed Forces but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security; in 2022, the Ministry of the Armed Forces was made part of the Office of the Presidency<br>
 
 **Military expenditures**<br>

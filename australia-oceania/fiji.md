@@ -321,7 +321,7 @@ _election results_: <em>2021:</em> Ratu Wiliame KATONIVERE elected president; Wi
 **Legislative branch**<br>
 _description_: unicameral Parliament (55 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote with a 5% electoral threshold; members serve 4-year terms)<br>
 _elections_: last held on 14 December 2022 (next to be held in 2026)<br>
-_election results_: percent of vote by party - FijiFirst 42.5%, People's Alliance 35.8%, NFP 8.9%, SODELPA 5.1%, other 7.7%; seats by party - FijiFirst 26, People's Alliance 21, NFP 5, SODELPA 3; composition - men 49, women 6, percent of women 10.9%<br>
+_election results_: percent of vote by party - FijiFirst 42.5%, People's Alliance 35.8%, NFP 8.9%, SODELPA 5.1%, other 7.7%; seats by party - FijiFirst 26, People's Alliance 21, NFP 5, SODELPA 3; composition as of January 2024 - men 50, women 5, percent of women 9.1%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice, all justices of the Court of Appeal, and judges appointed specifically as Supreme Court judges); Court of Appeal (consists of the court president, all puisne judges of the High Court, and judges specifically appointed to the Court of Appeal); High Court (chaired by the chief justice and includes a minimum of 10 puisne judges; High Court organized into civil, criminal, family, employment, and tax divisions)<br>
@@ -625,9 +625,7 @@ _narrow gauge_: 597 km (2008) 0.600-m gauge<br>
 <strong>note:</strong> belongs to the government-owned Fiji Sugar Corporation; used to haul sugarcane during the harvest season, which runs from May to December<br>
 
 **Roadways**<br>
-_total_: 3,440 km (2011)<br>
-_paved_: 1,686 km (2011)<br>
-_unpaved_: 1,754 km (2011)<br>
+_total_: 7,500 km (2023)<br>
 
 **Waterways**<br>
 203 km (2012) (122 km are navigable by motorized craft and 200-metric-ton barges)<br>

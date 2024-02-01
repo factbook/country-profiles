@@ -623,9 +623,7 @@ _other airports_: 56<br>
 882 km condensate, 3,743 km gas, 7,005 km oil (2013)<br>
 
 **Roadways**<br>
-_total_: 37,000 km (2010)<br>
-_paved_: 34,000 km (2010)<br>
-_unpaved_: 3,000 km (2010)<br>
+_total_: 34,000 km (2021)<br>
 
 **Merchant marine**<br>
 _total_: 94 (2022)<br>

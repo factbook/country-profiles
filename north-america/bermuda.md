@@ -278,8 +278,8 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (11 seats; 3 members appointed by the governor, 5 by the premier, and 3 by the opposition party; members serve 5-year terms) <br>House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)<br>
-_elections_: <br>Senate - last appointments in 2022 (next appointments in 2027)<br>House of Assembly - last held on 1 October 2020 (next to be held not later than 2025)<br>
-_election results_: Senate - composition as of October 2023 - men 4, women 7, percent of women 63.6%<br>House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6 1 vacant; composition as of October 2023 - men 26, women 9, percent of women 25%; note - total Parliament percent of women as of September 2023 - 34%<br>
+_elections_: <br>Senate - last appointments in 2022 (next appointments in 2027)<br>House of Assembly - last held on 1 October 2020 (next to be held by 2025)<br>
+_election results_: Senate - composition as of October 2023 - men 4, women 7, percent of women 63.6%<br>House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition as of October 2023 - men 26, women 9, percent of women 25%; note - total Parliament percent of women as of September 2023 - 34%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the court president and at least 2 justices); Supreme Court (consists of the chief justice, 4 puisne judges, and 1 associate justice); note - the Judicial Committee of the Privy Council (in London) is the court of final appeal<br>
@@ -553,7 +553,7 @@ VP-B<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Roadways**<br>
-_total_: 447 km (2010)<br>
+_total_: 447 km<br>
 _paved_: 447 km (2010)<br>
 <strong>note:</strong> 225 km public roads; 222 km private roads<br>
 

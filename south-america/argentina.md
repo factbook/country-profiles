@@ -356,7 +356,7 @@ _election results_: <p><br><em>2023: </em>Javier Gerardo MILEI elected president
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (72 seats; members directly elected from 24 provincial districts by closed-list proportional representation vote; 2 seats per district awarded to the party with the most votes and 1 seat per district to the party with the second highest votes; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Cámara de Diputados (257 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 4-year terms with one-half of the membership renewed every 2 years)<br>
 _elections_: <br>Senate - last held on 22 October 2023 (next to be held in October 2025)<br>Chamber of Deputies - last held on 22 October 2023 (next to be held in October 2025)<br>
-_election results_: <p><br>Senate - percent of vote by bloc or party - NA; seats by bloc or party - UP 12, LLA 8, JxC 2, other 2; composition (as of February 2022) men 41, women 31, percent of women 43.1%</p> <p>Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - UP 58, LLA 35, JxC 31, NHP  4, other 2; composition (as of February 2022) - men 142, women 115, percent of women 44.7%; note - total National Congress percent of women 44.4%</p><br>
+_election results_: <p><br>Senate - percent of vote by bloc or party - NA; seats by bloc or party - UP 12, LLA 8, JxC 2, other 2; composition as of January 2024 men 39, women 33, percent of women 45.8%</p> <p>Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - UP 58, LLA 35, JxC 31, NHP  4, other 2; composition as of January 2024 - men 148, women 109, percent of women 42.4%; note - total National Congress percent of women 43.2%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Corte Suprema (consists of the court president, vice president, 2 judges, 1 vacancy)<br>
@@ -397,7 +397,7 @@ _lyrics/music_: Vicente LOPEZ y PLANES/Jose Blas PARERA<br>
 <strong>note:</strong> adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 11 (6 cultural, 5 natural)<br>
+_total World Heritage Sites_: 12 (7 cultural, 5 natural)<br>
 _selected World Heritage Site locales_: Los Glaciares National Park (n); Jesuit Missions of the Guaranis (c); Iguazú National Park (n); Cueva de las Manos (c); Valdés Península (n); Ischigualasto/Talampaya National Parks (n); Jesuit Block and Estancias of Córdoba (c); Quebrada de Humahuaca (c); Qhapaq Ñan/Andean Road System (c)<br>
 
 ## Economy
@@ -683,8 +683,8 @@ _other airports_: 125<br>
 _total_: 17,866 km (2018)<br>
 
 **Roadways**<br>
-_total_: 281,290 km (2017)<br>
-_paved_: 117,616 km (2017)<br>
+_total_: 281,290 km<br>
+_paved_: 117,616 km<br>
 _unpaved_: 163,674 km (2017)<br>
 
 **Waterways**<br>

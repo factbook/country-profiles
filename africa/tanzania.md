@@ -307,6 +307,10 @@ _agricultural_: 4.63 billion cubic meters (2020 est.)<br>
 **Total renewable water resources**<br>
 96.3 billion cubic meters (2019 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 1<br>
+_global geoparks and regional networks_: Ngorongoro Lengai (2023)<br>
+
 ## Government
 
 **Country name**<br>
@@ -695,15 +699,15 @@ _major seaport(s)_: Dar es Salaam, Zanzibar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): Land Forces, Naval Forces, Air Force, National Building Army (Jeshi la Kujenga Taifa, JKT), People's Militia (Reserves)<br><br>Ministry of Home Affairs: Tanzania Police Force (2023)<br>
+Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): Land Forces, Naval Forces, Air Force, National Building Army (Jeshi la Kujenga Taifa, JKT), People's Militia (Reserves)<br><br>Ministry of Home Affairs: Tanzania Police Force (2024)<br>
 <strong>note 1:</strong> the National Building Army (aka National Services) is a paramilitary organization under the Defense Forces that provides six months of military and vocational training to individuals as part of their two years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br><br><strong>note 2:</strong> the Tanzania Police Force includes the Police Field Force (aka Field Force Unit), a special police division with the responsibility for controlling unlawful demonstrations and riots<br>
 
 **Military expenditures**<br>
+2.9% of GDP (2023 est.)<br>
 1.2% of GDP (2022 est.)<br>
 1.1% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
 1.1% of GDP (2019 est.)<br>
-1.2% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active-duty personnel (21,000 Land Forces; 1,000 Naval Forces; 3,000 Air Force) (2023)<br>
@@ -715,7 +719,7 @@ the TPDF's inventory includes mostly Soviet-era and Chinese equipment; in recent
 18-25 years of age for voluntary military service for men and women; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2023)<br>
 
 **Military deployments**<br>
-575 Central African Republic (MINUSCA); 850 Democratic Republic of the Congo (MONUSCO); 125 Lebanon (UNIFIL) (2023)<br>
+575 Central African Republic (MINUSCA); 850 Democratic Republic of the Congo (MONUSCO; note - the MONUSCO mission is in the process of drawing down forces); 125 Lebanon (UNIFIL) (2023)<br>
 <strong>note:</strong> in 2021, Tanzania began contributing troops to the Southern African Development Community (SADC) intervention force that was assisting the Mozambique Government's fight against Islamic militants<br>
 
 **Military - note**<br>
@@ -733,7 +737,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 111,708 (Burundi), 89,017 (Democratic Republic of the Congo) (2023)<br>
+_refugees (country of origin)_: 111,847 (Burundi), 89,320 (Democratic Republic of the Congo) (2023)<br>
 
 **Illicit drugs**<br>
 <p>significant transit country for illicit drugs in East Africa; international drug trafficking organizations and courier networks transit illicit drugs through mainland Tanzania to markets in Europe and North America; cultivates cannabis and khat for domestic consumption and regional and international distribution; domestic drug use continues increasing including methamphetamine use</p> (2021)<br>

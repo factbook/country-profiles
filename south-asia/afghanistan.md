@@ -199,7 +199,7 @@ _unimproved: total_: total: 38.6% of population (2020 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: Crimea-Congo hemorrhagic fever, malaria<br>
+_vectorborne diseases_: Crimea-Congo hemorrhagic fever<br>
 <strong>note:</strong> Afghanistan is one of two countries with endemic wild polio virus (the other is Pakistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the US Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -649,9 +649,9 @@ YA<br>
 466 km gas (2013)<br>
 
 **Roadways**<br>
-_total_: 34,903 km (2017)<br>
-_paved_: 17,903 km (2017)<br>
-_unpaved_: 17,000 km (2017)<br>
+_total_: 34,903 km (2021)<br>
+_paved_: 17,903 km (2021)<br>
+_unpaved_: 17,000 km (2021)<br>
 
 **Waterways**<br>
 1,200 km (2011) (chiefly Amu Darya, which handles vessels up to 500 DWT)<br>

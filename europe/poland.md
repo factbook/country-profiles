@@ -288,6 +288,10 @@ _agricultural_: 1.39 billion cubic meters (2020 est.)<br>
 **Total renewable water resources**<br>
 60.5 billion cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 2<br>
+_global geoparks and regional networks_: Muskauer Faltenbogen / Łuk Mużakowa (includes Germany); Holy Cross Mountains (2023)<br>
+
 ## Government
 
 **Country name**<br>

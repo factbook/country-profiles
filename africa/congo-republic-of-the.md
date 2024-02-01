@@ -360,8 +360,8 @@ _election results_: <br><em>2021: </em>Denis SASSOU-Nguesso reelected president 
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parliament consists of:<br>Senate (72 seats; members indirectly elected by local, district, and regional councils by simple majority vote to serve 6-year terms) note- the Senate is renewed in its entirety following a constitutional reform implemented in 2015 ending the renewal by half<br>National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms)<br>
-_elections_: <strong> </strong><br>Senate - last held on 31 August 2017 (next to be held in 2023)<br>National Assembly - last held on 10 and 31 July 2022 (next to be held in July 2027)<br>
-_election results_: <p>Senate - percent of vote by party - NA; seats by party - PCT 46, independent 12, MAR 2, RDPS 2, UPADS 2, DRD 1, FP 1, MCDDI 1, PRL 1, Pulp 1, PUR 1, RC 1; composition - men 58, women 14, percent of women 19.4%<br><br>National Assembly - percent of vote by party - NA; seats by party - PCT 112, UPADS 7, UDH-YUKI 7, MAR 4, RLP 2, CLUB 2002 2, DRR 2, RDPS 2, PAC 1, MSD 1, MDP 1, CPR 1, PPRD 1, CR 1, MCDDI 1, independent 6; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9%<br><br><br></p> <p> </p><br>
+_elections_: <strong> </strong><br>Senate - last held on 20 August 2023 (next to be held 31 August 2029)<br>National Assembly - last held on 10 and 31 July 2022 (next to be held in July 2027)<br>
+_election results_: <p>Senate - percent of vote by party - NA; seats by party - PCT 52, Independents 7, RDPS 3, MAR 2, Club 2002 PUR 2, PRL 1, UDLC 1, MCDDI 1, LCEM 1, UPADS 1, RC 1; composition - men 49, women 23, percent of women 31.9%<br><br>National Assembly - percent of vote by party - NA; seats by party - PCT 112, UPADS 7, UDH-YUKI 7, MAR 4, RLP 2, CLUB 2002 2, DRR 2, RDPS 2, PAC 1, MSD 1, MDP 1, CPR 1, PPRD 1, CR 1, MCDDI 1, independent 6; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9%<br><br><br></p> <p> </p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 members); note - a High Court of Justice, outside the judicial authority, tries cases involving treason by the president of the republic<br>
@@ -718,7 +718,7 @@ the FAC is viewed as having limited capabilities due to obsolescent and poorly m
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,585 (Central African Republic), 28,396 (Democratic Republic of the Congo) (refugees and asylum seekers)(2023)<br>
+_refugees (country of origin)_: 33,618 (Central African Republic), 29,200 (Democratic Republic of the Congo) (refugees and asylum seekers)(2023)<br>
 _IDPs_: 27,000 (multiple civil wars since 1992) (2022)<br>
 
 **Trafficking in persons**<br>

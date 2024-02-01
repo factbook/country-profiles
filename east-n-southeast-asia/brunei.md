@@ -613,8 +613,8 @@ V8<br>
 33 km condensate, 86 km condensate/gas, 628 km gas, 492 km oil (2013)<br>
 
 **Roadways**<br>
-_total_: 2,976 km (2014)<br>
-_paved_: 2,559 km (2014)<br>
+_total_: 2,976 km<br>
+_paved_: 2,559 km<br>
 _unpaved_: 417 km (2014)<br>
 
 **Waterways**<br>
@@ -653,7 +653,7 @@ the military's s inventory includes equipment and weapons systems from a wide va
 <strong>note:</strong> the Gurkha Reserve Unit (GRU) employs about 500 Gurkhas from Nepal, the majority of whom are veterans of the British Army and the Singapore Police Force who have joined the GRU as a second career<br>
 
 **Military - note**<br>
-the Royal Brunei Armed Forces were formed in 1961 with British support as the Brunei Malay Regiment; "Royal" was added as an honorary title in 1965 and its current name was given in 1984; the military is responsible for ensuring the country’s sovereignty and territorial integrity, as well as countering outside aggression, terrorism, and insurgency; the Army is comprised of a few infantry battalions and an armored reconnaissance squadron, while the Navy has several corvettes and patrol vessels for monitoring the country’s territorial waters; the small Air Force does not have any combat aircraft, but operates some maritime patrol aircraft and helicopters <br><br>Brunei has a long-standing defense relationship with the UK and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2023)<br>
+the Royal Brunei Armed Forces were formed in 1961 with British support as the Brunei Malay Regiment; "Royal" was added as an honorary title in 1965 and its current name was given in 1984; the military is responsible for ensuring the country’s sovereignty and territorial integrity, as well as countering outside aggression, terrorism, and insurgency; the Army is comprised of a few infantry battalions and an armored reconnaissance squadron, while the Navy has several corvettes and patrol vessels for monitoring the country’s territorial waters; the small Air Force does not have any combat aircraft, but operates some maritime patrol aircraft and helicopters <br><br>Brunei has a long-standing defense relationship with the UK and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; Brunei also hosts a Singaporean military training detachment (2023)<br>
 
 ## Transnational Issues
 

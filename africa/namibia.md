@@ -345,7 +345,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Hage GEINGOB (since 21 March 2015); Vice President Nangolo MBUMBA (since 8 February 2018); note - the president is both chief of state and head of government<br>
-_head of government_: President Hage GEINGOB (since 21 March 2015); Vice President Nangolo MBUMBA (since 8 February 2018); Prime Minister Saara KUUGONGELWA-AMADHILA (since 21 March 2015)<br>
+_head of government_: President Hage GEINGOB (since 21 March 2015); Vice President Nangolo MBUMBA (since 8 February 2018); Prime Minister Saara KUUGONGELWA-AMADHILA (since 21 March 2015); note - the Prime Minister is appointed by the president to coordinate the work of the cabinet, advise the president, and is second in line of succession if the president is unable to serve.     <p class="xmsonormal"> </p><br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2019 (next to be held in 2024)<br>
 _election results_: <br><em>2019:</em> Hage GEINGOB reelected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (independent) 29.4%, McHenry VENAANI (PDM) 5.3%, other .9% <p><em>2014:</em> Hage GEINGOB elected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 86.7%, McHenry VENAANI (DTA) 5%, Hidipo HAMUTENYA (RDP) 3.4%, Asser MBAI (NUDO)1.9%, Henk MUDGE (RP) 1%, other 2%</p><br>
@@ -672,7 +672,7 @@ _major seaport(s)_: Luderitz, Walvis Bay<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Namibian Defense Force (NDF): Army, Navy, Air Force (2023)<br>
+Namibian Defense Force (NDF): Army, Navy, Air Force (2024)<br>
 <strong>note:</strong> the Namibian Police Force is under the Ministry of Home Affairs, Immigration, Safety, and Security; it has a paramilitary Special Field Force responsible for protecting borders and government installations<br>
 
 **Military expenditures**<br>
@@ -701,5 +701,5 @@ the NDF’s primary responsibility is external security; it has participated in 
 <p><em>Namibia-Angola-Botswana</em>: concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border</p> <p><em>Namibia-Botswana-Zambia-Zimbabwe</em>: Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; the Kazungula Bridge opened to traffic in May 2021</p> <p><em>Namibia-South Africa</em>: the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia claims a median line boundary, while South Africa supports the northern bank of the river</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,247 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 6,252 (Democratic Republic of the Congo) (refugees and asylum seekers) (2023)<br>
 

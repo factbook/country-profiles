@@ -318,6 +318,10 @@ _agricultural_: 9.16 billion cubic meters (2020 est.)<br>
 29 billion cubic meters (2020 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 1<br>
+_global geoparks and regional networks_: M'Goun (2023)<br>
+
 ## Government
 
 **Country name**<br>

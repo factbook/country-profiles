@@ -275,6 +275,10 @@ _agricultural_: 2.51 billion cubic meters (2020 est.)<br>
 **Total renewable water resources**<br>
 580 billion cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 2<br>
+_global geoparks and regional networks_: Kinabalu; Langkawi (2023)<br>
+
 ## Government
 
 **Country name**<br>

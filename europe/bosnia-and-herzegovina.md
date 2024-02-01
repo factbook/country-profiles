@@ -331,7 +331,7 @@ _election results_: <em><br>2022: </em>percent of vote<em> -</em> Denis BECIROVI
 **Legislative branch**<br>
 _description_: bicameral Parliamentary Assembly or Skupstina consists of:<br>House of Peoples or Dom Naroda (15 seats - 5 Bosniak, 5 Croat, 5 Serb; members designated by the Federation of Bosnia and Herzegovina's House of Peoples and the Republika Srpska's National Assembly serve 4-year terms)<br>House of Representatives or Predstavnicki Dom (42 seats to include 28 seats allocated to the Federation of Bosnia and Herzegovina and 14 to the Republika Srpska; members directly elected by proportional representation vote to serve 4-year terms); note - the Federation of Bosnia and Herzegovina has a bicameral legislature that consists of the House of Peoples (80 seats - 23 Bosniak, 23 Croat, 23 Serb, 11 other) and the House of Representatives (98 seats; members directly elected by proportional representation vote to serve 4-year terms); Republika Srpska's unicameral legislature is the National Assembly or Narodna skupština Republike Srpske (83 directly elected delegates serve 4-year terms)<br>
 _elections_: House of Peoples - last held on 2 October 2022 (next to be held in 2026)<br>House of Representatives - last held on 2 October 2022 (next to be held in 2026)<br>
-_election results_: House of Peoples - percent of vote by coalition/party - NA; seats by coalition/party - NA; composition - men 12, women 3, percent of women 20%<br>House of Representatives - percent of vote by party/coalition - SDA 17.2%, SNSD 16.3%, HDZ BiH 8.8%, SDP 8.2%, SDS 7.1%, DF-GS 6.4%, NiP 5%, PDP 4.6%, NS/HC 3.1%, NES 3%, For Justice and Order 2.1%, DEMOS 1.9%, US 1.6%, BHI KF 1.3%, other 13.4%; seats by party/coalition - SDA 9, SNSD 6, SDP 5, HDZ BiH 4, DF-GS 3, NiP 3, SDS 2, PDP 2, NS/HC 2, NES 2, For Justice and Order 1, DEMOS 1, US 1, BHI KF 1; composition - men 31, women 11, percent of women 26.2%; note - total Parliamentary Assembly percent of women 24.6%<br>
+_election results_: House of Peoples - percent of vote by party/coalition - NA; seats by party/coalition - NA; composition as of January 2024 - men 13, women 2, percent of women 13.3%<br>House of Representatives - percent of vote by party/coalition - SDA 17.2%, SNSD 16.3%, HDZ BiH 8.8%, SDP 8.2%, SDS 7.1%, DF-GS 6.4%, NiP 5%, PDP 4.6%, NS/HC 3.1%, NES 3%, For Justice and Order 2.1%, DEMOS 1.9%, US 1.6%, BHI KF 1.3%, other 13.4%; seats by party/coalition - SDA 9, SNSD 6, SDP 5, HDZ BiH 4, DF-GS 3, NiP 3, SDS 2, PDP 2, NS/HC 2, NES 2, For Justice and Order 1, DEMOS 1, US 1, BHI KF 1; composition as of January 2024 - men 34, women 8, percent of women 19.1%; note - total Parliamentary Assembly percent of women 17.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Bosnia and Herzegovina (BiH) Constitutional Court (consists of 9 members); Court of BiH (consists of 44 national judges and 7 international judges organized into 3 divisions - Administrative, Appellate, and Criminal, which includes a War Crimes Chamber)<br>
@@ -650,8 +650,8 @@ _total_: 965 km (2014)<br>
 _standard gauge_: 965 km (2014) 1.435-m gauge (565 km electrified)<br>
 
 **Roadways**<br>
-_total_: 22,926 km (2010)<br>
-_paved_: 19,426 km (2010) (4,652 km of interurban roads)<br>
+_total_: 22,926 km<br>
+_paved_: 19,426 km (4,652 km of interurban roads)<br>
 _unpaved_: 3,500 km (2010)<br>
 
 **Waterways**<br>

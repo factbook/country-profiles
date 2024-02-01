@@ -276,6 +276,10 @@ _agricultural_: 170 million cubic meters (2020 est.)<br>
 **Total renewable water resources**<br>
 780 million cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 1<br>
+_global geoparks and regional networks_: Troodos (2023)<br>
+
 ## Government
 
 **Country name**<br>

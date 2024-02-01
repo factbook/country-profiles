@@ -635,7 +635,7 @@ the FAGE is armed with mostly older (typically Soviet-era) and second-hand weapo
 18 years of age for selective compulsory military service, although conscription is rare in practice; 24-month service obligation (2023)<br>
 
 **Military - note**<br>
-the FAGE&rsquo;s National Guard (Army) has only three small infantry battalions with limited combat capabilities; the country has invested heavily in naval capabilities in recent years to protect its oil installations and combat piracy and crime in the Gulf of Guinea; while the Navy was small, its inventory includes a light frigate and a corvette, as well as several off-shore patrol boats; the Air Force has only a few operational combat aircraft and ground attack-capable helicopters (2023)<br>
+the FAGE&rsquo;s National Guard (Army) has only three small infantry battalions with limited combat capabilities; the country has invested heavily in naval capabilities in recent years to protect its oil installations and combat piracy and crime in the Gulf of Guinea; while the Navy is small, its inventory includes a light frigate and a corvette, as well as several off-shore patrol boats; the Air Force has only a few operational combat aircraft and ground attack-capable helicopters (2023)<br>
 
 ## Transnational Issues
 

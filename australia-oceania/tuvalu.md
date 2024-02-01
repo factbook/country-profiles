@@ -304,8 +304,8 @@ _election results_: <em>2019: </em>Kausea NATANO elected prime minister by House
 
 **Legislative branch**<br>
 _description_: unicameral House of Assembly or Fale I Fono (16 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: last held on 9 September 2019 (next to be held on 31 December 2023)<br>
-_election results_: percent of vote - NA; seats - independent 16 (9 members reelected); composition - 15 men, 1 woman; percent women 6.25%<br>
+_elections_: last held on 26 January 2024 (next to be held January 2028)<br>
+_election results_: percent of vote - NA; seats - independent 16 (10 members reelected); composition - 15 men, 1 woman; percent women 6.25%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Appeal (consists of the chief justice and not less than 3 appeals judges); High Court (consists of the chief justice); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>

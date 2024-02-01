@@ -276,6 +276,10 @@ _agricultural_: 840 million cubic meters (2020 est.)<br>
 **Total renewable water resources**<br>
 393 billion cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 4<br>
+_global geoparks and regional networks_: Gea Norvegica; Magma; Sunnhordland; Trollfjell (2023)<br>
+
 ## Government
 
 **Country name**<br>
@@ -689,8 +693,8 @@ approximately 27,000 active personnel (9,000 Army; 4,300 Navy; 4,700 Air Force; 
 the military's inventory includes a mix of modern, imported European, US, and domestically produced weapons systems and equipment; in recent years, the US has been the leading supplier of weapons systems to Norway (2023)<br>
 
 **Military service age and obligation**<br>
-19-35 years of age for selective compulsory military service for men and women; 17 years of age for male volunteers; 18 years of age for women volunteers; 12-19 month service obligation; conscripts first serve 12 months between the ages of 19 and 28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2023)<br>
-<strong>note 1: </strong>Norway conscripts about 8,000 individuals annually; it has had compulsory military service since 1907<br><br><strong>note 2:</strong> Norway was the first NATO country to allow women to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as Jegertroppen (The Hunter Troop), which was established in 2014; as of 2023, women comprised about 20% of the military's full-time personnel<br><br><strong>note 3:</strong> beginning in 1995, the military began offering Icelandic citizens the opportunity to apply for admission to officer schools in Norway with an associated education and service contract under special reasons and based on recommendations from Icelandic authorities; as early as 1996, Norway and Iceland entered into a cooperation agreement on the voluntary participation of Icelandic personnel in Norwegian force contributions in foreign operations<br>
+19-35 years of age for selective compulsory military service for men and women; 17 years of age for male volunteers; 18 years of age for women volunteers; 12-19 month service obligation; conscripts first serve 12 months between the ages of 19 and 28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2024)<br>
+<strong>note 1: </strong>individuals conscripted each year are selected from a larger cohort who are evaluated through online assessments and physical tests; for the 2023 conscription cohort, over 24,000 men and women were selected for the physical tests, and from among them about 9,800 were selected for military service—36 percent were women; Norway has had compulsory military service since 1907<br><br><strong>note 2:</strong> Norway was the first NATO country to allow women to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as Jegertroppen (The Hunter Troop), which was established in 2014; as of 2023, women comprised about 20% of the military's full-time personnel<br><br><strong>note 3:</strong> beginning in 1995, the military began offering Icelandic citizens the opportunity to apply for admission to officer schools in Norway with an associated education and service contract under special reasons and based on recommendations from Icelandic authorities; as early as 1996, Norway and Iceland entered into a cooperation agreement on the voluntary participation of Icelandic personnel in Norwegian force contributions in foreign operations<br>
 
 **Military deployments**<br>
 up to 200 Lithuania (NATO) (2023)<br>

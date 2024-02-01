@@ -275,6 +275,10 @@ _agricultural_: 50 million cubic meters (2020 est.)<br>
 **Total renewable water resources**<br>
 18.3 billion cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 1<br>
+_global geoparks and regional networks_: Famenne-Ardenne (2023)<br>
+
 ## Government
 
 **Country name**<br>
@@ -331,8 +335,8 @@ _elections/appointments_: the monarchy is hereditary and constitutional; followi
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms)<br>Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: Senate - last held 26 May 2019 (next to be held 0n 31 July 2024) <br>Chamber of Representatives - last held on 26 May 2019 (next to be held on 31 May 2024); note - elections coincided with the EU elections<br>
-_election results_: <br>Senate - percent of vote by party - N-VA 15%, VB 12%, PS 12%, MR 12%, CD&amp;V 8.3%, Open VLD 8.3%, Ecolo 15%, SP.A 6.7%, CDH 3.3%, PVDA-PTB 8.3%; seats by party - N-VA 9, VB 7, PS 7, MR 7, CD&amp;V 5, Open VLD 5, Ecolo 9, SP.A 4, CDH 2, PVDA-PTB 5; composition as of August 2023 - men 33, women 27, percent of women 45%<br><br>Chamber of Representatives - percent of vote by party - N-VA 16.7%, VB 12%, PS 13.3%, CD&amp;V 8%, PVDA-PTB 8%, Open VLD 8%, MR 9.3%, SP.A 6%, Ecolo 8.7%, Green 5.3%, CDH 3.3%, Defi 1.3%; seats by party - N-VA 25, VB 18, PS 20, CD&amp;V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Green 8, CDH 5, Defi 2; composition as of August 2023 - men 86, women 64, percent of women 42.7%; note - total Parliament percent of women 43.3%<br>
+_elections_: Senate - last held 26 May 2019 (next to be held on 31 July 2024) <br>Chamber of Representatives - last held on 26 May 2019 (next to be held on 31 May 2024); note - elections coincided with the EU elections<br>
+_election results_: <br>Senate - percent of vote by party - N-VA 15%, VB 12%, PS 12%, MR 12%, CD&amp;V 8.3%, Open VLD 8.3%, Ecolo 15%, SP.A 6.7%, CDH 3.3%, PVDA-PTB 8.3%; seats by party - N-VA 9, VB 7, PS 7, MR 7, CD&amp;V 5, Open VLD 5, Ecolo 9, SP.A 4, CDH 2, PVDA-PTB 5; composition as of January 2024 - men 34, women 26, percent of women 43.3%<br><br>Chamber of Representatives - percent of vote by party - N-VA 16.7%, VB 12%, PS 13.3%, CD&amp;V 8%, PVDA-PTB 8%, Open VLD 8%, MR 9.3%, SP.A 6%, Ecolo 8.7%, Green 5.3%, CDH 3.3%, Defi 1.3%; seats by party - N-VA 25, VB 18, PS 20, CD&amp;V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Green 8, CDH 5, Defi 2; composition as of August 2023 - men 86, women 64, percent of women 42.7%; note - total Parliament percent of women 42.9%<br>
 <strong>note:</strong> the 1993 constitutional revision that further devolved Belgium into a federal state created three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; this reality leaves six governments, each with its own legislative assembly; changes above occurred since the sixth state reform<br>
 
 **Judicial branch**<br>
@@ -374,7 +378,7 @@ _lyrics/music_: Louis-Alexandre DECHET [French] and Victor CEULEMANS [Dutch]/Fra
 <strong>note:</strong> adopted 1830; according to legend, Louis-Alexandre DECHET, an actor at the theater in which the revolution against the Netherlands began, wrote the lyrics with a group of young people in a Brussels cafe<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 15 (14 cultural, 1 natural)<br>
+_total World Heritage Sites_: 16 (15 cultural, 1 natural)<br>
 _selected World Heritage Site locales_: Belfries of Belgium (c); Historic Brugge (c); The Grand Place, Brussels (c); Major Town Houses of Victor Horta (c); Notre-Dame Cathedral, Tournai (c); Spa, Liege (c); Primeval Beech Forests - Sonian Wood (n); Stoclet Palace (c)<br>
 
 ## Economy
@@ -661,7 +665,7 @@ _other airports_: 14<br>
 _total_: 3,602 km (2020) 3,160 km electrified<br>
 
 **Roadways**<br>
-_total_: 118,414 km (2015)<br>
+_total_: 118,414 km<br>
 _paved_: 118,414 km (2015) (includes 1,747 km of expressways)<br>
 
 **Waterways**<br>

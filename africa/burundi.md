@@ -86,7 +86,7 @@ _noun_: Burundian(s)<br>
 _adjective_: Burundian<br>
 
 **Ethnic groups**<br>
-Hutu, Tutsi, Twa, Phuthi, South Asian<br>
+Hutu, Tutsi, Twa, South Asian<br>
 
 **Languages**<br>
 Kirundi (official), French (official), English (official, least spoken), Swahili (2008 est.)<br>
@@ -643,9 +643,8 @@ _subscriptions per 100 inhabitants_: 0.04 (2020 est.)<br>
 1 (2021)<br>
 
 **Roadways**<br>
-_total_: 12,322 km (2016)<br>
-_paved_: 1,500 km (2016)<br>
-_unpaved_: 10,822 km (2016)<br>
+_total_: 12,000 km (2020)<br>
+_paved_: 1,500 km (2020)<br>
 
 **Waterways**<br>
 673 km (2022) (mainly on Lake Tanganyika between Bujumbura, Burundi's principal port, and lake ports in Tanzania, Zambia, and the Democratic Republic of the Congo)<br>
@@ -679,7 +678,7 @@ the military has a mix of mostly older weapons and equipment typically of French
 750 Central African Republic (MINUSCA); more than 3,000 in Somalia (ATMIS); note - foreign troop contingents under ATMIS are drawing down towards a final exit in December 2024) (2023)<br>
 
 **Military - note**<br>
-the FDNB is responsible for defending Burundi’s territorial integrity and protecting its sovereignty; it has an internal security role, including maintaining and restoring public order if required; the FDNB also participates in providing humanitarian/disaster assistance, countering terrorism, narcotics trafficking, piracy, and illegal arms trade, and protecting the country’s environment; the FDNB conducts limited training with foreign partners such as Russia and participates in regional peacekeeping missions, most recently in the Central African Republic, the Democratic Republic of the Congo, and Somalia; these missions have provided the force some operational experience and funding; in recent years the FDNB has conducted operations against anti-government rebel groups based in the neighboring Democratic Republic of the Congo (DRC) that have carried out sporadic attacks in Burundi, such as the such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU)<br><br>the Land Force’s primary units are 4 regionally based divisions which are comprised mostly of light infantry complemented by a few battalions of artillery, light armored forces, and commandos; the FDNB also has a separate special security brigade for protecting key facilities; the Air Force is lightly equipped with a handful of combat helicopters, while the Naval Force has a few patrol boats for monitoring Burundi’s 175-km shoreline on Lake Tanganyika<br><br>the Arusha Agreement that ended the 1993-2005 created a unified military by balancing the predominantly Tutsi ex-Burundi Armed Forces (ex-FAB) and the largely Hutu dominated armed movements and requiring the military to have a 50/50 ethnic mix of Tutsis and Hutus (2023)<br>
+the FDNB is responsible for defending Burundi’s territorial integrity and protecting its sovereignty; it has an internal security role, including maintaining and restoring public order if required; the FDNB also participates in providing humanitarian/disaster assistance, countering terrorism, narcotics trafficking, piracy, and illegal arms trade, and protecting the country’s environment; the FDNB conducts limited training with foreign partners such as Russia and participates in regional peacekeeping missions, most recently in the Central African Republic, the Democratic Republic of the Congo (DRC), and Somalia; these missions have provided the force some operational experience and funding; in recent years the FDNB has conducted operations against anti-government rebel groups based in the neighboring DRC that have carried out sporadic attacks in Burundi, such as the such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU)<br><br>the Land Force’s primary units are four regionally based divisions which are comprised mostly of light infantry complemented by a few battalions of artillery, light armored forces, and commandos; the FDNB also has a separate special security brigade for protecting key facilities; the Air Force is lightly equipped with a handful of combat helicopters, while the Naval Force has a few patrol boats for monitoring Burundi’s 175-km shoreline on Lake Tanganyika<br><br>the Arusha Accords that ended the 1993-2005 civil war created a unified military by balancing the predominantly Tutsi ex-Burundi Armed Forces (ex-FAB) and the largely Hutu dominated armed movements and requiring the military to have a 50/50 ethnic mix of Tutsis and Hutus (2023)<br>
 
 ## Transnational Issues
 

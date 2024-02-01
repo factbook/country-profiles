@@ -308,7 +308,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (17 seats; members appointed by the governor general on the advice of the prime minister and leader of the opposition; members served 5-year terms)<br>House of Representatives (19 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms; in addition, 1 ex-officio seat is allocated for the attorney general and 1 seat for the speaker of the House - elected by the House membership following its first post-election session)<br>
 _elections_: <br>Senate - last appointed on 17 February 2023 (next appointments in 2028)<br>House of Representatives - last held on 18 January 2023 (next to be held in March 2028)<br>
-_election results_: <br>Senate - composition - men 10, women 7, percent of women 41.1%<br>House of Representatives - percent of vote by party - ABLP 47.1%, UPP 45.2%, BPM 1.5%, independent 5.2%; seats by party - ABLP 9, UPP 6, BPM 1, independent 1; composition - men 16, women 1, percent of women 5.9%; note - total Parliament percent of women 23.5%<br>
+_election results_: <br>Senate - composition as of January 2024 - men 10, women 7, percent of women 41.1%<br>House of Representatives - percent of vote by party - ABLP 47.1%, UPP 45.2%, BPM 1.5%, independent 5.2%; seats by party - ABLP 9, UPP 6, BPM 1, independent 1; composition as of January 2024 - men 17, women 1, percent of women 5.6%; note - total Parliament percent of women 22.2%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Antigua and Barbuda<br>
@@ -587,8 +587,8 @@ V2<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>
-_total_: 1,170 km (2011)<br>
-_paved_: 386 km (2011)<br>
+_total_: 1,170 km<br>
+_paved_: 386 km<br>
 _unpaved_: 784 km (2011)<br>
 
 **Merchant marine**<br>

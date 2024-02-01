@@ -87,7 +87,7 @@ Creole (Mulatto) 71%, African 28%, European 1%<br>
 Portuguese (official), Crioulo (a Portuguese-based Creole language with two main dialects spoken in Cabo Verde and in the Cabo Verdean diaspora worldwide)<br>
 
 **Religions**<br>
-Roman Catholic 77.3%, Protestant 4.6% (includes Church of the Nazarene 1.7%, Adventist 1.5%, Assembly of God 0.9%, Universal Kingdom of God 0.4%, and God and Love 0.1%), other Christian 3.4% (includes Christian Rationalism 1.9%, Jehovah's Witness 1%, and New Apostolic 0.5%), Muslim 1.8%, other 1.3%, none 10.8%, unspecified 0.7% (2010 est.)<br>
+Roman Catholic 72.%, Protestant 4% (includes Adventist 1.9%, Nazarene 1.8%, Assembly of God 0.2%, God is Love 0.1%), Christian Rationalism 1.7%, Muslim 1.3%, Jehovah's Witness 1.2%, Church of Jesus Christ 1%, other Christian 1.3%, other 1.2%, none 15.6%, no response 0.4% (2021 est.)<br>
 
 **Demographic profile**<br>
 <p>Cabo Verde’s population descends from its first permanent inhabitants in the late 15th-century – a preponderance of West African slaves, a small share of Portuguese colonists, and even fewer Italians, Spaniards, and Portuguese Jews. Over the centuries, the country’s overall population size has fluctuated significantly, as recurring periods of famine and epidemics have caused high death tolls and emigration.</p><p>Labor migration historically reduced Cabo Verde’s population growth and still provides a key source of income through remittances. Expatriates probably outnumber Cabo Verde’s resident population, with most families having a member abroad. Cabo Verdeans have settled in the US, Europe, Africa, and South America. The largest diaspora community in New Bedford, Massachusetts, dating to the early 1800s, is a byproduct of the transatlantic whaling industry. Cabo Verdean men fleeing poverty at home joined the crews of US whaling ships that stopped in the islands. Many settled in New Bedford and stayed in the whaling or shipping trade, worked in the textile or cranberry industries, or operated their own transatlantic packet ships that transported compatriots to the US. Increased Cabo Verdean emigration to the US coincided with the gradual and eventually complete abolition of slavery in the archipelago in 1878.</p><p>During the same period, Portuguese authorities coerced Cabo Verdeans to go to Sao Tome and Principe and other Portuguese colonies in Africa to work as indentured laborers on plantations. In the 1920s, when the US implemented immigration quotas, Cabo Verdean emigration shifted toward Portugal, West Africa (Senegal), and South America (Argentina). Growing numbers of Cabo Verdean labor migrants headed to Western Europe in the 1960s and 1970s. They filled unskilled jobs in Portugal, as many Portuguese sought out work opportunities in the more prosperous economies of northwest Europe. Cabo Verdeans eventually expanded their emigration to the Netherlands, where they worked in the shipping industry. Migration to the US resumed under relaxed migration laws. Cabo Verdean women also began migrating to southern Europe to become domestic workers, a trend that continues today and has shifted the gender balance of Cabo Verdean emigration.</p><p>Emigration has declined in more recent decades due to the adoption of more restrictive migration policies in destination countries. Reduced emigration along with a large youth population, decreased mortality rates, and increased life expectancies, has boosted population growth, putting further pressure on domestic employment and resources. In addition, Cabo Verde has attracted increasing numbers of migrants in recent decades, consisting primarily of people from West Africa, Portuguese-speaking African countries, Portugal, and China. Since the 1990s, some West African migrants have used Cabo Verde as a stepping stone for illegal migration to Europe.</p><br>
@@ -316,12 +316,12 @@ _chief of state_: President Jose Maria Pereira NEVES (since 9 November 2021)<br>
 _head of government_: Prime Minister Jose Ulisses CORREIA e SILVA (since 22 April 2016)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 17 October 2021 (next to be held in October 2026); prime minister nominated by the National Assembly and appointed by the president<br>
-_election results_: <em><br>2020: </em>Jose Maria Pereira NEVES elected president; percent of vote - Jose Maria Pereira NEVES (PAICV) 51.7%, Carlos VEIGA (MPD) 42.4%, Casimiro DE PINA (Independent) 1.8%, Fernando Rocha DELGADO (Independent) 1.4%, Helio SANCHES (independent) 1.14%, Gilson ALVES (independent) 0.8%, Joaquim MONTEIRO (independent) 3.4%<br><br><em>2016: </em>Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74.1%, Albertino GRACA (independent) 22.5%, other 3.4%<br>
+_election results_: <em><br>2020: </em>Jose Maria Pereira NEVES elected president; percent of vote - Jose Maria Pereira NEVES (PAICV) 51.7%, Carlos VEIGA (MPD) 42.4%, Casimiro DE PINA (independent) 1.8%, Fernando Rocha DELGADO (independent) 1.4%, Helio SANCHES (independent) 1.14%, Gilson ALVES (independent) 0.8%, Joaquim MONTEIRO (independent) 3.4%<br><br><em>2016: </em>Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74.1%, Albertino GRACA (independent) 22.5%, other 3.4%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (72 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 18 April 2021 (next to be held in April 2026)<br>
-_election results_: percent of vote by party MPD 50.2%, PAICV 39.6%, UCID 9.0%, other 1.2%; seats by party - MPD 38, PAICV 30, UCID 4; composition as of October 2023 - men 42, women 30, percent of women 41.7%<br>
+_election results_: percent of vote by party MPD 50.2%, PAICV 39.6%, UCID 9.0%, other 1.2%; seats by party - MPD 38, PAICV 30, UCID 4; composition as of October 2023 - men 44, women 28, percent of women 38.9%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Justice (consists of the chief justice and at least 7 judges and organized into civil, criminal, and administrative sections)<br>
@@ -643,7 +643,7 @@ Cabo Verdean Armed Forces (FACV): Army (also called the National Guard, GN; incl
 0.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the military has approximately 1,000-1,200 personnel&nbsp; (2023)<br>
+the military has approximately 1,000-1,200 personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FACV has a limited amount of mostly dated and second-hand equipment, largely from China, some European countries, and the former Soviet Union (2023)<br>
@@ -652,7 +652,7 @@ the FACV has a limited amount of mostly dated and second-hand equipment, largely
 18-35 years of age for male and female selective compulsory military service; 24-month conscript service obligation; 17 years of age for voluntary service (with parental consent) (2023)<br>
 
 **Military - note**<br>
-the FACV/National Guard is mostly a ground force with 2 infantry battalions and a small air component with a maritime patrol squadron; the Coast Guard had a few coastal patrol craft and patrol boats (2023)<br>
+the FACV/National Guard is mostly a ground force with approximately two infantry battalions and a small air component with a maritime patrol squadron; the Coast Guard had a few coastal patrol craft and patrol boats (2023)<br>
 
 ## Transnational Issues
 

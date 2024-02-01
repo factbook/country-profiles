@@ -647,7 +647,7 @@ _major seaport(s)_: Freetown, Pepel, Sherbro Islands<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Sierra Leone Armed Forces (RSLAF): Land Forces, Maritime Forces, Air Wing<br><br>Ministry of Internal Affairs: Sierra Leone Police (2023)<br>
+Republic of Sierra Leone Armed Forces (RSLAF): Land Forces, Maritime Forces, Air Wing<br><br>Ministry of Internal Affairs: Sierra Leone Police (2024)<br>
 
 **Military expenditures**<br>
 0.6% of GDP (2022 est.)<br>
@@ -657,13 +657,13 @@ Republic of Sierra Leone Armed Forces (RSLAF): Land Forces, Maritime Forces, Air
 0.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-The estimated strength of the RSLAF is 8500. (2023)<br>
+approximately 8,500 personnel, mostly ground forces&nbsp; (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RSLAF has a small inventory that includes a mix of Soviet-origin and other older foreign-supplied equipment; in recent years, it has received limited amounts of mostly donations and secondhand equipment (2023)<br>
 
 **Military service age and obligation**<br>
-18-25 for voluntary military service for men and women (25-40 for specialists); no conscription (2023)<br>
+18-30 for voluntary military service for men and women (25-40 for specialists); no conscription (2023)<br>
 
 **Military - note**<br>
 the RSLAF’s principle responsibilities are securing the borders and the country’s territorial waters, supporting civil authorities during emergencies and reconstruction efforts, and participating in peacekeeping missions; it is small, lightly armed, and has a limited budget; since being reduced in size and restructured with British assistance after the end of the civil war in 2002, it has received assistance from several foreign militaries, including those of Canada, China, France, the UK, and the US; the RSLAF has participated in peacekeeping operations in Somalia and Sudan; the Land Forces are by far the largest service with four small light infantry brigades and a separate battalion, each assigned to a separate region, including the capital; the Maritime Forces have a few small coastal and in-shore patrol boats, while the Air Wing has a handful of serviceable combat helicopters; the RSLAF operates under a Joint Forces Command<br><br>the RSLAF’s origins lie in the Sierra Leone Battalion of the Royal West African Frontier Force (RWAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the RWAFF fought in both World Wars (2023)<br>

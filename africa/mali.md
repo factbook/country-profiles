@@ -379,7 +379,7 @@ _subordinate courts_: Court of Appeal; High Court of Justice (jurisdiction limit
 <p>African Solidarity for Democracy and Independence or SADI [Oumar MARIKO]<br>Alliance for Democracy and Progress or ADP-Maliba [Amadou THIAM]<br>Alliance for Democracy in Mali-Pan-African Party for Liberty, Solidarity, and Justice or ADEMA-PASJ [Tiemoko SANGARE]<br>Alliance for the Solidarity of Mali-Convergence of Patriotic Forces or ASMA-CFP [Amadou CISSE, vice-president, acting]<br>Convergence for the Development of Mali or CODEM [Housseyni Amion GUINDO]<br>Democratic Alliance for Peace or ADP-Maliba [Aliou Boubacar DIALLO]<br>Movement for Mali or MPM [Brahima DIANESSY, deputy]                                                                                           <br>Party for National Renewal (also Rebirth or Renaissance or PARENA) [Tiebile DRAME]<br>Rally for Mali or RPM [Boucary TRETA] <br>Social Democratic Convention or CDS [Mamadou Bakary "Blaise" SANGARE]<br>Union for Democracy and Development or UDD [Hassane BARRY]                                             <br>Union for Republic and Democracy or URD [Soumaïla CISSE]<br>Yéléma [Moussa MARA]</p> <strong>note 1: </strong>only parties with 2 or more seats in the last National Assembly parliamentary elections (30 March and 19 April 2020) listed<br><strong><br>note 2:</strong>  the National Assembly was dissolved on 18 August 2020 following a military coup and replaced with a National Transition Council; currently 121 members, party affiliations unknown<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU (suspended), CD, ECOWAS (suspended), EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNDP, UNESCO, UNFPA, UNHCR, UNIDO, UNOPS, UN Women, UNWTO, UPU, WADB (regional), WAEMU, World Bank Group, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU (suspended), CD, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSCA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNDP, UNESCO, UNFPA, UNHCR, UNIDO, UNOPS, UN Women, UNWTO, UPU, WADB (regional), WAEMU, World Bank Group, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador S&eacute;kou BERTHE (since 16 September 2022)<br>
@@ -671,7 +671,7 @@ _total_: 593 km (2014)<br>
 _narrow gauge_: 593 km (2014) 1.000-m gauge<br>
 
 **Roadways**<br>
-_total_: 139,107 km (2018)<br>
+_total_: 139,107 km (2014)<br>
 
 **Waterways**<br>
 1,800 km (2011) (downstream of Koulikoro; low water levels on the River Niger cause problems in dry years; in the months before the rainy season the river is not navigable by commercial vessels)<br>
@@ -682,7 +682,7 @@ _river port(s)_: Koulikoro (Niger)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Malian Armed Forces (Forces Armées Maliennes or FAMa): Land Forces (l’Armée de Terre), Air Force (l’Armée de l’Air); National Guard (la Garde Nationale du Mali or GNM); General Directorate of the National Gendarmerie (la Direction Générale de la Gendarmerie Nationale or DGGN) (2023)<br>
+Malian Armed Forces (Forces Armées Maliennes or FAMa): Land Forces (l’Armée de Terre), Air Force (l’Armée de l’Air); National Guard (la Garde Nationale du Mali or GNM); General Directorate of the National Gendarmerie (la Direction Générale de la Gendarmerie Nationale or DGGN) (2024)<br>
 <strong>note 1:</strong> the Gendarmerie and the National Guard are under the authority of the Ministry of Defense and Veterans Affairs (Ministere De La Defense Et Des Anciens Combattants, MDAC), but operational control is shared with the Ministry of Internal Security and Civil Protection which also controls the National Police; the National Police has responsibility for law enforcement and maintenance of order in urban areas and supports the FAMa in internal military operations<br><br><strong>note 2: </strong>the Gendarmerie's primary mission is internal security and public order; its duties also include territorial defense, humanitarian operations, intelligence gathering, and protecting private property, mainly in rural areas; it also has a specialized border security unit<br><br><strong>note 3: </strong>the National Guard is a military force responsible for providing security to government facilities and institutions, prison service, public order, humanitarian operations, some border security, and intelligence gathering; its forces include a camel corps for patrolling the deserts and borders of northern Mali<br><br><strong>note 4: </strong>there are also pro-government militias operating in Mali, such as the Imghad Tuareg Self-Defense Group and Allies (GATIA); the leader of GATIA is also a general in the national army<br>
 
 **Military expenditures**<br>
@@ -693,7 +693,7 @@ Malian Armed Forces (Forces Armées Maliennes or FAMa): Land Forces (l’Armée 
 3.1% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; estimated 35,000 total active military and paramilitary personal, including approximately 20,000 FAMa (up to 2,000 Air Force), 5,000 Gendarmerie, and 10,000 National Guard (2023)<br>
+information varies; estimated 35-40,000 total active military and paramilitary personnel, including approximately 20-25,000 FAMa (up to 2,000 Air Force), 5-7,000 Gendarmerie, and 10,000 National Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAMa's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of newer armaments from more than a dozen countries, especially China and Russia (2023)<br>

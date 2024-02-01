@@ -300,6 +300,10 @@ _agricultural_: 3.18 billion cubic meters (2020 est.)<br>
 **Total renewable water resources**<br>
 211 billion cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 7<br>
+_global geoparks and regional networks_: Beaujolais; Causses du Quersey; Chablais; Haute-Provence; Luberon;&nbsp; Massif des Bauges;&nbsp; Monts d'Ard&egrave;che (2023)<br>
+
 ## Government
 
 **Country name**<br>
@@ -408,7 +412,7 @@ _lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
 <strong>note:</strong> adopted 1795, restored 1870; originally known as "Chant de Guerre pour l'Armee du Rhin" (War Song for the Army of the Rhine), the National Guard of Marseille made the song famous by singing it while marching into Paris in 1792 during the French Revolutionary Wars<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 51 (44 cultural, 6 natural, 1 mixed); note - includes one site in New Caledonia and one site in French Polynesia<br>
+_total World Heritage Sites_: 53 (45 cultural, 7 natural, 1 mixed); note - includes one site in New Caledonia and one site in French Polynesia<br>
 _selected World Heritage Site locales_: Chartres Cathedral (c); Palace and Park of Versailles (c); Prehistoric Sites and Decorated Caves of the Vézère Valley (c); Pyrénées - Mont Perdu (m); Cistercian Abbey of Fontenay (c); Paris, Banks of the Seine (c); The Loire Valley between Sully-sur-Loire and Chalonnes (c); Pont du Gard (Roman Aqueduct) (c); Amiens Cathedral (c); Palace and Park of Fontainebleau (c); Historic Fortified City of Carcassonne (c); Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve (n)<br>
 
 ## Economy
@@ -726,7 +730,7 @@ French Armed Forces (Forces Armées Françaises): Army (l'Armee de Terre; includ
 
 **Military expenditures**<br>
 1.9% of GDP (2023 est.)<br>
-1.9% of GDP (2022 est.)<br>
+1.9% of GDP (2022)<br>
 1.9% of GDP (2021)<br>
 2% of GDP (2020)<br>
 1.8% of GDP (2019)<br>
@@ -743,7 +747,7 @@ generally 17-30 years of age for both men and women with some variations by serv
 <strong>note 1: </strong>in 2023, women comprised more than 16% of the uniformed armed forces  <br><br><strong>note 2:</strong> French citizens can also volunteer for the Voluntary Military Service (VMS), which allows unemployed youth aged 18-25 to learn a trade or gain work experience while receiving basic military training and sports activities; French citizens may also joint the military operational reserve up to age 72<br><br><strong>note 3:</strong> men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign five-year contracts<br>
 
 **Military deployments**<br>
-approximately 300 Central African Republic; approximately 1,000 Chad; 300 Comoros; approximately 900 Cote d'Ivoire; approximately 1,400 Djibouti; 300 Estonia (NATO); approximately 2,000 French Guyana; approximately 900 French Polynesia; approximately 1,000 French West Indies; 350 Gabon; approximately 500 Middle East (Iraq/Jordan/Syria); 650 Lebanon (UNIFIL); approximately 1,400 New Caledonia; approximately 1,700 Reunion Island; approximately 800 Romania (NATO); approximately 350 Senegal; approximately 650 United Arab Emirates (2023)<br>
+approximately 300 Central African Republic; 300 Comoros; approximately 1,400 Djibouti; 300 Estonia (NATO); approximately 2,000 French Guyana; approximately 900 French Polynesia; approximately 1,000 French West Indies; approximately 500 Middle East (Iraq/Jordan/Syria); 650 Lebanon (UNIFIL); approximately 1,400 New Caledonia; approximately 1,700 Reunion Island; approximately 800 Romania (NATO); approximately 2,500-3,000 West Africa (Chad, Cote d'Ivoire, Gabon, Senegal); approximately 650 United Arab Emirates (2023)<br>
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including France, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>

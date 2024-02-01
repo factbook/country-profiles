@@ -599,8 +599,8 @@ _other airports_: 21<br>
 1 (2021)<br>
 
 **Roadways**<br>
-_total_: 2,700 km (2011)<br>
-_paved_: 1,620 km (2011)<br>
+_total_: 2,700 km<br>
+_paved_: 1,620 km<br>
 _unpaved_: 1,080 km (2011)<br>
 
 **Merchant marine**<br>

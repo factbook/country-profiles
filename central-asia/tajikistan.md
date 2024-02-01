@@ -382,8 +382,8 @@ _lyrics/music_: Gulnazar KELDI/Sulaimon YUDAKOV<br>
 <strong>note:</strong> adopted 1991; after the fall of the Soviet Union, Tajikistan kept the music of the anthem from its time as a Soviet republic but adopted new lyrics<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Proto-urban Site of Sarazm (c); Tajik National Park (Mountains of the Pamirs) (n); Silk Roads: Zarafshan-Karakum Corridor (c)<br>
+_total World Heritage Sites_: 4 (2 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Proto-urban Site of Sarazm (c); Tajik National Park (Mountains of the Pamirs) (n); Silk Roads: Zarafshan-Karakum Corridor (c); Tugay forests of the Tigrovaya Balka Nature Reserve (n)<br>
 
 ## Economy
 
@@ -674,7 +674,8 @@ approximately 10,000 active-duty troops (8,000 Land and Mobile Forces; 2,000 Air
 the military's inventory is comprised of older Russian and Soviet-era equipment; it has received limited quantities of weapons systems in recent years, most of which was secondhand material from Russia (2023)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory (men only) or voluntary (men and women) military service; 24-month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay a fee in order to avoid conscription (2023)<br>
+18-27 years of age for compulsory (men only) or voluntary (men and women) military service; 24-month conscript service obligation   (2023)<br>
+<strong>note:</strong> in August 2021, the Tajik Government removed an exemption for university graduates but began allowing men to pay a fee in order to avoid conscription, although there is a cap on the number of individuals who can take advantage of this exemption<br>
 
 **Military - note**<br>
 Tajikistan is the only former Soviet republic that did not form its armed forces from old Soviet Army units following the collapse of the USSR in 1991; rather, Russia retained command of the Soviet units there while the Tajik government raised a military from scratch; the first ground forces were officially created in 1993 from groups that fought for the government during the Tajik Civil War<br><br>the military is a small and limited force equipped largely with Soviet-era weapons; its primary concerns are terrorism, border security, territorial defense, and instability in neighboring countries; following the 2021 Taliban takeover in Afghanistan, Tajikistan deployed thousands of troops to the Afghan border and conducted exercises focused on border-related scenarios; since 2012, Tajikistan has had more than 100 border-related clashes with Kyrgyzstan, triggered mostly by disputes over water, roads, or land along a poorly-defined frontier; the most recent in September 2022 saw the use of armored vehicles and artillery and resulted in about 100 killed; the Tajik Land and Mobile Forces have together an estimated 5 combat brigades of mechanized infantry, light/mountain infantry, air assault and special forces, and artillery; the Air and Air Defense force has a small number attack and multipurpose helicopters<br><br>Russia is Tajikistan’s primary security partner; approximately 5-7,000 Russian soldiers are stationed in the country, primarily at the 201st military base, which is leased until at least 2042; the Russian forces include combat troops and combat aircraft; Russia and Tajikistan have a joint air defense system and they conduct periodic joint exercises; Tajikistan has been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force (2023)<br>

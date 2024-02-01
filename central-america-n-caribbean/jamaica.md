@@ -620,9 +620,7 @@ _number of registered air carriers_: 0 (2020)<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>
-_total_: 22,121 km (2011) (includes 44 km of expressways)<br>
-_paved_: 16,148 km (2011)<br>
-_unpaved_: 5,973 km (2011)<br>
+_total_: 25,595 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 36 (2022)<br>
@@ -653,7 +651,7 @@ approximately 5,000 personnel (2023)<br>
 the JDF is lightly armed with a limited inventory featuring equipment mostly from Europe and the US (2023)<br>
 
 **Military service age and obligation**<br>
-no conscription; 18-23 for voluntary military service (17 with parental consent) for men and women; 18-28 for the reserves; since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC); in the JNSC, soldiers receive basic military, vocational, and life skills training; upon completion of 12 months of service, soldiers can continue on with the JDF or seek other opportunities with other government agencies (2023)<br>
+18-23 for voluntary military service (17 with parental consent) for men and women; 18-28 for the reserves; no conscription; since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC), which has a service requirement of 12 months (2023)<br>
 <strong>note:</strong> as of 2022, women made up about 20% of the JDF's uniformed personnel<br>
 
 **Military - note**<br>

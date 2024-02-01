@@ -576,7 +576,7 @@ _Total energy consumption per capita 2019_: 19.371 million Btu/person (2019 est.
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 46,000 (2021 est.)<br>
+_total subscriptions_: 37,746 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -623,7 +623,9 @@ _total_: 301 km (2014)<br>
 _narrow gauge_: 301 km (2014) 1.067-m gauge<br>
 
 **Roadways**<br>
-_total_: 3,769 km (2019)<br>
+_total_: 4,594 km (2022)<br>
+_paved_: 1,500 km (2022)<br>
+_unpaved_: 3,000 km (2022)<br>
 
 ## Military and Security
 
@@ -638,13 +640,13 @@ Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing); the Roy
 2.1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 3,000 active duty personnel (2022)<br>
+approximately 3,000 active-duty personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the UEDF is lightly armed with mostly older equipment from Europe, South Africa, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service for men and women; no conscription (2021)<br>
+18-30 years of age for voluntary military service for men and women; no conscription (2023)<br>
 
 **Military - note**<br>
 the UEDF&rsquo;s primary mission is external security but it also has domestic security responsibilities, including protecting members of the royal family; the king is the UEDF commander in chief and holds the position of minister of defense, although the UEDF reports to the Army commander and principal undersecretary of defense for day-to-day operations; the Royal Eswatini Police Service (REPS) is responsible for maintaining internal security as well as migration and border crossing enforcement; it is under the prime minister, although the king is the force&rsquo;s titular commissioner in chief; the UEDF was originally created in 1973 as the Royal Swaziland Defense Force (2023)<br>

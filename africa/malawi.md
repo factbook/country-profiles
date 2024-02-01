@@ -662,9 +662,9 @@ _total_: 767 km (2014)<br>
 _narrow gauge_: 767 km (2014) 1.067-m gauge<br>
 
 **Roadways**<br>
-_total_: 15,452 km (2015)<br>
-_paved_: 4,074 km (2015)<br>
-_unpaved_: 11,378 km (2015)<br>
+_total_: 15,451 km (2022)<br>
+_paved_: 4,038 km (2022)<br>
+_unpaved_: 11,413 km (2022)<br>
 
 **Waterways**<br>
 700 km (2010) (on Lake Nyasa [Lake Malawi] and Shire River)<br>
@@ -675,7 +675,7 @@ _lake port(s)_: Chipoka, Monkey Bay, Nkhata Bay, Nkhotakota, Chilumba (Lake Nyas
 ## Military and Security
 
 **Military and security forces**<br>
-Malawi Defense Force (MDF): Land Forces (Army), Maritime Force, Air Force, National Service (reserve force) (2023)<br>
+Malawi Defense Force (MDF): Land Forces (Army), Maritime Force, Air Force, National Service (reserve force) (2024)<br>
 <strong>note:</strong> the MDF reports directly to the president as commander in chief; the Malawi Police Service is under the Ministry of Homeland Security<br>
 
 **Military expenditures**<br>
@@ -692,10 +692,10 @@ estimated 10,000 active military personnel (2023)<br>
 the MDF's inventory is comprised of mostly obsolescent or secondhand equipment originating from such countries as France and South Africa; in recent years, it has received small amounts of armaments from a few countries, including China (2023)<br>
 
 **Military service age and obligation**<br>
-18-24 years of age for men and women for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2023)<br>
+18-30years of age for men and women for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2023)<br>
 
 **Military deployments**<br>
-<p>850 military deployments to the DRC under MONUSCO in 2023. </p> <p> </p> (2023)<br>
+750 Democratic Republic of the Congo (MONUSCO)&nbsp; (2023)<br>
 
 **Military - note**<br>
 the MDF’s primary responsibility is external security; it is also tasked as necessary with providing support to civilian authorities during emergencies, supporting the Police Service, protecting national forest reserves, and participating in regional peacekeeping missions, as well as assisting with infrastructure development; it is generally considered to be a professional and effective service, although most of its equipment is aging and obsolescent; Malawi contributes regularly to African Union and UN peace support operations; the Army is the dominant service and has 3 infantry brigades while its subordinate maritime force has a few patrol boats for monitoring Lake Malawi <br><br>the MDF was established in 1964 from elements of the Kings African Rifles (KAR), a British colonial regiment raised from Great Britain's various possessions in East Africa from 1902 until independence in the 1960s; the KAR conducted both military and internal security functions within the colonial territories, and served outside the territories during the World Wars (2023)<br>
@@ -706,7 +706,7 @@ the MDF’s primary responsibility is external security; it is also tasked as ne
 <p><em>Malawi-Mozambique</em>: the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Malawi-Tanzania</em>: dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,030 (Democratic Republic of the Congo) (refugees and asylum seekers) 11,502 (Burundi) (refugees and asylum seekers), 6,594 (Rwanda) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 34,159 (Democratic Republic of the Congo) (refugees and asylum seekers) 11,502 (Burundi) (refugees and asylum seekers), 6,594 (Rwanda) (refugees and asylum seekers) (2023)<br>
 
 **Illicit drugs**<br>
 NA<br>

@@ -669,7 +669,7 @@ Estonia operates two PC 5 or 6 class icebreakers in the Baltic Sea<br>note - PC 
 ## Military and Security
 
 **Military and security forces**<br>
-Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (Reserves)<br><br>Ministry of Interior: Police, Border Guard Board, Internal Security Service (2023)<br>
+Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (Reserves)<br><br>Ministry of Interior: Police and Border Guard Board, Internal Security Service (2023)<br>
 
 **Military expenditures**<br>
 2.7% of GDP (2023 est.)<br>
@@ -683,7 +683,7 @@ approximately 7,000 active-duty personnel; approximately 15,000 Defense League (
 <strong>note: </strong>the Estonian Defense Forces rely largely on reservists who have completed compulsory conscription in the previous 10 years to fill out its active duty and Territorial Defense units during a crisis; there are more than 40,000 trained reservists and approximately 230,000 Estonians are enrolled in the mobilization registry<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Estonian military has a mix of Soviet-era and some more modern equipment, mostly from western European suppliers, as well as Israel, South Korea, and the US (2023)<br>
+the Estonian military has a mix of Soviet-era and more modern equipment, mostly from western European suppliers, as well as Israel, South Korea, and the US (2023)<br>
 
 **Military service age and obligation**<br>
 18-27 for compulsory military or governmental service for men; conscript service requirement 8-11 months depending on education; non-commissioned officers, reserve officers, and specialists serve 11 months; women can volunteer, and as of 2018 could serve in any military branch (2023)<br>

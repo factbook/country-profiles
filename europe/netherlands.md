@@ -282,6 +282,10 @@ _agricultural_: 31 million cubic meters (2020 est.)<br>
 **Total renewable water resources**<br>
 91 billion cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 1<br>
+_global geoparks and regional networks_: De Hondsrug (2023)<br>
+
 ## Government
 
 **Country name**<br>
@@ -383,7 +387,7 @@ _lyrics/music_: Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown<br>
 <strong>note:</strong> adopted 1932, in use since the 17th century, making it the oldest national anthem in the world; also known as "Wilhelmus van Nassouwe" (William of Nassau), it is in the form of an acrostic, where the first letter of each stanza spells the name of the leader of the Dutch Revolt<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 12 (11 cultural, 1 natural); note - includes one site in Curacao<br>
+_total World Heritage Sites_: 13 (12 cultural, 1 natural); note - includes one site in Curacao<br>
 _selected World Heritage Site locales_: Schokland and Surroundings (c); Dutch Water Defense Lines (c); Van Nellefabriek (c); Mill Network at Kinderdijk-Elshout (c); Droogmakerij de Beemster (Beemster Polder) (c); Rietveld Schröderhuis (Rietveld Schröder House) (c); Wadden Sea (n); Seventeenth Century Canal Ring Area of Amsterdam inside the Singelgracht (c); Colonies of Benevolence (c); Frontiers of the Roman Empire - The Lower German Limes (c)<br>
 
 ## Economy
@@ -734,7 +738,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 53,496 (Syria), 19,204 (Eritrea), 7,106 (Turkey), 5,593 (Iran), 5,152 (Iraq) (mid-year 2022); 140,725 (Ukraine) (as of 30 November 2023)<br>
+_refugees (country of origin)_: 53,496 (Syria), 19,204 (Eritrea), 7,106 (Turkey), 5,593 (Iran), 5,152 (Iraq) (mid-year 2022); 146,715 (Ukraine) (as of 30 November 2023)<br>
 _stateless persons_: 4,570 (2022)<br>
 
 **Illicit drugs**<br>

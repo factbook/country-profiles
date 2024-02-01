@@ -266,6 +266,10 @@ _agricultural_: 40 million cubic meters (2020 est.)<br>
 **Total renewable water resources**<br>
 52 billion cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 3<br>
+_global geoparks and regional networks_: Burren &amp; Cliffs of Moher; Copper Coast; Marble Arch Caves (includes United Kingdom) (2023)<br>
+
 ## Government
 
 **Country name**<br>

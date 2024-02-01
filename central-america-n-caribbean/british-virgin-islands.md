@@ -507,7 +507,7 @@ VP-L<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>
-_total_: 200 km (2007)<br>
+_total_: 200 km<br>
 _paved_: 200 km (2007)<br>
 
 **Merchant marine**<br>

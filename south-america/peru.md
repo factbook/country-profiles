@@ -306,6 +306,10 @@ _agricultural_: 32.8 billion cubic meters (2020 est.)<br>
 **Total renewable water resources**<br>
 1.88 trillion cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 1<br>
+_global geoparks and regional networks_: Colca y Volcanes de Andagua (2023)<br>
+
 ## Government
 
 **Country name**<br>
@@ -686,8 +690,8 @@ _standard gauge_: 1,730.4 km (2014) 1.435-m gauge (34 km electrified)<br>
 _narrow gauge_: 124 km (2014) 0.914-m gauge<br>
 
 **Roadways**<br>
-_total_: 18,699 km (2018)<br>
-_paved_: 18,699 km<br>
+_total_: 70,000 km (2021)<br>
+_paved_: 18,699 km (2022)<br>
 <strong>note:</strong> includes 27,109 km of national roads (21,434 km paved), 247,505 km of departmental roads (3,623 km paved), and 113,857 km of local roads (1,858 km paved)<br>
 
 **Waterways**<br>

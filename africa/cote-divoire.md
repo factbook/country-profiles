@@ -355,7 +355,7 @@ _election results_: <br><em>2020: </em>Alassane OUATTARA reelected president; pe
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)<br>National Assembly (255 seats - 254 for 2021-2026 term; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: <p>Senate - last held on 16 September 2023 (next to be held in September 2028)<br>National Assembly - last held on 6 March 2021 (next to be held on 31 March 2026)</p> <p> </p><br>
-_election results_: <p>Senate - percent by party NA; seats by party - RHDP 56, PDCI-RDA 6, independent 2, 2 seats unfilled; composition - men 54, women 10, percent of women 15.6%<br><br>National Assembly - percent of vote by party - RHDP 49.2%, PDCI-RRA-EDS 16.5%, DPIC 6%, TTB 2.1%, IPF 2%, other seats 24.2%; seats by party - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, EDS 8, TTB 8, IPF 2, independent 26; composition - men 218, women 36, percent of women 14.2%; note - total Parliament percent of women 7.6%</p><br>
+_election results_: <p>Senate - percent by party/coalition NA; seats by party/coalition - RHDP 56, PDCI-RDA 6, independent 2, vacant 2; composition - men 54, women 10, percent of women 15.6% (2 seats vacant); note - 33 members appointed; RHDP 25, independent 8 <br><br>National Assembly - percent of vote by party/coalition - RHDP 49.2%, PDCI-RRA-EDS 16.5%, DPIC 6%, TTB 2.1%, IPF 2%, other 24.2%; seats by party/coalition - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, EDS 8, TTB 8, IPF 2, independent 26, vacant 1; composition as of January 2024 - men 220, women 34, percent of women 13.4%; note - total Parliament percent of women 12.4%</p><br>
 <br><br><br>
 
 **Judicial branch**<br>
@@ -612,7 +612,7 @@ _Total energy consumption per capita 2019_: 8.225 million Btu/person (2019 est.)
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 265,513 (2021 est.)<br>
+_total subscriptions_: 263,308 (2022 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2021 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -691,7 +691,7 @@ _oil terminal(s)_: Espoir Offshore Terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republican Forces of Ivory Coast, FRCI): Army (Land Force), National Navy, Air Force, Special Forces; National Gendarmerie (under the Ministry of Defense)<br><br>Ministry of Security and Civil Protection: National Police, Coordination Center for Operational Decisions (a mix of police, gendarmerie, and FACI personnel for assisting police in providing security in some large cities), Directorate of Territorial Surveillance (2023)<br>
+Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republican Forces of Ivory Coast, FRCI): Army (Land Force), National Navy, Air Force, Special Forces; National Gendarmerie (under the Ministry of Defense)<br><br>Ministry of Security and Civil Protection: National Police, Coordination Center for Operational Decisions (a mix of police, gendarmerie, and FACI personnel for assisting police in providing security in some large cities), Directorate of Territorial Surveillance (2024)<br>
 <strong>note:</strong> the National Gendarmerie is a military force established to ensure public safety, maintain order, enforce laws, and protect institutions, people, and property; it has both territorial and mobile units; the Directorate of Territorial Surveillance is responsible for countering internal threats<br>
 
 **Military expenditures**<br>

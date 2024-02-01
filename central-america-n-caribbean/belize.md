@@ -323,7 +323,7 @@ _cabinet_: Cabinet appointed by the governor general on the advice of the prime 
 _elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; prime minister recommends the deputy prime minister<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>Senate (14 seats, including the president); members appointed by the govenor-general - 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 1 each on the advice of the Belize Council of Churches and Evangelical Association of Churches, the Belize Chamber of Commerce and Industry and the Belize Better Business Bureau, non-governmental organizations in good standing, and the National Trade Union Congress and the Civil Society Steering Committee; Senate president elected from among the Senate members or from outside the Senate; members serve 5-year terms<br>House of Representatives (32 seats; 31 members directly elected in single-seat constituencies by simple majority vote and the speaker, who may be designated from outside the government; members serve 5-year terms)<br>
+_description_: bicameral National Assembly consists of:<br>Senate (14 seats, including the president); members appointed by the governor-general - 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 1 each on the advice of the Belize Council of Churches and Evangelical Association of Churches, the Belize Chamber of Commerce and Industry and the Belize Better Business Bureau, non-governmental organizations in good standing, and the National Trade Union Congress and the Civil Society Steering Committee; Senate president elected from among the Senate members or from outside the Senate; members serve 5-year terms<br>House of Representatives (32 seats; 31 members directly elected in single-seat constituencies by simple majority vote and the speaker, who may be designated from outside the government; members serve 5-year terms)<br>
 _elections_: <br>Senate - last appointed 11 November 2020 (next appointments in November 2025)<br>House of Representatives - last held on 11 November 2020 (next to be held in November 2025)<br>
 _election results_: <br>Senate - all members appointed; composition as of August 2023 - composition - men 8, women 6, percent of women 43%<br>House of Representatives - percent of vote by party - PUP 59.6%, UDP 38.8%, other 1.6%; seats by party - PUP 26, UDP 5; composition as of August 2023 - men 27, women 5, percent of women 15.6%; note - total percent of women in the National Assembly 24%<br>
 <strong> </strong><br>
@@ -627,8 +627,8 @@ V3<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>
-_total_: 3,281 km (2017)<br>
-_paved_: 601 km (2017)<br>
+_total_: 3,281 km<br>
+_paved_: 601 km<br>
 _unpaved_: 2,680 km (2017)<br>
 
 **Waterways**<br>

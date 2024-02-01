@@ -290,6 +290,10 @@ _agricultural_: 77.75 billion cubic meters (2020 est.)<br>
 **Total renewable water resources**<br>
 884.12 billion cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 3<br>
+_global geoparks and regional networks_: Dak Nong; Dong Van Karst Plateau; Non nuoc Cao Bang (2023)<br>
+
 ## Government
 
 **Country name**<br>

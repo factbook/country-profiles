@@ -354,7 +354,7 @@ _chief of state_: President Hakainde HICHILEMA (since 24 August 2021); Vice Pres
 _head of government_: President Hakainde HICHILEMA (since 24 August 2021); Vice President Mutale NALUMANGO (since 24 August 2021)<br>
 _cabinet_: Cabinet appointed by president from among members of the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 12 August 2021 (next to be held in 2026)<br>
-_election results_: <em><br>2021</em>: Hakainde HICHILEMA elected president; percent of the vote -   Hakainde HICHILEMA (UPND) 57.9%, Edgar LUNGU (PF) 37.3%, other 4.8%<br><br><em>2016</em>: Edgar LUNGU reelected president; percent of vote - Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2%<br>
+_election results_: <em><br>2021</em>: Hakainde HICHILEMA elected president; percent of the vote - Hakainde HICHILEMA (UPND) 57.9%, Edgar LUNGU (PF) 37.3%, other 4.8%<br><br><em>2016</em>: Edgar LUNGU reelected president; percent of vote - Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (167 seats statutory, 166 seats current; 156 members directly elected in single-seat constituencies by simple majority vote in 2 rounds if needed, and up to 8 appointed by the president; members serve 5-year terms); 3 ex-officio members elected by National Assembly membership<br>
@@ -718,7 +718,7 @@ the Zambia Defense Forces are responsible for preserving the country’s soverei
 <p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto</p> <p><em>Zambia-Tanzania</em>: some drug smuggling may take place across the Zambia-Tanzania border; there are no known current territorial issues, as both states have continued to recognize the colonial boundaries last modified in 1937; the boundary in Lake Tanganyika remains undefined.<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 59,943 (Democratic Republic of the Congo) (refugees and asylum seekers), 8,436 (Burundi) (2023)<br>
+_refugees (country of origin)_: 60,455 (Democratic Republic of the Congo) (refugees and asylum seekers), 8,436 (Burundi) (2023)<br>
 
 **Illicit drugs**<br>
 transshipment point for moderate amounts of methaqualone, small amounts of heroin, and cocaine bound for southern Africa and possibly Europe; a poorly developed financial infrastructure coupled with a government commitment to combating money laundering make it an unattractive venue for money launderers; major consumer of cannabis<br>

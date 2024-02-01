@@ -370,8 +370,8 @@ _lyrics/music_: Cornelis Atses HOEKSTRA and Henry DE ZIEL/Johannes Corstianus DE
 <strong>note:</strong> adopted 1959; originally adapted from a Sunday school song written in 1893 and contains lyrics in both Dutch and Sranang Tongo<br>
 
 **National heritage**<br>
-_total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Central Suriname Nature Reserve (n); Historic Inner City of Paramaribo (c)<br>
+_total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Central Suriname Nature Reserve (n); Historic Inner City of Paramaribo (c); Jodensavanne Archaeological Site: Jodensavanne Settlement and Cassipora Creek Cemetery (c)<br>
 
 ## Economy
 

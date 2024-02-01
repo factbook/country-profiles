@@ -446,8 +446,8 @@ VP-A<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Roadways**<br>
-_total_: 175 km (2004)<br>
-_paved_: 82 km (2004)<br>
+_total_: 175 km<br>
+_paved_: 82 km<br>
 _unpaved_: 93 km (2004)<br>
 
 **Merchant marine**<br>

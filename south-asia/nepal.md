@@ -647,9 +647,7 @@ _total_: 59 km (2018)<br>
 _narrow gauge_: 59 km (2018) 0.762-m gauge<br>
 
 **Roadways**<br>
-_total_: 27,990 km (2016)<br>
-_paved_: 11,890 km (2016)<br>
-_unpaved_: 16,100 km (2016)<br>
+_total_: 64,500 km (2020)<br>
 
 ## Military and Security
 

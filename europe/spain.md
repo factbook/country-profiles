@@ -281,6 +281,10 @@ _agricultural_: 18.96 billion cubic meters (2020 est.)<br>
 **Total renewable water resources**<br>
 111.5 billion cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 16<br>
+_global geoparks and regional networks_: Basque Coast UNESCO; Cabo de Gata-N&iacute;jar; Cabo Ortegal; Central Catalonia; Courel Mountains; El Hierro; Granada; Lanzarote and Chinijo Islands; Las Loras; Maestrazgo; Molina-Alto; Origens; Sierra Norte de Sevilla; Sierras Subb&eacute;ticas; Sobrarbe-Pirineos: Villuercas Ibores Jara (2023)<br>
+
 ## Government
 
 **Country name**<br>
@@ -334,7 +338,7 @@ _residency requirement for naturalization_: 10 years for persons with no ties to
 _chief of state_: King FELIPE VI (since 19 June 2014); Heir Apparent Princess LEONOR, Princess of Asturias (daughter of the monarch, born 31 October 2005)<br>
 _head of government_: President of the Government of Spain (prime minister-equivalent) Pedro SANCHEZ PEREZ-CASTEJON (since 2 June 2018); Vice President Nadia Maria CALVINO Santamaria (since 12 July 2021)<br>
 _cabinet_: Council of Ministers designated by the president<br>
-_elections/appointments_: the monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the majority party or coalition, who is then indirectly elected by the Congress of Deputies; election last held on 10 November 2019 (next to be held in December 2023); vice president and Council of Ministers appointed by the president<br>
+_elections/appointments_: the monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the majority party or coalition, who is then indirectly elected by the Congress of Deputies; election last held on 23 July 2023 (next to be held on 31 July 2027); vice president and Council of Ministers appointed by the president<br>
 _election results_: Congress of Deputies vote - NA<br>
 <strong>note:</strong> there is also a Council of State that is the supreme consultative organ of the government, but its recommendations are non-binding<br>
 

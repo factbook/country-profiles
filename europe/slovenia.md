@@ -272,6 +272,10 @@ _agricultural_: 3.9 million cubic meters (2017 est.)<br>
 **Total renewable water resources**<br>
 31.87 billion cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 2<br>
+_global geoparks and regional networks_: Idrija; Karawanken / Karavanke (includes Austria) (2023)<br>
+
 ## Government
 
 **Country name**<br>

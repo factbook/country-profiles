@@ -202,7 +202,7 @@ _unimproved: total_: total: 16.9% of population (2020 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
-_vectorborne diseases_: dengue fever and&nbsp;malaria<br>
+_vectorborne diseases_: dengue fever, malaria, sexually transmitted diseases: hepatitis B<br>
 
 **Obesity - adult prevalence rate**<br>
 20.2% (2016)<br>
@@ -678,8 +678,8 @@ _total_: 3,960 km (2019)<br>
 _narrow gauge_: 3,960 km (2014) 1.000-m gauge<br>
 
 **Roadways**<br>
-_total_: 90,568 km (2017)<br>
-_paved_: 9,792 km (2017)<br>
+_total_: 90,568 km<br>
+_paved_: 9,792 km<br>
 _unpaved_: 80,776 km (2017)<br>
 
 **Waterways**<br>
@@ -717,7 +717,7 @@ compulsory for all men between the ages of 18 and 22; men can volunteer from the
 <strong>note 1:</strong> foreign nationals 18-22 residing in Bolivia may join the armed forces; joining speeds the process of acquiring Bolivian citizenship by naturalization<br><br><strong>note 2:</strong> as of 2022, women comprised about 8% of the Bolivian military's personnel<br>
 
 **Military - note**<br>
-the Bolivian Armed Forces (FAB) are responsible for territorial defense but also have some internal security duties, particularly counternarcotics and border security; the FAB shares responsibility for border enforcement with the National Police (PNB), and it may be called out to assist the PNB with maintaining public order in critical situations; the Army is the largest service and is organized into 6 military regions and 10 divisional headquarters; most of the combat units are light, motorized, or mechanized infantry along with a sizeable contingent of mechanized, motorized, or horse cavalry; the Army also has a special operations command with airborne, ranger, and special forces units; the Air Force does not have any fighter aircraft but rather a small force of reconnaissance and transport aircraft and multirole helicopters <br><br>Bolivia has a small naval force for patrolling some 5,000 miles of navigable rivers to combat narcotics trafficking and smuggling, provide disaster relief, and deliver supplies to remote rural areas, as well as for maintaining a presence on Lake Titicaca; the Navy also exists in part to cultivate a maritime tradition and as a reminder of Bolivia’s desire to regain the access to the Pacific Ocean that the country lost to Chile in the War of the Pacific (1879-1884); every year on 23 March, the Navy participates in parades and government ceremonies commemorating the Día Del Mar (Day of the Sea) holiday that remembers the loss (2023)<br>
+the Bolivian Armed Forces (FAB) are responsible for territorial defense but also have some internal security duties, particularly counternarcotics and border security; the FAB shares responsibility for border enforcement with the National Police (PNB), and it may be called out to assist the PNB with maintaining public order in critical situations; the Army is the largest service and is organized into six military regions and 10 divisional headquarters; most of the combat units are light, motorized, or mechanized infantry along with a sizeable contingent of mechanized, motorized, or horse cavalry; the Army also has a special operations command with airborne, ranger, and special forces units; the Air Force does not have any fighter aircraft but rather a small force of reconnaissance and transport aircraft and multirole helicopters <br><br>Bolivia has a small naval force for patrolling some 5,000 miles of navigable rivers to combat narcotics trafficking and smuggling, provide disaster relief, and deliver supplies to remote rural areas, as well as for maintaining a presence on Lake Titicaca; the Navy also exists in part to cultivate a maritime tradition and as a reminder of Bolivia’s desire to regain the access to the Pacific Ocean that the country lost to Chile in the War of the Pacific (1879-1884); every year on 23 March, the Navy participates in parades and government ceremonies commemorating the Día Del Mar (Day of the Sea) holiday that remembers the loss (2023)<br>
 
 ## Space
 

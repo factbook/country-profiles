@@ -320,7 +320,7 @@ _election results_: <em><br>2024: </em>AZALI Assoumani reelected president in fi
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Union (33 seats; 24 members directly elected by absolute majority vote in 2 rounds if needed and 9 members indirectly elected by the 3 island assemblies; members serve 5-year terms)<br>
 _elections_: last held on&nbsp;19 January 2020 with a runoff on 23&nbsp;February 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - 1st round - CRC 60.9%, Orange Party 4.3%, Independents 30.8%, other 4%; 2nd round - CRC 54.1%, Orange Party 18.9%, Independents 26.1%, other 1%; seats by party - 1st round -  CRC 16, Orange Party 1, Independents 2; 2nd round - CRC 4, Orange Party 1; note - 9 additional seats filled by the 3 island assemblies; composition for elected members as of 2022 - men 20, women 4, percent of women 16.7%<br> <h3> </h3><br>
+_election results_: percent of vote by party in first round - CRC 60.9%, Orange Party 4.3%, independent 30.8%, other 4%; percent of vote in the second round - CRC 54.1%, Orange Party 18.9%, independent 26.1%, other 1%; seats by party in the first round -  CRC 16, Orange Party 1, independent 2; seats by party in the second round - CRC 4, Orange Party 1; note - 9 additional seats filled by the 3 island assemblies; note - main opposition parties boycotted election; composition for elected members as of 2022 - men 20, women 4, percent of women 16.7%<br> <h3> </h3><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court or Cour Supreme (consists of 7 judges)<br>
@@ -602,9 +602,9 @@ D6<br>
 <strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
 
 **Roadways**<br>
-_total_: 880 km (2002)<br>
-_paved_: 673 km (2002)<br>
-_unpaved_: 207 km (2002)<br>
+_total_: 849 km (2019)<br>
+_paved_: 673 km (2019)<br>
+_unpaved_: 207 km (2019)<br>
 
 **Merchant marine**<br>
 _total_: 248 (2022)<br>

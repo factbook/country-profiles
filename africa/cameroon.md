@@ -363,8 +363,8 @@ _election results_: <em>2018:</em> Paul BIYA reelected president; percent of vot
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br>National Assembly or Assemblee Nationale (180 seats; members directly elected in 49 single and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last held on 12 March 2023 (next to be held in 2028)<br>National Assembly - last held on 9 February 2020<br>
-_election results_: Senate - percent of vote by party - CDPM 100%; composition as of October 2023 - men 69, women 31, percent of women 31%<br><br>National Assembly - percent of vote by party - NA; seats by party - CPDM 139, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, Union of Socialist Movements 2; other 13; composition as of October 2023 - men 119, women 61, percent of women 33.9%; note - total Parliament percent of women 31.1%<br>
+_elections_: Senate - last held on 12 March 2023 (next to be held in 2028)<br>National Assembly - last held on 9 February 2020 (next to be held 28 February 2025)<br>
+_election results_: Senate - percent of vote by party - CDPM 100%; seats by party - CDPM 100; composition as of October 2023 - men 69, women 31, percent of women 31%<br><br>National Assembly - percent of vote by party - NA; seats by party - CPDM 152, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, UMS 2; composition as of October 2023 - men 109, women 58, percent of women 32.2%; note - total Parliament percent of women 31.7%<br><br>note: 13 National Assembly seats were vacant after the 9 February 2020 election due to violence in northwest and southwest regions; CDPM won those seats in a 22 March 2020 election<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court of Cameroon (consists of 9 titular and 6 surrogate judges and organized into judicial, administrative, and audit chambers); Constitutional Council (consists of 11 members)<br>
@@ -680,9 +680,9 @@ _narrow gauge_: 987 km (2014) 1.000-m gauge<br>
 <strong>note:</strong> railway connections generally efficient but limited; rail lines connect major cities of Douala, Yaounde, Ngaoundere, and Garoua; passenger and freight service provided by CAMRAIL<br>
 
 **Roadways**<br>
-_total_: 77,589 km (2016)<br>
-_paved_: 5,133 km (2016)<br>
-_unpaved_: 72,456 km (2016)<br>
+_total_: 77,589 km (2019)<br>
+_paved_: 5,133 km (2019)<br>
+_unpaved_: 72,456 km (2019)<br>
 
 **Waterways**<br>
 (2010) (major rivers in the south, such as the Wouri and the Sanaga, are largely non-navigable; in the north, the Benue, which connects through Nigeria to the Niger River, is navigable in the rainy season only to the port of Garoua)<br>
@@ -724,7 +724,7 @@ the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Ru
 <strong>note: </strong>Cameroon has committed approximately 2,000-2,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations occur occasionally<br>
 
 **Military - note**<br>
-the FAC is a professional and politically independent military; the Army and the Rapid Intervention Battalion (BIR) are organized and equipped for mobile operations; the Army has 4 motorized infantry brigades spread amongst 5 military regions; the US-trained, 5,000-man BIR has up to 9 battalions, detachments, or groups consisting of airborne, air mobile, amphibious, light, and motorized infantry, armored reconnaissance, counterterrorism, and support units, such as artillery and intelligence; the BIR reportedly receives better training, equipment, and pay than regular Army units<br><br>the ground forces are largely focused on internal security, particularly the threat from the terrorist groups Boko Haram and ISIS-West Africa along its frontiers with Nigeria and Chad (Far North region) and an insurgency from armed Anglophone separatist groups in the North-West and South-West regions (as of 2023, this conflict had left more than 3,500 civilians dead and over 500,000 people displaced since fighting started in 2016); in addition, the FAC often deploys ground units to the border region with the Central African Republic to counter intrusions from armed militias and bandits; the Navy’s missions include protecting Cameroon’s oil installations, combatting crime and piracy in the Gulf of Guinea, and patrolling the country’s lakes and rivers; the Air Force supports both the ground and naval forces and has small numbers of light ground attack and reconnaissance aircraft, as well as attack, multipurpose, and transport helicopters (2023)<br>
+the FAC is considered a politically independent military; the Army and the Rapid Intervention Battalion (BIR) are organized and equipped for mobile operations; the Army has 4 motorized infantry brigades spread amongst 5 military regions; the US-trained BIR has up to nine battalions, detachments, or groups consisting of airborne, air mobile, amphibious, light, and motorized infantry, armored reconnaissance, counterterrorism, and support units, such as artillery and intelligence; the BIR reportedly receives better training, equipment, and pay than regular Army units<br><br>the ground forces are largely focused on internal security, particularly the threat from the terrorist groups Boko Haram and ISIS-West Africa along its frontiers with Nigeria and Chad (Far North region) and an insurgency from armed Anglophone separatist groups in the North-West and South-West regions (as of 2023, this conflict had left more than 3,500 civilians dead and over 500,000 people displaced since fighting started in 2016); in addition, the FAC often deploys ground units to the border region with the Central African Republic to counter intrusions from armed militias and bandits; the Navy’s missions include protecting Cameroon’s oil installations, combatting crime and piracy in the Gulf of Guinea, and patrolling the country’s lakes and rivers; the Air Force supports both the ground and naval forces and has small numbers of light ground attack and reconnaissance aircraft, as well as attack, multipurpose, and transport helicopters (2023)<br>
 
 ## Terrorism
 
@@ -738,6 +738,6 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p><em>Cameroon-Central African Republic</em>: Cameroon has deployed military troops to the border to counter intrusions from armed militias and bandits<br> <br><em>Cameroon-Nigeria:</em> Nigeria recognized Cameroon's sovereignty over the Bakassi Peninsula in 2006 and in completed the transfer of administration in 2013, although there are occasional, mostly local disputes in the area; the the majority of the land boundary was demarcated by 2019 with UN assistance, although there are few disagreements on the precise location of the boundary; the porous border is susceptible to crossings by the Boko Haram and Islamic State of Iraq and ash-Sham - West Africa terrorist groups, both of which operate in Northern Nigeria <br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 359,134 (Central African Republic), 120,839 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 354,139 (Central African Republic), 120,839 (Nigeria) (2023)<br>
 _IDPs_: 1.066 million (2023) (includes far north, northwest, and southwest)<br>
 

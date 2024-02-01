@@ -270,6 +270,10 @@ _agricultural_: 300,000 cubic meters (2017 est.)<br>
 **Total renewable water resources**<br>
 170 billion cubic meters (2020 est.)<br>
 
+**Geoparks**<br>
+_total global geoparks and regional networks_: 2<br>
+_global geoparks and regional networks_: Katla; Reykjanes (2023)<br>
+
 ## Government
 
 **Country name**<br>
