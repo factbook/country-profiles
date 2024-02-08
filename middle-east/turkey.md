@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Modern Turkey was founded in 1923 from the remnants of the defeated Ottoman Empire by national hero Mustafa KEMAL, who was later honored with the title Ataturk or "Father of the Turks." Under his leadership, the country adopted radical social, legal, and political reforms. After a period of one-party rule, an experiment with multi-party politics led to the 1950 election victory of the opposition Democrat Party and the peaceful transfer of power. Since then, Turkish political parties have multiplied, but democracy has been fractured by periods of instability and military coups (1960, 1971, 1980), which in each case eventually resulted in a return of formal political power to civilians. In 1997, the military again helped engineer the ouster - popularly dubbed a "post-modern coup" - of the then Islamic-oriented government. An unsuccessful coup attempt was made in July 2016 by a faction of the Turkish Armed Forces.</p> <p>Turkey intervened militarily on Cyprus in 1974 to prevent a Greek takeover of the island and has since acted as patron state to the "Turkish Republic of Northern Cyprus," which only Turkey recognizes. A separatist insurgency begun in 1984 by the Kurdistan Workers' Party (PKK), a US-designated terrorist organization, has long dominated the attention of Turkish security forces and claimed more than 40,000 lives. In 2013, the Turkish Government and the PKK conducted negotiations aimed at ending the violence, however intense fighting resumed in 2015. Turkey joined the UN in 1945 and in 1952 it became a member of NATO. In 1963, Turkey became an associate member of the European Community; it began accession talks with the EU in 2005. Over the past decade, economic reforms, coupled with some political reforms, have contributed to a growing economy, although in recent years, the government's growth-by-any-means strategy has sent inflation to historic highs and tested the broader financial system's resilience.</p> <p>From 2015 and continuing through 2016, Turkey witnessed an uptick in terrorist violence, including major attacks in Ankara, Istanbul, and throughout the predominantly Kurdish southeastern region of Turkey. On 15 July 2016, elements of the Turkish Armed forces attempted a coup that ultimately failed following widespread popular resistance. More than 240 people were killed and over 2,000 injured when Turkish citizens took to the streets en masse to confront the coup forces. The government accused followers of the Fethullah Gulen transnational religious and social movement ("Hizmet") of instigating the failed coup and designates the movement’s followers as terrorists. Since the attempted coup, Turkish Government authorities arrested, suspended, or dismissed more than 130,000 security personnel, journalists, judges, academics, and civil servants due to their alleged connection to Gulen's movement. Following the failed coup, the Turkish Government instituted a State of Emergency from July 2016 to July 2018. The Turkish Government conducted a referendum on 16 April 2017 in which voters approved constitutional amendments changing Turkey from a parliamentary to a presidential system. The amendments went into effect fully following the presidential and parliamentary elections in June 2018.</p><br>
+<p>Modern Turkey was founded in 1923 from the remnants of the defeated Ottoman Empire by national hero Mustafa KEMAL, who was later honored with the title Ataturk or "Father of the Turks." Under his leadership, the country adopted radical social, legal, and political reforms. After a period of one-party rule, an experiment with multi-party politics led to the 1950 election victory of the opposition Democrat Party and the peaceful transfer of power. Since then, Turkish political parties have multiplied, but democracy has been fractured by periods of instability and military coups (1960, 1971, 1980), which in each case eventually resulted in a return of formal political power to civilians. In 1997, the military again helped engineer the ouster - popularly dubbed a "post-modern coup" - of the then Islamic-oriented government. An unsuccessful coup attempt was made in July 2016 by a faction of the Turkish Armed Forces.</p> <p>Turkey intervened militarily on Cyprus in 1974 to prevent a Greek takeover of the island and has since acted as patron state to the "Turkish Republic of Northern Cyprus," which only Turkey recognizes. A separatist insurgency begun in 1984 by the Kurdistan Workers' Party (PKK), a US-designated terrorist organization, has long dominated the attention of Turkish security forces and claimed more than 40,000 lives. In 2013, the Turkish Government and the PKK conducted negotiations aimed at ending the violence, however intense fighting resumed in 2015. Turkey joined the UN in 1945, and in 1952 it became a member of NATO. In 1963, Turkey became an associate member of the European Community; it began accession talks with the EU in 2005. Over the past decade, economic reforms, coupled with some political reforms, have contributed to a growing economy, although in recent years, the government's growth-by-any-means strategy has sent inflation to historic highs and tested the broader financial system's resilience.</p> <p>From 2015 and continuing through 2016, Turkey witnessed an uptick in terrorist violence, including major attacks in Ankara, Istanbul, and throughout the predominantly Kurdish southeastern region of Turkey. On 15 July 2016, elements of the Turkish Armed forces attempted a coup that ultimately failed following widespread popular resistance. More than 240 people were killed and over 2,000 injured when Turkish citizens took to the streets en masse to confront the coup forces. The government accused followers of the Fethullah Gulen transnational religious and social movement ("Hizmet") of instigating the failed coup and designates the movement’s followers as terrorists. Since the attempted coup, Turkish Government authorities arrested, suspended, or dismissed more than 130,000 security personnel, journalists, judges, academics, and civil servants due to their alleged connection to Gulen's movement. Following the failed coup, the Turkish Government instituted a State of Emergency from July 2016 to July 2018. The Turkish Government conducted a referendum on 16 April 2017 in which voters approved constitutional amendments changing Turkey from a parliamentary to a presidential system. The amendments went into effect fully following the presidential and parliamentary elections in June 2018.</p><br>
 
 ## Geography
 
@@ -403,12 +403,12 @@ _selected World Heritage Site locales_: Archaeological Site of Troy (c); Ephesus
 ## Economy
 
 **Economic overview**<br>
-upper middle-income, diversified Middle Eastern economy; economic instability from 2016 attempted coup and 2018 currency recession; hit hard by COVID-19, increasing poverty and unemployment; endemic corruption; large agriculture labor force<br>
+<p>upper middle-income, diversified Middle Eastern economy; economic instability from 2016 attempted coup and 2018 currency recession; increasing poverty and unemployment; endemic corruption; large agriculture labor force</p><br>
 
 **Real GDP (purchasing power parity)**<br>
+$2.817 trillion (2022 est.)<br>
 $2.668 trillion (2021 est.)<br>
 $2.396 trillion (2020 est.)<br>
-$2.35 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -417,9 +417,9 @@ $2.35 trillion (2019 est.)<br>
 0.78% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$33,100 (2022 est.)<br>
 $31,500 (2021 est.)<br>
 $28,500 (2020 est.)<br>
-$28,200 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -510,23 +510,25 @@ calendar year<br>
 $5.303 billion (2019 est.)<br>
 
 **Exports**<br>
-$282.851 billion (2021 est.) note: data are in current year dollars<br>
-$203.816 billion (2020 est.) note: data are in current year dollars<br>
-$244.941 billion (2019 est.) note: data are in current year dollars<br>
+$350.004 billion (2022 est.)<br>
+$282.851 billion (2021 est.)<br>
+$203.816 billion (2020 est.)<br>
+<strong>note: </strong>data are in current year dollars<br>
 
 **Exports - partners**<br>
-Germany 9%, United Kingdom 6%, Iraq 5%, Italy 5%, United States 5% (2019)<br>
+Germany 8%, United States 6%, United Kingdom 6%, Italy 5%, Iraq 5% (2021)<br>
 
 **Exports - commodities**<br>
 cars and vehicle parts, refined petroleum, delivery trucks, jewelry, clothing and apparel (2019)<br>
 
 **Imports**<br>
-$285.578 billion (2021 est.) note: data are in current year dollars<br>
-$230.141 billion (2020 est.) note: data are in current year dollars<br>
-$227.638 billion (2019 est.) note: data are in current year dollars<br>
+$386.305 billion (2022 est.)<br>
+$285.578 billion (2021 est.)<br>
+$230.141 billion (2020 est.)<br>
+<strong>note: </strong>data are in current year dollars<br>
 
 **Imports - partners**<br>
-Germany 11%, China 9%, Russia 9%, United States 5%, Italy 5% (2019)<br>
+China 13%, Germany 10%, Russia 8%, United States 5%, Italy 5% (2021)<br>
 
 **Imports - commodities**<br>
 gold, refined petroleum, crude petroleum, vehicle parts, scrap iron (2019)<br>
@@ -679,7 +681,7 @@ _total_: 11,497 km (2018)<br>
 _standard gauge_: 11,497 km (2018) 1.435-m gauge (1.435 km high speed train)<br>
 
 **Roadways**<br>
-_total_: 67,333 km (2018)<br>
+_total_: 68,526 km (2023)<br>
 _paved_: 24,082 km (2018) (includes 2,159 km of expressways)<br>
 _unpaved_: 43,251 km (2018)<br>
 

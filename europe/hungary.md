@@ -674,9 +674,7 @@ _other airports_: 13<br>
 _total_: 7,687 km (2020) 3,111 km electrified<br>
 
 **Roadways**<br>
-_total_: 203,601 km (2014)<br>
-_paved_: 77,087 km (2014) (includes 1,582 km of expressways)<br>
-_unpaved_: 126,514 km (2014)<br>
+_total_: 216,443 km (2022)<br>
 
 **Waterways**<br>
 1,622 km (2011) (most on Danube River)<br>

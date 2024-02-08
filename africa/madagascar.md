@@ -644,7 +644,7 @@ _total_: 836 km (2018)<br>
 _narrow gauge_: 836 km (2018) 1.000-m gauge<br>
 
 **Roadways**<br>
-_total_: 31,640 km (2018)<br>
+_total_: 31,640 km (2017)<br>
 
 **Waterways**<br>
 600 km (2011) (432 km navigable)<br>

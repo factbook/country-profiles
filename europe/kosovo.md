@@ -560,9 +560,7 @@ Z6<br>
 _total_: 437 km (2020)<br>
 
 **Roadways**<br>
-_total_: 2,012 km (2015)<br>
-_paved_: 1,921 km (2015) (includes 78 km of expressways)<br>
-_unpaved_: 91 km (2015)<br>
+_total_: 2,248 km (2022)<br>
 
 ## Military and Security
 

@@ -199,7 +199,7 @@ _unimproved: total_: total: 54.7% of population (2020 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: malaria, dengue fever, and Rift Valley fever<br>
+_vectorborne diseases_: malaria, dengue fever, Rift Valley fever, and sexually transmitted diseases: HIV/AIDS, hepatitis B (2024)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
@@ -659,9 +659,9 @@ _narrow gauge_: 5,851 km (2014) 1.067-m gauge<br>
 1,400 km 0.600-m gauge for cotton plantations<br>
 
 **Roadways**<br>
-_total_: 31,000 km (2019)<br>
-_paved_: 8,000 km (2019)<br>
-_unpaved_: 23,000 km (2019)<br>
+_total_: 30,000 km<br>
+_paved_: 8,000 km<br>
+_unpaved_: 22,000 km<br>
 _urban_: 1,000 km (2019)<br>
 
 **Waterways**<br>

@@ -192,7 +192,7 @@ _unimproved: total_: total: 43.8% of population (2020 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and E, and typhoid fever<br>
-_vectorborne diseases_: dengue fever, malaria, and Rift Valley fever<br>
+_vectorborne diseases_: dengue fever, malaria, Rift Valley fever, and sexually transmitted diseases: hepatitis B (2024)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 <strong>note:</strong> on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Somalia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
@@ -609,7 +609,7 @@ _annual passenger traffic on registered air carriers_: 4,486 (2018)<br>
 <strong>note: </strong>unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>
-_total_: 15,000 km (2018)<br>
+_total_: 15,000 km (2013)<br>
 
 **Merchant marine**<br>
 _total_: 4 (2022)<br>

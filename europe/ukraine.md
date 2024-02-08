@@ -507,20 +507,22 @@ $8.005 billion (2022 est.)<br>
 $5.267 billion (2020 est.)<br>
 
 **Exports**<br>
-$81.504 billion (2021 est.) note: data are in current year dollars<br>
-$60.707 billion (2020 est.) note: data are in current year dollars<br>
-$63.556 billion (2019 est.) note: data are in current year dollars<br>
+$56.909 billion (2022 est.)<br>
+$81.504 billion (2021 est.)<br>
+$60.707 billion (2020 est.)<br>
+<strong>note: </strong>data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 12%, Poland 7%, Turkey 6%, Russia 5%, Italy 5% (2021)<br>
 
 **Exports - commodities**<br>
-iron and iron products, sunflower seed oils, wheat, corn, insulated wiring, rapeseed (2021)<br>
+corn, sunflower seed oils, iron/iron products, wheat, insulated wiring, rapeseed (2021)<br>
 
 **Imports**<br>
-$84.175 billion (2021 est.) note: data are in current year dollars<br>
-$63.085 billion (2020 est.) note: data are in current year dollars<br>
-$76.067 billion (2019 est.) note: data are in current year dollars<br>
+$83.863 billion (2022 est.)<br>
+$84.175 billion (2021 est.)<br>
+$63.085 billion (2020 est.)<br>
+<strong>note: </strong>data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 14%, Russia 11%, Poland 9%, Germany 9%, Belarus 6% (2021)<br>

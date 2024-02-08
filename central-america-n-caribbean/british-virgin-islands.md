@@ -267,7 +267,7 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 **Legislative branch**<br>
 _description_: unicameral House of Assembly (15 seats; 13 members - 9 in single-seat constituencies and 4 members in a single, nationwide constituency directly elected by simple majority vote and 2 ex-officio members - the attorney general and the speaker - chosen from outside the House; members serve 4-year terms)<br>
 _elections_: last held on 24 April 2023 (next to be held in 2027)<br>
-_election results_: percent of vote by party - PVIM 34.2%, VIP 31.9%, NDP 26.1%, PU 8%; seats by party - VIP 6, NDP 3, PVIM 3, PU 1<br>
+_election results_: percent of vote by party - VIP 39.6%, NDP 29.1, PVIM 15.7%, PU 5%, independents 10.6%; seats by party - VIP 6, NDP 3, PVIM 3, PU 1; note - percentages reflect 9 elected single seat constituents, seat total includes four nationwide at-large elected members<br>
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 3 in the British Virgin Islands<br>

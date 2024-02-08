@@ -329,7 +329,7 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King FREDERIK X (since 14 January 2024); Heir Apparent Crown Prince CHRISTIAN (son of the king, born 15 October 2005); note - Queen MARGRETHE II abdicated on 14 January 2024, the first Danish monarch to voluntarily abdicate since King ERIC III in 1146 (2024)<br>
+_chief of state_: King FREDERIK X (since 14 January 2024); Heir Apparent Crown Prince CHRISTIAN (son of the king, born 15 October 2005); note - Queen MARGRETHE II abdicated on 14 January 2024, the first Danish monarch to voluntarily abdicate since King ERIC III in 1146<br>
 _head of government_: Prime Minister Mette FREDERIKSEN (since 27 June 2019)<br>
 _cabinet_: Council of State appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch<br>
@@ -388,7 +388,7 @@ _selected World Heritage Site locales_: Denmark: Mounds, Runic Stones, and Churc
 diversified EU trade-based economy; environmental regulatory innovator; dominant services sector; increased government spending but retaining budget surpluses; currently high inflation; unique "flexicurity" labor market<br>
 
 **Real GDP (purchasing power parity)**<br>
-$352.436 billion (2022 est.)<br>
+$353.799 billion (2022 est.)<br>
 $339.472 billion (2021 est.)<br>
 $323.751 billion (2020 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
@@ -399,7 +399,7 @@ $323.751 billion (2020 est.)<br>
 -1.99% (2020 est.)<br>
 
 **Real GDP per capita**<br>
-$59,700 (2022 est.)<br>
+$59,900 (2022 est.)<br>
 $58,000 (2021 est.)<br>
 $55,500 (2020 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
@@ -491,9 +491,10 @@ $28.952 billion (2020 est.)<br>
 $30.55 billion (2019 est.)<br>
 
 **Exports**<br>
-$234.262 billion (2021 est.) note: data are in current year dollars<br>
-$195.729 billion (2020 est.) note: data are in current year dollars<br>
-$205.019 billion (2019 est.) note: data are in current year dollars<br>
+$280.167 billion (2022 est.)<br>
+$234.262 billion (2021 est.)<br>
+$195.729 billion (2020 est.)<br>
+<strong>note:</strong> data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 14%, United States 10%, Sweden 10%, China 6%, Norway 5% (2021)<br>
@@ -502,9 +503,10 @@ Germany 14%, United States 10%, Sweden 10%, China 6%, Norway 5% (2021)<br>
 packaged medicines, pork, refined petroleum, electric generators, cheese (2021)<br>
 
 **Imports**<br>
-$208.121 billion (2021 est.) note: data are in current year dollars<br>
-$172.868 billion (2020 est.) note: data are in current year dollars<br>
-$179.356 billion (2019 est.) note: data are in current year dollars<br>
+$235.768 billion (2022 est.)<br>
+$208.121 billion (2021 est.)<br>
+$172.868 billion (2020 est.)<br>
+<strong>note: </strong>data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 21%, Sweden 12%, China 9%, Netherlands 8%, Poland 4% (2021)<br>
@@ -648,8 +650,7 @@ OY<br>
 _total_: 2,682 km (2020) 876 km electrified<br>
 
 **Roadways**<br>
-_total_: 74,558 km (2017)<br>
-_paved_: 74,558 km (2017) (includes 1,205 km of expressways)<br>
+_total_: 73,591 km (2022)<br>
 
 **Waterways**<br>
 400 km (2010)<br>

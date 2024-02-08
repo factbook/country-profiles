@@ -660,10 +660,7 @@ _annual freight traffic on registered air carriers_: 20,000 (2018) mt-km<br>
 9 (2021)<br>
 
 **Roadways**<br>
-_total_: 12,901 km (2016)<br>
-_government control_: 12,901 km (2016) (includes 272 km of expressways)<br>
-_paved_: 8,631 km (2016)<br>
-_unpaved_: 4,270 km (2016)<br>
+_total_: 13,027 km (2022)<br>
 _Turkish Cypriot control_: 7,000 km (2011)<br>
 
 **Merchant marine**<br>

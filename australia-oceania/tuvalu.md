@@ -540,8 +540,7 @@ T2<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>
-_total_: 8 km (2011)<br>
-_paved_: 8 km (2011)<br>
+_total_: 16 km (2022)<br>
 
 **Merchant marine**<br>
 _total_: 260 (2022)<br>

@@ -570,5 +570,5 @@ defense is the responsibility of the US<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>illegal migrants from the Dominican Republic cross the Mona Passage to Puerto Rico each year looking for work</p><br>
+migrants from the Dominican Republic and Haiti attempt to cross the treacherous 148-km-wide (92 mile) Mona Passage to Puerto Rico each year looking for work<br>
 

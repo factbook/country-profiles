@@ -198,7 +198,7 @@ _unimproved: total_: total: 38.6% of population (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2023)<br>
-_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
+_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever (2024)<br>
 _vectorborne diseases_: Crimea-Congo hemorrhagic fever<br>
 <strong>note:</strong> Afghanistan is one of two countries with endemic wild polio virus (the other is Pakistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the US Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 

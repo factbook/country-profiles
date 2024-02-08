@@ -700,9 +700,7 @@ _total_: 27,860 km (2020) 16,660 km electrified<br>
 _narrow gauge_: -5 km<br>
 
 **Roadways**<br>
-_total_: 1,053,215 km (2011)<br>
-_urban_: 654,201 km (2011)<br>
-_non-urban_: 399,014 km (2011)<br>
+_total_: 1,090,059 km (2022)<br>
 
 **Waterways**<br>
 <strong>metropolitan France:</strong> 8,501 km (1,621 km navigable by craft up to 3,000 metric tons) (2010)<br>

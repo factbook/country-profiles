@@ -622,11 +622,7 @@ _annual freight traffic on registered air carriers_: 5.14 million (2018) mt-km<b
 2 (2021)<br>
 
 **Roadways**<br>
-_total_: 3,096 km (2008)<br>
-_paved_: 2,704 km (2008)<br>
-_unpaved_: 392 km (2008)<br>
-_urban_: 1,422 km (2001)<br>
-_non-urban_: 832 km (2001)<br>
+_total_: 2,855 km (2021)<br>
 
 **Merchant marine**<br>
 _total_: 2,047 (2022)<br>
@@ -640,7 +636,7 @@ _LNG terminal(s) (import)_: Delimara<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Armed Forces of Malta (AFM) is a joint force with land, maritime, and air elements, plus a Volunteer Reserve Force (2023)<br>
+the Armed Forces of Malta (AFM) is a joint force with land, maritime, and air elements, plus a Volunteer Reserve Force (2024)<br>
 <strong>note:</strong> the Malta Police Force maintains internal security; both the Police and the AFM report to the Ministry of Home Affairs, National Security, and Law Enforcement<br>
 
 **Military expenditures**<br>

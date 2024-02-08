@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>A large portion of present day Moldovan territory became a province of the Russian Empire in 1812 and then unified with Romania in 1918 in the aftermath of World War I. This territory was then incorporated into the Soviet Union at the close of World War II. Although Moldova has been independent from the Soviet Union since 1991, Russian forces have remained on Moldovan territory east of the Nistru River in the breakaway region of Transnistria.</p> <p>Years of Communist Party rule in Moldova from 2001-09 ultimately ended with election-related violent protests and a rerun of parliamentary elections in 2009. A series of pro-Europe ruling coalitions governed Moldova from 2010-19, but pro-Russia Igor DODON won the presidency in 2016 and his Socialist Party of the Republic of Moldova won a plurality in the legislative election in 2019. Pro-EU reformist candidate Maia SANDU defeated DODON in his reelection bid in November 2020 and the Party of Action and Solidarity, which SANDU founded in 2015, won a parliamentary majority in an early legislative election in July 2021. Prime Minister Natalia GAVRILITA and her cabinet took office in August 2021. In February 2023, Moldova's parliament confirmed a new cabinet led by Prime Minister Dorin RECEAN, which retained the majority of the former ministers.</p> <p> </p><br>
+<p>A large portion of present-day Moldovan territory became a province of the Russian Empire in 1812 and then unified with Romania in 1918 in the aftermath of World War I. This territory was then incorporated into the Soviet Union at the close of World War II. Although Moldova has been independent from the Soviet Union since 1991, Russian forces have remained on Moldovan territory east of the Nistru River in the breakaway region of Transnistria.</p> <p>Years of Communist Party rule in Moldova from 2001-09 ultimately ended with election-related violent protests and a rerun of parliamentary elections in 2009. A series of pro-Europe ruling coalitions governed Moldova from 2010-19, but pro-Russia Igor DODON won the presidency in 2016 and his Socialist Party of the Republic of Moldova won a plurality in the legislative election in 2019. Pro-EU reformist candidate Maia SANDU defeated DODON in his reelection bid in November 2020 and the Party of Action and Solidarity, which SANDU founded in 2015, won a parliamentary majority in an early legislative election in July 2021. Prime Minister Natalia GAVRILITA and her cabinet took office in August 2021. In February 2023, Moldova's parliament confirmed a new cabinet led by Prime Minister Dorin RECEAN, which retained the majority of the former ministers.</p> <p> </p><br>
 
 ## Geography
 
@@ -386,9 +386,9 @@ _selected World Heritage Site locales_: Struve Geodetic Arc<br>
 upper middle-income Eastern European economy; sustained growth reversed by COVID-19; significant remittances; Russian energy and regional dependence; agricultural exporter; declining workforce due to emigration and low fertility<br>
 
 **Real GDP (purchasing power parity)**<br>
+$33.789 billion (2022 est.)<br>
 $36.637 billion (2021 est.)<br>
 $32.153 billion (2020 est.)<br>
-$34.715 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -397,9 +397,9 @@ $34.715 billion (2019 est.)<br>
 3.68% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$13,300 (2022 est.)<br>
 $14,000 (2021 est.)<br>
 $12,200 (2020 est.)<br>
-$13,000 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -484,23 +484,25 @@ calendar year<br>
 -$1.106 billion (2019 est.)<br>
 
 **Exports**<br>
-$4.197 billion (2021 est.) note: data are in current year dollars<br>
-$3.222 billion (2020 est.) note: data are in current year dollars<br>
-$3.662 billion (2019 est.) note: data are in current year dollars<br>
+$5.983 billion (2022 est.)<br>
+$4.197 billion (2021 est.)<br>
+$3.222 billion (2020 est.)<br>
+<strong>note: </strong>data are in current year dollars<br>
 
 **Exports - partners**<br>
-Romania 27%, Russia 9%, Italy 9%, Germany 9%, Turkey 6%, Poland 5% (2019)<br>
+Romania 24%, Russia 9%, Turkey 8%, Germany 7%, Italy 7% (2021)<br>
 
 **Exports - commodities**<br>
-insulated wiring, wheat, sunflower seeds, rolled iron, wine, corn, seats (2021)<br>
+insulated wiring, sunflower seeds, wine, corn, seats (2021)<br>
 
 **Imports**<br>
-$7.915 billion (2021 est.) note: data are in current year dollars<br>
-$5.918 billion (2020 est.) note: data are in current year dollars<br>
-$6.608 billion (2019 est.) note: data are in current year dollars<br>
+$10.082 billion (2022 est.)<br>
+$7.915 billion (2021 est.)<br>
+$5.918 billion (2020 est.)<br>
+<strong>note: </strong>data are in current year dollars<br>
 
 **Imports - partners**<br>
-Romania 20%, Russia 10%, Ukraine 9%, Germany 8%, China 7%, Turkey 6%, Italy 6% (2019)<br>
+Romania 18%, Russia 13%, Ukraine 11%, China 9%, Germany 7% (2021)<br>
 
 **Imports - commodities**<br>
 refined petroleum, cars, insulated wiring, packaged medicines, broadcasting equipment (2019)<br>
@@ -643,9 +645,7 @@ _standard gauge_: 14 km (2014) 1.435-m gauge<br>
 _broad gauge_: 1,157 km (2014) 1.520-m gauge<br>
 
 **Roadways**<br>
-_total_: 9,352 km (2012)<br>
-_paved_: 8,835 km (2012)<br>
-_unpaved_: 517 km (2012)<br>
+_total_: 9,488 km (2022)<br>
 
 **Waterways**<br>
 558 km (2011) (in public use on Danube, Dniester and Prut Rivers)<br>
@@ -657,7 +657,7 @@ _by type_: bulk carrier 5, container ship 2, general cargo 79, oil tanker 7, oth
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Moldova (Forțele Armate ale Republicii Moldova): National Army (comprised of a General Staff, a Land Forces Command, and an Air Force Command); Ministry of Internal Affairs: General Carabinieri Inspectorate (aka Carabinieri Troops or Trupele de Carabinieri) (2023)<br>
+Armed Forces of the Republic of Moldova (Forțele Armate ale Republicii Moldova): National Army (comprised of a General Staff, a Land Forces Command, and an Air Force Command); Ministry of Internal Affairs: General Carabinieri Inspectorate (aka Carabinieri Troops or Trupele de Carabinieri) (2024)<br>
 <strong>note 1:</strong> the Carabinieri is a quasi-militarized gendarmerie responsible for protecting public buildings, maintaining public order, and other national security functions<br><br><strong>note 2:</strong> the national police force reports to the Ministry of Internal Affairs and is the primary law enforcement body, responsible for internal security, public order, traffic, border security, and criminal investigations; the Moldovan Border Police (Poliției de Frontieră) are under the Ministry of Internal Affairs; prior to 2012, Border Police were under the armed forces and known as the Border Troops<br>
 
 **Military expenditures**<br>

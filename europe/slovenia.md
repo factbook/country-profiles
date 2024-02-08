@@ -656,8 +656,7 @@ _other airports_: 5<br>
 _total_: 1,207 km (2020) 609 km electrified<br>
 
 **Roadways**<br>
-_total_: 38,985 km (2012)<br>
-_paved_: 38,985 km (2012) (includes 769 km of expressways)<br>
+_total_: 38,125 km (2022)<br>
 
 **Waterways**<br>
 710 km (2022) (some transport on the Drava River)<br>

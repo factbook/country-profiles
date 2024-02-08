@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-The principalities of Wallachia and Moldavia - for centuries under the suzerainty of the Turkish Ottoman Empire - secured their autonomy in 1856; they were de facto linked in 1859 and formally united in 1862 under the new name of Romania. The country gained recognition of its independence in 1878. It joined the Allied Powers in World War I and acquired new territories - most notably Transylvania - following the conflict. In 1940, Romania allied with the Axis powers and participated in the 1941 German invasion of the USSR. Three years later, overrun by the Soviets, Romania signed an armistice. The post-war Soviet occupation led to the formation of a communist "people's republic" in 1947 and the abdication of the king. The decades-long rule of dictator Nicolae CEAUSESCU, who took power in 1965, and his Securitate police state became increasingly oppressive and draconian through the 1980s. CEAUSESCU was overthrown and executed in late 1989. Former communists dominated the government until 1996 when they were swept from power. Romania joined NATO in 2004 and the EU in 2007.<br>
+The principalities of Wallachia and Moldavia - for centuries under the suzerainty of the Turkish Ottoman Empire - secured their autonomy in 1856. They were de facto linked in 1859 and formally united in 1862 under the new name of Romania. The country gained recognition of its independence in 1878. It joined the Allied Powers in World War I and acquired new territories - most notably Transylvania - following the conflict. In 1940, Romania allied with the Axis powers and participated in the 1941 German invasion of the USSR. Three years later, overrun by the Soviets, Romania signed an armistice. The post-war Soviet occupation led to the formation of a communist "people's republic" in 1947 and the abdication of the king. The decades-long rule of dictator Nicolae CEAUSESCU, who took power in 1965, and his Securitate police state became increasingly oppressive and draconian through the 1980s. CEAUSESCU was overthrown and executed in late 1989. Former communists dominated the government until 1996 when they were swept from power. Romania joined NATO in 2004 and the EU in 2007.<br>
 
 ## Geography
 
@@ -397,9 +397,9 @@ _selected World Heritage Site locales_: Danube Delta (n); Churches of Moldavia (
 high-income, service- and industrial-based European economy; EU member but non-euro user until convergence criteria met; sustained growth prior to COVID-19; major FDI recipient; flat taxation structure; digital hub of Eastern Europe<br>
 
 **Real GDP (purchasing power parity)**<br>
+$618.95 billion (2022 est.)<br>
 $588.451 billion (2021 est.)<br>
 $559.896 billion (2020 est.)<br>
-$581.272 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -408,9 +408,9 @@ $581.272 billion (2019 est.)<br>
 3.85% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$32,500 (2022 est.)<br>
 $30,800 (2021 est.)<br>
 $29,100 (2020 est.)<br>
-$30,000 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -441,7 +441,7 @@ _exports of goods and services_: 41.4% (2017 est.)<br>
 _imports of goods and services_: -43.6% (2017 est.)<br>
 
 **Agricultural products**<br>
-maize, wheat, milk, sunflower seed, potatoes, barley, grapes, sugar beet, rapeseed, plums/sloes<br>
+maize, wheat, milk, sunflower seeds, potatoes, barley, grapes, sugar beets, rapeseed, plums/sloes<br>
 
 **Industries**<br>
 electric machinery and equipment, auto assembly, textiles and footwear, light machinery, metallurgy, chemicals, food processing, petroleum refining, mining, timber, construction materials<br>
@@ -501,23 +501,25 @@ calendar year<br>
 -$12.184 billion (2019 est.)<br>
 
 **Exports**<br>
-$115.879 billion (2021 est.) note: data are in current year dollars<br>
-$93.024 billion (2020 est.) note: data are in current year dollars<br>
-$100.901 billion (2019 est.) note: data are in current year dollars<br>
+$129.215 billion (2022 est.)<br>
+$115.879 billion (2021 est.)<br>
+$93.024 billion (2020 est.)<br>
+<strong>note: </strong>data are in current year dollars<br>
 
 **Exports - partners**<br>
-Germany 22%, Italy 10%, France 7% (2019)<br>
+Germany 20%, Italy 10%, France 6%, Hungary 5%, Poland 4% (2021)<br>
 
 **Exports - commodities**<br>
 cars and vehicle parts, insulated wiring, refined petroleum, electrical control boards, seats (2019)<br>
 
 **Imports**<br>
-$132.056 billion (2021 est.) note: data are in current year dollars<br>
-$103.899 billion (2020 est.) note: data are in current year dollars<br>
-$111.184 billion (2019 est.) note: data are in current year dollars<br>
+$149.876 billion (2022 est.)<br>
+$132.056 billion (2021 est.)<br>
+$103.899 billion (2020 est.)<br>
+<strong>note: </strong>data are in current year dollars<br>
 
 **Imports - partners**<br>
-Germany 19%, Italy 9%, Hungary 7%, Poland 6%, China 5%, France 5% (2019)<br>
+Germany 19%, Italy 9%, Hungary 7%, Poland 6%, China 6% (2021)<br>
 
 **Imports - commodities**<br>
 cars and vehicle parts, crude petroleum, packaged medicines, insulated wiring, broadcasting equipment (2019)<br>
@@ -669,9 +671,7 @@ YR<br>
 _total_: 10,628 km (2020) 4,030 km electrified<br>
 
 **Roadways**<br>
-_total_: 84,185 km (2012)<br>
-_paved_: 49,873 km (2012) (includes 337 km of expressways)<br>
-_unpaved_: 34,312 km (2012)<br>
+_total_: 85,387 km (2022)<br>
 
 **Waterways**<br>
 1,731 km (2010) (includes 1,075 km on the Danube River, 524 km on secondary branches, and 132 km on canals)<br>

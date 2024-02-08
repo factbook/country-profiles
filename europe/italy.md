@@ -667,8 +667,7 @@ _total_: 18,475 km (2020) 12,936 km electrified<br>
 1289.3 0.950-mm gauge (151.3 km electrified)<br>
 
 **Roadways**<br>
-_total_: 487,700 km (2007)<br>
-_paved_: 487,700 km (2007) (includes 6,700 km of expressways)<br>
+_total_: 228,863 km (2021)<br>
 
 **Waterways**<br>
 2,400 km (2012) (used for commercial traffic; of limited overall value compared to road and rail)<br>

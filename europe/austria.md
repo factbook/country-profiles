@@ -347,7 +347,7 @@ _election results_: <br><em>2022:</em> Alexander VAN DER BELLEN reelected in fir
 
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats - currently 60; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: <br>Federal Council - last appointed in 2021<br>National Council - last held on 29 September 2019 (next to be held by 2024); note - election was originally scheduled for 2022, but President VAN DER BELLEN called for an early election<br>
+_elections_: <br>Federal Council - last appointed in 2021<br>National Council - last held on 29 September 2019 (next to be held by 23 October 2024)<br>
 _election results_: <br>Federal Council - percent of vote by party - OeVP 42.6%, SPOe 31.2%. FPOe 16.4%, The Greens 8.2%, NEOS 1.6%; seats by party - OeVP 26, SPOe 19, FPOe 10, The Greens 5, NEOS 1; composition as of August 2023 - men 31, women 29, percent of women 48.3%<br><br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26, NEOS 15; composition as of January 2024 - men 108, women 75, percent of women 41%; note - total Federal Assembly percentage of women 42.6%<br>
 
 **Judicial branch**<br>
@@ -671,8 +671,7 @@ _other airports_: 18<br>
 _total_: 6,123 km (2022) 3,523 km electrified<br>
 
 **Roadways**<br>
-_total_: 137,039 km<br>
-_paved_: 137,039 km (2018) (includes 2,232 km of expressways)<br>
+_total_: 126,233 km (2022)<br>
 
 **Waterways**<br>
 358 km (2011)<br>

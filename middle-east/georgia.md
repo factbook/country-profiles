@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The region of present-day Georgia contained the ancient kingdoms of Colchis and Kartli-Iberia. The area came under Roman influence in the first centuries A.D., and Christianity became the state religion in the 330s. Domination by Persians, Arabs, and Turks was followed by a Georgian golden age (11th-13th centuries) that was cut short by the Mongol invasion of 1236. Subsequently, the Ottoman and Persian empires competed for influence in the region. Georgia was absorbed into the Russian Empire in the 19th century. Independent for three years (1918-1921) following the Russian revolution, it was forcibly incorporated into the USSR in 1921 and regained its independence when the Soviet Union dissolved in 1991.</p> <p>Mounting public discontent over rampant corruption and ineffective government services, followed by an attempt by the incumbent Georgian Government to manipulate parliamentary elections in November 2003, touched off widespread protests that led to the resignation of Eduard SHEVARDNADZE, president since 1995. In the aftermath of that popular movement, which became known as the "Rose Revolution," new elections in early 2004 swept Mikheil SAAKASHVILI into power along with his United National Movement (UNM) party. SAAKASHVILI made progress on market reforms and good governance during his time in power but also faced accusations of abuse of office. Progress was also complicated by Russian assistance and support to the separatist regions of Abkhazia and South Ossetia that led to periodic flare-ups in tension and violence and that culminated in a five-day conflict in August 2008 between Russia and Georgia, including the invasion of large portions of Georgian territory. Russian troops pledged to pull back from most occupied Georgian territory, but in late August 2008 Russia unilaterally recognized the independence of Abkhazia and South Ossetia, and Russian military forces remain in those regions.</p> <p>Billionaire Bidzina IVANISHVILI's unexpected entry into politics in October 2011 brought the divided opposition together under his Georgian Dream coalition, which won a majority of seats in the October 2012 parliamentary elections and removed UNM from power. Conceding defeat, SAAKASHVILI named IVANISHVILI as prime minister and allowed Georgian Dream to create a new government before leaving the country after his presidential term ended in 2013. At the time, these changes in leadership represented unique examples of a former Soviet state that emerged to conduct democratic and peaceful government transitions of power. IVANISHVILI voluntarily resigned from office after the presidential succession, and in the following years, the prime minister position has seen frequent turnover. Most recently, Irakli GARIBASHVILI became prime minister in February 2021. In October 2021, SAAKASHVILI returned to Georgia, where he was immediately arrested to serve six years in prison on outstanding abuse of office convictions. Popular support for integration with the West is high in Georgia. Joining the EU and NATO are among the country's top foreign policy goals and Georgia applied for EU membership in March 2022. The EU and Georgia signed an Association Agreement in June 2014 and it fully entered into force in July 2016. Georgia and the EU have a Deep and Comprehensive Free Trade Agreement and Georgian citizens since 2017 can travel to the Schengen area without a visa.</p><br>
+<p>The region of present-day Georgia contained the ancient kingdoms of Colchis (known as Egrisi locally) and Kartli-Iberia. The area came under Roman influence in the first centuries A.D., and Christianity became the state religion in the 330s. Domination by Persians, Arabs, and Turks was followed by a Georgian golden age (11th-13th centuries) that was cut short by the Mongol invasion of 1236. Subsequently, the Ottoman and Persian empires competed for influence in the region. Georgia was absorbed into the Russian Empire in the 19th century. Independent for three years (1918-1921) following the Russian revolution, it was forcibly incorporated into the USSR in 1921 and regained its independence when the Soviet Union dissolved in 1991.</p> <p>Mounting public discontent over rampant corruption and ineffective government services, followed by an attempt by the incumbent Georgian Government to manipulate parliamentary elections in November 2003, touched off widespread protests that led to the resignation of Eduard SHEVARDNADZE, president since 1995. In the aftermath of that popular movement, which became known as the "Rose Revolution," new elections in early 2004 swept Mikheil SAAKASHVILI into power along with his United National Movement (UNM) party. SAAKASHVILI made progress on market reforms and good governance during his time in power but also faced accusations of abuse of office. Progress was also complicated by Russian assistance and support to the separatist regions of Abkhazia and South Ossetia that led to periodic flare-ups in tension and violence and that culminated in a five-day conflict in August 2008 between Russia and Georgia, including the invasion of large portions of Georgian territory. Russian troops pledged to pull back from most occupied Georgian territory, but in late August 2008 Russia unilaterally recognized the independence of Abkhazia and South Ossetia, and Russian military forces remain in those regions.</p> <p>Billionaire Bidzina IVANISHVILI's unexpected entry into politics in October 2011 brought the divided opposition together under his Georgian Dream coalition, which won a majority of seats in the October 2012 parliamentary elections and removed UNM from power. Conceding defeat, SAAKASHVILI named IVANISHVILI as prime minister and allowed Georgian Dream to create a new government before leaving the country after his presidential term ended in 2013. At the time, these changes in leadership represented unique examples of a former Soviet state that emerged to conduct democratic and peaceful government transitions of power. IVANISHVILI voluntarily resigned from office after the presidential succession, and in the following years, the prime minister position has seen frequent turnover. Most recently, Irakli GARIBASHVILI became prime minister in February 2021. In October 2021, SAAKASHVILI returned to Georgia, where he was immediately arrested to serve six years in prison on outstanding abuse of office convictions. Popular support for integration with the West is high in Georgia. Joining the EU and NATO are among the country's top foreign policy goals and Georgia applied for EU membership in March 2022, becoming a candidate country in December 2023. The EU and Georgia signed an Association Agreement in June 2014 and it fully entered into force in July 2016. Georgia and the EU have a Deep and Comprehensive Free Trade Agreement and Georgian citizens since 2017 can travel to the Schengen area without a visa.</p><br>
 
 ## Geography
 
@@ -328,7 +328,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Salome ZOURABICHVILI (since 16 December 2018)<br>
-_head of government_: Prime Minister Irakli GARIBASHVILI (since 22 February 2021); resigned on January 29, 2024<br>
+_head of government_: Prime Minister (in transition); note - Irakli GARIBASHVILI resigned on 29 January 2024; Irakli KOBAKHIDZE was nominated as the new prime minister by the ruling party on 1 February 2024<br>
 _cabinet_: Cabinet of Ministers<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2018 (next to be held in 2024); prime minister nominated by Parliament, appointed by the president; note - 2017 constitutional amendments made the 2018 election the last where the president was directly elected; future presidents will be elected by a 300-member College of Electors; in light of these changes, ZOURABICHVILI was allowed a six-year term<br>
 _election results_: <em><br>2018:</em> Salome ZOURABICHVILI elected president in second round; percent of vote in second round - Salome ZOURABICHVILI (independent, backed by Georgian Dream) 59.5%, Grigol VASHADZE (UNM) 40.5%; Irakli GARIBASHVILI approved as prime minister by Parliamentary vote 89-2; note-resigned on January 29, 2024<br><em><br>2013:</em> Giorgi MARGVELASHVILI elected president; Giorgi MARGVELASHVILI (Georgian Dream) 62.1%, David BAKRADZE (ENM) 21.7%, Nino BURJANADZE (DM-UG) 10.2%, other 6%<br>
@@ -358,7 +358,7 @@ _email address and website_: <br>embgeo.usa@mfa.gov.ge<br><br>https://georgiaemb
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Robin DUNNIGAN (since 12 October 2023)<br>
+_chief of mission_: Ambassador Robin L. DUNNIGAN (since 12 October 2023)<br>
 _embassy_: 29 Georgian-American Friendship Avenue, Didi Dighomi, Tbilisi, 0131<br>
 _mailing address_: 7060 Tbilisi Place, Washington, DC&nbsp; 20521-7060<br>
 _telephone_: [995] (32) 227-70-00<br>
@@ -383,12 +383,12 @@ _selected World Heritage Site locales_: Gelati Monastery (c); Historical Monumen
 ## Economy
 
 **Economic overview**<br>
-COVID-19 crippled tourism, transportation, and construction sectors; rising unemployment, public debts and poverty; foreign investment and domestic bond issuance<br>
+<p>main economic activities include cultivation of agricultural products, such as grapes, citrus fruits, and hazelnuts; mining of manganese, copper, and gold; producing alcoholic and nonalcoholic beverages</p><br>
 
 **Real GDP (purchasing power parity)**<br>
+$63.403 billion (2022 est.)<br>
 $57.434 billion (2021 est.)<br>
 $51.993 billion (2020 est.)<br>
-$55.762 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -397,9 +397,9 @@ $55.762 billion (2019 est.)<br>
 4.98% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$17,100 (2022 est.)<br>
 $15,500 (2021 est.)<br>
 $14,000 (2020 est.)<br>
-$15,000 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -490,23 +490,25 @@ calendar year<br>
 -$1.025 billion (2019 est.)<br>
 
 **Exports**<br>
-$8.086 billion (2021 est.) note: data are in current year dollars<br>
-$5.927 billion (2020 est.) note: data are in current year dollars<br>
-$9.546 billion (2019 est.) note: data are in current year dollars<br>
+$13.112 billion (2022 est.)<br>
+$8.086 billion (2021 est.)<br>
+$5.927 billion (2020 est.)<br>
+<strong>note: </strong>data are in current year dollars<br>
 
 **Exports - partners**<br>
-Russia 12%, Azerbaijan 12%, Armenia 9%, Bulgaria 8%, China 6%, Turkey 6%, Ukraine 6% (2019)<br>
+China 13%, Russia 12%, Azerbaijan 11%, Turkey 7%, Ukraine 6% (2021)<br>
 
 **Exports - commodities**<br>
 copper, iron alloys, cars, wine, refined petroleum, nitrogen fertilizers, liquors (2021)<br>
 
 **Imports**<br>
-$11.151 billion (2021 est.) note: data are in current year dollars<br>
-$8.967 billion (2020 est.) note: data are in current year dollars<br>
-$11.162 billion (2019 est.) note: data are in current year dollars<br>
+$15.545 billion (2022 est.)<br>
+$11.151 billion (2021 est.)<br>
+$8.967 billion (2020 est.)<br>
+<strong>note: </strong>data are in current year dollars<br>
 
 **Imports - partners**<br>
-Turkey 17%, China 11%, Russia 9%, Azerbaijan 6%, United States 6%, Germany 5% (2019)<br>
+Turkey 17%, China 9%, Russia 9%, United States 7%, Azerbaijan 6% (2021)<br>
 
 **Imports - commodities**<br>
 cars, refined petroleum, copper, packaged medicines, natural gas (2019)<br>
@@ -668,11 +670,11 @@ Defense Forces of Georgia (DFG; aka Georgian Defense Forces or GDF): Ground Forc
 <strong>note:</strong> the Ministry of Internal Affairs also has forces for protecting strategic infrastructure and conducting special operations<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2022 est.)<br>
+1.7% of GDP (2023 est.)<br>
+1.7% of GDP (2022 est.)<br>
 1.7% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
-1.8% of GDP (2019)<br>
-1.9% of GDP (2018)<br>
+1.8% of GDP (2019 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimates vary; approximately 30,000 troops, including active National Guard forces (2023)<br>

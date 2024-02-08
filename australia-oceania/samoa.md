@@ -307,7 +307,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (since 21 July 2017)<br>
 _head of government_: Prime Minister FIAME Naomi Mata&rsquo;afa (since 24 May 2021)<br>
 _cabinet_: Cabinet appointed by the chief of state on the advice of the prime minister<br>
-_elections/appointments_: chief of state indirectly elected by the Legislative Assembly to serve a 5-year term (2-term limit); election last held on 23 August 2022 (next to be held in 2027); following legislative elections, the leader of the majority party is usually appointed prime minister by the chief of state, approved by the Legislative Assembly<br>
+_elections/appointments_: chief of state indirectly elected by the Legislative Assembly to serve a 5-year term (2-term limit); election last held on 23 August 2022 (next to be held in 2026); following legislative elections, the leader of the majority party is usually appointed prime minister by the chief of state, approved by the Legislative Assembly<br>
 _election results_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (independent) unanimously reelected by the Legislative Assembly<br>
 
 **Legislative branch**<br>
@@ -616,7 +616,7 @@ _major seaport(s)_: Apia<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Samoa Police Force (Ministry of Police, Prisons, and Correction Services) (2023)<br>
+no regular military forces; Samoa Police Force (Ministry of Police, Prisons, and Correction Services) (2024)<br>
 
 **Military - note**<br>
 informal defense ties exist with New Zealand, which is required to consider any Samoan request for assistance under the 1962 Treaty of Friendship <br><br>Samoa has a "shiprider" agreement with the US, which allows local maritime law enforcement officers to embark on US Coast Guard (USCG) and US Navy (USN) vessels, including to board and search vessels suspected of violating laws or regulations within Somoa's designated exclusive economic zone (EEZ) or on the high seas; "shiprider" agreements also enable USCG personnel and USN vessels with embarked USCG law enforcement personnel to work with host nations to protect critical regional resources (2023)<br>

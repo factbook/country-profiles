@@ -655,9 +655,7 @@ _total_: 250 km (2017)<br>
 _standard gauge_: 250 km (2017) 1.435-m gauge (224 km electrified)<br>
 
 **Roadways**<br>
-_total_: 7,762 km (2010)<br>
-_paved_: 7,141 km (2010)<br>
-_unpaved_: 621 km (2010)<br>
+_total_: 9,825 km (2022)<br>
 
 **Merchant marine**<br>
 _total_: 18 (2022)<br>
@@ -669,7 +667,7 @@ _major seaport(s)_: Bar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Army of Montenegro (Vojska Crne Gore or VCG): Ground Forces (Kopnene snage), Air Force (Vazduhoplovstvo), Navy (Mornarica) (2023)<br>
+Army of Montenegro (Vojska Crne Gore or VCG): Ground Forces (Kopnene snage), Air Force (Vazduhoplovstvo), Navy (Mornarica) (2024)<br>
 <strong>note:</strong> the National Police Force, which includes Border Police, is responsible for maintaining internal security; it is organized under the Police Administration within the Ministry of Interior and reports to the police director and, through the director, to the minister of interior and prime minister<br>
 
 **Military expenditures**<br>
@@ -690,14 +688,14 @@ the military's inventory is small and consists mostly of Soviet-era equipment in
 <strong>note:</strong> as of 2023, women made up over 15% of the military's full-time personnel<br>
 
 **Military - note**<br>
-the Army of Montenegro is a small military focused on the defense of Montenegro’s sovereignty and territorial integrity, cooperating in international and multinational security, and assisting civil authorities during emergencies such as natural disasters; since Montenegro joined NATO in 2017, another focus has been integrating into the Alliance, including adapting NATO standards for planning and professionalization, structural reforms, and modernization by replacing its Soviet-era equipment; the Army trains and exercises with NATO partners and actively supports NATO missions and operations, committing small numbers of troops in Afghanistan, Kosovo, and NATO’s Enhanced Forward Presence mission in Eastern Europe; a few personnel have also been deployed on EU- and UN-led operations<br><br>the combat units of the Ground Forces include an infantry battalion, plus artillery and special forces; there are two additional infantry battalions in reserve; the Air Force has ground air defense units but no combat aircraft; the Navy is a coastal defense force with a small inventory of coastal patrol craft and patrol boats, plus a marine/special forces detachment  (2023)<br>
+the Army of Montenegro is a small military focused on the defense of Montenegro’s sovereignty and territorial integrity, cooperating in international and multinational security, and assisting civil authorities during emergencies such as natural disasters; since Montenegro joined NATO in 2017, another focus has been integrating into the Alliance, including adapting NATO standards for planning and professionalization, structural reforms, and modernization by replacing its Soviet-era equipment; the Army trains and exercises with NATO partners and actively supports NATO missions and operations, committing small numbers of troops in Afghanistan, Kosovo, and NATO’s Enhanced Forward Presence mission in Eastern Europe; a few personnel have also been deployed on EU- and UN-led operations<br><br>the combat units of the Ground Forces include an infantry battalion, plus artillery and special forces; there are two additional infantry battalions in reserve; the Air Force has ground air defense units but no combat aircraft; the Navy is a coastal defense force with a small inventory of coastal patrol craft and patrol boats, plus a marine/special forces detachment (2023)<br>
 
 ## Terrorism
 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
+<p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 64,240 (Ukraine) (as of 25 December 2023)<br>

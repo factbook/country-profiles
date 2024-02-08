@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In the 10th century, Muslim merchants established some of The Gambia’s earliest large settlements as trans-Saharan trade hubs. These settlements eventually grew into major export centers sending slaves, gold, and ivory across the Sahara. Between the 16th and 17th centuries, European colonial powers began establishing trade with The Gambia. In 1664, the United Kingdom established a colony in The Gambia focused on exporting enslaved people across the Atlantic. During the roughly 300 years of the trans-Atlantic slave trade, the UK and other European powers may have exported as many as 3 million people from The Gambia.</p> <p>The Gambia gained its independence from the UK in 1965. Geographically surrounded by Senegal, it formed the short-lived confederation of Senegambia between 1982 and 1989. In 1994, Yahya JAMMEH led a military coup overthrowing the president and banning political activity. He subsequently won every presidential election until 2016, when he lost to Adama BARROW, who headed an opposition coalition during free and fair elections. BARROW won reelection in December 2021. The Gambia is the only member of the Economic Community of West African States that does not have presidential term limits. Since the 2016 election, The Gambia and the US have enjoyed improved relations. US assistance to the country has supported military education and training programs, capacity building, and democracy-strengthening activities.</p> <br> <p> </p> <p> </p><br>
+<p>In the 10th century, Muslim merchants established some of The Gambia’s earliest large settlements as trans-Saharan trade hubs. These settlements eventually grew into major export centers sending slaves, gold, and ivory across the Sahara. Between the 16th and 17th centuries, European colonial powers began establishing trade with The Gambia. In 1664, the United Kingdom established a colony in The Gambia focused on exporting enslaved people across the Atlantic. During the roughly 300 years of the trans-Atlantic slave trade, the UK and other European powers may have exported as many as 3 million people from The Gambia.</p> <p>The Gambia gained its independence from the UK in 1965. Geographically surrounded by Senegal, it formed the short-lived confederation of Senegambia between 1982 and 1989. In 1994, Yahya JAMMEH led a military coup overthrowing the president and banning political activity. He subsequently won every presidential election until 2016, when he lost to Adama BARROW, who headed an opposition coalition during free and fair elections. BARROW won reelection in December 2021. The Gambia is the only member of the Economic Community of West African States that does not have presidential term limits. Since the 2016 election, The Gambia and the US have enjoyed improved relations. US assistance to the country has supported democracy-strengthening activities, capacity building, economic development, and security sector education and training programs. </p> <br> <p> </p> <p> </p><br>
 
 ## Geography
 
@@ -200,7 +200,7 @@ _unimproved: total_: total: 40% of population (2020 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and dengue fever<br>
+_vectorborne diseases_: malaria, dengue fever, and sexually transmitted diseases: hepatitis B (2024)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
@@ -337,8 +337,8 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Adama BARROW (since 19 January 2022); Vice President Isatou TOURAY (since 15 March 2019); note - the president is both chief of state and head of government<br>
-_head of government_: President Adama BARROW (since 19 January 2022); Vice President Isatou TOURAY (since 15 March 2019)<br>
+_chief of state_: President Adama BARROW (since 19 January 2022); Vice President Muhammed B.S. JALLOW (24 February 2023; note - the president is both chief of state and head of government<br>
+_head of government_: President Adama BARROW (since 19 January 2022); Vice President Muhammed B.S. JALLOW (24 February 2023)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 4 December 2021 (next to be held in 2026); vice president appointed by the president<br>
 _election results_: <em><br>2021: </em>Adama BARROW reelected president; percent of vote - Adama BARROW (NPP) 53.2%, Ousainou DARBOE (UDP) 27.7%, Mamma KANDEH (GDC) 12.3%, other 6.8%<br><br><em>2016: </em>Adama BARROW elected president; percent of vote - Adama BARROW (Coalition 2016) 43.3%, Yahya JAMMEH (APRC) 39.6%, Mamma KANDEH (GDC) 17.1%<br>
@@ -354,7 +354,7 @@ _judge selection and term of office_: justices appointed by the president after 
 _subordinate courts_: Court of Appeal; High Court; Special Criminal Court; Khadis or Muslim courts; district tribunals; magistrates courts; cadi courts<br>
 
 **Political parties and leaders**<br>
-Alliance for Patriotic Reorientation and Construction or APRC [Fabakary JATTA]<br>Coalition 2016 [collective leadership] (electoral coalition includes UDP, PDOIS, NRP, GMC, GDC, PPP, and GPDP)<br>Gambia Democratic Congress or GDC [Mama KANDEH]<br>Gambia Moral Congress or GMC [Mai FATTY]<br>Gambia Party for Democracy and Progress or GPDP [Sarja JARJOU]<br>National Convention Party or NCP [Yaya  SANYANG and Majanko SAMUSA (both claiming leadership)]<br>National Democratic Action Movement or NDAM [Lamin Yaa JUARA]<br>National People's Party or NPP [Adama BARROW]<br>National Reconciliation Party or NRP [Hamat BAH]<br>People's Democratic Organization for Independence and Socialism or PDOIS [Halifa SALLAH]<br>People's Progressive Party or PPP [Yaya CEESAY)]<br>United Democratic Party or UDP [Ousainou DARBOE]<br>
+Alliance for Patriotic Reorientation and Construction or APRC [Fabakary JATTA]<br>Gambia Democratic Congress or GDC [Mama KANDEH]<br>Gambia Moral Congress or GMC [Mai FATTY]<br>National People's Party or NPP [Adama BARROW]<br>People's Progressive Party or PPP [Yaya CEESAY)]<br>United Democratic Party or UDP [Ousainou DARBOE]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHRC, UNIDO, UNISFA, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -654,7 +654,7 @@ _major seaport(s)_: Banjul<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Gambian Armed Forces (GAF; aka Armed Forces of the Gambia): the Gambian National Army (GNA), Gambia Navy, Gambia Air Force, Republican National Guard (2023)<br>
+Gambian Armed Forces (GAF; aka Armed Forces of the Gambia): the Gambian National Army (GNA), Gambia Navy, Gambia Air Force, Republican National Guard (2024)<br>
 <strong>note: </strong>the National Guard is responsible for VIP protection, riot control, and presidential security; the Gambia Police Force under the Ministry of Interior maintains internal security<br>
 
 **Military expenditures**<br>
@@ -671,7 +671,7 @@ estimated 3,000 military personnel (2023)<br>
 the GAF has a limited and obsolescent or secondhand equipment inventory originating from several suppliers, including China, Turkey, the UK, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for male and female voluntary military service (18-22 for officers); no conscription; service obligation six months (2023)<br>
+18-25 years of age for male and female voluntary military service (18-22 for officers); no conscription; service obligation six months (2024)<br>
 
 **Military - note**<br>
 the Gambian security forces have a history of involvement in domestic politics, including multiple coups attempts and mutinies, with the latest being an attempted coup in 2022; since 2017, Gambia’s security sector has been undergoing reforms as part of a national reconstruction effort to recover from the 22 years of Yahya JAMMEH’s autocratic rule under which the security forces were severely under-resourced in terms of finances and equipment and were largely directed towards regime protection and suppressing dissent; international partners, including member states of the EU, particularly France and Germany, Turkey, and the US have provided support to military and police reforms; several members of the Economic Community of West African States (ECOWAS) have also provided security forces for stability, as well as assistance and training through the ECOWAS Mission in the Gambia (ECOMIG); as of 2023, ECOMIG continued to provide about 1,000 military and gendarmerie personnel from Ghana, Nigeria, and Senegal<br><br>the GAF is a lightly armed force with about five small infantry battalions, a handful of coastal patrol boats, and a few aircraft; in addition to external defense, the responsibilities of the GAF include providing maritime security, countering human trafficking, aiding civil authorities in emergencies and natural disaster relief, and engaging in activities such as engineering, education, health, and agriculture for domestic socio-economic development; the GAF also participates in peacekeeping missions, and since its first deployments in the 1990s, has been involved in more than 10 UN peacekeeping missions while contributing about 4,000 total troops <br><br>the GAF traces its origins to the Gambia Regiment of the British Army; established in 1901, the Gambia Regiment was part of the West African Frontier Force (WAFF, later Royal West African Frontier Force or RWAFF) and served in both World Wars, including the British 1944-45 military campaign in Burma; the Gambia Regiment was disbanded in 1958 and replaced by the Field Force, a police paramilitary unit; the Field Force was responsible for The Gambia’s security until the establishment of the GAF in 1985; in addition, a defense agreement signed in 1965 between The Gambia and Senegal provided mutual assistance in the face of an external threat; from 1981-1989, The Gambia and Senegal formed a Confederal Army that was made up of troops from both countries (2023)<br>

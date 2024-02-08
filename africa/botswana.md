@@ -195,7 +195,7 @@ _unimproved: total_: total: 14.4% of population (2020 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria, sexually transmitted diseases: HIV/AIDS<br>
+_vectorborne diseases_: malaria, sexually transmitted diseases: HIV/AIDS (2024)<br>
 <strong>note:</strong> on 31 August 2023, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Botswana is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and that has changed over time and behaves more like the wild or naturally occurring virus; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>

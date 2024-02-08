@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-The Bulgars, a Central Asian Turkic tribe, merged with the local Slavic inhabitants in the late 7th century to form the first Bulgarian state. In succeeding centuries, Bulgaria struggled with the Byzantine Empire to assert its place in the Balkans, but by the end of the 14th century the country was overrun by the Ottoman Turks. Northern Bulgaria attained autonomy in 1878 and all of Bulgaria became independent from the Ottoman Empire in 1908. Having fought on the losing side in both World Wars, Bulgaria fell within the Soviet sphere of influence and became a People's Republic in 1946. Communist domination ended in 1990, when Bulgaria held its first multiparty election since World War II and began the contentious process of moving toward political democracy and a market economy while combating inflation, unemployment, corruption, and crime. The country joined NATO in 2004 and the EU in 2007.<br>
+The Bulgars, a Central Asian Turkic tribe, merged with the local Slavic inhabitants in the late 7th century to form the first Bulgarian state. In succeeding centuries, Bulgaria struggled with the Byzantine Empire to assert its place in the Balkans, but by the end of the 14th century the country was overrun by the Ottoman Turks. Northern Bulgaria attained autonomy in 1878, and all of Bulgaria became independent from the Ottoman Empire in 1908. Having fought on the losing side in both World Wars, Bulgaria fell within the Soviet sphere of influence and became a People's Republic in 1946. Communist domination ended in 1990, when Bulgaria held its first multiparty election since World War II and began the contentious process of moving toward political democracy and a market economy while combating inflation, unemployment, corruption, and crime. The country joined NATO in 2004 and the EU in 2007.<br>
 
 ## Geography
 
@@ -391,9 +391,9 @@ _selected World Heritage Site locales_: Boyana Church (c); Madara Rider (c); Thr
 upper-middle-income EU economy; improving living standards and very robust economic growth; coal-based infrastructure; legacy structural vulnerabilities and widespread corruption; increasing Russian economic relations, particularly through energy trade<br>
 
 **Real GDP (purchasing power parity)**<br>
+$174.307 billion (2022 est.)<br>
 $167.804 billion (2021 est.)<br>
 $155.902 billion (2020 est.)<br>
-$162.328 billion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -402,9 +402,9 @@ $162.328 billion (2019 est.)<br>
 4.04% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$27,000 (2022 est.)<br>
 $24,400 (2021 est.)<br>
 $22,500 (2020 est.)<br>
-$23,300 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -496,25 +496,26 @@ calendar year<br>
 $1.264 billion (2019 est.)<br>
 
 **Exports**<br>
+$62.514 billion (2022 est.)<br>
 $51.505 billion (2021 est.)<br>
 $39.541 billion (2020 est.)<br>
-$44.041 billion (2019 est.)<br>
 <strong>note:</strong> Data are in current year dollars and do not include illicit exports or re-exports.<br>
 
 **Exports - partners**<br>
-Germany 16%, Romania 8%, Italy 7%, Turkey 7%, Greece 6% (2019)<br>
+Germany 14%, Romania 10%, Greece 8%, Italy 8%, Turkey 6% (2021)<br>
 
 **Exports - commodities**<br>
 copper, wheat, electricity, refined petroleum, packaged medicines (2021)<br>
 <strong>note:</strong> Bulgarian amphetamine production remains a significant illicit trade export<br>
 
 **Imports**<br>
-$50.059 billion (2021 est.) note: data are in current year dollars<br>
-$38.197 billion (2020 est.) note: data are in current year dollars<br>
-$41.843 billion (2019 est.) note: data are in current year dollars<br>
+$62.329 billion (2022 est.)<br>
+$50.059 billion (2021 est.)<br>
+$38.197 billion (2020 est.)<br>
+<strong>note: </strong>data are in current year dollars<br>
 
 **Imports - partners**<br>
-Germany 11%, Russia 9%, Italy 7%, Romania 7%, Turkey 7% (2019)<br>
+Germany 12%, Turkey 8%, Greece 8%, Romania 8%, Italy 7% (2021)<br>
 
 **Imports - commodities**<br>
 crude petroleum, copper, cars, packaged medicines, refined petroleum (2019)<br>
@@ -672,9 +673,7 @@ _other airports_: 45<br>
 _total_: 4,029 km (2020) 2,871 km electrified<br>
 
 **Roadways**<br>
-_total_: 19,512 km<br>
-_paved_: 19,235 km (includes 458 km of expressways)<br>
-_unpaved_: 277 km (2011)<br>
+_total_: 19,117 km (2022)<br>
 <strong>note:</strong> does not include Category IV local roads<br>
 
 **Waterways**<br>

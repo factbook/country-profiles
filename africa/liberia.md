@@ -190,7 +190,7 @@ _unimproved: total_: total: 52.5% of population (2020 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and dengue fever<br>
+_vectorborne diseases_: malaria, dengue fever, and sexually transmitted diseases: hepatitis B (2024)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
@@ -662,7 +662,7 @@ the military has a limited inventory; in recent years, it has received small qua
 18-35 years of age for men and women for voluntary military service; no conscription (2023)<br>
 
 **Military - note**<br>
-the AFL is responsible for external defense but also has some domestic security responsibilities if called upon, such as humanitarian assistance during natural disasters and support to law enforcement; it is a small, lightly equipped force comprised of 2 combat infantry battalions and supporting units; the infantry battalions were rebuilt with US assistance in 2007-2008 from the restructured AFL following the end of the second civil war in 2003 when military and police forces were disbanded and approximately 100,000 military, police, and rebel combatants were disarmed<br><br>the first militia unit established for defense of the colony was raised in 1832; the AFL traces its origins to the 1908 establishment of the Liberia Frontier Force, which became the Liberian National Guard in 1965; the AFL was established in 1970<br><br>the UN Mission in Liberia (UNMIL) was established in 2003 as a peacekeeping force; at its height, UNMIL was comprised of about 15,000 personnel, including more than 3,000 troops absorbed from the Economic Community of West African States (ECOWAS) peacekeeping mission; Liberian forces reassumed full control of the country’s security in June of 2016, and the UNMIL mission was ended in 2018 (2023)<br>
+the AFL is responsible for external defense but also has some domestic security responsibilities if called upon, such as humanitarian assistance during natural disasters and support to law enforcement; it is a small, lightly equipped force comprised of two combat infantry battalions and supporting units; the infantry battalions were rebuilt with US assistance in 2007-2008 from the restructured AFL following the end of the second civil war in 2003 when military and police forces were disbanded and approximately 100,000 military, police, and rebel combatants were disarmed<br><br>the first militia unit established for defense of the colony was raised in 1832; the AFL traces its origins to the 1908 establishment of the Liberia Frontier Force, which became the Liberian National Guard in 1965; the AFL was established in 1970<br><br>the UN Mission in Liberia (UNMIL) was established in 2003 as a peacekeeping force; at its height, UNMIL was comprised of about 15,000 personnel, including more than 3,000 troops absorbed from the Economic Community of West African States (ECOWAS) peacekeeping mission; Liberian forces reassumed full control of the country’s security in June of 2016, and the UNMIL mission was ended in 2018 (2023)<br>
 
 ## Transnational Issues
 

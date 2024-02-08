@@ -193,7 +193,7 @@ _unimproved: total_: total: 45.6% of population (2020 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and&nbsp;dengue fever<br>
+_vectorborne diseases_: malaria, dengue feve, and sexually transmitted diseases: hepatitis Br (2024)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>

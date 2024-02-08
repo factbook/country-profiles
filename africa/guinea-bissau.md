@@ -187,7 +187,7 @@ _unimproved: total_: total: 68.2% of population (2020 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and dengue fever<br>
+_vectorborne diseases_: malaria, dengue fever, and sexually transmitted diseases: hepatitis B (2024)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
@@ -611,9 +611,9 @@ J5<br>
 <strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
 
 **Roadways**<br>
-_total_: 4,400 km (2018)<br>
-_paved_: 453 km (2018)<br>
-_unpaved_: 3,947 km (2018)<br>
+_total_: 4,400 km (2016)<br>
+_paved_: 453 km (2016)<br>
+_unpaved_: 3,947 km (2016)<br>
 
 **Waterways**<br>
 1,367 km (2022) major rivers Geba- 550km, Corubal 560 km, Cacheu 257 km (rivers are partially navigable; many inlets and creeks provide shallow-water access to much of interior)<br>

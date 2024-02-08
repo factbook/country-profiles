@@ -664,7 +664,7 @@ _annual freight traffic on registered air carriers_: 530,000 (2018) mt-km<br>
 _total_: 2,617 km (2020) 980 km electrified<br>
 
 **Roadways**<br>
-_total_: 26,958 km (2015) (includes 1,416 km of expressways)<br>
+_total_: 26,958 km (2022)<br>
 
 **Waterways**<br>
 4,714 km (2022) Danube 2,859 km, Sava 562 km, Drava 505 km, Neretva 20 km, Bosut 151 km, Kupa 296 km, Mura 53 km, Korana 134 km, Lonja 134 km<br>

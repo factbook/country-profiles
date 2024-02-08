@@ -85,7 +85,7 @@ _noun_: Japanese (singular and plural)<br>
 _adjective_: Japanese<br>
 
 **Ethnic groups**<br>
-Japanese 97.9%, Chinese 0.6%, Korean 0.4%, other 1.1% (includes Vietnamese, Filipino, and Brazilian) (2017 est.)<br>
+Japanese 97.8%, Chinese 0.6%, Korean 0.3%, other 1.3% (includes Filipino, Brazilian, Nepalese, Indonesian, American, and Thai) (2021 est.)<br>
 <strong>note:</strong> data represent population by nationality; up to 230,000 Brazilians of Japanese origin migrated to Japan in the 1990s to work in industries; some have returned to Brazil<br>
 
 **Languages**<br>
@@ -93,8 +93,8 @@ Japanese<br>
 _major-language sample(s)_: <br>必要不可欠な基本情報の源、ワールド・ファクトブック(Japanese)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Shintoism 70.5%, Buddhism 67.2%, Christianity 1.5%, other 5.9% (2019 est.)<br>
-<strong>note:</strong> total adherents exceeds 100% because many people practice both Shintoism and Buddhism<br>
+Shintoism 48.6%, Buddhism 46.4%, Christianity 1.1%, other 4% (2021 est.)<br>
+<strong>note:</strong> total adherents among persons claiming a religious affiliation<br>
 
 **Age structure**<br>
 _0-14 years_: 12.29% (male 7,835,474/female 7,370,449)<br>
@@ -352,7 +352,7 @@ Collaborative Party or The Party to Protect People from NHK or NHK Party [Ayaka 
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CE (observer), CERN (observer), CICA (observer), CP, CPLP (associate), EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Quad, SAARC (observer), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNHRC, UNIDO, UNMISS, UNOOSA, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador TOMITA Koji (since 17 February 2021)<br>
+_chief of mission_: Ambassador YAMADA Shigeo (since December 2023)<br>
 _chancery_: 2520 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 238-6700<br>
 _FAX_: [1] (202) 328-2187<br>

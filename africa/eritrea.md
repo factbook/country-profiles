@@ -634,7 +634,7 @@ _major seaport(s)_: Assab, Massawa<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Eritrean Defense Forces (EDF): Eritrean Ground Forces, Eritrean Navy, Eritrean Air Force (includes Air Defense Force); Hizbawi Serawit (aka People's Army or People's Militia) (2023)<br>
+Eritrean Defense Forces (EDF): Eritrean Ground Forces, Eritrean Navy, Eritrean Air Force (includes Air Defense Force); People's Militia (aka People's Army or Hizbawi Serawit) (2023)<br>
 <strong>note: </strong>police are responsible for maintaining internal security, but the government sometimes used the armed forces, reserves, demobilized soldiers, or civilian militia to meet domestic as well as external security requirements; the armed forces have authority to arrest and detain civilians<br>
 
 **Military expenditures**<br>

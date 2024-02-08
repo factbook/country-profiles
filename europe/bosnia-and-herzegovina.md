@@ -650,9 +650,7 @@ _total_: 965 km (2014)<br>
 _standard gauge_: 965 km (2014) 1.435-m gauge (565 km electrified)<br>
 
 **Roadways**<br>
-_total_: 22,926 km<br>
-_paved_: 19,426 km (4,652 km of interurban roads)<br>
-_unpaved_: 3,500 km (2010)<br>
+_total_: 8,619 km (2022)<br>
 
 **Waterways**<br>
 990 km (2022) (Sava River on northern border; open to shipping but use limited)<br>

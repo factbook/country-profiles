@@ -651,7 +651,9 @@ _narrow gauge_: 1,694 km (2014) 1.000-m gauge (65 km electrified)<br>
 _dual gauge_: 8 km (2014) 1.435-1.000-m gauge<br>
 
 **Roadways**<br>
-_paved_: 20,000 km (2015)<br>
+_total_: 32,332 km<br>
+_paved_: 12,264 km<br>
+_unpaved_: 20,068 km (2020)<br>
 
 **Merchant marine**<br>
 _total_: 70 (2022)<br>

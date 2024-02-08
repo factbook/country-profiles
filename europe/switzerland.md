@@ -670,8 +670,7 @@ HB<br>
 _total_: 5,296 km (2020) 5,296 km electrified; Switzerland remains the only country with a fully electrified network<br>
 
 **Roadways**<br>
-_total_: 71,557 km (2017)<br>
-_paved_: 71,557 km (2017) (includes 1,458 of expressways)<br>
+_total_: 83,131 km (2022)<br>
 
 **Waterways**<br>
 1,292 km (2010) (there are 1,227 km of waterways on lakes and rivers for public transport and 65 km on the Rhine River between Basel-Rheinfelden and Schaffhausen-Bodensee for commercial goods transport)<br>

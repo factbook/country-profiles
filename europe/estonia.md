@@ -649,9 +649,7 @@ ES<br>
 _total_: 1,441 km (2020) 225 km electrified<br>
 
 **Roadways**<br>
-_total_: 58,412 km (2011) (includes urban roads)<br>
-_paved_: 10,427 km (2011) (includes 115 km of expressways)<br>
-_unpaved_: 47,985 km (2011)<br>
+_total_: 89,382 km (2022)<br>
 
 **Waterways**<br>
 335 km (2011) (320 km are navigable year-round)<br>
@@ -669,7 +667,7 @@ Estonia operates two PC 5 or 6 class icebreakers in the Baltic Sea<br>note - PC 
 ## Military and Security
 
 **Military and security forces**<br>
-Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (Reserves)<br><br>Ministry of Interior: Police and Border Guard Board, Internal Security Service (2023)<br>
+Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (Reserves)<br><br>Ministry of Interior: Police and Border Guard Board, Internal Security Service (2024)<br>
 
 **Military expenditures**<br>
 2.7% of GDP (2023 est.)<br>

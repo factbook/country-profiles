@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>As Europe's largest economy and second most populous nation (after Russia), Germany is a key member of the continent's economic, political, and defense organizations. European power struggles immersed Germany in two devastating world wars in the first half of the 20th century and left the country occupied by the victorious Allied powers of the US, UK, France, and the Soviet Union in 1945. With the advent of the Cold War, two German states were formed in 1949: the western Federal Republic of Germany (FRG) and the eastern German Democratic Republic (GDR). The democratic FRG embedded itself in key western economic and security organizations, the EC (now the EU) and NATO, while the communist GDR was on the front line of the Soviet-led Warsaw Pact. The decline of the USSR and the end of the Cold War allowed for German reunification in 1990. Since then, Germany has expended considerable funds to bring eastern productivity and wages up to western standards. In January 1999, Germany and 10 other EU countries introduced a common European exchange currency, the euro.</p><br>
+<p>As Europe's largest economy and second most-populous nation (after Russia), Germany is a key member of the continent's economic, political, and defense organizations. European power struggles immersed Germany in two devastating world wars in the first half of the 20th century and left the country occupied by the victorious Allied powers of the US, UK, France, and the Soviet Union in 1945. With the advent of the Cold War, two German states were formed in 1949: the western Federal Republic of Germany (FRG) and the eastern German Democratic Republic (GDR). The democratic FRG embedded itself in key western economic and security organizations, the EC (now the EU) and NATO, while the communist GDR was on the front line of the Soviet-led Warsaw Pact. The decline of the USSR and the end of the Cold War allowed for German reunification in 1990. Since then, Germany has expended considerable funds to bring eastern productivity and wages up to western standards. In January 1999, Germany and 10 other EU countries introduced a common European exchange currency, the euro.</p><br>
 
 ## Geography
 
@@ -404,9 +404,9 @@ _selected World Heritage Site locales_: Museumsinsel (Museum Island), Berlin (c)
 leading EU service-based export-driven economy; highly skilled and educated labor force; fairly fiscally conservative; energy-related economic disruptions due to Russian gas cessations; increased defense spending and rising debts<br>
 
 **Real GDP (purchasing power parity)**<br>
+$4.523 trillion (2022 est.)<br>
 $4.424 trillion (2021 est.)<br>
 $4.311 trillion (2020 est.)<br>
-$4.477 trillion (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -415,9 +415,9 @@ $4.477 trillion (2019 est.)<br>
 1.06% (2019 est.)<br>
 
 **Real GDP per capita**<br>
+$54,000 (2022 est.)<br>
 $53,200 (2021 est.)<br>
 $51,800 (2020 est.)<br>
-$53,900 (2019 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -451,7 +451,7 @@ _imports of goods and services_: -39.7% (2017 est.)<br>
 milk, pork, wheat, beef, potatoes, barley, rapeseeds, chicken, eggs, sugar beets<br>
 
 **Industries**<br>
-automotive, mechanical engineering, chemicals, electrical and batteries, manufacturing, metals, finance and banking, telecommunications, healthcare, retail<br>
+<p>iron, steel, coal, cement, chemicals, machinery, vehicles, machine tools, electronics, automobiles, food and beverages, shipbuilding, textiles</p><br>
 
 **Industrial production growth rate**<br>
 3.61% (2021 est.)<br>
@@ -507,26 +507,28 @@ $274.2 billion (2020 est.)<br>
 $294.407 billion (2019 est.)<br>
 
 **Exports**<br>
-$2.004 trillion (2021 est.) note: data are in current year dollars<br>
-$1.676 trillion (2020 est.) note: data are in current year dollars<br>
-$1.816 trillion (2019 est.) note: data are in current year dollars<br>
+$2.079 trillion (2022 est.)<br>
+$2.004 trillion (2021 est.)<br>
+$1.676 trillion (2020 est.)<br>
+<strong>note: </strong>data are in current year dollars<br>
 
 **Exports - partners**<br>
-United States 9%, China 8%, France 8%, Netherlands 6%, Italy 6% (2021)<br>
+US 9%, China 8%, France 8%, Netherlands 6%, UK 6% (2021)<br>
 
 **Exports - commodities**<br>
 cars and vehicle parts, packaged medicines, medical cultures and vaccines, aircraft, industrial machinery, medical instruments (2021)<br>
 
 **Imports**<br>
-$1.775 trillion (2021 est.) note: data are in current year dollars<br>
-$1.454 trillion (2020 est.) note: data are in current year dollars<br>
-$1.595 trillion (2019 est.) note: data are in current year dollars<br>
+$1.999 trillion (2022 est.)<br>
+$1.775 trillion (2021 est.)<br>
+$1.454 trillion (2020 est.)<br>
+<strong>note: </strong>data are in current year dollars<br>
 
 **Imports - partners**<br>
-China 10%, Netherlands 10%, Poland 7%, Italy 6%, France 6% (2021)<br>
+China 10%, Netherlands 10%, Poland 7%, France 6%, Italy 6%&nbsp; (2021)<br>
 
 **Imports - commodities**<br>
-cars and vehicle parts, medical cultures/vaccines, packaged medicines, crude petroleum, natural gas, computers (2021)<br>
+cars and vehicle parts, packaged medicines, broadcasting equipment, medical cultures/vaccines, computers (2021)<br>
 
 **Reserves of foreign exchange and gold**<br>
 $295.736 billion (31 December 2021 est.)<br>

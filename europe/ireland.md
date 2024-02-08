@@ -639,8 +639,7 @@ EI<br>
 _total_: 1,688 km (2020) 53 km electrified<br>
 
 **Roadways**<br>
-_total_: 99,830 km (2018)<br>
-_paved_: 99,830 km (2018) (includes 2,717 km of expressways)<br>
+_total_: 102,227 km (2022)<br>
 
 **Waterways**<br>
 956 km (2010) (pleasure craft only)<br>

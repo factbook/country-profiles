@@ -191,7 +191,7 @@ _unimproved: total_: total: 26.2% of population (2020 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: dengue fever<br>
+_vectorborne diseases_: dengue fever, and sexually transmitted diseases: hepatitis B (2024)<br>
 
 **Obesity - adult prevalence rate**<br>
 13.5% (2016)<br>

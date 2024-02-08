@@ -94,7 +94,7 @@ _major-language sample(s)_: <br>The World Factbook, den obestridliga källan fö
 <strong>note:</strong> Finnish, Sami, Romani, Yiddish, and Meankieli are official minority languages<br>
 
 **Religions**<br>
-Church of Sweden (Lutheran) 57.6%, other (includes Roman Catholic, Orthodox, Baptist, Muslim, Jewish, and Buddhist) 8.9%, none or unspecified 33.5% (2019 est.)<br>
+Church of Sweden (Lutheran) 53.9%, other (includes Roman Catholic, Orthodox, Baptist, Muslim, Jewish, and Buddhist) 8.9%, none or unspecified 37.2% (2021 est.)<br>
 <strong>note:</strong> estimates reflect registered members of faith communities eligible for state funding (not all religions are state-funded and not all people who identify with a particular religion are registered members) and the Church of Sweden<br>
 
 **Demographic profile**<br>
@@ -388,10 +388,10 @@ _selected World Heritage Site locales_: Royal Domain of Drottningholm (c); Lapon
 ## Economy
 
 **Economic overview**<br>
-small, open, competitive, and thriving economy that remains outside of the euro zone; has achieved an enviable standard of living, with its combination of free-market capitalism and extensive welfare benefits<br>
+high-income, knowledge-based economy; EU member but non-euro user (refuses to peg krona to euro); large welfare state that complements its free-market capitalism; high living standards, environmental protections, income and gender equality; rebounding well from COVID-19 disruptions<br>
 
 **Real GDP (purchasing power parity)**<br>
-$574.877 billion (2022 est.)<br>
+$580.099 billion (2022 est.)<br>
 $558.427 billion (2021 est.)<br>
 $531.455 billion (2020 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
@@ -402,7 +402,7 @@ $531.455 billion (2020 est.)<br>
 -2.17% (2020 est.)<br>
 
 **Real GDP per capita**<br>
-$54,800 (2022 est.)<br>
+$55,300 (2022 est.)<br>
 $53,600 (2021 est.)<br>
 $51,300 (2020 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
@@ -495,9 +495,10 @@ $32.372 billion (2020 est.)<br>
 $29.361 billion (2019 est.)<br>
 
 **Exports**<br>
-$290.793 billion (2021 est.) note: data are in current year dollars<br>
-$241.94 billion (2020 est.) note: data are in current year dollars<br>
-$257.293 billion (2019 est.) note: data are in current year dollars<br>
+$312.136 billion (2022 est.)<br>
+$290.793 billion (2021 est.)<br>
+$241.94 billion (2020 est.)<br>
+<strong>note: </strong>data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 10%, Norway 9%, United States 8%, Denmark 8%, Finland 6% (2021)<br>
@@ -506,9 +507,10 @@ Germany 10%, Norway 9%, United States 8%, Denmark 8%, Finland 6% (2021)<br>
 cars and vehicle parts, refined petroleum, packaged medicines, lumber, iron, broadcasting equipment (2021)<br>
 
 **Imports**<br>
-$263.269 billion (2021 est.) note: data are in current year dollars<br>
-$217.165 billion (2020 est.) note: data are in current year dollars<br>
-$233.648 billion (2019 est.) note: data are in current year dollars<br>
+$294.817 billion (2022 est.)<br>
+$263.269 billion (2021 est.)<br>
+$217.165 billion (2020 est.)<br>
+<strong>note: </strong>data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 18%, Netherlands 9%, Norway 8%, China 7%, Denmark 7% (2021)<br>
@@ -666,10 +668,7 @@ _total_: 10,910 km (2020) 8,184 km electrified<br>
 _narrow gauge_: 65 km<br>
 
 **Roadways**<br>
-_total_: 573,134 km (2016) (includes 2,050 km of expressways)<br>
-_paved_: 140,100 km (2016)<br>
-_unpaved_: 433,034 km (2016)<br>
-<strong>note:</strong> includes 98,500 km of state roads, 433,034 km of private roads, and 41,600 km of municipal roads<br>
+_total_: 197,964 km (2022)<br>
 
 **Waterways**<br>
 2,052 km (2010)<br>

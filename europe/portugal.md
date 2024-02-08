@@ -646,9 +646,7 @@ CR, CS<br>
 _total_: 2,526 km (2020) 1,696 km electrified<br>
 
 **Roadways**<br>
-_total_: 82,900 km (2008)<br>
-_paved_: 71,294 km (2008) (includes 2,613 km of expressways)<br>
-_unpaved_: 11,606 km (2008)<br>
+_total_: 11,217 km (2022)<br>
 
 **Waterways**<br>
 210 km (2011) (on Douro River from Porto)<br>

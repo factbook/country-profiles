@@ -665,9 +665,7 @@ _total_: 4,642 km (2018)<br>
 _broad gauge_: 4,642 km (2018) 1.520-m gauge (1,684 km electrified)<br>
 
 **Roadways**<br>
-_total_: 86,496 km (2000)<br>
-_paved_: 75,511 km (2000)<br>
-_unpaved_: 10,985 km (2000)<br>
+_total_: 225,500 km (2013)<br>
 
 **Waterways**<br>
 1,100 km (2012)<br>

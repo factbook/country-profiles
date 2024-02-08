@@ -199,7 +199,7 @@ _unimproved: total_: total: 25.9% of population (2020 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: very high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and dengue fever<br>
+_vectorborne diseases_: malaria, dengue fever, and sexually transmitted diseases: hepatitis B (2024)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
@@ -353,7 +353,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Macky SALL (since 2 April 2012)<br>
 _head of government_: Prime Minister Amadou BA (since 17 September 2022)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single, renewable 5-year term; election last held on 24 February 2019 (next to be held on 25 February 2024)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single, renewable 5-year term; election last held on 24 February 2019 (next to be held on 15 December 2024)<br>
 _election results_: <br><em><em>2019:</em></em> Macky SALL reelected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5% <p><em>2012:</em> Macky SALL elected president in second round; percent of vote - Macky SALL (APR) 65.8%, Abdoulaye WADE (PDS) 34.2% </p><br>
 
 **Legislative branch**<br>

@@ -663,8 +663,7 @@ OK<br>
 _total_: 9,548 km (2020) 3,242 km electrified<br>
 
 **Roadways**<br>
-_total_: 55,744 km (2019) (includes urban and category I, II, III roads)<br>
-_paved_: 55,744 km (2019) (includes 1,252 km of expressways)<br>
+_total_: 129,418 km (2022)<br>
 
 **Waterways**<br>
 664 km (2010) (principally on Elbe, Vltava, Oder, and other navigable rivers, lakes, and canals)<br>

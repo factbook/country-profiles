@@ -653,7 +653,7 @@ both the forces aligned with the GNU and the LNA are largely equipped with weapo
 not available<br>
 
 **Military - note**<br>
-Turkey has provided military advisers to trained and assist western/GNU Libyan forces and thousands of Syrian mercenaries to Libya, as well as ammunition, weapons, and aerial drones; Russia, the United Arab Emirates, and Egypt have been the main supporters of the LNA; Russia has provided as many as 2,000 private military contractors; the LNA has also used fighters from other countries, including Chad, Sudan, and Syria; GNU and LNA forces are separated by a fortified line of control running roughly from the coastal city of Sirte south to the vicinity of Al Jufra and Brak (2023)<br>
+Turkey has provided military advisers to train and assist western/GNU Libyan forces and sent thousands of Syrian mercenaries to Libya, as well as ammunition, weapons, and aerial drones; Russia, the United Arab Emirates, and Egypt have been the main supporters of the LNA; Russia has provided as many as 2,000 private military contractors; the LNA has also used fighters from other countries, including Chad, Sudan, and Syria; GNU and LNA forces are separated by a fortified line of control running roughly from the coastal city of Sirte south to the vicinity of Al Jufra and Brak (2023)<br>
 
 ## Terrorism
 

@@ -200,7 +200,7 @@ _unimproved: total_: total: 35.8% of population (2017 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria and dengue fever<br>
+_vectorborne diseases_: malaria, dengue fever, and sexually transmitted diseases: HIV/AIDS (2024)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
@@ -358,8 +358,8 @@ _election results_: <em>2023: </em>Emmerson MNANGAGWA reelected president in fir
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (80 seats; 60 members directly elected in multi-seat constituencies - 6 seats in each of the 10 provinces - by proportional representation vote, 16 indirectly elected by the regional governing councils, 18 reserved for the National Council Chiefs, and 2 reserved for members with disabilities; members serve 5-year terms)<br><br>National Assembly (280 seats; 210 members directly elected in single-seat constituencies by simple majority vote and 60 seats reserved for women directly elected by proportional representation vote and 10 additional seats reserved for candidates aged between 21 and 35 directly elected by proportional representation, members serve 5-year terms)<br>
-_elections_: <p>Senate - last held for elected member on 23 August 2023 (next to be held in 2028)<br><br>National Assembly - last held on 23 August 2023 (next to be held in 2028) note: a by election was held on 11 November 2023 due to the death of a candidate during the August general election; a special by election was held on 9 December 2023 after nine opposition lawmakers were removed from their seats and disqualified from running again; another by election is set for 3 February 2024 </p><br>
-_election results_: <p>Senate - percent of vote by party - NA; seats by party - ZANU-PF 33, CCC- 27, Chiefs 18, people with disabilities 2; composition - men 44, women 36, percent of women 45%<br><br>National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 177, CCC-93; composition - men 194, women 86, percent of women 30.8%; note - total Parliament percent of women 34.3%</p><br>
+_elections_: <p>Senate - last held for elected member on 23 August 2023 (next to be held in 2028)<br><br>National Assembly - last held on 23 August 2023 (next to be held in 2028) note: a by election was held on 11 November 2023 due to the death of a candidate during the August general election; a special by election was held on 9 December 2023 after nine opposition lawmakers were removed from their seats and disqualified from running again; another by election was held 3 February 2024 for six open seats</p><br>
+_election results_: <p>Senate - percent of vote by party - NA; seats by party - ZANU-PF 33, CCC- 27, Chiefs 18, people with disabilities 2; composition - men 44, women 36, percent of women 45%<br><br>National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 190, CCC-93; composition - men 194, women 86, percent of women 30.8%; note - total Parliament percent of women 34.3%</p><br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of the chief justice and 4 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>
@@ -367,7 +367,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: High Court; Labor Court; Administrative Court; regional magistrate courts; customary law courts; special courts<br>
 
 **Political parties and leaders**<br>
-Citizens Coalition for Change [vacant] <br>Movement for Democratic Change - MDC-T [Douglas MWONZORA]<br>National People's Congress- NPC- [Wilbert MUBAIWA] <br>Zimbabwe African National Union-Patriotic Front or ZANU-PF [Emmerson Dambudzo MNANGAGWA]<br>Zimbabwe African Peoples Union or ZAPU [Michael NKOMO]<br>
+Citizens Coalition for Change (vacant) <br>Movement for Democratic Change - MDC-T [Douglas MWONZORA]<br>National People's Congress- NPC- [Wilbert MUBAIWA] <br>Zimbabwe African National Union-Patriotic Front or ZANU-PF [Emmerson Dambudzo MNANGAGWA]<br>Zimbabwe African Peoples Union or ZAPU [Michael NKOMO]<br>
 
 **International organization participation**<br>
 ACP, AfDB, ATMIS, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -662,9 +662,9 @@ _total_: 3,427 km (2014)<br>
 _narrow gauge_: 3,427 km (2014) 1.067-m gauge (313 km electrified)<br>
 
 **Roadways**<br>
-_total_: 97,267 km (2019)<br>
-_paved_: 18,481 km (2019)<br>
-_unpaved_: 78,786 km (2019)<br>
+_total_: 97,267 km<br>
+_paved_: 18,481 km<br>
+_unpaved_: 78,786 km (2023)<br>
 
 **Waterways**<br>
 223 km (2022) some navigation possible on Lake Kariba (223 km)<br>

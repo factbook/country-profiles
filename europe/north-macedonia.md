@@ -635,9 +635,7 @@ Z3<br>
 _total_: 699 km (2020) 313 km electrified<br>
 
 **Roadways**<br>
-_total_: 14,182 km (2017) (includes 290 km of expressways)<br>
-_paved_: 9,633 km (2017)<br>
-_unpaved_: 4,549 km (2017)<br>
+_total_: 15,170 km (2022)<br>
 
 ## Military and Security
 
@@ -663,7 +661,7 @@ the military's inventory is a mix of Soviet-era and increasing amounts of more m
 <strong>note:</strong> as of 2023, women made up about 10% of the military's full-time personnel<br>
 
 **Military - note**<br>
-the Army of the Republic of North Macedonia (ARSM) is responsible for the defense of the country’s territory and independence, fulfilling North Macedonia’s commitments to NATO and European security, and contributing to EU, NATO, and UN peace and security missions; the ARSM has participated in multinational missions and operations in Afghanistan (NATO), Bosnia and Herzegovina (EU), Eastern Europe (NATO), Iraq (NATO), Kosovo (NATO), and Lebanon (UN); a key area of focus over the past decade has been improving capabilities and bringing the largely Soviet-era-equipped ARSM up to NATO standards; it has increased its participation in NATO training exercises since becoming the 30th member of the Alliance in 2020 and currently has small numbers of combat troops deployed to Bulgaria and Romania as part of NATO’s Enhance Forward Presence mission implemented because of Russian military aggression against Ukraine<br><br>the ARSM is a joint force led by a general staff with subordinate commands for operations, logistics, reserves, special operations, and training; the Operational Command includes the active air and ground combat forces, which include a mechanized infantry brigade, an air brigade with a small combat helicopter squadron, and a ground air defense unit; the Special Operations Command has battalions of rangers and special forces, while the Reserve Forces Command has an infantry brigade (2023)<br>
+the Army of the Republic of North Macedonia (ARSM) is responsible for the defense of the country’s territory and independence, fulfilling North Macedonia’s commitments to NATO and European security, and contributing to EU, NATO, and UN peace and security missions; the ARSM has participated in multinational missions and operations in Afghanistan (NATO), Bosnia and Herzegovina (EU), Eastern Europe (NATO), Iraq (NATO), Kosovo (NATO), and Lebanon (UN); a key area of focus over the past decade has been improving capabilities and bringing the largely Soviet-era-equipped ARSM up to NATO standards; it has increased its participation in NATO training exercises since becoming the 30th member of the Alliance in 2020 and currently has small numbers of combat troops deployed to Bulgaria and Romania as part of NATO’s Enhance Forward Presence mission implemented because of Russian military aggression against Ukraine<br><br>the ARSM is a joint force led by a general staff with subordinate commands for operations, logistics, reserves, special operations, and training; the Operational Command includes the active air and ground combat forces, which include a mechanized infantry brigade, an air brigade with a small combat helicopter squadron, and a ground air defense unit; the Special Operations Command has battalions of rangers and special forces, while the Reserve Forces Command has an infantry brigade (2024)<br>
 
 ## Terrorism
 

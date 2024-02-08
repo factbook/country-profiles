@@ -575,9 +575,9 @@ _total_: 248 km (2018)<br>
 <strong>note:</strong> a narrow gauge, single-track railroad between Babonosa (Sudan) and Wau, the only existing rail system, was repaired in 2010 with $250 million in UN funds, but is not currently operational<br>
 
 **Roadways**<br>
-_total_: 90,200 km (2019)<br>
-_paved_: 300 km (2019)<br>
-_unpaved_: 89,900 km (2019)<br>
+_total_: 90,200 km<br>
+_paved_: 300 km<br>
+_unpaved_: 89,900 km (2015)<br>
 <strong>note:</strong> most of the road network is unpaved and much of it is in disrepair; the Juba-Nimule highway connecting Juba to the border with Uganda is the main paved road in South Sudan <br>
 
 **Waterways**<br>

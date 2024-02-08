@@ -95,10 +95,10 @@ _adjective_: South African<br>
 
 **Ethnic groups**<br>
 Black African 81.4%, Coloured 8.2%, White 7.3%, Indian/Asian 2.7%, other 0.4% (2022 est.)<br>
-<strong>note:</strong> coloured is a term used in South Africa, including on the national census, for persons of mixed race ancestry who developed a distinct cultural identity over several hundred years<br>
+<strong>note:</strong> Coloured is a term used in South Africa, including on the national census, for persons of mixed race ancestry who developed a distinct cultural identity over several hundred years<br>
 
 **Languages**<br>
-isiZulu or Zulu (official) 25.3%, isiXhosa or Xhosa (official) 14.8%, Afrikaans (official) 12.2%, Sepedi of Pedi (official) 10.1%, Setswana or Tswana (official) 9.1%, English (official) 8.1%, Sesotho or Sotho (official) 7.9%, Xitsonga or Tsonga (official) 3.6%, siSwati or Swati (official) 2.8%, Tshivenda or Venda (official) 2.5%, isiNdebele or Ndebele (official) 1.6%, other (includes South African sign language (official) and Khoi or Khoisan or Khoe languages) 2%; note - data represent language spoken most often at home (2018 est.)<br>
+isiZulu or Zulu (official) 25.3%, isiXhosa or Xhosa (official) 14.8%, Afrikaans (official) 12.2%, Sepedi or Pedi (official) 10.1%, Setswana or Tswana (official) 9.1%, English (official) 8.1%, Sesotho or Sotho (official) 7.9%, Xitsonga or Tsonga (official) 3.6%, siSwati or Swati (official) 2.8%, Tshivenda or Venda (official) 2.5%, isiNdebele or Ndebele (official) 1.6%, other (includes South African sign language (official) and Khoi or Khoisan or Khoe languages) 2%; note - data represent language spoken most often at home (2018 est.)<br>
 _major-language sample(s)_: <br>Die Wereld Feite Boek, n’ onontbeerlike bron vir basiese informasie. (Afrikaans)<br><br>The World Factbook, the indispensable source for basic information. (English)<br>
 
 **Religions**<br>
@@ -199,6 +199,7 @@ _unimproved: total_: total: 6.8% of population (2020 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
+_vectorborne diseases_: sexually transmitted diseases:&nbsp; HIV/AIDS, hepatitis B (2024)<br>
 _water contact diseases_: schistosomiasis<br>
 
 **Obesity - adult prevalence rate**<br>

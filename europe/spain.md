@@ -672,8 +672,7 @@ _other airports_: 55<br>
 _total_: 15,489 km (2020) 9,953 km electrified<br>
 
 **Roadways**<br>
-_total_: 683,175 km (2011)<br>
-_paved_: 683,175 km (2011) (includes 16,205 km of expressways)<br>
+_total_: 150,110 km (2021)<br>
 
 **Waterways**<br>
 1,000 km (2012)<br>

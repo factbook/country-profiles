@@ -202,7 +202,7 @@ _unimproved: total_: total: 51.9% of population (2020 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: high (2023)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-_vectorborne diseases_: malaria<br>
+_vectorborne diseases_: malaria, and sexually transmitted diseases: HIV/AIDS (2024)<br>
 _water contact diseases_: schistosomiasis<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -344,10 +344,10 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Hage GEINGOB (since 21 March 2015); Vice President Nangolo MBUMBA (since 8 February 2018); note - the president is both chief of state and head of government<br>
-_head of government_: President Hage GEINGOB (since 21 March 2015); Vice President Nangolo MBUMBA (since 8 February 2018); Prime Minister Saara KUUGONGELWA-AMADHILA (since 21 March 2015); note - the Prime Minister is appointed by the president to coordinate the work of the cabinet, advise the president, and is second in line of succession if the president is unable to serve.     <p class="xmsonormal"> </p><br>
+_chief of state_: Acting President Nangolo MBUMBA (since 4 February 2024); Acting Vice President Netumbo NANDI-NDAITWAHNOTE (since 4 February 2024); note - the president is both chief of state and head of government; President Hage GEINGOB died on 4 February 2024, and Vice President MBUMBA was sworn in to run the government until the next presidential election in November 2024<br>
+_head of government_: Acting President Nangolo MBUMBA (since 4 February 2024); Acting Vice President Netumbo NANDI-NDAITWAHNOTE (since 4 February 2024); Prime Minister Saara KUUGONGELWA-AMADHILA (since 21 March 2015); note - the prime minister is appointed by the president to coordinate the work of the cabinet, advise the president, and is second in line of succession if the president is unable to serve; note - President Hage GEINGOB died on 4 February 2024, and the Vice President MBUMBA was sworn in to run the government until the next presidential election in November 2024<br> <p class="xmsonormal"> </p><br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2019 (next to be held in 2024)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2019 (next to be held in November 2024)<br>
 _election results_: <br><em>2019:</em> Hage GEINGOB reelected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (independent) 29.4%, McHenry VENAANI (PDM) 5.3%, other .9% <p><em>2014:</em> Hage GEINGOB elected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 86.7%, McHenry VENAANI (DTA) 5%, Hidipo HAMUTENYA (RDP) 3.4%, Asser MBAI (NUDO)1.9%, Henk MUDGE (RP) 1%, other 2%</p><br>
 
 **Legislative branch**<br>
@@ -693,7 +693,7 @@ the NDF's inventory consists of a mix of Soviet-era and some more modern systems
 <strong>note:</strong> as of 2018, women comprised more than 20% of the active duty military<br>
 
 **Military - note**<br>
-the NDF’s primary responsibility is external security; it has participated in UN and regional peacekeeping and security missions and provides assistance to civil authorities as needed; it is a small and professional force that participates in multinational training exercises; the Army fields a largely mobile force centered on 3 small motorized infantry brigades and a reconnaissance regiment; the Navy has a Chinese-built multipurpose offshore patrol ship equipped with a helicopter landing platform and supported by several coastal patrol vessels, while the Air Force has a small inventory of aircraft, including a few Chinese-made fighters and Soviet-era attack helicopters <br><br>the NDF was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF (2023)<br>
+the NDF’s primary responsibility is external security; it has participated in UN and regional peacekeeping and security missions and provides assistance to civil authorities as needed; it participates in multinational training exercises; the Army fields a largely mobile force centered on three small motorized infantry brigades and a reconnaissance regiment; the Navy has a Chinese-built multipurpose offshore patrol ship equipped with a helicopter landing platform and supported by several coastal patrol vessels, while the Air Force has a small inventory of aircraft, including a few Chinese-made fighters and Soviet-era attack helicopters <br><br>the NDF was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF (2023)<br>
 
 ## Transnational Issues
 

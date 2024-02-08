@@ -514,7 +514,7 @@ _major seaport(s)_: Little Bay, Plymouth<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Royal Montserrat Defense Force (ceremonial, civil defense duties), Montserrat Police Force<br>
+no regular military forces; Royal Montserrat Defense Force (ceremonial, civil defense duties), Montserrat Police Force (2024)<br>
 
 **Military - note**<br>
 defense is the responsibility of the UK<br>
