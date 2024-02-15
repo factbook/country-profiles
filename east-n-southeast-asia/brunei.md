@@ -321,7 +321,7 @@ _elections/appointments_: none; the monarchy is hereditary<br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (33 seats; 20 members appointed by the sultan from ex-officio cabinet ministers, titled people, and prominent citizens in public service and various professional fields, 13 members from 4 multi-seat constituencies, and 3 ex-officio members - the speaker and first and second secretaries); members serve 5-year terms<br>
-_elections_: January 2017 - appointed by the sultan<br>
+_elections_: January 2023 - appointed by the sultan<br>
 _election results_: Legislative Council last appointed January 2023; composition men 30, women 4, percent of women 11.8%<br>
 
 **Judicial branch**<br>
@@ -621,8 +621,8 @@ _unpaved_: 417 km (2014)<br>
 209 km (2012) (navigable by craft drawing less than 1.2 m; the Belait, Brunei, and Tutong Rivers are major transport links)<br>
 
 **Merchant marine**<br>
-_total_: 98 (2022)<br>
-_by type_: general cargo 18, oil tanker 3, other 77<br>
+_total_: 97 (2023)<br>
+_by type_: general cargo 18, oil tanker 2, other 77<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Muara<br>

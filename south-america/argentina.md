@@ -683,16 +683,16 @@ _other airports_: 125<br>
 _total_: 17,866 km (2018)<br>
 
 **Roadways**<br>
-_total_: 281,290 km<br>
-_paved_: 117,616 km<br>
-_unpaved_: 163,674 km (2017)<br>
+_total_: 240,000 km<br>
+_paved_: 81,355 km<br>
+_unpaved_: 158,645 km (2017)<br>
 
 **Waterways**<br>
 11,000 km (2012)<br>
 
 **Merchant marine**<br>
-_total_: 203 (2022)<br>
-_by type_: container ship 1, bulk carrier 1 general cargo 8, oil tanker 33, other 160<br>
+_total_: 201 (2023)<br>
+_by type_: container ship 1, bulk carrier 1 general cargo 8, oil tanker 33, other 158<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Ushuaia<br>

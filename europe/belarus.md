@@ -673,7 +673,7 @@ _total_: 86,600 km (2017)<br>
 2,500 km (2011) (major rivers are the west-flowing Western Dvina and Neman Rivers and the south-flowing Dnepr River and its tributaries, the Berezina, Sozh, and Pripyat Rivers)<br>
 
 **Merchant marine**<br>
-_total_: 4 (2022)<br>
+_total_: 4 (2023)<br>
 _by type_: other 4<br>
 
 **Ports and terminals**<br>

@@ -631,8 +631,8 @@ _unpaved_: 3,196 km (2019)<br>
 330 km (2012) (the Berbice, Demerara, and Essequibo Rivers are navigable by oceangoing vessels for 150 km, 100 km, and 80 km respectively)<br>
 
 **Merchant marine**<br>
-_total_: 89 (2022)<br>
-_by type_: bulk carrier 1, general cargo 45, oil tanker 12, other 31<br>
+_total_: 80 (2023)<br>
+_by type_: general cargo 45, oil tanker 10, other 25<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Georgetown<br>

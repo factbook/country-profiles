@@ -673,8 +673,8 @@ _total_: 228,863 km (2021)<br>
 2,400 km (2012) (used for commercial traffic; of limited overall value compared to road and rail)<br>
 
 **Merchant marine**<br>
-_total_: 1,266 (2022)<br>
-_by type_: bulk carrier 20, container ship 6, general cargo 107, oil tanker 102, other 1,031<br>
+_total_: 1,276 (2023)<br>
+_by type_: bulk carrier 17, container ship 6, general cargo 109, oil tanker 95, other 1,049<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice<br>

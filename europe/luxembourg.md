@@ -642,14 +642,14 @@ LX<br>
 _total_: 271 km (2020) 262 km electrified<br>
 
 **Roadways**<br>
-_total_: 2,875 km (2019)<br>
+_total_: 2,746 km (2022)<br>
 
 **Waterways**<br>
 37 km (2010) (on Moselle River)<br>
 
 **Merchant marine**<br>
-_total_: 149 (2022)<br>
-_by type_: bulk carrier 4, container ship 1, general cargo 27, oil tanker 3, other 114<br>
+_total_: 147 (2023)<br>
+_by type_: bulk carrier 3, container ship 1, general cargo 24, oil tanker 4, other 115<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Mertert (Moselle)<br>
@@ -657,7 +657,7 @@ _river port(s)_: Mertert (Moselle)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Luxembourg Army (l'Armée Luxembourgeoise) (2023)<br>
+Luxembourg Army (l'Armée Luxembourgeoise) (2024)<br>
 <strong>note:</strong> the Grand Ducal Police maintain internal security and report to the Ministry of Internal Security<br>
 
 **Military expenditures**<br>
@@ -678,7 +678,7 @@ the inventory of Luxembourg's Army is a small mix of Western origin equipment (2
 <strong>note 1: </strong>since 2003, the Army has allowed EU citizens 18-24 years of age who have been a resident in the country for at least 36 months to volunteer<strong><br><br>note 2:</strong> 2023, women made up about 12% of the military's full-time personnel<br>
 
 **Military - note**<br>
-founded in 1881, the Luxembourg Army is responsible for the defense of the country and fulfilling the Grand Duchy’s commitments to NATO, European security, and international peacekeeping, as well as providing support to civil authorities in the event of emergencies, such as floods or disease outbreaks; the Army is an active participant in EU, NATO, and UN missions and has contributed small numbers of troops to multinational operations in such places as Afghanistan, Bosnia and Herzegovina, Chad, Croatia, the Democratic Republic of the Congo, Iraq, Kosovo, Lebanon, North Macedonia, Mali, Mozambique, and Uganda; it trains and exercises regularly with EU and NATO partners and has contributed to the NATO battlegroup forward deployed in Lithuania since 2017; Luxembourg was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) establishing NATO in 1949<br><br>the combat forces of the Luxembourg Army are two companies of infantry and reconnaissance troops; the Army has no combat aircraft; in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries (2023)<br>
+founded in 1881, the Luxembourg Army is responsible for the defense of the country and fulfilling the Grand Duchy’s commitments to NATO, European security, and international peacekeeping, as well as providing support to civil authorities in the event of emergencies, such as floods or disease outbreaks; the Army is an active participant in EU, NATO, and UN missions and has contributed small numbers of troops to multinational operations in such places as Afghanistan, Bosnia and Herzegovina, Chad, Croatia, the Democratic Republic of the Congo, Iraq, Kosovo, Lebanon, North Macedonia, Mali, Mozambique, and Uganda; it trains and exercises regularly with EU and NATO partners and has contributed to the NATO battlegroup forward deployed in Lithuania since 2017; Luxembourg was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) establishing NATO in 1949<br><br>the combat forces of the Luxembourg Army are two companies of infantry and reconnaissance troops; the Army has no combat aircraft; in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries (2024)<br>
 
 ## Space
 

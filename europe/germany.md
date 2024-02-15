@@ -691,8 +691,8 @@ _paved_: 830,000 km (2022) (includes 13,155 km of expressways)<br>
 7,300 km (2022) (Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea)<br>
 
 **Merchant marine**<br>
-_total_: 592 (2022)<br>
-_by type_: bulk carrier 1, container ship 72, general cargo 79, oil tanker 34, other 406<br>
+_total_: 595 (2023)<br>
+_by type_: bulk carrier 1, container ship 69, general cargo 82, oil tanker 32, other 411<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: <br><em>Baltic Sea:</em> Kiel, Rostock<br><em>North Sea:</em> Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven<br>

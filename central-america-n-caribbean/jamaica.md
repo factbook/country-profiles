@@ -623,8 +623,8 @@ _number of registered air carriers_: 0 (2020)<br>
 _total_: 25,595 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 36 (2022)<br>
-_by type_: bulk carrier 1, general cargo 9, oil tanker 1, other 25<br>
+_total_: 40 (2023)<br>
+_by type_: bulk carrier 1, general cargo 11, oil tanker 1, other 27<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port Antonio, Port Esquivel, Port Kaiser, Rocky Point<br>

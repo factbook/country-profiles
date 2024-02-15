@@ -662,8 +662,8 @@ _total_: 83,821 km (2022)<br>
 441 km (2007) (navigable year-round)<br>
 
 **Merchant marine**<br>
-_total_: 62 (2022)<br>
-_by type_: container ship 4, general cargo 22, oil tanker 2, other 34<br>
+_total_: 59 (2023)<br>
+_by type_: container ship 3, general cargo 19, oil tanker 2, other 35<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Klaipeda<br>

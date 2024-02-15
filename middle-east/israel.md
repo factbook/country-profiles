@@ -667,8 +667,8 @@ _total_: 20,391 km (2021)<br>
 _paved_: 20,391 km (2021) (includes 449 km of expressways)<br>
 
 **Merchant marine**<br>
-_total_: 45 (2022)<br>
-_by type_: container ship 6, general cargo 2, oil tanker 4, other 33<br>
+_total_: 41 (2023)<br>
+_by type_: container ship 4, general cargo 1, oil tanker 4, other 32<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ashdod, Elat (Eilat), Hadera, Haifa<br>

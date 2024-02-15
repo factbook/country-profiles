@@ -662,8 +662,8 @@ _unpaved_: 11,375 km (2012) (1,543 km summer only)<br>
 465 km (2012) (most navigable only by small craft)<br>
 
 **Merchant marine**<br>
-_total_: 505 (2022)<br>
-_by type_: general cargo 246, oil tanker 82, other 177<br>
+_total_: 489 (2023)<br>
+_by type_: general cargo 233, oil tanker 82, other 174<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: La Ceiba, Puerto Cortes, San Lorenzo, Tela<br>

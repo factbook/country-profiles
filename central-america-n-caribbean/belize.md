@@ -635,8 +635,8 @@ _unpaved_: 2,680 km (2017)<br>
 825 km (2011) (navigable only by small craft)<br>
 
 **Merchant marine**<br>
-_total_: 817 (2022)<br>
-_by type_: bulk carrier 51, general cargo 433, oil tanker 67, other 266<br>
+_total_: 774 (2023)<br>
+_by type_: bulk carrier 49, general cargo 410, oil tanker 64, other 251<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Belize City, Big Creek<br>

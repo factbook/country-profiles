@@ -637,7 +637,7 @@ HH<br>
 _total_: 3,875 km (2022)<br>
 
 **Merchant marine**<br>
-_total_: 4 (2022)<br>
+_total_: 4 (2023)<br>
 _by type_: general cargo 3, other 1<br>
 
 **Ports and terminals**<br>

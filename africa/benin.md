@@ -664,8 +664,8 @@ _total_: 16,000 km (2018)<br>
 150 km (2011) (seasonal navigation on River Niger along northern border)<br>
 
 **Merchant marine**<br>
-_total_: 7 (2022)<br>
-_by type_: other 7<br>
+_total_: 6 (2023)<br>
+_by type_: other 6<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cotonou<br>

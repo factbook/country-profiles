@@ -665,8 +665,8 @@ _paved_: 9,872 km (2002)<br>
 _unpaved_: 9,833 km (2002)<br>
 
 **Merchant marine**<br>
-_total_: 38 (2022)<br>
-_by type_: container ship 1, general cargo 2, oil tanker 1, other 34<br>
+_total_: 40 (2023)<br>
+_by type_: container ship 1, general cargo 2, oil tanker 1, other 36<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Puerto Haina, Puerto Plata, Santo Domingo<br>

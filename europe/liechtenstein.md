@@ -485,7 +485,7 @@ _standard gauge_: 9 km (2018) 1.435-m gauge (electrified)<br>
 <strong>note:</strong> belongs to the Austrian Railway System connecting Austria and Switzerland<br>
 
 **Roadways**<br>
-_total_: 630 km (2019)<br>
+_total_: 420 km (2022)<br>
 
 **Waterways**<br>
 28 km (2010)<br>

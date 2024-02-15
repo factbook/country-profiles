@@ -566,8 +566,8 @@ _paved_: 762 km (2018)<br>
 _unpaved_: 750 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 84 (2022)<br>
-_by type_: general cargo 31, oil tanker 13, other 40<br>
+_total_: 77 (2023)<br>
+_by type_: general cargo 26, oil tanker 10, other 41<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Portsmouth, Roseau<br>
@@ -583,7 +583,7 @@ Dominica has been a member of the Caribbean Regional Security System (RSS) since
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Dominica is the only Caribbean state to challenge Venezuela's sovereignty claim over Aves Island and joins the other island nations in challenging whether the feature sustains human habitation, a criterion under the UN Convention on the Law of the Sea, which permits Venezuela to extend its EEZ and continental shelf claims over a large portion of the eastern Caribbean Sea</p><br>
+<p><em>Dominica-Venezuela: </em>is the only Caribbean state to challenge Venezuela's sovereignty claim over Aves Island, which permits Venezuela to extend its EEZ and continental shelf claims over a large portion of the eastern Caribbean Sea</p><br>
 
 **Illicit drugs**<br>
 <p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>

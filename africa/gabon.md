@@ -88,13 +88,13 @@ _noun_: Gabonese (singular and plural)<br>
 _adjective_: Gabonese<br>
 
 **Ethnic groups**<br>
-Gabonese-born 80.1% (includes Fang 23.2%, Shira-Punu/Vili 18.9%, Nzabi-Duma 11.3%, Mbede-Teke 6.9%, Myene 5%, Kota-Kele 4.9%, Okande-Tsogo 2.1%, Pygmy 0.3%, other 7.5%), Cameroonian 4.6%, Malian 2.4%, Beninese 2.1%, acquired Gabonese nationality 1.6%, Togolese 1.6%, Senegalese 1.1%, Congolese (Brazzaville) 1%, other 5.5% (includes Congolese (Kinshasa), Equatorial Guinean, Nigerian) (2012 est.)<br>
+Fang 23.5%, Shira-Punu'Vii 20.6%, Nzabi-Duma 11.2%, Mbede-Teke 5.6%, Myene 4.4%, Kota-Kele 4.3%, Okande-Tsogho 1.6%, other 12.6%, foreigner 16.2% (2021 est.)<br>
 
 **Languages**<br>
 French (official), Fang, Myene, Nzebi, Bapounou/Eschira, Bandjabi<br>
 
 **Religions**<br>
-Roman Catholic 42.3%, Protestant 12.3%, other Christian 27.4%, Muslim 9.8%, animist 0.6%, other 0.5%, none/no answer 7.1% (2012 est.)<br>
+Protestant 46.4% (Revival Church 37%, other Protestant 9.4%), Roman Catholic 29.8%, other Christian 4%, Muslim 10.8%, traditional/animist 1.1%, other 0.9%, none 7% (2019-21 est.)<br>
 
 **Demographic profile**<br>
 <p>Gabon’s oil revenues have given it one of the highest per capita income levels in Sub-Saharan Africa, but the wealth is not evenly distributed and poverty is widespread. Unemployment is especially prevalent among the large youth population; more than 60% of the population is under the age of 25 as of 2020. With a fertility rate still averaging more than 3 children per woman, the youth population will continue to grow and further strain the mismatch between Gabon’s supply of jobs and the skills of its labor force.</p> <p>Gabon has been a magnet to migrants from neighboring countries since the 1960s because of the discovery of oil, as well as the country’s political stability and timber, mineral, and natural gas resources. Nonetheless, income inequality and high unemployment have created slums in Libreville full of migrant workers from Senegal, Nigeria, Cameroon, Benin, Togo, and elsewhere in West Africa. In 2011, Gabon declared an end to refugee status for 9,500 remaining Congolese nationals to whom it had granted asylum during the Republic of the Congo’s civil war between 1997 and 2003. About 5,400 of these refugees received permits to reside in Gabon.</p><br>
@@ -649,8 +649,8 @@ _unpaved_: 13,400 km (2001)<br>
 1,600 km (2010) (310 km on Ogooue River)<br>
 
 **Merchant marine**<br>
-_total_: 71 (2022)<br>
-_by type_: bulk carrier 2, general cargo 19, oil tanker 20, other 30<br>
+_total_: 87 (2023)<br>
+_by type_: bulk carrier 1, general cargo 19, oil tanker 30, other 37<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Libreville, Owendo, Port-Gentil<br>
@@ -659,7 +659,7 @@ _oil terminal(s)_: Gamba, Lucina<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka Gabonese Defense and Security Forces): Land Forces (Army), National Navy, Air Force, National Gendarmerie (includes Coast Guard), Corps of Firemen; Republican Guard (2023)<br>
+Gabonese Armed Forces (Force Armées Gabonaise or FAG; aka Gabonese Defense and Security Forces): Land Forces (Army), National Navy, Air Force, National Gendarmerie (includes Coast Guard), Corps of Firemen; Republican Guard (2024)<br>
 <strong>note: </strong>the National Police Forces, under the Ministry of Interior, and the National Gendarmerie, under the Ministry of Defense, are responsible for law enforcement and public security; elements of the armed forces and the Republican Guard, an elite unit that protects the president under his direct authority, sometimes perform internal security functions<br>
 
 **Military expenditures**<br>

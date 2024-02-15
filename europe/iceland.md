@@ -630,8 +630,8 @@ TF<br>
 _total_: 12,905 km (2021)<br>
 
 **Merchant marine**<br>
-_total_: 40 (2022)<br>
-_by type_: general cargo 5, oil tanker 2, other 33<br>
+_total_: 39 (2023)<br>
+_by type_: general cargo 5, oil tanker 2, other 32<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Grundartangi, Hafnarfjordur, Reykjavik<br>

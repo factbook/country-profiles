@@ -696,8 +696,8 @@ _unpaved_: 213,505 km (2011)<br>
 21,579 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 11,015 (2022)<br>
-_by type_: bulk carrier 154, container ship 218, general cargo 2,310, oil tanker 700, other 7,633<br>
+_total_: 11,422 (2023)<br>
+_by type_: bulk carrier 160, container ship 219, general cargo 2,347, oil tanker 714, other 7,982<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok<br>

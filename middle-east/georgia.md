@@ -654,11 +654,11 @@ _narrow gauge_: 37 km (2014) 0.912-m gauge (37 km electrified)<br>
 _broad gauge_: 1,326 km (2014) 1.520-m gauge (1,251 km electrified)<br>
 
 **Roadways**<br>
-_total_: 20,295 km (2018)<br>
+_total_: 40,044 km (2021)<br>
 
 **Merchant marine**<br>
-_total_: 24 (2022)<br>
-_by type_: general cargo 3, other 21<br>
+_total_: 26 (2023)<br>
+_by type_: general cargo 3, other 23<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Black Sea - Batumi, Poti<br>

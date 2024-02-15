@@ -547,8 +547,8 @@ _total_: 428 km (2017)<br>
 _paved_: 428 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 1 (2022)<br>
-_by type_: other 1<br>
+_total_: 5 (2023)<br>
+_by type_: other 5<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Macau<br>

@@ -692,8 +692,8 @@ _non-urban_: 144,973 km (2015)<br>
 15,000 km (2011) (including the Congo River, its tributaries, and unconnected lakes)<br>
 
 **Merchant marine**<br>
-_total_: 23 (2022)<br>
-_by type_: general cargo 5, oil tanker 2, other 16<br>
+_total_: 24 (2023)<br>
+_by type_: general cargo 5, oil tanker 2, other 17<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Banana<br>

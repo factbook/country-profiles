@@ -652,14 +652,14 @@ _total_: 424 km (2017)<br>
 2021-All the trains in the country suspended<br>
 
 **Roadways**<br>
-_total_: 3,945 km (2018)<br>
+_total_: 3,581 km (2022)<br>
 
 **Waterways**<br>
 41 km (2011) (on the Bojana River)<br>
 
 **Merchant marine**<br>
-_total_: 69 (2022)<br>
-_by type_: general cargo 47, oil tanker 1, other 21<br>
+_total_: 69 (2023)<br>
+_by type_: general cargo 46, oil tanker 1, other 22<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Durres, Sarande, Shengjin, Vlore<br>

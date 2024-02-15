@@ -523,7 +523,7 @@ N<br>
 _total_: 1,045 km (2008)<br>
 
 **Merchant marine**<br>
-_total_: 3 (2022)<br>
+_total_: 3 (2023)<br>
 _by type_: other 3<br>
 
 **Ports and terminals**<br>

@@ -302,7 +302,7 @@ _chief of state_: President Hilda C. HEINE (since 3 January 2023); note - the pr
 _head of government_: President Hilda C. HEINE (since 3 January 2023)<br>
 _cabinet_: Cabinet nominated by the president from among members of the Nitijela, appointed by Nitijela speaker<br>
 _elections/appointments_: president indirectly elected by the Nitijela from among its members for a 4-year term (no term limits); election last held on 2 January 2023 (next to be held in 2027)<br>
-_election results_: <em>2023: </em>Hilda C. HEINE elected president; National Parliament vote - Hilda C. HEINE 17, David KABUA 16<br><br><em>2020: </em>David KABUA elected president; National Parliament vote - David KABUA 20, Hilda C. HEINE 12  <br>
+_election results_: <em>2023: </em>Hilda C. HEINE elected president; National Parliament vote - Hilda C. HEINE (independent) 17, David KABUA (independent) 16<br><br><em>2020: </em>David KABUA elected president; National Parliament vote - David KABUA (independent) 20, Hilda C. HEINE (independent) 12<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament consists of:<br>Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - the Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms<br>

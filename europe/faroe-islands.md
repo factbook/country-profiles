@@ -530,8 +530,8 @@ _unpaved_: 460 km (2017)<br>
 <strong>note:</strong> those islands not connected by roads (bridges or tunnels) are connected by seven different ferry links operated by the nationally owned company SSL; 28 km of tunnels<br>
 
 **Merchant marine**<br>
-_total_: 91 (2022)<br>
-_by type_: container ships 6, general cargo 43, other 42<br>
+_total_: 91 (2023)<br>
+_by type_: container ships 6, general cargo 45, other 40<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Fuglafjordur, Torshavn, Vagur<br>

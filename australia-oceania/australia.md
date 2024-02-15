@@ -687,8 +687,8 @@ _non-urban_: 727,645 km (2015)<br>
 2,000 km (2011) (mainly used for recreation on Murray and Murray-Darling River systems)<br>
 
 **Merchant marine**<br>
-_total_: 587 (2022)<br>
-_by type_: bulk carrier 2, general cargo 77, oil tanker 6, other 502<br>
+_total_: 604 (2023)<br>
+_by type_: bulk carrier 2, general cargo 76, oil tanker 6, other 520<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: <em><br>Indian Ocean:</em> Adelaide, Darwin, Fremantle, Geelong, Melbourne<br><em>Pacific Ocean:</em> Brisbane, Cairns, Gladstone, Hobart, Newcastle, Port Port Kembla, Sydney<br>

@@ -340,7 +340,7 @@ _residency requirement for naturalization_: 8 years<br>
 18 years of age, 16 if married and marriage is registered in Hungary; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Katalin NOVAK (since 10 May 2022)<br>
+_chief of state_: (vacant); note - President Katalin NOVAK resigned on 10 February 2024; a replacement will be chosen in March 2024<br>
 _head of government_: Prime Minister Viktor ORBAN (since 29 May 2010)<br>
 _cabinet_: Cabinet of Ministers proposed by the prime minister and appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 11 March 2022 (next to be held in spring 2027); prime minister elected by the National Assembly on the recommendation of the president; election last held on 3 April 2022 (next to be held in April or May 2027)<br>
@@ -680,7 +680,7 @@ _total_: 216,443 km (2022)<br>
 1,622 km (2011) (most on Danube River)<br>
 
 **Merchant marine**<br>
-_total_: 1 (2022)<br>
+_total_: 1 (2023)<br>
 _by type_: other 1<br>
 
 **Ports and terminals**<br>
@@ -737,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Hungary and Slovakia have a long-running dispute over the implementation of a 1970s Soviet-era hydropower project on the Danube, the Gabčíkovo-Nagymaros project </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 65,585 (Ukraine) (as of 23 January 2024)<br>
+_refugees (country of origin)_: 65,585 (Ukraine) (as of 31 January 2024)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

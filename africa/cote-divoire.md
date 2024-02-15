@@ -681,7 +681,7 @@ _unpaved_: 75,494 km (2007)<br>
 980 km (2011) (navigable rivers, canals, and numerous coastal lagoons)<br>
 
 **Merchant marine**<br>
-_total_: 25 (2022)<br>
+_total_: 25 (2023)<br>
 _by type_: oil tanker 2, other 23<br>
 
 **Ports and terminals**<br>

@@ -485,8 +485,8 @@ _total_: 29 km (2007)<br>
 _paved_: 29 km (2007)<br>
 
 **Merchant marine**<br>
-_total_: 155 (2022)<br>
-_by type_: bulk carrier 8, container ship 12, general cargo 36, oil tanker 16, other 83<br>
+_total_: 129 (2023)<br>
+_by type_: bulk carrier 8, container ship 5, general cargo 31, oil tanker 16, other 69<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Gibraltar<br>

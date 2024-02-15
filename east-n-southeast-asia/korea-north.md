@@ -601,8 +601,8 @@ _unpaved_: 24,830 km (2006)<br>
 2,250 km (2011) (most navigable only by small craft)<br>
 
 **Merchant marine**<br>
-_total_: 270 (2022)<br>
-_by type_: bulk carrier 9, container ship 5, general cargo 193, oil tanker 33, other 30<br>
+_total_: 264 (2023)<br>
+_by type_: bulk carrier 10, container ship 5, general cargo 191, oil tanker 29, other 29<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong (formerly Unggi), Wonsan<br>

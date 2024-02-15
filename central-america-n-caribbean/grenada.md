@@ -585,7 +585,7 @@ _paved_: 902 km (2017)<br>
 _unpaved_: 225 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 6 (2022)<br>
+_total_: 6 (2023)<br>
 _by type_: general cargo 3, other 3<br>
 
 **Ports and terminals**<br>

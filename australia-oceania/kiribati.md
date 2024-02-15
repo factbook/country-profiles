@@ -605,8 +605,8 @@ _total_: 670 km (2017)<br>
 5 km (2012) (small network of canals in Line Islands)<br>
 
 **Merchant marine**<br>
-_total_: 90 (2022)<br>
-_by type_: bulk carrier 3, general cargo 35, oil tanker 11, other 41<br>
+_total_: 74 (2023)<br>
+_by type_: bulk carrier 2, general cargo 24, oil tanker 11, other 37<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Betio (Tarawa Atoll), Canton Island, English Harbor<br>

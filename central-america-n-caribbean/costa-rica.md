@@ -656,7 +656,7 @@ _total_: 5,035 km (2017)<br>
 730 km (2011) (seasonally navigable by small craft)<br>
 
 **Merchant marine**<br>
-_total_: 11 (2022)<br>
+_total_: 11 (2023)<br>
 _by type_: other 11<br>
 
 **Ports and terminals**<br>

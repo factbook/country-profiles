@@ -652,8 +652,8 @@ _narrow gauge_: 82 km (2017) 1.050-m gauge<br>
 _total_: 21,705 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 49 (2022)<br>
-_by type_: bulk carrier 2, general cargo 32, oil tanker 1, other 14<br>
+_total_: 51 (2023)<br>
+_by type_: bulk carrier 2, container ship 1, general cargo 30, oil tanker 1, other 17<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Beirut, Tripoli<br>

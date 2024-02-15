@@ -339,7 +339,7 @@ _chief of state_: President Andry RAJOELINA (since 21 January 2019)<br>
 _head of government_: Prime Minister Christian NTSAY (since 6 June 2018)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 16 November 2023 (next to be held in November 2028); prime minister nominated by the National Assembly, appointed by the president<br>
-_election results_: <em><br>2023</em>: Andry RAJOELINA elected president in first round; percent of vote - Andry RAJOELINA (TGV) 59.0%, Siteny Thierry RANDRIANASOLONIAIKO 14.3%, Marc RAVALOMANANA (TIM) 12.1%<br><em><br>2018</em>: Andry RAJOELINA elected president in second round; percent of vote in first round - Andry RAJOELINA (TGV) 39.2%, Marc RAVALOMANANA (TIM) 35.4%, other 25.4%; percent of vote in second round - Andry RAJOELINA 55.7%, Marc RAVALOMANANA 44.3%<br>
+_election results_: <em><br>2023</em>: Andry RAJOELINA reelected president in first round; percent of vote - Andry RAJOELINA (TGV) 59.0%, Siteny Thierry RANDRIANASOLONIAIKO 14.3%, Marc RAVALOMANANA (TIM) 12.1%<br><em><br>2018</em>: Andry RAJOELINA elected president in second round; percent of vote in first round - Andry RAJOELINA (TGV) 39.2%, Marc RAVALOMANANA (TIM) 35.4%, other 25.4%; percent of vote in second round - Andry RAJOELINA 55.7%, Marc RAVALOMANANA 44.3%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Antenimierandoholona  (18 seats; 12 members indirectly elected by an electoral college of municipal, communal, regional, and provincial leaders and 6 appointed by the president; members serve 5-year terms)<br>National Assembly or Antenimierampirenena (151 seats; 87 members directly elected in single-seat constituencies by simple majority vote and 64 directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 5-year terms)<br>
@@ -650,8 +650,8 @@ _total_: 31,640 km (2017)<br>
 600 km (2011) (432 km navigable)<br>
 
 **Merchant marine**<br>
-_total_: 28 (2022)<br>
-_by type_: general cargo 15, oil tanker 2, other 11<br>
+_total_: 29 (2023)<br>
+_by type_: general cargo 16, oil tanker 2, other 11<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (Tulear)<br>

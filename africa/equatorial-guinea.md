@@ -605,8 +605,8 @@ _annual freight traffic on registered air carriers_: 350,000 (2018) mt-km<br>
 _total_: 2,880 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 46 (2022)<br>
-_by type_: bulk carrier 1, general cargo 12, oil tanker 7, other 26<br>
+_total_: 53 (2023)<br>
+_by type_: bulk carrier 1, general cargo 16, oil tanker 7, other 29<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bata, Luba, Malabo<br>
@@ -615,7 +615,7 @@ _LNG terminal(s) (export)_: Bioko Island<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equatorial Guinea National Guard (Guardia Nacional de Guinea Ecuatorial, GNGE (Army)), Navy, Air Force; Gendarmerie (Guardia Civil) (2023)<br>
+Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equatorial Guinea National Guard (Guardia Nacional de Guinea Ecuatorial, GNGE (Army)), Navy, Air Force; Gendarmerie (Guardia Civil) (2024)<br>
 <strong>note:</strong> police report to the Ministry of National Security, while gendarmes report to the Ministry of National Defense; police generally are responsible for maintaining law and order in the cities, while gendarmes are responsible for security outside cities and for special events; military personnel also fulfill some police functions in border areas, sensitive sites, and high-traffic areas<br>
 
 **Military expenditures**<br>

@@ -662,8 +662,8 @@ _unpaved_: 28,234 km (2010)<br>
 7,200 km (2011) (Peninsular Malaysia 3,200 km; Sabah 1,500 km; Sarawak 2,500 km)<br>
 
 **Merchant marine**<br>
-_total_: 1,790 (2022)<br>
-_by type_: bulk carrier 14, container ship 33, general cargo 181, oil tanker 156, other 1,406<br>
+_total_: 1,750 (2023)<br>
+_by type_: bulk carrier 14, container ship 35, general cargo 169, oil tanker 148, other 1,384<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bintulu, Johor Bahru, George Town (Penang), Pelabuhan Klang (Port Klang), Tanjung Pelepas<br>

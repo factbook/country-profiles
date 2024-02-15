@@ -628,7 +628,7 @@ _major seaport(s)_: Victoria<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Seychelles Defense Forces (SDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force<br><br>Ministry of Internal Affairs: Seychelles Police Force (includes unarmed police and an armed paramilitary Police Special Support Wing, and the Marine Police Unit) (2023)<br>
+Seychelles Defense Forces (SDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force<br><br>Ministry of Internal Affairs: Seychelles Police Force (includes unarmed police and an armed paramilitary Police Special Support Wing, and the Marine Police Unit) (2024)<br>
 <strong>note:</strong> the SDF reports to the president, who acts as minister of defense  <br>
 
 **Military expenditures**<br>

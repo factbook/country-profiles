@@ -673,8 +673,8 @@ _unpaved_: 46,810 km (2021)<br>
 3,700 km (2012) (mainly on Mekong River)<br>
 
 **Merchant marine**<br>
-_total_: 242 (2022)<br>
-_by type_: container ship 2, general cargo 159, oil tanker 18, other 63<br>
+_total_: 195 (2023)<br>
+_by type_: container ship 2, general cargo 123, oil tanker 18, other 52<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Sihanoukville (Kampong Saom)<br>

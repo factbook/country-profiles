@@ -336,7 +336,7 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 
 **Legislative branch**<br>
 _description_: unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)<br>
-_elections_: last held on 1 November 2022 (next to be held on 31 October 2026)<br>
+_elections_: last held on 1 November 2022 (next to be held by 31 October 2026)<br>
 _election results_: <br>percent of vote by party - SDP 27.5%, V 13.3%, M 9.3%, SF 8.3%, E 8.1%, LA 8.1%, C 5.5%, EL 5.1%, SLP 3.8%, AP 3.3%, NB 3.3%, DF 2.6%; seats by party - SDP 50, V 23, M 16, SF 15, E 14, LA 14, C 10, EL 9, SLP 7, AP 6, NB 6, DF 5; composition as of January 2024 - men 98, women 81, percent of women 45.3%<br>
 
 **Judicial branch**<br>
@@ -656,8 +656,8 @@ _total_: 73,591 km (2022)<br>
 400 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 731 (2022)<br>
-_by type_: bulk carrier 13, container ship 137, general cargo 70, oil tanker 118, other 393<br>
+_total_: 715 (2023)<br>
+_by type_: bulk carrier 15, container ship 132, general cargo 69, oil tanker 107, other 392<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Baltic Sea - Aarhus, Copenhagen, Fredericia, Kalundborg<br>
@@ -720,6 +720,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; in 2019, Denmark signed continental shelf delimitation agreements with Iceland and Norway to parts of the continental shelf in the Ægir Basin, which is located north of the Faroe Islands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 36,635 (Ukraine) (as of 17 December 2023)<br>
+_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 36,960 (Ukraine) (as of 31 December 2023)<br>
 _stateless persons_: 11,644 (2022)<br>
 

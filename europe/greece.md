@@ -654,8 +654,8 @@ _total_: 117,000 km (2018)<br>
 6 km (2012) (the 6-km-long Corinth Canal crosses the Isthmus of Corinth; it shortens a sea voyage by 325 km)<br>
 
 **Merchant marine**<br>
-_total_: 1,234 (2022)<br>
-_by type_: bulk carrier 146, container ship 5, general cargo 83, oil tanker 311, other 689<br>
+_total_: 1,215 (2023)<br>
+_by type_: bulk carrier 132, container ship 4, general cargo 79, oil tanker 299, other 701<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Aspropyrgos, Pachi, Piraeus, Thessaloniki<br>
@@ -714,7 +714,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 <p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; Greece has a security wall along a portion of its land border with Turkey to deter border crossings by migrants and has announced intentions to extend the wall along the entire border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 25,050 (Ukraine) (as of 30 June 2023)<br>
+_refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 27,365 (Ukraine) (as of 31 December 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
 <strong>note:</strong> 1,272,420 estimated refugee and migrant arrivals (January 2015-November 2023)<br>
 

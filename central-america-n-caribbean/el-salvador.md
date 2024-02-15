@@ -82,10 +82,10 @@ _noun_: Salvadoran(s)<br>
 _adjective_: Salvadoran<br>
 
 **Ethnic groups**<br>
-Mestizo 86.3%, White 12.7%, Amerindian 0.2% (includes Lenca, Kakawira, Nahua-Pipil), Black 0.1%, other 0.6% (2007 est.)<br>
+Mestizo 86.3%, White 12.7%, Indigenous 0.2% (includes Lenca, Kakawira, Nahua-Pipil), Black 0.1%, other 0.6% (2007 est.)<br>
 
 **Languages**<br>
-Spanish (official), Nawat (among some Amerindians)<br>
+Spanish (official), Nawat (among some Indigenous)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -327,11 +327,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Acting President Claudia Juana RODR&Iacute;GUEZ de Guevara (since 1 December 2023); note - parliament granted a six-month leave of absence to President Nayib Armando BUKELE Ortez and Vice President F&eacute;lix Augusto Antonio ULLOA Garay (to allow them to participate in the 4 February 2024 presidential election) and approved the appointment of Claudia Juana RODR&Iacute;GUEZ de Guevara as acting president from 1 December 2023 to 1 June 2024, when election winner Nayib Armando BUKELE Ortez will be sworn in for a second term<br>
-_head of government_: Acting President Claudia Juana RODR&Iacute;GUEZ de Guevara (since 1 December 2023)<br>
+_chief of state_: Acting President Claudia Juana RODR&Iacute;GUEZ DE GUEVARA (since 1 December 2023); note - parliament granted a six-month leave of absence to President Nayib Armando BUKELE Ortez and Vice President F&eacute;lix Augusto Antonio ULLOA Garay (to allow them to participate in the 4 February 2024 presidential election) and approved the appointment of Claudia Juana RODR&Iacute;GUEZ DE GUEVARA as acting president from 1 December 2023 to 1 June 2024, when election winner Nayib Armando BUKELE Ortez will be sworn in for a second term<br>
+_head of government_: Acting President Claudia Juana RODR&Iacute;GUEZ DE GUEVARA (since 1 December 2023)<br>
 _cabinet_: Council of Ministers selected by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a single 5-year term; election last held on 4 February 2024 (next to be held in 2029)<br>
-_election results_: <em>2024:</em> Nayib Armando BUKELE Ortez reelected president - Nayib Armando BUKELE Ortez (Nuevas Ideas) 83.1%, Manuel FLORES (FMLN) 7%, Joel SANCHEZ (ARENA) 6.2%, Luis PARADA (NT) 2.3%, other 1.5% <em>(preliminary results with 70% of votes counted) </em><br><br><em>2019:</em> Nayib Armando BUKELE Ortez elected president - Nayib Armando BUKELE Ortez (GANA) 53.1%, Carlos CALLEJA Hakker (ARENA) 31.7%, Hugo MARTINEZ (FMLN) 14.4%, other 0.8%<br>
+_election results_: <em>2024:</em> Nayib Armando BUKELE Ortez reelected president - Nayib Armando BUKELE Ortez (Nuevas Ideas) 84.7%, Manuel FLORES (FMLN) 6.4%, Joel SANCHEZ (ARENA) 5.6%, Luis PARADA (NT) 2%, other 1.3%<br><br><em>2019:</em> Nayib Armando BUKELE Ortez elected president - Nayib Armando BUKELE Ortez (GANA) 53.1%, Carlos CALLEJA Hakker (ARENA) 31.7%, Hugo MARTINEZ (FMLN) 14.4%, other 0.8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Asamblea Legislativa (84 seats; members directly elected in multi-seat constituencies and a single nationwide constituency by open-list proportional representation vote to serve 3-year terms)<br>
@@ -661,8 +661,8 @@ _unpaved_: 3,671 km (2017)<br>
 422 km (2022) (Rio Lempa River is partially navigable by small craft)<br>
 
 **Merchant marine**<br>
-_total_: 4 (2022)<br>
-_by type_: other 4<br>
+_total_: 5 (2023)<br>
+_by type_: other 5<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Puerto Cutuco<br>

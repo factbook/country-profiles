@@ -675,8 +675,8 @@ _urban_: 28,480 km 27% total paved 73% total unpaved<br>
 1,293 km (2011) (168 km for launches and lighters on Volta, Ankobra, and Tano Rivers; 1,125 km of arterial and feeder waterways on Lake Volta)<br>
 
 **Merchant marine**<br>
-_total_: 52 (2022)<br>
-_by type_: general cargo 7, oil tanker 3, other 42<br>
+_total_: 52 (2023)<br>
+_by type_: general cargo 8, oil tanker 3, other 41<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Takoradi, Tema<br>

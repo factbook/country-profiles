@@ -668,8 +668,8 @@ _unpaved_: 7,633 km (2016)<br>
 1,600 km (2011) (most navigable only by small craft)<br>
 
 **Merchant marine**<br>
-_total_: 2,063 (2022)<br>
-_by type_: bulk carrier 84, container ship 99, general cargo 358, oil tanker 200, other 1,322<br>
+_total_: 2,149 (2023)<br>
+_by type_: bulk carrier 93, container ship 115, general cargo 362, oil tanker 219, other 1,360<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu<br>

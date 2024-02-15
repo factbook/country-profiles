@@ -696,8 +696,8 @@ _unpaved_: 626,700 km (2011)<br>
 636 km (2011) (Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, shared with United States)<br>
 
 **Merchant marine**<br>
-_total_: 689 (2022)<br>
-_by type_: bulk carrier 21, container ship 1, general cargo 65, oil tanker 15, other 587<br>
+_total_: 716 (2023)<br>
+_by type_: bulk carrier 22, container ship 1, general cargo 78, oil tanker 15, other 600<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Halifax, Saint John (New Brunswick), Vancouver<br>

@@ -662,13 +662,13 @@ _unpaved_: 45,929 km (2024)<br>
 4,600 km (2012) (primarily on the Mekong River and its tributaries; 2,900 additional km are intermittently navigable by craft drawing less than 0.5 m)<br>
 
 **Merchant marine**<br>
-_total_: 1 (2022)<br>
+_total_: 1 (2023)<br>
 _by type_: general cargo 1<br>
 
 ## Military and Security
 
 **Military and security forces**<br>
-Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Air Force, Self-Defense Militia Forces (2023)<br>
+Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Lao People's Air Force (LPAF), Self-Defense Militia Forces (2024)<br>
 <strong>note:</strong> the Ministry of Public Security maintains internal security and is responsible for law enforcement; it oversees local, traffic, immigration, and security police, village police auxiliaries, and other armed police units<br>
 
 **Military expenditures**<br>

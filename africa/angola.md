@@ -666,14 +666,15 @@ _narrow gauge_: 2,638 km (2022) 1.067-m gauge<br>
 123 km 0.600-mm gauge<br>
 
 **Roadways**<br>
-_total_: 76,000 km (2020)<br>
+_total_: 76,000 km<br>
+_paved_: 13,680 km (2020)<br>
 
 **Waterways**<br>
 1,300 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 58 (2022)<br>
-_by type_: general cargo 13, oil tanker 8, other 37<br>
+_total_: 64 (2023)<br>
+_by type_: general cargo 13, oil tanker 8, other 43<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cabinda, Lobito, Luanda, Namibe<br>

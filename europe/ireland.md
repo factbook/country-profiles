@@ -645,8 +645,8 @@ _total_: 102,227 km (2022)<br>
 956 km (2010) (pleasure craft only)<br>
 
 **Merchant marine**<br>
-_total_: 96 (2022)<br>
-_by type_: bulk carrier 12, general cargo 34, oil tanker 1, other 49<br>
+_total_: 94 (2023)<br>
+_by type_: bulk carrier 12, general cargo 32, oil tanker 1, other 49<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dublin, Shannon Foynes<br>

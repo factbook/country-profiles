@@ -686,8 +686,8 @@ _unpaved_: 80,776 km (2017)<br>
 10,000 km (2012) (commercially navigable almost exclusively in the northern and eastern parts of the country)<br>
 
 **Merchant marine**<br>
-_total_: 46 (2022)<br>
-_by type_: general cargo 29, oil tanker 3, other 14<br>
+_total_: 50 (2023)<br>
+_by type_: general cargo 30, oil tanker 2, other 18<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Puerto Aguirre (Paraguay/Parana)<br>

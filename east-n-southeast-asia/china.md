@@ -717,8 +717,8 @@ _unpaved_: 622,000 km (2017)<br>
 27,700 km (2020) (navigable waterways)<br>
 
 **Merchant marine**<br>
-_total_: 7,362 (2022)<br>
-_by type_: bulk carrier 1,684, container ship 355, general cargo 1,164, oil tanker 1,133, other 3,026<br>
+_total_: 8,314 (2023)<br>
+_by type_: bulk carrier 1,831, container ship 419, general cargo 1,392, oil tanker 1,196, other 3,476<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin, Xiamen<br>

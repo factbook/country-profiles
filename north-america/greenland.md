@@ -547,8 +547,8 @@ OY-H<br>
 <p><strong>note:</strong> although there are short roads in towns, there are no roads between towns; inter-urban transport is either by sea or by air</p><br>
 
 **Merchant marine**<br>
-_total_: 6 (2022)<br>
-_by type_: other 6<br>
+_total_: 10 (2023)<br>
+_by type_: other 10<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Sisimiut<br>

@@ -688,8 +688,8 @@ _unpaved_: 72,456 km (2019)<br>
 (2010) (major rivers in the south, such as the Wouri and the Sanaga, are largely non-navigable; in the north, the Benue, which connects through Nigeria to the Niger River, is navigable in the rainy season only to the port of Garoua)<br>
 
 **Merchant marine**<br>
-_total_: 121 (2022)<br>
-_by type_: bulk carrier 2, general cargo 45, oil tanker 33, other 41<br>
+_total_: 198 (2023)<br>
+_by type_: bulk carrier 2, general cargo 91, oil tanker 42, other 63<br>
 
 **Ports and terminals**<br>
 _oil terminal(s)_: Limboh Terminal<br>

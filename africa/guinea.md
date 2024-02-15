@@ -659,8 +659,8 @@ _unpaved_: 40,955 km (2018)<br>
 1,300 km (2011) (navigable by shallow-draft native craft in the northern part of the Niger River system)<br>
 
 **Merchant marine**<br>
-_total_: 3 (2022)<br>
-_by type_: general cargo 1, other 2<br>
+_total_: 23 (2022)<br>
+_by type_: other 2<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Conakry, Kamsar<br>

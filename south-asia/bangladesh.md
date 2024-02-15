@@ -348,7 +348,7 @@ _chief of state_: President Mohammad Shahabuddin CHUPPI (since 24 April 2023)<br
 _head of government_: Prime Minister Sheikh HASINA Wazed (since 6 January 2009)<br>
 _cabinet_: Cabinet selected by the prime minister, appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); election last held on 13 February 2023 (next to be held by 2028); the president appoints as prime minister the majority party leader in the National Parliament<br>
-_election results_: President Mohammad Shahabuddin CHUPPI (AL) elected unopposed by the National Parliament; Sheikh HASINA reappointed prime minister to a fourth term following the 7 January 2024 parliamentary election<br>
+_election results_: President Mohammad Shahabuddin CHUPPI (AL) elected unopposed by the National Parliament; Sheikh HASINA reappointed prime minister for a fourth term following the 7 January 2024 parliamentary election<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the House of the Nation membership by proportional representation vote using single transferable vote method; all members serve 5-year terms)<br>
@@ -693,8 +693,8 @@ _unpaved_: 258,794 km (2018)<br>
 8,370 km (2011) (includes up to 3,060 km of main cargo routes; network reduced to 5,200 km in the dry season)<br>
 
 **Merchant marine**<br>
-_total_: 511 (2022)<br>
-_by type_: bulk carrier 56, container ship 10, general cargo 150, oil tanker 152, other 143<br>
+_total_: 558 (2023)<br>
+_by type_: bulk carrier 68, container ship 10, general cargo 170, oil tanker 162, other 148<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Chattogram (Chittagong)<br>

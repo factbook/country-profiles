@@ -697,8 +697,8 @@ _unpaved_: 17,050 km (2019)<br>
 3,500 km (2018) (includes the Nile River, Lake Nasser, Alexandria-Cairo Waterway, and numerous smaller canals in Nile Delta; the Suez Canal (193.5 km including approaches) is navigable by oceangoing vessels drawing up to 17.68 m)<br>
 
 **Merchant marine**<br>
-_total_: 436 (2022)<br>
-_by type_: bulk carrier 15, container ship 6, general cargo 27, oil tanker 41, other 347<br>
+_total_: 441 (2023)<br>
+_by type_: bulk carrier 14, container ship 6, general cargo 23, oil tanker 42, other 356<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said<br>

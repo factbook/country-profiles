@@ -680,8 +680,8 @@ _total_: 19,117 km (2022)<br>
 470 km (2009)<br>
 
 **Merchant marine**<br>
-_total_: 80 (2022)<br>
-_by type_: bulk carrier 3, general cargo 14, oil tanker 8, other 55<br>
+_total_: 78 (2023)<br>
+_by type_: bulk carrier 2, general cargo 13, oil tanker 8, other 55<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Burgas, Varna (Black Sea)<br>

@@ -604,8 +604,8 @@ _paved_: 1,620 km<br>
 _unpaved_: 1,080 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 1,307 (2022)<br>
-_by type_: bulk carrier 337, container ship 40, general cargo 63, oil tanker 213, other 654<br>
+_total_: 1,274 (2023)<br>
+_by type_: bulk carrier 345, container ship 39, general cargo 58, oil tanker 193, other 639<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Freeport, Nassau, South Riding Point<br>

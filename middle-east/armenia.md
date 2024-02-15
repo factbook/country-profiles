@@ -337,7 +337,7 @@ _election results_: <br><em>2022: </em>Vahagn KHACHATURYAN elected president in 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (Parliament) or Azgayin Zhoghov (minimum 101 seats, with additional seats allocated as necessary and generally changing with each parliamentary convocation; current - 107; members directly elected in single-seat constituencies by closed party-list proportional representation vote; members serve 5-year terms; four mandates are reserved for national minorities; no more than 70% of the top membership of a party list can belong to the same sex; political parties must meet a 5% threshold and alliances a 7% threshold to win seats; at least three parties must be seated in the Parliament)<br>
 _elections_: last held early on 20 June 2021 (next to be held in June 2026)<br>
-_election results_: percent of vote by party - Civil Contract 53.9%, Armenia Alliance 21%, I Have Honour Alliance 5.2%, other 19.9%; seats by party - Civil Contract 71, Armenia Alliance 29, I Have Honour Alliance 7; composition as of January 2024 - men 68, women 39, percent of women 36.5%<br>
+_election results_: percent of vote by party/coalition - Civil Contract 53.9%, Armenia Alliance 21%, I Have Honour Alliance 5.2%, other 19.9%; seats by party/coalition - Civil Contract 71, Armenia Alliance 29, I Have Honour Alliance 7; composition as of January 2024 - men 68, women 39, percent of women 36.5%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Court of Cassation or Appeals Court (consists of the Criminal Chamber with a chairman and 5 judges and the Civil and Administrative Chamber with a chairman and 10 judges &ndash; with both civil and administrative specializations); Constitutional Court (consists of 9 judges)<br>

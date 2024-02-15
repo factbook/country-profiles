@@ -639,8 +639,8 @@ _paved_: 4,887 km (2018)<br>
 _unpaved_: 862 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 166 (2022)<br>
-_by type_: general cargo 15, oil tanker 29, other 122<br>
+_total_: 176 (2023)<br>
+_by type_: general cargo 15, oil tanker 28, other 133<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'Abd Allah, Mina' al Ahmadi<br>

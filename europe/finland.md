@@ -678,8 +678,8 @@ _urban_: 26,000 km (2012)<br>
 8,000 km (2013) (includes Saimaa Canal system of 3,577 km; southern part leased from Russia; water transport used frequently in the summer and widely replaced with sledges on the ice in winter; there are 187,888 lakes in Finland that cover 31,500 km); Finland also maintains 8,200 km of coastal fairways<br>
 
 **Merchant marine**<br>
-_total_: 278 (2022)<br>
-_by type_: bulk carrier 9, container ship 1, general cargo 74, oil tanker 5, other 189<br>
+_total_: 282 (2023)<br>
+_by type_: bulk carrier 9, general cargo 75, oil tanker 4, other 194<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma<br>
@@ -724,6 +724,6 @@ the Finnish Defense Forces (FDF) are focused primarily on territorial defense, w
 various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands<br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 61,520 (Ukraine) (as of 24 September 2023)<br>
+_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 64,750 (Ukraine) (as of 31 December 2023)<br>
 _stateless persons_: 3,546 (2022)<br>
 

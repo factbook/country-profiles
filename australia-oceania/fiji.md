@@ -631,8 +631,8 @@ _total_: 7,500 km (2023)<br>
 203 km (2012) (122 km are navigable by motorized craft and 200-metric-ton barges)<br>
 
 **Merchant marine**<br>
-_total_: 75 (2022)<br>
-_by type_: general cargo 21, oil tanker 4, other 50<br>
+_total_: 74 (2023)<br>
+_by type_: general cargo 21, oil tanker 4, other 49<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Lautoka, Levuka, Suva<br>

@@ -626,8 +626,8 @@ _other airports_: 56<br>
 _total_: 34,000 km (2021)<br>
 
 **Merchant marine**<br>
-_total_: 94 (2022)<br>
-_by type_: general cargo 2, oil tanker 12, other 80<br>
+_total_: 96 (2023)<br>
+_by type_: general cargo 2, oil tanker 13, other 81<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Marsa al Burayqah (Marsa el Brega), Tripoli<br>

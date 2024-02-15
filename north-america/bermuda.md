@@ -558,8 +558,8 @@ _paved_: 447 km (2010)<br>
 <strong>note:</strong> 225 km public roads; 222 km private roads<br>
 
 **Merchant marine**<br>
-_total_: 135 (2022)<br>
-_by type_: container ship 14, oil tanker 15, other 106<br>
+_total_: 122 (2023)<br>
+_by type_: container ship 15, oil tanker 8, other 99<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Hamilton, Ireland Island, Saint George<br>

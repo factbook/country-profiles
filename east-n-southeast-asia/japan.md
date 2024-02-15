@@ -676,8 +676,8 @@ _unpaved_: 225,937 km (2015)<br>
 1,770 km (2010) (seagoing vessels use inland seas)<br>
 
 **Merchant marine**<br>
-_total_: 5,590 (2022)<br>
-_by type_: bulk carrier 149, container ship 47, general cargo 2,071, oil tanker 690, other 2,633<br>
+_total_: 5,229 (2023)<br>
+_by type_: bulk carrier 166, container ship 49, general cargo 1,893, oil tanker 666, other 2,455<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, Tomakomai, Yokohama<br>

@@ -672,8 +672,8 @@ _paved_: 118,414 km (2015) (includes 1,747 km of expressways)<br>
 2,043 km (2012) (1,528 km in regular commercial use)<br>
 
 **Merchant marine**<br>
-_total_: 199 (2022)<br>
-_by type_: bulk carrier 18, container ship 3, general cargo 15, oil tanker 23, other 140<br>
+_total_: 198 (2023)<br>
+_by type_: bulk carrier 17, container ship 2, general cargo 16, oil tanker 21, other 142<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Oostende, Zeebrugge<br>
@@ -733,7 +733,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 73,095 (Ukraine) (as of 30 November 2023)<br>
+_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 75,055 (Ukraine) (as of 31 December 2023)<br>
 _stateless persons_: 1,190 (2022)<br>
 
 **Illicit drugs**<br>

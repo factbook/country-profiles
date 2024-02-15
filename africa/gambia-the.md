@@ -645,8 +645,8 @@ _unpaved_: 2,459 km (2011)<br>
 390 km (2010) (on River Gambia; small oceangoing vessels can reach 190 km)<br>
 
 **Merchant marine**<br>
-_total_: 9 (2022)<br>
-_by type_: general cargo 1, other 8<br>
+_total_: 15 (2023)<br>
+_by type_: general cargo 5, other 10<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Banjul<br>

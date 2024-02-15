@@ -356,7 +356,7 @@ _judge selection and term of office_: Supreme Court judges nominated by executiv
 _subordinate courts_: Courts of Appeal (4); Regional Courts (20); district courts (120); county courts<br>
 
 **Political parties and leaders**<br>
-Austrian People's Party or OeVP [Karl NEHAMMER]<br>Freedom Party of Austria or FPOe [Herbert KICKL]<br>The Greens - The Green Alternative [Werner KOGLER]<br>NEOS - The New Austria and Liberal Forum [Beate MEINL-REISINGER]<br>Social Democratic Party of Austria or SPOe [Pamela RENDI-WAGNER]<br>
+Austrian People's Party or OeVP [Karl NEHAMMER]<br>Freedom Party of Austria or FPOe [Herbert KICKL]<br>The Greens - The Green Alternative [Werner KOGLER]<br>NEOS - The New Austria and Liberal Forum [Beate MEINL-REISINGER]<br>Social Democratic Party of Austria or SPOe [Andreas BABLER]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -677,7 +677,7 @@ _total_: 126,233 km (2022)<br>
 358 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 1 (2022)<br>
+_total_: 1 (2023)<br>
 _by type_: other 1<br>
 
 **Ports and terminals**<br>
@@ -733,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 68,700 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 83,185 (Ukraine) (as of 11 December 2023)<br>
+_refugees (country of origin)_: 68,700 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 83,980 (Ukraine) (as of 31 December 2023)<br>
 _stateless persons_: 3,219 (2022)<br>
 
 **Illicit drugs**<br>

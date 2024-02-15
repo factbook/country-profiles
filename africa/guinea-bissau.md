@@ -619,8 +619,8 @@ _unpaved_: 3,947 km (2016)<br>
 1,367 km (2022) major rivers Geba- 550km, Corubal 560 km, Cacheu 257 km (rivers are partially navigable; many inlets and creeks provide shallow-water access to much of interior)<br>
 
 **Merchant marine**<br>
-_total_: 8 (2022)<br>
-_by type_: general cargo 5, other 3<br>
+_total_: 20 (2023)<br>
+_by type_: bulk carrier 3, general cargo 12, other 5<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bissau, Buba, Cacheu, Farim<br>

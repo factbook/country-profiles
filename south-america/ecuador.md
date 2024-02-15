@@ -677,8 +677,8 @@ _unpaved_: 35,055 km (2022)<br>
 1,500 km (2012) (most inaccessible)<br>
 
 **Merchant marine**<br>
-_total_: 147 (2022)<br>
-_by type_: container ship 1, general cargo 8, oil tanker 28, other 110<br>
+_total_: 154 (2023)<br>
+_by type_: container ship 1, general cargo 8, oil tanker 28, other 117<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Esmeraldas, Manta, Puerto Bolivar<br>

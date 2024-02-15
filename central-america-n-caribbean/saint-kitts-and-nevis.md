@@ -612,7 +612,7 @@ St. Kitts joined the Caribbean Regional Security System (RSS) in 1984; RSS signa
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Saint Kitts and Nevis-Venezuela</em>: joins other Caribbean states to counter Venezuela's claim that Aves Island sustains human habitation, a criterion under UN Convention on the Law of the Sea, which permits Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea</p><br>
+<p>none identified</p><br>
 
 **Illicit drugs**<br>
 <p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean; some local demand for cocaine and some use of synthetic drugs</p><br>

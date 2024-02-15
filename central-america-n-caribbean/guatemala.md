@@ -666,7 +666,7 @@ _unpaved_: 9,440 km (2022)<br>
 990 km (2012) (260 km navigable year round; additional 730 km navigable during high-water season)<br>
 
 **Merchant marine**<br>
-_total_: 9 (2022)<br>
+_total_: 9 (2023)<br>
 _by type_: oil tanker 1, other 8<br>
 
 **Ports and terminals**<br>

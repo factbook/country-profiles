@@ -344,7 +344,7 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Latif RASHID (since 13 October 2022; vice presidents (vacant)<br>
+_chief of state_: President Latif RASHID (since 13 October 2022); vice presidents (vacant)<br>
 _head of government_: Prime Minister Mohammed Shia al-SUDANI (since 27 October 2022)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, approved by Council of Representatives (COR)<br>
 _elections/appointments_: president indirectly elected by COR to serve a 4-year term (eligible for a second term); COR parliamentary election for president last held on 13 October 2022 (next to be held NA)<br>
@@ -447,7 +447,7 @@ _exports of goods and services_: 32.5% (2016 est.)<br>
 _imports of goods and services_: -40.9% (2016 est.)<br>
 
 **Agricultural products**<br>
-wheat, barley, dates, tomatoes, rice, maize, grapes, potatoes, rice, watermelons<br>
+wheat, barley, dates, tomatoes, rice, maize, grapes, potatoes, watermelons<br>
 
 **Industries**<br>
 petroleum, chemicals, textiles, leather, construction materials, food processing, fertilizer, metal fabrication/processing<br>
@@ -673,8 +673,8 @@ _total_: 58,592 km (2021)<br>
 5,279 km (2012) (the Euphrates River (2,815 km), Tigris River (1,899 km), and Third River (565 km) are the principal waterways)<br>
 
 **Merchant marine**<br>
-_total_: 75 (2022)<br>
-_by type_: general cargo 1, oil tanker 7, other 67<br>
+_total_: 74 (2023)<br>
+_by type_: general cargo 1, oil tanker 6, other 67<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Al Basrah (Shatt al Arab); Khawr az Zubayr, Umm Qasr (Khawr az Zubayr waterway)<br>

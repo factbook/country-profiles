@@ -476,17 +476,21 @@ _subscriptions per 100 inhabitants_: 53 (2020 est.)<br>
 **Railways**<br>
 <strong>note:</strong> Monaco has a single railway station but does not operate its own train service;  the French operator SNCF operates rail services in Monaco<br>
 
+**Merchant marine**<br>
+_total_: 1 (2023)<br>
+_by type_: other types of ships 1<br>
+
 **Ports and terminals**<br>
 _major seaport(s)_: Hercules Port<br>
 
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Interior: Compagnie des Carabiniers du Prince (Prince’s Company of Carabiniers), Corps des Sapeurs-pompiers de Monaco (Fire and Emergency), Police Department (2023)<br>
+no regular military forces; Ministry of Interior: Compagnie des Carabiniers du Prince (Prince’s Company of Carabiniers), Corps des Sapeurs-pompiers de Monaco (Fire and Emergency), Police Department (2024)<br>
 <strong>note:</strong> the primary responsibility for the Compagnie des Carabiniers du Prince is guarding the palace; the Police maintain public order<br>
 
 **Military service age and obligation**<br>
-the Compagnie des Carabiniers du Prince is staffed by French nationals (2023)<br>
+the Compagnie des Carabiniers du Prince is staffed by French nationals (2024)<br>
 
 **Military - note**<br>
 defense is the responsibility of France<br>

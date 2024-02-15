@@ -90,7 +90,7 @@ Slovene (official) 87.7%, Croatian 2.8%, Serbo-Croatian 1.8%, Bosnian 1.6%, Serb
 _major-language sample(s)_: <br>Svetovni informativni zvezek - neobhoden vir osnovnih informacij. (Slovene)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Catholic 57.8%, Muslim 2.4%, Orthodox 2.3%, other Christian 1%, unaffiliated 3.5%, no response or unspecified 22.8%, none 10.1% (2002 est.)<br>
+Catholic 69%, Orthodox 4%, Muslim 3%, Christian 1%, other 3%, atheist 14%, non-believer/agnostic 4%, refused to answer 2% (2019 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 14.55% (male 156,499/female 148,987)<br>

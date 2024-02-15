@@ -676,8 +676,8 @@ _unpaved_: 157,596 km (2023)<br>
 (2011) none specifically; the only significant inland waterway is the part of Lake Victoria within the boundaries of Kenya; Kisumu is the main port and has ferry connections to Uganda and Tanzania<br>
 
 **Merchant marine**<br>
-_total_: 25 (2022)<br>
-_by type_: oil tanker 3, other 22<br>
+_total_: 26 (2023)<br>
+_by type_: oil tanker 4, other 22<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kisumu, Mombasa<br>

@@ -173,7 +173,7 @@ has one or more meteorological stations on each possession<br>
 <strong>Note: </strong>1 - Ile Amsterdam, 1 - Ile Kerguelen, 1 - Ile de la Possession<br>
 
 **Merchant marine**<br>
-_total_: 2 (2022)<br>
+_total_: 2 (2023)<br>
 _by type_: other 2<br>
 
 **Ports and terminals**<br>

@@ -678,8 +678,8 @@ _unpaved_: 20,213 km (2017)<br>
 1,120 km (2011) (commercially navigable on Congo and Oubangui Rivers above Brazzaville; there are many ferries across the river to Kinshasa; the Congo south of Brazzaville-Kinshasa to the coast is not navigable because of rapids, necessitating a rail connection to Pointe-Noire; other rivers are used for local traffic only)<br>
 
 **Merchant marine**<br>
-_total_: 11 (2022)<br>
-_by type_: general cargo 1, oil tanker 1, other 9<br>
+_total_: 11 (2023)<br>
+_by type_: oil tanker 1, other 10<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Pointe-Noire<br>

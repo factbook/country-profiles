@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Present-day Niger originated from the nomadic peoples of the Saharan north and the agriculturalists of the south. The Taureg kingdom of Takedda was one of the largest kingdoms in the north and played a prominent role in regional trade in the 14th century. In the south, the primary ethnic groups were the Songhai-Zarma in the west, the Hausa in the center, and the Kanuri in the east. When European colonizers arrived in the 19th century, the region was an assemblage of disparate local kingdoms.</p> <p>In the late 19th century, the British and French agreed to partition the middle regions of the Niger River, and France began its conquest of what would become the colony of Niger.  France experienced determined local resistance - particularly during the Tuareg uprising (1916-1917) - but established a colonial administration in 1922.</p> <p>After achieving independence from France in 1960, Niger experienced single-party or military rule until 1991 when political pressure forced General Ali SAIBOU to allow multiparty elections. Political infighting and democratic backsliding led to coups in 1996 and 1999. In December of that year, military officers restored democratic rule and held elections that brought Mamadou TANDJA to power. TANDJA was reelected in 2004 and spearheaded a 2009 constitutional amendment allowing him to extend his presidential term. In February 2010, military officers led another coup that deposed TANDJA. ISSOUFOU Mahamadou was elected in April 2011 and reelected in early 2016. In February 2021, BAZOUM Mohammed won the presidential election, marking Niger’s first transition from one democratically elected president to another. Nonetheless, a military junta once again seized power in a late-July 2023 coup, detaining President BAZOUM, and announcing the creation of a National Council for the Safeguarding of the Homeland (CNSP), headed by coup-leader General Abdourahamane Tiani.<br><br>Niger is one of the poorest countries in the world with minimal government services and insufficient funds to develop its resource base. It is ranked last in the world on the UN Development Program's Human Development Index. The largely agrarian and subsistence-based economy is frequently disrupted by extended droughts common to the Sahel region of Africa. The Nigerien Government continues its attempts to diversify the economy through increased oil production and mining projects. In addition, Niger is facing increased security concerns on its borders from various external threats including insecurity in Libya, spillover from the conflict and terrorism in Mali, and violent extremism in northeastern Nigeria.</p><br>
+<p>Present-day Niger originated from the nomadic peoples of the Saharan north and the agriculturalists of the south. The Taureg kingdom of Takedda was one of the largest kingdoms in the north and played a prominent role in regional trade in the 14th century. In the south, the primary ethnic groups were the Songhai-Zarma in the west, the Hausa in the center, and the Kanuri in the east. When European colonizers arrived in the 19th century, the region was an assemblage of disparate local kingdoms.</p> <p>In the late 19th century, the British and French agreed to partition the middle regions of the Niger River, and France began its conquest of what would become the colony of Niger.  France experienced determined local resistance - particularly during the Tuareg uprising (1916-1917) - but established a colonial administration in 1922.</p> <p>After achieving independence from France in 1960, Niger experienced single-party or military rule until 1991 when political pressure forced General Ali SAIBOU to allow multiparty elections. Political infighting and democratic backsliding led to coups in 1996 and 1999. In December of that year, military officers restored democratic rule and held elections that brought Mamadou TANDJA to power. TANDJA was reelected in 2004 and spearheaded a 2009 constitutional amendment allowing him to extend his presidential term. In February 2010, military officers led another coup that deposed TANDJA. ISSOUFOU Mahamadou was elected in April 2011 and reelected in early 2016. In February 2021, BAZOUM Mohamed won the presidential election, marking Niger’s first transition from one democratically elected president to another. Nonetheless, a military junta once again seized power in a late-July 2023 coup, detaining President BAZOUM, and announcing the creation of a National Council for the Safeguarding of the Homeland (CNSP), headed by coup-leader General Abdourahamane TIANI.<br><br>Niger is one of the poorest countries in the world with minimal government services and insufficient funds to develop its resource base. It is ranked last in the world on the UN Development Program's Human Development Index. The largely agrarian and subsistence-based economy is frequently disrupted by extended droughts common to the Sahel region of Africa. The Nigerien Government continues its attempts to diversify the economy through increased oil production and mining projects. In addition, Niger is facing increased security concerns on its borders from various external threats including insecurity in Libya, spillover from the conflict and terrorism in Mali, and violent extremism in northeastern Nigeria.</p><br>
 
 ## Geography
 
@@ -354,7 +354,7 @@ _residency requirement for naturalization_: unknown<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President of the National Council for Safeguarding of the Homeland (CNSP) General Abdourahame TCHIANI (since 28 July 2023); note - deposed president BAZOUM has been under house arrest since a military coup on 26 July 2023<br>
+_chief of state_: President of the National Council for Safeguarding of the Homeland (CNSP) General Abdourahame TIANI (since 28 July 2023); note - deposed president BAZOUM has been under house arrest since a military coup on 26 July 2023<br>
 _head of government_: Prime Minister Ali Mahaman Lamine ZEINE (since 9 August 2023)<br>
 _cabinet_: Cabinet appointed by the CNSP since the military coup and suspension of the constitution; previously appointed by the elected president<br>
 _elections/appointments_: the CNSP dissolved the constitution as part of the 26 July 2023 military coup and rules by decree; note - prior to the coupe, president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 27 December 2020 with a runoff held on 21 February 2021 (next election was to be held in 2025); prime minister appointed by the president, authorized by the National Assembly<br>
@@ -664,7 +664,7 @@ _inventory of registered aircraft operated by air carriers_: 3<br>
 1 (2021)<br>
 
 **Pipelines**<br>
-464 km oil<br>
+2,444 km oil (2024)<br>
 
 **Roadways**<br>
 _total_: 18,949 km (2018)<br>
@@ -672,7 +672,7 @@ _paved_: 3,979 km (2018)<br>
 _unpaved_: 14,969 km (2018)<br>
 
 **Waterways**<br>
-300 km (2012) (the Niger, the only major river, is navigable to Gaya between September and March)<br>
+563 km (2024) (the Niger, the only major river, is navigable to Gaya between September and March)<br>
 
 **Merchant marine**<br>
 _total_: 2 (2022)<br>
@@ -719,7 +719,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); 
 <p><em>Niger-Benin-Nigeria</em>: location of Niger-Benin-Nigeria tripoint is unresolved</p> <p><em>Niger-Burkina Faso</em>: the dispute with Burkina Faso was referred to the International Court of Justice (ICJ) in 2010; the ICJ ruled in 2013 that 786 sq km should go to Burkina Faso and 277 sq km to Niger; the ruling was implemented in 2015 and 2016, with Burkina Faso gaining 14 towns and Niger 4</p> <p><em>Niger-Cameroon-Nigeria</em>: only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Niger-Libya</em>: Libya claims about 25,000 sq km in a currently dormant dispute in the Tummo region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 200,497 (Nigeria), 67,191 (Mali) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 67,191 (Mali) (refugees and asylum seekers) (2023); 200,477 (Nigeria) (2024)<br>
 _IDPs_: 335,277 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2023)<br>
 
 **Illicit drugs**<br>

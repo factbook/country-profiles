@@ -655,8 +655,8 @@ _unpaved_: 40,000 km (2001)<br>
 240 km (2011) (almost all navigable inland waterways are near the mouths of rivers)<br>
 
 **Merchant marine**<br>
-_total_: 64 (2022)<br>
-_by type_: general cargo 13, oil tanker 10, other 41<br>
+_total_: 65 (2023)<br>
+_by type_: general cargo 13, oil tanker 10, other 42<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, Nuevitas Bay, Santiago de Cuba<br>

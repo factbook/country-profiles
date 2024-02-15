@@ -583,8 +583,8 @@ _paved_: 42,793 km (2017) (includes 1,348 km of highways and 737 km of expresswa
 _unpaved_: 413 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 450 (2022)<br>
-_by type_: bulk carrier 34, container ship 53, general cargo 58, oil tanker 34, other 271<br>
+_total_: 465 (2023)<br>
+_by type_: bulk carrier 29, container ship 53, general cargo 58, oil tanker 35, other 290<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Keelung (Chi-lung), Kaohsiung, Hualian, Taichung<br>

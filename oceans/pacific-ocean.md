@@ -96,7 +96,7 @@ _major seaport(s)_: Bangkok (Thailand), Hong Kong (China), Kao-hsiung (Taiwan), 
 ## Military and Security
 
 **Military - note**<br>
-according to the International Maritime Bureau, the risk for piracy and armed robbery in the territorial waters of littoral states and offshore waters in the South China Sea is high,particularly the Singapore Straits and the Celebes and Sulu Seas between the Philippines and Malaysia (2023)<br>
+according to the International Maritime Bureau, the risk for piracy and armed robbery in the territorial waters of littoral states and offshore waters in the South China Sea is high, particularly the Singapore Straits and the Celebes and Sulu Seas between the Philippines and Malaysia (2023)<br>
 
 ## Transnational Issues
 

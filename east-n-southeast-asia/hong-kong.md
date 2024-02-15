@@ -582,8 +582,8 @@ _total_: 2,193 km (2021)<br>
 _paved_: 2,193 km (2021)<br>
 
 **Merchant marine**<br>
-_total_: 2,661 (2022)<br>
-_by type_: bulk carrier 1,135, container ship 558, general cargo 155, oil tanker 394, other 419<br>
+_total_: 2,537 (2023)<br>
+_by type_: bulk carrier 1,047, container ship 560, general cargo 144, oil tanker 394, other 392<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Hong Kong<br>

@@ -631,8 +631,8 @@ _standard gauge_: 97 km (2017) 1.435-m gauge<br>
 _total_: 2,893 km (2013)<br>
 
 **Merchant marine**<br>
-_total_: 42 (2022)<br>
-_by type_: bulk carrier 1, container ship 1, general cargo 4, oil tanker 15, other 21<br>
+_total_: 40 (2023)<br>
+_by type_: bulk carrier 1, container ship 1, general cargo 4, oil tanker 13, other 21<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Djibouti<br>

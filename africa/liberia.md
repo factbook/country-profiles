@@ -633,8 +633,8 @@ _paved_: 657 km (2021)<br>
 _unpaved_: 9,943 km (2021)<br>
 
 **Merchant marine**<br>
-_total_: 4,311 (2022)<br>
-_by type_: bulk carrier 1,673, container ship 962, general cargo 141, oil tanker 907, other 628<br>
+_total_: 4,821 (2023)<br>
+_by type_: bulk carrier 1,895, container ship 1,013, general cargo 170, oil tanker 1,038, other 705<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Buchanan, Monrovia<br>

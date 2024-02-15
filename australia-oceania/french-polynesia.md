@@ -547,8 +547,8 @@ _paved_: 1,735 km (1999)<br>
 _unpaved_: 855 km (1999)<br>
 
 **Merchant marine**<br>
-_total_: 25 (2022)<br>
-_by type_: general cargo 14, other 11<br>
+_total_: 24 (2023)<br>
+_by type_: general cargo 14<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Papeete<br>

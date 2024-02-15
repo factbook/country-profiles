@@ -686,8 +686,8 @@ _unpaved_: 12,354 km (2021)<br>
 43,983 km (2020) (on the Ertis (Irtysh) River (80%) and Syr Darya (Syrdariya) River)<br>
 
 **Merchant marine**<br>
-_total_: 120 (2022)<br>
-_by type_: general cargo 3, oil tanker 7, other 110<br>
+_total_: 122 (2023)<br>
+_by type_: general cargo 3, oil tanker 7, other 112<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Caspian Sea - Aqtau (Shevchenko), Atyrau (Gur'yev)<br>
