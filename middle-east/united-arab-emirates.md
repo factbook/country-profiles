@@ -625,18 +625,10 @@ _annual freight traffic on registered air carriers_: 15,962,900,000 (2018) mt-km
 A6<br>
 
 **Airports**<br>
-43 (2021)<br>
-
-**Airports - with paved runways**<br>
-25<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-18<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+42 (2024)<br>
 
 **Heliports**<br>
-5 (2021)<br>
+203 (2024)<br>
 
 **Pipelines**<br>
 533 km condensate, 3,277 km gas, 300 km liquid petroleum gas, 3287 km oil, 24 km oil/gas/water, 218 km refined products, 99 km water (2013)<br>
@@ -646,8 +638,8 @@ _total_: 4,080 km (2008)<br>
 _paved_: 4,080 km (2008) (includes 253 km of expressways)<br>
 
 **Merchant marine**<br>
-_total_: 636 (2022)<br>
-_by type_: bulk carrier 2, container ship 3, general cargo 121, oil tanker 16, other 494<br>
+_total_: 655 (2023)<br>
+_by type_: bulk carrier 2, container ship 3, general cargo 122, oil tanker 16, other 512<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor Fakkan (Khawr Fakkan) (Sharjah), Mubarraz Island (Abu Dhabi), Mina' Rashid (Dubai), Mina' Saqr (Ra's al Khaymah)<br>

@@ -318,12 +318,12 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General Froyla TZALAM (since 27 May 2021)<br>
-_head of government_: Prime Minister Juan Antonio BRICENO (since 12 November 2020); Deputy Prime Minister Cordel HYDE (since 16 November 2020)<br>
+_head of government_: Prime Minister John BRICENO (since 12 November 2020); Deputy Prime Minister Cordel HYDE (since 16 November 2020)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister from among members of the National Assembly<br>
 _elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; prime minister recommends the deputy prime minister<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>Senate (14 seats, including the president); members appointed by the governor-general - 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 1 each on the advice of the Belize Council of Churches and Evangelical Association of Churches, the Belize Chamber of Commerce and Industry and the Belize Better Business Bureau, non-governmental organizations in good standing, and the National Trade Union Congress and the Civil Society Steering Committee; Senate president elected from among the Senate members or from outside the Senate; members serve 5-year terms<br>House of Representatives (32 seats; 31 members directly elected in single-seat constituencies by simple majority vote and the speaker, who may be designated from outside the government; members serve 5-year terms)<br>
+_description_: bicameral National Assembly consists of:<br>Senate (14 seats, including the president); members appointed by the governor-general - 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 1 each on the advice of the Belize Council of Churches and Evangelical Association of Churches, the Belize Chamber of Commerce and Industry and the Belize Better Business Bureau, non-governmental organizations in good standing, and the National Trade Union Congress and the Civil Society Steering Committee; 1 seat is held by the Senate president elected from among the Senate members or from outside the Senate; members serve 5-year terms<br>House of Representatives (32 seats; 31 members directly elected in single-seat constituencies by simple majority vote and the speaker, who may be designated from outside the government; members serve 5-year terms and the speaker serves at the pleasure of the government up to the full 5-year term)<br>
 _elections_: <br>Senate - last appointed 11 November 2020 (next appointments in November 2025)<br>House of Representatives - last held on 11 November 2020 (next to be held in November 2025)<br>
 _election results_: <br>Senate - all members appointed; composition as of August 2023 - composition - men 8, women 6, percent of women 43%<br>House of Representatives - percent of vote by party - PUP 59.6%, UDP 38.8%, other 1.6%; seats by party - PUP 26, UDP 5; composition as of August 2023 - men 27, women 5, percent of women 15.6%; note - total percent of women in the National Assembly 24%<br>
 <strong> </strong><br>
@@ -334,7 +334,7 @@ _judge selection and term of office_: Court of Appeal president and justices app
 _subordinate courts_: Magistrates' Courts; Family Court<br>
 
 **Political parties and leaders**<br>
-Belize Progressive Party or BPP [Wil MAHEIA] (formed in 2015 from a merger of the People's National Party, elements of the Vision Inspired by the People, and other smaller political groups)<br>People's United Party or PUP [Juan Antonio "Johnny" BRICENO]<br>United Democratic Party or UDP [Dean Oliver Barrow and Patrick FABER]<br>Vision Inspired by the People or VIP [Hubert ENRIQUEZ]<br>
+Belize People’s Front or BPF [Nefretery Nancy MARIN]<br>Belize Progressive Party or BPP [Wil MAHEIA] (formed in 2015 from a merger of the People's National Party, elements of the Vision Inspired by the People, and other smaller political groups)<br>People's United Party or PUP [John BRICENO]<br>United Democratic Party or UDP [Moses “Shyne” BARROW and Hugo PATT]<br>Vision Inspired by the People or VIP [Hubert ENRIQUEZ]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -449,6 +449,11 @@ _female_: 31.9%<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
+
+**Remittances**<br>
+5.43% of GDP (2021 est.)<br>
+5.8% of GDP (2020 est.)<br>
+4.01% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $583 million (2019 est.)<br>
@@ -616,15 +621,10 @@ _annual freight traffic on registered air carriers_: 3.78 million (2018) mt-km<b
 V3<br>
 
 **Airports**<br>
-47 (2021)<br>
+27 (2024)<br>
 
-**Airports - with paved runways**<br>
-6<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-41<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+5 (2024)<br>
 
 **Roadways**<br>
 _total_: 3,281 km<br>
@@ -644,8 +644,8 @@ _major seaport(s)_: Belize City, Big Creek<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard; Belize Police Department (2023)<br>
-<strong>note:</strong> the Ministry of National Defense and Border Security is responsible for oversight of the BDF and the Coast Guard, while the Ministry of Home Affairs and New Growth Industries has responsibility for the Belize Police Department and prisons; the Police Department is primarily responsible for internal security <br>
+Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard; Belize Police Department (2024)<br>
+<strong>note:</strong> the Ministry of National Defense and Border Security is responsible for oversight of the BDF and the Coast Guard, while the Ministry of Home Affairs and New Growth Industries has responsibility for the Belize Police Department and prisons; the Police Department is primarily responsible for internal security<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2022 est.)<br>
@@ -661,7 +661,7 @@ approximately 1,500 BDF personnel; approximately 500 Coast Guard (2023)<br>
 the military has a small inventory consisting mostly of UK- and US-origin equipment (2023)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient, but conscription has never been implemented; initial service obligation is 12 years (2023)<br>
+18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient, but conscription has never been implemented; initial service obligation is 12 years (2024)<br>
 
 **Military - note**<br>
 the Belize Defense Force (BDF) is responsible for external security but also provides some support to civilian authorities; it has limited powers of arrest within land and shoreline areas, while the Coast Guard has arrest powers and jurisdiction within coastal and maritime areas; the BDF traces its history back to the Prince Regent Royal Honduras Militia, a volunteer force established in 1817; the BDF was established in 1978 from the disbanded Police Special Force and the Belize Volunteer Guard to assist the resident British forces with the defense of Belize against Guatemala<br><br>the British Army has maintained a presence in Belize since its independence; the presence consists of a small training support unit that provides jungle training to troops from the UK and international partners (2023)<br>
@@ -669,7 +669,7 @@ the Belize Defense Force (BDF) is responsible for external security but also pro
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Belize-Guatemala: </em>demarcated but insecure boundary due to Guatemala’s claims to more than half of Belizean territory; a Line of Adjacency operates in lieu of an international boundary to control influx of Guatemalan squatters onto Belizean territory, as well as smuggling, narcotics trafficking, and human trafficking for sexual exploitation and debt bondage; Belize and Honduras 12-nm territorial sea claims close off Guatemalan access to Caribbean in the Bahia de Amatique; maritime boundary remains unresolved pending further negotiation<br><br><em>Belize-Honduras:</em> Honduras claims the Belizean-administered Sapodilla Cays off the coast of Belize in its constitution, but agreed to a joint ecological park around the cays should Guatemala consent to a maritime corridor in the Caribbean under the OAS-sponsored 2002 Belize-Guatemala Differendum</p> <p><em>Belize-Mexico:</em> Belize and Mexico are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty; transshipment of illegal<strong> </strong>narcotics, smuggling, human trafficking, illegal immigration, and the growing of marijuana in very low population areas are issues in the region </p><br>
+<p><em>Belize-Guatemala: </em>demarcated but insecure boundary due to Guatemala’s claims to more than half of Belizean territory; Line of Adjacency operates in lieu of an international boundary; an Organization of American States (OAS) mission at the Line of Adjacency assists in implementing Line of Adjacency “confidence building measures,” including periodic coordination between Belizean and Guatemalan security forces, agreed to in 2003; smuggling, narcotics trafficking, small-scale coca production, and human trafficking are all problems near the line; Belize lacks resources to detect and extradite Guatemalans who have established informal settlements, farms, and cattle operations in Belizean rain forests in the remote border areas on the Belizean side of the Line of Adjacency; Belize and Honduras 12-nautical mile territorial sea claims close off Guatemalan access to Caribbean in the Bahia de Amatique; maritime boundary remains unresolved pending further negotiation<br><br><em>Belize-Honduras:</em> Honduras claims the Belizean-administered Sapodilla Cays off the coast of Belize in its constitution, but agreed to a joint ecological park around the cays should Guatemala consent to a maritime corridor in the Caribbean under the OAS-sponsored 2002 Belize-Guatemala Differendum</p> <p> </p><br>
 
 **Illicit drugs**<br>
 <p>a significant drug trafficking and transit point between countries in South America and the United States; primary domestic use of narcotics is marijuana and some crack cocaine; a major source of precursor or essential chemicals used in the production of illicit narcotics</p><br>

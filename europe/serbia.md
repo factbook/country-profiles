@@ -62,7 +62,7 @@ _other_: 10.5% (2018 est.)<br>
 520 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
-Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -281,7 +281,7 @@ _municipal solid waste recycled annually_: 13,984 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 0.8% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -489,6 +489,11 @@ _on alcohol and tobacco_: 7% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.2%<br>
 _highest 10%_: 23.8% (2011)<br>
 
+**Remittances**<br>
+7.29% of GDP (2021 est.)<br>
+7.25% of GDP (2020 est.)<br>
+8.23% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $21.858 billion (2020 est.)<br>
 _expenditures_: $25.72 billion (2020 est.)<br>
@@ -647,18 +652,10 @@ _annual freight traffic on registered air carriers_: 17.71 million (2018) mt-km<
 YU<br>
 
 **Airports**<br>
-26 (2021)<br>
-
-**Airports - with paved runways**<br>
-10<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-16<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+43 (2024)<br>
 
 **Heliports**<br>
-2 (2021)<br>
+8 (2024)<br>
 
 **Pipelines**<br>
 1,936 km gas, 413 km oil<br>
@@ -678,7 +675,7 @@ _river port(s)_: Belgrade (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Serbian Armed Forces (Vojska Srbije, VS): Army (aka Land Forces; includes Riverine Component, consisting of a naval flotilla on the Danube), Air and Air Defense Forces, Serbian Guard<br><br>Serbian Ministry of Interior: General Police Directorate (2023)<br>
+Serbian Armed Forces (Vojska Srbije, VS): Army (aka Land Forces; includes Riverine Component, consisting of a naval flotilla on the Danube), Air and Air Defense Forces, Serbian Guard<br><br>Serbian Ministry of Interior: General Police Directorate (2024)<br>
 <strong>note:</strong> the Serbian Guard is a brigade-sized unit that is directly subordinate to the Serbian Armed Forces Chief of General Staff; its duties include safeguarding key defense facilities and rendering military honors to top foreign, state, and military officials <br><br>
 
 **Military expenditures**<br>
@@ -702,7 +699,7 @@ the military's inventory consists of Russian and Soviet-era weapons systems; in 
 175 Lebanon (UNIFIL) (2023)<br>
 
 **Military - note**<br>
-the Serbian military is a professional and voluntary force responsible for defense and deterrence against external threats, supporting international peacekeeping operations, and providing support to civil authorities for internal security; specific threat concerns of the military include extremism, separatism, and deepening international recognition of Kosovo; Serbia has cooperated with NATO since 2006, when it joined the Partnership for Peace program, and the military trains with NATO countries, particularly other Balkan states; Serbia aspires to join the EU and has participated in EU peacekeeping missions, as well as missions under the Organization for Security and Cooperation in Europe and the UN; it also maintains close security ties with Russia and has a growing security relationship with China<br><br>the modern Serbian military was established in 2006 but traces its origins back through World War II, World War I, the Balkan Wars of 1912-1913, and the Bulgarian-Serb War of 1885 to the First (1804-1813) and Second (1815-1817) Uprisings against the Ottoman Empire; the military’s combat forces are organized into Army and Air and Defense commands under a General Staff, as well as some independent forces; the Army’s combat forces include four combined arms brigades and an artillery brigade, plus several independent battalions and a river flotilla; there are also independent brigades of parachute infantry, special operations, and security/guard forces, which are directly under the General Staff; the Air and Air Defense force is organized into brigades and squadrons of aircraft, air defense missiles, and early warning and surveillance; its combat aircraft include approximately 25 Russian- and Yugoslavian-made multirole and attack aircraft, as well as a force of attack and multirole helicopters (2023)<br>
+the Serbian military is responsible for defense and deterrence against external threats, supporting international peacekeeping operations, and providing support to civil authorities for internal security; specific threat concerns of the military include extremism, separatism, and deepening international recognition of Kosovo; Serbia has cooperated with NATO since 2006, when it joined the Partnership for Peace program, and the military trains with NATO countries, particularly other Balkan states; Serbia aspires to join the EU and has participated in EU peacekeeping missions, as well as missions under the Organization for Security and Cooperation in Europe and the UN; it also maintains close security ties with Russia and has a growing security relationship with China<br><br>the modern Serbian military was established in 2006 but traces its origins back through World War II, World War I, the Balkan Wars of 1912-1913, and the Bulgarian-Serb War of 1885 to the First (1804-1813) and Second (1815-1817) Uprisings against the Ottoman Empire; the military’s combat forces are organized into Army and Air and Defense commands under a General Staff, as well as some independent forces; the Army’s combat forces include four combined arms brigades and an artillery brigade, plus several independent battalions and a river flotilla; there are also independent brigades of parachute infantry, special operations, and security/guard forces, which are directly under the General Staff; the Air and Air Defense force is organized into brigades and squadrons of aircraft, air defense missiles, and early warning and surveillance; its combat aircraft include approximately 25 Russian- and Yugoslavian-made multirole and attack aircraft, as well as a force of attack and multirole helicopters (2023)<br>
 
 ## Transnational Issues
 

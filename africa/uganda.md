@@ -372,12 +372,12 @@ _FAX_: [1] (202) 726-1727<br>
 _email address and website_: <br>washington@mofa.go.ug; info@ugandaembassyus.org<br><br>https://washington.mofa.go.ug/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Natalie E. BROWN (since 17 November 2020)<br>
+_chief of mission_: Ambassador William W. POPP (since 20 September 2024)<br>
 _embassy_: 1577 Ggaba Road, Kampala<br>
 _mailing address_: 2190 Kampala Place, Washington DC&nbsp; 20521-2190<br>
 _telephone_: [256] (0) 312-306-001<br>
 _FAX_: [256] (0) 414-259-794<br>
-_email address and website_: <br>KampalaUScitizen@state.gov<br><br>https://ug.usembassy.gov/<br>
+_email address and website_: <br>KampalaWebContact@state.gov<br><br>https://ug.usembassy.gov/<br>
 
 **Flag description**<br>
 six equal horizontal bands of black (top), yellow, red, black, yellow, and red; a white disk is superimposed at the center and depicts a grey crowned crane (the national symbol) facing the hoist side; black symbolizes the African people, yellow sunshine and vitality, red African brotherhood; the crane was the military badge of Ugandan soldiers under the UK<br>
@@ -478,6 +478,11 @@ _on alcohol and tobacco_: 1% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.4%<br>
 _highest 10%_: 36.1% (2009 est.)<br>
+
+**Remittances**<br>
+2.82% of GDP (2020 est.)<br>
+4.03% of GDP (2019 est.)<br>
+4.06% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $5.088 billion (2019 est.)<br>
@@ -646,15 +651,7 @@ _annual passenger traffic on registered air carriers_: 21,537 (2018)<br>
 5X<br>
 
 **Airports**<br>
-47 (2021)<br>
-
-**Airports - with paved runways**<br>
-5<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-42<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+39 (2024)<br>
 
 **Railways**<br>
 _total_: 1,244 km (2014)<br>

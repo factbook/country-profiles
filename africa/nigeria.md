@@ -490,6 +490,11 @@ _on alcohol and tobacco_: 1% of household expenditures (2018 est.)<br>
 _lowest 10%_: 1.8%<br>
 _highest 10%_: 38.2% (2010 est.)<br>
 
+**Remittances**<br>
+4.42% of GDP (2021 est.)<br>
+3.98% of GDP (2020 est.)<br>
+5.31% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $37.298 billion (2019 est.)<br>
 _expenditures_: $59.868 billion (2019 est.)<br>
@@ -656,22 +661,10 @@ _annual freight traffic on registered air carriers_: 19.42 million (2018) mt-km<
 5N<br>
 
 **Airports**<br>
-54 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 40<br>
-_civil airports_: 8<br>
-_military airports_: 0<br>
-_joint use (civil-military) airports_: 3<br>
-_other airports_: 29<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-14<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+47 (2024)<br>
 
 **Heliports**<br>
-5 (2021)<br>
+15 (2024)<br>
 
 **Pipelines**<br>
 124 km condensate, 4,045 km gas, 164 km liquid petroleum gas, 4,441 km oil, 3,940 km refined products (2013)<br>
@@ -691,8 +684,8 @@ _unpaved_: 135,000 km (2019)<br>
 8,600 km (2011) (Niger and Benue Rivers and smaller rivers and creeks)<br>
 
 **Merchant marine**<br>
-_total_: 832 (2022)<br>
-_by type_: general cargo 16, oil tanker 111, other 705<br>
+_total_: 928 (2023)<br>
+_by type_: general cargo 23, oil tanker 128, other 777<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bonny Inshore Terminal, Calabar, Lagos<br>
@@ -750,7 +743,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa; Jama’atu Ansar
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 89,045 (Cameroon) (2023)<br>
-_IDPs_: 3.15 million (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2023)<br>
+_IDPs_: 3.09 million (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2024)<br>
 
 **Illicit drugs**<br>
 <p>Nigeria is a major hub for transnational drug trafficking networks entrenched throughout the world and supplying cocaine to Asia and Europe, heroin to Europe and North America, and methamphetamine to South Africa, Southeast Asia, Australia, and New Zealand; also exporting massive quantities of opioids such as tramadol and captagon along with crack cocaine; a major source of precursor or essential chemicals used in the production of illicit narcotics</p> <p> </p><br>

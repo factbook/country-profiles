@@ -475,6 +475,11 @@ _female_: 3.6%<br>
 _lowest 10%_: 2.1%<br>
 _highest 10%_: 43.2% (2011 est.)<br>
 
+**Remittances**<br>
+2.75% of GDP (2020 est.)<br>
+2.52% of GDP (2019 est.)<br>
+2.7% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.393 billion (2019 est.)<br>
 _expenditures_: $2.919 billion (2019 est.)<br>
@@ -640,15 +645,7 @@ _annual passenger traffic on registered air carriers_: 1,073,528 (2018)<br>
 9XR<br>
 
 **Airports**<br>
-7 (2021)<br>
-
-**Airports - with paved runways**<br>
-4<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-3<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+8 (2024)<br>
 
 **Roadways**<br>
 _total_: 7,797 km (2024)<br>
@@ -687,7 +684,7 @@ note: as of 2022, women comprised approximately 6% of the Rwanda Defense Force<b
 4,000 Central African Republic (approximately 2,800 for MINUSCA, including 700 police; an additional 1,200 troops sent separately under a bilateral arrangement to support and train Central African military forces); up to 3,000 Mozambique (deployed mid-2021 under a bilateral agreement to assist with combating an insurgency; includes both military and police forces); 2,600 (plus about 400 police) South Sudan (UNMISS) (2023)<br>
 
 **Military - note**<br>
-<p>the RDF is lightly equipped and widely regarded as one of East Africa’s best trained, experienced, and most professional militaries; the Army is relatively large with 4 divisions that are mostly comprised of light infantry brigades; it also has separate artillery, presidential guard, and special operations brigades; the Air Force has a small inventory of combat helicopters and a handful of transport aircraft</p> the RDF’s principle responsibilities are ensuring territorial integrity and national sovereignty and preventing infiltrations of illegal armed groups from neighboring countries, particularly the Democratic Republic of the Congo (DRC); since 2021, Rwanda has deployed troops to the border with the DRC to combat the rebel Democratic Forces for the Liberation of Rwanda (FDLR), which it has accused the DRC of backing; the RDF has been accused by the DRC Government of making incursions into the DRC and providing material support to the March 23 Movement (M23, aka Congolese Revolutionary Army) rebel group, which has been fighting with DRC troops and UN peacekeeping forces; the RDF also participates in UN and regional military operations; over 6,000 RDF personnel are deployed in the Central African Republic, Mozambique, and South Sudan  <br><br>the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers (2023)<br>
+<p>the RDF is widely regarded as one of East Africa’s best trained and most experienced militaries; the Army is relatively large with four divisions that are mostly comprised of light infantry brigades; it also has separate artillery, presidential guard, and special operations brigades; the Air Force has a small inventory of combat helicopters and a handful of transport aircraft</p> the RDF’s principle responsibilities are ensuring territorial integrity and national sovereignty and preventing infiltrations of illegal armed groups from neighboring countries, particularly the Democratic Republic of the Congo (DRC); since 2021, Rwanda has deployed troops to the border region with the DRC to combat the rebel Democratic Forces for the Liberation of Rwanda (FDLR), which it has accused the DRC of backing; the RDF has been accused by the DRC, the UN, and the US of making incursions into the DRC and providing material support to the March 23 Movement (M23, aka Congolese Revolutionary Army) rebel group, which has been fighting with DRC troops and UN peacekeeping forces; the RDF also participates in UN and regional military operations; over 6,000 RDF personnel are deployed in the Central African Republic, Mozambique, and South Sudan  <br><br>the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers (2023)<br>
 
 ## Space
 
@@ -704,6 +701,6 @@ has a small program focused on developing and utilizing space technologies, such
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 79,575 (Democratic Republic of the Congo), 48,346 (Burundi) (2023)<br>
+_refugees (country of origin)_: 79,575 (Democratic Republic of the Congo), 48,486 (Burundi) (2023)<br>
 _stateless persons_: 9,500 (2022)<br>
 

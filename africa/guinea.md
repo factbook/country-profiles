@@ -351,8 +351,8 @@ _elections/appointments_: formerly, the president was directly elected by absolu
 _election results_: <em>2020: </em>Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%<br>
 
 **Legislative branch**<br>
-_description_: formerly the People's National Assembly;&nbsp; note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and People's National Assembly dissolved; on 22 January 2022, an 81-member Transitional National Council was installed<br>
-_elections_: 81 members to the Transitional National Council were appointed by the transitional president Col. Mamady DOUMBOUYA on 22 January 2022; elections for a permanent legislature had not been announced as of late January 2022<br>
+_description_: formerly the People's National Assembly; note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and People's National Assembly dissolved; on 22 January 2022, an 81-member Transitional National Council was installed; on 19 February 2024 Guinea's military leaders dissolved the government&nbsp;<br>
+_elections_: 81 members to the Transitional National Council were appointed by the transitional president Col. Mamady DOUMBOUYA on 22 January 2022; elections for a permanent legislature had not been announced as of late January 2022; on 19 February 2024 Guinea's military leaders dissolved the government&nbsp;<br>
 _election results_: 81 members of the National Transitional Council appointed on 22 January 2022 by the transitional president; the members represent all of the country's socio-professional organizations and political parties<br>
 
 **Judicial branch**<br>
@@ -474,6 +474,11 @@ _female_: 9.2%<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.7%<br>
 _highest 10%_: 30.3% (2007)<br>
+
+**Remittances**<br>
+2.14% of GDP (2021 est.)<br>
+0.16% of GDP (2020 est.)<br>
+1.18% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $1.949 billion (2019 est.)<br>
@@ -635,15 +640,10 @@ _subscriptions per 100 inhabitants_: 0.01 (2020 est.)<br>
 3X<br>
 
 **Airports**<br>
-16 (2021)<br>
+16 (2024)<br>
 
-**Airports - with paved runways**<br>
-4<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-12<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+1 (2024)<br>
 
 **Railways**<br>
 _total_: 1,086 km (2017)<br>
@@ -659,7 +659,7 @@ _unpaved_: 40,955 km (2018)<br>
 1,300 km (2011) (navigable by shallow-draft native craft in the northern part of the Niger River system)<br>
 
 **Merchant marine**<br>
-_total_: 23 (2022)<br>
+_total_: 2 (2023)<br>
 _by type_: other 2<br>
 
 **Ports and terminals**<br>

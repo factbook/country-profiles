@@ -63,7 +63,7 @@ _other_: 41.9% (2018 est.)<br>
 171 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
-Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -272,7 +272,7 @@ _municipal solid waste recycled annually_: 269,933 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 16.3% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunav (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -478,6 +478,11 @@ _on alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.7%<br>
 _highest 10%_: 23% (2015 est.)<br>
 
+**Remittances**<br>
+7.32% of GDP (2021 est.)<br>
+7.31% of GDP (2020 est.)<br>
+6.87% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $212.81 billion (2019 est.)<br>
 _expenditures_: $211.069 billion (2019 est.)<br>
@@ -644,18 +649,10 @@ _annual freight traffic on registered air carriers_: 530,000 (2018) mt-km<br>
 9A<br>
 
 **Airports**<br>
-69 (2021)<br>
-
-**Airports - with paved runways**<br>
-24<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-45<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+40 (2024)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+4 (2024)<br>
 
 **Pipelines**<br>
 2,410 km gas, 610 km oil (2011)<br>

@@ -454,6 +454,11 @@ _female_: 7.6%<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 33.6% (2003)<br>
 
+**Remittances**<br>
+4.36% of GDP (2020 est.)<br>
+1.67% of GDP (2019 est.)<br>
+1.79% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $740 million (2019 est.)<br>
 _expenditures_: $867 million (2019 est.)<br>
@@ -614,18 +619,10 @@ _annual freight traffic on registered air carriers_: 0 (2015) mt-km<br>
 9L<br>
 
 **Airports**<br>
-8 (2021)<br>
-
-**Airports - with paved runways**<br>
-1<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-7<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+8 (2024)<br>
 
 **Heliports**<br>
-2 (2021)<br>
+3 (2024)<br>
 
 **Roadways**<br>
 _total_: 11,701 km (2015)<br>
@@ -638,8 +635,8 @@ _non-urban_: 8,700 km (2015)<br>
 800 km (2011) (600 km navigable year-round)<br>
 
 **Merchant marine**<br>
-_total_: 605 (2022)<br>
-_by type_: bulk carrier 36, container ship 6, general cargo 325, oil tanker 104, other 134<br>
+_total_: 584 (2023)<br>
+_by type_: bulk carrier 33, container ship 8, general cargo 320, oil tanker 97, other 126<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Freetown, Pepel, Sherbro Islands<br>
@@ -666,7 +663,7 @@ the RSLAF has a small inventory that includes a mix of Soviet-origin and other o
 18-30 for voluntary military service for men and women (25-40 for specialists); no conscription (2023)<br>
 
 **Military - note**<br>
-the RSLAF’s principle responsibilities are securing the borders and the country’s territorial waters, supporting civil authorities during emergencies and reconstruction efforts, and participating in peacekeeping missions; it is small, lightly armed, and has a limited budget; since being reduced in size and restructured with British assistance after the end of the civil war in 2002, it has received assistance from several foreign militaries, including those of Canada, China, France, the UK, and the US; the RSLAF has participated in peacekeeping operations in Somalia and Sudan; the Land Forces are by far the largest service with four small light infantry brigades and a separate battalion, each assigned to a separate region, including the capital; the Maritime Forces have a few small coastal and in-shore patrol boats, while the Air Wing has a handful of serviceable combat helicopters; the RSLAF operates under a Joint Forces Command<br><br>the RSLAF’s origins lie in the Sierra Leone Battalion of the Royal West African Frontier Force (RWAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the RWAFF fought in both World Wars (2023)<br>
+the RSLAF’s principle responsibilities are securing the borders and the country’s territorial waters, supporting civil authorities during emergencies and reconstruction efforts, and participating in peacekeeping missions; it is small, lightly armed, and has a limited budget; since being reduced in size and restructured with British assistance after the end of the civil war in 2002, it has received assistance from several foreign militaries, including those of Canada, China, France, the UK, and the US; the RSLAF has participated in peacekeeping operations in Somalia and Sudan; the Land Forces are by far the largest service with four small light infantry brigades and a separate battalion, each assigned to a separate region, including the capital; the Maritime Forces have a few small coastal and in-shore patrol craft, while the Air Wing has a handful of serviceable combat helicopters; the RSLAF operates under a Joint Forces Command<br><br>the RSLAF’s origins lie in the Sierra Leone Battalion of the Royal West African Frontier Force (RWAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and The Gambia; the RWAFF fought in both World Wars (2023)<br>
 
 ## Transnational Issues
 

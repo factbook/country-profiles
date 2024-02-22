@@ -499,6 +499,9 @@ _subscriptions per 100 inhabitants_: 48 (2020 est.)<br>
 **Civil aircraft registration country code prefix**<br>
 C3<br>
 
+**Heliports**<br>
+2 (2024)<br>
+
 **Roadways**<br>
 _total_: 320 km (2019)<br>
 

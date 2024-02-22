@@ -486,6 +486,11 @@ _on alcohol and tobacco_: 3.5% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2%<br>
 _highest 10%_: 25.4% (1994)<br>
 
+**Remittances**<br>
+0.06% of GDP (2021 est.)<br>
+0.09% of GDP (2020 est.)<br>
+0.13% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $479.33 billion (2019 est.)<br>
 _expenditures_: $532.579 billion (2019 est.)<br>
@@ -652,22 +657,10 @@ _annual freight traffic on registered air carriers_: 2,027,640,000 (2018) mt-km<
 VH<br>
 
 **Airports**<br>
-418 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 349<br>
-_civil airports_: 29<br>
-_military airports_: 17<br>
-_joint use (civil-military) airports_: 2<br>
-_other airports_: 301<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-131<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+2,180 (2024)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+368 (2024)<br>
 
 **Pipelines**<br>
 637 km condensate/gas, 30,054 km gas, 240 km liquid petroleum gas, 3,609 km oil, 110 km oil/gas/water, 72 km refined products (2013)<br>
@@ -716,8 +709,8 @@ Australian Defense Force (ADF): Australian Army, Royal Australian Navy, Royal Au
 approximately 60,000 active troops (30,000 Army; 15,000 Navy; 15,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of domestically produced and imported Western weapons systems; in recent years, the US has been the largest supplier of arms; the Australian defense industry produces a variety of land and sea weapons platforms; the defense industry also participates in joint development and production ventures with other Western countries, including the US and Canada (2023)<br>
-<strong>note:</strong> in 2023, the Australian defense ministry announced a new strategic review that called for the acquisition of more long-range deterrence capabilities, including missiles, submarines, and cyber tools<br>
+the military's inventory includes a mix of domestically produced and imported Western weapons systems; in recent years, the US has been the largest supplier of arms; the Australian defense industry produces a variety of land and sea weapons platforms; the defense industry also participates in joint development and production ventures with other Western countries, including the US and Canada (2024)<br>
+<strong>note:</strong> in 2023, the Australian defense ministry announced a new strategic review that called for the acquisition of more long-range deterrence capabilities, including missiles, submarines, and cyber tools; in early 2024, Australia announced a 10-year plan to more than double the number of the Navy's major surface combatant ships<br>
 
 **Military service age and obligation**<br>
 17 years of age (with parental consent) for voluntary military service for men and women; no conscription (abolished 1973) (2023)<br>

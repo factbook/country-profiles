@@ -467,6 +467,11 @@ _on alcohol and tobacco_: 1.2% of household expenditures (2018 est.)<br>
 _lowest 10%_: 1.5%<br>
 _highest 10%_: 36.9% (2014 est.)<br>
 
+**Remittances**<br>
+0.92% of GDP (2021 est.)<br>
+0.84% of GDP (2020 est.)<br>
+0.86% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $9.664 billion (2019 est.)<br>
 _expenditures_: $14.001 billion (2019 est.)<br>
@@ -631,15 +636,10 @@ _annual freight traffic on registered air carriers_: 11.13 million (2018) mt-km<
 TI<br>
 
 **Airports**<br>
-161 (2021)<br>
+129 (2024)<br>
 
-**Airports - with paved runways**<br>
-47<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-114<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+8 (2024)<br>
 
 **Pipelines**<br>
 662 km refined products (2013)<br>
@@ -667,7 +667,7 @@ Pacific Ocean - Caldera<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Public Security: the Public Force (Fuerza Pública (National Police)), Air Surveillance Service (Servicio de Vigilancia Aérea), National Coast Guard Service (Servicio Nacional de Guardacostas), Border Police (Policia de Fronteras); Ministry of Presidency: Directorate of Intelligence and Security (DIS), Special Intervention Unit (UEI) (2023)<br>
+no regular military forces; Ministry of Public Security: National Police (Fuerza Pública), Air Surveillance Service (Servicio de Vigilancia Aérea), National Coast Guard Service (Servicio Nacional de Guardacostas), Drug Control Police (Policía Control de Drogas), Border Police (Policia de Fronteras), Professional Migration Police (Policía Profesional de Migración); Ministry of Presidency: Directorate of Intelligence and Security (DIS), Special Intervention Unit (UEI) (2024)<br>
 <strong>note:</strong> Costa Rica's armed forces were constitutionally abolished in 1949<br>
 
 **Military expenditures**<br>
@@ -678,10 +678,10 @@ no regular military forces; Ministry of Public Security: the Public Force (Fuerz
 0.7% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-12-15,000 Ministry of Public Security personnel (2023)<br>
+15-17,000 Ministry of Public Security personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Public Force is lightly armed with an inventory that includes mostly older, secondhand US equipment (2023)<br>
+the National Police are lightly armed although small special units are trained and equipped for tactical operations; the US has provided equipment and support to forces such the National Coast Guard, including secondhand US vessels, as well as maintenance (2024)<br>
 
 **Military - note**<br>
 Costa Rica relies on specialized paramilitary units within the Ministry of Public Security (MPS) for internal security missions and countering transnational threats such as narcotics smuggling and organized crime, as well as for participating in regional security operations and exercises; MPS forces have received advisory and training support from both Colombia and the US; since 2012, the US has also provided some military equipment, including aircraft and patrol boats (2023)<br>

@@ -138,10 +138,7 @@ the flag of the US is used<br>
 ## Transportation
 
 **Airports**<br>
-_Midway Islands_: (2013) 3 - one operational (2,377 m paved); no fuel for sale except emergencies<br>
-
-**Airports - with paved runways**<br>
-note - abandoned but usable<br>
+2 (2024)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Baker, Howland, and Jarvis Islands, and Kingman Reef<br>

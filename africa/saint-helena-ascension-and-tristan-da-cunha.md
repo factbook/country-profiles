@@ -473,11 +473,10 @@ Ascension Island hosts one of four dedicated ground antennas that assist in the 
 VQ-H<br>
 
 **Airports**<br>
-2 (2021)<br>
+2 (2024)<br>
 
-**Airports - with paved runways**<br>
-2<br>
-<strong>note 1:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br><strong>note 2:</strong> Ascension Island - Wideawake Field (ASI); Saint Helena (HLE)<br>
+**Heliports**<br>
+2 (2024)<br>
 
 **Roadways**<br>
 _total_: 198 km (2002) (Saint Helena 138 km, Ascension 40 km, Tristan da Cunha 20 km)<br>

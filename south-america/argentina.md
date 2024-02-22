@@ -370,7 +370,7 @@ _subordinate courts_: federal level appellate, district, and territorial courts;
 AfDB (nonregional member), Australia Group, BCIE, BIS, CAN (associate), CD, CELAC, FAO, FATF, G-15, G-20, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NAM (observer), NSG, OAS, OPANAL, OPCW, Paris Club (associate), PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNDOF, UNESCO, UNFICYP, UNHCR, UNHRC, UNIDO, Union Latina (observer), UNOOSA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Jorge Martin Arturo ARGUELLO (since 6 February 2020)<br>
+_chief of mission_: Charg&eacute; d&rsquo;Affaires Adri&aacute;n Roberto NADOR (since 7 February 2023)<br>
 _chancery_: 1600 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 238-6400<br>
 _FAX_: [1] (202) 332-3171<br>
@@ -486,6 +486,11 @@ _on alcohol and tobacco_: 1.9% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8%<br>
 _highest 10%_: 31% (2017 est.)<br>
+
+**Remittances**<br>
+0.19% of GDP (2021 est.)<br>
+0.17% of GDP (2020 est.)<br>
+0.13% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $150.823 billion (2019 est.)<br>
@@ -659,22 +664,10 @@ _annual freight traffic on registered air carriers_: 311.57 million (2018) mt-km
 LV<br>
 
 **Airports**<br>
-916 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 161<br>
-_civil airports_: 15<br>
-_military airports_: 5<br>
-_joint use (civil-military) airports_: 16<br>
-_other airports_: 125<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-977<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+756 (2024)<br>
 
 **Heliports**<br>
-2 (2021)<br>
+144 (2024)<br>
 
 **Pipelines**<br>
 29,930 km gas, 41 km liquid petroleum gas, 6,248 km oil, 3,631 km refined products (2013)<br>
@@ -706,7 +699,7 @@ Argentina operates one PC 5 or 6 class light icebreaker<br>note - PC indicates a
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Argentine Republic (Fuerzas Armadas de la República Argentina): Argentine Army (Ejercito Argentino, EA), Navy of the Argentine Republic (Armada Republica, ARA; includes naval aviation and naval infantry), Argentine Air Force (Fuerza Aerea Argentina, FAA)<br><br>Ministry of Security: Gendarmería Nacional Argentina (National Gendarmerie), Coast Guard (Prefectura Naval) (2023)<br>
+Armed Forces of the Argentine Republic (Fuerzas Armadas de la República Argentina): Argentine Army (Ejercito Argentino, EA), Navy of the Argentine Republic (Armada Republica, ARA; includes naval aviation and naval infantry), Argentine Air Force (Fuerza Aerea Argentina, FAA)<br><br>Ministry of Security: Gendarmería Nacional Argentina (National Gendarmerie), Coast Guard (Prefectura Naval) (2024)<br>
 <strong>note: </strong>all federal police forces are under the Ministry of Security<br>
 
 **Military expenditures**<br>
@@ -723,7 +716,7 @@ approximately 80,000 active-duty personnel (50,000 Army; 17,000 Navy, including 
 the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; in recent years, France and the US have been the leading suppliers of equipment; Argentina has an indigenous defense industry that produces air, land, and naval systems (2023)<br>
 
 **Military service age and obligation**<br>
-18-24 years of age for voluntary military service for men and women; conscription suspended in 1995; citizens can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2023)<br>
+18-24 years of age for voluntary military service for men and women; conscription suspended in 1995; citizens can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2024)<br>
 <strong>note: </strong>as of 2022, women comprised about 20% of the active duty military<br>
 
 **Military deployments**<br>

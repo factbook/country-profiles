@@ -467,6 +467,11 @@ _on alcohol and tobacco_: 4.8% of household expenditures (2018 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+0.01% of GDP (2021 est.)<br>
+0.07% of GDP (2020 est.)<br>
+0.22% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $76.694 billion (2020 est.)<br>
 _expenditures_: $88.593 billion (2020 est.)<br>
@@ -632,19 +637,10 @@ _annual freight traffic on registered air carriers_: 1,349,300,000 (2018) mt-km<
 ZK<br>
 
 **Airports**<br>
-123 (2021)<br>
+202 (2024)<br>
 
-**Airports - with paved runways**<br>
-_total_: 39<br>
-_civil airports_: 15<br>
-_military airports_: 2<br>
-_joint use (civil-military) airports_: 1<br>
-_other airports_: 21<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-84<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+62 (2024)<br>
 
 **Pipelines**<br>
 331 km condensate, 2,500 km gas, 172 km liquid petroleum gas, 288 km oil, 198 km refined products (2018)<br>
@@ -659,8 +655,8 @@ _paved_: 61,600 km (2017) (includes 199 km of expressways)<br>
 _unpaved_: 32,400 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 116 (2022)<br>
-_by type_: container ship 1, general cargo 12, oil tanker 5, other 98<br>
+_total_: 117 (2023)<br>
+_by type_: container ship 2, general cargo 12, oil tanker 3, other 100<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga, Wellington<br>

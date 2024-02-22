@@ -332,7 +332,7 @@ _elections/appointments_: amir chosen from within the ruling family, confirmed b
 _description_: unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&nbsp;appointed by the amir; members serve 4-year terms)<br>
 _elections_: snap election held on 6 June 2023 (next to be held in 2027)<br>
 _election results_: <em><br></em>50 non-partisan candidates, including 29 oppositionists; composition of elected members - 49 men, 1 woman, percent of women 2%<br>
-<strong>Note</strong>: on 17 April 2023, Crown Prince Mishal al-AHMAD al-Sabah dissolved the National Assembly, which had been reinstated in March at the direction of the Constitutional Court, following its annulment of the September 2022 election; the Assembly was formally dissolved by royal decree on 1 May 2023, and a new election was held on 6 June<br>
+<strong>note</strong>: on 17 April 2023, Crown Prince Mishal al-AHMAD al-Sabah dissolved the National Assembly, which had been reinstated in March at the direction of the Constitutional Court, following its annulment of the September 2022 election; the Assembly was formally dissolved by royal decree on 1 May 2023, and a new election was held on 6 June<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Constitutional Court (consists of 5 judges); Supreme Court or Court of Cassation (organized into several circuits, each with 5 judges)<br>
@@ -453,6 +453,11 @@ _on alcohol and tobacco_: 0.2% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
+
+**Remittances**<br>
+0.02% of GDP (2020 est.)<br>
+0.02% of GDP (2019 est.)<br>
+0.02% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $77.988 billion (2019 est.)<br>
@@ -617,18 +622,10 @@ _annual freight traffic on registered air carriers_: 392.36 million (2018) mt-km
 9K<br>
 
 **Airports**<br>
-7 (2021)<br>
-
-**Airports - with paved runways**<br>
-4<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-3<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+6 (2024)<br>
 
 **Heliports**<br>
-4 (2021)<br>
+20 (2024)<br>
 
 **Pipelines**<br>
 261 km gas, 540 km oil, 57 km refined products (2013)<br>

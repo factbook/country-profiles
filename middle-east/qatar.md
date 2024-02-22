@@ -458,6 +458,11 @@ _on alcohol and tobacco_: 0.3% of household expenditures (2018 est.)<br>
 _lowest 10%_: 1.3%<br>
 _highest 10%_: 35.9% (2007)<br>
 
+**Remittances**<br>
+0.48% of GDP (2021 est.)<br>
+0.45% of GDP (2020 est.)<br>
+0.33% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $65.922 billion (2019 est.)<br>
 _expenditures_: $57.258 billion (2019 est.)<br>
@@ -621,18 +626,10 @@ _annual freight traffic on registered air carriers_: 12,666,710,000 (2018) mt-km
 A7<br>
 
 **Airports**<br>
-6 (2021)<br>
-
-**Airports - with paved runways**<br>
-4<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-2<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+8 (2024)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+12 (2024)<br>
 
 **Pipelines**<br>
 288 km condensate, 221 km condensate/gas, 2,383 km gas, 90 km liquid petroleum gas, 745 km oil, 103 km refined products (2013)<br>
@@ -641,8 +638,8 @@ A7<br>
 _total_: 7,039 km (2016)<br>
 
 **Merchant marine**<br>
-_total_: 123 (2022)<br>
-_by type_: bulk carrier 6, container ship 4, general cargo 4, oil tanker 3, other 106<br>
+_total_: 123 (2023)<br>
+_by type_: bulk carrier 5, container ship 4, general cargo 4, oil tanker 2, other 108<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Doha, Musay'id, Ra's Laffan<br>
@@ -651,7 +648,7 @@ _LNG terminal(s) (export)_: Ras Laffan<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Qatar Armed Forces (QAF): Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, includes Coast Guard), Qatari Amiri Air Force (QAAF)<br><br>Ministry of Interior: General Directorate of Public Security, General Directorate of Coasts and Border Security, Internal Security Forces (includes Mobile Gendarmerie) (2023)<br>
+Qatar Armed Forces (QAF): Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, includes Coast Guard), Qatari Amiri Air Force (QAAF)<br><br>Ministry of Interior: General Directorate of Public Security, General Directorate of Coasts and Border Security, Internal Security Forces (includes Mobile Gendarmerie) (2024)<br>
 <strong>note:</strong> the national police and Ministry of Interior forces maintain internal security, including preventing terrorism, cyberattacks, and espionage<br>
 
 **Military expenditures**<br>
@@ -672,7 +669,7 @@ conscription for men aged 18-35 introduced in 2013; compulsory service times ran
 <strong>note 1:</strong> the military incorporates about 2,000 conscripts annually<br><br><strong>note 2:</strong> Qatar recruits foreign contract soldiers to overcome manpower limitations<br>
 
 **Military - note**<br>
-the QAF is a small and well-equipped force that is responsible for defense against external threats; following the downturn in ties with Bahrain, Egypt, Saudi Arabia, and the UAE in the mid-2010s, the Qatari Government embarked on a major arms acquisition and modernization program to increase the QAF’s capabilities and regional standing; the Air Force has benefited the most, growing from an inventory of 12 older combat aircraft and a few fighter trainers in 2017 to a current inventory of about 60 modern multirole fighter aircraft from France, the UK, and the US; it is slated to grow to about 100 such aircraft by the mid-2020s; other aircraft acquisitions have included US attack helicopters; the Land Force has re-equipped its armored brigade and separate mechanized and artillery battalions with modern tanks, armored vehicles, and self-propelled artillery, mostly with purchases from Germany and Turkey; meanwhile, the Navy over the same period has received four corvettes and four offshore patrol vessels from Italy and Turkey<br><br>Qatar hosts the regional headquarters for the US Central Command (CENTCOM; established 1983) and more than 8,000 US military forces at various military facilities, including the large Al Udeid Air Base; it has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Qatar also hosts thousands of Turkish military forces at two bases established in 2014 and 2019 (2023)<br>
+the QAF is a small and well-equipped force that is responsible for defense against external threats; following the downturn in ties with Bahrain, Egypt, Saudi Arabia, and the UAE in the mid-2010s, the Qatari Government embarked on a major arms acquisition and modernization program to increase the QAF’s capabilities and regional standing; the Air Force has benefited the most, growing from an inventory of 12 older combat aircraft and a few fighter trainers in 2017 to a current inventory of about 60 modern multirole fighter aircraft from France, the UK, and the US; it is slated to grow to about 100 such aircraft by the mid-2020s; other aircraft acquisitions have included US attack helicopters; the Land Force has re-equipped its armored brigade and separate mechanized and artillery battalions with modern tanks, armored vehicles, and self-propelled artillery, mostly with purchases from Germany and Turkey; meanwhile, the Navy over the same period has received four corvettes and four offshore patrol vessels from Italy and Turkey<br><br>Qatar hosts the regional headquarters for the US Central Command (CENTCOM; established 1983) and several thousand US military forces at various military facilities, including the large Al Udeid Air Base; it has Major Non-NATO Ally status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Qatar also hosts Turkish military forces at two bases established in 2014 and 2019 (2023)<br>
 
 ## Terrorism
 

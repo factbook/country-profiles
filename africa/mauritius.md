@@ -447,6 +447,11 @@ _female_: 32.9%<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+2.36% of GDP (2021 est.)<br>
+2.5% of GDP (2020 est.)<br>
+2.21% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.461 billion (2020 est.)<br>
 _expenditures_: $3.675 billion (2020 est.)<br>
@@ -613,15 +618,10 @@ _annual freight traffic on registered air carriers_: 233.72 million (2018) mt-km
 3B<br>
 
 **Airports**<br>
-5 (2021)<br>
+4 (2024)<br>
 
-**Airports - with paved runways**<br>
-2<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-3<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+1 (2024)<br>
 
 **Roadways**<br>
 _total_: 2,428 km (2015)<br>
@@ -629,8 +629,8 @@ _paved_: 2,379 km (2015) (includes 99 km of expressways)<br>
 _unpaved_: 49 km (2015)<br>
 
 **Merchant marine**<br>
-_total_: 31 (2022)<br>
-_by type_: general cargo 1, oil tanker 5, other 25<br>
+_total_: 32 (2023)<br>
+_by type_: general cargo 1, oil tanker 4, other 27<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Port Louis<br>

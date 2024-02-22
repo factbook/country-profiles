@@ -555,18 +555,10 @@ _inventory of registered aircraft operated by air carriers_: 216<br>
 B<br>
 
 **Airports**<br>
-37 (2021)<br>
-
-**Airports - with paved runways**<br>
-35<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-2<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+53 (2024)<br>
 
 **Heliports**<br>
-31 (2021)<br>
+39 (2024)<br>
 
 **Pipelines**<br>
 25 km condensate, 2,200 km gas, 13,500 km oil (2018)<br>
@@ -616,7 +608,7 @@ men 18-36 years of age may volunteer or must complete 12 months of compulsory mi
 <strong>note 1: </strong>in January 2024, Taiwan extended compulsory service from 4 to 12 months for men born in 2005 and thereafter<strong><br><br>note 2:</strong> as of 2023, women made up about 15% of the active-duty military<br>
 
 **Military - note**<br>
-the military’s primary responsibility is external security, including the defense of the country’s sovereignty and territory, and the protection of Taiwan’s air space, maritime claims, and sea lanes of communication; its main focus is the challenge posed by the People’s Republic of China; the military trains regularly and conducts multiservice exercises; the Army’s primary combat forces include nine mechanized or motorized infantry brigades, four armored brigades, and three artillery brigades; it also has an aviation and special forces command that includes several squadrons of attack helicopters; the Air Force has nearly 300 fighter and multipurpose fighter aircraft organized, plus squadrons for anti-submarine and electronic warfare, early warning, and surveillance; the Navy’s warship inventory includes four destroyers, 22 frigates, more than 40 corvettes, patrol vessels, and missile-armed attack craft, and two combat-capable attack submarines; it also has three marine infantry brigades <br><br>the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2023)<br>
+the military’s primary responsibility is external security, including the defense of the country’s sovereignty and territory, and the protection of Taiwan’s air space, maritime claims, and sea lanes of communication; its main focus is the challenge posed by the People’s Republic of China; the military trains regularly and conducts multiservice exercises; the Army’s primary combat forces include nine mechanized or motorized infantry brigades, four armored brigades, and three artillery brigades; it also has an aviation and special forces command that includes several squadrons of attack helicopters; the Air Force has nearly 300 fighter and multipurpose fighter aircraft organized into tactical wings and squadrons, plus squadrons for anti-submarine and electronic warfare, early warning, and surveillance, as well as an air defense command; the Navy’s warship inventory includes four destroyers, 22 frigates, more than 40 corvettes, patrol vessels, and missile-armed attack craft, and two combat-capable attack submarines; it also has three marine infantry brigades <br><br>the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2023)<br>
 
 ## Space
 

@@ -160,6 +160,9 @@ blue with the flag of the UK in the upper hoist-side quadrant and the South Geor
 
 ## Transportation
 
+**Heliports**<br>
+1 (2024)<br>
+
 **Ports and terminals**<br>
 _major seaport(s)_: Grytviken<br>
 

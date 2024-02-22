@@ -470,6 +470,11 @@ _on alcohol and tobacco_: 2% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3%<br>
 _highest 10%_: 32.2% (2012 est.)<br>
 
+**Remittances**<br>
+8.37% of GDP (2020 est.)<br>
+7.58% of GDP (2019 est.)<br>
+7.45% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $10.623 billion (2019 est.)<br>
 _expenditures_: $17.496 billion (2019 est.)<br>
@@ -634,18 +639,10 @@ _annual freight traffic on registered air carriers_: 436.2 million (2018) mt-km<
 4R<br>
 
 **Airports**<br>
-18 (2021)<br>
-
-**Airports - with paved runways**<br>
-11<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-7<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+18 (2024)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+1 (2024)<br>
 
 **Pipelines**<br>
 7 km refined products<br>
@@ -663,8 +660,8 @@ _unpaved_: 97,116 km (2010)<br>
 160 km (2012) (primarily on rivers in southwest)<br>
 
 **Merchant marine**<br>
-_total_: 92 (2022)<br>
-_by type_: bulk carrier 5, general cargo 13, oil tanker 11, other 63<br>
+_total_: 96 (2023)<br>
+_by type_: bulk carrier 5, general cargo 15, oil tanker 11, other 65<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Colombo<br>
@@ -673,7 +670,7 @@ _container port(s) (TEUs)_: Colombo (7,250,000) (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Sri Lanka Armed Forces: Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy (includes Marine Corps), Sri Lanka Air Force, Sri Lanka Coast Guard; Civil Security Department (Home Guard) <br><br>Ministry of Public Security: Sri Lanka National Police (2023)<br>
+Sri Lanka Armed Forces: Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy (includes Marine Corps), Sri Lanka Air Force, Sri Lanka Coast Guard; Civil Security Department (Home Guard) <br><br>Ministry of Public Security: Sri Lanka National Police (2024)<br>
 <strong>note 1: </strong>the Civil Security Department, also known as the Civil Defense Force, is an auxiliary force administered by the Ministry of Defense<br><br><strong>note 2:</strong> the Sri Lanka Police includes the Special Task Force, a paramilitary unit responsible for counterterrorism and counterinsurgency operations; it coordinates internal security operations with the military<br>
 
 **Military expenditures**<br>
@@ -697,7 +694,7 @@ the military's inventory consists mostly of Chinese and Russian-origin equipment
 100 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA) (2023)<br>
 
 **Military - note**<br>
-the military is responsible for external defense and may be called upon to handle specifically delineated domestic security responsibilities that generally do not include arrest authority; it has sent small numbers of personnel on UN peacekeeping missions; from 1983 to 2009, it fought against the Liberation Tigers of Tamil Eelam (LTTE), a conflict that involved both guerrilla and conventional warfare, as well as acts of terrorism and human rights abuses, and cost the military nearly 30,000 killed; since the end of the war, a large portion of the Army reportedly remains deployed in the majority Tamil-populated northern and eastern provinces; the military over the past decade also has increased its role in a range of commercial sectors including agriculture, hotels, leisure, and restaurants <br><br>the Army did not downsize following the LTTE war and continues to have about 20 infantry divisions, plus several independent brigades and regiments; however, in 2023 the Sri Lankan Government announced that because of the country’s financial crisis, it would slash the size of the Army 40% by 2024 with deeper cuts planned by 2030; the Navy has a frigate transferred from China in 2019 and several offshore patrol ships acquired from India and the US to patrol its territorial waters; it also has a large force of small in-shore patrol and fast attack boats, largely acquired to combat the LTTE; the Air Force is small and much of its inventory is aging; it has a handful of operational fighter aircraft and a few dozen attack and multi-role helicopters<br><br>Sri Lanka traditionally has had close security ties to India; India participated in the LTTE war in 1987-1991 and lost over 1,000 soldiers; the Sri Lankan and Indian militaries continue to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; in recent years, Sri Lanka has increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training (2023)<br>
+the military is responsible for external defense and may be called upon to handle specifically delineated domestic security responsibilities that generally do not include arrest authority; it has sent small numbers of personnel on UN peacekeeping missions; from 1983 to 2009, it fought against the Liberation Tigers of Tamil Eelam (LTTE), a conflict that involved both guerrilla and conventional warfare, as well as acts of terrorism and human rights abuses, and cost the military nearly 30,000 killed; since the end of the war, a large portion of the Army reportedly remains deployed in the majority Tamil-populated northern and eastern provinces; the military over the past decade also has increased its role in a range of commercial sectors including agriculture, hotels, leisure, and restaurants <br><br>the Army did not downsize following the LTTE war and continues to have about 20 infantry divisions, plus several independent brigades and regiments; however, in 2023 the Sri Lankan Government announced that because of the country’s financial crisis, it would slash the size of the Army 40% by 2024 with deeper cuts planned by 2030; the Navy has a frigate transferred from China in 2019 and several offshore patrol ships acquired from India and the US to patrol its territorial waters; it also has a large force of small in-shore patrol and fast attack boats, largely acquired to combat the LTTE; the Air Force is small and much of its inventory is aging; it has a handful of operational fighter aircraft and a few dozen attack and multi-role helicopters<br><br>Sri Lanka traditionally has had close security ties to India; India participated in the LTTE war in 1987-1991, losing over 1,000 soldiers; the Sri Lankan and Indian militaries continue to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; in recent years, Sri Lanka has increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training (2023)<br>
 
 ## Space
 

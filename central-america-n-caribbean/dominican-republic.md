@@ -474,6 +474,11 @@ _on alcohol and tobacco_: 3.8% of household expenditures (2018 est.)<br>
 _lowest 10%_: 1.9%<br>
 _highest 10%_: 37.4% (2013 est.)<br>
 
+**Remittances**<br>
+11.4% of GDP (2021 est.)<br>
+10.57% of GDP (2020 est.)<br>
+8.34% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $12.804 billion (2019 est.)<br>
 _expenditures_: $14.511 billion (2019 est.)<br>
@@ -638,18 +643,10 @@ _inventory of registered aircraft operated by air carriers_: 6<br>
 HI<br>
 
 **Airports**<br>
-36 (2021)<br>
-
-**Airports - with paved runways**<br>
-16<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-20<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+32 (2024)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+4 (2024)<br>
 
 **Pipelines**<br>
 27 km gas, 103 km oil (2013)<br>
@@ -678,25 +675,25 @@ _LNG terminal(s) (import)_: Andres LNG terminal (Boca Chica)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito de la Republica Dominicana, ERD), Navy (Armada de República Dominicana or ARD; includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD) (2023)<br>
-<strong>note 1:</strong> in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation (CESAC), Port Security Authority (CESEP), the Tourist Security Corps (CESTUR), and Border Security Corps (CESFRONT); these specialized corps are made up of military and civilian personnel and assist the National Police, which is under the Ministry of Interior<br>
+Armed Forces of the Dominican Republic: Army of the Dominican Republic (Ejercito de la República Dominicana, ERD), Navy (Armada de República Dominicana or ARD; includes naval infantry), Dominican Air Force (Fuerza Aerea de la República Dominicana, FARD)  (2024)<br>
+<strong>note 1:</strong> in addition to the three main branches of the military, the Ministry of Defense directs the Airport Security Authority and Civil Aviation (CESAC), Port Security Authority (CESEP), the Tourist Security Corps (CESTUR), and Border Security Corps (CESFRONT); these specialized corps are joint forces, made up of personnel from all military branches in addition to civilian personnel; these forces may also assist in overall citizen security working together with the National Police, which is under the Ministry of Interior<br>
 
 **Military expenditures**<br>
+0.4% of GDP (2023 est.)<br>
 0.7% of GDP (2022 est.)<br>
 0.7% of GDP (2021 est.)<br>
 0.8% of GDP (2020 est.)<br>
 0.7% of GDP (2019 est.)<br>
-0.7% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 60,000 active personnel (30,000 Army; 13,000 Navy; 17,000 Air Force); approximately 30,000 National Police (2023)<br>
+information varies; approximately 60,000 active personnel (30,000 Army; 13,000 Navy; 17,000 Air Force); approximately 35,000 National Police (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military is lightly armed with an inventory consisting mostly of older US equipment&nbsp; (2023)<br>
+the military is lightly armed with an inventory consisting mostly of older US equipment (2023)<br>
 
 **Military service age and obligation**<br>
-16-23 years of age for voluntary military service for men and women (ages vary slightly according to military service; under 18 admitted with permission of parents); recruits must have completed primary school and be Dominican Republic citizens (2023)<br>
-<strong>note:</strong> as of 2022, women made up approximately 22% of the active duty military<br>
+16-23 years of age for voluntary military service for men and women (ages vary slightly according to the military service; under 18 admitted with permission of parents); recruits must have completed primary school and be Dominican Republic citizens (2024)<br>
+<strong>note:</strong> as of 2023, women made up approximately 18% of the active duty military<br>
 
 **Military - note**<br>
 the military is responsible for defending the independence, integrity, and sovereignty of the Dominican Republic; it also has an internal security role, which includes assisting with airport, border, port, tourism, and urban security, supporting the police in maintaining or restoring public order, countering transnational crime, and providing disaster or emergency relief/management; a key area of focus is securing the country&rsquo;s 217-mile (350-kilometer) long border with Haiti; the Army in recent years, for example, has assigned three of its six infantry brigades and some 10-12,000 troops to assist with security along the Haitian border; these forces complement the approximately 700 troops of the Border Security Corps permanently deployed along the border; the Air Force and Navy also provide support to the Haitian border mission; the Army has a brigade dedicated to managing and providing relief during natural disasters; the military also contributes personnel to the National Drug Control Directorate, and both the Air Force and Navy devote assets to detecting and interdicting narcotics trafficking; the Navy conducts regular bilateral maritime interdiction exercises with the US Navy (2023)<br>

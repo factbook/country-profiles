@@ -5,7 +5,7 @@ _North America / Dependencies (United Kingdom)_
 ## Introduction
 
 **Background**<br>
-Bermuda was first settled in 1609 by shipwrecked English colonists heading for Virginia. Self-governing since 1620, Bermuda is the oldest and most populous of the British overseas territories. Vacationing to the island to escape North American winters first developed in Victorian times. Tourism continues to be important to the island's economy, although international business has overtaken it in recent years. Bermuda has also developed into a highly successful offshore financial center. A referendum on independence from the UK was soundly defeated in 1995.<br>
+Bermuda was first settled in 1609 by shipwrecked English colonists heading for Virginia. Self-governing since 1620, Bermuda is the oldest and most populous of the British Overseas Territories. Vacationing to the island to escape North American winters first developed in Victorian times. Tourism continues to be important to the island's economy, although international business has overtaken it in recent years. Bermuda has also developed into a highly successful offshore financial center. A referendum on independence from the UK was soundly defeated in 1995.<br>
 
 ## Geography
 
@@ -394,6 +394,11 @@ _female_: 29%<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+22.86% of GDP (2020 est.)<br>
+20.84% of GDP (2019 est.)<br>
+20.02% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $999.2 million (2017 est.)<br>
 _expenditures_: $1.176 billion (2017 est.)<br>
@@ -546,11 +551,7 @@ _subscriptions per 100 inhabitants_: 37 (2020 est.)<br>
 VP-B<br>
 
 **Airports**<br>
-1 (2021)<br>
-
-**Airports - with paved runways**<br>
-1<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+1 (2024)<br>
 
 **Roadways**<br>
 _total_: 447 km<br>

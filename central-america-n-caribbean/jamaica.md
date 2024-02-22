@@ -448,6 +448,11 @@ _female_: 31.4%<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 29.3% (2015)<br>
 
+**Remittances**<br>
+25.29% of GDP (2021 est.)<br>
+22.2% of GDP (2020 est.)<br>
+16.19% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $4.029 billion (2020 est.)<br>
 _expenditures_: $4.564 billion (2020 est.)<br>
@@ -609,15 +614,10 @@ _number of registered air carriers_: 0 (2020)<br>
 6Y<br>
 
 **Airports**<br>
-28 (2021)<br>
+20 (2024)<br>
 
-**Airports - with paved runways**<br>
-11<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-17<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+2 (2024)<br>
 
 **Roadways**<br>
 _total_: 25,595 km (2017)<br>
@@ -634,8 +634,8 @@ _container port(s) (TEUs)_: Kingston (2,004,302) (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Jamaica Defense Force (JDF): Jamaica Regiment (Ground Forces), Maritime-Air-Cyber Command (includes Coast Guard, Air Wing, Military Intelligence Unit, Special Activities Regiment, and Military Cyber Corps), Support Brigade (logistics, engineers, health service, and military police); Jamaica National Service Corps (JNSC); Jamaica Constabulary Force (JCF) (2023)<br>
-<strong>note 1:</strong> the JCF is the country’s police force; it has primary responsibility for internal security and has units for community policing, special response, intelligence gathering, and internal affairs; both it and the JDF are under the Ministry of National Security <br><strong><br>note 2: </strong>the JNSC is a third category of service that military recruits can join as a preparatory phase for future careers; JNSC soldiers receive basic military, vocational, and life skills training; upon completion of 12 months of service, soldiers can continue on with the JDF or the JDF reserves or seek  opportunities in other public sector entities such as the JCF, the Department of Correctional Services, the Jamaica Fire Brigade, the Jamaica Customs Agency, or the Passport Immigration and Citizenship Agency<br>
+Jamaica Defense Force (JDF): Jamaica Regiment (Ground Forces), Maritime-Air-Cyber Command (includes Coast Guard, Air Wing, Military Intelligence Unit, Special Activities Regiment, and Military Cyber Corps), Support Brigade (logistics, engineers, health service, and military police); Jamaica National Service Corps (JNSC); Jamaica Constabulary Force (JCF) (2024)<br>
+<strong>note 1:</strong> the JCF is the country’s police force; it has primary responsibility for internal security and has units for community policing, special response, intelligence gathering, and internal affairs; both it and the JDF are under the Ministry of National Security <br><strong><br>note 2: </strong>the JNSC is a third category of service that military recruits can join as a preparatory phase for future careers; JNSC soldiers receive basic military, vocational, and life skills training; upon completion of 12 months of service, soldiers can continue on with the JDF or the JDF reserves or seek opportunities in other public sector entities such as the JCF, the Department of Correctional Services, the Jamaica Fire Brigade, the Jamaica Customs Agency, or the Passport Immigration and Citizenship Agency<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2022 est.)<br>
@@ -651,7 +651,7 @@ approximately 5,000 personnel (2023)<br>
 the JDF is lightly armed with a limited inventory featuring equipment mostly from Europe and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18-23 for voluntary military service (17 with parental consent) for men and women; 18-28 for the reserves; no conscription; since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC), which has a service requirement of 12 months (2023)<br>
+18-23 for voluntary military service (17 with parental consent) for men and women; 18-28 for the reserves; no conscription; since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC), which has a service requirement of 12 months (2024)<br>
 <strong>note:</strong> as of 2022, women made up about 20% of the JDF's uniformed personnel<br>
 
 **Military - note**<br>

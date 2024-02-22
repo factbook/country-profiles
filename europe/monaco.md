@@ -471,14 +471,13 @@ _subscriptions per 100 inhabitants_: 53 (2020 est.)<br>
 3A<br>
 
 **Heliports**<br>
-1 (2021)<br>
+3 (2024)<br>
 
 **Railways**<br>
 <strong>note:</strong> Monaco has a single railway station but does not operate its own train service;  the French operator SNCF operates rail services in Monaco<br>
 
 **Merchant marine**<br>
-_total_: 1 (2023)<br>
-_by type_: other types of ships 1<br>
+_total_: 1<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Hercules Port<br>

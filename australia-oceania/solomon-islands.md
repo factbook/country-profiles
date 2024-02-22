@@ -431,6 +431,11 @@ _female_: 2.3%<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+3.13% of GDP (2021 est.)<br>
+1.79% of GDP (2020 est.)<br>
+1.57% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $514 million (2019 est.)<br>
 _expenditures_: $537 million (2019 est.)<br>
@@ -597,18 +602,10 @@ _annual freight traffic on registered air carriers_: 3.84 million (2018) mt-km<b
 H4<br>
 
 **Airports**<br>
-36 (2021)<br>
-
-**Airports - with paved runways**<br>
-1<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-35<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+35 (2024)<br>
 
 **Heliports**<br>
-3 (2021)<br>
+1 (2024)<br>
 
 **Roadways**<br>
 _total_: 1,390 km (2011)<br>
@@ -617,8 +614,8 @@ _unpaved_: 1,356 km (2011)<br>
 <strong>note:</strong> includes 920 km of private plantation roads<br>
 
 **Merchant marine**<br>
-_total_: 27 (2022)<br>
-_by type_: general cargo 9, oil tanker 1, other 17<br>
+_total_: 25 (2023)<br>
+_by type_: general cargo 8, oil tanker 1, other 16<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Honiara, Malloco Bay, Viru Harbor, Tulagi<br>
@@ -632,7 +629,7 @@ no regular military forces; the Royal Solomon Islands Police Force is responsibl
 China and Australia have provided equipment to the Police Force; the maritime branch operates patrol boats provided by Australia (2023)<br>
 
 **Military - note**<br>
-Australia and New Zealand provide material and training assistance to the Royal Solomon Islands Police Force<br><br>from 2003 to 2017, at the request of the Solomon Islands Governor-General, the Regional Assistance Mission to Solomon Islands (RAMSI), consisting of police, military, and civilian advisors drawn from 15 countries, assisted in reestablishing and maintaining civil and political order while reinforcing regional stability and security; since November 2021, the Australian-led Solomon Islands Assistance Force (SIAF) has supported the RSIPF to maintain stability; the SIAF includes police and military from Australia, New Zealand, Fiji, and Papua New Guinea; the Solomon Islands Government has also signed police and security agreements with China and a small Chinese Police Liaison Team is embedded with the RSIPF (2023)<br>
+from 2003 to 2017, at the request of the Solomon Islands Governor-General, the Regional Assistance Mission to Solomon Islands (RAMSI), consisting of police, military, and civilian advisors drawn from 15 countries, assisted in reestablishing and maintaining civil and political order while reinforcing regional stability and security; since November 2021, the Australian-led Solomon Islands Assistance Force (SIAF) has supported the RSIPF to maintain stability; the SIAF includes police and military from Australia, New Zealand, Fiji, and Papua New Guinea; the Solomon Islands Government has also signed police and security agreements with China and a small Chinese police liaison team is embedded with the RSIPF (2024)<br>
 
 ## Transnational Issues
 

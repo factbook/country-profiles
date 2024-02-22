@@ -336,6 +336,11 @@ _female_: 69%<br>
 **Gini Index coefficient - distribution of family income**<br>
 33.7 (2016 est.)<br>
 
+**Remittances**<br>
+18.81% of GDP (2021 est.)<br>
+16.48% of GDP (2020 est.)<br>
+18.4% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $3.803 billion (2020 est.)<br>
 _expenditures_: $5.002 billion (2020 est.)<br>
@@ -462,16 +467,6 @@ _subscriptions per 100 inhabitants_: 7 (2020 est.)<br>
 <strong>note:</strong> includes the West Bank<br>
 
 ## Transportation
-
-**Airports**<br>
-1 (2021)<br>
-
-**Airports - with paved runways**<br>
-1<br>
-<strong>note:</strong> non-operational<br>
-
-**Heliports**<br>
-1 (2021)<br>
 
 **Roadways**<br>
 <p><strong>note:</strong> see entry for the West Bank</p><br>

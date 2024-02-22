@@ -81,7 +81,7 @@ _noun_: Equatorial Guinean(s) or Equatoguinean(s)<br>
 _adjective_: Equatorial Guinean or Equatoguinean<br>
 
 **Ethnic groups**<br>
-Fang 85.7%, Bubi 6.5%, Ndowe (includes Bujeba 1.1%) 4.7%, Nanguedambo 1.6%, other 1.4% (1994 est.)<br>
+Fang 78.1%, Bubi 9.4%, Ndowe 2.8%, Nanguedambo 2.7%, Bisio 0.9%, foreigner 5.3%, other 0.7%, unspecified 0.2% (2011 est.)<br>
 
 **Languages**<br>
 Spanish (official) 67.6%, other (includes Fang, Bubi, Portuguese (official), French (official), Fa d'Ambo spoken in Annobon) 32.4% (1994 est.)<br>
@@ -424,6 +424,11 @@ _female_: 19.9%<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+0% of GDP (2019 est.)<br>
+0% of GDP (2018 est.)<br>
+0% of GDP (2017 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.604 billion (2018 est.)<br>
 _expenditures_: $2.535 billion (2018 est.)<br>
@@ -588,15 +593,7 @@ _annual freight traffic on registered air carriers_: 350,000 (2018) mt-km<br>
 3C<br>
 
 **Airports**<br>
-7 (2021)<br>
-
-**Airports - with paved runways**<br>
-6<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-1<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+7 (2024)<br>
 
 **Pipelines**<br>
 42 km condensate, 5 km condensate/gas, 79 km gas, 71 km oil (2013)<br>

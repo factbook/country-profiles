@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-The Siboney were the first people to inhabit the islands of Antigua and Barbuda in 2400 B.C., but Arawak Indians populated the islands when Christopher COLUMBUS landed on his second voyage in 1493. Early Spanish and French settlements were succeeded by an English colony in 1667. Slavery, to provide labor on the sugar plantations on Antigua, was abolished in 1834. The islands became an independent state within the British Commonwealth of Nations in 1981. On 6 September 2017, Hurricane Irma passed over the island of Barbuda devastating the island and forcing the evacuation of the population to Antigua. Almost all of the structures on Barbuda were destroyed and the vegetation stripped, but Antigua was spared the worst.<br>
+The Siboney were the first people to inhabit the islands of Antigua and Barbuda in 2400 B.C., but the Arawaks populated the islands when Christopher COLUMBUS landed on his second voyage in 1493. Early Spanish and French settlements were succeeded by an English colony in 1667. Slavery, which provided labor on the sugar plantations on Antigua, was abolished in 1834. The islands became an independent state within the British Commonwealth of Nations in 1981. On 6 September 2017, Hurricane Irma passed over the island of Barbuda devastating the island and forcing the evacuation of the population to Antigua. Almost all of the structures on Barbuda were destroyed and the vegetation stripped, but Antigua was spared the worst.<br>
 
 ## Geography
 
@@ -312,7 +312,7 @@ _election results_: <br>Senate - composition as of January 2024 - men 10, women 
 
 **Judicial branch**<br>
 _highest court(s)_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Antigua and Barbuda<br>
-_judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
+_judge selection and term of office_: chief justice of Eastern Caribbean Supreme Court appointed by the His Majesty, King CHARLES III; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62<br>
 _subordinate courts_: Industrial Court; Magistrates' Courts<br>
 
 **Political parties and leaders**<br>
@@ -330,7 +330,7 @@ _email address and website_: <br>embantbar@aol.com<br><br>https://www.antigua-ba
 _consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: the US does not have an embassy in Dominica; the US Ambassador to Barbados Linda S. TAGLIALATELA is accredited to Dominica<br>
+_embassy_: the US does not have an embassy in Antigua and Barbuda; the US Ambassador to Barbados is accredited to Antigua and Barbuda<br>
 
 **Flag description**<br>
 red, with an inverted isosceles triangle based on the top edge of the flag; the triangle contains three horizontal bands of black (top), light blue, and white, with a yellow rising sun in the black band; the sun symbolizes the dawn of a new era, black represents the African heritage of most of the population, blue is for hope, and red is for the dynamism of the people; the "V" stands for victory; the successive yellow, blue, and white coloring is also meant to evoke the country's tourist attractions of sun, sea, and sand<br>
@@ -411,6 +411,11 @@ NA<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
+
+**Remittances**<br>
+3.41% of GDP (2021 est.)<br>
+2.65% of GDP (2020 est.)<br>
+2.19% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $278 million (2020 est.)<br>
@@ -576,15 +581,10 @@ _annual freight traffic on registered air carriers_: 290,000 (2018) mt-km<br>
 V2<br>
 
 **Airports**<br>
-3 (2021)<br>
+3 (2024)<br>
 
-**Airports - with paved runways**<br>
-2<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-1<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+2 (2024)<br>
 
 **Roadways**<br>
 _total_: 1,170 km<br>
@@ -602,19 +602,19 @@ _cruise port(s)_: St. John's<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Antigua and Barbuda Defense Force (ABDF): Antigua and Barbuda Regiment, Air Wing, Coast Guard<br><br>Royal Police Force of Antigua and Barbuda (2023)<br>
+Antigua and Barbuda Defense Force (ABDF): Antigua and Barbuda Regiment, Air Wing, Coast Guard<br><br>Royal Police Force of Antigua and Barbuda (2024)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 250 active military personnel (2023)<br>
+approximately 250 active military personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ABDF's equipment inventory is limited to small arms, light weapons, and soft-skin vehicles; the Coast Guard maintains ex-US patrol vessels and some smaller boats (2023)<br>
+the ABDF's equipment inventory is limited to small arms, light weapons, and soft-skin vehicles; the Coast Guard maintains ex-US patrol vessels and some smaller boats (2024)<br>
 
 **Military service age and obligation**<br>
 18-23 years of age for voluntary military service for both men and women; no conscription (2023)<br>
 
 **Military - note**<br>
-the ABDF’s responsibilities include providing for internal security and support to the police in maintaining law and order, interdicting narcotics smuggling, responding to natural disasters, and monitoring the country’s territorial waters and maritime resources; established in 1981 from colonial forces originally created in 1897, it is one of the world’s smallest militaries<br><br>the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2023)<br>
+the ABDF’s responsibilities include providing for internal security and support to the police in maintaining law and order, interdicting narcotics smuggling, responding to natural disasters, and monitoring the country’s territorial waters and maritime resources; established in 1981 from colonial forces originally created in 1897, it is one of the world’s smallest militaries<br><br>the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2023)<br>
 
 ## Transnational Issues
 

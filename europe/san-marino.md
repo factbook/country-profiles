@@ -497,6 +497,12 @@ _subscriptions per 100 inhabitants_: 32 (2020 est.)<br>
 **Civil aircraft registration country code prefix**<br>
 T7<br>
 
+**Airports**<br>
+1 (2024)<br>
+
+**Heliports**<br>
+1 (2024)<br>
+
 **Roadways**<br>
 _total_: 292 km (2006)<br>
 _paved_: 292 km (2006)<br>
@@ -504,7 +510,7 @@ _paved_: 292 km (2006)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Military Corps (National Guard): Guard of the Rock (or Fortress Guard), Uniformed Militia, Guard of the Great and General Council, Corps of the Gendarmerie<br><br>Ministry of Internal Affairs: Civil Police Corps (2023)<br>
+Military Corps (National Guard): Guard of the Rock (or Fortress Guard), Uniformed Militia, Guard of the Great and General Council, Corps of the Gendarmerie<br><br>Ministry of Internal Affairs: Civil Police Corps (2024)<br>
 <strong>note:</strong> the captains regent oversees the Gendarmerie and National Guard when they are performing duties related to public order and security; the Ministry of Foreign Affairs exercises control over such administrative functions as personnel and equipment, and the courts exercise control over the Gendarmerie when it acts as judicial police<br>
 
 **Military service age and obligation**<br>

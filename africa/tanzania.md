@@ -495,6 +495,11 @@ _on alcohol and tobacco_: 4.2% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 29.6% (2007)<br>
 
+**Remittances**<br>
+0.52% of GDP (2020 est.)<br>
+0.71% of GDP (2019 est.)<br>
+0.72% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $8.968 billion (2019 est.)<br>
 _expenditures_: $10.017 billion (2019 est.)<br>
@@ -662,15 +667,7 @@ _annual freight traffic on registered air carriers_: 390,000 (2018) mt-km<br>
 5H<br>
 
 **Airports**<br>
-166 (2021)<br>
-
-**Airports - with paved runways**<br>
-10<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-156<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+206 (2024)<br>
 
 **Pipelines**<br>
 311 km gas, 891 km oil, 8 km refined products (2013)<br>
@@ -690,8 +687,8 @@ _unpaved_: 134,002 km (2022)<br>
 1,594 km (2022) (Lake Tanganyika 673 km, Lake Victoria 337 km, and Lake Nyasa (Lake Malawi) 584 km are the principal avenues of commerce with neighboring countries; the rivers are not navigable)<br>
 
 **Merchant marine**<br>
-_total_: 322 (2022)<br>
-_by type_: bulk carrier 4, container ship 9, general cargo 148, oil tanker 46, other 115<br>
+_total_: 381 (2023)<br>
+_by type_: bulk carrier 4, container ship 17, general cargo 170, oil tanker 58, other 132<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dar es Salaam, Zanzibar<br>
@@ -723,7 +720,7 @@ the TPDF's inventory includes mostly Soviet-era and Chinese equipment; in recent
 <strong>note:</strong> in 2021, Tanzania began contributing troops to the Southern African Development Community (SADC) intervention force that was assisting the Mozambique Government's fight against Islamic militants<br>
 
 **Military - note**<br>
-the TDPF&rsquo;s primary concerns are maritime piracy and smuggling, border security, terrorism, animal poaching, and spillover from instability in neighboring countries, particularly Mozambique and the Democratic Republic of the Congo (DRC); it participates in multinational training exercises, regional peacekeeping deployments, and has ties with a variety of foreign militaries, including those of China and the US; it has contributed troops to the UN&rsquo;s Force Intervention Brigade in the DRC and to the Southern African Development Community intervention force in Mozambique; since 2020, the TPDF has deployed additional troops to its border with Mozambique following several cross-border attacks by fighters from the Islamic State of Iraq and ash-Sham operating in Mozambique; the TPDF&rsquo;s principal ground forces are 5 infantry brigades and an armored brigade; the Naval Forces operate patrol and fast attack boats, while the Air Force inventory includes small numbers of combat aircraft and helicopters (2023)<br>
+the TDPF&rsquo;s primary concerns are maritime piracy and smuggling, border security, terrorism, animal poaching, and spillover from instability in neighboring countries, particularly Mozambique and the Democratic Republic of the Congo (DRC); it participates in multinational training exercises, regional peacekeeping deployments, and has ties with a variety of foreign militaries, including those of China and the US; it has contributed troops to the UN&rsquo;s Force Intervention Brigade in the DRC and to the Southern African Development Community intervention force in Mozambique; since 2020, the TPDF has deployed additional troops to its border with Mozambique following several cross-border attacks by fighters from the Islamic State of Iraq and ash-Sham operating in Mozambique; the TPDF&rsquo;s principal ground forces are five infantry brigades and an armored brigade; the Naval Forces operate patrol and fast attack boats, while the Air Force inventory includes small numbers of combat aircraft and helicopters (2023)<br>
 
 ## Terrorism
 

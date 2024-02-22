@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Berber and Bafour people were among the first to settle in what is now Mauritania. Originally a nomadic people, they were among the first in recorded history to convert from a nomadic to agricultural lifestyle. These groups account for roughly one third of Mauritania’s ethnic makeup. The remainder of Mauritania’s ethnic groups derive from former enslaved peoples and Sub-Saharan ethnic groups originating mainly from the Senegal River Valley. These three groups are organized according to a strict caste system with deep ethnic divides that still exist today.<br><br>A former French colony, Mauritania achieved independence from France in 1960. Mauritania initially began as a single-party, authoritarian regime and saw 49 years of dictatorships, flawed elections, failed attempts at democracy, and military coups. Ould Abdel AZIZ led the last coup in 2008, and was elected president in 2009 and reelected in 2014. Mohamed Ould Cheikh GHAZOUANI was elected president in 2019, and his inauguration marked the first peaceful transition of power from one democratically elected president to another, solidifying Mauritania’s status as an emerging democracy. International observers recognized the elections as relatively free and fair.</p> <p>The country is working to address a continuing practice of slavery and its vestiges. Mauritania officially abolished slavery in 1981, but the practice was not criminalized until 2007. Between 2005 and 2011, Al-Qaeda in the Islamic Maghreb (AQIM) launched a series of attacks killing American and foreign tourists and aid workers, attacking diplomatic and government facilities, and ambushing Mauritanian soldiers and gendarmes. Although Mauritania has not seen an attack since 2011, AQIM and similar groups remain active in the Sahel region.</p> <p> </p><br>
+<p>The Amazigh and Bafour people were among the first to settle in what is now Mauritania. Originally a nomadic people, they were among the first in recorded history to convert from a nomadic to agricultural lifestyle. These groups account for roughly one third of Mauritania’s ethnic makeup. The remainder of Mauritania’s ethnic groups derive from Sub-Saharan ethnic groups originating mainly from the Senegal River Valley, including descendants of former enslaved peoples. These three groups are organized according to a strict caste system with deep ethnic divides that impact access to resources and power dynamics.<br><br>A former French colony, Mauritania achieved independence from France in 1960. Mauritania initially began as a single-party, authoritarian regime and experienced 49 years of dictatorships, flawed elections, failed attempts at democracy, and military coups. Ould Abdel AZIZ led the last coup in 2008, was elected president in 2009, and was reelected in 2014. Mohamed Ould Cheikh GHAZOUANI was elected president in 2019, and his inauguration marked the first peaceful transition of power from one democratically elected president to another, solidifying Mauritania’s status as an emerging democracy. International observers recognized the elections as relatively free and fair. President GHAZOUANI is seeking re-election in June 2024 for a second, and final, five-year term.</p> <p>The country is working to address vestigial practices of slavery and its hereditary impacts. Mauritania officially abolished slavery in 1981, but the practice was not criminalized until 2007. Between 2005 and 2011, Al-Qaeda in the Islamic Maghreb (AQIM) launched a series of attacks killing western tourists and aid workers, attacking diplomatic and government facilities, and ambushing Mauritanian soldiers and gendarmes. Although Mauritania has not seen an attack since 2011, AQIM and similar groups remain active in the Sahel region.</p> <p> </p><br>
 
 ## Geography
 
@@ -364,7 +364,7 @@ _election results_: National Assembly - percent of vote by party - NA; seats by 
 <strong>note -</strong> the early parliamentary elections in 2023 were the first to be held under President Mohamed Ould Cheikh El Ghazouani, elected in 2019 in a first peaceful transition of power; the elections followed the agreement between the government and parties in September 2022 to renew the Independent National Electoral Commission (CENI) and hold the elections in the first semester of 2023 for climatic and logistical reasons<br>
 
 **Judicial branch**<br>
-_highest court(s)_: Supreme Court or Cour Supreme (subdivided into 7 chambers: 2 civil, 2 labor, 1 commercial, 1 administrative, and 1 criminal, each with a chamber president and 2 councilors ); Constitutional Council (consists of 9 members); High Court of Justice (consists of 9 members)<br>
+_highest court(s)_: Supreme Court or Cour Supreme (subdivided into 7 chambers: 2 civil, 2 labor, 1 commercial, 1 administrative, and 1 criminal, each with a chamber president and 2 councilors); Constitutional Council (consists of 9 members); High Court of Justice (consists of 9 members)<br>
 _judge selection and term of office_: Supreme Court president appointed by the president of the republic to serve a 5-year renewable term; Constitutional Council members appointed - 3 by the president of the republic, 2 by the president of the National Assembly, 1 by the prime minister, 1 by the leader of the democratic opposition, 1 by the largest opposition party in the National Assembly, and 1 by the second largest party in the National Assembly; members serve single, 9-year terms with one-third of membership renewed every 3 years; High Court of Justice members appointed by Parliament - 6 by the ruling Coalition of Majority Parties and 3 by opposition parties<br>
 _subordinate courts_: Courts of Appeal; courts of first instance or wilya courts are established in the regions' headquarters and include commercial and labor courts, criminal courts, Moughataa (district) Courts, and informal/customary courts<br>
 
@@ -379,7 +379,7 @@ _chief of mission_: Ambassador BOIDE Cisse (since 15 September 2021)<br>
 _chancery_: 2129 Leroy Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 232-5700<br>
 _FAX_: [1] (202) 319-2623<br>
-_email address and website_: <br>ambarimwashington@diplomatie.gov.mr; ambarimwash@gmail.com<br><br>mauritaniaembassyus.org – Mauritania Embassy washington<br>
+_email address and website_: <br>ambarimwash@gmail.com; ambarimwashington@diplomatie.gov.mr<br><br>mauritaniaembassyus.org – Mauritania Embassy washington<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Cynthia KIERSCHT (since 27 January 2021)<br>
@@ -479,6 +479,11 @@ _female_: 27.9%<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.5%<br>
 _highest 10%_: 29.5% (2000)<br>
+
+**Remittances**<br>
+2.01% of GDP (2020 est.)<br>
+0.8% of GDP (2019 est.)<br>
+0.81% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $1.617 billion (2019 est.)<br>
@@ -616,7 +621,7 @@ _total subscriptions_: 6,512,361 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 141 (2021 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Mauritania&rsquo;s small population and low economic output has limited the country&rsquo;s ability to develop sustained growth in the telecom sector; low disposable income has restricted growth in the use of services, and thus of revenue which telcos can hope to gain from subscribers; this has impacted on their ability to invest in network upgrades and improvements to service offerings; this has been reflected in the repeated fines imposed against them by the regulator for failing to ensure a good quality of service; there are also practical challenges relating to transparency and tax burdens which have hindered foreign investment; financial support has been forthcoming from the government as well as the World Bank and European Investment Bank; their efforts have focused on implementing appropriate regulatory measures and promoting the further penetration of fixed-line broadband services by improving the national backbone network, ensuring connectivity to international telecom cables, and facilitating operator access to infrastructure; progress has been made to improve internet bandwidth capacity, including the completion of a cable link at the border with Algeria, and the connection to the EllaLink submarine cable; the final stage of the national backbone network was completed in December 2021, which now runs to some 4,000km; penetration of fixed telephony and broadband service is very low and is expected to remain so in coming years, though growth is anticipated following improvements to backbone infrastructure and the reduction in access pricing; most voice and data services are carried over the mobile networks (2022)<br>
+_general assessment_: Mauritania&rsquo;s small population and low economic output has limited the country&rsquo;s ability to develop sustained growth in the telecom sector; low disposable income has restricted growth in the use of services; this has impacted their ability to invest in network upgrades and improvements to service offerings; this has been reflected in the repeated fines imposed against them by the regulator for failing to ensure a good quality of service; there are also practical challenges related to transparency and tax burdens which have hindered foreign investment; financial support has been forthcoming from the government as well as the World Bank and European Investment Bank; their efforts have focused on implementing appropriate regulatory measures and promoting the further penetration of fixed-line broadband services by improving the national backbone network, ensuring connectivity to international telecom cables, and facilitating operator access to infrastructure; progress has been made to improve internet bandwidth capacity, including the completion of a cable link at the border with Algeria, and the connection to the EllaLink submarine cable; the final stage of the national backbone network was completed in December 2021, which now runs to some 4,000km; penetration of fixed telephony and broadband service is very low and is expected to remain so in coming years, though growth is anticipated following improvements to backbone infrastructure and the reduction in access pricing; most voice and data services are carried over the mobile networks (2022)<br>
 _domestic_: fixed-line teledensity 1 per 100 persons; mobile-cellular teledensity of roughly 141 per 100 persons (2021)<br>
 _international_: country code - 222; landing point for the ACE submarine cable for connectivity&nbsp;to 19 West African countries and 2 European countries; satellite earth stations - 3 (1 Intelsat - Atlantic Ocean, 2 Arabsat) (2019)<br>
 
@@ -645,15 +650,10 @@ _annual passenger traffic on registered air carriers_: 454,435 (2018)<br>
 5T<br>
 
 **Airports**<br>
-30 (2021)<br>
+25 (2024)<br>
 
-**Airports - with paved runways**<br>
-9<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-21<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+3 (2024)<br>
 
 **Railways**<br>
 _total_: 728 km (2014)<br>
@@ -668,7 +668,7 @@ _unpaved_: 8,265 km (2018)<br>
 1,086 km (2022) (some navigation possible on the Senegal River)<br>
 
 **Merchant marine**<br>
-_total_: 11 (2022)<br>
+_total_: 11 (2023)<br>
 _by type_: general cargo 2, other 9<br>
 
 **Ports and terminals**<br>

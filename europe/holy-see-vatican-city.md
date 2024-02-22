@@ -327,6 +327,9 @@ the Vatican Apostolic Library is one of the world's oldest libraries, formally e
 
 ## Transportation
 
+**Heliports**<br>
+1 (2024)<br>
+
 ## Military and Security
 
 **Military and security forces**<br>

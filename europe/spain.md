@@ -476,6 +476,11 @@ _on alcohol and tobacco_: 3.5% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.5%<br>
 _highest 10%_: 24% (2011)<br>
 
+**Remittances**<br>
+0.28% of GDP (2021 est.)<br>
+0.23% of GDP (2020 est.)<br>
+0.23% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $546.084 billion (2019 est.)<br>
 _expenditures_: $585.979 billion (2019 est.)<br>
@@ -648,22 +653,10 @@ _annual freight traffic on registered air carriers_: 1.117 billion (2018) mt-km<
 EC<br>
 
 **Airports**<br>
-135 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 102<br>
-_civil airports_: 28<br>
-_military airports_: 6<br>
-_joint use (civil-military) airports_: 13<br>
-_other airports_: 55<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-33<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+363 (2024)<br>
 
 **Heliports**<br>
-13 (2021)<br>
+121 (2024)<br>
 
 **Pipelines**<br>
 10,481 km gas, 358 km oil, 4,378 km refined products (2017)<br>
@@ -678,8 +671,8 @@ _total_: 150,110 km (2021)<br>
 1,000 km (2012)<br>
 
 **Merchant marine**<br>
-_total_: 494 (2022)<br>
-_by type_: bulk carrier 1, general cargo 35, oil tanker 23, other 435<br>
+_total_: 503 (2023)<br>
+_by type_: bulk carrier 1, general cargo 33, oil tanker 24, other 445<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: <br><em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa Cruz de Tenerife (in the Canary Islands)<br><em>Mediterranean Sea:</em> Algeciras, Barcelona, Cartagena, Tarragona, Valencia<br>
@@ -690,7 +683,7 @@ _river port(s)_: Seville (Guadalquivir River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Spanish Armed Forces (Fuerzas Armadas de España): Army (Ejército de Tierra), Spanish Navy (Armada Espanola; includes Marine Corps), Air and Space Force (Ejército del Aire y del Espacio), Emergency Response Unit (Unidad Militar de Emergencias); Civil Guard (Guardia Civil) (2023)<br>
+Spanish Armed Forces (Fuerzas Armadas de España): Army (Ejército de Tierra), Spanish Navy (Armada Espanola; includes Marine Corps), Air and Space Force (Ejército del Aire y del Espacio), Emergency Response Unit (Unidad Militar de Emergencias); Civil Guard (Guardia Civil) (2024)<br>
 <strong>note 1:</strong> the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defense and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance<br><br><strong>note 2:</strong> the Emergency Response Unit was established in 2006 as a separate branch of service for responding to natural disasters and providing disaster relief both domestically and abroad; it has personnel from all the other military services<br><br><strong>note 3:</strong> the Spanish National Police (Cuerpo Nacional de Policía, CNP) and the Civil Guard maintain internal security as well as migration and border enforcement under the authority of the Ministry of the Interior; the regional police under the authority of the Catalan and the Basque Country regional governments and municipal police throughout the country also support domestic security <br><br><strong>note 4:</strong> the military has a Common Corps of four specialized corps that provide professional services to all the branches of the Armed Forces and the Civil Guard, including comptroller, legal, medical, and music services<br><br><strong>note 5: </strong>the Royal Guard is an independent regiment of the military dedicated to the protection of the King and members of the royal family; it is made up of members of the Army, Navy, Air Force, and Common Corps<br>
 
 **Military expenditures**<br>
@@ -716,7 +709,7 @@ approximately 200 Iraq (NATO/EU training assistance); up to 600 Latvia (NATO); 6
 <strong>note 1: </strong>as of 2023, up to 3,000 Spanish soldiers and civil guards were deployed on 17 missions on four continents <strong><br><br>note 2: </strong>in response to Russia’s invasion of Ukraine, some NATO countries, including Spain, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-the Spanish Armed Forces are a modern and professional military with a wide variety of responsibilities, including protecting the country’s national interests, sovereignty, and territory, providing support during natural disasters, and fulfilling Spain’s responsibilities to European and international security; the military conducts operations worldwide, and its air, ground, and naval forces participate in a variety of EU-, NATO-, and UN-led missions; Spain joined NATO in 1982 and is fully integrated into the NATO structure; it routinely conducts exercises with EU and NATO partners, and hosts one of NATO’s two combined air operations centers <br><br>the military is organized into commands for air, cyberspace, joint, land, maritime, and space operations; it also has a separate Emergency Response Unit, a permanent joint service force designed to respond to catastrophes and emergencies in both domestic and overseas environments; the Army is the largest service and has two divisional headquarters with several subordinate brigades of mechanized infantry and one of paratroopers; there are also separate commands for air defense, artillery, aviation, mountain troops, and special operations forces, as well as for the garrison units in the Balearic Islands, the Canary Islands, Ceuta, and Melilla<br><br>the basic structure of the Navy’s operational units includes surface and action forces, aviation and submarine flotillas, and a marine corps; the Surface Combat Force includes amphibious, mine warfare, surface warship, and escort squadrons and groups, while the Maritime Action Force is generally made up of units and assets whose main task is to conduct maritime security and surveillance operations in geographically based areas such as the Balearic and Canary islands, Cadiz, and Cartagena; the Navy’s principal warships include 11 frigates, four attack submarines, and three large helicopter-capable amphibious assault ships; it also has squadrons of multirole fighters and anti-submarine warfare aircraft; the 5,500-strong Marine Corps (aka Marine Infantry or Infantería de Armada) has amphibious, garrison, and special operations forces<br><br>the Air Force is organized into an Air Combat Command, home to the air combat squadrons, a General Air Command, and a Canary Islands Air Command; it has approximately 400 aircraft, including about 170 modern European- and US-made fighters and multirole fighter aircraft; in addition to traditional military operations, the Air Force supports such missions as medical operations, delivering humanitarian aid, evacuations, search and rescue, firefighting, and surveillance<br><br>the Spanish military has a rich history that goes back to the 13th century; the Army has an infantry regiment, formed in the 13th century, that is considered the oldest still active military unit in the Western world; the Marine Corps, which traces its roots back to 1537, is the oldest naval infantry force in the World; Spain created a Spanish Legion for foreigners in 1920, but early on the Legion was primarily filled by native Spaniards due to difficulties in recruiting foreigners, and most of its foreign members were from the Republic of Cuba; it was modeled after the French Foreign Legion and its purpose was to provide a corps of professional troops to fight in Spain's colonial campaigns in North Africa; in more recent years, it has been used in NATO peacekeeping deployments; today’s Legion includes a mix of native Spaniards and foreigners with Spanish residency (2023)<br>
+the Spanish Armed Forces have a wide variety of responsibilities, including protecting the country’s national interests, sovereignty, and territory, providing support during natural disasters, and fulfilling Spain’s responsibilities to European and international security; the military conducts operations worldwide, and its air, ground, and naval forces participate in a variety of EU-, NATO-, and UN-led missions; Spain joined NATO in 1982 and is fully integrated into the NATO structure; it routinely conducts exercises with EU and NATO partners, and hosts one of NATO’s two combined air operations centers <br><br>the military is organized into commands for air, cyberspace, joint, land, maritime, and space operations; it also has a separate Emergency Response Unit, a permanent joint service force designed to respond to catastrophes and emergencies in both domestic and overseas environments; the Army is the largest service and has two divisional headquarters with several subordinate brigades of mechanized infantry and one of paratroopers; there are also separate commands for air defense, artillery, aviation, mountain troops, and special operations forces, as well as for the garrison units in the Balearic Islands, the Canary Islands, Ceuta, and Melilla<br><br>the basic structure of the Navy’s operational units includes surface and action forces, aviation and submarine flotillas, and a marine corps; the Surface Combat Force includes amphibious, mine warfare, surface warship, and escort squadrons and groups, while the Maritime Action Force is generally made up of units and assets whose main task is to conduct maritime security and surveillance operations in geographically based areas such as the Balearic and Canary islands, Cadiz, and Cartagena; the Navy’s principal warships include 11 frigates, four attack submarines, and three large helicopter-capable amphibious assault ships; it also has squadrons of multirole fighters and anti-submarine warfare aircraft; the 5,500-strong Marine Corps (aka Marine Infantry or Infantería de Armada) has amphibious, garrison, and special operations forces<br><br>the Air Force is organized into an Air Combat Command, home to the air combat squadrons, a General Air Command, and a Canary Islands Air Command; it has approximately 400 aircraft, including about 170 modern European- and US-made fighters and multirole fighter aircraft; in addition to traditional military operations, the Air Force supports such missions as medical operations, delivering humanitarian aid, evacuations, search and rescue, firefighting, and surveillance<br><br>the Spanish military has a rich history that goes back to the 13th century; the Army has an infantry regiment, formed in the 13th century, that is considered the oldest still active military unit in the Western world; the Marine Corps, which traces its roots back to 1537, is the oldest naval infantry force in the World; Spain created a Spanish Legion for foreigners in 1920, but early on the Legion was primarily filled by native Spaniards due to difficulties in recruiting foreigners, and most of its foreign members were from the Republic of Cuba; it was modeled after the French Foreign Legion and its purpose was to provide a corps of professional troops to fight in Spain's colonial campaigns in North Africa; in more recent years, it has been used in NATO peacekeeping deployments; today’s Legion includes a mix of native Spaniards and foreigners with Spanish residency (2023)<br>
 
 ## Space
 

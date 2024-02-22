@@ -471,6 +471,11 @@ _on alcohol and tobacco_: 4.7% of household expenditures (2018 est.)<br>
 _lowest 10%_: 1.2%<br>
 _highest 10%_: 38.4% (2014)<br>
 
+**Remittances**<br>
+25.29% of GDP (2021 est.)<br>
+23.45% of GDP (2020 est.)<br>
+21.53% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $6.476 billion (2019 est.)<br>
 _expenditures_: $6.454 billion (2019 est.)<br>
@@ -637,15 +642,10 @@ _annual freight traffic on registered air carriers_: 450,000 (2018) mt-km<br>
 HR<br>
 
 **Airports**<br>
-103 (2021)<br>
+129 (2024)<br>
 
-**Airports - with paved runways**<br>
-13<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-90<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+6 (2024)<br>
 
 **Railways**<br>
 _total_: 699 km (2014)<br>
@@ -688,7 +688,7 @@ approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1
 the FFAA's inventory is comprised of mostly older imported equipment from Israel, the UK, and the US; in recent years, it has received limited amounts of military equipment from several countries, including Colombia and Israel (2023)<br>
 
 **Military service age and obligation**<br>
-18-22 years of age for voluntary military service for men and women; 24-36 month service obligation; no conscription (2023)<br>
+18-22 years of age for voluntary military service for men and women; 24-36 month service obligation; no conscription (2024)<br>
 <strong>note: </strong>as of 2023, women made up about 9% of the active duty military<br>
 
 **Military - note**<br>
@@ -697,7 +697,7 @@ the Honduran Armed Forces (FFAA) are responsible for maintaining the country’s
 ## Transnational Issues
 
 **Disputes - international**<br>
-<em>Honduras-El Salvador:</em> International Court of Justice (ICJ) ruled on the delimitation of "bolsones" (disputed areas) along the El Salvador-Honduras border in 1992 with final settlement by the parties in 2006 after an Organization of American States survey and a further ICJ ruling in 2003; the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca with consideration of Honduran access to the Pacific; El Salvador continues to claim tiny Conejo Island, not mentioned in the ICJ ruling, off Honduras in the Gulf of Fonseca. <br><em><br>Honduras-Belize:</em> Honduras claims the Belizean-administered Sapodilla Cays off the coast of Belize in its constitution; in 2022, Belize instituted proceedings against Honduras concerning sovereignty over the Sapodilla Cayes<br>
+<em>Honduras-El Salvador:</em> International Court of Justice (ICJ) ruled on the delimitation of "bolsones" (disputed areas) along the El Salvador-Honduras border in 1992 with final settlement by the parties in 2006 after an Organization of American States survey and a further ICJ ruling in 2003; the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca with consideration of Honduran access to the Pacific; El Salvador continues to claim tiny Conejo Island, not mentioned in the ICJ ruling, off Honduras in the Gulf of Fonseca. <br><em><br>Honduras-Belize:</em> Honduras claims the Belizean-administered Sapodilla Cays off the coast of Belize in its constitution; in 2022, Belize instituted proceedings against Honduras concerning sovereignty over the Sapodilla Cayes; the dispute is pending resolution in the ICJ<br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 247,000 (violence, extortion, threats, forced recruitment by urban gangs between 2004 and 2018) (2023)<br>

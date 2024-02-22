@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-The island was uninhabited when first settled by the British in 1627. African slaves worked the sugar plantations established on the island, which initially dominated the Caribbean sugar industry. By 1720, Barbados was no longer a dominant force within the sugar industry, having been surpassed by the Leeward Islands and Jamaica. Slavery was abolished in 1834. The Barbadian economy remained heavily dependent on sugar, rum, and molasses production through most of the 20th century. The gradual introduction of social and political reforms in the 1940s and 1950s led to complete independence from the UK in 1966. In the 1990s, tourism and manufacturing surpassed the sugar industry in economic importance. Barbados became a republic on 30 November 2021, with the former Governor-General Sandra MASON elected as the first president. Barbados plans to create a new constitution in 2022.<br>
+The island was uninhabited when first settled by the British in 1627. Enslaved Africans worked the sugar plantations established on the island, which initially dominated the Caribbean sugar industry. By 1720, Barbados was no longer a dominant force within the sugar industry, having been surpassed by the Leeward Islands and Jamaica. Slavery was abolished in 1834. The Barbadian economy remained heavily dependent on sugar, rum, and molasses production through most of the 20th century. The gradual introduction of social and political reforms in the 1940s and 1950s led to complete independence from the UK in 1966. In the 1990s, tourism and manufacturing surpassed the sugar industry in economic importance. Barbados became a republic on 30 November 2021, with the former Governor-General Sandra MASON elected as the first president.<br>
 
 ## Geography
 
@@ -259,7 +259,7 @@ _agricultural_: 5 million cubic meters (2020 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Barbados<br>
-_etymology_: the name derives from the Portuguese "as barbadas," which means "the bearded ones" and can refer either to the long, hanging roots of the island's bearded fig trees or to the alleged beards of the native Carib inhabitants<br>
+_etymology_: the name derives from the Portuguese "as barbadas," which means "the bearded ones" and can refer either to the long, hanging roots of the island's bearded fig trees or to the alleged beards of the indigenous Carib inhabitants<br>
 
 **Government type**<br>
 parliamentary republic; a Commonwealth realm<br>
@@ -332,7 +332,7 @@ _email address and website_: <br>washington@foreign.gov.bb<br><br>https://www.fo
 _consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Linda S. TAGLIALATELA (since 1 February 2016) note - also accredited to Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines<br>
+_chief of mission_: Ambassador Roger F. NYHUS (since 19 January 2024) note - also accredited to Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines<br>
 _embassy_: Wildey Business Park, St. Michael BB 14006, Barbados, W.I.<br>
 _mailing address_: 3120 Bridgetown Place, Washington DC&nbsp; 20521-3120<br>
 _telephone_: (246) 227-4000<br>
@@ -430,6 +430,11 @@ NA<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
+
+**Remittances**<br>
+2.32% of GDP (2020 est.)<br>
+2.03% of GDP (2019 est.)<br>
+2.12% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $1.271 billion (2020 est.)<br>
@@ -588,11 +593,10 @@ _subscriptions per 100 inhabitants_: 45 (2020 est.)<br>
 8P<br>
 
 **Airports**<br>
-1 (2021)<br>
+2 (2024)<br>
 
-**Airports - with paved runways**<br>
-1<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+**Heliports**<br>
+1 (2024)<br>
 
 **Pipelines**<br>
 33 km gas, 64 km oil, 6 km refined products (2013)<br>
@@ -611,7 +615,7 @@ _major seaport(s)_: Bridgetown<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Barbados Defense Force (BDF): The Barbados Regiment, The Barbados Coast Guard (2023)<br>
+Barbados Defense Force (BDF): The Barbados Regiment, The Barbados Coast Guard (2024)<br>
 <strong>note 1: </strong>the BDF also has a Youth Development Wing, which is comprised of the Barbados Cadet Corps and the Barbados Defense Force Sports Program<br><br><strong>note 2:</strong> authority over the BDF is shared between the president and prime minister, with the president overseeing strategic direction and the prime minister responsible for operational leadership<br><br><strong>note 3: </strong>the Barbados Police Service (TBPS) is the national police force; it is modeled after London's Metropolitan Police Service and divided into three territorial divisions<br>
 
 **Military expenditures**<br>
@@ -622,16 +626,16 @@ Barbados Defense Force (BDF): The Barbados Regiment, The Barbados Coast Guard (2
 0.8% of GDP (2018 est.) (approximately $40 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 600 active personnel (2022)<br>
+approximately 600 active personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Netherlands provide the BDF's major equipment inventory (maritime patrol boats) (2023)<br>
 
 **Military service age and obligation**<br>
-voluntary service only (men and women); 17 years, 9 months to 17 years, 11 months with letter of consent from a parent or guardian, or be in the age range of 18-25 years (18-30 for the Reserves) at the start of recruit training; citizens of Barbados by descent or naturalization (2023)<br>
+voluntary service only (men and women); 17 years, 9 months to 17 years, 11 months with letter of consent from a parent or guardian, or be in the age range of 18-25 years (18-30 for the Reserves) at the start of recruit training; citizens of Barbados by descent or naturalization (2024)<br>
 
 **Military - note**<br>
-formed in 1979, the Barbados Defense Force (BDF) is responsible for protecting national security, but it may also be called up to maintain internal public order in times of crisis, emergency, or other specific needs, such as special joint patrols with the police; it also provides humanitarian assistance and disaster response operations both domestically and regionally under the Caribbean Regional Security System (RSS); other duties include assisting with national development, such as through the training of the country's youth with the units of the Barbados Cadet Corps <br><br>Barbados has been a member of the Caribbean RSS since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados (2023)<br>
+formed in 1979, the Barbados Defense Force (BDF) is responsible for protecting national security, but it may also be called up to maintain internal public order in times of crisis, emergency, or other specific needs, such as special joint patrols with the police; it also provides humanitarian assistance and disaster response operations both domestically and regionally under the Caribbean Regional Security System (RSS); other duties include assisting with national development, such as through the training of the country's youth with the units of the Barbados Cadet Corps <br><br>Barbados has been a member of the Caribbean RSS since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Guyana, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados (2024)<br>
 
 ## Transnational Issues
 

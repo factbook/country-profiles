@@ -65,7 +65,7 @@ _other_: 10.6% (2018 est.)<br>
 4,730 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Dunărea (Danube) river mouth (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km</p> <strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunărea (Danube) river mouth (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km <br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -271,7 +271,7 @@ _municipal solid waste recycled annually_: 277,547 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 5.7% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Dunărea (Danube) river mouth (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km</p> <strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Dunărea (Danube) river mouth (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km <br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -476,6 +476,11 @@ _on alcohol and tobacco_: 5.7% of household expenditures (2018 est.)<br>
 _lowest 10%_: 15.3%<br>
 _highest 10%_: 7.6% (2014 est.)<br>
 
+**Remittances**<br>
+3.22% of GDP (2021 est.)<br>
+3.03% of GDP (2020 est.)<br>
+3.24% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $72.193 billion (2019 est.)<br>
 _expenditures_: $83.59 billion (2019 est.)<br>
@@ -651,18 +656,10 @@ _annual freight traffic on registered air carriers_: 2.71 million (2018) mt-km<b
 YR<br>
 
 **Airports**<br>
-45 (2021)<br>
-
-**Airports - with paved runways**<br>
-26<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-19<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+82 (2024)<br>
 
 **Heliports**<br>
-2 (2021)<br>
+18 (2024)<br>
 
 **Pipelines**<br>
 3,726 km gas, 2,451 km oil (2013)<br>
@@ -677,8 +674,8 @@ _total_: 85,387 km (2022)<br>
 1,731 km (2010) (includes 1,075 km on the Danube River, 524 km on secondary branches, and 132 km on canals)<br>
 
 **Merchant marine**<br>
-_total_: 125 (2022)<br>
-_by type_: general cargo 11, oil tanker 6, other 108<br>
+_total_: 127 (2023)<br>
+_by type_: general cargo 9, oil tanker 7, other 111<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Constanta, Midia<br>
@@ -687,7 +684,7 @@ _river port(s)_: Braila, Galati (Galatz), Mancanului (Giurgiu), Tulcea (Danube R
 ## Military and Security
 
 **Military and security forces**<br>
-Romanian Armed Forces (Forțele Armate Române or Armata Română): Land Forces, Naval Forces, Air Force<br><br>Ministry of Internal Affairs: General Inspectorate of the Romanian Police, the Romanian Gendarmerie (Jandarmeria Română), the Romanian Border Police, the General Directorate for Internal Protection, and the Directorate General for Anticorruption (2023)<br>
+Romanian Armed Forces (Forțele Armate Române or Armata Română): Land Forces, Naval Forces, Air Force<br><br>Ministry of Internal Affairs: General Inspectorate of the Romanian Police, the Romanian Gendarmerie (Jandarmeria Română), the Romanian Border Police, the General Directorate for Internal Protection, and the Directorate General for Anticorruption (2024)<br>
 
 **Military expenditures**<br>
 2.4% of GDP (2023 est.)<br>
@@ -709,7 +706,7 @@ the military's inventory is comprised mostly of Soviet-era and older domesticall
 up to 120 Poland (NATO) (2023)<br>
 
 **Military - note**<br>
-the Romanian Armed Forces are responsible for territorial defense, fulfilling Romania’s commitments to European security, and contributing to multinational peacekeeping operations; the military has a variety of concerns, including cyber attacks and terrorism, but its primary focus is Russian aggression against neighboring Ukraine and its activities in the Black Sea and Romania’s other eastern neighbor, Moldova; Romania joined NATO in 2004, and the Alliance forms a key pillar of the country’s defense policy; it hosts a NATO multinational divisional headquarters (Multinational Division Southeast) and a French-led ground force battlegroup as part of NATO's Enhanced Forward Presence initiative in the southeastern part of the Alliance, which came about in response to Russia’s 2022 invasion of Ukraine; NATO allies have also sent detachments of fighters to augment the Romanian Air Force since 2014 because of aggressive Russian activity in the Black Sea region; the Romanian military trains regularly with NATO and its member states and participates in NATO- and EU-led multinational missions in Bosnia andHerzegovina, Kosovo, and Poland<br><br>the military is a professional and all-volunteer force equipped largely with Soviet-era or other aging weapons systems, although since joining NATO it has embarked on an effort to acquire more modern, NATO-compatible weapons systems, such as armored vehicles, combat aircraft, and naval vessels; the main combat formations of the Land Forces are two combined arms infantry divisions, each comprised of three or four mechanized and mountain infantry brigades, plus artillery, reconnaissance, and other combat support forces; the Army also has a tactical missile brigade; the military’s special operations forces were consolidated into a special operations command in 2018<br><br>the Romanian Navy operates on the Black Sea and the Danube River; the Black Sea fleet command has three frigates and seven corvettes organized into flotillas and divisions, as well as divisions of mine warfare vessels, naval missiles, and coastal defense; the Danube River flotilla has gunboats and a marine infantry regiment <br><br>the Air Force had approximately 400 Soviet-made combat aircraft when Romania was a member of the Warsaw Pact, but by the 2020s the number was down to a few dozen that were being replaced by secondhand US-origin F-16 fighter aircraft acquired from NATO partners; in 2023, Romania retired the last of its Soviet-era fighters and signed a contract to acquire about 30 additional F-16s from Norway (2023)<br>
+the Romanian Armed Forces are responsible for territorial defense, fulfilling Romania’s commitments to European security, and contributing to multinational peacekeeping operations; the military has a variety of concerns, including cyber attacks and terrorism, but its primary focus is Russian aggression against neighboring Ukraine and its activities in the Black Sea and Romania’s other eastern neighbor, Moldova<br><br>Romania joined NATO in 2004, and the Alliance forms a key pillar of the country’s defense policy; it hosts a NATO multinational divisional headquarters (Multinational Division Southeast) and a French-led ground force battlegroup as part of NATO's Enhanced Forward Presence initiative in the southeastern part of the Alliance, which came about in response to Russia’s 2022 invasion of Ukraine; NATO allies have also sent detachments of fighters to augment the Romanian Air Force since 2014 because of aggressive Russian activity in the Black Sea region; the Romanian military trains regularly with NATO and its member states and participates in NATO- and EU-led multinational missions in Bosnia and Herzegovina, Kosovo, and Poland<br><br>the military is an all-volunteer force equipped largely with Soviet-era or other aging weapons systems, although since joining NATO it has embarked on an effort to acquire more modern, NATO-compatible weapons systems, such as armored vehicles, combat aircraft, and naval vessels; the main combat formations of the Land Forces are two combined arms infantry divisions, each comprised of three or four mechanized and mountain infantry brigades, plus artillery, reconnaissance, and other combat support forces; the Army also has a tactical missile brigade; the military’s special operations forces were consolidated into a special operations command in 2018<br><br>the Romanian Navy operates on the Black Sea and the Danube River; the Black Sea fleet command has three frigates and seven corvettes organized into flotillas and divisions, as well as divisions of mine warfare vessels, naval missiles, and coastal defense; the Danube River flotilla operates gunboats and has a marine infantry regiment <br><br>the Air Force had approximately 400 Soviet-made combat aircraft when Romania was a member of the Warsaw Pact, but by the 2020s the number was down to a few dozen that were being replaced by secondhand US-origin F-16 fighter aircraft acquired from NATO partners; in 2023, Romania retired the last of its Soviet-era fighters and signed a contract to acquire about 30 additional F-16s from Norway (2023)<br>
 
 ## Space
 

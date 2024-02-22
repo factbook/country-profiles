@@ -486,6 +486,11 @@ _on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.1%<br>
 _highest 10%_: 30.3% (2008)<br>
 
+**Remittances**<br>
+0.09% of GDP (2021 est.)<br>
+0.11% of GDP (2020 est.)<br>
+0.11% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $210.536 billion (2020 est.)<br>
 _expenditures_: $249.268 billion (2020 est.)<br>
@@ -660,18 +665,10 @@ _annual freight traffic on registered air carriers_: 5,949,210,000 (2018) mt-km<
 TC<br>
 
 **Airports**<br>
-98 (2021)<br>
-
-**Airports - with paved runways**<br>
-91<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-7<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+115 (2024)<br>
 
 **Heliports**<br>
-20 (2021)<br>
+213 (2024)<br>
 
 **Pipelines**<br>
 14,666 km gas, 3,293 km oil (2017)<br>
@@ -689,8 +686,8 @@ _unpaved_: 43,251 km (2018)<br>
 1,200 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 1,237 (2022)<br>
-_by type_: bulk carrier 37, container ship 41, general cargo 288, oil tanker 130, other 741<br>
+_total_: 1,170 (2023)<br>
+_by type_: bulk carrier 43, container ship 43, general cargo 223, oil tanker 134, other 727<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin (Icel), Limani, Yarimca<br>
@@ -751,7 +748,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU);
 <p><em>Turkey-Armenia</em>: in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered;  in early 2022, the two countries held talks twice aimed at normalizing relations, which could lead to the opening of their land border, shut since 1993; in 2000, Turkish authorities complained to UNESCO that blasting from quarries in Armenia was damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p> <p><em>Turkey-Azerbaijan</em>: none identified</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece; the Aegean Maritime Boundary is complicated by the close proximity of Greek islands to the western shores of the Turkish Anatolian peninsula, representing the primary source of conflict between the two countries</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 41,390 (Ukraine) (as of 14 December 2023) (2023); 3,194,185 (Syria) (2024)<br>
+_refugees (country of origin)_: 10,244 (Iraq) (mid-year 2022); 41,390 (Ukraine) (as of 14 December 2023) (2023); 3,174,851 (Syria) (2024)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2022)<br>
 _stateless persons_: 117 (2018)<br>
 

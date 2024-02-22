@@ -485,6 +485,11 @@ _on alcohol and tobacco_: 3% of household expenditures (2018 est.)<br>
 _lowest 10%_: 1.2%<br>
 _highest 10%_: 39.6% (2015 est.)<br>
 
+**Remittances**<br>
+2.74% of GDP (2021 est.)<br>
+2.56% of GDP (2020 est.)<br>
+2.2% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $94.985 billion (2019 est.)<br>
 _expenditures_: $103.098 billion (2019 est.)<br>
@@ -654,18 +659,10 @@ _annual freight traffic on registered air carriers_: 1,349,450,000 (2018) mt-km<
 HJ, HK<br>
 
 **Airports**<br>
-836 (2021)<br>
-
-**Airports - with paved runways**<br>
-121<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-715<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+662 (2024)<br>
 
 **Heliports**<br>
-3 (2021)<br>
+55 (2024)<br>
 
 **Pipelines**<br>
 4,991 km gas, 6,796 km oil, 3,429 km refined products (2013)<br>
@@ -739,7 +736,7 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia - People'
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>in December 2007, ICJ allocated San Andres, Providencia, and Santa Catalina islands to Colombia under 1928 Treaty but did not rule on 82 degrees W meridian as maritime boundary with Nicaragua; managed dispute with Venezuela over maritime boundary and Venezuelan-administered Los Monjes Islands near the Gulf of Venezuela; Colombian-organized illegal narcotics, guerrilla, and paramilitary activities penetrate all neighboring borders and have caused Colombian citizens to flee mostly into neighboring countries; Colombia, Honduras, Nicaragua, Jamaica, and the US assert various claims to Bajo Nuevo and Serranilla Bank</p><br>
+<p><em>Colombia-Nicaragua:</em> in December 2007, the ICJ allocated San Andres, Providencia, and Santa Catalina islands to Colombia under a 1928 Treaty but did not rule on 82 degrees W meridian as the maritime boundary<br><br><em>Colombia-Venezuela: </em>managed dispute over maritime boundary and Venezuelan-administered Los Monjes Islands near the Gulf of Venezuela<br><br>Colombian-organized illegal narcotics, guerrilla, and paramilitary activities penetrate all neighboring borders; Colombia, Honduras, Nicaragua, Jamaica, and the US assert various claims to Bajo Nuevo and Serranilla Bank</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 2,477,588 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)<br>

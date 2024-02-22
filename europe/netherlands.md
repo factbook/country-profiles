@@ -475,6 +475,11 @@ _on alcohol and tobacco_: 3.3% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.3%<br>
 _highest 10%_: 24.9% (2014 est.)<br>
 
+**Remittances**<br>
+0.23% of GDP (2021 est.)<br>
+0.23% of GDP (2020 est.)<br>
+0.25% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $396.687 billion (2019 est.)<br>
 _expenditures_: $374.166 billion (2019 est.)<br>
@@ -647,22 +652,11 @@ _annual freight traffic on registered air carriers_: 5,886,510,000 (2018) mt-km<
 PH<br>
 
 **Airports**<br>
-29 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 23<br>
-_civil airports_: 6<br>
-_military airports_: 5<br>
-_joint use (civil-military) airports_: 2<br>
-_other airports_: 10<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-6<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+45 (2024)<br>
+<strong>note:</strong> Includes 3 airports in Bonaire, Sint Eustatius and Saba<br>
 
 **Heliports**<br>
-1 (2021)<br>
+184 (2024)<br>
 
 **Pipelines**<br>
 14,000 km gas, 2,500 km oil and refined products, 3,000 km chemicals (2017)<br>
@@ -677,8 +671,8 @@ _total_: 139,027 km (2022)<br>
 6,237 km (2012) (navigable by ships up to 50 tons)<br>
 
 **Merchant marine**<br>
-_total_: 1,175 (2022)<br>
-_by type_: bulk carrier 11, container ship 37, general cargo 543, oil tanker 26, other 558<br>
+_total_: 1,187 (2023)<br>
+_by type_: bulk carrier 11, container ship 36, general cargo 521, oil tanker 27, other 592<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: IJmuiden, Vlissingen<br>

@@ -466,6 +466,11 @@ _female_: 14.4%<br>
 _lowest 10%_: (2009 est.) NA<br>
 _highest 10%_: (2009 est.) NA<br>
 
+**Remittances**<br>
+33.41% of GDP (2021 est.)<br>
+26.88% of GDP (2020 est.)<br>
+27.97% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.222 billion (2019 est.)<br>
 _expenditures_: $2.393 billion (2019 est.)<br>
@@ -631,15 +636,7 @@ _annual freight traffic on registered air carriers_: 2.34 million (2018) mt-km<b
 EY<br>
 
 **Airports**<br>
-24 (2021)<br>
-
-**Airports - with paved runways**<br>
-17<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-7<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+19 (2024)<br>
 
 **Pipelines**<br>
 549 km gas, 38 km oil (2013)<br>
@@ -678,7 +675,7 @@ the military's inventory is comprised of older Russian and Soviet-era equipment;
 <strong>note:</strong> in August 2021, the Tajik Government removed an exemption for university graduates but began allowing men to pay a fee in order to avoid conscription, although there is a cap on the number of individuals who can take advantage of this exemption<br>
 
 **Military - note**<br>
-Tajikistan is the only former Soviet republic that did not form its armed forces from old Soviet Army units following the collapse of the USSR in 1991; rather, Russia retained command of the Soviet units there while the Tajik government raised a military from scratch; the first ground forces were officially created in 1993 from groups that fought for the government during the Tajik Civil War<br><br>the military is a small and limited force equipped largely with Soviet-era weapons; its primary concerns are terrorism, border security, territorial defense, and instability in neighboring countries; following the 2021 Taliban takeover in Afghanistan, Tajikistan deployed thousands of troops to the Afghan border and conducted exercises focused on border-related scenarios; since 2012, Tajikistan has had more than 100 border-related clashes with Kyrgyzstan, triggered mostly by disputes over water, roads, or land along a poorly-defined frontier; the most recent in September 2022 saw the use of armored vehicles and artillery and resulted in about 100 killed; the Tajik Land and Mobile Forces have together an estimated 5 combat brigades of mechanized infantry, light/mountain infantry, air assault and special forces, and artillery; the Air and Air Defense force has a small number attack and multipurpose helicopters<br><br>Russia is Tajikistan’s primary security partner; approximately 5-7,000 Russian soldiers are stationed in the country, primarily at the 201st military base, which is leased until at least 2042; the Russian forces include combat troops and combat aircraft; Russia and Tajikistan have a joint air defense system and they conduct periodic joint exercises; Tajikistan has been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force (2023)<br>
+Tajikistan is the only former Soviet republic that did not form its armed forces from old Soviet Army units following the collapse of the USSR in 1991; rather, Russia retained command of the Soviet units there while the Tajik government raised a military from scratch; the first ground forces were officially created in 1993 from groups that fought for the government during the Tajik Civil War<br><br>the military is a small and limited force equipped largely with Soviet-era weapons; its primary concerns are terrorism, border security, territorial defense, and instability in neighboring countries; following the 2021 Taliban takeover in Afghanistan, Tajikistan deployed thousands of troops to the Afghan border and conducted exercises focused on border-related scenarios; since 2012, Tajikistan has had more than 100 border-related clashes with Kyrgyzstan, triggered mostly by disputes over water, roads, or land along a poorly-defined frontier; the most recent in September 2022 saw the use of armored vehicles and artillery and resulted in about 100 killed; the Tajik Land and Mobile Forces have together an estimated five combat brigades of mechanized infantry, light/mountain infantry, air assault and special forces, and artillery; the Air and Air Defense force has a small number attack and multipurpose helicopters<br><br>Russia is Tajikistan’s primary security partner; approximately 5-7,000 Russian soldiers are stationed in the country, primarily at the 201st military base, which is leased until at least 2042; the Russian forces include combat troops and combat aircraft; Russia and Tajikistan have a joint air defense system and they conduct periodic joint exercises; Tajikistan has been a member of the Russian-led Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force (2023)<br>
 
 ## Terrorism
 

@@ -483,6 +483,11 @@ _on alcohol and tobacco_: 4.9% of household expenditures (2018 est.)<br>
 _lowest 10%_: 1.2%<br>
 _highest 10%_: 51.3% (2011 est.)<br>
 
+**Remittances**<br>
+0.22% of GDP (2021 est.)<br>
+0.24% of GDP (2020 est.)<br>
+0.23% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $84.19 billion (2020 est.)<br>
 _expenditures_: $121.204 billion (2020 est.)<br>
@@ -657,19 +662,10 @@ _annual freight traffic on registered air carriers_: 716.25 million (2018) mt-km
 ZS<br>
 
 **Airports**<br>
-407 (2021)<br>
+575 (2024)<br>
 
-**Airports - with paved runways**<br>
-_total_: 130<br>
-_civil airports_: 21<br>
-_military airports_: 7<br>
-_joint use (civil-military) airports_: 1<br>
-_other airports_: 101<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-277<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+49 (2024)<br>
 
 **Pipelines**<br>
 94 km condensate, 1,293 km gas, 992 km oil, 1,460 km refined products (2013)<br>
@@ -686,8 +682,8 @@ _paved_: 158,124 km (2016)<br>
 _unpaved_: 591,876 km (2016)<br>
 
 **Merchant marine**<br>
-_total_: 107 (2022)<br>
-_by type_: bulk carrier 3, general cargo 1, oil tanker 7, other 96<br>
+_total_: 110 (2023)<br>
+_by type_: bulk carrier 3, general cargo 1, oil tanker 7, other 99<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay<br>
@@ -700,7 +696,7 @@ South Africa operates one PC 5 or 6 class light icebreaker<br>note - PC indicate
 ## Military and Security
 
 **Military and security forces**<br>
-South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services<br><br>Ministry of Police: South African Police Service (2023)<br>
+South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services<br><br>Ministry of Police: South African Police Service (2024)<br>
 <strong>note:</strong> the South African Police Service includes a Special Task Force for counterterrorism, counterinsurgency, and hostage rescue operations<br>
 
 **Military expenditures**<br>
@@ -724,7 +720,7 @@ the SANDF's inventory consists of a mix of domestically produced and foreign-sup
 1,150 Democratic Republic of the Congo (MONUSCO); up to 1,500 Mozambique (part of a Southern African Development Community force to help quell an insurgency) (2023)<br>
 
 **Military - note**<br>
-the SANDF’s primary responsibilities include territorial and maritime defense, supporting the Police Service, protecting key infrastructure, and participating in international peacekeeping missions; the SANDF traditionally has been one of Africa’s most capable militaries, but in recent years its operational readiness and modernization programs have been hampered by funding shortfalls; it participates regularly in African and UN peacekeeping missions and is a member of the Southern Africa Development Community (SADC) Standby Force; in 2021, it sent approximately 1,500 troops to Mozambique as part of a multinational SADC force to help combat an insurgency, and South African forces are a key component of the UN’s Force Intervention Brigade in the Democratic Republic of the Congo; in recent years, the SANDF has been deployed internally to assist the Police Service with quelling unrest and to combat trafficking along the border<br><br>the Army in recent years has reorganized, and its combat forces are organized into 4 “modern” brigades, each designed for specific missions and responding to modern-day threats such as “asymmetric” warfare; the new brigades are separated into airborne, light infantry, mechanized, and motorized forces; the Navy operates a mixed force of warships, patrol craft, submarines, and support vessels; its principal combatants are 4 frigates and 3 attack submarines; the Navy also has a maritime rapid reaction squadron that includes naval infantry and combat divers; the Air Force has squadrons of multipurpose fighter, ground attack, and transport aircraft, as well as attack and transport helicopters<br><br>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands (2023)<br>
+the SANDF’s primary responsibilities include territorial and maritime defense, supporting the Police Service, protecting key infrastructure, and participating in international peacekeeping missions; the SANDF traditionally has been one of Africa’s most capable militaries, but in recent years its operational readiness and modernization programs have been hampered by funding shortfalls; it participates regularly in African and UN peacekeeping missions and is a member of the Southern Africa Development Community (SADC) Standby Force; in 2021, it sent approximately 1,500 troops to Mozambique as part of a multinational SADC force to help combat an insurgency, and South African forces are a key component of the UN’s Force Intervention Brigade in the Democratic Republic of the Congo; in recent years, the SANDF has been deployed internally to assist the Police Service with quelling unrest and to combat trafficking along the border<br><br>the Army in recent years has reorganized, and its combat forces are organized into four “modern” brigades, each designed for specific missions and responding to modern-day threats such as “asymmetric” warfare; the new brigades are separated into airborne, light infantry, mechanized, and motorized forces; the Navy operates a mixed force of warships, patrol craft, submarines, and support vessels; its principal combatants are four frigates and three attack submarines; the Navy also has a maritime rapid reaction squadron that includes naval infantry and combat divers; the Air Force has squadrons of multipurpose fighter, ground attack, and transport aircraft, as well as attack and transport helicopters<br><br>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands (2023)<br>
 
 ## Space
 

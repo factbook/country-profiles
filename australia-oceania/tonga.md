@@ -344,7 +344,8 @@ _email address and website_: <br>tongaunmission@aol.com<br>
 _consulate(s) general_: San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: the US does not have an embassy in Tonga; the US Ambassador to Fiji is accredited to Tonga<br>
+_chief of mission_: Ambassador Marie DAMOUR (since 6 December 2022); note - Ambassador DAMOUR is based in the US Embassy in the Republic of Fiji and is accredited to Tonga as well as Kiribati, Nauru, and Tuvalu<br>
+_embassy_: although the US opened an embassy in Tonga on 9 May 2023, the US Ambassador to Fiji is accredited to Tonga while the Embassy is being staffed<br>
 
 **Flag description**<br>
 red with a bold red cross on a white rectangle in the upper hoist-side corner; the cross reflects the deep-rooted Christianity in Tonga, red represents the blood of Christ and his sacrifice, and white signifies purity<br>
@@ -430,6 +431,11 @@ _female_: 16.3%<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
+
+**Remittances**<br>
+45.5% of GDP (2021 est.)<br>
+39.3% of GDP (2020 est.)<br>
+37.18% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $212 million (2019 est.)<br>
@@ -592,15 +598,7 @@ _inventory of registered aircraft operated by air carriers_: 1<br>
 A3<br>
 
 **Airports**<br>
-6 (2021)<br>
-
-**Airports - with paved runways**<br>
-1<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-5<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+6 (2024)<br>
 
 **Roadways**<br>
 _total_: 680 km (2011)<br>
@@ -608,8 +606,8 @@ _paved_: 184 km (2011)<br>
 _unpaved_: 496 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 32 (2022)<br>
-_by type_: container ship 4, general cargo 13, oil tanker 1, other 14<br>
+_total_: 29 (2023)<br>
+_by type_: container ship 1, general cargo 13, oil tanker 1, other 14<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Nuku'alofa, Neiafu, Pangai<br>

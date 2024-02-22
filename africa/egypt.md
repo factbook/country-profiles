@@ -489,6 +489,11 @@ _on alcohol and tobacco_: 4.7% of household expenditures (2018 est.)<br>
 _lowest 10%_: 4%<br>
 _highest 10%_: 26.6% (2008)<br>
 
+**Remittances**<br>
+7.79% of GDP (2021 est.)<br>
+8.1% of GDP (2020 est.)<br>
+8.84% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $71.16 billion (2020 est.)<br>
 _expenditures_: $100.318 billion (2020 est.)<br>
@@ -664,22 +669,10 @@ _annual freight traffic on registered air carriers_: 437.63 million (2018) mt-km
 SU<br>
 
 **Airports**<br>
-83 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 72<br>
-_civil airports_: 17<br>
-_military airports_: 21<br>
-_joint use (civil-military) airports_: 3<br>
-_other airports_: 31<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-11<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+73 (2024)<br>
 
 **Heliports**<br>
-7 (2021)<br>
+56 (2024)<br>
 
 **Pipelines**<br>
 486 km condensate, 74 km condensate/gas, 7,986 km gas, 957 km liquid petroleum gas, 5,225 km oil, 37 km oil/gas/water, 895 km refined products, 65 km water (2013)<br>
@@ -757,7 +750,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); 
 <em>Egypt-Gaza Strip:</em> constructed a barrier and established a buffer zone on its border with Gaza to halt the passage of weapons and militants through cross-border smuggling tunnels and pressure the Palestinian HAMAS terrorist group that runs the Gaza Strip<br><br><em>Egypt-Ethiopia</em>: Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile in northern Ethiopia since 2011 has become a focal point of relations with Egypt and Sudan; Egypt has described the giant hydroelectric project as an existential threat because of its potential to control the flow of the river that is a key source of water for the country; Ethiopia completed filling the dam in 2023<br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 310,000 (Sudan) (refugees since 15 April 2023), 153,756 (Syria) (2023)<br>
+_refugees (country of origin)_: 70,021 (West Bank and Gaza Strip) (mid-year 2022); 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022); 310,000 (Sudan) (refugees since 15 April 2023), 154,794 (Syria) (2024)<br>
 _stateless persons_: 10 (2022)<br>
 
 **Trafficking in persons**<br>

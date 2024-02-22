@@ -463,6 +463,11 @@ _female_: 4.4%<br>
 _lowest 10%_: 2.2%<br>
 _highest 10%_: 34.7% (2010 est.)<br>
 
+**Remittances**<br>
+3.8% of GDP (2020 est.)<br>
+2.89% of GDP (2019 est.)<br>
+3.09% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.51 billion (2020 est.)<br>
 _expenditures_: $2.09 billion (2020 est.)<br>
@@ -629,15 +634,7 @@ _annual freight traffic on registered air carriers_: 16.25 million (2018) mt-km<
 5R<br>
 
 **Airports**<br>
-83 (2021)<br>
-
-**Airports - with paved runways**<br>
-26<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-57<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+91 (2024)<br>
 
 **Railways**<br>
 _total_: 836 km (2018)<br>

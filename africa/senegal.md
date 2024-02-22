@@ -483,6 +483,11 @@ _female_: 7.5%<br>
 _lowest 10%_: 2.5%<br>
 _highest 10%_: 31.1% (2011)<br>
 
+**Remittances**<br>
+10.46% of GDP (2020 est.)<br>
+10.78% of GDP (2019 est.)<br>
+10.5% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $4.76 billion (2019 est.)<br>
 _expenditures_: $5.662 billion (2019 est.)<br>
@@ -646,15 +651,7 @@ _annual freight traffic on registered air carriers_: 40,000 (2018) mt-km<br>
 6V<br>
 
 **Airports**<br>
-20 (2021)<br>
-
-**Airports - with paved runways**<br>
-9<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-11<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+19 (2024)<br>
 
 **Pipelines**<br>
 43 km gas, 8 km refined products (2017)<br>
@@ -672,8 +669,8 @@ _unpaved_: 10,539 km (2017)<br>
 1,000 km (2012) (primarily on the Senegal, Saloum, and Casamance Rivers)<br>
 
 **Merchant marine**<br>
-_total_: 35 (2022)<br>
-_by type_: general cargo 5, oil tanker 1, other 29<br>
+_total_: 36 (2023)<br>
+_by type_: general cargo 5, oil tanker 1, other 30<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dakar<br>
@@ -704,7 +701,7 @@ the FAS inventory includes mostly older or secondhand equipment from a variety o
 <p>200 Central African Republic (MINUSCA); 800 (ECOWAS Military Intervention in The Gambia--ECOMIG); 500 (ECOWAS Stabilization Support Mission in Guinea-Bissau--EESMGB); note - Senegal also has up to 1,000 police deployed to UN peacekeeping missions in the Central African Republic (MINUSCA)and the Democratic Republic of the Congo (MONUSCO)</p> (2023)<br>
 
 **Military - note**<br>
-despite limited resources, the FAS is considered to be a well-equipped, experienced, and professional military; it has a history of non-interference in the country’s political process and good relations with civil authorities; it is experienced in foreign deployments and has received considerable assistance from the French military, which maintains a presence in Senegal, and the US, with smaller levels from Germany, Spain, and the UK; the FAS’s primary focuses are border, internal, and maritime security; it is closely watching the prevalence of multiple active terrorist groups across the region and political instability in neighboring Mali and Guinea and has recently established new military and gendarmerie camps along its eastern border; it also works with the government in areas such as preventive healthcare, infrastructure development, environmental protection, and disaster response<br><br>the Army is spread amongst seven military zones and organized into a mix of light infantry battalions and light armored reconnaissance squadrons, as well as airborne, special operations, and artillery battalions; the Gendarmerie includes mobile units, as well as the Presidential Guard (aka “The Red Guard”); the Navy is a small force of coastal patrol craft; in recent years it has acquired some modern platforms from France and Israel, including two offshore patrol vessels, to improve the Navy’s ability to patrol Senegal’s coastline and economic exclusion zone, conduct fisheries inspections, counter drug trafficking, and combat piracy; the Air Force is configured for supporting the ground forces and has a small number of light attack aircraft and helicopter gunships, as well as transport and reconnaissance aircraft<br><br>Senegalese security forces have been engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance (MDFC) since 1982; the conflict is one of longest running low-level insurgencies in the World, having claimed more than 5,000 lives while leaving another 60,000 displaced; in May 2023, a faction of the MFDC agreed to a peace deal (2023)<br>
+despite limited resources, the FAS is considered to be a well-equipped, experienced, and effective military; it has a history of non-interference in the country’s political process and positive relations with civil authorities; the FAS is experienced in foreign deployments and has received considerable assistance from the French military, which maintains a presence in Senegal, and the US, with smaller levels from Germany, Spain, and the UK; the FAS’s primary focuses are border, internal, and maritime security; it is closely watching the prevalence of multiple active terrorist groups across the region and political instability in neighboring Mali and Guinea and has recently established new military and gendarmerie camps along its eastern border; the FAS also works with the government in areas such as preventive healthcare, infrastructure development, environmental protection, and disaster response<br><br>the Army is spread amongst seven military zones and organized into a mix of light infantry battalions and light armored reconnaissance squadrons, as well as airborne, special operations, and artillery battalions; the Gendarmerie includes mobile units, as well as the Presidential Guard (aka “The Red Guard”); the Navy is a small force of coastal patrol craft; in recent years it has acquired some modern platforms from France and Israel, including two offshore patrol vessels, to improve the Navy’s ability to patrol Senegal’s coastline and economic exclusion zone, conduct fisheries inspections, counter drug trafficking, and combat piracy; the Air Force is configured for supporting the ground forces and has a small number of light attack aircraft and helicopter gunships, as well as transport and reconnaissance aircraft<br><br>Senegalese security forces have been engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance (MDFC) since 1982; the conflict is one of longest running low-level insurgencies in the World, having claimed more than 5,000 lives while leaving another 60,000 displaced; in May 2023, a faction of the MFDC agreed to a peace deal (2023)<br>
 
 ## Terrorism
 

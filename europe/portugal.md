@@ -465,6 +465,11 @@ _on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 25.9% (2015 est.)<br>
 
+**Remittances**<br>
+0.31% of GDP (2021 est.)<br>
+0.32% of GDP (2020 est.)<br>
+0.26% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $102.052 billion (2019 est.)<br>
 _expenditures_: $101.854 billion (2019 est.)<br>
@@ -629,15 +634,10 @@ _annual freight traffic on registered air carriers_: 454.21 million (2018) mt-km
 CR, CS<br>
 
 **Airports**<br>
-64 (2021)<br>
+130 (2024)<br>
 
-**Airports - with paved runways**<br>
-43<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-21<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+63 (2024)<br>
 
 **Pipelines**<br>
 1,344 km gas, 11 km oil, 188 km refined products (2013)<br>
@@ -652,8 +652,8 @@ _total_: 11,217 km (2022)<br>
 210 km (2011) (on Douro River from Porto)<br>
 
 **Merchant marine**<br>
-_total_: 820 (2022)<br>
-_by type_: bulk carrier 103, container ship 290, general cargo 175, oil tanker 28, other 224<br>
+_total_: 888 (2023)<br>
+_by type_: bulk carrier 110, container ship 299, general cargo 191, oil tanker 29, other 259<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Leixoes, Lisbon, Setubal, Sines<br>
@@ -663,7 +663,7 @@ _LNG terminal(s) (import)_: Sines<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Portuguese Armed Forces (Forças Armadas): Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps, aka Corpo de Fuzileiros or Corps of Fusiliers), Portuguese Air Force (Forca Aerea Portuguesa, FAP)<br><br>Ministry of Internal Administration: Foreigners and Borders Service, Public Security Service, National Republican Guard (Guarda Nacional Republicana, GNR) (2023)<br>
+Portuguese Armed Forces (Forças Armadas): Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps, aka Corpo de Fuzileiros or Corps of Fusiliers), Portuguese Air Force (Forca Aerea Portuguesa, FAP)<br><br>Ministry of Internal Administration: Foreigners and Borders Service, Public Security Service, National Republican Guard (Guarda Nacional Republicana, GNR) (2024)<br>
 <strong>note:</strong> the Foreigners and Borders Service has jurisdiction over immigration and border matters, the Public Security Police has jurisdiction in cities, and the GNR has jurisdiction in rural areas; the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to both the Ministry of Internal Administration and to the Ministry of National Defense; it is not part of the Armed Forces, but may be placed under the operational command of the Chief of the General Staff of the Armed Forces in the event of a national emergency; the GNR describes itself as a hinge between the Armed Forces and the police forces and other security services<br>
 
 **Military expenditures**<br>

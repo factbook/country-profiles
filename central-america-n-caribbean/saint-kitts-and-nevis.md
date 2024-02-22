@@ -412,6 +412,11 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+4.32% of GDP (2021 est.)<br>
+3.57% of GDP (2020 est.)<br>
+3.82% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $286 million (2020 est.)<br>
 _expenditures_: $324 million (2020 est.)<br>
@@ -569,11 +574,10 @@ _subscriptions per 100 inhabitants_: 56 (2020 est.)<br>
 V4<br>
 
 **Airports**<br>
-2 (2021)<br>
+2 (2024)<br>
 
-**Airports - with paved runways**<br>
-2<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+**Heliports**<br>
+1 (2024)<br>
 
 **Railways**<br>
 _total_: 50 km (2008)<br>
@@ -585,8 +589,8 @@ _paved_: 163 km (2002)<br>
 _unpaved_: 220 km (2002)<br>
 
 **Merchant marine**<br>
-_total_: 282 (2022)<br>
-_by type_: bulk carrier 9, container ship 11, general cargo 64, oil tanker 46, other 152<br>
+_total_: 341 (2023)<br>
+_by type_: bulk carrier 22, container ship 16, general cargo 85, oil tanker 59, other 159<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Basseterre, Charlestown<br>
@@ -594,7 +598,7 @@ _major seaport(s)_: Basseterre, Charlestown<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of National Security: St. Kitts and Nevis Defense Force (SKNDF), St. Kitts and Nevis Coast Guard, the Royal St. Christopher and Nevis Police Force (2023)<br>
+Ministry of National Security: St. Kitts and Nevis Defense Force (SKNDF), St. Kitts and Nevis Coast Guard, the Royal St. Christopher and Nevis Police Force (2024)<br>
 <strong>note:</strong> the Nevis Police Force includes the paramilitary Special Services Unit<br>
 
 **Military and security service personnel strengths**<br>
@@ -607,7 +611,7 @@ the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2023
 18 years of age for voluntary military service for men and women (under 18 with written parental permission); no conscription (2023)<br>
 
 **Military - note**<br>
-St. Kitts joined the Caribbean Regional Security System (RSS) in 1984; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security<br><br>SKNDF's missions included defense of the country's territorial integrity and sovereignty, protecting natural resources, interdicting narcotics trafficking, and providing humanitarian relief as needed (2023)<br>
+St. Kitts joined the Caribbean Regional Security System (RSS) in 1984; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Guyana, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security<br><br>SKNDF's missions included defense of the country's territorial integrity and sovereignty, protecting natural resources, interdicting narcotics trafficking, and providing humanitarian relief as needed (2024)<br>
 
 ## Transnational Issues
 

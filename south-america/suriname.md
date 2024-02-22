@@ -451,6 +451,11 @@ _female_: 46.1%<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+4.95% of GDP (2021 est.)<br>
+4.26% of GDP (2020 est.)<br>
+2.39% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $863 million (2019 est.)<br>
 _expenditures_: $1.648 billion (2019 est.)<br>
@@ -616,15 +621,10 @@ _annual freight traffic on registered air carriers_: 33.2 million (2018) mt-km<b
 PZ<br>
 
 **Airports**<br>
-55 (2021)<br>
+55 (2024)<br>
 
-**Airports - with paved runways**<br>
-6<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-49<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+1 (2024)<br>
 
 **Pipelines**<br>
 50 km oil (2013)<br>
@@ -638,8 +638,8 @@ _unpaved_: 3,185 km (2003)<br>
 1,200 km (2011) (most navigable by ships with drafts up to 7 m)<br>
 
 **Merchant marine**<br>
-_total_: 10 (2022)<br>
-_by type_: general cargo 5, oil tanker 3, other 2<br>
+_total_: 13 (2023)<br>
+_by type_: general cargo 5, oil tanker 3, other 5<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Paramaribo, Wageningen<br>
@@ -647,7 +647,7 @@ _major seaport(s)_: Paramaribo, Wageningen<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Suriname National Army (Nationaal Leger or NL); Army (Landmacht), Navy (Marine); Air Force (Luchtmacht), Military Police (Korps Militaire Politie)<br><br>Ministry of Justice and Police: Suriname Police Force (Korps Politie Suriname or KPS) (2023)<br>
+Suriname National Army (Nationaal Leger or NL); Army (Landmacht), Navy (Marine); Air Force (Luchtmacht), Military Police (Korps Militaire Politie)<br><br>Ministry of Justice and Police: Suriname Police Force (Korps Politie Suriname or KPS) (2024)<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2019 est.)<br>
@@ -663,7 +663,7 @@ approximately 2,000 total personnel (2023)<br>
 the Suriname Army has a limited inventory comprised of a mix of older, foreign-supplied equipment; in recent years, Suriname has received small quantities of military hardware from India (2023)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service for men and women; no conscription (2022)<br>
+18 is the legal minimum age for voluntary military service for men and women; no conscription (2024)<br>
 
 **Military - note**<br>
 key missions for the National Leger include border control and supporting domestic security; the military police has direct responsibility for immigration control at the country&rsquo;s ports of entry; in addition, the military assists the police in combating crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams (2023)<br>
@@ -671,7 +671,7 @@ key missions for the National Leger include border control and supporting domest
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Suriname-Brazil</em>: none identified</p> <p><em>Suriname-France (French Guiana)</em>: in March 2021, Suriname and France signed an agreement to establish their border along the Maroni River and its tributary the Lawa River and to cooperate in combatting illegal gold mining; however, the area further south between the Litani and Marouini Rivers is still disputed, with Suriname claiming the border is along the Marouini to the east and France arguing it is along the Litani River to the west</p> <p><em>Suriname-Guyana</em>: the two countries dispute the territory between two rivers, known as the New River Triangle, with Suriname contending that the New River (also called the Upper Corentyne) to the west marks their common border, while Guyana asserts that the Kutari River to the east forms the border; each side claims that their river is the source of the Corentyne River that forms a border further north between the two countries; the Permanent Court of Arbitration settled the maritime boundary between Suriname and Guyana in 2007 in an area with potentially substantial oil reserves</p> <p> </p><br>
+<p><em>Suriname-France (French Guiana)</em>: in March 2021, Suriname and France signed an agreement to establish their border along the Maroni River and its tributary the Lawa River and to cooperate in combatting illegal gold mining; however, the area further south between the Litani and Marouini Rivers is still disputed, with Suriname claiming the border is along the Marouini to the east and France arguing it is along the Litani River to the west</p> <p><em>Suriname-Guyana</em>: the two countries dispute the territory between two rivers, known as the New River Triangle, with Suriname contending that the New River (also called the Upper Corentyne) to the west marks their common border, while Guyana asserts that the Kutari River to the east forms the border; each side claims that their river is the source of the Corentyne River that forms a border further north between the two countries; the Permanent Court of Arbitration settled the maritime boundary between Suriname and Guyana in 2007 in an area with potentially substantial oil reserves</p> <p> </p><br>
 
 **Illicit drugs**<br>
 <p>a transit country for South American cocaine en route to Europe; illicit drugs are smuggled in cargo containers, commercial and private air transport and human couriers</p> <p> </p><br>

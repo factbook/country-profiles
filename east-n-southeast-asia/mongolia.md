@@ -470,6 +470,11 @@ _female_: 22.4%<br>
 _lowest 10%_: 13.7%<br>
 _highest 10%_: 5.7% (2017)<br>
 
+**Remittances**<br>
+4.12% of GDP (2020 est.)<br>
+3.95% of GDP (2019 est.)<br>
+3.34% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $3.699 billion (2020 est.)<br>
 _expenditures_: $4.979 billion (2020 est.)<br>
@@ -633,18 +638,7 @@ _annual freight traffic on registered air carriers_: 7.82 million (2018) mt-km<b
 JU<br>
 
 **Airports**<br>
-44 (2021)<br>
-
-**Airports - with paved runways**<br>
-15<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-29<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
-
-**Heliports**<br>
-1 (2021)<br>
+35 (2024)<br>
 
 **Railways**<br>
 _total_: 1,815 km (2017)<br>
@@ -660,8 +654,8 @@ _unpaved_: 102,600 km (2017)<br>
 580 km (2010) (the only waterway in operation is Lake Hovsgol) (135 km); Selenge River (270 km) and Orhon River (175 km) are navigable but carry little traffic; lakes and rivers ice-free from May to September)<br>
 
 **Merchant marine**<br>
-_total_: 314 (2022)<br>
-_by type_: bulk carrier 3, container ship 6, general cargo 151, oil tanker 57, other 97<br>
+_total_: 318 (2023)<br>
+_by type_: bulk carrier 8, container ship 8, general cargo 151, oil tanker 58, other 93<br>
 
 ## Military and Security
 

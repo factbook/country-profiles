@@ -468,6 +468,11 @@ _on alcohol and tobacco_: 0.6% of household expenditures (2018 est.)<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+0.04% of GDP (2021 est.)<br>
+0.04% of GDP (2020 est.)<br>
+0.04% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $247.093 billion (2019 est.)<br>
 _expenditures_: $282.4 billion (2019 est.)<br>
@@ -634,22 +639,10 @@ _annual freight traffic on registered air carriers_: 1,085,470,000 (2018) mt-km<
 HZ<br>
 
 **Airports**<br>
-214 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 82<br>
-_civil airports_: 17<br>
-_military airports_: 10<br>
-_joint use (civil-military) airports_: 6<br>
-_other airports_: 49<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-132<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+86 (2024)<br>
 
 **Heliports**<br>
-10 (2021)<br>
+67 (2024)<br>
 
 **Pipelines**<br>
 209 km condensate, 2,940 km gas, 1,183 km liquid petroleum gas, 5,117 km oil, 1,151 km refined products (2013)<br>
@@ -664,8 +657,8 @@ _paved_: 47,529 km (2006) (includes 3,891 km of expressways)<br>
 _unpaved_: 173,843 km (2006)<br>
 
 **Merchant marine**<br>
-_total_: 413 (2022)<br>
-_by type_: bulk carrier 6, container ship 1, general cargo 21, oil tanker 58, other 327<br>
+_total_: 433 (2023)<br>
+_by type_: bulk carrier 9, container ship 1, general cargo 20, oil tanker 55, other 348<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu'<br>
@@ -674,7 +667,7 @@ _container port(s) (TEUs)_: Ad Dammam (1,770,000), Jeddah (4,882,342), King Abdu
 ## Military and Security
 
 **Military and security forces**<br>
-the Saudi Arabian Armed Forces (SAAF) include forces from two ministries: <br><br>Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes marines, special forces, naval aviation), Royal Saudi Air Force, Royal Saudi Air Defense Forces, Royal Saudi Strategic Missiles Force; Ministry of the National Guard: Saudi Arabian National Guard (SANG)<br><br>Ministry of Interior: police, Border Guard, Facilities Security Force<br><br>State Security Presidency (SSP): General Directorate of Investigation (Mabahith), Special Security Forces, Special Emergency Forces (2023)<br>
+the Saudi Arabian Armed Forces (SAAF) include forces from two ministries: <br><br>Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes marines, special forces, naval aviation), Royal Saudi Air Force, Royal Saudi Air Defense Forces, Royal Saudi Strategic Missiles Force; Ministry of the National Guard: Saudi Arabian National Guard (SANG)<br><br>Ministry of Interior: police, Border Guard, Facilities Security Force<br><br>State Security Presidency (SSP): General Directorate of Investigation (Mabahith), Special Security Forces, Special Emergency Forces (2024)<br>
 <strong>note 1:</strong> the SANG (also known as the White Army) is a land force comprised off tribal elements loyal to the House of Saud; it is responsible for internal security, protecting the royal family, and external defense<br><br><strong>note 2:</strong> the SAAF includes the Saudi Royal Guard Command, a unit which provides security and protection to the ruling family and other dignitaries<br>
 
 **Military expenditures**<br>
@@ -700,7 +693,7 @@ men (17-40) and women (21-40) may volunteer for military service; no conscriptio
 continues to maintain a military presence in Yemen; has also established and supports several local militias, including the National Shield Forces in Aden and the Amajid Brigade in Abyan (2023)<br>
 
 **Military - note**<br>
-the Saudi Arabian Armed Forces (SAAF) are divided into the regular forces under the Ministry of Defense and the Saudi Arabian National Guard (SANG); the regular forces are responsible for territorial defense, although they can be called for domestic security duties if needed; they include land, naval, air, air defense, and strategic missile forces; the Land Forces have approximately 15 combat brigades which include a mix of armored, aviation, light infantry, mechanized or motorized infantry, royal guards, and airborne/special forces, plus separate battalions of artillery; the Naval Forces are undergoing a major acquisitions and modernization program; its principal warships are approximately 16 frigates and corvettes, with an additional 4 frigates on order; the Air Force is the largest and one of the most modern in the region, with over 350 combat aircraft from Europe and the US with more on order; the Strategic Missile Force manages Saudi Arabia’s ballistic missile inventory, largely acquired from China<br><br>the SANG is responsible for both internal security and external defense; its duties include protecting the royal family, guarding against military coups, defending strategic facilities and resources, and providing security for the cities of Mecca and Medina; the SANG is primarily comprised of tribal elements loyal to the Saud family and has at least 11 brigades of light infantry, mechanized/motorized infantry, and security forces; it is supplemented by combat helicopter units and tribal levies/militias known as Fowj<br><br>there are also large numbers of paramilitary forces under the Ministry of Interior, including Border Guards and the Facilities Security Force, as well as the Special Security Forces and Special Emergency Forces under the State Security Presidency<br><br>the US is Saudi Arabia’s closest security partner; the SAAF conducts bilateral exercises with the US military and hosts US forces; the US has participated in a cooperative program to equip and train the SANG since 1973; much of the equipment for both the regular forces and the SANG has been acquired from the US; Saudi Arabia also has defense relationships with China, France, India, the UK, and fellow Gulf Cooperation Council members<br><br>in 2015, Saudi Arabia led a military intervention into Yemen by a coalition of Arab states in support of the Republic of Yemen Government against the separatist Huthis; Saudi forces from both the Ministry of Defense and the SANG participated in combat operations in Yemen; Saudi Arabia also raised and equipped paramilitary/militia security forces in Yemen--based largely on tribal or regional affiliation--to deploy along the Saudi-Yemen border (2023)<br>
+the Saudi Arabian Armed Forces (SAAF) are divided into the regular forces under the Ministry of Defense and the Saudi Arabian National Guard (SANG); the regular forces are responsible for territorial defense, although they can be called for domestic security duties if needed; they include land, naval, air, air defense, and strategic missile forces; the Land Forces have approximately 15 combat brigades which include a mix of armored, aviation, light infantry, mechanized or motorized infantry, royal guards, and airborne/special forces, plus separate battalions of artillery; the Naval Forces are undergoing a major acquisitions and modernization program; its principal warships are approximately 16 frigates and corvettes, with an additional four frigates on order; the Air Force is the largest and one of the most modern in the region, with over 350 combat aircraft from Europe and the US with more on order; the Strategic Missile Force manages Saudi Arabia’s ballistic missile inventory, largely acquired from China<br><br>the SANG is responsible for both internal security and external defense; its duties include protecting the royal family, guarding against military coups, defending strategic facilities and resources, and providing security for the cities of Mecca and Medina; the SANG is primarily comprised of tribal elements loyal to the Saud family and is comprised of brigades of light infantry, mechanized or motorized infantry, and security forces; it is supplemented by combat helicopter units and tribal levies/militias known as Fowj<br><br>there are also large numbers of paramilitary forces under the Ministry of Interior, including Border Guards and the Facilities Security Force, as well as the Special Security Forces and Special Emergency Forces under the State Security Presidency<br><br>the US is Saudi Arabia’s closest security partner; the SAAF conducts bilateral exercises with the US military and hosts US forces; the US has participated in a cooperative program to equip and train the SANG since 1973; much of the equipment for both the regular forces and the SANG has been acquired from the US; Saudi Arabia also has defense relationships with China, France, India, the UK, and fellow Gulf Cooperation Council members<br><br>in 2015, Saudi Arabia led a military intervention into Yemen by a coalition of Arab states in support of the Republic of Yemen Government against the separatist Houthis; Saudi forces from both the Ministry of Defense and the SANG participated in combat operations in Yemen; Saudi Arabia also raised and equipped paramilitary/militia security forces in Yemen--based largely on tribal or regional affiliation--to deploy along the Saudi-Yemen border (2023)<br>
 
 ## Space
 

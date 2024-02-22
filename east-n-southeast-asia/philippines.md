@@ -482,6 +482,11 @@ _on alcohol and tobacco_: 1.4% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3.2%<br>
 _highest 10%_: 29.5% (2015 est.)<br>
 
+**Remittances**<br>
+9.31% of GDP (2021 est.)<br>
+9.64% of GDP (2020 est.)<br>
+9.33% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $71.173 billion (2020 est.)<br>
 _expenditures_: $90.953 billion (2020 est.)<br>
@@ -648,22 +653,10 @@ _annual freight traffic on registered air carriers_: 835.9 million (2018) mt-km<
 RP<br>
 
 **Airports**<br>
-247 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 89<br>
-_civil airports_: 11<br>
-_military airports_: 4<br>
-_joint use (civil-military) airports_: 2<br>
-_other airports_: 72<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-158<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+246 (2024)<br>
 
 **Heliports**<br>
-2 (2021)<br>
+341 (2024)<br>
 
 **Pipelines**<br>
 530 km gas, 138 km oil (non-operational), 185 km refined products (2017)<br>
@@ -682,8 +675,8 @@ _unpaved_: 155,294 km (2014)<br>
 3,219 km (2011) (limited to vessels with draft less than 1.5 m)<br>
 
 **Merchant marine**<br>
-_total_: 1,853 (2022)<br>
-_by type_: bulk carrier 59, container ship 43, general cargo 749, oil tanker 210, other 792<br>
+_total_: 2,203 (2023)<br>
+_by type_: bulk carrier 52, container ship 43, general cargo 955, oil tanker 207, other 946<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila<br>
@@ -714,7 +707,7 @@ the AFP is equipped with a wide mix of imported weapons systems; in recent years
 <strong>note:</strong> as of 2020, women made up about 6% of the active military; women were allowed to enter the Philippine Military Academy and train as combat soldiers in 1993<br>
 
 **Military - note**<br>
-the Armed Forces of the Philippines (AFP) were formally organized during the American colonial period as the Philippine Army; they were established by the National Defense Act of 1935 and were comprised of both Filipinos and Americans<br><br>the US and Philippines agreed to a mutual defense treaty in 1951; in 2014, the two governments signed an Enhanced Defense Cooperation Agreement (EDCA) that established new parameters for military cooperation; under the EDCA, the Philippine Government may grant US troops access to Philippine military bases on a rotational basis “for security cooperation exercises, joint and combined military training activities, and humanitarian assistance and disaster relief activities”; the Philippines has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the Philippine Government faces a number of internal threats from several armed separatists, terrorists, and criminal groups; as such, much of the AFP's operational focus is internal security, particularly in the south, where several separatist Islamic insurgent and terrorist groups operate and up to 60% of the armed forces are deployed; additional combat operations are conducted against the Communist People’s Party/New People’s Army, which is active mostly on Luzon, the Visayas, and areas of Mindanao; prior to a peace deal in 2014, the AFP fought a decades-long conflict against the Moro Islamic Liberation Front (MILF), a separatist organization based mostly on the island of Mindanao; the MILF's armed wing, the Bangsamoro Islamic Armed Forces (BIAF), had up to 40,000 fighters under arms<br><br>the AFP’s air and ground forces are experienced with and largely configured for counterinsurgency and counterterrorist operations; a majority of the Air Force’s combat aircraft are ground attack capable and organized in mixed fixed-wing and helicopter squadrons or combat groups formed for mobile operations against insurgents and terrorists; similarly, 10 of the Army’s 11 divisions are light infantry, and the AFP has a joint-service special operations command comprised of rangers, scouts, special forces, counterterrorism, quick reaction, marine, naval, and air units<br><br>in addition to its typical roles of patrolling the country's territorial waters, the Navy conducts interdiction operations against terrorist, insurgent, and criminal groups around the southern islands, including joint maritime patrols with Indonesia and Malaysia, particularly in the Sulu Sea; the Navy has commands for offshore, littoral, and amphibious operations; most of its surface fleet consists of coastal patrol vessels and fast attack craft, although in response to maritime and territorial disputes with China in the South China Sea over the past decade the Navy has acquired some larger warships, including frigates, a corvette, offshore patrol vessels (OPVs), and landing platform dock (LPD) amphibious assault ships, and has plans to acquire additional corvettes and OPVs in the next few years; the Marine Corps consists of four infantry brigades and also conducts counterinsurgency operations <br><br>the Philippines National Police (PNP) also has an active role in counterinsurgency and counter-terrorism operations alongside the AFP, particularly the Special Action Force, a PNP commando unit that specializes in urban counter-terrorism operations (2023)<br>
+the Armed Forces of the Philippines (AFP) were formally organized during the American colonial period as the Philippine Army; they were established by the National Defense Act of 1935 and were comprised of both Filipinos and Americans<br><br>the US and Philippines agreed to a mutual defense treaty in 1951; in 2014, the two governments signed an Enhanced Defense Cooperation Agreement (EDCA) that established new parameters for military cooperation; under the EDCA, the Philippine Government may grant US troops access to Philippine military bases on a rotational basis “for security cooperation exercises, joint and combined military training activities, and humanitarian assistance and disaster relief activities”; the Philippines has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation<br><br>the Philippine Government faces a number of internal threats from several armed separatists, terrorists, and criminal groups; as such, much of the AFP's operational focus is internal security, particularly in the south, where several separatist Islamic insurgent and terrorist groups operate and up to 60% of the armed forces are deployed; additional combat operations are conducted against the Communist People’s Party/New People’s Army, which is active mostly on Luzon, the Visayas, and areas of Mindanao; prior to a peace deal in 2014, the AFP fought a decades-long conflict against the Moro Islamic Liberation Front (MILF), a separatist organization based mostly on the island of Mindanao; the MILF's armed wing, the Bangsamoro Islamic Armed Forces (BIAF), had up to 40,000 fighters under arms<br><br>the AFP’s air and ground forces are experienced with and largely configured for counterinsurgency and counterterrorist operations; a majority of the Air Force’s combat aircraft are ground attack capable and organized in mixed fixed-wing and helicopter squadrons or combat groups formed for mobile operations against insurgents and terrorists; ten of the Army’s 11 divisions are light infantry, and the AFP has a joint-service special operations command comprised of rangers, scouts, special forces, counterterrorism, quick reaction, marine, naval, and air units<br><br>in addition to its typical roles of patrolling the country's territorial waters, the Navy conducts interdiction operations against terrorist, insurgent, and criminal groups around the southern islands, including joint maritime patrols with Indonesia and Malaysia, particularly in the Sulu Sea; the Navy has commands for offshore, littoral, and amphibious operations; most of its surface fleet consists of coastal patrol vessels and fast attack craft, although in response to maritime and territorial disputes with China in the South China Sea over the past decade the Navy has acquired some larger warships, including frigates, a corvette, offshore patrol vessels (OPVs), and landing platform dock (LPD) amphibious assault ships, and has plans to acquire additional corvettes and OPVs in the next few years; the Marine Corps consists of four infantry brigades and also conducts counterinsurgency operations <br><br>the Philippines National Police (PNP) has an active role in counterinsurgency and counter-terrorism operations alongside the AFP, particularly the Special Action Force, a PNP commando unit that specializes in urban counter-terrorism operations (2023)<br>
 
 ## Space
 

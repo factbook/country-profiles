@@ -429,11 +429,10 @@ national public radio broadcasts over 3 FM stations and 1 AM station; 2 commerci
 M<br>
 
 **Airports**<br>
-1 (2021)<br>
+4 (2024)<br>
 
-**Airports - with paved runways**<br>
-1<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+**Heliports**<br>
+1 (2024)<br>
 
 **Railways**<br>
 _total_: 63 km (2008)<br>
@@ -443,6 +442,10 @@ _narrow gauge_: 6 km (2008) 1.076-m gauge (6 km electrified)<br>
 **Roadways**<br>
 _total_: 1,107 km (2022)<br>
 _paved_: 1,107 km<br>
+
+**Merchant marine**<br>
+_total_: 269 (2023)<br>
+_by type_: bulk carrier 102, container ship 6, general cargo 27, oil tanker 56, other 78<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Douglas, Ramsey<br>

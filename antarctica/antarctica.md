@@ -149,15 +149,10 @@ _percent of population_: 100% (2021 est.)<br>
 ## Transportation
 
 **Airports**<br>
-17 (2021)<br>
-
-**Airports - with unpaved runways**<br>
-17<br>
-<strong>note:</strong> unpaved runways have a surface composition such as snow, grass, and packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+30 (2024)<br>
 
 **Heliports**<br>
-53 (2021)<br>
-<strong>note:</strong> all year-round and seasonal stations operated by National Antarctic Programs stations have some kind of helicopter landing facilities, prepared (helipads) or unprepared<br>
+5 (2024)<br>
 
 **Ports and terminals**<br>
 most coastal stations have sparse and intermittent offshore anchorages; a few stations have basic wharf facilities<br>

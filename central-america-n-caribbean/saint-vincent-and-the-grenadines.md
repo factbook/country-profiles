@@ -416,6 +416,11 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+9.5% of GDP (2021 est.)<br>
+6.96% of GDP (2020 est.)<br>
+8.72% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $243 million (2020 est.)<br>
 _expenditures_: $288 million (2020 est.)<br>
@@ -577,19 +582,11 @@ _inventory of registered aircraft operated by air carriers_: 11<br>
 J8<br>
 
 **Airports**<br>
-6 (2021)<br>
-
-**Airports - with paved runways**<br>
-5<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-1<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+5 (2024)<br>
 
 **Merchant marine**<br>
-_total_: 832 (2022)<br>
-_by type_: bulk carrier 32, container ship 17, general cargo 148, oil tanker 14, other 621<br>
+_total_: 830 (2023)<br>
+_by type_: bulk carrier 30, container ship 18, general cargo 137, oil tanker 16, other 629<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kingstown<br>
@@ -597,11 +594,11 @@ _major seaport(s)_: Kingstown<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Royal Saint Vincent and the Grenadines Police Force (RSVPF; includes the Coast Guard, Special Services Unit, Rapid Response Unit, Drug Squad, and Anti-Trafficking Unit) (2023)<br>
+no regular military forces; Royal Saint Vincent and the Grenadines Police Force (RSVPF; includes the Coast Guard, Special Services Unit, Rapid Response Unit, Drug Squad, and Anti-Trafficking Unit) (2024)<br>
 <strong>note: </strong>the RSVPF is the only security force in the country and is responsible for maintaining internal security; it reports to the Minister of National Security, a portfolio held by the prime minister<br>
 
 **Military - note**<br>
-the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts, and Saint Lucia) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2023)<br>
+the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Guyana, Saint Kitts and Nevis, and Saint Lucia) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>
 
 ## Transnational Issues
 

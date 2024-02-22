@@ -421,6 +421,11 @@ _female_: 36.2%<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+3.7% of GDP (2021 est.)<br>
+3.93% of GDP (2020 est.)<br>
+2.06% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $350 million (2020 est.)<br>
 _expenditures_: $516 million (2020 est.)<br>
@@ -578,11 +583,7 @@ _subscriptions per 100 inhabitants_: 18 (2020 est.)<br>
 J6<br>
 
 **Airports**<br>
-2 (2021)<br>
-
-**Airports - with paved runways**<br>
-2<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+2 (2024)<br>
 
 **Roadways**<br>
 _total_: 1,210 km (2011)<br>
@@ -595,11 +596,11 @@ _major seaport(s)_: Castries, Cul-de-Sac, Vieux-Fort<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Royal Saint Lucia Police Force (RSLPF)  (2023)<br>
+no regular military forces; Royal Saint Lucia Police Force (RSLPF) (2024)<br>
 <strong>note:</strong> the RSLPF has responsibility for law enforcement and maintenance of order within the country; it is under the Ministry of Home Affairs, Justice, and National Security and includes a Special Service Unit and a Marine Unit<br>
 
 **Military - note**<br>
-Saint Lucia has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2023)<br>
+Saint Lucia has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Guyana, Saint Kitts, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>
 
 ## Transnational Issues
 

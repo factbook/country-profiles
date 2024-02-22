@@ -470,6 +470,11 @@ _on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3.4%<br>
 _highest 10%_: 24% (2012)<br>
 
+**Remittances**<br>
+0.52% of GDP (2021 est.)<br>
+0.57% of GDP (2020 est.)<br>
+0.6% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $259.17 billion (2019 est.)<br>
 _expenditures_: $256.454 billion (2019 est.)<br>
@@ -643,22 +648,10 @@ _inventory of registered aircraft operated by air carriers_: 316<br>
 SE<br>
 
 **Airports**<br>
-231 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 149<br>
-_civil airports_: 26<br>
-_military airports_: 4<br>
-_joint use (civil-military) airports_: 3<br>
-_other airports_: 116<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-82<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+203 (2024)<br>
 
 **Heliports**<br>
-2 (2021)<br>
+11 (2024)<br>
 
 **Pipelines**<br>
 1626 km gas (2013)<br>
@@ -674,8 +667,8 @@ _total_: 197,964 km (2022)<br>
 2,052 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 368 (2022)<br>
-_by type_: general cargo 46, oil tanker 21, other 301<br>
+_total_: 361 (2023)<br>
+_by type_: general cargo 44, oil tanker 18, other 299<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, Stockholm, Trelleborg, Visby<br>
@@ -704,7 +697,7 @@ the SAF has about 25,000 active-duty personnel: approximately 14,000 continuous 
 the SAF's inventory is comprised of domestically produced and imported Western weapons systems; in recent years, the US has been the leading supplier of military hardware to Sweden; Sweden has a large and sophisticated defense industry that produces a range of air, land, and naval systems (2023)<br>
 
 **Military service age and obligation**<br>
-18-47 years of age for male and female voluntary military service; service obligation: 7-15 months (Army), 7-15 months (Navy), 8-12 months (Air Force); after completing initial service, soldiers have a reserve commitment until age 47; compulsory military service, abolished in 2010, was reinstated in January 2018; conscription is selective, includes both men and women (age 18), and requires 6-15 months of service (2023)<br>
+18-47 years of age for voluntary military service for men and women; service obligation: 7-15 months (Army), 7-15 months (Navy), 8-12 months (Air Force); after completing initial service, soldiers have a reserve commitment until age 47; compulsory military service, abolished in 2010, was reinstated in January 2018; conscription is selective, includes both men and women (age 18), and requires 6-15 months of service (2024)<br>
 <strong>note 1: </strong>Sweden conscripts about 5,500 men and women each year; it plans to increase this number to 8,000 by 2025<br><br><strong>note 2: </strong>as of 2023, women made over 20% of the military's personnel<br><br><strong>note 3:</strong> conscientious objectors in Sweden have the right to apply for alternative service (called vapenfri tjänst); after completing alternative service, the conscript then belongs to the civilian reserve<br>
 
 **Military deployments**<br>

@@ -510,6 +510,11 @@ _on alcohol and tobacco_: 1.4% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.7%<br>
 _highest 10%_: 33.2% (2007)<br>
 
+**Remittances**<br>
+7.49% of GDP (2021 est.)<br>
+6.11% of GDP (2020 est.)<br>
+5.4% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $30.697 billion (2019 est.)<br>
 _expenditures_: $35.591 billion (2019 est.)<br>
@@ -676,22 +681,10 @@ _annual freight traffic on registered air carriers_: 97.71 million (2018) mt-km<
 CN<br>
 
 **Airports**<br>
-62 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 36<br>
-_civil airports_: 7<br>
-_military airports_: 5<br>
-_joint use (civil-military) airports_: 4<br>
-_other airports_: 20<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-26<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+49 (2024)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+17 (2024)<br>
 
 **Pipelines**<br>
 944 km gas, 270 km oil, 175 km refined products (2013)<br>
@@ -704,8 +697,8 @@ _standard gauge_: 2,067 km (2014) 1.435-m gauge (1,022 km electrified)<br>
 _total_: 57,300 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 93 (2022)<br>
-_by type_: container ship 6, general cargo 5, oil tanker 2, other 80<br>
+_total_: 94 (2023)<br>
+_by type_: container ship 6, general cargo 5, oil tanker 2, other 81<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ad Dakhla, Agadir, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), Mohammedia, Safi, Tangier<br>

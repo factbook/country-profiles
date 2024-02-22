@@ -157,6 +157,9 @@ _selected World Heritage Site locales_: Heard Island and McDonald Islands<br>
 
 ## Transportation
 
+**Heliports**<br>
+2 (2024)<br>
+
 **Ports and terminals**<br>
 none; offshore anchorage only<br>
 

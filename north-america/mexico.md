@@ -506,6 +506,11 @@ _on alcohol and tobacco_: 2.8% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2%<br>
 _highest 10%_: 40% (2014)<br>
 
+**Remittances**<br>
+4.25% of GDP (2021 est.)<br>
+3.93% of GDP (2020 est.)<br>
+3.07% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $264.261 billion (2020 est.)<br>
 _expenditures_: $313.358 billion (2020 est.)<br>
@@ -678,22 +683,10 @@ _annual freight traffic on registered air carriers_: 1,090,380,000 (2018) mt-km<
 XA<br>
 
 **Airports**<br>
-1,714 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 243<br>
-_civil airports_: 40<br>
-_military airports_: 6<br>
-_joint use (civil-military) airports_: 11<br>
-_other airports_: 186<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-1,471<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+1,485 (2024)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+460 (2024)<br>
 
 **Pipelines**<br>
 17,210 km natural gas (2022), 9,757 km oil (2017), 10,237 km refined products (2020)<br>
@@ -711,8 +704,8 @@ _unpaved_: 529,358 km (2017)<br>
 2,900 km (2012) (navigable rivers and coastal canals mostly connected with ports on the country's east coast)<br>
 
 **Merchant marine**<br>
-_total_: 669 (2022)<br>
-_by type_: container ship 1, bulk carrier 5, general cargo 10, oil tanker 32, other 621<br>
+_total_: 674 (2023)<br>
+_by type_: bulk carrier 4, general cargo 11, oil tanker 32, other 627<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz<br>
@@ -724,7 +717,7 @@ _LNG terminal(s) (import)_: Altamira, Ensenada<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Mexican Armed Forces (Fuerzas Armadas de México) are divided between the Secretariat of National Defense and the Secretariat of the Navy:<br><br>Secretariat of National Defense (Secretaria de Defensa Nacional, SEDENA): Army (Ejercito), Mexican Air Force (Fuerza Aerea Mexicana, FAM), National Guard; Secretariat of the Navy (Secretaria de Marina, SEMAR): Mexican Navy (Armada de Mexico (ARM), includes Naval Air Force (FAN), Mexican Naval Infantry Corps (Cuerpo de Infanteria de Marina, Mexmar or CIM)) (2023)<br>
+the Mexican Armed Forces (Fuerzas Armadas de México) are divided between the Secretariat of National Defense and the Secretariat of the Navy:<br><br>Secretariat of National Defense (Secretaria de Defensa Nacional, SEDENA): Army (Ejercito), Mexican Air Force (Fuerza Aerea Mexicana, FAM), National Guard; Secretariat of the Navy (Secretaria de Marina, SEMAR): Mexican Navy (Armada de Mexico (ARM), includes Naval Air Force (FAN), Mexican Naval Infantry Corps (Cuerpo de Infanteria de Marina, Mexmar or CIM)) (2024)<br>
 <strong>note:</strong> the National Guard was formed in 2019 of personnel from the former Federal Police (disbanded in December 2019) and military police units of the Army and Navy; up until September 2022, the Guard was under the civilian-led Secretariat of Security and Civilian Protection, while the SEDENA had day-to-day operational control and provided the commanders and the training; in September 2022, complete control of the Guard was handed over to the SEDENA/Mexican Army; the Guard, along with state and municipal police, is responsible for enforcing the law and maintaining order; the regular military also actively supports police operations<br>
 
 **Military expenditures**<br>

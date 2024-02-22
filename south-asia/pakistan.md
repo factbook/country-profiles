@@ -497,6 +497,11 @@ _on alcohol and tobacco_: 1.1% of household expenditures (2018 est.)<br>
 _lowest 10%_: 4%<br>
 _highest 10%_: 26.1% (FY2013)<br>
 
+**Remittances**<br>
+8.99% of GDP (2021 est.)<br>
+8.68% of GDP (2020 est.)<br>
+6.93% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $38.966 billion (2020 est.)<br>
 _expenditures_: $59.621 billion (2020 est.)<br>
@@ -672,22 +677,10 @@ _annual freight traffic on registered air carriers_: 217.53 million (2018) mt-km
 AP<br>
 
 **Airports**<br>
-151 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 108<br>
-_civil airports_: 5<br>
-_military airports_: 12<br>
-_joint use (civil-military) airports_: 5<br>
-_other airports_: 86<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-43<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+116 (2024)<br>
 
 **Heliports**<br>
-23 (2021)<br>
+48 (2024)<br>
 
 **Pipelines**<br>
 13,452 km gas transmission and 177,029 km gas distribution, 3,663 km oil, 1,150 km refined products&nbsp; (2022)<br>
@@ -703,8 +696,8 @@ _paved_: 185,463 km (2021) (includes 708 km of expressways)<br>
 _unpaved_: 78,712 km (2021)<br>
 
 **Merchant marine**<br>
-_total_: 58 (2022)<br>
-_by type_: bulk carrier 5, oil tanker 7, other 46<br>
+_total_: 60 (2023)<br>
+_by type_: bulk carrier 5, oil tanker 9, other 46<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Karachi, Port Muhammad Bin Qasim<br>

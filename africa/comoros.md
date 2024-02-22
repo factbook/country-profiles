@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-For centuries prior to colonization in the 19th century, the archipelago of the Comoros in the Indian Ocean, served as a key node in the maritime trade networks that connected the Middle East, India, and eastern African regions. Composed of the islands of Anjouan, Mayotte, Moheli, and Grande Comore, Comoros spent most of the 20th century as a colonial outpost until it declared independence from France on 6 July 1975. Residents of Mayotte, however, voted to remain in France, and the French Government now has classified it as a department of France. Since independence, Comoros has weathered approximately 20 realized and attempted coups resulting in prolonged political instability and stunted economic development. In 2002, President AZALI Assoumani became the first elected president following the completion of the Fomboni Accords, in which the islands of Grande Comore, Anjouan, and Moheli reached an agreement whereby the presidency would rotate among the islands every five years. This power-sharing agreement also included provisions allowing each island to maintain its local government. AZALI stepped down in 2006 and President Ahmed Abdallah Mohamed SAMBI was elected as president from Anjouan. In 2007, Mohamed BACAR effected Anjouan's de-facto secession from the Union of the Comoros, refusing to step down when Comoros' other islands held legitimate elections in July. The African Union (AU) initially attempted to resolve the political crisis by applying sanctions and a naval blockade to Anjouan, but in March 2008 the AU and Comoran soldiers seized the island. The island's inhabitants generally welcomed the move. In May 2011, Ikililou DHOININE won the presidency in peaceful elections widely deemed to be free and fair. In closely contested elections in 2016, former President AZALI Assoumani won a second term, when the rotating presidency returned to Grande Comore. A referendum held in July 2018 - boycotted by the opposition parties - overwhelmingly approved a new constitution removing presidential term limits and the requirement for the presidency to rotate between the three main islands. In August 2018, President AZALI formed a new government and subsequently ran and was elected president in March 2019.<br>
+For centuries prior to colonization in the 19th century, the archipelago of the Comoros in the Indian Ocean, served as a key node in the maritime trade networks that connected the Middle East, India, and eastern African regions. Composed of the islands of Anjouan, Mayotte, Moheli, and Grande Comore, Comoros spent most of the 20th century as a colonial outpost until it declared independence from France on 6 July 1975. Residents of Mayotte, however, voted to remain in France, and the French Government has since classified it as a French Overseas Department. Since independence, Comoros has weathered approximately 20 realized and attempted coups, mostly between 1975 and 2000, resulting in prolonged political instability and stunted economic development. In 2002, President AZALI Assoumani became the first elected president following the completion of the Fomboni Accords, in which the islands of Grande Comore, Anjouan, and Moheli reached an agreement whereby the presidency would rotate among the islands every five years. This power-sharing agreement also included provisions allowing each island to maintain its local government. AZALI stepped down in 2006 and President Ahmed Abdallah Mohamed SAMBI was elected as president from Anjouan. In 2007, Mohamed BACAR effected Anjouan's de-facto secession from the Union of the Comoros, refusing to step down when Comoros' other islands held legitimate elections in July. The African Union (AU) initially attempted to resolve the political crisis by applying sanctions and a naval blockade to Anjouan, but in March 2008 the AU and Comoran soldiers seized the island. The island's inhabitants generally welcomed the move. In May 2011, Ikililou DHOININE won the presidency in peaceful elections widely deemed to be free and fair. In closely contested elections in 2016, former President AZALI Assoumani won a second term, when the rotating presidency returned to Grande Comore. A referendum held in July 2018 - boycotted by the opposition parties - approved a new constitution that extended presidential term limits and abolished the requirement for the presidency to rotate between the three main islands. In August 2018, President AZALI formed a new government and subsequently ran and was elected president in March 2019. President AZALI was reelected in January 2024 in an election that was disputed by the opposition but validated by the Supreme Court.<br>
 
 ## Geography
 
@@ -430,6 +430,11 @@ _female_: 21.5%<br>
 _lowest 10%_: 0.9%<br>
 _highest 10%_: 55.2% (2004)<br>
 
+**Remittances**<br>
+18.56% of GDP (2020 est.)<br>
+14.1% of GDP (2019 est.)<br>
+14.52% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $223 million (2018 est.)<br>
 _expenditures_: $228 million (2018 est.)<br>
@@ -595,11 +600,7 @@ _inventory of registered aircraft operated by air carriers_: 9<br>
 D6<br>
 
 **Airports**<br>
-4 (2021)<br>
-
-**Airports - with paved runways**<br>
-4<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+3 (2024)<br>
 
 **Roadways**<br>
 _total_: 849 km (2019)<br>

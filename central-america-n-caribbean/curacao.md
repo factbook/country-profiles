@@ -365,6 +365,11 @@ _total_: 42.2% (2020 est.)<br>
 _male_: 38.1%<br>
 _female_: 47.1%<br>
 
+**Remittances**<br>
+5.24% of GDP (2020 est.)<br>
+5.88% of GDP (2019 est.)<br>
+5.14% of GDP (2018 est.)<br>
+
 **Budget surplus (+) or deficit (-)**<br>
 -0.4% (of GDP) (2012 est.)<br>
 
@@ -467,11 +472,7 @@ _inventory of registered aircraft operated by air carriers_: 11<br>
 PJ<br>
 
 **Airports**<br>
-1 (2021)<br>
-
-**Airports - with paved runways**<br>
-1<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+1 (2024)<br>
 
 **Roadways**<br>
 _total_: 550 km<br>

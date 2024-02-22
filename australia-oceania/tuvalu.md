@@ -410,6 +410,11 @@ _female_: 45.9%<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+0% of GDP (2020 est.)<br>
+1.66% of GDP (2019 est.)<br>
+2% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $87 million (2019 est.)<br>
 _expenditures_: $88 million (2019 est.)<br>
@@ -533,18 +538,14 @@ _subscriptions per 100 inhabitants_: 4 (2017 est.)<br>
 T2<br>
 
 **Airports**<br>
-1 (2021)<br>
-
-**Airports - with unpaved runways**<br>
-1<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+1 (2024)<br>
 
 **Roadways**<br>
 _total_: 16 km (2022)<br>
 
 **Merchant marine**<br>
-_total_: 260 (2022)<br>
-_by type_: bulk carrier 23, container ship 3, general cargo 39, oil tanker 24, other 171<br>
+_total_: 270 (2023)<br>
+_by type_: bulk carrier 21, container ship 3, general cargo 29, oil tanker 19, other 198<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Funafuti<br>

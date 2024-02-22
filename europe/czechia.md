@@ -62,7 +62,7 @@ _other_: 10.8% (2018 est.)<br>
 220 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
-Dunaj (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Labe (Elbe) river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Labe (Elbe) river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -267,7 +267,7 @@ _municipal solid waste recycled annually_: 850,935 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 25.5% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Dunaj (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Labe (Elbe) river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Labe (Elbe) river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -471,6 +471,11 @@ _on alcohol and tobacco_: 8% of household expenditures (2018 est.)<br>
 _lowest 10%_: 4.1%<br>
 _highest 10%_: 21.7% (2015 est.)<br>
 
+**Remittances**<br>
+1.56% of GDP (2021 est.)<br>
+1.7% of GDP (2020 est.)<br>
+1.53% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $103.838 billion (2019 est.)<br>
 _expenditures_: $103.167 billion (2019 est.)<br>
@@ -643,18 +648,10 @@ _annual freight traffic on registered air carriers_: 25.23 million (2018) mt-km<
 OK<br>
 
 **Airports**<br>
-128 (2021)<br>
-
-**Airports - with paved runways**<br>
-41<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-87<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+243 (2024)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+82 (2024)<br>
 
 **Pipelines**<br>
 7,160 km gas, 675 km oil, 94 km refined products (2016)<br>
@@ -685,7 +682,7 @@ Czech Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2023)
 1.2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 27,000 active personnel (21,000 Army; 6,000 Air Force) (2023)<br>
+approximately 30,000 active personnel (24,000 Army; 6,000 Air Force) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Czech military has a mix of Soviet-era and more modern equipment, mostly of Western European origin from such suppliers as Austria, Germany, and Spain; Czechia has a considerable domestic defense industry; during the Cold War, Czechoslovakia was a major producer of tanks, armored personnel carriers, military trucks, and trainer aircraft (2023)<br>
@@ -693,7 +690,7 @@ the Czech military has a mix of Soviet-era and more modern equipment, mostly of 
 
 **Military service age and obligation**<br>
 18-28 years of age for voluntary military service for men and women; conscription abolished 2004 (2023)<br>
-<strong>note: </strong>as of 2020, women comprised about 13% of the military's full-time personnel<br>
+<strong>note: </strong>as of 2023, women comprised nearly 14% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 up to 130 Lithuania (NATO); 130 Slovakia (NATO) (2023)<br>

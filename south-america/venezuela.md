@@ -622,18 +622,10 @@ _annual freight traffic on registered air carriers_: 1.55 million (2018) mt-km<b
 YV<br>
 
 **Airports**<br>
-444 (2021)<br>
-
-**Airports - with paved runways**<br>
-127<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-317<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+502 (2024)<br>
 
 **Heliports**<br>
-3 (2021)<br>
+88 (2024)<br>
 
 **Pipelines**<br>
 981 km extra heavy crude, 5941 km gas, 7,588 km oil, 1,778 km refined products (2013)<br>
@@ -649,8 +641,8 @@ _total_: 96,189 km (2014)<br>
 7,100 km (2011) (Orinoco River (400 km) and Lake de Maracaibo navigable by oceangoing vessels)<br>
 
 **Merchant marine**<br>
-_total_: 272 (2022)<br>
-_by type_: bulk carrier 3, container ship 1, general cargo 25, oil tanker 17, other 226<br>
+_total_: 272 (2023)<br>
+_by type_: bulk carrier 3, container ship 1, general cargo 26, oil tanker 17, other 225<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: La Guaira, Maracaibo, Puerto Cabello, Punta Cardon<br>
@@ -659,7 +651,7 @@ _oil terminal(s)_: Jose terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bolivarian Army (Ejercito Bolivariano, EB), Bolivarian Navy (Armada Bolivariana, AB; includes marines, Coast Guard), Bolivarian Military Aviation (Aviacion Militar Bolivariana, AMB; includes a joint-service Aerospace Defense Command (Comando de Defensa Aeroespacial Integral, CODAI), Bolivarian Militia (Milicia Bolivariana), Bolivarian National Guard (Guardia Nacional Bolivaria, GNB)<br><br>Ministry of Interior, Justice, and Peace: Bolivarian National Police (Policía Nacional Bolivariana, PNB) (2023)<br>
+Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bolivarian Army (Ejercito Bolivariano, EB), Bolivarian Navy (Armada Bolivariana, AB; includes marines, Coast Guard), Bolivarian Military Aviation (Aviacion Militar Bolivariana, AMB; includes a joint-service Aerospace Defense Command (Comando de Defensa Aeroespacial Integral, CODAI), Bolivarian Militia (Milicia Bolivariana), Bolivarian National Guard (Guardia Nacional Bolivaria, GNB)<br><br>Ministry of Interior, Justice, and Peace: Bolivarian National Police (Policía Nacional Bolivariana, PNB) (2024)<br>
 <strong>note 1: </strong>the Bolivarian Militia was added as a "special component" to the FANB in 2020; it is comprised of armed civilians who receive periodic training in exchange for a small stipend<br><br><strong>note 2: </strong>the National Guard, established in 1937 and made a component of the FANB in 2007, is responsible for maintaining public order, guarding the exterior of key government installations and prisons, conducting counter-narcotics operations, monitoring borders, and providing law enforcement in remote areas; it reports to both the Ministry of Defense and the Ministry of Interior, Justice, and Peace<br><br><strong>note 3: </strong>the PNB is a federal force created by Hugo CHAVEZ in 2008 as a “preventative police force,” separate from state and local ones; the PNB largely focuses on policing Caracas’ Libertador municipality, patrolling Caracas-area highways, railways, and metro system, and protecting diplomatic missions; the PNB includes the Special Action Forces (Fuerzas de Acciones Especiales, FAES), a paramilitary unit created by President MADURO to bolster internal security after the 2017 anti-government protests; it has been accused of multiple human rights abuses    <br>
 
 **Military expenditures**<br>
@@ -670,7 +662,7 @@ Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bol
 1.8% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 125-150,000 active military personnel, including about 25-30,000 National Guard; approximately 200-225,000 Bolivarian Militia; approximately 45,000 National Police (2022)<br>
+information varies; approximately 125-150,000 active military personnel, including about 25-30,000 National Guard; approximately 200-225,000 Bolivarian Militia; approximately 45,000 National Police (2023)<br>
 <strong>note: </strong>in December 2022, President Nicolas MADURO announced that the National Police would be increased to 100,000 in 2024<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -701,7 +693,7 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia-People's 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Venezuela-Brazil</em>: none identified</p> <p><em>Venezuela-Colombia</em>: dispute with Colombia over maritime boundary and Venezuelan administered Los Monjes Islands near the Gulf of Venezuela; Colombian-organized illegal narcotics and paramilitary activities penetrate Venezuela's shared border region; the border between the two countries was closed from March 2020 to October 2021 due to COVID, but goods and people fleeing poverty and violence continued to be smuggled from Venezuela into Colombia, and illegal narcotics and armed men flowed into Venezuela from Colombia; since the FARC disarmed in 2016, some former members have formed armed dissident groups that operate along the border</p> <p><em>Venezuela-Guyana</em>: claims all of the area west of the Essequibo River in Guyana, preventing any discussion of a maritime boundary; in 2018, Guyana initiated proceedings against Venezuela with the International Court of Justice (ICJ); Venezuela requested a direct dialogue to settle the dispute; the ICJ ruled that it had jurisdiction to hear the case in December 2020; in September 2021, Venezuelan officials issued a statement reasserting dominion over three-quarters of Guyana, which Guyana stated was a threat to its sovereignty and territorial integrity; in December 2023, the Venezuelan Government conducted a public referendum asking its citizens to support establishing a state in the disputed territory, granting citizenship to current and future area residents, and rejecting the jurisdiction of the ICJ</p> <p><em>Venezuela-various:</em>  Venezuela claims Aves Island and thereby an economic exclusion Zone/continental shelf extending over a large portion of the eastern Caribbean Sea; Venezuela’s claim to Aves Island is disputed by Dominica and several other countries because the island has rich guano deposits useful in producing fertilizer and gunpowder, as well as large fish stocks and natural gas reserves; contraband smuggling (narcotics and arms), illegal migration, trafficking in animals, plants, lumber, illegal exploitation of mineral resources</p><br>
+<p><em>Venezuela-Brazil</em>: none identified</p> <p><em>Venezuela-Colombia</em>: dispute with Colombia over maritime boundary and Venezuelan administered Los Monjes Islands near the Gulf of Venezuela; Colombian-organized illegal narcotics and paramilitary activities penetrate Venezuela's shared border region; the border between the two countries was closed from March 2020 to October 2021 due to COVID, but goods and people fleeing poverty and violence continued to be smuggled from Venezuela into Colombia, and illegal narcotics and armed men flowed into Venezuela from Colombia; since the FARC disarmed in 2016, some former members have formed armed dissident groups that operate along the border</p> <p><em>Venezuela-Guyana</em>: claims all of the area west of the Essequibo River in Guyana, preventing any discussion of a maritime boundary; in 2018, Guyana initiated proceedings against Venezuela with the International Court of Justice (ICJ); Venezuela requested a direct dialogue to settle the dispute; the ICJ ruled that it had jurisdiction to hear the case in December 2020; in December 2023, the Venezuelan Government held a referendum on the disputed Essequibo region and announced measures to exert administrative control over the area </p> <p><em>Venezuela-various:</em>  Venezuela claims Aves Island and thereby an economic exclusion Zone/continental shelf extending over a large portion of the eastern Caribbean Sea; Venezuela’s claim to Aves Island is disputed by Dominica and several other countries because the island has rich guano deposits useful in producing fertilizer and gunpowder, as well as large fish stocks and natural gas reserves; contraband smuggling (narcotics and arms), illegal migration, trafficking in animals, plants, lumber, illegal exploitation of mineral resources</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 39,185 (Colombia) (mid-year 2022)<br>

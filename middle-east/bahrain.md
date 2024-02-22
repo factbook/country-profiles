@@ -623,14 +623,10 @@ _annual freight traffic on registered air carriers_: 420.98 million (2018) mt-km
 A9C<br>
 
 **Airports**<br>
-4 (2021)<br>
-
-**Airports - with paved runways**<br>
-4<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+3 (2024)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+8 (2024)<br>
 
 **Pipelines**<br>
 20 km gas, 54 km oil (2013)<br>

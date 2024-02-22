@@ -465,11 +465,7 @@ _percent of population_: 79.6% (2021 est.)<br>
 ## Transportation
 
 **Airports**<br>
-1 (2021)<br>
-
-**Airports - with paved runways**<br>
-1<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+1 (2024)<br>
 
 **Roadways**<br>
 _total_: 234 km (2017)<br>
@@ -477,8 +473,8 @@ _paved_: 210 km (2017)<br>
 _unpaved_: 24 km<br>
 
 **Merchant marine**<br>
-_total_: 71 (2022)<br>
-_by type_: bulk carrier 4, container ship 2, general cargo 29, oil tanker 4, other 32<br>
+_total_: 70 (2023)<br>
+_by type_: bulk carrier 5, container ship 2, general cargo 29, oil tanker 4, other 30<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Alofi<br>

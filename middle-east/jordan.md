@@ -479,6 +479,11 @@ _on alcohol and tobacco_: 4.6% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3.4%<br>
 _highest 10%_: 28.7% (2010 est.)<br>
 
+**Remittances**<br>
+11.29% of GDP (2021 est.)<br>
+11.05% of GDP (2020 est.)<br>
+10.34% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $10.813 billion (2019 est.)<br>
 _expenditures_: $13.489 billion (2019 est.)<br>
@@ -646,18 +651,10 @@ _annual freight traffic on registered air carriers_: 175.84 million (2018) mt-km
 JY<br>
 
 **Airports**<br>
-18 (2021)<br>
-
-**Airports - with paved runways**<br>
-16<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-2<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+17 (2024)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+6 (2024)<br>
 
 **Pipelines**<br>
 473 km gas, 49 km oil (2013)<br>
@@ -715,7 +712,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Jordan-Iraq</em>: the two countries signed a border agreement in 1984; Jordan has ratified the treaty, but it has not been confirmed that Iraq has ratified it; as of 2010, the agreement had not been registered with the UN</p> <p><em>Jordan-Israel</em>: none identified</p> <p><em>Jordan-Saudi Arabia</em>: Jordan and Saudi Arabia signed an agreement to demarcate their maritime borders in 2007</p> <p><em>Jordan-Syria</em>: the two countries signed an agreement in 2005 to settle the border dispute based on a 1931 demarcation accord; the two countries began demarcation in 2006</p> <p><em>Jordan-West Bank</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2.4 million (Palestinian refugees) (2020); 12,866 (Yemen), 6,013 Sudan (2021); 33,951 (Iraq) (mid-year 2022) (2022); 649,091 (Syria) (2023)<br>
+_refugees (country of origin)_: 2.4 million (Palestinian refugees) (2020); 12,866 (Yemen), 6,013 Sudan (2021); 33,951 (Iraq) (mid-year 2022) (2022); 643,199 (Syria) (2024)<br>
 _stateless persons_: 64 (2022)<br>
 
 **Illicit drugs**<br>

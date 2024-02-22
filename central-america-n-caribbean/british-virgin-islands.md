@@ -258,7 +258,7 @@ see United Kingdom<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor John J. RANKIN (since 29 January 2021)<br>
+_chief of state_: King CHARLES III (since 8 September 2022); represented by Governor Daniel PRUCE (since 29 January 2024)<br>
 _head of government_: Premier Dr. Natalio WHEATLEY (since 5 May 2022)<br>
 _cabinet_: Executive Council appointed by the governor from members of the House of Assembly<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>
@@ -496,15 +496,10 @@ _subscriptions per 100 inhabitants_: 22 (2020 est.)<br>
 VP-L<br>
 
 **Airports**<br>
-4 (2021)<br>
+3 (2024)<br>
 
-**Airports - with paved runways**<br>
-2<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-2<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+1 (2024)<br>
 
 **Roadways**<br>
 _total_: 200 km<br>

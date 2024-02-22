@@ -62,7 +62,7 @@ _other_: 13.2% (2018 est.)<br>
 2,155 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Dunărea (Danube) (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, and Romania [m]) - 2,888 km; Nistru (Dniester) (shared with Ukraine [s/m]) - 1,411 km</p> <strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+<p>Dunărea (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, and Romania [m]) - 2,888 km; Nistru (Dniester) (shared with Ukraine [s/m]) - 1,411 km <br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -263,7 +263,7 @@ _municipal solid waste recycled annually_: 609,920 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 15.3% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Dunărea (Danube) (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, and Romania [m]) - 2,888 km; Nistru (Dniester) (shared with Ukraine [s/m]) - 1,411 km</p> <strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+<p>Dunărea (Danube) (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, and Romania [m]) - 2,888 km; Nistru (Dniester) (shared with Ukraine [s/m]) - 1,411 km <br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -459,6 +459,11 @@ _female_: 14.7%<br>
 _lowest 10%_: 4.2%<br>
 _highest 10%_: 22.1% (2014 est.)<br>
 
+**Remittances**<br>
+15.24% of GDP (2021 est.)<br>
+15.82% of GDP (2020 est.)<br>
+15.95% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $3.582 billion (2019 est.)<br>
 _expenditures_: $3.754 billion (2019 est.)<br>
@@ -626,15 +631,7 @@ _annual freight traffic on registered air carriers_: 640,000 (2018) mt-km<br>
 ER<br>
 
 **Airports**<br>
-7 (2021)<br>
-
-**Airports - with paved runways**<br>
-5<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-2<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+11 (2024)<br>
 
 **Pipelines**<br>
 2,026 km gas (2021) (2021)<br>
@@ -651,8 +648,8 @@ _total_: 9,488 km (2022)<br>
 558 km (2011) (in public use on Danube, Dniester and Prut Rivers)<br>
 
 **Merchant marine**<br>
-_total_: 126 (2022)<br>
-_by type_: bulk carrier 5, container ship 2, general cargo 79, oil tanker 7, other 33<br>
+_total_: 75 (2023)<br>
+_by type_: bulk carrier 1, container ship 1, general cargo 44, oil tanker 7, other 22<br>
 
 ## Military and Security
 

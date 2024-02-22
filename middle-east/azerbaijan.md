@@ -334,7 +334,7 @@ _chief of state_: President Ilham ALIYEV (since 31 October 2003); First Vice Pre
 _head of government_: Prime Minister Ali ASADOV (since 8 October 2019); First Deputy Prime Minister Yaqub EYYUBOV (since 13 February 2003)<br>
 _cabinet_: Council of Ministers appointed by the president and confirmed by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds (if needed) for a 7-year term; a single individual is eligible for unlimited terms; election last held on 7 February 2024 (next to be held in 2031); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly; note - a constitutional amendment approved in a September 2016 referendum extended the presidential term from 5 to 7 years; a separate constitutional amendment approved in the same referendum also introduced the post of first vice president and additional vice-presidents, who are directly appointed by the president; however, no additional vice presidents have been appointed since the constitutional amendment was passed<br>
-_election results_: <em><br>2024: </em>Ilham ALIYEV reelected president; percent of vote - Ilham ALIYEV (YAP) 92.1%, Zahid ORUJ (independent) 2.2%<em><br><br>2018:</em> Ilham ALIYEV reelected president in first round; percent of vote - Ilham ALIYEV (YAP) 86%, Zahid ORUJ (independent) 3.1%, other 10.9%<br>
+_election results_: <em><br>2024: </em>Ilham ALIYEV reelected president; percent of vote - Ilham ALIYEV (YAP) 92.1%, Zahid ORUJ (independent) 2.2%<em>; </em>on 16 February 2024, Ali ASADOV reappointed prime minister by parliamentary vote, 105-1<em><br><br>2018:</em> Ilham ALIYEV reelected president in first round; percent of vote - Ilham ALIYEV (YAP) 86%, Zahid ORUJ (independent) 3.1%, other 10.9%<br>
 <strong>note:</strong> OSCE observers noted shortcomings in the election, including a restrictive political environment, limits on fundamental freedoms, a lack of genuine competition, and ballot box stuffing<br>
 
 **Legislative branch**<br>
@@ -468,6 +468,11 @@ _on alcohol and tobacco_: 1.6% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 3.4%<br>
 _highest 10%_: 27.4% (2008)<br>
+
+**Remittances**<br>
+2.79% of GDP (2021 est.)<br>
+3.29% of GDP (2020 est.)<br>
+2.65% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $19.95 billion (2019 est.)<br>
@@ -633,22 +638,10 @@ _annual freight traffic on registered air carriers_: 44.09 million (2018) mt-km<
 4K<br>
 
 **Airports**<br>
-23 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 30<br>
-_civil airports_: 4<br>
-_military airports_: 5<br>
-_joint use (civil-military) airports_: 1<br>
-_other airports_: 20<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-7<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+32 (2024)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+5 (2024)<br>
 
 **Pipelines**<br>
 89 km condensate, 3,890 km gas, 2,446 km oil (2013)<br>

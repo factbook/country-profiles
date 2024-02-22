@@ -85,7 +85,7 @@ _noun_: Japanese (singular and plural)<br>
 _adjective_: Japanese<br>
 
 **Ethnic groups**<br>
-Japanese 97.8%, Chinese 0.6%, Korean 0.3%, other 1.3% (includes Filipino, Brazilian, Nepalese, Indonesian, American, and Thai) (2021 est.)<br>
+Japanese 97.5%, Chinese 0.6%, Vietnam 0.4%, South Korean 0.3%, other 1.2% (includes Filipino, Brazilian, Nepalese, Indonesian, American, and Taiwanese) (2022 est.)<br>
 <strong>note:</strong> data represent population by nationality; up to 230,000 Brazilians of Japanese origin migrated to Japan in the 1990s to work in industries; some have returned to Brazil<br>
 
 **Languages**<br>
@@ -467,6 +467,11 @@ _on alcohol and tobacco_: 2.3% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.7%<br>
 _highest 10%_: 24.8% (2008)<br>
 
+**Remittances**<br>
+0.11% of GDP (2021 est.)<br>
+0.1% of GDP (2020 est.)<br>
+0.09% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.756 trillion (2019 est.)<br>
 _expenditures_: $1.916 trillion (2019 est.)<br>
@@ -640,22 +645,10 @@ _annual freight traffic on registered air carriers_: 9,420,660,000 (2018) mt-km<
 JA<br>
 
 **Airports**<br>
-175 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 142<br>
-_civil airports_: 33<br>
-_military airports_: 28<br>
-_joint use (civil-military) airports_: 11<br>
-_other airports_: 70<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-33<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+279 (2024)<br>
 
 **Heliports**<br>
-16 (2021)<br>
+2,839 (2024)<br>
 
 **Pipelines**<br>
 4,456 km gas, 174 km oil, 104 km oil/gas/water (2013)<br>

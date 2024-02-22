@@ -75,7 +75,7 @@ smallest Asian country; archipelago of 1,190 coral islands grouped into 26 atoll
 ## People and Society
 
 **Population**<br>
-389,568 (2023 est.)<br>
+521,021 (2023 est.)<br>
 
 **Nationality**<br>
 _noun_: Maldivian(s)<br>
@@ -444,6 +444,11 @@ _female_: 12.6%<br>
 _lowest 10%_: 1.2%<br>
 _highest 10%_: 33.3% (FY09/10)<br>
 
+**Remittances**<br>
+0.09% of GDP (2021 est.)<br>
+0.12% of GDP (2020 est.)<br>
+0.08% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $993 million (2020 est.)<br>
 _expenditures_: $1.797 billion (2020 est.)<br>
@@ -607,15 +612,7 @@ _annual freight traffic on registered air carriers_: 7.75 million (2018)<br>
 8Q<br>
 
 **Airports**<br>
-9 (2021)<br>
-
-**Airports - with paved runways**<br>
-7<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-2<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+19 (2024)<br>
 
 **Roadways**<br>
 _total_: 93 km (2018)<br>
@@ -623,8 +620,8 @@ _paved_: 93 km (2018) - 60 km in Malée; 16 km on Addu Atolis; 17 km on Laamu<br
 <strong>note:</strong> island roads are mainly compacted coral<br>
 
 **Merchant marine**<br>
-_total_: 80 (2022)<br>
-_by type_: general cargo 30, oil tanker 20, other 30<br>
+_total_: 82 (2023)<br>
+_by type_: general cargo 30, oil tanker 20, other 32<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Male<br>

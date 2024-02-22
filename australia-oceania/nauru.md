@@ -393,6 +393,11 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+5.27% of GDP (2018 est.)<br>
+9.46% of GDP (2017 est.)<br>
+11.77% of GDP (2016 est.)<br>
+
 **Budget**<br>
 _revenues_: $195 million (2020 est.)<br>
 _expenditures_: $158 million (2020 est.)<br>
@@ -552,11 +557,7 @@ _annual freight traffic on registered air carriers_: 7.94 million (2018) mt-km<b
 C2<br>
 
 **Airports**<br>
-1 (2021)<br>
-
-**Airports - with paved runways**<br>
-1<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+1 (2024)<br>
 
 **Roadways**<br>
 _total_: 30 km (2002)<br>
@@ -564,8 +565,8 @@ _paved_: 24 km (2002)<br>
 _unpaved_: 6 km (2002)<br>
 
 **Merchant marine**<br>
-_total_: 3 (2022)<br>
-_by type_: other 3<br>
+_total_: 6 (2023)<br>
+_by type_: other 6<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Nauru<br>

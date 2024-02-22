@@ -313,6 +313,11 @@ tourism, light industry<br>
 12% (2012 est.)<br>
 10.6% (2008 est.)<br>
 
+**Remittances**<br>
+4.3% of GDP (2018 est.)<br>
+4.62% of GDP (2017 est.)<br>
+4.82% of GDP (2016 est.)<br>
+
 **Current account balance**<br>
 -$294.32 million (2021 est.)<br>
 -$290.458 million (2020 est.)<br>
@@ -374,11 +379,7 @@ _percent of population_: 89.5% (2022)<br>
 ## Transportation
 
 **Airports**<br>
-1 (2021)<br>
-
-**Airports - with paved runways**<br>
-1<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+1 (2024)<br>
 
 **Roadways**<br>
 _total_: 53 km<br>
@@ -390,7 +391,7 @@ _oil terminal(s)_: Coles Bay oil terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Police Department for local law enforcement, supported by the Royal Netherlands Marechaussee (Gendarmerie), the Dutch Caribbean Police Force (Korps Politie Caribisch Nederland, KPCN), and the Dutch Caribbean Coast Guard (DCCG or Kustwacht Caribisch Gebied (KWCARIB)) (2023)<br>
+no regular military forces; Police Department for local law enforcement, supported by the Royal Netherlands Marechaussee (Gendarmerie), the Dutch Caribbean Police Force (Korps Politie Caribisch Nederland, KPCN), and the Dutch Caribbean Coast Guard (DCCG or Kustwacht Caribisch Gebied (KWCARIB)) (2024)<br>
 
 **Military - note**<br>
 defense is the responsibility of the Kingdom of the Netherlands<br>

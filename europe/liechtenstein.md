@@ -476,6 +476,9 @@ _subscriptions per 100 inhabitants_: 47 (2020 est.)<br>
 **Civil aircraft registration country code prefix**<br>
 HB<br>
 
+**Heliports**<br>
+2 (2024)<br>
+
 **Pipelines**<br>
 434.5 km gas (2018)<br>
 
@@ -491,8 +494,8 @@ _total_: 420 km (2022)<br>
 28 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 20 (2022)<br>
-_by type_: bulk carrier 16, general cargo 1, other 3 (includes Switzerland)<br>
+_total_: 17 (2023)<br>
+_by type_: bulk carrier 14, general cargo 1, other 2 (includes Switzerland)<br>
 
 ## Military and Security
 

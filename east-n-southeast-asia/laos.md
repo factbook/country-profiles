@@ -62,7 +62,7 @@ _other_: 21.5% (2018 est.)<br>
 4,409 sq km (2020)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Mènam Khong (Mekong) (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km</p> <strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Mènam Khong (Mekong) (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -274,7 +274,7 @@ _municipal solid waste recycled annually_: 35,190 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 10% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Mènam Khong (Mekong) (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km</p> <strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Mènam Khong (Mekong) (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -473,6 +473,11 @@ _on alcohol and tobacco_: 10.5% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3.3%<br>
 _highest 10%_: 30.3% (2008)<br>
 
+**Remittances**<br>
+1.22% of GDP (2020 est.)<br>
+1.58% of GDP (2019 est.)<br>
+1.32% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.896 billion (2019 est.)<br>
 _expenditures_: $3.839 billion (2019 est.)<br>
@@ -636,15 +641,7 @@ _annual freight traffic on registered air carriers_: 1.53 million (2018) mt-km<b
 RDPL<br>
 
 **Airports**<br>
-41 (2021)<br>
-
-**Airports - with paved runways**<br>
-8<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-33<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+18 (2024)<br>
 
 **Pipelines**<br>
 540 km refined products (2013)<br>

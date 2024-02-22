@@ -424,6 +424,11 @@ _female_: 12.6%<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+0.95% of GDP (2021 est.)<br>
+0.92% of GDP (2020 est.)<br>
+0.6% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $4.939 billion (2020 est.)<br>
 _expenditures_: $7.528 billion (2020 est.)<br>
@@ -584,21 +589,13 @@ _annual freight traffic on registered air carriers_: 41.14 million (2018) mt-km<
 9Y<br>
 
 **Airports**<br>
-4 (2021)<br>
-
-**Airports - with paved runways**<br>
-2<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-2<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+3 (2024)<br>
 
 **Pipelines**<br>
 257 km condensate, 11 km condensate/gas, 1,567 km gas, 587 km oil (2013)<br>
 
 **Merchant marine**<br>
-_total_: 102 (2022)<br>
+_total_: 102 (2023)<br>
 _by type_: general cargo 1, other 101<br>
 
 **Ports and terminals**<br>
@@ -609,7 +606,7 @@ _LNG terminal(s) (export)_: Port Fortin<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago Regiment), Coast Guard, Air Guard, Defense Force Reserves<br><br>Trinidad and Tobago Police Service (TTPS) (2023)<br>
+Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago Regiment), Coast Guard, Air Guard, Defense Force Reserves<br><br>Trinidad and Tobago Police Service (TTPS) (2024)<br>
 <strong>note:</strong> the Ministry of National Security oversees both the TTDF and the TTPS<br>
 
 **Military expenditures**<br>

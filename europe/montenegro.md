@@ -474,6 +474,11 @@ _on alcohol and tobacco_: 6.8% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3.5%<br>
 _highest 10%_: 25.7% (2014 est.)<br>
 
+**Remittances**<br>
+13.54% of GDP (2021 est.)<br>
+12.59% of GDP (2020 est.)<br>
+10.54% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $2.051 billion (2020 est.)<br>
 _expenditures_: $2.568 billion (2020 est.)<br>
@@ -641,14 +646,10 @@ _annual freight traffic on registered air carriers_: 130,000 (2018) mt-km<br>
 4O<br>
 
 **Airports**<br>
-5 (2021)<br>
-
-**Airports - with paved runways**<br>
-5<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+5 (2024)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+1 (2024)<br>
 
 **Railways**<br>
 _total_: 250 km (2017)<br>
@@ -658,7 +659,7 @@ _standard gauge_: 250 km (2017) 1.435-m gauge (224 km electrified)<br>
 _total_: 9,825 km (2022)<br>
 
 **Merchant marine**<br>
-_total_: 18 (2022)<br>
+_total_: 18 (2023)<br>
 _by type_: bulk carrier 4, other 14<br>
 
 **Ports and terminals**<br>
@@ -695,7 +696,7 @@ the Army of Montenegro is a small military focused on the defense of Montenegro�
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
+<p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: the former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated; nearly one-third of Montenegro's people identify as Serbs, and divisions in the country remain deep over relations with Serbia</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 64,240 (Ukraine) (as of 25 December 2023)<br>

@@ -623,19 +623,10 @@ _annual freight traffic on registered air carriers_: 17.76 million (2018) mt-km<
 CU<br>
 
 **Airports**<br>
-133 (2021)<br>
+123 (2024)<br>
 
-**Airports - with paved runways**<br>
-_total_: 64<br>
-_civil airports_: 7<br>
-_military airports_: 3<br>
-_joint use (civil-military) airports_: 2<br>
-_other airports_: 52<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-69<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+4 (2024)<br>
 
 **Pipelines**<br>
 41 km gas, 230 km oil (2013)<br>
@@ -680,7 +671,7 @@ limited available information; estimated 50,000 active personnel, including appr
 the military's inventory is comprised of aging Russian and Soviet-era equipment (2023)<br>
 
 **Military service age and obligation**<br>
-17-28 years of age for compulsory (men) and voluntary (men and women) military service; conscripts serve for 24 months (2023)<br>
+17-28 years of age for compulsory (men) and voluntary (men and women) military service; conscripts serve for 24 months (2024)<br>
 
 **Military - note**<br>
 the Revolutionary Armed Forces (FAR) are a central pillar of the Cuban regime and viewed as the guardian of the Cuban revolution; it has a large role in the country’s politics and economy; many senior government posts are held by military officers, and a FAR-controlled umbrella enterprise known as the Armed Forces Business Group (Grupo de Administración Empresarial or GAESA) has interests in banking and finance, construction, import/export, ports, real estate, retail, shipping, transportation, and tourism<br><br>the FAR is largely focused on protecting territorial integrity and the state, and perceives the US as its primary threat; the fall of the Soviet Union in 1991 and the subsequent end of Soviet military aid had far-reaching consequences for the FAR, transforming it from one of the largest and most capable militaries in the region, as well as one that was heavily involved in foreign missions during the Cold War, particularly in Africa, into a much smaller, home-based and defensive force with limited capabilities; the Army, once over 200,000 strong, but now estimated to have about 40,000 troops, is a conscript-based force armed with Soviet-era weapons and equipment and reportedly organized into three regional commands or armies, each with an undetermined number of divisional headquarters and brigades of artillery, light infantry, mechanized infantry, and tanks; the Army also has special forces and airborne brigades, as well as a security brigade that faces the US naval base at Guantanamo Bay; the Navy once boasted several Soviet-made frigates and attack submarines but now maintains a small combat force of aging coastal patrol and mine warfare craft, as well as a midget attack submarine; its largest vessels are two former fishing trawlers that were converted into warships in the late 1970s; the Border Guards also have patrol vessels; the Air Defense force has surface-to-air missiles and hundreds of air defense artillery guns, while the Air Force has a few dozen operational Soviet-era fighter aircraft attack helicopters (2023)<br>
@@ -688,7 +679,7 @@ the Revolutionary Armed Forces (FAR) are a central pillar of the Cuban regime an
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>US Naval Base at Guantanamo Bay is leased to US and only mutual agreement or US abandonment of the facility can terminate the lease</p><br>
+<p>US Naval Base at Guantanamo Bay is leased to the US and only mutual agreement or US abandonment of the facility can terminate the lease</p><br>
 
 **Trafficking in persons**<br>
 _tier rating_: <p>Tier 3 — Cuba does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so, therefore, Cuba remained on Tier 3; the government took some steps to address trafficking, such as amending the penal code to include criminalization of labor trafficking; however, the government continued a policy or pattern to profit from labor export programs with strong indications of forced labor, particularly in its foreign medical missions program; the government continued to deploy Cuban workers to foreign countries using deceptive and coercive tactics, and failed to address an increasing number of allegations from credible NGOs and foreign governments of Cuban officials’ involvement in trafficking crimes; the government used its legal framework to threaten, coerce, and punish workers and their families if they left the labor export and medical programs (2023)</p><br>

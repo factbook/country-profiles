@@ -437,6 +437,11 @@ _female_: 15.6%<br>
 _lowest 10%_: 4.7%<br>
 _highest 10%_: 15.4% (2007)<br>
 
+**Remittances**<br>
+0.79% of GDP (2020 est.)<br>
+1.4% of GDP (2019 est.)<br>
+1.39% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $601 million (2019 est.)<br>
 _expenditures_: $586 million (2019 est.)<br>
@@ -600,18 +605,10 @@ _annual freight traffic on registered air carriers_: 7.79 million (2018) mt-km<b
 S7<br>
 
 **Airports**<br>
-14 (2021)<br>
-
-**Airports - with paved runways**<br>
-7<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-7<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+16 (2024)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+6 (2024)<br>
 
 **Roadways**<br>
 _total_: 526 km (2015)<br>
@@ -619,8 +616,8 @@ _paved_: 514 km (2015)<br>
 _unpaved_: 12 km (2015)<br>
 
 **Merchant marine**<br>
-_total_: 31 (2022)<br>
-_by type_: general cargo 6, oil tanker 7, other 18<br>
+_total_: 30 (2023)<br>
+_by type_: general cargo 6, oil tanker 6, other 18<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Victoria<br>
@@ -648,10 +645,10 @@ the SDF's inventory primarily consists of Soviet-era equipment delivered in the 
 18-28 (18-25 for officers) years of age for voluntary military service for men and women; 6-year initial commitment; no conscription (2023)<br>
 
 **Military - note**<br>
-formed in 1977, the SDF is one of the world's smallest militaries; its primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling; it was given police powers in 2022; the Seychelles has strong security ties with India (2023)<br>
+formed in 1977, the SDF is one of the world's smallest militaries; its primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling; it was given police powers in 2022; the Seychelles has close security ties with India (2023)<br>
 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Seychelles-UK</em>: Mauritius and Seychelles claim the Chagos Islands (UK-administered British Indian Ocean Territory)</p><br>
+none identified<br>
 

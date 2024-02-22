@@ -495,6 +495,11 @@ _on alcohol and tobacco_: 7.2% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3.4%<br>
 _highest 10%_: 28.2% (2010)<br>
 
+**Remittances**<br>
+0.79% of GDP (2021 est.)<br>
+0.91% of GDP (2020 est.)<br>
+1.04% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $130.872 billion (2020 est.)<br>
 _expenditures_: $192.97 billion (2020 est.)<br>
@@ -662,22 +667,10 @@ _annual freight traffic on registered air carriers_: 1,131,910,000 (2018) mt-km<
 PK<br>
 
 **Airports**<br>
-673 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 186<br>
-_civil airports_: 21<br>
-_military airports_: 2<br>
-_joint use (civil-military) airports_: 9<br>
-_other airports_: 154<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-487<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+513 (2024)<br>
 
 **Heliports**<br>
-76 (2021)<br>
+24 (2024)<br>
 
 **Pipelines**<br>
 1,064 km condensate, 150 km condensate/gas, 11,702 km gas, 119 km liquid petroleum gas, 7,767 km oil, 77 km oil/gas/water, 728 km refined products, 53 km unknown, 44 km water (2013)<br>

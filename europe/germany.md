@@ -68,7 +68,7 @@ _fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 54
 _salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Donau (Danube) river source (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhein (Rhine) (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Donau (Danube) river source (shared with Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhein (Rhine) (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -277,7 +277,7 @@ _fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 54
 _salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Donau (Danube) river source (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhein (Rhine) (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Donau (Danube) river source (shared with Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhein (Rhine) (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -483,6 +483,11 @@ _on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3.6%<br>
 _highest 10%_: 24% (2000)<br>
 
+**Remittances**<br>
+0.48% of GDP (2021 est.)<br>
+0.5% of GDP (2020 est.)<br>
+0.48% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.785 trillion (2020 est.)<br>
 _expenditures_: $1.945 trillion (2020 est.)<br>
@@ -658,22 +663,10 @@ _annual freight traffic on registered air carriers_: 7,969,860,000 (2018) mt-km<
 D<br>
 
 **Airports**<br>
-539 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 318<br>
-_civil airports_: 49<br>
-_military airports_: 21<br>
-_joint use (civil-military) airports_: 6<br>
-_other airports_: 242<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-221<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+838 (2024)<br>
 
 **Heliports**<br>
-23 (2021)<br>
+388 (2024)<br>
 
 **Pipelines**<br>
 37 km condensate, 26,985 km gas, 2,400 km oil, 4,479 km refined products, 8 km water (2013)<br>

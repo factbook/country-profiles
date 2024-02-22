@@ -338,8 +338,8 @@ _residency requirement for naturalization_: 6 years<br>
 _chief of state_: President Sauli NIINISTO (since 1 March 2012)<br>
 _head of government_: Prime Minister Petteri ORPO (since 20 June 2023)<br>
 _cabinet_: Council of State or Valtioneuvosto appointed by the president, responsible to Parliament<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 28 January 2018 (next to be held on 28 January 2024); prime minister appointed by Parliament<br>
-_election results_: <em><br>2018:</em> Sauli NIINISTO reelected president; percent of vote - Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%<br><br><em>2012: </em>Sauli NIINISTO elected president; percent of vote - Sauli NIINISTO (Kok) 62.6%, Pekka HAAVISTO (Vihr) 37.4%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); first round held on 28 January 2024 with a runoff on 11 February 2024 (next to be held by 28 January 2030); prime minister appointed by Parliament<br>
+_election results_: <em>2024:  </em>Alexander STUBB elected in the second round; percent of vote in the first round - Alexander STUBB (KoK) 27.2%, Pekka HAAVISTO (Vihr) 25.8%, Jussi HALLA-AHO (PS) 19.0%, Olli REHN (Kesk) 15.3%; percent of vote in second round - STUBB 51.6%, HAAVISTO 48.4%; note - STUBB will be inaugurated on 1 March 2024<br><em><br>2018:</em> Sauli NIINISTO reelected president; percent of vote - Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms)<br>
@@ -472,6 +472,11 @@ _on alcohol and tobacco_: 4.3% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 6.7%<br>
 _highest 10%_: 45.2% (2013)<br>
+
+**Remittances**<br>
+0.28% of GDP (2021 est.)<br>
+0.3% of GDP (2020 est.)<br>
+0.3% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $140.643 billion (2020 est.)<br>
@@ -649,19 +654,10 @@ _annual freight traffic on registered air carriers_: 957.64 million (2018) mt-km
 OH<br>
 
 **Airports**<br>
-148 (2021)<br>
+98 (2024)<br>
 
-**Airports - with paved runways**<br>
-_total_: 74<br>
-_civil airports_: 11<br>
-_military airports_: 2<br>
-_joint use (civil-military) airports_: 2<br>
-_other airports_: 59<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-74<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+15 (2024)<br>
 
 **Pipelines**<br>
 1,288 km gas transmission pipes, 1,976 km distribution pipes (2016)<br>

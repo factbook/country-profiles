@@ -448,6 +448,11 @@ _female_: 5.8%<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+1.64% of GDP (2021 est.)<br>
+1.88% of GDP (2020 est.)<br>
+1.68% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $5.661 billion (2019 est.)<br>
 _expenditures_: $5.586 billion (2019 est.)<br>
@@ -612,21 +617,17 @@ _annual freight traffic on registered air carriers_: 5.14 million (2018) mt-km<b
 9H<br>
 
 **Airports**<br>
-1 (2021)<br>
-
-**Airports - with paved runways**<br>
-1<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+1 (2024)<br>
 
 **Heliports**<br>
-2 (2021)<br>
+2 (2024)<br>
 
 **Roadways**<br>
 _total_: 2,855 km (2021)<br>
 
 **Merchant marine**<br>
-_total_: 2,047 (2022)<br>
-_by type_: bulk carrier 545, container ship 312, general cargo 182, oil tanker 395, other 613<br>
+_total_: 1,957 (2023)<br>
+_by type_: bulk carrier 490, container ship 348, general cargo 152, oil tanker 354, other 613<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Marsaxlokk (Malta Freeport), Valletta<br>

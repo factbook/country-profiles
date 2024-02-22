@@ -487,6 +487,11 @@ _on alcohol and tobacco_: 2.1% of household expenditures (2018 est.)<br>
 _lowest 10%_: 0.9%<br>
 _highest 10%_: 36.1% (2014 est.)<br>
 
+**Remittances**<br>
+3.51% of GDP (2021 est.)<br>
+3.08% of GDP (2020 est.)<br>
+3.27% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $11.796 billion (2019 est.)<br>
 _expenditures_: $14.75 billion (2019 est.)<br>
@@ -656,19 +661,10 @@ _annual freight traffic on registered air carriers_: 13.73 million (2018) mt-km<
 CP<br>
 
 **Airports**<br>
-855 (2021)<br>
+200 (2024)<br>
 
-**Airports - with paved runways**<br>
-_total_: 21<br>
-_civil airports_: 3<br>
-_military airports_: 1<br>
-_joint use (civil-military) airports_: 4<br>
-_other airports_: 13<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-834<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+3 (2024)<br>
 
 **Pipelines**<br>
 5,457 km gas, 51 km liquid petroleum gas, 2,511 km oil, 1,627 km refined products (2013)<br>
@@ -696,15 +692,15 @@ _river port(s)_: Puerto Aguirre (Paraguay/Parana)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bolivian Armed Forces (Fuerzas Armadas de Bolivia or FAB): Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval Force (Fuerza Naval Boliviana, FNB), Bolivian Air Force (Fuerza Aerea Boliviana, FAB)<br><br>Ministry of Government: National Police (Policía Nacional de Bolivia, PNB) (2023)<br>
+Bolivian Armed Forces (Fuerzas Armadas de Bolivia or FAB): Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval Force (Fuerza Naval Boliviana, FNB), Bolivian Air Force (Fuerza Aerea Boliviana, FAB)<br><br>Ministry of Government: National Police (Policía Nacional de Bolivia, PNB) (2024)<br>
 <strong>note:</strong> the PNB includes two paramilitary forces, the Anti-Narcotics Special Forces (Fuerza Especial de Lucha Contra el Narcotráfico, FELCN) and the Anti-Terrorist Group (GAT); the PNB is part of the reserves for the Armed Forces; the police and military share responsibility for border enforcement<br>
 
 **Military expenditures**<br>
+1.04% of GDP (2023 est.)<br>
 1.3% of GDP (2022 est.)<br>
 1.4% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
 1.4% of GDP (2019 est.)<br>
-1.5% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 40,000 active-duty military personnel; approximately 40,000 National Police (2023)<br>
@@ -713,7 +709,7 @@ approximately 40,000 active-duty military personnel; approximately 40,000 Nation
 the military is equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment; in recent years, France has been the leading supplier (2023)<br>
 
 **Military service age and obligation**<br>
-compulsory for all men between the ages of 18 and 22; men can volunteer from the age of 16, women from 18; service is for 12 months; Search and Rescue service can be substituted for citizens who have reached the age of compulsory military service; duration of this service is 24 months (2023)<br>
+compulsory for all men between the ages of 18 and 22; men can volunteer from the age of 16, women from 18; service is for 12 months; Search and Rescue service can be substituted for citizens who have reached the age of compulsory military service; duration of this service is 24 months (2024)<br>
 <strong>note 1:</strong> foreign nationals 18-22 residing in Bolivia may join the armed forces; joining speeds the process of acquiring Bolivian citizenship by naturalization<br><br><strong>note 2:</strong> as of 2022, women comprised about 8% of the Bolivian military's personnel<br>
 
 **Military - note**<br>
@@ -731,7 +727,7 @@ has a small space program focused on acquiring and operating satellites; operate
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of its border regions with all of its neighbors (Argentina, Brazil, Chile, Paraguay, and Peru)<br><br><em>Bolivia-Chile:</em> despite tariff-free access to ports in southern Peru and northern Chile, Bolivia persists with its long-standing claims to regain sovereign access to the Pacific Ocean<br><br><em>Bolivia-Peru:</em> despite tariff-free access to ports in southern Peru and northern Chile, Bolivia persists with its long-standing claims to regain sovereign access to the Pacific Ocean; smuggling of archaeological artifacts from Peru to Bolivia, illegal timber and narcotics smuggling, human trafficking, and falsified documents are current issues <br><br><em>Bolivia-Brazil:</em> the Roboré Accord of March 29, 1958 placed the long-disputed Isla Suárez/Ilha de Guajará-Mirim, a fluvial island on the Río Mamoré, between the two towns of Guajará-Mirim (Brazil) and Guayaramerin (Bolivia), under Bolivian administration but did not resolve the sovereignty dispute<br><br><em>Bolivia-Argentina:</em> contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of the border <br><br><em>Bolivia-Paraguay:</em> on April 27, 2009, the president of Argentina hosted the presidents of Bolivia and Paraguay together with representatives of the five other guarantor states -- Brazil, Chile, Peru, the US, and Uruguay -- to the signing for the Final Record of the Boundary Commission in execution of the 1938 Peace Treaty between Bolivia and Paraguay</p><br>
+<p>contraband smuggling, human trafficking, wildlife trafficking, and illegal narcotic trafficking are problems in the porous areas of its border regions with all of its neighbors (Argentina, Brazil, Chile, Paraguay, and Peru)<br><br><em>Bolivia-Chile:</em> despite tariff-free access to ports in southern Peru and northern Chile, Bolivia persists with its long-standing claims to regain sovereign access to the Pacific Ocean<br><br><em>Bolivia-Peru:</em> despite tariff-free access to ports in southern Peru and northern Chile, Bolivia persists with its long-standing claims to regain sovereign access to the Pacific Ocean; smuggling of archaeological artifacts from Peru to Bolivia, illegal timber, narcotics, and wildlife smuggling, human trafficking, and falsified documents are current issues <br><br><em>Bolivia-Brazil:</em> the Roboré Accord of March 29, 1958 placed the long-disputed Isla Suárez/Ilha de Guajará-Mirim, a fluvial island on the Río Mamoré, between the two towns of Guajará-Mirim (Brazil) and Guayaramerin (Bolivia), under Bolivian administration but did not resolve the sovereignty dispute<br><br><em>Bolivia-Argentina:</em> contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of the border <br><br><em>Bolivia-Paraguay:</em> on April 27, 2009, the president of Argentina hosted the presidents of Bolivia and Paraguay together with representatives of the five other guarantor states -- Brazil, Chile, Peru, the US, and Uruguay -- to the signing for the Final Record of the Boundary Commission in execution of the 1938 Peace Treaty between Bolivia and Paraguay</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 15,700 (Venezuela) (2022)<br>

@@ -501,6 +501,11 @@ _on alcohol and tobacco_: 3.7% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3.6%<br>
 _highest 10%_: 25.4% (2013)<br>
 
+**Remittances**<br>
+1.08% of GDP (2021 est.)<br>
+1.09% of GDP (2020 est.)<br>
+1.1% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.427 trillion (2019 est.)<br>
 _expenditures_: $1.509 trillion (2019 est.)<br>
@@ -675,22 +680,12 @@ _annual freight traffic on registered air carriers_: 4,443,790,000 (2018) mt-km<
 F<br>
 
 **Airports**<br>
-464 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 294<br>
-_civil airports_: 64<br>
-_military airports_: 22<br>
-_joint use (civil-military) airports_: 5<br>
-_other airports_: 204<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-170<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+689 (2024)<br>
+<strong>note:</strong> Includes 27 airports in French overseas departments (French Guiana, Guadeloupe, Martinique, Mayotte, Reunion)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+290 (2024)<br>
+<strong>note:</strong> Includes 11 heliports in French overseas departments (French Guiana, Guadeloupe, Martinique, Reunion)<br>
 
 **Pipelines**<br>
 15,322 km gas, 2,939 km oil, 5,084 km refined products (2013)<br>

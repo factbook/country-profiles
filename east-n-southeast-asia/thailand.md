@@ -490,6 +490,11 @@ _on alcohol and tobacco_: 3.4% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 31.5% (2009 est.)<br>
 
+**Remittances**<br>
+1.79% of GDP (2021 est.)<br>
+1.65% of GDP (2020 est.)<br>
+1.5% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $104.689 billion (2020 est.)<br>
 _expenditures_: $128.581 billion (2020 est.)<br>
@@ -655,18 +660,10 @@ _annual freight traffic on registered air carriers_: 2,666,260,000 (2018) mt-km<
 HS<br>
 
 **Airports**<br>
-101 (2021)<br>
-
-**Airports - with paved runways**<br>
-63<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-38<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+108 (2024)<br>
 
 **Heliports**<br>
-7 (2021)<br>
+5 (2024)<br>
 
 **Pipelines**<br>
 2 km condensate, 5,900 km gas, 85 km liquid petroleum gas, 1 km oil, 1,097 km refined products (2013)<br>
@@ -683,8 +680,8 @@ _total_: 180,053 km (2006) (includes 450 km of expressways)<br>
 4,000 km (2011) (3,701 km navigable by boats with drafts up to 0.9 m)<br>
 
 **Merchant marine**<br>
-_total_: 829 (2022)<br>
-_by type_: bulk carrier 26, container ship 28, general cargo 91, oil tanker 246, other 438<br>
+_total_: 884 (2023)<br>
+_by type_: bulk carrier 28, container ship 28, general cargo 88, oil tanker 251, other 489<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha<br>
@@ -718,7 +715,7 @@ the RTARF has a diverse array of foreign-supplied weapons systems, including a c
 275 South Sudan (UNMISS) (2023)<br>
 
 **Military - note**<br>
-the RTARF’s missions include defending the country’s territory and sovereignty, protecting the monarchy, ensuring internal security, and responding to natural disasters; it also plays a large role in domestic politics and has attempted more than 20 coups since the fall of absolute monarchy in 1932, the most recent being in 2014; the Army, formed in 1874, is the dominant service and has 15 combat divisions spread across 4 military regions; ten of the divisions are infantry, while the others are armored/mechanized cavalry, special forces, and artillery; established in 1906, the Navy’s principal warships include a light aircraft/helicopter carrier, a landing platform dock (LPD) amphibious assault ship, and nearly 20 frigates, corvettes, and offshore patrol vessels; it also has a marine infantry division; the Air Force, established in 1913, is one of the oldest in Southeast Asia and has around 100 combat aircraft<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, Thai officials have been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, violence associated with the insurgency has claimed more than 7,300 lives (as of 2023); the Thai Government has had as many as 100,000 military and paramilitary forces deployed in the south to combat the insurgency<br><br>Thailand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; the Thai and US militaries host the annual "Cobra Gold" multinational military exercises in Thailand; the exercise is one of the largest multinational exercises in the Pacific region (2023)<br>
+the RTARF’s missions include defending the country’s territory and sovereignty, protecting the monarchy, ensuring internal security, and responding to natural disasters; it also plays a large role in domestic politics and has attempted more than 20 coups since the fall of absolute monarchy in 1932, the most recent being in 2014; the Army, formed in 1874, is the dominant service and has 15 combat divisions spread across four military regions; ten of the divisions are infantry, while the others are armored/mechanized cavalry, special forces, and artillery; established in 1906, the Navy’s principal warships include a light aircraft/helicopter carrier, a landing platform dock (LPD) amphibious assault ship, and nearly 20 frigates, corvettes, and offshore patrol vessels; it also has a marine infantry division; the Air Force, established in 1913, is one of the oldest in Southeast Asia and has around 100 combat aircraft<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, Thai officials have been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, violence associated with the insurgency has claimed more than 7,300 lives (as of 2023); the Thai Government has had as many as 100,000 military and paramilitary forces deployed in the south to combat the insurgency<br><br>Thailand has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; the Thai and US militaries host the annual "Cobra Gold" multinational military exercises in Thailand; the exercise is one of the largest multinational exercises in the Pacific region (2023)<br>
 
 ## Space
 

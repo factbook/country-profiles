@@ -463,6 +463,11 @@ _on alcohol and tobacco_: 9.2% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.9%<br>
 _highest 10%_: 25.8% (2011 est.)<br>
 
+**Remittances**<br>
+10.16% of GDP (2021 est.)<br>
+9.58% of GDP (2020 est.)<br>
+11.55% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $8.434 billion (2019 est.)<br>
 _expenditures_: $8.154 billion (2019 est.)<br>
@@ -629,18 +634,10 @@ _annual freight traffic on registered air carriers_: 87 (2015) mt-km<br>
 T9<br>
 
 **Airports**<br>
-24 (2021)<br>
-
-**Airports - with paved runways**<br>
-7<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-17<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+13 (2024)<br>
 
 **Heliports**<br>
-6 (2021)<br>
+3 (2024)<br>
 
 **Pipelines**<br>
 147 km gas, 9 km oil (2013)<br>
@@ -661,7 +658,7 @@ _river port(s)_: Bosanska Gradiska, Bosanski Brod, Bosanski Samac, Brcko, Orasje
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegovine, OSBiH): Army, Air, Air Defense forces organized into an Operations Command and a Support Command (2023)<br>
+Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegovine, OSBiH): Army, Air, Air Defense forces organized into an Operations Command and a Support Command<br><br>Ministry of Security: Border Police (2024)<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2022 est.)<br>

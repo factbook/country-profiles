@@ -359,10 +359,10 @@ _FAX_: [1] (202) 745-3679<br>
 _email address and website_: <br>info@pngembassy.org<br><br>http://www.pngembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Katherine Elizabeth "Kemy" MONAHAN (since 26 September 2023); note - also accredited to the Solomon Islands and Vanuatu<br>
+_chief of mission_: Ambassador-designate Ann Marie YASTISHOCK (since 2 February 2024); note - also accredited to the Solomon Islands and Vanuatu<br>
 _embassy_: Harbour City Road, Port Moresby 121, NCD, Papua New Guinea<br>
 _mailing address_: Harbour City Road, Port Moresby 121, NCD, Papua New Guinea<br>
-_telephone_: [675] 308-2100<br>
+_telephone_: [675] 308-9100<br>
 _email address and website_: <br>ConsularPortMoresby@state.gov<br><br>https://pg.usembassy.gov/<br>
 
 **Flag description**<br>
@@ -459,6 +459,11 @@ _female_: 4.2%<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
 _highest 10%_: 40.5% (1996)<br>
+
+**Remittances**<br>
+0.01% of GDP (2020 est.)<br>
+0.01% of GDP (2019 est.)<br>
+0.02% of GDP (2018 est.)<br>
 
 **Budget**<br>
 _revenues_: $4.039 billion (2019 est.)<br>
@@ -627,18 +632,10 @@ _annual freight traffic on registered air carriers_: 30.93 million (2018) mt-km<
 P2<br>
 
 **Airports**<br>
-561 (2021)<br>
-
-**Airports - with paved runways**<br>
-21<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-540<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+535 (2024)<br>
 
 **Heliports**<br>
-2 (2021)<br>
+3 (2024)<br>
 
 **Pipelines**<br>
 264 km oil (2013)<br>
@@ -652,8 +649,8 @@ _unpaved_: 22,215 km (2015)<br>
 11,000 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 199 (2022)<br>
-_by type_: container ship 6, general cargo 87, oil tanker 3, other 103<br>
+_total_: 205 (2023)<br>
+_by type_: container ship 6, general cargo 89, oil tanker 4, other 106<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kimbe, Lae, Madang, Rabaul, Wewak<br>
@@ -681,7 +678,7 @@ the PNGDF is lightly armed; most of its military assistance has come from Austra
 18-27 for voluntary military service for men and women; no conscription (2024)<br>
 
 **Military - note**<br>
-the PNGDF is a small and lightly armed force tasked with defense of the country and its territories against external attack, as well as internal security and socio-economic development duties; the Land Element includes two infantry battalions, plus small supporting engineer, communications, explosive ordnance disposal, and medical forces; the Air Element is a small air wing operating a light transport aircraft and a few leased helicopters, while the Maritime Element consists of a few patrol boats and landing craft<br><br>the PNGDF was established in 1973, and its primary combat unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until Papua New Guinea gained its independence in 1975, when it became part of the PNGDF<br><br>Papua New Guinea's traditional security partners are Australia, Indonesia, New Zealand, and the US; Australia and the US are assisting the country with expanding and improving the Defense Force naval base at Lombrum on Manus Island; the US first established a Lombrum base in 1944 during World War II; in recent years, Papua New Guinea has established security ties with France and the UK; the US and PNG signed a defense cooperation agreement in May 2023, which included a shiprider agreement that provides the opportunity for PNG personnel to work on US Coast Guard and US Navy vessels, and vice versa, to tackle maritime crime such as illegal fishing (2023)<br>
+the PNGDF is a small and lightly armed force tasked with defense of the country and its territories against external attack, as well as internal security and socio-economic development duties; following some inter-tribal violence in Wapenamanda in early 2024, the PNGDF was given arrest powers; the Land Element includes two infantry battalions, plus small supporting engineer, communications, explosive ordnance disposal, and medical units; the Air Element is a small air wing operating a light transport aircraft and a few leased helicopters, while the Maritime Element consists of a few patrol boats and landing craft<br><br>the PNGDF was established in 1973, and its primary combat unit, the Royal Pacific Islands Regiment (RPIR), is descended from Australian Army infantry battalions comprised of native soldiers and led by Australian officers and non-commissioned officers formed during World War II to help fight the Japanese; the RPIR was disbanded after the war, but reestablished in 1951 as part of the Australian Army where it continued to serve until Papua New Guinea gained its independence in 1975, when it became part of the PNGDF<br><br>Papua New Guinea's traditional security partners are Australia, Indonesia, New Zealand, and the US; Australia and the US are assisting the country with expanding and improving the Defense Force naval base at Lombrum on Manus Island; the US first established a Lombrum base in 1944 during World War II; in recent years, Papua New Guinea has established security ties with France and the UK; the US and PNG signed a defense cooperation agreement in May 2023, which included a shiprider agreement that provides the opportunity for PNG personnel to work on US Coast Guard and US Navy vessels, and vice versa, to tackle maritime crime such as illegal fishing (2024)<br>
 
 ## Transnational Issues
 

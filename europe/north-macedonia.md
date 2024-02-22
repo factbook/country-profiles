@@ -330,8 +330,8 @@ _election results_: <em>2024: </em>Talat XHAFERI elected caretaker Prime Ministe
 
 **Legislative branch**<br>
 _description_: unicameral Assembly - Sobranie in Macedonian, Kuvend in Albanian (between 120 and 140 seats, currently 120; members directly elected in multi-seat constituencies by closed-list proportional representation vote; possibility of 3 directly elected in diaspora constituencies by simple majority vote provided there is sufficient voter turnout; members serve 4-year terms)<br>
-_elections_: last held on 15 July 2020 (next to be held in May 2024)<br>
-_election results_: percent of vote by party/coalition - We Can 35.9%, Renewal 34.6%, BDI 11.5%, AfA-Alternative 9%, The Left 4.1%, PDSH 1.5%, other 3.4%; seats by party/coalition - We Can 46, Renewal 44, BDI 15, AfA-Alternative 12, The Left 2, PDSH 1; composition - men 70, women 50, percent of women 41.7%<br>
+_elections_: last held on 15 July 2020 (next to be held on 8 May 2024)<br>
+_election results_: percent of vote by party/coalition - We Can! 35.9%, Renewal 34.6%, BDI 11.5%, AfA-Alternative 9%, The Left 4.1%, PDSH 1.5%, other 3.4%; seats by party/coalition - We Can! 46, Renewal 44, BDI 15, AfA-Alternative 12, The Left 2, PDSH 1; composition - men 70, women 50, percent of women 41.7%<br>
 
 **Judicial branch**<br>
 _highest court(s)_: Supreme Court (consists of 22 judges); Constitutional Court (consists of 9 judges)<br>
@@ -339,7 +339,7 @@ _judge selection and term of office_: Supreme Court judges nominated by the Judi
 _subordinate courts_: Courts of Appeal; Basic Courts<br>
 
 **Political parties and leaders**<br>
-Alliance for Albanians or AfA or ASH [Arben TARAVARI]<br>Alternative (Alternativa) or AAA [Afrim GASHI]<br>Besa Movement or BESA [Bilal KASAMI]<br>Citizen Option for Macedonia or GROM [Stefcho JAKIMOVSKI]<br>Democratic Alliance or DS [Pavle TRAJANOV]<br>Democratic Movement or LD [Izet MEXHITI]<br>Democratic Party of Albanians or PDSH [Menduh THACI]<br>Democratic Party of Serbs or DPSM [Ivan STOILJKOVIC]<br>Democratic Renewal of Macedonia or DOM [Maja MORACHANIN]<br>Democratic Union for Integration or BDI [Ali AHMETI]<br>European Democratic Party or PDE [Arianit HOXHA]<br>Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity or VMRO-DPMNE [Hristijan MICKOSKI]<br>Internal Macedonian Revolutionary Organization - People's Party or VMRO-NP [Ljubco GEORGIEVSKI]<br>Liberal Democratic Party or LDP [Monika ZAJKOVA]<br>New Social-Democratic Party or NSDP [Goran MISOVSKI]<br>Social Democratic Union of Macedonia or SDSM [Dimitar KOVACHEVSKI]<br>Socialist Party of Macedonia or SPM [Ljupcho DIMOVSKI]<br>Srpska Stranka in Macedonia or SSM [Miroslav JOVANOVIC]<br>The Left (Levica) [Dimitar APASIEV]<br>The People Movement or LP [Skender REXHEPI]<br>Turkish Democratic Party or TDP [Beycan ILYAS]<br>Turkish Movement Party or THP [Enes IBRAHIM]<br>
+Alliance for Albanians or AfA or ASH [Arben TARAVARI]<br>Alternative (Alternativa) or AAA [Afrim GASHI]<br>Besa Movement or BESA [Bilal KASAMI]<br>Citizen Option for Macedonia or GROM [Stefcho JAKIMOVSKI]<br>Democratic Alliance or DS [Pavle TRAJANOV]<br>Democratic Movement or LD [Izet MEXHITI]<br>Democratic Party of Albanians or PDSH [Menduh THACI]<br>Democratic Party of Serbs or DPSM [Ivan STOILJKOVIC]<br>Democratic Renewal of Macedonia or DOM [Maja MORACHANIN]<br>Democratic Union for Integration or BDI [Ali AHMETI]<br>European Democratic Party or PDE [Arianit HOXHA]<br>Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity or VMRO-DPMNE [Hristijan MICKOSKI]<br>Internal Macedonian Revolutionary Organization - People's Party or VMRO-NP [Ljubco GEORGIEVSKI]<br>Liberal Democratic Party or LDP [Monika ZAJKOVA]<br>New Social-Democratic Party or NSDP [Goran MISOVSKI]<br>Social Democratic Union of Macedonia or SDSM [Dimitar KOVACHEVSKI]<br>Socialist Party of Macedonia or SPM [Ljupcho DIMOVSKI]<br>Srpska Stranka in Macedonia or SSM [Miroslav JOVANOVIC]<br>The Left (Levica) [Dimitar APASIEV]<br>The People Movement or LP [Skender REXHEPI]<br>Turkish Democratic Party or TDP [Beycan ILYAS]<br>Turkish Movement Party or THP [Enes IBRAHIM]<br>We Can! (coalition includes SDSM/BESA/VMRO-NP, DPT, LDP)<br>
 
 **International organization participation**<br>
 BIS, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIF, OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -459,6 +459,11 @@ _on alcohol and tobacco_: 7.3% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.7%<br>
 _highest 10%_: 25% (2015 est.)<br>
+
+**Remittances**<br>
+3.54% of GDP (2021 est.)<br>
+3.34% of GDP (2020 est.)<br>
+2.52% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $3.505 billion (2020 est.)<br>
@@ -618,15 +623,10 @@ _subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
 Z3<br>
 
 **Airports**<br>
-10 (2021)<br>
+13 (2024)<br>
 
-**Airports - with paved runways**<br>
-8<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-2<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+8 (2024)<br>
 
 **Pipelines**<br>
 262 km gas, 120 km oil (2017)<br>

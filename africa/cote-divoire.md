@@ -484,6 +484,11 @@ _on alcohol and tobacco_: 3.1% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.2%<br>
 _highest 10%_: 31.8% (2008)<br>
 
+**Remittances**<br>
+0.54% of GDP (2020 est.)<br>
+0.56% of GDP (2019 est.)<br>
+0.57% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $8.804 billion (2019 est.)<br>
 _expenditures_: $10.145 billion (2019 est.)<br>
@@ -650,18 +655,10 @@ _annual freight traffic on registered air carriers_: 5.8 million (2018) mt-km<br
 TU<br>
 
 **Airports**<br>
-27 (2021)<br>
-
-**Airports - with paved runways**<br>
-7<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-20<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+29 (2024)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+1 (2024)<br>
 
 **Pipelines**<br>
 101 km condensate, 256 km gas, 118 km oil, 5 km oil/gas/water, 7 km water (2013)<br>

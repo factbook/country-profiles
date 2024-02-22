@@ -482,6 +482,11 @@ _on alcohol and tobacco_: 5.7% of household expenditures (2018 est.)<br>
 _lowest 10%_: 3%<br>
 _highest 10%_: 23.9% (2015 est.)<br>
 
+**Remittances**<br>
+1.05% of GDP (2021 est.)<br>
+1.12% of GDP (2020 est.)<br>
+1.18% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $244.485 billion (2019 est.)<br>
 _expenditures_: $248.868 billion (2019 est.)<br>
@@ -646,22 +651,10 @@ _annual freight traffic on registered air carriers_: 271.49 million (2018) mt-km
 SP<br>
 
 **Airports**<br>
-126 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 87<br>
-_civil airports_: 13<br>
-_military airports_: 13<br>
-_joint use (civil-military) airports_: 0<br>
-_other airports_: 61<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-39<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+288 (2024)<br>
 
 **Heliports**<br>
-6 (2021)<br>
+11 (2024)<br>
 
 **Pipelines**<br>
 14,198 km gas, 1,374 km oil, 2,483 km refined products (2018)<br>
@@ -676,8 +669,8 @@ _total_: 427,580 km (2022)<br>
 3,997 km (2009) (navigable rivers and canals)<br>
 
 **Merchant marine**<br>
-_total_: 149 (2022)<br>
-_by type_: general cargo 7, oil tanker 6, other 136<br>
+_total_: 152 (2023)<br>
+_by type_: general cargo 6, oil tanker 6, other 140<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Gdansk, Gdynia, Swinoujscie<br>

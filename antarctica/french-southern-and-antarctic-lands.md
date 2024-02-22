@@ -162,15 +162,10 @@ has one or more meteorological stations on each possession<br>
 ## Transportation
 
 **Airports**<br>
-4 (2021)<br>
-
-**Airports - with unpaved runways**<br>
-4<br>
-<strong>note 1: </strong>1 - Europa Island, 1 - Glorioso Islands, 1 - Juan de Nova Island, 1 - Tromelin Island<strong><br>note 2:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<strong><br></strong><br>
+4 (2024)<br>
 
 **Heliports**<br>
-3 (2022)<br>
-<strong>Note: </strong>1 - Ile Amsterdam, 1 - Ile Kerguelen, 1 - Ile de la Possession<br>
+3 (2024)<br>
 
 **Merchant marine**<br>
 _total_: 2 (2023)<br>

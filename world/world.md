@@ -353,6 +353,11 @@ _female_: 19.7%<br>
 _lowest 10%_: 2.6%<br>
 _highest 10%_: 30.2% (2008 est.)<br>
 
+**Remittances**<br>
+0.74% of GDP (2021 est.)<br>
+0.79% of GDP (2020 est.)<br>
+0.77% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $21.68 trillion (2017 est.)<br>
 _expenditures_: $23.81 trillion (2017 est.)<br>
@@ -459,11 +464,10 @@ _subscriptions per 100 inhabitants_: 18 (2022 est.)<br>
 ## Transportation
 
 **Airports**<br>
-41,820 (2021)<br>
-<strong>top ten by passengers </strong>(2021)<strong>:</strong> Atlanta (ATL) - 75,704,760; Dallas/Fort Worth, TX (DFW) 62,465,756; Denver, CO (DEN) 58,828,552; Chicago, IL (ORD) 54,020,399; Los Angeles, CA (LAX) 48,007,284; Charlotte, NC (CLT) 43,302,230; Orlando, FL (MCO) 40,351,068; Guangzhou (CAN) 40,259,401; Chengdu (CTU) 40,117,496;  Las Vegas, NV (LAS) 39,754,366 (2021)<br><br><strong>top ten by passengers </strong>(2020)<strong>:</strong> Guangzhou (CAN) 43,767,558; Atlanta (ATL) - 42,918,685; Chengdu (CTU) 40,741,509; Dallas/Fort Worth, TX (DFW) 39,364,990; Shenzhen (SZX) 37,916,054; Beijing (PEK) - 34,513,827; Denver, CO (DEN) 33,741,129; Kunming (KMG) 32,990,805; Shanghai (PVG) 31,165,641; Xi'an (XIY)  31,073,924 (2020) note - 2020 numbers included to allow for a comparison with the effects of COVID-19 restrictions on international air travel in 2020 <br><br><strong>top ten by cargo (metric tons):</strong> Hong Kong (HKG) - 5,025,495; Memphis, TN (MEM) - 4,480,465; Shanghai (PVG) - 3,982,616; Anchorage, AK (ANC) - 3,555,160; Incheon (ICN) - 3,329,292; Louisville, KY (SDF) - 3,052,269; Taipei (TPE) - 2,812,065; Los Angeles, CA (LAX) 2,691,830; Tokyo (NRT) 2,644,074; Doha, Qatar (DOH) 2,620,095 (2021)<br>
+45,527 (2024)<br>
 
 **Heliports**<br>
-6,524 (2021)<br>
+20,316 (2024)<br>
 
 **Railways**<br>
 _total_: 1,148,186 km (2013)<br>
@@ -473,8 +477,8 @@ _total_: 1,148,186 km (2013)<br>
 <strong>top ten longest rivers:</strong> Nile (Africa) 6,693 km; Amazon (South America) 6,436 km; Mississippi-Missouri (North America) 6,238 km; Yenisey-Angara (Asia) 5,981 km; Ob-Irtysh (Asia) 5,569 km; Yangtze (Asia) 5,525 km; Yellow (Asia) 4,671 km; Amur (Asia) 4,352 km; Lena (Asia) 4,345 km; Congo (Africa) 4,344 km<br><br><strong>note 1:</strong> rivers are not necessarily navigable along the entire length; if measured by volume, the Amazon is the largest river in the World, responsible for about 20% of the Earth's freshwater entering the ocean<br><br><strong>note 2:</strong> there are 20 countries without rivers: 3 in Africa (Comoros, Djibouti, Libya); 1 in the Americas (Bahamas); 8 in Asia (Bahrain, Kuwait, Maldives, Oman, Qatar, Saudi Arabia, United Arab Emirates, Yemen); 3 in Europe (Malta, Monaco, Holy See), 5 in Oceania (Kiribati, Marshall Islands, Nauru, Tonga, Tuvalu); these countries also do not have natural lakes<br><br><strong>top ten largest natural lakes (by surface area): </strong>Caspian Sea (Azerbaijan, Iran, Kazakhstan, Russia, Turkmenistan) 372,960 sq km; Lake Superior (Canada, United States) 82,414 sq km; Lake Victoria (Kenya, Tanzania, Uganda) 69,490 sq km; Lake Huron (Canada, United States) 59,596 sq km; Lake Michigan (United States) 57,441 sq km; Lake Tanganyika (Burundi, Democratic Republic of the Congo, Tanzania, Zambia) 32,890 sq km; Great Bear Lake (Canada) 31,800 sq km; Lake Baikal (Russia) 31,494 sq km; Lake Nyasa (Malawi, Mozambique, Tanzania) 30,044 sq km; Great Slave Lake (Canada) 28,400 sq km<br><br><strong>note 1:</strong> the areas of the lakes are subject to seasonal variation; only the Caspian Sea is saline, the rest are fresh water<br><br><strong>note 2:</strong> Lakes Huron and Michigan are technically a single lake because the flow of water between the Straits of Mackinac that connects the two lakes keeps their water levels at near-equilibrium; combined, Lake Huron-Michigan is the largest freshwater lake by surface area in the World<br><br><strong>note 3: </strong>the deepest lake in the world (1,620 m), and also the largest freshwater lake by volume (23,600 cu km), is Lake Baikal in Russia<br>
 
 **Merchant marine**<br>
-_total_: 101,158 (2022)<br>
-_by type_: bulk carrier 12,707, container ship 5,583, general cargo 19,647, oil tanker 11,396, other 51,825<br>
+_total_: 103,577 (2023)<br>
+_by type_: bulk carrier 13,141, container ship 5,815, general cargo 19,918, oil tanker 11,604, other 53,099<br>
 
 **Ports and terminals**<br>
 <strong>top twenty container ports as measured by Twenty-Foot Equivalent Units (TEUs) throughput:</strong> Shanghai (China) - 47,030,300; Singapore (Singapore) - 37,470,000; Ningbo (China) - 31,070,000; Shenzhen (China) - 28,767,600; Guangzhou (China) - 24,180,000; Qingdao (China) - 23,710,000; Busan (South Korea) - 22,706,130; Tianjin (China) - 20,269,400; Hong Kong (China) - 17,798,000; Rotterdam (Netherlands) - 15,300,000; Dubai (UAE) - 13,742,000; Port Kelang (Malaysia) - 13,724,460; Xiamen (China) - 12,045,700; Antwerp (Belgium) - 12,020,000; Tanjung Pelepas (Malaysia) - 11,200,000; Los Angeles (US) - 10,677,610; Kaohsiung (Taiwan) - 9,864,448; Long Beach (US) - 9,384,368; New York/New Jersey (US) - 8,985,929; Hamburg (Germany) - 8,715,000 (2021)<br>

@@ -464,6 +464,11 @@ _on alcohol and tobacco_: 1.7% of household expenditures (2018 est.)<br>
 _lowest 10%_: 1.1%<br>
 _highest 10%_: 38.9% (2014 est.)<br>
 
+**Remittances**<br>
+0.89% of GDP (2021 est.)<br>
+0.84% of GDP (2020 est.)<br>
+0.87% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $9.743 billion (2020 est.)<br>
 _expenditures_: $15.145 billion (2020 est.)<br>
@@ -632,18 +637,10 @@ _annual freight traffic on registered air carriers_: 47.63 million (2018) mt-km<
 HP<br>
 
 **Airports**<br>
-117 (2021)<br>
-
-**Airports - with paved runways**<br>
-57<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-60<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+76 (2024)<br>
 
 **Heliports**<br>
-3 (2021)<br>
+1 (2024)<br>
 
 **Pipelines**<br>
 128 km oil (2013)<br>
@@ -656,8 +653,8 @@ _standard gauge_: 77 km (2014) 1.435-m gauge<br>
 800 km (2011) (includes the 82-km Panama Canal that is being widened)<br>
 
 **Merchant marine**<br>
-_total_: 8,025 (2022)<br>
-_by type_: bulk carrier 2,690, container ship 662, general cargo 1,418, oil tanker 785, other 2,470<br>
+_total_: 8,174 (2023)<br>
+_by type_: bulk carrier 2732, container ship 671, general cargo 1,428, oil tanker 866, other 2,477<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Balboa, Colon, Cristobal<br>
@@ -666,7 +663,7 @@ _container port(s) (TEUs)_: Balboa (3,561,432), Colon (4,915,975) (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the paramilitary Panamanian Public Forces are under the Ministry of Public Security and include the Panama National Police (La Policía Nacional de Panamá, PNP), National Aeronaval Service (Servicio Nacional Aeronaval, SENAN), and National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2023)<br>
+no regular military forces; the paramilitary Panamanian Public Forces are under the Ministry of Public Security and include the Panama National Police (La Policía Nacional de Panamá, PNP), National Aeronaval Service (Servicio Nacional Aeronaval, SENAN), and National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2024)<br>
 <strong>note:</strong> the PNP includes a special forces directorate with counterterrorism and counternarcotics units; SENAFRONT has three regionally based border security brigades, plus a specialized brigade comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
 
 **Military expenditures**<br>
@@ -683,12 +680,12 @@ approximately 27,000 Ministry of Public Security personnel (2023)<br>
 Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces in recent years (2023)<br>
 
 **Military - note**<br>
-the Panama National Police is principally responsible for internal law enforcement and public order, while the National Border Service handles border security; the Aeronaval Service is responsible for carrying out naval and air operations that include some internal security responsibilities; key areas of focus are countering narcotics trafficking and securing the border, particularly along the southern border with Colombia where the National Border Service (SENAFRONT) maintains a significant presence<br><br>Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2023)<br>
+the Panama National Police is principally responsible for internal law enforcement and public order, while the National Border Service handles border security; the Aeronaval Service is responsible for carrying out air and naval operations that include some internal security responsibilities; key areas of focus are countering narcotics trafficking and securing the border, particularly along the southern border with Colombia where the National Border Service (SENAFRONT) maintains a significant presence<br><br>Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution (2023)<br>
 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Panama-Colombia</em>: organized illegal narcotics operations in Colombia operate within the remote border region with Panama</p> <p><em>Panama-Costa Rica</em>: none identified</p><br>
+<p><em>Panama-Colombia</em>: organized illegal narcotics operations in Colombia operate within the remote border region with Panama</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 147,424 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2023)<br>

@@ -483,6 +483,11 @@ _female_: 25.4%<br>
 _lowest 10%_: 1.5%<br>
 _highest 10%_: 47.4% (2010)<br>
 
+**Remittances**<br>
+1.09% of GDP (2021 est.)<br>
+0.74% of GDP (2020 est.)<br>
+0.42% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $4.758 billion (2019 est.)<br>
 _expenditures_: $7.044 billion (2019 est.)<br>
@@ -650,15 +655,10 @@ _annual freight traffic on registered air carriers_: 75.08 million (2018) mt-km<
 9J<br>
 
 **Airports**<br>
-88 (2021)<br>
+119 (2024)<br>
 
-**Airports - with paved runways**<br>
-8<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-80<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+4 (2024)<br>
 
 **Pipelines**<br>
 771 km oil (2013)<br>
@@ -677,7 +677,7 @@ _unpaved_: 57,520 km (2021)<br>
 2,250 km (2010) (includes Lake Tanganyika and the Zambezi and Luapula Rivers)<br>
 
 **Merchant marine**<br>
-_total_: 2 (2022)<br>
+_total_: 2 (2023)<br>
 _by type_: general cargo 1, oil tanker 1<br>
 
 **Ports and terminals**<br>

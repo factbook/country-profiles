@@ -373,6 +373,11 @@ _female_: 43.2%<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+6.58% of GDP (2020 est.)<br>
+6.58% of GDP (2019 est.)<br>
+6.31% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.995 billion (2015 est.)<br>
 _expenditures_: $1.993 billion (2015 est.)<br>
@@ -525,24 +530,16 @@ _number of registered air carriers_: 3 (2020) (registered in France)<br>
 _inventory of registered aircraft operated by air carriers_: 15 (registered in France)<br>
 
 **Airports**<br>
-25 (2021)<br>
-
-**Airports - with paved runways**<br>
-12<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-13<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+21 (2024)<br>
 
 **Heliports**<br>
-8 (2021)<br>
+2 (2024)<br>
 
 **Roadways**<br>
 _total_: 5,622 km (2006)<br>
 
 **Merchant marine**<br>
-_total_: 23 (2022)<br>
+_total_: 23 (2023)<br>
 _by type_: general cargo 5, oil tanker 1, other 17<br>
 
 **Ports and terminals**<br>

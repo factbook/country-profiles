@@ -456,6 +456,11 @@ _female_: 15.5%<br>
 _lowest 10%_: 1.8%<br>
 _highest 10%_: 47.1% (2014)<br>
 
+**Remittances**<br>
+15.35% of GDP (2021 est.)<br>
+14.74% of GDP (2020 est.)<br>
+13.39% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $3.452 billion (2019 est.)<br>
 _expenditures_: $3.511 billion (2019 est.)<br>
@@ -621,15 +626,7 @@ _inventory of registered aircraft operated by air carriers_: 7<br>
 YN<br>
 
 **Airports**<br>
-147 (2021)<br>
-
-**Airports - with paved runways**<br>
-12<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-135<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+39 (2024)<br>
 
 **Pipelines**<br>
 54 km oil (2013)<br>
@@ -643,7 +640,7 @@ _unpaved_: 20,586 km (2013)<br>
 2,220 km (2011) (navigable waterways as well as the use of the large Lake Managua and Lake Nicaragua; rivers serve only the sparsely populated eastern part of the country)<br>
 
 **Merchant marine**<br>
-_total_: 5 (2022)<br>
+_total_: 5 (2023)<br>
 _by type_: general cargo 1, oil tanker 1, other 3<br>
 
 **Ports and terminals**<br>
@@ -669,7 +666,7 @@ approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (
 the military's inventory includes mostly secondhand Russian/Soviet-era equipment; in recent years, Russia has been the leading arms supplier to Nicaragua (2023)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months (2023)<br>
+18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months (2024)<br>
 
 **Military - note**<br>
 the military is responsible for defending Nicaragua’s independence, sovereignty, and territory, but also has some domestic security responsibilities; key tasks include border security, assisting the police, protecting natural resources, and providing disaster relief and humanitarian assistance; it has ties with the militaries of Cuba, Venezuela, and Russia; Russia has provided training support and equipment <br><br>the military’s Land Forces have a mechanized brigade and approximately eight regional commands or detachments, each with one or more light infantry battalions; there is also a small special operations command; the Naval Forces operate patrol boats and have a naval infantry battalion; the Air Forces do not possess any combat aircraft <br><br>the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA GARCIA, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas (2024)<br>

@@ -481,6 +481,11 @@ _on alcohol and tobacco_: 1.3% of household expenditures (2018 est.)<br>
 _lowest 10%_: 1.9%<br>
 _highest 10%_: 30.8% (2014 est.)<br>
 
+**Remittances**<br>
+0.21% of GDP (2021 est.)<br>
+0.21% of GDP (2020 est.)<br>
+0.18% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $14.991 billion (2020 est.)<br>
 _expenditures_: $17.571 billion (2020 est.)<br>
@@ -644,15 +649,10 @@ _inventory of registered aircraft operated by air carriers_: 5<br>
 CX<br>
 
 **Airports**<br>
-133 (2021)<br>
+64 (2024)<br>
 
-**Airports - with paved runways**<br>
-11<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-122<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+**Heliports**<br>
+3 (2024)<br>
 
 **Pipelines**<br>
 257 km gas, 160 km oil (2013)<br>
@@ -670,8 +670,8 @@ _unpaved_: 69,989 km (2010)<br>
 1,600 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 60 (2022)<br>
-_by type_: container ship 1, general cargo 4, oil tanker 4, other 51<br>
+_total_: 58 (2023)<br>
+_by type_: container ship 1, general cargo 4, oil tanker 3, other 50<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Montevideo<br>
@@ -679,7 +679,7 @@ _major seaport(s)_: Montevideo<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Coast Guard (Prefectura Nacional Naval or PRENA)), Uruguayan Air Force (Fuerza Aerea)<br><br>Ministry of Interior: National Police (2023)<br>
+Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Coast Guard (Prefectura Nacional Naval or PRENA)), Uruguayan Air Force (Fuerza Aerea)<br><br>Ministry of Interior: National Police (2024)<br>
 <strong>note: </strong>the National Police includes the paramilitary National Republican Guard (Guardia Nacional Republicana); the National Police maintains internal security, while the National Directorate for Migration is responsible for migration and border enforcement<br>
 
 **Military expenditures**<br>
@@ -696,7 +696,7 @@ approximately 23,000 active-duty personnel (15,000 Army; 5,000 Navy; 3,000 Air F
 the military's inventory includes a wide variety of older or second-hand equipment; in recent years, it has imported limited amounts of military hardware from a variety of countries with Spain as the leading supplier (2023)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age (18-22 years of age for Navy) for voluntary military service for men and women; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2023)<br>
+18-30 years of age (18-22 years of age for Navy) for voluntary military service for men and women; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2024)<br>
 <strong>note:</strong> as of 2023, women comprised nearly 20% of the active military<br>
 
 **Military deployments**<br>

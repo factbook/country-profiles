@@ -331,7 +331,7 @@ _chief of state_: Acting President Claudia Juana RODR&Iacute;GUEZ DE GUEVARA (si
 _head of government_: Acting President Claudia Juana RODR&Iacute;GUEZ DE GUEVARA (since 1 December 2023)<br>
 _cabinet_: Council of Ministers selected by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a single 5-year term; election last held on 4 February 2024 (next to be held in 2029)<br>
-_election results_: <em>2024:</em> Nayib Armando BUKELE Ortez reelected president - Nayib Armando BUKELE Ortez (Nuevas Ideas) 84.7%, Manuel FLORES (FMLN) 6.4%, Joel SANCHEZ (ARENA) 5.6%, Luis PARADA (NT) 2%, other 1.3%<br><br><em>2019:</em> Nayib Armando BUKELE Ortez elected president - Nayib Armando BUKELE Ortez (GANA) 53.1%, Carlos CALLEJA Hakker (ARENA) 31.7%, Hugo MARTINEZ (FMLN) 14.4%, other 0.8%<br>
+_election results_: <em>2024:</em> Nayib Armando BUKELE Ortez reelected president - Nayib Armando BUKELE Ortez (Nuevas Ideas) 84.7%, Manuel FLORES (FMLN) 6.4%, Joel SANCHEZ (ARENA) 5.6%, Luis PARADA (NT) 2%, other 1.3%; note he will be inaugurated on 1 June 2024<br><br><em>2019:</em> Nayib Armando BUKELE Ortez elected president - Nayib Armando BUKELE Ortez (GANA) 53.1%, Carlos CALLEJA Hakker (ARENA) 31.7%, Hugo MARTINEZ (FMLN) 14.4%, other 0.8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Asamblea Legislativa (84 seats; members directly elected in multi-seat constituencies and a single nationwide constituency by open-list proportional representation vote to serve 3-year terms)<br>
@@ -466,6 +466,11 @@ _on alcohol and tobacco_: 0.5% of household expenditures (2018 est.)<br>
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.2%<br>
 _highest 10%_: 32.3% (2014 est.)<br>
+
+**Remittances**<br>
+26.06% of GDP (2021 est.)<br>
+24.15% of GDP (2020 est.)<br>
+21.04% of GDP (2019 est.)<br>
 
 **Budget**<br>
 _revenues_: $6.448 billion (2019 est.)<br>
@@ -635,18 +640,7 @@ _annual freight traffic on registered air carriers_: 10.73 million (2018) mt-km<
 YS<br>
 
 **Airports**<br>
-68 (2021)<br>
-
-**Airports - with paved runways**<br>
-5<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-63<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
-
-**Heliports**<br>
-2 (2021)<br>
+27 (2024)<br>
 
 **Railways**<br>
 _total_: 12.5 km (2014)<br>
@@ -671,7 +665,7 @@ _oil terminal(s)_: Acajutla offshore terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of El Salvador (Ejercito de El Salvador, ES), Navy of El Salvador (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aerea Salvadorena, FAS) (2023)<br>
+the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of El Salvador (Ejercito de El Salvador, ES), Navy of El Salvador (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aerea Salvadorena, FAS) (2024)<br>
 <strong>note:</strong> the National Civil Police (Policia Nacional Civil, PNC) are under the Ministry of Justice and Public Safety; in 2016, El Salvador created a combined Army commando and PNC unit to combat criminal gang violence<br>
 
 **Military expenditures**<br>
@@ -689,7 +683,7 @@ the FAES has a mix of mostly older imported platforms, largely from the US (2023
 
 **Military service age and obligation**<br>
 18-30 years of age for selective compulsory military service; 16-22 years of age for voluntary military service for men and women; service obligation is 12 months, with 11 months for officers and non-commissioned officers (2023)<br>
-<strong>note:</strong> as of 2016, women made up about 6% of the active duty military<br>
+<strong>note:</strong> as of 2016, women made up about 6% of the active-duty military<br>
 
 **Military deployments**<br>
 110 Mali (MINUSMA) (2023)<br>
@@ -709,7 +703,7 @@ small, nascent space effort; ESAI serves as a link and coordination body for the
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>El Salvador-Honduras:</em> International Court of Justice (ICJ) ruled on the delimitation of "bolsones" (disputed areas) along the El Salvador-Honduras border in 1992 with final settlement by the parties in 2006 after an Organization of American States survey and a further ICJ ruling in 2003; the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca with consideration of Honduran access to the Pacific; El Salvador continues to claim tiny Conejo Island, not mentioned in the ICJ ruling, off Honduras in the Gulf of Fonseca.</p><br>
+<p><em>El Salvador-Honduras:</em> International Court of Justice (ICJ) ruled on the delimitation of "bolsones" (disputed areas) along the El Salvador-Honduras border in 1992 with final settlement by the parties in 2006 after an Organization of American States survey and a further ICJ ruling in 2003; the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca with consideration of Honduran access to the Pacific; El Salvador continues to claim tiny Conejo Island, not mentioned in the ICJ ruling, off Honduras in the Gulf of Fonseca</p><br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 52,000 (2022)<br>

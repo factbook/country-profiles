@@ -497,6 +497,11 @@ _on alcohol and tobacco_: 1.5% of household expenditures (2018 est.)<br>
 _lowest 10%_: 0.8%<br>
 _highest 10%_: 43.4% (2016 est.)<br>
 
+**Remittances**<br>
+0.25% of GDP (2021 est.)<br>
+0.25% of GDP (2020 est.)<br>
+0.17% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $424.196 billion (2020 est.)<br>
 _expenditures_: $617.332 billion (2020 est.)<br>
@@ -672,22 +677,10 @@ _annual freight traffic on registered air carriers_: 1,845,650,000 (2018) mt-km<
 PP<br>
 
 **Airports**<br>
-4,093 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 698<br>
-_civil airports_: 35<br>
-_military airports_: 14<br>
-_joint use (civil-military) airports_: 17<br>
-_other airports_: 632<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-3,395<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+4,919 (2024)<br>
 
 **Heliports**<br>
-13 (2021)<br>
+1,768 (2024)<br>
 
 **Pipelines**<br>
 5,959 km refined petroleum product (1,165 km distribution, 4,794 km transport), 11,696 km natural gas (2,274 km distribution, 9,422 km transport), 1,985 km crude oil (distribution), 77 km ethanol/petrochemical (37 km distribution, 40 km transport) (2016)<br>
@@ -722,7 +715,7 @@ _dry bulk cargo port(s)_: Sepetiba ore terminal, Tubarao<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Brazilian Armed Forces (Forças Armadas Brasileiras): Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy (Marinha do Brasil, MB, includes Naval Aviation (Aviacao Naval Brasileira) and Marine Corps (Corpo de Fuzileiros Navais)), Brazilian Air Force (Forca Aerea Brasileira, FAB) (2023)<br>
+Brazilian Armed Forces (Forças Armadas Brasileiras): Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy (Marinha do Brasil, MB, includes Naval Aviation (Aviacao Naval Brasileira) and Marine Corps (Corpo de Fuzileiros Navais)), Brazilian Air Force (Forca Aerea Brasileira, FAB) (2024)<br>
 <strong>note:</strong> Brazil's Federal Police are under the Minister of Justice and Public Security<br>
 
 **Military expenditures**<br>
@@ -739,7 +732,7 @@ approximately 360,000 active military personnel (220,000 Army; 70,000 Navy; 70,0
 the Brazilian military's inventory consists of a mix of domestically produced and imported weapons, largely from Europe and the US; in recent years, the US and several European countries have been the leading suppliers of military equipment to Brazil; Brazil's defense industry designs and manufactures equipment for all three military services and for export; it also jointly produces equipment with other countries (2023)<br>
 
 **Military service age and obligation**<br>
-18-45 years of age for compulsory military service for men (women exempted); only 5-10% of those inducted are required to serve; conscript service obligation is 10-12 months; 17-45 years of age for voluntary service (2023)<br>
+18-45 years of age for compulsory military service for men (women exempted); only 5-10% of those inducted are required to serve; conscript service obligation is 10-12 months; 17-45 years of age for voluntary service (2024)<br>
 <strong>note:</strong> in 2022, women comprised approximately 9% of the Brazilian military<br>
 
 **Military - note**<br>
@@ -766,7 +759,7 @@ Hizballah (2022)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Brazil-Bolivia: </em>the Roboré Accord of March 29, 1958 placed the long-disputed Isla Suárez/Ilha de Guajará-Mirim, a fluvial island on the Río Mamoré, between the two towns of Guajará-Mirim (Brazil) and Guayaramerin (Bolivia), under Bolivian administration but did not resolve the sovereignty dispute<em><br><br>Brazil-Colombia:</em> contraband smuggling (narcotics and arms), illegal migration, trafficking in animals, plants, lumber, illegal exploitation of mineral resources, and incursions by Colombian insurgent/narco-terrorists groups in the area remain problematic issues<em><br><br>Brazil-Uruguay:</em> the uncontested boundary dispute between Brazil and Uruguay over Arroyo de la Invernada triangle and sovereignty over Isla Brasilera leaves the tripoint with Argentina in question; smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border<br><br><em>Brazil-Venezuela:</em> Colombian-organized illegal narcotics and paramilitary activities penetrate Brazil's border region with Venezuela</p><br>
+<p><em>Brazil-Bolivia: </em>the Roboré Accord of March 29, 1958 placed the long-disputed Isla Suárez/Ilha de Guajará-Mirim, a fluvial island on the Río Mamoré, between the two towns of Guajará-Mirim (Brazil) and Guayaramerin (Bolivia), under Bolivian administration but did not resolve the sovereignty dispute<em><br><br>Brazil-Colombia:</em> contraband smuggling (narcotics and arms), illegal migration, trafficking in animals, plants, lumber, illegal exploitation of mineral resources, and incursions by Colombian insurgent/narco-terrorists groups in the area remain problematic issues<em><br><br>Brazil-Uruguay:</em> the uncontested boundary dispute between Brazil and Uruguay over Arroyo de la Invernada triangle and sovereignty over Isla Brasilera leaves the tripoint with Argentina in question; smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border<br><br><em>Brazil-Venezuela:</em> Colombian-organized illegal narcotics and paramilitary activities penetrate Brazil's border region with Venezuela; more than 500,000 Venezuelan migrants have entered Brazil since March 2018, with more than 16,000 Venezuelans arriving monthly in the latter half of 2023; in 2023, Brazil shifted military resources to northern Roraima state in response to heightened tensions between Venezuela and Guyana over the disputed Essequibo region of Guyana</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 449,678 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2023)<br>

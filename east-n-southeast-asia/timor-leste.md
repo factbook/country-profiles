@@ -450,6 +450,11 @@ _female_: 16.8%<br>
 _lowest 10%_: 4%<br>
 _highest 10%_: 27% (2007)<br>
 
+**Remittances**<br>
+7.2% of GDP (2020 est.)<br>
+4.95% of GDP (2019 est.)<br>
+6.16% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $879 million (2019 est.)<br>
 _expenditures_: $1.396 billion (2019 est.)<br>
@@ -612,18 +617,10 @@ _inventory of registered aircraft operated by air carriers_: 2<br>
 4W<br>
 
 **Airports**<br>
-6 (2021)<br>
-
-**Airports - with paved runways**<br>
-2<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-4<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+10 (2024)<br>
 
 **Heliports**<br>
-8 (2021)<br>
+2 (2024)<br>
 
 **Roadways**<br>
 _total_: 6,040 km (2008)<br>
@@ -631,7 +628,7 @@ _paved_: 2,600 km (2008)<br>
 _unpaved_: 3,440 km (2008)<br>
 
 **Merchant marine**<br>
-_total_: 1 (2022)<br>
+_total_: 1 (2023)<br>
 _by type_: other 1<br>
 
 **Ports and terminals**<br>

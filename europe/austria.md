@@ -65,7 +65,7 @@ _other_: 14.4% (2018 est.)<br>
 _fresh water lake(s)_: Lake Constance (shared with Switzerland and Germany) - 540 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Donau (Danube) (shared with Germany [s], Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Donau (Danube) (shared with Germany [s], Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -274,7 +274,7 @@ _percent of municipal solid waste recycled_: 25.7% (2015 est.)<br>
 _fresh water lake(s)_: Lake Constance (shared with Switzerland and Germany) - 540 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Donau (Danube) (shared with Germany [s], Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+Donau (Danube) (shared with Germany [s], Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -478,6 +478,11 @@ _on alcohol and tobacco_: 3.2% of household expenditures (2018 est.)<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 23.5% (2012 est.)<br>
 
+**Remittances**<br>
+0.66% of GDP (2021 est.)<br>
+0.69% of GDP (2020 est.)<br>
+0.67% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $218.48 billion (2019 est.)<br>
 _expenditures_: $215.485 billion (2019 est.)<br>
@@ -647,22 +652,10 @@ _annual freight traffic on registered air carriers_: 373.51 million (2018) mt-km
 OE<br>
 
 **Airports**<br>
-50 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 24<br>
-_civil airports_: 5<br>
-_military airports_: 1<br>
-_joint use (civil-military) airports_: 0<br>
-_other airports_: 18<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-28<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+61 (2024)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+105 (2024)<br>
 
 **Pipelines**<br>
 1,888 km gas, 594 km oil, 157 km refined products (2017)<br>

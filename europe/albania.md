@@ -469,6 +469,11 @@ _female_: 27.6%<br>
 _lowest 10%_: 4.1%<br>
 _highest 10%_: 19.6% (2015 est.)<br>
 
+**Remittances**<br>
+9.41% of GDP (2021 est.)<br>
+9.69% of GDP (2020 est.)<br>
+9.56% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $4.19 billion (2019 est.)<br>
 _expenditures_: $4.489 billion (2019 est.)<br>
@@ -634,15 +639,10 @@ _annual passenger traffic on registered air carriers_: 303,137 (2018)<br>
 ZA<br>
 
 **Airports**<br>
-3 (2021)<br>
+3 (2024)<br>
 
-**Airports - with paved runways**<br>
-_total_: 3<br>
-_civil airports_: 0<br>
-_military airports_: 1<br>
-_joint use (civil-military) airports_: 1<br>
-_other airports_: 1<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+**Heliports**<br>
+9 (2024)<br>
 
 **Pipelines**<br>
 498 km gas (a majority of the network is in disrepair and parts of it are missing), 249 km oil (2015)<br>

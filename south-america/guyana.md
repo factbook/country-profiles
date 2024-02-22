@@ -453,6 +453,11 @@ _female_: 39.6%<br>
 _lowest 10%_: 1.3%<br>
 _highest 10%_: 33.8% (1999)<br>
 
+**Remittances**<br>
+8.01% of GDP (2020 est.)<br>
+7.35% of GDP (2019 est.)<br>
+6.97% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.333 billion (2019 est.)<br>
 _expenditures_: $1.467 billion (2019 est.)<br>
@@ -612,15 +617,7 @@ _subscriptions per 100 inhabitants_: 12 (2020 est.)<br>
 8R<br>
 
 **Airports**<br>
-117 (2021)<br>
-
-**Airports - with paved runways**<br>
-11<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-106<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+51 (2024)<br>
 
 **Roadways**<br>
 _total_: 3,995 km (2019)<br>
@@ -640,7 +637,8 @@ _major seaport(s)_: Georgetown<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Guyana Defense Force is a unified force with ground, air, and coast guard components, as well as the Guyana National Reserve (2023)<br>
+the Guyana Defense Force is a unified force with ground, air, and coast guard components, as well as the Guyana National Reserve (2024)<br>
+<strong>note:</strong> the Guyana Police Force under the Ministry of Home Affairs is responsible for internal security<br>
 
 **Military expenditures**<br>
 0.6% of GDP (2022 est.)<br>
@@ -650,21 +648,21 @@ the Guyana Defense Force is a unified force with ground, air, and coast guard co
 1.3% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 3,000 active-duty military personnel (2023)<br>
+approximately 3,500 active-duty military personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military has a limited inventory comprised mostly of second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age or older for voluntary military service; no conscription (2023)<br>
+18-25 years of age or older for voluntary military service; no conscription (2024)<br>
 
 **Military - note**<br>
-the Guyana Defense Force (GDF) was established in 1965; its primary missions are defense of the country, including border security, assisting civil authorities with law and order as needed, and contributing to the Guyana’s economic development; key areas of concern include disaster response, illegal fishing, narcotics trafficking, piracy, and porous borders; the GDF participates in both bilateral and multinational exercises and has relationships with Brazil, China, France, the UK, and the US; the GDF’s ground force officers are trained at the British Royal Military Academy at Sandhurst, while coast guard officers receive training at the British Royal Naval College<br><br>the GDF’s ground combat forces include 3 infantry battalions (1 reserve), a special forces squadron, and an artillery company; the coast guard has an offshore patrol craft and a few patrol boats, as well as a small amphibious “raider” force; the air corps does not have any combat aircraft but instead provides tactical observation, transport, casualty evacuation, and other forms of support to the ground forces (2023)<br>
+the Guyana Defense Force (GDF) was established in 1965; its primary missions are defense of the country, including border security, assisting civil authorities with law and order as needed, and contributing to the Guyana’s economic development; key areas of concern include disaster response, illegal fishing, narcotics trafficking, piracy, and porous borders; the GDF participates in both bilateral and multinational exercises and has relationships with Brazil, China, France, the UK, and the US; the GDF’s ground force officers are trained at the British Royal Military Academy at Sandhurst, while coast guard officers receive training at the British Royal Naval College<br><br>the GDF’s ground combat forces include three infantry battalions (one reserve), a special forces squadron, and an artillery company; the coast guard has an offshore patrol craft and a few patrol boats, as well as a small amphibious “raider” force; the air corps does not have any combat aircraft but instead provides tactical observation, transport, casualty evacuation, and other forms of support to the ground forces<br><br>Guyana joined the Caribbean Regional Security System (RSS) in 2022; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2024)<br>
 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<em>Guyana-Venezuela:</em> Venezuela claims all of the area west of the Essequibo River and maintains that Guyana does not have jurisdiction to grant concessions in maritime areas off the Essequibo, waters which are potentially rich in hydrocarbon resources; Guyana submitted the dispute to the International Court of Justice in 2018; the ICJ ruled that it had jurisdiction to hear the case in December 2020; in September 2021, Venezuelan officials issued a statement reasserting dominion over three-quarters of Guyana, which Guyana stated was a threat to its sovereignty and territorial integrity; in December 2023, the Venezuelan Government conducted a public referendum asking its citizens to support establishing a state in the disputed territory, granting citizenship to current and future area residents, and rejecting the jurisdiction of the ICJ<br><br><em>Guyana-Suriname:</em> Suriname claims a triangle of land between the New and Kutari/Koetari Rivers in a historic dispute over the headwaters of the Courantyne River<br>
+<em>Guyana-Venezuela:</em> Venezuela claims all of the area west of the Essequibo River in Guyana, preventing any discussion of a maritime boundary; in 2018, Guyana initiated proceedings against Venezuela with the International Court of Justice (ICJ); Venezuela requested a direct dialogue to settle the dispute; the ICJ ruled that it had jurisdiction to hear the case in December 2020; in December 2023, the Venezuelan Government held a referendum on the disputed Essequibo region and announced measures to exert administrative control over the area <br><br><em>Guyana-Suriname:</em> Suriname claims a triangle of land between the New and Kutari/Koetari Rivers in a historic dispute over the headwaters of the Courantyne River<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,600 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2022)<br>

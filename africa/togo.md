@@ -473,6 +473,11 @@ _female_: 7.7%<br>
 _lowest 10%_: 3.3%<br>
 _highest 10%_: 27.1% (2006)<br>
 
+**Remittances**<br>
+8.59% of GDP (2020 est.)<br>
+7.04% of GDP (2019 est.)<br>
+6.34% of GDP (2018 est.)<br>
+
 **Budget**<br>
 _revenues_: $1.275 billion (2019 est.)<br>
 _expenditures_: $1.158 billion (2019 est.)<br>
@@ -638,15 +643,7 @@ _annual freight traffic on registered air carriers_: 10.89 million (2018) mt-km<
 5V<br>
 
 **Airports**<br>
-8 (2021)<br>
-
-**Airports - with paved runways**<br>
-2<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-6<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+7 (2024)<br>
 
 **Pipelines**<br>
 62 km gas<br>
@@ -665,8 +662,8 @@ _urban_: 1,783 km (2018)<br>
 50 km (2011) (seasonally navigable by small craft on the Mono River depending on rainfall)<br>
 
 **Merchant marine**<br>
-_total_: 403 (2022)<br>
-_by type_: bulk carrier 1, container ship 10, general cargo 254, oil tanker 57, other 81<br>
+_total_: 397 (2023)<br>
+_by type_: bulk carrier 1, container ship 10, general cargo 250, oil tanker 56, other 80<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kpeme, Lome<br>

@@ -475,6 +475,11 @@ _on alcohol and tobacco_: 3.6% of household expenditures (2018 est.)<br>
 _lowest 10%_: 7.5%<br>
 _highest 10%_: 19% (2007)<br>
 
+**Remittances**<br>
+0.38% of GDP (2021 est.)<br>
+0.4% of GDP (2020 est.)<br>
+0.35% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $239.767 billion (2018 est.)<br>
 _expenditures_: $230.383 billion (2018 est.)<br>
@@ -650,18 +655,10 @@ _annual freight traffic on registered air carriers_: 1,841,310,000 (2018) mt-km<
 HB<br>
 
 **Airports**<br>
-63 (2021)<br>
-
-**Airports - with paved runways**<br>
-40<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-23<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+62 (2024)<br>
 
 **Heliports**<br>
-2 (2021)<br>
+51 (2024)<br>
 
 **Pipelines**<br>
 1,800 km gas, 94 km oil (of which 60 are inactive), 17 km refined products (2017)<br>
@@ -676,8 +673,8 @@ _total_: 83,131 km (2022)<br>
 1,292 km (2010) (there are 1,227 km of waterways on lakes and rivers for public transport and 65 km on the Rhine River between Basel-Rheinfelden and Schaffhausen-Bodensee for commercial goods transport)<br>
 
 **Merchant marine**<br>
-_total_: 20 (2022)<br>
-_by type_: bulk carrier 16, general cargo 1, other 3 (includes Liechtenstein)<br>
+_total_: 17 (2023)<br>
+_by type_: bulk carrier 14, general cargo 1, other 2 (includes Liechtenstein)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Basel (Rhine)<br>
@@ -685,7 +682,7 @@ _river port(s)_: Basel (Rhine)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Swiss Armed Forces (aka Swiss Army or Schweizer Armee); Army (Heer; aka Land Forces), Swiss Air Force (Schweizer Luftwaffe) (2023)<br>
+Swiss Armed Forces (aka Swiss Army or Schweizer Armee); Army (Heer; aka Land Forces), Swiss Air Force (Schweizer Luftwaffe) (2024)<br>
 <strong>note:</strong> the federal police maintain internal security and report to the Federal Department of Justice and Police, while the Armed Forces report to the Federal Department of Defense, Civil Protection, and Sport<br>
 
 **Military expenditures**<br>
@@ -702,14 +699,14 @@ approximately 100,000, including cadre/professionals, conscripts, and militia; t
 the military's inventory includes a mix of domestically produced and imported weapons systems; in recent years, the US has been the leading supplier of military armaments to Switzerland; the Swiss defense industry produces a range of military land vehicles (2023)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for compulsory military service for men; 18 years of age for voluntary military service for men and women; every Swiss male has to serve at least 245 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by six 19-day intermittent recalls for training during the next 10 years (2023)<br>
-<strong>note: </strong>conscientious objectors can choose 390 days of community service instead of military service; as of 2022, women comprised about 1% of the active Swiss military<br>
+18-30 years of age for compulsory military service for men; 18 years of age for voluntary military service for men and women; every Swiss male has to serve at least 245 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by six 19-day intermittent recalls for training during the next 10 years (2024)<br>
+<strong>note: </strong>conscientious objectors can choose 390 days of community service instead of military service; as of 2023, women comprised about 1% of the active Swiss military<br>
 
 **Military deployments**<br>
 up to 165 Kosovo (NATO/KFOR) (2023)<br>
 
 **Military - note**<br>
-the Swiss military is responsible for territorial defense, limited support to international disaster response and peacekeeping, and providing support to civil authorities when their resources are not sufficient to ward off threats to internal security or provide sufficient relief during disasters; Switzerland has long maintained a policy of military neutrality but does periodically participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military and peacekeeping operations; however, Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it contributed to the NATO-led Kosovo force (KFOR) in 1999 and, as of 2023, continued doing so with up to 165 personnel<br><br>the military is led by the Chief of the Armed Forces with an Armed Forces Staff and consists of a Joint Operations Command (JOC), an Armed Forces Logistics Organization, an Armed Forces Command Support Organization, and a Training and Education Command; the JOC controls, among other subordinate commands, the Air Force, the Land Forces, four territorial divisions, the Military Police Command, and the Special Forces Command; it is comprised of conscripts, militia, and a small professional component; the primary combat forces of the Army/Land Forces are three mechanized brigades, plus additional reserve brigades of armor, infantry, and mountain infantry forces; the four territorial divisions link the Army with the cantons; the Air Force is responsible for airspace protection (air sovereignty and air defense, including ground-based air defense), air transport, and airborne intelligence; it has about 50 US-origin multirole fighter aircraft (2023)<br>
+the Swiss military is responsible for territorial defense, limited support to international disaster response and peacekeeping, and providing support to civil authorities when their resources are not sufficient to ward off threats to internal security or provide sufficient relief during disasters; Switzerland has long maintained a policy of military neutrality but does periodically participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military and peacekeeping operations; however, Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it contributed to the NATO-led Kosovo force (KFOR) in 1999 and, as of 2024, continued doing so with up to 195 personnel<br><br>the military is comprised of conscripts, militia, and a small professional component; it is led by the Chief of the Armed Forces with an Armed Forces Staff and consists of a Joint Operations Command (JOC), an Armed Forces Logistics Organization, an Armed Forces Command Support Organization, and a Training and Education Command; the JOC controls, among other subordinate commands, the Air Force, the Land Forces, four territorial divisions, the Military Police Command, and the Special Forces Command; the primary combat forces of the Army/Land Forces are three mechanized brigades, plus additional reserve brigades of armor, infantry, and mountain infantry forces; the four territorial divisions link the Army with the cantons; the Air Force is responsible for airspace protection (air sovereignty and air defense, including ground-based air defense), air transport, and airborne intelligence; it has about 50 US-origin multirole fighter aircraft (2024)<br>
 
 ## Space
 

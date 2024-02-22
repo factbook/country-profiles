@@ -483,6 +483,11 @@ _lowest 10%_: 1.4%<br>
 _highest 10%_: 35.4% (2012 est.)<br>
 <strong>note:</strong> data are for urban households only<br>
 
+**Remittances**<br>
+4.11% of GDP (2021 est.)<br>
+3.37% of GDP (2020 est.)<br>
+3% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $35.914 billion (2019 est.)<br>
 _expenditures_: $39.319 billion (2019 est.)<br>
@@ -647,18 +652,10 @@ _annual freight traffic on registered air carriers_: 64.2 million (2018) mt-km<b
 HC<br>
 
 **Airports**<br>
-432 (2021)<br>
-
-**Airports - with paved runways**<br>
-104<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-328<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+310 (2024)<br>
 
 **Heliports**<br>
-2 (2021)<br>
+28 (2024)<br>
 
 **Pipelines**<br>
 485 km extra heavy crude, 123 km gas, 2,131 km oil, 1,526 km refined products (2017)<br>
@@ -688,7 +685,7 @@ _river port(s)_: Guayaquil (Guayas)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ecuadorian Armed Forces: the Ecuadorian Army (Ejército Ecuatoriano), Ecuadorian Navy (Armada del Ecuador, Fuerza Naval del Ecuador, FNE; includes naval infantry, naval aviation, coast guard), Ecuadorian Air Force (Fuerza Aerea Ecuatoriana, FAE) (2023)<br>
+Ecuadorian Armed Forces: the Ecuadorian Army (Ejército Ecuatoriano), Ecuadorian Navy (Armada del Ecuador, Fuerza Naval del Ecuador, FNE; includes naval infantry, naval aviation, coast guard), Ecuadorian Air Force (Fuerza Aerea Ecuatoriana, FAE) (2024)<br>
 <strong>note:</strong> the National Police of Ecuador (Policía Nacional del Ecuador) is under the Ministry of Government/Interior<br>
 
 **Military expenditures**<br>

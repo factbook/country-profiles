@@ -365,6 +365,11 @@ _lowest 10%_: 3.2%<br>
 _highest 10%_: 28.2% (2009 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
+**Remittances**<br>
+18.81% of GDP (2021 est.)<br>
+16.48% of GDP (2020 est.)<br>
+18.4% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $3.803 billion (2020 est.)<br>
 _expenditures_: $5.002 billion (2020 est.)<br>
@@ -516,14 +521,10 @@ _subscriptions per 100 inhabitants_: 7 (2020 est.)<br>
 ## Transportation
 
 **Airports**<br>
-2 (2021)<br>
-
-**Airports - with paved runways**<br>
-2<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+1 (2024)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+2 (2024)<br>
 
 **Roadways**<br>
 _total_: 4,686 km (2010)<br>

@@ -487,18 +487,17 @@ _percent of population_: 64.8% (2022 est.)<br>
 ## Transportation
 
 **Airports**<br>
-2 (2021)<br>
+2 (2024)<br>
 
-**Airports - with paved runways**<br>
-2<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+**Heliports**<br>
+3 (2024)<br>
 
 **Roadways**<br>
 _total_: 1,260 km (2008)<br>
 
 **Merchant marine**<br>
-_total_: 1,868 (2019)<br>
-_by type_: bulk carrier 91, container ship 39, general cargo 1,205, oil tanker 118, other 415<br>
+_total_: 2 (2023)<br>
+_by type_: general cargo 1, other 1<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Charlotte Amalie, Christiansted, Cruz Bay, Frederiksted, Limetree Bay<br>

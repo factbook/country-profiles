@@ -377,6 +377,11 @@ NA<br>
 _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
+**Remittances**<br>
+1.15% of GDP (2021 est.)<br>
+1.34% of GDP (2020 est.)<br>
+1.02% of GDP (2019 est.)<br>
+
 **Budget**<br>
 _revenues_: $793 million (2019 est.)<br>
 _expenditures_: $782 million (2019 est.)<br>
@@ -540,11 +545,7 @@ _annual passenger traffic on registered air carriers_: 274,280 (2018)<br>
 P4<br>
 
 **Airports**<br>
-1 (2021)<br>
-
-**Airports - with paved runways**<br>
-1<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
+1 (2024)<br>
 
 **Roadways**<br>
 _total_: 1,000 km (2010)<br>

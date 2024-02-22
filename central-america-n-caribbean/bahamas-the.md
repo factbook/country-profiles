@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-Lucayan Indians inhabited the islands when Christopher COLUMBUS first set foot in the New World on San Salvador in 1492. British settlement of the islands began in 1647; the islands became a colony in 1783. Piracy thrived in the 17th and 18th centuries because of The Bahamas close proximity to shipping lanes. Since attaining independence from the UK in 1973, The Bahamas has prospered through tourism, international banking, and investment management, which comprise up to 85% of GDP. Because of its proximity to the US - the nearest Bahamian landmass being only 80 km (50 mi) from Florida - the country is a major transshipment point for illicit trafficking, particularly to the US mainland, as well as Europe. US law enforcement agencies cooperate closely with The Bahamas, and the US Coast Guard assists Bahamian authorities in maritime security and law enforcement through Operation Bahamas, Turks and Caicos, or OPBAT.<br>
+Lucayan Indians inhabited the islands when Christopher COLUMBUS first set foot in the New World on San Salvador in 1492. British settlement of the islands began in 1647; the islands became a colony in 1783. Piracy thrived in the 17th and 18th centuries because of The Bahamas close proximity to shipping lanes. Since attaining independence from the UK in 1973, The Bahamas has prospered through tourism, international banking, and investment management, which comprise up to 85% of GDP. Because of its proximity to the US - the nearest Bahamian landmass being only 80 km (50 mi) from Florida - the country is a major transshipment point for illicit trafficking, particularly to the US mainland, as well as Europe. US law enforcement agencies cooperate closely with The Bahamas, the Drug Enforcement Administration, US Coast Guard, and US Customs and Border Protection assist Bahamian authorities in maritime security and law enforcement through Operation Bahamas, Turks and Caicos, or OPBAT.<br>
 
 ## Geography
 
@@ -86,7 +86,7 @@ African descent 90.6%, White 4.7%, mixed 2.1%, other 1.9%, unspecified 0.7% (201
 English (official), Creole (among Haitian immigrants)<br>
 
 **Religions**<br>
-Protestant 69.9% (includes Baptist 34.9%, Anglican 13.7%, Pentecostal 8.9% Seventh Day Adventist 4.4%, Methodist 3.6%, Church of God 1.9%, Brethren 1.6%, other Protestant .9%), Roman Catholic 12%, other Christian 13% (includes Jehovah's Witness 1.1%), other 0.6%, none 1.9%, unspecified 2.6% (2010 est.)<br>
+Protestant 69.9% (includes Baptist 34.9%, Anglican 13.7%, Pentecostal 8.9% Seventh Day Adventist 4.4%, Methodist 3.6%, Church of God 1.9%, Plymouth Brethren 1.6%, other Protestant .9%), Roman Catholic 12%, other Christian 13% (includes Jehovah's Witness 1.1%), other 0.6%, none 1.9%, unspecified 2.6% (2010 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 21.37% (male 38,851/female 37,765)<br>
@@ -291,7 +291,7 @@ _residency requirement for naturalization_: 6-9 years<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor-General Cynthia A. PRATT (since 1 September 2023)<br>
 _head of government_: Prime Minister Philip DAVIS (since 17 September 2021)<br>
 _cabinet_: Cabinet appointed by governor-general on recommendation of prime minister<br>
-_elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; the prime minister recommends the deputy prime minister<br>
+_elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following parliamentary elections, the leader of the majority party or majority coalition is appointed prime minister by the governor-general; the prime minister recommends the deputy prime minister<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (16 seats; members appointed by the governor-general - 9 selected on the advice of the prime minister, 4 on the advice of the leader of the opposition party, and 3 on the advice of the prime minister in consultation with the opposition leader; members serve 5-year terms)<br>House of Assembly (39 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
@@ -306,7 +306,7 @@ _subordinate courts_: Industrial Tribunal; Stipendiary and Magistrates' Courts; 
 <strong>note:</strong> The Bahamas is a member of the 15-member Caribbean Community but is not party to the agreement establishing the Caribbean Court of Justice as its highest appellate court;  the Judicial Committee of the Privy Council (in London) serves as the final court of appeal for The Bahamas<br>
 
 **Political parties and leaders**<br>
-Democratic National Alliance or DNA [Arinthia KOMOLAFE]<br>Free National Movement or FNM [Michael PINTARD]<br>Progressive Liberal Party or PLP [Philip "Brave" DAVIS]<br>
+<p>Coalition of Independents Party or COI [Lincoln BAIN]<br>Democratic National Alliance or DNA [Arinthia KOMOLAFE]<br>Free National Movement or FNM [Michael PINTARD]<br>Progressive Liberal Party or PLP [Philip "Brave" DAVIS]</p><br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
@@ -581,22 +581,10 @@ _annual freight traffic on registered air carriers_: 160,000 (2018) mt-km<br>
 C6<br>
 
 **Airports**<br>
-54 (2021)<br>
-
-**Airports - with paved runways**<br>
-_total_: 24<br>
-_civil airports_: 3<br>
-_military airports_: 0<br>
-_joint use (civil-military) airports_: 0<br>
-_other airports_: 21<br>
-<strong>note:</strong> paved runways have a concrete or asphalt surface but not all have facilities for refueling, maintenance, or air traffic control; the length of a runway required for aircraft to safely operate depends on a number of factors including the type of aircraft, the takeoff weight (including passengers, cargo, and fuel), engine types, flap settings, landing speed, elevation of the airport, and average maximum daily air temperature; paved runways can reach a length of 5,000 m (16,000 ft.), but the “typical” length of a commercial airline runway is between 2,500-4,000 m (8,000-13,000 ft.)<br>
-
-**Airports - with unpaved runways**<br>
-37<br>
-<strong>note:</strong> unpaved runways have a surface composition such as grass or packed earth and are most suited to the operation of light aircraft; unpaved runways are usually short, often less than 1,000 m (3,280 ft.) in length; airports with unpaved runways often lack facilities for refueling, maintenance, or air traffic control<br>
+55 (2024)<br>
 
 **Heliports**<br>
-1 (2021)<br>
+9 (2024)<br>
 
 **Roadways**<br>
 _total_: 2,700 km<br>
@@ -615,7 +603,7 @@ _container port(s) (TEUs)_: Freeport (1,642,780) (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements; Royal Bahamas Police Force (RBPF) (2023)<br>
+Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements; Royal Bahamas Police Force (RBPF) (2024)<br>
 <strong>note:</strong> the RBPF maintains internal security; both the RBDF and the RBPF, as well as the Department of Corrections, report to the Minister of National Security<br>
 
 **Military expenditures**<br>
@@ -626,13 +614,13 @@ Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements; Royal
 0.7% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1,500 active RBDF personnel (2023)<br>
+approximately 1,700 active RBDF personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-most of the RBDF's major equipment inventory is supplied by the Netherlands (2023)<br>
+most of the RBDF's major equipment inventory has been acquired from the Netherlands (2023)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary service for men and women (18-60 for Reserves); no conscription (2023)<br>
+18-30 years of age for voluntary service for men and women (18-60 for Reserves); no conscription (2024)<br>
 
 **Military - note**<br>
 established in 1980; the RBDF's primary responsibilities are disaster relief, maritime security, and counter-narcotics operations; it also provides security at a detention center for migrants and performs some domestic security functions, such as guarding embassies; the RBDF is a naval force, but includes a lightly-armed marine infantry/commando squadron for base and internal security, as well as a few light non-combat aircraft; the maritime element has coastal patrol craft and patrol boats; the RBDF maintains training relationships with the UK and the US (2023)<br>
