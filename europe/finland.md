@@ -687,7 +687,7 @@ Finland operates icebreakers in the Baltic Sea including seven PC 3 or 4 class m
 ## Military and Security
 
 **Military and security forces**<br>
-Finnish Defense Forces (FDF; Puolustusvoimat): Army (Maavoimat), Navy (Merivoimat), Air Force (Ilmavoimat) (2023)<br>
+Finnish Defense Forces (FDF; Puolustusvoimat): Army (Maavoimat), Navy (Merivoimat), Air Force (Ilmavoimat) (2024)<br>
 <strong>note:</strong> the Border Guard (Rajavartiolaitos) and National Police are under the Ministry of the Interior; the Border Guard becomes part of the FDF in wartime<br>
 
 **Military expenditures**<br>
@@ -720,6 +720,6 @@ the Finnish Defense Forces (FDF) are focused primarily on territorial defense, w
 various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands<br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 64,750 (Ukraine) (as of 31 December 2023)<br>
+_refugees (country of origin)_: 9,175 (Iraq) (mid-year 2022); 65,535 (Ukraine) (as of 31 January 2024)<br>
 _stateless persons_: 3,546 (2022)<br>
 

@@ -681,10 +681,10 @@ no regular military forces; Ministry of Public Security: National Police (Fuerza
 15-17,000 Ministry of Public Security personnel (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the National Police are lightly armed although small special units are trained and equipped for tactical operations; the US has provided equipment and support to forces such the National Coast Guard, including secondhand US vessels, as well as maintenance (2024)<br>
+the National Police are lightly armed although small special units are trained and equipped for tactical operations; the US has provided equipment and support to forces such the National Coast Guard, including secondhand US vessels and aircraft (2024)<br>
 
 **Military - note**<br>
-Costa Rica relies on specialized paramilitary units within the Ministry of Public Security (MPS) for internal security missions and countering transnational threats such as narcotics smuggling and organized crime, as well as for participating in regional security operations and exercises; MPS forces have received advisory and training support from both Colombia and the US; since 2012, the US has also provided some military equipment, including aircraft and patrol boats (2023)<br>
+Costa Rica relies on specialized paramilitary units within the Ministry of Public Security (MPS) for internal security missions and countering transnational threats such as narcotics smuggling and organized crime, as well as for participating in regional security operations and exercises; MPS forces have received advisory and training support from both Colombia and the US; since 2012, the US has also provided some military equipment, including aircraft and patrol boats (2024)<br>
 
 ## Space
 

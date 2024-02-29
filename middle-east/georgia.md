@@ -664,7 +664,7 @@ _major seaport(s)_: Black Sea - Batumi, Poti<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Defense Forces of Georgia (DFG; aka Georgian Defense Forces or GDF): Ground Forces, Air Force, National Guard, Special Operations Forces, National Guard; Ministry of Internal Affairs: Border Police, Coast Guard (includes Georgian naval forces, which were merged with the Coast Guard in 2009) (2023)<br>
+Georgian Defense Forces (GDF; aka Defense Forces of Georgia or DFG): Ground Forces, Air Force, National Guard, Special Operations Forces, National Guard; Ministry of Internal Affairs: Border Police, Coast Guard (includes Georgian naval forces, which were merged with the Coast Guard in 2009) (2024)<br>
 <strong>note:</strong> the Ministry of Internal Affairs also has forces for protecting strategic infrastructure and conducting special operations<br>
 
 **Military expenditures**<br>
@@ -691,7 +691,7 @@ the Defense Forces of Georgia (DFG) are responsible for protecting the independe
 ## Transnational Issues
 
 **Disputes - international**<br>
-Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia; Russia maintains military bases and troops in Abkhazia and South Ossetia<br>
+Russia's military invasion and subsequent recognition of the so-called independence of Georgia's Abkhazia and South Ossetia regions in 2008 continue to sour relations with Georgia; Russia maintains military bases and troops in Abkhazia and South Ossetia, occupying about 20 percent of Georgia's territory<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 26,660 (Ukraine) (as of 30 December 2023)<br>

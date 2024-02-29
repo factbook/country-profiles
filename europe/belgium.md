@@ -678,7 +678,7 @@ Brussels (Senne River) Liege (Meuse River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Belgian Armed Forces (Defensie or  La Défense): Land Component, Marine (Naval) Component, Air Component, Medical Component (2023)<br>
+Belgian Armed Forces (Defensie or  La Défense): Land Component, Marine (Naval) Component, Air Component, Medical Component (2024)<br>
 <strong>note: </strong>the Belgian Federal Police is the national police force and responsible for internal security and nationwide law and order, including migration and border enforcement; the force reports to the ministers of interior and justice<br>
 
 **Military expenditures**<br>
@@ -692,10 +692,10 @@ Belgian Armed Forces (Defensie or  La Défense): Land Component, Marine (Naval)
 approximately 25,000 active-duty personnel (10,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Component; 7,000 other, including joint staff, support, and training schools) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the armed forces have a mix of weapons systems from European countries, Israel, and the US; Belgium has an export-focused defense industry that focuses on components and subcontracting (2023)<br>
+the armed forces have a mix of weapons systems from European countries, Israel, and the US; Belgium has an export-focused defense industry that focuses on components and subcontracting (2024)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service for men and women; conscription abolished in 1995 (2023)<br>
+18 years of age for voluntary military service for men and women; conscription abolished in 1995 (2024)<br>
 <strong>note 1:</strong> in 2023, women comprised nearly 11% of the military's full-time personnel<br><br><strong>note 2:</strong> foreign nationals 18-34 years of age who speak Dutch or French and are citizens of EU countries, Iceland, Lichtenstein, Norway, and Switzerland may apply to join the military<br>
 
 **Military deployments**<br>
@@ -726,7 +726,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 75,055 (Ukraine) (as of 31 December 2023)<br>
+_refugees (country of origin)_: 20,086 (Syria), 7,049 (Afghanistan), 5,769 (Iraq) (mid-year 2022); 75,055 (Ukraine) (as of 31 January 2024)<br>
 _stateless persons_: 1,190 (2022)<br>
 
 **Illicit drugs**<br>

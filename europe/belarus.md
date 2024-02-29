@@ -341,8 +341,8 @@ _election results_: <em><br>2020:</em> Alyaksandr LUKASHENKA reelected president
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Natsyyalny Skhod consists of:<br>Council of the Republic or Savet Respubliki (64 seats statutory, currently 58; 56 members indirectly elected by regional and Minsk city councils and 8 members appointed by the president; members serve 4-year terms)<br>House of Representatives or Palata Pradstawnikow (110 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms)<br>
-_elections_: Council of the Republic - indirect election last held on 7 November 2019<br>House of Representatives - last held on 17 November 2019 (next to be held on 25 February 2024); OSCE observers determined that the election was neither free nor impartial and that vote counting was problematic in a number of polling stations; pro-LUKASHENKA candidates won every seat; international observers determined that the previous elections - on 28 September 2008, 23 September 2012, and 11 September 2016 -  also fell short of democratic standards, with pro-LUKASHENKA candidates winning every, or virtually every seat<br>
-_election results_: <br>Council of the Republic - percent of vote by party - NA; seats by party - independent 58, other 2; composition as of January 2024 - men 42, women 16, percent of women 27.6%<br>House of Representatives - percent of vote by party - NA; seats by party - KPB 11, Republican Party of Labor and Justice 6, BPP 2, LDP 1, BAP 1, independent 89; composition as of August 2023 - men 66, women 44, percent of women 40%; note - total National Assembly percent of women 35.7%<br>
+_elections_: Council of the Republic - indirect election last held on 7 November 2019<br>House of Representatives - last held on 25 February 2024 (next to be held in 2028)<br>
+_election results_: <br>Council of the Republic - percent of vote by party - NA; seats by party - independent 58, other 2; composition as of January 2024 - men 42, women 16, percent of women 27.6%<br>House of Representatives - percent of vote by party - NA; seats by party - Belaya Rus 51, RPTS 8, CPB 7, LDPB 4, independent 40; composition - NA<br>
 <strong>note:</strong> the US does not recognize the legitimacy of the National Assembly<br>
 
 **Judicial branch**<br>
@@ -680,7 +680,7 @@ _river port(s)_: Mazyr (Prypyats')<br>
 
 **Military and security forces**<br>
 Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force, Special Troops (electronic warfare, signals, engineers, biological/chemical/nuclear protection troops, etc)<br><br>Ministry of Interior: State Border Troops, Militia, Internal Troops (2023)<br>
-<strong>note:</strong> in early 2023, President LUKASHENKO ordered the formation of a new volunteer paramilitary territorial defense force to supplement the Army<br>
+<strong>note:</strong> in early 2023, President LUKASHENKA ordered the formation of a new volunteer paramilitary territorial defense force to supplement the Army<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2022 est.)<br>

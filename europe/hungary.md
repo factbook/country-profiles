@@ -697,7 +697,7 @@ approximately 25,000 active-duty troops (20,000 Army; 5,000 Air Force) (2023)<br
 <strong>note:</strong> in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000 but did not give a timeline<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment; in recent years, Germany has been the top supplier of military hardware to Hungary (2023)<br>
+the military's inventory consists largely of Soviet-era weapons, with a smaller but growing mix of more modern European and US equipment; in recent years, Germany has been the top supplier of military hardware to Hungary (2023)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2023)<br>
@@ -730,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 none identified<br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 65,585 (Ukraine) (as of 31 January 2024)<br>
+_refugees (country of origin)_: 65,585 (Ukraine) (as of 18 February 2024)<br>
 _stateless persons_: 130 (2022)<br>
 
 **Illicit drugs**<br>

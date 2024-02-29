@@ -639,11 +639,11 @@ _major seaport(s)_: Grundartangi, Hafnarfjordur, Reykjavik<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the Icelandic National Police, the nine regional police forces, and the Icelandic Coast Guard fall under the purview of the Ministry of Justice (2023)<br>
+no regular military forces; the Icelandic National Police, the nine regional police forces, and the Icelandic Coast Guard fall under the purview of the Ministry of Justice (2024)<br>
 <strong>note:</strong> the Icelandic Coast Guard is responsible for operational defense tasks in Iceland including but not limited to operation of Keflavik Air Base, special security zones, and Iceland's air defense systems<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Icelandic Coast Guard's inventory consists of equipment from mostly European suppliers (2023)<br>
+the Icelandic Coast Guard's inventory consists of equipment from mostly European suppliers (2024)<br>
 
 **Military - note**<br>
 Iceland was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Iceland is the only NATO member that has no standing military force; defense of Iceland remains a NATO commitment and NATO maintains an air policing presence in Icelandic airspace; Iceland participates in international peacekeeping missions with the civilian-manned Icelandic Crisis Response Unit (ICRU)<br><br>Iceland cooperates with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br>in 1951, Iceland and the US concluded an agreement to make arrangements regarding the defense of Iceland and for the use of facilities in Iceland to that end; the agreement, along with NATO membership, is one of the two pillars of Iceland‘s security policy; since 2007 Iceland has concluded cooperation agreements with Canada, Denmark, Norway, and the UK; it also has regular consultations with Germany and France on security and defense (2023)<br>

@@ -681,15 +681,14 @@ _river port(s)_: Szczecin (River Oder)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Polish Armed Forces (Polskie Siły Zbrojne): Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Forces (Wojska Obrony Terytorialnej)<br><br>Ministry of Interior and Administration: Polish National Police (Policja); Border Guard (Straż Graniczna or SG) (2023)<br>
-<strong>note:</strong> as of 2023, Cyberspace Defense Forces (Wojska Obrony Cyberprzestrzeni) were in development<br>
+Polish Armed Forces (Polskie Siły Zbrojne): Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Forces (Wojska Obrony Terytorialnej), Cyberspace Defense Forces (Wojska Obrony Cyberprzestrzeni)<br><br>Ministry of Interior and Administration: Polish National Police (Policja); Border Guard (Straż Graniczna or SG) (2024)<br>
 
 **Military expenditures**<br>
+4.2% of GDP (2024 est.)<br>
 3.9% of GDP (2023 est.)<br>
-2.4% of GDP (2022 est.)<br>
+2.4% of GDP (2022)<br>
 2.2% of GDP (2021)<br>
 2.2% of GDP (2020)<br>
-2% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 120,000 active-duty personnel (65,000 Army; 7,000 Navy; 15,000 Air Force; 3,000 Special Forces; 30,000 joint service/other); approximately 40,000 Territorial Defense Forces (2023)<br>
@@ -697,7 +696,7 @@ approximately 120,000 active-duty personnel (65,000 Army; 7,000 Navy; 15,000 Air
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory consists of a mix of Soviet-era and more modern, NATO-compatible, weapons systems; in recent years, the leading suppliers of armaments have included several European countries, South Korea, and the US; Poland has a large domestic defense sector that produces or provides upgrades to a wide variety of weapons systems, particularly ground systems such as tanks and other armored vehicles; it also cooperates with the European and US defense sectors (2023)<br>
-<strong>note:</strong> in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, frigates, and improved cyber security; in 2022, it signed large military weapons contracts with South Korea and the US<br>
+<strong>note:</strong> in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, frigates, and improved cyber security; in 2022-2023, it signed large military weapons contracts with South Korea, the UK, and the US<br>
 
 **Military service age and obligation**<br>
 18-28 years of age for male and female voluntary military service; conscription phased out in 2009-12; professional soldiers serve on a permanent basis (for an unspecified period of time) or on a contract basis (for a specified period of time); initial contract period is 24 months; women serve in the military on the same terms as men (2023)<br>

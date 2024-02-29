@@ -174,5 +174,5 @@ defense is the responsibility of the UK<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>South Georgia and South Sandwich Islands (UK)-Argentina</em>: Argentina, which claims the islands in its constitution and briefly occupied them by force in 1982, agreed in 1995 to no longer seek settlement by force</p><br>
+<p><em>South Georgia and South Sandwich Islands (UK)-Argentina</em>: Argentina, which claims the islands in its constitution and briefly occupied them by force in 1982</p><br>
 

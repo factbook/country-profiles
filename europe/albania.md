@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Albania declared its independence from the Ottoman Empire in 1912, but was conquered by Italy in 1939 and occupied by Germany in 1943. Communist partisans took over the country in 1944. Albania allied itself first with the USSR (until 1960), and then with China (to 1978). In the early 1990s, Albania ended 46 years of isolated communist rule and established a multiparty democracy. The transition has proven challenging as successive governments have tried to deal with high unemployment, widespread corruption, dilapidated infrastructure, powerful organized crime networks, and combative political opponents.</p> <p>Albania has made progress in its democratic development since it first held multiparty elections in 1991, but deficiencies remain. Most of Albania's post-communist elections were marred by claims of electoral fraud; however, international observers judged elections to be largely free and fair since the restoration of political stability following the collapse of pyramid schemes in 1997. Albania joined NATO in April 2009 and in June 2014 became an EU candidate. In April 2017, Albania received a European Commission recommendation to open EU accession negotiations following the passage of historic EU-mandated justice reforms in 2016. Albania - along with North Macedonia - opened EU accession talks in 2022. Although Albania's economy continues to grow, it has slowed, and the country is still one of the poorest in Europe. A large informal economy and a weak energy and transportation infrastructure remain obstacles.</p><br>
+<p>After declaring independence from the Ottoman Empire in 1912, Albania experienced a period of political upheaval that led to a short-lived monarchy, which ended in 1939 when Italy conquered the country. Germany then occupied Albania in 1943, and communist partisans took over the country in 1944. Albania allied itself first with the USSR (until 1960) and then with China (until 1978). In the early 1990s, Albania ended communist rule and established a multiparty democracy. </p> <p>Government-endorsed pyramid schemes in 1997 led to economic collapse and civil disorder, which only ended when UN peacekeeping troops intervened. In 1999, some 450,000 ethnic Albanians fled from Kosovo to Albania to escape the war with the Serbs. Albania joined NATO in 2009 and became an official candidate for EU membership in 2014. </p><br>
 
 ## Geography
 
@@ -704,7 +704,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 7,495 (Ukraine) (as of 7 November 2023)<br>
 _stateless persons_: 1,948 (2022)<br>
-<strong>note:</strong> 46,944 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
+<strong>note:</strong> 47,247 estimated refugee and migrant arrivals (January 2015-January 2024)<br>
 
 **Illicit drugs**<br>
 <p>a source country for cannabis and an active transshipment point for Albanian narco-trafficking organizations moving illicit drugs into European markets</p><br>

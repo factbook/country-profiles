@@ -333,7 +333,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2021</em>: Ismail Omar GUELLEH reelected president for a fifth term; percent of vote - Ismail Omar GUELLEH (RPP) 97.4%, Zakaria Ismael FARAH (MDEND) 2.7%<br><br><em>2016</em>: Ismail Omar GUELLEH reelected president for a fourth term; percent of vote - Ismail Omar GUELLEH (RPP) 87%, Omar Elmi KHAIREH (CDU) 7.3%, other 5.6%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>
+_description_: unicameral National Assembly or Assembl&eacute;e Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>
 _elections_: last held on 24 February 2023 (next to be held in February 2028)<br>
 _election results_: percent of vote by party - NA; seats by party - UMP 58, UDJ 7; composition - men 48, women 17, percent of women 26.2%<br>
 
@@ -343,7 +343,7 @@ _judge selection and term of office_: Supreme Court magistrates appointed by the
 _subordinate courts_: High Court of Appeal; 5 Courts of First Instance; customary courts; State Court (replaced sharia courts in 2003)<br>
 
 **Political parties and leaders**<br>
-Front for Restoration of Unity and Democracy (Front pour la Restauration de l'Unite Democratique) or FRUD [Ali Mohamed DAOUD]<br>National Democratic Party or PND [Aden Robleh AWALEH]<br>People's Rally for Progress or RPP [Ismail Omar GUELLEH] (governing party)<br>Peoples Social Democratic Party or PPSD [Hasna Moumin BAHDON]<br>Union for Democracy and Justice or UDJ [Ilya Ismail GUEDI Hared]<br>Union for the Presidential Majority coalition or UMP [collective leadership] (electoral coalition includes FRUD, PND, RPP, PPSD, and UPR)<br>Union of Reform Partisans or UPR [Ibrahim Daoud CHEHEM]<br><br><strong>note:</strong> only parties with seats in the National Assembly included<br>
+Front for Restoration of Unity and Democracy (Front pour la Restauration de l'Unite Democratique) or FRUD [Ali Mohamed DAOUD]<br>National Democratic Party or PND [Abdourahman Mohamed ALLALEH]<br>People's Rally for Progress or RPP [Ismail Omar GUELLEH] (governing party)<br>Peoples Social Democratic Party or PPSD [Hasna Moumin BAHDON]<br>Union for Democracy and Justice or UDJ [Ilya Ismail GUEDI Hared]<br>Union for the Presidential Majority coalition or UMP [collective leadership] (electoral coalition includes FRUD, PND, RPP, PPSD, and UPR)<br>Union of Reform Partisans or UPR [Ibrahim Daoud CHEHEM]<br><br><strong>note:</strong> only parties with seats in the National Assembly included<br>
 
 **International organization participation**<br>
 ACP, AfDB, AFESD, AMF, ATMIS, AU, CAEU (candidates), COMESA, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

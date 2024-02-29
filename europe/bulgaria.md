@@ -682,15 +682,15 @@ _major seaport(s)_: Burgas, Varna (Black Sea)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bulgarian Armed Forces (aka Bulgarian Army): Land Forces, Air Force, Navy<br><br>Ministry of Interior: General Directorate National Police (GDNP), General Directorate Border Police (GDBP), General Directorate for Combating Organized Crime (GDCOC), Fire Safety and Civil Protection General Directorate, Special Unit for Combating Terrorism (SOBT) (2023)<br>
+Bulgarian Armed Forces (aka Bulgarian Army): Land Forces, Air Force, Navy<br><br>Ministry of Interior: General Directorate National Police (GDNP), General Directorate Border Police (GDBP), General Directorate for Combating Organized Crime (GDCOC), Fire Safety and Civil Protection General Directorate, Special Unit for Combating Terrorism (SOBT) (2024)<br>
 <strong>note:</strong> the GDMP includes the Gendarmerie, a special police force with military status deployed to secure important facilities, buildings and infrastructure, to respond to riots, and to counter militant threats<br>
 
 **Military expenditures**<br>
-1.8% of GDP (2023 est.)<br>
-1.6% of GDP (2022 est.)<br>
+2.1% of GDP (2024 est.)<br>
+1.9% of GDP (2023 est.)<br>
+1.7% of GDP (2022)<br>
 1.6% of GDP (2021)<br>
 1.6% of GDP (2020)<br>
-3.1% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 30,000 active-duty personnel (19,000 Army; 4,000 Navy; 7,000 Air Force) (2023)<br>
@@ -724,10 +724,10 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 51,860 (Ukraine) (as of 19 December 2023)<br>
+_refugees (country of origin)_: 22,226 (Syria) (mid-year 2022); 67,770 (Ukraine) (as of 14 February 2024)<br>
 _stateless persons_: 1,129 (2022)<br>
 <strong>note:</strong> 100,671 estimated refugee and migrant arrivals (January 2015-August 2023); Bulgaria is predominantly a transit country<br>
 

@@ -657,15 +657,15 @@ _river port(s)_: Cork (Lee), Waterford (Suir)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Reserve Defense Forces (2023)<br>
+Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Reserve Defense Forces (2024)<br>
 <strong>note:</strong> An Garda Siochana (or Garda) is the national police force and maintains internal security under the auspices of the Department of Justice<br>
 
 **Military expenditures**<br>
+0.2% of GDP (2023 est.)<br>
 0.3% of GDP (2022)<br>
 0.3% of GDP (2021)<br>
 0.3% of GDP (2020)<br>
 0.3% of GDP (2019)<br>
-0.3% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 8,000 active-duty personnel (2023)<br>
@@ -674,7 +674,7 @@ approximately 8,000 active-duty personnel (2023)<br>
 the Irish Defense Forces have a small inventory of imported weapons systems from a variety of mostly European countries, particularly the UK (2023)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for male and female voluntary military service recruits to the Defence Forces (18-27 years of age for the Naval Service); 18-26 for cadetship (officer) applicants; 12-year service (5 active, 7 reserves) (2023)<br>
+18-25 years of age for male and female voluntary military service recruits to the Defence Forces (18-27 years of age for the Naval Service); 18-26 for cadetship (officer) applicants; 12-year service (5 active, 7 reserves) (2024)<br>
 <strong>note:</strong> as of 2023, women made up about 7% of the military's full-time personnel<br><br><strong>note 2:</strong> the Defense Forces are open to refugees under the Refugee Act of 1996 and nationals of the European Economic Area, which include EU member states, Iceland, Liechtenstein, and Norway<br>
 
 **Military deployments**<br>
@@ -695,7 +695,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 102,560 (Ukraine) (as of 17 December 2023)<br>
+_refugees (country of origin)_: 104,315 (Ukraine) (as of 28 January 2024)<br>
 _stateless persons_: 7 (2022)<br>
 
 **Illicit drugs**<br>

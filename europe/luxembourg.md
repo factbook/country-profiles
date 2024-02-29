@@ -665,13 +665,13 @@ Luxembourg Army (l'Armée Luxembourgeoise) (2024)<br>
 0.6% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 900 active personnel (2023)<br>
+approximately 900 active-duty personnel (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of Luxembourg's Army is a small mix of Western origin equipment (2023)<br>
+the inventory of Luxembourg's Army is a small mix of Western origin equipment (2024)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service for men and women; no conscription (abolished 1969) (2023)<br>
+18-26 years of age for voluntary military service for men and women; no conscription (abolished 1969) (2024)<br>
 <strong>note 1: </strong>since 2003, the Army has allowed EU citizens 18-24 years of age who have been a resident in the country for at least 36 months to volunteer<strong><br><br>note 2:</strong> 2023, women made up about 12% of the military's full-time personnel<br>
 
 **Military - note**<br>

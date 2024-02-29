@@ -738,6 +738,6 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p><em>Cameroon-Central African Republic</em>: Cameroon has deployed military troops to the border to counter intrusions from armed militias and bandits<br> <br><em>Cameroon-Nigeria:</em> Nigeria recognized Cameroon's sovereignty over the Bakassi Peninsula in 2006 and in completed the transfer of administration in 2013, although there are occasional, mostly local disputes in the area; the the majority of the land boundary was demarcated by 2019 with UN assistance, although there are few disagreements on the precise location of the boundary; the porous border is susceptible to crossings by the Boko Haram and Islamic State of Iraq and ash-Sham - West Africa terrorist groups, both of which operate in Northern Nigeria <br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 354,139 (Central African Republic), 120,839 (Nigeria) (2023)<br>
+_refugees (country of origin)_: 354,423 (Central African Republic), 120,934 (Nigeria) (2024)<br>
 _IDPs_: 1.066 million (2023) (includes far north, northwest, and southwest)<br>
 

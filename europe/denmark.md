@@ -720,6 +720,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; in 2019, Denmark signed continental shelf delimitation agreements with Iceland and Norway to parts of the continental shelf in the Ægir Basin, which is located north of the Faroe Islands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 36,960 (Ukraine) (as of 31 December 2023)<br>
+_refugees (country of origin)_: 19,424 (Syria), 5,885 (Eritrea) (mid-year 2022); 37,160 (Ukraine) (as of 31 December 2023)<br>
 _stateless persons_: 11,644 (2022)<br>
 

@@ -325,7 +325,7 @@ _residency requirement for naturalization_: 10 years; 6 years if from a Portugue
 
 **Executive branch**<br>
 _chief of state_: President Marcelo REBELO DE SOUSA (since 9 March 2016)<br>
-_head of government_: Prime Minister Antonio Luis Santos da COSTA (since 24 November 2015; resigned on 7 November 2023 but remains in caretaker status until new elections on 10 March 2024)<br>
+_head of government_: Prime Minister Antonio Luis Santos da COSTA (since 24 November 2015); note - da COSTA resigned on 7 November 2023 but remains in caretaker status until new elections are held on 10 March 2024<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2021 (next to be held on 10 March 2024); following legislative elections the leader of the majority party or majority coalition is usually appointed prime minister by the president<br>
 _election results_: <br><em>2021:</em> Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (ran as an independent but is a member of PS) 13%, Andre VENTURA (CH) 11.9%, João FERREIRA (PCP-PEV) 4.3%, other 10.1%<br><br><em>2016:</em> Marcelo REBELO DE SOUSA elected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 52%, António SAMPAIO DA NOVOA (independent) 22.9%, Marisa MATIAS (BE) 10.1%, Maria DE BELEM ROSEIRA (PS) 4.2%, other 10.8% <p> </p><br>
@@ -333,7 +333,7 @@ _election results_: <br><em>2021:</em> Marcelo REBELO DE SOUSA reelected preside
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 30 January 2022 (next to be held in January 2026); note - early elections were called after parliament was dissolved on 3 November 2021 because of the 27 October 2021 rejection of the government's budget<br>
+_elections_: last held on 30 January 2022 (next to be held on 10 March 2024); note - early elections were called after Prime Minister Antonio Luis Santos da COSTA resigned on 7 November 2023<br>
 _election results_: percent of vote by party - PS 42.5%, PSD 28.4%, Enough 7.4%, IL 5%, BE 4.5%, PCP-PEV 4.4%, other 7.8%; seats by party - PS 120, PSD 72, Enough 12, IL 8, PCP-PEV 6, BE 5, other 3; composition - men 145, women 85, percent of women 37%<br>
 
 **Judicial branch**<br>
@@ -674,14 +674,14 @@ Portuguese Armed Forces (Forças Armadas): Portuguese Army (Exercito Portuguesa)
 1.4% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 26,000 active-duty personnel (13,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2023)<br>
+approximately 25,000 active-duty personnel (12,000 Army; 7,000 Navy, including about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes mostly European- and US-origin weapons systems along with a smaller mix of domestically produced equipment; in recent years, leading foreign suppliers have included Germany and the US; Portugal's defense industry is primarily focused on shipbuilding (2023)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004) but conscription possible if insufficient volunteers available; women serve in the armed forces but are prohibited from serving in some combatant specialties; contract service lasts for an initial period of 2-6 years, and can be extended to a maximum of 20 years of service; initial voluntary military service lasts 12 months; reserve obligation to age 35 (2023)<br>
-<strong>note: </strong>as of 2020, women made up about 12% of the military's full-time personnel<br>
+<strong>note: </strong>as of 2023, women made up about 14% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 225 Central African Republic (MINUSCA/EUTM); approximately 200 Lithuania (NATO); approximately 230 Romania (NATO) (2023)<br>

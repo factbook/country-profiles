@@ -364,7 +364,7 @@ _subordinate courts_: Courts of Appeal (governorate level); civil courts, includ
 Al Fatah Alliance [Hadi al-AMIRI]<br>Azm Alliance [Khamis al-KHANJAR]<br>Babiliyun Movement [Rayan al-KILDANI]<br>Imtidad [Ala al-RIKABI]<br>Ishraqat Konun [Jaafar AZIZ]<br>Kurdistan Democratic Party F [Masud BARZANI]<br>National Contract Party [Falih al-FAYYAD]<br>New Generation Movement [SHASWAR Abd al-Wahid Qadir]<br>Patriotic Union of Kurdistan [Bafel TALABANI]<br>Sadrist Bloc [Muqtada al-SADR]<br>State Forces Alliance [Haydar al-ABADI]<br>State of Law Coalition [Nuri al-MALIKI]<br>Taqadum [Muhammad al-HALBUSI]<br>Tasmim Alliance [Asad al-IDANI]<br><br>numerous smaller independent, religious, local, tribal, and minority parties<br>
 
 **International organization participation**<br>
-ABEDA, AFESD, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+ABEDA, AFESD, AIIB, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Nazar Issa Abdulhadi AL-KHIRULLAH (since 30 June 2023)<br>

@@ -482,7 +482,7 @@ $3.343 billion (2020 est.) note: data are in current year dollars<br>
 $5.991 billion (2019 est.)<br>
 
 **Exports - partners**<br>
-United States 46%, Netherlands 9%, Canada 6%, United Kingdom 4&amp;, Russia 3% (2021)<br>
+United States 46%, Netherlands 9%, Canada 6%, United Kingdom 4%, Russia 3% (2021)<br>
 
 **Exports - commodities**<br>
 aluminum oxide, refined petroleum, aluminum, rums, fruits, nuts, natural gas, sauces and seasonings (2021)<br>

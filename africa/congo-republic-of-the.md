@@ -715,7 +715,7 @@ the FAC is viewed as having limited capabilities due to obsolescent and poorly m
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,618 (Central African Republic), 29,200 (Democratic Republic of the Congo) (refugees and asylum seekers)(2023)<br>
+_refugees (country of origin)_: 33,892 (Central African Republic), 29,465 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
 _IDPs_: 27,000 (multiple civil wars since 1992) (2022)<br>
 
 **Trafficking in persons**<br>

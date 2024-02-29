@@ -85,7 +85,7 @@ Antalote, Cafre, Makoa, Oimatsaha, Sakalava<br>
 Arabic (official), French (official), Shikomoro (official; similar to Swahili) (Comorian)<br>
 
 **Religions**<br>
-Sunni Muslim 98%, other (including Shia Muslim, Roman Catholic, Jehovah's Witness, Protestant) 2%<br>
+Muslim 98.1% (overwhelmingly Sunni Muslim, small Shia Muslim and Ahmadiyya Muslim populations), ethnic religionist 1.1%, Christian 0.6%, other 0.3% (2020 est.)<br>
 <strong>note:</strong> Sunni Islam is the state religion<br>
 
 **Demographic profile**<br>

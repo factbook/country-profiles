@@ -700,7 +700,7 @@ Germany operates one PC 5 or 6 class icebreaker based in the North Atlantic<br>n
 ## Military and Security
 
 **Military and security forces**<br>
-Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes naval air arm), Air Force (Luftwaffe, includes air defense), Joint Support and Enabling Service (Streitkraeftebasis, SKB), Central Medical Service (Zentraler Sanitaetsdienst, ZSanDstBw), Cyber and Information Space Command (Kommando Cyber und Informationsraum, Kdo CIR) (2023)<br>
+Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes naval air arm), Air Force (Luftwaffe, includes air defense), Joint Support and Enabling Service (Streitkraeftebasis, SKB), Central Medical Service (Zentraler Sanitaetsdienst, ZSanDstBw), Cyber and Information Space Command (Kommando Cyber und Informationsraum, Kdo CIR) (2024)<br>
 <strong>note:</strong> responsibility for internal and border security is shared by the police forces of the 16 states, the Federal Criminal Police Office, and the Federal Police; the states’ police forces report to their respective interior ministries while the Federal Police forces report to the Federal Ministry of the Interior<br>
 
 **Military expenditures**<br>
@@ -714,10 +714,10 @@ Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes 
 approximately 185,000 active-duty armed forces personnel (62,000 Army; 16,000 Navy; 27,000 Air Force; 20,000 Medical Service, 14,000 Cyber and Information Space Command; 45,000 other, including central staff, support, logistics, etc.) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the German Federal Armed Forces inventory is comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; in recent years, the US has been the leading foreign supplier; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and is one of the world's leading arms exporters; it also participates in joint defense production projects with the US and European partners (2023)<br>
+the inventory of Federal Armed Forces is comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; in recent years, the US has been the leading foreign supplier; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and Germany is one of the world's leading arms exporters; it also participates in joint defense production projects with the US and European partners (2024)<br>
 
 **Military service age and obligation**<br>
-17-23 years of age for voluntary military service for men and women (must have completed compulsory full-time education and have German citizenship); conscription ended July 2011; service obligation 7-23 months or 12 years; in July 2020, the government launched a new voluntary conscript initiative focused on homeland security tasks; volunteers serve for 7 months plus 5 months as reservists over a 6 year period (2023)<br>
+17-23 years of age for voluntary military service for men and women (must have completed compulsory full-time education and have German citizenship); conscription ended July 2011; service obligation 7-23 months or 12 years; in July 2020, the government launched a new voluntary conscript initiative focused on homeland security tasks; volunteers serve for 7 months plus 5 months as reservists over a 6 year period (2024)<br>
 <strong>note:</strong> women have been eligible for voluntary service in all military branches and positions since 2001 and accounted for about 12% of the active-duty German military in 2023<br>
 
 **Military deployments**<br>
@@ -751,7 +751,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 none identified<br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,125,850 (Ukraine) (as of 2 December 2023)<br>
+_refugees (country of origin)_: 664,238 (Syria), 183,631 (Afghanistan), 151,254 (Iraq), 64,496 (Eritrea), 47,658 (Iran), 38,755 (Turkey), 32,155 (Somalia), 13,334 (Russia), 12,155 (Nigeria), 9,250 (Pakistan), 6,257 (Serbia and Kosovo), 6,912 (Ethiopia), 5,532 (Azerbaijan) (mid-year 2022); 1,139,690 (Ukraine) (as of 3 February 2024)<br>
 _stateless persons_: 28,941 (2022)<br>
 
 **Illicit drugs**<br>

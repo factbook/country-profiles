@@ -672,7 +672,7 @@ Decin, Usti nad Labem (Elbe)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Czech Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2023)<br>
+Czech Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2024)<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2023 est.)<br>
@@ -693,7 +693,7 @@ the Czech military has a mix of Soviet-era and more modern equipment, mostly of 
 <strong>note: </strong>as of 2023, women comprised nearly 14% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-up to 130 Lithuania (NATO); 130 Slovakia (NATO) (2023)<br>
+up to 130 Lithuania (NATO); 130 Slovakia (NATO) (2024)<br>
 <strong>note:</strong> in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
@@ -702,10 +702,10 @@ the Czech military is responsible for national and territorial defense, assistin
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 375,590 (Ukraine) (as of 31 December 2023)<br>
+_refugees (country of origin)_: 381,400 (Ukraine) (as of 31 January 2024)<br>
 _stateless persons_: 1,625 (2022)<br>
 
 **Illicit drugs**<br>

@@ -83,13 +83,13 @@ _noun_: Liberian(s)<br>
 _adjective_: Liberian<br>
 
 **Ethnic groups**<br>
-Kpelle 20.3%, Bassa 13.4%, Grebo 10%, Gio 8%, Mano 7.9%, Kru 6%, Lorma 5.1%, Kissi 4.8%, Gola 4.4%, Krahn 4%, Vai 4%, Mandingo 3.2%, Gbandi 3%, Mende 1.3%, Sapo 1.3%, other Liberian 1.7%, other African 1.4%, non-African 0.1% (2008 est.)<br>
+Kpelle 20.2%, Bassa 13.6%, Grebo 9.9%, Gio 7.9%, Mano 7.2%, Kru 5.5%, Lorma 4.8%, Krahn 4.5%, Kissi, 4.3%, Mandingo 4.2%, Vai 3.8%, Gola 3.8%, Gbandi 2.9%, Mende 1.7%, Sapo 1%, Belle 0.7%, Dey 0.3%, other Liberian ethnic group 0.4%, other African 3%, non-African 0.2% (2022 est.)<br>
 
 **Languages**<br>
-English 20% (official), some 20 ethnic group languages few of which can be written or used in correspondence<br>
+English 20% (official) and 27 indigenous languages, including Liberian English (encompassing several varieties of English spoken by Liberians)<br>
 
 **Religions**<br>
-Christian 85.6%, Muslim 12.2%, Traditional 0.6%, other 0.2%, none 1.5% (2008 est.)<br>
+Christian 84.9%, Muslim 12%, Traditional 0.5%, other 0.1%, none 2.6% (2022 est.)<br>
 
 **Demographic profile**<br>
 <p>Liberia’s high fertility rate of nearly 5 children per woman and large youth cohort – more than 60% of the population is under the age of 25 as of 2020 – will sustain a high dependency ratio for many years to come. Significant progress has been made in preventing child deaths, despite a lack of health care workers and infrastructure. Infant and child mortality have dropped nearly 70% since 1990; the annual reduction rate of about 5.4% is the highest in Africa.</p> <p>Nevertheless, Liberia’s high maternal mortality rate remains among the world’s worst; it reflects a high unmet need for family planning services, frequency of early childbearing, lack of quality obstetric care, high adolescent fertility, and a low proportion of births attended by a medical professional. Female mortality is also increased by the prevalence of female genital cutting (FGC), which is practiced by 10 of Liberia’s 16 tribes and affects more than two-thirds of women and girls. FGC is an initiation ritual performed in rural bush schools, which teach traditional beliefs on marriage and motherhood and are an obstacle to formal classroom education for Liberian girls.</p> <p>Liberia has been both a source and a destination for refugees. During Liberia’s 14-year civil war (1989-2003), more than 250,000 people became refugees and another half million were internally displaced. Between 2004 and the cessation of refugee status for Liberians in June 2012, the UNHCR helped more than 155,000 Liberians to voluntarily repatriate, while others returned home on their own. Some Liberian refugees spent more than two decades living in other West African countries. Between 2011 and 2022, more than 300,000 Ivoirian refugees in Liberia have been repatriated; as of year-end 2022, less than 2,300 Ivoirian refugees were still living in Liberia.</p><br>
@@ -347,7 +347,7 @@ All Liberian Party or ALP [Benoni UREY]<br>Alliance for Peace and Democracy or A
 ACP, AfDB, AU, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO&nbsp;<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Jeff Gongoer DOWANA (since 12 December 2022)<br>
+_chief of mission_: Ambassador Jeff Gongoer DOWANA, Sr. (since 12 December 2022)<br>
 _chancery_: 5201 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 723-0437<br>
 _FAX_: [1] (202) 723-0436<br>

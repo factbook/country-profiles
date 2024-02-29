@@ -703,7 +703,7 @@ the MDF’s primary responsibility is external security; it is also tasked as ne
 <p><em>Malawi-Mozambique</em>: the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Malawi-Tanzania</em>: dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,159 (Democratic Republic of the Congo) (refugees and asylum seekers) 11,502 (Burundi) (refugees and asylum seekers), 6,594 (Rwanda) (refugees and asylum seekers) (2023)<br>
+_refugees (country of origin)_: 11,502 (Burundi) (refugees and asylum seekers), 6,594 (Rwanda) (refugees and asylum seekers) (2023); 34,287 (Democratic Republic of the Congo) (refugees and asylum seekers)&nbsp;<br>
 
 **Illicit drugs**<br>
 NA<br>

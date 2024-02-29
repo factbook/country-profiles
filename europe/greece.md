@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Greece achieved independence from the Ottoman Empire in 1830. During the second half of the 19th century and the first half of the 20th century, it gradually added neighboring islands and territories, most with Greek-speaking populations. In World War II, Greece was first invaded by Italy (1940) and subsequently occupied by Germany (1941-44); fighting endured in a protracted civil war between supporters of the king and other anti-communist and communist rebels. Following the latter's defeat in 1949, Greece joined NATO in 1952. In 1967, a group of military officers seized power, establishing a military dictatorship that suspended many political liberties and forced the king to flee the country. In 1974 following the collapse of the dictatorship, democratic elections and a referendum created a parliamentary republic and abolished the monarchy. In 1981, Greece joined the EC (now the EU); it became the 12th member of the European Economic and Monetary Union in 2001. From 2009 until 2019, Greece suffered a severe economic crisis, due to nearly a decade of chronic overspending and structural rigidities. Beginning in 2010, Greece entered three bailout agreements - the first two with the European Commission, the European Central Bank, and the IMF; and the third in 2015 with the European Stability Mechanism - worth in total about $300 billion. The Greek Government formally exited the third bailout in August 2018.<br>
+Greece achieved independence from the Ottoman Empire in 1830. During the second half of the 19th century and the first half of the 20th century, it gradually added neighboring islands and territories, most with Greek-speaking populations. In World War II, Greece was first invaded by Italy (1940) and subsequently occupied by Germany (1941-44); fighting endured in a protracted civil war between supporters of the king and other anti-communist and communist rebels. Following the latter's defeat in 1949, Greece joined NATO in 1952. In 1967, a group of military officers seized power, establishing a military dictatorship that suspended many political liberties and forced the king to flee the country. After the collapse of the dictatorship in 1974, democratic elections and a referendum created a parliamentary republic and abolished the monarchy. In 1981, Greece joined the EC (now the EU); it became the 12th member of the European Economic and Monetary Union in 2001. From 2009 until 2019, Greece suffered a severe economic crisis due to nearly a decade of chronic overspending and structural rigidities. Beginning in 2010, Greece entered three bailout agreements - the first two with the European Commission, the European Central Bank, and the IMF; and the third in 2015 with the European Stability Mechanism - worth in total about $300 billion. The Greek Government formally exited the third bailout in August 2018.<br>
 
 ## Geography
 
@@ -663,8 +663,8 @@ _LNG terminal(s) (import)_: Revithoussa<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National Guard), Hellenic Navy (Elliniko Polemiko Navtiko, EPN), Hellenic Air Force (Elliniki Polemiki Aeroporia, EPA; includes air defense) (2023)<br>
-<strong>note 1:</strong> the police (under the Ministry of Citizen Protection) and the armed forces (Ministry of National Defense) share law enforcement duties in certain border areas; border protection is coordinated by a deputy minister for national defense; the Greek Coast Guard is under the Ministry of Shipping Affairs and Island Policy<br><br><strong>note 2:</strong> the National Guard was established in 1982 as an official part of the Army to help protect Greece and provide reinforcements and support to the Army in peacetime and in times of mobilization and war; members undergo weekly training run by the Army, which also provides weapons and ammunition<br>
+Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National Guard), Hellenic Navy (Elliniko Polemiko Navtiko, EPN), Hellenic Air Force (Elliniki Polemiki Aeroporia, EPA; includes air defense) (2024)<br>
+<strong>note 1:</strong> the police (under the Ministry of Citizen Protection) and the armed forces (Ministry of National Defense) share law enforcement duties in certain border areas; the Greek Coast Guard is under the Ministry of Shipping Affairs and Island Policy<br><br><strong>note 2:</strong> the National Guard was established in 1982 as an official part of the Army to help protect Greece and provide reinforcements and support to the Army in peacetime and in times of mobilization and war; members undergo weekly training run by the Army, which also provides weapons and ammunition<br>
 
 **Military expenditures**<br>
 3% of GDP (2023 est.)<br>
@@ -713,7 +713,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 41,594 (Syria), 33,549 (Afghanistan), 14,228 (Iraq), 6,366 (West Bank and Gaza) (mid-year 2022); 27,365 (Ukraine) (as of 31 December 2023)<br>
 _stateless persons_: 4,488 (2022)<br>
-<strong>note:</strong> 1,272,420 estimated refugee and migrant arrivals (January 2015-November 2023)<br>
+<strong>note:</strong> 1,286,469 estimated refugee and migrant arrivals (January 2015-February 2024)<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

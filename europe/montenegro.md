@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-The use of the name Crna Gora or Black Mountain (Montenegro) began in the 13th century in reference to a highland region in the Serbian province of Zeta. The later medieval state of Zeta maintained its existence until 1496 when Montenegro finally fell under Ottoman rule. Over subsequent centuries, Montenegro managed to maintain a level of autonomy within the Ottoman Empire. From the 16th to 19th centuries, Montenegro was a theocracy ruled by a series of bishop princes; in 1852, it transformed into a secular principality. Montenegro was recognized as an independent sovereign principality at the Congress of Berlin in 1878. After World War I, during which Montenegro fought on the side of the Allies, Montenegro was absorbed by the Kingdom of Serbs, Croats, and Slovenes, which became the Kingdom of Yugoslavia in 1929. At the conclusion of World War II, it became a constituent republic of the Socialist Federal Republic of Yugoslavia. When the latter dissolved in 1992, Montenegro joined with Serbia, creating the Federal Republic of Yugoslavia and, after 2003, shifting to a looser State Union of Serbia and Montenegro. In May 2006, Montenegro invoked its right under the Constitutional Charter of Serbia and Montenegro to hold a referendum on independence from the two-state union. The vote for severing ties with Serbia barely exceeded 55% - the threshold set by the EU - allowing Montenegro to formally restore its independence on 3 June 2006. In 2017, Montenegro joined NATO and is currently completing its EU accession process, having officially applied to join the EU in December 2008.<br>
+The use of the name Crna Gora or Black Mountain (Montenegro) began in the 13th century in reference to a highland region in the Serbian province of Zeta. The later medieval state of Zeta maintained its existence until 1496 when Montenegro finally fell under Ottoman rule. Over subsequent centuries, Montenegro managed to maintain a level of autonomy within the Ottoman Empire. From the 16th to 19th centuries, Montenegro was a theocracy ruled by a series of bishop princes; in 1852, it transformed into a secular principality. Montenegro was recognized as an independent sovereign principality at the Congress of Berlin in 1878. After World War I, during which Montenegro fought on the side of the Allies, the country was absorbed by the Kingdom of Serbs, Croats, and Slovenes, which became the Kingdom of Yugoslavia in 1929. At the conclusion of World War II, Montenegro became a constituent republic of the Socialist Federal Republic of Yugoslavia. When the latter dissolved in 1992, Montenegro joined with Serbia, creating the Federal Republic of Yugoslavia and, after 2003, shifting to a looser State Union of Serbia and Montenegro. <br><br>In May 2006, Montenegro invoked its right under the Constitutional Charter of Serbia and Montenegro to hold a referendum on independence from the two-state union. The vote for severing ties with Serbia barely cleared the 55% threshold set by the EU, but it allowed Montenegro to formally restore its independence on 3 June 2006. In 2017, Montenegro joined NATO, and it is currently completing its EU accession process, having officially applied to join the EU in 2008.<br>
 
 ## Geography
 
@@ -364,15 +364,15 @@ _chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Nebojsa TODORO
 _chancery_: 1610 New Hampshire Avenue NW, Washington, DC, 20009<br>
 _telephone_: [1] (202) 234-6108<br>
 _FAX_: [1] (202) 234-6109<br>
-_email address and website_: <br>usa@mfa.gov.me<br>
+_email address and website_: <br>usa@mfa.gov.me<br><br>United States of America - Embassies and consulates of Montenegro and visa regimes for foreign citizens (www.gov.me)<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Judy Rising REINKE (since 20 December 2018)<br>
 _embassy_: Dzona Dzeksona 2, 81000 Podgorica<br>
 _mailing address_: 5570 Podgorica Place, Washington DC&nbsp; 20521-5570<br>
-_telephone_: +382 (0)20-410-500<br>
-_FAX_: [382]&nbsp; (0)20-241-358<br>
+_telephone_: [382] (0) 20-410-500<br>
+_FAX_: [382]&nbsp; (0) 20-241-358<br>
 _email address and website_: <br>PodgoricaACS@state.gov<br><br>https://me.usembassy.gov/<br>
 
 **Flag description**<br>
@@ -672,20 +672,20 @@ Army of Montenegro (Vojska Crne Gore or VCG): Ground Forces (Kopnene snage), Air
 <strong>note:</strong> the National Police Force, which includes Border Police, is responsible for maintaining internal security; it is organized under the Police Administration within the Ministry of Interior and reports to the police director and, through the director, to the minister of interior and prime minister<br>
 
 **Military expenditures**<br>
+2% of GDP (2024 est.)<br>
 1.9% of GDP (2023 est.)<br>
-1.4% of GDP (2022 est.)<br>
+1.4% of GDP (2022)<br>
 1.6% of GDP (2021)<br>
 1.7% of GDP (2020)<br>
-1.3% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 active-duty troops (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is small and consists mostly of Soviet-era equipment inherited from the former Yugoslavia military, with a limited mix of other imported systems from such countries as Austria, Turkey, and the US (2023)<br>
+the military's inventory is small and consists mostly of Soviet-era equipment inherited from the former Yugoslavia military, along with a limited mix of other imported systems from such countries as Austria, Turkey, and the US (2023)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; conscription abolished in 2006 (2023)<br>
+18 is the legal minimum age for voluntary military service; conscription abolished in 2006 (2024)<br>
 <strong>note:</strong> as of 2023, women made up over 15% of the military's full-time personnel<br>
 
 **Military - note**<br>
@@ -699,9 +699,9 @@ the Army of Montenegro is a small military focused on the defense of Montenegro�
 <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: the former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated; nearly one-third of Montenegro's people identify as Serbs, and divisions in the country remain deep over relations with Serbia</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 64,240 (Ukraine) (as of 25 December 2023)<br>
+_refugees (country of origin)_: 65,105 (Ukraine) (as of 29 January 2024)<br>
 _stateless persons_: 468 (2022)<br>
-<strong>note:</strong> 33,825 estimated refugee and migrant arrivals (January 2015-November 2023)<br>
+<strong>note:</strong> 34,143 estimated refugee and migrant arrivals (January 2015-February 2024)<br>
 
 **Trafficking in persons**<br>
 _tier rating_: Tier 2 Watch List &mdash; Montenegro does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government prosecuted more defendants and identified more trafficking victims, adopted the National Action Plan for 2022, and coordinating bodies met consistently; however, the government did not demonstrate overall increasing efforts, compared with the previous reporting period, to expand its anti-trafficking capacity; officials did not convict any traffickers and reorganized the police office dedicated to investigating trafficking, reducing its ability to conduct proactive investigations; the government did not act quickly to protect victims after experts published credible allegations of abuse by an employee with management duties for the government-funded NGO-run anti-trafficking shelter, including physical violence, intimidation, and blackmail; although civil society and international organizations ceased victim referrals to the shelter, the government did not suspend its license and funding, continued to refer two child victims, and funded the shelter until the grant ended in December 2022; afterwards, Montenegro did not renew the shelter&rsquo;s grant and decided to start renovating a government-run shelter for child trafficking victims; the government attempted to organize accommodations for child victims in foster families, but it did not develop a plan to provide protection for adult victims; therefore, Montenegro was downgraded to Tier 2 Watch List (2023)<br>

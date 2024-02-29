@@ -326,7 +326,7 @@ _election results_: <em><br>2023:</em> Mohamed MUIZZI elected president in the s
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or People's Majlis (87 seats - includes 2 seats added by the Elections Commission in late 2018; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: last held on 6 April 2019 (next to be held in April 2024)<br>
+_elections_: last held on 6 April 2019 (next to be held on 19 April 2024)<br>
 _election results_: percent of vote - MDP 44.7%, JP 10.8%, PPM 8.7%, PNC 6.4%, MDA 2.8%, other 5.6%, independent 21%; seats by party - MDP 65, JP 5, PPM 5, PNC 3, MDA 2, independent 7; composition - men 83, women 4, percent of women 4.6%<br>
 
 **Judicial branch**<br>

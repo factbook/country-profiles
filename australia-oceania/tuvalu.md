@@ -297,7 +297,7 @@ _residency requirement for naturalization_: na<br>
 
 **Executive branch**<br>
 _chief of state_: King CHARLES III (since 8 September 2022); represented by Governor General Tofiga Vaevalu FALANI (since 29 August 2021)<br>
-_head of government_: Prime Minister Kausea NATANO (since 19 September 2019)<br>
+_head of government_: Prime Minister Feleti Penitala TEO (since 27 February 2024)<br>
 _cabinet_: Cabinet appointed by the governor general on recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on recommendation of the prime minister; prime minister and deputy prime minister elected by and from members of House of Assembly following parliamentary elections<br>
 _election results_: <em>2019: </em>Kausea NATANO elected prime minister by House of Assembly; House of Assembly vote - 10 to 6<br>
@@ -319,7 +319,7 @@ there are no political parties, but members of parliament usually align themselv
 ACP, ADB, AOSIS, C, FAO, IBRD, IDA, IFAD, IFRCS (observer), ILO, IMF, IMO, IOC, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Tapugao FALEFOU (since 19 April 2023)<br>note - also Permanent Representative to UN<br>
+_chief of mission_: Ambassador Tapugao FALEFOU (since 19 April 2023); note - also Permanent Representative to UN<br>
 _chancery_: 685 Third Avenue, Suite 1104, New York, NY 10017<br>
 _telephone_: [1] (212) 490-0534<br>
 _FAX_: [1] (212) 808-4975<br>

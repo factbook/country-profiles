@@ -718,7 +718,7 @@ _cruise/ferry port(s)_: Calais, Cherbourg, Le Havre<br>
 ## Military and Security
 
 **Military and security forces**<br>
-French Armed Forces (Forces Armées Françaises): Army (l'Armee de Terre; includes Foreign Legion), Navy (Marine Nationale), Air and Space Force (l'Armee de l’Air et de l’Espace); includes Air Defense), National Guard (Reserves), National Gendarmerie (2023)<br>
+French Armed Forces (Forces Armées Françaises): Army (l'Armee de Terre; includes Foreign Legion), Navy (Marine Nationale), Air and Space Force (l'Armee de l’Air et de l’Espace); includes Air Defense), National Guard (Reserves), National Gendarmerie (2024)<br>
 <strong>note: </strong>under the direction of the Ministry of the Interior, the civilian National Police and the National Gendarmerie maintain internal security; the National Gendarmerie is a paramilitary police force that is a branch of the Armed Forces and therefore part of the Ministry of Defense but under the jurisdiction of the Ministry of the Interior; it also has additional duties to the Ministry of Justice; the Gendarmerie includes the National Gendarmerie Intervention Group (Groupe d'intervention de la Gendarmerie Nationale or GIGN), an elite national-level tactical police unit set up in 1973 in response to the 1972 Munich massacre<br>
 
 **Military expenditures**<br>
@@ -732,11 +732,11 @@ French Armed Forces (Forces Armées Françaises): Army (l'Armee de Terre; includ
 approximately 210,000 active-duty troops (120,000 Army; 35,000 Navy; 40,000 Air Force; 15,000 other, such as joint staffs, administration, logistics, procurement, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the French military's inventory consists mostly of domestically produced weapons systems, including some jointly produced with other European countries; there is a limited mix of armaments from other Western countries, particularly the US; France has a large and sophisticated defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2023)<br>
+the French military's inventory consists mostly of domestically produced weapons systems, including some jointly produced with other European countries; there is a limited mix of armaments from other Western countries, particularly the US; France has a large and sophisticated defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2024)<br>
 <strong>note:</strong> two major future acquisition programs for the French military included the Franco-German-Spanish Future Combat Air System, or FCAS (known in France as the système combat aérien du futur, or SCAF) and a next-generation tank development project with Germany known as the Main Ground Combat System, or MGCS<br>
 
 **Military service age and obligation**<br>
-generally 17-30 years of age for both men and women with some variations by service, position, and enlisted versus officer; basic service contract is for 12 months; no conscription (abolished 2001) (2023)<br>
+generally 17-30 years of age for both men and women with some variations by service, position, and enlisted versus officer; basic service contract is for 12 months; no conscription (abolished 2001) (2024)<br>
 <strong>note 1: </strong>in 2023, women comprised more than 16% of the uniformed armed forces  <br><br><strong>note 2:</strong> French citizens can also volunteer for the Voluntary Military Service (VMS), which allows unemployed youth aged 18-25 to learn a trade or gain work experience while receiving basic military training and sports activities; French citizens may also joint the military operational reserve up to age 72<br><br><strong>note 3:</strong> men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign five-year contracts<br>
 
 **Military deployments**<br>
@@ -770,7 +770,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>Madagascar claims the French territories of Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island; Comoros claims Mayotte; Mauritius claims Tromelin Island; territorial dispute between Suriname and the French overseas department of French Guiana; France asserts a territorial claim in Antarctica (Adelie Land); France and Vanuatu claim Matthew and Hunter Islands, east of New Caledonia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 69,670 (Ukraine) (as of 31 December 2023); 55,681 (Afghanistan), 39,091 (Syria), 33,834 (Sri Lanka), 33,148 (Russia), 31,935 (Democratic Republic of the Congo), 24,223 (Sudan), 21,225 (Guinea), 18,008 (Serbia and Kosovo), 17,032 (Turkey), 13,974 (Iraq), 12,286 (Cote d'Ivoire), 11,489 (Eritrea), 11,012 (Cambodia), 10,543 (China), 10,236 (Albania), 10,210 (Somalia), 8,858 (Bangladesh), 8,124 (Mauritania), 8,101 (Mali), 7,991 (Vietnam), 6,913 (Bosnia and Herzegovina), 6,910 (Haiti), 6,808 (Angola), 6,498 (Laos), 6,417 (Armenia), 6,111 (Nigeria), 5,896 (Georgia) (mid-year 2022)<br>
+_refugees (country of origin)_: 55,681 (Afghanistan), 39,091 (Syria), 33,834 (Sri Lanka), 33,148 (Russia), 31,935 (Democratic Republic of the Congo), 24,223 (Sudan), 21,225 (Guinea), 18,008 (Serbia and Kosovo), 17,032 (Turkey), 13,974 (Iraq), 12,286 (Cote d'Ivoire), 11,489 (Eritrea), 11,012 (Cambodia), 10,543 (China), 10,236 (Albania), 10,210 (Somalia), 8,858 (Bangladesh), 8,124 (Mauritania), 8,101 (Mali), 7,991 (Vietnam), 6,913 (Bosnia and Herzegovina), 6,910 (Haiti), 6,808 (Angola), 6,498 (Laos), 6,417 (Armenia), 6,111 (Nigeria), 5,896 (Georgia) (mid-year 2022); 69,670 (Ukraine) (as of 31 December 2023)<br>
 _stateless persons_: 3,633 (2022)<br>
 
 **Illicit drugs**<br>

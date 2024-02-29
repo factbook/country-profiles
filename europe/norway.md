@@ -668,18 +668,18 @@ Norway operates one PC 3 or 4 class icebreaker and one PC 5 or 6 class icebreake
 ## Military and Security
 
 **Military and security forces**<br>
-Norwegian Armed Forces (Forsvaret or "the Defense"): Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige Norske Sjoeforsvaret; includes Coastal Rangers and Coast Guard (Kystvakt)), Royal Norwegian Air Force (Kongelige Norske Luftforsvaret), Norwegian Special Forces, Norwegian Cyber Defense Force, Home Guard (Heimevernet, HV) (2023)<br>
+Norwegian Armed Forces (Forsvaret or "the Defense"): Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige Norske Sjoeforsvaret; includes Coastal Rangers and Coast Guard (Kystvakt)), Royal Norwegian Air Force (Kongelige Norske Luftforsvaret), Norwegian Special Forces, Norwegian Cyber Defense Force, Home Guard (Heimevernet, HV) (2024)<br>
 <strong>note:</strong> the national police have primary responsibility for internal security; the National Police Directorate, an entity under the Ministry of Justice and Public Security, oversees the police force<br>
 
 **Military expenditures**<br>
+1.8% of GDP (2024 est.)<br>
 1.7% of GDP (2023 est.)<br>
-1.5% of GDP (2022 est.)<br>
+1.5% of GDP (2022)<br>
 1.7% of GDP (2021)<br>
 2% of GDP (2020)<br>
-1.8% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 27,000 active personnel (9,000 Army; 4,300 Navy; 4,700 Air Force; 9,000 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); approximately 40,000 Home Guard (2023)<br>
+approximately 27,000 active personnel (9,000 Army; 4,300 Navy; 4,700 Air Force; 9,000 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); approximately 40,000 Home Guard (2024)<br>
 <strong>note:</strong> active personnel include about 10,000 conscripts<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -714,6 +714,6 @@ has a broad and active space program coordinated with the European Space Agency 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 66,965 (Ukraine) (as of 31 December 2023)<br>
+_refugees (country of origin)_: 15,901 (Syria), 10,883 (Eritrea) (mid-year 2022); 68,060 (Ukraine) (as of 2 February 2024)<br>
 _stateless persons_: 3,901 (2022)<br>
 

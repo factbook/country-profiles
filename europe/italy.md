@@ -681,7 +681,7 @@ Italy operates one PC 5 or 6 class light icebreaker, it is based in the Mediterr
 ## Military and Security
 
 **Military and security forces**<br>
-Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italiana, MMI; includes aviation, marines), Italian Air Force (Aeronautica Militare Italiana, AMI); Carabinieri Corps (Arma dei Carabinieri, CC) (2023)<br>
+Italian Armed Forces (Forze Armate Italiane): Army (Esercito Italiano, EI), Navy (Marina Militare Italiana, MMI; includes aviation, marines), Italian Air Force (Aeronautica Militare Italiana, AMI); Carabinieri Corps (Arma dei Carabinieri, CC) (2024)<br>
 <strong>note 1:</strong> the National Police and Carabinieri (gendarmerie or military police) maintain internal security; the National Police reports to the Ministry of Interior while the Carabinieri reports to the Ministry of Defense but is also under the coordination of the Ministry of Interior; the Carabinieri is primarily a domestic police force organized along military lines, with some overseas responsibilities<br><br><strong>note 2:</strong> the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
 
 **Military expenditures**<br>
@@ -698,7 +698,7 @@ approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Fo
 the military's inventory includes a mix of domestically manufactured, imported, and jointly produced weapons systems, mostly from Europe and the US; in recent years, the US has been the lead supplier of military hardware to Italy; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in aircraft, armored vehicles, and naval vessels; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2023)<br>
 
 **Military service age and obligation**<br>
-17-25 years of age for voluntary military service for men and women (some variations on age depending on the military branch); voluntary service is a minimum of 12 months with the option to extend in the Armed Forces or compete for positions in the Military Corps of the Italian Red Cross, the State Police, the Carabinieri, the Guardia di Finanza, the Penitentiary Police, or the National Fire Brigade; recruits can also volunteer for 4 years military service; conscription abolished 2004 (2023)<br>
+17-25 years of age for voluntary military service for men and women (some variations on age depending on the military branch); voluntary service is a minimum of 12 months with the option to extend in the Armed Forces or compete for positions in the Military Corps of the Italian Red Cross, the State Police, the Carabinieri, the Guardia di Finanza, the Penitentiary Police, or the National Fire Brigade; recruits can also volunteer for 4 years military service; conscription abolished 2004 (2024)<br>
 <strong>note:</strong> women may serve in any military branch; as of 2020, women made up about 6% of the military's full-time personnel<br>
 
 **Military deployments**<br>
@@ -732,9 +732,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 169,040 (Ukraine) (as of 15 December 2023)<br>
+_refugees (country of origin)_: 21,441 (Nigeria), 17,706 (Afghanistan), 17,619 (Pakistan), 11,193 (Mali), 8,405 (Somalia), 6,324 (Gambia), 5,768 (Bangladesh), 5,463 (Iraq) (mid-year 2022); 168,840 (Ukraine) (as of 19 January 2024)<br>
 _stateless persons_: 3,000 (2022)<br>
-<strong>note:</strong> 840,958 estimated refugee and migrant arrivals (January 2015-November 2023)<br>
+<strong>note:</strong> 858,051 estimated refugee and migrant arrivals (January 2015-February 2024)<br>
 
 **Illicit drugs**<br>
 <p>important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe</p><br>

@@ -693,7 +693,7 @@ Swiss Armed Forces (aka Swiss Army or Schweizer Armee); Army (Heer; aka Land For
 0.7% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 100,000, including cadre/professionals, conscripts, and militia; the Swiss Armed Forces consist of a small core of cadre/professional personnel along with a mix of militia and 18-20,000 conscripts brought in each year for training (2022)<br>
+approximately 100,000, including cadre/professionals, conscripts, and militia; the Swiss Armed Forces consist of a small core of cadre/professional personnel along with a mix of militia and 18-20,000 conscripts brought in each year for training (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military's inventory includes a mix of domestically produced and imported weapons systems; in recent years, the US has been the leading supplier of military armaments to Switzerland; the Swiss defense industry produces a range of military land vehicles (2023)<br>
@@ -703,7 +703,7 @@ the military's inventory includes a mix of domestically produced and imported we
 <strong>note: </strong>conscientious objectors can choose 390 days of community service instead of military service; as of 2023, women comprised about 1% of the active Swiss military<br>
 
 **Military deployments**<br>
-up to 165 Kosovo (NATO/KFOR) (2023)<br>
+up to 195 Kosovo (NATO/KFOR) (2023)<br>
 
 **Military - note**<br>
 the Swiss military is responsible for territorial defense, limited support to international disaster response and peacekeeping, and providing support to civil authorities when their resources are not sufficient to ward off threats to internal security or provide sufficient relief during disasters; Switzerland has long maintained a policy of military neutrality but does periodically participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military and peacekeeping operations; however, Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it contributed to the NATO-led Kosovo force (KFOR) in 1999 and, as of 2024, continued doing so with up to 195 personnel<br><br>the military is comprised of conscripts, militia, and a small professional component; it is led by the Chief of the Armed Forces with an Armed Forces Staff and consists of a Joint Operations Command (JOC), an Armed Forces Logistics Organization, an Armed Forces Command Support Organization, and a Training and Education Command; the JOC controls, among other subordinate commands, the Air Force, the Land Forces, four territorial divisions, the Military Police Command, and the Special Forces Command; the primary combat forces of the Army/Land Forces are three mechanized brigades, plus additional reserve brigades of armor, infantry, and mountain infantry forces; the four territorial divisions link the Army with the cantons; the Air Force is responsible for airspace protection (air sovereignty and air defense, including ground-based air defense), air transport, and airborne intelligence; it has about 50 US-origin multirole fighter aircraft (2024)<br>
@@ -729,7 +729,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 66,480 (Ukraine) (as of 29 December 2023)<br>
+_refugees (country of origin)_: 14,726 (Eritrea), 11,441 (Afghanistan), 8,039 (Syria), (mid-year 2022); 66,025 (Ukraine) (as of 6 February 2024)<br>
 _stateless persons_: 891 (2022)<br>
 
 **Illicit drugs**<br>

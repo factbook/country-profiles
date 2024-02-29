@@ -715,7 +715,7 @@ has a national space strategy with a focus on capacity building, developing spac
 <p><em>Angola-Democratic Republic of Congo (DRC): </em>has had disputes over land and maritime borders with the DRC; maritime disputes have largely been about offshore oil claims<br><br><em>Angola-Namibia: </em>none identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,788 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023)<br>
+_refugees (country of origin)_: 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2023); 22,805 (Democratic Republic of the Congo) (refugees and asylum seekers) (2024)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

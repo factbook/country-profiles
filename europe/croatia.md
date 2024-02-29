@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The lands that today comprise Croatia were part of the Austro-Hungarian Empire until the close of World War I. In 1918, the Croats, Serbs, and Slovenes formed a kingdom known after 1929 as Yugoslavia. Following World War II, Yugoslavia became a federal independent communist state consisting of six socialist republics under the strong hand of Marshal Josip Broz, aka TITO. Although Croatia declared its independence from Yugoslavia in 1991, it took four years of sporadic, but often bitter, fighting before Yugoslav forces were cleared from Croatian lands, along with a majority of Croatia's ethnic Serb population. Under UN supervision, the last Serb-held enclave in eastern Slavonia was returned to Croatia in 1998. The country joined NATO in April 2009 and the EU in July 2013. In January 2023, Croatia further integrated into the EU by joining the Eurozone and the Schengen Area.</p><br>
+<p>The lands that today comprise Croatia were part of the Austro-Hungarian Empire until the end of World War I. In 1918, the Croats, Serbs, and Slovenes formed a kingdom known after 1929 as Yugoslavia. Following World War II, Yugoslavia became a federal independent communist state consisting of six socialist republics, including Croatia, under the strong hand of Josip Broz, aka TITO. Although Croatia declared its independence from Yugoslavia in 1991, it took four years of sporadic, but often bitter, fighting before Yugoslav forces were cleared from Croatian lands, along with a majority of Croatia's ethnic Serb population. Under UN supervision, the last Serb-held enclave in eastern Slavonia was returned to Croatia in 1998. The country joined NATO in 2009 and the EU in 2013. In January 2023, Croatia further integrated into the EU by joining the Eurozone and the Schengen Area.</p><br>
 
 ## Geography
 
@@ -358,7 +358,7 @@ _subordinate courts_: Administrative Court; county, municipal, and specialized c
 Bloc for Croatia or BLOK or BZH [Zlatko HASANBEGOVIC]<br>The Bridge or MOST [Bozo PETROV] (formerly the Bridge of Independent Lists)<br>Center or Centar [Ivica PULJAK] (formerly Pametno and Party with a First and Last Name or SSIP) <br>Civic Liberal Alliance or GLAS [Ankar Mrak TARITAS]<br>Croatian Demochristian Party or HDS [Goran DODIG]<br>Croatian Democratic Alliance of Slavonia and Baranja or HDSSB [Branimir GLAVAS]<br>Croatian Democratic Union or HDZ [Andrej PLENKOVIC]<br>Croatian Democratic Union-led coalition (includes HSLS, HDS, HDSSB)<br>Croatian Party of Pensioners or HSU [Veselko GABRICEVIC]<br>Croatian Peasant Party or HSS [Kreso BELJAK]<br>Croatian People's Party - Liberal Democrats or HNS or HNS-LD [Mirko KOROTAJ, acting]<br>Croatian Social Liberal Party or HSLS [Dario HREBAK]<br>Croatian Sovereignists or HS [Marijan PAVLICEK]<br>Determination and Justice Party or OIP [Karolina Vidović KRISTO]<br>Focus on the Important or Focus [Davor NADI]<br>Green-Left coalition [collective leadership] (includes MOZEMO!, NL)<br>Homeland Movement or DP [Ivan PENAVA] (also known as Miroslav Škoro Homeland Movement or DPMS)<br>Independent Democratic Serb Party or SDSS [Milorad PUPOVAC]<br>Istrian Democratic Assembly or IDS [Dalibor PAUS]<br>New Left or NL [Ivana KEKIN]<br>People's Party - Reformists or NS-R [Radimir CACIC]<br>Pulse of Croatia or HRB [Ante PRKACIN]<br>Restart Coalition (includes SDP, HSS, HSU, GLAS, IDS, NS-R)<br>Righteous Croatia or PH [Milan VRKLJAN]<br>Social Democratic Party of Croatia or SDP [Peda GRBIN]<br>Social Democrats or SD [Davorko VIDOVIC]<br>We Can! or Mozemo! [collective leadership]<br>Workers' Front or RF [collective leadership]<br><strong><br></strong><br>
 
 **International organization participation**<br>
-Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+AIIB, Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Pjer SIMUNOVIC (since 8 September 2017)<br>
@@ -370,11 +370,11 @@ _consulate(s) general_: Chicago, Los Angeles, New York, Seattle (WA), Washington
 _consulate(s)_: Anchorage (AL), Houston, Kansas City (MO), New Orleans, Pittsburgh (PA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Mark FLEMING (since May 2021)<br>
+_chief of mission_: Ambassador Nathalie RAYES (since 25 January 2024)<br>
 _embassy_: Ulica Thomasa Jeffersona 2, 10010 Zagreb<br>
 _mailing address_: 5080 Zagreb Place, Washington DC&nbsp; 20521-5080<br>
 _telephone_: [385] (1) 661-2200<br>
-_FAX_: [385] (1) 661-8933<br>
+_FAX_: [385] (1) 665-8933<br>
 _email address and website_: <br>ZagrebACS@state.gov<br><br>https://hr.usembassy.gov/<br>
 
 **Flag description**<br>
@@ -679,7 +679,7 @@ _river port(s)_: Vukovar (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH): Ground Forces (Hrvatska Kopnena Vojska, HKoV), Naval Forces (Hrvatska Ratna Mornarica, HRM; includes Coast Guard), Air Force and Air Defense Forces; Military Police Force (2023)<br>
+Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH): Ground Forces (Hrvatska Kopnena Vojska, HKoV), Naval Forces (Hrvatska Ratna Mornarica, HRM; includes Coast Guard), Air Force (Hrvatsko Ratno Zrakoplovstvo, HRZ) (2024)<br>
 <strong>note:</strong> the Ministry of the Interior is responsible for internal security, including law enforcement (Croatia Police) and border security<br>
 
 **Military expenditures**<br>
@@ -693,14 +693,14 @@ Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH)
 approximately 15,000 active-duty personnel (10,000 Army; 1,500 Navy; 1,500 Air force; 2,000 joint/other) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of Soviet-era equipment and limited, but growing amounts of more modern weapon systems from Western suppliers, including France, Germany, and the US (2023)<br>
+the military's inventory is a mix of Soviet-era equipment and a growing amount of more modern weapon systems from Western suppliers, including France, Germany, and the US (2024)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for voluntary military service; conscription abolished in 2008 (2023)<br>
+18-27 years of age for voluntary military service; conscription abolished in 2008 (2024)<br>
 <strong>note:</strong> as of 2021, women comprised nearly 15% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-150 Kosovo (KFOR/NATO) (2023)<br>
+150 Kosovo (KFOR/NATO); 175 Lithuania (NATO; Croatia also has a few hundred personnel participating in several other EU, NATO, and UN missions (2024)<br>
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
@@ -712,10 +712,10 @@ the Armed Forces of Croatia (OSRH) are responsible for the defense of Croatia’
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Croatia joined the Schengen Zone on 1 January 2023</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 24,150 (Ukraine) (as of 28 December 2023)<br>
+_refugees (country of origin)_: 24,355 (Ukraine) (as of 31 January 2024)<br>
 _stateless persons_: 2,889 (2022)<br>
 <strong>note: </strong>843,010 estimated refugee and migrant arrivals (January 2015-September 2023)<br>
 
 **Illicit drugs**<br>
-<p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine destined for European markets</p> <p> </p><br>
+<p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine destined for European markets</p> <p> </p><br>
 

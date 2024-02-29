@@ -551,7 +551,7 @@ _total subscriptions_: 466,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 115 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the telecom sector has seen a decline in subscriber numbers (particularly for prepaid mobile services the mainstay of short term visitors) and revenue; fixed and mobile broadband services are two areas that have benefited from the crisis as employees and students have resorted to working from home (2021)<br>
+_general assessment_: the two local providers ensure&nbsp; good telecoms coverage across the archipelago; fiber-to-home investments have been prioritized with 5G adoption pending (2023)<br>
 _domestic_: 22 per 100 fixed-line, 115 per 100 mobile-cellular (2020)<br>
 _international_: country code - 1-242; landing points for the ARCOS-1, BICS, Bahamas 2-US, and BDSN fiber-optic submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2; the Bahamas Domestic Submarine Network links all of the major islands; (2019)<br>
 

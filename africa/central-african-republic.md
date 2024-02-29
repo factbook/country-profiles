@@ -95,7 +95,7 @@ Baya 28.8%, Banda 22.9%, Mandjia 9.9%, Sara 7.9%, M'Baka-Bantu 7.9%, Arab-Fulani
 French (official), Sangho (lingua franca and national language), tribal languages<br>
 
 **Religions**<br>
-Christian 89%, Muslim 9%, folk religion 1%, unaffiliated 1% (2020 est.)<br>
+Christian 89%, Muslim 9%, folk religionist 1%, unaffiliated 1% (2020 est.)<br>
 <strong>note:</strong> animistic beliefs and practices strongly influence the Christian majority<br>
 
 **Demographic profile**<br>

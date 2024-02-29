@@ -658,21 +658,21 @@ Armed Forces of the Republic of Moldova (Forțele Armate ale Republicii Moldova)
 <strong>note 1:</strong> the Carabinieri is a quasi-militarized gendarmerie responsible for protecting public buildings, maintaining public order, and other national security functions<br><br><strong>note 2:</strong> the national police force reports to the Ministry of Internal Affairs and is the primary law enforcement body, responsible for internal security, public order, traffic, border security, and criminal investigations; the Moldovan Border Police (Poliției de Frontieră) are under the Ministry of Internal Affairs; prior to 2012, Border Police were under the armed forces and known as the Border Troops<br>
 
 **Military expenditures**<br>
+0.55% of GDP (2023 est.)<br>
 0.4% of GDP (2022 est.)<br>
 0.4% of GDP (2021 est.)<br>
 0.4% of GDP (2020 est.)<br>
 0.4% of GDP (2019 est.)<br>
-0.4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 6,500 active troops; approximately 2,000 Carabinieri (2023)<br>
+approximately 6,500 active-duty troops; approximately 2,000 Carabinieri (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is limited and almost entirely comprised of older Russian and Soviet-era equipment; in recent years, it has received small amounts of donated material from other nations, including the US (2023)<br>
+the military's inventory is limited and almost entirely comprised of older Russian and Soviet-era equipment; in recent years, it has received donated equipment from other nations, including the US (2024)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 12-month service obligation (2023)<br>
-<strong>note:</strong> as of 2019, women made up about 20% of the military's full-time personnel<br>
+18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 12-month service obligation (2024)<br>
+<strong>note:</strong> as of 2021, women made up about 20% of the military's full-time personnel<br>
 
 **Military - note**<br>
 the National Army is responsible for defense against external aggression, suppressing illegal military violence along the state border or inside the country, and supporting other internal security forces in maintaining public order if necessary; its primary focuses are Transnistrian separatist forces and their Russian backers; the 1992 war between Moldovan forces and the Transnistrian separatists backed by Russian troops ended with a cease-fire; the separatists maintain several armed paramilitary combat units, plus other security forces and reserves; Russia maintains approximately 1,500 troops in the breakaway region, including some Transnistrian locals who serve as Russian troops; some troops are under the authority of a peacekeeping force known as a Joint Control Commission that also includes Moldovan and separatist personnel, while the remainder of the Russian contingent (Operational Group of Russian Forces - Transnistria or OGF-T) guard a depot of Soviet-era ammunition and train Transnistrian separatist forces<br><br>the National Army is equipped almost entirely with outdated Soviet-era material; following the Russian invasion of Ukraine in 2022, Moldova announced that the National Army would undergo a process to modernize and professionalize while declaring that it had been largely neglected since its formation in the early 1990s; some Western countries have provided gear and equipment; the National Army is comprised of a Land Force Command and an Air Force Command with a General Staff exercising operational leadership of the force; the Land Force’s combat units include three small motorized infantry brigades and a designated peacekeeping battalion, plus artillery and special forces;  the Air Force does not have any combat aircraft; the Carabinieri Troops under the Ministry of Internal Affairs are organized into three regions with five subordinate military units<br><br>Moldova is constitutionally neutral but has maintained a relationship with NATO since 1992; bilateral cooperation started when Moldova joined NATO’s Partnership for Peace program in 1994; Moldova has contributed small numbers of troops to NATO’s Kosovo Force (KFOR) since 2014, and a civilian NATO liaison office was established in Moldova in 2017 at the request of the Moldovan Government to promote practical cooperation and facilitate support (2023)<br>
@@ -680,10 +680,10 @@ the National Army is responsible for defense against external aggression, suppre
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
+<p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, and Russian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 120,695 (Ukraine) (as of 28 January 2024)<br>
+_refugees (country of origin)_: 116,195 (Ukraine) (as of 18 February 2024)<br>
 _stateless persons_: 1,701 (2022)<br>
 
 **Illicit drugs**<br>

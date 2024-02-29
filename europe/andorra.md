@@ -516,5 +516,5 @@ defense is the responsibility of France and Spain<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Andorra-France:</em> none identified<br><br><em>Andorra-Spain:</em> none identified</p><br>
+none identified<br>
 

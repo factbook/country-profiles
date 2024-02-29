@@ -560,7 +560,7 @@ defense is the responsibility of the UK<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 
 **Illicit drugs**<br>
 <p>major offshore financial center vulnerable to drug trafficking money laundering</p> <p> </p><br>

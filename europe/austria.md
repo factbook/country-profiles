@@ -374,8 +374,8 @@ _consulate(s)_: Chicago<br>
 _chief of mission_: Ambassador Victoria Reggie KENNEDY (since 12 January 2022)<br>
 _embassy_: Boltzmanngasse 16, 1090, Vienna<br>
 _mailing address_: 9900 Vienna Place, Washington DC&nbsp; 20521-9900<br>
-_telephone_: [43] (1) 31339-0<br>
-_FAX_: [43] (1) 310-06-82<br>
+_telephone_: [43] (1) 31339 0<br>
+_FAX_: [43] (1) 31339 2017<br>
 _email address and website_: <br>ConsulateVienna@state.gov<br><br>https://at.usembassy.gov/<br>
 
 **Flag description**<br>
@@ -679,25 +679,25 @@ _river port(s)_: Enns, Krems, Linz, Vienna (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Austrian Armed Forces (Bundesheer): Land Forces, Air Forces, Cyber Forces, Special Forces, Militia (reserves) (2023)<br>
-<strong>note:</strong> the federal police maintain internal security and report to the Ministry of the Interior <br>
+Austrian Armed Forces (Bundesheer): Land Forces, Air Forces, Cyber Forces, Special Forces, Militia (reserves) (2024)<br>
+<strong>note:</strong> the federal police maintain internal security and report to the Ministry of the Interior<br>
 
 **Military expenditures**<br>
-0.7% of GDP (2022 est.)<br>
+1% of GDP (2024 est.)<br>
+0.85% of GDP (2023 est.)<br>
+0.7% of GDP (2022)<br>
 0.8% of GDP (2021)<br>
 0.7% of GDP (2020)<br>
-0.7% of GDP (2019)<br>
-0.7% of GDP (2018)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 20-25,000 active duty personnel (includes active militia) (2023)<br>
+approximately 20-25,000 active-duty personnel (includes conscripts and active militia) (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory includes a mix of domestically produced and imported weapons systems from European countries and the US; the Austrian defense industry produces a range of equipment and partners with other countries (2023)<br>
+the military's inventory includes a mix of domestically produced and imported weapons systems from European countries and the US; the Austrian defense industry produces a range of equipment and partners with other countries (2024)<br>
 
 **Military service age and obligation**<br>
-registration requirement at age 17, the legal minimum age for voluntary military service; men above the age of 18 are subject to compulsory military service; women may volunteer; compulsory service is for 6 months, or optionally, alternative civil/community service (Zivildienst) for 9 months (2023)<br>
-<strong>note 1:</strong> as of 2022, women made up about 4% of the military's full-time personnel<br><br><strong>note 2:</strong> in a January 2013 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system; approximately 40% of those liable to compulsory service have opted in favor of  alternative civil/community service<br>
+registration requirement at age 17, the legal minimum age for voluntary military service; men above the age of 18 are subject to compulsory military service; women may volunteer; compulsory service is for 6 months, or optionally, alternative civil/community service (Zivildienst) for 9 months (2024)<br>
+<strong>note 1:</strong> as of 2023, women made up about 4% of the military's full-time personnel<br><br><strong>note 2:</strong> in a January 2013 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system<br>
 
 **Military deployments**<br>
 170 Bosnia-Herzegovina (EUFOR stabilization force); 250 Kosovo (NATO/KFOR); 200 Lebanon (UNIFIL) (2023)<br>
@@ -726,7 +726,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 68,700 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 83,980 (Ukraine) (as of 31 December 2023)<br>
+_refugees (country of origin)_: 68,700 (Syria), 43,725 (Afghanistan), 10,110 (Iraq), 8,684 (Somalia), 7,294 (Iran), 6,124 (Russia) (mid-year 2022); 84,135 (Ukraine) (as of 31 January 2024)<br>
 _stateless persons_: 3,219 (2022)<br>
 
 **Illicit drugs**<br>

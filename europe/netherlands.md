@@ -684,7 +684,7 @@ _river port(s)_: Amsterdam (Nordsee Kanaal); Moerdijk (Hollands Diep River); Rot
 
 **Military and security forces**<br>
 Netherlands (Dutch) Armed Forces (Nederlandse Krijgsmacht): Royal Netherlands Army, Royal Netherlands Navy (includes Marine Corps), Royal Netherlands Air Force, Royal Netherlands Marechaussee (Military Constabulary) (2024)<br>
-<strong>note 1:</strong> the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature but managed by the Royal Netherlands Navy<br><br><strong>note 2:</strong> the national police maintain internal security in the Netherlands and report to the Ministry of Justice and Security, which oversees law enforcement organizations, as do the justice ministries in Aruba, Curaçao, and Sint Maarten<br>
+<strong>note 1:</strong> the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature but managed by the Royal Netherlands Navy<br><br><strong>note 2:</strong> the national police maintain internal security in the Netherlands and report to the Ministry of Justice and Security, which oversees law enforcement organizations, as do the justice ministries in Aruba, Curacao, and Sint Maarten<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2023 est.)<br>
@@ -705,7 +705,7 @@ the military's inventory consists of a mix of domestically produced and modern E
 <strong>note: </strong>in 2023, women made up about 14% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-350 Lithuania (NATO); 200 Romania (NATO) (2023)<br>
+350 Lithuania (NATO); 200 Romania (NATO) (2024)<br>
 <strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including the Netherlands, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
@@ -732,7 +732,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 53,496 (Syria), 19,204 (Eritrea), 7,106 (Turkey), 5,593 (Iran), 5,152 (Iraq) (mid-year 2022); 146,715 (Ukraine) (as of 31 December 2023)<br>
+_refugees (country of origin)_: 53,496 (Syria), 19,204 (Eritrea), 7,106 (Turkey), 5,593 (Iran), 5,152 (Iraq) (mid-year 2022); 149,015 (Ukraine) (as of 31 January 2024)<br>
 _stateless persons_: 4,570 (2022)<br>
 
 **Illicit drugs**<br>

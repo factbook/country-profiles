@@ -688,7 +688,7 @@ _LNG terminal(s) (import)_: Dragon, Isle of Grain, South Hook, Teesside<br>
 ## Military and Security
 
 **Military and security forces**<br>
-United Kingdom Armed Forces (aka British Armed Forces, aka His Majesty's Armed Forces): British Army, Royal Navy (includes Royal Marines), Royal Air Force (2023)<br>
+United Kingdom Armed Forces (aka British Armed Forces, aka His Majesty's Armed Forces): British Army, Royal Navy (includes Royal Marines), Royal Air Force (2024)<br>
 
 **Military expenditures**<br>
 2.1% of GDP (2023 est.)<br>
@@ -698,14 +698,14 @@ United Kingdom Armed Forces (aka British Armed Forces, aka His Majesty's Armed F
 2.1% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 150,000 regular forces (82,000 Army including the Gurkhas; 34,000 Navy including the Royal Marines; 34,000 Air Force) (2023)<br>
+approximately 145,000 regular forces (80,000 Army including the Gurkhas; 33,000 Navy including the Royal Marines; 32,000 Air Force) (2023)<br>
 <strong>note: </strong>the military also has approximately 40-45,000 reserves and other personnel on active duty<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the British military is comprised of a mix of domestically produced and imported Western weapons systems; in recent years, the US has been the leading supplier of armaments to the UK; the UK defense industry is capable of producing a wide variety of air, land, and sea weapons systems and is one of the world's top weapons suppliers (2023)<br>
 
 **Military service age and obligation**<br>
-some variations by service, but generally 16-36 years of age for enlisted (with parental consent under 18) and 18-29 for officers; minimum length of service 4 years; women serve in all military services including combat roles; conscription abolished in 1963 (2023)<br>
+some variations by service, but generally 16-36 years of age for enlisted (with parental consent under 18) and 18-29 for officers; minimum length of service 4 years; women serve in all military services including combat roles; conscription abolished in 1963 (2024)<br>
 <strong>note 1:</strong> women made up over 11% of the military's full-time personnel in 2023<br><br><strong>note 2:</strong> the British military allows Commonwealth nationals who are current UK residents and have been in the country for at least 5 years to apply; it also accepts Irish citizens<br><br><strong>note 3:</strong> the British Army has continued the historic practice of recruiting Gurkhas from Nepal to serve in the Brigade of Gurkhas; the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816); the Gurkhas subsequently were brought into the British Indian Army and by 1914, there were 10 Gurkha regiments, collectively known as the Gurkha Brigade; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; four of the regiments were transferred to the British Army, where they have since served continuously as the Brigade of Gurkhas<br>
 
 **Military deployments**<br>
@@ -739,7 +739,7 @@ Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New
 <p><em>UK-Argentina</em>: UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands</p> <p><em>UK-Argentina-Chile</em>: the UK’s territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim</p> <p><em>UK-Denmark</em>: the UK, Iceland, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p> <p><em>UK (Gibraltar)-Spain</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; London and Madrid reached a temporary agreement at the end of 2020 that allowed Gibraltar to be part of the passport-free Schengen zone; talks are expected to continue in 2022</p> <p><em>UK-Mauritius-Seychelles</em>: Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos Islands prohibiting the extraction of any natural resources therein</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan), 12,155 (Syria), 10,259 (Afghanistan), 8,009 (Pakistan), 7,699 (Iraq) (mid-year 2022); 250,360 (Ukraine) (as of 12 December 2023)<br>
+_refugees (country of origin)_: 21,904 (Iran), 15,615 (Eritrea), 11,371 (Sudan), 12,155 (Syria), 10,259 (Afghanistan), 8,009 (Pakistan), 7,699 (Iraq) (mid-year 2022); 253,160 (Ukraine) (as of 6 February 2024)<br>
 _stateless persons_: 5,483 (2022)<br>
 
 **Illicit drugs**<br>

@@ -337,7 +337,7 @@ the Pontifical Swiss Guard Corps (Corpo della Guardia Svizzera Pontificia) serve
 <strong>note: </strong>the Swiss Guard Corps has protected the Pope and his residence since 1506<br>
 
 **Military service age and obligation**<br>
-Pontifical Swiss Guard Corps: 19-30 years of age for voluntary military service; no conscription; must be a single Roman Catholic male with Swiss citizenship who has completed basic training with the Swiss military and can obtain a certificate of good conduct; qualified candidates must apply to serve; the service contract is between 2 and 25 years (2023)<br>
+Pontifical Swiss Guard Corps: 19-30 years of age for voluntary military service; no conscription; must be a single Roman Catholic male with Swiss citizenship who has completed basic training with the Swiss military and can obtain a certificate of good conduct; qualified candidates must apply to serve; the service contract is between 2 and 25 years (2024)<br>
 
 **Military - note**<br>
 defense is the responsibility of Italy<br>

@@ -670,24 +670,24 @@ _major seaport(s)_: Koper<br>
 Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force with air, land, maritime, special operations, combat support, and combat service support elements<br><br>Ministry of Interior: National Police (2024)<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2024 est.)<br>
 1.4% of GDP (2023 est.)<br>
-1.3% of GDP (2022 est.)<br>
+1.3% of GDP (2022)<br>
 1.2% of GDP (2021)<br>
 1% of GDP (2020)<br>
-1.1% of GDP (2019)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 6,000 active-duty troops (2023)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory is a mix of Soviet-era and smaller quantities of more modern, mostly Western equipment; in recent years, it has imported limited amounts of equipment from a few European countries and the US (2023)<br>
+the military's inventory is a mix of Soviet-era and smaller quantities of more modern, mostly Western equipment; in recent years, Slovenia has begun a modernization program and imported growing amounts of European and US equipment&nbsp; (2023)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service for men and women; must be a citizen of the Republic of Slovenia; recruits sign up for 3-, 5-, or 10-year service contracts; conscription abolished in 2003 (2023)<br>
 <strong>note:</strong> as of 2023, women comprised about 16% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-200 Kosovo (NATO); 100 Slovakia (NATO) (2023)<br>
+100 Kosovo (NATO); 100 Slovakia (NATO) (2024)<br>
 <strong>note:</strong> in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Slovenia, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
@@ -696,10 +696,10 @@ the Slovenian Armed Forces (Slovenska Vojska or SV) are responsible for the defe
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
+<p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; Croatia joined the Schengen Area in January 2023, resulting in all of Slovenia’s borders being within the border-free Schengen Area</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,635 (Ukraine) (as of 19 December 2023)<br>
+_refugees (country of origin)_: 10,865 (Ukraine) (as of 2 February 2024)<br>
 _stateless persons_: 10 (2020)<br>
 <strong>note: </strong> 6174,747 estimated refugee and migrant arrivals (January 2015-October 2023)<br>
 
