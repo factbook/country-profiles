@@ -534,7 +534,7 @@ _paved_: 4,686 km (2010)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-per the Oslo Accords, the PA is not permitted a conventional military but maintains security and police forces; PA security personnel have operated exclusively in the West Bank since HAMAS seized power in the Gaza Strip in 2007; PA forces include National Security Forces, Presidential Guard, Civil Police, Civil Defense, Preventive Security Organization, the General Intelligence Organization, and the Military Intelligence Organization (2023)<br>
+per the Oslo Accords, the PA is not permitted a conventional military but maintains security and police forces; PA security personnel have operated exclusively in the West Bank since HAMAS seized power in the Gaza Strip in 2007; PA forces include the National Security Forces, Presidential Guard, Civil Police, Civil Defense, Preventive Security Organization, the General Intelligence Organization, and the Military Intelligence Organization (2023)<br>
 <strong>note:</strong> the National Security Forces conduct gendarmerie-style security operations in circumstances that exceed the capabilities of the Civil Police; it is the largest branch of the PA security services and acts as the internal Palestinian security force; the Presidential Guard protects facilities and provides dignitary protection; the Preventive Security Organization is responsible for internal intelligence gathering and investigations related to internal security cases, including political dissent<br>
 
 **Military expenditures**<br>
@@ -546,11 +546,8 @@ the PA Security Forces have approximately 28,000 active personnel (2023)<br>
 **Military equipment inventories and acquisitions**<br>
 the security services are armed mostly with small arms and light weapons; in recent years, they have received small amounts of equipment from Jordan, Russia, and the US (2023)<br>
 
-**Military service age and obligation**<br>
-not available<br>
-
 **Military - note**<br>
-the Israel Defense Forces (IDF) are responsible for the West Bank, but PA security forces were granted security control of 17.5% (called Area A) under the 1993 Oslo accords; the PA has administrative control over Area B (about 22% of the West Bank), but security control is shared with Israeli authorities; Israel maintains all administrative and security control of Area C, which comprises about 61% of the West Bank (2023)<br>
+Palestinian Authority security forces maintain security control of 17.5% (called Area A) of the West Bank, as agreed by the Palestine Liberation Organization and Israel in the Oslo Accords; Israeli security forces maintain responsibility for the remaining 82.5% of the West Bank, including Area B (22.5%), where the Palestinian Authority has administrative control, and Area C (60%), where Israel maintains administrative control (2023)<br>
 
 ## Terrorism
 

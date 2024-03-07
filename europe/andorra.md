@@ -80,8 +80,8 @@ _noun_: Andorran(s)<br>
 _adjective_: Andorran<br>
 
 **Ethnic groups**<br>
-Andorran 47.6%, Spanish 24.8%, Portuguese 10.8%, French 4.5%, Argentine 1.7%, British, 1%, other 9.7% (2022 est.)<br>
-<strong>note:</strong> data represent population by nationality<br>
+Spanish 34.3%, Andorran 32.1%, Portuguese 10%, French 5.6%, other 18% (2023 est.)<br>
+<strong>note:</strong> data represent population by country of birth<br>
 
 **Languages**<br>
 Catalan (official) 35.7%, Castilian 43.2%, Portuguese 17.1%, French 8.9%, English 1.8%, other 5% (2018 est.)<br>

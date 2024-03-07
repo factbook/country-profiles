@@ -235,9 +235,9 @@ _men married by age 18_: 1.9% (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: any person age 15 and above who completed at least grade 3 of primary education<br>
-_total population_: 93.6%<br>
-_male_: 95.1%<br>
-_female_: 92.3% (2022)<br>
+_total population_: 89.7%<br>
+_male_: 88.3%<br>
+_female_: 90.9% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -694,7 +694,7 @@ the ZDF inventory is comprised mostly of Soviet-era and older Chinese equipment;
 18-22 years of age for voluntary military service for men and women (18-24 for officer cadets; 18-30 for technical/specialist personnel); no conscription (2023)<br>
 
 **Military - note**<br>
-ZDF’s primary responsibilities are protecting the country’s sovereignty and territory and securing its borders; it also has a considerable role in domestic security and has continued to be active in the country’s politics since the 2017 military-assisted political transition; the ZDF is part of the Southern Africa Development Community (SADC) Standby Force and has provided troops to the SADC deployment to Mozambique; Zimbabwe has defense ties with China and Russia; the Army has approximately 5 light infantry brigades, plus brigades of mechanized infantry, presidential guards, special operations, and artillery; the Air Force has a few dozen operational Chinese- and Russian-made combat aircraft and helicopters <br><br>the ZDF was formed after independence from the former Rhodesian Army and the two guerrilla forces that opposed it during the Rhodesian Civil War (aka "Bush War") of the 1970s, the Zimbabwe African National Liberation Army (ZANLA) and the Zimbabwe People's Revolutionary Army (ZIPRA); the ZDF intervened in the Mozambique Civil War (1983-1992), the Democratic Republic of Congo during the Second Congo War (1998-2003), and the Angolan Civil War (1975-2002) during the late 1990s (2023)<br>
+the ZDF’s primary responsibilities are protecting the country’s sovereignty and territory and securing its borders; it also has a considerable role in domestic security and has continued to be active in the country’s politics since the 2017 military-assisted political transition; the ZDF is part of the Southern Africa Development Community (SADC) Standby Force and has provided troops to the SADC deployment to Mozambique; Zimbabwe has defense ties with China and Russia; the Army has approximately five light infantry brigades, plus brigades of mechanized infantry, presidential guards, special operations forces, and artillery; the Air Force has a few dozen operational Chinese- and Russian-made combat aircraft and helicopters <br><br>the ZDF was formed after independence from the former Rhodesian Army and the two guerrilla forces that opposed it during the Rhodesian Civil War (aka "Bush War") of the 1970s, the Zimbabwe African National Liberation Army (ZANLA) and the Zimbabwe People's Revolutionary Army (ZIPRA); the ZDF intervened in the Mozambique Civil War (1983-1992), the Democratic Republic of Congo during the Second Congo War (1998-2003), and the Angolan Civil War (1975-2002) during the late 1990s (2023)<br>
 
 ## Space
 

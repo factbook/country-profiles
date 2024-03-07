@@ -81,7 +81,7 @@ _adjective_: Lebanese<br>
 
 **Ethnic groups**<br>
 Arab 95%, Armenian 4%, other 1%<br>
-<strong>note:</strong> many Christian Lebanese do not identify themselves as Arab but rather as descendants of the ancient Canaanites and prefer to be called Phoenicians<br>
+<strong>note:</strong> many Christian Lebanese do not identify as Arab but rather as descendants of the ancient Canaanites and prefer to be called Phoenicians<br>
 
 **Languages**<br>
 Arabic (official), French, English, Armenian<br>

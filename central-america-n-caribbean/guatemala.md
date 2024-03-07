@@ -352,7 +352,7 @@ Bienestar Nacional or BIEN [Fidel REYES LEE]<br>Blue Party (Partido Azul) or Blu
 BCIE, CACM, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, Union Latina, UNISFA, UNITAR, UNMISS, UNOCI, UNOOSA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Alfonso Jose QUINONEZ LEMUS (since 17 July 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires Viviana Raquel ARENAS AGUILAR (since 30 January 2024)<br>
 _chancery_: 2220 R Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 745-4953<br>
 _FAX_: [1] (202) 745-1908<br>

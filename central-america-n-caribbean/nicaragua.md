@@ -343,7 +343,7 @@ Alliance for the Republic or APRE [Carlos CANALES]<br>Alternative for Change or 
 BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNOOSA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Francisco Obadiah CAMPBELL Hooker (since 28 June 2010)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d'Affaires M. Lautaro SANDINO Montes (since 23 February 2024)<br>
 _chancery_: 1627 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 939-6570<br>
 _FAX_: [1] (202) 939-6545<br>

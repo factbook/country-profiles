@@ -86,7 +86,7 @@ African descent 90.6%, White 4.7%, mixed 2.1%, other 1.9%, unspecified 0.7% (201
 English (official), Creole (among Haitian immigrants)<br>
 
 **Religions**<br>
-Protestant 69.9% (includes Baptist 34.9%, Anglican 13.7%, Pentecostal 8.9% Seventh Day Adventist 4.4%, Methodist 3.6%, Church of God 1.9%, Plymouth Brethren 1.6%, other Protestant .9%), Roman Catholic 12%, other Christian 13% (includes Jehovah's Witness 1.1%), other 0.6%, none 1.9%, unspecified 2.6% (2010 est.)<br>
+Protestant 69.9% (includes Baptist 34.9%, Anglican 13.7%, Pentecostal 8.9% Seventh Day Adventist 4.4%, Methodist 3.6%, Church of God 1.9%, Plymouth Brethren 1.6%, other Protestant 0.9%), Roman Catholic 12%, other Christian 13% (includes Jehovah's Witness 1.1%), other 0.6%, none 1.9%, unspecified 2.6% (2010 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 21.37% (male 38,851/female 37,765)<br>

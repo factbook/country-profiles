@@ -97,7 +97,7 @@ _noun_: Brazilian(s)<br>
 _adjective_: Brazilian<br>
 
 **Ethnic groups**<br>
-White 47.7%, mixed 43.1%, Black 7.6%, Asian 1.1%, Indigenous 0.4% (2010 est.)<br>
+mixed 45.3%, White 43.5%, Black 10.2%, Indigenous 0.6%, Asian 0.4% (2022 est.)<br>
 
 **Languages**<br>
 Portuguese (official and most widely spoken language); note - less common languages include Spanish (border areas and schools), German, Italian, Japanese, English, and a large number of minor Amerindian languages<br>

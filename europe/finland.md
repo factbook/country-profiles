@@ -335,11 +335,11 @@ _residency requirement for naturalization_: 6 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Sauli NIINISTO (since 1 March 2012)<br>
+_chief of state_: President Alexander STUBB (since 1 March 2024)<br>
 _head of government_: Prime Minister Petteri ORPO (since 20 June 2023)<br>
 _cabinet_: Council of State or Valtioneuvosto appointed by the president, responsible to Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); first round held on 28 January 2024 with a runoff on 11 February 2024 (next to be held by 28 January 2030); prime minister appointed by Parliament<br>
-_election results_: <em>2024:  </em>Alexander STUBB elected in the second round; percent of vote in the first round - Alexander STUBB (KoK) 27.2%, Pekka HAAVISTO (Vihr) 25.8%, Jussi HALLA-AHO (PS) 19.0%, Olli REHN (Kesk) 15.3%; percent of vote in second round - STUBB 51.6%, HAAVISTO 48.4%; note - STUBB will be inaugurated on 1 March 2024<br><em><br>2018:</em> Sauli NIINISTO reelected president; percent of vote - Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%<br>
+_election results_: <em>2024:  </em>Alexander STUBB elected in the second round; percent of vote in the first round - Alexander STUBB (KoK) 27.2%, Pekka HAAVISTO (Vihr) 25.8%, Jussi HALLA-AHO (PS) 19.0%, Olli REHN (Kesk) 15.3%; percent of vote in second round - STUBB 51.6%, HAAVISTO 48.4%<br><em><br>2018:</em> Sauli NIINISTO reelected president; percent of vote - Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms)<br>
@@ -702,7 +702,7 @@ approximately 30,000 active-duty personnel (22,000 Army; 5,000 Navy; 3,000 Air F
 <strong>note:</strong> active-duty figures include about 21,000 conscripts carrying out their obligated military service (approximately 17,000 Army; 3,500 Navy; 1,000 Air Force)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's inventory consists of a wide mix of mostly modern US, European, Israeli, South Korean, and domestically produced weapons systems; in recent years, the US has been the leading supplier of arms; the Finnish defense industry produces a variety of military equipment, including wheeled armored vehicles and naval vessels (2023)<br>
+the military's inventory consists of a wide mix of mostly modern US, European, Israeli, South Korean, and domestically produced weapons systems; in recent years, the US has been the leading supplier of arms; the Finnish defense industry produces a variety of military equipment, including wheeled armored vehicles and naval vessels; it also cooperates with other European countries and the US (2023)<br>
 
 **Military service age and obligation**<br>
 at age 18, all Finnish men are obligated to serve 5.5-12 months of service within a branch of the military or the Border Guard (length of service depends on the type of duty); women 18-29 may volunteer for service; there is also an option to perform non-military service which lasts for 8.5 or 11.5 months; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 50 for rank-and-file and 60 for non-commissioned and commissioned officers (2023)<br>

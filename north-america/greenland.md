@@ -80,11 +80,11 @@ _noun_: Greenlander(s)<br>
 _adjective_: Greenlandic<br>
 
 **Ethnic groups**<br>
-Greenlandic 89.1%, Danish 7.5%, other Nordic peoples 0.9%, and other 2.5% (2022 est.)<br>
+Greenlandic 88.1%, Danish 7.1%, Filipino 1.6%, other Nordic peoples 0.9%, and other 2.3% (2024 est.)<br>
 <strong>note:</strong> data represent population by country of birth<br>
 
 **Languages**<br>
-Greenlandic (West Greenlandic or Kalaallisut is the official language), Danish, English<br>
+Greenlandic (West Greenlandic or Kalaallisut is the official language; Tunumiisut (East Greenlandic) and Inuktun (Polar Inuit Greenlandic) are two other native languages, considered dialects of Kalaallisut, spoken by approximately 10% of Greenlanders), Danish, English<br>
 
 **Religions**<br>
 Evangelical Lutheran, traditional Inuit spiritual beliefs<br>

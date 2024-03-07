@@ -623,13 +623,13 @@ _major seaport(s)_: Honiara, Malloco Bay, Viru Harbor, Tulagi<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the Royal Solomon Islands Police Force is responsible for internal and external security and reports to the Ministry of Police, National Security, and Correctional Services (2024)<br>
+no regular military forces; the Royal Solomon Islands Police Force (RSIPF) is responsible for internal and external security and reports to the Ministry of Police, National Security, and Correctional Services (2024)<br>
 
 **Military equipment inventories and acquisitions**<br>
 China and Australia have provided equipment to the Police Force; the maritime branch operates patrol boats provided by Australia (2023)<br>
 
 **Military - note**<br>
-from 2003 to 2017, at the request of the Solomon Islands Governor-General, the Regional Assistance Mission to Solomon Islands (RAMSI), consisting of police, military, and civilian advisors drawn from 15 countries, assisted in reestablishing and maintaining civil and political order while reinforcing regional stability and security; since November 2021, the Australian-led Solomon Islands Assistance Force (SIAF) has supported the RSIPF to maintain stability; the SIAF includes police and military from Australia, New Zealand, Fiji, and Papua New Guinea; the Solomon Islands Government has also signed police and security agreements with China and a small Chinese police liaison team is embedded with the RSIPF (2024)<br>
+from 2003 to 2017, at the request of the Solomon Islands Governor-General, the Regional Assistance Mission to Solomon Islands (RAMSI), consisting of police, military, and civilian advisors drawn from 15 countries, assisted in reestablishing and maintaining civil and political order while reinforcing regional stability and security; since November 2021, the Australian-led Solomon Islands Assistance Force (SIAF) has supported the Royal Solomon Islands Police Force (RSIPF) to maintain stability; the SIAF includes police and military from Australia, New Zealand, Fiji, and Papua New Guinea; the Solomon Islands Government has also signed police and security agreements with China and a small Chinese police liaison team is embedded with the RSIPF (2024)<br>
 
 ## Transnational Issues
 

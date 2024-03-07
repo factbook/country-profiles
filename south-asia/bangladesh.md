@@ -89,7 +89,7 @@ _noun_: Bangladeshi(s)<br>
 _adjective_: Bangladeshi<br>
 
 **Ethnic groups**<br>
-Bengali at least 98.9%, other indigenous ethnic groups 1.1% (2011 est.)<br>
+Bengali at least 99%, other indigenous ethnic groups 1% (2022 est.)<br>
 <strong>note:</strong> Bangladesh's government recognizes 27 indigenous ethnic groups under the 2010 Cultural Institution for Small Anthropological Groups Act; other sources estimate there are about 75 ethnic groups; critics of the 2011 census claim that it underestimates the size of Bangladesh's ethnic population<br>
 
 **Languages**<br>
@@ -97,7 +97,7 @@ Bangla 98.8% (official, also known as Bengali), other 1.2% (2011 est.)<br>
 _major-language sample(s)_: <p><br>বিশ্ব ফ্যাক্টবুক, মৌলিক তথ্যের অপরিহার্য উৎস (Bangla)</p> <br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 88.4%, other 11.6% (2020 est.)<br>
+Muslim 91, Hindu 8%, other 1% (2022 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 25.38% (male 21,587,699/female 20,846,378)<br>
@@ -744,7 +744,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 <p><em>Bangladesh-Burma:</em> the border area has historically been an area of conflict and instability; militants, particularly ethnic armed groups (EAGs) from Burma, continue to operate in the border region and conduct illegal crossings, and both countries maintain considerable numbers of security personnel along the border; Burmese military forces actively conduct operations against EAGs; in 2022, Burmese artillery struck Bangladesh territory several times during military operations against Arakan Army rebels inside Rakhine; as of 2017, Burmese border authorities had constructed about 130 miles of border fencing and had planned to fence off the remainder of the border<br><br><em>Bangladesh-India:</em> Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 971,904 (Burma) (2023)<br>
+_refugees (country of origin)_: 975,350 (Burma) (2024)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2022)<br>
 _stateless persons_: 929,606 (2022)<br>
 
